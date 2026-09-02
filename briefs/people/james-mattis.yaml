@@ -1,0 +1,1775 @@
+schema: anomalica/brief/1
+brief_hash: d5e338a2b13045ca88ef58bbe78ed93cdbf3561c9eb1451e4385fd868f90db4a
+page:
+  kind: entity
+  node_id: 91d543c3-8e12-4e0b-a457-d668f5c54bba
+  node_type: person
+  title: James Mattis
+  slug: james-mattis
+  claim_count: 40
+  claim_count_total: 40
+generated:
+  graph_version: '2026-09-01T10:10:49.863545+00:00'
+size:
+  claims: 40
+  tokens_estimated: 11717
+  sized_against: 1050000
+publication:
+  status: published
+  note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
+    transcripts are gated elsewhere.
+belonging:
+  verified: 0
+  suspect_excluded: 0
+  unreviewed: 40
+related_nodes:
+  - node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+    title: Luis Elizondo
+    node_type: person
+    slug: luis-elizondo
+    shared_claims: 28
+  - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
+    title: Unidentified Anomalous Phenomena (UAP)
+    node_type: topic
+    slug: unidentified-anomalous-phenomena-uap
+    shared_claims: 6
+  - node_id: 5d06f518-dd64-4429-9026-b930e88660d2
+    title: Christopher K. Mellon
+    node_type: person
+    slug: christopher-k-mellon
+    shared_claims: 4
+  - node_id: 238b529a-af82-4168-84e1-0698bb5cdcf2
+    title: Brad Byers
+    node_type: person
+    slug: brad-byers
+    shared_claims: 3
+  - node_id: 816c219b-6372-49f6-9579-5eeabb9a7474
+    title: Donald Trump
+    node_type: person
+    slug: donald-trump
+    shared_claims: 3
+  - node_id: c2161b8f-ab11-449c-8521-174024cb0552
+    title: USA, Washington DC, Pentagon
+    node_type: place
+    slug: washington-dc-pentagon-usa
+    shared_claims: 3
+  - node_id: 99f08514-5471-4eaf-bce3-46c474a8d304
+    title: United States Department of Defense (DoD)
+    node_type: organisation
+    slug: united-states-department-of-defense-dod
+    shared_claims: 3
+  - node_id: 60c57b85-9054-44f3-a648-658f490bc297
+    title: Afghanistan, Kandahar
+    node_type: place
+    slug: kandahar-afghanistan
+    shared_claims: 2
+  - node_id: 47d98cb7-3dda-4514-9ae7-e83c6cc8692b
+    title: John Robert
+    node_type: person
+    slug: john-robert
+    shared_claims: 2
+  - node_id: 8f028f89-3e2b-4eea-9398-455f06390a5b
+    title: Light Armored Vehicle (LAV)
+    node_type: object
+    slug: light-armored-vehicle-lav
+    shared_claims: 2
+  - node_id: a4f4460d-d553-49a5-8a5e-6e8b5c928153
+    title: Luis Elizondo resignation letter to James Mattis (2017-10-04)
+    node_type: document
+    slug: luis-elizondo-resignation-letter-to-james-mattis-2017-10-04
+    shared_claims: 2
+  - node_id: 3272f7a3-e93a-4ce1-8158-039af3b1408f
+    title: Luis Elizondo resignation letter to Jim Mattis (2017-10-04)
+    node_type: document
+    slug: luis-elizondo-resignation-letter-to-jim-mattis-2017-10-04
+    shared_claims: 2
+  - node_id: f9c1f5e2-7a4b-4767-9954-a9d0f73bd908
+    title: Office of the Under Secretary of Defense for Intelligence (OUSDI)
+    node_type: organisation
+    slug: office-of-the-under-secretary-of-defense-for-intelligence-ousdi
+    shared_claims: 2
+  - node_id: f07d6499-16a2-49ae-8702-4cf6499cd6dc
+    title: Shari Smith
+    node_type: person
+    slug: shari-smith
+    shared_claims: 2
+  - node_id: fd990c9f-6153-4c11-a61d-41c66f6974b4
+    title: 25 mm Bushmaster gun
+    node_type: object
+    slug: 25-mm-bushmaster-gun
+    shared_claims: 1
+  - node_id: 6c1618c8-50db-42c9-860e-6d736ef280bf
+    title: Advanced Aerospace Threat Identification Program (AATIP)
+    node_type: project
+    slug: advanced-aerospace-threat-identification-program-aatip
+    shared_claims: 1
+  - node_id: 38b84d4a-96df-4684-bb46-f6f64f392add
+    title: Central Intelligence Agency (CIA)
+    node_type: organisation
+    slug: central-intelligence-agency-cia
+    shared_claims: 1
+  - node_id: c97d75c4-feb8-4d22-a0f0-a1da89b7007f
+    title: Cuba, Guantanamo Bay
+    node_type: place
+    slug: guantanamo-bay-cuba
+    shared_claims: 1
+  - node_id: 225c66f3-5c29-4780-819c-59b78a852e50
+    title: FA-18 Super Hornet
+    node_type: object
+    slug: fa-18-super-hornet
+    shared_claims: 1
+  - node_id: c1c15bd7-15de-4c43-a01e-a6c706992c54
+    title: Garry Reid
+    node_type: person
+    slug: garry-reid
+    shared_claims: 1
+  - node_id: 815f6510-2005-4a38-ab41-fa5495898dc4
+    title: Glen Beck
+    node_type: person
+    slug: glen-beck
+    shared_claims: 1
+  - node_id: 51d882d7-ae4b-4a91-bc4f-a2b900fb1196
+    title: Jay Stratton
+    node_type: person
+    slug: jay-stratton
+    shared_claims: 1
+  - node_id: e8f6a694-f016-411f-8294-d16ebc77991d
+    title: Joe Murgia
+    node_type: person
+    slug: joe-murgia
+    shared_claims: 1
+  - node_id: d047a520-092f-4fe5-935d-ef4eadd7c952
+    title: Legacy Program
+    node_type: project
+    slug: legacy-program
+    shared_claims: 1
+  - node_id: 2f2a8882-079b-429e-9aaf-37d1fdc53cee
+    title: Luis D. Elizondo III (father)
+    node_type: person
+    slug: luis-d-elizondo-iii-father
+    shared_claims: 1
+  - node_id: 65ab308a-47d6-4b14-a3ef-fec6cc7ac768
+    title: Michael Vickers
+    node_type: person
+    slug: michael-vickers
+    shared_claims: 1
+  - node_id: c0fe067b-fe5f-444b-9c18-dcc9084f388c
+    title: Operation Enduring Freedom
+    node_type: project
+    slug: operation-enduring-freedom
+    shared_claims: 1
+  - node_id: c2db41b8-bc09-456d-8887-4b79a7e9c757
+    title: The New York Times
+    node_type: organisation
+    slug: the-new-york-times
+    shared_claims: 1
+  - node_id: 403edb72-ebc4-4b89-8746-4cd19e089691
+    title: The Pentagon
+    node_type: organisation
+    slug: the-pentagon
+    shared_claims: 1
+  - node_id: 997facc0-2c81-4d74-9fc5-d819de1c1d47
+    title: The White House
+    node_type: organisation
+    slug: the-white-house
+    shared_claims: 1
+claims:
+  - claim_id: 0d306054-7b43-42f1-8ddc-f66319f089b1
+    claim_hash: 415ed5106b49241f358032d8a4a91f8e301c09dd40cdc8218811511ab64d7d38
+    content: Luis Elizondo told Jim Mattis in his resignation letter that there remains a vital need to ascertain capability
+      and intent of unusual aerial phenomena for the benefit of the armed forces and the nation.
+    original_excerpt: He expressed his frustration with the limitations placed on the program, telling Mr. Mattis that “there
+      remains a vital need to ascertain capability and intent of these phenomena for the benefit of the armed forces and the
+      nation.”
+    claim_type: opinion
+    attestation: second_hand
+    speaker:
+      node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+      title: Luis Elizondo
+    provenance_chain:
+      origin_kind: speaker
+      origin: Elizondo, Luis
+      relay:
+        - Elizondo resignation letter to Jim Mattis (2017-10-04)
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 3272f7a3-e93a-4ce1-8158-039af3b1408f
+        title: Luis Elizondo resignation letter to Jim Mattis (2017-10-04)
+        slug: luis-elizondo-resignation-letter-to-jim-mattis-2017-10-04
+      - node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+        title: Luis Elizondo
+        slug: luis-elizondo
+      - node_id: 91d543c3-8e12-4e0b-a457-d668f5c54bba
+        title: James Mattis
+        slug: james-mattis
+    date: '2017-10-04'
+    date_end: null
+    location_in_record: char:12284-12507
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 363bf706-cb4a-47f2-97b9-26c54926af2b
+      record_title: 'Glowing Auras and ‘Black Money’: The Pentagon’s Mysterious U.F.O. Program (Published 2017)'
+      record_date: '2017-12-16'
+      record_reference: https://www.nytimes.com/2017/12/16/us/politics/pentagon-program-ufo-harry-reid.html
+      content_hash: sha256:04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb640bd12c81
+      friendly_name: 2017-12-16-web-glowing-auras-and-black-money-the-pentagon-s-mysterious-u-f
+  - claim_id: 60521076-768a-4452-96e0-f18e2c70f4cd
+    claim_hash: 0dc513f6ecba103513c79c03cc9671930b4d96ca4340b08e316473e02e593745
+    content: In his resignation letter to Defense Secretary Jim Mattis, Luis Elizondo wrote 'Why aren't we spending more time
+      and effort on this issue?'
+    original_excerpt: “Why aren’t we spending more time and effort on this issue?” Mr. Elizondo wrote in a resignation letter
+      to Defense Secretary Jim Mattis.
+    claim_type: opinion
+    attestation: second_hand
+    speaker:
+      node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+      title: Luis Elizondo
+    provenance_chain:
+      origin_kind: speaker
+      origin: Elizondo, Luis
+      relay:
+        - Elizondo resignation letter to Jim Mattis (2017-10-04)
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 3272f7a3-e93a-4ce1-8158-039af3b1408f
+        title: Luis Elizondo resignation letter to Jim Mattis (2017-10-04)
+        slug: luis-elizondo-resignation-letter-to-jim-mattis-2017-10-04
+      - node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+        title: Luis Elizondo
+        slug: luis-elizondo
+      - node_id: 91d543c3-8e12-4e0b-a457-d668f5c54bba
+        title: James Mattis
+        slug: james-mattis
+    date: '2017-10-04'
+    date_end: null
+    location_in_record: char:5902-6030
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 363bf706-cb4a-47f2-97b9-26c54926af2b
+      record_title: 'Glowing Auras and ‘Black Money’: The Pentagon’s Mysterious U.F.O. Program (Published 2017)'
+      record_date: '2017-12-16'
+      record_reference: https://www.nytimes.com/2017/12/16/us/politics/pentagon-program-ufo-harry-reid.html
+      content_hash: sha256:04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb640bd12c81
+      friendly_name: 2017-12-16-web-glowing-auras-and-black-money-the-pentagon-s-mysterious-u-f
+  - claim_id: 4944fd17-2c01-4a8c-94d1-9b32589c8341
+    claim_hash: c3bffe7d30653caf0ecd7bd36d40e5ce3529dc15eaf48453ba29c25a7c7562b6
+    content: Luis Elizondo provided reporters, including Keith Kloor, with recent annual Defense Department performance evaluations
+      and his 2017-10-04 resignation letter to then-Defense Secretary James Mattis, which bears the apparent seal of the Office
+      of the Under Secretary of Defense.
+    original_excerpt: The documents he has provided include recent annual Defense Department performance evaluations and his
+      October 4, 2017 resignation letter to then-Defense Secretary James Mattis, which bears the apparent seal of the Office
+      of the Under Secretary of Defense.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+        title: Luis Elizondo
+        slug: luis-elizondo
+      - node_id: 91d543c3-8e12-4e0b-a457-d668f5c54bba
+        title: James Mattis
+        slug: james-mattis
+      - node_id: a4f4460d-d553-49a5-8a5e-6e8b5c928153
+        title: Luis Elizondo resignation letter to James Mattis (2017-10-04)
+        slug: luis-elizondo-resignation-letter-to-james-mattis-2017-10-04
+      - node_id: f9c1f5e2-7a4b-4767-9954-a9d0f73bd908
+        title: Office of the Under Secretary of Defense for Intelligence (OUSDI)
+        slug: office-of-the-under-secretary-of-defense-for-intelligence-ousdi
+    date: '2017-10-04'
+    date_end: null
+    location_in_record: char:17653-17901
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: b8671ec4-886d-48bb-87c4-f4c4e0baf0fe
+      record_title: The Media Loves This UFO Expert Who Says He Worked for an Obscure Pentagon Program. Did He?
+      record_date: '2019-06-01'
+      record_reference: https://theintercept.com/2019/06/01/ufo-unidentified-history-channel-luis-elizondo-pentagon/
+      content_hash: sha256:f6e5fb77226638f01db033f2f157e830aba705e5fbf996540cdd0cf29e0cff2c
+      friendly_name: 2019-06-01-web-the-media-loves-this-ufo-expert-who-says-he-worked-for-an
+  - claim_id: 2e38bc60-357d-4b65-bdf9-4929a62f2dcf
+    claim_hash: 7a458a4188d45334ae5d53b84c9513ff61bdba0368ae86dddbe2474d710069fb
+    content: In a letter to Jim Mattis, his former boss in Afghanistan and then Defence Secretary, Luis Elizondo asked why
+      more time and effort was not being spent on the Unidentified Aerial Phenomena (UAP) issue.
+    original_excerpt: '''Why aren''t we spending more time and effort on this issue?'' Elizondo complained in a letter to
+      his former boss in Afghanistan, Jim Mattis, now Defence Secretary.'
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+      title: Luis Elizondo
+    provenance_chain:
+      origin_kind: speaker
+      origin: Luis Elizondo
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
+        title: Unidentified Anomalous Phenomena (UAP)
+        slug: unidentified-anomalous-phenomena-uap
+      - node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+        title: Luis Elizondo
+        slug: luis-elizondo
+      - node_id: 91d543c3-8e12-4e0b-a457-d668f5c54bba
+        title: James Mattis
+        slug: james-mattis
+    date: null
+    date_end: null
+    location_in_record: ch21:12990-13143
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 2165b97e-3fed-4a73-b6f8-cfb9b89e6136
+    claim_hash: 78506fdf54eb8f82f495b0dca40733bc980a37b9e5916c0e5139959960a9b030
+    content: Joe Murgia transcribed a Glenn Beck interview with Christopher Mellon and Luis Elizondo, published 2020-05-09,
+      in which they stated F/A-18 pilots had testified about the Tic Tac UFO before "very senior DoD staff" in Secretary Jim
+      Mattis's suite.
+    original_excerpt: 'Joe Murgia transcript of Glenn Beck interview 8 May 2020 with Christopher Mellon and Lue Elizondo,
+      ''Transcript: Mellon & Elizondo on Beck: F-18 Pilots Testified About Tic Tac UFO Before "Very Senior DoD Staff" In Secretary
+      Mattis'' Suite'', 9 May 2020.'
+    claim_type: testimony
+    attestation: third_hand
+    speaker:
+      node_id: 5d06f518-dd64-4429-9026-b930e88660d2
+      title: Christopher K. Mellon
+    provenance_chain:
+      origin_kind: named
+      origin: Christopher Mellon
+      relay:
+        - Glenn Beck interview
+        - Joe Murgia transcript
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 225c66f3-5c29-4780-819c-59b78a852e50
+        title: FA-18 Super Hornet
+        slug: fa-18-super-hornet
+      - node_id: 445ec00e-0643-4989-a43a-783585509af9
+        title: Unidentified Flying Object (UFO) Joe (website)
+        slug: unidentified-flying-object-ufo-joe-website
+      - node_id: 5d06f518-dd64-4429-9026-b930e88660d2
+        title: Christopher K. Mellon
+        slug: christopher-k-mellon
+      - node_id: 815f6510-2005-4a38-ab41-fa5495898dc4
+        title: Glen Beck
+        slug: glen-beck
+      - node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+        title: Luis Elizondo
+        slug: luis-elizondo
+      - node_id: 91d543c3-8e12-4e0b-a457-d668f5c54bba
+        title: James Mattis
+        slug: james-mattis
+      - node_id: e8f6a694-f016-411f-8294-d16ebc77991d
+        title: Joe Murgia
+        slug: joe-murgia
+    date: '2020-05-09'
+    date_end: null
+    location_in_record: ch34:52608-52853
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: dae923e5-e17c-4ed2-890c-a7aacda37723
+    claim_hash: a6a186226153bd5a89118d0a49bee9f502f0e492506b9d793d934893b8ac6c58
+    content: Luis Elizondo considered seeking a letter from the Secretary of Defense to compel the aerospace firm to grant
+      access to the nonhuman-origin materials.
+    original_excerpt: I was beginning to wonder if we could go directly to the secretary of defense... If we could get a letter
+      from the SECDEF, that should trump anyone in the Air Force from trying to stymie our efforts.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+      title: Luis Elizondo
+    provenance_chain:
+      origin_kind: speaker
+      origin: Lue Elizondo
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 32b98a17-be55-4b0f-8e10-9d377e1e8b33
+        title: United States Air Force (USAF)
+        slug: united-states-air-force-usaf
+      - node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+        title: Luis Elizondo
+        slug: luis-elizondo
+      - node_id: 91d543c3-8e12-4e0b-a457-d668f5c54bba
+        title: James Mattis
+        slug: james-mattis
+    date: null
+    date_end: null
+    location_in_record: ch23:20259-20514
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  - claim_id: 2503cc17-3877-44e6-a458-76c493df4d7b
+    claim_hash: e99b6b3a04d1e01d638fed548ee347c60617a9db30fb25c0005abfd78308b1e9
+    content: Luis Elizondo directed the Guantanamo Bay portfolio and, through that role, had routine access to the Secretary
+      of Defense's senior staff but not to the secretary himself or his direct minders.
+    original_excerpt: Given my work directing the Guantanamo Bay portfolio, I had routine access to the secretary's senior
+      staff but not the secretary himself or his direct minders.
+    claim_type: administrative
+    attestation: first_hand
+    speaker:
+      node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+      title: Luis Elizondo
+    provenance_chain:
+      origin_kind: speaker
+      origin: Lue Elizondo
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+        title: Luis Elizondo
+        slug: luis-elizondo
+      - node_id: 91d543c3-8e12-4e0b-a457-d668f5c54bba
+        title: James Mattis
+        slug: james-mattis
+      - node_id: c97d75c4-feb8-4d22-a0f0-a1da89b7007f
+        title: Cuba, Guantanamo Bay
+        slug: guantanamo-bay-cuba
+    date: null
+    date_end: null
+    location_in_record: ch23:20566-20717
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  - claim_id: 5be3b332-4dcb-4eed-ac71-1327179dbfd5
+    claim_hash: dcf4694a04410c519b0efa66f191cc85c462b6acd3534d765840a17b62a67ce6
+    content: James Mattis was referred to within the Pentagon as SECDEF, the Secretary of Defense.
+    original_excerpt: We needed to get to the Secretary of Defense. The man everyone in the Pentagon referred to as SECDEF.
+    claim_type: administrative
+    attestation: first_hand
+    speaker:
+      node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+      title: Luis Elizondo
+    provenance_chain:
+      origin_kind: speaker
+      origin: Lue Elizondo
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 91d543c3-8e12-4e0b-a457-d668f5c54bba
+        title: James Mattis
+        slug: james-mattis
+      - node_id: c2161b8f-ab11-449c-8521-174024cb0552
+        title: USA, Washington DC, Pentagon
+        slug: washington-dc-pentagon-usa
+    date: null
+    date_end: null
+    location_in_record: ch25:18676-18770
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  - claim_id: 4c2e4ddc-80d9-465d-a6bf-c3129097295e
+    claim_hash: 92e7131505ca8bfc66c58eea6ed7919eb110badfb4b825025f4345c74d048e1b
+    content: Luis Elizondo considers James Mattis one of only five people on the planet he would follow into war.
+    original_excerpt: There are only five people on the planet who I’d suit up for and follow into war today.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+      title: Luis Elizondo
+    provenance_chain:
+      origin_kind: speaker
+      origin: Lue Elizondo
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+        title: Luis Elizondo
+        slug: luis-elizondo
+      - node_id: 91d543c3-8e12-4e0b-a457-d668f5c54bba
+        title: James Mattis
+        slug: james-mattis
+    date: null
+    date_end: null
+    location_in_record: ch25:18884-18965
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  - claim_id: 6846ce3d-ae5d-437c-b11d-85d04041b6d3
+    claim_hash: 0750d4ba1e18cdfb5f1b9d401a9aedd8f89f6c2a944e58cd83dd44757ca58694
+    content: James Mattis was nicknamed "Mad Dog" and, by his friends, "Chaos".
+    original_excerpt: One of those individuals is the new secretary of defense, James "Mad Dog" Mattis, or, as his friends
+      called him, "Chaos."
+    claim_type: administrative
+    attestation: first_hand
+    speaker:
+      node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+      title: Luis Elizondo
+    provenance_chain:
+      origin_kind: speaker
+      origin: Lue Elizondo
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 91d543c3-8e12-4e0b-a457-d668f5c54bba
+        title: James Mattis
+        slug: james-mattis
+    date: null
+    date_end: null
+    location_in_record: ch25:18972-19086
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  - claim_id: 9c54a59d-a8e5-478b-94fe-5c7b0582ca03
+    claim_hash: 0cbc86718469e35abc337bca26cb746ece8fa26d2c2554a6d6b5722f8838253b
+    content: Luis Elizondo first met James Mattis in 2001 in Kandahar, Afghanistan.
+    original_excerpt: I’d first met him in 2001 in Kandahar, Afghanistan.
+    claim_type: administrative
+    attestation: first_hand
+    speaker:
+      node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+      title: Luis Elizondo
+    provenance_chain:
+      origin_kind: speaker
+      origin: Lue Elizondo
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 60c57b85-9054-44f3-a648-658f490bc297
+        title: Afghanistan, Kandahar
+        slug: kandahar-afghanistan
+      - node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+        title: Luis Elizondo
+        slug: luis-elizondo
+      - node_id: 91d543c3-8e12-4e0b-a457-d668f5c54bba
+        title: James Mattis
+        slug: james-mattis
+    date: '2001'
+    date_end: null
+    location_in_record: ch25:19219-19258
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  - claim_id: 2001f5b3-7159-4a54-83ec-60ea3410e6a0
+    claim_hash: c9b7536b7726dd70e6d1918b928370c41f44e50b0ceee48c23bea1ad8129678b
+    content: Luis Elizondo introduced James Mattis to John Robert, who became one of Mattis's key aides on the ground.
+    original_excerpt: Shortly after, I would introduce Mattis to my friend John Robert, who would become one of Mattis’s go-to
+      guys on the ground.
+    claim_type: administrative
+    attestation: first_hand
+    speaker:
+      node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+      title: Luis Elizondo
+    provenance_chain:
+      origin_kind: speaker
+      origin: Lue Elizondo
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 47d98cb7-3dda-4514-9ae7-e83c6cc8692b
+        title: John Robert
+        slug: john-robert
+      - node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+        title: Luis Elizondo
+        slug: luis-elizondo
+      - node_id: 91d543c3-8e12-4e0b-a457-d668f5c54bba
+        title: James Mattis
+        slug: james-mattis
+    date: null
+    date_end: null
+    location_in_record: ch25:19271-19388
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  - claim_id: 5897c7dd-68d4-44fd-9974-ac57996f0241
+    claim_hash: 2efde10f5440e2e8c4658d4c0b97353c6d932a1e2395feb3233af7f2cccb3300
+    content: Luis Elizondo became one of James Mattis's off-the-books intelligence advisors.
+    original_excerpt: I became one of Mattis’s off-the-books intelligence advisors.
+    claim_type: administrative
+    attestation: first_hand
+    speaker:
+      node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+      title: Luis Elizondo
+    provenance_chain:
+      origin_kind: speaker
+      origin: Lue Elizondo
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+        title: Luis Elizondo
+        slug: luis-elizondo
+      - node_id: 91d543c3-8e12-4e0b-a457-d668f5c54bba
+        title: James Mattis
+        slug: james-mattis
+    date: null
+    date_end: null
+    location_in_record: ch25:19526-19578
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  - claim_id: 2bb6ab9d-ab1e-4992-b54b-3e2cba1af180
+    claim_hash: 7c8f3373b8605eb6ebb9bf8018f101aa2bf20f20ef5ef4dfeff0c6ab32fa1e78
+    content: Luis Elizondo, alongside John Robert, worked to ensure James Mattis had the right information to make decisions
+      during his role in Afghanistan.
+    original_excerpt: My job, with the help of John, was to make sure he had the right information to make the right decision.
+    claim_type: administrative
+    attestation: first_hand
+    speaker:
+      node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+      title: Luis Elizondo
+    provenance_chain:
+      origin_kind: speaker
+      origin: Lue Elizondo
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 47d98cb7-3dda-4514-9ae7-e83c6cc8692b
+        title: John Robert
+        slug: john-robert
+      - node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+        title: Luis Elizondo
+        slug: luis-elizondo
+      - node_id: 91d543c3-8e12-4e0b-a457-d668f5c54bba
+        title: James Mattis
+        slug: james-mattis
+    date: null
+    date_end: null
+    location_in_record: ch25:19643-19738
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  - claim_id: f7229929-fc10-4c1a-a970-37b13c2c1f87
+    claim_hash: 7c58c14cb60780d81b34efc626dfd4ebd001c7a098482d004767f876314eb80b
+    content: James Mattis commanded troops during a firefight in which his convoy of amphibious Light Armored Vehicles (LAV)
+      responded to rescue pinned-down soldiers.
+    original_excerpt: Another time, some of his men were pinned down hard in a firefight outside the perimeter of the airfield.
+      With ammunition low, they radioed for support, but no one nearby could assist. By chance, a small convoy of amphibious
+      Light Armored Vehicles (LAV) happened to be nearby. Mattis led the convoy.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+      title: Luis Elizondo
+    provenance_chain:
+      origin_kind: speaker
+      origin: Lue Elizondo
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 8f028f89-3e2b-4eea-9398-455f06390a5b
+        title: Light Armored Vehicle (LAV)
+        slug: light-armored-vehicle-lav
+      - node_id: 91d543c3-8e12-4e0b-a457-d668f5c54bba
+        title: James Mattis
+        slug: james-mattis
+    date: null
+    date_end: null
+    location_in_record: ch25:20467-20759
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  - claim_id: 852c0600-9a5e-4cbc-8e7e-b46a5d0537c1
+    claim_hash: 45746bad31b7976629c7cfb746520c5e30f69c9ab10046269566deac572b1299
+    content: The Light Armored Vehicle (LAV) convoy led by James Mattis was equipped with a 25 mm Bushmaster gun.
+    original_excerpt: Equipped with the 25 mm Bushmaster gun, that *thump-thump-thump* meant the enemy was having a very bad
+      day.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+      title: Luis Elizondo
+    provenance_chain:
+      origin_kind: speaker
+      origin: Lue Elizondo
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 8f028f89-3e2b-4eea-9398-455f06390a5b
+        title: Light Armored Vehicle (LAV)
+        slug: light-armored-vehicle-lav
+      - node_id: 91d543c3-8e12-4e0b-a457-d668f5c54bba
+        title: James Mattis
+        slug: james-mattis
+      - node_id: fd990c9f-6153-4c11-a61d-41c66f6974b4
+        title: 25 mm Bushmaster gun
+        slug: 25-mm-bushmaster-gun
+    date: null
+    date_end: null
+    location_in_record: ch25:20961-21064
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  - claim_id: d1feeb24-251c-488a-b70a-9d9e59b471c2
+    claim_hash: 99fead46ba5b4b6d8504047ed8be590a4156e264216105eae92fdd100dc6b5f9
+    content: Lue Elizondo credits James Mattis with saving many lives, including his own.
+    original_excerpt: I give him credit for saving many lives, including mine.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+      title: Luis Elizondo
+    provenance_chain:
+      origin_kind: speaker
+      origin: Lue Elizondo
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+        title: Luis Elizondo
+        slug: luis-elizondo
+      - node_id: 91d543c3-8e12-4e0b-a457-d668f5c54bba
+        title: James Mattis
+        slug: james-mattis
+    date: null
+    date_end: null
+    location_in_record: ch25:21486-21537
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  - claim_id: 946320f6-fe91-4fa3-bb3f-b34b03be8cf1
+    claim_hash: 811a8172b4d9d2b5d909e316958b9ee96dabfd6af90cda538a955e8b641d6914
+    content: James Mattis accepted the position of Secretary of Defense in the incoming Trump administration.
+    original_excerpt: I was working in the Pentagon building with Mad Dog himself, who had accepted the position of secretary
+      of defense in the incoming Trump administration.
+    claim_type: administrative
+    attestation: first_hand
+    speaker:
+      node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+      title: Luis Elizondo
+    provenance_chain:
+      origin_kind: speaker
+      origin: Lue Elizondo
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 403edb72-ebc4-4b89-8746-4cd19e089691
+        title: The Pentagon
+        slug: the-pentagon
+      - node_id: 816c219b-6372-49f6-9579-5eeabb9a7474
+        title: Donald Trump
+        slug: donald-trump
+      - node_id: 91d543c3-8e12-4e0b-a457-d668f5c54bba
+        title: James Mattis
+        slug: james-mattis
+    date: null
+    date_end: null
+    location_in_record: ch25:21603-21740
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  - claim_id: c06a563c-5255-4bb5-a052-3e81ea22a44c
+    claim_hash: 1fe334348c7f7fc653c2948bcde6c6f8be5787b17fc1c0baf4f71c7542765b52
+    content: Lue Elizondo sought James Mattis's clarity, as Secretary of Defense, on Unidentified Aerial Phenomena (UAP) incursions
+      and range safety issues.
+    original_excerpt: I wanted SECDEF’s clarity going forward on incursions and range safety issues.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+      title: Luis Elizondo
+    provenance_chain:
+      origin_kind: speaker
+      origin: Lue Elizondo
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
+        title: Unidentified Anomalous Phenomena (UAP)
+        slug: unidentified-anomalous-phenomena-uap
+      - node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+        title: Luis Elizondo
+        slug: luis-elizondo
+      - node_id: 91d543c3-8e12-4e0b-a457-d668f5c54bba
+        title: James Mattis
+        slug: james-mattis
+    date: null
+    date_end: null
+    location_in_record: ch25:21957-22028
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  - claim_id: 87872273-febe-43e4-93c2-b0827b7bb85d
+    claim_hash: 12c83e60bf6e382ead034c91c33c230898525904310400626040c0a3bef4cd02
+    content: Lue Elizondo wanted a letter from James Mattis to secure access to the Legacy Program's UAP materials.
+    original_excerpt: I wanted a letter to secure access to the Legacy Program’s UAP materials.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+      title: Luis Elizondo
+    provenance_chain:
+      origin_kind: speaker
+      origin: Lue Elizondo
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
+        title: Unidentified Anomalous Phenomena (UAP)
+        slug: unidentified-anomalous-phenomena-uap
+      - node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+        title: Luis Elizondo
+        slug: luis-elizondo
+      - node_id: 91d543c3-8e12-4e0b-a457-d668f5c54bba
+        title: James Mattis
+        slug: james-mattis
+      - node_id: d047a520-092f-4fe5-935d-ef4eadd7c952
+        title: Legacy Program
+        slug: legacy-program
+    date: null
+    date_end: null
+    location_in_record: ch25:22036-22099
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  - claim_id: 3f4f715c-cf6c-4985-b5ee-bd47689c9b54
+    claim_hash: 6e64dde223202dfcaadd12528c19fd959f9f07f691f4c01efce55e99bee977c5
+    content: Lue Elizondo believed that going around the chain of command by personally calling James Mattis for a meeting
+      would have been insubordinate given James Mattis's focus on strengthening chain-of-command authority during the Trump
+      administration.
+    original_excerpt: Under no circumstances could I buck the chain of command and use my past relationship with the general
+      to personally schedule a briefing with him. To do so would be an insubordinate act, an indictment of his chain of command,
+      and an insult to the institution and the general himself. It’s important to understand that Mattis was very focused
+      on strengthening the authority and recognition of the chain of command during the Trump administration
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+      title: Luis Elizondo
+    provenance_chain:
+      origin_kind: speaker
+      origin: Lue Elizondo
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 816c219b-6372-49f6-9579-5eeabb9a7474
+        title: Donald Trump
+        slug: donald-trump
+      - node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+        title: Luis Elizondo
+        slug: luis-elizondo
+      - node_id: 91d543c3-8e12-4e0b-a457-d668f5c54bba
+        title: James Mattis
+        slug: james-mattis
+    date: null
+    date_end: null
+    location_in_record: ch25:22515-22945
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  - claim_id: 93270cf4-8b2b-4173-a414-496de12b86b5
+    claim_hash: 40f21aee718f410cc42e5e9b761bccc534db985cafa33b6454ff4319eb5727b3
+    content: A senior White House advisor named Brad Byers and a CIA liaison officer referred to as Shari Smith were deferred
+      to by a Secretary of Defense (SECDEF) liaison handling Luis Elizondo's efforts to brief James Mattis.
+    original_excerpt: The liaison had a hard time grasping the enormity of the issue and quickly deferred to two colleagues
+      of his, a senior White House advisor named Brad Byers, and a CIA liaison officer I will call Shari Smith.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+      title: Luis Elizondo
+    provenance_chain:
+      origin_kind: speaker
+      origin: Lue Elizondo
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 238b529a-af82-4168-84e1-0698bb5cdcf2
+        title: Brad Byers
+        slug: brad-byers
+      - node_id: 38b84d4a-96df-4684-bb46-f6f64f392add
+        title: Central Intelligence Agency (CIA)
+        slug: central-intelligence-agency-cia
+      - node_id: 91d543c3-8e12-4e0b-a457-d668f5c54bba
+        title: James Mattis
+        slug: james-mattis
+      - node_id: 997facc0-2c81-4d74-9fc5-d819de1c1d47
+        title: The White House
+        slug: the-white-house
+      - node_id: f07d6499-16a2-49ae-8702-4cf6499cd6dc
+        title: Shari Smith
+        slug: shari-smith
+    date: null
+    date_end: null
+    location_in_record: ch28:1260-1461
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  - claim_id: 79060c59-456c-4d72-a73f-9570fe90e969
+    claim_hash: ff50db5d688d2d77ea7360ca19c94fe3e55ebf8a438f323b462920c13846f511
+    content: Nothing about the Unidentified Aerial Phenomena (UAP) briefing effort reached James Mattis despite the extensive
+      information gathering.
+    original_excerpt: Yet, after all that, nothing got to Mattis.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+      title: Luis Elizondo
+    provenance_chain:
+      origin_kind: speaker
+      origin: Lue Elizondo
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
+        title: Unidentified Anomalous Phenomena (UAP)
+        slug: unidentified-anomalous-phenomena-uap
+      - node_id: 91d543c3-8e12-4e0b-a457-d668f5c54bba
+        title: James Mattis
+        slug: james-mattis
+    date: null
+    date_end: null
+    location_in_record: ch28:1686-1722
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  - claim_id: 8d38261f-f9bd-4082-8855-60dfb2c1b6a1
+    claim_hash: 30ef3dbd79513ac6b0b8c867b662334e67e29e843b200c19513cefcf54728b56
+    content: Brad Byers was hesitant to brief James Mattis until the Office of the Undersecretary of Defense for Intelligence
+      (OUSD(I)) had a permanent, Senate-confirmed appointee, since the position had been filled only by acting or temporary
+      personnel after Michael Vickers departed.
+    original_excerpt: Brad was hesitant to brief Mattis until my office, OUSD(I), had a permanent appointment. Since Michael
+      Vickers had left his position, the USD(I) was filled with either "acting" or temporary people. The position required
+      a Senate-confirmed person and so the Pentagon was still searching for the right individual.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+      title: Luis Elizondo
+    provenance_chain:
+      origin_kind: speaker
+      origin: Lue Elizondo
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 238b529a-af82-4168-84e1-0698bb5cdcf2
+        title: Brad Byers
+        slug: brad-byers
+      - node_id: 65ab308a-47d6-4b14-a3ef-fec6cc7ac768
+        title: Michael Vickers
+        slug: michael-vickers
+      - node_id: 91d543c3-8e12-4e0b-a457-d668f5c54bba
+        title: James Mattis
+        slug: james-mattis
+      - node_id: 99f08514-5471-4eaf-bce3-46c474a8d304
+        title: United States Department of Defense (DoD)
+        slug: united-states-department-of-defense-dod
+      - node_id: f9c1f5e2-7a4b-4767-9954-a9d0f73bd908
+        title: Office of the Under Secretary of Defense for Intelligence (OUSDI)
+        slug: office-of-the-under-secretary-of-defense-for-intelligence-ousdi
+    date: null
+    date_end: null
+    location_in_record: ch28:1836-2136
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  - claim_id: 9d946fa3-8df1-42dd-9ea6-ac3c66f482b5
+    claim_hash: 3c45c842ab426b1fe8ee7bb9c0b5ff821446babe607293805a4a05ef0ef03b2f
+    content: Luis Elizondo wanted to save James Mattis.
+    original_excerpt: I wanted to save Mattis.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+      title: Luis Elizondo
+    provenance_chain:
+      origin_kind: speaker
+      origin: Luis Elizondo
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+        title: Luis Elizondo
+        slug: luis-elizondo
+      - node_id: 91d543c3-8e12-4e0b-a457-d668f5c54bba
+        title: James Mattis
+        slug: james-mattis
+    date: null
+    date_end: null
+    location_in_record: ch28:20253-20270
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  - claim_id: 9aabac02-284f-4fcb-8389-b107a40b5999
+    claim_hash: d2074ac4a92dc9201218d58592eca50697cef2466bd6a2caab8fa69da9769d0d
+    content: Luis Elizondo previously served in Kandahar, Afghanistan, with James Mattis during Operation Enduring Freedom,
+      when Mattis was Marine Expeditionary Unit Commander.
+    original_excerpt: I then referenced my work in Operation Enduring Freedom in Afghanistan... "I was in Kandahar with the
+      secretary when he was Marine Expeditionary Unit Commander."
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+      title: Luis Elizondo
+    provenance_chain:
+      origin_kind: speaker
+      origin: Lue Elizondo
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 60c57b85-9054-44f3-a648-658f490bc297
+        title: Afghanistan, Kandahar
+        slug: kandahar-afghanistan
+      - node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+        title: Luis Elizondo
+        slug: luis-elizondo
+      - node_id: 91d543c3-8e12-4e0b-a457-d668f5c54bba
+        title: James Mattis
+        slug: james-mattis
+      - node_id: c0fe067b-fe5f-444b-9c18-dcc9084f388c
+        title: Operation Enduring Freedom
+        slug: operation-enduring-freedom
+    date: null
+    date_end: null
+    location_in_record: ch28:2548-2714
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  - claim_id: b11dae0b-bdb9-4a8f-aa4e-6e5e002c3266
+    claim_hash: e64a78e1af614018e43f749e986a28b859ca43ffc8f589e541f750a8c44764fc
+    content: Luis Elizondo considers James Mattis to be a man who wants more information rather than less.
+    original_excerpt: my experience with him has taught me that he is a man who wants more information, not less.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+      title: Luis Elizondo
+    provenance_chain:
+      origin_kind: speaker
+      origin: Lue Elizondo
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+        title: Luis Elizondo
+        slug: luis-elizondo
+      - node_id: 91d543c3-8e12-4e0b-a457-d668f5c54bba
+        title: James Mattis
+        slug: james-mattis
+    date: null
+    date_end: null
+    location_in_record: ch28:2834-2920
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  - claim_id: 2c49e05a-891c-4c3c-820f-2e27e7b1ca51
+    claim_hash: 9a68534f9f4aa07938711cb05ee21d4fdf1f137e9d1912819a4b953820b83ed9
+    content: Brad Byers and Shari Smith did not want to put James Mattis in a position where the press could ask him directly
+      whether he had been briefed on the reality of UAP.
+    original_excerpt: 'My chief contacts, Shari and Brad, did not want to put Mattis in an impossible position. If the press
+      got wind of these meetings, they could ask Mattis directly in an open press briefing: "Mr. Secretary, is it true you
+      were recently briefed to the reality of UAP and the dangers they may pose to our pilots?"'
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+      title: Luis Elizondo
+    provenance_chain:
+      origin_kind: speaker
+      origin: Lue Elizondo
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 238b529a-af82-4168-84e1-0698bb5cdcf2
+        title: Brad Byers
+        slug: brad-byers
+      - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
+        title: Unidentified Anomalous Phenomena (UAP)
+        slug: unidentified-anomalous-phenomena-uap
+      - node_id: 91d543c3-8e12-4e0b-a457-d668f5c54bba
+        title: James Mattis
+        slug: james-mattis
+      - node_id: f07d6499-16a2-49ae-8702-4cf6499cd6dc
+        title: Shari Smith
+        slug: shari-smith
+    date: null
+    date_end: null
+    location_in_record: ch28:3011-3311
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  - claim_id: bd8add8d-8ec2-4651-89ef-0484ca06d58c
+    claim_hash: d6c9155f499def8bd0ddbc55347d0a4e62238596d6758e8d158244df56619664
+    content: Luis Elizondo gave permission to Christopher Mellon to share his name with senior-level officials who could help
+      Jay Stratton and Luis Elizondo reach James Mattis.
+    original_excerpt: A week prior, I had given permission to Chris Mellon to share my name with some senior-level officials
+      he knew who would be in a position to help Jay and me get to Mattis appropriately.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+      title: Luis Elizondo
+    provenance_chain:
+      origin_kind: speaker
+      origin: Lue Elizondo
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 51d882d7-ae4b-4a91-bc4f-a2b900fb1196
+        title: Jay Stratton
+        slug: jay-stratton
+      - node_id: 5d06f518-dd64-4429-9026-b930e88660d2
+        title: Christopher K. Mellon
+        slug: christopher-k-mellon
+      - node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+        title: Luis Elizondo
+        slug: luis-elizondo
+      - node_id: 91d543c3-8e12-4e0b-a457-d668f5c54bba
+        title: James Mattis
+        slug: james-mattis
+    date: null
+    date_end: null
+    location_in_record: ch28:654-825
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  - claim_id: 0e4e852f-1fe6-4a64-bf2c-50d96e6b2358
+    claim_hash: 3eb40cdfb373fe00c3bd3eee952ca1c8c279849adaec273a64ab3121324c6785
+    content: On 2017-10-04, Luis Elizondo submitted his formal resignation letter, addressed to James Mattis, by handing a
+      paper copy to a colleague to deliver to the secretary's office.
+    original_excerpt: That afternoon, I submitted my formal resignation letter—handing a paper copy inside an envelope to
+      a colleague to deliver to the secretary’s office.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+      title: Luis Elizondo
+    provenance_chain:
+      origin_kind: speaker
+      origin: Lue Elizondo
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+        title: Luis Elizondo
+        slug: luis-elizondo
+      - node_id: 91d543c3-8e12-4e0b-a457-d668f5c54bba
+        title: James Mattis
+        slug: james-mattis
+    date: '2017-10-04'
+    date_end: null
+    location_in_record: ch29:1277-1419
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  - claim_id: 030b95ac-99f2-4d21-ac06-d32915135efd
+    claim_hash: 68ef4d2a6c8040ba5ffe8b4c0ec4cd09219d4cfb5126e2dd6e3e7ebe4de54cc1
+    content: At the Pentagon's Christmas party, aides told Secretary of Defense James Mattis that the New York Times was running
+      a front-page Sunday story reporting a secret Department of Defense program investigating UAP and asking why Luis Elizondo
+      had resigned.
+    original_excerpt: “Sir, the *New York Times* is running a front-page story in the Sunday paper saying that we have a secret
+      program investigating UAP. They are asking why Lue resigned.”
+    claim_type: hearsay
+    attestation: second_hand
+    speaker:
+      node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+      title: Luis Elizondo
+    provenance_chain:
+      origin_kind: anonymous
+      origin: aides to Secretary of Defense James Mattis at the Pentagon Christmas party
+      relay:
+        - a person who told Luis Elizondo of the conversation
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
+        title: Unidentified Anomalous Phenomena (UAP)
+        slug: unidentified-anomalous-phenomena-uap
+      - node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+        title: Luis Elizondo
+        slug: luis-elizondo
+      - node_id: 91d543c3-8e12-4e0b-a457-d668f5c54bba
+        title: James Mattis
+        slug: james-mattis
+      - node_id: 99f08514-5471-4eaf-bce3-46c474a8d304
+        title: United States Department of Defense (DoD)
+        slug: united-states-department-of-defense-dod
+      - node_id: c2db41b8-bc09-456d-8887-4b79a7e9c757
+        title: The New York Times
+        slug: the-new-york-times
+    date: null
+    date_end: null
+    location_in_record: ch29:19049-19205
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  - claim_id: adc68570-9e06-4d89-8c57-d4d79070ef92
+    claim_hash: 9b3c7958d6884d5193483079ab73fbceaa62a9c6bb37a13d12dffb60cd3d4a69
+    content: When told that Luis Elizondo had resigned two months earlier, James Mattis was surprised, not having previously
+      known of the resignation.
+    original_excerpt: Mattis was taken aback. “When did Lue resign?” ... “Uh, two months ago, sir.”
+    claim_type: hearsay
+    attestation: second_hand
+    speaker:
+      node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+      title: Luis Elizondo
+    provenance_chain:
+      origin_kind: anonymous
+      origin: aides to Secretary of Defense James Mattis at the Pentagon Christmas party
+      relay:
+        - a person who told Luis Elizondo of the conversation
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+        title: Luis Elizondo
+        slug: luis-elizondo
+      - node_id: 91d543c3-8e12-4e0b-a457-d668f5c54bba
+        title: James Mattis
+        slug: james-mattis
+    date: null
+    date_end: null
+    location_in_record: ch29:19303-19372
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  - claim_id: 0d1b40fa-2cfc-4abd-afd0-a9007250508d
+    claim_hash: bb61cf2cbef38ccca4f63d054c2958af075d9f1cf0589dd58a01682517761b41
+    content: Garry Reid had withheld Luis Elizondo's resignation from James Mattis, hoping he would never need to reveal Elizondo's
+      departure to him.
+    original_excerpt: Apparently, Garry Reid had swept my resignation under the rug, hoping he would never need to reveal
+      my departure to Mattis.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+      title: Luis Elizondo
+    provenance_chain:
+      origin_kind: speaker
+      origin: Lue Elizondo
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+        title: Luis Elizondo
+        slug: luis-elizondo
+      - node_id: 91d543c3-8e12-4e0b-a457-d668f5c54bba
+        title: James Mattis
+        slug: james-mattis
+      - node_id: c1c15bd7-15de-4c43-a01e-a6c706992c54
+        title: Garry Reid
+        slug: garry-reid
+    date: null
+    date_end: null
+    location_in_record: ch29:19379-19495
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  - claim_id: e000ac63-ccad-4603-aac6-902c983d796f
+    claim_hash: 73363a41e18fae1cc9c3fbdfdb82000361f510bcb901c6876813e2f372ad3752
+    content: Luis Elizondo deliberately addressed his resignation letter to Secretary of Defense James Mattis so that no one
+      in the Pentagon would be able to keep it from him.
+    original_excerpt: I had deliberately addressed my resignation letter to Secretary of Defense Mattis so no one in the Pentagon
+      would be able to keep it from him.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+      title: Luis Elizondo
+    provenance_chain:
+      origin_kind: speaker
+      origin: Lue Elizondo
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+        title: Luis Elizondo
+        slug: luis-elizondo
+      - node_id: 91d543c3-8e12-4e0b-a457-d668f5c54bba
+        title: James Mattis
+        slug: james-mattis
+      - node_id: c2161b8f-ab11-449c-8521-174024cb0552
+        title: USA, Washington DC, Pentagon
+        slug: washington-dc-pentagon-usa
+    date: null
+    date_end: null
+    location_in_record: ch29:4448-4586
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  - claim_id: 300d1e6a-9527-46a7-a7a6-e05a7b66b1c2
+    claim_hash: d0fdbfb85a37f8b5834009cb389841b19b72ea3319e3d95dd79d4be889118b6a
+    content: 'Luis Elizondo wrote two resignation letters: one for his chain of command and one addressed directly to Secretary
+      of Defense James Mattis.'
+    original_excerpt: I crafted two resignation letters, one for my chain of command and one to the secretary himself.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+      title: Luis Elizondo
+    provenance_chain:
+      origin_kind: speaker
+      origin: Lue Elizondo
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+        title: Luis Elizondo
+        slug: luis-elizondo
+      - node_id: 91d543c3-8e12-4e0b-a457-d668f5c54bba
+        title: James Mattis
+        slug: james-mattis
+    date: null
+    date_end: null
+    location_in_record: ch29:778-866
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  - claim_id: 099ec301-6959-4df3-a9d4-8cc6c52b0300
+    claim_hash: 63cb208c8808ecf41b2cc4a248bedb9212f86f95965121981539e07b2f80bf95
+    content: James Mattis resigned as Secretary of Defense in January 2019 due to differences with the Trump administration.
+    original_excerpt: Mattis resigned his post in January 2019 due to differences with the Trump administration and went on
+      to suffer the ignominy of being mocked on social media.
+    claim_type: administrative
+    attestation: first_hand
+    speaker:
+      node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+      title: Luis Elizondo
+    provenance_chain:
+      origin_kind: speaker
+      origin: Lue Elizondo
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 816c219b-6372-49f6-9579-5eeabb9a7474
+        title: Donald Trump
+        slug: donald-trump
+      - node_id: 91d543c3-8e12-4e0b-a457-d668f5c54bba
+        title: James Mattis
+        slug: james-mattis
+    date: 2019-01
+    date_end: null
+    location_in_record: ch30:6249-6400
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  - claim_id: e3a5c7af-f647-4282-a10d-9320eca3f49d
+    claim_hash: a3a61fea8f63cf9e47431dc4c5537017d143dadbf4926fe9b7520a8a01e8522c
+    content: After James Mattis left the Pentagon, the narrative around the Advanced Aerospace Threat Identification Program
+      (AATIP) was reframed to portray Lue Elizondo as a fabricator, and the Pentagon kept giving false information about his
+      employment record.
+    original_excerpt: With Mattis gone, the AATIP narrative was reframed to portray me as a fabricator. As a result, the Pentagon
+      kept lying when asked about my employment record.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+      title: Luis Elizondo
+    provenance_chain:
+      origin_kind: speaker
+      origin: Lue Elizondo
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 6c1618c8-50db-42c9-860e-6d736ef280bf
+        title: Advanced Aerospace Threat Identification Program (AATIP)
+        slug: advanced-aerospace-threat-identification-program-aatip
+      - node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+        title: Luis Elizondo
+        slug: luis-elizondo
+      - node_id: 91d543c3-8e12-4e0b-a457-d668f5c54bba
+        title: James Mattis
+        slug: james-mattis
+      - node_id: c2161b8f-ab11-449c-8521-174024cb0552
+        title: USA, Washington DC, Pentagon
+        slug: washington-dc-pentagon-usa
+    date: null
+    date_end: null
+    location_in_record: ch30:6407-6557
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  - claim_id: 9076018a-ddcf-48d6-a909-bbcf1a90cdb8
+    claim_hash: 60a3f52c9a9cdd6a48e588de78d09abadc7da2a7408d374142caf2994ee85e68
+    content: Luis Elizondo wrote an official resignation memo to the Secretary of Defense, James Mattis, highlighting the
+      urgent need to address the Unidentified Aerial Phenomena (UAP) issue as it relates to US national security and nuclear
+      weapons and technology.
+    original_excerpt: My official resignation memo to the Secretary of Defense, highlighting the urgent need to address the
+      UAP issue as it relates to US national security and our nuclear weapons and technology.
+    claim_type: administrative
+    attestation: first_hand
+    speaker:
+      node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+      title: Luis Elizondo
+    provenance_chain:
+      origin_kind: speaker
+      origin: Luis Elizondo
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 2f2a8882-079b-429e-9aaf-37d1fdc53cee
+        title: Luis D. Elizondo III (father)
+        slug: luis-d-elizondo-iii-father
+      - node_id: 91d543c3-8e12-4e0b-a457-d668f5c54bba
+        title: James Mattis
+        slug: james-mattis
+      - node_id: a4f4460d-d553-49a5-8a5e-6e8b5c928153
+        title: Luis Elizondo resignation letter to James Mattis (2017-10-04)
+        slug: luis-elizondo-resignation-letter-to-james-mattis-2017-10-04
+    date: null
+    date_end: null
+    location_in_record: ch35:2515-2693
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  - claim_id: 88320f97-81c4-46d5-b32a-dc5ab2dbc313
+    claim_hash: bc91839f69f4c7ce360a6cac0eb099dde5be2ed3e3aaffa5d9146c82c89694a1
+    content: Christopher Mellon worked directly with the plan to help Luis Elizondo get an audience with the Secretary of
+      Defense.
+    original_excerpt: my first instinct was to work through the chain of command...getting him an audience with the secretary
+      of defense
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 5d06f518-dd64-4429-9026-b930e88660d2
+      title: Christopher K. Mellon
+    provenance_chain:
+      origin_kind: speaker
+      origin: Christopher Mellon
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 5d06f518-dd64-4429-9026-b930e88660d2
+        title: Christopher K. Mellon
+        slug: christopher-k-mellon
+      - node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+        title: Luis Elizondo
+        slug: luis-elizondo
+      - node_id: 91d543c3-8e12-4e0b-a457-d668f5c54bba
+        title: James Mattis
+        slug: james-mattis
+      - node_id: 99f08514-5471-4eaf-bce3-46c474a8d304
+        title: United States Department of Defense (DoD)
+        slug: united-states-department-of-defense-dod
+    date: null
+    date_end: null
+    location_in_record: ch6:20147-20198
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  - claim_id: 39b7f379-66de-479a-8f84-475a346ba65d
+    claim_hash: 4adcc77300133a7a723d2f4f57b474b63d8e474c1b816bceab0cb86602a811c9
+    content: Christopher Mellon was friends with two men who worked directly with Secretary of Defense James Mattis on a near
+      daily basis.
+    original_excerpt: I was friends with two highly capable and patriotic young men who worked directly with Secretary of
+      Defense James Mattis on a near daily basis
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 5d06f518-dd64-4429-9026-b930e88660d2
+      title: Christopher K. Mellon
+    provenance_chain:
+      origin_kind: speaker
+      origin: Christopher Mellon
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 5d06f518-dd64-4429-9026-b930e88660d2
+        title: Christopher K. Mellon
+        slug: christopher-k-mellon
+      - node_id: 91d543c3-8e12-4e0b-a457-d668f5c54bba
+        title: James Mattis
+        slug: james-mattis
+    date: null
+    date_end: null
+    location_in_record: ch6:20439-20576
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos

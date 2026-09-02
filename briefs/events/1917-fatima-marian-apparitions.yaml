@@ -1,0 +1,3468 @@
+schema: anomalica/brief/1
+brief_hash: a7d2e651305f21d096809458d974b88e8b246e9ec490c543aa257e92624055c8
+page:
+  kind: entity
+  node_id: c3049206-6e8c-43b6-a645-5b8c47da0e56
+  node_type: event
+  title: 1917 Fatima Marian apparitions
+  slug: 1917-fatima-marian-apparitions
+  claim_count: 93
+  claim_count_total: 93
+generated:
+  graph_version: '2026-09-01T10:10:49.863545+00:00'
+size:
+  claims: 93
+  tokens_estimated: 29682
+  sized_against: 1050000
+publication:
+  status: published
+  note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
+    transcripts are gated elsewhere.
+belonging:
+  verified: 0
+  suspect_excluded: 0
+  unreviewed: 93
+related_nodes:
+  - node_id: f0add216-a5fe-45e9-9e4a-1e82ebd4db2d
+    title: Lucia dos Santos
+    node_type: person
+    slug: lucia-dos-santos
+    shared_claims: 9
+  - node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
+    title: Jacques Vallée
+    node_type: person
+    slug: jacques-vallee
+    shared_claims: 6
+  - node_id: c591a126-a6b7-4d3e-b1a5-69820bfe3628
+    title: José Maria de Almeida Garrett
+    node_type: person
+    slug: jose-maria-de-almeida-garrett
+    shared_claims: 6
+  - node_id: 95472b02-af65-4737-896c-993994f9be27
+    title: Portugal, Fatima
+    node_type: place
+    slug: fatima-portugal
+    shared_claims: 6
+  - node_id: 1b8138fb-8844-40ba-9512-21dc1ea1ba39
+    title: Francisco Marto
+    node_type: person
+    slug: francisco-marto
+    shared_claims: 5
+  - node_id: d2593720-e09e-4f39-837e-4c6f88e66fbd
+    title: Jacinta Marto
+    node_type: person
+    slug: jacinta-marto
+    shared_claims: 5
+  - node_id: 79277187-1caf-4840-a135-5819bc771321
+    title: Portugal, Fatima, Cova da Iria
+    node_type: place
+    slug: fatima-cova-da-iria-portugal
+    shared_claims: 5
+  - node_id: 6c262c92-9da2-45a2-abbb-81e95cdd400c
+    title: Catholic Church
+    node_type: organisation
+    slug: catholic-church
+    shared_claims: 3
+  - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
+    title: Unidentified Flying Object (UFO)
+    node_type: topic
+    slug: unidentified-flying-object-ufo
+    shared_claims: 3
+  - node_id: e6f088da-0d55-4b40-bd2f-3db0c66a481c
+    title: 1915-1916 Lucia dos Santos angelic apparitions, Fatima
+    node_type: event
+    slug: fatima-1915-1916-lucia-dos-santos-angelic-apparitions
+    shared_claims: 2
+  - node_id: a117460c-94ee-4ab3-977f-c33dd6064dd9
+    title: John Haffert
+    node_type: person
+    slug: john-haffert
+    shared_claims: 2
+  - node_id: e429e611-f7a3-4b71-bc4a-7b219dabc2e6
+    title: Morphology of Miracles (Vallee framework)
+    node_type: topic
+    slug: morphology-of-miracles-vallee-framework
+    shared_claims: 2
+  - node_id: 30d5f933-f6de-46b8-8d13-821454a8c92d
+    title: 1858 Lourdes Marian apparitions
+    node_type: event
+    slug: 1858-lourdes-marian-apparitions
+    shared_claims: 1
+  - node_id: f1f89669-ea87-4c3f-a5ba-548bc5f7d315
+    title: Afonso Lopes Vieira
+    node_type: person
+    slug: afonso-lopes-vieira
+    shared_claims: 1
+  - node_id: 7830b97e-4e6c-4577-80ba-2c2050014d72
+    title: Albano Barros
+    node_type: person
+    slug: albano-barros
+    shared_claims: 1
+  - node_id: 38ecab4b-4ae9-4556-97b6-221dcd957341
+    title: Assassination attempt on John Paul II (1981-05-13)
+    node_type: event
+    slug: assassination-attempt-on-john-paul-ii-1981-05-13
+    shared_claims: 1
+  - node_id: 6ac16044-a2e2-48c8-816a-98b023342f22
+    title: Bernadette Soubirous
+    node_type: person
+    slug: bernadette-soubirous
+    shared_claims: 1
+  - node_id: 1e2030c8-db0c-4b09-8306-71c3985d618d
+    title: Guilhermina Lopes da Silva
+    node_type: person
+    slug: guilhermina-lopes-da-silva
+    shared_claims: 1
+  - node_id: ff0a86b8-8f3c-4291-94ed-c6d303875ce8
+    title: Jason Samosa
+    node_type: person
+    slug: jason-samosa
+    shared_claims: 1
+  - node_id: 079d4381-4273-418b-bc9a-468623f95c6e
+    title: Jesse Mitchells
+    node_type: person
+    slug: jesse-mitchells
+    shared_claims: 1
+  - node_id: 4484f20d-af42-40af-b0ab-964afae98ec7
+    title: John Paul II
+    node_type: person
+    slug: john-paul-ii
+    shared_claims: 1
+  - node_id: ff3b3953-e566-48ff-933f-8c176d32db54
+    title: John XXIII
+    node_type: person
+    slug: john-xxiii
+    shared_claims: 1
+  - node_id: db47660c-16d3-4354-addf-ef1a8878db4d
+    title: Manuel Francisco
+    node_type: person
+    slug: manuel-francisco
+    shared_claims: 1
+  - node_id: a7c7c92b-be28-4c65-8365-80f9c5e695b8
+    title: Manuel Pedro Marto
+    node_type: person
+    slug: manuel-pedro-marto
+    shared_claims: 1
+  - node_id: 9fcb0a2b-2f0e-401d-86f3-195e2f6053dc
+    title: Marian apparitions
+    node_type: topic
+    slug: marian-apparitions
+    shared_claims: 1
+  - node_id: 43e72c74-2757-4480-84c9-8190a53c42d1
+    title: Mario Godinho
+    node_type: person
+    slug: mario-godinho
+    shared_claims: 1
+  - node_id: 945f1e52-b06d-42ab-99a7-acfa8e7c7b2b
+    title: Miracle of the Sun at Fatima
+    node_type: event
+    slug: miracle-of-the-sun-at-fatima
+    shared_claims: 1
+  - node_id: 366e3c09-68c1-4928-8fe5-bf00b87d7e4e
+    title: Mr. Mendes
+    node_type: person
+    slug: mr-mendes
+    shared_claims: 1
+  - node_id: 28ee65cc-0d0e-4478-984f-0f75b0f6c4a3
+    title: Pope Pius XI
+    node_type: person
+    slug: pope-pius-xi
+    shared_claims: 1
+  - node_id: c759f225-288a-446c-8dee-d78378f18460
+    title: Portugal, Alburitel
+    node_type: place
+    slug: alburitel-portugal
+    shared_claims: 1
+claims:
+  - claim_id: 54a48852-a055-492f-9eb0-975d73170ec6
+    claim_hash: ddddb2cb0eb477d10184620fba7b8e23bfcdc52f30fb39641f0a5d8a9a247239
+    content: One of the two skeptical priests present at the 1917-09-13 Fatima apparition stated, when asked what he thought
+      the globe was, that it was a heavenly vehicle that carried the Mother of God from her throne above to this forbidden
+      wasteland.
+    original_excerpt: Asked what he thought the globe was, one of the priests, now quite shaken, stated that "it was a heavenly
+      vehicle that carried the Mother of God from her throne above to this forbidden wasteland."
+    claim_type: opinion
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: anonymous
+      origin: one of the two skeptical priests who witnessed the 13 September 1917 Fatima apparition
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: c3049206-6e8c-43b6-a645-5b8c47da0e56
+        title: 1917 Fatima Marian apparitions
+        slug: 1917-fatima-marian-apparitions
+    date: '1917-09-13'
+    date_end: null
+    location_in_record: ch15:10099-10284
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 220315f4-29cd-4c89-8860-44f95613d98f
+      record_title: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About UFO Influences on the Human Race'
+      record_date: '2014-09-27'
+      record_reference: null
+      content_hash: sha256:5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b8489cc11c26
+      friendly_name: 2014-09-27-ebook-the-invisible-college-what-a-group-of-scientists-has
+  - claim_id: 1daba3c7-ec12-4b8a-819d-84561c66a704
+    claim_hash: b1023a1e5bd58abef9ebb0b33a4a2242d338728f279f4e730acdaf58eda525c8
+    content: Jacques Vallee observes that the concept of the earth as a prison or 'forbidden wasteland' is a popular idea
+      among those exposed to phenomena like the Fatima apparitions.
+    original_excerpt: The concept of the earth as a prison or a "forbidden wasteland" is decidedly a popular one among those
+      who have been exposed to these phenomena.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
+      title: Jacques Vallée
+    provenance_chain:
+      origin_kind: speaker
+      origin: Jacques Vallee
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: c3049206-6e8c-43b6-a645-5b8c47da0e56
+        title: 1917 Fatima Marian apparitions
+        slug: 1917-fatima-marian-apparitions
+    date: null
+    date_end: null
+    location_in_record: ch15:10296-10430
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 220315f4-29cd-4c89-8860-44f95613d98f
+      record_title: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About UFO Influences on the Human Race'
+      record_date: '2014-09-27'
+      record_reference: null
+      content_hash: sha256:5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b8489cc11c26
+      friendly_name: 2014-09-27-ebook-the-invisible-college-what-a-group-of-scientists-has
+  - claim_id: 7209a000-163c-4413-a913-c006892b5f65
+    claim_hash: 6ef7101fb4c5566f3ebc4a8366f70dd966e2e651377849053a98d120e7d62031
+    content: The final apparition at Fatima took place on 1917-10-13 with a crowd numbering seventy thousand.
+    original_excerpt: The last apparition, as predicted, took place on October 13, 1917. The crowd numbered seventy thousand
+      this time.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: c3049206-6e8c-43b6-a645-5b8c47da0e56
+        title: 1917 Fatima Marian apparitions
+        slug: 1917-fatima-marian-apparitions
+    date: '1917-10-13'
+    date_end: null
+    location_in_record: ch15:10442-10550
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 220315f4-29cd-4c89-8860-44f95613d98f
+      record_title: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About UFO Influences on the Human Race'
+      record_date: '2014-09-27'
+      record_reference: null
+      content_hash: sha256:5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b8489cc11c26
+      friendly_name: 2014-09-27-ebook-the-invisible-college-what-a-group-of-scientists-has
+  - claim_id: 6ca3a580-0fd8-41a5-9d52-2e092dc72d7a
+    claim_hash: e1f32ede007f8959f9f667d7e798d8a21f8b1099c5a36796dadbb45dc1bfa799
+    content: The size of the crowd at the successive Fatima apparitions grew in the progression 3, 50, 4,500, 18,000, 30,000,
+      and 70,000.
+    original_excerpt: '(The size of the assembled crowd had grown in the following progression: 3, 50, 4,500, 18,000, 30,000,
+      70,000.)'
+    claim_type: measurement
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: c3049206-6e8c-43b6-a645-5b8c47da0e56
+        title: 1917 Fatima Marian apparitions
+        slug: 1917-fatima-marian-apparitions
+    date: null
+    date_end: null
+    location_in_record: ch15:10557-10662
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 220315f4-29cd-4c89-8860-44f95613d98f
+      record_title: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About UFO Influences on the Human Race'
+      record_date: '2014-09-27'
+      record_reference: null
+      content_hash: sha256:5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b8489cc11c26
+      friendly_name: 2014-09-27-ebook-the-invisible-college-what-a-group-of-scientists-has
+  - claim_id: ecaf50c4-ac6a-4256-ba98-37b02db8d057
+    claim_hash: b2d0f3d71467228d8c804db5ad49fc44a19ff3b9c425b6097a0194259370659b
+    content: At the final Fatima apparition on 1917-10-13, the vision was preceded by a flash of light at noon and a sweet
+      strange fragrance, and the crowd observed a dramatic change on the faces of the three children though they saw no Lady
+      themselves.
+    original_excerpt: The vision was preceded by a flash of light at noon, a sweet strange fragrance. The children engaged
+      in a dialogue with the Lady. The crowd did not hear the conversation and saw no Lady. They did observe the dramatic
+      change on the faces of the three children, enraptured by the vision.
+    claim_type: testimony
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: c3049206-6e8c-43b6-a645-5b8c47da0e56
+        title: 1917 Fatima Marian apparitions
+        slug: 1917-fatima-marian-apparitions
+    date: '1917-10-13'
+    date_end: null
+    location_in_record: ch15:10668-10946
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 220315f4-29cd-4c89-8860-44f95613d98f
+      record_title: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About UFO Influences on the Human Race'
+      record_date: '2014-09-27'
+      record_reference: null
+      content_hash: sha256:5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b8489cc11c26
+      friendly_name: 2014-09-27-ebook-the-invisible-college-what-a-group-of-scientists-has
+  - claim_id: 1ea54302-0e12-49ba-a3c8-198c0e88e08a
+    claim_hash: c462c12edb0daade46bd5f793c9eee8eaaf5d56ee5cae333c517385298d654c0
+    content: 'At the final Fatima apparition on 1917-10-13, the rain that had been pouring on the crowd suddenly stopped and
+      the heavy clouds parted, revealing the sun as a disk of brilliant silver that rapidly rotated on its own axis and cast
+      off beams of coloured light in succession: red, violet, blue, and yellow.'
+    original_excerpt: The rain, that had been pouring down on the crowd, suddenly stopped, and the heavy clouds parted. The
+      sun appeared as a disk of brilliant silver, "a weird disk that turns rapidly on its own axis and casts off beams of
+      colored lights in all directions. Shafts of red light shot out from the rim of the sun and colored the clouds, the earth,
+      the trees, the people; then shafts of violet, of blue, of yellow and of other colors followed in succession."
+    claim_type: testimony
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: c3049206-6e8c-43b6-a645-5b8c47da0e56
+        title: 1917 Fatima Marian apparitions
+        slug: 1917-fatima-marian-apparitions
+    date: '1917-10-13'
+    date_end: null
+    location_in_record: ch15:11029-11466
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 220315f4-29cd-4c89-8860-44f95613d98f
+      record_title: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About UFO Influences on the Human Race'
+      record_date: '2014-09-27'
+      record_reference: null
+      content_hash: sha256:5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b8489cc11c26
+      friendly_name: 2014-09-27-ebook-the-invisible-college-what-a-group-of-scientists-has
+  - claim_id: cb2ebf6b-b75f-4aa1-9307-15672507a43b
+    claim_hash: 1aba95f6e88e0d5bb63c3589507be2aee31b029e205471eb414f9bb4e3aa51ff
+    content: Reports of the 1917-10-13 Fatima phenomenon describe it as a flat disk rather than a globe, which stopped spinning
+      and plunged downward in zigzag fashion toward the earth and the horrified spectators before reverting its motion and
+      disappearing into the sun.
+    original_excerpt: The reports speak of a flat disk rather than a globe. After a while it stopped spinning and "plunged
+      downward in zigzag fashion toward the earth and the horrified spectators."...Finally the disk reverted its motion and
+      disappeared into the sun
+    claim_type: testimony
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: c3049206-6e8c-43b6-a645-5b8c47da0e56
+        title: 1917 Fatima Marian apparitions
+        slug: 1917-fatima-marian-apparitions
+    date: '1917-10-13'
+    date_end: null
+    location_in_record: ch15:11577-11879
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 220315f4-29cd-4c89-8860-44f95613d98f
+      record_title: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About UFO Influences on the Human Race'
+      record_date: '2014-09-27'
+      record_reference: null
+      content_hash: sha256:5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b8489cc11c26
+      friendly_name: 2014-09-27-ebook-the-invisible-college-what-a-group-of-scientists-has
+  - claim_id: b2ca7f84-c76a-42c2-b909-e1085cd81595
+    claim_hash: 87ce5a8a4f08c016a6bb69b406d77063f15ecab85443470388c7045177a7cef2
+    content: At the end of the 1917-10-13 Fatima phenomenon the crowd realised that their clothes, the trees, and the ground,
+      previously soaked by rain, were perfectly dry.
+    original_excerpt: The astounded crowd suddenly realized that their clothes, the trees, and the ground were perfectly dry.
+    claim_type: testimony
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: c3049206-6e8c-43b6-a645-5b8c47da0e56
+        title: 1917 Fatima Marian apparitions
+        slug: 1917-fatima-marian-apparitions
+    date: '1917-10-13'
+    date_end: null
+    location_in_record: ch15:11985-12084
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 220315f4-29cd-4c89-8860-44f95613d98f
+      record_title: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About UFO Influences on the Human Race'
+      record_date: '2014-09-27'
+      record_reference: null
+      content_hash: sha256:5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b8489cc11c26
+      friendly_name: 2014-09-27-ebook-the-invisible-college-what-a-group-of-scientists-has
+  - claim_id: 0d44efc4-512f-4a80-9974-6495c92149d0
+    claim_hash: 511dd53cebc8044c21bda8917c25a54580d4412ada2aa34e5fbf6965e5df75ac
+    content: Jacques Vallee considers the final Fatima 'miracle' of 1917-10-13, with its flying disk or globe, falling-leaf
+      trajectory, light effects, thunderclaps, buzzing sounds, strange fragrance, dissolving angel hair, and associated heat
+      wave, to place the Fatima events clearly in the perspective of UFO phenomena.
+    original_excerpt: Not only was a flying disk or globe consistently involved, but its motion, its falling-leaf trajectory,
+      its light effects, the thunderclaps, the buzzing sounds, the strange fragrance, the fall of "angel hair" that dissolves
+      upon reaching the ground, the heat wave associated with the close approach of the disk, all of these are constant parameters
+      of UFO sightings everywhere.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
+      title: Jacques Vallée
+    provenance_chain:
+      origin_kind: speaker
+      origin: Jacques Vallee
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
+        title: Jacques Vallée
+        slug: jacques-vallee
+      - node_id: c3049206-6e8c-43b6-a645-5b8c47da0e56
+        title: 1917 Fatima Marian apparitions
+        slug: 1917-fatima-marian-apparitions
+    date: '1917-10-13'
+    date_end: null
+    location_in_record: ch15:12401-12768
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 220315f4-29cd-4c89-8860-44f95613d98f
+      record_title: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About UFO Influences on the Human Race'
+      record_date: '2014-09-27'
+      record_reference: null
+      content_hash: sha256:5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b8489cc11c26
+      friendly_name: 2014-09-27-ebook-the-invisible-college-what-a-group-of-scientists-has
+  - claim_id: 4b6966fd-65ec-469c-82cc-fa0ca5b07d1c
+    claim_hash: 8ee72b67a6effbb993733d5a3c98a100141b88d687cea58c39b24620916d4100
+    content: Jacques Vallee argues that the events at Fatima did not begin on 1917-05-13 as most authorities indicate, but
+      had been preceded by a series of sightings of an angel a couple of years before.
+    original_excerpt: In the case of Fatima the events did not begin—as most authorities indicate—on May 13, 1917. It is true
+      that such is the date of the first apparition of the Lady, but it had been preceded by a series of sightings of an angel
+      a couple of years before.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
+      title: Jacques Vallée
+    provenance_chain:
+      origin_kind: speaker
+      origin: Jacques Vallee
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: c3049206-6e8c-43b6-a645-5b8c47da0e56
+        title: 1917 Fatima Marian apparitions
+        slug: 1917-fatima-marian-apparitions
+      - node_id: e6f088da-0d55-4b40-bd2f-3db0c66a481c
+        title: 1915-1916 Lucia dos Santos angelic apparitions, Fatima
+        slug: fatima-1915-1916-lucia-dos-santos-angelic-apparitions
+    date: null
+    date_end: null
+    location_in_record: ch15:13187-13432
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 220315f4-29cd-4c89-8860-44f95613d98f
+      record_title: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About UFO Influences on the Human Race'
+      record_date: '2014-09-27'
+      record_reference: null
+      content_hash: sha256:5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b8489cc11c26
+      friendly_name: 2014-09-27-ebook-the-invisible-college-what-a-group-of-scientists-has
+  - claim_id: a76da516-8454-4363-8734-2b7316e739c7
+    claim_hash: a4276da28306788b973eff058075c3090e56282c6866a6eafcb76574a21ffbc0
+    content: Fatima involves apparitions of an entity believed to be the Holy Virgin.
+    original_excerpt: The famous apparitions at Fatima offer a historical example of the religious dimension of UFO encounters.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
+      title: Jacques Vallée
+    provenance_chain:
+      origin_kind: speaker
+      origin: Jacques Vallee
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 95472b02-af65-4737-896c-993994f9be27
+        title: Portugal, Fatima
+        slug: fatima-portugal
+      - node_id: c3049206-6e8c-43b6-a645-5b8c47da0e56
+        title: 1917 Fatima Marian apparitions
+        slug: 1917-fatima-marian-apparitions
+    date: null
+    date_end: null
+    location_in_record: ch15:1326-1420
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 220315f4-29cd-4c89-8860-44f95613d98f
+      record_title: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About UFO Influences on the Human Race'
+      record_date: '2014-09-27'
+      record_reference: null
+      content_hash: sha256:5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b8489cc11c26
+      friendly_name: 2014-09-27-ebook-the-invisible-college-what-a-group-of-scientists-has
+  - claim_id: 1c665811-c6b5-42ea-879d-b29a7920d205
+    claim_hash: 4ad6b1f4dc2f9a7f83333eb959f1733bdb88a0480f71617d410d8dd030f4f075
+    content: The 1917 Fatima Marian apparitions occurred near the small Portuguese town of Fatima.
+    original_excerpt: few American readers know the full story of what happened in 1917 near that small Portuguese town
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 95472b02-af65-4737-896c-993994f9be27
+        title: Portugal, Fatima
+        slug: fatima-portugal
+      - node_id: c3049206-6e8c-43b6-a645-5b8c47da0e56
+        title: 1917 Fatima Marian apparitions
+        slug: 1917-fatima-marian-apparitions
+    date: '1917'
+    date_end: null
+    location_in_record: ch15:1494-1587
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 220315f4-29cd-4c89-8860-44f95613d98f
+      record_title: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About UFO Influences on the Human Race'
+      record_date: '2014-09-27'
+      record_reference: null
+      content_hash: sha256:5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b8489cc11c26
+      friendly_name: 2014-09-27-ebook-the-invisible-college-what-a-group-of-scientists-has
+  - claim_id: 1ec8f44b-df3e-45b2-a7d2-724c41f6d31f
+    claim_hash: dd39dd4ff221ab5c247c70b71a69c00aa70e524c74ab1478b344497f9a00b4b2
+    content: Engineer Mario Godinho reported that at his mother's request he went to Cova da Iria in August during the time
+      of the Fatima apparitions, and that on that occasion his mother, who had had a large tumour in one of her eyes for many
+      years, was cured, a cure the attending doctors could not explain.
+    original_excerpt: At my mother's request, I went once more to Cova da Iria in August at the time of the apparitions, writes
+      engineer Mario Godinho... My mother, who had had a large tumor in one of her eyes for many years, was cured. The doctors
+      who had attended her said they could not explain such a cure.
+    claim_type: testimony
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: named
+      origin: Mario Godinho
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 43e72c74-2757-4480-84c9-8190a53c42d1
+        title: Mario Godinho
+        slug: mario-godinho
+      - node_id: 79277187-1caf-4840-a135-5819bc771321
+        title: Portugal, Fatima, Cova da Iria
+        slug: fatima-cova-da-iria-portugal
+      - node_id: c3049206-6e8c-43b6-a645-5b8c47da0e56
+        title: 1917 Fatima Marian apparitions
+        slug: 1917-fatima-marian-apparitions
+    date: 1917-08
+    date_end: null
+    location_in_record: ch15:16295-16679
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 220315f4-29cd-4c89-8860-44f95613d98f
+      record_title: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About UFO Influences on the Human Race'
+      record_date: '2014-09-27'
+      record_reference: null
+      content_hash: sha256:5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b8489cc11c26
+      friendly_name: 2014-09-27-ebook-the-invisible-college-what-a-group-of-scientists-has
+  - claim_id: 8a4a9b6f-a8f5-4ada-abc1-84611335f693
+    claim_hash: 0e984474b44f249d2fd2829915529e32bea4a2b59c3623821f9930f6fcb6af0c
+    content: The sequence of observations of the entity thought to be the Holy Virgin at Fatima was preceded, two years earlier,
+      by a series of angelic apparitions to Lucia dos Santos that Jacques Vallee characterises as a classical sequence of
+      UFO sightings.
+    original_excerpt: the entire sequence of observations of an entity thought to be the Holy Virgin had begun two years previously
+      with a fairly classical sequence of UFO sightings
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
+      title: Jacques Vallée
+    provenance_chain:
+      origin_kind: speaker
+      origin: Jacques Vallee
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: c3049206-6e8c-43b6-a645-5b8c47da0e56
+        title: 1917 Fatima Marian apparitions
+        slug: 1917-fatima-marian-apparitions
+      - node_id: e6f088da-0d55-4b40-bd2f-3db0c66a481c
+        title: 1915-1916 Lucia dos Santos angelic apparitions, Fatima
+        slug: fatima-1915-1916-lucia-dos-santos-angelic-apparitions
+      - node_id: f0add216-a5fe-45e9-9e4a-1e82ebd4db2d
+        title: Lucia dos Santos
+        slug: lucia-dos-santos
+    date: null
+    date_end: null
+    location_in_record: ch15:1632-1782
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 220315f4-29cd-4c89-8860-44f95613d98f
+      record_title: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About UFO Influences on the Human Race'
+      record_date: '2014-09-27'
+      record_reference: null
+      content_hash: sha256:5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b8489cc11c26
+      friendly_name: 2014-09-27-ebook-the-invisible-college-what-a-group-of-scientists-has
+  - claim_id: b727b211-b134-4a6a-9ef4-0be3a0fd6071
+    claim_hash: 291b2d92c8695fbd89f1e8e5541451ebbc4fe83e5ce68995e235945cf673cb9f
+    content: Albano Barros, a 12-year-old child who was in a field near Minde, eight miles from Fatima, at the time of the
+      final miracle, was so struck when he saw the disk of light falling toward the earth that he could not remember what
+      followed, including whether he took the sheep home or ran.
+    original_excerpt: 'A child of 12, named Albano Barros, for example, who was in a field near Minde, eight miles from Fatima,
+      was so struck when he saw the disk of light falling toward the earth that he does not remember what followed: "I cannot
+      even remember whether I took the sheep home, whether I ran, or what I did."'
+    claim_type: testimony
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: named
+      origin: Albano Barros
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 0357aebd-9157-4be6-9eea-c690bf5424a1
+        title: Portugal, Minde
+        slug: minde-portugal
+      - node_id: 7830b97e-4e6c-4577-80ba-2c2050014d72
+        title: Albano Barros
+        slug: albano-barros
+      - node_id: c3049206-6e8c-43b6-a645-5b8c47da0e56
+        title: 1917 Fatima Marian apparitions
+        slug: 1917-fatima-marian-apparitions
+    date: '1917-10-13'
+    date_end: null
+    location_in_record: ch15:16953-17250
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 220315f4-29cd-4c89-8860-44f95613d98f
+      record_title: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About UFO Influences on the Human Race'
+      record_date: '2014-09-27'
+      record_reference: null
+      content_hash: sha256:5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b8489cc11c26
+      friendly_name: 2014-09-27-ebook-the-invisible-college-what-a-group-of-scientists-has
+  - claim_id: 86846410-817d-427d-b04a-101498dc7849
+    claim_hash: 0e5535969c791d297d5668954c8cb3951dcce68408a41375b36d03b14e13a56a
+    content: Farmer Manuel Francisco was so afflicted by witnessing the Fatima miracle that he went home weeping.
+    original_excerpt: Others were so afflicted that, like farmer Manuel Francisco, they went home weeping.
+    claim_type: testimony
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: c3049206-6e8c-43b6-a645-5b8c47da0e56
+        title: 1917 Fatima Marian apparitions
+        slug: 1917-fatima-marian-apparitions
+      - node_id: db47660c-16d3-4354-addf-ef1a8878db4d
+        title: Manuel Francisco
+        slug: manuel-francisco
+    date: '1917-10-13'
+    date_end: null
+    location_in_record: ch15:17340-17416
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 220315f4-29cd-4c89-8860-44f95613d98f
+      record_title: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About UFO Influences on the Human Race'
+      record_date: '2014-09-27'
+      record_reference: null
+      content_hash: sha256:5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b8489cc11c26
+      friendly_name: 2014-09-27-ebook-the-invisible-college-what-a-group-of-scientists-has
+  - claim_id: 73ed26fd-b3b8-4bf8-a8a0-29deb84ca0d9
+    claim_hash: c3ad33efeea72dfc3b4681d119db99e8977a9e6160fab6598064ee921dea4e64
+    content: A prominent lawyer, Mr. Mendes, told John Haffert in a 1960 interview that what he saw at Fatima affected his
+      interior life, that he still remembers it as vividly as at the moment it happened, and that he feels himself dominated
+      by that extraordinary event.
+    original_excerpt: 'A prominent lawyer, Mr. Mendes, stated in an interview with John Haffert in 1960: "What I saw at Fatima
+      could not help but affect the interior life... I still remember it today as vividly as at the moment it happened, and
+      I feel myself to be dominated by that extraordinary event."'
+    claim_type: testimony
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: named
+      origin: Mr. Mendes
+      relay:
+        - an interview with John Haffert in 1960
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 366e3c09-68c1-4928-8fe5-bf00b87d7e4e
+        title: Mr. Mendes
+        slug: mr-mendes
+      - node_id: a117460c-94ee-4ab3-977f-c33dd6064dd9
+        title: John Haffert
+        slug: john-haffert
+      - node_id: c3049206-6e8c-43b6-a645-5b8c47da0e56
+        title: 1917 Fatima Marian apparitions
+        slug: 1917-fatima-marian-apparitions
+    date: '1960'
+    date_end: null
+    location_in_record: ch15:17592-17912
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 220315f4-29cd-4c89-8860-44f95613d98f
+      record_title: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About UFO Influences on the Human Race'
+      record_date: '2014-09-27'
+      record_reference: null
+      content_hash: sha256:5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b8489cc11c26
+      friendly_name: 2014-09-27-ebook-the-invisible-college-what-a-group-of-scientists-has
+  - claim_id: ee7ffb7c-f82e-4a38-98b2-48814aa04d5b
+    claim_hash: edc1f1267737cdc9fc6c38baf2c4f70ccdbb7ebd8fa08274b9cdae6744965254
+    content: Mrs. Guilhermina Lopes da Silva, who lived in Leiria sixteen miles from the Fatima apparition site and could
+      not travel there, looked toward the mountain at noon on 1917-10-13 and saw a great red flash in the sky.
+    original_excerpt: A woman named Mrs. Guilhermina Lopes da Silva, who lived in Leiria no less than sixteen miles from the
+      site of the miracle, could not go to the place appointed for the apparition, but she looked toward the mountain at noon
+      and saw "a great red flash" in the sky.
+    claim_type: testimony
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: named
+      origin: Guilhermina Lopes da Silva
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 1e2030c8-db0c-4b09-8306-71c3985d618d
+        title: Guilhermina Lopes da Silva
+        slug: guilhermina-lopes-da-silva
+      - node_id: 86a3d282-0dee-49af-8533-93f32405844e
+        title: Portugal, Leiria
+        slug: leiria-portugal
+      - node_id: c3049206-6e8c-43b6-a645-5b8c47da0e56
+        title: 1917 Fatima Marian apparitions
+        slug: 1917-fatima-marian-apparitions
+    date: '1917-10-13'
+    date_end: null
+    location_in_record: ch15:18259-18517
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 220315f4-29cd-4c89-8860-44f95613d98f
+      record_title: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About UFO Influences on the Human Race'
+      record_date: '2014-09-27'
+      record_reference: null
+      content_hash: sha256:5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b8489cc11c26
+      friendly_name: 2014-09-27-ebook-the-invisible-college-what-a-group-of-scientists-has
+  - claim_id: da6cfc52-3a75-4990-80cf-663efbbe004f
+    claim_hash: 20bc31def3eb3b1ac553247302a0bada2b74393add9cef3c5ebc71807a9169f0
+    content: The brilliance of the Fatima phenomenon on 1917-10-13 was seen thirty miles away at San Pedro de Muel by Portuguese
+      writer Afonso Vieira, his wife, and his mother-in-law.
+    original_excerpt: The brilliance in the sky was such that it was seen thirty miles away (at San Pedro de Muel, by Portuguese
+      writer Afonso Vieira, his wife, and his mother-in-law).
+    claim_type: testimony
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: named
+      origin: Afonso Vieira
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: b16e5e43-a076-4cf3-9d5b-c4be36e7c586
+        title: Portugal, San Pedro de Muel
+        slug: san-pedro-de-muel-portugal
+      - node_id: c3049206-6e8c-43b6-a645-5b8c47da0e56
+        title: 1917 Fatima Marian apparitions
+        slug: 1917-fatima-marian-apparitions
+      - node_id: f1f89669-ea87-4c3f-a5ba-548bc5f7d315
+        title: Afonso Lopes Vieira
+        slug: afonso-lopes-vieira
+    date: '1917-10-13'
+    date_end: null
+    location_in_record: ch15:18522-18679
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 220315f4-29cd-4c89-8860-44f95613d98f
+      record_title: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About UFO Influences on the Human Race'
+      record_date: '2014-09-27'
+      record_reference: null
+      content_hash: sha256:5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b8489cc11c26
+      friendly_name: 2014-09-27-ebook-the-invisible-college-what-a-group-of-scientists-has
+  - claim_id: ccb239a7-102e-4c46-a003-d4d32e6e724c
+    claim_hash: 9e2835a294bc4d218501d8e5b98a802a204a21e255755bdf502c37eebe3d3041
+    content: The 1917-10-13 Fatima phenomenon could not be photographed directly using the photographic emulsions and shutter
+      speeds available at the time.
+    original_excerpt: The phenomenon, it seems, could not be photographed directly with the photographic emulsions and shutter
+      speeds commonly available at the time.
+    claim_type: observation
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: c3049206-6e8c-43b6-a645-5b8c47da0e56
+        title: 1917 Fatima Marian apparitions
+        slug: 1917-fatima-marian-apparitions
+    date: '1917-10-13'
+    date_end: null
+    location_in_record: ch15:18685-18823
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 220315f4-29cd-4c89-8860-44f95613d98f
+      record_title: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About UFO Influences on the Human Race'
+      record_date: '2014-09-27'
+      record_reference: null
+      content_hash: sha256:5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b8489cc11c26
+      friendly_name: 2014-09-27-ebook-the-invisible-college-what-a-group-of-scientists-has
+  - claim_id: 78dfd0f6-0961-47af-a0ef-cea272fbf3df
+    claim_hash: 7b856b96c4df030f541a68a3ae29c493fbd41eb5b9ea44389ca0d0770ca8d41f
+    content: A widely reproduced photograph alleged by newspapers to show the Fatima miracle is in fact a photograph of a
+      solar eclipse unrelated to the Fatima events.
+    original_excerpt: (One picture often produced by the newspapers and alleged to show the miracle is in fact a photograph
+      of an eclipse of the sun that has nothing to do with the Fatima miracle.)
+    claim_type: observation
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: c3049206-6e8c-43b6-a645-5b8c47da0e56
+        title: 1917 Fatima Marian apparitions
+        slug: 1917-fatima-marian-apparitions
+    date: null
+    date_end: null
+    location_in_record: ch15:18830-18995
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 220315f4-29cd-4c89-8860-44f95613d98f
+      record_title: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About UFO Influences on the Human Race'
+      record_date: '2014-09-27'
+      record_reference: null
+      content_hash: sha256:5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b8489cc11c26
+      friendly_name: 2014-09-27-ebook-the-invisible-college-what-a-group-of-scientists-has
+  - claim_id: e5a93a98-2960-4e54-a9f1-ba385403c72b
+    claim_hash: 3c234c34472997201912975a55227215da690ebcfcba0938144d98087eb511df
+    content: Two witnesses looked at the 1917-10-13 Fatima disk with binoculars and reported seeing a ladder and two entities.
+    original_excerpt: Two witnesses looked at it with binoculars and reported seeing a ladder and two entities.
+    claim_type: testimony
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: c3049206-6e8c-43b6-a645-5b8c47da0e56
+        title: 1917 Fatima Marian apparitions
+        slug: 1917-fatima-marian-apparitions
+    date: '1917-10-13'
+    date_end: null
+    location_in_record: ch15:19138-19218
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 220315f4-29cd-4c89-8860-44f95613d98f
+      record_title: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About UFO Influences on the Human Race'
+      record_date: '2014-09-27'
+      record_reference: null
+      content_hash: sha256:5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b8489cc11c26
+      friendly_name: 2014-09-27-ebook-the-invisible-college-what-a-group-of-scientists-has
+  - claim_id: 7f877889-91b5-42df-84bb-d2a02e40bf73
+    claim_hash: 0e863d16b2980d14e9e12fd857ddb342af1550042543c76eb562f438f3170724
+    content: According to descriptions, the edges of the 1917-10-13 Fatima disk were sharp and it was not blinding, although
+      photographs of the crowd show many witnesses shading their eyes; other witnesses reported the phenomenon darkened the
+      sun such that the moon and stars became visible.
+    original_excerpt: The edges of the disk, according to all descriptions, were sharp. And it was definitely not blinding,
+      although pictures of the crowd show many witnesses shading their eyes. But others report that the phenomenon darkened
+      the sun to such an extent that at one point they could see the moon and the stars.
+    claim_type: testimony
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: c3049206-6e8c-43b6-a645-5b8c47da0e56
+        title: 1917 Fatima Marian apparitions
+        slug: 1917-fatima-marian-apparitions
+    date: '1917-10-13'
+    date_end: null
+    location_in_record: ch15:19228-19524
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 220315f4-29cd-4c89-8860-44f95613d98f
+      record_title: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About UFO Influences on the Human Race'
+      record_date: '2014-09-27'
+      record_reference: null
+      content_hash: sha256:5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b8489cc11c26
+      friendly_name: 2014-09-27-ebook-the-invisible-college-what-a-group-of-scientists-has
+  - claim_id: 03da54cd-a85e-408d-b5a9-7de242948ad1
+    claim_hash: ea706fac2881cd64864a8560c112c3d64271cd8c352c63b575bfa9cff9f5a59e
+    content: A schoolboy witness at Alburitel, nine miles from Cova da Iria, was so impressed by what he saw during the Fatima
+      miracle that he subsequently became a priest; John Haffert interviewed him in 1960.
+    original_excerpt: Another remote witness was a schoolboy who was so impressed by what he saw that he subsequently became
+      a priest. (John Haffert interviewed him in 1960.) At the time of the miracle he was with his brother and other children
+      in the village of Alburitel, nine miles away from the Cova da Iria
+    claim_type: testimony
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: anonymous
+      origin: a schoolboy witness at Alburitel who later became a priest, interviewed by John Haffert in 1960
+      relay:
+        - an interview with John Haffert in 1960
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: a117460c-94ee-4ab3-977f-c33dd6064dd9
+        title: John Haffert
+        slug: john-haffert
+      - node_id: c3049206-6e8c-43b6-a645-5b8c47da0e56
+        title: 1917 Fatima Marian apparitions
+        slug: 1917-fatima-marian-apparitions
+      - node_id: c759f225-288a-446c-8dee-d78378f18460
+        title: Portugal, Alburitel
+        slug: alburitel-portugal
+    date: '1917-10-13'
+    date_end: null
+    location_in_record: ch15:19532-19817
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 220315f4-29cd-4c89-8860-44f95613d98f
+      record_title: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About UFO Influences on the Human Race'
+      record_date: '2014-09-27'
+      record_reference: null
+      content_hash: sha256:5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b8489cc11c26
+      friendly_name: 2014-09-27-ebook-the-invisible-college-what-a-group-of-scientists-has
+  - claim_id: a16ed834-4ce8-4023-85fb-bd621184fa31
+    claim_hash: 40f433e585c68bdaaa674a656df439da30dd3a7e2ec1f2e5b852e768de81cb24
+    content: In its 1930 decision on Fatima, reached after thirteen years of investigation, the Catholic Church ruled that
+      the solar phenomenon of 13 October 1917 was not natural because no astronomical observatory registered it.
+    original_excerpt: This phenomenon, which no astronomical observatory registered and which therefore was not natural, was
+      witnessed by persons of all categories and of all social classes
+    claim_type: administrative
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: named
+      origin: Catholic Church
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 6c262c92-9da2-45a2-abbb-81e95cdd400c
+        title: Catholic Church
+        slug: catholic-church
+      - node_id: c3049206-6e8c-43b6-a645-5b8c47da0e56
+        title: 1917 Fatima Marian apparitions
+        slug: 1917-fatima-marian-apparitions
+    date: '1930'
+    date_end: null
+    location_in_record: ch15:2292-2452
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 220315f4-29cd-4c89-8860-44f95613d98f
+      record_title: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About UFO Influences on the Human Race'
+      record_date: '2014-09-27'
+      record_reference: null
+      content_hash: sha256:5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b8489cc11c26
+      friendly_name: 2014-09-27-ebook-the-invisible-college-what-a-group-of-scientists-has
+  - claim_id: 75a17a81-e131-4a53-b846-6cd1bfa85f07
+    claim_hash: dd8c2bc43671f1f6e1caf6516cf9130bef7231e5876fa72c454b4834f217b898
+    content: The Catholic Church's 1930 ruling on Fatima states that the 13 October 1917 solar phenomenon was witnessed by
+      persons of all social classes, believers and unbelievers, journalists of the principal Portuguese newspapers, and even
+      people some miles away, which the Church says rules out any explanation of collective illusion.
+    original_excerpt: was witnessed by persons of all categories and of all social classes, believers and unbelievers, journalists
+      of the principal Portuguese newspapers and even by persons some miles away. Facts which annul any explanation of collective
+      illusion.
+    claim_type: administrative
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: named
+      origin: Catholic Church
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 6c262c92-9da2-45a2-abbb-81e95cdd400c
+        title: Catholic Church
+        slug: catholic-church
+      - node_id: c3049206-6e8c-43b6-a645-5b8c47da0e56
+        title: 1917 Fatima Marian apparitions
+        slug: 1917-fatima-marian-apparitions
+    date: '1930'
+    date_end: null
+    location_in_record: ch15:2391-2624
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 220315f4-29cd-4c89-8860-44f95613d98f
+      record_title: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About UFO Influences on the Human Race'
+      record_date: '2014-09-27'
+      record_reference: null
+      content_hash: sha256:5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b8489cc11c26
+      friendly_name: 2014-09-27-ebook-the-invisible-college-what-a-group-of-scientists-has
+  - claim_id: 305227a1-a285-42a5-8ebf-6e77a1e9819f
+    claim_hash: eddeae3f3b1e7652f9ebab602be2e2faae4968e66536441ef824a053ff7f3eae
+    content: The Fatima 'miracle' of 13 October 1917 had been predicted several months in advance by three illiterate children
+      after their vision of a woman in a bright glow.
+    original_excerpt: This "miracle," the reader will note, had been predicted several months before by three illiterate children
+      after their vision of a woman "in a bright glow."
+    claim_type: testimony
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: c3049206-6e8c-43b6-a645-5b8c47da0e56
+        title: 1917 Fatima Marian apparitions
+        slug: 1917-fatima-marian-apparitions
+    date: '1917'
+    date_end: null
+    location_in_record: ch15:2635-2786
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 220315f4-29cd-4c89-8860-44f95613d98f
+      record_title: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About UFO Influences on the Human Race'
+      record_date: '2014-09-27'
+      record_reference: null
+      content_hash: sha256:5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b8489cc11c26
+      friendly_name: 2014-09-27-ebook-the-invisible-college-what-a-group-of-scientists-has
+  - claim_id: ebe7c456-1784-4aca-ab54-c1a0b65db875
+    claim_hash: df557740e1f4be462e05c60d69150365313e95a9fdfc440c2e4e11aab83d2e5c
+    content: The woman who appeared to the Fatima children did not identify herself as the Virgin Mary but stated only that
+      she was 'from Heaven' and instructed them to return every month until October, when a public miracle would take place
+      so that everyone may believe.
+    original_excerpt: She had not said that she was the Virgin Mary. She had simply stated that she was "from Heaven" and
+      instructed them to return every month until October, when a public miracle would take place "so that everyone may believe."
+    claim_type: testimony
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: c3049206-6e8c-43b6-a645-5b8c47da0e56
+        title: 1917 Fatima Marian apparitions
+        slug: 1917-fatima-marian-apparitions
+    date: '1917'
+    date_end: null
+    location_in_record: ch15:2793-3007
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 220315f4-29cd-4c89-8860-44f95613d98f
+      record_title: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About UFO Influences on the Human Race'
+      record_date: '2014-09-27'
+      record_reference: null
+      content_hash: sha256:5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b8489cc11c26
+      friendly_name: 2014-09-27-ebook-the-invisible-college-what-a-group-of-scientists-has
+  - claim_id: 59a91199-48f3-4653-910f-ef702f95acf4
+    claim_hash: ea00b38b6a7c54a1f5a5d474156e3ae556f52067188ba4a180fff95798f2a391
+    content: The 1917 Fatima apparitions involved luminous spheres, lights with strange colours, and a feeling of heat waves.
+    original_excerpt: The events at Fatima involve luminous spheres, lights with strange colors, a feeling of "heat waves,"
+      all physical characteristics commonly associated with UFOs.
+    claim_type: observation
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: c3049206-6e8c-43b6-a645-5b8c47da0e56
+        title: 1917 Fatima Marian apparitions
+        slug: 1917-fatima-marian-apparitions
+    date: '1917'
+    date_end: null
+    location_in_record: ch15:3018-3174
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 220315f4-29cd-4c89-8860-44f95613d98f
+      record_title: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About UFO Influences on the Human Race'
+      record_date: '2014-09-27'
+      record_reference: null
+      content_hash: sha256:5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b8489cc11c26
+      friendly_name: 2014-09-27-ebook-the-invisible-college-what-a-group-of-scientists-has
+  - claim_id: 725567f8-ca70-470b-b35e-2d5f668cf672
+    claim_hash: d927b20d1de564e39ce426e75722932a14e212450c5865c7df7fcbed903e8d53
+    content: The 1917 Fatima apparitions included the typical falling-leaf motion of a saucer zigzagging through the air.
+    original_excerpt: They even include the typical "falling-leaf" motion of the saucer zigzagging through the air.
+    claim_type: observation
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: c3049206-6e8c-43b6-a645-5b8c47da0e56
+        title: 1917 Fatima Marian apparitions
+        slug: 1917-fatima-marian-apparitions
+    date: '1917'
+    date_end: null
+    location_in_record: ch15:3180-3269
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 220315f4-29cd-4c89-8860-44f95613d98f
+      record_title: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About UFO Influences on the Human Race'
+      record_date: '2014-09-27'
+      record_reference: null
+      content_hash: sha256:5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b8489cc11c26
+      friendly_name: 2014-09-27-ebook-the-invisible-college-what-a-group-of-scientists-has
+  - claim_id: ed9af248-1eb7-4aa9-81ce-bd52cbfd65e3
+    claim_hash: 2dd45d53f40d11c821d0b4db144afee03082ea03930dcf5da62a63c77a2c29ed
+    content: During one of the 1917 Fatima encounters, a prophetic message was given to the children and transmitted by them
+      to the Catholic Church.
+    original_excerpt: In one of the encounters a prophetic message was given to the children, and transmitted by them to the
+      Church.
+    claim_type: testimony
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 6c262c92-9da2-45a2-abbb-81e95cdd400c
+        title: Catholic Church
+        slug: catholic-church
+      - node_id: c3049206-6e8c-43b6-a645-5b8c47da0e56
+        title: 1917 Fatima Marian apparitions
+        slug: 1917-fatima-marian-apparitions
+    date: '1917'
+    date_end: null
+    location_in_record: ch15:3441-3544
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 220315f4-29cd-4c89-8860-44f95613d98f
+      record_title: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About UFO Influences on the Human Race'
+      record_date: '2014-09-27'
+      record_reference: null
+      content_hash: sha256:5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b8489cc11c26
+      friendly_name: 2014-09-27-ebook-the-invisible-college-what-a-group-of-scientists-has
+  - claim_id: 8714b42e-441f-423a-a845-5d56c5a45adc
+    claim_hash: 67e9f490ad27a566356acaea7266497084b17017656ae431340f60cd286e5443
+    content: Part of the Fatima prophetic message was not to be revealed until 1960, when Pope John XXIII opened the sealed
+      envelope but did not publish the secret.
+    original_excerpt: A part of that message was not to be revealed until 1960, at which time Pope John XXIII opened the sealed
+      envelope, but did not publish the secret.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: c3049206-6e8c-43b6-a645-5b8c47da0e56
+        title: 1917 Fatima Marian apparitions
+        slug: 1917-fatima-marian-apparitions
+      - node_id: ff3b3953-e566-48ff-933f-8c176d32db54
+        title: John XXIII
+        slug: john-xxiii
+    date: '1960'
+    date_end: null
+    location_in_record: ch15:3552-3692
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 220315f4-29cd-4c89-8860-44f95613d98f
+      record_title: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About UFO Influences on the Human Race'
+      record_date: '2014-09-27'
+      record_reference: null
+      content_hash: sha256:5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b8489cc11c26
+      friendly_name: 2014-09-27-ebook-the-invisible-college-what-a-group-of-scientists-has
+  - claim_id: 38b8a983-f9ce-415d-b86d-07fa82a6684d
+    claim_hash: ed2596cfcd6c0d60cb3543053b82b618380eb188254539481eea67bf4aea250a
+    content: The first apparition of the woman at Fatima took place on 1917-05-13.
+    original_excerpt: The first apparition of the woman took place on May 13, 1917.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: c3049206-6e8c-43b6-a645-5b8c47da0e56
+        title: 1917 Fatima Marian apparitions
+        slug: 1917-fatima-marian-apparitions
+    date: '1917-05-13'
+    date_end: null
+    location_in_record: ch15:3974-4030
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 220315f4-29cd-4c89-8860-44f95613d98f
+      record_title: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About UFO Influences on the Human Race'
+      record_date: '2014-09-27'
+      record_reference: null
+      content_hash: sha256:5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b8489cc11c26
+      friendly_name: 2014-09-27-ebook-the-invisible-college-what-a-group-of-scientists-has
+  - claim_id: 83475561-41eb-42b0-9199-7573954753f4
+    claim_hash: 567e1953d6692a63eb265d5485a0a00e841cf1b18689aee3479a9b5df2058201
+    content: Three children were watching their sheep near the pasture called Cova da Iria at Fatima when a bright flash surprised
+      them and they walked toward the pasture to see what had happened, finding themselves caught in a glowing light in which
+      a little woman appeared and asked them to return every month to the same spot.
+    original_excerpt: Three children were watching their sheep when a bright flash surprised them, and they walked toward
+      the large hollow pasture called Cova da Iria...in the center of the light they perceived a little woman, who spoke to
+      them, begging them to return every month to the same spot.
+    claim_type: testimony
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 79277187-1caf-4840-a135-5819bc771321
+        title: Portugal, Fatima, Cova da Iria
+        slug: fatima-cova-da-iria-portugal
+      - node_id: c3049206-6e8c-43b6-a645-5b8c47da0e56
+        title: 1917 Fatima Marian apparitions
+        slug: 1917-fatima-marian-apparitions
+    date: '1917-05-13'
+    date_end: null
+    location_in_record: ch15:4036-4384
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 220315f4-29cd-4c89-8860-44f95613d98f
+      record_title: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About UFO Influences on the Human Race'
+      record_date: '2014-09-27'
+      record_reference: null
+      content_hash: sha256:5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b8489cc11c26
+      friendly_name: 2014-09-27-ebook-the-invisible-college-what-a-group-of-scientists-has
+  - claim_id: 07ce3f2d-1651-4282-96c8-77e720bc7384
+    claim_hash: c315ef67bd636d167b5ef6e042bcac0b55d5e3a8d8c8ef683dca8b6bb0c8556d
+    content: At the second apparition at Fatima on 1917-06-13, fifty people were present and watched the shepherd children
+      kneel and appear transfigured, as if transported into another world.
+    original_excerpt: there were fifty people the second time, on June 13. They watched while the little shepherds knelt and
+      became transfigured, as if transported into another world, at the time of the observation.
+    claim_type: testimony
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 79277187-1caf-4840-a135-5819bc771321
+        title: Portugal, Fatima, Cova da Iria
+        slug: fatima-cova-da-iria-portugal
+      - node_id: c3049206-6e8c-43b6-a645-5b8c47da0e56
+        title: 1917 Fatima Marian apparitions
+        slug: 1917-fatima-marian-apparitions
+    date: '1917-06-13'
+    date_end: null
+    location_in_record: ch15:4530-4711
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 220315f4-29cd-4c89-8860-44f95613d98f
+      record_title: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About UFO Influences on the Human Race'
+      record_date: '2014-09-27'
+      record_reference: null
+      content_hash: sha256:5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b8489cc11c26
+      friendly_name: 2014-09-27-ebook-the-invisible-college-what-a-group-of-scientists-has
+  - claim_id: bb8d634e-4800-4b23-ad82-fb2accd5d09b
+    claim_hash: 95f333c301988fc84cf9311691b34852b918e688499c88015ff5087f74e88d06
+    content: Lucia dos Santos, the oldest of the Fatima children, was 10 years old at the time of the second apparition on
+      1917-06-13 and addressed an unseen entity whose answers were not heard by others in the group.
+    original_excerpt: The oldest child, Lucia, who was 10 at the time, addressed an unseen entity whose answers were not heard
+      by others in the group.
+    claim_type: testimony
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: c3049206-6e8c-43b6-a645-5b8c47da0e56
+        title: 1917 Fatima Marian apparitions
+        slug: 1917-fatima-marian-apparitions
+      - node_id: f0add216-a5fe-45e9-9e4a-1e82ebd4db2d
+        title: Lucia dos Santos
+        slug: lucia-dos-santos
+    date: '1917-06-13'
+    date_end: null
+    location_in_record: ch15:4724-4846
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 220315f4-29cd-4c89-8860-44f95613d98f
+      record_title: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About UFO Influences on the Human Race'
+      record_date: '2014-09-27'
+      record_reference: null
+      content_hash: sha256:5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b8489cc11c26
+      friendly_name: 2014-09-27-ebook-the-invisible-college-what-a-group-of-scientists-has
+  - claim_id: bcde1c98-24d9-419f-87cc-ff4ba494bb24
+    claim_hash: cc37fb7b633d6c52b205cf8338c1bb3ab2ebf011875b28618fd66aaa33285cd6
+    content: At the end of the dialogue during the second Fatima apparition on 1917-06-13, all witnesses heard an explosion
+      and saw a small cloud rise from the vicinity of a tree, on which subsequent Fatima manifestations would centre.
+    original_excerpt: At the end of the dialogue all witnesses heard an explosion and saw a small cloud rise from the vicinity
+      of a tree—on which all the succeeding manifestations would center.
+    claim_type: testimony
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 79277187-1caf-4840-a135-5819bc771321
+        title: Portugal, Fatima, Cova da Iria
+        slug: fatima-cova-da-iria-portugal
+      - node_id: c3049206-6e8c-43b6-a645-5b8c47da0e56
+        title: 1917 Fatima Marian apparitions
+        slug: 1917-fatima-marian-apparitions
+    date: '1917-06-13'
+    date_end: null
+    location_in_record: ch15:4991-5155
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 220315f4-29cd-4c89-8860-44f95613d98f
+      record_title: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About UFO Influences on the Human Race'
+      record_date: '2014-09-27'
+      record_reference: null
+      content_hash: sha256:5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b8489cc11c26
+      friendly_name: 2014-09-27-ebook-the-invisible-college-what-a-group-of-scientists-has
+  - claim_id: bd1762d1-2e47-40af-9c58-034c95422f9f
+    claim_hash: 68c66a0c27fc3d93634fe29ccb087fd3975bfb9b6ec93fe12f258ee153c3f641
+    content: At the third Fatima apparition on 1917-07-13, the number of witnesses had risen to forty-five hundred.
+    original_excerpt: The following month, on July 13, the number of witnesses had risen to forty-five hundred!
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: c3049206-6e8c-43b6-a645-5b8c47da0e56
+        title: 1917 Fatima Marian apparitions
+        slug: 1917-fatima-marian-apparitions
+    date: '1917-07-13'
+    date_end: null
+    location_in_record: ch15:5164-5245
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 220315f4-29cd-4c89-8860-44f95613d98f
+      record_title: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About UFO Influences on the Human Race'
+      record_date: '2014-09-27'
+      record_reference: null
+      content_hash: sha256:5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b8489cc11c26
+      friendly_name: 2014-09-27-ebook-the-invisible-college-what-a-group-of-scientists-has
+  - claim_id: 59a5194a-e517-4043-8598-3e108206b6d0
+    claim_hash: 97ad10fa2841c7f540b0a65ee036411e2ef04d7d0a0d836ec66e0038c522be7a
+    content: Witnesses at the third Fatima apparition on 1917-07-13 described a buzzing or humming sound, a decrease in the
+      sun's glow and heat, a small whitish cloud about the tree of the apparitions, and a loud noise at the Lady's departure.
+    original_excerpt: a buzzing or humming sound, a decrease in the Sun's glow and heat, a small whitish cloud about the tree
+      of the apparitions, and a loud noise at the Lady's departure.
+    claim_type: testimony
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: c3049206-6e8c-43b6-a645-5b8c47da0e56
+        title: 1917 Fatima Marian apparitions
+        slug: 1917-fatima-marian-apparitions
+    date: '1917-07-13'
+    date_end: null
+    location_in_record: ch15:5461-5616
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 220315f4-29cd-4c89-8860-44f95613d98f
+      record_title: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About UFO Influences on the Human Race'
+      record_date: '2014-09-27'
+      record_reference: null
+      content_hash: sha256:5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b8489cc11c26
+      friendly_name: 2014-09-27-ebook-the-invisible-college-what-a-group-of-scientists-has
+  - claim_id: 2f32e354-3db8-4c05-bfe6-8b9f25311a75
+    claim_hash: 07243f9028a02945f9dd0afafc758afb0584c2c39edbbc5868106d68170e5461
+    content: At the July 1917 Fatima apparition the children were shown a vision of hell that terrified them.
+    original_excerpt: It is also remarkable that the children were shown a vision of hell that terrified them
+    claim_type: testimony
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: c3049206-6e8c-43b6-a645-5b8c47da0e56
+        title: 1917 Fatima Marian apparitions
+        slug: 1917-fatima-marian-apparitions
+    date: '1917-07-13'
+    date_end: null
+    location_in_record: ch15:5629-5712
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 220315f4-29cd-4c89-8860-44f95613d98f
+      record_title: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About UFO Influences on the Human Race'
+      record_date: '2014-09-27'
+      record_reference: null
+      content_hash: sha256:5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b8489cc11c26
+      friendly_name: 2014-09-27-ebook-the-invisible-college-what-a-group-of-scientists-has
+  - claim_id: 6455616f-36f7-4b22-92c8-a8aeeb1d15b0
+    claim_hash: bb0f3ad1572d2b240204167ba1ab14756b3cb32fa04dda9edf9c58cc8952d26b
+    content: During the July 1917 Fatima apparition the children were given a prophecy stating that the war would end but
+      that if people did not stop offending God, another worse war would begin during the reign of Pius XI, and that an unknown
+      light seen at night would be a sign that God is going to punish the world by war, famine, and persecution of the Church.
+    original_excerpt: The war is going to end, but if people do not stop offending God another and worse one will begin during
+      the reign of Pius XI... When you see a night illuminated by an unknown light know that this is the great sign that God
+      is giving you that he is going to punish the world for its crimes by means of war, famine, and persecution of the Church
+      and of the Holy Father.
+    claim_type: testimony
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 28ee65cc-0d0e-4478-984f-0f75b0f6c4a3
+        title: Pope Pius XI
+        slug: pope-pius-xi
+      - node_id: c3049206-6e8c-43b6-a645-5b8c47da0e56
+        title: 1917 Fatima Marian apparitions
+        slug: 1917-fatima-marian-apparitions
+    date: '1917-07-13'
+    date_end: null
+    location_in_record: ch15:5814-6176
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 220315f4-29cd-4c89-8860-44f95613d98f
+      record_title: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About UFO Influences on the Human Race'
+      record_date: '2014-09-27'
+      record_reference: null
+      content_hash: sha256:5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b8489cc11c26
+      friendly_name: 2014-09-27-ebook-the-invisible-college-what-a-group-of-scientists-has
+  - claim_id: 22f9f78f-42da-442d-9e3c-76132fb8bf8a
+    claim_hash: 0ebe355d7892a863a5e9f53d09a0d90a4330c3109268b3961ae94af793b068ce
+    content: In the July 1917 Fatima prophecy, the entity said she would come to ask for the consecration of Russia, and that
+      if her requests were heeded, Russia would be converted and there would be peace, but if not, Russia would spread her
+      errors throughout the world.
+    original_excerpt: To prevent this I shall come to ask for the consecration of Russia…. If they heed my requests, Russia
+      will be converted and there will be peace. If not, she will spread her errors throughout the world.
+    claim_type: testimony
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: c3049206-6e8c-43b6-a645-5b8c47da0e56
+        title: 1917 Fatima Marian apparitions
+        slug: 1917-fatima-marian-apparitions
+    date: '1917-07-13'
+    date_end: null
+    location_in_record: ch15:6185-6380
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 220315f4-29cd-4c89-8860-44f95613d98f
+      record_title: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About UFO Influences on the Human Race'
+      record_date: '2014-09-27'
+      record_reference: null
+      content_hash: sha256:5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b8489cc11c26
+      friendly_name: 2014-09-27-ebook-the-invisible-college-what-a-group-of-scientists-has
+  - claim_id: 1f00e276-11d3-41bd-a1d6-66360e6223b4
+    claim_hash: f810e78553543b0f9692b93f6bf2900f59ea90f951bce3c80bb7b65e7c695e4b
+    content: Jacques Vallee compares the mixture of seriousness and absurdity in the Fatima prophecy to a pattern noted in
+      several contactee stories, and observes the same pattern recurs at Lourdes, where the alleged Virgin Mary instructs
+      Bernadette Soubirous to perform meaningless actions.
+    original_excerpt: The mixture of seriousness and absurdity that we have already noted in several contactee stories is
+      an unmistakable characteristic of this statement. We will find the same thing to be true in Lourdes, where the alleged
+      Virgin Mary instructs the little Bernadette to perform meaningless actions.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
+      title: Jacques Vallée
+    provenance_chain:
+      origin_kind: speaker
+      origin: Jacques Vallee
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 30d5f933-f6de-46b8-8d13-821454a8c92d
+        title: 1858 Lourdes Marian apparitions
+        slug: 1858-lourdes-marian-apparitions
+      - node_id: 6ac16044-a2e2-48c8-816a-98b023342f22
+        title: Bernadette Soubirous
+        slug: bernadette-soubirous
+      - node_id: c3049206-6e8c-43b6-a645-5b8c47da0e56
+        title: 1917 Fatima Marian apparitions
+        slug: 1917-fatima-marian-apparitions
+    date: null
+    date_end: null
+    location_in_record: ch15:6388-6674
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 220315f4-29cd-4c89-8860-44f95613d98f
+      record_title: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About UFO Influences on the Human Race'
+      record_date: '2014-09-27'
+      record_reference: null
+      content_hash: sha256:5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b8489cc11c26
+      friendly_name: 2014-09-27-ebook-the-invisible-college-what-a-group-of-scientists-has
+  - claim_id: 057e8faa-ade6-4ee1-b3c1-f5ed49d55560
+    claim_hash: 47f755ff48400b535b953187e2eb8a156fb3a7801b3bcaa0ce601269b514de3a
+    content: On 1917-08-13 there were eighteen thousand people at the Fatima apparition site, but the three children were
+      absent because they had been kidnapped and jailed by a local official who wanted to put an end to the phenomenon.
+    original_excerpt: On August 13 there were eighteen thousand people at the site of the apparitions. The children, however,
+      were not present. They had been kidnapped and jailed by a local official who had decided to put an end to this "nonsense."
+    claim_type: testimony
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 79277187-1caf-4840-a135-5819bc771321
+        title: Portugal, Fatima, Cova da Iria
+        slug: fatima-cova-da-iria-portugal
+      - node_id: c3049206-6e8c-43b6-a645-5b8c47da0e56
+        title: 1917 Fatima Marian apparitions
+        slug: 1917-fatima-marian-apparitions
+    date: '1917-08-13'
+    date_end: null
+    location_in_record: ch15:6756-6972
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 220315f4-29cd-4c89-8860-44f95613d98f
+      record_title: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About UFO Influences on the Human Race'
+      record_date: '2014-09-27'
+      record_reference: null
+      content_hash: sha256:5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b8489cc11c26
+      friendly_name: 2014-09-27-ebook-the-invisible-college-what-a-group-of-scientists-has
+  - claim_id: 7cf1e6b8-87b3-4efb-9cb3-854cbfbb0cfc
+    claim_hash: e63f7efcf97dfe0284cf64cb2da41a86688d319bffa09dcf4b4f10a3df991c83
+    content: During the 1917-08-13 Fatima gathering, in the children's absence, a clap of thunder was heard followed by a
+      bright flash, and a small whitish cloud formed around the tree, hovered for a few minutes, then rose and melted away.
+    original_excerpt: In their absence, a clap of thunder was heard, followed by a bright flash. A small whitish cloud was
+      forming around the tree. It hovered for a few minutes, then rose and melted away.
+    claim_type: testimony
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: c3049206-6e8c-43b6-a645-5b8c47da0e56
+        title: 1917 Fatima Marian apparitions
+        slug: 1917-fatima-marian-apparitions
+    date: '1917-08-13'
+    date_end: null
+    location_in_record: ch15:6983-7160
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 220315f4-29cd-4c89-8860-44f95613d98f
+      record_title: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About UFO Influences on the Human Race'
+      record_date: '2014-09-27'
+      record_reference: null
+      content_hash: sha256:5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b8489cc11c26
+      friendly_name: 2014-09-27-ebook-the-invisible-college-what-a-group-of-scientists-has
+  - claim_id: eca2ec8c-b39f-4a90-b021-bde83436b7c5
+    claim_hash: cc830b9e5533cfe70fb19df8e1dbaba22eaa5686df988d01ef0babe2c72e3a8f
+    content: During the 1917-08-13 Fatima gathering, the clouds in the sky turned crimson red, then changed to pink, yellow,
+      and blue.
+    original_excerpt: The clouds in the sky had turned crimson red, and then changed to pink, yellow, and blue.
+    claim_type: testimony
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: c3049206-6e8c-43b6-a645-5b8c47da0e56
+        title: 1917 Fatima Marian apparitions
+        slug: 1917-fatima-marian-apparitions
+    date: '1917-08-13'
+    date_end: null
+    location_in_record: ch15:7166-7250
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 220315f4-29cd-4c89-8860-44f95613d98f
+      record_title: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About UFO Influences on the Human Race'
+      record_date: '2014-09-27'
+      record_reference: null
+      content_hash: sha256:5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b8489cc11c26
+      friendly_name: 2014-09-27-ebook-the-invisible-college-what-a-group-of-scientists-has
+  - claim_id: da7926ae-426e-4bcf-9747-1c28dc841ebd
+    claim_hash: d2bf725a789de50724fed7c4015b04c30983b6832384af93dedcf54ebb2cb157
+    content: Witnesses at the 1917-08-13 Fatima gathering saw 'falling flowers', the phenomenon of 'angel hair' also reported
+      after UFO sightings, sometimes interpreted as an ionization effect.
+    original_excerpt: The witnesses saw "falling flowers," the famous phenomenon of "angel hair" so consistently reported
+      after the passage of a UFO, and sometimes interpreted as an ionization effect.
+    claim_type: testimony
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: c3049206-6e8c-43b6-a645-5b8c47da0e56
+        title: 1917 Fatima Marian apparitions
+        slug: 1917-fatima-marian-apparitions
+    date: '1917-08-13'
+    date_end: null
+    location_in_record: ch15:7431-7602
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 220315f4-29cd-4c89-8860-44f95613d98f
+      record_title: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About UFO Influences on the Human Race'
+      record_date: '2014-09-27'
+      record_reference: null
+      content_hash: sha256:5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b8489cc11c26
+      friendly_name: 2014-09-27-ebook-the-invisible-college-what-a-group-of-scientists-has
+  - claim_id: f7bdaa83-dacf-4e7b-a0dc-cc20d0938d9e
+    claim_hash: d6b340761a8a5c3dd9eface362cccb4e5b681fce5716175b08e37ec936bff65d
+    content: Manuel Pedro Marto reported seeing a luminous globe spinning through the clouds during the Fatima events of 1917-08-13,
+      in a statement made under oath during the canonical enquiry concerning the signs of that date.
+    original_excerpt: One man, Manuel Pedro Marto, reported seeing clearly a luminous globe spinning through the clouds ("Uma
+      especie de globo luminoso girando nas nuvens") in a statement made under oath during the canonical enquiry concerning
+      the "signs" of August 13, 1917.
+    claim_type: testimony
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: named
+      origin: Manuel Pedro Marto
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: a7c7c92b-be28-4c65-8365-80f9c5e695b8
+        title: Manuel Pedro Marto
+        slug: manuel-pedro-marto
+      - node_id: c3049206-6e8c-43b6-a645-5b8c47da0e56
+        title: 1917 Fatima Marian apparitions
+        slug: 1917-fatima-marian-apparitions
+    date: '1917-08-13'
+    date_end: null
+    location_in_record: ch15:7610-7860
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 220315f4-29cd-4c89-8860-44f95613d98f
+      record_title: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About UFO Influences on the Human Race'
+      record_date: '2014-09-27'
+      record_reference: null
+      content_hash: sha256:5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b8489cc11c26
+      friendly_name: 2014-09-27-ebook-the-invisible-college-what-a-group-of-scientists-has
+  - claim_id: 6fb3e19a-8eaa-4203-acec-a0d3191818b1
+    claim_hash: f37c2d8864d673378d1c53289c6655ecbed8b020081a7958449a1043d5961dd1
+    content: On 1917-08-19, after their release, the children were tending sheep near Aljustrel when at about 4 P.M. they
+      noticed a sudden lowering of temperature, and the sun became yellowish while the colours of the rainbow filled the countryside,
+      visible to nearby adults.
+    original_excerpt: On August 19 the children had been released and were tending sheep near Aljustrel, when about 4 P.M.
+      they noticed a sudden lowering of the temperature. The sun, they said, became yellowish; the colors of the rainbow once
+      again filled the countryside, visible to adults in the vicinity
+    claim_type: testimony
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: c3049206-6e8c-43b6-a645-5b8c47da0e56
+        title: 1917 Fatima Marian apparitions
+        slug: 1917-fatima-marian-apparitions
+      - node_id: cd675908-4103-4ee7-aba4-a86b3b5a05f8
+        title: Portugal, Aljustrel
+        slug: aljustrel-portugal
+    date: '1917-08-19'
+    date_end: null
+    location_in_record: ch15:7867-8143
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 220315f4-29cd-4c89-8860-44f95613d98f
+      record_title: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About UFO Influences on the Human Race'
+      record_date: '2014-09-27'
+      record_reference: null
+      content_hash: sha256:5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b8489cc11c26
+      friendly_name: 2014-09-27-ebook-the-invisible-college-what-a-group-of-scientists-has
+  - claim_id: c02b7572-63bf-42eb-8e52-076f650858d7
+    claim_hash: d8a6812545833f99674d3ce8a726650a9b43a42771410ea0fe545074c86ff430
+    content: During the 1917-08-19 apparition, a glowing light came to settle about a tree near the children and an entity
+      clothed in white and gold stood in the centre of the glow, asking the children to make sacrifices for sinners, then
+      departed after ten minutes slowly toward the east with a roaring sound.
+    original_excerpt: The bright flash was seen, and a glowing light came to settle about a tree near the children. The entity,
+      clothed in white and gold, stood once more in the center of the glow... A dialogue followed in which the apparition
+      asked the children to "make sacrifices for sinners." After ten minutes the Lady of Light departed slowly toward the
+      east with a roaring sound!
+    claim_type: testimony
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: c3049206-6e8c-43b6-a645-5b8c47da0e56
+        title: 1917 Fatima Marian apparitions
+        slug: 1917-fatima-marian-apparitions
+    date: '1917-08-19'
+    date_end: null
+    location_in_record: ch15:8180-8608
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 220315f4-29cd-4c89-8860-44f95613d98f
+      record_title: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About UFO Influences on the Human Race'
+      record_date: '2014-09-27'
+      record_reference: null
+      content_hash: sha256:5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b8489cc11c26
+      friendly_name: 2014-09-27-ebook-the-invisible-college-what-a-group-of-scientists-has
+  - claim_id: b68aa1a8-f6db-4bef-a3db-aa6742a01d35
+    claim_hash: c9d1265397b8b7678326072c85573183e702788fbd0f80623826103cb0154c4e
+    content: At the Fatima apparition of 1917-09-13, the crowd numbered thirty thousand, including two priests wearing the
+      Roman collar who were skeptical and had come specifically to establish the falsity of the reported miracles.
+    original_excerpt: On September 13 the crowd numbered thirty thousand, including two "men in black" (wearing the distinctive
+      Roman collar). These two priests were absolutely skeptical and had come specifically to establish the falsity of the
+      much-heralded "miracles."
+    claim_type: testimony
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: c3049206-6e8c-43b6-a645-5b8c47da0e56
+        title: 1917 Fatima Marian apparitions
+        slug: 1917-fatima-marian-apparitions
+    date: '1917-09-13'
+    date_end: null
+    location_in_record: ch15:8647-8885
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 220315f4-29cd-4c89-8860-44f95613d98f
+      record_title: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About UFO Influences on the Human Race'
+      record_date: '2014-09-27'
+      record_reference: null
+      content_hash: sha256:5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b8489cc11c26
+      friendly_name: 2014-09-27-ebook-the-invisible-college-what-a-group-of-scientists-has
+  - claim_id: 637dd44c-a329-4eab-a58f-39cc65eeb4b7
+    claim_hash: 9e80661f54c174abb07ffade304becec9f71dc49bc5950945d53ff63a9cbfd8b
+    content: At the Fatima apparition of 1917-09-13, at noon the sun got dimmer although no clouds were seen in the sky, and
+      a globe of light was seen by all advancing slowly down the valley from east to west toward the children before coming
+      to rest on the tree.
+    original_excerpt: Noon. The sun got dimmer, although no clouds were seen in the sky... A globe of light was seen by all,
+      advancing slowly down the valley, from east to west, toward the children. It came to rest on the tree.
+    claim_type: testimony
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: c3049206-6e8c-43b6-a645-5b8c47da0e56
+        title: 1917 Fatima Marian apparitions
+        slug: 1917-fatima-marian-apparitions
+    date: '1917-09-13'
+    date_end: null
+    location_in_record: ch15:9186-9424
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 220315f4-29cd-4c89-8860-44f95613d98f
+      record_title: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About UFO Influences on the Human Race'
+      record_date: '2014-09-27'
+      record_reference: null
+      content_hash: sha256:5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b8489cc11c26
+      friendly_name: 2014-09-27-ebook-the-invisible-college-what-a-group-of-scientists-has
+  - claim_id: 7e9900a5-007d-43f3-bfda-aa07af74ec70
+    claim_hash: 95d71ccecfd02d494ac4a729f4f938f068d171432de4c9aa16cd10e8a77db93d
+    content: At the Fatima apparition of 1917-09-13, a white cloud formed and shiny white 'petals' began falling from the
+      empty sky, appearing to grow smaller as they neared observers and melting away when caught in the hands.
+    original_excerpt: A white cloud formed and out of the empty sky, shiny white "petals" began to fall... the falling, glistening
+      globules, contrary to the laws of perspective, grow smaller and smaller as they near them. And when they reach out their
+      hands and hats to catch them they find that they have somehow melted away.
+    claim_type: testimony
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: c3049206-6e8c-43b6-a645-5b8c47da0e56
+        title: 1917 Fatima Marian apparitions
+        slug: 1917-fatima-marian-apparitions
+    date: '1917-09-13'
+    date_end: null
+    location_in_record: ch15:9430-9801
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 220315f4-29cd-4c89-8860-44f95613d98f
+      record_title: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About UFO Influences on the Human Race'
+      record_date: '2014-09-27'
+      record_reference: null
+      content_hash: sha256:5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b8489cc11c26
+      friendly_name: 2014-09-27-ebook-the-invisible-college-what-a-group-of-scientists-has
+  - claim_id: bd9faf53-bc9e-4ab1-ba84-de4529031326
+    claim_hash: 18762dd214e0de62a41fc2ede3c2dc6546810a1a770fa44ee9433a6ef49aa2c8
+    content: At the 1917-09-13 Fatima apparition, the promise of a miracle on October 13 was repeated to Lucia dos Santos,
+      and the radiant globe then rose and disappeared into the sun.
+    original_excerpt: The promise of a miracle on October 13 was repeated. Then the radiant globe rose and disappeared into
+      the sun.
+    claim_type: testimony
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: c3049206-6e8c-43b6-a645-5b8c47da0e56
+        title: 1917 Fatima Marian apparitions
+        slug: 1917-fatima-marian-apparitions
+      - node_id: f0add216-a5fe-45e9-9e4a-1e82ebd4db2d
+        title: Lucia dos Santos
+        slug: lucia-dos-santos
+    date: '1917-09-13'
+    date_end: null
+    location_in_record: ch15:9985-10092
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 220315f4-29cd-4c89-8860-44f95613d98f
+      record_title: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About UFO Influences on the Human Race'
+      record_date: '2014-09-27'
+      record_reference: null
+      content_hash: sha256:5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b8489cc11c26
+      friendly_name: 2014-09-27-ebook-the-invisible-college-what-a-group-of-scientists-has
+  - claim_id: 7b630f2d-8971-4621-be3f-3070a59ac65f
+    claim_hash: 0ca00245aa0c985576958df903de0968b22210f1a8131831ca5d410950450eda
+    content: One correspondent of Jacques Vallee wrote that at age seven they had a Sun experience similar to the Fatima case,
+      occurring at sunset on the day of their father's funeral.
+    original_excerpt: '"At the age of seven, I had a Sun experience similar to the Fatima case," writes one of my correspondents.
+      "It occurred at sunset on the day of my father’s funeral…."'
+    claim_type: hearsay
+    attestation: second_hand
+    speaker:
+      node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
+      title: Jacques Vallée
+    provenance_chain:
+      origin_kind: anonymous
+      origin: a correspondent of Jacques Vallee describing a childhood Sun experience
+      relay:
+        - letter to Jacques Vallee
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: c3049206-6e8c-43b6-a645-5b8c47da0e56
+        title: 1917 Fatima Marian apparitions
+        slug: 1917-fatima-marian-apparitions
+    date: null
+    date_end: null
+    location_in_record: ch16:15605-15760
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 220315f4-29cd-4c89-8860-44f95613d98f
+      record_title: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About UFO Influences on the Human Race'
+      record_date: '2014-09-27'
+      record_reference: null
+      content_hash: sha256:5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b8489cc11c26
+      friendly_name: 2014-09-27-ebook-the-invisible-college-what-a-group-of-scientists-has
+  - claim_id: 4babd728-041f-4d5a-9fec-44ae70b4485a
+    claim_hash: 1bc39d9a8632fcc057d4fb9ecd034c447427c8eb3f8b2382f7a67da581531bd6
+    content: A correspondent of Jacques Vallee affiliated with a Fatima devotee group expressed the belief that the Pilgrim
+      Virgin may be nothing more than a point of psychic focus onto which the devotee's unconscious projects.
+    original_excerpt: Another reader, a woman affiliated with a Fatima devotee group, expresses her belief that the Pilgrim
+      Virgin may be nothing more than a point of psychic focus, "upon which that which is already in the devotee’s unconscious
+      is projecting."
+    claim_type: opinion
+    attestation: second_hand
+    speaker:
+      node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
+      title: Jacques Vallée
+    provenance_chain:
+      origin_kind: anonymous
+      origin: a woman affiliated with a Fatima devotee group who wrote to Jacques Vallee
+      relay:
+        - letter to Jacques Vallee
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: c3049206-6e8c-43b6-a645-5b8c47da0e56
+        title: 1917 Fatima Marian apparitions
+        slug: 1917-fatima-marian-apparitions
+    date: null
+    date_end: null
+    location_in_record: ch16:16054-16280
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 220315f4-29cd-4c89-8860-44f95613d98f
+      record_title: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About UFO Influences on the Human Race'
+      record_date: '2014-09-27'
+      record_reference: null
+      content_hash: sha256:5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b8489cc11c26
+      friendly_name: 2014-09-27-ebook-the-invisible-college-what-a-group-of-scientists-has
+  - claim_id: bfd7d496-54e2-4845-a298-a734470877e1
+    claim_hash: fbf471c8ec52098991260d4e8936048238dfc50b49f5be37ef0401e80bb5bff0
+    content: The Virgin Mary appeared to three poor children in Fatima, Portugal, in 1917.
+    original_excerpt: one of the most important events in the history of the faith is the appearance of the mother of Jesus,
+      the Virgin Mary, to three poor children in Fatima, Portugal, in 1917.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 95472b02-af65-4737-896c-993994f9be27
+        title: Portugal, Fatima
+        slug: fatima-portugal
+      - node_id: c3049206-6e8c-43b6-a645-5b8c47da0e56
+        title: 1917 Fatima Marian apparitions
+        slug: 1917-fatima-marian-apparitions
+    date: '1917'
+    date_end: null
+    location_in_record: ch5:18727-18894
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 288e1100-0497-41df-ba08-9890e519b0b9
+      record_title: American Cosmic
+      record_date: '2019'
+      record_reference: null
+      content_hash: sha256:ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b16ac4758
+      friendly_name: 2019-ebook-american-cosmic
+  - claim_id: 0f7c05bb-b127-4e33-a136-e631a844d496
+    claim_hash: 8dd694726f010ac5f86b9c5a8594f585f2fa0b627cb00092fe0a43e7b31547e2
+    content: The Fatima apparition has received the official sanction of the Catholic Church, and several popes have expressed
+      open devotion to "Our Lady of Fatima".
+    original_excerpt: The apparition has received the official sanction of the Catholic Church, and several popes have expressed
+      open devotion to "Our Lady of Fatima," as she is called.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: c3049206-6e8c-43b6-a645-5b8c47da0e56
+        title: 1917 Fatima Marian apparitions
+        slug: 1917-fatima-marian-apparitions
+    date: null
+    date_end: null
+    location_in_record: ch5:18900-19056
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 288e1100-0497-41df-ba08-9890e519b0b9
+      record_title: American Cosmic
+      record_date: '2019'
+      record_reference: null
+      content_hash: sha256:ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b16ac4758
+      friendly_name: 2019-ebook-american-cosmic
+  - claim_id: 6aa3d7dc-fa78-4b35-b804-5b9b4c97edc2
+    claim_hash: ef421a5a93a1250b18bc12ea5c861406f1bc1055c497158be0aa05f6e0c4871e
+    content: May 13 was the date the Virgin Mary first appeared to the three children in Fatima in 1917, and Pope John Paul
+      II was doubtless aware of this coincidence with the date of the 1981 assassination attempt on his life.
+    original_excerpt: May 13 was when the lady first appeared to the three young children, and the pope was doubtless aware
+      of the date.
+    claim_type: opinion
+    attestation: first_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: speaker
+      origin: D. W. Pasulka
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 38ecab4b-4ae9-4556-97b6-221dcd957341
+        title: Assassination attempt on John Paul II (1981-05-13)
+        slug: assassination-attempt-on-john-paul-ii-1981-05-13
+      - node_id: 4484f20d-af42-40af-b0ab-964afae98ec7
+        title: John Paul II
+        slug: john-paul-ii
+      - node_id: c3049206-6e8c-43b6-a645-5b8c47da0e56
+        title: 1917 Fatima Marian apparitions
+        slug: 1917-fatima-marian-apparitions
+    date: '1917-05-13'
+    date_end: null
+    location_in_record: ch5:19176-19285
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 288e1100-0497-41df-ba08-9890e519b0b9
+      record_title: American Cosmic
+      record_date: '2019'
+      record_reference: null
+      content_hash: sha256:ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b16ac4758
+      friendly_name: 2019-ebook-american-cosmic
+  - claim_id: 0165b5d0-b298-41f7-8bf2-c68932d83fb5
+    claim_hash: 6aaa0101838d5d04d298160860e24da3467540772739c4beb58816e8b677e9d3
+    content: The Fatima apparition was not a one-time event but recurred over a series of weeks in 1917.
+    original_excerpt: The apparition was not a one-time event, but recurred over a series of weeks.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: c3049206-6e8c-43b6-a645-5b8c47da0e56
+        title: 1917 Fatima Marian apparitions
+        slug: 1917-fatima-marian-apparitions
+    date: '1917'
+    date_end: null
+    location_in_record: ch5:19389-19460
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 288e1100-0497-41df-ba08-9890e519b0b9
+      record_title: American Cosmic
+      record_date: '2019'
+      record_reference: null
+      content_hash: sha256:ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b16ac4758
+      friendly_name: 2019-ebook-american-cosmic
+  - claim_id: 82706c31-faa6-409a-8dbf-342d6f15ffa2
+    claim_hash: 20b5cdfd820dd42aecfa1e12e7a2f5ab1f45310f31d1395752a0a971fd8db08f
+    content: The Fatima events started with three children, nine-year-old Lucia Santos and her cousins Jacinta Marto and Francisco
+      Marto, who saw an angel in the spring of 1917.
+    original_excerpt: It started with the three children, nine-year-old Lucia Santos and her cousins, Jacinta and Francisco
+      Marto, who saw an angel in the spring of 1917.
+    claim_type: testimony
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: named
+      origin: Lucia Santos, Jacinta Marto, and Francisco Marto
+      relay:
+        - historical accounts of the Fatima apparitions
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 1b8138fb-8844-40ba-9512-21dc1ea1ba39
+        title: Francisco Marto
+        slug: francisco-marto
+      - node_id: c3049206-6e8c-43b6-a645-5b8c47da0e56
+        title: 1917 Fatima Marian apparitions
+        slug: 1917-fatima-marian-apparitions
+      - node_id: d2593720-e09e-4f39-837e-4c6f88e66fbd
+        title: Jacinta Marto
+        slug: jacinta-marto
+      - node_id: f0add216-a5fe-45e9-9e4a-1e82ebd4db2d
+        title: Lucia dos Santos
+        slug: lucia-dos-santos
+    date: 1917-03
+    date_end: null
+    location_in_record: ch5:19467-19610
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 288e1100-0497-41df-ba08-9890e519b0b9
+      record_title: American Cosmic
+      record_date: '2019'
+      record_reference: null
+      content_hash: sha256:ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b16ac4758
+      friendly_name: 2019-ebook-american-cosmic
+  - claim_id: e24d81db-6e44-495c-b05b-5206abbeb5c3
+    claim_hash: 9377bacba121d15008bc2b64da76288a7e9eb90bf6209ec87c032651ee767edb
+    content: On May 13 and again on June 13, 1917, Lucia Santos, Jacinta Marto, and Francisco Marto saw a beautiful lady.
+    original_excerpt: On May 13, and again on June 13, the children saw a beautiful lady.
+    claim_type: testimony
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: named
+      origin: Lucia Santos, Jacinta Marto, and Francisco Marto
+      relay:
+        - historical accounts of the Fatima apparitions
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 1b8138fb-8844-40ba-9512-21dc1ea1ba39
+        title: Francisco Marto
+        slug: francisco-marto
+      - node_id: c3049206-6e8c-43b6-a645-5b8c47da0e56
+        title: 1917 Fatima Marian apparitions
+        slug: 1917-fatima-marian-apparitions
+      - node_id: d2593720-e09e-4f39-837e-4c6f88e66fbd
+        title: Jacinta Marto
+        slug: jacinta-marto
+      - node_id: f0add216-a5fe-45e9-9e4a-1e82ebd4db2d
+        title: Lucia dos Santos
+        slug: lucia-dos-santos
+    date: '1917-05-13'
+    date_end: null
+    location_in_record: ch5:19722-19784
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 288e1100-0497-41df-ba08-9890e519b0b9
+      record_title: American Cosmic
+      record_date: '2019'
+      record_reference: null
+      content_hash: sha256:ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b16ac4758
+      friendly_name: 2019-ebook-american-cosmic
+  - claim_id: 7251a81c-e47f-4b19-8e05-bd3cab3252d8
+    claim_hash: 399dbb6097ec98eaf39b0a830e6a9791534ade617a16b98ca1d0d5743543e0d8
+    content: The Virgin Mary was expected to appear again in Fatima, Portugal on 1917-08-13.
+    original_excerpt: The lady was expected to appear again on August 13, but the local parish priest had become so concerned
+      about the growing publicity the sightings were generating that he held the children in
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 95472b02-af65-4737-896c-993994f9be27
+        title: Portugal, Fatima
+        slug: fatima-portugal
+      - node_id: c3049206-6e8c-43b6-a645-5b8c47da0e56
+        title: 1917 Fatima Marian apparitions
+        slug: 1917-fatima-marian-apparitions
+    date: '1917-08-13'
+    date_end: null
+    location_in_record: ch5:19790-19978
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 288e1100-0497-41df-ba08-9890e519b0b9
+      record_title: American Cosmic
+      record_date: '2019'
+      record_reference: null
+      content_hash: sha256:ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b16ac4758
+      friendly_name: 2019-ebook-american-cosmic
+  - claim_id: e5a45203-a86f-4881-899b-3c321b853c60
+    claim_hash: e070579c6592a8bcadf2f43918237bfd15682da77f71086e828ea4cda42b5434
+    content: The children at Fatima reported seeing the apparition six times in all.
+    original_excerpt: The children reported seeing the apparition six times in all.
+    claim_type: testimony
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 1b8138fb-8844-40ba-9512-21dc1ea1ba39
+        title: Francisco Marto
+        slug: francisco-marto
+      - node_id: c3049206-6e8c-43b6-a645-5b8c47da0e56
+        title: 1917 Fatima Marian apparitions
+        slug: 1917-fatima-marian-apparitions
+      - node_id: d2593720-e09e-4f39-837e-4c6f88e66fbd
+        title: Jacinta Marto
+        slug: jacinta-marto
+      - node_id: f0add216-a5fe-45e9-9e4a-1e82ebd4db2d
+        title: Lucia dos Santos
+        slug: lucia-dos-santos
+    date: null
+    date_end: null
+    location_in_record: ch5:20082-20139
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 288e1100-0497-41df-ba08-9890e519b0b9
+      record_title: American Cosmic
+      record_date: '2019'
+      record_reference: null
+      content_hash: sha256:ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b16ac4758
+      friendly_name: 2019-ebook-american-cosmic
+  - claim_id: 381d8af9-dc34-4bf1-b1f4-b982c3b798bf
+    claim_hash: 82559ad790d93303ea17005eb5411a1d679e3d37319cc71f315e2474302c7cea
+    content: The culminating event of the Fatima apparitions was the Miracle of the Sun, witnessed by thousands of people
+      including avowed sceptics, on 1917-10-13.
+    original_excerpt: The culminating event was the “Miracle of the Sun,” witnessed by thousands of people, including avowed
+      skeptics, on October 13, 1917.
+    claim_type: testimony
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: c3049206-6e8c-43b6-a645-5b8c47da0e56
+        title: 1917 Fatima Marian apparitions
+        slug: 1917-fatima-marian-apparitions
+    date: '1917-10-13'
+    date_end: null
+    location_in_record: ch5:20144-20272
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 288e1100-0497-41df-ba08-9890e519b0b9
+      record_title: American Cosmic
+      record_date: '2019'
+      record_reference: null
+      content_hash: sha256:ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b16ac4758
+      friendly_name: 2019-ebook-american-cosmic
+  - claim_id: 481c6d86-cfe4-40a7-95ef-b0c20d610cc2
+    claim_hash: dd6c429e1e27a4dfbe217d6a78ad28708aee935eca3a0bfef406816c56eccd39
+    content: The Portuguese media covered the Miracle of the Sun event at Fatima and captured the phenomena with photographs.
+    original_excerpt: The Portuguese media covered the event and captured the phenomena with photographs.
+    claim_type: observation
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: c3049206-6e8c-43b6-a645-5b8c47da0e56
+        title: 1917 Fatima Marian apparitions
+        slug: 1917-fatima-marian-apparitions
+    date: null
+    date_end: null
+    location_in_record: ch5:20278-20349
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 288e1100-0497-41df-ba08-9890e519b0b9
+      record_title: American Cosmic
+      record_date: '2019'
+      record_reference: null
+      content_hash: sha256:ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b16ac4758
+      friendly_name: 2019-ebook-american-cosmic
+  - claim_id: d05ed45a-83c0-4b1d-971b-1bc71613bd5e
+    claim_hash: 831b0b10abe93d8ce5fbc069a1b9ed4fe378ecf525afb51998316cecc02f9128
+    content: Jacques Vallee considers that the actual events of the Fatima apparitions are mostly unknown and have been changed
+      through media coverage and over time, despite the story of Fatima being known by almost all Catholics and even to millions
+      of non-Catholics.
+    original_excerpt: Although the story of Fatima is known by almost all Catholics, and even to millions of non-Catholics,
+      Jacques notes that the actual events are mostly unknown and have been changed through media and over time.
+    claim_type: opinion
+    attestation: second_hand
+    speaker:
+      node_id: f2daae19-9351-4a8e-b466-664f83887f61
+      title: Diana Walsh Pasulka
+    provenance_chain:
+      origin_kind: named
+      origin: Jacques Vallee
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
+        title: Jacques Vallée
+        slug: jacques-vallee
+      - node_id: c3049206-6e8c-43b6-a645-5b8c47da0e56
+        title: 1917 Fatima Marian apparitions
+        slug: 1917-fatima-marian-apparitions
+    date: null
+    date_end: null
+    location_in_record: ch5:20363-20566
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 288e1100-0497-41df-ba08-9890e519b0b9
+      record_title: American Cosmic
+      record_date: '2019'
+      record_reference: null
+      content_hash: sha256:ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b16ac4758
+      friendly_name: 2019-ebook-american-cosmic
+  - claim_id: 3c7bffa2-1195-44a2-862b-3d62a09ca387
+    claim_hash: d4531ca3c805cf1a56ff918f70e53da0b9d7f87668faac38448b2760d4a3b811
+    content: According to Jacques Vallee, the sequence of observations of an entity thought to be the Holy Virgin at Fatima
+      began two years previously with a classical sequence of UFO sightings.
+    original_excerpt: that the entire sequence of observations of an entity thought to be the Holy Virgin had begun two years
+      previously with a fairly classical sequence of UFO sightings.
+    claim_type: opinion
+    attestation: second_hand
+    speaker:
+      node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
+      title: Jacques Vallée
+    provenance_chain:
+      origin_kind: named
+      origin: Jacques Vallee
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
+        title: Jacques Vallée
+        slug: jacques-vallee
+      - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
+        title: Unidentified Flying Object (UFO)
+        slug: unidentified-flying-object-ufo
+      - node_id: c3049206-6e8c-43b6-a645-5b8c47da0e56
+        title: 1917 Fatima Marian apparitions
+        slug: 1917-fatima-marian-apparitions
+    date: null
+    date_end: null
+    location_in_record: ch5:20592-20747
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 288e1100-0497-41df-ba08-9890e519b0b9
+      record_title: American Cosmic
+      record_date: '2019'
+      record_reference: null
+      content_hash: sha256:ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b16ac4758
+      friendly_name: 2019-ebook-american-cosmic
+  - claim_id: f216cc3f-9dc3-44e6-9bea-83928a5bbd9a
+    claim_hash: 63337eb794ee13e17f7760fa4ebeb972583cff11a4bd34e4b5529f3f88a832f7
+    content: Jacques Vallee considers the technology used by the Blessed Virgin Mary apparition at Fatima indistinguishable
+      from the technology surrounding the UFO phenomenon.
+    original_excerpt: it is also indistinguishable from the technology surrounding the UFO phenomenon.
+    claim_type: opinion
+    attestation: second_hand
+    speaker:
+      node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
+      title: Jacques Vallée
+    provenance_chain:
+      origin_kind: named
+      origin: Jacques Vallee
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
+        title: Jacques Vallée
+        slug: jacques-vallee
+      - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
+        title: Unidentified Flying Object (UFO)
+        slug: unidentified-flying-object-ufo
+      - node_id: c3049206-6e8c-43b6-a645-5b8c47da0e56
+        title: 1917 Fatima Marian apparitions
+        slug: 1917-fatima-marian-apparitions
+    date: null
+    date_end: null
+    location_in_record: ch5:20972-21041
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 288e1100-0497-41df-ba08-9890e519b0b9
+      record_title: American Cosmic
+      record_date: '2019'
+      record_reference: null
+      content_hash: sha256:ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b16ac4758
+      friendly_name: 2019-ebook-american-cosmic
+  - claim_id: 2358e9d7-50e5-4df3-a5b5-1cb29ccfb37a
+    claim_hash: 9b39c51821bfee2a0eb089bb3865fe9ae42ed4197587d55cabc9ec2f3a5cb0b1
+    content: Recurring technology elements in apparition and UFO contact events include the arrival of a shining being in
+      a small sphere, spinning aerial discs, humming noises, heat effects, and healing phenomena.
+    original_excerpt: including the arrival of a shining being in a small sphere (much like the spheres described by Alison
+      Kruse), spinning aerial discs, humming noises, heat effects, healing phenomena, some people witnessing it while others
+      do not
+    claim_type: observation
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: c3049206-6e8c-43b6-a645-5b8c47da0e56
+        title: 1917 Fatima Marian apparitions
+        slug: 1917-fatima-marian-apparitions
+      - node_id: e429e611-f7a3-4b71-bc4a-7b219dabc2e6
+        title: Morphology of Miracles (Vallee framework)
+        slug: morphology-of-miracles-vallee-framework
+    date: null
+    date_end: null
+    location_in_record: ch5:21139-21363
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 288e1100-0497-41df-ba08-9890e519b0b9
+      record_title: American Cosmic
+      record_date: '2019'
+      record_reference: null
+      content_hash: sha256:ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b16ac4758
+      friendly_name: 2019-ebook-american-cosmic
+  - claim_id: de32289f-fe96-416c-aaea-a72e1d2ba759
+    claim_hash: bb1ca532893fb51b0fa1458659b1f0339e6dd60e4bfe486865a4e4d4c868a0e8
+    content: The message of beings in apparition and UFO contact events often seems absurd and includes an injunction to remain
+      silent, as with the secrets of Fatima.
+    original_excerpt: the message of the beings, which seems absurd and often includes the injunction to remain silent (here,
+      the secrets of Fatima)
+    claim_type: observation
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: c3049206-6e8c-43b6-a645-5b8c47da0e56
+        title: 1917 Fatima Marian apparitions
+        slug: 1917-fatima-marian-apparitions
+    date: null
+    date_end: null
+    location_in_record: ch5:21427-21546
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 288e1100-0497-41df-ba08-9890e519b0b9
+      record_title: American Cosmic
+      record_date: '2019'
+      record_reference: null
+      content_hash: sha256:ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b16ac4758
+      friendly_name: 2019-ebook-american-cosmic
+  - claim_id: 2abc282b-eb0e-4474-8ecc-95c7a23f9105
+    claim_hash: 050b493c92cc89da9ddd7e502b79571155f00e59a2dfba548240ce326d0c0d7a
+    content: Months before the 1917 Fatima apparitions began, Lucia Santos was walking on a hillside when she saw a shining
+      cloud descend from the sky containing the outline of a human form.
+    original_excerpt: Months before the apparitions of the Virgin, Lucia was out walking on a hillside when she saw a shining
+      cloud descend from the sky. In the cloud was the outline of a human form.
+    claim_type: testimony
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: named
+      origin: Lucia Santos
+      relay:
+        - Jacques Vallee's account
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: c3049206-6e8c-43b6-a645-5b8c47da0e56
+        title: 1917 Fatima Marian apparitions
+        slug: 1917-fatima-marian-apparitions
+      - node_id: f0add216-a5fe-45e9-9e4a-1e82ebd4db2d
+        title: Lucia dos Santos
+        slug: lucia-dos-santos
+    date: null
+    date_end: null
+    location_in_record: ch5:21556-21728
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 288e1100-0497-41df-ba08-9890e519b0b9
+      record_title: American Cosmic
+      record_date: '2019'
+      record_reference: null
+      content_hash: sha256:ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b16ac4758
+      friendly_name: 2019-ebook-american-cosmic
+  - claim_id: c9583bb3-b674-448c-9885-3a002064f1ce
+    claim_hash: 93062fd89186c670d64a98611e323ce50ae176ea27511edcbc577615f59f2b52
+    content: In their testimonies, the Fatima children identified the apparition only as "a lady," not as the Virgin Mary,
+      although the entity had said she was from heaven.
+    original_excerpt: The records of the children’s testimonies indicate that they identified the lady just as “a lady,” not
+      as the Virgin Mary, although the entity had said that she was from heaven.
+    claim_type: testimony
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: document
+      origin: records of the Fatima children's testimonies
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 1b8138fb-8844-40ba-9512-21dc1ea1ba39
+        title: Francisco Marto
+        slug: francisco-marto
+      - node_id: c3049206-6e8c-43b6-a645-5b8c47da0e56
+        title: 1917 Fatima Marian apparitions
+        slug: 1917-fatima-marian-apparitions
+      - node_id: d2593720-e09e-4f39-837e-4c6f88e66fbd
+        title: Jacinta Marto
+        slug: jacinta-marto
+      - node_id: f0add216-a5fe-45e9-9e4a-1e82ebd4db2d
+        title: Lucia dos Santos
+        slug: lucia-dos-santos
+    date: null
+    date_end: null
+    location_in_record: ch5:22312-22482
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 288e1100-0497-41df-ba08-9890e519b0b9
+      record_title: American Cosmic
+      record_date: '2019'
+      record_reference: null
+      content_hash: sha256:ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b16ac4758
+      friendly_name: 2019-ebook-american-cosmic
+  - claim_id: c541bc8b-1d4d-4d9e-9f8f-9abf67668e21
+    claim_hash: 851d646f6ace757b6027982253ef110510cf928e5f025e66519c525454b0389c
+    content: The Fatima apparition first appeared to the children in an oval of bright light and instructed them to return
+      to the same place every month.
+    original_excerpt: She first appeared to the children in an oval of bright light, and she instructed them to return to
+      the same place every month, where she would greet them.
+    claim_type: testimony
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: c3049206-6e8c-43b6-a645-5b8c47da0e56
+        title: 1917 Fatima Marian apparitions
+        slug: 1917-fatima-marian-apparitions
+      - node_id: f0add216-a5fe-45e9-9e4a-1e82ebd4db2d
+        title: Lucia dos Santos
+        slug: lucia-dos-santos
+    date: null
+    date_end: null
+    location_in_record: ch5:22490-22640
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 288e1100-0497-41df-ba08-9890e519b0b9
+      record_title: American Cosmic
+      record_date: '2019'
+      record_reference: null
+      content_hash: sha256:ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b16ac4758
+      friendly_name: 2019-ebook-american-cosmic
+  - claim_id: b28dc7f8-fa61-485d-ae82-eab4940c1e04
+    claim_hash: dbe7f153fee4074dd05e29e78e052cf0d15f3fde2368a2612a888c3577f75163
+    content: As rumours of the Fatima apparitions spread, crowds swelled to thousands, although only the children could see
+      the lady.
+    original_excerpt: They did so, and as rumors of the events spread, crowds swelled to thousands. Although only the children
+      could see the lady
+    claim_type: testimony
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: c3049206-6e8c-43b6-a645-5b8c47da0e56
+        title: 1917 Fatima Marian apparitions
+        slug: 1917-fatima-marian-apparitions
+    date: null
+    date_end: null
+    location_in_record: ch5:22646-22765
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 288e1100-0497-41df-ba08-9890e519b0b9
+      record_title: American Cosmic
+      record_date: '2019'
+      record_reference: null
+      content_hash: sha256:ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b16ac4758
+      friendly_name: 2019-ebook-american-cosmic
+  - claim_id: 7fe2656f-8b3d-4c5f-9eb4-abfccacedad0
+    claim_hash: 4a1f1415ff12f287b59315cbf7337440f1daed76afad5c52a367686660a10da1
+    content: Witnesses at Fatima reported seeing a cloud descend when the lady was supposed to appear and ascend when she
+      disappeared, although only the children could see the lady herself.
+    original_excerpt: others reported seeing a cloud descend when the lady was supposed to appear and ascend when she disappeared
+    claim_type: testimony
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: c3049206-6e8c-43b6-a645-5b8c47da0e56
+        title: 1917 Fatima Marian apparitions
+        slug: 1917-fatima-marian-apparitions
+    date: null
+    date_end: null
+    location_in_record: ch5:22771-22867
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 288e1100-0497-41df-ba08-9890e519b0b9
+      record_title: American Cosmic
+      record_date: '2019'
+      record_reference: null
+      content_hash: sha256:ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b16ac4758
+      friendly_name: 2019-ebook-american-cosmic
+  - claim_id: 990e562d-0ce6-489f-a1df-f510c140be32
+    claim_hash: 669c855a9f44798b7827454eee5b4def415812509b51ea5c9ca43632ae2d865c
+    content: Witnesses at Fatima reported hearing a buzzing sound when the lady was supposedly speaking to the children.
+    original_excerpt: They also reported hearing a buzzing sound when the lady was supposedly speaking to the children.
+    claim_type: testimony
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: c3049206-6e8c-43b6-a645-5b8c47da0e56
+        title: 1917 Fatima Marian apparitions
+        slug: 1917-fatima-marian-apparitions
+    date: null
+    date_end: null
+    location_in_record: ch5:22880-22968
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 288e1100-0497-41df-ba08-9890e519b0b9
+      record_title: American Cosmic
+      record_date: '2019'
+      record_reference: null
+      content_hash: sha256:ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b16ac4758
+      friendly_name: 2019-ebook-american-cosmic
+  - claim_id: aca98908-2e24-4e90-bd24-cbc34198d7cf
+    claim_hash: 403d21fddee994df304169507042c9a982669b18006b6f5783482f69c5c4c070
+    content: At least thirty thousand and perhaps as many as one hundred thousand people, including sceptics, journalists,
+      and believers, showed up at Fatima on 1917-05-13 to see the display the children had predicted.
+    original_excerpt: At least thirty thousand and perhaps as many as one hundred thousand people showed up to see the display
+      that the children predicted would happen on May 13, among them skeptics, journalists, and of course believers.
+    claim_type: testimony
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: c3049206-6e8c-43b6-a645-5b8c47da0e56
+        title: 1917 Fatima Marian apparitions
+        slug: 1917-fatima-marian-apparitions
+    date: '1917-05-13'
+    date_end: null
+    location_in_record: ch5:23682-23887
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 288e1100-0497-41df-ba08-9890e519b0b9
+      record_title: American Cosmic
+      record_date: '2019'
+      record_reference: null
+      content_hash: sha256:ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b16ac4758
+      friendly_name: 2019-ebook-american-cosmic
+  - claim_id: 659618d7-2e11-4caf-b35d-d56cb8e0b994
+    claim_hash: 5f43e1c0fb6d11ac26508d14d47d40dd3c24cb530eb454612640a745036dee45
+    content: José Maria de Almeida Garrett observed a thin, fine, bluish column of smoke rise at the spot where the Fatima
+      children stood, extending up to approximately two metres above their heads before evaporating, lasting a few seconds.
+    original_excerpt: It must have been 1:30 p.m. when there arose, at the exact spot where the children were, a column of
+      smoke, thin, fine and bluish, which extended up to perhaps two meters above their heads, and evaporated at that height.
+      This phenomenon, perfectly visible to the naked eye, lasted for a few seconds.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: c591a126-a6b7-4d3e-b1a5-69820bfe3628
+      title: José Maria de Almeida Garrett
+    provenance_chain:
+      origin_kind: speaker
+      origin: José Maria de Almeida Garrett
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: c3049206-6e8c-43b6-a645-5b8c47da0e56
+        title: 1917 Fatima Marian apparitions
+        slug: 1917-fatima-marian-apparitions
+      - node_id: c591a126-a6b7-4d3e-b1a5-69820bfe3628
+        title: José Maria de Almeida Garrett
+        slug: jose-maria-de-almeida-garrett
+    date: null
+    date_end: null
+    location_in_record: ch5:24038-24329
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 288e1100-0497-41df-ba08-9890e519b0b9
+      record_title: American Cosmic
+      record_date: '2019'
+      record_reference: null
+      content_hash: sha256:ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b16ac4758
+      friendly_name: 2019-ebook-american-cosmic
+  - claim_id: 3e7d2b81-c1e9-426f-8825-4166ae1e651e
+    claim_hash: 59914791f5868f9f1fe272e24b40a6a1de148ad15ddbb8604dec8ec2656a9442
+    content: José Maria de Almeida Garrett observed the multitude at Fatima turn away from the apparition spot to look at
+      the sun, which appeared as a very clear disc with a sharp edge that could be stared at without hurting the eyes.
+    original_excerpt: Suddenly I heard the uproar of thousands of voices, and I saw the whole multitude spread out in that
+      vast space at my feet . . . turn their backs to that spot . . . and look at the sun on the other side. I turned around,
+      too . . . and I could see the sun, like a very clear disc, with its sharp edge, which gleamed without hurting the sight.
+      . . . The most astonishing thing was to be able to stare at the solar disc for a long time, brilliant with light and
+      heat, without hurting the eyes or damaging the retina.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: c591a126-a6b7-4d3e-b1a5-69820bfe3628
+      title: José Maria de Almeida Garrett
+    provenance_chain:
+      origin_kind: speaker
+      origin: José Maria de Almeida Garrett
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: c3049206-6e8c-43b6-a645-5b8c47da0e56
+        title: 1917 Fatima Marian apparitions
+        slug: 1917-fatima-marian-apparitions
+      - node_id: c591a126-a6b7-4d3e-b1a5-69820bfe3628
+        title: José Maria de Almeida Garrett
+        slug: jose-maria-de-almeida-garrett
+    date: null
+    date_end: null
+    location_in_record: ch5:24741-25356
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 288e1100-0497-41df-ba08-9890e519b0b9
+      record_title: American Cosmic
+      record_date: '2019'
+      record_reference: null
+      content_hash: sha256:ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b16ac4758
+      friendly_name: 2019-ebook-american-cosmic
+  - claim_id: b1da4848-bf78-46be-9511-01f015f1e898
+    claim_hash: 62d17af35cf00e2a3477c997747c285ced3a30938208ded17b02e371e0065d88
+    content: José Maria de Almeida Garrett observed the sun's disc at Fatima spinning round upon itself in a mad whirl rather
+      than remaining immobile or twinkling like a star.
+    original_excerpt: the sun’s disc did not remain immobile, it had a giddy motion, [but] not like the twinkling of a star
+      in all its brilliance for it spun round upon itself in a mad whirl.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: c591a126-a6b7-4d3e-b1a5-69820bfe3628
+      title: José Maria de Almeida Garrett
+    provenance_chain:
+      origin_kind: speaker
+      origin: José Maria de Almeida Garrett
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: c3049206-6e8c-43b6-a645-5b8c47da0e56
+        title: 1917 Fatima Marian apparitions
+        slug: 1917-fatima-marian-apparitions
+      - node_id: c591a126-a6b7-4d3e-b1a5-69820bfe3628
+        title: José Maria de Almeida Garrett
+        slug: jose-maria-de-almeida-garrett
+    date: null
+    date_end: null
+    location_in_record: ch5:25484-25647
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 288e1100-0497-41df-ba08-9890e519b0b9
+      record_title: American Cosmic
+      record_date: '2019'
+      record_reference: null
+      content_hash: sha256:ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b16ac4758
+      friendly_name: 2019-ebook-american-cosmic
+  - claim_id: ab310e02-d301-4c17-9ea3-d7328d7bffc2
+    claim_hash: 43b929734b905a07ea553d5a11a8997878d164272b462d35cbf537b77e904d28
+    content: José Maria de Almeida Garrett observed that during the solar phenomenon at Fatima, everything he looked at, from
+      nearby objects to the horizon, took on an amethyst colour.
+    original_excerpt: I looked first at the nearest objects and then extended my glance further afield as far as the horizon.
+      I saw everything had assumed an amethyst color.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: c591a126-a6b7-4d3e-b1a5-69820bfe3628
+      title: José Maria de Almeida Garrett
+    provenance_chain:
+      origin_kind: speaker
+      origin: José Maria de Almeida Garrett
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: c3049206-6e8c-43b6-a645-5b8c47da0e56
+        title: 1917 Fatima Marian apparitions
+        slug: 1917-fatima-marian-apparitions
+      - node_id: c591a126-a6b7-4d3e-b1a5-69820bfe3628
+        title: José Maria de Almeida Garrett
+        slug: jose-maria-de-almeida-garrett
+    date: null
+    date_end: null
+    location_in_record: ch5:25834-25979
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 288e1100-0497-41df-ba08-9890e519b0b9
+      record_title: American Cosmic
+      record_date: '2019'
+      record_reference: null
+      content_hash: sha256:ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b16ac4758
+      friendly_name: 2019-ebook-american-cosmic
+  - claim_id: 40bb0e3c-268c-424b-b4dc-76424e3c0a4d
+    claim_hash: d0148281f9b4ef68d90386a179eebb5edd594e0da8158407c715c9271db61645
+    content: José Maria de Almeida Garrett observed that the sun at Fatima, whirling wildly, turned blood red and appeared
+      to advance threateningly toward the earth as if to crush the crowd, causing a cry of anguish from the people present.
+    original_excerpt: one heard a clamor, a cry of anguish breaking from all the people. The sun, whirling wildly, seemed
+      all at once to loosen itself from the firmament and, blood red, advance threateningly upon the earth as if to crush
+      us with its huge and fiery weight.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: c591a126-a6b7-4d3e-b1a5-69820bfe3628
+      title: José Maria de Almeida Garrett
+    provenance_chain:
+      origin_kind: speaker
+      origin: José Maria de Almeida Garrett
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: c3049206-6e8c-43b6-a645-5b8c47da0e56
+        title: 1917 Fatima Marian apparitions
+        slug: 1917-fatima-marian-apparitions
+      - node_id: c591a126-a6b7-4d3e-b1a5-69820bfe3628
+        title: José Maria de Almeida Garrett
+        slug: jose-maria-de-almeida-garrett
+    date: null
+    date_end: null
+    location_in_record: ch5:26003-26246
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 288e1100-0497-41df-ba08-9890e519b0b9
+      record_title: American Cosmic
+      record_date: '2019'
+      record_reference: null
+      content_hash: sha256:ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b16ac4758
+      friendly_name: 2019-ebook-american-cosmic
+  - claim_id: dcc69b6e-1b26-4a15-825d-69e3275d3334
+    claim_hash: 36e6a8a8f3332896fb503057b6251f96681c4426ef2a34bcffde986085fbcfb6
+    content: José Maria de Almeida Garrett stated he had never, before or after 1917-10-13, observed similar atmospheric or
+      solar phenomena.
+    original_excerpt: I must declare that never, before or after October 13 [1917], have I observed similar atmospheric or
+      solar phenomena.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: c591a126-a6b7-4d3e-b1a5-69820bfe3628
+      title: José Maria de Almeida Garrett
+    provenance_chain:
+      origin_kind: speaker
+      origin: José Maria de Almeida Garrett
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: c3049206-6e8c-43b6-a645-5b8c47da0e56
+        title: 1917 Fatima Marian apparitions
+        slug: 1917-fatima-marian-apparitions
+      - node_id: c591a126-a6b7-4d3e-b1a5-69820bfe3628
+        title: José Maria de Almeida Garrett
+        slug: jose-maria-de-almeida-garrett
+    date: '1917-10-13'
+    date_end: null
+    location_in_record: ch5:26498-26605
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 288e1100-0497-41df-ba08-9890e519b0b9
+      record_title: American Cosmic
+      record_date: '2019'
+      record_reference: null
+      content_hash: sha256:ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b16ac4758
+      friendly_name: 2019-ebook-american-cosmic
+  - claim_id: f5546c0a-41f5-44d3-84c5-6f2482e80f5e
+    claim_hash: f205fa9c9225a54103104cf1e4381de7cb918a3666512f31c5ca4c06693388d9
+    content: The Catholic Church, after thirteen years of investigation, approved the 1917 Fatima apparitions as worthy of
+      belief under the category of private revelation, as distinguished from public revelation, which Catholics are obligated
+      to believe.
+    original_excerpt: The church, after thirteen years of investigation, approved the event as worthy of belief, albeit under
+      the category of “private revelation,” as distinguished from “public revelation,” which is something Catholics are obligated
+      to believe
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: c3049206-6e8c-43b6-a645-5b8c47da0e56
+        title: 1917 Fatima Marian apparitions
+        slug: 1917-fatima-marian-apparitions
+      - node_id: c8fbd2ed-0962-44a6-8c70-2bd3a8a10943
+        title: Private revelation vs. public revelation (Catholic doctrine)
+        slug: private-revelation-vs-public-revelation-catholic-doctrine
+    date: null
+    date_end: null
+    location_in_record: ch5:26750-26981
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 288e1100-0497-41df-ba08-9890e519b0b9
+      record_title: American Cosmic
+      record_date: '2019'
+      record_reference: null
+      content_hash: sha256:ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b16ac4758
+      friendly_name: 2019-ebook-american-cosmic
+  - claim_id: ae451a15-cda8-490a-b61b-3536e516acb5
+    claim_hash: 129456d64e5d210748a612ddfdd089f6c2e4345e85ad0a21fcc04da555c374ff
+    content: The Fatima solar phenomenon was not registered by any astronomical observatory and was witnessed by persons of
+      all categories and social classes, including believers, unbelievers and journalists of the principal Portuguese newspapers.
+    original_excerpt: The phenomenon, which no astronomical observatory registered and which therefore was not natural, was
+      witnessed by persons of all categories and of all social classes, believers and unbelievers, journalists of the principal
+      Portuguese newspapers and even by persons some miles away.
+    claim_type: observation
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: document
+      origin: church investigation report on the Fatima apparitions
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: c3049206-6e8c-43b6-a645-5b8c47da0e56
+        title: 1917 Fatima Marian apparitions
+        slug: 1917-fatima-marian-apparitions
+    date: null
+    date_end: null
+    location_in_record: ch5:26991-27268
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 288e1100-0497-41df-ba08-9890e519b0b9
+      record_title: American Cosmic
+      record_date: '2019'
+      record_reference: null
+      content_hash: sha256:ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b16ac4758
+      friendly_name: 2019-ebook-american-cosmic
+  - claim_id: 6182013e-ddf8-4b01-af3b-daedb1b9f915
+    claim_hash: 306e27df912c3e53fcf48234e3cccec95a39e3972fbb0eae822e0480a33a6829
+    content: One of the predictions of the Fatima lady was that Jacinta Marto and Francisco Marto would die before reaching
+      adulthood, which proved true.
+    original_excerpt: One of the predictions of the lady was that Jacinta and Francisco would die before they reached adulthood,
+      which sadly proved true.
+    claim_type: testimony
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 1b8138fb-8844-40ba-9512-21dc1ea1ba39
+        title: Francisco Marto
+        slug: francisco-marto
+      - node_id: c3049206-6e8c-43b6-a645-5b8c47da0e56
+        title: 1917 Fatima Marian apparitions
+        slug: 1917-fatima-marian-apparitions
+      - node_id: d2593720-e09e-4f39-837e-4c6f88e66fbd
+        title: Jacinta Marto
+        slug: jacinta-marto
+    date: null
+    date_end: null
+    location_in_record: ch5:27474-27600
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 288e1100-0497-41df-ba08-9890e519b0b9
+      record_title: American Cosmic
+      record_date: '2019'
+      record_reference: null
+      content_hash: sha256:ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b16ac4758
+      friendly_name: 2019-ebook-american-cosmic
+  - claim_id: 52f2fa6d-607b-4b7c-9dcf-5bf993d94c8c
+    claim_hash: 1fdb0d0f257a6056bcb41a0c9199a5ae9053e121ddd48983562e8c13067a5cd3
+    content: Jacques Vallee ignores second-order, evaluative interpretations of the Fatima entity as being the Virgin Mary,
+      and takes the same approach to UFO events.
+    original_excerpt: He ignores the second-order, evaluative interpretations of the entity as being the Virgin Mary. He takes
+      the same approach to UFO events.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
+      title: Jacques Vallée
+    provenance_chain:
+      origin_kind: speaker
+      origin: Jacques Vallee
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
+        title: Jacques Vallée
+        slug: jacques-vallee
+      - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
+        title: Unidentified Flying Object (UFO)
+        slug: unidentified-flying-object-ufo
+      - node_id: c3049206-6e8c-43b6-a645-5b8c47da0e56
+        title: 1917 Fatima Marian apparitions
+        slug: 1917-fatima-marian-apparitions
+    date: null
+    date_end: null
+    location_in_record: ch5:27963-28093
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 288e1100-0497-41df-ba08-9890e519b0b9
+      record_title: American Cosmic
+      record_date: '2019'
+      record_reference: null
+      content_hash: sha256:ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b16ac4758
+      friendly_name: 2019-ebook-american-cosmic
+  - claim_id: 3064df3a-e96a-440f-8aa3-5bd0e4111cc0
+    claim_hash: a3326c59d1d7dd2774d6a89bd641935b5d867f5dae06a9439c60e056c2ce6641
+    content: Jacques Vallee's morphology of miracles includes a psychic component, reported by the Fatima children and by
+      St. Teresa of Avila, experienced as a direct knowing of what the beings communicate, as if there are no barriers between
+      the beings and the experiencer.
+    original_excerpt: There is also the “psychic component” that Jacques mentions, which was reported by the children who
+      witnessed the apparition, as well as by St. Teresa of Avila. This component is experienced as a direct knowing of what
+      the beings seem to communicate. It is as if the beings somehow get inside the heads of the experiencers, as if there
+      are no barriers between them.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
+      title: Jacques Vallée
+    provenance_chain:
+      origin_kind: speaker
+      origin: Jacques Vallee
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
+        title: Jacques Vallée
+        slug: jacques-vallee
+      - node_id: 81244a41-ef9f-4529-8ea2-9ff690f56cf7
+        title: Theresa of Avila
+        slug: theresa-of-avila
+      - node_id: c3049206-6e8c-43b6-a645-5b8c47da0e56
+        title: 1917 Fatima Marian apparitions
+        slug: 1917-fatima-marian-apparitions
+      - node_id: e429e611-f7a3-4b71-bc4a-7b219dabc2e6
+        title: Morphology of Miracles (Vallee framework)
+        slug: morphology-of-miracles-vallee-framework
+    date: null
+    date_end: null
+    location_in_record: ch5:31825-32185
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 288e1100-0497-41df-ba08-9890e519b0b9
+      record_title: American Cosmic
+      record_date: '2019'
+      record_reference: null
+      content_hash: sha256:ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b16ac4758
+      friendly_name: 2019-ebook-american-cosmic
+  - claim_id: 0b8698a4-1a98-490c-acbc-d3380183d94d
+    claim_hash: 26c2e810ee50c4cc43a47aa484725dc950d9c2d4ca69d047ef8f1f83d3f64f4d
+    content: Jason Samosa visited Fatima, Portugal recently and took a guided tour of the sites of the 1917 Marian apparitions
+      with his girlfriend at the time.
+    original_excerpt: I went there recently and did a tour. And it was really funny because I went and scheduled this tour
+      with me and my girlfriend at the time.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: ff0a86b8-8f3c-4291-94ed-c6d303875ce8
+      title: Jason Samosa
+    provenance_chain:
+      origin_kind: speaker
+      origin: Jason Samosa
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 95472b02-af65-4737-896c-993994f9be27
+        title: Portugal, Fatima
+        slug: fatima-portugal
+      - node_id: c3049206-6e8c-43b6-a645-5b8c47da0e56
+        title: 1917 Fatima Marian apparitions
+        slug: 1917-fatima-marian-apparitions
+      - node_id: ff0a86b8-8f3c-4291-94ed-c6d303875ce8
+        title: Jason Samosa
+        slug: jason-samosa
+    date: null
+    date_end: null
+    location_in_record: 02:20:23.0-02:20:30.4
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 64b84f95-238c-4ab7-a678-bee55f985b14
+      record_title: The UFO Cover-Up Leads to One Secret Society — and One Final Event
+      record_date: '2026-07-14'
+      record_reference: https://www.youtube.com/watch?v=kccrkCGGzX4
+      content_hash: sha256:d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7b5a1b98d
+      friendly_name: null
+  - claim_id: 18f8ba1c-c1e6-41e2-91ef-3e8b81ee5265
+    claim_hash: 9d7511f23b07ea9c67c2c51d53480991eeb14573fca5f3798dc2248caa4099a5
+    content: The Fatima Marian apparitions began in 1917 in Portugal, when young children reported seeing strange beings and
+      a lady whom no one else could see.
+    original_excerpt: it's a 1917 kind of period in Portugal, a place called Fatima. And these young children start to see
+      strange beings. This lady appears and, you know, no one else can really see this lady.
+    claim_type: testimony
+    attestation: null
+    speaker:
+      node_id: ff0a86b8-8f3c-4291-94ed-c6d303875ce8
+      title: Jason Samosa
+    provenance_chain:
+      origin_kind: unattributed
+      origin: general historical account
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 95472b02-af65-4737-896c-993994f9be27
+        title: Portugal, Fatima
+        slug: fatima-portugal
+      - node_id: 9fcb0a2b-2f0e-401d-86f3-195e2f6053dc
+        title: Marian apparitions
+        slug: marian-apparitions
+      - node_id: c3049206-6e8c-43b6-a645-5b8c47da0e56
+        title: 1917 Fatima Marian apparitions
+        slug: 1917-fatima-marian-apparitions
+    date: '1917'
+    date_end: null
+    location_in_record: 02:20:47.5-02:20:58.7
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 64b84f95-238c-4ab7-a678-bee55f985b14
+      record_title: The UFO Cover-Up Leads to One Secret Society — and One Final Event
+      record_date: '2026-07-14'
+      record_reference: https://www.youtube.com/watch?v=kccrkCGGzX4
+      content_hash: sha256:d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7b5a1b98d
+      friendly_name: null
+  - claim_id: 87beb167-725c-47c9-aaf8-27127d553eb5
+    claim_hash: 2eb4954b7568a5dc23c256313f371d5ff3e4f476089b2dfcba7b9ef04562d3df
+    content: The apparition at Fatima announced in advance that a huge miracle would occur on a stated date at a stated place.
+    original_excerpt: And then eventually she says, there's going to be a huge miracle that's going to happen on this date,
+      this place.
+    claim_type: testimony
+    attestation: null
+    speaker:
+      node_id: ff0a86b8-8f3c-4291-94ed-c6d303875ce8
+      title: Jason Samosa
+    provenance_chain:
+      origin_kind: unattributed
+      origin: general historical account
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 945f1e52-b06d-42ab-99a7-acfa8e7c7b2b
+        title: Miracle of the Sun at Fatima
+        slug: miracle-of-the-sun-at-fatima
+      - node_id: c3049206-6e8c-43b6-a645-5b8c47da0e56
+        title: 1917 Fatima Marian apparitions
+        slug: 1917-fatima-marian-apparitions
+    date: null
+    date_end: null
+    location_in_record: 02:21:09.3-02:21:14.0
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 64b84f95-238c-4ab7-a678-bee55f985b14
+      record_title: The UFO Cover-Up Leads to One Secret Society — and One Final Event
+      record_date: '2026-07-14'
+      record_reference: https://www.youtube.com/watch?v=kccrkCGGzX4
+      content_hash: sha256:d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7b5a1b98d
+      friendly_name: null
+  - claim_id: 5e7b7fe9-f609-459c-9502-a479c287d1c4
+    claim_hash: 61d19418c0924fe81ee74108def5b2ee292acb44b1ce4a0c8767633e5518a71f
+    content: The Holy See (the Vatican) confiscated a written prophecy given to the children who witnessed the Fatima Marian
+      apparitions, and Jesse Michels believes that prophecy was more complex than the historical portrayal of a sun or Virgin
+      Mary appearance.
+    original_excerpt: I think the Vatican confiscated one of the prophecies from the, the orphans or whatever... And it was
+      written down and that piece of paper was literally confiscated by the Vatican.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 079d4381-4273-418b-bc9a-468623f95c6e
+      title: Jesse Mitchells
+    provenance_chain:
+      origin_kind: speaker
+      origin: Jesse Michels
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 079d4381-4273-418b-bc9a-468623f95c6e
+        title: Jesse Mitchells
+        slug: jesse-mitchells
+      - node_id: b6b60271-c105-4b1f-89ec-bd02227901d9
+        title: Third Secret of Fatima
+        slug: third-secret-of-fatima
+      - node_id: c3049206-6e8c-43b6-a645-5b8c47da0e56
+        title: 1917 Fatima Marian apparitions
+        slug: 1917-fatima-marian-apparitions
+      - node_id: cb54ad51-94b1-4a33-b036-7c00ad40cf6b
+        title: Vatican
+        slug: vatican
+    date: null
+    date_end: null
+    location_in_record: 02:22:32.7-02:22:41.6
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 64b84f95-238c-4ab7-a678-bee55f985b14
+      record_title: The UFO Cover-Up Leads to One Secret Society — and One Final Event
+      record_date: '2026-07-14'
+      record_reference: https://www.youtube.com/watch?v=kccrkCGGzX4
+      content_hash: sha256:d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7b5a1b98d
+      friendly_name: null

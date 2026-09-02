@@ -1,0 +1,647 @@
+schema: anomalica/brief/1
+brief_hash: eafafeae2f005120940884a2f4f1a12b6fe46a950278658edc8cfd8214b96300
+page:
+  kind: entity
+  node_id: 302c3ca1-5512-4b2d-af20-17d29a914e3b
+  node_type: person
+  title: David Grush
+  slug: david-grush
+  claim_count: 15
+  claim_count_total: 15
+generated:
+  graph_version: '2026-09-01T10:10:49.863545+00:00'
+size:
+  claims: 15
+  tokens_estimated: 4255
+  sized_against: 1050000
+publication:
+  status: published
+  note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
+    transcripts are gated elsewhere.
+belonging:
+  verified: 0
+  suspect_excluded: 0
+  unreviewed: 15
+related_nodes:
+  - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
+    title: Unidentified Anomalous Phenomena (UAP)
+    node_type: topic
+    slug: unidentified-anomalous-phenomena-uap
+    shared_claims: 4
+  - node_id: f087deb0-586f-4b7c-be3c-eb23e49569a5
+    title: 2024 United States congressional hearing on UAPs (13 November)
+    node_type: event
+    slug: 2024-united-states-congressional-hearing-on-uaps-13-november
+    shared_claims: 2
+  - node_id: 8dc21252-36f3-4b45-88c6-272dff5f962d
+    title: David Grush's 2023 congressional testimony on Unidentified Aerial Phenomena (UAP)
+    node_type: document
+    slug: david-grushs-2023-congressional-testimony-on-unidentified-aerial-phenomena-uap
+    shared_claims: 2
+  - node_id: 4fb65b2c-296a-493d-bbc7-65e4b763c1f0
+    title: United States Congress
+    node_type: organisation
+    slug: united-states-congress
+    shared_claims: 2
+  - node_id: 99f08514-5471-4eaf-bce3-46c474a8d304
+    title: United States Department of Defense (DoD)
+    node_type: organisation
+    slug: united-states-department-of-defense-dod
+    shared_claims: 2
+  - node_id: bc89c1b2-06c5-4c48-bfa6-fe305d4f88ec
+    title: 1971 US-Soviet UAP hotline agreement (SALT talks)
+    node_type: document
+    slug: 1971-us-soviet-uap-hotline-agreement-salt-talks
+    shared_claims: 1
+  - node_id: b0c0fde0-37e6-4632-8d64-a95091f03a49
+    title: Bob Lazar
+    node_type: person
+    slug: bob-lazar
+    shared_claims: 1
+  - node_id: 13be3933-c808-4e26-b0c4-b1b8aeada36f
+    title: Condign Report
+    node_type: document
+    slug: condign-report
+    shared_claims: 1
+  - node_id: 1f31a334-a2bc-4eae-88b3-5795d81ac97a
+    title: Immaculate Constellation
+    node_type: project
+    slug: immaculate-constellation
+    shared_claims: 1
+  - node_id: 9ff6aa65-48d7-4435-90ac-4e9cd4f76f91
+    title: Lauren Boebert
+    node_type: person
+    slug: lauren-boebert
+    shared_claims: 1
+  - node_id: 9c74d864-957a-4654-a5b6-1249fe654ec7
+    title: Non-Human Intelligence
+    node_type: topic
+    slug: non-human-intelligence
+    shared_claims: 1
+  - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
+    title: Unidentified Flying Object (UFO)
+    node_type: topic
+    slug: unidentified-flying-object-ufo
+    shared_claims: 1
+claims:
+  - claim_id: e500810b-6342-4fd4-9bd0-20be6e4788d2
+    claim_hash: 98c1fb0b2a1389098a3aa0c22cb374571b6c718eb1d579a1ac9a36b34468ad41
+    content: David Grush came out publicly in June 2023.
+    original_excerpt: And you know what else came out in June of 2023? David Grush.
+    claim_type: administrative
+    attestation: null
+    speaker:
+      node_id: 24d00311-06ac-46a1-a2f5-c99f3f8e21b2
+      title: Chris Ramsay
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 302c3ca1-5512-4b2d-af20-17d29a914e3b
+        title: David Grush
+        slug: david-grush
+    date: 2023-06
+    date_end: null
+    location_in_record: 00:08:32.0-00:08:36.9
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: eb39c1fb-c257-4fbf-bf95-970102cb4c6f
+      record_title: Journalist Leaked UAP Program "Immaculate Constellation" - DEBRIEFED ep. 10
+      record_date: '2024-10-18'
+      record_reference: https://www.youtube.com/watch?v=B6iWr3d39So
+      content_hash: sha256:8ccc822b36fc9c8e5e7410ff6e8e89c31398b7b1e098e28f2c37a27cd24cdd58
+      friendly_name: null
+  - claim_id: 0b5a2142-4273-4ac4-849a-fe5e0c6ff3b1
+    claim_hash: 1dd432ddcce83af0f6555150fcea570bd66a8f744fea428953b39c9db873b9cc
+    content: David Grush never mentioned Immaculate Constellation.
+    original_excerpt: Although David Grush never mentioned Immaculate Constellation,
+    claim_type: administrative
+    attestation: first_hand
+    speaker:
+      node_id: 24d00311-06ac-46a1-a2f5-c99f3f8e21b2
+      title: Chris Ramsay
+    provenance_chain:
+      origin_kind: speaker
+      origin: Chris Ramsey
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 1f31a334-a2bc-4eae-88b3-5795d81ac97a
+        title: Immaculate Constellation
+        slug: immaculate-constellation
+      - node_id: 302c3ca1-5512-4b2d-af20-17d29a914e3b
+        title: David Grush
+        slug: david-grush
+    date: null
+    date_end: null
+    location_in_record: 00:08:37.3-00:08:40.7
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: eb39c1fb-c257-4fbf-bf95-970102cb4c6f
+      record_title: Journalist Leaked UAP Program "Immaculate Constellation" - DEBRIEFED ep. 10
+      record_date: '2024-10-18'
+      record_reference: https://www.youtube.com/watch?v=B6iWr3d39So
+      content_hash: sha256:8ccc822b36fc9c8e5e7410ff6e8e89c31398b7b1e098e28f2c37a27cd24cdd58
+      friendly_name: null
+  - claim_id: 15c71d5f-8a66-46ad-b0b5-97a205b0f38a
+    claim_hash: 10f11926f3a965d3eb590c514f8e46c1808f3be0e885fac00f8e149a9734d767
+    content: David Grush testified before the United States Congress in the summer of 2023 as a UFO whistleblower.
+    original_excerpt: David Grush, UFO whistleblower, who testified before Congress last year, summer of last year.
+    claim_type: administrative
+    attestation: first_hand
+    speaker:
+      node_id: 079d4381-4273-418b-bc9a-468623f95c6e
+      title: Jesse Mitchells
+    provenance_chain:
+      origin_kind: speaker
+      origin: Jesse Michaels
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 302c3ca1-5512-4b2d-af20-17d29a914e3b
+        title: David Grush
+        slug: david-grush
+      - node_id: 4fb65b2c-296a-493d-bbc7-65e4b763c1f0
+        title: United States Congress
+        slug: united-states-congress
+      - node_id: 8dc21252-36f3-4b45-88c6-272dff5f962d
+        title: David Grush's 2023 congressional testimony on Unidentified Aerial Phenomena (UAP)
+        slug: david-grushs-2023-congressional-testimony-on-unidentified-aerial-phenomena-uap
+    date: '2023-07-26'
+    date_end: null
+    location_in_record: 00:05:18.3-00:05:23.3
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3af5a02a-a2d5-400e-bdfd-adae44f6c6a1
+      record_title: UAPs in Washington - I wasn't supposed to be there..
+      record_date: '2024-11-24'
+      record_reference: https://www.youtube.com/watch?v=qZWZQffTQXY
+      content_hash: sha256:4e5d974387012aec8420670ad02c17b8287f307f8b3380da8843d19b172d5591
+      friendly_name: null
+  - claim_id: e1c9265b-8bec-4d7b-b00c-76b556ae65ae
+    claim_hash: 1decda14a8baffc2cea58c7a4e709198327605d61f4ab148b8be803997487ada
+    content: The United States government has been conducting covert reverse-engineering programs on Unidentified Flying Objects
+      (UFO) for approximately 70 to 80 years.
+    original_excerpt: He made some pretty crazy claims, which is that the US has been engaging in covert reverse engineering
+      UFO programs for the last 70, 80 years.
+    claim_type: hearsay
+    attestation: second_hand
+    speaker:
+      node_id: 079d4381-4273-418b-bc9a-468623f95c6e
+      title: Jesse Mitchells
+    provenance_chain:
+      origin_kind: named
+      origin: David Grush
+      relay:
+        - Jesse Michaels relaying Grush's testimony
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 302c3ca1-5512-4b2d-af20-17d29a914e3b
+        title: David Grush
+        slug: david-grush
+      - node_id: 8dc21252-36f3-4b45-88c6-272dff5f962d
+        title: David Grush's 2023 congressional testimony on Unidentified Aerial Phenomena (UAP)
+        slug: david-grushs-2023-congressional-testimony-on-unidentified-aerial-phenomena-uap
+      - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
+        title: Unidentified Flying Object (UFO)
+        slug: unidentified-flying-object-ufo
+    date: null
+    date_end: null
+    location_in_record: 00:05:23.6-00:05:31.1
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3af5a02a-a2d5-400e-bdfd-adae44f6c6a1
+      record_title: UAPs in Washington - I wasn't supposed to be there..
+      record_date: '2024-11-24'
+      record_reference: https://www.youtube.com/watch?v=qZWZQffTQXY
+      content_hash: sha256:4e5d974387012aec8420670ad02c17b8287f307f8b3380da8843d19b172d5591
+      friendly_name: null
+  - claim_id: af0f5022-c6b7-4c09-afa8-fa0b9e6fb58e
+    claim_hash: afaf677eec8ee9b3b2a2cb145486154c8336b7fb1620a41e27dca5e8386373ee
+    content: The United States military and intelligence community possess a large amount of visual and other sensor information
+      on Unidentified Aerial Phenomena (UAP), including still photos, video, and other sensor data, which they have held for
+      a long time.
+    original_excerpt: the U.S. military and intelligence community are sitting on a huge amount of visual and other information,
+      still photos, video photos, other sensor information, and they have for a very long time.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 302c3ca1-5512-4b2d-af20-17d29a914e3b
+      title: David Grush
+    provenance_chain:
+      origin_kind: speaker
+      origin: David Grush
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 302c3ca1-5512-4b2d-af20-17d29a914e3b
+        title: David Grush
+        slug: david-grush
+      - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
+        title: Unidentified Anomalous Phenomena (UAP)
+        slug: unidentified-anomalous-phenomena-uap
+      - node_id: 99f08514-5471-4eaf-bce3-46c474a8d304
+        title: United States Department of Defense (DoD)
+        slug: united-states-department-of-defense-dod
+      - node_id: f087deb0-586f-4b7c-be3c-eb23e49569a5
+        title: 2024 United States congressional hearing on UAPs (13 November)
+        slug: 2024-united-states-congressional-hearing-on-uaps-13-november
+    date: '2024-11-13'
+    date_end: null
+    location_in_record: 00:11:16.5-00:11:27.8
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3af5a02a-a2d5-400e-bdfd-adae44f6c6a1
+      record_title: UAPs in Washington - I wasn't supposed to be there..
+      record_date: '2024-11-24'
+      record_reference: https://www.youtube.com/watch?v=qZWZQffTQXY
+      content_hash: sha256:4e5d974387012aec8420670ad02c17b8287f307f8b3380da8843d19b172d5591
+      friendly_name: null
+  - claim_id: 2f7ed36a-08a8-4bfa-a3f9-d470975b3ecd
+    claim_hash: 87dcbe0ce6c5d2b79da31421056fb85911c02521510120ba4f402cd1b7f8b844
+    content: Some of the visual material held by the United States military and intelligence community on Unidentified Aerial
+      Phenomena (UAP) is high resolution, unlike previously released blurry footage.
+    original_excerpt: And it's not those fuzzy photos and videos that we've been given those very clear... High resolution.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 302c3ca1-5512-4b2d-af20-17d29a914e3b
+      title: David Grush
+    provenance_chain:
+      origin_kind: speaker
+      origin: David Grush
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 302c3ca1-5512-4b2d-af20-17d29a914e3b
+        title: David Grush
+        slug: david-grush
+      - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
+        title: Unidentified Anomalous Phenomena (UAP)
+        slug: unidentified-anomalous-phenomena-uap
+    date: null
+    date_end: null
+    location_in_record: 00:11:28.2-00:11:32.8
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3af5a02a-a2d5-400e-bdfd-adae44f6c6a1
+      record_title: UAPs in Washington - I wasn't supposed to be there..
+      record_date: '2024-11-24'
+      record_reference: https://www.youtube.com/watch?v=qZWZQffTQXY
+      content_hash: sha256:4e5d974387012aec8420670ad02c17b8287f307f8b3380da8843d19b172d5591
+      friendly_name: null
+  - claim_id: d0adec43-6124-4d70-9358-e18967fb910d
+    claim_hash: 2bc3840cbb0475804df18e2ab7a0d523009fb4a7274cfa6894a408bab8339dbe
+    content: David Grush has been told there are hundreds, possibly thousands, of visuals, graphics, videos and photos of
+      Unidentified Aerial Phenomena (UAP) held by the government.
+    original_excerpt: How many, how many visuals, graphics, videos, photos? ... I mean, I've been told hundreds, you know,
+      maybe thousands.
+    claim_type: hearsay
+    attestation: second_hand
+    speaker:
+      node_id: 302c3ca1-5512-4b2d-af20-17d29a914e3b
+      title: David Grush
+    provenance_chain:
+      origin_kind: anonymous
+      origin: unnamed people who informed David Grush
+      relay:
+        - told to David Grush
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 302c3ca1-5512-4b2d-af20-17d29a914e3b
+        title: David Grush
+        slug: david-grush
+      - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
+        title: Unidentified Anomalous Phenomena (UAP)
+        slug: unidentified-anomalous-phenomena-uap
+    date: null
+    date_end: null
+    location_in_record: 00:11:35.0-00:11:41.5
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3af5a02a-a2d5-400e-bdfd-adae44f6c6a1
+      record_title: UAPs in Washington - I wasn't supposed to be there..
+      record_date: '2024-11-24'
+      record_reference: https://www.youtube.com/watch?v=qZWZQffTQXY
+      content_hash: sha256:4e5d974387012aec8420670ad02c17b8287f307f8b3380da8843d19b172d5591
+      friendly_name: null
+  - claim_id: 419ef8d3-faff-4abe-9999-c7506496fd69
+    claim_hash: 5090db0765d1599245565453d76a334963d8d6fc6fdf57d909b6858fd78eb163
+    content: David Grush denied being familiar with the rumoured Department of Defense (DoD) human-genetic hybridisation programme
+      when asked by Lauren Boebert at the 2024 United States congressional hearing on UAPs (13 November).
+    original_excerpt: Are any of you familiar with that? Yes or no? ... No, ma'am. I am not, ma'am.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 302c3ca1-5512-4b2d-af20-17d29a914e3b
+      title: David Grush
+    provenance_chain:
+      origin_kind: speaker
+      origin: David Grush
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 302c3ca1-5512-4b2d-af20-17d29a914e3b
+        title: David Grush
+        slug: david-grush
+      - node_id: 99f08514-5471-4eaf-bce3-46c474a8d304
+        title: United States Department of Defense (DoD)
+        slug: united-states-department-of-defense-dod
+      - node_id: 9ff6aa65-48d7-4435-90ac-4e9cd4f76f91
+        title: Lauren Boebert
+        slug: lauren-boebert
+      - node_id: f087deb0-586f-4b7c-be3c-eb23e49569a5
+        title: 2024 United States congressional hearing on UAPs (13 November)
+        slug: 2024-united-states-congressional-hearing-on-uaps-13-november
+    date: '2024-11-13'
+    date_end: null
+    location_in_record: 00:13:29.0-00:13:33.4
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3af5a02a-a2d5-400e-bdfd-adae44f6c6a1
+      record_title: UAPs in Washington - I wasn't supposed to be there..
+      record_date: '2024-11-24'
+      record_reference: https://www.youtube.com/watch?v=qZWZQffTQXY
+      content_hash: sha256:4e5d974387012aec8420670ad02c17b8287f307f8b3380da8843d19b172d5591
+      friendly_name: null
+  - claim_id: 4bb04f26-7fab-4596-a2ca-2dc809daa046
+    claim_hash: 7c7d6df28d80af2660fb0a844b1b2163727df1b07f8405ed39e2d3bf4ab4b1d7
+    content: David Grush gave up his pension and put his own credibility on the line by publicly stating that non-human biologics
+      and craft had been recovered and were being studied.
+    original_excerpt: gave up his pension and put his own credibility on the line by coming out and saying, hey, we've recovered
+      non-human biologics and we have Kraft and we're working on them
+    claim_type: testimony
+    attestation: second_hand
+    speaker:
+      node_id: 24d00311-06ac-46a1-a2f5-c99f3f8e21b2
+      title: Chris Ramsay
+    provenance_chain:
+      origin_kind: named
+      origin: David Grush
+      relay:
+        - Chris Ramsay
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 302c3ca1-5512-4b2d-af20-17d29a914e3b
+        title: David Grush
+        slug: david-grush
+    date: null
+    date_end: null
+    location_in_record: 00:24:27.4-00:24:36.6
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 1624e74b-8c2c-4403-a9fc-ff6de1745b49
+      record_title: Bob Lazar Just Revealed His BIGGEST Secret - DEBRIEFED ep. 87
+      record_date: '2026-05-08'
+      record_reference: https://www.youtube.com/watch?v=SSeJ2883nF4
+      content_hash: sha256:5b60a4c99ce6cc1ec77a3dc0d40d04b88cfa69ab421752e928c395425d1fcdbd
+      friendly_name: 2026-05-08-video-bob-lazar-just-revealed-his-biggest-secret-debriefed-ep-87.v2
+  - claim_id: 82308765-3656-4371-b69a-506bd46711a8
+    claim_hash: 232f1d6e03e88fda6f8d0c02ba1bcc4fa237ed858ccdca47d0a7071f1b30e46e
+    content: Bob Lazar respects David Grush for coming forward publicly.
+    original_excerpt: Hats off to that guy. You know, I, I, I respect him for doing that for sure.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: b0c0fde0-37e6-4632-8d64-a95091f03a49
+      title: Bob Lazar
+    provenance_chain:
+      origin_kind: speaker
+      origin: Bob Lazar
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 302c3ca1-5512-4b2d-af20-17d29a914e3b
+        title: David Grush
+        slug: david-grush
+      - node_id: b0c0fde0-37e6-4632-8d64-a95091f03a49
+        title: Bob Lazar
+        slug: bob-lazar
+    date: null
+    date_end: null
+    location_in_record: 00:24:41.8-00:24:46.4
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 1624e74b-8c2c-4403-a9fc-ff6de1745b49
+      record_title: Bob Lazar Just Revealed His BIGGEST Secret - DEBRIEFED ep. 87
+      record_date: '2026-05-08'
+      record_reference: https://www.youtube.com/watch?v=SSeJ2883nF4
+      content_hash: sha256:5b60a4c99ce6cc1ec77a3dc0d40d04b88cfa69ab421752e928c395425d1fcdbd
+      friendly_name: 2026-05-08-video-bob-lazar-just-revealed-his-biggest-secret-debriefed-ep-87.v2
+  - claim_id: 41bfb0b0-95a0-4cdc-bd6a-dd7e88402037
+    claim_hash: 1093d19a67f767789e02b84912e179f2c1edbee6d6219dfd3c6235f16310f7a1
+    content: No one else from the program David Grush described has come forward publicly.
+    original_excerpt: You know, nobody from the program came out.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 24d00311-06ac-46a1-a2f5-c99f3f8e21b2
+      title: Chris Ramsay
+    provenance_chain:
+      origin_kind: speaker
+      origin: Chris Ramsay
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 302c3ca1-5512-4b2d-af20-17d29a914e3b
+        title: David Grush
+        slug: david-grush
+    date: null
+    date_end: null
+    location_in_record: 00:24:50.2-00:24:53.1
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 1624e74b-8c2c-4403-a9fc-ff6de1745b49
+      record_title: Bob Lazar Just Revealed His BIGGEST Secret - DEBRIEFED ep. 87
+      record_date: '2026-05-08'
+      record_reference: https://www.youtube.com/watch?v=SSeJ2883nF4
+      content_hash: sha256:5b60a4c99ce6cc1ec77a3dc0d40d04b88cfa69ab421752e928c395425d1fcdbd
+      friendly_name: 2026-05-08-video-bob-lazar-just-revealed-his-biggest-secret-debriefed-ep-87.v2
+  - claim_id: 1ed83cec-a268-43c8-82ff-370db5e339aa
+    claim_hash: 46d5c8f4ff8a511c5eaa3955f250e0d146c27a63e51069788d23363c82fb3f4b
+    content: David Grush said it was highly significant to him that the 1971 US-Soviet UAP hotline agreement document had
+      been declassified and that he could talk about it because it was in the public domain.
+    original_excerpt: he pointed me to that particular document from the SALT talks, the 1971 agreement, and said that it
+      was highly significant to him that that document had been declassified and he couldn't quite believe that it was in
+      the public domain and that he was able to talk about it
+    claim_type: opinion
+    attestation: second_hand
+    speaker:
+      node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+      title: Ross Coulthart
+    provenance_chain:
+      origin_kind: named
+      origin: David Grush
+      relay:
+        - interview with Ross Coulthart
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 302c3ca1-5512-4b2d-af20-17d29a914e3b
+        title: David Grush
+        slug: david-grush
+      - node_id: bc89c1b2-06c5-4c48-bfa6-fe305d4f88ec
+        title: 1971 US-Soviet UAP hotline agreement (SALT talks)
+        slug: 1971-us-soviet-uap-hotline-agreement-salt-talks
+    date: null
+    date_end: null
+    location_in_record: 00:58:13.5-00:58:28.5
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: d17e43f2-fe6c-4a2d-824d-fd379e6891c5
+      record_title: Watergate, the JFK assassination and a UFO secret at the center of it all | Reality Check
+      record_date: '2026-06-18'
+      record_reference: https://www.youtube.com/watch?v=PeULVsP-jEQ
+      content_hash: sha256:997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc07360cb2ab1
+      friendly_name: null
+  - claim_id: 65180e68-0486-4a6c-b1c8-5d0fd8c45a58
+    claim_hash: 246bc5c45b875f47cd6c18b027e41351d950b4521adb4c06a354f74e95e1a058
+    content: David Grush, in his presentation on the steps of the United States Congress, mentioned sentient plasmoids among
+      the life forms he was aware of, when asked by a reporter about life forms.
+    original_excerpt: David Grusch, in the presentation that he gave on the steps of the Congress, when he was asked by one
+      reporter about the life forms that he was aware of, one of the things that he mentioned was sentient plasmoids.
+    claim_type: testimony
+    attestation: second_hand
+    speaker:
+      node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+      title: Ross Coulthart
+    provenance_chain:
+      origin_kind: named
+      origin: David Grush
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 302c3ca1-5512-4b2d-af20-17d29a914e3b
+        title: David Grush
+        slug: david-grush
+      - node_id: 4fb65b2c-296a-493d-bbc7-65e4b763c1f0
+        title: United States Congress
+        slug: united-states-congress
+    date: null
+    date_end: null
+    location_in_record: 01:27:30.1-01:27:42.4
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: d17e43f2-fe6c-4a2d-824d-fd379e6891c5
+      record_title: Watergate, the JFK assassination and a UFO secret at the center of it all | Reality Check
+      record_date: '2026-06-18'
+      record_reference: https://www.youtube.com/watch?v=PeULVsP-jEQ
+      content_hash: sha256:997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc07360cb2ab1
+      friendly_name: null
+  - claim_id: c8f71409-7b37-419f-81e2-07555a603aea
+    claim_hash: 09d6d9ca5095ed3438633ec1c9cfbe573c7b76203dfadf3b0807098418c29758
+    content: The British Condign Report inferred findings about plasma similar to David Grush's mention of sentient plasmoids,
+      some 20 to 30 years earlier.
+    original_excerpt: The Condign Report inferred pretty much the same thing, didn't it, 20, 30 years ago?
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+      title: Ross Coulthart
+    provenance_chain:
+      origin_kind: speaker
+      origin: Ross Coulthart
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 13be3933-c808-4e26-b0c4-b1b8aeada36f
+        title: Condign Report
+        slug: condign-report
+      - node_id: 302c3ca1-5512-4b2d-af20-17d29a914e3b
+        title: David Grush
+        slug: david-grush
+    date: null
+    date_end: null
+    location_in_record: 01:27:55.8-01:28:01.0
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: d17e43f2-fe6c-4a2d-824d-fd379e6891c5
+      record_title: Watergate, the JFK assassination and a UFO secret at the center of it all | Reality Check
+      record_date: '2026-06-18'
+      record_reference: https://www.youtube.com/watch?v=PeULVsP-jEQ
+      content_hash: sha256:997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc07360cb2ab1
+      friendly_name: null
+  - claim_id: cdc9c276-3fa6-4671-b8f4-1d52bb677b6c
+    claim_hash: 3785f279c3950dea1a31c5c419b17311dfcde87809f901a04b8ba41ad67b06c7
+    content: David Grush talked about agreements he was able to discuss under Defense Office of Prepublication and Security
+      Review (DOPSR) clearance, potentially involving foreign adversary powers or non-human intelligence regarding Unidentified
+      Aerial Phenomena (UAP).
+    original_excerpt: David Grusch, for example, talked about agreements that he was able to talk about in his DOPSA. the
+      idea that there are agreements potentially either with foreign adversary powers about UAPs or perhaps even with NHI.
+    claim_type: testimony
+    attestation: second_hand
+    speaker:
+      node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+      title: Ross Coulthart
+    provenance_chain:
+      origin_kind: named
+      origin: David Grush
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 302c3ca1-5512-4b2d-af20-17d29a914e3b
+        title: David Grush
+        slug: david-grush
+      - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
+        title: Unidentified Anomalous Phenomena (UAP)
+        slug: unidentified-anomalous-phenomena-uap
+      - node_id: 9c74d864-957a-4654-a5b6-1249fe654ec7
+        title: Non-Human Intelligence
+        slug: non-human-intelligence
+    date: null
+    date_end: null
+    location_in_record: 01:29:12.6-01:29:24.7
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: d17e43f2-fe6c-4a2d-824d-fd379e6891c5
+      record_title: Watergate, the JFK assassination and a UFO secret at the center of it all | Reality Check
+      record_date: '2026-06-18'
+      record_reference: https://www.youtube.com/watch?v=PeULVsP-jEQ
+      content_hash: sha256:997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc07360cb2ab1
+      friendly_name: null

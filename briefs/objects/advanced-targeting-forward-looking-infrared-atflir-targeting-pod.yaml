@@ -1,0 +1,423 @@
+schema: anomalica/brief/1
+brief_hash: f740904704b9207fe937b7d6be07194924645572293c78659e7f01d8ee5089ae
+page:
+  kind: entity
+  node_id: 719c3dd3-db51-4c5d-90ef-94a932b385e2
+  node_type: object
+  title: Advanced Targeting Forward-Looking Infrared (ATFLIR) targeting pod
+  slug: advanced-targeting-forward-looking-infrared-atflir-targeting-pod
+  claim_count: 9
+  claim_count_total: 9
+generated:
+  graph_version: '2026-09-01T10:10:49.863545+00:00'
+size:
+  claims: 9
+  tokens_estimated: 2812
+  sized_against: 1050000
+publication:
+  status: published
+  note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
+    transcripts are gated elsewhere.
+belonging:
+  verified: 0
+  suspect_excluded: 0
+  unreviewed: 9
+related_nodes:
+  - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
+    title: 2004 USS Nimitz UAP encounter
+    node_type: event
+    slug: 2004-uss-nimitz-uap-encounter
+    shared_claims: 3
+  - node_id: 29f2befa-fe75-484b-a9e8-53a320e66c84
+    title: Chad Underwood
+    node_type: person
+    slug: chad-underwood
+    shared_claims: 2
+  - node_id: 225c66f3-5c29-4780-819c-59b78a852e50
+    title: FA-18 Super Hornet
+    node_type: object
+    slug: fa-18-super-hornet
+    shared_claims: 2
+  - node_id: 9724eb39-6309-446a-b4e3-93f2fc8d3465
+    title: 2020-05-14 night Intelligence, Surveillance, and Reconnaissance (ISR) anomalous aerial object sighting
+    node_type: event
+    slug: surveillance-and-reconnaissance-isr-anomalous-aerial-object-sighting-2020-05-14-night-intelligence
+    shared_claims: 1
+  - node_id: 5c7ced4d-e328-4444-818c-98d9a68d1dad
+    title: 2020-09-04 Gulf of Aden IR sensor contact
+    node_type: event
+    slug: 2020-09-04-gulf-of-aden-ir-sensor-contact
+    shared_claims: 1
+  - node_id: 66f42c54-23e1-441b-ad3a-c2618cd447c4
+    title: AN/APG-79 Radar
+    node_type: object
+    slug: anapg-79-radar
+    shared_claims: 1
+  - node_id: c09e3558-1732-4676-a218-d67d285d98ef
+    title: David Fravor
+    node_type: person
+    slug: david-fravor
+    shared_claims: 1
+  - node_id: 1451172e-3efb-4848-939a-ed9aff0d7e2f
+    title: Go-Fast Video
+    node_type: document
+    slug: go-fast-video
+    shared_claims: 1
+  - node_id: 64be188f-bca4-416a-a06b-fc30fd1d7eff
+    title: Ryan Graves
+    node_type: person
+    slug: ryan-graves
+    shared_claims: 1
+  - node_id: ebbc59cd-bc77-405b-845e-889ff3c21b47
+    title: USS Nimitz (CVN-68)
+    node_type: object
+    slug: uss-nimitz-cvn-68
+    shared_claims: 1
+  - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
+    title: Unidentified Anomalous Phenomena (UAP)
+    node_type: topic
+    slug: unidentified-anomalous-phenomena-uap
+    shared_claims: 1
+  - node_id: 5ee4362d-c09b-44a8-a3be-8bd9c05f4c78
+    title: United States Navy (USN)
+    node_type: organisation
+    slug: united-states-navy-usn
+    shared_claims: 1
+claims:
+  - claim_id: b44b02ac-32aa-4091-af1f-4b7c827e0614
+    claim_hash: 23c1aeff35bd79bf0bec675b3ade07333772111aa94319cada9e95f98f0d3ac9
+    content: During the 14 May 2020 night ISR anomalous aerial object sighting, the Advanced Targeting Forward-Looking Infrared
+      (ATFLIR) autotrack function was not indicated as achieved on the contact.
+    original_excerpt: 'ATFLIR Autotrack: [ ]'
+    claim_type: observation
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: aircrew debrief form
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 719c3dd3-db51-4c5d-90ef-94a932b385e2
+        title: Advanced Targeting Forward-Looking Infrared (ATFLIR) targeting pod
+        slug: advanced-targeting-forward-looking-infrared-atflir-targeting-pod
+      - node_id: 9724eb39-6309-446a-b4e3-93f2fc8d3465
+        title: 2020-05-14 night Intelligence, Surveillance, and Reconnaissance (ISR) anomalous aerial object sighting
+        slug: surveillance-and-reconnaissance-isr-anomalous-aerial-object-sighting-2020-05-14-night-intelligence
+    date: '2020-05-14'
+    date_end: null
+    location_in_record: line 42
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: a316517f-42c7-44af-87be-d4c676c57af1
+      record_title: Range Fouler Debrief Form
+      record_date: '2020-05-14'
+      record_reference: null
+      content_hash: sha256:90b353682ba2181149054d0911b7553e58e959438dd4de531a06fc387a332f85
+      friendly_name: null
+  - claim_id: 340556e2-e5ef-4d7b-bede-157415902c6f
+    claim_hash: cb38c92e8e68094c9e4fdb4caa3d7f74819d77c25c3756b4e6eec87cae2b2d93
+    content: During the 2020-09-04 Gulf of Aden IR sensor contact, the trackfile of the object was characterised as round.
+    original_excerpt: "Stable Trackfile?:\nATFLIR Autotrack: ☐\nRound: ☑ Moving Parts: ☐"
+    claim_type: observation
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: document
+      origin: Range Fouler Reporting Form
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 5c7ced4d-e328-4444-818c-98d9a68d1dad
+        title: 2020-09-04 Gulf of Aden IR sensor contact
+        slug: 2020-09-04-gulf-of-aden-ir-sensor-contact
+      - node_id: 719c3dd3-db51-4c5d-90ef-94a932b385e2
+        title: Advanced Targeting Forward-Looking Infrared (ATFLIR) targeting pod
+        slug: advanced-targeting-forward-looking-infrared-atflir-targeting-pod
+    date: '2020-09-04'
+    date_end: null
+    location_in_record: char:1796-1851
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e2a68e2c-494c-4dfc-9acf-4f2619a4427a
+      record_title: Range Fouler Reporting Form
+      record_date: '2020-09-04'
+      record_reference: null
+      content_hash: sha256:2565433b0ac938d6123c611be75b30ec6cf99c192e71dbf4ef53c40a6852ca00
+      friendly_name: null
+  - claim_id: bb93ed9d-0f01-4ca8-b126-b8bd225234c3
+    claim_hash: e0053942af97ee13d7c7a768b0ff94881fba3192588ae17e6c6f3c31232826bf
+    content: As David Fravor and his wingman returned to the USS Nimitz on the afternoon of 2004-11-14, a third pair of aircraft
+      headed out, one piloted by Lieutenant Chad Underwood, whose jet was fitted with an ATFLIR pod.
+    original_excerpt: As Commander Fravor and his wingman returned to the USS Nimitz from their Tic Tac encounter that 14
+      November afternoon, a third pair of aircraft headed out. One of the pilots, Lieutenant Chad Underwood, had what is called
+      an ATFLIR pod on his jet.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 29f2befa-fe75-484b-a9e8-53a320e66c84
+        title: Chad Underwood
+        slug: chad-underwood
+      - node_id: 719c3dd3-db51-4c5d-90ef-94a932b385e2
+        title: Advanced Targeting Forward-Looking Infrared (ATFLIR) targeting pod
+        slug: advanced-targeting-forward-looking-infrared-atflir-targeting-pod
+      - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
+        title: 2004 USS Nimitz UAP encounter
+        slug: 2004-uss-nimitz-uap-encounter
+      - node_id: c09e3558-1732-4676-a218-d67d285d98ef
+        title: David Fravor
+        slug: david-fravor
+      - node_id: ebbc59cd-bc77-405b-845e-889ff3c21b47
+        title: USS Nimitz (CVN-68)
+        slug: uss-nimitz-cvn-68
+    date: '2004-11-14'
+    date_end: null
+    location_in_record: ch16:16657-16902
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 280f8b61-d344-4f4d-a6c9-62cab5497b3c
+    claim_hash: b81ea58db908ec15c0adc3bd4d132c150f4dd18443b238c6ddc0e767622080ff
+    content: The ATFLIR pod is an electro-optical targeting pod that fighter jets use to navigate and direct bombs, combining
+      a thermographic heat-detecting camera, a low-light television camera, and a laser rangefinder.
+    original_excerpt: This is an electro-optical targeting pod that fighter jets use to navigate and direct bombs. Its combined
+      thermographic (heat-detecting) camera, low-light television camera and laser rangefinder make it a perfect piece of
+      kit for chasing and videoing an evasive UAP.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 719c3dd3-db51-4c5d-90ef-94a932b385e2
+        title: Advanced Targeting Forward-Looking Infrared (ATFLIR) targeting pod
+        slug: advanced-targeting-forward-looking-infrared-atflir-targeting-pod
+    date: null
+    date_end: null
+    location_in_record: ch16:16907-17169
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 96f1038c-a53c-4628-8546-dbdc57e78dfd
+    claim_hash: e5d8bb7947f4ecd612cfb728c429991199eeb515ac53415f8eb46dac40bb2acd
+    content: The weapons systems officer sitting behind Chad Underwood was eventually able to lock onto the Tic Tac craft
+      using the ATFLIR pod's infra-red mode, showing it as a white object against a black background.
+    original_excerpt: The weapons systems officer sitting behind Underwood was eventually able to lock on to the object using
+      the pod's infra-red mode, meaning it showed up on his screen as a white object in a black background.
+    claim_type: observation
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 29f2befa-fe75-484b-a9e8-53a320e66c84
+        title: Chad Underwood
+        slug: chad-underwood
+      - node_id: 719c3dd3-db51-4c5d-90ef-94a932b385e2
+        title: Advanced Targeting Forward-Looking Infrared (ATFLIR) targeting pod
+        slug: advanced-targeting-forward-looking-infrared-atflir-targeting-pod
+      - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
+        title: 2004 USS Nimitz UAP encounter
+        slug: 2004-uss-nimitz-uap-encounter
+    date: '2004-11-14'
+    date_end: null
+    location_in_record: ch16:17606-17800
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: c5015d19-048c-4ea0-ba8d-c97818584995
+    claim_hash: bc0941bbf039ee53a0d74d163ea8e7538274c0d873dcc7224d0645aed7e488fb
+    content: The ATFLIR infra-red footage of the Tic Tac craft showed no sign of any jet exhaust or of any gases blasting
+      from the object, as would be expected from a conventional propulsion system.
+    original_excerpt: There was no sign of any jet exhaust or of any gases at all blasting from the UAP, as you would expect
+      to see from any conventional propulsion system.
+    claim_type: observation
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 719c3dd3-db51-4c5d-90ef-94a932b385e2
+        title: Advanced Targeting Forward-Looking Infrared (ATFLIR) targeting pod
+        slug: advanced-targeting-forward-looking-infrared-atflir-targeting-pod
+      - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
+        title: 2004 USS Nimitz UAP encounter
+        slug: 2004-uss-nimitz-uap-encounter
+    date: '2004-11-14'
+    date_end: null
+    location_in_record: ch16:17899-18069
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 48d64dd6-142b-462c-9acb-e2cbecd586fb
+    claim_hash: 9ba3007cf63b9a51ea2977c9588677e5be3e3b223b0d0282968911a38a7ce6b8
+    content: The Go-Fast video lacked details on when, where, or by whom it was shot, other than that it was captured by a
+      US Navy FA-18 fighter using the jet's advanced targeting forward-looking infrared (ATFLIR) pod.
+    original_excerpt: It also lacked any details on when or where it was shot, or who shot it, other than that it was captured
+      by a US Navy FA-18 fighter using the jet's advanced targeting forward-looking infrared (ATFLIR) pod.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: narration
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 1451172e-3efb-4848-939a-ed9aff0d7e2f
+        title: Go-Fast Video
+        slug: go-fast-video
+      - node_id: 225c66f3-5c29-4780-819c-59b78a852e50
+        title: FA-18 Super Hornet
+        slug: fa-18-super-hornet
+      - node_id: 5ee4362d-c09b-44a8-a3be-8bd9c05f4c78
+        title: United States Navy (USN)
+        slug: united-states-navy-usn
+      - node_id: 719c3dd3-db51-4c5d-90ef-94a932b385e2
+        title: Advanced Targeting Forward-Looking Infrared (ATFLIR) targeting pod
+        slug: advanced-targeting-forward-looking-infrared-atflir-targeting-pod
+    date: null
+    date_end: null
+    location_in_record: ch21:22340-22541
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 3e4e7273-846b-4591-a356-5ea4a40a3874
+    claim_hash: dc17787265b42ffce9a211059e43e45038e7f71a6f0ba72f37de3c486a3a9ccf
+    content: All of the Super Hornet squadrons equipped with the new APG-79 radars were detecting the unidentified objects
+      on radar and ATFLIR (Advanced Targeting Forward-Looking Infrared) and seeing them with their own eyes.
+    original_excerpt: In fact, all of the Super Hornet squadrons equipped with the new APG-79 radars were detecting the objects
+      on radar and ATFLIR and seeing them with their own eyes.
+    claim_type: observation
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 225c66f3-5c29-4780-819c-59b78a852e50
+        title: FA-18 Super Hornet
+        slug: fa-18-super-hornet
+      - node_id: 66f42c54-23e1-441b-ad3a-c2618cd447c4
+        title: AN/APG-79 Radar
+        slug: anapg-79-radar
+      - node_id: 719c3dd3-db51-4c5d-90ef-94a932b385e2
+        title: Advanced Targeting Forward-Looking Infrared (ATFLIR) targeting pod
+        slug: advanced-targeting-forward-looking-infrared-atflir-targeting-pod
+    date: null
+    date_end: null
+    location_in_record: ch22:4222-4379
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: faed602d-908f-488c-97ae-b1c4f246136c
+    claim_hash: 9e714bca1814f30b3e058b9cb4f556f9c82fa34d0b955a343bda003df4c3617a
+    content: When Ryan Graves' jet's Advanced Targeting Forward-Looking Infrared (ATFLIR) system got close enough to the tracked
+      objects, it visually displayed the UAP either electro-optically or in infrared mode.
+    original_excerpt: When their jets’ Advanced Targeting Forward Looking Infrared (ATFLIR) got close enough, it visually
+      displayed the UAP, either electro-optically or in infra-red mode.
+    claim_type: observation
+    attestation: first_hand
+    speaker:
+      node_id: 64be188f-bca4-416a-a06b-fc30fd1d7eff
+      title: Ryan Graves
+    provenance_chain:
+      origin_kind: speaker
+      origin: Ryan Graves
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 64be188f-bca4-416a-a06b-fc30fd1d7eff
+        title: Ryan Graves
+        slug: ryan-graves
+      - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
+        title: Unidentified Anomalous Phenomena (UAP)
+        slug: unidentified-anomalous-phenomena-uap
+      - node_id: 719c3dd3-db51-4c5d-90ef-94a932b385e2
+        title: Advanced Targeting Forward-Looking Infrared (ATFLIR) targeting pod
+        slug: advanced-targeting-forward-looking-infrared-atflir-targeting-pod
+    date: null
+    date_end: null
+    location_in_record: ch22:7279-7439
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight

@@ -1,0 +1,855 @@
+schema: anomalica/brief/1
+brief_hash: e13a2fd6e51b6402061ec84768a9e64c88dde4c01b46106fd6ff60fefe020b55
+page:
+  kind: entity
+  node_id: 767969f9-4aab-4910-8224-db78ee159e5c
+  node_type: person
+  title: John Dee
+  slug: john-dee
+  claim_count: 20
+  claim_count_total: 20
+generated:
+  graph_version: '2026-09-01T10:10:49.863545+00:00'
+size:
+  claims: 20
+  tokens_estimated: 5605
+  sized_against: 1050000
+publication:
+  status: published
+  note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
+    transcripts are gated elsewhere.
+belonging:
+  verified: 0
+  suspect_excluded: 0
+  unreviewed: 20
+related_nodes:
+  - node_id: 17065ab7-9877-42f4-8071-33f38f548e36
+    title: Edward Kelly
+    node_type: person
+    slug: edward-kelly
+    shared_claims: 4
+  - node_id: ea0a769f-fbf1-4f32-bc8b-e249645d47b2
+    title: 1581 John Dee contact with Angel Uriel
+    node_type: event
+    slug: 1581-john-dee-contact-with-angel-uriel
+    shared_claims: 3
+  - node_id: fa0bad6e-9f34-4615-abff-5980ab4afa35
+    title: Elizabeth I
+    node_type: person
+    slug: elizabeth-i
+    shared_claims: 3
+  - node_id: 844fb16a-70ee-4199-8be9-26af30c44e25
+    title: Angel Uriel
+    node_type: topic
+    slug: angel-uriel
+    shared_claims: 2
+  - node_id: fed4f9f6-83bd-4965-9440-444e40db518c
+    title: Giacomo Casanova
+    node_type: person
+    slug: giacomo-casanova
+    shared_claims: 2
+  - node_id: b6090b6b-63d9-473d-8d6c-bd4b5f54f24b
+    title: Jack Parsons
+    node_type: person
+    slug: jack-parsons
+    shared_claims: 2
+  - node_id: 6063296b-f65b-452e-be99-dd564ded9c39
+    title: L. Ron Hubbard
+    node_type: person
+    slug: l-ron-hubbard
+    shared_claims: 2
+  - node_id: 4cdc0cb1-dd77-4844-ad7e-92f15d748ae9
+    title: UK, England, Cambridge
+    node_type: place
+    slug: england-cambridge-uk
+    shared_claims: 2
+  - node_id: 383fc644-c1b4-4a39-bf62-5b14ba2db5cc
+    title: Aleister Crowley
+    node_type: person
+    slug: aleister-crowley
+    shared_claims: 1
+  - node_id: 121b9978-8ddc-44fa-9334-c2de469ac340
+    title: Babalon Working
+    node_type: event
+    slug: babalon-working
+    shared_claims: 1
+  - node_id: a3456eb4-a34b-4abb-80fe-c00eb525dec9
+    title: Belgium, Louvain
+    node_type: place
+    slug: louvain-belgium
+    shared_claims: 1
+  - node_id: 1cbf2750-c58e-481d-84b1-e191fa205d50
+    title: British Museum
+    node_type: organisation
+    slug: british-museum
+    shared_claims: 1
+  - node_id: 26de4397-4cd2-4cfa-a892-7544b92534cf
+    title: Cornelius Agrippa
+    node_type: person
+    slug: cornelius-agrippa
+    shared_claims: 1
+  - node_id: 351b6217-0194-4860-95ba-846e7453ff40
+    title: Edward VI
+    node_type: person
+    slug: edward-vi
+    shared_claims: 1
+  - node_id: ddc2698d-14f2-4f13-8527-bc7eaadc4b1a
+    title: Enochian calls
+    node_type: topic
+    slug: enochian-calls
+    shared_claims: 1
+  - node_id: 9bbdf4e3-624a-4f49-8570-340f59e867eb
+    title: Enochian language
+    node_type: topic
+    slug: enochian-language
+    shared_claims: 1
+  - node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
+    title: Jacques Vallée
+    node_type: person
+    slug: jacques-vallee
+    shared_claims: 1
+  - node_id: d5224a9c-0d69-4b8d-b27b-0ffc20e0b713
+    title: Major Murphy
+    node_type: person
+    slug: major-murphy
+    shared_claims: 1
+  - node_id: 8ecf450c-a590-42de-a98b-077d191c736e
+    title: Osiris
+    node_type: topic
+    slug: osiris
+    shared_claims: 1
+  - node_id: 134433ac-c317-4826-9edd-5f732f74521c
+    title: UK, London
+    node_type: place
+    slug: london-uk
+    shared_claims: 1
+claims:
+  - claim_id: e6bbeadc-23e4-4d90-84eb-18212e2e02a4
+    claim_hash: 8370c522c23e877f3f31da0dca7916a5af86385b794ac1366093c5d8a1659af1
+    content: Jacques Vallée noted that occultists from John Dee and Giacomo Casanova to Aleister Crowley have often doubled
+      as spies.
+    original_excerpt: From John Dee and Casanova to Aleister Crowley, occultists have often doubled as spies.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
+      title: Jacques Vallée
+    provenance_chain:
+      origin_kind: speaker
+      origin: Jacques Vallée
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
+        title: Jacques Vallée
+        slug: jacques-vallee
+      - node_id: 383fc644-c1b4-4a39-bf62-5b14ba2db5cc
+        title: Aleister Crowley
+        slug: aleister-crowley
+      - node_id: 767969f9-4aab-4910-8224-db78ee159e5c
+        title: John Dee
+        slug: john-dee
+      - node_id: fed4f9f6-83bd-4965-9440-444e40db518c
+        title: Giacomo Casanova
+        slug: giacomo-casanova
+    date: null
+    date_end: null
+    location_in_record: ch11:64739-64820
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: f0690aba-c78b-47f4-bb2f-f94ea04d55ee
+      record_title: 'Messengers of Deception: UFO Contacts and Cults'
+      record_date: '0101-01-01'
+      record_reference: null
+      content_hash: sha256:0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5ac9fd3168
+      friendly_name: 0101-01-01-ebook-messengers-of-deception-ufo-contacts-and-cults
+  - claim_id: 877edcd2-4d86-4976-95d8-57c986fb893e
+    claim_hash: 9e0209ed3ac5c9e22a8de3f32fed22028e425482bf1879145bd57226e96ada4c
+    content: Major Murphy suggests that intelligence agencies use occult organizations as cover for their own designs, a practice
+      he traces to the days of John Dee and Giacomo Casanova.
+    original_excerpt: 'And they use occult organizations as they always have, since the days of Dr. John Dee and Jacques Casanova:
+      as a cover for their own designs.'
+    claim_type: opinion
+    attestation: second_hand
+    speaker:
+      node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
+      title: Jacques Vallée
+    provenance_chain:
+      origin_kind: named
+      origin: Major Murphy
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 767969f9-4aab-4910-8224-db78ee159e5c
+        title: John Dee
+        slug: john-dee
+      - node_id: d5224a9c-0d69-4b8d-b27b-0ffc20e0b713
+        title: Major Murphy
+        slug: major-murphy
+      - node_id: fed4f9f6-83bd-4965-9440-444e40db518c
+        title: Giacomo Casanova
+        slug: giacomo-casanova
+    date: null
+    date_end: null
+    location_in_record: ch13:6901-7034
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: f0690aba-c78b-47f4-bb2f-f94ea04d55ee
+      record_title: 'Messengers of Deception: UFO Contacts and Cults'
+      record_date: '0101-01-01'
+      record_reference: null
+      content_hash: sha256:0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5ac9fd3168
+      friendly_name: 0101-01-01-ebook-messengers-of-deception-ufo-contacts-and-cults
+  - claim_id: edcfc65a-9055-4497-bbc9-cbb088d31c48
+    claim_hash: 28243f9ac3b33be8551fa72a386e9c15b5edb9812cc0ff83181aadc2ee008540
+    content: Jack Parsons and L. Ron Hubbard decided to recreate a series of seances performed by Dr. John Dee, the Royal
+      Astrologer to Queen Elizabeth I in the sixteenth century.
+    original_excerpt: He and Hubbard decided that they would recreate a famous series of séances performed by Dr. John Dee,
+      the Royal Astrologer to Queen Elizabeth in the sixteenth century.
+    claim_type: observation
+    attestation: first_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: speaker
+      origin: Richard C. Hoagland
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 6063296b-f65b-452e-be99-dd564ded9c39
+        title: L. Ron Hubbard
+        slug: l-ron-hubbard
+      - node_id: 767969f9-4aab-4910-8224-db78ee159e5c
+        title: John Dee
+        slug: john-dee
+      - node_id: b6090b6b-63d9-473d-8d6c-bd4b5f54f24b
+        title: Jack Parsons
+        slug: jack-parsons
+      - node_id: fa0bad6e-9f34-4615-abff-5980ab4afa35
+        title: Elizabeth I
+        slug: elizabeth-i
+    date: null
+    date_end: null
+    location_in_record: ch12:83164-83323
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+      record_title: Dark Mission
+      record_date: '2010-07-22'
+      record_reference: null
+      content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+      friendly_name: null
+  - claim_id: 48e9b8dc-b371-432d-bdf7-a52dd15d910c
+    claim_hash: 6cd6a7eba129b59953e0c904281b5c461f06888b324858dcdf5cd6a958575bb3
+    content: The rituals used by Jack Parsons and L. Ron Hubbard in the Babalon Working employed the Enochian calls, or angelic
+      language, of John Dee, and specifically required calling the Egyptian god Osiris.
+    original_excerpt: The rituals used by Parsons and Hubbard employed the Enochian calls, or angelic language, of John Dee,
+      and specifically required the calling of the Egyptian god Osiris.
+    claim_type: observation
+    attestation: first_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: speaker
+      origin: Richard C. Hoagland
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 121b9978-8ddc-44fa-9334-c2de469ac340
+        title: Babalon Working
+        slug: babalon-working
+      - node_id: 6063296b-f65b-452e-be99-dd564ded9c39
+        title: L. Ron Hubbard
+        slug: l-ron-hubbard
+      - node_id: 767969f9-4aab-4910-8224-db78ee159e5c
+        title: John Dee
+        slug: john-dee
+      - node_id: 8ecf450c-a590-42de-a98b-077d191c736e
+        title: Osiris
+        slug: osiris
+      - node_id: b6090b6b-63d9-473d-8d6c-bd4b5f54f24b
+        title: Jack Parsons
+        slug: jack-parsons
+      - node_id: ddc2698d-14f2-4f13-8527-bc7eaadc4b1a
+        title: Enochian calls
+        slug: enochian-calls
+    date: null
+    date_end: null
+    location_in_record: ch12:85004-85165
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+      record_title: Dark Mission
+      record_date: '2010-07-22'
+      record_reference: null
+      content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+      friendly_name: null
+  - claim_id: 70f86feb-455e-405b-a774-e5f2bc18da25
+    claim_hash: 09bd4a56bef06659065702bc64c497e4ba0d4af98cb974b5b60701f2825f19c8
+    content: John Dee was born in London in 1527.
+    original_excerpt: Dr. Dee was a brilliant man, born in London in 1527, who entered Cambridge at the age of fifteen.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 134433ac-c317-4826-9edd-5f732f74521c
+        title: UK, London
+        slug: london-uk
+      - node_id: 767969f9-4aab-4910-8224-db78ee159e5c
+        title: John Dee
+        slug: john-dee
+    date: '1527'
+    date_end: null
+    location_in_record: ch11:29521-29610
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 220315f4-29cd-4c89-8860-44f95613d98f
+      record_title: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About UFO Influences on the Human Race'
+      record_date: '2014-09-27'
+      record_reference: null
+      content_hash: sha256:5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b8489cc11c26
+      friendly_name: 2014-09-27-ebook-the-invisible-college-what-a-group-of-scientists-has
+  - claim_id: 821d6191-9efe-413e-ae6d-4a544abfea68
+    claim_hash: 56ef2102bb1065ce8c05fc28f60bc6387b548f31541edbdca9e13699966c7778
+    content: John Dee entered the University of Cambridge at the age of fifteen.
+    original_excerpt: who entered Cambridge at the age of fifteen.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 4cdc0cb1-dd77-4844-ad7e-92f15d748ae9
+        title: UK, England, Cambridge
+        slug: england-cambridge-uk
+      - node_id: 767969f9-4aab-4910-8224-db78ee159e5c
+        title: John Dee
+        slug: john-dee
+    date: null
+    date_end: null
+    location_in_record: ch11:29574-29610
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 220315f4-29cd-4c89-8860-44f95613d98f
+      record_title: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About UFO Influences on the Human Race'
+      record_date: '2014-09-27'
+      record_reference: null
+      content_hash: sha256:5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b8489cc11c26
+      friendly_name: 2014-09-27-ebook-the-invisible-college-what-a-group-of-scientists-has
+  - claim_id: 9155e990-f95e-470d-a773-2f719bafbf87
+    claim_hash: c661d9149d0a2b3210f7af740e1a2b0dc767ab7ec73ed77e3c43b5d739dcd4aa
+    content: At Cambridge, John Dee developed a keen interest in the occult and found himself under pressure to leave.
+    original_excerpt: There he began to develop a keen interest in the occult, and found himself under pressure to leave.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 4cdc0cb1-dd77-4844-ad7e-92f15d748ae9
+        title: UK, England, Cambridge
+        slug: england-cambridge-uk
+      - node_id: 767969f9-4aab-4910-8224-db78ee159e5c
+        title: John Dee
+        slug: john-dee
+    date: null
+    date_end: null
+    location_in_record: ch11:29619-29712
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 220315f4-29cd-4c89-8860-44f95613d98f
+      record_title: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About UFO Influences on the Human Race'
+      record_date: '2014-09-27'
+      record_reference: null
+      content_hash: sha256:5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b8489cc11c26
+      friendly_name: 2014-09-27-ebook-the-invisible-college-what-a-group-of-scientists-has
+  - claim_id: 539ea56b-f339-4804-a2d0-1e6e0441cc65
+    claim_hash: 1000759a7137d4a150da1e75634f9e49087e2455ea95daf2fbf83016b8d7c5b0
+    content: John Dee went from England to Louvain in the Low Countries, where he studied with the disciples of Cornelius
+      Agrippa.
+    original_excerpt: From England he went to Louvain, in the Low Countries, where he studied with the disciples of that great
+      master in the magic arts, Cornelius Agrippa.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 26de4397-4cd2-4cfa-a892-7544b92534cf
+        title: Cornelius Agrippa
+        slug: cornelius-agrippa
+      - node_id: 767969f9-4aab-4910-8224-db78ee159e5c
+        title: John Dee
+        slug: john-dee
+      - node_id: a3456eb4-a34b-4abb-80fe-c00eb525dec9
+        title: Belgium, Louvain
+        slug: louvain-belgium
+    date: null
+    date_end: null
+    location_in_record: ch11:29719-29860
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 220315f4-29cd-4c89-8860-44f95613d98f
+      record_title: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About UFO Influences on the Human Race'
+      record_date: '2014-09-27'
+      record_reference: null
+      content_hash: sha256:5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b8489cc11c26
+      friendly_name: 2014-09-27-ebook-the-invisible-college-what-a-group-of-scientists-has
+  - claim_id: 2e1a6072-ec7a-4c9d-bea2-44d9e6544505
+    claim_hash: e4d64412536bcd916f7c1de8fa2115f23e1e0dbb6f6fe7350a5e8c066a59e9e9
+    content: John Dee returned to England in 1551 and obtained, through some friends, a pension from King Edward VI.
+    original_excerpt: He returned to England in 1551 and obtained through some friends a pension from the king, Edward VI.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 351b6217-0194-4860-95ba-846e7453ff40
+        title: Edward VI
+        slug: edward-vi
+      - node_id: 767969f9-4aab-4910-8224-db78ee159e5c
+        title: John Dee
+        slug: john-dee
+    date: '1551'
+    date_end: null
+    location_in_record: ch11:29869-29966
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 220315f4-29cd-4c89-8860-44f95613d98f
+      record_title: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About UFO Influences on the Human Race'
+      record_date: '2014-09-27'
+      record_reference: null
+      content_hash: sha256:5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b8489cc11c26
+      friendly_name: 2014-09-27-ebook-the-invisible-college-what-a-group-of-scientists-has
+  - claim_id: 96fe8b2a-7fc7-4c54-90b2-0952c26da84b
+    claim_hash: 4fec208884a0178f1b944a69bdd36c71bef04a943d76d85954eb6acb5561a99c
+    content: John Dee became an astrologer and enjoyed the favour of Queen Elizabeth I, seeking the elixir of life and the
+      philosopher's stone.
+    original_excerpt: He became an astrologer and enjoyed the favor of Queen Elizabeth, seeking the elixir of life and the
+      philosopher’s stone, and generally having a happy life.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 767969f9-4aab-4910-8224-db78ee159e5c
+        title: John Dee
+        slug: john-dee
+      - node_id: fa0bad6e-9f34-4615-abff-5980ab4afa35
+        title: Elizabeth I
+        slug: elizabeth-i
+    date: null
+    date_end: null
+    location_in_record: ch11:29970-30121
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 220315f4-29cd-4c89-8860-44f95613d98f
+      record_title: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About UFO Influences on the Human Race'
+      record_date: '2014-09-27'
+      record_reference: null
+      content_hash: sha256:5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b8489cc11c26
+      friendly_name: 2014-09-27-ebook-the-invisible-college-what-a-group-of-scientists-has
+  - claim_id: b8620e4b-83f3-4312-a014-f182f00cfc1d
+    claim_hash: 0e6c297f48a49dad3bce0085f4634b19c4b4d792bf481b1bcb387183058de9eb
+    content: John Dee served as an intelligence agent to Queen Elizabeth I and signed his reports from abroad with the number
+      '007.'
+    original_excerpt: He served also as an intelligence agent to Elizabeth, and signed his reports from abroad with the now-famous
+      number 007.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 767969f9-4aab-4910-8224-db78ee159e5c
+        title: John Dee
+        slug: john-dee
+      - node_id: fa0bad6e-9f34-4615-abff-5980ab4afa35
+        title: Elizabeth I
+        slug: elizabeth-i
+    date: null
+    date_end: null
+    location_in_record: ch11:30127-30243
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 220315f4-29cd-4c89-8860-44f95613d98f
+      record_title: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About UFO Influences on the Human Race'
+      record_date: '2014-09-27'
+      record_reference: null
+      content_hash: sha256:5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b8489cc11c26
+      friendly_name: 2014-09-27-ebook-the-invisible-college-what-a-group-of-scientists-has
+  - claim_id: 1ba27dd7-e9d3-45bc-a518-b3e88e95e5eb
+    claim_hash: 6c6f37496f121cadefdb6061d9777a9d67d1192411a0ff86fec54f35e37a8bbb
+    content: In November 1581, John Dee was contacted by an entity while working in his museum, whose window faced west, when
+      a dazzling light appeared.
+    original_excerpt: One day in November, 1581, Dr. Dee was contacted by an entity. He was working in his museum, whose window
+      faced west, when a dazzling light appeared.
+    claim_type: testimony
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 767969f9-4aab-4910-8224-db78ee159e5c
+        title: John Dee
+        slug: john-dee
+      - node_id: ea0a769f-fbf1-4f32-bc8b-e249645d47b2
+        title: 1581 John Dee contact with Angel Uriel
+        slug: 1581-john-dee-contact-with-angel-uriel
+    date: 1581-11
+    date_end: null
+    location_in_record: ch11:30513-30653
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 220315f4-29cd-4c89-8860-44f95613d98f
+      record_title: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About UFO Influences on the Human Race'
+      record_date: '2014-09-27'
+      record_reference: null
+      content_hash: sha256:5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b8489cc11c26
+      friendly_name: 2014-09-27-ebook-the-invisible-college-what-a-group-of-scientists-has
+  - claim_id: dbe33e4e-513b-4be0-ab60-cd91a0204358
+    claim_hash: 14ea902f9d8d84d442349c554aecf59062d5bab61b891ef2d5627da5792c2839
+    content: In the middle of the light contacted by John Dee in November 1581 was the form of an entity who introduced itself
+      as Angel Uriel.
+    original_excerpt: In the middle of the light was the form of an entity who introduced itself as Angel Uriel.
+    claim_type: testimony
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 767969f9-4aab-4910-8224-db78ee159e5c
+        title: John Dee
+        slug: john-dee
+      - node_id: 844fb16a-70ee-4199-8be9-26af30c44e25
+        title: Angel Uriel
+        slug: angel-uriel
+      - node_id: ea0a769f-fbf1-4f32-bc8b-e249645d47b2
+        title: 1581 John Dee contact with Angel Uriel
+        slug: 1581-john-dee-contact-with-angel-uriel
+    date: 1581-11
+    date_end: null
+    location_in_record: ch11:30663-30747
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 220315f4-29cd-4c89-8860-44f95613d98f
+      record_title: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About UFO Influences on the Human Race'
+      record_date: '2014-09-27'
+      record_reference: null
+      content_hash: sha256:5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b8489cc11c26
+      friendly_name: 2014-09-27-ebook-the-invisible-college-what-a-group-of-scientists-has
+  - claim_id: 7aed70fe-02f1-4a71-b6d2-c7dfb84b31c0
+    claim_hash: 2e5729fc9fea0ffbc3d01a3fb2810fcec13729545c4d1598c4bdd2323864a309
+    content: The angel who appeared to John Dee gave him a convex crystal and told him to use it whenever he wished to converse
+      with the beings of another sphere.
+    original_excerpt: The angel smiled and gave him an object, a convex crystal, and told him to use it whenever he wished
+      to converse with the beings of another sphere.
+    claim_type: testimony
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 767969f9-4aab-4910-8224-db78ee159e5c
+        title: John Dee
+        slug: john-dee
+      - node_id: 844fb16a-70ee-4199-8be9-26af30c44e25
+        title: Angel Uriel
+        slug: angel-uriel
+      - node_id: ea0a769f-fbf1-4f32-bc8b-e249645d47b2
+        title: 1581 John Dee contact with Angel Uriel
+        slug: 1581-john-dee-contact-with-angel-uriel
+    date: 1581-11
+    date_end: null
+    location_in_record: ch11:30778-30918
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 220315f4-29cd-4c89-8860-44f95613d98f
+      record_title: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About UFO Influences on the Human Race'
+      record_date: '2014-09-27'
+      record_reference: null
+      content_hash: sha256:5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b8489cc11c26
+      friendly_name: 2014-09-27-ebook-the-invisible-college-what-a-group-of-scientists-has
+  - claim_id: 57253257-7a56-4952-b61b-450b3cd2b0a1
+    claim_hash: 2ed5c7690c319fbc63375aa0daa51f4ce263e7ca68f62fab696fcbe631fb84da
+    content: John Dee discovered that in using the crystal he had to concentrate all of his awareness into it, which was in
+      fact a black stone or piece of polished coal according to an account published in Granger's Biographical History, in
+      order to see the beings.
+    original_excerpt: First, he had to concentrate all of his awareness into the crystal (which was in fact a black stone,
+      or piece of polished coal, according to an account published in Granger’s *Biographical History)* in order to see the
+      beings
+    claim_type: testimony
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: document
+      origin: Granger's Biographical History
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 767969f9-4aab-4910-8224-db78ee159e5c
+        title: John Dee
+        slug: john-dee
+    date: null
+    date_end: null
+    location_in_record: ch11:31110-31329
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 220315f4-29cd-4c89-8860-44f95613d98f
+      record_title: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About UFO Influences on the Human Race'
+      record_date: '2014-09-27'
+      record_reference: null
+      content_hash: sha256:5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b8489cc11c26
+      friendly_name: 2014-09-27-ebook-the-invisible-college-what-a-group-of-scientists-has
+  - claim_id: 856152a5-5b84-4896-9c23-8eb89e86199f
+    claim_hash: 022719cb725836d31c6c327b66b5611ee235cbadcab2aebab7be7537781be2a8
+    content: John Dee discovered that he could never remember his conversations with the beings he contacted via the crystal.
+    original_excerpt: and, second, he could never remember his conversations with them, a fact which is not unlike the mysterious
+      disappearance of Dr. Puharich’s tapes when he records the voice of SPECTRA.
+    claim_type: testimony
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 767969f9-4aab-4910-8224-db78ee159e5c
+        title: John Dee
+        slug: john-dee
+    date: null
+    date_end: null
+    location_in_record: ch11:31337-31512
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 220315f4-29cd-4c89-8860-44f95613d98f
+      record_title: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About UFO Influences on the Human Race'
+      record_date: '2014-09-27'
+      record_reference: null
+      content_hash: sha256:5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b8489cc11c26
+      friendly_name: 2014-09-27-ebook-the-invisible-college-what-a-group-of-scientists-has
+  - claim_id: bbd79ed3-11a3-44ea-8fe2-12c960833815
+    claim_hash: 84cb2f4e54f81d758c3fbdd645888feb80c77e9099df9ccc920620f79d103eac
+    content: John Dee confided the secret of the crystal stone to his assistant, Edward Kelly, in order to record the communications.
+    original_excerpt: In order to record the communications, Dr. Dee confided the secret of the stone to his assistant, Edward
+      Kelly.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 17065ab7-9877-42f4-8071-33f38f548e36
+        title: Edward Kelly
+        slug: edward-kelly
+      - node_id: 767969f9-4aab-4910-8224-db78ee159e5c
+        title: John Dee
+        slug: john-dee
+    date: null
+    date_end: null
+    location_in_record: ch11:31522-31627
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 220315f4-29cd-4c89-8860-44f95613d98f
+      record_title: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About UFO Influences on the Human Race'
+      record_date: '2014-09-27'
+      record_reference: null
+      content_hash: sha256:5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b8489cc11c26
+      friendly_name: 2014-09-27-ebook-the-invisible-college-what-a-group-of-scientists-has
+  - claim_id: 2d7ac1d2-73c3-4f26-aac5-46c13f733a4b
+    claim_hash: 3d92fc4698df77ad0e9dc22ccffb983715dcaceecfe2da0f2e953321b3cc5327
+    content: On 1581-12-02, the first of many sessions with the entities took place between John Dee and Edward Kelly.
+    original_excerpt: On December 2, 1581, the first of many sessions took place, and the complete text of these communications
+      is now kept among the Harleian manuscripts at the British Museum.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 17065ab7-9877-42f4-8071-33f38f548e36
+        title: Edward Kelly
+        slug: edward-kelly
+      - node_id: 767969f9-4aab-4910-8224-db78ee159e5c
+        title: John Dee
+        slug: john-dee
+    date: '1581-12-02'
+    date_end: null
+    location_in_record: ch11:31634-31798
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 220315f4-29cd-4c89-8860-44f95613d98f
+      record_title: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About UFO Influences on the Human Race'
+      record_date: '2014-09-27'
+      record_reference: null
+      content_hash: sha256:5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b8489cc11c26
+      friendly_name: 2014-09-27-ebook-the-invisible-college-what-a-group-of-scientists-has
+  - claim_id: 840a501e-03d8-4295-a4d1-2c2bdca56732
+    claim_hash: f6820b2c5fda121275d1fbf39ba4fd1b1bca476b0c32d498f4075fc128f66cec
+    content: The complete text of the communications between John Dee, Edward Kelly, and the entities is kept among the Harleian
+      manuscripts at the British Museum.
+    original_excerpt: the complete text of these communications is now kept among the Harleian manuscripts at the British
+      Museum.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 17065ab7-9877-42f4-8071-33f38f548e36
+        title: Edward Kelly
+        slug: edward-kelly
+      - node_id: 1cbf2750-c58e-481d-84b1-e191fa205d50
+        title: British Museum
+        slug: british-museum
+      - node_id: 767969f9-4aab-4910-8224-db78ee159e5c
+        title: John Dee
+        slug: john-dee
+    date: null
+    date_end: null
+    location_in_record: ch11:31698-31798
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 220315f4-29cd-4c89-8860-44f95613d98f
+      record_title: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About UFO Influences on the Human Race'
+      record_date: '2014-09-27'
+      record_reference: null
+      content_hash: sha256:5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b8489cc11c26
+      friendly_name: 2014-09-27-ebook-the-invisible-college-what-a-group-of-scientists-has
+  - claim_id: b4cbf9db-f256-4317-b385-07af753970c0
+    claim_hash: 3035f816a4a0574355823703e1bce20adbe6fce09f285c7d4ecd3ec26436b144
+    content: Among the facts revealed by the entities to John Dee and Edward Kelly was a complete language known as Enochian,
+      still regarded by contemporary occultists as a tool of great power.
+    original_excerpt: Among the facts revealed by the entities with whom Kelly and Dee were in contact, was a complete language
+      known as Enochian, which is still regarded by contemporary occultists as a tool of the greatest power.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 17065ab7-9877-42f4-8071-33f38f548e36
+        title: Edward Kelly
+        slug: edward-kelly
+      - node_id: 767969f9-4aab-4910-8224-db78ee159e5c
+        title: John Dee
+        slug: john-dee
+      - node_id: 9bbdf4e3-624a-4f49-8570-340f59e867eb
+        title: Enochian language
+        slug: enochian-language
+    date: null
+    date_end: null
+    location_in_record: ch11:31806-32008
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 220315f4-29cd-4c89-8860-44f95613d98f
+      record_title: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About UFO Influences on the Human Race'
+      record_date: '2014-09-27'
+      record_reference: null
+      content_hash: sha256:5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b8489cc11c26
+      friendly_name: 2014-09-27-ebook-the-invisible-college-what-a-group-of-scientists-has

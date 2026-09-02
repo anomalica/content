@@ -1,0 +1,381 @@
+schema: anomalica/brief/1
+brief_hash: 1135b6a5c6e8585e9b04cbb2a11d77c2c7074155c171394a3b77a91b172965fe
+page:
+  kind: entity
+  node_id: 06ee95cb-01e6-433d-a9af-0dad77e55649
+  node_type: person
+  title: G. I. Gurdjieff
+  slug: g-i-gurdjieff
+  claim_count: 8
+  claim_count_total: 8
+generated:
+  graph_version: '2026-09-01T10:10:49.863545+00:00'
+size:
+  claims: 8
+  tokens_estimated: 2712
+  sized_against: 1050000
+publication:
+  status: published
+  note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
+    transcripts are gated elsewhere.
+belonging:
+  verified: 0
+  suspect_excluded: 0
+  unreviewed: 8
+related_nodes:
+  - node_id: d1f8175d-e37a-4046-ac6e-d871df7e045d
+    title: Organ Kundabuffer
+    node_type: topic
+    slug: organ-kundabuffer
+    shared_claims: 3
+  - node_id: b3b95d66-00e6-49a2-ba34-965c89042346
+    title: Gurdjieff Foundation
+    node_type: organisation
+    slug: gurdjieff-foundation
+    shared_claims: 2
+  - node_id: cb9ed598-5ddb-4529-b1fc-4bad7aabf9cf
+    title: P. D. Ouspensky
+    node_type: person
+    slug: p-d-ouspensky
+    shared_claims: 2
+  - node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+    title: Whitley Strieber
+    node_type: person
+    slug: whitley-strieber
+    shared_claims: 2
+  - node_id: 5adec707-de1f-4866-9e66-05e40374a22c
+    title: 'All and Everything: Beelzebub''s Tales to His Grandson'
+    node_type: document
+    slug: all-and-everything-beelzebubs-tales-to-his-grandson
+    shared_claims: 1
+  - node_id: e9a04a87-bd8b-4b8b-ba3e-c06c733a3c1e
+    title: Corpus Hermeticum
+    node_type: document
+    slug: corpus-hermeticum
+    shared_claims: 1
+  - node_id: 9fcf03c9-7fa9-4337-b28b-f8aea804e12c
+    title: Hermes
+    node_type: person
+    slug: hermes
+    shared_claims: 1
+  - node_id: 5ef59d5a-ea85-4ff4-8869-4bff929846f9
+    title: Tat
+    node_type: person
+    slug: tat
+    shared_claims: 1
+claims:
+  - claim_id: 6a708a2c-afcf-47d9-9802-8a76adaf5afa
+    claim_hash: dedd65e07c5213cdcfddbb5d3faeefde26da812ffe54ed9f5b4fe1100701c1f7
+    content: The Gurdjieff Foundation, as referenced during Whitley Strieber's hypnosis recollection, is an organisation devoted
+      to the development of consciousness based on the ideas of philosophers G. I. Gurdjieff and P. D. Ouspensky, and is not
+      related to other groups that publicly claim the same name.
+    original_excerpt: This was the Gurdjieff Foundation, an organization devoted to the development of consciousness based
+      on the ideas of the philosophers G. I. Gurdjieff and P. D. Ouspensky. It is not related to groups that make public claim
+      to be the "Gurdjieff Foundation." The real Foundation is not a public organization.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 06ee95cb-01e6-433d-a9af-0dad77e55649
+        title: G. I. Gurdjieff
+        slug: g-i-gurdjieff
+      - node_id: b3b95d66-00e6-49a2-ba34-965c89042346
+        title: Gurdjieff Foundation
+        slug: gurdjieff-foundation
+      - node_id: cb9ed598-5ddb-4529-b1fc-4bad7aabf9cf
+        title: P. D. Ouspensky
+        slug: p-d-ouspensky
+    date: null
+    date_end: null
+    location_in_record: ch12:91826-92118
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: ad152768-183b-4cde-bc60-1520900ceb32
+      record_title: Communion
+      record_date: '2013-06-16'
+      record_reference: null
+      content_hash: sha256:b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4001275f9
+      friendly_name: 2013-06-16-ebook-communion
+  - claim_id: 6da460f2-d532-4ecd-84bc-0ee8be200a2e
+    claim_hash: f000724ae1e1fd4192afc0c393d894fc54703d5558017473ddf9d8318772b956
+    content: Whitley Strieber spent fifteen years involved with the Gurdjieff Foundation, largely because the thought of G.
+      I. Gurdjieff and his disciple P. D. Ouspensky involved the triad as a primary expression of the essential structure
+      of life.
+    original_excerpt: I spent fifteen years involved with the Gurdjieff Foundation, primarily because so much of the thought
+      of G. I. Gurdjieff and his disciple P. D Ouspensky involved the triad as a primary expression of the essential structure
+      of life, and I have always been fascinated with the significance of this figure.
+    claim_type: administrative
+    attestation: first_hand
+    speaker:
+      node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+      title: Whitley Strieber
+    provenance_chain:
+      origin_kind: speaker
+      origin: Whitley Strieber
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 06ee95cb-01e6-433d-a9af-0dad77e55649
+        title: G. I. Gurdjieff
+        slug: g-i-gurdjieff
+      - node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+        title: Whitley Strieber
+        slug: whitley-strieber
+      - node_id: b3b95d66-00e6-49a2-ba34-965c89042346
+        title: Gurdjieff Foundation
+        slug: gurdjieff-foundation
+      - node_id: cb9ed598-5ddb-4529-b1fc-4bad7aabf9cf
+        title: P. D. Ouspensky
+        slug: p-d-ouspensky
+    date: null
+    date_end: null
+    location_in_record: ch14:104173-104470
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: ad152768-183b-4cde-bc60-1520900ceb32
+      record_title: Communion
+      record_date: '2013-06-16'
+      record_reference: null
+      content_hash: sha256:b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4001275f9
+      friendly_name: 2013-06-16-ebook-communion
+  - claim_id: b0cf7d22-d0d0-4e89-86a0-47bc7b9af601
+    claim_hash: 7af3c9b11fedb6956a9b7f8014b3e70ab1be0fe514ed975c17ae0fe2f85b6df2
+    content: Gurdjieff was reported to have said that if there had been two obstacles to achieving the mystical state such
+      as the sexual one presented, he would not have achieved it.
+    original_excerpt: Gurdjieff, the famous early-twentieth-century mystic, was reported to have stated that if there had
+      been two obstacles to achieving the mystical state such as the sexual one presented, he wouldn't have achieved it.
+    claim_type: hearsay
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: anonymous
+      origin: a person claiming to have heard Gurdjieff's remark
+      relay:
+        - report reaching Robert Monroe
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 06ee95cb-01e6-433d-a9af-0dad77e55649
+        title: G. I. Gurdjieff
+        slug: g-i-gurdjieff
+    date: null
+    date_end: null
+    location_in_record: ch23:1689-1902
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 0585998d-c88f-4448-be7b-523c2680e789
+      record_title: Journeys Out of the Body
+      record_date: '2014-11-11'
+      record_reference: null
+      content_hash: sha256:b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029dc180b44
+      friendly_name: 2014-11-11-ebook-journeys-out-of-the-body
+  - claim_id: 73fea5a1-d04f-4ebb-a47f-c1670999c82b
+    claim_hash: b25c51ef5221e2e9acf22314aa4d1d95f7dba2a88eca948de63f4987d53bd584
+    content: G. I. Gurdjieff claimed that certain abilities discussed by Whitley Strieber were taken from humanity, perhaps
+      because humanity was on the losing side of a cosmic war.
+    original_excerpt: Or, as certain mystics, most notably G. I. Gurdjieff, have claimed, were they taken from us, perhaps
+      because we were on the losing side?
+    claim_type: opinion
+    attestation: second_hand
+    speaker:
+      node_id: 06ee95cb-01e6-433d-a9af-0dad77e55649
+      title: G. I. Gurdjieff
+    provenance_chain:
+      origin_kind: named
+      origin: G. I. Gurdjieff
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 06ee95cb-01e6-433d-a9af-0dad77e55649
+        title: G. I. Gurdjieff
+        slug: g-i-gurdjieff
+    date: null
+    date_end: null
+    location_in_record: ch23:10906-11037
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 759e8d7b-a820-4e00-bdc3-9aebf9e4b1b1
+      record_title: The Fourth Mind
+      record_date: '2025-01-15'
+      record_reference: null
+      content_hash: sha256:524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008e17102e7
+      friendly_name: 2025-01-15-ebook-the-fourth-mind
+  - claim_id: 50fdeda4-08d7-44f3-80b5-e849f80c48cf
+    claim_hash: 1407b7ae2156392923111ae980c4adb3570a16b669a0def560369c3126053930
+    content: According to G. I. Gurdjieff, the Organ Kundabuffer was placed into humanity to reduce access to cosmic energies
+      believed too powerful to handle, but the resulting helpless state led to the rise of egotism and other negative traits.
+    original_excerpt: According to Gurdjieff, this was done to reduce our access to cosmic energies that were believed to
+      be too powerful for us to handle, but instead the helpless state in which we were left led to what Gurdjieff characterizes
+      as the rise of egotism and other negative traits.
+    claim_type: opinion
+    attestation: second_hand
+    speaker:
+      node_id: 06ee95cb-01e6-433d-a9af-0dad77e55649
+      title: G. I. Gurdjieff
+    provenance_chain:
+      origin_kind: named
+      origin: G. I. Gurdjieff
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 06ee95cb-01e6-433d-a9af-0dad77e55649
+        title: G. I. Gurdjieff
+        slug: g-i-gurdjieff
+      - node_id: d1f8175d-e37a-4046-ac6e-d871df7e045d
+        title: Organ Kundabuffer
+        slug: organ-kundabuffer
+    date: null
+    date_end: null
+    location_in_record: ch23:11310-11575
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 759e8d7b-a820-4e00-bdc3-9aebf9e4b1b1
+      record_title: The Fourth Mind
+      record_date: '2025-01-15'
+      record_reference: null
+      content_hash: sha256:524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008e17102e7
+      friendly_name: 2025-01-15-ebook-the-fourth-mind
+  - claim_id: 3c1189c9-c784-49f6-8388-99be1657451f
+    claim_hash: 74a0683d4dc18df4c5450f457274892f97ed7c8b97188e43eb9c89720e56941e
+    content: The Corpus Hermeticum dialogue between Hermes and Tat is structurally identical to Gurdjieff's Organ Kundabuffer
+      story, in that the older character imparts wisdom to the younger one, who serves as a stand-in for the reader.
+    original_excerpt: The stories are structurally identical, insofar as the older character imparts wisdom to the younger
+      one, who serves as a stand-in for the reader.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+      title: Whitley Strieber
+    provenance_chain:
+      origin_kind: speaker
+      origin: Whitley Strieber
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 06ee95cb-01e6-433d-a9af-0dad77e55649
+        title: G. I. Gurdjieff
+        slug: g-i-gurdjieff
+      - node_id: 5ef59d5a-ea85-4ff4-8869-4bff929846f9
+        title: Tat
+        slug: tat
+      - node_id: 9fcf03c9-7fa9-4337-b28b-f8aea804e12c
+        title: Hermes
+        slug: hermes
+      - node_id: e9a04a87-bd8b-4b8b-ba3e-c06c733a3c1e
+        title: Corpus Hermeticum
+        slug: corpus-hermeticum
+    date: null
+    date_end: null
+    location_in_record: ch23:11778-11917
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 759e8d7b-a820-4e00-bdc3-9aebf9e4b1b1
+      record_title: The Fourth Mind
+      record_date: '2025-01-15'
+      record_reference: null
+      content_hash: sha256:524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008e17102e7
+      friendly_name: 2025-01-15-ebook-the-fourth-mind
+  - claim_id: caafb905-c91c-4239-ac9d-0865102b499d
+    claim_hash: 3bd201deba834dc9e60fb09a0ccb71d49d27acfb00110b598340d09cec1f291a
+    content: Whitley Strieber considers that humanity may have lost or forgotten something and been severed from an earth
+      energy, as G. I. Gurdjieff described.
+    original_excerpt: maybe your chief was right. Maybe we lost something. Maybe what we really are is something we've forgotten
+      and lost. We've been severed from that energy.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+      title: Whitley Strieber
+    provenance_chain:
+      origin_kind: speaker
+      origin: Whitley Strieber
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 06ee95cb-01e6-433d-a9af-0dad77e55649
+        title: G. I. Gurdjieff
+        slug: g-i-gurdjieff
+      - node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+        title: Whitley Strieber
+        slug: whitley-strieber
+      - node_id: d1f8175d-e37a-4046-ac6e-d871df7e045d
+        title: Organ Kundabuffer
+        slug: organ-kundabuffer
+    date: null
+    date_end: null
+    location_in_record: 02:07:33.2-02:07:44.8
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 9302c6b2-133d-4cbb-adfa-5d1f0bd3e7ac
+      record_title: The Terrible Truth About the Visitors - Whitley Strieber | ep. 96
+      record_date: '2026-07-24'
+      record_reference: https://www.youtube.com/watch?v=Cv-sk4vt-qU
+      content_hash: sha256:456dbde0ab82ee8e216bdad2d1a0bf2a0b42622a167af19058f973050b035084
+      friendly_name: null
+  - claim_id: 3180153e-2401-43bd-9f0e-78c7241f1019
+    claim_hash: 8fa9ed49b22ca1f0fa40c8918a260a0ad4155820eb579706229b919be9b518ca
+    content: 'The centrepiece of G. I. Gurdjieff''s All and Everything: Beelzebub''s Tales to His Grandson is a demonic figure
+      creating an organ called the kundabuffer, which severs humanity from the earth energy.'
+    original_excerpt: the centerpiece of this book ... he has in it this thing these this demon or whatever it is uh creates
+      something called the organ kunda buffer that severs us from this energy. It's Kundalini Buffer. And we're severed from
+      that energy.
+    claim_type: administrative
+    attestation: second_hand
+    speaker:
+      node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+      title: Whitley Strieber
+    provenance_chain:
+      origin_kind: document
+      origin: 'All and Everything: Beelzebub''s Tales to His Grandson'
+      relay:
+        - Whitley Strieber's reading of the book
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 06ee95cb-01e6-433d-a9af-0dad77e55649
+        title: G. I. Gurdjieff
+        slug: g-i-gurdjieff
+      - node_id: 5adec707-de1f-4866-9e66-05e40374a22c
+        title: 'All and Everything: Beelzebub''s Tales to His Grandson'
+        slug: all-and-everything-beelzebubs-tales-to-his-grandson
+      - node_id: d1f8175d-e37a-4046-ac6e-d871df7e045d
+        title: Organ Kundabuffer
+        slug: organ-kundabuffer
+    date: null
+    date_end: null
+    location_in_record: lines 233-238
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 9302c6b2-133d-4cbb-adfa-5d1f0bd3e7ac
+      record_title: The Terrible Truth About the Visitors - Whitley Strieber | ep. 96
+      record_date: '2026-07-24'
+      record_reference: https://www.youtube.com/watch?v=Cv-sk4vt-qU
+      content_hash: sha256:456dbde0ab82ee8e216bdad2d1a0bf2a0b42622a167af19058f973050b035084
+      friendly_name: null

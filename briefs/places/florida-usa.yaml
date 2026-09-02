@@ -1,0 +1,390 @@
+schema: anomalica/brief/1
+brief_hash: 9609458aa1dc816784f56a32b20684fc7e5351062da579c123195486cc0b46a2
+page:
+  kind: entity
+  node_id: 7f308d88-d2de-4252-9456-3615d3a27796
+  node_type: place
+  title: USA, Florida
+  slug: florida-usa
+  claim_count: 8
+  claim_count_total: 8
+generated:
+  graph_version: '2026-09-01T10:10:49.863545+00:00'
+size:
+  claims: 8
+  tokens_estimated: 2248
+  sized_against: 1050000
+publication:
+  status: published
+  note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
+    transcripts are gated elsewhere.
+belonging:
+  verified: 0
+  suspect_excluded: 0
+  unreviewed: 8
+related_nodes:
+  - node_id: a28a4839-e548-4ecd-993e-1a9a8f6a637f
+    title: Coral Castle
+    node_type: object
+    slug: coral-castle
+    shared_claims: 2
+  - node_id: 664eae5a-cd98-49c8-ba48-d7dc1e73c967
+    title: Ed Leedskalnin
+    node_type: person
+    slug: ed-leedskalnin
+    shared_claims: 2
+  - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
+    title: Unidentified Anomalous Phenomena (UAP)
+    node_type: topic
+    slug: unidentified-anomalous-phenomena-uap
+    shared_claims: 2
+  - node_id: e7af3000-2b7b-49ab-8f8a-b8343de609c4
+    title: 1923-1956 construction of Coral Castle by Ed Leedskalnin
+    node_type: event
+    slug: 1923-1956-construction-of-coral-castle-by-ed-leedskalnin
+    shared_claims: 1
+  - node_id: 8d16b687-0581-4cf5-952a-a6ad7dfe7016
+    title: George W. Bush
+    node_type: person
+    slug: george-w-bush
+    shared_claims: 1
+  - node_id: 1eabd894-9059-432b-990a-74c0a81eec82
+    title: Gordon Cooper
+    node_type: person
+    slug: gordon-cooper
+    shared_claims: 1
+  - node_id: be3c2f02-bc7e-4b51-a0e5-48cbbdc20f52
+    title: Lockheed Martin
+    node_type: organisation
+    slug: lockheed-martin
+    shared_claims: 1
+  - node_id: 03473bdf-16be-425d-baf4-626a4ed828aa
+    title: Mercury-Atlas 9 mission
+    node_type: event
+    slug: mercury-atlas-9-mission
+    shared_claims: 1
+  - node_id: 5e47c787-005b-4c91-ba4b-c9bec48146c9
+    title: National Aeronautics and Space Administration (NASA)
+    node_type: organisation
+    slug: national-aeronautics-and-space-administration-nasa
+    shared_claims: 1
+  - node_id: 5d4091a0-d807-4db5-9d2e-302b40c720b9
+    title: Orion (spacecraft)
+    node_type: object
+    slug: orion-spacecraft
+    shared_claims: 1
+  - node_id: 9088363a-2d44-4999-9808-d8b21e418e65
+    title: Supreme Court of the United States
+    node_type: organisation
+    slug: supreme-court-of-the-united-states
+    shared_claims: 1
+  - node_id: 1bd67c4e-3412-45c3-844a-e543cb2dcc7a
+    title: USS Roosevelt
+    node_type: object
+    slug: uss-roosevelt
+    shared_claims: 1
+claims:
+  - claim_id: 595dec1c-52ab-4a0f-8aa5-8e725a69425d
+    claim_hash: 61a59afce65e00627a1a2c0f36404a7396ffb7f7b6db326e963e0d9bef503381
+    content: In the 2000 United States presidential election, Bush's lead in Florida shrank to about 1,700 votes, making the
+      state too close to call and forcing a retraction of the networks' earlier call for Bush.
+    original_excerpt: As the final returns came in, Bush's lead shrank to about 1,700 votes, making Florida too close to call
+      and forcing the networks to retract their earlier calls for Bush.
+    claim_type: measurement
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 7f308d88-d2de-4252-9456-3615d3a27796
+        title: USA, Florida
+        slug: florida-usa
+      - node_id: 8d16b687-0581-4cf5-952a-a6ad7dfe7016
+        title: George W. Bush
+        slug: george-w-bush
+    date: 2000-11
+    date_end: null
+    location_in_record: ch19:4710-4874
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+      record_title: Dark Mission
+      record_date: '2010-07-22'
+      record_reference: null
+      content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+      friendly_name: null
+  - claim_id: 251b2287-84e4-4518-8643-d5e786a04600
+    claim_hash: 589189173f30f1e95d7da908a4d18e4bfff34de8833792674c727f4e9b657c9f
+    content: The Supreme Court of the United States declared on a 7-2 vote that hand recounts of the 2000 Florida presidential
+      election vote were unconstitutional and ordered the recounts stopped.
+    original_excerpt: the Supreme Court of the United States declared on a 7-2 vote that the hand recounts were unconstitutional,
+      and ordered the recounts stopped.
+    claim_type: administrative
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: named
+      origin: Supreme Court of the United States
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 7f308d88-d2de-4252-9456-3615d3a27796
+        title: USA, Florida
+        slug: florida-usa
+      - node_id: 9088363a-2d44-4999-9808-d8b21e418e65
+        title: Supreme Court of the United States
+        slug: supreme-court-of-the-united-states
+    date: 2000-12
+    date_end: null
+    location_in_record: ch19:5216-5349
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+      record_title: Dark Mission
+      record_date: '2010-07-22'
+      record_reference: null
+      content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+      friendly_name: null
+  - claim_id: 5a0a7403-bcb8-42e9-a406-6604c857eab6
+    claim_hash: 28c2ebfb1cb89aca3d86dd694156149caf550c383f96a26539864fca06df16ea
+    content: NASA's formal stated reasons for the Orion decision were that Lockheed Martin had promised to launch sooner and
+      agreed to do final assembly in Florida.
+    original_excerpt: NASA’s formal reasons were not immediately clear, except that Lockheed had promised to launch sooner
+      and agreed to do final assembly in Florida.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 5d4091a0-d807-4db5-9d2e-302b40c720b9
+        title: Orion (spacecraft)
+        slug: orion-spacecraft
+      - node_id: 5e47c787-005b-4c91-ba4b-c9bec48146c9
+        title: National Aeronautics and Space Administration (NASA)
+        slug: national-aeronautics-and-space-administration-nasa
+      - node_id: 7f308d88-d2de-4252-9456-3615d3a27796
+        title: USA, Florida
+        slug: florida-usa
+      - node_id: be3c2f02-bc7e-4b51-a0e5-48cbbdc20f52
+        title: Lockheed Martin
+        slug: lockheed-martin
+    date: null
+    date_end: null
+    location_in_record: ch19:86476-86612
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+      record_title: Dark Mission
+      record_date: '2010-07-22'
+      record_reference: null
+      content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+      friendly_name: null
+  - claim_id: 18a5ec88-fab1-4e4e-a9dd-6de7f77581f6
+    claim_hash: 03170b0ca1d33827df899d28778885c0e68f78a8189b97e730a43f65c769154e
+    content: During pre-deployment workups in late 2014, in waters off Virginia and down to Florida, USS Roosevelt aircrew
+      had twenty-two separate encounters with Unidentified Aerial Phenomena (UAP).
+    original_excerpt: It turns out that during pre-deployment workups in late 2014, in the waters off Virginia and all the
+      way down to Florida, the aircrew had twenty-two separate encounters with UAP.
+    claim_type: observation
+    attestation: second_hand
+    speaker:
+      node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+      title: Luis Elizondo
+    provenance_chain:
+      origin_kind: named
+      origin: Jay Stratton
+      relay:
+        - forwarded email
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 1bd67c4e-3412-45c3-844a-e543cb2dcc7a
+        title: USS Roosevelt
+        slug: uss-roosevelt
+      - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
+        title: Unidentified Anomalous Phenomena (UAP)
+        slug: unidentified-anomalous-phenomena-uap
+      - node_id: 7f308d88-d2de-4252-9456-3615d3a27796
+        title: USA, Florida
+        slug: florida-usa
+    date: '2014'
+    date_end: null
+    location_in_record: ch23:461-635
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  - claim_id: a57f0026-cb35-4a85-905d-5d7a110fcb31
+    claim_hash: 43ea99c7af1d0dccab48d06e2e09bb2d414441ace520e2abaed79e92bbcac6da
+    content: Numerous UAP were observed operating in exclusive-use airspace off Virginia and Florida where no aircraft besides
+      US military aircraft are authorised to fly.
+    original_excerpt: There were scores of UAP operating in exclusive-use airspace, where no aircraft are authorized to fly
+      besides US military aircraft.
+    claim_type: observation
+    attestation: second_hand
+    speaker:
+      node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+      title: Luis Elizondo
+    provenance_chain:
+      origin_kind: named
+      origin: Jay Stratton
+      relay:
+        - forwarded email
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
+        title: Unidentified Anomalous Phenomena (UAP)
+        slug: unidentified-anomalous-phenomena-uap
+      - node_id: 7f308d88-d2de-4252-9456-3615d3a27796
+        title: USA, Florida
+        slug: florida-usa
+    date: null
+    date_end: null
+    location_in_record: ch23:937-1061
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  - claim_id: 267082d5-73ca-4960-b4fa-608e6344c016
+    claim_hash: 9500ea4cd42f2dca1e98331865522a1373bc9fab6228f472934d40c8a07a8712
+    content: Ed Leedskalnin created the Coral Castle in Florida.
+    original_excerpt: Ed Leedskalnin, who created the Coral Castle in Florida
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 664eae5a-cd98-49c8-ba48-d7dc1e73c967
+        title: Ed Leedskalnin
+        slug: ed-leedskalnin
+      - node_id: 7f308d88-d2de-4252-9456-3615d3a27796
+        title: USA, Florida
+        slug: florida-usa
+      - node_id: a28a4839-e548-4ecd-993e-1a9a8f6a637f
+        title: Coral Castle
+        slug: coral-castle
+    date: null
+    date_end: null
+    location_in_record: ch21:24465-24513
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 759e8d7b-a820-4e00-bdc3-9aebf9e4b1b1
+      record_title: The Fourth Mind
+      record_date: '2025-01-15'
+      record_reference: null
+      content_hash: sha256:524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008e17102e7
+      friendly_name: 2025-01-15-ebook-the-fourth-mind
+  - claim_id: a2424919-93a3-4b87-911b-24f3bfea7ab7
+    claim_hash: 5ca945cb81cd6c7836c0b80ea4452acb8660d3eba8b7812dec080090617d3b4d
+    content: Ed Leedskalnin created the Coral Castle in Florida between 1923 and 1956.
+    original_excerpt: Someone who apparently possessed the Laghima siddhi was Ed Leedskalnin, who created the Coral Castle
+      in Florida between 1923 and 1956.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 664eae5a-cd98-49c8-ba48-d7dc1e73c967
+        title: Ed Leedskalnin
+        slug: ed-leedskalnin
+      - node_id: 7f308d88-d2de-4252-9456-3615d3a27796
+        title: USA, Florida
+        slug: florida-usa
+      - node_id: a28a4839-e548-4ecd-993e-1a9a8f6a637f
+        title: Coral Castle
+        slug: coral-castle
+      - node_id: e7af3000-2b7b-49ab-8f8a-b8343de609c4
+        title: 1923-1956 construction of Coral Castle by Ed Leedskalnin
+        slug: 1923-1956-construction-of-coral-castle-by-ed-leedskalnin
+    date: '1923'
+    date_end: null
+    location_in_record: ch25:9018-9147
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 759e8d7b-a820-4e00-bdc3-9aebf9e4b1b1
+      record_title: The Fourth Mind
+      record_date: '2025-01-15'
+      record_reference: null
+      content_hash: sha256:524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008e17102e7
+      friendly_name: 2025-01-15-ebook-the-fourth-mind
+  - claim_id: 32b57aa2-0f58-4c8d-bef8-2ad6f0a852db
+    claim_hash: b6e069229c316f70c0d1e36a4a79bc83c64e774cfea4e433d881bf46081da72e
+    content: During Mercury-Atlas 9, L. Gordon Cooper Jr. observed a clear view of the entire state of USA, Florida from orbit.
+    original_excerpt: The whole state is clear. I can see I'm just about off. There's been a beautiful view coming over Florida.
+    claim_type: observation
+    attestation: first_hand
+    speaker:
+      node_id: 1eabd894-9059-432b-990a-74c0a81eec82
+      title: Gordon Cooper
+    provenance_chain:
+      origin_kind: speaker
+      origin: Cooper, L. Gordon Jr.
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 03473bdf-16be-425d-baf4-626a4ed828aa
+        title: Mercury-Atlas 9 mission
+        slug: mercury-atlas-9-mission
+      - node_id: 1eabd894-9059-432b-990a-74c0a81eec82
+        title: Gordon Cooper
+        slug: gordon-cooper
+      - node_id: 7f308d88-d2de-4252-9456-3615d3a27796
+        title: USA, Florida
+        slug: florida-usa
+    date: '1963-05-15'
+    date_end: null
+    location_in_record: 00:04:43.4-00:04:51.0
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: bb9d5a42-f920-404e-983c-1384d7ea2213
+      record_title: NASA-UAP-D011, Mercury Atlas 9 Audio Excerpt, May 15, 1963
+      record_date: '2026-07-11'
+      record_reference: https://www.dvidshub.net/video/1007876
+      content_hash: sha256:ace8d290e2b0223b18ce0d1ee225f1de4a19a7c21a96d000ac04da37141f488e
+      friendly_name: 2026-07-11-audio-nasa-uap-d011-mercury-atlas-9-audio-excerpt-may-15-1963.v2

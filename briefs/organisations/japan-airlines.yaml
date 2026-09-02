@@ -1,0 +1,209 @@
+schema: anomalica/brief/1
+brief_hash: 4d1be57938e18a1179a66ca053210c834dabb771446ef6b897832e516427d30b
+page:
+  kind: entity
+  node_id: bb1cb8d7-932c-4bce-b15a-92f695005a34
+  node_type: organisation
+  title: Japan Airlines
+  slug: japan-airlines
+  claim_count: 4
+  claim_count_total: 4
+generated:
+  graph_version: '2026-09-01T10:10:49.863545+00:00'
+size:
+  claims: 4
+  tokens_estimated: 1313
+  sized_against: 1050000
+publication:
+  status: published
+  note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
+    transcripts are gated elsewhere.
+belonging:
+  verified: 0
+  suspect_excluded: 0
+  unreviewed: 4
+related_nodes:
+  - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
+    title: 2004 USS Nimitz UAP encounter
+    node_type: event
+    slug: 2004-uss-nimitz-uap-encounter
+    shared_claims: 4
+  - node_id: f7f451bb-90db-4f69-97a2-e892d218a0af
+    title: USA, Alaska, Anchorage
+    node_type: place
+    slug: alaska-anchorage-usa
+    shared_claims: 2
+  - node_id: b0d24cf5-0952-4d73-ad89-fe29f61309b7
+    title: Boeing 747
+    node_type: object
+    slug: boeing-747
+    shared_claims: 1
+  - node_id: 94a78181-7c9b-420b-973e-1bcb186b8fa5
+    title: Federal Aviation Administration (FAA)
+    node_type: organisation
+    slug: federal-aviation-administration-faa
+    shared_claims: 1
+  - node_id: 1cfffc9b-b3c8-4e8f-a1ff-a98432f9fdad
+    title: Japan Airlines Flight 1628 Boeing 747
+    node_type: object
+    slug: japan-airlines-flight-1628-boeing-747
+    shared_claims: 1
+claims:
+  - claim_id: 24139b91-3bf0-4b78-9118-e769fda0614c
+    claim_hash: c7b45e4c89d64ed0513a7d08859eb4bec0def23b469065b890758523317a9dee
+    content: The 1978 Japan Airlines Flight 1628 Alaska UFO sighting involved a huge UFO seen by a Japan Airlines crew flying
+      a Boeing 747 cargo plane into Anchorage, Alaska, which followed them for hundreds of kilometres.
+    original_excerpt: this involved a huge UFO seen by a Japanese Airlines crew flying a cargo plane, a Boeing 747, into Anchorage,
+      Alaska, and they were followed for hundreds of miles by this huge UFO
+    claim_type: testimony
+    attestation: null
+    speaker:
+      node_id: d92b06f4-08e6-4138-8c83-7959f54a61bc
+      title: Raymond E. Fowler
+    provenance_chain:
+      origin_kind: unattributed
+      origin: news reports
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
+        title: 2004 USS Nimitz UAP encounter
+        slug: 2004-uss-nimitz-uap-encounter
+      - node_id: b0d24cf5-0952-4d73-ad89-fe29f61309b7
+        title: Boeing 747
+        slug: boeing-747
+      - node_id: bb1cb8d7-932c-4bce-b15a-92f695005a34
+        title: Japan Airlines
+        slug: japan-airlines
+      - node_id: f7f451bb-90db-4f69-97a2-e892d218a0af
+        title: USA, Alaska, Anchorage
+        slug: alaska-anchorage-usa
+    date: null
+    date_end: null
+    location_in_record: 00:15:16.5-00:15:29.0
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 4c975267-b18f-447b-aea0-321d5f3aaf25
+      record_title: Raymond Fowler on UFOs, Government Cover-Ups & the Andreasson Affair (Full Interview, 1987)
+      record_date: null
+      record_reference: https://www.youtube.com/watch?v=eIx6NytOGTs
+      content_hash: sha256:c37a1f6968db0d7817235b1cb192758a04a3e990d89029bc48ff3facbb50e476
+      friendly_name: null
+  - claim_id: 54fdfc57-67a5-49ac-9923-66d080575991
+    claim_hash: 728cc3bf55ba49438dd8e00515d8630ba84341e5633da149c152aa89af706566
+    content: On 17 November 1986, the pilots of Japan Airlines flight 1628 reported seeing two glowing spaceships and a gigantic
+      mothercraft in flight near Anchorage, Alaska, though this was not made public at the time.
+    original_excerpt: Though not made public at the time, on 17 November 1986, the pilots of Japan Airlines flight 1628 reported
+      seeing two glowing 'spaceships' and a gigantic mothercraft in flight near Anchorage, Alaska.
+    claim_type: observation
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: named
+      origin: the crew of Japan Airlines Flight 1628
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 1cfffc9b-b3c8-4e8f-a1ff-a98432f9fdad
+        title: Japan Airlines Flight 1628 Boeing 747
+        slug: japan-airlines-flight-1628-boeing-747
+      - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
+        title: 2004 USS Nimitz UAP encounter
+        slug: 2004-uss-nimitz-uap-encounter
+      - node_id: bb1cb8d7-932c-4bce-b15a-92f695005a34
+        title: Japan Airlines
+        slug: japan-airlines
+      - node_id: f7f451bb-90db-4f69-97a2-e892d218a0af
+        title: USA, Alaska, Anchorage
+        slug: alaska-anchorage-usa
+    date: '1986-11-17'
+    date_end: null
+    location_in_record: ch12:12786-12978
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: d798e0e1-29a9-4d0d-ac4f-0ac39fef1b14
+    claim_hash: 75cc3211682ee66d250ea9b7a00aed4c6194d09e2884c16e6dade598f43ada26
+    content: The Japanese crew of Japan Airlines flight 1628 were interviewed by the Federal Aviation Administration and were
+      adamant they had seen a gigantic craft, clearly not of any known terrestrial technology, which tracked them on their
+      journey.
+    original_excerpt: The Japanese crew of JAL 1628 were interviewed by the Federal Aviation Administration and were adamant
+      they had seen a gigantic craft, clearly not of any known terrestrial technology, which tracked them on their journey,
+      and they never wavered from that claim, despite a lot of harassment to persuade them otherwise.
+    claim_type: testimony
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: named
+      origin: the crew of Japan Airlines Flight 1628
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 94a78181-7c9b-420b-973e-1bcb186b8fa5
+        title: Federal Aviation Administration (FAA)
+        slug: federal-aviation-administration-faa
+      - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
+        title: 2004 USS Nimitz UAP encounter
+        slug: 2004-uss-nimitz-uap-encounter
+      - node_id: bb1cb8d7-932c-4bce-b15a-92f695005a34
+        title: Japan Airlines
+        slug: japan-airlines
+    date: null
+    date_end: null
+    location_in_record: ch12:12987-13293
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 4ad47949-b9da-4e51-8aea-5a63680791c3
+    claim_hash: cec6f8bd9a245b9624acf3814abedebc35ba328e2e78e27ef529c665a43f7458
+    content: The crew of Japan Airlines flight 1628 never wavered from their claim about the craft they saw, despite a lot
+      of harassment to persuade them otherwise.
+    original_excerpt: and they never wavered from that claim, despite a lot of harassment to persuade them otherwise.
+    claim_type: testimony
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
+        title: 2004 USS Nimitz UAP encounter
+        slug: 2004-uss-nimitz-uap-encounter
+      - node_id: bb1cb8d7-932c-4bce-b15a-92f695005a34
+        title: Japan Airlines
+        slug: japan-airlines
+    date: null
+    date_end: null
+    location_in_record: ch12:13208-13293
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight

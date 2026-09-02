@@ -1,0 +1,709 @@
+schema: anomalica/brief/1
+brief_hash: 4cfdd21e570e095acbc80212a20fece81776e63f471948e45f00c1d6a80cab36
+page:
+  kind: entity
+  node_id: c32507e1-c3c3-4309-a4db-af7bdaaf77b0
+  node_type: object
+  title: Space Shuttle Columbia
+  slug: space-shuttle-columbia
+  claim_count: 16
+  claim_count_total: 16
+generated:
+  graph_version: '2026-09-01T10:10:49.863545+00:00'
+size:
+  claims: 16
+  tokens_estimated: 4579
+  sized_against: 1050000
+publication:
+  status: published
+  note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
+    transcripts are gated elsewhere.
+belonging:
+  verified: 0
+  suspect_excluded: 0
+  unreviewed: 16
+related_nodes:
+  - node_id: af6dbe90-6360-40ab-ac31-ed08acbc94d4
+    title: STS-80
+    node_type: project
+    slug: sts-80
+    shared_claims: 8
+  - node_id: 24136f1c-4cb7-4030-8ed1-35855481a65e
+    title: Tyler D.
+    node_type: person
+    slug: tyler-d
+    shared_claims: 3
+  - node_id: 5e47c787-005b-4c91-ba4b-c9bec48146c9
+    title: National Aeronautics and Space Administration (NASA)
+    node_type: organisation
+    slug: national-aeronautics-and-space-administration-nasa
+    shared_claims: 2
+  - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
+    title: 2004 USS Nimitz UAP encounter
+    node_type: event
+    slug: 2004-uss-nimitz-uap-encounter
+    shared_claims: 1
+  - node_id: 07af9c54-dc18-45df-93dc-1cbf79da6fce
+    title: Anomalous Phenomena in Space Shuttle Mission STS-80 Video (Mark J. Carlotto, 2005)
+    node_type: document
+    slug: 2005-anomalous-phenomena-in-space-shuttle-mission-sts-80-video-mark-j-carlotto
+    shared_claims: 1
+  - node_id: db7bbf0d-f11e-4f91-aa05-29771dab68b7
+    title: Environmental Protection Agency (EPA)
+    node_type: organisation
+    slug: environmental-protection-agency-epa
+    shared_claims: 1
+  - node_id: b258ba79-75af-4717-8da2-cd62d86428e6
+    title: Maaneli "Max" Derakhshani
+    node_type: person
+    slug: maaneli-max-derakhshani
+    shared_claims: 1
+  - node_id: e1650a1d-8feb-4841-a403-0d71e176d2d9
+    title: Richard C. Hoagland
+    node_type: person
+    slug: richard-c-hoagland
+    shared_claims: 1
+  - node_id: c0176fab-652b-4872-a2f9-1063f80b9389
+    title: STS-80 video disk-like object sightings (1996-12-02)
+    node_type: event
+    slug: sts-80-video-disk-like-object-sightings-1996-12-02
+    shared_claims: 1
+  - node_id: 23889f9d-fde8-4ad1-b307-4d0ccbeac8d7
+    title: Space Shuttle Atlantis
+    node_type: object
+    slug: space-shuttle-atlantis
+    shared_claims: 1
+  - node_id: a58bf253-7a8c-4eb3-807d-ecc68f53e485
+    title: Space Shuttle Challenger
+    node_type: object
+    slug: space-shuttle-challenger
+    shared_claims: 1
+  - node_id: ced438f0-7eef-4314-babe-1817f40a6951
+    title: Space Shuttle Discovery
+    node_type: object
+    slug: space-shuttle-discovery
+    shared_claims: 1
+  - node_id: 50eaa133-6357-4e4b-ad1b-6d3ad54d34a0
+    title: Space Shuttle Endeavour
+    node_type: object
+    slug: space-shuttle-endeavour
+    shared_claims: 1
+  - node_id: 86f8df64-f392-47ca-93fb-c5d8c00ad7a1
+    title: USA, Puerto Rico
+    node_type: place
+    slug: puerto-rico-usa
+    shared_claims: 1
+  - node_id: 6ab4de8a-5e1e-4fd4-a5bb-6a96ff234ad4
+    title: William J. Clinton
+    node_type: person
+    slug: william-j-clinton
+    shared_claims: 1
+claims:
+  - claim_id: 2b32d6a5-b224-4036-81e0-d206efa0048f
+    claim_hash: 549de88fd6545e06d3cec88304268e7c8f48414e731d1b89209aa3e7f8bb9063
+    content: At an altitude of 345 kilometres, the distance from the sub-spacecraft point of the Space Shuttle Columbia to
+      the horizon is about 2042 kilometres.
+    original_excerpt: At an altitude of 345 km, the distance from the sub-spacecraft point to the horizon is about 2042 km
+      (Appendix A).
+    claim_type: measurement
+    attestation: first_hand
+    speaker:
+      node_id: cd9db0d9-5951-4d87-a50b-7d772c61da41
+      title: Mark C. Carlotto
+    provenance_chain:
+      origin_kind: speaker
+      origin: Mark J. Carlotto
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: af6dbe90-6360-40ab-ac31-ed08acbc94d4
+        title: STS-80
+        slug: sts-80
+      - node_id: c32507e1-c3c3-4309-a4db-af7bdaaf77b0
+        title: Space Shuttle Columbia
+        slug: space-shuttle-columbia
+    date: null
+    date_end: null
+    location_in_record: char:10152-10263
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 0055dc80-ff77-41d9-933f-4daa3f9aed31
+      record_title: Anomalous Phenomena in Space Shuttle Mission STS-80 Video
+      record_date: '2005'
+      record_reference: http://carlotto.us/newfrontiersinscience/Papers/v04n04a/v04n04a.pdf
+      content_hash: sha256:4c4bf584f8b4895378307383152cb3150dd5ad2368a0e996a77ec6309926d36a
+      friendly_name: null
+  - claim_id: 5100687b-8697-4546-8245-fadb3b67423b
+    claim_hash: 15e823c8e21c4df174ba092b18793acf63ffae8037219fee2623d47c8546995d
+    content: On 1996-11-19 the Space Shuttle Columbia began the STS-80 mission, a 17-day mission to deploy and retrieve two
+      satellites and conduct two space walks.
+    original_excerpt: On November 19, 1996, the space shuttle Columbia (STS-80) began a 17-day mission to deploy and retrieve
+      two satellites and conduct two space walks.
+    claim_type: administrative
+    attestation: null
+    speaker:
+      node_id: cd9db0d9-5951-4d87-a50b-7d772c61da41
+      title: Mark C. Carlotto
+    provenance_chain:
+      origin_kind: unattributed
+      origin: the document
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: af6dbe90-6360-40ab-ac31-ed08acbc94d4
+        title: STS-80
+        slug: sts-80
+      - node_id: c32507e1-c3c3-4309-a4db-af7bdaaf77b0
+        title: Space Shuttle Columbia
+        slug: space-shuttle-columbia
+    date: '1996-11-19'
+    date_end: null
+    location_in_record: char:1579-1720
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 0055dc80-ff77-41d9-933f-4daa3f9aed31
+      record_title: Anomalous Phenomena in Space Shuttle Mission STS-80 Video
+      record_date: '2005'
+      record_reference: http://carlotto.us/newfrontiersinscience/Papers/v04n04a/v04n04a.pdf
+      content_hash: sha256:4c4bf584f8b4895378307383152cb3150dd5ad2368a0e996a77ec6309926d36a
+      friendly_name: null
+  - claim_id: 0dc59df5-6ad9-4a73-876b-002d7b0d0fbe
+    claim_hash: d23611f36419026310ca0ef6be8a32735db68a1f78c0c273abac9a8e740a5f33
+    content: 'Analysis of video from Space Shuttle mission STS-80, recorded by a camera aboard the Space Shuttle Columbia
+      in 1996, examines three different phenomena: two slow-moving circular objects, a number of fast-moving objects in space
+      near the shuttle, and a luminous apparition near the earth''s surface.'
+    original_excerpt: 'Analysis of video from Space Shuttle mission STS-80 provides new insight into a number of unusual events
+      captured by a camera aboard the space shuttle Columbia in 1996. Three different phenomena are analyzed: 1) two slow
+      moving circular objects, 2) a number of fast moving objects in space near the shuttle, and 3) a strange luminous apparition
+      near the earth''s surface.'
+    claim_type: observation
+    attestation: first_hand
+    speaker:
+      node_id: cd9db0d9-5951-4d87-a50b-7d772c61da41
+      title: Mark C. Carlotto
+    provenance_chain:
+      origin_kind: speaker
+      origin: Mark J. Carlotto
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 07af9c54-dc18-45df-93dc-1cbf79da6fce
+        title: Anomalous Phenomena in Space Shuttle Mission STS-80 Video (Mark J. Carlotto, 2005)
+        slug: 2005-anomalous-phenomena-in-space-shuttle-mission-sts-80-video-mark-j-carlotto
+      - node_id: af6dbe90-6360-40ab-ac31-ed08acbc94d4
+        title: STS-80
+        slug: sts-80
+      - node_id: c32507e1-c3c3-4309-a4db-af7bdaaf77b0
+        title: Space Shuttle Columbia
+        slug: space-shuttle-columbia
+    date: '2005'
+    date_end: null
+    location_in_record: char:169-531
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 0055dc80-ff77-41d9-933f-4daa3f9aed31
+      record_title: Anomalous Phenomena in Space Shuttle Mission STS-80 Video
+      record_date: '2005'
+      record_reference: http://carlotto.us/newfrontiersinscience/Papers/v04n04a/v04n04a.pdf
+      content_hash: sha256:4c4bf584f8b4895378307383152cb3150dd5ad2368a0e996a77ec6309926d36a
+      friendly_name: null
+  - claim_id: 7b4f4770-7b1e-4d7e-943e-e9d8c0ade430
+    claim_hash: b3a2d1686fafe6edac54728f4c0ae44390f66a33e9d9e14cdb7bd22efbc6d6eb
+    content: On 1996-12-02 at about 07:57 Greenwich Mean Time (GMT), the video camera in the payload bay of the Space Shuttle
+      Columbia recorded a number of disk-like objects near the shuttle.
+    original_excerpt: On December 2, at about 7:57 GMT, the video camera in the payload bay recorded a number of disk-like
+      objects near the shuttle.
+    claim_type: observation
+    attestation: null
+    speaker:
+      node_id: cd9db0d9-5951-4d87-a50b-7d772c61da41
+      title: Mark C. Carlotto
+    provenance_chain:
+      origin_kind: unattributed
+      origin: the document
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: af6dbe90-6360-40ab-ac31-ed08acbc94d4
+        title: STS-80
+        slug: sts-80
+      - node_id: c0176fab-652b-4872-a2f9-1063f80b9389
+        title: STS-80 video disk-like object sightings (1996-12-02)
+        slug: sts-80-video-disk-like-object-sightings-1996-12-02
+      - node_id: c32507e1-c3c3-4309-a4db-af7bdaaf77b0
+        title: Space Shuttle Columbia
+        slug: space-shuttle-columbia
+    date: '1996-12-02'
+    date_end: null
+    location_in_record: char:1727-1845
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 0055dc80-ff77-41d9-933f-4daa3f9aed31
+      record_title: Anomalous Phenomena in Space Shuttle Mission STS-80 Video
+      record_date: '2005'
+      record_reference: http://carlotto.us/newfrontiersinscience/Papers/v04n04a/v04n04a.pdf
+      content_hash: sha256:4c4bf584f8b4895378307383152cb3150dd5ad2368a0e996a77ec6309926d36a
+      friendly_name: null
+  - claim_id: 56bc5fa4-2c08-47cc-9669-90401ead33b4
+    claim_hash: 3f6ac484553c4d570dc25d842152f161168ff2e23497ccc0c1578338614ec650
+    content: Because the sun has a non-zero angular extent of about 0.009 radian, the Space Shuttle Columbia's shadow has
+      a finite depth of 2.4 kilometres, calculated using a value of about 21 metres for the spacecraft's wingspan.
+    original_excerpt: But since it has non-zero angular extent (δ ≈ 0.009 radian), the shadow has a finite depth. Using a
+      value of 70 feet for the spacecraft's wingspan, the depth of the shadow is 2.4 km.
+    claim_type: measurement
+    attestation: first_hand
+    speaker:
+      node_id: cd9db0d9-5951-4d87-a50b-7d772c61da41
+      title: Mark C. Carlotto
+    provenance_chain:
+      origin_kind: speaker
+      origin: Mark J. Carlotto
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: af6dbe90-6360-40ab-ac31-ed08acbc94d4
+        title: STS-80
+        slug: sts-80
+      - node_id: c32507e1-c3c3-4309-a4db-af7bdaaf77b0
+        title: Space Shuttle Columbia
+        slug: space-shuttle-columbia
+    date: null
+    date_end: null
+    location_in_record: char:17509-17688
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 0055dc80-ff77-41d9-933f-4daa3f9aed31
+      record_title: Anomalous Phenomena in Space Shuttle Mission STS-80 Video
+      record_date: '2005'
+      record_reference: http://carlotto.us/newfrontiersinscience/Papers/v04n04a/v04n04a.pdf
+      content_hash: sha256:4c4bf584f8b4895378307383152cb3150dd5ad2368a0e996a77ec6309926d36a
+      friendly_name: null
+  - claim_id: 8ee16bb1-0a26-4b40-bd0c-42e2e9f1a21e
+    claim_hash: 9ccec0b125a7748331fdf18134d83371a1cf219f1db2adc8651e8d572f44984a
+    content: Objects closer than 2.4 kilometres to the Space Shuttle Columbia may be shadowed by the shuttle depending on
+      where they are in the field of view, while those farther than 2.4 kilometres will never be shadowed.
+    original_excerpt: This means that objects closer than 2.4 km may be shadowed by the shuttle (depending on where they are
+      in the field of view), while those farther than 2.4 km will never be shadowed.
+    claim_type: measurement
+    attestation: first_hand
+    speaker:
+      node_id: cd9db0d9-5951-4d87-a50b-7d772c61da41
+      title: Mark C. Carlotto
+    provenance_chain:
+      origin_kind: speaker
+      origin: Mark J. Carlotto
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: af6dbe90-6360-40ab-ac31-ed08acbc94d4
+        title: STS-80
+        slug: sts-80
+      - node_id: c32507e1-c3c3-4309-a4db-af7bdaaf77b0
+        title: Space Shuttle Columbia
+        slug: space-shuttle-columbia
+    date: null
+    date_end: null
+    location_in_record: char:17692-17864
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 0055dc80-ff77-41d9-933f-4daa3f9aed31
+      record_title: Anomalous Phenomena in Space Shuttle Mission STS-80 Video
+      record_date: '2005'
+      record_reference: http://carlotto.us/newfrontiersinscience/Papers/v04n04a/v04n04a.pdf
+      content_hash: sha256:4c4bf584f8b4895378307383152cb3150dd5ad2368a0e996a77ec6309926d36a
+      friendly_name: null
+  - claim_id: 1389ffd8-7630-4ab1-871e-c1a091d5738c
+    claim_hash: 9ccb506ac354fcb35155953f7ba3a11f6bbd015739a8224996719815f58d5442
+    content: At the start of the analysed STS-80 video sequence the Space Shuttle Columbia was at an altitude of about 342
+      kilometres.
+    original_excerpt: The shuttle was at an altitude of about 218 miles (342 km)
+    claim_type: measurement
+    attestation: null
+    speaker:
+      node_id: cd9db0d9-5951-4d87-a50b-7d772c61da41
+      title: Mark C. Carlotto
+    provenance_chain:
+      origin_kind: unattributed
+      origin: the document
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: af6dbe90-6360-40ab-ac31-ed08acbc94d4
+        title: STS-80
+        slug: sts-80
+      - node_id: c32507e1-c3c3-4309-a4db-af7bdaaf77b0
+        title: Space Shuttle Columbia
+        slug: space-shuttle-columbia
+    date: '1996-12-02'
+    date_end: null
+    location_in_record: char:6942-6997
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 0055dc80-ff77-41d9-933f-4daa3f9aed31
+      record_title: Anomalous Phenomena in Space Shuttle Mission STS-80 Video
+      record_date: '2005'
+      record_reference: http://carlotto.us/newfrontiersinscience/Papers/v04n04a/v04n04a.pdf
+      content_hash: sha256:4c4bf584f8b4895378307383152cb3150dd5ad2368a0e996a77ec6309926d36a
+      friendly_name: null
+  - claim_id: 9b0dd44c-9bee-4700-81a4-516ad898834c
+    claim_hash: cd50a637b8c64ffa3c3c9f5787923836b5572488564a7f4287bf4b8e439b6139
+    content: During STS-80 the Space Shuttle Columbia was in an orbit inclined 28.45 degrees.
+    original_excerpt: in an orbit inclined 28.45°
+    claim_type: measurement
+    attestation: null
+    speaker:
+      node_id: cd9db0d9-5951-4d87-a50b-7d772c61da41
+      title: Mark C. Carlotto
+    provenance_chain:
+      origin_kind: unattributed
+      origin: the document
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: af6dbe90-6360-40ab-ac31-ed08acbc94d4
+        title: STS-80
+        slug: sts-80
+      - node_id: c32507e1-c3c3-4309-a4db-af7bdaaf77b0
+        title: Space Shuttle Columbia
+        slug: space-shuttle-columbia
+    date: null
+    date_end: null
+    location_in_record: char:7001-7025
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 0055dc80-ff77-41d9-933f-4daa3f9aed31
+      record_title: Anomalous Phenomena in Space Shuttle Mission STS-80 Video
+      record_date: '2005'
+      record_reference: http://carlotto.us/newfrontiersinscience/Papers/v04n04a/v04n04a.pdf
+      content_hash: sha256:4c4bf584f8b4895378307383152cb3150dd5ad2368a0e996a77ec6309926d36a
+      friendly_name: null
+  - claim_id: 5745724a-4361-490c-8fd0-0690ceef489f
+    claim_hash: ff0f56016d032d130a528409bba1df9933718ef5f3e5788724a15f7e5ceefd11
+    content: NASA switched to an environmentally friendly external tank insulating foam in 1996 to appease the Clinton administration's
+      Environmental Protection Agency, and had experienced trouble with it ever since.
+    original_excerpt: Investigations revealed that NASA, in an effort to appease the Clinton administration's EPA, had switched
+      to an "environmentally friendly" external tank insulating foam in 1996, and had been having trouble with it ever since.
+    claim_type: testimony
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 5e47c787-005b-4c91-ba4b-c9bec48146c9
+        title: National Aeronautics and Space Administration (NASA)
+        slug: national-aeronautics-and-space-administration-nasa
+      - node_id: 6ab4de8a-5e1e-4fd4-a5bb-6a96ff234ad4
+        title: William J. Clinton
+        slug: william-j-clinton
+      - node_id: c32507e1-c3c3-4309-a4db-af7bdaaf77b0
+        title: Space Shuttle Columbia
+        slug: space-shuttle-columbia
+      - node_id: db7bbf0d-f11e-4f91-aa05-29771dab68b7
+        title: Environmental Protection Agency (EPA)
+        slug: environmental-protection-agency-epa
+    date: '1996'
+    date_end: null
+    location_in_record: ch17:94893-95112
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+      record_title: Dark Mission
+      record_date: '2010-07-22'
+      record_reference: null
+      content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+      friendly_name: null
+  - claim_id: 37a0a93e-78fb-4df8-9cd2-f59aa17abe90
+    claim_hash: 647ab9446af6d3f213b5e7949f448870d5f6d6a22847895f2d559adfd15a64d8
+    content: Richard C. Hoagland considers the 1996 switch to environmentally friendly external tank insulating foam to have
+      made a Columbia-like disaster only a matter of time for NASA.
+    original_excerpt: Once that decision was taken, it was only a matter of time before a Columbia-like disaster would befall
+      the agency.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: e1650a1d-8feb-4841-a403-0d71e176d2d9
+      title: Richard C. Hoagland
+    provenance_chain:
+      origin_kind: speaker
+      origin: Richard C. Hoagland
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 5e47c787-005b-4c91-ba4b-c9bec48146c9
+        title: National Aeronautics and Space Administration (NASA)
+        slug: national-aeronautics-and-space-administration-nasa
+      - node_id: c32507e1-c3c3-4309-a4db-af7bdaaf77b0
+        title: Space Shuttle Columbia
+        slug: space-shuttle-columbia
+      - node_id: e1650a1d-8feb-4841-a403-0d71e176d2d9
+        title: Richard C. Hoagland
+        slug: richard-c-hoagland
+    date: null
+    date_end: null
+    location_in_record: ch17:95119-95227
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+      record_title: Dark Mission
+      record_date: '2010-07-22'
+      record_reference: null
+      content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+      friendly_name: null
+  - claim_id: ccd7330d-33f2-48c8-8c1f-8756a820dddb
+    claim_hash: ea760ce61e2cb0b88a89f3c4e55056c9d0906ca2cfa5a9d14d799384f07dd2e2
+    content: A general entered Tyler D.'s office and issued a request for proposals for experiments to be run on the Space
+      Shuttle Columbia.
+    original_excerpt: a general entered his office and issued a request for proposals for experiments to be run on the space
+      shuttle Columbia
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 24136f1c-4cb7-4030-8ed1-35855481a65e
+      title: Tyler D.
+    provenance_chain:
+      origin_kind: speaker
+      origin: Tyler D.
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 24136f1c-4cb7-4030-8ed1-35855481a65e
+        title: Tyler D.
+        slug: tyler-d
+      - node_id: c32507e1-c3c3-4309-a4db-af7bdaaf77b0
+        title: Space Shuttle Columbia
+        slug: space-shuttle-columbia
+    date: null
+    date_end: null
+    location_in_record: ch1:27831-27943
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 288e1100-0497-41df-ba08-9890e519b0b9
+      record_title: American Cosmic
+      record_date: '2019'
+      record_reference: null
+      content_hash: sha256:ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b16ac4758
+      friendly_name: 2019-ebook-american-cosmic
+  - claim_id: 63621065-31e7-4732-ac0b-56eefefead3c
+    claim_hash: ccc83891782c868ae02f592d2d0bcddd7f32f4304db1ea34b4cee85a414a84a3
+    content: Tyler D. did not have a PhD, which was required to run the proposed Space Shuttle Columbia experiment.
+    original_excerpt: Tyler did not have a PhD, which was required to run the experiment.
+    claim_type: administrative
+    attestation: second_hand
+    speaker:
+      node_id: f2daae19-9351-4a8e-b466-664f83887f61
+      title: Diana Walsh Pasulka
+    provenance_chain:
+      origin_kind: speaker
+      origin: Tyler D.
+      relay:
+        - D. W. Pasulka
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 24136f1c-4cb7-4030-8ed1-35855481a65e
+        title: Tyler D.
+        slug: tyler-d
+      - node_id: c32507e1-c3c3-4309-a4db-af7bdaaf77b0
+        title: Space Shuttle Columbia
+        slug: space-shuttle-columbia
+    date: null
+    date_end: null
+    location_in_record: ch1:28321-28377
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 288e1100-0497-41df-ba08-9890e519b0b9
+      record_title: American Cosmic
+      record_date: '2019'
+      record_reference: null
+      content_hash: sha256:ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b16ac4758
+      friendly_name: 2019-ebook-american-cosmic
+  - claim_id: 66e9ba58-8472-460d-aad6-a1837ffc8af6
+    claim_hash: 36b5e6832460ba9da6f91117b410f177e0667277ca0fb7f185a8bc6d0ee5c3a3
+    content: The general reluctantly agreed to Tyler D.'s proposed Space Shuttle Columbia experiment, and it worked.
+    original_excerpt: The general reluctantly agreed to the experiment, and to everyone’s surprise, it worked.
+    claim_type: administrative
+    attestation: first_hand
+    speaker:
+      node_id: f2daae19-9351-4a8e-b466-664f83887f61
+      title: Diana Walsh Pasulka
+    provenance_chain:
+      origin_kind: speaker
+      origin: D. W. Pasulka
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 24136f1c-4cb7-4030-8ed1-35855481a65e
+        title: Tyler D.
+        slug: tyler-d
+      - node_id: c32507e1-c3c3-4309-a4db-af7bdaaf77b0
+        title: Space Shuttle Columbia
+        slug: space-shuttle-columbia
+    date: null
+    date_end: null
+    location_in_record: ch1:28870-28951
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 288e1100-0497-41df-ba08-9890e519b0b9
+      record_title: American Cosmic
+      record_date: '2019'
+      record_reference: null
+      content_hash: sha256:ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b16ac4758
+      friendly_name: 2019-ebook-american-cosmic
+  - claim_id: 031668e7-cee0-4813-88fb-7f5669107fab
+    claim_hash: e0e4facfbd98c36cc051145fee78cf42868288a2e017fc146c9d4495ab371ed4
+    content: The Space Shuttle fleet - Columbia, Challenger, Discovery, Atlantis, and Endeavour - flew 135 missions.
+    original_excerpt: The space shuttle fleet - Columbia, Challenger, Discovery, Atlantis, and Endeavour - flew 135 missions
+    claim_type: measurement
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 23889f9d-fde8-4ad1-b307-4d0ccbeac8d7
+        title: Space Shuttle Atlantis
+        slug: space-shuttle-atlantis
+      - node_id: 50eaa133-6357-4e4b-ad1b-6d3ad54d34a0
+        title: Space Shuttle Endeavour
+        slug: space-shuttle-endeavour
+      - node_id: a58bf253-7a8c-4eb3-807d-ecc68f53e485
+        title: Space Shuttle Challenger
+        slug: space-shuttle-challenger
+      - node_id: c32507e1-c3c3-4309-a4db-af7bdaaf77b0
+        title: Space Shuttle Columbia
+        slug: space-shuttle-columbia
+      - node_id: ced438f0-7eef-4314-babe-1817f40a6951
+        title: Space Shuttle Discovery
+        slug: space-shuttle-discovery
+    date: null
+    date_end: null
+    location_in_record: char:132977-133071
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: d3743fdf-6a99-43ef-98d4-b79ef60f0e47
+      record_title: Report on the Historical Record of U.S. Government Involvement with Unidentified Anomalous Phenomena (UAP),
+        Volume I
+      record_date: '2024-02-01'
+      record_reference: null
+      content_hash: sha256:8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a94774067868
+      friendly_name: 2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a
+  - claim_id: f2d0b1bd-6aee-4b29-abea-88076319a45f
+    claim_hash: ec67550ea4f30e81b91c965826f8788c9918ec7cb418738652639e71f42bd32d
+    content: The first Space Shuttle launch, Space Shuttle Columbia, was conducted on 1981-04-12.
+    original_excerpt: The first shuttle launch, Columbia, was conducted on April 12, 1981.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: c32507e1-c3c3-4309-a4db-af7bdaaf77b0
+        title: Space Shuttle Columbia
+        slug: space-shuttle-columbia
+    date: '1981-04-12'
+    date_end: null
+    location_in_record: char:133375-133438
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: d3743fdf-6a99-43ef-98d4-b79ef60f0e47
+      record_title: Report on the Historical Record of U.S. Government Involvement with Unidentified Anomalous Phenomena (UAP),
+        Volume I
+      record_date: '2024-02-01'
+      record_reference: null
+      content_hash: sha256:8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a94774067868
+      friendly_name: 2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a
+  - claim_id: 0e175092-28fd-419e-a805-e966562a20f0
+    claim_hash: 37ecfe9d525db52d41fc95dd8ef704dc10956ed55b41bd69674e17e21bf8c586
+    content: The STS-80 UAP incident footage was recorded from Space Shuttle Columbia (STS-80) at an altitude of approximately
+      560 kilometres, looking down at Puerto Rico.
+    original_excerpt: We're looking from this view from the space shuttle, I guess around 350 something miles high. We're
+      looking down at Puerto Rico
+    claim_type: measurement
+    attestation: first_hand
+    speaker:
+      node_id: b258ba79-75af-4717-8da2-cd62d86428e6
+      title: Maaneli "Max" Derakhshani
+    provenance_chain:
+      origin_kind: speaker
+      origin: Maaneli "Max" Derakhshani
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 86f8df64-f392-47ca-93fb-c5d8c00ad7a1
+        title: USA, Puerto Rico
+        slug: puerto-rico-usa
+      - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
+        title: 2004 USS Nimitz UAP encounter
+        slug: 2004-uss-nimitz-uap-encounter
+      - node_id: b258ba79-75af-4717-8da2-cd62d86428e6
+        title: Maaneli "Max" Derakhshani
+        slug: maaneli-max-derakhshani
+      - node_id: c32507e1-c3c3-4309-a4db-af7bdaaf77b0
+        title: Space Shuttle Columbia
+        slug: space-shuttle-columbia
+    date: null
+    date_end: null
+    location_in_record: 00:46:00.8-00:46:07.5
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: b3fda652-3dc2-4acc-b9ce-4b130add124f
+      record_title: What Did Apollo Astronauts Really See on the Moon? | Reality Check with Ross Coulthart
+      record_date: '2026-08-10'
+      record_reference: https://www.youtube.com/watch?v=lp-ta37pVKw
+      content_hash: sha256:f37882ab1f880101b3e452e3802d7afc296c07eb413f65ebea554984f3b8cdef
+      friendly_name: null

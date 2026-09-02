@@ -1,0 +1,205 @@
+schema: anomalica/brief/1
+brief_hash: 6cb5f78270aeff94d948a87628bcf02646951d929dc68623a7818dcbe69c5971
+page:
+  kind: entity
+  node_id: 5155f44f-289f-4f79-b477-0d6d3b188d52
+  node_type: topic
+  title: Deep state
+  slug: deep-state
+  claim_count: 4
+  claim_count_total: 4
+generated:
+  graph_version: '2026-09-01T10:10:49.863545+00:00'
+size:
+  claims: 4
+  tokens_estimated: 1150
+  sized_against: 1050000
+publication:
+  status: published
+  note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
+    transcripts are gated elsewhere.
+belonging:
+  verified: 0
+  suspect_excluded: 0
+  unreviewed: 4
+related_nodes:
+  - node_id: 2ac310ed-0be4-43bd-a103-64143b4d20a8
+    title: Jeffrey Epstein
+    node_type: person
+    slug: jeffrey-epstein
+    shared_claims: 2
+  - node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+    title: Ross Coulthart
+    node_type: person
+    slug: ross-coulthart
+    shared_claims: 2
+  - node_id: 9ba3dd81-7f50-481c-8fd4-ed618d3aee7e
+    title: Peter Dale Scott
+    node_type: person
+    slug: peter-dale-scott
+    shared_claims: 1
+  - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
+    title: Unidentified Anomalous Phenomena (UAP)
+    node_type: topic
+    slug: unidentified-anomalous-phenomena-uap
+    shared_claims: 1
+  - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
+    title: Unidentified Flying Object (UFO)
+    node_type: topic
+    slug: unidentified-flying-object-ufo
+    shared_claims: 1
+claims:
+  - claim_id: 942be072-205b-4fd0-bdfa-d6dc4165efaa
+    claim_hash: a48a3b98b2ad0a9eedd7b3ed1a4fcc42be6cdef6f54389bfaaed39c14ed9fc52
+    content: Ross Coulthart hopes momentum for the Unidentified Aerial Phenomena issue can be generated as part of a broader
+      investigation arising from the Jeffrey Epstein case and the idea of a deep state.
+    original_excerpt: What I'm wondering is whether we can get momentum for the UAP issue out of that as well, as part of
+      a broader investigation
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+      title: Ross Coulthart
+    provenance_chain:
+      origin_kind: speaker
+      origin: Ross Coulthart
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 2ac310ed-0be4-43bd-a103-64143b4d20a8
+        title: Jeffrey Epstein
+        slug: jeffrey-epstein
+      - node_id: 5155f44f-289f-4f79-b477-0d6d3b188d52
+        title: Deep state
+        slug: deep-state
+      - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
+        title: Unidentified Anomalous Phenomena (UAP)
+        slug: unidentified-anomalous-phenomena-uap
+      - node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+        title: Ross Coulthart
+        slug: ross-coulthart
+    date: null
+    date_end: null
+    location_in_record: 01:27:23.1-01:27:30.5
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: fd845823-8784-462c-a981-4775525b6f84
+      record_title: The DANGEROUS Truth About UFOs - Ross Coulthart | DEBRIEFED ep. 76
+      record_date: '2026-02-20'
+      record_reference: https://www.youtube.com/watch?v=idBryc0eWww
+      content_hash: sha256:73be106d406f6d35a063a894e8384e7da0918eb8597d2107a9e3653becca2bdc
+      friendly_name: null
+  - claim_id: ad9f2717-a92f-471a-99de-5ec4f1da437d
+    claim_hash: ce914d96e8d3dd13b53e87926e0a47a8c269785350df4fbb498746c07b97c2da
+    content: Ross Coulthart formerly dismissed the idea of a deep state as paranoid right-wing nonsense but no longer does.
+    original_excerpt: the whole idea of a deep state, which I never used to believe in. I used to think that was paranoid
+      right-wing nonsense.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+      title: Ross Coulthart
+    provenance_chain:
+      origin_kind: speaker
+      origin: Ross Coulthart
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 5155f44f-289f-4f79-b477-0d6d3b188d52
+        title: Deep state
+        slug: deep-state
+      - node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+        title: Ross Coulthart
+        slug: ross-coulthart
+    date: null
+    date_end: null
+    location_in_record: 01:27:38.5-01:27:43.6
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: fd845823-8784-462c-a981-4775525b6f84
+      record_title: The DANGEROUS Truth About UFOs - Ross Coulthart | DEBRIEFED ep. 76
+      record_date: '2026-02-20'
+      record_reference: https://www.youtube.com/watch?v=idBryc0eWww
+      content_hash: sha256:73be106d406f6d35a063a894e8384e7da0918eb8597d2107a9e3653becca2bdc
+      friendly_name: null
+  - claim_id: e295bc76-0758-4a26-b315-fa1663b76bd9
+    claim_hash: f07d93c125e3d5c1ed3891c76f7ebfeae6487bcbe3480d970b82caa4afe45254
+    content: Peter Dale Scott invented the term deep state and writes about the Kennedy assassination.
+    original_excerpt: Peter Dale, Scott, is he the guy who writes about JFK stayed and yeah. / invented the term deep state.
+    claim_type: administrative
+    attestation: null
+    speaker:
+      node_id: 079d4381-4273-418b-bc9a-468623f95c6e
+      title: Jesse Mitchells
+    provenance_chain:
+      origin_kind: unattributed
+      origin: narration by Jesse Michels
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 5155f44f-289f-4f79-b477-0d6d3b188d52
+        title: Deep state
+        slug: deep-state
+      - node_id: 9ba3dd81-7f50-481c-8fd4-ed618d3aee7e
+        title: Peter Dale Scott
+        slug: peter-dale-scott
+    date: null
+    date_end: null
+    location_in_record: 01:26:46.2-01:26:51.5
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 64b84f95-238c-4ab7-a678-bee55f985b14
+      record_title: The UFO Cover-Up Leads to One Secret Society — and One Final Event
+      record_date: '2026-07-14'
+      record_reference: https://www.youtube.com/watch?v=kccrkCGGzX4
+      content_hash: sha256:d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7b5a1b98d
+      friendly_name: null
+  - claim_id: db8f965a-7352-4bc7-b779-a3476d65f439
+    claim_hash: 99e42d572463b0833cccaf2a4c5478dd0af5d258a845e2399984c427ba0dad5b
+    content: The Jeffrey Epstein matter, the deep state, underground criminal networks and the UFO issue intersect, and whatever
+      that entity is today is probably quite dangerous, in Jason Samosa's assessment.
+    original_excerpt: you see this sort of conflation of, Epstein issue and the deep state issue and the underground criminal
+      networks with the UFO issue and they i think they intersect in there whatever it is today is probably quite dangerous
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: ff0a86b8-8f3c-4291-94ed-c6d303875ce8
+      title: Jason Samosa
+    provenance_chain:
+      origin_kind: speaker
+      origin: Jason Samosa
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 2ac310ed-0be4-43bd-a103-64143b4d20a8
+        title: Jeffrey Epstein
+        slug: jeffrey-epstein
+      - node_id: 5155f44f-289f-4f79-b477-0d6d3b188d52
+        title: Deep state
+        slug: deep-state
+      - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
+        title: Unidentified Flying Object (UFO)
+        slug: unidentified-flying-object-ufo
+    date: null
+    date_end: null
+    location_in_record: 01:51:29.2-01:51:41.3
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 64b84f95-238c-4ab7-a678-bee55f985b14
+      record_title: The UFO Cover-Up Leads to One Secret Society — and One Final Event
+      record_date: '2026-07-14'
+      record_reference: https://www.youtube.com/watch?v=kccrkCGGzX4
+      content_hash: sha256:d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7b5a1b98d
+      friendly_name: null

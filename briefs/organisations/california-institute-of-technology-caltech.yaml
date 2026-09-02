@@ -1,0 +1,709 @@
+schema: anomalica/brief/1
+brief_hash: d9d80b5ef06e40d0c5bc2e29674b8edc4048d44074d312ba3f6b1fbd3f1758a8
+page:
+  kind: entity
+  node_id: ee833add-d4e3-4b62-88dd-9b9c496e8dd1
+  node_type: organisation
+  title: California Institute of Technology (Caltech)
+  slug: california-institute-of-technology-caltech
+  claim_count: 13
+  claim_count_total: 13
+generated:
+  graph_version: '2026-09-01T10:10:49.863545+00:00'
+size:
+  claims: 13
+  tokens_estimated: 4295
+  sized_against: 1050000
+publication:
+  status: published
+  note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
+    transcripts are gated elsewhere.
+belonging:
+  verified: 0
+  suspect_excluded: 0
+  unreviewed: 13
+related_nodes:
+  - node_id: 6af27fdb-215e-48f8-bcfe-34ef174b3a5f
+    title: Bobby Inman
+    node_type: person
+    slug: bobby-inman
+    shared_claims: 4
+  - node_id: b6090b6b-63d9-473d-8d6c-bd4b5f54f24b
+    title: Jack Parsons
+    node_type: person
+    slug: jack-parsons
+    shared_claims: 4
+  - node_id: 3e3d0fe7-a2cf-4e09-ab26-7beca4bece48
+    title: NASA Jet Propulsion Laboratory (JPL)
+    node_type: organisation
+    slug: nasa-jet-propulsion-laboratory-jpl
+    shared_claims: 3
+  - node_id: 1f94045b-b61b-47c2-8630-0d709a3ab221
+    title: Guggenheim Aeronautical Laboratory, California Institute of Technology (GALCIT)
+    node_type: organisation
+    slug: california-institute-of-technology-galcit-guggenheim-aeronautical-laboratory
+    shared_claims: 2
+  - node_id: c5060aa6-0437-4ef7-a518-6c7239c491e5
+    title: Massachusetts Institute of Technology (MIT)
+    node_type: organisation
+    slug: massachusetts-institute-of-technology-mit
+    shared_claims: 2
+  - node_id: 8dd510bc-42f7-492f-bbd8-6fa4ccf2f6c9
+    title: Aerojet Corporation
+    node_type: organisation
+    slug: aerojet-corporation
+    shared_claims: 1
+  - node_id: 383fc644-c1b4-4a39-bf62-5b14ba2db5cc
+    title: Aleister Crowley
+    node_type: person
+    slug: aleister-crowley
+    shared_claims: 1
+  - node_id: b0c0fde0-37e6-4632-8d64-a95091f03a49
+    title: Bob Lazar
+    node_type: person
+    slug: bob-lazar
+    shared_claims: 1
+  - node_id: bc46ab37-0b38-4fcb-9ce2-2ba47642005f
+    title: Carnegie Mellon University
+    node_type: organisation
+    slug: carnegie-mellon-university
+    shared_claims: 1
+  - node_id: cc327db1-44bd-4762-acc0-d8fe82a3c6ea
+    title: Cydonia
+    node_type: place
+    slug: cydonia
+    shared_claims: 1
+  - node_id: 03b7390b-c6ee-4c68-9536-b6f547c4734d
+    title: Dan Goldin
+    node_type: person
+    slug: dan-goldin
+    shared_claims: 1
+  - node_id: c09e3558-1732-4676-a218-d67d285d98ef
+    title: David Fravor
+    node_type: person
+    slug: david-fravor
+    shared_claims: 1
+  - node_id: a8b10a6d-0ccb-4b48-98ab-ca7a7a147fde
+    title: Georgia Institute of Technology (Georgia Tech)
+    node_type: organisation
+    slug: georgia-institute-of-technology-georgia-tech
+    shared_claims: 1
+  - node_id: 6826d51f-810a-40a7-8c6f-97a84a3c4379
+    title: Guggenheim Foundation
+    node_type: organisation
+    slug: guggenheim-foundation
+    shared_claims: 1
+  - node_id: b7c1e8f7-c923-452c-ba71-8c3e99bc0a76
+    title: H. Marshall Chadwell
+    node_type: person
+    slug: h-marshall-chadwell
+    shared_claims: 1
+  - node_id: e6e3c28c-8f5f-4ca5-9dc9-18e1ec26ebae
+    title: H.P. Robertson
+    node_type: person
+    slug: hp-robertson
+    shared_claims: 1
+  - node_id: 73d4f081-a30f-4212-a93f-f697d6a73051
+    title: Mars Observer
+    node_type: object
+    slug: mars-observer
+    shared_claims: 1
+  - node_id: 3f71238e-7b79-46a5-871a-d072de5ba017
+    title: Mars Observer disappearance, 1993-08-21
+    node_type: event
+    slug: 1993-08-21-mars-observer-disappearance
+    shared_claims: 1
+  - node_id: 7a2bb9c7-c65e-47c2-91da-8caebb3f1c90
+    title: Naval Postgraduate School
+    node_type: organisation
+    slug: naval-postgraduate-school
+    shared_claims: 1
+  - node_id: e1650a1d-8feb-4841-a403-0d71e176d2d9
+    title: Richard C. Hoagland
+    node_type: person
+    slug: richard-c-hoagland
+    shared_claims: 1
+  - node_id: e0a197e9-f299-4903-ac82-5593e0915802
+    title: Robertson Panel
+    node_type: project
+    slug: robertson-panel
+    shared_claims: 1
+  - node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+    title: Ross Coulthart
+    node_type: person
+    slug: ross-coulthart
+    shared_claims: 1
+  - node_id: 5c502145-40b9-4dbb-be65-24d903bbff01
+    title: Stanford University
+    node_type: organisation
+    slug: stanford-university
+    shared_claims: 1
+  - node_id: f8fda164-69fa-479f-873b-097f03d0acfd
+    title: Theodore von Karman
+    node_type: person
+    slug: theodore-von-karman
+    shared_claims: 1
+  - node_id: 9d4c9329-92b6-489b-9bf6-8a89bb415671
+    title: USA, California, Pasadena
+    node_type: place
+    slug: california-pasadena-usa
+    shared_claims: 1
+  - node_id: b5c47b21-8697-4839-beb7-3c943072ce04
+    title: Viking 1
+    node_type: project
+    slug: viking-1
+    shared_claims: 1
+  - node_id: c9c99b36-9b95-4a71-b0c4-38b2219e7401
+    title: Virginia Polytechnic Institute and State University (Virginia Tech)
+    node_type: organisation
+    slug: virginia-polytechnic-institute-and-state-university-virginia-tech
+    shared_claims: 1
+  - node_id: bd5970ce-dfaa-453f-a184-ec5b9c4d97a6
+    title: When the Best Must Do Even Better (Goldin speech)
+    node_type: document
+    slug: when-the-best-must-do-even-better-goldin-speech
+    shared_claims: 1
+claims:
+  - claim_id: f4878bcf-a379-4d42-88df-c4f815a8ba46
+    claim_hash: 513ba9e81777ee2f8f450be5d1fa2983606036544586c4e9de2a2467651609f1
+    content: The Jet Propulsion Laboratory began in the 1920s as an aerodynamics testing facility under the California Institute
+      of Technology in Pasadena.
+    original_excerpt: What eventually became NASA's "Jet Propulsion Laboratory"... actually began in the 1920s as an aerodynamics
+      testing facility, under the fledgling "California Institute of Technology" in Pasadena.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 3e3d0fe7-a2cf-4e09-ab26-7beca4bece48
+        title: NASA Jet Propulsion Laboratory (JPL)
+        slug: nasa-jet-propulsion-laboratory-jpl
+      - node_id: 9d4c9329-92b6-489b-9bf6-8a89bb415671
+        title: USA, California, Pasadena
+        slug: california-pasadena-usa
+      - node_id: ee833add-d4e3-4b62-88dd-9b9c496e8dd1
+        title: California Institute of Technology (Caltech)
+        slug: california-institute-of-technology-caltech
+    date: null
+    date_end: null
+    location_in_record: ch12:73259-73480
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+      record_title: Dark Mission
+      record_date: '2010-07-22'
+      record_reference: null
+      content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+      friendly_name: null
+  - claim_id: 6a96e0b4-506e-43e2-8d44-335e2aa0bf33
+    claim_hash: 720288e6eef2748c037ff14eb9a1455d708b641ba6d28325d6f9f29bd8288faa
+    content: The Guggenheim Aeronautical Laboratory, California Institute of Technology (GALCIT) was funded by the Guggenheim
+      Foundation but administered directly by Caltech.
+    original_excerpt: Called the "Guggenheim Aeronautical Laboratory, California Institute of Technology," or GALCIT, this
+      early aeronautics lab was funded by the Guggenheim Foundation, but administered directly by Caltech.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 1f94045b-b61b-47c2-8630-0d709a3ab221
+        title: Guggenheim Aeronautical Laboratory, California Institute of Technology (GALCIT)
+        slug: california-institute-of-technology-galcit-guggenheim-aeronautical-laboratory
+      - node_id: 6826d51f-810a-40a7-8c6f-97a84a3c4379
+        title: Guggenheim Foundation
+        slug: guggenheim-foundation
+      - node_id: ee833add-d4e3-4b62-88dd-9b9c496e8dd1
+        title: California Institute of Technology (Caltech)
+        slug: california-institute-of-technology-caltech
+    date: null
+    date_end: null
+    location_in_record: ch12:73540-73733
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+      record_title: Dark Mission
+      record_date: '2010-07-22'
+      record_reference: null
+      content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+      friendly_name: null
+  - claim_id: 358a4228-a6cf-49d0-bcc4-90e21abdf1a2
+    claim_hash: 0ca0e0cc872777a64a72face7bbccaed4dfbd4168b4dcd1c5ec55cec975cd984
+    content: After Jack Parsons spent several years as a member of Aleister Crowley's Pasadena lodge, Crowley appointed Parsons
+      to head Crowley's Southern California centre while Parsons was simultaneously employed by Caltech to develop rockets
+      for the US Army.
+    original_excerpt: After Parsons spent several years as a member of Crowley's Pasadena lodge, Crowley ultimately appointed
+      Parsons to head this Southern California center of Crowley's world-wide organization—while, simultaneously, Parsons
+      was still employed by Cal Tech to develop rockets for the U.S. Army.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 383fc644-c1b4-4a39-bf62-5b14ba2db5cc
+        title: Aleister Crowley
+        slug: aleister-crowley
+      - node_id: b6090b6b-63d9-473d-8d6c-bd4b5f54f24b
+        title: Jack Parsons
+        slug: jack-parsons
+      - node_id: ee833add-d4e3-4b62-88dd-9b9c496e8dd1
+        title: California Institute of Technology (Caltech)
+        slug: california-institute-of-technology-caltech
+    date: null
+    date_end: null
+    location_in_record: ch12:74637-74924
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+      record_title: Dark Mission
+      record_date: '2010-07-22'
+      record_reference: null
+      content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+      friendly_name: null
+  - claim_id: 3204c10f-3de0-460d-99b1-07635c30c341
+    claim_hash: f1e54d11bc98e6b2667af06514a7749274e850dc974e05c517d76d63dd2d5497
+    content: Jack Parsons attended the University of the State of California and California Institute of Technology (Caltech).
+    original_excerpt: University of the State of California and Caltech
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: contemporary description of Jack Parsons
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: b6090b6b-63d9-473d-8d6c-bd4b5f54f24b
+        title: Jack Parsons
+        slug: jack-parsons
+      - node_id: ee833add-d4e3-4b62-88dd-9b9c496e8dd1
+        title: California Institute of Technology (Caltech)
+        slug: california-institute-of-technology-caltech
+    date: null
+    date_end: null
+    location_in_record: ch12:80062-80104
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+      record_title: Dark Mission
+      record_date: '2010-07-22'
+      record_reference: null
+      content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+      friendly_name: null
+  - claim_id: 4e2627ee-6aad-4f89-8318-ebf43c3bace2
+    claim_hash: 21430f99877b3f1306dd4dabb62afa99b69cb26d54a9bd98decab1ec75a3f56f
+    content: Jack Parsons was engaged in Caltech chemical laboratories developing explosives for the United States government.
+    original_excerpt: now engaged in Caltech chemical laboratories developing 'bigger and better' explosives for Uncle Sam
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: contemporary description of Jack Parsons
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: b6090b6b-63d9-473d-8d6c-bd4b5f54f24b
+        title: Jack Parsons
+        slug: jack-parsons
+      - node_id: ee833add-d4e3-4b62-88dd-9b9c496e8dd1
+        title: California Institute of Technology (Caltech)
+        slug: california-institute-of-technology-caltech
+    date: null
+    date_end: null
+    location_in_record: ch12:80113-80210
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+      record_title: Dark Mission
+      record_date: '2010-07-22'
+      record_reference: null
+      content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+      friendly_name: null
+  - claim_id: a0abc58c-85b1-42c5-b8d0-b7e6ed8a4b38
+    claim_hash: 60ba6915a3ed79a01e9dc4de3803038ceb644e13204c3220af872e8ca39b9519
+    content: Jack Parsons left the California Institute of Technology (Caltech) to co-found Aerojet Corporation with several
+      colleagues from the Guggenheim Aeronautical Laboratory, California Institute of Technology (GALCIT), including Theodore
+      von Karman.
+    original_excerpt: Parsons eventually left Cal Tech to start Aerojet with several of his compatriots from GALCIT, including
+      Von Karman
+    claim_type: administrative
+    attestation: first_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: speaker
+      origin: Richard C. Hoagland
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 1f94045b-b61b-47c2-8630-0d709a3ab221
+        title: Guggenheim Aeronautical Laboratory, California Institute of Technology (GALCIT)
+        slug: california-institute-of-technology-galcit-guggenheim-aeronautical-laboratory
+      - node_id: 8dd510bc-42f7-492f-bbd8-6fa4ccf2f6c9
+        title: Aerojet Corporation
+        slug: aerojet-corporation
+      - node_id: b6090b6b-63d9-473d-8d6c-bd4b5f54f24b
+        title: Jack Parsons
+        slug: jack-parsons
+      - node_id: ee833add-d4e3-4b62-88dd-9b9c496e8dd1
+        title: California Institute of Technology (Caltech)
+        slug: california-institute-of-technology-caltech
+      - node_id: f8fda164-69fa-479f-873b-097f03d0acfd
+        title: Theodore von Karman
+        slug: theodore-von-karman
+    date: null
+    date_end: null
+    location_in_record: ch12:82202-82311
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+      record_title: Dark Mission
+      record_date: '2010-07-22'
+      record_reference: null
+      content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+      friendly_name: null
+  - claim_id: ef38ea06-0e59-445f-ba03-e29bbd456968
+    claim_hash: b5d1cceecaae7524e05e10dfbf644f9677bfa02bdb8287ac0bee6cdf2a1889fe
+    content: In the second paragraph of his prepared text, Dan Goldin acknowledged Admiral Bobby Inman, head of the Jet Propulsion
+      Laboratory (JPL) Oversight Committee at the California Institute of Technology (Caltech), noting he could not attend
+      but that Goldin had spoken to him by phone.
+    original_excerpt: I’d also like to acknowledge Admiral Inman, head of the JPL Oversight Committee at Caltech. He couldn’t
+      be here today, but I talked to him by phone. His commitment to the team here is also unwavering. And I thank him for
+      that...
+    claim_type: administrative
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: document
+      origin: When the Best Must Do Even Better (Goldin speech)
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 03b7390b-c6ee-4c68-9536-b6f547c4734d
+        title: Dan Goldin
+        slug: dan-goldin
+      - node_id: 3e3d0fe7-a2cf-4e09-ab26-7beca4bece48
+        title: NASA Jet Propulsion Laboratory (JPL)
+        slug: nasa-jet-propulsion-laboratory-jpl
+      - node_id: 6af27fdb-215e-48f8-bcfe-34ef174b3a5f
+        title: Bobby Inman
+        slug: bobby-inman
+      - node_id: bd5970ce-dfaa-453f-a184-ec5b9c4d97a6
+        title: When the Best Must Do Even Better (Goldin speech)
+        slug: when-the-best-must-do-even-better-goldin-speech
+      - node_id: ee833add-d4e3-4b62-88dd-9b9c496e8dd1
+        title: California Institute of Technology (Caltech)
+        slug: california-institute-of-technology-caltech
+    date: '2000-03-29'
+    date_end: null
+    location_in_record: ch14:22307-22528
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+      record_title: Dark Mission
+      record_date: '2010-07-22'
+      record_reference: null
+      content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+      friendly_name: null
+  - claim_id: fc09469d-3581-416e-b3ce-643f5ecfcc15
+    claim_hash: f1bf85f95b70bcfdc789a6a01a36236e7fa6a6b4a827b883045fd76f3317da5d
+    content: Richard C. Hoagland questions why Bobby Inman, a prominent intelligence figure, headed the oversight committee
+      at the California Institute of Technology (Caltech) that oversaw civilian unmanned exploration of Mars, and considers
+      this connected to the potential national security consequences of the discovery of artificial ruins at Cydonia by the
+      Viking programme a quarter century earlier.
+    original_excerpt: So what was the nation’s most celebrated spook doing heading an oversight committee at one of its leading
+      private universities and, specifically, a committee overseeing all civilian unmanned exploration of the planet Mars?
+      Could it have anything to do with Viking’s discovery, a quarter of a century before, of a set of artificial ruins at
+      Cydonia and the potential national security consequences of that discovery?
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: e1650a1d-8feb-4841-a403-0d71e176d2d9
+      title: Richard C. Hoagland
+    provenance_chain:
+      origin_kind: speaker
+      origin: Richard C. Hoagland
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 6af27fdb-215e-48f8-bcfe-34ef174b3a5f
+        title: Bobby Inman
+        slug: bobby-inman
+      - node_id: b5c47b21-8697-4839-beb7-3c943072ce04
+        title: Viking 1
+        slug: viking-1
+      - node_id: cc327db1-44bd-4762-acc0-d8fe82a3c6ea
+        title: Cydonia
+        slug: cydonia
+      - node_id: e1650a1d-8feb-4841-a403-0d71e176d2d9
+        title: Richard C. Hoagland
+        slug: richard-c-hoagland
+      - node_id: ee833add-d4e3-4b62-88dd-9b9c496e8dd1
+        title: California Institute of Technology (Caltech)
+        slug: california-institute-of-technology-caltech
+    date: null
+    date_end: null
+    location_in_record: ch14:23281-23686
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+      record_title: Dark Mission
+      record_date: '2010-07-22'
+      record_reference: null
+      content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+      friendly_name: null
+  - claim_id: a07662b5-cd2e-4952-828b-67c095c8c74c
+    claim_hash: 34a839bde766899e0d05e981c74a4413379e9177f589d949c39c765016eba59e
+    content: A Caltech spokesman revealed that Bobby Inman had been on the Jet Propulsion Laboratory (JPL) Oversight Committee
+      at the California Institute of Technology (Caltech) for at least eight years, meaning since before Mars Observer disappeared.
+    original_excerpt: It was reinforced even more strongly when a Caltech spokesman revealed he’d been on the committee for
+      “at least eight years”—in other words, since just before Mars Observer disappeared.
+    claim_type: testimony
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: named
+      origin: a Caltech spokesman
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 3e3d0fe7-a2cf-4e09-ab26-7beca4bece48
+        title: NASA Jet Propulsion Laboratory (JPL)
+        slug: nasa-jet-propulsion-laboratory-jpl
+      - node_id: 3f71238e-7b79-46a5-871a-d072de5ba017
+        title: Mars Observer disappearance, 1993-08-21
+        slug: 1993-08-21-mars-observer-disappearance
+      - node_id: 6af27fdb-215e-48f8-bcfe-34ef174b3a5f
+        title: Bobby Inman
+        slug: bobby-inman
+      - node_id: 73d4f081-a30f-4212-a93f-f697d6a73051
+        title: Mars Observer
+        slug: mars-observer
+      - node_id: ee833add-d4e3-4b62-88dd-9b9c496e8dd1
+        title: California Institute of Technology (Caltech)
+        slug: california-institute-of-technology-caltech
+    date: null
+    date_end: null
+    location_in_record: ch14:24238-24413
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+      record_title: Dark Mission
+      record_date: '2010-07-22'
+      record_reference: null
+      content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+      friendly_name: null
+  - claim_id: 06d1108a-1bd3-46df-b608-00b48b805fcb
+    claim_hash: abda5318b9a2625235b1ef73cc4409037a755d8711f6659e5f618579d4d9c24c
+    content: Bobby Inman served on the California Institute of Technology (Caltech) oversight committee while he was serving
+      in his capacity as United States Secretary of Defense.
+    original_excerpt: This also meant, obviously, that he served on the Caltech committee while in his active capacity as
+      Secretary of Defense of the United States.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 6af27fdb-215e-48f8-bcfe-34ef174b3a5f
+        title: Bobby Inman
+        slug: bobby-inman
+      - node_id: ee833add-d4e3-4b62-88dd-9b9c496e8dd1
+        title: California Institute of Technology (Caltech)
+        slug: california-institute-of-technology-caltech
+    date: null
+    date_end: null
+    location_in_record: ch14:24427-24562
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+      record_title: Dark Mission
+      record_date: '2010-07-22'
+      record_reference: null
+      content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+      friendly_name: null
+  - claim_id: e24fc0b9-c93f-4edc-9169-d03a9047ecc0
+    claim_hash: 158621c1e45bb6fccb03bf28a91d4dc17fb2f5884870a0180a87ce2f249a4362
+    content: David Fravor considers Massachusetts Institute of Technology (MIT), California Institute of Technology (Caltech),
+      Stanford University, Georgia Institute of Technology (Georgia Tech), Virginia Polytechnic Institute and State University
+      (Virginia Tech), Carnegie Mellon University, and Naval Postgraduate School to be among the top-tier universities from
+      which leading-edge technology research typically emerges.
+    original_excerpt: So you've got MIT, you've got Caltech, you've got Stanford, Georgia Tech, Virginia Tech, Carnegie Mellon,
+      I'm just naming schools, Naval Postgraduate School is another one.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: c09e3558-1732-4676-a218-d67d285d98ef
+      title: David Fravor
+    provenance_chain:
+      origin_kind: speaker
+      origin: David Fravor
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 5c502145-40b9-4dbb-be65-24d903bbff01
+        title: Stanford University
+        slug: stanford-university
+      - node_id: 7a2bb9c7-c65e-47c2-91da-8caebb3f1c90
+        title: Naval Postgraduate School
+        slug: naval-postgraduate-school
+      - node_id: a8b10a6d-0ccb-4b48-98ab-ca7a7a147fde
+        title: Georgia Institute of Technology (Georgia Tech)
+        slug: georgia-institute-of-technology-georgia-tech
+      - node_id: bc46ab37-0b38-4fcb-9ce2-2ba47642005f
+        title: Carnegie Mellon University
+        slug: carnegie-mellon-university
+      - node_id: c09e3558-1732-4676-a218-d67d285d98ef
+        title: David Fravor
+        slug: david-fravor
+      - node_id: c5060aa6-0437-4ef7-a518-6c7239c491e5
+        title: Massachusetts Institute of Technology (MIT)
+        slug: massachusetts-institute-of-technology-mit
+      - node_id: c9c99b36-9b95-4a71-b0c4-38b2219e7401
+        title: Virginia Polytechnic Institute and State University (Virginia Tech)
+        slug: virginia-polytechnic-institute-and-state-university-virginia-tech
+      - node_id: ee833add-d4e3-4b62-88dd-9b9c496e8dd1
+        title: California Institute of Technology (Caltech)
+        slug: california-institute-of-technology-caltech
+    date: null
+    date_end: null
+    location_in_record: 02:14:16.5-02:14:25.2
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 0157e540-a945-4b2a-acdf-6c449172dcd6
+      record_title: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering | Lex Fridman Podcast #122'
+      record_date: '2020-09-08'
+      record_reference: https://www.youtube.com/watch?v=aB8zcAttP1E
+      content_hash: sha256:135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19fd6afb8a
+      friendly_name: 2020-09-08-video-david-fravor-ufos-aliens-fighter-jets-and-aerospace.v2
+  - claim_id: a9c2df91-93c8-4f2a-a0e9-c895a7f45557
+    claim_hash: 2e8ca3be3064d4dd1856794de6afe9ab362be760aada1deb68c77690c9a0aaf2
+    content: H. Marshall Chadwell clandestinely sponsored the establishment of a UFO scientific review panel led by California
+      Institute of Technology physicist H.P. Robertson.
+    original_excerpt: H. Marshall Chadwell clandestinely sponsored the establishment of a UFO scientific review panel led
+      by California Institute of Technology physicist, H.P. Robertson.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: b7c1e8f7-c923-452c-ba71-8c3e99bc0a76
+        title: H. Marshall Chadwell
+        slug: h-marshall-chadwell
+      - node_id: e0a197e9-f299-4903-ac82-5593e0915802
+        title: Robertson Panel
+        slug: robertson-panel
+      - node_id: e6e3c28c-8f5f-4ca5-9dc9-18e1ec26ebae
+        title: H.P. Robertson
+        slug: hp-robertson
+      - node_id: ee833add-d4e3-4b62-88dd-9b9c496e8dd1
+        title: California Institute of Technology (Caltech)
+        slug: california-institute-of-technology-caltech
+    date: 1953-01
+    date_end: null
+    location_in_record: char:38935-39089
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: d3743fdf-6a99-43ef-98d4-b79ef60f0e47
+      record_title: Report on the Historical Record of U.S. Government Involvement with Unidentified Anomalous Phenomena (UAP),
+        Volume I
+      record_date: '2024-02-01'
+      record_reference: null
+      content_hash: sha256:8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a94774067868
+      friendly_name: 2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a
+  - claim_id: 2e6b82a3-1aff-43d3-83d4-c48efdec61da
+    claim_hash: 16697f99e4457060a477a4bcea4ca463c7292b693a4429642bb990651792102b
+    content: Critics of Bob Lazar dispute his academic record, and Ross Coulthart holds that Bob Lazar does not have two master's
+      degrees from the Massachusetts Institute of Technology (MIT) and the California Institute of Technology (Caltech).
+    original_excerpt: People criticize his academic record. I say that he doesn't have two master's degrees from MIT and Caltech.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+      title: Ross Coulthart
+    provenance_chain:
+      origin_kind: speaker
+      origin: Ross Coulthart
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: b0c0fde0-37e6-4632-8d64-a95091f03a49
+        title: Bob Lazar
+        slug: bob-lazar
+      - node_id: c5060aa6-0437-4ef7-a518-6c7239c491e5
+        title: Massachusetts Institute of Technology (MIT)
+        slug: massachusetts-institute-of-technology-mit
+      - node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+        title: Ross Coulthart
+        slug: ross-coulthart
+      - node_id: ee833add-d4e3-4b62-88dd-9b9c496e8dd1
+        title: California Institute of Technology (Caltech)
+        slug: california-institute-of-technology-caltech
+    date: null
+    date_end: null
+    location_in_record: 02:00:29.3-02:00:34.9
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: fd845823-8784-462c-a981-4775525b6f84
+      record_title: The DANGEROUS Truth About UFOs - Ross Coulthart | DEBRIEFED ep. 76
+      record_date: '2026-02-20'
+      record_reference: https://www.youtube.com/watch?v=idBryc0eWww
+      content_hash: sha256:73be106d406f6d35a063a894e8384e7da0918eb8597d2107a9e3653becca2bdc
+      friendly_name: null

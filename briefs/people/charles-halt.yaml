@@ -1,0 +1,745 @@
+schema: anomalica/brief/1
+brief_hash: 7efe9746506526d20b4b4a980fd26f1a3841f0963b77202dd2c69b39c249749a
+page:
+  kind: entity
+  node_id: 814327af-44ac-4970-8062-f3802264a30f
+  node_type: person
+  title: Charles Halt
+  slug: charles-halt
+  claim_count: 17
+  claim_count_total: 17
+generated:
+  graph_version: '2026-09-01T10:10:49.863545+00:00'
+size:
+  claims: 17
+  tokens_estimated: 5308
+  sized_against: 1050000
+publication:
+  status: published
+  note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
+    transcripts are gated elsewhere.
+belonging:
+  verified: 0
+  suspect_excluded: 0
+  unreviewed: 17
+related_nodes:
+  - node_id: 224e26e2-c488-413d-9693-7726f1481df8
+    title: 1980 Rendlesham Forest incident
+    node_type: event
+    slug: 1980-rendlesham-forest-incident
+    shared_claims: 16
+  - node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+    title: Ross Coulthart
+    node_type: person
+    slug: ross-coulthart
+    shared_claims: 4
+  - node_id: 2d9cdc5c-bc5e-4cd4-a1e4-ab607047eb71
+    title: Larry Warren
+    node_type: person
+    slug: larry-warren
+    shared_claims: 3
+  - node_id: 2993e6e0-6c79-4c60-a1d3-f2f023ea2957
+    title: UK, England, RAF Bentwaters
+    node_type: place
+    slug: england-raf-bentwaters-uk
+    shared_claims: 3
+  - node_id: 7c8cf677-bd98-4fd7-9898-673c2b6115ab
+    title: UK, England, Rendlesham Forest
+    node_type: place
+    slug: england-rendlesham-forest-uk
+    shared_claims: 3
+  - node_id: cad0a6eb-0ed3-44ee-8f8f-b22d7603c6f3
+    title: Air Force Office of Special Investigations (AFOSI)
+    node_type: organisation
+    slug: air-force-office-of-special-investigations-afosi
+    shared_claims: 1
+  - node_id: b675104c-b916-43f7-b91f-b3cb8ca4decb
+    title: Charles Halt's memorandum on the Rendlesham Forest incident
+    node_type: document
+    slug: charles-halts-memorandum-on-the-rendlesham-forest-incident
+    shared_claims: 1
+  - node_id: f2a1105b-6bda-47b3-8762-3dc3f97f365c
+    title: UK, England, RAF Woodbridge
+    node_type: place
+    slug: england-raf-woodbridge-uk
+    shared_claims: 1
+claims:
+  - claim_id: 992f9cb0-522d-4823-a18c-6fd05d13b283
+    claim_hash: b77efdcc2c68a9ebe8d22f80f5303da864572577b01283cf0d68a1f0e5147247
+    content: Charles Halt believes something was controlling what he saw during the 1980 Rendlesham Forest UAP incident, and
+      described it as 'a bit scary'.
+    original_excerpt: '''I just know that there was something somewhere that was controlling what I saw,'' Halt told me. ''It
+      certainly is a bit scary.'''
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 814327af-44ac-4970-8062-f3802264a30f
+      title: Charles Halt
+    provenance_chain:
+      origin_kind: speaker
+      origin: Charles Halt
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 224e26e2-c488-413d-9693-7726f1481df8
+        title: 1980 Rendlesham Forest incident
+        slug: 1980-rendlesham-forest-incident
+      - node_id: 814327af-44ac-4970-8062-f3802264a30f
+        title: Charles Halt
+        slug: charles-halt
+    date: null
+    date_end: null
+    location_in_record: ch12:10152-10270
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: ae4e2f6d-3ed1-4b21-9367-4b933068e9f7
+    claim_hash: 0c183aa00c3e27a956ffaf2787086abe82a7aff568a4f7c33682ab29d68f3b22
+    content: The United States Air Force Office of Special Investigations (OSI) attacked the credibility of Charles Halt's
+      sighting during the 1980 Rendlesham Forest UAP incident.
+    original_excerpt: He said the US Air Force Office of Special Investigations (OSI) attacked the credibility of his sighting.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 814327af-44ac-4970-8062-f3802264a30f
+      title: Charles Halt
+    provenance_chain:
+      origin_kind: speaker
+      origin: Charles Halt
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 224e26e2-c488-413d-9693-7726f1481df8
+        title: 1980 Rendlesham Forest incident
+        slug: 1980-rendlesham-forest-incident
+      - node_id: 814327af-44ac-4970-8062-f3802264a30f
+        title: Charles Halt
+        slug: charles-halt
+      - node_id: cad0a6eb-0ed3-44ee-8f8f-b22d7603c6f3
+        title: Air Force Office of Special Investigations (AFOSI)
+        slug: air-force-office-of-special-investigations-afosi
+    date: null
+    date_end: null
+    location_in_record: ch12:10279-10375
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 633a87cb-0e91-4a8e-96fd-1f90d870f184
+    claim_hash: 1c509ecd0d5b7c43ceaad9f9a90f4648e477de2d1dca281a6e77bf2e0610b14f
+    content: Charles Halt believes there is a cover-up regarding the 1980 Rendlesham Forest UAP incident.
+    original_excerpt: '''I certainly believe there''s a cover-up,'' Halt said.'
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 814327af-44ac-4970-8062-f3802264a30f
+      title: Charles Halt
+    provenance_chain:
+      origin_kind: speaker
+      origin: Charles Halt
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 224e26e2-c488-413d-9693-7726f1481df8
+        title: 1980 Rendlesham Forest incident
+        slug: 1980-rendlesham-forest-incident
+      - node_id: 814327af-44ac-4970-8062-f3802264a30f
+        title: Charles Halt
+        slug: charles-halt
+    date: null
+    date_end: null
+    location_in_record: ch12:10386-10432
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: e89fc043-d879-4729-a6c9-4a7485993486
+    claim_hash: 21788a8644472742633fa16e4ce27aabdd5eaa754e6db41f6bbeb83643169d23
+    content: Charles Halt said the nearby lighthouse was easily visible and quite distinct, at least 30 degrees away from
+      what he saw during the 1980 Rendlesham Forest UAP incident.
+    original_excerpt: He said the nearby lighthouse was easily visible and quite distinct, at least 30 degrees away, from
+      what he saw.
+    claim_type: observation
+    attestation: first_hand
+    speaker:
+      node_id: 814327af-44ac-4970-8062-f3802264a30f
+      title: Charles Halt
+    provenance_chain:
+      origin_kind: speaker
+      origin: Charles Halt
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 224e26e2-c488-413d-9693-7726f1481df8
+        title: 1980 Rendlesham Forest incident
+        slug: 1980-rendlesham-forest-incident
+      - node_id: 814327af-44ac-4970-8062-f3802264a30f
+        title: Charles Halt
+        slug: charles-halt
+    date: null
+    date_end: null
+    location_in_record: ch12:10438-10546
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: c869e03b-01c8-4d9e-b714-7627028fabde
+    claim_hash: 89a925cae3c698914dc3bd9adfe31943a5efa9dc2359832ee46433ede5d82d37
+    content: Two nights after the initial 1980 Rendlesham Forest UAP incident, US Air Force Colonel Charles Halt, deputy commander
+      of the nearby RAF Bentwaters base, led a patrol back into the forest following another reported landing by an unidentified
+      craft, and later wrote a detailed memorandum of what he saw.
+    original_excerpt: Two nights later, US Air Force Colonel Charles Halt, deputy commander of the nearby RAF Bentwaters base,
+      Penniston and Burroughs' home base, led a patrol back into the forest following another reported landing by an unidentified
+      craft, later writing a detailed memorandum of what he saw.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 814327af-44ac-4970-8062-f3802264a30f
+      title: Charles Halt
+    provenance_chain:
+      origin_kind: speaker
+      origin: Charles Halt
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 224e26e2-c488-413d-9693-7726f1481df8
+        title: 1980 Rendlesham Forest incident
+        slug: 1980-rendlesham-forest-incident
+      - node_id: 2993e6e0-6c79-4c60-a1d3-f2f023ea2957
+        title: UK, England, RAF Bentwaters
+        slug: england-raf-bentwaters-uk
+      - node_id: 814327af-44ac-4970-8062-f3802264a30f
+        title: Charles Halt
+        slug: charles-halt
+      - node_id: b675104c-b916-43f7-b91f-b3cb8ca4decb
+        title: Charles Halt's memorandum on the Rendlesham Forest incident
+        slug: charles-halts-memorandum-on-the-rendlesham-forest-incident
+    date: null
+    date_end: null
+    location_in_record: ch12:8464-8747
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 77fcc694-7d86-4e40-99ae-4fcc5777c48d
+    claim_hash: bfe89863439feb83e458b328a2b217af43823a02b9fa35b01f4e7a72c85949a7
+    content: Ross Coulthart interviewed retired Colonel Charles Halt in 2009 for a television documentary.
+    original_excerpt: I interviewed retired Colonel Halt in 2009 for a television documentary.
+    claim_type: administrative
+    attestation: first_hand
+    speaker:
+      node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+      title: Ross Coulthart
+    provenance_chain:
+      origin_kind: speaker
+      origin: Ross Coulthart
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 814327af-44ac-4970-8062-f3802264a30f
+        title: Charles Halt
+        slug: charles-halt
+      - node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+        title: Ross Coulthart
+        slug: ross-coulthart
+    date: '2009'
+    date_end: null
+    location_in_record: ch12:8869-8929
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: afee89be-47b5-4527-acf6-3bd414fff051
+    claim_hash: 8726cb70c8cda7a01a5844f5c54109f2892c302a41fa43cb722a49ea8710c5f1
+    content: Charles Halt witnessed a hovering UAP in Rendlesham Forest at close range and believed the vehicle was probably
+      extra-terrestrial.
+    original_excerpt: He told me he and his colleagues witnessed a hovering UAP in the forest at close-up range and he believed
+      the vehicle was probably extra-terrestrial.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 814327af-44ac-4970-8062-f3802264a30f
+      title: Charles Halt
+    provenance_chain:
+      origin_kind: speaker
+      origin: Charles Halt
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 224e26e2-c488-413d-9693-7726f1481df8
+        title: 1980 Rendlesham Forest incident
+        slug: 1980-rendlesham-forest-incident
+      - node_id: 7c8cf677-bd98-4fd7-9898-673c2b6115ab
+        title: UK, England, Rendlesham Forest
+        slug: england-rendlesham-forest-uk
+      - node_id: 814327af-44ac-4970-8062-f3802264a30f
+        title: Charles Halt
+        slug: charles-halt
+    date: null
+    date_end: null
+    location_in_record: ch12:8942-9079
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 0cd61948-4a57-446f-97ad-1581d482eefa
+    claim_hash: 325f226764cb63c1314bb64d5f2e43421dafa98e10f840ad074f987f81ca1eff
+    content: During the 1980 Rendlesham Forest UAP incident, Charles Halt made an audiotape of his live commentary describing
+      the object as looking 'like an eye winking at you'.
+    original_excerpt: he had the presence of mind to audiotape his dramatic live commentary of what he saw, including how
+      the object looked 'like an eye winking at you'.
+    claim_type: observation
+    attestation: first_hand
+    speaker:
+      node_id: 814327af-44ac-4970-8062-f3802264a30f
+      title: Charles Halt
+    provenance_chain:
+      origin_kind: speaker
+      origin: Charles Halt
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 224e26e2-c488-413d-9693-7726f1481df8
+        title: 1980 Rendlesham Forest incident
+        slug: 1980-rendlesham-forest-incident
+      - node_id: 814327af-44ac-4970-8062-f3802264a30f
+        title: Charles Halt
+        slug: charles-halt
+    date: null
+    date_end: null
+    location_in_record: ch12:9293-9461
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: a8584710-8026-459e-8000-8c55bfa4e7a0
+    claim_hash: b767a4c8c68db12fb69fe0af5c732e09aeaf7ffff8f8673fa74ebc288e02f27a
+    content: During the 1980 Rendlesham Forest UAP incident, Charles Halt and his patrol watched an object that had 'danced
+      about in the forest' shed sparks that looked like molten metal, with a heavy field of static electricity in the air.
+    original_excerpt: In a field, he and his patrol watched as the object, which had 'danced about in the forest', shed sparks
+      that looked like molten metal; there was a heavy field of static electricity in the air.
+    claim_type: observation
+    attestation: first_hand
+    speaker:
+      node_id: 814327af-44ac-4970-8062-f3802264a30f
+      title: Charles Halt
+    provenance_chain:
+      origin_kind: speaker
+      origin: Charles Halt
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 224e26e2-c488-413d-9693-7726f1481df8
+        title: 1980 Rendlesham Forest incident
+        slug: 1980-rendlesham-forest-incident
+      - node_id: 814327af-44ac-4970-8062-f3802264a30f
+        title: Charles Halt
+        slug: charles-halt
+    date: null
+    date_end: null
+    location_in_record: ch12:9467-9656
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 8d9ac7b8-2c0f-4f9a-be71-924afbbf03dc
+    claim_hash: a19a6ef371213d33fe979fb103367f1dc6333419ac57a90fd924ccd78f357c37
+    content: During the 1980 Rendlesham Forest UAP incident, the object shone beams of light into the nuclear weapons storage
+      area on the RAF Bentwaters base.
+    original_excerpt: Perhaps most disturbingly, it shone beams of light into the nuclear weapons storage area on the base.
+    claim_type: observation
+    attestation: first_hand
+    speaker:
+      node_id: 814327af-44ac-4970-8062-f3802264a30f
+      title: Charles Halt
+    provenance_chain:
+      origin_kind: speaker
+      origin: Charles Halt
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 224e26e2-c488-413d-9693-7726f1481df8
+        title: 1980 Rendlesham Forest incident
+        slug: 1980-rendlesham-forest-incident
+      - node_id: 2993e6e0-6c79-4c60-a1d3-f2f023ea2957
+        title: UK, England, RAF Bentwaters
+        slug: england-raf-bentwaters-uk
+      - node_id: 814327af-44ac-4970-8062-f3802264a30f
+        title: Charles Halt
+        slug: charles-halt
+    date: null
+    date_end: null
+    location_in_record: ch12:9661-9757
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 0ddd5e7d-2ff6-4231-9224-074a03610205
+    claim_hash: c3bfec31f2a501dbfd6c80c0c2da0267ae70128b6d2152713efbc1d529a3c380
+    content: Charles Halt is adamant that the objects he saw during the 1980 Rendlesham Forest UAP incident were intelligently
+      controlled and probably non-human in origin.
+    original_excerpt: But, decades on, Halt is adamant that the objects he saw were intelligently controlled and probably
+      non-human in origin, and he derided the sceptics who were not there who dismissively asserted otherwise.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 814327af-44ac-4970-8062-f3802264a30f
+      title: Charles Halt
+    provenance_chain:
+      origin_kind: speaker
+      origin: Charles Halt
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 224e26e2-c488-413d-9693-7726f1481df8
+        title: 1980 Rendlesham Forest incident
+        slug: 1980-rendlesham-forest-incident
+      - node_id: 814327af-44ac-4970-8062-f3802264a30f
+        title: Charles Halt
+        slug: charles-halt
+    date: null
+    date_end: null
+    location_in_record: ch12:9946-10140
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 489957f8-1f1e-4661-8ba5-ae6a6b70ff8e
+    claim_hash: 140da055db2959f951aae0f2d66de9da1b96f487c09cae8756784e093da04711
+    content: Charles Halt, the deputy base commander at RAF Woodbridge, led a patrol that witnessed what he describes as an
+      'intelligently-controlled' object moving through Rendlesham Forest.
+    original_excerpt: Lieutenant Colonel Charles Halt, the deputy base commander at RAF Woodridge who led a patrol that witnessed
+      what he describes as an 'intelligently-controlled' object moving through Rendlesham Forest.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 814327af-44ac-4970-8062-f3802264a30f
+      title: Charles Halt
+    provenance_chain:
+      origin_kind: speaker
+      origin: Charles Halt
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 224e26e2-c488-413d-9693-7726f1481df8
+        title: 1980 Rendlesham Forest incident
+        slug: 1980-rendlesham-forest-incident
+      - node_id: 7c8cf677-bd98-4fd7-9898-673c2b6115ab
+        title: UK, England, Rendlesham Forest
+        slug: england-rendlesham-forest-uk
+      - node_id: 814327af-44ac-4970-8062-f3802264a30f
+        title: Charles Halt
+        slug: charles-halt
+      - node_id: f2a1105b-6bda-47b3-8762-3dc3f97f365c
+        title: UK, England, RAF Woodbridge
+        slug: england-raf-woodbridge-uk
+    date: null
+    date_end: null
+    location_in_record: ch37:5795-5987
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: a76b52d7-ca35-4184-bdab-f448f8944f37
+    claim_hash: 144add5ca9911146850ac7e03cba017ea948e5ff6fde11564934a26efdb160e1
+    content: Ross Coulthart finds Charles Halt impeccably believable as a witness to the 1980 Rendlesham Forest RAF Bentwaters
+      incident.
+    original_excerpt: he was very much at cross odds with Colonel Charles Halt, who I do believe impeccably.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+      title: Ross Coulthart
+    provenance_chain:
+      origin_kind: speaker
+      origin: Ross Coulthart
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 224e26e2-c488-413d-9693-7726f1481df8
+        title: 1980 Rendlesham Forest incident
+        slug: 1980-rendlesham-forest-incident
+      - node_id: 814327af-44ac-4970-8062-f3802264a30f
+        title: Charles Halt
+        slug: charles-halt
+      - node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+        title: Ross Coulthart
+        slug: ross-coulthart
+    date: null
+    date_end: null
+    location_in_record: 01:56:43.1-01:56:49.2
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: fd845823-8784-462c-a981-4775525b6f84
+      record_title: The DANGEROUS Truth About UFOs - Ross Coulthart | DEBRIEFED ep. 76
+      record_date: '2026-02-20'
+      record_reference: https://www.youtube.com/watch?v=idBryc0eWww
+      content_hash: sha256:73be106d406f6d35a063a894e8384e7da0918eb8597d2107a9e3653becca2bdc
+      friendly_name: null
+  - claim_id: de032237-bd91-41fb-9270-0a2f2e068c62
+    claim_hash: cefe2cfd247435eb718f48201c42ff700e55079e89fd5d7de85f022fdff63a32
+    content: Charles Halt was a colonel and deputy commander of the RAF Bentwaters base, and spoke out publicly that he had
+      seen a craft of some kind moving through the trees.
+    original_excerpt: Charles Halt was a colonel, deputy commander of the base, and he spoke out publicly that... He had seen
+      a craft of some kind moving through the trees
+    claim_type: testimony
+    attestation: second_hand
+    speaker:
+      node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+      title: Ross Coulthart
+    provenance_chain:
+      origin_kind: named
+      origin: Charles Halt
+      relay:
+        - Ross Coulthart
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 224e26e2-c488-413d-9693-7726f1481df8
+        title: 1980 Rendlesham Forest incident
+        slug: 1980-rendlesham-forest-incident
+      - node_id: 2993e6e0-6c79-4c60-a1d3-f2f023ea2957
+        title: UK, England, RAF Bentwaters
+        slug: england-raf-bentwaters-uk
+      - node_id: 814327af-44ac-4970-8062-f3802264a30f
+        title: Charles Halt
+        slug: charles-halt
+    date: null
+    date_end: null
+    location_in_record: 01:56:50.5-01:57:00.0
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: fd845823-8784-462c-a981-4775525b6f84
+      record_title: The DANGEROUS Truth About UFOs - Ross Coulthart | DEBRIEFED ep. 76
+      record_date: '2026-02-20'
+      record_reference: https://www.youtube.com/watch?v=idBryc0eWww
+      content_hash: sha256:73be106d406f6d35a063a894e8384e7da0918eb8597d2107a9e3653becca2bdc
+      friendly_name: null
+  - claim_id: 77388835-759b-4cb0-a733-49cf1d7076bb
+    claim_hash: 654d287a2c16614dc1a2ccc55d22e5a10ecdbd57e739c00c5d1668c9a7a394e8
+    content: Charles Halt was angry with Larry Warren because he believed Larry Warren had confabulated a story about a separate
+      event in which he saw the craft on the ground with British policemen taking photographs, a series of events Charles
+      Halt said did not happen.
+    original_excerpt: he was angry with Larry Warren because he believed that Larry had confabulated, that he'd made up a
+      whole story about a separate event where he'd seen the craft on the ground and British policemen taking photographs
+      and a whole series of events that Charles Halt said didn't happen.
+    claim_type: hearsay
+    attestation: second_hand
+    speaker:
+      node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+      title: Ross Coulthart
+    provenance_chain:
+      origin_kind: named
+      origin: Charles Halt
+      relay:
+        - Ross Coulthart
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 224e26e2-c488-413d-9693-7726f1481df8
+        title: 1980 Rendlesham Forest incident
+        slug: 1980-rendlesham-forest-incident
+      - node_id: 2d9cdc5c-bc5e-4cd4-a1e4-ab607047eb71
+        title: Larry Warren
+        slug: larry-warren
+      - node_id: 814327af-44ac-4970-8062-f3802264a30f
+        title: Charles Halt
+        slug: charles-halt
+    date: null
+    date_end: null
+    location_in_record: 01:57:01.6-01:57:17.5
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: fd845823-8784-462c-a981-4775525b6f84
+      record_title: The DANGEROUS Truth About UFOs - Ross Coulthart | DEBRIEFED ep. 76
+      record_date: '2026-02-20'
+      record_reference: https://www.youtube.com/watch?v=idBryc0eWww
+      content_hash: sha256:73be106d406f6d35a063a894e8384e7da0918eb8597d2107a9e3653becca2bdc
+      friendly_name: null
+  - claim_id: 9b259c23-96a3-45ef-9911-2c1cf1162a2c
+    claim_hash: ad56487622f95e7323b79b082727b340e53f61b637f9ee8b33fb05a1d420ad23
+    content: 'Ross Coulthart concluded that Charles Halt and Larry Warren were describing two different Rendlesham Forest
+      events: Charles Halt the incident in the forest, and Larry Warren a later event that evening at an open field where
+      witnesses described beings emerging from the craft and film being taken by the United States military, followed by a
+      cover-up.'
+    original_excerpt: Charles Halt was talking about one incident in the forest and he didn't know that Larry had gone later
+      in the evening to another location where there was an open field where another event occurred where a whole lot of people
+      described an event that took place that involved allegedly beings coming out of the craft and some kind of film being
+      taken by the US military on the scene. a whole elaborate cover-up.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+      title: Ross Coulthart
+    provenance_chain:
+      origin_kind: speaker
+      origin: Ross Coulthart
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 224e26e2-c488-413d-9693-7726f1481df8
+        title: 1980 Rendlesham Forest incident
+        slug: 1980-rendlesham-forest-incident
+      - node_id: 2d9cdc5c-bc5e-4cd4-a1e4-ab607047eb71
+        title: Larry Warren
+        slug: larry-warren
+      - node_id: 7c8cf677-bd98-4fd7-9898-673c2b6115ab
+        title: UK, England, Rendlesham Forest
+        slug: england-rendlesham-forest-uk
+      - node_id: 814327af-44ac-4970-8062-f3802264a30f
+        title: Charles Halt
+        slug: charles-halt
+      - node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+        title: Ross Coulthart
+        slug: ross-coulthart
+    date: null
+    date_end: null
+    location_in_record: 01:57:26.4-01:57:55.1
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: fd845823-8784-462c-a981-4775525b6f84
+      record_title: The DANGEROUS Truth About UFOs - Ross Coulthart | DEBRIEFED ep. 76
+      record_date: '2026-02-20'
+      record_reference: https://www.youtube.com/watch?v=idBryc0eWww
+      content_hash: sha256:73be106d406f6d35a063a894e8384e7da0918eb8597d2107a9e3653becca2bdc
+      friendly_name: null
+  - claim_id: a9ef2717-fbef-4196-95d8-0eb4645e6230
+    claim_hash: 64287c83c40cc7f0dbf9bbade293a9ab25c04e499d374899428b61f800dfde3b
+    content: Ross Coulthart considers the likely prosaic explanation for the conflict between Charles Halt and Larry Warren
+      to be that Larry Warren mistakenly placed Charles Halt, who was with him during the earlier forest incident, at the
+      later Rendlesham Forest event.
+    original_excerpt: potentially what had happened was Larry had mistaken the earlier part of the evening where Charles Halt
+      was in the earlier incident, where he was with him in the forest, and he placed him at this later incident. And that's
+      why Charles and he were at odds.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+      title: Ross Coulthart
+    provenance_chain:
+      origin_kind: speaker
+      origin: Ross Coulthart
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 224e26e2-c488-413d-9693-7726f1481df8
+        title: 1980 Rendlesham Forest incident
+        slug: 1980-rendlesham-forest-incident
+      - node_id: 2d9cdc5c-bc5e-4cd4-a1e4-ab607047eb71
+        title: Larry Warren
+        slug: larry-warren
+      - node_id: 814327af-44ac-4970-8062-f3802264a30f
+        title: Charles Halt
+        slug: charles-halt
+      - node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+        title: Ross Coulthart
+        slug: ross-coulthart
+    date: null
+    date_end: null
+    location_in_record: 01:58:16.8-01:58:29.2
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: fd845823-8784-462c-a981-4775525b6f84
+      record_title: The DANGEROUS Truth About UFOs - Ross Coulthart | DEBRIEFED ep. 76
+      record_date: '2026-02-20'
+      record_reference: https://www.youtube.com/watch?v=idBryc0eWww
+      content_hash: sha256:73be106d406f6d35a063a894e8384e7da0918eb8597d2107a9e3653becca2bdc
+      friendly_name: null

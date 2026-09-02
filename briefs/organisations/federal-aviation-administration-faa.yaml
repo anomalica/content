@@ -1,0 +1,825 @@
+schema: anomalica/brief/1
+brief_hash: 5bb47b162a99e56c8f29717ea2b6110ad185247d6528c46851c076fc78c6ba80
+page:
+  kind: entity
+  node_id: 94a78181-7c9b-420b-973e-1bcb186b8fa5
+  node_type: organisation
+  title: Federal Aviation Administration (FAA)
+  slug: federal-aviation-administration-faa
+  claim_count: 18
+  claim_count_total: 18
+generated:
+  graph_version: '2026-09-01T10:10:49.863545+00:00'
+size:
+  claims: 18
+  tokens_estimated: 6054
+  sized_against: 1050000
+publication:
+  status: published
+  note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
+    transcripts are gated elsewhere.
+belonging:
+  verified: 0
+  suspect_excluded: 0
+  unreviewed: 18
+related_nodes:
+  - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
+    title: 2004 USS Nimitz UAP encounter
+    node_type: event
+    slug: 2004-uss-nimitz-uap-encounter
+    shared_claims: 8
+  - node_id: 942227d2-0ca6-413f-b80d-bc6475fc98ab
+    title: USA, Texas, El Paso
+    node_type: place
+    slug: texas-el-paso-usa
+    shared_claims: 4
+  - node_id: 84a785f9-5bfe-4444-bf6f-c06742f7644f
+    title: Allison Kruse
+    node_type: person
+    slug: allison-kruse
+    shared_claims: 2
+  - node_id: 99f08514-5471-4eaf-bce3-46c474a8d304
+    title: United States Department of Defense (DoD)
+    node_type: organisation
+    slug: united-states-department-of-defense-dod
+    shared_claims: 2
+  - node_id: 38b84d4a-96df-4684-bb46-f6f64f392add
+    title: Central Intelligence Agency (CIA)
+    node_type: organisation
+    slug: central-intelligence-agency-cia
+    shared_claims: 1
+  - node_id: 502c7c1d-c898-4ec2-998e-4954e00b6437
+    title: Department of Homeland Security (DHS)
+    node_type: organisation
+    slug: department-of-homeland-security-dhs
+    shared_claims: 1
+  - node_id: bb1cb8d7-932c-4bce-b15a-92f695005a34
+    title: Japan Airlines
+    node_type: organisation
+    slug: japan-airlines
+    shared_claims: 1
+  - node_id: ec14592b-5208-48f3-b23f-88a280552626
+    title: John Callahan
+    node_type: person
+    slug: john-callahan
+    shared_claims: 1
+  - node_id: 0d4dfba6-a53b-4f23-a2ad-e4c9bea44076
+    title: Robert Bigelow
+    node_type: person
+    slug: robert-bigelow
+    shared_claims: 1
+  - node_id: c7a5cf34-9c45-4f54-848d-04bc67b04532
+    title: Sierra Blanca Temporary Flight Restriction
+    node_type: event
+    slug: sierra-blanca-temporary-flight-restriction
+    shared_claims: 1
+  - node_id: 4336d36e-8d36-41e2-bf82-8d02bcb3e740
+    title: Ted Cruz
+    node_type: person
+    slug: ted-cruz
+    shared_claims: 1
+  - node_id: 8761b44f-e46a-432c-bdc4-1360ab2cef1c
+    title: US Special Operations Command
+    node_type: organisation
+    slug: us-special-operations-command
+    shared_claims: 1
+  - node_id: f7f451bb-90db-4f69-97a2-e892d218a0af
+    title: USA, Alaska, Anchorage
+    node_type: place
+    slug: alaska-anchorage-usa
+    shared_claims: 1
+  - node_id: bc050c97-e137-46b8-8b02-d31d9ff9f0bd
+    title: USA, Alaska, Elmendorf Air Force Base
+    node_type: place
+    slug: alaska-elmendorf-air-force-base-usa
+    shared_claims: 1
+  - node_id: 9da33243-6854-43d4-b60d-fbeeb284787e
+    title: USA, District of Columbia, Washington
+    node_type: place
+    slug: district-of-columbia-washington-usa
+    shared_claims: 1
+  - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
+    title: Unidentified Anomalous Phenomena (UAP)
+    node_type: topic
+    slug: unidentified-anomalous-phenomena-uap
+    shared_claims: 1
+  - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
+    title: Unidentified Flying Object (UFO)
+    node_type: topic
+    slug: unidentified-flying-object-ufo
+    shared_claims: 1
+  - node_id: 74c28a7d-b237-4cc3-9a5e-184bcbab1493
+    title: United States Senate Commerce Committee
+    node_type: organisation
+    slug: united-states-senate-commerce-committee
+    shared_claims: 1
+claims:
+  - claim_id: 279d100b-ce8a-4156-9ef7-8365659d7e44
+    claim_hash: cb5dba4fafa503185a708f252e68ed51cd75e3d00302460a7d523c2e382d63ca
+    content: The crew of the 1978 Japan Airlines Flight 1628 Alaska UFO sighting tracked the object on their weather radar
+      to confirm they were not seeing things, and were in contact with the Federal Aviation Administration in Anchorage and
+      with Elmendorf Air Force Base, both of which they maintained also tracked it on radar.
+    original_excerpt: They tracked it on their weather radar to make sure that they weren't seeing things. They were in contact
+      with the FAA at Anchorage and also Elvendorf Air Force Base. And they have said and they've maintained their story that
+      both locations also tracked it on radar.
+    claim_type: testimony
+    attestation: null
+    speaker:
+      node_id: d92b06f4-08e6-4138-8c83-7959f54a61bc
+      title: Raymond E. Fowler
+    provenance_chain:
+      origin_kind: unattributed
+      origin: news reports
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 94a78181-7c9b-420b-973e-1bcb186b8fa5
+        title: Federal Aviation Administration (FAA)
+        slug: federal-aviation-administration-faa
+      - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
+        title: 2004 USS Nimitz UAP encounter
+        slug: 2004-uss-nimitz-uap-encounter
+      - node_id: bc050c97-e137-46b8-8b02-d31d9ff9f0bd
+        title: USA, Alaska, Elmendorf Air Force Base
+        slug: alaska-elmendorf-air-force-base-usa
+      - node_id: f7f451bb-90db-4f69-97a2-e892d218a0af
+        title: USA, Alaska, Anchorage
+        slug: alaska-anchorage-usa
+    date: null
+    date_end: null
+    location_in_record: 00:15:44.0-00:15:59.8
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 4c975267-b18f-447b-aea0-321d5f3aaf25
+      record_title: Raymond Fowler on UFOs, Government Cover-Ups & the Andreasson Affair (Full Interview, 1987)
+      record_date: null
+      record_reference: https://www.youtube.com/watch?v=eIx6NytOGTs
+      content_hash: sha256:c37a1f6968db0d7817235b1cb192758a04a3e990d89029bc48ff3facbb50e476
+      friendly_name: null
+  - claim_id: 247e6e15-b1c9-4209-8b0c-770c7f040c78
+    claim_hash: 1979c311dadc6324bbf109d9dc1e3ddfd84db727e63a5552c8845dda4d46b95d
+    content: After the 1978 Japan Airlines Flight 1628 Alaska UFO sighting became public, Federal Aviation Administration
+      officials contradicted their own controllers, and told the press the radar contact was just a double image of the plane.
+    original_excerpt: immediately the FAA officials contradicted their own controllers ... the FAA told the press that the
+      radar was just a double image of the plane.
+    claim_type: testimony
+    attestation: null
+    speaker:
+      node_id: d92b06f4-08e6-4138-8c83-7959f54a61bc
+      title: Raymond E. Fowler
+    provenance_chain:
+      origin_kind: unattributed
+      origin: news reports
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 94a78181-7c9b-420b-973e-1bcb186b8fa5
+        title: Federal Aviation Administration (FAA)
+        slug: federal-aviation-administration-faa
+      - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
+        title: 2004 USS Nimitz UAP encounter
+        slug: 2004-uss-nimitz-uap-encounter
+    date: null
+    date_end: null
+    location_in_record: 00:16:10.9-00:16:24.0
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 4c975267-b18f-447b-aea0-321d5f3aaf25
+      record_title: Raymond Fowler on UFOs, Government Cover-Ups & the Andreasson Affair (Full Interview, 1987)
+      record_date: null
+      record_reference: https://www.youtube.com/watch?v=eIx6NytOGTs
+      content_hash: sha256:c37a1f6968db0d7817235b1cb192758a04a3e990d89029bc48ff3facbb50e476
+      friendly_name: null
+  - claim_id: cb673d77-0032-443b-8c86-a7139e00b4d8
+    claim_hash: 9cfde19a6dba6a668bdffa71ece28344faa480c6982e2c0aefc5342939cd8b72
+    content: Federal Aviation Administration controllers were reportedly upset over the official explanations given for the
+      1978 Japan Airlines Flight 1628 Alaska UFO sighting, and the Japanese pilot and crew members continued to stand by their
+      account regardless of the government's statements.
+    original_excerpt: the FAA controllers were very upset about this, and the Japanese pilot and crew members are still sticking
+      to their story, regardless of what our government says.
+    claim_type: testimony
+    attestation: null
+    speaker:
+      node_id: d92b06f4-08e6-4138-8c83-7959f54a61bc
+      title: Raymond E. Fowler
+    provenance_chain:
+      origin_kind: unattributed
+      origin: news reports
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 94a78181-7c9b-420b-973e-1bcb186b8fa5
+        title: Federal Aviation Administration (FAA)
+        slug: federal-aviation-administration-faa
+      - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
+        title: 2004 USS Nimitz UAP encounter
+        slug: 2004-uss-nimitz-uap-encounter
+    date: null
+    date_end: null
+    location_in_record: 00:16:41.9-00:16:53.1
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 4c975267-b18f-447b-aea0-321d5f3aaf25
+      record_title: Raymond Fowler on UFOs, Government Cover-Ups & the Andreasson Affair (Full Interview, 1987)
+      record_date: null
+      record_reference: https://www.youtube.com/watch?v=eIx6NytOGTs
+      content_hash: sha256:c37a1f6968db0d7817235b1cb192758a04a3e990d89029bc48ff3facbb50e476
+      friendly_name: null
+  - claim_id: 67c48441-7af7-4dd3-9b97-484be844de7c
+    claim_hash: d14ed5ccf11f1f487609714d9ed344ebfefa5c227fc5f4121e4d1bd3d1edc30d
+    content: Thousands of people saw a large unidentified object, described as 'the size of an aircraft carrier,' beginning
+      in 1983, witnessed by meteorologists, Federal Aviation Administration (FAA) employees, police officers, sheriffs, state
+      troopers, and in one case an entire town government.
+    original_excerpt: size, starting in 1983. Thousands of people saw these objects... Town police officers, sheriffs, state
+      troopers, even in one case an entire town government en masse viewed the things, which have been described as being
+      "the size of an aircraft carrier."
+    claim_type: observation
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 94a78181-7c9b-420b-973e-1bcb186b8fa5
+        title: Federal Aviation Administration (FAA)
+        slug: federal-aviation-administration-faa
+      - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
+        title: Unidentified Flying Object (UFO)
+        slug: unidentified-flying-object-ufo
+    date: null
+    date_end: null
+    location_in_record: ch9:39981-40308
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: ad152768-183b-4cde-bc60-1520900ceb32
+      record_title: Communion
+      record_date: '2013-06-16'
+      record_reference: null
+      content_hash: sha256:b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4001275f9
+      friendly_name: 2013-06-16-ebook-communion
+  - claim_id: 8c8ef0c2-85d3-47c6-9235-99178680a4e1
+    claim_hash: 2fdde6f22a5a698a887b960e53cd981d10ec8bf71c71e6866b8ad0e1e4e700a3
+    content: Allison Kruse would call the Federal Aviation Administration (FAA) to check whether aircraft were flying at the
+      times she recorded anomalous objects.
+    original_excerpt: She would video-record them and then call the Federal Aviation Administration (FAA) to find out if there
+      were aircraft flying during the times she had recorded.
+    claim_type: testimony
+    attestation: second_hand
+    speaker:
+      node_id: 84a785f9-5bfe-4444-bf6f-c06742f7644f
+      title: Allison Kruse
+    provenance_chain:
+      origin_kind: named
+      origin: Allison Kruse
+      relay:
+        - D. W. Pasulka
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 84a785f9-5bfe-4444-bf6f-c06742f7644f
+        title: Allison Kruse
+        slug: allison-kruse
+      - node_id: 94a78181-7c9b-420b-973e-1bcb186b8fa5
+        title: Federal Aviation Administration (FAA)
+        slug: federal-aviation-administration-faa
+    date: null
+    date_end: null
+    location_in_record: ch3:17352-17503
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 288e1100-0497-41df-ba08-9890e519b0b9
+      record_title: American Cosmic
+      record_date: '2019'
+      record_reference: null
+      content_hash: sha256:ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b16ac4758
+      friendly_name: 2019-ebook-american-cosmic
+  - claim_id: dd7f5eed-bc0e-4867-93cb-4f3f31ec0248
+    claim_hash: 2cf00504d45440e581485229c2cbb94c88d5087ffaa2462204fa8cd9b6bc723a
+    content: In November 2010, Allison Kruse filmed a starlike object over the forest near Murrysville, Pennsylvania, and
+      the Federal Aviation Administration confirmed there were no aircraft in the sky at the time; the FAA's data disc of
+      the event was titled "Murrysville UFO."
+    original_excerpt: In November 2010, she filmed a starlike object over the forest and then called the FAA, as usual. They
+      confirmed that there were no aircraft in the sky when she recorded her object. She got a copy of the data disc that
+      the FAA had put together of the event. It was titled “Murrysville UFO.”
+    claim_type: testimony
+    attestation: third_hand
+    speaker:
+      node_id: f2daae19-9351-4a8e-b466-664f83887f61
+      title: Diana Walsh Pasulka
+    provenance_chain:
+      origin_kind: named
+      origin: Federal Aviation Administration (FAA)
+      relay:
+        - Allison Kruse
+        - D. W. Pasulka
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 84a785f9-5bfe-4444-bf6f-c06742f7644f
+        title: Allison Kruse
+        slug: allison-kruse
+      - node_id: 94a78181-7c9b-420b-973e-1bcb186b8fa5
+        title: Federal Aviation Administration (FAA)
+        slug: federal-aviation-administration-faa
+      - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
+        title: 2004 USS Nimitz UAP encounter
+        slug: 2004-uss-nimitz-uap-encounter
+    date: 2010-11
+    date_end: null
+    location_in_record: ch3:17708-17993
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 288e1100-0497-41df-ba08-9890e519b0b9
+      record_title: American Cosmic
+      record_date: '2019'
+      record_reference: null
+      content_hash: sha256:ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b16ac4758
+      friendly_name: 2019-ebook-american-cosmic
+  - claim_id: d798e0e1-29a9-4d0d-ac4f-0ac39fef1b14
+    claim_hash: 75cc3211682ee66d250ea9b7a00aed4c6194d09e2884c16e6dade598f43ada26
+    content: The Japanese crew of Japan Airlines flight 1628 were interviewed by the Federal Aviation Administration and were
+      adamant they had seen a gigantic craft, clearly not of any known terrestrial technology, which tracked them on their
+      journey.
+    original_excerpt: The Japanese crew of JAL 1628 were interviewed by the Federal Aviation Administration and were adamant
+      they had seen a gigantic craft, clearly not of any known terrestrial technology, which tracked them on their journey,
+      and they never wavered from that claim, despite a lot of harassment to persuade them otherwise.
+    claim_type: testimony
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: named
+      origin: the crew of Japan Airlines Flight 1628
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 94a78181-7c9b-420b-973e-1bcb186b8fa5
+        title: Federal Aviation Administration (FAA)
+        slug: federal-aviation-administration-faa
+      - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
+        title: 2004 USS Nimitz UAP encounter
+        slug: 2004-uss-nimitz-uap-encounter
+      - node_id: bb1cb8d7-932c-4bce-b15a-92f695005a34
+        title: Japan Airlines
+        slug: japan-airlines
+    date: null
+    date_end: null
+    location_in_record: ch12:12987-13293
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 14eeab5b-5a4d-4c1d-ae96-86f4d45c9cec
+    claim_hash: e766f68ea642f801896c8326d0e99b46da1196dfc17996c7b3e7fb0f7b0cc0be
+    content: The Federal Aviation Administration officially explained away multiple independent solid anomalous radar traces
+      of the craft during the 1986 Japan Airlines Flight 1628 UAP sighting as 'clutter', quickly declaring it could not confirm
+      the event.
+    original_excerpt: Officially, the Federal Aviation Administration explained away reported multiple independent solid anomalous
+      radar traces of this craft as 'clutter', declaring very quickly after that it could not confirm the event.
+    claim_type: administrative
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: named
+      origin: United States Federal Aviation Administration (FAA)
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 94a78181-7c9b-420b-973e-1bcb186b8fa5
+        title: Federal Aviation Administration (FAA)
+        slug: federal-aviation-administration-faa
+      - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
+        title: 2004 USS Nimitz UAP encounter
+        slug: 2004-uss-nimitz-uap-encounter
+    date: null
+    date_end: null
+    location_in_record: ch12:13713-13922
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: cc3fb47c-85f3-4281-aac1-4824e59b2a65
+    claim_hash: af5615f474dbb0d2e67a378b22794e20f313487d49fb46ec2ee403a41a987ce4
+    content: After the 1986 Japan Airlines Flight 1628 UAP sighting, a meeting was held at the Federal Aviation Administration's
+      Washington office in which Central Intelligence Agency agents confiscated all the radar evidence.
+    original_excerpt: Overwhelming evidence in support of an official cover-up in the JAL sighting was exposed when, after
+      the sighting, a meeting was held at the Federal Aviation Administration's Washington office in which Central Intelligence
+      Agency (CIA) agents confiscated all the radar evidence.
+    claim_type: testimony
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: named
+      origin: John Callahan
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 38b84d4a-96df-4684-bb46-f6f64f392add
+        title: Central Intelligence Agency (CIA)
+        slug: central-intelligence-agency-cia
+      - node_id: 94a78181-7c9b-420b-973e-1bcb186b8fa5
+        title: Federal Aviation Administration (FAA)
+        slug: federal-aviation-administration-faa
+      - node_id: 9da33243-6854-43d4-b60d-fbeeb284787e
+        title: USA, District of Columbia, Washington
+        slug: district-of-columbia-washington-usa
+      - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
+        title: 2004 USS Nimitz UAP encounter
+        slug: 2004-uss-nimitz-uap-encounter
+    date: null
+    date_end: null
+    location_in_record: ch12:14534-14803
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 9591aa4c-3faa-484c-b632-99607b05dbee
+    claim_hash: 2410b9ba63c058b77192b3dd378e3929cb64e7b5829417c6fc0d3b7742e43eaf
+    content: John Callahan was the Division Chief of the Accidents and Investigation Branch of the Federal Aviation Administration
+      when the 1986 Japan Airlines Flight 1628 UAP sighting occurred.
+    original_excerpt: John Callahan, who was the Division Chief of the Accidents and Investigation Branch of the Federal Aviation
+      Administration when the sighting occurred, later said there was also an order made by the CIA to deny the 1986 meeting
+      even happened.
+    claim_type: administrative
+    attestation: first_hand
+    speaker:
+      node_id: ec14592b-5208-48f3-b23f-88a280552626
+      title: John Callahan
+    provenance_chain:
+      origin_kind: speaker
+      origin: John Callahan
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 94a78181-7c9b-420b-973e-1bcb186b8fa5
+        title: Federal Aviation Administration (FAA)
+        slug: federal-aviation-administration-faa
+      - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
+        title: 2004 USS Nimitz UAP encounter
+        slug: 2004-uss-nimitz-uap-encounter
+      - node_id: ec14592b-5208-48f3-b23f-88a280552626
+        title: John Callahan
+        slug: john-callahan
+    date: null
+    date_end: null
+    location_in_record: ch12:14813-15045
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 20d443ff-3424-4b5f-ae49-ac877da927c7
+    claim_hash: c0f8c4a990a62e0206f5d4aa3e97a4eb9601b43ffd1697a22912930e7f7a88c1
+    content: Federal Aviation Administration manuals specifically advised civilian pilots to report UAPs to Robert Bigelow,
+      not to the Federal Aviation Administration.
+    original_excerpt: It also subsequently emerged that Federal Aviation Administration manuals specifically advised civilian
+      pilots to report UAPs to Bigelow, not to the FAA.
+    claim_type: administrative
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: named
+      origin: United States Federal Aviation Administration (FAA)
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 0d4dfba6-a53b-4f23-a2ad-e4c9bea44076
+        title: Robert Bigelow
+        slug: robert-bigelow
+      - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
+        title: Unidentified Anomalous Phenomena (UAP)
+        slug: unidentified-anomalous-phenomena-uap
+      - node_id: 94a78181-7c9b-420b-973e-1bcb186b8fa5
+        title: Federal Aviation Administration (FAA)
+        slug: federal-aviation-administration-faa
+    date: null
+    date_end: null
+    location_in_record: ch15:8121-8270
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: d723fc7c-8920-4f05-9c9b-469098a79334
+    claim_hash: 971bfdca75ad9b14d2f341f75fae115fead7d2231cd6c5c14a63b84a90638baa
+    content: At 11:30 PM on 2026-02-10, the Federal Aviation Administration (FAA) dramatically closed airspace over El Paso
+      Airport in Southern Texas without adequate warning to government agencies.
+    original_excerpt: At 11.30pm or thereabouts on the 10th of February, the Federal Aviation Administration dramatically
+      closed the airspace over El Paso without any or adequate warning to government agencies.
+    claim_type: observation
+    attestation: first_hand
+    speaker:
+      node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+      title: Ross Coulthart
+    provenance_chain:
+      origin_kind: speaker
+      origin: Ross Coulthart
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 942227d2-0ca6-413f-b80d-bc6475fc98ab
+        title: USA, Texas, El Paso
+        slug: texas-el-paso-usa
+      - node_id: 94a78181-7c9b-420b-973e-1bcb186b8fa5
+        title: Federal Aviation Administration (FAA)
+        slug: federal-aviation-administration-faa
+    date: '2026-02-10'
+    date_end: null
+    location_in_record: 00:08:14.4-00:08:29.4
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 308dd5bd-eed8-4f08-b15a-98f7bb989522
+      record_title: 'Ross Coulthart Q&A: Skywatcher didn''t disappear — it went government | Reality Check'
+      record_date: '2026-08-09'
+      record_reference: https://www.youtube.com/watch?v=IOZdVCoZ51Q
+      content_hash: sha256:76d7e7613c0a44bdb8d7e5ce87b2a23defe4a987cf1865be3ae1080cd1893d21
+      friendly_name: null
+  - claim_id: 5785c0ea-fb6e-497c-8cd9-a81fe4cbe776
+    claim_hash: a72b03914cfc3d0b2cc3ddca13ee5af96255f988834ad32b6f1a365f9502892c
+    content: The Federal Aviation Administration (FAA) announced a 10-day shutdown of airspace over El Paso without adequate
+      notice to local authorities.
+    original_excerpt: And with next to no notice to local authorities, the FAA shut a massive area over El Paso for what they
+      said would be a 10 day shutdown.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+      title: Ross Coulthart
+    provenance_chain:
+      origin_kind: speaker
+      origin: Ross Coulthart
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 942227d2-0ca6-413f-b80d-bc6475fc98ab
+        title: USA, Texas, El Paso
+        slug: texas-el-paso-usa
+      - node_id: 94a78181-7c9b-420b-973e-1bcb186b8fa5
+        title: Federal Aviation Administration (FAA)
+        slug: federal-aviation-administration-faa
+    date: null
+    date_end: null
+    location_in_record: 00:08:44.8-00:08:56.1
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 308dd5bd-eed8-4f08-b15a-98f7bb989522
+      record_title: 'Ross Coulthart Q&A: Skywatcher didn''t disappear — it went government | Reality Check'
+      record_date: '2026-08-09'
+      record_reference: https://www.youtube.com/watch?v=IOZdVCoZ51Q
+      content_hash: sha256:76d7e7613c0a44bdb8d7e5ce87b2a23defe4a987cf1865be3ae1080cd1893d21
+      friendly_name: null
+  - claim_id: 772b161c-c7b1-4fe4-a156-7b61c55760c1
+    claim_hash: 05ac86af41ca28586b66cd2653efa65853e0fd867917448c9d75a05452570f2c
+    content: Neither the Department of Defense (DoD), Department of Homeland Security (DHS), nor the Federal Aviation Administration
+      (FAA) offered further comment on the El Paso incident.
+    original_excerpt: Neither the Defence Department nor Homeland Security nor the FAA offered any further comment.
+    claim_type: observation
+    attestation: first_hand
+    speaker:
+      node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+      title: Ross Coulthart
+    provenance_chain:
+      origin_kind: speaker
+      origin: Ross Coulthart
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 502c7c1d-c898-4ec2-998e-4954e00b6437
+        title: Department of Homeland Security (DHS)
+        slug: department-of-homeland-security-dhs
+      - node_id: 94a78181-7c9b-420b-973e-1bcb186b8fa5
+        title: Federal Aviation Administration (FAA)
+        slug: federal-aviation-administration-faa
+      - node_id: 99f08514-5471-4eaf-bce3-46c474a8d304
+        title: United States Department of Defense (DoD)
+        slug: united-states-department-of-defense-dod
+    date: null
+    date_end: null
+    location_in_record: 00:10:47.3-00:10:54.4
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 308dd5bd-eed8-4f08-b15a-98f7bb989522
+      record_title: 'Ross Coulthart Q&A: Skywatcher didn''t disappear — it went government | Reality Check'
+      record_date: '2026-08-09'
+      record_reference: https://www.youtube.com/watch?v=IOZdVCoZ51Q
+      content_hash: sha256:76d7e7613c0a44bdb8d7e5ce87b2a23defe4a987cf1865be3ae1080cd1893d21
+      friendly_name: null
+  - claim_id: 922d143f-f125-40f1-a0e3-65095d3e320e
+    claim_hash: 23cb16f363ca252cd9bfbae7ff2f20cc6d385fac1763a2f69f845a2a7c759576
+    content: Approximately seven hours after the Federal Aviation Administration (FAA) imposed the El Paso airspace shutdown
+      on 2026-02-10, the restriction was lifted early the following morning around 07:00.
+    original_excerpt: Then just seven hours after the FAA imposed its El Paso shutdown, the restriction was lifted early the
+      next morning around 7am.
+    claim_type: observation
+    attestation: first_hand
+    speaker:
+      node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+      title: Ross Coulthart
+    provenance_chain:
+      origin_kind: speaker
+      origin: Ross Coulthart
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 942227d2-0ca6-413f-b80d-bc6475fc98ab
+        title: USA, Texas, El Paso
+        slug: texas-el-paso-usa
+      - node_id: 94a78181-7c9b-420b-973e-1bcb186b8fa5
+        title: Federal Aviation Administration (FAA)
+        slug: federal-aviation-administration-faa
+    date: '2026-02-10'
+    date_end: null
+    location_in_record: 00:11:07.1-00:11:18.1
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 308dd5bd-eed8-4f08-b15a-98f7bb989522
+      record_title: 'Ross Coulthart Q&A: Skywatcher didn''t disappear — it went government | Reality Check'
+      record_date: '2026-08-09'
+      record_reference: https://www.youtube.com/watch?v=IOZdVCoZ51Q
+      content_hash: sha256:76d7e7613c0a44bdb8d7e5ce87b2a23defe4a987cf1865be3ae1080cd1893d21
+      friendly_name: null
+  - claim_id: b9d12d9a-538c-4d98-a0b1-275e67f331d7
+    claim_hash: 69e43f6a4066aa3a9f53699e4aaeeea51f1f5c6eb8b375fda755e8ff5c846cfe
+    content: Republican Texas Senator Ted Cruz, chairman of the United States Senate Commerce Committee that oversees the
+      Federal Aviation Administration (FAA), demanded a classified briefing on what happened during the El Paso airspace closure.
+    original_excerpt: Republican Texas Senator Ted Cruz, the chairman of the Senate Commerce Committee that oversees the FAA,
+      demanded a classified briefing on what really happened.
+    claim_type: observation
+    attestation: first_hand
+    speaker:
+      node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+      title: Ross Coulthart
+    provenance_chain:
+      origin_kind: speaker
+      origin: Ross Coulthart
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 4336d36e-8d36-41e2-bf82-8d02bcb3e740
+        title: Ted Cruz
+        slug: ted-cruz
+      - node_id: 74c28a7d-b237-4cc3-9a5e-184bcbab1493
+        title: United States Senate Commerce Committee
+        slug: united-states-senate-commerce-committee
+      - node_id: 94a78181-7c9b-420b-973e-1bcb186b8fa5
+        title: Federal Aviation Administration (FAA)
+        slug: federal-aviation-administration-faa
+    date: '2026-02-10'
+    date_end: null
+    location_in_record: 00:11:28.0-00:11:40.2
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 308dd5bd-eed8-4f08-b15a-98f7bb989522
+      record_title: 'Ross Coulthart Q&A: Skywatcher didn''t disappear — it went government | Reality Check'
+      record_date: '2026-08-09'
+      record_reference: https://www.youtube.com/watch?v=IOZdVCoZ51Q
+      content_hash: sha256:76d7e7613c0a44bdb8d7e5ce87b2a23defe4a987cf1865be3ae1080cd1893d21
+      friendly_name: null
+  - claim_id: d061a8ab-65c4-4371-bc71-cf5d386ca017
+    claim_hash: 3b127b1d446c7133efb1308725269bc02a408bb35315c9912884d813d2818847
+    content: A Temporary Flight Restriction (TFR) notice, a Notices to Airmen (NOTAM) safety advisory to aviators, was posted
+      by the Federal Aviation Administration (FAA) on 2025-11-08, closing a massive area of airspace southeast of El Paso
+      through 2026-11-07.
+    original_excerpt: This is a NOTAM, a safety advisory to aviators, posted by the Federal Aviation Administration on 8th
+      November last year. closing a massive area of airspace southeast of El Paso right through to the 7th November this year.
+    claim_type: observation
+    attestation: first_hand
+    speaker:
+      node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+      title: Ross Coulthart
+    provenance_chain:
+      origin_kind: speaker
+      origin: Ross Coulthart
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 942227d2-0ca6-413f-b80d-bc6475fc98ab
+        title: USA, Texas, El Paso
+        slug: texas-el-paso-usa
+      - node_id: 94a78181-7c9b-420b-973e-1bcb186b8fa5
+        title: Federal Aviation Administration (FAA)
+        slug: federal-aviation-administration-faa
+    date: '2025-11-08'
+    date_end: null
+    location_in_record: 00:12:22.9-00:12:42.8
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 308dd5bd-eed8-4f08-b15a-98f7bb989522
+      record_title: 'Ross Coulthart Q&A: Skywatcher didn''t disappear — it went government | Reality Check'
+      record_date: '2026-08-09'
+      record_reference: https://www.youtube.com/watch?v=IOZdVCoZ51Q
+      content_hash: sha256:76d7e7613c0a44bdb8d7e5ce87b2a23defe4a987cf1865be3ae1080cd1893d21
+      friendly_name: null
+  - claim_id: e6eca51e-faf8-4b64-840a-7ecce6f1aac9
+    claim_hash: 49cbe29bec23adbb400526277695fd5ac91ae35f0b0f0eccc3ab26d1088e1566
+    content: The Temporary Flight Restriction (TFR) over Sierra Blanca was initiated by the Department of Defense (DoD)'s
+      Joint Special Operations Command (JSOC) liaison to the Federal Aviation Administration (FAA), stated as being imposed
+      to shoot down drones.
+    original_excerpt: I've also learned that the TFR, the shutdown, was initiated by the Defence Department's Joint Special
+      Operations Command, liaison to the FAA, and that it was imposed to, quote, shoot down drones.
+    claim_type: hearsay
+    attestation: second_hand
+    speaker:
+      node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+      title: Ross Coulthart
+    provenance_chain:
+      origin_kind: anonymous
+      origin: Defence sources
+      relay:
+        - Ross Coulthart
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 8761b44f-e46a-432c-bdc4-1360ab2cef1c
+        title: US Special Operations Command
+        slug: us-special-operations-command
+      - node_id: 94a78181-7c9b-420b-973e-1bcb186b8fa5
+        title: Federal Aviation Administration (FAA)
+        slug: federal-aviation-administration-faa
+      - node_id: 99f08514-5471-4eaf-bce3-46c474a8d304
+        title: United States Department of Defense (DoD)
+        slug: united-states-department-of-defense-dod
+      - node_id: c7a5cf34-9c45-4f54-848d-04bc67b04532
+        title: Sierra Blanca Temporary Flight Restriction
+        slug: sierra-blanca-temporary-flight-restriction
+    date: null
+    date_end: null
+    location_in_record: 00:14:03.8-00:14:20.4
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 308dd5bd-eed8-4f08-b15a-98f7bb989522
+      record_title: 'Ross Coulthart Q&A: Skywatcher didn''t disappear — it went government | Reality Check'
+      record_date: '2026-08-09'
+      record_reference: https://www.youtube.com/watch?v=IOZdVCoZ51Q
+      content_hash: sha256:76d7e7613c0a44bdb8d7e5ce87b2a23defe4a987cf1865be3ae1080cd1893d21
+      friendly_name: null

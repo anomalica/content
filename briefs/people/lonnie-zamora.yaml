@@ -1,0 +1,963 @@
+schema: anomalica/brief/1
+brief_hash: a04246920f8972452b9e873123f91607bd0b8f57dabc534ffbcbf63bdf4e335a
+page:
+  kind: entity
+  node_id: 7809c08f-f6ff-4c91-8d6e-d6dff08a7639
+  node_type: person
+  title: Lonnie Zamora
+  slug: lonnie-zamora
+  claim_count: 24
+  claim_count_total: 24
+generated:
+  graph_version: '2026-09-01T10:10:49.863545+00:00'
+size:
+  claims: 24
+  tokens_estimated: 6888
+  sized_against: 1050000
+publication:
+  status: published
+  note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
+    transcripts are gated elsewhere.
+belonging:
+  verified: 0
+  suspect_excluded: 0
+  unreviewed: 24
+related_nodes:
+  - node_id: 35e7651b-150c-447e-9b1e-f2919e4272f1
+    title: 1964 Socorro UAP encounter
+    node_type: event
+    slug: 1964-socorro-uap-encounter
+    shared_claims: 18
+  - node_id: ebb776dd-7416-4782-a345-9273c19c7fdd
+    title: USA, New Mexico, Socorro
+    node_type: place
+    slug: new-mexico-socorro-usa
+    shared_claims: 6
+  - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
+    title: 2004 USS Nimitz UAP encounter
+    node_type: event
+    slug: 2004-uss-nimitz-uap-encounter
+    shared_claims: 2
+  - node_id: d453ccde-7f73-40eb-b5fd-32c0b6319f1f
+    title: 1964 Socorro Butane-Tank UAP FBI Report
+    node_type: event
+    slug: 1964-socorro-butane-tank-uap-fbi-report
+    shared_claims: 1
+  - node_id: 38b84d4a-96df-4684-bb46-f6f64f392add
+    title: Central Intelligence Agency (CIA)
+    node_type: organisation
+    slug: central-intelligence-agency-cia
+    shared_claims: 1
+  - node_id: bfa2c88e-0510-4436-b895-7c21615b61ae
+    title: Hector Quintanilla
+    node_type: person
+    slug: hector-quintanilla
+    shared_claims: 1
+  - node_id: 98e50374-da8a-4414-998b-d42fce1cd3d7
+    title: Peter Khoury
+    node_type: person
+    slug: peter-khoury
+    shared_claims: 1
+  - node_id: 769601ed-5b7f-4833-ae21-5d60d0fddaaa
+    title: Project Blue Book
+    node_type: project
+    slug: project-blue-book
+    shared_claims: 1
+  - node_id: 55991bcf-937b-46da-9858-2b733307190b
+    title: Tic Tac
+    node_type: object
+    slug: tic-tac
+    shared_claims: 1
+  - node_id: 32b98a17-be55-4b0f-8e10-9d377e1e8b33
+    title: United States Air Force (USAF)
+    node_type: organisation
+    slug: united-states-air-force-usaf
+    shared_claims: 1
+claims:
+  - claim_id: 8f86b4ae-a001-44f0-8295-3f9a18924057
+    claim_hash: 457d7f75c5bfe9051af170d2902761d8c99e9842615a5428d86e9c7fac1e547e
+    content: Lonnie Zamora was the main witness at the 1964 Socorro UFO incident landing site near Socorro, New Mexico.
+    original_excerpt: The man standing at the left is the main witness, patrolman Lonnie Zamora.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 35e7651b-150c-447e-9b1e-f2919e4272f1
+        title: 1964 Socorro UAP encounter
+        slug: 1964-socorro-uap-encounter
+      - node_id: 7809c08f-f6ff-4c91-8d6e-d6dff08a7639
+        title: Lonnie Zamora
+        slug: lonnie-zamora
+      - node_id: ebb776dd-7416-4782-a345-9273c19c7fdd
+        title: USA, New Mexico, Socorro
+        slug: new-mexico-socorro-usa
+    date: null
+    date_end: null
+    location_in_record: ch4:17963-18030
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: f0690aba-c78b-47f4-bb2f-f94ea04d55ee
+      record_title: 'Messengers of Deception: UFO Contacts and Cults'
+      record_date: '0101-01-01'
+      record_reference: null
+      content_hash: sha256:0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5ac9fd3168
+      friendly_name: 0101-01-01-ebook-messengers-of-deception-ufo-contacts-and-cults
+  - claim_id: 693b0919-3b9e-4f63-9e70-9014cbd53e81
+    claim_hash: 2e316653341a7e962aae4e4e908107abb48f6ce34e62065e390066ae6d58a16c
+    content: In 1964 at Socorro, New Mexico, police officer Lonnie Zamora saw an egg-shaped object in the desert with two
+      small men near it.
+    original_excerpt: At Socorro, New Mexico, in 1964, officer Lonnie Zamora had seen an egg-shaped object in the desert,
+      with two rather small men near it.
+    claim_type: testimony
+    attestation: second_hand
+    speaker:
+      node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
+      title: Jacques Vallée
+    provenance_chain:
+      origin_kind: named
+      origin: Lonnie Zamora
+      relay:
+        - Jacques Vallee's account
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 35e7651b-150c-447e-9b1e-f2919e4272f1
+        title: 1964 Socorro UAP encounter
+        slug: 1964-socorro-uap-encounter
+      - node_id: 7809c08f-f6ff-4c91-8d6e-d6dff08a7639
+        title: Lonnie Zamora
+        slug: lonnie-zamora
+      - node_id: ebb776dd-7416-4782-a345-9273c19c7fdd
+        title: USA, New Mexico, Socorro
+        slug: new-mexico-socorro-usa
+    date: '1964'
+    date_end: null
+    location_in_record: ch12:31329-31460
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 220315f4-29cd-4c89-8860-44f95613d98f
+      record_title: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About UFO Influences on the Human Race'
+      record_date: '2014-09-27'
+      record_reference: null
+      content_hash: sha256:5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b8489cc11c26
+      friendly_name: 2014-09-27-ebook-the-invisible-college-what-a-group-of-scientists-has
+  - claim_id: 51b66edd-2a1d-4060-ba60-0ac2781877fa
+    claim_hash: 7e32d17579c029e373462e4acbfe9cd7e0880ed4f91f2b7014a79b8ab7b9650e
+    content: Lonnie Zamora saw a peculiar red sign on the side of the object he observed at Socorro, New Mexico in 1964, described
+      as a vertical arrow with a horizontal bar underneath, for which no explanation was ever found.
+    original_excerpt: On the side of this craft he had seen a peculiar red sign, a sort of vertical arrow with a horizontal
+      bar underneath. No explanation for this sign was ever found.
+    claim_type: testimony
+    attestation: second_hand
+    speaker:
+      node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
+      title: Jacques Vallée
+    provenance_chain:
+      origin_kind: named
+      origin: Lonnie Zamora
+      relay:
+        - Jacques Vallee's account
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 35e7651b-150c-447e-9b1e-f2919e4272f1
+        title: 1964 Socorro UAP encounter
+        slug: 1964-socorro-uap-encounter
+      - node_id: 7809c08f-f6ff-4c91-8d6e-d6dff08a7639
+        title: Lonnie Zamora
+        slug: lonnie-zamora
+    date: '1964'
+    date_end: null
+    location_in_record: ch12:31464-31620
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 220315f4-29cd-4c89-8860-44f95613d98f
+      record_title: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About UFO Influences on the Human Race'
+      record_date: '2014-09-27'
+      record_reference: null
+      content_hash: sha256:5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b8489cc11c26
+      friendly_name: 2014-09-27-ebook-the-invisible-college-what-a-group-of-scientists-has
+  - claim_id: 7af2ddb4-bd06-450d-aa8f-396ddae6ba13
+    claim_hash: d5d1391738f8a18ff816f113f452f1b5813d986043fb1b0ff00172f344f677e1
+    content: During the 1964 Lonnie Zamora Socorro UFO sighting, a highway patrolman saw a white object and two small occupants.
+    original_excerpt: An example of a sighting in category 5 which has received a great deal of publicity is the 1964 Socorro
+      case, in which a highway patrolman saw a white object and two rather small occupants.
+    claim_type: observation
+    attestation: second_hand
+    speaker:
+      node_id: 7809c08f-f6ff-4c91-8d6e-d6dff08a7639
+      title: Lonnie Zamora
+    provenance_chain:
+      origin_kind: named
+      origin: Lonnie Zamora
+      relay:
+        - published account of the sighting
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 35e7651b-150c-447e-9b1e-f2919e4272f1
+        title: 1964 Socorro UAP encounter
+        slug: 1964-socorro-uap-encounter
+      - node_id: 7809c08f-f6ff-4c91-8d6e-d6dff08a7639
+        title: Lonnie Zamora
+        slug: lonnie-zamora
+    date: '1964'
+    date_end: null
+    location_in_record: ch13:9789-9968
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 220315f4-29cd-4c89-8860-44f95613d98f
+      record_title: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About UFO Influences on the Human Race'
+      record_date: '2014-09-27'
+      record_reference: null
+      content_hash: sha256:5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b8489cc11c26
+      friendly_name: 2014-09-27-ebook-the-invisible-college-what-a-group-of-scientists-has
+  - claim_id: a8207411-7256-4060-944f-d981009dbde4
+    claim_hash: 4897672104422b223a4a27cd5cdb34299395c8ec06bb40189ca0d2f9f0866c31
+    content: Lonnie Zamora reported the 1964 Socorro UFO sighting to authorities but first asked to be left alone with a priest.
+    original_excerpt: Although he did report it, he first asked to be left alone with a priest!
+    claim_type: observation
+    attestation: second_hand
+    speaker:
+      node_id: 7809c08f-f6ff-4c91-8d6e-d6dff08a7639
+      title: Lonnie Zamora
+    provenance_chain:
+      origin_kind: named
+      origin: Lonnie Zamora
+      relay:
+        - published account of the sighting
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 35e7651b-150c-447e-9b1e-f2919e4272f1
+        title: 1964 Socorro UAP encounter
+        slug: 1964-socorro-uap-encounter
+      - node_id: 7809c08f-f6ff-4c91-8d6e-d6dff08a7639
+        title: Lonnie Zamora
+        slug: lonnie-zamora
+    date: '1964'
+    date_end: null
+    location_in_record: ch13:9979-10045
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 220315f4-29cd-4c89-8860-44f95613d98f
+      record_title: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About UFO Influences on the Human Race'
+      record_date: '2014-09-27'
+      record_reference: null
+      content_hash: sha256:5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b8489cc11c26
+      friendly_name: 2014-09-27-ebook-the-invisible-college-what-a-group-of-scientists-has
+  - claim_id: 0995e06c-1239-4fe8-985a-1a436b38be7c
+    claim_hash: fc76ca0d14113ddef7bc56f8255bd92d652b6fe3e3b13068171b14672c37437b
+    content: On 24 April 1964, police officer Lonnie Zamora witnessed a flaming object in the sky near Socorro, New Mexico
+      and went to investigate.
+    original_excerpt: Another extremely important sighting happened on the outskirts of Socorro, New Mexico, on 24 April 1964.
+      Police officer Lonnie Zamora witnessed a flaming object in the sky and went to investigate.
+    claim_type: observation
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: named
+      origin: Lonnie Zamora
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 35e7651b-150c-447e-9b1e-f2919e4272f1
+        title: 1964 Socorro UAP encounter
+        slug: 1964-socorro-uap-encounter
+      - node_id: 7809c08f-f6ff-4c91-8d6e-d6dff08a7639
+        title: Lonnie Zamora
+        slug: lonnie-zamora
+      - node_id: ebb776dd-7416-4782-a345-9273c19c7fdd
+        title: USA, New Mexico, Socorro
+        slug: new-mexico-socorro-usa
+    date: '1964-04-24'
+    date_end: null
+    location_in_record: ch10:7705-7889
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 22345138-7b2c-4255-ab8f-adbce8d1ed23
+    claim_hash: b5a9b71ad9e2331b49c50d54999bb2c44352c7cf0ec11894f708bf5f25faef0b
+    content: Lonnie Zamora came across a shiny whitish aluminium-coloured craft landed in a dry creek bed near Socorro, New
+      Mexico, with two small 'people' standing in white coveralls alongside it.
+    original_excerpt: He came across a shiny whitish aluminium-coloured craft landed in a dry creek bed with two small 'people'
+      standing in white coveralls alongside.
+    claim_type: observation
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: named
+      origin: Lonnie Zamora
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 35e7651b-150c-447e-9b1e-f2919e4272f1
+        title: 1964 Socorro UAP encounter
+        slug: 1964-socorro-uap-encounter
+      - node_id: 7809c08f-f6ff-4c91-8d6e-d6dff08a7639
+        title: Lonnie Zamora
+        slug: lonnie-zamora
+    date: '1964-04-24'
+    date_end: null
+    location_in_record: ch10:7902-8036
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: ed20fb76-7386-4f0b-b88e-c3a576f0ff90
+    claim_hash: dc939b3735173802b4909f6984fa7cae1296927a134dae146e0c995ad5443ca4
+    content: As Lonnie Zamora approached the craft near Socorro in 1964, the oval-shaped object rose off the ground and he
+      noticed it had red lettering on its side.
+    original_excerpt: As he began approaching, the oval-shaped object rose off the ground; he noticed it had red lettering
+      on its side.
+    claim_type: observation
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: named
+      origin: Lonnie Zamora
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 35e7651b-150c-447e-9b1e-f2919e4272f1
+        title: 1964 Socorro UAP encounter
+        slug: 1964-socorro-uap-encounter
+      - node_id: 7809c08f-f6ff-4c91-8d6e-d6dff08a7639
+        title: Lonnie Zamora
+        slug: lonnie-zamora
+    date: '1964-04-24'
+    date_end: null
+    location_in_record: ch10:8047-8155
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 69cbc373-965b-47b8-a126-6665e119c803
+    claim_hash: 4377174d9ed5d25187432e55059e0cca4663294162414cb2592898dc8044d940
+    content: Declassified CIA files reveal that Hector Quintanilla, the Project Blue Book officer in charge of the Zamora
+      investigation, was convinced Lonnie Zamora was telling the truth and described the case as 'the best-documented case
+      on record'.
+    original_excerpt: Declassified CIA files reveal the Project Blue Book officer in charge of the Zamora investigation, Hector
+      Quintanilla, was convinced Zamora was telling the truth, describing the case as 'the best-documented case on record'.
+    claim_type: testimony
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: named
+      origin: Hector Quintanilla
+      relay:
+        - declassified Central Intelligence Agency files
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 38b84d4a-96df-4684-bb46-f6f64f392add
+        title: Central Intelligence Agency (CIA)
+        slug: central-intelligence-agency-cia
+      - node_id: 769601ed-5b7f-4833-ae21-5d60d0fddaaa
+        title: Project Blue Book
+        slug: project-blue-book
+      - node_id: 7809c08f-f6ff-4c91-8d6e-d6dff08a7639
+        title: Lonnie Zamora
+        slug: lonnie-zamora
+      - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
+        title: 2004 USS Nimitz UAP encounter
+        slug: 2004-uss-nimitz-uap-encounter
+      - node_id: bfa2c88e-0510-4436-b895-7c21615b61ae
+        title: Hector Quintanilla
+        slug: hector-quintanilla
+    date: null
+    date_end: null
+    location_in_record: ch10:8498-8713
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: b739da33-2834-4915-b2c7-1914462da8af
+    claim_hash: 3b0bb1454e161266c695e1546b8d29c4829b2c8d109bdc07538addc7f807251d
+    content: Lonnie Zamora was a police officer in Socorro, New Mexico.
+    original_excerpt: Take the case of Lonnie Zamora, a police officer in the small town of Socorro, New Mexico, about an
+      hour south of Albuquerque.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 7809c08f-f6ff-4c91-8d6e-d6dff08a7639
+        title: Lonnie Zamora
+        slug: lonnie-zamora
+      - node_id: ebb776dd-7416-4782-a345-9273c19c7fdd
+        title: USA, New Mexico, Socorro
+        slug: new-mexico-socorro-usa
+    date: null
+    date_end: null
+    location_in_record: ch12:21223-21337
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  - claim_id: fdf2b279-9840-4d7d-bd1c-1c87eef52c56
+    claim_hash: a2dcd405367de2e9ac111c4ceec620e778381866f3bed24e8e355899d5c893b9
+    content: In 1964-04, Lonnie Zamora chased a speeding car through the desert near Socorro, New Mexico, and encountered
+      an egg-shaped or Tic Tac-shaped object with a metallic white surface and spindly white landing gear in a nearby arroyo.
+    original_excerpt: April 1964, Zamora chased a speeding car through the desert. Around dusk he spotted what looked initially
+      like a car wreck in a nearby arroyo... what had looked like an overturned vehicle now resembled a large egg or Tic Tac–shaped
+      object with a metallic white surface, spindly white landing gear, and some cryptic writing on its side.
+    claim_type: testimony
+    attestation: second_hand
+    speaker:
+      node_id: 7809c08f-f6ff-4c91-8d6e-d6dff08a7639
+      title: Lonnie Zamora
+    provenance_chain:
+      origin_kind: named
+      origin: Lonnie Zamora
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 35e7651b-150c-447e-9b1e-f2919e4272f1
+        title: 1964 Socorro UAP encounter
+        slug: 1964-socorro-uap-encounter
+      - node_id: 55991bcf-937b-46da-9858-2b733307190b
+        title: Tic Tac
+        slug: tic-tac
+      - node_id: 7809c08f-f6ff-4c91-8d6e-d6dff08a7639
+        title: Lonnie Zamora
+        slug: lonnie-zamora
+    date: 1964-04
+    date_end: null
+    location_in_record: ch12:21379-21783
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  - claim_id: 7a91e2fc-0a59-4d55-944e-5a00281d64f9
+    claim_hash: f08f921dbc5ae49ad4c5246031b403dc56c871fea598028dacb224f3af7f9e65
+    content: Before stepping out of his vehicle during his 1964 encounter near Socorro, New Mexico, Lonnie Zamora radioed
+      his location and told the radio operator at the station that he would investigate the object.
+    original_excerpt: He stopped his vehicle, radioed his location in, and advised the radio operator back at the station
+      that he would investigate the object.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 7809c08f-f6ff-4c91-8d6e-d6dff08a7639
+      title: Lonnie Zamora
+    provenance_chain:
+      origin_kind: speaker
+      origin: Lonnie Zamora
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 7809c08f-f6ff-4c91-8d6e-d6dff08a7639
+        title: Lonnie Zamora
+        slug: lonnie-zamora
+      - node_id: ebb776dd-7416-4782-a345-9273c19c7fdd
+        title: USA, New Mexico, Socorro
+        slug: new-mexico-socorro-usa
+    date: 1964-04
+    date_end: null
+    location_in_record: ch12:21533-21663
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  - claim_id: bb349617-191d-4c6c-b51f-efd9e90de347
+    claim_hash: 3397e107cc4ebb9437a4a25cd4b0d6cc954d41eab759a2c5ac39312a67b6d1fe
+    content: Lonnie Zamora observed two figures dressed in white uniforms near the object he encountered at Socorro, New Mexico
+      in 1964.
+    original_excerpt: That's when Zamora observed two figures dressed in white uniforms nearby.
+    claim_type: testimony
+    attestation: second_hand
+    speaker:
+      node_id: 7809c08f-f6ff-4c91-8d6e-d6dff08a7639
+      title: Lonnie Zamora
+    provenance_chain:
+      origin_kind: named
+      origin: Lonnie Zamora
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 35e7651b-150c-447e-9b1e-f2919e4272f1
+        title: 1964 Socorro UAP encounter
+        slug: 1964-socorro-uap-encounter
+      - node_id: 7809c08f-f6ff-4c91-8d6e-d6dff08a7639
+        title: Lonnie Zamora
+        slug: lonnie-zamora
+    date: 1964-04
+    date_end: null
+    location_in_record: ch12:21958-22024
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  - claim_id: 35f24cf3-2169-40e8-9fc1-0dbba530f2ab
+    claim_hash: 4fd8f12acefc0362d1081adf181b342bfb6a1fd5dd49fb3fe4b123c7b2db638d
+    content: When the two figures saw Lonnie Zamora at Socorro, New Mexico in 1964, they dashed aboard the object.
+    original_excerpt: Seeing Zamora, the pair dashed aboard the vessel.
+    claim_type: testimony
+    attestation: second_hand
+    speaker:
+      node_id: 7809c08f-f6ff-4c91-8d6e-d6dff08a7639
+      title: Lonnie Zamora
+    provenance_chain:
+      origin_kind: named
+      origin: Lonnie Zamora
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 35e7651b-150c-447e-9b1e-f2919e4272f1
+        title: 1964 Socorro UAP encounter
+        slug: 1964-socorro-uap-encounter
+      - node_id: 7809c08f-f6ff-4c91-8d6e-d6dff08a7639
+        title: Lonnie Zamora
+        slug: lonnie-zamora
+    date: 1964-04
+    date_end: null
+    location_in_record: ch12:22032-22074
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  - claim_id: 9256beb2-c92f-4f5c-9040-569e847aa75c
+    claim_hash: b30b76c221f110d832071f486c9b217fa71a2be2453afa539f76a1d11cae6381
+    content: The object Lonnie Zamora encountered at Socorro, New Mexico in 1964 had no visible means of propulsion but rose
+      from the ground with a roar, spewing blue-orange flames and leaving scorched vegetation behind.
+    original_excerpt: Outwardly the craft had no visible means of propulsion, but it nevertheless rose from the ground with
+      a roar, spewing blue-orange flames and leaving behind scorched vegetation in its wake.
+    claim_type: testimony
+    attestation: second_hand
+    speaker:
+      node_id: 7809c08f-f6ff-4c91-8d6e-d6dff08a7639
+      title: Lonnie Zamora
+    provenance_chain:
+      origin_kind: named
+      origin: Lonnie Zamora
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 35e7651b-150c-447e-9b1e-f2919e4272f1
+        title: 1964 Socorro UAP encounter
+        slug: 1964-socorro-uap-encounter
+      - node_id: 7809c08f-f6ff-4c91-8d6e-d6dff08a7639
+        title: Lonnie Zamora
+        slug: lonnie-zamora
+    date: 1964-04
+    date_end: null
+    location_in_record: ch12:22082-22265
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  - claim_id: a3051216-7745-4cdc-9b1d-9c9d8f70fa54
+    claim_hash: 0ac3b3d96a0d719bde37c8452083f0946c9116942e9a78d337064a5c16ee45c5
+    content: Investigators immediately dismissed the possibility that Lonnie Zamora had orchestrated a hoax or was seeking
+      attention.
+    original_excerpt: Investigators immediately dismissed thoughts of him orchestrating a hoax or being an attention-seeker.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 7809c08f-f6ff-4c91-8d6e-d6dff08a7639
+        title: Lonnie Zamora
+        slug: lonnie-zamora
+      - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
+        title: 2004 USS Nimitz UAP encounter
+        slug: 2004-uss-nimitz-uap-encounter
+    date: 1964-04
+    date_end: null
+    location_in_record: ch12:23293-23388
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  - claim_id: 35d1d6b2-11b6-4f66-b3b4-78fd168a14ec
+    claim_hash: 17c55434d57780f64b7cd72e351f60980ccc23e72c15d306493e812ffcd045a0
+    content: In the days following Lonnie Zamora's 1964 encounter at Socorro, New Mexico, the story appeared in newspapers
+      and on radio and television broadcasts throughout the United States.
+    original_excerpt: In the days that followed Zamora's encounter, the story appeared in newspapers and radio and television
+      broadcasts throughout the United States.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 35e7651b-150c-447e-9b1e-f2919e4272f1
+        title: 1964 Socorro UAP encounter
+        slug: 1964-socorro-uap-encounter
+      - node_id: 7809c08f-f6ff-4c91-8d6e-d6dff08a7639
+        title: Lonnie Zamora
+        slug: lonnie-zamora
+    date: 1964-04
+    date_end: null
+    location_in_record: ch12:24115-24252
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  - claim_id: b13d053a-6f49-4340-a6ba-1d7161afb49f
+    claim_hash: 72a5023348dc694e00b8ce0601035752aa648e4743128f7459c4e5f9b6da6981
+    content: Lonnie Zamora never tried to profit from his 1964 Socorro, New Mexico Unidentified Aerial Phenomena (UAP) encounter
+      and did not seek out media attention.
+    original_excerpt: Zamora never tried to profit from his encounter, nor did he seek out media attention.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 35e7651b-150c-447e-9b1e-f2919e4272f1
+        title: 1964 Socorro UAP encounter
+        slug: 1964-socorro-uap-encounter
+      - node_id: 7809c08f-f6ff-4c91-8d6e-d6dff08a7639
+        title: Lonnie Zamora
+        slug: lonnie-zamora
+    date: null
+    date_end: null
+    location_in_record: ch12:24260-24335
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  - claim_id: aa8af8a0-9b62-45c5-87af-8e718ec4eb5e
+    claim_hash: 68b4f62ee54b0312727402877417d70409299332b618972a67fd383665f2f3d3
+    content: Lonnie Zamora saw an egg-shaped object with markings or insignia on its side during the 1964 Socorro, New Mexico
+      UAP encounter.
+    original_excerpt: When Lonnie Zamora peered into that arroyo in Socorro, New Mexico, back in 1964, he saw an egg-shaped
+      object with some sort of markings or insignia on its side.
+    claim_type: observation
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: named
+      origin: Lonnie Zamora
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 35e7651b-150c-447e-9b1e-f2919e4272f1
+        title: 1964 Socorro UAP encounter
+        slug: 1964-socorro-uap-encounter
+      - node_id: 7809c08f-f6ff-4c91-8d6e-d6dff08a7639
+        title: Lonnie Zamora
+        slug: lonnie-zamora
+    date: 1964-04
+    date_end: null
+    location_in_record: ch13:102-257
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  - claim_id: 10d5c854-b36d-4cdc-bb5c-9ba70a1a4490
+    claim_hash: 8da4a8031c6cce86aa654ab47c7f8c0ad29db9c57d4c6c8f2caadf440ddce314
+    content: The United States Air Force warned Lonnie Zamora not to share knowledge of the markings he saw on the object
+      during the 1964 Socorro UAP encounter with civilians.
+    original_excerpt: He was strictly warned by the Air Force not to share that knowledge with civilians, and he kept his
+      word.
+    claim_type: testimony
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 32b98a17-be55-4b0f-8e10-9d377e1e8b33
+        title: United States Air Force (USAF)
+        slug: united-states-air-force-usaf
+      - node_id: 35e7651b-150c-447e-9b1e-f2919e4272f1
+        title: 1964 Socorro UAP encounter
+        slug: 1964-socorro-uap-encounter
+      - node_id: 7809c08f-f6ff-4c91-8d6e-d6dff08a7639
+        title: Lonnie Zamora
+        slug: lonnie-zamora
+    date: 1964-04
+    date_end: null
+    location_in_record: ch13:263-363
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  - claim_id: 8c452cf5-3a0f-40e9-aacc-d126959f0b91
+    claim_hash: 12957d5262bfb26b02a163e011e974f8843afba4d913cb8429035cefbf3a81d2
+    content: The April 1964 "butane tank" report near Socorro, New Mexico is from the same week as Lonnie Zamora's sighting
+      of a white, egg-shaped object that blasted off from the desert floor.
+    original_excerpt: The so-called butane tank report is from the same week as Lonnie Zamora’s sighting of a white, egg-shaped
+      object that blasted off from the desert floor.
+    claim_type: hearsay
+    attestation: second_hand
+    speaker:
+      node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+      title: Luis Elizondo
+    provenance_chain:
+      origin_kind: named
+      origin: a historical report reviewed by Lue Elizondo
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 7809c08f-f6ff-4c91-8d6e-d6dff08a7639
+        title: Lonnie Zamora
+        slug: lonnie-zamora
+      - node_id: d453ccde-7f73-40eb-b5fd-32c0b6319f1f
+        title: 1964 Socorro Butane-Tank UAP FBI Report
+        slug: 1964-socorro-butane-tank-uap-fbi-report
+      - node_id: ebb776dd-7416-4782-a345-9273c19c7fdd
+        title: USA, New Mexico, Socorro
+        slug: new-mexico-socorro-usa
+    date: 1964-04
+    date_end: null
+    location_in_record: ch15:12979-13125
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  - claim_id: 621cbaaa-a666-48a2-8476-f93d43854587
+    claim_hash: 9a8a96d0df588a5b3ced37a36a5504d3fa559aabfa2d33476f0de292a9698b84
+    content: During the 1964 Socorro, New Mexico UAP encounter, policeman Lonnie Zamora witnessed an egg-shaped craft take
+      off from the desert floor with a loud roar and a blast of blue flame.
+    original_excerpt: When the egg-shaped craft took off from the desert floor, it had done so with a huge roar and a blast
+      of blue flame.
+    claim_type: testimony
+    attestation: second_hand
+    speaker:
+      node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+      title: Luis Elizondo
+    provenance_chain:
+      origin_kind: named
+      origin: Lonnie Zamora
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 35e7651b-150c-447e-9b1e-f2919e4272f1
+        title: 1964 Socorro UAP encounter
+        slug: 1964-socorro-uap-encounter
+      - node_id: 7809c08f-f6ff-4c91-8d6e-d6dff08a7639
+        title: Lonnie Zamora
+        slug: lonnie-zamora
+    date: 1964-04
+    date_end: null
+    location_in_record: ch25:3694-3804
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  - claim_id: 84f32bbb-0f5c-4d2f-9483-ba57240ef0b9
+    claim_hash: 0b5f0230c1bc3ef3ce2d0db9c5d0c08ef7e4a1a3d521ae95fdd85a675f38d515
+    content: Lonnie Zamora ran up a ravine to escape during the 1964 Socorro UAP encounter, fearing the craft might explode.
+    original_excerpt: It was so loud Zamora ran furiously up the ravine to escape, fearful that the aircraft might explode.
+    claim_type: testimony
+    attestation: second_hand
+    speaker:
+      node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+      title: Luis Elizondo
+    provenance_chain:
+      origin_kind: named
+      origin: Lonnie Zamora
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 35e7651b-150c-447e-9b1e-f2919e4272f1
+        title: 1964 Socorro UAP encounter
+        slug: 1964-socorro-uap-encounter
+      - node_id: 7809c08f-f6ff-4c91-8d6e-d6dff08a7639
+        title: Lonnie Zamora
+        slug: lonnie-zamora
+    date: 1964-04
+    date_end: null
+    location_in_record: ch25:3811-3904
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  - claim_id: 27b2556c-343e-47e2-9036-ac4fc66d1b92
+    claim_hash: 4473a5ce72a447ef3fde5faf569d332a50c62935382dbffe669b138a857a3145
+    content: An anonymous or informal recollection relayed by Peter Khoury holds that Lonnie Zamora reportedly saw an egg-shaped
+      object landed in a desert.
+    original_excerpt: Maybe, um, uh, officer Samora saw one landed in a, yeah, in a desert
+    claim_type: hearsay
+    attestation: second_hand
+    speaker:
+      node_id: 98e50374-da8a-4414-998b-d42fce1cd3d7
+      title: Peter Khoury
+    provenance_chain:
+      origin_kind: named
+      origin: Lonnie Zamora
+      relay:
+        - public UFO reporting known to Peter Khoury
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 7809c08f-f6ff-4c91-8d6e-d6dff08a7639
+        title: Lonnie Zamora
+        slug: lonnie-zamora
+      - node_id: 98e50374-da8a-4414-998b-d42fce1cd3d7
+        title: Peter Khoury
+        slug: peter-khoury
+    date: null
+    date_end: null
+    location_in_record: 00:13:09.7-00:13:14.6
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3b05e864-7a02-462a-828a-903374db8ce7
+      record_title: UFO Witness Reveals CHILLING Daytime Alien Encounter - Peter Khoury - DEBRIEFED ep. 58
+      record_date: '2025-10-17'
+      record_reference: https://www.youtube.com/watch?v=wX3whEVHr3g
+      content_hash: sha256:b75101566131346a95237998494f68630d802a73409e5a64893cf350b414c437
+      friendly_name: 2025-10-17-video-ufo-witness-reveals-chilling-daytime-alien-encounter-peter.v2

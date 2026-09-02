@@ -1,0 +1,1291 @@
+schema: anomalica/brief/1
+brief_hash: 44aa2f338545025fb27b293f65a7d6f2d9e7a78a8331da6f1d555e473907e15c
+page:
+  kind: entity
+  node_id: e95835fe-733e-4777-bb60-740d9727e2c8
+  node_type: person
+  title: Adolf Hitler
+  slug: adolf-hitler
+  claim_count: 29
+  claim_count_total: 29
+generated:
+  graph_version: '2026-09-01T10:10:49.863545+00:00'
+size:
+  claims: 29
+  tokens_estimated: 8760
+  sized_against: 1050000
+publication:
+  status: published
+  note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
+    transcripts are gated elsewhere.
+belonging:
+  verified: 0
+  suspect_excluded: 0
+  unreviewed: 29
+related_nodes:
+  - node_id: 17011d27-e3b5-4be6-90a7-2e7371cca217
+    title: Heinrich Himmler
+    node_type: person
+    slug: heinrich-himmler
+    shared_claims: 4
+  - node_id: 6f90c776-6afc-49e2-ac5a-9335d9259398
+    title: Wernher von Braun
+    node_type: person
+    slug: wernher-von-braun
+    shared_claims: 4
+  - node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+    title: Whitley Strieber
+    node_type: person
+    slug: whitley-strieber
+    shared_claims: 4
+  - node_id: cf9d0841-4c94-4e97-ad97-131b028af237
+    title: Schutzstaffel (SS)
+    node_type: organisation
+    slug: schutzstaffel-ss
+    shared_claims: 3
+  - node_id: 1b3aac69-4e88-4547-b310-19382c120ca2
+    title: Surveyor 3
+    node_type: object
+    slug: surveyor-3
+    shared_claims: 3
+  - node_id: 40d18355-b10b-4329-80ae-38f03e36ad2d
+    title: 1944 Normandy landings
+    node_type: event
+    slug: 1944-normandy-landings
+    shared_claims: 2
+  - node_id: bb31f7ea-899c-4373-872c-8c326d325928
+    title: Apollo 16
+    node_type: project
+    slug: apollo-16
+    shared_claims: 2
+  - node_id: 3dda57d8-c397-48d6-a3c5-d00e07ec5761
+    title: Hitler visit to Von Braun's rocket labs, 1939
+    node_type: event
+    slug: 1939-hitler-visit-to-von-brauns-rocket-labs
+    shared_claims: 2
+  - node_id: 7c0fb053-a549-4708-ad43-36c596382880
+    title: In Hitler's House (Whitley Strieber)
+    node_type: document
+    slug: in-hitlers-house-whitley-strieber
+    shared_claims: 2
+  - node_id: f2b59785-32d0-4810-9217-82ba05a14d6f
+    title: Nicholas Goodrick-Clarke
+    node_type: person
+    slug: nicholas-goodrick-clarke
+    shared_claims: 2
+  - node_id: 9dd4a9e0-df04-4593-83cb-d36dc7dabdab
+    title: Pius XII
+    node_type: person
+    slug: pius-xii
+    shared_claims: 2
+  - node_id: c1ad3ee7-c763-4f80-98d8-d7e03d0409f6
+    title: Teutonic Knights
+    node_type: organisation
+    slug: teutonic-knights
+    shared_claims: 2
+  - node_id: 15f79cad-e99c-4db2-91e2-933b5588f120
+    title: Alan Bean
+    node_type: person
+    slug: alan-bean
+    shared_claims: 1
+  - node_id: 383fc644-c1b4-4a39-bf62-5b14ba2db5cc
+    title: Aleister Crowley
+    node_type: person
+    slug: aleister-crowley
+    shared_claims: 1
+  - node_id: fbddadeb-6e3a-4acb-9869-5b40400952c0
+    title: Amazon Air
+    node_type: organisation
+    slug: amazon-air
+    shared_claims: 1
+  - node_id: 663c59e3-0b99-4577-b723-d5d1337aa119
+    title: Apollo 12
+    node_type: project
+    slug: apollo-12
+    shared_claims: 1
+  - node_id: 09224572-7980-4e4d-a433-e05c3a40a77e
+    title: Atlantis
+    node_type: topic
+    slug: atlantis
+    shared_claims: 1
+  - node_id: ac7bb1f5-4935-4a97-b71c-27c03b4bfdd8
+    title: France
+    node_type: place
+    slug: france
+    shared_claims: 1
+  - node_id: 7e213c84-f41b-4dd5-bdd6-d36f13e5a7dd
+    title: Frederick Barbarossa
+    node_type: person
+    slug: frederick-barbarossa
+    shared_claims: 1
+  - node_id: 83a5ac93-e63d-4766-b1fc-947b71aadfb1
+    title: German invasion of Poland (1939-09-01)
+    node_type: event
+    slug: german-invasion-of-poland-1939-09-01
+    shared_claims: 1
+  - node_id: 7fee53d0-5e14-48a6-aef1-fc546fc5a9f7
+    title: Germany, Düsseldorf
+    node_type: place
+    slug: dusseldorf-germany
+    shared_claims: 1
+  - node_id: 77ee2894-8bfa-43c7-a4c8-928e5f750caf
+    title: Germany, Peenemunde
+    node_type: place
+    slug: peenemunde-germany
+    shared_claims: 1
+  - node_id: 31fa3fce-35c9-47d4-b1a4-06c103bc1347
+    title: Google
+    node_type: organisation
+    slug: google
+    shared_claims: 1
+  - node_id: c38ab265-3a8b-4a95-aea7-9eb7d97ef0b5
+    title: Joseph Stalin
+    node_type: person
+    slug: joseph-stalin
+    shared_claims: 1
+  - node_id: d9568d4a-1240-497c-8e1a-3fa293d054b6
+    title: Knights Templar
+    node_type: organisation
+    slug: knights-templar
+    shared_claims: 1
+  - node_id: 96b642e6-02a9-4e45-a3fc-bb061b47f56e
+    title: London Controlling Section (LCS)
+    node_type: organisation
+    slug: london-controlling-section-lcs
+    shared_claims: 1
+  - node_id: d5224a9c-0d69-4b8d-b27b-0ffc20e0b713
+    title: Major Murphy
+    node_type: person
+    slug: major-murphy
+    shared_claims: 1
+  - node_id: 5e47c787-005b-4c91-ba4b-c9bec48146c9
+    title: National Aeronautics and Space Administration (NASA)
+    node_type: organisation
+    slug: national-aeronautics-and-space-administration-nasa
+    shared_claims: 1
+  - node_id: c343da6b-4b14-4ada-96c3-42b8dbff22bf
+    title: Oceanus Procellarum
+    node_type: place
+    slug: oceanus-procellarum
+    shared_claims: 1
+  - node_id: 2bd9d043-7930-45eb-93b3-ddeec7e67dba
+    title: Orion (Apollo 16 Lunar Module)
+    node_type: object
+    slug: orion-apollo-16-lunar-module
+    shared_claims: 1
+claims:
+  - claim_id: c461ee3f-0cdb-40d5-b4a0-814f08717f82
+    claim_hash: 450e2c05b6c8d1abe485b5fdc21b73f0491205aa9fa2ded9effdace85734277b
+    content: The London Controlling Section (LCS) arranged a secret alliance in which the Soviets and Americans agreed with
+      the British on worldwide manoeuvres that were feints to deceive Adolf Hitler, keeping many Wehrmacht divisions expecting
+      attacks that would never materialise while the 1944 Normandy landings proceeded toward surprise.
+    original_excerpt: Their tasks extended to a secret alliance in which the Soviets and the Americans agreed with the British
+      on worldwide maneuvers that were merely feints to deceive Hitler and that kept many Wehrmacht divisions expecting attacks
+      that would never materialize, while the Normandy landing proceeded toward its achievement of total surprise.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 40d18355-b10b-4329-80ae-38f03e36ad2d
+        title: 1944 Normandy landings
+        slug: 1944-normandy-landings
+      - node_id: 96b642e6-02a9-4e45-a3fc-bb061b47f56e
+        title: London Controlling Section (LCS)
+        slug: london-controlling-section-lcs
+      - node_id: e95835fe-733e-4777-bb60-740d9727e2c8
+        title: Adolf Hitler
+        slug: adolf-hitler
+    date: null
+    date_end: null
+    location_in_record: ch13:21526-21852
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: f0690aba-c78b-47f4-bb2f-f94ea04d55ee
+      record_title: 'Messengers of Deception: UFO Contacts and Cults'
+      record_date: '0101-01-01'
+      record_reference: null
+      content_hash: sha256:0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5ac9fd3168
+      friendly_name: 0101-01-01-ebook-messengers-of-deception-ufo-contacts-and-cults
+  - claim_id: 00fd7d2a-3449-41d0-8ba3-215055e53fed
+    claim_hash: be027e3e626d9d4a0a91f5d8c0c6b8f77df52f5738ccd9b3209a0edb35bfd731
+    content: Aleister Crowley's influence on Adolf Hitler was more imaginary than real.
+    original_excerpt: whose influence on Hitler was more imaginary than real.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
+      title: Jacques Vallée
+    provenance_chain:
+      origin_kind: speaker
+      origin: Jacques Vallée
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 383fc644-c1b4-4a39-bf62-5b14ba2db5cc
+        title: Aleister Crowley
+        slug: aleister-crowley
+      - node_id: e95835fe-733e-4777-bb60-740d9727e2c8
+        title: Adolf Hitler
+        slug: adolf-hitler
+    date: null
+    date_end: null
+    location_in_record: ch13:9851-9901
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: f0690aba-c78b-47f4-bb2f-f94ea04d55ee
+      record_title: 'Messengers of Deception: UFO Contacts and Cults'
+      record_date: '0101-01-01'
+      record_reference: null
+      content_hash: sha256:0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5ac9fd3168
+      friendly_name: 0101-01-01-ebook-messengers-of-deception-ufo-contacts-and-cults
+  - claim_id: a012db17-ebb1-42a4-a952-f43a65e7a65f
+    claim_hash: 7c380cb3d7a71860cca3de794ef891d969b3a8b31c27e675285ed9a1b9750dcf
+    content: Major Murphy told Jacques Vallée that Adolf Hitler had 95 percent of the information about the landing in Normandy,
+      but it was the wrong 95 percent.
+    original_excerpt: You see, Hitler had 95 percent of the information about the landing in Normandy. But he had the wrong
+      95 percent!
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: d5224a9c-0d69-4b8d-b27b-0ffc20e0b713
+      title: Major Murphy
+    provenance_chain:
+      origin_kind: speaker
+      origin: Major Murphy
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 40d18355-b10b-4329-80ae-38f03e36ad2d
+        title: 1944 Normandy landings
+        slug: 1944-normandy-landings
+      - node_id: d5224a9c-0d69-4b8d-b27b-0ffc20e0b713
+        title: Major Murphy
+        slug: major-murphy
+      - node_id: e95835fe-733e-4777-bb60-740d9727e2c8
+        title: Adolf Hitler
+        slug: adolf-hitler
+    date: null
+    date_end: null
+    location_in_record: ch8:13420-13525
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: f0690aba-c78b-47f4-bb2f-f94ea04d55ee
+      record_title: 'Messengers of Deception: UFO Contacts and Cults'
+      record_date: '0101-01-01'
+      record_reference: null
+      content_hash: sha256:0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5ac9fd3168
+      friendly_name: 0101-01-01-ebook-messengers-of-deception-ufo-contacts-and-cults
+  - claim_id: 3771f05f-ffbf-4129-bcb5-b453263d1bd8
+    claim_hash: d6877c461aaced3472087b84afb28f7cce968ab59c3f89bc8c49e10015ddb564
+    content: Pius XII is described as a man of compromise who tried to please everyone and avoided confrontation, and whose
+      inability to stand firm was his undoing in his early confrontation with Hitler and the Nazis in Rome.
+    original_excerpt: Pius XII was a man of compromise, who tried to please everyone and avoided confrontation. His inability
+      to stand firm and fight for his convictions was his undoing in the early years of his papacy, in his confrontation with
+      Hitler and later with the Nazis in Rome.
+    claim_type: opinion
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 9dd4a9e0-df04-4593-83cb-d36dc7dabdab
+        title: Pius XII
+        slug: pius-xii
+      - node_id: e95835fe-733e-4777-bb60-740d9727e2c8
+        title: Adolf Hitler
+        slug: adolf-hitler
+    date: null
+    date_end: null
+    location_in_record: ch15:16339-16598
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 171e1337-151f-40c5-8b9a-659faac4c5f6
+      record_title: The Fatima Secret
+      record_date: '2000-11-28'
+      record_reference: null
+      content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
+      friendly_name: 2000-11-28-ebook-the-fatima-secret
+  - claim_id: 5c90c1b1-9901-4152-afa3-b4249f88f8e6
+    claim_hash: a1027cba518b621e0cfd2b402024e77ee3774ee8d4be1e92a0effdb9da25e08e
+    content: Although historically proven to have helped thousands of Jews escape, Pius XII never spoke out openly against
+      Hitler's anti-Semitism, which made him a target of criticism.
+    original_excerpt: Although it has been historically proven that he helped thousands of Jews to escape, the fact is that
+      he never spoke out openly against Hitler's anti-Semitism, and this made him a target of criticism.
+    claim_type: opinion
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 9dd4a9e0-df04-4593-83cb-d36dc7dabdab
+        title: Pius XII
+        slug: pius-xii
+      - node_id: e95835fe-733e-4777-bb60-740d9727e2c8
+        title: Adolf Hitler
+        slug: adolf-hitler
+    date: null
+    date_end: null
+    location_in_record: ch15:16604-16794
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 171e1337-151f-40c5-8b9a-659faac4c5f6
+      record_title: The Fatima Secret
+      record_date: '2000-11-28'
+      record_reference: null
+      content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
+      friendly_name: 2000-11-28-ebook-the-fatima-secret
+  - claim_id: f89d6eb0-bd19-4e7a-8fe9-6744893bdfd4
+    claim_hash: f42d94d5f1a3c8a52d364558fcd624c7911c25305830cc43dc72639a517ffa3d
+    content: At about the time of the 1938 aurora event, Adolf Hitler was in Berlin preparing for the invasion of Austria.
+    original_excerpt: At about the same time as the blood-colored sky appeared in Europe, Adolf Hitler, in Berlin, was already
+      preparing for the invasion of Austria.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 7fee53d0-5e14-48a6-aef1-fc546fc5a9f7
+        title: Germany, Düsseldorf
+        slug: dusseldorf-germany
+      - node_id: e95835fe-733e-4777-bb60-740d9727e2c8
+        title: Adolf Hitler
+        slug: adolf-hitler
+    date: 1938-01
+    date_end: null
+    location_in_record: ch15:4115-4250
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 171e1337-151f-40c5-8b9a-659faac4c5f6
+      record_title: The Fatima Secret
+      record_date: '2000-11-28'
+      record_reference: null
+      content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
+      friendly_name: 2000-11-28-ebook-the-fatima-secret
+  - claim_id: ffe920fc-8d82-4f15-b95f-9992b5be65b7
+    claim_hash: eef375a7615762145bfb0f84ab3e0a5699a31c887a305c86fe2fcb6ea275613a
+    content: On 1939-09-01, Hitler's troops swept into Poland.
+    original_excerpt: On September 1, Hitler's troops swept into Poland.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 83a5ac93-e63d-4766-b1fc-947b71aadfb1
+        title: German invasion of Poland (1939-09-01)
+        slug: german-invasion-of-poland-1939-09-01
+      - node_id: e95835fe-733e-4777-bb60-740d9727e2c8
+        title: Adolf Hitler
+        slug: adolf-hitler
+      - node_id: ed6044f3-2633-4434-ad7c-5400246cf987
+        title: Poland
+        slug: poland
+    date: '1939-09-01'
+    date_end: null
+    location_in_record: ch15:6066-6109
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 171e1337-151f-40c5-8b9a-659faac4c5f6
+      record_title: The Fatima Secret
+      record_date: '2000-11-28'
+      record_reference: null
+      content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
+      friendly_name: 2000-11-28-ebook-the-fatima-secret
+  - claim_id: cb006f68-f2cb-45d0-8457-c6099d512b12
+    claim_hash: 81c6fcd58de7e6a5c213b5ae85d20ab31d39634715b252d5f3581842f7ccb01e
+    content: On 1939-09-02, Great Britain and France sent Hitler an ultimatum demanding the end of all military action by
+      1939-09-03.
+    original_excerpt: On September 2, Great Britain and France sent him an ultimatum demanding the end of all military action
+      by September 3, 1939.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: ac7bb1f5-4935-4a97-b71c-27c03b4bfdd8
+        title: France
+        slug: france
+      - node_id: e2e54c56-bb2e-404b-acde-395745fc950c
+        title: UK
+        slug: uk
+      - node_id: e95835fe-733e-4777-bb60-740d9727e2c8
+        title: Adolf Hitler
+        slug: adolf-hitler
+    date: '1939-09-02'
+    date_end: null
+    location_in_record: ch15:6117-6237
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 171e1337-151f-40c5-8b9a-659faac4c5f6
+      record_title: The Fatima Secret
+      record_date: '2000-11-28'
+      record_reference: null
+      content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
+      friendly_name: 2000-11-28-ebook-the-fatima-secret
+  - claim_id: 2d50166e-9809-445c-9722-b1554e947b83
+    claim_hash: 6d167ff9f512c3e6ac5cb7332a3e1a265837bdcce7adb9c0cd28b4eeeffc19c2
+    content: During Pius XI's reign the Church had to withstand the persecutions of Adolf Hitler and Joseph Stalin.
+    original_excerpt: During his reign the Church had to withstand the persecutions of Hitler and Stalin.
+    claim_type: observation
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: c38ab265-3a8b-4a95-aea7-9eb7d97ef0b5
+        title: Joseph Stalin
+        slug: joseph-stalin
+      - node_id: e95835fe-733e-4777-bb60-740d9727e2c8
+        title: Adolf Hitler
+        slug: adolf-hitler
+      - node_id: ea3e7b89-6994-43a0-9d5c-a95036c69a23
+        title: Pius XI
+        slug: pius-xi
+    date: null
+    date_end: null
+    location_in_record: ch21:10489-10565
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 171e1337-151f-40c5-8b9a-659faac4c5f6
+      record_title: The Fatima Secret
+      record_date: '2000-11-28'
+      record_reference: null
+      content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
+      friendly_name: 2000-11-28-ebook-the-fatima-secret
+  - claim_id: b50d24a5-152b-40c8-81c4-83bb430f635d
+    claim_hash: eaaa3eca48b9a4778f3e70afe8302fa331d56acd5092e01bc4702507ce72226a
+    content: Adolf Hitler and Heinrich Himmler believed that the ancient Egyptian gods came from Atlantis, which they believed
+      was a high civilisation established on Earth by extraterrestrials.
+    original_excerpt: Goodrick-Clarke also shows that Hitler and Himmler believed that these Egyptian gods themselves came
+      from "Atlantis"—which they believed was "a high civilization established on Earth by extraterrestrials."
+    claim_type: hearsay
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: document
+      origin: The Occult Roots of Nazism (book)
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 09224572-7980-4e4d-a433-e05c3a40a77e
+        title: Atlantis
+        slug: atlantis
+      - node_id: 17011d27-e3b5-4be6-90a7-2e7371cca217
+        title: Heinrich Himmler
+        slug: heinrich-himmler
+      - node_id: e95835fe-733e-4777-bb60-740d9727e2c8
+        title: Adolf Hitler
+        slug: adolf-hitler
+    date: null
+    date_end: null
+    location_in_record: ch12:121510-121696
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+      record_title: Dark Mission
+      record_date: '2010-07-22'
+      record_reference: null
+      content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+      friendly_name: null
+  - claim_id: 207c4a81-d265-48cd-bfdb-78fd1abe5dbd
+    claim_hash: 51999693a1a01087085c41ce9504ac89c615e782b575947a261e9cdb4b4a84e5
+    content: 1967-04-20, the date of the Surveyor 3 landing, is Adolf Hitler's birthday.
+    original_excerpt: no, the thing that stood out most about that date and time … was that it just "happened" to be—Adolf
+      Hitler's birthday.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 1b3aac69-4e88-4547-b310-19382c120ca2
+        title: Surveyor 3
+        slug: surveyor-3
+      - node_id: e95835fe-733e-4777-bb60-740d9727e2c8
+        title: Adolf Hitler
+        slug: adolf-hitler
+    date: '1967-04-20'
+    date_end: null
+    location_in_record: ch12:133740-133852
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+      record_title: Dark Mission
+      record_date: '2010-07-22'
+      record_reference: null
+      content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+      friendly_name: null
+  - claim_id: 56896a55-073a-4a3c-bc92-422f0fa1fc88
+    claim_hash: 1e6f70f3f06719fdf8baeed1750acdd53d949b157acbeff3e4a16e64c7558829
+    content: Apollo 16 landed on the Moon on 1972-04-20, Adolf Hitler's birthday.
+    original_excerpt: The second time was with Apollo 16, in 1972... Once again—on Hitler's date of birth.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: bb31f7ea-899c-4373-872c-8c326d325928
+        title: Apollo 16
+        slug: apollo-16
+      - node_id: e95835fe-733e-4777-bb60-740d9727e2c8
+        title: Adolf Hitler
+        slug: adolf-hitler
+    date: '1972-04-20'
+    date_end: null
+    location_in_record: ch12:134134-134208
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+      record_title: Dark Mission
+      record_date: '2010-07-22'
+      record_reference: null
+      content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+      friendly_name: null
+  - claim_id: 8d007149-e8d8-4c9e-996f-fa16b9aba490
+    claim_hash: 753dcd13821c7e0ee81af6d1cce8b87773ffce024a7062d3c2a87cff5db8333c
+    content: NASA originally landed Surveyor 3 on the Moon in Oceanus Procellarum on 1967-04-20, which was Adolf Hitler's
+      birthday.
+    original_excerpt: NASA had originally landed Surveyor 3 there on April 20, 1967 (remember, Hitler’s birthday).
+    claim_type: observation
+    attestation: first_hand
+    speaker:
+      node_id: e1650a1d-8feb-4841-a403-0d71e176d2d9
+      title: Richard C. Hoagland
+    provenance_chain:
+      origin_kind: speaker
+      origin: Richard C. Hoagland
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 1b3aac69-4e88-4547-b310-19382c120ca2
+        title: Surveyor 3
+        slug: surveyor-3
+      - node_id: 5e47c787-005b-4c91-ba4b-c9bec48146c9
+        title: National Aeronautics and Space Administration (NASA)
+        slug: national-aeronautics-and-space-administration-nasa
+      - node_id: c343da6b-4b14-4ada-96c3-42b8dbff22bf
+        title: Oceanus Procellarum
+        slug: oceanus-procellarum
+      - node_id: e95835fe-733e-4777-bb60-740d9727e2c8
+        title: Adolf Hitler
+        slug: adolf-hitler
+    date: '1967-04-20'
+    date_end: null
+    location_in_record: ch12:162311-162393
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+      record_title: Dark Mission
+      record_date: '2010-07-22'
+      record_reference: null
+      content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+      friendly_name: null
+  - claim_id: 4f4f0e6c-32b9-4613-b9e7-c3e1dbcf50c3
+    claim_hash: 34be4227840db63bdd50f09510bd6a3c6f7e2f20718b80b4d5baf665afbeb1dd
+    content: Apollo 12 astronaut Alan Bean inspected the Surveyor 3 spacecraft, which had soft-landed in virtually the same
+      location as the Apollo 12 lunar module, more than two years earlier, on Adolf Hitler's birthday.
+    original_excerpt: Fig. 5-7 - Apollo 12 astronaut Alan Bean inspects the Surveyor 3 spacecraft, which had soft landed in
+      virtually the same location as Apollo 12 (note Lunar Module on Surveyor crater rim), but more than two years earlier
+      - on *Adolf Hitler’s birthday* (NASA).
+    claim_type: observation
+    attestation: second_hand
+    speaker:
+      node_id: e1650a1d-8feb-4841-a403-0d71e176d2d9
+      title: Richard C. Hoagland
+    provenance_chain:
+      origin_kind: document
+      origin: NASA photograph caption
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 15f79cad-e99c-4db2-91e2-933b5588f120
+        title: Alan Bean
+        slug: alan-bean
+      - node_id: 1b3aac69-4e88-4547-b310-19382c120ca2
+        title: Surveyor 3
+        slug: surveyor-3
+      - node_id: 663c59e3-0b99-4577-b723-d5d1337aa119
+        title: Apollo 12
+        slug: apollo-12
+      - node_id: e95835fe-733e-4777-bb60-740d9727e2c8
+        title: Adolf Hitler
+        slug: adolf-hitler
+    date: null
+    date_end: null
+    location_in_record: ch12:166580-166831
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+      record_title: Dark Mission
+      record_date: '2010-07-22'
+      record_reference: null
+      content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+      friendly_name: null
+  - claim_id: a1a8ec38-3dcb-40ca-8ed5-53f2592697f0
+    claim_hash: a7bcf4a041beb76d2632f1b67f7dff7607c9e462b6988bbb71616b56e7700eda
+    content: An official photograph exists of the 1939 briefing and rocket demonstration for Adolf Hitler by Wernher von Braun's
+      amateur rocket team, which led directly to von Braun being personally offered a commission in the SS by Reichsführer
+      Heinrich Himmler and to the V-2 programme at Peenemunde.
+    original_excerpt: Fig. 5-24 -Official photograph of the 1939 briefing and rocket demonstration for Adolf Hitler (front
+      row, center) by Von Braun’s (inset) “amateur” rocket team - which led directly to Von Braun being personally offered
+      a commission in the S.S. by Reichsführer Heinrich Himmler, and the V-2 Program at Peenemunde (National Archive)
+    claim_type: observation
+    attestation: second_hand
+    speaker:
+      node_id: e1650a1d-8feb-4841-a403-0d71e176d2d9
+      title: Richard C. Hoagland
+    provenance_chain:
+      origin_kind: document
+      origin: USA, National Archives
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 17011d27-e3b5-4be6-90a7-2e7371cca217
+        title: Heinrich Himmler
+        slug: heinrich-himmler
+      - node_id: 3dda57d8-c397-48d6-a3c5-d00e07ec5761
+        title: Hitler visit to Von Braun's rocket labs, 1939
+        slug: 1939-hitler-visit-to-von-brauns-rocket-labs
+      - node_id: 6f90c776-6afc-49e2-ac5a-9335d9259398
+        title: Wernher von Braun
+        slug: wernher-von-braun
+      - node_id: 77ee2894-8bfa-43c7-a4c8-928e5f750caf
+        title: Germany, Peenemunde
+        slug: peenemunde-germany
+      - node_id: cf9d0841-4c94-4e97-ad97-131b028af237
+        title: Schutzstaffel (SS)
+        slug: schutzstaffel-ss
+      - node_id: e95835fe-733e-4777-bb60-740d9727e2c8
+        title: Adolf Hitler
+        slug: adolf-hitler
+    date: '1939'
+    date_end: null
+    location_in_record: ch12:170033-170354
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+      record_title: Dark Mission
+      record_date: '2010-07-22'
+      record_reference: null
+      content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+      friendly_name: null
+  - claim_id: f44f1b0e-ae47-4d90-8b74-2202a5bcc5a7
+    claim_hash: b5698a3a11d291d33907736bf346db0cccc1030da6cbf6a7754926c0eebb7ad4
+    content: The Apollo 16 lunar module named Orion landed on the Moon on 1972-04-20, Adolf Hitler's birthday.
+    original_excerpt: Fig. 5-35 - Alignments at the landing of Apollo 16 lunar module “Orion” on April 20th, 1972 (Adolf Hitler’s
+      birthday).
+    claim_type: observation
+    attestation: first_hand
+    speaker:
+      node_id: e1650a1d-8feb-4841-a403-0d71e176d2d9
+      title: Richard C. Hoagland
+    provenance_chain:
+      origin_kind: speaker
+      origin: Richard C. Hoagland
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 2bd9d043-7930-45eb-93b3-ddeec7e67dba
+        title: Orion (Apollo 16 Lunar Module)
+        slug: orion-apollo-16-lunar-module
+      - node_id: bb31f7ea-899c-4373-872c-8c326d325928
+        title: Apollo 16
+        slug: apollo-16
+      - node_id: e95835fe-733e-4777-bb60-740d9727e2c8
+        title: Adolf Hitler
+        slug: adolf-hitler
+    date: '1972-04-20'
+    date_end: null
+    location_in_record: ch12:172657-172765
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+      record_title: Dark Mission
+      record_date: '2010-07-22'
+      record_reference: null
+      content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+      friendly_name: null
+  - claim_id: 45c2eee3-1fb2-4a6f-a443-1f88c6012ecc
+    claim_hash: f84a9ce2a8315381a201e7b9752eef73905e14ec3e580bf8319e63af255b1e83
+    content: When Adolf Hitler came to power in 1933, Wernher von Braun remained in Germany even though he could have left
+      for France, England, or America.
+    original_excerpt: When Hitler came to power in 1933, Von Braun remained in Germany, even though he could have left and
+      gone to France, England or America.
+    claim_type: observation
+    attestation: first_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: speaker
+      origin: Richard C. Hoagland
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 6f90c776-6afc-49e2-ac5a-9335d9259398
+        title: Wernher von Braun
+        slug: wernher-von-braun
+      - node_id: e95835fe-733e-4777-bb60-740d9727e2c8
+        title: Adolf Hitler
+        slug: adolf-hitler
+    date: '1933'
+    date_end: null
+    location_in_record: ch12:95777-95905
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+      record_title: Dark Mission
+      record_date: '2010-07-22'
+      record_reference: null
+      content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+      friendly_name: null
+  - claim_id: 41f0093b-fb6c-437c-a61a-a9879d25c800
+    claim_hash: 7a170ee55df253cc11f094d298251ed2f238de47a277c64282da397a3b51378c
+    content: Colonel Walter Dornberger was personally assigned by Adolf Hitler to oversee Wernher von Braun's research for
+      military applications.
+    original_excerpt: Colonel Walter Dornberger was personally assigned by Hitler to oversee the research for "military applications."
+    claim_type: observation
+    attestation: first_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: speaker
+      origin: Richard C. Hoagland
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 021c3825-858e-41b2-b3b4-af181f35d70c
+        title: Walter Dornberger
+        slug: walter-dornberger
+      - node_id: 6f90c776-6afc-49e2-ac5a-9335d9259398
+        title: Wernher von Braun
+        slug: wernher-von-braun
+      - node_id: e95835fe-733e-4777-bb60-740d9727e2c8
+        title: Adolf Hitler
+        slug: adolf-hitler
+    date: null
+    date_end: null
+    location_in_record: ch12:96011-96109
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+      record_title: Dark Mission
+      record_date: '2010-07-22'
+      record_reference: null
+      content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+      friendly_name: null
+  - claim_id: b0da43cb-b990-46de-8416-c8451ddcd580
+    claim_hash: 6fadb7767b3937f08cf8ed8182d042edfce269824401a70c035d90bbdb098b0d
+    content: In 1939, Adolf Hitler personally visited Wernher von Braun's laboratories and was shown a demonstration of the
+      rockets developed by von Braun's team.
+    original_excerpt: In 1939, Adolf Hitler himself visited the young scientist's labs where he was treated to an impressive
+      demonstration of the capabilities of the rockets Von Braun's team had been developing
+    claim_type: observation
+    attestation: first_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: speaker
+      origin: Richard C. Hoagland
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 3dda57d8-c397-48d6-a3c5-d00e07ec5761
+        title: Hitler visit to Von Braun's rocket labs, 1939
+        slug: 1939-hitler-visit-to-von-brauns-rocket-labs
+      - node_id: 6f90c776-6afc-49e2-ac5a-9335d9259398
+        title: Wernher von Braun
+        slug: wernher-von-braun
+      - node_id: e95835fe-733e-4777-bb60-740d9727e2c8
+        title: Adolf Hitler
+        slug: adolf-hitler
+    date: '1939'
+    date_end: null
+    location_in_record: ch12:96125-96303
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+      record_title: Dark Mission
+      record_date: '2010-07-22'
+      record_reference: null
+      content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+      friendly_name: null
+  - claim_id: 93b9abc2-d4ac-40f0-8770-46f55f3c188e
+    claim_hash: 186b26e1ca138101b6863f803f647556a5932f5ab8dcb87e09407b2c0ad63b83
+    content: Heinrich Himmler was responsible for the growth of the Schutzstaffel (SS) from a small personal bodyguard for
+      Adolf Hitler into a massive organisation with its own mission, objectives, army and internal structure.
+    original_excerpt: Himmler was responsible for the growth and maturation of the SS, from Hitler's initially small personal
+      bodyguard, to a massive organization with its own unique mission, objectives, army and internal structure.
+    claim_type: observation
+    attestation: first_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: speaker
+      origin: Richard C. Hoagland
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 17011d27-e3b5-4be6-90a7-2e7371cca217
+        title: Heinrich Himmler
+        slug: heinrich-himmler
+      - node_id: cf9d0841-4c94-4e97-ad97-131b028af237
+        title: Schutzstaffel (SS)
+        slug: schutzstaffel-ss
+      - node_id: e95835fe-733e-4777-bb60-740d9727e2c8
+        title: Adolf Hitler
+        slug: adolf-hitler
+    date: null
+    date_end: null
+    location_in_record: ch12:97401-97601
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+      record_title: Dark Mission
+      record_date: '2010-07-22'
+      record_reference: null
+      content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+      friendly_name: null
+  - claim_id: ebc19839-a392-42d9-b224-ddff38d41dea
+    claim_hash: e06182fd246bd2e7863be871a5f0c8f239b252deafb259784518bcefbcf79ecb
+    content: The Schutzstaffel (SS) led the persecution of Freemasons, and later Jews and other racial minorities, in Adolf
+      Hitler's Germany.
+    original_excerpt: the SS led the persecution of Freemasons (and later Jews and other racial minorities) in Hitler's Germany.
+    claim_type: observation
+    attestation: first_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: speaker
+      origin: Richard C. Hoagland
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: cf9d0841-4c94-4e97-ad97-131b028af237
+        title: Schutzstaffel (SS)
+        slug: schutzstaffel-ss
+      - node_id: e95835fe-733e-4777-bb60-740d9727e2c8
+        title: Adolf Hitler
+        slug: adolf-hitler
+    date: null
+    date_end: null
+    location_in_record: ch12:97764-97862
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+      record_title: Dark Mission
+      record_date: '2010-07-22'
+      record_reference: null
+      content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+      friendly_name: null
+  - claim_id: d674726f-38f6-40fd-a19e-eba3314eed6c
+    claim_hash: d1c1a77aca2f70457077a2d42af4dbc645d56225a4d32e27bba1656eab954356
+    content: Nicholas Goodrick-Clarke of Oxford University, author of The Occult Roots of Nazism, wrote that Adolf Hitler
+      and Heinrich Himmler considered the Nazi party to be a direct lineal descendant of the Teutonic Knights.
+    original_excerpt: According to Dr. Nicholas Goodrick-Clarke of Oxford University and author of The Occult Roots of Nazism,
+      Hitler and Himmler considered the Nazi party to be a direct lineal descendant of the Teutonic Knights
+    claim_type: opinion
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: named
+      origin: Nicholas Goodrick-Clarke
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 17011d27-e3b5-4be6-90a7-2e7371cca217
+        title: Heinrich Himmler
+        slug: heinrich-himmler
+      - node_id: 948b479b-d152-4417-9083-eef4f620c673
+        title: Oxford University
+        slug: oxford-university
+      - node_id: c1ad3ee7-c763-4f80-98d8-d7e03d0409f6
+        title: Teutonic Knights
+        slug: teutonic-knights
+      - node_id: e95835fe-733e-4777-bb60-740d9727e2c8
+        title: Adolf Hitler
+        slug: adolf-hitler
+      - node_id: f2b59785-32d0-4810-9217-82ba05a14d6f
+        title: Nicholas Goodrick-Clarke
+        slug: nicholas-goodrick-clarke
+      - node_id: f2fe9c2b-0039-4162-8b3c-3cb515e2fe89
+        title: The Occult Roots of Nazism (book)
+        slug: the-occult-roots-of-nazism-book
+    date: null
+    date_end: null
+    location_in_record: ch12:97872-98073
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+      record_title: Dark Mission
+      record_date: '2010-07-22'
+      record_reference: null
+      content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+      friendly_name: null
+  - claim_id: ecc188c4-1bf8-4173-9117-0a193db0a265
+    claim_hash: 036b14dfd72bdf9de38320e884dfafa575c60e5bae6797419707b07388969dda
+    content: Nicholas Goodrick-Clarke wrote that Adolf Hitler considered himself a reincarnation of Frederick Barbarossa,
+      the founder of the Teutonic Knights offshoot of the Knights Templar.
+    original_excerpt: and Hitler himself to be a reincarnate of Frederick Barbarossa, the founder of that offshoot of the
+      Knights Templar
+    claim_type: opinion
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: named
+      origin: Nicholas Goodrick-Clarke
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 7e213c84-f41b-4dd5-bdd6-d36f13e5a7dd
+        title: Frederick Barbarossa
+        slug: frederick-barbarossa
+      - node_id: c1ad3ee7-c763-4f80-98d8-d7e03d0409f6
+        title: Teutonic Knights
+        slug: teutonic-knights
+      - node_id: d9568d4a-1240-497c-8e1a-3fa293d054b6
+        title: Knights Templar
+        slug: knights-templar
+      - node_id: e95835fe-733e-4777-bb60-740d9727e2c8
+        title: Adolf Hitler
+        slug: adolf-hitler
+      - node_id: f2b59785-32d0-4810-9217-82ba05a14d6f
+        title: Nicholas Goodrick-Clarke
+        slug: nicholas-goodrick-clarke
+    date: null
+    date_end: null
+    location_in_record: ch12:98082-98190
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+      record_title: Dark Mission
+      record_date: '2010-07-22'
+      record_reference: null
+      content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+      friendly_name: null
+  - claim_id: 8d4379d0-482c-4d0f-b72e-7083c2e4c1ff
+    claim_hash: 18b2dae8da9ea82bf0894b6382144ddf54400ced6fe1a872543455c15bfd524f
+    content: In compliance with Adolf Hitler's orders, the A4 flying bomb was deployed against Britain in 1944.
+    original_excerpt: In compliance with Hitler's orders, the A4 flying bomb was deployed against Britain in 1944.
+    claim_type: observation
+    attestation: first_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: speaker
+      origin: Richard C. Hoagland
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 19c7009f-60ab-42a7-9403-65d7bbc6e5f0
+        title: V-2 bombing of London, 1944
+        slug: 1944-v-2-bombing-of-london
+      - node_id: e95835fe-733e-4777-bb60-740d9727e2c8
+        title: Adolf Hitler
+        slug: adolf-hitler
+    date: '1944'
+    date_end: null
+    location_in_record: ch12:99596-99683
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+      record_title: Dark Mission
+      record_date: '2010-07-22'
+      record_reference: null
+      content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+      friendly_name: null
+  - claim_id: f09cca35-4a15-4589-b0ce-7e015a2aae2f
+    claim_hash: 8ad1f6865744c39a6e03f8fb5968ceae88f735be978817404d5eba975f943ba2
+    content: 1998-04-20, the date of a NASA Cydonia observation announcement, is also the birthday of Adolf Hitler.
+    original_excerpt: On April 20, 1998 (yes, Hitler’s birthday), NASA again posted a document
+    claim_type: opinion
+    attestation: first_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: speaker
+      origin: Richard C. Hoagland
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: e95835fe-733e-4777-bb60-740d9727e2c8
+        title: Adolf Hitler
+        slug: adolf-hitler
+    date: '1998-04-20'
+    date_end: null
+    location_in_record: ch13:43387-43451
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+      record_title: Dark Mission
+      record_date: '2010-07-22'
+      record_reference: null
+      content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+      friendly_name: null
+  - claim_id: 39984a5d-1019-4712-9775-cbc8ff83d8b9
+    claim_hash: 035dbe3b06cad5294a7705b281f190381f874283ac62c4dd87333bdb1b0277b3
+    content: Whitley Strieber's book In Hitler's House is written from the viewpoint of someone who was with Adolf Hitler
+      before and during World War II, and required perfect period detail of clothing, food, pens, bed linen and toiletries.
+    original_excerpt: So I'm writing this book and it's from the viewpoint of someone who was there with Hitler. before and
+      during the World War. So it's gotta be, the verisimilitude has to be perfect. It's not just a historical novel, you've
+      got to know what kind of suits they wore, what kind of things they ate, what kind of pens they used, what their bed
+      linen felt like, what they bathed with, what kind of toothpaste they used, all of that stuff.
+    claim_type: administrative
+    attestation: first_hand
+    speaker:
+      node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+      title: Whitley Strieber
+    provenance_chain:
+      origin_kind: speaker
+      origin: Whitley Strieber
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+        title: Whitley Strieber
+        slug: whitley-strieber
+      - node_id: 7c0fb053-a549-4708-ad43-36c596382880
+        title: In Hitler's House (Whitley Strieber)
+        slug: in-hitlers-house-whitley-strieber
+      - node_id: dcb95bd1-7593-4fe4-a992-2fc6a05fcb2c
+        title: World War II
+        slug: world-war-ii
+      - node_id: e95835fe-733e-4777-bb60-740d9727e2c8
+        title: Adolf Hitler
+        slug: adolf-hitler
+    date: null
+    date_end: null
+    location_in_record: 02:12:01.4-02:12:36.1
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 9302c6b2-133d-4cbb-adfa-5d1f0bd3e7ac
+      record_title: The Terrible Truth About the Visitors - Whitley Strieber | ep. 96
+      record_date: '2026-07-24'
+      record_reference: https://www.youtube.com/watch?v=Cv-sk4vt-qU
+      content_hash: sha256:456dbde0ab82ee8e216bdad2d1a0bf2a0b42622a167af19058f973050b035084
+      friendly_name: null
+  - claim_id: 21628406-d58a-40a9-9a4b-d9a63732add5
+    claim_hash: 3f57cd74e26b013e5d40f3537d6d983eb973d0ccb405c3eb273b40fa4bf2713f
+    content: While seeking details of Adolf Hitler's personal life for In Hitler's House, Whitley Strieber unexpectedly found
+      himself on the German-language Google, translated the page, and found an article about a book written by one of Adolf
+      Hitler's valets about his experience in that role.
+    original_excerpt: Like I needed something, some details about Hitler's personal life. ... And somehow or another, I end
+      up on the German language, Google. I don't know how I got there suddenly. And I get it, Google translate the page. And
+      on the page that I'm on is a story about one of Hitler's valets who wrote a book about him, about his experience as
+      Hitler's valet.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+      title: Whitley Strieber
+    provenance_chain:
+      origin_kind: speaker
+      origin: Whitley Strieber
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 31fa3fce-35c9-47d4-b1a4-06c103bc1347
+        title: Google
+        slug: google
+      - node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+        title: Whitley Strieber
+        slug: whitley-strieber
+      - node_id: 7c0fb053-a549-4708-ad43-36c596382880
+        title: In Hitler's House (Whitley Strieber)
+        slug: in-hitlers-house-whitley-strieber
+      - node_id: e95835fe-733e-4777-bb60-740d9727e2c8
+        title: Adolf Hitler
+        slug: adolf-hitler
+    date: null
+    date_end: null
+    location_in_record: 02:12:54.3-02:13:33.9
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 9302c6b2-133d-4cbb-adfa-5d1f0bd3e7ac
+      record_title: The Terrible Truth About the Visitors - Whitley Strieber | ep. 96
+      record_date: '2026-07-24'
+      record_reference: https://www.youtube.com/watch?v=Cv-sk4vt-qU
+      content_hash: sha256:456dbde0ab82ee8e216bdad2d1a0bf2a0b42622a167af19058f973050b035084
+      friendly_name: null
+  - claim_id: 4194c8e7-3ce1-4bf4-8e69-0f3109769058
+    claim_hash: f86a876df43c050c194fbb9b0eb8c60bc0ba6b5b43deacda039b2bd1c15e41ec
+    content: Whitley Strieber bought the German-language memoir by one of Adolf Hitler's valets from the German Amazon site;
+      the book has never been translated into English.
+    original_excerpt: So I go on the German Amazon and I find the book. It's in German. It's never been translated into English.
+      I buy it. it comes a couple of weeks later.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+      title: Whitley Strieber
+    provenance_chain:
+      origin_kind: speaker
+      origin: Whitley Strieber
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+        title: Whitley Strieber
+        slug: whitley-strieber
+      - node_id: e95835fe-733e-4777-bb60-740d9727e2c8
+        title: Adolf Hitler
+        slug: adolf-hitler
+      - node_id: fbddadeb-6e3a-4acb-9869-5b40400952c0
+        title: Amazon Air
+        slug: amazon-air
+    date: null
+    date_end: null
+    location_in_record: 02:13:37.8-02:13:48.8
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 9302c6b2-133d-4cbb-adfa-5d1f0bd3e7ac
+      record_title: The Terrible Truth About the Visitors - Whitley Strieber | ep. 96
+      record_date: '2026-07-24'
+      record_reference: https://www.youtube.com/watch?v=Cv-sk4vt-qU
+      content_hash: sha256:456dbde0ab82ee8e216bdad2d1a0bf2a0b42622a167af19058f973050b035084
+      friendly_name: null
+  - claim_id: 0fa92e2b-1254-4b7f-aa2e-be2283c38303
+    claim_hash: 9e04eaa6b5136b95ed70cc516a2d516ee9b69c76b374022f2d93a92312f220e4
+    content: A German-speaking member of a group of Whitley Strieber's friends offered to translate the valet's memoir of
+      Adolf Hitler for him, giving him details such as Adolf Hitler's brand of toothpaste.
+    original_excerpt: And I mention it with a group of friends. And one of the people says, oh, I'm from Germany. I speak
+      German. I'll read it. I'll translate it for you. And so I get every detail about Hitler's brand of toothpaste and everything.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+      title: Whitley Strieber
+    provenance_chain:
+      origin_kind: speaker
+      origin: Whitley Strieber
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+        title: Whitley Strieber
+        slug: whitley-strieber
+      - node_id: e95835fe-733e-4777-bb60-740d9727e2c8
+        title: Adolf Hitler
+        slug: adolf-hitler
+    date: null
+    date_end: null
+    location_in_record: 02:13:56.3-02:14:11.4
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 9302c6b2-133d-4cbb-adfa-5d1f0bd3e7ac
+      record_title: The Terrible Truth About the Visitors - Whitley Strieber | ep. 96
+      record_date: '2026-07-24'
+      record_reference: https://www.youtube.com/watch?v=Cv-sk4vt-qU
+      content_hash: sha256:456dbde0ab82ee8e216bdad2d1a0bf2a0b42622a167af19058f973050b035084
+      friendly_name: null

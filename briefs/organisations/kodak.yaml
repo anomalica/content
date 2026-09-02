@@ -1,0 +1,236 @@
+schema: anomalica/brief/1
+brief_hash: 6fc432b6ef07c9a646cb7c112e49d80dae254253f97d900f028346a2f72c0891
+page:
+  kind: entity
+  node_id: edb771c4-a5e0-4d36-8956-b785c2b1cec1
+  node_type: organisation
+  title: Kodak
+  slug: kodak
+  claim_count: 5
+  claim_count_total: 5
+generated:
+  graph_version: '2026-09-01T10:10:49.863545+00:00'
+size:
+  claims: 5
+  tokens_estimated: 1719
+  sized_against: 1050000
+publication:
+  status: published
+  note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
+    transcripts are gated elsewhere.
+belonging:
+  verified: 0
+  suspect_excluded: 0
+  unreviewed: 5
+related_nodes:
+  - node_id: 7b0e2e2e-7a4b-411b-8ed0-965794713504
+    title: LO-III-84M (Lunar Orbiter III frame)
+    node_type: document
+    slug: lo-iii-84m-lunar-orbiter-iii-frame
+    shared_claims: 2
+  - node_id: 5184c2a5-ce2f-4148-a597-a7740969898b
+    title: Image of Guadalupe
+    node_type: object
+    slug: image-of-guadalupe
+    shared_claims: 1
+  - node_id: 5e47c787-005b-4c91-ba4b-c9bec48146c9
+    title: National Aeronautics and Space Administration (NASA)
+    node_type: organisation
+    slug: national-aeronautics-and-space-administration-nasa
+    shared_claims: 1
+  - node_id: e1650a1d-8feb-4841-a403-0d71e176d2d9
+    title: Richard C. Hoagland
+    node_type: person
+    slug: richard-c-hoagland
+    shared_claims: 1
+  - node_id: 0eec2181-4eba-4861-9b67-6e148a745f34
+    title: The Shard (lunar object)
+    node_type: object
+    slug: the-shard-lunar-object
+    shared_claims: 1
+claims:
+  - claim_id: 0df54228-91fd-4686-8113-c6802271aa61
+    claim_hash: e52769e88dd9b037e8a8ed520a4dec6b03e2d38996d8abbdf3845769dd6ca038
+    content: In 1963, the management of Kodak, after a thorough investigation, announced that the Image of Guadalupe was a
+      photograph.
+    original_excerpt: The scientific proof was confirmed when, in 1963, the management of Kodak, after a thorough investigation,
+      announced that the picture was a photograph.
+    claim_type: testimony
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: named
+      origin: Kodak
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 5184c2a5-ce2f-4148-a597-a7740969898b
+        title: Image of Guadalupe
+        slug: image-of-guadalupe
+      - node_id: edb771c4-a5e0-4d36-8956-b785c2b1cec1
+        title: Kodak
+        slug: kodak
+    date: '1963'
+    date_end: null
+    location_in_record: ch20:13089-13229
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 171e1337-151f-40c5-8b9a-659faac4c5f6
+      record_title: The Fatima Secret
+      record_date: '2000-11-28'
+      record_reference: null
+      content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
+      friendly_name: 2000-11-28-ebook-the-fatima-secret
+  - claim_id: 066014c5-8e78-45a1-b2a4-69844fd3174f
+    claim_hash: aed6431a5854735212d80f071eecb962bc2a18bbd707a7f3e126700e2b0bce71
+    content: Fig. 4-5 depicts the Shard, a feature visible in Lunar Orbiter frame LO-III-84M, with a shadow cast along the
+      lunar surface and a white cross photo registration mark placed on the original film by Eastman Kodak before insertion
+      into the Lunar Orbiter spacecraft.
+    original_excerpt: Fig. 4-5 - The “Shard” from Lunar Orbiter frame LO-III-84M. Note shadow being cast by shard along the
+      lunar surface (and at proper sun angle). White cross above “Shard” is a photo registration mark, placed on the original
+      unmanned spacecraft film before insertion into Lunar Orbiter by Eastman Kodak.
+    claim_type: observation
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 0eec2181-4eba-4861-9b67-6e148a745f34
+        title: The Shard (lunar object)
+        slug: the-shard-lunar-object
+      - node_id: 7b0e2e2e-7a4b-411b-8ed0-965794713504
+        title: LO-III-84M (Lunar Orbiter III frame)
+        slug: lo-iii-84m-lunar-orbiter-iii-frame
+      - node_id: edb771c4-a5e0-4d36-8956-b785c2b1cec1
+        title: Kodak
+        slug: kodak
+    date: null
+    date_end: null
+    location_in_record: ch11:159022-159316
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+      record_title: Dark Mission
+      record_date: '2010-07-22'
+      record_reference: null
+      content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+      friendly_name: null
+  - claim_id: f365634b-b65e-44c1-bd45-6e56329301e8
+    claim_hash: 03499b990f691104f404d1febe936bbe8d6af9ac1b4d8ef0ac2275c494ced63a
+    content: The five successful Lunar Orbiter spacecraft used two telescopic lenses of different focal lengths to simultaneously
+      frame two separate images on one roll of Kodak film inside each pressurised spacecraft.
+    original_excerpt: The five successful Lunar Orbiter spacecraft utilized two telescopic lenses, with different focal lengths
+      (magnifications), simultaneously framing two separate images on one long roll of ultra-fine-grained, high-resolution
+      Kodak film inside each pressurized spacecraft Orbiter “bus.”
+    claim_type: observation
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: narration
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: edb771c4-a5e0-4d36-8956-b785c2b1cec1
+        title: Kodak
+        slug: kodak
+    date: null
+    date_end: null
+    location_in_record: ch11:23654-23932
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+      record_title: Dark Mission
+      record_date: '2010-07-22'
+      record_reference: null
+      content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+      friendly_name: null
+  - claim_id: 0d1cb361-c065-469b-8c1f-43934d7ff1b4
+    claim_hash: 198f0b5fd47b99bae19e9caeb2c953771d721fef99469d19a25f68f4ed2301e4
+    content: Soviet early lunar probes used an essentially identical film-based photographic and analog electronic transmission
+      system to the Lunar Orbiter spacecraft, including the use of Kodak film.
+    original_excerpt: (The Russians used an essentially identical film-based photographic/ optical scanning/analog electronic
+      transmission system in their early lunar probes—including … Kodak film)
+    claim_type: observation
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: narration
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: edb771c4-a5e0-4d36-8956-b785c2b1cec1
+        title: Kodak
+        slug: kodak
+    date: null
+    date_end: null
+    location_in_record: ch11:24858-25028
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+      record_title: Dark Mission
+      record_date: '2010-07-22'
+      record_reference: null
+      content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+      friendly_name: null
+  - claim_id: e064d235-8c70-4616-8263-00a8f4801f53
+    claim_hash: cad325c4bce60f973adbb0c701504444da5e183d45fc340e9141d6e83771a5c2
+    content: On frame LO-III-84M, Richard C. Hoagland found a highly anomalous object appearing above the distant lunar horizon,
+      directly beneath a geometric calibration cross placed by Kodak on the original NASA (National Aeronautics and Space
+      Administration) film during manufacture.
+    original_excerpt: 'Hoagland reviewed the results: one highly anomalous object immediately “popped out” above the distant
+      lunar horizon on frame “LO-III-84M”—directly beneath a geometric calibration “cross” placed by Kodak on the original
+      NASA film during manufacture.'
+    claim_type: observation
+    attestation: first_hand
+    speaker:
+      node_id: e1650a1d-8feb-4841-a403-0d71e176d2d9
+      title: Richard C. Hoagland
+    provenance_chain:
+      origin_kind: speaker
+      origin: Richard C. Hoagland
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 5e47c787-005b-4c91-ba4b-c9bec48146c9
+        title: National Aeronautics and Space Administration (NASA)
+        slug: national-aeronautics-and-space-administration-nasa
+      - node_id: 7b0e2e2e-7a4b-411b-8ed0-965794713504
+        title: LO-III-84M (Lunar Orbiter III frame)
+        slug: lo-iii-84m-lunar-orbiter-iii-frame
+      - node_id: e1650a1d-8feb-4841-a403-0d71e176d2d9
+        title: Richard C. Hoagland
+        slug: richard-c-hoagland
+      - node_id: edb771c4-a5e0-4d36-8956-b785c2b1cec1
+        title: Kodak
+        slug: kodak
+    date: null
+    date_end: null
+    location_in_record: ch11:26392-26639
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+      record_title: Dark Mission
+      record_date: '2010-07-22'
+      record_reference: null
+      content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+      friendly_name: null

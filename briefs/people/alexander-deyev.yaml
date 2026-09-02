@@ -1,0 +1,1394 @@
+schema: anomalica/brief/1
+brief_hash: f461ef5c698f6c91e80e6aace0f096b3538e61633e670ec6c5bcbc871d1d270c
+page:
+  kind: entity
+  node_id: f3fd5012-43f9-4615-bf52-34f4a2e9f7ff
+  node_type: person
+  title: Alexander Deyev
+  slug: alexander-deyev
+  claim_count: 34
+  claim_count_total: 34
+generated:
+  graph_version: '2026-09-01T10:10:49.863545+00:00'
+size:
+  claims: 34
+  tokens_estimated: 9886
+  sized_against: 1050000
+publication:
+  status: published
+  note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
+    transcripts are gated elsewhere.
+belonging:
+  verified: 0
+  suspect_excluded: 0
+  unreviewed: 34
+related_nodes:
+  - node_id: f750f72c-a0ff-40ef-a891-06a2b56286d9
+    title: Merivälja object
+    node_type: object
+    slug: merivalja-object
+    shared_claims: 11
+  - node_id: 3a99db97-5bbc-4710-a37a-dd08d103dfd4
+    title: Estonia, Tallinn, Merivälja
+    node_type: place
+    slug: tallinn-merivalja-estonia
+    shared_claims: 6
+  - node_id: 31e64dec-5d6d-4389-ae76-dbb418225378
+    title: Committee for State Security (KGB)
+    node_type: organisation
+    slug: committee-for-state-security-kgb
+    shared_claims: 3
+  - node_id: 95e29275-4734-4feb-ba93-0ce455eae6bb
+    title: Nuremberg celestial phenomenon engraving of 1566
+    node_type: document
+    slug: nuremberg-celestial-phenomenon-engraving-of-1566
+    shared_claims: 3
+  - node_id: cdebfe58-4f56-4aed-81a8-3825728c5229
+    title: 1561 Nuremberg celestial phenomenon
+    node_type: event
+    slug: 1561-nuremberg-celestial-phenomenon
+    shared_claims: 2
+  - node_id: fe22f50b-3a4a-46fe-8f6b-fb971f62dbf3
+    title: Communist Party of the Soviet Union
+    node_type: organisation
+    slug: communist-party-of-the-soviet-union
+    shared_claims: 2
+  - node_id: e5ca493a-95a6-4499-b297-c11055fdd303
+    title: Mart Sander
+    node_type: person
+    slug: mart-sander
+    shared_claims: 2
+  - node_id: 6d138ed9-1c46-4179-aea4-f2d50f516329
+    title: 1985 reburial of the Merivalja shaft
+    node_type: event
+    slug: 1985-reburial-of-the-merivalja-shaft
+    shared_claims: 1
+  - node_id: c7d94198-c3cd-4159-8f92-2a39857ab6d8
+    title: Baltic Sea
+    node_type: place
+    slug: baltic-sea
+    shared_claims: 1
+  - node_id: 71f72964-f3a2-4d23-aac2-2e621e83c11e
+    title: Estonia, Gulf of Finland
+    node_type: place
+    slug: gulf-of-finland-estonia
+    shared_claims: 1
+  - node_id: e62816e8-9be6-489d-8909-9a89ca8816f5
+    title: Estonia, Saaremaa
+    node_type: place
+    slug: saaremaa-estonia
+    shared_claims: 1
+  - node_id: aaad19c3-782d-4a16-8673-c06ad1f13014
+    title: Estonia, Tallinn
+    node_type: place
+    slug: tallinn-estonia
+    shared_claims: 1
+  - node_id: 7f43bc58-3f7e-4dbc-b6bd-839c173ba37f
+    title: Estonian Academy of Sciences
+    node_type: organisation
+    slug: estonian-academy-of-sciences
+    shared_claims: 1
+  - node_id: 6d410c29-dd8f-4aa3-9311-f201ce0dd4ff
+    title: Felix Siegel
+    node_type: person
+    slug: felix-siegel
+    shared_claims: 1
+  - node_id: 8325a820-54e8-41f1-8ee8-7e359ce0562e
+    title: Linus Kordes
+    node_type: person
+    slug: linus-kordes
+    shared_claims: 1
+  - node_id: e73b361c-e5f3-42f9-8787-4e51b6623b4c
+    title: Mart Sander's book on the Merivälja object
+    node_type: document
+    slug: mart-sanders-book-on-the-merivalja-object
+    shared_claims: 1
+  - node_id: 346df5bf-dea2-4581-b79f-65d10641f682
+    title: Telepathic contact with non-human objects
+    node_type: topic
+    slug: telepathic-contact-with-non-human-objects
+    shared_claims: 1
+  - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
+    title: Unidentified Flying Object (UFO)
+    node_type: topic
+    slug: unidentified-flying-object-ufo
+    shared_claims: 1
+  - node_id: 98a42ee3-6876-4354-a6c2-8e3be231a4fa
+    title: Vivika Eva
+    node_type: person
+    slug: vivika-eva
+    shared_claims: 1
+claims:
+  - claim_id: c9fb3fab-5db5-4a31-90e4-e453f08daa3a
+    claim_hash: 9da4eb01f3246e7571b8d6bf9548944adcfa97cd5e9807c3d9bc8e89f795a483
+    content: According to Mart Sander's research, the Soviet researcher Alexander Deyev, who occupied the Merivälja site for
+      several years investigating the object, analysed the Nuremberg celestial phenomenon engraving of 1566.
+    original_excerpt: the Soviet researcher who occupied the site for quite a few years investigating the Merivälja object,
+      I think his name was Alexander Deyev, he had done an analysis of this Nuremberg uh engraving
+    claim_type: testimony
+    attestation: second_hand
+    speaker:
+      node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+      title: Ross Coulthart
+    provenance_chain:
+      origin_kind: named
+      origin: Mart Sander
+      relay:
+        - Ross Coulthart
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 95e29275-4734-4feb-ba93-0ce455eae6bb
+        title: Nuremberg celestial phenomenon engraving of 1566
+        slug: nuremberg-celestial-phenomenon-engraving-of-1566
+      - node_id: e73b361c-e5f3-42f9-8787-4e51b6623b4c
+        title: Mart Sander's book on the Merivälja object
+        slug: mart-sanders-book-on-the-merivalja-object
+      - node_id: f3fd5012-43f9-4615-bf52-34f4a2e9f7ff
+        title: Alexander Deyev
+        slug: alexander-deyev
+      - node_id: f750f72c-a0ff-40ef-a891-06a2b56286d9
+        title: Merivälja object
+        slug: merivalja-object
+    date: null
+    date_end: null
+    location_in_record: 00:12:12.8-00:12:30.0
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 27d9666b-7dec-4bdf-914e-a05749c23e26
+      record_title: 'Secret Soviet UFOs: What happened when two scientists knocked on a door in Estonia? | Reality Check'
+      record_date: null
+      record_reference: https://www.youtube.com/watch?v=Arkw4z8rCyw
+      content_hash: sha256:06a55bcd5a315e6b8ced7e1bc51b39707caeb87249e4bc8a911eacb2dc7dd245
+      friendly_name: null
+  - claim_id: 21724d09-a4b4-4ff7-b585-1beb3d5ab94f
+    claim_hash: 22e3a807e4283528b03f44b1579e5a9ed1ab8ec336f0800612aa8f0c0a604e12
+    content: Alexander Deyev theorised, based on the position of celestial objects depicted, that the Nuremberg celestial
+      phenomenon engraving of 1566 more likely depicted an event over the Baltic Sea, possibly over Tallinn, rather than over
+      Nuremberg.
+    original_excerpt: he apparently had the theory that it was more likely because of the position of celestial objects somewhere
+      over the Baltic Sea and possibly over Tallinn
+    claim_type: opinion
+    attestation: third_hand
+    speaker:
+      node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+      title: Ross Coulthart
+    provenance_chain:
+      origin_kind: named
+      origin: Alexander Deyev
+      relay:
+        - Mart Sander
+        - Ross Coulthart
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 95e29275-4734-4feb-ba93-0ce455eae6bb
+        title: Nuremberg celestial phenomenon engraving of 1566
+        slug: nuremberg-celestial-phenomenon-engraving-of-1566
+      - node_id: aaad19c3-782d-4a16-8673-c06ad1f13014
+        title: Estonia, Tallinn
+        slug: tallinn-estonia
+      - node_id: c7d94198-c3cd-4159-8f92-2a39857ab6d8
+        title: Baltic Sea
+        slug: baltic-sea
+      - node_id: f3fd5012-43f9-4615-bf52-34f4a2e9f7ff
+        title: Alexander Deyev
+        slug: alexander-deyev
+    date: null
+    date_end: null
+    location_in_record: 00:12:43.9-00:12:53.2
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 27d9666b-7dec-4bdf-914e-a05749c23e26
+      record_title: 'Secret Soviet UFOs: What happened when two scientists knocked on a door in Estonia? | Reality Check'
+      record_date: null
+      record_reference: https://www.youtube.com/watch?v=Arkw4z8rCyw
+      content_hash: sha256:06a55bcd5a315e6b8ced7e1bc51b39707caeb87249e4bc8a911eacb2dc7dd245
+      friendly_name: null
+  - claim_id: 7d0d1580-c941-4516-b1bb-1b59311fdc12
+    claim_hash: 6c90db6e8e28487ae258d0ca69bb34cd2160a81007915cbd6b2847f6a8ba77f0
+    content: Alexander Deyev hypothesised that the Merivälja object might be one of a group of objects that fell during an
+      alleged aerial or orbital battle depicted in the Nuremberg celestial phenomenon engraving of 1566.
+    original_excerpt: he hypothesized that Merivälja might be one of a group of objects that had fallen during this alleged
+      aerial battle or perhaps orbital battle into the area
+    claim_type: opinion
+    attestation: third_hand
+    speaker:
+      node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+      title: Ross Coulthart
+    provenance_chain:
+      origin_kind: named
+      origin: Alexander Deyev
+      relay:
+        - Mart Sander
+        - Ross Coulthart
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 95e29275-4734-4feb-ba93-0ce455eae6bb
+        title: Nuremberg celestial phenomenon engraving of 1566
+        slug: nuremberg-celestial-phenomenon-engraving-of-1566
+      - node_id: f3fd5012-43f9-4615-bf52-34f4a2e9f7ff
+        title: Alexander Deyev
+        slug: alexander-deyev
+      - node_id: f750f72c-a0ff-40ef-a891-06a2b56286d9
+        title: Merivälja object
+        slug: merivalja-object
+    date: null
+    date_end: null
+    location_in_record: 00:12:54.5-00:13:07.1
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 27d9666b-7dec-4bdf-914e-a05749c23e26
+      record_title: 'Secret Soviet UFOs: What happened when two scientists knocked on a door in Estonia? | Reality Check'
+      record_date: null
+      record_reference: https://www.youtube.com/watch?v=Arkw4z8rCyw
+      content_hash: sha256:06a55bcd5a315e6b8ced7e1bc51b39707caeb87249e4bc8a911eacb2dc7dd245
+      friendly_name: null
+  - claim_id: 2c770357-37b2-4a09-9430-6c31bef476f1
+    claim_hash: 1893d1518c77e8c305bf8a26e47df62aae06820262d515932efecff0e92ff5a2
+    content: Alexander Deyev was an aviation engineer who had ties to the Soviet Defense Ministry.
+    original_excerpt: he was an aviation engineer who had ties to the Soviet Defense Ministry.
+    claim_type: administrative
+    attestation: null
+    speaker:
+      node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+      title: Ross Coulthart
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: f3fd5012-43f9-4615-bf52-34f4a2e9f7ff
+        title: Alexander Deyev
+        slug: alexander-deyev
+    date: null
+    date_end: null
+    location_in_record: 00:25:47.0-00:25:51.3
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: b8989f6c-2466-4fd6-a988-1ac629ce1620
+      record_title: 'Object M: The buried Estonian mystery the KGB spent years trying to reach | Reality Check'
+      record_date: '2026-08-11'
+      record_reference: https://www.youtube.com/watch?v=OQULI6QqIhY
+      content_hash: sha256:52d70126e55273c7238f33d8e01359cf9292de8c5cbf0ba36e284b039b432d96
+      friendly_name: null
+  - claim_id: e239df60-43b8-4020-9ecd-00b7a93b3c25
+    claim_hash: ad29fe155a6c418e15861cb8ffa25c4b1f739fb5293702aae3846803900b1c0b
+    content: Alexander Deyev was passionately interested in the paranormal even before the investigations into the Merivalja
+      object.
+    original_excerpt: He was passionately interested in the paranormal even before the investigations into this object.
+    claim_type: administrative
+    attestation: null
+    speaker:
+      node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+      title: Ross Coulthart
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: f3fd5012-43f9-4615-bf52-34f4a2e9f7ff
+        title: Alexander Deyev
+        slug: alexander-deyev
+      - node_id: f750f72c-a0ff-40ef-a891-06a2b56286d9
+        title: Merivälja object
+        slug: merivalja-object
+    date: null
+    date_end: null
+    location_in_record: 00:25:52.3-00:25:57.3
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: b8989f6c-2466-4fd6-a988-1ac629ce1620
+      record_title: 'Object M: The buried Estonian mystery the KGB spent years trying to reach | Reality Check'
+      record_date: '2026-08-11'
+      record_reference: https://www.youtube.com/watch?v=OQULI6QqIhY
+      content_hash: sha256:52d70126e55273c7238f33d8e01359cf9292de8c5cbf0ba36e284b039b432d96
+      friendly_name: null
+  - claim_id: 91706ebe-2e6b-4c18-b682-f0972979999c
+    claim_hash: e0bea0037d29d9295ee89d43430fa1646f5165fb09e6fc8978c522492ae123b1
+    content: Alexander Deyev worked for a top secret Soviet UFO investigation team headed by physicist Felix Siegel.
+    original_excerpt: he ended up working for a top secret Soviet UFO investigation team headed by a physicist, Felix Siegel.
+    claim_type: administrative
+    attestation: null
+    speaker:
+      node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+      title: Ross Coulthart
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 6d410c29-dd8f-4aa3-9311-f201ce0dd4ff
+        title: Felix Siegel
+        slug: felix-siegel
+      - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
+        title: Unidentified Flying Object (UFO)
+        slug: unidentified-flying-object-ufo
+      - node_id: f3fd5012-43f9-4615-bf52-34f4a2e9f7ff
+        title: Alexander Deyev
+        slug: alexander-deyev
+    date: null
+    date_end: null
+    location_in_record: 00:25:58.5-00:26:07.5
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: b8989f6c-2466-4fd6-a988-1ac629ce1620
+      record_title: 'Object M: The buried Estonian mystery the KGB spent years trying to reach | Reality Check'
+      record_date: '2026-08-11'
+      record_reference: https://www.youtube.com/watch?v=OQULI6QqIhY
+      content_hash: sha256:52d70126e55273c7238f33d8e01359cf9292de8c5cbf0ba36e284b039b432d96
+      friendly_name: null
+  - claim_id: 0728573f-daec-4a44-bda9-b7668342a1f3
+    claim_hash: 71a6f9c66765d2bfb2aa49286d42e5cf1bb991ed8fa29a960f24723bb9baf242
+    content: Alexander Deyev was the person who came to the door of the house in Merivalja regarding the object.
+    original_excerpt: it was Alexander Deyev who came knocking on the door in this little street in Merivälja, wasn't it?
+    claim_type: administrative
+    attestation: null
+    speaker:
+      node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+      title: Ross Coulthart
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 3a99db97-5bbc-4710-a37a-dd08d103dfd4
+        title: Estonia, Tallinn, Merivälja
+        slug: tallinn-merivalja-estonia
+      - node_id: f3fd5012-43f9-4615-bf52-34f4a2e9f7ff
+        title: Alexander Deyev
+        slug: alexander-deyev
+    date: null
+    date_end: null
+    location_in_record: 00:26:08.7-00:26:15.0
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: b8989f6c-2466-4fd6-a988-1ac629ce1620
+      record_title: 'Object M: The buried Estonian mystery the KGB spent years trying to reach | Reality Check'
+      record_date: '2026-08-11'
+      record_reference: https://www.youtube.com/watch?v=OQULI6QqIhY
+      content_hash: sha256:52d70126e55273c7238f33d8e01359cf9292de8c5cbf0ba36e284b039b432d96
+      friendly_name: null
+  - claim_id: c1fdc114-bdcd-4fe7-9720-f59f353e9ad8
+    claim_hash: 31d4148ea81456032664ee4867672ac14290f329e21aec063c95f4c6e3217eda
+    content: Mart Sander describes Alexander Deyev as a classic villain-type figure with a very dark past who became a protagonist
+      or antagonist in his book.
+    original_excerpt: he's kind of a mixed bag, and he's turned into this protagonist or antagonist or whoever in my book
+      because he's just such a classic villain, a very interesting type with a very dark past.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: e5ca493a-95a6-4499-b297-c11055fdd303
+      title: Mart Sander
+    provenance_chain:
+      origin_kind: speaker
+      origin: Mart Sander
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: e5ca493a-95a6-4499-b297-c11055fdd303
+        title: Mart Sander
+        slug: mart-sander
+      - node_id: f3fd5012-43f9-4615-bf52-34f4a2e9f7ff
+        title: Alexander Deyev
+        slug: alexander-deyev
+    date: null
+    date_end: null
+    location_in_record: 00:26:17.2-00:26:37.9
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: b8989f6c-2466-4fd6-a988-1ac629ce1620
+      record_title: 'Object M: The buried Estonian mystery the KGB spent years trying to reach | Reality Check'
+      record_date: '2026-08-11'
+      record_reference: https://www.youtube.com/watch?v=OQULI6QqIhY
+      content_hash: sha256:52d70126e55273c7238f33d8e01359cf9292de8c5cbf0ba36e284b039b432d96
+      friendly_name: null
+  - claim_id: c399780e-a275-4882-8692-1ddf9f7946ed
+    claim_hash: 6a9682ed928d2f8ae0e7d3f1a4dc683b405ba900e86c3ddb64f5f2fd834cfcfa
+    content: Alexander Deyev may have been employed by the Committee for State Security (KGB) as one of the best known psychics
+      used by the KGB in the Soviet Union.
+    original_excerpt: he's always been like this on this cutting edge, perhaps employed by the KGB, perhaps as one of the
+      best known psychics, let's call it that way, in the Soviet Union, who were used by the KGB.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: e5ca493a-95a6-4499-b297-c11055fdd303
+      title: Mart Sander
+    provenance_chain:
+      origin_kind: speaker
+      origin: Mart Sander
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 31e64dec-5d6d-4389-ae76-dbb418225378
+        title: Committee for State Security (KGB)
+        slug: committee-for-state-security-kgb
+      - node_id: f3fd5012-43f9-4615-bf52-34f4a2e9f7ff
+        title: Alexander Deyev
+        slug: alexander-deyev
+    date: null
+    date_end: null
+    location_in_record: 00:27:03.6-00:27:20.1
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: b8989f6c-2466-4fd6-a988-1ac629ce1620
+      record_title: 'Object M: The buried Estonian mystery the KGB spent years trying to reach | Reality Check'
+      record_date: '2026-08-11'
+      record_reference: https://www.youtube.com/watch?v=OQULI6QqIhY
+      content_hash: sha256:52d70126e55273c7238f33d8e01359cf9292de8c5cbf0ba36e284b039b432d96
+      friendly_name: null
+  - claim_id: 77f4f2ff-4d91-49a3-83e4-7b964508da2c
+    claim_hash: 36994ba21d84ec09c41cc301551817779258fc588808a7d08071b862e6358397
+    content: Alexander Deyev's fall from grace within the Soviet establishment was spectacular, involving being disgraced
+      and ridiculed at the highest level of the Soviets.
+    original_excerpt: his fall from grace was spectacular. The way he was disgraced and ridiculed is something to marvel at.
+      And this will stand on the highest level of the Soviets.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: e5ca493a-95a6-4499-b297-c11055fdd303
+      title: Mart Sander
+    provenance_chain:
+      origin_kind: speaker
+      origin: Mart Sander
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: f3fd5012-43f9-4615-bf52-34f4a2e9f7ff
+        title: Alexander Deyev
+        slug: alexander-deyev
+      - node_id: fe22f50b-3a4a-46fe-8f6b-fb971f62dbf3
+        title: Communist Party of the Soviet Union
+        slug: communist-party-of-the-soviet-union
+    date: null
+    date_end: null
+    location_in_record: 00:27:21.9-00:27:35.0
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: b8989f6c-2466-4fd6-a988-1ac629ce1620
+      record_title: 'Object M: The buried Estonian mystery the KGB spent years trying to reach | Reality Check'
+      record_date: '2026-08-11'
+      record_reference: https://www.youtube.com/watch?v=OQULI6QqIhY
+      content_hash: sha256:52d70126e55273c7238f33d8e01359cf9292de8c5cbf0ba36e284b039b432d96
+      friendly_name: null
+  - claim_id: c4924817-d9ea-45c2-b865-b4c81e5e0ecc
+    claim_hash: d040a2b411adc5411cb4e0e2f6c98821c3a4dd414635f73e3f345545c752c321
+    content: Alexander Deyev possessed a smoky glass orb that he claimed generated what he called the D field.
+    original_excerpt: He made a fuss about a smoky glass orb he had, which supposedly generated what he called the D field.
+    claim_type: hearsay
+    attestation: second_hand
+    speaker:
+      node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+      title: Ross Coulthart
+    provenance_chain:
+      origin_kind: named
+      origin: Alexander Deyev
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: f3fd5012-43f9-4615-bf52-34f4a2e9f7ff
+        title: Alexander Deyev
+        slug: alexander-deyev
+    date: null
+    date_end: null
+    location_in_record: 00:27:54.1-00:28:01.6
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: b8989f6c-2466-4fd6-a988-1ac629ce1620
+      record_title: 'Object M: The buried Estonian mystery the KGB spent years trying to reach | Reality Check'
+      record_date: '2026-08-11'
+      record_reference: https://www.youtube.com/watch?v=OQULI6QqIhY
+      content_hash: sha256:52d70126e55273c7238f33d8e01359cf9292de8c5cbf0ba36e284b039b432d96
+      friendly_name: null
+  - claim_id: bd8d1715-3a25-4575-a2fa-809446abb15e
+    claim_hash: e34a1a99f362d16fe81336ddc1326c056c785d5419cd1a3471ed16f6d5d1aa23
+    content: Some people said the smoky glass orb that Alexander Deyev attributed to the D field was really a device that
+      had been used in a previous century to iron shirt sleeves.
+    original_excerpt: a lot of people said that glass orb was really something that had been used in a previous century to
+      iron shirt sleeves.
+    claim_type: hearsay
+    attestation: null
+    speaker:
+      node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+      title: Ross Coulthart
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: f3fd5012-43f9-4615-bf52-34f4a2e9f7ff
+        title: Alexander Deyev
+        slug: alexander-deyev
+    date: null
+    date_end: null
+    location_in_record: 00:28:02.9-00:28:09.3
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: b8989f6c-2466-4fd6-a988-1ac629ce1620
+      record_title: 'Object M: The buried Estonian mystery the KGB spent years trying to reach | Reality Check'
+      record_date: '2026-08-11'
+      record_reference: https://www.youtube.com/watch?v=OQULI6QqIhY
+      content_hash: sha256:52d70126e55273c7238f33d8e01359cf9292de8c5cbf0ba36e284b039b432d96
+      friendly_name: null
+  - claim_id: cf156e28-90f5-4084-bd5b-9e3377acc57b
+    claim_hash: 0fc70b4a82fc4aa204dacb1c78376de591bcb05704680ba5e5d29177a36e6cbe
+    content: Mart Sander thinks Alexander Deyev was genuinely interested in mysteries such as the Merivalja object and was
+      really trying to get to the bottom of them, but also thinks Deyev was a fantasist.
+    original_excerpt: I think he was genuinely interested in all these things. He was really trying to get to the bottom of
+      this mystery and probably other mysteries as well. But then again, I think he was a fantasist, a necromancer, whatever
+      you call it, as well.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: e5ca493a-95a6-4499-b297-c11055fdd303
+      title: Mart Sander
+    provenance_chain:
+      origin_kind: speaker
+      origin: Mart Sander
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: e5ca493a-95a6-4499-b297-c11055fdd303
+        title: Mart Sander
+        slug: mart-sander
+      - node_id: f3fd5012-43f9-4615-bf52-34f4a2e9f7ff
+        title: Alexander Deyev
+        slug: alexander-deyev
+      - node_id: f750f72c-a0ff-40ef-a891-06a2b56286d9
+        title: Merivälja object
+        slug: merivalja-object
+    date: null
+    date_end: null
+    location_in_record: 00:28:17.5-00:28:31.0
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: b8989f6c-2466-4fd6-a988-1ac629ce1620
+      record_title: 'Object M: The buried Estonian mystery the KGB spent years trying to reach | Reality Check'
+      record_date: '2026-08-11'
+      record_reference: https://www.youtube.com/watch?v=OQULI6QqIhY
+      content_hash: sha256:52d70126e55273c7238f33d8e01359cf9292de8c5cbf0ba36e284b039b432d96
+      friendly_name: null
+  - claim_id: f4e47190-8ed1-4b64-8cd5-58ffe8bf9baa
+    claim_hash: 2f6e337b6141c5d3028c9671686f7b2bc00fe1d928fd06be324ae89a629b1e1c
+    content: Alexander Deyev initially suggested the smoky glass orb was millions of years old and claimed to have proven
+      this by scientific methods, contradicting later claims that it was a century-old ironing device.
+    original_excerpt: How can modern science not conclude whether the piece is millions of years old, as he first suggested,
+      and evidently was able to prove it by scientific methods? Or how can the same object be about a century-old ironing
+      device
+    claim_type: hearsay
+    attestation: second_hand
+    speaker:
+      node_id: e5ca493a-95a6-4499-b297-c11055fdd303
+      title: Mart Sander
+    provenance_chain:
+      origin_kind: named
+      origin: Alexander Deyev
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: f3fd5012-43f9-4615-bf52-34f4a2e9f7ff
+        title: Alexander Deyev
+        slug: alexander-deyev
+    date: null
+    date_end: null
+    location_in_record: 00:28:36.1-00:28:57.9
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: b8989f6c-2466-4fd6-a988-1ac629ce1620
+      record_title: 'Object M: The buried Estonian mystery the KGB spent years trying to reach | Reality Check'
+      record_date: '2026-08-11'
+      record_reference: https://www.youtube.com/watch?v=OQULI6QqIhY
+      content_hash: sha256:52d70126e55273c7238f33d8e01359cf9292de8c5cbf0ba36e284b039b432d96
+      friendly_name: null
+  - claim_id: 9ee2a1dc-4724-491f-ba14-c24b53752f67
+    claim_hash: 0c3025c44b2d11e9ec465f91ee3a495853142d27611ef483affb6173ccf6aaf5
+    content: Alexander Deyev reportedly calculated the location of the 1561 Nuremberg celestial phenomenon.
+    original_excerpt: he reportedly calculated the whereabouts of the event
+    claim_type: hearsay
+    attestation: second_hand
+    speaker:
+      node_id: e5ca493a-95a6-4499-b297-c11055fdd303
+      title: Mart Sander
+    provenance_chain:
+      origin_kind: named
+      origin: Alexander Deyev
+      relay:
+        - Mart Sander
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: cdebfe58-4f56-4aed-81a8-3825728c5229
+        title: 1561 Nuremberg celestial phenomenon
+        slug: 1561-nuremberg-celestial-phenomenon
+      - node_id: f3fd5012-43f9-4615-bf52-34f4a2e9f7ff
+        title: Alexander Deyev
+        slug: alexander-deyev
+    date: null
+    date_end: null
+    location_in_record: 00:31:05.6-00:31:11.1
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: b8989f6c-2466-4fd6-a988-1ac629ce1620
+      record_title: 'Object M: The buried Estonian mystery the KGB spent years trying to reach | Reality Check'
+      record_date: '2026-08-11'
+      record_reference: https://www.youtube.com/watch?v=OQULI6QqIhY
+      content_hash: sha256:52d70126e55273c7238f33d8e01359cf9292de8c5cbf0ba36e284b039b432d96
+      friendly_name: null
+  - claim_id: 97e00330-9121-4579-8d5e-b00f2ecc85dc
+    claim_hash: b597f4d6f74232496c1ee72d1b3b64a660dc8948204b8ed16f2fc651f721b2ef
+    content: Alexander Deyev reportedly concluded that the 1561 Nuremberg celestial phenomenon took place over the Gulf of
+      Finland.
+    original_excerpt: he calculated reportedly that this event took place over the Gulf of Finland
+    claim_type: hearsay
+    attestation: second_hand
+    speaker:
+      node_id: e5ca493a-95a6-4499-b297-c11055fdd303
+      title: Mart Sander
+    provenance_chain:
+      origin_kind: named
+      origin: Alexander Deyev
+      relay:
+        - Mart Sander
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 71f72964-f3a2-4d23-aac2-2e621e83c11e
+        title: Estonia, Gulf of Finland
+        slug: gulf-of-finland-estonia
+      - node_id: cdebfe58-4f56-4aed-81a8-3825728c5229
+        title: 1561 Nuremberg celestial phenomenon
+        slug: 1561-nuremberg-celestial-phenomenon
+      - node_id: f3fd5012-43f9-4615-bf52-34f4a2e9f7ff
+        title: Alexander Deyev
+        slug: alexander-deyev
+    date: null
+    date_end: null
+    location_in_record: 00:31:47.2-00:31:55.0
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: b8989f6c-2466-4fd6-a988-1ac629ce1620
+      record_title: 'Object M: The buried Estonian mystery the KGB spent years trying to reach | Reality Check'
+      record_date: '2026-08-11'
+      record_reference: https://www.youtube.com/watch?v=OQULI6QqIhY
+      content_hash: sha256:52d70126e55273c7238f33d8e01359cf9292de8c5cbf0ba36e284b039b432d96
+      friendly_name: null
+  - claim_id: 87b95eec-c710-4ff0-9b42-fa948b1d05ab
+    claim_hash: 75f55256e10e83c0eebbdb4da386137e4bc4374192f63ea6d0bf70483f61367d
+    content: Alexander Deyev set up a laboratory in the house above the Merivalja object.
+    original_excerpt: he set up a laboratory in the house, which must have driven the owners crazy
+    claim_type: observation
+    attestation: first_hand
+    speaker:
+      node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+      title: Ross Coulthart
+    provenance_chain:
+      origin_kind: speaker
+      origin: Ross Coulthart
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 3a99db97-5bbc-4710-a37a-dd08d103dfd4
+        title: Estonia, Tallinn, Merivälja
+        slug: tallinn-merivalja-estonia
+      - node_id: f3fd5012-43f9-4615-bf52-34f4a2e9f7ff
+        title: Alexander Deyev
+        slug: alexander-deyev
+      - node_id: f750f72c-a0ff-40ef-a891-06a2b56286d9
+        title: Merivälja object
+        slug: merivalja-object
+    date: null
+    date_end: null
+    location_in_record: 00:36:05.0-00:36:10.4
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: b8989f6c-2466-4fd6-a988-1ac629ce1620
+      record_title: 'Object M: The buried Estonian mystery the KGB spent years trying to reach | Reality Check'
+      record_date: '2026-08-11'
+      record_reference: https://www.youtube.com/watch?v=OQULI6QqIhY
+      content_hash: sha256:52d70126e55273c7238f33d8e01359cf9292de8c5cbf0ba36e284b039b432d96
+      friendly_name: null
+  - claim_id: 6c424738-e06b-4b61-99dd-bc6ebf3a1541
+    claim_hash: 0c28c9a4585f5446dda862a53881f2a4253848852d8c94f7b8a0ccf547c79865
+    content: Alexander Deyev allegedly used D-generators, described as energy-creating devices, supposedly to try to lure
+      the Merivalja object to the surface.
+    original_excerpt: he started using his alleged D-generators... these energy creating devices that he used supposedly to
+      try and lure the UFO craft to come to the surface
+    claim_type: hearsay
+    attestation: null
+    speaker:
+      node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+      title: Ross Coulthart
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: f3fd5012-43f9-4615-bf52-34f4a2e9f7ff
+        title: Alexander Deyev
+        slug: alexander-deyev
+      - node_id: f750f72c-a0ff-40ef-a891-06a2b56286d9
+        title: Merivälja object
+        slug: merivalja-object
+    date: null
+    date_end: null
+    location_in_record: 00:36:11.5-00:36:25.1
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: b8989f6c-2466-4fd6-a988-1ac629ce1620
+      record_title: 'Object M: The buried Estonian mystery the KGB spent years trying to reach | Reality Check'
+      record_date: '2026-08-11'
+      record_reference: https://www.youtube.com/watch?v=OQULI6QqIhY
+      content_hash: sha256:52d70126e55273c7238f33d8e01359cf9292de8c5cbf0ba36e284b039b432d96
+      friendly_name: null
+  - claim_id: 7acb35d2-df64-45d4-8b96-39592a766a94
+    claim_hash: 88d0c8efea51650bab404df3fbef5432d1d52918e5d20dfd487786d82e56f65a
+    content: One of Alexander Deyev's D field generators was reportedly tested by the Estonian Academy of Sciences and found
+      to be inoperative and useless.
+    original_excerpt: one of these generators was reportedly tested by the Student Academy of Sciences and found to be quite
+      inoperative and useless
+    claim_type: hearsay
+    attestation: null
+    speaker:
+      node_id: e5ca493a-95a6-4499-b297-c11055fdd303
+      title: Mart Sander
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 7f43bc58-3f7e-4dbc-b6bd-839c173ba37f
+        title: Estonian Academy of Sciences
+        slug: estonian-academy-of-sciences
+      - node_id: f3fd5012-43f9-4615-bf52-34f4a2e9f7ff
+        title: Alexander Deyev
+        slug: alexander-deyev
+    date: null
+    date_end: null
+    location_in_record: 00:36:46.7-00:36:56.2
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: b8989f6c-2466-4fd6-a988-1ac629ce1620
+      record_title: 'Object M: The buried Estonian mystery the KGB spent years trying to reach | Reality Check'
+      record_date: '2026-08-11'
+      record_reference: https://www.youtube.com/watch?v=OQULI6QqIhY
+      content_hash: sha256:52d70126e55273c7238f33d8e01359cf9292de8c5cbf0ba36e284b039b432d96
+      friendly_name: null
+  - claim_id: eb6ad3d8-3480-4e36-980b-1760d47e7de5
+    claim_hash: 22f50ee32bc6cd88ff7deced9b3fed486ff783a08e570607fba1f2b97881906e
+    content: Mart Sander visited the Merivalja house, whose name means Silver Fir Road, about a year or two after Alexander
+      Deyev was forced to leave.
+    original_excerpt: I visited Vivica's house on this, which, by the way, means Silver Fir Road. a couple of years or a year
+      after Deyev was forced to leave
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: e5ca493a-95a6-4499-b297-c11055fdd303
+      title: Mart Sander
+    provenance_chain:
+      origin_kind: speaker
+      origin: Mart Sander
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 3a99db97-5bbc-4710-a37a-dd08d103dfd4
+        title: Estonia, Tallinn, Merivälja
+        slug: tallinn-merivalja-estonia
+      - node_id: 98a42ee3-6876-4354-a6c2-8e3be231a4fa
+        title: Vivika Eva
+        slug: vivika-eva
+      - node_id: f3fd5012-43f9-4615-bf52-34f4a2e9f7ff
+        title: Alexander Deyev
+        slug: alexander-deyev
+    date: null
+    date_end: null
+    location_in_record: 00:37:10.8-00:37:24.4
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: b8989f6c-2466-4fd6-a988-1ac629ce1620
+      record_title: 'Object M: The buried Estonian mystery the KGB spent years trying to reach | Reality Check'
+      record_date: '2026-08-11'
+      record_reference: https://www.youtube.com/watch?v=OQULI6QqIhY
+      content_hash: sha256:52d70126e55273c7238f33d8e01359cf9292de8c5cbf0ba36e284b039b432d96
+      friendly_name: null
+  - claim_id: fcd93ac8-7d11-4c18-805d-56552fe44009
+    claim_hash: 20f530fec0dce9070b53a225e9d7da537c18b61c27cd1a99dc6e5deff4b0a856
+    content: Alexander Deyev was forced to leave Merivalja when the political situation changed and the Committee for State
+      Security (KGB) and Soviet defence systems were no longer welcome in Estonia.
+    original_excerpt: a year after Deyev was forced to leave because that's when the political situations started to change
+      and the KGB and Soviet defense systems were no longer welcome in Estonia
+    claim_type: observation
+    attestation: first_hand
+    speaker:
+      node_id: e5ca493a-95a6-4499-b297-c11055fdd303
+      title: Mart Sander
+    provenance_chain:
+      origin_kind: speaker
+      origin: Mart Sander
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 31e64dec-5d6d-4389-ae76-dbb418225378
+        title: Committee for State Security (KGB)
+        slug: committee-for-state-security-kgb
+      - node_id: 3a99db97-5bbc-4710-a37a-dd08d103dfd4
+        title: Estonia, Tallinn, Merivälja
+        slug: tallinn-merivalja-estonia
+      - node_id: f3fd5012-43f9-4615-bf52-34f4a2e9f7ff
+        title: Alexander Deyev
+        slug: alexander-deyev
+    date: null
+    date_end: null
+    location_in_record: 00:37:21.6-00:37:35.4
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: b8989f6c-2466-4fd6-a988-1ac629ce1620
+      record_title: 'Object M: The buried Estonian mystery the KGB spent years trying to reach | Reality Check'
+      record_date: '2026-08-11'
+      record_reference: https://www.youtube.com/watch?v=OQULI6QqIhY
+      content_hash: sha256:52d70126e55273c7238f33d8e01359cf9292de8c5cbf0ba36e284b039b432d96
+      friendly_name: null
+  - claim_id: b6d0b0ce-f36a-4f29-af3f-82dc510e638b
+    claim_hash: 5972127b7d06660d8dcd5d438200d8816824b558df17ec71202bf41d367ac1b3
+    content: Mart Sander did not find any of Alexander Deyev's equipment when he visited the Merivalja house, as it had all
+      been removed.
+    original_excerpt: I sadly did not find any equipment. He had removed everything
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: e5ca493a-95a6-4499-b297-c11055fdd303
+      title: Mart Sander
+    provenance_chain:
+      origin_kind: speaker
+      origin: Mart Sander
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 3a99db97-5bbc-4710-a37a-dd08d103dfd4
+        title: Estonia, Tallinn, Merivälja
+        slug: tallinn-merivalja-estonia
+      - node_id: f3fd5012-43f9-4615-bf52-34f4a2e9f7ff
+        title: Alexander Deyev
+        slug: alexander-deyev
+    date: null
+    date_end: null
+    location_in_record: 00:37:42.0-00:37:45.1
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: b8989f6c-2466-4fd6-a988-1ac629ce1620
+      record_title: 'Object M: The buried Estonian mystery the KGB spent years trying to reach | Reality Check'
+      record_date: '2026-08-11'
+      record_reference: https://www.youtube.com/watch?v=OQULI6QqIhY
+      content_hash: sha256:52d70126e55273c7238f33d8e01359cf9292de8c5cbf0ba36e284b039b432d96
+      friendly_name: null
+  - claim_id: 1d6d9c69-ffb8-4535-b154-18b674f6b36f
+    claim_hash: 644d91d701fb5083b54a26d600130a775b5516bfd5ed99a0a2820b136973db2f
+    content: Alexander Deyev was a self-styled academic without a formal academic education, who Mart Sander describes as
+      a mentalist claiming telepathic contact with the Merivalja object.
+    original_excerpt: a man who was a self-styled academic of the people, meaning he didn't really have an academic education,
+      but he was a mentalist, he was telepathically in contact with the object
+    claim_type: hearsay
+    attestation: first_hand
+    speaker:
+      node_id: e5ca493a-95a6-4499-b297-c11055fdd303
+      title: Mart Sander
+    provenance_chain:
+      origin_kind: speaker
+      origin: Mart Sander
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 346df5bf-dea2-4581-b79f-65d10641f682
+        title: Telepathic contact with non-human objects
+        slug: telepathic-contact-with-non-human-objects
+      - node_id: f3fd5012-43f9-4615-bf52-34f4a2e9f7ff
+        title: Alexander Deyev
+        slug: alexander-deyev
+      - node_id: f750f72c-a0ff-40ef-a891-06a2b56286d9
+        title: Merivälja object
+        slug: merivalja-object
+    date: null
+    date_end: null
+    location_in_record: 00:38:41.6-00:38:55.1
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: b8989f6c-2466-4fd6-a988-1ac629ce1620
+      record_title: 'Object M: The buried Estonian mystery the KGB spent years trying to reach | Reality Check'
+      record_date: '2026-08-11'
+      record_reference: https://www.youtube.com/watch?v=OQULI6QqIhY
+      content_hash: sha256:52d70126e55273c7238f33d8e01359cf9292de8c5cbf0ba36e284b039b432d96
+      friendly_name: null
+  - claim_id: c79ed08f-3e39-4ac2-b1de-3f165b2caa9b
+    claim_hash: b5b678bf0c69168c9002ede2d2ce04e306018344eb22aa51a0428814a4815fbe
+    content: The impressions Linus Kordes revealed about the Merivalja object were very much in line with what Alexander Deyev
+      previously said.
+    original_excerpt: he revealed quite interesting things which are actually very much in line with what Dejev said
+    claim_type: observation
+    attestation: first_hand
+    speaker:
+      node_id: e5ca493a-95a6-4499-b297-c11055fdd303
+      title: Mart Sander
+    provenance_chain:
+      origin_kind: speaker
+      origin: Mart Sander
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 8325a820-54e8-41f1-8ee8-7e359ce0562e
+        title: Linus Kordes
+        slug: linus-kordes
+      - node_id: f3fd5012-43f9-4615-bf52-34f4a2e9f7ff
+        title: Alexander Deyev
+        slug: alexander-deyev
+      - node_id: f750f72c-a0ff-40ef-a891-06a2b56286d9
+        title: Merivälja object
+        slug: merivalja-object
+    date: null
+    date_end: null
+    location_in_record: 00:39:43.2-00:39:50.5
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: b8989f6c-2466-4fd6-a988-1ac629ce1620
+      record_title: 'Object M: The buried Estonian mystery the KGB spent years trying to reach | Reality Check'
+      record_date: '2026-08-11'
+      record_reference: https://www.youtube.com/watch?v=OQULI6QqIhY
+      content_hash: sha256:52d70126e55273c7238f33d8e01359cf9292de8c5cbf0ba36e284b039b432d96
+      friendly_name: null
+  - claim_id: e9f9e080-c38b-44c6-b742-23c28cb49d86
+    claim_hash: 5621eb7042de245f2e5190dfc38505f0306dddc609e4cd6838ff7c913381140b
+    content: A Russian document indicated Alexander Deyev tried to sing to the Merivalja object to lure it and awaken it using
+      a specific sound produced by his apparatus.
+    original_excerpt: I found this one Russian document that said Deyev was trying to sing to the object and to lure it, to
+      awaken it by a specific sound which was produced by his magical apparatus
+    claim_type: hearsay
+    attestation: second_hand
+    speaker:
+      node_id: e5ca493a-95a6-4499-b297-c11055fdd303
+      title: Mart Sander
+    provenance_chain:
+      origin_kind: document
+      origin: a Russian document found by Mart Sander
+      relay:
+        - Mart Sander
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: f3fd5012-43f9-4615-bf52-34f4a2e9f7ff
+        title: Alexander Deyev
+        slug: alexander-deyev
+      - node_id: f750f72c-a0ff-40ef-a891-06a2b56286d9
+        title: Merivälja object
+        slug: merivalja-object
+    date: null
+    date_end: null
+    location_in_record: 00:40:42.2-00:40:58.9
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: b8989f6c-2466-4fd6-a988-1ac629ce1620
+      record_title: 'Object M: The buried Estonian mystery the KGB spent years trying to reach | Reality Check'
+      record_date: '2026-08-11'
+      record_reference: https://www.youtube.com/watch?v=OQULI6QqIhY
+      content_hash: sha256:52d70126e55273c7238f33d8e01359cf9292de8c5cbf0ba36e284b039b432d96
+      friendly_name: null
+  - claim_id: fad51bb0-3e98-4893-aa04-95db7bf0543b
+    claim_hash: 1d9c9525704180f4ae0bda932228df5897502f4f83c7ccaa47ff806ccc31005e
+    content: In the late 1980s, before the Soviet collapse and Alexander Deyev's forced return to Russia in disgrace, there
+      were plans to purchase the Merivalja house and neighbouring lots to clear them for scientific research.
+    original_excerpt: in the late 80s, just before the Soviet power collapse and Dejev was forced to return to Russia in disgrace,
+      there were plans to purchase the house and also the neighboring lots to clear them for the scientific research
+    claim_type: hearsay
+    attestation: first_hand
+    speaker:
+      node_id: e5ca493a-95a6-4499-b297-c11055fdd303
+      title: Mart Sander
+    provenance_chain:
+      origin_kind: speaker
+      origin: Mart Sander
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 3a99db97-5bbc-4710-a37a-dd08d103dfd4
+        title: Estonia, Tallinn, Merivälja
+        slug: tallinn-merivalja-estonia
+      - node_id: f3fd5012-43f9-4615-bf52-34f4a2e9f7ff
+        title: Alexander Deyev
+        slug: alexander-deyev
+    date: '1988'
+    date_end: null
+    location_in_record: 00:45:14.8-00:45:33.0
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: b8989f6c-2466-4fd6-a988-1ac629ce1620
+      record_title: 'Object M: The buried Estonian mystery the KGB spent years trying to reach | Reality Check'
+      record_date: '2026-08-11'
+      record_reference: https://www.youtube.com/watch?v=OQULI6QqIhY
+      content_hash: sha256:52d70126e55273c7238f33d8e01359cf9292de8c5cbf0ba36e284b039b432d96
+      friendly_name: null
+  - claim_id: edc25c95-5458-4814-b90f-cdd2bf375a0c
+    claim_hash: 4500c016dfa4aaf9d1787aade00c108e3f90e9f770395837f37f5465acbcfa9f
+    content: Mart Sander believes the final closing date of the Merivalja shaft was 1988, after Alexander Deyev was forced
+      to leave.
+    original_excerpt: I think the final closing date was 1988. It must have been after Deyev was forced to leave.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: e5ca493a-95a6-4499-b297-c11055fdd303
+      title: Mart Sander
+    provenance_chain:
+      origin_kind: speaker
+      origin: Mart Sander
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 6d138ed9-1c46-4179-aea4-f2d50f516329
+        title: 1985 reburial of the Merivalja shaft
+        slug: 1985-reburial-of-the-merivalja-shaft
+      - node_id: f3fd5012-43f9-4615-bf52-34f4a2e9f7ff
+        title: Alexander Deyev
+        slug: alexander-deyev
+    date: '1988'
+    date_end: null
+    location_in_record: 00:53:19.8-00:53:27.2
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: b8989f6c-2466-4fd6-a988-1ac629ce1620
+      record_title: 'Object M: The buried Estonian mystery the KGB spent years trying to reach | Reality Check'
+      record_date: '2026-08-11'
+      record_reference: https://www.youtube.com/watch?v=OQULI6QqIhY
+      content_hash: sha256:52d70126e55273c7238f33d8e01359cf9292de8c5cbf0ba36e284b039b432d96
+      friendly_name: null
+  - claim_id: 25df5b67-32ea-4469-96c8-bb79086c11e2
+    claim_hash: 624d51d2ffa84b14ebe818e485af45be70c29876d0525156e9187ad7d6feb59f
+    content: Alexander Deyev, a KGB (Committee for State Security) figure, promoted the Merivalja object as anomalous.
+    original_excerpt: the gentleman from the KGB who was promoting this as being an anomalous object, Alexander Deyev,
+    claim_type: administrative
+    attestation: first_hand
+    speaker:
+      node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+      title: Ross Coulthart
+    provenance_chain:
+      origin_kind: speaker
+      origin: Ross Coulthart
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 31e64dec-5d6d-4389-ae76-dbb418225378
+        title: Committee for State Security (KGB)
+        slug: committee-for-state-security-kgb
+      - node_id: f3fd5012-43f9-4615-bf52-34f4a2e9f7ff
+        title: Alexander Deyev
+        slug: alexander-deyev
+      - node_id: f750f72c-a0ff-40ef-a891-06a2b56286d9
+        title: Merivälja object
+        slug: merivalja-object
+    date: null
+    date_end: null
+    location_in_record: 00:59:12.7-00:59:18.4
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: b8989f6c-2466-4fd6-a988-1ac629ce1620
+      record_title: 'Object M: The buried Estonian mystery the KGB spent years trying to reach | Reality Check'
+      record_date: '2026-08-11'
+      record_reference: https://www.youtube.com/watch?v=OQULI6QqIhY
+      content_hash: sha256:52d70126e55273c7238f33d8e01359cf9292de8c5cbf0ba36e284b039b432d96
+      friendly_name: null
+  - claim_id: 4c7c3b13-3800-4c5e-bb27-60db3f559dbf
+    claim_hash: 6ea9b75d00fb98c45a297eed4c12c1d068c63316abcc33fd62e278ca013b15e1
+    content: Alexander Deyev was discredited by Estonian investigations into the alleged worthlessness of his smoky glass
+      orb (D field generator) device.
+    original_excerpt: He was discredited in a really serious way by Estonian investigations into the alleged worthlessness
+      of his D-generator device.
+    claim_type: administrative
+    attestation: first_hand
+    speaker:
+      node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+      title: Ross Coulthart
+    provenance_chain:
+      origin_kind: speaker
+      origin: Ross Coulthart
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: f3fd5012-43f9-4615-bf52-34f4a2e9f7ff
+        title: Alexander Deyev
+        slug: alexander-deyev
+    date: null
+    date_end: null
+    location_in_record: 00:59:19.7-00:59:28.8
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: b8989f6c-2466-4fd6-a988-1ac629ce1620
+      record_title: 'Object M: The buried Estonian mystery the KGB spent years trying to reach | Reality Check'
+      record_date: '2026-08-11'
+      record_reference: https://www.youtube.com/watch?v=OQULI6QqIhY
+      content_hash: sha256:52d70126e55273c7238f33d8e01359cf9292de8c5cbf0ba36e284b039b432d96
+      friendly_name: null
+  - claim_id: 47a043ec-e1fb-4df4-a594-350d41eaf06e
+    claim_hash: c1c6345a2ea8b646064f7e762fd7f760ebcc38839a9e8681826e856089e557a9
+    content: Alexander Deyev was hounded out of Estonia for being considered a fraud.
+    original_excerpt: Basically, he was hounded out of Estonia for being a bit of a fraud, wasn't he?
+    claim_type: administrative
+    attestation: first_hand
+    speaker:
+      node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+      title: Ross Coulthart
+    provenance_chain:
+      origin_kind: speaker
+      origin: Ross Coulthart
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: e62816e8-9be6-489d-8909-9a89ca8816f5
+        title: Estonia, Saaremaa
+        slug: saaremaa-estonia
+      - node_id: f3fd5012-43f9-4615-bf52-34f4a2e9f7ff
+        title: Alexander Deyev
+        slug: alexander-deyev
+    date: null
+    date_end: null
+    location_in_record: 00:59:29.8-00:59:34.2
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: b8989f6c-2466-4fd6-a988-1ac629ce1620
+      record_title: 'Object M: The buried Estonian mystery the KGB spent years trying to reach | Reality Check'
+      record_date: '2026-08-11'
+      record_reference: https://www.youtube.com/watch?v=OQULI6QqIhY
+      content_hash: sha256:52d70126e55273c7238f33d8e01359cf9292de8c5cbf0ba36e284b039b432d96
+      friendly_name: null
+  - claim_id: e69e363e-4fe9-4f4c-ab0c-fa10d7eacc9a
+    claim_hash: 6690995826ba89f6ef748a50cd354990744015a34d4c14a9281ee730de773f9e
+    content: Alexander Deyev took over a large electronics factory in Estonia to manufacture his own devices, which were later
+      completely discredited.
+    original_excerpt: He did some shady business in Estonia. He took over this large electronics factory to manufacture or
+      produce his own magical systems, which were then later on discredited completely.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: e5ca493a-95a6-4499-b297-c11055fdd303
+      title: Mart Sander
+    provenance_chain:
+      origin_kind: speaker
+      origin: Mart Sander
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: f3fd5012-43f9-4615-bf52-34f4a2e9f7ff
+        title: Alexander Deyev
+        slug: alexander-deyev
+    date: null
+    date_end: null
+    location_in_record: 00:59:35.4-00:59:48.9
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: b8989f6c-2466-4fd6-a988-1ac629ce1620
+      record_title: 'Object M: The buried Estonian mystery the KGB spent years trying to reach | Reality Check'
+      record_date: '2026-08-11'
+      record_reference: https://www.youtube.com/watch?v=OQULI6QqIhY
+      content_hash: sha256:52d70126e55273c7238f33d8e01359cf9292de8c5cbf0ba36e284b039b432d96
+      friendly_name: null
+  - claim_id: f34920fb-13a9-4ee1-9e73-854a4ff60a36
+    claim_hash: 8b37f7af979c77bbaf4054399ab3d5a89aaa8efb9bf4edfeb89c50bd4730f495
+    content: Alexander Deyev's downfall was orchestrated from the highest level of the Communist Party of the Soviet Union,
+      including a special television programme ridiculing him and pamphlets written about him.
+    original_excerpt: his downfall wasn't orchestrated in Estonia, it was orchestrated from the highest level of the Communist
+      Party of the Soviet Union, because the way they attacked him publicly, it was really like a public execution with all
+      the, like a special TV program produced, ridiculing him, the pamphlets being written about him
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: e5ca493a-95a6-4499-b297-c11055fdd303
+      title: Mart Sander
+    provenance_chain:
+      origin_kind: speaker
+      origin: Mart Sander
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: f3fd5012-43f9-4615-bf52-34f4a2e9f7ff
+        title: Alexander Deyev
+        slug: alexander-deyev
+      - node_id: fe22f50b-3a4a-46fe-8f6b-fb971f62dbf3
+        title: Communist Party of the Soviet Union
+        slug: communist-party-of-the-soviet-union
+    date: null
+    date_end: null
+    location_in_record: 00:59:50.4-01:00:12.9
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: b8989f6c-2466-4fd6-a988-1ac629ce1620
+      record_title: 'Object M: The buried Estonian mystery the KGB spent years trying to reach | Reality Check'
+      record_date: '2026-08-11'
+      record_reference: https://www.youtube.com/watch?v=OQULI6QqIhY
+      content_hash: sha256:52d70126e55273c7238f33d8e01359cf9292de8c5cbf0ba36e284b039b432d96
+      friendly_name: null
+  - claim_id: aae294cf-bc43-48fd-b442-f6b111ff3a19
+    claim_hash: 69db61cedbb074f9851e23ec04891a1c46d0d9aabd58bc97316480c3a1d4b114
+    content: Ross Coulthart wonders whether discrediting Alexander Deyev as a hoaxer was a cover-up intended to stop the West
+      from taking an interest in the Merivalja object as the Cold War ended.
+    original_excerpt: Well, I'm just wondering if it wasn't a cover-up. I mean, one good way of stopping the West from taking
+      an interest in this object at the beginning of the end of the Cold War as Glasnost began would be to suggest the whole
+      thing was just a silly hoax by this Alexander Deyev guy.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+      title: Ross Coulthart
+    provenance_chain:
+      origin_kind: speaker
+      origin: Ross Coulthart
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: f3fd5012-43f9-4615-bf52-34f4a2e9f7ff
+        title: Alexander Deyev
+        slug: alexander-deyev
+      - node_id: f750f72c-a0ff-40ef-a891-06a2b56286d9
+        title: Merivälja object
+        slug: merivalja-object
+    date: null
+    date_end: null
+    location_in_record: 01:00:18.7-01:00:34.0
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: b8989f6c-2466-4fd6-a988-1ac629ce1620
+      record_title: 'Object M: The buried Estonian mystery the KGB spent years trying to reach | Reality Check'
+      record_date: '2026-08-11'
+      record_reference: https://www.youtube.com/watch?v=OQULI6QqIhY
+      content_hash: sha256:52d70126e55273c7238f33d8e01359cf9292de8c5cbf0ba36e284b039b432d96
+      friendly_name: null
+  - claim_id: a30ce3f4-f9c0-413a-9fdb-38d7e1607d2a
+    claim_hash: d030e595a389a779fc27a7b1f90d8329b57b80eb582f2d5bb1ef206799f0bd5c
+    content: Mart Sander considers the scale of the public campaign against Alexander Deyev, who had been a valuable Soviet
+      asset for many years, proof that the campaign was organised to thoroughly discredit everything he had been involved
+      with.
+    original_excerpt: knowing how the Russian system works, the way the system attacked Deyev who had been its priceless asset
+      for many years. It is spectacular and it can only prove that this public execution was organized to really, really discredit
+      everything that he had dealings with.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: e5ca493a-95a6-4499-b297-c11055fdd303
+      title: Mart Sander
+    provenance_chain:
+      origin_kind: speaker
+      origin: Mart Sander
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: f3fd5012-43f9-4615-bf52-34f4a2e9f7ff
+        title: Alexander Deyev
+        slug: alexander-deyev
+    date: null
+    date_end: null
+    location_in_record: 01:01:13.8-01:01:38.9
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: b8989f6c-2466-4fd6-a988-1ac629ce1620
+      record_title: 'Object M: The buried Estonian mystery the KGB spent years trying to reach | Reality Check'
+      record_date: '2026-08-11'
+      record_reference: https://www.youtube.com/watch?v=OQULI6QqIhY
+      content_hash: sha256:52d70126e55273c7238f33d8e01359cf9292de8c5cbf0ba36e284b039b432d96
+      friendly_name: null

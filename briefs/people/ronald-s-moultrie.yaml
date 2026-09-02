@@ -1,0 +1,462 @@
+schema: anomalica/brief/1
+brief_hash: 748c3bc8aebb6d2d8b32b89b39dc808fd28b53a52daab5ec980377818ea68265
+page:
+  kind: entity
+  node_id: 267cc8b1-ad95-4164-bf4b-3b2fd4acb524
+  node_type: person
+  title: Ronald S. Moultrie
+  slug: ronald-s-moultrie
+  claim_count: 9
+  claim_count_total: 9
+generated:
+  graph_version: '2026-09-01T10:10:49.863545+00:00'
+size:
+  claims: 9
+  tokens_estimated: 2899
+  sized_against: 1050000
+publication:
+  status: published
+  note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
+    transcripts are gated elsewhere.
+belonging:
+  verified: 0
+  suspect_excluded: 0
+  unreviewed: 9
+related_nodes:
+  - node_id: e075c573-8ae3-4bc0-9125-d4b9fa3e140f
+    title: 2022-05-17 US Congress public hearing on UAPs
+    node_type: event
+    slug: 2022-05-17-us-congress-public-hearing-on-uaps
+    shared_claims: 3
+  - node_id: 93bff7ad-ecec-4d5c-a815-9ecd44105198
+    title: Scott W. Bray
+    node_type: person
+    slug: scott-w-bray
+    shared_claims: 3
+  - node_id: 2fa58da5-607b-42f4-8c19-77b4af30cd4d
+    title: 2022-05 Congressional Unidentified Aerial Phenomena (UAP) hearing
+    node_type: event
+    slug: 2022-05-congressional-unidentified-aerial-phenomena-uap-hearing
+    shared_claims: 2
+  - node_id: 6c1618c8-50db-42c9-860e-6d736ef280bf
+    title: Advanced Aerospace Threat Identification Program (AATIP)
+    node_type: project
+    slug: advanced-aerospace-threat-identification-program-aatip
+    shared_claims: 2
+  - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
+    title: Unidentified Anomalous Phenomena (UAP)
+    node_type: topic
+    slug: unidentified-anomalous-phenomena-uap
+    shared_claims: 2
+  - node_id: c0120480-45c2-4c24-81d4-8031b544ee40
+    title: 2022-12 Moultrie-Kirkpatrick All-Domain Anomaly Resolution Office (AARO) media roundtable transcript
+    node_type: document
+    slug: 2022-12-moultrie-kirkpatrick-all-domain-anomaly-resolution-office-aaro-media-roundtable-transcript
+    shared_claims: 1
+  - node_id: e79e207c-a848-4eb7-9246-07587b20d2c1
+    title: All-domain Anomaly Resolution Office (AARO)
+    node_type: organisation
+    slug: all-domain-anomaly-resolution-office-aaro
+    shared_claims: 1
+  - node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+    title: Luis Elizondo
+    node_type: person
+    slug: luis-elizondo
+    shared_claims: 1
+  - node_id: cd8f30e6-7a36-4970-b146-1da4271075d3
+    title: Mike Gallagher
+    node_type: person
+    slug: mike-gallagher
+    shared_claims: 1
+  - node_id: 769601ed-5b7f-4833-ae21-5d60d0fddaaa
+    title: Project Blue Book
+    node_type: project
+    slug: project-blue-book
+    shared_claims: 1
+  - node_id: 02b74577-f272-4ae7-8520-5fda4eacb5f2
+    title: Sean Kirkpatrick
+    node_type: person
+    slug: sean-kirkpatrick
+    shared_claims: 1
+  - node_id: 501412f8-f77e-40f4-926b-18142d005cd4
+    title: Unidentified Aerial Phenomena Task Force (UAPTF)
+    node_type: project
+    slug: unidentified-aerial-phenomena-task-force-uaptf
+    shared_claims: 1
+  - node_id: 99f08514-5471-4eaf-bce3-46c474a8d304
+    title: United States Department of Defense (DoD)
+    node_type: organisation
+    slug: united-states-department-of-defense-dod
+    shared_claims: 1
+claims:
+  - claim_id: 8b194f9e-f5d1-4564-9ac3-486610ca67fd
+    claim_hash: 001b594019774002884b7b2d8bc1eed12554171b08488ba304bf73d69d0449df
+    content: Neither Ronald S. Moultrie nor Scott W. Bray was put under oath during the 17 May 2022 US Congress public hearing
+      on UAP.
+    original_excerpt: It is important to note neither official was put under oath.
+    claim_type: observation
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 267cc8b1-ad95-4164-bf4b-3b2fd4acb524
+        title: Ronald S. Moultrie
+        slug: ronald-s-moultrie
+      - node_id: 93bff7ad-ecec-4d5c-a815-9ecd44105198
+        title: Scott W. Bray
+        slug: scott-w-bray
+      - node_id: e075c573-8ae3-4bc0-9125-d4b9fa3e140f
+        title: 2022-05-17 US Congress public hearing on UAPs
+        slug: 2022-05-17-us-congress-public-hearing-on-uaps
+    date: '2022-05-17'
+    date_end: null
+    location_in_record: ch30:22067-22122
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 9727daf9-7f4f-4023-8412-0caa4bc19abb
+    claim_hash: d4a72c3a42c51d4868acf4b93add56f74e1391fc8c4547374476059a20c46c73
+    content: Ronald S. Moultrie and Scott W. Bray publicly acknowledged that UAP posed potential flight safety and general
+      security risks.
+    original_excerpt: Ronald S. Moultrie, the Undersecretary of Defense for Intelligence and Security and Scott W. Bray, the
+      Deputy Director of Naval Intelligence, publicly acknowledged that UAPs posed potential flight safety and general security
+      risks.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 267cc8b1-ad95-4164-bf4b-3b2fd4acb524
+      title: Ronald S. Moultrie
+    provenance_chain:
+      origin_kind: speaker
+      origin: Ronald S. Moultrie and Scott W. Bray
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 267cc8b1-ad95-4164-bf4b-3b2fd4acb524
+        title: Ronald S. Moultrie
+        slug: ronald-s-moultrie
+      - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
+        title: Unidentified Anomalous Phenomena (UAP)
+        slug: unidentified-anomalous-phenomena-uap
+      - node_id: 93bff7ad-ecec-4d5c-a815-9ecd44105198
+        title: Scott W. Bray
+        slug: scott-w-bray
+      - node_id: e075c573-8ae3-4bc0-9125-d4b9fa3e140f
+        title: 2022-05-17 US Congress public hearing on UAPs
+        slug: 2022-05-17-us-congress-public-hearing-on-uaps
+    date: '2022-05-17'
+    date_end: null
+    location_in_record: ch30:22128-22353
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: f0f237ed-38a2-4a60-8d47-5fb31b0cb47b
+    claim_hash: 6a6fc9c48a8135e6424d0c8e4ac1cf59b490873a79ba967882e3808365f4479e
+    content: Ronald S. Moultrie was the Undersecretary of Defense for Intelligence and Security.
+    original_excerpt: Ronald S. Moultrie, the Undersecretary of Defense for Intelligence and Security and Scott W. Bray, the
+      Deputy Director of Naval Intelligence, publicly acknowledged that UAPs posed potential flight safety and general security
+      risks.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 267cc8b1-ad95-4164-bf4b-3b2fd4acb524
+        title: Ronald S. Moultrie
+        slug: ronald-s-moultrie
+    date: null
+    date_end: null
+    location_in_record: ch30:22128-22353
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 2dbea421-236c-427a-bb37-311c57ee0a60
+    claim_hash: c5c6f02836994afb2f144283ad16216fa44f036655731ef699fec9473765619b
+    content: Since a preliminary UAP report in mid-2021, the Pentagon's UAP team was investigating 400 unresolved UAP incidents
+      as of the 2022-05-17 congressional hearing.
+    original_excerpt: they admitted that since a preliminary UAP report in mid-2021 the Pentagon’s UAP team was now investigating
+      400 unresolved UAP incidents.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 267cc8b1-ad95-4164-bf4b-3b2fd4acb524
+      title: Ronald S. Moultrie
+    provenance_chain:
+      origin_kind: speaker
+      origin: Ronald S. Moultrie and Scott W. Bray
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
+        title: Unidentified Anomalous Phenomena (UAP)
+        slug: unidentified-anomalous-phenomena-uap
+      - node_id: adec06c4-e59e-410f-a766-bd9beebe1c58
+        title: United States Pentagon
+        slug: united-states-pentagon
+      - node_id: e075c573-8ae3-4bc0-9125-d4b9fa3e140f
+        title: 2022-05-17 US Congress public hearing on UAPs
+        slug: 2022-05-17-us-congress-public-hearing-on-uaps
+    date: '2022-05-17'
+    date_end: null
+    location_in_record: ch30:22447-22574
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: abf1d136-d3ae-441f-b9ad-49b04020d3be
+    claim_hash: 53f3ad54841e2f8bbef5c6235ffe217bf2191391de19b58ffb31077cf4f655fc
+    content: At the 17 May 2022 US Congress public hearing on UAP, Mike Gallagher asked Ronald S. Moultrie and Scott W. Bray
+      whether they were aware of any Department of Defense or DOD contract programs focused on UAP from a technological engineering
+      perspective, and both replied they were not aware of anything beyond the Navy UAP Task Force.
+    original_excerpt: 'Gallagher: Are you aware of any other DOD or DOD contract programs focused on UAPs from a technological
+      engineering perspective …? Mr. Moultrie: I am not aware of any contractual programs that are focused on any anything
+      related to this, other than what we are doing in the Navy task force and what we are about to launch in terms of our
+      effort. Mr. Gallagher: Same question for you, Mr. Bray. Mr. Bray: Same answer. Not aware of anything outside what we
+      are doing in the UAP Task Force.'
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 267cc8b1-ad95-4164-bf4b-3b2fd4acb524
+      title: Ronald S. Moultrie
+    provenance_chain:
+      origin_kind: speaker
+      origin: Ronald S. Moultrie and Scott W. Bray
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 267cc8b1-ad95-4164-bf4b-3b2fd4acb524
+        title: Ronald S. Moultrie
+        slug: ronald-s-moultrie
+      - node_id: 501412f8-f77e-40f4-926b-18142d005cd4
+        title: Unidentified Aerial Phenomena Task Force (UAPTF)
+        slug: unidentified-aerial-phenomena-task-force-uaptf
+      - node_id: 93bff7ad-ecec-4d5c-a815-9ecd44105198
+        title: Scott W. Bray
+        slug: scott-w-bray
+      - node_id: cd8f30e6-7a36-4970-b146-1da4271075d3
+        title: Mike Gallagher
+        slug: mike-gallagher
+      - node_id: e075c573-8ae3-4bc0-9125-d4b9fa3e140f
+        title: 2022-05-17 US Congress public hearing on UAPs
+        slug: 2022-05-17-us-congress-public-hearing-on-uaps
+    date: '2022-05-17'
+    date_end: null
+    location_in_record: ch30:23527-24000
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: b49ab5c0-5210-4b4a-aeef-ca858d62a219
+    claim_hash: ac1e9b1d074dfa5ac58afa88192cd853b012f399ea579e8f8bc6f9bb6ebb2ad0
+    content: At a separate briefing with select media in late 2022, Ronald S. Moultrie said the Pentagon had not seen anything
+      that would lead it to believe that any of the objects under investigation were of alien origin.
+    original_excerpt: He replied, ‘We have not seen anything that would – but we are certainly very early on – that would
+      lead us to believe that any of the objects that we have seen are of alien origin, if you will.’9
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 267cc8b1-ad95-4164-bf4b-3b2fd4acb524
+      title: Ronald S. Moultrie
+    provenance_chain:
+      origin_kind: speaker
+      origin: Ronald S. Moultrie
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 267cc8b1-ad95-4164-bf4b-3b2fd4acb524
+        title: Ronald S. Moultrie
+        slug: ronald-s-moultrie
+      - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
+        title: Unidentified Anomalous Phenomena (UAP)
+        slug: unidentified-anomalous-phenomena-uap
+    date: '2022'
+    date_end: null
+    location_in_record: ch30:24756-24951
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 063c7286-ed1b-4ea1-bfa1-3a5c3a7d21b4
+    claim_hash: ae2291fbcf2d4ee763454fd73eef9f4025a09024f068529ddf68f1fb46f837fc
+    content: Ronald Moultrie and Sean Kirkpatrick held a media roundtable on the All-Domain Anomaly Resolution Office on 2022-12-16.
+    original_excerpt: Transcript, 'USD (I&S) Ronald Moultrie & Dr Sean Kirkpatrick Media Roundtable on the All-Domain Anomaly
+      Resolution Office', 16 Dec 2022, US Defense Dept.
+    claim_type: administrative
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: document
+      origin: US Defense Department media roundtable transcript
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 02b74577-f272-4ae7-8520-5fda4eacb5f2
+        title: Sean Kirkpatrick
+        slug: sean-kirkpatrick
+      - node_id: 267cc8b1-ad95-4164-bf4b-3b2fd4acb524
+        title: Ronald S. Moultrie
+        slug: ronald-s-moultrie
+      - node_id: 99f08514-5471-4eaf-bce3-46c474a8d304
+        title: United States Department of Defense (DoD)
+        slug: united-states-department-of-defense-dod
+      - node_id: c0120480-45c2-4c24-81d4-8031b544ee40
+        title: 2022-12 Moultrie-Kirkpatrick All-Domain Anomaly Resolution Office (AARO) media roundtable transcript
+        slug: 2022-12-moultrie-kirkpatrick-all-domain-anomaly-resolution-office-aaro-media-roundtable-transcript
+      - node_id: e79e207c-a848-4eb7-9246-07587b20d2c1
+        title: All-domain Anomaly Resolution Office (AARO)
+        slug: all-domain-anomaly-resolution-office-aaro
+    date: '2022-12-16'
+    date_end: null
+    location_in_record: ch34:72830-72978
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: d18804aa-a138-4cf2-8047-0dd432dcb9c2
+    claim_hash: 5339d36239c2887f06973c8d80e9b5c12a0ebca5d870c873e472938f12c4b69d
+    content: At the May 2022 Congressional UAP hearing, Ronald Moultrie, head of the Pentagon's intelligence efforts, testified
+      under oath that the Advanced Aerospace Threat Identification Program (AATIP) and Project Blue Book were the only prior
+      UAP research programmes he was aware of.
+    original_excerpt: the head of the Pentagon’s intelligence efforts, Ronald Moultrue, said, “Other than AATIP and Blue Book,
+      no.”
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 267cc8b1-ad95-4164-bf4b-3b2fd4acb524
+      title: Ronald S. Moultrie
+    provenance_chain:
+      origin_kind: speaker
+      origin: Ronald Moultrie
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 267cc8b1-ad95-4164-bf4b-3b2fd4acb524
+        title: Ronald S. Moultrie
+        slug: ronald-s-moultrie
+      - node_id: 2fa58da5-607b-42f4-8c19-77b4af30cd4d
+        title: 2022-05 Congressional Unidentified Aerial Phenomena (UAP) hearing
+        slug: 2022-05-congressional-unidentified-aerial-phenomena-uap-hearing
+      - node_id: 6c1618c8-50db-42c9-860e-6d736ef280bf
+        title: Advanced Aerospace Threat Identification Program (AATIP)
+        slug: advanced-aerospace-threat-identification-program-aatip
+      - node_id: 769601ed-5b7f-4833-ae21-5d60d0fddaaa
+        title: Project Blue Book
+        slug: project-blue-book
+    date: null
+    date_end: null
+    location_in_record: ch31:33937-34042
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  - claim_id: 69f4cc41-8fb4-4f40-91df-cea376629471
+    claim_hash: 03f5c6b4d7c43b169691b15b12bc2e29fe2f3a2008251af5dd97e3c3c7354eb2
+    content: Ronald Moultrie's acknowledgement under oath of the Advanced Aerospace Threat Identification Program (AATIP)
+      at the May 2022 Congressional UAP hearing was regarded by Lue Elizondo as a silent victory, confirming the Pentagon
+      acknowledged the existence of his old programme.
+    original_excerpt: This was a silent victory for me. At least now the Pentagon acknowledged the existence of my old program,
+      AATIP, and its efforts focusing on UAP.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+      title: Luis Elizondo
+    provenance_chain:
+      origin_kind: speaker
+      origin: Lue Elizondo
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 267cc8b1-ad95-4164-bf4b-3b2fd4acb524
+        title: Ronald S. Moultrie
+        slug: ronald-s-moultrie
+      - node_id: 2fa58da5-607b-42f4-8c19-77b4af30cd4d
+        title: 2022-05 Congressional Unidentified Aerial Phenomena (UAP) hearing
+        slug: 2022-05-congressional-unidentified-aerial-phenomena-uap-hearing
+      - node_id: 6c1618c8-50db-42c9-860e-6d736ef280bf
+        title: Advanced Aerospace Threat Identification Program (AATIP)
+        slug: advanced-aerospace-threat-identification-program-aatip
+      - node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+        title: Luis Elizondo
+        slug: luis-elizondo
+    date: null
+    date_end: null
+    location_in_record: ch31:34047-34188
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos

@@ -1,0 +1,234 @@
+schema: anomalica/brief/1
+brief_hash: 8ee22d0de4096255aae1b75f6433c888ec8232103d1e6ffea1f0fe6392374c48
+page:
+  kind: entity
+  node_id: c6260730-daaa-425f-94a4-6d74920fb46b
+  node_type: person
+  title: Paul Mellon
+  slug: paul-mellon
+  claim_count: 4
+  claim_count_total: 4
+generated:
+  graph_version: '2026-09-01T10:10:49.863545+00:00'
+size:
+  claims: 4
+  tokens_estimated: 1129
+  sized_against: 1050000
+publication:
+  status: published
+  note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
+    transcripts are gated elsewhere.
+belonging:
+  verified: 0
+  suspect_excluded: 0
+  unreviewed: 4
+related_nodes:
+  - node_id: 38b84d4a-96df-4684-bb46-f6f64f392add
+    title: Central Intelligence Agency (CIA)
+    node_type: organisation
+    slug: central-intelligence-agency-cia
+    shared_claims: 2
+  - node_id: 079d4381-4273-418b-bc9a-468623f95c6e
+    title: Jesse Mitchells
+    node_type: person
+    slug: jesse-mitchells
+    shared_claims: 2
+  - node_id: d60d84cb-b177-4c7d-9e89-5bb39f5397fc
+    title: John Warner IV
+    node_type: person
+    slug: john-warner-iv
+    shared_claims: 2
+  - node_id: dea35210-38f0-4797-8438-84a5a9f42661
+    title: Allen Dulles
+    node_type: person
+    slug: allen-dulles
+    shared_claims: 1
+  - node_id: 96bf6aff-b3ac-4272-bd98-dc4eec1787fb
+    title: Crash retrieval and reverse engineering
+    node_type: topic
+    slug: crash-retrieval-and-reverse-engineering
+    shared_claims: 1
+  - node_id: 00bb755b-8df3-4702-a8cf-a6df3a727834
+    title: Harald Malmgren
+    node_type: person
+    slug: harald-malmgren
+    shared_claims: 1
+  - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
+    title: Unidentified Flying Object (UFO)
+    node_type: topic
+    slug: unidentified-flying-object-ufo
+    shared_claims: 1
+  - node_id: dcb95bd1-7593-4fe4-a992-2fc6a05fcb2c
+    title: World War II
+    node_type: event
+    slug: world-war-ii
+    shared_claims: 1
+claims:
+  - claim_id: 58175e44-fd69-46d8-98aa-b06e429da474
+    claim_hash: e54dae45626cdc833ecf4369611bdba1420664fd103290b8ff06dc6eb9f798fc
+    content: In an apocryphal account, John Warner IV recounted that over a third martini Paul Mellon told him he and Allen
+      Dulles had been on a technology retrieval operation in Nazi Germany around 1944 or 1945, standing atop a huge saucer-like
+      UFO in Czechoslovakia.
+    original_excerpt: I think you even have an apocryphal story where Paul Mellon ... And he talks about, he said he's on
+      his third martini with Paul Mellon. And Paul Mellon tells him that he and Allen Dulles were on this like, you know,
+      tech retrieval operation deep in, you know, post-World War II, you know, Nazi Germany, or maybe it was like '44, '45.
+      And they're saying that they're standing atop this huge saucer-like UFO in Czechoslova
+    claim_type: hearsay
+    attestation: third_hand
+    speaker:
+      node_id: 079d4381-4273-418b-bc9a-468623f95c6e
+      title: Jesse Mitchells
+    provenance_chain:
+      origin_kind: named
+      origin: Paul Mellon
+      relay:
+        - John Warner IV
+        - Jesse Michels
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 96bf6aff-b3ac-4272-bd98-dc4eec1787fb
+        title: Crash retrieval and reverse engineering
+        slug: crash-retrieval-and-reverse-engineering
+      - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
+        title: Unidentified Flying Object (UFO)
+        slug: unidentified-flying-object-ufo
+      - node_id: c6260730-daaa-425f-94a4-6d74920fb46b
+        title: Paul Mellon
+        slug: paul-mellon
+      - node_id: d60d84cb-b177-4c7d-9e89-5bb39f5397fc
+        title: John Warner IV
+        slug: john-warner-iv
+      - node_id: dcb95bd1-7593-4fe4-a992-2fc6a05fcb2c
+        title: World War II
+        slug: world-war-ii
+      - node_id: dea35210-38f0-4797-8438-84a5a9f42661
+        title: Allen Dulles
+        slug: allen-dulles
+    date: null
+    date_end: null
+    location_in_record: 01:13:32.6-01:14:03.2
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 64b84f95-238c-4ab7-a678-bee55f985b14
+      record_title: The UFO Cover-Up Leads to One Secret Society — and One Final Event
+      record_date: '2026-07-14'
+      record_reference: https://www.youtube.com/watch?v=kccrkCGGzX4
+      content_hash: sha256:d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7b5a1b98d
+      friendly_name: null
+  - claim_id: b80c2234-74a5-4923-bd5d-9ed4fb7a22e4
+    claim_hash: d5e4dc77a5b05036b7a415b89e5d89685731ea2fbc456922dcf987ddea2af6a2
+    content: Paul Mellon was one of the founders of the CIA, and his grandson is John Warner IV.
+    original_excerpt: Paul Mellon, who's one of, you know, founders of the CIA, his grandson is a guy named John Warner IV
+    claim_type: administrative
+    attestation: null
+    speaker:
+      node_id: 079d4381-4273-418b-bc9a-468623f95c6e
+      title: Jesse Mitchells
+    provenance_chain:
+      origin_kind: unattributed
+      origin: narration
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 38b84d4a-96df-4684-bb46-f6f64f392add
+        title: Central Intelligence Agency (CIA)
+        slug: central-intelligence-agency-cia
+      - node_id: c6260730-daaa-425f-94a4-6d74920fb46b
+        title: Paul Mellon
+        slug: paul-mellon
+      - node_id: d60d84cb-b177-4c7d-9e89-5bb39f5397fc
+        title: John Warner IV
+        slug: john-warner-iv
+    date: null
+    date_end: null
+    location_in_record: 01:13:35.0-01:13:40.3
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 64b84f95-238c-4ab7-a678-bee55f985b14
+      record_title: The UFO Cover-Up Leads to One Secret Society — and One Final Event
+      record_date: '2026-07-14'
+      record_reference: https://www.youtube.com/watch?v=kccrkCGGzX4
+      content_hash: sha256:d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7b5a1b98d
+      friendly_name: null
+  - claim_id: 8ceeb90c-9772-46c5-9a24-a49de32b500a
+    claim_hash: 657fbb5b8bf41343d5841d8ae03ef7c26879fc49b8a0b48758e4c994974c5867
+    content: Harald Malmgren kept Paul Mellon's walking stick at his apartment, and Jesse Michels held it.
+    original_excerpt: He had Paul Mellon's walking stick at his apartment and I'm holding it.
+    claim_type: observation
+    attestation: first_hand
+    speaker:
+      node_id: 079d4381-4273-418b-bc9a-468623f95c6e
+      title: Jesse Mitchells
+    provenance_chain:
+      origin_kind: speaker
+      origin: Jesse Michels
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 00bb755b-8df3-4702-a8cf-a6df3a727834
+        title: Harald Malmgren
+        slug: harald-malmgren
+      - node_id: 079d4381-4273-418b-bc9a-468623f95c6e
+        title: Jesse Mitchells
+        slug: jesse-mitchells
+      - node_id: c6260730-daaa-425f-94a4-6d74920fb46b
+        title: Paul Mellon
+        slug: paul-mellon
+    date: null
+    date_end: null
+    location_in_record: 00:15:47.0-00:15:50.8
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: dc9d8bc8-9c1f-46b4-9b89-8d86b6b08e1d
+      record_title: Jesse Michels, UAPGerb & Chris Ramsay - Flying Saucer Diner
+      record_date: '2026-07-17'
+      record_reference: https://www.youtube.com/watch?v=HFLBDi87888
+      content_hash: sha256:7b2e272d7c82fdda745ee0354d7c9cc4b0d5ba5506015ca27edd9169a768b262
+      friendly_name: null
+  - claim_id: 37e6dd83-3999-4fc5-87c1-57f29f98f146
+    claim_hash: 441f4eb85a66af82bce159417daf167ae8f7ec1baf2c4b5473b2af30ce20e9c6
+    content: Paul Mellon founded the Central Intelligence Agency.
+    original_excerpt: Paul Mellon founded the CIA.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 079d4381-4273-418b-bc9a-468623f95c6e
+      title: Jesse Mitchells
+    provenance_chain:
+      origin_kind: speaker
+      origin: Jesse Michels
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 079d4381-4273-418b-bc9a-468623f95c6e
+        title: Jesse Mitchells
+        slug: jesse-mitchells
+      - node_id: 38b84d4a-96df-4684-bb46-f6f64f392add
+        title: Central Intelligence Agency (CIA)
+        slug: central-intelligence-agency-cia
+      - node_id: c6260730-daaa-425f-94a4-6d74920fb46b
+        title: Paul Mellon
+        slug: paul-mellon
+    date: null
+    date_end: null
+    location_in_record: 00:15:51.0-00:15:51.8
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: dc9d8bc8-9c1f-46b4-9b89-8d86b6b08e1d
+      record_title: Jesse Michels, UAPGerb & Chris Ramsay - Flying Saucer Diner
+      record_date: '2026-07-17'
+      record_reference: https://www.youtube.com/watch?v=HFLBDi87888
+      content_hash: sha256:7b2e272d7c82fdda745ee0354d7c9cc4b0d5ba5506015ca27edd9169a768b262
+      friendly_name: null

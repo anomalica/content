@@ -1,0 +1,2794 @@
+schema: anomalica/brief/1
+brief_hash: 90eea010dc7a22971c9e2b59dd09d5d693aa9d8de98d43a6559e874bfa889d44
+page:
+  kind: entity
+  node_id: 42651247-b0a1-4ce4-804a-101c623e504b
+  node_type: person
+  title: Ian Stevenson
+  slug: ian-stevenson
+  claim_count: 70
+  claim_count_total: 70
+generated:
+  graph_version: '2026-09-01T10:10:49.863545+00:00'
+size:
+  claims: 70
+  tokens_estimated: 21067
+  sized_against: 1050000
+publication:
+  status: published
+  note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
+    transcripts are gated elsewhere.
+belonging:
+  verified: 0
+  suspect_excluded: 0
+  unreviewed: 70
+related_nodes:
+  - node_id: 66da3a02-fe7e-46f1-a344-d50afed95f73
+    title: Past-life memories in young children
+    node_type: topic
+    slug: past-life-memories-in-young-children
+    shared_claims: 13
+  - node_id: 7113f0a0-43a7-4c57-8d08-28d419f85121
+    title: Erlendur Haraldsson
+    node_type: person
+    slug: erlendur-haraldsson
+    shared_claims: 8
+  - node_id: b04b9a11-f9cf-4a78-abf8-79f95b58fa2f
+    title: University of Virginia
+    node_type: organisation
+    slug: university-of-virginia
+    shared_claims: 8
+  - node_id: a081e647-7d45-4a5b-83d8-2f42762ea9d0
+    title: Jim Tucker
+    node_type: person
+    slug: jim-tucker
+    shared_claims: 5
+  - node_id: 6021edb6-ae6b-4010-9cc7-08ef5b233d2d
+    title: Runolfur Runolfsson ("Runki")
+    node_type: person
+    slug: runolfur-runolfsson-runki
+    shared_claims: 5
+  - node_id: b4f06585-086c-45f5-9b05-c2bc9386e7d6
+    title: India, Darbhanga
+    node_type: place
+    slug: darbhanga-india
+    shared_claims: 4
+  - node_id: 9048f0bf-d566-4d97-a41d-31b5d6999249
+    title: Division of Perceptual Studies (DOPS)
+    node_type: organisation
+    slug: division-of-perceptual-studies-dops
+    shared_claims: 3
+  - node_id: fd372baf-6342-45ec-8819-9631bd1f7ad8
+    title: Kumkum Verma
+    node_type: person
+    slug: kumkum-verma
+    shared_claims: 3
+  - node_id: 953f6232-9902-437f-ad4c-add4fd080043
+    title: Leslie Kean
+    node_type: person
+    slug: leslie-kean
+    shared_claims: 3
+  - node_id: c6dedc06-26a1-42b5-b86b-4be56bfe2614
+    title: Stevenson 1983 paper on seventy-nine American past-life cases
+    node_type: document
+    slug: stevenson-1983-paper-on-seventy-nine-american-past-life-cases
+    shared_claims: 3
+  - node_id: b65a228b-8581-437c-a083-670590b31c40
+    title: Alan Gauld
+    node_type: person
+    slug: alan-gauld
+    shared_claims: 2
+  - node_id: 4c4e6480-19f6-4519-be1c-af08333c56bb
+    title: Antonia Mills
+    node_type: person
+    slug: antonia-mills
+    shared_claims: 2
+  - node_id: ef8c1322-ef79-4494-87f0-c18fd4557165
+    title: 'Cases of the Reincarnation Type, Volume I: Ten Cases in India (book by Ian Stevenson)'
+    node_type: document
+    slug: volume-i-ten-cases-in-india-book-by-ian-stevenson-cases-of-the-reincarnation-type
+    shared_claims: 2
+  - node_id: 5c71e89f-0237-46f8-9cc6-d98b70b606f6
+    title: Chanai Choomalaiwong
+    node_type: person
+    slug: chanai-choomalaiwong
+    shared_claims: 2
+  - node_id: ad93eae6-0acc-4b63-b1ff-3a34db5f2d8d
+    title: Discarnate agency hypothesis
+    node_type: topic
+    slug: discarnate-agency-hypothesis
+    shared_claims: 2
+  - node_id: 36e396ed-1562-40df-8175-bb6666c1c7b6
+    title: Drop-in communicators
+    node_type: topic
+    slug: drop-in-communicators
+    shared_claims: 2
+  - node_id: c8d56e9e-8fd1-4d51-823a-4847910946a2
+    title: Hafsteinn Bjornsson
+    node_type: person
+    slug: hafsteinn-bjornsson
+    shared_claims: 2
+  - node_id: 8d88277f-3a2e-4280-8988-3077508fb595
+    title: Jürgen Keil
+    node_type: person
+    slug: jurgen-keil
+    shared_claims: 2
+  - node_id: 2f233091-26fa-48a7-9e00-134ff0e17197
+    title: Post-traumatic play
+    node_type: topic
+    slug: post-traumatic-play
+    shared_claims: 2
+  - node_id: 392eb889-4168-4dc7-971f-ec655151def6
+    title: Reincarnation and Biology
+    node_type: document
+    slug: reincarnation-and-biology
+    shared_claims: 2
+  - node_id: f0122148-a95d-42ca-b659-fccbdfd4b0fc
+    title: Satwant Pasricha
+    node_type: person
+    slug: satwant-pasricha
+    shared_claims: 2
+  - node_id: 02a026d1-6507-444c-b588-63f89ed9a61d
+    title: Sri Lanka
+    node_type: place
+    slug: sri-lanka
+    shared_claims: 2
+  - node_id: c5e8f1ba-09bd-4665-9462-32779d16dd34
+    title: The Journal of Scientific Exploration
+    node_type: organisation
+    slug: the-journal-of-scientific-exploration
+    shared_claims: 2
+  - node_id: 09b0a884-5814-45c2-a845-ec52beda412f
+    title: '"Phobias in Children Who Claim to Remember Previous Lives" (paper by Ian Stevenson)'
+    node_type: document
+    slug: phobias-in-children-who-claim-to-remember-previous-lives-paper-by-ian-stevenson
+    shared_claims: 1
+  - node_id: 6465f4b6-1c53-4df1-b7a9-57c4e0a02834
+    title: '"Unusual Play in Young Children Who Claim to Remember Previous Lives" (paper by Ian Stevenson)'
+    node_type: document
+    slug: unusual-play-in-young-children-who-claim-to-remember-previous-lives-paper-by-ian-stevenson
+    shared_claims: 1
+  - node_id: 6705ff37-f3d0-4c33-a3f8-de6024104abb
+    title: Bruce Greyson
+    node_type: person
+    slug: bruce-greyson
+    shared_claims: 1
+  - node_id: 0c9fc3f9-1cb5-4464-8e67-d9266636559b
+    title: Bua Kai Lawnak
+    node_type: person
+    slug: bua-kai-lawnak
+    shared_claims: 1
+  - node_id: adbaf699-a6e5-418c-a8ba-24e21dd0ab92
+    title: Budd Hopkins
+    node_type: person
+    slug: budd-hopkins
+    shared_claims: 1
+  - node_id: 24ed9a9c-7b9a-49b0-9d31-0aaaefceb48e
+    title: Emily Cook
+    node_type: person
+    slug: emily-cook
+    shared_claims: 1
+  - node_id: 5a444e8f-c623-42c6-8018-293818d9df73
+    title: Extrasensory perception (ESP)
+    node_type: topic
+    slug: extrasensory-perception-esp
+    shared_claims: 1
+claims:
+  - claim_id: 26733539-f246-454f-a92c-1a36f873d3ed
+    claim_hash: d1368d9a05f4ad65aaa5c56e09a7f2bef39499b367fba1ccb680d44786d2d973
+    content: 1,400 of the documented past-life memory cases, like that of James Leininger, have resulted in the identification
+      of what Ian Stevenson called the "previous personality", based on facts provided by the child.
+    original_excerpt: 1,400 cases, like that of James Leininger, have resulted in the identification of what Stevenson called
+      the “previous personality,” based on facts provided by the child.
+    claim_type: measurement
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 42651247-b0a1-4ce4-804a-101c623e504b
+        title: Ian Stevenson
+        slug: ian-stevenson
+      - node_id: 9dbd0699-bbc9-42ca-bbca-b4128803cc47
+        title: James Leininger
+        slug: james-leininger
+    date: null
+    date_end: null
+    location_in_record: ch10:1122-1285
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
+      record_title: Surviving Death
+      record_date: '2017-03-07'
+      record_reference: null
+      content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
+      friendly_name: 2017-03-07-ebook-surviving-death
+  - claim_id: 119ef094-5471-4cda-92f8-6d7ffa3239a9
+    claim_hash: be7a7ee28f5f15ee92b6b54ad82bf5a9103b988e335287564f43e40c882d7742
+    content: Jim Tucker took over Ian Stevenson's research at the Division of Perceptual Studies when Stevenson retired in
+      2002.
+    original_excerpt: After working with Stevenson for several years, Jim Tucker took over his research when Stevenson retired
+      in 2002.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 42651247-b0a1-4ce4-804a-101c623e504b
+        title: Ian Stevenson
+        slug: ian-stevenson
+      - node_id: 9048f0bf-d566-4d97-a41d-31b5d6999249
+        title: Division of Perceptual Studies (DOPS)
+        slug: division-of-perceptual-studies-dops
+      - node_id: a081e647-7d45-4a5b-83d8-2f42762ea9d0
+        title: Jim Tucker
+        slug: jim-tucker
+    date: '2002'
+    date_end: null
+    location_in_record: ch10:1737-1845
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
+      record_title: Surviving Death
+      record_date: '2017-03-07'
+      record_reference: null
+      content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
+      friendly_name: 2017-03-07-ebook-surviving-death
+  - claim_id: 2b62dd3f-1709-4252-9bf8-deb1d0f95fc3
+    claim_hash: 051093aed173ea667618523aaf12dfb172345c2c880d10b43d9d4eba912f6aae
+    content: Ian Stevenson died in 2007.
+    original_excerpt: (Stevenson died in 2007.)
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 42651247-b0a1-4ce4-804a-101c623e504b
+        title: Ian Stevenson
+        slug: ian-stevenson
+    date: '2007'
+    date_end: null
+    location_in_record: ch10:1852-1870
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
+      record_title: Surviving Death
+      record_date: '2017-03-07'
+      record_reference: null
+      content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
+      friendly_name: 2017-03-07-ebook-surviving-death
+  - claim_id: 892ea1ca-f87c-412e-b2da-643a8c86a118
+    claim_hash: c04e75637bfb744105ea6672e884dbbd6e5a7a790727a11bee855bd3a52fbbc2
+    content: Leslie Kean arrived at the Division of Perceptual Studies with a list of the cases she was most interested in
+      after studying Ian Stevenson's papers and books.
+    original_excerpt: I arrived with a list of the cases I was most interested in after studying Stevenson’s papers and books
+    claim_type: observation
+    attestation: first_hand
+    speaker:
+      node_id: 953f6232-9902-437f-ad4c-add4fd080043
+      title: Leslie Kean
+    provenance_chain:
+      origin_kind: speaker
+      origin: Leslie Kean
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 42651247-b0a1-4ce4-804a-101c623e504b
+        title: Ian Stevenson
+        slug: ian-stevenson
+      - node_id: 9048f0bf-d566-4d97-a41d-31b5d6999249
+        title: Division of Perceptual Studies (DOPS)
+        slug: division-of-perceptual-studies-dops
+      - node_id: 953f6232-9902-437f-ad4c-add4fd080043
+        title: Leslie Kean
+        slug: leslie-kean
+    date: null
+    date_end: null
+    location_in_record: ch10:2762-2860
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
+      record_title: Surviving Death
+      record_date: '2017-03-07'
+      record_reference: null
+      content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
+      friendly_name: 2017-03-07-ebook-surviving-death
+  - claim_id: b607fe77-13e9-4f15-b4db-3b046bab1d7e
+    claim_hash: caf2499fab73dd1c919dee2e02d83e1460689f5778c50f2ded9f85cafe9964a9
+    content: Ian Stevenson's hard copy case files contained extensive handwritten notes from interviews, original letters,
+      notes and lists of memories made by family members, old newspaper clippings, and photographs of the current and previous
+      families.
+    original_excerpt: Most of Stevenson’s hard copy files contained extensive handwritten notes from interviews, original
+      letters, notes and lists of memories made by family members, old newspaper clippings, and photographs of the current
+      and previous families.
+    claim_type: observation
+    attestation: first_hand
+    speaker:
+      node_id: 953f6232-9902-437f-ad4c-add4fd080043
+      title: Leslie Kean
+    provenance_chain:
+      origin_kind: speaker
+      origin: Leslie Kean
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 42651247-b0a1-4ce4-804a-101c623e504b
+        title: Ian Stevenson
+        slug: ian-stevenson
+      - node_id: 953f6232-9902-437f-ad4c-add4fd080043
+        title: Leslie Kean
+        slug: leslie-kean
+    date: null
+    date_end: null
+    location_in_record: ch10:2996-3226
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
+      record_title: Surviving Death
+      record_date: '2017-03-07'
+      record_reference: null
+      content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
+      friendly_name: 2017-03-07-ebook-surviving-death
+  - claim_id: 60a27c70-725f-4a70-bbda-2fef72d40d1b
+    claim_hash: c1491e60992d713a37ba59814d8476388ce967ec83665e379a966f8508fc7a4d
+    content: Ian Stevenson was meticulous and detailed in his investigations.
+    original_excerpt: Stevenson was meticulous and detailed in his investigations.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 953f6232-9902-437f-ad4c-add4fd080043
+      title: Leslie Kean
+    provenance_chain:
+      origin_kind: speaker
+      origin: Leslie Kean
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 42651247-b0a1-4ce4-804a-101c623e504b
+        title: Ian Stevenson
+        slug: ian-stevenson
+    date: null
+    date_end: null
+    location_in_record: ch10:3339-3384
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
+      record_title: Surviving Death
+      record_date: '2017-03-07'
+      record_reference: null
+      content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
+      friendly_name: 2017-03-07-ebook-surviving-death
+  - claim_id: 63f6017c-5762-42c6-89e6-b5fa54df14de
+    claim_hash: 00a9613ac17d795c329b381a1f83846f168f6557492c6578bba97494e94122c4
+    content: Ian Stevenson was a psychiatrist and the pioneer of research into past-life memories in young children.
+    original_excerpt: Psychiatrist Ian Stevenson, the pioneer of this work, published numerous scholarly articles and lengthy
+      books about cases from all over the world.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 42651247-b0a1-4ce4-804a-101c623e504b
+        title: Ian Stevenson
+        slug: ian-stevenson
+      - node_id: 66da3a02-fe7e-46f1-a344-d50afed95f73
+        title: Past-life memories in young children
+        slug: past-life-memories-in-young-children
+    date: null
+    date_end: null
+    location_in_record: ch10:867-1007
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
+      record_title: Surviving Death
+      record_date: '2017-03-07'
+      record_reference: null
+      content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
+      friendly_name: 2017-03-07-ebook-surviving-death
+  - claim_id: d5a24bbf-d819-46c2-a3f5-0e7cb5bbd2a0
+    claim_hash: 1553d97e2d159434d53eb6aa7d3c177cf5d503015f3d35e6139bb5ef97350670
+    content: Ian Stevenson published numerous scholarly articles and lengthy books about past-life memory cases from all over
+      the world.
+    original_excerpt: Psychiatrist Ian Stevenson, the pioneer of this work, published numerous scholarly articles and lengthy
+      books about cases from all over the world.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 42651247-b0a1-4ce4-804a-101c623e504b
+        title: Ian Stevenson
+        slug: ian-stevenson
+    date: null
+    date_end: null
+    location_in_record: ch10:867-1007
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
+      record_title: Surviving Death
+      record_date: '2017-03-07'
+      record_reference: null
+      content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
+      friendly_name: 2017-03-07-ebook-surviving-death
+  - claim_id: 27554e94-a31d-4dd6-baca-a4c0bc8e64e1
+    claim_hash: fbcad32878e5c7511d1b4120fce379f53937a4130478108f4789f9ec84d2d174
+    content: Ian Stevenson argued that in addition to genetics and environment, previous lives might be a third factor that
+      contributes to the development of human personality.
+    original_excerpt: Stevenson argued that in addition to genetics and environment, previous lives might be a third factor
+      that contributes to the development of human personality.
+    claim_type: opinion
+    attestation: second_hand
+    speaker:
+      node_id: 42651247-b0a1-4ce4-804a-101c623e504b
+      title: Ian Stevenson
+    provenance_chain:
+      origin_kind: named
+      origin: Ian Stevenson
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 42651247-b0a1-4ce4-804a-101c623e504b
+        title: Ian Stevenson
+        slug: ian-stevenson
+      - node_id: e66e62f6-f011-4fc5-b958-f6a3d6f72e4c
+        title: Reincarnation
+        slug: reincarnation
+    date: null
+    date_end: null
+    location_in_record: ch11:12532-12679
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
+      record_title: Surviving Death
+      record_date: '2017-03-07'
+      record_reference: null
+      content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
+      friendly_name: 2017-03-07-ebook-surviving-death
+  - claim_id: b267c09d-06ab-41c1-b963-5fc6d0abcf20
+    claim_hash: e43bd8385e63ebf31a974be5f03232ee61c2ddcdca0ceee86b01699b8d70fa56
+    content: Ian Stevenson collected published reports of individuals who claimed to remember past lives, finding stories
+      in books, magazines, and newspapers.
+    original_excerpt: For a number of years, Stevenson had collected published reports of individuals who claimed to remember
+      past lives, finding these stories in various places such as books, magazines, and newspapers.
+    claim_type: observation
+    attestation: second_hand
+    speaker:
+      node_id: 42651247-b0a1-4ce4-804a-101c623e504b
+      title: Ian Stevenson
+    provenance_chain:
+      origin_kind: named
+      origin: Ian Stevenson
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 42651247-b0a1-4ce4-804a-101c623e504b
+        title: Ian Stevenson
+        slug: ian-stevenson
+    date: null
+    date_end: null
+    location_in_record: ch11:1290-1476
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
+      record_title: Surviving Death
+      record_date: '2017-03-07'
+      record_reference: null
+      content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
+      friendly_name: 2017-03-07-ebook-surviving-death
+  - claim_id: b1b751b0-372d-4e74-a5c8-0b6b78749c1a
+    claim_hash: c7ec3b3112870ea2775349e924ec787857aa13011ead29ba32b60faa865c636c
+    content: Ian Stevenson was unable to obtain an autopsy report for Bua Kai Lawnak, but talked with several of his family
+      members about his injuries.
+    original_excerpt: Stevenson was unable to obtain an autopsy report for Bua Kai, but he talked with several of the man’s
+      family members about his injuries.
+    claim_type: observation
+    attestation: second_hand
+    speaker:
+      node_id: 42651247-b0a1-4ce4-804a-101c623e504b
+      title: Ian Stevenson
+    provenance_chain:
+      origin_kind: named
+      origin: Ian Stevenson
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 0c9fc3f9-1cb5-4464-8e67-d9266636559b
+        title: Bua Kai Lawnak
+        slug: bua-kai-lawnak
+      - node_id: 42651247-b0a1-4ce4-804a-101c623e504b
+        title: Ian Stevenson
+        slug: ian-stevenson
+    date: null
+    date_end: null
+    location_in_record: ch11:14261-14388
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
+      record_title: Surviving Death
+      record_date: '2017-03-07'
+      record_reference: null
+      content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
+      friendly_name: 2017-03-07-ebook-surviving-death
+  - claim_id: 05acca61-faa7-4b73-9664-d72bfc57c7c4
+    claim_hash: b26e43fb671f5cf5a392aacb250df16ec282403a7c325fc7981cd5fc11776300
+    content: Ian Stevenson listed eighteen cases that involved double birthmarks matching both the entrance and exit wound
+      on the body of a gunshot victim, with the smaller birthmark tending to be round and the larger one more irregularly
+      shaped in most of them.
+    original_excerpt: Stevenson listed eighteen that involved double birthmarks, ones matching both the entrance and exit
+      wound on the body of a gunshot victim. In most of them, one birthmark was larger than the other, and the smaller one
+      tended to be round while the larger one was more irregularly shaped.
+    claim_type: observation
+    attestation: second_hand
+    speaker:
+      node_id: 42651247-b0a1-4ce4-804a-101c623e504b
+      title: Ian Stevenson
+    provenance_chain:
+      origin_kind: named
+      origin: Ian Stevenson
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 42651247-b0a1-4ce4-804a-101c623e504b
+        title: Ian Stevenson
+        slug: ian-stevenson
+    date: null
+    date_end: null
+    location_in_record: ch11:14821-15099
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
+      record_title: Surviving Death
+      record_date: '2017-03-07'
+      record_reference: null
+      content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
+      friendly_name: 2017-03-07-ebook-surviving-death
+  - claim_id: c47f8a22-6dda-4d53-b9f0-5cfa3455cb55
+    claim_hash: 6f694f9e20ece349c70552d3bdde5bfdbc99a204a0b4e3dea63e10278259e10e
+    content: Ian Stevenson's research team documented four hundred cases in which a child had a birthmark or birth defect
+      that corresponded to a fatal wound the previous person suffered, and two hundred cases in which the mark or defect corresponded
+      to a nonfatal wound.
+    original_excerpt: Overall, we have four hundred cases in which the child had a birthmark or birth defect that corresponded
+      to a fatal wound the previous person suffered, along with two hundred in which the mark or defect corresponded to a
+      nonfatal wound.
+    claim_type: measurement
+    attestation: first_hand
+    speaker:
+      node_id: a081e647-7d45-4a5b-83d8-2f42762ea9d0
+      title: Jim Tucker
+    provenance_chain:
+      origin_kind: speaker
+      origin: Jim Tucker
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 42651247-b0a1-4ce4-804a-101c623e504b
+        title: Ian Stevenson
+        slug: ian-stevenson
+    date: null
+    date_end: null
+    location_in_record: ch11:15693-15923
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
+      record_title: Surviving Death
+      record_date: '2017-03-07'
+      record_reference: null
+      content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
+      friendly_name: 2017-03-07-ebook-surviving-death
+  - claim_id: fb32d9d5-03fa-49b3-b11b-af5ef9bea211
+    claim_hash: 71d85585ef309c5447162879c8309540c6f37b6347eb1b1f157494b97dce74b1
+    content: Ian Stevenson had a long-standing interest in psychosomatic medicine before beginning his research into past-life
+      cases.
+    original_excerpt: Such cases intrigued Stevenson, who had a long-standing interest in psychosomatic medicine before beginning
+      this work.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 42651247-b0a1-4ce4-804a-101c623e504b
+        title: Ian Stevenson
+        slug: ian-stevenson
+    date: null
+    date_end: null
+    location_in_record: ch11:15930-16043
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
+      record_title: Surviving Death
+      record_date: '2017-03-07'
+      record_reference: null
+      content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
+      friendly_name: 2017-03-07-ebook-surviving-death
+  - claim_id: c4099563-6af9-4228-b70d-beb975cc6a50
+    claim_hash: 4bed5fd626c1267f036a1e969cd984cac480bcb4c100cff0d477005b2b45c89a
+    content: Ian Stevenson was struck by how children from different parts of the world made very similar statements about
+      remembering a past life.
+    original_excerpt: Stevenson was struck by how children from different parts of the world made very similar statements
+      about remembering a past life.
+    claim_type: observation
+    attestation: second_hand
+    speaker:
+      node_id: 42651247-b0a1-4ce4-804a-101c623e504b
+      title: Ian Stevenson
+    provenance_chain:
+      origin_kind: named
+      origin: Ian Stevenson
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 42651247-b0a1-4ce4-804a-101c623e504b
+        title: Ian Stevenson
+        slug: ian-stevenson
+      - node_id: 66da3a02-fe7e-46f1-a344-d50afed95f73
+        title: Past-life memories in young children
+        slug: past-life-memories-in-young-children
+    date: null
+    date_end: null
+    location_in_record: ch11:1742-1867
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
+      record_title: Surviving Death
+      record_date: '2017-03-07'
+      record_reference: null
+      content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
+      friendly_name: 2017-03-07-ebook-surviving-death
+  - claim_id: ab27e5cc-b7e7-4923-ad47-ec2b67fb4708
+    claim_hash: ed12f637289d2e0e72507d92be242901e13cbd28c88eefc7d74e358b4f432b1d
+    content: After his 1960 paper was published, Ian Stevenson started hearing about new cases and accepted a small grant
+      to study one in India.
+    original_excerpt: After his paper was published, Stevenson started hearing about new cases, and he accepted a small grant
+      to go study one in India.
+    claim_type: observation
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 42651247-b0a1-4ce4-804a-101c623e504b
+        title: Ian Stevenson
+        slug: ian-stevenson
+      - node_id: b4f06585-086c-45f5-9b05-c2bc9386e7d6
+        title: India, Darbhanga
+        slug: darbhanga-india
+    date: null
+    date_end: null
+    location_in_record: ch11:1874-1997
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
+      record_title: Surviving Death
+      record_date: '2017-03-07'
+      record_reference: null
+      content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
+      friendly_name: 2017-03-07-ebook-surviving-death
+  - claim_id: 5fddc214-e158-4456-aded-d122dcfdecce
+    claim_hash: 06033f2675f4a0b00e539f4057d0041bcf980da762e62a27f38d058aa114ef52
+    content: When Ian Stevenson started his research, he focused on Asia because that was where past-life cases were being
+      reported.
+    original_excerpt: When Stevenson started his research, he focused on Asia, for the simple reason that it was where cases
+      were being reported.
+    claim_type: observation
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 42651247-b0a1-4ce4-804a-101c623e504b
+        title: Ian Stevenson
+        slug: ian-stevenson
+    date: null
+    date_end: null
+    location_in_record: ch11:18837-18951
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
+      record_title: Surviving Death
+      record_date: '2017-03-07'
+      record_reference: null
+      content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
+      friendly_name: 2017-03-07-ebook-surviving-death
+  - claim_id: 470e01e1-6bed-4e62-83ce-7f2ec53737bc
+    claim_hash: 522a1b88d9372af7a3674255ca60fcc67c5c953b7e3497d0b8066143ab9572ca
+    content: When a child talked about a past life in a place such as India or Thailand, word would often spread, sometimes
+      through a newspaper story, and one of Ian Stevenson's associates would learn about it.
+    original_excerpt: When a child talked about a past life in a place such as India or Thailand, word would often spread,
+      sometimes through a newspaper story, and one of Stevenson’s associates would learn about it.
+    claim_type: observation
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 42651247-b0a1-4ce4-804a-101c623e504b
+        title: Ian Stevenson
+        slug: ian-stevenson
+    date: null
+    date_end: null
+    location_in_record: ch11:18961-19151
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
+      record_title: Surviving Death
+      record_date: '2017-03-07'
+      record_reference: null
+      content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
+      friendly_name: 2017-03-07-ebook-surviving-death
+  - claim_id: 8d4a294b-d157-45ee-8947-91ae2e6f9683
+    claim_hash: 58de2b16b80ffac3131dddaaf37f57f3bf35191c3f9a56dbfd68a91132accef5
+    content: Once Ian Stevenson started publishing his case reports, he began to hear occasionally from American parents who
+      learned about his work.
+    original_excerpt: Once Stevenson started publishing his case reports, he began to hear occasionally from American parents
+      who learned about his work.
+    claim_type: observation
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 42651247-b0a1-4ce4-804a-101c623e504b
+        title: Ian Stevenson
+        slug: ian-stevenson
+    date: null
+    date_end: null
+    location_in_record: ch11:19808-19934
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
+      record_title: Surviving Death
+      record_date: '2017-03-07'
+      record_reference: null
+      content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
+      friendly_name: 2017-03-07-ebook-surviving-death
+  - claim_id: 0c461ae8-5895-4cda-9d7c-cca11fae6038
+    claim_hash: 95501dbf6f9b36b1ad5ce94edaa994df6ee50d6513c6434968c52524527646a9
+    content: Ian Stevenson published a paper in 1983 on seventy-nine American past-life cases.
+    original_excerpt: he published a paper on seventy-nine American cases in 1983
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 42651247-b0a1-4ce4-804a-101c623e504b
+        title: Ian Stevenson
+        slug: ian-stevenson
+      - node_id: c6dedc06-26a1-42b5-b86b-4be56bfe2614
+        title: Stevenson 1983 paper on seventy-nine American past-life cases
+        slug: stevenson-1983-paper-on-seventy-nine-american-past-life-cases
+    date: '1983'
+    date_end: null
+    location_in_record: ch11:20045-20100
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
+      record_title: Surviving Death
+      record_date: '2017-03-07'
+      record_reference: null
+      content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
+      friendly_name: 2017-03-07-ebook-surviving-death
+  - claim_id: f723c4b6-a0e1-41a0-aa91-347174079b3f
+    claim_hash: 4dfe316737a1f74d02eb93cdb1fe4da2226738ab47f2b8ae46312154b8cebdfd
+    content: In the Stevenson 1983 paper on seventy-nine American past-life cases, most of the children studied had not made
+      verifiable statements about a past life.
+    original_excerpt: He reported that most of the children had not made statements about a past life that were verifiable
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 42651247-b0a1-4ce4-804a-101c623e504b
+      title: Ian Stevenson
+    provenance_chain:
+      origin_kind: speaker
+      origin: Ian Stevenson
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 42651247-b0a1-4ce4-804a-101c623e504b
+        title: Ian Stevenson
+        slug: ian-stevenson
+      - node_id: c6dedc06-26a1-42b5-b86b-4be56bfe2614
+        title: Stevenson 1983 paper on seventy-nine American past-life cases
+        slug: stevenson-1983-paper-on-seventy-nine-american-past-life-cases
+    date: null
+    date_end: null
+    location_in_record: ch11:20106-20196
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
+      record_title: Surviving Death
+      record_date: '2017-03-07'
+      record_reference: null
+      content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
+      friendly_name: 2017-03-07-ebook-surviving-death
+  - claim_id: 62c77f17-659a-4cd6-8a27-d30cbbf0393d
+    claim_hash: 09a4d5a71ab0abad51dabe6214360c12fdef17d6b8b9177cce730302dbc6e2fe
+    content: In the Stevenson 1983 paper on seventy-nine American past-life cases, the children who made verifiable statements
+      almost always talked about being a deceased family member.
+    original_excerpt: those who had almost always talked about being a deceased family member
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 42651247-b0a1-4ce4-804a-101c623e504b
+      title: Ian Stevenson
+    provenance_chain:
+      origin_kind: speaker
+      origin: Ian Stevenson
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 42651247-b0a1-4ce4-804a-101c623e504b
+        title: Ian Stevenson
+        slug: ian-stevenson
+      - node_id: c6dedc06-26a1-42b5-b86b-4be56bfe2614
+        title: Stevenson 1983 paper on seventy-nine American past-life cases
+        slug: stevenson-1983-paper-on-seventy-nine-american-past-life-cases
+    date: null
+    date_end: null
+    location_in_record: ch11:20212-20277
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
+      record_title: Surviving Death
+      record_date: '2017-03-07'
+      record_reference: null
+      content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
+      friendly_name: 2017-03-07-ebook-surviving-death
+  - claim_id: 983f2614-9a69-431b-9e43-37589c8b0b13
+    claim_hash: 17fafeb8732f7ed72aa2896d20c46a65a83cdc21110719e58cd79dfb0fe45079
+    content: Ian Stevenson observed that American past-life cases were similar to Indian cases in that the children talked
+      about a past life at an early age.
+    original_excerpt: 'the American cases were very much like ones in India: the children talked about a past life at an early
+      age'
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 42651247-b0a1-4ce4-804a-101c623e504b
+      title: Ian Stevenson
+    provenance_chain:
+      origin_kind: speaker
+      origin: Ian Stevenson
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 42651247-b0a1-4ce4-804a-101c623e504b
+        title: Ian Stevenson
+        slug: ian-stevenson
+      - node_id: 4543ad6e-cef3-463f-9071-2d9c517a933b
+        title: USA, South Carolina
+        slug: south-carolina-usa
+      - node_id: 66da3a02-fe7e-46f1-a344-d50afed95f73
+        title: Past-life memories in young children
+        slug: past-life-memories-in-young-children
+      - node_id: b4f06585-086c-45f5-9b05-c2bc9386e7d6
+        title: India, Darbhanga
+        slug: darbhanga-india
+    date: null
+    date_end: null
+    location_in_record: ch11:20323-20427
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
+      record_title: Surviving Death
+      record_date: '2017-03-07'
+      record_reference: null
+      content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
+      friendly_name: 2017-03-07-ebook-surviving-death
+  - claim_id: b4c5ba7e-bd16-414f-a680-adbc3aa59f0f
+    claim_hash: 31138cd80b0ae259063dceefb908be6187a5ff1ed737d8f239ae1ac0c4dcd399
+    content: Ian Stevenson observed that the content of American children's past-life statements was similar to that of children's
+      statements in India.
+    original_excerpt: the content of their statements was similar
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 42651247-b0a1-4ce4-804a-101c623e504b
+      title: Ian Stevenson
+    provenance_chain:
+      origin_kind: speaker
+      origin: Ian Stevenson
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 42651247-b0a1-4ce4-804a-101c623e504b
+        title: Ian Stevenson
+        slug: ian-stevenson
+      - node_id: 66da3a02-fe7e-46f1-a344-d50afed95f73
+        title: Past-life memories in young children
+        slug: past-life-memories-in-young-children
+    date: null
+    date_end: null
+    location_in_record: ch11:20432-20468
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
+      record_title: Surviving Death
+      record_date: '2017-03-07'
+      record_reference: null
+      content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
+      friendly_name: 2017-03-07-ebook-surviving-death
+  - claim_id: 1b5b0801-005a-4604-a6ab-785ce8306a3a
+    claim_hash: 97beffe77be86438b5cdd0a3b1b2a9afce23a255cdbd35b565ff851a793d59a3
+    content: Ian Stevenson observed that American children with past-life memories often showed phobias that appeared linked
+      to their purported past-life memories, similar to children in India.
+    original_excerpt: they often showed behaviors such as phobias that appeared linked to their purported memories
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 42651247-b0a1-4ce4-804a-101c623e504b
+      title: Ian Stevenson
+    provenance_chain:
+      origin_kind: speaker
+      origin: Ian Stevenson
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 42651247-b0a1-4ce4-804a-101c623e504b
+        title: Ian Stevenson
+        slug: ian-stevenson
+      - node_id: 66da3a02-fe7e-46f1-a344-d50afed95f73
+        title: Past-life memories in young children
+        slug: past-life-memories-in-young-children
+    date: null
+    date_end: null
+    location_in_record: ch11:20481-20565
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
+      record_title: Surviving Death
+      record_date: '2017-03-07'
+      record_reference: null
+      content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
+      friendly_name: 2017-03-07-ebook-surviving-death
+  - claim_id: d1f35598-d124-4fb7-9f1a-ead0e82149a9
+    claim_hash: 6935f7fbd217da7d8e5f3c8f3156a0cabc5d14e04257837aab8b03d5439d82b7
+    content: Ian Stevenson travelled to India for four weeks and ended up investigating twenty-five cases of children with
+      past-life memories, meeting the children and their families and piecing together the details of what had happened in
+      each case.
+    original_excerpt: He went for four weeks and ended up seeing twenty-five, meeting the children and their families and
+      piecing together the details of what had happened in each case.
+    claim_type: observation
+    attestation: second_hand
+    speaker:
+      node_id: 42651247-b0a1-4ce4-804a-101c623e504b
+      title: Ian Stevenson
+    provenance_chain:
+      origin_kind: named
+      origin: Ian Stevenson
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 42651247-b0a1-4ce4-804a-101c623e504b
+        title: Ian Stevenson
+        slug: ian-stevenson
+    date: null
+    date_end: null
+    location_in_record: ch11:2087-2245
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
+      record_title: Surviving Death
+      record_date: '2017-03-07'
+      record_reference: null
+      content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
+      friendly_name: 2017-03-07-ebook-surviving-death
+  - claim_id: 0ced93db-9c83-4499-951d-2b3141447741
+    claim_hash: 444eee9fd662cdfc4e4b57dd249437d067d619a56c47c6e45ef7d6bea66d9382
+    content: Jim Tucker's research group now regularly hears from American parents describing the same kinds of statements
+      and behaviours, and sometimes birthmarks and recognitions, that families elsewhere have reported to Ian Stevenson for
+      over fifty years.
+    original_excerpt: we now hear from American parents all the time. They describe the same kinds of statements and behaviors
+      and sometimes even birthmarks and recognitions that families in other places began reporting to Stevenson over fifty
+      years ago.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: a081e647-7d45-4a5b-83d8-2f42762ea9d0
+      title: Jim Tucker
+    provenance_chain:
+      origin_kind: speaker
+      origin: Jim Tucker
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 42651247-b0a1-4ce4-804a-101c623e504b
+        title: Ian Stevenson
+        slug: ian-stevenson
+      - node_id: 66da3a02-fe7e-46f1-a344-d50afed95f73
+        title: Past-life memories in young children
+        slug: past-life-memories-in-young-children
+      - node_id: a081e647-7d45-4a5b-83d8-2f42762ea9d0
+        title: Jim Tucker
+        slug: jim-tucker
+    date: null
+    date_end: null
+    location_in_record: ch11:21588-21816
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
+      record_title: Surviving Death
+      record_date: '2017-03-07'
+      record_reference: null
+      content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
+      friendly_name: 2017-03-07-ebook-surviving-death
+  - claim_id: e23ec8bc-5c90-4c43-9438-abc0ab17779e
+    claim_hash: f71f74a3c50f5eabacc4c7de4f04fed34e93702e3bb64a49108a6f743ce12d64
+    content: Jim Tucker considers that the combined evidence from strong American past-life cases and the strongest cases
+      studied worldwide by Ian Stevenson and other researchers shows good evidence that some young children have memories
+      of a life from the past.
+    original_excerpt: Adding them to the strongest ones from around the world that Stevenson and other researchers have studied,
+      I am now ready to say we have good evidence that some young children have memories of a life from the past.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: a081e647-7d45-4a5b-83d8-2f42762ea9d0
+      title: Jim Tucker
+    provenance_chain:
+      origin_kind: speaker
+      origin: Jim Tucker
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 42651247-b0a1-4ce4-804a-101c623e504b
+        title: Ian Stevenson
+        slug: ian-stevenson
+      - node_id: 66da3a02-fe7e-46f1-a344-d50afed95f73
+        title: Past-life memories in young children
+        slug: past-life-memories-in-young-children
+      - node_id: a081e647-7d45-4a5b-83d8-2f42762ea9d0
+        title: Jim Tucker
+        slug: jim-tucker
+    date: null
+    date_end: null
+    location_in_record: ch11:21937-22146
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
+      record_title: Surviving Death
+      record_date: '2017-03-07'
+      record_reference: null
+      content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
+      friendly_name: 2017-03-07-ebook-surviving-death
+  - claim_id: b79f8880-8b63-4afe-87eb-4bbcb86c1157
+    claim_hash: 0fd199032acf16e9a026fa6e1b7a1d34cdabcd41da95dc684559dbad265713fe
+    content: Ian Stevenson had a similar experience investigating cases of children with past-life memories in Sri Lanka.
+    original_excerpt: He had a similar experience in Sri Lanka.
+    claim_type: observation
+    attestation: second_hand
+    speaker:
+      node_id: 42651247-b0a1-4ce4-804a-101c623e504b
+      title: Ian Stevenson
+    provenance_chain:
+      origin_kind: named
+      origin: Ian Stevenson
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 02a026d1-6507-444c-b588-63f89ed9a61d
+        title: Sri Lanka
+        slug: sri-lanka
+      - node_id: 42651247-b0a1-4ce4-804a-101c623e504b
+        title: Ian Stevenson
+        slug: ian-stevenson
+    date: null
+    date_end: null
+    location_in_record: ch11:2251-2286
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
+      record_title: Surviving Death
+      record_date: '2017-03-07'
+      record_reference: null
+      content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
+      friendly_name: 2017-03-07-ebook-surviving-death
+  - claim_id: 459c659f-7223-4fa8-84b2-18cc46975ce2
+    claim_hash: 258f7d1085326cf3e7c5adf2a25246912bb188dc2c5bd3fee1ce4b19d3bd7598
+    content: Upon returning to Virginia, Ian Stevenson received a call about a case in Alaska and discovered a number of cases
+      among the Tlingit tribes in the area around Juneau, Alaska.
+    original_excerpt: Upon returning to Virginia, Stevenson got a call about a case in Alaska; he discovered a number of cases
+      among the Tlingit tribes there in the area around Juneau.
+    claim_type: observation
+    attestation: second_hand
+    speaker:
+      node_id: 42651247-b0a1-4ce4-804a-101c623e504b
+      title: Ian Stevenson
+    provenance_chain:
+      origin_kind: named
+      origin: Ian Stevenson
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 42651247-b0a1-4ce4-804a-101c623e504b
+        title: Ian Stevenson
+        slug: ian-stevenson
+      - node_id: 5ad9f9ec-1f34-44ea-8ba9-67caeff4f545
+        title: USA, Alaska, Juneau
+        slug: alaska-juneau-usa
+    date: null
+    date_end: null
+    location_in_record: ch11:2293-2448
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
+      record_title: Surviving Death
+      record_date: '2017-03-07'
+      record_reference: null
+      content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
+      friendly_name: 2017-03-07-ebook-surviving-death
+  - claim_id: 82699ab2-c72e-4da3-944f-84eeb79232ef
+    claim_hash: 56c058835d0feb3d406435695fdf8dcef7a9a12b3e8206fb7635e7d2ce3ee8a5
+    content: Ian Stevenson believed that cases of children with past-life memories could be especially important in addressing
+      the question of life after death.
+    original_excerpt: As he had written in his paper, the cases could be especially important in addressing the question of
+      life after death.
+    claim_type: opinion
+    attestation: second_hand
+    speaker:
+      node_id: 42651247-b0a1-4ce4-804a-101c623e504b
+      title: Ian Stevenson
+    provenance_chain:
+      origin_kind: named
+      origin: Ian Stevenson
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 42651247-b0a1-4ce4-804a-101c623e504b
+        title: Ian Stevenson
+        slug: ian-stevenson
+      - node_id: 66da3a02-fe7e-46f1-a344-d50afed95f73
+        title: Past-life memories in young children
+        slug: past-life-memories-in-young-children
+    date: null
+    date_end: null
+    location_in_record: ch11:2650-2763
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
+      record_title: Surviving Death
+      record_date: '2017-03-07'
+      record_reference: null
+      content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
+      friendly_name: 2017-03-07-ebook-surviving-death
+  - claim_id: 5127bd84-9062-4463-9bdd-447b637178bd
+    claim_hash: 06edd623ab0fc3dd0a82e9ee3aa9262aeb2e0c5632b142b6807de8bc98df4473
+    content: Ian Stevenson thought it might be easier to judge whether someone who was clearly living had once died than it
+      was in studies of mediums to assess whether someone clearly dead still lived.
+    original_excerpt: He thought it might be easier to judge in this situation whether someone who was clearly living had
+      once died than it was in studies of mediums to assess whether someone clearly dead still lived.
+    claim_type: opinion
+    attestation: second_hand
+    speaker:
+      node_id: 42651247-b0a1-4ce4-804a-101c623e504b
+      title: Ian Stevenson
+    provenance_chain:
+      origin_kind: named
+      origin: Ian Stevenson
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 30a29dde-52a4-4213-84ab-4401e00c2a06
+        title: Mental mediumship
+        slug: mental-mediumship
+      - node_id: 42651247-b0a1-4ce4-804a-101c623e504b
+        title: Ian Stevenson
+        slug: ian-stevenson
+    date: null
+    date_end: null
+    location_in_record: ch11:2770-2959
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
+      record_title: Surviving Death
+      record_date: '2017-03-07'
+      record_reference: null
+      content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
+      friendly_name: 2017-03-07-ebook-surviving-death
+  - claim_id: 22fbd97b-65b6-4a5a-bf94-eae153d82309
+    claim_hash: 5ab20c657626883e6fb5dc38290b900c824f5a01046525a884663f310c18a67e
+    content: Ian Stevenson eventually stepped down as chairman of the Department of Psychiatry at the University of Virginia
+      to focus all his energies on his research into past-life cases.
+    original_excerpt: Stevenson began devoting more and more time to the cases and eventually stepped down as chairman of
+      the department to focus all his energies on his research.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 42651247-b0a1-4ce4-804a-101c623e504b
+        title: Ian Stevenson
+        slug: ian-stevenson
+      - node_id: b04b9a11-f9cf-4a78-abf8-79f95b58fa2f
+        title: University of Virginia
+        slug: university-of-virginia
+    date: null
+    date_end: null
+    location_in_record: ch11:2967-3115
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
+      record_title: Surviving Death
+      record_date: '2017-03-07'
+      record_reference: null
+      content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
+      friendly_name: 2017-03-07-ebook-surviving-death
+  - claim_id: 22325464-a64e-4890-ad5c-eeee1762a610
+    claim_hash: 032ef016aa65cda1e4d5bc05a5d3cd085671d2f4446b027f33aeb22f983ffca2
+    content: In 1967, Ian Stevenson established a small research unit at the University of Virginia, now known as the Division
+      of Perceptual Studies (DOPS), to conduct studies in parapsychology, including research into the question of life after
+      death.
+    original_excerpt: He established a small unit in 1967 at the University of Virginia, now known as the Division of Perceptual
+      Studies, to conduct studies in parapsychology, including research into the question of life after death.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 42651247-b0a1-4ce4-804a-101c623e504b
+        title: Ian Stevenson
+        slug: ian-stevenson
+      - node_id: 9048f0bf-d566-4d97-a41d-31b5d6999249
+        title: Division of Perceptual Studies (DOPS)
+        slug: division-of-perceptual-studies-dops
+      - node_id: b04b9a11-f9cf-4a78-abf8-79f95b58fa2f
+        title: University of Virginia
+        slug: university-of-virginia
+    date: '1967'
+    date_end: null
+    location_in_record: ch11:3125-3330
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
+      record_title: Surviving Death
+      record_date: '2017-03-07'
+      record_reference: null
+      content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
+      friendly_name: 2017-03-07-ebook-surviving-death
+  - claim_id: 3cc6d0f5-a95e-47d4-8fef-e63ec1957436
+    claim_hash: 4d3e847f9ec2d124d71f4bee79fe386266653599974615b01632fb8e04825903
+    content: Ian Stevenson's research on past-life cases spanned forty years.
+    original_excerpt: Thus began what became forty years of work by Stevenson.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 42651247-b0a1-4ce4-804a-101c623e504b
+        title: Ian Stevenson
+        slug: ian-stevenson
+    date: null
+    date_end: null
+    location_in_record: ch11:3338-3384
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
+      record_title: Surviving Death
+      record_date: '2017-03-07'
+      record_reference: null
+      content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
+      friendly_name: 2017-03-07-ebook-surviving-death
+  - claim_id: 6d0bed76-358a-4c82-80b1-76588eb1c73a
+    claim_hash: 5cc7d01d19fa34ee37fa4262b0706718b97c421537073bbced4a281d6e40c211
+    content: Ian Stevenson focused his research on Asia but travelled elsewhere, and past-life-memory cases have now been
+      documented on every continent except Antarctica.
+    original_excerpt: Stevenson focused on Asia, but traveled elsewhere as well, and cases have now been documented on every
+      continent except Antarctica.
+    claim_type: observation
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 42651247-b0a1-4ce4-804a-101c623e504b
+        title: Ian Stevenson
+        slug: ian-stevenson
+      - node_id: 66da3a02-fe7e-46f1-a344-d50afed95f73
+        title: Past-life memories in young children
+        slug: past-life-memories-in-young-children
+    date: null
+    date_end: null
+    location_in_record: ch11:3551-3671
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
+      record_title: Surviving Death
+      record_date: '2017-03-07'
+      record_reference: null
+      content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
+      friendly_name: 2017-03-07-ebook-surviving-death
+  - claim_id: 1574ee52-bdfa-42c7-8494-80a36accd91b
+    claim_hash: b9aa7f8578e8c2f5f327f685b04073d7a8f2fcb39c16f2e9fe971c013b8b3432
+    content: 'Ian Stevenson interested a small number of other researchers in studying past-life cases: psychologists Erlendur
+      Haraldsson, Jürgen Keil, and Satwant Pasricha, anthropologist Antonia Mills, and later child psychiatrist Jim Tucker.'
+    original_excerpt: He was able to interest a small number of other researchers in studying cases—psychologists Erlendur
+      Haraldsson, Jürgen Keil, and Satwant Pasricha, anthropologist Antonia Mills, and later me as a child psychiatrist
+    claim_type: administrative
+    attestation: first_hand
+    speaker:
+      node_id: a081e647-7d45-4a5b-83d8-2f42762ea9d0
+      title: Jim Tucker
+    provenance_chain:
+      origin_kind: speaker
+      origin: Jim Tucker
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 42651247-b0a1-4ce4-804a-101c623e504b
+        title: Ian Stevenson
+        slug: ian-stevenson
+      - node_id: 4c4e6480-19f6-4519-be1c-af08333c56bb
+        title: Antonia Mills
+        slug: antonia-mills
+      - node_id: 7113f0a0-43a7-4c57-8d08-28d419f85121
+        title: Erlendur Haraldsson
+        slug: erlendur-haraldsson
+      - node_id: 8d88277f-3a2e-4280-8988-3077508fb595
+        title: Jürgen Keil
+        slug: jurgen-keil
+      - node_id: a081e647-7d45-4a5b-83d8-2f42762ea9d0
+        title: Jim Tucker
+        slug: jim-tucker
+      - node_id: f0122148-a95d-42ca-b659-fccbdfd4b0fc
+        title: Satwant Pasricha
+        slug: satwant-pasricha
+    date: null
+    date_end: null
+    location_in_record: ch11:3683-3885
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
+      record_title: Surviving Death
+      record_date: '2017-03-07'
+      record_reference: null
+      content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
+      friendly_name: 2017-03-07-ebook-surviving-death
+  - claim_id: c3103193-c2e8-46e3-a1b9-ce3548e693de
+    claim_hash: 6b7a64b9fb3f3e649e465c2e49bf9ad256d6dc8ccc1074c6da3b3d7ff508adde
+    content: Ian Stevenson, Erlendur Haraldsson, Jürgen Keil, Satwant Pasricha, Antonia Mills and Jim Tucker have together
+      studied over twenty-five hundred cases of children with past-life memories, and in two-thirds of them a previous person
+      has been identified whose life matches, to a greater or lesser degree, the statements the child made.
+    original_excerpt: Together, we have studied over twenty-five hundred cases, and in two-thirds of them, a previous person
+      has been identified whose life matches, to a greater or lesser degree, the statements the child made.
+    claim_type: observation
+    attestation: first_hand
+    speaker:
+      node_id: a081e647-7d45-4a5b-83d8-2f42762ea9d0
+      title: Jim Tucker
+    provenance_chain:
+      origin_kind: speaker
+      origin: Jim Tucker
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 42651247-b0a1-4ce4-804a-101c623e504b
+        title: Ian Stevenson
+        slug: ian-stevenson
+      - node_id: 4c4e6480-19f6-4519-be1c-af08333c56bb
+        title: Antonia Mills
+        slug: antonia-mills
+      - node_id: 66da3a02-fe7e-46f1-a344-d50afed95f73
+        title: Past-life memories in young children
+        slug: past-life-memories-in-young-children
+      - node_id: 7113f0a0-43a7-4c57-8d08-28d419f85121
+        title: Erlendur Haraldsson
+        slug: erlendur-haraldsson
+      - node_id: 8d88277f-3a2e-4280-8988-3077508fb595
+        title: Jürgen Keil
+        slug: jurgen-keil
+      - node_id: a081e647-7d45-4a5b-83d8-2f42762ea9d0
+        title: Jim Tucker
+        slug: jim-tucker
+      - node_id: f0122148-a95d-42ca-b659-fccbdfd4b0fc
+        title: Satwant Pasricha
+        slug: satwant-pasricha
+    date: null
+    date_end: null
+    location_in_record: ch11:3980-4179
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
+      record_title: Surviving Death
+      record_date: '2017-03-07'
+      record_reference: null
+      content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
+      friendly_name: 2017-03-07-ebook-surviving-death
+  - claim_id: 5399c2b8-7d76-4a9f-b4f7-8e5597677d89
+    claim_hash: 74f1e36edb3ca5aad3374ac1c0804b5497531c9616ec65385457e0d1d0d333c6
+    content: Kumkum Verma, a girl in India, began talking about a past life when she was three and a half years old, according
+      to Ian Stevenson's investigation.
+    original_excerpt: When Stevenson investigated her case, he learned that she had begun talking about a past life when she
+      was three and a half.
+    claim_type: observation
+    attestation: second_hand
+    speaker:
+      node_id: 42651247-b0a1-4ce4-804a-101c623e504b
+      title: Ian Stevenson
+    provenance_chain:
+      origin_kind: named
+      origin: Ian Stevenson
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 42651247-b0a1-4ce4-804a-101c623e504b
+        title: Ian Stevenson
+        slug: ian-stevenson
+      - node_id: b4f06585-086c-45f5-9b05-c2bc9386e7d6
+        title: India, Darbhanga
+        slug: darbhanga-india
+      - node_id: fd372baf-6342-45ec-8819-9631bd1f7ad8
+        title: Kumkum Verma
+        slug: kumkum-verma
+    date: null
+    date_end: null
+    location_in_record: ch11:4262-4381
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
+      record_title: Surviving Death
+      record_date: '2017-03-07'
+      record_reference: null
+      content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
+      friendly_name: 2017-03-07-ebook-surviving-death
+  - claim_id: 75be5ff4-b9c2-4625-82c8-810589445ea2
+    claim_hash: 280a64c6db8a0058ad2f23d5b41572481170538c0266b71d4a448ed8333af53a
+    content: Ian Stevenson obtained a partial copy of Kumkum Verma's aunt's notes, which included eighteen of Kumkum's statements.
+    original_excerpt: Stevenson was able to get a partial copy of her notes, which included eighteen of Kumkum’s statements.
+    claim_type: observation
+    attestation: second_hand
+    speaker:
+      node_id: 42651247-b0a1-4ce4-804a-101c623e504b
+      title: Ian Stevenson
+    provenance_chain:
+      origin_kind: named
+      origin: Ian Stevenson
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 42651247-b0a1-4ce4-804a-101c623e504b
+        title: Ian Stevenson
+        slug: ian-stevenson
+      - node_id: fd372baf-6342-45ec-8819-9631bd1f7ad8
+        title: Kumkum Verma
+        slug: kumkum-verma
+    date: null
+    date_end: null
+    location_in_record: ch11:4933-5024
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
+      record_title: Surviving Death
+      record_date: '2017-03-07'
+      record_reference: null
+      content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
+      friendly_name: 2017-03-07-ebook-surviving-death
+  - claim_id: 103f252e-eb7c-43dd-95a2-ff5a1610edf4
+    claim_hash: ce46fe3b86a52bbff45775d6793e1b3078f7acd8e95675e0cdd56b70301700f8
+    content: Cases of children with past-life memories became the subject of systematic research when Ian Stevenson, then
+      chairman of the Department of Psychiatry at the University of Virginia, began studying them in the 1960s.
+    original_excerpt: The cases became the subject of systematic research when Ian Stevenson, then the chairman of the Department
+      of Psychiatry at the University of Virginia, began studying them in the 1960s.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 42651247-b0a1-4ce4-804a-101c623e504b
+        title: Ian Stevenson
+        slug: ian-stevenson
+      - node_id: 66da3a02-fe7e-46f1-a344-d50afed95f73
+        title: Past-life memories in young children
+        slug: past-life-memories-in-young-children
+      - node_id: b04b9a11-f9cf-4a78-abf8-79f95b58fa2f
+        title: University of Virginia
+        slug: university-of-virginia
+    date: '1960'
+    date_end: null
+    location_in_record: ch11:569-749
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
+      record_title: Surviving Death
+      record_date: '2017-03-07'
+      record_reference: null
+      content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
+      friendly_name: 2017-03-07-ebook-surviving-death
+  - claim_id: 587f8453-06b5-4017-bd1c-e3c762eae843
+    claim_hash: 2a0e141facc8baf3acd60613187b45ebb04e77e1ee920831dfed5b238c5c5f47
+    content: Ian Stevenson had dozens of publications to his credit and was appointed chairman of the Department of Psychiatry
+      at the University of Virginia while still in his thirties.
+    original_excerpt: Though quite accomplished, with dozens of publications to his credit and an appointment as chairman
+      of the department while still in his thirties
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 42651247-b0a1-4ce4-804a-101c623e504b
+        title: Ian Stevenson
+        slug: ian-stevenson
+      - node_id: b04b9a11-f9cf-4a78-abf8-79f95b58fa2f
+        title: University of Virginia
+        slug: university-of-virginia
+    date: null
+    date_end: null
+    location_in_record: ch11:757-894
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
+      record_title: Surviving Death
+      record_date: '2017-03-07'
+      record_reference: null
+      content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
+      friendly_name: 2017-03-07-ebook-surviving-death
+  - claim_id: 670aeeb7-b684-47a2-b9d3-90ac30084b41
+    claim_hash: db6ded5106a596fd2e8acd492c2b1ecf3813498d93119668c66fcf4ee5075bd1
+    content: Ian Stevenson was a psychiatrist at the University of Virginia and a pioneer of research into cases of children
+      with past-life memories.
+    original_excerpt: Dr. Ian Stevenson, psychiatrist at the University of Virginia and pioneer of research into cases of
+      children with past-life memories, investigating a case in Burma.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 42651247-b0a1-4ce4-804a-101c623e504b
+        title: Ian Stevenson
+        slug: ian-stevenson
+      - node_id: 66da3a02-fe7e-46f1-a344-d50afed95f73
+        title: Past-life memories in young children
+        slug: past-life-memories-in-young-children
+      - node_id: b04b9a11-f9cf-4a78-abf8-79f95b58fa2f
+        title: University of Virginia
+        slug: university-of-virginia
+    date: null
+    date_end: null
+    location_in_record: ch21:1788-1946
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
+      record_title: Surviving Death
+      record_date: '2017-03-07'
+      record_reference: null
+      content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
+      friendly_name: 2017-03-07-ebook-surviving-death
+  - claim_id: 70c7ed75-c3c1-45c0-bf0b-542eae67de59
+    claim_hash: a193525433ecdbe2c6198ebf5c40b618e8aea66a066757fae76b50ca5c54fdb0
+    content: Ian Stevenson investigated a past-life memory case in Myanmar.
+    original_excerpt: investigating a case in Burma.
+    claim_type: observation
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 42651247-b0a1-4ce4-804a-101c623e504b
+        title: Ian Stevenson
+        slug: ian-stevenson
+      - node_id: 68eb0ed2-c660-4bfc-9272-dc9de9b22b2c
+        title: Myanmar
+        slug: myanmar
+    date: null
+    date_end: null
+    location_in_record: ch21:1922-1946
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
+      record_title: Surviving Death
+      record_date: '2017-03-07'
+      record_reference: null
+      content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
+      friendly_name: 2017-03-07-ebook-surviving-death
+  - claim_id: 03060e4f-6234-475e-85bc-3d8929fab180
+    claim_hash: ce776dcace4aff3fcf0569936e1028eded0b9a0a72798dc1ed62acbf38a880d4
+    content: Ian Stevenson discovered that the previous personality named by Chanai Choomalaiwong was shot from behind, with
+      a wound on the back of his head much smaller than the irregular exit wound on his forehead, matching Chanai's own birthmarks.
+    original_excerpt: Along with other details, he gave the name of the previous personality who Stevenson discovered was
+      shot from behind, with a wound on the back of his head that was much smaller than the irregular exit wound on his forehead.
+    claim_type: observation
+    attestation: first_hand
+    speaker:
+      node_id: 42651247-b0a1-4ce4-804a-101c623e504b
+      title: Ian Stevenson
+    provenance_chain:
+      origin_kind: speaker
+      origin: Ian Stevenson
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 42651247-b0a1-4ce4-804a-101c623e504b
+        title: Ian Stevenson
+        slug: ian-stevenson
+      - node_id: 5c71e89f-0237-46f8-9cc6-d98b70b606f6
+        title: Chanai Choomalaiwong
+        slug: chanai-choomalaiwong
+    date: null
+    date_end: null
+    location_in_record: ch21:2614-2828
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
+      record_title: Surviving Death
+      record_date: '2017-03-07'
+      record_reference: null
+      content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
+      friendly_name: 2017-03-07-ebook-surviving-death
+  - claim_id: 8dd06250-5752-42a1-9f19-87a56e129d7e
+    claim_hash: 36514bd7c8c70d15e09595a4602a8392214b3047b308272c235d66b0c37b513c
+    content: Toward the end of his life, before entering hospice with two types of cancer, Budd Hopkins was given books by
+      Leslie Kean about evidence suggesting death may not be the end, including Old Souls by Washington Post journalist Tom
+      Shroder, who travelled with Ian Stevenson and watched him work.
+    original_excerpt: I carefully selected a few books that I thought might appeal to him, one of them being *Old Souls* by
+      *Washington Post* journalist Tom Shroder, who traveled with Ian Stevenson and watched him work.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 953f6232-9902-437f-ad4c-add4fd080043
+      title: Leslie Kean
+    provenance_chain:
+      origin_kind: speaker
+      origin: Leslie Kean
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 09ed4d82-4aec-4032-930b-4473a10657cf
+        title: Tom Shroder
+        slug: tom-shroder
+      - node_id: 42651247-b0a1-4ce4-804a-101c623e504b
+        title: Ian Stevenson
+        slug: ian-stevenson
+      - node_id: 953f6232-9902-437f-ad4c-add4fd080043
+        title: Leslie Kean
+        slug: leslie-kean
+      - node_id: adbaf699-a6e5-418c-a8ba-24e21dd0ab92
+        title: Budd Hopkins
+        slug: budd-hopkins
+      - node_id: bcd2ebc5-2b24-48bc-a1cf-51213ebb0801
+        title: Washington Post
+        slug: washington-post
+      - node_id: d8fcd985-f612-4053-9a9e-54867fc87bf3
+        title: Old Souls (book by Tom Shroder)
+        slug: old-souls-book-by-tom-shroder
+    date: null
+    date_end: null
+    location_in_record: ch23:13438-13630
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
+      record_title: Surviving Death
+      record_date: '2017-03-07'
+      record_reference: null
+      content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
+      friendly_name: 2017-03-07-ebook-surviving-death
+  - claim_id: 9a1c849b-cdd5-4e61-b830-7303ec6e4ee4
+    claim_hash: c075a16c7d4f9a016a9c6f59e5e6ecc3486260cc5f7041019de75ab26af67f02
+    content: Ian Stevenson coined the term "drop-in" communicators for spirit communicators who arrive unexpectedly and uninvited
+      at a sitting, ostensibly unknown to the medium and sitters.
+    original_excerpt: that labeled by Dr. Ian Stevenson as "drop-in" communicators—communicators who arrive unexpectedly and
+      uninvited, and are ostensibly unknown to medium and sitters
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: narration
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 36e396ed-1562-40df-8175-bb6666c1c7b6
+        title: Drop-in communicators
+        slug: drop-in-communicators
+      - node_id: 42651247-b0a1-4ce4-804a-101c623e504b
+        title: Ian Stevenson
+        slug: ian-stevenson
+    date: null
+    date_end: null
+    location_in_record: ch28:37799-37954
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
+      record_title: Surviving Death
+      record_date: '2017-03-07'
+      record_reference: null
+      content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
+      friendly_name: 2017-03-07-ebook-surviving-death
+  - claim_id: 03d8331d-a7eb-493b-a3b0-af1da12fcc93
+    claim_hash: ba8afce34b62ad41c087f2ca93e5f7597f3a7525e6c4ba0d69ddf9d8e195f0fb
+    content: Ian Stevenson considered that some drop-in communicators have explained their presence well, and that their motivation
+      to communicate is an important part of the whole case to be explained alongside the provenance of the information communicated.
+    original_excerpt: As Stevenson remarks, "Some 'drop-in' communicators have explained their presence very well and their
+      motivation to communicate is an important part of the whole case which has to be explained as well as the provenance
+      of any information communicated."
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 42651247-b0a1-4ce4-804a-101c623e504b
+      title: Ian Stevenson
+    provenance_chain:
+      origin_kind: speaker
+      origin: Ian Stevenson
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 36e396ed-1562-40df-8175-bb6666c1c7b6
+        title: Drop-in communicators
+        slug: drop-in-communicators
+      - node_id: 42651247-b0a1-4ce4-804a-101c623e504b
+        title: Ian Stevenson
+        slug: ian-stevenson
+    date: null
+    date_end: null
+    location_in_record: ch28:40924-41162
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
+      record_title: Surviving Death
+      record_date: '2017-03-07'
+      record_reference: null
+      content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
+      friendly_name: 2017-03-07-ebook-surviving-death
+  - claim_id: 69318600-a3bf-480e-b408-ffacdcbfb88f
+    claim_hash: a2ee4e7ee7a7aecb4fc2d706f43fd94fd1c355640435622c91dfd38e6701bf2a
+    content: The investigators of the Runolfur Runolfsson drop-in case through Hafsteinn Bjornsson were Erlendur Haraldsson
+      and Ian Stevenson.
+    original_excerpt: and the investigators were Erlendur Haraldsson and Ian Stevenson.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: narration
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 42651247-b0a1-4ce4-804a-101c623e504b
+        title: Ian Stevenson
+        slug: ian-stevenson
+      - node_id: 6021edb6-ae6b-4010-9cc7-08ef5b233d2d
+        title: Runolfur Runolfsson ("Runki")
+        slug: runolfur-runolfsson-runki
+      - node_id: 7113f0a0-43a7-4c57-8d08-28d419f85121
+        title: Erlendur Haraldsson
+        slug: erlendur-haraldsson
+      - node_id: c8d56e9e-8fd1-4d51-823a-4847910946a2
+        title: Hafsteinn Bjornsson
+        slug: hafsteinn-bjornsson
+    date: null
+    date_end: null
+    location_in_record: ch28:42569-42624
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
+      record_title: Surviving Death
+      record_date: '2017-03-07'
+      record_reference: null
+      content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
+      friendly_name: 2017-03-07-ebook-surviving-death
+  - claim_id: fb27781b-cb01-4caa-8726-cf2b1cdea175
+    claim_hash: 8abed5f5feb6093b3eb14631c2bd1c11572001151d7a71224e6f6ec2ae88b064
+    content: Erlendur Haraldsson and Ian Stevenson considered it not feasible to attribute all the information in the Runolfur
+      Runolfsson case to any single person or any single written source, whether the medium acquired the information normally
+      or by extrasensory perception.
+    original_excerpt: …it does not seem feasible to attribute all of this information to any single person or any single written
+      source. And this would be true, we believe, whether the medium acquired the information normally or by extrasensory
+      perception.
+    claim_type: opinion
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: named
+      origin: Erlendur Haraldsson and Ian Stevenson
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 42651247-b0a1-4ce4-804a-101c623e504b
+        title: Ian Stevenson
+        slug: ian-stevenson
+      - node_id: 5a444e8f-c623-42c6-8018-293818d9df73
+        title: Extrasensory perception (ESP)
+        slug: extrasensory-perception-esp
+      - node_id: 6021edb6-ae6b-4010-9cc7-08ef5b233d2d
+        title: Runolfur Runolfsson ("Runki")
+        slug: runolfur-runolfsson-runki
+      - node_id: 7113f0a0-43a7-4c57-8d08-28d419f85121
+        title: Erlendur Haraldsson
+        slug: erlendur-haraldsson
+    date: null
+    date_end: null
+    location_in_record: ch28:46401-46623
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
+      record_title: Surviving Death
+      record_date: '2017-03-07'
+      record_reference: null
+      content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
+      friendly_name: 2017-03-07-ebook-surviving-death
+  - claim_id: bdd4f0f5-e1b6-496b-9e8e-fc091451e95d
+    claim_hash: bb97123e698e2cd9464eeb3c6b3c57d53a5dbcbc92c87be65a1aaeed66b60ece
+    content: Erlendur Haraldsson and Ian Stevenson considered that some process of integration of details derived from different
+      persons or other sources must be supposed in interpreting the Runolfur Runolfsson case.
+    original_excerpt: We think, therefore, that some process of integration of details derived from different persons or other
+      sources must be supposed in the interpretation of the case.
+    claim_type: opinion
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: named
+      origin: Erlendur Haraldsson and Ian Stevenson
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 42651247-b0a1-4ce4-804a-101c623e504b
+        title: Ian Stevenson
+        slug: ian-stevenson
+      - node_id: 6021edb6-ae6b-4010-9cc7-08ef5b233d2d
+        title: Runolfur Runolfsson ("Runki")
+        slug: runolfur-runolfsson-runki
+      - node_id: 7113f0a0-43a7-4c57-8d08-28d419f85121
+        title: Erlendur Haraldsson
+        slug: erlendur-haraldsson
+    date: null
+    date_end: null
+    location_in_record: ch28:46635-46794
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
+      record_title: Surviving Death
+      record_date: '2017-03-07'
+      record_reference: null
+      content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
+      friendly_name: 2017-03-07-ebook-surviving-death
+  - claim_id: 2bc04a73-8194-45db-b57d-dab8e313f496
+    claim_hash: 00849dd25d175235241552854a57697e789f74ec4819a54b270c973a8270e76e
+    content: Erlendur Haraldsson and Ian Stevenson considered that the simplest explanation of the information integration
+      in the Runolfur Runolfsson case may be that Runki survived his physical death, retaining many memories and subsequently
+      communicating them through the mediumship of Hafsteinn Bjornsson.
+    original_excerpt: It may be simplest to explain this integration as due to Runki's survival after his physical death with
+      the retention of many memories and their subsequent communication through the mediumship of Hafsteinn.
+    claim_type: opinion
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: named
+      origin: Erlendur Haraldsson and Ian Stevenson
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 1e74fcfd-5ab8-4c0b-b9c4-f3189c773c88
+        title: Survival hypothesis
+        slug: survival-hypothesis
+      - node_id: 42651247-b0a1-4ce4-804a-101c623e504b
+        title: Ian Stevenson
+        slug: ian-stevenson
+      - node_id: 6021edb6-ae6b-4010-9cc7-08ef5b233d2d
+        title: Runolfur Runolfsson ("Runki")
+        slug: runolfur-runolfsson-runki
+      - node_id: 7113f0a0-43a7-4c57-8d08-28d419f85121
+        title: Erlendur Haraldsson
+        slug: erlendur-haraldsson
+      - node_id: c8d56e9e-8fd1-4d51-823a-4847910946a2
+        title: Hafsteinn Bjornsson
+        slug: hafsteinn-bjornsson
+    date: null
+    date_end: null
+    location_in_record: ch28:46800-46996
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
+      record_title: Surviving Death
+      record_date: '2017-03-07'
+      record_reference: null
+      content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
+      friendly_name: 2017-03-07-ebook-surviving-death
+  - claim_id: 57b9541b-bc56-4b86-832a-1ccedc9cff42
+    claim_hash: f563a7482806d688daffaf3b268576b4c0a3bee159eb174720300a589b6c6301
+    content: Erlendur Haraldsson and Ian Stevenson noted that sensitives have been known to achieve remarkable feats of deriving
+      and integrating information without the participation of any purported discarnate personality.
+    original_excerpt: On the other hand, sensitives have been known to achieve remarkable feats of deriving and integrating
+      information without the participation of any purported discarnate personality.
+    claim_type: opinion
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: named
+      origin: Erlendur Haraldsson and Ian Stevenson
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 42651247-b0a1-4ce4-804a-101c623e504b
+        title: Ian Stevenson
+        slug: ian-stevenson
+      - node_id: 7113f0a0-43a7-4c57-8d08-28d419f85121
+        title: Erlendur Haraldsson
+        slug: erlendur-haraldsson
+      - node_id: ec85bfdd-0899-4aa9-b790-b91008022037
+        title: Super-Extrasensory Perception (ESP) hypothesis
+        slug: super-extrasensory-perception-esp-hypothesis
+    date: null
+    date_end: null
+    location_in_record: ch28:47007-47175
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
+      record_title: Surviving Death
+      record_date: '2017-03-07'
+      record_reference: null
+      content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
+      friendly_name: 2017-03-07-ebook-surviving-death
+  - claim_id: 94468a12-9932-4fc4-a824-058ab97a49b5
+    claim_hash: bf172c69c6ee88dae42cedf22cdd050ab5d913672f7d0d555e3a2333d88d93d1
+    content: The case of Runolfur Runolfsson's ("Runki") leg presented by Alan Gauld was investigated by University of Iceland
+      psychologist Erlendur Haraldsson and psychiatrist Ian Stevenson.
+    original_excerpt: The case of Runki’s leg that Alan presented, investigated by University of Iceland psychologist Erlendur
+      Haraldsson and psychiatrist Ian Stevenson, is a case in point.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 42651247-b0a1-4ce4-804a-101c623e504b
+        title: Ian Stevenson
+        slug: ian-stevenson
+      - node_id: 6021edb6-ae6b-4010-9cc7-08ef5b233d2d
+        title: Runolfur Runolfsson ("Runki")
+        slug: runolfur-runolfsson-runki
+      - node_id: 7113f0a0-43a7-4c57-8d08-28d419f85121
+        title: Erlendur Haraldsson
+        slug: erlendur-haraldsson
+      - node_id: a3721a4e-087e-45f8-be94-eedf051a3c64
+        title: University of Iceland
+        slug: university-of-iceland
+      - node_id: b65a228b-8581-437c-a083-670590b31c40
+        title: Alan Gauld
+        slug: alan-gauld
+    date: null
+    date_end: null
+    location_in_record: ch29:2540-2701
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
+      record_title: Surviving Death
+      record_date: '2017-03-07'
+      record_reference: null
+      content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
+      friendly_name: 2017-03-07-ebook-surviving-death
+  - claim_id: f26747a0-c99f-4b74-b8b7-a2afd113af0a
+    claim_hash: 84606f33abde87ec97c3b0120fb39d14d131725138869d37230535f8aa746f8a
+    content: Loyd Auerbach considers Ian Stevenson's studies of young children's abilities to recall details of another life
+      to be well beyond the norm for psi.
+    original_excerpt: I also considered the abilities of young children to recall details of another life, studied extensively
+      by Ian Stevenson as described earlier in this volume, to be well beyond the norm for psi.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: a185408f-8bc4-4f4c-848f-64e24a3d52bf
+      title: Loyd Auerbach
+    provenance_chain:
+      origin_kind: speaker
+      origin: Loyd Auerbach
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 42651247-b0a1-4ce4-804a-101c623e504b
+        title: Ian Stevenson
+        slug: ian-stevenson
+      - node_id: 66da3a02-fe7e-46f1-a344-d50afed95f73
+        title: Past-life memories in young children
+        slug: past-life-memories-in-young-children
+      - node_id: e7eb0766-9fee-4759-b721-38beb853ee1d
+        title: Psi (psychic functioning)
+        slug: psi-psychic-functioning
+    date: null
+    date_end: null
+    location_in_record: ch31:9932-10122
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
+      record_title: Surviving Death
+      record_date: '2017-03-07'
+      record_reference: null
+      content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
+      friendly_name: 2017-03-07-ebook-surviving-death
+  - claim_id: 7a9e81bf-8c2c-43e1-961c-1f73066a512d
+    claim_hash: fcf95655eb9a78979f5d7cd58cb2f5e1ec4559bdb3ef670477f7b9a3a22eb5e3
+    content: Ian Stevenson highlighted circumstances in poltergeist cases in which an object flying through the air suddenly
+      changes speed, turns at a sharp angle and continues in a new direction, or goes from hurtling through the air to suddenly
+      floating or gently coming to rest.
+    original_excerpt: Stevenson highlights circumstances in which an object is flying through the air and suddenly changes
+      speed; turns at a sharp angle and continues in a new direction; or goes from hurtling through the air to suddenly floating
+      or gently coming to rest.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 42651247-b0a1-4ce4-804a-101c623e504b
+      title: Ian Stevenson
+    provenance_chain:
+      origin_kind: speaker
+      origin: Ian Stevenson
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 42651247-b0a1-4ce4-804a-101c623e504b
+        title: Ian Stevenson
+        slug: ian-stevenson
+      - node_id: cb4a5fa0-4215-4340-8c43-4e7091f6b650
+        title: Poltergeist
+        slug: poltergeist
+    date: null
+    date_end: null
+    location_in_record: ch34:3494-3738
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
+      record_title: Surviving Death
+      record_date: '2017-03-07'
+      record_reference: null
+      content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
+      friendly_name: 2017-03-07-ebook-surviving-death
+  - claim_id: 6aeee8d0-b343-4210-8715-cdcab8f1cfa7
+    claim_hash: d8810ae245b2fd29531bea43620372c5c39d98e9cde997e7cd6e902854698270
+    content: Ian Stevenson considered such poltergeist cases suggestive of a discarnate agency actually carrying the transported
+      objects or somehow otherwise controlling their flight, and said he had not himself been able to imagine how such effects
+      could be produced solely by the unconscious mind of the living agent.
+    original_excerpt: “I think such cases suggest some discarnate agency actually carrying the objects transported or somehow
+      otherwise controlling their flight,” Stevenson writes. “I have not myself been able to imagine how such effects could
+      be produced solely by the unconscious mind of the living agent.”
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 42651247-b0a1-4ce4-804a-101c623e504b
+      title: Ian Stevenson
+    provenance_chain:
+      origin_kind: speaker
+      origin: Ian Stevenson
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 42651247-b0a1-4ce4-804a-101c623e504b
+        title: Ian Stevenson
+        slug: ian-stevenson
+      - node_id: ad93eae6-0acc-4b63-b1ff-3a34db5f2d8d
+        title: Discarnate agency hypothesis
+        slug: discarnate-agency-hypothesis
+    date: null
+    date_end: null
+    location_in_record: ch34:3745-4023
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
+      record_title: Surviving Death
+      record_date: '2017-03-07'
+      record_reference: null
+      content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
+      friendly_name: 2017-03-07-ebook-surviving-death
+  - claim_id: 26459a68-cdb8-4167-8578-142561151cfb
+    claim_hash: 31b07a9f76c3a474097207da82f430caf354671216ceb2562f16797aef1b4da8
+    content: Alan Gauld, Tony Cornell, and Ian Stevenson proposed that phenomena exceeding the capacities of any living agent,
+      such as objects materializing in midair, direct voices speaking fluently from the air, or objects becoming animated,
+      could be caused by discarnates.
+    original_excerpt: And most bizarre of all are the phenomena that “so far as is known exceed the capacities of any living
+      agent,” such as objects materializing in midair, direct voices speaking fluently from the air, or objects becoming animated.
+      Along with Stevenson, the two investigators propose these could be caused by discarnates.
+    claim_type: opinion
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: named
+      origin: Alan Gauld, Tony Cornell and Ian Stevenson
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 42651247-b0a1-4ce4-804a-101c623e504b
+        title: Ian Stevenson
+        slug: ian-stevenson
+      - node_id: ad93eae6-0acc-4b63-b1ff-3a34db5f2d8d
+        title: Discarnate agency hypothesis
+        slug: discarnate-agency-hypothesis
+      - node_id: b65a228b-8581-437c-a083-670590b31c40
+        title: Alan Gauld
+        slug: alan-gauld
+      - node_id: c180da4d-2ddd-4b0f-a067-42fbdbc10f57
+        title: Tony Cornell
+        slug: tony-cornell
+    date: null
+    date_end: null
+    location_in_record: ch34:4841-5146
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
+      record_title: Surviving Death
+      record_date: '2017-03-07'
+      record_reference: null
+      content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
+      friendly_name: 2017-03-07-ebook-surviving-death
+  - claim_id: 82affffe-66f3-4dd7-9569-f00c2f387c43
+    claim_hash: fcde2c4458492d46984c3674d4f3622ddae4a9d787f7445fadda28824840ff66
+    content: 'Kumkum Verma is a girl in India whose case Ian Stevenson documented in Cases of the Reincarnation Type, Volume
+      I: Ten Cases in India, published in 1975.'
+    original_excerpt: 'An example is a little girl in India named Kumkum Verma / Ian Stevenson, Cases of the Reincarnation
+      Type, Volume I: Ten Cases in India (Charlottesville: University Press of Virginia, 1975), 206-40.'
+    claim_type: administrative
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: document
+      origin: Ian Stevenson, Cases of the Reincarnation Type, Volume I
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 42651247-b0a1-4ce4-804a-101c623e504b
+        title: Ian Stevenson
+        slug: ian-stevenson
+      - node_id: b04b9a11-f9cf-4a78-abf8-79f95b58fa2f
+        title: University of Virginia
+        slug: university-of-virginia
+      - node_id: b4f06585-086c-45f5-9b05-c2bc9386e7d6
+        title: India, Darbhanga
+        slug: darbhanga-india
+      - node_id: ef8c1322-ef79-4494-87f0-c18fd4557165
+        title: 'Cases of the Reincarnation Type, Volume I: Ten Cases in India (book by Ian Stevenson)'
+        slug: volume-i-ten-cases-in-india-book-by-ian-stevenson-cases-of-the-reincarnation-type
+      - node_id: fd372baf-6342-45ec-8819-9631bd1f7ad8
+        title: Kumkum Verma
+        slug: kumkum-verma
+    date: '1975'
+    date_end: null
+    location_in_record: ch41:10137-10330
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
+      record_title: Surviving Death
+      record_date: '2017-03-07'
+      record_reference: null
+      content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
+      friendly_name: 2017-03-07-ebook-surviving-death
+  - claim_id: bb512a3e-4763-4e3b-985e-761872fd8cb2
+    claim_hash: 2c1f5b5eab683cc731ebd2dc2c8aa648345568a93089311f85f09d5e8382a4e1
+    content: Sukla Gupta became distraught upon hearing the news and demanded to be taken to the person she claimed to remember
+      from a past life, as documented by Ian Stevenson in Twenty Cases Suggestive of Reincarnation.
+    original_excerpt: 'Sukla became distraught upon hearing the news and demanded to be taken to her / Ian Stevenson, Twenty
+      Cases Suggestive of Reincarnation (sec. rev. ed.) (Charlottesville: University Press of Virginia, 1974), 52-67.'
+    claim_type: observation
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: document
+      origin: Ian Stevenson, Twenty Cases Suggestive of Reincarnation
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 42651247-b0a1-4ce4-804a-101c623e504b
+        title: Ian Stevenson
+        slug: ian-stevenson
+      - node_id: b04b9a11-f9cf-4a78-abf8-79f95b58fa2f
+        title: University of Virginia
+        slug: university-of-virginia
+      - node_id: cf534675-aea7-4301-91d5-8ef366fab038
+        title: Twenty Cases Suggestive of Reincarnation (book by Ian Stevenson)
+        slug: twenty-cases-suggestive-of-reincarnation-book-by-ian-stevenson
+      - node_id: e6b5f3fe-4a94-4ef2-9185-498aef4be9a2
+        title: Sukla Gupta
+        slug: sukla-gupta
+    date: '1974'
+    date_end: null
+    location_in_record: ch41:10802-11012
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
+      record_title: Surviving Death
+      record_date: '2017-03-07'
+      record_reference: null
+      content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
+      friendly_name: 2017-03-07-ebook-surviving-death
+  - claim_id: 98d59085-3440-4d8b-a202-a2c0bf3eab5b
+    claim_hash: 572374861fce4db0aa2e8e4a7e25ccbdf4219116632244aca8b716d4ece0122e
+    content: Ian Stevenson published 'Phobias in Children Who Claim to Remember Previous Lives' in the Journal of Scientific
+      Exploration, volume 4, in 1990, describing how some children show phobias related to how the previous person died.
+    original_excerpt: 'Others show phobias related to how the previous person died / Ian Stevenson, "Phobias in Children Who
+      Claim to Remember Previous Lives," Journal of Scientific Exploration 4 (1990): 243-54.'
+    claim_type: observation
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: document
+      origin: Ian Stevenson paper
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 09b0a884-5814-45c2-a845-ec52beda412f
+        title: '"Phobias in Children Who Claim to Remember Previous Lives" (paper by Ian Stevenson)'
+        slug: phobias-in-children-who-claim-to-remember-previous-lives-paper-by-ian-stevenson
+      - node_id: 42651247-b0a1-4ce4-804a-101c623e504b
+        title: Ian Stevenson
+        slug: ian-stevenson
+      - node_id: c5e8f1ba-09bd-4665-9462-32779d16dd34
+        title: The Journal of Scientific Exploration
+        slug: the-journal-of-scientific-exploration
+    date: '1990'
+    date_end: null
+    location_in_record: ch41:11118-11303
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
+      record_title: Surviving Death
+      record_date: '2017-03-07'
+      record_reference: null
+      content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
+      friendly_name: 2017-03-07-ebook-surviving-death
+  - claim_id: 8cb27eab-2898-4cd2-adc1-1411b762e863
+    claim_hash: 1e61e22d1091a393afd0f674f4dfa03d87be6b592f74458f5a2d931bfb295a97
+    content: 'A girl documented in Ian Stevenson''s Cases of the Reincarnation Type, Volume II: Ten Cases in Sri Lanka fell
+      into a flooded paddy field next to a road and drowned.'
+    original_excerpt: 'she fell into a flooded paddy field next to the road and drowned / Ian Stevenson, Cases of the Reincarnation
+      Type, Volume II: Ten Cases in Sri Lanka (Charlottesville: University Press of Virginia, 1977), 15-42.'
+    claim_type: observation
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: document
+      origin: Ian Stevenson, Cases of the Reincarnation Type, Volume II
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 02a026d1-6507-444c-b588-63f89ed9a61d
+        title: Sri Lanka
+        slug: sri-lanka
+      - node_id: 42651247-b0a1-4ce4-804a-101c623e504b
+        title: Ian Stevenson
+        slug: ian-stevenson
+      - node_id: b04b9a11-f9cf-4a78-abf8-79f95b58fa2f
+        title: University of Virginia
+        slug: university-of-virginia
+      - node_id: ef8c1322-ef79-4494-87f0-c18fd4557165
+        title: 'Cases of the Reincarnation Type, Volume I: Ten Cases in India (book by Ian Stevenson)'
+        slug: volume-i-ten-cases-in-india-book-by-ian-stevenson-cases-of-the-reincarnation-type
+    date: '1977'
+    date_end: null
+    location_in_record: ch41:11308-11515
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
+      record_title: Surviving Death
+      record_date: '2017-03-07'
+      record_reference: null
+      content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
+      friendly_name: 2017-03-07-ebook-surviving-death
+  - claim_id: e868dabe-0920-4f60-838a-626387da537c
+    claim_hash: 68da4935e9e5e75eda7149f8122ebd5acc4ee4924e1aedc8d42123dfbae35847
+    content: Ian Stevenson published 'Unusual Play in Young Children Who Claim to Remember Previous Lives' in the Journal
+      of Scientific Exploration, volume 14, in 2000, documenting that past-life memories often appear in children's play activities.
+    original_excerpt: 'often appear in the children''s play activities as well / Ian Stevenson, "Unusual Play in Young Children
+      Who Claim to Remember Previous Lives," Journal of Scientific Exploration 14 (2000): 557-70.'
+    claim_type: observation
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: document
+      origin: Ian Stevenson paper
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 2f233091-26fa-48a7-9e00-134ff0e17197
+        title: Post-traumatic play
+        slug: post-traumatic-play
+      - node_id: 42651247-b0a1-4ce4-804a-101c623e504b
+        title: Ian Stevenson
+        slug: ian-stevenson
+      - node_id: 6465f4b6-1c53-4df1-b7a9-57c4e0a02834
+        title: '"Unusual Play in Young Children Who Claim to Remember Previous Lives" (paper by Ian Stevenson)'
+        slug: unusual-play-in-young-children-who-claim-to-remember-previous-lives-paper-by-ian-stevenson
+      - node_id: c5e8f1ba-09bd-4665-9462-32779d16dd34
+        title: The Journal of Scientific Exploration
+        slug: the-journal-of-scientific-exploration
+    date: '2000'
+    date_end: null
+    location_in_record: ch41:11520-11712
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
+      record_title: Surviving Death
+      record_date: '2017-03-07'
+      record_reference: null
+      content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
+      friendly_name: 2017-03-07-ebook-surviving-death
+  - claim_id: 5e7d2232-3b6c-44ed-907b-b5e3559e37fa
+    claim_hash: d8eebdb986cddde325e67cd1209f050aa71ab8b123513750092a326d27416e6e
+    content: A child documented in Ian Stevenson's Reincarnation and Biology acted out a scene of trying to escape from a
+      sinking boat.
+    original_excerpt: 'act out a scene of trying to escape from a sinking boat / Ian Stevenson, Reincarnation and Biology:
+      A Contribution to the Etiology of Birthmarks and Birth Defects (Westport, CT: Praeger, 1997), 1403-10.'
+    claim_type: observation
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: document
+      origin: Ian Stevenson, Reincarnation and Biology
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 2f233091-26fa-48a7-9e00-134ff0e17197
+        title: Post-traumatic play
+        slug: post-traumatic-play
+      - node_id: 392eb889-4168-4dc7-971f-ec655151def6
+        title: Reincarnation and Biology
+        slug: reincarnation-and-biology
+      - node_id: 42651247-b0a1-4ce4-804a-101c623e504b
+        title: Ian Stevenson
+        slug: ian-stevenson
+    date: '1997'
+    date_end: null
+    location_in_record: ch41:11805-12004
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
+      record_title: Surviving Death
+      record_date: '2017-03-07'
+      record_reference: null
+      content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
+      friendly_name: 2017-03-07-ebook-surviving-death
+  - claim_id: 265185a1-4862-4a50-8973-9db3c99237a6
+    claim_hash: 2fe1b4e3fea6e2390bebc19ec75dcffefafff28c94b0327c98b966b4be6134a3
+    content: Chanai Choomalaiwong is a boy in Thailand whose case is documented in Ian Stevenson's work.
+    original_excerpt: Chanai Choomalaiwong, a boy in Thailand / Ibid., 300-23.
+    claim_type: administrative
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: document
+      origin: Ian Stevenson, Reincarnation and Biology
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 42651247-b0a1-4ce4-804a-101c623e504b
+        title: Ian Stevenson
+        slug: ian-stevenson
+      - node_id: 5c71e89f-0237-46f8-9cc6-d98b70b606f6
+        title: Chanai Choomalaiwong
+        slug: chanai-choomalaiwong
+      - node_id: b42aa753-33f5-436f-b067-ac5457727a36
+        title: Thailand
+        slug: thailand
+    date: null
+    date_end: null
+    location_in_record: ch41:12475-12526
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
+      record_title: Surviving Death
+      record_date: '2017-03-07'
+      record_reference: null
+      content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
+      friendly_name: 2017-03-07-ebook-surviving-death
+  - claim_id: be3916fd-3160-4748-9b4a-e410648ae823
+    claim_hash: a3921f876290de3efea9454b3a343e26d97558b716f6c079e3ce640fff051eb8
+    content: A case documented by Ian Stevenson describes a child with an exit wound on the body corresponding to that of
+      a gunshot victim in a past life.
+    original_excerpt: exit wound on the body of a gunshot victim / Ibid., 933-34.
+    claim_type: observation
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: document
+      origin: Ian Stevenson, Reincarnation and Biology
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 42651247-b0a1-4ce4-804a-101c623e504b
+        title: Ian Stevenson
+        slug: ian-stevenson
+    date: null
+    date_end: null
+    location_in_record: ch41:12531-12585
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
+      record_title: Surviving Death
+      record_date: '2017-03-07'
+      record_reference: null
+      content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
+      friendly_name: 2017-03-07-ebook-surviving-death
+  - claim_id: 6a3e2464-7211-4fa5-af34-4b3f9fec5986
+    claim_hash: 77fbda2e9400b1246953535df2e00f9fce42d4aa53d92cd0cb2cef3effe76abe
+    content: A case documented by Ian Stevenson describes a child with only stubs for fingers on his right hand.
+    original_excerpt: only stubs for fingers on his right / Ibid., 1186-99.
+    claim_type: observation
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: document
+      origin: Ian Stevenson, Reincarnation and Biology
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 42651247-b0a1-4ce4-804a-101c623e504b
+        title: Ian Stevenson
+        slug: ian-stevenson
+    date: null
+    date_end: null
+    location_in_record: ch41:12590-12638
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
+      record_title: Surviving Death
+      record_date: '2017-03-07'
+      record_reference: null
+      content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
+      friendly_name: 2017-03-07-ebook-surviving-death
+  - claim_id: 2760969c-8a16-4e25-abb4-7c5471190b90
+    claim_hash: f3e11301c42e63082ba628220838ea606738f8c097c418623f7ad11281581d12
+    content: A case documented by Ian Stevenson describes a child with only a linear stump for his right ear.
+    original_excerpt: only a linear stump for his right ear / Ibid., 1382-1403.
+    claim_type: observation
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: document
+      origin: Ian Stevenson, Reincarnation and Biology
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 42651247-b0a1-4ce4-804a-101c623e504b
+        title: Ian Stevenson
+        slug: ian-stevenson
+    date: null
+    date_end: null
+    location_in_record: ch41:12643-12693
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
+      record_title: Surviving Death
+      record_date: '2017-03-07'
+      record_reference: null
+      content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
+      friendly_name: 2017-03-07-ebook-surviving-death
+  - claim_id: 6713ea33-a1ed-4fbb-be3f-3dc3eccf065d
+    claim_hash: 70684d3011ef78039ec326f4031d809a41163f9ed38b809383807c37bcaed1f3
+    content: Ian Stevenson's Reincarnation and Biology is a twenty-two-hundred-page collection of over two hundred past-life
+      cases.
+    original_excerpt: twenty-two-hundred-page collection of over two hundred such cases / Stevenson, Reincarnation and Biology.
+    claim_type: administrative
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: document
+      origin: Surviving Death endnotes
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 392eb889-4168-4dc7-971f-ec655151def6
+        title: Reincarnation and Biology
+        slug: reincarnation-and-biology
+      - node_id: 42651247-b0a1-4ce4-804a-101c623e504b
+        title: Ian Stevenson
+        slug: ian-stevenson
+    date: null
+    date_end: null
+    location_in_record: ch41:12700-12796
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
+      record_title: Surviving Death
+      record_date: '2017-03-07'
+      record_reference: null
+      content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
+      friendly_name: 2017-03-07-ebook-surviving-death
+  - claim_id: ba57916a-f9b7-47e0-82d3-cfcc05b19d17
+    claim_hash: cb86f05756fa6afce672220b39f6ab47c8fed551c0cd58fc549cb06962acde43
+    content: Ian Stevenson, Bruce Greyson, Emily Cook and Jessica Utts attended the meetings Robert Bigelow describes.
+    original_excerpt: You know, we had Ian Stevenson was there and Bruce Grayson was there and Emily Cook was there. Jessica
+      Utz was there.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 0d4dfba6-a53b-4f23-a2ad-e4c9bea44076
+      title: Robert Bigelow
+    provenance_chain:
+      origin_kind: speaker
+      origin: Robert Bigelow
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 24ed9a9c-7b9a-49b0-9d31-0aaaefceb48e
+        title: Emily Cook
+        slug: emily-cook
+      - node_id: 42651247-b0a1-4ce4-804a-101c623e504b
+        title: Ian Stevenson
+        slug: ian-stevenson
+      - node_id: 6705ff37-f3d0-4c33-a3f8-de6024104abb
+        title: Bruce Greyson
+        slug: bruce-greyson
+      - node_id: 6f1740e6-1786-40c2-8dc3-3e8e5cd256c3
+        title: Jessica Utts
+        slug: jessica-utts
+    date: null
+    date_end: null
+    location_in_record: 00:05:40.9-00:05:49.4
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 5de4e296-4206-45f6-aa56-c3b8efb5c9e2
+      record_title: The Evolution of AAWSAP | Bigelow Podcast, Ep. 2
+      record_date: '2026-08-11'
+      record_reference: https://www.youtube.com/watch?v=hz7jHEgYzQw
+      content_hash: sha256:1aa9d864c5a4bb930164c278d9624c6bc0f84278ea4b5e57594fae9e21e90858
+      friendly_name: null

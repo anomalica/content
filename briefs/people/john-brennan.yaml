@@ -1,0 +1,329 @@
+schema: anomalica/brief/1
+brief_hash: a0dbdbeff88ac0fb0a2863bd332604fc00f08cc867065d5fd4d8a7e60223b435
+page:
+  kind: entity
+  node_id: 7c74447b-218f-492e-a2f7-26fe9ba4e1cb
+  node_type: person
+  title: John Brennan
+  slug: john-brennan
+  claim_count: 7
+  claim_count_total: 7
+generated:
+  graph_version: '2026-09-01T10:10:49.863545+00:00'
+size:
+  claims: 7
+  tokens_estimated: 1969
+  sized_against: 1050000
+publication:
+  status: published
+  note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
+    transcripts are gated elsewhere.
+belonging:
+  verified: 0
+  suspect_excluded: 0
+  unreviewed: 7
+related_nodes:
+  - node_id: a3b88bf2-de8f-45bf-addf-fadd9244c4e5
+    title: James R. Clapper
+    node_type: person
+    slug: james-r-clapper
+    shared_claims: 3
+  - node_id: c7d209e2-87dd-4ae7-9333-b086266f0918
+    title: Age of Disclosure
+    node_type: document
+    slug: age-of-disclosure
+    shared_claims: 2
+  - node_id: 38b84d4a-96df-4684-bb46-f6f64f392add
+    title: Central Intelligence Agency (CIA)
+    node_type: organisation
+    slug: central-intelligence-agency-cia
+    shared_claims: 2
+  - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
+    title: Unidentified Anomalous Phenomena (UAP)
+    node_type: topic
+    slug: unidentified-anomalous-phenomena-uap
+    shared_claims: 2
+  - node_id: 65058869-076f-47d0-92ea-f8daf08b94cf
+    title: Barack Obama
+    node_type: person
+    slug: barack-obama
+    shared_claims: 1
+  - node_id: 96bf6aff-b3ac-4272-bd98-dc4eec1787fb
+    title: Crash retrieval and reverse engineering
+    node_type: topic
+    slug: crash-retrieval-and-reverse-engineering
+    shared_claims: 1
+  - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
+    title: Unidentified Flying Object (UFO)
+    node_type: topic
+    slug: unidentified-flying-object-ufo
+    shared_claims: 1
+claims:
+  - claim_id: 442b3c5e-4e24-4c17-a37c-58bdf2932a2d
+    claim_hash: 88aa62a9a4fefaeb59fdfbd8780fc4ce65ed467e17e47ed66c7e7507720dfb98
+    content: John Brennan has personally seen some Unidentified Aerial Phenomena (UAP) videos that he considers eyebrow-raising.
+    original_excerpt: “I have seen some of the videos… and they are quite eyebrow-raising… .” —John Brennan, former Director
+      of the Central Intelligence Agency
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 7c74447b-218f-492e-a2f7-26fe9ba4e1cb
+      title: John Brennan
+    provenance_chain:
+      origin_kind: speaker
+      origin: John Brennan
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
+        title: Unidentified Anomalous Phenomena (UAP)
+        slug: unidentified-anomalous-phenomena-uap
+      - node_id: 7c74447b-218f-492e-a2f7-26fe9ba4e1cb
+        title: John Brennan
+        slug: john-brennan
+    date: null
+    date_end: null
+    location_in_record: ch35:4465-4524
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  - claim_id: 06ce2d8a-cb24-4d5e-a270-6ac2f9258454
+    claim_hash: 1431b7180609b78d6e112541364fe28a3a6258d61533d0e18b650c8002208c6f
+    content: John Brennan considers it presumptuous and arrogant to believe there is no other form of life anywhere in the
+      entire universe.
+    original_excerpt: I think it would be presumptuous and arrogant for us to believe there is no other form of life anywhere
+      in the entire universe…
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 7c74447b-218f-492e-a2f7-26fe9ba4e1cb
+      title: John Brennan
+    provenance_chain:
+      origin_kind: speaker
+      origin: John Brennan
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 7c74447b-218f-492e-a2f7-26fe9ba4e1cb
+        title: John Brennan
+        slug: john-brennan
+    date: null
+    date_end: null
+    location_in_record: ch35:4535-4653
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  - claim_id: b502d013-636a-4cb6-8909-7813e65ea193
+    claim_hash: 0cdc34751ade7b7da3d31166af5533569eab92bae41f4810afe712c4a493a980
+    content: John Brennan considers some unexplained aerial phenomena might involve some type of activity that could constitute
+      a different form of life.
+    original_excerpt: I think some of the phenomena we’re going to be seeing continues to be unexplained and might, in fact,
+      be some type of phenomenon that is the result of something that we don’t yet understand and that could involve some
+      type of activity that some might say constitutes a different form of life.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 7c74447b-218f-492e-a2f7-26fe9ba4e1cb
+      title: John Brennan
+    provenance_chain:
+      origin_kind: speaker
+      origin: John Brennan
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
+        title: Unidentified Anomalous Phenomena (UAP)
+        slug: unidentified-anomalous-phenomena-uap
+      - node_id: 7c74447b-218f-492e-a2f7-26fe9ba4e1cb
+        title: John Brennan
+        slug: john-brennan
+    date: null
+    date_end: null
+    location_in_record: ch35:4665-4953
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  - claim_id: 2c8caf19-6411-4f96-a5d8-d2563aaee6c2
+    claim_hash: c513605ffbfac1beac31e9fc85057f22188653a6689fc9c92a10682c239339dc
+    content: John Brennan was Barack Obama's CIA director and James Clapper was his director of national intelligence.
+    original_excerpt: Obama's uh, CIA director, uh, you know, Brennan and his, uh, director of national intelligence, James
+      Clapper
+    claim_type: administrative
+    attestation: null
+    speaker:
+      node_id: 079d4381-4273-418b-bc9a-468623f95c6e
+      title: Jesse Mitchells
+    provenance_chain:
+      origin_kind: unattributed
+      origin: public record
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 38b84d4a-96df-4684-bb46-f6f64f392add
+        title: Central Intelligence Agency (CIA)
+        slug: central-intelligence-agency-cia
+      - node_id: 65058869-076f-47d0-92ea-f8daf08b94cf
+        title: Barack Obama
+        slug: barack-obama
+      - node_id: 7c74447b-218f-492e-a2f7-26fe9ba4e1cb
+        title: John Brennan
+        slug: john-brennan
+      - node_id: a3b88bf2-de8f-45bf-addf-fadd9244c4e5
+        title: James R. Clapper
+        slug: james-r-clapper
+    date: null
+    date_end: null
+    location_in_record: 00:53:13.6-00:53:20.2
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 64b84f95-238c-4ab7-a678-bee55f985b14
+      record_title: The UFO Cover-Up Leads to One Secret Society — and One Final Event
+      record_date: '2026-07-14'
+      record_reference: https://www.youtube.com/watch?v=kccrkCGGzX4
+      content_hash: sha256:d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7b5a1b98d
+      friendly_name: null
+  - claim_id: 9fdfda7a-7008-40d8-a6d7-fad289b02366
+    claim_hash: d31f1161d526bc7644be50afc8dca2da882d0e92f3f37158cb9ac86d73d4a9fe
+    content: John Brennan and James Clapper appear in a documentary film and tacitly endorse the idea that UFOs are real.
+    original_excerpt: Brennan and his, uh, director of national intelligence, James Clapper are showing up in a movie and
+      they are tacitly endorsing the idea that not only have we, you know, are UFOs real
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 079d4381-4273-418b-bc9a-468623f95c6e
+      title: Jesse Mitchells
+    provenance_chain:
+      origin_kind: speaker
+      origin: Jesse Michels
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 7c74447b-218f-492e-a2f7-26fe9ba4e1cb
+        title: John Brennan
+        slug: john-brennan
+      - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
+        title: Unidentified Flying Object (UFO)
+        slug: unidentified-flying-object-ufo
+      - node_id: a3b88bf2-de8f-45bf-addf-fadd9244c4e5
+        title: James R. Clapper
+        slug: james-r-clapper
+      - node_id: c7d209e2-87dd-4ae7-9333-b086266f0918
+        title: Age of Disclosure
+        slug: age-of-disclosure
+    date: null
+    date_end: null
+    location_in_record: 00:53:16.7-00:53:27.5
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 64b84f95-238c-4ab7-a678-bee55f985b14
+      record_title: The UFO Cover-Up Leads to One Secret Society — and One Final Event
+      record_date: '2026-07-14'
+      record_reference: https://www.youtube.com/watch?v=kccrkCGGzX4
+      content_hash: sha256:d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7b5a1b98d
+      friendly_name: null
+  - claim_id: 7a38ff7d-1203-46bc-9844-0756c3a08b98
+    claim_hash: 1ae45f91fc49ae04ff71f31f2e6cd954e3d64801677a4158b292244190d45159
+    content: John Brennan and James Clapper tacitly endorse in a documentary film the idea that a multi-generational legacy
+      programme has conducted crash retrieval and reverse engineering operations for decades.
+    original_excerpt: are tacitly endorsing the idea that we've had a legacy program doing crash retrieval operations and,
+      you know, uh, reverse engineering for decades, multi-generational.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 079d4381-4273-418b-bc9a-468623f95c6e
+      title: Jesse Mitchells
+    provenance_chain:
+      origin_kind: speaker
+      origin: Jesse Michels
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 7c74447b-218f-492e-a2f7-26fe9ba4e1cb
+        title: John Brennan
+        slug: john-brennan
+      - node_id: 96bf6aff-b3ac-4272-bd98-dc4eec1787fb
+        title: Crash retrieval and reverse engineering
+        slug: crash-retrieval-and-reverse-engineering
+      - node_id: a3b88bf2-de8f-45bf-addf-fadd9244c4e5
+        title: James R. Clapper
+        slug: james-r-clapper
+      - node_id: c7d209e2-87dd-4ae7-9333-b086266f0918
+        title: Age of Disclosure
+        slug: age-of-disclosure
+    date: null
+    date_end: null
+    location_in_record: 00:53:35.9-00:53:44.2
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 64b84f95-238c-4ab7-a678-bee55f985b14
+      record_title: The UFO Cover-Up Leads to One Secret Society — and One Final Event
+      record_date: '2026-07-14'
+      record_reference: https://www.youtube.com/watch?v=kccrkCGGzX4
+      content_hash: sha256:d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7b5a1b98d
+      friendly_name: null
+  - claim_id: 51f0ff5f-8d8d-4f8f-9e2c-6bd8ccfa3710
+    claim_hash: 2a093b1bb7d1b5eb0891e4123f8e0c89e5e716f19e85c6158950bf6c89b83c9a
+    content: John Brennan was CIA Director from 2013 to 2017.
+    original_excerpt: '[note: John Brennan - CIA Director (2013-2017)]'
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: source record annotation
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 38b84d4a-96df-4684-bb46-f6f64f392add
+        title: Central Intelligence Agency (CIA)
+        slug: central-intelligence-agency-cia
+      - node_id: 7c74447b-218f-492e-a2f7-26fe9ba4e1cb
+        title: John Brennan
+        slug: john-brennan
+    date: null
+    date_end: null
+    location_in_record: line 250
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 64b84f95-238c-4ab7-a678-bee55f985b14
+      record_title: The UFO Cover-Up Leads to One Secret Society — and One Final Event
+      record_date: '2026-07-14'
+      record_reference: https://www.youtube.com/watch?v=kccrkCGGzX4
+      content_hash: sha256:d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7b5a1b98d
+      friendly_name: null

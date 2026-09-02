@@ -1,0 +1,845 @@
+schema: anomalica/brief/1
+brief_hash: 247b1e9472d8e9025b8e7a5aa2b508c2bc4bf52df66d33e029ce4d289e8d29ec
+page:
+  kind: entity
+  node_id: 5d4966d1-e0f0-4c5c-b701-b48b4a2f13c1
+  node_type: project
+  title: Project MKUltra (MKUltra)
+  slug: project-mkultra-mkultra
+  claim_count: 19
+  claim_count_total: 19
+generated:
+  graph_version: '2026-09-01T10:10:49.863545+00:00'
+size:
+  claims: 19
+  tokens_estimated: 5328
+  sized_against: 1050000
+publication:
+  status: published
+  note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
+    transcripts are gated elsewhere.
+belonging:
+  verified: 0
+  suspect_excluded: 0
+  unreviewed: 19
+related_nodes:
+  - node_id: 38b84d4a-96df-4684-bb46-f6f64f392add
+    title: Central Intelligence Agency (CIA)
+    node_type: organisation
+    slug: central-intelligence-agency-cia
+    shared_claims: 5
+  - node_id: d4241f5a-1063-4970-ba02-5a391c02d96d
+    title: David Charles Grusch
+    node_type: person
+    slug: david-charles-grusch
+    shared_claims: 2
+  - node_id: 8d3ca113-3f28-4808-998e-34d2837332a5
+    title: Julia Mossbridge
+    node_type: person
+    slug: julia-mossbridge
+    shared_claims: 2
+  - node_id: e9fe645b-a3a5-451e-bcc2-a05c26f044f3
+    title: McGill University
+    node_type: organisation
+    slug: mcgill-university
+    shared_claims: 2
+  - node_id: b26a5e2e-9cb8-484e-92f8-d332245917b5
+    title: Phil McGraw
+    node_type: person
+    slug: phil-mcgraw
+    shared_claims: 2
+  - node_id: 4fb65b2c-296a-493d-bbc7-65e4b763c1f0
+    title: United States Congress
+    node_type: organisation
+    slug: united-states-congress
+    shared_claims: 2
+  - node_id: 1d228903-0bd7-401a-9902-2656e6e85650
+    title: Anna Paulina Luna
+    node_type: person
+    slug: anna-paulina-luna
+    shared_claims: 1
+  - node_id: 64f100c7-ad23-46ef-8818-ed5100b507c5
+    title: Charlie Hickson
+    node_type: person
+    slug: charlie-hickson
+    shared_claims: 1
+  - node_id: 24d00311-06ac-46a1-a2f5-c99f3f8e21b2
+    title: Chris Ramsay
+    node_type: person
+    slug: chris-ramsay
+    shared_claims: 1
+  - node_id: e369f500-e0ca-4ed8-b6c1-a6ecf0dcbdd5
+    title: Destruction of MKUltra records 1973
+    node_type: event
+    slug: destruction-of-mkultra-records-1973
+    shared_claims: 1
+  - node_id: 816c219b-6372-49f6-9579-5eeabb9a7474
+    title: Donald Trump
+    node_type: person
+    slug: donald-trump
+    shared_claims: 1
+  - node_id: 079d4381-4273-418b-bc9a-468623f95c6e
+    title: Jesse Mitchells
+    node_type: person
+    slug: jesse-mitchells
+    shared_claims: 1
+  - node_id: bf502091-394a-4469-9dcc-1525b11c2236
+    title: John Zubek
+    node_type: person
+    slug: john-zubek
+    shared_claims: 1
+  - node_id: 21a31a67-2dcf-40b7-9c48-4f55fdfb8952
+    title: Louis Jolyon West
+    node_type: person
+    slug: louis-jolyon-west
+    shared_claims: 1
+  - node_id: ebbcd111-513c-4c01-9afb-7196c5c68d81
+    title: Manchurian Candidate
+    node_type: topic
+    slug: manchurian-candidate
+    shared_claims: 1
+  - node_id: 4ee31f58-8a8e-4525-8c5a-a55d28aa4c96
+    title: Operation CHAOS
+    node_type: project
+    slug: operation-chaos
+    shared_claims: 1
+  - node_id: b4258228-aad1-462d-8757-27a3a99fdaaf
+    title: Reverse engineering of recovered craft of non-human origin
+    node_type: topic
+    slug: reverse-engineering-of-recovered-craft-of-non-human-origin
+    shared_claims: 1
+  - node_id: 16df1522-e82c-4b87-9204-8b1e8e510443
+    title: Richard Helms
+    node_type: person
+    slug: richard-helms
+    shared_claims: 1
+  - node_id: 354cc44f-b48c-4eaa-9768-d11cb06173f9
+    title: Sidney Gottlieb
+    node_type: person
+    slug: sidney-gottlieb
+    shared_claims: 1
+  - node_id: b8f40be9-d8c9-4217-962f-2421f8d05a55
+    title: Wilbert Smith 1950 memorandum on flying saucers
+    node_type: document
+    slug: wilbert-smith-1950-memorandum-on-flying-saucers
+    shared_claims: 1
+claims:
+  - claim_id: 083dedfc-9b6b-4b4c-bd11-70ec5a4b3989
+    claim_hash: 48f8cebe88cf4e17534730e5b33a7b2a4282ec90d8f7bdf05c10c1067347e29f
+    content: John Zubek's sensory deprivation research paralleled the CIA's Project MKUltra, which sought to manipulate human
+      behaviour for interrogation purposes.
+    original_excerpt: His work paralleled the CIA's MKUltra program, which sought to manipulate human behavior for interrogation
+      purposes.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 38b84d4a-96df-4684-bb46-f6f64f392add
+        title: Central Intelligence Agency (CIA)
+        slug: central-intelligence-agency-cia
+      - node_id: 5d4966d1-e0f0-4c5c-b701-b48b4a2f13c1
+        title: Project MKUltra (MKUltra)
+        slug: project-mkultra-mkultra
+      - node_id: bf502091-394a-4469-9dcc-1525b11c2236
+        title: John Zubek
+        slug: john-zubek
+    date: null
+    date_end: null
+    location_in_record: 00:17:19.2-00:17:24.7
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 9d72a455-1dcf-44ac-8093-2fe566032264
+      record_title: I LEFT MY BODY - The Gateway Experience (Part 3)
+      record_date: '2024-08-24'
+      record_reference: https://www.youtube.com/watch?v=GRqPnRcfMIY
+      content_hash: sha256:4733335b86d81aa09b7d41d08bf3b53b1512fc8641c72a9aa78b972be64eb926
+      friendly_name: null
+  - claim_id: 80de9b37-daca-467d-acf0-e04b331091af
+    claim_hash: 4e46431d190ac1c37e1eb3595fb921e2671b35b29e60ba1590bf7eb09c1a48b2
+    content: Louis Jolyon West was one of the architects of Project MKUltra.
+    original_excerpt: Jolly West, do you know who that is? He was one of the architects of, uh, MKUltra
+    claim_type: administrative
+    attestation: first_hand
+    speaker:
+      node_id: 079d4381-4273-418b-bc9a-468623f95c6e
+      title: Jesse Mitchells
+    provenance_chain:
+      origin_kind: speaker
+      origin: Jesse Michels
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 21a31a67-2dcf-40b7-9c48-4f55fdfb8952
+        title: Louis Jolyon West
+        slug: louis-jolyon-west
+      - node_id: 5d4966d1-e0f0-4c5c-b701-b48b4a2f13c1
+        title: Project MKUltra (MKUltra)
+        slug: project-mkultra-mkultra
+    date: null
+    date_end: null
+    location_in_record: 00:11:37.5-00:11:41.1
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 64b84f95-238c-4ab7-a678-bee55f985b14
+      record_title: The UFO Cover-Up Leads to One Secret Society — and One Final Event
+      record_date: '2026-07-14'
+      record_reference: https://www.youtube.com/watch?v=kccrkCGGzX4
+      content_hash: sha256:d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7b5a1b98d
+      friendly_name: null
+  - claim_id: 984dc81f-6bcc-42b9-b615-9b82c48e1653
+    claim_hash: dde153f73c3bdfeab1d1adbafce4d77e3e5b664715b7ec20ad9b048d1ae30355
+    content: Jesse Michels considers that psychology research of the Project MKUltra era, much of it probably state funded,
+      was extremely interested in the creation of cults because cults are inherently subversive organisations.
+    original_excerpt: A lot of the psychology that was probably state funded at the time was, it was extremely interested
+      in the, uh, creation of cults, because as you're saying, those are kind of inherently subversive organizations.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 079d4381-4273-418b-bc9a-468623f95c6e
+      title: Jesse Mitchells
+    provenance_chain:
+      origin_kind: speaker
+      origin: Jesse Michels
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 079d4381-4273-418b-bc9a-468623f95c6e
+        title: Jesse Mitchells
+        slug: jesse-mitchells
+      - node_id: 5d4966d1-e0f0-4c5c-b701-b48b4a2f13c1
+        title: Project MKUltra (MKUltra)
+        slug: project-mkultra-mkultra
+    date: null
+    date_end: null
+    location_in_record: 00:12:00.0-00:12:11.1
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 64b84f95-238c-4ab7-a678-bee55f985b14
+      record_title: The UFO Cover-Up Leads to One Secret Society — and One Final Event
+      record_date: '2026-07-14'
+      record_reference: https://www.youtube.com/watch?v=kccrkCGGzX4
+      content_hash: sha256:d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7b5a1b98d
+      friendly_name: null
+  - claim_id: e30ecd85-deaa-4923-bafc-02c0ce3d9f48
+    claim_hash: 1ca6c07c72bae542566ebc4f29d5eac2d724108b47bf8930bf44e8c1c7aef7ce
+    content: In 1973 Richard Helms ordered Sidney Gottlieb to destroy all the Project MKUltra documents.
+    original_excerpt: Remember, Richard Helms in 1973 ordered Sidley Gottlieb to destroy all the MKUltra documents.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: d4241f5a-1063-4970-ba02-5a391c02d96d
+      title: David Charles Grusch
+    provenance_chain:
+      origin_kind: speaker
+      origin: David Grusch
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 16df1522-e82c-4b87-9204-8b1e8e510443
+        title: Richard Helms
+        slug: richard-helms
+      - node_id: 354cc44f-b48c-4eaa-9768-d11cb06173f9
+        title: Sidney Gottlieb
+        slug: sidney-gottlieb
+      - node_id: 5d4966d1-e0f0-4c5c-b701-b48b4a2f13c1
+        title: Project MKUltra (MKUltra)
+        slug: project-mkultra-mkultra
+      - node_id: e369f500-e0ca-4ed8-b6c1-a6ecf0dcbdd5
+        title: Destruction of MKUltra records 1973
+        slug: destruction-of-mkultra-records-1973
+    date: '1973'
+    date_end: null
+    location_in_record: 00:08:58.0-00:09:03.2
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: eb21cb34-eec1-462d-9127-2d5e367cdfb9
+      record_title: 'David Grusch: The Whistleblower Who Told Congress We''re Not Alone'
+      record_date: '2026-08-13'
+      record_reference: https://www.youtube.com/watch?v=LBXmqvFs0Ec
+      content_hash: sha256:c685d061d160da6ae664b97e8b033d8d36090ea76d13c45792556dae22ae3344
+      friendly_name: null
+  - claim_id: 8b01266c-3c6f-4358-a524-a4102e78d61b
+    claim_hash: bca92f7f98c0dc00c064614f03e5bb2cd3751f907456014d063f93ff464f9268
+    content: There was a shell game within the Central Intelligence Agency to prevent its inspector general, its general counsel
+      and United States Congress from learning about Project MKUltra.
+    original_excerpt: There was a shell game within the CIA to prevent the inspector general, general counsel, Congress from
+      learning about the program.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: d4241f5a-1063-4970-ba02-5a391c02d96d
+      title: David Charles Grusch
+    provenance_chain:
+      origin_kind: speaker
+      origin: David Grusch
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 38b84d4a-96df-4684-bb46-f6f64f392add
+        title: Central Intelligence Agency (CIA)
+        slug: central-intelligence-agency-cia
+      - node_id: 4fb65b2c-296a-493d-bbc7-65e4b763c1f0
+        title: United States Congress
+        slug: united-states-congress
+      - node_id: 5d4966d1-e0f0-4c5c-b701-b48b4a2f13c1
+        title: Project MKUltra (MKUltra)
+        slug: project-mkultra-mkultra
+    date: null
+    date_end: null
+    location_in_record: 00:09:03.8-00:09:11.1
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: eb21cb34-eec1-462d-9127-2d5e367cdfb9
+      record_title: 'David Grusch: The Whistleblower Who Told Congress We''re Not Alone'
+      record_date: '2026-08-13'
+      record_reference: https://www.youtube.com/watch?v=LBXmqvFs0Ec
+      content_hash: sha256:c685d061d160da6ae664b97e8b033d8d36090ea76d13c45792556dae22ae3344
+      friendly_name: null
+  - claim_id: bbaf5d72-b1f3-48d6-bc52-c247c9802b40
+    claim_hash: 53201c5413c2154c7620f52bb4238f1093745c8205f3906954ddf052344f3cb5
+    content: What is known about Project MKUltra comes from financial records that were found and stored separately, amounting
+      to about 30 per cent of what was going on.
+    original_excerpt: we only know what we know about MKUltra through the financial records that were found and stored separately.
+      So that's why we know 30% of what was going on.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: d4241f5a-1063-4970-ba02-5a391c02d96d
+      title: David Charles Grusch
+    provenance_chain:
+      origin_kind: speaker
+      origin: David Grusch
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 5d4966d1-e0f0-4c5c-b701-b48b4a2f13c1
+        title: Project MKUltra (MKUltra)
+        slug: project-mkultra-mkultra
+    date: null
+    date_end: null
+    location_in_record: 00:09:11.8-00:09:20.5
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: eb21cb34-eec1-462d-9127-2d5e367cdfb9
+      record_title: 'David Grusch: The Whistleblower Who Told Congress We''re Not Alone'
+      record_date: '2026-08-13'
+      record_reference: https://www.youtube.com/watch?v=LBXmqvFs0Ec
+      content_hash: sha256:c685d061d160da6ae664b97e8b033d8d36090ea76d13c45792556dae22ae3344
+      friendly_name: null
+  - claim_id: 1d3c4eb1-4d2f-44fb-8e3c-6538540fca73
+    claim_hash: 2174e5e11d87dfd1a95f503e8ec72b0be429f1b7d376cba63bcac9cc817aa695
+    content: David Grusch is worried that unless Donald Trump has issued a historical document preservation hold, much of
+      the information on the Unidentified Aerial Phenomena recovery programme is being destroyed at present, similar to the
+      destruction of Project MKUltra records in the 1970s.
+    original_excerpt: I do worry if President Trump hasn't provided a either classified or otherwise, you know, historical
+      document preservation notice hold, that a lot of the information on the UAP recovery program is being destroyed as we
+      speak, akin to MKUltra in the 70s.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: d4241f5a-1063-4970-ba02-5a391c02d96d
+      title: David Charles Grusch
+    provenance_chain:
+      origin_kind: speaker
+      origin: David Grusch
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 5d4966d1-e0f0-4c5c-b701-b48b4a2f13c1
+        title: Project MKUltra (MKUltra)
+        slug: project-mkultra-mkultra
+      - node_id: 816c219b-6372-49f6-9579-5eeabb9a7474
+        title: Donald Trump
+        slug: donald-trump
+      - node_id: b4258228-aad1-462d-8757-27a3a99fdaaf
+        title: Reverse engineering of recovered craft of non-human origin
+        slug: reverse-engineering-of-recovered-craft-of-non-human-origin
+      - node_id: d4241f5a-1063-4970-ba02-5a391c02d96d
+        title: David Charles Grusch
+        slug: david-charles-grusch
+    date: null
+    date_end: null
+    location_in_record: 00:09:25.3-00:09:42.4
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: eb21cb34-eec1-462d-9127-2d5e367cdfb9
+      record_title: 'David Grusch: The Whistleblower Who Told Congress We''re Not Alone'
+      record_date: '2026-08-13'
+      record_reference: https://www.youtube.com/watch?v=LBXmqvFs0Ec
+      content_hash: sha256:c685d061d160da6ae664b97e8b033d8d36090ea76d13c45792556dae22ae3344
+      friendly_name: null
+  - claim_id: 73448ce5-7b88-4ee6-9108-c2bac049eb78
+    claim_hash: eb7775bb194751969b1a5fdbf5b5e3ce84d04dd7c3836e7b34644268ba5740e4
+    content: The Central Intelligence Agency's MK series of programmes included Operation CHAOS, which was a domestic influence
+      operation.
+    original_excerpt: there was a whole mk series to include operation chaos which was domestic influence operations
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: d4241f5a-1063-4970-ba02-5a391c02d96d
+      title: David Charles Grusch
+    provenance_chain:
+      origin_kind: speaker
+      origin: David Grusch
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 38b84d4a-96df-4684-bb46-f6f64f392add
+        title: Central Intelligence Agency (CIA)
+        slug: central-intelligence-agency-cia
+      - node_id: 4ee31f58-8a8e-4525-8c5a-a55d28aa4c96
+        title: Operation CHAOS
+        slug: operation-chaos
+      - node_id: 5d4966d1-e0f0-4c5c-b701-b48b4a2f13c1
+        title: Project MKUltra (MKUltra)
+        slug: project-mkultra-mkultra
+    date: null
+    date_end: null
+    location_in_record: 00:10:51.5-00:10:57.2
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: eb21cb34-eec1-462d-9127-2d5e367cdfb9
+      record_title: 'David Grusch: The Whistleblower Who Told Congress We''re Not Alone'
+      record_date: '2026-08-13'
+      record_reference: https://www.youtube.com/watch?v=LBXmqvFs0Ec
+      content_hash: sha256:c685d061d160da6ae664b97e8b033d8d36090ea76d13c45792556dae22ae3344
+      friendly_name: null
+  - claim_id: 6576e68f-2b8f-41ef-9bb9-ef7b447913a2
+    claim_hash: 6dfac2e6d41c428b9dde5a0879192005d0178ef377b825e96b80ab5af10ccefa
+    content: Project MKUltra started in the 1950s as a mind control experimentation programme using drugs such as lysergic
+      acid diethylamide (LSD).
+    original_excerpt: MKUltra started in the 50s and i'm certainly not the expert but essentially it was a mind control uh
+      experimentation program also using different types of drugs such as LSD
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: d4241f5a-1063-4970-ba02-5a391c02d96d
+      title: David Charles Grusch
+    provenance_chain:
+      origin_kind: speaker
+      origin: David Grusch
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 5d4966d1-e0f0-4c5c-b701-b48b4a2f13c1
+        title: Project MKUltra (MKUltra)
+        slug: project-mkultra-mkultra
+    date: null
+    date_end: null
+    location_in_record: 00:10:58.2-00:11:08.9
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: eb21cb34-eec1-462d-9127-2d5e367cdfb9
+      record_title: 'David Grusch: The Whistleblower Who Told Congress We''re Not Alone'
+      record_date: '2026-08-13'
+      record_reference: https://www.youtube.com/watch?v=LBXmqvFs0Ec
+      content_hash: sha256:c685d061d160da6ae664b97e8b033d8d36090ea76d13c45792556dae22ae3344
+      friendly_name: null
+  - claim_id: 9c361049-159f-4dfe-8249-b90bca254d49
+    claim_hash: 2ad0a997d057dc56ff8b81d1a8d34972a7e2dd2faec58485bf3782bfbc7130f3
+    content: Under Project MKUltra, innocent civilians were dosed with drugs in clinics.
+    original_excerpt: they were dosing innocent civilians in clinics
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: d4241f5a-1063-4970-ba02-5a391c02d96d
+      title: David Charles Grusch
+    provenance_chain:
+      origin_kind: speaker
+      origin: David Grusch
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 5d4966d1-e0f0-4c5c-b701-b48b4a2f13c1
+        title: Project MKUltra (MKUltra)
+        slug: project-mkultra-mkultra
+    date: null
+    date_end: null
+    location_in_record: 00:11:09.7-00:11:12.2
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: eb21cb34-eec1-462d-9127-2d5e367cdfb9
+      record_title: 'David Grusch: The Whistleblower Who Told Congress We''re Not Alone'
+      record_date: '2026-08-13'
+      record_reference: https://www.youtube.com/watch?v=LBXmqvFs0Ec
+      content_hash: sha256:c685d061d160da6ae664b97e8b033d8d36090ea76d13c45792556dae22ae3344
+      friendly_name: null
+  - claim_id: 4472a07b-4777-4192-9fd0-74221c5b444b
+    claim_hash: 863fc165bb249b9a553cd4efc377af237dd3dccebeebf28d3fa7e456c8f91101
+    content: The Central Intelligence Agency pursued mind control experimentation under Project MKUltra because it learned
+      that Russia was also experimenting with such techniques.
+    original_excerpt: they were experimenting with uh you know pretty intense mind control capabilities because the CIA got
+      wind that the russia was also experimenting with this kind of thing.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: d4241f5a-1063-4970-ba02-5a391c02d96d
+      title: David Charles Grusch
+    provenance_chain:
+      origin_kind: speaker
+      origin: David Grusch
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 38b84d4a-96df-4684-bb46-f6f64f392add
+        title: Central Intelligence Agency (CIA)
+        slug: central-intelligence-agency-cia
+      - node_id: 5d4966d1-e0f0-4c5c-b701-b48b4a2f13c1
+        title: Project MKUltra (MKUltra)
+        slug: project-mkultra-mkultra
+    date: null
+    date_end: null
+    location_in_record: 00:11:13.3-00:11:22.9
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: eb21cb34-eec1-462d-9127-2d5e367cdfb9
+      record_title: 'David Grusch: The Whistleblower Who Told Congress We''re Not Alone'
+      record_date: '2026-08-13'
+      record_reference: https://www.youtube.com/watch?v=LBXmqvFs0Ec
+      content_hash: sha256:c685d061d160da6ae664b97e8b033d8d36090ea76d13c45792556dae22ae3344
+      friendly_name: null
+  - claim_id: a8cd812f-9575-4a73-86bc-d00cec89fcca
+    claim_hash: 943a5f14d0b4613681516fd4a964f288fd42169f6f499adca2a7a7560d1fe513
+    content: The Central Intelligence Agency wanted to create Manchurian Candidate assassins through Project MKUltra.
+    original_excerpt: And they wanted to create Manchurian Candidate Assassins and other things.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: d4241f5a-1063-4970-ba02-5a391c02d96d
+      title: David Charles Grusch
+    provenance_chain:
+      origin_kind: speaker
+      origin: David Grusch
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 38b84d4a-96df-4684-bb46-f6f64f392add
+        title: Central Intelligence Agency (CIA)
+        slug: central-intelligence-agency-cia
+      - node_id: 5d4966d1-e0f0-4c5c-b701-b48b4a2f13c1
+        title: Project MKUltra (MKUltra)
+        slug: project-mkultra-mkultra
+      - node_id: ebbcd111-513c-4c01-9afb-7196c5c68d81
+        title: Manchurian Candidate
+        slug: manchurian-candidate
+    date: null
+    date_end: null
+    location_in_record: 00:11:23.2-00:11:26.9
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: eb21cb34-eec1-462d-9127-2d5e367cdfb9
+      record_title: 'David Grusch: The Whistleblower Who Told Congress We''re Not Alone'
+      record_date: '2026-08-13'
+      record_reference: https://www.youtube.com/watch?v=LBXmqvFs0Ec
+      content_hash: sha256:c685d061d160da6ae664b97e8b033d8d36090ea76d13c45792556dae22ae3344
+      friendly_name: null
+  - claim_id: a6e0834d-0578-428c-9fcb-873040a56277
+    claim_hash: 98165398f373144cb89c2775ce34569b7a22bb91b9a6d9bc8ccee96e282d83e1
+    content: Anna Paulina Luna chaired a recent congressional hearing about Project MKUltra.
+    original_excerpt: And Chairwoman Lunar had a hearing about it recently.
+    claim_type: administrative
+    attestation: first_hand
+    speaker:
+      node_id: d4241f5a-1063-4970-ba02-5a391c02d96d
+      title: David Charles Grusch
+    provenance_chain:
+      origin_kind: speaker
+      origin: David Grusch
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 1d228903-0bd7-401a-9902-2656e6e85650
+        title: Anna Paulina Luna
+        slug: anna-paulina-luna
+      - node_id: 4fb65b2c-296a-493d-bbc7-65e4b763c1f0
+        title: United States Congress
+        slug: united-states-congress
+      - node_id: 5d4966d1-e0f0-4c5c-b701-b48b4a2f13c1
+        title: Project MKUltra (MKUltra)
+        slug: project-mkultra-mkultra
+    date: null
+    date_end: null
+    location_in_record: 00:11:27.3-00:11:31.0
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: eb21cb34-eec1-462d-9127-2d5e367cdfb9
+      record_title: 'David Grusch: The Whistleblower Who Told Congress We''re Not Alone'
+      record_date: '2026-08-13'
+      record_reference: https://www.youtube.com/watch?v=LBXmqvFs0Ec
+      content_hash: sha256:c685d061d160da6ae664b97e8b033d8d36090ea76d13c45792556dae22ae3344
+      friendly_name: null
+  - claim_id: 6f409188-6138-4bea-96aa-8c3a08e5f5b0
+    claim_hash: 5ad015d76cbd470c29d184baa70d7011f6d29b1260ae749ccc5e15546ec65c2e
+    content: An author whose name David Grusch could not recall has reported in a book that Charles Manson may possibly have
+      been involved in Project MKUltra.
+    original_excerpt: it's been reported by a particular author whose name escapes me that even Charles Manson would have
+      possibly been in the MKUltra program. And there's a whole book on that.
+    claim_type: hearsay
+    attestation: second_hand
+    speaker:
+      node_id: d4241f5a-1063-4970-ba02-5a391c02d96d
+      title: David Charles Grusch
+    provenance_chain:
+      origin_kind: named
+      origin: an author, name not recalled by David Grusch, of a book on Charles Manson and Project MKUltra
+      relay:
+        - a book
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 5d4966d1-e0f0-4c5c-b701-b48b4a2f13c1
+        title: Project MKUltra (MKUltra)
+        slug: project-mkultra-mkultra
+      - node_id: 64f100c7-ad23-46ef-8818-ed5100b507c5
+        title: Charlie Hickson
+        slug: charlie-hickson
+      - node_id: d4241f5a-1063-4970-ba02-5a391c02d96d
+        title: David Charles Grusch
+        slug: david-charles-grusch
+    date: null
+    date_end: null
+    location_in_record: 00:12:08.1-00:12:19.0
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: eb21cb34-eec1-462d-9127-2d5e367cdfb9
+      record_title: 'David Grusch: The Whistleblower Who Told Congress We''re Not Alone'
+      record_date: '2026-08-13'
+      record_reference: https://www.youtube.com/watch?v=LBXmqvFs0Ec
+      content_hash: sha256:c685d061d160da6ae664b97e8b033d8d36090ea76d13c45792556dae22ae3344
+      friendly_name: null
+  - claim_id: 632966f2-c092-4a81-b5a3-5c349691bf7e
+    claim_hash: 62dd2bedbdaf34a80d866b249e66bbabfc05c7c5b61d2aada41564a72c23e606
+    content: Phil McGraw considers there is no question that drugs were used in Project MKUltra with the aim of enhanced interrogation,
+      and no question that human rights were violated.
+    original_excerpt: I don't think there's any question that drugs were being used and the idea was enhanced interrogation
+      and I don't think there's any question that there were violations of human rights
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: b26a5e2e-9cb8-484e-92f8-d332245917b5
+      title: Phil McGraw
+    provenance_chain:
+      origin_kind: speaker
+      origin: Phil McGraw
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 5d4966d1-e0f0-4c5c-b701-b48b4a2f13c1
+        title: Project MKUltra (MKUltra)
+        slug: project-mkultra-mkultra
+      - node_id: b26a5e2e-9cb8-484e-92f8-d332245917b5
+        title: Phil McGraw
+        slug: phil-mcgraw
+    date: null
+    date_end: null
+    location_in_record: 00:12:38.2-00:12:50.0
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: eb21cb34-eec1-462d-9127-2d5e367cdfb9
+      record_title: 'David Grusch: The Whistleblower Who Told Congress We''re Not Alone'
+      record_date: '2026-08-13'
+      record_reference: https://www.youtube.com/watch?v=LBXmqvFs0Ec
+      content_hash: sha256:c685d061d160da6ae664b97e8b033d8d36090ea76d13c45792556dae22ae3344
+      friendly_name: null
+  - claim_id: 088d1ff5-6193-492a-88f2-fbf1a44a6fb5
+    claim_hash: b863fc10b9955896cfd0907d60cc047cae30866fa841680d998cfab3ca1f1aea
+    content: Phil McGraw considers there is a definite desire to keep the details of Project MKUltra from coming out publicly
+      because they are unflattering to the United States government.
+    original_excerpt: there's a definite desire to keep all that from coming out publicly because it's not very flattering
+      to our government when those sort of things come out
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: b26a5e2e-9cb8-484e-92f8-d332245917b5
+      title: Phil McGraw
+    provenance_chain:
+      origin_kind: speaker
+      origin: Phil McGraw
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 5d4966d1-e0f0-4c5c-b701-b48b4a2f13c1
+        title: Project MKUltra (MKUltra)
+        slug: project-mkultra-mkultra
+      - node_id: b26a5e2e-9cb8-484e-92f8-d332245917b5
+        title: Phil McGraw
+        slug: phil-mcgraw
+    date: null
+    date_end: null
+    location_in_record: 00:12:52.5-00:13:06.1
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: eb21cb34-eec1-462d-9127-2d5e367cdfb9
+      record_title: 'David Grusch: The Whistleblower Who Told Congress We''re Not Alone'
+      record_date: '2026-08-13'
+      record_reference: https://www.youtube.com/watch?v=LBXmqvFs0Ec
+      content_hash: sha256:c685d061d160da6ae664b97e8b033d8d36090ea76d13c45792556dae22ae3344
+      friendly_name: null
+  - claim_id: afd280dc-5527-4b4c-bbf4-692929a6d86d
+    claim_hash: 059a3543460468a72b1b680b376cd5f97fbe4f9ecc135b5a92cf80e3755ad39c
+    content: Chris Ramsay places the start of Project MKUltra shortly after the 1950 Wilbert Smith memorandum on flying saucers,
+      and says a lot of the MKUltra studies were carried out at McGill University.
+    original_excerpt: And then right after that is where we start getting into MKUltra. We start getting into, and it happened
+      right here at, at, you know, McGill. ... And at McGill is where they did a lot of those studies.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 24d00311-06ac-46a1-a2f5-c99f3f8e21b2
+      title: Chris Ramsay
+    provenance_chain:
+      origin_kind: speaker
+      origin: Chris Ramsay
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 24d00311-06ac-46a1-a2f5-c99f3f8e21b2
+        title: Chris Ramsay
+        slug: chris-ramsay
+      - node_id: 5d4966d1-e0f0-4c5c-b701-b48b4a2f13c1
+        title: Project MKUltra (MKUltra)
+        slug: project-mkultra-mkultra
+      - node_id: b8f40be9-d8c9-4217-962f-2421f8d05a55
+        title: Wilbert Smith 1950 memorandum on flying saucers
+        slug: wilbert-smith-1950-memorandum-on-flying-saucers
+      - node_id: e9fe645b-a3a5-451e-bcc2-a05c26f044f3
+        title: McGill University
+        slug: mcgill-university
+    date: null
+    date_end: null
+    location_in_record: 02:49:21.9-02:49:32.6
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 43b2873d-8ebe-46aa-9425-a7e273c46e34
+      record_title: Non Human Intelligence, GATE Program and Psi Ability with Dr. Julia Mossbridge | ep. 99
+      record_date: '2026-08-14'
+      record_reference: https://www.youtube.com/watch?v=-qt2FYdP_EA
+      content_hash: sha256:8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8998cfdcd
+      friendly_name: null
+  - claim_id: 1901fd53-7e1f-4bf1-b2d9-9de27e242418
+    claim_hash: b63cd485cd439daaf86e02c1af45a9368f55d1a4f84d61fdcf7157a8d4a79925
+    content: Julia Mossbridge characterises Students on Active Research (SOAR) as Project MKUltra for children.
+    original_excerpt: All in MKUltra for kids, which is like SOAR-gate.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 8d3ca113-3f28-4808-998e-34d2837332a5
+      title: Julia Mossbridge
+    provenance_chain:
+      origin_kind: speaker
+      origin: Julia Mossbridge
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 5d4966d1-e0f0-4c5c-b701-b48b4a2f13c1
+        title: Project MKUltra (MKUltra)
+        slug: project-mkultra-mkultra
+      - node_id: 8d3ca113-3f28-4808-998e-34d2837332a5
+        title: Julia Mossbridge
+        slug: julia-mossbridge
+    date: null
+    date_end: null
+    location_in_record: 02:49:29.0-02:49:30.8
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 43b2873d-8ebe-46aa-9425-a7e273c46e34
+      record_title: Non Human Intelligence, GATE Program and Psi Ability with Dr. Julia Mossbridge | ep. 99
+      record_date: '2026-08-14'
+      record_reference: https://www.youtube.com/watch?v=-qt2FYdP_EA
+      content_hash: sha256:8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8998cfdcd
+      friendly_name: null
+  - claim_id: b2bfd989-fc3a-44de-be85-d95d6209b0cd
+    claim_hash: fe9683108861072dd57dcfb7c75d61a8b9f7eb1a62e54d585de2444505f0810d
+    content: The Project MKUltra work at McGill University included studies using lysergic acid diethylamide.
+    original_excerpt: The scary acid studies.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 8d3ca113-3f28-4808-998e-34d2837332a5
+      title: Julia Mossbridge
+    provenance_chain:
+      origin_kind: speaker
+      origin: Julia Mossbridge
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 5d4966d1-e0f0-4c5c-b701-b48b4a2f13c1
+        title: Project MKUltra (MKUltra)
+        slug: project-mkultra-mkultra
+      - node_id: 8d3ca113-3f28-4808-998e-34d2837332a5
+        title: Julia Mossbridge
+        slug: julia-mossbridge
+      - node_id: e9fe645b-a3a5-451e-bcc2-a05c26f044f3
+        title: McGill University
+        slug: mcgill-university
+    date: null
+    date_end: null
+    location_in_record: 02:49:34.5-02:49:36.0
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 43b2873d-8ebe-46aa-9425-a7e273c46e34
+      record_title: Non Human Intelligence, GATE Program and Psi Ability with Dr. Julia Mossbridge | ep. 99
+      record_date: '2026-08-14'
+      record_reference: https://www.youtube.com/watch?v=-qt2FYdP_EA
+      content_hash: sha256:8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8998cfdcd
+      friendly_name: null

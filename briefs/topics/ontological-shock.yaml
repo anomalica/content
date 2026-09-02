@@ -1,0 +1,219 @@
+schema: anomalica/brief/1
+brief_hash: 9c358d59a15f98720cdb78175e1dec29c901b0a1ba5c5707b4aa7871e49c93bb
+page:
+  kind: entity
+  node_id: 16ac4918-5f86-4a22-8f9a-84c0ad2a1d63
+  node_type: topic
+  title: Ontological shock
+  slug: ontological-shock
+  claim_count: 4
+  claim_count_total: 4
+generated:
+  graph_version: '2026-09-01T10:10:49.863545+00:00'
+size:
+  claims: 4
+  tokens_estimated: 1235
+  sized_against: 1050000
+publication:
+  status: published
+  note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
+    transcripts are gated elsewhere.
+belonging:
+  verified: 0
+  suspect_excluded: 0
+  unreviewed: 4
+related_nodes:
+  - node_id: 8d3ca113-3f28-4808-998e-34d2837332a5
+    title: Julia Mossbridge
+    node_type: person
+    slug: julia-mossbridge
+    shared_claims: 2
+  - node_id: 30940882-37a5-4db5-980d-282dafd2df49
+    title: Nonhuman intelligence (NHI)
+    node_type: topic
+    slug: nonhuman-intelligence-nhi
+    shared_claims: 2
+  - node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+    title: Ross Coulthart
+    node_type: person
+    slug: ross-coulthart
+    shared_claims: 2
+  - node_id: 746f41bc-1c2e-4912-9df8-0711676f4dab
+    title: 1978 Kaikoura lights incident
+    node_type: event
+    slug: 1978-kaikoura-lights-incident
+    shared_claims: 1
+  - node_id: 0c15657f-8c99-43ad-8912-d2841ba0634f
+    title: Esalen Institute Skywatcher psionic inviting demonstration
+    node_type: event
+    slug: esalen-institute-skywatcher-psionic-inviting-demonstration
+    shared_claims: 1
+  - node_id: 9926a63a-c90d-47b1-923b-7163c1ee382d
+    title: Robert Muldoon
+    node_type: person
+    slug: robert-muldoon
+    shared_claims: 1
+claims:
+  - claim_id: d3b7812e-ac70-4a28-bfdc-c1b63928c2cd
+    claim_hash: 3a4c6363fe61ce875d1795b5b907f89211738ae778bb71081206446d3d9250dc
+    content: Ross Coulthart experienced ontological shock on learning from a former New Zealand prime minister that suppression
+      of the 1978 Kaikoura lights incident was done largely at the behest of the Americans.
+    original_excerpt: For me, it was kind of an ontological shock. to realize... to hear from a former prime minister of New
+      Zealand that this was done largely at the behest of the Americans, why?
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+      title: Ross Coulthart
+    provenance_chain:
+      origin_kind: speaker
+      origin: Ross Coulthart
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 16ac4918-5f86-4a22-8f9a-84c0ad2a1d63
+        title: Ontological shock
+        slug: ontological-shock
+      - node_id: 746f41bc-1c2e-4912-9df8-0711676f4dab
+        title: 1978 Kaikoura lights incident
+        slug: 1978-kaikoura-lights-incident
+      - node_id: 9926a63a-c90d-47b1-923b-7163c1ee382d
+        title: Robert Muldoon
+        slug: robert-muldoon
+      - node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+        title: Ross Coulthart
+        slug: ross-coulthart
+    date: null
+    date_end: null
+    location_in_record: 00:21:55.8-00:22:10.3
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: fd845823-8784-462c-a981-4775525b6f84
+      record_title: The DANGEROUS Truth About UFOs - Ross Coulthart | DEBRIEFED ep. 76
+      record_date: '2026-02-20'
+      record_reference: https://www.youtube.com/watch?v=idBryc0eWww
+      content_hash: sha256:73be106d406f6d35a063a894e8384e7da0918eb8597d2107a9e3653becca2bdc
+      friendly_name: null
+  - claim_id: fff587b6-2bf5-44c8-9bb7-4fb40d4522a2
+    claim_hash: 76d033cba18046a1b881b6f90c02b9e89c42b088edda1b5e1c16408d589398ad
+    content: Ross Coulthart regards the Esalen Institute Skywatcher psionic inviting demonstration as his own moment of ontological
+      shock, the point at which he thought there might be something to the phenomenon.
+    original_excerpt: A lot of people ask me, have I ever had a sort of an ontological moment where I've gone, holy hell.
+      ... That was it for me. That was where I was going, crikey, there might just be something to this.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+      title: Ross Coulthart
+    provenance_chain:
+      origin_kind: speaker
+      origin: Ross Coulthart
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 0c15657f-8c99-43ad-8912-d2841ba0634f
+        title: Esalen Institute Skywatcher psionic inviting demonstration
+        slug: esalen-institute-skywatcher-psionic-inviting-demonstration
+      - node_id: 16ac4918-5f86-4a22-8f9a-84c0ad2a1d63
+        title: Ontological shock
+        slug: ontological-shock
+      - node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+        title: Ross Coulthart
+        slug: ross-coulthart
+    date: null
+    date_end: null
+    location_in_record: 02:29:57.6-02:30:09.2
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: fd845823-8784-462c-a981-4775525b6f84
+      record_title: The DANGEROUS Truth About UFOs - Ross Coulthart | DEBRIEFED ep. 76
+      record_date: '2026-02-20'
+      record_reference: https://www.youtube.com/watch?v=idBryc0eWww
+      content_hash: sha256:73be106d406f6d35a063a894e8384e7da0918eb8597d2107a9e3653becca2bdc
+      friendly_name: null
+  - claim_id: 9a9933ff-a37b-40ce-a2ca-6cba5d772771
+    claim_hash: a96b5331ee01c79cd267e66fd17e320fc6b8f5c1a2e2becf109271f02ccba152
+    content: Part of the concern among people worried about ontological shock is the discovery that aliens are carrying out
+      mind control.
+    original_excerpt: there's a little concern in this ontological shock that the people who are worried about ontological
+      shock that will discover that, you know, aliens are doing mind control.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 8d3ca113-3f28-4808-998e-34d2837332a5
+      title: Julia Mossbridge
+    provenance_chain:
+      origin_kind: speaker
+      origin: Julia Mossbridge
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 16ac4918-5f86-4a22-8f9a-84c0ad2a1d63
+        title: Ontological shock
+        slug: ontological-shock
+      - node_id: 30940882-37a5-4db5-980d-282dafd2df49
+        title: Nonhuman intelligence (NHI)
+        slug: nonhuman-intelligence-nhi
+      - node_id: 8d3ca113-3f28-4808-998e-34d2837332a5
+        title: Julia Mossbridge
+        slug: julia-mossbridge
+    date: null
+    date_end: null
+    location_in_record: 00:49:08.0-00:49:15.0
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 43b2873d-8ebe-46aa-9425-a7e273c46e34
+      record_title: Non Human Intelligence, GATE Program and Psi Ability with Dr. Julia Mossbridge | ep. 99
+      record_date: '2026-08-14'
+      record_reference: https://www.youtube.com/watch?v=-qt2FYdP_EA
+      content_hash: sha256:8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8998cfdcd
+      friendly_name: null
+  - claim_id: 13456444-0c2b-42a2-8d91-691d5a61a477
+    claim_hash: e6f451c12426c26eaf4a50122808b0270a9dfab2972b61a4b228fc562385e30c
+    content: Julia Mossbridge regards it as immaterial to the question of mental control whether influence over the mind comes
+      from aliens or from one's own subconscious, since a person has no control over either.
+    original_excerpt: I was like, kind of, does it matter whether it's aliens or you're subconscious? You still don't have
+      any control over
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 8d3ca113-3f28-4808-998e-34d2837332a5
+      title: Julia Mossbridge
+    provenance_chain:
+      origin_kind: speaker
+      origin: Julia Mossbridge
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 16ac4918-5f86-4a22-8f9a-84c0ad2a1d63
+        title: Ontological shock
+        slug: ontological-shock
+      - node_id: 30940882-37a5-4db5-980d-282dafd2df49
+        title: Nonhuman intelligence (NHI)
+        slug: nonhuman-intelligence-nhi
+      - node_id: 8d3ca113-3f28-4808-998e-34d2837332a5
+        title: Julia Mossbridge
+        slug: julia-mossbridge
+    date: null
+    date_end: null
+    location_in_record: 00:49:15.3-00:49:20.6
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 43b2873d-8ebe-46aa-9425-a7e273c46e34
+      record_title: Non Human Intelligence, GATE Program and Psi Ability with Dr. Julia Mossbridge | ep. 99
+      record_date: '2026-08-14'
+      record_reference: https://www.youtube.com/watch?v=-qt2FYdP_EA
+      content_hash: sha256:8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8998cfdcd
+      friendly_name: null

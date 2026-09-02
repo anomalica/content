@@ -1,0 +1,249 @@
+schema: anomalica/brief/1
+brief_hash: 9bba0320144fee630a289abefbd0882ff1243c6107f3007e266ab14f0d5e305c
+page:
+  kind: entity
+  node_id: da6f939c-ab3a-4bfa-91d9-2737b24b1a68
+  node_type: organisation
+  title: Public Broadcasting Service (PBS)
+  slug: public-broadcasting-service-pbs
+  claim_count: 4
+  claim_count_total: 4
+generated:
+  graph_version: '2026-09-01T10:10:49.863545+00:00'
+size:
+  claims: 4
+  tokens_estimated: 1406
+  sized_against: 1050000
+publication:
+  status: published
+  note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
+    transcripts are gated elsewhere.
+belonging:
+  verified: 0
+  suspect_excluded: 0
+  unreviewed: 4
+related_nodes:
+  - node_id: 42ce80ea-3ca5-47e2-91c5-58ca47839fdc
+    title: Lynn Bondurant
+    node_type: person
+    slug: lynn-bondurant
+    shared_claims: 2
+  - node_id: e1650a1d-8feb-4841-a403-0d71e176d2d9
+    title: Richard C. Hoagland
+    node_type: person
+    slug: richard-c-hoagland
+    shared_claims: 2
+  - node_id: 9dd2f69c-3a6c-494b-83f1-2e49bb02d551
+    title: Closer to Truth
+    node_type: organisation
+    slug: closer-to-truth
+    shared_claims: 1
+  - node_id: f156ac43-44e7-4d32-b2d6-34c95d1406c0
+    title: Hoagland's Mars (PBS miniseries)
+    node_type: document
+    slug: hoaglands-mars-pbs-miniseries
+    shared_claims: 1
+  - node_id: 2ac310ed-0be4-43bd-a103-64143b4d20a8
+    title: Jeffrey Epstein
+    node_type: person
+    slug: jeffrey-epstein
+    shared_claims: 1
+  - node_id: 5e47c787-005b-4c91-ba4b-c9bec48146c9
+    title: National Aeronautics and Space Administration (NASA)
+    node_type: organisation
+    slug: national-aeronautics-and-space-administration-nasa
+    shared_claims: 1
+  - node_id: 1fa66dfc-6e67-4838-a828-fcf88d3bdfc0
+    title: Nikita Khrushchev
+    node_type: person
+    slug: nikita-khrushchev
+    shared_claims: 1
+  - node_id: 83befb44-3578-4a94-81f1-1136a1e56df7
+    title: Robert Kuhn
+    node_type: person
+    slug: robert-kuhn
+    shared_claims: 1
+  - node_id: bae3c1d1-763b-4ac2-829c-54b1c70b200c
+    title: Sergei Khrushchev
+    node_type: person
+    slug: sergei-khrushchev
+    shared_claims: 1
+  - node_id: 512669b1-56d1-4dd0-ab30-2f7c3e402c1b
+    title: Yuri Gribov
+    node_type: person
+    slug: yuri-gribov
+    shared_claims: 1
+claims:
+  - claim_id: 74c095d8-33d6-48a6-bd0d-bb502dcef84f
+    claim_hash: dad5cf7e62b15d2830aa24801b2ff33d5c0ea88977b6b82988ba8fe2bc3256e2
+    content: Lynn Bondurant personally conducted the interview with Richard C. Hoagland and arranged to professionally record
+      it for a later Public Broadcasting Service (PBS) broadcast.
+    original_excerpt: Not only did Bondurant personally conduct the interview, he also arranged to professionally record it
+      for a later PBS broadcast.
+    claim_type: administrative
+    attestation: first_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: speaker
+      origin: Richard C. Hoagland
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 42ce80ea-3ca5-47e2-91c5-58ca47839fdc
+        title: Lynn Bondurant
+        slug: lynn-bondurant
+      - node_id: da6f939c-ab3a-4bfa-91d9-2737b24b1a68
+        title: Public Broadcasting Service (PBS)
+        slug: public-broadcasting-service-pbs
+      - node_id: e1650a1d-8feb-4841-a403-0d71e176d2d9
+        title: Richard C. Hoagland
+        slug: richard-c-hoagland
+    date: null
+    date_end: null
+    location_in_record: ch10:4068-4186
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+      record_title: Dark Mission
+      record_date: '2010-07-22'
+      record_reference: null
+      content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+      friendly_name: null
+  - claim_id: 6dc83b93-f82c-4ec1-a96b-3cf8c3e73a24
+    claim_hash: ea1924de48e3214a2b99edd2c1d81842ef07c77cc9fd2168801ad2b27bab735f
+    content: In a 1999 Public Broadcasting Service (PBS) interview, Sergei Khrushchev repeated that he walked with his father
+      sometime in late October or November and his father told him about all these things.
+    original_excerpt: 'Later, in a 1999 PBS interview, he repeated the claim: “I walked with him, sometime in late October
+      or November, and he told me about all these things.”'
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: bae3c1d1-763b-4ac2-829c-54b1c70b200c
+      title: Sergei Khrushchev
+    provenance_chain:
+      origin_kind: speaker
+      origin: Sergei Khrushchev
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 1fa66dfc-6e67-4838-a828-fcf88d3bdfc0
+        title: Nikita Khrushchev
+        slug: nikita-khrushchev
+      - node_id: bae3c1d1-763b-4ac2-829c-54b1c70b200c
+        title: Sergei Khrushchev
+        slug: sergei-khrushchev
+      - node_id: da6f939c-ab3a-4bfa-91d9-2737b24b1a68
+        title: Public Broadcasting Service (PBS)
+        slug: public-broadcasting-service-pbs
+    date: '1999'
+    date_end: null
+    location_in_record: ch10:73599-73743
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+      record_title: Dark Mission
+      record_date: '2010-07-22'
+      record_reference: null
+      content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+      friendly_name: null
+  - claim_id: 95384954-2ad5-4b8d-989b-48d7c8eda30b
+    claim_hash: f44f5ac4c92362e662e266a0dbe7dd3e6c79f3f935071af5ad8359a5ab0fe528
+    content: At the second NASA/Lewis workshop, Lynn Bondurant announced to the assembled scientists, engineers and educators
+      that Richard C. Hoagland's March 1990 taped appearance and the current session were to be part of an upcoming PBS miniseries
+      called Hoagland's Mars.
+    original_excerpt: not only did Bondurant’s NASA-Lewis Office of Education officially put on this Conference, but he also
+      used it to announce to the assembled scientists, engineers and educators that this session and Hoagland’s previously
+      taped appearances (from March) were going to be part of an upcoming PBS miniseries to be called “Hoagland’s Mars.”
+    claim_type: administrative
+    attestation: first_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: speaker
+      origin: Richard C. Hoagland
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 42ce80ea-3ca5-47e2-91c5-58ca47839fdc
+        title: Lynn Bondurant
+        slug: lynn-bondurant
+      - node_id: 5e47c787-005b-4c91-ba4b-c9bec48146c9
+        title: National Aeronautics and Space Administration (NASA)
+        slug: national-aeronautics-and-space-administration-nasa
+      - node_id: da6f939c-ab3a-4bfa-91d9-2737b24b1a68
+        title: Public Broadcasting Service (PBS)
+        slug: public-broadcasting-service-pbs
+      - node_id: e1650a1d-8feb-4841-a403-0d71e176d2d9
+        title: Richard C. Hoagland
+        slug: richard-c-hoagland
+      - node_id: f156ac43-44e7-4d32-b2d6-34c95d1406c0
+        title: Hoagland's Mars (PBS miniseries)
+        slug: hoaglands-mars-pbs-miniseries
+    date: null
+    date_end: null
+    location_in_record: ch10:8833-9161
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+      record_title: Dark Mission
+      record_date: '2010-07-22'
+      record_reference: null
+      content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+      friendly_name: null
+  - claim_id: cb4e149e-99e1-4193-89e2-79d1fc6d72a5
+    claim_hash: c22b6e0c8fe27102fc8b94411623c8367929c29798a6511eaad4bbe166dcdaa0
+    content: In an email in the Jeffrey Epstein material, Robert Kuhn wrote that Jeffrey Epstein and Closer to Truth were
+      collaborating on a major series for the Public Broadcasting Service (PBS) on breakthroughs in mathematics and other
+      areas, and that they wanted to feature Yuri Gribov in one or more mathematics episodes.
+    original_excerpt: Robert Kuhn writes in CC's Jeffrey and says, as you know, Jeffrey and Closer to the Truth, so it sounds
+      like an organization, are collaborating on a major series for PBS on breakthroughs in mathematics and other areas. And
+      we surely want to feature you in one or more mathematics episodes
+    claim_type: administrative
+    attestation: second_hand
+    speaker:
+      node_id: 24d00311-06ac-46a1-a2f5-c99f3f8e21b2
+      title: Chris Ramsay
+    provenance_chain:
+      origin_kind: document
+      origin: an email from Robert Kuhn in the released Jeffrey Epstein material
+      relay:
+        - Chris Ramsay reading it aloud
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 2ac310ed-0be4-43bd-a103-64143b4d20a8
+        title: Jeffrey Epstein
+        slug: jeffrey-epstein
+      - node_id: 512669b1-56d1-4dd0-ab30-2f7c3e402c1b
+        title: Yuri Gribov
+        slug: yuri-gribov
+      - node_id: 83befb44-3578-4a94-81f1-1136a1e56df7
+        title: Robert Kuhn
+        slug: robert-kuhn
+      - node_id: 9dd2f69c-3a6c-494b-83f1-2e49bb02d551
+        title: Closer to Truth
+        slug: closer-to-truth
+      - node_id: da6f939c-ab3a-4bfa-91d9-2737b24b1a68
+        title: Public Broadcasting Service (PBS)
+        slug: public-broadcasting-service-pbs
+    date: null
+    date_end: null
+    location_in_record: 00:50:02.4-00:50:18.2
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: dc9d8bc8-9c1f-46b4-9b89-8d86b6b08e1d
+      record_title: Jesse Michels, UAPGerb & Chris Ramsay - Flying Saucer Diner
+      record_date: '2026-07-17'
+      record_reference: https://www.youtube.com/watch?v=HFLBDi87888
+      content_hash: sha256:7b2e272d7c82fdda745ee0354d7c9cc4b0d5ba5506015ca27edd9169a768b262
+      friendly_name: null

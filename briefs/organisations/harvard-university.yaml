@@ -1,0 +1,795 @@
+schema: anomalica/brief/1
+brief_hash: 8e1e680eac71470b0d9392e322b61d207ec06b17db52036cce65d06a597f1854
+page:
+  kind: entity
+  node_id: fdd724f2-0b15-4664-8f9c-a17be751ec9c
+  node_type: organisation
+  title: Harvard University
+  slug: harvard-university
+  claim_count: 18
+  claim_count_total: 18
+generated:
+  graph_version: '2026-09-01T10:10:49.863545+00:00'
+size:
+  claims: 18
+  tokens_estimated: 5041
+  sized_against: 1050000
+publication:
+  status: published
+  note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
+    transcripts are gated elsewhere.
+belonging:
+  verified: 0
+  suspect_excluded: 0
+  unreviewed: 18
+related_nodes:
+  - node_id: d0a6ce69-4f5f-456b-a83c-b68a680224be
+    title: John Mack
+    node_type: person
+    slug: john-mack
+    shared_claims: 5
+  - node_id: ec69e08d-062d-401c-9287-46a45fdc9b4d
+    title: Donald Menzel
+    node_type: person
+    slug: donald-menzel
+    shared_claims: 3
+  - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
+    title: Unidentified Anomalous Phenomena (UAP)
+    node_type: topic
+    slug: unidentified-anomalous-phenomena-uap
+    shared_claims: 3
+  - node_id: 98eeed83-96a9-45ef-bb14-cb915d45fc9c
+    title: Alien abduction
+    node_type: topic
+    slug: alien-abduction
+    shared_claims: 2
+  - node_id: 85f8bd31-f61c-42f2-aa26-97fa022d841c
+    title: Galileo Project
+    node_type: organisation
+    slug: galileo-project
+    shared_claims: 2
+  - node_id: b65a228b-8581-437c-a083-670590b31c40
+    title: Alan Gauld
+    node_type: person
+    slug: alan-gauld
+    shared_claims: 1
+  - node_id: c0e7a75a-6931-4d2b-8f96-ac29ab9262a3
+    title: Australia, New South Wales, Sydney
+    node_type: place
+    slug: new-south-wales-sydney-australia
+    shared_claims: 1
+  - node_id: e7aef649-b8cd-42c8-af7f-ab1ceb0226c2
+    title: Carl Sagan
+    node_type: person
+    slug: carl-sagan
+    shared_claims: 1
+  - node_id: 0187c121-864f-479e-bbaa-86bbe6a54611
+    title: Carr Center for Human Rights Policy
+    node_type: organisation
+    slug: carr-center-for-human-rights-policy
+    shared_claims: 1
+  - node_id: ab9e1792-f48f-496b-9be4-c1ffe1a91a58
+    title: Christopher Chabris
+    node_type: person
+    slug: christopher-chabris
+    shared_claims: 1
+  - node_id: 43d5d4a5-7db5-46c4-b0b5-27bd64faa692
+    title: Leonora E. Piper
+    node_type: person
+    slug: leonora-e-piper
+    shared_claims: 1
+  - node_id: c1e70fcf-4895-4533-bd0c-069b76a6cccf
+    title: Lisa Randall
+    node_type: person
+    slug: lisa-randall
+    shared_claims: 1
+  - node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+    title: Luis Elizondo
+    node_type: person
+    slug: luis-elizondo
+    shared_claims: 1
+  - node_id: 68a1be1f-3cf3-4fa2-94d5-e0dd5b3d3292
+    title: Ralph Blumenthal
+    node_type: person
+    slug: ralph-blumenthal
+    shared_claims: 1
+  - node_id: ce6f6bfe-db96-4aa5-a836-c04b0d897a42
+    title: Richard McNally
+    node_type: person
+    slug: richard-mcnally
+    shared_claims: 1
+  - node_id: 64c1e496-975d-4b23-8ef5-ce74206e625f
+    title: Rudy Schild
+    node_type: person
+    slug: rudy-schild
+    shared_claims: 1
+  - node_id: c333ed65-5e28-46e6-ad10-c86228ebefca
+    title: Sahana Dharmapuri
+    node_type: person
+    slug: sahana-dharmapuri
+    shared_claims: 1
+  - node_id: 224c7243-0077-417a-a148-29465dacae71
+    title: Susan Clancy
+    node_type: person
+    slug: susan-clancy
+    shared_claims: 1
+  - node_id: 4ada3704-4cd8-4cf2-b0fe-fcfb6716abaa
+    title: Vannevar Bush
+    node_type: person
+    slug: vannevar-bush
+    shared_claims: 1
+  - node_id: ff9b4d15-f99f-4c43-8530-ae5b783fc7ac
+    title: William James
+    node_type: person
+    slug: william-james
+    shared_claims: 1
+claims:
+  - claim_id: 8eb22f1f-fdd0-4e2f-9f9d-6e2fbff803bb
+    claim_hash: 642088510a48f38def029f99d63df22d3d2c09150595a368da23295495daf594
+    content: Harvard psychiatrist John Mack visited Australia in 1996 to research the subject of alien abduction.
+    original_excerpt: When Harvard psychiatrist John Mack visited Australia to research the subject of alien abduction in
+      1996,40 he took the opportunity to regress Peter to try to clarify the 1988 experience beyond the moment of blankness
+      after the needle was inserted in his head.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 98eeed83-96a9-45ef-bb14-cb915d45fc9c
+        title: Alien abduction
+        slug: alien-abduction
+      - node_id: c0e7a75a-6931-4d2b-8f96-ac29ab9262a3
+        title: Australia, New South Wales, Sydney
+        slug: new-south-wales-sydney-australia
+      - node_id: d0a6ce69-4f5f-456b-a83c-b68a680224be
+        title: John Mack
+        slug: john-mack
+      - node_id: fdd724f2-0b15-4664-8f9c-a17be751ec9c
+        title: Harvard University
+        slug: harvard-university
+    date: '1996'
+    date_end: null
+    location_in_record: ch14:13541-13796
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 32687cf8-a827-40a9-b9f4-308ca4d9b2b3
+      record_title: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
+      record_date: '2005-11-14'
+      record_reference: null
+      content_hash: sha256:c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95d6ac9c3b
+      friendly_name: 2005-11-14-ebook-hair-of-the-alien-dna-and-other-forensic-evidence-for-alien
+  - claim_id: 4f3e17ad-c7e8-4ed8-8135-61079ecb3fd3
+    claim_hash: 63b417e2f46559afbe713560d2a7aa073b5895c2796e87faa40ce9c092d9cf55
+    content: During 2002 and 2003, research conducted at Harvard University reignited the idea of psychological mechanisms
+      as a possible explanation for alien abduction reports.
+    original_excerpt: During 2002 and 2003 research conducted at Harvard University reignited the idea of psychological mechanisms
+      as a possible explanation for alien abduction reports.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 98eeed83-96a9-45ef-bb14-cb915d45fc9c
+        title: Alien abduction
+        slug: alien-abduction
+      - node_id: fdd724f2-0b15-4664-8f9c-a17be751ec9c
+        title: Harvard University
+        slug: harvard-university
+    date: '2002'
+    date_end: null
+    location_in_record: ch8:20086-20241
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 32687cf8-a827-40a9-b9f4-308ca4d9b2b3
+      record_title: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
+      record_date: '2005-11-14'
+      record_reference: null
+      content_hash: sha256:c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95d6ac9c3b
+      friendly_name: 2005-11-14-ebook-hair-of-the-alien-dna-and-other-forensic-evidence-for-alien
+  - claim_id: 9641fb47-a1d7-4f6e-9e56-10631ebb7dea
+    claim_hash: 63aea41d606b33ca9f0c5e6333ab637f608432488f975dcdedcf02c02bca2adc
+    content: Susan Clancy and Richard McNally were the key players in the 2002-2003 Harvard University debate over psychological
+      mechanisms as an explanation for alien abduction reports.
+    original_excerpt: The key players in the debate were psychologists Susan Clancy and Richard McNally.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 224c7243-0077-417a-a148-29465dacae71
+        title: Susan Clancy
+        slug: susan-clancy
+      - node_id: ce6f6bfe-db96-4aa5-a836-c04b0d897a42
+        title: Richard McNally
+        slug: richard-mcnally
+      - node_id: fdd724f2-0b15-4664-8f9c-a17be751ec9c
+        title: Harvard University
+        slug: harvard-university
+    date: null
+    date_end: null
+    location_in_record: ch8:20250-20324
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 32687cf8-a827-40a9-b9f4-308ca4d9b2b3
+      record_title: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
+      record_date: '2005-11-14'
+      record_reference: null
+      content_hash: sha256:c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95d6ac9c3b
+      friendly_name: 2005-11-14-ebook-hair-of-the-alien-dna-and-other-forensic-evidence-for-alien
+  - claim_id: 951afd96-5497-41e1-bedd-98b6d68a6d2f
+    claim_hash: 60fdbdce3edc9e49d41de9f6c74fe5f84dfbfc9fb9e832fec82de0e4f75cc8ce
+    content: Shortly before the Second World War, Vannevar Bush worked closely with Donald Menzel, an astronomer at Harvard
+      University, on the development of a differential analyzer, the world's first modern analog computer.
+    original_excerpt: Shortly before the war, Bush was also working closely with Dr. Donald Menzel, an astronomer at Harvard
+      University, on the development of a "differential analyzer"—the world's first (modern) analog computer.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 4ada3704-4cd8-4cf2-b0fe-fcfb6716abaa
+        title: Vannevar Bush
+        slug: vannevar-bush
+      - node_id: ec69e08d-062d-401c-9287-46a45fdc9b4d
+        title: Donald Menzel
+        slug: donald-menzel
+      - node_id: fdd724f2-0b15-4664-8f9c-a17be751ec9c
+        title: Harvard University
+        slug: harvard-university
+    date: null
+    date_end: null
+    location_in_record: ch12:68352-68549
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+      record_title: Dark Mission
+      record_date: '2010-07-22'
+      record_reference: null
+      content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+      friendly_name: null
+  - claim_id: 655851eb-8f17-4a98-9af4-b379b49d3044
+    claim_hash: e50a5d973ebeea0404196b876bc7a384104497c225ef44015091a285c8f62c07
+    content: Donald Menzel was then an assistant or associate professor in the astronomy department of Harvard University
+      and was much interested in applying the differential analyzer to certain astronomical and astrophysical problems.
+    original_excerpt: Dr. M., who was then an assistant or associate professor in the astronomy department of Harvard University,
+      was much interested in the possibility of applying the differential analyzer to the solution of certain astronomical
+      and astrophysical problems.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 4ada3704-4cd8-4cf2-b0fe-fcfb6716abaa
+      title: Vannevar Bush
+    provenance_chain:
+      origin_kind: speaker
+      origin: Vannevar Bush
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: ec69e08d-062d-401c-9287-46a45fdc9b4d
+        title: Donald Menzel
+        slug: donald-menzel
+      - node_id: fdd724f2-0b15-4664-8f9c-a17be751ec9c
+        title: Harvard University
+        slug: harvard-university
+    date: '1950'
+    date_end: null
+    location_in_record: ch12:68976-69219
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+      record_title: Dark Mission
+      record_date: '2010-07-22'
+      record_reference: null
+      content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+      friendly_name: null
+  - claim_id: 7b11d725-295f-4d0e-8d9c-70b376dab1ba
+    claim_hash: 1f7e5c0611576f6d35bd2f2cd3a13f5092d2889f28852ba6a9411cac50db2a67
+    content: Donald Menzel served as Carl Sagan's mentor at Harvard University and was essentially the Carl Sagan of his day.
+    original_excerpt: Menzel, who served as Dr. Carl Sagan's mentor at Harvard, was essentially the Carl Sagan of his day
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: e7aef649-b8cd-42c8-af7f-ab1ceb0226c2
+        title: Carl Sagan
+        slug: carl-sagan
+      - node_id: ec69e08d-062d-401c-9287-46a45fdc9b4d
+        title: Donald Menzel
+        slug: donald-menzel
+      - node_id: fdd724f2-0b15-4664-8f9c-a17be751ec9c
+        title: Harvard University
+        slug: harvard-university
+    date: null
+    date_end: null
+    location_in_record: ch12:71270-71366
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+      record_title: Dark Mission
+      record_date: '2010-07-22'
+      record_reference: null
+      content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+      friendly_name: null
+  - claim_id: bc9421c8-d9c4-4b7b-a5ee-5e2f1021e2e7
+    claim_hash: da31ea7935274e5c7927474a8c5f298ebe7977f25437f3b3f4b1f34efbd94ee3
+    content: Sahana Dharmapuri was a Fellow at the Carr Center for Human Rights Policy at Harvard University.
+    original_excerpt: Sahana Dharmapuri, Fellow, Carr Center for Human Rights Policy Harvard University
+    claim_type: administrative
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: document
+      origin: 'Conference Report: Cultural and Linguistic Advancement for Mission Success (DRDC Toronto TN 2012-055)'
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 0187c121-864f-479e-bbaa-86bbe6a54611
+        title: Carr Center for Human Rights Policy
+        slug: carr-center-for-human-rights-policy
+      - node_id: c333ed65-5e28-46e6-ad10-c86228ebefca
+        title: Sahana Dharmapuri
+        slug: sahana-dharmapuri
+      - node_id: fdd724f2-0b15-4664-8f9c-a17be751ec9c
+        title: Harvard University
+        slug: harvard-university
+    date: null
+    date_end: null
+    location_in_record: char:27242-27317
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 9a707eda-ccde-4e3e-a3a7-bc928dcbb59d
+      record_title: 'Conference Report: Cultural and Linguistic Advancement for Mission Success: Enhancing Language, Regional
+        and Cultural Capabilities Across Whole of Government for an Effective COIN Strategy'
+      record_date: 2012-05
+      record_reference: https://apps.dtic.mil/sti/tr/pdf/ADA568628.pdf
+      content_hash: sha256:be0c3e98efc520700596801e7aa4ab046d6146f8cdb40c7eefdcd23b1fab985b
+      friendly_name: 2012-05-pdf-conference-report-cultural-and-linguistic-advancement-for
+  - claim_id: 7bc2d78a-c32b-41b7-9862-d15ac117f542
+    claim_hash: 7934a03525155139a1ca0c51afee89b856e6c83e87727bb4e387d1bee0c1794f
+    content: Lisa Randall is a theoretical physicist at Harvard University.
+    original_excerpt: Lisa Randall, theoretical physicist from Harvard University
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: c1e70fcf-4895-4533-bd0c-069b76a6cccf
+        title: Lisa Randall
+        slug: lisa-randall
+      - node_id: fdd724f2-0b15-4664-8f9c-a17be751ec9c
+        title: Harvard University
+        slug: harvard-university
+    date: null
+    date_end: null
+    location_in_record: ch20:26377-26426
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
+      record_title: Surviving Death
+      record_date: '2017-03-07'
+      record_reference: null
+      content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
+      friendly_name: 2017-03-07-ebook-surviving-death
+  - claim_id: d3c2873a-299c-476d-8519-8dae9e4ed3a5
+    claim_hash: 619027312145cf9b7b2c3c8a573fd2f70edeead45b45769a408e3b0b912ec6ea
+    content: Alan Gauld spent a postgraduate year at Harvard University.
+    original_excerpt: He spent a postgraduate year at Harvard and then he principally taught biological psychology and neuropsychology
+      at Nottingham.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: b65a228b-8581-437c-a083-670590b31c40
+        title: Alan Gauld
+        slug: alan-gauld
+      - node_id: fdd724f2-0b15-4664-8f9c-a17be751ec9c
+        title: Harvard University
+        slug: harvard-university
+    date: null
+    date_end: null
+    location_in_record: ch28:1578-1694
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
+      record_title: Surviving Death
+      record_date: '2017-03-07'
+      record_reference: null
+      content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
+      friendly_name: 2017-03-07-ebook-surviving-death
+  - claim_id: ae008755-15d6-4535-a736-ace882521a3e
+    claim_hash: 82a5d6b706d0aaf3923c82163ae475aef1ac38ac7d626ae79a1ed7b91ef4914f
+    content: William James of Harvard University "discovered" Leonora E. Piper for psychical research.
+    original_excerpt: Mrs. Piper was “discovered” for psychical research by William James of Harvard University, arguably
+      the greatest psychologist of that or perhaps any time.
+    claim_type: administrative
+    attestation: first_hand
+    speaker:
+      node_id: b65a228b-8581-437c-a083-670590b31c40
+      title: Alan Gauld
+    provenance_chain:
+      origin_kind: speaker
+      origin: Alan Gauld
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 43d5d4a5-7db5-46c4-b0b5-27bd64faa692
+        title: Leonora E. Piper
+        slug: leonora-e-piper
+      - node_id: fdd724f2-0b15-4664-8f9c-a17be751ec9c
+        title: Harvard University
+        slug: harvard-university
+      - node_id: ff9b4d15-f99f-4c43-8530-ae5b783fc7ac
+        title: William James
+        slug: william-james
+    date: null
+    date_end: null
+    location_in_record: ch28:6187-6336
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
+      record_title: Surviving Death
+      record_date: '2017-03-07'
+      record_reference: null
+      content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
+      friendly_name: 2017-03-07-ebook-surviving-death
+  - claim_id: 18d782a3-9a53-4675-a282-a2838c8cf55f
+    claim_hash: baae0f5bde1482003bbf0a80b08d05d6d4f11ede62837f61e8d0d7543df89d9d
+    content: Christopher Chabris is affiliated with Harvard University.
+    original_excerpt: Christopher Chabris of Harvard University
+    claim_type: administrative
+    attestation: null
+    speaker:
+      node_id: f2daae19-9351-4a8e-b466-664f83887f61
+      title: Diana Walsh Pasulka
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: ab9e1792-f48f-496b-9be4-c1ffe1a91a58
+        title: Christopher Chabris
+        slug: christopher-chabris
+      - node_id: fdd724f2-0b15-4664-8f9c-a17be751ec9c
+        title: Harvard University
+        slug: harvard-university
+    date: null
+    date_end: null
+    location_in_record: ch2:53917-53948
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 288e1100-0497-41df-ba08-9890e519b0b9
+      record_title: American Cosmic
+      record_date: '2019'
+      record_reference: null
+      content_hash: sha256:ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b16ac4758
+      friendly_name: 2019-ebook-american-cosmic
+  - claim_id: 05ab061e-52eb-489a-b6b5-1e5e3300ec45
+    claim_hash: 212eedf5c214d5d8bbbbefc4fffd90e146f1ffbac7deef958ece5a9af39327a4
+    content: John Mack is described as a Harvard researcher.
+    original_excerpt: An avid reader of science fiction, James picked up a book by Harvard researcher John Mack
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: d0a6ce69-4f5f-456b-a83c-b68a680224be
+        title: John Mack
+        slug: john-mack
+      - node_id: fdd724f2-0b15-4664-8f9c-a17be751ec9c
+        title: Harvard University
+        slug: harvard-university
+    date: null
+    date_end: null
+    location_in_record: ch2:6709-6794
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 288e1100-0497-41df-ba08-9890e519b0b9
+      record_title: American Cosmic
+      record_date: '2019'
+      record_reference: null
+      content_hash: sha256:ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b16ac4758
+      friendly_name: 2019-ebook-american-cosmic
+  - claim_id: 7515804b-be7c-40a7-815e-8554d6683fbc
+    claim_hash: 175301a1dc507ef09bef64852a04d0bb092e09958de7b5cfbfd65a879ab98193
+    content: Rudy Schild is a retired tenured professor of astrophysics at Harvard University.
+    original_excerpt: and a retired tenured professor of astrophysics at Harvard University,
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 64c1e496-975d-4b23-8ef5-ce74206e625f
+        title: Rudy Schild
+        slug: rudy-schild
+      - node_id: fdd724f2-0b15-4664-8f9c-a17be751ec9c
+        title: Harvard University
+        slug: harvard-university
+    date: null
+    date_end: null
+    location_in_record: ch6:22040-22099
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 288e1100-0497-41df-ba08-9890e519b0b9
+      record_title: American Cosmic
+      record_date: '2019'
+      record_reference: null
+      content_hash: sha256:ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b16ac4758
+      friendly_name: 2019-ebook-american-cosmic
+  - claim_id: a0b24021-7993-4160-be7e-fbdaa1ec5b41
+    claim_hash: 0c357d8a53bf6690d41104d97a08795d89cfa72b330cb54a2867db5165c1b8e2
+    content: In 2021, Harvard University stood up the Galileo Project to research and examine the origins of Unidentified
+      Anomalous Phenomena (UAP).
+    original_excerpt: Also, in 2021 Harvard University stood up the Galileo Project to research and examine the origins of
+      UAP.
+    claim_type: administrative
+    attestation: second_hand
+    speaker:
+      node_id: a780b830-629b-42fd-9a3c-83da9eea0e78
+      title: Maxwell Frost
+    provenance_chain:
+      origin_kind: named
+      origin: Harvard University
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
+        title: Unidentified Anomalous Phenomena (UAP)
+        slug: unidentified-anomalous-phenomena-uap
+      - node_id: 85f8bd31-f61c-42f2-aa26-97fa022d841c
+        title: Galileo Project
+        slug: galileo-project
+      - node_id: fdd724f2-0b15-4664-8f9c-a17be751ec9c
+        title: Harvard University
+        slug: harvard-university
+    date: '2021-01-01'
+    date_end: null
+    location_in_record: char:87362-87463
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 5e233de3-335a-46b1-8b03-81df19638eae
+      record_title: 'Unidentified Anomalous Phenomena: Implications on National Security, Public Safety, and Government Transparency'
+      record_date: '2023-07-26'
+      record_reference: null
+      content_hash: sha256:e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed69a6d8ec1
+      friendly_name: 2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety
+  - claim_id: 82e8c5b4-f7c3-434b-a097-855b56f9b6f7
+    claim_hash: 96eae9fd1533a77979036ad01f1ae961fc4e0a7e9f098606dcf0e7a5399a87c5
+    content: For several years, Ralph Blumenthal was quietly working on a biography of the late John Mack, a Harvard psychiatrist
+      who treated and extensively interviewed people claiming to have been abducted by or to have encountered aliens.
+    original_excerpt: For several years he had been quietly working on a biography of the late Dr. John Mack, a Harvard psychiatrist
+      who treated and extensively interviewed UAP experiencers, who were often traumatized people who claimed to have been
+      abducted by aliens, or at least encountered aliens in person.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 68a1be1f-3cf3-4fa2-94d5-e0dd5b3d3292
+        title: Ralph Blumenthal
+        slug: ralph-blumenthal
+      - node_id: d0a6ce69-4f5f-456b-a83c-b68a680224be
+        title: John Mack
+        slug: john-mack
+      - node_id: fdd724f2-0b15-4664-8f9c-a17be751ec9c
+        title: Harvard University
+        slug: harvard-university
+    date: null
+    date_end: null
+    location_in_record: ch29:16543-16825
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  - claim_id: b978c751-ab3a-4696-8d7e-7164b2b78be3
+    claim_hash: a7bbd918dd784e60f363ca870c31ba9e78247321e233cc64c23ec819ed779a01
+    content: Lue Elizondo met with Harvard University students participating in seminars at the Galileo Project, a project
+      charged with mapping ways to investigate life in the universe.
+    original_excerpt: I met with Harvard University students participating in seminars at the Galileo Project, which is charged
+      with mapping ways to investigate life in the universe.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+      title: Luis Elizondo
+    provenance_chain:
+      origin_kind: speaker
+      origin: Lue Elizondo
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 85f8bd31-f61c-42f2-aa26-97fa022d841c
+        title: Galileo Project
+        slug: galileo-project
+      - node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+        title: Luis Elizondo
+        slug: luis-elizondo
+      - node_id: fdd724f2-0b15-4664-8f9c-a17be751ec9c
+        title: Harvard University
+        slug: harvard-university
+    date: null
+    date_end: null
+    location_in_record: ch31:37840-37991
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  - claim_id: 0aa414c1-da08-42a8-8438-ac52b211d886
+    claim_hash: 70d2e0411c45bd7ccff6c1c9f4ef4c039fc4f30e2c9e3d9d72a697b233ef0ae3
+    content: John Mack was a trained psychiatrist at Harvard University who studied people who had had experiences with the
+      phenomenon.
+    original_excerpt: it even goes back to the work of John Mack at Harvard who was a trained a psychiatrist looking at people
+      that have had these experiences with the phenomenon.
+    claim_type: administrative
+    attestation: first_hand
+    speaker:
+      node_id: d4241f5a-1063-4970-ba02-5a391c02d96d
+      title: David Charles Grusch
+    provenance_chain:
+      origin_kind: speaker
+      origin: David Grusch
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
+        title: Unidentified Anomalous Phenomena (UAP)
+        slug: unidentified-anomalous-phenomena-uap
+      - node_id: d0a6ce69-4f5f-456b-a83c-b68a680224be
+        title: John Mack
+        slug: john-mack
+      - node_id: fdd724f2-0b15-4664-8f9c-a17be751ec9c
+        title: Harvard University
+        slug: harvard-university
+    date: null
+    date_end: null
+    location_in_record: 00:37:21.6-00:37:29.8
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: eb21cb34-eec1-462d-9127-2d5e367cdfb9
+      record_title: 'David Grusch: The Whistleblower Who Told Congress We''re Not Alone'
+      record_date: '2026-08-13'
+      record_reference: https://www.youtube.com/watch?v=LBXmqvFs0Ec
+      content_hash: sha256:c685d061d160da6ae664b97e8b033d8d36090ea76d13c45792556dae22ae3344
+      friendly_name: null
+  - claim_id: a17c6419-3325-497b-a139-8dd8496d6103
+    claim_hash: cec2b1790122a042ad742a920648a5ea9b851e823d73d1138dae47cc21dc2674
+    content: John Mack concluded that something real is occurring in the experiences reported by people who encountered the
+      phenomenon, and that it is not a psychosomatic condition or a mental health condition.
+    original_excerpt: And he deduced something is going on. This is not some, you know, psychosomatic thing or some mental
+      health condition.
+    claim_type: hearsay
+    attestation: second_hand
+    speaker:
+      node_id: d4241f5a-1063-4970-ba02-5a391c02d96d
+      title: David Charles Grusch
+    provenance_chain:
+      origin_kind: named
+      origin: John Mack
+      relay:
+        - David Grusch
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
+        title: Unidentified Anomalous Phenomena (UAP)
+        slug: unidentified-anomalous-phenomena-uap
+      - node_id: d0a6ce69-4f5f-456b-a83c-b68a680224be
+        title: John Mack
+        slug: john-mack
+      - node_id: fdd724f2-0b15-4664-8f9c-a17be751ec9c
+        title: Harvard University
+        slug: harvard-university
+    date: null
+    date_end: null
+    location_in_record: 00:37:30.6-00:37:38.2
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: eb21cb34-eec1-462d-9127-2d5e367cdfb9
+      record_title: 'David Grusch: The Whistleblower Who Told Congress We''re Not Alone'
+      record_date: '2026-08-13'
+      record_reference: https://www.youtube.com/watch?v=LBXmqvFs0Ec
+      content_hash: sha256:c685d061d160da6ae664b97e8b033d8d36090ea76d13c45792556dae22ae3344
+      friendly_name: null

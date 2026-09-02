@@ -1,0 +1,1300 @@
+schema: anomalica/brief/1
+brief_hash: 9cef638daa10e4e2265c210cc141007bc00a325caec755340e9dde5d79dbb9f3
+page:
+  kind: entity
+  node_id: 459eb5cf-ea76-4cad-9421-a726261cd3a2
+  node_type: person
+  title: Bill Clinton
+  slug: bill-clinton
+  claim_count: 27
+  claim_count_total: 27
+generated:
+  graph_version: '2026-09-01T10:10:49.863545+00:00'
+size:
+  claims: 27
+  tokens_estimated: 8140
+  sized_against: 1050000
+publication:
+  status: published
+  note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
+    transcripts are gated elsewhere.
+belonging:
+  verified: 0
+  suspect_excluded: 0
+  unreviewed: 27
+related_nodes:
+  - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
+    title: Unidentified Flying Object (UFO)
+    node_type: topic
+    slug: unidentified-flying-object-ufo
+    shared_claims: 12
+  - node_id: 0d4dfba6-a53b-4f23-a2ad-e4c9bea44076
+    title: Robert Bigelow
+    node_type: person
+    slug: robert-bigelow
+    shared_claims: 5
+  - node_id: 0c023c1b-30bd-48a1-a836-2b291ff5853a
+    title: Ronald Pandolfi
+    node_type: person
+    slug: ronald-pandolfi
+    shared_claims: 5
+  - node_id: 65058869-076f-47d0-92ea-f8daf08b94cf
+    title: Barack Obama
+    node_type: person
+    slug: barack-obama
+    shared_claims: 4
+  - node_id: 38b84d4a-96df-4684-bb46-f6f64f392add
+    title: Central Intelligence Agency (CIA)
+    node_type: organisation
+    slug: central-intelligence-agency-cia
+    shared_claims: 4
+  - node_id: 0c0f7266-312d-4b09-99a4-0126cc96308d
+    title: Bruce Maccabee
+    node_type: person
+    slug: bruce-maccabee
+    shared_claims: 3
+  - node_id: 6822269f-d874-409b-b8f9-8ccaf3ac5947
+    title: Lawrence Rockefeller
+    node_type: person
+    slug: lawrence-rockefeller
+    shared_claims: 3
+  - node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+    title: Ross Coulthart
+    node_type: person
+    slug: ross-coulthart
+    shared_claims: 3
+  - node_id: c91974f0-961f-4db8-b7b0-22d4b846e5d5
+    title: Harry Reid
+    node_type: person
+    slug: harry-reid
+    shared_claims: 2
+  - node_id: 33ae3380-25ea-442a-9d60-69b285a20182
+    title: Hillary Clinton
+    node_type: person
+    slug: hillary-clinton
+    shared_claims: 2
+  - node_id: 0bbdac2d-a855-466a-a051-2afa64a779e2
+    title: UAP crash retrieval and reverse engineering program
+    node_type: project
+    slug: uap-crash-retrieval-and-reverse-engineering-program
+    shared_claims: 2
+  - node_id: dcfde05e-4c6d-4f3a-80da-781e42865401
+    title: USA, Nevada, Area 51
+    node_type: place
+    slug: nevada-area-51-usa
+    shared_claims: 2
+  - node_id: 1a1ea153-18b5-4de8-ac26-225cf58b02be
+    title: Bilderberg Meeting
+    node_type: organisation
+    slug: bilderberg-meeting
+    shared_claims: 1
+  - node_id: d838e7a4-6492-45b1-90ca-9dbdcc0fecef
+    title: Bill Richardson
+    node_type: person
+    slug: bill-richardson
+    shared_claims: 1
+  - node_id: df2fedf9-5457-461a-a96c-2ade2d4e69ce
+    title: Collins Elite
+    node_type: organisation
+    slug: collins-elite
+    shared_claims: 1
+  - node_id: f175f6db-6c31-49bc-9ca8-0e4487fd7d39
+    title: Dwight D. Eisenhower
+    node_type: person
+    slug: dwight-d-eisenhower
+    shared_claims: 1
+  - node_id: c430b2b2-7900-45c9-9882-98ac4ab14e88
+    title: Federal Bureau of Investigation (FBI)
+    node_type: organisation
+    slug: federal-bureau-of-investigation-fbi
+    shared_claims: 1
+  - node_id: dba2f206-7088-4fe9-9fc5-d7228a9149f4
+    title: George Herbert Walker Bush
+    node_type: person
+    slug: george-herbert-walker-bush
+    shared_claims: 1
+  - node_id: 3030c72b-534a-4ddb-88ec-c09f315b9d87
+    title: Gerald Ford
+    node_type: person
+    slug: gerald-ford
+    shared_claims: 1
+  - node_id: 589d7469-f87f-4da5-afa8-cabca7be6818
+    title: Harry S. Truman
+    node_type: person
+    slug: harry-s-truman
+    shared_claims: 1
+  - node_id: ff0a86b8-8f3c-4291-94ed-c6d303875ce8
+    title: Jason Samosa
+    node_type: person
+    slug: jason-samosa
+    shared_claims: 1
+  - node_id: 898c410a-7789-4762-b6dd-1139ced89658
+    title: Jimmy Carter
+    node_type: person
+    slug: jimmy-carter
+    shared_claims: 1
+  - node_id: b9230db2-eef8-4526-86aa-97f693336b1a
+    title: Knights of Malta
+    node_type: organisation
+    slug: knights-of-malta
+    shared_claims: 1
+  - node_id: f657fb13-198a-45d6-9530-253f2784f9d2
+    title: Laurance Rockefeller
+    node_type: person
+    slug: laurance-rockefeller
+    shared_claims: 1
+  - node_id: 08a4f213-dfb6-49eb-b10a-c5e3c3eaad04
+    title: Meng Zhao Guo
+    node_type: person
+    slug: meng-zhao-guo
+    shared_claims: 1
+  - node_id: 1c2b71ac-662d-4cbf-80fe-06d97aa016fb
+    title: Office of Strategic Services (OSS)
+    node_type: organisation
+    slug: office-of-strategic-services-oss
+    shared_claims: 1
+  - node_id: 3690087e-5e65-4693-8b72-f144d9963dd5
+    title: Richard Nixon
+    node_type: person
+    slug: richard-nixon
+    shared_claims: 1
+  - node_id: 39931bd6-9341-4fc5-a3fe-e7e81229eb3e
+    title: Rockefeller Ranch Unidentified Flying Object (UFO) disclosure meeting
+    node_type: event
+    slug: rockefeller-ranch-unidentified-flying-object-ufo-disclosure-meeting
+    shared_claims: 1
+  - node_id: 1c74a06c-1b3f-43b4-b54c-3f6b44fd8192
+    title: Ronald Reagan
+    node_type: person
+    slug: ronald-reagan
+    shared_claims: 1
+  - node_id: 201544d9-7788-42ea-b978-d06ad8c45f75
+    title: Sun Shi Li
+    node_type: person
+    slug: sun-shi-li
+    shared_claims: 1
+claims:
+  - claim_id: 877fd5c9-a0cc-47f0-8997-5ca4e44d2704
+    claim_hash: 1313a3590afe3c22b6cf95cc4a9187cee6af9ac0161a57bbac9634492fd48f85
+    content: According to Sun Shi Li's 1997 Brisbane lecture, Meng Zhao Guo was shown images of Earth and of President Bill
+      Clinton and Chinese dignitaries, and was told the extraterrestrials' technology could reflect anything on Earth.
+    original_excerpt: He was also shown images of Earth and of President Clinton and Chinese dignitaries. Their technology
+      is very advanced. It can reflect anything on Earth.
+    claim_type: hearsay
+    attestation: second_hand
+    speaker:
+      node_id: 201544d9-7788-42ea-b978-d06ad8c45f75
+      title: Sun Shi Li
+    provenance_chain:
+      origin_kind: named
+      origin: Meng Zhao Guo
+      relay:
+        - Sun Shi Li
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 08a4f213-dfb6-49eb-b10a-c5e3c3eaad04
+        title: Meng Zhao Guo
+        slug: meng-zhao-guo
+      - node_id: 201544d9-7788-42ea-b978-d06ad8c45f75
+        title: Sun Shi Li
+        slug: sun-shi-li
+      - node_id: 459eb5cf-ea76-4cad-9421-a726261cd3a2
+        title: Bill Clinton
+        slug: bill-clinton
+    date: null
+    date_end: null
+    location_in_record: ch20:15549-15695
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 32687cf8-a827-40a9-b9f4-308ca4d9b2b3
+      record_title: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
+      record_date: '2005-11-14'
+      record_reference: null
+      content_hash: sha256:c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95d6ac9c3b
+      friendly_name: 2005-11-14-ebook-hair-of-the-alien-dna-and-other-forensic-evidence-for-alien
+  - claim_id: 21fc3a8e-e021-4578-ace4-d2fa01dcbf3f
+    claim_hash: 2ac36ddf8c5f5131544b01e8b9a6e21f82a70c326c63c6bedfe4e919ab6c1fd6
+    content: Top constitutional lawyers consulted by Ross Coulthart can see no basis under which successive United States
+      presidents could be bound by an executive order signed under Dwight D. Eisenhower or Harry S. Truman into not being
+      briefed on the UFO programme even when they requested it.
+    original_excerpt: People I've spoken to who are constitutional lawyers, really top constitutional lawyers, tell me that
+      they cannot see any basis under which, for example, successive presidents could be bound into not being able to be briefed,
+      even when they asked for it, like Clinton did, by, say, an executive order that was passed by Eisenhower or Truman.
+    claim_type: opinion
+    attestation: second_hand
+    speaker:
+      node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+      title: Ross Coulthart
+    provenance_chain:
+      origin_kind: anonymous
+      origin: constitutional lawyers consulted by Ross Coulthart
+      relay:
+        - Ross Coulthart
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 0bbdac2d-a855-466a-a051-2afa64a779e2
+        title: UAP crash retrieval and reverse engineering program
+        slug: uap-crash-retrieval-and-reverse-engineering-program
+      - node_id: 459eb5cf-ea76-4cad-9421-a726261cd3a2
+        title: Bill Clinton
+        slug: bill-clinton
+      - node_id: 589d7469-f87f-4da5-afa8-cabca7be6818
+        title: Harry S. Truman
+        slug: harry-s-truman
+      - node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+        title: Ross Coulthart
+        slug: ross-coulthart
+      - node_id: f175f6db-6c31-49bc-9ca8-0e4487fd7d39
+        title: Dwight D. Eisenhower
+        slug: dwight-d-eisenhower
+    date: null
+    date_end: null
+    location_in_record: 00:39:44.1-00:40:04.8
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: fd845823-8784-462c-a981-4775525b6f84
+      record_title: The DANGEROUS Truth About UFOs - Ross Coulthart | DEBRIEFED ep. 76
+      record_date: '2026-02-20'
+      record_reference: https://www.youtube.com/watch?v=idBryc0eWww
+      content_hash: sha256:73be106d406f6d35a063a894e8384e7da0918eb8597d2107a9e3653becca2bdc
+      friendly_name: null
+  - claim_id: dd9a4772-02d3-439b-a83e-ead5a908047f
+    claim_hash: 8c29e68e9d380a37e17c13d3be9b395acbc566cb8543ef79782449609fa683a1
+    content: Bill Clinton asked to be briefed on the UFO retrieval programme while president.
+    original_excerpt: successive presidents could be bound into not being able to be briefed, even when they asked for it,
+      like Clinton did
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+      title: Ross Coulthart
+    provenance_chain:
+      origin_kind: speaker
+      origin: Ross Coulthart
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 0bbdac2d-a855-466a-a051-2afa64a779e2
+        title: UAP crash retrieval and reverse engineering program
+        slug: uap-crash-retrieval-and-reverse-engineering-program
+      - node_id: 459eb5cf-ea76-4cad-9421-a726261cd3a2
+        title: Bill Clinton
+        slug: bill-clinton
+      - node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+        title: Ross Coulthart
+        slug: ross-coulthart
+    date: null
+    date_end: null
+    location_in_record: 00:39:53.6-00:40:00.0
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: fd845823-8784-462c-a981-4775525b6f84
+      record_title: The DANGEROUS Truth About UFOs - Ross Coulthart | DEBRIEFED ep. 76
+      record_date: '2026-02-20'
+      record_reference: https://www.youtube.com/watch?v=idBryc0eWww
+      content_hash: sha256:73be106d406f6d35a063a894e8384e7da0918eb8597d2107a9e3653becca2bdc
+      friendly_name: null
+  - claim_id: 8f999b2d-5a47-448f-9ce3-87f6e6d43145
+    claim_hash: 7373e8f62859fd4519f119d993adb982338c65dde8858d2c3cf2a588042557cb
+    content: Ross Coulthart considers it unacceptable that United States presidents Bill Clinton, Barack Obama, Gerald Ford
+      and Jimmy Carter were not able to be briefed on Unidentified Flying Object information while serving as commander in
+      chief.
+    original_excerpt: it just doesn't wash in this day and age that you could have a situation where Clinton or Obama Ford
+      or Carter weren't able to be briefed on that information and they were making decisions as the person nominally in charge
+      of the defense forces of America, nominally the commander in chief.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+      title: Ross Coulthart
+    provenance_chain:
+      origin_kind: speaker
+      origin: Ross Coulthart
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 3030c72b-534a-4ddb-88ec-c09f315b9d87
+        title: Gerald Ford
+        slug: gerald-ford
+      - node_id: 459eb5cf-ea76-4cad-9421-a726261cd3a2
+        title: Bill Clinton
+        slug: bill-clinton
+      - node_id: 65058869-076f-47d0-92ea-f8daf08b94cf
+        title: Barack Obama
+        slug: barack-obama
+      - node_id: 898c410a-7789-4762-b6dd-1139ced89658
+        title: Jimmy Carter
+        slug: jimmy-carter
+      - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
+        title: Unidentified Flying Object (UFO)
+        slug: unidentified-flying-object-ufo
+      - node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+        title: Ross Coulthart
+        slug: ross-coulthart
+    date: null
+    date_end: null
+    location_in_record: 01:34:52.4-01:35:15.7
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: fd845823-8784-462c-a981-4775525b6f84
+      record_title: The DANGEROUS Truth About UFOs - Ross Coulthart | DEBRIEFED ep. 76
+      record_date: '2026-02-20'
+      record_reference: https://www.youtube.com/watch?v=idBryc0eWww
+      content_hash: sha256:73be106d406f6d35a063a894e8384e7da0918eb8597d2107a9e3653becca2bdc
+      friendly_name: null
+  - claim_id: 0dc9bacf-7eef-4156-8206-5c7faf9ecdb9
+    claim_hash: 95faf137c17e21ab59dee32412fe9aa5ec99f5c31a6ebdc0c9a4a64e05e9d93f
+    content: Bill Clinton did not receive UFO briefings and had to fight for information, using all his resources without
+      obtaining what he wanted, in Jason Samosa's assessment.
+    original_excerpt: The moment you get to Clinton, I think it's pretty demonstrable he didn't. And he had to fight to try
+      and get information. And he used all of his resources and still couldn't get what he wanted.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: ff0a86b8-8f3c-4291-94ed-c6d303875ce8
+      title: Jason Samosa
+    provenance_chain:
+      origin_kind: speaker
+      origin: Jason Samosa
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 459eb5cf-ea76-4cad-9421-a726261cd3a2
+        title: Bill Clinton
+        slug: bill-clinton
+      - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
+        title: Unidentified Flying Object (UFO)
+        slug: unidentified-flying-object-ufo
+    date: null
+    date_end: null
+    location_in_record: 00:46:08.1-00:46:17.1
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 64b84f95-238c-4ab7-a678-bee55f985b14
+      record_title: The UFO Cover-Up Leads to One Secret Society — and One Final Event
+      record_date: '2026-07-14'
+      record_reference: https://www.youtube.com/watch?v=kccrkCGGzX4
+      content_hash: sha256:d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7b5a1b98d
+      friendly_name: null
+  - claim_id: 7be64312-c7b5-4528-af89-1659f36042a5
+    claim_hash: 96199762c0839795219ffd9fbd845b14aee2d7dd9133bc6c24e51304e4d3698d
+    content: Bill Clinton and Barack Obama came into office without being connected to the United States establishment, unlike
+      Ronald Reagan, Richard Nixon and the Bush family, in Jason Samosa's view.
+    original_excerpt: Clinton and Obama coming into office really weren't connected to the establishment of the United States.
+      They really were in many ways outsiders who'd started to move inside. ... But that's very different to Reagan, to Nixon
+      and to all of these kind of the Bush family.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: ff0a86b8-8f3c-4291-94ed-c6d303875ce8
+      title: Jason Samosa
+    provenance_chain:
+      origin_kind: speaker
+      origin: Jason Samosa
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 1c74a06c-1b3f-43b4-b54c-3f6b44fd8192
+        title: Ronald Reagan
+        slug: ronald-reagan
+      - node_id: 3690087e-5e65-4693-8b72-f144d9963dd5
+        title: Richard Nixon
+        slug: richard-nixon
+      - node_id: 459eb5cf-ea76-4cad-9421-a726261cd3a2
+        title: Bill Clinton
+        slug: bill-clinton
+      - node_id: 65058869-076f-47d0-92ea-f8daf08b94cf
+        title: Barack Obama
+        slug: barack-obama
+      - node_id: dba2f206-7088-4fe9-9fc5-d7228a9149f4
+        title: George Herbert Walker Bush
+        slug: george-herbert-walker-bush
+    date: null
+    date_end: null
+    location_in_record: 00:46:48.5-00:47:07.4
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 64b84f95-238c-4ab7-a678-bee55f985b14
+      record_title: The UFO Cover-Up Leads to One Secret Society — and One Final Event
+      record_date: '2026-07-14'
+      record_reference: https://www.youtube.com/watch?v=kccrkCGGzX4
+      content_hash: sha256:d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7b5a1b98d
+      friendly_name: null
+  - claim_id: 288a4722-8dc6-4f67-89ce-1603fcbefa96
+    claim_hash: 057986c4150d232ad678ba3e820ef7dd98b5fa9a1ece0b496fe05de01a2624b5
+    content: Bill Clinton attended a Bilderberg Meeting once before he was elected president.
+    original_excerpt: You know, Clinton attended a Bilderberg meeting once before he was elected, so that's fine.
+    claim_type: administrative
+    attestation: null
+    speaker:
+      node_id: ff0a86b8-8f3c-4291-94ed-c6d303875ce8
+      title: Jason Samosa
+    provenance_chain:
+      origin_kind: unattributed
+      origin: public record
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 1a1ea153-18b5-4de8-ac26-225cf58b02be
+        title: Bilderberg Meeting
+        slug: bilderberg-meeting
+      - node_id: 459eb5cf-ea76-4cad-9421-a726261cd3a2
+        title: Bill Clinton
+        slug: bill-clinton
+    date: null
+    date_end: null
+    location_in_record: 00:46:57.9-00:47:02.0
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 64b84f95-238c-4ab7-a678-bee55f985b14
+      record_title: The UFO Cover-Up Leads to One Secret Society — and One Final Event
+      record_date: '2026-07-14'
+      record_reference: https://www.youtube.com/watch?v=kccrkCGGzX4
+      content_hash: sha256:d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7b5a1b98d
+      friendly_name: null
+  - claim_id: 1b8cf3b4-33dc-4f1b-b6e3-077b1d580dec
+    claim_hash: 3468eb4bb961beed0a260eaa2f295f4d4a3445960212c939d60ba84e955681a7
+    content: Ronald Pandolfi advised Bill Clinton that he should be briefed by Bruce Maccabee, a longtime civilian UFO researcher
+      who had written a book about UFOs and the FBI.
+    original_excerpt: Ron Pandolfi told Clinton he should get briefed by a guy named Bruce Maccabee who had written about
+      a book about UFOs and the FBI was a longtime civilian researcher.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 079d4381-4273-418b-bc9a-468623f95c6e
+      title: Jesse Mitchells
+    provenance_chain:
+      origin_kind: speaker
+      origin: Jesse Michels
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 0c023c1b-30bd-48a1-a836-2b291ff5853a
+        title: Ronald Pandolfi
+        slug: ronald-pandolfi
+      - node_id: 0c0f7266-312d-4b09-99a4-0126cc96308d
+        title: Bruce Maccabee
+        slug: bruce-maccabee
+      - node_id: 459eb5cf-ea76-4cad-9421-a726261cd3a2
+        title: Bill Clinton
+        slug: bill-clinton
+      - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
+        title: Unidentified Flying Object (UFO)
+        slug: unidentified-flying-object-ufo
+      - node_id: c430b2b2-7900-45c9-9882-98ac4ab14e88
+        title: Federal Bureau of Investigation (FBI)
+        slug: federal-bureau-of-investigation-fbi
+    date: null
+    date_end: null
+    location_in_record: 00:47:46.2-00:47:56.5
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 64b84f95-238c-4ab7-a678-bee55f985b14
+      record_title: The UFO Cover-Up Leads to One Secret Society — and One Final Event
+      record_date: '2026-07-14'
+      record_reference: https://www.youtube.com/watch?v=kccrkCGGzX4
+      content_hash: sha256:d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7b5a1b98d
+      friendly_name: null
+  - claim_id: 089e1f5c-803c-4865-879a-88e525f0f546
+    claim_hash: aa02d81895022fcfab0d8eec8abdca4508361fda4bcd747c277076ef1686fa44
+    content: Laurance Rockefeller was very close with the Clintons and constantly tried to interest them in UFO disclosure.
+    original_excerpt: And Laurance Rockefeller, uh, is very close with the Clintons and trying to get them to do disclosure,
+      get them more interested constantly.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 079d4381-4273-418b-bc9a-468623f95c6e
+      title: Jesse Mitchells
+    provenance_chain:
+      origin_kind: speaker
+      origin: Jesse Michels
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 33ae3380-25ea-442a-9d60-69b285a20182
+        title: Hillary Clinton
+        slug: hillary-clinton
+      - node_id: 459eb5cf-ea76-4cad-9421-a726261cd3a2
+        title: Bill Clinton
+        slug: bill-clinton
+      - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
+        title: Unidentified Flying Object (UFO)
+        slug: unidentified-flying-object-ufo
+      - node_id: f657fb13-198a-45d6-9530-253f2784f9d2
+        title: Laurance Rockefeller
+        slug: laurance-rockefeller
+    date: null
+    date_end: null
+    location_in_record: 00:48:25.7-00:48:33.4
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 64b84f95-238c-4ab7-a678-bee55f985b14
+      record_title: The UFO Cover-Up Leads to One Secret Society — and One Final Event
+      record_date: '2026-07-14'
+      record_reference: https://www.youtube.com/watch?v=kccrkCGGzX4
+      content_hash: sha256:d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7b5a1b98d
+      friendly_name: null
+  - claim_id: 03f260c0-9ab3-4896-8c40-2b44b71937f3
+    claim_hash: c2a6213ac8f443015a4ac005d48584f70a57386a330d86c06d026f1adba90e28
+    content: There is evidence that Hillary Clinton was trying to open doors on the UFO subject during Bill Clinton's administration,
+      in Jason Samosa's assessment.
+    original_excerpt: she was interested early, I think. And there's evidence during the original Clinton administration she
+      might have been trying to open doors as well.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: ff0a86b8-8f3c-4291-94ed-c6d303875ce8
+      title: Jason Samosa
+    provenance_chain:
+      origin_kind: speaker
+      origin: Jason Samosa
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 33ae3380-25ea-442a-9d60-69b285a20182
+        title: Hillary Clinton
+        slug: hillary-clinton
+      - node_id: 459eb5cf-ea76-4cad-9421-a726261cd3a2
+        title: Bill Clinton
+        slug: bill-clinton
+      - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
+        title: Unidentified Flying Object (UFO)
+        slug: unidentified-flying-object-ufo
+    date: null
+    date_end: null
+    location_in_record: 00:48:55.6-00:49:02.0
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 64b84f95-238c-4ab7-a678-bee55f985b14
+      record_title: The UFO Cover-Up Leads to One Secret Society — and One Final Event
+      record_date: '2026-07-14'
+      record_reference: https://www.youtube.com/watch?v=kccrkCGGzX4
+      content_hash: sha256:d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7b5a1b98d
+      friendly_name: null
+  - claim_id: 409ff077-63a6-4185-8eb5-b6ab66af4e5f
+    claim_hash: e09c3bb25ccdf55c967356c8a44d5b1f97e2275d4f74a67b16ff090f31434e64
+    content: Bill Clinton's science advisor sought a UFO briefing, and the request went to the CIA's Weird Desk, the part
+      of the agency holding UFO information.
+    original_excerpt: Clinton's science advisor is trying to get a briefing. And what happens is that goes to the place in
+      the CIA where there is UFO information. It's called the Weird Desk.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: ff0a86b8-8f3c-4291-94ed-c6d303875ce8
+      title: Jason Samosa
+    provenance_chain:
+      origin_kind: speaker
+      origin: Jason Samosa
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 38b84d4a-96df-4684-bb46-f6f64f392add
+        title: Central Intelligence Agency (CIA)
+        slug: central-intelligence-agency-cia
+      - node_id: 459eb5cf-ea76-4cad-9421-a726261cd3a2
+        title: Bill Clinton
+        slug: bill-clinton
+      - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
+        title: Unidentified Flying Object (UFO)
+        slug: unidentified-flying-object-ufo
+    date: null
+    date_end: null
+    location_in_record: 00:49:06.2-00:49:13.7
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 64b84f95-238c-4ab7-a678-bee55f985b14
+      record_title: The UFO Cover-Up Leads to One Secret Society — and One Final Event
+      record_date: '2026-07-14'
+      record_reference: https://www.youtube.com/watch?v=kccrkCGGzX4
+      content_hash: sha256:d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7b5a1b98d
+      friendly_name: null
+  - claim_id: fcfb04bf-222b-495d-84f0-b1300da49864
+    claim_hash: 6e25c3facbcbc190644c919db5ed05f6281744e187663c0b9313a110de9d06ed
+    content: Ronald Pandolfi was running the CIA's Weird Desk at the time Bill Clinton's science advisor sought a UFO briefing.
+    original_excerpt: And at that point, a guy called Dr. Ronald Pandolfi was running the Weird Desk.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: ff0a86b8-8f3c-4291-94ed-c6d303875ce8
+      title: Jason Samosa
+    provenance_chain:
+      origin_kind: speaker
+      origin: Jason Samosa
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 0c023c1b-30bd-48a1-a836-2b291ff5853a
+        title: Ronald Pandolfi
+        slug: ronald-pandolfi
+      - node_id: 38b84d4a-96df-4684-bb46-f6f64f392add
+        title: Central Intelligence Agency (CIA)
+        slug: central-intelligence-agency-cia
+      - node_id: 459eb5cf-ea76-4cad-9421-a726261cd3a2
+        title: Bill Clinton
+        slug: bill-clinton
+    date: null
+    date_end: null
+    location_in_record: 00:49:18.8-00:49:23.0
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 64b84f95-238c-4ab7-a678-bee55f985b14
+      record_title: The UFO Cover-Up Leads to One Secret Society — and One Final Event
+      record_date: '2026-07-14'
+      record_reference: https://www.youtube.com/watch?v=kccrkCGGzX4
+      content_hash: sha256:d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7b5a1b98d
+      friendly_name: null
+  - claim_id: 63d32f5f-d26e-4216-badd-0b4f1f215298
+    claim_hash: 28b8bc2246e7f6ffceb3d3a98e168b92700292d743951f82e7f2823501776789
+    content: Bruce Maccabee received a call from Ronald Pandolfi asking him to deliver to Bill Clinton's science advisor the
+      lecture he had once given to the CIA, and was told the briefing was the following morning at eight o'clock, leaving
+      almost no time to prepare.
+    original_excerpt: So Bruce Maccabee relates the story. ... he gets a call from Pandolfi basically saying, look, I need
+      you to go in and give the lecture you gave to the CIA once. I want you to give it to the science advisor. And he's like,
+      well, I need time to prepare ... And he's like, it's tomorrow eight in the morning.
+    claim_type: hearsay
+    attestation: second_hand
+    speaker:
+      node_id: ff0a86b8-8f3c-4291-94ed-c6d303875ce8
+      title: Jason Samosa
+    provenance_chain:
+      origin_kind: named
+      origin: Bruce Maccabee
+      relay:
+        - Bruce Maccabee's public retelling of the story
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 0c023c1b-30bd-48a1-a836-2b291ff5853a
+        title: Ronald Pandolfi
+        slug: ronald-pandolfi
+      - node_id: 0c0f7266-312d-4b09-99a4-0126cc96308d
+        title: Bruce Maccabee
+        slug: bruce-maccabee
+      - node_id: 38b84d4a-96df-4684-bb46-f6f64f392add
+        title: Central Intelligence Agency (CIA)
+        slug: central-intelligence-agency-cia
+      - node_id: 459eb5cf-ea76-4cad-9421-a726261cd3a2
+        title: Bill Clinton
+        slug: bill-clinton
+    date: null
+    date_end: null
+    location_in_record: 00:49:25.2-00:49:44.0
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 64b84f95-238c-4ab7-a678-bee55f985b14
+      record_title: The UFO Cover-Up Leads to One Secret Society — and One Final Event
+      record_date: '2026-07-14'
+      record_reference: https://www.youtube.com/watch?v=kccrkCGGzX4
+      content_hash: sha256:d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7b5a1b98d
+      friendly_name: null
+  - claim_id: ae2337df-7ca4-42ec-8003-256b17cac3ed
+    claim_hash: 36770d4be758af97eac8b6d3ad2c05a9b25e999e3728eaf3f74d81de636ef9fc
+    content: William LaParl suggested that the CIA's handling of the Bill Clinton UFO briefing request was intended to push
+      the matter away rather than confront what was going on.
+    original_excerpt: And there's a guy called William LaParl, who I think had closer interactions with Pandolfi at this time.
+      And he suggested that really they just wanted to push this away. They didn't want to have to confront what was going
+      on with Clinton.
+    claim_type: hearsay
+    attestation: second_hand
+    speaker:
+      node_id: ff0a86b8-8f3c-4291-94ed-c6d303875ce8
+      title: Jason Samosa
+    provenance_chain:
+      origin_kind: named
+      origin: William LaParl
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 0c023c1b-30bd-48a1-a836-2b291ff5853a
+        title: Ronald Pandolfi
+        slug: ronald-pandolfi
+      - node_id: 1f687134-7b02-4aae-b2d3-5be94c9c0b5f
+        title: William LaParl
+        slug: william-laparl
+      - node_id: 38b84d4a-96df-4684-bb46-f6f64f392add
+        title: Central Intelligence Agency (CIA)
+        slug: central-intelligence-agency-cia
+      - node_id: 459eb5cf-ea76-4cad-9421-a726261cd3a2
+        title: Bill Clinton
+        slug: bill-clinton
+    date: null
+    date_end: null
+    location_in_record: 00:50:02.1-00:50:13.8
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 64b84f95-238c-4ab7-a678-bee55f985b14
+      record_title: The UFO Cover-Up Leads to One Secret Society — and One Final Event
+      record_date: '2026-07-14'
+      record_reference: https://www.youtube.com/watch?v=kccrkCGGzX4
+      content_hash: sha256:d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7b5a1b98d
+      friendly_name: null
+  - claim_id: ad2c4c0a-c2ef-4be3-a09b-9d8d61f50a82
+    claim_hash: f970fd8d8a19573b2adac20da07f0ecf5b8475fce422055f024413bbd6263c49
+    content: The administrations preceding Bill Clinton's were staffed with quite religious people, including Collins Elite
+      types, members of The Family and the Knights of Malta, connected to a broader establishment tracing back to the Office
+      of Strategic Services in World War II, in Jason Samosa's assessment.
+    original_excerpt: the former few administrations had been actually stuffed full of quite religious people. Some of these
+      Collins Elite types figures, we talked about the family, there's also the Knights of Malta, and they're connected to
+      a broader establishment that goes back to the OSS, the Office of Strategic Services in World War II.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: ff0a86b8-8f3c-4291-94ed-c6d303875ce8
+      title: Jason Samosa
+    provenance_chain:
+      origin_kind: speaker
+      origin: Jason Samosa
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 1c2b71ac-662d-4cbf-80fe-06d97aa016fb
+        title: Office of Strategic Services (OSS)
+        slug: office-of-strategic-services-oss
+      - node_id: 459eb5cf-ea76-4cad-9421-a726261cd3a2
+        title: Bill Clinton
+        slug: bill-clinton
+      - node_id: 9d32a2ba-3862-4abe-983f-4abd38c728ea
+        title: The Family (The Fellowship)
+        slug: the-family-the-fellowship
+      - node_id: b9230db2-eef8-4526-86aa-97f693336b1a
+        title: Knights of Malta
+        slug: knights-of-malta
+      - node_id: dcb95bd1-7593-4fe4-a992-2fc6a05fcb2c
+        title: World War II
+        slug: world-war-ii
+      - node_id: df2fedf9-5457-461a-a96c-2ade2d4e69ce
+        title: Collins Elite
+        slug: collins-elite
+    date: null
+    date_end: null
+    location_in_record: 00:50:17.0-00:50:32.6
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 64b84f95-238c-4ab7-a678-bee55f985b14
+      record_title: The UFO Cover-Up Leads to One Secret Society — and One Final Event
+      record_date: '2026-07-14'
+      record_reference: https://www.youtube.com/watch?v=kccrkCGGzX4
+      content_hash: sha256:d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7b5a1b98d
+      friendly_name: null
+  - claim_id: b0a1244b-8c2a-49c2-a771-6303eb2cd0b8
+    claim_hash: 8ff1e3581c9c47f7e404c392c77848a634ed417a3842808aad2013447b324c6c
+    content: Bill Clinton's attempt to obtain UFO information was shut down by Ronald Pandolfi, in Jason Samosa's account.
+    original_excerpt: You've got Clinton, comes in, he's just this guy, and he wants the information and it's shut down by
+      Dr. Pandolfi
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: ff0a86b8-8f3c-4291-94ed-c6d303875ce8
+      title: Jason Samosa
+    provenance_chain:
+      origin_kind: speaker
+      origin: Jason Samosa
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 0c023c1b-30bd-48a1-a836-2b291ff5853a
+        title: Ronald Pandolfi
+        slug: ronald-pandolfi
+      - node_id: 459eb5cf-ea76-4cad-9421-a726261cd3a2
+        title: Bill Clinton
+        slug: bill-clinton
+      - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
+        title: Unidentified Flying Object (UFO)
+        slug: unidentified-flying-object-ufo
+    date: null
+    date_end: null
+    location_in_record: 00:50:38.2-00:50:45.7
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 64b84f95-238c-4ab7-a678-bee55f985b14
+      record_title: The UFO Cover-Up Leads to One Secret Society — and One Final Event
+      record_date: '2026-07-14'
+      record_reference: https://www.youtube.com/watch?v=kccrkCGGzX4
+      content_hash: sha256:d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7b5a1b98d
+      friendly_name: null
+  - claim_id: 47b047a2-c3f6-4c15-8593-a68f792c874d
+    claim_hash: ac2f7b526ac4e3637353937705bc31a44f1999597d8e164a44b645c6795774a8
+    content: Bill Clinton said the same thing as Barack Obama about there being nothing underground at Area 51.
+    original_excerpt: What's so interesting about that is Clinton said exactly the same thing. ... They both said, yeah, there's
+      nothing underground under area 51.
+    claim_type: hearsay
+    attestation: second_hand
+    speaker:
+      node_id: ff0a86b8-8f3c-4291-94ed-c6d303875ce8
+      title: Jason Samosa
+    provenance_chain:
+      origin_kind: named
+      origin: Bill Clinton
+      relay:
+        - a public statement by Bill Clinton
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 459eb5cf-ea76-4cad-9421-a726261cd3a2
+        title: Bill Clinton
+        slug: bill-clinton
+      - node_id: 65058869-076f-47d0-92ea-f8daf08b94cf
+        title: Barack Obama
+        slug: barack-obama
+      - node_id: dcfde05e-4c6d-4f3a-80da-781e42865401
+        title: USA, Nevada, Area 51
+        slug: nevada-area-51-usa
+    date: null
+    date_end: null
+    location_in_record: 00:52:10.3-00:52:17.2
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 64b84f95-238c-4ab7-a678-bee55f985b14
+      record_title: The UFO Cover-Up Leads to One Secret Society — and One Final Event
+      record_date: '2026-07-14'
+      record_reference: https://www.youtube.com/watch?v=kccrkCGGzX4
+      content_hash: sha256:d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7b5a1b98d
+      friendly_name: null
+  - claim_id: 5648f0fb-569c-4b17-9fef-65219b6533e4
+    claim_hash: ef234d8444d38179e75927f2e06a34f0695ecf5cd0b4e4bcb8daa84c4d882f3d
+    content: Jason Samosa finds it strange that both Bill Clinton and Barack Obama, given a brief opportunity to speak about
+      UFOs, chose to single out the question of whether anything is underground at Area 51.
+    original_excerpt: What a weird thing to zero in on. ... It's like, if I'm asked about UFOs, there's a thousand things
+      I could mention in the 30 second snippet I'm going to give you. Why?
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: ff0a86b8-8f3c-4291-94ed-c6d303875ce8
+      title: Jason Samosa
+    provenance_chain:
+      origin_kind: speaker
+      origin: Jason Samosa
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 459eb5cf-ea76-4cad-9421-a726261cd3a2
+        title: Bill Clinton
+        slug: bill-clinton
+      - node_id: 65058869-076f-47d0-92ea-f8daf08b94cf
+        title: Barack Obama
+        slug: barack-obama
+      - node_id: dcfde05e-4c6d-4f3a-80da-781e42865401
+        title: USA, Nevada, Area 51
+        slug: nevada-area-51-usa
+      - node_id: ff0a86b8-8f3c-4291-94ed-c6d303875ce8
+        title: Jason Samosa
+        slug: jason-samosa
+    date: null
+    date_end: null
+    location_in_record: 00:52:13.8-00:52:22.6
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 64b84f95-238c-4ab7-a678-bee55f985b14
+      record_title: The UFO Cover-Up Leads to One Secret Society — and One Final Event
+      record_date: '2026-07-14'
+      record_reference: https://www.youtube.com/watch?v=kccrkCGGzX4
+      content_hash: sha256:d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7b5a1b98d
+      friendly_name: null
+  - claim_id: 72f8b797-75a1-4490-9964-5e94afb073d1
+    claim_hash: a19b2d6d0ff22023a3ba9a80ca01a29cd4d63d37d4e9ea33e8d8b80b27060d1c
+    content: Bruce Maccabee is a Navy physicist who wrote the UFO briefing given for Bill Clinton.
+    original_excerpt: '[note: Bruce Maccabee - Navy physicist who wrote the Clinton UFO briefing]'
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: source record annotation
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 0c0f7266-312d-4b09-99a4-0126cc96308d
+        title: Bruce Maccabee
+        slug: bruce-maccabee
+      - node_id: 459eb5cf-ea76-4cad-9421-a726261cd3a2
+        title: Bill Clinton
+        slug: bill-clinton
+      - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
+        title: Unidentified Flying Object (UFO)
+        slug: unidentified-flying-object-ufo
+    date: null
+    date_end: null
+    location_in_record: line 142
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 64b84f95-238c-4ab7-a678-bee55f985b14
+      record_title: The UFO Cover-Up Leads to One Secret Society — and One Final Event
+      record_date: '2026-07-14'
+      record_reference: https://www.youtube.com/watch?v=kccrkCGGzX4
+      content_hash: sha256:d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7b5a1b98d
+      friendly_name: null
+  - claim_id: 01f7e8b4-d48d-43f6-b680-42d21862ca23
+    claim_hash: d83c1acd78a1f0a43cbce434e8e3a0c313d329dfaf8f56df83b760db7a07ebe8
+    content: Bill Richardson served as United States Secretary of Energy under Bill Clinton and was governor of New Mexico.
+    original_excerpt: Bill Richardson, I think was secretary of energy, um, under Bill Clinton, I believe he was a Clinton
+      crony for sure. And like he was governor of New Mexico.
+    claim_type: administrative
+    attestation: null
+    speaker:
+      node_id: 079d4381-4273-418b-bc9a-468623f95c6e
+      title: Jesse Mitchells
+    provenance_chain:
+      origin_kind: unattributed
+      origin: narration by Jesse Michels
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 09527e2e-b76c-4293-a9ce-a2b531b038e6
+        title: United States Department of Energy (DOE)
+        slug: united-states-department-of-energy-doe
+      - node_id: 459eb5cf-ea76-4cad-9421-a726261cd3a2
+        title: Bill Clinton
+        slug: bill-clinton
+      - node_id: d838e7a4-6492-45b1-90ca-9dbdcc0fecef
+        title: Bill Richardson
+        slug: bill-richardson
+    date: null
+    date_end: null
+    location_in_record: 00:45:51.8-00:46:01.9
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: dc9d8bc8-9c1f-46b4-9b89-8d86b6b08e1d
+      record_title: Jesse Michels, UAPGerb & Chris Ramsay - Flying Saucer Diner
+      record_date: '2026-07-17'
+      record_reference: https://www.youtube.com/watch?v=HFLBDi87888
+      content_hash: sha256:7b2e272d7c82fdda745ee0354d7c9cc4b0d5ba5506015ca27edd9169a768b262
+      friendly_name: null
+  - claim_id: 79b4346f-d52a-413e-86b8-52b32a73bd94
+    claim_hash: 9fc00e517c665c14cfef69d33ffe99443363f1a3fc3f882f58173a5041550207
+    content: Lawrence Rockefeller's position was to convince Bill Clinton, president at the time, to step up, produce the
+      disclosure necessary about the UFO phenomena and admit that it exists.
+    original_excerpt: And his take was to convince the president, which at the time was Bill Clinton, that he needed to step
+      up and produce the disclosure that was necessary about the phenomena and admit that it exists.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 0d4dfba6-a53b-4f23-a2ad-e4c9bea44076
+      title: Robert Bigelow
+    provenance_chain:
+      origin_kind: speaker
+      origin: Robert Bigelow
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 39931bd6-9341-4fc5-a3fe-e7e81229eb3e
+        title: Rockefeller Ranch Unidentified Flying Object (UFO) disclosure meeting
+        slug: rockefeller-ranch-unidentified-flying-object-ufo-disclosure-meeting
+      - node_id: 459eb5cf-ea76-4cad-9421-a726261cd3a2
+        title: Bill Clinton
+        slug: bill-clinton
+      - node_id: 6822269f-d874-409b-b8f9-8ccaf3ac5947
+        title: Lawrence Rockefeller
+        slug: lawrence-rockefeller
+      - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
+        title: Unidentified Flying Object (UFO)
+        slug: unidentified-flying-object-ufo
+    date: null
+    date_end: null
+    location_in_record: 00:03:59.0-00:04:17.1
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 5de4e296-4206-45f6-aa56-c3b8efb5c9e2
+      record_title: The Evolution of AAWSAP | Bigelow Podcast, Ep. 2
+      record_date: '2026-08-11'
+      record_reference: https://www.youtube.com/watch?v=hz7jHEgYzQw
+      content_hash: sha256:1aa9d864c5a4bb930164c278d9624c6bc0f84278ea4b5e57594fae9e21e90858
+      friendly_name: null
+  - claim_id: 0d154c2f-da65-4ab0-baad-2e3e2b082e90
+    claim_hash: 03b41d3688fbf4f84a7c009cca27fc5c28011742df9df1b6c9dad652d44ef687
+    content: Robert Bigelow was not sure that Bill Clinton knew about the UFO phenomena.
+    original_excerpt: I wasn't sure that he knew, that the president knew.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 0d4dfba6-a53b-4f23-a2ad-e4c9bea44076
+      title: Robert Bigelow
+    provenance_chain:
+      origin_kind: speaker
+      origin: Robert Bigelow
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 0d4dfba6-a53b-4f23-a2ad-e4c9bea44076
+        title: Robert Bigelow
+        slug: robert-bigelow
+      - node_id: 459eb5cf-ea76-4cad-9421-a726261cd3a2
+        title: Bill Clinton
+        slug: bill-clinton
+      - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
+        title: Unidentified Flying Object (UFO)
+        slug: unidentified-flying-object-ufo
+    date: null
+    date_end: null
+    location_in_record: 00:04:18.9-00:04:21.6
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 5de4e296-4206-45f6-aa56-c3b8efb5c9e2
+      record_title: The Evolution of AAWSAP | Bigelow Podcast, Ep. 2
+      record_date: '2026-08-11'
+      record_reference: https://www.youtube.com/watch?v=hz7jHEgYzQw
+      content_hash: sha256:1aa9d864c5a4bb930164c278d9624c6bc0f84278ea4b5e57594fae9e21e90858
+      friendly_name: null
+  - claim_id: 186fd230-aa2e-43fe-a1c6-7e0ad6bbf957
+    claim_hash: ac3316f81d3d393a0b44a70e51350a0c40b7980de8207bbede6522d32c7a5796
+    content: Robert Bigelow asked Harry Reid to take a book to Bill Clinton and ask him whether he had really said what the
+      book reported.
+    original_excerpt: So I said to Harry, I said, look, I want you to take this book. and show it to Bill and say, did you
+      really say this?
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 0d4dfba6-a53b-4f23-a2ad-e4c9bea44076
+      title: Robert Bigelow
+    provenance_chain:
+      origin_kind: speaker
+      origin: Robert Bigelow
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 0d4dfba6-a53b-4f23-a2ad-e4c9bea44076
+        title: Robert Bigelow
+        slug: robert-bigelow
+      - node_id: 459eb5cf-ea76-4cad-9421-a726261cd3a2
+        title: Bill Clinton
+        slug: bill-clinton
+      - node_id: c91974f0-961f-4db8-b7b0-22d4b846e5d5
+        title: Harry Reid
+        slug: harry-reid
+    date: null
+    date_end: null
+    location_in_record: 00:04:42.5-00:04:50.3
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 5de4e296-4206-45f6-aa56-c3b8efb5c9e2
+      record_title: The Evolution of AAWSAP | Bigelow Podcast, Ep. 2
+      record_date: '2026-08-11'
+      record_reference: https://www.youtube.com/watch?v=hz7jHEgYzQw
+      content_hash: sha256:1aa9d864c5a4bb930164c278d9624c6bc0f84278ea4b5e57594fae9e21e90858
+      friendly_name: null
+  - claim_id: 757087e1-f640-4480-b199-ac9118de43ba
+    claim_hash: fc935015ba4a39199c827a27065390f10313d82f16361131280a2b9c702a7bfb
+    content: A book quoted Bill Clinton as saying that before he left office he wanted to know who really killed John F. Kennedy
+      and what all the UFO and extraterrestrial material was about.
+    original_excerpt: And in there, President Clinton had said, before I leave office, I want to know who really killed JFK
+      and what is all this UFO ET stuff all about?
+    claim_type: hearsay
+    attestation: second_hand
+    speaker:
+      node_id: 0d4dfba6-a53b-4f23-a2ad-e4c9bea44076
+      title: Robert Bigelow
+    provenance_chain:
+      origin_kind: document
+      origin: a book quoting Bill Clinton, described by Robert Bigelow
+      relay:
+        - Robert Bigelow
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 0d4dfba6-a53b-4f23-a2ad-e4c9bea44076
+        title: Robert Bigelow
+        slug: robert-bigelow
+      - node_id: 459eb5cf-ea76-4cad-9421-a726261cd3a2
+        title: Bill Clinton
+        slug: bill-clinton
+      - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
+        title: Unidentified Flying Object (UFO)
+        slug: unidentified-flying-object-ufo
+    date: null
+    date_end: null
+    location_in_record: 00:04:51.0-00:05:02.9
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 5de4e296-4206-45f6-aa56-c3b8efb5c9e2
+      record_title: The Evolution of AAWSAP | Bigelow Podcast, Ep. 2
+      record_date: '2026-08-11'
+      record_reference: https://www.youtube.com/watch?v=hz7jHEgYzQw
+      content_hash: sha256:1aa9d864c5a4bb930164c278d9624c6bc0f84278ea4b5e57594fae9e21e90858
+      friendly_name: null
+  - claim_id: ab87dac9-9186-4748-a15b-63a37ec954c7
+    claim_hash: 9dbf56dfb21e2e18ca3e8d601785b69a27d70978122c1743872b8e79c24a6f44
+    content: When Harry Reid asked Bill Clinton whether he had really said he wanted to know about UFOs before leaving office,
+      Clinton confirmed that he had and replied "wouldn't you like to know?".
+    original_excerpt: And Harry said, did you really say that? Yes. And he said, wouldn't you like to know?
+    claim_type: hearsay
+    attestation: second_hand
+    speaker:
+      node_id: 0d4dfba6-a53b-4f23-a2ad-e4c9bea44076
+      title: Robert Bigelow
+    provenance_chain:
+      origin_kind: named
+      origin: Harry Reid
+      relay:
+        - Robert Bigelow
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 0d4dfba6-a53b-4f23-a2ad-e4c9bea44076
+        title: Robert Bigelow
+        slug: robert-bigelow
+      - node_id: 459eb5cf-ea76-4cad-9421-a726261cd3a2
+        title: Bill Clinton
+        slug: bill-clinton
+      - node_id: c91974f0-961f-4db8-b7b0-22d4b846e5d5
+        title: Harry Reid
+        slug: harry-reid
+    date: null
+    date_end: null
+    location_in_record: 00:05:04.1-00:05:09.7
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 5de4e296-4206-45f6-aa56-c3b8efb5c9e2
+      record_title: The Evolution of AAWSAP | Bigelow Podcast, Ep. 2
+      record_date: '2026-08-11'
+      record_reference: https://www.youtube.com/watch?v=hz7jHEgYzQw
+      content_hash: sha256:1aa9d864c5a4bb930164c278d9624c6bc0f84278ea4b5e57594fae9e21e90858
+      friendly_name: null
+  - claim_id: 377f09e3-8abe-497b-9656-1a1291bdb73d
+    claim_hash: 2972345080a4c65c40299ddef576844a7ffc03f86ae5d97ce1458d076100ce3f
+    content: Robert Bigelow found out that Bill Clinton did not know about the UFO subject, and did not get a chance to tell
+      Lawrence Rockefeller.
+    original_excerpt: So I didn't have a chance to tell Lawrence that I had found out that Clinton didn't know.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 0d4dfba6-a53b-4f23-a2ad-e4c9bea44076
+      title: Robert Bigelow
+    provenance_chain:
+      origin_kind: speaker
+      origin: Robert Bigelow
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 0d4dfba6-a53b-4f23-a2ad-e4c9bea44076
+        title: Robert Bigelow
+        slug: robert-bigelow
+      - node_id: 459eb5cf-ea76-4cad-9421-a726261cd3a2
+        title: Bill Clinton
+        slug: bill-clinton
+      - node_id: 6822269f-d874-409b-b8f9-8ccaf3ac5947
+        title: Lawrence Rockefeller
+        slug: lawrence-rockefeller
+    date: null
+    date_end: null
+    location_in_record: 00:06:22.7-00:06:29.6
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 5de4e296-4206-45f6-aa56-c3b8efb5c9e2
+      record_title: The Evolution of AAWSAP | Bigelow Podcast, Ep. 2
+      record_date: '2026-08-11'
+      record_reference: https://www.youtube.com/watch?v=hz7jHEgYzQw
+      content_hash: sha256:1aa9d864c5a4bb930164c278d9624c6bc0f84278ea4b5e57594fae9e21e90858
+      friendly_name: null
+  - claim_id: f3dfaea3-0951-4315-ae7f-2bc8a56679c3
+    claim_hash: ba61a54dff231dc6798501197447cffe96fb81560638c7a409889fb666dc8510
+    content: Lawrence Rockefeller was under the impression that Bill Clinton did know about UFOs and had been read in, and
+      intended to convince him to admit it and participate in starting the disclosure process.
+    original_excerpt: No, that he did know. He was read in. And he was going to try to convince him to confess, to admit,
+      to participate in the disclosure process.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 0d4dfba6-a53b-4f23-a2ad-e4c9bea44076
+      title: Robert Bigelow
+    provenance_chain:
+      origin_kind: speaker
+      origin: Robert Bigelow
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 459eb5cf-ea76-4cad-9421-a726261cd3a2
+        title: Bill Clinton
+        slug: bill-clinton
+      - node_id: 6822269f-d874-409b-b8f9-8ccaf3ac5947
+        title: Lawrence Rockefeller
+        slug: lawrence-rockefeller
+      - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
+        title: Unidentified Flying Object (UFO)
+        slug: unidentified-flying-object-ufo
+    date: null
+    date_end: null
+    location_in_record: 00:06:34.3-00:06:47.8
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 5de4e296-4206-45f6-aa56-c3b8efb5c9e2
+      record_title: The Evolution of AAWSAP | Bigelow Podcast, Ep. 2
+      record_date: '2026-08-11'
+      record_reference: https://www.youtube.com/watch?v=hz7jHEgYzQw
+      content_hash: sha256:1aa9d864c5a4bb930164c278d9624c6bc0f84278ea4b5e57594fae9e21e90858
+      friendly_name: null

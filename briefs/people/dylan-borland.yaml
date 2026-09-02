@@ -1,0 +1,1895 @@
+schema: anomalica/brief/1
+brief_hash: 2de3e75129cb55c573afec0a546ea72045969bef3b0623416f8c546c03ff3fbe
+page:
+  kind: entity
+  node_id: c442597b-8900-4212-98ee-ba7b29d985e2
+  node_type: person
+  title: Dylan Borland
+  slug: dylan-borland
+  claim_count: 48
+  claim_count_total: 48
+generated:
+  graph_version: '2026-09-01T10:10:49.863545+00:00'
+size:
+  claims: 48
+  tokens_estimated: 14094
+  sized_against: 1050000
+publication:
+  status: published
+  note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
+    transcripts are gated elsewhere.
+belonging:
+  verified: 0
+  suspect_excluded: 0
+  unreviewed: 48
+related_nodes:
+  - node_id: f8f7643c-fe27-4547-8761-440b36e78097
+    title: Office of the Intelligence Community Inspector General (ICIG)
+    node_type: organisation
+    slug: office-of-the-intelligence-community-inspector-general-icig
+    shared_claims: 10
+  - node_id: e79e207c-a848-4eb7-9246-07587b20d2c1
+    title: All-domain Anomaly Resolution Office (AARO)
+    node_type: organisation
+    slug: all-domain-anomaly-resolution-office-aaro
+    shared_claims: 5
+  - node_id: 32b98a17-be55-4b0f-8e10-9d377e1e8b33
+    title: United States Air Force (USAF)
+    node_type: organisation
+    slug: united-states-air-force-usaf
+    shared_claims: 4
+  - node_id: 8625ca77-9860-40fe-b2fe-6ee74f1b5174
+    title: Jeremy Corbell
+    node_type: person
+    slug: jeremy-corbell
+    shared_claims: 3
+  - node_id: cc1417b9-bab3-42ad-a0e9-d54d20cea3e1
+    title: Unidentified Aerial Phenomena (UAP) legacy crash retrieval program
+    node_type: project
+    slug: unidentified-aerial-phenomena-uap-legacy-crash-retrieval-program
+    shared_claims: 3
+  - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
+    title: Unidentified Anomalous Phenomena (UAP)
+    node_type: topic
+    slug: unidentified-anomalous-phenomena-uap
+    shared_claims: 3
+  - node_id: 4fb65b2c-296a-493d-bbc7-65e4b763c1f0
+    title: United States Congress
+    node_type: organisation
+    slug: united-states-congress
+    shared_claims: 3
+  - node_id: 0017e9ea-ba2f-4c15-9767-6f5a0f4035a0
+    title: BAE Systems
+    node_type: organisation
+    slug: bae-systems
+    shared_claims: 2
+  - node_id: 20328e3c-bc7e-4529-82d9-3e7b5bcac165
+    title: Director's Initiatives Group (DIG)
+    node_type: project
+    slug: directors-initiatives-group-dig
+    shared_claims: 2
+  - node_id: 205540f7-ac1b-461f-b768-24ea2cb5ff6a
+    title: Dylan Borland's 2012 Langley Air Force Base triangular craft sighting
+    node_type: event
+    slug: dylan-borlands-2012-langley-air-force-base-triangular-craft-sighting
+    shared_claims: 2
+  - node_id: c52fd2ac-fa87-43e8-8a8b-1bbd33ef6a28
+    title: Office of the Director of National Intelligence (ODNI)
+    node_type: organisation
+    slug: office-of-the-director-of-national-intelligence-odni
+    shared_claims: 2
+  - node_id: fea98a3b-1031-4ada-8bfe-a57d326562f3
+    title: USA, Virginia, Langley Air Force Base
+    node_type: place
+    slug: virginia-langley-air-force-base-usa
+    shared_claims: 2
+  - node_id: d4241f5a-1063-4970-ba02-5a391c02d96d
+    title: David Charles Grusch
+    node_type: person
+    slug: david-charles-grusch
+    shared_claims: 1
+  - node_id: b160ba45-38c5-496c-9b09-d5ebfc9129be
+    title: Department of Veterans Affairs
+    node_type: organisation
+    slug: department-of-veterans-affairs
+    shared_claims: 1
+  - node_id: 66f63ead-f9d1-4db0-b38f-d804112bf6ed
+    title: Global War on Terror (GWOT)
+    node_type: event
+    slug: global-war-on-terror-gwot
+    shared_claims: 1
+  - node_id: ecac5bc0-0d3e-4c09-b68b-db4a1cdb5243
+    title: Intrepid Solutions
+    node_type: organisation
+    slug: intrepid-solutions
+    shared_claims: 1
+  - node_id: d2bf856f-7bf6-4c72-b85c-b76c86b3f464
+    title: Intrepid Solutions and Services
+    node_type: organisation
+    slug: intrepid-solutions-and-services
+    shared_claims: 1
+  - node_id: a7726ea1-8d0d-4d27-bdba-be309f70fea1
+    title: Liberation Times
+    node_type: organisation
+    slug: liberation-times
+    shared_claims: 1
+  - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
+    title: Unidentified Flying Object (UFO)
+    node_type: topic
+    slug: unidentified-flying-object-ufo
+    shared_claims: 1
+  - node_id: 99f08514-5471-4eaf-bce3-46c474a8d304
+    title: United States Department of Defense (DoD)
+    node_type: organisation
+    slug: united-states-department-of-defense-dod
+    shared_claims: 1
+  - node_id: 8e712eef-a771-43c3-afba-5ed1940a8ba3
+    title: United States House of Representatives Task Force on Unidentified Aerial Phenomena (UAP)
+    node_type: organisation
+    slug: united-states-house-of-representatives-task-force-on-unidentified-aerial-phenomena-uap
+    shared_claims: 1
+  - node_id: d533d5f1-774a-486d-a688-23033b701562
+    title: United States Intelligence Community
+    node_type: organisation
+    slug: united-states-intelligence-community
+    shared_claims: 1
+claims:
+  - claim_id: b1963836-4946-457e-a421-da01c35a55b7
+    claim_hash: 58c4574650c461f7b82b83250b00003dea62f147489d20872494e125ce1d067f
+    content: Craft and technologies described as UFO or UAP are reportedly operating without United States Congressional oversight.
+    original_excerpt: craft and technologies (commonly known as UFO or UAP) that are not ours and that are reportedly operating
+      without Congressional oversight
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: c442597b-8900-4212-98ee-ba7b29d985e2
+      title: Dylan Borland
+    provenance_chain:
+      origin_kind: speaker
+      origin: Dylan Borland
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
+        title: Unidentified Anomalous Phenomena (UAP)
+        slug: unidentified-anomalous-phenomena-uap
+      - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
+        title: Unidentified Flying Object (UFO)
+        slug: unidentified-flying-object-ufo
+    date: null
+    date_end: null
+    location_in_record: char:1024-1152
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 436beece-1988-40bb-98c1-bb9f5b03b9ed
+      record_title: Whistleblower Statement for the House of Representatives Task Force
+      record_date: null
+      record_reference: https://oversight.house.gov/wp-content/uploads/2025/09/Borland-Written-Testimony.pdf
+      content_hash: sha256:27fb5ef596051cc5a1e1462684ce5afa772419b21970ef37bab2f9f27e305bc5
+      friendly_name: null
+  - claim_id: 87188e9a-51ab-413c-be6c-5ab2800a420a
+    claim_hash: 942696166a4da7132a5d1ea37122498a88fb79cffbc873fabd6eefa5fdee8d76
+    content: Dylan Borland's professional career was deliberately obstructed because of his direct knowledge of the reality
+      of certain legacy UAP programmes.
+    original_excerpt: Because of my direct knowledge of the reality of certain legacy UAP programs, my professional career
+      was deliberately obstructed
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: c442597b-8900-4212-98ee-ba7b29d985e2
+      title: Dylan Borland
+    provenance_chain:
+      origin_kind: speaker
+      origin: Dylan Borland
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
+        title: Unidentified Anomalous Phenomena (UAP)
+        slug: unidentified-anomalous-phenomena-uap
+      - node_id: c442597b-8900-4212-98ee-ba7b29d985e2
+        title: Dylan Borland
+        slug: dylan-borland
+    date: null
+    date_end: null
+    location_in_record: char:1163-1281
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 436beece-1988-40bb-98c1-bb9f5b03b9ed
+      record_title: Whistleblower Statement for the House of Representatives Task Force
+      record_date: null
+      record_reference: https://oversight.house.gov/wp-content/uploads/2025/09/Borland-Written-Testimony.pdf
+      content_hash: sha256:27fb5ef596051cc5a1e1462684ce5afa772419b21970ef37bab2f9f27e305bc5
+      friendly_name: null
+  - claim_id: 72f1c683-f0db-4583-8549-3ff0027bf3b1
+    claim_hash: 7b69654528e8159ddca46cd7087092586bc6ae336904301a406a2def373e7fc4
+    content: Dylan Borland has endured sustained reprisals from government agencies for more than a decade.
+    original_excerpt: I have endured sustained reprisals from government agencies for more than a decade
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: c442597b-8900-4212-98ee-ba7b29d985e2
+      title: Dylan Borland
+    provenance_chain:
+      origin_kind: speaker
+      origin: Dylan Borland
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: c442597b-8900-4212-98ee-ba7b29d985e2
+        title: Dylan Borland
+        slug: dylan-borland
+    date: null
+    date_end: null
+    location_in_record: char:1297-1373
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 436beece-1988-40bb-98c1-bb9f5b03b9ed
+      record_title: Whistleblower Statement for the House of Representatives Task Force
+      record_date: null
+      record_reference: https://oversight.house.gov/wp-content/uploads/2025/09/Borland-Written-Testimony.pdf
+      content_hash: sha256:27fb5ef596051cc5a1e1462684ce5afa772419b21970ef37bab2f9f27e305bc5
+      friendly_name: null
+  - claim_id: c4ab3d14-0248-43b4-af41-5d8dad1d2721
+    claim_hash: 33c7fc8ecaa97d019578053807060bc36dbf4e7f48522b59f1a5d072a10df6e0
+    content: From 2011 through 2013, Dylan Borland was stationed at Langley Air Force Base, Virginia, conducting twenty-four-hour
+      operations via Manned and Unmanned Aerial Vehicles (UAV) for Special Operations Forces (SOF) in support of the Global
+      War on Terror.
+    original_excerpt: From 2011 through 2013, I was stationed at Langley Air Force Base, Virginia conducting twenty-four-hour
+      operations via Manned and Unmanned Aerial Vehicles (UAV) for Special Operations Forces (SOF) for the Global War on Terror
+      (GWOT)
+    claim_type: administrative
+    attestation: first_hand
+    speaker:
+      node_id: c442597b-8900-4212-98ee-ba7b29d985e2
+      title: Dylan Borland
+    provenance_chain:
+      origin_kind: speaker
+      origin: Dylan Borland
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 66f63ead-f9d1-4db0-b38f-d804112bf6ed
+        title: Global War on Terror (GWOT)
+        slug: global-war-on-terror-gwot
+      - node_id: c442597b-8900-4212-98ee-ba7b29d985e2
+        title: Dylan Borland
+        slug: dylan-borland
+      - node_id: fea98a3b-1031-4ada-8bfe-a57d326562f3
+        title: USA, Virginia, Langley Air Force Base
+        slug: virginia-langley-air-force-base-usa
+    date: '2011'
+    date_end: null
+    location_in_record: char:1382-1609
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 436beece-1988-40bb-98c1-bb9f5b03b9ed
+      record_title: Whistleblower Statement for the House of Representatives Task Force
+      record_date: null
+      record_reference: https://oversight.house.gov/wp-content/uploads/2025/09/Borland-Written-Testimony.pdf
+      content_hash: sha256:27fb5ef596051cc5a1e1462684ce5afa772419b21970ef37bab2f9f27e305bc5
+      friendly_name: null
+  - claim_id: 0d5cf6b7-52f4-46da-bc56-24e45165a73c
+    claim_hash: a715f7c3f354f83fccb632ba405ed30cc7d940e4d06083dc023c27ec02c07304
+    content: During the summer of 2012, at approximately 01:30, Dylan Borland saw an approximately 30-metre-long equilateral
+      triangular craft fly from near the NASA hangar at Langley Air Force Base and come within approximately 30 metres of
+      where he was standing.
+    original_excerpt: During the summer of 2012, my team was on standby for weather and I returned to my barracks on base.
+      At approximately 0130 I saw an approximately 100-foot-long equilateral triangle fly from near the NASA hangar on base
+      and come within one hundred feet of where I was standing.
+    claim_type: observation
+    attestation: first_hand
+    speaker:
+      node_id: c442597b-8900-4212-98ee-ba7b29d985e2
+      title: Dylan Borland
+    provenance_chain:
+      origin_kind: speaker
+      origin: Dylan Borland
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 205540f7-ac1b-461f-b768-24ea2cb5ff6a
+        title: Dylan Borland's 2012 Langley Air Force Base triangular craft sighting
+        slug: dylan-borlands-2012-langley-air-force-base-triangular-craft-sighting
+      - node_id: c442597b-8900-4212-98ee-ba7b29d985e2
+        title: Dylan Borland
+        slug: dylan-borland
+      - node_id: fea98a3b-1031-4ada-8bfe-a57d326562f3
+        title: USA, Virginia, Langley Air Force Base
+        slug: virginia-langley-air-force-base-usa
+    date: 2012-06
+    date_end: null
+    location_in_record: char:1616-1883
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 436beece-1988-40bb-98c1-bb9f5b03b9ed
+      record_title: Whistleblower Statement for the House of Representatives Task Force
+      record_date: null
+      record_reference: https://oversight.house.gov/wp-content/uploads/2025/09/Borland-Written-Testimony.pdf
+      content_hash: sha256:27fb5ef596051cc5a1e1462684ce5afa772419b21970ef37bab2f9f27e305bc5
+      friendly_name: null
+  - claim_id: c8f4c12c-ea0b-4695-9569-6522b9ee4c34
+    claim_hash: 71037bacec7dd7115ca6f24dc8af7ce9509c0bda28f049de0e908230f7f0957d
+    content: The triangular craft Dylan Borland observed at Langley Air Force Base in 2012 interfered with his telephone.
+    original_excerpt: This craft interfered with my telephone
+    claim_type: observation
+    attestation: first_hand
+    speaker:
+      node_id: c442597b-8900-4212-98ee-ba7b29d985e2
+      title: Dylan Borland
+    provenance_chain:
+      origin_kind: speaker
+      origin: Dylan Borland
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 205540f7-ac1b-461f-b768-24ea2cb5ff6a
+        title: Dylan Borland's 2012 Langley Air Force Base triangular craft sighting
+        slug: dylan-borlands-2012-langley-air-force-base-triangular-craft-sighting
+    date: 2012-06
+    date_end: null
+    location_in_record: char:1893-1923
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 436beece-1988-40bb-98c1-bb9f5b03b9ed
+      record_title: Whistleblower Statement for the House of Representatives Task Force
+      record_date: null
+      record_reference: https://oversight.house.gov/wp-content/uploads/2025/09/Borland-Written-Testimony.pdf
+      content_hash: sha256:27fb5ef596051cc5a1e1462684ce5afa772419b21970ef37bab2f9f27e305bc5
+      friendly_name: null
+  - claim_id: 8c4de97e-6ac0-495b-b795-68c604dabfcc
+    claim_hash: 4185e49cb74a9ab0ddd9e4e7c6e6468838ee52418a1e692fc8c076238b7f1876
+    content: The triangular craft Dylan Borland observed at Langley Air Force Base in 2012 did not have any sound.
+    original_excerpt: did not have any sound
+    claim_type: observation
+    attestation: first_hand
+    speaker:
+      node_id: c442597b-8900-4212-98ee-ba7b29d985e2
+      title: Dylan Borland
+    provenance_chain:
+      origin_kind: speaker
+      origin: Dylan Borland
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 205540f7-ac1b-461f-b768-24ea2cb5ff6a
+        title: Dylan Borland's 2012 Langley Air Force Base triangular craft sighting
+        slug: dylan-borlands-2012-langley-air-force-base-triangular-craft-sighting
+    date: 2012-06
+    date_end: null
+    location_in_record: char:1934-1951
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 436beece-1988-40bb-98c1-bb9f5b03b9ed
+      record_title: Whistleblower Statement for the House of Representatives Task Force
+      record_date: null
+      record_reference: https://oversight.house.gov/wp-content/uploads/2025/09/Borland-Written-Testimony.pdf
+      content_hash: sha256:27fb5ef596051cc5a1e1462684ce5afa772419b21970ef37bab2f9f27e305bc5
+      friendly_name: null
+  - claim_id: 406c1577-e0d9-44ed-a928-825a95f1abc5
+    claim_hash: 20e9e71a7f22533bb751a733a9c2422344b0ebb2c78e57237ab4afca4c998df9
+    content: The material of the triangular craft Dylan Borland observed at Langley Air Force Base in 2012 appeared fluid
+      or dynamic.
+    original_excerpt: the material it was made of appeared fluid or dynamic
+    claim_type: observation
+    attestation: first_hand
+    speaker:
+      node_id: c442597b-8900-4212-98ee-ba7b29d985e2
+      title: Dylan Borland
+    provenance_chain:
+      origin_kind: speaker
+      origin: Dylan Borland
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 205540f7-ac1b-461f-b768-24ea2cb5ff6a
+        title: Dylan Borland's 2012 Langley Air Force Base triangular craft sighting
+        slug: dylan-borlands-2012-langley-air-force-base-triangular-craft-sighting
+    date: 2012-06
+    date_end: null
+    location_in_record: char:1962-2008
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 436beece-1988-40bb-98c1-bb9f5b03b9ed
+      record_title: Whistleblower Statement for the House of Representatives Task Force
+      record_date: null
+      record_reference: https://oversight.house.gov/wp-content/uploads/2025/09/Borland-Written-Testimony.pdf
+      content_hash: sha256:27fb5ef596051cc5a1e1462684ce5afa772419b21970ef37bab2f9f27e305bc5
+      friendly_name: null
+  - claim_id: e9d6f209-463b-4c3c-abea-b4870d9dcf8d
+    claim_hash: a893b53e57f02a91bf841c42cc3415ec075390a17fce0ecd61c488c71cf90903
+    content: Dylan Borland was under the triangular craft at Langley Air Force Base for a few minutes before it rapidly ascended
+      to commercial jet altitude in seconds.
+    original_excerpt: I was under this triangular craft for a few minutes, and then it rapidly ascended to commercial jet
+      level in seconds.
+    claim_type: observation
+    attestation: first_hand
+    speaker:
+      node_id: c442597b-8900-4212-98ee-ba7b29d985e2
+      title: Dylan Borland
+    provenance_chain:
+      origin_kind: speaker
+      origin: Dylan Borland
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 205540f7-ac1b-461f-b768-24ea2cb5ff6a
+        title: Dylan Borland's 2012 Langley Air Force Base triangular craft sighting
+        slug: dylan-borlands-2012-langley-air-force-base-triangular-craft-sighting
+      - node_id: c442597b-8900-4212-98ee-ba7b29d985e2
+        title: Dylan Borland
+        slug: dylan-borland
+    date: 2012-06
+    date_end: null
+    location_in_record: char:2017-2126
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 436beece-1988-40bb-98c1-bb9f5b03b9ed
+      record_title: Whistleblower Statement for the House of Representatives Task Force
+      record_date: null
+      record_reference: https://oversight.house.gov/wp-content/uploads/2025/09/Borland-Written-Testimony.pdf
+      content_hash: sha256:27fb5ef596051cc5a1e1462684ce5afa772419b21970ef37bab2f9f27e305bc5
+      friendly_name: null
+  - claim_id: e82aaf08-5e33-4912-9690-70684c217ce8
+    claim_hash: 23e03ef309d9d1610bd20dba0200ce5e633fef82e5bcd8c53fc05c6dbdee609a
+    content: The triangular craft Dylan Borland observed at Langley Air Force Base in 2012 displayed zero kinetic disturbance,
+      sound, or wind displacement during its rapid ascent.
+    original_excerpt: It displayed zero kinetic disturbance, sound, or wind displacement.
+    claim_type: observation
+    attestation: first_hand
+    speaker:
+      node_id: c442597b-8900-4212-98ee-ba7b29d985e2
+      title: Dylan Borland
+    provenance_chain:
+      origin_kind: speaker
+      origin: Dylan Borland
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 205540f7-ac1b-461f-b768-24ea2cb5ff6a
+        title: Dylan Borland's 2012 Langley Air Force Base triangular craft sighting
+        slug: dylan-borlands-2012-langley-air-force-base-triangular-craft-sighting
+    date: 2012-06
+    date_end: null
+    location_in_record: char:2135-2189
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 436beece-1988-40bb-98c1-bb9f5b03b9ed
+      record_title: Whistleblower Statement for the House of Representatives Task Force
+      record_date: null
+      record_reference: https://oversight.house.gov/wp-content/uploads/2025/09/Borland-Written-Testimony.pdf
+      content_hash: sha256:27fb5ef596051cc5a1e1462684ce5afa772419b21970ef37bab2f9f27e305bc5
+      friendly_name: null
+  - claim_id: b92efa31-6eea-45b8-bd43-146da7cc2992
+    claim_hash: 6656671066ad326147fcbb4a8d4f00500b79c2c9352d29ced41b23886e6dc7df
+    content: Some years after his 2012 triangular craft sighting, Dylan Borland was exposed to classified information from
+      the UAP legacy crash retrieval program through a sensitive position he held within a Special Access Program (SAP).
+    original_excerpt: Some years after that experience, I was further exposed to classified information from the UAP legacy
+      crash retrieval program through a sensitive position I held within a Special Access Program (SAP).
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: c442597b-8900-4212-98ee-ba7b29d985e2
+      title: Dylan Borland
+    provenance_chain:
+      origin_kind: speaker
+      origin: Dylan Borland
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: c442597b-8900-4212-98ee-ba7b29d985e2
+        title: Dylan Borland
+        slug: dylan-borland
+      - node_id: cc1417b9-bab3-42ad-a0e9-d54d20cea3e1
+        title: Unidentified Aerial Phenomena (UAP) legacy crash retrieval program
+        slug: unidentified-aerial-phenomena-uap-legacy-crash-retrieval-program
+    date: null
+    date_end: null
+    location_in_record: char:2204-2399
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 436beece-1988-40bb-98c1-bb9f5b03b9ed
+      record_title: Whistleblower Statement for the House of Representatives Task Force
+      record_date: null
+      record_reference: https://oversight.house.gov/wp-content/uploads/2025/09/Borland-Written-Testimony.pdf
+      content_hash: sha256:27fb5ef596051cc5a1e1462684ce5afa772419b21970ef37bab2f9f27e305bc5
+      friendly_name: null
+  - claim_id: b162dac3-7427-4e89-818e-f602f3b27730
+    claim_hash: 8929841a661cda0d6d70dff1d340fe55f462bb5ace2187c2b4ad69143706139a
+    content: Intelligence officers approached Dylan Borland in fear for their own careers, citing misconduct within the UAP
+      legacy crash retrieval program and the same retaliation he was already enduring.
+    original_excerpt: During this time, intelligence officers approached me in fear for their own careers, citing misconduct
+      within these programs and the same retaliation I was already enduring.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: c442597b-8900-4212-98ee-ba7b29d985e2
+      title: Dylan Borland
+    provenance_chain:
+      origin_kind: speaker
+      origin: Dylan Borland
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: c442597b-8900-4212-98ee-ba7b29d985e2
+        title: Dylan Borland
+        slug: dylan-borland
+      - node_id: cc1417b9-bab3-42ad-a0e9-d54d20cea3e1
+        title: Unidentified Aerial Phenomena (UAP) legacy crash retrieval program
+        slug: unidentified-aerial-phenomena-uap-legacy-crash-retrieval-program
+    date: null
+    date_end: null
+    location_in_record: char:2405-2569
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 436beece-1988-40bb-98c1-bb9f5b03b9ed
+      record_title: Whistleblower Statement for the House of Representatives Task Force
+      record_date: null
+      record_reference: https://oversight.house.gov/wp-content/uploads/2025/09/Borland-Written-Testimony.pdf
+      content_hash: sha256:27fb5ef596051cc5a1e1462684ce5afa772419b21970ef37bab2f9f27e305bc5
+      friendly_name: null
+  - claim_id: fb2d997f-81c4-4f87-92e9-2fa762f2f621
+    claim_hash: 32fbe1d1147934c5ca95fb472b6720c02f73ac6ed9b727461dff307408f48c64
+    content: Dylan Borland experienced medical malpractice by United States Department of Veterans Affairs staff.
+    original_excerpt: These issues included medical malpractice by Veterans Affairs staff
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: c442597b-8900-4212-98ee-ba7b29d985e2
+      title: Dylan Borland
+    provenance_chain:
+      origin_kind: speaker
+      origin: Dylan Borland
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: b160ba45-38c5-496c-9b09-d5ebfc9129be
+        title: Department of Veterans Affairs
+        slug: department-of-veterans-affairs
+      - node_id: c442597b-8900-4212-98ee-ba7b29d985e2
+        title: Dylan Borland
+        slug: dylan-borland
+    date: null
+    date_end: null
+    location_in_record: char:2580-2642
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 436beece-1988-40bb-98c1-bb9f5b03b9ed
+      record_title: Whistleblower Statement for the House of Representatives Task Force
+      record_date: null
+      record_reference: https://oversight.house.gov/wp-content/uploads/2025/09/Borland-Written-Testimony.pdf
+      content_hash: sha256:27fb5ef596051cc5a1e1462684ce5afa772419b21970ef37bab2f9f27e305bc5
+      friendly_name: null
+  - claim_id: e7c44ca2-6f85-4c59-9176-c6d0828ead05
+    claim_hash: 60d52857e5dc0c7704763e307411c227e5fec949176b540f7fa4caadcd7485d4
+    content: Work Dylan Borland performed while enlisted in the United States Air Force was denied.
+    original_excerpt: denial of work I performed while enlisted in the U.S. Air Force
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: c442597b-8900-4212-98ee-ba7b29d985e2
+      title: Dylan Borland
+    provenance_chain:
+      origin_kind: speaker
+      origin: Dylan Borland
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 32b98a17-be55-4b0f-8e10-9d377e1e8b33
+        title: United States Air Force (USAF)
+        slug: united-states-air-force-usaf
+      - node_id: c442597b-8900-4212-98ee-ba7b29d985e2
+        title: Dylan Borland
+        slug: dylan-borland
+    date: null
+    date_end: null
+    location_in_record: char:2649-2707
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 436beece-1988-40bb-98c1-bb9f5b03b9ed
+      record_title: Whistleblower Statement for the House of Representatives Task Force
+      record_date: null
+      record_reference: https://oversight.house.gov/wp-content/uploads/2025/09/Borland-Written-Testimony.pdf
+      content_hash: sha256:27fb5ef596051cc5a1e1462684ce5afa772419b21970ef37bab2f9f27e305bc5
+      friendly_name: null
+  - claim_id: 26b091ca-f076-45b1-832f-d49decfee873
+    claim_hash: eb17c9ff23bf3988b7e863e6eb6cdf1fdd2138042a09fcbbf7d0fdd0a4080d4a
+    content: Dylan Borland's employment documents were forged and manipulated.
+    original_excerpt: forged and manipulated employment documents
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: c442597b-8900-4212-98ee-ba7b29d985e2
+      title: Dylan Borland
+    provenance_chain:
+      origin_kind: speaker
+      origin: Dylan Borland
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: c442597b-8900-4212-98ee-ba7b29d985e2
+        title: Dylan Borland
+        slug: dylan-borland
+    date: null
+    date_end: null
+    location_in_record: char:2714-2748
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 436beece-1988-40bb-98c1-bb9f5b03b9ed
+      record_title: Whistleblower Statement for the House of Representatives Task Force
+      record_date: null
+      record_reference: https://oversight.house.gov/wp-content/uploads/2025/09/Borland-Written-Testimony.pdf
+      content_hash: sha256:27fb5ef596051cc5a1e1462684ce5afa772419b21970ef37bab2f9f27e305bc5
+      friendly_name: null
+  - claim_id: 07448809-f01c-4a6d-a2b2-edce6a619e9b
+    claim_hash: 82ef5a9eadb22ad1eb60f6f89cc0b381a3a3dc891b07f7705658c0e9bd86d3f3
+    content: Dylan Borland experienced workplace harassment, including colleagues being directed not to speak with him.
+    original_excerpt: workplace harassment, including colleagues being directed not to speak with me
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: c442597b-8900-4212-98ee-ba7b29d985e2
+      title: Dylan Borland
+    provenance_chain:
+      origin_kind: speaker
+      origin: Dylan Borland
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: c442597b-8900-4212-98ee-ba7b29d985e2
+        title: Dylan Borland
+        slug: dylan-borland
+    date: null
+    date_end: null
+    location_in_record: char:2759-2835
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 436beece-1988-40bb-98c1-bb9f5b03b9ed
+      record_title: Whistleblower Statement for the House of Representatives Task Force
+      record_date: null
+      record_reference: https://oversight.house.gov/wp-content/uploads/2025/09/Borland-Written-Testimony.pdf
+      content_hash: sha256:27fb5ef596051cc5a1e1462684ce5afa772419b21970ef37bab2f9f27e305bc5
+      friendly_name: null
+  - claim_id: 9fdc332d-f9b7-4720-8c79-f9549c92d20c
+    claim_hash: dcbd59326a1903c9f5eabded19e56d8977a199e6cd515d901ed47f5205ab0e18
+    content: Certain agencies manipulated Dylan Borland's security clearance records to block or delay his access to classified
+      employment.
+    original_excerpt: the manipulation of my security clearance records by certain agencies to block or delay my access to
+      classified employment
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: c442597b-8900-4212-98ee-ba7b29d985e2
+      title: Dylan Borland
+    provenance_chain:
+      origin_kind: speaker
+      origin: Dylan Borland
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: c442597b-8900-4212-98ee-ba7b29d985e2
+        title: Dylan Borland
+        slug: dylan-borland
+    date: null
+    date_end: null
+    location_in_record: char:2843-2955
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 436beece-1988-40bb-98c1-bb9f5b03b9ed
+      record_title: Whistleblower Statement for the House of Representatives Task Force
+      record_date: null
+      record_reference: https://oversight.house.gov/wp-content/uploads/2025/09/Borland-Written-Testimony.pdf
+      content_hash: sha256:27fb5ef596051cc5a1e1462684ce5afa772419b21970ef37bab2f9f27e305bc5
+      friendly_name: null
+  - claim_id: 39b9017f-c02d-4d4f-aa5d-ac79a96e866a
+    claim_hash: 25356e9184fc39339ebd70d7f64da5202e8f1d86d10c5cd9dd44f141da63fd07
+    content: In March 2023, the retaliation Dylan Borland faced, and the retaliation against individuals he knew who worked
+      in the UAP legacy crash retrieval program, convinced him to become a whistleblower.
+    original_excerpt: The retaliation I faced, and the retaliation against individuals I know who worked in these programs,
+      is what convinced me in March of 2023 to become a whistleblower.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: c442597b-8900-4212-98ee-ba7b29d985e2
+      title: Dylan Borland
+    provenance_chain:
+      origin_kind: speaker
+      origin: Dylan Borland
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: c442597b-8900-4212-98ee-ba7b29d985e2
+        title: Dylan Borland
+        slug: dylan-borland
+      - node_id: cc1417b9-bab3-42ad-a0e9-d54d20cea3e1
+        title: Unidentified Aerial Phenomena (UAP) legacy crash retrieval program
+        slug: unidentified-aerial-phenomena-uap-legacy-crash-retrieval-program
+    date: 2023-03
+    date_end: null
+    location_in_record: char:2968-3120
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 436beece-1988-40bb-98c1-bb9f5b03b9ed
+      record_title: Whistleblower Statement for the House of Representatives Task Force
+      record_date: null
+      record_reference: https://oversight.house.gov/wp-content/uploads/2025/09/Borland-Written-Testimony.pdf
+      content_hash: sha256:27fb5ef596051cc5a1e1462684ce5afa772419b21970ef37bab2f9f27e305bc5
+      friendly_name: null
+  - claim_id: 0a60d5f7-fd41-484c-a89c-15a2123a21b0
+    claim_hash: 41e9ed527541db630351651daee6c44aac3fe1df4c804c1fbb1305c7206cf2f7
+    content: Dylan Borland came forward as a whistleblower out of concern for people's lives and to ensure elected representatives
+      knew the truth about what is happening within the executive branch.
+    original_excerpt: I came forward out of concern for people's lives and to ensure I did everything I could to let our elected
+      representatives know the truth about what is really happening within the executive branch.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: c442597b-8900-4212-98ee-ba7b29d985e2
+      title: Dylan Borland
+    provenance_chain:
+      origin_kind: speaker
+      origin: Dylan Borland
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: c442597b-8900-4212-98ee-ba7b29d985e2
+        title: Dylan Borland
+        slug: dylan-borland
+    date: null
+    date_end: null
+    location_in_record: char:3135-3325
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 436beece-1988-40bb-98c1-bb9f5b03b9ed
+      record_title: Whistleblower Statement for the House of Representatives Task Force
+      record_date: null
+      record_reference: https://oversight.house.gov/wp-content/uploads/2025/09/Borland-Written-Testimony.pdf
+      content_hash: sha256:27fb5ef596051cc5a1e1462684ce5afa772419b21970ef37bab2f9f27e305bc5
+      friendly_name: null
+  - claim_id: 7c5ea02f-2555-453e-a570-a6d6e9accd08
+    claim_hash: 3b7409d20e5ecd0da6df6677b5032774137449084f4e960055fac09f9c0c0952
+    content: At the end of March 2023, Dylan Borland agreed to meet with the All-Domain Anomaly Resolution Office (AARO),
+      following the suggestion of other federal officials.
+    original_excerpt: At the end of March 2023, I agreed to meet with AARO, following the suggestion of other federal officials,
+      believing it was what our nation required of me.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: c442597b-8900-4212-98ee-ba7b29d985e2
+      title: Dylan Borland
+    provenance_chain:
+      origin_kind: speaker
+      origin: Dylan Borland
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: c442597b-8900-4212-98ee-ba7b29d985e2
+        title: Dylan Borland
+        slug: dylan-borland
+      - node_id: e79e207c-a848-4eb7-9246-07587b20d2c1
+        title: All-domain Anomaly Resolution Office (AARO)
+        slug: all-domain-anomaly-resolution-office-aaro
+    date: 2023-03
+    date_end: null
+    location_in_record: char:3357-3509
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 436beece-1988-40bb-98c1-bb9f5b03b9ed
+      record_title: Whistleblower Statement for the House of Representatives Task Force
+      record_date: null
+      record_reference: https://oversight.house.gov/wp-content/uploads/2025/09/Borland-Written-Testimony.pdf
+      content_hash: sha256:27fb5ef596051cc5a1e1462684ce5afa772419b21970ef37bab2f9f27e305bc5
+      friendly_name: null
+  - claim_id: df8b20b3-638e-47b4-b1e4-0fdfc2866120
+    claim_hash: 2712160be7bdbfe31ff8adbca335ddeff4b480cc7a84aba51b0cee455552878a
+    content: Dylan Borland had reservations about the All-Domain Anomaly Resolution Office (AARO) due to assessments it was
+      reporting publicly at that time that he considered a misrepresentation of the truth.
+    original_excerpt: I had reservations about AARO due to assessments they were reporting publicly at that time as a "misrepresentation"
+      of the truth.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: c442597b-8900-4212-98ee-ba7b29d985e2
+      title: Dylan Borland
+    provenance_chain:
+      origin_kind: speaker
+      origin: Dylan Borland
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: c442597b-8900-4212-98ee-ba7b29d985e2
+        title: Dylan Borland
+        slug: dylan-borland
+      - node_id: e79e207c-a848-4eb7-9246-07587b20d2c1
+        title: All-domain Anomaly Resolution Office (AARO)
+        slug: all-domain-anomaly-resolution-office-aaro
+    date: null
+    date_end: null
+    location_in_record: char:3513-3636
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 436beece-1988-40bb-98c1-bb9f5b03b9ed
+      record_title: Whistleblower Statement for the House of Representatives Task Force
+      record_date: null
+      record_reference: https://oversight.house.gov/wp-content/uploads/2025/09/Borland-Written-Testimony.pdf
+      content_hash: sha256:27fb5ef596051cc5a1e1462684ce5afa772419b21970ef37bab2f9f27e305bc5
+      friendly_name: null
+  - claim_id: 1e4f3d1c-379c-436d-9a56-2d4598b7ae01
+    claim_hash: c4ea04a6b38dd08af8a44c26233a51e964cd43d921646fb287800815e57d06c4
+    content: Dylan Borland did not share sources and methods information with the All-Domain Anomaly Resolution Office (AARO)
+      in order to protect current and former federal personnel who had firsthand exposure to technologies of unknown origin.
+    original_excerpt: Because of these concerns, I did not share sources and methods information to protect current and former
+      federal personnel who had firsthand exposure to "technologies of unknown origin."
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: c442597b-8900-4212-98ee-ba7b29d985e2
+      title: Dylan Borland
+    provenance_chain:
+      origin_kind: speaker
+      origin: Dylan Borland
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: c442597b-8900-4212-98ee-ba7b29d985e2
+        title: Dylan Borland
+        slug: dylan-borland
+      - node_id: e79e207c-a848-4eb7-9246-07587b20d2c1
+        title: All-domain Anomaly Resolution Office (AARO)
+        slug: all-domain-anomaly-resolution-office-aaro
+    date: null
+    date_end: null
+    location_in_record: char:3643-3821
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 436beece-1988-40bb-98c1-bb9f5b03b9ed
+      record_title: Whistleblower Statement for the House of Representatives Task Force
+      record_date: null
+      record_reference: https://oversight.house.gov/wp-content/uploads/2025/09/Borland-Written-Testimony.pdf
+      content_hash: sha256:27fb5ef596051cc5a1e1462684ce5afa772419b21970ef37bab2f9f27e305bc5
+      friendly_name: null
+  - claim_id: 750da1a3-45fb-49f9-be7f-ae6285957f7b
+    claim_hash: a133046f78f75ceae606e5cd9677ede3845c46066978646691ccd466c3142c83
+    content: David Grusch testified under oath in the summer of 2023 and provided historic disclosure.
+    original_excerpt: After David Grusch testified under oath in the summer of 2023 and provided historic disclosure
+    claim_type: administrative
+    attestation: second_hand
+    speaker:
+      node_id: c442597b-8900-4212-98ee-ba7b29d985e2
+      title: Dylan Borland
+    provenance_chain:
+      origin_kind: named
+      origin: David Grusch
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: d4241f5a-1063-4970-ba02-5a391c02d96d
+        title: David Charles Grusch
+        slug: david-charles-grusch
+    date: '2023'
+    date_end: null
+    location_in_record: char:3919-4003
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 436beece-1988-40bb-98c1-bb9f5b03b9ed
+      record_title: Whistleblower Statement for the House of Representatives Task Force
+      record_date: null
+      record_reference: https://oversight.house.gov/wp-content/uploads/2025/09/Borland-Written-Testimony.pdf
+      content_hash: sha256:27fb5ef596051cc5a1e1462684ce5afa772419b21970ef37bab2f9f27e305bc5
+      friendly_name: null
+  - claim_id: 86b39734-c409-41e2-84c4-73d4715a7fda
+    claim_hash: 60096970476b938ba9819b1ddb1d9f2dd8e272334cba6b63c3d32234ad6bc601
+    content: After David Grusch's 2023 testimony, Dylan Borland was asked to go to the Intelligence Community Inspector General
+      (ICIG), and he did so in August 2023.
+    original_excerpt: I was then asked to go to the ICIG, and I did so in August 2023.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: c442597b-8900-4212-98ee-ba7b29d985e2
+      title: Dylan Borland
+    provenance_chain:
+      origin_kind: speaker
+      origin: Dylan Borland
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: c442597b-8900-4212-98ee-ba7b29d985e2
+        title: Dylan Borland
+        slug: dylan-borland
+      - node_id: d4241f5a-1063-4970-ba02-5a391c02d96d
+        title: David Charles Grusch
+        slug: david-charles-grusch
+      - node_id: f8f7643c-fe27-4547-8761-440b36e78097
+        title: Office of the Intelligence Community Inspector General (ICIG)
+        slug: office-of-the-intelligence-community-inspector-general-icig
+    date: 2023-08
+    date_end: null
+    location_in_record: char:4015-4074
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 436beece-1988-40bb-98c1-bb9f5b03b9ed
+      record_title: Whistleblower Statement for the House of Representatives Task Force
+      record_date: null
+      record_reference: https://oversight.house.gov/wp-content/uploads/2025/09/Borland-Written-Testimony.pdf
+      content_hash: sha256:27fb5ef596051cc5a1e1462684ce5afa772419b21970ef37bab2f9f27e305bc5
+      friendly_name: null
+  - claim_id: 28cfbac8-da20-4661-af64-6faa42c63ba2
+    claim_hash: 639ef6aa074b4da8b2e9f1688dada217df5302d5252de66d761b815acc78aa10
+    content: Dylan Borland's intake interview with the Intelligence Community Inspector General (ICIG) was video recorded
+      under oath.
+    original_excerpt: It was very clear early on during my intake interview, which was video recorded under oath
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: c442597b-8900-4212-98ee-ba7b29d985e2
+      title: Dylan Borland
+    provenance_chain:
+      origin_kind: speaker
+      origin: Dylan Borland
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: c442597b-8900-4212-98ee-ba7b29d985e2
+        title: Dylan Borland
+        slug: dylan-borland
+      - node_id: f8f7643c-fe27-4547-8761-440b36e78097
+        title: Office of the Intelligence Community Inspector General (ICIG)
+        slug: office-of-the-intelligence-community-inspector-general-icig
+    date: 2023-08
+    date_end: null
+    location_in_record: char:4080-4166
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 436beece-1988-40bb-98c1-bb9f5b03b9ed
+      record_title: Whistleblower Statement for the House of Representatives Task Force
+      record_date: null
+      record_reference: https://oversight.house.gov/wp-content/uploads/2025/09/Borland-Written-Testimony.pdf
+      content_hash: sha256:27fb5ef596051cc5a1e1462684ce5afa772419b21970ef37bab2f9f27e305bc5
+      friendly_name: null
+  - claim_id: ae2c67cf-f1a6-4b73-ab64-b19adc8d4696
+    claim_hash: b52fed2f5ab584a1d2196a09aadfadc0811211d7a0e24dc52632d3c4ccb13327
+    content: Dylan Borland assessed that the Intelligence Community Inspector General's (ICIG) objective in his intake interview
+      was solely to determine how much he knew, not to move forward with an investigation based on new information.
+    original_excerpt: their objective was solely to assess just how much I know, not to move forward with an investigation
+      based on new information
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: c442597b-8900-4212-98ee-ba7b29d985e2
+      title: Dylan Borland
+    provenance_chain:
+      origin_kind: speaker
+      origin: Dylan Borland
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: c442597b-8900-4212-98ee-ba7b29d985e2
+        title: Dylan Borland
+        slug: dylan-borland
+      - node_id: f8f7643c-fe27-4547-8761-440b36e78097
+        title: Office of the Intelligence Community Inspector General (ICIG)
+        slug: office-of-the-intelligence-community-inspector-general-icig
+    date: 2023-08
+    date_end: null
+    location_in_record: char:4177-4291
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 436beece-1988-40bb-98c1-bb9f5b03b9ed
+      record_title: Whistleblower Statement for the House of Representatives Task Force
+      record_date: null
+      record_reference: https://oversight.house.gov/wp-content/uploads/2025/09/Borland-Written-Testimony.pdf
+      content_hash: sha256:27fb5ef596051cc5a1e1462684ce5afa772419b21970ef37bab2f9f27e305bc5
+      friendly_name: null
+  - claim_id: b89a2e82-d48c-4ee8-a91d-db2959ed4a80
+    claim_hash: 4b9ea97bea1d463fe68134876c0edc10ee822b856bd1444a09886b7aa45e187d
+    content: Since his complaint to the Intelligence Community Inspector General (ICIG), Dylan Borland has been prevented
+      from resuming his prior employment and remains blacklisted from certain agencies within the United States Intelligence
+      Community.
+    original_excerpt: Since my ICIG complaint, I have been prevented from resuming my prior employment and can confirm I am
+      still blacklisted from certain agencies within the Intelligence Community.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: c442597b-8900-4212-98ee-ba7b29d985e2
+      title: Dylan Borland
+    provenance_chain:
+      origin_kind: speaker
+      origin: Dylan Borland
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: c442597b-8900-4212-98ee-ba7b29d985e2
+        title: Dylan Borland
+        slug: dylan-borland
+      - node_id: d533d5f1-774a-486d-a688-23033b701562
+        title: United States Intelligence Community
+        slug: united-states-intelligence-community
+      - node_id: f8f7643c-fe27-4547-8761-440b36e78097
+        title: Office of the Intelligence Community Inspector General (ICIG)
+        slug: office-of-the-intelligence-community-inspector-general-icig
+    date: null
+    date_end: null
+    location_in_record: char:4371-4537
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 436beece-1988-40bb-98c1-bb9f5b03b9ed
+      record_title: Whistleblower Statement for the House of Representatives Task Force
+      record_date: null
+      record_reference: https://oversight.house.gov/wp-content/uploads/2025/09/Borland-Written-Testimony.pdf
+      content_hash: sha256:27fb5ef596051cc5a1e1462684ce5afa772419b21970ef37bab2f9f27e305bc5
+      friendly_name: null
+  - claim_id: 3d41e24a-3fa9-42ed-9a61-1534e80a98cc
+    claim_hash: 5a53dc3db4729c2879473bdc7155b6dc50a65a028db4df53061cd42242a90008
+    content: Dylan Borland served as a "1N1" geospatial intelligence specialist for the United States Air Force in an active
+      duty enlisted capacity from 2010 to 2013.
+    original_excerpt: I am a former "1N1" geospatial intelligence specialist for the U.S. Air Force in an active duty enlisted
+      capacity from 2010 to 2013.
+    claim_type: administrative
+    attestation: first_hand
+    speaker:
+      node_id: c442597b-8900-4212-98ee-ba7b29d985e2
+      title: Dylan Borland
+    provenance_chain:
+      origin_kind: speaker
+      origin: Dylan Borland
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 32b98a17-be55-4b0f-8e10-9d377e1e8b33
+        title: United States Air Force (USAF)
+        slug: united-states-air-force-usaf
+      - node_id: c442597b-8900-4212-98ee-ba7b29d985e2
+        title: Dylan Borland
+        slug: dylan-borland
+    date: null
+    date_end: null
+    location_in_record: char:450-577
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 436beece-1988-40bb-98c1-bb9f5b03b9ed
+      record_title: Whistleblower Statement for the House of Representatives Task Force
+      record_date: null
+      record_reference: https://oversight.house.gov/wp-content/uploads/2025/09/Borland-Written-Testimony.pdf
+      content_hash: sha256:27fb5ef596051cc5a1e1462684ce5afa772419b21970ef37bab2f9f27e305bc5
+      friendly_name: null
+  - claim_id: 173e16a1-eb4c-467b-b9ab-56b741a31bf9
+    claim_hash: 373017e36919a51488602713677bc277dfec7bb570723a3e9cc1260c79bb9db1
+    content: Multiple agencies attempted phishing attacks against Dylan Borland to assess what he had divulged to the Intelligence
+      Community Inspector General (ICIG).
+    original_excerpt: multiple agencies attempted phishing attacks to assess what I had divulged to the Inspector General
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: c442597b-8900-4212-98ee-ba7b29d985e2
+      title: Dylan Borland
+    provenance_chain:
+      origin_kind: speaker
+      origin: Dylan Borland
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: c442597b-8900-4212-98ee-ba7b29d985e2
+        title: Dylan Borland
+        slug: dylan-borland
+      - node_id: f8f7643c-fe27-4547-8761-440b36e78097
+        title: Office of the Intelligence Community Inspector General (ICIG)
+        slug: office-of-the-intelligence-community-inspector-general-icig
+    date: null
+    date_end: null
+    location_in_record: char:4561-4653
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 436beece-1988-40bb-98c1-bb9f5b03b9ed
+      record_title: Whistleblower Statement for the House of Representatives Task Force
+      record_date: null
+      record_reference: https://oversight.house.gov/wp-content/uploads/2025/09/Borland-Written-Testimony.pdf
+      content_hash: sha256:27fb5ef596051cc5a1e1462684ce5afa772419b21970ef37bab2f9f27e305bc5
+      friendly_name: null
+  - claim_id: 013e88a4-a07a-4a32-89c4-45d4e7689246
+    claim_hash: c8c40f0d3995cdb4993cb63158ad506b5536efe87b3caecf64ac3e234b1cd390
+    content: In November 2024, Dylan Borland was asked to disclose details of his Intelligence Community Inspector General
+      (ICIG) complaint during a counterintelligence (CI) polygraph for a position entirely unrelated to UFO/UAP matters.
+    original_excerpt: including being asked to disclose details of my ICIG complaint during a CI polygraph for a position
+      entirely unrelated to UFO/UAP matters in November 2024
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: c442597b-8900-4212-98ee-ba7b29d985e2
+      title: Dylan Borland
+    provenance_chain:
+      origin_kind: speaker
+      origin: Dylan Borland
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: c442597b-8900-4212-98ee-ba7b29d985e2
+        title: Dylan Borland
+        slug: dylan-borland
+      - node_id: f8f7643c-fe27-4547-8761-440b36e78097
+        title: Office of the Intelligence Community Inspector General (ICIG)
+        slug: office-of-the-intelligence-community-inspector-general-icig
+    date: 2024-11
+    date_end: null
+    location_in_record: char:4662-4812
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 436beece-1988-40bb-98c1-bb9f5b03b9ed
+      record_title: Whistleblower Statement for the House of Representatives Task Force
+      record_date: null
+      record_reference: https://oversight.house.gov/wp-content/uploads/2025/09/Borland-Written-Testimony.pdf
+      content_hash: sha256:27fb5ef596051cc5a1e1462684ce5afa772419b21970ef37bab2f9f27e305bc5
+      friendly_name: null
+  - claim_id: 2718e0a5-20a6-4386-9f9d-4401387c6d0b
+    claim_hash: 7098c163b8eda13affa83db4d545cc852628702ff09995cf18026f895811d9b5
+    content: Dylan Borland and many other whistleblowers have no job prospects and no foreseeable professional future in the
+      United States as a result of their whistleblowing.
+    original_excerpt: I and many other whistleblowers have no job prospects and no foreseeable professional future in a nation
+      all of us came forward to defend
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: c442597b-8900-4212-98ee-ba7b29d985e2
+      title: Dylan Borland
+    provenance_chain:
+      origin_kind: speaker
+      origin: Dylan Borland
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: c442597b-8900-4212-98ee-ba7b29d985e2
+        title: Dylan Borland
+        slug: dylan-borland
+    date: null
+    date_end: null
+    location_in_record: char:4845-4976
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 436beece-1988-40bb-98c1-bb9f5b03b9ed
+      record_title: Whistleblower Statement for the House of Representatives Task Force
+      record_date: null
+      record_reference: https://oversight.house.gov/wp-content/uploads/2025/09/Borland-Written-Testimony.pdf
+      content_hash: sha256:27fb5ef596051cc5a1e1462684ce5afa772419b21970ef37bab2f9f27e305bc5
+      friendly_name: null
+  - claim_id: 41c118d9-4fbf-4451-b9af-00f68d7c27f3
+    claim_hash: d6ca5c6c68186c8efa98ea4f037e9abbb2535fc17a4512aead8ec8760f66ad81
+    content: Dylan Borland swore an oath to the Constitution of the United States.
+    original_excerpt: I swore an oath to the Constitution of the United States
+    claim_type: administrative
+    attestation: first_hand
+    speaker:
+      node_id: c442597b-8900-4212-98ee-ba7b29d985e2
+      title: Dylan Borland
+    provenance_chain:
+      origin_kind: speaker
+      origin: Dylan Borland
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: c442597b-8900-4212-98ee-ba7b29d985e2
+        title: Dylan Borland
+        slug: dylan-borland
+    date: null
+    date_end: null
+    location_in_record: char:5433-5483
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 436beece-1988-40bb-98c1-bb9f5b03b9ed
+      record_title: Whistleblower Statement for the House of Representatives Task Force
+      record_date: null
+      record_reference: https://oversight.house.gov/wp-content/uploads/2025/09/Borland-Written-Testimony.pdf
+      content_hash: sha256:27fb5ef596051cc5a1e1462684ce5afa772419b21970ef37bab2f9f27e305bc5
+      friendly_name: null
+  - claim_id: 5fca41fc-9847-4c6d-9ac1-998d73834b3e
+    claim_hash: d72a5656fd85b313a5b17a8e35142a6d9217d3cb1ad837ef46e9668e9009aa77
+    content: Dylan Borland worked for BAE Systems as a Senior Analyst.
+    original_excerpt: I also worked for BAE Systems and Intrepid Solutions as a Senior Analyst
+    claim_type: administrative
+    attestation: first_hand
+    speaker:
+      node_id: c442597b-8900-4212-98ee-ba7b29d985e2
+      title: Dylan Borland
+    provenance_chain:
+      origin_kind: speaker
+      origin: Dylan Borland
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 0017e9ea-ba2f-4c15-9767-6f5a0f4035a0
+        title: BAE Systems
+        slug: bae-systems
+      - node_id: c442597b-8900-4212-98ee-ba7b29d985e2
+        title: Dylan Borland
+        slug: dylan-borland
+    date: null
+    date_end: null
+    location_in_record: char:583-648
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 436beece-1988-40bb-98c1-bb9f5b03b9ed
+      record_title: Whistleblower Statement for the House of Representatives Task Force
+      record_date: null
+      record_reference: https://oversight.house.gov/wp-content/uploads/2025/09/Borland-Written-Testimony.pdf
+      content_hash: sha256:27fb5ef596051cc5a1e1462684ce5afa772419b21970ef37bab2f9f27e305bc5
+      friendly_name: null
+  - claim_id: 4d01c51b-f244-412c-ad22-fcc2da5a2bbf
+    claim_hash: ae11b837fddfdb01e72842adba76b771334cf8bb67797109639b522be61122c6
+    content: Dylan Borland worked for Intrepid Solutions and Services as a Senior Analyst.
+    original_excerpt: I also worked for BAE Systems and Intrepid Solutions as a Senior Analyst
+    claim_type: administrative
+    attestation: first_hand
+    speaker:
+      node_id: c442597b-8900-4212-98ee-ba7b29d985e2
+      title: Dylan Borland
+    provenance_chain:
+      origin_kind: speaker
+      origin: Dylan Borland
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: c442597b-8900-4212-98ee-ba7b29d985e2
+        title: Dylan Borland
+        slug: dylan-borland
+      - node_id: d2bf856f-7bf6-4c72-b85c-b76c86b3f464
+        title: Intrepid Solutions and Services
+        slug: intrepid-solutions-and-services
+    date: null
+    date_end: null
+    location_in_record: char:583-648
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 436beece-1988-40bb-98c1-bb9f5b03b9ed
+      record_title: Whistleblower Statement for the House of Representatives Task Force
+      record_date: null
+      record_reference: https://oversight.house.gov/wp-content/uploads/2025/09/Borland-Written-Testimony.pdf
+      content_hash: sha256:27fb5ef596051cc5a1e1462684ce5afa772419b21970ef37bab2f9f27e305bc5
+      friendly_name: null
+  - claim_id: 8782152a-c332-4612-b6b2-b76885fe225b
+    claim_hash: 9fc913aa229cc1ad241d5e1e00efc7ae8bb2c26e8d13b4031ec92c2c75877c97
+    content: In 2023, patriots provided the United States House of Representatives Task Force on UAP and the executive branch
+      with what Dylan Borland considers undeniable proof of the reality of UAP.
+    original_excerpt: In 2023, patriots provided this committee and the executive branch with undeniable proof of the UAP
+      reality, and I commend your continued commitment.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: c442597b-8900-4212-98ee-ba7b29d985e2
+      title: Dylan Borland
+    provenance_chain:
+      origin_kind: speaker
+      origin: Dylan Borland
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
+        title: Unidentified Anomalous Phenomena (UAP)
+        slug: unidentified-anomalous-phenomena-uap
+      - node_id: 8e712eef-a771-43c3-afba-5ed1940a8ba3
+        title: United States House of Representatives Task Force on Unidentified Aerial Phenomena (UAP)
+        slug: united-states-house-of-representatives-task-force-on-unidentified-aerial-phenomena-uap
+      - node_id: c442597b-8900-4212-98ee-ba7b29d985e2
+        title: Dylan Borland
+        slug: dylan-borland
+    date: '2023'
+    date_end: null
+    location_in_record: char:5879-6017
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 436beece-1988-40bb-98c1-bb9f5b03b9ed
+      record_title: Whistleblower Statement for the House of Representatives Task Force
+      record_date: null
+      record_reference: https://oversight.house.gov/wp-content/uploads/2025/09/Borland-Written-Testimony.pdf
+      content_hash: sha256:27fb5ef596051cc5a1e1462684ce5afa772419b21970ef37bab2f9f27e305bc5
+      friendly_name: null
+  - claim_id: c8ae3441-acdd-4e63-8e33-d53e01f98849
+    claim_hash: f5b73f49467ebd88021f5dec0c8d19e3e549c764b18e1d52dbfb013d2117c1c4
+    content: Dylan Borland is an expert in analysing video, radar, and advanced electro-optical imagery for official identification
+      of aerial, naval, and ground order of battle.
+    original_excerpt: an expert in analyzing video, radar, and advanced electro-optical imagery for official identification
+      of aerial order of battle as well as naval and ground
+    claim_type: administrative
+    attestation: first_hand
+    speaker:
+      node_id: c442597b-8900-4212-98ee-ba7b29d985e2
+      title: Dylan Borland
+    provenance_chain:
+      origin_kind: speaker
+      origin: Dylan Borland
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: c442597b-8900-4212-98ee-ba7b29d985e2
+        title: Dylan Borland
+        slug: dylan-borland
+    date: null
+    date_end: null
+    location_in_record: char:657-806
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 436beece-1988-40bb-98c1-bb9f5b03b9ed
+      record_title: Whistleblower Statement for the House of Representatives Task Force
+      record_date: null
+      record_reference: https://oversight.house.gov/wp-content/uploads/2025/09/Borland-Written-Testimony.pdf
+      content_hash: sha256:27fb5ef596051cc5a1e1462684ce5afa772419b21970ef37bab2f9f27e305bc5
+      friendly_name: null
+  - claim_id: 9da8a21c-0067-428a-9240-01b247ed3272
+    claim_hash: 7cc60ee31b31b8e277f40a4aa6faf17189a697df60ad7bee686153e54858217c
+    content: Dylan Borland is a federal whistleblower who testified to the Intelligence Community Inspector General (ICIG)
+      and the All-Domain Anomaly Resolution Office (AARO) with direct firsthand knowledge of and experience with craft and
+      technologies commonly known as UFO or UAP that are not of United States origin.
+    original_excerpt: I am a federal whistleblower, having testified to both the Intelligence Community Inspector General
+      (ICIG) and All-Domain Anomaly Resolution Office (AARO) with direct firsthand knowledge of and experience with craft
+      and technologies (commonly known as UFO or UAP) that are not ours
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: c442597b-8900-4212-98ee-ba7b29d985e2
+      title: Dylan Borland
+    provenance_chain:
+      origin_kind: speaker
+      origin: Dylan Borland
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
+        title: Unidentified Anomalous Phenomena (UAP)
+        slug: unidentified-anomalous-phenomena-uap
+      - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
+        title: Unidentified Flying Object (UFO)
+        slug: unidentified-flying-object-ufo
+      - node_id: c442597b-8900-4212-98ee-ba7b29d985e2
+        title: Dylan Borland
+        slug: dylan-borland
+      - node_id: e79e207c-a848-4eb7-9246-07587b20d2c1
+        title: All-domain Anomaly Resolution Office (AARO)
+        slug: all-domain-anomaly-resolution-office-aaro
+      - node_id: f8f7643c-fe27-4547-8761-440b36e78097
+        title: Office of the Intelligence Community Inspector General (ICIG)
+        slug: office-of-the-intelligence-community-inspector-general-icig
+    date: null
+    date_end: null
+    location_in_record: char:814-1091
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 436beece-1988-40bb-98c1-bb9f5b03b9ed
+      record_title: Whistleblower Statement for the House of Representatives Task Force
+      record_date: null
+      record_reference: https://oversight.house.gov/wp-content/uploads/2025/09/Borland-Written-Testimony.pdf
+      content_hash: sha256:27fb5ef596051cc5a1e1462684ce5afa772419b21970ef37bab2f9f27e305bc5
+      friendly_name: null
+  - claim_id: ff5211ba-96b8-4d51-821b-d79fb54e158e
+    claim_hash: 20db0156000cfd054edd666a5976665dbb8bff3a3a93584baafd529f45eec84a
+    content: In sworn testimony before the United States Congress in 2025-09, Dylan Borland identified himself as a federal
+      whistleblower who had provided information to the Intelligence Community Office of the Inspector General.
+    original_excerpt: In sworn testimony before Congress in September 2025, he identified himself as a federal whistleblower
+      who had provided information to both the Intelligence Community Office of the Inspector General (IC OIG) and the Pentagon’s
+      All-domain Anomaly Resolution Office (AARO) concerning alleged craft, technologies and legacy UAP programs operating
+      without congressional oversight.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: c442597b-8900-4212-98ee-ba7b29d985e2
+      title: Dylan Borland
+    provenance_chain:
+      origin_kind: speaker
+      origin: Dylan Borland
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 4fb65b2c-296a-493d-bbc7-65e4b763c1f0
+        title: United States Congress
+        slug: united-states-congress
+      - node_id: c442597b-8900-4212-98ee-ba7b29d985e2
+        title: Dylan Borland
+        slug: dylan-borland
+      - node_id: f8f7643c-fe27-4547-8761-440b36e78097
+        title: Office of the Intelligence Community Inspector General (ICIG)
+        slug: office-of-the-intelligence-community-inspector-general-icig
+    date: 2025-09
+    date_end: null
+    location_in_record: char:1193-1559
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 9bea2ffb-0e64-484e-99d8-339086249e40
+      record_title: IC Watchdog Responds to Alleged UAP Whistleblower Leak — Liberation Times | Reimagining Old News
+      record_date: '2026-08-11'
+      record_reference: https://www.liberationtimes.com/home/intelligence-watchdog-warns-of-fbi-referral-over-alleged-disclosure-of-uap-whistleblower-testimony
+      content_hash: sha256:f8225cc90eefd747010a6c48788489108c8c2bf65c2183ad008a448529ecd031
+      friendly_name: null
+  - claim_id: 603baa47-806f-4230-b9f1-f3d2bb5b8483
+    claim_hash: 7ca1272f88c48a89833dd22862c34f27edeac6eaf3fe38794ffb79a48ca53c5a
+    content: In sworn testimony before the United States Congress in 2025-09, Dylan Borland identified himself as a federal
+      whistleblower who had provided information to the All-Domain Anomaly Resolution Office (AARO) concerning alleged craft,
+      technologies and legacy UAP programmes operating without congressional oversight.
+    original_excerpt: In sworn testimony before Congress in September 2025, he identified himself as a federal whistleblower
+      who had provided information to both the Intelligence Community Office of the Inspector General (IC OIG) and the Pentagon’s
+      All-domain Anomaly Resolution Office (AARO) concerning alleged craft, technologies and legacy UAP programs operating
+      without congressional oversight.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: c442597b-8900-4212-98ee-ba7b29d985e2
+      title: Dylan Borland
+    provenance_chain:
+      origin_kind: speaker
+      origin: Dylan Borland
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 4fb65b2c-296a-493d-bbc7-65e4b763c1f0
+        title: United States Congress
+        slug: united-states-congress
+      - node_id: 99f08514-5471-4eaf-bce3-46c474a8d304
+        title: United States Department of Defense (DoD)
+        slug: united-states-department-of-defense-dod
+      - node_id: c442597b-8900-4212-98ee-ba7b29d985e2
+        title: Dylan Borland
+        slug: dylan-borland
+      - node_id: e79e207c-a848-4eb7-9246-07587b20d2c1
+        title: All-domain Anomaly Resolution Office (AARO)
+        slug: all-domain-anomaly-resolution-office-aaro
+    date: 2025-09
+    date_end: null
+    location_in_record: char:1193-1559
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 9bea2ffb-0e64-484e-99d8-339086249e40
+      record_title: IC Watchdog Responds to Alleged UAP Whistleblower Leak — Liberation Times | Reimagining Old News
+      record_date: '2026-08-11'
+      record_reference: https://www.liberationtimes.com/home/intelligence-watchdog-warns-of-fbi-referral-over-alleged-disclosure-of-uap-whistleblower-testimony
+      content_hash: sha256:f8225cc90eefd747010a6c48788489108c8c2bf65c2183ad008a448529ecd031
+      friendly_name: null
+  - claim_id: 4c30364b-383d-4c67-abab-06b162fd1b11
+    claim_hash: 9b7d229bea87240b4bae34ae4abb4ce20098f603f1c29651a49949ae9f2af5b5
+    content: A spokesperson for the Office of the Intelligence Community Inspector General declined to confirm whether Dylan
+      Borland had provided testimony or whether any investigation was underway.
+    original_excerpt: While declining to confirm whether Borland had provided testimony or whether any investigation was underway,
+      the office emphasised that it is legally required to protect confidential whistleblowers and information that could
+      reveal their identities.
+    claim_type: administrative
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: named
+      origin: Office of the Intelligence Community Inspector General (ICIG)
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: c442597b-8900-4212-98ee-ba7b29d985e2
+        title: Dylan Borland
+        slug: dylan-borland
+      - node_id: f8f7643c-fe27-4547-8761-440b36e78097
+        title: Office of the Intelligence Community Inspector General (ICIG)
+        slug: office-of-the-intelligence-community-inspector-general-icig
+    date: null
+    date_end: null
+    location_in_record: char:1712-1950
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 9bea2ffb-0e64-484e-99d8-339086249e40
+      record_title: IC Watchdog Responds to Alleged UAP Whistleblower Leak — Liberation Times | Reimagining Old News
+      record_date: '2026-08-11'
+      record_reference: https://www.liberationtimes.com/home/intelligence-watchdog-warns-of-fbi-referral-over-alleged-disclosure-of-uap-whistleblower-testimony
+      content_hash: sha256:f8225cc90eefd747010a6c48788489108c8c2bf65c2183ad008a448529ecd031
+      friendly_name: null
+  - claim_id: 5f14fd24-01c3-4d6a-a008-06edb3f290a6
+    claim_hash: 64e7d97124aa970bf42175afa95049601f1582867bb6c0c61affa9506095d539
+    content: Jeremy Corbell's allegation concerning Dylan Borland forms part of a broader controversy surrounding the Office
+      of the Director of National Intelligence's Director's Initiatives Group (DIG).
+    original_excerpt: Corbell’s allegation concerning Borland forms part of a broader controversy surrounding ODNI’s Director’s
+      Initiatives Group (DIG).
+    claim_type: administrative
+    attestation: null
+    speaker:
+      node_id: e921bccc-8a7a-4279-9873-8f3a5997be16
+      title: Christopher Sharp
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 20328e3c-bc7e-4529-82d9-3e7b5bcac165
+        title: Director's Initiatives Group (DIG)
+        slug: directors-initiatives-group-dig
+      - node_id: 8625ca77-9860-40fe-b2fe-6ee74f1b5174
+        title: Jeremy Corbell
+        slug: jeremy-corbell
+      - node_id: c442597b-8900-4212-98ee-ba7b29d985e2
+        title: Dylan Borland
+        slug: dylan-borland
+      - node_id: c52fd2ac-fa87-43e8-8a8b-1bbd33ef6a28
+        title: Office of the Director of National Intelligence (ODNI)
+        slug: office-of-the-director-of-national-intelligence-odni
+    date: null
+    date_end: null
+    location_in_record: char:2984-3109
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 9bea2ffb-0e64-484e-99d8-339086249e40
+      record_title: IC Watchdog Responds to Alleged UAP Whistleblower Leak — Liberation Times | Reimagining Old News
+      record_date: '2026-08-11'
+      record_reference: https://www.liberationtimes.com/home/intelligence-watchdog-warns-of-fbi-referral-over-alleged-disclosure-of-uap-whistleblower-testimony
+      content_hash: sha256:f8225cc90eefd747010a6c48788489108c8c2bf65c2183ad008a448529ecd031
+      friendly_name: null
+  - claim_id: a3fc2408-4cfe-43e4-b015-7ff2c9c5df18
+    claim_hash: 2cd59bb2a1d6d9817f6253f7543d749e1144ebe48d9423f96c1575657562fcc4
+    content: Jeremy Corbell alleged that an Office of the Director of National Intelligence (ODNI) source disclosed details
+      of testimony provided by Dylan Borland, a UAP whistleblower who has made protected disclosures to the Office of the
+      Intelligence Community Inspector General and Congress.
+    original_excerpt: Investigative journalist Jeremy Corbell has alleged that an ODNI source disclosed details of testimony
+      provided by Dylan Borland, a UAP whistleblower who has made protected disclosures to the IC OIG and Congress.
+    claim_type: hearsay
+    attestation: first_hand
+    speaker:
+      node_id: 8625ca77-9860-40fe-b2fe-6ee74f1b5174
+      title: Jeremy Corbell
+    provenance_chain:
+      origin_kind: speaker
+      origin: Jeremy Corbell
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 4fb65b2c-296a-493d-bbc7-65e4b763c1f0
+        title: United States Congress
+        slug: united-states-congress
+      - node_id: 8625ca77-9860-40fe-b2fe-6ee74f1b5174
+        title: Jeremy Corbell
+        slug: jeremy-corbell
+      - node_id: c442597b-8900-4212-98ee-ba7b29d985e2
+        title: Dylan Borland
+        slug: dylan-borland
+      - node_id: c52fd2ac-fa87-43e8-8a8b-1bbd33ef6a28
+        title: Office of the Director of National Intelligence (ODNI)
+        slug: office-of-the-director-of-national-intelligence-odni
+      - node_id: f8f7643c-fe27-4547-8761-440b36e78097
+        title: Office of the Intelligence Community Inspector General (ICIG)
+        slug: office-of-the-intelligence-community-inspector-general-icig
+    date: null
+    date_end: null
+    location_in_record: char:424-692
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 9bea2ffb-0e64-484e-99d8-339086249e40
+      record_title: IC Watchdog Responds to Alleged UAP Whistleblower Leak — Liberation Times | Reimagining Old News
+      record_date: '2026-08-11'
+      record_reference: https://www.liberationtimes.com/home/intelligence-watchdog-warns-of-fbi-referral-over-alleged-disclosure-of-uap-whistleblower-testimony
+      content_hash: sha256:f8225cc90eefd747010a6c48788489108c8c2bf65c2183ad008a448529ecd031
+      friendly_name: null
+  - claim_id: ab7a0619-8d07-4e0d-abdc-eb5eef854012
+    claim_hash: 553cb71e386cefa561d074bdb5b0516bd0ba12e56f5329726d6b212f36895859
+    content: Dylan Borland was named among the UAP whistleblowers allegedly subjected to intimidation or smear efforts connected
+      to the Director's Initiatives Group inquiry.
+    original_excerpt: Borland was also named among the UAP whistleblowers allegedly subjected to intimidation or smear efforts
+      connected to the inquiry.
+    claim_type: hearsay
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 20328e3c-bc7e-4529-82d9-3e7b5bcac165
+        title: Director's Initiatives Group (DIG)
+        slug: directors-initiatives-group-dig
+      - node_id: c442597b-8900-4212-98ee-ba7b29d985e2
+        title: Dylan Borland
+        slug: dylan-borland
+    date: null
+    date_end: null
+    location_in_record: char:4308-4430
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 9bea2ffb-0e64-484e-99d8-339086249e40
+      record_title: IC Watchdog Responds to Alleged UAP Whistleblower Leak — Liberation Times | Reimagining Old News
+      record_date: '2026-08-11'
+      record_reference: https://www.liberationtimes.com/home/intelligence-watchdog-warns-of-fbi-referral-over-alleged-disclosure-of-uap-whistleblower-testimony
+      content_hash: sha256:f8225cc90eefd747010a6c48788489108c8c2bf65c2183ad008a448529ecd031
+      friendly_name: null
+  - claim_id: 87216fae-3a6c-4293-ac41-12a205d9769c
+    claim_hash: f8f72873938f395b14804d8a71cfa6ea701c1a5f3c93ec2991406d3290252c1b
+    content: Dylan Borland corroborated to Liberation Times the allegation that classified whistleblower testimony was intentionally
+      disclosed to Jeremy Corbell.
+    original_excerpt: Speaking to Liberation Times, Borland corroborated the allegation that classified whistleblower testimony
+      was intentionally disclosed to Corbell.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: c442597b-8900-4212-98ee-ba7b29d985e2
+      title: Dylan Borland
+    provenance_chain:
+      origin_kind: speaker
+      origin: Dylan Borland
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 8625ca77-9860-40fe-b2fe-6ee74f1b5174
+        title: Jeremy Corbell
+        slug: jeremy-corbell
+      - node_id: a7726ea1-8d0d-4d27-bdba-be309f70fea1
+        title: Liberation Times
+        slug: liberation-times
+      - node_id: c442597b-8900-4212-98ee-ba7b29d985e2
+        title: Dylan Borland
+        slug: dylan-borland
+    date: null
+    date_end: null
+    location_in_record: char:817-954
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 9bea2ffb-0e64-484e-99d8-339086249e40
+      record_title: IC Watchdog Responds to Alleged UAP Whistleblower Leak — Liberation Times | Reimagining Old News
+      record_date: '2026-08-11'
+      record_reference: https://www.liberationtimes.com/home/intelligence-watchdog-warns-of-fbi-referral-over-alleged-disclosure-of-uap-whistleblower-testimony
+      content_hash: sha256:f8225cc90eefd747010a6c48788489108c8c2bf65c2183ad008a448529ecd031
+      friendly_name: null
+  - claim_id: 1f76086b-db28-4608-97d9-8776f0a5e2b7
+    claim_hash: c1bbe74a55871cc6655c70d47e5545e7259e6f5ad74a1740e9df6dcb8c321ba0
+    content: Dylan Borland later worked as a senior analyst for defence contractor BAE Systems, examining video, radar and
+      advanced electro-optical imagery.
+    original_excerpt: Borland is a former U.S. Air Force geospatial intelligence specialist who later worked as a senior analyst
+      for defence contractors BAE Systems and Intrepid Solutions, examining video, radar and advanced electro-optical imagery.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 0017e9ea-ba2f-4c15-9767-6f5a0f4035a0
+        title: BAE Systems
+        slug: bae-systems
+      - node_id: c442597b-8900-4212-98ee-ba7b29d985e2
+        title: Dylan Borland
+        slug: dylan-borland
+    date: null
+    date_end: null
+    location_in_record: char:964-1183
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 9bea2ffb-0e64-484e-99d8-339086249e40
+      record_title: IC Watchdog Responds to Alleged UAP Whistleblower Leak — Liberation Times | Reimagining Old News
+      record_date: '2026-08-11'
+      record_reference: https://www.liberationtimes.com/home/intelligence-watchdog-warns-of-fbi-referral-over-alleged-disclosure-of-uap-whistleblower-testimony
+      content_hash: sha256:f8225cc90eefd747010a6c48788489108c8c2bf65c2183ad008a448529ecd031
+      friendly_name: null
+  - claim_id: 8d027eb7-f920-41cc-8d1b-e15bd30065bc
+    claim_hash: 42f812850d89b78f3da32b0558575ed45dc04573da44929c1797d59e66922b9b
+    content: Dylan Borland is a former United States Air Force geospatial intelligence specialist.
+    original_excerpt: Borland is a former U.S. Air Force geospatial intelligence specialist who later worked as a senior analyst
+      for defence contractors BAE Systems and Intrepid Solutions, examining video, radar and advanced electro-optical imagery.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 32b98a17-be55-4b0f-8e10-9d377e1e8b33
+        title: United States Air Force (USAF)
+        slug: united-states-air-force-usaf
+      - node_id: c442597b-8900-4212-98ee-ba7b29d985e2
+        title: Dylan Borland
+        slug: dylan-borland
+    date: null
+    date_end: null
+    location_in_record: char:964-1183
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 9bea2ffb-0e64-484e-99d8-339086249e40
+      record_title: IC Watchdog Responds to Alleged UAP Whistleblower Leak — Liberation Times | Reimagining Old News
+      record_date: '2026-08-11'
+      record_reference: https://www.liberationtimes.com/home/intelligence-watchdog-warns-of-fbi-referral-over-alleged-disclosure-of-uap-whistleblower-testimony
+      content_hash: sha256:f8225cc90eefd747010a6c48788489108c8c2bf65c2183ad008a448529ecd031
+      friendly_name: null
+  - claim_id: f6710d96-ad78-4635-8c66-6be27f11b5db
+    claim_hash: 02edaa5590ca4289813bf4ccd6882423c9610fba5c5f99d4244d92bbe4bbb45c
+    content: Dylan Borland later worked as a senior analyst for defence contractor Intrepid Solutions, examining video, radar
+      and advanced electro-optical imagery.
+    original_excerpt: Borland is a former U.S. Air Force geospatial intelligence specialist who later worked as a senior analyst
+      for defence contractors BAE Systems and Intrepid Solutions, examining video, radar and advanced electro-optical imagery.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: c442597b-8900-4212-98ee-ba7b29d985e2
+        title: Dylan Borland
+        slug: dylan-borland
+      - node_id: ecac5bc0-0d3e-4c09-b68b-db4a1cdb5243
+        title: Intrepid Solutions
+        slug: intrepid-solutions
+    date: null
+    date_end: null
+    location_in_record: char:964-1183
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 9bea2ffb-0e64-484e-99d8-339086249e40
+      record_title: IC Watchdog Responds to Alleged UAP Whistleblower Leak — Liberation Times | Reimagining Old News
+      record_date: '2026-08-11'
+      record_reference: https://www.liberationtimes.com/home/intelligence-watchdog-warns-of-fbi-referral-over-alleged-disclosure-of-uap-whistleblower-testimony
+      content_hash: sha256:f8225cc90eefd747010a6c48788489108c8c2bf65c2183ad008a448529ecd031
+      friendly_name: null
+  - claim_id: f5030e68-e769-4b72-8354-7e58dccd6ae0
+    claim_hash: 31d85555216ea776830ab48a637e377dfabc018dd41572e0c2ceea6d846f2f0c
+    content: Dylan Borland is a former United States Air Force geospatial intelligence specialist.
+    original_excerpt: Dylan Borland, a former Air Force geospatial intelligence specialist
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 32b98a17-be55-4b0f-8e10-9d377e1e8b33
+        title: United States Air Force (USAF)
+        slug: united-states-air-force-usaf
+      - node_id: c442597b-8900-4212-98ee-ba7b29d985e2
+        title: Dylan Borland
+        slug: dylan-borland
+    date: null
+    date_end: null
+    location_in_record: char:2261-2377
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3b884786-04ff-4e4b-816f-621161e9d948
+      record_title: Pressure Mounts on President Trump as UAP Disclosure Advocates Intensify Their Push
+      record_date: '2026-08-19'
+      record_reference: https://www.liberationtimes.com/home/the-push-for-ufo-disclosure-intensifies-as-pressure-mounts-on-donald-trump
+      content_hash: sha256:dc288b5d31307a5eb396b1ecc4f3e2ee1e01673ec8707bb47111173faa83e683
+      friendly_name: null

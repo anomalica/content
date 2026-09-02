@@ -1,0 +1,1018 @@
+schema: anomalica/brief/1
+brief_hash: c0033245ffc3f1f5b64d0c051f2167f709b10a682841c553f45c1141149e00c1
+page:
+  kind: entity
+  node_id: 4290466e-f30e-426f-8357-e31c0e252b5a
+  node_type: place
+  title: Vatican City
+  slug: vatican-city
+  claim_count: 23
+  claim_count_total: 23
+generated:
+  graph_version: '2026-09-01T10:10:49.863545+00:00'
+size:
+  claims: 23
+  tokens_estimated: 6695
+  sized_against: 1050000
+publication:
+  status: published
+  note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
+    transcripts are gated elsewhere.
+belonging:
+  verified: 0
+  suspect_excluded: 0
+  unreviewed: 23
+related_nodes:
+  - node_id: 079d4381-4273-418b-bc9a-468623f95c6e
+    title: Jesse Mitchells
+    node_type: person
+    slug: jesse-mitchells
+    shared_claims: 8
+  - node_id: 0233cce8-2687-4ccb-b0ab-8bbaddf5656c
+    title: Holy See
+    node_type: organisation
+    slug: holy-see
+    shared_claims: 7
+  - node_id: 24136f1c-4cb7-4030-8ed1-35855481a65e
+    title: Tyler D.
+    node_type: person
+    slug: tyler-d
+    shared_claims: 6
+  - node_id: df204d89-24eb-4d4e-bea8-df5eb415725f
+    title: Kirsan Ilyumzhinov
+    node_type: person
+    slug: kirsan-ilyumzhinov
+    shared_claims: 5
+  - node_id: fb641c4d-01aa-4932-8d51-f0c8e8edc900
+    title: Father McDonnell
+    node_type: person
+    slug: father-mcdonnell
+    shared_claims: 4
+  - node_id: 5e9f049a-481a-4f16-8704-5250716a07f3
+    title: Galileo Galilei
+    node_type: person
+    slug: galileo-galilei
+    shared_claims: 3
+  - node_id: f2daae19-9351-4a8e-b466-664f83887f61
+    title: Diana Walsh Pasulka
+    node_type: person
+    slug: diana-walsh-pasulka
+    shared_claims: 2
+  - node_id: 3171e62c-9eab-430a-ae66-74268a4c6cfd
+    title: Swiss Guards
+    node_type: organisation
+    slug: swiss-guards
+    shared_claims: 2
+  - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
+    title: Unidentified Flying Object (UFO)
+    node_type: topic
+    slug: unidentified-flying-object-ufo
+    shared_claims: 2
+  - node_id: 49286131-da81-4d49-9b69-de49065b47c5
+    title: Vatican Observatory
+    node_type: organisation
+    slug: vatican-observatory
+    shared_claims: 2
+  - node_id: 5f29d662-0d3b-4af3-ab7d-16cbb0a33d30
+    title: Avi Loeb
+    node_type: person
+    slug: avi-loeb
+    shared_claims: 1
+  - node_id: 36f10e24-12f5-47e3-a57e-17f7a9497589
+    title: Galileo Galilei's Inquisition trial
+    node_type: event
+    slug: galileo-galileis-inquisition-trial
+    shared_claims: 1
+  - node_id: 11e5d467-eddb-4565-b496-984e85ca249a
+    title: Italy, Castel Gandolfo
+    node_type: place
+    slug: castel-gandolfo-italy
+    shared_claims: 1
+  - node_id: ccaada0b-7348-4d54-bd7b-22896b137901
+    title: Maria of Agreda
+    node_type: person
+    slug: maria-of-agreda
+    shared_claims: 1
+  - node_id: 6485c8ec-97af-4a6d-9547-34aee3eb5b87
+    title: Taylor
+    node_type: person
+    slug: taylor
+    shared_claims: 1
+  - node_id: 51c6a45d-9531-473d-ad1d-402a379aeadf
+    title: Vatican Secret Archives
+    node_type: organisation
+    slug: vatican-secret-archives
+    shared_claims: 1
+claims:
+  - claim_id: 3c4ed805-4a73-4176-9a5f-5d64b9f60bf4
+    claim_hash: f24af73b364f32e6e4b6d6d1b666c3af32b6c91cd229dfa618cfb81ea132ad7b
+    content: D. W. Pasulka observed that Tyler D. was known to members of the Vatican once he became visible to Vatican Secret
+      Archives staff.
+    original_excerpt: Tyler became, at that point, visible, at least to those at the Vatican Secret Archives. And his visibility
+      provided access. Apparently, Tyler was known to members of the Vatican.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: f2daae19-9351-4a8e-b466-664f83887f61
+      title: Diana Walsh Pasulka
+    provenance_chain:
+      origin_kind: speaker
+      origin: D. W. Pasulka
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 24136f1c-4cb7-4030-8ed1-35855481a65e
+        title: Tyler D.
+        slug: tyler-d
+      - node_id: 4290466e-f30e-426f-8357-e31c0e252b5a
+        title: Vatican City
+        slug: vatican-city
+      - node_id: 51c6a45d-9531-473d-ad1d-402a379aeadf
+        title: Vatican Secret Archives
+        slug: vatican-secret-archives
+    date: null
+    date_end: null
+    location_in_record: ch7:11250-11420
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 288e1100-0497-41df-ba08-9890e519b0b9
+      record_title: American Cosmic
+      record_date: '2019'
+      record_reference: null
+      content_hash: sha256:ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b16ac4758
+      friendly_name: 2019-ebook-american-cosmic
+  - claim_id: 04c0a489-bb50-48cb-8a1c-befa3e6dde3b
+    claim_hash: f90c2f7eae7663cec83482dbe0e3278335f10409fe0ebee80515c48b754a8167
+    content: Father McDonnell was known by seemingly everyone at the Vatican and had access to its every nook and cranny.
+    original_excerpt: It turned out that Father McDonnell was a special person, known by seemingly everyone at the Vatican,
+      and had access to its every nook and cranny.
+    claim_type: observation
+    attestation: first_hand
+    speaker:
+      node_id: f2daae19-9351-4a8e-b466-664f83887f61
+      title: Diana Walsh Pasulka
+    provenance_chain:
+      origin_kind: speaker
+      origin: D. W. Pasulka
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 4290466e-f30e-426f-8357-e31c0e252b5a
+        title: Vatican City
+        slug: vatican-city
+      - node_id: fb641c4d-01aa-4932-8d51-f0c8e8edc900
+        title: Father McDonnell
+        slug: father-mcdonnell
+    date: null
+    date_end: null
+    location_in_record: ch7:12052-12191
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 288e1100-0497-41df-ba08-9890e519b0b9
+      record_title: American Cosmic
+      record_date: '2019'
+      record_reference: null
+      content_hash: sha256:ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b16ac4758
+      friendly_name: 2019-ebook-american-cosmic
+  - claim_id: 4893abff-67b1-46ed-b6b6-73cfe151dfb4
+    claim_hash: cf8c0a60df694d7a21c57be08bc3d564b3e84b64024a5ce31d0f59d499be54bc
+    content: Father McDonnell blessed the research project of D. W. Pasulka and Tyler D. in the courtyard of the Vatican.
+    original_excerpt: Tyler told me later how, in the courtyard of the Vatican, with the sun streaming down on them, Father
+      McDonnell had blessed our project.
+    claim_type: testimony
+    attestation: second_hand
+    speaker:
+      node_id: f2daae19-9351-4a8e-b466-664f83887f61
+      title: Diana Walsh Pasulka
+    provenance_chain:
+      origin_kind: named
+      origin: Tyler D.
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 24136f1c-4cb7-4030-8ed1-35855481a65e
+        title: Tyler D.
+        slug: tyler-d
+      - node_id: 4290466e-f30e-426f-8357-e31c0e252b5a
+        title: Vatican City
+        slug: vatican-city
+      - node_id: f2daae19-9351-4a8e-b466-664f83887f61
+        title: Diana Walsh Pasulka
+        slug: diana-walsh-pasulka
+      - node_id: fb641c4d-01aa-4932-8d51-f0c8e8edc900
+        title: Father McDonnell
+        slug: father-mcdonnell
+    date: null
+    date_end: null
+    location_in_record: ch7:12573-12701
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 288e1100-0497-41df-ba08-9890e519b0b9
+      record_title: American Cosmic
+      record_date: '2019'
+      record_reference: null
+      content_hash: sha256:ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b16ac4758
+      friendly_name: 2019-ebook-american-cosmic
+  - claim_id: 159e0b7a-7067-415b-894c-58cdecc37b48
+    claim_hash: 19eb547a92f6cc998b26d9abac67b5fc0ec3ac82d7cdef32c1059c9ca4fecb5d
+    content: The Vatican has traditionally been protected by the Swiss Guards, mercenaries trained by the Swiss Armed Forces,
+      who are placed in strategic positions around the Vatican and wear colourful attire with swords.
+    original_excerpt: The Vatican has traditionally been protected by the Swiss Guards, mercenaries who are trained by the
+      Swiss Armed Forces. In their colorful attire, outfitted with swords, they are placed in strategic positions around the
+      Vatican.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: narration
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 3171e62c-9eab-430a-ae66-74268a4c6cfd
+        title: Swiss Guards
+        slug: swiss-guards
+      - node_id: 4290466e-f30e-426f-8357-e31c0e252b5a
+        title: Vatican City
+        slug: vatican-city
+    date: null
+    date_end: null
+    location_in_record: ch7:13901-14121
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 288e1100-0497-41df-ba08-9890e519b0b9
+      record_title: American Cosmic
+      record_date: '2019'
+      record_reference: null
+      content_hash: sha256:ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b16ac4758
+      friendly_name: 2019-ebook-american-cosmic
+  - claim_id: 4b9bda9e-1014-403c-85ba-4dcf8d186f42
+    claim_hash: b41fb8dcbedba064ff59a53e42b312b5b457dd8410da706ee84e25d8f8c733c9
+    content: D. W. Pasulka observed that the ceremonial Swiss Guards do not appear to provide real security and seem present
+      mainly for the benefit of tourists who photograph them.
+    original_excerpt: They don’t appear to provide any type of security. Their presence seems to be more for the benefit of
+      the constant lines of tourists who circle the Vatican and stop for photographs.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: f2daae19-9351-4a8e-b466-664f83887f61
+      title: Diana Walsh Pasulka
+    provenance_chain:
+      origin_kind: speaker
+      origin: D. W. Pasulka
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 3171e62c-9eab-430a-ae66-74268a4c6cfd
+        title: Swiss Guards
+        slug: swiss-guards
+      - node_id: 4290466e-f30e-426f-8357-e31c0e252b5a
+        title: Vatican City
+        slug: vatican-city
+    date: null
+    date_end: null
+    location_in_record: ch7:14130-14299
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 288e1100-0497-41df-ba08-9890e519b0b9
+      record_title: American Cosmic
+      record_date: '2019'
+      record_reference: null
+      content_hash: sha256:ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b16ac4758
+      friendly_name: 2019-ebook-american-cosmic
+  - claim_id: 10ae8de1-9cf9-4420-9cb6-53ed6c1dab12
+    claim_hash: 44c96b482ce9510681c853abe63b94726f03f7710ba23ed3b9e7301da2cdd058
+    content: The Vatican's real security guards wore camouflage uniforms and carried automatic-looking weapons.
+    original_excerpt: The real guards wore camouflage uniforms and carried very big guns, which looked like automatic weapons.
+    claim_type: observation
+    attestation: first_hand
+    speaker:
+      node_id: f2daae19-9351-4a8e-b466-664f83887f61
+      title: Diana Walsh Pasulka
+    provenance_chain:
+      origin_kind: speaker
+      origin: D. W. Pasulka
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 4290466e-f30e-426f-8357-e31c0e252b5a
+        title: Vatican City
+        slug: vatican-city
+    date: null
+    date_end: null
+    location_in_record: ch7:14312-14408
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 288e1100-0497-41df-ba08-9890e519b0b9
+      record_title: American Cosmic
+      record_date: '2019'
+      record_reference: null
+      content_hash: sha256:ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b16ac4758
+      friendly_name: 2019-ebook-american-cosmic
+  - claim_id: 93b55e49-4053-4e00-afa4-04e19f54746b
+    claim_hash: 1affc3005800ca6e099d74eb42b096dd77fdf99d6045eb145878e724bff51940
+    content: Tyler D. offered a Vatican guard a cafe latte, and the guard replied "no".
+    original_excerpt: Against my counsel, Tyler asked one if he would like to have a cafe latte, to which the guard replied
+      with a steely “no.”
+    claim_type: observation
+    attestation: first_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: speaker
+      origin: D. W. Pasulka
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 24136f1c-4cb7-4030-8ed1-35855481a65e
+        title: Tyler D.
+        slug: tyler-d
+      - node_id: 4290466e-f30e-426f-8357-e31c0e252b5a
+        title: Vatican City
+        slug: vatican-city
+    date: null
+    date_end: null
+    location_in_record: ch7:14489-14606
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 288e1100-0497-41df-ba08-9890e519b0b9
+      record_title: American Cosmic
+      record_date: '2019'
+      record_reference: null
+      content_hash: sha256:ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b16ac4758
+      friendly_name: 2019-ebook-american-cosmic
+  - claim_id: 7eee1dee-1d24-4878-ad5c-ce09484dd568
+    claim_hash: 4e3aa9a7684a5d29196417be5d041655e0edc9402a82617592e40bfd1cbbdfca
+    content: Tyler D. had met Father McDonnell at the Vatican, which led to Tyler D. and Diana Pasulka being invited to attend
+      several important meetings there.
+    original_excerpt: I understood that I was lucky that Tyler had met Father McDonnell and that we were then invited to attend
+      several important meetings, but this was only because of Tyler’s access.
+    claim_type: observation
+    attestation: first_hand
+    speaker:
+      node_id: f2daae19-9351-4a8e-b466-664f83887f61
+      title: Diana Walsh Pasulka
+    provenance_chain:
+      origin_kind: speaker
+      origin: D. W. Pasulka
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 24136f1c-4cb7-4030-8ed1-35855481a65e
+        title: Tyler D.
+        slug: tyler-d
+      - node_id: 4290466e-f30e-426f-8357-e31c0e252b5a
+        title: Vatican City
+        slug: vatican-city
+      - node_id: fb641c4d-01aa-4932-8d51-f0c8e8edc900
+        title: Father McDonnell
+        slug: father-mcdonnell
+    date: null
+    date_end: null
+    location_in_record: ch7:23533-23704
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 288e1100-0497-41df-ba08-9890e519b0b9
+      record_title: American Cosmic
+      record_date: '2019'
+      record_reference: null
+      content_hash: sha256:ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b16ac4758
+      friendly_name: 2019-ebook-american-cosmic
+  - claim_id: 412a5a6f-0b41-4918-8ae7-447389e5b200
+    claim_hash: 7443ef18382113becef9cb52b04561332f67a2b61ffdafaa1a9904dda2f73f93
+    content: Tyler D.'s understanding of the 'beings' was transformed by his encounter with Sister Maria of Agreda's alleged
+      bilocations, information about levitations of other saints and apparitions of the Virgin Mary, hospital rounds with
+      Father McDonnell, and insights from scientists at the Vatican and Vatican Observatory.
+    original_excerpt: That night, Tyler admitted that his understanding of the “beings” was being transformed by his experiences.
+      His encounter with Sister Maria and her alleged bilocations... coupled with what he had felt while making hospital rounds
+      with Father McDonnell, and then the insights he gathered from the other scientists at the Vatican and the Vatican Observatory,
+      shifted his interpretive structure with respect to what he thought might be extraterrestrials.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 24136f1c-4cb7-4030-8ed1-35855481a65e
+      title: Tyler D.
+    provenance_chain:
+      origin_kind: speaker
+      origin: Tyler D.
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 24136f1c-4cb7-4030-8ed1-35855481a65e
+        title: Tyler D.
+        slug: tyler-d
+      - node_id: 4290466e-f30e-426f-8357-e31c0e252b5a
+        title: Vatican City
+        slug: vatican-city
+      - node_id: 49286131-da81-4d49-9b69-de49065b47c5
+        title: Vatican Observatory
+        slug: vatican-observatory
+      - node_id: ccaada0b-7348-4d54-bd7b-22896b137901
+        title: Maria of Agreda
+        slug: maria-of-agreda
+      - node_id: fb641c4d-01aa-4932-8d51-f0c8e8edc900
+        title: Father McDonnell
+        slug: father-mcdonnell
+    date: null
+    date_end: null
+    location_in_record: ch7:38963-39499
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 288e1100-0497-41df-ba08-9890e519b0b9
+      record_title: American Cosmic
+      record_date: '2019'
+      record_reference: null
+      content_hash: sha256:ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b16ac4758
+      friendly_name: 2019-ebook-american-cosmic
+  - claim_id: 5c6d6603-530d-4b35-9202-3f7b11bb9aca
+    claim_hash: 999e1cd5538b2f5b11fb210ccb62c3c6bf6c6c520348a03670ca28340ff28e4f
+    content: Tyler D.'s religious conversion happened dramatically and rapidly during his visit to the Vatican and the observatory
+      at Castel Gandolfo, Italy.
+    original_excerpt: Tyler’s experience was an accelerated version that happened dramatically during his visit to the Vatican
+      and the observatory at Castel Gandolfo.
+    claim_type: observation
+    attestation: first_hand
+    speaker:
+      node_id: f2daae19-9351-4a8e-b466-664f83887f61
+      title: Diana Walsh Pasulka
+    provenance_chain:
+      origin_kind: speaker
+      origin: D. W. Pasulka
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 11e5d467-eddb-4565-b496-984e85ca249a
+        title: Italy, Castel Gandolfo
+        slug: castel-gandolfo-italy
+      - node_id: 24136f1c-4cb7-4030-8ed1-35855481a65e
+        title: Tyler D.
+        slug: tyler-d
+      - node_id: 4290466e-f30e-426f-8357-e31c0e252b5a
+        title: Vatican City
+        slug: vatican-city
+      - node_id: 49286131-da81-4d49-9b69-de49065b47c5
+        title: Vatican Observatory
+        slug: vatican-observatory
+    date: null
+    date_end: null
+    location_in_record: ch7:8250-8385
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 288e1100-0497-41df-ba08-9890e519b0b9
+      record_title: American Cosmic
+      record_date: '2019'
+      record_reference: null
+      content_hash: sha256:ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b16ac4758
+      friendly_name: 2019-ebook-american-cosmic
+  - claim_id: f8a0016e-45bb-4b94-9cc7-a3edddbb6d4f
+    claim_hash: 5e0a3048904b84f52f053ad9676fbd5d36d1aec346dfb1fc4ff58b56e66aa0ff
+    content: The Vatican tried Galileo Galilei and put him under house arrest for his conclusion that celestial bodies did
+      not orbit the Earth.
+    original_excerpt: They wanted to suppress this whistleblower. They tried him and put him in house arrest.
+    claim_type: observation
+    attestation: null
+    speaker:
+      node_id: 5f29d662-0d3b-4af3-ab7d-16cbb0a33d30
+      title: Avi Loeb
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 36f10e24-12f5-47e3-a57e-17f7a9497589
+        title: Galileo Galilei's Inquisition trial
+        slug: galileo-galileis-inquisition-trial
+      - node_id: 4290466e-f30e-426f-8357-e31c0e252b5a
+        title: Vatican City
+        slug: vatican-city
+      - node_id: 5e9f049a-481a-4f16-8704-5250716a07f3
+        title: Galileo Galilei
+        slug: galileo-galilei
+    date: '1633'
+    date_end: null
+    location_in_record: 00:39:50.3-00:39:55.5
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 8c1d10dd-26ad-481a-9699-761ecf181743
+      record_title: 'Episode 73: Science vs. Secrecy'
+      record_date: '2026-06-30'
+      record_reference: https://www.youtube.com/watch?v=tZHuAZpLdFw
+      content_hash: sha256:ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230a948eb3d
+      friendly_name: null
+  - claim_id: fb6766cb-ba09-455f-9062-47d420f6d301
+    claim_hash: 3538b98fdbaa5638d725ed3d69155497f499b4c8615daf9c613bab34fe0f803f
+    content: In 1992 the Catholic Church released a public statement admitting that Galileo Galilei was right and the Church
+      had been wrong.
+    original_excerpt: eventually in 1992, the church released a public statement admitting that He was right and they were
+      wrong.
+    claim_type: observation
+    attestation: null
+    speaker:
+      node_id: 5f29d662-0d3b-4af3-ab7d-16cbb0a33d30
+      title: Avi Loeb
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 4290466e-f30e-426f-8357-e31c0e252b5a
+        title: Vatican City
+        slug: vatican-city
+      - node_id: 5e9f049a-481a-4f16-8704-5250716a07f3
+        title: Galileo Galilei
+        slug: galileo-galilei
+    date: '1992'
+    date_end: null
+    location_in_record: 00:39:58.5-00:40:04.6
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 8c1d10dd-26ad-481a-9699-761ecf181743
+      record_title: 'Episode 73: Science vs. Secrecy'
+      record_date: '2026-06-30'
+      record_reference: https://www.youtube.com/watch?v=tZHuAZpLdFw
+      content_hash: sha256:ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230a948eb3d
+      friendly_name: null
+  - claim_id: 0e893060-d137-4f44-8484-e5b2801d3acd
+    claim_hash: 299ca666e6f0a56db2970a110db5d64ee8fbf016c165c86ffd5fb93f88e14f1b
+    content: Avi Loeb notes that nobody imprisoned the Vatican bureaucracy for hiding existential information about Galileo
+      Galilei's findings from the public.
+    original_excerpt: nobody put the bureaucracy of the church, of the Vatican, in jail for hiding existential information
+      from the public, right?
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 5f29d662-0d3b-4af3-ab7d-16cbb0a33d30
+      title: Avi Loeb
+    provenance_chain:
+      origin_kind: speaker
+      origin: Avi Loeb
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 4290466e-f30e-426f-8357-e31c0e252b5a
+        title: Vatican City
+        slug: vatican-city
+      - node_id: 5e9f049a-481a-4f16-8704-5250716a07f3
+        title: Galileo Galilei
+        slug: galileo-galilei
+      - node_id: 5f29d662-0d3b-4af3-ab7d-16cbb0a33d30
+        title: Avi Loeb
+        slug: avi-loeb
+    date: null
+    date_end: null
+    location_in_record: 00:40:15.7-00:40:27.3
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 8c1d10dd-26ad-481a-9699-761ecf181743
+      record_title: 'Episode 73: Science vs. Secrecy'
+      record_date: '2026-06-30'
+      record_reference: https://www.youtube.com/watch?v=tZHuAZpLdFw
+      content_hash: sha256:ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230a948eb3d
+      friendly_name: null
+  - claim_id: a2a77fbf-a946-4806-bbd3-e8cfea546bed
+    claim_hash: 53e5e61a246ef12c9bb041e5e466375ca4a1cf17c1e32e8aa89f280c1f5d4af6
+    content: Diana Walsh Pasulka has spoken about access to the Vatican archives and went there with Tim Taylor, hinting that
+      the Holy See knows much more than is apparent.
+    original_excerpt: And then you have Pasulka talking about access to the Vatican archives and, you know, her going with
+      Tim Taylor and hinting that they know much more than meets the eye.
+    claim_type: hearsay
+    attestation: second_hand
+    speaker:
+      node_id: 079d4381-4273-418b-bc9a-468623f95c6e
+      title: Jesse Mitchells
+    provenance_chain:
+      origin_kind: named
+      origin: Diana Walsh Pasulka
+      relay:
+        - Jesse Michels
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 0233cce8-2687-4ccb-b0ab-8bbaddf5656c
+        title: Holy See
+        slug: holy-see
+      - node_id: 4290466e-f30e-426f-8357-e31c0e252b5a
+        title: Vatican City
+        slug: vatican-city
+      - node_id: 6485c8ec-97af-4a6d-9547-34aee3eb5b87
+        title: Taylor
+        slug: taylor
+      - node_id: f2daae19-9351-4a8e-b466-664f83887f61
+        title: Diana Walsh Pasulka
+        slug: diana-walsh-pasulka
+    date: null
+    date_end: null
+    location_in_record: 01:05:33.0-01:05:42.3
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: dc9d8bc8-9c1f-46b4-9b89-8d86b6b08e1d
+      record_title: Jesse Michels, UAPGerb & Chris Ramsay - Flying Saucer Diner
+      record_date: '2026-07-17'
+      record_reference: https://www.youtube.com/watch?v=HFLBDi87888
+      content_hash: sha256:7b2e272d7c82fdda745ee0354d7c9cc4b0d5ba5506015ca27edd9169a768b262
+      friendly_name: null
+  - claim_id: fbc0047e-0103-4fed-8ba4-ad79d1f2661d
+    claim_hash: 4c39b4ecf297df29b95df74e51f7ed7cc53d20533648d1d8c52c3dbbc9a29c04
+    content: Once a year, within the grounds of Vatican City, a UFO research group meets and discusses historical unidentified
+      flying object material, at a location Jesse Michels renders in rough translation as St Anne's Cathedral.
+    original_excerpt: And they have in, I think it's like the rough translation is like St. Anne's Cathedral. There's once
+      a year within the grounds of the Vatican, there is a UFO research group that meets up and discusses this old stuff.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 079d4381-4273-418b-bc9a-468623f95c6e
+      title: Jesse Mitchells
+    provenance_chain:
+      origin_kind: speaker
+      origin: Jesse Michels
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 0233cce8-2687-4ccb-b0ab-8bbaddf5656c
+        title: Holy See
+        slug: holy-see
+      - node_id: 4290466e-f30e-426f-8357-e31c0e252b5a
+        title: Vatican City
+        slug: vatican-city
+      - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
+        title: Unidentified Flying Object (UFO)
+        slug: unidentified-flying-object-ufo
+    date: null
+    date_end: null
+    location_in_record: 01:06:18.1-01:06:32.6
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: dc9d8bc8-9c1f-46b4-9b89-8d86b6b08e1d
+      record_title: Jesse Michels, UAPGerb & Chris Ramsay - Flying Saucer Diner
+      record_date: '2026-07-17'
+      record_reference: https://www.youtube.com/watch?v=HFLBDi87888
+      content_hash: sha256:7b2e272d7c82fdda745ee0354d7c9cc4b0d5ba5506015ca27edd9169a768b262
+      friendly_name: null
+  - claim_id: df6cb700-73b5-4d5c-b5ad-97bc039aec3d
+    claim_hash: 45565fba62e051057b905b90c7f98612786e3b1b29eb7366f125d48da725d2c1
+    content: Jesse Michels attended an interdisciplinary faith event inside the Vatican, to which he was invited.
+    original_excerpt: i'm in the Vatican as part of this like you know event it's like some like interdisciplinary faith thing
+      or whatever that i was invited
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 079d4381-4273-418b-bc9a-468623f95c6e
+      title: Jesse Mitchells
+    provenance_chain:
+      origin_kind: speaker
+      origin: Jesse Michels
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 079d4381-4273-418b-bc9a-468623f95c6e
+        title: Jesse Mitchells
+        slug: jesse-mitchells
+      - node_id: 4290466e-f30e-426f-8357-e31c0e252b5a
+        title: Vatican City
+        slug: vatican-city
+    date: null
+    date_end: null
+    location_in_record: 01:06:47.9-01:06:56.6
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: dc9d8bc8-9c1f-46b4-9b89-8d86b6b08e1d
+      record_title: Jesse Michels, UAPGerb & Chris Ramsay - Flying Saucer Diner
+      record_date: '2026-07-17'
+      record_reference: https://www.youtube.com/watch?v=HFLBDi87888
+      content_hash: sha256:7b2e272d7c82fdda745ee0354d7c9cc4b0d5ba5506015ca27edd9169a768b262
+      friendly_name: null
+  - claim_id: 929a0c0d-5664-403a-9d95-817e45b01d6f
+    claim_hash: 746c378b3c82dec7ca79ef92eda8b62da3bc2dac8b7c84afe3125cbf262ebcc4
+    content: Jesse Michels gained access to the Vatican event through a person who contacted him around the time of his Peru
+      mummies documentary and who was connected with Kirsan Ilyumzhinov.
+    original_excerpt: So this dude that reached out around my Peru mummies dock was connected with Kirsan Ilyumzhinov.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 079d4381-4273-418b-bc9a-468623f95c6e
+      title: Jesse Mitchells
+    provenance_chain:
+      origin_kind: speaker
+      origin: Jesse Michels
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 079d4381-4273-418b-bc9a-468623f95c6e
+        title: Jesse Mitchells
+        slug: jesse-mitchells
+      - node_id: 4290466e-f30e-426f-8357-e31c0e252b5a
+        title: Vatican City
+        slug: vatican-city
+      - node_id: df204d89-24eb-4d4e-bea8-df5eb415725f
+        title: Kirsan Ilyumzhinov
+        slug: kirsan-ilyumzhinov
+    date: null
+    date_end: null
+    location_in_record: 01:06:58.5-01:07:05.0
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: dc9d8bc8-9c1f-46b4-9b89-8d86b6b08e1d
+      record_title: Jesse Michels, UAPGerb & Chris Ramsay - Flying Saucer Diner
+      record_date: '2026-07-17'
+      record_reference: https://www.youtube.com/watch?v=HFLBDi87888
+      content_hash: sha256:7b2e272d7c82fdda745ee0354d7c9cc4b0d5ba5506015ca27edd9169a768b262
+      friendly_name: null
+  - claim_id: 9a76d9a5-6b38-42dd-8b8e-e87957c46d40
+    claim_hash: a057dbde39d113a2ee7f4271da431323dd8181fcea73372b164d3dd5fe6742b7
+    content: Kirsan Ilyumzhinov attended an interfaith event at the Vatican with representatives of many religions present.
+    original_excerpt: he had this invite to this Vatican event or whatever and it was like faiths of all you know it was like
+      every religion or whatever representatives would go or whatever and Kirsan was there
+    claim_type: observation
+    attestation: first_hand
+    speaker:
+      node_id: 079d4381-4273-418b-bc9a-468623f95c6e
+      title: Jesse Mitchells
+    provenance_chain:
+      origin_kind: speaker
+      origin: Jesse Michels
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 0233cce8-2687-4ccb-b0ab-8bbaddf5656c
+        title: Holy See
+        slug: holy-see
+      - node_id: 079d4381-4273-418b-bc9a-468623f95c6e
+        title: Jesse Mitchells
+        slug: jesse-mitchells
+      - node_id: 4290466e-f30e-426f-8357-e31c0e252b5a
+        title: Vatican City
+        slug: vatican-city
+      - node_id: df204d89-24eb-4d4e-bea8-df5eb415725f
+        title: Kirsan Ilyumzhinov
+        slug: kirsan-ilyumzhinov
+    date: null
+    date_end: null
+    location_in_record: 01:09:11.1-01:09:20.6
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: dc9d8bc8-9c1f-46b4-9b89-8d86b6b08e1d
+      record_title: Jesse Michels, UAPGerb & Chris Ramsay - Flying Saucer Diner
+      record_date: '2026-07-17'
+      record_reference: https://www.youtube.com/watch?v=HFLBDi87888
+      content_hash: sha256:7b2e272d7c82fdda745ee0354d7c9cc4b0d5ba5506015ca27edd9169a768b262
+      friendly_name: null
+  - claim_id: e0bd2adc-dd62-4813-a3c8-42483b02a84e
+    claim_hash: 1e47968837dab465e6b6ed3eef45381f61ef0843a7b5e2c3f4c69dae2dfeba89
+    content: At the Vatican interfaith event, Kirsan Ilyumzhinov brought a large chess piece that he intended to give to the
+      Pope.
+    original_excerpt: Kirsan was there and he had this big chess piece that he wanted to give to the pope
+    claim_type: observation
+    attestation: first_hand
+    speaker:
+      node_id: 079d4381-4273-418b-bc9a-468623f95c6e
+      title: Jesse Mitchells
+    provenance_chain:
+      origin_kind: speaker
+      origin: Jesse Michels
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 079d4381-4273-418b-bc9a-468623f95c6e
+        title: Jesse Mitchells
+        slug: jesse-mitchells
+      - node_id: 4290466e-f30e-426f-8357-e31c0e252b5a
+        title: Vatican City
+        slug: vatican-city
+      - node_id: df204d89-24eb-4d4e-bea8-df5eb415725f
+        title: Kirsan Ilyumzhinov
+        slug: kirsan-ilyumzhinov
+    date: null
+    date_end: null
+    location_in_record: 01:09:20.0-01:09:22.9
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: dc9d8bc8-9c1f-46b4-9b89-8d86b6b08e1d
+      record_title: Jesse Michels, UAPGerb & Chris Ramsay - Flying Saucer Diner
+      record_date: '2026-07-17'
+      record_reference: https://www.youtube.com/watch?v=HFLBDi87888
+      content_hash: sha256:7b2e272d7c82fdda745ee0354d7c9cc4b0d5ba5506015ca27edd9169a768b262
+      friendly_name: null
+  - claim_id: b4b8df5b-3086-4cc2-8e61-dbea74e25f78
+    claim_hash: 78cb31cd527313c2b918e82cd98c2141617cd01e50f86b6da926d58cd4286c2b
+    content: At the Vatican interfaith event attended by Jesse Michels, the Pope left without engaging with attendees and
+      did not accept the chess piece from Kirsan Ilyumzhinov.
+    original_excerpt: the pope ended up like kind of scurrying off ... No, he didn't, like, engage with anybody.
+    claim_type: observation
+    attestation: first_hand
+    speaker:
+      node_id: 079d4381-4273-418b-bc9a-468623f95c6e
+      title: Jesse Mitchells
+    provenance_chain:
+      origin_kind: speaker
+      origin: Jesse Michels
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 0233cce8-2687-4ccb-b0ab-8bbaddf5656c
+        title: Holy See
+        slug: holy-see
+      - node_id: 079d4381-4273-418b-bc9a-468623f95c6e
+        title: Jesse Mitchells
+        slug: jesse-mitchells
+      - node_id: 4290466e-f30e-426f-8357-e31c0e252b5a
+        title: Vatican City
+        slug: vatican-city
+      - node_id: df204d89-24eb-4d4e-bea8-df5eb415725f
+        title: Kirsan Ilyumzhinov
+        slug: kirsan-ilyumzhinov
+    date: null
+    date_end: null
+    location_in_record: 01:09:24.0-01:09:25.6
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: dc9d8bc8-9c1f-46b4-9b89-8d86b6b08e1d
+      record_title: Jesse Michels, UAPGerb & Chris Ramsay - Flying Saucer Diner
+      record_date: '2026-07-17'
+      record_reference: https://www.youtube.com/watch?v=HFLBDi87888
+      content_hash: sha256:7b2e272d7c82fdda745ee0354d7c9cc4b0d5ba5506015ca27edd9169a768b262
+      friendly_name: null
+  - claim_id: b9afc29b-be0d-45a8-817a-3a04b3ca586f
+    claim_hash: eedc20411b74608806599895ebe54a68edf238f11e03da14e65e28abe297baeb
+    content: Kirsan Ilyumzhinov gave the chess piece to a senior cleric at the Vatican event as a representative of the Pope,
+      in Jesse Michels's presence.
+    original_excerpt: And he gives him the chess piece because he's a representative of the Pope.
+    claim_type: observation
+    attestation: first_hand
+    speaker:
+      node_id: 079d4381-4273-418b-bc9a-468623f95c6e
+      title: Jesse Mitchells
+    provenance_chain:
+      origin_kind: speaker
+      origin: Jesse Michels
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 0233cce8-2687-4ccb-b0ab-8bbaddf5656c
+        title: Holy See
+        slug: holy-see
+      - node_id: 079d4381-4273-418b-bc9a-468623f95c6e
+        title: Jesse Mitchells
+        slug: jesse-mitchells
+      - node_id: 4290466e-f30e-426f-8357-e31c0e252b5a
+        title: Vatican City
+        slug: vatican-city
+      - node_id: df204d89-24eb-4d4e-bea8-df5eb415725f
+        title: Kirsan Ilyumzhinov
+        slug: kirsan-ilyumzhinov
+    date: null
+    date_end: null
+    location_in_record: 01:10:01.2-01:10:03.4
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: dc9d8bc8-9c1f-46b4-9b89-8d86b6b08e1d
+      record_title: Jesse Michels, UAPGerb & Chris Ramsay - Flying Saucer Diner
+      record_date: '2026-07-17'
+      record_reference: https://www.youtube.com/watch?v=HFLBDi87888
+      content_hash: sha256:7b2e272d7c82fdda745ee0354d7c9cc4b0d5ba5506015ca27edd9169a768b262
+      friendly_name: null
+  - claim_id: e1670680-7e09-4678-b381-79570e085a8f
+    claim_hash: dc8ea28a5400d91a5dc1ffae321e8fa62eb4847efe92a9feb1824b30c6f166cc
+    content: Jesse Michels shook hands at the Vatican event with a man he was afterwards told by another attendee was the
+      Cardinal Secretary of State of the Holy See.
+    original_excerpt: He goes, that was the cardinal secretary of state, which is the number two to the pope
+    claim_type: testimony
+    attestation: second_hand
+    speaker:
+      node_id: 079d4381-4273-418b-bc9a-468623f95c6e
+      title: Jesse Mitchells
+    provenance_chain:
+      origin_kind: speaker
+      origin: Jesse Michels
+      relay:
+        - an unnamed attendee at the Vatican event who identified the cleric
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 0233cce8-2687-4ccb-b0ab-8bbaddf5656c
+        title: Holy See
+        slug: holy-see
+      - node_id: 079d4381-4273-418b-bc9a-468623f95c6e
+        title: Jesse Mitchells
+        slug: jesse-mitchells
+      - node_id: 4290466e-f30e-426f-8357-e31c0e252b5a
+        title: Vatican City
+        slug: vatican-city
+    date: null
+    date_end: null
+    location_in_record: 01:10:12.2-01:10:18.1
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: dc9d8bc8-9c1f-46b4-9b89-8d86b6b08e1d
+      record_title: Jesse Michels, UAPGerb & Chris Ramsay - Flying Saucer Diner
+      record_date: '2026-07-17'
+      record_reference: https://www.youtube.com/watch?v=HFLBDi87888
+      content_hash: sha256:7b2e272d7c82fdda745ee0354d7c9cc4b0d5ba5506015ca27edd9169a768b262
+      friendly_name: null
+  - claim_id: 9b16a0b8-c525-41fe-b7c7-4ea8d8dd3da4
+    claim_hash: ebe326ab9cb0dadadc91a4d3345a19b13fd0941d768dbe49ae03fc3ef2ecba39
+    content: A week or two after the Vatican interfaith event, Jesse Michels learned from an unstated source that the Cardinal
+      Secretary of State of the Holy See had in certain instances expressed an interest in UFOs.
+    original_excerpt: then I find out a week or two later that in certain instances, he's expressed interest in UFOs
+    claim_type: hearsay
+    attestation: null
+    speaker:
+      node_id: 079d4381-4273-418b-bc9a-468623f95c6e
+      title: Jesse Mitchells
+    provenance_chain:
+      origin_kind: unattributed
+      origin: an unstated source that reached Jesse Michels after the Vatican event
+      relay:
+        - Jesse Michels
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 0233cce8-2687-4ccb-b0ab-8bbaddf5656c
+        title: Holy See
+        slug: holy-see
+      - node_id: 079d4381-4273-418b-bc9a-468623f95c6e
+        title: Jesse Mitchells
+        slug: jesse-mitchells
+      - node_id: 4290466e-f30e-426f-8357-e31c0e252b5a
+        title: Vatican City
+        slug: vatican-city
+      - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
+        title: Unidentified Flying Object (UFO)
+        slug: unidentified-flying-object-ufo
+    date: null
+    date_end: null
+    location_in_record: 01:10:42.2-01:10:49.1
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: dc9d8bc8-9c1f-46b4-9b89-8d86b6b08e1d
+      record_title: Jesse Michels, UAPGerb & Chris Ramsay - Flying Saucer Diner
+      record_date: '2026-07-17'
+      record_reference: https://www.youtube.com/watch?v=HFLBDi87888
+      content_hash: sha256:7b2e272d7c82fdda745ee0354d7c9cc4b0d5ba5506015ca27edd9169a768b262
+      friendly_name: null

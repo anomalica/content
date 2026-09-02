@@ -1,0 +1,478 @@
+schema: anomalica/brief/1
+brief_hash: 9f4354ad9c879bf7eb87d61a2705f0122b2ecafbf6f3d213338d11bcf7c508fa
+page:
+  kind: entity
+  node_id: ad4c5ffb-29fc-42b3-a3cc-29ed186d5456
+  node_type: place
+  title: USA, California, Big Sur
+  slug: california-big-sur-usa
+  claim_count: 9
+  claim_count_total: 9
+generated:
+  graph_version: '2026-09-01T10:10:49.863545+00:00'
+size:
+  claims: 9
+  tokens_estimated: 2649
+  sized_against: 1050000
+publication:
+  status: published
+  note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
+    transcripts are gated elsewhere.
+belonging:
+  verified: 0
+  suspect_excluded: 0
+  unreviewed: 9
+related_nodes:
+  - node_id: 55180311-d8bf-4d7a-ad49-c4364880b38f
+    title: Esalen Institute
+    node_type: organisation
+    slug: esalen-institute
+    shared_claims: 4
+  - node_id: 84a01810-560f-4ad7-982d-4f95a0d38b02
+    title: Robert Jacobs
+    node_type: person
+    slug: robert-jacobs
+    shared_claims: 3
+  - node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+    title: Ross Coulthart
+    node_type: person
+    slug: ross-coulthart
+    shared_claims: 3
+  - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
+    title: 2004 USS Nimitz UAP encounter
+    node_type: event
+    slug: 2004-uss-nimitz-uap-encounter
+    shared_claims: 2
+  - node_id: c09e3558-1732-4676-a218-d67d285d98ef
+    title: David Fravor
+    node_type: person
+    slug: david-fravor
+    shared_claims: 2
+  - node_id: 8b6e0178-0856-47b3-a14a-780d2bb8b63d
+    title: Alex Klokus
+    node_type: person
+    slug: alex-klokus
+    shared_claims: 1
+  - node_id: 8e3ab056-0cd2-4020-9714-d1af2003bc6e
+    title: Atlas intercontinental ballistic missile
+    node_type: object
+    slug: atlas-intercontinental-ballistic-missile
+    shared_claims: 1
+  - node_id: 0c15657f-8c99-43ad-8912-d2841ba0634f
+    title: Esalen Institute Skywatcher psionic inviting demonstration
+    node_type: event
+    slug: esalen-institute-skywatcher-psionic-inviting-demonstration
+    shared_claims: 1
+  - node_id: 6a174ff1-da8e-4674-8b4a-6b62b2182ec5
+    title: Esalen blue hexagonal orb photographs
+    node_type: document
+    slug: esalen-blue-hexagonal-orb-photographs
+    shared_claims: 1
+  - node_id: d0e1ccf0-977b-4550-be92-02d4075be4ae
+    title: Skywatcher
+    node_type: organisation
+    slug: skywatcher
+    shared_claims: 1
+  - node_id: bfd491e5-8e60-456c-bb6c-da2fb39d96f0
+    title: USA, California, Edwards Air Force Base
+    node_type: place
+    slug: california-edwards-air-force-base-usa
+    shared_claims: 1
+  - node_id: 887aeb17-7249-417c-8305-bacf0f4604e9
+    title: USA, California, Pebble Beach
+    node_type: place
+    slug: california-pebble-beach-usa
+    shared_claims: 1
+  - node_id: 5d5aa4e3-7bc3-4206-97e9-86ceeb333478
+    title: USA, California, San Francisco
+    node_type: place
+    slug: california-san-francisco-usa
+    shared_claims: 1
+  - node_id: 32b98a17-be55-4b0f-8e10-9d377e1e8b33
+    title: United States Air Force (USAF)
+    node_type: organisation
+    slug: united-states-air-force-usaf
+    shared_claims: 1
+  - node_id: ece2a851-00f9-488b-b524-f8e5de877203
+    title: Vice Admiral Weitzel
+    node_type: person
+    slug: vice-admiral-weitzel
+    shared_claims: 1
+claims:
+  - claim_id: 15b08a80-b871-47af-806e-950184d588e3
+    claim_hash: 63d0634c8f0e5d09b40a3663582d0b69fb6d4ce2e535ae89b0e2092167b126aa
+    content: During a check flight with Vice Admiral Weitzel, David Fravor reached Mach 1.78 in a Super Hornet, off the coast
+      of Big Sur and Pebble Beach, California.
+    original_excerpt: the fastest i ever got was i was with the uh well soon to be vice admiral white so we had taken a check
+      flight and uh and i got it up to 1.78 i got a super horn up to mach 1.78 and it was and we were struck by pebble beach
+      too
+    claim_type: measurement
+    attestation: first_hand
+    speaker:
+      node_id: c09e3558-1732-4676-a218-d67d285d98ef
+      title: David Fravor
+    provenance_chain:
+      origin_kind: speaker
+      origin: David Fravor
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 887aeb17-7249-417c-8305-bacf0f4604e9
+        title: USA, California, Pebble Beach
+        slug: california-pebble-beach-usa
+      - node_id: ad4c5ffb-29fc-42b3-a3cc-29ed186d5456
+        title: USA, California, Big Sur
+        slug: california-big-sur-usa
+      - node_id: c09e3558-1732-4676-a218-d67d285d98ef
+        title: David Fravor
+        slug: david-fravor
+      - node_id: ece2a851-00f9-488b-b524-f8e5de877203
+        title: Vice Admiral Weitzel
+        slug: vice-admiral-weitzel
+    date: null
+    date_end: null
+    location_in_record: 01:07:43.6-01:07:57.7
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 0157e540-a945-4b2a-acdf-6c449172dcd6
+      record_title: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering | Lex Fridman Podcast #122'
+      record_date: '2020-09-08'
+      record_reference: https://www.youtube.com/watch?v=aB8zcAttP1E
+      content_hash: sha256:135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19fd6afb8a
+      friendly_name: 2020-09-08-video-david-fravor-ufos-aliens-fighter-jets-and-aerospace.v2
+  - claim_id: e3264def-f95f-4be8-86bc-89fc084bcc10
+    claim_hash: d5aa024acaaf3fdb568ba28220db0e2881cfb9ed0122264198633d898a8bdb48
+    content: David Fravor's Mach 1.78 flight was still accelerating when he stopped, limited by fuel and by the available
+      airspace off the coast of California.
+    original_excerpt: it was literally still accelerating when i stopped but i had it was fuel limited and space limited,
+      because I'm off the coast of California, Big Sur
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: c09e3558-1732-4676-a218-d67d285d98ef
+      title: David Fravor
+    provenance_chain:
+      origin_kind: speaker
+      origin: David Fravor
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: ad4c5ffb-29fc-42b3-a3cc-29ed186d5456
+        title: USA, California, Big Sur
+        slug: california-big-sur-usa
+      - node_id: c09e3558-1732-4676-a218-d67d285d98ef
+        title: David Fravor
+        slug: david-fravor
+    date: null
+    date_end: null
+    location_in_record: 01:08:20.2-01:08:28.6
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 0157e540-a945-4b2a-acdf-6c449172dcd6
+      record_title: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering | Lex Fridman Podcast #122'
+      record_date: '2020-09-08'
+      record_reference: https://www.youtube.com/watch?v=aB8zcAttP1E
+      content_hash: sha256:135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19fd6afb8a
+      friendly_name: 2020-09-08-video-david-fravor-ufos-aliens-fighter-jets-and-aerospace.v2
+  - claim_id: 6fdb54e7-ce54-4bef-b387-7519ec3c3889
+    claim_hash: 86aaacadad9b579ac8913a265c2281cd3dc9bad3a9bad34234f0ac8d713e804b
+    content: In September 1964, on a hilltop near Big Sur, California, approximately 160 kilometres from Vandenberg Air Force
+      Base, Robert Jacobs filmed a dummy nuclear warhead that had been launched from the base aboard an Atlas intercontinental
+      ballistic missile.
+    original_excerpt: In September that year, on a hilltop near a town called Big Sur about 160 kilometres from Vandenberg,
+      Jacobs was filming a dummy nuclear warhead that had been launched from the base aboard an Atlas intercontinental ballistic
+      missile.
+    claim_type: observation
+    attestation: first_hand
+    speaker:
+      node_id: 84a01810-560f-4ad7-982d-4f95a0d38b02
+      title: Robert Jacobs
+    provenance_chain:
+      origin_kind: speaker
+      origin: Robert Jacobs
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 84a01810-560f-4ad7-982d-4f95a0d38b02
+        title: Robert Jacobs
+        slug: robert-jacobs
+      - node_id: 8e3ab056-0cd2-4020-9714-d1af2003bc6e
+        title: Atlas intercontinental ballistic missile
+        slug: atlas-intercontinental-ballistic-missile
+      - node_id: ad4c5ffb-29fc-42b3-a3cc-29ed186d5456
+        title: USA, California, Big Sur
+        slug: california-big-sur-usa
+      - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
+        title: 2004 USS Nimitz UAP encounter
+        slug: 2004-uss-nimitz-uap-encounter
+      - node_id: bfd491e5-8e60-456c-bb6c-da2fb39d96f0
+        title: USA, California, Edwards Air Force Base
+        slug: california-edwards-air-force-base-usa
+    date: 1964-09
+    date_end: null
+    location_in_record: ch10:3869-4094
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 28069866-e6e5-44f6-8282-5f400a09debd
+    claim_hash: b1f0a7e1a64840f8374e534df0e987d529790ba5abc82a5b3abf93aae1837609
+    content: Robert Jacobs used a telescope near Big Sur, California, to film a missile launch in 1964.
+    original_excerpt: The telescope Bob Jacobs used near Big Sur, California, to film a missile launch in 1964.
+    claim_type: observation
+    attestation: first_hand
+    speaker:
+      node_id: 84a01810-560f-4ad7-982d-4f95a0d38b02
+      title: Robert Jacobs
+    provenance_chain:
+      origin_kind: speaker
+      origin: Robert Jacobs
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 84a01810-560f-4ad7-982d-4f95a0d38b02
+        title: Robert Jacobs
+        slug: robert-jacobs
+      - node_id: ad4c5ffb-29fc-42b3-a3cc-29ed186d5456
+        title: USA, California, Big Sur
+        slug: california-big-sur-usa
+      - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
+        title: 2004 USS Nimitz UAP encounter
+        slug: 2004-uss-nimitz-uap-encounter
+    date: '1964'
+    date_end: null
+    location_in_record: ch37:2871-2955
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 935d9bed-5ec2-4c1e-b587-a683b13e33bd
+    claim_hash: 0e8a3830f8fffaf650e2fc372ef8c260a68d381f6e4e4f60617fae2603057950
+    content: The United States Air Force falsely claimed Robert Jacobs never filmed from Big Sur, and Jacobs provided a photograph
+      of the telescope to prove that he had.
+    original_excerpt: When the US Air Force falsely claimed Jacobs never filmed from Big Sur he provided this photograph to
+      prove it happened.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 84a01810-560f-4ad7-982d-4f95a0d38b02
+      title: Robert Jacobs
+    provenance_chain:
+      origin_kind: speaker
+      origin: Robert Jacobs
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 32b98a17-be55-4b0f-8e10-9d377e1e8b33
+        title: United States Air Force (USAF)
+        slug: united-states-air-force-usaf
+      - node_id: 84a01810-560f-4ad7-982d-4f95a0d38b02
+        title: Robert Jacobs
+        slug: robert-jacobs
+      - node_id: ad4c5ffb-29fc-42b3-a3cc-29ed186d5456
+        title: USA, California, Big Sur
+        slug: california-big-sur-usa
+    date: null
+    date_end: null
+    location_in_record: ch37:2961-3072
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 6f55c982-f4ca-45ce-92ad-78a0a973c09d
+    claim_hash: c8a3cb87093cf0e28abb7dd5f3d8ecdaa9bd742f81c28b555e699f45cb350b28
+    content: Before Skywatcher was established, Ross Coulthart was invited by Alex Klokus to an event at the Esalen Institute
+      to speak to an audience of potential investors.
+    original_excerpt: Prior to the establishment of Skywatcher, there was an event that I was invited to by Alex Klokus, who's
+      one of the co-founders of Skywatcher... he invited me to come to Esalen to speak to that audience.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+      title: Ross Coulthart
+    provenance_chain:
+      origin_kind: speaker
+      origin: Ross Coulthart
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 0c15657f-8c99-43ad-8912-d2841ba0634f
+        title: Esalen Institute Skywatcher psionic inviting demonstration
+        slug: esalen-institute-skywatcher-psionic-inviting-demonstration
+      - node_id: 55180311-d8bf-4d7a-ad49-c4364880b38f
+        title: Esalen Institute
+        slug: esalen-institute
+      - node_id: 8b6e0178-0856-47b3-a14a-780d2bb8b63d
+        title: Alex Klokus
+        slug: alex-klokus
+      - node_id: ad4c5ffb-29fc-42b3-a3cc-29ed186d5456
+        title: USA, California, Big Sur
+        slug: california-big-sur-usa
+      - node_id: d0e1ccf0-977b-4550-be92-02d4075be4ae
+        title: Skywatcher
+        slug: skywatcher
+      - node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+        title: Ross Coulthart
+        slug: ross-coulthart
+    date: null
+    date_end: null
+    location_in_record: 02:20:44.4-02:20:52.6
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: fd845823-8784-462c-a981-4775525b6f84
+      record_title: The DANGEROUS Truth About UFOs - Ross Coulthart | DEBRIEFED ep. 76
+      record_date: '2026-02-20'
+      record_reference: https://www.youtube.com/watch?v=idBryc0eWww
+      content_hash: sha256:73be106d406f6d35a063a894e8384e7da0918eb8597d2107a9e3653becca2bdc
+      friendly_name: null
+  - claim_id: bb22128a-6a40-4c20-bac1-a37d79a60565
+    claim_hash: 616153afc81f296eca6ea481333fc6a18a772609c0f80fbb43c0f43a44839a05
+    content: The Esalen Institute is a spiritual retreat sitting directly above the Pacific Ocean, about three hours' drive
+      south of San Francisco.
+    original_excerpt: a spiritual retreat that sits right over the Pacific Ocean, but three hours drive south of San Francisco
+    claim_type: administrative
+    attestation: null
+    speaker:
+      node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+      title: Ross Coulthart
+    provenance_chain:
+      origin_kind: unattributed
+      origin: Ross Coulthart's narration
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 55180311-d8bf-4d7a-ad49-c4364880b38f
+        title: Esalen Institute
+        slug: esalen-institute
+      - node_id: 5d5aa4e3-7bc3-4206-97e9-86ceeb333478
+        title: USA, California, San Francisco
+        slug: california-san-francisco-usa
+      - node_id: ad4c5ffb-29fc-42b3-a3cc-29ed186d5456
+        title: USA, California, Big Sur
+        slug: california-big-sur-usa
+    date: null
+    date_end: null
+    location_in_record: 02:23:18.2-02:23:23.8
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: fd845823-8784-462c-a981-4775525b6f84
+      record_title: The DANGEROUS Truth About UFOs - Ross Coulthart | DEBRIEFED ep. 76
+      record_date: '2026-02-20'
+      record_reference: https://www.youtube.com/watch?v=idBryc0eWww
+      content_hash: sha256:73be106d406f6d35a063a894e8384e7da0918eb8597d2107a9e3653becca2bdc
+      friendly_name: null
+  - claim_id: dd425b06-9728-4378-a9e3-95363bd55f94
+    claim_hash: 298035b761a749f9abe0c5a4dca55c4fc39ada1c2fd49bba79300a5a818259ec
+    content: The Esalen Institute at Big Sur has hot springs and pools where visitors bathe naked.
+    original_excerpt: know that it has hot springs, beautiful pools where people can take their clothes off and sit in the
+      pools.
+    claim_type: observation
+    attestation: first_hand
+    speaker:
+      node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+      title: Ross Coulthart
+    provenance_chain:
+      origin_kind: speaker
+      origin: Ross Coulthart
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 55180311-d8bf-4d7a-ad49-c4364880b38f
+        title: Esalen Institute
+        slug: esalen-institute
+      - node_id: ad4c5ffb-29fc-42b3-a3cc-29ed186d5456
+        title: USA, California, Big Sur
+        slug: california-big-sur-usa
+      - node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+        title: Ross Coulthart
+        slug: ross-coulthart
+    date: null
+    date_end: null
+    location_in_record: 02:23:29.8-02:23:37.2
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: fd845823-8784-462c-a981-4775525b6f84
+      record_title: The DANGEROUS Truth About UFOs - Ross Coulthart | DEBRIEFED ep. 76
+      record_date: '2026-02-20'
+      record_reference: https://www.youtube.com/watch?v=idBryc0eWww
+      content_hash: sha256:73be106d406f6d35a063a894e8384e7da0918eb8597d2107a9e3653becca2bdc
+      friendly_name: null
+  - claim_id: a5468d3c-1842-4fa7-b1a7-615329dbce28
+    claim_hash: e89ae1498b00bd3ebb47c3e5f846a088025b8823d21dae7ba28fe6dbf24aed0c
+    content: One of the Esalen blue hexagonal orb photographs shows swirling faces in a translucent mist, adjacent to the
+      hot springs at the Esalen Institute, viewed from the hill below the main meeting room.
+    original_excerpt: you see adjacent to the hot springs where all these young men and women were buck naked swimming in
+      the hot springs, swirling faces in a kind of a translucent mist.
+    claim_type: observation
+    attestation: first_hand
+    speaker:
+      node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+      title: Ross Coulthart
+    provenance_chain:
+      origin_kind: speaker
+      origin: Ross Coulthart
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 55180311-d8bf-4d7a-ad49-c4364880b38f
+        title: Esalen Institute
+        slug: esalen-institute
+      - node_id: 6a174ff1-da8e-4674-8b4a-6b62b2182ec5
+        title: Esalen blue hexagonal orb photographs
+        slug: esalen-blue-hexagonal-orb-photographs
+      - node_id: ad4c5ffb-29fc-42b3-a3cc-29ed186d5456
+        title: USA, California, Big Sur
+        slug: california-big-sur-usa
+      - node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+        title: Ross Coulthart
+        slug: ross-coulthart
+    date: null
+    date_end: null
+    location_in_record: 02:28:17.0-02:28:27.1
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: fd845823-8784-462c-a981-4775525b6f84
+      record_title: The DANGEROUS Truth About UFOs - Ross Coulthart | DEBRIEFED ep. 76
+      record_date: '2026-02-20'
+      record_reference: https://www.youtube.com/watch?v=idBryc0eWww
+      content_hash: sha256:73be106d406f6d35a063a894e8384e7da0918eb8597d2107a9e3653becca2bdc
+      friendly_name: null

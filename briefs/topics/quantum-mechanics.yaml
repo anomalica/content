@@ -1,0 +1,211 @@
+schema: anomalica/brief/1
+brief_hash: 47b580ef593969eb56fea75e379e45f5b589ee7827e6e932a9ec7c64a1479940
+page:
+  kind: entity
+  node_id: c6de7725-eb41-40e2-b679-03f2c1e2192e
+  node_type: topic
+  title: Quantum mechanics
+  slug: quantum-mechanics
+  claim_count: 4
+  claim_count_total: 4
+generated:
+  graph_version: '2026-09-01T10:10:49.863545+00:00'
+size:
+  claims: 4
+  tokens_estimated: 1190
+  sized_against: 1050000
+publication:
+  status: published
+  note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
+    transcripts are gated elsewhere.
+belonging:
+  verified: 0
+  suspect_excluded: 0
+  unreviewed: 4
+related_nodes:
+  - node_id: 0d4dfba6-a53b-4f23-a2ad-e4c9bea44076
+    title: Robert Bigelow
+    node_type: person
+    slug: robert-bigelow
+    shared_claims: 3
+  - node_id: 32d00165-71c5-4ca8-a07c-180914be45c4
+    title: Consciousness studies
+    node_type: topic
+    slug: consciousness-studies
+    shared_claims: 2
+  - node_id: 08e9391a-bb91-422e-be0e-94fec5b5809c
+    title: Double-slit experiment
+    node_type: topic
+    slug: double-slit-experiment
+    shared_claims: 1
+  - node_id: 2a7e99da-a52b-42f0-ae13-32841e4a3bc8
+    title: Quantum gravity
+    node_type: topic
+    slug: quantum-gravity
+    shared_claims: 1
+  - node_id: 221cb090-6c03-4bc2-8b68-79fe700bbc2a
+    title: String theory
+    node_type: topic
+    slug: string-theory
+    shared_claims: 1
+claims:
+  - claim_id: 29712b40-a833-4fb7-bab7-9533081a9f5f
+    claim_hash: 79e1360b61fe104fa4276699993ab0dd6a1c6f655a9418dc74750a0ecae1655a
+    content: String theory was a popular idea for about 50 years, proposing extra dimensions in order to reconcile quantum
+      mechanics and gravity.
+    original_excerpt: in terms of extra dimensions, that was a popular idea for 50 years that string theory suggested in order
+      to marry quantum mechanics and gravity.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 5f29d662-0d3b-4af3-ab7d-16cbb0a33d30
+      title: Avi Loeb
+    provenance_chain:
+      origin_kind: speaker
+      origin: Avi Loeb
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 221cb090-6c03-4bc2-8b68-79fe700bbc2a
+        title: String theory
+        slug: string-theory
+      - node_id: 2a7e99da-a52b-42f0-ae13-32841e4a3bc8
+        title: Quantum gravity
+        slug: quantum-gravity
+      - node_id: c6de7725-eb41-40e2-b679-03f2c1e2192e
+        title: Quantum mechanics
+        slug: quantum-mechanics
+    date: null
+    date_end: null
+    location_in_record: 00:41:35.9-00:41:45.1
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 8c1d10dd-26ad-481a-9699-761ecf181743
+      record_title: 'Episode 73: Science vs. Secrecy'
+      record_date: '2026-06-30'
+      record_reference: https://www.youtube.com/watch?v=tZHuAZpLdFw
+      content_hash: sha256:ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230a948eb3d
+      friendly_name: null
+  - claim_id: e9a97f69-829a-45af-933e-0dde972a5eee
+    claim_hash: e50564777cab15ab9e77e99090cf9644327564b5121542149bdc3deb84da0425
+    content: Robert Bigelow regards the double-slit experiment in quantum mechanics as only the bare tip of the iceberg regarding
+      the power of thought.
+    original_excerpt: it's not just because the Heisenberg Double Slit Experiment in Quantum Mechanics that's the bare tip
+      of the iceberg
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 0d4dfba6-a53b-4f23-a2ad-e4c9bea44076
+      title: Robert Bigelow
+    provenance_chain:
+      origin_kind: speaker
+      origin: Robert Bigelow
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 08e9391a-bb91-422e-be0e-94fec5b5809c
+        title: Double-slit experiment
+        slug: double-slit-experiment
+      - node_id: 0d4dfba6-a53b-4f23-a2ad-e4c9bea44076
+        title: Robert Bigelow
+        slug: robert-bigelow
+      - node_id: c6de7725-eb41-40e2-b679-03f2c1e2192e
+        title: Quantum mechanics
+        slug: quantum-mechanics
+    date: null
+    date_end: null
+    location_in_record: 00:17:08.2-00:17:13.9
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 5de4e296-4206-45f6-aa56-c3b8efb5c9e2
+      record_title: The Evolution of AAWSAP | Bigelow Podcast, Ep. 2
+      record_date: '2026-08-11'
+      record_reference: https://www.youtube.com/watch?v=hz7jHEgYzQw
+      content_hash: sha256:1aa9d864c5a4bb930164c278d9624c6bc0f84278ea4b5e57594fae9e21e90858
+      friendly_name: null
+  - claim_id: da797343-89f6-47cc-acf2-38ceefd2b219
+    claim_hash: 60823687593055ba9d0e9c783a118e0ac97264249a0c7553ebc5c6410fdfffbe
+    content: Robert Bigelow considers that consciousness can have an effect on subatomic particles by pure observation, causing
+      deviations according to the observer's intent.
+    original_excerpt: consciousness can have an effect on material products, on materials, on...by just pure observation,
+      you can have an effect on subatomic particles. ... And you cause deviations according to your intent.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 0d4dfba6-a53b-4f23-a2ad-e4c9bea44076
+      title: Robert Bigelow
+    provenance_chain:
+      origin_kind: speaker
+      origin: Robert Bigelow
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 0d4dfba6-a53b-4f23-a2ad-e4c9bea44076
+        title: Robert Bigelow
+        slug: robert-bigelow
+      - node_id: 32d00165-71c5-4ca8-a07c-180914be45c4
+        title: Consciousness studies
+        slug: consciousness-studies
+      - node_id: c6de7725-eb41-40e2-b679-03f2c1e2192e
+        title: Quantum mechanics
+        slug: quantum-mechanics
+    date: null
+    date_end: null
+    location_in_record: 00:18:12.8-00:18:35.9
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 5de4e296-4206-45f6-aa56-c3b8efb5c9e2
+      record_title: The Evolution of AAWSAP | Bigelow Podcast, Ep. 2
+      record_date: '2026-08-11'
+      record_reference: https://www.youtube.com/watch?v=hz7jHEgYzQw
+      content_hash: sha256:1aa9d864c5a4bb930164c278d9624c6bc0f84278ea4b5e57594fae9e21e90858
+      friendly_name: null
+  - claim_id: ea85132e-40f2-4346-a9ee-55bdb8760ece
+    claim_hash: be336c085d23f3a3ef3e99064185a17ec3ce98bb53ea8bdecb2ba6d6c8cf1fda
+    content: Robert Bigelow considers that electrons are reactionary according to human observation and take a specific location
+      only upon measurement or being watched.
+    original_excerpt: you start at the itty bitty electrons. which are reactionary according to human observation, according
+      to consciousness. And then they become in a specific location upon measurement or being noticed or being watched.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 0d4dfba6-a53b-4f23-a2ad-e4c9bea44076
+      title: Robert Bigelow
+    provenance_chain:
+      origin_kind: speaker
+      origin: Robert Bigelow
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 0d4dfba6-a53b-4f23-a2ad-e4c9bea44076
+        title: Robert Bigelow
+        slug: robert-bigelow
+      - node_id: 32d00165-71c5-4ca8-a07c-180914be45c4
+        title: Consciousness studies
+        slug: consciousness-studies
+      - node_id: c6de7725-eb41-40e2-b679-03f2c1e2192e
+        title: Quantum mechanics
+        slug: quantum-mechanics
+    date: null
+    date_end: null
+    location_in_record: 00:23:48.2-00:24:05.8
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 5de4e296-4206-45f6-aa56-c3b8efb5c9e2
+      record_title: The Evolution of AAWSAP | Bigelow Podcast, Ep. 2
+      record_date: '2026-08-11'
+      record_reference: https://www.youtube.com/watch?v=hz7jHEgYzQw
+      content_hash: sha256:1aa9d864c5a4bb930164c278d9624c6bc0f84278ea4b5e57594fae9e21e90858
+      friendly_name: null

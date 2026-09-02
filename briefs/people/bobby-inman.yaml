@@ -1,0 +1,781 @@
+schema: anomalica/brief/1
+brief_hash: 0a3c738e30ae4ee8c98f1c437c395af62f3556186d2cb2b35d0f3c9f15ec3b35
+page:
+  kind: entity
+  node_id: 6af27fdb-215e-48f8-bcfe-34ef174b3a5f
+  node_type: person
+  title: Bobby Inman
+  slug: bobby-inman
+  claim_count: 17
+  claim_count_total: 17
+generated:
+  graph_version: '2026-09-01T10:10:49.863545+00:00'
+size:
+  claims: 17
+  tokens_estimated: 4871
+  sized_against: 1050000
+publication:
+  status: published
+  note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
+    transcripts are gated elsewhere.
+belonging:
+  verified: 0
+  suspect_excluded: 0
+  unreviewed: 17
+related_nodes:
+  - node_id: ee833add-d4e3-4b62-88dd-9b9c496e8dd1
+    title: California Institute of Technology (Caltech)
+    node_type: organisation
+    slug: california-institute-of-technology-caltech
+    shared_claims: 4
+  - node_id: 382b6d6c-0182-4121-8bfc-525602d667b1
+    title: Defense Intelligence Agency (DIA)
+    node_type: organisation
+    slug: defense-intelligence-agency-dia
+    shared_claims: 2
+  - node_id: e2b249d8-a643-4ab9-86a0-baf99bcb20e2
+    title: Donald Kerr
+    node_type: person
+    slug: donald-kerr
+    shared_claims: 2
+  - node_id: 3e3d0fe7-a2cf-4e09-ab26-7beca4bece48
+    title: NASA Jet Propulsion Laboratory (JPL)
+    node_type: organisation
+    slug: nasa-jet-propulsion-laboratory-jpl
+    shared_claims: 2
+  - node_id: 4ee606a3-72d8-412a-8bdc-c6077bd02a4a
+    title: National Security Agency (NSA)
+    node_type: organisation
+    slug: national-security-agency-nsa
+    shared_claims: 2
+  - node_id: 0b47cac5-b9cc-44ea-a2aa-5cbd39a0d21a
+    title: Unidentified Aerial Phenomena (UAP) Gerb
+    node_type: person
+    slug: unidentified-aerial-phenomena-uap-gerb
+    shared_claims: 2
+  - node_id: 4a2bb43b-aefc-44d2-8ac8-822267983bd1
+    title: White House press release on Bobby Inman nomination, 1993
+    node_type: document
+    slug: 1993-white-house-press-release-on-bobby-inman-nomination
+    shared_claims: 2
+  - node_id: 38b84d4a-96df-4684-bb46-f6f64f392add
+    title: Central Intelligence Agency (CIA)
+    node_type: organisation
+    slug: central-intelligence-agency-cia
+    shared_claims: 1
+  - node_id: cc327db1-44bd-4762-acc0-d8fe82a3c6ea
+    title: Cydonia
+    node_type: place
+    slug: cydonia
+    shared_claims: 1
+  - node_id: 03b7390b-c6ee-4c68-9536-b6f547c4734d
+    title: Dan Goldin
+    node_type: person
+    slug: dan-goldin
+    shared_claims: 1
+  - node_id: 989ce2ef-ea09-466d-99ad-6ba8785a5823
+    title: Edward C. Aldridge
+    node_type: person
+    slug: edward-c-aldridge
+    shared_claims: 1
+  - node_id: 079d4381-4273-418b-bc9a-468623f95c6e
+    title: Jesse Mitchells
+    node_type: person
+    slug: jesse-mitchells
+    shared_claims: 1
+  - node_id: 73d4f081-a30f-4212-a93f-f697d6a73051
+    title: Mars Observer
+    node_type: object
+    slug: mars-observer
+    shared_claims: 1
+  - node_id: 3f71238e-7b79-46a5-871a-d072de5ba017
+    title: Mars Observer disappearance, 1993-08-21
+    node_type: event
+    slug: 1993-08-21-mars-observer-disappearance
+    shared_claims: 1
+  - node_id: 97c6dfff-e58b-49b7-91c0-010e23dfc758
+    title: National Reconnaissance Office (NRO)
+    node_type: organisation
+    slug: national-reconnaissance-office-nro
+    shared_claims: 1
+  - node_id: f35c4e0a-0bb5-4090-bb7d-fcbc71ecaf79
+    title: Psychotronic weapons
+    node_type: topic
+    slug: psychotronic-weapons
+    shared_claims: 1
+  - node_id: e1650a1d-8feb-4841-a403-0d71e176d2d9
+    title: Richard C. Hoagland
+    node_type: person
+    slug: richard-c-hoagland
+    shared_claims: 1
+  - node_id: e4d00305-2831-4058-99ec-b01dc7bf5471
+    title: Science Applications International Corporation (SAIC)
+    node_type: organisation
+    slug: science-applications-international-corporation-saic
+    shared_claims: 1
+  - node_id: b5c47b21-8697-4839-beb7-3c943072ce04
+    title: Viking 1
+    node_type: project
+    slug: viking-1
+    shared_claims: 1
+  - node_id: de405770-791e-42b9-be6f-f1ef77ad896e
+    title: Wackenhut Corporation
+    node_type: organisation
+    slug: wackenhut-corporation
+    shared_claims: 1
+  - node_id: bd5970ce-dfaa-453f-a184-ec5b9c4d97a6
+    title: When the Best Must Do Even Better (Goldin speech)
+    node_type: document
+    slug: when-the-best-must-do-even-better-goldin-speech
+    shared_claims: 1
+  - node_id: 6ab4de8a-5e1e-4fd4-a5bb-6a96ff234ad4
+    title: William J. Clinton
+    node_type: person
+    slug: william-j-clinton
+    shared_claims: 1
+claims:
+  - claim_id: ef38ea06-0e59-445f-ba03-e29bbd456968
+    claim_hash: b5d1cceecaae7524e05e10dfbf644f9677bfa02bdb8287ac0bee6cdf2a1889fe
+    content: In the second paragraph of his prepared text, Dan Goldin acknowledged Admiral Bobby Inman, head of the Jet Propulsion
+      Laboratory (JPL) Oversight Committee at the California Institute of Technology (Caltech), noting he could not attend
+      but that Goldin had spoken to him by phone.
+    original_excerpt: I’d also like to acknowledge Admiral Inman, head of the JPL Oversight Committee at Caltech. He couldn’t
+      be here today, but I talked to him by phone. His commitment to the team here is also unwavering. And I thank him for
+      that...
+    claim_type: administrative
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: document
+      origin: When the Best Must Do Even Better (Goldin speech)
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 03b7390b-c6ee-4c68-9536-b6f547c4734d
+        title: Dan Goldin
+        slug: dan-goldin
+      - node_id: 3e3d0fe7-a2cf-4e09-ab26-7beca4bece48
+        title: NASA Jet Propulsion Laboratory (JPL)
+        slug: nasa-jet-propulsion-laboratory-jpl
+      - node_id: 6af27fdb-215e-48f8-bcfe-34ef174b3a5f
+        title: Bobby Inman
+        slug: bobby-inman
+      - node_id: bd5970ce-dfaa-453f-a184-ec5b9c4d97a6
+        title: When the Best Must Do Even Better (Goldin speech)
+        slug: when-the-best-must-do-even-better-goldin-speech
+      - node_id: ee833add-d4e3-4b62-88dd-9b9c496e8dd1
+        title: California Institute of Technology (Caltech)
+        slug: california-institute-of-technology-caltech
+    date: '2000-03-29'
+    date_end: null
+    location_in_record: ch14:22307-22528
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+      record_title: Dark Mission
+      record_date: '2010-07-22'
+      record_reference: null
+      content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+      friendly_name: null
+  - claim_id: c0f2530b-bb4c-4041-ad6c-a0fb4df99549
+    claim_hash: 1ec9e572f9e0ae90f22213526f9a02f586a939c7a44fa4b345f37ad93fcac929
+    content: Bobby Inman was a former director of the National Security Agency (NSA).
+    original_excerpt: The “Admiral Inman” he was referring to was Admiral Bobby Inman, former director of the National Security
+      Agency
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 4ee606a3-72d8-412a-8bdc-c6077bd02a4a
+        title: National Security Agency (NSA)
+        slug: national-security-agency-nsa
+      - node_id: 6af27fdb-215e-48f8-bcfe-34ef174b3a5f
+        title: Bobby Inman
+        slug: bobby-inman
+    date: null
+    date_end: null
+    location_in_record: ch14:22547-22653
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+      record_title: Dark Mission
+      record_date: '2010-07-22'
+      record_reference: null
+      content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+      friendly_name: null
+  - claim_id: 80d052f9-bb78-41aa-bff4-8575a081cea8
+    claim_hash: dce07cf3a369fe1e249ffdbcc9d244214328b90f20d86ec87fe6d4b0c3a67716
+    content: Bobby Inman was a former deputy director of the Central Intelligence Agency (CIA).
+    original_excerpt: deputy director of the Central Intelligence Agency
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 38b84d4a-96df-4684-bb46-f6f64f392add
+        title: Central Intelligence Agency (CIA)
+        slug: central-intelligence-agency-cia
+      - node_id: 6af27fdb-215e-48f8-bcfe-34ef174b3a5f
+        title: Bobby Inman
+        slug: bobby-inman
+    date: null
+    date_end: null
+    location_in_record: ch14:22661-22705
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+      record_title: Dark Mission
+      record_date: '2010-07-22'
+      record_reference: null
+      content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+      friendly_name: null
+  - claim_id: 4fdc4d30-ce22-405f-9984-bdf68944fbda
+    claim_hash: 2b589f704392dd405d91cf605be74ad8fd65670b49e2337f59512ac2ab36226a
+    content: Bobby Inman was a former vice director of the Defense Intelligence Agency (DIA).
+    original_excerpt: vice director of the Defense Intelligence Agency
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 382b6d6c-0182-4121-8bfc-525602d667b1
+        title: Defense Intelligence Agency (DIA)
+        slug: defense-intelligence-agency-dia
+      - node_id: 6af27fdb-215e-48f8-bcfe-34ef174b3a5f
+        title: Bobby Inman
+        slug: bobby-inman
+    date: null
+    date_end: null
+    location_in_record: ch14:22713-22755
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+      record_title: Dark Mission
+      record_date: '2010-07-22'
+      record_reference: null
+      content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+      friendly_name: null
+  - claim_id: a8c61a05-f65f-49b7-8740-d8ed87d4bf5b
+    claim_hash: 3380952f9c049bf626d49e247bfd2f3e1ddc2ef44b827d5781bad047a2e2fcee
+    content: Bobby Inman was a former Director of Naval Intelligence.
+    original_excerpt: former Director of Naval Intelligence
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 6af27fdb-215e-48f8-bcfe-34ef174b3a5f
+        title: Bobby Inman
+        slug: bobby-inman
+    date: null
+    date_end: null
+    location_in_record: ch14:22766-22791
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+      record_title: Dark Mission
+      record_date: '2010-07-22'
+      record_reference: null
+      content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+      friendly_name: null
+  - claim_id: 2cdf6062-e697-4622-ab4c-2d24ca982a0a
+    claim_hash: 7373c5f3ece3a2895e3565ca94704fe14792b6b619a4c05ba476fb7a4d0581d8
+    content: A White House press release issued in 1993 on the occasion of President Bill Clinton's recommendation that Bobby
+      Inman be confirmed as Secretary of Defense noted that Inman won the Distinguished Service Medal, the Navy's highest
+      non-combatant award.
+    original_excerpt: 'A White House press release, issued on the occasion of President Clinton’s 1993 recommendation that
+      Inman be confirmed as Secretary of Defense, noted: “As he rose through these posts, Inman won the Distinguished Service
+      Medal, the Navy’s highest non-combatant award..."'
+    claim_type: administrative
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: document
+      origin: White House press release on Bobby Inman nomination, 1993
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 4a2bb43b-aefc-44d2-8ac8-822267983bd1
+        title: White House press release on Bobby Inman nomination, 1993
+        slug: 1993-white-house-press-release-on-bobby-inman-nomination
+      - node_id: 6ab4de8a-5e1e-4fd4-a5bb-6a96ff234ad4
+        title: William J. Clinton
+        slug: william-j-clinton
+      - node_id: 6af27fdb-215e-48f8-bcfe-34ef174b3a5f
+        title: Bobby Inman
+        slug: bobby-inman
+    date: '1993'
+    date_end: null
+    location_in_record: ch14:22901-23164
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+      record_title: Dark Mission
+      record_date: '2010-07-22'
+      record_reference: null
+      content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+      friendly_name: null
+  - claim_id: 484826d0-e522-4506-a4f0-401e799511a1
+    claim_hash: 5046872e7b222431cb05bbd39205001261a20f99ea53cc399cc9d641253a7541
+    content: The 1993 White House press release stated Bobby Inman won the Defense Intelligence Agency (DIA)'s Defense Superior
+      Service Medal for 'achievements unparalleled in the history of intelligence'.
+    original_excerpt: and the DIA’s Defense Superior Service Medal for “achievements unparalleled in the history of intelligence.”
+    claim_type: administrative
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: document
+      origin: White House press release on Bobby Inman nomination, 1993
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 382b6d6c-0182-4121-8bfc-525602d667b1
+        title: Defense Intelligence Agency (DIA)
+        slug: defense-intelligence-agency-dia
+      - node_id: 4a2bb43b-aefc-44d2-8ac8-822267983bd1
+        title: White House press release on Bobby Inman nomination, 1993
+        slug: 1993-white-house-press-release-on-bobby-inman-nomination
+      - node_id: 6af27fdb-215e-48f8-bcfe-34ef174b3a5f
+        title: Bobby Inman
+        slug: bobby-inman
+    date: '1993'
+    date_end: null
+    location_in_record: ch14:23171-23265
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+      record_title: Dark Mission
+      record_date: '2010-07-22'
+      record_reference: null
+      content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+      friendly_name: null
+  - claim_id: fc09469d-3581-416e-b3ce-643f5ecfcc15
+    claim_hash: f1bf85f95b70bcfdc789a6a01a36236e7fa6a6b4a827b883045fd76f3317da5d
+    content: Richard C. Hoagland questions why Bobby Inman, a prominent intelligence figure, headed the oversight committee
+      at the California Institute of Technology (Caltech) that oversaw civilian unmanned exploration of Mars, and considers
+      this connected to the potential national security consequences of the discovery of artificial ruins at Cydonia by the
+      Viking programme a quarter century earlier.
+    original_excerpt: So what was the nation’s most celebrated spook doing heading an oversight committee at one of its leading
+      private universities and, specifically, a committee overseeing all civilian unmanned exploration of the planet Mars?
+      Could it have anything to do with Viking’s discovery, a quarter of a century before, of a set of artificial ruins at
+      Cydonia and the potential national security consequences of that discovery?
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: e1650a1d-8feb-4841-a403-0d71e176d2d9
+      title: Richard C. Hoagland
+    provenance_chain:
+      origin_kind: speaker
+      origin: Richard C. Hoagland
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 6af27fdb-215e-48f8-bcfe-34ef174b3a5f
+        title: Bobby Inman
+        slug: bobby-inman
+      - node_id: b5c47b21-8697-4839-beb7-3c943072ce04
+        title: Viking 1
+        slug: viking-1
+      - node_id: cc327db1-44bd-4762-acc0-d8fe82a3c6ea
+        title: Cydonia
+        slug: cydonia
+      - node_id: e1650a1d-8feb-4841-a403-0d71e176d2d9
+        title: Richard C. Hoagland
+        slug: richard-c-hoagland
+      - node_id: ee833add-d4e3-4b62-88dd-9b9c496e8dd1
+        title: California Institute of Technology (Caltech)
+        slug: california-institute-of-technology-caltech
+    date: null
+    date_end: null
+    location_in_record: ch14:23281-23686
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+      record_title: Dark Mission
+      record_date: '2010-07-22'
+      record_reference: null
+      content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+      friendly_name: null
+  - claim_id: a07662b5-cd2e-4952-828b-67c095c8c74c
+    claim_hash: 34a839bde766899e0d05e981c74a4413379e9177f589d949c39c765016eba59e
+    content: A Caltech spokesman revealed that Bobby Inman had been on the Jet Propulsion Laboratory (JPL) Oversight Committee
+      at the California Institute of Technology (Caltech) for at least eight years, meaning since before Mars Observer disappeared.
+    original_excerpt: It was reinforced even more strongly when a Caltech spokesman revealed he’d been on the committee for
+      “at least eight years”—in other words, since just before Mars Observer disappeared.
+    claim_type: testimony
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: named
+      origin: a Caltech spokesman
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 3e3d0fe7-a2cf-4e09-ab26-7beca4bece48
+        title: NASA Jet Propulsion Laboratory (JPL)
+        slug: nasa-jet-propulsion-laboratory-jpl
+      - node_id: 3f71238e-7b79-46a5-871a-d072de5ba017
+        title: Mars Observer disappearance, 1993-08-21
+        slug: 1993-08-21-mars-observer-disappearance
+      - node_id: 6af27fdb-215e-48f8-bcfe-34ef174b3a5f
+        title: Bobby Inman
+        slug: bobby-inman
+      - node_id: 73d4f081-a30f-4212-a93f-f697d6a73051
+        title: Mars Observer
+        slug: mars-observer
+      - node_id: ee833add-d4e3-4b62-88dd-9b9c496e8dd1
+        title: California Institute of Technology (Caltech)
+        slug: california-institute-of-technology-caltech
+    date: null
+    date_end: null
+    location_in_record: ch14:24238-24413
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+      record_title: Dark Mission
+      record_date: '2010-07-22'
+      record_reference: null
+      content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+      friendly_name: null
+  - claim_id: 06d1108a-1bd3-46df-b608-00b48b805fcb
+    claim_hash: abda5318b9a2625235b1ef73cc4409037a755d8711f6659e5f618579d4d9c24c
+    content: Bobby Inman served on the California Institute of Technology (Caltech) oversight committee while he was serving
+      in his capacity as United States Secretary of Defense.
+    original_excerpt: This also meant, obviously, that he served on the Caltech committee while in his active capacity as
+      Secretary of Defense of the United States.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 6af27fdb-215e-48f8-bcfe-34ef174b3a5f
+        title: Bobby Inman
+        slug: bobby-inman
+      - node_id: ee833add-d4e3-4b62-88dd-9b9c496e8dd1
+        title: California Institute of Technology (Caltech)
+        slug: california-institute-of-technology-caltech
+    date: null
+    date_end: null
+    location_in_record: ch14:24427-24562
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+      record_title: Dark Mission
+      record_date: '2010-07-22'
+      record_reference: null
+      content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+      friendly_name: null
+  - claim_id: 4feba199-d439-4136-93b3-7f0bbfb81108
+    claim_hash: 39be07b2c47235e7a01bc46316a58744721b2ba1f289bb54f39497276cdae074
+    content: Bobby Ray Inman served as director of the National Security Agency.
+    original_excerpt: nsa director and deputy
+    claim_type: administrative
+    attestation: null
+    speaker:
+      node_id: 079d4381-4273-418b-bc9a-468623f95c6e
+      title: Jesse Mitchells
+    provenance_chain:
+      origin_kind: unattributed
+      origin: narration by Jesse Michels
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 4ee606a3-72d8-412a-8bdc-c6077bd02a4a
+        title: National Security Agency (NSA)
+        slug: national-security-agency-nsa
+      - node_id: 6af27fdb-215e-48f8-bcfe-34ef174b3a5f
+        title: Bobby Inman
+        slug: bobby-inman
+    date: null
+    date_end: null
+    location_in_record: 00:34:10.0-00:34:11.1
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: dc9d8bc8-9c1f-46b4-9b89-8d86b6b08e1d
+      record_title: Jesse Michels, UAPGerb & Chris Ramsay - Flying Saucer Diner
+      record_date: '2026-07-17'
+      record_reference: https://www.youtube.com/watch?v=HFLBDi87888
+      content_hash: sha256:7b2e272d7c82fdda745ee0354d7c9cc4b0d5ba5506015ca27edd9169a768b262
+      friendly_name: null
+  - claim_id: dce078c9-72a6-4d45-8f29-bd0ea933c50b
+    claim_hash: b2549332df6fc27394a31e1549258546413aca6555f87373058405046e6a2d4d
+    content: Jesse Michels considers that an interviewer questioning Bobby Ray Inman would need to raise specific overlaps
+      in his career with specific people, and to read his body language, because trained intelligence professionals filter
+      questions into what they can and cannot discuss.
+    original_excerpt: I think you'd have to touch on real specifics as far as overlap that he's had in his career with specific
+      people... these people are running your questions through a filter of like uh can talk about can't talk about
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 079d4381-4273-418b-bc9a-468623f95c6e
+      title: Jesse Mitchells
+    provenance_chain:
+      origin_kind: speaker
+      origin: Jesse Michels
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 079d4381-4273-418b-bc9a-468623f95c6e
+        title: Jesse Mitchells
+        slug: jesse-mitchells
+      - node_id: 6af27fdb-215e-48f8-bcfe-34ef174b3a5f
+        title: Bobby Inman
+        slug: bobby-inman
+    date: null
+    date_end: null
+    location_in_record: 00:35:26.1-00:35:36.7
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: dc9d8bc8-9c1f-46b4-9b89-8d86b6b08e1d
+      record_title: Jesse Michels, UAPGerb & Chris Ramsay - Flying Saucer Diner
+      record_date: '2026-07-17'
+      record_reference: https://www.youtube.com/watch?v=HFLBDi87888
+      content_hash: sha256:7b2e272d7c82fdda745ee0354d7c9cc4b0d5ba5506015ca27edd9169a768b262
+      friendly_name: null
+  - claim_id: a716387a-88da-44f2-ba83-56a4c4e1ab58
+    claim_hash: 7aade3566ac4dc75daa8d8bf5f6270f78ba9b323e149d85fcb77bb2e184ed643
+    content: Bobby Ray Inman served as director of the National Underwater Reconnaissance Office (NURO).
+    original_excerpt: You could have a whole conversation about his time as director of NURO.
+    claim_type: administrative
+    attestation: null
+    speaker:
+      node_id: 0b47cac5-b9cc-44ea-a2aa-5cbd39a0d21a
+      title: Unidentified Aerial Phenomena (UAP) Gerb
+    provenance_chain:
+      origin_kind: unattributed
+      origin: narration by UAP Gerb
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 6af27fdb-215e-48f8-bcfe-34ef174b3a5f
+        title: Bobby Inman
+        slug: bobby-inman
+      - node_id: 97c6dfff-e58b-49b7-91c0-010e23dfc758
+        title: National Reconnaissance Office (NRO)
+        slug: national-reconnaissance-office-nro
+    date: null
+    date_end: null
+    location_in_record: 00:36:37.3-00:36:39.8
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: dc9d8bc8-9c1f-46b4-9b89-8d86b6b08e1d
+      record_title: Jesse Michels, UAPGerb & Chris Ramsay - Flying Saucer Diner
+      record_date: '2026-07-17'
+      record_reference: https://www.youtube.com/watch?v=HFLBDi87888
+      content_hash: sha256:7b2e272d7c82fdda745ee0354d7c9cc4b0d5ba5506015ca27edd9169a768b262
+      friendly_name: null
+  - claim_id: 08bc3de6-8353-4ae4-a390-3dd0aeda16e0
+    claim_hash: d1c36cd7348987d90ab219065f40b3852f14123e67bf1027dd7e244377250394
+    content: Bobby Ray Inman spent time at Science Applications International Corporation (SAIC) and had an interest in psychotronic
+      weapons.
+    original_excerpt: Well, I'd also want to ask about his time at SAIC specifically, his interest in psychotronic weapons.
+    claim_type: administrative
+    attestation: null
+    speaker:
+      node_id: 079d4381-4273-418b-bc9a-468623f95c6e
+      title: Jesse Mitchells
+    provenance_chain:
+      origin_kind: unattributed
+      origin: narration by Jesse Michels
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 6af27fdb-215e-48f8-bcfe-34ef174b3a5f
+        title: Bobby Inman
+        slug: bobby-inman
+      - node_id: e4d00305-2831-4058-99ec-b01dc7bf5471
+        title: Science Applications International Corporation (SAIC)
+        slug: science-applications-international-corporation-saic
+      - node_id: f35c4e0a-0bb5-4090-bb7d-fcbc71ecaf79
+        title: Psychotronic weapons
+        slug: psychotronic-weapons
+    date: null
+    date_end: null
+    location_in_record: 00:37:04.2-00:37:09.3
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: dc9d8bc8-9c1f-46b4-9b89-8d86b6b08e1d
+      record_title: Jesse Michels, UAPGerb & Chris Ramsay - Flying Saucer Diner
+      record_date: '2026-07-17'
+      record_reference: https://www.youtube.com/watch?v=HFLBDi87888
+      content_hash: sha256:7b2e272d7c82fdda745ee0354d7c9cc4b0d5ba5506015ca27edd9169a768b262
+      friendly_name: null
+  - claim_id: 57ed5d1b-a4fe-43c5-9b41-8705c110c101
+    claim_hash: a10bf2ffc2f617f086156bc9e69f7d2b7bcc7a96e1629932ea578a699f7ab1bd
+    content: Bobby Ray Inman had an association with the Wackenhut Corporation.
+    original_excerpt: Yeah, Wackenhut as well.
+    claim_type: administrative
+    attestation: null
+    speaker:
+      node_id: 0b47cac5-b9cc-44ea-a2aa-5cbd39a0d21a
+      title: Unidentified Aerial Phenomena (UAP) Gerb
+    provenance_chain:
+      origin_kind: unattributed
+      origin: narration by UAP Gerb
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 6af27fdb-215e-48f8-bcfe-34ef174b3a5f
+        title: Bobby Inman
+        slug: bobby-inman
+      - node_id: de405770-791e-42b9-be6f-f1ef77ad896e
+        title: Wackenhut Corporation
+        slug: wackenhut-corporation
+    date: null
+    date_end: null
+    location_in_record: 00:37:09.8-00:37:11.3
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: dc9d8bc8-9c1f-46b4-9b89-8d86b6b08e1d
+      record_title: Jesse Michels, UAPGerb & Chris Ramsay - Flying Saucer Diner
+      record_date: '2026-07-17'
+      record_reference: https://www.youtube.com/watch?v=HFLBDi87888
+      content_hash: sha256:7b2e272d7c82fdda745ee0354d7c9cc4b0d5ba5506015ca27edd9169a768b262
+      friendly_name: null
+  - claim_id: 87452688-5ac2-49da-b7d0-4d113e534aea
+    claim_hash: ab248bdb3c79c7bf96bea724cbce02b973d08504cdf13ffca4e394c2d9199f60
+    content: UAP Gerb regards Edward C. Aldridge's career record as comparable only to that of Bobby Ray Inman or Donald Kerr.
+    original_excerpt: His CV is equatable only to somebody like Bobby Raymond or Donald Kerr.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 0b47cac5-b9cc-44ea-a2aa-5cbd39a0d21a
+      title: Unidentified Aerial Phenomena (UAP) Gerb
+    provenance_chain:
+      origin_kind: speaker
+      origin: UAP Gerb
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 0b47cac5-b9cc-44ea-a2aa-5cbd39a0d21a
+        title: Unidentified Aerial Phenomena (UAP) Gerb
+        slug: unidentified-aerial-phenomena-uap-gerb
+      - node_id: 6af27fdb-215e-48f8-bcfe-34ef174b3a5f
+        title: Bobby Inman
+        slug: bobby-inman
+      - node_id: 989ce2ef-ea09-466d-99ad-6ba8785a5823
+        title: Edward C. Aldridge
+        slug: edward-c-aldridge
+      - node_id: e2b249d8-a643-4ab9-86a0-baf99bcb20e2
+        title: Donald Kerr
+        slug: donald-kerr
+    date: null
+    date_end: null
+    location_in_record: 00:51:58.4-00:52:02.1
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: dc9d8bc8-9c1f-46b4-9b89-8d86b6b08e1d
+      record_title: Jesse Michels, UAPGerb & Chris Ramsay - Flying Saucer Diner
+      record_date: '2026-07-17'
+      record_reference: https://www.youtube.com/watch?v=HFLBDi87888
+      content_hash: sha256:7b2e272d7c82fdda745ee0354d7c9cc4b0d5ba5506015ca27edd9169a768b262
+      friendly_name: null
+  - claim_id: 009ac2cd-1dc8-48be-8c97-e44cf161d0b4
+    claim_hash: 43f96decdc8fea43159f8d36a68e7db66aa9a298a9d39c69a2c97fdef5454ecd
+    content: Donald Kerr and Bobby Ray Inman are both very elderly, making the collection of their testimony a race against
+      time.
+    original_excerpt: Donald Kerr is ancient so a lot of these guys so is Bobby Ray Inman it's it's kind of a race against
+      time
+    claim_type: observation
+    attestation: first_hand
+    speaker:
+      node_id: 0b47cac5-b9cc-44ea-a2aa-5cbd39a0d21a
+      title: Unidentified Aerial Phenomena (UAP) Gerb
+    provenance_chain:
+      origin_kind: speaker
+      origin: UAP Gerb
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 0b47cac5-b9cc-44ea-a2aa-5cbd39a0d21a
+        title: Unidentified Aerial Phenomena (UAP) Gerb
+        slug: unidentified-aerial-phenomena-uap-gerb
+      - node_id: 6af27fdb-215e-48f8-bcfe-34ef174b3a5f
+        title: Bobby Inman
+        slug: bobby-inman
+      - node_id: e2b249d8-a643-4ab9-86a0-baf99bcb20e2
+        title: Donald Kerr
+        slug: donald-kerr
+    date: null
+    date_end: null
+    location_in_record: 01:21:47.7-01:21:52.3
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: dc9d8bc8-9c1f-46b4-9b89-8d86b6b08e1d
+      record_title: Jesse Michels, UAPGerb & Chris Ramsay - Flying Saucer Diner
+      record_date: '2026-07-17'
+      record_reference: https://www.youtube.com/watch?v=HFLBDi87888
+      content_hash: sha256:7b2e272d7c82fdda745ee0354d7c9cc4b0d5ba5506015ca27edd9169a768b262
+      friendly_name: null

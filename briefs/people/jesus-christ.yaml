@@ -1,0 +1,429 @@
+schema: anomalica/brief/1
+brief_hash: 9443adc4d88542d3347417158e13a68efb36b3ad75bc4836575c8d76cdc7d0e3
+page:
+  kind: entity
+  node_id: 85cdb297-ee0f-4bb6-ae2c-65d55cf12f9a
+  node_type: person
+  title: Jesus Christ
+  slug: jesus-christ
+  claim_count: 9
+  claim_count_total: 9
+generated:
+  graph_version: '2026-09-01T10:10:49.863545+00:00'
+size:
+  claims: 9
+  tokens_estimated: 2613
+  sized_against: 1050000
+publication:
+  status: published
+  note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
+    transcripts are gated elsewhere.
+belonging:
+  verified: 0
+  suspect_excluded: 0
+  unreviewed: 9
+related_nodes:
+  - node_id: 82d4756e-ae1b-4556-b57b-dc5c450cfc50
+    title: Israel, Jerusalem
+    node_type: place
+    slug: jerusalem-israel
+    shared_claims: 2
+  - node_id: 39bc257e-6dcc-4c45-b021-a456625771cb
+    title: Robert Monroe
+    node_type: person
+    slug: robert-monroe
+    shared_claims: 2
+  - node_id: d2b4552e-0e04-4c93-8c9e-d3e2d5b1468e
+    title: The Hiram Key (book)
+    node_type: document
+    slug: the-hiram-key-book
+    shared_claims: 2
+  - node_id: 33f33971-ed63-4558-9881-e771eb40022b
+    title: Book of Revelation (Apocalypse)
+    node_type: document
+    slug: book-of-revelation-apocalypse
+    shared_claims: 1
+  - node_id: 554b97f6-2786-4c79-bcd8-1f517322aadc
+    title: Christopher Knight
+    node_type: person
+    slug: christopher-knight
+    shared_claims: 1
+  - node_id: e8583b04-d842-4a83-8903-fa3711c85c32
+    title: Gospel According to Thomas
+    node_type: document
+    slug: gospel-according-to-thomas
+    shared_claims: 1
+  - node_id: 354da422-ae2e-41c6-8eeb-b9830475a92d
+    title: Horus
+    node_type: topic
+    slug: horus
+    shared_claims: 1
+  - node_id: b6cf8bf3-49f5-4a35-9ce1-7fc32cf06d37
+    title: House of David
+    node_type: topic
+    slug: house-of-david
+    shared_claims: 1
+  - node_id: 7c386199-42da-4a3b-b7fe-b86a28febb34
+    title: Isis
+    node_type: topic
+    slug: isis
+    shared_claims: 1
+  - node_id: 09aec5a6-be57-4759-a282-1b4670fa4ee1
+    title: Judah (patriarch)
+    node_type: person
+    slug: judah-patriarch
+    shared_claims: 1
+  - node_id: d9568d4a-1240-497c-8e1a-3fa293d054b6
+    title: Knights Templar
+    node_type: organisation
+    slug: knights-templar
+    shared_claims: 1
+  - node_id: 3baa7e6d-a807-43c6-a58a-729b5385a4b4
+    title: Mary (mother of Jesus)
+    node_type: person
+    slug: mary-mother-of-jesus
+    shared_claims: 1
+  - node_id: d9d56b88-c406-4ee5-8a8d-955083fea3ff
+    title: Robert Lomas
+    node_type: person
+    slug: robert-lomas
+    shared_claims: 1
+claims:
+  - claim_id: 813f4bb0-1ab4-417b-9e5e-ed5cc7fd5b4b
+    claim_hash: a425f97faa40eef5454e4691aa8dae81a128ef9cb4e627f499d99eb03083a576
+    content: The Hiram Key traces Masonic ritual origins through the Knights Templar, Jesus Christ, the Temple of Jerusalem,
+      and Hiram Abiff, the builder of the first Temple of Solomon.
+    original_excerpt: They followed a trail back through time, to the Templars, to Jesus and the Temple of Jerusalem, then
+      on to the builder of the first Temple of Solomon, Hiram Abiff.
+    claim_type: opinion
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: document
+      origin: The Hiram Key (book)
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 82d4756e-ae1b-4556-b57b-dc5c450cfc50
+        title: Israel, Jerusalem
+        slug: jerusalem-israel
+      - node_id: 85cdb297-ee0f-4bb6-ae2c-65d55cf12f9a
+        title: Jesus Christ
+        slug: jesus-christ
+      - node_id: d2b4552e-0e04-4c93-8c9e-d3e2d5b1468e
+        title: The Hiram Key (book)
+        slug: the-hiram-key-book
+      - node_id: d9568d4a-1240-497c-8e1a-3fa293d054b6
+        title: Knights Templar
+        slug: knights-templar
+    date: null
+    date_end: null
+    location_in_record: ch12:58251-58408
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+      record_title: Dark Mission
+      record_date: '2010-07-22'
+      record_reference: null
+      content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+      friendly_name: null
+  - claim_id: f4d0fde6-6a50-45d2-b17a-15f93bc8fd5e
+    claim_hash: 3894c9e21b743f3ad75832b449bd63522dce6ed835ee4bbc43bc1aea13c72834
+    content: The authors of The Hiram Key asserted that Jesus Christ was an initiate of a quasi-Masonic order and that his
+      real teachings had been usurped and distorted by the Catholic Church.
+    original_excerpt: They also asserted that Jesus himself was an initiate of this quasi-Masonic order, and that his real
+      teachings had been usurped and distorted by the Catholic Church millennia before.
+    claim_type: opinion
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: document
+      origin: The Hiram Key (book)
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 85cdb297-ee0f-4bb6-ae2c-65d55cf12f9a
+        title: Jesus Christ
+        slug: jesus-christ
+      - node_id: d2b4552e-0e04-4c93-8c9e-d3e2d5b1468e
+        title: The Hiram Key (book)
+        slug: the-hiram-key-book
+    date: null
+    date_end: null
+    location_in_record: ch12:58697-58872
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+      record_title: Dark Mission
+      record_date: '2010-07-22'
+      record_reference: null
+      content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+      friendly_name: null
+  - claim_id: baa152cf-ef71-4894-8732-a173f3f49797
+    claim_hash: 67bc686949da3342883350ee79a4ecc5cb72690e18dd17b3d5ae426d6ca9f1ee
+    content: Christopher Knight and Robert Lomas viewed Jesus Christ as a martyred prophet rather than a divine being.
+    original_excerpt: They viewed Jesus as a martyred prophet, but not a divine being as the Church came to ultimately insist.
+    claim_type: opinion
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: named
+      origin: Christopher Knight and Robert Lomas
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 554b97f6-2786-4c79-bcd8-1f517322aadc
+        title: Christopher Knight
+        slug: christopher-knight
+      - node_id: 85cdb297-ee0f-4bb6-ae2c-65d55cf12f9a
+        title: Jesus Christ
+        slug: jesus-christ
+      - node_id: d9d56b88-c406-4ee5-8a8d-955083fea3ff
+        title: Robert Lomas
+        slug: robert-lomas
+    date: null
+    date_end: null
+    location_in_record: ch12:58880-58977
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+      record_title: Dark Mission
+      record_date: '2010-07-22'
+      record_reference: null
+      content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+      friendly_name: null
+  - claim_id: 78ab96c1-78c4-4d6a-925e-d9cc31f755aa
+    claim_hash: eab4e61f013f6e5eebe123e592d4f58dd664e908fb72415897839e1b0b80ab86
+    content: Jesus Christ had a lineage directly connected to the House of David, the first king of the tribe of Judah of
+      Israel.
+    original_excerpt: Jesus, the central figure of Christianity, had a lineage directly connected to the “House of David”—the
+      first king of the tribe of Judah (Israel).
+    claim_type: hearsay
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: document
+      origin: Old Testament / traditional Christian genealogy
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 09aec5a6-be57-4759-a282-1b4670fa4ee1
+        title: Judah (patriarch)
+        slug: judah-patriarch
+      - node_id: 82d4756e-ae1b-4556-b57b-dc5c450cfc50
+        title: Israel, Jerusalem
+        slug: jerusalem-israel
+      - node_id: 85cdb297-ee0f-4bb6-ae2c-65d55cf12f9a
+        title: Jesus Christ
+        slug: jesus-christ
+      - node_id: b6cf8bf3-49f5-4a35-9ce1-7fc32cf06d37
+        title: House of David
+        slug: house-of-david
+    date: null
+    date_end: null
+    location_in_record: ch15:52350-52488
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+      record_title: Dark Mission
+      record_date: '2010-07-22'
+      record_reference: null
+      content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+      friendly_name: null
+  - claim_id: 0cbe3dcf-edc8-4345-bea6-d8f25264b3a8
+    claim_hash: ef2fe44958188af613cf7db40d641298f49b6386e7dcf8f1713b98215530e595
+    content: Jesus Christ was specifically known by the messianic title "Lion of Judea" in the Book of Revelation.
+    original_excerpt: For this reason, Jesus was specifically known by the messianic title “Lion of Judea” in the last book
+      of the Biblical canon—titled the “Apocalypse of Jesus,” but better known as “Revelation”
+    claim_type: hearsay
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: document
+      origin: Book of Revelation
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 33f33971-ed63-4558-9881-e771eb40022b
+        title: Book of Revelation (Apocalypse)
+        slug: book-of-revelation-apocalypse
+      - node_id: 85cdb297-ee0f-4bb6-ae2c-65d55cf12f9a
+        title: Jesus Christ
+        slug: jesus-christ
+    date: null
+    date_end: null
+    location_in_record: ch15:52843-53022
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+      record_title: Dark Mission
+      record_date: '2010-07-22'
+      record_reference: null
+      content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+      friendly_name: null
+  - claim_id: 72113179-4a7b-4d7b-aa56-afe5eea97c6d
+    claim_hash: 385a7ba58386eb965823c4441b5f9f114f2bceee8fb09a2a17eb305153231475
+    content: 'The Gospel According to Thomas contains a passage in which Jesus says: "Blessed be the Lion, which eaten by
+      man, becomes man. Cursed is the man, whom eaten by the Lion, becomes a Lion."'
+    original_excerpt: 'the Gospel According to Thomas contains this remarkable passage: “Jesus said, Blessed be the Lion,
+      which eaten by man, becomes man. Cursed is the man, whom eaten by the Lion, becomes a Lion.”'
+    claim_type: hearsay
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: document
+      origin: Gospel According to Thomas
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 85cdb297-ee0f-4bb6-ae2c-65d55cf12f9a
+        title: Jesus Christ
+        slug: jesus-christ
+      - node_id: e8583b04-d842-4a83-8903-fa3711c85c32
+        title: Gospel According to Thomas
+        slug: gospel-according-to-thomas
+    date: null
+    date_end: null
+    location_in_record: ch15:53510-53695
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+      record_title: Dark Mission
+      record_date: '2010-07-22'
+      record_reference: null
+      content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+      friendly_name: null
+  - claim_id: ebd48738-a194-4fa5-af17-51b4990e5193
+    claim_hash: 84b85ce3c531981dc38034092be7475878e78f9e02f4a6b6a653132e8a7325ef
+    content: The traditional depiction of Mary and Jesus as "Madonna and Child" derives from earlier images of Isis and Horus.
+    original_excerpt: Indeed, even the traditional depiction of Mary and Jesus as “Madonna and Child” derives from earlier
+      images of Isis and Horus.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: e1650a1d-8feb-4841-a403-0d71e176d2d9
+      title: Richard C. Hoagland
+    provenance_chain:
+      origin_kind: speaker
+      origin: Richard C. Hoagland
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 354da422-ae2e-41c6-8eeb-b9830475a92d
+        title: Horus
+        slug: horus
+      - node_id: 3baa7e6d-a807-43c6-a58a-729b5385a4b4
+        title: Mary (mother of Jesus)
+        slug: mary-mother-of-jesus
+      - node_id: 7c386199-42da-4a3b-b7fe-b86a28febb34
+        title: Isis
+        slug: isis
+      - node_id: 85cdb297-ee0f-4bb6-ae2c-65d55cf12f9a
+        title: Jesus Christ
+        slug: jesus-christ
+    date: null
+    date_end: null
+    location_in_record: ch15:54512-54632
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+      record_title: Dark Mission
+      record_date: '2010-07-22'
+      record_reference: null
+      content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+      friendly_name: null
+  - claim_id: a6f1813d-730b-4e5b-b983-4de474e3493d
+    claim_hash: 39f8d0c12d0f92588a3991eb925caa222c2464ae018645ee5a9ed4b423a96dc3
+    content: During the encounter with three beings pulling at him, Robert Monroe prayed to God and prayed in the name of
+      Jesus Christ for help.
+    original_excerpt: So I prayed. Again, I used every prayer I knew. I asked God to help me. I prayed in the name of Jesus
+      Christ for help.
+    claim_type: observation
+    attestation: first_hand
+    speaker:
+      node_id: 39bc257e-6dcc-4c45-b021-a456625771cb
+      title: Robert Monroe
+    provenance_chain:
+      origin_kind: speaker
+      origin: Robert Monroe
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 39bc257e-6dcc-4c45-b021-a456625771cb
+        title: Robert Monroe
+        slug: robert-monroe
+      - node_id: 85cdb297-ee0f-4bb6-ae2c-65d55cf12f9a
+        title: Jesus Christ
+        slug: jesus-christ
+    date: null
+    date_end: null
+    location_in_record: ch16:6657-6770
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 0585998d-c88f-4448-be7b-523c2680e789
+      record_title: Journeys Out of the Body
+      record_date: '2014-11-11'
+      record_reference: null
+      content_hash: sha256:b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029dc180b44
+      friendly_name: 2014-11-11-ebook-journeys-out-of-the-body
+  - claim_id: 459c8aed-05b1-4432-9c77-71865b3f6ec4
+    claim_hash: 112cf212ffa8ec6814526a5aeef4bde336519ac8a2620957f6cdaed3cf94bf4b
+    content: During the 1960-04-28 out-of-the-body experience, Robert Monroe tried reciting the Lord's Prayer and crossing
+      himself in an attempt to ward off the entity, without effect, before screaming for help.
+    original_excerpt: I crossed myself several times, with no effect. I repeated the Lord’s Prayer fervently, but that didn’t
+      hold him at bay; then I screamed for help.
+    claim_type: observation
+    attestation: first_hand
+    speaker:
+      node_id: 39bc257e-6dcc-4c45-b021-a456625771cb
+      title: Robert Monroe
+    provenance_chain:
+      origin_kind: speaker
+      origin: Robert Monroe
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 39bc257e-6dcc-4c45-b021-a456625771cb
+        title: Robert Monroe
+        slug: robert-monroe
+      - node_id: 85cdb297-ee0f-4bb6-ae2c-65d55cf12f9a
+        title: Jesus Christ
+        slug: jesus-christ
+    date: '1960-04-28'
+    date_end: null
+    location_in_record: ch18:4587-4728
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 0585998d-c88f-4448-be7b-523c2680e789
+      record_title: Journeys Out of the Body
+      record_date: '2014-11-11'
+      record_reference: null
+      content_hash: sha256:b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029dc180b44
+      friendly_name: 2014-11-11-ebook-journeys-out-of-the-body

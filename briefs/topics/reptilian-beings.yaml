@@ -1,0 +1,378 @@
+schema: anomalica/brief/1
+brief_hash: bf56b03df29010923f6543d2ff7c9b2018c77e80dcdd2c9f28aa0bcf45c080a0
+page:
+  kind: entity
+  node_id: b093fc3e-21e3-4b01-8313-56bc63efdea7
+  node_type: topic
+  title: Reptilian beings
+  slug: reptilian-beings
+  claim_count: 7
+  claim_count_total: 7
+generated:
+  graph_version: '2026-09-01T10:10:49.863545+00:00'
+size:
+  claims: 7
+  tokens_estimated: 2058
+  sized_against: 1050000
+publication:
+  status: published
+  note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
+    transcripts are gated elsewhere.
+belonging:
+  verified: 0
+  suspect_excluded: 0
+  unreviewed: 7
+related_nodes:
+  - node_id: 17a564b3-f5bb-4f8b-a24a-6117966b5522
+    title: Mantid beings
+    node_type: topic
+    slug: mantid-beings
+    shared_claims: 4
+  - node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+    title: Ross Coulthart
+    node_type: person
+    slug: ross-coulthart
+    shared_claims: 4
+  - node_id: 24d00311-06ac-46a1-a2f5-c99f3f8e21b2
+    title: Chris Ramsay
+    node_type: person
+    slug: chris-ramsay
+    shared_claims: 2
+  - node_id: 374c2897-b2f0-4827-9d58-87c4a13567ca
+    title: Grey aliens
+    node_type: topic
+    slug: grey-aliens
+    shared_claims: 2
+  - node_id: d0dafe60-c978-431d-8ef8-95e44e97aedf
+    title: Nordic alien (type)
+    node_type: topic
+    slug: nordic-alien-type
+    shared_claims: 2
+  - node_id: 9ab76638-a596-48f1-9a58-9c9251cc97f3
+    title: Eric Davis
+    node_type: person
+    slug: eric-davis
+    shared_claims: 1
+  - node_id: dba2f206-7088-4fe9-9fc5-d7228a9149f4
+    title: George Herbert Walker Bush
+    node_type: person
+    slug: george-herbert-walker-bush
+    shared_claims: 1
+  - node_id: 91228f6b-79b5-483a-a62b-c98f5eed12ab
+    title: Jason Quitt
+    node_type: person
+    slug: jason-quitt
+    shared_claims: 1
+  - node_id: 9c74d864-957a-4654-a5b6-1249fe654ec7
+    title: Non-Human Intelligence
+    node_type: topic
+    slug: non-human-intelligence
+    shared_claims: 1
+  - node_id: 8b0155a9-fabc-4b8d-9ee9-45eac58dbf2e
+    title: Out-of-Body Experience (OBE)
+    node_type: topic
+    slug: out-of-body-experience-obe
+    shared_claims: 1
+  - node_id: ea29025a-638a-4fb0-b574-a2ff9d937128
+    title: theory of evolution
+    node_type: topic
+    slug: theory-of-evolution
+    shared_claims: 1
+claims:
+  - claim_id: 6f2a1e99-6aea-47ba-a333-0b80c431e466
+    claim_hash: cbb56793f0f90ce2d56c8c18cf96905ace8bf8245bc8b49a1d1e69489408f95d
+    content: Eric Davis is a physicist who has asserted on the record that he was briefed by former United States president
+      George H. W. Bush about mantis beings, reptilian beings and Nordic aliens.
+    original_excerpt: Dr. Eric Davis, a hugely respected physicist who is making an assertion that he has been briefed by
+      a former president, Herbert Walker Bush, about... Mantillians. Reptilians. Nordics.
+    claim_type: hearsay
+    attestation: second_hand
+    speaker:
+      node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+      title: Ross Coulthart
+    provenance_chain:
+      origin_kind: named
+      origin: Eric Davis
+      relay:
+        - Ross Coulthart
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 17a564b3-f5bb-4f8b-a24a-6117966b5522
+        title: Mantid beings
+        slug: mantid-beings
+      - node_id: 9ab76638-a596-48f1-9a58-9c9251cc97f3
+        title: Eric Davis
+        slug: eric-davis
+      - node_id: b093fc3e-21e3-4b01-8313-56bc63efdea7
+        title: Reptilian beings
+        slug: reptilian-beings
+      - node_id: d0dafe60-c978-431d-8ef8-95e44e97aedf
+        title: Nordic alien (type)
+        slug: nordic-alien-type
+      - node_id: dba2f206-7088-4fe9-9fc5-d7228a9149f4
+        title: George Herbert Walker Bush
+        slug: george-herbert-walker-bush
+      - node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+        title: Ross Coulthart
+        slug: ross-coulthart
+    date: null
+    date_end: null
+    location_in_record: 01:10:07.1-01:10:20.8
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: fd845823-8784-462c-a981-4775525b6f84
+      record_title: The DANGEROUS Truth About UFOs - Ross Coulthart | DEBRIEFED ep. 76
+      record_date: '2026-02-20'
+      record_reference: https://www.youtube.com/watch?v=idBryc0eWww
+      content_hash: sha256:73be106d406f6d35a063a894e8384e7da0918eb8597d2107a9e3653becca2bdc
+      friendly_name: null
+  - claim_id: 36741010-80ea-42ac-90e1-02ee508bd11a
+    claim_hash: 34179aec5c569c53002694f8d743ff6c0d706719ad658a0cbb221b65c1ecbfc3
+    content: Ross Coulthart speaks regularly with people who describe themselves as first-hand witnesses to encounters with
+      non-human beings, in some cases reptilian beings.
+    original_excerpt: So I talk all the time to people who are first-hand witnesses who say they've had experiences with beings.
+      ... sometimes they're reptilian
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+      title: Ross Coulthart
+    provenance_chain:
+      origin_kind: speaker
+      origin: Ross Coulthart
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 9c74d864-957a-4654-a5b6-1249fe654ec7
+        title: Non-Human Intelligence
+        slug: non-human-intelligence
+      - node_id: b093fc3e-21e3-4b01-8313-56bc63efdea7
+        title: Reptilian beings
+        slug: reptilian-beings
+      - node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+        title: Ross Coulthart
+        slug: ross-coulthart
+    date: null
+    date_end: null
+    location_in_record: 01:38:28.7-01:38:37.6
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: fd845823-8784-462c-a981-4775525b6f84
+      record_title: The DANGEROUS Truth About UFOs - Ross Coulthart | DEBRIEFED ep. 76
+      record_date: '2026-02-20'
+      record_reference: https://www.youtube.com/watch?v=idBryc0eWww
+      content_hash: sha256:73be106d406f6d35a063a894e8384e7da0918eb8597d2107a9e3653becca2bdc
+      friendly_name: null
+  - claim_id: 6b3e91b2-3ae8-4b3e-b67a-7f75e10abfea
+    claim_hash: 8373e9b51ec350effa705ff3877bd0325fa2558a7e9e3556bdb497645b1bbcc4
+    content: The reported non-human species, including grey aliens, mantis beings and reptilian beings, all seem to be bipedal
+      with forward-facing eyes and multiple digits on their fingers.
+    original_excerpt: some of which look like us, some of which are these greys or the mantids or the reptilians or what have
+      you, they all seem to be bipedal, forward-facing eyes, multiple digits on their fingers
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 24d00311-06ac-46a1-a2f5-c99f3f8e21b2
+      title: Chris Ramsay
+    provenance_chain:
+      origin_kind: speaker
+      origin: Chris Ramsay
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 17a564b3-f5bb-4f8b-a24a-6117966b5522
+        title: Mantid beings
+        slug: mantid-beings
+      - node_id: 24d00311-06ac-46a1-a2f5-c99f3f8e21b2
+        title: Chris Ramsay
+        slug: chris-ramsay
+      - node_id: 374c2897-b2f0-4827-9d58-87c4a13567ca
+        title: Grey aliens
+        slug: grey-aliens
+      - node_id: b093fc3e-21e3-4b01-8313-56bc63efdea7
+        title: Reptilian beings
+        slug: reptilian-beings
+    date: null
+    date_end: null
+    location_in_record: 02:38:01.8-02:38:16.4
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: fd845823-8784-462c-a981-4775525b6f84
+      record_title: The DANGEROUS Truth About UFOs - Ross Coulthart | DEBRIEFED ep. 76
+      record_date: '2026-02-20'
+      record_reference: https://www.youtube.com/watch?v=idBryc0eWww
+      content_hash: sha256:73be106d406f6d35a063a894e8384e7da0918eb8597d2107a9e3653becca2bdc
+      friendly_name: null
+  - claim_id: d60c9eba-49b5-4d86-9be8-f8bc5c714ec1
+    claim_hash: 148a48a4f80667100ab4cc79cd32043fff7d4079604e7599d5cf2a3ff11e4119
+    content: Chris Ramsay considers that the ancestors of reptilian beings, mantis beings and humanoids can all be found on
+      Earth, suggesting a cosmic zoo in which shared DNA has been shifted between planets.
+    original_excerpt: But I do subscribe to the idea that reptilians, mantids, these humanoids, you can find all these things
+      on Earth. ... this is some cosmic zoo that we're all sharing DNA on these other planets, shifting them around.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 24d00311-06ac-46a1-a2f5-c99f3f8e21b2
+      title: Chris Ramsay
+    provenance_chain:
+      origin_kind: speaker
+      origin: Chris Ramsay
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 17a564b3-f5bb-4f8b-a24a-6117966b5522
+        title: Mantid beings
+        slug: mantid-beings
+      - node_id: 24d00311-06ac-46a1-a2f5-c99f3f8e21b2
+        title: Chris Ramsay
+        slug: chris-ramsay
+      - node_id: b093fc3e-21e3-4b01-8313-56bc63efdea7
+        title: Reptilian beings
+        slug: reptilian-beings
+      - node_id: ea29025a-638a-4fb0-b574-a2ff9d937128
+        title: theory of evolution
+        slug: theory-of-evolution
+    date: null
+    date_end: null
+    location_in_record: 02:38:33.0-02:38:47.5
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: fd845823-8784-462c-a981-4775525b6f84
+      record_title: The DANGEROUS Truth About UFOs - Ross Coulthart | DEBRIEFED ep. 76
+      record_date: '2026-02-20'
+      record_reference: https://www.youtube.com/watch?v=idBryc0eWww
+      content_hash: sha256:73be106d406f6d35a063a894e8384e7da0918eb8597d2107a9e3653becca2bdc
+      friendly_name: null
+  - claim_id: 9ee53907-78ac-47cc-bfd3-81ce31e05705
+    claim_hash: 935d0f0be86336766cae6ab13c289d96520d57f5c797e7cdee3415da701768b8
+    content: Asked whether he would rather interview a reptilian, a Nordic, a grey or a mantis being, Ross Coulthart chose
+      a reptilian.
+    original_excerpt: would you rather interview a reptilian a nordic or a gray and i'll throw mantis up there ... i have
+      to admit i'm tempted to say a reptilian
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+      title: Ross Coulthart
+    provenance_chain:
+      origin_kind: speaker
+      origin: Ross Coulthart
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 17a564b3-f5bb-4f8b-a24a-6117966b5522
+        title: Mantid beings
+        slug: mantid-beings
+      - node_id: 374c2897-b2f0-4827-9d58-87c4a13567ca
+        title: Grey aliens
+        slug: grey-aliens
+      - node_id: b093fc3e-21e3-4b01-8313-56bc63efdea7
+        title: Reptilian beings
+        slug: reptilian-beings
+      - node_id: d0dafe60-c978-431d-8ef8-95e44e97aedf
+        title: Nordic alien (type)
+        slug: nordic-alien-type
+      - node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+        title: Ross Coulthart
+        slug: ross-coulthart
+    date: null
+    date_end: null
+    location_in_record: 02:51:43.1-02:51:53.0
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: fd845823-8784-462c-a981-4775525b6f84
+      record_title: The DANGEROUS Truth About UFOs - Ross Coulthart | DEBRIEFED ep. 76
+      record_date: '2026-02-20'
+      record_reference: https://www.youtube.com/watch?v=idBryc0eWww
+      content_hash: sha256:73be106d406f6d35a063a894e8384e7da0918eb8597d2107a9e3653becca2bdc
+      friendly_name: null
+  - claim_id: 54b7276b-ff4e-4554-8ccc-607b50bef8ee
+    claim_hash: 368d90aa92ec192e60da7f75c0eb8f0b7e3a9717972cd09dc82015704298632a
+    content: Ross Coulthart has spoken with many experiencers who purport to have had contact with beings, and from those
+      accounts the reptilians appear to have a sense of humour.
+    original_excerpt: i talk to a lot of experiences people who purport to have had contact with beings and the reptilians
+      seem to have a sense of humor
+    claim_type: hearsay
+    attestation: second_hand
+    speaker:
+      node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+      title: Ross Coulthart
+    provenance_chain:
+      origin_kind: anonymous
+      origin: people claiming to have had contact with non-human beings
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: b093fc3e-21e3-4b01-8313-56bc63efdea7
+        title: Reptilian beings
+        slug: reptilian-beings
+      - node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+        title: Ross Coulthart
+        slug: ross-coulthart
+    date: null
+    date_end: null
+    location_in_record: 02:51:59.4-02:52:08.6
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: fd845823-8784-462c-a981-4775525b6f84
+      record_title: The DANGEROUS Truth About UFOs - Ross Coulthart | DEBRIEFED ep. 76
+      record_date: '2026-02-20'
+      record_reference: https://www.youtube.com/watch?v=idBryc0eWww
+      content_hash: sha256:73be106d406f6d35a063a894e8384e7da0918eb8597d2107a9e3653becca2bdc
+      friendly_name: null
+  - claim_id: 8e5383ad-1c65-4eea-90c9-0a2a18d8eaa9
+    claim_hash: 17154c11ea68bae8de94573520ba9c2e4b48d63a19f16b3fe8c269537ad665f8
+    content: In his own out-of-body states Jason Quitt encountered reptilian beings of the kind described in abduction accounts.
+    original_excerpt: I'd come across those reptilians.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 91228f6b-79b5-483a-a62b-c98f5eed12ab
+      title: Jason Quitt
+    provenance_chain:
+      origin_kind: speaker
+      origin: Jason Quitt
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 8b0155a9-fabc-4b8d-9ee9-45eac58dbf2e
+        title: Out-of-Body Experience (OBE)
+        slug: out-of-body-experience-obe
+      - node_id: 91228f6b-79b5-483a-a62b-c98f5eed12ab
+        title: Jason Quitt
+        slug: jason-quitt
+      - node_id: b093fc3e-21e3-4b01-8313-56bc63efdea7
+        title: Reptilian beings
+        slug: reptilian-beings
+    date: null
+    date_end: null
+    location_in_record: 01:07:52.2-01:07:53.3
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: b0f8ff5d-db19-45e1-abaa-391d63833bec
+      record_title: Researcher Describes Strange Encounters With Other Beings - Jason Quitt | Ep. 98
+      record_date: '2026-08-07'
+      record_reference: https://www.youtube.com/watch?v=JsPE3o-PJms
+      content_hash: sha256:474630c81ceb39029e473c41a62306341a264aa94e100930de6ceb845884cf57
+      friendly_name: null

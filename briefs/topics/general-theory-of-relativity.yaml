@@ -1,0 +1,289 @@
+schema: anomalica/brief/1
+brief_hash: 6af6127f6f0055dff3c0270da5bf8d7a7c9a25b03ae683ea8263a063dad36396
+page:
+  kind: entity
+  node_id: 2940c428-15f6-4b10-8be9-41fb469e76c1
+  node_type: topic
+  title: General Theory of Relativity
+  slug: general-theory-of-relativity
+  claim_count: 6
+  claim_count_total: 6
+generated:
+  graph_version: '2026-09-01T10:10:49.863545+00:00'
+size:
+  claims: 6
+  tokens_estimated: 1866
+  sized_against: 1050000
+publication:
+  status: published
+  note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
+    transcripts are gated elsewhere.
+belonging:
+  verified: 0
+  suspect_excluded: 0
+  unreviewed: 6
+related_nodes:
+  - node_id: 8b84db66-d907-4aef-b600-00e4d46009d3
+    title: Albert Einstein
+    node_type: person
+    slug: albert-einstein
+    shared_claims: 4
+  - node_id: 2530efea-294b-4f7d-8814-9b3a6fad0870
+    title: Einstein-Cartan Torsion (ECT)
+    node_type: topic
+    slug: einstein-cartan-torsion-ect
+    shared_claims: 1
+  - node_id: fff5833c-220a-4c9c-b778-03a8f7240596
+    title: Elie-Joseph Cartan
+    node_type: person
+    slug: elie-joseph-cartan
+    shared_claims: 1
+  - node_id: bebefbb0-af15-4ecb-ad44-3360bc70d4b4
+    title: George Gamow
+    node_type: person
+    slug: george-gamow
+    shared_claims: 1
+  - node_id: d4a41583-3609-4998-8591-2349ce3d238d
+    title: Theodor Kaluza
+    node_type: person
+    slug: theodor-kaluza
+    shared_claims: 1
+  - node_id: a277299e-f01c-4af8-82d9-6c22698093cf
+    title: Torsion field
+    node_type: topic
+    slug: torsion-field
+    shared_claims: 1
+  - node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+    title: Whitley Strieber
+    node_type: person
+    slug: whitley-strieber
+    shared_claims: 1
+claims:
+  - claim_id: 04c4a6a4-ce90-46f0-9e63-dd6c1df4e461
+    claim_hash: 999f8bac7807c72b0e0c1d989c733e1e2fa7329bb80fcc6e40539edb8a3f3585
+    content: Because Albert Einstein had already designated time as the fourth dimension in formulating General and Special
+      Relativity, Theodor Kaluza was forced to specify his additional spatial dimension as a fifth dimension.
+    original_excerpt: Because Einstein, in formulating the General and Special Theory of Relativity in the intervening years
+      since Reimann, had already appropriated time as the fourth dimension, Kaluza was forced to specify his additional spatial
+      dimension as a fifth.
+    claim_type: observation
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 2940c428-15f6-4b10-8be9-41fb469e76c1
+        title: General Theory of Relativity
+        slug: general-theory-of-relativity
+      - node_id: 8b84db66-d907-4aef-b600-00e4d46009d3
+        title: Albert Einstein
+        slug: albert-einstein
+      - node_id: d4a41583-3609-4998-8591-2349ce3d238d
+        title: Theodor Kaluza
+        slug: theodor-kaluza
+    date: null
+    date_end: null
+    location_in_record: ch9:29061-29301
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+      record_title: Dark Mission
+      record_date: '2010-07-22'
+      record_reference: null
+      content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+      friendly_name: null
+  - claim_id: 17a45403-03f2-472e-93d9-569fd7169d7a
+    claim_hash: 51d57d00d8ce7e02f172156ba58411f87f57d40ff8db513a46a8eb0379e8b5b7
+    content: French mathematician Elie-Joseph Cartan is generally considered the theoretical father of torsion physics, having
+      published a refinement of Einstein's General Theory of Relativity in 1913 whereby curved spacetime could flow in spiral
+      patterns around rotating objects, a phenomenon termed torsion.
+    original_excerpt: The theoretical "father" of torsion physics is generally considered to be French mathematician, Dr Elie-Joseph
+      Cartan, who in 1913 published a refinement of Einstein's General Theory of Relativity, whereby curved "spacetime" could
+      flow in spiral patterns around *rotating* objects, a phenomenon not originally dealt with in Relativity, termed "torsion."
+    claim_type: observation
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 2940c428-15f6-4b10-8be9-41fb469e76c1
+        title: General Theory of Relativity
+        slug: general-theory-of-relativity
+      - node_id: 8b84db66-d907-4aef-b600-00e4d46009d3
+        title: Albert Einstein
+        slug: albert-einstein
+      - node_id: a277299e-f01c-4af8-82d9-6c22698093cf
+        title: Torsion field
+        slug: torsion-field
+      - node_id: fff5833c-220a-4c9c-b778-03a8f7240596
+        title: Elie-Joseph Cartan
+        slug: elie-joseph-cartan
+    date: '1913'
+    date_end: null
+    location_in_record: ch9:93688-94032
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+      record_title: Dark Mission
+      record_date: '2010-07-22'
+      record_reference: null
+      content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+      friendly_name: null
+  - claim_id: 66ec3729-311e-40c0-a5a9-f63a73a95748
+    claim_hash: 655ffb228a7830264c73027ae5d6d64debf5bf7225432ee862357ba8598bd059
+    content: The forces resulting from Einstein-Cartan Torsion were initially calculated to be about 27 orders of magnitude
+      smaller than the gravitational effects of Relativity.
+    original_excerpt: the resulting forces from ECT were calculated to be some "27 orders of magnitude (27 powers of ten!)
+      *smaller* than the gravitational effects of Relativity."
+    claim_type: measurement
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 2530efea-294b-4f7d-8814-9b3a6fad0870
+        title: Einstein-Cartan Torsion (ECT)
+        slug: einstein-cartan-torsion-ect
+      - node_id: 2940c428-15f6-4b10-8be9-41fb469e76c1
+        title: General Theory of Relativity
+        slug: general-theory-of-relativity
+    date: null
+    date_end: null
+    location_in_record: ch9:94172-94317
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+      record_title: Dark Mission
+      record_date: '2010-07-22'
+      record_reference: null
+      content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+      friendly_name: null
+  - claim_id: 035f5c93-1180-478a-b792-17651eb938d3
+    claim_hash: c794a7fb494249b1126ab538856ad74b0c88f3c71c25e61f69a607b2c341980a
+    content: Whitley Strieber obtained a book by George Gamow about relativity while at home.
+    original_excerpt: At home I got hold of a book by George Gamow about relativity.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+      title: Whitley Strieber
+    provenance_chain:
+      origin_kind: speaker
+      origin: Whitley Strieber
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 2940c428-15f6-4b10-8be9-41fb469e76c1
+        title: General Theory of Relativity
+        slug: general-theory-of-relativity
+      - node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+        title: Whitley Strieber
+        slug: whitley-strieber
+      - node_id: bebefbb0-af15-4ecb-ad44-3360bc70d4b4
+        title: George Gamow
+        slug: george-gamow
+    date: null
+    date_end: null
+    location_in_record: ch12:5043-5094
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: ad152768-183b-4cde-bc60-1520900ceb32
+      record_title: Communion
+      record_date: '2013-06-16'
+      record_reference: null
+      content_hash: sha256:b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4001275f9
+      friendly_name: 2013-06-16-ebook-communion
+  - claim_id: 006264d6-7cc7-43fc-8491-12530978f201
+    claim_hash: 36a3d52878e0bcbee1f716f2ef9ac146cf6cfece9116bd5560c275abeb6f370a
+    content: It has been experimentally proven that gravity can bend light, a prediction of Albert Einstein's general relativity.
+    original_excerpt: And now we actually have the technology to prove that gravity can bend light. You know, we have proven
+      that.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: c09e3558-1732-4676-a218-d67d285d98ef
+      title: David Fravor
+    provenance_chain:
+      origin_kind: speaker
+      origin: David Fravor
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 2940c428-15f6-4b10-8be9-41fb469e76c1
+        title: General Theory of Relativity
+        slug: general-theory-of-relativity
+      - node_id: 8b84db66-d907-4aef-b600-00e4d46009d3
+        title: Albert Einstein
+        slug: albert-einstein
+    date: null
+    date_end: null
+    location_in_record: 01:53:07.0-01:53:11.3
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 0157e540-a945-4b2a-acdf-6c449172dcd6
+      record_title: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering | Lex Fridman Podcast #122'
+      record_date: '2020-09-08'
+      record_reference: https://www.youtube.com/watch?v=aB8zcAttP1E
+      content_hash: sha256:135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19fd6afb8a
+      friendly_name: 2020-09-08-video-david-fravor-ufos-aliens-fighter-jets-and-aerospace.v2
+  - claim_id: 1a2b6ebc-9077-4aaa-b684-c1c7dac2aa1e
+    claim_hash: d8406f01c497329dcb65b67968cdf431556c5ef573469fecea1425682dcafeee
+    content: Albert Einstein's general theory of relativity was not accepted or used by people until after his death, when
+      tests were later carried out.
+    original_excerpt: His general theory of relativity wasn't considered, wasn't actually... I mean, people didn't use it.
+      People didn't refer to it until he was dead, until they did the tests afterwards.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 24d00311-06ac-46a1-a2f5-c99f3f8e21b2
+      title: Chris Ramsay
+    provenance_chain:
+      origin_kind: speaker
+      origin: Chris Ramsay
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 2940c428-15f6-4b10-8be9-41fb469e76c1
+        title: General Theory of Relativity
+        slug: general-theory-of-relativity
+      - node_id: 8b84db66-d907-4aef-b600-00e4d46009d3
+        title: Albert Einstein
+        slug: albert-einstein
+    date: null
+    date_end: null
+    location_in_record: 02:09:18.7-02:09:31.2
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3b05e864-7a02-462a-828a-903374db8ce7
+      record_title: UFO Witness Reveals CHILLING Daytime Alien Encounter - Peter Khoury - DEBRIEFED ep. 58
+      record_date: '2025-10-17'
+      record_reference: https://www.youtube.com/watch?v=wX3whEVHr3g
+      content_hash: sha256:b75101566131346a95237998494f68630d802a73409e5a64893cf350b414c437
+      friendly_name: 2025-10-17-video-ufo-witness-reveals-chilling-daytime-alien-encounter-peter.v2

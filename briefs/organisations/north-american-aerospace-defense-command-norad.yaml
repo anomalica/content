@@ -1,0 +1,836 @@
+schema: anomalica/brief/1
+brief_hash: 4444dbb31be94ffcee81b047bb364754552fc08dc6ff8f90e68a6313bb7d45f8
+page:
+  kind: entity
+  node_id: 4760afb8-2a14-4c60-8924-e2956b67e73c
+  node_type: organisation
+  title: North American Aerospace Defense Command (NORAD)
+  slug: north-american-aerospace-defense-command-norad
+  claim_count: 18
+  claim_count_total: 18
+generated:
+  graph_version: '2026-09-01T10:10:49.863545+00:00'
+size:
+  claims: 18
+  tokens_estimated: 5919
+  sized_against: 1050000
+publication:
+  status: published
+  note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
+    transcripts are gated elsewhere.
+belonging:
+  verified: 0
+  suspect_excluded: 0
+  unreviewed: 18
+related_nodes:
+  - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
+    title: 2004 USS Nimitz UAP encounter
+    node_type: event
+    slug: 2004-uss-nimitz-uap-encounter
+    shared_claims: 4
+  - node_id: 6eabc3e2-0748-4914-8561-60ad3541b3e6
+    title: 2023 'Balloongate' Unidentified Aerial Phenomena (UAP) shoot-down controversy
+    node_type: event
+    slug: 2023-balloongate-unidentified-aerial-phenomena-uap-shoot-down-controversy
+    shared_claims: 4
+  - node_id: b9d3d9a5-9169-434d-a191-80c935e7a34b
+    title: Canada, Yukon
+    node_type: place
+    slug: yukon-canada
+    shared_claims: 2
+  - node_id: 29f2befa-fe75-484b-a9e8-53a320e66c84
+    title: Chad Underwood
+    node_type: person
+    slug: chad-underwood
+    shared_claims: 2
+  - node_id: 4f799605-879b-4e8d-935d-811b4bd7c6ac
+    title: USA, Alaska
+    node_type: place
+    slug: alaska-usa
+    shared_claims: 2
+  - node_id: 32b98a17-be55-4b0f-8e10-9d377e1e8b33
+    title: United States Air Force (USAF)
+    node_type: organisation
+    slug: united-states-air-force-usaf
+    shared_claims: 2
+  - node_id: dd426c79-15b3-4b5f-8cfc-755ad2cb1b7b
+    title: 1997 Pentagon UAP Briefing
+    node_type: event
+    slug: 1997-pentagon-uap-briefing
+    shared_claims: 1
+  - node_id: f5c77540-3f7d-4e1b-abba-eb4407593e8e
+    title: 2023 Chinese spy balloon incident
+    node_type: event
+    slug: 2023-chinese-spy-balloon-incident
+    shared_claims: 1
+  - node_id: 685735df-78d2-4ab2-970b-05932dcda3db
+    title: 2023-02 Yukon cylindrical object shoot-down
+    node_type: event
+    slug: 2023-02-yukon-cylindrical-object-shoot-down
+    shared_claims: 1
+  - node_id: 7c2dc890-9158-4057-a773-a3439914d603
+    title: Brazilian Air Force
+    node_type: organisation
+    slug: brazilian-air-force
+    shared_claims: 1
+  - node_id: aae43b27-659a-4206-a110-a731b5f0d19a
+    title: Chinese Spy Balloon Shoot-Down 2023
+    node_type: event
+    slug: chinese-spy-balloon-shoot-down-2023
+    shared_claims: 1
+  - node_id: 981b261d-7fb4-408c-a643-0bd820a4c4ca
+    title: Marco Rubio
+    node_type: person
+    slug: marco-rubio
+    shared_claims: 1
+  - node_id: 9c74d864-957a-4654-a5b6-1249fe654ec7
+    title: Non-Human Intelligence
+    node_type: topic
+    slug: non-human-intelligence
+    shared_claims: 1
+  - node_id: afbdd5b4-044d-4b98-a237-110a6ef73dde
+    title: North American Aerospace Defense Command (NORAD) Cheyenne Mountain facility
+    node_type: object
+    slug: north-american-aerospace-defense-command-norad-cheyenne-mountain-facility
+    shared_claims: 1
+  - node_id: c52fd2ac-fa87-43e8-8a8b-1bbd33ef6a28
+    title: Office of the Director of National Intelligence (ODNI)
+    node_type: organisation
+    slug: office-of-the-director-of-national-intelligence-odni
+    shared_claims: 1
+  - node_id: 05afdef2-1db9-4166-9c4d-ccfc7b968bc7
+    title: Olivier Gallant
+    node_type: person
+    slug: olivier-gallant
+    shared_claims: 1
+  - node_id: ec649497-7311-46a2-a0bc-7498dab02b40
+    title: USA, Alaska, Deadhorse
+    node_type: place
+    slug: alaska-deadhorse-usa
+    shared_claims: 1
+  - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
+    title: Unidentified Anomalous Phenomena (UAP)
+    node_type: topic
+    slug: unidentified-anomalous-phenomena-uap
+    shared_claims: 1
+  - node_id: 7c8f095b-bb35-4459-b507-0289a699ce98
+    title: United States Atlantic Command
+    node_type: organisation
+    slug: united-states-atlantic-command
+    shared_claims: 1
+  - node_id: 5ee4362d-c09b-44a8-a3be-8bd9c05f4c78
+    title: United States Navy (USN)
+    node_type: organisation
+    slug: united-states-navy-usn
+    shared_claims: 1
+  - node_id: f2a10ed1-543e-4df4-8e98-f45964a6a1af
+    title: United States Space Force (USSF)
+    node_type: organisation
+    slug: united-states-space-force-ussf
+    shared_claims: 1
+  - node_id: e7dc0f35-9655-4dd6-8eee-f3a8618879d8
+    title: Willard Miller
+    node_type: person
+    slug: willard-miller
+    shared_claims: 1
+claims:
+  - claim_id: bde442ba-8fc2-4571-b187-9f9bfa4db840
+    claim_hash: 3c46d7c036230245dae557855729920832ee7f20c3825bf51811a5da93663438
+    content: Recently retired US Naval Reserve Lieutenant Commander Willard Miller, another attendee of the April 1997 Pentagon
+      briefing, served on the operations staff of the US Atlantic Command and at NORAD Space Command with Top Secret security
+      clearances.
+    original_excerpt: Another attendee was recently retired US Naval Reserve Lieutenant Commander Willard Miller, who served
+      on the operations staff of the US Atlantic Command and at NORAD Space Command with Top Secret security clearances.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 4760afb8-2a14-4c60-8924-e2956b67e73c
+        title: North American Aerospace Defense Command (NORAD)
+        slug: north-american-aerospace-defense-command-norad
+      - node_id: 7c8f095b-bb35-4459-b507-0289a699ce98
+        title: United States Atlantic Command
+        slug: united-states-atlantic-command
+      - node_id: dd426c79-15b3-4b5f-8cfc-755ad2cb1b7b
+        title: 1997 Pentagon UAP Briefing
+        slug: 1997-pentagon-uap-briefing
+      - node_id: e7dc0f35-9655-4dd6-8eee-f3a8618879d8
+        title: Willard Miller
+        slug: willard-miller
+    date: null
+    date_end: null
+    location_in_record: ch14:9471-9677
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: c2bcf71f-bedf-488c-8658-240a74dac981
+    claim_hash: b445827f08132b77da49be4e2d0c813efcff8716391a008f318eab165cd32b76
+    content: Chad Underwood, the pilot who filmed the 2004 USS Nimitz Tic Tac UAP encounter, answered a few questions in a
+      phone call with someone from the North American Aerospace Defense Command (NORAD) soon after landing.
+    original_excerpt: The pilot who videoed the encounter, Chad Underwood, says that soon after landing, he answered a few
+      questions in a phone call with someone from NORAD, the North American Aerospace Defence Command
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 29f2befa-fe75-484b-a9e8-53a320e66c84
+      title: Chad Underwood
+    provenance_chain:
+      origin_kind: speaker
+      origin: Chad Underwood
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 29f2befa-fe75-484b-a9e8-53a320e66c84
+        title: Chad Underwood
+        slug: chad-underwood
+      - node_id: 4760afb8-2a14-4c60-8924-e2956b67e73c
+        title: North American Aerospace Defense Command (NORAD)
+        slug: north-american-aerospace-defense-command-norad
+      - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
+        title: 2004 USS Nimitz UAP encounter
+        slug: 2004-uss-nimitz-uap-encounter
+    date: null
+    date_end: null
+    location_in_record: ch16:21525-21714
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: c238c252-a019-45c8-bdfe-cce047be6647
+    claim_hash: f14a05c397bf618606462db7f6891b07244e15a492664f4479b59ceeda1ed532
+    content: The entire airspace of Canada and the United States is monitored at the North American Aerospace Defense Command
+      (NORAD) Cheyenne Mountain facility for anomalous aircraft or space objects.
+    original_excerpt: This is where the entire airspace of Canada and the US is monitored for anomalous aircraft or space
+      objects; if any non-terrestrial object is entering Earth's atmosphere, NORAD should know all about it.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 4760afb8-2a14-4c60-8924-e2956b67e73c
+        title: North American Aerospace Defense Command (NORAD)
+        slug: north-american-aerospace-defense-command-norad
+      - node_id: afbdd5b4-044d-4b98-a237-110a6ef73dde
+        title: North American Aerospace Defense Command (NORAD) Cheyenne Mountain facility
+        slug: north-american-aerospace-defense-command-norad-cheyenne-mountain-facility
+    date: null
+    date_end: null
+    location_in_record: ch20:6184-6383
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 17aa8062-9d30-441c-ae7a-bf4d5bf1482d
+    claim_hash: 134221da7e1efd8012aab0d4ea34c2f2c0bec75c07e1cc04f6356a69e39b1fc6
+    content: NORAD spokesman Major Olivier Gallant told media that the military had determined what the unidentified object
+      was but would not reveal details.
+    original_excerpt: a NORAD spokesman Major Olivier Gallant, was briefing media with certainty that 'the military had determined
+      what it was but would not reveal details.'
+    claim_type: testimony
+    attestation: second_hand
+    speaker:
+      node_id: 05afdef2-1db9-4166-9c4d-ccfc7b968bc7
+      title: Olivier Gallant
+    provenance_chain:
+      origin_kind: named
+      origin: Olivier Gallant
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 05afdef2-1db9-4166-9c4d-ccfc7b968bc7
+        title: Olivier Gallant
+        slug: olivier-gallant
+      - node_id: 4760afb8-2a14-4c60-8924-e2956b67e73c
+        title: North American Aerospace Defense Command (NORAD)
+        slug: north-american-aerospace-defense-command-norad
+      - node_id: 6eabc3e2-0748-4914-8561-60ad3541b3e6
+        title: 2023 'Balloongate' Unidentified Aerial Phenomena (UAP) shoot-down controversy
+        slug: 2023-balloongate-unidentified-aerial-phenomena-uap-shoot-down-controversy
+    date: null
+    date_end: null
+    location_in_record: ch29:10608-10750
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 1451ce41-df4e-4345-bf76-7f9b1a2e4ab6
+    claim_hash: 5145929ee8a410db45787ff9264a141e22f61ecea0336281b68fa61efc39bdf0
+    content: The three additional unidentified objects detected after the Chinese spy balloon shoot-down were only detected
+      because NORAD had increased the sensitivity of its radars following the Chinese balloon incident.
+    original_excerpt: the only reason these new objects were detected at all was because, after the Chinese balloon shoot-down,
+      NORAD had only then increased the sensitivity of its radars to ensure smaller objects posing potential flight safety
+      risks were being detected
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 4760afb8-2a14-4c60-8924-e2956b67e73c
+        title: North American Aerospace Defense Command (NORAD)
+        slug: north-american-aerospace-defense-command-norad
+      - node_id: 6eabc3e2-0748-4914-8561-60ad3541b3e6
+        title: 2023 'Balloongate' Unidentified Aerial Phenomena (UAP) shoot-down controversy
+        slug: 2023-balloongate-unidentified-aerial-phenomena-uap-shoot-down-controversy
+      - node_id: aae43b27-659a-4206-a110-a731b5f0d19a
+        title: Chinese Spy Balloon Shoot-Down 2023
+        slug: chinese-spy-balloon-shoot-down-2023
+    date: null
+    date_end: null
+    location_in_record: ch29:12465-12705
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: bcd6d33c-3c78-49e6-8b5a-bb1c7f7293b3
+    claim_hash: bc3a53203c475dad61f234aa70979237dfd577223ac09c8af223e1300dc80c07
+    content: The United States Air Force oversees the United States Space Force and has far more aircraft and sensor systems
+      than the United States Navy, as well as responsibility for supporting North American Aerospace Defense Command (NORAD).
+    original_excerpt: despite the fact that the Air Force (as a department which also oversees US Space Force) has far more
+      aircraft and sensor systems than the Navy as well as the responsibility for supporting NORAD.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 5d06f518-dd64-4429-9026-b930e88660d2
+      title: Christopher K. Mellon
+    provenance_chain:
+      origin_kind: speaker
+      origin: Christopher Mellon
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 32b98a17-be55-4b0f-8e10-9d377e1e8b33
+        title: United States Air Force (USAF)
+        slug: united-states-air-force-usaf
+      - node_id: 4760afb8-2a14-4c60-8924-e2956b67e73c
+        title: North American Aerospace Defense Command (NORAD)
+        slug: north-american-aerospace-defense-command-norad
+      - node_id: 5ee4362d-c09b-44a8-a3be-8bd9c05f4c78
+        title: United States Navy (USN)
+        slug: united-states-navy-usn
+      - node_id: f2a10ed1-543e-4df4-8e98-f45964a6a1af
+        title: United States Space Force (USSF)
+        slug: united-states-space-force-ussf
+    date: null
+    date_end: null
+    location_in_record: ch29:22672-22861
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 4a16b3e4-90df-403c-8ecf-f16a11424492
+    claim_hash: 43d1d54f79b79cc35ba6574a5930df720002b4955ee6ee74ac542bb19521e322
+    content: Christopher Mellon believed North American Aerospace Defense Command (NORAD) did not include in the Office of
+      the Director of National Intelligence (ODNI) report any of the thousands of 'Uncorrelated Tracks' that its radars identify
+      each year over North America.
+    original_excerpt: It is my understanding that NORAD did not include in the ODNI report any of the thousands of "Uncorrelated
+      Tracks" that its radars identify each year over North America.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 5d06f518-dd64-4429-9026-b930e88660d2
+      title: Christopher K. Mellon
+    provenance_chain:
+      origin_kind: speaker
+      origin: Christopher Mellon
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 4760afb8-2a14-4c60-8924-e2956b67e73c
+        title: North American Aerospace Defense Command (NORAD)
+        slug: north-american-aerospace-defense-command-norad
+      - node_id: c52fd2ac-fa87-43e8-8a8b-1bbd33ef6a28
+        title: Office of the Director of National Intelligence (ODNI)
+        slug: office-of-the-director-of-national-intelligence-odni
+    date: null
+    date_end: null
+    location_in_record: ch29:22868-23029
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 9e473bd7-5e00-4224-aa98-367697852a79
+    claim_hash: 9026dba887b3ad1f3346551640c01b4cd6958770f2e5c8fea2a546b46ebedb24
+    content: Christopher Mellon believed most of North American Aerospace Defense Command (NORAD)'s Uncorrelated Tracks are
+      flocks of geese or private planes with malfunctioning transponders, but there are also more serious cases the United
+      States Air Force did not report, including cases where US and/or Canadian Air Forces scrambled fighter aircraft to intercept
+      Unidentified Aerial Phenomena (UAP).
+    original_excerpt: To be sure, most are flocks of geese or private planes with malfunctioning transponders etc., but there
+      are also more serious cases that the Air Force did not report, including, it now seems, cases where US and/or Canadian
+      Air Forces scrambled fighter aircraft to intercept UAP.'
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 5d06f518-dd64-4429-9026-b930e88660d2
+      title: Christopher K. Mellon
+    provenance_chain:
+      origin_kind: speaker
+      origin: Christopher Mellon
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 32b98a17-be55-4b0f-8e10-9d377e1e8b33
+        title: United States Air Force (USAF)
+        slug: united-states-air-force-usaf
+      - node_id: 4760afb8-2a14-4c60-8924-e2956b67e73c
+        title: North American Aerospace Defense Command (NORAD)
+        slug: north-american-aerospace-defense-command-norad
+      - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
+        title: Unidentified Anomalous Phenomena (UAP)
+        slug: unidentified-anomalous-phenomena-uap
+    date: null
+    date_end: null
+    location_in_record: ch29:23038-23312
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 372c43d6-717d-413f-98a8-373d693cb399
+    claim_hash: 1756a67e2e15418199c3c55f9e8c46f79f1747a475388bf2cb2281b923aa2773
+    content: Republican Senator Marco Rubio said this was the first time ever in North American Aerospace Defense Command
+      (NORAD)'s history that a decision was made to shoot down an object over American airspace, and all three objects were
+      still unidentified.
+    original_excerpt: Republican Senator Marco Rubio made the point that this was the first time ever in NORAD's history that
+      a decision was made to shoot-down an object over American airspace and all three were still unidentifi ed.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 981b261d-7fb4-408c-a643-0bd820a4c4ca
+      title: Marco Rubio
+    provenance_chain:
+      origin_kind: speaker
+      origin: Marco Rubio
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 4760afb8-2a14-4c60-8924-e2956b67e73c
+        title: North American Aerospace Defense Command (NORAD)
+        slug: north-american-aerospace-defense-command-norad
+      - node_id: 6eabc3e2-0748-4914-8561-60ad3541b3e6
+        title: 2023 'Balloongate' Unidentified Aerial Phenomena (UAP) shoot-down controversy
+        slug: 2023-balloongate-unidentified-aerial-phenomena-uap-shoot-down-controversy
+      - node_id: 981b261d-7fb4-408c-a643-0bd820a4c4ca
+        title: Marco Rubio
+        slug: marco-rubio
+    date: null
+    date_end: null
+    location_in_record: ch29:30876-31083
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 20e40f0f-ad22-47b8-b935-95123138348b
+    claim_hash: 31858eb4ee0efe77d5a2c47a64074b847bfa9a801e8c3f2912a13bc5f5f12c36
+    content: After the 2023 Chinese spy balloon shoot-down, the North American Aerospace Defense Command (NORAD) adjusted
+      the sensitivity of its radars and detected an unknown car-sized object off the coast near Deadhorse, Alaska on 2023-02-10.
+    original_excerpt: When the North American Aerospace Defense Command (NORAD), under fire from an angry White House over
+      the Chinese balloon incursion, belatedly adjusted the sensitivity of its radars it almost immediately detected another
+      unknown 'car-sized object' just off the coast near Deadhorse on Friday 10 February
+    claim_type: observation
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 4760afb8-2a14-4c60-8924-e2956b67e73c
+        title: North American Aerospace Defense Command (NORAD)
+        slug: north-american-aerospace-defense-command-norad
+      - node_id: ec649497-7311-46a2-a0bc-7498dab02b40
+        title: USA, Alaska, Deadhorse
+        slug: alaska-deadhorse-usa
+      - node_id: f5c77540-3f7d-4e1b-abba-eb4407593e8e
+        title: 2023 Chinese spy balloon incident
+        slug: 2023-chinese-spy-balloon-incident
+    date: '2023-02-10'
+    date_end: null
+    location_in_record: ch29:3497-3791
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: cffd7c23-7daf-48c9-86ba-93f63bdaaeab
+    claim_hash: c985027bda2537b9f2de06e50156bc4e625e4c7d1d158add9f504dbda7157693
+    content: On 2023-02-11, NORAD tracked a cylindrical-shaped object at approximately 12,200 metres over Canada's Yukon.
+    original_excerpt: their radar operators were tracking yet another 'object', this time of a cylindrical shape, at 40,000
+      feet over Canada's remote Yukon
+    claim_type: observation
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 4760afb8-2a14-4c60-8924-e2956b67e73c
+        title: North American Aerospace Defense Command (NORAD)
+        slug: north-american-aerospace-defense-command-norad
+      - node_id: 685735df-78d2-4ab2-970b-05932dcda3db
+        title: 2023-02 Yukon cylindrical object shoot-down
+        slug: 2023-02-yukon-cylindrical-object-shoot-down
+      - node_id: b9d3d9a5-9169-434d-a191-80c935e7a34b
+        title: Canada, Yukon
+        slug: yukon-canada
+    date: '2023-02-11'
+    date_end: null
+    location_in_record: ch29:5634-5762
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 175930ff-9783-4e08-a51a-4839025f4a55
+    claim_hash: 97d93026e8c19d53d5a6c5c95ebc9a578ad6c3f53fd852e6c343ac069b4ef75e
+    content: The weekend of 2023-02-04 was, for the first time in the North American Aerospace Defense Command's (NORAD) nearly
+      65-year history, when armed force was used to bring down unidentified objects over American airspace.
+    original_excerpt: for the first time ever in NORAD's near-65-year history, armed force would be used to bring down 'unidentified
+      objects' over American airspace
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 4760afb8-2a14-4c60-8924-e2956b67e73c
+        title: North American Aerospace Defense Command (NORAD)
+        slug: north-american-aerospace-defense-command-norad
+      - node_id: 6eabc3e2-0748-4914-8561-60ad3541b3e6
+        title: 2023 'Balloongate' Unidentified Aerial Phenomena (UAP) shoot-down controversy
+        slug: 2023-balloongate-unidentified-aerial-phenomena-uap-shoot-down-controversy
+    date: '2023-02-04'
+    date_end: null
+    location_in_record: ch29:964-1098
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 77396a58-95de-467d-b079-c6bbf56cb7d6
+    claim_hash: b93be245f8abb5a7dd9425723965e737d6d2a6d4d04fa370035adbfee9c9168a
+    content: A North American Aerospace Defense Command (NORAD) investigator put a few questions to Chad Underwood following
+      the 2004 USS Nimitz UAP encounter, and no other internal agency investigated the encounter.
+    original_excerpt: Beyond a few questions a NORAD investigator put to Underwood, I was told no other internal agency investigated
+      the encounter.
+    claim_type: hearsay
+    attestation: second_hand
+    speaker:
+      node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+      title: Luis Elizondo
+    provenance_chain:
+      origin_kind: anonymous
+      origin: an unnamed person who told Lue Elizondo about the NORAD investigator's questions
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 29f2befa-fe75-484b-a9e8-53a320e66c84
+        title: Chad Underwood
+        slug: chad-underwood
+      - node_id: 4760afb8-2a14-4c60-8924-e2956b67e73c
+        title: North American Aerospace Defense Command (NORAD)
+        slug: north-american-aerospace-defense-command-norad
+      - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
+        title: 2004 USS Nimitz UAP encounter
+        slug: 2004-uss-nimitz-uap-encounter
+    date: null
+    date_end: null
+    location_in_record: ch15:14675-14790
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  - claim_id: c3ecc387-6598-4e7c-80f3-99f636686165
+    claim_hash: 58e5f281a1548fce9ef7c0d5a5081810b0a54536a919acd534c623aa48af3a48
+    content: North American Aerospace Defense Command (NORAD) was not notified of recurring violations of restricted US airspace
+      off the US east coast.
+    original_excerpt: I was shocked to learn that the North American Aerospace Defense Command (NORAD), responsible for guarding
+      North American airspace, was not even notified of these intrusions.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 5d06f518-dd64-4429-9026-b930e88660d2
+      title: Christopher K. Mellon
+    provenance_chain:
+      origin_kind: speaker
+      origin: Christopher Mellon
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 4760afb8-2a14-4c60-8924-e2956b67e73c
+        title: North American Aerospace Defense Command (NORAD)
+        slug: north-american-aerospace-defense-command-norad
+    date: null
+    date_end: null
+    location_in_record: ch6:12949-13112
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  - claim_id: b080fb79-56f5-47b7-a9cb-cb990fa2d940
+    claim_hash: 40968ab907c19f99ec09471357839bca5fa9009e4fd5619f4e10faf478f92417
+    content: The craft in the 2023 Yukon UAP shootdown passed over Canadian skies and was swiftly taken down with the help
+      of North American Aerospace Defense Command (NORAD).
+    original_excerpt: This is one that went over Canadian skies... It was swiftly taken down. as well with the help of NORAD.
+    claim_type: administrative
+    attestation: first_hand
+    speaker:
+      node_id: 24d00311-06ac-46a1-a2f5-c99f3f8e21b2
+      title: Chris Ramsay
+    provenance_chain:
+      origin_kind: speaker
+      origin: Chris Ramsey
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 4760afb8-2a14-4c60-8924-e2956b67e73c
+        title: North American Aerospace Defense Command (NORAD)
+        slug: north-american-aerospace-defense-command-norad
+      - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
+        title: 2004 USS Nimitz UAP encounter
+        slug: 2004-uss-nimitz-uap-encounter
+      - node_id: b9d3d9a5-9169-434d-a191-80c935e7a34b
+        title: Canada, Yukon
+        slug: yukon-canada
+    date: '2023'
+    date_end: null
+    location_in_record: 00:04:07.2-00:04:13.4
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: bfeac055-0d75-4942-964a-5cc9f98a75b4
+      record_title: Horseshoe UAP Video Surfaces! - DEBRIEFED ep. 08
+      record_date: '2024-10-02'
+      record_reference: https://www.youtube.com/watch?v=q-Z-6r7nAc4
+      content_hash: sha256:7180fcb5127c761edd18177f3e18132e0e38af6a7e2fb279ccff499a197b888f
+      friendly_name: null
+  - claim_id: 40a17e5a-6c96-449b-a3b3-5f8dd09363b0
+    claim_hash: 94ad41ffe0282d902b2b81ff61472fa90a2717f2a93d72cac20dc64c6e84ea11
+    content: A North American Aerospace Defense Command (NORAD) general said that the object taken down over USA, Alaska in
+      early 2023 was being called an object rather than a balloon, that it was not a balloon, and that its manner of staying
+      aloft was unknown despite the fact that it was doing so.
+    original_excerpt: we're calling it an object for a reason. It's not a balloon. We don't know how it's staying aloft, yet
+      it is. That... is from the norad general
+    claim_type: testimony
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: named
+      origin: an unnamed North American Aerospace Defense Command (NORAD) general
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 4760afb8-2a14-4c60-8924-e2956b67e73c
+        title: North American Aerospace Defense Command (NORAD)
+        slug: north-american-aerospace-defense-command-norad
+      - node_id: 4f799605-879b-4e8d-935d-811b4bd7c6ac
+        title: USA, Alaska
+        slug: alaska-usa
+    date: '2023'
+    date_end: null
+    location_in_record: 00:06:40.9-00:06:49.8
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: bfeac055-0d75-4942-964a-5cc9f98a75b4
+      record_title: Horseshoe UAP Video Surfaces! - DEBRIEFED ep. 08
+      record_date: '2024-10-02'
+      record_reference: https://www.youtube.com/watch?v=q-Z-6r7nAc4
+      content_hash: sha256:7180fcb5127c761edd18177f3e18132e0e38af6a7e2fb279ccff499a197b888f
+      friendly_name: null
+  - claim_id: b897aa93-707c-4009-ac21-0d32990d8938
+    claim_hash: 51394df1b38f388e5456eaba3805782b690a088635923be823bed0fc6667c699
+    content: When a reporter asked a North American Aerospace Defense Command (NORAD) general whether the object taken down
+      over USA, Alaska in early 2023 was extraterrestrial, the general answered that he was not ruling anything out.
+    original_excerpt: the reporter asked are these extraterrestrial general and the answer was i'm not ruling anything out
+    claim_type: testimony
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: named
+      origin: an unnamed North American Aerospace Defense Command (NORAD) general
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 4760afb8-2a14-4c60-8924-e2956b67e73c
+        title: North American Aerospace Defense Command (NORAD)
+        slug: north-american-aerospace-defense-command-norad
+      - node_id: 4f799605-879b-4e8d-935d-811b4bd7c6ac
+        title: USA, Alaska
+        slug: alaska-usa
+      - node_id: 9c74d864-957a-4654-a5b6-1249fe654ec7
+        title: Non-Human Intelligence
+        slug: non-human-intelligence
+    date: '2023'
+    date_end: null
+    location_in_record: 00:06:50.9-00:06:55.9
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: bfeac055-0d75-4942-964a-5cc9f98a75b4
+      record_title: Horseshoe UAP Video Surfaces! - DEBRIEFED ep. 08
+      record_date: '2024-10-02'
+      record_reference: https://www.youtube.com/watch?v=q-Z-6r7nAc4
+      content_hash: sha256:7180fcb5127c761edd18177f3e18132e0e38af6a7e2fb279ccff499a197b888f
+      friendly_name: null
+  - claim_id: cc26899d-fdb8-41a3-b854-f78917e85b6a
+    claim_hash: 83d4f81005070854703e4285497b18d76e9d3d2a49b381ce4037fca856882abc
+    content: Among Brazilian investigators, there is a suggestion that the North American Aerospace Defense Command (NORAD)
+      might have warned the Brazilian military that an object was headed for the area where it fell during the 1996 Varginha
+      incident.
+    original_excerpt: Among Brazilian investigators, there is some suggestion that the North American Air Defense Command,
+      NORAD, might have warned the military that the object was headed for the area where it fell.
+    claim_type: hearsay
+    attestation: null
+    speaker:
+      node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+      title: Whitley Strieber
+    provenance_chain:
+      origin_kind: unattributed
+      origin: Brazilian investigators
+      relay:
+        - Whitley Strieber
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 4760afb8-2a14-4c60-8924-e2956b67e73c
+        title: North American Aerospace Defense Command (NORAD)
+        slug: north-american-aerospace-defense-command-norad
+      - node_id: 7c2dc890-9158-4057-a773-a3439914d603
+        title: Brazilian Air Force
+        slug: brazilian-air-force
+      - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
+        title: 2004 USS Nimitz UAP encounter
+        slug: 2004-uss-nimitz-uap-encounter
+    date: null
+    date_end: null
+    location_in_record: ch13:10240-10428
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 759e8d7b-a820-4e00-bdc3-9aebf9e4b1b1
+      record_title: The Fourth Mind
+      record_date: '2025-01-15'
+      record_reference: null
+      content_hash: sha256:524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008e17102e7
+      friendly_name: 2025-01-15-ebook-the-fourth-mind

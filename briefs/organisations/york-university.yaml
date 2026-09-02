@@ -1,0 +1,156 @@
+schema: anomalica/brief/1
+brief_hash: 284c98b8114685d0815772dd3818e8c366485c2bdae7cc188cc98695970b7ed9
+page:
+  kind: entity
+  node_id: e861e968-adb6-4a82-86ea-334b5546214e
+  node_type: organisation
+  title: York University
+  slug: york-university
+  claim_count: 3
+  claim_count_total: 3
+generated:
+  graph_version: '2026-09-01T10:10:49.863545+00:00'
+size:
+  claims: 3
+  tokens_estimated: 735
+  sized_against: 1050000
+publication:
+  status: published
+  note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
+    transcripts are gated elsewhere.
+belonging:
+  verified: 0
+  suspect_excluded: 0
+  unreviewed: 3
+related_nodes:
+  - node_id: cb1fe07c-c7d4-48bc-a5d7-d34573772332
+    title: Australian National University
+    node_type: organisation
+    slug: australian-national-university
+    shared_claims: 1
+  - node_id: a628e2d1-50d0-4c8b-9b06-546a6aa4a73e
+    title: David J. Chalmers
+    node_type: person
+    slug: david-j-chalmers
+    shared_claims: 1
+  - node_id: 56c4b371-4156-4272-b6a1-ad8b5626b7e3
+    title: Hugh Chesser
+    node_type: person
+    slug: hugh-chesser
+    shared_claims: 1
+  - node_id: ca610bc7-9f84-4e2c-b11d-a5c0514bc4e4
+    title: Phobos Reconnaissance and International Mars Exploration (PRIME) Mission
+    node_type: project
+    slug: phobos-reconnaissance-and-international-mars-exploration-prime-mission
+    shared_claims: 1
+  - node_id: e6de277c-2d5a-4c08-a987-7c0e7af76de1
+    title: Robert Shapiro
+    node_type: person
+    slug: robert-shapiro
+    shared_claims: 1
+claims:
+  - claim_id: 0f5dffa9-9af6-4e8a-9c5d-a3fb323503ea
+    claim_hash: ddaf6419a169477d68b777a959c1ea5d17cd5b37b37a0e7e2aca5e258ae495f7
+    content: Robert Shapiro is an expert in DNA research and a professor of chemistry at New York University.
+    original_excerpt: written by Robert Shapiro, an expert in DNA research and professor of chemistry at New York University
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: e6de277c-2d5a-4c08-a987-7c0e7af76de1
+        title: Robert Shapiro
+        slug: robert-shapiro
+      - node_id: e861e968-adb6-4a82-86ea-334b5546214e
+        title: York University
+        slug: york-university
+    date: null
+    date_end: null
+    location_in_record: ch12:299-391
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 32687cf8-a827-40a9-b9f4-308ca4d9b2b3
+      record_title: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
+      record_date: '2005-11-14'
+      record_reference: null
+      content_hash: sha256:c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95d6ac9c3b
+      friendly_name: 2005-11-14-ebook-hair-of-the-alien-dna-and-other-forensic-evidence-for-alien
+  - claim_id: 5637cb5c-b78a-4e66-bee6-86965018c4ab
+    claim_hash: 4c40144f65ad58b37c7723d29509c216d3e141139d618bdc5b4bdab89fbc31a7
+    content: Hugh Chesser was a member of the PRIME Mission Science Team, affiliated with York University.
+    original_excerpt: Hugh Chesser | York Univ.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 56c4b371-4156-4272-b6a1-ad8b5626b7e3
+        title: Hugh Chesser
+        slug: hugh-chesser
+      - node_id: ca610bc7-9f84-4e2c-b11d-a5c0514bc4e4
+        title: Phobos Reconnaissance and International Mars Exploration (PRIME) Mission
+        slug: phobos-reconnaissance-and-international-mars-exploration-prime-mission
+      - node_id: e861e968-adb6-4a82-86ea-334b5546214e
+        title: York University
+        slug: york-university
+    date: null
+    date_end: null
+    location_in_record: char:7956-7976
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: ee2ee3c5-355e-4a0b-90eb-ca963573a7a3
+      record_title: The PRIME (Phobos Reconnaissance and International Mars Exploration) Mission and Mars Sample Return
+      record_date: '2008'
+      record_reference: https://www.lpi.usra.edu/meetings/lpsc2008/pdf/2268.pdf
+      content_hash: sha256:47c57e5548fc3fea6ee7616d414b43f95587702326aa3a4c210eb6560294d732
+      friendly_name: 2008-pdf-the-prime-phobos-reconnaissance-and-international-mars
+  - claim_id: 722f2a76-0c94-4e60-8f86-2ea0bbc5ad85
+    claim_hash: 61c40f35fe1f74d2f217177441eecd2dcecdfb24ca14172bca758aa496d82b85
+    content: David Chalmers is a philosophy professor at New York University and the Australian National University.
+    original_excerpt: says David Chalmers, philosophy professor at New York University and the Australian National University
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: narration
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: a628e2d1-50d0-4c8b-9b06-546a6aa4a73e
+        title: David J. Chalmers
+        slug: david-j-chalmers
+      - node_id: cb1fe07c-c7d4-48bc-a5d7-d34573772332
+        title: Australian National University
+        slug: australian-national-university
+      - node_id: e861e968-adb6-4a82-86ea-334b5546214e
+        title: York University
+        slug: york-university
+    date: null
+    date_end: null
+    location_in_record: ch7:16651-16744
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
+      record_title: Surviving Death
+      record_date: '2017-03-07'
+      record_reference: null
+      content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
+      friendly_name: 2017-03-07-ebook-surviving-death

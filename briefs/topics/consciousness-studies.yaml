@@ -1,0 +1,1543 @@
+schema: anomalica/brief/1
+brief_hash: facc906adda03ba1b5c59b518dcd16ebc08a17cdaa7152b3b0d3b804f5933c46
+page:
+  kind: entity
+  node_id: 32d00165-71c5-4ca8-a07c-180914be45c4
+  node_type: topic
+  title: Consciousness studies
+  slug: consciousness-studies
+  claim_count: 35
+  claim_count_total: 35
+generated:
+  graph_version: '2026-09-01T10:10:49.863545+00:00'
+size:
+  claims: 35
+  tokens_estimated: 10958
+  sized_against: 1050000
+publication:
+  status: published
+  note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
+    transcripts are gated elsewhere.
+belonging:
+  verified: 0
+  suspect_excluded: 0
+  unreviewed: 35
+related_nodes:
+  - node_id: 0d4dfba6-a53b-4f23-a2ad-e4c9bea44076
+    title: Robert Bigelow
+    node_type: person
+    slug: robert-bigelow
+    shared_claims: 15
+  - node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+    title: Ross Coulthart
+    node_type: person
+    slug: ross-coulthart
+    shared_claims: 7
+  - node_id: 8c49a948-b7da-43b1-b89c-45415e909dc2
+    title: Survival of bodily death
+    node_type: topic
+    slug: survival-of-bodily-death
+    shared_claims: 7
+  - node_id: 9c74d864-957a-4654-a5b6-1249fe654ec7
+    title: Non-Human Intelligence
+    node_type: topic
+    slug: non-human-intelligence
+    shared_claims: 6
+  - node_id: 41c9281c-4a11-4399-b324-a8486a96c766
+    title: Remote Viewing (RV)
+    node_type: topic
+    slug: remote-viewing-rv
+    shared_claims: 3
+  - node_id: d2f37088-0fab-4bab-93b4-83841cc8fe5e
+    title: Brenda Dunne
+    node_type: person
+    slug: brenda-dunne
+    shared_claims: 2
+  - node_id: 24d00311-06ac-46a1-a2f5-c99f3f8e21b2
+    title: Chris Ramsay
+    node_type: person
+    slug: chris-ramsay
+    shared_claims: 2
+  - node_id: 11917292-9774-4cdc-8480-4ecd97a0b600
+    title: Princeton University
+    node_type: organisation
+    slug: princeton-university
+    shared_claims: 2
+  - node_id: c6de7725-eb41-40e2-b679-03f2c1e2192e
+    title: Quantum mechanics
+    node_type: topic
+    slug: quantum-mechanics
+    shared_claims: 2
+  - node_id: 7af554fb-5ea1-4319-b6c7-c5317747a170
+    title: Robert Jahn
+    node_type: person
+    slug: robert-jahn
+    shared_claims: 2
+  - node_id: 98eeed83-96a9-45ef-bb14-cb915d45fc9c
+    title: Alien abduction
+    node_type: topic
+    slug: alien-abduction
+    shared_claims: 1
+  - node_id: 931f929f-808d-4b09-975d-94c8c65170cd
+    title: Clairvoyance
+    node_type: topic
+    slug: clairvoyance
+    shared_claims: 1
+  - node_id: 8a313acd-6422-4ffa-a67f-6d3435102510
+    title: Dark energy
+    node_type: topic
+    slug: dark-energy
+    shared_claims: 1
+  - node_id: fb2903b3-56b1-41ef-8eae-594ab1d0e2e8
+    title: Dark matter
+    node_type: topic
+    slug: dark-matter
+    shared_claims: 1
+  - node_id: 08e9391a-bb91-422e-be0e-94fec5b5809c
+    title: Double-slit experiment
+    node_type: topic
+    slug: double-slit-experiment
+    shared_claims: 1
+  - node_id: 0c15657f-8c99-43ad-8912-d2841ba0634f
+    title: Esalen Institute Skywatcher psionic inviting demonstration
+    node_type: event
+    slug: esalen-institute-skywatcher-psionic-inviting-demonstration
+    shared_claims: 1
+  - node_id: 6712e8fa-3b86-4982-a102-e2d38e0b29d6
+    title: George Knapp
+    node_type: person
+    slug: george-knapp
+    shared_claims: 1
+  - node_id: d0a6ce69-4f5f-456b-a83c-b68a680224be
+    title: John Mack
+    node_type: person
+    slug: john-mack
+    shared_claims: 1
+  - node_id: a69cb66f-4b85-4b59-a1ca-067d21a5640a
+    title: Mediumship
+    node_type: topic
+    slug: mediumship
+    shared_claims: 1
+  - node_id: 3ee2cac3-ff50-4eff-8353-cd4c6ac0a30f
+    title: Precognition
+    node_type: topic
+    slug: precognition
+    shared_claims: 1
+  - node_id: 34fa7ace-5c72-4a1c-80b6-01f654eefe00
+    title: Stanford Research Institute (SRI)
+    node_type: organisation
+    slug: stanford-research-institute-sri
+    shared_claims: 1
+  - node_id: d532997b-8a3d-4d47-9fd3-17e736310f75
+    title: USA, Utah, Skinwalker Ranch
+    node_type: place
+    slug: utah-skinwalker-ranch-usa
+    shared_claims: 1
+  - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
+    title: Unidentified Anomalous Phenomena (UAP)
+    node_type: topic
+    slug: unidentified-anomalous-phenomena-uap
+    shared_claims: 1
+  - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
+    title: Unidentified Flying Object (UFO)
+    node_type: topic
+    slug: unidentified-flying-object-ufo
+    shared_claims: 1
+  - node_id: 59e5adca-0786-4ef8-ad50-674371180a4a
+    title: psionics
+    node_type: topic
+    slug: psionics
+    shared_claims: 1
+claims:
+  - claim_id: 3a90c067-7d45-4b1d-92c5-4355b917dfcc
+    claim_hash: 0b5b68eab4c52c20cecf006ce38b108e94c8f2f58f2b431b8ffca4ff729fda44
+    content: Ross Coulthart considers consciousness, rather than the nuts-and-bolts question of craft and aliens, to be the
+      real mystery of the Unidentified Aerial Phenomena subject.
+    original_excerpt: the real mystery is consciousness ... i don't really care anymore about the nuts and bolts claim of
+      craft aliens it's kind of like tangential to me
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+      title: Ross Coulthart
+    provenance_chain:
+      origin_kind: speaker
+      origin: Ross Coulthart
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 32d00165-71c5-4ca8-a07c-180914be45c4
+        title: Consciousness studies
+        slug: consciousness-studies
+      - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
+        title: Unidentified Anomalous Phenomena (UAP)
+        slug: unidentified-anomalous-phenomena-uap
+      - node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+        title: Ross Coulthart
+        slug: ross-coulthart
+    date: null
+    date_end: null
+    location_in_record: 01:40:00.6-01:40:09.5
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: fd845823-8784-462c-a981-4775525b6f84
+      record_title: The DANGEROUS Truth About UFOs - Ross Coulthart | DEBRIEFED ep. 76
+      record_date: '2026-02-20'
+      record_reference: https://www.youtube.com/watch?v=idBryc0eWww
+      content_hash: sha256:73be106d406f6d35a063a894e8384e7da0918eb8597d2107a9e3653becca2bdc
+      friendly_name: null
+  - claim_id: 31ae1ebc-8271-4f65-b2e8-40ba53135917
+    claim_hash: 068e54a81447127d0a0d94c105d38875ffece4a794f5a092e3383b850a1929bc
+    content: Multiple people have independently described to Ross Coulthart receiving downloads, including creative inspiration
+      for art and music and scientific ideas arriving as schematics and diagrams in their heads which they then write down.
+    original_excerpt: either creative downloads they're inspired to write beautiful art or to do beautiful art or write beautiful
+      music or scientific ideas literally schematics diagrams come into their heads and they write them down and i've had
+      this described to me by multiple people multiple occasions
+    claim_type: hearsay
+    attestation: second_hand
+    speaker:
+      node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+      title: Ross Coulthart
+    provenance_chain:
+      origin_kind: anonymous
+      origin: multiple people claiming to have received mental downloads
+      relay:
+        - direct contact with Ross Coulthart
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 32d00165-71c5-4ca8-a07c-180914be45c4
+        title: Consciousness studies
+        slug: consciousness-studies
+      - node_id: 9c74d864-957a-4654-a5b6-1249fe654ec7
+        title: Non-Human Intelligence
+        slug: non-human-intelligence
+      - node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+        title: Ross Coulthart
+        slug: ross-coulthart
+    date: null
+    date_end: null
+    location_in_record: 01:40:36.2-01:40:56.0
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: fd845823-8784-462c-a981-4775525b6f84
+      record_title: The DANGEROUS Truth About UFOs - Ross Coulthart | DEBRIEFED ep. 76
+      record_date: '2026-02-20'
+      record_reference: https://www.youtube.com/watch?v=idBryc0eWww
+      content_hash: sha256:73be106d406f6d35a063a894e8384e7da0918eb8597d2107a9e3653becca2bdc
+      friendly_name: null
+  - claim_id: 976b64b8-3f50-4f7e-a43c-cd68ae761056
+    claim_hash: b0cd71d36de532bf1ce73c3df8a92d4ee6d5c5d59d0cb817045cf0786ac34758
+    content: A man from a European country told Ross Coulthart that in a liminal state between dreaming and waking a blue
+      being spoke to him, after which he sat in his living room seeing hieroglyphic-looking images which he photographed.
+    original_excerpt: there was a guy contacted me from a european country and he had had a dream semi-dream in that liminal
+      moment between dreaming and waking where there's a blue being talking to him and then he's sitting in his living room
+      and he's seeing what looked like hieroglyphic images and he's photographing them
+    claim_type: hearsay
+    attestation: second_hand
+    speaker:
+      node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+      title: Ross Coulthart
+    provenance_chain:
+      origin_kind: anonymous
+      origin: a man in a European country claiming to have encountered a blue being
+      relay:
+        - direct contact with Ross Coulthart
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 32d00165-71c5-4ca8-a07c-180914be45c4
+        title: Consciousness studies
+        slug: consciousness-studies
+      - node_id: 9c74d864-957a-4654-a5b6-1249fe654ec7
+        title: Non-Human Intelligence
+        slug: non-human-intelligence
+      - node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+        title: Ross Coulthart
+        slug: ross-coulthart
+    date: null
+    date_end: null
+    location_in_record: 01:41:32.8-01:41:54.2
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: fd845823-8784-462c-a981-4775525b6f84
+      record_title: The DANGEROUS Truth About UFOs - Ross Coulthart | DEBRIEFED ep. 76
+      record_date: '2026-02-20'
+      record_reference: https://www.youtube.com/watch?v=idBryc0eWww
+      content_hash: sha256:73be106d406f6d35a063a894e8384e7da0918eb8597d2107a9e3653becca2bdc
+      friendly_name: null
+  - claim_id: d88b0085-75b1-45c2-b390-a2e951c7f543
+    claim_hash: f193fc7b55e31472eedb912f354f8086eeee27d79dadf04d2f120563f372a588
+    content: Ross Coulthart considers that something appears to be engaging with the consciousness of at least some humans
+      and trying to communicate.
+    original_excerpt: there seems to be something engaging with human consciousness, or at least the consciousness of some
+      humans. trying to communicate.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+      title: Ross Coulthart
+    provenance_chain:
+      origin_kind: speaker
+      origin: Ross Coulthart
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 32d00165-71c5-4ca8-a07c-180914be45c4
+        title: Consciousness studies
+        slug: consciousness-studies
+      - node_id: 9c74d864-957a-4654-a5b6-1249fe654ec7
+        title: Non-Human Intelligence
+        slug: non-human-intelligence
+      - node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+        title: Ross Coulthart
+        slug: ross-coulthart
+    date: null
+    date_end: null
+    location_in_record: 01:42:25.0-01:42:31.5
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: fd845823-8784-462c-a981-4775525b6f84
+      record_title: The DANGEROUS Truth About UFOs - Ross Coulthart | DEBRIEFED ep. 76
+      record_date: '2026-02-20'
+      record_reference: https://www.youtube.com/watch?v=idBryc0eWww
+      content_hash: sha256:73be106d406f6d35a063a894e8384e7da0918eb8597d2107a9e3653becca2bdc
+      friendly_name: null
+  - claim_id: 7dd65bbf-4387-4e41-8505-cc02a8ae998a
+    claim_hash: 47d93613f4b102dcf02de758843e1eeeb6cb396a304828d6197c21a7de68f800
+    content: Ross Coulthart is wrestling as a journalist with the point at which to give credibility to consistent witness
+      statements of apparently first-hand encounters with a non-human intelligence, often in a semi-dream state that appears
+      real to the witness.
+    original_excerpt: at what point do i start giving credibility to the idea that there are people giving consistent witness
+      statements of what appear to be first-hand encounters with a phenomenon that appears to be a non-human intelligence
+      that is engaging with them often in a semi-dream state, but which appears to them to be real.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+      title: Ross Coulthart
+    provenance_chain:
+      origin_kind: speaker
+      origin: Ross Coulthart
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 32d00165-71c5-4ca8-a07c-180914be45c4
+        title: Consciousness studies
+        slug: consciousness-studies
+      - node_id: 9c74d864-957a-4654-a5b6-1249fe654ec7
+        title: Non-Human Intelligence
+        slug: non-human-intelligence
+      - node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+        title: Ross Coulthart
+        slug: ross-coulthart
+    date: null
+    date_end: null
+    location_in_record: 01:43:13.7-01:43:37.3
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: fd845823-8784-462c-a981-4775525b6f84
+      record_title: The DANGEROUS Truth About UFOs - Ross Coulthart | DEBRIEFED ep. 76
+      record_date: '2026-02-20'
+      record_reference: https://www.youtube.com/watch?v=idBryc0eWww
+      content_hash: sha256:73be106d406f6d35a063a894e8384e7da0918eb8597d2107a9e3653becca2bdc
+      friendly_name: null
+  - claim_id: 75681e5d-385a-4696-8898-ea71fb0a6c1e
+    claim_hash: 53eed10760cc2fecbf8aa87b0b88a163c69aeebca70b879a0f95547c90c0a067
+    content: Chris Ramsay considers that the majority of reported interactions with non-human beings are non-physical, occurring
+      in an in-between realm that is not quite a dream and that can nevertheless leave physical markings on the experiencer,
+      a problem John Mack also wrestled with.
+    original_excerpt: that's something John Mack wrestled with as well, was the majority of these interactions with these
+      beings seems to be non-physical. And that doesn't necessarily mean a dream. There is some type of in-between non-physical
+      realm that isn't quite a dream and that can even leave you with physical markings.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 24d00311-06ac-46a1-a2f5-c99f3f8e21b2
+      title: Chris Ramsay
+    provenance_chain:
+      origin_kind: speaker
+      origin: Chris Ramsay
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 24d00311-06ac-46a1-a2f5-c99f3f8e21b2
+        title: Chris Ramsay
+        slug: chris-ramsay
+      - node_id: 32d00165-71c5-4ca8-a07c-180914be45c4
+        title: Consciousness studies
+        slug: consciousness-studies
+      - node_id: 98eeed83-96a9-45ef-bb14-cb915d45fc9c
+        title: Alien abduction
+        slug: alien-abduction
+      - node_id: d0a6ce69-4f5f-456b-a83c-b68a680224be
+        title: John Mack
+        slug: john-mack
+    date: null
+    date_end: null
+    location_in_record: 01:43:40.1-01:44:03.4
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: fd845823-8784-462c-a981-4775525b6f84
+      record_title: The DANGEROUS Truth About UFOs - Ross Coulthart | DEBRIEFED ep. 76
+      record_date: '2026-02-20'
+      record_reference: https://www.youtube.com/watch?v=idBryc0eWww
+      content_hash: sha256:73be106d406f6d35a063a894e8384e7da0918eb8597d2107a9e3653becca2bdc
+      friendly_name: null
+  - claim_id: 7babe73b-cbdb-40af-9273-8e037ffa865e
+    claim_hash: c7227df14dbf3a1500210c776212f6d2cbd0b26f75d8825e1e1d4696844f668c
+    content: Until the Esalen Institute demonstration Ross Coulthart thought psionics was probably nonsense, finding it utterly
+      implausible that human consciousness could be connected to something at such a distance and summon or invite it.
+    original_excerpt: I freely admit that up until that point, I thought it was probably bullshit... it just seemed utterly
+      implausible that you could connect human consciousness to something at such a distance and somehow summon it or invite
+      it to come.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+      title: Ross Coulthart
+    provenance_chain:
+      origin_kind: speaker
+      origin: Ross Coulthart
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 0c15657f-8c99-43ad-8912-d2841ba0634f
+        title: Esalen Institute Skywatcher psionic inviting demonstration
+        slug: esalen-institute-skywatcher-psionic-inviting-demonstration
+      - node_id: 32d00165-71c5-4ca8-a07c-180914be45c4
+        title: Consciousness studies
+        slug: consciousness-studies
+      - node_id: 59e5adca-0786-4ef8-ad50-674371180a4a
+        title: psionics
+        slug: psionics
+      - node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+        title: Ross Coulthart
+        slug: ross-coulthart
+    date: null
+    date_end: null
+    location_in_record: 02:22:13.2-02:22:31.1
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: fd845823-8784-462c-a981-4775525b6f84
+      record_title: The DANGEROUS Truth About UFOs - Ross Coulthart | DEBRIEFED ep. 76
+      record_date: '2026-02-20'
+      record_reference: https://www.youtube.com/watch?v=idBryc0eWww
+      content_hash: sha256:73be106d406f6d35a063a894e8384e7da0918eb8597d2107a9e3653becca2bdc
+      friendly_name: null
+  - claim_id: f74d1d57-ac74-49d1-8a4c-f1e6673752c9
+    claim_hash: 3483e807807a9b8cbc94de3ef61cd07f623b48a8352413c9ca4b749488ea6cd7
+    content: If given the chance to interview an extraterrestrial, Ross Coulthart would ask whether they believe they transcend
+      their physical bodies and have a consciousness that survives after death, which he considers integral to the whole extraterrestrial
+      story.
+    original_excerpt: I would ask them whether they believe that they transcend their physical bodies and have a consciousness
+      that survives after death. which I think is integral to this whole ET story.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+      title: Ross Coulthart
+    provenance_chain:
+      origin_kind: speaker
+      origin: Ross Coulthart
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 32d00165-71c5-4ca8-a07c-180914be45c4
+        title: Consciousness studies
+        slug: consciousness-studies
+      - node_id: 9c74d864-957a-4654-a5b6-1249fe654ec7
+        title: Non-Human Intelligence
+        slug: non-human-intelligence
+      - node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+        title: Ross Coulthart
+        slug: ross-coulthart
+    date: null
+    date_end: null
+    location_in_record: 02:37:21.2-02:37:36.5
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: fd845823-8784-462c-a981-4775525b6f84
+      record_title: The DANGEROUS Truth About UFOs - Ross Coulthart | DEBRIEFED ep. 76
+      record_date: '2026-02-20'
+      record_reference: https://www.youtube.com/watch?v=idBryc0eWww
+      content_hash: sha256:73be106d406f6d35a063a894e8384e7da0918eb8597d2107a9e3653becca2bdc
+      friendly_name: null
+  - claim_id: 9955f670-06cb-47c4-b7d0-9f9994758394
+    claim_hash: 91cd040ada94636ef4e55b5dac1826684346f97404060a4810f84ebf8d49f6d9
+    content: Chris Ramsay considers that a very intelligent species with the capability to preserve consciousness would have
+      seeded a trillion planets as it has done on Earth, and would run many experiments rather than merely take samples and
+      leave.
+    original_excerpt: i think if you were a very intelligent species you would have done the same thing you've done here to
+      a trillion planets if you had the capability to preserve that flame of consciousness and ... we're not sending a probe
+      there to just take soil samples and leave we're doing a thousand tests
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 24d00311-06ac-46a1-a2f5-c99f3f8e21b2
+      title: Chris Ramsay
+    provenance_chain:
+      origin_kind: speaker
+      origin: Chris Ramsay
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 24d00311-06ac-46a1-a2f5-c99f3f8e21b2
+        title: Chris Ramsay
+        slug: chris-ramsay
+      - node_id: 32d00165-71c5-4ca8-a07c-180914be45c4
+        title: Consciousness studies
+        slug: consciousness-studies
+      - node_id: 9c74d864-957a-4654-a5b6-1249fe654ec7
+        title: Non-Human Intelligence
+        slug: non-human-intelligence
+    date: null
+    date_end: null
+    location_in_record: 02:42:44.5-02:43:05.4
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: fd845823-8784-462c-a981-4775525b6f84
+      record_title: The DANGEROUS Truth About UFOs - Ross Coulthart | DEBRIEFED ep. 76
+      record_date: '2026-02-20'
+      record_reference: https://www.youtube.com/watch?v=idBryc0eWww
+      content_hash: sha256:73be106d406f6d35a063a894e8384e7da0918eb8597d2107a9e3653becca2bdc
+      friendly_name: null
+  - claim_id: fa9b5aef-748c-4384-93cb-e0f777227677
+    claim_hash: 1113949a6dd6279f75a2a8e7132d27c5cd824ed8bde45bffac01cd375bb93ccc
+    content: Robert Bigelow regards the two big subjects as whether we are alone and what happens to a person after death.
+    original_excerpt: the two big ones are we alone and what happens to you after you die right
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 0d4dfba6-a53b-4f23-a2ad-e4c9bea44076
+      title: Robert Bigelow
+    provenance_chain:
+      origin_kind: speaker
+      origin: Robert Bigelow
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 0d4dfba6-a53b-4f23-a2ad-e4c9bea44076
+        title: Robert Bigelow
+        slug: robert-bigelow
+      - node_id: 32d00165-71c5-4ca8-a07c-180914be45c4
+        title: Consciousness studies
+        slug: consciousness-studies
+      - node_id: 8c49a948-b7da-43b1-b89c-45415e909dc2
+        title: Survival of bodily death
+        slug: survival-of-bodily-death
+    date: null
+    date_end: null
+    location_in_record: 00:06:12.6-00:06:17.6
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 5de4e296-4206-45f6-aa56-c3b8efb5c9e2
+      record_title: The Evolution of AAWSAP | Bigelow Podcast, Ep. 2
+      record_date: '2026-08-11'
+      record_reference: https://www.youtube.com/watch?v=hz7jHEgYzQw
+      content_hash: sha256:1aa9d864c5a4bb930164c278d9624c6bc0f84278ea4b5e57594fae9e21e90858
+      friendly_name: null
+  - claim_id: 87babc10-1364-4593-8b43-262ba6e32c74
+    claim_hash: b642cf2cd7970510978917f846282e87df70ba033a9bec551823b193eddeec1f
+    content: Robert Bigelow considers consciousness to be foundational to everything and ultimately responsible for everything
+      in the universe.
+    original_excerpt: Consciousness ultimately is responsible for everything in the universe that you can think of. Everything.
+      Everything.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 0d4dfba6-a53b-4f23-a2ad-e4c9bea44076
+      title: Robert Bigelow
+    provenance_chain:
+      origin_kind: speaker
+      origin: Robert Bigelow
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 0d4dfba6-a53b-4f23-a2ad-e4c9bea44076
+        title: Robert Bigelow
+        slug: robert-bigelow
+      - node_id: 32d00165-71c5-4ca8-a07c-180914be45c4
+        title: Consciousness studies
+        slug: consciousness-studies
+    date: null
+    date_end: null
+    location_in_record: 00:14:31.9-00:14:38.8
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 5de4e296-4206-45f6-aa56-c3b8efb5c9e2
+      record_title: The Evolution of AAWSAP | Bigelow Podcast, Ep. 2
+      record_date: '2026-08-11'
+      record_reference: https://www.youtube.com/watch?v=hz7jHEgYzQw
+      content_hash: sha256:1aa9d864c5a4bb930164c278d9624c6bc0f84278ea4b5e57594fae9e21e90858
+      friendly_name: null
+  - claim_id: bdb5497f-693e-4457-93f2-11d884c251a4
+    claim_hash: c4e534cf89e4596fffdc27f1fbe0a79dbed4d7c6091672ee0f0e8071da6927b3
+    content: Robert Bigelow considers that after bodily death a person becomes a function of thought, without a body.
+    original_excerpt: That we go on. And so you become a function of thought and so you say well how is that possible without
+      a body without a container that's impossible it's not
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 0d4dfba6-a53b-4f23-a2ad-e4c9bea44076
+      title: Robert Bigelow
+    provenance_chain:
+      origin_kind: speaker
+      origin: Robert Bigelow
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 0d4dfba6-a53b-4f23-a2ad-e4c9bea44076
+        title: Robert Bigelow
+        slug: robert-bigelow
+      - node_id: 32d00165-71c5-4ca8-a07c-180914be45c4
+        title: Consciousness studies
+        slug: consciousness-studies
+      - node_id: 8c49a948-b7da-43b1-b89c-45415e909dc2
+        title: Survival of bodily death
+        slug: survival-of-bodily-death
+    date: null
+    date_end: null
+    location_in_record: 00:16:48.2-00:16:58.6
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 5de4e296-4206-45f6-aa56-c3b8efb5c9e2
+      record_title: The Evolution of AAWSAP | Bigelow Podcast, Ep. 2
+      record_date: '2026-08-11'
+      record_reference: https://www.youtube.com/watch?v=hz7jHEgYzQw
+      content_hash: sha256:1aa9d864c5a4bb930164c278d9624c6bc0f84278ea4b5e57594fae9e21e90858
+      friendly_name: null
+  - claim_id: 30a3b3e6-fd68-4513-a493-4eb9b1d4d89b
+    claim_hash: ca3e54ea6430c3ae5ec85585c1234ae8c1705e6f928f1ab29ca6eb27ffafd37e
+    content: In Robert Jahn and Brenda Dunne's Princeton University experiment, a computer screen showed a static line and
+      a random event generator produced a second line, with electrons flipped a million times a second so the result should
+      always be an equal 50-50 split.
+    original_excerpt: a computer screen that had a static line across the screen ... And then you had a random event generator
+      causing a second line to occur. And those electrons are being flipped a million times a second by the random event generator.
+      So it should always be 50-50.
+    claim_type: administrative
+    attestation: first_hand
+    speaker:
+      node_id: 0d4dfba6-a53b-4f23-a2ad-e4c9bea44076
+      title: Robert Bigelow
+    provenance_chain:
+      origin_kind: speaker
+      origin: Robert Bigelow
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 11917292-9774-4cdc-8480-4ecd97a0b600
+        title: Princeton University
+        slug: princeton-university
+      - node_id: 32d00165-71c5-4ca8-a07c-180914be45c4
+        title: Consciousness studies
+        slug: consciousness-studies
+      - node_id: 7af554fb-5ea1-4319-b6c7-c5317747a170
+        title: Robert Jahn
+        slug: robert-jahn
+      - node_id: d2f37088-0fab-4bab-93b4-83841cc8fe5e
+        title: Brenda Dunne
+        slug: brenda-dunne
+    date: null
+    date_end: null
+    location_in_record: 00:17:25.3-00:17:44.4
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 5de4e296-4206-45f6-aa56-c3b8efb5c9e2
+      record_title: The Evolution of AAWSAP | Bigelow Podcast, Ep. 2
+      record_date: '2026-08-11'
+      record_reference: https://www.youtube.com/watch?v=hz7jHEgYzQw
+      content_hash: sha256:1aa9d864c5a4bb930164c278d9624c6bc0f84278ea4b5e57594fae9e21e90858
+      friendly_name: null
+  - claim_id: f598c6d8-9e79-4bf4-909c-d99a66b5a4cb
+    claim_hash: 4e87039a70ac32cc901632426305eea096443812ea2b63709c73a7ab01d9dada
+    content: In Robert Jahn and Brenda Dunne's Princeton University experiment, a person concentrating could make the random
+      event generator's line deviate above or below the static line, and it worked.
+    original_excerpt: So if you're sitting there concentrating, if you're trying to concentrate, you can make a deviation
+      of that line above the static or below the static line. And it works.
+    claim_type: observation
+    attestation: second_hand
+    speaker:
+      node_id: 0d4dfba6-a53b-4f23-a2ad-e4c9bea44076
+      title: Robert Bigelow
+    provenance_chain:
+      origin_kind: named
+      origin: Robert Jahn and Brenda Dunne's Princeton laboratory work
+      relay:
+        - Robert Bigelow
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 11917292-9774-4cdc-8480-4ecd97a0b600
+        title: Princeton University
+        slug: princeton-university
+      - node_id: 32d00165-71c5-4ca8-a07c-180914be45c4
+        title: Consciousness studies
+        slug: consciousness-studies
+      - node_id: 7af554fb-5ea1-4319-b6c7-c5317747a170
+        title: Robert Jahn
+        slug: robert-jahn
+      - node_id: d2f37088-0fab-4bab-93b4-83841cc8fe5e
+        title: Brenda Dunne
+        slug: brenda-dunne
+    date: null
+    date_end: null
+    location_in_record: 00:17:49.2-00:17:58.0
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 5de4e296-4206-45f6-aa56-c3b8efb5c9e2
+      record_title: The Evolution of AAWSAP | Bigelow Podcast, Ep. 2
+      record_date: '2026-08-11'
+      record_reference: https://www.youtube.com/watch?v=hz7jHEgYzQw
+      content_hash: sha256:1aa9d864c5a4bb930164c278d9624c6bc0f84278ea4b5e57594fae9e21e90858
+      friendly_name: null
+  - claim_id: da797343-89f6-47cc-acf2-38ceefd2b219
+    claim_hash: 60823687593055ba9d0e9c783a118e0ac97264249a0c7553ebc5c6410fdfffbe
+    content: Robert Bigelow considers that consciousness can have an effect on subatomic particles by pure observation, causing
+      deviations according to the observer's intent.
+    original_excerpt: consciousness can have an effect on material products, on materials, on...by just pure observation,
+      you can have an effect on subatomic particles. ... And you cause deviations according to your intent.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 0d4dfba6-a53b-4f23-a2ad-e4c9bea44076
+      title: Robert Bigelow
+    provenance_chain:
+      origin_kind: speaker
+      origin: Robert Bigelow
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 0d4dfba6-a53b-4f23-a2ad-e4c9bea44076
+        title: Robert Bigelow
+        slug: robert-bigelow
+      - node_id: 32d00165-71c5-4ca8-a07c-180914be45c4
+        title: Consciousness studies
+        slug: consciousness-studies
+      - node_id: c6de7725-eb41-40e2-b679-03f2c1e2192e
+        title: Quantum mechanics
+        slug: quantum-mechanics
+    date: null
+    date_end: null
+    location_in_record: 00:18:12.8-00:18:35.9
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 5de4e296-4206-45f6-aa56-c3b8efb5c9e2
+      record_title: The Evolution of AAWSAP | Bigelow Podcast, Ep. 2
+      record_date: '2026-08-11'
+      record_reference: https://www.youtube.com/watch?v=hz7jHEgYzQw
+      content_hash: sha256:1aa9d864c5a4bb930164c278d9624c6bc0f84278ea4b5e57594fae9e21e90858
+      friendly_name: null
+  - claim_id: a12ed943-4299-4756-a737-e9dcba1c4b9f
+    claim_hash: 37d1f2c49406906aee6f23d62c76160a65381a6a884c6b2d0f72d5a2642e24b7
+    content: Robert Bigelow considers that consciousness has an effect in our dimension that can be initiated through clairvoyance,
+      precognition, remote viewing and mediumship.
+    original_excerpt: So consciousness has an effect in our dimension that we can initiate through various other kinds of
+      things, clairvoyance, precognition, remote viewing, Mediumship.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 0d4dfba6-a53b-4f23-a2ad-e4c9bea44076
+      title: Robert Bigelow
+    provenance_chain:
+      origin_kind: speaker
+      origin: Robert Bigelow
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 0d4dfba6-a53b-4f23-a2ad-e4c9bea44076
+        title: Robert Bigelow
+        slug: robert-bigelow
+      - node_id: 32d00165-71c5-4ca8-a07c-180914be45c4
+        title: Consciousness studies
+        slug: consciousness-studies
+      - node_id: 3ee2cac3-ff50-4eff-8353-cd4c6ac0a30f
+        title: Precognition
+        slug: precognition
+      - node_id: 41c9281c-4a11-4399-b324-a8486a96c766
+        title: Remote Viewing (RV)
+        slug: remote-viewing-rv
+      - node_id: 931f929f-808d-4b09-975d-94c8c65170cd
+        title: Clairvoyance
+        slug: clairvoyance
+      - node_id: a69cb66f-4b85-4b59-a1ca-067d21a5640a
+        title: Mediumship
+        slug: mediumship
+    date: null
+    date_end: null
+    location_in_record: 00:18:39.2-00:18:54.9
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 5de4e296-4206-45f6-aa56-c3b8efb5c9e2
+      record_title: The Evolution of AAWSAP | Bigelow Podcast, Ep. 2
+      record_date: '2026-08-11'
+      record_reference: https://www.youtube.com/watch?v=hz7jHEgYzQw
+      content_hash: sha256:1aa9d864c5a4bb930164c278d9624c6bc0f84278ea4b5e57594fae9e21e90858
+      friendly_name: null
+  - claim_id: f46b1117-1019-4664-91b6-e0d6ebea0478
+    claim_hash: 8adeb1dba37d6a2653cbe24ee577c54bdaf1ef318437f00979515d05c6df6cac
+    content: One of the findings of the Stanford Research Institute (SRI) work was that most people have the ability to produce
+      anomalous results that the normal five senses should not be able to produce, using a sixth sense.
+    original_excerpt: And one of the things they learned that's kind of fun is that most people have the ability to function
+      to produce anomalous results that our normal five senses shouldn't be able to produce. And you're not using those, you're
+      using a sixth kind of sense.
+    claim_type: observation
+    attestation: second_hand
+    speaker:
+      node_id: 0d4dfba6-a53b-4f23-a2ad-e4c9bea44076
+      title: Robert Bigelow
+    provenance_chain:
+      origin_kind: named
+      origin: Stanford Research Institute researchers
+      relay:
+        - Robert Bigelow
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 32d00165-71c5-4ca8-a07c-180914be45c4
+        title: Consciousness studies
+        slug: consciousness-studies
+      - node_id: 34fa7ace-5c72-4a1c-80b6-01f654eefe00
+        title: Stanford Research Institute (SRI)
+        slug: stanford-research-institute-sri
+      - node_id: 41c9281c-4a11-4399-b324-a8486a96c766
+        title: Remote Viewing (RV)
+        slug: remote-viewing-rv
+    date: null
+    date_end: null
+    location_in_record: 00:19:21.9-00:19:41.0
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 5de4e296-4206-45f6-aa56-c3b8efb5c9e2
+      record_title: The Evolution of AAWSAP | Bigelow Podcast, Ep. 2
+      record_date: '2026-08-11'
+      record_reference: https://www.youtube.com/watch?v=hz7jHEgYzQw
+      content_hash: sha256:1aa9d864c5a4bb930164c278d9624c6bc0f84278ea4b5e57594fae9e21e90858
+      friendly_name: null
+  - claim_id: ea85132e-40f2-4346-a9ee-55bdb8760ece
+    claim_hash: be336c085d23f3a3ef3e99064185a17ec3ce98bb53ea8bdecb2ba6d6c8cf1fda
+    content: Robert Bigelow considers that electrons are reactionary according to human observation and take a specific location
+      only upon measurement or being watched.
+    original_excerpt: you start at the itty bitty electrons. which are reactionary according to human observation, according
+      to consciousness. And then they become in a specific location upon measurement or being noticed or being watched.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 0d4dfba6-a53b-4f23-a2ad-e4c9bea44076
+      title: Robert Bigelow
+    provenance_chain:
+      origin_kind: speaker
+      origin: Robert Bigelow
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 0d4dfba6-a53b-4f23-a2ad-e4c9bea44076
+        title: Robert Bigelow
+        slug: robert-bigelow
+      - node_id: 32d00165-71c5-4ca8-a07c-180914be45c4
+        title: Consciousness studies
+        slug: consciousness-studies
+      - node_id: c6de7725-eb41-40e2-b679-03f2c1e2192e
+        title: Quantum mechanics
+        slug: quantum-mechanics
+    date: null
+    date_end: null
+    location_in_record: 00:23:48.2-00:24:05.8
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 5de4e296-4206-45f6-aa56-c3b8efb5c9e2
+      record_title: The Evolution of AAWSAP | Bigelow Podcast, Ep. 2
+      record_date: '2026-08-11'
+      record_reference: https://www.youtube.com/watch?v=hz7jHEgYzQw
+      content_hash: sha256:1aa9d864c5a4bb930164c278d9624c6bc0f84278ea4b5e57594fae9e21e90858
+      friendly_name: null
+  - claim_id: 94c62aed-6af7-4958-aecb-1c2a83ff6f16
+    claim_hash: 6e24de20bc13ddd60ceeb42462bdbf79a8432c27a334b2049008c955e1e2ca00
+    content: Robert Bigelow considers that if the human body does not need its physical container it exists 100 per cent in
+      consciousness as thought.
+    original_excerpt: If the human body doesn't need its container, it's 100% existing in consciousness as thought.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 0d4dfba6-a53b-4f23-a2ad-e4c9bea44076
+      title: Robert Bigelow
+    provenance_chain:
+      origin_kind: speaker
+      origin: Robert Bigelow
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 0d4dfba6-a53b-4f23-a2ad-e4c9bea44076
+        title: Robert Bigelow
+        slug: robert-bigelow
+      - node_id: 32d00165-71c5-4ca8-a07c-180914be45c4
+        title: Consciousness studies
+        slug: consciousness-studies
+      - node_id: 8c49a948-b7da-43b1-b89c-45415e909dc2
+        title: Survival of bodily death
+        slug: survival-of-bodily-death
+    date: null
+    date_end: null
+    location_in_record: 00:24:23.6-00:24:30.5
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 5de4e296-4206-45f6-aa56-c3b8efb5c9e2
+      record_title: The Evolution of AAWSAP | Bigelow Podcast, Ep. 2
+      record_date: '2026-08-11'
+      record_reference: https://www.youtube.com/watch?v=hz7jHEgYzQw
+      content_hash: sha256:1aa9d864c5a4bb930164c278d9624c6bc0f84278ea4b5e57594fae9e21e90858
+      friendly_name: null
+  - claim_id: b7bc3c50-cec2-4f37-b91c-885a9a4f9bf8
+    claim_hash: 617468a83702af85eb95b77fee0a1247eaf218f2a890141e2d28ce40bcb109c6
+    content: Robert Bigelow considers that our three-dimensional system coexists with another dimension in which consciousness
+      exists.
+    original_excerpt: we definitely have proof that we have a three-dimensional system, not counting time as a fourth dimension
+      ... and we coexist with another dimension. There's a consciousness kind of existing dimension.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 0d4dfba6-a53b-4f23-a2ad-e4c9bea44076
+      title: Robert Bigelow
+    provenance_chain:
+      origin_kind: speaker
+      origin: Robert Bigelow
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 0d4dfba6-a53b-4f23-a2ad-e4c9bea44076
+        title: Robert Bigelow
+        slug: robert-bigelow
+      - node_id: 32d00165-71c5-4ca8-a07c-180914be45c4
+        title: Consciousness studies
+        slug: consciousness-studies
+    date: null
+    date_end: null
+    location_in_record: 00:24:33.5-00:24:50.7
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 5de4e296-4206-45f6-aa56-c3b8efb5c9e2
+      record_title: The Evolution of AAWSAP | Bigelow Podcast, Ep. 2
+      record_date: '2026-08-11'
+      record_reference: https://www.youtube.com/watch?v=hz7jHEgYzQw
+      content_hash: sha256:1aa9d864c5a4bb930164c278d9624c6bc0f84278ea4b5e57594fae9e21e90858
+      friendly_name: null
+  - claim_id: 29f7159a-a80f-4756-a127-b3e64d048e9e
+    claim_hash: 9004edf81f5db09feabdfa37c06b9ec698fad36191e617964b51e0161cc840bb
+    content: Test participants attempting to influence an electron displayed on a monitor by intention grunt, strain and jump
+      up and down in an effort to make it happen.
+    original_excerpt: And the people are funny, they're performers. They'll grunt, they'll strain, they'll jump up and down,
+      all kinds of things to try and make it happen.
+    claim_type: observation
+    attestation: first_hand
+    speaker:
+      node_id: 0d4dfba6-a53b-4f23-a2ad-e4c9bea44076
+      title: Robert Bigelow
+    provenance_chain:
+      origin_kind: speaker
+      origin: Robert Bigelow
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 08e9391a-bb91-422e-be0e-94fec5b5809c
+        title: Double-slit experiment
+        slug: double-slit-experiment
+      - node_id: 32d00165-71c5-4ca8-a07c-180914be45c4
+        title: Consciousness studies
+        slug: consciousness-studies
+    date: null
+    date_end: null
+    location_in_record: 00:29:58.4-00:30:04.3
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 5de4e296-4206-45f6-aa56-c3b8efb5c9e2
+      record_title: The Evolution of AAWSAP | Bigelow Podcast, Ep. 2
+      record_date: '2026-08-11'
+      record_reference: https://www.youtube.com/watch?v=hz7jHEgYzQw
+      content_hash: sha256:1aa9d864c5a4bb930164c278d9624c6bc0f84278ea4b5e57594fae9e21e90858
+      friendly_name: null
+  - claim_id: 4693b59d-4728-488d-85bb-abb18dc49dda
+    claim_hash: 55bc3bdce1a226237832c0024ce83d3123cb57ab7fa0b190c521c0d5dd13f34e
+    content: Most participants in consciousness experiments attempting to influence an electron on a monitor produce some
+      effect, and some produce substantial effects.
+    original_excerpt: And most of them have some effect. Some have really good effects, substantial effects.
+    claim_type: observation
+    attestation: first_hand
+    speaker:
+      node_id: 0d4dfba6-a53b-4f23-a2ad-e4c9bea44076
+      title: Robert Bigelow
+    provenance_chain:
+      origin_kind: speaker
+      origin: Robert Bigelow
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 32d00165-71c5-4ca8-a07c-180914be45c4
+        title: Consciousness studies
+        slug: consciousness-studies
+    date: null
+    date_end: null
+    location_in_record: 00:30:04.8-00:30:09.5
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 5de4e296-4206-45f6-aa56-c3b8efb5c9e2
+      record_title: The Evolution of AAWSAP | Bigelow Podcast, Ep. 2
+      record_date: '2026-08-11'
+      record_reference: https://www.youtube.com/watch?v=hz7jHEgYzQw
+      content_hash: sha256:1aa9d864c5a4bb930164c278d9624c6bc0f84278ea4b5e57594fae9e21e90858
+      friendly_name: null
+  - claim_id: 15d6035e-f19b-478c-8f2c-79d4ebecc97d
+    claim_hash: 170bd11ceaff2101b8c5a3a1f84b75e56ef17688be641f06d249aaab9722f2fa
+    content: Success in influencing an electron on a monitor by intention depends on an individual relationship and an individual
+      type of technique.
+    original_excerpt: But it's an individual relationship that you try to establish as to your technique, as individual type
+      of technique.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 0d4dfba6-a53b-4f23-a2ad-e4c9bea44076
+      title: Robert Bigelow
+    provenance_chain:
+      origin_kind: speaker
+      origin: Robert Bigelow
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 32d00165-71c5-4ca8-a07c-180914be45c4
+        title: Consciousness studies
+        slug: consciousness-studies
+    date: null
+    date_end: null
+    location_in_record: 00:30:10.4-00:30:18.9
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 5de4e296-4206-45f6-aa56-c3b8efb5c9e2
+      record_title: The Evolution of AAWSAP | Bigelow Podcast, Ep. 2
+      record_date: '2026-08-11'
+      record_reference: https://www.youtube.com/watch?v=hz7jHEgYzQw
+      content_hash: sha256:1aa9d864c5a4bb930164c278d9624c6bc0f84278ea4b5e57594fae9e21e90858
+      friendly_name: null
+  - claim_id: 53b0259e-5511-4836-80c9-653a913ffec5
+    claim_hash: 95c4bfa750210f8ca15a887c4b6bd493dc02bff6610c5fe1c521cfd38ba51037
+    content: Research indicates that approximately 100 billion people have lived and died on Earth.
+    original_excerpt: So the research says, that on the planet Earth, just one little planet, that 100 billion people have
+      died?
+    claim_type: measurement
+    attestation: second_hand
+    speaker:
+      node_id: 0d4dfba6-a53b-4f23-a2ad-e4c9bea44076
+      title: Robert Bigelow
+    provenance_chain:
+      origin_kind: document
+      origin: unnamed research cited by Robert Bigelow
+      relay:
+        - Robert Bigelow
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 32d00165-71c5-4ca8-a07c-180914be45c4
+        title: Consciousness studies
+        slug: consciousness-studies
+    date: null
+    date_end: null
+    location_in_record: 00:30:23.8-00:30:33.6
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 5de4e296-4206-45f6-aa56-c3b8efb5c9e2
+      record_title: The Evolution of AAWSAP | Bigelow Podcast, Ep. 2
+      record_date: '2026-08-11'
+      record_reference: https://www.youtube.com/watch?v=hz7jHEgYzQw
+      content_hash: sha256:1aa9d864c5a4bb930164c278d9624c6bc0f84278ea4b5e57594fae9e21e90858
+      friendly_name: null
+  - claim_id: 7c560cdd-60ba-4a7e-b88e-c29734f4a0dd
+    claim_hash: d82b66d58a94112f370ed0f086857fd39447fefeb3b9bdf34f47565a34910705
+    content: The high cumulative human death toll is explained by short lifespans, high birth rates and many people dying
+      young, with longevity only arriving recently in human history.
+    original_excerpt: Well, apparently it's a function of that a lot of people didn't live very long. A lot of propagation,
+      a lot of births happened. A lot of people died very young. So you didn't have longevity for most of mankind's existence
+      until just recently.
+    claim_type: observation
+    attestation: first_hand
+    speaker:
+      node_id: 0d4dfba6-a53b-4f23-a2ad-e4c9bea44076
+      title: Robert Bigelow
+    provenance_chain:
+      origin_kind: speaker
+      origin: Robert Bigelow
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 32d00165-71c5-4ca8-a07c-180914be45c4
+        title: Consciousness studies
+        slug: consciousness-studies
+    date: null
+    date_end: null
+    location_in_record: 00:30:46.7-00:31:01.8
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 5de4e296-4206-45f6-aa56-c3b8efb5c9e2
+      record_title: The Evolution of AAWSAP | Bigelow Podcast, Ep. 2
+      record_date: '2026-08-11'
+      record_reference: https://www.youtube.com/watch?v=hz7jHEgYzQw
+      content_hash: sha256:1aa9d864c5a4bb930164c278d9624c6bc0f84278ea4b5e57594fae9e21e90858
+      friendly_name: null
+  - claim_id: 3c8e8058-7f61-44af-aaf6-1f0a9706d343
+    claim_hash: 6c981cd38f8d94411b7a39b0df086c2036d31a62853ffd98a9ef7d34c898ddca
+    content: The human population took until 1800 to reach its first billion, and reached the second billion by 1900.
+    original_excerpt: Yeah, we took till 1800 to acquire the first billion. 1900, though, we got the second billion.
+    claim_type: measurement
+    attestation: first_hand
+    speaker:
+      node_id: 0d4dfba6-a53b-4f23-a2ad-e4c9bea44076
+      title: Robert Bigelow
+    provenance_chain:
+      origin_kind: speaker
+      origin: Robert Bigelow
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 32d00165-71c5-4ca8-a07c-180914be45c4
+        title: Consciousness studies
+        slug: consciousness-studies
+    date: null
+    date_end: null
+    location_in_record: 00:31:03.3-00:31:08.5
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 5de4e296-4206-45f6-aa56-c3b8efb5c9e2
+      record_title: The Evolution of AAWSAP | Bigelow Podcast, Ep. 2
+      record_date: '2026-08-11'
+      record_reference: https://www.youtube.com/watch?v=hz7jHEgYzQw
+      content_hash: sha256:1aa9d864c5a4bb930164c278d9624c6bc0f84278ea4b5e57594fae9e21e90858
+      friendly_name: null
+  - claim_id: 94cfa5f6-932b-4cc0-9693-01360414f271
+    claim_hash: 89d9f1ab8fa780a0a6d65750642bc3d0bd196f3a0f1f8ab3c08c0d8147885d5a
+    content: Robert Bigelow holds that consciousness that has passed over exists in a different, more powerful form than that
+      of living people, with greater abilities than a person has in their body.
+    original_excerpt: What's the size of the consciousness that has passed over and now exists in a different form that's
+      more powerful than we and you and I are sitting here? You have more ability, George, you will have more ability than
+      you have in your containers.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 0d4dfba6-a53b-4f23-a2ad-e4c9bea44076
+      title: Robert Bigelow
+    provenance_chain:
+      origin_kind: speaker
+      origin: Robert Bigelow
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 0d4dfba6-a53b-4f23-a2ad-e4c9bea44076
+        title: Robert Bigelow
+        slug: robert-bigelow
+      - node_id: 32d00165-71c5-4ca8-a07c-180914be45c4
+        title: Consciousness studies
+        slug: consciousness-studies
+      - node_id: 8c49a948-b7da-43b1-b89c-45415e909dc2
+        title: Survival of bodily death
+        slug: survival-of-bodily-death
+    date: null
+    date_end: null
+    location_in_record: 00:32:09.6-00:32:26.6
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 5de4e296-4206-45f6-aa56-c3b8efb5c9e2
+      record_title: The Evolution of AAWSAP | Bigelow Podcast, Ep. 2
+      record_date: '2026-08-11'
+      record_reference: https://www.youtube.com/watch?v=hz7jHEgYzQw
+      content_hash: sha256:1aa9d864c5a4bb930164c278d9624c6bc0f84278ea4b5e57594fae9e21e90858
+      friendly_name: null
+  - claim_id: 839762e2-4837-4996-837f-90b66a7383f6
+    claim_hash: 8a69ca1dca7253cc05b2ae20d98f99d821fbc78f3880e25c8266afbe20679266
+    content: Robert Bigelow holds that if survival of permanent bodily death is real, the accumulated body of consciousness
+      is almost inconceivably huge.
+    original_excerpt: And you do survive permanent bodily death. That's an enormous body of consciousness that's almost inconceivably
+      huge.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 0d4dfba6-a53b-4f23-a2ad-e4c9bea44076
+      title: Robert Bigelow
+    provenance_chain:
+      origin_kind: speaker
+      origin: Robert Bigelow
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 0d4dfba6-a53b-4f23-a2ad-e4c9bea44076
+        title: Robert Bigelow
+        slug: robert-bigelow
+      - node_id: 32d00165-71c5-4ca8-a07c-180914be45c4
+        title: Consciousness studies
+        slug: consciousness-studies
+      - node_id: 8c49a948-b7da-43b1-b89c-45415e909dc2
+        title: Survival of bodily death
+        slug: survival-of-bodily-death
+    date: null
+    date_end: null
+    location_in_record: 00:33:20.9-00:33:31.8
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 5de4e296-4206-45f6-aa56-c3b8efb5c9e2
+      record_title: The Evolution of AAWSAP | Bigelow Podcast, Ep. 2
+      record_date: '2026-08-11'
+      record_reference: https://www.youtube.com/watch?v=hz7jHEgYzQw
+      content_hash: sha256:1aa9d864c5a4bb930164c278d9624c6bc0f84278ea4b5e57594fae9e21e90858
+      friendly_name: null
+  - claim_id: 34403409-9edb-465d-8f8a-722712529eff
+    claim_hash: 82d48259499e60eb392077cba6e89c3fdf932d452fc892fe4296ce5247106055
+    content: 'Research into survival of bodily death indicates that only two things ultimately matter: acquiring love and
+      acquiring knowledge.'
+    original_excerpt: And the research says there's only two things that really become important, to acquire love and knowledge.
+      Ultimately, that's the only two things that really matter.
+    claim_type: opinion
+    attestation: second_hand
+    speaker:
+      node_id: 0d4dfba6-a53b-4f23-a2ad-e4c9bea44076
+      title: Robert Bigelow
+    provenance_chain:
+      origin_kind: document
+      origin: unnamed research cited by Robert Bigelow
+      relay:
+        - Robert Bigelow
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 32d00165-71c5-4ca8-a07c-180914be45c4
+        title: Consciousness studies
+        slug: consciousness-studies
+      - node_id: 8c49a948-b7da-43b1-b89c-45415e909dc2
+        title: Survival of bodily death
+        slug: survival-of-bodily-death
+    date: null
+    date_end: null
+    location_in_record: 00:33:38.3-00:33:47.2
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 5de4e296-4206-45f6-aa56-c3b8efb5c9e2
+      record_title: The Evolution of AAWSAP | Bigelow Podcast, Ep. 2
+      record_date: '2026-08-11'
+      record_reference: https://www.youtube.com/watch?v=hz7jHEgYzQw
+      content_hash: sha256:1aa9d864c5a4bb930164c278d9624c6bc0f84278ea4b5e57594fae9e21e90858
+      friendly_name: null
+  - claim_id: 876126ce-2d5c-42a8-bb11-5bd86090e42a
+    claim_hash: 87d6d362ca6e83266f37b1472bbeed855b0cd97c98c4c737ab05b820307bff3e
+    content: Robert Bigelow believes the accumulated consciousness of the dead forms a super collective creator consciousness
+      that is the source of unifying control in the universe.
+    original_excerpt: I think what you have is a super collective consciousness. A super, super collective consciousness that's
+      unbelievably powerful is a creator consciousness. So at the very least, is the source of unifying control.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 0d4dfba6-a53b-4f23-a2ad-e4c9bea44076
+      title: Robert Bigelow
+    provenance_chain:
+      origin_kind: speaker
+      origin: Robert Bigelow
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 0d4dfba6-a53b-4f23-a2ad-e4c9bea44076
+        title: Robert Bigelow
+        slug: robert-bigelow
+      - node_id: 32d00165-71c5-4ca8-a07c-180914be45c4
+        title: Consciousness studies
+        slug: consciousness-studies
+      - node_id: 8c49a948-b7da-43b1-b89c-45415e909dc2
+        title: Survival of bodily death
+        slug: survival-of-bodily-death
+    date: null
+    date_end: null
+    location_in_record: 00:35:13.9-00:35:34.8
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 5de4e296-4206-45f6-aa56-c3b8efb5c9e2
+      record_title: The Evolution of AAWSAP | Bigelow Podcast, Ep. 2
+      record_date: '2026-08-11'
+      record_reference: https://www.youtube.com/watch?v=hz7jHEgYzQw
+      content_hash: sha256:1aa9d864c5a4bb930164c278d9624c6bc0f84278ea4b5e57594fae9e21e90858
+      friendly_name: null
+  - claim_id: f01d225d-8ed7-4538-b5fd-43ea5b8bee99
+    claim_hash: 889e6075aaa745db8a6c9e23241acf10074919fa9b60f7f20c30c5acee56bc5b
+    content: Robert Bigelow believes the super collective consciousness represents dark energy and dark matter and maintains
+      control of the remaining approximately 4 per cent of the universe's energy.
+    original_excerpt: I think it represents dark energy and dark matter. And I think it maintains control of the other 4%
+      of the energy.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 0d4dfba6-a53b-4f23-a2ad-e4c9bea44076
+      title: Robert Bigelow
+    provenance_chain:
+      origin_kind: speaker
+      origin: Robert Bigelow
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 0d4dfba6-a53b-4f23-a2ad-e4c9bea44076
+        title: Robert Bigelow
+        slug: robert-bigelow
+      - node_id: 32d00165-71c5-4ca8-a07c-180914be45c4
+        title: Consciousness studies
+        slug: consciousness-studies
+      - node_id: 8a313acd-6422-4ffa-a67f-6d3435102510
+        title: Dark energy
+        slug: dark-energy
+      - node_id: fb2903b3-56b1-41ef-8eae-594ab1d0e2e8
+        title: Dark matter
+        slug: dark-matter
+    date: null
+    date_end: null
+    location_in_record: 00:35:37.0-00:35:43.9
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 5de4e296-4206-45f6-aa56-c3b8efb5c9e2
+      record_title: The Evolution of AAWSAP | Bigelow Podcast, Ep. 2
+      record_date: '2026-08-11'
+      record_reference: https://www.youtube.com/watch?v=hz7jHEgYzQw
+      content_hash: sha256:1aa9d864c5a4bb930164c278d9624c6bc0f84278ea4b5e57594fae9e21e90858
+      friendly_name: null
+  - claim_id: 54f55315-0403-41d7-9a06-6b76b1cccbde
+    claim_hash: 63943311ce1c5d71b7029ebce404426315f7c19f2750320107add4e3bd3be4c1
+    content: George Knapp considers that consciousness has become a buzzword in UFO circles, invoked without explanation by
+      people who do not understand how consciousness and UFOs are connected.
+    original_excerpt: consciousness has become sort of a buzzword in UFO circles i hear it from people tossed out all the
+      time they never explain it and i don't think they know their butt from a hole in the ground when they're trying to say
+      that the two are connected
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 6712e8fa-3b86-4982-a102-e2d38e0b29d6
+      title: George Knapp
+    provenance_chain:
+      origin_kind: speaker
+      origin: George Knapp
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 32d00165-71c5-4ca8-a07c-180914be45c4
+        title: Consciousness studies
+        slug: consciousness-studies
+      - node_id: 6712e8fa-3b86-4982-a102-e2d38e0b29d6
+        title: George Knapp
+        slug: george-knapp
+      - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
+        title: Unidentified Flying Object (UFO)
+        slug: unidentified-flying-object-ufo
+    date: null
+    date_end: null
+    location_in_record: 00:35:49.9-00:36:00.8
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 5de4e296-4206-45f6-aa56-c3b8efb5c9e2
+      record_title: The Evolution of AAWSAP | Bigelow Podcast, Ep. 2
+      record_date: '2026-08-11'
+      record_reference: https://www.youtube.com/watch?v=hz7jHEgYzQw
+      content_hash: sha256:1aa9d864c5a4bb930164c278d9624c6bc0f84278ea4b5e57594fae9e21e90858
+      friendly_name: null
+  - claim_id: 7a0ee5a8-6239-4514-a14e-c29f097a1806
+    claim_hash: 32c5bcc7153c2b0e4492b039bc0ab9d3518e96ac98f0f7f7f06b8827606623ae
+    content: Robert Bigelow and his team have not only studied consciousness but have had direct experiences of it that he
+      describes as needing to pinch yourself to be sure they really happened.
+    original_excerpt: and not just study that we have we have experiences... we have experiences that you have to pinch yourself
+      to try to be sure to that those all those different things really happen
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 0d4dfba6-a53b-4f23-a2ad-e4c9bea44076
+      title: Robert Bigelow
+    provenance_chain:
+      origin_kind: speaker
+      origin: Robert Bigelow
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 0d4dfba6-a53b-4f23-a2ad-e4c9bea44076
+        title: Robert Bigelow
+        slug: robert-bigelow
+      - node_id: 32d00165-71c5-4ca8-a07c-180914be45c4
+        title: Consciousness studies
+        slug: consciousness-studies
+    date: null
+    date_end: null
+    location_in_record: 00:36:05.7-00:36:17.9
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 5de4e296-4206-45f6-aa56-c3b8efb5c9e2
+      record_title: The Evolution of AAWSAP | Bigelow Podcast, Ep. 2
+      record_date: '2026-08-11'
+      record_reference: https://www.youtube.com/watch?v=hz7jHEgYzQw
+      content_hash: sha256:1aa9d864c5a4bb930164c278d9624c6bc0f84278ea4b5e57594fae9e21e90858
+      friendly_name: null
+  - claim_id: a07e745e-0c56-45ad-b763-815ced4b884b
+    claim_hash: ea139507d2301c135f8112410b02a6fd922e7b87171eff8663be800da8b9d4bc
+    content: Robert Bigelow has run consciousness experiments that hardly anybody knows about, involving one of his security
+      personnel and the Skinwalker Ranch manager, conducted for his own information and knowledge.
+    original_excerpt: And I've done different kinds of experiments hardly anybody knows about. And one of our security personnel
+      and the ranch manager were involved in those experiments that I did. And those were for my own edificate, my own information
+      and knowledge
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 0d4dfba6-a53b-4f23-a2ad-e4c9bea44076
+      title: Robert Bigelow
+    provenance_chain:
+      origin_kind: speaker
+      origin: Robert Bigelow
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 0d4dfba6-a53b-4f23-a2ad-e4c9bea44076
+        title: Robert Bigelow
+        slug: robert-bigelow
+      - node_id: 32d00165-71c5-4ca8-a07c-180914be45c4
+        title: Consciousness studies
+        slug: consciousness-studies
+      - node_id: d532997b-8a3d-4d47-9fd3-17e736310f75
+        title: USA, Utah, Skinwalker Ranch
+        slug: utah-skinwalker-ranch-usa
+    date: null
+    date_end: null
+    location_in_record: 00:36:53.6-00:37:17.9
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 5de4e296-4206-45f6-aa56-c3b8efb5c9e2
+      record_title: The Evolution of AAWSAP | Bigelow Podcast, Ep. 2
+      record_date: '2026-08-11'
+      record_reference: https://www.youtube.com/watch?v=hz7jHEgYzQw
+      content_hash: sha256:1aa9d864c5a4bb930164c278d9624c6bc0f84278ea4b5e57594fae9e21e90858
+      friendly_name: null
+  - claim_id: f84ccb4e-bcc4-4a30-9403-0862c7eb88bc
+    claim_hash: 90c1957070839861909e9780c32963a08091d7abd95e322471e05badfa03bfba
+    content: Robert Bigelow's consciousness experiments established that a person can have an effect on things at a distance.
+    original_excerpt: You know, can you have an effect on things at a distance? And the answer is absolutely, you can.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 0d4dfba6-a53b-4f23-a2ad-e4c9bea44076
+      title: Robert Bigelow
+    provenance_chain:
+      origin_kind: speaker
+      origin: Robert Bigelow
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 0d4dfba6-a53b-4f23-a2ad-e4c9bea44076
+        title: Robert Bigelow
+        slug: robert-bigelow
+      - node_id: 32d00165-71c5-4ca8-a07c-180914be45c4
+        title: Consciousness studies
+        slug: consciousness-studies
+      - node_id: 41c9281c-4a11-4399-b324-a8486a96c766
+        title: Remote Viewing (RV)
+        slug: remote-viewing-rv
+    date: null
+    date_end: null
+    location_in_record: 00:37:24.9-00:37:33.0
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 5de4e296-4206-45f6-aa56-c3b8efb5c9e2
+      record_title: The Evolution of AAWSAP | Bigelow Podcast, Ep. 2
+      record_date: '2026-08-11'
+      record_reference: https://www.youtube.com/watch?v=hz7jHEgYzQw
+      content_hash: sha256:1aa9d864c5a4bb930164c278d9624c6bc0f84278ea4b5e57594fae9e21e90858
+      friendly_name: null

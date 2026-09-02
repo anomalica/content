@@ -1,0 +1,338 @@
+schema: anomalica/brief/1
+brief_hash: 72de393f0e7b67f3b32ed737bec15e491865c10628855621ec36c2326f8b06ba
+page:
+  kind: entity
+  node_id: dcaf78c7-5895-4ecb-9cd8-9fb6169ea93d
+  node_type: place
+  title: USA, New Mexico, Aztec
+  slug: new-mexico-aztec-usa
+  claim_count: 6
+  claim_count_total: 6
+generated:
+  graph_version: '2026-09-01T10:10:49.863545+00:00'
+size:
+  claims: 6
+  tokens_estimated: 1818
+  sized_against: 1050000
+publication:
+  status: published
+  note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
+    transcripts are gated elsewhere.
+belonging:
+  verified: 0
+  suspect_excluded: 0
+  unreviewed: 6
+related_nodes:
+  - node_id: 2e7b05e9-7ad8-4abd-a155-48d85bd9adc5
+    title: 1948 Aztec, New Mexico alleged Unidentified Aerial Phenomena (UAP) crash retrieval
+    node_type: event
+    slug: new-mexico-alleged-unidentified-aerial-phenomena-uap-crash-retrieval-1948-aztec
+    shared_claims: 4
+  - node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+    title: Ross Coulthart
+    node_type: person
+    slug: ross-coulthart
+    shared_claims: 2
+  - node_id: 9bf92931-085a-4b8b-92fb-d9044a99da75
+    title: Scott Ramsey
+    node_type: person
+    slug: scott-ramsey
+    shared_claims: 2
+  - node_id: c4f511c9-910a-4ca1-9299-53e5d035528d
+    title: Suzanne Ramsey
+    node_type: person
+    slug: suzanne-ramsey
+    shared_claims: 2
+  - node_id: 332ce87b-4210-4969-8cf0-1c79fdefece4
+    title: Frank Thayer
+    node_type: person
+    slug: frank-thayer
+    shared_claims: 1
+  - node_id: 2fccda63-414c-4150-9ca2-abafcadad7fe
+    title: Italy, Veneto, Magenta
+    node_type: place
+    slug: veneto-magenta-italy
+    shared_claims: 1
+  - node_id: 079d4381-4273-418b-bc9a-468623f95c6e
+    title: Jesse Mitchells
+    node_type: person
+    slug: jesse-mitchells
+    shared_claims: 1
+  - node_id: df15f4e2-5929-4ee0-b7ac-15c580096011
+    title: The Relationships with Inhabitants of Celestial Bodies (1947 document)
+    node_type: document
+    slug: the-relationships-with-inhabitants-of-celestial-bodies-1947-document
+    shared_claims: 1
+  - node_id: 0bbdac2d-a855-466a-a051-2afa64a779e2
+    title: UAP crash retrieval and reverse engineering program
+    node_type: project
+    slug: uap-crash-retrieval-and-reverse-engineering-program
+    shared_claims: 1
+  - node_id: 0d414f6b-f127-4d09-b84c-5259e5c2a846
+    title: USA, Arizona, Kingman
+    node_type: place
+    slug: arizona-kingman-usa
+    shared_claims: 1
+  - node_id: de197282-8103-49ca-9474-76f73f431890
+    title: USA, New Mexico, Hart Canyon
+    node_type: place
+    slug: new-mexico-hart-canyon-usa
+    shared_claims: 1
+  - node_id: 35380539-7caf-46ec-9614-1956abdd7e7a
+    title: USA, New Mexico, Roswell
+    node_type: place
+    slug: new-mexico-roswell-usa
+    shared_claims: 1
+claims:
+  - claim_id: 2a569a48-75c5-4aa1-9362-162caeeb8b34
+    claim_hash: 19af5e94b5f760ee18b9fb25ab159a5610cb68c3426b20292d5795a14a149251
+    content: Another purported recovery of an intelligently controlled extra-terrestrial spacecraft is claimed to have taken
+      place at Aztec, New Mexico, on 25 March 1948.
+    original_excerpt: Another purported recovery of an intelligently controlled extra-terrestrial spacecraft is also claimed
+      to have taken place at Aztec, New Mexico, on 25 March 1948.
+    claim_type: hearsay
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 2e7b05e9-7ad8-4abd-a155-48d85bd9adc5
+        title: 1948 Aztec, New Mexico alleged Unidentified Aerial Phenomena (UAP) crash retrieval
+        slug: new-mexico-alleged-unidentified-aerial-phenomena-uap-crash-retrieval-1948-aztec
+      - node_id: dcaf78c7-5895-4ecb-9cd8-9fb6169ea93d
+        title: USA, New Mexico, Aztec
+        slug: new-mexico-aztec-usa
+    date: '1948-03-25'
+    date_end: null
+    location_in_record: ch17:14120-14277
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 81e0fff9-c9ed-43f3-a8a4-c4897f519685
+    claim_hash: 80b8d69297f977dd8fff5f41ab602d2a7053b15034988920d5f4c3f18eeca489
+    content: Authors Scott Ramsey, Suzanne Ramsey and Frank Thayer tracked down witnesses to corroborate their claim of a
+      giant 30-metre-diameter flying saucer found lying on a mesa above Hart Canyon east of Aztec, New Mexico.
+    original_excerpt: Authors Scott and Suzanne Ramsey and Dr Frank Thayer tracked down an extraordinary number of witnesses
+      to corroborate what they allege was a giant '100-foot diameter (30-metres) flying saucer' found lying on a mesa above
+      Hart Canyon east of the town of Aztec.
+    claim_type: hearsay
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: named
+      origin: Scott Ramsey, Suzanne Ramsey and Frank Thayer
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 2e7b05e9-7ad8-4abd-a155-48d85bd9adc5
+        title: 1948 Aztec, New Mexico alleged Unidentified Aerial Phenomena (UAP) crash retrieval
+        slug: new-mexico-alleged-unidentified-aerial-phenomena-uap-crash-retrieval-1948-aztec
+      - node_id: 332ce87b-4210-4969-8cf0-1c79fdefece4
+        title: Frank Thayer
+        slug: frank-thayer
+      - node_id: 9bf92931-085a-4b8b-92fb-d9044a99da75
+        title: Scott Ramsey
+        slug: scott-ramsey
+      - node_id: c4f511c9-910a-4ca1-9299-53e5d035528d
+        title: Suzanne Ramsey
+        slug: suzanne-ramsey
+      - node_id: dcaf78c7-5895-4ecb-9cd8-9fb6169ea93d
+        title: USA, New Mexico, Aztec
+        slug: new-mexico-aztec-usa
+      - node_id: de197282-8103-49ca-9474-76f73f431890
+        title: USA, New Mexico, Hart Canyon
+        slug: new-mexico-hart-canyon-usa
+    date: '1948-03-25'
+    date_end: null
+    location_in_record: ch17:14283-14536
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 1a7a8f09-5bf8-461e-87ee-1bf9fd9bbd84
+    claim_hash: 484b2fb572940e73afe7d2b259725975118c49fe6ceac67bd48024d833161a45
+    content: Ross Coulthart spent several days with Scott Ramsey and Suzanne Ramsey in May 2021 walking the Aztec, New Mexico
+      site and reviewing their evidence, including direct witness sightings of a craft and purported alien beings.
+    original_excerpt: I spent several days with the Ramseys in May 2021, walking the Aztec site, and reviewing their extremely
+      detailed evidence, including direct witness sightings of a craft (and purported alien beings).
+    claim_type: observation
+    attestation: first_hand
+    speaker:
+      node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+      title: Ross Coulthart
+    provenance_chain:
+      origin_kind: speaker
+      origin: Ross Coulthart
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 9bf92931-085a-4b8b-92fb-d9044a99da75
+        title: Scott Ramsey
+        slug: scott-ramsey
+      - node_id: c4f511c9-910a-4ca1-9299-53e5d035528d
+        title: Suzanne Ramsey
+        slug: suzanne-ramsey
+      - node_id: dcaf78c7-5895-4ecb-9cd8-9fb6169ea93d
+        title: USA, New Mexico, Aztec
+        slug: new-mexico-aztec-usa
+      - node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+        title: Ross Coulthart
+        slug: ross-coulthart
+    date: 2021-05
+    date_end: null
+    location_in_record: ch17:14748-14939
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 492acced-60fb-44df-a60c-5380bfc35a7f
+    claim_hash: eaf862fd34fa03b3bf6d76da9873f0b506913a652980aa59c2c694092d4c4b4f
+    content: Eight months after The Relationships with Inhabitants of Celestial Bodies (1947 document) was written, a crash
+      occurred at Aztec, New Mexico.
+    original_excerpt: eight months later a crash in aztec new mexico
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 24d00311-06ac-46a1-a2f5-c99f3f8e21b2
+      title: Chris Ramsay
+    provenance_chain:
+      origin_kind: speaker
+      origin: Chris Ramsey
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 2e7b05e9-7ad8-4abd-a155-48d85bd9adc5
+        title: 1948 Aztec, New Mexico alleged Unidentified Aerial Phenomena (UAP) crash retrieval
+        slug: new-mexico-alleged-unidentified-aerial-phenomena-uap-crash-retrieval-1948-aztec
+      - node_id: dcaf78c7-5895-4ecb-9cd8-9fb6169ea93d
+        title: USA, New Mexico, Aztec
+        slug: new-mexico-aztec-usa
+      - node_id: df15f4e2-5929-4ee0-b7ac-15c580096011
+        title: The Relationships with Inhabitants of Celestial Bodies (1947 document)
+        slug: the-relationships-with-inhabitants-of-celestial-bodies-1947-document
+    date: null
+    date_end: null
+    location_in_record: 00:35:16.8-00:35:19.7
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: f87bfd7f-e9da-40a1-b798-17f613313a67
+      record_title: Aliens and Albert Einstein - The Secret Document - DEBRIEFED ep. 33
+      record_date: '2025-04-11'
+      record_reference: https://www.youtube.com/watch?v=iSWqhLKzy2Q
+      content_hash: sha256:eda11247c8b061a87c50e7b919534a7201f12ef917f25680fe585121abef783c
+      friendly_name: null
+  - claim_id: a72439ba-ea72-4178-867a-8414da06f9f8
+    claim_hash: 6c9b8fc3fc7270bc42327787c624fb75492f322aab7fd75b52ca011987122592
+    content: There are other locations of alleged craft recoveries in contemporary history around the world that are not yet
+      publicly known, beyond Magenta, Kingman, Aztec and Roswell.
+    original_excerpt: There are other locations of alleged recoveries of craft in contemporary history, which are not yet
+      publicly known. And it's not just Magenta and Kingsman and Aztec and Roswell. These are other locations around the world.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+      title: Ross Coulthart
+    provenance_chain:
+      origin_kind: speaker
+      origin: Ross Coulthart
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 0bbdac2d-a855-466a-a051-2afa64a779e2
+        title: UAP crash retrieval and reverse engineering program
+        slug: uap-crash-retrieval-and-reverse-engineering-program
+      - node_id: 0d414f6b-f127-4d09-b84c-5259e5c2a846
+        title: USA, Arizona, Kingman
+        slug: arizona-kingman-usa
+      - node_id: 2fccda63-414c-4150-9ca2-abafcadad7fe
+        title: Italy, Veneto, Magenta
+        slug: veneto-magenta-italy
+      - node_id: 35380539-7caf-46ec-9614-1956abdd7e7a
+        title: USA, New Mexico, Roswell
+        slug: new-mexico-roswell-usa
+      - node_id: dcaf78c7-5895-4ecb-9cd8-9fb6169ea93d
+        title: USA, New Mexico, Aztec
+        slug: new-mexico-aztec-usa
+      - node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+        title: Ross Coulthart
+        slug: ross-coulthart
+    date: null
+    date_end: null
+    location_in_record: 02:18:16.5-02:18:37.6
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: fd845823-8784-462c-a981-4775525b6f84
+      record_title: The DANGEROUS Truth About UFOs - Ross Coulthart | DEBRIEFED ep. 76
+      record_date: '2026-02-20'
+      record_reference: https://www.youtube.com/watch?v=idBryc0eWww
+      content_hash: sha256:73be106d406f6d35a063a894e8384e7da0918eb8597d2107a9e3653becca2bdc
+      friendly_name: null
+  - claim_id: db5428f4-12bc-4940-844b-147f9cc960f9
+    claim_hash: bec1635be5aac3707042c8f93892292d57da6c0e7ea55f1339f21603bb97df84
+    content: Jesse Michels and his editor travelled to Aztec, New Mexico to investigate the reported crash there.
+    original_excerpt: my editors here with me and we both went to Aztec, New Mexico to investigate the crash there.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 079d4381-4273-418b-bc9a-468623f95c6e
+      title: Jesse Mitchells
+    provenance_chain:
+      origin_kind: speaker
+      origin: Jesse Michels
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 079d4381-4273-418b-bc9a-468623f95c6e
+        title: Jesse Mitchells
+        slug: jesse-mitchells
+      - node_id: 2e7b05e9-7ad8-4abd-a155-48d85bd9adc5
+        title: 1948 Aztec, New Mexico alleged Unidentified Aerial Phenomena (UAP) crash retrieval
+        slug: new-mexico-alleged-unidentified-aerial-phenomena-uap-crash-retrieval-1948-aztec
+      - node_id: dcaf78c7-5895-4ecb-9cd8-9fb6169ea93d
+        title: USA, New Mexico, Aztec
+        slug: new-mexico-aztec-usa
+    date: null
+    date_end: null
+    location_in_record: 01:00:51.2-01:00:55.4
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 64b84f95-238c-4ab7-a678-bee55f985b14
+      record_title: The UFO Cover-Up Leads to One Secret Society — and One Final Event
+      record_date: '2026-07-14'
+      record_reference: https://www.youtube.com/watch?v=kccrkCGGzX4
+      content_hash: sha256:d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7b5a1b98d
+      friendly_name: null

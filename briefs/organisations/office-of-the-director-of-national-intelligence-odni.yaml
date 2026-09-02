@@ -1,0 +1,2042 @@
+schema: anomalica/brief/1
+brief_hash: c82353d7057321f4f233b8aeeeff2f1cd2af2ce366f0986ecbd1218dd46df202
+page:
+  kind: entity
+  node_id: c52fd2ac-fa87-43e8-8a8b-1bbd33ef6a28
+  node_type: organisation
+  title: Office of the Director of National Intelligence (ODNI)
+  slug: office-of-the-director-of-national-intelligence-odni
+  claim_count: 47
+  claim_count_total: 47
+generated:
+  graph_version: '2026-09-01T10:10:49.863545+00:00'
+size:
+  claims: 47
+  tokens_estimated: 15338
+  sized_against: 1050000
+publication:
+  status: published
+  note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
+    transcripts are gated elsewhere.
+belonging:
+  verified: 0
+  suspect_excluded: 0
+  unreviewed: 47
+related_nodes:
+  - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
+    title: Unidentified Anomalous Phenomena (UAP)
+    node_type: topic
+    slug: unidentified-anomalous-phenomena-uap
+    shared_claims: 8
+  - node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+    title: Luis Elizondo
+    node_type: person
+    slug: luis-elizondo
+    shared_claims: 6
+  - node_id: 4fb65b2c-296a-493d-bbc7-65e4b763c1f0
+    title: United States Congress
+    node_type: organisation
+    slug: united-states-congress
+    shared_claims: 6
+  - node_id: 13566718-151d-4f6b-96c6-b36797f258d8
+    title: 'Preliminary Assessment: Unidentified Aerial Phenomena (2021-06)'
+    node_type: document
+    slug: preliminary-assessment-unidentified-aerial-phenomena-2021-06
+    shared_claims: 5
+  - node_id: 99f08514-5471-4eaf-bce3-46c474a8d304
+    title: United States Department of Defense (DoD)
+    node_type: organisation
+    slug: united-states-department-of-defense-dod
+    shared_claims: 5
+  - node_id: 38b84d4a-96df-4684-bb46-f6f64f392add
+    title: Central Intelligence Agency (CIA)
+    node_type: organisation
+    slug: central-intelligence-agency-cia
+    shared_claims: 4
+  - node_id: 76e614a1-ecfa-46a9-8963-d1f4befa2133
+    title: Devon Woods
+    node_type: person
+    slug: devon-woods
+    shared_claims: 4
+  - node_id: 8625ca77-9860-40fe-b2fe-6ee74f1b5174
+    title: Jeremy Corbell
+    node_type: person
+    slug: jeremy-corbell
+    shared_claims: 4
+  - node_id: e1f95e58-faec-4498-b3e0-468529965e45
+    title: 2022 Annual Report on Unidentified Aerial Phenomena
+    node_type: document
+    slug: 2022-annual-report-on-unidentified-aerial-phenomena
+    shared_claims: 2
+  - node_id: f2bea849-8b2e-425e-a368-946e39e457c1
+    title: Aaron Lukas
+    node_type: person
+    slug: aaron-lukas
+    shared_claims: 2
+  - node_id: d191410c-c196-4b82-80e8-178935220d44
+    title: Avi Loeb's All-Domain Anomaly Resolution Office (AARO) science advisory council
+    node_type: project
+    slug: avi-loebs-all-domain-anomaly-resolution-office-aaro-science-advisory-council
+    shared_claims: 2
+  - node_id: d4241f5a-1063-4970-ba02-5a391c02d96d
+    title: David Charles Grusch
+    node_type: person
+    slug: david-charles-grusch
+    shared_claims: 2
+  - node_id: 20328e3c-bc7e-4529-82d9-3e7b5bcac165
+    title: Director's Initiatives Group (DIG)
+    node_type: project
+    slug: directors-initiatives-group-dig
+    shared_claims: 2
+  - node_id: 816c219b-6372-49f6-9579-5eeabb9a7474
+    title: Donald Trump
+    node_type: person
+    slug: donald-trump
+    shared_claims: 2
+  - node_id: c442597b-8900-4212-98ee-ba7b29d985e2
+    title: Dylan Borland
+    node_type: person
+    slug: dylan-borland
+    shared_claims: 2
+  - node_id: d0dc734b-e88b-4274-bdfd-8181139805b2
+    title: Eric Burlison
+    node_type: person
+    slug: eric-burlison
+    shared_claims: 2
+  - node_id: 6712e8fa-3b86-4982-a102-e2d38e0b29d6
+    title: George Knapp
+    node_type: person
+    slug: george-knapp
+    shared_claims: 2
+  - node_id: ad492b48-4298-48fc-9a7a-5466291443f2
+    title: James E. Erdman III
+    node_type: person
+    slug: james-e-erdman-iii
+    shared_claims: 2
+  - node_id: 9bb3e171-2197-411c-ab51-c4ea9dd2048f
+    title: Sensitive Compartmented Information Facility (SCIF)
+    node_type: topic
+    slug: sensitive-compartmented-information-facility-scif
+    shared_claims: 2
+  - node_id: 239e614e-3d4a-4291-a2a6-d22b124f61b6
+    title: US Senate Select Committee on Intelligence
+    node_type: organisation
+    slug: us-senate-select-committee-on-intelligence
+    shared_claims: 2
+  - node_id: 501412f8-f77e-40f4-926b-18142d005cd4
+    title: Unidentified Aerial Phenomena Task Force (UAPTF)
+    node_type: project
+    slug: unidentified-aerial-phenomena-task-force-uaptf
+    shared_claims: 2
+  - node_id: e79e207c-a848-4eb7-9246-07587b20d2c1
+    title: All-domain Anomaly Resolution Office (AARO)
+    node_type: organisation
+    slug: all-domain-anomaly-resolution-office-aaro
+    shared_claims: 1
+  - node_id: 5f29d662-0d3b-4af3-ab7d-16cbb0a33d30
+    title: Avi Loeb
+    node_type: person
+    slug: avi-loeb
+    shared_claims: 1
+  - node_id: 1ec5f56f-f6d2-44fc-bf33-867e0b9ee390
+    title: Combat Command (COCOM)
+    node_type: organisation
+    slug: combat-command-cocom
+    shared_claims: 1
+  - node_id: 558d84f5-bd44-4731-a216-c13607b1e8bc
+    title: Cultural Knowledge Consortium (CKC)
+    node_type: project
+    slug: cultural-knowledge-consortium-ckc
+    shared_claims: 1
+  - node_id: 382b6d6c-0182-4121-8bfc-525602d667b1
+    title: Defense Intelligence Agency (DIA)
+    node_type: organisation
+    slug: defense-intelligence-agency-dia
+    shared_claims: 1
+  - node_id: c430b2b2-7900-45c9-9882-98ac4ab14e88
+    title: Federal Bureau of Investigation (FBI)
+    node_type: organisation
+    slug: federal-bureau-of-investigation-fbi
+    shared_claims: 1
+  - node_id: 02e24822-765a-4ee4-bed8-a005c2713f66
+    title: Intelligence Authorization Act for Fiscal Year 2021
+    node_type: document
+    slug: intelligence-authorization-act-for-fiscal-year-2021
+    shared_claims: 1
+  - node_id: 3a865991-eaad-4855-8980-b28dfb98691a
+    title: James Lacatski
+    node_type: person
+    slug: james-lacatski
+    shared_claims: 1
+  - node_id: a3b88bf2-de8f-45bf-addf-fadd9244c4e5
+    title: James R. Clapper
+    node_type: person
+    slug: james-r-clapper
+    shared_claims: 1
+claims:
+  - claim_id: 01b8ace2-f4da-4ade-a479-5bf2b2fd0d42
+    claim_hash: 545cf6aca6807bd1c098ede0382b5f7969c2e545412861de40e167442f04a88d
+    content: The Cultural Knowledge Consortium (CKC) is a Department of Naval Intelligence (DNI) directed task to develop
+      and facilitate access, storage, analysis and collaboration while supporting Department of Defense (DoD) and Combat Command
+      (COCOM) requirements.
+    original_excerpt: This consortium is a Department of Naval Intelligence (DNI) directed task to develop and facilitate
+      access, storage, analysis and collaboration while supporting DoD and Combat Command (COCOM) requirements.
+    claim_type: observation
+    attestation: first_hand
+    speaker:
+      node_id: e3570276-d5c9-40c9-b171-c25a31b0e16a
+      title: Karl Prinslow
+    provenance_chain:
+      origin_kind: speaker
+      origin: Prinslow, Karl
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 1ec5f56f-f6d2-44fc-bf33-867e0b9ee390
+        title: Combat Command (COCOM)
+        slug: combat-command-cocom
+      - node_id: 558d84f5-bd44-4731-a216-c13607b1e8bc
+        title: Cultural Knowledge Consortium (CKC)
+        slug: cultural-knowledge-consortium-ckc
+      - node_id: 99f08514-5471-4eaf-bce3-46c474a8d304
+        title: United States Department of Defense (DoD)
+        slug: united-states-department-of-defense-dod
+      - node_id: c52fd2ac-fa87-43e8-8a8b-1bbd33ef6a28
+        title: Office of the Director of National Intelligence (ODNI)
+        slug: office-of-the-director-of-national-intelligence-odni
+    date: null
+    date_end: null
+    location_in_record: char:10857-11049
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 9a707eda-ccde-4e3e-a3a7-bc928dcbb59d
+      record_title: 'Conference Report: Cultural and Linguistic Advancement for Mission Success: Enhancing Language, Regional
+        and Cultural Capabilities Across Whole of Government for an Effective COIN Strategy'
+      record_date: 2012-05
+      record_reference: https://apps.dtic.mil/sti/tr/pdf/ADA568628.pdf
+      content_hash: sha256:be0c3e98efc520700596801e7aa4ab046d6146f8cdb40c7eefdcd23b1fab985b
+      friendly_name: 2012-05-pdf-conference-report-cultural-and-linguistic-advancement-for
+  - claim_id: 1a20249e-4ace-493b-aa19-c91da85eb9f7
+    claim_hash: c26d25261bc46e4a4410a15493cb2936c019c004301ab463c8085a2384cb6c62
+    content: Luis Elizondo was a former career counter-intelligence officer with the Defence Department, who most recently
+      worked out of the office of the Director of National Intelligence.
+    original_excerpt: Luis Elizondo was a former career counter-intelligence officer with the Defence Department, who worked
+      most recently out of the office of the Director of National Intelligence.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: unattributed narration
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+        title: Luis Elizondo
+        slug: luis-elizondo
+      - node_id: 99f08514-5471-4eaf-bce3-46c474a8d304
+        title: United States Department of Defense (DoD)
+        slug: united-states-department-of-defense-dod
+      - node_id: c52fd2ac-fa87-43e8-8a8b-1bbd33ef6a28
+        title: Office of the Director of National Intelligence (ODNI)
+        slug: office-of-the-director-of-national-intelligence-odni
+    date: null
+    date_end: null
+    location_in_record: ch24:8112-8275
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 4a16b3e4-90df-403c-8ecf-f16a11424492
+    claim_hash: 43d1d54f79b79cc35ba6574a5930df720002b4955ee6ee74ac542bb19521e322
+    content: Christopher Mellon believed North American Aerospace Defense Command (NORAD) did not include in the Office of
+      the Director of National Intelligence (ODNI) report any of the thousands of 'Uncorrelated Tracks' that its radars identify
+      each year over North America.
+    original_excerpt: It is my understanding that NORAD did not include in the ODNI report any of the thousands of "Uncorrelated
+      Tracks" that its radars identify each year over North America.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 5d06f518-dd64-4429-9026-b930e88660d2
+      title: Christopher K. Mellon
+    provenance_chain:
+      origin_kind: speaker
+      origin: Christopher Mellon
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 4760afb8-2a14-4c60-8924-e2956b67e73c
+        title: North American Aerospace Defense Command (NORAD)
+        slug: north-american-aerospace-defense-command-norad
+      - node_id: c52fd2ac-fa87-43e8-8a8b-1bbd33ef6a28
+        title: Office of the Director of National Intelligence (ODNI)
+        slug: office-of-the-director-of-national-intelligence-odni
+    date: null
+    date_end: null
+    location_in_record: ch29:22868-23029
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 5bf13d82-936b-49a8-bb9c-a28bb0a14cbf
+    claim_hash: fbe7d61bfd4cc4dbfaed5ddfbc4418f2e1db28b709877092cb296ad09ae125a6
+    content: The US Senate's Intelligence Committee ordered the Director of National Intelligence and the Secretary of Defense
+      to deliver a report on Unidentified Aerial Phenomena (UAP) sightings within a month.
+    original_excerpt: the intelligence committee has ordered the director of national intelligence and the secretary of defense
+      to deliver a report on the mysterious sightings by next month
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: narration
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 239e614e-3d4a-4291-a2a6-d22b124f61b6
+        title: US Senate Select Committee on Intelligence
+        slug: us-senate-select-committee-on-intelligence
+      - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
+        title: Unidentified Anomalous Phenomena (UAP)
+        slug: unidentified-anomalous-phenomena-uap
+      - node_id: 99f08514-5471-4eaf-bce3-46c474a8d304
+        title: United States Department of Defense (DoD)
+        slug: united-states-department-of-defense-dod
+      - node_id: c52fd2ac-fa87-43e8-8a8b-1bbd33ef6a28
+        title: Office of the Director of National Intelligence (ODNI)
+        slug: office-of-the-director-of-national-intelligence-odni
+    date: null
+    date_end: null
+    location_in_record: 00:00:27.1-00:00:36.7
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 74e56e91-75be-4226-8f66-32d8cadbad6e
+      record_title: Navy pilots describe encounters with UFOs
+      record_date: '2021-05-17'
+      record_reference: https://www.youtube.com/watch?v=ZBtMbBPzqHY
+      content_hash: sha256:83d5b3312a36c75cc74ab887e9a02bebfd8559f00713870991853a14144b2c28
+      friendly_name: 2021-05-17-video-navy-pilots-describe-encounters-with-ufos.v2
+  - claim_id: d29ae603-3c13-4f62-91ec-33eba1605ead
+    claim_hash: 9a5f980af10dd49d809d22d23291fb1ad5407e72330ec5da32be43b32cb873d3
+    content: In December 2020, while serving as head of the US Senate Select Committee on Intelligence, Marco Rubio asked
+      the Office of the Director of National Intelligence (ODNI) and the Pentagon to present Congress with an unclassified
+      report on Unidentified Aerial Phenomena (UAP) within a month.
+    original_excerpt: This past December, while he was still head of the Intelligence Committee, he asked the Director of
+      National Intelligence and the Pentagon to present Congress an unclassified report by next month.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: narration
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 239e614e-3d4a-4291-a2a6-d22b124f61b6
+        title: US Senate Select Committee on Intelligence
+        slug: us-senate-select-committee-on-intelligence
+      - node_id: 4fb65b2c-296a-493d-bbc7-65e4b763c1f0
+        title: United States Congress
+        slug: united-states-congress
+      - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
+        title: Unidentified Anomalous Phenomena (UAP)
+        slug: unidentified-anomalous-phenomena-uap
+      - node_id: 981b261d-7fb4-408c-a643-0bd820a4c4ca
+        title: Marco Rubio
+        slug: marco-rubio
+      - node_id: 99f08514-5471-4eaf-bce3-46c474a8d304
+        title: United States Department of Defense (DoD)
+        slug: united-states-department-of-defense-dod
+      - node_id: c52fd2ac-fa87-43e8-8a8b-1bbd33ef6a28
+        title: Office of the Director of National Intelligence (ODNI)
+        slug: office-of-the-director-of-national-intelligence-odni
+    date: 2020-12
+    date_end: null
+    location_in_record: 00:12:34.0-00:12:45.5
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 74e56e91-75be-4226-8f66-32d8cadbad6e
+      record_title: Navy pilots describe encounters with UFOs
+      record_date: '2021-05-17'
+      record_reference: https://www.youtube.com/watch?v=ZBtMbBPzqHY
+      content_hash: sha256:83d5b3312a36c75cc74ab887e9a02bebfd8559f00713870991853a14144b2c28
+      friendly_name: 2021-05-17-video-navy-pilots-describe-encounters-with-ufos.v2
+  - claim_id: 0bf5d95a-1c79-4445-9937-42f0415d5915
+    claim_hash: 8f1287e3b1d45984afd2294887abc318ab70aa3896dcd06d4c6ab4474f26a28a
+    content: The Office of the Director of National Intelligence has published public reports documenting UAP.
+    original_excerpt: Now, the Office of the Director of National Intelligence has published public reports documenting UAPs
+    claim_type: administrative
+    attestation: first_hand
+    speaker:
+      node_id: 80d1049c-74b9-4e21-93bb-6e0eb933a52b
+      title: Robert Garcia
+    provenance_chain:
+      origin_kind: speaker
+      origin: Robert Garcia
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
+        title: Unidentified Anomalous Phenomena (UAP)
+        slug: unidentified-anomalous-phenomena-uap
+      - node_id: c52fd2ac-fa87-43e8-8a8b-1bbd33ef6a28
+        title: Office of the Director of National Intelligence (ODNI)
+        slug: office-of-the-director-of-national-intelligence-odni
+    date: null
+    date_end: null
+    location_in_record: char:20301-20399
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 5e233de3-335a-46b1-8b03-81df19638eae
+      record_title: 'Unidentified Anomalous Phenomena: Implications on National Security, Public Safety, and Government Transparency'
+      record_date: '2023-07-26'
+      record_reference: null
+      content_hash: sha256:e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed69a6d8ec1
+      friendly_name: 2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety
+  - claim_id: 00112eb9-acc7-43ba-a313-163a0c0fb926
+    claim_hash: 1561a6f2d284bdbb275f46b3e13def335548ae969a7e4adacc5a55e73065979d
+    content: In 2021, the Office of the Director of National Intelligence (ODNI) released a preliminary report on Unidentified
+      Anomalous Phenomena (UAP) events.
+    original_excerpt: In 2021, the Office of the Director of National Intelligence released a preliminary report on UAP events.
+    claim_type: administrative
+    attestation: second_hand
+    speaker:
+      node_id: a780b830-629b-42fd-9a3c-83da9eea0e78
+      title: Maxwell Frost
+    provenance_chain:
+      origin_kind: named
+      origin: Office of the Director of National Intelligence (ODNI)
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
+        title: Unidentified Anomalous Phenomena (UAP)
+        slug: unidentified-anomalous-phenomena-uap
+      - node_id: c52fd2ac-fa87-43e8-8a8b-1bbd33ef6a28
+        title: Office of the Director of National Intelligence (ODNI)
+        slug: office-of-the-director-of-national-intelligence-odni
+    date: '2021-01-01'
+    date_end: null
+    location_in_record: char:86643-86741
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 5e233de3-335a-46b1-8b03-81df19638eae
+      record_title: 'Unidentified Anomalous Phenomena: Implications on National Security, Public Safety, and Government Transparency'
+      record_date: '2023-07-26'
+      record_reference: null
+      content_hash: sha256:e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed69a6d8ec1
+      friendly_name: 2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety
+  - claim_id: 60ffab77-82cf-441a-ad9a-cfe09ba7a51b
+    claim_hash: b034169402c92d0fb9ece2d85948b157aa5ec9d996c93421141d621d2fd3fcf1
+    content: In 2010, Devon Woods, who previously served as a senior leader at the Office of the Director of National Intelligence
+      (ODNI), became a senior director at the Defense Intelligence Agency (DIA).
+    original_excerpt: In 2010, a man I’ll call Devon Woods, who previously served as a senior leader at ODNI, became a senior
+      director at DIA.
+    claim_type: administrative
+    attestation: first_hand
+    speaker:
+      node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+      title: Luis Elizondo
+    provenance_chain:
+      origin_kind: speaker
+      origin: Lue Elizondo
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 382b6d6c-0182-4121-8bfc-525602d667b1
+        title: Defense Intelligence Agency (DIA)
+        slug: defense-intelligence-agency-dia
+      - node_id: 76e614a1-ecfa-46a9-8963-d1f4befa2133
+        title: Devon Woods
+        slug: devon-woods
+      - node_id: c52fd2ac-fa87-43e8-8a8b-1bbd33ef6a28
+        title: Office of the Director of National Intelligence (ODNI)
+        slug: office-of-the-director-of-national-intelligence-odni
+    date: '2010'
+    date_end: null
+    location_in_record: ch12:48858-48974
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  - claim_id: fafc4bb9-adf8-40a1-ae06-c58510191ef8
+    claim_hash: 1fadd4323fc1699fb572f73d7f0eff1648e6f267466c931f761b5e60c666478f
+    content: Lue Elizondo knew Devon Woods from his days at the Office of the Director of National Intelligence (ODNI) and
+      looked up to him, perceiving him as noble and honest, albeit extremely religious.
+    original_excerpt: I knew him from my days at ODNI, and I looked up to him. I perceived him as noble and honest, albeit
+      extremely religious.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+      title: Luis Elizondo
+    provenance_chain:
+      origin_kind: speaker
+      origin: Lue Elizondo
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 76e614a1-ecfa-46a9-8963-d1f4befa2133
+        title: Devon Woods
+        slug: devon-woods
+      - node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+        title: Luis Elizondo
+        slug: luis-elizondo
+      - node_id: c52fd2ac-fa87-43e8-8a8b-1bbd33ef6a28
+        title: Office of the Director of National Intelligence (ODNI)
+        slug: office-of-the-director-of-national-intelligence-odni
+    date: null
+    date_end: null
+    location_in_record: ch12:48979-49090
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  - claim_id: eaf48c01-ebc6-4c2e-bb75-70fbc28118e0
+    claim_hash: 11c0977f2631d728b0b0bf60ba63a39db51c6d720ada5bc2e60f7d22ae5b3acc
+    content: Devon Woods was Luis Elizondo's unofficial mentor when Elizondo first came to the Office of the Director of National
+      Intelligence (ODNI).
+    original_excerpt: Woods had been my unofficial mentor when I first came to the Office of the Director of National Intelligence
+      (ODNI).
+    claim_type: administrative
+    attestation: first_hand
+    speaker:
+      node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+      title: Luis Elizondo
+    provenance_chain:
+      origin_kind: speaker
+      origin: Lue Elizondo
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 76e614a1-ecfa-46a9-8963-d1f4befa2133
+        title: Devon Woods
+        slug: devon-woods
+      - node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+        title: Luis Elizondo
+        slug: luis-elizondo
+      - node_id: c52fd2ac-fa87-43e8-8a8b-1bbd33ef6a28
+        title: Office of the Director of National Intelligence (ODNI)
+        slug: office-of-the-director-of-national-intelligence-odni
+    date: null
+    date_end: null
+    location_in_record: ch16:3873-3983
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  - claim_id: 99a11ed3-535b-43e7-b686-1937b696c32f
+    claim_hash: 10f7fbc3257b6cdcdbd193d87ef2037af61f0adab6fe5c67bb6441ee6d56ba4a
+    content: Devon Woods had a career with the Central Intelligence Agency (CIA) before joining the Office of the Director
+      of National Intelligence (ODNI).
+    original_excerpt: He had an illustrious career with the CIA before coming on board ODNI.
+    claim_type: administrative
+    attestation: first_hand
+    speaker:
+      node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+      title: Luis Elizondo
+    provenance_chain:
+      origin_kind: speaker
+      origin: Lue Elizondo
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 38b84d4a-96df-4684-bb46-f6f64f392add
+        title: Central Intelligence Agency (CIA)
+        slug: central-intelligence-agency-cia
+      - node_id: 76e614a1-ecfa-46a9-8963-d1f4befa2133
+        title: Devon Woods
+        slug: devon-woods
+      - node_id: c52fd2ac-fa87-43e8-8a8b-1bbd33ef6a28
+        title: Office of the Director of National Intelligence (ODNI)
+        slug: office-of-the-director-of-national-intelligence-odni
+    date: null
+    date_end: null
+    location_in_record: ch16:3990-4055
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  - claim_id: 410eaa2f-134d-40cc-a304-c80f983e1876
+    claim_hash: 6fc6c82b2c690ebf533e5e5ba4b16d431c5ed1ff5ccfb986c2184f8dda602294
+    content: From the moment Lue Elizondo reached the General Schedule pay grade 15 (GS-15), he was eligible for a chauffeur
+      and vehicle from the motor pool while at the Office of the Director of National Intelligence (ODNI).
+    original_excerpt: From the moment I'd hit the GS-15 pay level years ago, I was eligible for a chauffeur and vehicle from
+      the motor pool while at the ODNI.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+      title: Luis Elizondo
+    provenance_chain:
+      origin_kind: speaker
+      origin: Lue Elizondo
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+        title: Luis Elizondo
+        slug: luis-elizondo
+      - node_id: c52fd2ac-fa87-43e8-8a8b-1bbd33ef6a28
+        title: Office of the Director of National Intelligence (ODNI)
+        slug: office-of-the-director-of-national-intelligence-odni
+    date: null
+    date_end: null
+    location_in_record: ch20:3673-3804
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  - claim_id: f915fbbd-9981-46ee-a18f-7f8641d06f8a
+    claim_hash: 029f68767588623bf4f2054f600ac3aed4ed8131d559f76082da651709654a3d
+    content: Luis Elizondo worked for the Office of the Director of National Intelligence (ODNI).
+    original_excerpt: also worked for the Office of the National Counterintelligence Executive and the Office of the Director
+      of National Intelligence
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+        title: Luis Elizondo
+        slug: luis-elizondo
+      - node_id: c52fd2ac-fa87-43e8-8a8b-1bbd33ef6a28
+        title: Office of the Director of National Intelligence (ODNI)
+        slug: office-of-the-director-of-national-intelligence-odni
+    date: null
+    date_end: null
+    location_in_record: ch38:398-514
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  - claim_id: a7daf4e0-5f97-4b61-8c05-7d5b64906773
+    claim_hash: ccc0c01cef36fbf9ef9117d2874c8fff475374cab491b632fceaf2ae91d82e2c
+    content: Luis Elizondo worked within the United States Department of Defense (DoD), the Office of the National Counterintelligence
+      Executive (ONCIX), the Office of the Director of National Intelligence (ODNI), and the Office of the Secretary of Defense
+      (OSD).
+    original_excerpt: I worked within the Department of Defense (DoD), the Office of the National Counterintelligence Executive
+      (ONCIX), the Office of the Director of National Intelligence (ODNI), and the Office of the Secretary of Defense (OSD).
+    claim_type: administrative
+    attestation: first_hand
+    speaker:
+      node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+      title: Luis Elizondo
+    provenance_chain:
+      origin_kind: speaker
+      origin: Lue Elizondo
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+        title: Luis Elizondo
+        slug: luis-elizondo
+      - node_id: 99f08514-5471-4eaf-bce3-46c474a8d304
+        title: United States Department of Defense (DoD)
+        slug: united-states-department-of-defense-dod
+      - node_id: c52fd2ac-fa87-43e8-8a8b-1bbd33ef6a28
+        title: Office of the Director of National Intelligence (ODNI)
+        slug: office-of-the-director-of-national-intelligence-odni
+      - node_id: e902afd5-7fac-42f0-80e2-f3463debd2d9
+        title: Office of the National Counterintelligence Executive (ONCIX)
+        slug: office-of-the-national-counterintelligence-executive-oncix
+      - node_id: f9c1f5e2-7a4b-4767-9954-a9d0f73bd908
+        title: Office of the Under Secretary of Defense for Intelligence (OUSDI)
+        slug: office-of-the-under-secretary-of-defense-for-intelligence-ousdi
+    date: null
+    date_end: null
+    location_in_record: ch9:918-1137
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  - claim_id: 5afddb76-a662-4f95-b1df-e913f48a657c
+    claim_hash: b63b012802fe67a78337139e7c95b51d8a4a204c07e891a2518c01892b87ae98
+    content: According to the Office of the Director of National Intelligence's Preliminary Assessment on Unidentified Aerial
+      Phenomena, UAP are objects that are not immediately identifiable and lack a single explanation.
+    original_excerpt: 'According to the Office of the Director of National Intelligence''s Preliminary Assessment on UAP,
+      UAP are objects that are not immediately identifiable, lack a single explanation, and fall into one of five potential
+      explanatory categories: airborne clutter, natural atmospheric phenomena, U.S. Government or industry developmental programs,
+      foreign adversary systems, and a catchall "other" category.'
+    claim_type: administrative
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: document
+      origin: Preliminary Assessment on Unidentified Aerial Phenomena
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 13566718-151d-4f6b-96c6-b36797f258d8
+        title: 'Preliminary Assessment: Unidentified Aerial Phenomena (2021-06)'
+        slug: preliminary-assessment-unidentified-aerial-phenomena-2021-06
+      - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
+        title: Unidentified Anomalous Phenomena (UAP)
+        slug: unidentified-anomalous-phenomena-uap
+      - node_id: c52fd2ac-fa87-43e8-8a8b-1bbd33ef6a28
+        title: Office of the Director of National Intelligence (ODNI)
+        slug: office-of-the-director-of-national-intelligence-odni
+    date: null
+    date_end: null
+    location_in_record: char:4256-4647
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 16fab195-3d1d-4a8f-b0b0-6bf40d611152
+      record_title: Unclassified Summary of Report No. DODIG-2023-109, "Evaluation of the DoD's Actions Regarding Unidentified
+        Anomalous Phenomena," August 15, 2023
+      record_date: '2024-01-24'
+      record_reference: null
+      content_hash: sha256:e0b2ceb193d4e10a4cd75e5131257c453d15b7b5999d8d5245de9ab897a0bdd3
+      friendly_name: 2024-01-24-pdf-unclassified-summary-of-report-no-dodig-2023-109-evaluation-of-the-dods-actions-
+  - claim_id: b46f2e8d-0b73-4188-9301-84e03511bd1e
+    claim_hash: 28ad49c1834f0e6d7b8ef5cd93b87a36f0346eb44566a52502eb6b60fea49674
+    content: 'The Office of the Director of National Intelligence''s Preliminary Assessment on Unidentified Aerial Phenomena
+      states that UAP fall into one of five potential explanatory categories: airborne clutter, natural atmospheric phenomena,
+      U.S. Government or industry developmental programs, foreign adversary systems, and a catchall "other" category.'
+    original_excerpt: '...fall into one of five potential explanatory categories: airborne clutter, natural atmospheric phenomena,
+      U.S. Government or industry developmental programs, foreign adversary systems, and a catchall "other" category.'
+    claim_type: administrative
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: document
+      origin: Preliminary Assessment on Unidentified Aerial Phenomena
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 13566718-151d-4f6b-96c6-b36797f258d8
+        title: 'Preliminary Assessment: Unidentified Aerial Phenomena (2021-06)'
+        slug: preliminary-assessment-unidentified-aerial-phenomena-2021-06
+      - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
+        title: Unidentified Anomalous Phenomena (UAP)
+        slug: unidentified-anomalous-phenomena-uap
+      - node_id: c52fd2ac-fa87-43e8-8a8b-1bbd33ef6a28
+        title: Office of the Director of National Intelligence (ODNI)
+        slug: office-of-the-director-of-national-intelligence-odni
+    date: null
+    date_end: null
+    location_in_record: char:4440-4647
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 16fab195-3d1d-4a8f-b0b0-6bf40d611152
+      record_title: Unclassified Summary of Report No. DODIG-2023-109, "Evaluation of the DoD's Actions Regarding Unidentified
+        Anomalous Phenomena," August 15, 2023
+      record_date: '2024-01-24'
+      record_reference: null
+      content_hash: sha256:e0b2ceb193d4e10a4cd75e5131257c453d15b7b5999d8d5245de9ab897a0bdd3
+      friendly_name: 2024-01-24-pdf-unclassified-summary-of-report-no-dodig-2023-109-evaluation-of-the-dods-actions-
+  - claim_id: c5d55aee-7a8a-4c75-9e53-c966c559a644
+    claim_hash: a604dcd7ca69e7e84406fa77aad636481077fe8e2b46cd3bb6fdb0c253626253
+    content: In June 2021, the UAP Task Force (UAPTF) and the Office of the Director of National Intelligence (ODNI) issued
+      the congressionally mandated Preliminary Assessment on Unidentified Aerial Phenomena.
+    original_excerpt: In June 2021, the UAPTF and the Office of the Director of National Intelligence issued the congressionally
+      mandated Preliminary Assessment on UAP, which stated that UAP reporting data are largely inconclusive, as well as a
+      consolidation of reports across the U.S. Government is inconsistent.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 13566718-151d-4f6b-96c6-b36797f258d8
+        title: 'Preliminary Assessment: Unidentified Aerial Phenomena (2021-06)'
+        slug: preliminary-assessment-unidentified-aerial-phenomena-2021-06
+      - node_id: 501412f8-f77e-40f4-926b-18142d005cd4
+        title: Unidentified Aerial Phenomena Task Force (UAPTF)
+        slug: unidentified-aerial-phenomena-task-force-uaptf
+      - node_id: c52fd2ac-fa87-43e8-8a8b-1bbd33ef6a28
+        title: Office of the Director of National Intelligence (ODNI)
+        slug: office-of-the-director-of-national-intelligence-odni
+    date: 2021-06
+    date_end: null
+    location_in_record: char:6426-6704
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 16fab195-3d1d-4a8f-b0b0-6bf40d611152
+      record_title: Unclassified Summary of Report No. DODIG-2023-109, "Evaluation of the DoD's Actions Regarding Unidentified
+        Anomalous Phenomena," August 15, 2023
+      record_date: '2024-01-24'
+      record_reference: null
+      content_hash: sha256:e0b2ceb193d4e10a4cd75e5131257c453d15b7b5999d8d5245de9ab897a0bdd3
+      friendly_name: 2024-01-24-pdf-unclassified-summary-of-report-no-dodig-2023-109-evaluation-of-the-dods-actions-
+  - claim_id: 88f21ca9-0b1e-4f7f-a587-95a20c388204
+    claim_hash: 694c6e5b5a8fb8cd9611c6a93730c429e3eb14260669bd1cb4e11d687f0284de
+    content: Senate Report 116-233, accompanying the Intelligence Authorization Act for Fiscal Year 2021, directed the Office
+      of the Director of National Intelligence (ODNI), in consultation with the Secretary of Defense, to submit an intelligence
+      assessment of the threat posed by UAP and to report on the progress the Unidentified Aerial Phenomena Task Force (UAPTF)
+      had made in understanding this threat.
+    original_excerpt: Senate Report 116-233, accompanying the Intelligence Authorization Act for Fiscal Year 2021, directed
+      the Office of the Director of National Intelligence (ODNI) in consultation with the Secretary of Defense to submit an
+      intelligence assessment of the threat posed by UAP and to report on the progress the UAPTF had made in understanding
+      this threat.
+    claim_type: administrative
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: document
+      origin: Senate Report 116-233
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 02e24822-765a-4ee4-bed8-a005c2713f66
+        title: Intelligence Authorization Act for Fiscal Year 2021
+        slug: intelligence-authorization-act-for-fiscal-year-2021
+      - node_id: 501412f8-f77e-40f4-926b-18142d005cd4
+        title: Unidentified Aerial Phenomena Task Force (UAPTF)
+        slug: unidentified-aerial-phenomena-task-force-uaptf
+      - node_id: 6606efec-699d-49cf-a109-c439cebf5471
+        title: Senate Report 116-233
+        slug: senate-report-116-233
+      - node_id: c52fd2ac-fa87-43e8-8a8b-1bbd33ef6a28
+        title: Office of the Director of National Intelligence (ODNI)
+        slug: office-of-the-director-of-national-intelligence-odni
+    date: null
+    date_end: null
+    location_in_record: char:65262-65604
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: d3743fdf-6a99-43ef-98d4-b79ef60f0e47
+      record_title: Report on the Historical Record of U.S. Government Involvement with Unidentified Anomalous Phenomena (UAP),
+        Volume I
+      record_date: '2024-02-01'
+      record_reference: null
+      content_hash: sha256:8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a94774067868
+      friendly_name: 2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a
+  - claim_id: f4752996-d097-401d-ab3f-3d608104c9b7
+    claim_hash: 03122ae1e393504e6df6da5738010e2755c7da1c38055814c84c5a55b91a3bdd
+    content: Consistent with congressional direction, the All-Domain Anomaly Resolution Office (AARO) provides quarterly reports,
+      semiannual briefings, and an annual report to the United States Congress in coordination with the Office of the Director
+      of National Intelligence (ODNI).
+    original_excerpt: Consistent with congressional direction, AARO provides quarterly reports, semiannual briefings, and
+      an annual report to Congress in coordination with the ODNI.
+    claim_type: administrative
+    attestation: first_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: speaker
+      origin: All-Domain Anomaly Resolution Office (AARO)
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 4fb65b2c-296a-493d-bbc7-65e4b763c1f0
+        title: United States Congress
+        slug: united-states-congress
+      - node_id: c52fd2ac-fa87-43e8-8a8b-1bbd33ef6a28
+        title: Office of the Director of National Intelligence (ODNI)
+        slug: office-of-the-director-of-national-intelligence-odni
+      - node_id: e79e207c-a848-4eb7-9246-07587b20d2c1
+        title: All-domain Anomaly Resolution Office (AARO)
+        slug: all-domain-anomaly-resolution-office-aaro
+    date: null
+    date_end: null
+    location_in_record: char:70175-70329
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: d3743fdf-6a99-43ef-98d4-b79ef60f0e47
+      record_title: Report on the Historical Record of U.S. Government Involvement with Unidentified Anomalous Phenomena (UAP),
+        Volume I
+      record_date: '2024-02-01'
+      record_reference: null
+      content_hash: sha256:8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a94774067868
+      friendly_name: 2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a
+  - claim_id: 7d56d186-56f3-45c9-9823-e259eaae6666
+    claim_hash: c57bb67efbb23b92ae71176c9771ab036234c1c11fb9bd9d670bb7aa736798ab
+    content: On 2023-01-12, the Office of the Director of National Intelligence (ODNI) submitted the 2022 Annual Report on
+      Unidentified Aerial Phenomena to the United States Congress.
+    original_excerpt: on January 12, 2023, the ODNI submitted the 2022 Annual Report on Unidentified Aerial Phenomena to Congress.
+    claim_type: administrative
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: document
+      origin: 2022 Annual Report on Unidentified Aerial Phenomena
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 4fb65b2c-296a-493d-bbc7-65e4b763c1f0
+        title: United States Congress
+        slug: united-states-congress
+      - node_id: c52fd2ac-fa87-43e8-8a8b-1bbd33ef6a28
+        title: Office of the Director of National Intelligence (ODNI)
+        slug: office-of-the-director-of-national-intelligence-odni
+      - node_id: e1f95e58-faec-4498-b3e0-468529965e45
+        title: 2022 Annual Report on Unidentified Aerial Phenomena
+        slug: 2022-annual-report-on-unidentified-aerial-phenomena
+    date: '2023-01-12'
+    date_end: null
+    location_in_record: char:70348-70447
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: d3743fdf-6a99-43ef-98d4-b79ef60f0e47
+      record_title: Report on the Historical Record of U.S. Government Involvement with Unidentified Anomalous Phenomena (UAP),
+        Volume I
+      record_date: '2024-02-01'
+      record_reference: null
+      content_hash: sha256:8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a94774067868
+      friendly_name: 2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a
+  - claim_id: cd7533a6-f671-4183-8421-b83cf2290fba
+    claim_hash: 0bbcb63ba6c202d1ca950748505f468efd94989984df9218beeb6dc43be3b50e
+    content: The 510 total UAP reports in the 2022 Annual Report on Unidentified Aerial Phenomena included the 144 UAP reports
+      covered during the 17 years of reporting in the Office of the Director of National Intelligence's (ODNI) preliminary
+      assessment, as well as 247 new reports and 119 reports that were subsequently discovered or reported.
+    original_excerpt: This included the 144 UAP reports covered during the 17 years of reporting included in the ODNI's preliminary
+      assessment, as well as 247 new reports and 119 reports that subsequently were discovered or reported.
+    claim_type: measurement
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: document
+      origin: 2022 Annual Report on Unidentified Aerial Phenomena
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 13566718-151d-4f6b-96c6-b36797f258d8
+        title: 'Preliminary Assessment: Unidentified Aerial Phenomena (2021-06)'
+        slug: preliminary-assessment-unidentified-aerial-phenomena-2021-06
+      - node_id: c52fd2ac-fa87-43e8-8a8b-1bbd33ef6a28
+        title: Office of the Director of National Intelligence (ODNI)
+        slug: office-of-the-director-of-national-intelligence-odni
+      - node_id: e1f95e58-faec-4498-b3e0-468529965e45
+        title: 2022 Annual Report on Unidentified Aerial Phenomena
+        slug: 2022-annual-report-on-unidentified-aerial-phenomena
+    date: null
+    date_end: null
+    location_in_record: char:70618-70820
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: d3743fdf-6a99-43ef-98d4-b79ef60f0e47
+      record_title: Report on the Historical Record of U.S. Government Involvement with Unidentified Anomalous Phenomena (UAP),
+        Volume I
+      record_date: '2024-02-01'
+      record_reference: null
+      content_hash: sha256:8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a94774067868
+      friendly_name: 2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a
+  - claim_id: 45334181-cfe9-4519-b7d2-5cbc55e0418d
+    claim_hash: dcd96ea3f0e8fc2d23ed240337d4a2d242d7d2902fdfa83c7be6c033fc4f16f1
+    content: David Grusch will use his expertise to support Eric Burlison and help the United States Congress restore full
+      oversight while enabling the Legislative Branch's ability to investigate and hold accountable those who broke the law
+      and lied to Congress, the Executive Office of the President, the Office of the Director of National Intelligence, and
+      the United States Department of Justice.
+    original_excerpt: I will use all my expertise to support Rep. Burlison and help the US Congress restore full oversight
+      while enabling the Legislative Branch's ability to investigate and hold those accountable who have broken the law and
+      lied not only to our Congress, but also to the Executive Office of the President, Director of National Intelligence,
+      and Department of Justice
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: d4241f5a-1063-4970-ba02-5a391c02d96d
+      title: David Charles Grusch
+    provenance_chain:
+      origin_kind: speaker
+      origin: David Grusch
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 3cba540c-c46f-42fc-8265-e97e17cc3d3d
+        title: United States Department of Justice (DOJ)
+        slug: united-states-department-of-justice-doj
+      - node_id: 4fb65b2c-296a-493d-bbc7-65e4b763c1f0
+        title: United States Congress
+        slug: united-states-congress
+      - node_id: c52fd2ac-fa87-43e8-8a8b-1bbd33ef6a28
+        title: Office of the Director of National Intelligence (ODNI)
+        slug: office-of-the-director-of-national-intelligence-odni
+      - node_id: d0dc734b-e88b-4274-bdfd-8181139805b2
+        title: Eric Burlison
+        slug: eric-burlison
+      - node_id: d4241f5a-1063-4970-ba02-5a391c02d96d
+        title: David Charles Grusch
+        slug: david-charles-grusch
+    date: null
+    date_end: null
+    location_in_record: char:2214-2568
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 44f06333-64a7-4d19-b6f5-74a38483b32b
+      record_title: Rep. Burlison Welcomes Former U.S. Air Force Officer David Grusch as Special Advisor
+      record_date: '2025-03-27'
+      record_reference: https://burlison.house.gov/media/press-releases/rep-burlison-welcomes-former-us-air-force-officer-david-grusch-special-advisor
+      content_hash: sha256:ec3cbe4e4d742cfb59b787d25ae25a49843f009e4bcb8e5461e0014e6cd4e7e6
+      friendly_name: 2025-03-27-web-rep-burlison-welcomes-former-u-s-air-force-officer-david
+  - claim_id: a777d4f3-a0c1-44a7-a54d-b9f753c801e4
+    claim_hash: b0ac776eacfebd94e029d827993559dd4c2042283e61f63c7efea7d6ffdc31a5
+    content: When Eric Burlison asked officials from the Office of the Director of National Intelligence (ODNI) what the plasmoid-type
+      phenomena observed at a Western United States military installation were, the officials said they did not know, and
+      confirmed their top scientists also did not know.
+    original_excerpt: Sitting in that room with ODNI, I asked the question, what in the world are these things doing? And
+      they said, we don't know. And I said, surely you have your top scientists looking into this. What do they say? They
+      said, sir, we really don't.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: d0dc734b-e88b-4274-bdfd-8181139805b2
+      title: Eric Burlison
+    provenance_chain:
+      origin_kind: speaker
+      origin: Eric Burlison
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: c52fd2ac-fa87-43e8-8a8b-1bbd33ef6a28
+        title: Office of the Director of National Intelligence (ODNI)
+        slug: office-of-the-director-of-national-intelligence-odni
+      - node_id: d0dc734b-e88b-4274-bdfd-8181139805b2
+        title: Eric Burlison
+        slug: eric-burlison
+    date: null
+    date_end: null
+    location_in_record: 00:16:56.9-00:17:09.1
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 8c1d10dd-26ad-481a-9699-761ecf181743
+      record_title: 'Episode 73: Science vs. Secrecy'
+      record_date: '2026-06-30'
+      record_reference: https://www.youtube.com/watch?v=tZHuAZpLdFw
+      content_hash: sha256:ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230a948eb3d
+      friendly_name: null
+  - claim_id: 8840b15c-a2ad-43ea-8e0c-c54a3ed0abcf
+    claim_hash: 7fc4824709ceb1a51519f8b5aa7a8fa6706d1230bdb03319b7a2eaf273531d60
+    content: Avi Loeb was visited at his home by a representative of the Office of the Director of National Intelligence (ODNI),
+      who asked him to lead a science advisory council.
+    original_excerpt: I had a visit to my home, as I often do... this time it came from ODNI. And they asked if I'm willing
+      to lead a science advisory council.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 5f29d662-0d3b-4af3-ab7d-16cbb0a33d30
+      title: Avi Loeb
+    provenance_chain:
+      origin_kind: speaker
+      origin: Avi Loeb
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 5f29d662-0d3b-4af3-ab7d-16cbb0a33d30
+        title: Avi Loeb
+        slug: avi-loeb
+      - node_id: c52fd2ac-fa87-43e8-8a8b-1bbd33ef6a28
+        title: Office of the Director of National Intelligence (ODNI)
+        slug: office-of-the-director-of-national-intelligence-odni
+      - node_id: d191410c-c196-4b82-80e8-178935220d44
+        title: Avi Loeb's All-Domain Anomaly Resolution Office (AARO) science advisory council
+        slug: avi-loebs-all-domain-anomaly-resolution-office-aaro-science-advisory-council
+    date: null
+    date_end: null
+    location_in_record: 00:17:21.2-00:17:32.8
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 8c1d10dd-26ad-481a-9699-761ecf181743
+      record_title: 'Episode 73: Science vs. Secrecy'
+      record_date: '2026-06-30'
+      record_reference: https://www.youtube.com/watch?v=tZHuAZpLdFw
+      content_hash: sha256:ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230a948eb3d
+      friendly_name: null
+  - claim_id: ec7a17c1-7262-4cf2-a4ff-10f12e43d537
+    claim_hash: 61d64d4554e4b05fae6d0030c436df9ef8a90e74f1e1a3e5502137ed2ee1f239
+    content: There is a governing board for Avi Loeb's science advisory council that includes representatives from the Office
+      of the Director of National Intelligence (ODNI), the White House, the Federal Bureau of Investigation (FBI), and the
+      intelligence community, who have access to classified material.
+    original_excerpt: There is a governing board that includes representatives from ODNI, from the White House, from the FBI,
+      from the intelligence community. And so those representatives have access, of course, to all the classified material.
+    claim_type: administrative
+    attestation: first_hand
+    speaker:
+      node_id: 5f29d662-0d3b-4af3-ab7d-16cbb0a33d30
+      title: Avi Loeb
+    provenance_chain:
+      origin_kind: speaker
+      origin: Avi Loeb
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 997facc0-2c81-4d74-9fc5-d819de1c1d47
+        title: The White House
+        slug: the-white-house
+      - node_id: c430b2b2-7900-45c9-9882-98ac4ab14e88
+        title: Federal Bureau of Investigation (FBI)
+        slug: federal-bureau-of-investigation-fbi
+      - node_id: c52fd2ac-fa87-43e8-8a8b-1bbd33ef6a28
+        title: Office of the Director of National Intelligence (ODNI)
+        slug: office-of-the-director-of-national-intelligence-odni
+      - node_id: d191410c-c196-4b82-80e8-178935220d44
+        title: Avi Loeb's All-Domain Anomaly Resolution Office (AARO) science advisory council
+        slug: avi-loebs-all-domain-anomaly-resolution-office-aaro-science-advisory-council
+    date: null
+    date_end: null
+    location_in_record: 00:21:38.5-00:21:53.6
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 8c1d10dd-26ad-481a-9699-761ecf181743
+      record_title: 'Episode 73: Science vs. Secrecy'
+      record_date: '2026-06-30'
+      record_reference: https://www.youtube.com/watch?v=tZHuAZpLdFw
+      content_hash: sha256:ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230a948eb3d
+      friendly_name: null
+  - claim_id: 39e601dd-ab49-4adc-ba29-7faab9ba4a7e
+    claim_hash: 707ab8d2090d8364d09e6dbf5d9eb57a6531ac1fed056dc72baf0ed79a6c1d81
+    content: The people at the Office of the Director of National Intelligence (ODNI) are good people who are genuinely trying
+      to do something positive, which may make the current disclosure effort more successful than previous cases.
+    original_excerpt: I'm also familiar with the people in ODNI, and they are good people. They're good people actually trying
+      to do something positive.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 6dcdfe60-bc2f-4be2-a041-9957a82f371e
+      title: Harold E. Puthoff
+    provenance_chain:
+      origin_kind: speaker
+      origin: Hal Puthoff
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: c52fd2ac-fa87-43e8-8a8b-1bbd33ef6a28
+        title: Office of the Director of National Intelligence (ODNI)
+        slug: office-of-the-director-of-national-intelligence-odni
+    date: null
+    date_end: null
+    location_in_record: 00:45:15.0-00:45:22.9
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 8c1d10dd-26ad-481a-9699-761ecf181743
+      record_title: 'Episode 73: Science vs. Secrecy'
+      record_date: '2026-06-30'
+      record_reference: https://www.youtube.com/watch?v=tZHuAZpLdFw
+      content_hash: sha256:ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230a948eb3d
+      friendly_name: null
+  - claim_id: 7d4eaab8-1ae4-4b3c-8f13-969d6fcf66bc
+    claim_hash: f42f1252e53eb1bca9250cbf4eba9e1e8bddb3508bcbada394abb040752d0fcc
+    content: The Office of the Director of National Intelligence (ODNI) is involved in the Unidentified Aerial Phenomena (UAP)
+      interception operation.
+    original_excerpt: The Office of the Director of National Intelligence, ODNI, is also involved.
+    claim_type: hearsay
+    attestation: second_hand
+    speaker:
+      node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+      title: Ross Coulthart
+    provenance_chain:
+      origin_kind: anonymous
+      origin: a person claiming to have knowledge of the UAP interception operation
+      relay:
+        - Ross Coulthart
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
+        title: Unidentified Anomalous Phenomena (UAP)
+        slug: unidentified-anomalous-phenomena-uap
+      - node_id: c52fd2ac-fa87-43e8-8a8b-1bbd33ef6a28
+        title: Office of the Director of National Intelligence (ODNI)
+        slug: office-of-the-director-of-national-intelligence-odni
+    date: null
+    date_end: null
+    location_in_record: 00:20:46.7-00:20:52.3
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 308dd5bd-eed8-4f08-b15a-98f7bb989522
+      record_title: 'Ross Coulthart Q&A: Skywatcher didn''t disappear — it went government | Reality Check'
+      record_date: '2026-08-09'
+      record_reference: https://www.youtube.com/watch?v=IOZdVCoZ51Q
+      content_hash: sha256:76d7e7613c0a44bdb8d7e5ce87b2a23defe4a987cf1865be3ae1080cd1893d21
+      friendly_name: null
+  - claim_id: 5f5f4822-a934-416f-aa75-572604bacdab
+    claim_hash: 8a84de76c7e20ea136186b0f2b0a2429afa8f73047b2bd8e54fffadb82f8b690
+    content: In the introduction to his book, James Lacatski wrote that 2021-06-25 was a revolutionary day when the Office
+      of the Director of National Intelligence made the long-awaited announcement that UFOs were real.
+    original_excerpt: So he writes in the introduction here, on June 25, 2021, was a revolutionary day when the Office of
+      the Director of National Intelligence, ODNI, made the long-awaited announcement that UFOs were real.
+    claim_type: administrative
+    attestation: second_hand
+    speaker:
+      node_id: 0d4dfba6-a53b-4f23-a2ad-e4c9bea44076
+      title: Robert Bigelow
+    provenance_chain:
+      origin_kind: document
+      origin: the introduction to James Lacatski's book
+      relay:
+        - Robert Bigelow reading aloud
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 3a865991-eaad-4855-8980-b28dfb98691a
+        title: James Lacatski
+        slug: james-lacatski
+      - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
+        title: Unidentified Flying Object (UFO)
+        slug: unidentified-flying-object-ufo
+      - node_id: c52fd2ac-fa87-43e8-8a8b-1bbd33ef6a28
+        title: Office of the Director of National Intelligence (ODNI)
+        slug: office-of-the-director-of-national-intelligence-odni
+      - node_id: cca7de4c-13f1-4a10-a697-d901f5e87646
+        title: Office of the Director of National Intelligence Unidentified Aerial Phenomena (UAP) preliminary assessment
+          release 2021-06-25
+        slug: office-of-the-director-of-national-intelligence-unidentified-aerial-phenomena-uap-preliminary-assessment-release-2021-06-25
+    date: '2021-06-25'
+    date_end: null
+    location_in_record: 00:07:57.7-00:08:14.0
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 5de4e296-4206-45f6-aa56-c3b8efb5c9e2
+      record_title: The Evolution of AAWSAP | Bigelow Podcast, Ep. 2
+      record_date: '2026-08-11'
+      record_reference: https://www.youtube.com/watch?v=hz7jHEgYzQw
+      content_hash: sha256:1aa9d864c5a4bb930164c278d9624c6bc0f84278ea4b5e57594fae9e21e90858
+      friendly_name: null
+  - claim_id: 3b6d346a-d50e-4523-87e8-903ef5e9f47f
+    claim_hash: 8984247e0c2546edcfcac425d84991182c8a781271ff7680cf5e1acc1626a464
+    content: 'The Office of the Director of National Intelligence released a report entitled Preliminary Assessment: Unidentified
+      Aerial Phenomena, providing a sober assessment that UFOs were no longer to be ridiculed and mocked.'
+    original_excerpt: In releasing their report entitled Preliminary Assessment, Unidentified Aerial Phenomena, ODNI provided
+      their sober assessments that UFOs no longer were to be ridiculed and mocked.
+    claim_type: administrative
+    attestation: second_hand
+    speaker:
+      node_id: 0d4dfba6-a53b-4f23-a2ad-e4c9bea44076
+      title: Robert Bigelow
+    provenance_chain:
+      origin_kind: document
+      origin: James Lacatski's book
+      relay:
+        - Robert Bigelow reading aloud
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 13566718-151d-4f6b-96c6-b36797f258d8
+        title: 'Preliminary Assessment: Unidentified Aerial Phenomena (2021-06)'
+        slug: preliminary-assessment-unidentified-aerial-phenomena-2021-06
+      - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
+        title: Unidentified Anomalous Phenomena (UAP)
+        slug: unidentified-anomalous-phenomena-uap
+      - node_id: c52fd2ac-fa87-43e8-8a8b-1bbd33ef6a28
+        title: Office of the Director of National Intelligence (ODNI)
+        slug: office-of-the-director-of-national-intelligence-odni
+    date: '2021-06-25'
+    date_end: null
+    location_in_record: 00:08:23.0-00:08:39.6
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 5de4e296-4206-45f6-aa56-c3b8efb5c9e2
+      record_title: The Evolution of AAWSAP | Bigelow Podcast, Ep. 2
+      record_date: '2026-08-11'
+      record_reference: https://www.youtube.com/watch?v=hz7jHEgYzQw
+      content_hash: sha256:1aa9d864c5a4bb930164c278d9624c6bc0f84278ea4b5e57594fae9e21e90858
+      friendly_name: null
+  - claim_id: bc0967da-6f2a-485d-9991-e61859149f66
+    claim_hash: 9827f133285267e8703b397e8df0287a30232458271b934dc193101d6e8f036f
+    content: George Knapp regards Sean Kirkpatrick's 2023 position as a far cry from what the Office of the Director of National
+      Intelligence said in 2021 and from what it is saying now.
+    original_excerpt: It's a far cry from what ODNI said in 2021, right? And it's also a far cry from what ODNI is saying
+      now.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 6712e8fa-3b86-4982-a102-e2d38e0b29d6
+      title: George Knapp
+    provenance_chain:
+      origin_kind: speaker
+      origin: George Knapp
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 02b74577-f272-4ae7-8520-5fda4eacb5f2
+        title: Sean Kirkpatrick
+        slug: sean-kirkpatrick
+      - node_id: 6712e8fa-3b86-4982-a102-e2d38e0b29d6
+        title: George Knapp
+        slug: george-knapp
+      - node_id: c52fd2ac-fa87-43e8-8a8b-1bbd33ef6a28
+        title: Office of the Director of National Intelligence (ODNI)
+        slug: office-of-the-director-of-national-intelligence-odni
+    date: null
+    date_end: null
+    location_in_record: 00:11:20.0-00:11:27.2
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 5de4e296-4206-45f6-aa56-c3b8efb5c9e2
+      record_title: The Evolution of AAWSAP | Bigelow Podcast, Ep. 2
+      record_date: '2026-08-11'
+      record_reference: https://www.youtube.com/watch?v=hz7jHEgYzQw
+      content_hash: sha256:1aa9d864c5a4bb930164c278d9624c6bc0f84278ea4b5e57594fae9e21e90858
+      friendly_name: null
+  - claim_id: 406f5895-1fc3-4300-8264-ba06da704080
+    claim_hash: e1a23f99973dd53ffa7dcd4fd0324d44d8c4008daf816dac24438f99907a1365
+    content: The Office of the Director of National Intelligence started a programme called DIG last year that looked into
+      a number of different topics.
+    original_excerpt: They just issued, you know, they started a program last year called DIG that looked into a number of
+      different interesting topics.
+    claim_type: administrative
+    attestation: first_hand
+    speaker:
+      node_id: 6712e8fa-3b86-4982-a102-e2d38e0b29d6
+      title: George Knapp
+    provenance_chain:
+      origin_kind: speaker
+      origin: George Knapp
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: c52fd2ac-fa87-43e8-8a8b-1bbd33ef6a28
+        title: Office of the Director of National Intelligence (ODNI)
+        slug: office-of-the-director-of-national-intelligence-odni
+    date: null
+    date_end: null
+    location_in_record: 00:11:28.0-00:11:33.9
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 5de4e296-4206-45f6-aa56-c3b8efb5c9e2
+      record_title: The Evolution of AAWSAP | Bigelow Podcast, Ep. 2
+      record_date: '2026-08-11'
+      record_reference: https://www.youtube.com/watch?v=hz7jHEgYzQw
+      content_hash: sha256:1aa9d864c5a4bb930164c278d9624c6bc0f84278ea4b5e57594fae9e21e90858
+      friendly_name: null
+  - claim_id: 6388b920-d1d4-4883-ba3a-0f23c7f6dbaf
+    claim_hash: 60c196e8465107254790b5f34af006534c28cf23cfcbf90d58013c6716dde9ca
+    content: The Office of the Director of National Intelligence DIG programme asked George Knapp and Jeremy Corbell for help
+      in getting people to come forward.
+    original_excerpt: They asked me and Jeremy Corbell for some help in getting people to come forward.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 6712e8fa-3b86-4982-a102-e2d38e0b29d6
+      title: George Knapp
+    provenance_chain:
+      origin_kind: speaker
+      origin: George Knapp
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 6712e8fa-3b86-4982-a102-e2d38e0b29d6
+        title: George Knapp
+        slug: george-knapp
+      - node_id: 8625ca77-9860-40fe-b2fe-6ee74f1b5174
+        title: Jeremy Corbell
+        slug: jeremy-corbell
+      - node_id: c52fd2ac-fa87-43e8-8a8b-1bbd33ef6a28
+        title: Office of the Director of National Intelligence (ODNI)
+        slug: office-of-the-director-of-national-intelligence-odni
+    date: null
+    date_end: null
+    location_in_record: 00:11:34.9-00:11:38.8
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 5de4e296-4206-45f6-aa56-c3b8efb5c9e2
+      record_title: The Evolution of AAWSAP | Bigelow Podcast, Ep. 2
+      record_date: '2026-08-11'
+      record_reference: https://www.youtube.com/watch?v=hz7jHEgYzQw
+      content_hash: sha256:1aa9d864c5a4bb930164c278d9624c6bc0f84278ea4b5e57594fae9e21e90858
+      friendly_name: null
+  - claim_id: ffa06a2d-046c-4542-93a7-8ae442806734
+    claim_hash: 36d9b366fd9a20ec640ac1eb75437a4c5f31454c18c3fb322216695296605a9c
+    content: The Office of the Director of National Intelligence has since announced that the material gathered by its DIG
+      programme was all nonsense and came from grifters, liars and people wanting attention.
+    original_excerpt: They have since announced that it was all nonsense, that it's all grifters and liars and people who
+      want attention, all of it wave of their hand and wipe it out.
+    claim_type: administrative
+    attestation: first_hand
+    speaker:
+      node_id: 6712e8fa-3b86-4982-a102-e2d38e0b29d6
+      title: George Knapp
+    provenance_chain:
+      origin_kind: speaker
+      origin: George Knapp
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: c52fd2ac-fa87-43e8-8a8b-1bbd33ef6a28
+        title: Office of the Director of National Intelligence (ODNI)
+        slug: office-of-the-director-of-national-intelligence-odni
+    date: null
+    date_end: null
+    location_in_record: 00:11:39.6-00:11:48.8
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 5de4e296-4206-45f6-aa56-c3b8efb5c9e2
+      record_title: The Evolution of AAWSAP | Bigelow Podcast, Ep. 2
+      record_date: '2026-08-11'
+      record_reference: https://www.youtube.com/watch?v=hz7jHEgYzQw
+      content_hash: sha256:1aa9d864c5a4bb930164c278d9624c6bc0f84278ea4b5e57594fae9e21e90858
+      friendly_name: null
+  - claim_id: 5f14fd24-01c3-4d6a-a008-06edb3f290a6
+    claim_hash: 64e7d97124aa970bf42175afa95049601f1582867bb6c0c61affa9506095d539
+    content: Jeremy Corbell's allegation concerning Dylan Borland forms part of a broader controversy surrounding the Office
+      of the Director of National Intelligence's Director's Initiatives Group (DIG).
+    original_excerpt: Corbell’s allegation concerning Borland forms part of a broader controversy surrounding ODNI’s Director’s
+      Initiatives Group (DIG).
+    claim_type: administrative
+    attestation: null
+    speaker:
+      node_id: e921bccc-8a7a-4279-9873-8f3a5997be16
+      title: Christopher Sharp
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 20328e3c-bc7e-4529-82d9-3e7b5bcac165
+        title: Director's Initiatives Group (DIG)
+        slug: directors-initiatives-group-dig
+      - node_id: 8625ca77-9860-40fe-b2fe-6ee74f1b5174
+        title: Jeremy Corbell
+        slug: jeremy-corbell
+      - node_id: c442597b-8900-4212-98ee-ba7b29d985e2
+        title: Dylan Borland
+        slug: dylan-borland
+      - node_id: c52fd2ac-fa87-43e8-8a8b-1bbd33ef6a28
+        title: Office of the Director of National Intelligence (ODNI)
+        slug: office-of-the-director-of-national-intelligence-odni
+    date: null
+    date_end: null
+    location_in_record: char:2984-3109
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 9bea2ffb-0e64-484e-99d8-339086249e40
+      record_title: IC Watchdog Responds to Alleged UAP Whistleblower Leak — Liberation Times | Reimagining Old News
+      record_date: '2026-08-11'
+      record_reference: https://www.liberationtimes.com/home/intelligence-watchdog-warns-of-fbi-referral-over-alleged-disclosure-of-uap-whistleblower-testimony
+      content_hash: sha256:f8225cc90eefd747010a6c48788489108c8c2bf65c2183ad008a448529ecd031
+      friendly_name: null
+  - claim_id: d5ac6c46-f72c-4297-9892-f4076b21b69a
+    claim_hash: 8d874103f26d485083c38e19e23559d35f3b4c1dc39b21043e3041ba0ee62ff8
+    content: Jeremy Corbell alleged that the same unnamed Office of the Director of National Intelligence official circulated
+      damaging claims said to have emerged from another whistleblower's private meeting with the Director's Initiatives Group.
+    original_excerpt: Corbell also alleges that the same unnamed ODNI official circulated damaging claims said to have emerged
+      from another whistleblower’s private meeting with the group.
+    claim_type: hearsay
+    attestation: first_hand
+    speaker:
+      node_id: 8625ca77-9860-40fe-b2fe-6ee74f1b5174
+      title: Jeremy Corbell
+    provenance_chain:
+      origin_kind: speaker
+      origin: Jeremy Corbell
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 20328e3c-bc7e-4529-82d9-3e7b5bcac165
+        title: Director's Initiatives Group (DIG)
+        slug: directors-initiatives-group-dig
+      - node_id: 8625ca77-9860-40fe-b2fe-6ee74f1b5174
+        title: Jeremy Corbell
+        slug: jeremy-corbell
+      - node_id: c52fd2ac-fa87-43e8-8a8b-1bbd33ef6a28
+        title: Office of the Director of National Intelligence (ODNI)
+        slug: office-of-the-director-of-national-intelligence-odni
+    date: null
+    date_end: null
+    location_in_record: char:3116-3275
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 9bea2ffb-0e64-484e-99d8-339086249e40
+      record_title: IC Watchdog Responds to Alleged UAP Whistleblower Leak — Liberation Times | Reimagining Old News
+      record_date: '2026-08-11'
+      record_reference: https://www.liberationtimes.com/home/intelligence-watchdog-warns-of-fbi-referral-over-alleged-disclosure-of-uap-whistleblower-testimony
+      content_hash: sha256:f8225cc90eefd747010a6c48788489108c8c2bf65c2183ad008a448529ecd031
+      friendly_name: null
+  - claim_id: a3fc2408-4cfe-43e4-b015-7ff2c9c5df18
+    claim_hash: 2cd59bb2a1d6d9817f6253f7543d749e1144ebe48d9423f96c1575657562fcc4
+    content: Jeremy Corbell alleged that an Office of the Director of National Intelligence (ODNI) source disclosed details
+      of testimony provided by Dylan Borland, a UAP whistleblower who has made protected disclosures to the Office of the
+      Intelligence Community Inspector General and Congress.
+    original_excerpt: Investigative journalist Jeremy Corbell has alleged that an ODNI source disclosed details of testimony
+      provided by Dylan Borland, a UAP whistleblower who has made protected disclosures to the IC OIG and Congress.
+    claim_type: hearsay
+    attestation: first_hand
+    speaker:
+      node_id: 8625ca77-9860-40fe-b2fe-6ee74f1b5174
+      title: Jeremy Corbell
+    provenance_chain:
+      origin_kind: speaker
+      origin: Jeremy Corbell
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 4fb65b2c-296a-493d-bbc7-65e4b763c1f0
+        title: United States Congress
+        slug: united-states-congress
+      - node_id: 8625ca77-9860-40fe-b2fe-6ee74f1b5174
+        title: Jeremy Corbell
+        slug: jeremy-corbell
+      - node_id: c442597b-8900-4212-98ee-ba7b29d985e2
+        title: Dylan Borland
+        slug: dylan-borland
+      - node_id: c52fd2ac-fa87-43e8-8a8b-1bbd33ef6a28
+        title: Office of the Director of National Intelligence (ODNI)
+        slug: office-of-the-director-of-national-intelligence-odni
+      - node_id: f8f7643c-fe27-4547-8761-440b36e78097
+        title: Office of the Intelligence Community Inspector General (ICIG)
+        slug: office-of-the-intelligence-community-inspector-general-icig
+    date: null
+    date_end: null
+    location_in_record: char:424-692
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 9bea2ffb-0e64-484e-99d8-339086249e40
+      record_title: IC Watchdog Responds to Alleged UAP Whistleblower Leak — Liberation Times | Reimagining Old News
+      record_date: '2026-08-11'
+      record_reference: https://www.liberationtimes.com/home/intelligence-watchdog-warns-of-fbi-referral-over-alleged-disclosure-of-uap-whistleblower-testimony
+      content_hash: sha256:f8225cc90eefd747010a6c48788489108c8c2bf65c2183ad008a448529ecd031
+      friendly_name: null
+  - claim_id: b5da8621-abe6-48a1-bc72-6173256581a6
+    claim_hash: 2bf9163635317b82704a2143853ba3f2e53c67ea213830499317be8f43c687fc
+    content: An Office of the Director of National Intelligence spokesperson stated that ODNI has been and continues to be
+      focused on carrying out the objectives of President Donald Trump's executive orders and mandates, including assisting
+      with any relevant information related to UAP.
+    original_excerpt: ‘ODNI has been and continues to be focused on carrying out the objectives of President Trump's executive
+      orders and mandates, including assisting with any relevant information related to UAPs.’
+    claim_type: administrative
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: named
+      origin: Office of the Director of National Intelligence (ODNI)
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 816c219b-6372-49f6-9579-5eeabb9a7474
+        title: Donald Trump
+        slug: donald-trump
+      - node_id: c52fd2ac-fa87-43e8-8a8b-1bbd33ef6a28
+        title: Office of the Director of National Intelligence (ODNI)
+        slug: office-of-the-director-of-national-intelligence-odni
+    date: null
+    date_end: null
+    location_in_record: char:4555-4741
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 9bea2ffb-0e64-484e-99d8-339086249e40
+      record_title: IC Watchdog Responds to Alleged UAP Whistleblower Leak — Liberation Times | Reimagining Old News
+      record_date: '2026-08-11'
+      record_reference: https://www.liberationtimes.com/home/intelligence-watchdog-warns-of-fbi-referral-over-alleged-disclosure-of-uap-whistleblower-testimony
+      content_hash: sha256:f8225cc90eefd747010a6c48788489108c8c2bf65c2183ad008a448529ecd031
+      friendly_name: null
+  - claim_id: 3f851c33-8943-4bcc-b840-6da222dacfd5
+    claim_hash: 8ec612c0a1e02ba733895446f6e66217ac79a0b3f0b7ca91f74ab444641cdfb5
+    content: The Office of the Director of National Intelligence's statement did not directly address whether information
+      from Matthew Brown's meeting had been disclosed or whether ODNI was examining the allegation.
+    original_excerpt: The statement did not directly address whether information from Brown’s meeting had been disclosed or
+      whether ODNI was examining the allegation.
+    claim_type: administrative
+    attestation: null
+    speaker:
+      node_id: e921bccc-8a7a-4279-9873-8f3a5997be16
+      title: Christopher Sharp
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: c52fd2ac-fa87-43e8-8a8b-1bbd33ef6a28
+        title: Office of the Director of National Intelligence (ODNI)
+        slug: office-of-the-director-of-national-intelligence-odni
+      - node_id: eaacf562-80b6-48bc-8e23-10c75d8485b3
+        title: Matthew Brown
+        slug: matthew-brown
+    date: null
+    date_end: null
+    location_in_record: char:4749-4882
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 9bea2ffb-0e64-484e-99d8-339086249e40
+      record_title: IC Watchdog Responds to Alleged UAP Whistleblower Leak — Liberation Times | Reimagining Old News
+      record_date: '2026-08-11'
+      record_reference: https://www.liberationtimes.com/home/intelligence-watchdog-warns-of-fbi-referral-over-alleged-disclosure-of-uap-whistleblower-testimony
+      content_hash: sha256:f8225cc90eefd747010a6c48788489108c8c2bf65c2183ad008a448529ecd031
+      friendly_name: null
+  - claim_id: 700bc85a-966a-4079-98b1-6ba862882e5b
+    claim_hash: b0c435abc4091aa17c658251d80e3f0f219cf8041b36c42dba892e1187631fe4
+    content: Information discussed inside a Sensitive Compartmented Information Facility (SCIF) is not automatically classified,
+      since unclassified matters may also be discussed there.
+    original_excerpt: It noted that information discussed inside a Sensitive Compartmented Information Facility (SCIF) is
+      not automatically classified, since unclassified matters may also be discussed there, and stressed that simply speaking
+      inside a SCIF does not in itself confer whistleblower protections.
+    claim_type: administrative
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: named
+      origin: Office of the Director of National Intelligence (ODNI)
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 9bb3e171-2197-411c-ab51-c4ea9dd2048f
+        title: Sensitive Compartmented Information Facility (SCIF)
+        slug: sensitive-compartmented-information-facility-scif
+      - node_id: c52fd2ac-fa87-43e8-8a8b-1bbd33ef6a28
+        title: Office of the Director of National Intelligence (ODNI)
+        slug: office-of-the-director-of-national-intelligence-odni
+    date: null
+    date_end: null
+    location_in_record: char:5005-5279
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 9bea2ffb-0e64-484e-99d8-339086249e40
+      record_title: IC Watchdog Responds to Alleged UAP Whistleblower Leak — Liberation Times | Reimagining Old News
+      record_date: '2026-08-11'
+      record_reference: https://www.liberationtimes.com/home/intelligence-watchdog-warns-of-fbi-referral-over-alleged-disclosure-of-uap-whistleblower-testimony
+      content_hash: sha256:f8225cc90eefd747010a6c48788489108c8c2bf65c2183ad008a448529ecd031
+      friendly_name: null
+  - claim_id: 19a5bcdb-b2a5-4dc4-806d-8e61820f74ed
+    claim_hash: 66f6343a0f37b7688af6c6e518942929b9673407248eb63dc8581f20693b0737
+    content: Simply speaking inside a Sensitive Compartmented Information Facility (SCIF) does not in itself confer whistleblower
+      protections.
+    original_excerpt: and stressed that simply speaking inside a SCIF does not in itself confer whistleblower protections.
+    claim_type: administrative
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: named
+      origin: Office of the Director of National Intelligence (ODNI)
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 9bb3e171-2197-411c-ab51-c4ea9dd2048f
+        title: Sensitive Compartmented Information Facility (SCIF)
+        slug: sensitive-compartmented-information-facility-scif
+      - node_id: c52fd2ac-fa87-43e8-8a8b-1bbd33ef6a28
+        title: Office of the Director of National Intelligence (ODNI)
+        slug: office-of-the-director-of-national-intelligence-odni
+    date: null
+    date_end: null
+    location_in_record: char:5191-5279
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 9bea2ffb-0e64-484e-99d8-339086249e40
+      record_title: IC Watchdog Responds to Alleged UAP Whistleblower Leak — Liberation Times | Reimagining Old News
+      record_date: '2026-08-11'
+      record_reference: https://www.liberationtimes.com/home/intelligence-watchdog-warns-of-fbi-referral-over-alleged-disclosure-of-uap-whistleblower-testimony
+      content_hash: sha256:f8225cc90eefd747010a6c48788489108c8c2bf65c2183ad008a448529ecd031
+      friendly_name: null
+  - claim_id: de9e2e9d-a4d7-4c69-985f-6b3c84d52801
+    claim_hash: a53e44871f2ceca9e6ae460dc9fc66d5143b4bc821cf058244ed6ca203cab8c3
+    content: James E. Erdman III is a senior Central Intelligence Agency operations officer assigned to the Office of the
+      Director of National Intelligence on a joint-duty posting.
+    original_excerpt: James E. Erdman III, a senior CIA operations officer assigned to ODNI on a joint-duty posting, was among
+      the earliest members of the DIG and led its work on UAP, anomalous health incidents and the origins of COVID-19.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 38b84d4a-96df-4684-bb46-f6f64f392add
+        title: Central Intelligence Agency (CIA)
+        slug: central-intelligence-agency-cia
+      - node_id: ad492b48-4298-48fc-9a7a-5466291443f2
+        title: James E. Erdman III
+        slug: james-e-erdman-iii
+      - node_id: c52fd2ac-fa87-43e8-8a8b-1bbd33ef6a28
+        title: Office of the Director of National Intelligence (ODNI)
+        slug: office-of-the-director-of-national-intelligence-odni
+    date: null
+    date_end: null
+    location_in_record: char:5788-6002
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 9bea2ffb-0e64-484e-99d8-339086249e40
+      record_title: IC Watchdog Responds to Alleged UAP Whistleblower Leak — Liberation Times | Reimagining Old News
+      record_date: '2026-08-11'
+      record_reference: https://www.liberationtimes.com/home/intelligence-watchdog-warns-of-fbi-referral-over-alleged-disclosure-of-uap-whistleblower-testimony
+      content_hash: sha256:f8225cc90eefd747010a6c48788489108c8c2bf65c2183ad008a448529ecd031
+      friendly_name: null
+  - claim_id: ea20e9a7-1c11-4b4e-8c99-c5c9b52a6b1a
+    claim_hash: 028795881d5fd306dcaac1db5ccafb8b28aaf0e19cbf6d22c3a150fa04385b3a
+    content: James E. Erdman III, as a Central Intelligence Agency officer assigned to the Office of the Director of National
+      Intelligence, led the examination of allegations that implicated the Central Intelligence Agency in a secretive UAP
+      retrieval and reverse-engineering effort.
+    original_excerpt: Those concerns are particularly relevant because Erdman, as a CIA officer assigned to ODNI, led the
+      examination of allegations that implicated his home agency in a secretive UAP retrieval and reverse-engineering effort.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 38b84d4a-96df-4684-bb46-f6f64f392add
+        title: Central Intelligence Agency (CIA)
+        slug: central-intelligence-agency-cia
+      - node_id: ad492b48-4298-48fc-9a7a-5466291443f2
+        title: James E. Erdman III
+        slug: james-e-erdman-iii
+      - node_id: c52fd2ac-fa87-43e8-8a8b-1bbd33ef6a28
+        title: Office of the Director of National Intelligence (ODNI)
+        slug: office-of-the-director-of-national-intelligence-odni
+    date: null
+    date_end: null
+    location_in_record: char:6539-6751
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 9bea2ffb-0e64-484e-99d8-339086249e40
+      record_title: IC Watchdog Responds to Alleged UAP Whistleblower Leak — Liberation Times | Reimagining Old News
+      record_date: '2026-08-11'
+      record_reference: https://www.liberationtimes.com/home/intelligence-watchdog-warns-of-fbi-referral-over-alleged-disclosure-of-uap-whistleblower-testimony
+      content_hash: sha256:f8225cc90eefd747010a6c48788489108c8c2bf65c2183ad008a448529ecd031
+      friendly_name: null
+  - claim_id: cc8f9459-1461-4bbd-9aa6-e0badf70558b
+    claim_hash: a6f60dd8b5190ca253cd1b364cb2e5d04545dd2e18fa0bea739687cf77c1ad31
+    content: Three unnamed sources told Liberation Times that figures within the Office of the Director of National Intelligence
+      linked to the Central Intelligence Agency are resisting efforts by the Trump administration to release more substantial
+      information concerning UAP.
+    original_excerpt: Three sources have told Liberation Times that figures within ODNI linked to the CIA are resisting efforts
+      by the Trump administration to release more substantial information concerning UAP.
+    claim_type: hearsay
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: anonymous
+      origin: three people claiming knowledge of resistance to UAP disclosure within ODNI
+      relay:
+        - Liberation Times
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 38b84d4a-96df-4684-bb46-f6f64f392add
+        title: Central Intelligence Agency (CIA)
+        slug: central-intelligence-agency-cia
+      - node_id: 816c219b-6372-49f6-9579-5eeabb9a7474
+        title: Donald Trump
+        slug: donald-trump
+      - node_id: a7726ea1-8d0d-4d27-bdba-be309f70fea1
+        title: Liberation Times
+        slug: liberation-times
+      - node_id: c52fd2ac-fa87-43e8-8a8b-1bbd33ef6a28
+        title: Office of the Director of National Intelligence (ODNI)
+        slug: office-of-the-director-of-national-intelligence-odni
+    date: null
+    date_end: null
+    location_in_record: char:9405-9590
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 9bea2ffb-0e64-484e-99d8-339086249e40
+      record_title: IC Watchdog Responds to Alleged UAP Whistleblower Leak — Liberation Times | Reimagining Old News
+      record_date: '2026-08-11'
+      record_reference: https://www.liberationtimes.com/home/intelligence-watchdog-warns-of-fbi-referral-over-alleged-disclosure-of-uap-whistleblower-testimony
+      content_hash: sha256:f8225cc90eefd747010a6c48788489108c8c2bf65c2183ad008a448529ecd031
+      friendly_name: null
+  - claim_id: 4c2d6126-3476-43ba-a654-fa91f1014b8a
+    claim_hash: 52db0bd3ef94bd6c16b816cdf10d1b1ed481986cae25f0ee7f9e9ba5f09b1c97
+    content: Three unnamed sources claiming knowledge of resistance to UAP disclosure within the Office of the Director of
+      National Intelligence identified Aaron Lukas, the Principal Deputy Director of National Intelligence, as one of the
+      officials allegedly providing such resistance.
+    original_excerpt: Those sources identified Aaron Lukas, the Principal Deputy Director of National Intelligence, as one
+      of the officials allegedly providing such resistance.
+    claim_type: hearsay
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: anonymous
+      origin: three people claiming knowledge of resistance to UAP disclosure within ODNI
+      relay:
+        - Liberation Times
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: c52fd2ac-fa87-43e8-8a8b-1bbd33ef6a28
+        title: Office of the Director of National Intelligence (ODNI)
+        slug: office-of-the-director-of-national-intelligence-odni
+      - node_id: f2bea849-8b2e-425e-a368-946e39e457c1
+        title: Aaron Lukas
+        slug: aaron-lukas
+    date: null
+    date_end: null
+    location_in_record: char:9596-9739
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 9bea2ffb-0e64-484e-99d8-339086249e40
+      record_title: IC Watchdog Responds to Alleged UAP Whistleblower Leak — Liberation Times | Reimagining Old News
+      record_date: '2026-08-11'
+      record_reference: https://www.liberationtimes.com/home/intelligence-watchdog-warns-of-fbi-referral-over-alleged-disclosure-of-uap-whistleblower-testimony
+      content_hash: sha256:f8225cc90eefd747010a6c48788489108c8c2bf65c2183ad008a448529ecd031
+      friendly_name: null
+  - claim_id: 3d9516af-ec8c-4d81-a8fc-dd395553ec7e
+    claim_hash: 4ab4d075152b506559eb8fd4e8a0c40dc2efbc062d367dc5d802d29dc234fdea
+    content: According to his official Office of the Director of National Intelligence biography, Aaron Lukas managed sensitive
+      clandestine programmes, conducted covert operations and maintained liaison relationships around the world.
+    original_excerpt: According to his official ODNI biography, he managed sensitive clandestine programs, conducted covert
+      operations and maintained liaison relationships around the world.
+    claim_type: administrative
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: document
+      origin: Aaron Lukas's official ODNI biography
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: c52fd2ac-fa87-43e8-8a8b-1bbd33ef6a28
+        title: Office of the Director of National Intelligence (ODNI)
+        slug: office-of-the-director-of-national-intelligence-odni
+      - node_id: f2bea849-8b2e-425e-a368-946e39e457c1
+        title: Aaron Lukas
+        slug: aaron-lukas
+    date: null
+    date_end: null
+    location_in_record: char:9869-10030
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 9bea2ffb-0e64-484e-99d8-339086249e40
+      record_title: IC Watchdog Responds to Alleged UAP Whistleblower Leak — Liberation Times | Reimagining Old News
+      record_date: '2026-08-11'
+      record_reference: https://www.liberationtimes.com/home/intelligence-watchdog-warns-of-fbi-referral-over-alleged-disclosure-of-uap-whistleblower-testimony
+      content_hash: sha256:f8225cc90eefd747010a6c48788489108c8c2bf65c2183ad008a448529ecd031
+      friendly_name: null
+  - claim_id: e2f6e4d3-421b-455c-baf5-beaf35b9a0dc
+    claim_hash: 27731fe7e7fcd35d9017a581f24ffb758ecc6d9b07a106d035204360b0f9d4e7
+    content: While working in the intelligence community, David Grusch worked on sensitive programmes that were purposely
+      hidden from the Office of the Director of National Intelligence oversight staff and briefed only to the White House,
+      being kept away from United States Congress through a shell game of not reporting programmes.
+    original_excerpt: when I was uh back in the intelligence community there were sensitive programs i worked on that we purposely
+      hid from the director of national intelligence oversight staff um stuff we only briefed the white house and you know
+      kept it away from congress through a unique shell game of not reporting programs
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: d4241f5a-1063-4970-ba02-5a391c02d96d
+      title: David Charles Grusch
+    provenance_chain:
+      origin_kind: speaker
+      origin: David Grusch
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 4fb65b2c-296a-493d-bbc7-65e4b763c1f0
+        title: United States Congress
+        slug: united-states-congress
+      - node_id: 64d41f78-598d-433c-a49d-f0d19fd62b27
+        title: Special Access Program (SAP)
+        slug: special-access-program-sap
+      - node_id: c52fd2ac-fa87-43e8-8a8b-1bbd33ef6a28
+        title: Office of the Director of National Intelligence (ODNI)
+        slug: office-of-the-director-of-national-intelligence-odni
+      - node_id: d4241f5a-1063-4970-ba02-5a391c02d96d
+        title: David Charles Grusch
+        slug: david-charles-grusch
+    date: null
+    date_end: null
+    location_in_record: 00:08:09.3-00:08:28.2
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: eb21cb34-eec1-462d-9127-2d5e367cdfb9
+      record_title: 'David Grusch: The Whistleblower Who Told Congress We''re Not Alone'
+      record_date: '2026-08-13'
+      record_reference: https://www.youtube.com/watch?v=LBXmqvFs0Ec
+      content_hash: sha256:c685d061d160da6ae664b97e8b033d8d36090ea76d13c45792556dae22ae3344
+      friendly_name: null
+  - claim_id: 6900a24d-f382-448a-a4d3-a47588a4de67
+    claim_hash: 49818c35c81398d0d01b9498471f5a280b35d517786207a82151a72efd6b0aac
+    content: Stephanie O'Sullivan was James Clapper's deputy at the Office of the Director of National Intelligence.
+    original_excerpt: his deputy Stephanie O’Sullivan
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: a3b88bf2-de8f-45bf-addf-fadd9244c4e5
+        title: James R. Clapper
+        slug: james-r-clapper
+      - node_id: a7d8dd5f-847d-4540-bb82-7a6770b55305
+        title: Stephanie O'Sullivan
+        slug: stephanie-osullivan
+      - node_id: c52fd2ac-fa87-43e8-8a8b-1bbd33ef6a28
+        title: Office of the Director of National Intelligence (ODNI)
+        slug: office-of-the-director-of-national-intelligence-odni
+    date: null
+    date_end: null
+    location_in_record: char:6946-6969
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3b884786-04ff-4e4b-816f-621161e9d948
+      record_title: Pressure Mounts on President Trump as UAP Disclosure Advocates Intensify Their Push
+      record_date: '2026-08-19'
+      record_reference: https://www.liberationtimes.com/home/the-push-for-ufo-disclosure-intensifies-as-pressure-mounts-on-donald-trump
+      content_hash: sha256:dc288b5d31307a5eb396b1ecc4f3e2ee1e01673ec8707bb47111173faa83e683
+      friendly_name: null

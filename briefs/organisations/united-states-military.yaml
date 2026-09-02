@@ -1,0 +1,202 @@
+schema: anomalica/brief/1
+brief_hash: 5e62fa6f6f01bcdd66ec415e44230317354c39f18bf6d644e488dfea90542790
+page:
+  kind: entity
+  node_id: 32db0378-4dbe-4ae9-bd4f-47f7906ca892
+  node_type: organisation
+  title: United States military
+  slug: united-states-military
+  claim_count: 4
+  claim_count_total: 4
+generated:
+  graph_version: '2026-09-01T10:10:49.863545+00:00'
+size:
+  claims: 4
+  tokens_estimated: 1230
+  sized_against: 1050000
+publication:
+  status: published
+  note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
+    transcripts are gated elsewhere.
+belonging:
+  verified: 0
+  suspect_excluded: 0
+  unreviewed: 4
+related_nodes:
+  - node_id: e764620e-fd8c-48ec-87c3-f95cd7a5cbf3
+    title: Blair House meeting of 1949-07-14
+    node_type: event
+    slug: blair-house-meeting-of-1949-07-14
+    shared_claims: 1
+  - node_id: c430b2b2-7900-45c9-9882-98ac4ab14e88
+    title: Federal Bureau of Investigation (FBI)
+    node_type: organisation
+    slug: federal-bureau-of-investigation-fbi
+    shared_claims: 1
+  - node_id: c16c86b6-7526-46cd-bcd8-7f74283ebf2c
+    title: Jonathan Caplan
+    node_type: person
+    slug: jonathan-caplan
+    shared_claims: 1
+  - node_id: 93df8d48-8068-409a-a198-27e923af6cde
+    title: Majestic 12 (MJ-12)
+    node_type: project
+    slug: majestic-12-mj-12
+    shared_claims: 1
+  - node_id: cf5dd6be-9f2f-4381-ae7c-5097b5b803c7
+    title: William F. Hamilton
+    node_type: person
+    slug: william-f-hamilton
+    shared_claims: 1
+claims:
+  - claim_id: 28ff8399-37f3-4fca-9fbf-466007a4cb47
+    claim_hash: e5f2cfa2213e145a6cfd2c33ae72a0c981c763eb8b4ee6d60eaf29cfbecc26cf
+    content: William F. Hamilton believes most of the physical evidence relating to spacecraft of extraterrestrial origin
+      is held by the United States military within highly compartmentalized, secure installations.
+    original_excerpt: We feel that most of the physical evidence is in the hands of the United States military within very
+      compartmentalized, highly secure installations.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: cf5dd6be-9f2f-4381-ae7c-5097b5b803c7
+      title: William F. Hamilton
+    provenance_chain:
+      origin_kind: speaker
+      origin: William F. Hamilton
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 32db0378-4dbe-4ae9-bd4f-47f7906ca892
+        title: United States military
+        slug: united-states-military
+      - node_id: cf5dd6be-9f2f-4381-ae7c-5097b5b803c7
+        title: William F. Hamilton
+        slug: william-f-hamilton
+    date: null
+    date_end: null
+    location_in_record: 00:10:04.8-00:10:14.6
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: fba11307-8cdc-4ed9-90fb-9488690e78ab
+      record_title: 'Cosmic Top Secret: Bill Hamilton on UFO Crash Retrievals & Alien Technology Being Tested'
+      record_date: null
+      record_reference: https://www.youtube.com/watch?v=0DS5aPfuwiM
+      content_hash: sha256:597b7fc0f0713f00cd7ea3119926cbf6a0497bab650237d28c00b49383a9bb02
+      friendly_name: null
+  - claim_id: c7ecb9c5-468c-43a0-8479-dfabafa37bd1
+    claim_hash: ac3331f30f7c6d81b5a0e2f34b9fb879747bc1064ba9808202d10cc2642e29a0
+    content: The provenance of the Majestic 12 documents is officially disputed by the United States Federal Bureau of Investigation
+      (FBI) and the United States military.
+    original_excerpt: the provenance of which is still, of course, disputed officially by the FBI and the US military.
+    claim_type: administrative
+    attestation: null
+    speaker:
+      node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+      title: Ross Coulthart
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 32db0378-4dbe-4ae9-bd4f-47f7906ca892
+        title: United States military
+        slug: united-states-military
+      - node_id: 93df8d48-8068-409a-a198-27e923af6cde
+        title: Majestic 12 (MJ-12)
+        slug: majestic-12-mj-12
+      - node_id: c430b2b2-7900-45c9-9882-98ac4ab14e88
+        title: Federal Bureau of Investigation (FBI)
+        slug: federal-bureau-of-investigation-fbi
+    date: null
+    date_end: null
+    location_in_record: 00:17:02.4-00:17:07.5
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: d17e43f2-fe6c-4a2d-824d-fd379e6891c5
+      record_title: Watergate, the JFK assassination and a UFO secret at the center of it all | Reality Check
+      record_date: '2026-06-18'
+      record_reference: https://www.youtube.com/watch?v=PeULVsP-jEQ
+      content_hash: sha256:997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc07360cb2ab1
+      friendly_name: null
+  - claim_id: 34e86f39-6c24-4e58-85cb-64760e3118f1
+    claim_hash: 24ebfd3799a9fcc0a4c4dfa075571e74ddb5c89556fa9ab6d8d7ce2a2e3303a1
+    content: The newly disclosed page of the Blair House meeting annex discusses the risks of approaching craft and the number
+      of casualties that had occurred with United States military planes being shot down.
+    original_excerpt: And it goes on to talk about some other matters, for example, the risks of approaching craft and the
+      number of casualties that had occurred with Air Force planes being shot down and they should take a less hostile approach
+      to these craft because we were losing planes and men.
+    claim_type: administrative
+    attestation: first_hand
+    speaker:
+      node_id: c16c86b6-7526-46cd-bcd8-7f74283ebf2c
+      title: Jonathan Caplan
+    provenance_chain:
+      origin_kind: speaker
+      origin: Jonathan Caplan
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 32db0378-4dbe-4ae9-bd4f-47f7906ca892
+        title: United States military
+        slug: united-states-military
+      - node_id: e764620e-fd8c-48ec-87c3-f95cd7a5cbf3
+        title: Blair House meeting of 1949-07-14
+        slug: blair-house-meeting-of-1949-07-14
+    date: null
+    date_end: null
+    location_in_record: 00:31:40.8-00:32:00.9
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: d17e43f2-fe6c-4a2d-824d-fd379e6891c5
+      record_title: Watergate, the JFK assassination and a UFO secret at the center of it all | Reality Check
+      record_date: '2026-06-18'
+      record_reference: https://www.youtube.com/watch?v=PeULVsP-jEQ
+      content_hash: sha256:997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc07360cb2ab1
+      friendly_name: null
+  - claim_id: 5d0ba720-7e51-4d2e-b5be-4f530e23d393
+    claim_hash: 17b43b658abc44401e66984abf4100200609df8cb66e619f48712eb6cc492c1f
+    content: Jonathan Caplan considers that orbs and plasma have always troubled the American intelligence services and are
+      not something that is understood.
+    original_excerpt: I think the thing that has always troubled the American intelligence services is orbs and plasma and
+      I don't think that is something that is understood
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: c16c86b6-7526-46cd-bcd8-7f74283ebf2c
+      title: Jonathan Caplan
+    provenance_chain:
+      origin_kind: speaker
+      origin: Jonathan Caplan
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 32db0378-4dbe-4ae9-bd4f-47f7906ca892
+        title: United States military
+        slug: united-states-military
+      - node_id: c16c86b6-7526-46cd-bcd8-7f74283ebf2c
+        title: Jonathan Caplan
+        slug: jonathan-caplan
+    date: null
+    date_end: null
+    location_in_record: 01:28:16.7-01:28:26.6
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: d17e43f2-fe6c-4a2d-824d-fd379e6891c5
+      record_title: Watergate, the JFK assassination and a UFO secret at the center of it all | Reality Check
+      record_date: '2026-06-18'
+      record_reference: https://www.youtube.com/watch?v=PeULVsP-jEQ
+      content_hash: sha256:997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc07360cb2ab1
+      friendly_name: null

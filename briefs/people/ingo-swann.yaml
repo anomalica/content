@@ -1,0 +1,1617 @@
+schema: anomalica/brief/1
+brief_hash: fc3f06b013ab9270bd50730ee31650ea693d0f8b11d6fef67c58c89677461fa5
+page:
+  kind: entity
+  node_id: 8a029ed9-27c5-403c-af49-2e11179910e4
+  node_type: person
+  title: Ingo Swann
+  slug: ingo-swann
+  claim_count: 41
+  claim_count_total: 41
+generated:
+  graph_version: '2026-09-01T10:10:49.863545+00:00'
+size:
+  claims: 41
+  tokens_estimated: 11210
+  sized_against: 1050000
+publication:
+  status: published
+  note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
+    transcripts are gated elsewhere.
+belonging:
+  verified: 0
+  suspect_excluded: 0
+  unreviewed: 41
+related_nodes:
+  - node_id: d78ee7e3-9c01-43d4-b66b-f5f7c4191753
+    title: Jupiter remote viewing session
+    node_type: event
+    slug: jupiter-remote-viewing-session
+    shared_claims: 6
+  - node_id: 21e9e5d4-d910-4ff0-b875-a44d75422746
+    title: Ed Dames
+    node_type: person
+    slug: ed-dames
+    shared_claims: 5
+  - node_id: 5ec014d7-24dd-43a2-afa0-6bac966d33a4
+    title: Project STARGATE
+    node_type: project
+    slug: project-stargate
+    shared_claims: 4
+  - node_id: 41c9281c-4a11-4399-b324-a8486a96c766
+    title: Remote Viewing (RV)
+    node_type: topic
+    slug: remote-viewing-rv
+    shared_claims: 4
+  - node_id: fd2faec4-ecaf-4f91-abec-e55c06c70e92
+    title: SRI International
+    node_type: organisation
+    slug: sri-international
+    shared_claims: 4
+  - node_id: 34fa7ace-5c72-4a1c-80b6-01f654eefe00
+    title: Stanford Research Institute (SRI)
+    node_type: organisation
+    slug: stanford-research-institute-sri
+    shared_claims: 4
+  - node_id: c28e8e30-1748-4e98-9b84-02407a8e1e26
+    title: Coordinate Remote Viewing
+    node_type: topic
+    slug: coordinate-remote-viewing
+    shared_claims: 3
+  - node_id: 6dcdfe60-bc2f-4be2-a041-9957a82f371e
+    title: Harold E. Puthoff
+    node_type: person
+    slug: harold-e-puthoff
+    shared_claims: 3
+  - node_id: 82998c55-df89-4fb9-882a-d2e2b1ebfe7a
+    title: Ingo Swann's 1975-1977 remote viewing episodes
+    node_type: event
+    slug: ingo-swanns-1975-1977-remote-viewing-episodes
+    shared_claims: 3
+  - node_id: 96278e27-75e6-49fe-8ea6-a0f4f5ff1f8a
+    title: United States Army
+    node_type: organisation
+    slug: united-states-army
+    shared_claims: 3
+  - node_id: 38b84d4a-96df-4684-bb46-f6f64f392add
+    title: Central Intelligence Agency (CIA)
+    node_type: organisation
+    slug: central-intelligence-agency-cia
+    shared_claims: 2
+  - node_id: b83494b0-eac6-4b7c-8852-2c000d801d54
+    title: Controlled Remote Viewing (CRV)
+    node_type: topic
+    slug: controlled-remote-viewing-crv
+    shared_claims: 2
+  - node_id: 8161270a-248d-424a-8aaa-f76999efc02b
+    title: Thomas Wilson
+    node_type: person
+    slug: thomas-wilson
+    shared_claims: 2
+  - node_id: 33853e8e-4eae-4c23-81c8-f8b8d6f405aa
+    title: Washington Monument
+    node_type: object
+    slug: washington-monument
+    shared_claims: 2
+  - node_id: 9ab76638-a596-48f1-9a58-9c9251cc97f3
+    title: Eric Davis
+    node_type: person
+    slug: eric-davis
+    shared_claims: 1
+  - node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
+    title: Jacques Vallée
+    node_type: person
+    slug: jacques-vallee
+    shared_claims: 1
+  - node_id: 5e47c787-005b-4c91-ba4b-c9bec48146c9
+    title: National Aeronautics and Space Administration (NASA)
+    node_type: organisation
+    slug: national-aeronautics-and-space-administration-nasa
+    shared_claims: 1
+  - node_id: e6ee4cde-c5f4-4f02-a164-a66ccdb5bb50
+    title: Pat Price
+    node_type: person
+    slug: pat-price
+    shared_claims: 1
+  - node_id: 9decaa7c-b419-402d-bf42-d766b82ad39b
+    title: Pioneer 10
+    node_type: object
+    slug: pioneer-10
+    shared_claims: 1
+  - node_id: eaceaab4-6d50-49da-9974-e72719de76e9
+    title: Russell Targ
+    node_type: person
+    slug: russell-targ
+    shared_claims: 1
+claims:
+  - claim_id: df72ab9c-594b-4c7f-aed0-926606b21c24
+    claim_hash: 6be921e86490e07bc1a68ffcce088ecb88c2244015ee6bd79244f483ef6daaa8
+    content: Jacques Vallée considers the Stanford Research Institute (SRI) experiments with Ingo Swann and Pat Price as suggesting
+      that remote viewing is based on an addressing scheme.
+    original_excerpt: The SRI experiments with Swann and Price, for example, suggest that remote viewing is based on an addressing
+      scheme.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
+      title: Jacques Vallée
+    provenance_chain:
+      origin_kind: speaker
+      origin: Jacques Vallée
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
+        title: Jacques Vallée
+        slug: jacques-vallee
+      - node_id: 34fa7ace-5c72-4a1c-80b6-01f654eefe00
+        title: Stanford Research Institute (SRI)
+        slug: stanford-research-institute-sri
+      - node_id: 41c9281c-4a11-4399-b324-a8486a96c766
+        title: Remote Viewing (RV)
+        slug: remote-viewing-rv
+      - node_id: 8a029ed9-27c5-403c-af49-2e11179910e4
+        title: Ingo Swann
+        slug: ingo-swann
+      - node_id: e6ee4cde-c5f4-4f02-a164-a66ccdb5bb50
+        title: Pat Price
+        slug: pat-price
+    date: null
+    date_end: null
+    location_in_record: ch13:62704-62813
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: f0690aba-c78b-47f4-bb2f-f94ea04d55ee
+      record_title: 'Messengers of Deception: UFO Contacts and Cults'
+      record_date: '0101-01-01'
+      record_reference: null
+      content_hash: sha256:0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5ac9fd3168
+      friendly_name: 0101-01-01-ebook-messengers-of-deception-ufo-contacts-and-cults
+  - claim_id: 721e1e48-e798-4c00-b8de-0bd911502e83
+    claim_hash: ca78299e2d289175e35c70b8f49e97cce14ead4578955b2406ad4a5cc549e7e8
+    content: Eric W. Davis told Thomas Wilson about Ingo Swann's story.
+    original_excerpt: Ingo's story
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 9ab76638-a596-48f1-9a58-9c9251cc97f3
+      title: Eric Davis
+    provenance_chain:
+      origin_kind: speaker
+      origin: Eric W. Davis
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 8161270a-248d-424a-8aaa-f76999efc02b
+        title: Thomas Wilson
+        slug: thomas-wilson
+      - node_id: 8a029ed9-27c5-403c-af49-2e11179910e4
+        title: Ingo Swann
+        slug: ingo-swann
+      - node_id: 9ab76638-a596-48f1-9a58-9c9251cc97f3
+        title: Eric Davis
+        slug: eric-davis
+    date: null
+    date_end: null
+    location_in_record: char:24155-24162
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: ef5c864a-3a92-4358-b991-3fa2be4df4da
+      record_title: EWD Notes - Eric Davis Meeting with Adm. Wilson
+      record_date: '2002-10-16'
+      record_reference: https://www.congress.gov/117/meeting/house/114761/documents/HHRG-117-IG05-20220517-SD001.pdf
+      content_hash: sha256:88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7f46f9a9d
+      friendly_name: 2002-10-16-pdf-ewd-notes-eric-davis-meeting-with-adm-wilson
+  - claim_id: 923f7da0-03d8-44e9-b82a-6ce05154136c
+    claim_hash: 329d9952a6969542a34574c95c7a1cd0ea8988dc7725cbabfeb4e7064d372788
+    content: Thomas Wilson had no information about Ingo Swann's story or about the 1974 remote viewer woman's story from
+      his own sources.
+    original_excerpt: Don't know about Ingo, Axelrod, or RVer woman at WPAFB - doesn't have info on their stories from sources.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 8161270a-248d-424a-8aaa-f76999efc02b
+      title: Thomas Wilson
+    provenance_chain:
+      origin_kind: speaker
+      origin: Thomas Wilson
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 8161270a-248d-424a-8aaa-f76999efc02b
+        title: Thomas Wilson
+        slug: thomas-wilson
+      - node_id: 8a029ed9-27c5-403c-af49-2e11179910e4
+        title: Ingo Swann
+        slug: ingo-swann
+    date: null
+    date_end: null
+    location_in_record: char:24429-24526
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: ef5c864a-3a92-4358-b991-3fa2be4df4da
+      record_title: EWD Notes - Eric Davis Meeting with Adm. Wilson
+      record_date: '2002-10-16'
+      record_reference: https://www.congress.gov/117/meeting/house/114761/documents/HHRG-117-IG05-20220517-SD001.pdf
+      content_hash: sha256:88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7f46f9a9d
+      friendly_name: 2002-10-16-pdf-ewd-notes-eric-davis-meeting-with-adm-wilson
+  - claim_id: 036a7d61-7839-4513-b415-008948231ccf
+    claim_hash: f98f63126a99887f37165820cdd75c6670e370350a514416a281111d3907b4ae
+    content: Ingo Swann's exotic UFO-related memoir describes covert meetings between 1975 and 1977 with a shadowy group of
+      individuals that led to his participation in remote-viewing evidence of intelligence on the moon.
+    original_excerpt: RV pioneer Ingo Swann came out with an exotic UFO-related memoir played out between 1975 and 1977 in
+      his book Penetration (1998). It told of covert meetings with a shadowy group of individuals that led to Swann participating
+      in remote viewing evidence of intelligence on the moon
+    claim_type: testimony
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: named
+      origin: Ingo Swann
+      relay:
+        - Penetration
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 82998c55-df89-4fb9-882a-d2e2b1ebfe7a
+        title: Ingo Swann's 1975-1977 remote viewing episodes
+        slug: ingo-swanns-1975-1977-remote-viewing-episodes
+      - node_id: 8a029ed9-27c5-403c-af49-2e11179910e4
+        title: Ingo Swann
+        slug: ingo-swann
+    date: '1975'
+    date_end: null
+    location_in_record: ch23:32389-32664
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 32687cf8-a827-40a9-b9f4-308ca4d9b2b3
+      record_title: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
+      record_date: '2005-11-14'
+      record_reference: null
+      content_hash: sha256:c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95d6ac9c3b
+      friendly_name: 2005-11-14-ebook-hair-of-the-alien-dna-and-other-forensic-evidence-for-alien
+  - claim_id: 79afe67f-d388-4fab-b5f4-69b599ca4bae
+    claim_hash: 4d1a605ff0cd0f4cf9f21c0e41377fd47d4487441d91dba53b584bb5a0b01a8d
+    content: Ingo Swann's memoir Penetration describes an encounter with a buxom extraterrestrial female at a Los Angeles
+      supermarket.
+    original_excerpt: an L.A. supermarket encounter with a buxom ET female
+    claim_type: testimony
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: named
+      origin: Ingo Swann
+      relay:
+        - Penetration
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 82998c55-df89-4fb9-882a-d2e2b1ebfe7a
+        title: Ingo Swann's 1975-1977 remote viewing episodes
+        slug: ingo-swanns-1975-1977-remote-viewing-episodes
+      - node_id: 8a029ed9-27c5-403c-af49-2e11179910e4
+        title: Ingo Swann
+        slug: ingo-swann
+    date: null
+    date_end: null
+    location_in_record: ch23:32670-32716
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 32687cf8-a827-40a9-b9f4-308ca4d9b2b3
+      record_title: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
+      record_date: '2005-11-14'
+      record_reference: null
+      content_hash: sha256:c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95d6ac9c3b
+      friendly_name: 2005-11-14-ebook-hair-of-the-alien-dna-and-other-forensic-evidence-for-alien
+  - claim_id: 241aa645-b4fb-4afd-b0c8-84668cfa3160
+    claim_hash: 161648db443f18b369bce1c5060d20fb6358011701c82bcd043bb545237b5392
+    content: Ingo Swann's memoir Penetration describes secretly observing a UFO over an Alaskan lake.
+    original_excerpt: and secretly observing a UFO over an Alaskan lake.
+    claim_type: testimony
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: named
+      origin: Ingo Swann
+      relay:
+        - Penetration
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 82998c55-df89-4fb9-882a-d2e2b1ebfe7a
+        title: Ingo Swann's 1975-1977 remote viewing episodes
+        slug: ingo-swanns-1975-1977-remote-viewing-episodes
+      - node_id: 8a029ed9-27c5-403c-af49-2e11179910e4
+        title: Ingo Swann
+        slug: ingo-swann
+    date: null
+    date_end: null
+    location_in_record: ch23:32724-32769
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 32687cf8-a827-40a9-b9f4-308ca4d9b2b3
+      record_title: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
+      record_date: '2005-11-14'
+      record_reference: null
+      content_hash: sha256:c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95d6ac9c3b
+      friendly_name: 2005-11-14-ebook-hair-of-the-alien-dna-and-other-forensic-evidence-for-alien
+  - claim_id: 11171130-a8f8-4ecc-8e61-804212377dc9
+    claim_hash: 2f22761034422dbb99ca3c56fd26584dd3b0ebb4e51bb7f9554ac226e9d351ef
+    content: Ingo Swann, one of the psychics working at SRI International, suggested using map coordinates to identify a specific
+      location as a remote viewing target, giving rise to the coordinate targeting system.
+    original_excerpt: As I understand it, one of the psychics working at the lab, Ingo Swann, suggested the answer. They could
+      use map coordinates to identify a specific location on the ground. Hence was born what is now known as the "coordinate
+      system."
+    claim_type: testimony
+    attestation: second_hand
+    speaker:
+      node_id: 9caa600b-5ac0-4ec4-b956-10e029417fc8
+      title: Joseph McMoneagle
+    provenance_chain:
+      origin_kind: named
+      origin: unnamed people involved, as related to Joseph McMoneagle
+      relay:
+        - people involved in the events
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 8a029ed9-27c5-403c-af49-2e11179910e4
+        title: Ingo Swann
+        slug: ingo-swann
+      - node_id: c28e8e30-1748-4e98-9b84-02407a8e1e26
+        title: Coordinate Remote Viewing
+        slug: coordinate-remote-viewing
+      - node_id: fd2faec4-ecaf-4f91-abec-e55c06c70e92
+        title: SRI International
+        slug: sri-international
+    date: null
+    date_end: null
+    location_in_record: ch17:10096-10320
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 6e543cda-3973-4882-854c-929a9aa608ab
+      record_title: Remote Viewing Secrets
+      record_date: '2013-03-22'
+      record_reference: null
+      content_hash: sha256:498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4d6dbbe35
+      friendly_name: 2013-03-22-ebook-remote-viewing-secrets
+  - claim_id: 8c0f915c-2a1a-4bf2-9f19-f3de36065f92
+    claim_hash: 8b46849aca013f0b9e2c367c8a20d2277c685caac8197d61b6492f43a222bfdb
+    content: Controlled Remote Viewing was originally developed by Ingo Swann while working at SRI International.
+    original_excerpt: Originally developed by Ingo Swann while working at SRI-International, this is now the most commonly
+      referred to or generally accepted method of remote viewing
+    claim_type: administrative
+    attestation: first_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: speaker
+      origin: Joseph McMoneagle
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 8a029ed9-27c5-403c-af49-2e11179910e4
+        title: Ingo Swann
+        slug: ingo-swann
+      - node_id: b83494b0-eac6-4b7c-8852-2c000d801d54
+        title: Controlled Remote Viewing (CRV)
+        slug: controlled-remote-viewing-crv
+      - node_id: fd2faec4-ecaf-4f91-abec-e55c06c70e92
+        title: SRI International
+        slug: sri-international
+    date: null
+    date_end: null
+    location_in_record: ch17:50314-50466
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 6e543cda-3973-4882-854c-929a9aa608ab
+      record_title: Remote Viewing Secrets
+      record_date: '2013-03-22'
+      record_reference: null
+      content_hash: sha256:498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4d6dbbe35
+      friendly_name: 2013-03-22-ebook-remote-viewing-secrets
+  - claim_id: 461ebe13-3d8e-42d6-a107-6174145dbe13
+    claim_hash: 428ef69f76565d7ecf16a556da6921952e6bcb3fb26e240d22a2d0afd7eec8ef
+    content: Joseph McMoneagle states that the originator of Controlled Remote Viewing did not distribute an all-inclusive
+      document describing the training system.
+    original_excerpt: The originator of this training system did not distribute an all-inclusive document with this training
+      system either.
+    claim_type: administrative
+    attestation: first_hand
+    speaker:
+      node_id: 9caa600b-5ac0-4ec4-b956-10e029417fc8
+      title: Joseph McMoneagle
+    provenance_chain:
+      origin_kind: speaker
+      origin: Joseph McMoneagle
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 8a029ed9-27c5-403c-af49-2e11179910e4
+        title: Ingo Swann
+        slug: ingo-swann
+      - node_id: b83494b0-eac6-4b7c-8852-2c000d801d54
+        title: Controlled Remote Viewing (CRV)
+        slug: controlled-remote-viewing-crv
+    date: null
+    date_end: null
+    location_in_record: ch17:51045-51155
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 6e543cda-3973-4882-854c-929a9aa608ab
+      record_title: Remote Viewing Secrets
+      record_date: '2013-03-22'
+      record_reference: null
+      content_hash: sha256:498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4d6dbbe35
+      friendly_name: 2013-03-22-ebook-remote-viewing-secrets
+  - claim_id: 8964ec41-9270-4b8e-b2db-066f57ddcbdf
+    claim_hash: 6634a8d1aa5bbb0cb9797d40391d9a30627871cd4df2218eae1cd350f57e947b
+    content: Ingo Swann was a well-known psychic and remote viewer who worked with the laboratory at SRI International.
+    original_excerpt: Ingo Swann, a well-known psychic and remote viewer with the laboratory at SRI-International, and one
+      of the original participants in the CIA evaluations of remote viewing back in the early 1970s, made astounding predictions
+      concerning the outlying planets in our solar system.
+    claim_type: administrative
+    attestation: first_hand
+    speaker:
+      node_id: 9caa600b-5ac0-4ec4-b956-10e029417fc8
+      title: Joseph McMoneagle
+    provenance_chain:
+      origin_kind: speaker
+      origin: Joseph McMoneagle
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 8a029ed9-27c5-403c-af49-2e11179910e4
+        title: Ingo Swann
+        slug: ingo-swann
+      - node_id: fd2faec4-ecaf-4f91-abec-e55c06c70e92
+        title: SRI International
+        slug: sri-international
+    date: null
+    date_end: null
+    location_in_record: ch23:11646-11915
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 6e543cda-3973-4882-854c-929a9aa608ab
+      record_title: Remote Viewing Secrets
+      record_date: '2013-03-22'
+      record_reference: null
+      content_hash: sha256:498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4d6dbbe35
+      friendly_name: 2013-03-22-ebook-remote-viewing-secrets
+  - claim_id: 5abb532a-5372-4696-a7c2-b7af1d8a2444
+    claim_hash: 93ab0552846640f8b3484854cde9f50fbd567d6f3ea5ba0ae0ed1137819ae718
+    content: Ingo Swann was one of the original participants in the Central Intelligence Agency (CIA) evaluations of remote
+      viewing in the early 1970s.
+    original_excerpt: one of the original participants in the CIA evaluations of remote viewing back in the early 1970s
+    claim_type: administrative
+    attestation: first_hand
+    speaker:
+      node_id: 9caa600b-5ac0-4ec4-b956-10e029417fc8
+      title: Joseph McMoneagle
+    provenance_chain:
+      origin_kind: speaker
+      origin: Joseph McMoneagle
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 38b84d4a-96df-4684-bb46-f6f64f392add
+        title: Central Intelligence Agency (CIA)
+        slug: central-intelligence-agency-cia
+      - node_id: 41c9281c-4a11-4399-b324-a8486a96c766
+        title: Remote Viewing (RV)
+        slug: remote-viewing-rv
+      - node_id: 8a029ed9-27c5-403c-af49-2e11179910e4
+        title: Ingo Swann
+        slug: ingo-swann
+    date: null
+    date_end: null
+    location_in_record: ch23:11743-11835
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 6e543cda-3973-4882-854c-929a9aa608ab
+      record_title: Remote Viewing Secrets
+      record_date: '2013-03-22'
+      record_reference: null
+      content_hash: sha256:498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4d6dbbe35
+      friendly_name: 2013-03-22-ebook-remote-viewing-secrets
+  - claim_id: ec838fdd-5256-4dd1-946a-0998cc392d47
+    claim_hash: 4e0d8a79ef5bb517d07d68f9fa0cd2bc857d531f3ad211a6670102d26d78a4f4
+    content: Ingo Swann made predictions concerning the outlying planets of the solar system up to two years before those
+      planets were first visited by deep space exploration and information-collection satellites.
+    original_excerpt: He made these predictions up to two years prior to these planets being first visited by deep space explorer/information
+      collection satellites.
+    claim_type: testimony
+    attestation: second_hand
+    speaker:
+      node_id: 9caa600b-5ac0-4ec4-b956-10e029417fc8
+      title: Joseph McMoneagle
+    provenance_chain:
+      origin_kind: named
+      origin: Ingo Swann
+      relay:
+        - Joseph McMoneagle's account
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 8a029ed9-27c5-403c-af49-2e11179910e4
+        title: Ingo Swann
+        slug: ingo-swann
+    date: null
+    date_end: null
+    location_in_record: ch23:11923-12054
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 6e543cda-3973-4882-854c-929a9aa608ab
+      record_title: Remote Viewing Secrets
+      record_date: '2013-03-22'
+      record_reference: null
+      content_hash: sha256:498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4d6dbbe35
+      friendly_name: 2013-03-22-ebook-remote-viewing-secrets
+  - claim_id: 72898ce1-8342-4b80-9409-84bac99e3ccc
+    claim_hash: cfe297d5f6c785610cebf6141bef82a413733370a50e157415a91bdb198b7bf6
+    content: Ingo Swann showed no significant decline in accuracy for his outlying-planet predictions compared with other
+      targets he worked while at SRI International.
+    original_excerpt: There was no significant decline in his accuracy for these targets over any other targets he worked
+      while at SRI-International.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 9caa600b-5ac0-4ec4-b956-10e029417fc8
+      title: Joseph McMoneagle
+    provenance_chain:
+      origin_kind: speaker
+      origin: Joseph McMoneagle
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 8a029ed9-27c5-403c-af49-2e11179910e4
+        title: Ingo Swann
+        slug: ingo-swann
+      - node_id: fd2faec4-ecaf-4f91-abec-e55c06c70e92
+        title: SRI International
+        slug: sri-international
+    date: null
+    date_end: null
+    location_in_record: ch23:12066-12179
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 6e543cda-3973-4882-854c-929a9aa608ab
+      record_title: Remote Viewing Secrets
+      record_date: '2013-03-22'
+      record_reference: null
+      content_hash: sha256:498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4d6dbbe35
+      friendly_name: 2013-03-22-ebook-remote-viewing-secrets
+  - claim_id: ed79f600-6dbf-4ab8-9baa-438508fe4c5d
+    claim_hash: 08b760120c4b59a438fc1594a955fcf3ee9fc8a909703c7b81204de2d2caa4e6
+    content: Ingo Swann's website contains very little data relating to the classified military remote viewing project.
+    original_excerpt: it also a singular and one-sided view of those events, and that it contains very little data relating
+      to the classified military project
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 9caa600b-5ac0-4ec4-b956-10e029417fc8
+      title: Joseph McMoneagle
+    provenance_chain:
+      origin_kind: speaker
+      origin: Joseph McMoneagle
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 8a029ed9-27c5-403c-af49-2e11179910e4
+        title: Ingo Swann
+        slug: ingo-swann
+    date: null
+    date_end: null
+    location_in_record: ch9:5454-5580
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 6e543cda-3973-4882-854c-929a9aa608ab
+      record_title: Remote Viewing Secrets
+      record_date: '2013-03-22'
+      record_reference: null
+      content_hash: sha256:498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4d6dbbe35
+      friendly_name: 2013-03-22-ebook-remote-viewing-secrets
+  - claim_id: be3beb2f-6097-486e-b9da-aaa02ff38760
+    claim_hash: 4fdd9d584c8fddbfe2e59b6064612e3e6beebe8311807f71d819c54032e3ecf7
+    content: Ingo Swann claimed to have used an astral body to travel to distant planets.
+    original_excerpt: Ingo Swann claims to have used this astral body to travel to distant planets.
+    claim_type: opinion
+    attestation: second_hand
+    speaker:
+      node_id: 8a029ed9-27c5-403c-af49-2e11179910e4
+      title: Ingo Swann
+    provenance_chain:
+      origin_kind: named
+      origin: Ingo Swann
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 8a029ed9-27c5-403c-af49-2e11179910e4
+        title: Ingo Swann
+        slug: ingo-swann
+    date: null
+    date_end: null
+    location_in_record: 00:04:00.4-00:04:04.8
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 7f1682a6-12ed-46d0-92f3-1544b140e803
+      record_title: 'How The CIA Spent Millions On Psychic Spies - PROJECT: STARGATE (Documentary 1 of 3)'
+      record_date: '2023-08-02'
+      record_reference: https://www.youtube.com/watch?v=GkqFBqiGRQs
+      content_hash: sha256:784b2feffd5aaa03b664d35f587d270a0838d547916cde4c429670cf1c68cd16
+      friendly_name: null
+  - claim_id: fd22358b-d00b-430a-a497-ae0b112fa370
+    claim_hash: 1db6586bee539710657f44770ada91fa746e3e11013d5374738dbded0dc0e755
+    content: Ingo Swann was instrumental in the development and advancement of remote viewing as a technique and helped bring
+      it to the attention of the U.S. government.
+    original_excerpt: This individual was instrumental in the development and advancement of remote viewing as a technique
+      and helped bring it to the attention of the U.S. government.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: narration
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 41c9281c-4a11-4399-b324-a8486a96c766
+        title: Remote Viewing (RV)
+        slug: remote-viewing-rv
+      - node_id: 8a029ed9-27c5-403c-af49-2e11179910e4
+        title: Ingo Swann
+        slug: ingo-swann
+    date: null
+    date_end: null
+    location_in_record: 00:04:09.1-00:04:17.1
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 7f1682a6-12ed-46d0-92f3-1544b140e803
+      record_title: 'How The CIA Spent Millions On Psychic Spies - PROJECT: STARGATE (Documentary 1 of 3)'
+      record_date: '2023-08-02'
+      record_reference: https://www.youtube.com/watch?v=GkqFBqiGRQs
+      content_hash: sha256:784b2feffd5aaa03b664d35f587d270a0838d547916cde4c429670cf1c68cd16
+      friendly_name: null
+  - claim_id: 3d6fe272-ef51-4445-bd2a-ae8052852e81
+    claim_hash: f70cb07abaaddf456b9246401a4501ea0729f58530673aca401b97f29dbd64e9
+    content: Ingo Swann is a renowned artist and psychic often credited with developing the first systematic approach to remote
+      viewing in the 1970s.
+    original_excerpt: Swan, a renowned artist and psychic, is often credited with developing the first systematic approach
+      to remote viewing in the 70s.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: narration
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 41c9281c-4a11-4399-b324-a8486a96c766
+        title: Remote Viewing (RV)
+        slug: remote-viewing-rv
+      - node_id: 8a029ed9-27c5-403c-af49-2e11179910e4
+        title: Ingo Swann
+        slug: ingo-swann
+    date: null
+    date_end: null
+    location_in_record: 00:04:18.5-00:04:25.2
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 7f1682a6-12ed-46d0-92f3-1544b140e803
+      record_title: 'How The CIA Spent Millions On Psychic Spies - PROJECT: STARGATE (Documentary 1 of 3)'
+      record_date: '2023-08-02'
+      record_reference: https://www.youtube.com/watch?v=GkqFBqiGRQs
+      content_hash: sha256:784b2feffd5aaa03b664d35f587d270a0838d547916cde4c429670cf1c68cd16
+      friendly_name: null
+  - claim_id: 9fbe87b3-33f5-489a-9e1e-a064be653ce5
+    claim_hash: 44ad583d26900c10829969756a4488aad36e13584024e266fc9a14e126e85058
+    content: Ingo Swann was approached by scientists at the Stanford Research Institute (SRI) to participate in research on
+      psychic phenomena.
+    original_excerpt: He'd already gained some fame for his psychic abilities and was approached by scientists at SRI to participate
+      in the research on psychic phenomena.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: narration
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 34fa7ace-5c72-4a1c-80b6-01f654eefe00
+        title: Stanford Research Institute (SRI)
+        slug: stanford-research-institute-sri
+      - node_id: 8a029ed9-27c5-403c-af49-2e11179910e4
+        title: Ingo Swann
+        slug: ingo-swann
+    date: null
+    date_end: null
+    location_in_record: 00:04:26.3-00:04:33.2
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 7f1682a6-12ed-46d0-92f3-1544b140e803
+      record_title: 'How The CIA Spent Millions On Psychic Spies - PROJECT: STARGATE (Documentary 1 of 3)'
+      record_date: '2023-08-02'
+      record_reference: https://www.youtube.com/watch?v=GkqFBqiGRQs
+      content_hash: sha256:784b2feffd5aaa03b664d35f587d270a0838d547916cde4c429670cf1c68cd16
+      friendly_name: null
+  - claim_id: 3f74a70d-1e63-437a-9074-2c875c7ad747
+    claim_hash: 2c8a7a59cd3078d8eb85831b30719385d0c2d27906f75e9543b85b4d6c9d2808
+    content: Ingo Swann worked with Hal Puthoff and Russell Targ, two leading researchers in the field of parapsychology.
+    original_excerpt: He soon began to work with Dr. Hal Puthoff and Russell Targ, two of the leading researchers in the field
+      of parapsychology.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: narration
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 6dcdfe60-bc2f-4be2-a041-9957a82f371e
+        title: Harold E. Puthoff
+        slug: harold-e-puthoff
+      - node_id: 8a029ed9-27c5-403c-af49-2e11179910e4
+        title: Ingo Swann
+        slug: ingo-swann
+      - node_id: eaceaab4-6d50-49da-9974-e72719de76e9
+        title: Russell Targ
+        slug: russell-targ
+    date: null
+    date_end: null
+    location_in_record: 00:04:34.1-00:04:39.7
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 7f1682a6-12ed-46d0-92f3-1544b140e803
+      record_title: 'How The CIA Spent Millions On Psychic Spies - PROJECT: STARGATE (Documentary 1 of 3)'
+      record_date: '2023-08-02'
+      record_reference: https://www.youtube.com/watch?v=GkqFBqiGRQs
+      content_hash: sha256:784b2feffd5aaa03b664d35f587d270a0838d547916cde4c429670cf1c68cd16
+      friendly_name: null
+  - claim_id: 65fd1596-d4aa-4112-94f6-8e908d31221c
+    claim_hash: bba36ec80087e89dc37086663e2503841a405055315cd315199236363e9e6dd6
+    content: At the Stanford Research Institute (SRI), Ingo Swann developed a unique approach to remote viewing called Coordinate
+      Remote Viewing (CRV).
+    original_excerpt: It was at SRI that Swan developed his unique approach to remote viewing, which he called Coordinate
+      Remote Viewing, or CRV.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: narration
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 34fa7ace-5c72-4a1c-80b6-01f654eefe00
+        title: Stanford Research Institute (SRI)
+        slug: stanford-research-institute-sri
+      - node_id: 8a029ed9-27c5-403c-af49-2e11179910e4
+        title: Ingo Swann
+        slug: ingo-swann
+      - node_id: c28e8e30-1748-4e98-9b84-02407a8e1e26
+        title: Coordinate Remote Viewing
+        slug: coordinate-remote-viewing
+    date: null
+    date_end: null
+    location_in_record: 00:04:41.5-00:04:48.4
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 7f1682a6-12ed-46d0-92f3-1544b140e803
+      record_title: 'How The CIA Spent Millions On Psychic Spies - PROJECT: STARGATE (Documentary 1 of 3)'
+      record_date: '2023-08-02'
+      record_reference: https://www.youtube.com/watch?v=GkqFBqiGRQs
+      content_hash: sha256:784b2feffd5aaa03b664d35f587d270a0838d547916cde4c429670cf1c68cd16
+      friendly_name: null
+  - claim_id: 8db0f9a5-daf8-4301-9c50-e42f7f1244d6
+    claim_hash: 47b9bca586003f900057eff60c991af2b0cc0d155b4b90e81edeb91d16ebddf7
+    content: Ingo Swann's remote-viewing method was adopted by the US government, and Swann became a consultant for various
+      intelligence agencies.
+    original_excerpt: Swan's method was so successful that it was eventually adopted by the US government and Swan himself
+      became a consultant for various intelligence agencies.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: narration
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 8a029ed9-27c5-403c-af49-2e11179910e4
+        title: Ingo Swann
+        slug: ingo-swann
+    date: null
+    date_end: null
+    location_in_record: 00:05:05.9-00:05:14.1
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 7f1682a6-12ed-46d0-92f3-1544b140e803
+      record_title: 'How The CIA Spent Millions On Psychic Spies - PROJECT: STARGATE (Documentary 1 of 3)'
+      record_date: '2023-08-02'
+      record_reference: https://www.youtube.com/watch?v=GkqFBqiGRQs
+      content_hash: sha256:784b2feffd5aaa03b664d35f587d270a0838d547916cde4c429670cf1c68cd16
+      friendly_name: null
+  - claim_id: 36373393-2754-4358-b2e2-fca1754bbc45
+    claim_hash: c96076474fb160aa983dae8a1a11482e3ec3acaa974614f2d1d8c1d73a8c21b9
+    content: In 1973, Ingo Swann began working with scientists at the Stanford Research Institute (SRI) to explore the possibility
+      of remote viewing planetary objects.
+    original_excerpt: In 1973, Swan began working with scientists at SRI to explore the possibility of remote viewing planetary
+      objects.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: narration
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 34fa7ace-5c72-4a1c-80b6-01f654eefe00
+        title: Stanford Research Institute (SRI)
+        slug: stanford-research-institute-sri
+      - node_id: 8a029ed9-27c5-403c-af49-2e11179910e4
+        title: Ingo Swann
+        slug: ingo-swann
+      - node_id: d78ee7e3-9c01-43d4-b66b-f5f7c4191753
+        title: Jupiter remote viewing session
+        slug: jupiter-remote-viewing-session
+    date: '1973'
+    date_end: null
+    location_in_record: 00:05:20.2-00:05:27.0
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 7f1682a6-12ed-46d0-92f3-1544b140e803
+      record_title: 'How The CIA Spent Millions On Psychic Spies - PROJECT: STARGATE (Documentary 1 of 3)'
+      record_date: '2023-08-02'
+      record_reference: https://www.youtube.com/watch?v=GkqFBqiGRQs
+      content_hash: sha256:784b2feffd5aaa03b664d35f587d270a0838d547916cde4c429670cf1c68cd16
+      friendly_name: null
+  - claim_id: 07c3c705-48c7-4582-87c7-fe20ffca4fd3
+    claim_hash: 162f182226068715c43f8024235ca5e2a69c2ac39057470713c17c3532342c9d
+    content: Ingo Swann was tasked with remote viewing the planet Jupiter.
+    original_excerpt: Swan was tasked with viewing Jupiter, and his results were nothing short of extraordinary.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: narration
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 8a029ed9-27c5-403c-af49-2e11179910e4
+        title: Ingo Swann
+        slug: ingo-swann
+      - node_id: d78ee7e3-9c01-43d4-b66b-f5f7c4191753
+        title: Jupiter remote viewing session
+        slug: jupiter-remote-viewing-session
+    date: '1973'
+    date_end: null
+    location_in_record: 00:05:28.1-00:05:32.7
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 7f1682a6-12ed-46d0-92f3-1544b140e803
+      record_title: 'How The CIA Spent Millions On Psychic Spies - PROJECT: STARGATE (Documentary 1 of 3)'
+      record_date: '2023-08-02'
+      record_reference: https://www.youtube.com/watch?v=GkqFBqiGRQs
+      content_hash: sha256:784b2feffd5aaa03b664d35f587d270a0838d547916cde4c429670cf1c68cd16
+      friendly_name: null
+  - claim_id: 028163cf-995a-45b4-becd-070d7d5ef489
+    claim_hash: 78ff68ae625b53106cd03ba48700faa4f8ac696fb4d4bee9eec5218c79574398
+    content: Ingo Swann described the presence of a previously unknown ring around Jupiter during his 1973 remote viewing
+      session.
+    original_excerpt: Swan was able to accurately describe the complex atmospheric patterns of Jupiter, as well as the presence
+      of a previously unknown ring around the planet.
+    claim_type: observation
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: narration
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 8a029ed9-27c5-403c-af49-2e11179910e4
+        title: Ingo Swann
+        slug: ingo-swann
+      - node_id: d78ee7e3-9c01-43d4-b66b-f5f7c4191753
+        title: Jupiter remote viewing session
+        slug: jupiter-remote-viewing-session
+    date: '1973'
+    date_end: null
+    location_in_record: 00:05:34.0-00:05:42.3
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 7f1682a6-12ed-46d0-92f3-1544b140e803
+      record_title: 'How The CIA Spent Millions On Psychic Spies - PROJECT: STARGATE (Documentary 1 of 3)'
+      record_date: '2023-08-02'
+      record_reference: https://www.youtube.com/watch?v=GkqFBqiGRQs
+      content_hash: sha256:784b2feffd5aaa03b664d35f587d270a0838d547916cde4c429670cf1c68cd16
+      friendly_name: null
+  - claim_id: 2f2d51eb-5ea0-42df-b1d8-67ddca7c47dd
+    claim_hash: 9b6048b5b8c5a604c3e92f52b3ca63a412b02e63b18456dca0f3e2c6ddd6ab1e
+    content: Ingo Swann accurately described the complex atmospheric patterns of Jupiter during his 1973 remote viewing session.
+    original_excerpt: Swan was able to accurately describe the complex atmospheric patterns of Jupiter, as well as the presence
+      of a previously unknown ring around the planet.
+    claim_type: observation
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: narration
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 8a029ed9-27c5-403c-af49-2e11179910e4
+        title: Ingo Swann
+        slug: ingo-swann
+      - node_id: d78ee7e3-9c01-43d4-b66b-f5f7c4191753
+        title: Jupiter remote viewing session
+        slug: jupiter-remote-viewing-session
+    date: '1973'
+    date_end: null
+    location_in_record: 00:05:34.0-00:05:42.3
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 7f1682a6-12ed-46d0-92f3-1544b140e803
+      record_title: 'How The CIA Spent Millions On Psychic Spies - PROJECT: STARGATE (Documentary 1 of 3)'
+      record_date: '2023-08-02'
+      record_reference: https://www.youtube.com/watch?v=GkqFBqiGRQs
+      content_hash: sha256:784b2feffd5aaa03b664d35f587d270a0838d547916cde4c429670cf1c68cd16
+      friendly_name: null
+  - claim_id: 219b853c-04ea-410c-939f-e756e2515773
+    claim_hash: 9b1a8eba6d096f6f7a6d610fd2205c0e33818a1176fa3c9f70da72c7ac57cffb
+    content: NASA's Pioneer 10 spacecraft later confirmed Ingo Swann's remote-viewing findings about Jupiter when it flew
+      past the planet in the 1970s.
+    original_excerpt: These findings were later confirmed by NASA's Pioneer 10 spacecraft, which then flew past Jupiter in
+      the 70s.
+    claim_type: observation
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: narration
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 5e47c787-005b-4c91-ba4b-c9bec48146c9
+        title: National Aeronautics and Space Administration (NASA)
+        slug: national-aeronautics-and-space-administration-nasa
+      - node_id: 8a029ed9-27c5-403c-af49-2e11179910e4
+        title: Ingo Swann
+        slug: ingo-swann
+      - node_id: 9decaa7c-b419-402d-bf42-d766b82ad39b
+        title: Pioneer 10
+        slug: pioneer-10
+      - node_id: d78ee7e3-9c01-43d4-b66b-f5f7c4191753
+        title: Jupiter remote viewing session
+        slug: jupiter-remote-viewing-session
+    date: null
+    date_end: null
+    location_in_record: 00:05:43.4-00:05:49.5
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 7f1682a6-12ed-46d0-92f3-1544b140e803
+      record_title: 'How The CIA Spent Millions On Psychic Spies - PROJECT: STARGATE (Documentary 1 of 3)'
+      record_date: '2023-08-02'
+      record_reference: https://www.youtube.com/watch?v=GkqFBqiGRQs
+      content_hash: sha256:784b2feffd5aaa03b664d35f587d270a0838d547916cde4c429670cf1c68cd16
+      friendly_name: null
+  - claim_id: 4c9120b0-56cd-4f5a-9304-d99632dd6bf6
+    claim_hash: 7b4ba47bc5d2f96def14420982828b2ab6a2f0466ef31be00e894b302d6e551b
+    content: Ingo Swann recalled that Hal Puthoff told him he was the first to find a ring around Jupiter.
+    original_excerpt: So Hal came and said, you're the first to find a ring around Jupiter. I said, I am.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 8a029ed9-27c5-403c-af49-2e11179910e4
+      title: Ingo Swann
+    provenance_chain:
+      origin_kind: speaker
+      origin: Ingo Swann
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 6dcdfe60-bc2f-4be2-a041-9957a82f371e
+        title: Harold E. Puthoff
+        slug: harold-e-puthoff
+      - node_id: 8a029ed9-27c5-403c-af49-2e11179910e4
+        title: Ingo Swann
+        slug: ingo-swann
+      - node_id: d78ee7e3-9c01-43d4-b66b-f5f7c4191753
+        title: Jupiter remote viewing session
+        slug: jupiter-remote-viewing-session
+    date: null
+    date_end: null
+    location_in_record: 00:05:50.6-00:05:56.1
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 7f1682a6-12ed-46d0-92f3-1544b140e803
+      record_title: 'How The CIA Spent Millions On Psychic Spies - PROJECT: STARGATE (Documentary 1 of 3)'
+      record_date: '2023-08-02'
+      record_reference: https://www.youtube.com/watch?v=GkqFBqiGRQs
+      content_hash: sha256:784b2feffd5aaa03b664d35f587d270a0838d547916cde4c429670cf1c68cd16
+      friendly_name: null
+  - claim_id: 12a1abe9-44f8-4e72-87f6-235a95798b3f
+    claim_hash: 65ee9fb6656dc8ca5563e0bd5a82c006737feec6f519d7092a2f93d19701f3f0
+    content: Ingo Swann was asked by the Central Intelligence Agency (CIA) to remote view a secret facility in the Soviet
+      Union believed to be used for manufacturing nuclear weapons.
+    original_excerpt: Swann was asked to remote view a secret facility in the Soviet Union that was believed to be used for
+      the manufacturing of nuclear weapons.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: narration
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 38b84d4a-96df-4684-bb46-f6f64f392add
+        title: Central Intelligence Agency (CIA)
+        slug: central-intelligence-agency-cia
+      - node_id: 8a029ed9-27c5-403c-af49-2e11179910e4
+        title: Ingo Swann
+        slug: ingo-swann
+    date: null
+    date_end: null
+    location_in_record: 00:06:06.4-00:06:12.9
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 7f1682a6-12ed-46d0-92f3-1544b140e803
+      record_title: 'How The CIA Spent Millions On Psychic Spies - PROJECT: STARGATE (Documentary 1 of 3)'
+      record_date: '2023-08-02'
+      record_reference: https://www.youtube.com/watch?v=GkqFBqiGRQs
+      content_hash: sha256:784b2feffd5aaa03b664d35f587d270a0838d547916cde4c429670cf1c68cd16
+      friendly_name: null
+  - claim_id: 22eb2139-6070-42ab-99cf-3680a73e283b
+    claim_hash: b4ff210cc4ac0003e1e21ec9bf5686c76f67b8e3aa43f943995be358762a4bb2
+    content: Ingo Swann provided accurate descriptions of the layout and operations of a suspected Soviet nuclear-weapons
+      manufacturing facility.
+    original_excerpt: He was able to provide accurate descriptions of the facility's layouts and operations, as well as the
+      presence of nuclear materials.
+    claim_type: observation
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: narration
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 8a029ed9-27c5-403c-af49-2e11179910e4
+        title: Ingo Swann
+        slug: ingo-swann
+    date: null
+    date_end: null
+    location_in_record: 00:06:14.0-00:06:20.4
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 7f1682a6-12ed-46d0-92f3-1544b140e803
+      record_title: 'How The CIA Spent Millions On Psychic Spies - PROJECT: STARGATE (Documentary 1 of 3)'
+      record_date: '2023-08-02'
+      record_reference: https://www.youtube.com/watch?v=GkqFBqiGRQs
+      content_hash: sha256:784b2feffd5aaa03b664d35f587d270a0838d547916cde4c429670cf1c68cd16
+      friendly_name: null
+  - claim_id: 8117257c-e3e1-4e00-8b3a-96ae1b770402
+    claim_hash: c54f7fd1363b6940247b16416129a459e6db0079f863dc40eb8fd329f5377634
+    content: Ingo Swann described the presence of nuclear materials at a suspected Soviet nuclear-weapons manufacturing facility.
+    original_excerpt: He was able to provide accurate descriptions of the facility's layouts and operations, as well as the
+      presence of nuclear materials.
+    claim_type: observation
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: narration
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 8a029ed9-27c5-403c-af49-2e11179910e4
+        title: Ingo Swann
+        slug: ingo-swann
+    date: null
+    date_end: null
+    location_in_record: 00:06:14.0-00:06:20.4
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 7f1682a6-12ed-46d0-92f3-1544b140e803
+      record_title: 'How The CIA Spent Millions On Psychic Spies - PROJECT: STARGATE (Documentary 1 of 3)'
+      record_date: '2023-08-02'
+      record_reference: https://www.youtube.com/watch?v=GkqFBqiGRQs
+      content_hash: sha256:784b2feffd5aaa03b664d35f587d270a0838d547916cde4c429670cf1c68cd16
+      friendly_name: null
+  - claim_id: cd0e288c-0813-441a-b8f6-5b13359c06db
+    claim_hash: 7fb728c6c549b01fcaf2a1968b0b22a38aa0bfd521528b55311da1abe8058a37
+    content: Ingo Swann's descriptions of a suspected Soviet nuclear-weapons facility were later confirmed by satellite imagery.
+    original_excerpt: His findings were later confirmed by satellite imagery.
+    claim_type: observation
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: narration
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 8a029ed9-27c5-403c-af49-2e11179910e4
+        title: Ingo Swann
+        slug: ingo-swann
+    date: null
+    date_end: null
+    location_in_record: 00:06:22.4-00:06:24.6
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 7f1682a6-12ed-46d0-92f3-1544b140e803
+      record_title: 'How The CIA Spent Millions On Psychic Spies - PROJECT: STARGATE (Documentary 1 of 3)'
+      record_date: '2023-08-02'
+      record_reference: https://www.youtube.com/watch?v=GkqFBqiGRQs
+      content_hash: sha256:784b2feffd5aaa03b664d35f587d270a0838d547916cde4c429670cf1c68cd16
+      friendly_name: null
+  - claim_id: a97304b7-f1fd-4f18-8f29-57e3f5828485
+    claim_hash: 479098c38a2350d04105df6cdb3a16a735d870c36ae60e3e36ed9411dcaee7eb
+    content: Ed Dames claims he was trained by Ingo Swann as a remote viewer in Project Stargate while serving in the United
+      States Army in the 1980s.
+    original_excerpt: a gentleman by the name of Major Ed Dames, a retired U.S. Army major who claims that he was trained
+      by Ingo Swann as a remote viewer in Project Stargate while serving in the Army in the 80s
+    claim_type: testimony
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: named
+      origin: Ed Dames
+      relay:
+        - narrator
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 21e9e5d4-d910-4ff0-b875-a44d75422746
+        title: Ed Dames
+        slug: ed-dames
+      - node_id: 5ec014d7-24dd-43a2-afa0-6bac966d33a4
+        title: Project STARGATE
+        slug: project-stargate
+      - node_id: 8a029ed9-27c5-403c-af49-2e11179910e4
+        title: Ingo Swann
+        slug: ingo-swann
+      - node_id: 96278e27-75e6-49fe-8ea6-a0f4f5ff1f8a
+        title: United States Army
+        slug: united-states-army
+    date: null
+    date_end: null
+    location_in_record: 00:23:47.1-00:23:58.1
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 7f1682a6-12ed-46d0-92f3-1544b140e803
+      record_title: 'How The CIA Spent Millions On Psychic Spies - PROJECT: STARGATE (Documentary 1 of 3)'
+      record_date: '2023-08-02'
+      record_reference: https://www.youtube.com/watch?v=GkqFBqiGRQs
+      content_hash: sha256:784b2feffd5aaa03b664d35f587d270a0838d547916cde4c429670cf1c68cd16
+      friendly_name: null
+  - claim_id: 4db39899-5a7f-447b-98bc-13778b341d64
+    claim_hash: 2ee7634c4f11bf45e9611f15fcab92c0bfa220974143956147608a32c23c443e
+    content: Ed Dames was selected as one of five prototype Army members to be trained by Ingo Swann in Project Stargate during
+      1983 and 1984.
+    original_excerpt: When I was selected as one of the five prototype members, Army members, to be trained by Ingo Swann,
+      my mentor, to whom I later became protege, and that was 1983 and 1984.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 21e9e5d4-d910-4ff0-b875-a44d75422746
+      title: Ed Dames
+    provenance_chain:
+      origin_kind: speaker
+      origin: Ed Dames
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 21e9e5d4-d910-4ff0-b875-a44d75422746
+        title: Ed Dames
+        slug: ed-dames
+      - node_id: 5ec014d7-24dd-43a2-afa0-6bac966d33a4
+        title: Project STARGATE
+        slug: project-stargate
+      - node_id: 8a029ed9-27c5-403c-af49-2e11179910e4
+        title: Ingo Swann
+        slug: ingo-swann
+      - node_id: 96278e27-75e6-49fe-8ea6-a0f4f5ff1f8a
+        title: United States Army
+        slug: united-states-army
+    date: '1983'
+    date_end: null
+    location_in_record: 00:29:32.8-00:29:45.0
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 7f1682a6-12ed-46d0-92f3-1544b140e803
+      record_title: 'How The CIA Spent Millions On Psychic Spies - PROJECT: STARGATE (Documentary 1 of 3)'
+      record_date: '2023-08-02'
+      record_reference: https://www.youtube.com/watch?v=GkqFBqiGRQs
+      content_hash: sha256:784b2feffd5aaa03b664d35f587d270a0838d547916cde4c429670cf1c68cd16
+      friendly_name: null
+  - claim_id: d0753966-2e69-4be9-a6b0-84bea8ac0e56
+    claim_hash: a5ea084713647050bf96ae738f7f298f4fa74479c72fbf23f5c3ad0b4d9a4163
+    content: Ingo Swann was Ed Dames's mentor, and Dames later became his protege.
+    original_excerpt: to be trained by Ingo Swann, my mentor, to whom I later became protege
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 21e9e5d4-d910-4ff0-b875-a44d75422746
+      title: Ed Dames
+    provenance_chain:
+      origin_kind: speaker
+      origin: Ed Dames
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 21e9e5d4-d910-4ff0-b875-a44d75422746
+        title: Ed Dames
+        slug: ed-dames
+      - node_id: 8a029ed9-27c5-403c-af49-2e11179910e4
+        title: Ingo Swann
+        slug: ingo-swann
+    date: null
+    date_end: null
+    location_in_record: 00:29:38.6-00:29:43.2
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 7f1682a6-12ed-46d0-92f3-1544b140e803
+      record_title: 'How The CIA Spent Millions On Psychic Spies - PROJECT: STARGATE (Documentary 1 of 3)'
+      record_date: '2023-08-02'
+      record_reference: https://www.youtube.com/watch?v=GkqFBqiGRQs
+      content_hash: sha256:784b2feffd5aaa03b664d35f587d270a0838d547916cde4c429670cf1c68cd16
+      friendly_name: null
+  - claim_id: 1484491c-9df4-47f0-8239-538988885b5e
+    claim_hash: 95da9a20485129c1a9c73399f5e7b1f951486898719bde0d9389bd85080e2290
+    content: Ingo Swann developed the remote-viewing structure used to train the Project Stargate prototype team.
+    original_excerpt: Ingo had just developed his structure.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 21e9e5d4-d910-4ff0-b875-a44d75422746
+      title: Ed Dames
+    provenance_chain:
+      origin_kind: speaker
+      origin: Ed Dames
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 5ec014d7-24dd-43a2-afa0-6bac966d33a4
+        title: Project STARGATE
+        slug: project-stargate
+      - node_id: 8a029ed9-27c5-403c-af49-2e11179910e4
+        title: Ingo Swann
+        slug: ingo-swann
+      - node_id: c28e8e30-1748-4e98-9b84-02407a8e1e26
+        title: Coordinate Remote Viewing
+        slug: coordinate-remote-viewing
+    date: null
+    date_end: null
+    location_in_record: 00:29:51.0-00:29:53.7
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 7f1682a6-12ed-46d0-92f3-1544b140e803
+      record_title: 'How The CIA Spent Millions On Psychic Spies - PROJECT: STARGATE (Documentary 1 of 3)'
+      record_date: '2023-08-02'
+      record_reference: https://www.youtube.com/watch?v=GkqFBqiGRQs
+      content_hash: sha256:784b2feffd5aaa03b664d35f587d270a0838d547916cde4c429670cf1c68cd16
+      friendly_name: null
+  - claim_id: 41d28bca-00f2-4381-8129-6aede0dc38f3
+    claim_hash: 0cc03e32cc8be46dfea170737e9c506cd9dfea85a33b9ccad348a6467424f975
+    content: Ingo Swann asked Hal Puthoff who was funding his remote-viewing training because it was classified.
+    original_excerpt: he came to Hal Puthoff and said, who's paying for this? Because that was secret.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 21e9e5d4-d910-4ff0-b875-a44d75422746
+      title: Ed Dames
+    provenance_chain:
+      origin_kind: speaker
+      origin: Ed Dames
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 6dcdfe60-bc2f-4be2-a041-9957a82f371e
+        title: Harold E. Puthoff
+        slug: harold-e-puthoff
+      - node_id: 8a029ed9-27c5-403c-af49-2e11179910e4
+        title: Ingo Swann
+        slug: ingo-swann
+    date: null
+    date_end: null
+    location_in_record: 00:29:56.6-00:30:02.3
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 7f1682a6-12ed-46d0-92f3-1544b140e803
+      record_title: 'How The CIA Spent Millions On Psychic Spies - PROJECT: STARGATE (Documentary 1 of 3)'
+      record_date: '2023-08-02'
+      record_reference: https://www.youtube.com/watch?v=GkqFBqiGRQs
+      content_hash: sha256:784b2feffd5aaa03b664d35f587d270a0838d547916cde4c429670cf1c68cd16
+      friendly_name: null
+  - claim_id: 3bef550c-54ab-492a-9c62-6161496ad416
+    claim_hash: 3b601e5f11ce2bcf05abc75b61843d2cb732f3f4643116f98f07283c80fc0cc2
+    content: Ingo Swann's peers did not want to be trained by him in the remote-viewing structure.
+    original_excerpt: Angus frustrates, threw his hands up because his peers didn't want to be trained by him.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 21e9e5d4-d910-4ff0-b875-a44d75422746
+      title: Ed Dames
+    provenance_chain:
+      origin_kind: speaker
+      origin: Ed Dames
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 8a029ed9-27c5-403c-af49-2e11179910e4
+        title: Ingo Swann
+        slug: ingo-swann
+    date: null
+    date_end: null
+    location_in_record: 00:30:07.1-00:30:11.8
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 7f1682a6-12ed-46d0-92f3-1544b140e803
+      record_title: 'How The CIA Spent Millions On Psychic Spies - PROJECT: STARGATE (Documentary 1 of 3)'
+      record_date: '2023-08-02'
+      record_reference: https://www.youtube.com/watch?v=GkqFBqiGRQs
+      content_hash: sha256:784b2feffd5aaa03b664d35f587d270a0838d547916cde4c429670cf1c68cd16
+      friendly_name: null
+  - claim_id: 3355b4af-a2aa-4985-8b74-2c90ae88e55b
+    claim_hash: d4bd78bf58831e896c18116062eb85fbcbe43013111d3d659123644238b2c474
+    content: Ingo Swann requested that army officers be sent to him to test whether his remote-viewing structure would work
+      with anyone.
+    original_excerpt: Send me some army officers, because theoretically, this structure should work with everyone, everyone,
+      this model, this structure.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 21e9e5d4-d910-4ff0-b875-a44d75422746
+      title: Ed Dames
+    provenance_chain:
+      origin_kind: speaker
+      origin: Ed Dames
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 8a029ed9-27c5-403c-af49-2e11179910e4
+        title: Ingo Swann
+        slug: ingo-swann
+      - node_id: 96278e27-75e6-49fe-8ea6-a0f4f5ff1f8a
+        title: United States Army
+        slug: united-states-army
+    date: null
+    date_end: null
+    location_in_record: 00:30:12.1-00:30:20.5
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 7f1682a6-12ed-46d0-92f3-1544b140e803
+      record_title: 'How The CIA Spent Millions On Psychic Spies - PROJECT: STARGATE (Documentary 1 of 3)'
+      record_date: '2023-08-02'
+      record_reference: https://www.youtube.com/watch?v=GkqFBqiGRQs
+      content_hash: sha256:784b2feffd5aaa03b664d35f587d270a0838d547916cde4c429670cf1c68cd16
+      friendly_name: null
+  - claim_id: d73b2b6b-ec69-4281-a0f3-90de1c68740b
+    claim_hash: c029c26a2d24ac8988d664c6787a75fb5e9b7011f4760540cf048f3dc6caedb1
+    content: Ingo Swann had Ed Dames remote view the Washington Monument as one of his first training targets in Project Stargate.
+    original_excerpt: The moment that changed me was when Ingo Swann had me remote view the ... as one of my first training
+      targets, the Lincoln Monument, the Washington Monument.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 21e9e5d4-d910-4ff0-b875-a44d75422746
+      title: Ed Dames
+    provenance_chain:
+      origin_kind: speaker
+      origin: Ed Dames
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 21e9e5d4-d910-4ff0-b875-a44d75422746
+        title: Ed Dames
+        slug: ed-dames
+      - node_id: 33853e8e-4eae-4c23-81c8-f8b8d6f405aa
+        title: Washington Monument
+        slug: washington-monument
+      - node_id: 5ec014d7-24dd-43a2-afa0-6bac966d33a4
+        title: Project STARGATE
+        slug: project-stargate
+      - node_id: 8a029ed9-27c5-403c-af49-2e11179910e4
+        title: Ingo Swann
+        slug: ingo-swann
+    date: null
+    date_end: null
+    location_in_record: 00:35:44.6-00:35:57.9
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 7f1682a6-12ed-46d0-92f3-1544b140e803
+      record_title: 'How The CIA Spent Millions On Psychic Spies - PROJECT: STARGATE (Documentary 1 of 3)'
+      record_date: '2023-08-02'
+      record_reference: https://www.youtube.com/watch?v=GkqFBqiGRQs
+      content_hash: sha256:784b2feffd5aaa03b664d35f587d270a0838d547916cde4c429670cf1c68cd16
+      friendly_name: null
+  - claim_id: b9c97e53-cd20-4a62-8aeb-816a7185ee10
+    claim_hash: 444b599e73eed122d9420b4c884eaa0fc2a946274f6f7056a1bfc4ef8578d256
+    content: Ed Dames produced what Ingo Swann considered a perfect rendition of the Washington Monument during the blind
+      remote-viewing session.
+    original_excerpt: And it was a perfect rendition on my part of the Washington Monument.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 21e9e5d4-d910-4ff0-b875-a44d75422746
+      title: Ed Dames
+    provenance_chain:
+      origin_kind: speaker
+      origin: Ed Dames
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 21e9e5d4-d910-4ff0-b875-a44d75422746
+        title: Ed Dames
+        slug: ed-dames
+      - node_id: 33853e8e-4eae-4c23-81c8-f8b8d6f405aa
+        title: Washington Monument
+        slug: washington-monument
+      - node_id: 8a029ed9-27c5-403c-af49-2e11179910e4
+        title: Ingo Swann
+        slug: ingo-swann
+    date: null
+    date_end: null
+    location_in_record: 00:36:02.6-00:36:06.2
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 7f1682a6-12ed-46d0-92f3-1544b140e803
+      record_title: 'How The CIA Spent Millions On Psychic Spies - PROJECT: STARGATE (Documentary 1 of 3)'
+      record_date: '2023-08-02'
+      record_reference: https://www.youtube.com/watch?v=GkqFBqiGRQs
+      content_hash: sha256:784b2feffd5aaa03b664d35f587d270a0838d547916cde4c429670cf1c68cd16
+      friendly_name: null
+  - claim_id: 64d3a4ba-808f-4b0a-83b5-7bb53e29f2bf
+    claim_hash: 27d0ef0096893fa147d3c8c5f1588d9d15b7f426486318d62fe7d93305b1bd92
+    content: Ingo Swann claimed to have remote viewed Jupiter and described its thin rings before they were confirmed by unmanned
+      space probes years later.
+    original_excerpt: In one session, Swann claimed to have remote viewed Jupiter and described its very thin rings, which
+      would only be spotted and confirmed by unmanned probes years later.
+    claim_type: hearsay
+    attestation: second_hand
+    speaker:
+      node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+      title: Luis Elizondo
+    provenance_chain:
+      origin_kind: named
+      origin: Ingo Swann
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 8a029ed9-27c5-403c-af49-2e11179910e4
+        title: Ingo Swann
+        slug: ingo-swann
+    date: null
+    date_end: null
+    location_in_record: ch11:34146-34308
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos

@@ -1,0 +1,652 @@
+schema: anomalica/brief/1
+brief_hash: 777c3436797008ad5e6f57edd26df8d908f11dac49b910f018b7a8435d5448b5
+page:
+  kind: entity
+  node_id: abc52e67-3c50-4729-80dc-89c8bfa29691
+  node_type: person
+  title: Jesus
+  slug: jesus
+  claim_count: 14
+  claim_count_total: 14
+generated:
+  graph_version: '2026-09-01T10:10:49.863545+00:00'
+size:
+  claims: 14
+  tokens_estimated: 4239
+  sized_against: 1050000
+publication:
+  status: published
+  note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
+    transcripts are gated elsewhere.
+belonging:
+  verified: 0
+  suspect_excluded: 0
+  unreviewed: 14
+related_nodes:
+  - node_id: ff0a86b8-8f3c-4291-94ed-c6d303875ce8
+    title: Jason Samosa
+    node_type: person
+    slug: jason-samosa
+    shared_claims: 4
+  - node_id: 079d4381-4273-418b-bc9a-468623f95c6e
+    title: Jesse Mitchells
+    node_type: person
+    slug: jesse-mitchells
+    shared_claims: 4
+  - node_id: 4158984a-8066-4804-99dc-b56da01f762c
+    title: Mr. T (Universal Party leader)
+    node_type: person
+    slug: mr-t-universal-party-leader
+    shared_claims: 2
+  - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
+    title: Unidentified Flying Object (UFO)
+    node_type: topic
+    slug: unidentified-flying-object-ufo
+    shared_claims: 2
+  - node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+    title: Whitley Strieber
+    node_type: person
+    slug: whitley-strieber
+    shared_claims: 2
+  - node_id: 4062a804-b25f-447a-9748-37a0cc6380b5
+    title: 42 Laws of Ma'at
+    node_type: document
+    slug: 42-laws-of-maat
+    shared_claims: 1
+  - node_id: 6661607c-3f30-459c-8d50-3a88aeddbf94
+    title: Book of Acts
+    node_type: document
+    slug: book-of-acts
+    shared_claims: 1
+  - node_id: 9061143f-99e4-437a-b7c8-960ca432e48b
+    title: Book of Genesis
+    node_type: document
+    slug: book-of-genesis
+    shared_claims: 1
+  - node_id: 0037479a-d361-4fd0-a6e4-db89377a5a55
+    title: Didache
+    node_type: document
+    slug: didache
+    shared_claims: 1
+  - node_id: 84a43dea-0183-4bb1-b2d7-c9637920d75f
+    title: Eschatology
+    node_type: topic
+    slug: eschatology
+    shared_claims: 1
+  - node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
+    title: Jacques Vallée
+    node_type: person
+    slug: jacques-vallee
+    shared_claims: 1
+  - node_id: 623d090b-d9b4-4a0d-a85b-9273cfcdc303
+    title: Lone Stars group
+    node_type: organisation
+    slug: lone-stars-group
+    shared_claims: 1
+  - node_id: 8e36c760-c1eb-4f3b-ad60-2c4c1481477a
+    title: Mary
+    node_type: person
+    slug: mary
+    shared_claims: 1
+  - node_id: 39f00c0d-653b-454a-b0f2-e261e4568d24
+    title: Sermon on the Mount
+    node_type: document
+    slug: sermon-on-the-mount
+    shared_claims: 1
+  - node_id: e0f77a09-3b4c-4779-96ec-62b0da13d8e2
+    title: Ten Commandments
+    node_type: document
+    slug: ten-commandments
+    shared_claims: 1
+  - node_id: b54fcf2e-35dc-4c05-baae-e892c1a79140
+    title: The Bible
+    node_type: document
+    slug: the-bible
+    shared_claims: 1
+claims:
+  - claim_id: cc3d4bfd-3c25-4112-90b8-2aacabb60ffb
+    claim_hash: 4b5094e93e166e5a5db45bd5a1ca0780630ef1032498135bd93142fe40afcb73
+    content: Mr. T (Universal Party leader) said a group of saucers calling themselves the Brothers control this end of the
+      universe and had brought Christ to Earth two thousand years ago as an example for mankind.
+    original_excerpt: this is the property of one group of saucers that control this end of the universe, and they call themselves
+      the Brothers. They are the ones who brought the Christ on Earth two thousand years ago, as an example for mankind to
+      follow.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 4158984a-8066-4804-99dc-b56da01f762c
+      title: Mr. T (Universal Party leader)
+    provenance_chain:
+      origin_kind: speaker
+      origin: Mr. T (Universal Party leader)
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 4158984a-8066-4804-99dc-b56da01f762c
+        title: Mr. T (Universal Party leader)
+        slug: mr-t-universal-party-leader
+      - node_id: abc52e67-3c50-4729-80dc-89c8bfa29691
+        title: Jesus
+        slug: jesus
+    date: null
+    date_end: null
+    location_in_record: ch10:38984-39210
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: f0690aba-c78b-47f4-bb2f-f94ea04d55ee
+      record_title: 'Messengers of Deception: UFO Contacts and Cults'
+      record_date: '0101-01-01'
+      record_reference: null
+      content_hash: sha256:0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5ac9fd3168
+      friendly_name: 0101-01-01-ebook-messengers-of-deception-ufo-contacts-and-cults
+  - claim_id: 3565d3d1-1daa-4c22-a4c9-ce4fec2aaa00
+    claim_hash: 1cb267557dfeaee13b85c6c78bd909a1d73108f7104054985639b3d73cb75296
+    content: Mr. T (Universal Party leader) said he had been very close to Christ aboard the Mother Ship that Christ travels
+      on, and that Christ is described as a Prince of this end of the universe who will not come again.
+    original_excerpt: The man they sent at that time absolutely will not come again. He has been contacted, and we’ve been
+      very close to him on the Mother Ship that he travels on, and he is a Prince of this end of the universe.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 4158984a-8066-4804-99dc-b56da01f762c
+      title: Mr. T (Universal Party leader)
+    provenance_chain:
+      origin_kind: speaker
+      origin: Mr. T (Universal Party leader)
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 4158984a-8066-4804-99dc-b56da01f762c
+        title: Mr. T (Universal Party leader)
+        slug: mr-t-universal-party-leader
+      - node_id: abc52e67-3c50-4729-80dc-89c8bfa29691
+        title: Jesus
+        slug: jesus
+    date: null
+    date_end: null
+    location_in_record: ch10:39387-39583
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: f0690aba-c78b-47f4-bb2f-f94ea04d55ee
+      record_title: 'Messengers of Deception: UFO Contacts and Cults'
+      record_date: '0101-01-01'
+      record_reference: null
+      content_hash: sha256:0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5ac9fd3168
+      friendly_name: 0101-01-01-ebook-messengers-of-deception-ufo-contacts-and-cults
+  - claim_id: 16ebf186-94e6-4df1-ae79-5000cbcd5a30
+    claim_hash: b69fba6051fa095e9339a5e6c0a8a85aab1649ab5d3b8df90e4e41c714c07efa
+    content: An unnamed leader of a contactee group told Jacques Vallée that the Earth is the property of one group of saucers
+      that controls this end of the universe, who call themselves the Brothers and who brought Christ to Earth 2000 years
+      ago.
+    original_excerpt: The Earth is the property of one group of saucers that controls this end of the universe, and they call
+      themselves the Brothers, and they are the ones who brought the Christ on Earth 2000 years ago...
+    claim_type: hearsay
+    attestation: second_hand
+    speaker:
+      node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
+      title: Jacques Vallée
+    provenance_chain:
+      origin_kind: anonymous
+      origin: a person claiming to lead a contactee group
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
+        title: Jacques Vallée
+        slug: jacques-vallee
+      - node_id: abc52e67-3c50-4729-80dc-89c8bfa29691
+        title: Jesus
+        slug: jesus
+    date: null
+    date_end: null
+    location_in_record: ch4:20080-20274
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: f0690aba-c78b-47f4-bb2f-f94ea04d55ee
+      record_title: 'Messengers of Deception: UFO Contacts and Cults'
+      record_date: '0101-01-01'
+      record_reference: null
+      content_hash: sha256:0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5ac9fd3168
+      friendly_name: 0101-01-01-ebook-messengers-of-deception-ufo-contacts-and-cults
+  - claim_id: 769ed778-e1bd-4a17-96e9-9b02d9d58274
+    claim_hash: 2be164105ef5089abdaf1a2eee0e41fcbb833a271087fd1492d1c7f46017c970
+    content: In the Book of Genesis, an angel visits Mary to tell her she will give birth to the infant Jesus.
+    original_excerpt: An angel visits Mary to tell her that she will give birth to the infant Jesus.
+    claim_type: administrative
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: document
+      origin: Book of Genesis
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 8e36c760-c1eb-4f3b-ad60-2c4c1481477a
+        title: Mary
+        slug: mary
+      - node_id: 9061143f-99e4-437a-b7c8-960ca432e48b
+        title: Book of Genesis
+        slug: book-of-genesis
+      - node_id: abc52e67-3c50-4729-80dc-89c8bfa29691
+        title: Jesus
+        slug: jesus
+    date: null
+    date_end: null
+    location_in_record: ch13:7509-7581
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  - claim_id: d779ce45-e3cc-4c02-8b88-5226cd8aa81e
+    claim_hash: 1555c2f7f78626127b2e01920680fa75a721b2dffd4babd04c86c2620343096f
+    content: Jason Samosa found the Sermon on the Mount particularly beautiful, and found the sayings of Jesus about how to
+      view people and their behaviour, and what it means to be good or evil, to be common sense expressed in a fresh way.
+    original_excerpt: particularly the Sermon on the Mount. I read that, and I found some of the things that Jesus was saying
+      were so profound... it was actually just common sense in terms of how you view people and their behavior. What does
+      it really mean to be good or to be evil? He cuts through the conversation in a fresh way.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: ff0a86b8-8f3c-4291-94ed-c6d303875ce8
+      title: Jason Samosa
+    provenance_chain:
+      origin_kind: speaker
+      origin: Jason Samosa
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 39f00c0d-653b-454a-b0f2-e261e4568d24
+        title: Sermon on the Mount
+        slug: sermon-on-the-mount
+      - node_id: abc52e67-3c50-4729-80dc-89c8bfa29691
+        title: Jesus
+        slug: jesus
+      - node_id: ff0a86b8-8f3c-4291-94ed-c6d303875ce8
+        title: Jason Samosa
+        slug: jason-samosa
+    date: null
+    date_end: null
+    location_in_record: 00:26:39.2-00:27:00.8
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 64b84f95-238c-4ab7-a678-bee55f985b14
+      record_title: The UFO Cover-Up Leads to One Secret Society — and One Final Event
+      record_date: '2026-07-14'
+      record_reference: https://www.youtube.com/watch?v=kccrkCGGzX4
+      content_hash: sha256:d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7b5a1b98d
+      friendly_name: null
+  - claim_id: c97a9b8f-96dc-4074-9681-b9e6213d2ac6
+    claim_hash: 0933f4a2ca8b80db19d5274f8d0caa4e242c2b4f49f84e05c0803f735fee36fd
+    content: Jason Samosa lost his Christian faith after failing to prove that he was in communication with God, that the
+      Bible was literally inspired by God, or that Jesus had risen from the dead, despite satisfying himself of the historicity
+      of large parts of the Bible.
+    original_excerpt: No matter how far I went in terms of proving the genuine historicity of large chunks of the Bible...
+      I couldn't prove that I was in communication with God, that the Bible was literally inspired by God, or that Jesus had
+      risen from the dead.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: ff0a86b8-8f3c-4291-94ed-c6d303875ce8
+      title: Jason Samosa
+    provenance_chain:
+      origin_kind: speaker
+      origin: Jason Samosa
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: abc52e67-3c50-4729-80dc-89c8bfa29691
+        title: Jesus
+        slug: jesus
+      - node_id: b54fcf2e-35dc-4c05-baae-e892c1a79140
+        title: The Bible
+        slug: the-bible
+      - node_id: ff0a86b8-8f3c-4291-94ed-c6d303875ce8
+        title: Jason Samosa
+        slug: jason-samosa
+    date: null
+    date_end: null
+    location_in_record: 00:28:49.3-00:29:06.9
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 64b84f95-238c-4ab7-a678-bee55f985b14
+      record_title: The UFO Cover-Up Leads to One Secret Society — and One Final Event
+      record_date: '2026-07-14'
+      record_reference: https://www.youtube.com/watch?v=kccrkCGGzX4
+      content_hash: sha256:d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7b5a1b98d
+      friendly_name: null
+  - claim_id: 85b5124f-effe-4bf3-a349-f41dc5087ebd
+    claim_hash: b56b2359705d1cf3f2518168b305f594ed9de0cd586e318c8a602c303de6fb64
+    content: Jason Samosa believes there is an unresolved mystery about what happened with Jesus, and regards Jesus as an
+      astonishing individual.
+    original_excerpt: I believe there's a mystery there about what happened with Jesus. I think he was an astonishing individual.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: ff0a86b8-8f3c-4291-94ed-c6d303875ce8
+      title: Jason Samosa
+    provenance_chain:
+      origin_kind: speaker
+      origin: Jason Samosa
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: abc52e67-3c50-4729-80dc-89c8bfa29691
+        title: Jesus
+        slug: jesus
+      - node_id: ff0a86b8-8f3c-4291-94ed-c6d303875ce8
+        title: Jason Samosa
+        slug: jason-samosa
+    date: null
+    date_end: null
+    location_in_record: 00:29:08.0-00:29:11.6
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 64b84f95-238c-4ab7-a678-bee55f985b14
+      record_title: The UFO Cover-Up Leads to One Secret Society — and One Final Event
+      record_date: '2026-07-14'
+      record_reference: https://www.youtube.com/watch?v=kccrkCGGzX4
+      content_hash: sha256:d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7b5a1b98d
+      friendly_name: null
+  - claim_id: d91bcbe7-3337-484a-ae3d-030a771377c6
+    claim_hash: 0079bb88f99a4d36a285873d147ae6ef7b4c5547c9f137ba3059d46088e7bc7e
+    content: Jesse Michels considers the outlook of the Lone Stars group figure he describes to be eschatological at its core,
+      holding that Jesus will arrive on a flying saucer.
+    original_excerpt: And I think, I think he believes that Jesus will show up on a flying saucer or something. it's eschatological
+      at its core.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 079d4381-4273-418b-bc9a-468623f95c6e
+      title: Jesse Mitchells
+    provenance_chain:
+      origin_kind: speaker
+      origin: Jesse Michels
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 079d4381-4273-418b-bc9a-468623f95c6e
+        title: Jesse Mitchells
+        slug: jesse-mitchells
+      - node_id: 623d090b-d9b4-4a0d-a85b-9273cfcdc303
+        title: Lone Stars group
+        slug: lone-stars-group
+      - node_id: 84a43dea-0183-4bb1-b2d7-c9637920d75f
+        title: Eschatology
+        slug: eschatology
+      - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
+        title: Unidentified Flying Object (UFO)
+        slug: unidentified-flying-object-ufo
+      - node_id: abc52e67-3c50-4729-80dc-89c8bfa29691
+        title: Jesus
+        slug: jesus
+    date: null
+    date_end: null
+    location_in_record: 02:03:00.1-02:03:09.3
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 64b84f95-238c-4ab7-a678-bee55f985b14
+      record_title: The UFO Cover-Up Leads to One Secret Society — and One Final Event
+      record_date: '2026-07-14'
+      record_reference: https://www.youtube.com/watch?v=kccrkCGGzX4
+      content_hash: sha256:d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7b5a1b98d
+      friendly_name: null
+  - claim_id: f2ed55a1-c84b-4614-8ea5-2e64f3061c6d
+    claim_hash: a915c69fca89cf7b6ba6930603dae1bd9d61bf68d7f653ca1730942a88202b3e
+    content: Some people interpret the ascension of Jesus into a cloud described in the Book of Acts as a flying saucer.
+    original_excerpt: I think there are people who think that, you know, the Jesus going up on the cloud in the book of acts
+      as a, you know, as a flying saucer or something.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 079d4381-4273-418b-bc9a-468623f95c6e
+      title: Jesse Mitchells
+    provenance_chain:
+      origin_kind: speaker
+      origin: Jesse Michels
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 079d4381-4273-418b-bc9a-468623f95c6e
+        title: Jesse Mitchells
+        slug: jesse-mitchells
+      - node_id: 6661607c-3f30-459c-8d50-3a88aeddbf94
+        title: Book of Acts
+        slug: book-of-acts
+      - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
+        title: Unidentified Flying Object (UFO)
+        slug: unidentified-flying-object-ufo
+      - node_id: abc52e67-3c50-4729-80dc-89c8bfa29691
+        title: Jesus
+        slug: jesus
+    date: null
+    date_end: null
+    location_in_record: 02:03:25.7-02:03:32.7
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 64b84f95-238c-4ab7-a678-bee55f985b14
+      record_title: The UFO Cover-Up Leads to One Secret Society — and One Final Event
+      record_date: '2026-07-14'
+      record_reference: https://www.youtube.com/watch?v=kccrkCGGzX4
+      content_hash: sha256:d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7b5a1b98d
+      friendly_name: null
+  - claim_id: 2a2a7dd0-04be-4f7d-b25b-982a49e43e7e
+    claim_hash: 066ae56d9d5fc9c1476378cb5064a70d6adad7b12d536c197f2a2755f77ba3c8
+    content: Jason Samosa considers Jesus the most influential person of all time while very little is known about him.
+    original_excerpt: he's like the most influential person of all time, but we just don't know much about him.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: ff0a86b8-8f3c-4291-94ed-c6d303875ce8
+      title: Jason Samosa
+    provenance_chain:
+      origin_kind: speaker
+      origin: Jason Samosa
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: abc52e67-3c50-4729-80dc-89c8bfa29691
+        title: Jesus
+        slug: jesus
+      - node_id: ff0a86b8-8f3c-4291-94ed-c6d303875ce8
+        title: Jason Samosa
+        slug: jason-samosa
+    date: null
+    date_end: null
+    location_in_record: 02:03:36.2-02:03:40.1
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 64b84f95-238c-4ab7-a678-bee55f985b14
+      record_title: The UFO Cover-Up Leads to One Secret Society — and One Final Event
+      record_date: '2026-07-14'
+      record_reference: https://www.youtube.com/watch?v=kccrkCGGzX4
+      content_hash: sha256:d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7b5a1b98d
+      friendly_name: null
+  - claim_id: 75da835f-8524-41ef-8cd5-b612c9c46b1f
+    claim_hash: db21f0e0a70aded36e33fb7bc7c5de65fc53fca5c63409210186917934c2ff59
+    content: Jesse Michels believes Jesus was a real historical figure.
+    original_excerpt: I mean, I think he was a real historical figure.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 079d4381-4273-418b-bc9a-468623f95c6e
+      title: Jesse Mitchells
+    provenance_chain:
+      origin_kind: speaker
+      origin: Jesse Michels
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 079d4381-4273-418b-bc9a-468623f95c6e
+        title: Jesse Mitchells
+        slug: jesse-mitchells
+      - node_id: abc52e67-3c50-4729-80dc-89c8bfa29691
+        title: Jesus
+        slug: jesus
+    date: null
+    date_end: null
+    location_in_record: 02:03:54.5-02:03:56.2
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 64b84f95-238c-4ab7-a678-bee55f985b14
+      record_title: The UFO Cover-Up Leads to One Secret Society — and One Final Event
+      record_date: '2026-07-14'
+      record_reference: https://www.youtube.com/watch?v=kccrkCGGzX4
+      content_hash: sha256:d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7b5a1b98d
+      friendly_name: null
+  - claim_id: 6e78b41e-c1b5-4e47-86ba-ebad9aadf74a
+    claim_hash: 7865f325a6c7baeda5393fefba7125a1c7cd9c6a65fa7bad72f72cce2480a68d
+    content: Jesse Michels expects that if one were in a room with Jesus he would be notable, with an interesting energy and
+      a disproportionate impact on the room.
+    original_excerpt: my guess would also be if we were in the room with Jesus, he would be notable in any room he's in...
+      have a disproportionate impact
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 079d4381-4273-418b-bc9a-468623f95c6e
+      title: Jesse Mitchells
+    provenance_chain:
+      origin_kind: speaker
+      origin: Jesse Michels
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 079d4381-4273-418b-bc9a-468623f95c6e
+        title: Jesse Mitchells
+        slug: jesse-mitchells
+      - node_id: abc52e67-3c50-4729-80dc-89c8bfa29691
+        title: Jesus
+        slug: jesus
+    date: null
+    date_end: null
+    location_in_record: 02:04:09.8-02:04:17.8
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 64b84f95-238c-4ab7-a678-bee55f985b14
+      record_title: The UFO Cover-Up Leads to One Secret Society — and One Final Event
+      record_date: '2026-07-14'
+      record_reference: https://www.youtube.com/watch?v=kccrkCGGzX4
+      content_hash: sha256:d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7b5a1b98d
+      friendly_name: null
+  - claim_id: 8762e4df-77c1-446d-9d04-455475eb618c
+    claim_hash: a10aeb72c1453fcaf32123d9e3acf675e4a924f3172ee056c5d005720175e436
+    content: The 42 Laws of Ma'at of the ancient Egyptians were a set of laws about how to live a good life which were consolidated
+      into the Ten Commandments and later repeated in a different form by Jesus.
+    original_excerpt: the 42 laws of Ma'at of the ancient egyptians which were the set of laws about how to live a good life
+      that were consolidated and became the 10 commandments and then were repeated in a different form by Jesus
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+      title: Whitley Strieber
+    provenance_chain:
+      origin_kind: speaker
+      origin: Whitley Strieber
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 4062a804-b25f-447a-9748-37a0cc6380b5
+        title: 42 Laws of Ma'at
+        slug: 42-laws-of-maat
+      - node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+        title: Whitley Strieber
+        slug: whitley-strieber
+      - node_id: abc52e67-3c50-4729-80dc-89c8bfa29691
+        title: Jesus
+        slug: jesus
+      - node_id: e0f77a09-3b4c-4779-96ec-62b0da13d8e2
+        title: Ten Commandments
+        slug: ten-commandments
+    date: null
+    date_end: null
+    location_in_record: 00:21:12.9-00:21:27.8
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 7e583a7d-790d-4cfe-bbee-95c3d542e67a
+      record_title: Whitley Strieber Reveals What 40 Years of Encounters Taught Him | Reality Check Rewind
+      record_date: '2026-08-14'
+      record_reference: https://www.youtube.com/watch?v=H7sJFNdgCI4
+      content_hash: sha256:17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c451793c5a628
+      friendly_name: null
+  - claim_id: 68dbdad1-afdf-405a-b4cc-c9459af2d54e
+    claim_hash: 1a869e2348dc629451c0bd598237d2c861670122cbb1fcabab1a6c0229a6d72a
+    content: Whitley Strieber regards the Didache as the best programme for living he has found, and says it was written by
+      the apostles shortly after the death of Jesus by people who had known him personally.
+    original_excerpt: the best life program i have ever found is the Didache that was written by the apostles right after
+      jesus died and these were people who had been exposed to him personally
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+      title: Whitley Strieber
+    provenance_chain:
+      origin_kind: speaker
+      origin: Whitley Strieber
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 0037479a-d361-4fd0-a6e4-db89377a5a55
+        title: Didache
+        slug: didache
+      - node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+        title: Whitley Strieber
+        slug: whitley-strieber
+      - node_id: abc52e67-3c50-4729-80dc-89c8bfa29691
+        title: Jesus
+        slug: jesus
+    date: null
+    date_end: null
+    location_in_record: 00:21:37.2-00:21:50.7
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 7e583a7d-790d-4cfe-bbee-95c3d542e67a
+      record_title: Whitley Strieber Reveals What 40 Years of Encounters Taught Him | Reality Check Rewind
+      record_date: '2026-08-14'
+      record_reference: https://www.youtube.com/watch?v=H7sJFNdgCI4
+      content_hash: sha256:17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c451793c5a628
+      friendly_name: null

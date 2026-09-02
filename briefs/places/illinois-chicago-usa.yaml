@@ -1,0 +1,514 @@
+schema: anomalica/brief/1
+brief_hash: a1a08e4b033d4b83192537a00d4cd314035b55aba2cabb952629d570fa114b88
+page:
+  kind: entity
+  node_id: aaf20f22-7a2e-478d-badb-214d022969fc
+  node_type: place
+  title: USA, Illinois, Chicago
+  slug: illinois-chicago-usa
+  claim_count: 11
+  claim_count_total: 11
+generated:
+  graph_version: '2026-09-01T10:10:49.863545+00:00'
+size:
+  claims: 11
+  tokens_estimated: 3306
+  sized_against: 1050000
+publication:
+  status: published
+  note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
+    transcripts are gated elsewhere.
+belonging:
+  verified: 0
+  suspect_excluded: 0
+  unreviewed: 11
+related_nodes:
+  - node_id: 0aad9179-33c1-4383-aab7-5eb12429386e
+    title: Erik Nanstiel
+    node_type: person
+    slug: erik-nanstiel
+    shared_claims: 3
+  - node_id: 14a28fcf-6ed3-45c5-b107-e46117e024b7
+    title: 1957 train trip abduction memory (age twelve)
+    node_type: event
+    slug: 1957-train-trip-abduction-memory-age-twelve
+    shared_claims: 1
+  - node_id: 16e14832-4c90-4d84-8d67-55fca9d623be
+    title: 1957-07 family trip to Madison, Wisconsin
+    node_type: event
+    slug: wisconsin-1957-07-family-trip-to-madison
+    shared_claims: 1
+  - node_id: 6868042d-2525-4808-96f4-d74c1c3522da
+    title: Alien-human hybridisation programme
+    node_type: topic
+    slug: alien-human-hybridisation-programme
+    shared_claims: 1
+  - node_id: 499fffe9-4707-4d7e-bde4-a3701cfe6340
+    title: Deep underground military bases (DUMBs)
+    node_type: topic
+    slug: deep-underground-military-bases-dumbs
+    shared_claims: 1
+  - node_id: a081e647-7d45-4a5b-83d8-2f42762ea9d0
+    title: Jim Tucker
+    node_type: person
+    slug: jim-tucker
+    shared_claims: 1
+  - node_id: 953f6232-9902-437f-ad4c-add4fd080043
+    title: Leslie Kean
+    node_type: person
+    slug: leslie-kean
+    shared_claims: 1
+  - node_id: 905c8251-3e9c-48bd-ba97-0ac851107df1
+    title: Luke Ruehlman
+    node_type: person
+    slug: luke-ruehlman
+    shared_claims: 1
+  - node_id: 567ed501-470b-484b-bd78-018accda3043
+    title: New Madrid Fault
+    node_type: place
+    slug: new-madrid-fault
+    shared_claims: 1
+  - node_id: 66da3a02-fe7e-46f1-a344-d50afed95f73
+    title: Past-life memories in young children
+    node_type: topic
+    slug: past-life-memories-in-young-children
+    shared_claims: 1
+  - node_id: a7ae90c1-5485-4c66-9255-5796bfe65ee0
+    title: Texas Eagle (train)
+    node_type: object
+    slug: texas-eagle-train
+    shared_claims: 1
+  - node_id: 558f332b-fa7e-40b4-9904-59fc0b56b5f8
+    title: USA, Illinois, Chicago, Hilton hotel
+    node_type: place
+    slug: illinois-chicago-hilton-hotel-usa
+    shared_claims: 1
+  - node_id: e754f5d0-575c-4c4c-a418-0b215c17dedc
+    title: USA, Ohio, Columbus
+    node_type: place
+    slug: ohio-columbus-usa
+    shared_claims: 1
+  - node_id: 627b2576-c191-49e4-8f9a-509dc530d908
+    title: USA, Texas, San Antonio
+    node_type: place
+    slug: texas-san-antonio-usa
+    shared_claims: 1
+  - node_id: a48c55ce-4474-4bf3-9a0e-e59356813e18
+    title: Weeping Madonna in Chicago (1984-06-29)
+    node_type: event
+    slug: weeping-madonna-in-chicago-1984-06-29
+    shared_claims: 1
+  - node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+    title: Whitley Strieber
+    node_type: person
+    slug: whitley-strieber
+    shared_claims: 1
+claims:
+  - claim_id: 63dd4161-ba06-462a-bbbf-b3661d6ef6be
+    claim_hash: fdbdb87471ceb70f51ff29e1929d9cd343deb81e15205249321e2ee4ba625944
+    content: A Madonna statue wept tears of water in Chicago on 1984-06-29.
+    original_excerpt: on June 29 of that same year in Chicago
+    claim_type: observation
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: a48c55ce-4474-4bf3-9a0e-e59356813e18
+        title: Weeping Madonna in Chicago (1984-06-29)
+        slug: weeping-madonna-in-chicago-1984-06-29
+      - node_id: aaf20f22-7a2e-478d-badb-214d022969fc
+        title: USA, Illinois, Chicago
+        slug: illinois-chicago-usa
+    date: '1984-06-29'
+    date_end: null
+    location_in_record: ch21:1483-1515
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 171e1337-151f-40c5-8b9a-659faac4c5f6
+      record_title: The Fatima Secret
+      record_date: '2000-11-28'
+      record_reference: null
+      content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
+      friendly_name: 2000-11-28-ebook-the-fatima-secret
+  - claim_id: 812873e1-cc28-49ca-af4f-680566f6a18e
+    claim_hash: 2a8c6fe0643d0639b21b3ceb27468450292fce99b581ea2b878b6233da153b36
+    content: The family had a drawing room on the Texas Eagle train from Chicago to San Antonio, with much of the trip taking
+      place at night, during the 1957 return from Madison, Wisconsin.
+    original_excerpt: We had a drawing room on the Texas Eagle from Chicago to San Antonio, and much of the trip took place
+      at night.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+      title: Whitley Strieber
+    provenance_chain:
+      origin_kind: speaker
+      origin: Whitley Strieber
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 14a28fcf-6ed3-45c5-b107-e46117e024b7
+        title: 1957 train trip abduction memory (age twelve)
+        slug: 1957-train-trip-abduction-memory-age-twelve
+      - node_id: 627b2576-c191-49e4-8f9a-509dc530d908
+        title: USA, Texas, San Antonio
+        slug: texas-san-antonio-usa
+      - node_id: a7ae90c1-5485-4c66-9255-5796bfe65ee0
+        title: Texas Eagle (train)
+        slug: texas-eagle-train
+      - node_id: aaf20f22-7a2e-478d-badb-214d022969fc
+        title: USA, Illinois, Chicago
+        slug: illinois-chicago-usa
+    date: '1957'
+    date_end: null
+    location_in_record: ch11:11902-12007
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: ad152768-183b-4cde-bc60-1520900ceb32
+      record_title: Communion
+      record_date: '2013-06-16'
+      record_reference: null
+      content_hash: sha256:b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4001275f9
+      friendly_name: 2013-06-16-ebook-communion
+  - claim_id: c321df9b-7e14-4f91-ab45-b2f34dbe83b1
+    claim_hash: 10f57b238f2b99fdf7d988deaa3c8cf40a8439bf765b04df37ba1e43907c4c17
+    content: During the 1957 family trip, the Striebers flew to Chicago and stayed at the Hilton hotel, where Whitley Strieber
+      accidentally dropped a large milkshake out of a tenth-floor window.
+    original_excerpt: We flew to Chicago and stayed at the Hilton, where I accidentally dropped a large milk shake out of
+      a tenth-floor window.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+      title: Whitley Strieber
+    provenance_chain:
+      origin_kind: speaker
+      origin: Whitley Strieber
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 16e14832-4c90-4d84-8d67-55fca9d623be
+        title: 1957-07 family trip to Madison, Wisconsin
+        slug: wisconsin-1957-07-family-trip-to-madison
+      - node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+        title: Whitley Strieber
+        slug: whitley-strieber
+      - node_id: 558f332b-fa7e-40b4-9904-59fc0b56b5f8
+        title: USA, Illinois, Chicago, Hilton hotel
+        slug: illinois-chicago-hilton-hotel-usa
+      - node_id: aaf20f22-7a2e-478d-badb-214d022969fc
+        title: USA, Illinois, Chicago
+        slug: illinois-chicago-usa
+    date: 1957-07
+    date_end: null
+    location_in_record: ch12:10677-10791
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: ad152768-183b-4cde-bc60-1520900ceb32
+      record_title: Communion
+      record_date: '2013-06-16'
+      record_reference: null
+      content_hash: sha256:b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4001275f9
+      friendly_name: 2013-06-16-ebook-communion
+  - claim_id: 2e9dacca-222a-4247-a32a-9c97bead554e
+    claim_hash: 921c90db331a9abdc57195b076cad59be9e7ac5f6aeee7b399dd72b3316f9ce9
+    content: In 2015, Leslie Kean accompanied Jim Tucker to Columbus, Ohio, to interview the family of Luke Ruehlman, a young
+      boy who said he remembered being an African American woman named Pam who had died after jumping out of a burning building
+      in Chicago.
+    original_excerpt: In 2015, I accompanied Jim to Columbus, Ohio, to interview the family of Luke Ruehlman, a young boy
+      who said he remembered being an African American woman named Pam who had died after jumping out of a burning building
+      in Chicago.
+    claim_type: observation
+    attestation: first_hand
+    speaker:
+      node_id: 953f6232-9902-437f-ad4c-add4fd080043
+      title: Leslie Kean
+    provenance_chain:
+      origin_kind: speaker
+      origin: Leslie Kean
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 905c8251-3e9c-48bd-ba97-0ac851107df1
+        title: Luke Ruehlman
+        slug: luke-ruehlman
+      - node_id: 953f6232-9902-437f-ad4c-add4fd080043
+        title: Leslie Kean
+        slug: leslie-kean
+      - node_id: a081e647-7d45-4a5b-83d8-2f42762ea9d0
+        title: Jim Tucker
+        slug: jim-tucker
+      - node_id: aaf20f22-7a2e-478d-badb-214d022969fc
+        title: USA, Illinois, Chicago
+        slug: illinois-chicago-usa
+      - node_id: e754f5d0-575c-4c4c-a418-0b215c17dedc
+        title: USA, Ohio, Columbus
+        slug: ohio-columbus-usa
+    date: '2015'
+    date_end: null
+    location_in_record: ch10:3619-3840
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
+      record_title: Surviving Death
+      record_date: '2017-03-07'
+      record_reference: null
+      content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
+      friendly_name: 2017-03-07-ebook-surviving-death
+  - claim_id: b41b726b-a1e8-4e8d-bcbd-d888922b2762
+    claim_hash: 98d60f045091d52b2d2fccab4d3e4be10ee37ad32dee87f9665d9bd233ae1b5e
+    content: Jim Tucker considers Americans' tendency to keep quiet about children's past-life claims the primary reason why
+      past-life cases have been harder to find in the United States.
+    original_excerpt: This is one reason—and perhaps the primary reason—why cases have been harder to find here. But they
+      certainly do exist.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: a081e647-7d45-4a5b-83d8-2f42762ea9d0
+      title: Jim Tucker
+    provenance_chain:
+      origin_kind: speaker
+      origin: Jim Tucker
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 66da3a02-fe7e-46f1-a344-d50afed95f73
+        title: Past-life memories in young children
+        slug: past-life-memories-in-young-children
+      - node_id: aaf20f22-7a2e-478d-badb-214d022969fc
+        title: USA, Illinois, Chicago
+        slug: illinois-chicago-usa
+    date: null
+    date_end: null
+    location_in_record: ch11:19688-19801
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
+      record_title: Surviving Death
+      record_date: '2017-03-07'
+      record_reference: null
+      content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
+      friendly_name: 2017-03-07-ebook-surviving-death
+  - claim_id: 18767bd9-a38b-46fc-8498-3876dcf85306
+    claim_hash: 339d6bb79d4cf9afe42008c41d6f02547dd595b4b26ed8e0a5cb0a283521a3d0
+    content: In the 1970s all telephone numbers in Chicago used a single area code, 312.
+    original_excerpt: back then all the, all the phone numbers in Chicago were three, one, two area code. Uh, they only had
+      one area code.
+    claim_type: testimony
+    attestation: null
+    speaker:
+      node_id: 0aad9179-33c1-4383-aab7-5eb12429386e
+      title: Erik Nanstiel
+    provenance_chain: null
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: aaf20f22-7a2e-478d-badb-214d022969fc
+        title: USA, Illinois, Chicago
+        slug: illinois-chicago-usa
+    date: null
+    date_end: null
+    location_in_record: 00:24:09.9-00:24:17.3
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e78cf776-77b8-4b64-85e2-1e19d2787492
+      record_title: '"Skinny Bob is Real" – Lifelong Abductee Reveals Everything - Erik Nanstiel | DEBRIEFED ep. 85'
+      record_date: '2026-04-24'
+      record_reference: https://www.youtube.com/watch?v=RFI4RWzH3ik
+      content_hash: sha256:f64f70bd2f82bddc453c0c0ecb5f3923dc71758c8182587687552d8c74149b52
+      friendly_name: 2026-04-24-video-skinny-bob-is-real-lifelong-abductee-reveals-everything.v2
+  - claim_id: c16ff55b-e8ac-41ca-b986-4f1881fedd34
+    claim_hash: 5c47926a22223d1b5b3d4a993a643dbd60a61064f8f499bbb4688f3d96b1220c
+    content: Later in 1974, Erik Nanstiel's maternal grandfather Sidney, who had chronic obstructive pulmonary disease (COPD),
+      became gravely ill and was dying on the family's living room rug in Chicago after paramedics had attended; Erik knelt
+      beside him and placed his hands on him, and the medical emergency ceased.
+    original_excerpt: my grandfather, my mom's father, Sidney, came to visit... while he was in Chicago, he became very sick.
+      He had COPD and he was dying on our living room rug... And so I knelt down beside him and I put my hands on him too.
+      And his medical emergency just ceased to be. And he was okay.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 0aad9179-33c1-4383-aab7-5eb12429386e
+      title: Erik Nanstiel
+    provenance_chain: null
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 0aad9179-33c1-4383-aab7-5eb12429386e
+        title: Erik Nanstiel
+        slug: erik-nanstiel
+      - node_id: aaf20f22-7a2e-478d-badb-214d022969fc
+        title: USA, Illinois, Chicago
+        slug: illinois-chicago-usa
+    date: '1974'
+    date_end: null
+    location_in_record: 00:24:28.9-00:25:36.4
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e78cf776-77b8-4b64-85e2-1e19d2787492
+      record_title: '"Skinny Bob is Real" – Lifelong Abductee Reveals Everything - Erik Nanstiel | DEBRIEFED ep. 85'
+      record_date: '2026-04-24'
+      record_reference: https://www.youtube.com/watch?v=RFI4RWzH3ik
+      content_hash: sha256:f64f70bd2f82bddc453c0c0ecb5f3923dc71758c8182587687552d8c74149b52
+      friendly_name: 2026-04-24-video-skinny-bob-is-real-lifelong-abductee-reveals-everything.v2
+  - claim_id: 13e0bc7d-b017-4013-8401-80eb5d5e0de4
+    claim_hash: b669538595832dd9df1a1876776d7fc6aeefbde43e8359366d935b65f845e898
+    content: When Erik Nanstiel asked where his offspring were kept, a gray wall became a view screen showing a monochromatic
+      3D map of the 48 contiguous United States with state division lines, then zoomed in on Illinois and surrounding areas.
+    original_excerpt: i asked them where where are my my children my offspring where are they being kept ... they showed me
+      a gray wall And the wall became a view screen ... there was a map and it showed the United States, the 48 contiguous
+      states with the state division lines drawn in. ... And then they zoomed in on Illinois and surrounding areas.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 0aad9179-33c1-4383-aab7-5eb12429386e
+      title: Erik Nanstiel
+    provenance_chain: null
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 0aad9179-33c1-4383-aab7-5eb12429386e
+        title: Erik Nanstiel
+        slug: erik-nanstiel
+      - node_id: aaf20f22-7a2e-478d-badb-214d022969fc
+        title: USA, Illinois, Chicago
+        slug: illinois-chicago-usa
+    date: null
+    date_end: null
+    location_in_record: 01:53:06.9-01:53:58.1
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e78cf776-77b8-4b64-85e2-1e19d2787492
+      record_title: '"Skinny Bob is Real" – Lifelong Abductee Reveals Everything - Erik Nanstiel | DEBRIEFED ep. 85'
+      record_date: '2026-04-24'
+      record_reference: https://www.youtube.com/watch?v=RFI4RWzH3ik
+      content_hash: sha256:f64f70bd2f82bddc453c0c0ecb5f3923dc71758c8182587687552d8c74149b52
+      friendly_name: 2026-04-24-video-skinny-bob-is-real-lifelong-abductee-reveals-everything.v2
+  - claim_id: 3f5a96e1-89bb-4afe-9d4d-595e0a2606d6
+    claim_hash: 152e55b013e302af54414681726a3c3f138dd95b45a758c79647134cc97e24ff
+    content: Illinois is geologically very stable with little earthquake activity, and although the New Madrid Fault is not
+      too far away it has been mostly quiet.
+    original_excerpt: Illinois is geologically very stable. There's not a lot of earthquake activity. Um, you have the New
+      Madrid fault, uh, not too far away, but it ... it's been pretty quiet for the most part.
+    claim_type: opinion
+    attestation: null
+    speaker:
+      node_id: 0aad9179-33c1-4383-aab7-5eb12429386e
+      title: Erik Nanstiel
+    provenance_chain: null
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 567ed501-470b-484b-bd78-018accda3043
+        title: New Madrid Fault
+        slug: new-madrid-fault
+      - node_id: aaf20f22-7a2e-478d-badb-214d022969fc
+        title: USA, Illinois, Chicago
+        slug: illinois-chicago-usa
+    date: null
+    date_end: null
+    location_in_record: 01:56:51.6-01:57:03.4
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e78cf776-77b8-4b64-85e2-1e19d2787492
+      record_title: '"Skinny Bob is Real" – Lifelong Abductee Reveals Everything - Erik Nanstiel | DEBRIEFED ep. 85'
+      record_date: '2026-04-24'
+      record_reference: https://www.youtube.com/watch?v=RFI4RWzH3ik
+      content_hash: sha256:f64f70bd2f82bddc453c0c0ecb5f3923dc71758c8182587687552d8c74149b52
+      friendly_name: 2026-04-24-video-skinny-bob-is-real-lifelong-abductee-reveals-everything.v2
+  - claim_id: a9860886-50cf-47c0-9d4a-63bb60b9a1f9
+    claim_hash: c739eee24a356f107544773bd05afd0a3fb6f8d89f52e8b2407434315f9da91e
+    content: The cavern area runs through eastern Illinois parallel to and just west of the Indiana border.
+    original_excerpt: Eastern Illinois running parallel to the Indiana border, just west of the Indiana border.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 0aad9179-33c1-4383-aab7-5eb12429386e
+      title: Erik Nanstiel
+    provenance_chain: null
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 499fffe9-4707-4d7e-bde4-a3701cfe6340
+        title: Deep underground military bases (DUMBs)
+        slug: deep-underground-military-bases-dumbs
+      - node_id: aaf20f22-7a2e-478d-badb-214d022969fc
+        title: USA, Illinois, Chicago
+        slug: illinois-chicago-usa
+    date: null
+    date_end: null
+    location_in_record: 01:57:59.6-01:58:03.8
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e78cf776-77b8-4b64-85e2-1e19d2787492
+      record_title: '"Skinny Bob is Real" – Lifelong Abductee Reveals Everything - Erik Nanstiel | DEBRIEFED ep. 85'
+      record_date: '2026-04-24'
+      record_reference: https://www.youtube.com/watch?v=RFI4RWzH3ik
+      content_hash: sha256:f64f70bd2f82bddc453c0c0ecb5f3923dc71758c8182587687552d8c74149b52
+      friendly_name: 2026-04-24-video-skinny-bob-is-real-lifelong-abductee-reveals-everything.v2
+  - claim_id: 5eb53b86-3c8a-4dae-8841-171f3357e0ea
+    claim_hash: 3aff932b23b04a2c808100c79b22e8afc3b13c7cb9ad959535808f5ea85541dc
+    content: Erik Nanstiel is disturbed by the thought that there may be tens of thousands of hybrids living underground beneath
+      Illinois.
+    original_excerpt: I'm creeped out by the thought that there may be tens of thousands of hybrids living underground beneath
+      our feet in Illinois.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 0aad9179-33c1-4383-aab7-5eb12429386e
+      title: Erik Nanstiel
+    provenance_chain: null
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 0aad9179-33c1-4383-aab7-5eb12429386e
+        title: Erik Nanstiel
+        slug: erik-nanstiel
+      - node_id: 6868042d-2525-4808-96f4-d74c1c3522da
+        title: Alien-human hybridisation programme
+        slug: alien-human-hybridisation-programme
+      - node_id: aaf20f22-7a2e-478d-badb-214d022969fc
+        title: USA, Illinois, Chicago
+        slug: illinois-chicago-usa
+    date: null
+    date_end: null
+    location_in_record: 01:58:43.6-01:58:51.3
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e78cf776-77b8-4b64-85e2-1e19d2787492
+      record_title: '"Skinny Bob is Real" – Lifelong Abductee Reveals Everything - Erik Nanstiel | DEBRIEFED ep. 85'
+      record_date: '2026-04-24'
+      record_reference: https://www.youtube.com/watch?v=RFI4RWzH3ik
+      content_hash: sha256:f64f70bd2f82bddc453c0c0ecb5f3923dc71758c8182587687552d8c74149b52
+      friendly_name: 2026-04-24-video-skinny-bob-is-real-lifelong-abductee-reveals-everything.v2

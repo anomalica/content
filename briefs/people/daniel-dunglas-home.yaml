@@ -1,0 +1,668 @@
+schema: anomalica/brief/1
+brief_hash: e93b53e8cac943f970e8b2decb1e466c1bb6aed690a171c439702280a1014a1d
+page:
+  kind: entity
+  node_id: 5fd3a8a9-7df6-4904-bf94-2b091e8d3f0f
+  node_type: person
+  title: Daniel Dunglas Home
+  slug: daniel-dunglas-home
+  claim_count: 18
+  claim_count_total: 18
+generated:
+  graph_version: '2026-09-01T10:10:49.863545+00:00'
+size:
+  claims: 18
+  tokens_estimated: 5161
+  sized_against: 1050000
+publication:
+  status: published
+  note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
+    transcripts are gated elsewhere.
+belonging:
+  verified: 0
+  suspect_excluded: 0
+  unreviewed: 18
+related_nodes:
+  - node_id: e0db0e22-b38e-4cb5-b1b6-0e4790876f9e
+    title: William Crookes
+    node_type: person
+    slug: william-crookes
+    shared_claims: 7
+  - node_id: e7d1f5fb-e4b0-4ad8-b0df-8e75d1585cae
+    title: Eusapia Palladino
+    node_type: person
+    slug: eusapia-palladino
+    shared_claims: 1
+  - node_id: 513f6595-b6ed-429b-bcd6-7200533c6dd1
+    title: Indridi Indridason
+    node_type: person
+    slug: indridi-indridason
+    shared_claims: 1
+  - node_id: 3f40e3be-237a-43f4-91f5-fe8c70d19ecc
+    title: Living matter through matter (mediumship phenomenon)
+    node_type: topic
+    slug: living-matter-through-matter-mediumship-phenomenon
+    shared_claims: 1
+  - node_id: 5b9aead5-37b6-4c06-a3e6-74455a076a25
+    title: Mark Twain
+    node_type: person
+    slug: mark-twain
+    shared_claims: 1
+  - node_id: 5a9dfa4a-7bdc-46a0-8e93-d8a91ab0bf58
+    title: UK, Scotland
+    node_type: place
+    slug: scotland-uk
+    shared_claims: 1
+claims:
+  - claim_id: 22c188d6-a0b2-4ab0-a017-48d128ea16fd
+    claim_hash: 3ab8cbbf0ae7808d905534642296a948683cfe8ef56cc5a103e281a32f45f37a
+    content: Daniel Dunglas Home lived from 1833 to 1886.
+    original_excerpt: Daniel Dunglas Home (1833–1886)
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 5fd3a8a9-7df6-4904-bf94-2b091e8d3f0f
+        title: Daniel Dunglas Home
+        slug: daniel-dunglas-home
+    date: null
+    date_end: null
+    location_in_record: ch35:23892-23918
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
+      record_title: Surviving Death
+      record_date: '2017-03-07'
+      record_reference: null
+      content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
+      friendly_name: 2017-03-07-ebook-surviving-death
+  - claim_id: 0d5ad3aa-5864-4edf-8b12-5a8875bee987
+    claim_hash: cf978f6f7cfdf19b5355202a67ded304c77a1f0fbd9ffb6ac7b0c9a49187d223
+    content: Daniel Dunglas Home is considered, along with Eusapia Palladino, to be one of the most impressive mediums ever.
+    original_excerpt: considered along with Eusapia to be one of the most impressive mediums ever
+    claim_type: opinion
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 5fd3a8a9-7df6-4904-bf94-2b091e8d3f0f
+        title: Daniel Dunglas Home
+        slug: daniel-dunglas-home
+      - node_id: e7d1f5fb-e4b0-4ad8-b0df-8e75d1585cae
+        title: Eusapia Palladino
+        slug: eusapia-palladino
+    date: null
+    date_end: null
+    location_in_record: ch35:23925-23996
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
+      record_title: Surviving Death
+      record_date: '2017-03-07'
+      record_reference: null
+      content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
+      friendly_name: 2017-03-07-ebook-surviving-death
+  - claim_id: 03d678ae-4103-4720-8ebf-3f380fa1b554
+    claim_hash: 3f515ecdc312e4b43ceb5e67fd377ec0f65422443f92374799ef955276a13f6e
+    content: Daniel Dunglas Home demonstrated mediumship for twenty-five years and was never accused of cheating.
+    original_excerpt: demonstrated for twenty-five years and was never accused of cheating
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 5fd3a8a9-7df6-4904-bf94-2b091e8d3f0f
+        title: Daniel Dunglas Home
+        slug: daniel-dunglas-home
+    date: null
+    date_end: null
+    location_in_record: ch35:24002-24062
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
+      record_title: Surviving Death
+      record_date: '2017-03-07'
+      record_reference: null
+      content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
+      friendly_name: 2017-03-07-ebook-surviving-death
+  - claim_id: 3891d29f-abc5-4c41-95ec-0ce2b4b9be80
+    claim_hash: f50dcf99b91ded06435600c948f26e5c23e228ff696c323475518dc1a2154a21
+    content: Daniel Dunglas Home was born in Scotland and raised in America.
+    original_excerpt: Born in Scotland but raised in America
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 5a9dfa4a-7bdc-46a0-8e93-d8a91ab0bf58
+        title: UK, Scotland
+        slug: scotland-uk
+      - node_id: 5fd3a8a9-7df6-4904-bf94-2b091e8d3f0f
+        title: Daniel Dunglas Home
+        slug: daniel-dunglas-home
+    date: null
+    date_end: null
+    location_in_record: ch35:24072-24103
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
+      record_title: Surviving Death
+      record_date: '2017-03-07'
+      record_reference: null
+      content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
+      friendly_name: 2017-03-07-ebook-surviving-death
+  - claim_id: ecb87c99-c412-4dc2-9f40-cfadb0e6096d
+    claim_hash: 42978a2801d041937f09f78ebff50d7ab2ac91630eaec22a8c86e19d6df34c77
+    content: Daniel Dunglas Home was under carefully controlled observation for many years by William Crookes, a prominent
+      chemist and physicist.
+    original_excerpt: Home (pronounced "Hume") was under carefully controlled observation for many years by Sir William Crookes,
+      a prominent chemist and physicist noted for his discovery of the element thallium and for his cathode-ray studies.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 5fd3a8a9-7df6-4904-bf94-2b091e8d3f0f
+        title: Daniel Dunglas Home
+        slug: daniel-dunglas-home
+      - node_id: e0db0e22-b38e-4cb5-b1b6-0e4790876f9e
+        title: William Crookes
+        slug: william-crookes
+    date: null
+    date_end: null
+    location_in_record: ch35:24112-24325
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
+      record_title: Surviving Death
+      record_date: '2017-03-07'
+      record_reference: null
+      content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
+      friendly_name: 2017-03-07-ebook-surviving-death
+  - claim_id: c82ce6bf-5f79-44f4-acb6-7d8375d91a55
+    claim_hash: 49f2e408f5a229a8b43d67c772e0b77547134060e992efab2f12a844cc6278f3
+    content: Among the phenomena Daniel Dunglas Home repeatedly generated were hands that were supple, solid, mobile, and
+      warm, of different sizes, shapes, and colours.
+    original_excerpt: Hands, supple, solid, mobile, and warm, of different sizes, shapes, and colors.
+    claim_type: observation
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: named
+      origin: Stephen Braude
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 5fd3a8a9-7df6-4904-bf94-2b091e8d3f0f
+        title: Daniel Dunglas Home
+        slug: daniel-dunglas-home
+    date: null
+    date_end: null
+    location_in_record: ch35:24495-24567
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
+      record_title: Surviving Death
+      record_date: '2017-03-07'
+      record_reference: null
+      content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
+      friendly_name: 2017-03-07-ebook-surviving-death
+  - claim_id: d73b0252-0634-4e51-8683-c4b0aa5fe432
+    claim_hash: 8bab305400c9a983df4d0b861a90cf660edc00904a0f80b12b3873ff9ec5df35
+    content: The hands manifested by Daniel Dunglas Home were animated and solid to the touch, but would often end at or near
+      the wrist and eventually dissolve or melt.
+    original_excerpt: Although the hands were animated and solid to the touch, they would often end at or near the wrist and
+      eventually dissolve or melt.
+    claim_type: observation
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: named
+      origin: Stephen Braude
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 5fd3a8a9-7df6-4904-bf94-2b091e8d3f0f
+        title: Daniel Dunglas Home
+        slug: daniel-dunglas-home
+    date: null
+    date_end: null
+    location_in_record: ch35:24575-24701
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
+      record_title: Surviving Death
+      record_date: '2017-03-07'
+      record_reference: null
+      content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
+      friendly_name: 2017-03-07-ebook-surviving-death
+  - claim_id: 24bbed18-9cf1-45ea-8604-cd0f0f046aab
+    claim_hash: 60e13960446e6c769642094837b919a41a2b6c91e848ca87adbd75e3586804c8
+    content: The hands manifested by Daniel Dunglas Home were sometimes said to be disfigured exactly as the hands of a deceased
+      ostensible communicator, unknown to Home, had been.
+    original_excerpt: Sometimes the hands were said to be disfigured exactly as the hands of a deceased ostensible communicator
+      (unknown to Home) had been.
+    claim_type: observation
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: named
+      origin: Stephen Braude
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 5fd3a8a9-7df6-4904-bf94-2b091e8d3f0f
+        title: Daniel Dunglas Home
+        slug: daniel-dunglas-home
+    date: null
+    date_end: null
+    location_in_record: ch35:24707-24837
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
+      record_title: Surviving Death
+      record_date: '2017-03-07'
+      record_reference: null
+      content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
+      friendly_name: 2017-03-07-ebook-surviving-death
+  - claim_id: 1f37f3f5-36e5-4a90-a5a6-57ea63b782eb
+    claim_hash: 28a97beff872055b01408ebe2cce4e4accd96c830dd55b9365883a6ad8355200
+    content: William Crookes observed on one occasion a small hand and arm, like a baby's, appear and play about a lady sitting
+      next to him during a séance with Daniel Dunglas Home, then pass to him and pat his arm and pull his coat several times.
+    original_excerpt: On another occasion a small hand and arm, like a baby's, appeared playing about a lady who was sitting
+      next to me. It then passed to me and patted my arm and pulled my coat several times.
+    claim_type: observation
+    attestation: first_hand
+    speaker:
+      node_id: e0db0e22-b38e-4cb5-b1b6-0e4790876f9e
+      title: William Crookes
+    provenance_chain:
+      origin_kind: speaker
+      origin: William Crookes
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 5fd3a8a9-7df6-4904-bf94-2b091e8d3f0f
+        title: Daniel Dunglas Home
+        slug: daniel-dunglas-home
+      - node_id: e0db0e22-b38e-4cb5-b1b6-0e4790876f9e
+        title: William Crookes
+        slug: william-crookes
+    date: null
+    date_end: null
+    location_in_record: ch35:24906-25089
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
+      record_title: Surviving Death
+      record_date: '2017-03-07'
+      record_reference: null
+      content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
+      friendly_name: 2017-03-07-ebook-surviving-death
+  - claim_id: 46bad456-ad7e-4643-ad03-c2cb54c12d55
+    claim_hash: d6653b85ac95396d1df370b39ab3d424d5c1c7b841280e9b6018398dd8dd8386
+    content: William Crookes observed a hand repeatedly playing the keys of an accordion while both of the medium's hands
+      were visible at the same time, sometimes being held by those near him, during séances with Daniel Dunglas Home.
+    original_excerpt: A hand has repeatedly been seen by myself and others playing the keys of an accordion, both of the medium's
+      hands being visible at the same time, and sometimes being held by those near him.
+    claim_type: observation
+    attestation: first_hand
+    speaker:
+      node_id: e0db0e22-b38e-4cb5-b1b6-0e4790876f9e
+      title: William Crookes
+    provenance_chain:
+      origin_kind: speaker
+      origin: William Crookes
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 5fd3a8a9-7df6-4904-bf94-2b091e8d3f0f
+        title: Daniel Dunglas Home
+        slug: daniel-dunglas-home
+      - node_id: e0db0e22-b38e-4cb5-b1b6-0e4790876f9e
+        title: William Crookes
+        slug: william-crookes
+    date: null
+    date_end: null
+    location_in_record: ch35:25100-25287
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
+      record_title: Surviving Death
+      record_date: '2017-03-07'
+      record_reference: null
+      content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
+      friendly_name: 2017-03-07-ebook-surviving-death
+  - claim_id: 7f0e4619-4bc1-49a2-b21d-edaccb7bf680
+    claim_hash: 14f8bb83194b38fba76564750c5a1c21749c94060931876a561ded616aa7e96a
+    content: William Crookes observed that to the touch the materialized hand sometimes appeared icy cold and dead, and at
+      other times warm and lifelike, grasping his own with the firm pressure of an old friend.
+    original_excerpt: To the touch the hand sometimes appears icy cold and dead, at other times warm and lifelike, grasping
+      my own with the firm pressure of an old friend.
+    claim_type: observation
+    attestation: first_hand
+    speaker:
+      node_id: e0db0e22-b38e-4cb5-b1b6-0e4790876f9e
+      title: William Crookes
+    provenance_chain:
+      origin_kind: speaker
+      origin: William Crookes
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 5fd3a8a9-7df6-4904-bf94-2b091e8d3f0f
+        title: Daniel Dunglas Home
+        slug: daniel-dunglas-home
+      - node_id: e0db0e22-b38e-4cb5-b1b6-0e4790876f9e
+        title: William Crookes
+        slug: william-crookes
+    date: null
+    date_end: null
+    location_in_record: ch35:25296-25440
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
+      record_title: Surviving Death
+      record_date: '2017-03-07'
+      record_reference: null
+      content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
+      friendly_name: 2017-03-07-ebook-surviving-death
+  - claim_id: 8cb1ca51-b1b6-4073-bf5d-2d2d28833e98
+    claim_hash: d62e90bded453620a58215bc50cda842fde2411141109379b560fa87d5e2b165
+    content: The strength and variety of Indridi Indridason's observed phenomena resemble those associated with Daniel Dunglas
+      Home, considered one of the most remarkable physical mediums ever studied.
+    original_excerpt: the strength and variety of the observed phenomena resemble those associated with Daniel Dunglas Home,
+      considered to be one of the most remarkable physical mediums ever studied
+    claim_type: opinion
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 513f6595-b6ed-429b-bcd6-7200533c6dd1
+        title: Indridi Indridason
+        slug: indridi-indridason
+      - node_id: 5fd3a8a9-7df6-4904-bf94-2b091e8d3f0f
+        title: Daniel Dunglas Home
+        slug: daniel-dunglas-home
+    date: null
+    date_end: null
+    location_in_record: ch36:3466-3635
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
+      record_title: Surviving Death
+      record_date: '2017-03-07'
+      record_reference: null
+      content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
+      friendly_name: 2017-03-07-ebook-surviving-death
+  - claim_id: f711c853-f081-4851-a0ba-7b3e37d170c3
+    claim_hash: d95a7aba38e2e22c0027412ae8aa6742a5d8d1c469a84284adb346e51ab73115
+    content: In William Crookes's account, the spirit communicator said it was impossible for matter to pass through matter,
+      but that they would show what they could do.
+    original_excerpt: 'The spirit communicator stated: “It is impossible for matter to pass through matter, but we will show
+      you what we can do.”'
+    claim_type: testimony
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: document
+      origin: William Crookes's account of the séance with Daniel Dunglas Home
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 5fd3a8a9-7df6-4904-bf94-2b091e8d3f0f
+        title: Daniel Dunglas Home
+        slug: daniel-dunglas-home
+      - node_id: e0db0e22-b38e-4cb5-b1b6-0e4790876f9e
+        title: William Crookes
+        slug: william-crookes
+    date: null
+    date_end: null
+    location_in_record: ch38:18555-18673
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
+      record_title: Surviving Death
+      record_date: '2017-03-07'
+      record_reference: null
+      content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
+      friendly_name: 2017-03-07-ebook-surviving-death
+  - claim_id: d04c4f7f-cf69-4ffc-a0f1-c4026661ef84
+    claim_hash: e6c25cd441fee32d2f46bfd02ea5a2ec87887532f3707e1e99cfeb12b765a4a7
+    content: William Crookes wrote that in full view of all present, a piece of china-grass thirty-eight centimetres long,
+      forming the centre ornament of a bouquet on the table, slowly rose from the other flowers, descended to the table in
+      front of the vase between it and Daniel Dunglas Home, then passed straight through the table while all present watched
+      it pass through entirely.
+    original_excerpt: There was a bouquet of flowers on the center of the table. “In full view of all present, a piece of
+      china-grass fifteen inches long, which formed the center ornament of the bouquet, slowly rose from the other flowers,
+      and then descended to the table in front of the vase between it and Mr. Home. It did not stop on reaching the table,
+      but went straight through it, and we all watched it till it had entirely passed through,” Crookes wrote.
+    claim_type: observation
+    attestation: second_hand
+    speaker:
+      node_id: e0db0e22-b38e-4cb5-b1b6-0e4790876f9e
+      title: William Crookes
+    provenance_chain:
+      origin_kind: named
+      origin: William Crookes
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 3f40e3be-237a-43f4-91f5-fe8c70d19ecc
+        title: Living matter through matter (mediumship phenomenon)
+        slug: living-matter-through-matter-mediumship-phenomenon
+      - node_id: 5fd3a8a9-7df6-4904-bf94-2b091e8d3f0f
+        title: Daniel Dunglas Home
+        slug: daniel-dunglas-home
+      - node_id: e0db0e22-b38e-4cb5-b1b6-0e4790876f9e
+        title: William Crookes
+        slug: william-crookes
+    date: null
+    date_end: null
+    location_in_record: ch38:18678-19111
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
+      record_title: Surviving Death
+      record_date: '2017-03-07'
+      record_reference: null
+      content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
+      friendly_name: 2017-03-07-ebook-surviving-death
+  - claim_id: e0f3c667-a8ea-472a-8efc-c557a5afb624
+    claim_hash: baba83fe15358df12dd5fa18ebf6f427044937f52751dac790debefa2f51cd62
+    content: Daniel Dunglas Home's hands were visible to all during the china-grass-through-table phenomenon, and the grass
+      stem showed no signs of pressure or abrasion.
+    original_excerpt: Home’s hands were visible to all, and the grass stem showed no signs of pressure or abrasion.
+    claim_type: observation
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: named
+      origin: William Crookes
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 5fd3a8a9-7df6-4904-bf94-2b091e8d3f0f
+        title: Daniel Dunglas Home
+        slug: daniel-dunglas-home
+    date: null
+    date_end: null
+    location_in_record: ch38:19118-19202
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
+      record_title: Surviving Death
+      record_date: '2017-03-07'
+      record_reference: null
+      content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
+      friendly_name: 2017-03-07-ebook-surviving-death
+  - claim_id: 431a6cbd-1123-4c96-85cb-c4485e95b383
+    claim_hash: 197df4fb1bf45a5ddd782d1ed7347399448f69096a7cd59c1d24f94c67766ef7
+    content: Daniel Dunglas Home, a nineteenth-century spiritualist practitioner, was observed on some occasions to levitate.
+    original_excerpt: One nineteenth-century practitioner, Daniel Dunglas Home, was observed on some occasions to levitate.
+    claim_type: testimony
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 5fd3a8a9-7df6-4904-bf94-2b091e8d3f0f
+        title: Daniel Dunglas Home
+        slug: daniel-dunglas-home
+    date: null
+    date_end: null
+    location_in_record: ch22:26850-26942
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 759e8d7b-a820-4e00-bdc3-9aebf9e4b1b1
+      record_title: The Fourth Mind
+      record_date: '2025-01-15'
+      record_reference: null
+      content_hash: sha256:524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008e17102e7
+      friendly_name: 2025-01-15-ebook-the-fourth-mind
+  - claim_id: b89d26a8-c239-472e-af73-2fac708383d3
+    claim_hash: 363f1df65f82fa713ff7e0553b5ece29e9075317411f468ca54132f500e76e1c
+    content: Mark Twain witnessed Daniel Dunglas Home and believed him to be genuine.
+    original_excerpt: Home was witnessed by many people, including Mark Twain, who believed him to be genuine
+    claim_type: opinion
+    attestation: second_hand
+    speaker:
+      node_id: 5b9aead5-37b6-4c06-a3e6-74455a076a25
+      title: Mark Twain
+    provenance_chain:
+      origin_kind: named
+      origin: Mark Twain
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 5b9aead5-37b6-4c06-a3e6-74455a076a25
+        title: Mark Twain
+        slug: mark-twain
+      - node_id: 5fd3a8a9-7df6-4904-bf94-2b091e8d3f0f
+        title: Daniel Dunglas Home
+        slug: daniel-dunglas-home
+    date: null
+    date_end: null
+    location_in_record: ch22:26952-27032
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 759e8d7b-a820-4e00-bdc3-9aebf9e4b1b1
+      record_title: The Fourth Mind
+      record_date: '2025-01-15'
+      record_reference: null
+      content_hash: sha256:524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008e17102e7
+      friendly_name: 2025-01-15-ebook-the-fourth-mind
+  - claim_id: 85fadb92-1ee1-4d6d-9412-bbac3ec92237
+    claim_hash: c0870b64fc23d9b88d8e8d346cc87ac7bc00d650240d4aa54c6ffcc2d8f377dd
+    content: William Crookes, a noted scientist, observed Daniel Dunglas Home's levitation and found no evidence of fraud.
+    original_excerpt: a noted scientist of the period, Sir William Crookes, observed levitation and found no evidence of fraud.
+    claim_type: observation
+    attestation: second_hand
+    speaker:
+      node_id: e0db0e22-b38e-4cb5-b1b6-0e4790876f9e
+      title: William Crookes
+    provenance_chain:
+      origin_kind: named
+      origin: William Crookes
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 5fd3a8a9-7df6-4904-bf94-2b091e8d3f0f
+        title: Daniel Dunglas Home
+        slug: daniel-dunglas-home
+      - node_id: e0db0e22-b38e-4cb5-b1b6-0e4790876f9e
+        title: William Crookes
+        slug: william-crookes
+    date: null
+    date_end: null
+    location_in_record: ch22:27045-27144
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 759e8d7b-a820-4e00-bdc3-9aebf9e4b1b1
+      record_title: The Fourth Mind
+      record_date: '2025-01-15'
+      record_reference: null
+      content_hash: sha256:524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008e17102e7
+      friendly_name: 2025-01-15-ebook-the-fourth-mind

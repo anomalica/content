@@ -1,0 +1,928 @@
+schema: anomalica/brief/1
+brief_hash: d4d0c8824011152f35c074b62842a03afde9ebe2e2486e8a6d442e0a7b5f9f2f
+page:
+  kind: entity
+  node_id: 0f346560-30b4-403a-aac9-e61980a99abb
+  node_type: person
+  title: Lyndon B. Johnson
+  slug: lyndon-b-johnson
+  claim_count: 20
+  claim_count_total: 20
+generated:
+  graph_version: '2026-09-01T10:10:49.863545+00:00'
+size:
+  claims: 20
+  tokens_estimated: 6137
+  sized_against: 1050000
+publication:
+  status: published
+  note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
+    transcripts are gated elsewhere.
+belonging:
+  verified: 0
+  suspect_excluded: 0
+  unreviewed: 20
+related_nodes:
+  - node_id: c3c90829-7c63-4c5d-8ba1-e96d65aa1a03
+    title: John Fitzgerald Kennedy
+    node_type: person
+    slug: john-fitzgerald-kennedy
+    shared_claims: 9
+  - node_id: e8524112-9c3e-4279-b54f-0bb731bdd2c4
+    title: Albert Thomas
+    node_type: person
+    slug: albert-thomas
+    shared_claims: 4
+  - node_id: dba2f206-7088-4fe9-9fc5-d7228a9149f4
+    title: George Herbert Walker Bush
+    node_type: person
+    slug: george-herbert-walker-bush
+    shared_claims: 2
+  - node_id: ecded690-0f62-428e-8974-55c3d052248f
+    title: Hubert Humphrey
+    node_type: person
+    slug: hubert-humphrey
+    shared_claims: 2
+  - node_id: f78acdfd-85c8-4d1f-9d8c-4098b0610b14
+    title: Air Force One
+    node_type: object
+    slug: air-force-one
+    shared_claims: 1
+  - node_id: 507f01bf-31d9-4cbe-85b7-8ca02a950653
+    title: Apollo 11 Moon landing, 1969-07-20
+    node_type: event
+    slug: 1969-07-20-apollo-11-moon-landing
+    shared_claims: 1
+  - node_id: 38b84d4a-96df-4684-bb46-f6f64f392add
+    title: Central Intelligence Agency (CIA)
+    node_type: organisation
+    slug: central-intelligence-agency-cia
+    shared_claims: 1
+  - node_id: 816c219b-6372-49f6-9579-5eeabb9a7474
+    title: Donald Trump
+    node_type: person
+    slug: donald-trump
+    shared_claims: 1
+  - node_id: c42affaf-f9cf-442e-b94c-448f89f3bcf7
+    title: Doris Kearns Goodwin
+    node_type: person
+    slug: doris-kearns-goodwin
+    shared_claims: 1
+  - node_id: f175f6db-6c31-49bc-9ca8-0e4487fd7d39
+    title: Dwight D. Eisenhower
+    node_type: person
+    slug: dwight-d-eisenhower
+    shared_claims: 1
+  - node_id: b8e249c9-99ce-400d-932b-11367e6f20ed
+    title: E. H. Lamont
+    node_type: person
+    slug: e-h-lamont
+    shared_claims: 1
+  - node_id: 589d7469-f87f-4da5-afa8-cabca7be6818
+    title: Harry S. Truman
+    node_type: person
+    slug: harry-s-truman
+    shared_claims: 1
+  - node_id: ab7339ae-129c-4aeb-9748-570d481f8109
+    title: Jack Valenti
+    node_type: person
+    slug: jack-valenti
+    shared_claims: 1
+  - node_id: 17f8929f-cd7d-4062-bf3c-d3190de62d05
+    title: James Webb
+    node_type: person
+    slug: james-webb
+    shared_claims: 1
+  - node_id: 898c410a-7789-4762-b6dd-1139ced89658
+    title: Jimmy Carter
+    node_type: person
+    slug: jimmy-carter
+    shared_claims: 1
+  - node_id: 5e47c787-005b-4c91-ba4b-c9bec48146c9
+    title: National Aeronautics and Space Administration (NASA)
+    node_type: organisation
+    slug: national-aeronautics-and-space-administration-nasa
+    shared_claims: 1
+  - node_id: e2cd842a-1c1c-4bb8-8586-b9ef6d2cd4e3
+    title: National Space Council
+    node_type: organisation
+    slug: national-space-council
+    shared_claims: 1
+  - node_id: 1fa66dfc-6e67-4838-a828-fcf88d3bdfc0
+    title: Nikita Khrushchev
+    node_type: person
+    slug: nikita-khrushchev
+    shared_claims: 1
+  - node_id: 1c74a06c-1b3f-43b4-b54c-3f6b44fd8192
+    title: Ronald Reagan
+    node_type: person
+    slug: ronald-reagan
+    shared_claims: 1
+  - node_id: 7f7dbb2c-f1a7-4781-a20e-8f3a1a771d6b
+    title: SR-71 Blackbird
+    node_type: object
+    slug: sr-71-blackbird
+    shared_claims: 1
+  - node_id: a72eb6bd-0f1c-4573-a8ef-ac760b189cc8
+    title: Saint John Hunt
+    node_type: person
+    slug: saint-john-hunt
+    shared_claims: 1
+  - node_id: 9339f1ee-3e9d-468d-99ca-4924b08a49d2
+    title: USA, Texas, Dallas, Dealey Plaza
+    node_type: place
+    slug: texas-dallas-dealey-plaza-usa
+    shared_claims: 1
+  - node_id: ab63774b-6526-48b8-9aff-358ac45f683a
+    title: USA, Texas, Houston, Manned Spacecraft Center
+    node_type: place
+    slug: texas-houston-manned-spacecraft-center-usa
+    shared_claims: 1
+  - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
+    title: Unidentified Anomalous Phenomena (UAP)
+    node_type: topic
+    slug: unidentified-anomalous-phenomena-uap
+    shared_claims: 1
+  - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
+    title: Unidentified Flying Object (UFO)
+    node_type: topic
+    slug: unidentified-flying-object-ufo
+    shared_claims: 1
+  - node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+    title: Whitley Strieber
+    node_type: person
+    slug: whitley-strieber
+    shared_claims: 1
+claims:
+  - claim_id: 4f4ff60b-0245-4582-9e34-53d29d5841aa
+    claim_hash: 295e2c27b7f31e0829a1713bc441ed8689c77c7333be72d806b00a80cd8f61da
+    content: Albert Thomas of Texas was a close political ally of Vice President Lyndon B. Johnson and a staunch anti-communist.
+    original_excerpt: Powerful congressmen, like Albert Thomas of Texas (a close political ally of Vice President Lyndon Johnson
+      and a staunch anti-communist)
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 0f346560-30b4-403a-aac9-e61980a99abb
+        title: Lyndon B. Johnson
+        slug: lyndon-b-johnson
+      - node_id: e8524112-9c3e-4279-b54f-0bb731bdd2c4
+        title: Albert Thomas
+        slug: albert-thomas
+    date: null
+    date_end: null
+    location_in_record: ch10:64016-64142
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+      record_title: Dark Mission
+      record_date: '2010-07-22'
+      record_reference: null
+      content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+      friendly_name: null
+  - claim_id: f4e05593-1495-4887-9405-4a63049465c3
+    claim_hash: c8433aafbe653f678be8a558fb9e33b9e5ee23bf7bcb72a024a5ff61c990be02
+    content: Albert Thomas, along with Lyndon B. Johnson, later secured the location of the Manned Spacecraft Center in Houston,
+      Texas, Thomas's home district.
+    original_excerpt: along with LBJ, later got the Manned Spacecraft Center located in his home district in Houston
+    claim_type: observation
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 0f346560-30b4-403a-aac9-e61980a99abb
+        title: Lyndon B. Johnson
+        slug: lyndon-b-johnson
+      - node_id: ab63774b-6526-48b8-9aff-358ac45f683a
+        title: USA, Texas, Houston, Manned Spacecraft Center
+        slug: texas-houston-manned-spacecraft-center-usa
+      - node_id: e8524112-9c3e-4279-b54f-0bb731bdd2c4
+        title: Albert Thomas
+        slug: albert-thomas
+    date: null
+    date_end: null
+    location_in_record: ch10:64375-64462
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+      record_title: Dark Mission
+      record_date: '2010-07-22'
+      record_reference: null
+      content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+      friendly_name: null
+  - claim_id: a18218e3-c452-47c8-83c1-8281b65721f3
+    claim_hash: 34b7d505094cd9965c78bca96dd8266b1ea82a48626e47dfd3c7731aee1bbf31
+    content: John F. Kennedy was generally unpopular in the South, but more popular in Texas due to Lyndon B. Johnson's influence,
+      his showdown with Nikita Khrushchev over Cuba, and the money the space programme brought to Texas.
+    original_excerpt: While he was generally unpopular in the South, he was actually more popular in Texas because of Lyndon
+      Johnson, his showdown with Khrushchev over Cuba, and the dollars the space program was bringing to Texas.
+    claim_type: observation
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 0f346560-30b4-403a-aac9-e61980a99abb
+        title: Lyndon B. Johnson
+        slug: lyndon-b-johnson
+      - node_id: 1fa66dfc-6e67-4838-a828-fcf88d3bdfc0
+        title: Nikita Khrushchev
+        slug: nikita-khrushchev
+      - node_id: c3c90829-7c63-4c5d-8ba1-e96d65aa1a03
+        title: John Fitzgerald Kennedy
+        slug: john-fitzgerald-kennedy
+    date: '1963'
+    date_end: null
+    location_in_record: ch10:76474-76676
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+      record_title: Dark Mission
+      record_date: '2010-07-22'
+      record_reference: null
+      content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+      friendly_name: null
+  - claim_id: 1dbc84b4-6fb5-49a2-80cd-d10e2eeef452
+    claim_hash: 2ff13de013d4620a1d9bfae73fae5e68aba97bc94ff683a570ffa97e6e21ab12
+    content: Vice President Lyndon B. Johnson stated the previous spring before the assassination that John F. Kennedy might
+      visit Dallas, Texas in the summertime.
+    original_excerpt: The plans for Kennedy to go to Texas had been made the previous spring, when Vice President Lyndon Johnson
+      stated that Kennedy might visit Dallas in the summertime.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 0f346560-30b4-403a-aac9-e61980a99abb
+        title: Lyndon B. Johnson
+        slug: lyndon-b-johnson
+      - node_id: c3c90829-7c63-4c5d-8ba1-e96d65aa1a03
+        title: John Fitzgerald Kennedy
+        slug: john-fitzgerald-kennedy
+    date: null
+    date_end: null
+    location_in_record: ch10:87785-87938
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+      record_title: Dark Mission
+      record_date: '2010-07-22'
+      record_reference: null
+      content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+      friendly_name: null
+  - claim_id: 5b40a742-5e16-4ee9-bc99-70c1cb44286d
+    claim_hash: 1f69a1755ea49900442e9006c3dd456fa98e17146194955383428f566fee20c2
+    content: In September 1963, a letter from Johnson aide Jack Valenti announced the Texas campaign swing that would include
+      Dallas.
+    original_excerpt: It wasn’t until September that a letter from Johnson aide Jack Valenti announced the Texas campaign
+      swing.
+    claim_type: administrative
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: document
+      origin: letter from Jack Valenti
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 0f346560-30b4-403a-aac9-e61980a99abb
+        title: Lyndon B. Johnson
+        slug: lyndon-b-johnson
+      - node_id: ab7339ae-129c-4aeb-9748-570d481f8109
+        title: Jack Valenti
+        slug: jack-valenti
+    date: 1963-09
+    date_end: null
+    location_in_record: ch10:87950-88050
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+      record_title: Dark Mission
+      record_date: '2010-07-22'
+      record_reference: null
+      content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+      friendly_name: null
+  - claim_id: 2d8cd9a8-c72e-4995-b71d-590eab7be5cb
+    claim_hash: 23730934a61888d356e0bf55ab2e43470314f1c78ada592ff803cc0d9f141eeb
+    content: The Texas trip was originally proposed as a one-day trip for 1963-11-21, but by October 1963 Lyndon Johnson had
+      become involved in planning and a second day, 1963-11-22, was added.
+    original_excerpt: Originally proposed as a one-day trip for November 21, by October Lyndon Johnson had become involved
+      in the planning and a second day was added, November 22.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 0f346560-30b4-403a-aac9-e61980a99abb
+        title: Lyndon B. Johnson
+        slug: lyndon-b-johnson
+    date: 1963-10
+    date_end: null
+    location_in_record: ch10:88415-88569
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+      record_title: Dark Mission
+      record_date: '2010-07-22'
+      record_reference: null
+      content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+      friendly_name: null
+  - claim_id: 7789f6a2-b264-4a77-b3f2-4160f9f55948
+    claim_hash: ef687a181e9dd232e43fcf702fe8494cfbb996745c8c89b7447b6dc19a21ccb6
+    content: After his speech on 1963-11-21, John F. Kennedy departed, followed by Congressman Albert Thomas and Vice President
+      Lyndon B. Johnson, who accompanied him aboard Air Force One to Dallas, Texas the next morning.
+    original_excerpt: Kennedy departed after his speech, followed soon by Thomas and Vice President Johnson. They both accompanied
+      him to Dallas the next morning on Air Force One.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 0f346560-30b4-403a-aac9-e61980a99abb
+        title: Lyndon B. Johnson
+        slug: lyndon-b-johnson
+      - node_id: 9339f1ee-3e9d-468d-99ca-4924b08a49d2
+        title: USA, Texas, Dallas, Dealey Plaza
+        slug: texas-dallas-dealey-plaza-usa
+      - node_id: c3c90829-7c63-4c5d-8ba1-e96d65aa1a03
+        title: John Fitzgerald Kennedy
+        slug: john-fitzgerald-kennedy
+      - node_id: e8524112-9c3e-4279-b54f-0bb731bdd2c4
+        title: Albert Thomas
+        slug: albert-thomas
+      - node_id: f78acdfd-85c8-4d1f-9d8c-4098b0610b14
+        title: Air Force One
+        slug: air-force-one
+    date: '1963-11-22'
+    date_end: null
+    location_in_record: ch10:89442-89596
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+      record_title: Dark Mission
+      record_date: '2010-07-22'
+      record_reference: null
+      content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+      friendly_name: null
+  - claim_id: 81cc4df8-4359-4a7e-9a9c-9cf760ceb1ad
+    claim_hash: 7641d6f426f4f730ca587fedac0f810ec6323ca73c3c39b56e167e7042ca9e95
+    content: Vice President Lyndon B. Johnson was taken to an undisclosed location after the assassination of John F. Kennedy
+      on 1963-11-22.
+    original_excerpt: Vice President Johnson was whisked away to an undisclosed location.
+    claim_type: observation
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 0f346560-30b4-403a-aac9-e61980a99abb
+        title: Lyndon B. Johnson
+        slug: lyndon-b-johnson
+    date: '1963-11-22'
+    date_end: null
+    location_in_record: ch10:89872-89930
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+      record_title: Dark Mission
+      record_date: '2010-07-22'
+      record_reference: null
+      content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+      friendly_name: null
+  - claim_id: e92f1c9c-e005-4130-8c2a-3a448d5bb8f3
+    claim_hash: 0e7ce0dfa3c72e28018d94c799ee1b390dff7949d9476fc75cc6efdd9d6f8bfc
+    content: In the weeks after the assassination, Lyndon B. Johnson made a show of arguing to continue John F. Kennedy's
+      plans for Soviet cooperation in space.
+    original_excerpt: Over the next few weeks, Johnson made a show of arguing to continue Kennedy’s plans for Soviet cooperation
+      in space.
+    claim_type: observation
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 0f346560-30b4-403a-aac9-e61980a99abb
+        title: Lyndon B. Johnson
+        slug: lyndon-b-johnson
+      - node_id: c3c90829-7c63-4c5d-8ba1-e96d65aa1a03
+        title: John Fitzgerald Kennedy
+        slug: john-fitzgerald-kennedy
+    date: null
+    date_end: null
+    location_in_record: ch10:90910-91020
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+      record_title: Dark Mission
+      record_date: '2010-07-22'
+      record_reference: null
+      content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+      friendly_name: null
+  - claim_id: ed0f1cb9-3446-4c39-ac4c-ee9953a77ffb
+    claim_hash: 2b001d2cfa8701f3268afb5663e3afc3d25a3ee0aa32c5f1dfc4d1716b909515
+    content: Lyndon B. Johnson had enormous political capital in the weeks following the assassination of John F. Kennedy
+      to continue any of Kennedy's initiatives that he chose.
+    original_excerpt: Keep in mind that Johnson had enormous political capital to continue any initiative of the martyred
+      Kennedy that he so chose in those days and weeks following the assassination.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: e1650a1d-8feb-4841-a403-0d71e176d2d9
+      title: Richard C. Hoagland
+    provenance_chain:
+      origin_kind: speaker
+      origin: Richard C. Hoagland
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 0f346560-30b4-403a-aac9-e61980a99abb
+        title: Lyndon B. Johnson
+        slug: lyndon-b-johnson
+      - node_id: c3c90829-7c63-4c5d-8ba1-e96d65aa1a03
+        title: John Fitzgerald Kennedy
+        slug: john-fitzgerald-kennedy
+    date: null
+    date_end: null
+    location_in_record: ch10:91620-91783
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+      record_title: Dark Mission
+      record_date: '2010-07-22'
+      record_reference: null
+      content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+      friendly_name: null
+  - claim_id: 4d800604-569b-4141-9821-811e53687162
+    claim_hash: fa8a7f5fae7d7d08bf929a9e2902e9bc427dbde2ed428e40f4b9a0539ee78680
+    content: Lyndon B. Johnson was constitutionally able to stand for re-election in 1968 but his unpopularity from his mishandling
+      of the Vietnam War convinced him to forsake a second elected term and retire from public life.
+    original_excerpt: He was constitutionally able to stand for re-election in 1968, but his great unpopularity because of
+      his mishandling of Vietnam convinced him to forsake a second elected term and retire from public life.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 0f346560-30b4-403a-aac9-e61980a99abb
+        title: Lyndon B. Johnson
+        slug: lyndon-b-johnson
+    date: '1968'
+    date_end: null
+    location_in_record: ch10:92107-92305
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+      record_title: Dark Mission
+      record_date: '2010-07-22'
+      record_reference: null
+      content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+      friendly_name: null
+  - claim_id: 1c9bfc6a-4b5b-46f9-9e89-7de5047a708c
+    claim_hash: 019b9dc3f33d2baed61d6e399c288fe3daef4b7919db679da0ba0ff0028ea7a5
+    content: Presidential historian Doris Kearns Goodwin reported that Lyndon B. Johnson did not watch the Apollo 11 Moon
+      landing on 1969-07-20 and refused to let anyone at his Texas ranch watch it, ordering all the televisions turned off.
+    original_excerpt: as reported by presidential historian Doris Kearns Goodwin, Johnson not only didn’t watch the Lunar
+      Landing himself, he refused to let anyone at his Texas ranch watch it either, and ordered all the TVs to be turned off.
+    claim_type: testimony
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: named
+      origin: Doris Kearns Goodwin
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 0f346560-30b4-403a-aac9-e61980a99abb
+        title: Lyndon B. Johnson
+        slug: lyndon-b-johnson
+      - node_id: 507f01bf-31d9-4cbe-85b7-8ca02a950653
+        title: Apollo 11 Moon landing, 1969-07-20
+        slug: 1969-07-20-apollo-11-moon-landing
+      - node_id: c42affaf-f9cf-442e-b94c-448f89f3bcf7
+        title: Doris Kearns Goodwin
+        slug: doris-kearns-goodwin
+    date: '1969-07-20'
+    date_end: null
+    location_in_record: ch10:92551-92766
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+      record_title: Dark Mission
+      record_date: '2010-07-22'
+      record_reference: null
+      content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+      friendly_name: null
+  - claim_id: 0f5f3fca-d1c4-4c7c-973b-1d3c5e3f441e
+    claim_hash: 1c5bdaa238611fee3485ada22772d8f5fe3cfff90a54c29069a820cb73d1cdb8
+    content: 'According to Saint John Hunt''s account of his father''s deathbed confession tape, E. Howard Hunt said that
+      the Central Intelligence Agency operatives who planned and carried out the plot to kill John F. Kennedy, including Hunt
+      himself, were all directed by one "top man": Lyndon Baines Johnson.'
+    original_excerpt: The tape contains a remarkable “confirmation” in light of the completely independent evidence presented
+      here that, above the CIA operatives (and contractors) who actually planned and carried out the plot to kill Kennedy,
+      including E. Howard Hunt himself, they were all directed by one “top man.” Lyndon Baines Johnson.
+    claim_type: hearsay
+    attestation: third_hand
+    speaker:
+      node_id: a72eb6bd-0f1c-4573-a8ef-ac760b189cc8
+      title: Saint John Hunt
+    provenance_chain:
+      origin_kind: named
+      origin: E. Howard Hunt
+      relay:
+        - a deathbed confession tape
+        - Saint John Hunt
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 0f346560-30b4-403a-aac9-e61980a99abb
+        title: Lyndon B. Johnson
+        slug: lyndon-b-johnson
+      - node_id: 38b84d4a-96df-4684-bb46-f6f64f392add
+        title: Central Intelligence Agency (CIA)
+        slug: central-intelligence-agency-cia
+      - node_id: a72eb6bd-0f1c-4573-a8ef-ac760b189cc8
+        title: Saint John Hunt
+        slug: saint-john-hunt
+      - node_id: b8e249c9-99ce-400d-932b-11367e6f20ed
+        title: E. H. Lamont
+        slug: e-h-lamont
+      - node_id: c3c90829-7c63-4c5d-8ba1-e96d65aa1a03
+        title: John Fitzgerald Kennedy
+        slug: john-fitzgerald-kennedy
+    date: null
+    date_end: null
+    location_in_record: ch10:93449-93760
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+      record_title: Dark Mission
+      record_date: '2010-07-22'
+      record_reference: null
+      content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+      friendly_name: null
+  - claim_id: 2cc9fef4-6f26-4fc3-a9e9-d360dca22dbf
+    claim_hash: 16d16275022d6a8e6091f25b507180d4c7daa87bce76a8c59005f7e912a03411
+    content: Richard C. Hoagland speculates that if figures like Lyndon B. Johnson and Albert Thomas were willing to orchestrate
+      the murder of President John F. Kennedy to protect the United States' space program, they must have expected to find
+      extraordinary discoveries over the course of the space program's voyages.
+    original_excerpt: If men like Johnson and Thomas were willing to go so far as to orchestrate the murder of the President
+      in order to protect the United States’ own, singular (and singularly expensive) space program, then they must have expected
+      to find wonders beyond imagining over the course of their voyages.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: e1650a1d-8feb-4841-a403-0d71e176d2d9
+      title: Richard C. Hoagland
+    provenance_chain:
+      origin_kind: speaker
+      origin: Richard C. Hoagland
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 0f346560-30b4-403a-aac9-e61980a99abb
+        title: Lyndon B. Johnson
+        slug: lyndon-b-johnson
+      - node_id: c3c90829-7c63-4c5d-8ba1-e96d65aa1a03
+        title: John Fitzgerald Kennedy
+        slug: john-fitzgerald-kennedy
+      - node_id: e8524112-9c3e-4279-b54f-0bb731bdd2c4
+        title: Albert Thomas
+        slug: albert-thomas
+    date: null
+    date_end: null
+    location_in_record: ch10:93823-94108
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+      record_title: Dark Mission
+      record_date: '2010-07-22'
+      record_reference: null
+      content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+      friendly_name: null
+  - claim_id: 604f0a96-c392-4a4b-90d5-160ac94af008
+    claim_hash: 39eb58ec2f88c9a50aed8a626c63e37e7a767a3dca8f31518d8e392d190c07ad
+    content: John F. Kennedy appointed James E. Webb as the new Administrator of the National Aeronautics and Space Administration
+      (NASA) on the specific recommendation of Vice President Lyndon B. Johnson.
+    original_excerpt: To this end, Kennedy (on the specific recommendation of Vice President Johnson100) appointed James E.
+      Webb as the new Administrator.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 0f346560-30b4-403a-aac9-e61980a99abb
+        title: Lyndon B. Johnson
+        slug: lyndon-b-johnson
+      - node_id: 17f8929f-cd7d-4062-bf3c-d3190de62d05
+        title: James Webb
+        slug: james-webb
+      - node_id: 5e47c787-005b-4c91-ba4b-c9bec48146c9
+        title: National Aeronautics and Space Administration (NASA)
+        slug: national-aeronautics-and-space-administration-nasa
+      - node_id: c3c90829-7c63-4c5d-8ba1-e96d65aa1a03
+        title: John Fitzgerald Kennedy
+        slug: john-fitzgerald-kennedy
+    date: null
+    date_end: null
+    location_in_record: ch12:114635-114753
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+      record_title: Dark Mission
+      record_date: '2010-07-22'
+      record_reference: null
+      content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+      friendly_name: null
+  - claim_id: 79d03200-43fb-4d95-9733-dfafd29831ac
+    claim_hash: c2e0219f6eae5b261882d78ee055f49bb9083141364c4746b6dceb2925db7be3
+    content: George Herbert Walker Bush re-created the National Space Council, an agency that had once been led by Lyndon
+      B. Johnson when he was Vice President.
+    original_excerpt: First, he re-created the National Space Council, an agency that had once been led by Lyndon Johnson
+      when he was Vice President.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 0f346560-30b4-403a-aac9-e61980a99abb
+        title: Lyndon B. Johnson
+        slug: lyndon-b-johnson
+      - node_id: dba2f206-7088-4fe9-9fc5-d7228a9149f4
+        title: George Herbert Walker Bush
+        slug: george-herbert-walker-bush
+      - node_id: e2cd842a-1c1c-4bb8-8586-b9ef6d2cd4e3
+        title: National Space Council
+        slug: national-space-council
+    date: '1989'
+    date_end: null
+    location_in_record: ch19:7888-8005
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+      record_title: Dark Mission
+      record_date: '2010-07-22'
+      record_reference: null
+      content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+      friendly_name: null
+  - claim_id: ebd1ae38-dd77-469e-a408-2d86f274bff8
+    claim_hash: 1cc3aa7bd2a6c9098fb26382cd93b95133c4bc4e77deb9cf96c78d5c50dbb93f
+    content: 'Luis Elizondo believes the following US presidents were briefed in some way on UAP: Harry Truman, Dwight Eisenhower,
+      John F. Kennedy, Lyndon B. Johnson, Jimmy Carter, Ronald Reagan, George H. W. Bush, and Donald Trump.'
+    original_excerpt: 'As far as I know, the following US presidents were briefed in some way: Truman, Eisenhower, JFK, LBJ,
+      Carter, Reagan, George H. W. Bush, and Trump.'
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+      title: Luis Elizondo
+    provenance_chain:
+      origin_kind: speaker
+      origin: Lue Elizondo
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 0f346560-30b4-403a-aac9-e61980a99abb
+        title: Lyndon B. Johnson
+        slug: lyndon-b-johnson
+      - node_id: 1c74a06c-1b3f-43b4-b54c-3f6b44fd8192
+        title: Ronald Reagan
+        slug: ronald-reagan
+      - node_id: 589d7469-f87f-4da5-afa8-cabca7be6818
+        title: Harry S. Truman
+        slug: harry-s-truman
+      - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
+        title: Unidentified Anomalous Phenomena (UAP)
+        slug: unidentified-anomalous-phenomena-uap
+      - node_id: 816c219b-6372-49f6-9579-5eeabb9a7474
+        title: Donald Trump
+        slug: donald-trump
+      - node_id: 898c410a-7789-4762-b6dd-1139ced89658
+        title: Jimmy Carter
+        slug: jimmy-carter
+      - node_id: c3c90829-7c63-4c5d-8ba1-e96d65aa1a03
+        title: John Fitzgerald Kennedy
+        slug: john-fitzgerald-kennedy
+      - node_id: dba2f206-7088-4fe9-9fc5-d7228a9149f4
+        title: George Herbert Walker Bush
+        slug: george-herbert-walker-bush
+      - node_id: f175f6db-6c31-49bc-9ca8-0e4487fd7d39
+        title: Dwight D. Eisenhower
+        slug: dwight-d-eisenhower
+    date: null
+    date_end: null
+    location_in_record: ch31:16189-16330
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  - claim_id: 697c81f3-829c-482a-8d35-ca95c63e94c5
+    claim_hash: fac451e6638f50c0b5aa0227b8d6a45c07b28c3139e3c6d4ed09cb933162993c
+    content: In 1968, President Lyndon B. Johnson ordered the retirement of the A-12 OXCART when it was replaced by the SR-71
+      Blackbird, itself a modified version of the A-12.
+    original_excerpt: In 1968, President Johnson ordered the retirement of the A-12 when it was replaced by the SR-71, which
+      itself was a modified version of the A-12.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 0f346560-30b4-403a-aac9-e61980a99abb
+        title: Lyndon B. Johnson
+        slug: lyndon-b-johnson
+      - node_id: 7f7dbb2c-f1a7-4781-a20e-8f3a1a771d6b
+        title: SR-71 Blackbird
+        slug: sr-71-blackbird
+    date: '1968'
+    date_end: null
+    location_in_record: char:127018-127160
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: d3743fdf-6a99-43ef-98d4-b79ef60f0e47
+      record_title: Report on the Historical Record of U.S. Government Involvement with Unidentified Anomalous Phenomena (UAP),
+        Volume I
+      record_date: '2024-02-01'
+      record_reference: null
+      content_hash: sha256:8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a94774067868
+      friendly_name: 2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a
+  - claim_id: 620cebb9-c769-45b5-adc6-cb5ba4d8553d
+    claim_hash: 3b6b5b355f627a4408a3d1536bdfb1ca72c11a66462a5c63cbf38dc20657eb90
+    content: Lyndon Johnson was approached by someone about the Unidentified Flying Object subject for about five minutes,
+      said he was not interested, and directed that it be taken to his vice president Hubert Humphrey.
+    original_excerpt: I know that Lyndon Johnson was approached or he said, he was, they, someone talked to him, I'm pretty
+      sure for about five minutes. And he said, I'm not interested in this. Take it to Hubert Humphrey, his vice president.
+    claim_type: hearsay
+    attestation: null
+    speaker:
+      node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+      title: Whitley Strieber
+    provenance_chain:
+      origin_kind: unattributed
+      origin: an unattributed account relayed by Whitley Strieber
+      relay:
+        - Whitley Strieber
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 0f346560-30b4-403a-aac9-e61980a99abb
+        title: Lyndon B. Johnson
+        slug: lyndon-b-johnson
+      - node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+        title: Whitley Strieber
+        slug: whitley-strieber
+      - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
+        title: Unidentified Flying Object (UFO)
+        slug: unidentified-flying-object-ufo
+      - node_id: ecded690-0f62-428e-8974-55c3d052248f
+        title: Hubert Humphrey
+        slug: hubert-humphrey
+    date: null
+    date_end: null
+    location_in_record: 01:32:19.3-01:32:35.0
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 9302c6b2-133d-4cbb-adfa-5d1f0bd3e7ac
+      record_title: The Terrible Truth About the Visitors - Whitley Strieber | ep. 96
+      record_date: '2026-07-24'
+      record_reference: https://www.youtube.com/watch?v=Cv-sk4vt-qU
+      content_hash: sha256:456dbde0ab82ee8e216bdad2d1a0bf2a0b42622a167af19058f973050b035084
+      friendly_name: null
+  - claim_id: 31802de0-1e72-4b3d-a6b2-78e22ec77a21
+    claim_hash: f19fa99aa2cae7c7c394f86aee9d836e7ffd5a774ab0102b3ca848038d0907dc
+    content: Hubert Humphrey was vice president under Lyndon Johnson.
+    original_excerpt: Take it to Hubert Humphrey, his vice president.
+    claim_type: administrative
+    attestation: null
+    speaker:
+      node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+      title: Whitley Strieber
+    provenance_chain:
+      origin_kind: unattributed
+      origin: Whitley Strieber's narration
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 0f346560-30b4-403a-aac9-e61980a99abb
+        title: Lyndon B. Johnson
+        slug: lyndon-b-johnson
+      - node_id: ecded690-0f62-428e-8974-55c3d052248f
+        title: Hubert Humphrey
+        slug: hubert-humphrey
+    date: null
+    date_end: null
+    location_in_record: 01:32:33.2-01:32:35.0
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 9302c6b2-133d-4cbb-adfa-5d1f0bd3e7ac
+      record_title: The Terrible Truth About the Visitors - Whitley Strieber | ep. 96
+      record_date: '2026-07-24'
+      record_reference: https://www.youtube.com/watch?v=Cv-sk4vt-qU
+      content_hash: sha256:456dbde0ab82ee8e216bdad2d1a0bf2a0b42622a167af19058f973050b035084
+      friendly_name: null

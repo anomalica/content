@@ -1,0 +1,621 @@
+schema: anomalica/brief/1
+brief_hash: c426d20429bf675e9ef56328ca39bca2b4fab46ab732779388bdfc410cb98d0f
+page:
+  kind: entity
+  node_id: 99b62ee0-a336-4919-9804-070632a0e1a3
+  node_type: place
+  title: USA, New Mexico, Los Alamos
+  slug: new-mexico-los-alamos-usa
+  claim_count: 13
+  claim_count_total: 13
+generated:
+  graph_version: '2026-09-01T10:10:49.863545+00:00'
+size:
+  claims: 13
+  tokens_estimated: 4056
+  sized_against: 1050000
+publication:
+  status: published
+  note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
+    transcripts are gated elsewhere.
+belonging:
+  verified: 0
+  suspect_excluded: 0
+  unreviewed: 13
+related_nodes:
+  - node_id: 176bf904-ba3e-4641-9a8f-336401532900
+    title: James L. Tuck
+    node_type: person
+    slug: james-l-tuck
+    shared_claims: 4
+  - node_id: 61f58052-335f-455c-b493-9ab16a6c11c0
+    title: J. Robert Oppenheimer
+    node_type: person
+    slug: j-robert-oppenheimer
+    shared_claims: 3
+  - node_id: d0622fec-c4ca-4229-9885-f2792ddb94e3
+    title: 1948-1951 Los Alamos green light sightings
+    node_type: event
+    slug: 1948-1951-los-alamos-green-light-sightings
+    shared_claims: 2
+  - node_id: b0c0fde0-37e6-4632-8d64-a95091f03a49
+    title: Bob Lazar
+    node_type: person
+    slug: bob-lazar
+    shared_claims: 2
+  - node_id: b65ca672-cb9e-4a57-a0fb-56ede7e118a4
+    title: Los Alamos National Laboratory
+    node_type: organisation
+    slug: los-alamos-national-laboratory
+    shared_claims: 2
+  - node_id: 1874dd82-5a6e-4fa4-9e6e-ecb5e72f0fe6
+    title: 1949 Los Alamos classified conference on unexplained sightings over nuclear sites
+    node_type: event
+    slug: 1949-los-alamos-classified-conference-on-unexplained-sightings-over-nuclear-sites
+    shared_claims: 1
+  - node_id: de8b9d57-f9e4-46a2-b89c-480272a39d85
+    title: Edward Teller
+    node_type: person
+    slug: edward-teller
+    shared_claims: 1
+  - node_id: 6712e8fa-3b86-4982-a102-e2d38e0b29d6
+    title: George Knapp
+    node_type: person
+    slug: george-knapp
+    shared_claims: 1
+  - node_id: 2ac310ed-0be4-43bd-a103-64143b4d20a8
+    title: Jeffrey Epstein
+    node_type: person
+    slug: jeffrey-epstein
+    shared_claims: 1
+  - node_id: 69fa2a03-b6bb-41c3-a745-dff92528671c
+    title: Manhattan Project
+    node_type: project
+    slug: manhattan-project
+    shared_claims: 1
+  - node_id: ac0b187d-75b4-4d8f-bc0d-885908aaac4a
+    title: Pajarito Astronomers
+    node_type: organisation
+    slug: pajarito-astronomers
+    shared_claims: 1
+  - node_id: 6151ce0c-7626-453a-bf6b-8ffa6e165b54
+    title: Protective Force Headquarters, Los Alamos
+    node_type: organisation
+    slug: los-alamos-protective-force-headquarters
+    shared_claims: 1
+  - node_id: 25b424e6-dc71-4394-b364-20668adc6d28
+    title: Steve Bannon
+    node_type: person
+    slug: steve-bannon
+    shared_claims: 1
+  - node_id: 2d88d531-67ae-418c-824b-cb18c6fa867c
+    title: Trinity nuclear test
+    node_type: event
+    slug: trinity-nuclear-test
+    shared_claims: 1
+  - node_id: 8db24ac2-563f-44c0-a7ad-f0f5d66a4cbe
+    title: USA, Nevada, S4
+    node_type: place
+    slug: nevada-s4-usa
+    shared_claims: 1
+  - node_id: 554dfab0-ba18-433c-b995-dcdeca6b8b42
+    title: USA, New Mexico, Kirtland Field
+    node_type: place
+    slug: new-mexico-kirtland-field-usa
+    shared_claims: 1
+  - node_id: eb22a102-29d0-46a3-b27d-a49639b9b86f
+    title: USA, New Mexico, Zorro Ranch
+    node_type: place
+    slug: new-mexico-zorro-ranch-usa
+    shared_claims: 1
+claims:
+  - claim_id: 3be0bd54-0014-4a56-a43b-c13e9f0a119a
+    claim_hash: 67f0c5c0baf478a6f2de68b5a24a7f7e3980a41b9f99ce7e8147ca62c9a4e327
+    content: An anonymous correspondent, writing to James L. Tuck on 1970-11-23, said that between 1948 and 1951 several sightings
+      of green lights were made at Los Alamos, USA, New Mexico.
+    original_excerpt: I can however, tell you that during the years 1948 through 1951 several sightings of green lights were
+      made at Los Alamos.
+    claim_type: hearsay
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: anonymous
+      origin: a person claiming to have witnessed green light sightings at Los Alamos between 1948 and 1951
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 176bf904-ba3e-4641-9a8f-336401532900
+        title: James L. Tuck
+        slug: james-l-tuck
+      - node_id: 99b62ee0-a336-4919-9804-070632a0e1a3
+        title: USA, New Mexico, Los Alamos
+        slug: new-mexico-los-alamos-usa
+      - node_id: d0622fec-c4ca-4229-9885-f2792ddb94e3
+        title: 1948-1951 Los Alamos green light sightings
+        slug: 1948-1951-los-alamos-green-light-sightings
+    date: '1970-11-23'
+    date_end: null
+    location_in_record: char:157-272
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 8bc63227-ae23-4d8e-9821-4558e7678f40
+      record_title: 'A-83-001-Z-1: Correspondence regarding UFO sightings at Los Alamos, 1948-1951'
+      record_date: '1970-11-23'
+      record_reference: null
+      content_hash: sha256:324a9795356cc793ede04a2494fa2eb18be10847baa490f605a22572c75f51ec
+      friendly_name: 1970-11-23-pdf-a-83-001-z-1-correspondence-regarding-ufo-sightings-at-los
+  - claim_id: 47828b07-ea37-4470-96ca-75255619955f
+    claim_hash: bc2a4789f45f1a68c606ce1b001398e3f1c5f3dedc8299bd896283bcf4d13895
+    content: An anonymous correspondent, writing to James L. Tuck on 1970-11-23, recalled one instance of five objects flying
+      over Los Alamos, USA, New Mexico in the afternoon.
+    original_excerpt: I also recall one instance of five objects flying over Los Alamos in the afternoon.
+    claim_type: hearsay
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: anonymous
+      origin: a person claiming to have witnessed a formation of five objects over Los Alamos
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 176bf904-ba3e-4641-9a8f-336401532900
+        title: James L. Tuck
+        slug: james-l-tuck
+      - node_id: 99b62ee0-a336-4919-9804-070632a0e1a3
+        title: USA, New Mexico, Los Alamos
+        slug: new-mexico-los-alamos-usa
+    date: '1970-11-23'
+    date_end: null
+    location_in_record: char:590-663
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 8bc63227-ae23-4d8e-9821-4558e7678f40
+      record_title: 'A-83-001-Z-1: Correspondence regarding UFO sightings at Los Alamos, 1948-1951'
+      record_date: '1970-11-23'
+      record_reference: null
+      content_hash: sha256:324a9795356cc793ede04a2494fa2eb18be10847baa490f605a22572c75f51ec
+      friendly_name: 1970-11-23-pdf-a-83-001-z-1-correspondence-regarding-ufo-sightings-at-los
+  - claim_id: 27643c78-c103-42d5-84b0-e5f510817552
+    claim_hash: 8d7bf66aa649e5aa3ac9899e423e8c5c908575a80f7d190fda2c313ba61f932b
+    content: An anonymous correspondent, writing to James L. Tuck on 1970-11-23, said the five objects observed flying over
+      Los Alamos were flying from southeast to northwest and appeared to be flying in formation.
+    original_excerpt: They were flying from southeast to northwest and appeared to be flying in formation.
+    claim_type: hearsay
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: anonymous
+      origin: a person claiming to have witnessed a formation of five objects over Los Alamos
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 176bf904-ba3e-4641-9a8f-336401532900
+        title: James L. Tuck
+        slug: james-l-tuck
+      - node_id: 99b62ee0-a336-4919-9804-070632a0e1a3
+        title: USA, New Mexico, Los Alamos
+        slug: new-mexico-los-alamos-usa
+    date: '1970-11-23'
+    date_end: null
+    location_in_record: char:674-748
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 8bc63227-ae23-4d8e-9821-4558e7678f40
+      record_title: 'A-83-001-Z-1: Correspondence regarding UFO sightings at Los Alamos, 1948-1951'
+      record_date: '1970-11-23'
+      record_reference: null
+      content_hash: sha256:324a9795356cc793ede04a2494fa2eb18be10847baa490f605a22572c75f51ec
+      friendly_name: 1970-11-23-pdf-a-83-001-z-1-correspondence-regarding-ufo-sightings-at-los
+  - claim_id: ab6df278-9916-449b-975b-4823a8d86ff4
+    claim_hash: 547a95734e487f8ece455bbe57b7070121660611a65a3b9aa9da8bb36483860d
+    content: An anonymous correspondent, writing to James L. Tuck on 1970-11-23, said that members of the Protective Force
+      Headquarters, Los Alamos who were on the Hill (Los Alamos) during the early 1950s should recall the reported green light
+      sightings from that period.
+    original_excerpt: Any of the Protective Force members that was on the "Hill" during the early '50 should recall all the
+      reported sightings during this time.
+    claim_type: hearsay
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: anonymous
+      origin: a person claiming to have witnessed green light sightings at Los Alamos between 1948 and 1951
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 176bf904-ba3e-4641-9a8f-336401532900
+        title: James L. Tuck
+        slug: james-l-tuck
+      - node_id: 6151ce0c-7626-453a-bf6b-8ffa6e165b54
+        title: Protective Force Headquarters, Los Alamos
+        slug: los-alamos-protective-force-headquarters
+      - node_id: 99b62ee0-a336-4919-9804-070632a0e1a3
+        title: USA, New Mexico, Los Alamos
+        slug: new-mexico-los-alamos-usa
+      - node_id: d0622fec-c4ca-4229-9885-f2792ddb94e3
+        title: 1948-1951 Los Alamos green light sightings
+        slug: 1948-1951-los-alamos-green-light-sightings
+    date: '1970-11-23'
+    date_end: null
+    location_in_record: char:989-1122
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 8bc63227-ae23-4d8e-9821-4558e7678f40
+      record_title: 'A-83-001-Z-1: Correspondence regarding UFO sightings at Los Alamos, 1948-1951'
+      record_date: '1970-11-23'
+      record_reference: null
+      content_hash: sha256:324a9795356cc793ede04a2494fa2eb18be10847baa490f605a22572c75f51ec
+      friendly_name: 1970-11-23-pdf-a-83-001-z-1-correspondence-regarding-ufo-sightings-at-los
+  - claim_id: 6082886a-62ac-4c46-b71a-6da7382e2c1b
+    claim_hash: 2e5ab9d299f6c4f060e1470a9bc8daaa2fdc32b2d27751d22d5ecffe98da0f93
+    content: The Pajarito Astronomers organisation is located at P.O. Box 1092, Los Alamos, New Mexico, 87544.
+    original_excerpt: P.O. Box 1092, Los Alamos NM, 87544
+    claim_type: administrative
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: document
+      origin: Pajarito Astronomers meeting notice
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 99b62ee0-a336-4919-9804-070632a0e1a3
+        title: USA, New Mexico, Los Alamos
+        slug: new-mexico-los-alamos-usa
+      - node_id: ac0b187d-75b4-4d8f-bc0d-885908aaac4a
+        title: Pajarito Astronomers
+        slug: pajarito-astronomers
+    date: null
+    date_end: null
+    location_in_record: char:49-79
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3246394e-aff1-4294-b212-3f0af50657d5
+      record_title: Pajarito Astronomers Meeting Notice - May 1986
+      record_date: '1986-05-20'
+      record_reference: null
+      content_hash: sha256:89ecb1163e42d3e8a215033b88e87ae3befe82a8dad1db112fae7e760bb756f4
+      friendly_name: 1986-05-20-pdf-pajarito-astronomers-meeting-notice-may-1986
+  - claim_id: 4fef7130-09a2-48a3-9e28-a87346fe05cc
+    claim_hash: d27eaa4fc0641426b473604b15e1e91a7b9579f6f127d44601bb13619d9afc77
+    content: At the time he was recruited into the programme David Fravor describes, the propulsion expert had been working
+      at USA, New Mexico, Los Alamos.
+    original_excerpt: So you go, wait, here's a guy who at the time was working at Los Alamos, which they have proven, who
+      is big into propulsion.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: c09e3558-1732-4676-a218-d67d285d98ef
+      title: David Fravor
+    provenance_chain:
+      origin_kind: speaker
+      origin: David Fravor
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 99b62ee0-a336-4919-9804-070632a0e1a3
+        title: USA, New Mexico, Los Alamos
+        slug: new-mexico-los-alamos-usa
+    date: null
+    date_end: null
+    location_in_record: 03:07:52.4-03:07:59.6
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 0157e540-a945-4b2a-acdf-6c449172dcd6
+      record_title: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering | Lex Fridman Podcast #122'
+      record_date: '2020-09-08'
+      record_reference: https://www.youtube.com/watch?v=aB8zcAttP1E
+      content_hash: sha256:135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19fd6afb8a
+      friendly_name: 2020-09-08-video-david-fravor-ufos-aliens-fighter-jets-and-aerospace.v2
+  - claim_id: a2578240-b430-4934-ae53-5e9e9911ac02
+    claim_hash: 3d529f3e6531e86f319e8ea7d87ce8dcfc261d5c7c63eff90666b95bcf92b597
+    content: George Knapp rebutted official denials that Bob Lazar ever worked at Los Alamos National Laboratory in New Mexico,
+      citing an old news story placing Lazar there and the fact that Lazar sneaked Knapp into the secure facility and was
+      familiar with the site and its workers.
+    original_excerpt: Journalist George Knapp has convincingly rebutted official denials that Lazar ever worked at Los Alamos
+      National Laboratory in New Mexico; not only is there an old news story placing him there, Lazar sneaked Knapp into the
+      secure facility and Lazar was clearly very familiar with the site and knew workers inside.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 6712e8fa-3b86-4982-a102-e2d38e0b29d6
+      title: George Knapp
+    provenance_chain:
+      origin_kind: speaker
+      origin: George Knapp
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 6712e8fa-3b86-4982-a102-e2d38e0b29d6
+        title: George Knapp
+        slug: george-knapp
+      - node_id: 99b62ee0-a336-4919-9804-070632a0e1a3
+        title: USA, New Mexico, Los Alamos
+        slug: new-mexico-los-alamos-usa
+      - node_id: b0c0fde0-37e6-4632-8d64-a95091f03a49
+        title: Bob Lazar
+        slug: bob-lazar
+      - node_id: b65ca672-cb9e-4a57-a0fb-56ede7e118a4
+        title: Los Alamos National Laboratory
+        slug: los-alamos-national-laboratory
+    date: null
+    date_end: null
+    location_in_record: ch13:23810-24116
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 698d5d73-de79-4b65-a315-43da15a40c02
+    claim_hash: 86a145c7b4ee61e5038f8e2fd4c82abdb48ce7b586eb599ac0b7e2241b7e4bfa
+    content: In his 1950-05-19 letter to Eleanor Roosevelt, J. Robert Oppenheimer recounted that shortly before the Trinity
+      nuclear test, people at Los Alamos were in a state of tension, and one morning almost the whole project staff went outdoors
+      to stare at a bright object in the sky through binoculars and other optical instruments.
+    original_excerpt: During the war, very shortly before the test of the first atomic bomb, people at Los Alamos were naturally
+      in a state of some tension. I remember one morning when almost the whole project was out of the doors. staring at a
+      bright object in the sky through glasses, binoculars, and whatever else they could find.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 61f58052-335f-455c-b493-9ab16a6c11c0
+      title: J. Robert Oppenheimer
+    provenance_chain:
+      origin_kind: speaker
+      origin: J. Robert Oppenheimer
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 2d88d531-67ae-418c-824b-cb18c6fa867c
+        title: Trinity nuclear test
+        slug: trinity-nuclear-test
+      - node_id: 61f58052-335f-455c-b493-9ab16a6c11c0
+        title: J. Robert Oppenheimer
+        slug: j-robert-oppenheimer
+      - node_id: 99b62ee0-a336-4919-9804-070632a0e1a3
+        title: USA, New Mexico, Los Alamos
+        slug: new-mexico-los-alamos-usa
+    date: '1950-05-19'
+    date_end: null
+    location_in_record: 00:13:07.4-00:13:24.2
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: f87bfd7f-e9da-40a1-b798-17f613313a67
+      record_title: Aliens and Albert Einstein - The Secret Document - DEBRIEFED ep. 33
+      record_date: '2025-04-11'
+      record_reference: https://www.youtube.com/watch?v=iSWqhLKzy2Q
+      content_hash: sha256:eda11247c8b061a87c50e7b919534a7201f12ef917f25680fe585121abef783c
+      friendly_name: null
+  - claim_id: 457a30ad-8a49-4faf-a947-dcf68daa593d
+    claim_hash: 3e557604379e87dc539f7522e1867fd1a83e828344b3ef1693cda49bfa8647ec
+    content: In his 1950-05-19 letter, J. Robert Oppenheimer said Kirtland Field reported to Los Alamos that they had no interceptors
+      able to come within range of the bright object in the sky.
+    original_excerpt: A nearby Kirtland Field reported to us that they had no interceptors which had enabled them to come
+      within range of the object.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 61f58052-335f-455c-b493-9ab16a6c11c0
+      title: J. Robert Oppenheimer
+    provenance_chain:
+      origin_kind: speaker
+      origin: J. Robert Oppenheimer
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 554dfab0-ba18-433c-b995-dcdeca6b8b42
+        title: USA, New Mexico, Kirtland Field
+        slug: new-mexico-kirtland-field-usa
+      - node_id: 61f58052-335f-455c-b493-9ab16a6c11c0
+        title: J. Robert Oppenheimer
+        slug: j-robert-oppenheimer
+      - node_id: 99b62ee0-a336-4919-9804-070632a0e1a3
+        title: USA, New Mexico, Los Alamos
+        slug: new-mexico-los-alamos-usa
+    date: '1950-05-19'
+    date_end: null
+    location_in_record: 00:13:25.2-00:13:31.3
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: f87bfd7f-e9da-40a1-b798-17f613313a67
+      record_title: Aliens and Albert Einstein - The Secret Document - DEBRIEFED ep. 33
+      record_date: '2025-04-11'
+      record_reference: https://www.youtube.com/watch?v=iSWqhLKzy2Q
+      content_hash: sha256:eda11247c8b061a87c50e7b919534a7201f12ef917f25680fe585121abef783c
+      friendly_name: null
+  - claim_id: c2b22c21-18ba-4438-b1f3-1e1d807898a4
+    claim_hash: bb1914394216a623d9418e48ac1ee3a2098c32667939b726e00fea1fc3a8feb3
+    content: In his 1950-05-19 letter, J. Robert Oppenheimer recounted that the Los Alamos director of personnel, an astronomer,
+      eventually asked him whether they could stop trying to shoot down Venus.
+    original_excerpt: Our director of personnel was an astronomer and a man of some human wisdom. And he finally came to my
+      office and asked whether we could stop trying to shoot down Venus.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 61f58052-335f-455c-b493-9ab16a6c11c0
+      title: J. Robert Oppenheimer
+    provenance_chain:
+      origin_kind: speaker
+      origin: J. Robert Oppenheimer
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 61f58052-335f-455c-b493-9ab16a6c11c0
+        title: J. Robert Oppenheimer
+        slug: j-robert-oppenheimer
+      - node_id: 99b62ee0-a336-4919-9804-070632a0e1a3
+        title: USA, New Mexico, Los Alamos
+        slug: new-mexico-los-alamos-usa
+    date: '1950-05-19'
+    date_end: null
+    location_in_record: 00:13:32.1-00:13:42.2
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: f87bfd7f-e9da-40a1-b798-17f613313a67
+      record_title: Aliens and Albert Einstein - The Secret Document - DEBRIEFED ep. 33
+      record_date: '2025-04-11'
+      record_reference: https://www.youtube.com/watch?v=iSWqhLKzy2Q
+      content_hash: sha256:eda11247c8b061a87c50e7b919534a7201f12ef917f25680fe585121abef783c
+      friendly_name: null
+  - claim_id: f53bf53b-6a37-4284-a10c-30e4a9b8a51b
+    claim_hash: dddd266918705455e8aadbbccaf8242a0f56545f716ec006c36e8dbcec9e012f
+    content: Bob Lazar speculates that if anyone influenced his being hired at USA, Nevada, S4, it was Edward Teller, who
+      told someone to give the young man from USA, New Mexico, Los Alamos a chance.
+    original_excerpt: if anything it was it was teller... he said hey there's this kid in los alamos and uh to give him a
+      shot or whatever
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: b0c0fde0-37e6-4632-8d64-a95091f03a49
+      title: Bob Lazar
+    provenance_chain:
+      origin_kind: speaker
+      origin: Bob Lazar
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 8db24ac2-563f-44c0-a7ad-f0f5d66a4cbe
+        title: USA, Nevada, S4
+        slug: nevada-s4-usa
+      - node_id: 99b62ee0-a336-4919-9804-070632a0e1a3
+        title: USA, New Mexico, Los Alamos
+        slug: new-mexico-los-alamos-usa
+      - node_id: b0c0fde0-37e6-4632-8d64-a95091f03a49
+        title: Bob Lazar
+        slug: bob-lazar
+      - node_id: de8b9d57-f9e4-46a2-b89c-480272a39d85
+        title: Edward Teller
+        slug: edward-teller
+    date: null
+    date_end: null
+    location_in_record: 448-460
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 1624e74b-8c2c-4403-a9fc-ff6de1745b49
+      record_title: Bob Lazar Just Revealed His BIGGEST Secret - DEBRIEFED ep. 87
+      record_date: '2026-05-08'
+      record_reference: https://www.youtube.com/watch?v=SSeJ2883nF4
+      content_hash: sha256:5b60a4c99ce6cc1ec77a3dc0d40d04b88cfa69ab421752e928c395425d1fcdbd
+      friendly_name: 2026-05-08-video-bob-lazar-just-revealed-his-biggest-secret-debriefed-ep-87.v2
+  - claim_id: c40263b5-5b12-4e1a-9035-44319ff9f5bd
+    claim_hash: 0f7ae78933bed4c2c3f1d54822655acfac1b1c234aa14ac3678dc912f8892980
+    content: In a recorded conversation with Steve Bannon, Jeffrey Epstein explained that he sited Zorro Ranch where he did
+      in New Mexico because retired Los Alamos physicists were in the proximity and he wanted to have conversations with them.
+    original_excerpt: They're talking and he goes, why'd you, you know, put Zorro Ranch where it is in New Mexico? And he
+      starts going on about retired Los Alamos physicists being in the proximity and him wanting to have conversations with
+      these guys.
+    claim_type: hearsay
+    attestation: second_hand
+    speaker:
+      node_id: 079d4381-4273-418b-bc9a-468623f95c6e
+      title: Jesse Mitchells
+    provenance_chain:
+      origin_kind: named
+      origin: Jeffrey Epstein, in a recording with Steve Bannon
+      relay:
+        - Jesse Michels
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 25b424e6-dc71-4394-b364-20668adc6d28
+        title: Steve Bannon
+        slug: steve-bannon
+      - node_id: 2ac310ed-0be4-43bd-a103-64143b4d20a8
+        title: Jeffrey Epstein
+        slug: jeffrey-epstein
+      - node_id: 99b62ee0-a336-4919-9804-070632a0e1a3
+        title: USA, New Mexico, Los Alamos
+        slug: new-mexico-los-alamos-usa
+      - node_id: b65ca672-cb9e-4a57-a0fb-56ede7e118a4
+        title: Los Alamos National Laboratory
+        slug: los-alamos-national-laboratory
+      - node_id: eb22a102-29d0-46a3-b27d-a49639b9b86f
+        title: USA, New Mexico, Zorro Ranch
+        slug: new-mexico-zorro-ranch-usa
+    date: null
+    date_end: null
+    location_in_record: 00:45:28.5-00:45:43.4
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: dc9d8bc8-9c1f-46b4-9b89-8d86b6b08e1d
+      record_title: Jesse Michels, UAPGerb & Chris Ramsay - Flying Saucer Diner
+      record_date: '2026-07-17'
+      record_reference: https://www.youtube.com/watch?v=HFLBDi87888
+      content_hash: sha256:7b2e272d7c82fdda745ee0354d7c9cc4b0d5ba5506015ca27edd9169a768b262
+      friendly_name: null
+  - claim_id: ec36506f-4715-4398-ac9b-00f3dba02351
+    claim_hash: 0b0925dd83a617ea7f9fff953b9ef25a3e689f576ca66b34118ebf78fbc04abc
+    content: In 1949, a classified conference was convened at Los Alamos, New Mexico, home of the Manhattan Project, to address
+      a wave of unexplained sightings over America's nuclear weapon sites.
+    original_excerpt: Then in 1949, a classified conference was convened at Los Alamos, home of the Manhattan Project, to
+      address a wave of unexplained sightings over America's nuclear weapon sites.
+    claim_type: administrative
+    attestation: first_hand
+    speaker:
+      node_id: b26a5e2e-9cb8-484e-92f8-d332245917b5
+      title: Phil McGraw
+    provenance_chain:
+      origin_kind: speaker
+      origin: Phil McGraw
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 1874dd82-5a6e-4fa4-9e6e-ecb5e72f0fe6
+        title: 1949 Los Alamos classified conference on unexplained sightings over nuclear sites
+        slug: 1949-los-alamos-classified-conference-on-unexplained-sightings-over-nuclear-sites
+      - node_id: 69fa2a03-b6bb-41c3-a745-dff92528671c
+        title: Manhattan Project
+        slug: manhattan-project
+      - node_id: 99b62ee0-a336-4919-9804-070632a0e1a3
+        title: USA, New Mexico, Los Alamos
+        slug: new-mexico-los-alamos-usa
+    date: '1949'
+    date_end: null
+    location_in_record: 00:13:17.9-00:13:30.7
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 5535742a-6d31-43e5-9188-4b57112f63cc
+      record_title: Dr. Phil read the UAP files before the public, here's what he found | Reality Check
+      record_date: '2026-07-21'
+      record_reference: https://www.youtube.com/watch?v=bhA-E57oQW8
+      content_hash: sha256:5e9a8cfd3f58f829fccdbc1cc057d06bed9f9e59e703cb29c1593e6e546ab532
+      friendly_name: null

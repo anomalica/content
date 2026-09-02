@@ -1,0 +1,1851 @@
+schema: anomalica/brief/1
+brief_hash: 4d8a920dba4da09644ba1c86337d083639c5673f77bf6d88b81fda57cceaf9ad
+page:
+  kind: entity
+  node_id: edcc9edf-1a5b-4579-aa4f-dc04408e61e5
+  node_type: person
+  title: Donald Klein
+  slug: donald-klein
+  claim_count: 46
+  claim_count_total: 46
+generated:
+  graph_version: '2026-09-01T10:10:49.863545+00:00'
+size:
+  claims: 46
+  tokens_estimated: 13024
+  sized_against: 1050000
+publication:
+  status: published
+  note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
+    transcripts are gated elsewhere.
+belonging:
+  verified: 0
+  suspect_excluded: 0
+  unreviewed: 46
+related_nodes:
+  - node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+    title: Whitley Strieber
+    node_type: person
+    slug: whitley-strieber
+    shared_claims: 40
+  - node_id: adbaf699-a6e5-418c-a8ba-24e21dd0ab92
+    title: Budd Hopkins
+    node_type: person
+    slug: budd-hopkins
+    shared_claims: 6
+  - node_id: 22be19fb-4ded-4681-a698-bb0233fa1581
+    title: Forensic hypnosis
+    node_type: topic
+    slug: forensic-hypnosis
+    shared_claims: 6
+  - node_id: 76e440c9-d470-44bf-96ca-f1ce37cf7eca
+    title: New York State Psychiatric Institute
+    node_type: organisation
+    slug: new-york-state-psychiatric-institute
+    shared_claims: 3
+  - node_id: 0e63e454-7f9e-44b9-8607-a7df3168f045
+    title: 1986-03 hypnosis session of Whitley Strieber by Donald Klein
+    node_type: event
+    slug: 1986-03-hypnosis-session-of-whitley-strieber-by-donald-klein
+    shared_claims: 2
+  - node_id: 98eeed83-96a9-45ef-bb14-cb915d45fc9c
+    title: Alien abduction
+    node_type: topic
+    slug: alien-abduction
+    shared_claims: 2
+  - node_id: 5f3c0bb3-cd34-415b-9acc-8f0fb7146d6e
+    title: March 1, 1986 hypnosis session (October 4 memories)
+    node_type: event
+    slug: 1986-hypnosis-session-october-4-memories-march-1
+    shared_claims: 2
+  - node_id: 30bb19bf-40ae-4b4e-af18-5ae0572eac61
+    title: Robert Naiman
+    node_type: person
+    slug: robert-naiman
+    shared_claims: 2
+  - node_id: 14a28fcf-6ed3-45c5-b107-e46117e024b7
+    title: 1957 train trip abduction memory (age twelve)
+    node_type: event
+    slug: 1957-train-trip-abduction-memory-age-twelve
+    shared_claims: 1
+  - node_id: 6b31275b-7e02-4934-a16c-d6defd7a66a3
+    title: 1986 temporal lobe testing
+    node_type: event
+    slug: 1986-temporal-lobe-testing
+    shared_claims: 1
+  - node_id: 23df5a4d-b30f-4c3d-b155-0bb1d6355328
+    title: Anne Strieber
+    node_type: person
+    slug: anne-strieber
+    shared_claims: 1
+  - node_id: a281898d-853f-43ca-be38-28ef12edad61
+    title: Appendix I statement by Donald F. Klein, MD (Communion)
+    node_type: document
+    slug: md-communion-appendix-i-statement-by-donald-f-klein
+    shared_claims: 1
+  - node_id: 71d47503-ae09-47a6-83e4-4f376df22e0e
+    title: Communion
+    node_type: document
+    slug: communion
+    shared_claims: 1
+  - node_id: 6b76564f-5ecb-4dcb-a278-601839483b7d
+    title: October 4, 1985 abduction experience
+    node_type: event
+    slug: 1985-abduction-experience-october-4
+    shared_claims: 1
+  - node_id: 7b25cf8a-f3f9-4aee-bfc1-8e2cc4a0980a
+    title: The visitors (nonhuman beings)
+    node_type: topic
+    slug: the-visitors-nonhuman-beings
+    shared_claims: 1
+  - node_id: 2e8d26c9-3989-4a39-ab8c-e25799f9d960
+    title: USA, New York, Manhattan
+    node_type: place
+    slug: new-york-manhattan-usa
+    shared_claims: 1
+claims:
+  - claim_id: a67edea8-5973-4968-834f-cff7f02e769f
+    claim_hash: 9dd53577a5b50ef49c16b0188e3c6a96ff0db0d4eed87929ddd5bd02e0360564
+    content: Dr. Donald Klein induced hypnosis in Whitley Strieber using an eye-fixation technique with his finger followed
+      by relaxation and warmth suggestions.
+    original_excerpt: Dr. Klein stood before me and asked me to look up at his finger... he began saying that my eyelids were
+      getting heavy... soon Dr. Klein began to say that my right hand was getting warm.
+    claim_type: observation
+    attestation: first_hand
+    speaker:
+      node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+      title: Whitley Strieber
+    provenance_chain:
+      origin_kind: speaker
+      origin: Whitley Strieber
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+        title: Whitley Strieber
+        slug: whitley-strieber
+      - node_id: edcc9edf-1a5b-4579-aa4f-dc04408e61e5
+        title: Donald Klein
+        slug: donald-klein
+    date: null
+    date_end: null
+    location_in_record: 74-76
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: ad152768-183b-4cde-bc60-1520900ceb32
+      record_title: Communion
+      record_date: '2013-06-16'
+      record_reference: null
+      content_hash: sha256:b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4001275f9
+      friendly_name: 2013-06-16-ebook-communion
+  - claim_id: 60ffb135-507e-4cb5-8316-488c8c51f1c0
+    claim_hash: 33da590824ca4d731bc5e1ebe595328a8c4d29cad7002f7f440a69d61d6b2b92
+    content: The hypnosis session recalling the October 4, 1985 abduction experience memories took place on March 1, 1986,
+      with Whitley Strieber as subject and Dr. Donald Klein, MD as psychiatrist.
+    original_excerpt: 'SESSION DATE: March 1, 1986 SUBJECT: Whitley Strieber PSYCHIATRIST: Donald Klein, MD'
+    claim_type: administrative
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: document
+      origin: Communion
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+        title: Whitley Strieber
+        slug: whitley-strieber
+      - node_id: 5f3c0bb3-cd34-415b-9acc-8f0fb7146d6e
+        title: March 1, 1986 hypnosis session (October 4 memories)
+        slug: 1986-hypnosis-session-october-4-memories-march-1
+      - node_id: 6b76564f-5ecb-4dcb-a278-601839483b7d
+        title: October 4, 1985 abduction experience
+        slug: 1985-abduction-experience-october-4
+      - node_id: edcc9edf-1a5b-4579-aa4f-dc04408e61e5
+        title: Donald Klein
+        slug: donald-klein
+    date: '1986-03-01'
+    date_end: null
+    location_in_record: ch10:10508-10582
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: ad152768-183b-4cde-bc60-1520900ceb32
+      record_title: Communion
+      record_date: '2013-06-16'
+      record_reference: null
+      content_hash: sha256:b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4001275f9
+      friendly_name: 2013-06-16-ebook-communion
+  - claim_id: 8adc0251-ac22-4b56-85fd-95c1c49c6793
+    claim_hash: a80404bc2adb3691b04ba99d748d9bbdf2617dff584f4adc666e0fa224164259
+    content: Budd Hopkins recalled that Dr. Donald Klein of the New York State Psychiatric Institute had expressed interest
+      in and appeared open-minded about the visitor phenomenon.
+    original_excerpt: Hopkins remembered that Dr. Donald Klein of the New York State Psychiatric Institute had expressed interest
+      in the phenomenon and appeared to be open-minded about it.
+    claim_type: testimony
+    attestation: second_hand
+    speaker:
+      node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+      title: Whitley Strieber
+    provenance_chain:
+      origin_kind: named
+      origin: Budd Hopkins
+      relay:
+        - Whitley Strieber
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 76e440c9-d470-44bf-96ca-f1ce37cf7eca
+        title: New York State Psychiatric Institute
+        slug: new-york-state-psychiatric-institute
+      - node_id: adbaf699-a6e5-418c-a8ba-24e21dd0ab92
+        title: Budd Hopkins
+        slug: budd-hopkins
+      - node_id: edcc9edf-1a5b-4579-aa4f-dc04408e61e5
+        title: Donald Klein
+        slug: donald-klein
+    date: null
+    date_end: null
+    location_in_record: ch10:1559-1722
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: ad152768-183b-4cde-bc60-1520900ceb32
+      record_title: Communion
+      record_date: '2013-06-16'
+      record_reference: null
+      content_hash: sha256:b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4001275f9
+      friendly_name: 2013-06-16-ebook-communion
+  - claim_id: 2cdf709e-ffde-4d2b-a19b-cccaa5dfa238
+    claim_hash: e7ad885185ccb80b3efecb451bdce8908df350f60e7c13798304ef6619e4d40b
+    content: Dr. Donald Klein told Whitley Strieber that he was an excellent hypnotic subject.
+    original_excerpt: '"Was I a good hypnotic subject?" "You were excellent."'
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: edcc9edf-1a5b-4579-aa4f-dc04408e61e5
+      title: Donald Klein
+    provenance_chain:
+      origin_kind: speaker
+      origin: Dr. Donald Klein
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+        title: Whitley Strieber
+        slug: whitley-strieber
+      - node_id: edcc9edf-1a5b-4579-aa4f-dc04408e61e5
+        title: Donald Klein
+        slug: donald-klein
+    date: '1986-03-01'
+    date_end: null
+    location_in_record: ch10:17794-17837
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: ad152768-183b-4cde-bc60-1520900ceb32
+      record_title: Communion
+      record_date: '2013-06-16'
+      record_reference: null
+      content_hash: sha256:b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4001275f9
+      friendly_name: 2013-06-16-ebook-communion
+  - claim_id: 57181f11-0b26-4d64-9401-d7c451812048
+    claim_hash: 8dda819d6ef96f7fe3dff4ced79f8812920ae868681f892b7b4571e30fbd2c2c
+    content: Whitley Strieber underwent a three-hour pre-interview in Dr. Donald Klein's office before hypnosis.
+    original_excerpt: A few weeks later I was in his office undergoing a searching three-hour pre-interview.
+    claim_type: observation
+    attestation: first_hand
+    speaker:
+      node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+      title: Whitley Strieber
+    provenance_chain:
+      origin_kind: speaker
+      origin: Whitley Strieber
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+        title: Whitley Strieber
+        slug: whitley-strieber
+      - node_id: edcc9edf-1a5b-4579-aa4f-dc04408e61e5
+        title: Donald Klein
+        slug: donald-klein
+    date: null
+    date_end: null
+    location_in_record: ch10:1838-1914
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: ad152768-183b-4cde-bc60-1520900ceb32
+      record_title: Communion
+      record_date: '2013-06-16'
+      record_reference: null
+      content_hash: sha256:b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4001275f9
+      friendly_name: 2013-06-16-ebook-communion
+  - claim_id: 8cae8e9f-89c9-4bf5-a969-ba80c05fe498
+    claim_hash: bf49d82b682b2a1774dcfc76494c9d905999cd17b971dd27f69fa296ecc54977
+    content: Whitley Strieber provided Dr. Donald Klein with a document outlining all of his memories related to the visitor
+      experiences.
+    original_excerpt: I had provided him with a document outlining all my memories.
+    claim_type: observation
+    attestation: first_hand
+    speaker:
+      node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+      title: Whitley Strieber
+    provenance_chain:
+      origin_kind: speaker
+      origin: Whitley Strieber
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+        title: Whitley Strieber
+        slug: whitley-strieber
+      - node_id: edcc9edf-1a5b-4579-aa4f-dc04408e61e5
+        title: Donald Klein
+        slug: donald-klein
+    date: null
+    date_end: null
+    location_in_record: ch10:1925-1977
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: ad152768-183b-4cde-bc60-1520900ceb32
+      record_title: Communion
+      record_date: '2013-06-16'
+      record_reference: null
+      content_hash: sha256:b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4001275f9
+      friendly_name: 2013-06-16-ebook-communion
+  - claim_id: 6e712385-5702-4626-89ce-1735a550503b
+    claim_hash: bd9968eaadd0e34530c1004e45e187e432b1f81b089ec9439e1bc3eff7c53678
+    content: After a week of trying unsuccessfully to recall further memories, resulting only in dizziness and strange nightmares,
+      Whitley Strieber and Dr. Donald Klein decided on a trial hypnosis session.
+    original_excerpt: When I was not successful — in fact, all I got out of it was dizziness and strange nightmares — we decided
+      on a trial hypnosis session.
+    claim_type: observation
+    attestation: first_hand
+    speaker:
+      node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+      title: Whitley Strieber
+    provenance_chain:
+      origin_kind: speaker
+      origin: Whitley Strieber
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+        title: Whitley Strieber
+        slug: whitley-strieber
+      - node_id: edcc9edf-1a5b-4579-aa4f-dc04408e61e5
+        title: Donald Klein
+        slug: donald-klein
+    date: null
+    date_end: null
+    location_in_record: ch10:2147-2274
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: ad152768-183b-4cde-bc60-1520900ceb32
+      record_title: Communion
+      record_date: '2013-06-16'
+      record_reference: null
+      content_hash: sha256:b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4001275f9
+      friendly_name: 2013-06-16-ebook-communion
+  - claim_id: e745c95e-0667-443a-8991-555e063fd1c8
+    claim_hash: 3b8679d075d9e121537d9d6794f0ff1b7b164415798fc43fe2ec37f0a60507a4
+    content: Whitley Strieber emerged spontaneously from hypnosis a second time during the March 1, 1986 session because of
+      the extreme severity of the emotions he was reliving.
+    original_excerpt: I then emerged spontaneously from hypnosis once again. It is very unusual to do this, especially from
+      a deep trance like the one Dr. Klein had induced. It was an indication of the extreme severity of the emotions I was
+      reliving.
+    claim_type: observation
+    attestation: first_hand
+    speaker:
+      node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+      title: Whitley Strieber
+    provenance_chain:
+      origin_kind: speaker
+      origin: Whitley Strieber
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+        title: Whitley Strieber
+        slug: whitley-strieber
+      - node_id: 5f3c0bb3-cd34-415b-9acc-8f0fb7146d6e
+        title: March 1, 1986 hypnosis session (October 4 memories)
+        slug: 1986-hypnosis-session-october-4-memories-march-1
+      - node_id: edcc9edf-1a5b-4579-aa4f-dc04408e61e5
+        title: Donald Klein
+        slug: donald-klein
+    date: null
+    date_end: null
+    location_in_record: ch10:29843-30062
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: ad152768-183b-4cde-bc60-1520900ceb32
+      record_title: Communion
+      record_date: '2013-06-16'
+      record_reference: null
+      content_hash: sha256:b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4001275f9
+      friendly_name: 2013-06-16-ebook-communion
+  - claim_id: 46b96be8-2853-4512-af42-991ae1a6c3bc
+    claim_hash: 7d424c78f297de9d1512eea037832c3aad0ccc7bf3be6bd824b6cfaac01d939d
+    content: Whitley Strieber states that all the transcripts of his hypnosis sessions with Dr. Donald Klein are verbatim,
+      allowing readers to confirm Dr. Klein did not ask leading questions.
+    original_excerpt: This can easily be confirmed by the reader, as all the transcripts of my hypnosis sessions are verbatim.
+    claim_type: administrative
+    attestation: first_hand
+    speaker:
+      node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+      title: Whitley Strieber
+    provenance_chain:
+      origin_kind: speaker
+      origin: Whitley Strieber
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+        title: Whitley Strieber
+        slug: whitley-strieber
+      - node_id: 71d47503-ae09-47a6-83e4-4f376df22e0e
+        title: Communion
+        slug: communion
+      - node_id: edcc9edf-1a5b-4579-aa4f-dc04408e61e5
+        title: Donald Klein
+        slug: donald-klein
+    date: null
+    date_end: null
+    location_in_record: ch10:3291-3386
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: ad152768-183b-4cde-bc60-1520900ceb32
+      record_title: Communion
+      record_date: '2013-06-16'
+      record_reference: null
+      content_hash: sha256:b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4001275f9
+      friendly_name: 2013-06-16-ebook-communion
+  - claim_id: 16f8ac9c-2de1-4559-850a-2af98678b305
+    claim_hash: 724bf21265951ecb8b21f114b304bad3664b3dfc3d57a4e905fbab828aa3bfec
+    content: Whitley Strieber acknowledges there is always a possibility that he was unconsciously eager to comply with a
+      desired outcome during hypnosis, even though Dr. Donald Klein did not ask provocative questions.
+    original_excerpt: While Don Klein certainly didn't ask provocative questions, there is always the possibility that I was
+      unconsciously eager to comply with an outcome that I might secretly have longed for.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+      title: Whitley Strieber
+    provenance_chain:
+      origin_kind: speaker
+      origin: Whitley Strieber
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+        title: Whitley Strieber
+        slug: whitley-strieber
+      - node_id: edcc9edf-1a5b-4579-aa4f-dc04408e61e5
+        title: Donald Klein
+        slug: donald-klein
+    date: null
+    date_end: null
+    location_in_record: ch10:3890-4073
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: ad152768-183b-4cde-bc60-1520900ceb32
+      record_title: Communion
+      record_date: '2013-06-16'
+      record_reference: null
+      content_hash: sha256:b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4001275f9
+      friendly_name: 2013-06-16-ebook-communion
+  - claim_id: 1368165d-bbc7-46c2-abe1-f61a83a08b41
+    claim_hash: ecb9421922fc41e7519b368ac00aeed6708e5b1e194bdd3bd55c91e330a6db16
+    content: Whitley Strieber avoided reading about close encounters or psychosocial explanations for such experiences during
+      the four days between hypnosis sessions, on the advice of Dr. Donald Klein and Budd Hopkins.
+    original_excerpt: It was a great effort not to go to the library and get half a dozen books about close encounters, and
+      another half dozen about possible psychosocial causes for such experiences. But I agreed with Dr. Klein and Budd Hopkins
+      that I must remain as ignorant of this material as possible until after my hypnosis.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+      title: Whitley Strieber
+    provenance_chain:
+      origin_kind: speaker
+      origin: Whitley Strieber
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+        title: Whitley Strieber
+        slug: whitley-strieber
+      - node_id: adbaf699-a6e5-418c-a8ba-24e21dd0ab92
+        title: Budd Hopkins
+        slug: budd-hopkins
+      - node_id: edcc9edf-1a5b-4579-aa4f-dc04408e61e5
+        title: Donald Klein
+        slug: donald-klein
+    date: '1986-03-05'
+    date_end: null
+    location_in_record: ch10:41438-41736
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: ad152768-183b-4cde-bc60-1520900ceb32
+      record_title: Communion
+      record_date: '2013-06-16'
+      record_reference: null
+      content_hash: sha256:b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4001275f9
+      friendly_name: 2013-06-16-ebook-communion
+  - claim_id: 9da8037e-f6ea-41f2-9a50-fcbca797ed7d
+    claim_hash: 54c08dabd68b34f9e8f057a8df7797cb4b1c868e6330fab16c8be9598505bc01
+    content: Dr. Donald Klein met Whitley Strieber in his gray office on East Seventy-ninth Street in Manhattan.
+    original_excerpt: Donald Klein met me in his subdued gray office on East Seventy-ninth Street in Manhattan.
+    claim_type: observation
+    attestation: first_hand
+    speaker:
+      node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+      title: Whitley Strieber
+    provenance_chain:
+      origin_kind: speaker
+      origin: Whitley Strieber
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 2e8d26c9-3989-4a39-ab8c-e25799f9d960
+        title: USA, New York, Manhattan
+        slug: new-york-manhattan-usa
+      - node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+        title: Whitley Strieber
+        slug: whitley-strieber
+      - node_id: edcc9edf-1a5b-4579-aa4f-dc04408e61e5
+        title: Donald Klein
+        slug: donald-klein
+    date: null
+    date_end: null
+    location_in_record: ch10:8141-8220
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: ad152768-183b-4cde-bc60-1520900ceb32
+      record_title: Communion
+      record_date: '2013-06-16'
+      record_reference: null
+      content_hash: sha256:b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4001275f9
+      friendly_name: 2013-06-16-ebook-communion
+  - claim_id: dde11313-f2ef-4fd2-b267-ab75f7f87760
+    claim_hash: f6def9aea97281f609c2672a35af496f7b53d644df7d5943125799e12eecf28d
+    content: Whitley Strieber describes Dr. Donald Klein as a tall man with curly hair and a quiet demeanour who projected
+      command and confidence in his hypnotic skills, and who was thorough, careful, and had a very acute mind.
+    original_excerpt: He is a tall man with curly hair and a quiet demeanor. Two things were immediately apparent to me about
+      him as a hypnotist. First, I sensed command; he was confident of his skills. Second, he was a thorough, careful man
+      with a very acute mind.
+    claim_type: observation
+    attestation: first_hand
+    speaker:
+      node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+      title: Whitley Strieber
+    provenance_chain:
+      origin_kind: speaker
+      origin: Whitley Strieber
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+        title: Whitley Strieber
+        slug: whitley-strieber
+      - node_id: edcc9edf-1a5b-4579-aa4f-dc04408e61e5
+        title: Donald Klein
+        slug: donald-klein
+    date: null
+    date_end: null
+    location_in_record: ch10:8231-8469
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: ad152768-183b-4cde-bc60-1520900ceb32
+      record_title: Communion
+      record_date: '2013-06-16'
+      record_reference: null
+      content_hash: sha256:b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4001275f9
+      friendly_name: 2013-06-16-ebook-communion
+  - claim_id: dc0c80c1-694f-4ac7-8d3e-5b7d2ef27d2e
+    claim_hash: 72d48a420c0fba0c5e56bfb4ccfaa19286eb6cf1e869b56fa5b0e1e71347890b
+    content: Whitley Strieber had never been hypnotized before his session with Dr. Donald Klein and was apprehensive about
+      relinquishing control over himself.
+    original_excerpt: I had never been hypnotized before, and I was apprehensive about it... I was afraid of relinquishing
+      control over myself, which seemed deeply disturbing.
+    claim_type: observation
+    attestation: first_hand
+    speaker:
+      node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+      title: Whitley Strieber
+    provenance_chain:
+      origin_kind: speaker
+      origin: Whitley Strieber
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+        title: Whitley Strieber
+        slug: whitley-strieber
+      - node_id: edcc9edf-1a5b-4579-aa4f-dc04408e61e5
+        title: Donald Klein
+        slug: donald-klein
+    date: null
+    date_end: null
+    location_in_record: ch10:8476-8644
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: ad152768-183b-4cde-bc60-1520900ceb32
+      record_title: Communion
+      record_date: '2013-06-16'
+      record_reference: null
+      content_hash: sha256:b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4001275f9
+      friendly_name: 2013-06-16-ebook-communion
+  - claim_id: 58220b62-5c9f-42ba-b540-e733d6dd909d
+    claim_hash: bccbac24f0b0c5fff8d9323a02bcf01f08faf2a47bd04085dffec27c2d001913
+    content: Dr. Donald Klein told Whitley Strieber that even under hypnosis people cannot be readily compelled to say things
+      they do not want to say.
+    original_excerpt: I found, though, that I trusted Don Klein when he told me that even under hypnosis people cannot be
+      readily compelled to say things they do not want to say.
+    claim_type: opinion
+    attestation: second_hand
+    speaker:
+      node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+      title: Whitley Strieber
+    provenance_chain:
+      origin_kind: named
+      origin: Dr. Donald Klein
+      relay:
+        - Whitley Strieber
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+        title: Whitley Strieber
+        slug: whitley-strieber
+      - node_id: edcc9edf-1a5b-4579-aa4f-dc04408e61e5
+        title: Donald Klein
+        slug: donald-klein
+    date: null
+    date_end: null
+    location_in_record: ch10:8785-8937
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: ad152768-183b-4cde-bc60-1520900ceb32
+      record_title: Communion
+      record_date: '2013-06-16'
+      record_reference: null
+      content_hash: sha256:b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4001275f9
+      friendly_name: 2013-06-16-ebook-communion
+  - claim_id: 19793563-8022-4fee-b669-5e8b47a2efbd
+    claim_hash: 1b23018222336f15d180fe8486750ccd1b65e865f0bcc12655af395e20617122
+    content: Dr. Donald Klein's open-mindedness in the face of the fearful and fantastic helped Whitley Strieber learn to
+      live with uncertainty.
+    original_excerpt: Don Klein's open-mindedness in the face of the fearful and the fantastic has been instrumental in helping
+      me to learn to live with uncertainty.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+      title: Whitley Strieber
+    provenance_chain:
+      origin_kind: speaker
+      origin: Whitley Strieber
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+        title: Whitley Strieber
+        slug: whitley-strieber
+      - node_id: edcc9edf-1a5b-4579-aa4f-dc04408e61e5
+        title: Donald Klein
+        slug: donald-klein
+    date: null
+    date_end: null
+    location_in_record: ch11:13524-13655
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: ad152768-183b-4cde-bc60-1520900ceb32
+      record_title: Communion
+      record_date: '2013-06-16'
+      record_reference: null
+      content_hash: sha256:b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4001275f9
+      friendly_name: 2013-06-16-ebook-communion
+  - claim_id: 078a32d3-d4c9-4f1d-954e-184a1a1b131e
+    claim_hash: fc9e6467bd0eff0cbc5052f381d1868331fe567a31de72f612b76eebd6fc51ad
+    content: Dr. Donald Klein told Whitley Strieber, after Strieber's hypnosis session, that he thought Strieber was sane.
+    original_excerpt: Don Klein was an acknowledged expert and, even after this hypnosis session, he told me that he thought
+      I was sane.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+      title: Whitley Strieber
+    provenance_chain:
+      origin_kind: speaker
+      origin: Whitley Strieber
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+        title: Whitley Strieber
+        slug: whitley-strieber
+      - node_id: edcc9edf-1a5b-4579-aa4f-dc04408e61e5
+        title: Donald Klein
+        slug: donald-klein
+    date: null
+    date_end: null
+    location_in_record: ch11:1369-1478
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: ad152768-183b-4cde-bc60-1520900ceb32
+      record_title: Communion
+      record_date: '2013-06-16'
+      record_reference: null
+      content_hash: sha256:b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4001275f9
+      friendly_name: 2013-06-16-ebook-communion
+  - claim_id: f13e01a0-1e88-40a7-a4e7-d5d497b06332
+    claim_hash: e15f017a662ceeb8c461803c33db0ca94b28c6720814b7ff4f5ebf6c6cc25131
+    content: Whitley Strieber initially assumed the vivid mental image of the being was a side effect of the hypnosis session,
+      occurring because Dr. Donald Klein had asked for many details about her appearance.
+    original_excerpt: This was disturbing and I was eager to expel it, assuming it to be a side effect of the hypnotic session,
+      occurring because Dr. Klein had asked for so many details about her appearance.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+      title: Whitley Strieber
+    provenance_chain:
+      origin_kind: speaker
+      origin: Whitley Strieber
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+        title: Whitley Strieber
+        slug: whitley-strieber
+      - node_id: edcc9edf-1a5b-4579-aa4f-dc04408e61e5
+        title: Donald Klein
+        slug: donald-klein
+    date: null
+    date_end: null
+    location_in_record: ch12:103209-103383
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: ad152768-183b-4cde-bc60-1520900ceb32
+      record_title: Communion
+      record_date: '2013-06-16'
+      record_reference: null
+      content_hash: sha256:b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4001275f9
+      friendly_name: 2013-06-16-ebook-communion
+  - claim_id: 3770dc41-8ac0-4821-a552-8d4000d6e161
+    claim_hash: 80a249ce777210e4e5adf33c0be7fe53a4ffa3456baffd0d9a3cb92569b2680c
+    content: Whitley Strieber found he could not adequately communicate to Budd Hopkins and Dr. Donald Klein how special the
+      mental image seemed to him.
+    original_excerpt: Despite my attempts to explain it to Budd Hopkins and Don Klein, I could not succeed in communicating
+      to others just how special it seemed to me to be.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+      title: Whitley Strieber
+    provenance_chain:
+      origin_kind: speaker
+      origin: Whitley Strieber
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+        title: Whitley Strieber
+        slug: whitley-strieber
+      - node_id: adbaf699-a6e5-418c-a8ba-24e21dd0ab92
+        title: Budd Hopkins
+        slug: budd-hopkins
+      - node_id: edcc9edf-1a5b-4579-aa4f-dc04408e61e5
+        title: Donald Klein
+        slug: donald-klein
+    date: null
+    date_end: null
+    location_in_record: ch12:104369-104517
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: ad152768-183b-4cde-bc60-1520900ceb32
+      record_title: Communion
+      record_date: '2013-06-16'
+      record_reference: null
+      content_hash: sha256:b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4001275f9
+      friendly_name: 2013-06-16-ebook-communion
+  - claim_id: f78e8f11-4fa5-4b34-8239-61762ff9b915
+    claim_hash: 25d5f55695f6a1fd7b9c25ab613425d96f9b8fc7bf4ebaec3c412f2724c4c594
+    content: Whitley Strieber speculates that if the mental image was not created by the effect of Dr. Donald Klein asking
+      him to visualise the creature, it might have been a sophisticated holographic projection.
+    original_excerpt: I do not know how to explain this image. If it was not created by the powerful effect of Don's, asking
+      me to visualize the creature, then perhaps it was some sort of sophisticated holographic projection.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+      title: Whitley Strieber
+    provenance_chain:
+      origin_kind: speaker
+      origin: Whitley Strieber
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+        title: Whitley Strieber
+        slug: whitley-strieber
+      - node_id: edcc9edf-1a5b-4579-aa4f-dc04408e61e5
+        title: Donald Klein
+        slug: donald-klein
+    date: null
+    date_end: null
+    location_in_record: ch12:111363-111555
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: ad152768-183b-4cde-bc60-1520900ceb32
+      record_title: Communion
+      record_date: '2013-06-16'
+      record_reference: null
+      content_hash: sha256:b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4001275f9
+      friendly_name: 2013-06-16-ebook-communion
+  - claim_id: f908e788-985f-4b6c-ad97-0db0ef03cec7
+    claim_hash: 6d2d6fcaf16e02930fcc01037cb200dc5dd642c4a0ab49e42ac2a77d21015584
+    content: During the hypnosis session, Dr. Donald Klein asked Whitley Strieber what "others" meant, and Strieber found
+      himself in another place but with the same or similar being before him.
+    original_excerpt: Then Dr. Klein asked what others, and I found myself in vet another place but with the same being still
+      before me, or somebody who looked very much like her.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+      title: Whitley Strieber
+    provenance_chain:
+      origin_kind: speaker
+      origin: Whitley Strieber
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+        title: Whitley Strieber
+        slug: whitley-strieber
+      - node_id: 7b25cf8a-f3f9-4aee-bfc1-8e2cc4a0980a
+        title: The visitors (nonhuman beings)
+        slug: the-visitors-nonhuman-beings
+      - node_id: edcc9edf-1a5b-4579-aa4f-dc04408e61e5
+        title: Donald Klein
+        slug: donald-klein
+    date: null
+    date_end: null
+    location_in_record: ch12:18815-18968
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: ad152768-183b-4cde-bc60-1520900ceb32
+      record_title: Communion
+      record_date: '2013-06-16'
+      record_reference: null
+      content_hash: sha256:b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4001275f9
+      friendly_name: 2013-06-16-ebook-communion
+  - claim_id: bc566a91-8e86-430e-97d9-a4a1182578c6
+    claim_hash: f90b2a3b1d1659a61e30754583095eb0be5e2351f9accf198d39944e222a9328
+    content: During the hypnosis session, Dr. Donald Klein asked Whitley Strieber his age, and Strieber answered "Twelve."
+    original_excerpt: It was then that Dr. Klein asked me my age, and I heard myself say, "Twelve."
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+      title: Whitley Strieber
+    provenance_chain:
+      origin_kind: speaker
+      origin: Whitley Strieber
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 14a28fcf-6ed3-45c5-b107-e46117e024b7
+        title: 1957 train trip abduction memory (age twelve)
+        slug: 1957-train-trip-abduction-memory-age-twelve
+      - node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+        title: Whitley Strieber
+        slug: whitley-strieber
+      - node_id: edcc9edf-1a5b-4579-aa4f-dc04408e61e5
+        title: Donald Klein
+        slug: donald-klein
+    date: null
+    date_end: null
+    location_in_record: ch12:19336-19405
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: ad152768-183b-4cde-bc60-1520900ceb32
+      record_title: Communion
+      record_date: '2013-06-16'
+      record_reference: null
+      content_hash: sha256:b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4001275f9
+      friendly_name: 2013-06-16-ebook-communion
+  - claim_id: a85ee11c-78b3-4505-b260-032f95e6f857
+    claim_hash: bd36e7886db296038d8603da292a1b51de653e9dcb91097e313f5874247ce1f4
+    content: On July 26, 1986, Dr. Donald Klein wrote to Whitley Strieber that many of his symptoms were consistent with an
+      abnormality in the temporal lobe, and that testing this involved a nasal probe.
+    original_excerpt: I thought no more about this until July 26, 1986, when I received a letter from Donald Klein in which
+      he mentioned that many of my symptoms were consistent with an abnormality in the temporal lobe, and that the method
+      of testing this involved a nasal probe.
+    claim_type: hearsay
+    attestation: second_hand
+    speaker:
+      node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+      title: Whitley Strieber
+    provenance_chain:
+      origin_kind: named
+      origin: Dr. Donald Klein
+      relay:
+        - a letter to Whitley Strieber
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+        title: Whitley Strieber
+        slug: whitley-strieber
+      - node_id: edcc9edf-1a5b-4579-aa4f-dc04408e61e5
+        title: Donald Klein
+        slug: donald-klein
+    date: '1986-07-26'
+    date_end: null
+    location_in_record: ch12:31354-31605
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: ad152768-183b-4cde-bc60-1520900ceb32
+      record_title: Communion
+      record_date: '2013-06-16'
+      record_reference: null
+      content_hash: sha256:b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4001275f9
+      friendly_name: 2013-06-16-ebook-communion
+  - claim_id: 47bd074d-df93-41a1-ba68-4e406b9d0441
+    claim_hash: c46884cbf21c37478a7aee914ee9054c4ca88300bc2838124ccdb74130f73b4f
+    content: Whitley Strieber arranged two separate temporal lobe tests during 1986 temporal lobe testing, one by a neurologist
+      recommended by Dr. Klein and another through a different psychiatrist.
+    original_excerpt: I decided that I would arrange two separate temporal lobe tests, one by a neurologist recommended by
+      Dr. Klein. and another through a different psychiatrist.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+      title: Whitley Strieber
+    provenance_chain:
+      origin_kind: speaker
+      origin: Whitley Strieber
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+        title: Whitley Strieber
+        slug: whitley-strieber
+      - node_id: 6b31275b-7e02-4934-a16c-d6defd7a66a3
+        title: 1986 temporal lobe testing
+        slug: 1986-temporal-lobe-testing
+      - node_id: edcc9edf-1a5b-4579-aa4f-dc04408e61e5
+        title: Donald Klein
+        slug: donald-klein
+    date: null
+    date_end: null
+    location_in_record: ch12:34329-34473
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: ad152768-183b-4cde-bc60-1520900ceb32
+      record_title: Communion
+      record_date: '2013-06-16'
+      record_reference: null
+      content_hash: sha256:b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4001275f9
+      friendly_name: 2013-06-16-ebook-communion
+  - claim_id: 536e49ee-71ff-4d68-a6d4-f9f071cc8589
+    claim_hash: c62cfb17c368905db6018671a3190595d7d0aec48c8185cc99bf8b0c05834420
+    content: The record of Whitley Strieber's hypnosis session names the presiding psychiatrist as Donald Vein, MD.
+    original_excerpt: 'PSYCHIATRIST: *Donald Vein, MD*'
+    claim_type: administrative
+    attestation: second_hand
+    speaker:
+      node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+      title: Whitley Strieber
+    provenance_chain:
+      origin_kind: document
+      origin: the hypnosis session transcript
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+        title: Whitley Strieber
+        slug: whitley-strieber
+      - node_id: edcc9edf-1a5b-4579-aa4f-dc04408e61e5
+        title: Donald Klein
+        slug: donald-klein
+    date: null
+    date_end: null
+    location_in_record: ch12:68525-68538
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: ad152768-183b-4cde-bc60-1520900ceb32
+      record_title: Communion
+      record_date: '2013-06-16'
+      record_reference: null
+      content_hash: sha256:b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4001275f9
+      friendly_name: 2013-06-16-ebook-communion
+  - claim_id: 69faddec-57cf-4be9-a3b3-7416ba5267ee
+    claim_hash: f6664a8b87679cdb48866fa2c52843e922aa15f304724bfdda9c2644a7a3d6f8
+    content: Whitley Strieber and Anne Strieber chose a psychiatrist other than Dr. Donald Klein to hypnotize Anne Strieber
+      so that his prior knowledge of the case could not unintentionally direct his questions.
+    original_excerpt: We chose a psychiatrist other than Don Klein so that there could be no possibility of his questions
+      taking on some sort of unnoticed direction because of what he already knew.
+    claim_type: administrative
+    attestation: first_hand
+    speaker:
+      node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+      title: Whitley Strieber
+    provenance_chain:
+      origin_kind: speaker
+      origin: Whitley Strieber
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 23df5a4d-b30f-4c3d-b155-0bb1d6355328
+        title: Anne Strieber
+        slug: anne-strieber
+      - node_id: 30bb19bf-40ae-4b4e-af18-5ae0572eac61
+        title: Robert Naiman
+        slug: robert-naiman
+      - node_id: edcc9edf-1a5b-4579-aa4f-dc04408e61e5
+        title: Donald Klein
+        slug: donald-klein
+    date: null
+    date_end: null
+    location_in_record: ch13:3102-3272
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: ad152768-183b-4cde-bc60-1520900ceb32
+      record_title: Communion
+      record_date: '2013-06-16'
+      record_reference: null
+      content_hash: sha256:b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4001275f9
+      friendly_name: 2013-06-16-ebook-communion
+  - claim_id: e8c43748-2e1c-4402-836a-c5e11fa205bc
+    claim_hash: 5a9c6661e92fe093adf555fecf4475d6e5258711506d46c282aaa6cc6d9b42ad
+    content: Robert Naiman had previously worked with other people who reported similar experiences and took a supportive
+      stance similar to that of Dr. Donald Klein.
+    original_excerpt: Bob Naiman had worked before with people who have had this experience, and took the same healthy and
+      supportive stance that Don Klein did.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+      title: Whitley Strieber
+    provenance_chain:
+      origin_kind: speaker
+      origin: Whitley Strieber
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 30bb19bf-40ae-4b4e-af18-5ae0572eac61
+        title: Robert Naiman
+        slug: robert-naiman
+      - node_id: edcc9edf-1a5b-4579-aa4f-dc04408e61e5
+        title: Donald Klein
+        slug: donald-klein
+    date: null
+    date_end: null
+    location_in_record: ch13:3962-4096
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: ad152768-183b-4cde-bc60-1520900ceb32
+      record_title: Communion
+      record_date: '2013-06-16'
+      record_reference: null
+      content_hash: sha256:b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4001275f9
+      friendly_name: 2013-06-16-ebook-communion
+  - claim_id: 4f7cc57e-638e-415b-b328-20d1d0931a3e
+    claim_hash: f5c8d4253beecfb603ea93d2409d8d2a6217c30f37767e2146c7b080cd54b22e
+    content: Dr. Donald Klein found that Whitley Strieber is not hallucinating in a manner characteristic of psychosis.
+    original_excerpt: He is not hallucinating in a manner characteristic of psychosis.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: edcc9edf-1a5b-4579-aa4f-dc04408e61e5
+      title: Donald Klein
+    provenance_chain:
+      origin_kind: speaker
+      origin: Dr. Donald Klein
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+        title: Whitley Strieber
+        slug: whitley-strieber
+      - node_id: edcc9edf-1a5b-4579-aa4f-dc04408e61e5
+        title: Donald Klein
+        slug: donald-klein
+    date: null
+    date_end: null
+    location_in_record: ch16:183-237
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: ad152768-183b-4cde-bc60-1520900ceb32
+      record_title: Communion
+      record_date: '2013-06-16'
+      record_reference: null
+      content_hash: sha256:b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4001275f9
+      friendly_name: 2013-06-16-ebook-communion
+  - claim_id: 5dfec173-5a84-406a-890f-0e9918264e64
+    claim_hash: d42a7c8d416d7185240596a200d306b119896e6e324b9c38a1aebbc716f4d853
+    content: Dr. Donald Klein found no evidence of an anxiety state, mood disorder, or personality disorder in Whitley Strieber.
+    original_excerpt: I also see no evidence of an anxiety state, mood disorder, or personality disorder.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: edcc9edf-1a5b-4579-aa4f-dc04408e61e5
+      title: Donald Klein
+    provenance_chain:
+      origin_kind: speaker
+      origin: Dr. Donald Klein
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+        title: Whitley Strieber
+        slug: whitley-strieber
+      - node_id: edcc9edf-1a5b-4579-aa4f-dc04408e61e5
+        title: Donald Klein
+        slug: donald-klein
+    date: null
+    date_end: null
+    location_in_record: ch16:248-322
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: ad152768-183b-4cde-bc60-1520900ceb32
+      record_title: Communion
+      record_date: '2013-06-16'
+      record_reference: null
+      content_hash: sha256:b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4001275f9
+      friendly_name: 2013-06-16-ebook-communion
+  - claim_id: 8cd9517d-7e1b-4d1d-847a-afa031bd1e39
+    claim_hash: cdc4f8271c0fb31a334acdbfc749afa75429cc15815e9ba38f81e7efac454235
+    content: Dr. Donald Klein considers Whitley Strieber an excellent hypnotic subject who appeared to make an honest attempt
+      while under hypnosis to describe what he remembered.
+    original_excerpt: He is an excellent hypnotic subject, who appeared to make an honest attempt while under hypnosis to
+      describe what he remembered.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: edcc9edf-1a5b-4579-aa4f-dc04408e61e5
+      title: Donald Klein
+    provenance_chain:
+      origin_kind: speaker
+      origin: Dr. Donald Klein
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+        title: Whitley Strieber
+        slug: whitley-strieber
+      - node_id: edcc9edf-1a5b-4579-aa4f-dc04408e61e5
+        title: Donald Klein
+        slug: donald-klein
+    date: null
+    date_end: null
+    location_in_record: ch16:332-449
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: ad152768-183b-4cde-bc60-1520900ceb32
+      record_title: Communion
+      record_date: '2013-06-16'
+      record_reference: null
+      content_hash: sha256:b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4001275f9
+      friendly_name: 2013-06-16-ebook-communion
+  - claim_id: 134eec8b-77c7-4d0b-a7ef-4d2351ccc3ea
+    claim_hash: d065ac96367ace45d5bdb334975c0d1a1953e94996413cf7a8873162b777650b
+    content: Dr. Donald Klein observed that Whitley Strieber approached the dilemma of what was happening to him in a careful
+      and forthright way and pursued his investigation with diligence.
+    original_excerpt: He has approached the dilemma of what is happening to him in a careful and forthright way and has pursued
+      his investigation with diligence.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: edcc9edf-1a5b-4579-aa4f-dc04408e61e5
+      title: Donald Klein
+    provenance_chain:
+      origin_kind: speaker
+      origin: Dr. Donald Klein
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+        title: Whitley Strieber
+        slug: whitley-strieber
+      - node_id: edcc9edf-1a5b-4579-aa4f-dc04408e61e5
+        title: Donald Klein
+        slug: donald-klein
+    date: null
+    date_end: null
+    location_in_record: ch16:462-591
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: ad152768-183b-4cde-bc60-1520900ceb32
+      record_title: Communion
+      record_date: '2013-06-16'
+      record_reference: null
+      content_hash: sha256:b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4001275f9
+      friendly_name: 2013-06-16-ebook-communion
+  - claim_id: 687b764b-c56e-4ddf-8560-f2c1e691cc1b
+    claim_hash: 01018c3b7254b5cdc521a5510443d7e82e78800ae04a6d0b65a68519cb9ff36f
+    content: Dr. Donald Klein observed that after an initial period of stress, Whitley Strieber became much more calm about
+      his situation and learned to deal with it in a psychologically healthy way.
+    original_excerpt: After an initial period of stress, he became much more calm about his situation and soon learned to
+      deal with it in a psychologically healthy way.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: edcc9edf-1a5b-4579-aa4f-dc04408e61e5
+      title: Donald Klein
+    provenance_chain:
+      origin_kind: speaker
+      origin: Dr. Donald Klein
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+        title: Whitley Strieber
+        slug: whitley-strieber
+      - node_id: edcc9edf-1a5b-4579-aa4f-dc04408e61e5
+        title: Donald Klein
+        slug: donald-klein
+    date: null
+    date_end: null
+    location_in_record: ch16:602-744
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: ad152768-183b-4cde-bc60-1520900ceb32
+      record_title: Communion
+      record_date: '2013-06-16'
+      record_reference: null
+      content_hash: sha256:b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4001275f9
+      friendly_name: 2013-06-16-ebook-communion
+  - claim_id: d79b844d-1b6f-4da5-a1f8-9535fad388f8
+    claim_hash: 3c12a1f878b4ddd4632ccd28ea98f608ec2c09e7ba6de6e4de9a360dd27bac5f
+    content: Dr. Donald Klein considers Whitley Strieber to have adapted very well to life at a high level of uncertainty.
+    original_excerpt: He appears to me to have adapted very well to life at a high level of uncertainty.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: edcc9edf-1a5b-4579-aa4f-dc04408e61e5
+      title: Donald Klein
+    provenance_chain:
+      origin_kind: speaker
+      origin: Dr. Donald Klein
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+        title: Whitley Strieber
+        slug: whitley-strieber
+      - node_id: edcc9edf-1a5b-4579-aa4f-dc04408e61e5
+        title: Donald Klein
+        slug: donald-klein
+    date: null
+    date_end: null
+    location_in_record: ch16:749-819
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: ad152768-183b-4cde-bc60-1520900ceb32
+      record_title: Communion
+      record_date: '2013-06-16'
+      record_reference: null
+      content_hash: sha256:b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4001275f9
+      friendly_name: 2013-06-16-ebook-communion
+  - claim_id: be0aaa39-01e9-42e5-a883-cb8242a09d07
+    claim_hash: 1deead4b6b57e51e645604c5da0b2163ae46b2c69ce029c4e80b4af7c557e1b8
+    content: Dr. Donald Klein is Director of Research at the New York State Psychiatric Institute.
+    original_excerpt: Director of Research, New York State Psychiatric Institute
+    claim_type: administrative
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: document
+      origin: 'Document: Appendix I statement by Donald F. Klein, MD (Communion)'
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 76e440c9-d470-44bf-96ca-f1ce37cf7eca
+        title: New York State Psychiatric Institute
+        slug: new-york-state-psychiatric-institute
+      - node_id: edcc9edf-1a5b-4579-aa4f-dc04408e61e5
+        title: Donald Klein
+        slug: donald-klein
+    date: null
+    date_end: null
+    location_in_record: ch16:856-905
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: ad152768-183b-4cde-bc60-1520900ceb32
+      record_title: Communion
+      record_date: '2013-06-16'
+      record_reference: null
+      content_hash: sha256:b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4001275f9
+      friendly_name: 2013-06-16-ebook-communion
+  - claim_id: 52160a96-893b-4245-a706-779e90d2bad3
+    claim_hash: 4047e888e27adacaa5e484eb169741b2574d73ff35b31cf706b4ecfea05b88e2
+    content: Dr. Donald Klein examined Whitley Strieber and found he is not suffering from a psychosis.
+    original_excerpt: I have examined Whitley Strieber and found that he is not suffering from a psychosis.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: edcc9edf-1a5b-4579-aa4f-dc04408e61e5
+      title: Donald Klein
+    provenance_chain:
+      origin_kind: speaker
+      origin: Dr. Donald Klein
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+        title: Whitley Strieber
+        slug: whitley-strieber
+      - node_id: a281898d-853f-43ca-be38-28ef12edad61
+        title: Appendix I statement by Donald F. Klein, MD (Communion)
+        slug: md-communion-appendix-i-statement-by-donald-f-klein
+      - node_id: edcc9edf-1a5b-4579-aa4f-dc04408e61e5
+        title: Donald Klein
+        slug: donald-klein
+    date: null
+    date_end: null
+    location_in_record: ch16:97-172
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: ad152768-183b-4cde-bc60-1520900ceb32
+      record_title: Communion
+      record_date: '2013-06-16'
+      record_reference: null
+      content_hash: sha256:b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4001275f9
+      friendly_name: 2013-06-16-ebook-communion
+  - claim_id: a3b90709-e8c3-4fc8-bab9-9dec9e1c277f
+    claim_hash: f00936e4837e3005e928fbdb4d72f7251ec0ebd3f4820c7fe107196d6d39ec78
+    content: Budd Hopkins brought Donald Klein into the process of hypnotising Whitley Strieber.
+    original_excerpt: he drew Dr. Donald Klein into the picture
+    claim_type: observation
+    attestation: first_hand
+    speaker:
+      node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+      title: Whitley Strieber
+    provenance_chain:
+      origin_kind: speaker
+      origin: Whitley Strieber
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+        title: Whitley Strieber
+        slug: whitley-strieber
+      - node_id: adbaf699-a6e5-418c-a8ba-24e21dd0ab92
+        title: Budd Hopkins
+        slug: budd-hopkins
+      - node_id: edcc9edf-1a5b-4579-aa4f-dc04408e61e5
+        title: Donald Klein
+        slug: donald-klein
+    date: null
+    date_end: null
+    location_in_record: ch20:21544-21578
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 759e8d7b-a820-4e00-bdc3-9aebf9e4b1b1
+      record_title: The Fourth Mind
+      record_date: '2025-01-15'
+      record_reference: null
+      content_hash: sha256:524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008e17102e7
+      friendly_name: 2025-01-15-ebook-the-fourth-mind
+  - claim_id: d663939a-04a2-4128-9d9e-8ba295a781b6
+    claim_hash: dac98c6d59257ee4b39632826df49174adeb3f3793b447ec839647c137a05f02
+    content: Donald Klein was the Director of Research at the New York State Psychiatric Institute.
+    original_excerpt: Dr. Klein was the Director of Research at the New York State Psychiatric Institute
+    claim_type: administrative
+    attestation: first_hand
+    speaker:
+      node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+      title: Whitley Strieber
+    provenance_chain:
+      origin_kind: speaker
+      origin: Whitley Strieber
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 76e440c9-d470-44bf-96ca-f1ce37cf7eca
+        title: New York State Psychiatric Institute
+        slug: new-york-state-psychiatric-institute
+      - node_id: edcc9edf-1a5b-4579-aa4f-dc04408e61e5
+        title: Donald Klein
+        slug: donald-klein
+    date: null
+    date_end: null
+    location_in_record: ch20:21587-21660
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 759e8d7b-a820-4e00-bdc3-9aebf9e4b1b1
+      record_title: The Fourth Mind
+      record_date: '2025-01-15'
+      record_reference: null
+      content_hash: sha256:524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008e17102e7
+      friendly_name: 2025-01-15-ebook-the-fourth-mind
+  - claim_id: 6c118363-f523-4e8c-b589-1ac92372bdff
+    claim_hash: 61555b92e86786eaf4b714effa9b45f06215604e12a93d9208f67e19d5f02848
+    content: Donald Klein told Whitley Strieber that his expertise in forensic hypnosis had enabled him to assist in solving
+      seventy-two crimes as of their meeting in March 1986.
+    original_excerpt: He told me of and his expertise in forensic hypnosis and said that it had enabled him to assist in the
+      solving of seventy-two crimes as of our meeting in March of 1986
+    claim_type: testimony
+    attestation: second_hand
+    speaker:
+      node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+      title: Whitley Strieber
+    provenance_chain:
+      origin_kind: named
+      origin: Donald Klein
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 0e63e454-7f9e-44b9-8607-a7df3168f045
+        title: 1986-03 hypnosis session of Whitley Strieber by Donald Klein
+        slug: 1986-03-hypnosis-session-of-whitley-strieber-by-donald-klein
+      - node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+        title: Whitley Strieber
+        slug: whitley-strieber
+      - node_id: edcc9edf-1a5b-4579-aa4f-dc04408e61e5
+        title: Donald Klein
+        slug: donald-klein
+    date: 1986-03
+    date_end: null
+    location_in_record: ch20:21671-21834
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 759e8d7b-a820-4e00-bdc3-9aebf9e4b1b1
+      record_title: The Fourth Mind
+      record_date: '2025-01-15'
+      record_reference: null
+      content_hash: sha256:524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008e17102e7
+      friendly_name: 2025-01-15-ebook-the-fourth-mind
+  - claim_id: fba572c4-b4b7-4a41-9620-2cd3e117980d
+    claim_hash: 683bf673489bebdb277d87baee9846d967ac8f300ec64575a37fa3fe7861d8a2
+    content: Whitley Strieber and Donald Klein met in March 1986.
+    original_excerpt: as of our meeting in March of 1986
+    claim_type: observation
+    attestation: first_hand
+    speaker:
+      node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+      title: Whitley Strieber
+    provenance_chain:
+      origin_kind: speaker
+      origin: Whitley Strieber
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 0e63e454-7f9e-44b9-8607-a7df3168f045
+        title: 1986-03 hypnosis session of Whitley Strieber by Donald Klein
+        slug: 1986-03-hypnosis-session-of-whitley-strieber-by-donald-klein
+      - node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+        title: Whitley Strieber
+        slug: whitley-strieber
+      - node_id: edcc9edf-1a5b-4579-aa4f-dc04408e61e5
+        title: Donald Klein
+        slug: donald-klein
+    date: 1986-03
+    date_end: null
+    location_in_record: ch20:21804-21834
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 759e8d7b-a820-4e00-bdc3-9aebf9e4b1b1
+      record_title: The Fourth Mind
+      record_date: '2025-01-15'
+      record_reference: null
+      content_hash: sha256:524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008e17102e7
+      friendly_name: 2025-01-15-ebook-the-fourth-mind
+  - claim_id: 8a00c3b0-8e53-4b8f-bc74-1367dd01a141
+    claim_hash: 2da5fb2b18dd355a987ca13515b7ac19205dafae25c939a64140c3e299996c70
+    content: Budd Hopkins put Whitley Strieber in touch with Donald Klein, who then hypnotised Strieber.
+    original_excerpt: he proceeds to get me in touch with probably one of the world's leading forensic hypnotists at that
+      time, Dr. Donald Klein, who proceeds to hypnotize me
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+      title: Whitley Strieber
+    provenance_chain:
+      origin_kind: speaker
+      origin: Whitley Strieber
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 22be19fb-4ded-4681-a698-bb0233fa1581
+        title: Forensic hypnosis
+        slug: forensic-hypnosis
+      - node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+        title: Whitley Strieber
+        slug: whitley-strieber
+      - node_id: adbaf699-a6e5-418c-a8ba-24e21dd0ab92
+        title: Budd Hopkins
+        slug: budd-hopkins
+      - node_id: edcc9edf-1a5b-4579-aa4f-dc04408e61e5
+        title: Donald Klein
+        slug: donald-klein
+    date: null
+    date_end: null
+    location_in_record: 00:04:53.8-00:05:04.1
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 7e583a7d-790d-4cfe-bbee-95c3d542e67a
+      record_title: Whitley Strieber Reveals What 40 Years of Encounters Taught Him | Reality Check Rewind
+      record_date: '2026-08-14'
+      record_reference: https://www.youtube.com/watch?v=H7sJFNdgCI4
+      content_hash: sha256:17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c451793c5a628
+      friendly_name: null
+  - claim_id: 7867f5d0-7b8e-48e4-a304-034cb436b3b8
+    claim_hash: 18301cb8781df98d9eb80b02bd0397db2e8ec2e0d0bf51d7cf3136bdcab43c24
+    content: Whitley Strieber regards Donald Klein as one of the world's leading forensic hypnotists at the time of the mid-1980s.
+    original_excerpt: probably one of the world's leading forensic hypnotists at that time, Dr. Donald Klein
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+      title: Whitley Strieber
+    provenance_chain:
+      origin_kind: speaker
+      origin: Whitley Strieber
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 22be19fb-4ded-4681-a698-bb0233fa1581
+        title: Forensic hypnosis
+        slug: forensic-hypnosis
+      - node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+        title: Whitley Strieber
+        slug: whitley-strieber
+      - node_id: edcc9edf-1a5b-4579-aa4f-dc04408e61e5
+        title: Donald Klein
+        slug: donald-klein
+    date: null
+    date_end: null
+    location_in_record: 00:04:56.0-00:05:00.4
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 7e583a7d-790d-4cfe-bbee-95c3d542e67a
+      record_title: Whitley Strieber Reveals What 40 Years of Encounters Taught Him | Reality Check Rewind
+      record_date: '2026-08-14'
+      record_reference: https://www.youtube.com/watch?v=H7sJFNdgCI4
+      content_hash: sha256:17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c451793c5a628
+      friendly_name: null
+  - claim_id: 8f016495-560f-40ca-9777-7c1a7f4ea8ed
+    claim_hash: efbc6c4bcaeee48c16ca7994ecf510277083bf163276b28169641d5359dc31e9
+    content: Donald Klein understood the neurology of the brain, in Whitley Strieber's assessment.
+    original_excerpt: This is a man who understood the neurology of the brain and therefore understood how this all works.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+      title: Whitley Strieber
+    provenance_chain:
+      origin_kind: speaker
+      origin: Whitley Strieber
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+        title: Whitley Strieber
+        slug: whitley-strieber
+      - node_id: edcc9edf-1a5b-4579-aa4f-dc04408e61e5
+        title: Donald Klein
+        slug: donald-klein
+    date: null
+    date_end: null
+    location_in_record: 00:05:09.3-00:05:16.6
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 7e583a7d-790d-4cfe-bbee-95c3d542e67a
+      record_title: Whitley Strieber Reveals What 40 Years of Encounters Taught Him | Reality Check Rewind
+      record_date: '2026-08-14'
+      record_reference: https://www.youtube.com/watch?v=H7sJFNdgCI4
+      content_hash: sha256:17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c451793c5a628
+      friendly_name: null
+  - claim_id: d8c6c010-ca2e-4cc1-9050-78439db97722
+    claim_hash: 1954b8895b698e3942d5a6d0f818a767b569f72457bc46543e1b969955b95c78
+    content: Donald Klein had solved 72 legal cases using forensic hypnosis by the mid-1980s.
+    original_excerpt: he had solved legal cases, 72 of them by that point in his career, using forensic hypnosis
+    claim_type: measurement
+    attestation: first_hand
+    speaker:
+      node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+      title: Whitley Strieber
+    provenance_chain:
+      origin_kind: speaker
+      origin: Whitley Strieber
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 22be19fb-4ded-4681-a698-bb0233fa1581
+        title: Forensic hypnosis
+        slug: forensic-hypnosis
+      - node_id: edcc9edf-1a5b-4579-aa4f-dc04408e61e5
+        title: Donald Klein
+        slug: donald-klein
+    date: null
+    date_end: null
+    location_in_record: 00:05:18.7-00:05:26.6
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 7e583a7d-790d-4cfe-bbee-95c3d542e67a
+      record_title: Whitley Strieber Reveals What 40 Years of Encounters Taught Him | Reality Check Rewind
+      record_date: '2026-08-14'
+      record_reference: https://www.youtube.com/watch?v=H7sJFNdgCI4
+      content_hash: sha256:17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c451793c5a628
+      friendly_name: null
+  - claim_id: 116d5684-c0d2-418c-8c29-a63842866719
+    claim_hash: 45de802b527a6947027ada586982d151e0afe9569fc362f902e84acb2962e908
+    content: Under hypnosis by Donald Klein, Whitley Strieber recalled appearing to have been abducted by aliens rather than
+      assaulted by people in masks.
+    original_excerpt: Instead of seeing people in masks and being able to identify things I could take to the police, I appeared
+      to have been abducted by aliens, just like Budd thought.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+      title: Whitley Strieber
+    provenance_chain:
+      origin_kind: speaker
+      origin: Whitley Strieber
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 22be19fb-4ded-4681-a698-bb0233fa1581
+        title: Forensic hypnosis
+        slug: forensic-hypnosis
+      - node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+        title: Whitley Strieber
+        slug: whitley-strieber
+      - node_id: 98eeed83-96a9-45ef-bb14-cb915d45fc9c
+        title: Alien abduction
+        slug: alien-abduction
+      - node_id: adbaf699-a6e5-418c-a8ba-24e21dd0ab92
+        title: Budd Hopkins
+        slug: budd-hopkins
+      - node_id: edcc9edf-1a5b-4579-aa4f-dc04408e61e5
+        title: Donald Klein
+        slug: donald-klein
+    date: null
+    date_end: null
+    location_in_record: 00:05:37.3-00:05:46.6
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 7e583a7d-790d-4cfe-bbee-95c3d542e67a
+      record_title: Whitley Strieber Reveals What 40 Years of Encounters Taught Him | Reality Check Rewind
+      record_date: '2026-08-14'
+      record_reference: https://www.youtube.com/watch?v=H7sJFNdgCI4
+      content_hash: sha256:17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c451793c5a628
+      friendly_name: null
+  - claim_id: 554f3593-4955-4086-9c79-e2d1cdd00259
+    claim_hash: c38652a1a59d2b6f95a1a5be8263088be609ce86635c46b9fa1d7832852faae8
+    content: Under hypnosis with Donald Klein, Whitley Strieber's voice changed without his being aware of it, and when asked
+      how old he was he heard himself answer "12" in his childhood Texas accent.
+    original_excerpt: This was why when Don Klein was under hypnosis with him, my voice changed. I wasn't aware of it. And
+      he suddenly said, how old are you? And I was astonished to hear my voice come out in my little 12-year-old Texas accent.
+      I said, 12?
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+      title: Whitley Strieber
+    provenance_chain:
+      origin_kind: speaker
+      origin: Whitley Strieber
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 22be19fb-4ded-4681-a698-bb0233fa1581
+        title: Forensic hypnosis
+        slug: forensic-hypnosis
+      - node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+        title: Whitley Strieber
+        slug: whitley-strieber
+      - node_id: edcc9edf-1a5b-4579-aa4f-dc04408e61e5
+        title: Donald Klein
+        slug: donald-klein
+    date: null
+    date_end: null
+    location_in_record: 01:01:16.2-01:01:36.8
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 7e583a7d-790d-4cfe-bbee-95c3d542e67a
+      record_title: Whitley Strieber Reveals What 40 Years of Encounters Taught Him | Reality Check Rewind
+      record_date: '2026-08-14'
+      record_reference: https://www.youtube.com/watch?v=H7sJFNdgCI4
+      content_hash: sha256:17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c451793c5a628
+      friendly_name: null
+  - claim_id: abea08ef-8db2-4738-9e0e-48252aaf3651
+    claim_hash: 015194ed8fbb06d6213bed737108513d3aaf0ba5ce1c82557190c98aebe4e6ee
+    content: The hypnosis session with Donald Klein was one of the most shocking moments of Whitley Strieber's life and opened
+      him to the fact that the phenomenon had been in his life as a child, which he did not know until after his abduction
+      experience.
+    original_excerpt: It was one of the most shocking moments of my life. And that opened me up to the fact that this had
+      been in my life when I was a child. I did not know that until after the abduction experience.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+      title: Whitley Strieber
+    provenance_chain:
+      origin_kind: speaker
+      origin: Whitley Strieber
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 22be19fb-4ded-4681-a698-bb0233fa1581
+        title: Forensic hypnosis
+        slug: forensic-hypnosis
+      - node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+        title: Whitley Strieber
+        slug: whitley-strieber
+      - node_id: 98eeed83-96a9-45ef-bb14-cb915d45fc9c
+        title: Alien abduction
+        slug: alien-abduction
+      - node_id: edcc9edf-1a5b-4579-aa4f-dc04408e61e5
+        title: Donald Klein
+        slug: donald-klein
+    date: null
+    date_end: null
+    location_in_record: 01:01:39.5-01:01:50.4
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 7e583a7d-790d-4cfe-bbee-95c3d542e67a
+      record_title: Whitley Strieber Reveals What 40 Years of Encounters Taught Him | Reality Check Rewind
+      record_date: '2026-08-14'
+      record_reference: https://www.youtube.com/watch?v=H7sJFNdgCI4
+      content_hash: sha256:17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c451793c5a628
+      friendly_name: null

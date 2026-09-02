@@ -1,0 +1,812 @@
+schema: anomalica/brief/1
+brief_hash: 3059edbb7bb00d2f48acb42c999b3fc4f901160dd0845b5c5afc8a23f5d92eea
+page:
+  kind: entity
+  node_id: e77dc4a2-da3e-4c1c-8cff-0d52576776d4
+  node_type: person
+  title: Dennis Grant
+  slug: dennis-grant
+  claim_count: 19
+  claim_count_total: 19
+generated:
+  graph_version: '2026-09-01T10:10:49.863545+00:00'
+size:
+  claims: 19
+  tokens_estimated: 5578
+  sized_against: 1050000
+publication:
+  status: published
+  note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
+    transcripts are gated elsewhere.
+belonging:
+  verified: 0
+  suspect_excluded: 0
+  unreviewed: 19
+related_nodes:
+  - node_id: f1f3fbdf-1d40-4497-b859-d6bf312f802d
+    title: Kaikoura UAP Sighting
+    node_type: event
+    slug: kaikoura-uap-sighting
+    shared_claims: 13
+  - node_id: 58d9897e-c5c4-42e1-96ce-26ced5f411cf
+    title: New Zealand, Wellington
+    node_type: place
+    slug: wellington-new-zealand
+    shared_claims: 4
+  - node_id: dea6e499-868a-4365-a7e4-04a18a215554
+    title: Quentin Fogarty
+    node_type: person
+    slug: quentin-fogarty
+    shared_claims: 4
+  - node_id: 746f41bc-1c2e-4912-9df8-0711676f4dab
+    title: 1978 Kaikoura lights incident
+    node_type: event
+    slug: 1978-kaikoura-lights-incident
+    shared_claims: 2
+  - node_id: e7fe2fbf-cd70-46ef-ba18-dc6c1d66e10a
+    title: Argosy aircraft
+    node_type: object
+    slug: argosy-aircraft
+    shared_claims: 2
+  - node_id: db7170bd-ea41-4851-8bd2-8aba8c0fa4f4
+    title: Australia, Victoria, Melbourne
+    node_type: place
+    slug: victoria-melbourne-australia
+    shared_claims: 1
+  - node_id: d7419fb6-0d02-48f8-86c8-8f2b99cefc21
+    title: Davy Crockett
+    node_type: person
+    slug: davy-crockett
+    shared_claims: 1
+  - node_id: fc449df6-ae44-400a-afe8-ad2816fa1e9f
+    title: John Cordy
+    node_type: person
+    slug: john-cordy
+    shared_claims: 1
+  - node_id: 62234717-6c34-4845-9017-7f9e9fa69df9
+    title: Kaikoura Unidentified Flying Object (UFO) film footage
+    node_type: document
+    slug: kaikoura-unidentified-flying-object-ufo-film-footage
+    shared_claims: 1
+  - node_id: 41d43ef9-532d-45b4-b3c8-1fa0f43b5933
+    title: Royal New Zealand Air Force
+    node_type: organisation
+    slug: royal-new-zealand-air-force
+    shared_claims: 1
+claims:
+  - claim_id: f43a3eeb-9edd-4ff4-90ba-5d847f36c455
+    claim_hash: 1f73230b84964ad090a9f19d072b94e2bbb9e09f2fa6030363ca51053bf05908
+    content: Dennis Grant was Quentin Fogarty's long-time friend and colleague.
+    original_excerpt: but his long-time friend and colleague Dennis Grant told me the ridicule directed at Fogarty after the
+      air force's finding took a toll on his career.
+    claim_type: administrative
+    attestation: first_hand
+    speaker:
+      node_id: e77dc4a2-da3e-4c1c-8cff-0d52576776d4
+      title: Dennis Grant
+    provenance_chain:
+      origin_kind: speaker
+      origin: Dennis Grant
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: dea6e499-868a-4365-a7e4-04a18a215554
+        title: Quentin Fogarty
+        slug: quentin-fogarty
+      - node_id: e77dc4a2-da3e-4c1c-8cff-0d52576776d4
+        title: Dennis Grant
+        slug: dennis-grant
+    date: null
+    date_end: null
+    location_in_record: ch12:4572-4714
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: fb87036f-461b-4972-8b10-30ef64c09388
+    claim_hash: b03928481641fe56948711b9f521883608e686da1a53c726999ea15f7e7ead54
+    content: The ridicule directed at Quentin Fogarty after the Royal New Zealand Air Force's finding on the 1978 Kaikoura
+      UAP sighting took a toll on his career.
+    original_excerpt: his long-time friend and colleague Dennis Grant told me the ridicule directed at Fogarty after the air
+      force's finding took a toll on his career.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: e77dc4a2-da3e-4c1c-8cff-0d52576776d4
+      title: Dennis Grant
+    provenance_chain:
+      origin_kind: speaker
+      origin: Dennis Grant
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 41d43ef9-532d-45b4-b3c8-1fa0f43b5933
+        title: Royal New Zealand Air Force
+        slug: royal-new-zealand-air-force
+      - node_id: dea6e499-868a-4365-a7e4-04a18a215554
+        title: Quentin Fogarty
+        slug: quentin-fogarty
+      - node_id: f1f3fbdf-1d40-4497-b859-d6bf312f802d
+        title: Kaikoura UAP Sighting
+        slug: kaikoura-uap-sighting
+    date: null
+    date_end: null
+    location_in_record: ch12:4576-4714
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 4d747b0c-8089-4ba2-8b6d-92fce8f939eb
+    claim_hash: 12bd189b2263019fd9fb30edf2504607b3e0d8d71ba5a7abc605e2c07e61ddd0
+    content: Dennis Grant considers that one of the many failures of the 1978 Kaikoura UAP sighting case was universal media
+      scepticism when more rigour was justified.
+    original_excerpt: '''One of the many failures was universal media scepticism when more rigour was justified in this case.
+      The media should have asked more questions. Quentin never gave up. He stuck to his guns.'''
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: e77dc4a2-da3e-4c1c-8cff-0d52576776d4
+      title: Dennis Grant
+    provenance_chain:
+      origin_kind: speaker
+      origin: Dennis Grant
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: dea6e499-868a-4365-a7e4-04a18a215554
+        title: Quentin Fogarty
+        slug: quentin-fogarty
+      - node_id: e77dc4a2-da3e-4c1c-8cff-0d52576776d4
+        title: Dennis Grant
+        slug: dennis-grant
+      - node_id: f1f3fbdf-1d40-4497-b859-d6bf312f802d
+        title: Kaikoura UAP Sighting
+        slug: kaikoura-uap-sighting
+    date: null
+    date_end: null
+    location_in_record: ch12:4809-4993
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 03b6265a-8fbf-4449-af7e-389df7360342
+    claim_hash: 88560709d914aed2b2a5cb88549f1b09306a3924da857baeecd8868bd37a4fab
+    content: Dennis Grant moved to Australia to work in journalism and became a well-respected political correspondent for
+      one of the main television networks.
+    original_excerpt: Dennis Grant later moved to Australia to work in journalism, and he became a well-respected political
+      correspondent for one of the main television networks.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: db7170bd-ea41-4851-8bd2-8aba8c0fa4f4
+        title: Australia, Victoria, Melbourne
+        slug: victoria-melbourne-australia
+      - node_id: e77dc4a2-da3e-4c1c-8cff-0d52576776d4
+        title: Dennis Grant
+        slug: dennis-grant
+    date: null
+    date_end: null
+    location_in_record: ch12:5002-5149
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 55a13b37-209c-4914-aa16-7480ed27363c
+    claim_hash: 52c585e83d963b175fa6ecce1fbd705d0c0297536d787f9b3121cb3795c620c9
+    content: Dennis Grant joined Quentin Fogarty on the Argosy aircraft's return trip from Christchurch to Blenheim on the
+      night of the 1978 Kaikoura UAP sighting and saw the objects.
+    original_excerpt: He joined Fogarty on the Argosy plane's return trip from Christchurch to Blenheim that December 1978
+      night and saw the objects.
+    claim_type: observation
+    attestation: first_hand
+    speaker:
+      node_id: e77dc4a2-da3e-4c1c-8cff-0d52576776d4
+      title: Dennis Grant
+    provenance_chain:
+      origin_kind: speaker
+      origin: Dennis Grant
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: dea6e499-868a-4365-a7e4-04a18a215554
+        title: Quentin Fogarty
+        slug: quentin-fogarty
+      - node_id: e77dc4a2-da3e-4c1c-8cff-0d52576776d4
+        title: Dennis Grant
+        slug: dennis-grant
+      - node_id: e7fe2fbf-cd70-46ef-ba18-dc6c1d66e10a
+        title: Argosy aircraft
+        slug: argosy-aircraft
+      - node_id: f1f3fbdf-1d40-4497-b859-d6bf312f802d
+        title: Kaikoura UAP Sighting
+        slug: kaikoura-uap-sighting
+    date: null
+    date_end: null
+    location_in_record: ch12:5159-5278
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 07fd7052-8e72-435f-afbb-f5b3612dc438
+    claim_hash: 158c8dc0dfc6dec46655df8d89142afc811f9216e5c70c04ccc3f37b9f57359c
+    content: Dennis Grant considers the 1978 Kaikoura UAP sighting the most intriguing and strange story he has ever worked
+      on.
+    original_excerpt: '''It still remains the most intriguing and strange story I have ever worked on,'' Grant tells me.'
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: e77dc4a2-da3e-4c1c-8cff-0d52576776d4
+      title: Dennis Grant
+    provenance_chain:
+      origin_kind: speaker
+      origin: Dennis Grant
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: e77dc4a2-da3e-4c1c-8cff-0d52576776d4
+        title: Dennis Grant
+        slug: dennis-grant
+      - node_id: f1f3fbdf-1d40-4497-b859-d6bf312f802d
+        title: Kaikoura UAP Sighting
+        slug: kaikoura-uap-sighting
+    date: null
+    date_end: null
+    location_in_record: ch12:5288-5379
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: e71cb5df-a355-4acd-b892-7f7c05ac94f4
+    claim_hash: b4bdfbf873d13ac51a147167b16dd0bd0efb164465817ca1b016991e869cac8e
+    content: Dennis Grant did not see the planet Venus during the 1978 Kaikoura UAP sighting; Venus was at an entirely wrong
+      angle to where they were looking.
+    original_excerpt: We didn't see Venus, which is what the air force suggested. Venus was at an entirely wrong angle to
+      where we were looking.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: e77dc4a2-da3e-4c1c-8cff-0d52576776d4
+      title: Dennis Grant
+    provenance_chain:
+      origin_kind: speaker
+      origin: Dennis Grant
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: e77dc4a2-da3e-4c1c-8cff-0d52576776d4
+        title: Dennis Grant
+        slug: dennis-grant
+      - node_id: f1f3fbdf-1d40-4497-b859-d6bf312f802d
+        title: Kaikoura UAP Sighting
+        slug: kaikoura-uap-sighting
+    date: null
+    date_end: null
+    location_in_record: ch12:5438-5552
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 70bb3f2f-4d3f-458e-92e2-3d7b24483201
+    claim_hash: 147cc7456669ae4520af94dd7ccd7874ca7167d63ceee6ecfab0784329332757
+    content: Dennis Grant was the only person on board the aircraft that night during the 1978 Kaikoura UAP sighting to keep
+      contemporaneous notes.
+    original_excerpt: Dennis Grant was the only person on board the plane that night to keep contemporaneous notes.
+    claim_type: administrative
+    attestation: first_hand
+    speaker:
+      node_id: e77dc4a2-da3e-4c1c-8cff-0d52576776d4
+      title: Dennis Grant
+    provenance_chain:
+      origin_kind: speaker
+      origin: Dennis Grant
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: e77dc4a2-da3e-4c1c-8cff-0d52576776d4
+        title: Dennis Grant
+        slug: dennis-grant
+      - node_id: f1f3fbdf-1d40-4497-b859-d6bf312f802d
+        title: Kaikoura UAP Sighting
+        slug: kaikoura-uap-sighting
+    date: null
+    date_end: null
+    location_in_record: ch12:5636-5723
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 73543a0c-a0b9-467c-b841-313fa52d634d
+    claim_hash: ef53e069742a9738fbe4ef90f58a7ebbb2bccee5f1f570d89fda68fc80fe8282
+    content: During the 1978 Kaikoura UAP sighting, the glowing orbs witnessed moving around the aircraft were frequently
+      and simultaneously tracked on both Wellington radar and the aircraft's own radar.
+    original_excerpt: What struck him the most was that, frequently during the flight, the strange glowing orbs they all witnessed
+      moving around their aircraft were simultaneously tracked on both Wellington radar and the plane's radar.
+    claim_type: observation
+    attestation: first_hand
+    speaker:
+      node_id: e77dc4a2-da3e-4c1c-8cff-0d52576776d4
+      title: Dennis Grant
+    provenance_chain:
+      origin_kind: speaker
+      origin: Dennis Grant
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 58d9897e-c5c4-42e1-96ce-26ced5f411cf
+        title: New Zealand, Wellington
+        slug: wellington-new-zealand
+      - node_id: e77dc4a2-da3e-4c1c-8cff-0d52576776d4
+        title: Dennis Grant
+        slug: dennis-grant
+      - node_id: f1f3fbdf-1d40-4497-b859-d6bf312f802d
+        title: Kaikoura UAP Sighting
+        slug: kaikoura-uap-sighting
+    date: null
+    date_end: null
+    location_in_record: ch12:5730-5937
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 6c0d6f6f-1877-436d-ae7d-4319befabbbf
+    claim_hash: ec31e5418c757815acf8cec1d5f0190e19b806abb10d327fdb5b361c9721e687
+    content: During the 1978 Kaikoura UAP sighting, when the aircraft crew reported where they could see an object, Wellington
+      radar was simultaneously tracking it across Cook Strait on their equipment.
+    original_excerpt: '''We were listening in to the conversation with Wellington radar and when we said where we could see
+      an object, they were tracking it across Cook Strait on their equipment,'' he tells me.'
+    claim_type: observation
+    attestation: first_hand
+    speaker:
+      node_id: e77dc4a2-da3e-4c1c-8cff-0d52576776d4
+      title: Dennis Grant
+    provenance_chain:
+      origin_kind: speaker
+      origin: Dennis Grant
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 58d9897e-c5c4-42e1-96ce-26ced5f411cf
+        title: New Zealand, Wellington
+        slug: wellington-new-zealand
+      - node_id: e77dc4a2-da3e-4c1c-8cff-0d52576776d4
+        title: Dennis Grant
+        slug: dennis-grant
+      - node_id: f1f3fbdf-1d40-4497-b859-d6bf312f802d
+        title: Kaikoura UAP Sighting
+        slug: kaikoura-uap-sighting
+    date: null
+    date_end: null
+    location_in_record: ch12:5945-6126
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 64ab26d9-c16b-402e-82ee-b6673efe505f
+    claim_hash: 24363e52cc3a51b20bf4bca011d5093d547d704654b02ecbdca20eb3f78d7b23
+    content: Dennis Grant and other witnesses during the 1978 Kaikoura UAP sighting were close enough to the orbs at times
+      to see their light reflected on the ocean below.
+    original_excerpt: Grant also says they were close enough to the orbs at times to see their light reflected on the ocean
+      below, underlining the falsity of official findings that all on board were confused by squid boat lights somehow refracted
+      on the clouds.
+    claim_type: observation
+    attestation: first_hand
+    speaker:
+      node_id: e77dc4a2-da3e-4c1c-8cff-0d52576776d4
+      title: Dennis Grant
+    provenance_chain:
+      origin_kind: speaker
+      origin: Dennis Grant
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: e77dc4a2-da3e-4c1c-8cff-0d52576776d4
+        title: Dennis Grant
+        slug: dennis-grant
+      - node_id: f1f3fbdf-1d40-4497-b859-d6bf312f802d
+        title: Kaikoura UAP Sighting
+        slug: kaikoura-uap-sighting
+    date: null
+    date_end: null
+    location_in_record: ch12:6131-6363
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: f164cffb-1c5a-4e09-8a11-c92050c6e487
+    claim_hash: 58788fcdfe87718c7130e063719dd8248dc13770063c5019a0650bd8c6d77b85
+    content: During the 1978 Kaikoura UAP sighting, the objects were lit internally, with some clearly circular and others
+      elongated in shape.
+    original_excerpt: He said the objects were lit internally; some were clearly circular but others were elongated.
+    claim_type: observation
+    attestation: first_hand
+    speaker:
+      node_id: e77dc4a2-da3e-4c1c-8cff-0d52576776d4
+      title: Dennis Grant
+    provenance_chain:
+      origin_kind: speaker
+      origin: Dennis Grant
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: e77dc4a2-da3e-4c1c-8cff-0d52576776d4
+        title: Dennis Grant
+        slug: dennis-grant
+      - node_id: f1f3fbdf-1d40-4497-b859-d6bf312f802d
+        title: Kaikoura UAP Sighting
+        slug: kaikoura-uap-sighting
+    date: null
+    date_end: null
+    location_in_record: ch12:6371-6455
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: e53cc03d-5ecf-43c1-98ce-1ab2b353cb04
+    claim_hash: b054b6f143b8231d6d5395641f47055f6a2aa79686dae1aa937f9cae352f4b8e
+    content: Dennis Grant considers there must have been some sort of dimension and solidity to the objects seen during the
+      1978 Kaikoura UAP sighting because they were picked up by radar as they were being watched.
+    original_excerpt: '''There must have been some sort of dimension, a solidity, to them because they were picked up by the
+      radar sets as we were watching them,'' he told me.'
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: e77dc4a2-da3e-4c1c-8cff-0d52576776d4
+      title: Dennis Grant
+    provenance_chain:
+      origin_kind: speaker
+      origin: Dennis Grant
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: e77dc4a2-da3e-4c1c-8cff-0d52576776d4
+        title: Dennis Grant
+        slug: dennis-grant
+      - node_id: f1f3fbdf-1d40-4497-b859-d6bf312f802d
+        title: Kaikoura UAP Sighting
+        slug: kaikoura-uap-sighting
+    date: null
+    date_end: null
+    location_in_record: ch12:6467-6613
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 01c7132e-75c6-4525-a477-1e4dc2e0523c
+    claim_hash: e08d4d8fdb2f6e236a62ab7015cdebf073d9ec3f6bed6c1175cceb0ad6babc62
+    content: During the 1978 Kaikoura UAP sighting, the aircraft was also in communication with Christchurch air traffic control
+      in the South Island as well as Wellington in the North Island.
+    original_excerpt: he recalled that the plane was also in communication with Christchurch air traffic control in the South
+      Island, as well as Wellington in the North Island
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: e77dc4a2-da3e-4c1c-8cff-0d52576776d4
+      title: Dennis Grant
+    provenance_chain:
+      origin_kind: speaker
+      origin: Dennis Grant
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 58d9897e-c5c4-42e1-96ce-26ced5f411cf
+        title: New Zealand, Wellington
+        slug: wellington-new-zealand
+      - node_id: e77dc4a2-da3e-4c1c-8cff-0d52576776d4
+        title: Dennis Grant
+        slug: dennis-grant
+      - node_id: f1f3fbdf-1d40-4497-b859-d6bf312f802d
+        title: Kaikoura UAP Sighting
+        slug: kaikoura-uap-sighting
+    date: null
+    date_end: null
+    location_in_record: ch12:6641-6788
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 0adcaaaf-b4e5-474d-865b-5e4fec53677c
+    claim_hash: c43cb4d57768e82961bf602f2a3b843130fbc917cff03364730afd6218a4f1da
+    content: The audio tapes of the Christchurch radio exchanges from the night of the 1978 Kaikoura UAP sighting were lost
+      within a few days of the incident.
+    original_excerpt: he learned the audio tapes of the Christchurch radio exchanges were lost within a few days of the incident.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: e77dc4a2-da3e-4c1c-8cff-0d52576776d4
+      title: Dennis Grant
+    provenance_chain:
+      origin_kind: speaker
+      origin: Dennis Grant
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: e77dc4a2-da3e-4c1c-8cff-0d52576776d4
+        title: Dennis Grant
+        slug: dennis-grant
+      - node_id: f1f3fbdf-1d40-4497-b859-d6bf312f802d
+        title: Kaikoura UAP Sighting
+        slug: kaikoura-uap-sighting
+    date: null
+    date_end: null
+    location_in_record: ch12:6800-6898
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: b1704f99-8d36-4d4c-98b9-6fd61ee5a8ae
+    claim_hash: 11d8e59599d605a6ea48c6539dfbf0889163e39bf6aa2c913446ea9434b76595
+    content: Dennis Grant was not interviewed by Royal New Zealand Air Force investigators about the 1978 Kaikoura UAP sighting.
+    original_excerpt: I was not surprised to hear from Grant that he was not interviewed by the Royal New Zealand Air Force
+      investigators.
+    claim_type: administrative
+    attestation: first_hand
+    speaker:
+      node_id: e77dc4a2-da3e-4c1c-8cff-0d52576776d4
+      title: Dennis Grant
+    provenance_chain:
+      origin_kind: speaker
+      origin: Dennis Grant
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 41d43ef9-532d-45b4-b3c8-1fa0f43b5933
+        title: Royal New Zealand Air Force
+        slug: royal-new-zealand-air-force
+      - node_id: e77dc4a2-da3e-4c1c-8cff-0d52576776d4
+        title: Dennis Grant
+        slug: dennis-grant
+      - node_id: f1f3fbdf-1d40-4497-b859-d6bf312f802d
+        title: Kaikoura UAP Sighting
+        slug: kaikoura-uap-sighting
+    date: null
+    date_end: null
+    location_in_record: ch12:6908-7010
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: de287997-5b94-46c9-bd15-322b4380df44
+    claim_hash: d9e77b49c630c92ba4492b11bd8d6269e81144426db1bdd558f880b5b4c5e246
+    content: Dennis Grant, Quentin Fogarty and Davy Crockett filmed objects approaching the cockpit window of the Argosy cargo
+      aircraft during the 1978 Kaikoura lights incident.
+    original_excerpt: as Dennis Grant, Quentin Fogarty and Davy Crockett... were filming with a film camera from the cockpit
+      window of the Argosy aircraft, objects coming up to the window of the aircraft
+    claim_type: observation
+    attestation: null
+    speaker:
+      node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+      title: Ross Coulthart
+    provenance_chain:
+      origin_kind: unattributed
+      origin: general knowledge conveyed by Ross Coulthart
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 62234717-6c34-4845-9017-7f9e9fa69df9
+        title: Kaikoura Unidentified Flying Object (UFO) film footage
+        slug: kaikoura-unidentified-flying-object-ufo-film-footage
+      - node_id: 746f41bc-1c2e-4912-9df8-0711676f4dab
+        title: 1978 Kaikoura lights incident
+        slug: 1978-kaikoura-lights-incident
+      - node_id: d7419fb6-0d02-48f8-86c8-8f2b99cefc21
+        title: Davy Crockett
+        slug: davy-crockett
+      - node_id: dea6e499-868a-4365-a7e4-04a18a215554
+        title: Quentin Fogarty
+        slug: quentin-fogarty
+      - node_id: e77dc4a2-da3e-4c1c-8cff-0d52576776d4
+        title: Dennis Grant
+        slug: dennis-grant
+      - node_id: e7fe2fbf-cd70-46ef-ba18-dc6c1d66e10a
+        title: Argosy aircraft
+        slug: argosy-aircraft
+    date: '1978-12-30'
+    date_end: null
+    location_in_record: 00:15:46.4-00:16:07.8
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: fd845823-8784-462c-a981-4775525b6f84
+      record_title: The DANGEROUS Truth About UFOs - Ross Coulthart | DEBRIEFED ep. 76
+      record_date: '2026-02-20'
+      record_reference: https://www.youtube.com/watch?v=idBryc0eWww
+      content_hash: sha256:73be106d406f6d35a063a894e8384e7da0918eb8597d2107a9e3653becca2bdc
+      friendly_name: null
+  - claim_id: 399a5900-cbe0-4ba6-b07f-938e2e37c720
+    claim_hash: 2bca61aa32671feae11af590d4e8215dca853339ab236b701cfb9383029e2f7b
+    content: Dennis Grant became a highly regarded political commentator and one of the top political correspondents in Australia.
+    original_excerpt: Dennis Grant, who ended up becoming a highly reputable political commentator and one of the top political
+      correspondents in Australia
+    claim_type: administrative
+    attestation: first_hand
+    speaker:
+      node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+      title: Ross Coulthart
+    provenance_chain:
+      origin_kind: speaker
+      origin: Ross Coulthart
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: e77dc4a2-da3e-4c1c-8cff-0d52576776d4
+        title: Dennis Grant
+        slug: dennis-grant
+    date: null
+    date_end: null
+    location_in_record: 00:16:25.4-00:16:31.6
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: fd845823-8784-462c-a981-4775525b6f84
+      record_title: The DANGEROUS Truth About UFOs - Ross Coulthart | DEBRIEFED ep. 76
+      record_date: '2026-02-20'
+      record_reference: https://www.youtube.com/watch?v=idBryc0eWww
+      content_hash: sha256:73be106d406f6d35a063a894e8384e7da0918eb8597d2107a9e3653becca2bdc
+      friendly_name: null
+  - claim_id: 2c098fc5-cb4f-40a2-a34b-fe8dc8a18a8a
+    claim_hash: bfca01fa2c3f48a8c0575523f6a21b25104ae23ccf0ef1e89c7c43fc582c7df7
+    content: Dennis Grant retains his contemporaneous notes recorded inside the Argosy cargo aircraft during the 1978 Kaikoura
+      lights incident, and those notes match the positions John Cordy reported seeing on radar in Wellington.
+    original_excerpt: Dennis is still alive and he's got his notes of what he recorded inside the aircraft and those notes
+      are corroborating what was being said back to the air traffic controllers at this time exactly... that's exactly what
+      John Cordy was saying he was seeing back in Wellington
+    claim_type: testimony
+    attestation: second_hand
+    speaker:
+      node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+      title: Ross Coulthart
+    provenance_chain:
+      origin_kind: named
+      origin: Dennis Grant
+      relay:
+        - Ross Coulthart
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 58d9897e-c5c4-42e1-96ce-26ced5f411cf
+        title: New Zealand, Wellington
+        slug: wellington-new-zealand
+      - node_id: 746f41bc-1c2e-4912-9df8-0711676f4dab
+        title: 1978 Kaikoura lights incident
+        slug: 1978-kaikoura-lights-incident
+      - node_id: e77dc4a2-da3e-4c1c-8cff-0d52576776d4
+        title: Dennis Grant
+        slug: dennis-grant
+      - node_id: fc449df6-ae44-400a-afe8-ad2816fa1e9f
+        title: John Cordy
+        slug: john-cordy
+    date: '1978-12-30'
+    date_end: null
+    location_in_record: 00:16:32.7-00:16:55.5
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: fd845823-8784-462c-a981-4775525b6f84
+      record_title: The DANGEROUS Truth About UFOs - Ross Coulthart | DEBRIEFED ep. 76
+      record_date: '2026-02-20'
+      record_reference: https://www.youtube.com/watch?v=idBryc0eWww
+      content_hash: sha256:73be106d406f6d35a063a894e8384e7da0918eb8597d2107a9e3653becca2bdc
+      friendly_name: null

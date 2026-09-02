@@ -1,0 +1,1407 @@
+schema: anomalica/brief/1
+brief_hash: cf6fea41f56ef39338020d5f576d5ce621e52a8b4f2ba32939fce728ed46825d
+page:
+  kind: entity
+  node_id: caa4dc74-91cb-4bce-8c98-9575005932c1
+  node_type: person
+  title: Robert Sarbacher
+  slug: robert-sarbacher
+  claim_count: 35
+  claim_count_total: 35
+generated:
+  graph_version: '2026-09-01T10:10:49.863545+00:00'
+size:
+  claims: 35
+  tokens_estimated: 10115
+  sized_against: 1050000
+publication:
+  status: published
+  note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
+    transcripts are gated elsewhere.
+belonging:
+  verified: 0
+  suspect_excluded: 0
+  unreviewed: 35
+related_nodes:
+  - node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+    title: Whitley Strieber
+    node_type: person
+    slug: whitley-strieber
+    shared_claims: 9
+  - node_id: 3bc3042d-afb8-4eba-ace6-40a3c2107aba
+    title: 1950 Wilbert Smith memo to the Canadian Department of Transport
+    node_type: document
+    slug: 1950-wilbert-smith-memo-to-the-canadian-department-of-transport
+    shared_claims: 4
+  - node_id: dfa3268c-8bbb-4c5d-8066-f9a3a416b7e6
+    title: Communion (Whitley Strieber book)
+    node_type: document
+    slug: communion-whitley-strieber-book
+    shared_claims: 2
+  - node_id: 399a8c23-20a1-423c-8a18-d5d0f5078e92
+    title: William Steinman
+    node_type: person
+    slug: william-steinman
+    shared_claims: 2
+  - node_id: f5725e7f-f85b-443a-ac3b-d1d9fcf98eec
+    title: Alien implant
+    node_type: topic
+    slug: alien-implant
+    shared_claims: 1
+  - node_id: 10259ae2-22f7-49f6-b652-cc13f83987df
+    title: Barry Greenwood
+    node_type: person
+    slug: barry-greenwood
+    shared_claims: 1
+  - node_id: ec810255-5617-4bcd-9a17-346323c85a5f
+    title: Battelle Memorial Institute (BMI)
+    node_type: organisation
+    slug: battelle-memorial-institute-bmi
+    shared_claims: 1
+  - node_id: 4e2f7d4e-e34c-46b1-ac8a-24b5c34c0165
+    title: Behind the Flying Saucers
+    node_type: document
+    slug: behind-the-flying-saucers
+    shared_claims: 1
+  - node_id: 24d00311-06ac-46a1-a2f5-c99f3f8e21b2
+    title: Chris Ramsay
+    node_type: person
+    slug: chris-ramsay
+    shared_claims: 1
+  - node_id: 14632a11-d9da-4691-878c-465c3838b368
+    title: Department of Defense Research and Development Board
+    node_type: organisation
+    slug: department-of-defense-research-and-development-board
+    shared_claims: 1
+  - node_id: 2f8cffec-0159-478d-b8e3-20129f4e29f6
+    title: Frank Scully
+    node_type: person
+    slug: frank-scully
+    shared_claims: 1
+  - node_id: cd0eb459-2694-4c72-97a3-480352ec75bf
+    title: General Sciences Corporation
+    node_type: organisation
+    slug: general-sciences-corporation
+    shared_claims: 1
+  - node_id: a8b10a6d-0ccb-4b48-98ab-ca7a7a147fde
+    title: Georgia Institute of Technology (Georgia Tech)
+    node_type: organisation
+    slug: georgia-institute-of-technology-georgia-tech
+    shared_claims: 1
+  - node_id: 2116e8f0-ae1b-465d-a6d0-7b73f13db95a
+    title: Linda Moulton Howe
+    node_type: person
+    slug: linda-moulton-howe
+    shared_claims: 1
+  - node_id: 0cd6415a-d671-4ed2-b8e5-b3251b0ce2be
+    title: Oak Ridge Institute for Nuclear Studies
+    node_type: organisation
+    slug: oak-ridge-institute-for-nuclear-studies
+    shared_claims: 1
+  - node_id: dd4a97ab-5ffd-41ec-8813-81a2c56f0ea1
+    title: Stanton Friedman
+    node_type: person
+    slug: stanton-friedman
+    shared_claims: 1
+  - node_id: 7b25cf8a-f3f9-4aee-bfc1-8e2cc4a0980a
+    title: The visitors (nonhuman beings)
+    node_type: topic
+    slug: the-visitors-nonhuman-beings
+    shared_claims: 1
+  - node_id: a316cbb9-b90f-422a-9329-9be7414bda65
+    title: USA, Tennessee, Oak Ridge
+    node_type: place
+    slug: tennessee-oak-ridge-usa
+    shared_claims: 1
+  - node_id: 3614e6c3-e7bf-430b-8e8b-0a7533bb4ccb
+    title: Union Life Insurance Company
+    node_type: organisation
+    slug: union-life-insurance-company
+    shared_claims: 1
+  - node_id: ba835d68-3b6c-48d5-86ef-c057e0881cd0
+    title: United States Research and Development Board
+    node_type: organisation
+    slug: united-states-research-and-development-board
+    shared_claims: 1
+  - node_id: 4ada3704-4cd8-4cf2-b0fe-fcfb6716abaa
+    title: Vannevar Bush
+    node_type: person
+    slug: vannevar-bush
+    shared_claims: 1
+  - node_id: 20f74902-e650-4d8b-a454-8e37e7cd471c
+    title: Whitley Strieber's alien implant
+    node_type: object
+    slug: whitley-striebers-alien-implant
+    shared_claims: 1
+  - node_id: 4d15bba5-debc-45e0-8256-c430164e3e59
+    title: Wilbert Smith
+    node_type: person
+    slug: wilbert-smith
+    shared_claims: 1
+claims:
+  - claim_id: e58d40ad-267c-4a31-819c-3a5bd2dcb9f3
+    claim_hash: acbebdf8f4247e9910c1e287ac7c283a7603c2954bc52505315fc9db5e29ca02
+    content: Robert I. Sarbacher has participated as a consultant for the Oak Ridge Institute for Nuclear Studies in Tennessee.
+    original_excerpt: and has participated as a consultant for the Oak Ridge Institute for Nuclear Studies, in Tennessee,
+      and the navy, as well as the Department of Defense.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 0cd6415a-d671-4ed2-b8e5-b3251b0ce2be
+        title: Oak Ridge Institute for Nuclear Studies
+        slug: oak-ridge-institute-for-nuclear-studies
+      - node_id: a316cbb9-b90f-422a-9329-9be7414bda65
+        title: USA, Tennessee, Oak Ridge
+        slug: tennessee-oak-ridge-usa
+      - node_id: caa4dc74-91cb-4bce-8c98-9575005932c1
+        title: Robert Sarbacher
+        slug: robert-sarbacher
+    date: null
+    date_end: null
+    location_in_record: ch14:10002-10145
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: ad152768-183b-4cde-bc60-1520900ceb32
+      record_title: Communion
+      record_date: '2013-06-16'
+      record_reference: null
+      content_hash: sha256:b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4001275f9
+      friendly_name: 2013-06-16-ebook-communion
+  - claim_id: bbdfd1a5-7e75-48da-8c8b-769d4db9fd57
+    claim_hash: 5a22255c86b88d5df8679db7b1346734ace51132b8476792ee53e11962efb7d6
+    content: Robert I. Sarbacher has held many corporate directorships, including director of the General Sciences Corporation
+      and the Union Life Insurance Company.
+    original_excerpt: He has held many corporate directorships, among them as director of the General Sciences Corporation
+      and the Union Life Insurance Company.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 3614e6c3-e7bf-430b-8e8b-0a7533bb4ccb
+        title: Union Life Insurance Company
+        slug: union-life-insurance-company
+      - node_id: caa4dc74-91cb-4bce-8c98-9575005932c1
+        title: Robert Sarbacher
+        slug: robert-sarbacher
+      - node_id: cd0eb459-2694-4c72-97a3-480352ec75bf
+        title: General Sciences Corporation
+        slug: general-sciences-corporation
+    date: null
+    date_end: null
+    location_in_record: ch14:10154-10284
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: ad152768-183b-4cde-bc60-1520900ceb32
+      record_title: Communion
+      record_date: '2013-06-16'
+      record_reference: null
+      content_hash: sha256:b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4001275f9
+      friendly_name: 2013-06-16-ebook-communion
+  - claim_id: 05971d2b-a7cc-4d05-8748-1aa499996366
+    claim_hash: 9143a4e68c8303695e8621f5cb97710548095fccde13ac47ae50cf99b9b70e45
+    content: Robert I. Sarbacher wrote that he had no association with any of the people involved in the recovery of flying
+      saucers and had no knowledge regarding the dates of the recoveries.
+    original_excerpt: Relating to my own experiences regarding recovered flying saucers, I had no association with any of
+      the people involved in the recovery and have no knowledge regarding the dates of the recoveries ....
+    claim_type: testimony
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: named
+      origin: Robert I. Sarbacher
+      relay:
+        - Sarbacher letter to William Steinman, November 29, 1983
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: caa4dc74-91cb-4bce-8c98-9575005932c1
+        title: Robert Sarbacher
+        slug: robert-sarbacher
+    date: null
+    date_end: null
+    location_in_record: ch14:10326-10511
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: ad152768-183b-4cde-bc60-1520900ceb32
+      record_title: Communion
+      record_date: '2013-06-16'
+      record_reference: null
+      content_hash: sha256:b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4001275f9
+      friendly_name: 2013-06-16-ebook-communion
+  - claim_id: 2ccc5a05-52b9-41c9-bcd5-be9f56abe711
+    claim_hash: e0f949bbb6733774f262a738b62762fcadfcfc3ecb6f1d0f361cec5151067080
+    content: Robert I. Sarbacher wrote that materials reported to have come from flying saucer crashes were extremely light
+      and very tough, and that laboratories analysed them carefully.
+    original_excerpt: About the only thing I remember at this time is that certain materials reported to have come from flying
+      saucer crashes were extremely light and very tough. I am sure our laboratories analyzed them very carefully.
+    claim_type: testimony
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: named
+      origin: Robert I. Sarbacher
+      relay:
+        - Sarbacher letter to William Steinman, November 29, 1983
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: caa4dc74-91cb-4bce-8c98-9575005932c1
+        title: Robert Sarbacher
+        slug: robert-sarbacher
+    date: null
+    date_end: null
+    location_in_record: ch14:10528-10731
+    evidence:
+      score: null
+      independent_sources: 2
+    provenance:
+      record_id: ad152768-183b-4cde-bc60-1520900ceb32
+      record_title: Communion
+      record_date: '2013-06-16'
+      record_reference: null
+      content_hash: sha256:b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4001275f9
+      friendly_name: 2013-06-16-ebook-communion
+  - claim_id: a2fd9df4-55df-4f02-b6f0-2a9d1e5b7ff2
+    claim_hash: 9ce7f66f08b72da29c57eff3b815e731a73c2df766f5f8e0fb598fb87cf341c6
+    content: Robert I. Sarbacher wrote that there were reports that instruments or people operating recovered flying saucer
+      machines were also of very light weight, sufficient to withstand the tremendous deceleration and acceleration associated
+      with the machinery.
+    original_excerpt: There were reports that instruments or people operating these machines were also of very light weight,
+      sufficient to withstand the tremendous deceleration and acceleration associated with their machinery.
+    claim_type: hearsay
+    attestation: third_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: named
+      origin: Robert I. Sarbacher
+      relay:
+        - Sarbacher letter to William Steinman, November 29, 1983
+        - unnamed office colleagues Sarbacher spoke with
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: caa4dc74-91cb-4bce-8c98-9575005932c1
+        title: Robert Sarbacher
+        slug: robert-sarbacher
+    date: null
+    date_end: null
+    location_in_record: ch14:10743-10937
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: ad152768-183b-4cde-bc60-1520900ceb32
+      record_title: Communion
+      record_date: '2013-06-16'
+      record_reference: null
+      content_hash: sha256:b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4001275f9
+      friendly_name: 2013-06-16-ebook-communion
+  - claim_id: 7a2abf7a-8966-4117-bd42-a1a0de3ea9ba
+    claim_hash: db70c17ccb1e9bbcb257664c2fe3745372b5183187c63c315fcd712beccfd019
+    content: Robert I. Sarbacher wrote that from talking with people at the office he got the impression that the recovered
+      "aliens" were constructed like certain insects observed on earth.
+    original_excerpt: I remember in talking with some of the people at the office that I got the impression these "aliens"
+      were constructed like certain insects we have observed on earth....
+    claim_type: hearsay
+    attestation: third_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: named
+      origin: Robert I. Sarbacher
+      relay:
+        - Sarbacher letter to William Steinman, November 29, 1983
+        - unnamed office colleagues Sarbacher spoke with
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: caa4dc74-91cb-4bce-8c98-9575005932c1
+        title: Robert Sarbacher
+        slug: robert-sarbacher
+    date: null
+    date_end: null
+    location_in_record: ch14:10948-11107
+    evidence:
+      score: null
+      independent_sources: 2
+    provenance:
+      record_id: ad152768-183b-4cde-bc60-1520900ceb32
+      record_title: Communion
+      record_date: '2013-06-16'
+      record_reference: null
+      content_hash: sha256:b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4001275f9
+      friendly_name: 2013-06-16-ebook-communion
+  - claim_id: b39a218d-6e56-4a8b-9f65-1f546e8e259b
+    claim_hash: b6b5403bd439b585d6e83731130ce13a301eadfa41658117bb84c20e088e7af2
+    content: Robert I. Sarbacher wrote that he still did not know why the high order of classification had been given to the
+      flying saucer recovery material, nor why the existence of these devices was denied.
+    original_excerpt: I still do not know why the high order of classification has been given and why the denial of the existence
+      of these devices.
+    claim_type: testimony
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: named
+      origin: Robert I. Sarbacher
+      relay:
+        - Sarbacher letter to William Steinman, November 29, 1983
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: caa4dc74-91cb-4bce-8c98-9575005932c1
+        title: Robert Sarbacher
+        slug: robert-sarbacher
+    date: null
+    date_end: null
+    location_in_record: ch14:11118-11235
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: ad152768-183b-4cde-bc60-1520900ceb32
+      record_title: Communion
+      record_date: '2013-06-16'
+      record_reference: null
+      content_hash: sha256:b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4001275f9
+      friendly_name: 2013-06-16-ebook-communion
+  - claim_id: 93966315-ae3f-427e-880f-2edc698094ea
+    claim_hash: d8de9dc6d025c272861d6f83ac931a560e25451f9c67a55edf4fad9af677e370
+    content: Whitley Strieber did not know of Robert I. Sarbacher and his letter until 1986-08-09, months after his abduction
+      experiences.
+    original_excerpt: I did not know of Dr. Sarbacher and his letter until August 9, 1986, months after I had my experiences.
+    claim_type: administrative
+    attestation: first_hand
+    speaker:
+      node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+      title: Whitley Strieber
+    provenance_chain:
+      origin_kind: speaker
+      origin: Whitley Strieber
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+        title: Whitley Strieber
+        slug: whitley-strieber
+      - node_id: caa4dc74-91cb-4bce-8c98-9575005932c1
+        title: Robert Sarbacher
+        slug: robert-sarbacher
+    date: '1986-08-09'
+    date_end: null
+    location_in_record: ch14:11491-11582
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: ad152768-183b-4cde-bc60-1520900ceb32
+      record_title: Communion
+      record_date: '2013-06-16'
+      record_reference: null
+      content_hash: sha256:b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4001275f9
+      friendly_name: 2013-06-16-ebook-communion
+  - claim_id: 00875fbb-ddcf-42e7-9ace-f5c1ef6a5565
+    claim_hash: 9dbeed095352f5584fe2a20b0951fd21037641d2a33dbc924fe0f905e44c0315
+    content: Whitley Strieber considers that if the visitors are insectlike they could be organised as a hive, and might be
+      no physical match for humans even in fairly large groups.
+    original_excerpt: If the visitors are indeed insectlike they could be organized as a hive, and not only as small as I
+      saw but also as light as Dr. Sarbacher recalls being told. They may be no physical match for us, not even in fairly
+      large groups.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+      title: Whitley Strieber
+    provenance_chain:
+      origin_kind: speaker
+      origin: Whitley Strieber
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+        title: Whitley Strieber
+        slug: whitley-strieber
+      - node_id: 7b25cf8a-f3f9-4aee-bfc1-8e2cc4a0980a
+        title: The visitors (nonhuman beings)
+        slug: the-visitors-nonhuman-beings
+      - node_id: caa4dc74-91cb-4bce-8c98-9575005932c1
+        title: Robert Sarbacher
+        slug: robert-sarbacher
+    date: null
+    date_end: null
+    location_in_record: ch14:11867-12089
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: ad152768-183b-4cde-bc60-1520900ceb32
+      record_title: Communion
+      record_date: '2013-06-16'
+      record_reference: null
+      content_hash: sha256:b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4001275f9
+      friendly_name: 2013-06-16-ebook-communion
+  - claim_id: ae089910-160a-4f90-a23b-e78f2ca6d33e
+    claim_hash: e6f817f150a7d646814e0737013f30f47e0ccbb828b1b2d1be0890c848e075c2
+    content: Robert I. Sarbacher died on 1986-07-26, a few days before Whitley Strieber became aware of his letter.
+    original_excerpt: As Dr. Sarbacher died on July 26, 1986, a few days before I became aware of his letter, I was unable
+      to interview him
+    claim_type: administrative
+    attestation: first_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: speaker
+      origin: Whitley Strieber
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+        title: Whitley Strieber
+        slug: whitley-strieber
+      - node_id: caa4dc74-91cb-4bce-8c98-9575005932c1
+        title: Robert Sarbacher
+        slug: robert-sarbacher
+    date: '1986-07-26'
+    date_end: null
+    location_in_record: ch14:9070-9184
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: ad152768-183b-4cde-bc60-1520900ceb32
+      record_title: Communion
+      record_date: '2013-06-16'
+      record_reference: null
+      content_hash: sha256:b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4001275f9
+      friendly_name: 2013-06-16-ebook-communion
+  - claim_id: ce41df6e-1a61-433e-b054-bda835a45edc
+    claim_hash: e36eef3871907bc8fe219964050a22af43b4c49662556086d72f065eaace85f5
+    content: Whitley Strieber was unable to interview Robert I. Sarbacher because Sarbacher died shortly before Strieber became
+      aware of his letter.
+    original_excerpt: I was unable to interview him, but I discussed his case with Mr. Barry Greenwood.
+    claim_type: administrative
+    attestation: first_hand
+    speaker:
+      node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+      title: Whitley Strieber
+    provenance_chain:
+      origin_kind: speaker
+      origin: Whitley Strieber
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+        title: Whitley Strieber
+        slug: whitley-strieber
+      - node_id: caa4dc74-91cb-4bce-8c98-9575005932c1
+        title: Robert Sarbacher
+        slug: robert-sarbacher
+    date: null
+    date_end: null
+    location_in_record: ch14:9158-9229
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: ad152768-183b-4cde-bc60-1520900ceb32
+      record_title: Communion
+      record_date: '2013-06-16'
+      record_reference: null
+      content_hash: sha256:b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4001275f9
+      friendly_name: 2013-06-16-ebook-communion
+  - claim_id: 930807a0-57c0-4c05-b9a3-316cf9f1ff8f
+    claim_hash: 43db094f629c37729f462a977eaada23cb3644395973a20a707bbe76cbcb3443
+    content: Barry Greenwood's discussions revealed that Robert I. Sarbacher did not appear to know more than he stated in
+      his letter, but was quite certain that the facts he related were as he remembered them.
+    original_excerpt: These discussions revealed that Dr. Sarbacher did not appear to know more than he stated in his letter,
+      but he was quite certain that the facts he did relate were as he remembered them.
+    claim_type: hearsay
+    attestation: second_hand
+    speaker:
+      node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+      title: Whitley Strieber
+    provenance_chain:
+      origin_kind: named
+      origin: Barry Greenwood
+      relay:
+        - Whitley Strieber's discussion with Barry Greenwood
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 10259ae2-22f7-49f6-b652-cc13f83987df
+        title: Barry Greenwood
+        slug: barry-greenwood
+      - node_id: caa4dc74-91cb-4bce-8c98-9575005932c1
+        title: Robert Sarbacher
+        slug: robert-sarbacher
+    date: null
+    date_end: null
+    location_in_record: ch14:9312-9492
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: ad152768-183b-4cde-bc60-1520900ceb32
+      record_title: Communion
+      record_date: '2013-06-16'
+      record_reference: null
+      content_hash: sha256:b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4001275f9
+      friendly_name: 2013-06-16-ebook-communion
+  - claim_id: bf660aca-c177-480f-a116-2e8708b49d62
+    claim_hash: 250e79d58c888dca810914c24fb53b4f741e998ca013491a7b81cb0f138f23f4
+    content: Robert I. Sarbacher was a Department of Defense Research and Development Board consultant during the Eisenhower
+      administration.
+    original_excerpt: Dr. Sarbacher was a Department of Defense Research and Development Board consultant during the Eisenhower
+      administration.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 14632a11-d9da-4691-878c-465c3838b368
+        title: Department of Defense Research and Development Board
+        slug: department-of-defense-research-and-development-board
+      - node_id: caa4dc74-91cb-4bce-8c98-9575005932c1
+        title: Robert Sarbacher
+        slug: robert-sarbacher
+    date: null
+    date_end: null
+    location_in_record: ch14:9499-9605
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: ad152768-183b-4cde-bc60-1520900ceb32
+      record_title: Communion
+      record_date: '2013-06-16'
+      record_reference: null
+      content_hash: sha256:b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4001275f9
+      friendly_name: 2013-06-16-ebook-communion
+  - claim_id: 420385af-792f-41ea-afb0-0a4e34f997c0
+    claim_hash: d103b3574269d4eaea60ff451a4b2b1283bfd0dadbc00bcc7fac063f84d0d837
+    content: Robert I. Sarbacher was educated at Johns Hopkins, Harvard, and Princeton.
+    original_excerpt: Educated at Johns Hopkins, Harvard, and Princeton, he is the author of *Hyper and Ultra-High Frequency
+      Engineering, Research Accrediting at* *Military Establishments, and the Encyclopedia Dictionary of Electronics and Engineering*.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: caa4dc74-91cb-4bce-8c98-9575005932c1
+        title: Robert Sarbacher
+        slug: robert-sarbacher
+    date: null
+    date_end: null
+    location_in_record: ch14:9621-9839
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: ad152768-183b-4cde-bc60-1520900ceb32
+      record_title: Communion
+      record_date: '2013-06-16'
+      record_reference: null
+      content_hash: sha256:b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4001275f9
+      friendly_name: 2013-06-16-ebook-communion
+  - claim_id: 9bfe536e-f4ac-4b68-8db6-d11b0418af63
+    claim_hash: 888aa6f9495cbd935bf2fad7b0aff6ba81718ba0bc5bd3535a69779861f3f805
+    content: Robert I. Sarbacher's Encyclopedia Dictionary of Electronics and Engineering is considered a fundamental contribution
+      to science.
+    original_excerpt: This last book is considered a fundamental contribution to science.
+    claim_type: opinion
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: caa4dc74-91cb-4bce-8c98-9575005932c1
+        title: Robert Sarbacher
+        slug: robert-sarbacher
+    date: null
+    date_end: null
+    location_in_record: ch14:9854-9913
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: ad152768-183b-4cde-bc60-1520900ceb32
+      record_title: Communion
+      record_date: '2013-06-16'
+      record_reference: null
+      content_hash: sha256:b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4001275f9
+      friendly_name: 2013-06-16-ebook-communion
+  - claim_id: ac991ba1-f522-46ab-ac87-87efdd1538ae
+    claim_hash: af79d29d2b71dceffa94f5a413f24434c00f975acc1723d8bbf6c38c71be5b3b
+    content: Robert I. Sarbacher has been dean of the Graduate School of the Georgia Institute of Technology.
+    original_excerpt: He has been dean of the Graduate School of the Georgia Institute of Technology
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: a8b10a6d-0ccb-4b48-98ab-ca7a7a147fde
+        title: Georgia Institute of Technology (Georgia Tech)
+        slug: georgia-institute-of-technology-georgia-tech
+      - node_id: caa4dc74-91cb-4bce-8c98-9575005932c1
+        title: Robert Sarbacher
+        slug: robert-sarbacher
+    date: null
+    date_end: null
+    location_in_record: ch14:9923-9991
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: ad152768-183b-4cde-bc60-1520900ceb32
+      record_title: Communion
+      record_date: '2013-06-16'
+      record_reference: null
+      content_hash: sha256:b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4001275f9
+      friendly_name: 2013-06-16-ebook-communion
+  - claim_id: 7193073b-6521-410f-bcec-e66411d32d80
+    claim_hash: 66632950aca34c5246e560a3bfcb27ae8bfa50c2ff906725935499bbdbb26821
+    content: Wilbert Smith used contacts at the Canadian Embassy in Washington to interview Dr Robert Sarbacher, an American
+      scientist who consulted for the United States Research and Development Board.
+    original_excerpt: Smith used his own contacts at the Canadian Embassy in Washington to interview Dr Robert Sarbacher,
+      an American scientist who consulted for the US government's Research and Development Board
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: narration
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 4d15bba5-debc-45e0-8256-c430164e3e59
+        title: Wilbert Smith
+        slug: wilbert-smith
+      - node_id: ba835d68-3b6c-48d5-86ef-c057e0881cd0
+        title: United States Research and Development Board
+        slug: united-states-research-and-development-board
+      - node_id: caa4dc74-91cb-4bce-8c98-9575005932c1
+        title: Robert Sarbacher
+        slug: robert-sarbacher
+    date: null
+    date_end: null
+    location_in_record: ch8:7082-7267
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 155bc58b-dacd-4774-b751-214aca08564b
+    claim_hash: 1e90e021b61ed4079d7d8d8517d9cad2b5091c3bb99a3567f23e766874a1bbf2
+    content: According to the 1950 Wilbert Smith memo to the Canadian Department of Transport, Robert Sarbacher said flying
+      saucers were the most highly classified subject in the United States government, rating higher than the hydrogen bomb.
+    original_excerpt: . . . the most highly classified subject in the United States government, rating higher even than the
+      H-bomb.
+    claim_type: hearsay
+    attestation: second_hand
+    speaker:
+      node_id: 4d15bba5-debc-45e0-8256-c430164e3e59
+      title: Wilbert Smith
+    provenance_chain:
+      origin_kind: named
+      origin: Robert Sarbacher
+      relay:
+        - 1950 Wilbert Smith memo to the Canadian Department of Transport
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 3bc3042d-afb8-4eba-ace6-40a3c2107aba
+        title: 1950 Wilbert Smith memo to the Canadian Department of Transport
+        slug: 1950-wilbert-smith-memo-to-the-canadian-department-of-transport
+      - node_id: caa4dc74-91cb-4bce-8c98-9575005932c1
+        title: Robert Sarbacher
+        slug: robert-sarbacher
+    date: null
+    date_end: null
+    location_in_record: ch8:7412-7510
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 1d1dc125-f804-4cad-b34e-772f85108b71
+    claim_hash: 231c67e063751a82c0f493a3bed81103ff568f05dc33c2bb9c1c2d491d1b6377
+    content: According to the 1950 Wilbert Smith memo to the Canadian Department of Transport, Robert Sarbacher said flying
+      saucers exist.
+    original_excerpt: Flying Saucers exist.
+    claim_type: hearsay
+    attestation: second_hand
+    speaker:
+      node_id: 4d15bba5-debc-45e0-8256-c430164e3e59
+      title: Wilbert Smith
+    provenance_chain:
+      origin_kind: named
+      origin: Robert Sarbacher
+      relay:
+        - 1950 Wilbert Smith memo to the Canadian Department of Transport
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 3bc3042d-afb8-4eba-ace6-40a3c2107aba
+        title: 1950 Wilbert Smith memo to the Canadian Department of Transport
+        slug: 1950-wilbert-smith-memo-to-the-canadian-department-of-transport
+      - node_id: caa4dc74-91cb-4bce-8c98-9575005932c1
+        title: Robert Sarbacher
+        slug: robert-sarbacher
+    date: null
+    date_end: null
+    location_in_record: ch8:7519-7534
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: aa4c5eec-51f9-41d5-bae0-43d183816502
+    claim_hash: 32362023e23efaed6f6e5a9a4e31e325bbb20493da59dcccd024670a6969dbc3
+    content: According to the 1950 Wilbert Smith memo to the Canadian Department of Transport, Robert Sarbacher said the saucers'
+      modus operandi was unknown, but a concentrated effort was being made by a small group headed by Dr Vannevar Bush.
+    original_excerpt: Their modus operandi is unknown, but a concentrated effort is being made by a small group headed by
+      Dr Vannevar Bush.
+    claim_type: hearsay
+    attestation: second_hand
+    speaker:
+      node_id: 4d15bba5-debc-45e0-8256-c430164e3e59
+      title: Wilbert Smith
+    provenance_chain:
+      origin_kind: named
+      origin: Robert Sarbacher
+      relay:
+        - 1950 Wilbert Smith memo to the Canadian Department of Transport
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 3bc3042d-afb8-4eba-ace6-40a3c2107aba
+        title: 1950 Wilbert Smith memo to the Canadian Department of Transport
+        slug: 1950-wilbert-smith-memo-to-the-canadian-department-of-transport
+      - node_id: 4ada3704-4cd8-4cf2-b0fe-fcfb6716abaa
+        title: Vannevar Bush
+        slug: vannevar-bush
+      - node_id: caa4dc74-91cb-4bce-8c98-9575005932c1
+        title: Robert Sarbacher
+        slug: robert-sarbacher
+    date: null
+    date_end: null
+    location_in_record: ch8:7544-7656
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 6d274281-89ce-4f9e-927f-5362951e8f93
+    claim_hash: 7f5bc5d98eeaf151c6818d2654bd8f143a59c1e408d23773a9417e33cdbf4b18
+    content: According to the 1950 Wilbert Smith memo to the Canadian Department of Transport, Robert Sarbacher said the entire
+      matter was considered by United States authorities to be of tremendous significance.
+    original_excerpt: The entire matter is considered by the United States authorities to be of tremendous significance
+    claim_type: hearsay
+    attestation: second_hand
+    speaker:
+      node_id: 4d15bba5-debc-45e0-8256-c430164e3e59
+      title: Wilbert Smith
+    provenance_chain:
+      origin_kind: named
+      origin: Robert Sarbacher
+      relay:
+        - 1950 Wilbert Smith memo to the Canadian Department of Transport
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 3bc3042d-afb8-4eba-ace6-40a3c2107aba
+        title: 1950 Wilbert Smith memo to the Canadian Department of Transport
+        slug: 1950-wilbert-smith-memo-to-the-canadian-department-of-transport
+      - node_id: caa4dc74-91cb-4bce-8c98-9575005932c1
+        title: Robert Sarbacher
+        slug: robert-sarbacher
+    date: null
+    date_end: null
+    location_in_record: ch8:7665-7750
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: c5e7074c-2b72-40da-832c-04ebbbbc1567
+    claim_hash: 6e69e9c41d89d7b80985d427384ddc29c6bde7e82fc8f1d687fd0e7de1451d64
+    content: Wilbert Smith's handwritten notes of the meeting recorded Dr Robert Sarbacher confirming that the facts set out
+      in Frank Scully's book Behind the Flying Saucers, including recovered aliens and spacecraft, were 'substantially correct'.
+    original_excerpt: Wilbert Smith's handwritten notes of the meeting recorded Dr Sarbacher confirming that the facts set
+      out in the Frank Scully flying saucers book (including recovered aliens and spacecraft) were 'substantially correct'
+    claim_type: hearsay
+    attestation: second_hand
+    speaker:
+      node_id: 4d15bba5-debc-45e0-8256-c430164e3e59
+      title: Wilbert Smith
+    provenance_chain:
+      origin_kind: named
+      origin: Robert Sarbacher
+      relay:
+        - Wilbert Smith's handwritten notes
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 2f8cffec-0159-478d-b8e3-20129f4e29f6
+        title: Frank Scully
+        slug: frank-scully
+      - node_id: 4e2f7d4e-e34c-46b1-ac8a-24b5c34c0165
+        title: Behind the Flying Saucers
+        slug: behind-the-flying-saucers
+      - node_id: caa4dc74-91cb-4bce-8c98-9575005932c1
+        title: Robert Sarbacher
+        slug: robert-sarbacher
+    date: null
+    date_end: null
+    location_in_record: ch8:7764-7973
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: df155aeb-e878-4aab-8db6-a8e3d6abf4be
+    claim_hash: e898449b060ad69b29c17b949f3808b693d1970f310c52f3f8430c986689a166
+    content: Dr Robert Sarbacher died in 1986.
+    original_excerpt: three years before his death in 1986
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: narration
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: caa4dc74-91cb-4bce-8c98-9575005932c1
+        title: Robert Sarbacher
+        slug: robert-sarbacher
+    date: '1986'
+    date_end: null
+    location_in_record: ch8:8605-8637
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 9a3f870d-d687-41b7-be25-5eeb2bf6a374
+    claim_hash: 5a160f4da4d605ffe003808d37db94731cebb04b0708423445a906270f9d7fe1
+    content: Three years before his death, Dr Robert Sarbacher wrote to researcher William Steinman.
+    original_excerpt: Dr Sarbacher wrote to researcher William Steinman
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: narration
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 399a8c23-20a1-423c-8a18-d5d0f5078e92
+        title: William Steinman
+        slug: william-steinman
+      - node_id: caa4dc74-91cb-4bce-8c98-9575005932c1
+        title: Robert Sarbacher
+        slug: robert-sarbacher
+    date: '1983'
+    date_end: null
+    location_in_record: ch8:8643-8684
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: eee9a7cd-e280-49bc-a688-dbdea4eec3fc
+    claim_hash: 74479ef715f6db63397483110e8b7370a6a76c814d364fe2c59667a88f1210c1
+    content: In his letter to William Steinman, Robert Sarbacher wrote that he had no association with any of the people involved
+      in the recovery of flying saucers and had no knowledge of the dates of the recoveries.
+    original_excerpt: I had no association with any of the people involved in the recovery and have no knowledge regarding
+      the dates of the recoveries
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: caa4dc74-91cb-4bce-8c98-9575005932c1
+      title: Robert Sarbacher
+    provenance_chain:
+      origin_kind: speaker
+      origin: Robert Sarbacher
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 399a8c23-20a1-423c-8a18-d5d0f5078e92
+        title: William Steinman
+        slug: william-steinman
+      - node_id: caa4dc74-91cb-4bce-8c98-9575005932c1
+        title: Robert Sarbacher
+        slug: robert-sarbacher
+    date: null
+    date_end: null
+    location_in_record: ch8:8761-8879
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 6b165468-da24-44bc-8d2f-26eea9beb070
+    claim_hash: e5e170547a5c992973e157d09fe07941946199076157280cae34a8e38de70cf3
+    content: Robert Sarbacher wrote that certain materials reported to have come from flying saucer crashes were extremely
+      light and very tough.
+    original_excerpt: Certain materials reported to have come from flying saucer crashes were extremely light and very tough
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: caa4dc74-91cb-4bce-8c98-9575005932c1
+      title: Robert Sarbacher
+    provenance_chain:
+      origin_kind: speaker
+      origin: Robert Sarbacher
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: caa4dc74-91cb-4bce-8c98-9575005932c1
+        title: Robert Sarbacher
+        slug: robert-sarbacher
+    date: null
+    date_end: null
+    location_in_record: ch8:8896-8993
+    evidence:
+      score: null
+      independent_sources: 2
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 99250d22-7263-4abc-81f1-5c2acc8580b4
+    claim_hash: 33263da973c766e965640c135a007b1c286349f983e6a36ac43f1e2fb6d7e9fa
+    content: Robert Sarbacher wrote that he got the impression from talking with people at the office that the 'aliens' were
+      constructed like certain insects observed on Earth.
+    original_excerpt: I remember in talking with some of the people at the office that I got the impression these 'aliens'
+      were constructed like certain insects we have observed on earth
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: caa4dc74-91cb-4bce-8c98-9575005932c1
+      title: Robert Sarbacher
+    provenance_chain:
+      origin_kind: speaker
+      origin: Robert Sarbacher
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: caa4dc74-91cb-4bce-8c98-9575005932c1
+        title: Robert Sarbacher
+        slug: robert-sarbacher
+    date: null
+    date_end: null
+    location_in_record: ch8:9005-9164
+    evidence:
+      score: null
+      independent_sources: 2
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 21439e1f-9295-4a59-8998-935e30b298d9
+    claim_hash: 56a28aa907aa81793eb212cc625d9e56951cae57839666eebbd1a0a0742e30d0
+    content: Robert Sarbacher wrote that he did not know why the high order of security classification had been given to the
+      subject, nor why the existence of these devices had been denied.
+    original_excerpt: I still do not know why the high order of [security] classification has been given and why the denial
+      of the existence of these devices
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: caa4dc74-91cb-4bce-8c98-9575005932c1
+      title: Robert Sarbacher
+    provenance_chain:
+      origin_kind: speaker
+      origin: Robert Sarbacher
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: caa4dc74-91cb-4bce-8c98-9575005932c1
+        title: Robert Sarbacher
+        slug: robert-sarbacher
+    date: null
+    date_end: null
+    location_in_record: ch8:9176-9330
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 6485ca5c-4d51-4f89-bd9c-03e7adab8994
+    claim_hash: c85aac577586c10caf87f56649bc1f82cd9cc76307154c5eeed116bedf59581c
+    content: Robert Sarbacher's son stated his father told him he knew UAPs were real because they would travel at approximately
+      970 kilometres per hour and then make a direct 90-degree turn in mid-air without slowing down, separated from all inertia
+      and gravity.
+    original_excerpt: who admitted his father told him he knew UAPs 'were real for the obvious reason that they would be going
+      600 mph and then make a direct 90 degree turn in mid-air without slowing down . . . separated from all inertia and gravity'
+    claim_type: hearsay
+    attestation: second_hand
+    speaker:
+      node_id: caa4dc74-91cb-4bce-8c98-9575005932c1
+      title: Robert Sarbacher
+    provenance_chain:
+      origin_kind: named
+      origin: Robert Sarbacher
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: caa4dc74-91cb-4bce-8c98-9575005932c1
+        title: Robert Sarbacher
+        slug: robert-sarbacher
+    date: null
+    date_end: null
+    location_in_record: ch8:9503-9725
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 62027a18-93c1-4415-99e5-4b5bfd91e782
+    claim_hash: 1b13fdb1936e97cbe76c7a989a4b5830a6ee218b2f9a21316b898ccf68a73658
+    content: Robert Sarbacher was a metallurgist.
+    original_excerpt: Dr. Robert Sarbacher, the metallurgist
+    claim_type: administrative
+    attestation: first_hand
+    speaker:
+      node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+      title: Whitley Strieber
+    provenance_chain:
+      origin_kind: speaker
+      origin: Whitley Strieber
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: caa4dc74-91cb-4bce-8c98-9575005932c1
+        title: Robert Sarbacher
+        slug: robert-sarbacher
+    date: null
+    date_end: null
+    location_in_record: 00:07:05.4-00:07:07.0
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 9302c6b2-133d-4cbb-adfa-5d1f0bd3e7ac
+      record_title: The Terrible Truth About the Visitors - Whitley Strieber | ep. 96
+      record_date: '2026-07-24'
+      record_reference: https://www.youtube.com/watch?v=Cv-sk4vt-qU
+      content_hash: sha256:456dbde0ab82ee8e216bdad2d1a0bf2a0b42622a167af19058f973050b035084
+      friendly_name: null
+  - claim_id: 3fa66692-5950-4d52-8688-1e3c36b55763
+    claim_hash: eab4b27ad8d1e71433523e2aacf0e03d19437b59bbd1452f901526984ff6233e
+    content: Whitley Strieber sent Robert Sarbacher the first written material that became the book Communion, after the two
+      had spoken on the telephone, and Robert Sarbacher died the same day the material was sent.
+    original_excerpt: the day I sent him, the first written material that became the book Communion went to Dr. Sarbacher
+      after we had a conversation on the phone. He died that same day, apparently.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+      title: Whitley Strieber
+    provenance_chain:
+      origin_kind: speaker
+      origin: Whitley Strieber
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+        title: Whitley Strieber
+        slug: whitley-strieber
+      - node_id: caa4dc74-91cb-4bce-8c98-9575005932c1
+        title: Robert Sarbacher
+        slug: robert-sarbacher
+      - node_id: dfa3268c-8bbb-4c5d-8066-f9a3a416b7e6
+        title: Communion (Whitley Strieber book)
+        slug: communion-whitley-strieber-book
+    date: null
+    date_end: null
+    location_in_record: 00:07:11.2-00:07:24.8
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 9302c6b2-133d-4cbb-adfa-5d1f0bd3e7ac
+      record_title: The Terrible Truth About the Visitors - Whitley Strieber | ep. 96
+      record_date: '2026-07-24'
+      record_reference: https://www.youtube.com/watch?v=Cv-sk4vt-qU
+      content_hash: sha256:456dbde0ab82ee8e216bdad2d1a0bf2a0b42622a167af19058f973050b035084
+      friendly_name: null
+  - claim_id: 221b438b-fe38-4f0e-a727-9e5d50973c4f
+    claim_hash: a557e7e89745874642136cab14af6cf191a40d340e471b14fe1174bb4f80d71e
+    content: Whitley Strieber never got back the written material he had sent to Robert Sarbacher that became the book Communion.
+    original_excerpt: and I never got the material back
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+      title: Whitley Strieber
+    provenance_chain:
+      origin_kind: speaker
+      origin: Whitley Strieber
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+        title: Whitley Strieber
+        slug: whitley-strieber
+      - node_id: caa4dc74-91cb-4bce-8c98-9575005932c1
+        title: Robert Sarbacher
+        slug: robert-sarbacher
+      - node_id: dfa3268c-8bbb-4c5d-8066-f9a3a416b7e6
+        title: Communion (Whitley Strieber book)
+        slug: communion-whitley-strieber-book
+    date: null
+    date_end: null
+    location_in_record: 00:07:26.2-00:07:27.5
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 9302c6b2-133d-4cbb-adfa-5d1f0bd3e7ac
+      record_title: The Terrible Truth About the Visitors - Whitley Strieber | ep. 96
+      record_date: '2026-07-24'
+      record_reference: https://www.youtube.com/watch?v=Cv-sk4vt-qU
+      content_hash: sha256:456dbde0ab82ee8e216bdad2d1a0bf2a0b42622a167af19058f973050b035084
+      friendly_name: null
+  - claim_id: f1ca6f67-e32a-4dbf-906f-ce34f6c3b774
+    claim_hash: 0e8e71fd057f4bb251b140a26e240098e67f05a0a38b1586c3ad994150938012
+    content: Robert Sarbacher told Whitley Strieber that he had worked at the Battelle Memorial Institute.
+    original_excerpt: but he told me that he worked at Battelle.
+    claim_type: hearsay
+    attestation: second_hand
+    speaker:
+      node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+      title: Whitley Strieber
+    provenance_chain:
+      origin_kind: named
+      origin: Robert Sarbacher
+      relay:
+        - a telephone conversation with Whitley Strieber
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+        title: Whitley Strieber
+        slug: whitley-strieber
+      - node_id: caa4dc74-91cb-4bce-8c98-9575005932c1
+        title: Robert Sarbacher
+        slug: robert-sarbacher
+      - node_id: ec810255-5617-4bcd-9a17-346323c85a5f
+        title: Battelle Memorial Institute (BMI)
+        slug: battelle-memorial-institute-bmi
+    date: null
+    date_end: null
+    location_in_record: 00:07:27.9-00:07:31.8
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 9302c6b2-133d-4cbb-adfa-5d1f0bd3e7ac
+      record_title: The Terrible Truth About the Visitors - Whitley Strieber | ep. 96
+      record_date: '2026-07-24'
+      record_reference: https://www.youtube.com/watch?v=Cv-sk4vt-qU
+      content_hash: sha256:456dbde0ab82ee8e216bdad2d1a0bf2a0b42622a167af19058f973050b035084
+      friendly_name: null
+  - claim_id: f2aa0cf6-a1d8-493a-b9b6-4401843b59a5
+    claim_hash: 2c80994e56e35ce9748e581fc14421cea8e1d551feec6985da0292a99338e481
+    content: Whitley Strieber got in touch with Stanton Friedman, who put him in touch with Robert Sarbacher and, he believes,
+      also with Linda Moulton Howe and a number of other people.
+    original_excerpt: Because I got in touch with Stanton Friedman and he put me in touch with Robert Sarbacher and I believe
+      also with Linda and a number of other people.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+      title: Whitley Strieber
+    provenance_chain:
+      origin_kind: speaker
+      origin: Whitley Strieber
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 2116e8f0-ae1b-465d-a6d0-7b73f13db95a
+        title: Linda Moulton Howe
+        slug: linda-moulton-howe
+      - node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+        title: Whitley Strieber
+        slug: whitley-strieber
+      - node_id: caa4dc74-91cb-4bce-8c98-9575005932c1
+        title: Robert Sarbacher
+        slug: robert-sarbacher
+      - node_id: dd4a97ab-5ffd-41ec-8813-81a2c56f0ea1
+        title: Stanton Friedman
+        slug: stanton-friedman
+    date: null
+    date_end: null
+    location_in_record: 00:35:41.6-00:35:50.9
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 9302c6b2-133d-4cbb-adfa-5d1f0bd3e7ac
+      record_title: The Terrible Truth About the Visitors - Whitley Strieber | ep. 96
+      record_date: '2026-07-24'
+      record_reference: https://www.youtube.com/watch?v=Cv-sk4vt-qU
+      content_hash: sha256:456dbde0ab82ee8e216bdad2d1a0bf2a0b42622a167af19058f973050b035084
+      friendly_name: null
+  - claim_id: 0dec447d-4366-418b-9f0a-2dd8fa53eee8
+    claim_hash: c0153610c26f2dd2d194eb74cb2c219180311d8402d93d6f2122b279c84891f8
+    content: Whitley Strieber's alien implant was active during the 2026-07-24 interview with Chris Ramsay, and with it active
+      he did not lose any names during the conversation, whereas without it active he does not necessarily recall a name such
+      as Robert Sarbacher.
+    original_excerpt: in this conversation, you'll notice I've never lost a name or anything like that as we've gone through
+      the conversation because the implant, like I don't necessarily remember the name of Robert Sarbacher when we're not
+      talking, when the implant's not on, but when it is on, no problem.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+      title: Whitley Strieber
+    provenance_chain:
+      origin_kind: speaker
+      origin: Whitley Strieber
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 20f74902-e650-4d8b-a454-8e37e7cd471c
+        title: Whitley Strieber's alien implant
+        slug: whitley-striebers-alien-implant
+      - node_id: 24d00311-06ac-46a1-a2f5-c99f3f8e21b2
+        title: Chris Ramsay
+        slug: chris-ramsay
+      - node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+        title: Whitley Strieber
+        slug: whitley-strieber
+      - node_id: caa4dc74-91cb-4bce-8c98-9575005932c1
+        title: Robert Sarbacher
+        slug: robert-sarbacher
+      - node_id: f5725e7f-f85b-443a-ac3b-d1d9fcf98eec
+        title: Alien implant
+        slug: alien-implant
+    date: '2026-07-24'
+    date_end: null
+    location_in_record: 02:14:51.4-02:15:07.5
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 9302c6b2-133d-4cbb-adfa-5d1f0bd3e7ac
+      record_title: The Terrible Truth About the Visitors - Whitley Strieber | ep. 96
+      record_date: '2026-07-24'
+      record_reference: https://www.youtube.com/watch?v=Cv-sk4vt-qU
+      content_hash: sha256:456dbde0ab82ee8e216bdad2d1a0bf2a0b42622a167af19058f973050b035084
+      friendly_name: null

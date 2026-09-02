@@ -1,0 +1,211 @@
+schema: anomalica/brief/1
+brief_hash: 22d4786dc9439907cb9d837476f2432cbcb23f4040a971709b5bfdd48819ce77
+page:
+  kind: entity
+  node_id: 34552508-15df-4575-b1ee-16f20c026e18
+  node_type: project
+  title: Apollo 13
+  slug: apollo-13
+  claim_count: 4
+  claim_count_total: 4
+generated:
+  graph_version: '2026-09-01T10:10:49.863545+00:00'
+size:
+  claims: 4
+  tokens_estimated: 1109
+  sized_against: 1050000
+publication:
+  status: published
+  note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
+    transcripts are gated elsewhere.
+belonging:
+  verified: 0
+  suspect_excluded: 0
+  unreviewed: 4
+related_nodes:
+  - node_id: d6415a22-f8c8-4c29-8126-e380ab45350a
+    title: Aquarius (Apollo 13 Lunar Module)
+    node_type: object
+    slug: aquarius-apollo-13-lunar-module
+    shared_claims: 1
+  - node_id: 4063d842-f9c0-46f8-b720-6cf5f2abb1dd
+    title: Fred Haise
+    node_type: person
+    slug: fred-haise
+    shared_claims: 1
+  - node_id: 6f350daa-cd27-4abb-9fec-c4ca18fb4464
+    title: Jack Swigert
+    node_type: person
+    slug: jack-swigert
+    shared_claims: 1
+  - node_id: cd02423b-895b-4fe8-8929-7738d1069314
+    title: Jim Lovell
+    node_type: person
+    slug: jim-lovell
+    shared_claims: 1
+  - node_id: 5d4091a0-d807-4db5-9d2e-302b40c720b9
+    title: Orion (spacecraft)
+    node_type: object
+    slug: orion-spacecraft
+    shared_claims: 1
+  - node_id: c9954800-3f1f-46e7-af62-960ea0fa7b05
+    title: Orion Nebula
+    node_type: object
+    slug: orion-nebula
+    shared_claims: 1
+  - node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+    title: Ross Coulthart
+    node_type: person
+    slug: ross-coulthart
+    shared_claims: 1
+claims:
+  - claim_id: fe76c365-76b9-46f1-a795-f32913800d99
+    claim_hash: 56d5f2966357a2ec380df31486e342ad01c06c594442549c2a125157cadf030b
+    content: The Apollo 13 Lunar Module, which served as a lifeboat and saved the lives of Jim Lovell, Jack Swigert and Fred
+      Haise, was named "Aquarius."
+    original_excerpt: Also, Apollo 13’s Lunar Module, which served as a lifeboat—literally saving the lives of Lovell, Swigert
+      and Haise—was named “Aquarius.”
+    claim_type: observation
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: narration
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 34552508-15df-4575-b1ee-16f20c026e18
+        title: Apollo 13
+        slug: apollo-13
+      - node_id: 4063d842-f9c0-46f8-b720-6cf5f2abb1dd
+        title: Fred Haise
+        slug: fred-haise
+      - node_id: 6f350daa-cd27-4abb-9fec-c4ca18fb4464
+        title: Jack Swigert
+        slug: jack-swigert
+      - node_id: cd02423b-895b-4fe8-8929-7738d1069314
+        title: Jim Lovell
+        slug: jim-lovell
+      - node_id: d6415a22-f8c8-4c29-8126-e380ab45350a
+        title: Aquarius (Apollo 13 Lunar Module)
+        slug: aquarius-apollo-13-lunar-module
+    date: null
+    date_end: null
+    location_in_record: ch12:18678-18804
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+      record_title: Dark Mission
+      record_date: '2010-07-22'
+      record_reference: null
+      content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+      friendly_name: null
+  - claim_id: 8b62686b-611a-4bbb-9fbb-69b7e73b18a1
+    claim_hash: e1b6c398872a75c0f4e60ce60f0b2d7310c48bcf1717cade830905350c031961
+    content: The symbol of the constellation Orion appeared on the early Apollo programme patch, only to disappear after Apollo
+      13.
+    original_excerpt: As we discussed in Chapter Five, the symbol of the constellation Orion appeared on the early Apollo
+      program patch, only to "disappear" after Apollo 13
+    claim_type: observation
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 34552508-15df-4575-b1ee-16f20c026e18
+        title: Apollo 13
+        slug: apollo-13
+      - node_id: c9954800-3f1f-46e7-af62-960ea0fa7b05
+        title: Orion Nebula
+        slug: orion-nebula
+    date: '1970'
+    date_end: null
+    location_in_record: ch19:16565-16715
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+      record_title: Dark Mission
+      record_date: '2010-07-22'
+      record_reference: null
+      content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+      friendly_name: null
+  - claim_id: 74918718-ff13-472c-9988-c5b657c521f6
+    claim_hash: 9e829ae3d66d025e690e504bd6ec9bb06b4fd699063d0c019dd51d855f4ca298
+    content: A comparison exists between pre- and post-Apollo 13 Apollo program patches and the new Orion program patch.
+    original_excerpt: Fig. 12-2 - Comparison of pre- and post-Apollo 13 Apollo program patches, and the new “Orion” program
+      patch.
+    claim_type: observation
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 34552508-15df-4575-b1ee-16f20c026e18
+        title: Apollo 13
+        slug: apollo-13
+      - node_id: 5d4091a0-d807-4db5-9d2e-302b40c720b9
+        title: Orion (spacecraft)
+        slug: orion-spacecraft
+    date: null
+    date_end: null
+    location_in_record: ch19:88498-88600
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+      record_title: Dark Mission
+      record_date: '2010-07-22'
+      record_reference: null
+      content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+      friendly_name: null
+  - claim_id: 3669ca88-543c-49e7-80ed-6472213f652f
+    claim_hash: aaadfe24d45f41db77f1c056ca4b9842785ab66d9c7f7856bf4db5c93fcbf1ee
+    content: Members of the Apollo 13 mission were aware that they were being followed and believed they were probably benevolently
+      protected.
+    original_excerpt: I've spoken to other people who've told me that even the members of Apollo 13 were aware that they were
+      being followed and probably benevolently protected.
+    claim_type: hearsay
+    attestation: second_hand
+    speaker:
+      node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+      title: Ross Coulthart
+    provenance_chain:
+      origin_kind: anonymous
+      origin: people claiming to have spoken with members of Apollo 13
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 34552508-15df-4575-b1ee-16f20c026e18
+        title: Apollo 13
+        slug: apollo-13
+      - node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+        title: Ross Coulthart
+        slug: ross-coulthart
+    date: '1970'
+    date_end: null
+    location_in_record: 00:58:40.3-00:58:48.5
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: b3fda652-3dc2-4acc-b9ce-4b130add124f
+      record_title: What Did Apollo Astronauts Really See on the Moon? | Reality Check with Ross Coulthart
+      record_date: '2026-08-10'
+      record_reference: https://www.youtube.com/watch?v=lp-ta37pVKw
+      content_hash: sha256:f37882ab1f880101b3e452e3802d7afc296c07eb413f65ebea554984f3b8cdef
+      friendly_name: null

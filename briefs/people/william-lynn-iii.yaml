@@ -1,0 +1,305 @@
+schema: anomalica/brief/1
+brief_hash: 2cbb88c05d11ebdeda96f7c8112b18c94e329fecb2cac45aab24d611188efc59
+page:
+  kind: entity
+  node_id: 80cb31ac-aabc-4d90-83ef-9f76e833a9f5
+  node_type: person
+  title: William Lynn III
+  slug: william-lynn-iii
+  claim_count: 5
+  claim_count_total: 5
+generated:
+  graph_version: '2026-09-01T10:10:49.863545+00:00'
+size:
+  claims: 5
+  tokens_estimated: 1688
+  sized_against: 1050000
+publication:
+  status: published
+  note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
+    transcripts are gated elsewhere.
+belonging:
+  verified: 0
+  suspect_excluded: 0
+  unreviewed: 5
+related_nodes:
+  - node_id: 6c1618c8-50db-42c9-860e-6d736ef280bf
+    title: Advanced Aerospace Threat Identification Program (AATIP)
+    node_type: project
+    slug: advanced-aerospace-threat-identification-program-aatip
+    shared_claims: 5
+  - node_id: c91974f0-961f-4db8-b7b0-22d4b846e5d5
+    title: Harry Reid
+    node_type: person
+    slug: harry-reid
+    shared_claims: 4
+  - node_id: cc6d8585-d896-4fc3-b3a2-28d9a7d153ab
+    title: Advanced Aerospace Weapon System Applications Program (AAWSAP)
+    node_type: project
+    slug: advanced-aerospace-weapon-system-applications-program-aawsap
+    shared_claims: 2
+  - node_id: 99f08514-5471-4eaf-bce3-46c474a8d304
+    title: United States Department of Defense (DoD)
+    node_type: organisation
+    slug: united-states-department-of-defense-dod
+    shared_claims: 2
+  - node_id: cec715ac-05d9-4eb4-b97a-dcbffb6bf2e5
+    title: Harry Reid memo to William Lynn III on Advanced Aerospace Threat Identification Program (AATIP) Special Access
+      Program status (2009-07-24)
+    node_type: document
+    slug: harry-reid-memo-to-william-lynn-iii-on-advanced-aerospace-threat-identification-program-aatip-special-access-program-status-2009-07-24
+    shared_claims: 1
+  - node_id: a3b88bf2-de8f-45bf-addf-fadd9244c4e5
+    title: James R. Clapper
+    node_type: person
+    slug: james-r-clapper
+    shared_claims: 1
+  - node_id: 1484ac16-f982-40b3-8c85-5f61eea563eb
+    title: Memorandum from James Clapper to the Deputy Secretary of Defense, 2009-11-17
+    node_type: document
+    slug: 2009-11-17-memorandum-from-james-clapper-to-the-deputy-secretary-of-defense
+    shared_claims: 1
+  - node_id: 425931cd-7778-4ce3-ab74-a0a2ef87ab52
+    title: Reid letter to William Lynn III (2009)
+    node_type: document
+    slug: reid-letter-to-william-lynn-iii-2009
+    shared_claims: 1
+  - node_id: 4234dc48-0fc5-4406-9496-14d58061e591
+    title: Senator Harry Reid Letter to Deputy Secretary of Defense William Lynn III
+    node_type: document
+    slug: senator-harry-reid-letter-to-deputy-secretary-of-defense-william-lynn-iii
+    shared_claims: 1
+  - node_id: 64d41f78-598d-433c-a49d-f0d19fd62b27
+    title: Special Access Program (SAP)
+    node_type: topic
+    slug: special-access-program-sap
+    shared_claims: 1
+claims:
+  - claim_id: 031cf298-4ac8-4b8f-b903-7200eb54a203
+    claim_hash: 913f979c6a19a82e38a716621c1a1d8894e738d29e83ac6f1254a017ea4c5aba
+    content: Harry Reid said in a letter to William Lynn III, a deputy defense secretary at the time, that much progress had
+      been made with the identification of several highly sensitive, unconventional aerospace-related findings, requesting
+      the Advanced Aerospace Threat Identification Program (AATIP) be designated a 'restricted special access program' limited
+      to a few listed officials.
+    original_excerpt: “Much progress has been made with the identification of several highly sensitive, unconventional aerospace-related
+      findings,” Mr. Reid said in a letter to William Lynn III, a deputy defense secretary at the time, requesting that it
+      be designated a “restricted special access program” limited to a few listed officials.
+    claim_type: testimony
+    attestation: second_hand
+    speaker:
+      node_id: c91974f0-961f-4db8-b7b0-22d4b846e5d5
+      title: Harry Reid
+    provenance_chain:
+      origin_kind: speaker
+      origin: Reid, Harry
+      relay:
+        - Reid letter to William Lynn III (2009)
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 425931cd-7778-4ce3-ab74-a0a2ef87ab52
+        title: Reid letter to William Lynn III (2009)
+        slug: reid-letter-to-william-lynn-iii-2009
+      - node_id: 6c1618c8-50db-42c9-860e-6d736ef280bf
+        title: Advanced Aerospace Threat Identification Program (AATIP)
+        slug: advanced-aerospace-threat-identification-program-aatip
+      - node_id: 80cb31ac-aabc-4d90-83ef-9f76e833a9f5
+        title: William Lynn III
+        slug: william-lynn-iii
+      - node_id: c91974f0-961f-4db8-b7b0-22d4b846e5d5
+        title: Harry Reid
+        slug: harry-reid
+    date: '2009'
+    date_end: null
+    location_in_record: char:11364-11671
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 363bf706-cb4a-47f2-97b9-26c54926af2b
+      record_title: 'Glowing Auras and ‘Black Money’: The Pentagon’s Mysterious U.F.O. Program (Published 2017)'
+      record_date: '2017-12-16'
+      record_reference: https://www.nytimes.com/2017/12/16/us/politics/pentagon-program-ufo-harry-reid.html
+      content_hash: sha256:04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb640bd12c81
+      friendly_name: 2017-12-16-web-glowing-auras-and-black-money-the-pentagon-s-mysterious-u-f
+  - claim_id: c66b7627-3ce7-4da6-8ebe-dab2fd4cd337
+    claim_hash: 4d5d5e38b51c0df2a2cfee7bd9f1d61a8313f4157591f96aba330852dee4cab0
+    content: Harry Reid's 2009 request to William Lynn III for special designation of the Advanced Aerospace Threat Identification
+      Program (AATIP) was denied.
+    original_excerpt: Mr. Reid’s request for the special designation was denied.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 6c1618c8-50db-42c9-860e-6d736ef280bf
+        title: Advanced Aerospace Threat Identification Program (AATIP)
+        slug: advanced-aerospace-threat-identification-program-aatip
+      - node_id: 80cb31ac-aabc-4d90-83ef-9f76e833a9f5
+        title: William Lynn III
+        slug: william-lynn-iii
+      - node_id: c91974f0-961f-4db8-b7b0-22d4b846e5d5
+        title: Harry Reid
+        slug: harry-reid
+    date: '2009'
+    date_end: null
+    location_in_record: char:11947-11998
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 363bf706-cb4a-47f2-97b9-26c54926af2b
+      record_title: 'Glowing Auras and ‘Black Money’: The Pentagon’s Mysterious U.F.O. Program (Published 2017)'
+      record_date: '2017-12-16'
+      record_reference: https://www.nytimes.com/2017/12/16/us/politics/pentagon-program-ufo-harry-reid.html
+      content_hash: sha256:04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb640bd12c81
+      friendly_name: 2017-12-16-web-glowing-auras-and-black-money-the-pentagon-s-mysterious-u-f
+  - claim_id: 911d37fc-4b7c-4d45-bd39-6dd0974d7a01
+    claim_hash: 39703319bf7ad1a9fa2481af748d549ac41688f19ae99f6cdea0d602e24c8b31
+    content: The 2009 Harry Reid memo outlined Senator Harry Reid's request and reasoning to get the Advanced Aerospace Threat
+      Identification Program (AATIP) a "Special Access Program" (SAP) status, and was written to the Deputy Secretary of Defense,
+      William Lynn III.
+    original_excerpt: The memo outlined Senator Reid’s request and reasoning to get the AATIP a “Special Access Program” or
+      SAP status, and was written to the Deputy Secretary of Defense, William Lynn III.
+    claim_type: administrative
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: document
+      origin: 2009 Harry Reid Memo to William Lynn III Regarding AATIP Special Access Program Status
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 64d41f78-598d-433c-a49d-f0d19fd62b27
+        title: Special Access Program (SAP)
+        slug: special-access-program-sap
+      - node_id: 6c1618c8-50db-42c9-860e-6d736ef280bf
+        title: Advanced Aerospace Threat Identification Program (AATIP)
+        slug: advanced-aerospace-threat-identification-program-aatip
+      - node_id: 80cb31ac-aabc-4d90-83ef-9f76e833a9f5
+        title: William Lynn III
+        slug: william-lynn-iii
+      - node_id: c91974f0-961f-4db8-b7b0-22d4b846e5d5
+        title: Harry Reid
+        slug: harry-reid
+      - node_id: cec715ac-05d9-4eb4-b97a-dcbffb6bf2e5
+        title: Harry Reid memo to William Lynn III on Advanced Aerospace Threat Identification Program (AATIP) Special Access
+          Program status (2009-07-24)
+        slug: harry-reid-memo-to-william-lynn-iii-on-advanced-aerospace-threat-identification-program-aatip-special-access-program-status-2009-07-24
+    date: '2009-07-24'
+    date_end: null
+    location_in_record: char:2546-2725
+    evidence:
+      score: null
+      independent_sources: 2
+    provenance:
+      record_id: 6277b269-0970-4c9f-bb3f-9af4babe813e
+      record_title: Pentagon Reinforces Mr. Luis Elizondo Had “No Responsibilities” on AATIP; Senator Harry Reid’s 2009 Memo
+        Changes Nothing - The Black Vault
+      record_date: '2019-06-14'
+      record_reference: https://www.theblackvault.com/documentarchive/pentagon-reinforces-mr-luis-elizondo-had-no-responsibilities-on-aatip-senator-harry-reids-2009-memo-changes-nothing/
+      content_hash: sha256:b5f3b4fc656776dcac742cb3190859da4a5d67bf028530c1aeea49b186b0adfc
+      friendly_name: 2019-06-14-web-pentagon-reinforces-mr-luis-elizondo-had-no
+  - claim_id: d09a9f0a-7fa6-4a08-bc55-006212fcaca8
+    claim_hash: 7d84cb495212c9ca5f16641b27497a3a8d9e8e2310c9eebb0e512e3639ea5b7d
+    content: On 2009-06-24, Harry Reid sent a letter to then Deputy Secretary of Defense William Lynn III requesting that
+      AAWSAP/AATIP be made a Department of Defense (DoD) Special Access Program.
+    original_excerpt: On 24 June 2009, Senator Reid sent a letter to then Deputy Secretary of Defense William Lynn III requesting
+      that AAWSAP/AATIP be made a DoD Special Access Program.
+    claim_type: administrative
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: document
+      origin: Senator Harry Reid Letter to Deputy Secretary of Defense William Lynn III
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 4234dc48-0fc5-4406-9496-14d58061e591
+        title: Senator Harry Reid Letter to Deputy Secretary of Defense William Lynn III
+        slug: senator-harry-reid-letter-to-deputy-secretary-of-defense-william-lynn-iii
+      - node_id: 6c1618c8-50db-42c9-860e-6d736ef280bf
+        title: Advanced Aerospace Threat Identification Program (AATIP)
+        slug: advanced-aerospace-threat-identification-program-aatip
+      - node_id: 80cb31ac-aabc-4d90-83ef-9f76e833a9f5
+        title: William Lynn III
+        slug: william-lynn-iii
+      - node_id: 99f08514-5471-4eaf-bce3-46c474a8d304
+        title: United States Department of Defense (DoD)
+        slug: united-states-department-of-defense-dod
+      - node_id: c91974f0-961f-4db8-b7b0-22d4b846e5d5
+        title: Harry Reid
+        slug: harry-reid
+      - node_id: cc6d8585-d896-4fc3-b3a2-28d9a7d153ab
+        title: Advanced Aerospace Weapon System Applications Program (AAWSAP)
+        slug: advanced-aerospace-weapon-system-applications-program-aawsap
+    date: '2009-06-24'
+    date_end: null
+    location_in_record: char:61905-62060
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: d3743fdf-6a99-43ef-98d4-b79ef60f0e47
+      record_title: Report on the Historical Record of U.S. Government Involvement with Unidentified Anomalous Phenomena (UAP),
+        Volume I
+      record_date: '2024-02-01'
+      record_reference: null
+      content_hash: sha256:8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a94774067868
+      friendly_name: 2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a
+  - claim_id: 08e3f0b0-0d12-4b28-911d-e33ed4e440da
+    claim_hash: c787dc371ca78eaa32e76ccc9fcbf2ab109bddb5f38e1641392fcb90c162f081
+    content: William Lynn III declined to designate AAWSAP/AATIP a Department of Defense (DoD) Special Access Program, based
+      on the recommendation of then-Under Secretary of Defense for Intelligence James R. Clapper, Jr. that such a designation
+      was not justified.
+    original_excerpt: Deputy Secretary Lynn declined to do so based on the recommendation of then-Under Secretary of Defense
+      for Intelligence, James R. Clapper, Jr., that such a designation was not justified.
+    claim_type: administrative
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: document
+      origin: Memorandum from James Clapper to the Deputy Secretary of Defense, 17 November 2009
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 1484ac16-f982-40b3-8c85-5f61eea563eb
+        title: Memorandum from James Clapper to the Deputy Secretary of Defense, 2009-11-17
+        slug: 2009-11-17-memorandum-from-james-clapper-to-the-deputy-secretary-of-defense
+      - node_id: 6c1618c8-50db-42c9-860e-6d736ef280bf
+        title: Advanced Aerospace Threat Identification Program (AATIP)
+        slug: advanced-aerospace-threat-identification-program-aatip
+      - node_id: 80cb31ac-aabc-4d90-83ef-9f76e833a9f5
+        title: William Lynn III
+        slug: william-lynn-iii
+      - node_id: 99f08514-5471-4eaf-bce3-46c474a8d304
+        title: United States Department of Defense (DoD)
+        slug: united-states-department-of-defense-dod
+      - node_id: a3b88bf2-de8f-45bf-addf-fadd9244c4e5
+        title: James R. Clapper
+        slug: james-r-clapper
+      - node_id: cc6d8585-d896-4fc3-b3a2-28d9a7d153ab
+        title: Advanced Aerospace Weapon System Applications Program (AAWSAP)
+        slug: advanced-aerospace-weapon-system-applications-program-aawsap
+    date: '2009-11-17'
+    date_end: null
+    location_in_record: char:62069-62245
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: d3743fdf-6a99-43ef-98d4-b79ef60f0e47
+      record_title: Report on the Historical Record of U.S. Government Involvement with Unidentified Anomalous Phenomena (UAP),
+        Volume I
+      record_date: '2024-02-01'
+      record_reference: null
+      content_hash: sha256:8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a94774067868
+      friendly_name: 2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a

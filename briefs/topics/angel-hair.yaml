@@ -1,0 +1,296 @@
+schema: anomalica/brief/1
+brief_hash: 76496de49e964a402c683c5e4fd421c091d6ee9d8e6a4d3624295d7602000590
+page:
+  kind: entity
+  node_id: ccdf0290-866f-4b6c-8317-9f529510769f
+  node_type: topic
+  title: Angel hair
+  slug: angel-hair
+  claim_count: 7
+  claim_count_total: 7
+generated:
+  graph_version: '2026-09-01T10:10:49.863545+00:00'
+size:
+  claims: 7
+  tokens_estimated: 1959
+  sized_against: 1050000
+publication:
+  status: published
+  note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
+    transcripts are gated elsewhere.
+belonging:
+  verified: 0
+  suspect_excluded: 0
+  unreviewed: 7
+related_nodes:
+  - node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+    title: Luis Elizondo
+    node_type: person
+    slug: luis-elizondo
+    shared_claims: 2
+  - node_id: 74878784-ae22-4648-ac03-3fe924a4cd96
+    title: Christopher Bledsoe
+    node_type: person
+    slug: christopher-bledsoe
+    shared_claims: 1
+  - node_id: 2f2a8882-079b-429e-9aaf-37d1fdc53cee
+    title: Luis D. Elizondo III (father)
+    node_type: person
+    slug: luis-d-elizondo-iii-father
+    shared_claims: 1
+  - node_id: 413c657c-2495-459f-a7ce-79feb936b92c
+    title: Metamaterials
+    node_type: topic
+    slug: metamaterials
+    shared_claims: 1
+  - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
+    title: Unidentified Anomalous Phenomena (UAP)
+    node_type: topic
+    slug: unidentified-anomalous-phenomena-uap
+    shared_claims: 1
+claims:
+  - claim_id: f5442085-b62b-440d-be22-db7cdba6674f
+    claim_hash: 9ca757ae022b8cf6344a280b2245ba108bc7c92278f3b62f24d979c6a79a25e7
+    content: Researchers recovered a fine metallic fibre, nicknamed "angel hair", on the ground after some UAP sightings.
+    original_excerpt: After some sightings, researchers had recovered a fine metallic fiber on the ground. They called it
+      “angel hair.”
+    claim_type: observation
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: ccdf0290-866f-4b6c-8317-9f529510769f
+        title: Angel hair
+        slug: angel-hair
+    date: null
+    date_end: null
+    location_in_record: ch22:5929-6036
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  - claim_id: 63e6a9e4-9ab1-446c-a656-6f804e68dc25
+    claim_hash: 52d8e07b175aabd29ca0698e927fe49a20fa6dc3de3c13ba657ff9673c06970e
+    content: Luis Elizondo has personally handled angel hair material and describes it as similar to steel wool.
+    original_excerpt: I have handled some of this material. It’s a little like steel wool.
+    claim_type: observation
+    attestation: first_hand
+    speaker:
+      node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+      title: Luis Elizondo
+    provenance_chain:
+      origin_kind: speaker
+      origin: Lue Elizondo
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 2f2a8882-079b-429e-9aaf-37d1fdc53cee
+        title: Luis D. Elizondo III (father)
+        slug: luis-d-elizondo-iii-father
+      - node_id: ccdf0290-866f-4b6c-8317-9f529510769f
+        title: Angel hair
+        slug: angel-hair
+    date: null
+    date_end: null
+    location_in_record: ch22:6043-6133
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  - claim_id: 7163bd95-b286-4c4b-acb2-87fdbd133083
+    claim_hash: 045b4b13c3a6274ecfe7fb0b6ab63cf795d35019b000d243306203f35387583a
+    content: The working theory on angel hair is that the exteriors of UAP craft are ablative, peeling off some of their outer
+      surface when the skin interacts with the propulsion unit, resulting in fibres such as angel hair.
+    original_excerpt: The working theory is that the exteriors of these aircraft are ablative in nature; that is to say, they
+      are capable of self-sacrificing. When the skin of the craft interacts with the propulsion unit, the craft ablates, or
+      peels off, some of its outer surface, resulting in these fibers.
+    claim_type: opinion
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
+        title: Unidentified Anomalous Phenomena (UAP)
+        slug: unidentified-anomalous-phenomena-uap
+      - node_id: ccdf0290-866f-4b6c-8317-9f529510769f
+        title: Angel hair
+        slug: angel-hair
+    date: null
+    date_end: null
+    location_in_record: ch22:6139-6418
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  - claim_id: c7d55f84-9418-4b47-9ab0-4cfc030877e4
+    claim_hash: 9c8c3a22268326dab405ee50ddf0c16e83167addfd66c3384e993509e932dde8
+    content: Luis Elizondo alluded to something called angel hair, in which metallic spherical orbs shed their outer layer.
+    original_excerpt: Lou had sort of alluded to something called angel hair. He said that these orbs, these metallic spheres,
+      would shed their outer layer.
+    claim_type: testimony
+    attestation: second_hand
+    speaker:
+      node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+      title: Luis Elizondo
+    provenance_chain:
+      origin_kind: named
+      origin: Luis Elizondo
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+        title: Luis Elizondo
+        slug: luis-elizondo
+      - node_id: ccdf0290-866f-4b6c-8317-9f529510769f
+        title: Angel hair
+        slug: angel-hair
+    date: null
+    date_end: null
+    location_in_record: 00:17:59.9-00:18:09.3
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: eb39c1fb-c257-4fbf-bf95-970102cb4c6f
+      record_title: Journalist Leaked UAP Program "Immaculate Constellation" - DEBRIEFED ep. 10
+      record_date: '2024-10-18'
+      record_reference: https://www.youtube.com/watch?v=B6iWr3d39So
+      content_hash: sha256:8ccc822b36fc9c8e5e7410ff6e8e89c31398b7b1e098e28f2c37a27cd24cdd58
+      friendly_name: null
+  - claim_id: fe84b2a4-4aa9-44bf-b83e-3618da1764e7
+    claim_hash: a7dee59fa7ee39da369c1e40b1a1e5cb7c7ac9414e8dcbe112021515d01d49ab
+    content: Angel hair refers to a sloughing off of the outer layer of a UAP vehicle, which drips down onto the ground and
+      leaves a residue resembling molten metal.
+    original_excerpt: there's a reference to something called angel hair, which refers to a slewing off or sloughing off of
+      the outer layer of the vehicle, and it drips down onto almost like a residue or like molten metal on the ground. And
+      that is referred to as angel hair.
+    claim_type: testimony
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: ccdf0290-866f-4b6c-8317-9f529510769f
+        title: Angel hair
+        slug: angel-hair
+    date: null
+    date_end: null
+    location_in_record: 00:18:41.9-00:19:01.0
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: eb39c1fb-c257-4fbf-bf95-970102cb4c6f
+      record_title: Journalist Leaked UAP Program "Immaculate Constellation" - DEBRIEFED ep. 10
+      record_date: '2024-10-18'
+      record_reference: https://www.youtube.com/watch?v=B6iWr3d39So
+      content_hash: sha256:8ccc822b36fc9c8e5e7410ff6e8e89c31398b7b1e098e28f2c37a27cd24cdd58
+      friendly_name: null
+  - claim_id: 7416462d-41ef-4ffa-b091-6f61730ef97f
+    claim_hash: 87896b2120602580af535881adf80bc62b81b2cbaa97e7402955e24217ad9653
+    content: UAP that shed angel hair leave behind a type of metamaterial.
+    original_excerpt: He also mentioned that by doing this, they leave behind some type of meta material.
+    claim_type: hearsay
+    attestation: second_hand
+    speaker:
+      node_id: 24d00311-06ac-46a1-a2f5-c99f3f8e21b2
+      title: Chris Ramsay
+    provenance_chain:
+      origin_kind: named
+      origin: Luis Elizondo
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 413c657c-2495-459f-a7ce-79feb936b92c
+        title: Metamaterials
+        slug: metamaterials
+      - node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+        title: Luis Elizondo
+        slug: luis-elizondo
+      - node_id: ccdf0290-866f-4b6c-8317-9f529510769f
+        title: Angel hair
+        slug: angel-hair
+    date: null
+    date_end: null
+    location_in_record: 00:19:07.4-00:19:11.1
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: eb39c1fb-c257-4fbf-bf95-970102cb4c6f
+      record_title: Journalist Leaked UAP Program "Immaculate Constellation" - DEBRIEFED ep. 10
+      record_date: '2024-10-18'
+      record_reference: https://www.youtube.com/watch?v=B6iWr3d39So
+      content_hash: sha256:8ccc822b36fc9c8e5e7410ff6e8e89c31398b7b1e098e28f2c37a27cd24cdd58
+      friendly_name: null
+  - claim_id: 411ec94c-8862-45c6-8511-1ad5681c4512
+    claim_hash: 10e07afabdaa156ec680797ee91664d351b47cf0c9e99beea7c527791e9ba4ce
+    content: Chris Bledsoe's account of an orb dripping a substance onto his driveway predates public discussion of angel
+      hair by years.
+    original_excerpt: Now, this is years before we heard about this, which is really interesting.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 24d00311-06ac-46a1-a2f5-c99f3f8e21b2
+      title: Chris Ramsay
+    provenance_chain:
+      origin_kind: speaker
+      origin: Chris Ramsey
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 74878784-ae22-4648-ac03-3fe924a4cd96
+        title: Christopher Bledsoe
+        slug: christopher-bledsoe
+      - node_id: ccdf0290-866f-4b6c-8317-9f529510769f
+        title: Angel hair
+        slug: angel-hair
+    date: null
+    date_end: null
+    location_in_record: 00:19:38.1-00:19:41.1
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: eb39c1fb-c257-4fbf-bf95-970102cb4c6f
+      record_title: Journalist Leaked UAP Program "Immaculate Constellation" - DEBRIEFED ep. 10
+      record_date: '2024-10-18'
+      record_reference: https://www.youtube.com/watch?v=B6iWr3d39So
+      content_hash: sha256:8ccc822b36fc9c8e5e7410ff6e8e89c31398b7b1e098e28f2c37a27cd24cdd58
+      friendly_name: null

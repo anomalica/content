@@ -1,0 +1,185 @@
+schema: anomalica/brief/1
+brief_hash: eb5cac87cc9553b52861e5d88b8f992d4492a4bab03f62bbede8c7026af4191b
+page:
+  kind: entity
+  node_id: 8e3eba30-1639-45f5-a0ef-e91c5a19332c
+  node_type: topic
+  title: Zero point field
+  slug: zero-point-field
+  claim_count: 3
+  claim_count_total: 3
+generated:
+  graph_version: '2026-09-01T10:10:49.863545+00:00'
+size:
+  claims: 3
+  tokens_estimated: 983
+  sized_against: 1050000
+publication:
+  status: published
+  note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
+    transcripts are gated elsewhere.
+belonging:
+  verified: 0
+  suspect_excluded: 0
+  unreviewed: 3
+related_nodes:
+  - node_id: 24d00311-06ac-46a1-a2f5-c99f3f8e21b2
+    title: Chris Ramsay
+    node_type: person
+    slug: chris-ramsay
+    shared_claims: 2
+  - node_id: 37dc77f1-fd1c-4332-81e6-c720d73fb654
+    title: Quantum vacuum
+    node_type: topic
+    slug: quantum-vacuum
+    shared_claims: 2
+  - node_id: 67796fc0-89d6-496e-ba7f-50c3171aa674
+    title: Dyadic model of consciousness (Mitchell)
+    node_type: topic
+    slug: dyadic-model-of-consciousness-mitchell
+    shared_claims: 1
+  - node_id: 59476464-a679-46ce-9247-b0adcb287762
+    title: Edgar Mitchell
+    node_type: person
+    slug: edgar-mitchell
+    shared_claims: 1
+  - node_id: 91228f6b-79b5-483a-a62b-c98f5eed12ab
+    title: Jason Quitt
+    node_type: person
+    slug: jason-quitt
+    shared_claims: 1
+  - node_id: 2b677f65-d068-44a7-913d-aade288d1e62
+    title: Samadhi
+    node_type: topic
+    slug: samadhi
+    shared_claims: 1
+claims:
+  - claim_id: 248f5c5e-2047-464b-a3d5-c39d6f120775
+    claim_hash: fff011c3b9eff34df31e7423f82124dcc00917ff6002065d789ca91f149f7b01
+    content: Edgar Mitchell's dyadic model interprets the samadhi experience as the body and brain experiencing its "ground
+      state," or resonance with the zero point field, in which awareness merges totally into the primordial field.
+    original_excerpt: The dyadic model interpretation is that the body/brain is experiencing its “ground state” or resonance
+      with the zero point field. The awareness is the undifferentiated awareness of the primordial field, as the sense of
+      Self is merged totally into the field.
+    claim_type: opinion
+    attestation: second_hand
+    speaker:
+      node_id: f2daae19-9351-4a8e-b466-664f83887f61
+      title: Diana Walsh Pasulka
+    provenance_chain:
+      origin_kind: named
+      origin: Edgar Mitchell
+      relay:
+        - D. W. Pasulka
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 2b677f65-d068-44a7-913d-aade288d1e62
+        title: Samadhi
+        slug: samadhi
+      - node_id: 59476464-a679-46ce-9247-b0adcb287762
+        title: Edgar Mitchell
+        slug: edgar-mitchell
+      - node_id: 67796fc0-89d6-496e-ba7f-50c3171aa674
+        title: Dyadic model of consciousness (Mitchell)
+        slug: dyadic-model-of-consciousness-mitchell
+      - node_id: 8e3eba30-1639-45f5-a0ef-e91c5a19332c
+        title: Zero point field
+        slug: zero-point-field
+    date: null
+    date_end: null
+    location_in_record: ch6:38301-38552
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 288e1100-0497-41df-ba08-9890e519b0b9
+      record_title: American Cosmic
+      record_date: '2019'
+      record_reference: null
+      content_hash: sha256:ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b16ac4758
+      friendly_name: 2019-ebook-american-cosmic
+  - claim_id: 6535ea2c-de79-4922-8500-1371c15015c2
+    claim_hash: 23d677ea49f4a6d2eb9db34becafdec0e175b8bb504ea2490305f70d7706851e
+    content: Asked by Chris Ramsay whether there is a fundamental substrate across all dimensions, comparable to the zero-point
+      field or the quantum vacuum, Jason Quitt answered yes.
+    original_excerpt: 'Chris Ramsay: do you think across all dimensions there is a fundamental substrate Jason Quitt: yes
+      yeah'
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 91228f6b-79b5-483a-a62b-c98f5eed12ab
+      title: Jason Quitt
+    provenance_chain:
+      origin_kind: speaker
+      origin: Jason Quitt
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 24d00311-06ac-46a1-a2f5-c99f3f8e21b2
+        title: Chris Ramsay
+        slug: chris-ramsay
+      - node_id: 37dc77f1-fd1c-4332-81e6-c720d73fb654
+        title: Quantum vacuum
+        slug: quantum-vacuum
+      - node_id: 8e3eba30-1639-45f5-a0ef-e91c5a19332c
+        title: Zero point field
+        slug: zero-point-field
+      - node_id: 91228f6b-79b5-483a-a62b-c98f5eed12ab
+        title: Jason Quitt
+        slug: jason-quitt
+    date: null
+    date_end: null
+    location_in_record: 01:19:15.1-01:19:20.3
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: b0f8ff5d-db19-45e1-abaa-391d63833bec
+      record_title: Researcher Describes Strange Encounters With Other Beings - Jason Quitt | Ep. 98
+      record_date: '2026-08-07'
+      record_reference: https://www.youtube.com/watch?v=JsPE3o-PJms
+      content_hash: sha256:474630c81ceb39029e473c41a62306341a264aa94e100930de6ceb845884cf57
+      friendly_name: null
+  - claim_id: 79548058-8383-42f4-abe2-221ee42e6c53
+    claim_hash: aa369c1bbf771ea364d2a1fd82bc1ceb789d31160408052aaeef5b98bc9d679c
+    content: Chris Ramsay considers it impossible to fit the fundamental substrate underlying reality into the three-dimensional
+      physical box of our secondary physical reality, even when mathematical formulas built on those assumptions turn out
+      correct.
+    original_excerpt: we're trying to box this so it fits here ... we make formulas that turn out to be correct in our mathematics
+      so that it proves ... that that is what reality is ... I feel like it's impossible to do that.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 24d00311-06ac-46a1-a2f5-c99f3f8e21b2
+      title: Chris Ramsay
+    provenance_chain:
+      origin_kind: speaker
+      origin: Chris Ramsay
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 24d00311-06ac-46a1-a2f5-c99f3f8e21b2
+        title: Chris Ramsay
+        slug: chris-ramsay
+      - node_id: 37dc77f1-fd1c-4332-81e6-c720d73fb654
+        title: Quantum vacuum
+        slug: quantum-vacuum
+      - node_id: 8e3eba30-1639-45f5-a0ef-e91c5a19332c
+        title: Zero point field
+        slug: zero-point-field
+    date: null
+    date_end: null
+    location_in_record: lines 334-346
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: b0f8ff5d-db19-45e1-abaa-391d63833bec
+      record_title: Researcher Describes Strange Encounters With Other Beings - Jason Quitt | Ep. 98
+      record_date: '2026-08-07'
+      record_reference: https://www.youtube.com/watch?v=JsPE3o-PJms
+      content_hash: sha256:474630c81ceb39029e473c41a62306341a264aa94e100930de6ceb845884cf57
+      friendly_name: null

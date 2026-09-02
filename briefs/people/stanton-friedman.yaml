@@ -1,0 +1,641 @@
+schema: anomalica/brief/1
+brief_hash: a57d50f57cddb8c0609cac46bfafa1cb632e37c45de857fd7ded97732c2b045f
+page:
+  kind: entity
+  node_id: dd4a97ab-5ffd-41ec-8813-81a2c56f0ea1
+  node_type: person
+  title: Stanton Friedman
+  slug: stanton-friedman
+  claim_count: 13
+  claim_count_total: 13
+generated:
+  graph_version: '2026-09-01T10:10:49.863545+00:00'
+size:
+  claims: 13
+  tokens_estimated: 3805
+  sized_against: 1050000
+publication:
+  status: published
+  note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
+    transcripts are gated elsewhere.
+belonging:
+  verified: 0
+  suspect_excluded: 0
+  unreviewed: 13
+related_nodes:
+  - node_id: ec69e08d-062d-401c-9287-46a45fdc9b4d
+    title: Donald Menzel
+    node_type: person
+    slug: donald-menzel
+    shared_claims: 3
+  - node_id: 93df8d48-8068-409a-a198-27e923af6cde
+    title: Majestic 12 (MJ-12)
+    node_type: project
+    slug: majestic-12-mj-12
+    shared_claims: 3
+  - node_id: 3a677a1c-da2b-44c6-a50b-ee45fe1e5f1a
+    title: Marjorie Fish
+    node_type: person
+    slug: marjorie-fish
+    shared_claims: 2
+  - node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+    title: Whitley Strieber
+    node_type: person
+    slug: whitley-strieber
+    shared_claims: 2
+  - node_id: 8d520f17-8e2d-4901-9eba-00aa4881268b
+    title: Zeta Reticuli star map analysis
+    node_type: project
+    slug: zeta-reticuli-star-map-analysis
+    shared_claims: 2
+  - node_id: 47723159-4fe3-4a12-a7db-62b47dc97ff8
+    title: Arthur Exon
+    node_type: person
+    slug: arthur-exon
+    shared_claims: 1
+  - node_id: ba818a56-7be8-41bd-8dff-132bb4a8f7e9
+    title: Barney Hill
+    node_type: person
+    slug: barney-hill
+    shared_claims: 1
+  - node_id: 827a669c-493c-4ea2-a245-a47d300ef053
+    title: Betty Hill
+    node_type: person
+    slug: betty-hill
+    shared_claims: 1
+  - node_id: f1f0eba2-92c4-4a7c-9cd1-f8024d23c3df
+    title: David Saunders
+    node_type: person
+    slug: david-saunders
+    shared_claims: 1
+  - node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
+    title: Jacques Vallée
+    node_type: person
+    slug: jacques-vallee
+    shared_claims: 1
+  - node_id: 898c410a-7789-4762-b6dd-1139ced89658
+    title: Jimmy Carter
+    node_type: person
+    slug: jimmy-carter
+    shared_claims: 1
+  - node_id: 0d1a332e-df62-4c0e-94c9-4eba0e353e92
+    title: John Petersen
+    node_type: person
+    slug: john-petersen
+    shared_claims: 1
+  - node_id: 2116e8f0-ae1b-465d-a6d0-7b73f13db95a
+    title: Linda Moulton Howe
+    node_type: person
+    slug: linda-moulton-howe
+    shared_claims: 1
+  - node_id: 94acebad-d864-4d15-b54c-52197eb9c4ad
+    title: Majestic 12
+    node_type: organisation
+    slug: majestic-12
+    shared_claims: 1
+  - node_id: caa4dc74-91cb-4bce-8c98-9575005932c1
+    title: Robert Sarbacher
+    node_type: person
+    slug: robert-sarbacher
+    shared_claims: 1
+  - node_id: b8ea9860-ae6e-4835-8114-6a6626f28797
+    title: Roswell incident (1947)
+    node_type: event
+    slug: roswell-incident-1947
+    shared_claims: 1
+  - node_id: e4389da4-1980-4cb6-b557-6c563f9b134a
+    title: Steven Greer
+    node_type: person
+    slug: steven-greer
+    shared_claims: 1
+  - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
+    title: Unidentified Anomalous Phenomena (UAP)
+    node_type: topic
+    slug: unidentified-anomalous-phenomena-uap
+    shared_claims: 1
+  - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
+    title: Unidentified Flying Object (UFO)
+    node_type: topic
+    slug: unidentified-flying-object-ufo
+    shared_claims: 1
+  - node_id: 95cefe75-5f57-4e57-b8bc-2dccc1d958aa
+    title: Watergate scandal
+    node_type: event
+    slug: watergate-scandal
+    shared_claims: 1
+claims:
+  - claim_id: 550ccd06-4f9e-46b8-93aa-06ba5335e3a0
+    claim_hash: b9ab92eb9ef5c5289570cbc128ec1f35b64a083977f3674950a4b7ad80b7a918
+    content: Ufologists including Stanton Friedman and Dave Saunders consider Marjorie Fish's star model to indicate that
+      the saucer which abducted Betty Hill and Barney Hill came from Zeta Reticuli.
+    original_excerpt: It is this model that indicates to many authorities among the UFO believers – men like Stanton Friedman
+      and Dave Saunders – that the saucer which abducted the Hills hailed from Zeta Reticuli.
+    claim_type: opinion
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: named
+      origin: Stanton Friedman and Dave Saunders
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 3a677a1c-da2b-44c6-a50b-ee45fe1e5f1a
+        title: Marjorie Fish
+        slug: marjorie-fish
+      - node_id: 827a669c-493c-4ea2-a245-a47d300ef053
+        title: Betty Hill
+        slug: betty-hill
+      - node_id: 8d520f17-8e2d-4901-9eba-00aa4881268b
+        title: Zeta Reticuli star map analysis
+        slug: zeta-reticuli-star-map-analysis
+      - node_id: ba818a56-7be8-41bd-8dff-132bb4a8f7e9
+        title: Barney Hill
+        slug: barney-hill
+      - node_id: dd4a97ab-5ffd-41ec-8813-81a2c56f0ea1
+        title: Stanton Friedman
+        slug: stanton-friedman
+      - node_id: f1f0eba2-92c4-4a7c-9cd1-f8024d23c3df
+        title: David Saunders
+        slug: david-saunders
+    date: null
+    date_end: null
+    location_in_record: ch5:26832-27014
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: f0690aba-c78b-47f4-bb2f-f94ea04d55ee
+      record_title: 'Messengers of Deception: UFO Contacts and Cults'
+      record_date: '0101-01-01'
+      record_reference: null
+      content_hash: sha256:0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5ac9fd3168
+      friendly_name: 0101-01-01-ebook-messengers-of-deception-ufo-contacts-and-cults
+  - claim_id: bc2aaa16-9e7c-4ecd-a07b-62ac03a488f6
+    claim_hash: 2cd5f67a7c7b601886dc5baca22152ffe2779b278741782ca1018e86eed42ba5
+    content: Stanton Friedman and others gave lectures around the country showing slides of Marjorie Fish's model and the
+      original Hill map, implying that UFOs were real spacecraft originating on Zeta Reticuli.
+    original_excerpt: In many lectures around the country, Stanton Friedman and others have shown slides of the model and
+      the original map, and have impressed audiences with the resemblance, implying that UFOs were real spacecraft originating
+      on Zeta Reticuli.
+    claim_type: opinion
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: named
+      origin: Stanton Friedman
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 3a677a1c-da2b-44c6-a50b-ee45fe1e5f1a
+        title: Marjorie Fish
+        slug: marjorie-fish
+      - node_id: 8d520f17-8e2d-4901-9eba-00aa4881268b
+        title: Zeta Reticuli star map analysis
+        slug: zeta-reticuli-star-map-analysis
+      - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
+        title: Unidentified Flying Object (UFO)
+        slug: unidentified-flying-object-ufo
+      - node_id: dd4a97ab-5ffd-41ec-8813-81a2c56f0ea1
+        title: Stanton Friedman
+        slug: stanton-friedman
+    date: null
+    date_end: null
+    location_in_record: ch5:28661-28890
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: f0690aba-c78b-47f4-bb2f-f94ea04d55ee
+      record_title: 'Messengers of Deception: UFO Contacts and Cults'
+      record_date: '0101-01-01'
+      record_reference: null
+      content_hash: sha256:0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5ac9fd3168
+      friendly_name: 0101-01-01-ebook-messengers-of-deception-ufo-contacts-and-cults
+  - claim_id: 59f29135-6eab-444a-8f97-8fc59270800e
+    claim_hash: f080dc453de76ea3c693ce1b3f16ea984b48a533aa22b197f9ee3072f8e57b1b
+    content: Jacques Vallée believes people who attended Stanton Friedman's lectures on the Zeta Reticuli star map came away
+      feeling the UFO mystery had been solved, and considers them completely mistaken.
+    original_excerpt: People I have spoken to after such lectures came away with the feeling that the whole UFO mystery had
+      at last been solved. I believe they are completely mistaken.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
+      title: Jacques Vallée
+    provenance_chain:
+      origin_kind: speaker
+      origin: Jacques Vallée
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
+        title: Jacques Vallée
+        slug: jacques-vallee
+      - node_id: dd4a97ab-5ffd-41ec-8813-81a2c56f0ea1
+        title: Stanton Friedman
+        slug: stanton-friedman
+    date: null
+    date_end: null
+    location_in_record: ch5:28900-29053
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: f0690aba-c78b-47f4-bb2f-f94ea04d55ee
+      record_title: 'Messengers of Deception: UFO Contacts and Cults'
+      record_date: '0101-01-01'
+      record_reference: null
+      content_hash: sha256:0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5ac9fd3168
+      friendly_name: 0101-01-01-ebook-messengers-of-deception-ufo-contacts-and-cults
+  - claim_id: 5bbc4fd3-2f27-4063-9b70-aaa71ae5f2ff
+    claim_hash: 896d4aef074eb4097827d836c8f3cd2701104da4f71b8629326552f7cbc32093
+    content: Stanton Friedman, a long-time UFO researcher and nuclear physicist, went through Donald Menzel's papers as part
+      of his research for a book on the Majestic 12 documents and discovered that Menzel had led an elaborate double life.
+    original_excerpt: long-time UFO researcher (and nuclear physicist) Stanton Friedman went painstakingly through Menzel's
+      papers as part of his research for a book on the MJ 12 documents, and discovered that Menzel had led an elaborate double
+      life
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: dd4a97ab-5ffd-41ec-8813-81a2c56f0ea1
+      title: Stanton Friedman
+    provenance_chain:
+      origin_kind: speaker
+      origin: Stanton Friedman
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 93df8d48-8068-409a-a198-27e923af6cde
+        title: Majestic 12 (MJ-12)
+        slug: majestic-12-mj-12
+      - node_id: dd4a97ab-5ffd-41ec-8813-81a2c56f0ea1
+        title: Stanton Friedman
+        slug: stanton-friedman
+      - node_id: ec69e08d-062d-401c-9287-46a45fdc9b4d
+        title: Donald Menzel
+        slug: donald-menzel
+    date: null
+    date_end: null
+    location_in_record: ch12:71453-71676
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+      record_title: Dark Mission
+      record_date: '2010-07-22'
+      record_reference: null
+      content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+      friendly_name: null
+  - claim_id: 4c88887e-d711-4ed6-a300-f370dd92e4a1
+    claim_hash: 9402d15cb089f6335effeed6a0b1c3bbedca94cfa8232048de44b48b164119c6
+    content: Stanton Friedman found numerous references to Donald Menzel's participation in a variety of intelligence projects
+      and committees, including top-secret weapons programmes, that would have made Menzel an ideal candidate for Majestic
+      12.
+    original_excerpt: Friedman found numerous references to Menzel's participation in a variety of intelligence projects and
+      committees, including some top-secret weapons programs that would have made him an ideal candidate for MJ 12.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: dd4a97ab-5ffd-41ec-8813-81a2c56f0ea1
+      title: Stanton Friedman
+    provenance_chain:
+      origin_kind: speaker
+      origin: Stanton Friedman
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 93df8d48-8068-409a-a198-27e923af6cde
+        title: Majestic 12 (MJ-12)
+        slug: majestic-12-mj-12
+      - node_id: dd4a97ab-5ffd-41ec-8813-81a2c56f0ea1
+        title: Stanton Friedman
+        slug: stanton-friedman
+      - node_id: ec69e08d-062d-401c-9287-46a45fdc9b4d
+        title: Donald Menzel
+        slug: donald-menzel
+    date: null
+    date_end: null
+    location_in_record: ch12:71682-71891
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+      record_title: Dark Mission
+      record_date: '2010-07-22'
+      record_reference: null
+      content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+      friendly_name: null
+  - claim_id: 478aecf4-3309-4046-99da-e68e604c067f
+    claim_hash: f1459978eaeaaeee33207bc1485b701797cfa0df5a3b5898a73060222099638c
+    content: Stanton Friedman argues for the validity of the Majestic 12 documents and the existence of Majestic 12 itself.
+    original_excerpt: Friedman also makes a compelling argument for the validity of the MJ 12 documents, and the existence
+      of MJ 12 itself.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: dd4a97ab-5ffd-41ec-8813-81a2c56f0ea1
+      title: Stanton Friedman
+    provenance_chain:
+      origin_kind: speaker
+      origin: Stanton Friedman
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 93df8d48-8068-409a-a198-27e923af6cde
+        title: Majestic 12 (MJ-12)
+        slug: majestic-12-mj-12
+      - node_id: dd4a97ab-5ffd-41ec-8813-81a2c56f0ea1
+        title: Stanton Friedman
+        slug: stanton-friedman
+    date: null
+    date_end: null
+    location_in_record: ch12:71895-72005
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+      record_title: Dark Mission
+      record_date: '2010-07-22'
+      record_reference: null
+      content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+      friendly_name: null
+  - claim_id: d9b7742e-2c51-45e6-83ef-110f401a63f2
+    claim_hash: 28e5db797f0d02c0bc0be692a60d8f6c62615bbae07833dc99041e0956a8bc8d
+    content: John Petersen organised for Steven Greer and researcher Stanton Friedman to create the list of the 20 most significant
+      redacted documents.
+    original_excerpt: Petersen organised for Greer and researcher Stan Friedman to create the list of documents;
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 0d1a332e-df62-4c0e-94c9-4eba0e353e92
+      title: John Petersen
+    provenance_chain:
+      origin_kind: speaker
+      origin: John Petersen
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 0d1a332e-df62-4c0e-94c9-4eba0e353e92
+        title: John Petersen
+        slug: john-petersen
+      - node_id: dd4a97ab-5ffd-41ec-8813-81a2c56f0ea1
+        title: Stanton Friedman
+        slug: stanton-friedman
+      - node_id: e4389da4-1980-4cb6-b557-6c563f9b134a
+        title: Steven Greer
+        slug: steven-greer
+    date: null
+    date_end: null
+    location_in_record: ch14:5412-5492
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: a5a692f0-ca60-4743-9599-71c4b3d33cec
+    claim_hash: f9fa5bf10f8d6ef96bfdeff8c9b0d841a9fc272c3cf6310e756b9bf011127b27
+    content: Stanton Friedman alleged a 'cosmic Watergate cover-up' of a recovered alien spacecraft and alien bodies at Roswell.
+    original_excerpt: Friedman then alleged a ‘cosmic Watergate cover-up’ of a recovered alien spacecraft and alien bodies.
+    claim_type: opinion
+    attestation: second_hand
+    speaker:
+      node_id: dd4a97ab-5ffd-41ec-8813-81a2c56f0ea1
+      title: Stanton Friedman
+    provenance_chain:
+      origin_kind: named
+      origin: Stanton Friedman
+      relay:
+        - Jesse Marcel
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 95cefe75-5f57-4e57-b8bc-2dccc1d958aa
+        title: Watergate scandal
+        slug: watergate-scandal
+      - node_id: b8ea9860-ae6e-4835-8114-6a6626f28797
+        title: Roswell incident (1947)
+        slug: roswell-incident-1947
+      - node_id: dd4a97ab-5ffd-41ec-8813-81a2c56f0ea1
+        title: Stanton Friedman
+        slug: stanton-friedman
+    date: null
+    date_end: null
+    location_in_record: ch7:14325-14419
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 482de68a-2d9c-4950-a617-a06f3a3379f0
+    claim_hash: 8ff61f76ac4da68436b416be8ec0325601de18a028244417229e7e85313c1b81
+    content: Stanton Friedman has accused Donald Menzel of being a deep-cover disinformation agent tasked with shutting down
+      Unidentified Aerial Phenomena (UAP) stories.
+    original_excerpt: Researcher Stanton Friedman has accused Menzel of being a deep-cover disinformation agent tasked to
+      shut down UAP stories.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: dd4a97ab-5ffd-41ec-8813-81a2c56f0ea1
+      title: Stanton Friedman
+    provenance_chain:
+      origin_kind: speaker
+      origin: Stanton Friedman
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
+        title: Unidentified Anomalous Phenomena (UAP)
+        slug: unidentified-anomalous-phenomena-uap
+      - node_id: dd4a97ab-5ffd-41ec-8813-81a2c56f0ea1
+        title: Stanton Friedman
+        slug: stanton-friedman
+      - node_id: ec69e08d-062d-401c-9287-46a45fdc9b4d
+        title: Donald Menzel
+        slug: donald-menzel
+    date: null
+    date_end: null
+    location_in_record: ch7:22934-23048
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 01eb0d8f-069b-4c1b-9ddb-165bf42f056c
+    claim_hash: 0b1d579c3b6370d8159bac7713f47a62507f0be2a518c60580f1ebc6bc77c678
+    content: When later queried about UFOs by researcher Stanton Friedman, Jimmy Carter refused to discuss the matter at all.
+    original_excerpt: later, when queried about the matter by UFO researcher Stanton Friedman, he refused to discuss it at
+      all
+    claim_type: observation
+    attestation: null
+    speaker:
+      node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+      title: Whitley Strieber
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 898c410a-7789-4762-b6dd-1139ced89658
+        title: Jimmy Carter
+        slug: jimmy-carter
+      - node_id: dd4a97ab-5ffd-41ec-8813-81a2c56f0ea1
+        title: Stanton Friedman
+        slug: stanton-friedman
+    date: null
+    date_end: null
+    location_in_record: ch10:5873-5974
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 759e8d7b-a820-4e00-bdc3-9aebf9e4b1b1
+      record_title: The Fourth Mind
+      record_date: '2025-01-15'
+      record_reference: null
+      content_hash: sha256:524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008e17102e7
+      friendly_name: 2025-01-15-ebook-the-fourth-mind
+  - claim_id: f2aa0cf6-a1d8-493a-b9b6-4401843b59a5
+    claim_hash: 2c80994e56e35ce9748e581fc14421cea8e1d551feec6985da0292a99338e481
+    content: Whitley Strieber got in touch with Stanton Friedman, who put him in touch with Robert Sarbacher and, he believes,
+      also with Linda Moulton Howe and a number of other people.
+    original_excerpt: Because I got in touch with Stanton Friedman and he put me in touch with Robert Sarbacher and I believe
+      also with Linda and a number of other people.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+      title: Whitley Strieber
+    provenance_chain:
+      origin_kind: speaker
+      origin: Whitley Strieber
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 2116e8f0-ae1b-465d-a6d0-7b73f13db95a
+        title: Linda Moulton Howe
+        slug: linda-moulton-howe
+      - node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+        title: Whitley Strieber
+        slug: whitley-strieber
+      - node_id: caa4dc74-91cb-4bce-8c98-9575005932c1
+        title: Robert Sarbacher
+        slug: robert-sarbacher
+      - node_id: dd4a97ab-5ffd-41ec-8813-81a2c56f0ea1
+        title: Stanton Friedman
+        slug: stanton-friedman
+    date: null
+    date_end: null
+    location_in_record: 00:35:41.6-00:35:50.9
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 9302c6b2-133d-4cbb-adfa-5d1f0bd3e7ac
+      record_title: The Terrible Truth About the Visitors - Whitley Strieber | ep. 96
+      record_date: '2026-07-24'
+      record_reference: https://www.youtube.com/watch?v=Cv-sk4vt-qU
+      content_hash: sha256:456dbde0ab82ee8e216bdad2d1a0bf2a0b42622a167af19058f973050b035084
+      friendly_name: null
+  - claim_id: 21b4a707-2fc4-4b46-888b-5fca021d3e29
+    claim_hash: 4bfcbdcbc74cb12ab073a1bc279440826043560a55f7a9d8df9af8327272c201
+    content: Whitley Strieber considers it a mistake that he introduced Arthur Ernest Exon to Stanton T. Friedman.
+    original_excerpt: I made the mistake of introducing him to Stanton Friedman
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+      title: Whitley Strieber
+    provenance_chain:
+      origin_kind: speaker
+      origin: Whitley Strieber
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+        title: Whitley Strieber
+        slug: whitley-strieber
+      - node_id: 47723159-4fe3-4a12-a7db-62b47dc97ff8
+        title: Arthur Exon
+        slug: arthur-exon
+      - node_id: dd4a97ab-5ffd-41ec-8813-81a2c56f0ea1
+        title: Stanton Friedman
+        slug: stanton-friedman
+    date: null
+    date_end: null
+    location_in_record: 00:40:29.4-00:40:31.7
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 7e583a7d-790d-4cfe-bbee-95c3d542e67a
+      record_title: Whitley Strieber Reveals What 40 Years of Encounters Taught Him | Reality Check Rewind
+      record_date: '2026-08-14'
+      record_reference: https://www.youtube.com/watch?v=H7sJFNdgCI4
+      content_hash: sha256:17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c451793c5a628
+      friendly_name: null
+  - claim_id: 74b164fc-c62b-473a-bfe2-b6df9235ea93
+    claim_hash: cb2ba4a53c5024055fd944055d96b12accf5e26eb3dd6d3b794d369d50ce385d
+    content: Stanton T. Friedman gave the name Majestic 12 to a committee, and the name may have originated with him.
+    original_excerpt: There was a committee that Stanton Friedman called the Majestic 12, and that may have even been his
+      name. I don't know.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+      title: Whitley Strieber
+    provenance_chain:
+      origin_kind: speaker
+      origin: Whitley Strieber
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 94acebad-d864-4d15-b54c-52197eb9c4ad
+        title: Majestic 12
+        slug: majestic-12
+      - node_id: dd4a97ab-5ffd-41ec-8813-81a2c56f0ea1
+        title: Stanton Friedman
+        slug: stanton-friedman
+    date: null
+    date_end: null
+    location_in_record: 00:50:56.5-00:51:02.6
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 7e583a7d-790d-4cfe-bbee-95c3d542e67a
+      record_title: Whitley Strieber Reveals What 40 Years of Encounters Taught Him | Reality Check Rewind
+      record_date: '2026-08-14'
+      record_reference: https://www.youtube.com/watch?v=H7sJFNdgCI4
+      content_hash: sha256:17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c451793c5a628
+      friendly_name: null

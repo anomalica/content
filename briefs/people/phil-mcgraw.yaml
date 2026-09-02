@@ -1,0 +1,4258 @@
+schema: anomalica/brief/1
+brief_hash: 856881736914cb0c281fd01e526ad27f202112c61bc4a17851419366728506d0
+page:
+  kind: entity
+  node_id: b26a5e2e-9cb8-484e-92f8-d332245917b5
+  node_type: person
+  title: Phil McGraw
+  slug: phil-mcgraw
+  claim_count: 116
+  claim_count_total: 116
+generated:
+  graph_version: '2026-09-01T10:10:49.863545+00:00'
+size:
+  claims: 116
+  tokens_estimated: 32859
+  sized_against: 1050000
+publication:
+  status: published
+  note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
+    transcripts are gated elsewhere.
+belonging:
+  verified: 0
+  suspect_excluded: 0
+  unreviewed: 116
+related_nodes:
+  - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
+    title: Unidentified Anomalous Phenomena (UAP)
+    node_type: topic
+    slug: unidentified-anomalous-phenomena-uap
+    shared_claims: 29
+  - node_id: 816c219b-6372-49f6-9579-5eeabb9a7474
+    title: Donald Trump
+    node_type: person
+    slug: donald-trump
+    shared_claims: 7
+  - node_id: d4241f5a-1063-4970-ba02-5a391c02d96d
+    title: David Charles Grusch
+    node_type: person
+    slug: david-charles-grusch
+    shared_claims: 6
+  - node_id: fa4ba20c-867f-4754-b298-14b96e410072
+    title: Extraterrestrial hypothesis
+    node_type: topic
+    slug: extraterrestrial-hypothesis
+    shared_claims: 3
+  - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
+    title: Unidentified Flying Object (UFO)
+    node_type: topic
+    slug: unidentified-flying-object-ufo
+    shared_claims: 3
+  - node_id: 5d4966d1-e0f0-4c5c-b701-b48b4a2f13c1
+    title: Project MKUltra (MKUltra)
+    node_type: project
+    slug: project-mkultra-mkultra
+    shared_claims: 2
+  - node_id: 44f802b8-114b-40ef-906a-cb053ff33ffc
+    title: Voyager 2
+    node_type: object
+    slug: voyager-2
+    shared_claims: 2
+  - node_id: f6ed7abd-d94c-44c0-993a-144541b9ff6c
+    title: American Psychiatric Association
+    node_type: organisation
+    slug: american-psychiatric-association
+    shared_claims: 1
+  - node_id: 7fa3cf26-2383-4c6d-8583-b88d860d2a97
+    title: American Psychological Association (APA)
+    node_type: organisation
+    slug: american-psychological-association-apa
+    shared_claims: 1
+  - node_id: 4f594b97-57d8-439e-ae15-884627e69cf2
+    title: Andromeda Galaxy (M31)
+    node_type: object
+    slug: andromeda-galaxy-m31
+    shared_claims: 1
+  - node_id: 1d228903-0bd7-401a-9902-2656e6e85650
+    title: Anna Paulina Luna
+    node_type: person
+    slug: anna-paulina-luna
+    shared_claims: 1
+  - node_id: 6bb44638-8f37-4292-be02-dede7f8a57d9
+    title: Autism spectrum
+    node_type: topic
+    slug: autism-spectrum
+    shared_claims: 1
+  - node_id: 35fbce00-9df6-4cb4-a547-5286477dd95e
+    title: Blue Angels
+    node_type: organisation
+    slug: blue-angels
+    shared_claims: 1
+  - node_id: b7c5eee3-2752-4099-9a5c-ab5bf48ed6a4
+    title: Fourth tranche of Unidentified Flying Object (UFO) files (2026)
+    node_type: document
+    slug: fourth-tranche-of-unidentified-flying-object-ufo-files-2026
+    shared_claims: 1
+  - node_id: ed1ba0e4-6b81-434e-a03e-6f3d675f5344
+    title: Oprah Winfrey
+    node_type: person
+    slug: oprah-winfrey
+    shared_claims: 1
+  - node_id: 6f1baffa-e0e5-4368-adaa-0ea80a4e78b5
+    title: Presidential Commission for Religious Liberty
+    node_type: organisation
+    slug: presidential-commission-for-religious-liberty
+    shared_claims: 1
+  - node_id: 93fe290b-199f-418a-a3fe-715b41745a4c
+    title: Psychological operations (PSYOP)
+    node_type: topic
+    slug: psychological-operations-psyop
+    shared_claims: 1
+  - node_id: b4258228-aad1-462d-8757-27a3a99fdaaf
+    title: Reverse engineering of recovered craft of non-human origin
+    node_type: topic
+    slug: reverse-engineering-of-recovered-craft-of-non-human-origin
+    shared_claims: 1
+  - node_id: e0a197e9-f299-4903-ac82-5593e0915802
+    title: Robertson Panel
+    node_type: project
+    slug: robertson-panel
+    shared_claims: 1
+  - node_id: 7d0a9d14-858f-43e0-81a5-eb173422d291
+    title: Stephen Miller
+    node_type: person
+    slug: stephen-miller
+    shared_claims: 1
+  - node_id: 71b8e508-1c7b-4573-a68e-34c777cdeffa
+    title: Tim Burchett
+    node_type: person
+    slug: tim-burchett
+    shared_claims: 1
+claims:
+  - claim_id: 4e52d57d-71be-4cd8-8668-0cd5bdc8e70d
+    claim_hash: 32a15b6038229849b9e2b4c88904d6b772ea1d532d4ce2383cbbc5b3be808c55
+    content: As many as 71% of adults in America say they believe humanity is not alone in the universe.
+    original_excerpt: As many as 71% of the adults in America say they believe that we're not alone in the universe.
+    claim_type: measurement
+    attestation: first_hand
+    speaker:
+      node_id: b26a5e2e-9cb8-484e-92f8-d332245917b5
+      title: Phil McGraw
+    provenance_chain:
+      origin_kind: speaker
+      origin: Phil McGraw
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: b26a5e2e-9cb8-484e-92f8-d332245917b5
+        title: Phil McGraw
+        slug: phil-mcgraw
+    date: null
+    date_end: null
+    location_in_record: 00:02:17.3-00:02:24.0
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 5535742a-6d31-43e5-9188-4b57112f63cc
+      record_title: Dr. Phil read the UAP files before the public, here's what he found | Reality Check
+      record_date: '2026-07-21'
+      record_reference: https://www.youtube.com/watch?v=bhA-E57oQW8
+      content_hash: sha256:5e9a8cfd3f58f829fccdbc1cc057d06bed9f9e59e703cb29c1593e6e546ab532
+      friendly_name: null
+  - claim_id: 6914b312-cf50-44f9-987e-9ab47c38644f
+    claim_hash: 973749f9d676baec158e64b31902b0875260136cde071d6cba7b563018ed8774
+    content: Phil McGraw serves on the Presidential Commission for Religious Liberty.
+    original_excerpt: I serve on the Presidential Commission for Religious Liberty, and that involves the Department of Justice
+      and other departments that have to do with constitutional rights.
+    claim_type: administrative
+    attestation: first_hand
+    speaker:
+      node_id: b26a5e2e-9cb8-484e-92f8-d332245917b5
+      title: Phil McGraw
+    provenance_chain:
+      origin_kind: speaker
+      origin: Phil McGraw
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 6f1baffa-e0e5-4368-adaa-0ea80a4e78b5
+        title: Presidential Commission for Religious Liberty
+        slug: presidential-commission-for-religious-liberty
+      - node_id: b26a5e2e-9cb8-484e-92f8-d332245917b5
+        title: Phil McGraw
+        slug: phil-mcgraw
+    date: null
+    date_end: null
+    location_in_record: 00:04:06.6-00:04:19.8
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 5535742a-6d31-43e5-9188-4b57112f63cc
+      record_title: Dr. Phil read the UAP files before the public, here's what he found | Reality Check
+      record_date: '2026-07-21'
+      record_reference: https://www.youtube.com/watch?v=bhA-E57oQW8
+      content_hash: sha256:5e9a8cfd3f58f829fccdbc1cc057d06bed9f9e59e703cb29c1593e6e546ab532
+      friendly_name: null
+  - claim_id: 2b6785c6-f934-413c-bde2-08cbafde5c26
+    claim_hash: 39dcbacf517f7b9bfae26c5213abd55ec12d502b142bdc776ce00a81a7139ab0
+    content: The Presidential Commission for Religious Liberty involves the United States Department of Justice.
+    original_excerpt: I serve on the Presidential Commission for Religious Liberty, and that involves the Department of Justice
+      and other departments that have to do with constitutional rights.
+    claim_type: administrative
+    attestation: first_hand
+    speaker:
+      node_id: b26a5e2e-9cb8-484e-92f8-d332245917b5
+      title: Phil McGraw
+    provenance_chain:
+      origin_kind: speaker
+      origin: Phil McGraw
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 1a326b86-f1c8-4f08-9b2b-15944952e924
+        title: Department of Justice
+        slug: department-of-justice
+      - node_id: 6f1baffa-e0e5-4368-adaa-0ea80a4e78b5
+        title: Presidential Commission for Religious Liberty
+        slug: presidential-commission-for-religious-liberty
+    date: null
+    date_end: null
+    location_in_record: 00:04:06.6-00:04:19.8
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 5535742a-6d31-43e5-9188-4b57112f63cc
+      record_title: Dr. Phil read the UAP files before the public, here's what he found | Reality Check
+      record_date: '2026-07-21'
+      record_reference: https://www.youtube.com/watch?v=bhA-E57oQW8
+      content_hash: sha256:5e9a8cfd3f58f829fccdbc1cc057d06bed9f9e59e703cb29c1593e6e546ab532
+      friendly_name: null
+  - claim_id: d32623af-bef2-434b-a08f-ed8f6705fae1
+    claim_hash: 9431253d01fb1d6eed73514feaab1f7a29b831eef0b9c6d5461d62bb20efcae8
+    content: Phil McGraw has been broadcasting his television programme for 25 years.
+    original_excerpt: I've been on the air here 25 years talking about things that matter to people who care.
+    claim_type: administrative
+    attestation: first_hand
+    speaker:
+      node_id: b26a5e2e-9cb8-484e-92f8-d332245917b5
+      title: Phil McGraw
+    provenance_chain:
+      origin_kind: speaker
+      origin: Phil McGraw
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: b26a5e2e-9cb8-484e-92f8-d332245917b5
+        title: Phil McGraw
+        slug: phil-mcgraw
+    date: null
+    date_end: null
+    location_in_record: 00:04:29.1-00:04:35.2
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 5535742a-6d31-43e5-9188-4b57112f63cc
+      record_title: Dr. Phil read the UAP files before the public, here's what he found | Reality Check
+      record_date: '2026-07-21'
+      record_reference: https://www.youtube.com/watch?v=bhA-E57oQW8
+      content_hash: sha256:5e9a8cfd3f58f829fccdbc1cc057d06bed9f9e59e703cb29c1593e6e546ab532
+      friendly_name: null
+  - claim_id: 2f56d684-e8b8-4063-874e-1473fce23c99
+    claim_hash: ce0e9cac7fb527943ff06b9f0ac1b08adb0ef6a22ba0f6548f87426b972356eb
+    content: Credible people, including military pilots, commercial pilots, and people with trained instrumentation, made
+      observations of UFOs that were being suppressed.
+    original_excerpt: We had credible people, military pilots, commercial pilots, people with trained instrumentation that
+      were making observations that were being suppressed.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: b26a5e2e-9cb8-484e-92f8-d332245917b5
+      title: Phil McGraw
+    provenance_chain:
+      origin_kind: speaker
+      origin: Phil McGraw
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
+        title: Unidentified Flying Object (UFO)
+        slug: unidentified-flying-object-ufo
+    date: null
+    date_end: null
+    location_in_record: 00:05:43.1-00:05:55.6
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 5535742a-6d31-43e5-9188-4b57112f63cc
+      record_title: Dr. Phil read the UAP files before the public, here's what he found | Reality Check
+      record_date: '2026-07-21'
+      record_reference: https://www.youtube.com/watch?v=bhA-E57oQW8
+      content_hash: sha256:5e9a8cfd3f58f829fccdbc1cc057d06bed9f9e59e703cb29c1593e6e546ab532
+      friendly_name: null
+  - claim_id: 98ee8fd3-84aa-4e99-aacf-771eb89cc49f
+    claim_hash: 5894dc40202f1fadab01beea4ec7bda9c350dbc5f6059bcf80acfa2b6efa549f
+    content: Witnesses reporting UFO sightings were sometimes threatened with prison time.
+    original_excerpt: In fact, they were being threatened with prison time, with substantial fines, even with the Espionage
+      Act.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: b26a5e2e-9cb8-484e-92f8-d332245917b5
+      title: Phil McGraw
+    provenance_chain:
+      origin_kind: speaker
+      origin: Phil McGraw
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
+        title: Unidentified Flying Object (UFO)
+        slug: unidentified-flying-object-ufo
+    date: null
+    date_end: null
+    location_in_record: 00:05:56.7-00:06:06.7
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 5535742a-6d31-43e5-9188-4b57112f63cc
+      record_title: Dr. Phil read the UAP files before the public, here's what he found | Reality Check
+      record_date: '2026-07-21'
+      record_reference: https://www.youtube.com/watch?v=bhA-E57oQW8
+      content_hash: sha256:5e9a8cfd3f58f829fccdbc1cc057d06bed9f9e59e703cb29c1593e6e546ab532
+      friendly_name: null
+  - claim_id: 73171fb7-4491-491a-82b4-3028e82a0da1
+    claim_hash: cda4b839ae51b1a6c1bac5278313fca70c988ca7c375b739256ada875bea9283
+    content: Witnesses reporting UFO sightings were sometimes threatened with substantial fines.
+    original_excerpt: In fact, they were being threatened with prison time, with substantial fines, even with the Espionage
+      Act.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: b26a5e2e-9cb8-484e-92f8-d332245917b5
+      title: Phil McGraw
+    provenance_chain:
+      origin_kind: speaker
+      origin: Phil McGraw
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
+        title: Unidentified Flying Object (UFO)
+        slug: unidentified-flying-object-ufo
+    date: null
+    date_end: null
+    location_in_record: 00:05:56.7-00:06:06.7
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 5535742a-6d31-43e5-9188-4b57112f63cc
+      record_title: Dr. Phil read the UAP files before the public, here's what he found | Reality Check
+      record_date: '2026-07-21'
+      record_reference: https://www.youtube.com/watch?v=bhA-E57oQW8
+      content_hash: sha256:5e9a8cfd3f58f829fccdbc1cc057d06bed9f9e59e703cb29c1593e6e546ab532
+      friendly_name: null
+  - claim_id: bc9e5bc7-b770-4e12-807c-7c2d26bddc51
+    claim_hash: 8a588b4093d5dbcf7b0e57ef7edc34d2157775c9d3e4ff7b81fd2c4b9371c3e7
+    content: Witnesses reporting UFO sightings were sometimes threatened with prosecution under the Espionage Act.
+    original_excerpt: In fact, they were being threatened with prison time, with substantial fines, even with the Espionage
+      Act.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: b26a5e2e-9cb8-484e-92f8-d332245917b5
+      title: Phil McGraw
+    provenance_chain:
+      origin_kind: speaker
+      origin: Phil McGraw
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
+        title: Unidentified Flying Object (UFO)
+        slug: unidentified-flying-object-ufo
+      - node_id: d8586e8f-4cf1-4f04-9e31-de6aadb238a5
+        title: Espionage Act
+        slug: espionage-act
+    date: null
+    date_end: null
+    location_in_record: 00:05:56.7-00:06:06.7
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 5535742a-6d31-43e5-9188-4b57112f63cc
+      record_title: Dr. Phil read the UAP files before the public, here's what he found | Reality Check
+      record_date: '2026-07-21'
+      record_reference: https://www.youtube.com/watch?v=bhA-E57oQW8
+      content_hash: sha256:5e9a8cfd3f58f829fccdbc1cc057d06bed9f9e59e703cb29c1593e6e546ab532
+      friendly_name: null
+  - claim_id: 83c1bcc4-2c33-4587-acd7-e3097a9edef2
+    claim_hash: 0312bbae52907589c5802eefbd0cf52bb37a6913dcdbbf07188273dbe1a96d05
+    content: Documents due to be released contain gun camera footage relevant to UFO sightings.
+    original_excerpt: they certainly know that all of that is contained in the documents that are going to be released and
+      the gun cameras, the radar tracks that are going to be released.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: b26a5e2e-9cb8-484e-92f8-d332245917b5
+      title: Phil McGraw
+    provenance_chain:
+      origin_kind: speaker
+      origin: Phil McGraw
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
+        title: Unidentified Flying Object (UFO)
+        slug: unidentified-flying-object-ufo
+    date: null
+    date_end: null
+    location_in_record: 00:06:08.1-00:06:22.7
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 5535742a-6d31-43e5-9188-4b57112f63cc
+      record_title: Dr. Phil read the UAP files before the public, here's what he found | Reality Check
+      record_date: '2026-07-21'
+      record_reference: https://www.youtube.com/watch?v=bhA-E57oQW8
+      content_hash: sha256:5e9a8cfd3f58f829fccdbc1cc057d06bed9f9e59e703cb29c1593e6e546ab532
+      friendly_name: null
+  - claim_id: 0aa874f1-e8d3-4187-b50d-dbf95db27a4c
+    claim_hash: 248aadba75acd185a2aa69a036f2f3bb36769c5acd93bdcc3b3703db5ced06f7
+    content: Documents due to be released contain radar tracks relevant to UFO sightings.
+    original_excerpt: they certainly know that all of that is contained in the documents that are going to be released and
+      the gun cameras, the radar tracks that are going to be released.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: b26a5e2e-9cb8-484e-92f8-d332245917b5
+      title: Phil McGraw
+    provenance_chain:
+      origin_kind: speaker
+      origin: Phil McGraw
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
+        title: Unidentified Flying Object (UFO)
+        slug: unidentified-flying-object-ufo
+    date: null
+    date_end: null
+    location_in_record: 00:06:08.1-00:06:22.7
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 5535742a-6d31-43e5-9188-4b57112f63cc
+      record_title: Dr. Phil read the UAP files before the public, here's what he found | Reality Check
+      record_date: '2026-07-21'
+      record_reference: https://www.youtube.com/watch?v=bhA-E57oQW8
+      content_hash: sha256:5e9a8cfd3f58f829fccdbc1cc057d06bed9f9e59e703cb29c1593e6e546ab532
+      friendly_name: null
+  - claim_id: 0ef893ff-11bb-4c84-b2a6-61cfd6991325
+    claim_hash: 2a9fd6b1642d665eca705720477606268dde28e04dcb27d7fae27007526be6c8
+    content: Phil McGraw considers the historical suppression of UFO reports comparable to a psyop like those seen in past
+      war efforts where the media machine was co-opted to fabricate atrocities to gain public support.
+    original_excerpt: It's like a psyop that we've seen previously in war efforts when the entire media machine was co-opted
+      into convincing people to get behind the war effort by mimicking war atrocities that were completely made up just to
+      get people behind the war effort, that the same thing was going on concerning UAPs and UFOs.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: b26a5e2e-9cb8-484e-92f8-d332245917b5
+      title: Phil McGraw
+    provenance_chain:
+      origin_kind: speaker
+      origin: Phil McGraw
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
+        title: Unidentified Anomalous Phenomena (UAP)
+        slug: unidentified-anomalous-phenomena-uap
+      - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
+        title: Unidentified Flying Object (UFO)
+        slug: unidentified-flying-object-ufo
+    date: null
+    date_end: null
+    location_in_record: 00:06:33.3-00:06:58.2
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 5535742a-6d31-43e5-9188-4b57112f63cc
+      record_title: Dr. Phil read the UAP files before the public, here's what he found | Reality Check
+      record_date: '2026-07-21'
+      record_reference: https://www.youtube.com/watch?v=bhA-E57oQW8
+      content_hash: sha256:5e9a8cfd3f58f829fccdbc1cc057d06bed9f9e59e703cb29c1593e6e546ab532
+      friendly_name: null
+  - claim_id: 31e03982-fda7-473a-aa86-ae441cea2282
+    claim_hash: 11d83633e2b3408a848d4106c4e3089c6956512700482ae0dd173d0216286389
+    content: Phil McGraw considers there to be a fragmentation of UFO-related information within the United States government.
+    original_excerpt: there's something that's going on here that there's a fragmentation of this information within the United
+      States government.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: b26a5e2e-9cb8-484e-92f8-d332245917b5
+      title: Phil McGraw
+    provenance_chain:
+      origin_kind: speaker
+      origin: Phil McGraw
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
+        title: Unidentified Flying Object (UFO)
+        slug: unidentified-flying-object-ufo
+      - node_id: b26a5e2e-9cb8-484e-92f8-d332245917b5
+        title: Phil McGraw
+        slug: phil-mcgraw
+    date: null
+    date_end: null
+    location_in_record: 00:07:37.3-00:07:46.1
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 5535742a-6d31-43e5-9188-4b57112f63cc
+      record_title: Dr. Phil read the UAP files before the public, here's what he found | Reality Check
+      record_date: '2026-07-21'
+      record_reference: https://www.youtube.com/watch?v=bhA-E57oQW8
+      content_hash: sha256:5e9a8cfd3f58f829fccdbc1cc057d06bed9f9e59e703cb29c1593e6e546ab532
+      friendly_name: null
+  - claim_id: f306f25a-ca43-4d25-96c3-484414dab022
+    claim_hash: 5b20df4c2bbcc9b9e4410baf367c3e8736973548e3f80da35b8a9b80e7c7ab07
+    content: Phil McGraw considers that some people controlling UFO-related information treat the President of the United
+      States as though he were a temporary employee not given full candour.
+    original_excerpt: I think some of the people that are in control of this information kind of treat the president of the
+      United States as though he's a temp employee... I'm not sure how candid some of the people in control of this information
+      are with the boss, with the president of the United States
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: b26a5e2e-9cb8-484e-92f8-d332245917b5
+      title: Phil McGraw
+    provenance_chain:
+      origin_kind: speaker
+      origin: Phil McGraw
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 816c219b-6372-49f6-9579-5eeabb9a7474
+        title: Donald Trump
+        slug: donald-trump
+      - node_id: b26a5e2e-9cb8-484e-92f8-d332245917b5
+        title: Phil McGraw
+        slug: phil-mcgraw
+    date: null
+    date_end: null
+    location_in_record: 00:07:47.2-00:08:07.8
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 5535742a-6d31-43e5-9188-4b57112f63cc
+      record_title: Dr. Phil read the UAP files before the public, here's what he found | Reality Check
+      record_date: '2026-07-21'
+      record_reference: https://www.youtube.com/watch?v=bhA-E57oQW8
+      content_hash: sha256:5e9a8cfd3f58f829fccdbc1cc057d06bed9f9e59e703cb29c1593e6e546ab532
+      friendly_name: null
+  - claim_id: 1cbcd809-d1c5-4716-9f0d-17acdee3b36b
+    claim_hash: 5b9d558158e98cc72a701deb16974173b7de725bc1901be6f12f4154ed3758e7
+    content: Donald Trump has decided it is time for transparency regarding UFO disclosure.
+    original_excerpt: I think he has decided it's time for transparency.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: b26a5e2e-9cb8-484e-92f8-d332245917b5
+      title: Phil McGraw
+    provenance_chain:
+      origin_kind: speaker
+      origin: Phil McGraw
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 816c219b-6372-49f6-9579-5eeabb9a7474
+        title: Donald Trump
+        slug: donald-trump
+    date: null
+    date_end: null
+    location_in_record: 00:08:57.9-00:09:01.6
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 5535742a-6d31-43e5-9188-4b57112f63cc
+      record_title: Dr. Phil read the UAP files before the public, here's what he found | Reality Check
+      record_date: '2026-07-21'
+      record_reference: https://www.youtube.com/watch?v=bhA-E57oQW8
+      content_hash: sha256:5e9a8cfd3f58f829fccdbc1cc057d06bed9f9e59e703cb29c1593e6e546ab532
+      friendly_name: null
+  - claim_id: e68d2a8f-fb60-4834-8612-79a5c21ecc5e
+    claim_hash: 74a12e1a489bc09ec12bd63540c7c33d9d2576ff888dbc5001f062da61e60be4
+    content: Donald Trump signed an executive order to declassify and disclose UFO-related information to the American public.
+    original_excerpt: his executive order about this was very clear to declassify this information and disclose it to the
+      American public.
+    claim_type: administrative
+    attestation: first_hand
+    speaker:
+      node_id: b26a5e2e-9cb8-484e-92f8-d332245917b5
+      title: Phil McGraw
+    provenance_chain:
+      origin_kind: speaker
+      origin: Phil McGraw
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 816c219b-6372-49f6-9579-5eeabb9a7474
+        title: Donald Trump
+        slug: donald-trump
+    date: null
+    date_end: null
+    location_in_record: 00:09:15.4-00:09:23.3
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 5535742a-6d31-43e5-9188-4b57112f63cc
+      record_title: Dr. Phil read the UAP files before the public, here's what he found | Reality Check
+      record_date: '2026-07-21'
+      record_reference: https://www.youtube.com/watch?v=bhA-E57oQW8
+      content_hash: sha256:5e9a8cfd3f58f829fccdbc1cc057d06bed9f9e59e703cb29c1593e6e546ab532
+      friendly_name: null
+  - claim_id: 1760ef96-cd9a-4400-869a-58f84aac5d92
+    claim_hash: 227c062dbd603c34d3bbf88304c071d7332e7d0bba707ffd82616fcf00b3ea5e
+    content: A fourth tranche of UFO files has been released.
+    original_excerpt: We've got the fourth tranche of information out there right now.
+    claim_type: administrative
+    attestation: first_hand
+    speaker:
+      node_id: b26a5e2e-9cb8-484e-92f8-d332245917b5
+      title: Phil McGraw
+    provenance_chain:
+      origin_kind: speaker
+      origin: Phil McGraw
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: b7c5eee3-2752-4099-9a5c-ab5bf48ed6a4
+        title: Fourth tranche of Unidentified Flying Object (UFO) files (2026)
+        slug: fourth-tranche-of-unidentified-flying-object-ufo-files-2026
+    date: null
+    date_end: null
+    location_in_record: 00:11:00.3-00:11:04.6
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 5535742a-6d31-43e5-9188-4b57112f63cc
+      record_title: Dr. Phil read the UAP files before the public, here's what he found | Reality Check
+      record_date: '2026-07-21'
+      record_reference: https://www.youtube.com/watch?v=bhA-E57oQW8
+      content_hash: sha256:5e9a8cfd3f58f829fccdbc1cc057d06bed9f9e59e703cb29c1593e6e546ab532
+      friendly_name: null
+  - claim_id: 2c758af2-c69a-4106-ab64-7d1d41080884
+    claim_hash: b0b583597ad894f1cbf0ae761b55f671c4933ac142710474f6502f01744105d2
+    content: Phil McGraw reviewed the fourth tranche of UFO files before it became public.
+    original_excerpt: certainly in the one that we had the opportunity to dig into before it became public
+    claim_type: administrative
+    attestation: first_hand
+    speaker:
+      node_id: b26a5e2e-9cb8-484e-92f8-d332245917b5
+      title: Phil McGraw
+    provenance_chain:
+      origin_kind: speaker
+      origin: Phil McGraw
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: b26a5e2e-9cb8-484e-92f8-d332245917b5
+        title: Phil McGraw
+        slug: phil-mcgraw
+      - node_id: b7c5eee3-2752-4099-9a5c-ab5bf48ed6a4
+        title: Fourth tranche of Unidentified Flying Object (UFO) files (2026)
+        slug: fourth-tranche-of-unidentified-flying-object-ufo-files-2026
+    date: null
+    date_end: null
+    location_in_record: 00:11:12.4-00:11:16.7
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 5535742a-6d31-43e5-9188-4b57112f63cc
+      record_title: Dr. Phil read the UAP files before the public, here's what he found | Reality Check
+      record_date: '2026-07-21'
+      record_reference: https://www.youtube.com/watch?v=bhA-E57oQW8
+      content_hash: sha256:5e9a8cfd3f58f829fccdbc1cc057d06bed9f9e59e703cb29c1593e6e546ab532
+      friendly_name: null
+  - claim_id: abc8af2a-8e77-42a4-b960-0a36f39f27ce
+    claim_hash: 250094f8307f298ad4d7e082eb416f2e742dd74ac023db66ab6dd87603190ad8
+    content: Phil McGraw concludes from his review of the UFO files that there has been a massive cover-up.
+    original_excerpt: Number one, there has been a massive cover-up.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: b26a5e2e-9cb8-484e-92f8-d332245917b5
+      title: Phil McGraw
+    provenance_chain:
+      origin_kind: speaker
+      origin: Phil McGraw
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: b26a5e2e-9cb8-484e-92f8-d332245917b5
+        title: Phil McGraw
+        slug: phil-mcgraw
+    date: null
+    date_end: null
+    location_in_record: 00:11:19.2-00:11:21.0
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 5535742a-6d31-43e5-9188-4b57112f63cc
+      record_title: Dr. Phil read the UAP files before the public, here's what he found | Reality Check
+      record_date: '2026-07-21'
+      record_reference: https://www.youtube.com/watch?v=bhA-E57oQW8
+      content_hash: sha256:5e9a8cfd3f58f829fccdbc1cc057d06bed9f9e59e703cb29c1593e6e546ab532
+      friendly_name: null
+  - claim_id: 33773c86-2867-47eb-8409-2557eff0d055
+    claim_hash: 56c7446f915e96c98d52a0bd1fda6a1736d4c50fb54d6321024ce06569458901
+    content: Phil McGraw concludes there is no question there are unexplained phenomena occurring in the Earth's atmosphere.
+    original_excerpt: there's no question there are unexplained phenomenon happening in our atmosphere here.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: b26a5e2e-9cb8-484e-92f8-d332245917b5
+      title: Phil McGraw
+    provenance_chain:
+      origin_kind: speaker
+      origin: Phil McGraw
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
+        title: Unidentified Anomalous Phenomena (UAP)
+        slug: unidentified-anomalous-phenomena-uap
+      - node_id: b26a5e2e-9cb8-484e-92f8-d332245917b5
+        title: Phil McGraw
+        slug: phil-mcgraw
+    date: null
+    date_end: null
+    location_in_record: 00:11:23.6-00:11:31.7
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 5535742a-6d31-43e5-9188-4b57112f63cc
+      record_title: Dr. Phil read the UAP files before the public, here's what he found | Reality Check
+      record_date: '2026-07-21'
+      record_reference: https://www.youtube.com/watch?v=bhA-E57oQW8
+      content_hash: sha256:5e9a8cfd3f58f829fccdbc1cc057d06bed9f9e59e703cb29c1593e6e546ab532
+      friendly_name: null
+  - claim_id: 5dd00e4b-7340-4241-b171-af99dbfccf40
+    claim_hash: 6b3552c8b803e45d13d1c6dc6a14d386a5fb3ce18e0dc8e656ad8edd027314fd
+    content: Meta documented internally that it knew its social media platform was addictive to teenage users.
+    original_excerpt: we got into their documents and we read their words where they say, we know this is addictive.
+    claim_type: testimony
+    attestation: second_hand
+    speaker:
+      node_id: b26a5e2e-9cb8-484e-92f8-d332245917b5
+      title: Phil McGraw
+    provenance_chain:
+      origin_kind: document
+      origin: internal Meta documents
+      relay:
+        - reviewed by Phil McGraw
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 885f84cf-8e8e-4339-967d-e52be612bb9d
+        title: Meta
+        slug: meta
+    date: null
+    date_end: null
+    location_in_record: 00:12:11.0-00:12:17.1
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 5535742a-6d31-43e5-9188-4b57112f63cc
+      record_title: Dr. Phil read the UAP files before the public, here's what he found | Reality Check
+      record_date: '2026-07-21'
+      record_reference: https://www.youtube.com/watch?v=bhA-E57oQW8
+      content_hash: sha256:5e9a8cfd3f58f829fccdbc1cc057d06bed9f9e59e703cb29c1593e6e546ab532
+      friendly_name: null
+  - claim_id: 81475e7c-eecd-44ea-b073-95f1c65a2325
+    claim_hash: ac2e0fac0ee0a15d2cd55f861a109ed962ae386c70b3f1993896c0c2812af738
+    content: Meta documented internally that it knew its platform was contributing to poor mental health among preteens and
+      teens.
+    original_excerpt: We know this is contributing to poor mental health of our preteens and teens, but we're doing it anyway.
+    claim_type: testimony
+    attestation: second_hand
+    speaker:
+      node_id: b26a5e2e-9cb8-484e-92f8-d332245917b5
+      title: Phil McGraw
+    provenance_chain:
+      origin_kind: document
+      origin: internal Meta documents
+      relay:
+        - reviewed by Phil McGraw
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 885f84cf-8e8e-4339-967d-e52be612bb9d
+        title: Meta
+        slug: meta
+    date: null
+    date_end: null
+    location_in_record: 00:12:17.7-00:12:28.2
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 5535742a-6d31-43e5-9188-4b57112f63cc
+      record_title: Dr. Phil read the UAP files before the public, here's what he found | Reality Check
+      record_date: '2026-07-21'
+      record_reference: https://www.youtube.com/watch?v=bhA-E57oQW8
+      content_hash: sha256:5e9a8cfd3f58f829fccdbc1cc057d06bed9f9e59e703cb29c1593e6e546ab532
+      friendly_name: null
+  - claim_id: 770f3c59-13d2-48be-a8cc-e507a8a2faf6
+    claim_hash: d0510dcd510faeaa4e218271b06968f1eee03a278300c3d17fe6fdfa0dbb6949
+    content: In 1947, Lieutenant General Nathan Twining told the United States Army Air Forces that the phenomenon under investigation
+      was 'something real and not visionary or fictitious'.
+    original_excerpt: In 1947, Lieutenant General Nathan Twining told the Army Air Forces the phenomenon was, quote, something
+      real and not visionary or fictitious was going on.
+    claim_type: testimony
+    attestation: second_hand
+    speaker:
+      node_id: b26a5e2e-9cb8-484e-92f8-d332245917b5
+      title: Phil McGraw
+    provenance_chain:
+      origin_kind: document
+      origin: the 1947 Nathan Twining assessment
+      relay:
+        - read by Phil McGraw
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 32b98a17-be55-4b0f-8e10-9d377e1e8b33
+        title: United States Air Force (USAF)
+        slug: united-states-air-force-usaf
+      - node_id: a3925bc9-a1e4-4bb1-be08-39fd69b91bac
+        title: 1947 Nathan Twining assessment to the Army Air Forces
+        slug: 1947-nathan-twining-assessment-to-the-army-air-forces
+      - node_id: c143a414-e9d8-4dbb-940b-5152532f3f6a
+        title: Nathan Twining
+        slug: nathan-twining
+    date: '1947'
+    date_end: null
+    location_in_record: 00:12:45.2-00:12:58.5
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 5535742a-6d31-43e5-9188-4b57112f63cc
+      record_title: Dr. Phil read the UAP files before the public, here's what he found | Reality Check
+      record_date: '2026-07-21'
+      record_reference: https://www.youtube.com/watch?v=bhA-E57oQW8
+      content_hash: sha256:5e9a8cfd3f58f829fccdbc1cc057d06bed9f9e59e703cb29c1593e6e546ab532
+      friendly_name: null
+  - claim_id: de814c2e-12f9-458d-b92f-819d4aac1bc6
+    claim_hash: df6012b3eb9a46eb69da86c132ed9132aefd3dae861d2220d38ae7b65810d504
+    content: The United States Air Force denied for decades that Nathan Twining's 1947 assessment even existed.
+    original_excerpt: Well, the Air Force denied for decades that any such assessment even existed.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: b26a5e2e-9cb8-484e-92f8-d332245917b5
+      title: Phil McGraw
+    provenance_chain:
+      origin_kind: speaker
+      origin: Phil McGraw
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 32b98a17-be55-4b0f-8e10-9d377e1e8b33
+        title: United States Air Force (USAF)
+        slug: united-states-air-force-usaf
+      - node_id: a3925bc9-a1e4-4bb1-be08-39fd69b91bac
+        title: 1947 Nathan Twining assessment to the Army Air Forces
+        slug: 1947-nathan-twining-assessment-to-the-army-air-forces
+    date: null
+    date_end: null
+    location_in_record: 00:12:58.6-00:13:05.8
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 5535742a-6d31-43e5-9188-4b57112f63cc
+      record_title: Dr. Phil read the UAP files before the public, here's what he found | Reality Check
+      record_date: '2026-07-21'
+      record_reference: https://www.youtube.com/watch?v=bhA-E57oQW8
+      content_hash: sha256:5e9a8cfd3f58f829fccdbc1cc057d06bed9f9e59e703cb29c1593e6e546ab532
+      friendly_name: null
+  - claim_id: ec36506f-4715-4398-ac9b-00f3dba02351
+    claim_hash: 0b0925dd83a617ea7f9fff953b9ef25a3e689f576ca66b34118ebf78fbc04abc
+    content: In 1949, a classified conference was convened at Los Alamos, New Mexico, home of the Manhattan Project, to address
+      a wave of unexplained sightings over America's nuclear weapon sites.
+    original_excerpt: Then in 1949, a classified conference was convened at Los Alamos, home of the Manhattan Project, to
+      address a wave of unexplained sightings over America's nuclear weapon sites.
+    claim_type: administrative
+    attestation: first_hand
+    speaker:
+      node_id: b26a5e2e-9cb8-484e-92f8-d332245917b5
+      title: Phil McGraw
+    provenance_chain:
+      origin_kind: speaker
+      origin: Phil McGraw
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 1874dd82-5a6e-4fa4-9e6e-ecb5e72f0fe6
+        title: 1949 Los Alamos classified conference on unexplained sightings over nuclear sites
+        slug: 1949-los-alamos-classified-conference-on-unexplained-sightings-over-nuclear-sites
+      - node_id: 69fa2a03-b6bb-41c3-a745-dff92528671c
+        title: Manhattan Project
+        slug: manhattan-project
+      - node_id: 99b62ee0-a336-4919-9804-070632a0e1a3
+        title: USA, New Mexico, Los Alamos
+        slug: new-mexico-los-alamos-usa
+    date: '1949'
+    date_end: null
+    location_in_record: 00:13:17.9-00:13:30.7
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 5535742a-6d31-43e5-9188-4b57112f63cc
+      record_title: Dr. Phil read the UAP files before the public, here's what he found | Reality Check
+      record_date: '2026-07-21'
+      record_reference: https://www.youtube.com/watch?v=bhA-E57oQW8
+      content_hash: sha256:5e9a8cfd3f58f829fccdbc1cc057d06bed9f9e59e703cb29c1593e6e546ab532
+      friendly_name: null
+  - claim_id: 557c0935-d59b-429b-ae5e-d126db7d1084
+    claim_hash: d09adbbcae519914ad4c46c99900064b16655ecdf613777f0e4553846f19ea9f
+    content: There have been sightings of anomalous phenomena over the Pantex Plant nuclear site in Amarillo, Texas, in recent
+      years.
+    original_excerpt: This has continued as recently as just the last few years we've had sightings over Pantex up in Amarillo,
+      a nuclear site.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: b26a5e2e-9cb8-484e-92f8-d332245917b5
+      title: Phil McGraw
+    provenance_chain:
+      origin_kind: speaker
+      origin: Phil McGraw
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
+        title: Unidentified Anomalous Phenomena (UAP)
+        slug: unidentified-anomalous-phenomena-uap
+      - node_id: 7a8c7e46-0a25-4ddc-8b26-f9682570837c
+        title: USA, Texas, Pantex Plant, Amarillo
+        slug: texas-pantex-plant-amarillo-usa
+    date: null
+    date_end: null
+    location_in_record: 00:13:33.6-00:13:46.0
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 5535742a-6d31-43e5-9188-4b57112f63cc
+      record_title: Dr. Phil read the UAP files before the public, here's what he found | Reality Check
+      record_date: '2026-07-21'
+      record_reference: https://www.youtube.com/watch?v=bhA-E57oQW8
+      content_hash: sha256:5e9a8cfd3f58f829fccdbc1cc057d06bed9f9e59e703cb29c1593e6e546ab532
+      friendly_name: null
+  - claim_id: 38ee9e58-9c8f-4384-a506-2c6430f2d061
+    claim_hash: f1e961b3ab6952cb7af8a901b359a96fc1b9fb6f2f8ab2971822b163de5b0f8a
+    content: Five cities with nuclear concentrations have had a high incidence of verified UFO sightings over nuclear installations.
+    original_excerpt: We've got five cities with nuclear concentrations and they've had a high incidence of verified sightings
+      over our nuclear installations.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: b26a5e2e-9cb8-484e-92f8-d332245917b5
+      title: Phil McGraw
+    provenance_chain:
+      origin_kind: speaker
+      origin: Phil McGraw
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
+        title: Unidentified Flying Object (UFO)
+        slug: unidentified-flying-object-ufo
+    date: null
+    date_end: null
+    location_in_record: 00:13:47.2-00:13:55.8
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 5535742a-6d31-43e5-9188-4b57112f63cc
+      record_title: Dr. Phil read the UAP files before the public, here's what he found | Reality Check
+      record_date: '2026-07-21'
+      record_reference: https://www.youtube.com/watch?v=bhA-E57oQW8
+      content_hash: sha256:5e9a8cfd3f58f829fccdbc1cc057d06bed9f9e59e703cb29c1593e6e546ab532
+      friendly_name: null
+  - claim_id: cb7d4b21-18e8-439d-99c7-b2bd71c62ab9
+    claim_hash: 56b929aea07b6b5ac86f2114bd574cc7b898a089a4d891aeb675fa3c5fad2f8a
+    content: In 1953, the Central Intelligence Agency's Robertson Panel of scientists convened and recommended a public education
+      campaign built on publicising already-debunked UFO cases while saying nothing about unexplained ones.
+    original_excerpt: So 1953, the CIA's Robertson panel of scientists convened and recommended a public education campaign
+      built on one strategy, publicize the cases that have already been debunked and say nothing about the ones that haven't.
+    claim_type: administrative
+    attestation: first_hand
+    speaker:
+      node_id: b26a5e2e-9cb8-484e-92f8-d332245917b5
+      title: Phil McGraw
+    provenance_chain:
+      origin_kind: speaker
+      origin: Phil McGraw
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 38b84d4a-96df-4684-bb46-f6f64f392add
+        title: Central Intelligence Agency (CIA)
+        slug: central-intelligence-agency-cia
+      - node_id: 7b205c4a-aec5-40c3-b791-720527a39e42
+        title: 1953 Central Intelligence Agency (CIA) Robertson Panel convening
+        slug: 1953-central-intelligence-agency-cia-robertson-panel-convening
+      - node_id: e0a197e9-f299-4903-ac82-5593e0915802
+        title: Robertson Panel
+        slug: robertson-panel
+    date: '1953'
+    date_end: null
+    location_in_record: 00:14:01.2-00:14:17.4
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 5535742a-6d31-43e5-9188-4b57112f63cc
+      record_title: Dr. Phil read the UAP files before the public, here's what he found | Reality Check
+      record_date: '2026-07-21'
+      record_reference: https://www.youtube.com/watch?v=bhA-E57oQW8
+      content_hash: sha256:5e9a8cfd3f58f829fccdbc1cc057d06bed9f9e59e703cb29c1593e6e546ab532
+      friendly_name: null
+  - claim_id: bc03950c-07aa-4311-b11f-ca3b9dc83a58
+    claim_hash: 31e8c7add91cd1ca081d0542d6e668cb30de78ef3f0e2dbc910c5937d1aa549d
+    content: After realising that retired pilots fell outside their jurisdiction under JNAP 146, authorities issued JNAP 146E,
+      which extended restrictions to retired pilots.
+    original_excerpt: So they quickly did JNAP 146E, which did two things. It covered the retired and it imposed the Espionage
+      Act, which upped all of the stakes across the board.
+    claim_type: administrative
+    attestation: first_hand
+    speaker:
+      node_id: b26a5e2e-9cb8-484e-92f8-d332245917b5
+      title: Phil McGraw
+    provenance_chain:
+      origin_kind: speaker
+      origin: Phil McGraw
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 43733c83-a2d2-4cb1-97a5-01d53af679b7
+        title: JNAP 146E
+        slug: jnap-146e
+      - node_id: 8a62fefe-a6d0-478f-adb4-e3c139373740
+        title: JNAP 146
+        slug: jnap-146
+    date: null
+    date_end: null
+    location_in_record: 00:14:52.6-00:15:07.2
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 5535742a-6d31-43e5-9188-4b57112f63cc
+      record_title: Dr. Phil read the UAP files before the public, here's what he found | Reality Check
+      record_date: '2026-07-21'
+      record_reference: https://www.youtube.com/watch?v=bhA-E57oQW8
+      content_hash: sha256:5e9a8cfd3f58f829fccdbc1cc057d06bed9f9e59e703cb29c1593e6e546ab532
+      friendly_name: null
+  - claim_id: fcd86ba8-d286-476a-a47f-5a0d29a06981
+    claim_hash: e06ba3d223812aa7d5b705323dcdcb098b479b463d5de083148e20e1797c336d
+    content: JNAP 146E imposed the Espionage Act on the pilots it covered, increasing the legal stakes for disclosure.
+    original_excerpt: So they quickly did JNAP 146E, which did two things. It covered the retired and it imposed the Espionage
+      Act, which upped all of the stakes across the board.
+    claim_type: administrative
+    attestation: first_hand
+    speaker:
+      node_id: b26a5e2e-9cb8-484e-92f8-d332245917b5
+      title: Phil McGraw
+    provenance_chain:
+      origin_kind: speaker
+      origin: Phil McGraw
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 43733c83-a2d2-4cb1-97a5-01d53af679b7
+        title: JNAP 146E
+        slug: jnap-146e
+      - node_id: d8586e8f-4cf1-4f04-9e31-de6aadb238a5
+        title: Espionage Act
+        slug: espionage-act
+    date: null
+    date_end: null
+    location_in_record: 00:14:52.6-00:15:07.2
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 5535742a-6d31-43e5-9188-4b57112f63cc
+      record_title: Dr. Phil read the UAP files before the public, here's what he found | Reality Check
+      record_date: '2026-07-21'
+      record_reference: https://www.youtube.com/watch?v=bhA-E57oQW8
+      content_hash: sha256:5e9a8cfd3f58f829fccdbc1cc057d06bed9f9e59e703cb29c1593e6e546ab532
+      friendly_name: null
+  - claim_id: 5cc1aed6-9af9-4251-907c-1b3db968ffc5
+    claim_hash: b02ddc572195e252eab0917d1ae2dfda758dbc5e99b32d7a27ff52bfac9f70d1
+    content: Phil McGraw believes the redactions and cherry-picking of currently released UFO disclosures indicate an ongoing
+      tug-of-war to get to the full truth of what the government knows.
+    original_excerpt: I believe that the redactions and the cherry picking of what's being put out right now, I think it's
+      still a tug of war to get to the absolute truth of what they know.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: b26a5e2e-9cb8-484e-92f8-d332245917b5
+      title: Phil McGraw
+    provenance_chain:
+      origin_kind: speaker
+      origin: Phil McGraw
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: b26a5e2e-9cb8-484e-92f8-d332245917b5
+        title: Phil McGraw
+        slug: phil-mcgraw
+    date: null
+    date_end: null
+    location_in_record: 00:15:43.8-00:15:55.5
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 5535742a-6d31-43e5-9188-4b57112f63cc
+      record_title: Dr. Phil read the UAP files before the public, here's what he found | Reality Check
+      record_date: '2026-07-21'
+      record_reference: https://www.youtube.com/watch?v=bhA-E57oQW8
+      content_hash: sha256:5e9a8cfd3f58f829fccdbc1cc057d06bed9f9e59e703cb29c1593e6e546ab532
+      friendly_name: null
+  - claim_id: f806e866-8378-4237-a62f-fa9b36f39f24
+    claim_hash: 14246920a4bbc3a10a17084d4f429c52fbedcc122ead88794326e59bd6f7968f
+    content: Travelling to the Andromeda Galaxy at the speed of light would take approximately two and a half million years.
+    original_excerpt: to travel to the nearest galaxy, Andromeda, it would take two and a half million years traveling at
+      the speed of light.
+    claim_type: measurement
+    attestation: first_hand
+    speaker:
+      node_id: b26a5e2e-9cb8-484e-92f8-d332245917b5
+      title: Phil McGraw
+    provenance_chain:
+      origin_kind: speaker
+      origin: Phil McGraw
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 4341e6e9-f49b-4a5f-9775-b6211950d1b6
+        title: Andromeda Galaxy
+        slug: andromeda-galaxy
+    date: null
+    date_end: null
+    location_in_record: 00:19:08.0-00:19:14.2
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 5535742a-6d31-43e5-9188-4b57112f63cc
+      record_title: Dr. Phil read the UAP files before the public, here's what he found | Reality Check
+      record_date: '2026-07-21'
+      record_reference: https://www.youtube.com/watch?v=bhA-E57oQW8
+      content_hash: sha256:5e9a8cfd3f58f829fccdbc1cc057d06bed9f9e59e703cb29c1593e6e546ab532
+      friendly_name: null
+  - claim_id: 96001f4f-50bc-464a-88a5-67338a6682dc
+    claim_hash: 6f408cd7ec97f653f1977b9ae876f7b0470f33c429bb50d94f7236c9bcbc1701
+    content: The speed of light is approximately 300,000 kilometres per second.
+    original_excerpt: And that's 186,282 miles an hour.
+    claim_type: measurement
+    attestation: first_hand
+    speaker:
+      node_id: b26a5e2e-9cb8-484e-92f8-d332245917b5
+      title: Phil McGraw
+    provenance_chain:
+      origin_kind: speaker
+      origin: Phil McGraw
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs: []
+    date: null
+    date_end: null
+    location_in_record: 00:19:14.9-00:19:18.1
+    evidence:
+      score: null
+      independent_sources: 2
+    provenance:
+      record_id: 5535742a-6d31-43e5-9188-4b57112f63cc
+      record_title: Dr. Phil read the UAP files before the public, here's what he found | Reality Check
+      record_date: '2026-07-21'
+      record_reference: https://www.youtube.com/watch?v=bhA-E57oQW8
+      content_hash: sha256:5e9a8cfd3f58f829fccdbc1cc057d06bed9f9e59e703cb29c1593e6e546ab532
+      friendly_name: null
+  - claim_id: edc95677-34ff-4a93-890d-103ff05f1141
+    claim_hash: 3d916dcd0da73965045f23e20063c11c1723245e580953d57266c064ec8dd660
+    content: There is a time dilation theory under which a traveller could reach the Andromeda Galaxy in approximately two
+      and a half decades of subjective travel time, while roughly two and a half million years would pass on Earth.
+    original_excerpt: I know there's the time dilation theory where there's a theory under which you could actually get there
+      and two and a half decades or whatever but two and a half million years would have passed on earth if you did so
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: b26a5e2e-9cb8-484e-92f8-d332245917b5
+      title: Phil McGraw
+    provenance_chain:
+      origin_kind: speaker
+      origin: Phil McGraw
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 3fcf97ec-972c-47b7-b813-24c8c648ffba
+        title: Time dilation
+        slug: time-dilation
+      - node_id: 4341e6e9-f49b-4a5f-9775-b6211950d1b6
+        title: Andromeda Galaxy
+        slug: andromeda-galaxy
+    date: null
+    date_end: null
+    location_in_record: 00:19:25.8-00:19:40.6
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 5535742a-6d31-43e5-9188-4b57112f63cc
+      record_title: Dr. Phil read the UAP files before the public, here's what he found | Reality Check
+      record_date: '2026-07-21'
+      record_reference: https://www.youtube.com/watch?v=bhA-E57oQW8
+      content_hash: sha256:5e9a8cfd3f58f829fccdbc1cc057d06bed9f9e59e703cb29c1593e6e546ab532
+      friendly_name: null
+  - claim_id: e148a5de-ff0d-4c86-82ab-72b01859ba35
+    claim_hash: dadfb1f3e824e1075176f79306336764294b7ce775b33802ddca1878298d192c
+    content: Phil McGraw concludes that if a non-human entity has travelled here from outside our galaxy, it must be technologically
+      superior to humanity given the travel time involved.
+    original_excerpt: It that suggests that if someone has traveled here from outside our galaxy, you have to conclude that
+      they're technologically superior to us or they packed a hell of a lunch because it takes a long time to get here. And
+      that's technology we don't have. So that means they are technologically superior.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: b26a5e2e-9cb8-484e-92f8-d332245917b5
+      title: Phil McGraw
+    provenance_chain:
+      origin_kind: speaker
+      origin: Phil McGraw
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: b26a5e2e-9cb8-484e-92f8-d332245917b5
+        title: Phil McGraw
+        slug: phil-mcgraw
+    date: null
+    date_end: null
+    location_in_record: 00:19:47.0-00:20:12.0
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 5535742a-6d31-43e5-9188-4b57112f63cc
+      record_title: Dr. Phil read the UAP files before the public, here's what he found | Reality Check
+      record_date: '2026-07-21'
+      record_reference: https://www.youtube.com/watch?v=bhA-E57oQW8
+      content_hash: sha256:5e9a8cfd3f58f829fccdbc1cc057d06bed9f9e59e703cb29c1593e6e546ab532
+      friendly_name: null
+  - claim_id: f5a13b04-4f2c-48db-9bed-67a704ecd8da
+    claim_hash: ebd74dc5015b08ac09eeebca13e28e2cecf82298d7c0df9573a6776d124ad7c1
+    content: Phil McGraw considers the UFO information disclosed so far to have been provided without adequate context.
+    original_excerpt: you can't and this is already happening just with what's been given so far is it's being provided without
+      context
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: b26a5e2e-9cb8-484e-92f8-d332245917b5
+      title: Phil McGraw
+    provenance_chain:
+      origin_kind: speaker
+      origin: Phil McGraw
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
+        title: Unidentified Flying Object (UFO)
+        slug: unidentified-flying-object-ufo
+      - node_id: b26a5e2e-9cb8-484e-92f8-d332245917b5
+        title: Phil McGraw
+        slug: phil-mcgraw
+    date: null
+    date_end: null
+    location_in_record: 00:20:15.2-00:20:22.7
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 5535742a-6d31-43e5-9188-4b57112f63cc
+      record_title: Dr. Phil read the UAP files before the public, here's what he found | Reality Check
+      record_date: '2026-07-21'
+      record_reference: https://www.youtube.com/watch?v=bhA-E57oQW8
+      content_hash: sha256:5e9a8cfd3f58f829fccdbc1cc057d06bed9f9e59e703cb29c1593e6e546ab532
+      friendly_name: null
+  - claim_id: 166bdcf9-ed1f-46d2-942a-518d976f2f25
+    claim_hash: b2c46161415a01a926cd1dfb02be48a18de302d806f6568e8edf4daa47944785
+    content: Phil McGraw has been a pilot since he was 16 years old.
+    original_excerpt: i've been a pilot since i was 16
+    claim_type: administrative
+    attestation: first_hand
+    speaker:
+      node_id: b26a5e2e-9cb8-484e-92f8-d332245917b5
+      title: Phil McGraw
+    provenance_chain:
+      origin_kind: speaker
+      origin: Phil McGraw
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: b26a5e2e-9cb8-484e-92f8-d332245917b5
+        title: Phil McGraw
+        slug: phil-mcgraw
+    date: null
+    date_end: null
+    location_in_record: 00:20:30.1-00:20:31.6
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 5535742a-6d31-43e5-9188-4b57112f63cc
+      record_title: Dr. Phil read the UAP files before the public, here's what he found | Reality Check
+      record_date: '2026-07-21'
+      record_reference: https://www.youtube.com/watch?v=bhA-E57oQW8
+      content_hash: sha256:5e9a8cfd3f58f829fccdbc1cc057d06bed9f9e59e703cb29c1593e6e546ab532
+      friendly_name: null
+  - claim_id: 67cc27b1-7764-4117-9f04-b152b8e000c1
+    claim_hash: 5763f72469437326766fe71a5a19b513d19ce2a6f7b6613b409b20c49ca8b2c7
+    content: Phil McGraw considers the publicly released UFO videos to be intentionally grainy.
+    original_excerpt: I look at these, and by the way, they're, I think, intentionally grainy.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: b26a5e2e-9cb8-484e-92f8-d332245917b5
+      title: Phil McGraw
+    provenance_chain:
+      origin_kind: speaker
+      origin: Phil McGraw
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
+        title: Unidentified Flying Object (UFO)
+        slug: unidentified-flying-object-ufo
+      - node_id: b26a5e2e-9cb8-484e-92f8-d332245917b5
+        title: Phil McGraw
+        slug: phil-mcgraw
+    date: null
+    date_end: null
+    location_in_record: 00:20:43.5-00:20:46.8
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 5535742a-6d31-43e5-9188-4b57112f63cc
+      record_title: Dr. Phil read the UAP files before the public, here's what he found | Reality Check
+      record_date: '2026-07-21'
+      record_reference: https://www.youtube.com/watch?v=bhA-E57oQW8
+      content_hash: sha256:5e9a8cfd3f58f829fccdbc1cc057d06bed9f9e59e703cb29c1593e6e546ab532
+      friendly_name: null
+  - claim_id: 65a65ce2-725e-41b6-be09-48ceccd73cae
+    claim_hash: a1599ad9b00c68c455114dcce38586882419f57b17e8793602ae3c3c339fe569
+    content: Phil McGraw knows that very high resolution gun camera video and radar tracks exist that could be released.
+    original_excerpt: I know that there is existence of very high resolution gun camera video and radar tracks that can be
+      provided.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: b26a5e2e-9cb8-484e-92f8-d332245917b5
+      title: Phil McGraw
+    provenance_chain:
+      origin_kind: speaker
+      origin: Phil McGraw
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: b26a5e2e-9cb8-484e-92f8-d332245917b5
+        title: Phil McGraw
+        slug: phil-mcgraw
+    date: null
+    date_end: null
+    location_in_record: 00:20:49.0-00:20:59.2
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 5535742a-6d31-43e5-9188-4b57112f63cc
+      record_title: Dr. Phil read the UAP files before the public, here's what he found | Reality Check
+      record_date: '2026-07-21'
+      record_reference: https://www.youtube.com/watch?v=bhA-E57oQW8
+      content_hash: sha256:5e9a8cfd3f58f829fccdbc1cc057d06bed9f9e59e703cb29c1593e6e546ab532
+      friendly_name: null
+  - claim_id: b425cd99-89b3-4aec-9311-aa3bc4f5e7b5
+    claim_hash: 1d435e87508417a762a81cc60f816eeb7c934e0170743439070f7804d20e5f4f
+    content: Some UAP have been recorded on radar appearing to move at approximately 64,000 kilometres per hour and execute
+      a 90-degree turn.
+    original_excerpt: We have things that within context appear to be moving close to 40,000 miles an hour and making a right
+      turn. I mean a 90 degree right turn.
+    claim_type: measurement
+    attestation: first_hand
+    speaker:
+      node_id: b26a5e2e-9cb8-484e-92f8-d332245917b5
+      title: Phil McGraw
+    provenance_chain:
+      origin_kind: speaker
+      origin: Phil McGraw
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
+        title: Unidentified Anomalous Phenomena (UAP)
+        slug: unidentified-anomalous-phenomena-uap
+    date: null
+    date_end: null
+    location_in_record: 00:21:49.7-00:22:04.4
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 5535742a-6d31-43e5-9188-4b57112f63cc
+      record_title: Dr. Phil read the UAP files before the public, here's what he found | Reality Check
+      record_date: '2026-07-21'
+      record_reference: https://www.youtube.com/watch?v=bhA-E57oQW8
+      content_hash: sha256:5e9a8cfd3f58f829fccdbc1cc057d06bed9f9e59e703cb29c1593e6e546ab532
+      friendly_name: null
+  - claim_id: 40f317ed-338a-4ed5-b86c-335f1a40fc7f
+    claim_hash: b4db5ae09bc7724876fe023e53e4b7fd3cd511913102e820072a6e50064c7eff
+    content: Phil McGraw has flown with the Blue Angels and experienced forces of approximately 7.49 G.
+    original_excerpt: I've flown with the Blue Angels and we were pulling like 7.49 Gs at times.
+    claim_type: observation
+    attestation: first_hand
+    speaker:
+      node_id: b26a5e2e-9cb8-484e-92f8-d332245917b5
+      title: Phil McGraw
+    provenance_chain:
+      origin_kind: speaker
+      origin: Phil McGraw
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 35fbce00-9df6-4cb4-a547-5286477dd95e
+        title: Blue Angels
+        slug: blue-angels
+      - node_id: b26a5e2e-9cb8-484e-92f8-d332245917b5
+        title: Phil McGraw
+        slug: phil-mcgraw
+    date: null
+    date_end: null
+    location_in_record: 00:22:06.4-00:22:13.2
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 5535742a-6d31-43e5-9188-4b57112f63cc
+      record_title: Dr. Phil read the UAP files before the public, here's what he found | Reality Check
+      record_date: '2026-07-21'
+      record_reference: https://www.youtube.com/watch?v=bhA-E57oQW8
+      content_hash: sha256:5e9a8cfd3f58f829fccdbc1cc057d06bed9f9e59e703cb29c1593e6e546ab532
+      friendly_name: null
+  - claim_id: 0a1a1255-9d9e-40fe-b9b1-62ac3941291b
+    claim_hash: b697574f2fe17fe156b9eff7ee4c6e0a5085eb993ed5445fa953e38ee471f836
+    content: Estimates of the G-forces some UAP would experience, depending on configuration, range between 10,000 and one
+      million G.
+    original_excerpt: the estimates are, depending on how things were configured, that the G-forces would be somewhere between
+      10,000 and a million.
+    claim_type: measurement
+    attestation: first_hand
+    speaker:
+      node_id: b26a5e2e-9cb8-484e-92f8-d332245917b5
+      title: Phil McGraw
+    provenance_chain:
+      origin_kind: speaker
+      origin: Phil McGraw
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
+        title: Unidentified Anomalous Phenomena (UAP)
+        slug: unidentified-anomalous-phenomena-uap
+    date: null
+    date_end: null
+    location_in_record: 00:22:25.2-00:22:32.8
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 5535742a-6d31-43e5-9188-4b57112f63cc
+      record_title: Dr. Phil read the UAP files before the public, here's what he found | Reality Check
+      record_date: '2026-07-21'
+      record_reference: https://www.youtube.com/watch?v=bhA-E57oQW8
+      content_hash: sha256:5e9a8cfd3f58f829fccdbc1cc057d06bed9f9e59e703cb29c1593e6e546ab532
+      friendly_name: null
+  - claim_id: 7ee9bae0-2d42-4e9b-92c0-fcf3ff6ef0b0
+    claim_hash: c9bf34b4473831ac8105e716aa30a9182065a3a4ffa6795f658871205d42da99
+    content: The highest G-force ever tracked on a rocket sled was approximately 25 G for about half a second.
+    original_excerpt: I think the most that's ever been tracked was on a sled at around 25 G's for a half of a second or something.
+    claim_type: measurement
+    attestation: first_hand
+    speaker:
+      node_id: b26a5e2e-9cb8-484e-92f8-d332245917b5
+      title: Phil McGraw
+    provenance_chain:
+      origin_kind: speaker
+      origin: Phil McGraw
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs: []
+    date: null
+    date_end: null
+    location_in_record: 00:22:37.7-00:22:48.0
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 5535742a-6d31-43e5-9188-4b57112f63cc
+      record_title: Dr. Phil read the UAP files before the public, here's what he found | Reality Check
+      record_date: '2026-07-21'
+      record_reference: https://www.youtube.com/watch?v=bhA-E57oQW8
+      content_hash: sha256:5e9a8cfd3f58f829fccdbc1cc057d06bed9f9e59e703cb29c1593e6e546ab532
+      friendly_name: null
+  - claim_id: 6c7b0f36-cad5-4c25-9b28-25944b5df2a9
+    claim_hash: 9fdbcd47a85c8ca3b52166200e3e0e6b04f8d962e6562d19bcf66d0a2ec1a909
+    content: Phil McGraw considers that a human being would liquefy internally under the G-forces attributed to some UAP.
+    original_excerpt: I think you get anywhere near what they're talking about. we would liquefy inside that.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: b26a5e2e-9cb8-484e-92f8-d332245917b5
+      title: Phil McGraw
+    provenance_chain:
+      origin_kind: speaker
+      origin: Phil McGraw
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
+        title: Unidentified Anomalous Phenomena (UAP)
+        slug: unidentified-anomalous-phenomena-uap
+      - node_id: b26a5e2e-9cb8-484e-92f8-d332245917b5
+        title: Phil McGraw
+        slug: phil-mcgraw
+    date: null
+    date_end: null
+    location_in_record: 00:22:48.5-00:22:55.5
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 5535742a-6d31-43e5-9188-4b57112f63cc
+      record_title: Dr. Phil read the UAP files before the public, here's what he found | Reality Check
+      record_date: '2026-07-21'
+      record_reference: https://www.youtube.com/watch?v=bhA-E57oQW8
+      content_hash: sha256:5e9a8cfd3f58f829fccdbc1cc057d06bed9f9e59e703cb29c1593e6e546ab532
+      friendly_name: null
+  - claim_id: c1136e41-f7ee-49d5-8416-c55179df3e05
+    claim_hash: 2a18180a60dba4f4734d0381e7f959100197ed47b82d77771cd684b31639291a
+    content: Phil McGraw considers that current human metallurgy could not withstand the manoeuvres attributed to some UAP.
+    original_excerpt: we also don't have the metallurgy to have any kind of aircraft that it would look like a yard sale if
+      we turn.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: b26a5e2e-9cb8-484e-92f8-d332245917b5
+      title: Phil McGraw
+    provenance_chain:
+      origin_kind: speaker
+      origin: Phil McGraw
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
+        title: Unidentified Anomalous Phenomena (UAP)
+        slug: unidentified-anomalous-phenomena-uap
+      - node_id: b26a5e2e-9cb8-484e-92f8-d332245917b5
+        title: Phil McGraw
+        slug: phil-mcgraw
+    date: null
+    date_end: null
+    location_in_record: 00:22:55.8-00:23:03.0
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 5535742a-6d31-43e5-9188-4b57112f63cc
+      record_title: Dr. Phil read the UAP files before the public, here's what he found | Reality Check
+      record_date: '2026-07-21'
+      record_reference: https://www.youtube.com/watch?v=bhA-E57oQW8
+      content_hash: sha256:5e9a8cfd3f58f829fccdbc1cc057d06bed9f9e59e703cb29c1593e6e546ab532
+      friendly_name: null
+  - claim_id: 71df0c61-8608-4bb6-b167-fc6d6b846d2a
+    claim_hash: f0c82fcf28d78a162fb53ad76096d63c9e7f80dd4cd59c74311424b4a4acaed1
+    content: Phil McGraw has been practising as a psychologist for close to 50 years.
+    original_excerpt: I've been doing this for close to 50 years.
+    claim_type: administrative
+    attestation: first_hand
+    speaker:
+      node_id: b26a5e2e-9cb8-484e-92f8-d332245917b5
+      title: Phil McGraw
+    provenance_chain:
+      origin_kind: speaker
+      origin: Phil McGraw
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: b26a5e2e-9cb8-484e-92f8-d332245917b5
+        title: Phil McGraw
+        slug: phil-mcgraw
+    date: null
+    date_end: null
+    location_in_record: 00:23:56.8-00:23:58.8
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 5535742a-6d31-43e5-9188-4b57112f63cc
+      record_title: Dr. Phil read the UAP files before the public, here's what he found | Reality Check
+      record_date: '2026-07-21'
+      record_reference: https://www.youtube.com/watch?v=bhA-E57oQW8
+      content_hash: sha256:5e9a8cfd3f58f829fccdbc1cc057d06bed9f9e59e703cb29c1593e6e546ab532
+      friendly_name: null
+  - claim_id: a116b3b8-5189-4897-a287-d5d2680d8915
+    claim_hash: 6d755f4196fac03d1d9bce2061f5cf040d47e75be96c78aedf451b2c8b4e9cab
+    content: Phil McGraw considers sudden, violent loss of a child to be the most severe stressor a person can experience.
+    original_excerpt: the highest stress within that category is sudden loss of a child. And then number one within that subset
+      is violent and sudden loss of a child.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: b26a5e2e-9cb8-484e-92f8-d332245917b5
+      title: Phil McGraw
+    provenance_chain:
+      origin_kind: speaker
+      origin: Phil McGraw
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: b26a5e2e-9cb8-484e-92f8-d332245917b5
+        title: Phil McGraw
+        slug: phil-mcgraw
+    date: null
+    date_end: null
+    location_in_record: 00:24:32.3-00:24:42.4
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 5535742a-6d31-43e5-9188-4b57112f63cc
+      record_title: Dr. Phil read the UAP files before the public, here's what he found | Reality Check
+      record_date: '2026-07-21'
+      record_reference: https://www.youtube.com/watch?v=bhA-E57oQW8
+      content_hash: sha256:5e9a8cfd3f58f829fccdbc1cc057d06bed9f9e59e703cb29c1593e6e546ab532
+      friendly_name: null
+  - claim_id: 0dc8393e-84ef-42b9-8dd1-fb6143ab579b
+    claim_hash: 0d3ad52e3edc385be11773421d55d1d673feac5f71f54af036136b68007114a8
+    content: Phil McGraw considers the best predictor of future behaviour to be relevant past behaviour, a fundamental principle
+      of psychological science.
+    original_excerpt: One of the most fundamental principles of psychological science is that the best predictor of future
+      behavior is relevant past behavior.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: b26a5e2e-9cb8-484e-92f8-d332245917b5
+      title: Phil McGraw
+    provenance_chain:
+      origin_kind: speaker
+      origin: Phil McGraw
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: b26a5e2e-9cb8-484e-92f8-d332245917b5
+        title: Phil McGraw
+        slug: phil-mcgraw
+    date: null
+    date_end: null
+    location_in_record: 00:25:13.8-00:25:21.5
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 5535742a-6d31-43e5-9188-4b57112f63cc
+      record_title: Dr. Phil read the UAP files before the public, here's what he found | Reality Check
+      record_date: '2026-07-21'
+      record_reference: https://www.youtube.com/watch?v=bhA-E57oQW8
+      content_hash: sha256:5e9a8cfd3f58f829fccdbc1cc057d06bed9f9e59e703cb29c1593e6e546ab532
+      friendly_name: null
+  - claim_id: a4f50c62-4a54-4b56-96ff-45273ebc0c63
+    claim_hash: 96ab053a84120faae14c177b64e9ad00538b06e33d5e7703bf6e90072279e60b
+    content: Phil McGraw considers non-earth, non-earthly origin intelligence to have perpetrated no horrible or evil acts
+      of violence against humanity so far as is known.
+    original_excerpt: So far as we know, they have perpetrated no horrible, evil acts of violence on us.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: b26a5e2e-9cb8-484e-92f8-d332245917b5
+      title: Phil McGraw
+    provenance_chain:
+      origin_kind: speaker
+      origin: Phil McGraw
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: b26a5e2e-9cb8-484e-92f8-d332245917b5
+        title: Phil McGraw
+        slug: phil-mcgraw
+    date: null
+    date_end: null
+    location_in_record: 00:26:28.2-00:26:36.1
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 5535742a-6d31-43e5-9188-4b57112f63cc
+      record_title: Dr. Phil read the UAP files before the public, here's what he found | Reality Check
+      record_date: '2026-07-21'
+      record_reference: https://www.youtube.com/watch?v=bhA-E57oQW8
+      content_hash: sha256:5e9a8cfd3f58f829fccdbc1cc057d06bed9f9e59e703cb29c1593e6e546ab532
+      friendly_name: null
+  - claim_id: 1d1bbe41-80a7-46f7-b6f3-4be29151a4df
+    claim_hash: cd7820c3ebc427647859d66ae19742c6307a40f9c754de5ef6c49ec3a0b41ce2
+    content: Phil McGraw infers non-aggression from whatever non-human presence may be engaging with the earth, based on its
+      past behaviour.
+    original_excerpt: So I think we have to rely on an inference of non-aggression from whatever this presence may be.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: b26a5e2e-9cb8-484e-92f8-d332245917b5
+      title: Phil McGraw
+    provenance_chain:
+      origin_kind: speaker
+      origin: Phil McGraw
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: b26a5e2e-9cb8-484e-92f8-d332245917b5
+        title: Phil McGraw
+        slug: phil-mcgraw
+    date: null
+    date_end: null
+    location_in_record: 00:27:00.5-00:27:09.3
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 5535742a-6d31-43e5-9188-4b57112f63cc
+      record_title: Dr. Phil read the UAP files before the public, here's what he found | Reality Check
+      record_date: '2026-07-21'
+      record_reference: https://www.youtube.com/watch?v=bhA-E57oQW8
+      content_hash: sha256:5e9a8cfd3f58f829fccdbc1cc057d06bed9f9e59e703cb29c1593e6e546ab532
+      friendly_name: null
+  - claim_id: ed425a88-7352-4f5c-94d2-9beab1741c52
+    claim_hash: 8f209868ecf5c84193a084a50669d3ed3f3c894ac10029d55dcba3566c8bd000
+    content: Searches for Unidentified Aerial Phenomena (UAP) increased by approximately 400% after Phil McGraw began discussing
+      the topic.
+    original_excerpt: I was amused to see that searches for UAPs, I think it went up 400% when you started talking about it.
+    claim_type: measurement
+    attestation: first_hand
+    speaker:
+      node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+      title: Ross Coulthart
+    provenance_chain:
+      origin_kind: speaker
+      origin: Ross Coulthart
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
+        title: Unidentified Anomalous Phenomena (UAP)
+        slug: unidentified-anomalous-phenomena-uap
+      - node_id: b26a5e2e-9cb8-484e-92f8-d332245917b5
+        title: Phil McGraw
+        slug: phil-mcgraw
+    date: null
+    date_end: null
+    location_in_record: 00:27:13.8-00:27:20.7
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 5535742a-6d31-43e5-9188-4b57112f63cc
+      record_title: Dr. Phil read the UAP files before the public, here's what he found | Reality Check
+      record_date: '2026-07-21'
+      record_reference: https://www.youtube.com/watch?v=bhA-E57oQW8
+      content_hash: sha256:5e9a8cfd3f58f829fccdbc1cc057d06bed9f9e59e703cb29c1593e6e546ab532
+      friendly_name: null
+  - claim_id: 756ae442-7d44-40f6-8405-e6e98cc1f707
+    claim_hash: 567d228248cee596906f38ca8fac6090cbb70c64b41e72ef3b894688b879e773
+    content: Phil McGraw considers that some observed unidentified phenomena, if reverse engineered, could relate to the concealment
+      of non-human intelligences engaging with the planet driven by money and power.
+    original_excerpt: Well, I guess it goes back to follow the money and follow the power.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: b26a5e2e-9cb8-484e-92f8-d332245917b5
+      title: Phil McGraw
+    provenance_chain:
+      origin_kind: speaker
+      origin: Phil McGraw
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: b26a5e2e-9cb8-484e-92f8-d332245917b5
+        title: Phil McGraw
+        slug: phil-mcgraw
+    date: null
+    date_end: null
+    location_in_record: 00:27:57.8-00:28:05.0
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 5535742a-6d31-43e5-9188-4b57112f63cc
+      record_title: Dr. Phil read the UAP files before the public, here's what he found | Reality Check
+      record_date: '2026-07-21'
+      record_reference: https://www.youtube.com/watch?v=bhA-E57oQW8
+      content_hash: sha256:5e9a8cfd3f58f829fccdbc1cc057d06bed9f9e59e703cb29c1593e6e546ab532
+      friendly_name: null
+  - claim_id: 953e05b9-5590-45d9-b3b6-fd3fdacb0007
+    claim_hash: 58ac2419e73e460497ce060beded114a1d08750169c4c8309bffd974a6a5c3ed
+    content: Unnamed experts told Phil McGraw that some of the observed unidentified phenomena do not leave a heat signature.
+    original_excerpt: I guess if you could, in fact, reverse engineer some of the things that we have observed, some of these
+      things don't leave a heat signature.
+    claim_type: hearsay
+    attestation: second_hand
+    speaker:
+      node_id: b26a5e2e-9cb8-484e-92f8-d332245917b5
+      title: Phil McGraw
+    provenance_chain:
+      origin_kind: anonymous
+      origin: unnamed experts consulted by Phil McGraw
+      relay:
+        - Phil McGraw
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: b26a5e2e-9cb8-484e-92f8-d332245917b5
+        title: Phil McGraw
+        slug: phil-mcgraw
+    date: null
+    date_end: null
+    location_in_record: 00:28:05.8-00:28:20.8
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 5535742a-6d31-43e5-9188-4b57112f63cc
+      record_title: Dr. Phil read the UAP files before the public, here's what he found | Reality Check
+      record_date: '2026-07-21'
+      record_reference: https://www.youtube.com/watch?v=bhA-E57oQW8
+      content_hash: sha256:5e9a8cfd3f58f829fccdbc1cc057d06bed9f9e59e703cb29c1593e6e546ab532
+      friendly_name: null
+  - claim_id: 5ad1db6f-3b16-4799-ae46-80a56631b28f
+    claim_hash: 80757b4351d01aeb5df5590b4d0967ee406a2ce937c65a9b99ec634c980cdbb3
+    content: Unnamed experts told Phil McGraw that some of the observed unidentified phenomena do not exhibit obvious or known
+      methods of propulsion.
+    original_excerpt: Some of them don't exhibit... obvious or known methods of propulsion. And I'm just going on what the
+      experts are telling me.
+    claim_type: hearsay
+    attestation: second_hand
+    speaker:
+      node_id: b26a5e2e-9cb8-484e-92f8-d332245917b5
+      title: Phil McGraw
+    provenance_chain:
+      origin_kind: anonymous
+      origin: unnamed experts consulted by Phil McGraw
+      relay:
+        - Phil McGraw
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: b26a5e2e-9cb8-484e-92f8-d332245917b5
+        title: Phil McGraw
+        slug: phil-mcgraw
+    date: null
+    date_end: null
+    location_in_record: 00:28:22.4-00:28:34.4
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 5535742a-6d31-43e5-9188-4b57112f63cc
+      record_title: Dr. Phil read the UAP files before the public, here's what he found | Reality Check
+      record_date: '2026-07-21'
+      record_reference: https://www.youtube.com/watch?v=bhA-E57oQW8
+      content_hash: sha256:5e9a8cfd3f58f829fccdbc1cc057d06bed9f9e59e703cb29c1593e6e546ab532
+      friendly_name: null
+  - claim_id: 92802c11-027f-4635-844b-16b5ac10e02f
+    claim_hash: 1ed45db1a7ea839bda10db083f8e96c2303b15b32765364a4364f60f51521dd7
+    content: Phil McGraw states that he is not a quantitative scientist and that quantitative analysis is not his area of
+      expertise.
+    original_excerpt: As I say, I'm not a quantitative scientist. I can't add two and two and get five every time. So that's
+      not my area.
+    claim_type: administrative
+    attestation: first_hand
+    speaker:
+      node_id: b26a5e2e-9cb8-484e-92f8-d332245917b5
+      title: Phil McGraw
+    provenance_chain:
+      origin_kind: speaker
+      origin: Phil McGraw
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: b26a5e2e-9cb8-484e-92f8-d332245917b5
+        title: Phil McGraw
+        slug: phil-mcgraw
+    date: null
+    date_end: null
+    location_in_record: 00:28:34.7-00:28:43.3
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 5535742a-6d31-43e5-9188-4b57112f63cc
+      record_title: Dr. Phil read the UAP files before the public, here's what he found | Reality Check
+      record_date: '2026-07-21'
+      record_reference: https://www.youtube.com/watch?v=bhA-E57oQW8
+      content_hash: sha256:5e9a8cfd3f58f829fccdbc1cc057d06bed9f9e59e703cb29c1593e6e546ab532
+      friendly_name: null
+  - claim_id: ef303487-d0f4-4843-aebc-0d8d46894cb7
+    claim_hash: 94a62fce200acd09c50daa88aafa3ec19728699b1f02d1e355e133c65843577e
+    content: Phil McGraw considers himself skilled at seeking out and finding people who know more about unidentified phenomena
+      than he does, and at judging whether they are legitimate and telling the truth.
+    original_excerpt: But I do know how to seek out and find people that know more about it than I do. And I'm a pretty good
+      judge of horseflesh in determining whether they're legitimate and are telling the truth or not.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: b26a5e2e-9cb8-484e-92f8-d332245917b5
+      title: Phil McGraw
+    provenance_chain:
+      origin_kind: speaker
+      origin: Phil McGraw
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: b26a5e2e-9cb8-484e-92f8-d332245917b5
+        title: Phil McGraw
+        slug: phil-mcgraw
+    date: null
+    date_end: null
+    location_in_record: 00:28:43.8-00:28:58.1
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 5535742a-6d31-43e5-9188-4b57112f63cc
+      record_title: Dr. Phil read the UAP files before the public, here's what he found | Reality Check
+      record_date: '2026-07-21'
+      record_reference: https://www.youtube.com/watch?v=bhA-E57oQW8
+      content_hash: sha256:5e9a8cfd3f58f829fccdbc1cc057d06bed9f9e59e703cb29c1593e6e546ab532
+      friendly_name: null
+  - claim_id: f10d4927-fcce-403a-a341-69df0ecb5fbb
+    claim_hash: 331c029ebdc6447c4557ce7e3a92a73d0440206a9d60fd514abc5818c1a7fe05
+    content: Credible people have told Phil McGraw that there are genuinely unexplainable things going on regarding Unidentified
+      Aerial Phenomena (UAP).
+    original_excerpt: And credible people are telling me that we truly do have some unexplainable things going on.
+    claim_type: hearsay
+    attestation: second_hand
+    speaker:
+      node_id: b26a5e2e-9cb8-484e-92f8-d332245917b5
+      title: Phil McGraw
+    provenance_chain:
+      origin_kind: anonymous
+      origin: unnamed credible people who spoke to Phil McGraw
+      relay:
+        - Phil McGraw
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
+        title: Unidentified Anomalous Phenomena (UAP)
+        slug: unidentified-anomalous-phenomena-uap
+      - node_id: b26a5e2e-9cb8-484e-92f8-d332245917b5
+        title: Phil McGraw
+        slug: phil-mcgraw
+    date: null
+    date_end: null
+    location_in_record: 00:28:58.8-00:29:08.9
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 5535742a-6d31-43e5-9188-4b57112f63cc
+      record_title: Dr. Phil read the UAP files before the public, here's what he found | Reality Check
+      record_date: '2026-07-21'
+      record_reference: https://www.youtube.com/watch?v=bhA-E57oQW8
+      content_hash: sha256:5e9a8cfd3f58f829fccdbc1cc057d06bed9f9e59e703cb29c1593e6e546ab532
+      friendly_name: null
+  - claim_id: 24fdb2eb-4ae7-48c4-b920-f810a0d71122
+    claim_hash: 87ce8724861f7e6ac29847de29f7c48afbda02487aee61904310124fad9b272d
+    content: Phil McGraw considers that reverse engineering and replicating the propulsion and navigation systems of the observed
+      phenomena could wipe out the oil and gas industry.
+    original_excerpt: Now think about if you could reverse engineer and then replicate these propulsion navigation systems,
+      all of this ability to make these turns and not leave a heat signature and do all the things that they're doing, my
+      God, that would wipe out the oil and gas industry.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: b26a5e2e-9cb8-484e-92f8-d332245917b5
+      title: Phil McGraw
+    provenance_chain:
+      origin_kind: speaker
+      origin: Phil McGraw
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: b26a5e2e-9cb8-484e-92f8-d332245917b5
+        title: Phil McGraw
+        slug: phil-mcgraw
+    date: null
+    date_end: null
+    location_in_record: 00:29:09.0-00:29:36.0
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 5535742a-6d31-43e5-9188-4b57112f63cc
+      record_title: Dr. Phil read the UAP files before the public, here's what he found | Reality Check
+      record_date: '2026-07-21'
+      record_reference: https://www.youtube.com/watch?v=bhA-E57oQW8
+      content_hash: sha256:5e9a8cfd3f58f829fccdbc1cc057d06bed9f9e59e703cb29c1593e6e546ab532
+      friendly_name: null
+  - claim_id: 7defba88-0803-4367-8c10-8eedb1f46546
+    claim_hash: c0e3d767ebab9496cba19d6c0ecbd89057d92d40fc1bb5947e7f9e4b4276b9a8
+    content: Phil McGraw considers that reverse engineering the observed phenomena's propulsion systems could wipe out nuclear
+      power energy.
+    original_excerpt: It could wipe out nuclear power energy.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: b26a5e2e-9cb8-484e-92f8-d332245917b5
+      title: Phil McGraw
+    provenance_chain:
+      origin_kind: speaker
+      origin: Phil McGraw
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: b26a5e2e-9cb8-484e-92f8-d332245917b5
+        title: Phil McGraw
+        slug: phil-mcgraw
+    date: null
+    date_end: null
+    location_in_record: 00:29:36.5-00:29:38.4
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 5535742a-6d31-43e5-9188-4b57112f63cc
+      record_title: Dr. Phil read the UAP files before the public, here's what he found | Reality Check
+      record_date: '2026-07-21'
+      record_reference: https://www.youtube.com/watch?v=bhA-E57oQW8
+      content_hash: sha256:5e9a8cfd3f58f829fccdbc1cc057d06bed9f9e59e703cb29c1593e6e546ab532
+      friendly_name: null
+  - claim_id: 6a56d1ec-70ca-4dee-a010-c3c0979e716b
+    claim_hash: b33e0842d947cbbd971d9e6acb4f4327abac5c14d89abb2592d2a1b22befbcd2
+    content: Phil McGraw considers that someone hoping to reverse engineer a recovered spacecraft could use it as a power
+      play to rule the world.
+    original_excerpt: It could replace everything and you could rule the world this is a this is a power play waiting to happen
+      and so i suppose maybe there are people that are hoping that if they have captured if they have recovered a spaceship
+      spacecraft of some sort and they can reverse engineer that
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: b26a5e2e-9cb8-484e-92f8-d332245917b5
+      title: Phil McGraw
+    provenance_chain:
+      origin_kind: speaker
+      origin: Phil McGraw
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: b26a5e2e-9cb8-484e-92f8-d332245917b5
+        title: Phil McGraw
+        slug: phil-mcgraw
+    date: null
+    date_end: null
+    location_in_record: 00:29:39.1-00:30:05.0
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 5535742a-6d31-43e5-9188-4b57112f63cc
+      record_title: Dr. Phil read the UAP files before the public, here's what he found | Reality Check
+      record_date: '2026-07-21'
+      record_reference: https://www.youtube.com/watch?v=bhA-E57oQW8
+      content_hash: sha256:5e9a8cfd3f58f829fccdbc1cc057d06bed9f9e59e703cb29c1593e6e546ab532
+      friendly_name: null
+  - claim_id: 19bacad6-81d9-4046-a769-a7e45dccbdde
+    claim_hash: bfec178497375b400ac8d5c5eda68bf38e8761c75df7dca18590ddb00950d2f4
+    content: Phil McGraw considers that the government is hiding information about Unidentified Aerial Phenomena (UAP), possibly
+      for some good motives.
+    original_excerpt: But I think they're hiding it, and I think maybe there's been some good motives for it.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: b26a5e2e-9cb8-484e-92f8-d332245917b5
+      title: Phil McGraw
+    provenance_chain:
+      origin_kind: speaker
+      origin: Phil McGraw
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
+        title: Unidentified Anomalous Phenomena (UAP)
+        slug: unidentified-anomalous-phenomena-uap
+      - node_id: b26a5e2e-9cb8-484e-92f8-d332245917b5
+        title: Phil McGraw
+        slug: phil-mcgraw
+    date: null
+    date_end: null
+    location_in_record: 00:30:22.7-00:30:28.3
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 5535742a-6d31-43e5-9188-4b57112f63cc
+      record_title: Dr. Phil read the UAP files before the public, here's what he found | Reality Check
+      record_date: '2026-07-21'
+      record_reference: https://www.youtube.com/watch?v=bhA-E57oQW8
+      content_hash: sha256:5e9a8cfd3f58f829fccdbc1cc057d06bed9f9e59e703cb29c1593e6e546ab532
+      friendly_name: null
+  - claim_id: 2e1a2a00-0b39-4573-8c63-e434f2a64694
+    claim_hash: b5ffab6f2289b4da6a3b06dbadda6c98c416338aa4a1f87d74c9108482ffce55
+    content: Phil McGraw speculates that unidentified phenomena concentrating around nuclear sites may be learning something
+      or ensuring humanity does not do something stupid.
+    original_excerpt: Why are they concentrating around our nuclear sites? Maybe they're learning something. Maybe they're
+      making sure we don't do something stupid.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: b26a5e2e-9cb8-484e-92f8-d332245917b5
+      title: Phil McGraw
+    provenance_chain:
+      origin_kind: speaker
+      origin: Phil McGraw
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: b26a5e2e-9cb8-484e-92f8-d332245917b5
+        title: Phil McGraw
+        slug: phil-mcgraw
+    date: null
+    date_end: null
+    location_in_record: 00:30:34.1-00:30:45.6
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 5535742a-6d31-43e5-9188-4b57112f63cc
+      record_title: Dr. Phil read the UAP files before the public, here's what he found | Reality Check
+      record_date: '2026-07-21'
+      record_reference: https://www.youtube.com/watch?v=bhA-E57oQW8
+      content_hash: sha256:5e9a8cfd3f58f829fccdbc1cc057d06bed9f9e59e703cb29c1593e6e546ab532
+      friendly_name: null
+  - claim_id: 3dfd2dd8-e42c-4b15-8d5b-e099d3b9f6fe
+    claim_hash: ccd1040f3b155e1c24304ae0ced491f72d89a7d9af417e45c534d5ce8f318da0
+    content: Phil McGraw considers that it is usually the private sector, not the government, that solves problems when the
+      government gets out of the way.
+    original_excerpt: And if you, Ross, if you look back, it's usually the private sector that solves the problems. It's not
+      the government. It's the private sector that solves the problem when the government gets the hell out of the way.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: b26a5e2e-9cb8-484e-92f8-d332245917b5
+      title: Phil McGraw
+    provenance_chain:
+      origin_kind: speaker
+      origin: Phil McGraw
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: b26a5e2e-9cb8-484e-92f8-d332245917b5
+        title: Phil McGraw
+        slug: phil-mcgraw
+    date: null
+    date_end: null
+    location_in_record: 00:30:52.6-00:31:02.1
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 5535742a-6d31-43e5-9188-4b57112f63cc
+      record_title: Dr. Phil read the UAP files before the public, here's what he found | Reality Check
+      record_date: '2026-07-21'
+      record_reference: https://www.youtube.com/watch?v=bhA-E57oQW8
+      content_hash: sha256:5e9a8cfd3f58f829fccdbc1cc057d06bed9f9e59e703cb29c1593e6e546ab532
+      friendly_name: null
+  - claim_id: e85da0bf-ccbb-4ef8-a2a4-ec2c3fb806a2
+    claim_hash: e67bc61d0db47a1cdf9860bfc023acc56088443bba08b1ea12551da94c713310
+    content: Ross Coulthart considers it likely that Phil McGraw will get an opportunity in the next few months to speak with
+      President Donald Trump.
+    original_excerpt: You're very likely, sir, to get an opportunity at some stage in the next few months to speak with President
+      Trump.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+      title: Ross Coulthart
+    provenance_chain:
+      origin_kind: speaker
+      origin: Ross Coulthart
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 816c219b-6372-49f6-9579-5eeabb9a7474
+        title: Donald Trump
+        slug: donald-trump
+      - node_id: b26a5e2e-9cb8-484e-92f8-d332245917b5
+        title: Phil McGraw
+        slug: phil-mcgraw
+    date: null
+    date_end: null
+    location_in_record: 00:31:05.0-00:31:10.2
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 5535742a-6d31-43e5-9188-4b57112f63cc
+      record_title: Dr. Phil read the UAP files before the public, here's what he found | Reality Check
+      record_date: '2026-07-21'
+      record_reference: https://www.youtube.com/watch?v=bhA-E57oQW8
+      content_hash: sha256:5e9a8cfd3f58f829fccdbc1cc057d06bed9f9e59e703cb29c1593e6e546ab532
+      friendly_name: null
+  - claim_id: 34a14087-a641-451d-b8d3-5c7a07c9f153
+    claim_hash: 1509753db1bb0687676f3acf1c9f2d209da62ffc98ee233c633994d3e13b902b
+    content: Phil McGraw believes he has been given access to Unidentified Aerial Phenomena (UAP) information because those
+      granting access want him doing exactly what he is doing.
+    original_excerpt: Well, I think what I'm doing right now, I think the reason they're giving me access to this is because
+      they want me doing exactly what I'm doing.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: b26a5e2e-9cb8-484e-92f8-d332245917b5
+      title: Phil McGraw
+    provenance_chain:
+      origin_kind: speaker
+      origin: Phil McGraw
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
+        title: Unidentified Anomalous Phenomena (UAP)
+        slug: unidentified-anomalous-phenomena-uap
+      - node_id: b26a5e2e-9cb8-484e-92f8-d332245917b5
+        title: Phil McGraw
+        slug: phil-mcgraw
+    date: null
+    date_end: null
+    location_in_record: 00:31:39.5-00:31:51.8
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 5535742a-6d31-43e5-9188-4b57112f63cc
+      record_title: Dr. Phil read the UAP files before the public, here's what he found | Reality Check
+      record_date: '2026-07-21'
+      record_reference: https://www.youtube.com/watch?v=bhA-E57oQW8
+      content_hash: sha256:5e9a8cfd3f58f829fccdbc1cc057d06bed9f9e59e703cb29c1593e6e546ab532
+      friendly_name: null
+  - claim_id: 6131bfda-f2c1-4f85-8010-da79040ff2cf
+    claim_hash: eb087dc64221fdea69cd82d928e1a488c84f1d186a231dda50e3ff3fd6cf4154
+    content: Phil McGraw has maintained independence in his coverage of Unidentified Aerial Phenomena (UAP), stating that
+      those granting him access are not scripting him or telling him what to say, but trusting him to be authentic, transparent
+      and candid with the American people.
+    original_excerpt: and i have maintained independence uh in what i'm doing they're not scripting me they're not telling
+      me what to say or not say they're just trusting me to be authentic transparent and um and candid with the american people
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: b26a5e2e-9cb8-484e-92f8-d332245917b5
+      title: Phil McGraw
+    provenance_chain:
+      origin_kind: speaker
+      origin: Phil McGraw
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
+        title: Unidentified Anomalous Phenomena (UAP)
+        slug: unidentified-anomalous-phenomena-uap
+      - node_id: b26a5e2e-9cb8-484e-92f8-d332245917b5
+        title: Phil McGraw
+        slug: phil-mcgraw
+    date: null
+    date_end: null
+    location_in_record: 00:31:54.0-00:32:11.4
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 5535742a-6d31-43e5-9188-4b57112f63cc
+      record_title: Dr. Phil read the UAP files before the public, here's what he found | Reality Check
+      record_date: '2026-07-21'
+      record_reference: https://www.youtube.com/watch?v=bhA-E57oQW8
+      content_hash: sha256:5e9a8cfd3f58f829fccdbc1cc057d06bed9f9e59e703cb29c1593e6e546ab532
+      friendly_name: null
+  - claim_id: 89cacfc3-5e76-4364-a2bf-84a34d2831ef
+    claim_hash: 17d8d2841af19c28a1224a89b15cd074a0b3b641d5a49c0d1470989cbe05fd1b
+    content: Phil McGraw states he does not want to create a 'Fauci moment' by saying one thing and being contradicted by
+      a later disclosure.
+    original_excerpt: at the risk of being indelicate, I don't want to create a Fauci moment. I'm not going to say one thing
+      today and then be contradicted by something that is disclosed tomorrow, which is why I say I'm going to tell you guys
+      what I've seen so far
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: b26a5e2e-9cb8-484e-92f8-d332245917b5
+      title: Phil McGraw
+    provenance_chain:
+      origin_kind: speaker
+      origin: Phil McGraw
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: b26a5e2e-9cb8-484e-92f8-d332245917b5
+        title: Phil McGraw
+        slug: phil-mcgraw
+    date: null
+    date_end: null
+    location_in_record: 00:32:21.7-00:32:40.2
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 5535742a-6d31-43e5-9188-4b57112f63cc
+      record_title: Dr. Phil read the UAP files before the public, here's what he found | Reality Check
+      record_date: '2026-07-21'
+      record_reference: https://www.youtube.com/watch?v=bhA-E57oQW8
+      content_hash: sha256:5e9a8cfd3f58f829fccdbc1cc057d06bed9f9e59e703cb29c1593e6e546ab532
+      friendly_name: null
+  - claim_id: 08dc7010-9875-4aa2-9ce9-2eecc48959f4
+    claim_hash: fb55bd8651672a2a614fa266e442b17c38af54ec0d8110cda1d594dddde2453f
+    content: Phil McGraw states he does not believe that what he has been shown so far about Unidentified Aerial Phenomena
+      (UAP) is all there is to see or know.
+    original_excerpt: And I'm not going to tell you that that's all there is to see or know. I'm telling you that I don't
+      believe it's all there is to see or know.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: b26a5e2e-9cb8-484e-92f8-d332245917b5
+      title: Phil McGraw
+    provenance_chain:
+      origin_kind: speaker
+      origin: Phil McGraw
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
+        title: Unidentified Anomalous Phenomena (UAP)
+        slug: unidentified-anomalous-phenomena-uap
+      - node_id: b26a5e2e-9cb8-484e-92f8-d332245917b5
+        title: Phil McGraw
+        slug: phil-mcgraw
+    date: null
+    date_end: null
+    location_in_record: 00:32:41.9-00:32:50.9
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 5535742a-6d31-43e5-9188-4b57112f63cc
+      record_title: Dr. Phil read the UAP files before the public, here's what he found | Reality Check
+      record_date: '2026-07-21'
+      record_reference: https://www.youtube.com/watch?v=bhA-E57oQW8
+      content_hash: sha256:5e9a8cfd3f58f829fccdbc1cc057d06bed9f9e59e703cb29c1593e6e546ab532
+      friendly_name: null
+  - claim_id: 3b9de311-764d-4cc6-b6c6-f3db77651347
+    claim_hash: 5a80665158c5343d071bfcd0dd2f866f63319e8b22fa5d08f44ed75475ef42d6
+    content: Phil McGraw states he can say with confidence to the American people and the world that there has been a huge
+      cover-up regarding Unidentified Aerial Phenomena (UAP).
+    original_excerpt: That's why I've said the two things that I can say with confidence to the American people and to the
+      rest of the world is there has been a huge cover up and there are things going on in our atmosphere that we cannot explain.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: b26a5e2e-9cb8-484e-92f8-d332245917b5
+      title: Phil McGraw
+    provenance_chain:
+      origin_kind: speaker
+      origin: Phil McGraw
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
+        title: Unidentified Anomalous Phenomena (UAP)
+        slug: unidentified-anomalous-phenomena-uap
+      - node_id: b26a5e2e-9cb8-484e-92f8-d332245917b5
+        title: Phil McGraw
+        slug: phil-mcgraw
+    date: null
+    date_end: null
+    location_in_record: 00:33:28.0-00:33:42.2
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 5535742a-6d31-43e5-9188-4b57112f63cc
+      record_title: Dr. Phil read the UAP files before the public, here's what he found | Reality Check
+      record_date: '2026-07-21'
+      record_reference: https://www.youtube.com/watch?v=bhA-E57oQW8
+      content_hash: sha256:5e9a8cfd3f58f829fccdbc1cc057d06bed9f9e59e703cb29c1593e6e546ab532
+      friendly_name: null
+  - claim_id: da78f1c6-b040-4d68-b735-cad3d05af75e
+    claim_hash: e46c729123052d953e2f4b785dd79a9761a8b47f1aef6c6ba5c50b258b506de3
+    content: Phil McGraw states he can say with confidence that there are things going on in the atmosphere that cannot be
+      explained.
+    original_excerpt: there are things going on in our atmosphere that we cannot explain.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: b26a5e2e-9cb8-484e-92f8-d332245917b5
+      title: Phil McGraw
+    provenance_chain:
+      origin_kind: speaker
+      origin: Phil McGraw
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: b26a5e2e-9cb8-484e-92f8-d332245917b5
+        title: Phil McGraw
+        slug: phil-mcgraw
+    date: null
+    date_end: null
+    location_in_record: 00:33:39.0-00:33:42.2
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 5535742a-6d31-43e5-9188-4b57112f63cc
+      record_title: Dr. Phil read the UAP files before the public, here's what he found | Reality Check
+      record_date: '2026-07-21'
+      record_reference: https://www.youtube.com/watch?v=bhA-E57oQW8
+      content_hash: sha256:5e9a8cfd3f58f829fccdbc1cc057d06bed9f9e59e703cb29c1593e6e546ab532
+      friendly_name: null
+  - claim_id: 578fbdf0-00db-4f40-92f0-06fe3136a9c5
+    claim_hash: 0ebee18beccfbed6be876da83f14915cb9266585c4d47eec871f6b955f177bca
+    content: Phil McGraw does not believe that the unexplained aerial phenomena are secret human-made technology starting
+      to leak out.
+    original_excerpt: And I don't think we have some secret technology that is starting to leak out. I don't believe that
+      at all.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: b26a5e2e-9cb8-484e-92f8-d332245917b5
+      title: Phil McGraw
+    provenance_chain:
+      origin_kind: speaker
+      origin: Phil McGraw
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: b26a5e2e-9cb8-484e-92f8-d332245917b5
+        title: Phil McGraw
+        slug: phil-mcgraw
+    date: null
+    date_end: null
+    location_in_record: 00:33:43.8-00:33:49.8
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 5535742a-6d31-43e5-9188-4b57112f63cc
+      record_title: Dr. Phil read the UAP files before the public, here's what he found | Reality Check
+      record_date: '2026-07-21'
+      record_reference: https://www.youtube.com/watch?v=bhA-E57oQW8
+      content_hash: sha256:5e9a8cfd3f58f829fccdbc1cc057d06bed9f9e59e703cb29c1593e6e546ab532
+      friendly_name: null
+  - claim_id: c81adfcb-a05f-4d17-a089-c758ed7ca070
+    claim_hash: e009d6d4b397b8621addecddb52043c4a2c75577d51ba3cbf10f406ad4d2ca32
+    content: Phil McGraw believes that the unexplained aerial phenomena were not created by humans and came from somewhere
+      other than earth.
+    original_excerpt: I think there are things that we didn't create, we didn't make happen. So it came from somewhere, not
+      here.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: b26a5e2e-9cb8-484e-92f8-d332245917b5
+      title: Phil McGraw
+    provenance_chain:
+      origin_kind: speaker
+      origin: Phil McGraw
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: b26a5e2e-9cb8-484e-92f8-d332245917b5
+        title: Phil McGraw
+        slug: phil-mcgraw
+    date: null
+    date_end: null
+    location_in_record: 00:33:51.5-00:33:58.6
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 5535742a-6d31-43e5-9188-4b57112f63cc
+      record_title: Dr. Phil read the UAP files before the public, here's what he found | Reality Check
+      record_date: '2026-07-21'
+      record_reference: https://www.youtube.com/watch?v=bhA-E57oQW8
+      content_hash: sha256:5e9a8cfd3f58f829fccdbc1cc057d06bed9f9e59e703cb29c1593e6e546ab532
+      friendly_name: null
+  - claim_id: 5c06213c-d739-4baa-9649-c4e65b7d2988
+    claim_hash: 231b0308a346d795f8927333acdb8714401f7bce2858759b1007076dfbd32578
+    content: Phil McGraw considers the American public prepared to handle disclosure that non-human intelligences have been
+      engaging with the planet, provided it is given context.
+    original_excerpt: And I think that the American public is prepared to handle that.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: b26a5e2e-9cb8-484e-92f8-d332245917b5
+      title: Phil McGraw
+    provenance_chain:
+      origin_kind: speaker
+      origin: Phil McGraw
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: b26a5e2e-9cb8-484e-92f8-d332245917b5
+        title: Phil McGraw
+        slug: phil-mcgraw
+    date: null
+    date_end: null
+    location_in_record: 00:34:37.0-00:34:42.1
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 5535742a-6d31-43e5-9188-4b57112f63cc
+      record_title: Dr. Phil read the UAP files before the public, here's what he found | Reality Check
+      record_date: '2026-07-21'
+      record_reference: https://www.youtube.com/watch?v=bhA-E57oQW8
+      content_hash: sha256:5e9a8cfd3f58f829fccdbc1cc057d06bed9f9e59e703cb29c1593e6e546ab532
+      friendly_name: null
+  - claim_id: 434950fd-6793-41c2-93b7-bada6f86d6cf
+    claim_hash: 6f7dbb46a532932fae4d8c161bf799ba7ebf970cbd831225f870332a16989de1
+    content: Phil McGraw considers that the government needs to be prepared to help those with mental illness, such as paranoia
+      or schizophrenia, who may have difficulty coping with disclosure about non-human intelligences.
+    original_excerpt: If we have those that are easily destabilized mentally and emotionally, we have those that maybe struggle
+      with mental illness, whether it's paranoia, schizophrenia, a difficult time maintaining their balance in this world
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: b26a5e2e-9cb8-484e-92f8-d332245917b5
+      title: Phil McGraw
+    provenance_chain:
+      origin_kind: speaker
+      origin: Phil McGraw
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: b26a5e2e-9cb8-484e-92f8-d332245917b5
+        title: Phil McGraw
+        slug: phil-mcgraw
+    date: null
+    date_end: null
+    location_in_record: 00:34:52.2-00:35:10.6
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 5535742a-6d31-43e5-9188-4b57112f63cc
+      record_title: Dr. Phil read the UAP files before the public, here's what he found | Reality Check
+      record_date: '2026-07-21'
+      record_reference: https://www.youtube.com/watch?v=bhA-E57oQW8
+      content_hash: sha256:5e9a8cfd3f58f829fccdbc1cc057d06bed9f9e59e703cb29c1593e6e546ab532
+      friendly_name: null
+  - claim_id: 168ad2e2-3429-4234-8329-db7187624540
+    claim_hash: 488799f1093314d6e13c3084807b311e313ebc7b93ed6cbdc8186e1e3bfbe770
+    content: Teens and preteens in America are having the highest levels of anxiety, depression, and loneliness since records
+      began.
+    original_excerpt: The teens and preteens are having the highest levels of anxiety, depression, and loneliness since we
+      started keeping records.
+    claim_type: measurement
+    attestation: first_hand
+    speaker:
+      node_id: b26a5e2e-9cb8-484e-92f8-d332245917b5
+      title: Phil McGraw
+    provenance_chain:
+      origin_kind: speaker
+      origin: Phil McGraw
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs: []
+    date: null
+    date_end: null
+    location_in_record: 00:35:38.3-00:35:45.8
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 5535742a-6d31-43e5-9188-4b57112f63cc
+      record_title: Dr. Phil read the UAP files before the public, here's what he found | Reality Check
+      record_date: '2026-07-21'
+      record_reference: https://www.youtube.com/watch?v=bhA-E57oQW8
+      content_hash: sha256:5e9a8cfd3f58f829fccdbc1cc057d06bed9f9e59e703cb29c1593e6e546ab532
+      friendly_name: null
+  - claim_id: 35c470f9-3893-4a8a-946f-b4791408579f
+    claim_hash: ee8d62a5740a4840944b4d772ecff928fbb9bb0714cbeeb045ef3f9bbd768ab7
+    content: Phil McGraw considers that some people might react to disclosure of non-human intelligence with fear, believing
+      'they're coming for us', and that those people may be right.
+    original_excerpt: Now, others might look at that and go, oh, my God, they're coming for us. And those people, we need
+      to help. They may be right, by the way. I don't think so.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: b26a5e2e-9cb8-484e-92f8-d332245917b5
+      title: Phil McGraw
+    provenance_chain:
+      origin_kind: speaker
+      origin: Phil McGraw
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: b26a5e2e-9cb8-484e-92f8-d332245917b5
+        title: Phil McGraw
+        slug: phil-mcgraw
+    date: null
+    date_end: null
+    location_in_record: 00:36:37.2-00:36:48.5
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 5535742a-6d31-43e5-9188-4b57112f63cc
+      record_title: Dr. Phil read the UAP files before the public, here's what he found | Reality Check
+      record_date: '2026-07-21'
+      record_reference: https://www.youtube.com/watch?v=bhA-E57oQW8
+      content_hash: sha256:5e9a8cfd3f58f829fccdbc1cc057d06bed9f9e59e703cb29c1593e6e546ab532
+      friendly_name: null
+  - claim_id: 22a03301-53de-4325-8b55-2d83c5291ced
+    claim_hash: 2fff607ba3637a55dd0fbe9248be94504f3e67853e4870806c4fa59df15f8965
+    content: Phil McGraw considers approximately 40% of Unidentified Aerial Phenomena (UAP) sightings to remain unexplained.
+    original_excerpt: And I think 40% of these phenomenon have not been explained.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: b26a5e2e-9cb8-484e-92f8-d332245917b5
+      title: Phil McGraw
+    provenance_chain:
+      origin_kind: speaker
+      origin: Phil McGraw
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
+        title: Unidentified Anomalous Phenomena (UAP)
+        slug: unidentified-anomalous-phenomena-uap
+      - node_id: b26a5e2e-9cb8-484e-92f8-d332245917b5
+        title: Phil McGraw
+        slug: phil-mcgraw
+    date: null
+    date_end: null
+    location_in_record: 00:37:41.8-00:37:46.6
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 5535742a-6d31-43e5-9188-4b57112f63cc
+      record_title: Dr. Phil read the UAP files before the public, here's what he found | Reality Check
+      record_date: '2026-07-21'
+      record_reference: https://www.youtube.com/watch?v=bhA-E57oQW8
+      content_hash: sha256:5e9a8cfd3f58f829fccdbc1cc057d06bed9f9e59e703cb29c1593e6e546ab532
+      friendly_name: null
+  - claim_id: 62d388f9-45cb-4882-95cb-6b6841cfe3d1
+    claim_hash: 287cefb86b9fb2f08bbd2813eebc0147960ace1ab3d7b19b53ee687c10c9eff5
+    content: Phil McGraw considers that the United States government's method of operation has been to hide Unidentified Aerial
+      Phenomena information from the country going back as far as 1947.
+    original_excerpt: I guess the MO has been to hide this from the country going back as far as 1947, the Robertson panel
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: b26a5e2e-9cb8-484e-92f8-d332245917b5
+      title: Phil McGraw
+    provenance_chain:
+      origin_kind: speaker
+      origin: Phil McGraw
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
+        title: Unidentified Anomalous Phenomena (UAP)
+        slug: unidentified-anomalous-phenomena-uap
+      - node_id: b26a5e2e-9cb8-484e-92f8-d332245917b5
+        title: Phil McGraw
+        slug: phil-mcgraw
+      - node_id: e0a197e9-f299-4903-ac82-5593e0915802
+        title: Robertson Panel
+        slug: robertson-panel
+    date: null
+    date_end: null
+    location_in_record: 00:04:26.4-00:04:35.2
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: eb21cb34-eec1-462d-9127-2d5e367cdfb9
+      record_title: 'David Grusch: The Whistleblower Who Told Congress We''re Not Alone'
+      record_date: '2026-08-13'
+      record_reference: https://www.youtube.com/watch?v=LBXmqvFs0Ec
+      content_hash: sha256:c685d061d160da6ae664b97e8b033d8d36090ea76d13c45792556dae22ae3344
+      friendly_name: null
+  - claim_id: f81f2afd-7963-46e9-8730-009ac2aca6fb
+    claim_hash: a22843dcdf82f68e70939e706821912cb1b9168796edb3588be6aff2cc33f2b6
+    content: While publicly telling the American people there was nothing to Unidentified Aerial Phenomena, the United States
+      government was simultaneously spending large amounts of money and dedicating large resources to investigating the phenomenon
+      and keeping that secret.
+    original_excerpt: When they would say that and then simultaneously be spending huge amounts of money, dedicating huge
+      resources to trying to figure out what's going on while they're telling the American people, eh, nothing to it, move
+      along, nothing to see here.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: b26a5e2e-9cb8-484e-92f8-d332245917b5
+      title: Phil McGraw
+    provenance_chain:
+      origin_kind: speaker
+      origin: Phil McGraw
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
+        title: Unidentified Anomalous Phenomena (UAP)
+        slug: unidentified-anomalous-phenomena-uap
+      - node_id: b26a5e2e-9cb8-484e-92f8-d332245917b5
+        title: Phil McGraw
+        slug: phil-mcgraw
+    date: null
+    date_end: null
+    location_in_record: 00:04:42.5-00:04:58.7
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: eb21cb34-eec1-462d-9127-2d5e367cdfb9
+      record_title: 'David Grusch: The Whistleblower Who Told Congress We''re Not Alone'
+      record_date: '2026-08-13'
+      record_reference: https://www.youtube.com/watch?v=LBXmqvFs0Ec
+      content_hash: sha256:c685d061d160da6ae664b97e8b033d8d36090ea76d13c45792556dae22ae3344
+      friendly_name: null
+  - claim_id: 61fe96cb-649d-4b32-892e-63c7b95d5b20
+    claim_hash: 904f1479c930565498c88d0d160e7f5ad5435b9d1687c549af169bb188106d98
+    content: Phil McGraw is furious that the United States government has been lying to the American public for 79 years about
+      Unidentified Aerial Phenomena.
+    original_excerpt: the first thing I said about this when those documents came out was our government's been lying to us
+      for 79 years and I'm furious about that.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: b26a5e2e-9cb8-484e-92f8-d332245917b5
+      title: Phil McGraw
+    provenance_chain:
+      origin_kind: speaker
+      origin: Phil McGraw
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
+        title: Unidentified Anomalous Phenomena (UAP)
+        slug: unidentified-anomalous-phenomena-uap
+      - node_id: b26a5e2e-9cb8-484e-92f8-d332245917b5
+        title: Phil McGraw
+        slug: phil-mcgraw
+    date: null
+    date_end: null
+    location_in_record: 00:05:05.0-00:05:14.4
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: eb21cb34-eec1-462d-9127-2d5e367cdfb9
+      record_title: 'David Grusch: The Whistleblower Who Told Congress We''re Not Alone'
+      record_date: '2026-08-13'
+      record_reference: https://www.youtube.com/watch?v=LBXmqvFs0Ec
+      content_hash: sha256:c685d061d160da6ae664b97e8b033d8d36090ea76d13c45792556dae22ae3344
+      friendly_name: null
+  - claim_id: 632966f2-c092-4a81-b5a3-5c349691bf7e
+    claim_hash: 62dd2bedbdaf34a80d866b249e66bbabfc05c7c5b61d2aada41564a72c23e606
+    content: Phil McGraw considers there is no question that drugs were used in Project MKUltra with the aim of enhanced interrogation,
+      and no question that human rights were violated.
+    original_excerpt: I don't think there's any question that drugs were being used and the idea was enhanced interrogation
+      and I don't think there's any question that there were violations of human rights
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: b26a5e2e-9cb8-484e-92f8-d332245917b5
+      title: Phil McGraw
+    provenance_chain:
+      origin_kind: speaker
+      origin: Phil McGraw
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 5d4966d1-e0f0-4c5c-b701-b48b4a2f13c1
+        title: Project MKUltra (MKUltra)
+        slug: project-mkultra-mkultra
+      - node_id: b26a5e2e-9cb8-484e-92f8-d332245917b5
+        title: Phil McGraw
+        slug: phil-mcgraw
+    date: null
+    date_end: null
+    location_in_record: 00:12:38.2-00:12:50.0
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: eb21cb34-eec1-462d-9127-2d5e367cdfb9
+      record_title: 'David Grusch: The Whistleblower Who Told Congress We''re Not Alone'
+      record_date: '2026-08-13'
+      record_reference: https://www.youtube.com/watch?v=LBXmqvFs0Ec
+      content_hash: sha256:c685d061d160da6ae664b97e8b033d8d36090ea76d13c45792556dae22ae3344
+      friendly_name: null
+  - claim_id: 088d1ff5-6193-492a-88f2-fbf1a44a6fb5
+    claim_hash: b863fc10b9955896cfd0907d60cc047cae30866fa841680d998cfab3ca1f1aea
+    content: Phil McGraw considers there is a definite desire to keep the details of Project MKUltra from coming out publicly
+      because they are unflattering to the United States government.
+    original_excerpt: there's a definite desire to keep all that from coming out publicly because it's not very flattering
+      to our government when those sort of things come out
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: b26a5e2e-9cb8-484e-92f8-d332245917b5
+      title: Phil McGraw
+    provenance_chain:
+      origin_kind: speaker
+      origin: Phil McGraw
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 5d4966d1-e0f0-4c5c-b701-b48b4a2f13c1
+        title: Project MKUltra (MKUltra)
+        slug: project-mkultra-mkultra
+      - node_id: b26a5e2e-9cb8-484e-92f8-d332245917b5
+        title: Phil McGraw
+        slug: phil-mcgraw
+    date: null
+    date_end: null
+    location_in_record: 00:12:52.5-00:13:06.1
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: eb21cb34-eec1-462d-9127-2d5e367cdfb9
+      record_title: 'David Grusch: The Whistleblower Who Told Congress We''re Not Alone'
+      record_date: '2026-08-13'
+      record_reference: https://www.youtube.com/watch?v=LBXmqvFs0Ec
+      content_hash: sha256:c685d061d160da6ae664b97e8b033d8d36090ea76d13c45792556dae22ae3344
+      friendly_name: null
+  - claim_id: fa3acde4-b58e-4991-8a81-44cd4cf5e219
+    claim_hash: b9a54a416e8b2c0df2b3dd9abf8a3c698c3507ab867726f71a5d1ddaef6a3f97
+    content: There was a focused effort to assassinate David Grusch's character and imply he was mentally unstable, using
+      his autism to discredit him.
+    original_excerpt: there was a pretty focused effort to assassinate your character and ... imply that you were mentally
+      unstable and impeach you as being mentally unstable, having autism, things that they could use to say, well, consider
+      the source.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: b26a5e2e-9cb8-484e-92f8-d332245917b5
+      title: Phil McGraw
+    provenance_chain:
+      origin_kind: speaker
+      origin: Phil McGraw
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 6bb44638-8f37-4292-be02-dede7f8a57d9
+        title: Autism spectrum
+        slug: autism-spectrum
+      - node_id: b26a5e2e-9cb8-484e-92f8-d332245917b5
+        title: Phil McGraw
+        slug: phil-mcgraw
+      - node_id: d4241f5a-1063-4970-ba02-5a391c02d96d
+        title: David Charles Grusch
+        slug: david-charles-grusch
+    date: null
+    date_end: null
+    location_in_record: 00:17:06.2-00:17:27.6
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: eb21cb34-eec1-462d-9127-2d5e367cdfb9
+      record_title: 'David Grusch: The Whistleblower Who Told Congress We''re Not Alone'
+      record_date: '2026-08-13'
+      record_reference: https://www.youtube.com/watch?v=LBXmqvFs0Ec
+      content_hash: sha256:c685d061d160da6ae664b97e8b033d8d36090ea76d13c45792556dae22ae3344
+      friendly_name: null
+  - claim_id: f8e73a1d-f545-4932-8555-b10d5659867b
+    claim_hash: 570ce2fc20742525c019ecfd2be29214a1195c9971002fad287f8aa992ed57ed
+    content: Phil McGraw considers the attempts to discredit David Grusch part of a psychological operation.
+    original_excerpt: And we've seen it and it's part of the PSYOP that goes into all of this, sadly.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: b26a5e2e-9cb8-484e-92f8-d332245917b5
+      title: Phil McGraw
+    provenance_chain:
+      origin_kind: speaker
+      origin: Phil McGraw
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 93fe290b-199f-418a-a3fe-715b41745a4c
+        title: Psychological operations (PSYOP)
+        slug: psychological-operations-psyop
+      - node_id: b26a5e2e-9cb8-484e-92f8-d332245917b5
+        title: Phil McGraw
+        slug: phil-mcgraw
+      - node_id: d4241f5a-1063-4970-ba02-5a391c02d96d
+        title: David Charles Grusch
+        slug: david-charles-grusch
+    date: null
+    date_end: null
+    location_in_record: 00:20:51.6-00:20:59.2
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: eb21cb34-eec1-462d-9127-2d5e367cdfb9
+      record_title: 'David Grusch: The Whistleblower Who Told Congress We''re Not Alone'
+      record_date: '2026-08-13'
+      record_reference: https://www.youtube.com/watch?v=LBXmqvFs0Ec
+      content_hash: sha256:c685d061d160da6ae664b97e8b033d8d36090ea76d13c45792556dae22ae3344
+      friendly_name: null
+  - claim_id: b0156dfc-64ef-498b-8662-9b8be3a7b577
+    claim_hash: b640c7aa011cee70a6dae49bf73b126a44bdabfe944f1d43a8a101c0a8c39f08
+    content: Phil McGraw considers that Unidentified Aerial Phenomena disclosure so far has been form without substance.
+    original_excerpt: It's formed without substance so far.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: b26a5e2e-9cb8-484e-92f8-d332245917b5
+      title: Phil McGraw
+    provenance_chain:
+      origin_kind: speaker
+      origin: Phil McGraw
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
+        title: Unidentified Anomalous Phenomena (UAP)
+        slug: unidentified-anomalous-phenomena-uap
+      - node_id: b26a5e2e-9cb8-484e-92f8-d332245917b5
+        title: Phil McGraw
+        slug: phil-mcgraw
+    date: null
+    date_end: null
+    location_in_record: 00:22:32.4-00:22:34.6
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: eb21cb34-eec1-462d-9127-2d5e367cdfb9
+      record_title: 'David Grusch: The Whistleblower Who Told Congress We''re Not Alone'
+      record_date: '2026-08-13'
+      record_reference: https://www.youtube.com/watch?v=LBXmqvFs0Ec
+      content_hash: sha256:c685d061d160da6ae664b97e8b033d8d36090ea76d13c45792556dae22ae3344
+      friendly_name: null
+  - claim_id: 60b5d3ee-13b7-4193-8ddc-fca94aadbcf8
+    claim_hash: 95f4500725433249476c4c74a8a39169a6face01d66e6c690626a3d22611ba02
+    content: Phil McGraw considers that disclosure of craft not of this earth and intelligent non-human life forms would have
+      a significant impact on a portion of the population and could cause some people to have a serious psychological reaction.
+    original_excerpt: if there is something that is going to come out that involves aircraft not of this earth and intelligent
+      non-human life forms, that that's going to have a significant impact, certainly on a portion of our population. that
+      could be negative for them. It could cause some people to have a serious psychological reaction
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: b26a5e2e-9cb8-484e-92f8-d332245917b5
+      title: Phil McGraw
+    provenance_chain:
+      origin_kind: speaker
+      origin: Phil McGraw
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: b26a5e2e-9cb8-484e-92f8-d332245917b5
+        title: Phil McGraw
+        slug: phil-mcgraw
+      - node_id: fa4ba20c-867f-4754-b298-14b96e410072
+        title: Extraterrestrial hypothesis
+        slug: extraterrestrial-hypothesis
+    date: null
+    date_end: null
+    location_in_record: 00:22:39.6-00:23:07.4
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: eb21cb34-eec1-462d-9127-2d5e367cdfb9
+      record_title: 'David Grusch: The Whistleblower Who Told Congress We''re Not Alone'
+      record_date: '2026-08-13'
+      record_reference: https://www.youtube.com/watch?v=LBXmqvFs0Ec
+      content_hash: sha256:c685d061d160da6ae664b97e8b033d8d36090ea76d13c45792556dae22ae3344
+      friendly_name: null
+  - claim_id: 50e090ec-6dd0-4395-80cf-c398585d3d7f
+    claim_hash: 28352c872714520c349501bf6c88d8226fbcb3ce1bb2a7861fdf9773a830f23f
+    content: Phil McGraw considers that the American Psychological Association, the American Psychiatric Association and medical
+      associations need to plan in advance for the psychological impact of Unidentified Aerial Phenomena disclosure.
+    original_excerpt: the American Psychological Association, Psychiatric Association, Medical Associations all need to be
+      planning in advance
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: b26a5e2e-9cb8-484e-92f8-d332245917b5
+      title: Phil McGraw
+    provenance_chain:
+      origin_kind: speaker
+      origin: Phil McGraw
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
+        title: Unidentified Anomalous Phenomena (UAP)
+        slug: unidentified-anomalous-phenomena-uap
+      - node_id: 7fa3cf26-2383-4c6d-8583-b88d860d2a97
+        title: American Psychological Association (APA)
+        slug: american-psychological-association-apa
+      - node_id: b26a5e2e-9cb8-484e-92f8-d332245917b5
+        title: Phil McGraw
+        slug: phil-mcgraw
+      - node_id: f6ed7abd-d94c-44c0-993a-144541b9ff6c
+        title: American Psychiatric Association
+        slug: american-psychiatric-association
+    date: null
+    date_end: null
+    location_in_record: 00:23:11.2-00:23:18.7
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: eb21cb34-eec1-462d-9127-2d5e367cdfb9
+      record_title: 'David Grusch: The Whistleblower Who Told Congress We''re Not Alone'
+      record_date: '2026-08-13'
+      record_reference: https://www.youtube.com/watch?v=LBXmqvFs0Ec
+      content_hash: sha256:c685d061d160da6ae664b97e8b033d8d36090ea76d13c45792556dae22ae3344
+      friendly_name: null
+  - claim_id: 9d5aa4e2-ed6f-48f2-8dc4-09c846c5fc76
+    claim_hash: 5afef6228870d4215740f53bc9b5d561b3d012621e2c93c9c5687f88341302b2
+    content: Young people are experiencing the highest levels of anxiety, depression and loneliness since records have been
+      kept, so mental health resources are fully deployed.
+    original_excerpt: all of our resources as of today are fully deployed because particularly our young people are experiencing
+      the highest levels of anxiety, depression, loneliness ... since records have been kept.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: b26a5e2e-9cb8-484e-92f8-d332245917b5
+      title: Phil McGraw
+    provenance_chain:
+      origin_kind: speaker
+      origin: Phil McGraw
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: b26a5e2e-9cb8-484e-92f8-d332245917b5
+        title: Phil McGraw
+        slug: phil-mcgraw
+    date: null
+    date_end: null
+    location_in_record: 00:23:19.9-00:23:32.8
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: eb21cb34-eec1-462d-9127-2d5e367cdfb9
+      record_title: 'David Grusch: The Whistleblower Who Told Congress We''re Not Alone'
+      record_date: '2026-08-13'
+      record_reference: https://www.youtube.com/watch?v=LBXmqvFs0Ec
+      content_hash: sha256:c685d061d160da6ae664b97e8b033d8d36090ea76d13c45792556dae22ae3344
+      friendly_name: null
+  - claim_id: 47a18ad8-7354-4822-975c-5ee22c70fe4a
+    claim_hash: b64de077b009f702b4e2ef891db37e07f72d5edf2313d09b5e8c0ed88d0280de
+    content: Phil McGraw considers that planning is needed in case five to ten per cent of the population has an adverse reaction
+      to Unidentified Aerial Phenomena disclosure.
+    original_excerpt: if we're going to have a huge uptick of even five or 10% of the population that has an ab reaction to
+      these sort of things, we need to plan for that and be there to support these folks.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: b26a5e2e-9cb8-484e-92f8-d332245917b5
+      title: Phil McGraw
+    provenance_chain:
+      origin_kind: speaker
+      origin: Phil McGraw
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
+        title: Unidentified Anomalous Phenomena (UAP)
+        slug: unidentified-anomalous-phenomena-uap
+      - node_id: b26a5e2e-9cb8-484e-92f8-d332245917b5
+        title: Phil McGraw
+        slug: phil-mcgraw
+    date: null
+    date_end: null
+    location_in_record: 00:23:38.9-00:23:49.7
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: eb21cb34-eec1-462d-9127-2d5e367cdfb9
+      record_title: 'David Grusch: The Whistleblower Who Told Congress We''re Not Alone'
+      record_date: '2026-08-13'
+      record_reference: https://www.youtube.com/watch?v=LBXmqvFs0Ec
+      content_hash: sha256:c685d061d160da6ae664b97e8b033d8d36090ea76d13c45792556dae22ae3344
+      friendly_name: null
+  - claim_id: db3a7d9c-d4cb-4107-9fea-157df37c4341
+    claim_hash: 17d9bb56ff874e1993d966b4eb8f81005632b73578dbe28beff7bc364d203032
+    content: Phil McGraw considers that elderly people must be protected from internet scams following Unidentified Aerial
+      Phenomena disclosure, such as being told to sell everything to pay for a buried bunker to survive an alien invasion.
+    original_excerpt: We need to make sure that elderly people aren't scammed on the internet with people saying you need
+      to sell everything and and we'll bury a school bus for you in the mountains to create a bunker so you can be safe from
+      this invasion of aliens
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: b26a5e2e-9cb8-484e-92f8-d332245917b5
+      title: Phil McGraw
+    provenance_chain:
+      origin_kind: speaker
+      origin: Phil McGraw
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
+        title: Unidentified Anomalous Phenomena (UAP)
+        slug: unidentified-anomalous-phenomena-uap
+      - node_id: b26a5e2e-9cb8-484e-92f8-d332245917b5
+        title: Phil McGraw
+        slug: phil-mcgraw
+    date: null
+    date_end: null
+    location_in_record: 00:23:50.0-00:24:04.2
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: eb21cb34-eec1-462d-9127-2d5e367cdfb9
+      record_title: 'David Grusch: The Whistleblower Who Told Congress We''re Not Alone'
+      record_date: '2026-08-13'
+      record_reference: https://www.youtube.com/watch?v=LBXmqvFs0Ec
+      content_hash: sha256:c685d061d160da6ae664b97e8b033d8d36090ea76d13c45792556dae22ae3344
+      friendly_name: null
+  - claim_id: a20b4118-1b30-4adb-973e-73eca4d61374
+    claim_hash: bcee656a670ffd165e45356ee04920d7c40aed8316d5ff60bdd7721c33163c3c
+    content: Phil McGraw considers that if people feel human exceptionalism does not hold true, the evangelical community
+      could have a problem with its belief systems.
+    original_excerpt: If people feel like human exceptionalism doesn't hold true, the evangelical community can have a problem
+      in what their belief systems have been.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: b26a5e2e-9cb8-484e-92f8-d332245917b5
+      title: Phil McGraw
+    provenance_chain:
+      origin_kind: speaker
+      origin: Phil McGraw
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: b26a5e2e-9cb8-484e-92f8-d332245917b5
+        title: Phil McGraw
+        slug: phil-mcgraw
+      - node_id: fa4ba20c-867f-4754-b298-14b96e410072
+        title: Extraterrestrial hypothesis
+        slug: extraterrestrial-hypothesis
+    date: null
+    date_end: null
+    location_in_record: 00:24:09.2-00:24:22.5
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: eb21cb34-eec1-462d-9127-2d5e367cdfb9
+      record_title: 'David Grusch: The Whistleblower Who Told Congress We''re Not Alone'
+      record_date: '2026-08-13'
+      record_reference: https://www.youtube.com/watch?v=LBXmqvFs0Ec
+      content_hash: sha256:c685d061d160da6ae664b97e8b033d8d36090ea76d13c45792556dae22ae3344
+      friendly_name: null
+  - claim_id: c186f5c4-e55d-4052-a1e7-dfd1a2ca86b5
+    claim_hash: 4f34feb1259d271d0651330b23275bcb9f70dcacb717f9dec62cfbda6e47811d
+    content: Phil McGraw considers that people deserve to know about Unidentified Aerial Phenomena and can handle the information,
+      provided they are supported responsibly.
+    original_excerpt: But I think we can handle it. I think people deserve to know. I think they can handle it. I think we
+      need to be responsible in helping them.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: b26a5e2e-9cb8-484e-92f8-d332245917b5
+      title: Phil McGraw
+    provenance_chain:
+      origin_kind: speaker
+      origin: Phil McGraw
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
+        title: Unidentified Anomalous Phenomena (UAP)
+        slug: unidentified-anomalous-phenomena-uap
+      - node_id: b26a5e2e-9cb8-484e-92f8-d332245917b5
+        title: Phil McGraw
+        slug: phil-mcgraw
+    date: null
+    date_end: null
+    location_in_record: 00:24:31.2-00:24:40.4
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: eb21cb34-eec1-462d-9127-2d5e367cdfb9
+      record_title: 'David Grusch: The Whistleblower Who Told Congress We''re Not Alone'
+      record_date: '2026-08-13'
+      record_reference: https://www.youtube.com/watch?v=LBXmqvFs0Ec
+      content_hash: sha256:c685d061d160da6ae664b97e8b033d8d36090ea76d13c45792556dae22ae3344
+      friendly_name: null
+  - claim_id: a16263ed-6304-4e93-bbd0-81e29c96f13c
+    claim_hash: f8d9f5d137a3b74d36e58faeff3b3996048e9b2c907d45880d5203f15ea5c66e
+    content: Phil McGraw objects that the released tranches of Unidentified Aerial Phenomena (UAP) information have come with
+      very little context, leaving people struggling to understand what the material means.
+    original_excerpt: Well, one of the things that I have objected to is that these tranches of information that have been
+      released have been released with very little context.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: b26a5e2e-9cb8-484e-92f8-d332245917b5
+      title: Phil McGraw
+    provenance_chain:
+      origin_kind: speaker
+      origin: Phil McGraw
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
+        title: Unidentified Anomalous Phenomena (UAP)
+        slug: unidentified-anomalous-phenomena-uap
+      - node_id: b26a5e2e-9cb8-484e-92f8-d332245917b5
+        title: Phil McGraw
+        slug: phil-mcgraw
+    date: null
+    date_end: null
+    location_in_record: 00:28:23.6-00:28:35.6
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: eb21cb34-eec1-462d-9127-2d5e367cdfb9
+      record_title: 'David Grusch: The Whistleblower Who Told Congress We''re Not Alone'
+      record_date: '2026-08-13'
+      record_reference: https://www.youtube.com/watch?v=LBXmqvFs0Ec
+      content_hash: sha256:c685d061d160da6ae664b97e8b033d8d36090ea76d13c45792556dae22ae3344
+      friendly_name: null
+  - claim_id: f7ad36e5-0123-4303-98b7-8a61c8a85764
+    claim_hash: ef366f945b0842ffc5f2e87ec467de465c004c39c752d91efe2cebffbf044385
+    content: Phil McGraw does not believe the lack of context in the released Unidentified Aerial Phenomena (UAP) document
+      tranches is accidental.
+    original_excerpt: And I don't think that's by accident, frankly.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: b26a5e2e-9cb8-484e-92f8-d332245917b5
+      title: Phil McGraw
+    provenance_chain:
+      origin_kind: speaker
+      origin: Phil McGraw
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
+        title: Unidentified Anomalous Phenomena (UAP)
+        slug: unidentified-anomalous-phenomena-uap
+      - node_id: b26a5e2e-9cb8-484e-92f8-d332245917b5
+        title: Phil McGraw
+        slug: phil-mcgraw
+    date: null
+    date_end: null
+    location_in_record: 00:28:43.0-00:28:45.6
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: eb21cb34-eec1-462d-9127-2d5e367cdfb9
+      record_title: 'David Grusch: The Whistleblower Who Told Congress We''re Not Alone'
+      record_date: '2026-08-13'
+      record_reference: https://www.youtube.com/watch?v=LBXmqvFs0Ec
+      content_hash: sha256:c685d061d160da6ae664b97e8b033d8d36090ea76d13c45792556dae22ae3344
+      friendly_name: null
+  - claim_id: bf492085-e517-4e02-830c-e904e9086a7a
+    claim_hash: e0ca3e43613a6fbaf0faf0eed63f9cb790b29263e8d9c5373b27772efbdec818
+    content: Phil McGraw spent a lot of time working in litigation as a trial scientist.
+    original_excerpt: I spent a lot of time in the litigation arena working as a trial scientist.
+    claim_type: administrative
+    attestation: first_hand
+    speaker:
+      node_id: b26a5e2e-9cb8-484e-92f8-d332245917b5
+      title: Phil McGraw
+    provenance_chain:
+      origin_kind: speaker
+      origin: Phil McGraw
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: b26a5e2e-9cb8-484e-92f8-d332245917b5
+        title: Phil McGraw
+        slug: phil-mcgraw
+    date: null
+    date_end: null
+    location_in_record: 00:28:51.4-00:28:55.3
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: eb21cb34-eec1-462d-9127-2d5e367cdfb9
+      record_title: 'David Grusch: The Whistleblower Who Told Congress We''re Not Alone'
+      record_date: '2026-08-13'
+      record_reference: https://www.youtube.com/watch?v=LBXmqvFs0Ec
+      content_hash: sha256:c685d061d160da6ae664b97e8b033d8d36090ea76d13c45792556dae22ae3344
+      friendly_name: null
+  - claim_id: d9714f4a-2f8d-4f6d-badf-6f0e30ced19d
+    claim_hash: d7c8421ec9cad548512f073078d5a57b25596027ecacafabd8e26f0d9d82ae2b
+    content: Phil McGraw observed litigation clients hiding a key document in plain sight by burying it among thousands of
+      other documents so it would be lost in the volume.
+    original_excerpt: And I saw clients oftentimes, if you want to hide something, do it in plain sight. Cover them up with
+      a sea of minutiae. and drop that key document in the middle of thousands of others of documents and hope that it gets
+      lost in the confetti of documentation.
+    claim_type: observation
+    attestation: first_hand
+    speaker:
+      node_id: b26a5e2e-9cb8-484e-92f8-d332245917b5
+      title: Phil McGraw
+    provenance_chain:
+      origin_kind: speaker
+      origin: Phil McGraw
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: b26a5e2e-9cb8-484e-92f8-d332245917b5
+        title: Phil McGraw
+        slug: phil-mcgraw
+    date: null
+    date_end: null
+    location_in_record: 00:28:56.8-00:29:16.1
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: eb21cb34-eec1-462d-9127-2d5e367cdfb9
+      record_title: 'David Grusch: The Whistleblower Who Told Congress We''re Not Alone'
+      record_date: '2026-08-13'
+      record_reference: https://www.youtube.com/watch?v=LBXmqvFs0Ec
+      content_hash: sha256:c685d061d160da6ae664b97e8b033d8d36090ea76d13c45792556dae22ae3344
+      friendly_name: null
+  - claim_id: 043b0968-056d-469d-ace5-cb2b9508a7a1
+    claim_hash: 4f8a180db4b96ad013de627ad2e21cede4883983632ef1b68184bc758a221504
+    content: Five tranches of Unidentified Aerial Phenomena (UAP) material have been released.
+    original_excerpt: as I see these five tranches of release and I see these grainy videos
+    claim_type: observation
+    attestation: first_hand
+    speaker:
+      node_id: b26a5e2e-9cb8-484e-92f8-d332245917b5
+      title: Phil McGraw
+    provenance_chain:
+      origin_kind: speaker
+      origin: Phil McGraw
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
+        title: Unidentified Anomalous Phenomena (UAP)
+        slug: unidentified-anomalous-phenomena-uap
+      - node_id: b26a5e2e-9cb8-484e-92f8-d332245917b5
+        title: Phil McGraw
+        slug: phil-mcgraw
+    date: null
+    date_end: null
+    location_in_record: 00:29:19.2-00:29:24.4
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: eb21cb34-eec1-462d-9127-2d5e367cdfb9
+      record_title: 'David Grusch: The Whistleblower Who Told Congress We''re Not Alone'
+      record_date: '2026-08-13'
+      record_reference: https://www.youtube.com/watch?v=LBXmqvFs0Ec
+      content_hash: sha256:c685d061d160da6ae664b97e8b033d8d36090ea76d13c45792556dae22ae3344
+      friendly_name: null
+  - claim_id: fd454502-8de9-4266-be16-ea77fae6f023
+    claim_hash: 820fd167a903785e83cd312eb0fd97aa8dc62605a96d5ae20780128bac147b0d
+    content: Phil McGraw considers the released Unidentified Aerial Phenomena (UAP) videos, radar tracks and infrared material
+      to be heavily degraded versions of what is available, since gun camera video is crystal clear when it is meant to be.
+    original_excerpt: I've seen gun camera video. It is crystal clear if you want it to be crystal clear. And radar tracks
+      and infrared, we're getting very degraded versions of what is available.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: b26a5e2e-9cb8-484e-92f8-d332245917b5
+      title: Phil McGraw
+    provenance_chain:
+      origin_kind: speaker
+      origin: Phil McGraw
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
+        title: Unidentified Anomalous Phenomena (UAP)
+        slug: unidentified-anomalous-phenomena-uap
+      - node_id: b26a5e2e-9cb8-484e-92f8-d332245917b5
+        title: Phil McGraw
+        slug: phil-mcgraw
+    date: null
+    date_end: null
+    location_in_record: 00:29:25.5-00:29:39.1
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: eb21cb34-eec1-462d-9127-2d5e367cdfb9
+      record_title: 'David Grusch: The Whistleblower Who Told Congress We''re Not Alone'
+      record_date: '2026-08-13'
+      record_reference: https://www.youtube.com/watch?v=LBXmqvFs0Ec
+      content_hash: sha256:c685d061d160da6ae664b97e8b033d8d36090ea76d13c45792556dae22ae3344
+      friendly_name: null
+  - claim_id: e757895a-dd97-4169-82ef-4999734284fa
+    claim_hash: cf8d79ffaadebe4e128f840c5f9ee76314a59bf83254154f9602b8bbc7db18d4
+    content: Phil McGraw believes Donald Trump intends there to be transparency on Unidentified Aerial Phenomena (UAP) and
+      that the degraded releases are not coming from him, but that the material becomes garbled once it enters the bureaucratic
+      apparatus.
+    original_excerpt: So I'm concerned about the intention. I don't think it's coming from President Trump. I think he intends
+      for there to be transparency here, but I think when it gets into the bureaucratic apparatus, it's getting garbled.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: b26a5e2e-9cb8-484e-92f8-d332245917b5
+      title: Phil McGraw
+    provenance_chain:
+      origin_kind: speaker
+      origin: Phil McGraw
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
+        title: Unidentified Anomalous Phenomena (UAP)
+        slug: unidentified-anomalous-phenomena-uap
+      - node_id: 816c219b-6372-49f6-9579-5eeabb9a7474
+        title: Donald Trump
+        slug: donald-trump
+      - node_id: b26a5e2e-9cb8-484e-92f8-d332245917b5
+        title: Phil McGraw
+        slug: phil-mcgraw
+    date: null
+    date_end: null
+    location_in_record: 00:29:40.3-00:29:56.3
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: eb21cb34-eec1-462d-9127-2d5e367cdfb9
+      record_title: 'David Grusch: The Whistleblower Who Told Congress We''re Not Alone'
+      record_date: '2026-08-13'
+      record_reference: https://www.youtube.com/watch?v=LBXmqvFs0Ec
+      content_hash: sha256:c685d061d160da6ae664b97e8b033d8d36090ea76d13c45792556dae22ae3344
+      friendly_name: null
+  - claim_id: f8384a38-a1fc-48c8-85b6-5dc6223e9139
+    claim_hash: 15fca0edd52c785e6ed19b3c17550b9ef8c64bcf84f433cda410aed84a432ff8
+    content: Phil McGraw was told that the nearest neighbouring system, the Andromeda Galaxy (M31), would take two and a half
+      million years to reach travelling at the speed of light.
+    original_excerpt: And I'm told that our nearest neighboring solar system is Andromeda, and that it would take two and
+      a half million years traveling at the speed of light to get there.
+    claim_type: hearsay
+    attestation: second_hand
+    speaker:
+      node_id: b26a5e2e-9cb8-484e-92f8-d332245917b5
+      title: Phil McGraw
+    provenance_chain:
+      origin_kind: anonymous
+      origin: an unnamed source who informed Phil McGraw
+      relay:
+        - Phil McGraw
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 4f594b97-57d8-439e-ae15-884627e69cf2
+        title: Andromeda Galaxy (M31)
+        slug: andromeda-galaxy-m31
+      - node_id: b26a5e2e-9cb8-484e-92f8-d332245917b5
+        title: Phil McGraw
+        slug: phil-mcgraw
+    date: null
+    date_end: null
+    location_in_record: 00:39:21.2-00:39:32.0
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: eb21cb34-eec1-462d-9127-2d5e367cdfb9
+      record_title: 'David Grusch: The Whistleblower Who Told Congress We''re Not Alone'
+      record_date: '2026-08-13'
+      record_reference: https://www.youtube.com/watch?v=LBXmqvFs0Ec
+      content_hash: sha256:c685d061d160da6ae664b97e8b033d8d36090ea76d13c45792556dae22ae3344
+      friendly_name: null
+  - claim_id: 9123f1d5-4568-4a03-8e47-8d63d512db67
+    claim_hash: 7a81dc89022f555462b75a6248001bf13ee28d87b9746eaeec45c93ad181db05
+    content: The speed of light is approximately 300,000 kilometres per second.
+    original_excerpt: Speed of light, what's 186,000 miles per second?
+    claim_type: measurement
+    attestation: first_hand
+    speaker:
+      node_id: b26a5e2e-9cb8-484e-92f8-d332245917b5
+      title: Phil McGraw
+    provenance_chain:
+      origin_kind: speaker
+      origin: Phil McGraw
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: b26a5e2e-9cb8-484e-92f8-d332245917b5
+        title: Phil McGraw
+        slug: phil-mcgraw
+    date: null
+    date_end: null
+    location_in_record: 00:39:51.8-00:39:55.5
+    evidence:
+      score: null
+      independent_sources: 2
+    provenance:
+      record_id: eb21cb34-eec1-462d-9127-2d5e367cdfb9
+      record_title: 'David Grusch: The Whistleblower Who Told Congress We''re Not Alone'
+      record_date: '2026-08-13'
+      record_reference: https://www.youtube.com/watch?v=LBXmqvFs0Ec
+      content_hash: sha256:c685d061d160da6ae664b97e8b033d8d36090ea76d13c45792556dae22ae3344
+      friendly_name: null
+  - claim_id: 69dee730-9096-4eb1-805b-4cc5e9f3331a
+    claim_hash: 6161f130fcc0c9ed1f99767827727f658e87da54db0f47b29f1598e8299d29e0
+    content: Phil McGraw put Voyager's speed at approximately 29,000 kilometres per hour.
+    original_excerpt: I think Voyager is, what, 10% of that? 18,000 miles an hour, something like that?
+    claim_type: measurement
+    attestation: first_hand
+    speaker:
+      node_id: b26a5e2e-9cb8-484e-92f8-d332245917b5
+      title: Phil McGraw
+    provenance_chain:
+      origin_kind: speaker
+      origin: Phil McGraw
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 44f802b8-114b-40ef-906a-cb053ff33ffc
+        title: Voyager 2
+        slug: voyager-2
+      - node_id: b26a5e2e-9cb8-484e-92f8-d332245917b5
+        title: Phil McGraw
+        slug: phil-mcgraw
+    date: null
+    date_end: null
+    location_in_record: 00:39:58.1-00:40:04.6
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: eb21cb34-eec1-462d-9127-2d5e367cdfb9
+      record_title: 'David Grusch: The Whistleblower Who Told Congress We''re Not Alone'
+      record_date: '2026-08-13'
+      record_reference: https://www.youtube.com/watch?v=LBXmqvFs0Ec
+      content_hash: sha256:c685d061d160da6ae664b97e8b033d8d36090ea76d13c45792556dae22ae3344
+      friendly_name: null
+  - claim_id: f9663ad5-65e0-4097-8a49-70d9c7525be9
+    claim_hash: da13757830ae29b62c8c826bf27aaebe9493e87480ed88ed55f0a903f78fbee2
+    content: No conventional runway takeoff fighter aircraft comes close to the speed of the Voyager spacecraft, and humans
+      cannot travel at the speed of light.
+    original_excerpt: And that's a spacecraft, so we certainly don't have any of our runway takeoff aircraft fighters that
+      get even close to that. So we can't travel at the speed of light.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: b26a5e2e-9cb8-484e-92f8-d332245917b5
+      title: Phil McGraw
+    provenance_chain:
+      origin_kind: speaker
+      origin: Phil McGraw
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 44f802b8-114b-40ef-906a-cb053ff33ffc
+        title: Voyager 2
+        slug: voyager-2
+      - node_id: b26a5e2e-9cb8-484e-92f8-d332245917b5
+        title: Phil McGraw
+        slug: phil-mcgraw
+    date: null
+    date_end: null
+    location_in_record: 00:40:05.8-00:40:21.0
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: eb21cb34-eec1-462d-9127-2d5e367cdfb9
+      record_title: 'David Grusch: The Whistleblower Who Told Congress We''re Not Alone'
+      record_date: '2026-08-13'
+      record_reference: https://www.youtube.com/watch?v=LBXmqvFs0Ec
+      content_hash: sha256:c685d061d160da6ae664b97e8b033d8d36090ea76d13c45792556dae22ae3344
+      friendly_name: null
+  - claim_id: 4b0355e9-4ea5-4af5-a9d6-c06f2d226747
+    claim_hash: 39ef8e0dac49b3bb36ff4a4a813777fc03c02aff39b00a01beeeaafe342bb033
+    content: Phil McGraw reasons that because the nearest neighbouring system is unreachable at human speeds, any visitors
+      must be hugely more advanced technologically than humans.
+    original_excerpt: So by the process of this deductive reasoning, they would have to be hugely advanced technologically
+      over what we have.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: b26a5e2e-9cb8-484e-92f8-d332245917b5
+      title: Phil McGraw
+    provenance_chain:
+      origin_kind: speaker
+      origin: Phil McGraw
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: b26a5e2e-9cb8-484e-92f8-d332245917b5
+        title: Phil McGraw
+        slug: phil-mcgraw
+      - node_id: fa4ba20c-867f-4754-b298-14b96e410072
+        title: Extraterrestrial hypothesis
+        slug: extraterrestrial-hypothesis
+    date: null
+    date_end: null
+    location_in_record: 00:40:24.4-00:40:37.6
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: eb21cb34-eec1-462d-9127-2d5e367cdfb9
+      record_title: 'David Grusch: The Whistleblower Who Told Congress We''re Not Alone'
+      record_date: '2026-08-13'
+      record_reference: https://www.youtube.com/watch?v=LBXmqvFs0Ec
+      content_hash: sha256:c685d061d160da6ae664b97e8b033d8d36090ea76d13c45792556dae22ae3344
+      friendly_name: null
+  - claim_id: 1fc277ae-9643-4131-8aeb-fd7dc5c271df
+    claim_hash: f50989af1927f68d5ca4a2a0add2229681e2f8970e4c7490a81abf1df6a5132f
+    content: The manoeuvrability seen in tracking data of Unidentified Aerial Phenomena (UAP) would create g-forces that human
+      pilots cannot sustain.
+    original_excerpt: And from what we have seen on some of the tracking and all, their maneuverability would create g-forces
+      that we can't sustain
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: b26a5e2e-9cb8-484e-92f8-d332245917b5
+      title: Phil McGraw
+    provenance_chain:
+      origin_kind: speaker
+      origin: Phil McGraw
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
+        title: Unidentified Anomalous Phenomena (UAP)
+        slug: unidentified-anomalous-phenomena-uap
+      - node_id: b26a5e2e-9cb8-484e-92f8-d332245917b5
+        title: Phil McGraw
+        slug: phil-mcgraw
+    date: null
+    date_end: null
+    location_in_record: 00:40:38.8-00:40:49.3
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: eb21cb34-eec1-462d-9127-2d5e367cdfb9
+      record_title: 'David Grusch: The Whistleblower Who Told Congress We''re Not Alone'
+      record_date: '2026-08-13'
+      record_reference: https://www.youtube.com/watch?v=LBXmqvFs0Ec
+      content_hash: sha256:c685d061d160da6ae664b97e8b033d8d36090ea76d13c45792556dae22ae3344
+      friendly_name: null
+  - claim_id: 84baa308-7db6-4c27-8a6d-f05047810cc6
+    claim_hash: d4428968511e541b7523ca3a354a94ac7de9b5afe0e0effbbce8a785ee5fe54f
+    content: Human metallurgy does not provide the structural strength to withstand the g-forces of turns made at the speeds
+      Unidentified Aerial Phenomena (UAP) travel at, and the best human fighter aircraft would break apart attempting such
+      a turn.
+    original_excerpt: we don't have the metallurgy to have the structural strength to sustain the g-forces that making turns
+      at the speeds they're moving at our best fighter would look like a yard sale if they made that kind of turn at that
+      kind of speed
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: b26a5e2e-9cb8-484e-92f8-d332245917b5
+      title: Phil McGraw
+    provenance_chain:
+      origin_kind: speaker
+      origin: Phil McGraw
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
+        title: Unidentified Anomalous Phenomena (UAP)
+        slug: unidentified-anomalous-phenomena-uap
+      - node_id: b26a5e2e-9cb8-484e-92f8-d332245917b5
+        title: Phil McGraw
+        slug: phil-mcgraw
+    date: null
+    date_end: null
+    location_in_record: 00:40:50.1-00:41:05.2
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: eb21cb34-eec1-462d-9127-2d5e367cdfb9
+      record_title: 'David Grusch: The Whistleblower Who Told Congress We''re Not Alone'
+      record_date: '2026-08-13'
+      record_reference: https://www.youtube.com/watch?v=LBXmqvFs0Ec
+      content_hash: sha256:c685d061d160da6ae664b97e8b033d8d36090ea76d13c45792556dae22ae3344
+      friendly_name: null
+  - claim_id: 8ff87920-5988-4942-a2f8-de4db0f4c0b6
+    claim_hash: b2825b29244bc479da81bb70f919cac263ada3477ebd80fcdc8128b020d6f5c5
+    content: Phil McGraw considers that successfully reverse engineering the propulsion of the recovered craft would render
+      existing fuel and propulsion systems antiquated.
+    original_excerpt: It seems like if you could reverse engineer that and figure that out, that would revolutionize everything.
+      I mean, the entire fuel systems and propulsion systems would become antiquated if you could reverse engineer what's
+      making these things go.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: b26a5e2e-9cb8-484e-92f8-d332245917b5
+      title: Phil McGraw
+    provenance_chain:
+      origin_kind: speaker
+      origin: Phil McGraw
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: b26a5e2e-9cb8-484e-92f8-d332245917b5
+        title: Phil McGraw
+        slug: phil-mcgraw
+      - node_id: b4258228-aad1-462d-8757-27a3a99fdaaf
+        title: Reverse engineering of recovered craft of non-human origin
+        slug: reverse-engineering-of-recovered-craft-of-non-human-origin
+    date: null
+    date_end: null
+    location_in_record: 00:41:23.0-00:41:43.0
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: eb21cb34-eec1-462d-9127-2d5e367cdfb9
+      record_title: 'David Grusch: The Whistleblower Who Told Congress We''re Not Alone'
+      record_date: '2026-08-13'
+      record_reference: https://www.youtube.com/watch?v=LBXmqvFs0Ec
+      content_hash: sha256:c685d061d160da6ae664b97e8b033d8d36090ea76d13c45792556dae22ae3344
+      friendly_name: null
+  - claim_id: 53684cf3-7375-4f91-b1c3-e83c9b755215
+    claim_hash: defa424dd7de1aeb98c3a7585da583790c3a4aed6638e6ed3baf470e3ae32e40
+    content: Phil McGraw considers that David Grusch's character has been attacked and many things said about him, but that
+      he has not been proven wrong.
+    original_excerpt: you know, they've said a lot of things about you, they've attacked your character, they've done a lot
+      of different things, but they haven't proven you wrong.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: b26a5e2e-9cb8-484e-92f8-d332245917b5
+      title: Phil McGraw
+    provenance_chain:
+      origin_kind: speaker
+      origin: Phil McGraw
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: b26a5e2e-9cb8-484e-92f8-d332245917b5
+        title: Phil McGraw
+        slug: phil-mcgraw
+      - node_id: d4241f5a-1063-4970-ba02-5a391c02d96d
+        title: David Charles Grusch
+        slug: david-charles-grusch
+    date: null
+    date_end: null
+    location_in_record: 00:45:59.1-00:46:10.5
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: eb21cb34-eec1-462d-9127-2d5e367cdfb9
+      record_title: 'David Grusch: The Whistleblower Who Told Congress We''re Not Alone'
+      record_date: '2026-08-13'
+      record_reference: https://www.youtube.com/watch?v=LBXmqvFs0Ec
+      content_hash: sha256:c685d061d160da6ae664b97e8b033d8d36090ea76d13c45792556dae22ae3344
+      friendly_name: null
+  - claim_id: 9aa5447b-3175-4bd4-aebc-43cf9337719f
+    claim_hash: 977dc8449e07246b197b964e63dee9e1ecdfe98241210b57b46347d660bf97f3
+    content: David Grusch believes he could take Phil McGraw, if cleared by the president, to facilities in the western United
+      States where a craft and a cadaver could be seen.
+    original_excerpt: 'Phil McGraw: you have the ability to take me to where we could see a craft and a cadaver somewhere,
+      somehow. you believe you could- David Grusch: Oh yeah, we could take a little field trip out west, we''ll say. Yeah,
+      and we could certainly go to those facilities, so.'
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: d4241f5a-1063-4970-ba02-5a391c02d96d
+      title: David Charles Grusch
+    provenance_chain:
+      origin_kind: speaker
+      origin: David Grusch
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 816c219b-6372-49f6-9579-5eeabb9a7474
+        title: Donald Trump
+        slug: donald-trump
+      - node_id: b26a5e2e-9cb8-484e-92f8-d332245917b5
+        title: Phil McGraw
+        slug: phil-mcgraw
+      - node_id: d4241f5a-1063-4970-ba02-5a391c02d96d
+        title: David Charles Grusch
+        slug: david-charles-grusch
+    date: null
+    date_end: null
+    location_in_record: 00:46:46.4-00:47:06.2
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: eb21cb34-eec1-462d-9127-2d5e367cdfb9
+      record_title: 'David Grusch: The Whistleblower Who Told Congress We''re Not Alone'
+      record_date: '2026-08-13'
+      record_reference: https://www.youtube.com/watch?v=LBXmqvFs0Ec
+      content_hash: sha256:c685d061d160da6ae664b97e8b033d8d36090ea76d13c45792556dae22ae3344
+      friendly_name: null
+  - claim_id: 7e837b4f-a5d6-4671-9c49-b4dbf3980b11
+    claim_hash: f6ba8a1552cc91472bcf61f6d4f8c5964bb4d99ac3884eef0bdc2d4039319220
+    content: Phil McGraw has discussed the Unidentified Aerial Phenomena (UAP) subject with Donald Trump, Stephen Miller,
+      Tim Burchett and Anna Paulina Luna.
+    original_excerpt: And I've discussed this with the president. I've discussed it with Stephen Miller. I've discussed it
+      with Representative Burchard and Luna.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: b26a5e2e-9cb8-484e-92f8-d332245917b5
+      title: Phil McGraw
+    provenance_chain:
+      origin_kind: speaker
+      origin: Phil McGraw
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 1d228903-0bd7-401a-9902-2656e6e85650
+        title: Anna Paulina Luna
+        slug: anna-paulina-luna
+      - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
+        title: Unidentified Anomalous Phenomena (UAP)
+        slug: unidentified-anomalous-phenomena-uap
+      - node_id: 71b8e508-1c7b-4573-a68e-34c777cdeffa
+        title: Tim Burchett
+        slug: tim-burchett
+      - node_id: 7d0a9d14-858f-43e0-81a5-eb173422d291
+        title: Stephen Miller
+        slug: stephen-miller
+      - node_id: 816c219b-6372-49f6-9579-5eeabb9a7474
+        title: Donald Trump
+        slug: donald-trump
+      - node_id: b26a5e2e-9cb8-484e-92f8-d332245917b5
+        title: Phil McGraw
+        slug: phil-mcgraw
+    date: null
+    date_end: null
+    location_in_record: 00:47:40.5-00:47:51.0
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: eb21cb34-eec1-462d-9127-2d5e367cdfb9
+      record_title: 'David Grusch: The Whistleblower Who Told Congress We''re Not Alone'
+      record_date: '2026-08-13'
+      record_reference: https://www.youtube.com/watch?v=LBXmqvFs0Ec
+      content_hash: sha256:c685d061d160da6ae664b97e8b033d8d36090ea76d13c45792556dae22ae3344
+      friendly_name: null
+  - claim_id: 05f0577b-740b-498f-9013-09fa45f53924
+    claim_hash: ced717986c6a0e239c94fff1e1235f09ff195dd55ec35769bb87e6d85da81cd5
+    content: Phil McGraw believes there are people from Donald Trump down who genuinely want transparency on Unidentified
+      Aerial Phenomena (UAP) and believe the American people are entitled to know their circumstance in the universe, but
+      that the effort gets garbled downstream.
+    original_excerpt: I've had discussions and I believe there are people from the president on down that truly want transparency
+      and believe that the American people are entitled to know their circumstance in the universe. I believe they truly want
+      that to happen. I think it gets garbled downstream.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: b26a5e2e-9cb8-484e-92f8-d332245917b5
+      title: Phil McGraw
+    provenance_chain:
+      origin_kind: speaker
+      origin: Phil McGraw
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
+        title: Unidentified Anomalous Phenomena (UAP)
+        slug: unidentified-anomalous-phenomena-uap
+      - node_id: 816c219b-6372-49f6-9579-5eeabb9a7474
+        title: Donald Trump
+        slug: donald-trump
+      - node_id: b26a5e2e-9cb8-484e-92f8-d332245917b5
+        title: Phil McGraw
+        slug: phil-mcgraw
+    date: null
+    date_end: null
+    location_in_record: 00:47:52.4-00:48:12.6
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: eb21cb34-eec1-462d-9127-2d5e367cdfb9
+      record_title: 'David Grusch: The Whistleblower Who Told Congress We''re Not Alone'
+      record_date: '2026-08-13'
+      record_reference: https://www.youtube.com/watch?v=LBXmqvFs0Ec
+      content_hash: sha256:c685d061d160da6ae664b97e8b033d8d36090ea76d13c45792556dae22ae3344
+      friendly_name: null
+  - claim_id: 8cb5ceae-1fbb-4d54-93a9-caa8dd401316
+    claim_hash: ecd2c70edee984627eefef9754d9cd2e3146b51837260b90d69886427d717af4
+    content: David Grusch has been open about his post-traumatic stress disorder (PTSD) from Afghanistan.
+    original_excerpt: I know you've been, as you say, been very open about your PTSD and all from Afghanistan.
+    claim_type: testimony
+    attestation: second_hand
+    speaker:
+      node_id: b26a5e2e-9cb8-484e-92f8-d332245917b5
+      title: Phil McGraw
+    provenance_chain:
+      origin_kind: named
+      origin: David Grusch
+      relay:
+        - Phil McGraw
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 85687100-9edf-4780-9111-ae7215a839c4
+        title: Afghanistan
+        slug: afghanistan
+      - node_id: abb638f9-5aad-44f4-828b-d52b1e70cbeb
+        title: Post-traumatic stress disorder (PTSD)
+        slug: post-traumatic-stress-disorder-ptsd
+      - node_id: d4241f5a-1063-4970-ba02-5a391c02d96d
+        title: David Charles Grusch
+        slug: david-charles-grusch
+    date: null
+    date_end: null
+    location_in_record: 00:52:25.4-00:52:32.3
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: eb21cb34-eec1-462d-9127-2d5e367cdfb9
+      record_title: 'David Grusch: The Whistleblower Who Told Congress We''re Not Alone'
+      record_date: '2026-08-13'
+      record_reference: https://www.youtube.com/watch?v=LBXmqvFs0Ec
+      content_hash: sha256:c685d061d160da6ae664b97e8b033d8d36090ea76d13c45792556dae22ae3344
+      friendly_name: null
+  - claim_id: a9e403ef-1c66-43ea-b615-0337a82e7fdf
+    claim_hash: 7e5886a8b85da510391d7af8cefc8f6436489082e89a0f05eedea4b08cdbf749
+    content: David Grusch's wife wrote in Phil McGraw and Oprah Winfrey in 2008 as write-in candidates for president and vice
+      president.
+    original_excerpt: she wanted me to tell you that she wrote you and oprah in in 2008 as candidates for president and vice
+      president as writing candidates
+    claim_type: hearsay
+    attestation: second_hand
+    speaker:
+      node_id: d4241f5a-1063-4970-ba02-5a391c02d96d
+      title: David Charles Grusch
+    provenance_chain:
+      origin_kind: anonymous
+      origin: David Grusch's wife
+      relay:
+        - David Grusch
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: b26a5e2e-9cb8-484e-92f8-d332245917b5
+        title: Phil McGraw
+        slug: phil-mcgraw
+      - node_id: d4241f5a-1063-4970-ba02-5a391c02d96d
+        title: David Charles Grusch
+        slug: david-charles-grusch
+      - node_id: ed1ba0e4-6b81-434e-a03e-6f3d675f5344
+        title: Oprah Winfrey
+        slug: oprah-winfrey
+    date: '2008'
+    date_end: null
+    location_in_record: 00:53:36.5-00:53:42.5
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: eb21cb34-eec1-462d-9127-2d5e367cdfb9
+      record_title: 'David Grusch: The Whistleblower Who Told Congress We''re Not Alone'
+      record_date: '2026-08-13'
+      record_reference: https://www.youtube.com/watch?v=LBXmqvFs0Ec
+      content_hash: sha256:c685d061d160da6ae664b97e8b033d8d36090ea76d13c45792556dae22ae3344
+      friendly_name: null
+  - claim_id: 163d856e-ec94-4b97-b5fc-c1a327d6905f
+    claim_hash: db9e8228b65655456c4a660dcf4dda1c1d7066a7f06ebad0b912a032b1f54913
+    content: Phil McGraw considers that people have the right to information about Unidentified Aerial Phenomena (UAP) and
+      to think critically about what it means to them.
+    original_excerpt: But you have the right to have information and think critically about it. And you have the right to
+      decide what it means to you
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: b26a5e2e-9cb8-484e-92f8-d332245917b5
+      title: Phil McGraw
+    provenance_chain:
+      origin_kind: speaker
+      origin: Phil McGraw
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
+        title: Unidentified Anomalous Phenomena (UAP)
+        slug: unidentified-anomalous-phenomena-uap
+      - node_id: b26a5e2e-9cb8-484e-92f8-d332245917b5
+        title: Phil McGraw
+        slug: phil-mcgraw
+    date: null
+    date_end: null
+    location_in_record: 00:54:39.8-00:54:49.0
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: eb21cb34-eec1-462d-9127-2d5e367cdfb9
+      record_title: 'David Grusch: The Whistleblower Who Told Congress We''re Not Alone'
+      record_date: '2026-08-13'
+      record_reference: https://www.youtube.com/watch?v=LBXmqvFs0Ec
+      content_hash: sha256:c685d061d160da6ae664b97e8b033d8d36090ea76d13c45792556dae22ae3344
+      friendly_name: null
+  - claim_id: a7e8141e-6951-4633-ab88-fb2f33f3f399
+    claim_hash: 6af2effd5b5ee23c8dfaa7fad62dbf830fa5cfee12ffbae51106c38a9a926b02
+    content: Phil McGraw considers that the government works for the public and that the public is entitled to get the truth
+      from it.
+    original_excerpt: And look, the government works for us. And we're entitled to get the truth from them.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: b26a5e2e-9cb8-484e-92f8-d332245917b5
+      title: Phil McGraw
+    provenance_chain:
+      origin_kind: speaker
+      origin: Phil McGraw
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: b26a5e2e-9cb8-484e-92f8-d332245917b5
+        title: Phil McGraw
+        slug: phil-mcgraw
+    date: null
+    date_end: null
+    location_in_record: 00:54:54.4-00:55:01.8
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: eb21cb34-eec1-462d-9127-2d5e367cdfb9
+      record_title: 'David Grusch: The Whistleblower Who Told Congress We''re Not Alone'
+      record_date: '2026-08-13'
+      record_reference: https://www.youtube.com/watch?v=LBXmqvFs0Ec
+      content_hash: sha256:c685d061d160da6ae664b97e8b033d8d36090ea76d13c45792556dae22ae3344
+      friendly_name: null
+  - claim_id: d9ce0f59-0c5a-4bfb-87e3-6b752f6bcceb
+    claim_hash: c700fe92329df93e552fa6e4492e62c0a3cef1b02a58c28c68b2d34c23f1e263
+    content: Phil McGraw considers David Grusch to have shown courage in stepping up and bringing hidden matters to light.
+    original_excerpt: it's people like David who have the courage to step up and shine lights on things that we otherwise
+      wouldn't know were going on
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: b26a5e2e-9cb8-484e-92f8-d332245917b5
+      title: Phil McGraw
+    provenance_chain:
+      origin_kind: speaker
+      origin: Phil McGraw
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: b26a5e2e-9cb8-484e-92f8-d332245917b5
+        title: Phil McGraw
+        slug: phil-mcgraw
+      - node_id: d4241f5a-1063-4970-ba02-5a391c02d96d
+        title: David Charles Grusch
+        slug: david-charles-grusch
+    date: null
+    date_end: null
+    location_in_record: 00:55:03.2-00:55:10.9
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: eb21cb34-eec1-462d-9127-2d5e367cdfb9
+      record_title: 'David Grusch: The Whistleblower Who Told Congress We''re Not Alone'
+      record_date: '2026-08-13'
+      record_reference: https://www.youtube.com/watch?v=LBXmqvFs0Ec
+      content_hash: sha256:c685d061d160da6ae664b97e8b033d8d36090ea76d13c45792556dae22ae3344
+      friendly_name: null
+  - claim_id: 67ab1666-cc89-4801-8a6f-82df4d1a3f2b
+    claim_hash: 477619cdbea34b0a1251fabdcabfda7265de83f1f26005d0c6413cd81bd8d5a8
+    content: Phil McGraw is a friend of Donald Trump.
+    original_excerpt: During the interview with Dr Phil - a friend of President Trump - Grusch said
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 816c219b-6372-49f6-9579-5eeabb9a7474
+        title: Donald Trump
+        slug: donald-trump
+      - node_id: b26a5e2e-9cb8-484e-92f8-d332245917b5
+        title: Phil McGraw
+        slug: phil-mcgraw
+    date: null
+    date_end: null
+    location_in_record: char:1023-1096
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3b884786-04ff-4e4b-816f-621161e9d948
+      record_title: Pressure Mounts on President Trump as UAP Disclosure Advocates Intensify Their Push
+      record_date: '2026-08-19'
+      record_reference: https://www.liberationtimes.com/home/the-push-for-ufo-disclosure-intensifies-as-pressure-mounts-on-donald-trump
+      content_hash: sha256:dc288b5d31307a5eb396b1ecc4f3e2ee1e01673ec8707bb47111173faa83e683
+      friendly_name: null

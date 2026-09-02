@@ -1,0 +1,979 @@
+schema: anomalica/brief/1
+brief_hash: 0b5c3e5705c0bd4ce6cea495fe16243f696d8b9cc6312880732ca1389a70ba84
+page:
+  kind: entity
+  node_id: 384dcdc2-dd40-4ad9-a731-8fc1ac9f8a77
+  node_type: organisation
+  title: National Investigations Committee on Aerial Phenomena (NICAP)
+  slug: national-investigations-committee-on-aerial-phenomena-nicap
+  claim_count: 22
+  claim_count_total: 22
+generated:
+  graph_version: '2026-09-01T10:10:49.863545+00:00'
+size:
+  claims: 22
+  tokens_estimated: 6735
+  sized_against: 1050000
+publication:
+  status: published
+  note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
+    transcripts are gated elsewhere.
+belonging:
+  verified: 0
+  suspect_excluded: 0
+  unreviewed: 22
+related_nodes:
+  - node_id: ba818a56-7be8-41bd-8dff-132bb4a8f7e9
+    title: Barney Hill
+    node_type: person
+    slug: barney-hill
+    shared_claims: 5
+  - node_id: 827a669c-493c-4ea2-a245-a47d300ef053
+    title: Betty Hill
+    node_type: person
+    slug: betty-hill
+    shared_claims: 5
+  - node_id: 38b84d4a-96df-4684-bb46-f6f64f392add
+    title: Central Intelligence Agency (CIA)
+    node_type: organisation
+    slug: central-intelligence-agency-cia
+    shared_claims: 3
+  - node_id: 76815898-cfc1-4d33-837b-113ed402ab4a
+    title: Donald Keyhoe
+    node_type: person
+    slug: donald-keyhoe
+    shared_claims: 3
+  - node_id: 41b6da9c-3edb-4cee-a042-dc7f469b8bc8
+    title: Delmer Fahrney
+    node_type: person
+    slug: delmer-fahrney
+    shared_claims: 2
+  - node_id: 0606a83a-eb1e-439f-a945-e8daef0d69c9
+    title: Roscoe Hillenkoetter
+    node_type: person
+    slug: roscoe-hillenkoetter
+    shared_claims: 2
+  - node_id: 6a0908ae-a9fa-4a24-9c24-20573b939788
+    title: 1954 Harry Turner Directorate of Air Force Intelligence (DAFI) Unidentified Aerial Phenomena (UAP) review
+    node_type: event
+    slug: 1954-harry-turner-directorate-of-air-force-intelligence-dafi-unidentified-aerial-phenomena-uap-review
+    shared_claims: 1
+  - node_id: a9463b39-2729-4c96-99d2-44d89dbbb31b
+    title: 1961 Betty and Barney Hill Unidentified Flying Object (UFO) abduction
+    node_type: event
+    slug: 1961-betty-and-barney-hill-unidentified-flying-object-ufo-abduction
+    shared_claims: 1
+  - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
+    title: 2004 USS Nimitz UAP encounter
+    node_type: event
+    slug: 2004-uss-nimitz-uap-encounter
+    shared_claims: 1
+  - node_id: 0e07f47f-6926-41f6-81f7-85f1f628a4c0
+    title: Benjamin Simon
+    node_type: person
+    slug: benjamin-simon
+    shared_claims: 1
+  - node_id: c351e49d-2e99-4b08-a1b3-e2f515f0c672
+    title: Bernard Corvalho
+    node_type: person
+    slug: bernard-corvalho
+    shared_claims: 1
+  - node_id: 26e4a0c7-7da3-4001-8f87-118941d1961c
+    title: Directorate of Air Force Intelligence Australia
+    node_type: organisation
+    slug: directorate-of-air-force-intelligence-australia
+    shared_claims: 1
+  - node_id: 442f8857-a05f-42e3-ba13-1040ab4b62ed
+    title: Harry Turner
+    node_type: person
+    slug: harry-turner
+    shared_claims: 1
+  - node_id: 11400f86-4619-4d7b-a1df-39e32e209e28
+    title: Joseph Ryan
+    node_type: person
+    slug: joseph-ryan
+    shared_claims: 1
+  - node_id: 53a2502b-b835-4869-945c-ee6a611a4073
+    title: Mutual Unidentified Flying Object (UFO) Network (MUFON)
+    node_type: organisation
+    slug: mutual-unidentified-flying-object-ufo-network-mufon
+    shared_claims: 1
+  - node_id: 7f50b2ea-b994-4ebb-ab38-55fe88036180
+    title: Nicholas de Rochefort
+    node_type: person
+    slug: nicholas-de-rochefort
+    shared_claims: 1
+  - node_id: 769601ed-5b7f-4833-ae21-5d60d0fddaaa
+    title: Project Blue Book
+    node_type: project
+    slug: project-blue-book
+    shared_claims: 1
+  - node_id: d92b06f4-08e6-4138-8c83-7959f54a61bc
+    title: Raymond E. Fowler
+    node_type: person
+    slug: raymond-e-fowler
+    shared_claims: 1
+  - node_id: caf1c89f-4922-48c6-8cae-f8f0cbd45a7a
+    title: Thomas Townsend Brown
+    node_type: person
+    slug: thomas-townsend-brown
+    shared_claims: 1
+  - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
+    title: Unidentified Flying Object (UFO)
+    node_type: topic
+    slug: unidentified-flying-object-ufo
+    shared_claims: 1
+  - node_id: 32b98a17-be55-4b0f-8e10-9d377e1e8b33
+    title: United States Air Force (USAF)
+    node_type: organisation
+    slug: united-states-air-force-usaf
+    shared_claims: 1
+  - node_id: 5ee4362d-c09b-44a8-a3be-8bd9c05f4c78
+    title: United States Navy (USN)
+    node_type: organisation
+    slug: united-states-navy-usn
+    shared_claims: 1
+  - node_id: adec06c4-e59e-410f-a766-bd9beebe1c58
+    title: United States Pentagon
+    node_type: place
+    slug: united-states-pentagon
+    shared_claims: 1
+claims:
+  - claim_id: dd4bad6b-df03-47bb-9702-ce61f5ffbcf7
+    claim_hash: f3018e26f2b922df45ab506331fd0d3c4e30da305718da8200da3d23e3bbe472
+    content: Barney and Betty Hill's case began with a six-page report from the National Investigations Committee on Aerial
+      Phenomena (NICAP) describing their sighting of an unidentified flying object.
+    original_excerpt: they began almost at the beginning with a six-page report from NICAP...this was the story of their seeing
+      an unidentified flying object, which was investigated by a NICAP investigator who made this report
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 0e07f47f-6926-41f6-81f7-85f1f628a4c0
+      title: Benjamin Simon
+    provenance_chain:
+      origin_kind: speaker
+      origin: Benjamin Simon
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 384dcdc2-dd40-4ad9-a731-8fc1ac9f8a77
+        title: National Investigations Committee on Aerial Phenomena (NICAP)
+        slug: national-investigations-committee-on-aerial-phenomena-nicap
+      - node_id: 827a669c-493c-4ea2-a245-a47d300ef053
+        title: Betty Hill
+        slug: betty-hill
+      - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
+        title: Unidentified Flying Object (UFO)
+        slug: unidentified-flying-object-ufo
+      - node_id: a9463b39-2729-4c96-99d2-44d89dbbb31b
+        title: 1961 Betty and Barney Hill Unidentified Flying Object (UFO) abduction
+        slug: 1961-betty-and-barney-hill-unidentified-flying-object-ufo-abduction
+      - node_id: ba818a56-7be8-41bd-8dff-132bb4a8f7e9
+        title: Barney Hill
+        slug: barney-hill
+    date: null
+    date_end: null
+    location_in_record: 00:02:15.3-00:02:36.0
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: eb893bbf-4f8a-4e42-9085-5fecfa87f924
+      record_title: The Hypnotist Who Unlocked Betty & Barney Hill’s Alien Memories | Dr. Benjamin Simon Speaks
+      record_date: null
+      record_reference: https://www.youtube.com/watch?v=aXCr-jdvp6U
+      content_hash: sha256:30f8c30c6c37f3e3a2f61e3a451cc200ad17dead4830f0088f8e0e7b9ee3f499
+      friendly_name: null
+  - claim_id: 0c742231-0b34-4cfa-b18b-601daf98fd3f
+    claim_hash: 1e038117b9a9f1725dba258368b37945603a4b1001ba84577664fb199e13eccf
+    content: The NICAP investigator who wrote the report on the Betty and Barney Hill sighting believed their story.
+    original_excerpt: He had intimated that they were put on his people and that he believed the story.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 0e07f47f-6926-41f6-81f7-85f1f628a4c0
+      title: Benjamin Simon
+    provenance_chain:
+      origin_kind: speaker
+      origin: Benjamin Simon
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 384dcdc2-dd40-4ad9-a731-8fc1ac9f8a77
+        title: National Investigations Committee on Aerial Phenomena (NICAP)
+        slug: national-investigations-committee-on-aerial-phenomena-nicap
+      - node_id: 827a669c-493c-4ea2-a245-a47d300ef053
+        title: Betty Hill
+        slug: betty-hill
+      - node_id: ba818a56-7be8-41bd-8dff-132bb4a8f7e9
+        title: Barney Hill
+        slug: barney-hill
+    date: null
+    date_end: null
+    location_in_record: 00:02:40.6-00:02:46.4
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: eb893bbf-4f8a-4e42-9085-5fecfa87f924
+      record_title: The Hypnotist Who Unlocked Betty & Barney Hill’s Alien Memories | Dr. Benjamin Simon Speaks
+      record_date: null
+      record_reference: https://www.youtube.com/watch?v=aXCr-jdvp6U
+      content_hash: sha256:30f8c30c6c37f3e3a2f61e3a451cc200ad17dead4830f0088f8e0e7b9ee3f499
+      friendly_name: null
+  - claim_id: 9f8cacc3-a7c9-45af-b3da-27ee16cf857f
+    claim_hash: 1340280a16ab69d320682aa1b1309c4374e002c50f04169c626c7ab808e6b2ea
+    content: Barney Hill and Betty Hill gave the same story under hypnosis, which was precisely like the story written up
+      by the NICAP investigator, with no significant differences between the three accounts.
+    original_excerpt: Barney and Betty gave the same story. And that story was precisely like the story that had been written
+      up by the NICAP investigators. There were no significant difference, in fact, actually no differences between the three.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 0e07f47f-6926-41f6-81f7-85f1f628a4c0
+      title: Benjamin Simon
+    provenance_chain:
+      origin_kind: speaker
+      origin: Benjamin Simon
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 0e07f47f-6926-41f6-81f7-85f1f628a4c0
+        title: Benjamin Simon
+        slug: benjamin-simon
+      - node_id: 384dcdc2-dd40-4ad9-a731-8fc1ac9f8a77
+        title: National Investigations Committee on Aerial Phenomena (NICAP)
+        slug: national-investigations-committee-on-aerial-phenomena-nicap
+      - node_id: 827a669c-493c-4ea2-a245-a47d300ef053
+        title: Betty Hill
+        slug: betty-hill
+      - node_id: ba818a56-7be8-41bd-8dff-132bb4a8f7e9
+        title: Barney Hill
+        slug: barney-hill
+    date: null
+    date_end: null
+    location_in_record: 00:06:19.7-00:06:36.6
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: eb893bbf-4f8a-4e42-9085-5fecfa87f924
+      record_title: The Hypnotist Who Unlocked Betty & Barney Hill’s Alien Memories | Dr. Benjamin Simon Speaks
+      record_date: null
+      record_reference: https://www.youtube.com/watch?v=aXCr-jdvp6U
+      content_hash: sha256:30f8c30c6c37f3e3a2f61e3a451cc200ad17dead4830f0088f8e0e7b9ee3f499
+      friendly_name: null
+  - claim_id: 30fa18df-9858-4c02-b1d3-66c28599f638
+    claim_hash: cf9c8058071382026d176b6ce5f0071f6d3362d255b8e6a832fb97421601d525
+    content: When the National Investigations Committee on Aerial Phenomena (NICAP) interviewed Betty and Barney Hill, NICAP
+      accepted their story completely.
+    original_excerpt: When Betty and Barney Hill were interviewed by NICAP, do you know, did the people in NICAP buy their
+      story, Hook, Line, and Sinker? ... Yes.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 0e07f47f-6926-41f6-81f7-85f1f628a4c0
+      title: Benjamin Simon
+    provenance_chain:
+      origin_kind: speaker
+      origin: Benjamin Simon
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 384dcdc2-dd40-4ad9-a731-8fc1ac9f8a77
+        title: National Investigations Committee on Aerial Phenomena (NICAP)
+        slug: national-investigations-committee-on-aerial-phenomena-nicap
+      - node_id: 827a669c-493c-4ea2-a245-a47d300ef053
+        title: Betty Hill
+        slug: betty-hill
+      - node_id: ba818a56-7be8-41bd-8dff-132bb4a8f7e9
+        title: Barney Hill
+        slug: barney-hill
+    date: null
+    date_end: null
+    location_in_record: 00:31:01.0-00:31:12.5
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: eb893bbf-4f8a-4e42-9085-5fecfa87f924
+      record_title: The Hypnotist Who Unlocked Betty & Barney Hill’s Alien Memories | Dr. Benjamin Simon Speaks
+      record_date: null
+      record_reference: https://www.youtube.com/watch?v=aXCr-jdvp6U
+      content_hash: sha256:30f8c30c6c37f3e3a2f61e3a451cc200ad17dead4830f0088f8e0e7b9ee3f499
+      friendly_name: null
+  - claim_id: b00c12af-691e-42b9-ac5a-153010230e6a
+    claim_hash: ae7d99846f140045761390ff67319ada5975e8d8d8b13cb3bf6f3ff8655a7525
+    content: Benjamin Simon considers it one of the greatest mistakes by the National Investigations Committee on Aerial Phenomena
+      (NICAP) that its interviewer, a scientist, never went to look at silver spots, about the size of a silver dollar, that
+      Betty and Barney Hill said were still visible on the back of their car.
+    original_excerpt: And NICAP made one of the greatest mistakes I have ever seen. And that is that the interviewer was a
+      scientist. And there was a story of these silver spots about the size of a silver dollar on the back of their car. ...
+      And for God knows what reason, he never went out to look at them.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 0e07f47f-6926-41f6-81f7-85f1f628a4c0
+      title: Benjamin Simon
+    provenance_chain:
+      origin_kind: speaker
+      origin: Benjamin Simon
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 384dcdc2-dd40-4ad9-a731-8fc1ac9f8a77
+        title: National Investigations Committee on Aerial Phenomena (NICAP)
+        slug: national-investigations-committee-on-aerial-phenomena-nicap
+      - node_id: 827a669c-493c-4ea2-a245-a47d300ef053
+        title: Betty Hill
+        slug: betty-hill
+      - node_id: ba818a56-7be8-41bd-8dff-132bb4a8f7e9
+        title: Barney Hill
+        slug: barney-hill
+    date: null
+    date_end: null
+    location_in_record: 00:31:14.0-00:31:39.4
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: eb893bbf-4f8a-4e42-9085-5fecfa87f924
+      record_title: The Hypnotist Who Unlocked Betty & Barney Hill’s Alien Memories | Dr. Benjamin Simon Speaks
+      record_date: null
+      record_reference: https://www.youtube.com/watch?v=aXCr-jdvp6U
+      content_hash: sha256:30f8c30c6c37f3e3a2f61e3a451cc200ad17dead4830f0088f8e0e7b9ee3f499
+      friendly_name: null
+  - claim_id: b28de0fc-7812-4f18-aee3-658a7f636190
+    claim_hash: 623e5b161f63e4eabccf510a5e4d458485c147d1950723fbdd90e1160ec69acc
+    content: Raymond Fowler held a state director's position first for the National Investigations Committee on Aerial Phenomena,
+      and more recently for the Mutual UFO Network.
+    original_excerpt: I held a state director's position, first for the National Investigations Committee on Aerial Phenomena,
+      and more recently the Mutual UFO Network
+    claim_type: administrative
+    attestation: first_hand
+    speaker:
+      node_id: d92b06f4-08e6-4138-8c83-7959f54a61bc
+      title: Raymond E. Fowler
+    provenance_chain:
+      origin_kind: speaker
+      origin: Raymond Fowler
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 384dcdc2-dd40-4ad9-a731-8fc1ac9f8a77
+        title: National Investigations Committee on Aerial Phenomena (NICAP)
+        slug: national-investigations-committee-on-aerial-phenomena-nicap
+      - node_id: 53a2502b-b835-4869-945c-ee6a611a4073
+        title: Mutual Unidentified Flying Object (UFO) Network (MUFON)
+        slug: mutual-unidentified-flying-object-ufo-network-mufon
+      - node_id: d92b06f4-08e6-4138-8c83-7959f54a61bc
+        title: Raymond E. Fowler
+        slug: raymond-e-fowler
+    date: null
+    date_end: null
+    location_in_record: 00:43:15.4-00:43:21.8
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 4c975267-b18f-447b-aea0-321d5f3aaf25
+      record_title: Raymond Fowler on UFOs, Government Cover-Ups & the Andreasson Affair (Full Interview, 1987)
+      record_date: null
+      record_reference: https://www.youtube.com/watch?v=eIx6NytOGTs
+      content_hash: sha256:c37a1f6968db0d7817235b1cb192758a04a3e990d89029bc48ff3facbb50e476
+      friendly_name: null
+  - claim_id: f15c72a4-ad1a-4396-8a99-2196c1221424
+    claim_hash: 657e938b39b58b2b0c4a4a5da0b01da8a853fad53ec0e8d46d337a3dbb0af419
+    content: Roscoe Hillenkoeter joined the Board of Directors of the National Investigations Committee on Aerial Phenomena
+      (NICAP).
+    original_excerpt: and joined the Board of Directors of NICAP
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 0606a83a-eb1e-439f-a945-e8daef0d69c9
+        title: Roscoe Hillenkoetter
+        slug: roscoe-hillenkoetter
+      - node_id: 384dcdc2-dd40-4ad9-a731-8fc1ac9f8a77
+        title: National Investigations Committee on Aerial Phenomena (NICAP)
+        slug: national-investigations-committee-on-aerial-phenomena-nicap
+    date: null
+    date_end: null
+    location_in_record: ch13:32773-32810
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: f0690aba-c78b-47f4-bb2f-f94ea04d55ee
+      record_title: 'Messengers of Deception: UFO Contacts and Cults'
+      record_date: '0101-01-01'
+      record_reference: null
+      content_hash: sha256:0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5ac9fd3168
+      friendly_name: 0101-01-01-ebook-messengers-of-deception-ufo-contacts-and-cults
+  - claim_id: b230ad06-681e-4da9-bfad-dd3d045b8f3e
+    claim_hash: 42f3677c047310de964c613964b69c0eca29f04576894df79e4fdad2b3f86f59
+    content: Bernard Corvalho was a well-known Intelligence operative among the leaders of the National Investigations Committee
+      on Aerial Phenomena (NICAP).
+    original_excerpt: 'Also among the leaders of NICAP were at least three well-known Intelligence operatives: Bernard Corvalho,
+      Nicholas de Rochefort, and Colonel Joseph Ryan.'
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
+      title: Jacques Vallée
+    provenance_chain:
+      origin_kind: speaker
+      origin: Jacques Vallée
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 384dcdc2-dd40-4ad9-a731-8fc1ac9f8a77
+        title: National Investigations Committee on Aerial Phenomena (NICAP)
+        slug: national-investigations-committee-on-aerial-phenomena-nicap
+      - node_id: c351e49d-2e99-4b08-a1b3-e2f515f0c672
+        title: Bernard Corvalho
+        slug: bernard-corvalho
+    date: null
+    date_end: null
+    location_in_record: ch13:32927-33075
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: f0690aba-c78b-47f4-bb2f-f94ea04d55ee
+      record_title: 'Messengers of Deception: UFO Contacts and Cults'
+      record_date: '0101-01-01'
+      record_reference: null
+      content_hash: sha256:0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5ac9fd3168
+      friendly_name: 0101-01-01-ebook-messengers-of-deception-ufo-contacts-and-cults
+  - claim_id: db169dc3-b510-4f9a-88ed-48491d6f0887
+    claim_hash: 2745d313a9db5cb633884e8ab61ea49056a2c699f8a435534715dabdc6380dc8
+    content: Colonel Joseph Ryan was a well-known Intelligence operative among the leaders of the National Investigations
+      Committee on Aerial Phenomena (NICAP).
+    original_excerpt: 'Also among the leaders of NICAP were at least three well-known Intelligence operatives: Bernard Corvalho,
+      Nicholas de Rochefort, and Colonel Joseph Ryan.'
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
+      title: Jacques Vallée
+    provenance_chain:
+      origin_kind: speaker
+      origin: Jacques Vallée
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 11400f86-4619-4d7b-a1df-39e32e209e28
+        title: Joseph Ryan
+        slug: joseph-ryan
+      - node_id: 384dcdc2-dd40-4ad9-a731-8fc1ac9f8a77
+        title: National Investigations Committee on Aerial Phenomena (NICAP)
+        slug: national-investigations-committee-on-aerial-phenomena-nicap
+    date: null
+    date_end: null
+    location_in_record: ch13:32927-33075
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: f0690aba-c78b-47f4-bb2f-f94ea04d55ee
+      record_title: 'Messengers of Deception: UFO Contacts and Cults'
+      record_date: '0101-01-01'
+      record_reference: null
+      content_hash: sha256:0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5ac9fd3168
+      friendly_name: 0101-01-01-ebook-messengers-of-deception-ufo-contacts-and-cults
+  - claim_id: f85d4c42-acf1-4978-8fbc-698b3b6dcf7f
+    claim_hash: d67a6f7bd56a09bec175a803bc5cf3dc64768cefba95ecd88098237e14023366
+    content: Nicholas de Rochefort was a well-known Intelligence operative among the leaders of the National Investigations
+      Committee on Aerial Phenomena (NICAP).
+    original_excerpt: 'Also among the leaders of NICAP were at least three well-known Intelligence operatives: Bernard Corvalho,
+      Nicholas de Rochefort, and Colonel Joseph Ryan.'
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
+      title: Jacques Vallée
+    provenance_chain:
+      origin_kind: speaker
+      origin: Jacques Vallée
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 384dcdc2-dd40-4ad9-a731-8fc1ac9f8a77
+        title: National Investigations Committee on Aerial Phenomena (NICAP)
+        slug: national-investigations-committee-on-aerial-phenomena-nicap
+      - node_id: 7f50b2ea-b994-4ebb-ab38-55fe88036180
+        title: Nicholas de Rochefort
+        slug: nicholas-de-rochefort
+    date: null
+    date_end: null
+    location_in_record: ch13:32927-33075
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: f0690aba-c78b-47f4-bb2f-f94ea04d55ee
+      record_title: 'Messengers of Deception: UFO Contacts and Cults'
+      record_date: '0101-01-01'
+      record_reference: null
+      content_hash: sha256:0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5ac9fd3168
+      friendly_name: 0101-01-01-ebook-messengers-of-deception-ufo-contacts-and-cults
+  - claim_id: 1ee20b8a-e19a-4f25-9f32-24b0d5367c94
+    claim_hash: 0bc5cf083039be6c86892780c760724f84b91549aae6d0fa8a7e834061e7adc4
+    content: The Board of Directors of the National Investigations Committee on Aerial Phenomena (NICAP) lists among its members
+      the former head of the Central Intelligence Agency (CIA).
+    original_excerpt: the Board of Directors of NICAP lists among its members the former head of the CIA
+    claim_type: observation
+    attestation: first_hand
+    speaker:
+      node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
+      title: Jacques Vallée
+    provenance_chain:
+      origin_kind: speaker
+      origin: Jacques Vallée
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 384dcdc2-dd40-4ad9-a731-8fc1ac9f8a77
+        title: National Investigations Committee on Aerial Phenomena (NICAP)
+        slug: national-investigations-committee-on-aerial-phenomena-nicap
+      - node_id: 38b84d4a-96df-4684-bb46-f6f64f392add
+        title: Central Intelligence Agency (CIA)
+        slug: central-intelligence-agency-cia
+    date: null
+    date_end: null
+    location_in_record: ch13:5933-6012
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: f0690aba-c78b-47f4-bb2f-f94ea04d55ee
+      record_title: 'Messengers of Deception: UFO Contacts and Cults'
+      record_date: '0101-01-01'
+      record_reference: null
+      content_hash: sha256:0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5ac9fd3168
+      friendly_name: 0101-01-01-ebook-messengers-of-deception-ufo-contacts-and-cults
+  - claim_id: e3d751cf-efbf-439a-9a50-f8a21f6aecf5
+    claim_hash: d81984d620a5f9262652bc097efdd22f98be06109789cdf37d7811aca2109117
+    content: Donald Keyhoe was a retired Marine aviator who was head of the National Investigations Committee on Aerial Phenomena
+      (NICAP), a civilian research organisation.
+    original_excerpt: Donald Keyhoe, a retired Marine aviator who was head of the National Investigations Committee on Aerial
+      Phenomena, a civilian research organization.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 384dcdc2-dd40-4ad9-a731-8fc1ac9f8a77
+        title: National Investigations Committee on Aerial Phenomena (NICAP)
+        slug: national-investigations-committee-on-aerial-phenomena-nicap
+      - node_id: 76815898-cfc1-4d33-837b-113ed402ab4a
+        title: Donald Keyhoe
+        slug: donald-keyhoe
+    date: null
+    date_end: null
+    location_in_record: ch4:43149-43284
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 288e1100-0497-41df-ba08-9890e519b0b9
+      record_title: American Cosmic
+      record_date: '2019'
+      record_reference: null
+      content_hash: sha256:ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b16ac4758
+      friendly_name: 2019-ebook-american-cosmic
+  - claim_id: ab0f8e65-e4a8-4f76-8c52-71a859d7b376
+    claim_hash: a699cf54fe508daf806de00925c078a11ead6bcc06b12ac40ffca8ccca82d9c7
+    content: Donald Keyhoe was co-founder of the National Investigations Committee on Aerial Phenomena (NICAP).
+    original_excerpt: The co-founder of the National Investigations Committee on Aerial Phenomena (NICAP), Major Donald Keyhoe
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: narration
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 384dcdc2-dd40-4ad9-a731-8fc1ac9f8a77
+        title: National Investigations Committee on Aerial Phenomena (NICAP)
+        slug: national-investigations-committee-on-aerial-phenomena-nicap
+      - node_id: 76815898-cfc1-4d33-837b-113ed402ab4a
+        title: Donald Keyhoe
+        slug: donald-keyhoe
+    date: null
+    date_end: null
+    location_in_record: ch8:14300-14398
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 975057a1-a650-44ae-941f-a6f1af71afc2
+    claim_hash: 7cc061e9d0bdc8b774cbe9970eb61d8bad357dec018f3de8d107dae868bf85f7
+    content: In 1956, the US National Investigations Committee on Aerial Phenomena began soliciting UAP witness reports, in
+      a direct challenge to the hold Project Blue Book had over UAP investigations.
+    original_excerpt: Four years earlier, in 1956, the US National Investigations Committee on Aerial Phenomena (NICAP) had
+      begun soliciting UAP witness reports, in a direct challenge to the hold the air force’s Project Blue Book had over UAP
+      investigations.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 384dcdc2-dd40-4ad9-a731-8fc1ac9f8a77
+        title: National Investigations Committee on Aerial Phenomena (NICAP)
+        slug: national-investigations-committee-on-aerial-phenomena-nicap
+      - node_id: 769601ed-5b7f-4833-ae21-5d60d0fddaaa
+        title: Project Blue Book
+        slug: project-blue-book
+    date: '1956'
+    date_end: null
+    location_in_record: ch9:14196-14417
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 894166fa-fd86-443a-a41f-45431730cbe6
+    claim_hash: b29c462069cb75963416be1a7712dd0d47cf765427621526e8b5cbd5fa6d2bb4
+    content: The National Investigations Committee on Aerial Phenomena was founded by inventor Thomas Townsend Brown in 1956
+      and soon attracted the support of many high-powered former military and intelligence officials.
+    original_excerpt: NICAP was founded by inventor Thomas Townsend Brown that year and it soon attracted the support of many
+      high-powered former military and intelligence officials.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 384dcdc2-dd40-4ad9-a731-8fc1ac9f8a77
+        title: National Investigations Committee on Aerial Phenomena (NICAP)
+        slug: national-investigations-committee-on-aerial-phenomena-nicap
+      - node_id: caf1c89f-4922-48c6-8cae-f8f0cbd45a7a
+        title: Thomas Townsend Brown
+        slug: thomas-townsend-brown
+    date: '1956'
+    date_end: null
+    location_in_record: ch9:14433-14583
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 909f2ddf-1eb2-4bdf-9c43-b87adc6b8599
+    claim_hash: 148dc49fa2f995b6de07ed931378599f551619f356a0c71e3e9bf2b1ff29aa78
+    content: Former CIA Director Roscoe Hillenkoetter, barely a year out of the job, was one of three former navy admirals
+      on the National Investigations Committee on Aerial Phenomena board.
+    original_excerpt: Former CIA Director Vice Admiral Roscoe Hillenkoetter, barely a year out of the job, was one of the
+      three former navy admirals on the NICAP board
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 0606a83a-eb1e-439f-a945-e8daef0d69c9
+        title: Roscoe Hillenkoetter
+        slug: roscoe-hillenkoetter
+      - node_id: 384dcdc2-dd40-4ad9-a731-8fc1ac9f8a77
+        title: National Investigations Committee on Aerial Phenomena (NICAP)
+        slug: national-investigations-committee-on-aerial-phenomena-nicap
+      - node_id: 38b84d4a-96df-4684-bb46-f6f64f392add
+        title: Central Intelligence Agency (CIA)
+        slug: central-intelligence-agency-cia
+    date: null
+    date_end: null
+    location_in_record: ch9:14715-14855
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: eb77fbbc-76d6-40ae-8638-e0982de3de3e
+    claim_hash: a151825f4902e62efd2f63bd9ea3290ca9334824d3d7e69a3913fa3c8d59aa1f
+    content: Rear Admiral Delmer Fahrney, the former head of the navy's guided missile program, was another of the three former
+      navy admirals on the National Investigations Committee on Aerial Phenomena board and would become NICAP's chairman.
+    original_excerpt: another was Rear Admiral Delmer Fahrney, the former head of the navy’s guided missile program, who would
+      become NICAP’s chairman
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 384dcdc2-dd40-4ad9-a731-8fc1ac9f8a77
+        title: National Investigations Committee on Aerial Phenomena (NICAP)
+        slug: national-investigations-committee-on-aerial-phenomena-nicap
+      - node_id: 41b6da9c-3edb-4cee-a042-dc7f469b8bc8
+        title: Delmer Fahrney
+        slug: delmer-fahrney
+      - node_id: 5ee4362d-c09b-44a8-a3be-8bd9c05f4c78
+        title: United States Navy (USN)
+        slug: united-states-navy-usn
+    date: null
+    date_end: null
+    location_in_record: ch9:14862-14982
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 38d969cb-758c-4431-80e6-2c95479260a0
+    claim_hash: 3d2f5a8f7deb7ed11139dc12d10098208b89fb64dd8cad229afab062754c3040
+    content: In January 1957, Delmer Fahrney announced the National Investigations Committee on Aerial Phenomena's belief
+      that no agency in the United States or Russia was able to duplicate at that time the speeds and accelerations which
+      radars and observers indicated these flying objects were able to achieve.
+    original_excerpt: In January 1957, Admiral Fahrney announced NICAP’s belief that ‘No agency in this country or Russia
+      is able to duplicate at this time the speeds and accelerations which radars and observers indicate these flying objects
+      are able to achieve.’
+    claim_type: opinion
+    attestation: second_hand
+    speaker:
+      node_id: 41b6da9c-3edb-4cee-a042-dc7f469b8bc8
+      title: Delmer Fahrney
+    provenance_chain:
+      origin_kind: named
+      origin: Delmer Fahrney
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 384dcdc2-dd40-4ad9-a731-8fc1ac9f8a77
+        title: National Investigations Committee on Aerial Phenomena (NICAP)
+        slug: national-investigations-committee-on-aerial-phenomena-nicap
+      - node_id: 41b6da9c-3edb-4cee-a042-dc7f469b8bc8
+        title: Delmer Fahrney
+        slug: delmer-fahrney
+    date: 1957-01
+    date_end: null
+    location_in_record: ch9:15584-15842
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: bef03521-2a16-40fc-b998-950e10a03c28
+    claim_hash: 39e69ebe440a447a2778b4c3ba718139451b569436a06f8bcaafd5b869199688
+    content: The Pentagon immediately went on a public offensive to discredit the National Investigations Committee on Aerial
+      Phenomena after Delmer Fahrney's 1957 statement.
+    original_excerpt: The Pentagon immediately went on a public offensive to discredit NICAP.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 384dcdc2-dd40-4ad9-a731-8fc1ac9f8a77
+        title: National Investigations Committee on Aerial Phenomena (NICAP)
+        slug: national-investigations-committee-on-aerial-phenomena-nicap
+      - node_id: adec06c4-e59e-410f-a766-bd9beebe1c58
+        title: United States Pentagon
+        slug: united-states-pentagon
+    date: 1957-01
+    date_end: null
+    location_in_record: ch9:16432-16497
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: b8b368cb-ede9-49db-8fce-f6b253920c85
+    claim_hash: 2993d1bf9104a89accb28adc099419abe46230c470b2fc3c46628fd68e1bf455
+    content: The 1953 US Navy carrier squadron UAP sighting was verified to the National Investigations Committee on Aerial
+      Phenomena by both pilots and navy officers.
+    original_excerpt: This incident was verified to NICAP both by pilots and navy officers.
+    claim_type: testimony
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 384dcdc2-dd40-4ad9-a731-8fc1ac9f8a77
+        title: National Investigations Committee on Aerial Phenomena (NICAP)
+        slug: national-investigations-committee-on-aerial-phenomena-nicap
+      - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
+        title: 2004 USS Nimitz UAP encounter
+        slug: 2004-uss-nimitz-uap-encounter
+    date: '1953'
+    date_end: null
+    location_in_record: ch9:16918-16978
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: dd1d2293-344b-4e05-9d78-cde44a42bd21
+    claim_hash: 1ce9aa94e80c2ed94d9da7816827a626d8e339c9d80dbba192694f6096325e81
+    content: Because Harry Turner quoted US flying saucer author and National Investigations Committee on Aerial Phenomena
+      director Donald Keyhoe in his research, Australia's Director of Air Force Intelligence dismissed Turner's findings after
+      consulting with the US Air Force.
+    original_excerpt: because Harry Turner quoted US best-selling flying saucer author and National Investigations Committee
+      on Aerial Phenomena director Major Donald Keyhoe in his research, Australia’s Director of Air Force Intelligence dismissed
+      Professor Turner’s findings, after consulting with the US Air Force
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 26e4a0c7-7da3-4001-8f87-118941d1961c
+        title: Directorate of Air Force Intelligence Australia
+        slug: directorate-of-air-force-intelligence-australia
+      - node_id: 32b98a17-be55-4b0f-8e10-9d377e1e8b33
+        title: United States Air Force (USAF)
+        slug: united-states-air-force-usaf
+      - node_id: 384dcdc2-dd40-4ad9-a731-8fc1ac9f8a77
+        title: National Investigations Committee on Aerial Phenomena (NICAP)
+        slug: national-investigations-committee-on-aerial-phenomena-nicap
+      - node_id: 442f8857-a05f-42e3-ba13-1040ab4b62ed
+        title: Harry Turner
+        slug: harry-turner
+      - node_id: 6a0908ae-a9fa-4a24-9c24-20573b939788
+        title: 1954 Harry Turner Directorate of Air Force Intelligence (DAFI) Unidentified Aerial Phenomena (UAP) review
+        slug: 1954-harry-turner-directorate-of-air-force-intelligence-dafi-unidentified-aerial-phenomena-uap-review
+      - node_id: 76815898-cfc1-4d33-837b-113ed402ab4a
+        title: Donald Keyhoe
+        slug: donald-keyhoe
+    date: '1954'
+    date_end: null
+    location_in_record: ch9:9728-10016
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 95535878-8316-4b17-bbef-5b243d3d8348
+    claim_hash: d8a86e69ec15c669bc9803f9827b303d9ee66f391584e225cee3af0401542455
+    content: The Central Intelligence Agency's scientific division officially acquired UFO-sighting case information from
+      the director of the National Investigations Committee on Aerial Phenomena (NICAP), a private organisation founded in
+      1956.
+    original_excerpt: The CIA's scientific division officially acquired UFO-sighting case information from the director of
+      the National Investigations Committee on Aerial Phenomena (NICAP), a private organization founded in 1956.
+    claim_type: administrative
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: document
+      origin: CIA's Role in the Study of UFOs, 1947-90
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 384dcdc2-dd40-4ad9-a731-8fc1ac9f8a77
+        title: National Investigations Committee on Aerial Phenomena (NICAP)
+        slug: national-investigations-committee-on-aerial-phenomena-nicap
+      - node_id: 38b84d4a-96df-4684-bb46-f6f64f392add
+        title: Central Intelligence Agency (CIA)
+        slug: central-intelligence-agency-cia
+    date: '1956'
+    date_end: null
+    location_in_record: char:47400-47602
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: d3743fdf-6a99-43ef-98d4-b79ef60f0e47
+      record_title: Report on the Historical Record of U.S. Government Involvement with Unidentified Anomalous Phenomena (UAP),
+        Volume I
+      record_date: '2024-02-01'
+      record_reference: null
+      content_hash: sha256:8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a94774067868
+      friendly_name: 2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a

@@ -1,0 +1,272 @@
+schema: anomalica/brief/1
+brief_hash: c714c48d4abfe0f79db06de409dc674500ce5bbd3dbf2d7694bf0c100b504441
+page:
+  kind: entity
+  node_id: 6b42ed17-f30c-4863-ad71-f939193f2c03
+  node_type: person
+  title: Gary McKinnon
+  slug: gary-mckinnon
+  claim_count: 5
+  claim_count_total: 5
+generated:
+  graph_version: '2026-09-01T10:10:49.863545+00:00'
+size:
+  claims: 5
+  tokens_estimated: 1441
+  sized_against: 1050000
+publication:
+  status: published
+  note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
+    transcripts are gated elsewhere.
+belonging:
+  verified: 0
+  suspect_excluded: 0
+  unreviewed: 5
+related_nodes:
+  - node_id: 92395963-b6b1-4e27-9885-b1dae7b11687
+    title: Secret space program
+    node_type: topic
+    slug: secret-space-program
+    shared_claims: 3
+  - node_id: 24d00311-06ac-46a1-a2f5-c99f3f8e21b2
+    title: Chris Ramsay
+    node_type: person
+    slug: chris-ramsay
+    shared_claims: 2
+  - node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+    title: Ross Coulthart
+    node_type: person
+    slug: ross-coulthart
+    shared_claims: 2
+  - node_id: 0e3a61c6-53fe-4d1d-ac5d-cbd4d60349bd
+    title: Haim Eshed
+    node_type: person
+    slug: haim-eshed
+    shared_claims: 1
+  - node_id: e1d127a8-1661-4e04-91f2-3a4a7cfd5562
+    title: Jesse Michels interview with Gary McKinnon
+    node_type: document
+    slug: jesse-michels-interview-with-gary-mckinnon
+    shared_claims: 1
+  - node_id: 079d4381-4273-418b-bc9a-468623f95c6e
+    title: Jesse Mitchells
+    node_type: person
+    slug: jesse-mitchells
+    shared_claims: 1
+  - node_id: 5e47c787-005b-4c91-ba4b-c9bec48146c9
+    title: National Aeronautics and Space Administration (NASA)
+    node_type: organisation
+    slug: national-aeronautics-and-space-administration-nasa
+    shared_claims: 1
+  - node_id: 0606a83a-eb1e-439f-a945-e8daef0d69c9
+    title: Roscoe Hillenkoetter
+    node_type: person
+    slug: roscoe-hillenkoetter
+    shared_claims: 1
+claims:
+  - claim_id: 4a9c90dc-2b94-4f8a-82d5-d0724df582ff
+    claim_hash: 4a8b1147f3847cde69f0d9aac87d6c3ae3a2ba5aa3c42f754c8219eb8e1c8c64
+    content: Gary McKinnon gained access to the back end of NASA systems and saw ship names that did not correspond to actual
+      known ships, personnel he could not verify, and a photograph of a craft.
+    original_excerpt: famously Gary Mckinnon had also spoken about when he when he had gotten into the back end of nasa and
+      saw these you know these ship names that weren't actual ship names and people he couldn't verify and then seeing you
+      know this craft on a photo
+    claim_type: hearsay
+    attestation: second_hand
+    speaker:
+      node_id: 24d00311-06ac-46a1-a2f5-c99f3f8e21b2
+      title: Chris Ramsay
+    provenance_chain:
+      origin_kind: named
+      origin: Gary McKinnon
+      relay:
+        - Gary McKinnon's public accounts
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 24d00311-06ac-46a1-a2f5-c99f3f8e21b2
+        title: Chris Ramsay
+        slug: chris-ramsay
+      - node_id: 5e47c787-005b-4c91-ba4b-c9bec48146c9
+        title: National Aeronautics and Space Administration (NASA)
+        slug: national-aeronautics-and-space-administration-nasa
+      - node_id: 6b42ed17-f30c-4863-ad71-f939193f2c03
+        title: Gary McKinnon
+        slug: gary-mckinnon
+      - node_id: 92395963-b6b1-4e27-9885-b1dae7b11687
+        title: Secret space program
+        slug: secret-space-program
+    date: null
+    date_end: null
+    location_in_record: 00:46:03.8-00:46:16.8
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: fd845823-8784-462c-a981-4775525b6f84
+      record_title: The DANGEROUS Truth About UFOs - Ross Coulthart | DEBRIEFED ep. 76
+      record_date: '2026-02-20'
+      record_reference: https://www.youtube.com/watch?v=idBryc0eWww
+      content_hash: sha256:73be106d406f6d35a063a894e8384e7da0918eb8597d2107a9e3653becca2bdc
+      friendly_name: null
+  - claim_id: 63c5b136-07b3-4734-b2dd-84a16d74695b
+    claim_hash: 815e549d2b079a8547bc18e174dfde10b68b64d79332bb52b598deac6a1d5dd3
+    content: One of the alleged secret space program vessel names reported by Gary McKinnon is a vessel named after Roscoe
+      Hillenkoetter.
+    original_excerpt: i love the fact that one of them is called the Hillencotter
+    claim_type: hearsay
+    attestation: second_hand
+    speaker:
+      node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+      title: Ross Coulthart
+    provenance_chain:
+      origin_kind: named
+      origin: Gary McKinnon
+      relay:
+        - Gary McKinnon's public accounts
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 0606a83a-eb1e-439f-a945-e8daef0d69c9
+        title: Roscoe Hillenkoetter
+        slug: roscoe-hillenkoetter
+      - node_id: 6b42ed17-f30c-4863-ad71-f939193f2c03
+        title: Gary McKinnon
+        slug: gary-mckinnon
+      - node_id: 92395963-b6b1-4e27-9885-b1dae7b11687
+        title: Secret space program
+        slug: secret-space-program
+      - node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+        title: Ross Coulthart
+        slug: ross-coulthart
+    date: null
+    date_end: null
+    location_in_record: 00:46:18.7-00:46:20.6
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: fd845823-8784-462c-a981-4775525b6f84
+      record_title: The DANGEROUS Truth About UFOs - Ross Coulthart | DEBRIEFED ep. 76
+      record_date: '2026-02-20'
+      record_reference: https://www.youtube.com/watch?v=idBryc0eWww
+      content_hash: sha256:73be106d406f6d35a063a894e8384e7da0918eb8597d2107a9e3653becca2bdc
+      friendly_name: null
+  - claim_id: b116da14-bf31-44b1-b1ae-005ce515b1f3
+    claim_hash: 7270fc08ea365ff47668ab5dedef0e960759a7c3291bc89995c06f5479d776f1
+    content: Ross Coulthart finds Gary McKinnon highly credible and does not consider him someone who is lying.
+    original_excerpt: I don't know what to make of Gary McKinnon other than the fact that I find him highly credible. He doesn't
+      strike me as somebody who's lying.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+      title: Ross Coulthart
+    provenance_chain:
+      origin_kind: speaker
+      origin: Ross Coulthart
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 6b42ed17-f30c-4863-ad71-f939193f2c03
+        title: Gary McKinnon
+        slug: gary-mckinnon
+      - node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+        title: Ross Coulthart
+        slug: ross-coulthart
+    date: null
+    date_end: null
+    location_in_record: 00:46:42.7-00:46:48.8
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: fd845823-8784-462c-a981-4775525b6f84
+      record_title: The DANGEROUS Truth About UFOs - Ross Coulthart | DEBRIEFED ep. 76
+      record_date: '2026-02-20'
+      record_reference: https://www.youtube.com/watch?v=idBryc0eWww
+      content_hash: sha256:73be106d406f6d35a063a894e8384e7da0918eb8597d2107a9e3653becca2bdc
+      friendly_name: null
+  - claim_id: 433465e0-974a-4c43-8ac0-a7e419ccc02d
+    claim_hash: e120c17eb3a032276d3d200ee82e648fa0d9cad3a99197e9192bf9ce81de39e8
+    content: Chris Ramsay considers Gary McKinnon's account, along with that of Haim Eshed, one of the few corroborating anecdotal
+      pieces of evidence for the existence of a secret space program.
+    original_excerpt: It's one of the few other corroborating sort of anecdotal pieces of evidence that we have confirming
+      this secret space program other than perhaps Haim Eshed, who also mentions this as well.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 24d00311-06ac-46a1-a2f5-c99f3f8e21b2
+      title: Chris Ramsay
+    provenance_chain:
+      origin_kind: speaker
+      origin: Chris Ramsay
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 0e3a61c6-53fe-4d1d-ac5d-cbd4d60349bd
+        title: Haim Eshed
+        slug: haim-eshed
+      - node_id: 24d00311-06ac-46a1-a2f5-c99f3f8e21b2
+        title: Chris Ramsay
+        slug: chris-ramsay
+      - node_id: 6b42ed17-f30c-4863-ad71-f939193f2c03
+        title: Gary McKinnon
+        slug: gary-mckinnon
+      - node_id: 92395963-b6b1-4e27-9885-b1dae7b11687
+        title: Secret space program
+        slug: secret-space-program
+    date: null
+    date_end: null
+    location_in_record: 00:46:49.8-00:47:02.6
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: fd845823-8784-462c-a981-4775525b6f84
+      record_title: The DANGEROUS Truth About UFOs - Ross Coulthart | DEBRIEFED ep. 76
+      record_date: '2026-02-20'
+      record_reference: https://www.youtube.com/watch?v=idBryc0eWww
+      content_hash: sha256:73be106d406f6d35a063a894e8384e7da0918eb8597d2107a9e3653becca2bdc
+      friendly_name: null
+  - claim_id: 2b7fabcc-4af6-4ecb-a6df-3e1378acc44e
+    claim_hash: 90ed82ce56b9c36e9ad487332f90850129f7a3c9c4e24398dcee09ca71b9f149
+    content: During the recording of Jesse Michels's interview with Gary McKinnon, Jesse Michels's phone froze completely.
+    original_excerpt: That happened to me in my McKinnon interview... And I filmed it. Yeah, I was like, I can't. My phone
+      is completely frozen.
+    claim_type: observation
+    attestation: first_hand
+    speaker:
+      node_id: 079d4381-4273-418b-bc9a-468623f95c6e
+      title: Jesse Mitchells
+    provenance_chain:
+      origin_kind: speaker
+      origin: Jesse Michels
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 079d4381-4273-418b-bc9a-468623f95c6e
+        title: Jesse Mitchells
+        slug: jesse-mitchells
+      - node_id: 6b42ed17-f30c-4863-ad71-f939193f2c03
+        title: Gary McKinnon
+        slug: gary-mckinnon
+      - node_id: e1d127a8-1661-4e04-91f2-3a4a7cfd5562
+        title: Jesse Michels interview with Gary McKinnon
+        slug: jesse-michels-interview-with-gary-mckinnon
+    date: null
+    date_end: null
+    location_in_record: lines 407-419
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: dc9d8bc8-9c1f-46b4-9b89-8d86b6b08e1d
+      record_title: Jesse Michels, UAPGerb & Chris Ramsay - Flying Saucer Diner
+      record_date: '2026-07-17'
+      record_reference: https://www.youtube.com/watch?v=HFLBDi87888
+      content_hash: sha256:7b2e272d7c82fdda745ee0354d7c9cc4b0d5ba5506015ca27edd9169a768b262
+      friendly_name: null

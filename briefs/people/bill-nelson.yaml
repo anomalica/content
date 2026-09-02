@@ -1,0 +1,373 @@
+schema: anomalica/brief/1
+brief_hash: 6e469716bc1baa7130af4110dc46d2e22cb3c00f8e0fbe11d3053bbac7be62aa
+page:
+  kind: entity
+  node_id: c6b4eb8e-321f-49d2-a627-29b365603977
+  node_type: person
+  title: Bill Nelson
+  slug: bill-nelson
+  claim_count: 8
+  claim_count_total: 8
+generated:
+  graph_version: '2026-09-01T10:10:49.863545+00:00'
+size:
+  claims: 8
+  tokens_estimated: 2360
+  sized_against: 1050000
+publication:
+  status: published
+  note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
+    transcripts are gated elsewhere.
+belonging:
+  verified: 0
+  suspect_excluded: 0
+  unreviewed: 8
+related_nodes:
+  - node_id: 5e47c787-005b-4c91-ba4b-c9bec48146c9
+    title: National Aeronautics and Space Administration (NASA)
+    node_type: organisation
+    slug: national-aeronautics-and-space-administration-nasa
+    shared_claims: 5
+  - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
+    title: Unidentified Anomalous Phenomena (UAP)
+    node_type: topic
+    slug: unidentified-anomalous-phenomena-uap
+    shared_claims: 3
+  - node_id: b258ba79-75af-4717-8da2-cd62d86428e6
+    title: Maaneli "Max" Derakhshani
+    node_type: person
+    slug: maaneli-max-derakhshani
+    shared_claims: 2
+  - node_id: a780b830-629b-42fd-9a3c-83da9eea0e78
+    title: Maxwell Frost
+    node_type: person
+    slug: maxwell-frost
+    shared_claims: 1
+  - node_id: 892a2221-56f5-471e-942f-ebdf5967d7be
+    title: Senate Armed Services Committee
+    node_type: organisation
+    slug: senate-armed-services-committee
+    shared_claims: 1
+  - node_id: d1b0c1f5-005e-4833-a948-e02f64cda258
+    title: US House Committee on Science, Space, and Technology
+    node_type: organisation
+    slug: space-and-technology-us-house-committee-on-science
+    shared_claims: 1
+  - node_id: 7485c32b-311e-4c47-9279-4b11d8149c7b
+    title: War.gov/UFOs release
+    node_type: document
+    slug: wargovufos-release
+    shared_claims: 1
+claims:
+  - claim_id: 4688ff30-22c0-4df9-a61c-fa0c25ba79ab
+    claim_hash: 0bdd6a7deec5a108e340dee1c627ed6df505f6906aba3688d2f555fd3308c24f
+    content: NASA Administrator Bill Nelson stated that NASA would begin to investigate Unidentified Anomalous Phenomena (UAP)
+      events.
+    original_excerpt: NASA Administrator Bill Nelson stated that NASA would begin to investigate these events.
+    claim_type: administrative
+    attestation: second_hand
+    speaker:
+      node_id: a780b830-629b-42fd-9a3c-83da9eea0e78
+      title: Maxwell Frost
+    provenance_chain:
+      origin_kind: named
+      origin: Bill Nelson
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 5e47c787-005b-4c91-ba4b-c9bec48146c9
+        title: National Aeronautics and Space Administration (NASA)
+        slug: national-aeronautics-and-space-administration-nasa
+      - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
+        title: Unidentified Anomalous Phenomena (UAP)
+        slug: unidentified-anomalous-phenomena-uap
+      - node_id: c6b4eb8e-321f-49d2-a627-29b365603977
+        title: Bill Nelson
+        slug: bill-nelson
+    date: null
+    date_end: null
+    location_in_record: char:86750-86831
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 5e233de3-335a-46b1-8b03-81df19638eae
+      record_title: 'Unidentified Anomalous Phenomena: Implications on National Security, Public Safety, and Government Transparency'
+      record_date: '2023-07-26'
+      record_reference: null
+      content_hash: sha256:e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed69a6d8ec1
+      friendly_name: 2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety
+  - claim_id: 762dd61a-06e0-46c7-962a-0b4d29858eac
+    claim_hash: cf8f10ee54103339384f5ec5459525477f3e5639a85c81ec896fbd1126b7e700
+    content: During a hearing of the United States House Committee on Science, Space, and Technology, Maxwell Frost asked
+      Bill Nelson why NASA needed to be fully funded, and Unidentified Anomalous Phenomena (UAP) was cited as one of the reasons.
+    original_excerpt: when we were doing a hearing with the NASA Administrator, Bill Nelson, I asked, you know, why NASA needed
+      to be fully funded. And there were many great reasons, but one of them was actually—had to do with UAPs.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: a780b830-629b-42fd-9a3c-83da9eea0e78
+      title: Maxwell Frost
+    provenance_chain:
+      origin_kind: speaker
+      origin: Maxwell Frost
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 5e47c787-005b-4c91-ba4b-c9bec48146c9
+        title: National Aeronautics and Space Administration (NASA)
+        slug: national-aeronautics-and-space-administration-nasa
+      - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
+        title: Unidentified Anomalous Phenomena (UAP)
+        slug: unidentified-anomalous-phenomena-uap
+      - node_id: a780b830-629b-42fd-9a3c-83da9eea0e78
+        title: Maxwell Frost
+        slug: maxwell-frost
+      - node_id: c6b4eb8e-321f-49d2-a627-29b365603977
+        title: Bill Nelson
+        slug: bill-nelson
+      - node_id: d1b0c1f5-005e-4833-a948-e02f64cda258
+        title: US House Committee on Science, Space, and Technology
+        slug: space-and-technology-us-house-committee-on-science
+    date: null
+    date_end: null
+    location_in_record: char:86905-87111
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 5e233de3-335a-46b1-8b03-81df19638eae
+      record_title: 'Unidentified Anomalous Phenomena: Implications on National Security, Public Safety, and Government Transparency'
+      record_date: '2023-07-26'
+      record_reference: null
+      content_hash: sha256:e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed69a6d8ec1
+      friendly_name: 2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety
+  - claim_id: 078b3adf-62b5-4513-a68c-ba84fa159637
+    claim_hash: 3931a1952bfa9a905c6012683d985bbfec4686b9e0f9ecb28621f0434e1600b8
+    content: Bill Nelson raised the question of whether there is life beyond Earth, saying he did not know.
+    original_excerpt: He actually mentioned, you know, is there life out there? I do not know.
+    claim_type: hearsay
+    attestation: second_hand
+    speaker:
+      node_id: a780b830-629b-42fd-9a3c-83da9eea0e78
+      title: Maxwell Frost
+    provenance_chain:
+      origin_kind: named
+      origin: Bill Nelson
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: c6b4eb8e-321f-49d2-a627-29b365603977
+        title: Bill Nelson
+        slug: bill-nelson
+    date: null
+    date_end: null
+    location_in_record: char:87117-87184
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 5e233de3-335a-46b1-8b03-81df19638eae
+      record_title: 'Unidentified Anomalous Phenomena: Implications on National Security, Public Safety, and Government Transparency'
+      record_date: '2023-07-26'
+      record_reference: null
+      content_hash: sha256:e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed69a6d8ec1
+      friendly_name: 2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety
+  - claim_id: bfd13895-7c75-49a5-9b7b-3cf9a8031531
+    claim_hash: 5ad60f67f9c61a9e79f4d05aee2532bab7b4cde45e1a4f8a826c8c84353e58f1
+    content: Bill Nelson, the director of the National Aeronautics and Space Administration (NASA), was formerly a member
+      of the US Senate Armed Services Committee at the time Christopher Mellon arranged for Navy aviators to brief its members
+      and staff.
+    original_excerpt: NASA director Bill Nelson was a member of the Senate Armed Services Committee at the time we arranged
+      for Navy aviators to brief Senate Armed Services Committee members and staff
+    claim_type: administrative
+    attestation: first_hand
+    speaker:
+      node_id: 5d06f518-dd64-4429-9026-b930e88660d2
+      title: Christopher K. Mellon
+    provenance_chain:
+      origin_kind: speaker
+      origin: Christopher Mellon
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 5e47c787-005b-4c91-ba4b-c9bec48146c9
+        title: National Aeronautics and Space Administration (NASA)
+        slug: national-aeronautics-and-space-administration-nasa
+      - node_id: 892a2221-56f5-471e-942f-ebdf5967d7be
+        title: Senate Armed Services Committee
+        slug: senate-armed-services-committee
+      - node_id: c6b4eb8e-321f-49d2-a627-29b365603977
+        title: Bill Nelson
+        slug: bill-nelson
+    date: null
+    date_end: null
+    location_in_record: ch6:22445-22618
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  - claim_id: c9a4d4b1-6601-4078-b093-416ee948a9ce
+    claim_hash: 3657987b42957df2d49cb08e982340c7a101cbd2d65e4f6a0fb5a90814380cd1
+    content: Bill Nelson, as NASA administrator, stated there was no evidence of any anomalous Unidentified Aerial Phenomena
+      (UAP) in any of NASA's imagery.
+    original_excerpt: as the NASA administrator at the time, Bill Nelson basically said there was no evidence of any anomalous
+      UAPs in any of the NASA imagery
+    claim_type: testimony
+    attestation: second_hand
+    speaker:
+      node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+      title: Ross Coulthart
+    provenance_chain:
+      origin_kind: named
+      origin: Bill Nelson
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 5e47c787-005b-4c91-ba4b-c9bec48146c9
+        title: National Aeronautics and Space Administration (NASA)
+        slug: national-aeronautics-and-space-administration-nasa
+      - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
+        title: Unidentified Anomalous Phenomena (UAP)
+        slug: unidentified-anomalous-phenomena-uap
+      - node_id: c6b4eb8e-321f-49d2-a627-29b365603977
+        title: Bill Nelson
+        slug: bill-nelson
+    date: null
+    date_end: null
+    location_in_record: 00:07:04.1-00:07:13.4
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: b3fda652-3dc2-4acc-b9ce-4b130add124f
+      record_title: What Did Apollo Astronauts Really See on the Moon? | Reality Check with Ross Coulthart
+      record_date: '2026-08-10'
+      record_reference: https://www.youtube.com/watch?v=lp-ta37pVKw
+      content_hash: sha256:f37882ab1f880101b3e452e3802d7afc296c07eb413f65ebea554984f3b8cdef
+      friendly_name: null
+  - claim_id: a5467490-2da8-4ed0-8dce-9cf448af0104
+    claim_hash: cb1483bc740dd0af9abe4719ed070f598fbee485462fda248b3a06ab779697ba
+    content: Maaneli "Max" Derakhshani considers Bill Nelson's statement that there was no evidence of anomalous imagery to
+      be unable to be rationally sustained in light of the war.gov/UFOs release.
+    original_excerpt: Can't be rationally sustained.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: b258ba79-75af-4717-8da2-cd62d86428e6
+      title: Maaneli "Max" Derakhshani
+    provenance_chain:
+      origin_kind: speaker
+      origin: Maaneli "Max" Derakhshani
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 7485c32b-311e-4c47-9279-4b11d8149c7b
+        title: War.gov/UFOs release
+        slug: wargovufos-release
+      - node_id: b258ba79-75af-4717-8da2-cd62d86428e6
+        title: Maaneli "Max" Derakhshani
+        slug: maaneli-max-derakhshani
+      - node_id: c6b4eb8e-321f-49d2-a627-29b365603977
+        title: Bill Nelson
+        slug: bill-nelson
+    date: null
+    date_end: null
+    location_in_record: 00:07:21.7-00:07:23.5
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: b3fda652-3dc2-4acc-b9ce-4b130add124f
+      record_title: What Did Apollo Astronauts Really See on the Moon? | Reality Check with Ross Coulthart
+      record_date: '2026-08-10'
+      record_reference: https://www.youtube.com/watch?v=lp-ta37pVKw
+      content_hash: sha256:f37882ab1f880101b3e452e3802d7afc296c07eb413f65ebea554984f3b8cdef
+      friendly_name: null
+  - claim_id: e76f46a1-1f69-4e07-9679-7b6bce88b2b2
+    claim_hash: 1ecb30bf1432550e7be0355befc06cb42c94b7b41773890053ec24338355faf3
+    content: 'Maaneli "Max" Derakhshani considers there to be only two possibilities regarding Bill Nelson''s statement about
+      NASA imagery: either Bill Nelson was completely uninformed and never examined NASA''s archives in detail, or Bill Nelson
+      knew what was in NASA''s archives and decided to lie to the public.'
+    original_excerpt: So there are only two possibilities as far as I can see. Either Bill Nelson was completely uninformed.
+      He never looked into the archives himself in any detail... Or he knows what's in the archives, NASA's archives, and
+      he just decided to lie to the public.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: b258ba79-75af-4717-8da2-cd62d86428e6
+      title: Maaneli "Max" Derakhshani
+    provenance_chain:
+      origin_kind: speaker
+      origin: Maaneli "Max" Derakhshani
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 5e47c787-005b-4c91-ba4b-c9bec48146c9
+        title: National Aeronautics and Space Administration (NASA)
+        slug: national-aeronautics-and-space-administration-nasa
+      - node_id: b258ba79-75af-4717-8da2-cd62d86428e6
+        title: Maaneli "Max" Derakhshani
+        slug: maaneli-max-derakhshani
+      - node_id: c6b4eb8e-321f-49d2-a627-29b365603977
+        title: Bill Nelson
+        slug: bill-nelson
+    date: null
+    date_end: null
+    location_in_record: 00:07:24.0-00:07:47.5
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: b3fda652-3dc2-4acc-b9ce-4b130add124f
+      record_title: What Did Apollo Astronauts Really See on the Moon? | Reality Check with Ross Coulthart
+      record_date: '2026-08-10'
+      record_reference: https://www.youtube.com/watch?v=lp-ta37pVKw
+      content_hash: sha256:f37882ab1f880101b3e452e3802d7afc296c07eb413f65ebea554984f3b8cdef
+      friendly_name: null
+  - claim_id: 9b839e37-94d4-469b-b2c4-88870fce1e99
+    claim_hash: b8f73bbea4c92a7ceb4eb8d973037152ad60b9c2e436a87578478850a630ae1b
+    content: An unnamed person told Ross Coulthart that Bill Nelson may very well not have been briefed on NASA's UAP-related
+      imagery.
+    original_excerpt: I was told by one person that Bill may very well not have been briefed.
+    claim_type: hearsay
+    attestation: second_hand
+    speaker:
+      node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+      title: Ross Coulthart
+    provenance_chain:
+      origin_kind: anonymous
+      origin: a person claiming knowledge of whether Bill Nelson was briefed
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: c6b4eb8e-321f-49d2-a627-29b365603977
+        title: Bill Nelson
+        slug: bill-nelson
+    date: null
+    date_end: null
+    location_in_record: 00:07:59.3-00:08:03.3
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: b3fda652-3dc2-4acc-b9ce-4b130add124f
+      record_title: What Did Apollo Astronauts Really See on the Moon? | Reality Check with Ross Coulthart
+      record_date: '2026-08-10'
+      record_reference: https://www.youtube.com/watch?v=lp-ta37pVKw
+      content_hash: sha256:f37882ab1f880101b3e452e3802d7afc296c07eb413f65ebea554984f3b8cdef
+      friendly_name: null

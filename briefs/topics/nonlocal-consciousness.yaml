@@ -1,0 +1,2189 @@
+schema: anomalica/brief/1
+brief_hash: 20bdffd0f8158b04082a676be86bdc571c68b42f09ca4573821866b117b1ad17
+page:
+  kind: entity
+  node_id: e54f1c29-1780-4810-9c40-4f9baa9f8276
+  node_type: topic
+  title: Nonlocal consciousness
+  slug: nonlocal-consciousness
+  claim_count: 51
+  claim_count_total: 51
+generated:
+  graph_version: '2026-09-01T10:10:49.863545+00:00'
+size:
+  claims: 51
+  tokens_estimated: 16032
+  sized_against: 1050000
+publication:
+  status: published
+  note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
+    transcripts are gated elsewhere.
+belonging:
+  verified: 0
+  suspect_excluded: 0
+  unreviewed: 51
+related_nodes:
+  - node_id: 8d3ca113-3f28-4808-998e-34d2837332a5
+    title: Julia Mossbridge
+    node_type: person
+    slug: julia-mossbridge
+    shared_claims: 16
+  - node_id: a541d9c0-8e46-4def-9ac6-a5d834cb9972
+    title: Pim van Lommel
+    node_type: person
+    slug: pim-van-lommel
+    shared_claims: 15
+  - node_id: 24d00311-06ac-46a1-a2f5-c99f3f8e21b2
+    title: Chris Ramsay
+    node_type: person
+    slug: chris-ramsay
+    shared_claims: 6
+  - node_id: 425bc3c7-e4ce-451d-9c0a-fc3de2f415cd
+    title: Informational substrate
+    node_type: topic
+    slug: informational-substrate
+    shared_claims: 5
+  - node_id: 20761aba-46ad-4780-a1a9-c8ad2171af7d
+    title: Near-death experience (NDE)
+    node_type: topic
+    slug: near-death-experience-nde
+    shared_claims: 5
+  - node_id: 8b0155a9-fabc-4b8d-9ee9-45eac58dbf2e
+    title: Out-of-Body Experience (OBE)
+    node_type: topic
+    slug: out-of-body-experience-obe
+    shared_claims: 4
+  - node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+    title: Ross Coulthart
+    node_type: person
+    slug: ross-coulthart
+    shared_claims: 4
+  - node_id: 45c38426-8f8a-4152-981e-19f1fd5ebd86
+    title: Filter theory of consciousness
+    node_type: topic
+    slug: filter-theory-of-consciousness
+    shared_claims: 3
+  - node_id: 9f3ccc3e-416a-4745-8ade-95e73c83a049
+    title: Materialist paradigm of consciousness
+    node_type: topic
+    slug: materialist-paradigm-of-consciousness
+    shared_claims: 2
+  - node_id: 8d46574b-05d7-4112-b31f-339f93b3d360
+    title: Quantum nonlocality
+    node_type: topic
+    slug: quantum-nonlocality
+    shared_claims: 2
+  - node_id: 23946db4-a580-4494-b572-8ec5778678ee
+    title: Spain, Barcelona
+    node_type: place
+    slug: barcelona-spain
+    shared_claims: 2
+  - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
+    title: Unidentified Anomalous Phenomena (UAP)
+    node_type: topic
+    slug: unidentified-anomalous-phenomena-uap
+    shared_claims: 2
+  - node_id: ec527113-0912-4b33-81d6-d58f7df79dc1
+    title: After-death communication (ADC)
+    node_type: topic
+    slug: after-death-communication-adc
+    shared_claims: 1
+  - node_id: 6549aa4f-e335-4d14-8350-fd32c49031cd
+    title: Akashic field
+    node_type: topic
+    slug: akashic-field
+    shared_claims: 1
+  - node_id: 6705ff37-f3d0-4c33-a3f8-de6024104abb
+    title: Bruce Greyson
+    node_type: person
+    slug: bruce-greyson
+    shared_claims: 1
+  - node_id: 091f459e-bde8-4abc-a7c8-28ee007f7aab
+    title: Dissociation
+    node_type: topic
+    slug: dissociation
+    shared_claims: 1
+  - node_id: a0a13636-e073-42d1-8773-ec76f0367f44
+    title: Freda
+    node_type: person
+    slug: freda
+    shared_claims: 1
+  - node_id: 3b62adb4-0814-4889-ae74-bb8a60c26541
+    title: Greyson 2003 American prospective Near-Death Experience (NDE) study
+    node_type: document
+    slug: greyson-2003-american-prospective-near-death-experience-nde-study
+    shared_claims: 1
+  - node_id: 3459248f-19d9-4476-bac6-9687ede09aa4
+    title: Jane Katra
+    node_type: person
+    slug: jane-katra
+    shared_claims: 1
+  - node_id: 953f6232-9902-437f-ad4c-add4fd080043
+    title: Leslie Kean
+    node_type: person
+    slug: leslie-kean
+    shared_claims: 1
+  - node_id: 20590172-0bd0-4122-bf4b-16af0a491827
+    title: 'Miracles of Mind: Exploring Nonlocal Mind and Spiritual Healing (book by Russell Targ and Jane Katra)'
+    node_type: document
+    slug: miracles-of-mind-exploring-nonlocal-mind-and-spiritual-healing-book-by-russell-targ-and-jane-katra
+    shared_claims: 1
+  - node_id: ac050fca-beee-4b02-b808-a976ff75b610
+    title: Pam Reynolds
+    node_type: person
+    slug: pam-reynolds
+    shared_claims: 1
+  - node_id: 0994420f-7645-4f8c-b2ea-7d18f2e0146d
+    title: Peter Fenwick
+    node_type: person
+    slug: peter-fenwick
+    shared_claims: 1
+  - node_id: 3ee2cac3-ff50-4eff-8353-cd4c6ac0a30f
+    title: Precognition
+    node_type: topic
+    slug: precognition
+    shared_claims: 1
+  - node_id: 4a996a9b-9692-4d1a-8218-ee7ec7cb1f7c
+    title: Precognitive Remote Viewing
+    node_type: topic
+    slug: precognitive-remote-viewing
+    shared_claims: 1
+  - node_id: e7eb0766-9fee-4759-b721-38beb853ee1d
+    title: Psi (psychic functioning)
+    node_type: topic
+    slug: psi-psychic-functioning
+    shared_claims: 1
+  - node_id: e458c0c4-74c0-4642-b871-17c917cb8dcc
+    title: Roger Penrose
+    node_type: person
+    slug: roger-penrose
+    shared_claims: 1
+  - node_id: eaceaab4-6d50-49da-9974-e72719de76e9
+    title: Russell Targ
+    node_type: person
+    slug: russell-targ
+    shared_claims: 1
+  - node_id: a3c6c31c-1d30-47e3-9dc2-215371969cc6
+    title: Scientific Coalition for Unidentified Aerial Phenomena (UAP) Studies
+    node_type: organisation
+    slug: scientific-coalition-for-unidentified-aerial-phenomena-uap-studies
+    shared_claims: 1
+  - node_id: 6a14e481-40a1-43c8-aa57-2def9a30a1fa
+    title: Sigmund Freud
+    node_type: person
+    slug: sigmund-freud
+    shared_claims: 1
+claims:
+  - claim_id: cc896841-3f13-4ab4-9330-2752c56cca85
+    claim_hash: ad4e0586f92f22ac5a883a4f7555e48d98cf575ed828ba44e67f1b6b834ca7dc
+    content: Pim van Lommel considers that, beyond a reasonable doubt, there is a continuity of consciousness after the death
+      of the physical body.
+    original_excerpt: After many years of research, it has become clear to me that, beyond a reasonable doubt, there is a
+      continuity of consciousness after the death of our physical body.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: a541d9c0-8e46-4def-9ac6-a5d834cb9972
+      title: Pim van Lommel
+    provenance_chain:
+      origin_kind: speaker
+      origin: Pim van Lommel
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 20761aba-46ad-4780-a1a9-c8ad2171af7d
+        title: Near-death experience (NDE)
+        slug: near-death-experience-nde
+      - node_id: a541d9c0-8e46-4def-9ac6-a5d834cb9972
+        title: Pim van Lommel
+        slug: pim-van-lommel
+      - node_id: e54f1c29-1780-4810-9c40-4f9baa9f8276
+        title: Nonlocal consciousness
+        slug: nonlocal-consciousness
+    date: null
+    date_end: null
+    location_in_record: ch18:1191-1345
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
+      record_title: Surviving Death
+      record_date: '2017-03-07'
+      record_reference: null
+      content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
+      friendly_name: 2017-03-07-ebook-surviving-death
+  - claim_id: f574c368-4d1d-4b17-8f04-ecebf44e0afa
+    claim_hash: da66b7d9a96516b60d6e4309238e1c834876a8037c97fc4554359aea91d91cb5
+    content: Pim van Lommel considers that enhanced consciousness with memories and perception from a position out of and
+      above the lifeless body can be experienced during a period of unconsciousness, independently of the brain and body.
+    original_excerpt: Enhanced consciousness, with memories and perception from a position out of and above the lifeless body,
+      can be experienced during a period of unconsciousness, independently of the brain and body.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: a541d9c0-8e46-4def-9ac6-a5d834cb9972
+      title: Pim van Lommel
+    provenance_chain:
+      origin_kind: speaker
+      origin: Pim van Lommel
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 20761aba-46ad-4780-a1a9-c8ad2171af7d
+        title: Near-death experience (NDE)
+        slug: near-death-experience-nde
+      - node_id: e54f1c29-1780-4810-9c40-4f9baa9f8276
+        title: Nonlocal consciousness
+        slug: nonlocal-consciousness
+    date: null
+    date_end: null
+    location_in_record: ch18:14851-15042
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
+      record_title: Surviving Death
+      record_date: '2017-03-07'
+      record_reference: null
+      content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
+      friendly_name: 2017-03-07-ebook-surviving-death
+  - claim_id: 66ad161c-9c7f-4c97-88a2-5658bc5b8fb3
+    claim_hash: cb45451f77d6cf4b1ba9b88f49ce7a68ea756c3cad0465c1f215d20151c4f224
+    content: Pim van Lommel considers that, based on cases of corroborated out-of-body experiences, there are good reasons
+      to assume that consciousness does not always coincide with the functioning of the brain.
+    original_excerpt: Based on these cases of corroborated OBEs, I think that there are good reasons to assume that our consciousness
+      does not always coincide with the functioning of our brain.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: a541d9c0-8e46-4def-9ac6-a5d834cb9972
+      title: Pim van Lommel
+    provenance_chain:
+      origin_kind: speaker
+      origin: Pim van Lommel
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 8b0155a9-fabc-4b8d-9ee9-45eac58dbf2e
+        title: Out-of-Body Experience (OBE)
+        slug: out-of-body-experience-obe
+      - node_id: e54f1c29-1780-4810-9c40-4f9baa9f8276
+        title: Nonlocal consciousness
+        slug: nonlocal-consciousness
+    date: null
+    date_end: null
+    location_in_record: ch18:18921-19086
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
+      record_title: Surviving Death
+      record_date: '2017-03-07'
+      record_reference: null
+      content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
+      friendly_name: 2017-03-07-ebook-surviving-death
+  - claim_id: b037b7c6-fbb0-4156-be86-f26262883f06
+    claim_hash: 3df45d9d4d156b70e3cdd507621dc1fc84712e5527e8ee42f81cfa79b7d30a08
+    content: Pim van Lommel considers that consciousness, not the eye or the brain, is what perceives.
+    original_excerpt: Who or what is seeing? Not the eye and not the brain... It is our consciousness that perceives.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: a541d9c0-8e46-4def-9ac6-a5d834cb9972
+      title: Pim van Lommel
+    provenance_chain:
+      origin_kind: speaker
+      origin: Pim van Lommel
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: e54f1c29-1780-4810-9c40-4f9baa9f8276
+        title: Nonlocal consciousness
+        slug: nonlocal-consciousness
+    date: null
+    date_end: null
+    location_in_record: ch18:19093-19140
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
+      record_title: Surviving Death
+      record_date: '2017-03-07'
+      record_reference: null
+      content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
+      friendly_name: 2017-03-07-ebook-surviving-death
+  - claim_id: 54410b5e-2fb5-4836-832a-94d324ca3be7
+    claim_hash: 7e4d14150e74bb565574dae1eee7ea1986464c5bf22321d079c3d36c0498cbe9
+    content: Pim van Lommel concludes that the brain most likely has a facilitating or receiving, and not a producing, function
+      in the experience of consciousness.
+    original_excerpt: I have come to the inevitable conclusion that most likely the brain has a facilitating or receiving
+      and not a producing function in the experience of consciousness.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: a541d9c0-8e46-4def-9ac6-a5d834cb9972
+      title: Pim van Lommel
+    provenance_chain:
+      origin_kind: speaker
+      origin: Pim van Lommel
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 9f3ccc3e-416a-4745-8ade-95e73c83a049
+        title: Materialist paradigm of consciousness
+        slug: materialist-paradigm-of-consciousness
+      - node_id: e54f1c29-1780-4810-9c40-4f9baa9f8276
+        title: Nonlocal consciousness
+        slug: nonlocal-consciousness
+    date: null
+    date_end: null
+    location_in_record: ch18:19724-19874
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
+      record_title: Surviving Death
+      record_date: '2017-03-07'
+      record_reference: null
+      content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
+      friendly_name: 2017-03-07-ebook-surviving-death
+  - claim_id: dd291437-29c2-4fd5-ba13-ec8404f464d6
+    claim_hash: 61d17ade05ff89b094daf8f540d0a16da862cc7acf471f2e5a0516a9496f7d72
+    content: Pim van Lommel proposes that, based on universally reported aspects of consciousness experienced during cardiac
+      arrest, the informational fields of consciousness likely consist of waves rooted in an invisible realm beyond time and
+      space (nonlocality) that are always present around and through the body.
+    original_excerpt: Based on the universal reported aspects of consciousness experienced during cardiac arrest, we can surmise
+      that the informational fields of our consciousness, likely consisting of waves, are rooted in an invisible realm beyond
+      time and space (nonlocality), and are always present around and through us, permeating our body.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: a541d9c0-8e46-4def-9ac6-a5d834cb9972
+      title: Pim van Lommel
+    provenance_chain:
+      origin_kind: speaker
+      origin: Pim van Lommel
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 8d46574b-05d7-4112-b31f-339f93b3d360
+        title: Quantum nonlocality
+        slug: quantum-nonlocality
+      - node_id: a541d9c0-8e46-4def-9ac6-a5d834cb9972
+        title: Pim van Lommel
+        slug: pim-van-lommel
+      - node_id: e54f1c29-1780-4810-9c40-4f9baa9f8276
+        title: Nonlocal consciousness
+        slug: nonlocal-consciousness
+    date: null
+    date_end: null
+    location_in_record: ch18:22646-22964
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
+      record_title: Surviving Death
+      record_date: '2017-03-07'
+      record_reference: null
+      content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
+      friendly_name: 2017-03-07-ebook-surviving-death
+  - claim_id: 1d5da064-fcfb-4168-976c-3092fa214f15
+    claim_hash: 6054882e04a5a48131f6da4df2dfa49e86839e09fbd66786330ac1a86dfbb7f3
+    content: Pim van Lommel proposes that normal waking consciousness has a biological basis because the body acts as an interface
+      for a larger, nonlocal field of consciousness.
+    original_excerpt: Our normal, waking consciousness has a biological basis, because our body is an interface for it. But
+      it is one small part of our larger field of consciousness.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: a541d9c0-8e46-4def-9ac6-a5d834cb9972
+      title: Pim van Lommel
+    provenance_chain:
+      origin_kind: speaker
+      origin: Pim van Lommel
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: a541d9c0-8e46-4def-9ac6-a5d834cb9972
+        title: Pim van Lommel
+        slug: pim-van-lommel
+      - node_id: e54f1c29-1780-4810-9c40-4f9baa9f8276
+        title: Nonlocal consciousness
+        slug: nonlocal-consciousness
+    date: null
+    date_end: null
+    location_in_record: ch18:23123-23269
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
+      record_title: Surviving Death
+      record_date: '2017-03-07'
+      record_reference: null
+      content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
+      friendly_name: 2017-03-07-ebook-surviving-death
+  - claim_id: 64104c81-54de-4cc5-8a90-2f6940ed3413
+    claim_hash: e2a626148a71b1998c865ef49aa01de9c91662449f56ec2e9a2d0844f40ef329
+    content: Pim van Lommel considers that, in his concept, consciousness is not physically rooted, and continues to exist
+      even after brain function has been lost, though the ability to receive it into waking awareness is lost.
+    original_excerpt: as soon as the function of the brain has been lost, like turning off the TV, memories and consciousness
+      do still exist, but the reception ability is lost; the connection, or interface, is interrupted. Yet consciousness can
+      be experienced during such a period of a nonfunctioning brain, and this is what we call an NDE. So in my concept, consciousness
+      is not physically rooted.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: a541d9c0-8e46-4def-9ac6-a5d834cb9972
+      title: Pim van Lommel
+    provenance_chain:
+      origin_kind: speaker
+      origin: Pim van Lommel
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 20761aba-46ad-4780-a1a9-c8ad2171af7d
+        title: Near-death experience (NDE)
+        slug: near-death-experience-nde
+      - node_id: a541d9c0-8e46-4def-9ac6-a5d834cb9972
+        title: Pim van Lommel
+        slug: pim-van-lommel
+      - node_id: e54f1c29-1780-4810-9c40-4f9baa9f8276
+        title: Nonlocal consciousness
+        slug: nonlocal-consciousness
+    date: null
+    date_end: null
+    location_in_record: ch18:23560-23929
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
+      record_title: Surviving Death
+      record_date: '2017-03-07'
+      record_reference: null
+      content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
+      friendly_name: 2017-03-07-ebook-surviving-death
+  - claim_id: 0450ead7-1e99-414a-985a-034fee89e3d5
+    claim_hash: 717c844444206055fe5f0f4418cfecdcc56262ee625860fcb5232202c40cccb7
+    content: Pim van Lommel refers to consciousness that exists beyond time and space, with no material or biological basis,
+      as "nonlocal consciousness".
+    original_excerpt: I refer to this consciousness beyond time and space, which has no material or biological basis, as “nonlocal
+      consciousness.”
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: a541d9c0-8e46-4def-9ac6-a5d834cb9972
+      title: Pim van Lommel
+    provenance_chain:
+      origin_kind: speaker
+      origin: Pim van Lommel
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: a541d9c0-8e46-4def-9ac6-a5d834cb9972
+        title: Pim van Lommel
+        slug: pim-van-lommel
+      - node_id: e54f1c29-1780-4810-9c40-4f9baa9f8276
+        title: Nonlocal consciousness
+        slug: nonlocal-consciousness
+    date: null
+    date_end: null
+    location_in_record: ch18:23938-24047
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
+      record_title: Surviving Death
+      record_date: '2017-03-07'
+      record_reference: null
+      content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
+      friendly_name: 2017-03-07-ebook-surviving-death
+  - claim_id: ab3deb30-2688-4f09-a823-348d307318af
+    claim_hash: 6ef9c3bf85579ec2ae69771cf7dafa318d4ab5c2f5def86ea3cb55beb7e0507b
+    content: Pim van Lommel proposes that nonlocal consciousness features an interconnectedness that offers the chance of
+      communication with the thoughts and feelings of others, including deceased friends and relatives.
+    original_excerpt: It features an interconnectedness that offers the chance of communication with the thoughts and feelings
+      of others, and with those of deceased friends and relatives.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: a541d9c0-8e46-4def-9ac6-a5d834cb9972
+      title: Pim van Lommel
+    provenance_chain:
+      origin_kind: speaker
+      origin: Pim van Lommel
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: a541d9c0-8e46-4def-9ac6-a5d834cb9972
+        title: Pim van Lommel
+        slug: pim-van-lommel
+      - node_id: e54f1c29-1780-4810-9c40-4f9baa9f8276
+        title: Nonlocal consciousness
+        slug: nonlocal-consciousness
+      - node_id: ec527113-0912-4b33-81d6-d58f7df79dc1
+        title: After-death communication (ADC)
+        slug: after-death-communication-adc
+    date: null
+    date_end: null
+    location_in_record: ch18:24063-24218
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
+      record_title: Surviving Death
+      record_date: '2017-03-07'
+      record_reference: null
+      content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
+      friendly_name: 2017-03-07-ebook-surviving-death
+  - claim_id: 7339dbc8-965d-4d50-a5d0-a63378ee4650
+    claim_hash: a4f02bc4121185f5069448560ac244cd246ca8d739021872f2b6eb2aaf0b0dbc
+    content: Pim van Lommel considers that aspects of quantum mechanics, such as nonlocality, help explain how consciousness
+      functions.
+    original_excerpt: Aspects of quantum mechanics like nonlocality help us to understand how consciousness actually functions.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: a541d9c0-8e46-4def-9ac6-a5d834cb9972
+      title: Pim van Lommel
+    provenance_chain:
+      origin_kind: speaker
+      origin: Pim van Lommel
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 8d46574b-05d7-4112-b31f-339f93b3d360
+        title: Quantum nonlocality
+        slug: quantum-nonlocality
+      - node_id: a541d9c0-8e46-4def-9ac6-a5d834cb9972
+        title: Pim van Lommel
+        slug: pim-van-lommel
+      - node_id: e54f1c29-1780-4810-9c40-4f9baa9f8276
+        title: Nonlocal consciousness
+        slug: nonlocal-consciousness
+    date: null
+    date_end: null
+    location_in_record: ch18:25538-25633
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
+      record_title: Surviving Death
+      record_date: '2017-03-07'
+      record_reference: null
+      content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
+      friendly_name: 2017-03-07-ebook-surviving-death
+  - claim_id: 64f51652-3cd9-4963-a590-fafce5b94877
+    claim_hash: af2d8e03b49b27d475f926cc8210d24095b49f55ee1039482cdf5cbeed66a3cd
+    content: Pim van Lommel considers that the near-death experience (NDE) can be explained in all its elements as an experience
+      of nonlocal consciousness.
+    original_excerpt: such as the NDE, which can be explained in all its elements as an experience of nonlocal consciousness.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: a541d9c0-8e46-4def-9ac6-a5d834cb9972
+      title: Pim van Lommel
+    provenance_chain:
+      origin_kind: speaker
+      origin: Pim van Lommel
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 20761aba-46ad-4780-a1a9-c8ad2171af7d
+        title: Near-death experience (NDE)
+        slug: near-death-experience-nde
+      - node_id: a541d9c0-8e46-4def-9ac6-a5d834cb9972
+        title: Pim van Lommel
+        slug: pim-van-lommel
+      - node_id: e54f1c29-1780-4810-9c40-4f9baa9f8276
+        title: Nonlocal consciousness
+        slug: nonlocal-consciousness
+    date: null
+    date_end: null
+    location_in_record: ch18:25727-25816
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
+      record_title: Surviving Death
+      record_date: '2017-03-07'
+      record_reference: null
+      content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
+      friendly_name: 2017-03-07-ebook-surviving-death
+  - claim_id: 8f39930c-239f-4149-afe6-91ab84bff15e
+    claim_hash: 7d35be8339b609a516799ed3708d27a9d288c44cf52883ffe18f0728753b8766
+    content: Pim van Lommel believes that at the time of physical death, consciousness continues to be experienced in another
+      dimension, in an invisible and immaterial world containing all past, present, and future.
+    original_excerpt: because of the almost unavoidable conclusion that at the time of physical death consciousness will continue
+      to be experienced in another dimension, in an invisible and immaterial world, in which all past, present, and future
+      is enclosed.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: a541d9c0-8e46-4def-9ac6-a5d834cb9972
+      title: Pim van Lommel
+    provenance_chain:
+      origin_kind: speaker
+      origin: Pim van Lommel
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: a541d9c0-8e46-4def-9ac6-a5d834cb9972
+        title: Pim van Lommel
+        slug: pim-van-lommel
+      - node_id: e54f1c29-1780-4810-9c40-4f9baa9f8276
+        title: Nonlocal consciousness
+        slug: nonlocal-consciousness
+    date: null
+    date_end: null
+    location_in_record: ch18:26401-26629
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
+      record_title: Surviving Death
+      record_date: '2017-03-07'
+      record_reference: null
+      content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
+      friendly_name: 2017-03-07-ebook-surviving-death
+  - claim_id: d325e06a-3b00-42f5-acf6-ece4ad5ede1d
+    claim_hash: a0d891f330d7d5284192caf261e93e7354ecb30dbf3845bb515ff04a46e25843
+    content: Pim van Lommel believes that death, like birth, is merely a passing from one state of consciousness into another.
+    original_excerpt: I have come to believe that presumably death, like birth, is a mere passing from one state of consciousness
+      into another.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: a541d9c0-8e46-4def-9ac6-a5d834cb9972
+      title: Pim van Lommel
+    provenance_chain:
+      origin_kind: speaker
+      origin: Pim van Lommel
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: a541d9c0-8e46-4def-9ac6-a5d834cb9972
+        title: Pim van Lommel
+        slug: pim-van-lommel
+      - node_id: e54f1c29-1780-4810-9c40-4f9baa9f8276
+        title: Nonlocal consciousness
+        slug: nonlocal-consciousness
+    date: null
+    date_end: null
+    location_in_record: ch18:26768-26881
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
+      record_title: Surviving Death
+      record_date: '2017-03-07'
+      record_reference: null
+      content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
+      friendly_name: 2017-03-07-ebook-surviving-death
+  - claim_id: 0268272f-52ce-4372-8c75-34c13973bff1
+    claim_hash: 713b6b13a178db00cd65eb0a5502706cc9368d7c7eea7c262b76a36529dd5be7
+    content: Pim van Lommel believes that death is only the end of the physical body, and that people have a body but are
+      consciousness.
+    original_excerpt: 'Death is only the end of our physical body. In other words: we have a body, but we are consciousness.'
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: a541d9c0-8e46-4def-9ac6-a5d834cb9972
+      title: Pim van Lommel
+    provenance_chain:
+      origin_kind: speaker
+      origin: Pim van Lommel
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: a541d9c0-8e46-4def-9ac6-a5d834cb9972
+        title: Pim van Lommel
+        slug: pim-van-lommel
+      - node_id: e54f1c29-1780-4810-9c40-4f9baa9f8276
+        title: Nonlocal consciousness
+        slug: nonlocal-consciousness
+    date: null
+    date_end: null
+    location_in_record: ch18:26985-27072
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
+      record_title: Surviving Death
+      record_date: '2017-03-07'
+      record_reference: null
+      content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
+      friendly_name: 2017-03-07-ebook-surviving-death
+  - claim_id: 2db4dc75-df9a-40c3-ab2c-139a7370259f
+    claim_hash: dfe31c11146eb2a0a79384e1e582adf49b041690ee032c0fb3dbe804559f2e49
+    content: Pim van Lommel believes that essential consciousness existed before birth and will exist after death, with no
+      beginning and no end.
+    original_excerpt: It is hard to avoid the conclusion that our essential consciousness existed before our birth and will
+      exist after we die. It has no beginning and no end.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: a541d9c0-8e46-4def-9ac6-a5d834cb9972
+      title: Pim van Lommel
+    provenance_chain:
+      origin_kind: speaker
+      origin: Pim van Lommel
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: a541d9c0-8e46-4def-9ac6-a5d834cb9972
+        title: Pim van Lommel
+        slug: pim-van-lommel
+      - node_id: e54f1c29-1780-4810-9c40-4f9baa9f8276
+        title: Nonlocal consciousness
+        slug: nonlocal-consciousness
+    date: null
+    date_end: null
+    location_in_record: ch18:27087-27236
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
+      record_title: Surviving Death
+      record_date: '2017-03-07'
+      record_reference: null
+      content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
+      friendly_name: 2017-03-07-ebook-surviving-death
+  - claim_id: a1e0ad83-3360-4212-b248-a8e4d1cd3173
+    claim_hash: cb3d84f6d335e59f9f0e1bec4896cead378a3d632029d05c4614609542385bcf
+    content: Peter Fenwick considers that all end-of-life experiences bearing a relationship to the near-death experience
+      (NDE) or the survival of consciousness after death suggest that consciousness is nonlocal, as Pim van Lommel describes
+      it, more a field structure than something created by the brain.
+    original_excerpt: All of them suggest that consciousness is nonlocal, as Pim van Lommel describes—more a field structure
+      than something created by the brain.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 0994420f-7645-4f8c-b2ea-7d18f2e0146d
+      title: Peter Fenwick
+    provenance_chain:
+      origin_kind: speaker
+      origin: Peter Fenwick
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 0994420f-7645-4f8c-b2ea-7d18f2e0146d
+        title: Peter Fenwick
+        slug: peter-fenwick
+      - node_id: 20761aba-46ad-4780-a1a9-c8ad2171af7d
+        title: Near-death experience (NDE)
+        slug: near-death-experience-nde
+      - node_id: a541d9c0-8e46-4def-9ac6-a5d834cb9972
+        title: Pim van Lommel
+        slug: pim-van-lommel
+      - node_id: e54f1c29-1780-4810-9c40-4f9baa9f8276
+        title: Nonlocal consciousness
+        slug: nonlocal-consciousness
+    date: null
+    date_end: null
+    location_in_record: ch20:6424-6557
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
+      record_title: Surviving Death
+      record_date: '2017-03-07'
+      record_reference: null
+      content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
+      friendly_name: 2017-03-07-ebook-surviving-death
+  - claim_id: 9ecfd6a9-a5a1-4cdb-8f2a-7f5b963e8d43
+    claim_hash: c1d1a9e4977dd13901f752c0e4cf86a5db26a1b1508a0981828593243a50f9f4
+    content: Pam Reynolds's veridical out-of-body experience (OBE) during a state of no brain or heart activity suggests that
+      consciousness can exist independent of the body.
+    original_excerpt: suggesting consciousness can exist independent of the body.
+    claim_type: opinion
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 1fedd9a7-6f2a-4382-99f8-476772ecaaa0
+        title: Veridical out-of-body perception
+        slug: veridical-out-of-body-perception
+      - node_id: ac050fca-beee-4b02-b808-a976ff75b610
+        title: Pam Reynolds
+        slug: pam-reynolds
+      - node_id: e54f1c29-1780-4810-9c40-4f9baa9f8276
+        title: Nonlocal consciousness
+        slug: nonlocal-consciousness
+    date: null
+    date_end: null
+    location_in_record: ch21:4869-4923
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
+      record_title: Surviving Death
+      record_date: '2017-03-07'
+      record_reference: null
+      content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
+      friendly_name: 2017-03-07-ebook-surviving-death
+  - claim_id: a8dad1e7-69cb-455c-8cef-571476158407
+    claim_hash: c1b6be4e2cbe5635814cd341cb9168edfe010398df0f3ce8d96a721cc18a928a
+    content: Pim van Lommel described nonlocal consciousness as featuring an interconnectedness that offers the chance of
+      communication with the thoughts and feelings of others and of deceased friends and relatives, with roots in another
+      invisible, immaterial realm that is always in us and around us.
+    original_excerpt: Van Lommel described nonlocal consciousness as featuring “an interconnectedness that offers the chance
+      of communication with the thoughts and feelings of others, and with those of deceased friends and relatives. Its roots
+      lie in another invisible, immaterial realm that is always in us and around us.”
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: a541d9c0-8e46-4def-9ac6-a5d834cb9972
+      title: Pim van Lommel
+    provenance_chain:
+      origin_kind: speaker
+      origin: Pim van Lommel
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: a541d9c0-8e46-4def-9ac6-a5d834cb9972
+        title: Pim van Lommel
+        slug: pim-van-lommel
+      - node_id: e54f1c29-1780-4810-9c40-4f9baa9f8276
+        title: Nonlocal consciousness
+        slug: nonlocal-consciousness
+    date: null
+    date_end: null
+    location_in_record: ch23:1407-1704
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
+      record_title: Surviving Death
+      record_date: '2017-03-07'
+      record_reference: null
+      content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
+      friendly_name: 2017-03-07-ebook-surviving-death
+  - claim_id: 7c7a65a8-aece-4251-b844-c4a04829dffc
+    claim_hash: 48fce06adaec079dd1d9c28cd35ab3c03de9513efde8695acfb6ee6fe93d852d
+    content: Pim van Lommel and others proposed the theory of nonlocal consciousness, which postulates that deeper consciousness
+      is not generated by the brain.
+    original_excerpt: Pim van Lommel and others have provided what may be the first step in that direction with the theory
+      of nonlocal consciousness, postulating that our deeper consciousness is not generated by the brain.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: a541d9c0-8e46-4def-9ac6-a5d834cb9972
+      title: Pim van Lommel
+    provenance_chain:
+      origin_kind: speaker
+      origin: Pim van Lommel
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: a541d9c0-8e46-4def-9ac6-a5d834cb9972
+        title: Pim van Lommel
+        slug: pim-van-lommel
+      - node_id: e54f1c29-1780-4810-9c40-4f9baa9f8276
+        title: Nonlocal consciousness
+        slug: nonlocal-consciousness
+    date: null
+    date_end: null
+    location_in_record: ch23:681-875
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
+      record_title: Surviving Death
+      record_date: '2017-03-07'
+      record_reference: null
+      content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
+      friendly_name: 2017-03-07-ebook-surviving-death
+  - claim_id: ccc4c617-3181-4fb2-9e1b-bb7c8b851301
+    claim_hash: a197db00955afe5015fad6884d950e6c0850a20c785a8289398ae768d24e36e1
+    content: Leslie Kean considers that data from modern mediumship experiments, together with conclusions drawn from the
+      large body of general psi (psychic functioning) research, support a model of nonlocal consciousness that continues to
+      exist after the death of the body, as opposed to a materialist model of consciousness.
+    original_excerpt: Together, data from modern mediumship experiments and the conclusions drawn from the large body of general
+      psi research support a model of nonlocal (vs. materialist) consciousness that continues to exist after the death of
+      the body.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 953f6232-9902-437f-ad4c-add4fd080043
+      title: Leslie Kean
+    provenance_chain:
+      origin_kind: speaker
+      origin: Leslie Kean
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 953f6232-9902-437f-ad4c-add4fd080043
+        title: Leslie Kean
+        slug: leslie-kean
+      - node_id: 9f3ccc3e-416a-4745-8ade-95e73c83a049
+        title: Materialist paradigm of consciousness
+        slug: materialist-paradigm-of-consciousness
+      - node_id: e54f1c29-1780-4810-9c40-4f9baa9f8276
+        title: Nonlocal consciousness
+        slug: nonlocal-consciousness
+      - node_id: e7eb0766-9fee-4759-b721-38beb853ee1d
+        title: Psi (psychic functioning)
+        slug: psi-psychic-functioning
+    date: null
+    date_end: null
+    location_in_record: ch25:21224-21451
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
+      record_title: Surviving Death
+      record_date: '2017-03-07'
+      record_reference: null
+      content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
+      friendly_name: 2017-03-07-ebook-surviving-death
+  - claim_id: 2d7129da-8ba7-4066-a2d9-a43d43721086
+    claim_hash: 92dec14c5b2fdce4e0d6434ae36eb32d599ae6d730797e0fac82cb444b9ba06d
+    content: Jane Katra coauthored two books on nonlocal consciousness and healing with physicist Russell Targ, a pioneer
+      in the development of the laser.
+    original_excerpt: and coauthored two books on nonlocal consciousness and healing with physicist Russell Targ, who was
+      a pioneer in the development of the laser.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 20590172-0bd0-4122-bf4b-16af0a491827
+        title: 'Miracles of Mind: Exploring Nonlocal Mind and Spiritual Healing (book by Russell Targ and Jane Katra)'
+        slug: miracles-of-mind-exploring-nonlocal-mind-and-spiritual-healing-book-by-russell-targ-and-jane-katra
+      - node_id: 25f7474b-76d5-4475-88dd-38b0bb6b390c
+        title: 'The Heart of the Mind: Using Our Mind to Transform Our Consciousness (book by Russell Targ and Jane Katra)'
+        slug: the-heart-of-the-mind-using-our-mind-to-transform-our-consciousness-book-by-russell-targ-and-jane-katra
+      - node_id: 3459248f-19d9-4476-bac6-9687ede09aa4
+        title: Jane Katra
+        slug: jane-katra
+      - node_id: e54f1c29-1780-4810-9c40-4f9baa9f8276
+        title: Nonlocal consciousness
+        slug: nonlocal-consciousness
+      - node_id: eaceaab4-6d50-49da-9974-e72719de76e9
+        title: Russell Targ
+        slug: russell-targ
+    date: null
+    date_end: null
+    location_in_record: ch30:4544-4680
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
+      record_title: Surviving Death
+      record_date: '2017-03-07'
+      record_reference: null
+      content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
+      friendly_name: 2017-03-07-ebook-surviving-death
+  - claim_id: 7518f71d-88b4-482d-b545-4893de91248f
+    claim_hash: 7859bdef78c8ba93ecf6c2a105759ecb546104114f3ae05fd2ef3ed092375587
+    content: Freda explained that the mind, which is all that we are, is eternal and indestructible, and that the physical
+      brain is merely an instrument for the mind to give it physical expression rather than the source of the mind, so consciousness
+      can be separated from it.
+    original_excerpt: Freda explained that the mind, which is all that we are, is eternal and indestructible. Like Pim van
+      Lommel and Peter Fenwick described earlier, she said that the physical brain is merely an instrument for the mind to
+      give it physical expression, rather than the source of the mind, so that therefore consciousness can be separated from
+      it.
+    claim_type: opinion
+    attestation: second_hand
+    speaker:
+      node_id: a0a13636-e073-42d1-8773-ec76f0367f44
+      title: Freda
+    provenance_chain:
+      origin_kind: named
+      origin: Freda
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: a0a13636-e073-42d1-8773-ec76f0367f44
+        title: Freda
+        slug: freda
+      - node_id: e54f1c29-1780-4810-9c40-4f9baa9f8276
+        title: Nonlocal consciousness
+        slug: nonlocal-consciousness
+    date: null
+    date_end: null
+    location_in_record: ch38:14697-15034
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
+      record_title: Surviving Death
+      record_date: '2017-03-07'
+      record_reference: null
+      content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
+      friendly_name: 2017-03-07-ebook-surviving-death
+  - claim_id: c92c6a4d-ec88-4fdc-96e7-ad3a850586db
+    claim_hash: df6331935358f31bdf777c8909af0a21630a807b9fc3e364027317c7c033710d
+    content: Bruce Greyson wrote that consciousness is not localized exclusively in the brain.
+    original_excerpt: '"that consciousness is localized exclusively in the brain" / Greyson, "Cardiac Care Unit."'
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 6705ff37-f3d0-4c33-a3f8-de6024104abb
+      title: Bruce Greyson
+    provenance_chain:
+      origin_kind: speaker
+      origin: Bruce Greyson
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 3b62adb4-0814-4889-ae74-bb8a60c26541
+        title: Greyson 2003 American prospective Near-Death Experience (NDE) study
+        slug: greyson-2003-american-prospective-near-death-experience-nde-study
+      - node_id: 6705ff37-f3d0-4c33-a3f8-de6024104abb
+        title: Bruce Greyson
+        slug: bruce-greyson
+      - node_id: e54f1c29-1780-4810-9c40-4f9baa9f8276
+        title: Nonlocal consciousness
+        slug: nonlocal-consciousness
+    date: null
+    date_end: null
+    location_in_record: ch41:24720-24801
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
+      record_title: Surviving Death
+      record_date: '2017-03-07'
+      record_reference: null
+      content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
+      friendly_name: 2017-03-07-ebook-surviving-death
+  - claim_id: 49d76510-196c-4fbd-8cd3-33a916d11944
+    claim_hash: 173ca16739fe0ced825e6a2b72e5fd577517e2bbe5b11ad83528f6e061fbe1ce
+    content: Julia Mossbridge considers the assumption that time travel would require building a device such as a spaceship
+      to be a hypothesis stopper that prevents people considering what could be done with consciousness alone.
+    original_excerpt: for the most part, people still think that you have to build something, like a spaceship or something,
+      if you want to do time travel, for instance... these things, it just occurred to me recently, are huge hypothesis stoppers.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 8d3ca113-3f28-4808-998e-34d2837332a5
+      title: Julia Mossbridge
+    provenance_chain:
+      origin_kind: speaker
+      origin: Julia Mossbridge
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 1c57cd6c-8c54-4f61-b180-2bd899c69889
+        title: Time travel
+        slug: time-travel
+      - node_id: 8d3ca113-3f28-4808-998e-34d2837332a5
+        title: Julia Mossbridge
+        slug: julia-mossbridge
+      - node_id: e54f1c29-1780-4810-9c40-4f9baa9f8276
+        title: Nonlocal consciousness
+        slug: nonlocal-consciousness
+    date: null
+    date_end: null
+    location_in_record: 00:06:20.6-00:06:40.3
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 43b2873d-8ebe-46aa-9425-a7e273c46e34
+      record_title: Non Human Intelligence, GATE Program and Psi Ability with Dr. Julia Mossbridge | ep. 99
+      record_date: '2026-08-14'
+      record_reference: https://www.youtube.com/watch?v=-qt2FYdP_EA
+      content_hash: sha256:8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8998cfdcd
+      friendly_name: null
+  - claim_id: fabeed05-7446-4cf2-9fb0-e467a36b2154
+    claim_hash: 8e9f019afeabd2d9da18ff7d4eaffbf3ec43f2496d64dc0ba0adb46e107795f3
+    content: Julia Mossbridge considers it possible that an already-existing object such as a rock could be made conscious
+      rather than a conscious machine having to be built.
+    original_excerpt: Or if you were to build a conscious machine, you'd have to build it. You couldn't just take something
+      that was like a rock that was already there and make it conscious.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 8d3ca113-3f28-4808-998e-34d2837332a5
+      title: Julia Mossbridge
+    provenance_chain:
+      origin_kind: speaker
+      origin: Julia Mossbridge
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 8d3ca113-3f28-4808-998e-34d2837332a5
+        title: Julia Mossbridge
+        slug: julia-mossbridge
+      - node_id: e54f1c29-1780-4810-9c40-4f9baa9f8276
+        title: Nonlocal consciousness
+        slug: nonlocal-consciousness
+    date: null
+    date_end: null
+    location_in_record: 00:06:37.2-00:06:49.7
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 43b2873d-8ebe-46aa-9425-a7e273c46e34
+      record_title: Non Human Intelligence, GATE Program and Psi Ability with Dr. Julia Mossbridge | ep. 99
+      record_date: '2026-08-14'
+      record_reference: https://www.youtube.com/watch?v=-qt2FYdP_EA
+      content_hash: sha256:8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8998cfdcd
+      friendly_name: null
+  - claim_id: 6912f8c7-a9ee-45b2-bc5b-7e7ef1a48b89
+    claim_hash: 2406ff0222dee30d11ad88a4ad13dcbc4d2f53504af80103d232064af8483224
+    content: Ross Coulthart attended a consciousness conference in Barcelona in 2025.
+    original_excerpt: I went to a conference last year in Barcelona
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+      title: Ross Coulthart
+    provenance_chain:
+      origin_kind: speaker
+      origin: Ross Coulthart
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 23946db4-a580-4494-b572-8ec5778678ee
+        title: Spain, Barcelona
+        slug: barcelona-spain
+      - node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+        title: Ross Coulthart
+        slug: ross-coulthart
+      - node_id: e54f1c29-1780-4810-9c40-4f9baa9f8276
+        title: Nonlocal consciousness
+        slug: nonlocal-consciousness
+    date: '2025'
+    date_end: null
+    location_in_record: 00:08:13.6-00:08:15.3
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 7e583a7d-790d-4cfe-bbee-95c3d542e67a
+      record_title: Whitley Strieber Reveals What 40 Years of Encounters Taught Him | Reality Check Rewind
+      record_date: '2026-08-14'
+      record_reference: https://www.youtube.com/watch?v=H7sJFNdgCI4
+      content_hash: sha256:17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c451793c5a628
+      friendly_name: null
+  - claim_id: ef1a3860-9f7d-451b-b673-d3ddfeac8ba2
+    claim_hash: a619f960ccbb8cbce4b6230fa9ca682cd65b52d4bb8e42cb159fe6cd0cc178fc
+    content: At the Barcelona consciousness conference, scientists including Stuart Hameroff and Roger Penrose discussed non-local
+      consciousness and the idea that the human brain is an attenuator, transmitter and receiver rather than a computer.
+    original_excerpt: the number of consciousness scientists, notably people like Stuart Hameroff, Roger Penrose, who were
+      talking about non-local consciousness and the idea that the human brain, it's more of an attenuator, a transmitter,
+      a receiver than it is a computer
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+      title: Ross Coulthart
+    provenance_chain:
+      origin_kind: speaker
+      origin: Ross Coulthart
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 23946db4-a580-4494-b572-8ec5778678ee
+        title: Spain, Barcelona
+        slug: barcelona-spain
+      - node_id: c431377a-e381-4d3a-b69c-6053b98be052
+        title: Stuart Hameroff
+        slug: stuart-hameroff
+      - node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+        title: Ross Coulthart
+        slug: ross-coulthart
+      - node_id: e458c0c4-74c0-4642-b871-17c917cb8dcc
+        title: Roger Penrose
+        slug: roger-penrose
+      - node_id: e54f1c29-1780-4810-9c40-4f9baa9f8276
+        title: Nonlocal consciousness
+        slug: nonlocal-consciousness
+    date: null
+    date_end: null
+    location_in_record: 00:08:29.4-00:08:47.3
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 7e583a7d-790d-4cfe-bbee-95c3d542e67a
+      record_title: Whitley Strieber Reveals What 40 Years of Encounters Taught Him | Reality Check Rewind
+      record_date: '2026-08-14'
+      record_reference: https://www.youtube.com/watch?v=H7sJFNdgCI4
+      content_hash: sha256:17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c451793c5a628
+      friendly_name: null
+  - claim_id: d931bc6b-df49-4032-88a0-f524365fe2b4
+    claim_hash: a2b50494949293fb8b3a9429b5ef42a7f957a7066b5245d503854990769cf3d6
+    content: Ross Coulthart considers that what the consciousness scientists at the Barcelona conference described - a brain
+      able to plug into an external unitary or Akashic field - is inherently the idea of a soul.
+    original_excerpt: realizing that what they were talking about inherently was the idea of a soul, the idea that that we
+      have a spiritual entity within us that is external to our physical meat bodies.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+      title: Ross Coulthart
+    provenance_chain:
+      origin_kind: speaker
+      origin: Ross Coulthart
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 6549aa4f-e335-4d14-8350-fd32c49031cd
+        title: Akashic field
+        slug: akashic-field
+      - node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+        title: Ross Coulthart
+        slug: ross-coulthart
+      - node_id: e54f1c29-1780-4810-9c40-4f9baa9f8276
+        title: Nonlocal consciousness
+        slug: nonlocal-consciousness
+    date: null
+    date_end: null
+    location_in_record: 00:09:10.8-00:09:26.2
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 7e583a7d-790d-4cfe-bbee-95c3d542e67a
+      record_title: Whitley Strieber Reveals What 40 Years of Encounters Taught Him | Reality Check Rewind
+      record_date: '2026-08-14'
+      record_reference: https://www.youtube.com/watch?v=H7sJFNdgCI4
+      content_hash: sha256:17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c451793c5a628
+      friendly_name: null
+  - claim_id: 1b39272f-9624-494d-9bee-208c4e0ecc2d
+    claim_hash: 2d7093bbf34776a89d186772fd48f9fa36564e978988697882f22711688504ad
+    content: Whitley Strieber believes there is a barrier between humans and another level of reality, and that when it is
+      lifted there is a continuity of consciousness beyond the individual body.
+    original_excerpt: we have a barrier between ourselves and another level of reality that we do not see... The reality when
+      that barrier is lifted is there is a continuity of consciousness
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+      title: Whitley Strieber
+    provenance_chain:
+      origin_kind: speaker
+      origin: Whitley Strieber
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+        title: Whitley Strieber
+        slug: whitley-strieber
+      - node_id: e54f1c29-1780-4810-9c40-4f9baa9f8276
+        title: Nonlocal consciousness
+        slug: nonlocal-consciousness
+    date: null
+    date_end: null
+    location_in_record: 00:12:10.1-00:12:27.8
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 7e583a7d-790d-4cfe-bbee-95c3d542e67a
+      record_title: Whitley Strieber Reveals What 40 Years of Encounters Taught Him | Reality Check Rewind
+      record_date: '2026-08-14'
+      record_reference: https://www.youtube.com/watch?v=H7sJFNdgCI4
+      content_hash: sha256:17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c451793c5a628
+      friendly_name: null
+  - claim_id: 03578f29-97ec-449a-9fee-99a099b0221d
+    claim_hash: 1e8aa08f9d4640e9e17e93d5575e5e7910ddfd5b29019d41dc3bd9df5e3567ea
+    content: Hundreds to thousands of people have engaged Ross Coulthart on the idea that there is something intrinsic in
+      human consciousness that allows humans to connect with the phenomenon.
+    original_excerpt: this aspect that you and indeed hundreds, thousands of people have engaged me on. It's this idea that
+      there is something intrinsic in human consciousness that allows us to connect in the way that you're describing.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+      title: Ross Coulthart
+    provenance_chain:
+      origin_kind: speaker
+      origin: Ross Coulthart
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+        title: Ross Coulthart
+        slug: ross-coulthart
+      - node_id: e54f1c29-1780-4810-9c40-4f9baa9f8276
+        title: Nonlocal consciousness
+        slug: nonlocal-consciousness
+    date: null
+    date_end: null
+    location_in_record: 00:27:23.3-00:27:36.5
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 7e583a7d-790d-4cfe-bbee-95c3d542e67a
+      record_title: Whitley Strieber Reveals What 40 Years of Encounters Taught Him | Reality Check Rewind
+      record_date: '2026-08-14'
+      record_reference: https://www.youtube.com/watch?v=H7sJFNdgCI4
+      content_hash: sha256:17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c451793c5a628
+      friendly_name: null
+  - claim_id: e6448808-5bcd-4e9f-8dc8-e7fcc15886ad
+    claim_hash: 38c725c6dcf14a1336b81413c95b1950338d6d4a3329ff368a14a04087c6c33d
+    content: Julia Mossbridge considers getting people to go out of their body unsafe for them if it is not done well, because
+      if consciousness can leave the body then another consciousness could enter it.
+    original_excerpt: I feel like there's this piece where getting people to go out of their body is very unsafe for them.
+      ... I think not if it's not done well. It can be very unsafe. Because if you're out of your body, what can go into your
+      body?
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 8d3ca113-3f28-4808-998e-34d2837332a5
+      title: Julia Mossbridge
+    provenance_chain:
+      origin_kind: speaker
+      origin: Julia Mossbridge
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 8b0155a9-fabc-4b8d-9ee9-45eac58dbf2e
+        title: Out-of-Body Experience (OBE)
+        slug: out-of-body-experience-obe
+      - node_id: 8d3ca113-3f28-4808-998e-34d2837332a5
+        title: Julia Mossbridge
+        slug: julia-mossbridge
+      - node_id: e54f1c29-1780-4810-9c40-4f9baa9f8276
+        title: Nonlocal consciousness
+        slug: nonlocal-consciousness
+    date: null
+    date_end: null
+    location_in_record: 00:35:53.4-00:36:08.9
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 43b2873d-8ebe-46aa-9425-a7e273c46e34
+      record_title: Non Human Intelligence, GATE Program and Psi Ability with Dr. Julia Mossbridge | ep. 99
+      record_date: '2026-08-14'
+      record_reference: https://www.youtube.com/watch?v=-qt2FYdP_EA
+      content_hash: sha256:8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8998cfdcd
+      friendly_name: null
+  - claim_id: d0c22c86-b70d-48f6-bb07-9d902079563e
+    claim_hash: 202d5c02d1bb4d4304cdec5f85abceefa727d2fd7626b3f1104250aa7066ef24
+    content: Chris Ramsay holds that information exists omnipresently around us and that everyone has access to it across
+      space and time.
+    original_excerpt: it doesn't have to but it can but it exists sort of um i guess omnipresently um all around us and we
+      all have access to that in space and time and i do believe that as well
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 24d00311-06ac-46a1-a2f5-c99f3f8e21b2
+      title: Chris Ramsay
+    provenance_chain:
+      origin_kind: speaker
+      origin: Chris Ramsay
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 24d00311-06ac-46a1-a2f5-c99f3f8e21b2
+        title: Chris Ramsay
+        slug: chris-ramsay
+      - node_id: 425bc3c7-e4ce-451d-9c0a-fc3de2f415cd
+        title: Informational substrate
+        slug: informational-substrate
+      - node_id: e54f1c29-1780-4810-9c40-4f9baa9f8276
+        title: Nonlocal consciousness
+        slug: nonlocal-consciousness
+    date: null
+    date_end: null
+    location_in_record: 00:50:20.8-00:50:33.6
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 43b2873d-8ebe-46aa-9425-a7e273c46e34
+      record_title: Non Human Intelligence, GATE Program and Psi Ability with Dr. Julia Mossbridge | ep. 99
+      record_date: '2026-08-14'
+      record_reference: https://www.youtube.com/watch?v=-qt2FYdP_EA
+      content_hash: sha256:8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8998cfdcd
+      friendly_name: null
+  - claim_id: 18a0d836-41f6-45ea-99de-89b5fc2d731f
+    claim_hash: 5fb6389e1e9ff5a2ac6a38608457c2153919e55667dd9cc77495e27225f0d483
+    content: 'Julia Mossbridge holds that the mind is not physical: it cannot be pointed to, has no mass, does not behave
+      like a physical thing, and is not located in a place or a time.'
+    original_excerpt: Is the mind in physicality? No. You can't point to the mind. It has no mass. It doesn't behave like
+      a physical thing. It's not in a place. It's not really in a time.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 8d3ca113-3f28-4808-998e-34d2837332a5
+      title: Julia Mossbridge
+    provenance_chain:
+      origin_kind: speaker
+      origin: Julia Mossbridge
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 45c38426-8f8a-4152-981e-19f1fd5ebd86
+        title: Filter theory of consciousness
+        slug: filter-theory-of-consciousness
+      - node_id: 8d3ca113-3f28-4808-998e-34d2837332a5
+        title: Julia Mossbridge
+        slug: julia-mossbridge
+      - node_id: e54f1c29-1780-4810-9c40-4f9baa9f8276
+        title: Nonlocal consciousness
+        slug: nonlocal-consciousness
+    date: null
+    date_end: null
+    location_in_record: 00:52:02.1-00:52:11.7
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 43b2873d-8ebe-46aa-9425-a7e273c46e34
+      record_title: Non Human Intelligence, GATE Program and Psi Ability with Dr. Julia Mossbridge | ep. 99
+      record_date: '2026-08-14'
+      record_reference: https://www.youtube.com/watch?v=-qt2FYdP_EA
+      content_hash: sha256:8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8998cfdcd
+      friendly_name: null
+  - claim_id: 6c956a30-d284-4100-9613-b166a6995c88
+    claim_hash: e2b52485b57afec90c7ca96e6f4f287010eda5d51c3a118312cfd0f2c05171d9
+    content: Julia Mossbridge holds that the psychological sense of time and of events in time does not live in the physical
+      world but is the mind, which lives in and is almost equivalent to information space.
+    original_excerpt: So the psychological sort of sense of time or the sense of events in time doesn't live in the physical
+      world, that's the mind. And so that mind really lives in this information space. Mind really is almost equivalent with
+      this information space.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 8d3ca113-3f28-4808-998e-34d2837332a5
+      title: Julia Mossbridge
+    provenance_chain:
+      origin_kind: speaker
+      origin: Julia Mossbridge
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 425bc3c7-e4ce-451d-9c0a-fc3de2f415cd
+        title: Informational substrate
+        slug: informational-substrate
+      - node_id: 8d3ca113-3f28-4808-998e-34d2837332a5
+        title: Julia Mossbridge
+        slug: julia-mossbridge
+      - node_id: e54f1c29-1780-4810-9c40-4f9baa9f8276
+        title: Nonlocal consciousness
+        slug: nonlocal-consciousness
+    date: null
+    date_end: null
+    location_in_record: 00:52:15.2-00:52:30.0
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 43b2873d-8ebe-46aa-9425-a7e273c46e34
+      record_title: Non Human Intelligence, GATE Program and Psi Ability with Dr. Julia Mossbridge | ep. 99
+      record_date: '2026-08-14'
+      record_reference: https://www.youtube.com/watch?v=-qt2FYdP_EA
+      content_hash: sha256:8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8998cfdcd
+      friendly_name: null
+  - claim_id: 8be26641-320d-46a2-86a6-2884ede8f32e
+    claim_hash: d760db2206298fad0028909d0d9e7301e142ab4382179cda0940523ab7ca93b4
+    content: Julia Mossbridge holds that the brain is a byproduct of the mind rather than the mind arising from the brain,
+      and that this manifestation differs between humans and insects.
+    original_excerpt: The physical, the brain is sort of this byproduct of the mind. That's how it shows up... You know, in
+      a bug, it shows up in a different way.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 8d3ca113-3f28-4808-998e-34d2837332a5
+      title: Julia Mossbridge
+    provenance_chain:
+      origin_kind: speaker
+      origin: Julia Mossbridge
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 45c38426-8f8a-4152-981e-19f1fd5ebd86
+        title: Filter theory of consciousness
+        slug: filter-theory-of-consciousness
+      - node_id: 8d3ca113-3f28-4808-998e-34d2837332a5
+        title: Julia Mossbridge
+        slug: julia-mossbridge
+      - node_id: e54f1c29-1780-4810-9c40-4f9baa9f8276
+        title: Nonlocal consciousness
+        slug: nonlocal-consciousness
+    date: null
+    date_end: null
+    location_in_record: 00:53:00.5-00:53:08.5
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 43b2873d-8ebe-46aa-9425-a7e273c46e34
+      record_title: Non Human Intelligence, GATE Program and Psi Ability with Dr. Julia Mossbridge | ep. 99
+      record_date: '2026-08-14'
+      record_reference: https://www.youtube.com/watch?v=-qt2FYdP_EA
+      content_hash: sha256:8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8998cfdcd
+      friendly_name: null
+  - claim_id: 5d744f18-9c7a-4c8e-b753-ed9011786b21
+    claim_hash: 580a42987e98c6a159136081aba9fe65048d7fa1221d9a5bd23f30bbd431b5cc
+    content: Julia Mossbridge considers the deeper source of resistance to non-local consciousness to be a fear of being subsumed
+      - of discovering that one is not separate.
+    original_excerpt: sort of, I want to call it fear of being subsumed. Like fear of, Freud talks about this... the fear
+      that both men and women have, this is not just a male thing, of the mother bringing you back into her womb. Like not
+      being separate.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 8d3ca113-3f28-4808-998e-34d2837332a5
+      title: Julia Mossbridge
+    provenance_chain:
+      origin_kind: speaker
+      origin: Julia Mossbridge
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 6a14e481-40a1-43c8-aa57-2def9a30a1fa
+        title: Sigmund Freud
+        slug: sigmund-freud
+      - node_id: 8d3ca113-3f28-4808-998e-34d2837332a5
+        title: Julia Mossbridge
+        slug: julia-mossbridge
+      - node_id: e54f1c29-1780-4810-9c40-4f9baa9f8276
+        title: Nonlocal consciousness
+        slug: nonlocal-consciousness
+    date: null
+    date_end: null
+    location_in_record: 01:33:42.7-01:34:02.3
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 43b2873d-8ebe-46aa-9425-a7e273c46e34
+      record_title: Non Human Intelligence, GATE Program and Psi Ability with Dr. Julia Mossbridge | ep. 99
+      record_date: '2026-08-14'
+      record_reference: https://www.youtube.com/watch?v=-qt2FYdP_EA
+      content_hash: sha256:8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8998cfdcd
+      friendly_name: null
+  - claim_id: 29d8cea9-e974-4538-a5e9-a5a18826d55b
+    claim_hash: 413c196a7d02578d629a6b49353874e7cf7d16d4aafc7ee18135d56844681438
+    content: Chris Ramsay considers that if everything is one and all things are connected, each person matters as much as
+      everything else rather than not mattering at all.
+    original_excerpt: where my perception would be no you matter as much as everything else... Like we all matter equally.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 24d00311-06ac-46a1-a2f5-c99f3f8e21b2
+      title: Chris Ramsay
+    provenance_chain:
+      origin_kind: speaker
+      origin: Chris Ramsay
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 24d00311-06ac-46a1-a2f5-c99f3f8e21b2
+        title: Chris Ramsay
+        slug: chris-ramsay
+      - node_id: e54f1c29-1780-4810-9c40-4f9baa9f8276
+        title: Nonlocal consciousness
+        slug: nonlocal-consciousness
+    date: null
+    date_end: null
+    location_in_record: 01:35:01.0-01:35:05.0
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 43b2873d-8ebe-46aa-9425-a7e273c46e34
+      record_title: Non Human Intelligence, GATE Program and Psi Ability with Dr. Julia Mossbridge | ep. 99
+      record_date: '2026-08-14'
+      record_reference: https://www.youtube.com/watch?v=-qt2FYdP_EA
+      content_hash: sha256:8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8998cfdcd
+      friendly_name: null
+  - claim_id: 540ac640-7453-43e2-b985-0173a83093b7
+    claim_hash: 974d59e3d634466b8d621088a93539545425a81ff7a66a9c33d55f496df5cc6e
+    content: Chris Ramsay finds comfort in the idea that memory may be retained after death even if individuality is lost.
+    original_excerpt: the one thing that provides a little more comfort is the idea that memory however might be retained...
+      But what if memory doesn't go away? What if memory is still retained somehow?
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 24d00311-06ac-46a1-a2f5-c99f3f8e21b2
+      title: Chris Ramsay
+    provenance_chain:
+      origin_kind: speaker
+      origin: Chris Ramsay
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 24d00311-06ac-46a1-a2f5-c99f3f8e21b2
+        title: Chris Ramsay
+        slug: chris-ramsay
+      - node_id: e54f1c29-1780-4810-9c40-4f9baa9f8276
+        title: Nonlocal consciousness
+        slug: nonlocal-consciousness
+    date: null
+    date_end: null
+    location_in_record: 01:35:38.9-01:35:48.9
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 43b2873d-8ebe-46aa-9425-a7e273c46e34
+      record_title: Non Human Intelligence, GATE Program and Psi Ability with Dr. Julia Mossbridge | ep. 99
+      record_date: '2026-08-14'
+      record_reference: https://www.youtube.com/watch?v=-qt2FYdP_EA
+      content_hash: sha256:8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8998cfdcd
+      friendly_name: null
+  - claim_id: a9585256-6919-4010-bd5e-9eb26cc67238
+    claim_hash: fa5a670be06b9ed01684869e8accda764e0bc669b74fbb05beee1393ce1be918
+    content: Chris Ramsay considers the body to be a processor that plucks non-locally existing information out of the substrate
+      and applies it to physical reality.
+    original_excerpt: I've always thought the body as being some type of processing machine, right? Like some processor, like,
+      you know, if information exists non-locally and sort of omnipresently, and then we somehow filter suck pull or whatever
+      pluck information out of the substrate and and then apply it to this physical reality
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 24d00311-06ac-46a1-a2f5-c99f3f8e21b2
+      title: Chris Ramsay
+    provenance_chain:
+      origin_kind: speaker
+      origin: Chris Ramsay
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 24d00311-06ac-46a1-a2f5-c99f3f8e21b2
+        title: Chris Ramsay
+        slug: chris-ramsay
+      - node_id: 425bc3c7-e4ce-451d-9c0a-fc3de2f415cd
+        title: Informational substrate
+        slug: informational-substrate
+      - node_id: e54f1c29-1780-4810-9c40-4f9baa9f8276
+        title: Nonlocal consciousness
+        slug: nonlocal-consciousness
+    date: null
+    date_end: null
+    location_in_record: 01:39:43.7-01:40:06.6
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 43b2873d-8ebe-46aa-9425-a7e273c46e34
+      record_title: Non Human Intelligence, GATE Program and Psi Ability with Dr. Julia Mossbridge | ep. 99
+      record_date: '2026-08-14'
+      record_reference: https://www.youtube.com/watch?v=-qt2FYdP_EA
+      content_hash: sha256:8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8998cfdcd
+      friendly_name: null
+  - claim_id: 54db4f9f-0a25-4ca2-86bc-199fedc4117f
+    claim_hash: 33118a8a9c259f164389700251afa1aa0ceba698bf4684541000b140f5b19200
+    content: Julia Mossbridge considers the mind, rather than the body, to be the processor of information, and that the mind
+      does not go away when the body dies.
+    original_excerpt: The mind is the processor and it doesn't go away when the body dies is the idea.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 8d3ca113-3f28-4808-998e-34d2837332a5
+      title: Julia Mossbridge
+    provenance_chain:
+      origin_kind: speaker
+      origin: Julia Mossbridge
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 45c38426-8f8a-4152-981e-19f1fd5ebd86
+        title: Filter theory of consciousness
+        slug: filter-theory-of-consciousness
+      - node_id: 8d3ca113-3f28-4808-998e-34d2837332a5
+        title: Julia Mossbridge
+        slug: julia-mossbridge
+      - node_id: e54f1c29-1780-4810-9c40-4f9baa9f8276
+        title: Nonlocal consciousness
+        slug: nonlocal-consciousness
+    date: null
+    date_end: null
+    location_in_record: 01:40:51.6-01:40:54.4
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 43b2873d-8ebe-46aa-9425-a7e273c46e34
+      record_title: Non Human Intelligence, GATE Program and Psi Ability with Dr. Julia Mossbridge | ep. 99
+      record_date: '2026-08-14'
+      record_reference: https://www.youtube.com/watch?v=-qt2FYdP_EA
+      content_hash: sha256:8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8998cfdcd
+      friendly_name: null
+  - claim_id: e4e028ad-2cdc-4864-a670-93667d2f73be
+    claim_hash: d4a9e91e08a34b5005f135c632e4e8e0a45bf1aec450e6831394792c7a2fa478
+    content: Julia Mossbridge considers the informational substrate to be the mind of the universe, holding all information
+      from the birth to the death of the universe.
+    original_excerpt: the informational substrate itself, you could call it the mind of the universe. because it has all the
+      information from the birth to the death of the universe in this worldview that we're making up.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 8d3ca113-3f28-4808-998e-34d2837332a5
+      title: Julia Mossbridge
+    provenance_chain:
+      origin_kind: speaker
+      origin: Julia Mossbridge
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 425bc3c7-e4ce-451d-9c0a-fc3de2f415cd
+        title: Informational substrate
+        slug: informational-substrate
+      - node_id: 8d3ca113-3f28-4808-998e-34d2837332a5
+        title: Julia Mossbridge
+        slug: julia-mossbridge
+      - node_id: e54f1c29-1780-4810-9c40-4f9baa9f8276
+        title: Nonlocal consciousness
+        slug: nonlocal-consciousness
+    date: null
+    date_end: null
+    location_in_record: 01:41:28.5-01:41:37.9
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 43b2873d-8ebe-46aa-9425-a7e273c46e34
+      record_title: Non Human Intelligence, GATE Program and Psi Ability with Dr. Julia Mossbridge | ep. 99
+      record_date: '2026-08-14'
+      record_reference: https://www.youtube.com/watch?v=-qt2FYdP_EA
+      content_hash: sha256:8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8998cfdcd
+      friendly_name: null
+  - claim_id: a0aec5ae-cbe9-43cf-992a-e205d6334656
+    claim_hash: 42a2f5abeceb190eea175564e2cf366bb78257d6cadbad00db81158e43afa5cd
+    content: Julia Mossbridge considers the individual mind to cease when the body dies, while the universal mind retains
+      awareness that the body existed in physical form.
+    original_excerpt: that individual mind i think ceases when the body goes away well although the the big mind the universal
+      mind would have awareness of oh that body is dead but someone could see a ghost
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 8d3ca113-3f28-4808-998e-34d2837332a5
+      title: Julia Mossbridge
+    provenance_chain:
+      origin_kind: speaker
+      origin: Julia Mossbridge
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 8d3ca113-3f28-4808-998e-34d2837332a5
+        title: Julia Mossbridge
+        slug: julia-mossbridge
+      - node_id: e54f1c29-1780-4810-9c40-4f9baa9f8276
+        title: Nonlocal consciousness
+        slug: nonlocal-consciousness
+    date: null
+    date_end: null
+    location_in_record: 01:42:24.9-01:42:36.4
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 43b2873d-8ebe-46aa-9425-a7e273c46e34
+      record_title: Non Human Intelligence, GATE Program and Psi Ability with Dr. Julia Mossbridge | ep. 99
+      record_date: '2026-08-14'
+      record_reference: https://www.youtube.com/watch?v=-qt2FYdP_EA
+      content_hash: sha256:8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8998cfdcd
+      friendly_name: null
+  - claim_id: de72c893-9ec2-40f8-bf34-194bb20730e1
+    claim_hash: 2682b141482e9bedce4ea5f918251e0b790eb60f2fbf64b32fae05eaae2b4843
+    content: Julia Mossbridge believes people can be made to dissociate from their bodies in order to go and retrieve information,
+      if consciousness can indeed float free of the body.
+    original_excerpt: I think you can get people to dissociate from their bodies if your goal is to get them out of their
+      body and to go get information, assuming the consciousness can float around like that
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 8d3ca113-3f28-4808-998e-34d2837332a5
+      title: Julia Mossbridge
+    provenance_chain:
+      origin_kind: speaker
+      origin: Julia Mossbridge
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 091f459e-bde8-4abc-a7c8-28ee007f7aab
+        title: Dissociation
+        slug: dissociation
+      - node_id: 8b0155a9-fabc-4b8d-9ee9-45eac58dbf2e
+        title: Out-of-Body Experience (OBE)
+        slug: out-of-body-experience-obe
+      - node_id: 8d3ca113-3f28-4808-998e-34d2837332a5
+        title: Julia Mossbridge
+        slug: julia-mossbridge
+      - node_id: e54f1c29-1780-4810-9c40-4f9baa9f8276
+        title: Nonlocal consciousness
+        slug: nonlocal-consciousness
+    date: null
+    date_end: null
+    location_in_record: 01:55:37.2-01:55:46.2
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 43b2873d-8ebe-46aa-9425-a7e273c46e34
+      record_title: Non Human Intelligence, GATE Program and Psi Ability with Dr. Julia Mossbridge | ep. 99
+      record_date: '2026-08-14'
+      record_reference: https://www.youtube.com/watch?v=-qt2FYdP_EA
+      content_hash: sha256:8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8998cfdcd
+      friendly_name: null
+  - claim_id: 74effa21-dd0b-415c-8e40-f021603f83ba
+    claim_hash: 1b79fef0cdc83b0dc17abe912e46af4ae6e92df42c47f093c3a97d775284defd
+    content: Chris Ramsay regards the out-of-body state as a non-physical reality, and suggests part of his consciousness
+      may project that reality while another part remains in his body.
+    original_excerpt: But I do feel like this is a non-physical reality that I'm currently experiencing. ... perhaps part
+      of my consciousness is projecting ... and the other part of the consciousness is well intact in my body
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 24d00311-06ac-46a1-a2f5-c99f3f8e21b2
+      title: Chris Ramsay
+    provenance_chain:
+      origin_kind: speaker
+      origin: Chris Ramsay
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 24d00311-06ac-46a1-a2f5-c99f3f8e21b2
+        title: Chris Ramsay
+        slug: chris-ramsay
+      - node_id: 8b0155a9-fabc-4b8d-9ee9-45eac58dbf2e
+        title: Out-of-Body Experience (OBE)
+        slug: out-of-body-experience-obe
+      - node_id: e54f1c29-1780-4810-9c40-4f9baa9f8276
+        title: Nonlocal consciousness
+        slug: nonlocal-consciousness
+    date: null
+    date_end: null
+    location_in_record: 02:10:24.8-02:10:32.5
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 43b2873d-8ebe-46aa-9425-a7e273c46e34
+      record_title: Non Human Intelligence, GATE Program and Psi Ability with Dr. Julia Mossbridge | ep. 99
+      record_date: '2026-08-14'
+      record_reference: https://www.youtube.com/watch?v=-qt2FYdP_EA
+      content_hash: sha256:8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8998cfdcd
+      friendly_name: null
+  - claim_id: 45cc8b04-7bf9-4640-99c8-9185170b6e42
+    claim_hash: 9103bbd016bdadd11a5d2bee7b58c450a94b164500ffc4ac47531069ae83ed4f
+    content: Julia Mossbridge believes being in a state of unconditional love does not itself change anything but removes
+      conditions on time and space, so a person no longer restricts where in the universe they can draw information from.
+    original_excerpt: So unconditional love doesn't change anything, but what it does do is when you are already in a state
+      of unconditional love, I think what it actually allows you to do is not have any conditions on time or space. So it's
+      almost like a belief factor. It's like if you could imagine the universe as this giant bubble of love, why are you privileging
+      or saying that you could only get information from this half of the universe, but not this half of the universe
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 8d3ca113-3f28-4808-998e-34d2837332a5
+      title: Julia Mossbridge
+    provenance_chain:
+      origin_kind: speaker
+      origin: Julia Mossbridge
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 4a996a9b-9692-4d1a-8218-ee7ec7cb1f7c
+        title: Precognitive Remote Viewing
+        slug: precognitive-remote-viewing
+      - node_id: 8d3ca113-3f28-4808-998e-34d2837332a5
+        title: Julia Mossbridge
+        slug: julia-mossbridge
+      - node_id: 8f0329c5-501b-44ce-bf71-23a45a1b4d9b
+        title: Unconditional love
+        slug: unconditional-love
+      - node_id: e54f1c29-1780-4810-9c40-4f9baa9f8276
+        title: Nonlocal consciousness
+        slug: nonlocal-consciousness
+    date: null
+    date_end: null
+    location_in_record: 02:39:07.7-02:39:38.2
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 43b2873d-8ebe-46aa-9425-a7e273c46e34
+      record_title: Non Human Intelligence, GATE Program and Psi Ability with Dr. Julia Mossbridge | ep. 99
+      record_date: '2026-08-14'
+      record_reference: https://www.youtube.com/watch?v=-qt2FYdP_EA
+      content_hash: sha256:8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8998cfdcd
+      friendly_name: null
+  - claim_id: 22179427-6554-495f-9424-6662a413d4f0
+    claim_hash: 0e3c1dc69a6b97771166c67e7dc7959b8772aa54548f166daa427769e08a4fcd
+    content: Julia Mossbridge has repeatedly urged the Scientific Coalition for UAP Studies to study consciousness rather
+      than only the craft, and at the most recent gathering the group agreed with her.
+    original_excerpt: I say the same thing whenever I go, which is you guys, we have to study consciousness. Like we can't
+      just look at race cars in the sky. And this year they're like, okay, you're right. We've got to study consciousness.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 8d3ca113-3f28-4808-998e-34d2837332a5
+      title: Julia Mossbridge
+    provenance_chain:
+      origin_kind: speaker
+      origin: Julia Mossbridge
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 8d3ca113-3f28-4808-998e-34d2837332a5
+        title: Julia Mossbridge
+        slug: julia-mossbridge
+      - node_id: a3c6c31c-1d30-47e3-9dc2-215371969cc6
+        title: Scientific Coalition for Unidentified Aerial Phenomena (UAP) Studies
+        slug: scientific-coalition-for-unidentified-aerial-phenomena-uap-studies
+      - node_id: e54f1c29-1780-4810-9c40-4f9baa9f8276
+        title: Nonlocal consciousness
+        slug: nonlocal-consciousness
+    date: null
+    date_end: null
+    location_in_record: 02:47:02.1-02:47:11.6
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 43b2873d-8ebe-46aa-9425-a7e273c46e34
+      record_title: Non Human Intelligence, GATE Program and Psi Ability with Dr. Julia Mossbridge | ep. 99
+      record_date: '2026-08-14'
+      record_reference: https://www.youtube.com/watch?v=-qt2FYdP_EA
+      content_hash: sha256:8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8998cfdcd
+      friendly_name: null
+  - claim_id: 1fa0cf57-8e1c-440c-8f5f-fa48dc2e3f61
+    claim_hash: d8611208737d3c096311862a862500f30843a9d4065422e5474d354f72fd23ad
+    content: Julia Mossbridge holds that anyone who does not recognise a relationship between the human mind, mind as a universal
+      thing, and Unidentified Aerial Phenomena has not understood the phenomenon.
+    original_excerpt: But I think if you don't understand that there's a relationship between the human mind and mind itself
+      as a universal thing and UAP, you haven't understood the phenomenon.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 8d3ca113-3f28-4808-998e-34d2837332a5
+      title: Julia Mossbridge
+    provenance_chain:
+      origin_kind: speaker
+      origin: Julia Mossbridge
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
+        title: Unidentified Anomalous Phenomena (UAP)
+        slug: unidentified-anomalous-phenomena-uap
+      - node_id: 8d3ca113-3f28-4808-998e-34d2837332a5
+        title: Julia Mossbridge
+        slug: julia-mossbridge
+      - node_id: e54f1c29-1780-4810-9c40-4f9baa9f8276
+        title: Nonlocal consciousness
+        slug: nonlocal-consciousness
+    date: null
+    date_end: null
+    location_in_record: 02:47:15.0-02:47:27.4
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 43b2873d-8ebe-46aa-9425-a7e273c46e34
+      record_title: Non Human Intelligence, GATE Program and Psi Ability with Dr. Julia Mossbridge | ep. 99
+      record_date: '2026-08-14'
+      record_reference: https://www.youtube.com/watch?v=-qt2FYdP_EA
+      content_hash: sha256:8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8998cfdcd
+      friendly_name: null
+  - claim_id: 4be6e6d2-cb86-415b-ace2-c888e4606924
+    claim_hash: 5bd837e32c06bf0ee5b19ccc085e34529d08b84b699518b940a2b7306e5ab431
+    content: Julia Mossbridge considers the consciousness aspect of Unidentified Aerial Phenomena to be a cultural taboo that
+      is being avoided because treating the phenomenon as merely craft in the sky is easier.
+    original_excerpt: And I know that we're staying away from it, you know, at a cultural level, because it's much easier
+      to say, oh, look, race cars in the sky. But like, that is the big taboo. And we've got to walk towards it with our eyes
+      open.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 8d3ca113-3f28-4808-998e-34d2837332a5
+      title: Julia Mossbridge
+    provenance_chain:
+      origin_kind: speaker
+      origin: Julia Mossbridge
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
+        title: Unidentified Anomalous Phenomena (UAP)
+        slug: unidentified-anomalous-phenomena-uap
+      - node_id: 8d3ca113-3f28-4808-998e-34d2837332a5
+        title: Julia Mossbridge
+        slug: julia-mossbridge
+      - node_id: e54f1c29-1780-4810-9c40-4f9baa9f8276
+        title: Nonlocal consciousness
+        slug: nonlocal-consciousness
+    date: null
+    date_end: null
+    location_in_record: 02:48:00.1-02:48:13.2
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 43b2873d-8ebe-46aa-9425-a7e273c46e34
+      record_title: Non Human Intelligence, GATE Program and Psi Ability with Dr. Julia Mossbridge | ep. 99
+      record_date: '2026-08-14'
+      record_reference: https://www.youtube.com/watch?v=-qt2FYdP_EA
+      content_hash: sha256:8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8998cfdcd
+      friendly_name: null
+  - claim_id: 1bd8af7a-b900-4c11-a526-a4e95bc4d602
+    claim_hash: 71600ded186667262e7c4dac1fef8fd44842e27c6fc7610c30688d62f3133cae
+    content: The third point in the Wilbert Smith 1950 memorandum on flying saucers is that the phenomenon is mental.
+    original_excerpt: And number three, he goes, and the phenomenon is mental.
+    claim_type: administrative
+    attestation: second_hand
+    speaker:
+      node_id: 24d00311-06ac-46a1-a2f5-c99f3f8e21b2
+      title: Chris Ramsay
+    provenance_chain:
+      origin_kind: document
+      origin: Wilbert Smith 1950 memorandum on flying saucers
+      relay:
+        - Chris Ramsay
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 24d00311-06ac-46a1-a2f5-c99f3f8e21b2
+        title: Chris Ramsay
+        slug: chris-ramsay
+      - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
+        title: Unidentified Flying Object (UFO)
+        slug: unidentified-flying-object-ufo
+      - node_id: b8f40be9-d8c9-4217-962f-2421f8d05a55
+        title: Wilbert Smith 1950 memorandum on flying saucers
+        slug: wilbert-smith-1950-memorandum-on-flying-saucers
+      - node_id: e54f1c29-1780-4810-9c40-4f9baa9f8276
+        title: Nonlocal consciousness
+        slug: nonlocal-consciousness
+    date: '1950'
+    date_end: null
+    location_in_record: 02:49:14.9-02:49:18.4
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 43b2873d-8ebe-46aa-9425-a7e273c46e34
+      record_title: Non Human Intelligence, GATE Program and Psi Ability with Dr. Julia Mossbridge | ep. 99
+      record_date: '2026-08-14'
+      record_reference: https://www.youtube.com/watch?v=-qt2FYdP_EA
+      content_hash: sha256:8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8998cfdcd
+      friendly_name: null
+  - claim_id: 8bad31d7-b327-4b3a-b100-0dd006d44a4a
+    claim_hash: 1f7c1cea8c6fa9e715a1e69a436389eb8ff3157b41628f205006e09bff11d4fa
+    content: Julia Mossbridge holds that under the informational substrate model precognition works with a substrate aware
+      of what needs to happen, rather than only with events that reach physical manifestation in time.
+    original_excerpt: Where it's no longer that you have to work with the events in time that actually make it up to physical
+      manifestation. You're working with this substrate that is actually aware, its mind, its universal mind is aware of what
+      needs to happen.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 8d3ca113-3f28-4808-998e-34d2837332a5
+      title: Julia Mossbridge
+    provenance_chain:
+      origin_kind: speaker
+      origin: Julia Mossbridge
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 3ee2cac3-ff50-4eff-8353-cd4c6ac0a30f
+        title: Precognition
+        slug: precognition
+      - node_id: 425bc3c7-e4ce-451d-9c0a-fc3de2f415cd
+        title: Informational substrate
+        slug: informational-substrate
+      - node_id: 8d3ca113-3f28-4808-998e-34d2837332a5
+        title: Julia Mossbridge
+        slug: julia-mossbridge
+      - node_id: e54f1c29-1780-4810-9c40-4f9baa9f8276
+        title: Nonlocal consciousness
+        slug: nonlocal-consciousness
+    date: null
+    date_end: null
+    location_in_record: 02:56:03.9-02:56:18.8
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 43b2873d-8ebe-46aa-9425-a7e273c46e34
+      record_title: Non Human Intelligence, GATE Program and Psi Ability with Dr. Julia Mossbridge | ep. 99
+      record_date: '2026-08-14'
+      record_reference: https://www.youtube.com/watch?v=-qt2FYdP_EA
+      content_hash: sha256:8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8998cfdcd
+      friendly_name: null

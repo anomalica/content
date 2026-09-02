@@ -1,0 +1,167 @@
+schema: anomalica/brief/1
+brief_hash: 9938c6d2b3468b47d79bb7e2005ba31786e7a8c8792a6962cbca7ebd92bee3b7
+page:
+  kind: entity
+  node_id: 252b6b28-dc16-4d5c-b799-f896de0590f8
+  node_type: person
+  title: Glenn Gaffney
+  slug: glenn-gaffney
+  claim_count: 3
+  claim_count_total: 3
+generated:
+  graph_version: '2026-09-01T10:10:49.863545+00:00'
+size:
+  claims: 3
+  tokens_estimated: 891
+  sized_against: 1050000
+publication:
+  status: published
+  note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
+    transcripts are gated elsewhere.
+belonging:
+  verified: 0
+  suspect_excluded: 0
+  unreviewed: 3
+related_nodes:
+  - node_id: cc6d8585-d896-4fc3-b3a2-28d9a7d153ab
+    title: Advanced Aerospace Weapon System Applications Program (AAWSAP)
+    node_type: project
+    slug: advanced-aerospace-weapon-system-applications-program-aawsap
+    shared_claims: 1
+  - node_id: 1dfc0714-c2ac-4923-b546-61a19f0755f0
+    title: Central Intelligence Agency (CIA) Directorate of Science and Technology (DS&T)
+    node_type: organisation
+    slug: central-intelligence-agency-cia-directorate-of-science-and-technology-dst
+    shared_claims: 1
+  - node_id: a6fcedef-9273-4fcb-bcac-f04f52aea465
+    title: Terry Phillips
+    node_type: person
+    slug: terry-phillips
+    shared_claims: 1
+  - node_id: 0b47cac5-b9cc-44ea-a2aa-5cbd39a0d21a
+    title: Unidentified Aerial Phenomena (UAP) Gerb
+    node_type: person
+    slug: unidentified-aerial-phenomena-uap-gerb
+    shared_claims: 1
+  - node_id: 32b98a17-be55-4b0f-8e10-9d377e1e8b33
+    title: United States Air Force (USAF)
+    node_type: organisation
+    slug: united-states-air-force-usaf
+    shared_claims: 1
+claims:
+  - claim_id: e8d33f9f-6c49-4392-9e32-9f5875eaa238
+    claim_hash: c3ac5cbd481e25aa7b6592eaa045e52912004a117f293d978c388af90d975e2f
+    content: UAP Gerb identifies Glenn Gaffney of the CIA Directorate of Science and Technology (DS&T) as one of the individuals
+      who applied pressure against funding earlier efforts to obtain materials from aerospace corporations.
+    original_excerpt: Yeah, Glenn Gaffney at the DS&T, one of them.
+    claim_type: hearsay
+    attestation: first_hand
+    speaker:
+      node_id: 78ca02a3-3c5f-4295-9c7b-3d547643603f
+      title: UAP Gerb
+    provenance_chain:
+      origin_kind: speaker
+      origin: UAP Gerb
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 1dfc0714-c2ac-4923-b546-61a19f0755f0
+        title: Central Intelligence Agency (CIA) Directorate of Science and Technology (DS&T)
+        slug: central-intelligence-agency-cia-directorate-of-science-and-technology-dst
+      - node_id: 252b6b28-dc16-4d5c-b799-f896de0590f8
+        title: Glenn Gaffney
+        slug: glenn-gaffney
+    date: null
+    date_end: null
+    location_in_record: 00:15:18.6-00:15:21.8
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 8c1d10dd-26ad-481a-9699-761ecf181743
+      record_title: 'Episode 73: Science vs. Secrecy'
+      record_date: '2026-06-30'
+      record_reference: https://www.youtube.com/watch?v=tZHuAZpLdFw
+      content_hash: sha256:ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230a948eb3d
+      friendly_name: null
+  - claim_id: 963347e7-cbc0-4c99-b621-df1949389f14
+    claim_hash: f8e02d99032dcec6c64eb71649c0101ff37570ac43471b9dcd6a2c2ede0cc5c8
+    content: Glenn Gaffney, a former CIA Director of Science and Technology and Deputy Director, was one of the gatekeepers
+      who stopped material transfers to the Advanced Aerospace Weapon System Applications Program (AAWSAP).
+    original_excerpt: one of those gatekeepers that stopped some of these material transfers to the AAWSAP was Glenn Gaffney,
+      former CIA Director of Science and Technology, Deputy Director.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 78ca02a3-3c5f-4295-9c7b-3d547643603f
+      title: UAP Gerb
+    provenance_chain:
+      origin_kind: speaker
+      origin: UAP Gerb
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 252b6b28-dc16-4d5c-b799-f896de0590f8
+        title: Glenn Gaffney
+        slug: glenn-gaffney
+      - node_id: cc6d8585-d896-4fc3-b3a2-28d9a7d153ab
+        title: Advanced Aerospace Weapon System Applications Program (AAWSAP)
+        slug: advanced-aerospace-weapon-system-applications-program-aawsap
+    date: null
+    date_end: null
+    location_in_record: 00:38:43.5-00:38:51.1
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 8c1d10dd-26ad-481a-9699-761ecf181743
+      record_title: 'Episode 73: Science vs. Secrecy'
+      record_date: '2026-06-30'
+      record_reference: https://www.youtube.com/watch?v=tZHuAZpLdFw
+      content_hash: sha256:ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230a948eb3d
+      friendly_name: null
+  - claim_id: f646bfcd-6bf7-481b-a6e9-e99b39612930
+    claim_hash: c06fa2ec6a8affd242277a6e2650dd2db9cbaadc651bb4ee8ba6c3a7e762b4af
+    content: In his video about the United States Air Force, UAP Gerb named Terry Phillips as a gatekeeper who should be considered
+      alongside Glenn Gaffney.
+    original_excerpt: A good example is in the Air Force project, I put forward the name Terry Phillips as the gatekeeper.
+      People should know in the same sentence as Glenn Gaffney.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 0b47cac5-b9cc-44ea-a2aa-5cbd39a0d21a
+      title: Unidentified Aerial Phenomena (UAP) Gerb
+    provenance_chain:
+      origin_kind: speaker
+      origin: UAP Gerb
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 0b47cac5-b9cc-44ea-a2aa-5cbd39a0d21a
+        title: Unidentified Aerial Phenomena (UAP) Gerb
+        slug: unidentified-aerial-phenomena-uap-gerb
+      - node_id: 252b6b28-dc16-4d5c-b799-f896de0590f8
+        title: Glenn Gaffney
+        slug: glenn-gaffney
+      - node_id: 32b98a17-be55-4b0f-8e10-9d377e1e8b33
+        title: United States Air Force (USAF)
+        slug: united-states-air-force-usaf
+      - node_id: a6fcedef-9273-4fcb-bcac-f04f52aea465
+        title: Terry Phillips
+        slug: terry-phillips
+    date: null
+    date_end: null
+    location_in_record: 01:01:03.3-01:01:11.4
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: dc9d8bc8-9c1f-46b4-9b89-8d86b6b08e1d
+      record_title: Jesse Michels, UAPGerb & Chris Ramsay - Flying Saucer Diner
+      record_date: '2026-07-17'
+      record_reference: https://www.youtube.com/watch?v=HFLBDi87888
+      content_hash: sha256:7b2e272d7c82fdda745ee0354d7c9cc4b0d5ba5506015ca27edd9169a768b262
+      friendly_name: null

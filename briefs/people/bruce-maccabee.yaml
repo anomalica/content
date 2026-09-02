@@ -1,0 +1,532 @@
+schema: anomalica/brief/1
+brief_hash: 1821d1e8c95b048737348fc0d9180f80800ab74fb3cccf014298d3bb4a131cba
+page:
+  kind: entity
+  node_id: 0c0f7266-312d-4b09-99a4-0126cc96308d
+  node_type: person
+  title: Bruce Maccabee
+  slug: bruce-maccabee
+  claim_count: 11
+  claim_count_total: 11
+generated:
+  graph_version: '2026-09-01T10:10:49.863545+00:00'
+size:
+  claims: 11
+  tokens_estimated: 3143
+  sized_against: 1050000
+publication:
+  status: published
+  note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
+    transcripts are gated elsewhere.
+belonging:
+  verified: 0
+  suspect_excluded: 0
+  unreviewed: 11
+related_nodes:
+  - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
+    title: Unidentified Flying Object (UFO)
+    node_type: topic
+    slug: unidentified-flying-object-ufo
+    shared_claims: 4
+  - node_id: 459eb5cf-ea76-4cad-9421-a726261cd3a2
+    title: Bill Clinton
+    node_type: person
+    slug: bill-clinton
+    shared_claims: 3
+  - node_id: 62234717-6c34-4845-9017-7f9e9fa69df9
+    title: Kaikoura Unidentified Flying Object (UFO) film footage
+    node_type: document
+    slug: kaikoura-unidentified-flying-object-ufo-film-footage
+    shared_claims: 2
+  - node_id: 0c023c1b-30bd-48a1-a836-2b291ff5853a
+    title: Ronald Pandolfi
+    node_type: person
+    slug: ronald-pandolfi
+    shared_claims: 2
+  - node_id: 746f41bc-1c2e-4912-9df8-0711676f4dab
+    title: 1978 Kaikoura lights incident
+    node_type: event
+    slug: 1978-kaikoura-lights-incident
+    shared_claims: 1
+  - node_id: e1efac10-b1f7-4eb4-86aa-20beb6665b14
+    title: April 24, 1949 Charles B. Moore balloon and unidentified object sighting
+    node_type: event
+    slug: 1949-charles-b-moore-balloon-and-unidentified-object-sighting-april-24
+    shared_claims: 1
+  - node_id: 38b84d4a-96df-4684-bb46-f6f64f392add
+    title: Central Intelligence Agency (CIA)
+    node_type: organisation
+    slug: central-intelligence-agency-cia
+    shared_claims: 1
+  - node_id: ec69e08d-062d-401c-9287-46a45fdc9b4d
+    title: Donald Menzel
+    node_type: person
+    slug: donald-menzel
+    shared_claims: 1
+  - node_id: c430b2b2-7900-45c9-9882-98ac4ab14e88
+    title: Federal Bureau of Investigation (FBI)
+    node_type: organisation
+    slug: federal-bureau-of-investigation-fbi
+    shared_claims: 1
+  - node_id: d0a6ce69-4f5f-456b-a83c-b68a680224be
+    title: John Mack
+    node_type: person
+    slug: john-mack
+    shared_claims: 1
+  - node_id: 2116e8f0-ae1b-465d-a6d0-7b73f13db95a
+    title: Linda Moulton Howe
+    node_type: person
+    slug: linda-moulton-howe
+    shared_claims: 1
+  - node_id: dea6e499-868a-4365-a7e4-04a18a215554
+    title: Quentin Fogarty
+    node_type: person
+    slug: quentin-fogarty
+    shared_claims: 1
+  - node_id: 39931bd6-9341-4fc5-a3fe-e7e81229eb3e
+    title: Rockefeller Ranch Unidentified Flying Object (UFO) disclosure meeting
+    node_type: event
+    slug: rockefeller-ranch-unidentified-flying-object-ufo-disclosure-meeting
+    shared_claims: 1
+  - node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+    title: Ross Coulthart
+    node_type: person
+    slug: ross-coulthart
+    shared_claims: 1
+claims:
+  - claim_id: d764fab1-39f3-46ca-a9c1-6538b4f89f38
+    claim_hash: 98a4db66259e7a7b8a087960d000c47fd09690001d954f72808b07a1b9a0346e
+    content: According to navy physicist Bruce Maccabee, Donald Menzel made critical errors in comparing his own lensing theory
+      with the data reported by observers of the April 24, 1949 sighting.
+    original_excerpt: According to navy physicist Dr. Bruce Maccabee, critical errors were made by Dr. Menzel in comparing
+      his own tensing theory with the data reported observers.
+    claim_type: opinion
+    attestation: second_hand
+    speaker:
+      node_id: 0c0f7266-312d-4b09-99a4-0126cc96308d
+      title: Bruce Maccabee
+    provenance_chain:
+      origin_kind: named
+      origin: Bruce Maccabee
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 0c0f7266-312d-4b09-99a4-0126cc96308d
+        title: Bruce Maccabee
+        slug: bruce-maccabee
+      - node_id: e1efac10-b1f7-4eb4-86aa-20beb6665b14
+        title: April 24, 1949 Charles B. Moore balloon and unidentified object sighting
+        slug: 1949-charles-b-moore-balloon-and-unidentified-object-sighting-april-24
+      - node_id: ec69e08d-062d-401c-9287-46a45fdc9b4d
+        title: Donald Menzel
+        slug: donald-menzel
+    date: null
+    date_end: null
+    location_in_record: ch14:28174-28322
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: ad152768-183b-4cde-bc60-1520900ceb32
+      record_title: Communion
+      record_date: '2013-06-16'
+      record_reference: null
+      content_hash: sha256:b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4001275f9
+      friendly_name: 2013-06-16-ebook-communion
+  - claim_id: 45f64a78-a281-49dd-81d3-0981c32e74a5
+    claim_hash: 9825814be16a754ea77184af966ac9707049c237b2c1b26d935d57c66bc1b5b6
+    content: The angle at which the April 24, 1949 sighting took place was too great to allow lensing, even under Donald Menzel's
+      own hypothesis.
+    original_excerpt: Specifically, the angle at which the observation took place was too great to allow Tensing, even under
+      Dr. Menzel's hypothesis.
+    claim_type: opinion
+    attestation: second_hand
+    speaker:
+      node_id: 0c0f7266-312d-4b09-99a4-0126cc96308d
+      title: Bruce Maccabee
+    provenance_chain:
+      origin_kind: named
+      origin: Bruce Maccabee
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: e1efac10-b1f7-4eb4-86aa-20beb6665b14
+        title: April 24, 1949 Charles B. Moore balloon and unidentified object sighting
+        slug: 1949-charles-b-moore-balloon-and-unidentified-object-sighting-april-24
+      - node_id: ec69e08d-062d-401c-9287-46a45fdc9b4d
+        title: Donald Menzel
+        slug: donald-menzel
+    date: null
+    date_end: null
+    location_in_record: ch14:28333-28449
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: ad152768-183b-4cde-bc60-1520900ceb32
+      record_title: Communion
+      record_date: '2013-06-16'
+      record_reference: null
+      content_hash: sha256:b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4001275f9
+      friendly_name: 2013-06-16-ebook-communion
+  - claim_id: 510fbf28-0a61-4d08-a91b-edb7347bba4f
+    claim_hash: d27a391352f235cd15563643799089c23193b2557c6764d7217c2dc927bdada3
+    content: Ross Coulthart considers Bruce Maccabee one of the most respected analysts of Unidentified Flying Object (UFO)
+      cases of the past 50 years.
+    original_excerpt: one of, I think, the most respected analysts of UFOs in the last 50 years is Bruce McAbee
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+      title: Ross Coulthart
+    provenance_chain:
+      origin_kind: speaker
+      origin: Ross Coulthart
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 0c0f7266-312d-4b09-99a4-0126cc96308d
+        title: Bruce Maccabee
+        slug: bruce-maccabee
+      - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
+        title: Unidentified Flying Object (UFO)
+        slug: unidentified-flying-object-ufo
+      - node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+        title: Ross Coulthart
+        slug: ross-coulthart
+    date: null
+    date_end: null
+    location_in_record: 00:20:16.9-00:20:23.6
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: fd845823-8784-462c-a981-4775525b6f84
+      record_title: The DANGEROUS Truth About UFOs - Ross Coulthart | DEBRIEFED ep. 76
+      record_date: '2026-02-20'
+      record_reference: https://www.youtube.com/watch?v=idBryc0eWww
+      content_hash: sha256:73be106d406f6d35a063a894e8384e7da0918eb8597d2107a9e3653becca2bdc
+      friendly_name: null
+  - claim_id: 83edea3e-7dad-4d8b-a2dd-b27b53137b2d
+    claim_hash: e57adad43f5c7bebab3922cf78afa3f7e313e752763a76eea365f1a2464d9762
+    content: Bruce Maccabee is an American physicist who had an association with a quasi-defence agency and conducted Unidentified
+      Flying Object (UFO) research on the side.
+    original_excerpt: an American, I think he was a physicist. But he had a vague association with a quasi-defense agency,
+      but he did a lot of UFO work on the side.
+    claim_type: administrative
+    attestation: first_hand
+    speaker:
+      node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+      title: Ross Coulthart
+    provenance_chain:
+      origin_kind: speaker
+      origin: Ross Coulthart
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 0c0f7266-312d-4b09-99a4-0126cc96308d
+        title: Bruce Maccabee
+        slug: bruce-maccabee
+      - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
+        title: Unidentified Flying Object (UFO)
+        slug: unidentified-flying-object-ufo
+    date: null
+    date_end: null
+    location_in_record: 00:20:24.0-00:20:34.6
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: fd845823-8784-462c-a981-4775525b6f84
+      record_title: The DANGEROUS Truth About UFOs - Ross Coulthart | DEBRIEFED ep. 76
+      record_date: '2026-02-20'
+      record_reference: https://www.youtube.com/watch?v=idBryc0eWww
+      content_hash: sha256:73be106d406f6d35a063a894e8384e7da0918eb8597d2107a9e3653becca2bdc
+      friendly_name: null
+  - claim_id: 6d41dbc5-037b-4155-b539-ae671af60ce6
+    claim_hash: b07471b2443604f27587948f627faa54695933c925592bc05a78490ac16d80b4
+    content: Bruce Maccabee analysed a copy of the Kaikoura Unidentified Flying Object (UFO) film footage for Quentin Fogarty
+      and the Australian television network covering the story.
+    original_excerpt: he had taken the film, a copy of the film, and analysed it for Quentin and the TV network back in Australia
+      that was doing the story
+    claim_type: administrative
+    attestation: first_hand
+    speaker:
+      node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+      title: Ross Coulthart
+    provenance_chain:
+      origin_kind: speaker
+      origin: Ross Coulthart
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 0c0f7266-312d-4b09-99a4-0126cc96308d
+        title: Bruce Maccabee
+        slug: bruce-maccabee
+      - node_id: 62234717-6c34-4845-9017-7f9e9fa69df9
+        title: Kaikoura Unidentified Flying Object (UFO) film footage
+        slug: kaikoura-unidentified-flying-object-ufo-film-footage
+      - node_id: dea6e499-868a-4365-a7e4-04a18a215554
+        title: Quentin Fogarty
+        slug: quentin-fogarty
+    date: null
+    date_end: null
+    location_in_record: 00:20:35.9-00:20:46.1
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: fd845823-8784-462c-a981-4775525b6f84
+      record_title: The DANGEROUS Truth About UFOs - Ross Coulthart | DEBRIEFED ep. 76
+      record_date: '2026-02-20'
+      record_reference: https://www.youtube.com/watch?v=idBryc0eWww
+      content_hash: sha256:73be106d406f6d35a063a894e8384e7da0918eb8597d2107a9e3653becca2bdc
+      friendly_name: null
+  - claim_id: 3341b7b8-6363-4892-8196-afb4cdeb065a
+    claim_hash: 1ce19b8c5c62a7f02f3e0f1c2fb566dbf89e60c692c17706d77d8efd6a3c180b
+    content: Bruce Maccabee found the movements of the objects in the Kaikoura Unidentified Flying Object (UFO) film footage
+      to be anomalous.
+    original_excerpt: what Bruce found was that the movements of these objects were anomalous
+    claim_type: measurement
+    attestation: second_hand
+    speaker:
+      node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+      title: Ross Coulthart
+    provenance_chain:
+      origin_kind: named
+      origin: Bruce Maccabee
+      relay:
+        - Ross Coulthart
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 0c0f7266-312d-4b09-99a4-0126cc96308d
+        title: Bruce Maccabee
+        slug: bruce-maccabee
+      - node_id: 62234717-6c34-4845-9017-7f9e9fa69df9
+        title: Kaikoura Unidentified Flying Object (UFO) film footage
+        slug: kaikoura-unidentified-flying-object-ufo-film-footage
+      - node_id: 746f41bc-1c2e-4912-9df8-0711676f4dab
+        title: 1978 Kaikoura lights incident
+        slug: 1978-kaikoura-lights-incident
+    date: null
+    date_end: null
+    location_in_record: 00:20:48.5-00:20:52.9
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: fd845823-8784-462c-a981-4775525b6f84
+      record_title: The DANGEROUS Truth About UFOs - Ross Coulthart | DEBRIEFED ep. 76
+      record_date: '2026-02-20'
+      record_reference: https://www.youtube.com/watch?v=idBryc0eWww
+      content_hash: sha256:73be106d406f6d35a063a894e8384e7da0918eb8597d2107a9e3653becca2bdc
+      friendly_name: null
+  - claim_id: 1b8cf3b4-33dc-4f1b-b6e3-077b1d580dec
+    claim_hash: 3468eb4bb961beed0a260eaa2f295f4d4a3445960212c939d60ba84e955681a7
+    content: Ronald Pandolfi advised Bill Clinton that he should be briefed by Bruce Maccabee, a longtime civilian UFO researcher
+      who had written a book about UFOs and the FBI.
+    original_excerpt: Ron Pandolfi told Clinton he should get briefed by a guy named Bruce Maccabee who had written about
+      a book about UFOs and the FBI was a longtime civilian researcher.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 079d4381-4273-418b-bc9a-468623f95c6e
+      title: Jesse Mitchells
+    provenance_chain:
+      origin_kind: speaker
+      origin: Jesse Michels
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 0c023c1b-30bd-48a1-a836-2b291ff5853a
+        title: Ronald Pandolfi
+        slug: ronald-pandolfi
+      - node_id: 0c0f7266-312d-4b09-99a4-0126cc96308d
+        title: Bruce Maccabee
+        slug: bruce-maccabee
+      - node_id: 459eb5cf-ea76-4cad-9421-a726261cd3a2
+        title: Bill Clinton
+        slug: bill-clinton
+      - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
+        title: Unidentified Flying Object (UFO)
+        slug: unidentified-flying-object-ufo
+      - node_id: c430b2b2-7900-45c9-9882-98ac4ab14e88
+        title: Federal Bureau of Investigation (FBI)
+        slug: federal-bureau-of-investigation-fbi
+    date: null
+    date_end: null
+    location_in_record: 00:47:46.2-00:47:56.5
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 64b84f95-238c-4ab7-a678-bee55f985b14
+      record_title: The UFO Cover-Up Leads to One Secret Society — and One Final Event
+      record_date: '2026-07-14'
+      record_reference: https://www.youtube.com/watch?v=kccrkCGGzX4
+      content_hash: sha256:d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7b5a1b98d
+      friendly_name: null
+  - claim_id: 63d32f5f-d26e-4216-badd-0b4f1f215298
+    claim_hash: 28b8bc2246e7f6ffceb3d3a98e168b92700292d743951f82e7f2823501776789
+    content: Bruce Maccabee received a call from Ronald Pandolfi asking him to deliver to Bill Clinton's science advisor the
+      lecture he had once given to the CIA, and was told the briefing was the following morning at eight o'clock, leaving
+      almost no time to prepare.
+    original_excerpt: So Bruce Maccabee relates the story. ... he gets a call from Pandolfi basically saying, look, I need
+      you to go in and give the lecture you gave to the CIA once. I want you to give it to the science advisor. And he's like,
+      well, I need time to prepare ... And he's like, it's tomorrow eight in the morning.
+    claim_type: hearsay
+    attestation: second_hand
+    speaker:
+      node_id: ff0a86b8-8f3c-4291-94ed-c6d303875ce8
+      title: Jason Samosa
+    provenance_chain:
+      origin_kind: named
+      origin: Bruce Maccabee
+      relay:
+        - Bruce Maccabee's public retelling of the story
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 0c023c1b-30bd-48a1-a836-2b291ff5853a
+        title: Ronald Pandolfi
+        slug: ronald-pandolfi
+      - node_id: 0c0f7266-312d-4b09-99a4-0126cc96308d
+        title: Bruce Maccabee
+        slug: bruce-maccabee
+      - node_id: 38b84d4a-96df-4684-bb46-f6f64f392add
+        title: Central Intelligence Agency (CIA)
+        slug: central-intelligence-agency-cia
+      - node_id: 459eb5cf-ea76-4cad-9421-a726261cd3a2
+        title: Bill Clinton
+        slug: bill-clinton
+    date: null
+    date_end: null
+    location_in_record: 00:49:25.2-00:49:44.0
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 64b84f95-238c-4ab7-a678-bee55f985b14
+      record_title: The UFO Cover-Up Leads to One Secret Society — and One Final Event
+      record_date: '2026-07-14'
+      record_reference: https://www.youtube.com/watch?v=kccrkCGGzX4
+      content_hash: sha256:d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7b5a1b98d
+      friendly_name: null
+  - claim_id: 411f00d0-29e7-43c0-8431-53e5b7ca59bd
+    claim_hash: 74564dd0c58125b5e1f3d11946c931dc3f6dbb73dce8eff6b9cf750b28cafeed
+    content: Bruce Maccabee is a Navy physicist who has done phenomenal UFO research, in Jason Samosa's assessment.
+    original_excerpt: he's this Navy physicist, incredibly bright guy who's obviously done phenomenal research.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: ff0a86b8-8f3c-4291-94ed-c6d303875ce8
+      title: Jason Samosa
+    provenance_chain:
+      origin_kind: speaker
+      origin: Jason Samosa
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 0c0f7266-312d-4b09-99a4-0126cc96308d
+        title: Bruce Maccabee
+        slug: bruce-maccabee
+    date: null
+    date_end: null
+    location_in_record: 00:49:27.1-00:49:30.5
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 64b84f95-238c-4ab7-a678-bee55f985b14
+      record_title: The UFO Cover-Up Leads to One Secret Society — and One Final Event
+      record_date: '2026-07-14'
+      record_reference: https://www.youtube.com/watch?v=kccrkCGGzX4
+      content_hash: sha256:d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7b5a1b98d
+      friendly_name: null
+  - claim_id: 72f8b797-75a1-4490-9964-5e94afb073d1
+    claim_hash: a19b2d6d0ff22023a3ba9a80ca01a29cd4d63d37d4e9ea33e8d8b80b27060d1c
+    content: Bruce Maccabee is a Navy physicist who wrote the UFO briefing given for Bill Clinton.
+    original_excerpt: '[note: Bruce Maccabee - Navy physicist who wrote the Clinton UFO briefing]'
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: source record annotation
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 0c0f7266-312d-4b09-99a4-0126cc96308d
+        title: Bruce Maccabee
+        slug: bruce-maccabee
+      - node_id: 459eb5cf-ea76-4cad-9421-a726261cd3a2
+        title: Bill Clinton
+        slug: bill-clinton
+      - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
+        title: Unidentified Flying Object (UFO)
+        slug: unidentified-flying-object-ufo
+    date: null
+    date_end: null
+    location_in_record: line 142
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 64b84f95-238c-4ab7-a678-bee55f985b14
+      record_title: The UFO Cover-Up Leads to One Secret Society — and One Final Event
+      record_date: '2026-07-14'
+      record_reference: https://www.youtube.com/watch?v=kccrkCGGzX4
+      content_hash: sha256:d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7b5a1b98d
+      friendly_name: null
+  - claim_id: 105c5e44-c26c-42b8-be36-97dd63375c3e
+    claim_hash: 25dd99466e529ea0fe2b09e0bf3461539d29e8404a7ac0365eb07a79c913f97f
+    content: Linda Moulton Howe, John Mack and Bruce Maccabee attended the meeting Lawrence Rockefeller convened at the Rockefeller
+      Ranch in Jackson Hole, Wyoming.
+    original_excerpt: Linda Howe was there, John Mack was there, Bruce McAbee, a number of other folks were there that are
+      well known.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 0d4dfba6-a53b-4f23-a2ad-e4c9bea44076
+      title: Robert Bigelow
+    provenance_chain:
+      origin_kind: speaker
+      origin: Robert Bigelow
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 0c0f7266-312d-4b09-99a4-0126cc96308d
+        title: Bruce Maccabee
+        slug: bruce-maccabee
+      - node_id: 2116e8f0-ae1b-465d-a6d0-7b73f13db95a
+        title: Linda Moulton Howe
+        slug: linda-moulton-howe
+      - node_id: 39931bd6-9341-4fc5-a3fe-e7e81229eb3e
+        title: Rockefeller Ranch Unidentified Flying Object (UFO) disclosure meeting
+        slug: rockefeller-ranch-unidentified-flying-object-ufo-disclosure-meeting
+      - node_id: d0a6ce69-4f5f-456b-a83c-b68a680224be
+        title: John Mack
+        slug: john-mack
+    date: null
+    date_end: null
+    location_in_record: 00:03:51.8-00:03:58.0
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 5de4e296-4206-45f6-aa56-c3b8efb5c9e2
+      record_title: The Evolution of AAWSAP | Bigelow Podcast, Ep. 2
+      record_date: '2026-08-11'
+      record_reference: https://www.youtube.com/watch?v=hz7jHEgYzQw
+      content_hash: sha256:1aa9d864c5a4bb930164c278d9624c6bc0f84278ea4b5e57594fae9e21e90858
+      friendly_name: null

@@ -1,0 +1,245 @@
+schema: anomalica/brief/1
+brief_hash: 07d2d3a61cf30161a29c1ee3f57a248311aa8a7ae0306b55c324b6677450c378
+page:
+  kind: entity
+  node_id: 94acebad-d864-4d15-b54c-52197eb9c4ad
+  node_type: organisation
+  title: Majestic 12
+  slug: majestic-12
+  claim_count: 5
+  claim_count_total: 5
+generated:
+  graph_version: '2026-09-01T10:10:49.863545+00:00'
+size:
+  claims: 5
+  tokens_estimated: 1392
+  sized_against: 1050000
+publication:
+  status: published
+  note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
+    transcripts are gated elsewhere.
+belonging:
+  verified: 0
+  suspect_excluded: 0
+  unreviewed: 5
+related_nodes:
+  - node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+    title: Whitley Strieber
+    node_type: person
+    slug: whitley-strieber
+    shared_claims: 2
+  - node_id: 47723159-4fe3-4a12-a7db-62b47dc97ff8
+    title: Arthur Exon
+    node_type: person
+    slug: arthur-exon
+    shared_claims: 1
+  - node_id: 69c22f39-d135-466f-b485-dd98f595baf3
+    title: Detlev Bronk
+    node_type: person
+    slug: detlev-bronk
+    shared_claims: 1
+  - node_id: 26448fd2-26bf-4101-b653-420bf22433d8
+    title: John von Neumann
+    node_type: person
+    slug: john-von-neumann
+    shared_claims: 1
+  - node_id: 0606a83a-eb1e-439f-a945-e8daef0d69c9
+    title: Roscoe Hillenkoetter
+    node_type: person
+    slug: roscoe-hillenkoetter
+    shared_claims: 1
+  - node_id: dd4a97ab-5ffd-41ec-8813-81a2c56f0ea1
+    title: Stanton Friedman
+    node_type: person
+    slug: stanton-friedman
+    shared_claims: 1
+claims:
+  - claim_id: 8dff0873-dd4b-4cf2-a6ea-412e3133aa3d
+    claim_hash: d2b0a8732c352fd762b43816ac69dc27bc54d9514847ac8019ab94f4bed1291a
+    content: Roscoe Hillenkoetter was part of Majestic 12.
+    original_excerpt: And part of Majestic 12. / Part of Majestic 12
+    claim_type: administrative
+    attestation: null
+    speaker:
+      node_id: 24d00311-06ac-46a1-a2f5-c99f3f8e21b2
+      title: Chris Ramsay
+    provenance_chain:
+      origin_kind: unattributed
+      origin: general knowledge asserted in the interview
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 0606a83a-eb1e-439f-a945-e8daef0d69c9
+        title: Roscoe Hillenkoetter
+        slug: roscoe-hillenkoetter
+      - node_id: 94acebad-d864-4d15-b54c-52197eb9c4ad
+        title: Majestic 12
+        slug: majestic-12
+    date: null
+    date_end: null
+    location_in_record: 00:46:25.4-00:46:27.8
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: fd845823-8784-462c-a981-4775525b6f84
+      record_title: The DANGEROUS Truth About UFOs - Ross Coulthart | DEBRIEFED ep. 76
+      record_date: '2026-02-20'
+      record_reference: https://www.youtube.com/watch?v=idBryc0eWww
+      content_hash: sha256:73be106d406f6d35a063a894e8384e7da0918eb8597d2107a9e3653becca2bdc
+      friendly_name: null
+  - claim_id: 3974dd98-1180-4b65-84a5-d3d06abf81f4
+    claim_hash: 806b0cad9b6cb9455fd6ec342a45ceb74b14a65d0a36139cb7bf8445c7e012af
+    content: Detlev Bronk was rumoured to have been a member of Majestic 12 and to have conducted the early alien autopsies.
+    original_excerpt: He was rumored to be on the Majestic 12, rumored to do all the early alien autopsies.
+    claim_type: hearsay
+    attestation: null
+    speaker:
+      node_id: 079d4381-4273-418b-bc9a-468623f95c6e
+      title: Jesse Mitchells
+    provenance_chain:
+      origin_kind: unattributed
+      origin: rumour relayed by Jesse Michels
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 69c22f39-d135-466f-b485-dd98f595baf3
+        title: Detlev Bronk
+        slug: detlev-bronk
+      - node_id: 94acebad-d864-4d15-b54c-52197eb9c4ad
+        title: Majestic 12
+        slug: majestic-12
+    date: null
+    date_end: null
+    location_in_record: 01:29:47.6-01:29:51.4
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 64b84f95-238c-4ab7-a678-bee55f985b14
+      record_title: The UFO Cover-Up Leads to One Secret Society — and One Final Event
+      record_date: '2026-07-14'
+      record_reference: https://www.youtube.com/watch?v=kccrkCGGzX4
+      content_hash: sha256:d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7b5a1b98d
+      friendly_name: null
+  - claim_id: 74b164fc-c62b-473a-bfe2-b6df9235ea93
+    claim_hash: cb2ba4a53c5024055fd944055d96b12accf5e26eb3dd6d3b794d369d50ce385d
+    content: Stanton T. Friedman gave the name Majestic 12 to a committee, and the name may have originated with him.
+    original_excerpt: There was a committee that Stanton Friedman called the Majestic 12, and that may have even been his
+      name. I don't know.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+      title: Whitley Strieber
+    provenance_chain:
+      origin_kind: speaker
+      origin: Whitley Strieber
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 94acebad-d864-4d15-b54c-52197eb9c4ad
+        title: Majestic 12
+        slug: majestic-12
+      - node_id: dd4a97ab-5ffd-41ec-8813-81a2c56f0ea1
+        title: Stanton Friedman
+        slug: stanton-friedman
+    date: null
+    date_end: null
+    location_in_record: 00:50:56.5-00:51:02.6
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 7e583a7d-790d-4cfe-bbee-95c3d542e67a
+      record_title: Whitley Strieber Reveals What 40 Years of Encounters Taught Him | Reality Check Rewind
+      record_date: '2026-08-14'
+      record_reference: https://www.youtube.com/watch?v=H7sJFNdgCI4
+      content_hash: sha256:17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c451793c5a628
+      friendly_name: null
+  - claim_id: 055a01cc-f4ba-47b1-ad2e-900a285cbfb2
+    claim_hash: d052bc0fe9c34b4763b8a239264cef366b0e09918d153cc8f895cd1d48c3c6f2
+    content: Whitley Strieber believes the Majestic 12 committee almost certainly included a number of important scientists,
+      one of whom would have been John von Neumann.
+    original_excerpt: On that committee, almost certainly were a number of important scientists, one of whom would have been
+      a man named John von Neumann
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+      title: Whitley Strieber
+    provenance_chain:
+      origin_kind: speaker
+      origin: Whitley Strieber
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 26448fd2-26bf-4101-b653-420bf22433d8
+        title: John von Neumann
+        slug: john-von-neumann
+      - node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+        title: Whitley Strieber
+        slug: whitley-strieber
+      - node_id: 94acebad-d864-4d15-b54c-52197eb9c4ad
+        title: Majestic 12
+        slug: majestic-12
+    date: null
+    date_end: null
+    location_in_record: 00:51:03.8-00:51:12.0
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 7e583a7d-790d-4cfe-bbee-95c3d542e67a
+      record_title: Whitley Strieber Reveals What 40 Years of Encounters Taught Him | Reality Check Rewind
+      record_date: '2026-08-14'
+      record_reference: https://www.youtube.com/watch?v=H7sJFNdgCI4
+      content_hash: sha256:17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c451793c5a628
+      friendly_name: null
+  - claim_id: 5df68cfd-51f7-4fd0-b642-beb3bd7c02a3
+    claim_hash: a958ce66622f5310842bd83af3178a11eccfa3fd720d8b018717bac115bfb292
+    content: From what Arthur Ernest Exon said to him, Whitley Strieber gained the impression - which he allows may be wrong
+      - that someone on the Majestic 12 committee felt that the more people knew about the phenomenon, the more able the presence
+      would be to come into our physical reality.
+    original_excerpt: Art Exon said to me, I gained the impression, and I may be wrong about this, that someone on that committee
+      felt that there would come a, the more people knew about this, the more able this presence would be able to come into
+      our physical reality.
+    claim_type: hearsay
+    attestation: second_hand
+    speaker:
+      node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+      title: Whitley Strieber
+    provenance_chain:
+      origin_kind: named
+      origin: Arthur Ernest Exon
+      relay:
+        - Whitley Strieber
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+        title: Whitley Strieber
+        slug: whitley-strieber
+      - node_id: 47723159-4fe3-4a12-a7db-62b47dc97ff8
+        title: Arthur Exon
+        slug: arthur-exon
+      - node_id: 94acebad-d864-4d15-b54c-52197eb9c4ad
+        title: Majestic 12
+        slug: majestic-12
+    date: null
+    date_end: null
+    location_in_record: 00:51:39.6-00:52:00.4
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 7e583a7d-790d-4cfe-bbee-95c3d542e67a
+      record_title: Whitley Strieber Reveals What 40 Years of Encounters Taught Him | Reality Check Rewind
+      record_date: '2026-08-14'
+      record_reference: https://www.youtube.com/watch?v=H7sJFNdgCI4
+      content_hash: sha256:17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c451793c5a628
+      friendly_name: null

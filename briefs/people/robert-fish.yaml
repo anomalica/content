@@ -1,0 +1,1281 @@
+schema: anomalica/brief/1
+brief_hash: 48649d0f0c0e9d55a6863bb98a7a53d39d7daa34cf73841dcebc805cd61c0d43
+page:
+  kind: entity
+  node_id: 64178dcc-fc36-4429-b40e-cdee9ff51db7
+  node_type: person
+  title: Robert Fish
+  slug: robert-fish
+  claim_count: 31
+  claim_count_total: 31
+generated:
+  graph_version: '2026-09-01T10:10:49.863545+00:00'
+size:
+  claims: 31
+  tokens_estimated: 9874
+  sized_against: 1050000
+publication:
+  status: published
+  note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
+    transcripts are gated elsewhere.
+belonging:
+  verified: 0
+  suspect_excluded: 0
+  unreviewed: 31
+related_nodes:
+  - node_id: 176b82fd-52fb-4c89-944c-e03e424fd545
+    title: John Podesta
+    node_type: person
+    slug: john-podesta
+    shared_claims: 13
+  - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
+    title: Unidentified Flying Object (UFO)
+    node_type: topic
+    slug: unidentified-flying-object-ufo
+    shared_claims: 4
+  - node_id: 7f7dbb2c-f1a7-4781-a20e-8f3a1a771d6b
+    title: SR-71 Blackbird
+    node_type: object
+    slug: sr-71-blackbird
+    shared_claims: 3
+  - node_id: 6c31895a-7f5c-432f-b569-1f31f25a0ca3
+    title: Defense Support Program (DSP)
+    node_type: project
+    slug: defense-support-program-dsp
+    shared_claims: 2
+  - node_id: c4098a01-d401-471e-91fe-9a746d3ad69b
+    title: Soviet Union
+    node_type: organisation
+    slug: soviet-union
+    shared_claims: 2
+  - node_id: c5e8dda4-0d49-4dd9-bb2e-f2860a386f8e
+    title: USS Hornet Museum
+    node_type: organisation
+    slug: uss-hornet-museum
+    shared_claims: 2
+  - node_id: d5d955f6-d1f1-4808-818c-7e2e1a8ff132
+    title: 1990-1991 Gulf War
+    node_type: event
+    slug: 1990-1991-gulf-war
+    shared_claims: 1
+  - node_id: f7087ed6-e062-433a-90d6-71822d0fee8f
+    title: Bermuda
+    node_type: place
+    slug: bermuda
+    shared_claims: 1
+  - node_id: 95f26306-d457-4b86-8b8e-c83e0906740c
+    title: China
+    node_type: place
+    slug: china
+    shared_claims: 1
+  - node_id: 37ce5ca9-55f8-466e-86f6-4e80d24247dc
+    title: Cuba
+    node_type: place
+    slug: cuba
+    shared_claims: 1
+  - node_id: 6aa15de8-e459-4884-b715-28e5a4db8080
+    title: MacDill Air Force Base
+    node_type: place
+    slug: macdill-air-force-base
+    shared_claims: 1
+  - node_id: 0f55f132-bf9e-4f4a-adbe-535c17f1702e
+    title: RC-135 reconnaissance aircraft
+    node_type: object
+    slug: rc-135-reconnaissance-aircraft
+    shared_claims: 1
+  - node_id: 1c74a06c-1b3f-43b4-b54c-3f6b44fd8192
+    title: Ronald Reagan
+    node_type: person
+    slug: ronald-reagan
+    shared_claims: 1
+  - node_id: 21267d63-3256-4999-bd44-2fc8cc1869e8
+    title: USA, California, Danville
+    node_type: place
+    slug: california-danville-usa
+    shared_claims: 1
+  - node_id: bfd491e5-8e60-456c-bb6c-da2fb39d96f0
+    title: USA, California, Edwards Air Force Base
+    node_type: place
+    slug: california-edwards-air-force-base-usa
+    shared_claims: 1
+  - node_id: 9da33243-6854-43d4-b60d-fbeeb284787e
+    title: USA, District of Columbia, Washington
+    node_type: place
+    slug: district-of-columbia-washington-usa
+    shared_claims: 1
+  - node_id: 374cbd07-aff3-44c7-bccb-83fbb4de8601
+    title: USA, Florida, Miami
+    node_type: place
+    slug: florida-miami-usa
+    shared_claims: 1
+claims:
+  - claim_id: c3045f16-cf23-4514-b391-2fb607730b62
+    claim_hash: da39bf5688f7757693fa8d518cf856c2a5ea8460c1bff0e3fb32eb1971d0cd7b
+    content: Bob Fish stated that within the United States of America, hard scientific data relevant to Unidentified Flying
+      Objects (UFOs) has existed for many years and remains available today, if one knows where to look and what to look for.
+    original_excerpt: Within the US, this information has existed for many years and is still available today, if one knows
+      “where to look” and “what to look for.”
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 64178dcc-fc36-4429-b40e-cdee9ff51db7
+      title: Robert Fish
+    provenance_chain:
+      origin_kind: speaker
+      origin: Bob Fish
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 64178dcc-fc36-4429-b40e-cdee9ff51db7
+        title: Robert Fish
+        slug: robert-fish
+      - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
+        title: Unidentified Flying Object (UFO)
+        slug: unidentified-flying-object-ufo
+    date: '2015-03-05'
+    date_end: null
+    location_in_record: char:1030-1167
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3150de3a-84e9-4968-a961-43df1cf80222
+      record_title: 'Re: Leslie Kean book comment'
+      record_date: '2015-03-05'
+      record_reference: https://wikileaks.org/podesta-emails/emailid/18724
+      content_hash: sha256:b0efee0dd10f7ec50a5155952d1fbaa0c7c924e913d49d032c59f46ba03c85f5
+      friendly_name: 2015-03-05-web-re-leslie-kean-book-comment
+  - claim_id: 2fadd33a-3aa9-4c79-b1e7-505e1fcfbb7e
+    claim_hash: 59d2b13f4f4762a0acee79bee3d29514e8a1cc1204710b1ee443045afffa9e9b
+    content: Bob Fish considers radar data and thermal imaging data a good start for studying Unidentified Flying Objects
+      (UFOs), especially if one knows the flight envelope and manoeuvring characteristics of a UFO.
+    original_excerpt: Radar data and thermal imaging data is a good start, especially if one knows the flight envelope and
+      maneuvering characteristics of a UFO.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 64178dcc-fc36-4429-b40e-cdee9ff51db7
+      title: Robert Fish
+    provenance_chain:
+      origin_kind: speaker
+      origin: Bob Fish
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 64178dcc-fc36-4429-b40e-cdee9ff51db7
+        title: Robert Fish
+        slug: robert-fish
+      - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
+        title: Unidentified Flying Object (UFO)
+        slug: unidentified-flying-object-ufo
+    date: '2015-03-05'
+    date_end: null
+    location_in_record: char:1176-1310
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3150de3a-84e9-4968-a961-43df1cf80222
+      record_title: 'Re: Leslie Kean book comment'
+      record_date: '2015-03-05'
+      record_reference: https://wikileaks.org/podesta-emails/emailid/18724
+      content_hash: sha256:b0efee0dd10f7ec50a5155952d1fbaa0c7c924e913d49d032c59f46ba03c85f5
+      friendly_name: 2015-03-05-web-re-leslie-kean-book-comment
+  - claim_id: 60b6a207-91ec-4ef8-b4b7-4f228dc2e5ec
+    claim_hash: e028f3d801f6bf706d602c341de42958973f3d4c250b7ba2d8672f03916fb784
+    content: On 2015-03-05, John Podesta replied to Bob Fish that he was hard for him to follow up at that moment but he would
+      keep Bob Fish's contact information.
+    original_excerpt: Thx for the note. Hard for me follow up at this moment but I will keep your contact information.
+    claim_type: administrative
+    attestation: first_hand
+    speaker:
+      node_id: 176b82fd-52fb-4c89-944c-e03e424fd545
+      title: John Podesta
+    provenance_chain:
+      origin_kind: speaker
+      origin: John Podesta
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 176b82fd-52fb-4c89-944c-e03e424fd545
+        title: John Podesta
+        slug: john-podesta
+      - node_id: 64178dcc-fc36-4429-b40e-cdee9ff51db7
+        title: Robert Fish
+        slug: robert-fish
+    date: '2015-03-05'
+    date_end: null
+    location_in_record: char:121-205
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3150de3a-84e9-4968-a961-43df1cf80222
+      record_title: 'Re: Leslie Kean book comment'
+      record_date: '2015-03-05'
+      record_reference: https://wikileaks.org/podesta-emails/emailid/18724
+      content_hash: sha256:b0efee0dd10f7ec50a5155952d1fbaa0c7c924e913d49d032c59f46ba03c85f5
+      friendly_name: 2015-03-05-web-re-leslie-kean-book-comment
+  - claim_id: 519b41cc-4aca-451e-8355-1b88f9089a36
+    claim_hash: 591cd46162df78e3ed5d61050703664aec7bff6c99bbb240746c689b1ca2c658
+    content: Bob Fish offered to arrange a phone call or meeting with John Podesta to share specific programme names, if John
+      Podesta became interested in gaining more specific information.
+    original_excerpt: If/when you might be interested in gaining more specific information (program names) please feel free
+      to contact me by email to arrange a phone call or meeting
+    claim_type: administrative
+    attestation: first_hand
+    speaker:
+      node_id: 64178dcc-fc36-4429-b40e-cdee9ff51db7
+      title: Robert Fish
+    provenance_chain:
+      origin_kind: speaker
+      origin: Bob Fish
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 176b82fd-52fb-4c89-944c-e03e424fd545
+        title: John Podesta
+        slug: john-podesta
+      - node_id: 64178dcc-fc36-4429-b40e-cdee9ff51db7
+        title: Robert Fish
+        slug: robert-fish
+    date: '2015-03-05'
+    date_end: null
+    location_in_record: char:1318-1471
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3150de3a-84e9-4968-a961-43df1cf80222
+      record_title: 'Re: Leslie Kean book comment'
+      record_date: '2015-03-05'
+      record_reference: https://wikileaks.org/podesta-emails/emailid/18724
+      content_hash: sha256:b0efee0dd10f7ec50a5155952d1fbaa0c7c924e913d49d032c59f46ba03c85f5
+      friendly_name: 2015-03-05-web-re-leslie-kean-book-comment
+  - claim_id: c25c0d7e-52f3-4401-ae81-b42defd12680
+    claim_hash: 5c02526f39c5908f1296fc060e1692e15c7cae86b3994c06aa5367d6e20672b1
+    content: Bob Fish lives in northern California but occasionally travels to Washington, D.C. for business activities.
+    original_excerpt: I live in northern Cal but occasionally travel to DC for business activities
+    claim_type: administrative
+    attestation: first_hand
+    speaker:
+      node_id: 64178dcc-fc36-4429-b40e-cdee9ff51db7
+      title: Robert Fish
+    provenance_chain:
+      origin_kind: speaker
+      origin: Bob Fish
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 64178dcc-fc36-4429-b40e-cdee9ff51db7
+        title: Robert Fish
+        slug: robert-fish
+      - node_id: 9da33243-6854-43d4-b60d-fbeeb284787e
+        title: USA, District of Columbia, Washington
+        slug: district-of-columbia-washington-usa
+    date: '2015-03-05'
+    date_end: null
+    location_in_record: char:1480-1546
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3150de3a-84e9-4968-a961-43df1cf80222
+      record_title: 'Re: Leslie Kean book comment'
+      record_date: '2015-03-05'
+      record_reference: https://wikileaks.org/podesta-emails/emailid/18724
+      content_hash: sha256:b0efee0dd10f7ec50a5155952d1fbaa0c7c924e913d49d032c59f46ba03c85f5
+      friendly_name: 2015-03-05-web-re-leslie-kean-book-comment
+  - claim_id: 8eeab25a-73e8-4103-b8d6-afe5a9c7ec2d
+    claim_hash: df3270e027d1c6359473874fbf214b64839ff24cb1e6941e94d323a8de8c6b5e
+    content: Bob Fish is publicly known for his work with the USS Hornet Museum.
+    original_excerpt: While I am publicly known by my work with the USS Hornet Museum
+    claim_type: administrative
+    attestation: first_hand
+    speaker:
+      node_id: 64178dcc-fc36-4429-b40e-cdee9ff51db7
+      title: Robert Fish
+    provenance_chain:
+      origin_kind: speaker
+      origin: Bob Fish
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 64178dcc-fc36-4429-b40e-cdee9ff51db7
+        title: Robert Fish
+        slug: robert-fish
+      - node_id: c5e8dda4-0d49-4dd9-bb2e-f2860a386f8e
+        title: USS Hornet Museum
+        slug: uss-hornet-museum
+    date: '2015-03-05'
+    date_end: null
+    location_in_record: char:1562-1619
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3150de3a-84e9-4968-a961-43df1cf80222
+      record_title: 'Re: Leslie Kean book comment'
+      record_date: '2015-03-05'
+      record_reference: https://wikileaks.org/podesta-emails/emailid/18724
+      content_hash: sha256:b0efee0dd10f7ec50a5155952d1fbaa0c7c924e913d49d032c59f46ba03c85f5
+      friendly_name: 2015-03-05-web-re-leslie-kean-book-comment
+  - claim_id: a98c932b-4885-46c0-8666-5cc6cc982700
+    claim_hash: c8e3f89099a883a9e7e2723057e9eb0366680cdaed9bbb12439add1333483928
+    content: Bob Fish stated that his communication with John Podesta was entirely private and confidential and had nothing
+      to do with the USS Hornet Museum.
+    original_excerpt: this communication with you is entirely PRIVATE and CONFIDENTIAL and has nothing to do with the museum
+    claim_type: administrative
+    attestation: first_hand
+    speaker:
+      node_id: 64178dcc-fc36-4429-b40e-cdee9ff51db7
+      title: Robert Fish
+    provenance_chain:
+      origin_kind: speaker
+      origin: Bob Fish
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 176b82fd-52fb-4c89-944c-e03e424fd545
+        title: John Podesta
+        slug: john-podesta
+      - node_id: 64178dcc-fc36-4429-b40e-cdee9ff51db7
+        title: Robert Fish
+        slug: robert-fish
+      - node_id: c5e8dda4-0d49-4dd9-bb2e-f2860a386f8e
+        title: USS Hornet Museum
+        slug: uss-hornet-museum
+    date: '2015-03-05'
+    date_end: null
+    location_in_record: char:1627-1723
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3150de3a-84e9-4968-a961-43df1cf80222
+      record_title: 'Re: Leslie Kean book comment'
+      record_date: '2015-03-05'
+      record_reference: https://wikileaks.org/podesta-emails/emailid/18724
+      content_hash: sha256:b0efee0dd10f7ec50a5155952d1fbaa0c7c924e913d49d032c59f46ba03c85f5
+      friendly_name: 2015-03-05-web-re-leslie-kean-book-comment
+  - claim_id: b963d994-2d66-4d9a-a44b-7cc7b393660e
+    claim_hash: 0b37ee7b42650fb61a1ff5222ef729b1f268c2a4dafef41cce20a503df9e5fd3
+    content: Bob Fish signed his 2015-03-05 email to John Podesta from Danville, California.
+    original_excerpt: "Regards,\n\nBob Fish\n\nDanville, CA"
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 21267d63-3256-4999-bd44-2fc8cc1869e8
+        title: USA, California, Danville
+        slug: california-danville-usa
+      - node_id: 64178dcc-fc36-4429-b40e-cdee9ff51db7
+        title: Robert Fish
+        slug: robert-fish
+    date: '2015-03-05'
+    date_end: null
+    location_in_record: char:1734-1766
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3150de3a-84e9-4968-a961-43df1cf80222
+      record_title: 'Re: Leslie Kean book comment'
+      record_date: '2015-03-05'
+      record_reference: https://wikileaks.org/podesta-emails/emailid/18724
+      content_hash: sha256:b0efee0dd10f7ec50a5155952d1fbaa0c7c924e913d49d032c59f46ba03c85f5
+      friendly_name: 2015-03-05-web-re-leslie-kean-book-comment
+  - claim_id: b5529a98-3edb-4fe6-9881-c4dd533b9b91
+    claim_hash: d7892f68f19cc14a862b0a4d853d7f30b106f42369d40aafe46483fd825430e7
+    content: Bob Fish considers, based on significant personal experience, that Unidentified Flying Object (UFO) hunters are
+      looking in the wrong places.
+    original_excerpt: Based on significant personal experience, I can attest that UFO hunters are looking in the wrong places.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 64178dcc-fc36-4429-b40e-cdee9ff51db7
+      title: Robert Fish
+    provenance_chain:
+      origin_kind: speaker
+      origin: Bob Fish
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 64178dcc-fc36-4429-b40e-cdee9ff51db7
+        title: Robert Fish
+        slug: robert-fish
+      - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
+        title: Unidentified Flying Object (UFO)
+        slug: unidentified-flying-object-ufo
+    date: '2015-03-05'
+    date_end: null
+    location_in_record: char:542-639
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3150de3a-84e9-4968-a961-43df1cf80222
+      record_title: 'Re: Leslie Kean book comment'
+      record_date: '2015-03-05'
+      record_reference: https://wikileaks.org/podesta-emails/emailid/18724
+      content_hash: sha256:b0efee0dd10f7ec50a5155952d1fbaa0c7c924e913d49d032c59f46ba03c85f5
+      friendly_name: 2015-03-05-web-re-leslie-kean-book-comment
+  - claim_id: 31bc1095-bfb1-49d9-a8b3-1cac8856965a
+    claim_hash: d15ceb79c72a7181bfe628a1fe8a5f9e642dba5faaa154c90973a97461467633
+    content: Bob Fish considers that random personal observations, fuzzy photographers, and crop circles will never prove
+      the existence of anything, since Unidentified Flying Object (UFO) appearances to humans are transitory and somewhat
+      related to the observer's state of mind.
+    original_excerpt: Random personal observations, fuzzy photographers, and crop circles will never “prove” the existence
+      of anything, especially since UFO appearances to humans are transitory and somewhat related to the observer’s state
+      of mind.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 64178dcc-fc36-4429-b40e-cdee9ff51db7
+      title: Robert Fish
+    provenance_chain:
+      origin_kind: speaker
+      origin: Bob Fish
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 64178dcc-fc36-4429-b40e-cdee9ff51db7
+        title: Robert Fish
+        slug: robert-fish
+      - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
+        title: Unidentified Flying Object (UFO)
+        slug: unidentified-flying-object-ufo
+    date: '2015-03-05'
+    date_end: null
+    location_in_record: char:650-870
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3150de3a-84e9-4968-a961-43df1cf80222
+      record_title: 'Re: Leslie Kean book comment'
+      record_date: '2015-03-05'
+      record_reference: https://wikileaks.org/podesta-emails/emailid/18724
+      content_hash: sha256:b0efee0dd10f7ec50a5155952d1fbaa0c7c924e913d49d032c59f46ba03c85f5
+      friendly_name: 2015-03-05-web-re-leslie-kean-book-comment
+  - claim_id: 2f5b4666-c3b8-431f-8742-8a1b4eaf4e1e
+    claim_hash: 9980c82614c90ecac3ef3d10aef262d03bb5299fb71a0e164ce4384cf19cfd45
+    content: Bob Fish considers that what needs to be collected and publicly disseminated is hard scientific data collected
+      from instruments known to be accurate and reliable.
+    original_excerpt: What needs to be collected and publicly disseminated is hard scientific data collected from instruments
+      that are known to be accurate and reliable.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 64178dcc-fc36-4429-b40e-cdee9ff51db7
+      title: Robert Fish
+    provenance_chain:
+      origin_kind: speaker
+      origin: Bob Fish
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 64178dcc-fc36-4429-b40e-cdee9ff51db7
+        title: Robert Fish
+        slug: robert-fish
+    date: '2015-03-05'
+    date_end: null
+    location_in_record: char:879-1017
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3150de3a-84e9-4968-a961-43df1cf80222
+      record_title: 'Re: Leslie Kean book comment'
+      record_date: '2015-03-05'
+      record_reference: https://wikileaks.org/podesta-emails/emailid/18724
+      content_hash: sha256:b0efee0dd10f7ec50a5155952d1fbaa0c7c924e913d49d032c59f46ba03c85f5
+      friendly_name: 2015-03-05-web-re-leslie-kean-book-comment
+  - claim_id: bf183d17-c213-4e7c-bcb7-ba289fda07a7
+    claim_hash: 1f540e5e6ca57718b301e51f4361048824c288f64b06143eb6152c8181d96a8a
+    content: The leaked emails showed John Podesta was emailed about UFOs by an associate named Robert 'Bob' Fish, who revealed
+      that 'Fast Walkers' were routinely detected entering Earth's atmosphere from outer space by Defense Support Program
+      satellites.
+    original_excerpt: They showed Podesta was emailed about 'UFOs' by an associate named Robert Fish revealing that Fast Walkers
+      were routinely detected entering Earth's atmosphere from outer space by the DSP satellites.
+    claim_type: hearsay
+    attestation: third_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: named
+      origin: Robert 'Bob' Fish
+      relay:
+        - email to John Podesta
+        - 2015 WikiLeaks release
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 176b82fd-52fb-4c89-944c-e03e424fd545
+        title: John Podesta
+        slug: john-podesta
+      - node_id: 64178dcc-fc36-4429-b40e-cdee9ff51db7
+        title: Robert Fish
+        slug: robert-fish
+      - node_id: 6c31895a-7f5c-432f-b569-1f31f25a0ca3
+        title: Defense Support Program (DSP)
+        slug: defense-support-program-dsp
+    date: null
+    date_end: null
+    location_in_record: ch13:27336-27523
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: d3c66516-8e1d-4dfa-a0be-83281086b8d5
+    claim_hash: 5f0621da729683021abd5f707f189819cd66be31b9290aca01873e0d2f3d95c7
+    content: Robert 'Bob' Fish told John Podesta confidentially about an object he was briefed on by a US-based Defense Support
+      Program operator at a high-security US private corporate aerospace facility in California.
+    original_excerpt: Fish told Podesta confidentially about the object he was briefed on by a US-based DSP operator at a
+      high-security US private corporate aerospace facility in California.
+    claim_type: hearsay
+    attestation: third_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: anonymous
+      origin: a person claiming to be a Defense Support Program operator at a private corporate aerospace facility in California
+      relay:
+        - Robert 'Bob' Fish
+        - email to John Podesta
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 176b82fd-52fb-4c89-944c-e03e424fd545
+        title: John Podesta
+        slug: john-podesta
+      - node_id: 64178dcc-fc36-4429-b40e-cdee9ff51db7
+        title: Robert Fish
+        slug: robert-fish
+      - node_id: 6c31895a-7f5c-432f-b569-1f31f25a0ca3
+        title: Defense Support Program (DSP)
+        slug: defense-support-program-dsp
+    date: null
+    date_end: null
+    location_in_record: ch13:27535-27719
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 3cdcad52-1f3d-4190-a46f-25b8c2e9c138
+    claim_hash: 3d7d4ac556d996ef9549edb0c417234524ff2c9473ecb7a061b6ca22816f7c16
+    content: The UAP Robert 'Bob' Fish described to John Podesta was recorded passing a satellite during the run-up to the
+      Iraq War in 1991.
+    original_excerpt: The UAP was recorded passing a satellite during the run-up to the Iraq War in 1991.
+    claim_type: hearsay
+    attestation: third_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: anonymous
+      origin: a person claiming to be a Defense Support Program operator at a private corporate aerospace facility in California
+      relay:
+        - Robert 'Bob' Fish
+        - email to John Podesta
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 176b82fd-52fb-4c89-944c-e03e424fd545
+        title: John Podesta
+        slug: john-podesta
+      - node_id: 64178dcc-fc36-4429-b40e-cdee9ff51db7
+        title: Robert Fish
+        slug: robert-fish
+      - node_id: d5d955f6-d1f1-4808-818c-7e2e1a8ff132
+        title: 1990-1991 Gulf War
+        slug: 1990-1991-gulf-war
+    date: '1991'
+    date_end: null
+    location_in_record: ch13:27731-27809
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 75a61b45-f17f-4b19-b981-e83ce6b8ae22
+    claim_hash: 5c5c41c8ba1435d4f05368909a5ecb20cf14b0ff26263f7be320bc52e3f0d298
+    content: Robert 'Bob' Fish told John Podesta that the tracked object was under some sort of control, though whether it
+      was 'manned' or 'robotic' could not be told, and suggested Podesta ask for the data.
+    original_excerpt: '''So, it was under some sort of control – although whether it was "manned" or just "robotic" there''s
+      no way to tell,'' Bob Fish told Podesta, suggesting he ask for the data.'
+    claim_type: hearsay
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: named
+      origin: Robert 'Bob' Fish
+      relay:
+        - email to John Podesta
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 176b82fd-52fb-4c89-944c-e03e424fd545
+        title: John Podesta
+        slug: john-podesta
+      - node_id: 64178dcc-fc36-4429-b40e-cdee9ff51db7
+        title: Robert Fish
+        slug: robert-fish
+    date: null
+    date_end: null
+    location_in_record: ch13:27816-27983
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 73873dca-379c-4d42-903b-a932676dfa14
+    claim_hash: 4beedee691816246b0cc3f79f9488d6cda20c2405593864f09fd9cd988d3185c
+    content: Robert 'Bob' Fish told John Podesta that information on the tracked object has existed for many years and is
+      still available today, if one knows where and what to look for.
+    original_excerpt: He said information 'has existed for many years and is still available today, if one knows "where to
+      look" and "what to look for"'.
+    claim_type: hearsay
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: named
+      origin: Robert 'Bob' Fish
+      relay:
+        - email to John Podesta
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 176b82fd-52fb-4c89-944c-e03e424fd545
+        title: John Podesta
+        slug: john-podesta
+      - node_id: 64178dcc-fc36-4429-b40e-cdee9ff51db7
+        title: Robert Fish
+        slug: robert-fish
+    date: null
+    date_end: null
+    location_in_record: ch13:27989-28114
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: d3e3ac24-6eda-4f87-a933-756f65362bce
+    claim_hash: d1d0531ad47c6bdda42f1faf9ffbdf9d244b24ed1789a1774d6544c6b9ea4cee
+    content: Robert 'Bob' Fish considers that 'UFO hunters' are looking in the wrong places, since random personal observations,
+      fuzzy photographs, and crop circles will never prove the existence of anything, and that what needs to be collected
+      and publicly disseminated is hard scientific data from instruments known to be accurate and reliable.
+    original_excerpt: He also told Podesta 'UFO hunters' were looking in the wrong places. 'Random personal observations,
+      fuzzy photographers, and crop circles will never "prove" the existence of anything, especially since UFO appearances
+      to humans are transitory and somewhat related to the observer's state of mind. What needs to be collected and publicly
+      disseminated is hard scientific data collected from instruments that are known to be accurate and reliable,' Bob Fish
+      wrote.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 64178dcc-fc36-4429-b40e-cdee9ff51db7
+      title: Robert Fish
+    provenance_chain:
+      origin_kind: speaker
+      origin: Robert 'Bob' Fish
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 176b82fd-52fb-4c89-944c-e03e424fd545
+        title: John Podesta
+        slug: john-podesta
+      - node_id: 64178dcc-fc36-4429-b40e-cdee9ff51db7
+        title: Robert Fish
+        slug: robert-fish
+    date: null
+    date_end: null
+    location_in_record: ch13:28121-28577
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: a435b2f6-7f4b-4095-8056-c427837c9419
+    claim_hash: 3b8075bcef7a565f5f2fc681f96c3f5276f05e3720a07edb24b8e52b37f11314
+    content: Robert 'Bob' Fish told John Podesta about a US Air Force noncommissioned officer he knew at the same classified
+      facility who flew on RC-135 reconnaissance aircraft from MacDill Air Force Base in Florida to monitor Cuba.
+    original_excerpt: in another email, Fish told him about a US Air Force noncommissioned officer he knew at the same classified
+      facility who flew on RC-135 reconnaissance aircraft from MacDill Air Force Base in Florida to monitor Cuba.
+    claim_type: hearsay
+    attestation: third_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: anonymous
+      origin: a person claiming to be a US Air Force noncommissioned officer who flew RC-135 reconnaissance missions from
+        MacDill Air Force Base
+      relay:
+        - Robert 'Bob' Fish
+        - email to John Podesta
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 0f55f132-bf9e-4f4a-adbe-535c17f1702e
+        title: RC-135 reconnaissance aircraft
+        slug: rc-135-reconnaissance-aircraft
+      - node_id: 176b82fd-52fb-4c89-944c-e03e424fd545
+        title: John Podesta
+        slug: john-podesta
+      - node_id: 37ce5ca9-55f8-466e-86f6-4e80d24247dc
+        title: Cuba
+        slug: cuba
+      - node_id: 64178dcc-fc36-4429-b40e-cdee9ff51db7
+        title: Robert Fish
+        slug: robert-fish
+      - node_id: 6aa15de8-e459-4884-b715-28e5a4db8080
+        title: MacDill Air Force Base
+        slug: macdill-air-force-base
+    date: null
+    date_end: null
+    location_in_record: ch13:28654-28866
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 7187a038-7743-46bd-9105-c829f81a71fb
+    claim_hash: 53d6673e628d46c6bb789c5945e2795e63bc61ff126be3a80b0287f43384d16e
+    content: An anonymous US Air Force noncommissioned officer, relayed by Robert 'Bob' Fish to John Podesta, said that RC-135
+      reconnaissance missions monitoring Cuba were sometimes diverted to track UFOs off the east coast of Florida, which he
+      claimed had a landing and takeoff point in the ocean east of Miami, north of Bermuda, tracked by a specific electronic
+      signature when transitioning into or out of the water, and were filmed on several occasions transitioning between water
+      and air.
+    original_excerpt: '''He said there were times when they were diverted from these missions to track UFOs off the east coast
+      of Florida. His claim was the UFOs had a landing and takeoff point in the ocean east of Miami, north of Bermuda. There
+      was a specific electronic signature (frequency) emanating from them when they were going into or coming out of the water,
+      so they were easy to track. On several occasions they filmed the UFO as it transitioned from water to air or vice versa,''
+      Bob Fish told Podesta.'
+    claim_type: hearsay
+    attestation: third_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: anonymous
+      origin: a person claiming to be a US Air Force noncommissioned officer who flew RC-135 reconnaissance missions from
+        MacDill Air Force Base
+      relay:
+        - Robert 'Bob' Fish
+        - email to John Podesta
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 176b82fd-52fb-4c89-944c-e03e424fd545
+        title: John Podesta
+        slug: john-podesta
+      - node_id: 374cbd07-aff3-44c7-bccb-83fbb4de8601
+        title: USA, Florida, Miami
+        slug: florida-miami-usa
+      - node_id: 64178dcc-fc36-4429-b40e-cdee9ff51db7
+        title: Robert Fish
+        slug: robert-fish
+      - node_id: f7087ed6-e062-433a-90d6-71822d0fee8f
+        title: Bermuda
+        slug: bermuda
+    date: null
+    date_end: null
+    location_in_record: ch13:28873-29352
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 2a1a0bbd-58a8-4d56-b54a-63ea892302eb
+    claim_hash: e1fe6209d6a371d7803948b2fd912fe51291dd24c0c17534ea0073e09572d3cd
+    content: Robert 'Bob' Fish told John Podesta that high-quality film of UFOs is 'out there'.
+    original_excerpt: '''High quality film of UFOs is "out there".'''
+    claim_type: hearsay
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: named
+      origin: Robert 'Bob' Fish
+      relay:
+        - email to John Podesta
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 176b82fd-52fb-4c89-944c-e03e424fd545
+        title: John Podesta
+        slug: john-podesta
+      - node_id: 64178dcc-fc36-4429-b40e-cdee9ff51db7
+        title: Robert Fish
+        slug: robert-fish
+    date: null
+    date_end: null
+    location_in_record: ch13:29362-29396
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 64e46480-d6c2-48a7-8b12-4d7cb07b1de1
+    claim_hash: 55e423d8bdb04dab036a0a2a189b36ba03e4f427fcfcb1d7f119176c2e480c39
+    content: Robert 'Bob' Fish has extensive experience working on classified programs, including President Ronald Reagan's
+      'Trust but Verify' nuclear missile disarmament treaty with the Soviets.
+    original_excerpt: A previously very highly security cleared defence communications intelligence insider, Fish has extensive
+      experience working on classified programs, including President Reagan's 'Trust but Verify' nuclear missile disarmament
+      treaty with the Soviets
+    claim_type: administrative
+    attestation: second_hand
+    speaker:
+      node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+      title: Ross Coulthart
+    provenance_chain:
+      origin_kind: speaker
+      origin: Robert 'Bob' Fish
+      relay:
+        - Ross Coulthart
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 1c74a06c-1b3f-43b4-b54c-3f6b44fd8192
+        title: Ronald Reagan
+        slug: ronald-reagan
+      - node_id: 64178dcc-fc36-4429-b40e-cdee9ff51db7
+        title: Robert Fish
+        slug: robert-fish
+      - node_id: c4098a01-d401-471e-91fe-9a746d3ad69b
+        title: Soviet Union
+        slug: soviet-union
+    date: null
+    date_end: null
+    location_in_record: ch13:29725-29966
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: e6af973e-29dd-4761-b9bc-580713f1626c
+    claim_hash: c909de693b5eda11dbf7a8d61057dc4b70abf826e8f29348634bd7e4edd3e474
+    content: Robert 'Bob' Fish told Ross Coulthart he was happy to be quoted about his strong interest and belief in UAPs.
+    original_excerpt: he assured me he was happy to be quoted about his strong interest and belief in UAPs.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 64178dcc-fc36-4429-b40e-cdee9ff51db7
+      title: Robert Fish
+    provenance_chain:
+      origin_kind: speaker
+      origin: Robert 'Bob' Fish
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 64178dcc-fc36-4429-b40e-cdee9ff51db7
+        title: Robert Fish
+        slug: robert-fish
+    date: null
+    date_end: null
+    location_in_record: ch13:29979-30059
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 183811f3-87af-43d8-b8c9-d579e2a59100
+    claim_hash: ff1e2a6e755f00ea78345aa3bdc3160597ba4777436f5169be448cee37c3c809
+    content: Robert 'Bob' Fish told Ross Coulthart that information about 'alien' matters and true US national defence information
+      crosses paths at some point, and that patriots with security clearances do not want to be traitors to their country.
+    original_excerpt: '''At some point, the information about "alien" stuff and true US national defence information crosses
+      paths. Patriots with clearances do not want to be traitors to their country or their way of life.'
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 64178dcc-fc36-4429-b40e-cdee9ff51db7
+      title: Robert Fish
+    provenance_chain:
+      origin_kind: speaker
+      origin: Robert 'Bob' Fish
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 64178dcc-fc36-4429-b40e-cdee9ff51db7
+        title: Robert Fish
+        slug: robert-fish
+    date: null
+    date_end: null
+    location_in_record: ch13:30227-30419
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 5336ba12-0f0b-4b71-899a-ed710533e639
+    claim_hash: 54d05f9a4b561aaaa3c2561b23213d495472629258053850853ed0811b8ecd37
+    content: Robert 'Bob' Fish argued that if he revealed the exact electromagnetic signature of a high-mach UFO that US sensors
+      search for without attacking, and this were published, the Soviets or Chinese would manufacture a bomber equipped with
+      signals and electronic intelligence (SIGINT/ELINT) countermeasure equipment generating that exact signature.
+    original_excerpt: For instance, if I told you the exact electromagnetic signature of a high-mach UFO that US sensors search
+      for, but don't attack, and you put it in a book, the Soviets/Chinese would manufacture a bomber with sigint/elint [signals
+      and electronic intelligence] counter measure equipment that generated that exact signature.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 64178dcc-fc36-4429-b40e-cdee9ff51db7
+      title: Robert Fish
+    provenance_chain:
+      origin_kind: speaker
+      origin: Robert 'Bob' Fish
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 64178dcc-fc36-4429-b40e-cdee9ff51db7
+        title: Robert Fish
+        slug: robert-fish
+      - node_id: 95f26306-d457-4b86-8b8e-c83e0906740c
+        title: China
+        slug: china
+      - node_id: c4098a01-d401-471e-91fe-9a746d3ad69b
+        title: Soviet Union
+        slug: soviet-union
+    date: null
+    date_end: null
+    location_in_record: ch13:30425-30735
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: d30cf669-3b94-4750-8c39-299ff05be108
+    claim_hash: 2f0297a644b18737dadb63f414586c2dcf178b44e56338a661024d24ee430745
+    content: Robert 'Bob' Fish contacted John Podesta because it frustrated him that no one was seeking evidence he knew,
+      because of his high security clearances, was held inside government files.
+    original_excerpt: Fish told me he contacted Podesta because it frustrated him that no one was seeking the evidence that,
+      because of his high security clearances, he knew was held inside government files.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 64178dcc-fc36-4429-b40e-cdee9ff51db7
+      title: Robert Fish
+    provenance_chain:
+      origin_kind: speaker
+      origin: Robert 'Bob' Fish
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 176b82fd-52fb-4c89-944c-e03e424fd545
+        title: John Podesta
+        slug: john-podesta
+      - node_id: 64178dcc-fc36-4429-b40e-cdee9ff51db7
+        title: Robert Fish
+        slug: robert-fish
+    date: null
+    date_end: null
+    location_in_record: ch13:30999-31178
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: f9eeef63-58be-4494-8af5-6b01717b10dd
+    claim_hash: 0b1ec7ac10e5383b165bb2e741f74c7029a5415f19efd50037f7f228fe376886
+    content: In the early 1990s, while working at a high security aerospace company facility, Robert 'Bob' Fish was shown
+      digital radar tracks showing a hypersonic UFO tracking alongside a US Air Force SR-71 Blackbird spy plane.
+    original_excerpt: In the early 1990s, while working in a high security aerospace company facility, he was shown digital
+      radar tracks showing a hypersonic UFO tracking alongside the US Air Force's SR-71 Blackbird spy plane.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 64178dcc-fc36-4429-b40e-cdee9ff51db7
+      title: Robert Fish
+    provenance_chain:
+      origin_kind: speaker
+      origin: Robert 'Bob' Fish
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 64178dcc-fc36-4429-b40e-cdee9ff51db7
+        title: Robert Fish
+        slug: robert-fish
+      - node_id: 7f7dbb2c-f1a7-4781-a20e-8f3a1a771d6b
+        title: SR-71 Blackbird
+        slug: sr-71-blackbird
+    date: '1990'
+    date_end: null
+    location_in_record: ch13:31185-31383
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 5df5fdb3-0df3-4406-aa0c-acdb469a219f
+    claim_hash: d3f9234c2ceae9f360ecadff7a221338188a25edd9f02abff754eec7de955a79
+    content: Robert 'Bob' Fish described two images streaking through the sky at over Mach 3, one in a side-chase position
+      to the other, with the lead plane being an SR-71 Blackbird and the other unidentified.
+    original_excerpt: '''There were two images streaking through the sky at Mach 3+ – one in a side-chase position to the
+      other. The lead plane was our venerable SR-71 Blackbird; the other one was unidentified.'
+    claim_type: measurement
+    attestation: first_hand
+    speaker:
+      node_id: 64178dcc-fc36-4429-b40e-cdee9ff51db7
+      title: Robert Fish
+    provenance_chain:
+      origin_kind: speaker
+      origin: Robert 'Bob' Fish
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 64178dcc-fc36-4429-b40e-cdee9ff51db7
+        title: Robert Fish
+        slug: robert-fish
+      - node_id: 7f7dbb2c-f1a7-4781-a20e-8f3a1a771d6b
+        title: SR-71 Blackbird
+        slug: sr-71-blackbird
+    date: null
+    date_end: null
+    location_in_record: ch13:31400-31572
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: d9728688-94b8-4b0c-8dd8-a0e3a1df0c29
+    claim_hash: 11f2f2e446211bb4e5115f91362b62c8f5d2142e4f96d46654488784579935e3
+    content: Robert 'Bob' Fish said the unidentified object seen alongside the SR-71 Blackbird made a 90-degree right turn,
+      headed off in a different direction, and rapidly gained altitude while maintaining its speed.
+    original_excerpt: At one point in the trace, the unidentified object made a 90-degree right turn and headed off in a different
+      direction, rapidly gaining altitude while maintaining its speed.
+    claim_type: measurement
+    attestation: first_hand
+    speaker:
+      node_id: 64178dcc-fc36-4429-b40e-cdee9ff51db7
+      title: Robert Fish
+    provenance_chain:
+      origin_kind: speaker
+      origin: Robert 'Bob' Fish
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 64178dcc-fc36-4429-b40e-cdee9ff51db7
+        title: Robert Fish
+        slug: robert-fish
+      - node_id: 7f7dbb2c-f1a7-4781-a20e-8f3a1a771d6b
+        title: SR-71 Blackbird
+        slug: sr-71-blackbird
+    date: null
+    date_end: null
+    location_in_record: ch13:31586-31753
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 11d14a83-cd08-499e-bf80-7e93ecfeac94
+    claim_hash: 3df6d6be8c0a4081fec8a03a7a7a8b7455799ed6d21921c3b3423df404f6a0a4
+    content: Robert 'Bob' Fish considers that at the time of the radar trace, and almost certainly still today, humans did
+      not have the technology to sustain the high-speed turn observed because g-forces would have ripped the craft's wings
+      off.
+    original_excerpt: At that date (and it almost certainly remains true) humans simply did not have the technology to sustain
+      that high-speed turn – g-forces would have ripped the craft's wings right off.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 64178dcc-fc36-4429-b40e-cdee9ff51db7
+      title: Robert Fish
+    provenance_chain:
+      origin_kind: speaker
+      origin: Robert 'Bob' Fish
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 64178dcc-fc36-4429-b40e-cdee9ff51db7
+        title: Robert Fish
+        slug: robert-fish
+    date: null
+    date_end: null
+    location_in_record: ch13:31760-31966
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 31d5c108-7a1f-4b9a-83ef-b7c79ea504e6
+    claim_hash: d7cee76492b4a3d9d58ed923ecae55289956849af26974101d6a5c9458d5e041
+    content: When Robert 'Bob' Fish's friend mentioned the radar trace to personnel at USA, California, Edwards Air Force
+      Base, they shrugged and asked that he erase the radar file as an unexplained anomaly.
+    original_excerpt: When my friend mentioned this radar trace to the Edwards [Air Force Base] guys they sort of shrugged
+      and asked that he erase that radar file as an unexplained anomaly.
+    claim_type: hearsay
+    attestation: second_hand
+    speaker:
+      node_id: 64178dcc-fc36-4429-b40e-cdee9ff51db7
+      title: Robert Fish
+    provenance_chain:
+      origin_kind: anonymous
+      origin: a person claiming to be a friend of Robert 'Bob' Fish who reported the radar trace to Edwards Air Force Base
+        personnel
+      relay:
+        - Robert 'Bob' Fish
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 64178dcc-fc36-4429-b40e-cdee9ff51db7
+        title: Robert Fish
+        slug: robert-fish
+      - node_id: bfd491e5-8e60-456c-bb6c-da2fb39d96f0
+        title: USA, California, Edwards Air Force Base
+        slug: california-edwards-air-force-base-usa
+    date: null
+    date_end: null
+    location_in_record: ch13:31971-32130
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: dc9c9bea-ae8f-4eb4-9f5c-c59a2eab2e49
+    claim_hash: 33230ba941a4d5d062ba0694f785fd511a773ada5f5e173c8e8288408fd9b0c8
+    content: Robert 'Bob' Fish considers that the US government and other countries have captured empirical evidence, including
+      videos, imagery, electronic signatures, heat/spectral signatures, and radar signatures, relating to the UFO topic at
+      various points in time.
+    original_excerpt: The US government, and other countries too, have captured empirical evidence – videos, imagery, electronic
+      signatures, heat/spectral signatures, radar signatures, etc. – at various points in time that would shed light on the
+      UFO topic.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 64178dcc-fc36-4429-b40e-cdee9ff51db7
+      title: Robert Fish
+    provenance_chain:
+      origin_kind: speaker
+      origin: Robert 'Bob' Fish
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 64178dcc-fc36-4429-b40e-cdee9ff51db7
+        title: Robert Fish
+        slug: robert-fish
+    date: null
+    date_end: null
+    location_in_record: ch13:32139-32368
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight

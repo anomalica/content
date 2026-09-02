@@ -1,0 +1,1508 @@
+schema: anomalica/brief/1
+brief_hash: 95486915634bdc440ce87a484f6248434192facdef81e7cc148979826ba5b84c
+page:
+  kind: entity
+  node_id: 35e7651b-150c-447e-9b1e-f2919e4272f1
+  node_type: event
+  title: 1964 Socorro UAP encounter
+  slug: 1964-socorro-uap-encounter
+  claim_count: 40
+  claim_count_total: 40
+generated:
+  graph_version: '2026-09-01T10:10:49.863545+00:00'
+size:
+  claims: 40
+  tokens_estimated: 11181
+  sized_against: 1050000
+publication:
+  status: published
+  note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
+    transcripts are gated elsewhere.
+belonging:
+  verified: 40
+  suspect_excluded: 0
+  unreviewed: 0
+related_nodes:
+  - node_id: 7809c08f-f6ff-4c91-8d6e-d6dff08a7639
+    title: Lonnie Zamora
+    node_type: person
+    slug: lonnie-zamora
+    shared_claims: 18
+  - node_id: ebb776dd-7416-4782-a345-9273c19c7fdd
+    title: USA, New Mexico, Socorro
+    node_type: place
+    slug: new-mexico-socorro-usa
+    shared_claims: 9
+  - node_id: 32b98a17-be55-4b0f-8e10-9d377e1e8b33
+    title: United States Air Force (USAF)
+    node_type: organisation
+    slug: united-states-air-force-usaf
+    shared_claims: 3
+  - node_id: 06feb3fb-cb2f-4f4d-9a39-917259b6709a
+    title: William T. Powers
+    node_type: person
+    slug: william-t-powers
+    shared_claims: 3
+  - node_id: c430b2b2-7900-45c9-9882-98ac4ab14e88
+    title: Federal Bureau of Investigation (FBI)
+    node_type: organisation
+    slug: federal-bureau-of-investigation-fbi
+    shared_claims: 1
+  - node_id: 9162dd11-b0a1-4385-8a10-a9ba47b335a6
+    title: J. Allen Hynek
+    node_type: person
+    slug: j-allen-hynek
+    shared_claims: 1
+  - node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
+    title: Jacques Vallée
+    node_type: person
+    slug: jacques-vallee
+    shared_claims: 1
+  - node_id: 55991bcf-937b-46da-9858-2b733307190b
+    title: Tic Tac
+    node_type: object
+    slug: tic-tac
+    shared_claims: 1
+  - node_id: d6f04ac4-b668-4dc8-b6d8-40746acb7860
+    title: USA, California, Stanford
+    node_type: place
+    slug: california-stanford-usa
+    shared_claims: 1
+  - node_id: d7df79b1-965e-4b47-adc4-1bdbae683082
+    title: USA, New Mexico, Kirtland Air Force Base
+    node_type: place
+    slug: new-mexico-kirtland-air-force-base-usa
+    shared_claims: 1
+  - node_id: 96278e27-75e6-49fe-8ea6-a0f4f5ff1f8a
+    title: United States Army
+    node_type: organisation
+    slug: united-states-army
+    shared_claims: 1
+claims:
+  - claim_id: 4cd77f04-84e4-4ab0-9a9d-30de95b1737f
+    claim_hash: 44ae36220fc8cbb922ec3e9df8a927460d5a6ab1e26ea205e4747a4aa72c28d8
+    content: William Powers was an Air Force astronomer who helped investigate the Socorro, New Mexico UFO landing.
+    original_excerpt: we found out from Dr. William Powers, who was an Air Force astronomer who helped investigate that case
+    claim_type: administrative
+    attestation: first_hand
+    speaker:
+      node_id: d92b06f4-08e6-4138-8c83-7959f54a61bc
+      title: Raymond E. Fowler
+    provenance_chain:
+      origin_kind: speaker
+      origin: Raymond Fowler
+      relay: []
+    attribution_mode: bare_ok
+    attachment: verified
+    node_refs:
+      - node_id: 06feb3fb-cb2f-4f4d-9a39-917259b6709a
+        title: William T. Powers
+        slug: william-t-powers
+      - node_id: 32b98a17-be55-4b0f-8e10-9d377e1e8b33
+        title: United States Air Force (USAF)
+        slug: united-states-air-force-usaf
+      - node_id: 35e7651b-150c-447e-9b1e-f2919e4272f1
+        title: 1964 Socorro UAP encounter
+        slug: 1964-socorro-uap-encounter
+    date: null
+    date_end: null
+    location_in_record: 00:41:04.3-00:41:09.4
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 4c975267-b18f-447b-aea0-321d5f3aaf25
+      record_title: Raymond Fowler on UFOs, Government Cover-Ups & the Andreasson Affair (Full Interview, 1987)
+      record_date: null
+      record_reference: https://www.youtube.com/watch?v=eIx6NytOGTs
+      content_hash: sha256:c37a1f6968db0d7817235b1cb192758a04a3e990d89029bc48ff3facbb50e476
+      friendly_name: null
+  - claim_id: bfb56d18-983d-4036-92b1-a55a01db2e7b
+    claim_hash: dbb92b03c7743302c0752638857e5d1dcb2a1f7e2de6b980644568f85699a45c
+    content: At the Socorro, New Mexico UFO landing, investigators found a ton of weight sitting on each pad mark, measured
+      with a penetrometer.
+    original_excerpt: he said that they use a penetrometer on each one of those pad marks and there was a ton sitting on each
+      one of those.
+    claim_type: testimony
+    attestation: second_hand
+    speaker:
+      node_id: d92b06f4-08e6-4138-8c83-7959f54a61bc
+      title: Raymond E. Fowler
+    provenance_chain:
+      origin_kind: named
+      origin: William Powers
+      relay:
+        - Raymond Fowler
+    attribution_mode: unknown
+    attachment: verified
+    node_refs:
+      - node_id: 06feb3fb-cb2f-4f4d-9a39-917259b6709a
+        title: William T. Powers
+        slug: william-t-powers
+      - node_id: 35e7651b-150c-447e-9b1e-f2919e4272f1
+        title: 1964 Socorro UAP encounter
+        slug: 1964-socorro-uap-encounter
+      - node_id: ebb776dd-7416-4782-a345-9273c19c7fdd
+        title: USA, New Mexico, Socorro
+        slug: new-mexico-socorro-usa
+    date: '1964-04-24'
+    date_end: null
+    location_in_record: 00:41:09.7-00:41:16.6
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 4c975267-b18f-447b-aea0-321d5f3aaf25
+      record_title: Raymond Fowler on UFOs, Government Cover-Ups & the Andreasson Affair (Full Interview, 1987)
+      record_date: null
+      record_reference: https://www.youtube.com/watch?v=eIx6NytOGTs
+      content_hash: sha256:c37a1f6968db0d7817235b1cb192758a04a3e990d89029bc48ff3facbb50e476
+      friendly_name: null
+  - claim_id: 44c22bdc-da5c-4a1a-ad1c-406d954a984b
+    claim_hash: 09b9d6d6a27b399e1def21487767e192664b6c2fcb668f18a3206777de2d4285
+    content: At the Socorro, New Mexico UFO landing, the centre of gravity within the quadruped landing gear was directly
+      over burn number one.
+    original_excerpt: He said the center of gravity within the quadruped landing gear was right over burn number one.
+    claim_type: testimony
+    attestation: second_hand
+    speaker:
+      node_id: d92b06f4-08e6-4138-8c83-7959f54a61bc
+      title: Raymond E. Fowler
+    provenance_chain:
+      origin_kind: named
+      origin: William Powers
+      relay:
+        - Raymond Fowler
+    attribution_mode: unknown
+    attachment: verified
+    node_refs:
+      - node_id: 06feb3fb-cb2f-4f4d-9a39-917259b6709a
+        title: William T. Powers
+        slug: william-t-powers
+      - node_id: 35e7651b-150c-447e-9b1e-f2919e4272f1
+        title: 1964 Socorro UAP encounter
+        slug: 1964-socorro-uap-encounter
+    date: '1964-04-24'
+    date_end: null
+    location_in_record: 00:41:17.4-00:41:23.5
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 4c975267-b18f-447b-aea0-321d5f3aaf25
+      record_title: Raymond Fowler on UFOs, Government Cover-Ups & the Andreasson Affair (Full Interview, 1987)
+      record_date: null
+      record_reference: https://www.youtube.com/watch?v=eIx6NytOGTs
+      content_hash: sha256:c37a1f6968db0d7817235b1cb192758a04a3e990d89029bc48ff3facbb50e476
+      friendly_name: null
+  - claim_id: 5ccc407f-623b-4315-900d-a3be7baba4c5
+    claim_hash: 75b320e3ec8497de807a4dcd48d5fd829c6b992f334148d682d9e37540b96aa8
+    content: The object at the Socorro, New Mexico UFO landing was seen or heard by about 13 different people.
+    original_excerpt: It was seen or heard by about 13 different people.
+    claim_type: testimony
+    attestation: null
+    speaker:
+      node_id: d92b06f4-08e6-4138-8c83-7959f54a61bc
+      title: Raymond E. Fowler
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay:
+        - Raymond Fowler
+    attribution_mode: bare_ok
+    attachment: verified
+    node_refs:
+      - node_id: 35e7651b-150c-447e-9b1e-f2919e4272f1
+        title: 1964 Socorro UAP encounter
+        slug: 1964-socorro-uap-encounter
+    date: '1964-04-24'
+    date_end: null
+    location_in_record: 00:41:25.7-00:41:28.1
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 4c975267-b18f-447b-aea0-321d5f3aaf25
+      record_title: Raymond Fowler on UFOs, Government Cover-Ups & the Andreasson Affair (Full Interview, 1987)
+      record_date: null
+      record_reference: https://www.youtube.com/watch?v=eIx6NytOGTs
+      content_hash: sha256:c37a1f6968db0d7817235b1cb192758a04a3e990d89029bc48ff3facbb50e476
+      friendly_name: null
+  - claim_id: 779aa813-009a-4782-994d-6e773d04f39f
+    claim_hash: 24cf86b4a2b83c8441c3909850b9210632c0b9ed6e9f1419d6338ab0757d9ad9
+    content: At the Socorro, New Mexico UFO landing, a policeman got within approximately 4.6 metres of the object before
+      it began making noises and a blue plasma-like flame emerged from the bottom.
+    original_excerpt: One policeman actually got within 15 feet of it before it started to make noises, and sort of a blue
+      plasma-like flame came out of the bottom.
+    claim_type: testimony
+    attestation: null
+    speaker:
+      node_id: d92b06f4-08e6-4138-8c83-7959f54a61bc
+      title: Raymond E. Fowler
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay:
+        - Raymond Fowler
+    attribution_mode: bare_ok
+    attachment: verified
+    node_refs:
+      - node_id: 35e7651b-150c-447e-9b1e-f2919e4272f1
+        title: 1964 Socorro UAP encounter
+        slug: 1964-socorro-uap-encounter
+    date: '1964-04-24'
+    date_end: null
+    location_in_record: 00:41:28.8-00:41:36.3
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 4c975267-b18f-447b-aea0-321d5f3aaf25
+      record_title: Raymond Fowler on UFOs, Government Cover-Ups & the Andreasson Affair (Full Interview, 1987)
+      record_date: null
+      record_reference: https://www.youtube.com/watch?v=eIx6NytOGTs
+      content_hash: sha256:c37a1f6968db0d7817235b1cb192758a04a3e990d89029bc48ff3facbb50e476
+      friendly_name: null
+  - claim_id: 0fea5b66-4f75-4d96-b0b0-7a87f4c05b85
+    claim_hash: 95a029aaeeaaec1da062a2ede6b2ea0aac49c5edb682b724c1acba36c26670fa
+    content: At the Socorro, New Mexico UFO landing, the policeman retreated about 15 metres and dove to the ground.
+    original_excerpt: And he had to retreat about 50 feet and dove to the ground.
+    claim_type: testimony
+    attestation: null
+    speaker:
+      node_id: d92b06f4-08e6-4138-8c83-7959f54a61bc
+      title: Raymond E. Fowler
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay:
+        - Raymond Fowler
+    attribution_mode: bare_ok
+    attachment: verified
+    node_refs:
+      - node_id: 35e7651b-150c-447e-9b1e-f2919e4272f1
+        title: 1964 Socorro UAP encounter
+        slug: 1964-socorro-uap-encounter
+    date: '1964-04-24'
+    date_end: null
+    location_in_record: 00:41:36.5-00:41:38.8
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 4c975267-b18f-447b-aea0-321d5f3aaf25
+      record_title: Raymond Fowler on UFOs, Government Cover-Ups & the Andreasson Affair (Full Interview, 1987)
+      record_date: null
+      record_reference: https://www.youtube.com/watch?v=eIx6NytOGTs
+      content_hash: sha256:c37a1f6968db0d7817235b1cb192758a04a3e990d89029bc48ff3facbb50e476
+      friendly_name: null
+  - claim_id: 7291ae4b-580a-4ebe-b130-5bd5ab690e7b
+    claim_hash: 7a87c859f68f9e5145a5e4784688353d2ddae299d9608eb00273d688ad22ba86
+    content: At the Socorro, New Mexico UFO landing, the policeman watched the object take off slowly, with the blue plasma
+      rising until the object was out of sight.
+    original_excerpt: But he watched it slowly take off. He watched the blue plasma just go up like that out of sight until
+      it was just sitting there.
+    claim_type: testimony
+    attestation: null
+    speaker:
+      node_id: d92b06f4-08e6-4138-8c83-7959f54a61bc
+      title: Raymond E. Fowler
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay:
+        - Raymond Fowler
+    attribution_mode: bare_ok
+    attachment: verified
+    node_refs:
+      - node_id: 35e7651b-150c-447e-9b1e-f2919e4272f1
+        title: 1964 Socorro UAP encounter
+        slug: 1964-socorro-uap-encounter
+    date: '1964-04-24'
+    date_end: null
+    location_in_record: 00:41:39.1-00:41:47.6
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 4c975267-b18f-447b-aea0-321d5f3aaf25
+      record_title: Raymond Fowler on UFOs, Government Cover-Ups & the Andreasson Affair (Full Interview, 1987)
+      record_date: null
+      record_reference: https://www.youtube.com/watch?v=eIx6NytOGTs
+      content_hash: sha256:c37a1f6968db0d7817235b1cb192758a04a3e990d89029bc48ff3facbb50e476
+      friendly_name: null
+  - claim_id: 26dcfe0c-d630-4c6f-97ec-03cfbc5027d7
+    claim_hash: cd989a0f5f817f2c3442fb6583eb6b7456c2985f641343b0a0f58a7cf249a84c
+    content: At the Socorro, New Mexico UFO landing, the object emitted a high-pitched whine followed by a low-pitched whine,
+      then made no noise at all.
+    original_excerpt: And then it was a high-pitched whine, a low-pitched whine, and it just sat there, no noise at all.
+    claim_type: testimony
+    attestation: null
+    speaker:
+      node_id: d92b06f4-08e6-4138-8c83-7959f54a61bc
+      title: Raymond E. Fowler
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay:
+        - Raymond Fowler
+    attribution_mode: bare_ok
+    attachment: verified
+    node_refs:
+      - node_id: 35e7651b-150c-447e-9b1e-f2919e4272f1
+        title: 1964 Socorro UAP encounter
+        slug: 1964-socorro-uap-encounter
+    date: '1964-04-24'
+    date_end: null
+    location_in_record: 00:41:47.8-00:41:50.9
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 4c975267-b18f-447b-aea0-321d5f3aaf25
+      record_title: Raymond Fowler on UFOs, Government Cover-Ups & the Andreasson Affair (Full Interview, 1987)
+      record_date: null
+      record_reference: https://www.youtube.com/watch?v=eIx6NytOGTs
+      content_hash: sha256:c37a1f6968db0d7817235b1cb192758a04a3e990d89029bc48ff3facbb50e476
+      friendly_name: null
+  - claim_id: 703ce5e9-6db6-4ad5-9b17-26095b3dcc4c
+    claim_hash: dc7c43b947ae70252728505c323db6255027d274a3243996dc6ccd902b9afd14
+    content: At the Socorro, New Mexico UFO landing, the policeman's radio would not work until the object was out of sight.
+    original_excerpt: and he went to try the radio for help and his radio wouldn't work until the object was out of sight.
+    claim_type: testimony
+    attestation: null
+    speaker:
+      node_id: d92b06f4-08e6-4138-8c83-7959f54a61bc
+      title: Raymond E. Fowler
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay:
+        - Raymond Fowler
+    attribution_mode: bare_ok
+    attachment: verified
+    node_refs:
+      - node_id: 35e7651b-150c-447e-9b1e-f2919e4272f1
+        title: 1964 Socorro UAP encounter
+        slug: 1964-socorro-uap-encounter
+    date: '1964-04-24'
+    date_end: null
+    location_in_record: 00:41:53.9-00:41:58.3
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 4c975267-b18f-447b-aea0-321d5f3aaf25
+      record_title: Raymond Fowler on UFOs, Government Cover-Ups & the Andreasson Affair (Full Interview, 1987)
+      record_date: null
+      record_reference: https://www.youtube.com/watch?v=eIx6NytOGTs
+      content_hash: sha256:c37a1f6968db0d7817235b1cb192758a04a3e990d89029bc48ff3facbb50e476
+      friendly_name: null
+  - claim_id: a9007506-2583-4949-ab67-b567a898397f
+    claim_hash: 91c227a61ec52b1fa5921b95596096579e558b09ad3c7133b8a34c3241c7a2f6
+    content: Physical evidence found after the Socorro, New Mexico UFO landing included ground indentations, scorched areas,
+      still-burning greasewood, and a melted, calcined bottle.
+    original_excerpt: But within minutes, state police were there and there were the indentations, there was the scorched
+      areas, greasewood was still burning, coke bottle or some type of bottle, calcined, melted.
+    claim_type: testimony
+    attestation: null
+    speaker:
+      node_id: d92b06f4-08e6-4138-8c83-7959f54a61bc
+      title: Raymond E. Fowler
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay:
+        - Raymond Fowler
+    attribution_mode: bare_ok
+    attachment: verified
+    node_refs:
+      - node_id: 35e7651b-150c-447e-9b1e-f2919e4272f1
+        title: 1964 Socorro UAP encounter
+        slug: 1964-socorro-uap-encounter
+    date: '1964-04-24'
+    date_end: null
+    location_in_record: 00:41:59.2-00:42:10.7
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 4c975267-b18f-447b-aea0-321d5f3aaf25
+      record_title: Raymond Fowler on UFOs, Government Cover-Ups & the Andreasson Affair (Full Interview, 1987)
+      record_date: null
+      record_reference: https://www.youtube.com/watch?v=eIx6NytOGTs
+      content_hash: sha256:c37a1f6968db0d7817235b1cb192758a04a3e990d89029bc48ff3facbb50e476
+      friendly_name: null
+  - claim_id: 79a163f3-c8a5-4b26-86ce-4385682bcd0a
+    claim_hash: 520f97882e0e572a4b47481fa7ebd26c16186196c716b1345ca906554b7f5658
+    content: Investigators from Kirtland Air Force Base in New Mexico measured radioactivity at a UFO landing site near Socorro,
+      New Mexico, in April 1964 where a bush had been burned.
+    original_excerpt: Here investigators from Kirtland Air Force Base in New Mexico are measuring the radioactivity at a landing
+      site where a bush has been burned near Socorro in April 1964.
+    claim_type: observation
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: verified
+    node_refs:
+      - node_id: 35e7651b-150c-447e-9b1e-f2919e4272f1
+        title: 1964 Socorro UAP encounter
+        slug: 1964-socorro-uap-encounter
+      - node_id: d7df79b1-965e-4b47-adc4-1bdbae683082
+        title: USA, New Mexico, Kirtland Air Force Base
+        slug: new-mexico-kirtland-air-force-base-usa
+      - node_id: ebb776dd-7416-4782-a345-9273c19c7fdd
+        title: USA, New Mexico, Socorro
+        slug: new-mexico-socorro-usa
+    date: 1964-04
+    date_end: null
+    location_in_record: ch4:17794-17957
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: f0690aba-c78b-47f4-bb2f-f94ea04d55ee
+      record_title: 'Messengers of Deception: UFO Contacts and Cults'
+      record_date: '0101-01-01'
+      record_reference: null
+      content_hash: sha256:0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5ac9fd3168
+      friendly_name: 0101-01-01-ebook-messengers-of-deception-ufo-contacts-and-cults
+  - claim_id: 8f86b4ae-a001-44f0-8295-3f9a18924057
+    claim_hash: 457d7f75c5bfe9051af170d2902761d8c99e9842615a5428d86e9c7fac1e547e
+    content: Lonnie Zamora was the main witness at the 1964 Socorro UFO incident landing site near Socorro, New Mexico.
+    original_excerpt: The man standing at the left is the main witness, patrolman Lonnie Zamora.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: verified
+    node_refs:
+      - node_id: 35e7651b-150c-447e-9b1e-f2919e4272f1
+        title: 1964 Socorro UAP encounter
+        slug: 1964-socorro-uap-encounter
+      - node_id: 7809c08f-f6ff-4c91-8d6e-d6dff08a7639
+        title: Lonnie Zamora
+        slug: lonnie-zamora
+      - node_id: ebb776dd-7416-4782-a345-9273c19c7fdd
+        title: USA, New Mexico, Socorro
+        slug: new-mexico-socorro-usa
+    date: null
+    date_end: null
+    location_in_record: ch4:17963-18030
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: f0690aba-c78b-47f4-bb2f-f94ea04d55ee
+      record_title: 'Messengers of Deception: UFO Contacts and Cults'
+      record_date: '0101-01-01'
+      record_reference: null
+      content_hash: sha256:0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5ac9fd3168
+      friendly_name: 0101-01-01-ebook-messengers-of-deception-ufo-contacts-and-cults
+  - claim_id: 693b0919-3b9e-4f63-9e70-9014cbd53e81
+    claim_hash: 2e316653341a7e962aae4e4e908107abb48f6ce34e62065e390066ae6d58a16c
+    content: In 1964 at Socorro, New Mexico, police officer Lonnie Zamora saw an egg-shaped object in the desert with two
+      small men near it.
+    original_excerpt: At Socorro, New Mexico, in 1964, officer Lonnie Zamora had seen an egg-shaped object in the desert,
+      with two rather small men near it.
+    claim_type: testimony
+    attestation: second_hand
+    speaker:
+      node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
+      title: Jacques Vallée
+    provenance_chain:
+      origin_kind: named
+      origin: Lonnie Zamora
+      relay:
+        - Jacques Vallee's account
+    attribution_mode: unknown
+    attachment: verified
+    node_refs:
+      - node_id: 35e7651b-150c-447e-9b1e-f2919e4272f1
+        title: 1964 Socorro UAP encounter
+        slug: 1964-socorro-uap-encounter
+      - node_id: 7809c08f-f6ff-4c91-8d6e-d6dff08a7639
+        title: Lonnie Zamora
+        slug: lonnie-zamora
+      - node_id: ebb776dd-7416-4782-a345-9273c19c7fdd
+        title: USA, New Mexico, Socorro
+        slug: new-mexico-socorro-usa
+    date: '1964'
+    date_end: null
+    location_in_record: ch12:31329-31460
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 220315f4-29cd-4c89-8860-44f95613d98f
+      record_title: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About UFO Influences on the Human Race'
+      record_date: '2014-09-27'
+      record_reference: null
+      content_hash: sha256:5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b8489cc11c26
+      friendly_name: 2014-09-27-ebook-the-invisible-college-what-a-group-of-scientists-has
+  - claim_id: 51b66edd-2a1d-4060-ba60-0ac2781877fa
+    claim_hash: 7e32d17579c029e373462e4acbfe9cd7e0880ed4f91f2b7014a79b8ab7b9650e
+    content: Lonnie Zamora saw a peculiar red sign on the side of the object he observed at Socorro, New Mexico in 1964, described
+      as a vertical arrow with a horizontal bar underneath, for which no explanation was ever found.
+    original_excerpt: On the side of this craft he had seen a peculiar red sign, a sort of vertical arrow with a horizontal
+      bar underneath. No explanation for this sign was ever found.
+    claim_type: testimony
+    attestation: second_hand
+    speaker:
+      node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
+      title: Jacques Vallée
+    provenance_chain:
+      origin_kind: named
+      origin: Lonnie Zamora
+      relay:
+        - Jacques Vallee's account
+    attribution_mode: unknown
+    attachment: verified
+    node_refs:
+      - node_id: 35e7651b-150c-447e-9b1e-f2919e4272f1
+        title: 1964 Socorro UAP encounter
+        slug: 1964-socorro-uap-encounter
+      - node_id: 7809c08f-f6ff-4c91-8d6e-d6dff08a7639
+        title: Lonnie Zamora
+        slug: lonnie-zamora
+    date: '1964'
+    date_end: null
+    location_in_record: ch12:31464-31620
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 220315f4-29cd-4c89-8860-44f95613d98f
+      record_title: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About UFO Influences on the Human Race'
+      record_date: '2014-09-27'
+      record_reference: null
+      content_hash: sha256:5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b8489cc11c26
+      friendly_name: 2014-09-27-ebook-the-invisible-college-what-a-group-of-scientists-has
+  - claim_id: 9ae717f4-c126-43a8-8df8-c4a04b965fe8
+    claim_hash: 88f70cb82f6f2dae16d5d828e4efcd16f52df8b5fcf73638c918863286b43433
+    content: A friend of Jacques Vallee at Stanford, shown a description of the Socorro symbol, found a medieval Arabic text
+      listing symbols for the major planets that unmistakably matched the insignia Lonnie Zamora saw, identifying it as the
+      Arabic sign for Venus.
+    original_excerpt: 'He had been intrigued by my description of the Socorro symbol. It reminded him of something, he said.
+      And after much searching among his numerous books he showed me a copy of a medieval Arabic text which included a list
+      of symbols for the major planets: here, unmistakably, was the insignia Zamora had seen—the Arabic sign for Venus!'
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
+      title: Jacques Vallée
+    provenance_chain:
+      origin_kind: speaker
+      origin: Jacques Vallee
+      relay: []
+    attribution_mode: bare_ok
+    attachment: verified
+    node_refs:
+      - node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
+        title: Jacques Vallée
+        slug: jacques-vallee
+      - node_id: 35e7651b-150c-447e-9b1e-f2919e4272f1
+        title: 1964 Socorro UAP encounter
+        slug: 1964-socorro-uap-encounter
+      - node_id: d6f04ac4-b668-4dc8-b6d8-40746acb7860
+        title: USA, California, Stanford
+        slug: california-stanford-usa
+    date: null
+    date_end: null
+    location_in_record: ch12:31759-32086
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 220315f4-29cd-4c89-8860-44f95613d98f
+      record_title: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About UFO Influences on the Human Race'
+      record_date: '2014-09-27'
+      record_reference: null
+      content_hash: sha256:5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b8489cc11c26
+      friendly_name: 2014-09-27-ebook-the-invisible-college-what-a-group-of-scientists-has
+  - claim_id: 7af2ddb4-bd06-450d-aa8f-396ddae6ba13
+    claim_hash: d5d1391738f8a18ff816f113f452f1b5813d986043fb1b0ff00172f344f677e1
+    content: During the 1964 Lonnie Zamora Socorro UFO sighting, a highway patrolman saw a white object and two small occupants.
+    original_excerpt: An example of a sighting in category 5 which has received a great deal of publicity is the 1964 Socorro
+      case, in which a highway patrolman saw a white object and two rather small occupants.
+    claim_type: observation
+    attestation: second_hand
+    speaker:
+      node_id: 7809c08f-f6ff-4c91-8d6e-d6dff08a7639
+      title: Lonnie Zamora
+    provenance_chain:
+      origin_kind: named
+      origin: Lonnie Zamora
+      relay:
+        - published account of the sighting
+    attribution_mode: unknown
+    attachment: verified
+    node_refs:
+      - node_id: 35e7651b-150c-447e-9b1e-f2919e4272f1
+        title: 1964 Socorro UAP encounter
+        slug: 1964-socorro-uap-encounter
+      - node_id: 7809c08f-f6ff-4c91-8d6e-d6dff08a7639
+        title: Lonnie Zamora
+        slug: lonnie-zamora
+    date: '1964'
+    date_end: null
+    location_in_record: ch13:9789-9968
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 220315f4-29cd-4c89-8860-44f95613d98f
+      record_title: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About UFO Influences on the Human Race'
+      record_date: '2014-09-27'
+      record_reference: null
+      content_hash: sha256:5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b8489cc11c26
+      friendly_name: 2014-09-27-ebook-the-invisible-college-what-a-group-of-scientists-has
+  - claim_id: a8207411-7256-4060-944f-d981009dbde4
+    claim_hash: 4897672104422b223a4a27cd5cdb34299395c8ec06bb40189ca0d2f9f0866c31
+    content: Lonnie Zamora reported the 1964 Socorro UFO sighting to authorities but first asked to be left alone with a priest.
+    original_excerpt: Although he did report it, he first asked to be left alone with a priest!
+    claim_type: observation
+    attestation: second_hand
+    speaker:
+      node_id: 7809c08f-f6ff-4c91-8d6e-d6dff08a7639
+      title: Lonnie Zamora
+    provenance_chain:
+      origin_kind: named
+      origin: Lonnie Zamora
+      relay:
+        - published account of the sighting
+    attribution_mode: unknown
+    attachment: verified
+    node_refs:
+      - node_id: 35e7651b-150c-447e-9b1e-f2919e4272f1
+        title: 1964 Socorro UAP encounter
+        slug: 1964-socorro-uap-encounter
+      - node_id: 7809c08f-f6ff-4c91-8d6e-d6dff08a7639
+        title: Lonnie Zamora
+        slug: lonnie-zamora
+    date: '1964'
+    date_end: null
+    location_in_record: ch13:9979-10045
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 220315f4-29cd-4c89-8860-44f95613d98f
+      record_title: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About UFO Influences on the Human Race'
+      record_date: '2014-09-27'
+      record_reference: null
+      content_hash: sha256:5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b8489cc11c26
+      friendly_name: 2014-09-27-ebook-the-invisible-college-what-a-group-of-scientists-has
+  - claim_id: aff7a0e5-c603-4d1a-a145-0afd0f262bb3
+    claim_hash: c2242ac3de79a0ce5e506e3b64ca43d3c6df793f699348c77cd80abe7791734d
+    content: The 1964 Lonnie Zamora Socorro UFO sighting involved an object bearing the representation of the Arabic astrological
+      sign for Venus.
+    original_excerpt: as in the representation of the Arabic astrological sign for Venus on the object seen at Socorro
+    claim_type: observation
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: verified
+    node_refs:
+      - node_id: 35e7651b-150c-447e-9b1e-f2919e4272f1
+        title: 1964 Socorro UAP encounter
+        slug: 1964-socorro-uap-encounter
+      - node_id: ebb776dd-7416-4782-a345-9273c19c7fdd
+        title: USA, New Mexico, Socorro
+        slug: new-mexico-socorro-usa
+    date: null
+    date_end: null
+    location_in_record: ch14:16416-16505
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 220315f4-29cd-4c89-8860-44f95613d98f
+      record_title: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About UFO Influences on the Human Race'
+      record_date: '2014-09-27'
+      record_reference: null
+      content_hash: sha256:5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b8489cc11c26
+      friendly_name: 2014-09-27-ebook-the-invisible-college-what-a-group-of-scientists-has
+  - claim_id: 0995e06c-1239-4fe8-985a-1a436b38be7c
+    claim_hash: fc76ca0d14113ddef7bc56f8255bd92d652b6fe3e3b13068171b14672c37437b
+    content: On 24 April 1964, police officer Lonnie Zamora witnessed a flaming object in the sky near Socorro, New Mexico
+      and went to investigate.
+    original_excerpt: Another extremely important sighting happened on the outskirts of Socorro, New Mexico, on 24 April 1964.
+      Police officer Lonnie Zamora witnessed a flaming object in the sky and went to investigate.
+    claim_type: observation
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: named
+      origin: Lonnie Zamora
+      relay: []
+    attribution_mode: unknown
+    attachment: verified
+    node_refs:
+      - node_id: 35e7651b-150c-447e-9b1e-f2919e4272f1
+        title: 1964 Socorro UAP encounter
+        slug: 1964-socorro-uap-encounter
+      - node_id: 7809c08f-f6ff-4c91-8d6e-d6dff08a7639
+        title: Lonnie Zamora
+        slug: lonnie-zamora
+      - node_id: ebb776dd-7416-4782-a345-9273c19c7fdd
+        title: USA, New Mexico, Socorro
+        slug: new-mexico-socorro-usa
+    date: '1964-04-24'
+    date_end: null
+    location_in_record: ch10:7705-7889
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 22345138-7b2c-4255-ab8f-adbce8d1ed23
+    claim_hash: b5a9b71ad9e2331b49c50d54999bb2c44352c7cf0ec11894f708bf5f25faef0b
+    content: Lonnie Zamora came across a shiny whitish aluminium-coloured craft landed in a dry creek bed near Socorro, New
+      Mexico, with two small 'people' standing in white coveralls alongside it.
+    original_excerpt: He came across a shiny whitish aluminium-coloured craft landed in a dry creek bed with two small 'people'
+      standing in white coveralls alongside.
+    claim_type: observation
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: named
+      origin: Lonnie Zamora
+      relay: []
+    attribution_mode: unknown
+    attachment: verified
+    node_refs:
+      - node_id: 35e7651b-150c-447e-9b1e-f2919e4272f1
+        title: 1964 Socorro UAP encounter
+        slug: 1964-socorro-uap-encounter
+      - node_id: 7809c08f-f6ff-4c91-8d6e-d6dff08a7639
+        title: Lonnie Zamora
+        slug: lonnie-zamora
+    date: '1964-04-24'
+    date_end: null
+    location_in_record: ch10:7902-8036
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: ed20fb76-7386-4f0b-b88e-c3a576f0ff90
+    claim_hash: dc939b3735173802b4909f6984fa7cae1296927a134dae146e0c995ad5443ca4
+    content: As Lonnie Zamora approached the craft near Socorro in 1964, the oval-shaped object rose off the ground and he
+      noticed it had red lettering on its side.
+    original_excerpt: As he began approaching, the oval-shaped object rose off the ground; he noticed it had red lettering
+      on its side.
+    claim_type: observation
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: named
+      origin: Lonnie Zamora
+      relay: []
+    attribution_mode: unknown
+    attachment: verified
+    node_refs:
+      - node_id: 35e7651b-150c-447e-9b1e-f2919e4272f1
+        title: 1964 Socorro UAP encounter
+        slug: 1964-socorro-uap-encounter
+      - node_id: 7809c08f-f6ff-4c91-8d6e-d6dff08a7639
+        title: Lonnie Zamora
+        slug: lonnie-zamora
+    date: '1964-04-24'
+    date_end: null
+    location_in_record: ch10:8047-8155
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 5743ccc0-8238-40eb-b45b-1d0e55c76621
+    claim_hash: 7fd809c789a33f589cfa0dd9b502425c8f1be7f3a300693b4c37b4524d5971ae
+    content: Indentations and charred bushes were later found on the ground at Socorro where the craft observed by Lonnie
+      Zamora had landed.
+    original_excerpt: Indentations and charred bushes were later found on the ground where the craft had landed
+    claim_type: observation
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: verified
+    node_refs:
+      - node_id: 35e7651b-150c-447e-9b1e-f2919e4272f1
+        title: 1964 Socorro UAP encounter
+        slug: 1964-socorro-uap-encounter
+      - node_id: ebb776dd-7416-4782-a345-9273c19c7fdd
+        title: USA, New Mexico, Socorro
+        slug: new-mexico-socorro-usa
+    date: '1964-04-24'
+    date_end: null
+    location_in_record: ch10:8161-8244
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 44e33e46-e8db-46f4-8c17-168b44e8ac63
+    claim_hash: ebf08742a89d8245b0566224ac6867cda87eee74b651ae1c99d6b5a2c6502ffe
+    content: Independent witnesses confirmed seeing an egg-shaped craft or bluish flame near Socorro at about the same time
+      as Lonnie Zamora's 1964 sighting.
+    original_excerpt: independent witnesses confirmed seeing an egg-shaped craft or bluish flame about the same time as Zamora.
+    claim_type: observation
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: verified
+    node_refs:
+      - node_id: 35e7651b-150c-447e-9b1e-f2919e4272f1
+        title: 1964 Socorro UAP encounter
+        slug: 1964-socorro-uap-encounter
+      - node_id: ebb776dd-7416-4782-a345-9273c19c7fdd
+        title: USA, New Mexico, Socorro
+        slug: new-mexico-socorro-usa
+    date: '1964-04-24'
+    date_end: null
+    location_in_record: ch10:8256-8354
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: fdf2b279-9840-4d7d-bd1c-1c87eef52c56
+    claim_hash: a2dcd405367de2e9ac111c4ceec620e778381866f3bed24e8e355899d5c893b9
+    content: In 1964-04, Lonnie Zamora chased a speeding car through the desert near Socorro, New Mexico, and encountered
+      an egg-shaped or Tic Tac-shaped object with a metallic white surface and spindly white landing gear in a nearby arroyo.
+    original_excerpt: April 1964, Zamora chased a speeding car through the desert. Around dusk he spotted what looked initially
+      like a car wreck in a nearby arroyo... what had looked like an overturned vehicle now resembled a large egg or Tic Tac–shaped
+      object with a metallic white surface, spindly white landing gear, and some cryptic writing on its side.
+    claim_type: testimony
+    attestation: second_hand
+    speaker:
+      node_id: 7809c08f-f6ff-4c91-8d6e-d6dff08a7639
+      title: Lonnie Zamora
+    provenance_chain:
+      origin_kind: named
+      origin: Lonnie Zamora
+      relay: []
+    attribution_mode: unknown
+    attachment: verified
+    node_refs:
+      - node_id: 35e7651b-150c-447e-9b1e-f2919e4272f1
+        title: 1964 Socorro UAP encounter
+        slug: 1964-socorro-uap-encounter
+      - node_id: 55991bcf-937b-46da-9858-2b733307190b
+        title: Tic Tac
+        slug: tic-tac
+      - node_id: 7809c08f-f6ff-4c91-8d6e-d6dff08a7639
+        title: Lonnie Zamora
+        slug: lonnie-zamora
+    date: 1964-04
+    date_end: null
+    location_in_record: ch12:21379-21783
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  - claim_id: bb349617-191d-4c6c-b51f-efd9e90de347
+    claim_hash: 3397e107cc4ebb9437a4a25cd4b0d6cc954d41eab759a2c5ac39312a67b6d1fe
+    content: Lonnie Zamora observed two figures dressed in white uniforms near the object he encountered at Socorro, New Mexico
+      in 1964.
+    original_excerpt: That's when Zamora observed two figures dressed in white uniforms nearby.
+    claim_type: testimony
+    attestation: second_hand
+    speaker:
+      node_id: 7809c08f-f6ff-4c91-8d6e-d6dff08a7639
+      title: Lonnie Zamora
+    provenance_chain:
+      origin_kind: named
+      origin: Lonnie Zamora
+      relay: []
+    attribution_mode: unknown
+    attachment: verified
+    node_refs:
+      - node_id: 35e7651b-150c-447e-9b1e-f2919e4272f1
+        title: 1964 Socorro UAP encounter
+        slug: 1964-socorro-uap-encounter
+      - node_id: 7809c08f-f6ff-4c91-8d6e-d6dff08a7639
+        title: Lonnie Zamora
+        slug: lonnie-zamora
+    date: 1964-04
+    date_end: null
+    location_in_record: ch12:21958-22024
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  - claim_id: 35f24cf3-2169-40e8-9fc1-0dbba530f2ab
+    claim_hash: 4fd8f12acefc0362d1081adf181b342bfb6a1fd5dd49fb3fe4b123c7b2db638d
+    content: When the two figures saw Lonnie Zamora at Socorro, New Mexico in 1964, they dashed aboard the object.
+    original_excerpt: Seeing Zamora, the pair dashed aboard the vessel.
+    claim_type: testimony
+    attestation: second_hand
+    speaker:
+      node_id: 7809c08f-f6ff-4c91-8d6e-d6dff08a7639
+      title: Lonnie Zamora
+    provenance_chain:
+      origin_kind: named
+      origin: Lonnie Zamora
+      relay: []
+    attribution_mode: unknown
+    attachment: verified
+    node_refs:
+      - node_id: 35e7651b-150c-447e-9b1e-f2919e4272f1
+        title: 1964 Socorro UAP encounter
+        slug: 1964-socorro-uap-encounter
+      - node_id: 7809c08f-f6ff-4c91-8d6e-d6dff08a7639
+        title: Lonnie Zamora
+        slug: lonnie-zamora
+    date: 1964-04
+    date_end: null
+    location_in_record: ch12:22032-22074
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  - claim_id: 9256beb2-c92f-4f5c-9040-569e847aa75c
+    claim_hash: b30b76c221f110d832071f486c9b217fa71a2be2453afa539f76a1d11cae6381
+    content: The object Lonnie Zamora encountered at Socorro, New Mexico in 1964 had no visible means of propulsion but rose
+      from the ground with a roar, spewing blue-orange flames and leaving scorched vegetation behind.
+    original_excerpt: Outwardly the craft had no visible means of propulsion, but it nevertheless rose from the ground with
+      a roar, spewing blue-orange flames and leaving behind scorched vegetation in its wake.
+    claim_type: testimony
+    attestation: second_hand
+    speaker:
+      node_id: 7809c08f-f6ff-4c91-8d6e-d6dff08a7639
+      title: Lonnie Zamora
+    provenance_chain:
+      origin_kind: named
+      origin: Lonnie Zamora
+      relay: []
+    attribution_mode: unknown
+    attachment: verified
+    node_refs:
+      - node_id: 35e7651b-150c-447e-9b1e-f2919e4272f1
+        title: 1964 Socorro UAP encounter
+        slug: 1964-socorro-uap-encounter
+      - node_id: 7809c08f-f6ff-4c91-8d6e-d6dff08a7639
+        title: Lonnie Zamora
+        slug: lonnie-zamora
+    date: 1964-04
+    date_end: null
+    location_in_record: ch12:22082-22265
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  - claim_id: 1a16ce6e-b476-4bb6-9b86-c5de8491bb5a
+    claim_hash: 4b269b9105d305307bdf3b66ef5f0918093025179ebefd456a5a7d8df09df82b
+    content: The Federal Bureau of Investigation investigated the 1964 Lonnie Zamora UAP encounter at Socorro, New Mexico.
+    original_excerpt: The Zamora case attracted a plethora of investigators. Local law enforcement, of course. The FBI. The
+      US Army. The Air Force.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: verified
+    node_refs:
+      - node_id: 35e7651b-150c-447e-9b1e-f2919e4272f1
+        title: 1964 Socorro UAP encounter
+        slug: 1964-socorro-uap-encounter
+      - node_id: c430b2b2-7900-45c9-9882-98ac4ab14e88
+        title: Federal Bureau of Investigation (FBI)
+        slug: federal-bureau-of-investigation-fbi
+    date: 1964-04
+    date_end: null
+    location_in_record: ch12:22897-23016
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  - claim_id: 32065d35-6634-41eb-b9d2-d3ccc13850a6
+    claim_hash: 1e6f9d2cf025c023e44754f16c2bb44ea00ccb1fa3770440ff76f24d1d86546f
+    content: J. Allen Hynek visited Socorro, New Mexico to investigate the 1964 Lonnie Zamora UAP encounter.
+    original_excerpt: Dr. J. Allen Hynek... visited the region.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: verified
+    node_refs:
+      - node_id: 35e7651b-150c-447e-9b1e-f2919e4272f1
+        title: 1964 Socorro UAP encounter
+        slug: 1964-socorro-uap-encounter
+      - node_id: 9162dd11-b0a1-4385-8a10-a9ba47b335a6
+        title: J. Allen Hynek
+        slug: j-allen-hynek
+      - node_id: ebb776dd-7416-4782-a345-9273c19c7fdd
+        title: USA, New Mexico, Socorro
+        slug: new-mexico-socorro-usa
+    date: 1964-04
+    date_end: null
+    location_in_record: ch12:23023-23043
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  - claim_id: 7ed0baa9-04da-4ba9-acc6-402500728983
+    claim_hash: 3c7626b9bd0026bec12bbeaf34c0486a32c85f08412380c2f7fb54a6551614a3
+    content: Other witnesses in the region near Socorro, New Mexico reported seeing an egg-shaped object streak across the
+      landscape before or after Lonnie Zamora's 1964 encounter.
+    original_excerpt: Motorists saw an "egg" streak across the landscape just before or after Zamora's encounter.
+    claim_type: testimony
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: anonymous
+      origin: a person claiming to have witnessed the 1964 Socorro sighting as a motorist
+      relay: []
+    attribution_mode: unknown
+    attachment: verified
+    node_refs:
+      - node_id: 35e7651b-150c-447e-9b1e-f2919e4272f1
+        title: 1964 Socorro UAP encounter
+        slug: 1964-socorro-uap-encounter
+    date: 1964-04
+    date_end: null
+    location_in_record: ch12:23549-23630
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  - claim_id: 1fea86e5-585b-44f0-98fa-b171fca7dca3
+    claim_hash: b1359e2ba17a6597e2b307fae64254511a80b058f6b21eda91540fbfd6f042a1
+    content: A witness in a town near Socorro, New Mexico reported that a bizarre object described as a white butane tank
+      landed on his family's property at night in 1964, frightening the family's horses, and then streaked away shortly after.
+    original_excerpt: Another witness in a nearby town reported seeing a bizarre object in the dead of night that frightened
+      his family's horses. The object, described as a white butane tank, landed on the family's property, then streaked away
+      shortly after.
+    claim_type: testimony
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: anonymous
+      origin: a person claiming to be a witness in a town near Socorro
+      relay: []
+    attribution_mode: unknown
+    attachment: verified
+    node_refs:
+      - node_id: 35e7651b-150c-447e-9b1e-f2919e4272f1
+        title: 1964 Socorro UAP encounter
+        slug: 1964-socorro-uap-encounter
+    date: 1964-04
+    date_end: null
+    location_in_record: ch12:23699-23955
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  - claim_id: 35d1d6b2-11b6-4f66-b3b4-78fd168a14ec
+    claim_hash: 17c55434d57780f64b7cd72e351f60980ccc23e72c15d306493e812ffcd045a0
+    content: In the days following Lonnie Zamora's 1964 encounter at Socorro, New Mexico, the story appeared in newspapers
+      and on radio and television broadcasts throughout the United States.
+    original_excerpt: In the days that followed Zamora's encounter, the story appeared in newspapers and radio and television
+      broadcasts throughout the United States.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: verified
+    node_refs:
+      - node_id: 35e7651b-150c-447e-9b1e-f2919e4272f1
+        title: 1964 Socorro UAP encounter
+        slug: 1964-socorro-uap-encounter
+      - node_id: 7809c08f-f6ff-4c91-8d6e-d6dff08a7639
+        title: Lonnie Zamora
+        slug: lonnie-zamora
+    date: 1964-04
+    date_end: null
+    location_in_record: ch12:24115-24252
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  - claim_id: b13d053a-6f49-4340-a6ba-1d7161afb49f
+    claim_hash: 72a5023348dc694e00b8ce0601035752aa648e4743128f7459c4e5f9b6da6981
+    content: Lonnie Zamora never tried to profit from his 1964 Socorro, New Mexico Unidentified Aerial Phenomena (UAP) encounter
+      and did not seek out media attention.
+    original_excerpt: Zamora never tried to profit from his encounter, nor did he seek out media attention.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: verified
+    node_refs:
+      - node_id: 35e7651b-150c-447e-9b1e-f2919e4272f1
+        title: 1964 Socorro UAP encounter
+        slug: 1964-socorro-uap-encounter
+      - node_id: 7809c08f-f6ff-4c91-8d6e-d6dff08a7639
+        title: Lonnie Zamora
+        slug: lonnie-zamora
+    date: null
+    date_end: null
+    location_in_record: ch12:24260-24335
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  - claim_id: aa8af8a0-9b62-45c5-87af-8e718ec4eb5e
+    claim_hash: 68b4f62ee54b0312727402877417d70409299332b618972a67fd383665f2f3d3
+    content: Lonnie Zamora saw an egg-shaped object with markings or insignia on its side during the 1964 Socorro, New Mexico
+      UAP encounter.
+    original_excerpt: When Lonnie Zamora peered into that arroyo in Socorro, New Mexico, back in 1964, he saw an egg-shaped
+      object with some sort of markings or insignia on its side.
+    claim_type: observation
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: named
+      origin: Lonnie Zamora
+      relay: []
+    attribution_mode: unknown
+    attachment: verified
+    node_refs:
+      - node_id: 35e7651b-150c-447e-9b1e-f2919e4272f1
+        title: 1964 Socorro UAP encounter
+        slug: 1964-socorro-uap-encounter
+      - node_id: 7809c08f-f6ff-4c91-8d6e-d6dff08a7639
+        title: Lonnie Zamora
+        slug: lonnie-zamora
+    date: 1964-04
+    date_end: null
+    location_in_record: ch13:102-257
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  - claim_id: 10d5c854-b36d-4cdc-bb5c-9ba70a1a4490
+    claim_hash: 8da4a8031c6cce86aa654ab47c7f8c0ad29db9c57d4c6c8f2caadf440ddce314
+    content: The United States Air Force warned Lonnie Zamora not to share knowledge of the markings he saw on the object
+      during the 1964 Socorro UAP encounter with civilians.
+    original_excerpt: He was strictly warned by the Air Force not to share that knowledge with civilians, and he kept his
+      word.
+    claim_type: testimony
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: verified
+    node_refs:
+      - node_id: 32b98a17-be55-4b0f-8e10-9d377e1e8b33
+        title: United States Air Force (USAF)
+        slug: united-states-air-force-usaf
+      - node_id: 35e7651b-150c-447e-9b1e-f2919e4272f1
+        title: 1964 Socorro UAP encounter
+        slug: 1964-socorro-uap-encounter
+      - node_id: 7809c08f-f6ff-4c91-8d6e-d6dff08a7639
+        title: Lonnie Zamora
+        slug: lonnie-zamora
+    date: 1964-04
+    date_end: null
+    location_in_record: ch13:263-363
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  - claim_id: 621cbaaa-a666-48a2-8476-f93d43854587
+    claim_hash: 9a8a96d0df588a5b3ced37a36a5504d3fa559aabfa2d33476f0de292a9698b84
+    content: During the 1964 Socorro, New Mexico UAP encounter, policeman Lonnie Zamora witnessed an egg-shaped craft take
+      off from the desert floor with a loud roar and a blast of blue flame.
+    original_excerpt: When the egg-shaped craft took off from the desert floor, it had done so with a huge roar and a blast
+      of blue flame.
+    claim_type: testimony
+    attestation: second_hand
+    speaker:
+      node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+      title: Luis Elizondo
+    provenance_chain:
+      origin_kind: named
+      origin: Lonnie Zamora
+      relay: []
+    attribution_mode: unknown
+    attachment: verified
+    node_refs:
+      - node_id: 35e7651b-150c-447e-9b1e-f2919e4272f1
+        title: 1964 Socorro UAP encounter
+        slug: 1964-socorro-uap-encounter
+      - node_id: 7809c08f-f6ff-4c91-8d6e-d6dff08a7639
+        title: Lonnie Zamora
+        slug: lonnie-zamora
+    date: 1964-04
+    date_end: null
+    location_in_record: ch25:3694-3804
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  - claim_id: 84f32bbb-0f5c-4d2f-9483-ba57240ef0b9
+    claim_hash: 0b5f0230c1bc3ef3ce2d0db9c5d0c08ef7e4a1a3d521ae95fdd85a675f38d515
+    content: Lonnie Zamora ran up a ravine to escape during the 1964 Socorro UAP encounter, fearing the craft might explode.
+    original_excerpt: It was so loud Zamora ran furiously up the ravine to escape, fearful that the aircraft might explode.
+    claim_type: testimony
+    attestation: second_hand
+    speaker:
+      node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+      title: Luis Elizondo
+    provenance_chain:
+      origin_kind: named
+      origin: Lonnie Zamora
+      relay: []
+    attribution_mode: unknown
+    attachment: verified
+    node_refs:
+      - node_id: 35e7651b-150c-447e-9b1e-f2919e4272f1
+        title: 1964 Socorro UAP encounter
+        slug: 1964-socorro-uap-encounter
+      - node_id: 7809c08f-f6ff-4c91-8d6e-d6dff08a7639
+        title: Lonnie Zamora
+        slug: lonnie-zamora
+    date: 1964-04
+    date_end: null
+    location_in_record: ch25:3811-3904
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  - claim_id: 14420594-8506-4f5d-833f-9ea6daed0c03
+    claim_hash: d91ca139ef34fb9ce65ebddda4482ad4917701a6f752e34cd1ddd0c9d5616ed1
+    content: After reaching a certain height above the ground, the craft in the 1964 Socorro UAP encounter flew away silently.
+    original_excerpt: Then, as soon as the craft reached a certain height above the ground, it flew away *silently*.
+    claim_type: testimony
+    attestation: second_hand
+    speaker:
+      node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+      title: Luis Elizondo
+    provenance_chain:
+      origin_kind: named
+      origin: Lonnie Zamora
+      relay: []
+    attribution_mode: unknown
+    attachment: verified
+    node_refs:
+      - node_id: 35e7651b-150c-447e-9b1e-f2919e4272f1
+        title: 1964 Socorro UAP encounter
+        slug: 1964-socorro-uap-encounter
+    date: 1964-04
+    date_end: null
+    location_in_record: ch25:3913-4024
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  - claim_id: 0c28bec3-ea4b-46a7-bb2c-b7a33d9e1810
+    claim_hash: 95cbdfa91f69228133c5e0ea91536ef7a79b869fddb09e9ea24ad358f0cd3a19
+    content: The United States Air Force investigated the 1964 Lonnie Zamora UAP encounter at Socorro, New Mexico.
+    original_excerpt: The Air Force.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: verified
+    node_refs:
+      - node_id: 32b98a17-be55-4b0f-8e10-9d377e1e8b33
+        title: United States Air Force (USAF)
+        slug: united-states-air-force-usaf
+      - node_id: 35e7651b-150c-447e-9b1e-f2919e4272f1
+        title: 1964 Socorro UAP encounter
+        slug: 1964-socorro-uap-encounter
+    date: 1964-04
+    date_end: null
+    location_in_record: ch6:3285-3293
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  - claim_id: 50728311-7d99-417e-9fde-91d15f81b7fb
+    claim_hash: 4dafe9a1a771c02d42f07bcd72ea466fe896fb206ecfe3d7e8cbcb81efab366e
+    content: The United States Army investigated the 1964 Lonnie Zamora UAP encounter at Socorro, New Mexico.
+    original_excerpt: The US Army.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: verified
+    node_refs:
+      - node_id: 35e7651b-150c-447e-9b1e-f2919e4272f1
+        title: 1964 Socorro UAP encounter
+        slug: 1964-socorro-uap-encounter
+      - node_id: 96278e27-75e6-49fe-8ea6-a0f4f5ff1f8a
+        title: United States Army
+        slug: united-states-army
+    date: 1964-04
+    date_end: null
+    location_in_record: ch9:140-147
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos

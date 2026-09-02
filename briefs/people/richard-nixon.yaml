@@ -1,0 +1,545 @@
+schema: anomalica/brief/1
+brief_hash: 4e87e5a92e7ebf9ddf816d4358f64868d96bef6ea4ab871d6b8c4761ecd597e8
+page:
+  kind: entity
+  node_id: 3690087e-5e65-4693-8b72-f144d9963dd5
+  node_type: person
+  title: Richard Nixon
+  slug: richard-nixon
+  claim_count: 10
+  claim_count_total: 10
+generated:
+  graph_version: '2026-09-01T10:10:49.863545+00:00'
+size:
+  claims: 10
+  tokens_estimated: 2936
+  sized_against: 1050000
+publication:
+  status: published
+  note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
+    transcripts are gated elsewhere.
+belonging:
+  verified: 0
+  suspect_excluded: 0
+  unreviewed: 10
+related_nodes:
+  - node_id: 079d4381-4273-418b-bc9a-468623f95c6e
+    title: Jesse Mitchells
+    node_type: person
+    slug: jesse-mitchells
+    shared_claims: 3
+  - node_id: 38b84d4a-96df-4684-bb46-f6f64f392add
+    title: Central Intelligence Agency (CIA)
+    node_type: organisation
+    slug: central-intelligence-agency-cia
+    shared_claims: 2
+  - node_id: dba2f206-7088-4fe9-9fc5-d7228a9149f4
+    title: George Herbert Walker Bush
+    node_type: person
+    slug: george-herbert-walker-bush
+    shared_claims: 2
+  - node_id: 05d77a1f-0a30-4c2d-aa5f-a97b56290ad2
+    title: Helena Petrovna Blavatsky Foundation
+    node_type: organisation
+    slug: helena-petrovna-blavatsky-foundation
+    shared_claims: 2
+  - node_id: 1548f21d-7826-4f44-b3fd-b09528750e1e
+    title: Jacques Bergier
+    node_type: person
+    slug: jacques-bergier
+    shared_claims: 2
+  - node_id: 1c74a06c-1b3f-43b4-b54c-3f6b44fd8192
+    title: Ronald Reagan
+    node_type: person
+    slug: ronald-reagan
+    shared_claims: 2
+  - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
+    title: Unidentified Flying Object (UFO)
+    node_type: topic
+    slug: unidentified-flying-object-ufo
+    shared_claims: 2
+  - node_id: 65058869-076f-47d0-92ea-f8daf08b94cf
+    title: Barack Obama
+    node_type: person
+    slug: barack-obama
+    shared_claims: 1
+  - node_id: a0653a49-f574-4fe2-915f-f7edb16f61ca
+    title: Bellcomm, Inc.
+    node_type: organisation
+    slug: inc-bellcomm
+    shared_claims: 1
+  - node_id: 459eb5cf-ea76-4cad-9421-a726261cd3a2
+    title: Bill Clinton
+    node_type: person
+    slug: bill-clinton
+    shared_claims: 1
+  - node_id: f175f6db-6c31-49bc-9ca8-0e4487fd7d39
+    title: Dwight D. Eisenhower
+    node_type: person
+    slug: dwight-d-eisenhower
+    shared_claims: 1
+  - node_id: 3491ae64-d16b-4797-8e37-80bb1fe56d1a
+    title: Farouk El-Baz
+    node_type: person
+    slug: farouk-el-baz
+    shared_claims: 1
+  - node_id: 589d7469-f87f-4da5-afa8-cabca7be6818
+    title: Harry S. Truman
+    node_type: person
+    slug: harry-s-truman
+    shared_claims: 1
+  - node_id: 0c444899-f412-4dd4-aa47-0d6677ec405c
+    title: Henry Kissinger
+    node_type: person
+    slug: henry-kissinger
+    shared_claims: 1
+  - node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
+    title: Jacques Vallée
+    node_type: person
+    slug: jacques-vallee
+    shared_claims: 1
+  - node_id: 898c410a-7789-4762-b6dd-1139ced89658
+    title: Jimmy Carter
+    node_type: person
+    slug: jimmy-carter
+    shared_claims: 1
+  - node_id: 10cb6ee5-5e97-422f-8d26-e2606d62bb0e
+    title: Nelson Rockefeller
+    node_type: person
+    slug: nelson-rockefeller
+    shared_claims: 1
+  - node_id: 30940882-37a5-4db5-980d-282dafd2df49
+    title: Nonhuman intelligence (NHI)
+    node_type: topic
+    slug: nonhuman-intelligence-nhi
+    shared_claims: 1
+  - node_id: aa444365-5da9-49c7-9c87-1d84a720b157
+    title: USA, California, Whittier
+    node_type: place
+    slug: california-whittier-usa
+    shared_claims: 1
+  - node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+    title: Whitley Strieber
+    node_type: person
+    slug: whitley-strieber
+    shared_claims: 1
+claims:
+  - claim_id: 852373ce-85f6-4a30-9db5-f0e2c235eb9d
+    claim_hash: 4436f28cceefb7915fa3631e2a1090a52650c4dc32874376c9e0e6e2d093088c
+    content: According to Jacques Bergier, Richard Nixon was a member of the Board of the Helena Petrovna Blavatsky Foundation,
+      an organisation founded by followers of Madame Blavatsky.
+    original_excerpt: According to Jacques Bergier, one of these organizations is the Helena Petrovna Blavatsky Foundation,
+      of which Richard Nixon is a member of the Board.
+    claim_type: hearsay
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: named
+      origin: Jacques Bergier
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 05d77a1f-0a30-4c2d-aa5f-a97b56290ad2
+        title: Helena Petrovna Blavatsky Foundation
+        slug: helena-petrovna-blavatsky-foundation
+      - node_id: 1548f21d-7826-4f44-b3fd-b09528750e1e
+        title: Jacques Bergier
+        slug: jacques-bergier
+      - node_id: 3690087e-5e65-4693-8b72-f144d9963dd5
+        title: Richard Nixon
+        slug: richard-nixon
+    date: null
+    date_end: null
+    location_in_record: ch11:16552-16696
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: f0690aba-c78b-47f4-bb2f-f94ea04d55ee
+      record_title: 'Messengers of Deception: UFO Contacts and Cults'
+      record_date: '0101-01-01'
+      record_reference: null
+      content_hash: sha256:0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5ac9fd3168
+      friendly_name: 0101-01-01-ebook-messengers-of-deception-ufo-contacts-and-cults
+  - claim_id: 5ace9108-2fd7-467a-9846-5d6a0626b0b7
+    claim_hash: 4000779b6e7a04cb9b80d74ba60d24f9dc39c1fd789861fb1f3db681b3c50a9d
+    content: Jacques Vallée was not able to verify Jacques Bergier's claim that Richard Nixon was a member of the Board of
+      the Helena Petrovna Blavatsky Foundation.
+    original_excerpt: I have not been able to verify this statement.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
+      title: Jacques Vallée
+    provenance_chain:
+      origin_kind: speaker
+      origin: Jacques Vallée
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 05d77a1f-0a30-4c2d-aa5f-a97b56290ad2
+        title: Helena Petrovna Blavatsky Foundation
+        slug: helena-petrovna-blavatsky-foundation
+      - node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
+        title: Jacques Vallée
+        slug: jacques-vallee
+      - node_id: 1548f21d-7826-4f44-b3fd-b09528750e1e
+        title: Jacques Bergier
+        slug: jacques-bergier
+      - node_id: 3690087e-5e65-4693-8b72-f144d9963dd5
+        title: Richard Nixon
+        slug: richard-nixon
+    date: null
+    date_end: null
+    location_in_record: ch11:16703-16739
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: f0690aba-c78b-47f4-bb2f-f94ea04d55ee
+      record_title: 'Messengers of Deception: UFO Contacts and Cults'
+      record_date: '0101-01-01'
+      record_reference: null
+      content_hash: sha256:0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5ac9fd3168
+      friendly_name: 0101-01-01-ebook-messengers-of-deception-ufo-contacts-and-cults
+  - claim_id: 13bbcea8-d2d5-472a-8652-287204b4f404
+    claim_hash: 8a3f7c7e7846ecb6d532908716fe3f2a28236156d2097a0c8cbe7680635bc5aa
+    content: Farouk El-Baz came from an Egyptian family with political influence, which was a factor in his acceptance into
+      the Apollo program over objections from Richard Nixon's brother, a senior geologist at Bellcomm.
+    original_excerpt: He also came from a very influential Egyptian family politically (which was how he came to be accepted
+      into the program over the severe *objections* of Richard Nixon's own brother—who was a senior geologist at Bellcom).
+    claim_type: observation
+    attestation: first_hand
+    speaker:
+      node_id: e1650a1d-8feb-4841-a403-0d71e176d2d9
+      title: Richard C. Hoagland
+    provenance_chain:
+      origin_kind: speaker
+      origin: Richard C. Hoagland
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 3491ae64-d16b-4797-8e37-80bb1fe56d1a
+        title: Farouk El-Baz
+        slug: farouk-el-baz
+      - node_id: 3690087e-5e65-4693-8b72-f144d9963dd5
+        title: Richard Nixon
+        slug: richard-nixon
+      - node_id: a0653a49-f574-4fe2-915f-f7edb16f61ca
+        title: Bellcomm, Inc.
+        slug: inc-bellcomm
+    date: null
+    date_end: null
+    location_in_record: ch12:43160-43370
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+      record_title: Dark Mission
+      record_date: '2010-07-22'
+      record_reference: null
+      content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+      friendly_name: null
+  - claim_id: 5d26d7f6-6c27-4bca-963e-f30ae1a9ac7d
+    claim_hash: e3ceec35acb50cc093a7e0a372fe81c8ff98a33f93eef1d2a1114b7d0ff134a2
+    content: Luis Elizondo has reason to believe Richard Nixon was shown images of nonhuman bodies, though Nixon was not taken
+      completely into confidence because he was considered a loose cannon.
+    original_excerpt: Nixon was considered a loose cannon, so he was not taken completely into confidence, but I have reason
+      to believe he was shown images of nonhuman bodies.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+      title: Luis Elizondo
+    provenance_chain:
+      origin_kind: speaker
+      origin: Lue Elizondo
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 30940882-37a5-4db5-980d-282dafd2df49
+        title: Nonhuman intelligence (NHI)
+        slug: nonhuman-intelligence-nhi
+      - node_id: 3690087e-5e65-4693-8b72-f144d9963dd5
+        title: Richard Nixon
+        slug: richard-nixon
+    date: null
+    date_end: null
+    location_in_record: ch31:16501-16647
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  - claim_id: e72be749-9bc0-467a-b699-0ac87d60a67f
+    claim_hash: ebf79e7533930844d7c53d1df28be912339ea25f89960afa3321b1e111b9e048
+    content: Richard Nixon, Jimmy Carter, Ronald Reagan and George H. W. Bush all appear to have received briefings on the
+      UFO subject, according to Jason Samosa's research.
+    original_excerpt: Nixon, Carter, Reagan, Bush, all seem to have received briefings.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: ff0a86b8-8f3c-4291-94ed-c6d303875ce8
+      title: Jason Samosa
+    provenance_chain:
+      origin_kind: speaker
+      origin: Jason Samosa
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 1c74a06c-1b3f-43b4-b54c-3f6b44fd8192
+        title: Ronald Reagan
+        slug: ronald-reagan
+      - node_id: 3690087e-5e65-4693-8b72-f144d9963dd5
+        title: Richard Nixon
+        slug: richard-nixon
+      - node_id: 898c410a-7789-4762-b6dd-1139ced89658
+        title: Jimmy Carter
+        slug: jimmy-carter
+      - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
+        title: Unidentified Flying Object (UFO)
+        slug: unidentified-flying-object-ufo
+      - node_id: dba2f206-7088-4fe9-9fc5-d7228a9149f4
+        title: George Herbert Walker Bush
+        slug: george-herbert-walker-bush
+    date: null
+    date_end: null
+    location_in_record: 00:46:04.1-00:46:07.3
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 64b84f95-238c-4ab7-a678-bee55f985b14
+      record_title: The UFO Cover-Up Leads to One Secret Society — and One Final Event
+      record_date: '2026-07-14'
+      record_reference: https://www.youtube.com/watch?v=kccrkCGGzX4
+      content_hash: sha256:d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7b5a1b98d
+      friendly_name: null
+  - claim_id: 7be64312-c7b5-4528-af89-1659f36042a5
+    claim_hash: 96199762c0839795219ffd9fbd845b14aee2d7dd9133bc6c24e51304e4d3698d
+    content: Bill Clinton and Barack Obama came into office without being connected to the United States establishment, unlike
+      Ronald Reagan, Richard Nixon and the Bush family, in Jason Samosa's view.
+    original_excerpt: Clinton and Obama coming into office really weren't connected to the establishment of the United States.
+      They really were in many ways outsiders who'd started to move inside. ... But that's very different to Reagan, to Nixon
+      and to all of these kind of the Bush family.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: ff0a86b8-8f3c-4291-94ed-c6d303875ce8
+      title: Jason Samosa
+    provenance_chain:
+      origin_kind: speaker
+      origin: Jason Samosa
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 1c74a06c-1b3f-43b4-b54c-3f6b44fd8192
+        title: Ronald Reagan
+        slug: ronald-reagan
+      - node_id: 3690087e-5e65-4693-8b72-f144d9963dd5
+        title: Richard Nixon
+        slug: richard-nixon
+      - node_id: 459eb5cf-ea76-4cad-9421-a726261cd3a2
+        title: Bill Clinton
+        slug: bill-clinton
+      - node_id: 65058869-076f-47d0-92ea-f8daf08b94cf
+        title: Barack Obama
+        slug: barack-obama
+      - node_id: dba2f206-7088-4fe9-9fc5-d7228a9149f4
+        title: George Herbert Walker Bush
+        slug: george-herbert-walker-bush
+    date: null
+    date_end: null
+    location_in_record: 00:46:48.5-00:47:07.4
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 64b84f95-238c-4ab7-a678-bee55f985b14
+      record_title: The UFO Cover-Up Leads to One Secret Society — and One Final Event
+      record_date: '2026-07-14'
+      record_reference: https://www.youtube.com/watch?v=kccrkCGGzX4
+      content_hash: sha256:d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7b5a1b98d
+      friendly_name: null
+  - claim_id: 69f4e9f5-2ec6-405a-b0c4-7261cd091f8b
+    claim_hash: 07b4b8bb16e07bd271911ac492335563af38d51ed255112f3786e59cb1be67d0
+    content: Jesse Michels regards Richard Nixon as a political outsider, citing his origins in Whittier, California, his
+      chip on his shoulder, and his wish to force a reduction in the CIA.
+    original_excerpt: I think of Nixon as kind of an outsider. ... From Whittier, California chip on his shoulder was wanting
+      to do forced reduction in the CIA.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 079d4381-4273-418b-bc9a-468623f95c6e
+      title: Jesse Mitchells
+    provenance_chain:
+      origin_kind: speaker
+      origin: Jesse Michels
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 079d4381-4273-418b-bc9a-468623f95c6e
+        title: Jesse Mitchells
+        slug: jesse-mitchells
+      - node_id: 3690087e-5e65-4693-8b72-f144d9963dd5
+        title: Richard Nixon
+        slug: richard-nixon
+      - node_id: 38b84d4a-96df-4684-bb46-f6f64f392add
+        title: Central Intelligence Agency (CIA)
+        slug: central-intelligence-agency-cia
+      - node_id: aa444365-5da9-49c7-9c87-1d84a720b157
+        title: USA, California, Whittier
+        slug: california-whittier-usa
+    date: null
+    date_end: null
+    location_in_record: 00:47:09.8-00:47:17.7
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 64b84f95-238c-4ab7-a678-bee55f985b14
+      record_title: The UFO Cover-Up Leads to One Secret Society — and One Final Event
+      record_date: '2026-07-14'
+      record_reference: https://www.youtube.com/watch?v=kccrkCGGzX4
+      content_hash: sha256:d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7b5a1b98d
+      friendly_name: null
+  - claim_id: 469b5d68-0322-44db-a27c-bdb323ee5e13
+    claim_hash: d912592499017460f98941d4ff3d44b0a36206b94db8dbc8f238ace2a0c6a869
+    content: The CIA was always against Richard Nixon and he was ousted in a very artificial way, in Jesse Michels's view.
+    original_excerpt: He was always against him and was ousted. I think in a very artificial way.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 079d4381-4273-418b-bc9a-468623f95c6e
+      title: Jesse Mitchells
+    provenance_chain:
+      origin_kind: speaker
+      origin: Jesse Michels
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 079d4381-4273-418b-bc9a-468623f95c6e
+        title: Jesse Mitchells
+        slug: jesse-mitchells
+      - node_id: 3690087e-5e65-4693-8b72-f144d9963dd5
+        title: Richard Nixon
+        slug: richard-nixon
+      - node_id: 38b84d4a-96df-4684-bb46-f6f64f392add
+        title: Central Intelligence Agency (CIA)
+        slug: central-intelligence-agency-cia
+    date: null
+    date_end: null
+    location_in_record: 00:47:18.4-00:47:22.4
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 64b84f95-238c-4ab7-a678-bee55f985b14
+      record_title: The UFO Cover-Up Leads to One Secret Society — and One Final Event
+      record_date: '2026-07-14'
+      record_reference: https://www.youtube.com/watch?v=kccrkCGGzX4
+      content_hash: sha256:d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7b5a1b98d
+      friendly_name: null
+  - claim_id: 8f6fdca9-a763-4a85-9287-5e2b9dfc4844
+    claim_hash: ffc998122b3d800c6d29adb0bf78c9676a33f40b3257bb676aea68d90e8758e5
+    content: Jesse Michels considers Henry Kissinger to have been more beholden to Nelson Rockefeller than to Richard Nixon
+      throughout his tenure as Secretary of State under Nixon.
+    original_excerpt: Kissinger was probably more beholden to Nelson Rockefeller than he was to Nixon throughout his tenure
+      as secretary of state under Nixon.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 079d4381-4273-418b-bc9a-468623f95c6e
+      title: Jesse Mitchells
+    provenance_chain:
+      origin_kind: speaker
+      origin: Jesse Michels
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 079d4381-4273-418b-bc9a-468623f95c6e
+        title: Jesse Mitchells
+        slug: jesse-mitchells
+      - node_id: 0c444899-f412-4dd4-aa47-0d6677ec405c
+        title: Henry Kissinger
+        slug: henry-kissinger
+      - node_id: 10cb6ee5-5e97-422f-8d26-e2606d62bb0e
+        title: Nelson Rockefeller
+        slug: nelson-rockefeller
+      - node_id: 3690087e-5e65-4693-8b72-f144d9963dd5
+        title: Richard Nixon
+        slug: richard-nixon
+    date: null
+    date_end: null
+    location_in_record: 01:32:48.7-01:32:55.7
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 64b84f95-238c-4ab7-a678-bee55f985b14
+      record_title: The UFO Cover-Up Leads to One Secret Society — and One Final Event
+      record_date: '2026-07-14'
+      record_reference: https://www.youtube.com/watch?v=kccrkCGGzX4
+      content_hash: sha256:d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7b5a1b98d
+      friendly_name: null
+  - claim_id: 47508ca7-936d-4769-8ac5-f2b941c1cb9b
+    claim_hash: 427c6f3f22bf827aa5ba9924d68841cec9783454a9ec141abbc49887d3e5087c
+    content: Whitley Strieber holds that Harry Truman would certainly have been asked about the UFO subject, and that Dwight
+      Eisenhower and Richard Nixon would have known about it.
+    original_excerpt: Truman certainly would have been asked about that, uh Eisenhower would have known about it, Nixon would
+      have known about it,
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+      title: Whitley Strieber
+    provenance_chain:
+      origin_kind: speaker
+      origin: Whitley Strieber
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 3690087e-5e65-4693-8b72-f144d9963dd5
+        title: Richard Nixon
+        slug: richard-nixon
+      - node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+        title: Whitley Strieber
+        slug: whitley-strieber
+      - node_id: 589d7469-f87f-4da5-afa8-cabca7be6818
+        title: Harry S. Truman
+        slug: harry-s-truman
+      - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
+        title: Unidentified Flying Object (UFO)
+        slug: unidentified-flying-object-ufo
+      - node_id: f175f6db-6c31-49bc-9ca8-0e4487fd7d39
+        title: Dwight D. Eisenhower
+        slug: dwight-d-eisenhower
+    date: null
+    date_end: null
+    location_in_record: 01:29:45.4-01:29:56.0
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 9302c6b2-133d-4cbb-adfa-5d1f0bd3e7ac
+      record_title: The Terrible Truth About the Visitors - Whitley Strieber | ep. 96
+      record_date: '2026-07-24'
+      record_reference: https://www.youtube.com/watch?v=Cv-sk4vt-qU
+      content_hash: sha256:456dbde0ab82ee8e216bdad2d1a0bf2a0b42622a167af19058f973050b035084
+      friendly_name: null

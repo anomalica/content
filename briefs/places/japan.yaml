@@ -1,0 +1,378 @@
+schema: anomalica/brief/1
+brief_hash: a2ab5a1c184231b2c114deba213436a4c08108645fd3c49ed7ad3c55fea10a09
+page:
+  kind: entity
+  node_id: b06ea490-a6ad-4388-a7ad-6c65faa82902
+  node_type: place
+  title: Japan
+  slug: japan
+  claim_count: 8
+  claim_count_total: 8
+generated:
+  graph_version: '2026-09-01T10:10:49.863545+00:00'
+size:
+  claims: 8
+  tokens_estimated: 2081
+  sized_against: 1050000
+publication:
+  status: published
+  note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
+    transcripts are gated elsewhere.
+belonging:
+  verified: 0
+  suspect_excluded: 0
+  unreviewed: 8
+related_nodes:
+  - node_id: 91228f6b-79b5-483a-a62b-c98f5eed12ab
+    title: Jason Quitt
+    node_type: person
+    slug: jason-quitt
+    shared_claims: 3
+  - node_id: fba1d3a4-e03d-4bcd-9df5-6b088b495fe6
+    title: Buddhism
+    node_type: topic
+    slug: buddhism
+    shared_claims: 2
+  - node_id: 1fef54f7-1464-4695-93e5-04d205c3b6d9
+    title: Jason Quitt's 2017 fall down stairs and broken back
+    node_type: event
+    slug: jason-quitts-2017-fall-down-stairs-and-broken-back
+    shared_claims: 2
+  - node_id: afa8522c-cb97-4680-94e5-530d910f6bc8
+    title: Shinto
+    node_type: topic
+    slug: shinto
+    shared_claims: 2
+  - node_id: d72eaf29-0682-4094-88bc-9b2d1c07527e
+    title: Kami (Shinto nature spirits)
+    node_type: topic
+    slug: kami-shinto-nature-spirits
+    shared_claims: 1
+  - node_id: a7726ea1-8d0d-4d27-bdba-be309f70fea1
+    title: Liberation Times
+    node_type: organisation
+    slug: liberation-times
+    shared_claims: 1
+  - node_id: 5e00bba1-273a-43e8-84bd-bc4ad9b19358
+    title: Shamanism
+    node_type: topic
+    slug: shamanism
+    shared_claims: 1
+  - node_id: dd9b1445-e42b-4165-924a-a4d526e3f597
+    title: Spirits of nature
+    node_type: topic
+    slug: spirits-of-nature
+    shared_claims: 1
+  - node_id: 8db52f05-ad79-434c-96cb-976f86083be7
+    title: Zen
+    node_type: topic
+    slug: zen
+    shared_claims: 1
+claims:
+  - claim_id: 46b89065-4212-45bd-b078-02daab2ebfb8
+    claim_hash: 4872e6b34288cd96f7eb224b476cb8cbcf888d47dd097420b98c5d1a0095b433
+    content: The traditional and original religion of Japan is Shinto.
+    original_excerpt: The traditional and original religion of Japan is Shinto.
+    claim_type: observation
+    attestation: first_hand
+    speaker:
+      node_id: 9caa600b-5ac0-4ec4-b956-10e029417fc8
+      title: Joseph McMoneagle
+    provenance_chain:
+      origin_kind: speaker
+      origin: Joseph McMoneagle
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: afa8522c-cb97-4680-94e5-530d910f6bc8
+        title: Shinto
+        slug: shinto
+      - node_id: b06ea490-a6ad-4388-a7ad-6c65faa82902
+        title: Japan
+        slug: japan
+    date: null
+    date_end: null
+    location_in_record: ch11:176-226
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 6e543cda-3973-4882-854c-929a9aa608ab
+      record_title: Remote Viewing Secrets
+      record_date: '2013-03-22'
+      record_reference: null
+      content_hash: sha256:498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4d6dbbe35
+      friendly_name: 2013-03-22-ebook-remote-viewing-secrets
+  - claim_id: a4e3ed4f-fc23-4b49-89d5-1392d60e317a
+    claim_hash: aade69fbd83a1f6a598c7d3577e713c3807400c395094debd08056158b60605d
+    content: Buddhism arrived in Japan in the year 538.
+    original_excerpt: to include the coming of Buddhism in the year 538
+    claim_type: observation
+    attestation: first_hand
+    speaker:
+      node_id: 9caa600b-5ac0-4ec4-b956-10e029417fc8
+      title: Joseph McMoneagle
+    provenance_chain:
+      origin_kind: speaker
+      origin: Joseph McMoneagle
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: b06ea490-a6ad-4388-a7ad-6c65faa82902
+        title: Japan
+        slug: japan
+      - node_id: fba1d3a4-e03d-4bcd-9df5-6b088b495fe6
+        title: Buddhism
+        slug: buddhism
+    date: 0538
+    date_end: null
+    location_in_record: ch11:423-469
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 6e543cda-3973-4882-854c-929a9aa608ab
+      record_title: Remote Viewing Secrets
+      record_date: '2013-03-22'
+      record_reference: null
+      content_hash: sha256:498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4d6dbbe35
+      friendly_name: 2013-03-22-ebook-remote-viewing-secrets
+  - claim_id: 5e70ab2a-71a5-4834-a281-1f4977fcf37d
+    claim_hash: cc8518b67bff0cddb12d8b12ed7e823ea4afc109d6c594cf6b71b76bdc25d173
+    content: Zen was introduced to Japan sometime during the thirteenth century, as a result of varying changes to Buddhism.
+    original_excerpt: As a result of varying changes to Buddhism, Zen was introduced to Japan sometime during the thirteenth
+      century.
+    claim_type: observation
+    attestation: first_hand
+    speaker:
+      node_id: 9caa600b-5ac0-4ec4-b956-10e029417fc8
+      title: Joseph McMoneagle
+    provenance_chain:
+      origin_kind: speaker
+      origin: Joseph McMoneagle
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 8db52f05-ad79-434c-96cb-976f86083be7
+        title: Zen
+        slug: zen
+      - node_id: b06ea490-a6ad-4388-a7ad-6c65faa82902
+        title: Japan
+        slug: japan
+      - node_id: fba1d3a4-e03d-4bcd-9df5-6b088b495fe6
+        title: Buddhism
+        slug: buddhism
+    date: null
+    date_end: null
+    location_in_record: ch11:474-577
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 6e543cda-3973-4882-854c-929a9aa608ab
+      record_title: Remote Viewing Secrets
+      record_date: '2013-03-22'
+      record_reference: null
+      content_hash: sha256:498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4d6dbbe35
+      friendly_name: 2013-03-22-ebook-remote-viewing-secrets
+  - claim_id: 0110d777-ed5f-47cc-b2e3-2ad7aa669a00
+    claim_hash: ce9a49c25cf34da768012e36f34aa2e8d9344e59ec3db74da3fea98621cc86b5
+    content: 'In shamanism the concept is called the spirits of nature, and in Japanese Shinto it is called the kami: a collective
+      spirit whereby everything has a spirit.'
+    original_excerpt: there's this concept in shamanism and it's called, uh, the spirits of nature or in, in Japanese or in
+      Shinto, it's called the kami. And it's basically like a collective spirit that everything has a spirit.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 91228f6b-79b5-483a-a62b-c98f5eed12ab
+      title: Jason Quitt
+    provenance_chain:
+      origin_kind: speaker
+      origin: Jason Quitt
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 5e00bba1-273a-43e8-84bd-bc4ad9b19358
+        title: Shamanism
+        slug: shamanism
+      - node_id: afa8522c-cb97-4680-94e5-530d910f6bc8
+        title: Shinto
+        slug: shinto
+      - node_id: b06ea490-a6ad-4388-a7ad-6c65faa82902
+        title: Japan
+        slug: japan
+      - node_id: d72eaf29-0682-4094-88bc-9b2d1c07527e
+        title: Kami (Shinto nature spirits)
+        slug: kami-shinto-nature-spirits
+      - node_id: dd9b1445-e42b-4165-924a-a4d526e3f597
+        title: Spirits of nature
+        slug: spirits-of-nature
+    date: null
+    date_end: null
+    location_in_record: 00:38:24.2-00:38:36.2
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: b0f8ff5d-db19-45e1-abaa-391d63833bec
+      record_title: Researcher Describes Strange Encounters With Other Beings - Jason Quitt | Ep. 98
+      record_date: '2026-08-07'
+      record_reference: https://www.youtube.com/watch?v=JsPE3o-PJms
+      content_hash: sha256:474630c81ceb39029e473c41a62306341a264aa94e100930de6ceb845884cf57
+      friendly_name: null
+  - claim_id: 60968d99-e97f-4ce4-8fc1-031a9943ebe8
+    claim_hash: 4a519ceda8f0c31400db5ca544406c3a80869711326132cbeae1529697ce470a
+    content: Jason Quitt travels to Japan frequently, and had to cancel a trip to Japan planned for about a week after he
+      broke his back in 2017.
+    original_excerpt: I go to Japan quite frequently and it was like a week before I was going to go to Japan. So I had to
+      cancel my trip.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 91228f6b-79b5-483a-a62b-c98f5eed12ab
+      title: Jason Quitt
+    provenance_chain:
+      origin_kind: speaker
+      origin: Jason Quitt
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 1fef54f7-1464-4695-93e5-04d205c3b6d9
+        title: Jason Quitt's 2017 fall down stairs and broken back
+        slug: jason-quitts-2017-fall-down-stairs-and-broken-back
+      - node_id: 91228f6b-79b5-483a-a62b-c98f5eed12ab
+        title: Jason Quitt
+        slug: jason-quitt
+      - node_id: b06ea490-a6ad-4388-a7ad-6c65faa82902
+        title: Japan
+        slug: japan
+    date: '2017'
+    date_end: null
+    location_in_record: 01:02:45.2-01:02:50.5
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: b0f8ff5d-db19-45e1-abaa-391d63833bec
+      record_title: Researcher Describes Strange Encounters With Other Beings - Jason Quitt | Ep. 98
+      record_date: '2026-08-07'
+      record_reference: https://www.youtube.com/watch?v=JsPE3o-PJms
+      content_hash: sha256:474630c81ceb39029e473c41a62306341a264aa94e100930de6ceb845884cf57
+      friendly_name: null
+  - claim_id: f733902e-9386-4063-8dbf-7e195ebd7149
+    claim_hash: d2a4445fc859ebd90b42e88319416b79844e72bd0dd2df79d0433c4b296cdbcb
+    content: Immediately after breaking his back, Jason Quitt told his friends to set a date because he would be in Japan
+      within three months.
+    original_excerpt: this was like right after the accident, I said to my friends, don't worry, just set the date I'll be
+      in Japan in three months
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 91228f6b-79b5-483a-a62b-c98f5eed12ab
+      title: Jason Quitt
+    provenance_chain:
+      origin_kind: speaker
+      origin: Jason Quitt
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 1fef54f7-1464-4695-93e5-04d205c3b6d9
+        title: Jason Quitt's 2017 fall down stairs and broken back
+        slug: jason-quitts-2017-fall-down-stairs-and-broken-back
+      - node_id: 91228f6b-79b5-483a-a62b-c98f5eed12ab
+        title: Jason Quitt
+        slug: jason-quitt
+      - node_id: b06ea490-a6ad-4388-a7ad-6c65faa82902
+        title: Japan
+        slug: japan
+    date: null
+    date_end: null
+    location_in_record: 01:03:06.9-01:03:12.9
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: b0f8ff5d-db19-45e1-abaa-391d63833bec
+      record_title: Researcher Describes Strange Encounters With Other Beings - Jason Quitt | Ep. 98
+      record_date: '2026-08-07'
+      record_reference: https://www.youtube.com/watch?v=JsPE3o-PJms
+      content_hash: sha256:474630c81ceb39029e473c41a62306341a264aa94e100930de6ceb845884cf57
+      friendly_name: null
+  - claim_id: 3e932170-b631-4ab4-ab33-debdcafca54c
+    claim_hash: 1c8bb0cc9e7bf72ac8eaf06f1b1eee9d0a823949bbff4018fec7eb87117a6da3
+    content: Jason Quitt was in Japan three months after breaking his back, as he had convinced himself he would be.
+    original_excerpt: Convincing myself that I'm going to be in Japan in three months. ... And I was.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 91228f6b-79b5-483a-a62b-c98f5eed12ab
+      title: Jason Quitt
+    provenance_chain:
+      origin_kind: speaker
+      origin: Jason Quitt
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 91228f6b-79b5-483a-a62b-c98f5eed12ab
+        title: Jason Quitt
+        slug: jason-quitt
+      - node_id: b06ea490-a6ad-4388-a7ad-6c65faa82902
+        title: Japan
+        slug: japan
+    date: null
+    date_end: null
+    location_in_record: 01:03:17.6-01:03:20.3
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: b0f8ff5d-db19-45e1-abaa-391d63833bec
+      record_title: Researcher Describes Strange Encounters With Other Beings - Jason Quitt | Ep. 98
+      record_date: '2026-08-07'
+      record_reference: https://www.youtube.com/watch?v=JsPE3o-PJms
+      content_hash: sha256:474630c81ceb39029e473c41a62306341a264aa94e100930de6ceb845884cf57
+      friendly_name: null
+  - claim_id: 69f0bc0c-7235-417f-b602-5dccf763404a
+    claim_hash: 42c717600cd3754d6b3e03ac76703307682bb218de222f104d712a15f95381a3
+    content: An anonymous source claiming knowledge of the matter told Liberation Times that similar episodes of rapid acceleration
+      have been observed in the vicinity of Japan.
+    original_excerpt: as well as similar episodes of rapid acceleration observed in the vicinity of Japan
+    claim_type: hearsay
+    attestation: second_hand
+    speaker:
+      node_id: e921bccc-8a7a-4279-9873-8f3a5997be16
+      title: Christopher Sharp
+    provenance_chain:
+      origin_kind: anonymous
+      origin: a person claiming knowledge of United States government data on UAP incidents
+      relay:
+        - Liberation Times
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: a7726ea1-8d0d-4d27-bdba-be309f70fea1
+        title: Liberation Times
+        slug: liberation-times
+      - node_id: b06ea490-a6ad-4388-a7ad-6c65faa82902
+        title: Japan
+        slug: japan
+    date: null
+    date_end: null
+    location_in_record: char:6187-6265
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3b884786-04ff-4e4b-816f-621161e9d948
+      record_title: Pressure Mounts on President Trump as UAP Disclosure Advocates Intensify Their Push
+      record_date: '2026-08-19'
+      record_reference: https://www.liberationtimes.com/home/the-push-for-ufo-disclosure-intensifies-as-pressure-mounts-on-donald-trump
+      content_hash: sha256:dc288b5d31307a5eb396b1ecc4f3e2ee1e01673ec8707bb47111173faa83e683
+      friendly_name: null

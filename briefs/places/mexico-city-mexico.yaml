@@ -1,0 +1,566 @@
+schema: anomalica/brief/1
+brief_hash: 506dc49185c8409b0bebba48a0851adb50b7585b55e115b5d36f213c31ced6cf
+page:
+  kind: entity
+  node_id: 25b252fa-d1d5-4e45-a936-75ee31fd1d62
+  node_type: place
+  title: Mexico, Mexico City
+  slug: mexico-city-mexico
+  claim_count: 12
+  claim_count_total: 12
+generated:
+  graph_version: '2026-09-01T10:10:49.863545+00:00'
+size:
+  claims: 12
+  tokens_estimated: 3561
+  sized_against: 1050000
+publication:
+  status: published
+  note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
+    transcripts are gated elsewhere.
+belonging:
+  verified: 0
+  suspect_excluded: 0
+  unreviewed: 12
+related_nodes:
+  - node_id: 7565adda-52af-41ad-8dde-f797e3e8a2fd
+    title: Juan Diego
+    node_type: person
+    slug: juan-diego
+    shared_claims: 5
+  - node_id: ebaa1ccb-272f-46a4-9b2e-933a91613996
+    title: 1531 Our Lady of Guadalupe apparition, Mexico
+    node_type: event
+    slug: mexico-1531-our-lady-of-guadalupe-apparition
+    shared_claims: 3
+  - node_id: 5184c2a5-ce2f-4148-a597-a7740969898b
+    title: Image of Guadalupe
+    node_type: object
+    slug: image-of-guadalupe
+    shared_claims: 2
+  - node_id: 29089c3a-ed2c-4ca5-8269-0b39e6700a5b
+    title: Mexico, Guadalupe apparition (1531)
+    node_type: event
+    slug: guadalupe-apparition-1531-mexico
+    shared_claims: 2
+  - node_id: 7afe3a5e-5d91-4a48-b48f-3c8c079f2521
+    title: Austria
+    node_type: place
+    slug: austria
+    shared_claims: 1
+  - node_id: 34cbcce0-b88a-4057-8691-635f2902c481
+    title: Italy, Rome
+    node_type: place
+    slug: rome-italy
+    shared_claims: 1
+  - node_id: 4484f20d-af42-40af-b0ab-964afae98ec7
+    title: John Paul II
+    node_type: person
+    slug: john-paul-ii
+    shared_claims: 1
+  - node_id: e1511eae-f12b-44dd-b5ae-a630edb2c8ef
+    title: Mexico City Unidentified Flying Object (UFO) sightings (1999-01-22 to 1999-01-26)
+    node_type: event
+    slug: mexico-city-unidentified-flying-object-ufo-sightings-1999-01-22-to-1999-01-26
+    shared_claims: 1
+  - node_id: c52a94e5-44d1-47c0-9222-eb9e3feb8f8e
+    title: Mexico City earthquake of 1983
+    node_type: event
+    slug: mexico-city-earthquake-of-1983
+    shared_claims: 1
+  - node_id: 6e230da1-2d10-4a16-920d-3dbc2369e898
+    title: Michael Hesemann
+    node_type: person
+    slug: michael-hesemann
+    shared_claims: 1
+  - node_id: 1afe4a43-ac33-4142-bc75-989df51a628b
+    title: Nuño de Guzmán
+    node_type: person
+    slug: nuno-de-guzman
+    shared_claims: 1
+  - node_id: 39fedea5-7e5d-4af4-a829-bf842f70d142
+    title: Spain, Garabandal
+    node_type: place
+    slug: garabandal-spain
+    shared_claims: 1
+  - node_id: 2e6ef937-4471-457c-b4fa-7e078cf3baf6
+    title: USA
+    node_type: place
+    slug: usa
+    shared_claims: 1
+  - node_id: c03bb60a-63f8-4242-808e-128703673fff
+    title: USA, New York, upstate New York cabin of Whitley Strieber
+    node_type: place
+    slug: new-york-upstate-new-york-cabin-of-whitley-strieber-usa
+    shared_claims: 1
+  - node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+    title: Whitley Strieber
+    node_type: person
+    slug: whitley-strieber
+    shared_claims: 1
+  - node_id: dd80ae73-0669-41a6-ad2a-c32baa919955
+    title: Zumárraga (Bishop)
+    node_type: person
+    slug: zumarraga-bishop
+    shared_claims: 1
+claims:
+  - claim_id: 25db1d3e-bd9b-46a8-a105-aa740b2a87a3
+    claim_hash: c2621126afae3da230e9c87bfa16522dd34f2126ed49b86679d2bbf22526ee6b
+    content: An investigative committee set up by the archbishop of Mexico City found that the bearded face reflected in the
+      eye of the Image of Guadalupe resembled the oldest known portrait of Juan Diego.
+    original_excerpt: Salinas told the archbishop of Mexico City about this and he set up a committee to investigate it further.
+      Experts found that the bearded face looked like the oldest known portrait of Juan Diego.
+    claim_type: observation
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 25b252fa-d1d5-4e45-a936-75ee31fd1d62
+        title: Mexico, Mexico City
+        slug: mexico-city-mexico
+      - node_id: 5184c2a5-ce2f-4148-a597-a7740969898b
+        title: Image of Guadalupe
+        slug: image-of-guadalupe
+      - node_id: 7565adda-52af-41ad-8dde-f797e3e8a2fd
+        title: Juan Diego
+        slug: juan-diego
+    date: null
+    date_end: null
+    location_in_record: ch20:11399-11588
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 171e1337-151f-40c5-8b9a-659faac4c5f6
+      record_title: The Fatima Secret
+      record_date: '2000-11-28'
+      record_reference: null
+      content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
+      friendly_name: 2000-11-28-ebook-the-fatima-secret
+  - claim_id: 0cdad31c-6363-4f4d-ba2a-b19e9f975111
+    claim_hash: aa97bddf8e351212cd613612f9f7a45828433d33699a172fbd9e82f4e9b73fdc
+    content: In 1528 the Spanish emperor appointed a committee of five officials, headed by Nuño de Guzmán, to administer
+      the conquered territories in Mexico.
+    original_excerpt: In 1528 the emperor also appointed a committee of five officials to administer the conquered territories
+      in Mexico. The head of the committee was Don Nuño de Guzmán, who soon revealed himself to be a remorseless tyrant and
+      oppressor.
+    claim_type: observation
+    attestation: first_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: speaker
+      origin: Michael Hesemann
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 1afe4a43-ac33-4142-bc75-989df51a628b
+        title: Nuño de Guzmán
+        slug: nuno-de-guzman
+      - node_id: 25b252fa-d1d5-4e45-a936-75ee31fd1d62
+        title: Mexico, Mexico City
+        slug: mexico-city-mexico
+    date: '1528'
+    date_end: null
+    location_in_record: ch20:1185-1408
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 171e1337-151f-40c5-8b9a-659faac4c5f6
+      record_title: The Fatima Secret
+      record_date: '2000-11-28'
+      record_reference: null
+      content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
+      friendly_name: 2000-11-28-ebook-the-fatima-secret
+  - claim_id: c0d458db-32d5-4c7d-a233-c3e035a3677f
+    claim_hash: 6791ab61460eceb67ee20a790ace38c1ac92c10f7f09c8cbdbc54c4cb4007163
+    content: The stars on the cloak of the Image of Guadalupe exactly reflect, in reverse order like a mirror image, the constellations
+      as seen in the sky above Mexico City at dawn on 1531-12-12.
+    original_excerpt: Another amazing detail is that the stars on the cloak of the Madonna exactly reflect the constellations
+      as seen in the sky above Mexico City on December 12, 1531, at dawn, but in reverse order like a mirror image.
+    claim_type: observation
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 25b252fa-d1d5-4e45-a936-75ee31fd1d62
+        title: Mexico, Mexico City
+        slug: mexico-city-mexico
+      - node_id: 5184c2a5-ce2f-4148-a597-a7740969898b
+        title: Image of Guadalupe
+        slug: image-of-guadalupe
+    date: '1531-12-12'
+    date_end: null
+    location_in_record: ch20:14026-14233
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 171e1337-151f-40c5-8b9a-659faac4c5f6
+      record_title: The Fatima Secret
+      record_date: '2000-11-28'
+      record_reference: null
+      content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
+      friendly_name: 2000-11-28-ebook-the-fatima-secret
+  - claim_id: 9fb0f2ee-2bd5-4bb0-bacf-e1bae60af9a1
+    claim_hash: 4917e1415873e3b1b93ee5794c9ccf0a412e6f4a7310f0c533df092142681786
+    content: The apparition instructed Juan Diego to go to the bishop of Mexico City and tell him she wished a temple built
+      on the Tepeyac hill.
+    original_excerpt: '"Go to the house of the bishop in the city of Mexico, tell him that I have sent you and that I want
+      a temple to be built here. Tell him what you have seen."'
+    claim_type: hearsay
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 25b252fa-d1d5-4e45-a936-75ee31fd1d62
+        title: Mexico, Mexico City
+        slug: mexico-city-mexico
+      - node_id: 29089c3a-ed2c-4ca5-8269-0b39e6700a5b
+        title: Mexico, Guadalupe apparition (1531)
+        slug: guadalupe-apparition-1531-mexico
+      - node_id: 7565adda-52af-41ad-8dde-f797e3e8a2fd
+        title: Juan Diego
+        slug: juan-diego
+    date: null
+    date_end: null
+    location_in_record: ch20:3271-3420
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 171e1337-151f-40c5-8b9a-659faac4c5f6
+      record_title: The Fatima Secret
+      record_date: '2000-11-28'
+      record_reference: null
+      content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
+      friendly_name: 2000-11-28-ebook-the-fatima-secret
+  - claim_id: 59746661-b0f5-49b6-84bc-ef369b5736e5
+    claim_hash: 3452285a220f52a31364e926305359c9fbce29ed2dd9ddea61dfde80ebea6794
+    content: Juan Diego went to Mexico City and to the residence of Bishop Zumárraga to deliver the message.
+    original_excerpt: Juan Diego hurried off by the quickest way to Mexico City. He entered the city while most of the people
+      there were still sleeping and went straight to the house of Bishop Zumárraga.
+    claim_type: hearsay
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 25b252fa-d1d5-4e45-a936-75ee31fd1d62
+        title: Mexico, Mexico City
+        slug: mexico-city-mexico
+      - node_id: 7565adda-52af-41ad-8dde-f797e3e8a2fd
+        title: Juan Diego
+        slug: juan-diego
+      - node_id: dd80ae73-0669-41a6-ad2a-c32baa919955
+        title: Zumárraga (Bishop)
+        slug: zumarraga-bishop
+    date: null
+    date_end: null
+    location_in_record: ch20:3546-3721
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 171e1337-151f-40c5-8b9a-659faac4c5f6
+      record_title: The Fatima Secret
+      record_date: '2000-11-28'
+      record_reference: null
+      content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
+      friendly_name: 2000-11-28-ebook-the-fatima-secret
+  - claim_id: 5ded9a10-1645-405c-9e5c-c4071bbe00d8
+    claim_hash: abc216210242401bc25d4be708e15145c56808b1da906dbb4cd74824633e36a2
+    content: Michael Hesemann considers that the sixteenth-century Guadalupe apparition demonstrates the mind's extraordinary
+      insight into the workings of human society, as shown by the vast cultural changes in Mexico that resulted from it.
+    original_excerpt: And as long ago as the sixteenth century it could have extraordinary insight into the workings of human
+      society, as is shown by the vast cultural changes that took place in Mexico as a result of the apparition at Guadalupe.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 6e230da1-2d10-4a16-920d-3dbc2369e898
+      title: Michael Hesemann
+    provenance_chain:
+      origin_kind: speaker
+      origin: Michael Hesemann
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 25b252fa-d1d5-4e45-a936-75ee31fd1d62
+        title: Mexico, Mexico City
+        slug: mexico-city-mexico
+      - node_id: 29089c3a-ed2c-4ca5-8269-0b39e6700a5b
+        title: Mexico, Guadalupe apparition (1531)
+        slug: guadalupe-apparition-1531-mexico
+    date: null
+    date_end: null
+    location_in_record: ch4:26139-26352
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 171e1337-151f-40c5-8b9a-659faac4c5f6
+      record_title: The Fatima Secret
+      record_date: '2000-11-28'
+      record_reference: null
+      content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
+      friendly_name: 2000-11-28-ebook-the-fatima-secret
+  - claim_id: 7e9fc104-851a-4a1c-99fc-170a23f49e5f
+    claim_hash: 886b2b598e82218c6ed187c80e7573e18ace31c595156a25b78e201764c4dfbe
+    content: When John Paul II visited Mexico City on 1999-01-22 to 1999-01-26, thousands of witnesses saw and filmed large
+      formations of luminous craft.
+    original_excerpt: When Pope John Paul II visited Mexico City on January 22–26, 1999, thousands of witnesses saw and filmed
+      large formations of luminous craft, as if they had come to greet the ailing pontiff.
+    claim_type: observation
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: narration
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 25b252fa-d1d5-4e45-a936-75ee31fd1d62
+        title: Mexico, Mexico City
+        slug: mexico-city-mexico
+      - node_id: 4484f20d-af42-40af-b0ab-964afae98ec7
+        title: John Paul II
+        slug: john-paul-ii
+      - node_id: e1511eae-f12b-44dd-b5ae-a630edb2c8ef
+        title: Mexico City Unidentified Flying Object (UFO) sightings (1999-01-22 to 1999-01-26)
+        slug: mexico-city-unidentified-flying-object-ufo-sightings-1999-01-22-to-1999-01-26
+    date: '1999-01-22'
+    date_end: null
+    location_in_record: ch5:4660-4841
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 171e1337-151f-40c5-8b9a-659faac4c5f6
+      record_title: The Fatima Secret
+      record_date: '2000-11-28'
+      record_reference: null
+      content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
+      friendly_name: 2000-11-28-ebook-the-fatima-secret
+  - claim_id: 07fee8ef-dc34-4330-83eb-4e24abd7045b
+    claim_hash: 0f4a2899cbf333730552d6118852c5017f020a7b524edb885f6ede7be58e3286
+    content: Michael Hesemann visited sites of Marian apparitions in Mexico, Italy, Austria, Hungary, Spain, Bosnia and Herzegovina,
+      Germany, and the United States.
+    original_excerpt: I'd visited the sights of other apparitions, in Mexico, Italy, Austria, Hungary, Spain, Bosnia, Germany,
+      and the United States.
+    claim_type: administrative
+    attestation: first_hand
+    speaker:
+      node_id: 6e230da1-2d10-4a16-920d-3dbc2369e898
+      title: Michael Hesemann
+    provenance_chain:
+      origin_kind: speaker
+      origin: Michael Hesemann
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 25b252fa-d1d5-4e45-a936-75ee31fd1d62
+        title: Mexico, Mexico City
+        slug: mexico-city-mexico
+      - node_id: 2e6ef937-4471-457c-b4fa-7e078cf3baf6
+        title: USA
+        slug: usa
+      - node_id: 34cbcce0-b88a-4057-8691-635f2902c481
+        title: Italy, Rome
+        slug: rome-italy
+      - node_id: 39fedea5-7e5d-4af4-a829-bf842f70d142
+        title: Spain, Garabandal
+        slug: garabandal-spain
+      - node_id: 6e230da1-2d10-4a16-920d-3dbc2369e898
+        title: Michael Hesemann
+        slug: michael-hesemann
+      - node_id: 7afe3a5e-5d91-4a48-b48f-3c8c079f2521
+        title: Austria
+        slug: austria
+    date: null
+    date_end: null
+    location_in_record: ch7:5137-5257
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 171e1337-151f-40c5-8b9a-659faac4c5f6
+      record_title: The Fatima Secret
+      record_date: '2000-11-28'
+      record_reference: null
+      content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
+      friendly_name: 2000-11-28-ebook-the-fatima-secret
+  - claim_id: ccfdf035-96ce-498a-9cd3-cd780693fecc
+    claim_hash: 2fe7daacfb9b65c1a11526d1518cd7a9e0431d6c614c766f5ede2874ff45b6f7
+    content: The apparition to Juan Diego took place on 1531-12-09 in Mexico.
+    original_excerpt: The apparition took place on December 9, 1531, in Mexico.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 25b252fa-d1d5-4e45-a936-75ee31fd1d62
+        title: Mexico, Mexico City
+        slug: mexico-city-mexico
+      - node_id: 7565adda-52af-41ad-8dde-f797e3e8a2fd
+        title: Juan Diego
+        slug: juan-diego
+      - node_id: ebaa1ccb-272f-46a4-9b2e-933a91613996
+        title: 1531 Our Lady of Guadalupe apparition, Mexico
+        slug: mexico-1531-our-lady-of-guadalupe-apparition
+    date: '1531-12-09'
+    date_end: null
+    location_in_record: ch15:41226-41276
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 220315f4-29cd-4c89-8860-44f95613d98f
+      record_title: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About UFO Influences on the Human Race'
+      record_date: '2014-09-27'
+      record_reference: null
+      content_hash: sha256:5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b8489cc11c26
+      friendly_name: 2014-09-27-ebook-the-invisible-college-what-a-group-of-scientists-has
+  - claim_id: ae9981f5-05a3-4d56-8b87-a9fc444c5106
+    claim_hash: b024f28a966eb33da767c68c091dadcdd5de38b820c2ddd02fd1f2a572b7da64
+    content: A basilica was built at the site of the 1531 Our Lady of Guadalupe apparition and immense crowds converted to
+      Christianity.
+    original_excerpt: A basilica was built and immense crowds converted.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 25b252fa-d1d5-4e45-a936-75ee31fd1d62
+        title: Mexico, Mexico City
+        slug: mexico-city-mexico
+      - node_id: ebaa1ccb-272f-46a4-9b2e-933a91613996
+        title: 1531 Our Lady of Guadalupe apparition, Mexico
+        slug: mexico-1531-our-lady-of-guadalupe-apparition
+    date: null
+    date_end: null
+    location_in_record: ch15:41751-41791
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 220315f4-29cd-4c89-8860-44f95613d98f
+      record_title: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About UFO Influences on the Human Race'
+      record_date: '2014-09-27'
+      record_reference: null
+      content_hash: sha256:5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b8489cc11c26
+      friendly_name: 2014-09-27-ebook-the-invisible-college-what-a-group-of-scientists-has
+  - claim_id: 7bcc1a3a-8155-4beb-8987-621c1d6ecab8
+    claim_hash: 5d2d9a50008f7f1e438133b4e9a508da284279517748c8e792154bfe53a937c5
+    content: On 1531-12-09, Juan Diego met the entity, who told him to instruct the Lord Bishop in Mexico City to build a
+      chapel; the Bishop thought Juan was insane.
+    original_excerpt: On Saturday, December 9, Juan Diego meets the entity and is told to run and instruct the Lord Bishop,
+      in Mexico City, to build a chapel...The Bishop thought Juan was insane.
+    claim_type: testimony
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 25b252fa-d1d5-4e45-a936-75ee31fd1d62
+        title: Mexico, Mexico City
+        slug: mexico-city-mexico
+      - node_id: 7565adda-52af-41ad-8dde-f797e3e8a2fd
+        title: Juan Diego
+        slug: juan-diego
+      - node_id: ebaa1ccb-272f-46a4-9b2e-933a91613996
+        title: 1531 Our Lady of Guadalupe apparition, Mexico
+        slug: mexico-1531-our-lady-of-guadalupe-apparition
+    date: '1531-12-09'
+    date_end: null
+    location_in_record: ch15:41929-42138
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 220315f4-29cd-4c89-8860-44f95613d98f
+      record_title: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About UFO Influences on the Human Race'
+      record_date: '2014-09-27'
+      record_reference: null
+      content_hash: sha256:5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b8489cc11c26
+      friendly_name: 2014-09-27-ebook-the-invisible-college-what-a-group-of-scientists-has
+  - claim_id: 42543011-e0c6-40bc-a3f5-2e50729b6982
+    claim_hash: d111b0fddd42e83e7b84f773d88f3a60f9c9c88b7587c4bc8fa26aab68a9452b
+    content: On the same night at Whitley Strieber's upstate New York cabin, two people sleeping in the basement woke and
+      saw at the foot of the bed a friend of theirs who had died in the Mexico City earthquake of 1983.
+    original_excerpt: the two people who are there wake up and what do they see but standing at the foot of the bed, a friend
+      of theirs who died in the mexico city earthquake of 1983
+    claim_type: hearsay
+    attestation: second_hand
+    speaker:
+      node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+      title: Whitley Strieber
+    provenance_chain:
+      origin_kind: named
+      origin: the two people sleeping in the basement of Whitley Strieber's upstate New York cabin
+      relay:
+        - Whitley Strieber
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 25b252fa-d1d5-4e45-a936-75ee31fd1d62
+        title: Mexico, Mexico City
+        slug: mexico-city-mexico
+      - node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+        title: Whitley Strieber
+        slug: whitley-strieber
+      - node_id: c03bb60a-63f8-4242-808e-128703673fff
+        title: USA, New York, upstate New York cabin of Whitley Strieber
+        slug: new-york-upstate-new-york-cabin-of-whitley-strieber-usa
+      - node_id: c52a94e5-44d1-47c0-9222-eb9e3feb8f8e
+        title: Mexico City earthquake of 1983
+        slug: mexico-city-earthquake-of-1983
+    date: null
+    date_end: null
+    location_in_record: 00:11:29.3-00:11:41.2
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 7e583a7d-790d-4cfe-bbee-95c3d542e67a
+      record_title: Whitley Strieber Reveals What 40 Years of Encounters Taught Him | Reality Check Rewind
+      record_date: '2026-08-14'
+      record_reference: https://www.youtube.com/watch?v=H7sJFNdgCI4
+      content_hash: sha256:17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c451793c5a628
+      friendly_name: null

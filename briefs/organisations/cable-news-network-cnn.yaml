@@ -1,0 +1,823 @@
+schema: anomalica/brief/1
+brief_hash: de3c762f835d79b9664bd8b244ae0c00f55b843c6063e7957ff85aac884b1acc
+page:
+  kind: entity
+  node_id: 9530a178-14d3-4ab6-96c4-6e9630592da3
+  node_type: organisation
+  title: Cable News Network (CNN)
+  slug: cable-news-network-cnn
+  claim_count: 17
+  claim_count_total: 17
+generated:
+  graph_version: '2026-09-01T10:10:49.863545+00:00'
+size:
+  claims: 17
+  tokens_estimated: 5511
+  sized_against: 1050000
+publication:
+  status: published
+  note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
+    transcripts are gated elsewhere.
+belonging:
+  verified: 0
+  suspect_excluded: 0
+  unreviewed: 17
+related_nodes:
+  - node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+    title: Luis Elizondo
+    node_type: person
+    slug: luis-elizondo
+    shared_claims: 4
+  - node_id: d24f960b-8fe7-4869-bb6c-8477fd067677
+    title: Mars Pathfinder
+    node_type: object
+    slug: mars-pathfinder
+    shared_claims: 4
+  - node_id: e1650a1d-8feb-4841-a403-0d71e176d2d9
+    title: Richard C. Hoagland
+    node_type: person
+    slug: richard-c-hoagland
+    shared_claims: 4
+  - node_id: 3e3ed3e2-ac83-4228-bb47-66b5911c81c4
+    title: Cable-Satellite Public Affairs Network (C-SPAN)
+    node_type: organisation
+    slug: cable-satellite-public-affairs-network-c-span
+    shared_claims: 2
+  - node_id: d1a3ca1a-709e-49bc-a249-269f03e5621c
+    title: John Holliman
+    node_type: person
+    slug: john-holliman
+    shared_claims: 2
+  - node_id: 73d4f081-a30f-4212-a93f-f697d6a73051
+    title: Mars Observer
+    node_type: object
+    slug: mars-observer
+    shared_claims: 2
+  - node_id: 437828dd-e44c-48cc-8d34-7cf5adb6ad56
+    title: Ron Nicks
+    node_type: person
+    slug: ron-nicks
+    shared_claims: 2
+  - node_id: 6141f147-e073-4a68-b2d8-cdd998a617e9
+    title: 2017 CNN interview with Luis Elizondo
+    node_type: event
+    slug: 2017-cnn-interview-with-luis-elizondo
+    shared_claims: 1
+  - node_id: cc327db1-44bd-4762-acc0-d8fe82a3c6ea
+    title: Cydonia
+    node_type: place
+    slug: cydonia
+    shared_claims: 1
+  - node_id: b9bdfabb-77cd-4564-a1f0-337686566251
+    title: Erin Burnett
+    node_type: person
+    slug: erin-burnett
+    shared_claims: 1
+  - node_id: a77966af-a350-432e-8fbc-2ca59029820b
+    title: Fox News
+    node_type: organisation
+    slug: fox-news
+    shared_claims: 1
+  - node_id: 324c90e2-454f-4dc3-910e-7f9a409b5c67
+    title: Hoagland CNN Crossfire invitation, 1989-07-20
+    node_type: event
+    slug: 1989-07-20-hoagland-cnn-crossfire-invitation
+    shared_claims: 1
+  - node_id: a3b88bf2-de8f-45bf-addf-fadd9244c4e5
+    title: James R. Clapper
+    node_type: person
+    slug: james-r-clapper
+    shared_claims: 1
+  - node_id: d9532953-68e1-4f10-bfc3-a62ab2c428bc
+    title: Jennifer
+    node_type: person
+    slug: jennifer
+    shared_claims: 1
+  - node_id: eb9ca279-70d6-460b-8553-ee9842857624
+    title: Larry King
+    node_type: person
+    slug: larry-king
+    shared_claims: 1
+  - node_id: 3e3d0fe7-a2cf-4e09-ab26-7beca4bece48
+    title: NASA Jet Propulsion Laboratory (JPL)
+    node_type: organisation
+    slug: nasa-jet-propulsion-laboratory-jpl
+    shared_claims: 1
+  - node_id: 5e47c787-005b-4c91-ba4b-c9bec48146c9
+    title: National Aeronautics and Space Administration (NASA)
+    node_type: organisation
+    slug: national-aeronautics-and-space-administration-nasa
+    shared_claims: 1
+  - node_id: d4b0a6cf-6630-4d28-8113-3447bd0b09fb
+    title: National Broadcasting Company (NBC) News
+    node_type: organisation
+    slug: national-broadcasting-company-nbc-news
+    shared_claims: 1
+  - node_id: b396a2fd-f1e1-4356-941a-5dc6b2379925
+    title: National Press Club
+    node_type: place
+    slug: national-press-club
+    shared_claims: 1
+  - node_id: 7cf30d3b-0060-4aca-aab3-c91874d779d6
+    title: National Press Club press conference, Washington DC, 1996-03-21
+    node_type: event
+    slug: washington-dc-1996-03-21-national-press-club-press-conference
+    shared_claims: 1
+  - node_id: 5d155503-7a1a-4e67-913e-83aec5514f33
+    title: Neil DeGrasse Tyson
+    node_type: person
+    slug: neil-degrasse-tyson
+    shared_claims: 1
+  - node_id: d40c0ddb-fc24-4340-95c3-40db0efb42a1
+    title: Telemundo
+    node_type: organisation
+    slug: telemundo
+    shared_claims: 1
+  - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
+    title: Unidentified Anomalous Phenomena (UAP)
+    node_type: topic
+    slug: unidentified-anomalous-phenomena-uap
+    shared_claims: 1
+claims:
+  - claim_id: 31222b37-41e3-4ff4-8706-3eb4b8038f65
+    claim_hash: 17fd4db38ae6e85cf76b1ecef12672b1f58c2164190fa7a1fff8fccd9204aca8
+    content: As the launch of Mars Observer approached, Richard C. Hoagland appeared live on Cable News Network (CNN) reminding
+      viewers of the mission's controversial history as the spacecraft lifted off.
+    original_excerpt: Hoagland was live on CNN, reminding viewers of all this strange history even as the spacecraft lifted
+      off.
+    claim_type: observation
+    attestation: first_hand
+    speaker:
+      node_id: e1650a1d-8feb-4841-a403-0d71e176d2d9
+      title: Richard C. Hoagland
+    provenance_chain:
+      origin_kind: speaker
+      origin: Richard C. Hoagland
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 73d4f081-a30f-4212-a93f-f697d6a73051
+        title: Mars Observer
+        slug: mars-observer
+      - node_id: 9530a178-14d3-4ab6-96c4-6e9630592da3
+        title: Cable News Network (CNN)
+        slug: cable-news-network-cnn
+      - node_id: e1650a1d-8feb-4841-a403-0d71e176d2d9
+        title: Richard C. Hoagland
+        slug: richard-c-hoagland
+    date: null
+    date_end: null
+    location_in_record: ch10:33489-33591
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+      record_title: Dark Mission
+      record_date: '2010-07-22'
+      record_reference: null
+      content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+      friendly_name: null
+  - claim_id: 68bcbd29-1396-4077-bed9-2b2466b3575f
+    claim_hash: 0c4e52a908854c1272fdd5d080358ad8e030bf925bb6c8c8a9b10f27ac8ab5ac
+    content: Local and national television coverage of the demonstration against National Aeronautics and Space Administration
+      (NASA)'s planned Cydonia secrecy dominated Cable News Network (CNN) and other network coverage of the missing Mars Observer
+      story for the remainder of that day.
+    original_excerpt: The local and national TV shots of “the people”—vocally demonstrating against NASA’s planned Cydonia
+      secrecy, and for the first time in the Agency’s decades-long history—dominated CNN (and other network) coverage of the
+      “missing Mars Observer story” throughout the remainder of the day.
+    claim_type: observation
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: narration
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 5e47c787-005b-4c91-ba4b-c9bec48146c9
+        title: National Aeronautics and Space Administration (NASA)
+        slug: national-aeronautics-and-space-administration-nasa
+      - node_id: 73d4f081-a30f-4212-a93f-f697d6a73051
+        title: Mars Observer
+        slug: mars-observer
+      - node_id: 9530a178-14d3-4ab6-96c4-6e9630592da3
+        title: Cable News Network (CNN)
+        slug: cable-news-network-cnn
+      - node_id: cc327db1-44bd-4762-acc0-d8fe82a3c6ea
+        title: Cydonia
+        slug: cydonia
+    date: null
+    date_end: null
+    location_in_record: ch10:43606-43892
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+      record_title: Dark Mission
+      record_date: '2010-07-22'
+      record_reference: null
+      content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+      friendly_name: null
+  - claim_id: 9dc55615-e3fa-4f5f-ac4c-cd8ecd4486df
+    claim_hash: 8ec62516ee91931d91ff32749f82cd22646e11bcd45e2a249a70e9d46af1c797
+    content: The March 1996 National Press Club press conference was held on 1996-03-21 and was attended by at least sixty
+      members of the national and international media.
+    original_excerpt: The press conference came off on March 21, 1996. At least sixty members of the national and international
+      media, including CNN, C-SPAN, Telmundo and NBC attended.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 3e3ed3e2-ac83-4228-bb47-66b5911c81c4
+        title: Cable-Satellite Public Affairs Network (C-SPAN)
+        slug: cable-satellite-public-affairs-network-c-span
+      - node_id: 7cf30d3b-0060-4aca-aab3-c91874d779d6
+        title: National Press Club press conference, Washington DC, 1996-03-21
+        slug: washington-dc-1996-03-21-national-press-club-press-conference
+      - node_id: 9530a178-14d3-4ab6-96c4-6e9630592da3
+        title: Cable News Network (CNN)
+        slug: cable-news-network-cnn
+      - node_id: d40c0ddb-fc24-4340-95c3-40db0efb42a1
+        title: Telemundo
+        slug: telemundo
+      - node_id: d4b0a6cf-6630-4d28-8113-3447bd0b09fb
+        title: National Broadcasting Company (NBC) News
+        slug: national-broadcasting-company-nbc-news
+    date: '1996-03-21'
+    date_end: null
+    location_in_record: ch11:135973-136126
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+      record_title: Dark Mission
+      record_date: '2010-07-22'
+      record_reference: null
+      content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+      friendly_name: null
+  - claim_id: e254abb8-5c0e-4372-b50f-051f0e257a3e
+    claim_hash: 2c8e7eb90e9cf28fc5d255832c79df08c7cf6eca43ff733ac202656f3418bd62
+    content: CNN and C-SPAN attended and filmed the National Press Club press conference in Washington DC but did not broadcast
+      any footage of the proceedings.
+    original_excerpt: Despite showing up and shooting video of the proceedings, CNN and C-SPAN did not broadcast any footage.
+    claim_type: observation
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 3e3ed3e2-ac83-4228-bb47-66b5911c81c4
+        title: Cable-Satellite Public Affairs Network (C-SPAN)
+        slug: cable-satellite-public-affairs-network-c-span
+      - node_id: 9530a178-14d3-4ab6-96c4-6e9630592da3
+        title: Cable News Network (CNN)
+        slug: cable-news-network-cnn
+      - node_id: b396a2fd-f1e1-4356-941a-5dc6b2379925
+        title: National Press Club
+        slug: national-press-club
+    date: null
+    date_end: null
+    location_in_record: ch11:139980-140075
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+      record_title: Dark Mission
+      record_date: '2010-07-22'
+      record_reference: null
+      content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+      friendly_name: null
+  - claim_id: 47532900-ad07-4543-9b0a-a1ac8b9bf24e
+    claim_hash: 41b38a7dde16b3c04fcddb2c5a3624ecd5288503d543aa71fb41b47cb8075ed9
+    content: Ron Nicks observed multiple geometric anomalies around the Mars Pathfinder Lander as its panoramas were broadcast
+      live on Cable News Network (CNN).
+    original_excerpt: 'started independently seeing major "inconsistencies" about the landing site as the unexpected panoramas
+      swept across the screen: multiple, blatantly geometric "anomalies" around the Lander, showing up on CNN''s live television
+      broadcasts'
+    claim_type: observation
+    attestation: second_hand
+    speaker:
+      node_id: 437828dd-e44c-48cc-8d34-7cf5adb6ad56
+      title: Ron Nicks
+    provenance_chain:
+      origin_kind: named
+      origin: Ron Nicks
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 437828dd-e44c-48cc-8d34-7cf5adb6ad56
+        title: Ron Nicks
+        slug: ron-nicks
+      - node_id: 9530a178-14d3-4ab6-96c4-6e9630592da3
+        title: Cable News Network (CNN)
+        slug: cable-news-network-cnn
+      - node_id: d24f960b-8fe7-4869-bb6c-8477fd067677
+        title: Mars Pathfinder
+        slug: mars-pathfinder
+    date: null
+    date_end: null
+    location_in_record: ch12:144382-144608
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+      record_title: Dark Mission
+      record_date: '2010-07-22'
+      record_reference: null
+      content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+      friendly_name: null
+  - claim_id: eaa6a704-c564-4ebe-b14c-f751ea8b75a9
+    claim_hash: c6e4fa242acf7b97ef2f3a6aaa4cbec8c00c0ea3a7b415c3a802ab5aac5a8286
+    content: Viewers watching Mars Pathfinder's live coverage on Cable News Network (CNN) called in about strangely geometric
+      rocks they saw in the images.
+    original_excerpt: Worldwide viewers, watching the NASA unmanned Mission "live on CNN," began calling in about "the strangely
+      geometric rocks" that they were seeing
+    claim_type: observation
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 9530a178-14d3-4ab6-96c4-6e9630592da3
+        title: Cable News Network (CNN)
+        slug: cable-news-network-cnn
+      - node_id: d24f960b-8fe7-4869-bb6c-8477fd067677
+        title: Mars Pathfinder
+        slug: mars-pathfinder
+    date: null
+    date_end: null
+    location_in_record: ch12:144633-144772
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+      record_title: Dark Mission
+      record_date: '2010-07-22'
+      record_reference: null
+      content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+      friendly_name: null
+  - claim_id: 975def95-2dc1-4750-acac-2c14af3da3da
+    claim_hash: cf43afffc76a825fbcd9f101b09e7ba5c445822962fd40b144e46b5e4f6dd56c
+    content: John Holliman was Cable News Network (CNN)'s science anchor.
+    original_excerpt: CNN's science anchor, the late John Holliman
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 9530a178-14d3-4ab6-96c4-6e9630592da3
+        title: Cable News Network (CNN)
+        slug: cable-news-network-cnn
+      - node_id: d1a3ca1a-709e-49bc-a249-269f03e5621c
+        title: John Holliman
+        slug: john-holliman
+    date: null
+    date_end: null
+    location_in_record: ch12:144854-144890
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+      record_title: Dark Mission
+      record_date: '2010-07-22'
+      record_reference: null
+      content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+      friendly_name: null
+  - claim_id: f422faef-dbf9-41b9-bff5-2971c1764336
+    claim_hash: 097c9afc0b810b9bde7869c164ecdb332a67bc38300762361fdebdc212434e5b
+    content: Discrepancies were repeatedly found between the original live Cable News Network (CNN) television transmissions
+      of Mars Pathfinder's landing on 1997-07-04 and the later electronic image versions released across the web by the Jet
+      Propulsion Laboratory (JPL).
+    original_excerpt: Unusual (and still unresolved) discrepancies were found repeatedly, between the original (paradoxically,
+      much clearer) initial television transmissions from CNN's live Pathfinder coverage that July 4 afternoon, and the later
+      electronic versions of those same images released across the web by JPL
+    claim_type: observation
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 3e3d0fe7-a2cf-4e09-ab26-7beca4bece48
+        title: NASA Jet Propulsion Laboratory (JPL)
+        slug: nasa-jet-propulsion-laboratory-jpl
+      - node_id: 9530a178-14d3-4ab6-96c4-6e9630592da3
+        title: Cable News Network (CNN)
+        slug: cable-news-network-cnn
+      - node_id: d24f960b-8fe7-4869-bb6c-8477fd067677
+        title: Mars Pathfinder
+        slug: mars-pathfinder
+    date: '1997-07-04'
+    date_end: null
+    location_in_record: ch12:146511-146804
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+      record_title: Dark Mission
+      record_date: '2010-07-22'
+      record_reference: null
+      content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+      friendly_name: null
+  - claim_id: 5e6ea0d1-540e-47d6-8a97-5f3c5368f5e7
+    claim_hash: 5547630206c790beca59a28bda5b31b216777e977faf2485c539c2fca5caa9a8
+    content: Richard C. Hoagland notes that a trained geologist, Ron Nicks, and thousands of viewers of the initial Mars Pathfinder
+      data in real time on Cable News Network (CNN), reported seeing artifacts before Hoagland did.
+    original_excerpt: given that a trained geologist (Nicks), and thousands of viewers of the initial data in real time on
+      CNN, had come to Hoagland first—regarding "seeing artifacts"—and not the other way around
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: e1650a1d-8feb-4841-a403-0d71e176d2d9
+      title: Richard C. Hoagland
+    provenance_chain:
+      origin_kind: speaker
+      origin: Richard C. Hoagland
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 437828dd-e44c-48cc-8d34-7cf5adb6ad56
+        title: Ron Nicks
+        slug: ron-nicks
+      - node_id: 9530a178-14d3-4ab6-96c4-6e9630592da3
+        title: Cable News Network (CNN)
+        slug: cable-news-network-cnn
+      - node_id: d24f960b-8fe7-4869-bb6c-8477fd067677
+        title: Mars Pathfinder
+        slug: mars-pathfinder
+      - node_id: e1650a1d-8feb-4841-a403-0d71e176d2d9
+        title: Richard C. Hoagland
+        slug: richard-c-hoagland
+    date: null
+    date_end: null
+    location_in_record: ch12:155965-156149
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+      record_title: Dark Mission
+      record_date: '2010-07-22'
+      record_reference: null
+      content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+      friendly_name: null
+  - claim_id: 4879431a-8d18-4074-a6fa-6afbff98851f
+    claim_hash: 210308108b82438b54dae6b63185f1b56d7a05df0fe946bc1c17d638dd9cabb2
+    content: On 1998-04-06, Cable News Network's (CNN) John Holliman was sympathetic to the independent researchers, saying
+      they needed more time to properly evaluate the MIPL image.
+    original_excerpt: Only CNN’s John Holliman,  who had been friendly to the independent investigation over the years, was
+      somewhat sympathetic, saying that the independent researchers needed more time to properly evaluate the image.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: d1a3ca1a-709e-49bc-a249-269f03e5621c
+      title: John Holliman
+    provenance_chain:
+      origin_kind: speaker
+      origin: John Holliman
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 9530a178-14d3-4ab6-96c4-6e9630592da3
+        title: Cable News Network (CNN)
+        slug: cable-news-network-cnn
+      - node_id: d1a3ca1a-709e-49bc-a249-269f03e5621c
+        title: John Holliman
+        slug: john-holliman
+    date: '1998-04-06'
+    date_end: null
+    location_in_record: ch13:16962-17168
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+      record_title: Dark Mission
+      record_date: '2010-07-22'
+      record_reference: null
+      content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+      friendly_name: null
+  - claim_id: 970b4d3d-36db-4ef2-bf0a-d6f049179be5
+    claim_hash: 6ac3f53a954439090d2e3162e3d6964d2ef5395ee48a36366077b7bb8e0da97b
+    content: On 1989-07-20, the day of George Herbert Walker Bush's Space Exploration Initiative announcement, Cable News
+      Network (CNN) called Richard C. Hoagland for an interview.
+    original_excerpt: In fact, on the very day of Bush's announcement (July 20, 1989) of his dramatic new thirty-year plan,
+      CNN called Hoagland for an interview.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 324c90e2-454f-4dc3-910e-7f9a409b5c67
+        title: Hoagland CNN Crossfire invitation, 1989-07-20
+        slug: 1989-07-20-hoagland-cnn-crossfire-invitation
+      - node_id: 9530a178-14d3-4ab6-96c4-6e9630592da3
+        title: Cable News Network (CNN)
+        slug: cable-news-network-cnn
+      - node_id: e1650a1d-8feb-4841-a403-0d71e176d2d9
+        title: Richard C. Hoagland
+        slug: richard-c-hoagland
+    date: '1989-07-20'
+    date_end: null
+    location_in_record: ch19:9566-9695
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+      record_title: Dark Mission
+      record_date: '2010-07-22'
+      record_reference: null
+      content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+      friendly_name: null
+  - claim_id: a1ab88a4-1fea-4be3-9601-145f69fb52fe
+    claim_hash: d795790622860f0c1185cbb7db737a52885bf15e7495fe10099bc33c1b78c80b
+    content: Larry King fondly remembered Richard C. Hoagland as a "great guest" from his appearance on King's Cable News
+      Network (CNN) show in the early 1990s.
+    original_excerpt: Despite having direct talks with Larry King himself, who fondly remembered Richard as a “great guest”
+      from his appearance on King’s CNN show in the early 1990’s
+    claim_type: opinion
+    attestation: second_hand
+    speaker:
+      node_id: 6c762b97-ffec-4ab2-9c1d-989f0566d586
+      title: Mike Bara
+    provenance_chain:
+      origin_kind: named
+      origin: Larry King
+      relay:
+        - Mike Bara's account of direct talks
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 9530a178-14d3-4ab6-96c4-6e9630592da3
+        title: Cable News Network (CNN)
+        slug: cable-news-network-cnn
+      - node_id: e1650a1d-8feb-4841-a403-0d71e176d2d9
+        title: Richard C. Hoagland
+        slug: richard-c-hoagland
+      - node_id: eb9ca279-70d6-460b-8553-ee9842857624
+        title: Larry King
+        slug: larry-king
+    date: null
+    date_end: null
+    location_in_record: ch5:1638-1798
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+      record_title: Dark Mission
+      record_date: '2010-07-22'
+      record_reference: null
+      content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+      friendly_name: null
+  - claim_id: 59a69afa-687d-4de2-a351-0ca77a473a40
+    claim_hash: 3fac38db6904dd6c58764738511d975d9196cc065ab991e50fe6d0000bb1eb14
+    content: Luis Elizondo told CNN that he and his team had identified some interesting anomalous aircraft that have no obvious
+      flight surfaces or propulsion, manoeuvre with extreme manoeuvrability beyond healthy G-forces for a human or biological
+      pilot, achieve hypersonic velocities, exhibit low observability and positive lift, and seemingly defy the laws of aerodynamics.
+    original_excerpt: '''We found a lot,'' Elizondo told CNN. ''I think that what''s important is that we have identified
+      some very interesting anomalous type of aircraft, let''s call them aircraft. Things that don''t have any obvious flight
+      surfaces, any obvious forms of propulsion, and manoeuvring in ways that include extreme manoeuvrability beyond, I would
+      submit, the healthy G-forces of a human or anything biological, hypersonic velocities, low observability, positive lift.
+      Again, seemingly defying the laws of aerodynamics.'''
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+      title: Luis Elizondo
+    provenance_chain:
+      origin_kind: speaker
+      origin: Luis Elizondo
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 6141f147-e073-4a68-b2d8-cdd998a617e9
+        title: 2017 CNN interview with Luis Elizondo
+        slug: 2017-cnn-interview-with-luis-elizondo
+      - node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+        title: Luis Elizondo
+        slug: luis-elizondo
+      - node_id: 9530a178-14d3-4ab6-96c4-6e9630592da3
+        title: Cable News Network (CNN)
+        slug: cable-news-network-cnn
+    date: null
+    date_end: null
+    location_in_record: ch21:13805-14295
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 04988731-ea44-4ccb-abb0-09a14e7eaf57
+    claim_hash: 4bb3a381ca1911d2e02d8c90a426cab6cf2992bd48f3968b28eb230d8f45f25d
+    content: When pressed by CNN's Erin Burnett on whether he thought the Tic Tac objects were aliens, Luis Elizondo initially
+      said he wanted to allow the data to speak for itself and use it to inform senior Department of Defense leadership about
+      the potential threat these technologies pose to national security, especially over controlled airspace, and said there
+      were a lot of possibilities.
+    original_excerpt: '''What I wanted to do was to allow the data to speak for itself and then use that data to inform leadership,
+      senior DoD leadership about the potential threat that these type of technologies pose to national security, especially
+      over any types of controlled airspace that we might have. So, I''m not trying to be evasive in any way or vague with
+      your answer, but I think there''s a lot of possibilities,'' he said, evasively.'
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+      title: Luis Elizondo
+    provenance_chain:
+      origin_kind: speaker
+      origin: Luis Elizondo
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+        title: Luis Elizondo
+        slug: luis-elizondo
+      - node_id: 9530a178-14d3-4ab6-96c4-6e9630592da3
+        title: Cable News Network (CNN)
+        slug: cable-news-network-cnn
+      - node_id: b9bdfabb-77cd-4564-a1f0-337686566251
+        title: Erin Burnett
+        slug: erin-burnett
+    date: null
+    date_end: null
+    location_in_record: ch21:14706-15115
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: bce2ad04-0841-4e5a-84c9-7369f82348ac
+    claim_hash: 8d98c79cc2bbe1c077bf7f9fb100e88aa972cb528fa56b767443d56b78ded152
+    content: Within a couple of weeks of the CNN interview with Luis Elizondo, astrophysicist Neil DeGrasse Tyson told CNN
+      he was not convinced by the UAP evidence.
+    original_excerpt: but the news cycle moved on and, within a couple of weeks, UAP sceptic and astrophysicist Neil DeGrasse
+      Tyson dismissively told CNN he was not convinced.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 5d155503-7a1a-4e67-913e-83aec5514f33
+      title: Neil DeGrasse Tyson
+    provenance_chain:
+      origin_kind: speaker
+      origin: Neil DeGrasse Tyson
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 5d155503-7a1a-4e67-913e-83aec5514f33
+        title: Neil DeGrasse Tyson
+        slug: neil-degrasse-tyson
+      - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
+        title: Unidentified Anomalous Phenomena (UAP)
+        slug: unidentified-anomalous-phenomena-uap
+      - node_id: 9530a178-14d3-4ab6-96c4-6e9630592da3
+        title: Cable News Network (CNN)
+        slug: cable-news-network-cnn
+    date: 2018-01
+    date_end: null
+    location_in_record: ch21:17056-17199
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 1e913fdc-268f-4405-adf7-41005f83a22b
+    claim_hash: a3f3eca4399e8fb54061a33949a84659ae37d9749c2186bb385ff1b3d2b1e016
+    content: Following the December 2017 news coverage, calls flooded Luis Elizondo's home from CBS, ABC, NBC, CNN, PBS, Fox,
+      and MSNBC.
+    original_excerpt: Calls flooded our home from CBS, ABC, NBC, CNN, PBS, Fox, MSNBC, etc.
+    claim_type: observation
+    attestation: first_hand
+    speaker:
+      node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+      title: Luis Elizondo
+    provenance_chain:
+      origin_kind: speaker
+      origin: Lue Elizondo
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+        title: Luis Elizondo
+        slug: luis-elizondo
+      - node_id: 9530a178-14d3-4ab6-96c4-6e9630592da3
+        title: Cable News Network (CNN)
+        slug: cable-news-network-cnn
+      - node_id: a77966af-a350-432e-8fbc-2ca59029820b
+        title: Fox News
+        slug: fox-news
+    date: 2017-12
+    date_end: null
+    location_in_record: ch29:23393-23458
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  - claim_id: 98903661-01f9-4138-bbcd-398b8713311e
+    claim_hash: e8ad4f6dc66b2280313e4636cac621bac5f142e53918159d178fbe7503192479
+    content: While waiting in the greenroom at CNN before an on-camera interview, Luis Elizondo and Jennifer were approached
+      by James Clapper.
+    original_excerpt: While waiting in the greenroom at CNN prior to an on-camera interview, Jenn and I were approached by
+      my old boss, the legendary general James Clapper.
+    claim_type: observation
+    attestation: first_hand
+    speaker:
+      node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+      title: Luis Elizondo
+    provenance_chain:
+      origin_kind: speaker
+      origin: Lue Elizondo
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+        title: Luis Elizondo
+        slug: luis-elizondo
+      - node_id: 9530a178-14d3-4ab6-96c4-6e9630592da3
+        title: Cable News Network (CNN)
+        slug: cable-news-network-cnn
+      - node_id: a3b88bf2-de8f-45bf-addf-fadd9244c4e5
+        title: James R. Clapper
+        slug: james-r-clapper
+      - node_id: d9532953-68e1-4f10-bfc3-a62ab2c428bc
+        title: Jennifer
+        slug: jennifer
+    date: null
+    date_end: null
+    location_in_record: ch29:25015-25157
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos

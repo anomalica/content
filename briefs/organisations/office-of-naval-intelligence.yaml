@@ -1,0 +1,617 @@
+schema: anomalica/brief/1
+brief_hash: 32950fccd3635c1f711880d9fef3e34e47a6601b04eb515d8a57a385d17bd62e
+page:
+  kind: entity
+  node_id: d5646dcd-3a5c-4de2-8d21-25d7181665c1
+  node_type: organisation
+  title: Office of Naval Intelligence
+  slug: office-of-naval-intelligence
+  claim_count: 12
+  claim_count_total: 12
+generated:
+  graph_version: '2026-09-01T10:10:49.863545+00:00'
+size:
+  claims: 12
+  tokens_estimated: 3876
+  sized_against: 1050000
+publication:
+  status: published
+  note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
+    transcripts are gated elsewhere.
+belonging:
+  verified: 0
+  suspect_excluded: 0
+  unreviewed: 12
+related_nodes:
+  - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
+    title: 2004 USS Nimitz UAP encounter
+    node_type: event
+    slug: 2004-uss-nimitz-uap-encounter
+    shared_claims: 3
+  - node_id: 38b84d4a-96df-4684-bb46-f6f64f392add
+    title: Central Intelligence Agency (CIA)
+    node_type: organisation
+    slug: central-intelligence-agency-cia
+    shared_claims: 2
+  - node_id: c430b2b2-7900-45c9-9882-98ac4ab14e88
+    title: Federal Bureau of Investigation (FBI)
+    node_type: organisation
+    slug: federal-bureau-of-investigation-fbi
+    shared_claims: 2
+  - node_id: b6090b6b-63d9-473d-8d6c-bd4b5f54f24b
+    title: Jack Parsons
+    node_type: person
+    slug: jack-parsons
+    shared_claims: 2
+  - node_id: 6063296b-f65b-452e-be99-dd564ded9c39
+    title: L. Ron Hubbard
+    node_type: person
+    slug: l-ron-hubbard
+    shared_claims: 2
+  - node_id: ebbc59cd-bc77-405b-845e-889ff3c21b47
+    title: USS Nimitz (CVN-68)
+    node_type: object
+    slug: uss-nimitz-cvn-68
+    shared_claims: 2
+  - node_id: 4fb65b2c-296a-493d-bbc7-65e4b763c1f0
+    title: United States Congress
+    node_type: organisation
+    slug: united-states-congress
+    shared_claims: 2
+  - node_id: 121b9978-8ddc-44fa-9334-c2de469ac340
+    title: Babalon Working
+    node_type: event
+    slug: babalon-working
+    shared_claims: 1
+  - node_id: 7b361b64-22fd-410b-8f12-b376de827083
+    title: Christian Lambright
+    node_type: person
+    slug: christian-lambright
+    shared_claims: 1
+  - node_id: 5d06f518-dd64-4429-9026-b930e88660d2
+    title: Christopher K. Mellon
+    node_type: person
+    slug: christopher-k-mellon
+    shared_claims: 1
+  - node_id: 8b6a34cc-4dc3-4ab2-b545-d3d6535b1516
+    title: Church of Scientology
+    node_type: organisation
+    slug: church-of-scientology
+    shared_claims: 1
+  - node_id: 455fbc37-d79c-4638-befe-658d5643b5b5
+    title: Colonel Friend
+    node_type: person
+    slug: colonel-friend
+    shared_claims: 1
+  - node_id: 67b73a04-8bdf-43f7-8853-c21492336ef9
+    title: Federally Funded Research and Development Center (FFRDC)
+    node_type: topic
+    slug: federally-funded-research-and-development-center-ffrdc
+    shared_claims: 1
+  - node_id: d3a2e105-cca7-4abd-b795-d51b893be697
+    title: Federation of American Scientists
+    node_type: organisation
+    slug: federation-of-american-scientists
+    shared_claims: 1
+  - node_id: 51d882d7-ae4b-4a91-bc4f-a2b900fb1196
+    title: Jay Stratton
+    node_type: person
+    slug: jay-stratton
+    shared_claims: 1
+  - node_id: 026e65f7-b55e-4253-af5e-316e24f9dc65
+    title: Mr. Talman
+    node_type: person
+    slug: mr-talman
+    shared_claims: 1
+  - node_id: b8f94227-7b07-4296-b7a4-222b69e0ca03
+    title: Ordo Templi Orientis (OTO)
+    node_type: organisation
+    slug: ordo-templi-orientis-oto
+    shared_claims: 1
+  - node_id: b4258228-aad1-462d-8757-27a3a99fdaaf
+    title: Reverse engineering of recovered craft of non-human origin
+    node_type: topic
+    slug: reverse-engineering-of-recovered-craft-of-non-human-origin
+    shared_claims: 1
+  - node_id: e1650a1d-8feb-4841-a403-0d71e176d2d9
+    title: Richard C. Hoagland
+    node_type: person
+    slug: richard-c-hoagland
+    shared_claims: 1
+  - node_id: c2161b8f-ab11-449c-8521-174024cb0552
+    title: USA, Washington DC, Pentagon
+    node_type: place
+    slug: washington-dc-pentagon-usa
+    shared_claims: 1
+  - node_id: adec06c4-e59e-410f-a766-bd9beebe1c58
+    title: United States Pentagon
+    node_type: place
+    slug: united-states-pentagon
+    shared_claims: 1
+claims:
+  - claim_id: ddab5ae8-7296-41f6-86dc-4278233fe0f3
+    claim_hash: 436ad4e977aa9f3660317fd1838370e3b35f604db188b7aa363623ff4e9da318
+    content: L. Ron Hubbard was Jack Parsons' partner in the so-called Babalon Working, during a period when Hubbard was serving
+      in naval intelligence during World War II.
+    original_excerpt: Fig. 5-19 - L. Ron Hubbard, Parsons “magical” partner in the so-called “Babalon Working,” during his
+      service in naval intelligence in World War II.
+    claim_type: observation
+    attestation: first_hand
+    speaker:
+      node_id: e1650a1d-8feb-4841-a403-0d71e176d2d9
+      title: Richard C. Hoagland
+    provenance_chain:
+      origin_kind: speaker
+      origin: Richard C. Hoagland
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 121b9978-8ddc-44fa-9334-c2de469ac340
+        title: Babalon Working
+        slug: babalon-working
+      - node_id: 6063296b-f65b-452e-be99-dd564ded9c39
+        title: L. Ron Hubbard
+        slug: l-ron-hubbard
+      - node_id: b6090b6b-63d9-473d-8d6c-bd4b5f54f24b
+        title: Jack Parsons
+        slug: jack-parsons
+      - node_id: d5646dcd-3a5c-4de2-8d21-25d7181665c1
+        title: Office of Naval Intelligence
+        slug: office-of-naval-intelligence
+    date: null
+    date_end: null
+    location_in_record: ch12:169229-169373
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+      record_title: Dark Mission
+      record_date: '2010-07-22'
+      record_reference: null
+      content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+      friendly_name: null
+  - claim_id: da5e1265-1c04-4fad-8bc8-f328d3811c89
+    claim_hash: b4e23e6485b06b35a24c6cfeb62c99a3a71d1e584c5530a944dcc38a4926423c
+    content: A hand-written memo obtained under the Freedom of Information Act indicates Jack Parsons' occult activities came
+      under scrutiny of the Federal Bureau of Investigation (FBI) and the Office of Naval Intelligence (ONI) as early as 1940.
+    original_excerpt: According to a hand written memo obtained under the Freedom of Information Act, Parsons' occult activities
+      had come under scrutiny of the FBI and the Office of Naval Intelligence (ONI) as early as 1940.
+    claim_type: administrative
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: document
+      origin: a hand-written memo obtained under the Freedom of Information Act
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: b6090b6b-63d9-473d-8d6c-bd4b5f54f24b
+        title: Jack Parsons
+        slug: jack-parsons
+      - node_id: c430b2b2-7900-45c9-9882-98ac4ab14e88
+        title: Federal Bureau of Investigation (FBI)
+        slug: federal-bureau-of-investigation-fbi
+      - node_id: d5646dcd-3a5c-4de2-8d21-25d7181665c1
+        title: Office of Naval Intelligence
+        slug: office-of-naval-intelligence
+    date: '1940'
+    date_end: null
+    location_in_record: ch5:20181-20378
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+      record_title: Dark Mission
+      record_date: '2010-07-22'
+      record_reference: null
+      content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+      friendly_name: null
+  - claim_id: a14b5e6d-6cbc-4ddb-824d-8fb17165a5bc
+    claim_hash: 8cd89a9aedc319544e551c2becccd853e8cf4b858a437eaa0bba0de5ee7bd0cc
+    content: An FBI memo from the period indicates that the Office of Naval Intelligence had an informant inside the Ordo
+      Templi Orientis / Federation of American Scientists group.
+    original_excerpt: An FBI memo from the period also indicates that the Office of Naval Intelligence had "an informant"
+      inside the group.
+    claim_type: administrative
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: document
+      origin: an FBI memo from the period
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: c430b2b2-7900-45c9-9882-98ac4ab14e88
+        title: Federal Bureau of Investigation (FBI)
+        slug: federal-bureau-of-investigation-fbi
+      - node_id: d5646dcd-3a5c-4de2-8d21-25d7181665c1
+        title: Office of Naval Intelligence
+        slug: office-of-naval-intelligence
+    date: null
+    date_end: null
+    location_in_record: ch5:22398-22509
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+      record_title: Dark Mission
+      record_date: '2010-07-22'
+      record_reference: null
+      content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+      friendly_name: null
+  - claim_id: 630b43e8-dd36-4538-8c53-5db1a973caa7
+    claim_hash: 9f2c4448c2a4a14948912fb7c4036bb7b6e18b018256d0721fec7f174abf3ee8
+    content: Richard C. Hoagland considers the premise that L. Ron Hubbard was an Office of Naval Intelligence informant sent
+      to infiltrate and destabilise the Ordo Templi Orientis and Federation of American Scientists a plausible one, after
+      reviewing documentation supplied by the Church of Scientology.
+    original_excerpt: After seeing the documentation supplied to me by the Church of Scientology, I find the premise a plausible
+      one.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: e1650a1d-8feb-4841-a403-0d71e176d2d9
+      title: Richard C. Hoagland
+    provenance_chain:
+      origin_kind: speaker
+      origin: Richard C. Hoagland
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 6063296b-f65b-452e-be99-dd564ded9c39
+        title: L. Ron Hubbard
+        slug: l-ron-hubbard
+      - node_id: 8b6a34cc-4dc3-4ab2-b545-d3d6535b1516
+        title: Church of Scientology
+        slug: church-of-scientology
+      - node_id: b8f94227-7b07-4296-b7a4-222b69e0ca03
+        title: Ordo Templi Orientis (OTO)
+        slug: ordo-templi-orientis-oto
+      - node_id: d3a2e105-cca7-4abd-b795-d51b893be697
+        title: Federation of American Scientists
+        slug: federation-of-american-scientists
+      - node_id: d5646dcd-3a5c-4de2-8d21-25d7181665c1
+        title: Office of Naval Intelligence
+        slug: office-of-naval-intelligence
+      - node_id: e1650a1d-8feb-4841-a403-0d71e176d2d9
+        title: Richard C. Hoagland
+        slug: richard-c-hoagland
+    date: null
+    date_end: null
+    location_in_record: ch5:22842-22949
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+      record_title: Dark Mission
+      record_date: '2010-07-22'
+      record_reference: null
+      content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+      friendly_name: null
+  - claim_id: ff816bfd-add8-439e-819d-46ed876652b5
+    claim_hash: 5e74d5c33f971da85546cf3cd0fc2f0851adc0ccb3b56926fa6c8eabde6bc8fb
+    content: Mr. Talman and Colonel Friend met three days after the initial contact, in the presence of six men from the Central
+      Intelligence Agency and a representative of the Office of Naval Intelligence, to review the case.
+    original_excerpt: Talman and Friend met three days later in the presence of six men from the Central Intelligence Agency
+      and a representative of the office of Naval Intelligence, and they went over the entire case.
+    claim_type: administrative
+    attestation: second_hand
+    speaker:
+      node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
+      title: Jacques Vallée
+    provenance_chain:
+      origin_kind: document
+      origin: a Project Blue Book memorandum
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 026e65f7-b55e-4253-af5e-316e24f9dc65
+        title: Mr. Talman
+        slug: mr-talman
+      - node_id: 38b84d4a-96df-4684-bb46-f6f64f392add
+        title: Central Intelligence Agency (CIA)
+        slug: central-intelligence-agency-cia
+      - node_id: 455fbc37-d79c-4638-befe-658d5643b5b5
+        title: Colonel Friend
+        slug: colonel-friend
+      - node_id: d5646dcd-3a5c-4de2-8d21-25d7181665c1
+        title: Office of Naval Intelligence
+        slug: office-of-naval-intelligence
+    date: null
+    date_end: null
+    location_in_record: ch11:9668-9859
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 220315f4-29cd-4c89-8860-44f95613d98f
+      record_title: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About UFO Influences on the Human Race'
+      record_date: '2014-09-27'
+      record_reference: null
+      content_hash: sha256:5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b8489cc11c26
+      friendly_name: 2014-09-27-ebook-the-invisible-college-what-a-group-of-scientists-has
+  - claim_id: b43bd03e-c10b-46de-98b5-d4b8bc9b54f1
+    claim_hash: f15844d65dfc0c29638a23811ad656df12ae1f0a91b36619f4916d58590b1baa
+    content: US Senators were given a classified briefing by the Pentagon, including the Office of Naval Intelligence, about
+      the UAV sightings, with multiple requests from members of key Congressional oversight committees for more information
+      throughout 2019.
+    original_excerpt: US Senators were also given a classified briefing by the Pentagon (including the Office of Naval Intelligence)
+      about the UAV sightings; there were multiple requests from members of key Congressional oversight committees for more
+      information throughout 2019.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 4fb65b2c-296a-493d-bbc7-65e4b763c1f0
+        title: United States Congress
+        slug: united-states-congress
+      - node_id: adec06c4-e59e-410f-a766-bd9beebe1c58
+        title: United States Pentagon
+        slug: united-states-pentagon
+      - node_id: d5646dcd-3a5c-4de2-8d21-25d7181665c1
+        title: Office of Naval Intelligence
+        slug: office-of-naval-intelligence
+    date: '2019'
+    date_end: null
+    location_in_record: ch22:12208-12460
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 9303c476-64f9-4867-8047-a925e45064f1
+    claim_hash: 9fe8e4415ddca7bb7c80996a6989a03b284861ca3b74422b0f20c2360678c6f5
+    content: In October 2019, researcher Christian Lambright made a Freedom of Information Act request to the US Navy's Office
+      of Naval Intelligence (ONI) seeking records relating to the USS Nimitz Tic Tac UAP encounter.
+    original_excerpt: In October 2019, researcher Christian Lambright made a Freedom of Information Act request to the US
+      Navy’s Office of Naval Intelligence (ONI), seeking records relating to the USS Nimitz Tic Tac UAP encounter.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 7b361b64-22fd-410b-8f12-b376de827083
+        title: Christian Lambright
+        slug: christian-lambright
+      - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
+        title: 2004 USS Nimitz UAP encounter
+        slug: 2004-uss-nimitz-uap-encounter
+      - node_id: d5646dcd-3a5c-4de2-8d21-25d7181665c1
+        title: Office of Naval Intelligence
+        slug: office-of-naval-intelligence
+      - node_id: ebbc59cd-bc77-405b-845e-889ff3c21b47
+        title: USS Nimitz (CVN-68)
+        slug: uss-nimitz-cvn-68
+    date: 2019-10
+    date_end: null
+    location_in_record: ch22:19078-19280
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 2c17b620-697b-4571-84f4-995bee4388f7
+    claim_hash: d8d0556717f1d78e958c2ef9ef91172af5b6bc81b84d2784ae2620b7f5ddd157
+    content: Paco Chierici's account of viewing a classified Office of Naval Intelligence report confirmed that the ONI had
+      conducted its own investigation into the USS Nimitz Tic Tac UAP encounter.
+    original_excerpt: This confirmed ONI had conducted its own investigation and he asked for those records.
+    claim_type: administrative
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: named
+      origin: Office of Naval Intelligence (ONI)
+      relay:
+        - Paco Chierici
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
+        title: 2004 USS Nimitz UAP encounter
+        slug: 2004-uss-nimitz-uap-encounter
+      - node_id: d5646dcd-3a5c-4de2-8d21-25d7181665c1
+        title: Office of Naval Intelligence
+        slug: office-of-naval-intelligence
+    date: null
+    date_end: null
+    location_in_record: ch22:19525-19603
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: b370ad7f-8e35-426b-aef7-a41e8e220176
+    claim_hash: 2816628408a42c49a4f08f1e95e9c1545bdafcd2d84226b9aec8bf4aa0cc38e3
+    content: Jay Stratton was formerly in the US public service's Senior Executive Service and was highly decorated for his
+      32 years of service with different arms of the US military, culminating in his work with the Office of Naval Intelligence.
+    original_excerpt: Formerly in the US public service's Senior Executive Service, Stratton was highly decorated for his
+      32 years of service with different arms of the US military culminating in his work with ONI.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 51d882d7-ae4b-4a91-bc4f-a2b900fb1196
+        title: Jay Stratton
+        slug: jay-stratton
+      - node_id: d5646dcd-3a5c-4de2-8d21-25d7181665c1
+        title: Office of Naval Intelligence
+        slug: office-of-naval-intelligence
+    date: null
+    date_end: null
+    location_in_record: ch30:12162-12350
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 8e2b24e7-dcc8-4172-8622-c937c405a63d
+    claim_hash: 477f85f4420d74d4dcf95d4c587a8f1c322b0410db33f1e92194cbe364c6583d
+    content: The Office of Naval Intelligence admitted to holding "Top Secret" records and a "Secret" video relating to the
+      USS Nimitz Tic Tac UFO incident, as reported on 2020-01-08.
+    original_excerpt: Paul Dean, 'Office of Naval Intelligence (ONI) Admits to "Top Secret" Records and "Secret" Video from
+      USS Nimitz "Tic Tac" UFO Incident', UFOs – Documenting The Evidence Blog, 8 January 2020.
+    claim_type: administrative
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: named
+      origin: Office of Naval Intelligence (ONI)
+      relay:
+        - UFOs - Documenting The Evidence Blog
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
+        title: 2004 USS Nimitz UAP encounter
+        slug: 2004-uss-nimitz-uap-encounter
+      - node_id: d5646dcd-3a5c-4de2-8d21-25d7181665c1
+        title: Office of Naval Intelligence
+        slug: office-of-naval-intelligence
+      - node_id: ebbc59cd-bc77-405b-845e-889ff3c21b47
+        title: USS Nimitz (CVN-68)
+        slug: uss-nimitz-cvn-68
+    date: '2020-01-08'
+    date_end: null
+    location_in_record: ch34:48917-49107
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 133a35c0-c743-4489-a717-4db5420c0bfd
+    claim_hash: 66d45b9fd04b2a3c3a81144ea5f3f8d81997f12380477bada05d5d6c427bcd88
+    content: In 2017 Christopher Mellon was an unpaid consultant for the Office of Naval Intelligence, having retired from
+      full-time national security work in the Pentagon and Congress.
+    original_excerpt: In 2017, at the time we met, I was an unpaid consultant for the Office of Naval Intelligence, hoping
+      to still contribute in some way after retiring from full-time work on national security issues in the Pentagon and Congress.
+    claim_type: administrative
+    attestation: first_hand
+    speaker:
+      node_id: 5d06f518-dd64-4429-9026-b930e88660d2
+      title: Christopher K. Mellon
+    provenance_chain:
+      origin_kind: speaker
+      origin: Christopher Mellon
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 4fb65b2c-296a-493d-bbc7-65e4b763c1f0
+        title: United States Congress
+        slug: united-states-congress
+      - node_id: 5d06f518-dd64-4429-9026-b930e88660d2
+        title: Christopher K. Mellon
+        slug: christopher-k-mellon
+      - node_id: c2161b8f-ab11-449c-8521-174024cb0552
+        title: USA, Washington DC, Pentagon
+        slug: washington-dc-pentagon-usa
+      - node_id: d5646dcd-3a5c-4de2-8d21-25d7181665c1
+        title: Office of Naval Intelligence
+        slug: office-of-naval-intelligence
+    date: '2017'
+    date_end: null
+    location_in_record: ch6:5277-5493
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  - claim_id: 63a078d6-f871-4426-b241-45238c93ff2e
+    claim_hash: c246d15777fa0ce5a67f7c8f72c4e8bd70925a2db4a7ec99df0ad2e179c3b1f9
+    content: The Central Intelligence Agency, the Office of Naval Intelligence and a number of federally funded research and
+      development centers have been involved in the analysis of recovered Unidentified Aerial Phenomena material over the
+      decades.
+    original_excerpt: the CIA, Office of Naval Intelligence, the something called federally funded research and development
+      centers, a lot of them were involved in the analysis over the decades.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: d4241f5a-1063-4970-ba02-5a391c02d96d
+      title: David Charles Grusch
+    provenance_chain:
+      origin_kind: speaker
+      origin: David Grusch
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 38b84d4a-96df-4684-bb46-f6f64f392add
+        title: Central Intelligence Agency (CIA)
+        slug: central-intelligence-agency-cia
+      - node_id: 67b73a04-8bdf-43f7-8853-c21492336ef9
+        title: Federally Funded Research and Development Center (FFRDC)
+        slug: federally-funded-research-and-development-center-ffrdc
+      - node_id: b4258228-aad1-462d-8757-27a3a99fdaaf
+        title: Reverse engineering of recovered craft of non-human origin
+        slug: reverse-engineering-of-recovered-craft-of-non-human-origin
+      - node_id: d5646dcd-3a5c-4de2-8d21-25d7181665c1
+        title: Office of Naval Intelligence
+        slug: office-of-naval-intelligence
+    date: null
+    date_end: null
+    location_in_record: 00:06:53.9-00:07:02.9
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: eb21cb34-eec1-462d-9127-2d5e367cdfb9
+      record_title: 'David Grusch: The Whistleblower Who Told Congress We''re Not Alone'
+      record_date: '2026-08-13'
+      record_reference: https://www.youtube.com/watch?v=LBXmqvFs0Ec
+      content_hash: sha256:c685d061d160da6ae664b97e8b033d8d36090ea76d13c45792556dae22ae3344
+      friendly_name: null

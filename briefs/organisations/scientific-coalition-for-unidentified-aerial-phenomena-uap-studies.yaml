@@ -1,0 +1,325 @@
+schema: anomalica/brief/1
+brief_hash: 070508950ee8a1308ddd087bf492bfffbddc292b21982f3d7a6f3d01b91462c7
+page:
+  kind: entity
+  node_id: a3c6c31c-1d30-47e3-9dc2-215371969cc6
+  node_type: organisation
+  title: Scientific Coalition for Unidentified Aerial Phenomena (UAP) Studies
+  slug: scientific-coalition-for-unidentified-aerial-phenomena-uap-studies
+  claim_count: 6
+  claim_count_total: 6
+generated:
+  graph_version: '2026-09-01T10:10:49.863545+00:00'
+size:
+  claims: 6
+  tokens_estimated: 2060
+  sized_against: 1050000
+publication:
+  status: published
+  note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
+    transcripts are gated elsewhere.
+belonging:
+  verified: 0
+  suspect_excluded: 0
+  unreviewed: 6
+related_nodes:
+  - node_id: 8d3ca113-3f28-4808-998e-34d2837332a5
+    title: Julia Mossbridge
+    node_type: person
+    slug: julia-mossbridge
+    shared_claims: 2
+  - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
+    title: 2004 USS Nimitz UAP encounter
+    node_type: event
+    slug: 2004-uss-nimitz-uap-encounter
+    shared_claims: 1
+  - node_id: 8cc3cfbd-3ed9-4eb9-9111-45acc59dc61e
+    title: 2020 Robert Powell analysis of the Ubatuba samples for the Scientific Coalition for Unidentified Aerial Phenomena
+      (UAP) Studies
+    node_type: document
+    slug: 2020-robert-powell-analysis-of-the-ubatuba-samples-for-the-scientific-coalition-for-unidentified-aerial-phenomena-uap-studies
+    shared_claims: 1
+  - node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+    title: Luis Elizondo
+    node_type: person
+    slug: luis-elizondo
+    shared_claims: 1
+  - node_id: 30940882-37a5-4db5-980d-282dafd2df49
+    title: Nonhuman intelligence (NHI)
+    node_type: topic
+    slug: nonhuman-intelligence-nhi
+    shared_claims: 1
+  - node_id: e54f1c29-1780-4810-9c40-4f9baa9f8276
+    title: Nonlocal consciousness
+    node_type: topic
+    slug: nonlocal-consciousness
+    shared_claims: 1
+  - node_id: 803dbec1-a852-489a-a5a9-d2bd5bb22fe5
+    title: Robert Powell
+    node_type: person
+    slug: robert-powell
+    shared_claims: 1
+  - node_id: 5c502145-40b9-4dbb-be65-24d903bbff01
+    title: Stanford University
+    node_type: organisation
+    slug: stanford-university
+    shared_claims: 1
+  - node_id: a3a02857-b28d-434b-b1ad-e6c2d491e8bd
+    title: To the Stars Academy of Arts and Science (TTSA)
+    node_type: organisation
+    slug: to-the-stars-academy-of-arts-and-science-ttsa
+    shared_claims: 1
+  - node_id: 3b76da3b-df51-419d-bc15-d55fa86fbb8b
+    title: Ubatuba object
+    node_type: object
+    slug: ubatuba-object
+    shared_claims: 1
+  - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
+    title: Unidentified Anomalous Phenomena (UAP)
+    node_type: topic
+    slug: unidentified-anomalous-phenomena-uap
+    shared_claims: 1
+claims:
+  - claim_id: 4ca5d415-a9f5-46c6-a0b2-67795713abd8
+    claim_hash: d1e41554384d301fe2779424620f89a2f8a1e3b385c6d663cf8f43541a0e0be9
+    content: The Scientific Coalition for UAP Studies calculated that, if the objects tracked during the 2004 USS Nimitz Tic
+      Tac UAP encounter truly disappeared from a stationary position within a second, their peak velocity would have been
+      approximately 453,062 kilometres per hour.
+    original_excerpt: the maths done by the Scientific Coalition for UAP Studies suggests an even faster peak velocity of
+      281,520 mph (453,062 km/h)
+    claim_type: measurement
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: named
+      origin: Scientific Coalition for UAP Studies
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: a3c6c31c-1d30-47e3-9dc2-215371969cc6
+        title: Scientific Coalition for Unidentified Aerial Phenomena (UAP) Studies
+        slug: scientific-coalition-for-unidentified-aerial-phenomena-uap-studies
+      - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
+        title: 2004 USS Nimitz UAP encounter
+        slug: 2004-uss-nimitz-uap-encounter
+    date: null
+    date_end: null
+    location_in_record: ch16:5313-5437
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 6b9636bc-f8ee-4a69-9494-74baea2ed4b9
+    claim_hash: 8cf0738a7ef3ed5174242b38168048afbc11f39c7dd3e6d7f21075969b348413
+    content: A Stanford University analysis and a 2020 analysis by Robert Powell of the Scientific Coalition for UAP Studies
+      suggested there is no evidence that the Ubatuba specimens are of extra-terrestrial origin, nor that the magnesium is
+      especially pure.
+    original_excerpt: more recent Stanford University analysis and a 2020 analysis by Robert Powell of the Scientific Coalition
+      for UAP Studies has suggested there is no evidence at all that the Ubatuba specimens are of extra-terrestrial origin,
+      nor that the magnesium is especially pure.
+    claim_type: opinion
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: named
+      origin: Stanford University and Robert Powell of the Scientific Coalition for UAP Studies
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 3b76da3b-df51-419d-bc15-d55fa86fbb8b
+        title: Ubatuba object
+        slug: ubatuba-object
+      - node_id: 5c502145-40b9-4dbb-be65-24d903bbff01
+        title: Stanford University
+        slug: stanford-university
+      - node_id: 803dbec1-a852-489a-a5a9-d2bd5bb22fe5
+        title: Robert Powell
+        slug: robert-powell
+      - node_id: 8cc3cfbd-3ed9-4eb9-9111-45acc59dc61e
+        title: 2020 Robert Powell analysis of the Ubatuba samples for the Scientific Coalition for Unidentified Aerial Phenomena
+          (UAP) Studies
+        slug: 2020-robert-powell-analysis-of-the-ubatuba-samples-for-the-scientific-coalition-for-unidentified-aerial-phenomena-uap-studies
+      - node_id: a3c6c31c-1d30-47e3-9dc2-215371969cc6
+        title: Scientific Coalition for Unidentified Aerial Phenomena (UAP) Studies
+        slug: scientific-coalition-for-unidentified-aerial-phenomena-uap-studies
+    date: '2020'
+    date_end: null
+    location_in_record: ch24:11894-12158
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 85498899-b094-458d-bded-b678519b076d
+    claim_hash: 3e33963d7a6087887fec4e3c6853155d2a3d80f5a2ddf94f46ca6556a7d971e4
+    content: In a 2019 lecture to the Scientific Coalition for UAP Studies, Luis Elizondo showed a composite picture of retrieved
+      metamaterials held by To The Stars Academy of Arts & Sciences, saying some samples are absolutely special, have been
+      briefed to very senior levels of the government, do remarkable and extraordinary things, and to that day could not be
+      replicated.
+    original_excerpt: He showed his audience a composite picture of some of the retrieved metamaterials held by TTSA, telling
+      them, 'I won't point out which one's on that slide but there are some that are absolutely special and have been briefed
+      to some very, very senior levels of this government. And they do remarkable and extraordinary things. And they're built
+      in such a way that to this day, we still can't replicate them. To this day. So that should be very telling.'
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+      title: Luis Elizondo
+    provenance_chain:
+      origin_kind: speaker
+      origin: Luis Elizondo
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+        title: Luis Elizondo
+        slug: luis-elizondo
+      - node_id: a3a02857-b28d-434b-b1ad-e6c2d491e8bd
+        title: To the Stars Academy of Arts and Science (TTSA)
+        slug: to-the-stars-academy-of-arts-and-science-ttsa
+      - node_id: a3c6c31c-1d30-47e3-9dc2-215371969cc6
+        title: Scientific Coalition for Unidentified Aerial Phenomena (UAP) Studies
+        slug: scientific-coalition-for-unidentified-aerial-phenomena-uap-studies
+    date: '2019'
+    date_end: null
+    location_in_record: ch24:13256-13718
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 312a3af3-f694-4d92-a3b4-f76ebba5078a
+    claim_hash: f710bf4bf9327c3b3df5582edd812bc43768043856af4f5debb08b019519b1b2
+    content: Julia Mossbridge had recently returned from an event of the Scientific Coalition for UAP Studies (SCU) before
+      the recording of this episode.
+    original_excerpt: you just came back from SCU as well
+    claim_type: administrative
+    attestation: first_hand
+    speaker:
+      node_id: 24d00311-06ac-46a1-a2f5-c99f3f8e21b2
+      title: Chris Ramsay
+    provenance_chain:
+      origin_kind: speaker
+      origin: Chris Ramsay
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 8d3ca113-3f28-4808-998e-34d2837332a5
+        title: Julia Mossbridge
+        slug: julia-mossbridge
+      - node_id: a3c6c31c-1d30-47e3-9dc2-215371969cc6
+        title: Scientific Coalition for Unidentified Aerial Phenomena (UAP) Studies
+        slug: scientific-coalition-for-unidentified-aerial-phenomena-uap-studies
+    date: '2026-08-14'
+    date_end: null
+    location_in_record: 02:46:43.2-02:46:44.4
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 43b2873d-8ebe-46aa-9425-a7e273c46e34
+      record_title: Non Human Intelligence, GATE Program and Psi Ability with Dr. Julia Mossbridge | ep. 99
+      record_date: '2026-08-14'
+      record_reference: https://www.youtube.com/watch?v=-qt2FYdP_EA
+      content_hash: sha256:8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8998cfdcd
+      friendly_name: null
+  - claim_id: 10c0e1b2-33d4-41e5-b6d0-4b45acb85317
+    claim_hash: e3b35adc4978020c3d100e2ce7f1dceb52980de39e03bdf615cf848889750930
+    content: The Scientific Coalition for UAP Studies is a group made up mostly of scientists and engineers trying to work
+      out what can be learned about Unidentified Aerial Phenomena and about non-human intelligence.
+    original_excerpt: it's a group of scientists and engineers mostly who are trying to figure out what can we learn about
+      UAP and what's the deal with NHI.
+    claim_type: administrative
+    attestation: first_hand
+    speaker:
+      node_id: 8d3ca113-3f28-4808-998e-34d2837332a5
+      title: Julia Mossbridge
+    provenance_chain:
+      origin_kind: speaker
+      origin: Julia Mossbridge
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 30940882-37a5-4db5-980d-282dafd2df49
+        title: Nonhuman intelligence (NHI)
+        slug: nonhuman-intelligence-nhi
+      - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
+        title: Unidentified Anomalous Phenomena (UAP)
+        slug: unidentified-anomalous-phenomena-uap
+      - node_id: a3c6c31c-1d30-47e3-9dc2-215371969cc6
+        title: Scientific Coalition for Unidentified Aerial Phenomena (UAP) Studies
+        slug: scientific-coalition-for-unidentified-aerial-phenomena-uap-studies
+    date: null
+    date_end: null
+    location_in_record: 02:46:51.9-02:46:59.3
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 43b2873d-8ebe-46aa-9425-a7e273c46e34
+      record_title: Non Human Intelligence, GATE Program and Psi Ability with Dr. Julia Mossbridge | ep. 99
+      record_date: '2026-08-14'
+      record_reference: https://www.youtube.com/watch?v=-qt2FYdP_EA
+      content_hash: sha256:8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8998cfdcd
+      friendly_name: null
+  - claim_id: 22179427-6554-495f-9424-6662a413d4f0
+    claim_hash: 0e3c1dc69a6b97771166c67e7dc7959b8772aa54548f166daa427769e08a4fcd
+    content: Julia Mossbridge has repeatedly urged the Scientific Coalition for UAP Studies to study consciousness rather
+      than only the craft, and at the most recent gathering the group agreed with her.
+    original_excerpt: I say the same thing whenever I go, which is you guys, we have to study consciousness. Like we can't
+      just look at race cars in the sky. And this year they're like, okay, you're right. We've got to study consciousness.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 8d3ca113-3f28-4808-998e-34d2837332a5
+      title: Julia Mossbridge
+    provenance_chain:
+      origin_kind: speaker
+      origin: Julia Mossbridge
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 8d3ca113-3f28-4808-998e-34d2837332a5
+        title: Julia Mossbridge
+        slug: julia-mossbridge
+      - node_id: a3c6c31c-1d30-47e3-9dc2-215371969cc6
+        title: Scientific Coalition for Unidentified Aerial Phenomena (UAP) Studies
+        slug: scientific-coalition-for-unidentified-aerial-phenomena-uap-studies
+      - node_id: e54f1c29-1780-4810-9c40-4f9baa9f8276
+        title: Nonlocal consciousness
+        slug: nonlocal-consciousness
+    date: null
+    date_end: null
+    location_in_record: 02:47:02.1-02:47:11.6
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 43b2873d-8ebe-46aa-9425-a7e273c46e34
+      record_title: Non Human Intelligence, GATE Program and Psi Ability with Dr. Julia Mossbridge | ep. 99
+      record_date: '2026-08-14'
+      record_reference: https://www.youtube.com/watch?v=-qt2FYdP_EA
+      content_hash: sha256:8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8998cfdcd
+      friendly_name: null

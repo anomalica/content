@@ -1,0 +1,853 @@
+schema: anomalica/brief/1
+brief_hash: 9b680801f19a2484e325b6042d98e23f1be9849837b4ab659522d6d8296f25f4
+page:
+  kind: entity
+  node_id: fc449df6-ae44-400a-afe8-ad2816fa1e9f
+  node_type: person
+  title: John Cordy
+  slug: john-cordy
+  claim_count: 20
+  claim_count_total: 20
+generated:
+  graph_version: '2026-09-01T10:10:49.863545+00:00'
+size:
+  claims: 20
+  tokens_estimated: 5925
+  sized_against: 1050000
+publication:
+  status: published
+  note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
+    transcripts are gated elsewhere.
+belonging:
+  verified: 0
+  suspect_excluded: 0
+  unreviewed: 20
+related_nodes:
+  - node_id: f1f3fbdf-1d40-4497-b859-d6bf312f802d
+    title: Kaikoura UAP Sighting
+    node_type: event
+    slug: kaikoura-uap-sighting
+    shared_claims: 13
+  - node_id: 746f41bc-1c2e-4912-9df8-0711676f4dab
+    title: 1978 Kaikoura lights incident
+    node_type: event
+    slug: 1978-kaikoura-lights-incident
+    shared_claims: 5
+  - node_id: 58d9897e-c5c4-42e1-96ce-26ced5f411cf
+    title: New Zealand, Wellington
+    node_type: place
+    slug: wellington-new-zealand
+    shared_claims: 5
+  - node_id: e7fe2fbf-cd70-46ef-ba18-dc6c1d66e10a
+    title: Argosy aircraft
+    node_type: object
+    slug: argosy-aircraft
+    shared_claims: 2
+  - node_id: 4e4282df-0f0a-4912-a87b-5ebda6fbb2e7
+    title: Cessna aircraft flown by Frederick Valentich
+    node_type: object
+    slug: cessna-aircraft-flown-by-frederick-valentich
+    shared_claims: 1
+  - node_id: e77dc4a2-da3e-4c1c-8cff-0d52576776d4
+    title: Dennis Grant
+    node_type: person
+    slug: dennis-grant
+    shared_claims: 1
+  - node_id: b0fca9a1-c27c-4c42-8d99-c3104b9843ea
+    title: Geoff Causer
+    node_type: person
+    slug: geoff-causer
+    shared_claims: 1
+  - node_id: dea6e499-868a-4365-a7e4-04a18a215554
+    title: Quentin Fogarty
+    node_type: person
+    slug: quentin-fogarty
+    shared_claims: 1
+  - node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+    title: Ross Coulthart
+    node_type: person
+    slug: ross-coulthart
+    shared_claims: 1
+  - node_id: 41d43ef9-532d-45b4-b3c8-1fa0f43b5933
+    title: Royal New Zealand Air Force
+    node_type: organisation
+    slug: royal-new-zealand-air-force
+    shared_claims: 1
+  - node_id: d3b2268a-9812-4dff-bafb-ea1435ecaa62
+    title: Royal New Zealand Air Force report into the 1978 Kaikoura Unidentified Aerial Phenomena (UAP) sighting
+    node_type: document
+    slug: royal-new-zealand-air-force-report-into-the-1978-kaikoura-unidentified-aerial-phenomena-uap-sighting
+    shared_claims: 1
+claims:
+  - claim_id: 6369331b-9e3f-47c6-8341-7b9b51a79669
+    claim_hash: c495381a2389976a6587e2dc7759f1983540679c5c709a71dc34629b12f4cc18
+    content: John Cordy considers the objects tracked on radar during the 1978 Kaikoura UAP sighting to have been solid objects
+      giving a genuine radar return, not refractions or atmospheric effects.
+    original_excerpt: '''They weren''t refractions or atmospherics. They were solid objects giving a radar return. There is
+      no way that we were confused by what we saw,'' he assures me.'
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: fc449df6-ae44-400a-afe8-ad2816fa1e9f
+      title: John Cordy
+    provenance_chain:
+      origin_kind: speaker
+      origin: John Cordy
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: f1f3fbdf-1d40-4497-b859-d6bf312f802d
+        title: Kaikoura UAP Sighting
+        slug: kaikoura-uap-sighting
+      - node_id: fc449df6-ae44-400a-afe8-ad2816fa1e9f
+        title: John Cordy
+        slug: john-cordy
+    date: null
+    date_end: null
+    location_in_record: ch12:1076-1231
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 8d2149bd-01a7-4ccf-89a0-01eb74b746b4
+    claim_hash: 37b631c43a54fd050ca7db9692aa9a3b971686f632fdff8080e22a0fa02e790c
+    content: The Royal New Zealand Air Force's official line asserted that the Wellington air traffic controllers did not
+      know what they were looking at during the 1978 Kaikoura UAP sighting.
+    original_excerpt: '''They went with the line that we air traffic controllers didn''t know what we were looking at. That''s
+      absolute rubbish.'''
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: fc449df6-ae44-400a-afe8-ad2816fa1e9f
+      title: John Cordy
+    provenance_chain:
+      origin_kind: speaker
+      origin: John Cordy
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 41d43ef9-532d-45b4-b3c8-1fa0f43b5933
+        title: Royal New Zealand Air Force
+        slug: royal-new-zealand-air-force
+      - node_id: f1f3fbdf-1d40-4497-b859-d6bf312f802d
+        title: Kaikoura UAP Sighting
+        slug: kaikoura-uap-sighting
+    date: null
+    date_end: null
+    location_in_record: ch12:1237-1372
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 80eefa23-c2a4-43bc-8920-df85698b75e4
+    claim_hash: 41e4f8acd1e267ce4591a53faf91709aaa20861d5e8ff9699212d0129fefc69f
+    content: Air force investigators into the 1978 Kaikoura UAP sighting claimed to have interviewed all witnesses, yet never
+      interviewed John Cordy.
+    original_excerpt: what surprised me most about Cordy's evidence was that air force investigators claimed to have interviewed
+      all the witnesses, yet they never bothered to interview him.
+    claim_type: observation
+    attestation: first_hand
+    speaker:
+      node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+      title: Ross Coulthart
+    provenance_chain:
+      origin_kind: speaker
+      origin: Ross Coulthart
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 41d43ef9-532d-45b4-b3c8-1fa0f43b5933
+        title: Royal New Zealand Air Force
+        slug: royal-new-zealand-air-force
+      - node_id: f1f3fbdf-1d40-4497-b859-d6bf312f802d
+        title: Kaikoura UAP Sighting
+        slug: kaikoura-uap-sighting
+      - node_id: fc449df6-ae44-400a-afe8-ad2816fa1e9f
+        title: John Cordy
+        slug: john-cordy
+    date: null
+    date_end: null
+    location_in_record: ch12:1413-1576
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: e111d2e0-0e68-4b5a-b3f1-a4968ecd43a5
+    claim_hash: 107d6753a71bc7272cb6a5ce5b40c977a20f59aa97aa28702c7c7d787cdf6bf1
+    content: The Royal New Zealand Air Force's official finding on the 1978 Kaikoura UAP sighting asserted that John Cordy
+      and other air traffic controllers at Wellington Airport were confused by anomalous faulty radar returns.
+    original_excerpt: He remains bitter that the Royal New Zealand Air Force's official finding asserted that he and other
+      air traffic controllers at Wellington Airport were confused by anomalous faulty radar returns, yet he was never even
+      questioned about what he saw.
+    claim_type: administrative
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: document
+      origin: Royal New Zealand Air Force report into the 1978 Kaikoura UAP sighting
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: d3b2268a-9812-4dff-bafb-ea1435ecaa62
+        title: Royal New Zealand Air Force report into the 1978 Kaikoura Unidentified Aerial Phenomena (UAP) sighting
+        slug: royal-new-zealand-air-force-report-into-the-1978-kaikoura-unidentified-aerial-phenomena-uap-sighting
+      - node_id: f1f3fbdf-1d40-4497-b859-d6bf312f802d
+        title: Kaikoura UAP Sighting
+        slug: kaikoura-uap-sighting
+      - node_id: fc449df6-ae44-400a-afe8-ad2816fa1e9f
+        title: John Cordy
+        slug: john-cordy
+    date: null
+    date_end: null
+    location_in_record: ch12:1769-2012
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 947a5a36-b129-41db-9a82-714c789fb6ae
+    claim_hash: ac3362b1f5b4daea02e18138aab6a5c741fb2246993023fdcf7d69e339a6e86a
+    content: John Cordy knew that what the Argosy aircraft's occupants saw during the 1978 Kaikoura UAP sighting was neither
+      squid boat lights nor the planet Venus.
+    original_excerpt: He knew enough to know that what the Argosy aircraft's occupants saw that night was neither squid boat
+      lights nor the planet Venus.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: fc449df6-ae44-400a-afe8-ad2816fa1e9f
+      title: John Cordy
+    provenance_chain:
+      origin_kind: speaker
+      origin: John Cordy
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 4e4282df-0f0a-4912-a87b-5ebda6fbb2e7
+        title: Cessna aircraft flown by Frederick Valentich
+        slug: cessna-aircraft-flown-by-frederick-valentich
+      - node_id: e7fe2fbf-cd70-46ef-ba18-dc6c1d66e10a
+        title: Argosy aircraft
+        slug: argosy-aircraft
+      - node_id: f1f3fbdf-1d40-4497-b859-d6bf312f802d
+        title: Kaikoura UAP Sighting
+        slug: kaikoura-uap-sighting
+      - node_id: fc449df6-ae44-400a-afe8-ad2816fa1e9f
+        title: John Cordy
+        slug: john-cordy
+    date: null
+    date_end: null
+    location_in_record: ch12:2017-2142
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 30a5467a-71a0-4590-aa1a-47426e28f1dc
+    claim_hash: 87998639eef4682efd265a08f48714e6f669b0910b40f9c02e09e37acac2f6f5
+    content: John Cordy does not believe the objects seen during the 1978 Kaikoura UAP sighting were aliens in flying saucers,
+      but considers them simply unidentified.
+    original_excerpt: '''They were simply unidentified. There''s been lots of explanations but none of them fit the facts,''
+      he tells me.'
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: fc449df6-ae44-400a-afe8-ad2816fa1e9f
+      title: John Cordy
+    provenance_chain:
+      origin_kind: speaker
+      origin: John Cordy
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: f1f3fbdf-1d40-4497-b859-d6bf312f802d
+        title: Kaikoura UAP Sighting
+        slug: kaikoura-uap-sighting
+      - node_id: fc449df6-ae44-400a-afe8-ad2816fa1e9f
+        title: John Cordy
+        slug: john-cordy
+    date: null
+    date_end: null
+    location_in_record: ch12:2218-2325
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 0daee911-f1a4-4471-b58f-e1bedd6aa9fd
+    claim_hash: 7a48b8ffca8c200405cd2e4cd32a4b9f5e9b2aa920c0f06a42f5dcb4f0adf0c0
+    content: During the 1978 Kaikoura UAP sighting, John Cordy was in communication with the pilot as he described the objects
+      moving around him, and Cordy could see the objects on radar at the same time.
+    original_excerpt: '''We saw targets on radar that we could not explain. We were in communication with the pilot as he
+      described the objects moving around him and we could see those on the radar.'
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: fc449df6-ae44-400a-afe8-ad2816fa1e9f
+      title: John Cordy
+    provenance_chain:
+      origin_kind: speaker
+      origin: John Cordy
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: f1f3fbdf-1d40-4497-b859-d6bf312f802d
+        title: Kaikoura UAP Sighting
+        slug: kaikoura-uap-sighting
+      - node_id: fc449df6-ae44-400a-afe8-ad2816fa1e9f
+        title: John Cordy
+        slug: john-cordy
+    date: null
+    date_end: null
+    location_in_record: ch12:2330-2497
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 7f1122a5-c082-46a8-8552-b1eae4356956
+    claim_hash: 144265e9709f65b498aa16ad79d962286e9f414bdac10c75e0355f5e8038c0bb
+    content: During the 1978 Kaikoura UAP sighting, the objects parallel-tracked the aircraft for approximately 64 kilometres.
+    original_excerpt: They parallel-tracked the plane for 40 miles.
+    claim_type: measurement
+    attestation: first_hand
+    speaker:
+      node_id: fc449df6-ae44-400a-afe8-ad2816fa1e9f
+      title: John Cordy
+    provenance_chain:
+      origin_kind: speaker
+      origin: John Cordy
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: f1f3fbdf-1d40-4497-b859-d6bf312f802d
+        title: Kaikoura UAP Sighting
+        slug: kaikoura-uap-sighting
+      - node_id: fc449df6-ae44-400a-afe8-ad2816fa1e9f
+        title: John Cordy
+        slug: john-cordy
+    date: null
+    date_end: null
+    location_in_record: ch12:2504-2543
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 40661950-19c0-45aa-9489-e011e535792b
+    claim_hash: 0b26e5802cd72da933ab22a917c483db6983565f0d93aa0cf0f57b1dbc3ea279
+    content: The objects tracked during the 1978 Kaikoura UAP sighting were at an altitude of approximately 4,300 metres,
+      making it implausible that squid boats could have been dropping fishing lines there.
+    original_excerpt: I'd love to have seen how squid boats could possibly be dropping their lines from the 14,000-feet altitude
+      where we tracked these objects.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: fc449df6-ae44-400a-afe8-ad2816fa1e9f
+      title: John Cordy
+    provenance_chain:
+      origin_kind: speaker
+      origin: John Cordy
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: f1f3fbdf-1d40-4497-b859-d6bf312f802d
+        title: Kaikoura UAP Sighting
+        slug: kaikoura-uap-sighting
+      - node_id: fc449df6-ae44-400a-afe8-ad2816fa1e9f
+        title: John Cordy
+        slug: john-cordy
+    date: null
+    date_end: null
+    location_in_record: ch12:2550-2680
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: d9209c18-a619-4206-bac8-6e2e67ca6302
+    claim_hash: 9acca8339bbbfaee070f882c85bf97637fec024bff62dadc7f795708a88bb860
+    content: John Cordy's considered professional opinion is that there was nothing wrong with the radar on either night the
+      objects were seen during the 1978 Kaikoura UAP sighting.
+    original_excerpt: '''It is my considered professional opinion that there was nothing wrong with the radar on either night
+      these objects were seen,'' Cordy declares.'
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: fc449df6-ae44-400a-afe8-ad2816fa1e9f
+      title: John Cordy
+    provenance_chain:
+      origin_kind: speaker
+      origin: John Cordy
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: f1f3fbdf-1d40-4497-b859-d6bf312f802d
+        title: Kaikoura UAP Sighting
+        slug: kaikoura-uap-sighting
+      - node_id: fc449df6-ae44-400a-afe8-ad2816fa1e9f
+        title: John Cordy
+        slug: john-cordy
+    date: null
+    date_end: null
+    location_in_record: ch12:3863-3996
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: cabf1726-ed68-4f9d-aa58-c46e85876388
+    claim_hash: d1d45b3509387f5d9854f7a5b8b65b32ecf1e1eba698b2d1fc1bc0fa664b34cf
+    content: John Cordy was one of the Wellington airport air traffic controllers on duty the night unidentified objects appeared
+      on radar screens during the 1978 Kaikoura UAP sighting in late December 1978.
+    original_excerpt: For John was one of the Wellington airport air traffic controllers on duty the night the unidentified
+      objects appeared on radar screens at the capital city's airport just across Cook Strait.
+    claim_type: administrative
+    attestation: first_hand
+    speaker:
+      node_id: fc449df6-ae44-400a-afe8-ad2816fa1e9f
+      title: John Cordy
+    provenance_chain:
+      origin_kind: speaker
+      origin: John Cordy
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 58d9897e-c5c4-42e1-96ce-26ced5f411cf
+        title: New Zealand, Wellington
+        slug: wellington-new-zealand
+      - node_id: f1f3fbdf-1d40-4497-b859-d6bf312f802d
+        title: Kaikoura UAP Sighting
+        slug: kaikoura-uap-sighting
+      - node_id: fc449df6-ae44-400a-afe8-ad2816fa1e9f
+        title: John Cordy
+        slug: john-cordy
+    date: null
+    date_end: null
+    location_in_record: ch12:884-1067
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 4ff1e012-f2be-48cc-a963-706b50f2f4b6
+    claim_hash: 91ee809641f750b23db29af6cad54d3ff286178be6f9ba4ca5ec402a6c63a7ab
+    content: Geoff Causer and John Cordy were air traffic controllers at Wellington Airport, New Zealand, control tower who
+      witnessed the Kaikoura UFOs tracking a cargo aircraft in 1978-12.
+    original_excerpt: 'Two of the air traffic controllers at Wellington Airport, New Zealand, control tower who witnessed
+      the Kaikoura UFOs tracking a cargo aircraft in December 1978: Geoff Causer (front) and John Cordy (behind).'
+    claim_type: observation
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 58d9897e-c5c4-42e1-96ce-26ced5f411cf
+        title: New Zealand, Wellington
+        slug: wellington-new-zealand
+      - node_id: b0fca9a1-c27c-4c42-8d99-c3104b9843ea
+        title: Geoff Causer
+        slug: geoff-causer
+      - node_id: f1f3fbdf-1d40-4497-b859-d6bf312f802d
+        title: Kaikoura UAP Sighting
+        slug: kaikoura-uap-sighting
+      - node_id: fc449df6-ae44-400a-afe8-ad2816fa1e9f
+        title: John Cordy
+        slug: john-cordy
+    date: 1978-12
+    date_end: null
+    location_in_record: ch37:4712-4910
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: e0415779-8a88-408b-a821-903b262eb04f
+    claim_hash: bf957d75b43aec6b9df0bcebdcd3bf0633cca82a24c677d8007f4f7ed7f3baab
+    content: John Cordy says there was nothing wrong with the radar system on the night of the 1978 Kaikoura UAP sighting.
+    original_excerpt: Despite official assertions, Cordy says there was nothing wrong with the radar system that night
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: fc449df6-ae44-400a-afe8-ad2816fa1e9f
+      title: John Cordy
+    provenance_chain:
+      origin_kind: speaker
+      origin: John Cordy
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: f1f3fbdf-1d40-4497-b859-d6bf312f802d
+        title: Kaikoura UAP Sighting
+        slug: kaikoura-uap-sighting
+      - node_id: fc449df6-ae44-400a-afe8-ad2816fa1e9f
+        title: John Cordy
+        slug: john-cordy
+    date: 1978-12
+    date_end: null
+    location_in_record: ch37:4919-5010
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: d413de7a-82ea-4292-a33b-ba8f9565dd08
+    claim_hash: 539ae4784e422d0276884cb8607d4116805968f2b24cc0303c0d5ba0e93801b2
+    content: John Cordy says whatever was tracked during the 1978 Kaikoura UAP sighting was not fishing-boat lights reflecting
+      off clouds, because he saw it on his radar.
+    original_excerpt: whatever it was, it was not fishing-boat lights reflecting off clouds, because he saw it on his radar.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: fc449df6-ae44-400a-afe8-ad2816fa1e9f
+      title: John Cordy
+    provenance_chain:
+      origin_kind: speaker
+      origin: John Cordy
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: f1f3fbdf-1d40-4497-b859-d6bf312f802d
+        title: Kaikoura UAP Sighting
+        slug: kaikoura-uap-sighting
+      - node_id: fc449df6-ae44-400a-afe8-ad2816fa1e9f
+        title: John Cordy
+        slug: john-cordy
+    date: 1978-12
+    date_end: null
+    location_in_record: ch37:5020-5116
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: a82d5802-1093-46e8-9ea7-faa8217623ea
+    claim_hash: 9e06521d4779907e8dfc1691bd77b179956e93246e4180ab12bd933928d2d66f
+    content: John Cordy was an air traffic controller at Wellington Airport at the time of the 1978 Kaikoura lights incident.
+    original_excerpt: There was a guy called John Cordy at Wellington Airport, which was across Cook Strait at the bottom
+      of the North Island
+    claim_type: administrative
+    attestation: first_hand
+    speaker:
+      node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+      title: Ross Coulthart
+    provenance_chain:
+      origin_kind: speaker
+      origin: Ross Coulthart
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 58d9897e-c5c4-42e1-96ce-26ced5f411cf
+        title: New Zealand, Wellington
+        slug: wellington-new-zealand
+      - node_id: 746f41bc-1c2e-4912-9df8-0711676f4dab
+        title: 1978 Kaikoura lights incident
+        slug: 1978-kaikoura-lights-incident
+      - node_id: fc449df6-ae44-400a-afe8-ad2816fa1e9f
+        title: John Cordy
+        slug: john-cordy
+    date: '1978-12-30'
+    date_end: null
+    location_in_record: 00:14:46.8-00:14:52.8
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: fd845823-8784-462c-a981-4775525b6f84
+      record_title: The DANGEROUS Truth About UFOs - Ross Coulthart | DEBRIEFED ep. 76
+      record_date: '2026-02-20'
+      record_reference: https://www.youtube.com/watch?v=idBryc0eWww
+      content_hash: sha256:73be106d406f6d35a063a894e8384e7da0918eb8597d2107a9e3653becca2bdc
+      friendly_name: null
+  - claim_id: 3368396e-ae1a-46a2-ae59-e3c643a506f7
+    claim_hash: fa75580f486d4c524b087cd089fdf1037a82d10adba286604d2845fe50342710
+    content: John Cordy retained a detailed recollection of the night of the 1978 Kaikoura lights incident when Ross Coulthart
+      interviewed him.
+    original_excerpt: he had an absolute razor-sharp memory of what had happened that night
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+      title: Ross Coulthart
+    provenance_chain:
+      origin_kind: speaker
+      origin: Ross Coulthart
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 746f41bc-1c2e-4912-9df8-0711676f4dab
+        title: 1978 Kaikoura lights incident
+        slug: 1978-kaikoura-lights-incident
+      - node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+        title: Ross Coulthart
+        slug: ross-coulthart
+      - node_id: fc449df6-ae44-400a-afe8-ad2816fa1e9f
+        title: John Cordy
+        slug: john-cordy
+    date: null
+    date_end: null
+    location_in_record: 00:15:00.5-00:15:04.4
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: fd845823-8784-462c-a981-4775525b6f84
+      record_title: The DANGEROUS Truth About UFOs - Ross Coulthart | DEBRIEFED ep. 76
+      record_date: '2026-02-20'
+      record_reference: https://www.youtube.com/watch?v=idBryc0eWww
+      content_hash: sha256:73be106d406f6d35a063a894e8384e7da0918eb8597d2107a9e3653becca2bdc
+      friendly_name: null
+  - claim_id: 2273b021-7698-45a2-a83f-b6cc77875328
+    claim_hash: 9dfb9ca6cf094902d612993e154ea4c92e0e5d1febad76d3977dd0bb772a0cc6
+    content: During the 1978 Kaikoura lights incident John Cordy and a second, principal air traffic controller observed radar
+      returns of objects moving around an Argosy cargo aircraft.
+    original_excerpt: he described how he and another controller, the other controller was the principal controller... They
+      were looking at radar returns and objects moving around the Argosy cargo aircraft.
+    claim_type: observation
+    attestation: second_hand
+    speaker:
+      node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+      title: Ross Coulthart
+    provenance_chain:
+      origin_kind: named
+      origin: John Cordy
+      relay:
+        - interview with Ross Coulthart
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 746f41bc-1c2e-4912-9df8-0711676f4dab
+        title: 1978 Kaikoura lights incident
+        slug: 1978-kaikoura-lights-incident
+      - node_id: e7fe2fbf-cd70-46ef-ba18-dc6c1d66e10a
+        title: Argosy aircraft
+        slug: argosy-aircraft
+      - node_id: fc449df6-ae44-400a-afe8-ad2816fa1e9f
+        title: John Cordy
+        slug: john-cordy
+    date: '1978-12-30'
+    date_end: null
+    location_in_record: 00:15:18.0-00:15:32.4
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: fd845823-8784-462c-a981-4775525b6f84
+      record_title: The DANGEROUS Truth About UFOs - Ross Coulthart | DEBRIEFED ep. 76
+      record_date: '2026-02-20'
+      record_reference: https://www.youtube.com/watch?v=idBryc0eWww
+      content_hash: sha256:73be106d406f6d35a063a894e8384e7da0918eb8597d2107a9e3653becca2bdc
+      friendly_name: null
+  - claim_id: 2c098fc5-cb4f-40a2-a34b-fe8dc8a18a8a
+    claim_hash: bfca01fa2c3f48a8c0575523f6a21b25104ae23ccf0ef1e89c7c43fc582c7df7
+    content: Dennis Grant retains his contemporaneous notes recorded inside the Argosy cargo aircraft during the 1978 Kaikoura
+      lights incident, and those notes match the positions John Cordy reported seeing on radar in Wellington.
+    original_excerpt: Dennis is still alive and he's got his notes of what he recorded inside the aircraft and those notes
+      are corroborating what was being said back to the air traffic controllers at this time exactly... that's exactly what
+      John Cordy was saying he was seeing back in Wellington
+    claim_type: testimony
+    attestation: second_hand
+    speaker:
+      node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+      title: Ross Coulthart
+    provenance_chain:
+      origin_kind: named
+      origin: Dennis Grant
+      relay:
+        - Ross Coulthart
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 58d9897e-c5c4-42e1-96ce-26ced5f411cf
+        title: New Zealand, Wellington
+        slug: wellington-new-zealand
+      - node_id: 746f41bc-1c2e-4912-9df8-0711676f4dab
+        title: 1978 Kaikoura lights incident
+        slug: 1978-kaikoura-lights-incident
+      - node_id: e77dc4a2-da3e-4c1c-8cff-0d52576776d4
+        title: Dennis Grant
+        slug: dennis-grant
+      - node_id: fc449df6-ae44-400a-afe8-ad2816fa1e9f
+        title: John Cordy
+        slug: john-cordy
+    date: '1978-12-30'
+    date_end: null
+    location_in_record: 00:16:32.7-00:16:55.5
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: fd845823-8784-462c-a981-4775525b6f84
+      record_title: The DANGEROUS Truth About UFOs - Ross Coulthart | DEBRIEFED ep. 76
+      record_date: '2026-02-20'
+      record_reference: https://www.youtube.com/watch?v=idBryc0eWww
+      content_hash: sha256:73be106d406f6d35a063a894e8384e7da0918eb8597d2107a9e3653becca2bdc
+      friendly_name: null
+  - claim_id: b0432c7a-f374-433a-83cf-7ab4ea5584cf
+    claim_hash: 54f2e0d91380f479605f89128ef867ae7c9ae5e47e35cc58ba12b4b3f483f747
+    content: John Cordy died approximately two or three years before 2026-02-20.
+    original_excerpt: John Cordy, who's now sadly passed away. He passed away about two or three years ago.
+    claim_type: administrative
+    attestation: first_hand
+    speaker:
+      node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+      title: Ross Coulthart
+    provenance_chain:
+      origin_kind: speaker
+      origin: Ross Coulthart
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: fc449df6-ae44-400a-afe8-ad2816fa1e9f
+        title: John Cordy
+        slug: john-cordy
+    date: null
+    date_end: null
+    location_in_record: 00:18:30.8-00:18:34.8
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: fd845823-8784-462c-a981-4775525b6f84
+      record_title: The DANGEROUS Truth About UFOs - Ross Coulthart | DEBRIEFED ep. 76
+      record_date: '2026-02-20'
+      record_reference: https://www.youtube.com/watch?v=idBryc0eWww
+      content_hash: sha256:73be106d406f6d35a063a894e8384e7da0918eb8597d2107a9e3653becca2bdc
+      friendly_name: null
+  - claim_id: 4d0896bb-6508-4637-a289-ed90a3a4de72
+    claim_hash: 8a39d93ce96f426b2694a9c05cbaf44ab82404c078831b12fa65aca632069f27
+    content: John Cordy told Ross Coulthart that the air traffic controllers at Wellington Tower became very unpopular and
+      suffered professionally for publicly corroborating what Quentin Fogarty filmed during the 1978 Kaikoura lights incident.
+    original_excerpt: John Cordy told me how it was obvious to him in the air traffic control tower in Wellington Tower, they
+      were very unpopular for corroborating what Quentin Fogarty, the filmmaker, recorded... Yeah, basically they suffered.
+      for speaking out publicly.
+    claim_type: testimony
+    attestation: second_hand
+    speaker:
+      node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+      title: Ross Coulthart
+    provenance_chain:
+      origin_kind: named
+      origin: John Cordy
+      relay:
+        - interview with Ross Coulthart
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 58d9897e-c5c4-42e1-96ce-26ced5f411cf
+        title: New Zealand, Wellington
+        slug: wellington-new-zealand
+      - node_id: 746f41bc-1c2e-4912-9df8-0711676f4dab
+        title: 1978 Kaikoura lights incident
+        slug: 1978-kaikoura-lights-incident
+      - node_id: dea6e499-868a-4365-a7e4-04a18a215554
+        title: Quentin Fogarty
+        slug: quentin-fogarty
+      - node_id: fc449df6-ae44-400a-afe8-ad2816fa1e9f
+        title: John Cordy
+        slug: john-cordy
+    date: null
+    date_end: null
+    location_in_record: 00:18:35.7-00:18:53.9
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: fd845823-8784-462c-a981-4775525b6f84
+      record_title: The DANGEROUS Truth About UFOs - Ross Coulthart | DEBRIEFED ep. 76
+      record_date: '2026-02-20'
+      record_reference: https://www.youtube.com/watch?v=idBryc0eWww
+      content_hash: sha256:73be106d406f6d35a063a894e8384e7da0918eb8597d2107a9e3653becca2bdc
+      friendly_name: null

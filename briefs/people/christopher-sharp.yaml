@@ -1,0 +1,626 @@
+schema: anomalica/brief/1
+brief_hash: d224fb43881e621bbb359db66acef2d8a882fdb892e59786847f415815f735f2
+page:
+  kind: entity
+  node_id: e921bccc-8a7a-4279-9873-8f3a5997be16
+  node_type: person
+  title: Christopher Sharp
+  slug: christopher-sharp
+  claim_count: 15
+  claim_count_total: 15
+generated:
+  graph_version: '2026-09-01T10:10:49.863545+00:00'
+size:
+  claims: 15
+  tokens_estimated: 4496
+  sized_against: 1050000
+publication:
+  status: published
+  note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
+    transcripts are gated elsewhere.
+belonging:
+  verified: 0
+  suspect_excluded: 0
+  unreviewed: 15
+related_nodes:
+  - node_id: 9c74d864-957a-4654-a5b6-1249fe654ec7
+    title: Non-Human Intelligence
+    node_type: topic
+    slug: non-human-intelligence
+    shared_claims: 1
+  - node_id: 13b14438-a42d-4b08-8213-e10f6dd0d242
+    title: Susan Gough
+    node_type: person
+    slug: susan-gough
+    shared_claims: 1
+  - node_id: 403edb72-ebc4-4b89-8746-4cd19e089691
+    title: The Pentagon
+    node_type: organisation
+    slug: the-pentagon
+    shared_claims: 1
+claims:
+  - claim_id: 50129d62-2168-4840-bdf8-28c0a8755de4
+    claim_hash: 94f437df80edabffa9fcc9ce039bca6286a260d438dad7452a9a77ae9acc8e24
+    content: Chris Sharp put to Susan Gough at the Pentagon that the term non-human intelligence (NHI) be used in substitution,
+      and she would not allow it.
+    original_excerpt: iend Chris Sharp has put that to Susan Goff at the Pentagon, and she won't allow him to use NHI in substitution.
+    claim_type: testimony
+    attestation: second_hand
+    speaker:
+      node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+      title: Ross Coulthart
+    provenance_chain:
+      origin_kind: named
+      origin: Chris Sharp
+      relay:
+        - Ross Coulthart
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 13b14438-a42d-4b08-8213-e10f6dd0d242
+        title: Susan Gough
+        slug: susan-gough
+      - node_id: 403edb72-ebc4-4b89-8746-4cd19e089691
+        title: The Pentagon
+        slug: the-pentagon
+      - node_id: 9c74d864-957a-4654-a5b6-1249fe654ec7
+        title: Non-Human Intelligence
+        slug: non-human-intelligence
+      - node_id: e921bccc-8a7a-4279-9873-8f3a5997be16
+        title: Christopher Sharp
+        slug: christopher-sharp
+    date: null
+    date_end: null
+    location_in_record: 01:04:01.7-01:04:08.4
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: fd845823-8784-462c-a981-4775525b6f84
+      record_title: The DANGEROUS Truth About UFOs - Ross Coulthart | DEBRIEFED ep. 76
+      record_date: '2026-02-20'
+      record_reference: https://www.youtube.com/watch?v=idBryc0eWww
+      content_hash: sha256:73be106d406f6d35a063a894e8384e7da0918eb8597d2107a9e3653becca2bdc
+      friendly_name: null
+  - claim_id: dc20b4bf-d601-48b0-a5f1-a6f6b3dbef19
+    claim_hash: b939564bddccaab0e3b0e9a128f1d7e0aca79614b9332d33b56d68c1d04012c1
+    content: Liberation Times has not independently substantiated the allegations concerning Aaron Lukas.
+    original_excerpt: Liberation Times has not independently substantiated the allegations concerning Lukas.
+    claim_type: administrative
+    attestation: null
+    speaker:
+      node_id: e921bccc-8a7a-4279-9873-8f3a5997be16
+      title: Christopher Sharp
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: a7726ea1-8d0d-4d27-bdba-be309f70fea1
+        title: Liberation Times
+        slug: liberation-times
+      - node_id: f2bea849-8b2e-425e-a368-946e39e457c1
+        title: Aaron Lukas
+        slug: aaron-lukas
+    date: null
+    date_end: null
+    location_in_record: char:10038-10118
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 9bea2ffb-0e64-484e-99d8-339086249e40
+      record_title: IC Watchdog Responds to Alleged UAP Whistleblower Leak — Liberation Times | Reimagining Old News
+      record_date: '2026-08-11'
+      record_reference: https://www.liberationtimes.com/home/intelligence-watchdog-warns-of-fbi-referral-over-alleged-disclosure-of-uap-whistleblower-testimony
+      content_hash: sha256:f8225cc90eefd747010a6c48788489108c8c2bf65c2183ad008a448529ecd031
+      friendly_name: null
+  - claim_id: 5f14fd24-01c3-4d6a-a008-06edb3f290a6
+    claim_hash: 64e7d97124aa970bf42175afa95049601f1582867bb6c0c61affa9506095d539
+    content: Jeremy Corbell's allegation concerning Dylan Borland forms part of a broader controversy surrounding the Office
+      of the Director of National Intelligence's Director's Initiatives Group (DIG).
+    original_excerpt: Corbell’s allegation concerning Borland forms part of a broader controversy surrounding ODNI’s Director’s
+      Initiatives Group (DIG).
+    claim_type: administrative
+    attestation: null
+    speaker:
+      node_id: e921bccc-8a7a-4279-9873-8f3a5997be16
+      title: Christopher Sharp
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 20328e3c-bc7e-4529-82d9-3e7b5bcac165
+        title: Director's Initiatives Group (DIG)
+        slug: directors-initiatives-group-dig
+      - node_id: 8625ca77-9860-40fe-b2fe-6ee74f1b5174
+        title: Jeremy Corbell
+        slug: jeremy-corbell
+      - node_id: c442597b-8900-4212-98ee-ba7b29d985e2
+        title: Dylan Borland
+        slug: dylan-borland
+      - node_id: c52fd2ac-fa87-43e8-8a8b-1bbd33ef6a28
+        title: Office of the Director of National Intelligence (ODNI)
+        slug: office-of-the-director-of-national-intelligence-odni
+    date: null
+    date_end: null
+    location_in_record: char:2984-3109
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 9bea2ffb-0e64-484e-99d8-339086249e40
+      record_title: IC Watchdog Responds to Alleged UAP Whistleblower Leak — Liberation Times | Reimagining Old News
+      record_date: '2026-08-11'
+      record_reference: https://www.liberationtimes.com/home/intelligence-watchdog-warns-of-fbi-referral-over-alleged-disclosure-of-uap-whistleblower-testimony
+      content_hash: sha256:f8225cc90eefd747010a6c48788489108c8c2bf65c2183ad008a448529ecd031
+      friendly_name: null
+  - claim_id: 3f851c33-8943-4bcc-b840-6da222dacfd5
+    claim_hash: 8ec612c0a1e02ba733895446f6e66217ac79a0b3f0b7ca91f74ab444641cdfb5
+    content: The Office of the Director of National Intelligence's statement did not directly address whether information
+      from Matthew Brown's meeting had been disclosed or whether ODNI was examining the allegation.
+    original_excerpt: The statement did not directly address whether information from Brown’s meeting had been disclosed or
+      whether ODNI was examining the allegation.
+    claim_type: administrative
+    attestation: null
+    speaker:
+      node_id: e921bccc-8a7a-4279-9873-8f3a5997be16
+      title: Christopher Sharp
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: c52fd2ac-fa87-43e8-8a8b-1bbd33ef6a28
+        title: Office of the Director of National Intelligence (ODNI)
+        slug: office-of-the-director-of-national-intelligence-odni
+      - node_id: eaacf562-80b6-48bc-8e23-10c75d8485b3
+        title: Matthew Brown
+        slug: matthew-brown
+    date: null
+    date_end: null
+    location_in_record: char:4749-4882
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 9bea2ffb-0e64-484e-99d8-339086249e40
+      record_title: IC Watchdog Responds to Alleged UAP Whistleblower Leak — Liberation Times | Reimagining Old News
+      record_date: '2026-08-11'
+      record_reference: https://www.liberationtimes.com/home/intelligence-watchdog-warns-of-fbi-referral-over-alleged-disclosure-of-uap-whistleblower-testimony
+      content_hash: sha256:f8225cc90eefd747010a6c48788489108c8c2bf65c2183ad008a448529ecd031
+      friendly_name: null
+  - claim_id: 2451995a-97db-4030-83c6-a2a2a3fa69a3
+    claim_hash: d1a1efb10bb3b707c6e55ffed23be66c27410e009d7217bdfac3b0823c2ae7cd
+    content: James E. Erdman III appeared willing to credit military witnesses describing UAP incidents outside the secrecy
+      of alleged UAP Special Access Programs and Controlled Access Programs.
+    original_excerpt: Erdman appeared willing to credit military witnesses describing incidents outside the secrecy of alleged
+      UAP Special Access Programs and Controlled Access Programs.
+    claim_type: observation
+    attestation: null
+    speaker:
+      node_id: e921bccc-8a7a-4279-9873-8f3a5997be16
+      title: Christopher Sharp
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: ad492b48-4298-48fc-9a7a-5466291443f2
+        title: James E. Erdman III
+        slug: james-e-erdman-iii
+    date: null
+    date_end: null
+    location_in_record: char:8050-8205
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 9bea2ffb-0e64-484e-99d8-339086249e40
+      record_title: IC Watchdog Responds to Alleged UAP Whistleblower Leak — Liberation Times | Reimagining Old News
+      record_date: '2026-08-11'
+      record_reference: https://www.liberationtimes.com/home/intelligence-watchdog-warns-of-fbi-referral-over-alleged-disclosure-of-uap-whistleblower-testimony
+      content_hash: sha256:f8225cc90eefd747010a6c48788489108c8c2bf65c2183ad008a448529ecd031
+      friendly_name: null
+  - claim_id: 04bfb5c0-36db-48a8-818c-ca0ffe0c9b14
+    claim_hash: d15b99d37724d132a8cc6a7240c61bbb0f448d06ee558721ffea8901d4ecf2c4
+    content: An anonymous source claiming knowledge of the matter told Liberation Times that the US government, including
+      the All-domain Anomaly Resolution Office (AARO), is aware of data indicating extreme-performance incidents.
+    original_excerpt: Sources also tell Liberation Times that the U.S. government - including its UAP office, the All‑domain
+      Anomaly Resolution Office (AARO) - is aware of data indicating extreme‑performance incidents.
+    claim_type: hearsay
+    attestation: second_hand
+    speaker:
+      node_id: e921bccc-8a7a-4279-9873-8f3a5997be16
+      title: Christopher Sharp
+    provenance_chain:
+      origin_kind: anonymous
+      origin: a person claiming knowledge of United States government data on UAP incidents
+      relay:
+        - Liberation Times
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 2e6ef937-4471-457c-b4fa-7e078cf3baf6
+        title: USA
+        slug: usa
+      - node_id: a7726ea1-8d0d-4d27-bdba-be309f70fea1
+        title: Liberation Times
+        slug: liberation-times
+      - node_id: e79e207c-a848-4eb7-9246-07587b20d2c1
+        title: All-domain Anomaly Resolution Office (AARO)
+        slug: all-domain-anomaly-resolution-office-aaro
+    date: null
+    date_end: null
+    location_in_record: char:5892-6078
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3b884786-04ff-4e4b-816f-621161e9d948
+      record_title: Pressure Mounts on President Trump as UAP Disclosure Advocates Intensify Their Push
+      record_date: '2026-08-19'
+      record_reference: https://www.liberationtimes.com/home/the-push-for-ufo-disclosure-intensifies-as-pressure-mounts-on-donald-trump
+      content_hash: sha256:dc288b5d31307a5eb396b1ecc4f3e2ee1e01673ec8707bb47111173faa83e683
+      friendly_name: null
+  - claim_id: b5248f5c-61f3-41a2-8c89-786877416727
+    claim_hash: 762b18253de0594396dc54f9a5724f9f8a1bb24f62f6a89b851316e108dc01d7
+    content: An anonymous source claiming knowledge of the matter told Liberation Times that objects have been reported traversing
+      the Atlantic Ocean from end to end in three seconds.
+    original_excerpt: These reportedly include objects traversing the Atlantic Ocean from end to end in three seconds, as
+      well as similar episodes of rapid acceleration observed in the vicinity of Japan.
+    claim_type: hearsay
+    attestation: second_hand
+    speaker:
+      node_id: e921bccc-8a7a-4279-9873-8f3a5997be16
+      title: Christopher Sharp
+    provenance_chain:
+      origin_kind: anonymous
+      origin: a person claiming knowledge of United States government data on UAP incidents
+      relay:
+        - Liberation Times
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 371f7ff4-a894-46e4-8914-73a0cbe432e7
+        title: Atlantic Ocean
+        slug: atlantic-ocean
+      - node_id: a7726ea1-8d0d-4d27-bdba-be309f70fea1
+        title: Liberation Times
+        slug: liberation-times
+    date: null
+    date_end: null
+    location_in_record: char:6090-6265
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3b884786-04ff-4e4b-816f-621161e9d948
+      record_title: Pressure Mounts on President Trump as UAP Disclosure Advocates Intensify Their Push
+      record_date: '2026-08-19'
+      record_reference: https://www.liberationtimes.com/home/the-push-for-ufo-disclosure-intensifies-as-pressure-mounts-on-donald-trump
+      content_hash: sha256:dc288b5d31307a5eb396b1ecc4f3e2ee1e01673ec8707bb47111173faa83e683
+      friendly_name: null
+  - claim_id: 69f0bc0c-7235-417f-b602-5dccf763404a
+    claim_hash: 42c717600cd3754d6b3e03ac76703307682bb218de222f104d712a15f95381a3
+    content: An anonymous source claiming knowledge of the matter told Liberation Times that similar episodes of rapid acceleration
+      have been observed in the vicinity of Japan.
+    original_excerpt: as well as similar episodes of rapid acceleration observed in the vicinity of Japan
+    claim_type: hearsay
+    attestation: second_hand
+    speaker:
+      node_id: e921bccc-8a7a-4279-9873-8f3a5997be16
+      title: Christopher Sharp
+    provenance_chain:
+      origin_kind: anonymous
+      origin: a person claiming knowledge of United States government data on UAP incidents
+      relay:
+        - Liberation Times
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: a7726ea1-8d0d-4d27-bdba-be309f70fea1
+        title: Liberation Times
+        slug: liberation-times
+      - node_id: b06ea490-a6ad-4388-a7ad-6c65faa82902
+        title: Japan
+        slug: japan
+    date: null
+    date_end: null
+    location_in_record: char:6187-6265
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3b884786-04ff-4e4b-816f-621161e9d948
+      record_title: Pressure Mounts on President Trump as UAP Disclosure Advocates Intensify Their Push
+      record_date: '2026-08-19'
+      record_reference: https://www.liberationtimes.com/home/the-push-for-ufo-disclosure-intensifies-as-pressure-mounts-on-donald-trump
+      content_hash: sha256:dc288b5d31307a5eb396b1ecc4f3e2ee1e01673ec8707bb47111173faa83e683
+      friendly_name: null
+  - claim_id: 630ee66c-a429-464f-a5a4-2b9fb5be1677
+    claim_hash: b2345771e4e7dc0667b25048df478001953d0b3cbb7df38394726c9c2d26ab77
+    content: An anonymous source told Liberation Times that the CIA's chief scientist acts as an operational gatekeeper for
+      programmes involving the retrieval and reverse-engineering of vehicles allegedly of non-human origin within the CIA's
+      Directorate of Science and Technology.
+    original_excerpt: Another source told Liberation Times that the CIA’s chief scientist acts as an operational gatekeeper
+      for programs involving the retrieval and reverse-engineering of vehicles allegedly of non-human origin within the Agency’s
+      Directorate of Science and Technology.
+    claim_type: hearsay
+    attestation: second_hand
+    speaker:
+      node_id: e921bccc-8a7a-4279-9873-8f3a5997be16
+      title: Christopher Sharp
+    provenance_chain:
+      origin_kind: anonymous
+      origin: a person claiming knowledge of Central Intelligence Agency reverse-engineering programmes
+      relay:
+        - Liberation Times
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 1dfc0714-c2ac-4923-b546-61a19f0755f0
+        title: Central Intelligence Agency (CIA) Directorate of Science and Technology (DS&T)
+        slug: central-intelligence-agency-cia-directorate-of-science-and-technology-dst
+      - node_id: 38b84d4a-96df-4684-bb46-f6f64f392add
+        title: Central Intelligence Agency (CIA)
+        slug: central-intelligence-agency-cia
+      - node_id: a7726ea1-8d0d-4d27-bdba-be309f70fea1
+        title: Liberation Times
+        slug: liberation-times
+    date: null
+    date_end: null
+    location_in_record: char:6273-6525
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3b884786-04ff-4e4b-816f-621161e9d948
+      record_title: Pressure Mounts on President Trump as UAP Disclosure Advocates Intensify Their Push
+      record_date: '2026-08-19'
+      record_reference: https://www.liberationtimes.com/home/the-push-for-ufo-disclosure-intensifies-as-pressure-mounts-on-donald-trump
+      content_hash: sha256:dc288b5d31307a5eb396b1ecc4f3e2ee1e01673ec8707bb47111173faa83e683
+      friendly_name: null
+  - claim_id: 4397b39e-c450-4680-9e57-16c2fb77551a
+    claim_hash: e794eb8773c0296c0977019e5f24fb14e0858075fb5ec22deb5deb8e72790858
+    content: According to an anonymous source, the CIA's deputy director within the Directorate of Science and Technology
+      serves as the administrative gatekeeper for programmes involving the retrieval and reverse-engineering of vehicles allegedly
+      of non-human origin.
+    original_excerpt: According to the source, the CIA’s deputy director within the Science and Technology directorate serves
+      as the administrative gatekeeper for those programs.
+    claim_type: hearsay
+    attestation: second_hand
+    speaker:
+      node_id: e921bccc-8a7a-4279-9873-8f3a5997be16
+      title: Christopher Sharp
+    provenance_chain:
+      origin_kind: anonymous
+      origin: a person claiming knowledge of Central Intelligence Agency reverse-engineering programmes
+      relay:
+        - Liberation Times
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 1dfc0714-c2ac-4923-b546-61a19f0755f0
+        title: Central Intelligence Agency (CIA) Directorate of Science and Technology (DS&T)
+        slug: central-intelligence-agency-cia-directorate-of-science-and-technology-dst
+      - node_id: a7726ea1-8d0d-4d27-bdba-be309f70fea1
+        title: Liberation Times
+        slug: liberation-times
+    date: null
+    date_end: null
+    location_in_record: char:6537-6684
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3b884786-04ff-4e4b-816f-621161e9d948
+      record_title: Pressure Mounts on President Trump as UAP Disclosure Advocates Intensify Their Push
+      record_date: '2026-08-19'
+      record_reference: https://www.liberationtimes.com/home/the-push-for-ufo-disclosure-intensifies-as-pressure-mounts-on-donald-trump
+      content_hash: sha256:dc288b5d31307a5eb396b1ecc4f3e2ee1e01673ec8707bb47111173faa83e683
+      friendly_name: null
+  - claim_id: 11d780d8-99d3-4381-8bad-03c6abc45f50
+    claim_hash: 14fcfed42727cd0ec97383358bc974ad49186f63fd6e59d2e68ac5130a52b0ac
+    content: Liberation Times sources describe Betty Sapp as another key gatekeeper of programmes related to non-human technology.
+    original_excerpt: has been described by Liberation Times sources as another key gatekeeper
+    claim_type: hearsay
+    attestation: second_hand
+    speaker:
+      node_id: e921bccc-8a7a-4279-9873-8f3a5997be16
+      title: Christopher Sharp
+    provenance_chain:
+      origin_kind: anonymous
+      origin: a person claiming knowledge of Betty Sapp's role as a UAP programme gatekeeper
+      relay:
+        - Liberation Times
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 33689fc3-42a3-4b13-8bc1-29c869d46131
+        title: Betty Sapp
+        slug: betty-sapp
+      - node_id: a7726ea1-8d0d-4d27-bdba-be309f70fea1
+        title: Liberation Times
+        slug: liberation-times
+    date: null
+    date_end: null
+    location_in_record: char:6768-6830
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3b884786-04ff-4e4b-816f-621161e9d948
+      record_title: Pressure Mounts on President Trump as UAP Disclosure Advocates Intensify Their Push
+      record_date: '2026-08-19'
+      record_reference: https://www.liberationtimes.com/home/the-push-for-ufo-disclosure-intensifies-as-pressure-mounts-on-donald-trump
+      content_hash: sha256:dc288b5d31307a5eb396b1ecc4f3e2ee1e01673ec8707bb47111173faa83e683
+      friendly_name: null
+  - claim_id: 94967663-6451-4b6c-b514-468b7cb2f1d3
+    claim_hash: f9bf328abab8af5d571d5d1d88618faabab2e65c231a9b24dc0fdb9d1b57d578
+    content: According to Liberation Times sources, Betty Sapp worked with James Clapper and his deputy Stephanie O'Sullivan
+      on an Obama-era programme focused on locating UAP, recovering them, and attempting to reverse-engineer their technology.
+    original_excerpt: According to those sources, Sapp worked with former Director of National Intelligence James Clapper
+      and his deputy Stephanie O’Sullivan on an Obama‑era program focused on locating UAP, recovering them, and attempting
+      to reverse‑engineer their technology.
+    claim_type: hearsay
+    attestation: second_hand
+    speaker:
+      node_id: e921bccc-8a7a-4279-9873-8f3a5997be16
+      title: Christopher Sharp
+    provenance_chain:
+      origin_kind: anonymous
+      origin: a person claiming knowledge of Betty Sapp's role as a UAP programme gatekeeper
+      relay:
+        - Liberation Times
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 33689fc3-42a3-4b13-8bc1-29c869d46131
+        title: Betty Sapp
+        slug: betty-sapp
+      - node_id: a3b88bf2-de8f-45bf-addf-fadd9244c4e5
+        title: James R. Clapper
+        slug: james-r-clapper
+      - node_id: a7726ea1-8d0d-4d27-bdba-be309f70fea1
+        title: Liberation Times
+        slug: liberation-times
+      - node_id: a7d8dd5f-847d-4540-bb82-7a6770b55305
+        title: Stephanie O'Sullivan
+        slug: stephanie-osullivan
+    date: null
+    date_end: null
+    location_in_record: char:6842-7085
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3b884786-04ff-4e4b-816f-621161e9d948
+      record_title: Pressure Mounts on President Trump as UAP Disclosure Advocates Intensify Their Push
+      record_date: '2026-08-19'
+      record_reference: https://www.liberationtimes.com/home/the-push-for-ufo-disclosure-intensifies-as-pressure-mounts-on-donald-trump
+      content_hash: sha256:dc288b5d31307a5eb396b1ecc4f3e2ee1e01673ec8707bb47111173faa83e683
+      friendly_name: null
+  - claim_id: f64b9c85-e4f9-423d-b474-8765eeac81df
+    claim_hash: 23e9ac5269f38d4b298cea601647496f41996b2672d458f4012feee25fed35d4
+    content: Since appearing in the documentary Age of Disclosure, James Clapper has stepped back from efforts to promote
+      UAP transparency.
+    original_excerpt: Liberation Times understands that Clapper has stepped back from efforts to promote UAP transparency.
+    claim_type: hearsay
+    attestation: null
+    speaker:
+      node_id: e921bccc-8a7a-4279-9873-8f3a5997be16
+      title: Christopher Sharp
+    provenance_chain:
+      origin_kind: unattributed
+      origin: Liberation Times
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: a3b88bf2-de8f-45bf-addf-fadd9244c4e5
+        title: James R. Clapper
+        slug: james-r-clapper
+      - node_id: a7726ea1-8d0d-4d27-bdba-be309f70fea1
+        title: Liberation Times
+        slug: liberation-times
+      - node_id: c7d209e2-87dd-4ae7-9333-b086266f0918
+        title: Age of Disclosure
+        slug: age-of-disclosure
+    date: null
+    date_end: null
+    location_in_record: char:7712-7799
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3b884786-04ff-4e4b-816f-621161e9d948
+      record_title: Pressure Mounts on President Trump as UAP Disclosure Advocates Intensify Their Push
+      record_date: '2026-08-19'
+      record_reference: https://www.liberationtimes.com/home/the-push-for-ufo-disclosure-intensifies-as-pressure-mounts-on-donald-trump
+      content_hash: sha256:dc288b5d31307a5eb396b1ecc4f3e2ee1e01673ec8707bb47111173faa83e683
+      friendly_name: null
+  - claim_id: 20d2c9f3-fd96-4b04-9515-71274e7722ac
+    claim_hash: ec0fe9362ec8348b306dcf6af2d5da321d11bed08daaeabcb348c9416a1ffc00
+    content: An anonymous source told Liberation Times that James Clapper has grown uncomfortable with the recent surge of
+      attention on UAP transparency efforts.
+    original_excerpt: One source told Liberation Times that he has grown uncomfortable with the recent surge of attention.
+    claim_type: hearsay
+    attestation: second_hand
+    speaker:
+      node_id: e921bccc-8a7a-4279-9873-8f3a5997be16
+      title: Christopher Sharp
+    provenance_chain:
+      origin_kind: anonymous
+      origin: a person claiming knowledge of James Clapper's current attitude toward UAP transparency
+      relay:
+        - Liberation Times
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: a3b88bf2-de8f-45bf-addf-fadd9244c4e5
+        title: James R. Clapper
+        slug: james-r-clapper
+      - node_id: a7726ea1-8d0d-4d27-bdba-be309f70fea1
+        title: Liberation Times
+        slug: liberation-times
+    date: null
+    date_end: null
+    location_in_record: char:7813-7903
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3b884786-04ff-4e4b-816f-621161e9d948
+      record_title: Pressure Mounts on President Trump as UAP Disclosure Advocates Intensify Their Push
+      record_date: '2026-08-19'
+      record_reference: https://www.liberationtimes.com/home/the-push-for-ufo-disclosure-intensifies-as-pressure-mounts-on-donald-trump
+      content_hash: sha256:dc288b5d31307a5eb396b1ecc4f3e2ee1e01673ec8707bb47111173faa83e683
+      friendly_name: null
+  - claim_id: fb98241e-d548-4b95-bcf8-466d245a6701
+    claim_hash: 97daf94d1d082945f84c5f2bc7c017c0e3fb3e0f826961533d1e9aa0c0570bf9
+    content: Some anonymous sources told Liberation Times they fear that whistleblowers could face retaliation if the UAP
+      issue slips from the political agenda.
+    original_excerpt: Some sources told Liberation Times they fear that whistleblowers could face retaliation if the UAP issue
+      slips from the political agenda.
+    claim_type: hearsay
+    attestation: second_hand
+    speaker:
+      node_id: e921bccc-8a7a-4279-9873-8f3a5997be16
+      title: Christopher Sharp
+    provenance_chain:
+      origin_kind: anonymous
+      origin: a person claiming to fear retaliation against UAP whistleblowers
+      relay:
+        - Liberation Times
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
+        title: Unidentified Anomalous Phenomena (UAP)
+        slug: unidentified-anomalous-phenomena-uap
+      - node_id: a7726ea1-8d0d-4d27-bdba-be309f70fea1
+        title: Liberation Times
+        slug: liberation-times
+    date: null
+    date_end: null
+    location_in_record: char:7916-8090
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3b884786-04ff-4e4b-816f-621161e9d948
+      record_title: Pressure Mounts on President Trump as UAP Disclosure Advocates Intensify Their Push
+      record_date: '2026-08-19'
+      record_reference: https://www.liberationtimes.com/home/the-push-for-ufo-disclosure-intensifies-as-pressure-mounts-on-donald-trump
+      content_hash: sha256:dc288b5d31307a5eb396b1ecc4f3e2ee1e01673ec8707bb47111173faa83e683
+      friendly_name: null

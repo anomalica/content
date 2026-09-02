@@ -1,0 +1,2571 @@
+schema: anomalica/brief/1
+brief_hash: e064ac7924b110dba319e01848d9a3b10b3644879f37b55905f884037994452c
+page:
+  kind: entity
+  node_id: 403edb72-ebc4-4b89-8746-4cd19e089691
+  node_type: organisation
+  title: The Pentagon
+  slug: the-pentagon
+  claim_count: 61
+  claim_count_total: 61
+generated:
+  graph_version: '2026-09-01T10:10:49.863545+00:00'
+size:
+  claims: 61
+  tokens_estimated: 18262
+  sized_against: 1050000
+publication:
+  status: published
+  note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
+    transcripts are gated elsewhere.
+belonging:
+  verified: 0
+  suspect_excluded: 0
+  unreviewed: 61
+related_nodes:
+  - node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+    title: Luis Elizondo
+    node_type: person
+    slug: luis-elizondo
+    shared_claims: 14
+  - node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+    title: Ross Coulthart
+    node_type: person
+    slug: ross-coulthart
+    shared_claims: 12
+  - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
+    title: Unidentified Anomalous Phenomena (UAP)
+    node_type: topic
+    slug: unidentified-anomalous-phenomena-uap
+    shared_claims: 9
+  - node_id: 6c1618c8-50db-42c9-860e-6d736ef280bf
+    title: Advanced Aerospace Threat Identification Program (AATIP)
+    node_type: project
+    slug: advanced-aerospace-threat-identification-program-aatip
+    shared_claims: 7
+  - node_id: 9c74d864-957a-4654-a5b6-1249fe654ec7
+    title: Non-Human Intelligence
+    node_type: topic
+    slug: non-human-intelligence
+    shared_claims: 6
+  - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
+    title: Unidentified Flying Object (UFO)
+    node_type: topic
+    slug: unidentified-flying-object-ufo
+    shared_claims: 3
+  - node_id: 2a9dc569-ac94-4e71-8fc5-71211753a876
+    title: 2012-02 Jennifer Elizondo crosswalk accident
+    node_type: event
+    slug: 2012-02-jennifer-elizondo-crosswalk-accident
+    shared_claims: 2
+  - node_id: 4220ff9f-af42-46be-a609-4dbd1d78a347
+    title: 2021 Office of the Director of National Intelligence (ODNI) preliminary assessment on Unidentified Aerial Phenomena
+      (UAP)
+    node_type: document
+    slug: 2021-office-of-the-director-of-national-intelligence-odni-preliminary-assessment-on-unidentified-aerial-phenomena-uap
+    shared_claims: 2
+  - node_id: 34ce20f3-f42f-459a-99e8-1e5fbfa1a01f
+    title: Bryan Bender
+    node_type: person
+    slug: bryan-bender
+    shared_claims: 2
+  - node_id: 38b84d4a-96df-4684-bb46-f6f64f392add
+    title: Central Intelligence Agency (CIA)
+    node_type: organisation
+    slug: central-intelligence-agency-cia
+    shared_claims: 2
+  - node_id: 24d00311-06ac-46a1-a2f5-c99f3f8e21b2
+    title: Chris Ramsay
+    node_type: person
+    slug: chris-ramsay
+    shared_claims: 2
+  - node_id: 382b6d6c-0182-4121-8bfc-525602d667b1
+    title: Defense Intelligence Agency (DIA)
+    node_type: organisation
+    slug: defense-intelligence-agency-dia
+    shared_claims: 2
+  - node_id: 3a865991-eaad-4855-8980-b28dfb98691a
+    title: James Lacatski
+    node_type: person
+    slug: james-lacatski
+    shared_claims: 2
+  - node_id: d9532953-68e1-4f10-bfc3-a62ab2c428bc
+    title: Jennifer
+    node_type: person
+    slug: jennifer
+    shared_claims: 2
+  - node_id: 1c8b4d30-0305-4694-8008-7eab18bc4996
+    title: Jim Semivan
+    node_type: person
+    slug: jim-semivan
+    shared_claims: 2
+  - node_id: 13b14438-a42d-4b08-8213-e10f6dd0d242
+    title: Susan Gough
+    node_type: person
+    slug: susan-gough
+    shared_claims: 2
+  - node_id: 0bbdac2d-a855-466a-a051-2afa64a779e2
+    title: UAP crash retrieval and reverse engineering program
+    node_type: project
+    slug: uap-crash-retrieval-and-reverse-engineering-program
+    shared_claims: 2
+  - node_id: 4fb65b2c-296a-493d-bbc7-65e4b763c1f0
+    title: United States Congress
+    node_type: organisation
+    slug: united-states-congress
+    shared_claims: 2
+  - node_id: 99f08514-5471-4eaf-bce3-46c474a8d304
+    title: United States Department of Defense (DoD)
+    node_type: organisation
+    slug: united-states-department-of-defense-dod
+    shared_claims: 2
+  - node_id: 6d0e36e1-ae06-40ba-b1f6-0363c4a13557
+    title: 2009 Pentagon Advanced Aerospace Threat Identification Program (AATIP) briefing summary
+    node_type: document
+    slug: 2009-pentagon-advanced-aerospace-threat-identification-program-aatip-briefing-summary
+    shared_claims: 1
+  - node_id: 2fa58da5-607b-42f4-8c19-77b4af30cd4d
+    title: 2022-05 Congressional Unidentified Aerial Phenomena (UAP) hearing
+    node_type: event
+    slug: 2022-05-congressional-unidentified-aerial-phenomena-uap-hearing
+    shared_claims: 1
+  - node_id: 6b599e03-9c50-4357-a70e-05626c46f264
+    title: Airborne Object Identification and Management Synchronization Group (AOIMSG)
+    node_type: organisation
+    slug: airborne-object-identification-and-management-synchronization-group-aoimsg
+    shared_claims: 1
+  - node_id: e498e3b9-87de-44e8-877a-46b8acc68ab1
+    title: All-Domain Anomaly Resolution Office report on UFOs 2023-01-12
+    node_type: document
+    slug: all-domain-anomaly-resolution-office-report-on-ufos-2023-01-12
+    shared_claims: 1
+  - node_id: e921bccc-8a7a-4279-9873-8f3a5997be16
+    title: Christopher Sharp
+    node_type: person
+    slug: christopher-sharp
+    shared_claims: 1
+  - node_id: 73f0f85a-5ac1-4e3b-ab75-20b8a3ce35a5
+    title: Dana White
+    node_type: person
+    slug: dana-white
+    shared_claims: 1
+  - node_id: 95677ec8-f94c-422a-933f-2b689ae917fa
+    title: Daniel K. Inouye
+    node_type: person
+    slug: daniel-k-inouye
+    shared_claims: 1
+  - node_id: d4241f5a-1063-4970-ba02-5a391c02d96d
+    title: David Charles Grusch
+    node_type: person
+    slug: david-charles-grusch
+    shared_claims: 1
+  - node_id: 164b4ec2-1d96-4c98-a5e2-5a7d77568b7c
+    title: Defense Office of Prepublication and Security Review
+    node_type: organisation
+    slug: defense-office-of-prepublication-and-security-review
+    shared_claims: 1
+  - node_id: 816c219b-6372-49f6-9579-5eeabb9a7474
+    title: Donald Trump
+    node_type: person
+    slug: donald-trump
+    shared_claims: 1
+  - node_id: 4c22ee6f-cb2b-4f85-94ba-1442741abd32
+    title: Edward U. Condon
+    node_type: person
+    slug: edward-u-condon
+    shared_claims: 1
+claims:
+  - claim_id: 205b7915-e34b-42a4-b68b-546fdd0bf778
+    claim_hash: 727092aeef9ef89eb426139c083f12823e56638aee509988bdeced8f92e6fa68
+    content: Major Murphy said General James Doolittle's conclusions from his 1946 investigation in Sweden have never been
+      revealed.
+    original_excerpt: '"His conclusions have never been revealed," answered Major Murphy with a sigh that seemed to say, If
+      only the Pentagon could talk!'
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: d5224a9c-0d69-4b8d-b27b-0ffc20e0b713
+      title: Major Murphy
+    provenance_chain:
+      origin_kind: speaker
+      origin: Major Murphy
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 403edb72-ebc4-4b89-8746-4cd19e089691
+        title: The Pentagon
+        slug: the-pentagon
+      - node_id: d5224a9c-0d69-4b8d-b27b-0ffc20e0b713
+        title: Major Murphy
+        slug: major-murphy
+      - node_id: eda54301-3c14-4718-9989-68844a2838fd
+        title: General James Doolittle
+        slug: general-james-doolittle
+    date: null
+    date_end: null
+    location_in_record: ch11:54252-54376
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: f0690aba-c78b-47f4-bb2f-f94ea04d55ee
+      record_title: 'Messengers of Deception: UFO Contacts and Cults'
+      record_date: '0101-01-01'
+      record_reference: null
+      content_hash: sha256:0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5ac9fd3168
+      friendly_name: 0101-01-01-ebook-messengers-of-deception-ufo-contacts-and-cults
+  - claim_id: b7309023-4006-45e4-9837-ba64dde969df
+    claim_hash: 071d3ea9a4c1cf06d93d497d52285e0f174fb2031169bc2b88b366c2d2008925
+    content: Jacques Vallée considers that UFO enthusiasts trying to expose the government through Freedom of Information
+      Act lawsuits may be playing into the hands of the manipulators of the phenomenon.
+    original_excerpt: But the UFO enthusiasts who are so anxious to "expose" the government have not reflected that they may,
+      once again, be playing into the hands of the manipulators.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
+      title: Jacques Vallée
+    provenance_chain:
+      origin_kind: speaker
+      origin: Jacques Vallée
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
+        title: Jacques Vallée
+        slug: jacques-vallee
+      - node_id: 38b84d4a-96df-4684-bb46-f6f64f392add
+        title: Central Intelligence Agency (CIA)
+        slug: central-intelligence-agency-cia
+      - node_id: 403edb72-ebc4-4b89-8746-4cd19e089691
+        title: The Pentagon
+        slug: the-pentagon
+      - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
+        title: Unidentified Flying Object (UFO)
+        slug: unidentified-flying-object-ufo
+    date: null
+    date_end: null
+    location_in_record: ch13:16085-16234
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: f0690aba-c78b-47f4-bb2f-f94ea04d55ee
+      record_title: 'Messengers of Deception: UFO Contacts and Cults'
+      record_date: '0101-01-01'
+      record_reference: null
+      content_hash: sha256:0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5ac9fd3168
+      friendly_name: 0101-01-01-ebook-messengers-of-deception-ufo-contacts-and-cults
+  - claim_id: e1de3359-7261-4a15-9976-d60bd3c565fc
+    claim_hash: c7856ba7c60eba3bfe90e0d193a1f84b19be26066986b16cd9c10bc785c4088b
+    content: In a 1976 article in the youth newspaper Komsomolskaya Pravda, writer Yeremei Parnov implied that those who spread
+      UFO stories are flirting with superstitions and religious impulses indirectly manipulated by the Pentagon.
+    original_excerpt: In 1976, an article in the youth newspaper Komsomolskaya Pravda, by writer Yeremei Parnov, implied that
+      those who spread UFO stories are "flirting with superstitions and religious impulses indirectly manipulated by the Pentagon."
+    claim_type: hearsay
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: named
+      origin: Yeremei Parnov
+      relay:
+        - Komsomolskaya Pravda article
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 403edb72-ebc4-4b89-8746-4cd19e089691
+        title: The Pentagon
+        slug: the-pentagon
+      - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
+        title: Unidentified Flying Object (UFO)
+        slug: unidentified-flying-object-ufo
+    date: '1976'
+    date_end: null
+    location_in_record: ch13:8618-8837
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: f0690aba-c78b-47f4-bb2f-f94ea04d55ee
+      record_title: 'Messengers of Deception: UFO Contacts and Cults'
+      record_date: '0101-01-01'
+      record_reference: null
+      content_hash: sha256:0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5ac9fd3168
+      friendly_name: 0101-01-01-ebook-messengers-of-deception-ufo-contacts-and-cults
+  - claim_id: 18e7f387-896e-43d7-8305-214c6e8f1c99
+    claim_hash: 9e44673c25d30ee471f0674c5eccc63ff150ac301927b021f4d499930c40b78a
+    content: In 1967 the University of Colorado UFO Project began spending 512,000 US dollars given to Edward Condon by the
+      Pentagon to study UFOs.
+    original_excerpt: In 1967, as the University of Colorado began spending the $512,000 given to Professor Condon by the
+      Pentagon to study UFOs, my interest had begun to shift.
+    claim_type: administrative
+    attestation: first_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: speaker
+      origin: Jacques Vallée
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 403edb72-ebc4-4b89-8746-4cd19e089691
+        title: The Pentagon
+        slug: the-pentagon
+      - node_id: 4c22ee6f-cb2b-4f85-94ba-1442741abd32
+        title: Edward U. Condon
+        slug: edward-u-condon
+      - node_id: 633c0373-232a-4354-9cf3-e51c23aea9bd
+        title: University of Colorado Unidentified Flying Object (UFO) Project
+        slug: university-of-colorado-unidentified-flying-object-ufo-project
+    date: '1967'
+    date_end: null
+    location_in_record: ch4:10146-10295
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: f0690aba-c78b-47f4-bb2f-f94ea04d55ee
+      record_title: 'Messengers of Deception: UFO Contacts and Cults'
+      record_date: '0101-01-01'
+      record_reference: null
+      content_hash: sha256:0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5ac9fd3168
+      friendly_name: 0101-01-01-ebook-messengers-of-deception-ufo-contacts-and-cults
+  - claim_id: f0561d20-d166-4d65-8b3f-923674e03047
+    claim_hash: 60535426facb17814d26ccfce11c9ce1881d30ba905fb1642bffcb5db5538554
+    content: A 2009 Pentagon briefing summary of the Advanced Aerospace Threat Identification Program (AATIP), prepared by
+      its director at the time, asserted that 'what was considered science fiction is now science fact,' and that the United
+      States was incapable of defending itself against some of the technologies discovered.
+    original_excerpt: A 2009 Pentagon briefing summary of the program prepared by its director at the time asserted that “what
+      was considered science fiction is now science fact,” and that the United States was incapable of defending itself against
+      some of the technologies discovered.
+    claim_type: hearsay
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: document
+      origin: the program's director at the time
+      relay:
+        - 2009 Pentagon AATIP briefing summary
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 403edb72-ebc4-4b89-8746-4cd19e089691
+        title: The Pentagon
+        slug: the-pentagon
+      - node_id: 6c1618c8-50db-42c9-860e-6d736ef280bf
+        title: Advanced Aerospace Threat Identification Program (AATIP)
+        slug: advanced-aerospace-threat-identification-program-aatip
+      - node_id: 6d0e36e1-ae06-40ba-b1f6-0363c4a13557
+        title: 2009 Pentagon Advanced Aerospace Threat Identification Program (AATIP) briefing summary
+        slug: 2009-pentagon-advanced-aerospace-threat-identification-program-aatip-briefing-summary
+    date: '2009'
+    date_end: null
+    location_in_record: char:11683-11935
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 363bf706-cb4a-47f2-97b9-26c54926af2b
+      record_title: 'Glowing Auras and ‘Black Money’: The Pentagon’s Mysterious U.F.O. Program (Published 2017)'
+      record_date: '2017-12-16'
+      record_reference: https://www.nytimes.com/2017/12/16/us/politics/pentagon-program-ufo-harry-reid.html
+      content_hash: sha256:04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb640bd12c81
+      friendly_name: 2017-12-16-web-glowing-auras-and-black-money-the-pentagon-s-mysterious-u-f
+  - claim_id: ca009abc-6bac-44bb-9218-299ce16cf0ff
+    claim_hash: f77bea570d76e60d79055236f33ed51b8cd5e326b19312fcc806a0b05f7cd062
+    content: The Pentagon wanted the Advanced Aerospace Threat Identification Program's funding to be difficult to find within
+      the Department of Defense budget.
+    original_excerpt: Which was how the Pentagon wanted it.
+    claim_type: observation
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 403edb72-ebc4-4b89-8746-4cd19e089691
+        title: The Pentagon
+        slug: the-pentagon
+      - node_id: 6c1618c8-50db-42c9-860e-6d736ef280bf
+        title: Advanced Aerospace Threat Identification Program (AATIP)
+        slug: advanced-aerospace-threat-identification-program-aatip
+    date: null
+    date_end: null
+    location_in_record: char:499-518
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 363bf706-cb4a-47f2-97b9-26c54926af2b
+      record_title: 'Glowing Auras and ‘Black Money’: The Pentagon’s Mysterious U.F.O. Program (Published 2017)'
+      record_date: '2017-12-16'
+      record_reference: https://www.nytimes.com/2017/12/16/us/politics/pentagon-program-ufo-harry-reid.html
+      content_hash: sha256:04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb640bd12c81
+      friendly_name: 2017-12-16-web-glowing-auras-and-black-money-the-pentagon-s-mysterious-u-f
+  - claim_id: 2c353fc8-c99c-4494-9a8a-24384eda5479
+    claim_hash: fd4670b48ddd6af528dc89fb96ef65c033c2ce09c78d82e70bb34d62ac83ade0
+    content: In response to questions from The New York Times, Pentagon officials in December 2017 acknowledged the existence
+      of the Advanced Aerospace Threat Identification Program (AATIP), which began as part of the Defense Intelligence Agency
+      (DIA).
+    original_excerpt: In response to questions from The Times, Pentagon officials this month acknowledged the existence of
+      the program, which began as part of the Defense Intelligence Agency.
+    claim_type: administrative
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: named
+      origin: Pentagon officials
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 382b6d6c-0182-4121-8bfc-525602d667b1
+        title: Defense Intelligence Agency (DIA)
+        slug: defense-intelligence-agency-dia
+      - node_id: 403edb72-ebc4-4b89-8746-4cd19e089691
+        title: The Pentagon
+        slug: the-pentagon
+      - node_id: 6c1618c8-50db-42c9-860e-6d736ef280bf
+        title: Advanced Aerospace Threat Identification Program (AATIP)
+        slug: advanced-aerospace-threat-identification-program-aatip
+      - node_id: c2db41b8-bc09-456d-8887-4b79a7e9c757
+        title: The New York Times
+        slug: the-new-york-times
+    date: 2017-12
+    date_end: null
+    location_in_record: char:5026-5188
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 363bf706-cb4a-47f2-97b9-26c54926af2b
+      record_title: 'Glowing Auras and ‘Black Money’: The Pentagon’s Mysterious U.F.O. Program (Published 2017)'
+      record_date: '2017-12-16'
+      record_reference: https://www.nytimes.com/2017/12/16/us/politics/pentagon-program-ufo-harry-reid.html
+      content_hash: sha256:04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb640bd12c81
+      friendly_name: 2017-12-16-web-glowing-auras-and-black-money-the-pentagon-s-mysterious-u-f
+  - claim_id: a3bd6cbf-9fb3-4664-b0de-a25f97a5c4c3
+    claim_hash: c766423b94518534a8d82adc8b89a14f9456a13e6ed34c7e2634bb999a9fd94d
+    content: Pentagon officials insisted that the Advanced Aerospace Threat Identification Program (AATIP) had ended after
+      five years, in 2012.
+    original_excerpt: Officials insisted that the effort had ended after five years, in 2012.
+    claim_type: administrative
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: named
+      origin: Pentagon officials
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 403edb72-ebc4-4b89-8746-4cd19e089691
+        title: The Pentagon
+        slug: the-pentagon
+      - node_id: 6c1618c8-50db-42c9-860e-6d736ef280bf
+        title: Advanced Aerospace Threat Identification Program (AATIP)
+        slug: advanced-aerospace-threat-identification-program-aatip
+    date: '2012'
+    date_end: null
+    location_in_record: char:5196-5262
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 363bf706-cb4a-47f2-97b9-26c54926af2b
+      record_title: 'Glowing Auras and ‘Black Money’: The Pentagon’s Mysterious U.F.O. Program (Published 2017)'
+      record_date: '2017-12-16'
+      record_reference: https://www.nytimes.com/2017/12/16/us/politics/pentagon-program-ufo-harry-reid.html
+      content_hash: sha256:04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb640bd12c81
+      friendly_name: 2017-12-16-web-glowing-auras-and-black-money-the-pentagon-s-mysterious-u-f
+  - claim_id: 55b7f81e-d2f0-4cc9-b2b8-02194ac50e14
+    claim_hash: 59e33f8d6b7685fad353cb1c99b060c506becd73dbfc7f0f55733d777f1e3895
+    content: Thomas Crosson, a Pentagon spokesman, said in an email that it was determined there were other higher priority
+      issues that merited funding, and it was in the best interest of the Department of Defense (DoD) to make a change.
+    original_excerpt: “It was determined that there were other, higher priority issues that merited funding, and it was in
+      the best interest of the DoD to make a change,” a Pentagon spokesman, Thomas Crosson, said in an email, referring to
+      the Department of Defense.
+    claim_type: testimony
+    attestation: second_hand
+    speaker:
+      node_id: 3af8c9bc-9f42-4a0e-a368-f306fc4dd5a8
+      title: Thomas Crosson
+    provenance_chain:
+      origin_kind: speaker
+      origin: Crosson, Thomas
+      relay:
+        - an email
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 3af8c9bc-9f42-4a0e-a368-f306fc4dd5a8
+        title: Thomas Crosson
+        slug: thomas-crosson
+      - node_id: 403edb72-ebc4-4b89-8746-4cd19e089691
+        title: The Pentagon
+        slug: the-pentagon
+      - node_id: 99f08514-5471-4eaf-bce3-46c474a8d304
+        title: United States Department of Defense (DoD)
+        slug: united-states-department-of-defense-dod
+    date: null
+    date_end: null
+    location_in_record: char:5270-5505
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 363bf706-cb4a-47f2-97b9-26c54926af2b
+      record_title: 'Glowing Auras and ‘Black Money’: The Pentagon’s Mysterious U.F.O. Program (Published 2017)'
+      record_date: '2017-12-16'
+      record_reference: https://www.nytimes.com/2017/12/16/us/politics/pentagon-program-ufo-harry-reid.html
+      content_hash: sha256:04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb640bd12c81
+      friendly_name: 2017-12-16-web-glowing-auras-and-black-money-the-pentagon-s-mysterious-u-f
+  - claim_id: 2d59bd3c-d9b0-4586-bd51-95b62c0363ee
+    claim_hash: 498c97cb646b88cbb6c16ab854d209f813cce55196435ce126ef526b11360523
+    content: Luis Elizondo continued to work out of his Pentagon office until October 2017, when he resigned to protest what
+      he characterised as excessive secrecy and internal opposition.
+    original_excerpt: He continued to work out of his Pentagon office until this past October, when he resigned to protest
+      what he characterized as excessive secrecy and internal opposition.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 403edb72-ebc4-4b89-8746-4cd19e089691
+        title: The Pentagon
+        slug: the-pentagon
+      - node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+        title: Luis Elizondo
+        slug: luis-elizondo
+    date: 2017-10
+    date_end: null
+    location_in_record: char:5731-5888
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 363bf706-cb4a-47f2-97b9-26c54926af2b
+      record_title: 'Glowing Auras and ‘Black Money’: The Pentagon’s Mysterious U.F.O. Program (Published 2017)'
+      record_date: '2017-12-16'
+      record_reference: https://www.nytimes.com/2017/12/16/us/politics/pentagon-program-ufo-harry-reid.html
+      content_hash: sha256:04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb640bd12c81
+      friendly_name: 2017-12-16-web-glowing-auras-and-black-money-the-pentagon-s-mysterious-u-f
+  - claim_id: e8b66203-41b2-4870-a6c0-36be7b16b0b6
+    claim_hash: a7a32fee1a6b4a489f7c146740b129e93308040a676b2e27b9522e171f818b42
+    content: The Advanced Aerospace Threat Identification Program (AATIP) was run by military intelligence official Luis Elizondo,
+      on the fifth floor of the Pentagon's C Ring.
+    original_excerpt: It was run by a military intelligence official, Luis Elizondo, on the fifth floor of the Pentagon’s
+      C Ring, deep within the building’s maze.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 403edb72-ebc4-4b89-8746-4cd19e089691
+        title: The Pentagon
+        slug: the-pentagon
+      - node_id: 6c1618c8-50db-42c9-860e-6d736ef280bf
+        title: Advanced Aerospace Threat Identification Program (AATIP)
+        slug: advanced-aerospace-threat-identification-program-aatip
+      - node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+        title: Luis Elizondo
+        slug: luis-elizondo
+    date: null
+    date_end: null
+    location_in_record: char:865-1000
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 363bf706-cb4a-47f2-97b9-26c54926af2b
+      record_title: 'Glowing Auras and ‘Black Money’: The Pentagon’s Mysterious U.F.O. Program (Published 2017)'
+      record_date: '2017-12-16'
+      record_reference: https://www.nytimes.com/2017/12/16/us/politics/pentagon-program-ufo-harry-reid.html
+      content_hash: sha256:04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb640bd12c81
+      friendly_name: 2017-12-16-web-glowing-auras-and-black-money-the-pentagon-s-mysterious-u-f
+  - claim_id: ffc1ca24-455d-48b5-93d0-3d5f18227e1c
+    claim_hash: 0bc7582445d2fe054a5c5e15a120b6f7596715dd46dfe6f37c4feb9e48e1701d
+    content: Harry Reid said 'This was so-called black money. Stevens knows about it, Inouye knows about it. But that was
+      it, and that's how we wanted it,' referring to the Pentagon budget for classified programs.
+    original_excerpt: “This was so-called black money,” he said. “Stevens knows about it, Inouye knows about it. But that
+      was it, and that’s how we wanted it.” Mr. Reid was referring to the Pentagon budget for classified programs.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: c91974f0-961f-4db8-b7b0-22d4b846e5d5
+      title: Harry Reid
+    provenance_chain:
+      origin_kind: speaker
+      origin: Reid, Harry
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 403edb72-ebc4-4b89-8746-4cd19e089691
+        title: The Pentagon
+        slug: the-pentagon
+      - node_id: 95677ec8-f94c-422a-933f-2b689ae917fa
+        title: Daniel K. Inouye
+        slug: daniel-k-inouye
+      - node_id: a932f36e-29f1-46fa-a39d-92bd5044f2f9
+        title: Ted Stevens
+        slug: ted-stevens
+      - node_id: c91974f0-961f-4db8-b7b0-22d4b846e5d5
+        title: Harry Reid
+        slug: harry-reid
+    date: null
+    date_end: null
+    location_in_record: char:8782-8980
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 363bf706-cb4a-47f2-97b9-26c54926af2b
+      record_title: 'Glowing Auras and ‘Black Money’: The Pentagon’s Mysterious U.F.O. Program (Published 2017)'
+      record_date: '2017-12-16'
+      record_reference: https://www.nytimes.com/2017/12/16/us/politics/pentagon-program-ufo-harry-reid.html
+      content_hash: sha256:04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb640bd12c81
+      friendly_name: 2017-12-16-web-glowing-auras-and-black-money-the-pentagon-s-mysterious-u-f
+  - claim_id: f30963ca-3688-43c7-a116-9240d6480a50
+    claim_hash: 16a95664e53ceedaf52e7f4e107f3c0ad431fe2bf3d91f1feb5a15b2bcde5bf9
+    content: Backers of the Advanced Aerospace Threat Identification Program (AATIP) say that while the Pentagon ended funding
+      for the effort in 2012, the program remains in existence.
+    original_excerpt: But its backers say that, while the Pentagon ended funding for the effort at that time, the program
+      remains in existence.
+    claim_type: hearsay
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: anonymous
+      origin: a person claiming to back the Advanced Aerospace Threat Identification Program
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 403edb72-ebc4-4b89-8746-4cd19e089691
+        title: The Pentagon
+        slug: the-pentagon
+      - node_id: 6c1618c8-50db-42c9-860e-6d736ef280bf
+        title: Advanced Aerospace Threat Identification Program (AATIP)
+        slug: advanced-aerospace-threat-identification-program-aatip
+    date: null
+    date_end: null
+    location_in_record: para 4
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 363bf706-cb4a-47f2-97b9-26c54926af2b
+      record_title: 'Glowing Auras and ‘Black Money’: The Pentagon’s Mysterious U.F.O. Program (Published 2017)'
+      record_date: '2017-12-16'
+      record_reference: https://www.nytimes.com/2017/12/16/us/politics/pentagon-program-ufo-harry-reid.html
+      content_hash: sha256:04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb640bd12c81
+      friendly_name: 2017-12-16-web-glowing-auras-and-black-money-the-pentagon-s-mysterious-u-f
+  - claim_id: 9bf9feab-4dfe-4a49-8019-7a96400ec873
+    claim_hash: 0975fad7d0ac02e8878a6fbc8bfd00813ed70bcdd7f3771942b088339600bbc2
+    content: The Pentagon publicly denied spending money on psychic research.
+    original_excerpt: despite public denials from the Pentagon about spending money on psychic research
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: narration
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 403edb72-ebc4-4b89-8746-4cd19e089691
+        title: The Pentagon
+        slug: the-pentagon
+    date: null
+    date_end: null
+    location_in_record: 00:07:09.2-00:07:12.8
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 7f1682a6-12ed-46d0-92f3-1544b140e803
+      record_title: 'How The CIA Spent Millions On Psychic Spies - PROJECT: STARGATE (Documentary 1 of 3)'
+      record_date: '2023-08-02'
+      record_reference: https://www.youtube.com/watch?v=GkqFBqiGRQs
+      content_hash: sha256:784b2feffd5aaa03b664d35f587d270a0838d547916cde4c429670cf1c68cd16
+      friendly_name: null
+  - claim_id: dc584512-c483-4cb9-ba69-42fb1cc49a35
+    claim_hash: ec944d78c22f6d28a54f01865611886359da5076b0bc55545627ea358cad6a63
+    content: The central courtyard of the Pentagon is large enough to fit the US Capitol building inside it with room to run
+      laps around the building.
+    original_excerpt: The central courtyard is so big that you can fit the US Capitol building inside it and still run laps
+      around the building's gleaming white marble and sandstone.
+    claim_type: observation
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 403edb72-ebc4-4b89-8746-4cd19e089691
+        title: The Pentagon
+        slug: the-pentagon
+      - node_id: f8ca3a54-32bf-492a-aac9-585dd8d647d0
+        title: US Capitol
+        slug: us-capitol
+    date: null
+    date_end: null
+    location_in_record: ch17:1030-1180
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  - claim_id: 5cb40c48-eeb8-469a-adbd-8deba5bcb0e2
+    claim_hash: fac84398d04349707bc3a2488bdc655119794aa6094c5380af2fd6022fea9ac9
+    content: At the end of the Cold War, the Department of Defense (DoD) discovered that the Soviet Union had targeted a small
+      structure in the Pentagon's central plaza as a prime objective in case of nuclear war, based on satellite imagery.
+    original_excerpt: A nugget of trivia I always found humorous occurred at the end of the Cold War, when the DoD discovered
+      to their amusement that the Soviets had targeted a minuscule structure in the Pentagon's central plaza as a prime objective
+      in case of nuclear war.
+    claim_type: administrative
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: named
+      origin: United States Department of Defense (DoD)
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 403edb72-ebc4-4b89-8746-4cd19e089691
+        title: The Pentagon
+        slug: the-pentagon
+      - node_id: 99f08514-5471-4eaf-bce3-46c474a8d304
+        title: United States Department of Defense (DoD)
+        slug: united-states-department-of-defense-dod
+    date: null
+    date_end: null
+    location_in_record: ch17:1191-1438
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  - claim_id: 01594bb9-5257-4ef9-805b-04a3e975c25b
+    claim_hash: 949f54321e859e05f5f3ccf960b8288dc03416d146bc88e142245a38c59b62a2
+    content: The Soviets believed, based on early satellite photography, that the object in the centre of the Pentagon's courtyard
+      was an elevator to a secret underground bunker.
+    original_excerpt: the image showed an object at the center of the courtyard that for decades the Russians thought was
+      an elevator to a secret underground bunker
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 403edb72-ebc4-4b89-8746-4cd19e089691
+        title: The Pentagon
+        slug: the-pentagon
+    date: null
+    date_end: null
+    location_in_record: ch17:1503-1639
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  - claim_id: 92ef3c56-40db-4fda-9320-664c4000eff7
+    claim_hash: e8f4d6d331fc90e15529b5a43d87c9e0d01b34a738cb10e112b54657ec65d720
+    content: After the Berlin Wall fell, Russians and Americans working together discovered that the object at the centre
+      of the Pentagon courtyard was a hot dog stand.
+    original_excerpt: The dot in the middle of the satellite imagery was nothing more than a humble hot dog stand.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 403edb72-ebc4-4b89-8746-4cd19e089691
+        title: The Pentagon
+        slug: the-pentagon
+    date: null
+    date_end: null
+    location_in_record: ch17:1799-1885
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  - claim_id: 18fc8638-0404-4146-b35c-cb8317742af0
+    claim_hash: e0f6af284795516a92eb9e38e3f71d43969a8290b61e1f6475a8ff533426e40c
+    content: Luis Elizondo was assigned a parking spot along the Pentagon's River Entrance, alongside senior military staff
+      including the chairman of the Joint Chiefs of Staff, the secretaries of each service, the undersecretaries, and the
+      Secretary of Defense.
+    original_excerpt: I was assigned a parking spot along the coveted River Entrance, alongside all the senior military staff,
+      the chairman of the Joint Chiefs of Staff, the secretaries of each service, all of the undersecretaries, and the secretary
+      of defense.
+    claim_type: administrative
+    attestation: first_hand
+    speaker:
+      node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+      title: Luis Elizondo
+    provenance_chain:
+      origin_kind: speaker
+      origin: Lue Elizondo
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 403edb72-ebc4-4b89-8746-4cd19e089691
+        title: The Pentagon
+        slug: the-pentagon
+      - node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+        title: Luis Elizondo
+        slug: luis-elizondo
+      - node_id: 95535ea3-01ed-41d1-bbfc-df71eb0e89a1
+        title: Joint Chiefs of Staff
+        slug: joint-chiefs-of-staff
+    date: null
+    date_end: null
+    location_in_record: ch17:1936-2167
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  - claim_id: c8e30de3-82e1-42f1-a0d6-e9a45973be71
+    claim_hash: 30f96fdfbbe181a8f2b75b3e1df3597c88454e0733925781599708d999ede95c
+    content: In February 2012, another tragedy befell the Elizondo family while Luis Elizondo was giving a tour of the Pentagon
+      to a Japanese delegation of VIPs.
+    original_excerpt: Another tragedy befell our family months later, in February 2012. I was giving a tour of the Pentagon
+      to a Japanese delegation of VIPs.
+    claim_type: administrative
+    attestation: first_hand
+    speaker:
+      node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+      title: Luis Elizondo
+    provenance_chain:
+      origin_kind: speaker
+      origin: Lue Elizondo
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 2a9dc569-ac94-4e71-8fc5-71211753a876
+        title: 2012-02 Jennifer Elizondo crosswalk accident
+        slug: 2012-02-jennifer-elizondo-crosswalk-accident
+      - node_id: 403edb72-ebc4-4b89-8746-4cd19e089691
+        title: The Pentagon
+        slug: the-pentagon
+      - node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+        title: Luis Elizondo
+        slug: luis-elizondo
+    date: 2012-02
+    date_end: null
+    location_in_record: ch17:19782-19912
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  - claim_id: 008a9ca0-1315-4ac5-bf09-32510257f504
+    claim_hash: 3e09893a75ae0ef3dcca53af60a40d82b880d79ed9ed99bd17cbcee2bb9e3c0a
+    content: Luis D. Elizondo III was often asked to give personal tours of the Pentagon since he took visitors to areas that
+      are not part of the normal Pentagon tour.
+    original_excerpt: as often asked to give personal tours since I took visitors to areas that are not part of the normal
+      Pentagon tour.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+      title: Luis Elizondo
+    provenance_chain:
+      origin_kind: speaker
+      origin: Lue Elizondo
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 403edb72-ebc4-4b89-8746-4cd19e089691
+        title: The Pentagon
+        slug: the-pentagon
+      - node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+        title: Luis Elizondo
+        slug: luis-elizondo
+    date: null
+    date_end: null
+    location_in_record: ch17:19983-20090
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  - claim_id: 266ff356-ebe8-4c72-b2d1-007bc00af5af
+    claim_hash: be67880c9735b2368008ade6f9b6c8ee4c6d6631e18b809eb6f5f936cd0e9b8c
+    content: When Jennifer Elizondo was hit by a vehicle, Luis D. Elizondo III was an hour and a half away at the Pentagon.
+    original_excerpt: Now she lay in the back of an ambulance and I was an hour and a half away, at the Pentagon.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+      title: Luis Elizondo
+    provenance_chain:
+      origin_kind: speaker
+      origin: Lue Elizondo
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 2a9dc569-ac94-4e71-8fc5-71211753a876
+        title: 2012-02 Jennifer Elizondo crosswalk accident
+        slug: 2012-02-jennifer-elizondo-crosswalk-accident
+      - node_id: 403edb72-ebc4-4b89-8746-4cd19e089691
+        title: The Pentagon
+        slug: the-pentagon
+      - node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+        title: Luis Elizondo
+        slug: luis-elizondo
+      - node_id: d9532953-68e1-4f10-bfc3-a62ab2c428bc
+        title: Jennifer
+        slug: jennifer
+    date: 2012-02
+    date_end: null
+    location_in_record: ch17:21277-21359
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  - claim_id: ce6300dd-5b77-4d41-8f6d-58429dc10171
+    claim_hash: b89261d01a3f0431e5baa5dbcbcb94043c8cb86bd91ac243e7880c13b91faea0
+    content: The Pentagon covers approximately 604,000 square metres and was until recently the largest office building in
+      the world.
+    original_excerpt: At 6.5 million square feet, this was the largest office building in the world until recently.
+    claim_type: measurement
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 403edb72-ebc4-4b89-8746-4cd19e089691
+        title: The Pentagon
+        slug: the-pentagon
+    date: null
+    date_end: null
+    location_in_record: ch17:238-322
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  - claim_id: a5f53c30-c777-4edf-ad7f-ac743e8d1b0b
+    claim_hash: e7e77af80af4cdff4b7d58890fe03aeccb216741a02f7b3e0c1a7e4634335733
+    content: Approximately twenty-two thousand people work in the Pentagon.
+    original_excerpt: Twenty-two thousand people work there, the population of a large university campus.
+    claim_type: measurement
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 403edb72-ebc4-4b89-8746-4cd19e089691
+        title: The Pentagon
+        slug: the-pentagon
+    date: null
+    date_end: null
+    location_in_record: ch17:332-408
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  - claim_id: 67c9f2d3-4014-4e69-b97f-03236794c497
+    claim_hash: 5143f231df90ced284e199ff896511ca4c0bb50f7dedccf608768ede0a3d1244
+    content: The United States Department of War constructed the Pentagon at the beginning of World War II.
+    original_excerpt: The US Department of War constructed the building at the beginning of World War II
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 2d16e9ea-f92d-4e97-9835-0a1a739ffba6
+        title: United States Department of War
+        slug: united-states-department-of-war
+      - node_id: 403edb72-ebc4-4b89-8746-4cd19e089691
+        title: The Pentagon
+        slug: the-pentagon
+    date: null
+    date_end: null
+    location_in_record: ch17:417-497
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  - claim_id: 599150e2-22a7-43d5-b01b-f13635ca0df3
+    claim_hash: ce4dddb7eb5b34be9612472126d403f701ec1215b1c49208383cace69e98230d
+    content: The Pentagon has eleven corridors arranged like the spokes of a wheel, allowing any location to be reached on
+      foot in five minutes.
+    original_excerpt: it has eleven corridors arranged like the spokes of a wheel, so you can reach any location on foot in
+      five minutes.
+    claim_type: observation
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 403edb72-ebc4-4b89-8746-4cd19e089691
+        title: The Pentagon
+        slug: the-pentagon
+    date: null
+    date_end: null
+    location_in_record: ch17:605-712
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  - claim_id: 946320f6-fe91-4fa3-bb3f-b34b03be8cf1
+    claim_hash: 811a8172b4d9d2b5d909e316958b9ee96dabfd6af90cda538a955e8b641d6914
+    content: James Mattis accepted the position of Secretary of Defense in the incoming Trump administration.
+    original_excerpt: I was working in the Pentagon building with Mad Dog himself, who had accepted the position of secretary
+      of defense in the incoming Trump administration.
+    claim_type: administrative
+    attestation: first_hand
+    speaker:
+      node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+      title: Luis Elizondo
+    provenance_chain:
+      origin_kind: speaker
+      origin: Lue Elizondo
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 403edb72-ebc4-4b89-8746-4cd19e089691
+        title: The Pentagon
+        slug: the-pentagon
+      - node_id: 816c219b-6372-49f6-9579-5eeabb9a7474
+        title: Donald Trump
+        slug: donald-trump
+      - node_id: 91d543c3-8e12-4e0b-a457-d668f5c54bba
+        title: James Mattis
+        slug: james-mattis
+    date: null
+    date_end: null
+    location_in_record: ch25:21603-21740
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  - claim_id: 3e74a9cc-0464-48e1-a915-9acbf7fda48b
+    claim_hash: 291d2de916b07d0a0b7f8b1a0337da1f9fdbb835d7c3fd15d24dbab7db570ca5
+    content: Harold Puthoff suggested to Jay Stratton that they meet with Jim Semivan at the Pentagon.
+    original_excerpt: Hal suggested to Jay that we meet with Jim at the Pentagon.
+    claim_type: administrative
+    attestation: first_hand
+    speaker:
+      node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+      title: Luis Elizondo
+    provenance_chain:
+      origin_kind: speaker
+      origin: Lue Elizondo
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 1c8b4d30-0305-4694-8008-7eab18bc4996
+        title: Jim Semivan
+        slug: jim-semivan
+      - node_id: 403edb72-ebc4-4b89-8746-4cd19e089691
+        title: The Pentagon
+        slug: the-pentagon
+      - node_id: 51d882d7-ae4b-4a91-bc4f-a2b900fb1196
+        title: Jay Stratton
+        slug: jay-stratton
+      - node_id: 6dcdfe60-bc2f-4be2-a041-9957a82f371e
+        title: Harold E. Puthoff
+        slug: harold-e-puthoff
+    date: null
+    date_end: null
+    location_in_record: ch25:25289-25339
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  - claim_id: 6a867e3d-a14e-4657-9dd3-69e3a2d6dd08
+    claim_hash: 0f3b63494efb99d4df8b85d7bd657ba5c994152e633ade5e67ba34a91aac880c
+    content: Jim Semivan had heard rumblings of a real UAP (Unidentified Aerial Phenomena) programme being run out of the
+      Pentagon.
+    original_excerpt: He had heard rumblings of a real UAP program being run out of the Pentagon, so he was excited to have
+      finally found us.
+    claim_type: hearsay
+    attestation: second_hand
+    speaker:
+      node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+      title: Luis Elizondo
+    provenance_chain:
+      origin_kind: anonymous
+      origin: unnamed sources whose rumours reached Jim Semivan
+      relay:
+        - rumours heard by Jim Semivan
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 1c8b4d30-0305-4694-8008-7eab18bc4996
+        title: Jim Semivan
+        slug: jim-semivan
+      - node_id: 403edb72-ebc4-4b89-8746-4cd19e089691
+        title: The Pentagon
+        slug: the-pentagon
+      - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
+        title: Unidentified Anomalous Phenomena (UAP)
+        slug: unidentified-anomalous-phenomena-uap
+    date: null
+    date_end: null
+    location_in_record: ch25:27396-27512
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  - claim_id: 097c2173-2164-4fa4-a132-75bec74e479f
+    claim_hash: df07f2bfbe79541b82e439a94cc42f4df696e2c05f2b762e8b7f1d3a32f431cd
+    content: Luis Elizondo considers Bryan Bender a shrewd reporter who knew the workings of the Pentagon better than most
+      people who worked there.
+    original_excerpt: He was a very shrewd reporter who knew the ins and outs of the Pentagon better than most people who
+      worked there.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+      title: Luis Elizondo
+    provenance_chain:
+      origin_kind: speaker
+      origin: Lue Elizondo
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 34ce20f3-f42f-459a-99e8-1e5fbfa1a01f
+        title: Bryan Bender
+        slug: bryan-bender
+      - node_id: 403edb72-ebc4-4b89-8746-4cd19e089691
+        title: The Pentagon
+        slug: the-pentagon
+      - node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+        title: Luis Elizondo
+        slug: luis-elizondo
+    date: null
+    date_end: null
+    location_in_record: ch29:20417-20524
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  - claim_id: 1fb5f84b-2e87-4e83-98d3-30699c510c71
+    claim_hash: b22d331ff3a2b3e9ece947ea1552c7460c2ac6496974a7c7a65fcf6ec95bd888
+    content: Bryan Bender did not come across as a believer in Unidentified Aerial Phenomena (UAP), but rather seemed interested
+      in whether the Pentagon had a programme that was never disclosed to the public or Congress.
+    original_excerpt: Bryan didn't come across as a "UAP believer." Rather, he seemed interested in the Pentagon having a
+      program that wasn't ever disclosed to the public or Congress, but I could be wrong.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+      title: Luis Elizondo
+    provenance_chain:
+      origin_kind: speaker
+      origin: Lue Elizondo
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 34ce20f3-f42f-459a-99e8-1e5fbfa1a01f
+        title: Bryan Bender
+        slug: bryan-bender
+      - node_id: 403edb72-ebc4-4b89-8746-4cd19e089691
+        title: The Pentagon
+        slug: the-pentagon
+      - node_id: 4fb65b2c-296a-493d-bbc7-65e4b763c1f0
+        title: United States Congress
+        slug: united-states-congress
+      - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
+        title: Unidentified Anomalous Phenomena (UAP)
+        slug: unidentified-anomalous-phenomena-uap
+    date: null
+    date_end: null
+    location_in_record: ch29:21100-21304
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  - claim_id: c010e9f0-fd73-4afc-9ee8-34c55bfe2d4d
+    claim_hash: 5d7b2797c7cd2eecfd56d504fd49902dcacaa053bbc7f7078c2c013da40cdc8f
+    content: The Politico article about the Advanced Aerospace Threat Identification Program (AATIP) stated that Pentagon
+      spokesperson Dana White confirmed Luis Elizondo's role in the programme.
+    original_excerpt: The Politico piece in particular spelled out that the Pentagon's spokesperson, Dana White, had confirmed
+      my role in the program.
+    claim_type: administrative
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: document
+      origin: the Politico article on AATIP
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 36754a47-30a4-4ad9-8dcd-5cac51d1e6a4
+        title: Politico
+        slug: politico
+      - node_id: 403edb72-ebc4-4b89-8746-4cd19e089691
+        title: The Pentagon
+        slug: the-pentagon
+      - node_id: 6c1618c8-50db-42c9-860e-6d736ef280bf
+        title: Advanced Aerospace Threat Identification Program (AATIP)
+        slug: advanced-aerospace-threat-identification-program-aatip
+      - node_id: 73f0f85a-5ac1-4e3b-ab75-20b8a3ce35a5
+        title: Dana White
+        slug: dana-white
+      - node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+        title: Luis Elizondo
+        slug: luis-elizondo
+    date: null
+    date_end: null
+    location_in_record: ch29:23060-23182
+    evidence:
+      score: null
+      independent_sources: 2
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  - claim_id: 70109fb6-1cd1-4df1-b8bb-9b6313a22794
+    claim_hash: c9c5ae6ae1805f5cd92b4c056f164c192782bd53fe4f1299d7c0326666c3e033
+    content: James Clapper told Luis Elizondo he was surprised the Pentagon admitted it had a UAP programme and that he was
+      proud of Elizondo.
+    original_excerpt: He greeted us warmly, saying how surprised he was that the Pentagon admitted it had a UAP program, and
+      that he was proud of me.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: a3b88bf2-de8f-45bf-addf-fadd9244c4e5
+      title: James R. Clapper
+    provenance_chain:
+      origin_kind: speaker
+      origin: James Clapper
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 403edb72-ebc4-4b89-8746-4cd19e089691
+        title: The Pentagon
+        slug: the-pentagon
+      - node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+        title: Luis Elizondo
+        slug: luis-elizondo
+      - node_id: a3b88bf2-de8f-45bf-addf-fadd9244c4e5
+        title: James R. Clapper
+        slug: james-r-clapper
+    date: null
+    date_end: null
+    location_in_record: ch29:25579-25703
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  - claim_id: 10e36531-a250-4832-9d33-d971309aa8db
+    claim_hash: 667f8107a5d570c11050b22867913d5e1d16ed38a748006db29fde26db64ae90
+    content: Someone in the Office of the Undersecretary of Defense for Intelligence (OUSD(I)) allegedly authorised the complete
+      deletion of all Luis Elizondo's electronic files, folders, and emails, under the justification that they had no historic
+      value, according to a Freedom of Information Act response from the Pentagon.
+    original_excerpt: Sometime shortly thereafter, someone in OUSD(I) allegedly authorized the complete deletion of all my
+      electronic files, folders, and emails, under the justification that they had "no historic value." Or so claimed a Freedom
+      of Information Act response from the Pentagon itself.
+    claim_type: hearsay
+    attestation: second_hand
+    speaker:
+      node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+      title: Luis Elizondo
+    provenance_chain:
+      origin_kind: document
+      origin: a Freedom of Information Act response from the Pentagon
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 403edb72-ebc4-4b89-8746-4cd19e089691
+        title: The Pentagon
+        slug: the-pentagon
+      - node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+        title: Luis Elizondo
+        slug: luis-elizondo
+      - node_id: f9c1f5e2-7a4b-4767-9954-a9d0f73bd908
+        title: Office of the Under Secretary of Defense for Intelligence (OUSDI)
+        slug: office-of-the-under-secretary-of-defense-for-intelligence-ousdi
+    date: null
+    date_end: null
+    location_in_record: ch29:27894-28163
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  - claim_id: 1edefc25-ff16-4b90-967c-b0539f42faf7
+    claim_hash: 36070b23a6669c1ceb966396f0ee2940d90682cd9c91c14b3d5a11c4be3c70b4
+    content: Luis Elizondo's Pentagon job had marked the beginning of an unusual period of stability for him and Jennifer,
+      who had previously been military nomads travelling wherever he was stationed.
+    original_excerpt: In our youth, Jenn and I had been military nomads, traveling wherever in the world I was stationed.
+      My Pentagon job had marked the beginning of an unusual period of stability for us.
+    claim_type: observation
+    attestation: first_hand
+    speaker:
+      node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+      title: Luis Elizondo
+    provenance_chain:
+      origin_kind: speaker
+      origin: Lue Elizondo
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 403edb72-ebc4-4b89-8746-4cd19e089691
+        title: The Pentagon
+        slug: the-pentagon
+      - node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+        title: Luis Elizondo
+        slug: luis-elizondo
+      - node_id: d9532953-68e1-4f10-bfc3-a62ab2c428bc
+        title: Jennifer
+        slug: jennifer
+    date: null
+    date_end: null
+    location_in_record: ch29:29157-29336
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  - claim_id: a274584d-4cdd-4515-a79c-68649db65e3a
+    claim_hash: 22511891894f255b41a1e9194b78bd7763c2d5aa446a9842d5de15e49eddf318
+    content: At the May 2022 Congressional UAP hearing, it was revealed that the Pentagon was unaware of Unidentified Aerial
+      Phenomena (UAP) incursions near sensitive nuclear facilities, including instances of intercontinental ballistic missiles
+      (ICBMs) being taken offline.
+    original_excerpt: Another shocking admission which completely took me by surprise was that the Pentagon was unaware of
+      the incursions of UAP near sensitive nuclear facilities. The Pentagon admitted it was unaware of its own reporting going
+      back to instances including ICBMs being taken offline.
+    claim_type: testimony
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: document
+      origin: May 2022 Congressional UAP hearing
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 2fa58da5-607b-42f4-8c19-77b4af30cd4d
+        title: 2022-05 Congressional Unidentified Aerial Phenomena (UAP) hearing
+        slug: 2022-05-congressional-unidentified-aerial-phenomena-uap-hearing
+      - node_id: 403edb72-ebc4-4b89-8746-4cd19e089691
+        title: The Pentagon
+        slug: the-pentagon
+      - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
+        title: Unidentified Anomalous Phenomena (UAP)
+        slug: unidentified-anomalous-phenomena-uap
+    date: null
+    date_end: null
+    location_in_record: ch31:34352-34647
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  - claim_id: 96724a0b-4cd7-444c-84e6-77bf212d9003
+    claim_hash: ed002c32a717df904f8642cfd3546730dd39aca24cf9865125237ae85bf1698b
+    content: Lue Elizondo believes that had the Pentagon done even a cursory review of its own records, it would have realised
+      that it had already written reports on the nuclear-facility Unidentified Aerial Phenomena (UAP) incursions.
+    original_excerpt: Had the Pentagon done even a cursory review of its own records, it would have realized that the Pentagon
+      itself had written reports on these incursions.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+      title: Luis Elizondo
+    provenance_chain:
+      origin_kind: speaker
+      origin: Lue Elizondo
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 403edb72-ebc4-4b89-8746-4cd19e089691
+        title: The Pentagon
+        slug: the-pentagon
+      - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
+        title: Unidentified Anomalous Phenomena (UAP)
+        slug: unidentified-anomalous-phenomena-uap
+      - node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+        title: Luis Elizondo
+        slug: luis-elizondo
+    date: null
+    date_end: null
+    location_in_record: ch31:34656-34797
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  - claim_id: 547e4e1a-db91-4538-8afb-80d259c1a735
+    claim_hash: 48701f927f1ff1fd67215650f0ae9662c00e797fcfee9762776760fefea20ce2
+    content: A Pentagon spokesperson confirmed to the media that Luis D. Elizondo provides technical advice on a variety of
+      classified topics for the United States Space Force (USSF).
+    original_excerpt: 'A spokesperson confirmed to the media: “Mr. Elizondo provides technical advice on a variety of classified
+      topics for the US Space Force.”'
+    claim_type: administrative
+    attestation: second_hand
+    speaker:
+      node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+      title: Luis Elizondo
+    provenance_chain:
+      origin_kind: named
+      origin: a Pentagon spokesperson
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 403edb72-ebc4-4b89-8746-4cd19e089691
+        title: The Pentagon
+        slug: the-pentagon
+      - node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+        title: Luis Elizondo
+        slug: luis-elizondo
+      - node_id: f2a10ed1-543e-4df4-8e98-f45964a6a1af
+        title: United States Space Force (USSF)
+        slug: united-states-space-force-ussf
+    date: null
+    date_end: null
+    location_in_record: ch31:41447-41577
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  - claim_id: 303b0beb-37d0-46f8-b135-e8eddb8f6dd8
+    claim_hash: 5d4f8af885ca8784c039b7725fb6efa3f4b98610540ed43f6963aa51d58b36c5
+    content: Luis Elizondo states that the White House, the Central Intelligence Agency (CIA), the National Aeronautics and
+      Space Administration (NASA), the Pentagon, and the United States Department of Energy currently play a role in the UAP
+      issue but that no single entity is in charge.
+    original_excerpt: Currently, the White House, CIA, NASA, the Pentagon, Department of Energy, and others play a role, but
+      no one seems to be in charge, leading to unchecked power and corruption.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+      title: Luis Elizondo
+    provenance_chain:
+      origin_kind: speaker
+      origin: Luis Elizondo
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 09527e2e-b76c-4293-a9ce-a2b531b038e6
+        title: United States Department of Energy (DOE)
+        slug: united-states-department-of-energy-doe
+      - node_id: 38b84d4a-96df-4684-bb46-f6f64f392add
+        title: Central Intelligence Agency (CIA)
+        slug: central-intelligence-agency-cia
+      - node_id: 403edb72-ebc4-4b89-8746-4cd19e089691
+        title: The Pentagon
+        slug: the-pentagon
+      - node_id: 5e47c787-005b-4c91-ba4b-c9bec48146c9
+        title: National Aeronautics and Space Administration (NASA)
+        slug: national-aeronautics-and-space-administration-nasa
+      - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
+        title: Unidentified Anomalous Phenomena (UAP)
+        slug: unidentified-anomalous-phenomena-uap
+      - node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+        title: Luis Elizondo
+        slug: luis-elizondo
+      - node_id: 997facc0-2c81-4d74-9fc5-d819de1c1d47
+        title: The White House
+        slug: the-white-house
+    date: '2024-11-13'
+    date_end: null
+    location_in_record: char:3537-3725
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 72cc1cf9-c482-4e0e-8629-c9d2fb101493
+      record_title: 'Written Testimony of Luis Elizondo: Unidentified Anomalous Phenomena: Exposing the Truth'
+      record_date: '2024-11-13'
+      record_reference: null
+      content_hash: sha256:f523c71874db66fde0118502c5f7d33293f65f6517bbec044b94dce064218b64
+      friendly_name: 2024-11-13-pdf-written-testimony-of-luis-elizondo-unidentified-anomalous-phenomena-exposing-the
+  - claim_id: 8a1f7cb2-fbb3-48ff-a058-807de703ed51
+    claim_hash: 042d625c9551c9d8a567457916141e1b3ca49687c01904451e4ae43607e92ebb
+    content: The Pentagon published a report in 2021 acknowledging that UAP are real and cannot be discounted.
+    original_excerpt: they published a report in 2021 acknowledging that UAPs are real. Whatever they are, they're real. They're
+      not something that can be discounted.
+    claim_type: administrative
+    attestation: second_hand
+    speaker:
+      node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+      title: Ross Coulthart
+    provenance_chain:
+      origin_kind: document
+      origin: the 2021 United States government preliminary assessment on Unidentified Aerial Phenomena
+      relay:
+        - Ross Coulthart
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 403edb72-ebc4-4b89-8746-4cd19e089691
+        title: The Pentagon
+        slug: the-pentagon
+      - node_id: 4220ff9f-af42-46be-a609-4dbd1d78a347
+        title: 2021 Office of the Director of National Intelligence (ODNI) preliminary assessment on Unidentified Aerial Phenomena
+          (UAP)
+        slug: 2021-office-of-the-director-of-national-intelligence-odni-preliminary-assessment-on-unidentified-aerial-phenomena-uap
+      - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
+        title: Unidentified Anomalous Phenomena (UAP)
+        slug: unidentified-anomalous-phenomena-uap
+    date: '2021'
+    date_end: null
+    location_in_record: 00:32:29.9-00:32:37.5
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: fd845823-8784-462c-a981-4775525b6f84
+      record_title: The DANGEROUS Truth About UFOs - Ross Coulthart | DEBRIEFED ep. 76
+      record_date: '2026-02-20'
+      record_reference: https://www.youtube.com/watch?v=idBryc0eWww
+      content_hash: sha256:73be106d406f6d35a063a894e8384e7da0918eb8597d2107a9e3653becca2bdc
+      friendly_name: null
+  - claim_id: 40d8f94a-7f31-4494-a710-6ad7f11a8713
+    claim_hash: 0546d7c409c84acfcffa77dd80b271c78c694b1602b46710acbcfb1c0628dfba
+    content: Ross Coulthart considers the 2021 Pentagon acknowledgement that UAP are real to have been a major turning point
+      in public awareness of the issue.
+    original_excerpt: That for me was a huge turning point in, I think, public awareness of the issue.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+      title: Ross Coulthart
+    provenance_chain:
+      origin_kind: speaker
+      origin: Ross Coulthart
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 403edb72-ebc4-4b89-8746-4cd19e089691
+        title: The Pentagon
+        slug: the-pentagon
+      - node_id: 4220ff9f-af42-46be-a609-4dbd1d78a347
+        title: 2021 Office of the Director of National Intelligence (ODNI) preliminary assessment on Unidentified Aerial Phenomena
+          (UAP)
+        slug: 2021-office-of-the-director-of-national-intelligence-odni-preliminary-assessment-on-unidentified-aerial-phenomena-uap
+      - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
+        title: Unidentified Anomalous Phenomena (UAP)
+        slug: unidentified-anomalous-phenomena-uap
+      - node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+        title: Ross Coulthart
+        slug: ross-coulthart
+    date: null
+    date_end: null
+    location_in_record: 00:32:38.8-00:32:42.8
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: fd845823-8784-462c-a981-4775525b6f84
+      record_title: The DANGEROUS Truth About UFOs - Ross Coulthart | DEBRIEFED ep. 76
+      record_date: '2026-02-20'
+      record_reference: https://www.youtube.com/watch?v=idBryc0eWww
+      content_hash: sha256:73be106d406f6d35a063a894e8384e7da0918eb8597d2107a9e3653becca2bdc
+      friendly_name: null
+  - claim_id: 00a9c3ad-0045-42db-b67e-a24c099ed856
+    claim_hash: 37b266e6f89a1496e0f8d8ebe0ba8af5bd5954a8604e80df0752ed4ef56831dd
+    content: Around 2018 to 2020 sources categorically denied to Ross Coulthart any knowledge of a UFO retrieval programme,
+      but became evasive when he returned to them after the 2021 Pentagon acknowledgement of UAP.
+    original_excerpt: There were people who were denying knowledge to me of any kind of program categorically in about 2018,
+      2019, 2020. And then when I went back to them after that moment, when in 2021, the Pentagon had made the admission that
+      there are UAPs, they were evasive.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+      title: Ross Coulthart
+    provenance_chain:
+      origin_kind: speaker
+      origin: Ross Coulthart
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 0bbdac2d-a855-466a-a051-2afa64a779e2
+        title: UAP crash retrieval and reverse engineering program
+        slug: uap-crash-retrieval-and-reverse-engineering-program
+      - node_id: 403edb72-ebc4-4b89-8746-4cd19e089691
+        title: The Pentagon
+        slug: the-pentagon
+      - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
+        title: Unidentified Anomalous Phenomena (UAP)
+        slug: unidentified-anomalous-phenomena-uap
+      - node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+        title: Ross Coulthart
+        slug: ross-coulthart
+    date: null
+    date_end: null
+    location_in_record: 00:35:28.5-00:35:51.2
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: fd845823-8784-462c-a981-4775525b6f84
+      record_title: The DANGEROUS Truth About UFOs - Ross Coulthart | DEBRIEFED ep. 76
+      record_date: '2026-02-20'
+      record_reference: https://www.youtube.com/watch?v=idBryc0eWww
+      content_hash: sha256:73be106d406f6d35a063a894e8384e7da0918eb8597d2107a9e3653becca2bdc
+      friendly_name: null
+  - claim_id: 57d9eb50-ea27-4ea9-af7a-d9f774bd6ded
+    claim_hash: c466d42a933b45a9803da594b166f97ce3611029895954a8c98ad4dcf279ebfa
+    content: Ross Coulthart expects the Pentagon and the intelligence community to use the fact that certain members of the
+      United States Congress were read in as a defence of their reputations when it emerges they have lied to the public and
+      to presidents for decades.
+    original_excerpt: I think this is what's going to be used as an attempt to rescue the tattered reputations of the Pentagon
+      and the intelligence community when the truth does finally come out that they've been lying to the public and indeed
+      to presidents for many decades.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+      title: Ross Coulthart
+    provenance_chain:
+      origin_kind: speaker
+      origin: Ross Coulthart
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 403edb72-ebc4-4b89-8746-4cd19e089691
+        title: The Pentagon
+        slug: the-pentagon
+      - node_id: 4fb65b2c-296a-493d-bbc7-65e4b763c1f0
+        title: United States Congress
+        slug: united-states-congress
+      - node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+        title: Ross Coulthart
+        slug: ross-coulthart
+    date: null
+    date_end: null
+    location_in_record: 00:36:04.2-00:36:18.1
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: fd845823-8784-462c-a981-4775525b6f84
+      record_title: The DANGEROUS Truth About UFOs - Ross Coulthart | DEBRIEFED ep. 76
+      record_date: '2026-02-20'
+      record_reference: https://www.youtube.com/watch?v=idBryc0eWww
+      content_hash: sha256:73be106d406f6d35a063a894e8384e7da0918eb8597d2107a9e3653becca2bdc
+      friendly_name: null
+  - claim_id: 7797e52e-cb2b-4279-a1eb-a18fe36fed54
+    claim_hash: 87aabebce1f7b01e13f7977041254b111a9b65ffa70cd99eb0b29f6d1727678d
+    content: The Pentagon has failed every financial audit it has undergone.
+    original_excerpt: Well, I mean, Pentagon has failed every audit in forever.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 24d00311-06ac-46a1-a2f5-c99f3f8e21b2
+      title: Chris Ramsay
+    provenance_chain:
+      origin_kind: speaker
+      origin: Chris Ramsay
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 24d00311-06ac-46a1-a2f5-c99f3f8e21b2
+        title: Chris Ramsay
+        slug: chris-ramsay
+      - node_id: 403edb72-ebc4-4b89-8746-4cd19e089691
+        title: The Pentagon
+        slug: the-pentagon
+    date: null
+    date_end: null
+    location_in_record: 00:42:02.9-00:42:06.1
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: fd845823-8784-462c-a981-4775525b6f84
+      record_title: The DANGEROUS Truth About UFOs - Ross Coulthart | DEBRIEFED ep. 76
+      record_date: '2026-02-20'
+      record_reference: https://www.youtube.com/watch?v=idBryc0eWww
+      content_hash: sha256:73be106d406f6d35a063a894e8384e7da0918eb8597d2107a9e3653becca2bdc
+      friendly_name: null
+  - claim_id: fac6ac34-b0f8-4f35-af1e-7f3af5bdb9d0
+    claim_hash: c59ca3e6afb694b22ec8dd80bc457cf16bffde77eec8282ea4e3aa9616859366
+    content: Chris Ramsay considers that trillions of dollars were missing from United States government accounts prior to
+      the September 11 2001 attacks.
+    original_excerpt: You know, and there's trillions of dollars missing prior to the 9-11 incident.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 24d00311-06ac-46a1-a2f5-c99f3f8e21b2
+      title: Chris Ramsay
+    provenance_chain:
+      origin_kind: speaker
+      origin: Chris Ramsay
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 24d00311-06ac-46a1-a2f5-c99f3f8e21b2
+        title: Chris Ramsay
+        slug: chris-ramsay
+      - node_id: 403edb72-ebc4-4b89-8746-4cd19e089691
+        title: The Pentagon
+        slug: the-pentagon
+      - node_id: 89e6a117-d345-4b6e-a635-faf60b13ea99
+        title: September 11, 2001 attacks
+        slug: 2001-attacks-september-11
+    date: null
+    date_end: null
+    location_in_record: 00:42:07.5-00:42:10.9
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: fd845823-8784-462c-a981-4775525b6f84
+      record_title: The DANGEROUS Truth About UFOs - Ross Coulthart | DEBRIEFED ep. 76
+      record_date: '2026-02-20'
+      record_reference: https://www.youtube.com/watch?v=idBryc0eWww
+      content_hash: sha256:73be106d406f6d35a063a894e8384e7da0918eb8597d2107a9e3653becca2bdc
+      friendly_name: null
+  - claim_id: dfffd353-9501-48c5-8fb8-83733974a87f
+    claim_hash: ab7d0db15772c40093a763346a93307dabdf729316331374f53b70678fe0dbd9
+    content: There are audit holes in United States government accounts meaning money cannot be accounted for, though officials
+      know it has gone into a certain programme.
+    original_excerpt: there are... audit holes that mean they can't account for money sure but they know that it's gone into
+      a certain program
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+      title: Ross Coulthart
+    provenance_chain:
+      origin_kind: speaker
+      origin: Ross Coulthart
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 403edb72-ebc4-4b89-8746-4cd19e089691
+        title: The Pentagon
+        slug: the-pentagon
+      - node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+        title: Ross Coulthart
+        slug: ross-coulthart
+    date: null
+    date_end: null
+    location_in_record: 00:42:18.4-00:42:25.2
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: fd845823-8784-462c-a981-4775525b6f84
+      record_title: The DANGEROUS Truth About UFOs - Ross Coulthart | DEBRIEFED ep. 76
+      record_date: '2026-02-20'
+      record_reference: https://www.youtube.com/watch?v=idBryc0eWww
+      content_hash: sha256:73be106d406f6d35a063a894e8384e7da0918eb8597d2107a9e3653becca2bdc
+      friendly_name: null
+  - claim_id: 9f0c62cc-4757-477e-8c83-d9775ca2d267
+    claim_hash: 825de972a415ea86de330e7322b4ea92f463bf1ce04a61bfbab14c1d6d653070
+    content: People in the Pentagon and the intelligence community have told Ross Coulthart that revealing the existence of
+      a non-human intelligence would force the revelation of the technology developed from recovered craft.
+    original_excerpt: I've spoken to people in the Pentagon and in the intelligence community, and they tell me, they think
+      if you reveal the first, you're going to have to reveal the latter.
+    claim_type: hearsay
+    attestation: second_hand
+    speaker:
+      node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+      title: Ross Coulthart
+    provenance_chain:
+      origin_kind: anonymous
+      origin: people claiming to work in the Pentagon and the United States intelligence community
+      relay:
+        - conversations with Ross Coulthart
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 403edb72-ebc4-4b89-8746-4cd19e089691
+        title: The Pentagon
+        slug: the-pentagon
+      - node_id: 9c74d864-957a-4654-a5b6-1249fe654ec7
+        title: Non-Human Intelligence
+        slug: non-human-intelligence
+      - node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+        title: Ross Coulthart
+        slug: ross-coulthart
+      - node_id: e409daef-3b00-4fb4-9159-0f6a7f41a268
+        title: reverse engineering of non-human craft
+        slug: reverse-engineering-of-non-human-craft
+    date: null
+    date_end: null
+    location_in_record: 00:55:44.3-00:55:53.2
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: fd845823-8784-462c-a981-4775525b6f84
+      record_title: The DANGEROUS Truth About UFOs - Ross Coulthart | DEBRIEFED ep. 76
+      record_date: '2026-02-20'
+      record_reference: https://www.youtube.com/watch?v=idBryc0eWww
+      content_hash: sha256:73be106d406f6d35a063a894e8384e7da0918eb8597d2107a9e3653becca2bdc
+      friendly_name: null
+  - claim_id: 542acc37-6ff1-474b-a4d3-610fb1f11b00
+    claim_hash: dba6b7075fa7f20e3af9e39c665f185f99241e560dd454e0e676c9251f088600
+    content: Officials fear that telling the public that alien spacecraft have been recovered, that a non-human intelligence
+      is engaging with Earth, and that the public has been lied to for the last 80 years, would lead to a catastrophic rollout
+      of what has been developed.
+    original_excerpt: they think that if they tell the public, yes, we've recovered alien spacecraft, yes, there really is
+      non-human intelligence engaging with this planet, and we've been lying to you for the last 80 years, they think that
+      that will lead to a catastrophic rollout of what we've got.
+    claim_type: hearsay
+    attestation: second_hand
+    speaker:
+      node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+      title: Ross Coulthart
+    provenance_chain:
+      origin_kind: anonymous
+      origin: people claiming to work in the Pentagon and the United States intelligence community
+      relay:
+        - conversations with Ross Coulthart
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 403edb72-ebc4-4b89-8746-4cd19e089691
+        title: The Pentagon
+        slug: the-pentagon
+      - node_id: 9c74d864-957a-4654-a5b6-1249fe654ec7
+        title: Non-Human Intelligence
+        slug: non-human-intelligence
+      - node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+        title: Ross Coulthart
+        slug: ross-coulthart
+    date: null
+    date_end: null
+    location_in_record: 00:56:00.3-00:56:15.9
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: fd845823-8784-462c-a981-4775525b6f84
+      record_title: The DANGEROUS Truth About UFOs - Ross Coulthart | DEBRIEFED ep. 76
+      record_date: '2026-02-20'
+      record_reference: https://www.youtube.com/watch?v=idBryc0eWww
+      content_hash: sha256:73be106d406f6d35a063a894e8384e7da0918eb8597d2107a9e3653becca2bdc
+      friendly_name: null
+  - claim_id: ae0a80d8-13bf-4278-b1bd-8000efce67a0
+    claim_hash: 105aace635db8b7dd0fb18c7fc2e28d7dba0b5bbbc328eea7644155f1f0f1ee8
+    content: The official position of the Pentagon remains that there is no evidence at all of extraterrestrial engagement
+      with planet Earth.
+    original_excerpt: at the moment, the official position still of the Pentagon is we have no evidence at all of extraterrestrial
+      engagement with planet Earth.
+    claim_type: administrative
+    attestation: second_hand
+    speaker:
+      node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+      title: Ross Coulthart
+    provenance_chain:
+      origin_kind: named
+      origin: The Pentagon
+      relay:
+        - Ross Coulthart's account of the Pentagon's official position
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 403edb72-ebc4-4b89-8746-4cd19e089691
+        title: The Pentagon
+        slug: the-pentagon
+      - node_id: 9c74d864-957a-4654-a5b6-1249fe654ec7
+        title: Non-Human Intelligence
+        slug: non-human-intelligence
+    date: null
+    date_end: null
+    location_in_record: 01:03:45.8-01:03:55.6
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: fd845823-8784-462c-a981-4775525b6f84
+      record_title: The DANGEROUS Truth About UFOs - Ross Coulthart | DEBRIEFED ep. 76
+      record_date: '2026-02-20'
+      record_reference: https://www.youtube.com/watch?v=idBryc0eWww
+      content_hash: sha256:73be106d406f6d35a063a894e8384e7da0918eb8597d2107a9e3653becca2bdc
+      friendly_name: null
+  - claim_id: 0fbb85af-f5be-4032-ab7a-3a0ab6c2e6d7
+    claim_hash: da8444ad1d7e13c42310235f8bb5ee386550788cebb35fe3260b66d7962db585
+    content: The Pentagon will not say that it has no evidence of non-human intelligence (NHI) engagement with planet Earth,
+      only extraterrestrial engagement.
+    original_excerpt: And they won't say NHI engagement with planet Earth for some reason.
+    claim_type: observation
+    attestation: first_hand
+    speaker:
+      node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+      title: Ross Coulthart
+    provenance_chain:
+      origin_kind: speaker
+      origin: Ross Coulthart
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 403edb72-ebc4-4b89-8746-4cd19e089691
+        title: The Pentagon
+        slug: the-pentagon
+      - node_id: 9c74d864-957a-4654-a5b6-1249fe654ec7
+        title: Non-Human Intelligence
+        slug: non-human-intelligence
+      - node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+        title: Ross Coulthart
+        slug: ross-coulthart
+    date: null
+    date_end: null
+    location_in_record: 01:03:56.8-01:04:00.4
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: fd845823-8784-462c-a981-4775525b6f84
+      record_title: The DANGEROUS Truth About UFOs - Ross Coulthart | DEBRIEFED ep. 76
+      record_date: '2026-02-20'
+      record_reference: https://www.youtube.com/watch?v=idBryc0eWww
+      content_hash: sha256:73be106d406f6d35a063a894e8384e7da0918eb8597d2107a9e3653becca2bdc
+      friendly_name: null
+  - claim_id: 50129d62-2168-4840-bdf8-28c0a8755de4
+    claim_hash: 94f437df80edabffa9fcc9ce039bca6286a260d438dad7452a9a77ae9acc8e24
+    content: Chris Sharp put to Susan Gough at the Pentagon that the term non-human intelligence (NHI) be used in substitution,
+      and she would not allow it.
+    original_excerpt: iend Chris Sharp has put that to Susan Goff at the Pentagon, and she won't allow him to use NHI in substitution.
+    claim_type: testimony
+    attestation: second_hand
+    speaker:
+      node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+      title: Ross Coulthart
+    provenance_chain:
+      origin_kind: named
+      origin: Chris Sharp
+      relay:
+        - Ross Coulthart
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 13b14438-a42d-4b08-8213-e10f6dd0d242
+        title: Susan Gough
+        slug: susan-gough
+      - node_id: 403edb72-ebc4-4b89-8746-4cd19e089691
+        title: The Pentagon
+        slug: the-pentagon
+      - node_id: 9c74d864-957a-4654-a5b6-1249fe654ec7
+        title: Non-Human Intelligence
+        slug: non-human-intelligence
+      - node_id: e921bccc-8a7a-4279-9873-8f3a5997be16
+        title: Christopher Sharp
+        slug: christopher-sharp
+    date: null
+    date_end: null
+    location_in_record: 01:04:01.7-01:04:08.4
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: fd845823-8784-462c-a981-4775525b6f84
+      record_title: The DANGEROUS Truth About UFOs - Ross Coulthart | DEBRIEFED ep. 76
+      record_date: '2026-02-20'
+      record_reference: https://www.youtube.com/watch?v=idBryc0eWww
+      content_hash: sha256:73be106d406f6d35a063a894e8384e7da0918eb8597d2107a9e3653becca2bdc
+      friendly_name: null
+  - claim_id: 33f9e7b2-0b49-4a79-a4fc-893f512ef568
+    claim_hash: c67a23238d55e42b8e399c7606a1c8ba04c54263a53dcd6587bb6cb351173af3
+    content: Ross Coulthart considers the Pentagon's wording on non-human intelligence to be a deliberately confected response
+      giving officials room to say later that they never said extraterrestrial when public disclosure happens.
+    original_excerpt: they've very subtly confected a response that just giving them some wriggle room for when public disclosure
+      does happen. They can say, well, no, we didn't say ET.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+      title: Ross Coulthart
+    provenance_chain:
+      origin_kind: speaker
+      origin: Ross Coulthart
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 403edb72-ebc4-4b89-8746-4cd19e089691
+        title: The Pentagon
+        slug: the-pentagon
+      - node_id: 9c74d864-957a-4654-a5b6-1249fe654ec7
+        title: Non-Human Intelligence
+        slug: non-human-intelligence
+      - node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+        title: Ross Coulthart
+        slug: ross-coulthart
+    date: null
+    date_end: null
+    location_in_record: 01:04:12.1-01:04:23.4
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: fd845823-8784-462c-a981-4775525b6f84
+      record_title: The DANGEROUS Truth About UFOs - Ross Coulthart | DEBRIEFED ep. 76
+      record_date: '2026-02-20'
+      record_reference: https://www.youtube.com/watch?v=idBryc0eWww
+      content_hash: sha256:73be106d406f6d35a063a894e8384e7da0918eb8597d2107a9e3653becca2bdc
+      friendly_name: null
+  - claim_id: cf1fe80a-682e-4e50-b3f3-70e5571d6068
+    claim_hash: 2b671c90480716f072d13cc8aefb07c8c614db32dcfb64ff7181d1df043b0a5d
+    content: David Grusch asked friends in the cafeteria at the Pentagon what they knew about the claim of a legacy programme
+      involving UFOs, and their responses led him to conclude it was real.
+    original_excerpt: when he asked friends of his, literally in the cafeteria at the Pentagon, what do you know about this
+      claim about legacy program involving UFOs? And people sort of gave him a bit of a nudge. And then he realized it was
+      real.
+    claim_type: testimony
+    attestation: second_hand
+    speaker:
+      node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+      title: Ross Coulthart
+    provenance_chain:
+      origin_kind: named
+      origin: David Grusch
+      relay:
+        - Ross Coulthart
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 0bbdac2d-a855-466a-a051-2afa64a779e2
+        title: UAP crash retrieval and reverse engineering program
+        slug: uap-crash-retrieval-and-reverse-engineering-program
+      - node_id: 403edb72-ebc4-4b89-8746-4cd19e089691
+        title: The Pentagon
+        slug: the-pentagon
+      - node_id: d4241f5a-1063-4970-ba02-5a391c02d96d
+        title: David Charles Grusch
+        slug: david-charles-grusch
+      - node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+        title: Ross Coulthart
+        slug: ross-coulthart
+    date: null
+    date_end: null
+    location_in_record: 01:19:46.4-01:20:00.2
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: fd845823-8784-462c-a981-4775525b6f84
+      record_title: The DANGEROUS Truth About UFOs - Ross Coulthart | DEBRIEFED ep. 76
+      record_date: '2026-02-20'
+      record_reference: https://www.youtube.com/watch?v=idBryc0eWww
+      content_hash: sha256:73be106d406f6d35a063a894e8384e7da0918eb8597d2107a9e3653becca2bdc
+      friendly_name: null
+  - claim_id: 3980cf93-2c93-45d7-8abb-9b595edb789a
+    claim_hash: e5dfd2189f7d3b8afc41b52ed82b53f1208ed67f02698648cdb38abb381bb939
+    content: Ross Coulthart considers that a lot of idea-seeding by the Pentagon and the intelligence community takes place
+      in Hollywood films.
+    original_excerpt: And I think there's a lot of that kind of seeding that takes place.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+      title: Ross Coulthart
+    provenance_chain:
+      origin_kind: speaker
+      origin: Ross Coulthart
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 403edb72-ebc4-4b89-8746-4cd19e089691
+        title: The Pentagon
+        slug: the-pentagon
+      - node_id: 82811a97-b71f-47bc-9f99-b06aa75407a5
+        title: predictive programming
+        slug: predictive-programming
+      - node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+        title: Ross Coulthart
+        slug: ross-coulthart
+    date: null
+    date_end: null
+    location_in_record: 02:36:14.4-02:36:16.6
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: fd845823-8784-462c-a981-4775525b6f84
+      record_title: The DANGEROUS Truth About UFOs - Ross Coulthart | DEBRIEFED ep. 76
+      record_date: '2026-02-20'
+      record_reference: https://www.youtube.com/watch?v=idBryc0eWww
+      content_hash: sha256:73be106d406f6d35a063a894e8384e7da0918eb8597d2107a9e3653becca2bdc
+      friendly_name: null
+  - claim_id: 8864685c-4f5d-44ea-8427-fc15aa28e229
+    claim_hash: 3525c3f32006affc8a54b6b04a941bf83fc15f9ec365b5cb40f2f3d420def1cc
+    content: Ross Coulthart wonders whether the talk of something coming is merely Pentagon gossip.
+    original_excerpt: i just wonder whether it's just pentagon tittle tattle i really do
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+      title: Ross Coulthart
+    provenance_chain:
+      origin_kind: speaker
+      origin: Ross Coulthart
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 403edb72-ebc4-4b89-8746-4cd19e089691
+        title: The Pentagon
+        slug: the-pentagon
+      - node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+        title: Ross Coulthart
+        slug: ross-coulthart
+    date: null
+    date_end: null
+    location_in_record: 02:46:11.5-02:46:14.4
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: fd845823-8784-462c-a981-4775525b6f84
+      record_title: The DANGEROUS Truth About UFOs - Ross Coulthart | DEBRIEFED ep. 76
+      record_date: '2026-02-20'
+      record_reference: https://www.youtube.com/watch?v=idBryc0eWww
+      content_hash: sha256:73be106d406f6d35a063a894e8384e7da0918eb8597d2107a9e3653becca2bdc
+      friendly_name: null
+  - claim_id: f110eb43-7737-4c1f-a916-02dff400ce62
+    claim_hash: b31d2b00d790d8edfc7caeb905dbd79d23133bd2bf0cb16d99b45c749443474f
+    content: Robert Bigelow considers his own UFO disclosure advocacy to be working against the direction already decided
+      upon by the Pentagon.
+    original_excerpt: I realized that that I was rowing upstream on this thing against the tide, and the tide was what the
+      Pentagon had already decided they were going to do
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 0d4dfba6-a53b-4f23-a2ad-e4c9bea44076
+      title: Robert Bigelow
+    provenance_chain:
+      origin_kind: speaker
+      origin: Robert Bigelow
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 0d4dfba6-a53b-4f23-a2ad-e4c9bea44076
+        title: Robert Bigelow
+        slug: robert-bigelow
+      - node_id: 403edb72-ebc4-4b89-8746-4cd19e089691
+        title: The Pentagon
+        slug: the-pentagon
+      - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
+        title: Unidentified Flying Object (UFO)
+        slug: unidentified-flying-object-ufo
+    date: null
+    date_end: null
+    location_in_record: 00:01:19.7-00:01:31.4
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 5de4e296-4206-45f6-aa56-c3b8efb5c9e2
+      record_title: The Evolution of AAWSAP | Bigelow Podcast, Ep. 2
+      record_date: '2026-08-11'
+      record_reference: https://www.youtube.com/watch?v=hz7jHEgYzQw
+      content_hash: sha256:1aa9d864c5a4bb930164c278d9624c6bc0f84278ea4b5e57594fae9e21e90858
+      friendly_name: null
+  - claim_id: c388035c-b71e-46c7-9c46-93d8931d2e13
+    claim_hash: d87d5a9d77c4387d7f0bef679635b46aa90ee3d991f12d01018825634ed7a69a
+    content: All three of James Lacatski's books were briefed and scrubbed by the Pentagon and the Defense Intelligence Agency
+      (DIA) through the Defense Office of Prepublication and Security Review (DOPSR) process.
+    original_excerpt: this has been sanctioned, this has been briefed and scrubbed as have all of his books, all three of
+      his books, from the Pentagon and the- ... The DOPSR Process. ... The DIA, yeah, yeah.
+    claim_type: administrative
+    attestation: first_hand
+    speaker:
+      node_id: 0d4dfba6-a53b-4f23-a2ad-e4c9bea44076
+      title: Robert Bigelow
+    provenance_chain:
+      origin_kind: speaker
+      origin: Robert Bigelow
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 164b4ec2-1d96-4c98-a5e2-5a7d77568b7c
+        title: Defense Office of Prepublication and Security Review
+        slug: defense-office-of-prepublication-and-security-review
+      - node_id: 382b6d6c-0182-4121-8bfc-525602d667b1
+        title: Defense Intelligence Agency (DIA)
+        slug: defense-intelligence-agency-dia
+      - node_id: 3a865991-eaad-4855-8980-b28dfb98691a
+        title: James Lacatski
+        slug: james-lacatski
+      - node_id: 403edb72-ebc4-4b89-8746-4cd19e089691
+        title: The Pentagon
+        slug: the-pentagon
+    date: null
+    date_end: null
+    location_in_record: 00:07:46.0-00:07:56.9
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 5de4e296-4206-45f6-aa56-c3b8efb5c9e2
+      record_title: The Evolution of AAWSAP | Bigelow Podcast, Ep. 2
+      record_date: '2026-08-11'
+      record_reference: https://www.youtube.com/watch?v=hz7jHEgYzQw
+      content_hash: sha256:1aa9d864c5a4bb930164c278d9624c6bc0f84278ea4b5e57594fae9e21e90858
+      friendly_name: null
+  - claim_id: 9c49e3cb-fde9-4383-b050-d630366668b6
+    claim_hash: 23324f2ea1a4395881de32065ab59cda6cf295e928f89170cd16fe658e996cbb
+    content: Five months after the Office of the Director of National Intelligence UAP preliminary assessment, Deputy Secretary
+      Kathleen Hicks announced the creation of a new Pentagon-run organisation called the Airborne Object Identification and
+      Management Synchronization Group (AOIMSG).
+    original_excerpt: Then go forward and five months later, Deputy Secretary Kathleen Hicks announced the creation of a new
+      organization run by the Pentagon called Airborne Object Identification and Management Synchronization Group.
+    claim_type: administrative
+    attestation: second_hand
+    speaker:
+      node_id: 0d4dfba6-a53b-4f23-a2ad-e4c9bea44076
+      title: Robert Bigelow
+    provenance_chain:
+      origin_kind: document
+      origin: James Lacatski's book
+      relay:
+        - Robert Bigelow reading aloud
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 403edb72-ebc4-4b89-8746-4cd19e089691
+        title: The Pentagon
+        slug: the-pentagon
+      - node_id: 6b599e03-9c50-4357-a70e-05626c46f264
+        title: Airborne Object Identification and Management Synchronization Group (AOIMSG)
+        slug: airborne-object-identification-and-management-synchronization-group-aoimsg
+      - node_id: ab9ad7df-23fb-4029-bd3f-094e1b8d2753
+        title: Kathleen Hicks
+        slug: kathleen-hicks
+    date: null
+    date_end: null
+    location_in_record: 00:08:56.3-00:09:14.4
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 5de4e296-4206-45f6-aa56-c3b8efb5c9e2
+      record_title: The Evolution of AAWSAP | Bigelow Podcast, Ep. 2
+      record_date: '2026-08-11'
+      record_reference: https://www.youtube.com/watch?v=hz7jHEgYzQw
+      content_hash: sha256:1aa9d864c5a4bb930164c278d9624c6bc0f84278ea4b5e57594fae9e21e90858
+      friendly_name: null
+  - claim_id: a60f5f23-6e93-486f-9ee7-9af53167ddf7
+    claim_hash: a0e1b50b87c4f17c24e647cd8602fa41c78e959a7c7bf18a297178daa1033552
+    content: James Lacatski wrote that close coordination between Pentagon spokesman Susan Gough and Sean Kirkpatrick became
+      obvious after the All-Domain Anomaly Resolution Office report on UFOs was released on 2023-01-12.
+    original_excerpt: there's a close coordination, Lacatski writes, between of the Pentagon spokesman Susan Gao and Kirkpatrick,
+      Dr. Kirkpatrick, became obvious after the AARO Report on UFOs was released on January 12, 2023.
+    claim_type: opinion
+    attestation: second_hand
+    speaker:
+      node_id: 0d4dfba6-a53b-4f23-a2ad-e4c9bea44076
+      title: Robert Bigelow
+    provenance_chain:
+      origin_kind: named
+      origin: James Lacatski
+      relay:
+        - Robert Bigelow reading his book aloud
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 02b74577-f272-4ae7-8520-5fda4eacb5f2
+        title: Sean Kirkpatrick
+        slug: sean-kirkpatrick
+      - node_id: 13b14438-a42d-4b08-8213-e10f6dd0d242
+        title: Susan Gough
+        slug: susan-gough
+      - node_id: 3a865991-eaad-4855-8980-b28dfb98691a
+        title: James Lacatski
+        slug: james-lacatski
+      - node_id: 403edb72-ebc4-4b89-8746-4cd19e089691
+        title: The Pentagon
+        slug: the-pentagon
+      - node_id: e498e3b9-87de-44e8-877a-46b8acc68ab1
+        title: All-Domain Anomaly Resolution Office report on UFOs 2023-01-12
+        slug: all-domain-anomaly-resolution-office-report-on-ufos-2023-01-12
+    date: '2023-01-12'
+    date_end: null
+    location_in_record: 00:10:02.3-00:10:16.8
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 5de4e296-4206-45f6-aa56-c3b8efb5c9e2
+      record_title: The Evolution of AAWSAP | Bigelow Podcast, Ep. 2
+      record_date: '2026-08-11'
+      record_reference: https://www.youtube.com/watch?v=hz7jHEgYzQw
+      content_hash: sha256:1aa9d864c5a4bb930164c278d9624c6bc0f84278ea4b5e57594fae9e21e90858
+      friendly_name: null
+  - claim_id: ade7a8ad-1b5f-4bd6-ae10-12e0d64471ef
+    claim_hash: ee9553488ca4574106f7062d6232a809f078750c6de1dc97a8a8e2e1018c54ba
+    content: Slide nine of the Pentagon's private briefing to one of its undersecretaries on the phenomenon states that the
+      phenomenon is able to manipulate human perception and can remotely interfere with what humans can see and experience.
+    original_excerpt: what the Pentagon has said privately in its briefings to one of its undersecretaries in slide nine,
+      where it talks about how the phenomenon is able to manipulate human perception. It can remotely interfere with what
+      humans can see and experience.
+    claim_type: testimony
+    attestation: second_hand
+    speaker:
+      node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+      title: Ross Coulthart
+    provenance_chain:
+      origin_kind: document
+      origin: Slide nine of the Pentagon undersecretary briefing on the phenomenon
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 403edb72-ebc4-4b89-8746-4cd19e089691
+        title: The Pentagon
+        slug: the-pentagon
+      - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
+        title: Unidentified Anomalous Phenomena (UAP)
+        slug: unidentified-anomalous-phenomena-uap
+      - node_id: b4980529-5d3d-4302-b0d4-5a5b77da8638
+        title: Slide nine of the Pentagon undersecretary briefing on the phenomenon
+        slug: slide-nine-of-the-pentagon-undersecretary-briefing-on-the-phenomenon
+      - node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+        title: Ross Coulthart
+        slug: ross-coulthart
+    date: null
+    date_end: null
+    location_in_record: 00:28:56.9-00:29:11.9
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 7e583a7d-790d-4cfe-bbee-95c3d542e67a
+      record_title: Whitley Strieber Reveals What 40 Years of Encounters Taught Him | Reality Check Rewind
+      record_date: '2026-08-14'
+      record_reference: https://www.youtube.com/watch?v=H7sJFNdgCI4
+      content_hash: sha256:17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c451793c5a628
+      friendly_name: null
+  - claim_id: 4f6bbac8-20d4-4ff9-99cd-924830d82589
+    claim_hash: 6949f2e640b38aaa0e9cf04d11f5a5d800e781cd1ae9e20d79bd444e399a5410
+    content: Langley Air Force Base is one of the most sensitive air bases in the United States on the Pentagon's roster of
+      air bases.
+    original_excerpt: one of the most sensitive air bases in the United States and the whole Pentagon's whole roster of air
+      bases
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+      title: Whitley Strieber
+    provenance_chain:
+      origin_kind: speaker
+      origin: Whitley Strieber
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 403edb72-ebc4-4b89-8746-4cd19e089691
+        title: The Pentagon
+        slug: the-pentagon
+      - node_id: fea98a3b-1031-4ada-8bfe-a57d326562f3
+        title: USA, Virginia, Langley Air Force Base
+        slug: virginia-langley-air-force-base-usa
+    date: null
+    date_end: null
+    location_in_record: 01:07:32.4-01:07:40.6
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 7e583a7d-790d-4cfe-bbee-95c3d542e67a
+      record_title: Whitley Strieber Reveals What 40 Years of Encounters Taught Him | Reality Check Rewind
+      record_date: '2026-08-14'
+      record_reference: https://www.youtube.com/watch?v=H7sJFNdgCI4
+      content_hash: sha256:17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c451793c5a628
+      friendly_name: null

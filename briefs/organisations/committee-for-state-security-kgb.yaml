@@ -1,0 +1,775 @@
+schema: anomalica/brief/1
+brief_hash: 4ed4d9b66a4de2106b6f6e016cd27c45988110db96d47bc9c7a8e92c65e87702
+page:
+  kind: entity
+  node_id: 31e64dec-5d6d-4389-ae76-dbb418225378
+  node_type: organisation
+  title: Committee for State Security (KGB)
+  slug: committee-for-state-security-kgb
+  claim_count: 18
+  claim_count_total: 18
+generated:
+  graph_version: '2026-09-01T10:10:49.863545+00:00'
+size:
+  claims: 18
+  tokens_estimated: 5355
+  sized_against: 1050000
+publication:
+  status: published
+  note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
+    transcripts are gated elsewhere.
+belonging:
+  verified: 0
+  suspect_excluded: 0
+  unreviewed: 18
+related_nodes:
+  - node_id: f750f72c-a0ff-40ef-a891-06a2b56286d9
+    title: Merivälja object
+    node_type: object
+    slug: merivalja-object
+    shared_claims: 12
+  - node_id: f3fd5012-43f9-4615-bf52-34f4a2e9f7ff
+    title: Alexander Deyev
+    node_type: person
+    slug: alexander-deyev
+    shared_claims: 3
+  - node_id: 3a99db97-5bbc-4710-a37a-dd08d103dfd4
+    title: Estonia, Tallinn, Merivälja
+    node_type: place
+    slug: tallinn-merivalja-estonia
+    shared_claims: 3
+  - node_id: e27e23da-63a4-4838-a952-333883df5fd0
+    title: Igor Volker
+    node_type: person
+    slug: igor-volker
+    shared_claims: 2
+  - node_id: e5ca493a-95a6-4499-b297-c11055fdd303
+    title: Mart Sander
+    node_type: person
+    slug: mart-sander
+    shared_claims: 2
+  - node_id: 5400858e-d87e-4985-8d00-5d6e3aa73607
+    title: Bruce DePalma
+    node_type: person
+    slug: bruce-depalma
+    shared_claims: 1
+  - node_id: e1650a1d-8feb-4841-a403-0d71e176d2d9
+    title: Richard C. Hoagland
+    node_type: person
+    slug: richard-c-hoagland
+    shared_claims: 1
+  - node_id: 148c797d-9368-429f-a666-dd114a4fee3f
+    title: Soviet excavation and investigation of the Merivälja object (1969-1990)
+    node_type: event
+    slug: soviet-excavation-and-investigation-of-the-merivalja-object-1969-1990
+    shared_claims: 1
+  - node_id: a277299e-f01c-4af8-82d9-6c22698093cf
+    title: Torsion field
+    node_type: topic
+    slug: torsion-field
+    shared_claims: 1
+  - node_id: 7b49f692-be5b-4934-9e71-be0c74908016
+    title: USSR, Moscow, National Academy of Sciences
+    node_type: place
+    slug: moscow-national-academy-of-sciences-ussr
+    shared_claims: 1
+  - node_id: 28321cb0-a2d5-4ac7-9ac3-ada7ff169dcc
+    title: Vormsi Enn
+    node_type: person
+    slug: vormsi-enn
+    shared_claims: 1
+claims:
+  - claim_id: e4ae8567-6a09-45e9-969b-8a38237875d7
+    claim_hash: 6a7283a208610cc17bee303655b8f771bcaddd240c597c8d68b1b9fa53b08858
+    content: For several decades, the Russians conducted excavations at the Merivälja site, involving military scientists,
+      and the Committee for State Security (KGB) was involved.
+    original_excerpt: for several decades, the Russians were doing excavations, and there were military scientists, the KGB
+      was involved.
+    claim_type: observation
+    attestation: second_hand
+    speaker:
+      node_id: f9aee024-11bf-4dfa-bac5-d6eaa724a26a
+      title: Beatriz Villarroel
+    provenance_chain:
+      origin_kind: document
+      origin: Russian investigation documents
+      relay:
+        - Beatriz Villarroel
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 148c797d-9368-429f-a666-dd114a4fee3f
+        title: Soviet excavation and investigation of the Merivälja object (1969-1990)
+        slug: soviet-excavation-and-investigation-of-the-merivalja-object-1969-1990
+      - node_id: 31e64dec-5d6d-4389-ae76-dbb418225378
+        title: Committee for State Security (KGB)
+        slug: committee-for-state-security-kgb
+      - node_id: f750f72c-a0ff-40ef-a891-06a2b56286d9
+        title: Merivälja object
+        slug: merivalja-object
+    date: null
+    date_end: null
+    location_in_record: 00:08:08.2-00:08:14.0
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 27d9666b-7dec-4bdf-914e-a05749c23e26
+      record_title: 'Secret Soviet UFOs: What happened when two scientists knocked on a door in Estonia? | Reality Check'
+      record_date: null
+      record_reference: https://www.youtube.com/watch?v=Arkw4z8rCyw
+      content_hash: sha256:06a55bcd5a315e6b8ced7e1bc51b39707caeb87249e4bc8a911eacb2dc7dd245
+      friendly_name: null
+  - claim_id: 1ee901c6-1526-4cce-badf-1cc1dadd5382
+    claim_hash: 8402bc21f353ba4e8bf2f1b50ef015a9f184fffdcce04b45912fe8877826861a
+    content: Igor Volker is a ufologist who did extensive work researching the Merivälja object and the Soviet investigation
+      reports.
+    original_excerpt: Igor Volker, who's the ufologist who did a lot of work on Merivälja, and also the Soviet papers, the
+      reports of the Soviet investigation team that did this work with the KGB
+    claim_type: administrative
+    attestation: first_hand
+    speaker:
+      node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+      title: Ross Coulthart
+    provenance_chain:
+      origin_kind: speaker
+      origin: Ross Coulthart
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 31e64dec-5d6d-4389-ae76-dbb418225378
+        title: Committee for State Security (KGB)
+        slug: committee-for-state-security-kgb
+      - node_id: e27e23da-63a4-4838-a952-333883df5fd0
+        title: Igor Volker
+        slug: igor-volker
+      - node_id: f750f72c-a0ff-40ef-a891-06a2b56286d9
+        title: Merivälja object
+        slug: merivalja-object
+    date: null
+    date_end: null
+    location_in_record: 00:16:19.6-00:16:30.2
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 27d9666b-7dec-4bdf-914e-a05749c23e26
+      record_title: 'Secret Soviet UFOs: What happened when two scientists knocked on a door in Estonia? | Reality Check'
+      record_date: null
+      record_reference: https://www.youtube.com/watch?v=Arkw4z8rCyw
+      content_hash: sha256:06a55bcd5a315e6b8ced7e1bc51b39707caeb87249e4bc8a911eacb2dc7dd245
+      friendly_name: null
+  - claim_id: a62ecdc4-99c6-4b0b-aaab-b6e3a80dc8b4
+    claim_hash: a7096c4a860f72d19add4ef27fdf3f11f60f335588828afbc0efa46867a1035a
+    content: One of Richard C. Hoagland's associates was pulled into an empty room at the National Academy of Sciences in
+      Moscow by the KGB (Committee for State Security) and told to stop looking for Soviet space imagery.
+    original_excerpt: one of his folks was actually pulled out of a long hallway and into an empty room at the National Academy
+      of Sciences, in Moscow by the KGB—and told flatly to “stop looking!”
+    claim_type: testimony
+    attestation: second_hand
+    speaker:
+      node_id: e1650a1d-8feb-4841-a403-0d71e176d2d9
+      title: Richard C. Hoagland
+    provenance_chain:
+      origin_kind: named
+      origin: an unnamed associate of Richard C. Hoagland
+      relay:
+        - Richard C. Hoagland
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 31e64dec-5d6d-4389-ae76-dbb418225378
+        title: Committee for State Security (KGB)
+        slug: committee-for-state-security-kgb
+      - node_id: 7b49f692-be5b-4934-9e71-be0c74908016
+        title: USSR, Moscow, National Academy of Sciences
+        slug: moscow-national-academy-of-sciences-ussr
+      - node_id: e1650a1d-8feb-4841-a403-0d71e176d2d9
+        title: Richard C. Hoagland
+        slug: richard-c-hoagland
+    date: null
+    date_end: null
+    location_in_record: ch11:68871-69036
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+      record_title: Dark Mission
+      record_date: '2010-07-22'
+      record_reference: null
+      content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+      friendly_name: null
+  - claim_id: c1345181-6e7b-4d91-a4ab-5909ba27b5f6
+    claim_hash: ecbabc583f4786fb778d79fc1a55dc3a0774577695ecc9728473eca1f6bca083
+    content: Unknown to Bruce DePalma, because of Cold War secrecy controls imposed by the Committee for State Security (KGB),
+      the same phenomenon he was observing was being simultaneously observed by Russian researchers, who termed it "a torsion
+      field".
+    original_excerpt: Ironically, totally unknown to DePalma—because of  the Cold War and the KGB’s strict secrecy controls—what
+      he was observing was also being simultaneously observed by his Russian counterparts, and termed “a torsion field”—based
+      on the same *rotational* interactions.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: e1650a1d-8feb-4841-a403-0d71e176d2d9
+      title: Richard C. Hoagland
+    provenance_chain:
+      origin_kind: speaker
+      origin: Richard C. Hoagland
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 31e64dec-5d6d-4389-ae76-dbb418225378
+        title: Committee for State Security (KGB)
+        slug: committee-for-state-security-kgb
+      - node_id: 5400858e-d87e-4985-8d00-5d6e3aa73607
+        title: Bruce DePalma
+        slug: bruce-depalma
+      - node_id: a277299e-f01c-4af8-82d9-6c22698093cf
+        title: Torsion field
+        slug: torsion-field
+    date: null
+    date_end: null
+    location_in_record: ch9:41893-42145
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+      record_title: Dark Mission
+      record_date: '2010-07-22'
+      record_reference: null
+      content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+      friendly_name: null
+  - claim_id: 6eda2d84-b9d0-4b82-adeb-1df74b1d497c
+    claim_hash: cdbafe8495ba02f4be33dd06a22a95f5fc033483f400e8c0c66a3e412d23ef1b
+    content: For around 10 years, Soviet scientists, researchers, KGB agents and military personnel investigated the Merivalja
+      object.
+    original_excerpt: For around 10 years, Soviet scientists, researchers, KGB spies and military investigated the so-called
+      Merivälja object.
+    claim_type: administrative
+    attestation: null
+    speaker:
+      node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+      title: Ross Coulthart
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 31e64dec-5d6d-4389-ae76-dbb418225378
+        title: Committee for State Security (KGB)
+        slug: committee-for-state-security-kgb
+      - node_id: f750f72c-a0ff-40ef-a891-06a2b56286d9
+        title: Merivälja object
+        slug: merivalja-object
+    date: null
+    date_end: null
+    location_in_record: 00:03:30.2-00:03:40.6
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: b8989f6c-2466-4fd6-a988-1ac629ce1620
+      record_title: 'Object M: The buried Estonian mystery the KGB spent years trying to reach | Reality Check'
+      record_date: '2026-08-11'
+      record_reference: https://www.youtube.com/watch?v=OQULI6QqIhY
+      content_hash: sha256:52d70126e55273c7238f33d8e01359cf9292de8c5cbf0ba36e284b039b432d96
+      friendly_name: null
+  - claim_id: 89abbca9-b81d-4752-b367-a323de5bcffc
+    claim_hash: 2ae1d3d3a3206d85929893b760993bb7dc7c85667176f9d468cb53ca573fa2a0
+    content: The Russian secret police agency, the Committee for State Security (KGB), got involved in investigating the object
+      under the house at Merivalja.
+    original_excerpt: the Russian secret police, the spy agency, the KGB, no less, it got involved in this whole investigation.
+    claim_type: administrative
+    attestation: null
+    speaker:
+      node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+      title: Ross Coulthart
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 31e64dec-5d6d-4389-ae76-dbb418225378
+        title: Committee for State Security (KGB)
+        slug: committee-for-state-security-kgb
+      - node_id: f750f72c-a0ff-40ef-a891-06a2b56286d9
+        title: Merivälja object
+        slug: merivalja-object
+    date: null
+    date_end: null
+    location_in_record: 00:24:04.6-00:24:12.7
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: b8989f6c-2466-4fd6-a988-1ac629ce1620
+      record_title: 'Object M: The buried Estonian mystery the KGB spent years trying to reach | Reality Check'
+      record_date: '2026-08-11'
+      record_reference: https://www.youtube.com/watch?v=OQULI6QqIhY
+      content_hash: sha256:52d70126e55273c7238f33d8e01359cf9292de8c5cbf0ba36e284b039b432d96
+      friendly_name: null
+  - claim_id: 9cf58922-8803-4533-8138-f93f7508832e
+    claim_hash: bccf0a4f8da5384bce11f4ecfc7d7601bb0359dd5f4c4e61f4b6d1af2c676d96
+    content: The Committee for State Security (KGB) stamped its files on the Merivalja object 'sovacheno sekretno', meaning
+      completely, totally secret.
+    original_excerpt: So that was the KGB stamp that they put all over this file. ... Sovacheno sekretno means completely,
+      totally secret.
+    claim_type: administrative
+    attestation: null
+    speaker:
+      node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+      title: Ross Coulthart
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 31e64dec-5d6d-4389-ae76-dbb418225378
+        title: Committee for State Security (KGB)
+        slug: committee-for-state-security-kgb
+      - node_id: f750f72c-a0ff-40ef-a891-06a2b56286d9
+        title: Merivälja object
+        slug: merivalja-object
+    date: null
+    date_end: null
+    location_in_record: 00:24:36.6-00:24:40.1
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: b8989f6c-2466-4fd6-a988-1ac629ce1620
+      record_title: 'Object M: The buried Estonian mystery the KGB spent years trying to reach | Reality Check'
+      record_date: '2026-08-11'
+      record_reference: https://www.youtube.com/watch?v=OQULI6QqIhY
+      content_hash: sha256:52d70126e55273c7238f33d8e01359cf9292de8c5cbf0ba36e284b039b432d96
+      friendly_name: null
+  - claim_id: 775ab6df-76d5-4d7b-af89-263b01915475
+    claim_hash: 7c065ecab26fd9da68b8091656091d8892191ade07fbad9bcc131f0691e2f08b
+    content: Mart Sander recently found an interview in which it was claimed for the first time that the Committee for State
+      Security (KGB) suspected the structure beneath the Merivalja house housed two dead occupants.
+    original_excerpt: even as late as a couple of days ago, I found another interview online, which was the first time I actually
+      read that the KGB suspected that the structure really housed two dead occupants
+    claim_type: hearsay
+    attestation: second_hand
+    speaker:
+      node_id: e5ca493a-95a6-4499-b297-c11055fdd303
+      title: Mart Sander
+    provenance_chain:
+      origin_kind: document
+      origin: an online interview found by Mart Sander
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 31e64dec-5d6d-4389-ae76-dbb418225378
+        title: Committee for State Security (KGB)
+        slug: committee-for-state-security-kgb
+      - node_id: e5ca493a-95a6-4499-b297-c11055fdd303
+        title: Mart Sander
+        slug: mart-sander
+      - node_id: f750f72c-a0ff-40ef-a891-06a2b56286d9
+        title: Merivälja object
+        slug: merivalja-object
+    date: null
+    date_end: null
+    location_in_record: 00:24:53.8-00:25:12.4
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: b8989f6c-2466-4fd6-a988-1ac629ce1620
+      record_title: 'Object M: The buried Estonian mystery the KGB spent years trying to reach | Reality Check'
+      record_date: '2026-08-11'
+      record_reference: https://www.youtube.com/watch?v=OQULI6QqIhY
+      content_hash: sha256:52d70126e55273c7238f33d8e01359cf9292de8c5cbf0ba36e284b039b432d96
+      friendly_name: null
+  - claim_id: b2a94bad-a4af-4c55-8453-2ec7ed690507
+    claim_hash: c4575f7bb1dd6181ec5bc302ef7d96ad60641d41f2cddd44769475609487f987
+    content: Mart Sander has not been able to corroborate the claim that the Committee for State Security (KGB) suspected
+      the Merivalja object housed two dead occupants, but intends to look into it.
+    original_excerpt: I have not been able to corroborate this in any way, but I shall be looking into it.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: e5ca493a-95a6-4499-b297-c11055fdd303
+      title: Mart Sander
+    provenance_chain:
+      origin_kind: speaker
+      origin: Mart Sander
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 31e64dec-5d6d-4389-ae76-dbb418225378
+        title: Committee for State Security (KGB)
+        slug: committee-for-state-security-kgb
+      - node_id: e5ca493a-95a6-4499-b297-c11055fdd303
+        title: Mart Sander
+        slug: mart-sander
+      - node_id: f750f72c-a0ff-40ef-a891-06a2b56286d9
+        title: Merivälja object
+        slug: merivalja-object
+    date: null
+    date_end: null
+    location_in_record: 00:25:29.9-00:25:36.1
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: b8989f6c-2466-4fd6-a988-1ac629ce1620
+      record_title: 'Object M: The buried Estonian mystery the KGB spent years trying to reach | Reality Check'
+      record_date: '2026-08-11'
+      record_reference: https://www.youtube.com/watch?v=OQULI6QqIhY
+      content_hash: sha256:52d70126e55273c7238f33d8e01359cf9292de8c5cbf0ba36e284b039b432d96
+      friendly_name: null
+  - claim_id: c399780e-a275-4882-8692-1ddf9f7946ed
+    claim_hash: 6a9682ed928d2f8ae0e7d3f1a4dc683b405ba900e86c3ddb64f5f2fd834cfcfa
+    content: Alexander Deyev may have been employed by the Committee for State Security (KGB) as one of the best known psychics
+      used by the KGB in the Soviet Union.
+    original_excerpt: he's always been like this on this cutting edge, perhaps employed by the KGB, perhaps as one of the
+      best known psychics, let's call it that way, in the Soviet Union, who were used by the KGB.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: e5ca493a-95a6-4499-b297-c11055fdd303
+      title: Mart Sander
+    provenance_chain:
+      origin_kind: speaker
+      origin: Mart Sander
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 31e64dec-5d6d-4389-ae76-dbb418225378
+        title: Committee for State Security (KGB)
+        slug: committee-for-state-security-kgb
+      - node_id: f3fd5012-43f9-4615-bf52-34f4a2e9f7ff
+        title: Alexander Deyev
+        slug: alexander-deyev
+    date: null
+    date_end: null
+    location_in_record: 00:27:03.6-00:27:20.1
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: b8989f6c-2466-4fd6-a988-1ac629ce1620
+      record_title: 'Object M: The buried Estonian mystery the KGB spent years trying to reach | Reality Check'
+      record_date: '2026-08-11'
+      record_reference: https://www.youtube.com/watch?v=OQULI6QqIhY
+      content_hash: sha256:52d70126e55273c7238f33d8e01359cf9292de8c5cbf0ba36e284b039b432d96
+      friendly_name: null
+  - claim_id: fcd93ac8-7d11-4c18-805d-56552fe44009
+    claim_hash: 20f530fec0dce9070b53a225e9d7da537c18b61c27cd1a99dc6e5deff4b0a856
+    content: Alexander Deyev was forced to leave Merivalja when the political situation changed and the Committee for State
+      Security (KGB) and Soviet defence systems were no longer welcome in Estonia.
+    original_excerpt: a year after Deyev was forced to leave because that's when the political situations started to change
+      and the KGB and Soviet defense systems were no longer welcome in Estonia
+    claim_type: observation
+    attestation: first_hand
+    speaker:
+      node_id: e5ca493a-95a6-4499-b297-c11055fdd303
+      title: Mart Sander
+    provenance_chain:
+      origin_kind: speaker
+      origin: Mart Sander
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 31e64dec-5d6d-4389-ae76-dbb418225378
+        title: Committee for State Security (KGB)
+        slug: committee-for-state-security-kgb
+      - node_id: 3a99db97-5bbc-4710-a37a-dd08d103dfd4
+        title: Estonia, Tallinn, Merivälja
+        slug: tallinn-merivalja-estonia
+      - node_id: f3fd5012-43f9-4615-bf52-34f4a2e9f7ff
+        title: Alexander Deyev
+        slug: alexander-deyev
+    date: null
+    date_end: null
+    location_in_record: 00:37:21.6-00:37:35.4
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: b8989f6c-2466-4fd6-a988-1ac629ce1620
+      record_title: 'Object M: The buried Estonian mystery the KGB spent years trying to reach | Reality Check'
+      record_date: '2026-08-11'
+      record_reference: https://www.youtube.com/watch?v=OQULI6QqIhY
+      content_hash: sha256:52d70126e55273c7238f33d8e01359cf9292de8c5cbf0ba36e284b039b432d96
+      friendly_name: null
+  - claim_id: 5df457d3-02a8-4c7a-9e6d-1f3eedfd4756
+    claim_hash: 6961eee17e34d3056c9dd1320fb2aa29ab37337fe679575a3e050f35bcf7da93
+    content: Illustrations published in Estonian media, sourced from Committee for State Security (KGB) files, show a gigantic
+      object underneath the Merivalja garden.
+    original_excerpt: there are illustrations that have been published in the media in Estonia from the KGB files that show
+      a gigantic object underneath this garden
+    claim_type: administrative
+    attestation: second_hand
+    speaker:
+      node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+      title: Ross Coulthart
+    provenance_chain:
+      origin_kind: document
+      origin: Committee for State Security (KGB) files
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 31e64dec-5d6d-4389-ae76-dbb418225378
+        title: Committee for State Security (KGB)
+        slug: committee-for-state-security-kgb
+      - node_id: 3a99db97-5bbc-4710-a37a-dd08d103dfd4
+        title: Estonia, Tallinn, Merivälja
+        slug: tallinn-merivalja-estonia
+      - node_id: f750f72c-a0ff-40ef-a891-06a2b56286d9
+        title: Merivälja object
+        slug: merivalja-object
+    date: null
+    date_end: null
+    location_in_record: 00:38:02.6-00:38:14.0
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: b8989f6c-2466-4fd6-a988-1ac629ce1620
+      record_title: 'Object M: The buried Estonian mystery the KGB spent years trying to reach | Reality Check'
+      record_date: '2026-08-11'
+      record_reference: https://www.youtube.com/watch?v=OQULI6QqIhY
+      content_hash: sha256:52d70126e55273c7238f33d8e01359cf9292de8c5cbf0ba36e284b039b432d96
+      friendly_name: null
+  - claim_id: b56dea8c-c0fc-4e7a-ac54-d2c18fbd9da0
+    claim_hash: 04fd58d840e55730088f98d9b769a6e3f22884eb9c768f7d061c77b0ee931b81
+    content: The Committee for State Security (KGB) spent years investigating the Merivalja object and spent an enormous amount
+      of money on it.
+    original_excerpt: It spent years investigating this. It spent an enormous amount of money.
+    claim_type: observation
+    attestation: first_hand
+    speaker:
+      node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+      title: Ross Coulthart
+    provenance_chain:
+      origin_kind: speaker
+      origin: Ross Coulthart
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 31e64dec-5d6d-4389-ae76-dbb418225378
+        title: Committee for State Security (KGB)
+        slug: committee-for-state-security-kgb
+      - node_id: f750f72c-a0ff-40ef-a891-06a2b56286d9
+        title: Merivälja object
+        slug: merivalja-object
+    date: null
+    date_end: null
+    location_in_record: 00:46:12.6-00:46:17.4
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: b8989f6c-2466-4fd6-a988-1ac629ce1620
+      record_title: 'Object M: The buried Estonian mystery the KGB spent years trying to reach | Reality Check'
+      record_date: '2026-08-11'
+      record_reference: https://www.youtube.com/watch?v=OQULI6QqIhY
+      content_hash: sha256:52d70126e55273c7238f33d8e01359cf9292de8c5cbf0ba36e284b039b432d96
+      friendly_name: null
+  - claim_id: 2724dc03-7435-4157-b021-49549b0a63e4
+    claim_hash: bfa12d740ff824ea1658fe1166cd8c745b34c7546f3ca69708fc6857d697a071
+    content: Mart Sander states that the money the Committee for State Security (KGB) spent researching the Merivalja object
+      must have been huge, given the KGB's bottomless resources.
+    original_excerpt: KGB's pockets were bottomless, and the money spent on this research must have been huge
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: e5ca493a-95a6-4499-b297-c11055fdd303
+      title: Mart Sander
+    provenance_chain:
+      origin_kind: speaker
+      origin: Mart Sander
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 31e64dec-5d6d-4389-ae76-dbb418225378
+        title: Committee for State Security (KGB)
+        slug: committee-for-state-security-kgb
+      - node_id: f750f72c-a0ff-40ef-a891-06a2b56286d9
+        title: Merivälja object
+        slug: merivalja-object
+    date: null
+    date_end: null
+    location_in_record: 00:46:29.3-00:46:34.9
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: b8989f6c-2466-4fd6-a988-1ac629ce1620
+      record_title: 'Object M: The buried Estonian mystery the KGB spent years trying to reach | Reality Check'
+      record_date: '2026-08-11'
+      record_reference: https://www.youtube.com/watch?v=OQULI6QqIhY
+      content_hash: sha256:52d70126e55273c7238f33d8e01359cf9292de8c5cbf0ba36e284b039b432d96
+      friendly_name: null
+  - claim_id: 9aef3e29-9494-40c5-ad94-1c2f96b61a9a
+    claim_hash: d9e85c035107687427cbcc194e7b91533dd5b6d7b42029ca6610ff345b7ade25
+    content: The Soviets probably spent hundreds of thousands of rubles, if not millions, digging around the Merivalja house.
+    original_excerpt: They probably spent hundreds of thousands of rubles, if not millions.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+      title: Ross Coulthart
+    provenance_chain:
+      origin_kind: speaker
+      origin: Ross Coulthart
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 31e64dec-5d6d-4389-ae76-dbb418225378
+        title: Committee for State Security (KGB)
+        slug: committee-for-state-security-kgb
+      - node_id: 3a99db97-5bbc-4710-a37a-dd08d103dfd4
+        title: Estonia, Tallinn, Merivälja
+        slug: tallinn-merivalja-estonia
+    date: null
+    date_end: null
+    location_in_record: 00:51:06.1-00:51:09.8
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: b8989f6c-2466-4fd6-a988-1ac629ce1620
+      record_title: 'Object M: The buried Estonian mystery the KGB spent years trying to reach | Reality Check'
+      record_date: '2026-08-11'
+      record_reference: https://www.youtube.com/watch?v=OQULI6QqIhY
+      content_hash: sha256:52d70126e55273c7238f33d8e01359cf9292de8c5cbf0ba36e284b039b432d96
+      friendly_name: null
+  - claim_id: 1d031ce6-81ba-4b80-98ba-f9209a312287
+    claim_hash: b01520f5e431e2a68b693632c8e02ec4ad1d03ad84209f85f59fd925e986b223
+    content: Vormsi Enn and Igor Volker were not really interested in the KGB's (Committee for State Security) activities.
+    original_excerpt: I think these gentlemen who are by now, sadly, all passed on, both Vormsi and Mr. Volker, they were
+      not really interested in the KGB and their doings.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: e5ca493a-95a6-4499-b297-c11055fdd303
+      title: Mart Sander
+    provenance_chain:
+      origin_kind: speaker
+      origin: Mart Sander
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 28321cb0-a2d5-4ac7-9ac3-ada7ff169dcc
+        title: Vormsi Enn
+        slug: vormsi-enn
+      - node_id: 31e64dec-5d6d-4389-ae76-dbb418225378
+        title: Committee for State Security (KGB)
+        slug: committee-for-state-security-kgb
+      - node_id: e27e23da-63a4-4838-a952-333883df5fd0
+        title: Igor Volker
+        slug: igor-volker
+    date: null
+    date_end: null
+    location_in_record: 00:53:54.0-00:54:06.6
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: b8989f6c-2466-4fd6-a988-1ac629ce1620
+      record_title: 'Object M: The buried Estonian mystery the KGB spent years trying to reach | Reality Check'
+      record_date: '2026-08-11'
+      record_reference: https://www.youtube.com/watch?v=OQULI6QqIhY
+      content_hash: sha256:52d70126e55273c7238f33d8e01359cf9292de8c5cbf0ba36e284b039b432d96
+      friendly_name: null
+  - claim_id: 25df5b67-32ea-4469-96c8-bb79086c11e2
+    claim_hash: 624d51d2ffa84b14ebe818e485af45be70c29876d0525156e9187ad7d6feb59f
+    content: Alexander Deyev, a KGB (Committee for State Security) figure, promoted the Merivalja object as anomalous.
+    original_excerpt: the gentleman from the KGB who was promoting this as being an anomalous object, Alexander Deyev,
+    claim_type: administrative
+    attestation: first_hand
+    speaker:
+      node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+      title: Ross Coulthart
+    provenance_chain:
+      origin_kind: speaker
+      origin: Ross Coulthart
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 31e64dec-5d6d-4389-ae76-dbb418225378
+        title: Committee for State Security (KGB)
+        slug: committee-for-state-security-kgb
+      - node_id: f3fd5012-43f9-4615-bf52-34f4a2e9f7ff
+        title: Alexander Deyev
+        slug: alexander-deyev
+      - node_id: f750f72c-a0ff-40ef-a891-06a2b56286d9
+        title: Merivälja object
+        slug: merivalja-object
+    date: null
+    date_end: null
+    location_in_record: 00:59:12.7-00:59:18.4
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: b8989f6c-2466-4fd6-a988-1ac629ce1620
+      record_title: 'Object M: The buried Estonian mystery the KGB spent years trying to reach | Reality Check'
+      record_date: '2026-08-11'
+      record_reference: https://www.youtube.com/watch?v=OQULI6QqIhY
+      content_hash: sha256:52d70126e55273c7238f33d8e01359cf9292de8c5cbf0ba36e284b039b432d96
+      friendly_name: null
+  - claim_id: 106bbddf-8833-414e-84f8-4bf50bc75da0
+    claim_hash: 287b6806e3f0eb4fea34f92c648ddee7b0169e1d185768dcd354b7da61499082
+    content: Mart Sander believes the KGB (Committee for State Security) would not have been so dedicated to obtaining the
+      Merivalja property unless they were fairly certain something of great value was within reach, given that the Soviet
+      Union spanned one-sixth of the world's land and had no reason to focus on such a small provincial spot otherwise.
+    original_excerpt: KGB would not have been so dedicated to get its hands on the property had it been just a suspicion of
+      there might be something. I mean, Soviet Union was such a large territory uh one-sixth of the world why should they
+      be concentrated on this very very little provincial spot unless they were pretty sure that a priceless priceless thing
+      is is almost at the reach of their fingers
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: e5ca493a-95a6-4499-b297-c11055fdd303
+      title: Mart Sander
+    provenance_chain:
+      origin_kind: speaker
+      origin: Mart Sander
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 31e64dec-5d6d-4389-ae76-dbb418225378
+        title: Committee for State Security (KGB)
+        slug: committee-for-state-security-kgb
+      - node_id: f750f72c-a0ff-40ef-a891-06a2b56286d9
+        title: Merivälja object
+        slug: merivalja-object
+    date: null
+    date_end: null
+    location_in_record: 01:03:48.5-01:04:19.4
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: b8989f6c-2466-4fd6-a988-1ac629ce1620
+      record_title: 'Object M: The buried Estonian mystery the KGB spent years trying to reach | Reality Check'
+      record_date: '2026-08-11'
+      record_reference: https://www.youtube.com/watch?v=OQULI6QqIhY
+      content_hash: sha256:52d70126e55273c7238f33d8e01359cf9292de8c5cbf0ba36e284b039b432d96
+      friendly_name: null

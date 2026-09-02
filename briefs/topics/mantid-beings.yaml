@@ -1,0 +1,557 @@
+schema: anomalica/brief/1
+brief_hash: a698d87b99a23b4cde00ce2f96196fcbf8a888327740f6fbdea8e86c3d9efdf6
+page:
+  kind: entity
+  node_id: 17a564b3-f5bb-4f8b-a24a-6117966b5522
+  node_type: topic
+  title: Mantid beings
+  slug: mantid-beings
+  claim_count: 12
+  claim_count_total: 12
+generated:
+  graph_version: '2026-09-01T10:10:49.863545+00:00'
+size:
+  claims: 12
+  tokens_estimated: 3584
+  sized_against: 1050000
+publication:
+  status: published
+  note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
+    transcripts are gated elsewhere.
+belonging:
+  verified: 0
+  suspect_excluded: 0
+  unreviewed: 12
+related_nodes:
+  - node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+    title: Ross Coulthart
+    node_type: person
+    slug: ross-coulthart
+    shared_claims: 7
+  - node_id: b093fc3e-21e3-4b01-8313-56bc63efdea7
+    title: Reptilian beings
+    node_type: topic
+    slug: reptilian-beings
+    shared_claims: 4
+  - node_id: 24d00311-06ac-46a1-a2f5-c99f3f8e21b2
+    title: Chris Ramsay
+    node_type: person
+    slug: chris-ramsay
+    shared_claims: 2
+  - node_id: 0aad9179-33c1-4383-aab7-5eb12429386e
+    title: Erik Nanstiel
+    node_type: person
+    slug: erik-nanstiel
+    shared_claims: 2
+  - node_id: 374c2897-b2f0-4827-9d58-87c4a13567ca
+    title: Grey aliens
+    node_type: topic
+    slug: grey-aliens
+    shared_claims: 2
+  - node_id: 583f554d-a577-4487-9bd9-6a6d715d10cc
+    title: Greys (extraterrestrial beings)
+    node_type: topic
+    slug: greys-extraterrestrial-beings
+    shared_claims: 2
+  - node_id: d0dafe60-c978-431d-8ef8-95e44e97aedf
+    title: Nordic alien (type)
+    node_type: topic
+    slug: nordic-alien-type
+    shared_claims: 2
+  - node_id: ea29025a-638a-4fb0-b574-a2ff9d937128
+    title: theory of evolution
+    node_type: topic
+    slug: theory-of-evolution
+    shared_claims: 2
+  - node_id: 9ab76638-a596-48f1-9a58-9c9251cc97f3
+    title: Eric Davis
+    node_type: person
+    slug: eric-davis
+    shared_claims: 1
+  - node_id: dba2f206-7088-4fe9-9fc5-d7228a9149f4
+    title: George Herbert Walker Bush
+    node_type: person
+    slug: george-herbert-walker-bush
+    shared_claims: 1
+  - node_id: 7ff8bce5-e389-47de-ad40-637c36a14d53
+    title: USA, Utah
+    node_type: place
+    slug: utah-usa
+    shared_claims: 1
+claims:
+  - claim_id: 6f2a1e99-6aea-47ba-a333-0b80c431e466
+    claim_hash: cbb56793f0f90ce2d56c8c18cf96905ace8bf8245bc8b49a1d1e69489408f95d
+    content: Eric Davis is a physicist who has asserted on the record that he was briefed by former United States president
+      George H. W. Bush about mantis beings, reptilian beings and Nordic aliens.
+    original_excerpt: Dr. Eric Davis, a hugely respected physicist who is making an assertion that he has been briefed by
+      a former president, Herbert Walker Bush, about... Mantillians. Reptilians. Nordics.
+    claim_type: hearsay
+    attestation: second_hand
+    speaker:
+      node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+      title: Ross Coulthart
+    provenance_chain:
+      origin_kind: named
+      origin: Eric Davis
+      relay:
+        - Ross Coulthart
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 17a564b3-f5bb-4f8b-a24a-6117966b5522
+        title: Mantid beings
+        slug: mantid-beings
+      - node_id: 9ab76638-a596-48f1-9a58-9c9251cc97f3
+        title: Eric Davis
+        slug: eric-davis
+      - node_id: b093fc3e-21e3-4b01-8313-56bc63efdea7
+        title: Reptilian beings
+        slug: reptilian-beings
+      - node_id: d0dafe60-c978-431d-8ef8-95e44e97aedf
+        title: Nordic alien (type)
+        slug: nordic-alien-type
+      - node_id: dba2f206-7088-4fe9-9fc5-d7228a9149f4
+        title: George Herbert Walker Bush
+        slug: george-herbert-walker-bush
+      - node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+        title: Ross Coulthart
+        slug: ross-coulthart
+    date: null
+    date_end: null
+    location_in_record: 01:10:07.1-01:10:20.8
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: fd845823-8784-462c-a981-4775525b6f84
+      record_title: The DANGEROUS Truth About UFOs - Ross Coulthart | DEBRIEFED ep. 76
+      record_date: '2026-02-20'
+      record_reference: https://www.youtube.com/watch?v=idBryc0eWww
+      content_hash: sha256:73be106d406f6d35a063a894e8384e7da0918eb8597d2107a9e3653becca2bdc
+      friendly_name: null
+  - claim_id: ff1d9ca4-d5a0-49a7-9ecc-9310ddb8725d
+    claim_hash: 45890c581f77ac1244467b6f739cb2aa26e0827566d9c1a8a649d2128da0a74a
+    content: Ross Coulthart is in contact with people who say they have been visited in their homes by mantis beings.
+    original_excerpt: I'm talking to people who, um, who say that they have been visited by mantid beings.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+      title: Ross Coulthart
+    provenance_chain:
+      origin_kind: speaker
+      origin: Ross Coulthart
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 17a564b3-f5bb-4f8b-a24a-6117966b5522
+        title: Mantid beings
+        slug: mantid-beings
+      - node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+        title: Ross Coulthart
+        slug: ross-coulthart
+    date: null
+    date_end: null
+    location_in_record: 01:47:58.6-01:48:05.3
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: fd845823-8784-462c-a981-4775525b6f84
+      record_title: The DANGEROUS Truth About UFOs - Ross Coulthart | DEBRIEFED ep. 76
+      record_date: '2026-02-20'
+      record_reference: https://www.youtube.com/watch?v=idBryc0eWww
+      content_hash: sha256:73be106d406f6d35a063a894e8384e7da0918eb8597d2107a9e3653becca2bdc
+      friendly_name: null
+  - claim_id: e3c00fa6-179d-4bde-8445-23ccec1e6d35
+    claim_hash: bbb41519dc342238e5bf07b9f30d323daefd25bd14027285c910888fba698e12
+    content: Ross Coulthart says that five or six years before 2026 he would have dismissed people reporting mantis-being
+      visits as completely crazy, but he now believes they genuinely perceived mantis beings in their homes and detects no
+      guile in their accounts.
+    original_excerpt: I'll freely admit five, six years ago, I would have laughed them out of turn and gone. They're completely
+      crazy people... I believe that they have had what they perceived as mantid beings in their home. And there is not a
+      trace of guile in the way that they are telling me this story.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+      title: Ross Coulthart
+    provenance_chain:
+      origin_kind: speaker
+      origin: Ross Coulthart
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 17a564b3-f5bb-4f8b-a24a-6117966b5522
+        title: Mantid beings
+        slug: mantid-beings
+      - node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+        title: Ross Coulthart
+        slug: ross-coulthart
+    date: null
+    date_end: null
+    location_in_record: 01:48:06.6-01:48:28.5
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: fd845823-8784-462c-a981-4775525b6f84
+      record_title: The DANGEROUS Truth About UFOs - Ross Coulthart | DEBRIEFED ep. 76
+      record_date: '2026-02-20'
+      record_reference: https://www.youtube.com/watch?v=idBryc0eWww
+      content_hash: sha256:73be106d406f6d35a063a894e8384e7da0918eb8597d2107a9e3653becca2bdc
+      friendly_name: null
+  - claim_id: 01d4095a-0c64-4e5f-889e-1cfd329a6f7f
+    claim_hash: 083ac2d027e1882d7cee3d7d279ca90708b8dbedaeeb731a7267847ea3383ced
+    content: People reporting encounters with mantis beings have told Ross Coulthart that those beings instructed them to
+      make contact with him.
+    original_excerpt: what's interesting is those mantid beings are telling them to engage with me.
+    claim_type: hearsay
+    attestation: second_hand
+    speaker:
+      node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+      title: Ross Coulthart
+    provenance_chain:
+      origin_kind: anonymous
+      origin: people claiming to have been visited by mantis beings
+      relay:
+        - accounts given to Ross Coulthart
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 17a564b3-f5bb-4f8b-a24a-6117966b5522
+        title: Mantid beings
+        slug: mantid-beings
+      - node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+        title: Ross Coulthart
+        slug: ross-coulthart
+    date: null
+    date_end: null
+    location_in_record: 01:48:29.2-01:48:37.3
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: fd845823-8784-462c-a981-4775525b6f84
+      record_title: The DANGEROUS Truth About UFOs - Ross Coulthart | DEBRIEFED ep. 76
+      record_date: '2026-02-20'
+      record_reference: https://www.youtube.com/watch?v=idBryc0eWww
+      content_hash: sha256:73be106d406f6d35a063a894e8384e7da0918eb8597d2107a9e3653becca2bdc
+      friendly_name: null
+  - claim_id: 6b3e91b2-3ae8-4b3e-b67a-7f75e10abfea
+    claim_hash: 8373e9b51ec350effa705ff3877bd0325fa2558a7e9e3556bdb497645b1bbcc4
+    content: The reported non-human species, including grey aliens, mantis beings and reptilian beings, all seem to be bipedal
+      with forward-facing eyes and multiple digits on their fingers.
+    original_excerpt: some of which look like us, some of which are these greys or the mantids or the reptilians or what have
+      you, they all seem to be bipedal, forward-facing eyes, multiple digits on their fingers
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 24d00311-06ac-46a1-a2f5-c99f3f8e21b2
+      title: Chris Ramsay
+    provenance_chain:
+      origin_kind: speaker
+      origin: Chris Ramsay
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 17a564b3-f5bb-4f8b-a24a-6117966b5522
+        title: Mantid beings
+        slug: mantid-beings
+      - node_id: 24d00311-06ac-46a1-a2f5-c99f3f8e21b2
+        title: Chris Ramsay
+        slug: chris-ramsay
+      - node_id: 374c2897-b2f0-4827-9d58-87c4a13567ca
+        title: Grey aliens
+        slug: grey-aliens
+      - node_id: b093fc3e-21e3-4b01-8313-56bc63efdea7
+        title: Reptilian beings
+        slug: reptilian-beings
+    date: null
+    date_end: null
+    location_in_record: 02:38:01.8-02:38:16.4
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: fd845823-8784-462c-a981-4775525b6f84
+      record_title: The DANGEROUS Truth About UFOs - Ross Coulthart | DEBRIEFED ep. 76
+      record_date: '2026-02-20'
+      record_reference: https://www.youtube.com/watch?v=idBryc0eWww
+      content_hash: sha256:73be106d406f6d35a063a894e8384e7da0918eb8597d2107a9e3653becca2bdc
+      friendly_name: null
+  - claim_id: d60c9eba-49b5-4d86-9be8-f8bc5c714ec1
+    claim_hash: 148a48a4f80667100ab4cc79cd32043fff7d4079604e7599d5cf2a3ff11e4119
+    content: Chris Ramsay considers that the ancestors of reptilian beings, mantis beings and humanoids can all be found on
+      Earth, suggesting a cosmic zoo in which shared DNA has been shifted between planets.
+    original_excerpt: But I do subscribe to the idea that reptilians, mantids, these humanoids, you can find all these things
+      on Earth. ... this is some cosmic zoo that we're all sharing DNA on these other planets, shifting them around.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 24d00311-06ac-46a1-a2f5-c99f3f8e21b2
+      title: Chris Ramsay
+    provenance_chain:
+      origin_kind: speaker
+      origin: Chris Ramsay
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 17a564b3-f5bb-4f8b-a24a-6117966b5522
+        title: Mantid beings
+        slug: mantid-beings
+      - node_id: 24d00311-06ac-46a1-a2f5-c99f3f8e21b2
+        title: Chris Ramsay
+        slug: chris-ramsay
+      - node_id: b093fc3e-21e3-4b01-8313-56bc63efdea7
+        title: Reptilian beings
+        slug: reptilian-beings
+      - node_id: ea29025a-638a-4fb0-b574-a2ff9d937128
+        title: theory of evolution
+        slug: theory-of-evolution
+    date: null
+    date_end: null
+    location_in_record: 02:38:33.0-02:38:47.5
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: fd845823-8784-462c-a981-4775525b6f84
+      record_title: The DANGEROUS Truth About UFOs - Ross Coulthart | DEBRIEFED ep. 76
+      record_date: '2026-02-20'
+      record_reference: https://www.youtube.com/watch?v=idBryc0eWww
+      content_hash: sha256:73be106d406f6d35a063a894e8384e7da0918eb8597d2107a9e3653becca2bdc
+      friendly_name: null
+  - claim_id: 5ebbcd2b-50f5-46d9-9273-9f99fd7c19d3
+    claim_hash: 65f4b587b71152cc9748dec55438102b2c251bceefb3c80875f864ffc7a8a55d
+    content: Ross Coulthart considers that rock art on rock walls in Utah and in Australia depicts beings that are most certainly
+      not human, some of which look mantid or insectoid.
+    original_excerpt: when you look at the rock art on the walls in rocks in Utah and in Australia, You're looking at beings
+      that are most certainly not human. And dare I say, some of them look mantid, insectoid.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+      title: Ross Coulthart
+    provenance_chain:
+      origin_kind: speaker
+      origin: Ross Coulthart
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 17a564b3-f5bb-4f8b-a24a-6117966b5522
+        title: Mantid beings
+        slug: mantid-beings
+      - node_id: 7ff8bce5-e389-47de-ad40-637c36a14d53
+        title: USA, Utah
+        slug: utah-usa
+      - node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+        title: Ross Coulthart
+        slug: ross-coulthart
+    date: null
+    date_end: null
+    location_in_record: 02:40:14.1-02:40:27.8
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: fd845823-8784-462c-a981-4775525b6f84
+      record_title: The DANGEROUS Truth About UFOs - Ross Coulthart | DEBRIEFED ep. 76
+      record_date: '2026-02-20'
+      record_reference: https://www.youtube.com/watch?v=idBryc0eWww
+      content_hash: sha256:73be106d406f6d35a063a894e8384e7da0918eb8597d2107a9e3653becca2bdc
+      friendly_name: null
+  - claim_id: 6fd51d6d-873e-4e29-b072-cb6747281d14
+    claim_hash: cb6275bc743550b011aabaaf7c5f5d20a1f72dfd69afc4675d855577e606350e
+    content: Ross Coulthart does not rule out the possibility that insects became a dominant apex species, evolved intelligence,
+      went off planet, and are the reported mantis beings.
+    original_excerpt: Is it possible that the insects became the dominant apex species and developed, evolved to have intelligence?
+      And is it possible that they went off planet and maybe they're the mantids? I've got no idea, but I don't rule that
+      out.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+      title: Ross Coulthart
+    provenance_chain:
+      origin_kind: speaker
+      origin: Ross Coulthart
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 17a564b3-f5bb-4f8b-a24a-6117966b5522
+        title: Mantid beings
+        slug: mantid-beings
+      - node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+        title: Ross Coulthart
+        slug: ross-coulthart
+      - node_id: ea29025a-638a-4fb0-b574-a2ff9d937128
+        title: theory of evolution
+        slug: theory-of-evolution
+    date: null
+    date_end: null
+    location_in_record: 02:40:29.1-02:40:45.0
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: fd845823-8784-462c-a981-4775525b6f84
+      record_title: The DANGEROUS Truth About UFOs - Ross Coulthart | DEBRIEFED ep. 76
+      record_date: '2026-02-20'
+      record_reference: https://www.youtube.com/watch?v=idBryc0eWww
+      content_hash: sha256:73be106d406f6d35a063a894e8384e7da0918eb8597d2107a9e3653becca2bdc
+      friendly_name: null
+  - claim_id: 9ee53907-78ac-47cc-bfd3-81ce31e05705
+    claim_hash: 935d0f0be86336766cae6ab13c289d96520d57f5c797e7cdee3415da701768b8
+    content: Asked whether he would rather interview a reptilian, a Nordic, a grey or a mantis being, Ross Coulthart chose
+      a reptilian.
+    original_excerpt: would you rather interview a reptilian a nordic or a gray and i'll throw mantis up there ... i have
+      to admit i'm tempted to say a reptilian
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+      title: Ross Coulthart
+    provenance_chain:
+      origin_kind: speaker
+      origin: Ross Coulthart
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 17a564b3-f5bb-4f8b-a24a-6117966b5522
+        title: Mantid beings
+        slug: mantid-beings
+      - node_id: 374c2897-b2f0-4827-9d58-87c4a13567ca
+        title: Grey aliens
+        slug: grey-aliens
+      - node_id: b093fc3e-21e3-4b01-8313-56bc63efdea7
+        title: Reptilian beings
+        slug: reptilian-beings
+      - node_id: d0dafe60-c978-431d-8ef8-95e44e97aedf
+        title: Nordic alien (type)
+        slug: nordic-alien-type
+      - node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+        title: Ross Coulthart
+        slug: ross-coulthart
+    date: null
+    date_end: null
+    location_in_record: 02:51:43.1-02:51:53.0
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: fd845823-8784-462c-a981-4775525b6f84
+      record_title: The DANGEROUS Truth About UFOs - Ross Coulthart | DEBRIEFED ep. 76
+      record_date: '2026-02-20'
+      record_reference: https://www.youtube.com/watch?v=idBryc0eWww
+      content_hash: sha256:73be106d406f6d35a063a894e8384e7da0918eb8597d2107a9e3653becca2bdc
+      friendly_name: null
+  - claim_id: 5238d2ac-223d-4db5-82ea-dcd77a0589a2
+    claim_hash: e44073b7e1fcda541e922e51cd3c08c7428fd2d674f9106a58d8ffc662d8050b
+    content: There have been encounters with other species besides the Greys, including the mantis or mantid beings.
+    original_excerpt: there's been encounters with other species, you know, there's the mantis, the mantid beings.
+    claim_type: opinion
+    attestation: null
+    speaker:
+      node_id: 0aad9179-33c1-4383-aab7-5eb12429386e
+      title: Erik Nanstiel
+    provenance_chain: null
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 17a564b3-f5bb-4f8b-a24a-6117966b5522
+        title: Mantid beings
+        slug: mantid-beings
+    date: null
+    date_end: null
+    location_in_record: 02:02:36.6-02:02:43.3
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e78cf776-77b8-4b64-85e2-1e19d2787492
+      record_title: '"Skinny Bob is Real" – Lifelong Abductee Reveals Everything - Erik Nanstiel | DEBRIEFED ep. 85'
+      record_date: '2026-04-24'
+      record_reference: https://www.youtube.com/watch?v=RFI4RWzH3ik
+      content_hash: sha256:f64f70bd2f82bddc453c0c0ecb5f3923dc71758c8182587687552d8c74149b52
+      friendly_name: 2026-04-24-video-skinny-bob-is-real-lifelong-abductee-reveals-everything.v2
+  - claim_id: b6396763-0eab-41c9-9b56-50dd938b714d
+    claim_hash: b1bd4232c43b83a9d96e308d70b3dcd3cea4c23bbd7e11a0164f902c609e6003
+    content: Erik Nanstiel did not personally see the Gliese-type Greys, big-nose Greys, mantid beings or reptilians, though
+      he does not discount other people seeing them.
+    original_excerpt: there's there's different species of greys and i don't discount other people seeing those but i didn't
+      see those types ... i didn't see a mantid being i didn't see any reptilians
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 0aad9179-33c1-4383-aab7-5eb12429386e
+      title: Erik Nanstiel
+    provenance_chain: null
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 0aad9179-33c1-4383-aab7-5eb12429386e
+        title: Erik Nanstiel
+        slug: erik-nanstiel
+      - node_id: 17a564b3-f5bb-4f8b-a24a-6117966b5522
+        title: Mantid beings
+        slug: mantid-beings
+      - node_id: 583f554d-a577-4487-9bd9-6a6d715d10cc
+        title: Greys (extraterrestrial beings)
+        slug: greys-extraterrestrial-beings
+    date: null
+    date_end: null
+    location_in_record: 02:03:38.7-02:03:51.0
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e78cf776-77b8-4b64-85e2-1e19d2787492
+      record_title: '"Skinny Bob is Real" – Lifelong Abductee Reveals Everything - Erik Nanstiel | DEBRIEFED ep. 85'
+      record_date: '2026-04-24'
+      record_reference: https://www.youtube.com/watch?v=RFI4RWzH3ik
+      content_hash: sha256:f64f70bd2f82bddc453c0c0ecb5f3923dc71758c8182587687552d8c74149b52
+      friendly_name: 2026-04-24-video-skinny-bob-is-real-lifelong-abductee-reveals-everything.v2
+  - claim_id: 6d438fb5-fe1c-4194-b0c2-b0f60debb66f
+    claim_hash: 338a6386f68b7513f147cf72de890aa4256dd94febebe3dd1409b89ada261e4a
+    content: Erik Nanstiel has only remembered two types of Greys (extraterrestrial beings) from his encounters, with no mantids,
+      humanoids, or hybrid beings.
+    original_excerpt: Just, just, just the two types of grays I've only remembered.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 0aad9179-33c1-4383-aab7-5eb12429386e
+      title: Erik Nanstiel
+    provenance_chain: null
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 0aad9179-33c1-4383-aab7-5eb12429386e
+        title: Erik Nanstiel
+        slug: erik-nanstiel
+      - node_id: 17a564b3-f5bb-4f8b-a24a-6117966b5522
+        title: Mantid beings
+        slug: mantid-beings
+      - node_id: 583f554d-a577-4487-9bd9-6a6d715d10cc
+        title: Greys (extraterrestrial beings)
+        slug: greys-extraterrestrial-beings
+    date: null
+    date_end: null
+    location_in_record: 02:11:15.6-02:11:22.1
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e78cf776-77b8-4b64-85e2-1e19d2787492
+      record_title: '"Skinny Bob is Real" – Lifelong Abductee Reveals Everything - Erik Nanstiel | DEBRIEFED ep. 85'
+      record_date: '2026-04-24'
+      record_reference: https://www.youtube.com/watch?v=RFI4RWzH3ik
+      content_hash: sha256:f64f70bd2f82bddc453c0c0ecb5f3923dc71758c8182587687552d8c74149b52
+      friendly_name: 2026-04-24-video-skinny-bob-is-real-lifelong-abductee-reveals-everything.v2

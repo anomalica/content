@@ -1,0 +1,784 @@
+schema: anomalica/brief/1
+brief_hash: 02f5aedc8a6279d60524fa0d7bcd7ec061f2f2c52f6755d90d86ccd004b39c6d
+page:
+  kind: entity
+  node_id: 664eae5a-cd98-49c8-ba48-d7dc1e73c967
+  node_type: person
+  title: Ed Leedskalnin
+  slug: ed-leedskalnin
+  claim_count: 20
+  claim_count_total: 20
+generated:
+  graph_version: '2026-09-01T10:10:49.863545+00:00'
+size:
+  claims: 20
+  tokens_estimated: 5622
+  sized_against: 1050000
+publication:
+  status: published
+  note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
+    transcripts are gated elsewhere.
+belonging:
+  verified: 0
+  suspect_excluded: 0
+  unreviewed: 20
+related_nodes:
+  - node_id: a28a4839-e548-4ecd-993e-1a9a8f6a637f
+    title: Coral Castle
+    node_type: object
+    slug: coral-castle
+    shared_claims: 13
+  - node_id: 087e333c-4158-4d4f-98bc-32b6a51c8210
+    title: Baalbek
+    node_type: object
+    slug: baalbek
+    shared_claims: 2
+  - node_id: 3b4f06c9-e55a-4f29-916f-a8ffd97d72fd
+    title: Egypt, Abydos, Osirion
+    node_type: place
+    slug: abydos-osirion-egypt
+    shared_claims: 2
+  - node_id: 7f308d88-d2de-4252-9456-3615d3a27796
+    title: USA, Florida
+    node_type: place
+    slug: florida-usa
+    shared_claims: 2
+  - node_id: e7af3000-2b7b-49ab-8f8a-b8343de609c4
+    title: 1923-1956 construction of Coral Castle by Ed Leedskalnin
+    node_type: event
+    slug: 1923-1956-construction-of-coral-castle-by-ed-leedskalnin
+    shared_claims: 1
+  - node_id: 6987da55-6570-45e6-ac96-ce73a15eabb8
+    title: Egypt
+    node_type: place
+    slug: egypt
+    shared_claims: 1
+  - node_id: 5754a75d-4b1a-4ace-a5bf-0bf5f590c8a4
+    title: Latvia
+    node_type: place
+    slug: latvia
+    shared_claims: 1
+  - node_id: 90e04002-7ca4-4a5b-848b-8426e17dcf65
+    title: Mexico, Teotihuacan
+    node_type: place
+    slug: teotihuacan-mexico
+    shared_claims: 1
+claims:
+  - claim_id: 267082d5-73ca-4960-b4fa-608e6344c016
+    claim_hash: 9500ea4cd42f2dca1e98331865522a1373bc9fab6228f472934d40c8a07a8712
+    content: Ed Leedskalnin created the Coral Castle in Florida.
+    original_excerpt: Ed Leedskalnin, who created the Coral Castle in Florida
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 664eae5a-cd98-49c8-ba48-d7dc1e73c967
+        title: Ed Leedskalnin
+        slug: ed-leedskalnin
+      - node_id: 7f308d88-d2de-4252-9456-3615d3a27796
+        title: USA, Florida
+        slug: florida-usa
+      - node_id: a28a4839-e548-4ecd-993e-1a9a8f6a637f
+        title: Coral Castle
+        slug: coral-castle
+    date: null
+    date_end: null
+    location_in_record: ch21:24465-24513
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 759e8d7b-a820-4e00-bdc3-9aebf9e4b1b1
+      record_title: The Fourth Mind
+      record_date: '2025-01-15'
+      record_reference: null
+      content_hash: sha256:524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008e17102e7
+      friendly_name: 2025-01-15-ebook-the-fourth-mind
+  - claim_id: 17219943-eb44-411a-8ac6-ef6cfc0f6884
+    claim_hash: 5f33ee687c9aafe68ff1dcca8029964e753a20e7c9a5351888dc8f3ff64536e8
+    content: Ed Leedskalnin seems to have been able to actually use what are now thought of as imaginary magical powers.
+    original_excerpt: seems to have been able to actually use what we now think of as imaginary magical powers
+    claim_type: opinion
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 664eae5a-cd98-49c8-ba48-d7dc1e73c967
+        title: Ed Leedskalnin
+        slug: ed-leedskalnin
+    date: null
+    date_end: null
+    location_in_record: ch21:24526-24608
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 759e8d7b-a820-4e00-bdc3-9aebf9e4b1b1
+      record_title: The Fourth Mind
+      record_date: '2025-01-15'
+      record_reference: null
+      content_hash: sha256:524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008e17102e7
+      friendly_name: 2025-01-15-ebook-the-fourth-mind
+  - claim_id: 0bff957c-a2ac-4060-9aca-c4278029c188
+    claim_hash: fd254059c1ee61c2237be41661291d1033dc18f0b9b98457196de540beadd075
+    content: Ed Leedskalnin used limestone at Coral Castle because it is soft and easy to work.
+    original_excerpt: He obviously used limestone because it is soft and easy to work
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+      title: Whitley Strieber
+    provenance_chain:
+      origin_kind: speaker
+      origin: Whitley Strieber
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 664eae5a-cd98-49c8-ba48-d7dc1e73c967
+        title: Ed Leedskalnin
+        slug: ed-leedskalnin
+      - node_id: a28a4839-e548-4ecd-993e-1a9a8f6a637f
+        title: Coral Castle
+        slug: coral-castle
+    date: null
+    date_end: null
+    location_in_record: ch25:10755-10814
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 759e8d7b-a820-4e00-bdc3-9aebf9e4b1b1
+      record_title: The Fourth Mind
+      record_date: '2025-01-15'
+      record_reference: null
+      content_hash: sha256:524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008e17102e7
+      friendly_name: 2025-01-15-ebook-the-fourth-mind
+  - claim_id: ad3b927c-2fab-4193-9688-e8d3e64bd245
+    claim_hash: d5427b3ec1c3670d94ddcd7366065c123c3b6219772890899f80b58c728dde6b
+    content: The absence of any saws or drills at Ed Leedskalnin's quarry has left his stonecutting method as much of a mystery
+      as his method of moving the blocks at Coral Castle.
+    original_excerpt: the absence of any saws or drills at his quarry has left his stonecutting method as much of a mystery
+      as his method of moving the blocks
+    claim_type: observation
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 664eae5a-cd98-49c8-ba48-d7dc1e73c967
+        title: Ed Leedskalnin
+        slug: ed-leedskalnin
+      - node_id: a28a4839-e548-4ecd-993e-1a9a8f6a637f
+        title: Coral Castle
+        slug: coral-castle
+    date: null
+    date_end: null
+    location_in_record: ch25:10824-10954
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 759e8d7b-a820-4e00-bdc3-9aebf9e4b1b1
+      record_title: The Fourth Mind
+      record_date: '2025-01-15'
+      record_reference: null
+      content_hash: sha256:524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008e17102e7
+      friendly_name: 2025-01-15-ebook-the-fourth-mind
+  - claim_id: 39d96d9a-08b5-40cd-bf88-ea61aaa95da1
+    claim_hash: bd2942448e2e9d9c5978c8586011fefae3c30c13a7dd75a3ae6423c9de10b693
+    content: Ed Leedskalnin's stonecutting method at Coral Castle did not involve the powerful, accurate saws used at the
+      Osirion and Baalbek.
+    original_excerpt: but Ed’s stonecutting was not done in that way
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+      title: Whitley Strieber
+    provenance_chain:
+      origin_kind: speaker
+      origin: Whitley Strieber
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 664eae5a-cd98-49c8-ba48-d7dc1e73c967
+        title: Ed Leedskalnin
+        slug: ed-leedskalnin
+      - node_id: a28a4839-e548-4ecd-993e-1a9a8f6a637f
+        title: Coral Castle
+        slug: coral-castle
+    date: null
+    date_end: null
+    location_in_record: ch25:11087-11130
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 759e8d7b-a820-4e00-bdc3-9aebf9e4b1b1
+      record_title: The Fourth Mind
+      record_date: '2025-01-15'
+      record_reference: null
+      content_hash: sha256:524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008e17102e7
+      friendly_name: 2025-01-15-ebook-the-fourth-mind
+  - claim_id: e251a4e3-f189-4834-b461-b69676501899
+    claim_hash: d847dc991079213982ac22a849642a14c7d458e89f05bf1c8d9c1a522566b6fc
+    content: If Ed Leedskalnin learned Egyptian magic, it would probably have been in his native Latvia.
+    original_excerpt: If Ed learned Egyptian magic, it would probably have been in his native Latvia.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+      title: Whitley Strieber
+    provenance_chain:
+      origin_kind: speaker
+      origin: Whitley Strieber
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 5754a75d-4b1a-4ace-a5bf-0bf5f590c8a4
+        title: Latvia
+        slug: latvia
+      - node_id: 664eae5a-cd98-49c8-ba48-d7dc1e73c967
+        title: Ed Leedskalnin
+        slug: ed-leedskalnin
+    date: null
+    date_end: null
+    location_in_record: ch25:13744-13816
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 759e8d7b-a820-4e00-bdc3-9aebf9e4b1b1
+      record_title: The Fourth Mind
+      record_date: '2025-01-15'
+      record_reference: null
+      content_hash: sha256:524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008e17102e7
+      friendly_name: 2025-01-15-ebook-the-fourth-mind
+  - claim_id: 284c40ab-340f-464e-8718-284e93b1689f
+    claim_hash: 452858bf73c2155fa65806dbc8e459d2579256fbc67c0fa7c79f2b2f46b8bd98
+    content: Details about Ed Leedskalnin's early life are limited, though he was an emigrant and dedicated Coral Castle to
+      a girl he called 'sweet sixteen', the love of his life.
+    original_excerpt: details about his early life are skimpy, beyond the fact that he was an emigrant and that the love of
+      his life was a girl he called “sweet sixteen,” to whom he dedicated his great work
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 664eae5a-cd98-49c8-ba48-d7dc1e73c967
+        title: Ed Leedskalnin
+        slug: ed-leedskalnin
+      - node_id: a28a4839-e548-4ecd-993e-1a9a8f6a637f
+        title: Coral Castle
+        slug: coral-castle
+    date: null
+    date_end: null
+    location_in_record: ch25:13828-14008
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 759e8d7b-a820-4e00-bdc3-9aebf9e4b1b1
+      record_title: The Fourth Mind
+      record_date: '2025-01-15'
+      record_reference: null
+      content_hash: sha256:524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008e17102e7
+      friendly_name: 2025-01-15-ebook-the-fourth-mind
+  - claim_id: c05094a8-9b9e-43e2-a0b7-67823e013cee
+    claim_hash: 8f628c60a149b86d6695bb3f69adb6449da3e16377f73d42abb2c3d002bd4189
+    content: Whitley Strieber considers it probable that Ed Leedskalnin's secret for moving stones at Coral Castle without
+      unusual tools involved mental control of a physical force.
+    original_excerpt: Given the fact that Ed didn’t have any unusual tools, it is also probable that the mind can control
+      it in some way, which would be Ed’s secret.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+      title: Whitley Strieber
+    provenance_chain:
+      origin_kind: speaker
+      origin: Whitley Strieber
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 664eae5a-cd98-49c8-ba48-d7dc1e73c967
+        title: Ed Leedskalnin
+        slug: ed-leedskalnin
+      - node_id: a28a4839-e548-4ecd-993e-1a9a8f6a637f
+        title: Coral Castle
+        slug: coral-castle
+    date: null
+    date_end: null
+    location_in_record: ch25:18802-18938
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 759e8d7b-a820-4e00-bdc3-9aebf9e4b1b1
+      record_title: The Fourth Mind
+      record_date: '2025-01-15'
+      record_reference: null
+      content_hash: sha256:524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008e17102e7
+      friendly_name: 2025-01-15-ebook-the-fourth-mind
+  - claim_id: 38f2146d-0231-411a-bcd0-c436141419d2
+    claim_hash: c5daa62cc9cca53a17181e93750861d1922abc894c87d1ed238a58cb4c0384f9
+    content: Whitley Strieber suspects Ed Leedskalnin's obsessive love of "Sweet Sixteen" may have had an ego-suppressing
+      effect on his personality similar to that of religious ecstatics fixating on their love of Jesus.
+    original_excerpt: I suspect that Ed’s obsessive love of “Sweet Sixteen” might have had a somewhat similar effect on his
+      personality, so that in fixating on his love of her, much as the ecstatics fixated on their love of Jesus, ego was put
+      aside.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+      title: Whitley Strieber
+    provenance_chain:
+      origin_kind: speaker
+      origin: Whitley Strieber
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 664eae5a-cd98-49c8-ba48-d7dc1e73c967
+        title: Ed Leedskalnin
+        slug: ed-leedskalnin
+    date: null
+    date_end: null
+    location_in_record: ch25:20303-20524
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 759e8d7b-a820-4e00-bdc3-9aebf9e4b1b1
+      record_title: The Fourth Mind
+      record_date: '2025-01-15'
+      record_reference: null
+      content_hash: sha256:524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008e17102e7
+      friendly_name: 2025-01-15-ebook-the-fourth-mind
+  - claim_id: 33aff158-e863-4e0c-9335-a087b2627537
+    claim_hash: 12bb655ae3514937726ad118ee2fc49d5ab83a75aacd0cf43cf2729d7242dd82
+    content: Ed Leedskalnin moved stones by an unknown means.
+    original_excerpt: The fact that Ed did successfully move stones by an unknown means and that he wrote a book on magnetism
+      hints that it is in some way connected to the secret.
+    claim_type: observation
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 664eae5a-cd98-49c8-ba48-d7dc1e73c967
+        title: Ed Leedskalnin
+        slug: ed-leedskalnin
+    date: null
+    date_end: null
+    location_in_record: ch25:22874-23024
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 759e8d7b-a820-4e00-bdc3-9aebf9e4b1b1
+      record_title: The Fourth Mind
+      record_date: '2025-01-15'
+      record_reference: null
+      content_hash: sha256:524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008e17102e7
+      friendly_name: 2025-01-15-ebook-the-fourth-mind
+  - claim_id: aa180e3a-f0c7-411c-8262-f0521f982b2c
+    claim_hash: be76b8f6f4503298edcb627c8661e8bd0987d342c2b0b6ac93b32e98df8ce19b
+    content: Ed Leedskalnin wrote a book on magnetism.
+    original_excerpt: The fact that Ed did successfully move stones by an unknown means and that he wrote a book on magnetism
+      hints that it is in some way connected to the secret.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 664eae5a-cd98-49c8-ba48-d7dc1e73c967
+        title: Ed Leedskalnin
+        slug: ed-leedskalnin
+    date: null
+    date_end: null
+    location_in_record: ch25:22874-23024
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 759e8d7b-a820-4e00-bdc3-9aebf9e4b1b1
+      record_title: The Fourth Mind
+      record_date: '2025-01-15'
+      record_reference: null
+      content_hash: sha256:524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008e17102e7
+      friendly_name: 2025-01-15-ebook-the-fourth-mind
+  - claim_id: 7b9fc7cb-7446-4751-9470-20b9e7b91324
+    claim_hash: d5151f2ad0f4230023c3a5550d2a87ff7661452f24abcdc00b92196871cb54a0
+    content: Whitley Strieber, while looking down into the Osirion, felt almost able to touch the secret that Ed Leedskalnin
+      somehow acquired.
+    original_excerpt: Looking down into the Osirion or walking into the Barabar Caves and listening to the eerily intimate
+      echo of one’s own breath, one feels almost able to touch the secret that Ed Leedskalnin somehow acquired.
+    claim_type: observation
+    attestation: first_hand
+    speaker:
+      node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+      title: Whitley Strieber
+    provenance_chain:
+      origin_kind: speaker
+      origin: Whitley Strieber
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 3b4f06c9-e55a-4f29-916f-a8ffd97d72fd
+        title: Egypt, Abydos, Osirion
+        slug: abydos-osirion-egypt
+      - node_id: 664eae5a-cd98-49c8-ba48-d7dc1e73c967
+        title: Ed Leedskalnin
+        slug: ed-leedskalnin
+    date: null
+    date_end: null
+    location_in_record: ch25:23498-23695
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 759e8d7b-a820-4e00-bdc3-9aebf9e4b1b1
+      record_title: The Fourth Mind
+      record_date: '2025-01-15'
+      record_reference: null
+      content_hash: sha256:524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008e17102e7
+      friendly_name: 2025-01-15-ebook-the-fourth-mind
+  - claim_id: a2424919-93a3-4b87-911b-24f3bfea7ab7
+    claim_hash: 5ca945cb81cd6c7836c0b80ea4452acb8660d3eba8b7812dec080090617d3b4d
+    content: Ed Leedskalnin created the Coral Castle in Florida between 1923 and 1956.
+    original_excerpt: Someone who apparently possessed the Laghima siddhi was Ed Leedskalnin, who created the Coral Castle
+      in Florida between 1923 and 1956.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 664eae5a-cd98-49c8-ba48-d7dc1e73c967
+        title: Ed Leedskalnin
+        slug: ed-leedskalnin
+      - node_id: 7f308d88-d2de-4252-9456-3615d3a27796
+        title: USA, Florida
+        slug: florida-usa
+      - node_id: a28a4839-e548-4ecd-993e-1a9a8f6a637f
+        title: Coral Castle
+        slug: coral-castle
+      - node_id: e7af3000-2b7b-49ab-8f8a-b8343de609c4
+        title: 1923-1956 construction of Coral Castle by Ed Leedskalnin
+        slug: 1923-1956-construction-of-coral-castle-by-ed-leedskalnin
+    date: '1923'
+    date_end: null
+    location_in_record: ch25:9018-9147
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 759e8d7b-a820-4e00-bdc3-9aebf9e4b1b1
+      record_title: The Fourth Mind
+      record_date: '2025-01-15'
+      record_reference: null
+      content_hash: sha256:524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008e17102e7
+      friendly_name: 2025-01-15-ebook-the-fourth-mind
+  - claim_id: 6f15fab8-6ad8-484e-b74c-d05d321f3306
+    claim_hash: a03162b70ce123d088c9143eb5fa9ee739f50da821130a44c23359b765de09e4
+    content: Ed Leedskalnin worked alone with no heavy equipment, yet was able to move stones weighing as much as approximately
+      27 tonnes despite being a lightly built man under approximately 1.8 metres tall.
+    original_excerpt: Ed worked alone, possessed no heavy equipment, and yet was able to move stones weighing as much as 30
+      tons despite the fact that he was himself a lightly built man under six feet tall.
+    claim_type: measurement
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 664eae5a-cd98-49c8-ba48-d7dc1e73c967
+        title: Ed Leedskalnin
+        slug: ed-leedskalnin
+      - node_id: a28a4839-e548-4ecd-993e-1a9a8f6a637f
+        title: Coral Castle
+        slug: coral-castle
+    date: null
+    date_end: null
+    location_in_record: ch25:9153-9332
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 759e8d7b-a820-4e00-bdc3-9aebf9e4b1b1
+      record_title: The Fourth Mind
+      record_date: '2025-01-15'
+      record_reference: null
+      content_hash: sha256:524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008e17102e7
+      friendly_name: 2025-01-15-ebook-the-fourth-mind
+  - claim_id: ce68c38a-7e86-4298-b49d-291c820bd899
+    claim_hash: 36bfc36feca897d011d891a80eb820ea8c4aa922b0bdf477130eaf1ba035ed95
+    content: In the twenty-eight years from 1923 to 1951 that Ed Leedskalnin took to create Coral Castle, there was never
+      any evidence of heavy equipment use on the site.
+    original_excerpt: In the twenty-eight years from 1923 to 1951 that it took him to create the castle, there was never any
+      evidence of any heavy equipment use.
+    claim_type: observation
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 664eae5a-cd98-49c8-ba48-d7dc1e73c967
+        title: Ed Leedskalnin
+        slug: ed-leedskalnin
+      - node_id: a28a4839-e548-4ecd-993e-1a9a8f6a637f
+        title: Coral Castle
+        slug: coral-castle
+    date: null
+    date_end: null
+    location_in_record: ch25:9338-9473
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 759e8d7b-a820-4e00-bdc3-9aebf9e4b1b1
+      record_title: The Fourth Mind
+      record_date: '2025-01-15'
+      record_reference: null
+      content_hash: sha256:524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008e17102e7
+      friendly_name: 2025-01-15-ebook-the-fourth-mind
+  - claim_id: 25466584-2e04-44eb-81a9-5ed76fe72061
+    claim_hash: c61ce44bc4a910b9ae9a8efedf4cb4371b61a2823c53c037945684a69a4dff67
+    content: After Ed Leedskalnin's death, simple handmade tools were found at Coral Castle that could have been used to carve
+      intricate shapes into the limestone, but nothing that could have moved the stones.
+    original_excerpt: After Ed’s death, simple handmade tools were found on the site that would have been used to carve some
+      of the more intricate shapes into the limestone he used, but nothing that could have even remotely been used to move
+      the stones.
+    claim_type: observation
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 664eae5a-cd98-49c8-ba48-d7dc1e73c967
+        title: Ed Leedskalnin
+        slug: ed-leedskalnin
+      - node_id: a28a4839-e548-4ecd-993e-1a9a8f6a637f
+        title: Coral Castle
+        slug: coral-castle
+    date: null
+    date_end: null
+    location_in_record: ch25:9593-9817
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 759e8d7b-a820-4e00-bdc3-9aebf9e4b1b1
+      record_title: The Fourth Mind
+      record_date: '2025-01-15'
+      record_reference: null
+      content_hash: sha256:524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008e17102e7
+      friendly_name: 2025-01-15-ebook-the-fourth-mind
+  - claim_id: ef0690de-4c0b-4816-af87-b94ee9878f18
+    claim_hash: d9a4077966e283ad23402f379f5e9b757f801a5d4b8a14df508124b979bac87f
+    content: Ed Leedskalnin claimed he had learned an ancient Egyptian secret that enabled him to build Coral Castle, but
+      never disclosed it to anyone.
+    original_excerpt: Ed claimed that he had learned an ancient Egyptian secret that enabled him to accomplish this, but he
+      never disclosed it to anyone.
+    claim_type: hearsay
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: named
+      origin: Ed Leedskalnin
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 664eae5a-cd98-49c8-ba48-d7dc1e73c967
+        title: Ed Leedskalnin
+        slug: ed-leedskalnin
+      - node_id: a28a4839-e548-4ecd-993e-1a9a8f6a637f
+        title: Coral Castle
+        slug: coral-castle
+    date: null
+    date_end: null
+    location_in_record: ch25:9826-9950
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 759e8d7b-a820-4e00-bdc3-9aebf9e4b1b1
+      record_title: The Fourth Mind
+      record_date: '2025-01-15'
+      record_reference: null
+      content_hash: sha256:524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008e17102e7
+      friendly_name: 2025-01-15-ebook-the-fourth-mind
+  - claim_id: b84fb6d8-af01-42b7-94b4-0b31bd74777e
+    claim_hash: 5bc7fa3f33bcf8ffbf33bd1eea3a0e00663f1cc49b985684e5eec6e8399eb88e
+    content: Whitley Strieber proposes that Teotihuacan must be very old, probably as old as the Osirion and other megalithic
+      sites around the world, built at a time when massive stones could be moved in the same way Ed Leedskalnin moved smaller
+      stones in his construction of Coral Castle.
+    original_excerpt: These structures would, like Baalbek, all have been built at a time when we could move massive stones
+      in the same way the Ed Leedskalnin did the smaller ones that make up his construction.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+      title: Whitley Strieber
+    provenance_chain:
+      origin_kind: speaker
+      origin: Whitley Strieber
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 087e333c-4158-4d4f-98bc-32b6a51c8210
+        title: Baalbek
+        slug: baalbek
+      - node_id: 3b4f06c9-e55a-4f29-916f-a8ffd97d72fd
+        title: Egypt, Abydos, Osirion
+        slug: abydos-osirion-egypt
+      - node_id: 664eae5a-cd98-49c8-ba48-d7dc1e73c967
+        title: Ed Leedskalnin
+        slug: ed-leedskalnin
+      - node_id: 90e04002-7ca4-4a5b-848b-8426e17dcf65
+        title: Mexico, Teotihuacan
+        slug: teotihuacan-mexico
+      - node_id: a28a4839-e548-4ecd-993e-1a9a8f6a637f
+        title: Coral Castle
+        slug: coral-castle
+    date: null
+    date_end: null
+    location_in_record: ch26:29666-29841
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 759e8d7b-a820-4e00-bdc3-9aebf9e4b1b1
+      record_title: The Fourth Mind
+      record_date: '2025-01-15'
+      record_reference: null
+      content_hash: sha256:524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008e17102e7
+      friendly_name: 2025-01-15-ebook-the-fourth-mind
+  - claim_id: c5eb8c95-625b-4edf-8f96-8c4c159df606
+    claim_hash: 1af27a1e7a01379a0959a2289c490493325fbde9dda9ba46062139fbd5a85e32
+    content: Whitley Strieber speculates that Ed Leedskalnin may have known the method by which the massive Baalbek stones
+      were moved.
+    original_excerpt: but Ed Leedskalnin probably did, as did whoever built Nan Madol
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+      title: Whitley Strieber
+    provenance_chain:
+      origin_kind: speaker
+      origin: Whitley Strieber
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 087e333c-4158-4d4f-98bc-32b6a51c8210
+        title: Baalbek
+        slug: baalbek
+      - node_id: 664eae5a-cd98-49c8-ba48-d7dc1e73c967
+        title: Ed Leedskalnin
+        slug: ed-leedskalnin
+    date: null
+    date_end: null
+    location_in_record: ch26:644-702
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 759e8d7b-a820-4e00-bdc3-9aebf9e4b1b1
+      record_title: The Fourth Mind
+      record_date: '2025-01-15'
+      record_reference: null
+      content_hash: sha256:524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008e17102e7
+      friendly_name: 2025-01-15-ebook-the-fourth-mind
+  - claim_id: 1f637bb6-f2e5-4f1c-9c5f-fa1b35ee342c
+    claim_hash: cf00fcfd2bb2423c51e7d412d1ad9b9c14e1a0e7ca8bdc8279d4bb48f7cc188e
+    content: Ed Leedskalnin built Coral Castle using techniques he said he had learned in Lithuania and that were ancient
+      Egyptian magic.
+    original_excerpt: Or Ed Leedskalnin, who created- ... Coral Castle, somehow using techniques that he said he had learned
+      in Lithuania and that they were ancient Egyptian magic.
+    claim_type: hearsay
+    attestation: second_hand
+    speaker:
+      node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+      title: Whitley Strieber
+    provenance_chain:
+      origin_kind: named
+      origin: Ed Leedskalnin
+      relay:
+        - accounts of Ed Leedskalnin's statements reaching Whitley Strieber
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 664eae5a-cd98-49c8-ba48-d7dc1e73c967
+        title: Ed Leedskalnin
+        slug: ed-leedskalnin
+      - node_id: 6987da55-6570-45e6-ac96-ce73a15eabb8
+        title: Egypt
+        slug: egypt
+      - node_id: a28a4839-e548-4ecd-993e-1a9a8f6a637f
+        title: Coral Castle
+        slug: coral-castle
+    date: null
+    date_end: null
+    location_in_record: 02:07:08.2-02:07:21.3
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 9302c6b2-133d-4cbb-adfa-5d1f0bd3e7ac
+      record_title: The Terrible Truth About the Visitors - Whitley Strieber | ep. 96
+      record_date: '2026-07-24'
+      record_reference: https://www.youtube.com/watch?v=Cv-sk4vt-qU
+      content_hash: sha256:456dbde0ab82ee8e216bdad2d1a0bf2a0b42622a167af19058f973050b035084
+      friendly_name: null

@@ -1,0 +1,388 @@
+schema: anomalica/brief/1
+brief_hash: 051fd6bd2b0139a40e396cb5009deed84b1f40753a286bd5e71064a9b7853452
+page:
+  kind: entity
+  node_id: 2050f076-d9e0-4f70-96e6-abef01bebf98
+  node_type: person
+  title: David Fruehauf
+  slug: david-fruehauf
+  claim_count: 8
+  claim_count_total: 8
+generated:
+  graph_version: '2026-09-01T10:10:49.863545+00:00'
+size:
+  claims: 8
+  tokens_estimated: 2529
+  sized_against: 1050000
+publication:
+  status: published
+  note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
+    transcripts are gated elsewhere.
+belonging:
+  verified: 0
+  suspect_excluded: 0
+  unreviewed: 8
+related_nodes:
+  - node_id: dcfde05e-4c6d-4f3a-80da-781e42865401
+    title: USA, Nevada, Area 51
+    node_type: place
+    slug: nevada-area-51-usa
+    shared_claims: 7
+  - node_id: b0c0fde0-37e6-4632-8d64-a95091f03a49
+    title: Bob Lazar
+    node_type: person
+    slug: bob-lazar
+    shared_claims: 4
+  - node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+    title: Ross Coulthart
+    node_type: person
+    slug: ross-coulthart
+    shared_claims: 2
+  - node_id: 1bb24d9f-7f69-4a98-ae83-2bf4a36e5ca5
+    title: Janet Airlines
+    node_type: organisation
+    slug: janet-airlines
+    shared_claims: 1
+  - node_id: 7f7dbb2c-f1a7-4781-a20e-8f3a1a771d6b
+    title: SR-71 Blackbird
+    node_type: object
+    slug: sr-71-blackbird
+    shared_claims: 1
+  - node_id: 2d83eddd-3fff-4559-b07c-7711ada4bf0f
+    title: USA, Nevada, Las Vegas
+    node_type: place
+    slug: nevada-las-vegas-usa
+    shared_claims: 1
+  - node_id: 8db24ac2-563f-44c0-a7ad-f0f5d66a4cbe
+    title: USA, Nevada, S4
+    node_type: place
+    slug: nevada-s4-usa
+    shared_claims: 1
+claims:
+  - claim_id: 13282920-8ccf-48a6-95f1-8062c0345ff4
+    claim_hash: bf891d100e3d5d69330902774af1c35880708abbdae0915d673278b9f047e644
+    content: Two decades after Bob Lazar's 1989 disclosure, a former SR-71 Blackbird pilot named David Fruehauf went public
+      in a television interview, partially backing Lazar's claims and calling him very credible.
+    original_excerpt: Two decades later, a former SR-71 pilot, David Fruehauf (whom I surmise was Jim Goodall's confidential
+      'Dave' source), went public in a television interview, partially backing Lazar's claims. 'I think he's very credible,'
+      Fruehauf asserted.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 2050f076-d9e0-4f70-96e6-abef01bebf98
+      title: David Fruehauf
+    provenance_chain:
+      origin_kind: speaker
+      origin: David Fruehauf
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 2050f076-d9e0-4f70-96e6-abef01bebf98
+        title: David Fruehauf
+        slug: david-fruehauf
+      - node_id: 7f7dbb2c-f1a7-4781-a20e-8f3a1a771d6b
+        title: SR-71 Blackbird
+        slug: sr-71-blackbird
+      - node_id: b0c0fde0-37e6-4632-8d64-a95091f03a49
+        title: Bob Lazar
+        slug: bob-lazar
+    date: null
+    date_end: null
+    location_in_record: ch13:22093-22326
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 286a93a6-db74-4a2b-b916-5522fb82ba4b
+    claim_hash: d1be09dc7d7b284bb54d2d193757d79e1e4b4040c564693948a547db9aba15e2
+    content: David Fruehauf worked at USA, Nevada, Area 51 for six years from 1979 to 1985, commuting daily from USA, Nevada,
+      Las Vegas on a private charter flight named Janet Airlines.
+    original_excerpt: Fruehauf worked at Area 51 for six years from 1979 through to 1985, commuting each day from Las Vegas
+      to the desert site on a private charter flight named Janet Airlines.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 2050f076-d9e0-4f70-96e6-abef01bebf98
+      title: David Fruehauf
+    provenance_chain:
+      origin_kind: speaker
+      origin: David Fruehauf
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 1bb24d9f-7f69-4a98-ae83-2bf4a36e5ca5
+        title: Janet Airlines
+        slug: janet-airlines
+      - node_id: 2050f076-d9e0-4f70-96e6-abef01bebf98
+        title: David Fruehauf
+        slug: david-fruehauf
+      - node_id: 2d83eddd-3fff-4559-b07c-7711ada4bf0f
+        title: USA, Nevada, Las Vegas
+        slug: nevada-las-vegas-usa
+      - node_id: dcfde05e-4c6d-4f3a-80da-781e42865401
+        title: USA, Nevada, Area 51
+        slug: nevada-area-51-usa
+    date: '1979'
+    date_end: null
+    location_in_record: ch13:22336-22497
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 2d47c79b-2aec-4f4b-97cf-682a646598e1
+    claim_hash: d70e378fe6686c58e3a36a6d8f3d364f3cebd1786db9c4ba7cecfe47249a33cf
+    content: David Fruehauf noticed a regular group of scientists and military officials at USA, Nevada, Area 51 who would
+      board a bus to a facility he knew as Site 4 (S-4), which he understood to be even more secretive than Area 51.
+    original_excerpt: Fruehauf says he noticed a regular group of scientists and military officials who would board a bus
+      to a facility he knew to be even more secretive than Area 51. He knew its codename was Site Four, S-4.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 2050f076-d9e0-4f70-96e6-abef01bebf98
+      title: David Fruehauf
+    provenance_chain:
+      origin_kind: speaker
+      origin: David Fruehauf
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 2050f076-d9e0-4f70-96e6-abef01bebf98
+        title: David Fruehauf
+        slug: david-fruehauf
+      - node_id: dcfde05e-4c6d-4f3a-80da-781e42865401
+        title: USA, Nevada, Area 51
+        slug: nevada-area-51-usa
+    date: null
+    date_end: null
+    location_in_record: ch13:22507-22707
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 9fb4c531-9333-4d72-acb0-4399ae22701b
+    claim_hash: 64371f25e880f49db6127aaf387969bb2431c05614909587a9628baab23f6002
+    content: David Fruehauf knew about Site 4 (S-4) but did not know what work was done there, and observed that certain people
+      boarded a Boeing 737 in the morning and were taken off in a different direction by bus upon arrival at Area 51, while
+      others went north towards the hangars.
+    original_excerpt: '''We knew about S-4 but we didn''t know what they did,'' he says. ''All we knew was there was certain
+      people that got on the 737 in the morning and when we got to Area 51, they were taken off in a different direction in
+      a bus and we went on to the north going up towards the hangars.'''
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 2050f076-d9e0-4f70-96e6-abef01bebf98
+      title: David Fruehauf
+    provenance_chain:
+      origin_kind: speaker
+      origin: David Fruehauf
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 2050f076-d9e0-4f70-96e6-abef01bebf98
+        title: David Fruehauf
+        slug: david-fruehauf
+      - node_id: dcfde05e-4c6d-4f3a-80da-781e42865401
+        title: USA, Nevada, Area 51
+        slug: nevada-area-51-usa
+    date: null
+    date_end: null
+    location_in_record: ch13:22711-22981
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 72b4ac21-be05-4071-b16e-19dd070530cc
+    claim_hash: 4e00ae20ec251cdb1982a92023a0b22e2d1517e4dc7e9b4a441650420bf395d6
+    content: Bob Lazar was never at USA, Nevada, Area 51 at the same time as David Fruehauf, but Fruehauf considered Lazar's
+      account very accurate and said he sounded totally believable.
+    original_excerpt: Lazar was never at Area 51 at the same time as Fruehauf, but Fruehauf said Lazar's account was very
+      accurate. 'He sounded totally believable to me,' Fruehauf said.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 2050f076-d9e0-4f70-96e6-abef01bebf98
+      title: David Fruehauf
+    provenance_chain:
+      origin_kind: speaker
+      origin: David Fruehauf
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 2050f076-d9e0-4f70-96e6-abef01bebf98
+        title: David Fruehauf
+        slug: david-fruehauf
+      - node_id: b0c0fde0-37e6-4632-8d64-a95091f03a49
+        title: Bob Lazar
+        slug: bob-lazar
+      - node_id: dcfde05e-4c6d-4f3a-80da-781e42865401
+        title: USA, Nevada, Area 51
+        slug: nevada-area-51-usa
+    date: null
+    date_end: null
+    location_in_record: ch13:22991-23149
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 0d3a2ac4-92fc-43eb-a20d-f93256be5cff
+    claim_hash: a169cf55ee3a517f1052b57264363a807bdfd5ed50d99afbe1074253eca696a8
+    content: David Fruehauf claimed he knew witnesses who saw Bob Lazar somewhere at USA, Nevada, Area 51.
+    original_excerpt: He also claimed he knew witnesses who saw Lazar somewhere at Area 51.
+    claim_type: hearsay
+    attestation: first_hand
+    speaker:
+      node_id: 2050f076-d9e0-4f70-96e6-abef01bebf98
+      title: David Fruehauf
+    provenance_chain:
+      origin_kind: speaker
+      origin: David Fruehauf
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 2050f076-d9e0-4f70-96e6-abef01bebf98
+        title: David Fruehauf
+        slug: david-fruehauf
+      - node_id: b0c0fde0-37e6-4632-8d64-a95091f03a49
+        title: Bob Lazar
+        slug: bob-lazar
+      - node_id: dcfde05e-4c6d-4f3a-80da-781e42865401
+        title: USA, Nevada, Area 51
+        slug: nevada-area-51-usa
+    date: null
+    date_end: null
+    location_in_record: ch13:23155-23221
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: f142b369-04c4-459d-b392-fbbae67f43cf
+    claim_hash: 079ca29c8b8624978a0aa27d5c94f17dc4f2771d9a1c28c73222ee11855f6e05
+    content: Dave Fruehauf, who was one of the people running logistics at Area 51, confirmed to Ross Coulthart before his
+      death that he had heard about the existence of S4, though he had never been there.
+    original_excerpt: I strongly know that S4 is real because I spoke to Dave Fruehauf before he died. who was essentially
+      one of the people running logistics at Area 51, who confirmed to me that he'd heard about the existence of S4. He'd
+      never been there
+    claim_type: testimony
+    attestation: second_hand
+    speaker:
+      node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+      title: Ross Coulthart
+    provenance_chain:
+      origin_kind: named
+      origin: Dave Fruehauf
+      relay:
+        - Ross Coulthart
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 2050f076-d9e0-4f70-96e6-abef01bebf98
+        title: David Fruehauf
+        slug: david-fruehauf
+      - node_id: 8db24ac2-563f-44c0-a7ad-f0f5d66a4cbe
+        title: USA, Nevada, S4
+        slug: nevada-s4-usa
+      - node_id: dcfde05e-4c6d-4f3a-80da-781e42865401
+        title: USA, Nevada, Area 51
+        slug: nevada-area-51-usa
+      - node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+        title: Ross Coulthart
+        slug: ross-coulthart
+    date: null
+    date_end: null
+    location_in_record: 02:00:44.9-02:00:58.9
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: fd845823-8784-462c-a981-4775525b6f84
+      record_title: The DANGEROUS Truth About UFOs - Ross Coulthart | DEBRIEFED ep. 76
+      record_date: '2026-02-20'
+      record_reference: https://www.youtube.com/watch?v=idBryc0eWww
+      content_hash: sha256:73be106d406f6d35a063a894e8384e7da0918eb8597d2107a9e3653becca2bdc
+      friendly_name: null
+  - claim_id: deb506ec-c544-4e99-803a-160dd71f04c7
+    claim_hash: f265bc657b1b119de19cbb4605f60351288de1d172b65f38ffb94411f35ec8f3
+    content: Dave Fruehauf told Ross Coulthart that he had spoken to multiple people who had seen Bob Lazar at Area 51, though
+      not during Dave Fruehauf's own time there.
+    original_excerpt: he'd also spoken to multiple people who had seen Bob Lazar at Area 51, not when he was there.
+    claim_type: hearsay
+    attestation: third_hand
+    speaker:
+      node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+      title: Ross Coulthart
+    provenance_chain:
+      origin_kind: anonymous
+      origin: multiple unnamed people claiming to have seen Bob Lazar at Area 51
+      relay:
+        - Dave Fruehauf
+        - Ross Coulthart
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 2050f076-d9e0-4f70-96e6-abef01bebf98
+        title: David Fruehauf
+        slug: david-fruehauf
+      - node_id: b0c0fde0-37e6-4632-8d64-a95091f03a49
+        title: Bob Lazar
+        slug: bob-lazar
+      - node_id: dcfde05e-4c6d-4f3a-80da-781e42865401
+        title: USA, Nevada, Area 51
+        slug: nevada-area-51-usa
+      - node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+        title: Ross Coulthart
+        slug: ross-coulthart
+    date: null
+    date_end: null
+    location_in_record: 02:00:59.9-02:01:09.0
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: fd845823-8784-462c-a981-4775525b6f84
+      record_title: The DANGEROUS Truth About UFOs - Ross Coulthart | DEBRIEFED ep. 76
+      record_date: '2026-02-20'
+      record_reference: https://www.youtube.com/watch?v=idBryc0eWww
+      content_hash: sha256:73be106d406f6d35a063a894e8384e7da0918eb8597d2107a9e3653becca2bdc
+      friendly_name: null

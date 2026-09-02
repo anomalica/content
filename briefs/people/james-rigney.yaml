@@ -1,0 +1,718 @@
+schema: anomalica/brief/1
+brief_hash: 66507a7f78f8a11fba51c9dd169b69c75929696bcc274e552f1a21ddd8387dfd
+page:
+  kind: entity
+  node_id: ffc4dffc-33d3-4a26-9296-5665788889d4
+  node_type: person
+  title: James Rigney
+  slug: james-rigney
+  claim_count: 17
+  claim_count_total: 17
+generated:
+  graph_version: '2026-09-01T10:10:49.863545+00:00'
+size:
+  claims: 17
+  tokens_estimated: 4692
+  sized_against: 1050000
+publication:
+  status: published
+  note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
+    transcripts are gated elsewhere.
+belonging:
+  verified: 0
+  suspect_excluded: 0
+  unreviewed: 17
+related_nodes:
+  - node_id: 3d253a20-16b2-43c8-94ef-87496dfe4ac3
+    title: The Spaceman
+    node_type: person
+    slug: the-spaceman
+    shared_claims: 6
+  - node_id: 59476464-a679-46ce-9247-b0adcb287762
+    title: Edgar Mitchell
+    node_type: person
+    slug: edgar-mitchell
+    shared_claims: 5
+  - node_id: db7170bd-ea41-4851-8bd2-8aba8c0fa4f4
+    title: Australia, Victoria, Melbourne
+    node_type: place
+    slug: victoria-melbourne-australia
+    shared_claims: 3
+  - node_id: 4b92db24-6fcf-4867-bcbf-897b0806de8c
+    title: The Admiral Wilson Memo
+    node_type: document
+    slug: the-admiral-wilson-memo
+    shared_claims: 3
+  - node_id: 9140412a-da89-49d7-8057-6aa4487f2645
+    title: Kelly Cahill
+    node_type: person
+    slug: kelly-cahill
+    shared_claims: 2
+  - node_id: 0507928f-2ce8-4f97-b038-792472f4b1e7
+    title: Kelly Cahill 1993 Unidentified Flying Object (UFO) encounter
+    node_type: event
+    slug: kelly-cahill-1993-unidentified-flying-object-ufo-encounter
+    shared_claims: 2
+  - node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+    title: Ross Coulthart
+    node_type: person
+    slug: ross-coulthart
+    shared_claims: 2
+  - node_id: ecb1607d-4dc8-416e-81ce-bb142a9d24ce
+    title: 2013 Tucson Spacefest conference
+    node_type: event
+    slug: 2013-tucson-spacefest-conference
+    shared_claims: 1
+  - node_id: c76ec8f2-cf2e-4693-b24c-b3ce9c5879d0
+    title: Apollo 17
+    node_type: project
+    slug: apollo-17
+    shared_claims: 1
+  - node_id: b9c07d0e-c2cc-40bf-bc17-9987f4942e9e
+    title: Grant Cameron
+    node_type: person
+    slug: grant-cameron
+    shared_claims: 1
+  - node_id: 4c83caed-15fe-4a9f-8f6f-38d91457b40d
+    title: Victorian Unidentified Flying Object (UFO) Action
+    node_type: organisation
+    slug: victorian-unidentified-flying-object-ufo-action
+    shared_claims: 1
+  - node_id: be1c5291-2a16-4e69-b6ae-6e8761ff5e7c
+    title: Wilson Davis Memo
+    node_type: document
+    slug: wilson-davis-memo
+    shared_claims: 1
+claims:
+  - claim_id: a0387d71-ff8d-4658-b114-83cd4ef6743f
+    claim_hash: fdde5558e1706350b09e554626859e85b0d38717cbf7584e0f1a2ee226b81a4a
+    content: In 2013, James Rigney flew from Melbourne, Australia to attend a US space conference.
+    original_excerpt: Australian architect and space exploration-buff James Rigney flew from his home in Melbourne, Australia,
+      to attend a US space conference in 2013.
+    claim_type: observation
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: db7170bd-ea41-4851-8bd2-8aba8c0fa4f4
+        title: Australia, Victoria, Melbourne
+        slug: victoria-melbourne-australia
+      - node_id: ffc4dffc-33d3-4a26-9296-5665788889d4
+        title: James Rigney
+        slug: james-rigney
+    date: '2013'
+    date_end: null
+    location_in_record: ch25:1018-1158
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: d59375af-bd46-4252-a0ea-0dcfb33722d7
+    claim_hash: bb099a6ebb3b5285488fba8bdb037814dd290498140bc2ff023c4b8f544a5e78
+    content: James Rigney is an Australian architect and space exploration enthusiast.
+    original_excerpt: Australian architect and space exploration-buff James Rigney flew from his home in Melbourne, Australia,
+      to attend a US space conference in 2013.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: db7170bd-ea41-4851-8bd2-8aba8c0fa4f4
+        title: Australia, Victoria, Melbourne
+        slug: victoria-melbourne-australia
+      - node_id: ffc4dffc-33d3-4a26-9296-5665788889d4
+        title: James Rigney
+        slug: james-rigney
+    date: null
+    date_end: null
+    location_in_record: ch25:1018-1158
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 857bb18a-1988-4f35-a05c-7bf942a89882
+    claim_hash: d9ade845a32d9a906859e45336c1ce9976e2e739e63b72979ca39202e1d49536
+    content: James Rigney served on the committee of a local space research association in Melbourne.
+    original_excerpt: In Melbourne, Rigney served on the committee of his local space research association and had clashed
+      with association members, who criticised Mitchell's post-NASA work investigating unidentified aerospace and paranormal
+      phenomena.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: db7170bd-ea41-4851-8bd2-8aba8c0fa4f4
+        title: Australia, Victoria, Melbourne
+        slug: victoria-melbourne-australia
+      - node_id: ffc4dffc-33d3-4a26-9296-5665788889d4
+        title: James Rigney
+        slug: james-rigney
+    date: null
+    date_end: null
+    location_in_record: ch25:1512-1732
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 0db0d688-c386-4ee2-80ac-58ef70bd54cf
+    claim_hash: 50922edcac17625ee37b657fa807faab8be53719c8b242b6465bdf114ebaa385
+    content: James Rigney clashed with members of his local space research association over their criticism of Edgar Mitchell's
+      post-NASA work investigating unidentified aerospace and paranormal phenomena.
+    original_excerpt: had clashed with association members, who criticised Mitchell's post-NASA work investigating unidentified
+      aerospace and paranormal phenomena.
+    claim_type: observation
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 59476464-a679-46ce-9247-b0adcb287762
+        title: Edgar Mitchell
+        slug: edgar-mitchell
+      - node_id: ffc4dffc-33d3-4a26-9296-5665788889d4
+        title: James Rigney
+        slug: james-rigney
+    date: null
+    date_end: null
+    location_in_record: ch25:1601-1732
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 41ad01d6-f221-4719-abf8-431a4b3f5f24
+    claim_hash: c51c656e8884870cac002d4d08ecb963d9141f85b6765bae306dd66d975772f1
+    content: James Rigney briefly met Edgar Mitchell in 2012 at the 40th anniversary celebrations of Apollo 17, the final
+      Apollo mission.
+    original_excerpt: Rigney briefly met Mitchell in 2012 at the 40th anniversary celebrations of the final Apollo mission,
+      Apollo 17.
+    claim_type: observation
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 59476464-a679-46ce-9247-b0adcb287762
+        title: Edgar Mitchell
+        slug: edgar-mitchell
+      - node_id: c76ec8f2-cf2e-4693-b24c-b3ce9c5879d0
+        title: Apollo 17
+        slug: apollo-17
+      - node_id: ffc4dffc-33d3-4a26-9296-5665788889d4
+        title: James Rigney
+        slug: james-rigney
+    date: '2012'
+    date_end: null
+    location_in_record: ch25:1743-1852
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 1259022f-a259-4246-b66e-f960d2390cb3
+    claim_hash: abea949c5a690311469f2366dc8ac8475049688c99324599a3c5037986f36700
+    content: In 2013, at the Tucson Spacefest conference, James Rigney confessed his admiration for Edgar Mitchell to a fellow
+      conference attendee given the pseudonym 'The Spaceman'.
+    original_excerpt: Over a few drinks at the 2013 Tucson Spacefest conference the following year, Rigney confessed his admiration
+      for Mitchell to a fellow conference attendee, to whom we shall give the pseudonym 'The Spaceman'.
+    claim_type: observation
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 3d253a20-16b2-43c8-94ef-87496dfe4ac3
+        title: The Spaceman
+        slug: the-spaceman
+      - node_id: ecb1607d-4dc8-416e-81ce-bb142a9d24ce
+        title: 2013 Tucson Spacefest conference
+        slug: 2013-tucson-spacefest-conference
+      - node_id: ffc4dffc-33d3-4a26-9296-5665788889d4
+        title: James Rigney
+        slug: james-rigney
+    date: '2013'
+    date_end: null
+    location_in_record: ch25:1856-2053
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 40cf59a0-7dfa-47c6-ab4c-b7c9df07f637
+    claim_hash: 38958f87252db90b88df2ead4d5a446a68a17b6d7564d3442643a37e65ab3658
+    content: A year after their first meeting, The Spaceman arranged for James Rigney to have a long conversation with Edgar
+      Mitchell at another conference.
+    original_excerpt: A year later, at another conference, The Spaceman made sure Rigney got the chance to have a long chat
+      with his hero.
+    claim_type: observation
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 3d253a20-16b2-43c8-94ef-87496dfe4ac3
+        title: The Spaceman
+        slug: the-spaceman
+      - node_id: 59476464-a679-46ce-9247-b0adcb287762
+        title: Edgar Mitchell
+        slug: edgar-mitchell
+      - node_id: ffc4dffc-33d3-4a26-9296-5665788889d4
+        title: James Rigney
+        slug: james-rigney
+    date: null
+    date_end: null
+    location_in_record: ch25:2221-2332
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 6388c279-dcaa-4a76-b747-fd08bc794dbd
+    claim_hash: 2774f6fd2b0e1d6af467cccb3a829855c85aec5f6eff63671c71fff95ffb60ae
+    content: James Rigney did not have time to read the documents at The Spaceman's home, but weeks later The Spaceman sent
+      him copies of the ones he requested, including the 'EWD Notes'.
+    original_excerpt: I didn’t have time to even read them there but weeks later he sent me copies of the ones I requested.’
+      Among them was the ‘EWD Notes’.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: ffc4dffc-33d3-4a26-9296-5665788889d4
+      title: James Rigney
+    provenance_chain:
+      origin_kind: speaker
+      origin: James Rigney
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 3d253a20-16b2-43c8-94ef-87496dfe4ac3
+        title: The Spaceman
+        slug: the-spaceman
+      - node_id: 4b92db24-6fcf-4867-bcbf-897b0806de8c
+        title: The Admiral Wilson Memo
+        slug: the-admiral-wilson-memo
+      - node_id: ffc4dffc-33d3-4a26-9296-5665788889d4
+        title: James Rigney
+        slug: james-rigney
+    date: null
+    date_end: null
+    location_in_record: ch26:1007-1134
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: abed29c6-cdf3-4fff-9854-66d7b8165e38
+    claim_hash: 87c620cfb1769a09d85b6e4636f546b8c3b1585fa163e9a2d1f799c8e4c5e4b3
+    content: James Rigney said he sat on the 'EWD Notes' document for months, knowing how important it was and not knowing
+      what to do with it.
+    original_excerpt: ‘I sat on it for months, knowing how important it was and not really knowing what to do with it,’ he
+      said.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: ffc4dffc-33d3-4a26-9296-5665788889d4
+      title: James Rigney
+    provenance_chain:
+      origin_kind: speaker
+      origin: James Rigney
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 4b92db24-6fcf-4867-bcbf-897b0806de8c
+        title: The Admiral Wilson Memo
+        slug: the-admiral-wilson-memo
+      - node_id: ffc4dffc-33d3-4a26-9296-5665788889d4
+        title: James Rigney
+        slug: james-rigney
+    date: null
+    date_end: null
+    location_in_record: ch26:1143-1243
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 0781eb49-133e-4d21-8022-43f44b209e9f
+    claim_hash: 922e44932229f7e2a0e8584cde789eda8c383b3284aa8738e6314e9b288fd98c
+    content: James Rigney sought out Canadian researcher Grant Cameron at a conference in November 2018 and showed him a copy
+      of the 'EWD Notes' document.
+    original_excerpt: Rigney sought out Canadian researcher Grant Cameron at a conference in November 2018 and showed him
+      a copy of the document.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 4b92db24-6fcf-4867-bcbf-897b0806de8c
+        title: The Admiral Wilson Memo
+        slug: the-admiral-wilson-memo
+      - node_id: b9c07d0e-c2cc-40bf-bc17-9987f4942e9e
+        title: Grant Cameron
+        slug: grant-cameron
+      - node_id: ffc4dffc-33d3-4a26-9296-5665788889d4
+        title: James Rigney
+        slug: james-rigney
+    date: 2018-11
+    date_end: null
+    location_in_record: ch26:1284-1391
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: a0b2da46-5da8-4318-a6aa-2824ea338b1c
+    claim_hash: 7ec70241b17e799b6c065b25a25953a2fbcee02924e869bf7a58641426f8f15d
+    content: Australian researcher James Rigney befriended The Spaceman in the United States and learned that The Spaceman
+      held the Edgar Mitchell files.
+    original_excerpt: In the US, Australian James Rigney befriended The Spaceman and learned he had the Edgar Mitchell files.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 3d253a20-16b2-43c8-94ef-87496dfe4ac3
+        title: The Spaceman
+        slug: the-spaceman
+      - node_id: 59476464-a679-46ce-9247-b0adcb287762
+        title: Edgar Mitchell
+        slug: edgar-mitchell
+      - node_id: ffc4dffc-33d3-4a26-9296-5665788889d4
+        title: James Rigney
+        slug: james-rigney
+    date: null
+    date_end: null
+    location_in_record: ch26:615-712
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 58a8a116-ead9-453a-8335-78a32b1b77fb
+    claim_hash: 96a271f4aa9d29306cfd678afb76ede06ff22594e7dcedefba26d72a164bd80c
+    content: In 2017, James Rigney negotiated a viewing of the Edgar Mitchell files at The Spaceman's home.
+    original_excerpt: In 2017, Rigney negotiated a viewing at The Spaceman’s home.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 3d253a20-16b2-43c8-94ef-87496dfe4ac3
+        title: The Spaceman
+        slug: the-spaceman
+      - node_id: 59476464-a679-46ce-9247-b0adcb287762
+        title: Edgar Mitchell
+        slug: edgar-mitchell
+      - node_id: ffc4dffc-33d3-4a26-9296-5665788889d4
+        title: James Rigney
+        slug: james-rigney
+    date: '2017'
+    date_end: null
+    location_in_record: ch26:719-774
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 6f8ff1e2-ded0-42a9-9136-9f9659353fe8
+    claim_hash: 39ed4092c75261931183b2d501033dbe0ebd9563b84bc6d5a85b7465f36190f3
+    content: James Rigney recalled that The Spaceman came back with an armful of documents and dumped them on the table, and
+      Rigney went through them quickly deciding what looked interesting because he only had about half an hour before he had
+      to leave.
+    original_excerpt: ‘He came back with an armful of documents and dumped them on the table. I was going through them all,
+      deciding very quickly what looks interesting because I only had about half an hour left before I had to go.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: ffc4dffc-33d3-4a26-9296-5665788889d4
+      title: James Rigney
+    provenance_chain:
+      origin_kind: speaker
+      origin: James Rigney
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 3d253a20-16b2-43c8-94ef-87496dfe4ac3
+        title: The Spaceman
+        slug: the-spaceman
+      - node_id: ffc4dffc-33d3-4a26-9296-5665788889d4
+        title: James Rigney
+        slug: james-rigney
+    date: null
+    date_end: null
+    location_in_record: ch26:798-1003
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 02067a0d-bbb1-4bb2-8f69-ba531a77aa04
+    claim_hash: 8159d56ae84af86f52a34b3318fce5936756b48b1467eaac032b9644f2d74b8f
+    content: Victorian UFO Action is a Unidentified Flying Object (UFO) investigation group in Victoria, Australia, led mainly
+      by James Rigney.
+    original_excerpt: there's a great Victorian UFO investigation group, mainly led by a guy called James Rigney
+    claim_type: administrative
+    attestation: first_hand
+    speaker:
+      node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+      title: Ross Coulthart
+    provenance_chain:
+      origin_kind: speaker
+      origin: Ross Coulthart
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 4c83caed-15fe-4a9f-8f6f-38d91457b40d
+        title: Victorian Unidentified Flying Object (UFO) Action
+        slug: victorian-unidentified-flying-object-ufo-action
+      - node_id: ffc4dffc-33d3-4a26-9296-5665788889d4
+        title: James Rigney
+        slug: james-rigney
+    date: null
+    date_end: null
+    location_in_record: 00:22:30.0-00:22:36.2
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: fd845823-8784-462c-a981-4775525b6f84
+      record_title: The DANGEROUS Truth About UFOs - Ross Coulthart | DEBRIEFED ep. 76
+      record_date: '2026-02-20'
+      record_reference: https://www.youtube.com/watch?v=idBryc0eWww
+      content_hash: sha256:73be106d406f6d35a063a894e8384e7da0918eb8597d2107a9e3653becca2bdc
+      friendly_name: null
+  - claim_id: 7449930f-d5b6-4d3d-94b7-7c8248b618a1
+    claim_hash: e9a21a3faba3dc540d6923eca2fae451314ff65354624f3533a05d0fd66cddf8
+    content: James Rigney was instrumental in securing the release of the Wilson-Davis memo.
+    original_excerpt: James Rigney, who, by the way, was instrumental in securing the release of the Wilson Davis document
+    claim_type: administrative
+    attestation: first_hand
+    speaker:
+      node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+      title: Ross Coulthart
+    provenance_chain:
+      origin_kind: speaker
+      origin: Ross Coulthart
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: be1c5291-2a16-4e69-b6ae-6e8761ff5e7c
+        title: Wilson Davis Memo
+        slug: wilson-davis-memo
+      - node_id: ffc4dffc-33d3-4a26-9296-5665788889d4
+        title: James Rigney
+        slug: james-rigney
+    date: null
+    date_end: null
+    location_in_record: 00:22:35.8-00:22:41.0
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: fd845823-8784-462c-a981-4775525b6f84
+      record_title: The DANGEROUS Truth About UFOs - Ross Coulthart | DEBRIEFED ep. 76
+      record_date: '2026-02-20'
+      record_reference: https://www.youtube.com/watch?v=idBryc0eWww
+      content_hash: sha256:73be106d406f6d35a063a894e8384e7da0918eb8597d2107a9e3653becca2bdc
+      friendly_name: null
+  - claim_id: 72e15866-1fc2-480b-aeac-41ab75ffb20f
+    claim_hash: fad471a4682d1894c871fe6a346c4499f5c3d7932890a33fd1ae33b0edfc69a1
+    content: James Rigney told Ross Coulthart about the Kelly Cahill 1993 Unidentified Flying Object (UFO) encounter.
+    original_excerpt: And he also told me about the Kelly Cahill.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+      title: Ross Coulthart
+    provenance_chain:
+      origin_kind: speaker
+      origin: Ross Coulthart
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 0507928f-2ce8-4f97-b038-792472f4b1e7
+        title: Kelly Cahill 1993 Unidentified Flying Object (UFO) encounter
+        slug: kelly-cahill-1993-unidentified-flying-object-ufo-encounter
+      - node_id: 9140412a-da89-49d7-8057-6aa4487f2645
+        title: Kelly Cahill
+        slug: kelly-cahill
+      - node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+        title: Ross Coulthart
+        slug: ross-coulthart
+      - node_id: ffc4dffc-33d3-4a26-9296-5665788889d4
+        title: James Rigney
+        slug: james-rigney
+    date: null
+    date_end: null
+    location_in_record: 00:22:55.0-00:22:57.0
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: fd845823-8784-462c-a981-4775525b6f84
+      record_title: The DANGEROUS Truth About UFOs - Ross Coulthart | DEBRIEFED ep. 76
+      record_date: '2026-02-20'
+      record_reference: https://www.youtube.com/watch?v=idBryc0eWww
+      content_hash: sha256:73be106d406f6d35a063a894e8384e7da0918eb8597d2107a9e3653becca2bdc
+      friendly_name: null
+  - claim_id: d371ba87-d8f0-4b39-bc01-f42030cd95a5
+    claim_hash: 9bd6e29615f5bc78b814c3a3071704d02e40160b8dc8f8f278d00fa5b20772b8
+    content: Ross Coulthart spent a weekend with James Rigney visiting the site of the Kelly Cahill 1993 Unidentified Flying
+      Object (UFO) encounter.
+    original_excerpt: I spent a weekend with James going around looking at the Kelly Cahill site
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+      title: Ross Coulthart
+    provenance_chain:
+      origin_kind: speaker
+      origin: Ross Coulthart
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 0507928f-2ce8-4f97-b038-792472f4b1e7
+        title: Kelly Cahill 1993 Unidentified Flying Object (UFO) encounter
+        slug: kelly-cahill-1993-unidentified-flying-object-ufo-encounter
+      - node_id: 9140412a-da89-49d7-8057-6aa4487f2645
+        title: Kelly Cahill
+        slug: kelly-cahill
+      - node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+        title: Ross Coulthart
+        slug: ross-coulthart
+      - node_id: ffc4dffc-33d3-4a26-9296-5665788889d4
+        title: James Rigney
+        slug: james-rigney
+    date: null
+    date_end: null
+    location_in_record: 00:24:25.5-00:24:29.2
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: fd845823-8784-462c-a981-4775525b6f84
+      record_title: The DANGEROUS Truth About UFOs - Ross Coulthart | DEBRIEFED ep. 76
+      record_date: '2026-02-20'
+      record_reference: https://www.youtube.com/watch?v=idBryc0eWww
+      content_hash: sha256:73be106d406f6d35a063a894e8384e7da0918eb8597d2107a9e3653becca2bdc
+      friendly_name: null

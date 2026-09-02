@@ -1,0 +1,693 @@
+schema: anomalica/brief/1
+brief_hash: 1bc3b08fbd7224ff57abb9720a321721453b9b26983f44610cc550127b7b6354
+page:
+  kind: entity
+  node_id: 2a52d4e0-c8a1-49c6-a01d-8d37d6e69887
+  node_type: person
+  title: Andrew Greenwood
+  slug: andrew-greenwood
+  claim_count: 17
+  claim_count_total: 17
+generated:
+  graph_version: '2026-09-01T10:10:49.863545+00:00'
+size:
+  claims: 17
+  tokens_estimated: 4612
+  sized_against: 1050000
+publication:
+  status: published
+  note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
+    transcripts are gated elsewhere.
+belonging:
+  verified: 0
+  suspect_excluded: 0
+  unreviewed: 17
+related_nodes:
+  - node_id: e10d037b-b94e-464e-9d35-8d193a99891b
+    title: 1966 Westall Unidentified Flying Object (UFO) incident
+    node_type: event
+    slug: 1966-westall-unidentified-flying-object-ufo-incident
+    shared_claims: 11
+  - node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+    title: Ross Coulthart
+    node_type: person
+    slug: ross-coulthart
+    shared_claims: 5
+  - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
+    title: 2004 USS Nimitz UAP encounter
+    node_type: event
+    slug: 2004-uss-nimitz-uap-encounter
+    shared_claims: 3
+  - node_id: b2f9fdfa-2065-4dc6-ba0f-379f778cb4f9
+    title: Australia, Victoria, Westall High School
+    node_type: place
+    slug: victoria-westall-high-school-australia
+    shared_claims: 3
+  - node_id: 24d00311-06ac-46a1-a2f5-c99f3f8e21b2
+    title: Chris Ramsay
+    node_type: person
+    slug: chris-ramsay
+    shared_claims: 1
+  - node_id: d737ef1a-34ac-41fc-b1c6-9d0c7dd87d03
+    title: Royal Australian Air Force
+    node_type: organisation
+    slug: royal-australian-air-force
+    shared_claims: 1
+claims:
+  - claim_id: a976f236-77d2-40b1-8510-68332f9e6139
+    claim_hash: 304400401023a550be5a9fd75b7ba66c20cdba66f2f01e1eb6c1553a87c3112b
+    content: Teacher Andrew Greenwood confirmed he saw a silvery-green disc during the Westall school incident on 6 April
+      1966.
+    original_excerpt: Teacher Andrew Greenwood later confirmed he too saw a silvery-green disc.
+    claim_type: testimony
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: named
+      origin: Andrew Greenwood
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 2a52d4e0-c8a1-49c6-a01d-8d37d6e69887
+        title: Andrew Greenwood
+        slug: andrew-greenwood
+      - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
+        title: 2004 USS Nimitz UAP encounter
+        slug: 2004-uss-nimitz-uap-encounter
+    date: '1966-04-06'
+    date_end: null
+    location_in_record: ch10:12156-12224
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 89a2094f-504c-441b-b0d7-e409d6b3934f
+    claim_hash: d33aa629ee4d1988863f032059b09e6700bbf13e7b44aa6a5fe8c8a487829ff3
+    content: Teacher Andrew Greenwood said two government agents knocked on his door the night of the Westall incident and
+      warned him not to speak about what he saw.
+    original_excerpt: Teacher Andrew Greenwood says two government agents even knocked on his door that night and warned him
+      not to speak about what he saw.
+    claim_type: testimony
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: named
+      origin: Andrew Greenwood
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 2a52d4e0-c8a1-49c6-a01d-8d37d6e69887
+        title: Andrew Greenwood
+        slug: andrew-greenwood
+      - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
+        title: 2004 USS Nimitz UAP encounter
+        slug: 2004-uss-nimitz-uap-encounter
+    date: '1966-04-06'
+    date_end: null
+    location_in_record: ch10:15322-15452
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: b7f8db86-b364-4196-b2be-470736cce791
+    claim_hash: 24baf08be0f49f36d295a0e80afe05d396cc9b7eddbcd03b929173c263cbdd84
+    content: Andrew Greenwood says the newspaper article about the Westall sighting led to a subsequent visit to his home
+      by government and military officials, who threatened him to keep quiet about what he saw.
+    original_excerpt: Greenwood says the article led to the subsequent visit to his home by government and military officials,
+      and threats for him to keep quiet about what he saw.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 2a52d4e0-c8a1-49c6-a01d-8d37d6e69887
+      title: Andrew Greenwood
+    provenance_chain:
+      origin_kind: speaker
+      origin: Andrew Greenwood
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 2a52d4e0-c8a1-49c6-a01d-8d37d6e69887
+        title: Andrew Greenwood
+        slug: andrew-greenwood
+      - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
+        title: 2004 USS Nimitz UAP encounter
+        slug: 2004-uss-nimitz-uap-encounter
+    date: null
+    date_end: null
+    location_in_record: ch37:2497-2650
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: fc635016-c029-4745-b101-2a5ca8a68b75
+    claim_hash: 6a639bdca9ea0155149d10f6b924babdee7cd0535ce1d15e603a716b2263ef54
+    content: Andrew Greenwood was the science teacher present on the quadrangle with the pupils at Westall High School during
+      the 1966 Westall Unidentified Flying Object (UFO) incident.
+    original_excerpt: he was the teacher, the science teacher who had been on the quadrangle with these kids
+    claim_type: administrative
+    attestation: first_hand
+    speaker:
+      node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+      title: Ross Coulthart
+    provenance_chain:
+      origin_kind: speaker
+      origin: Ross Coulthart
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 2a52d4e0-c8a1-49c6-a01d-8d37d6e69887
+        title: Andrew Greenwood
+        slug: andrew-greenwood
+      - node_id: b2f9fdfa-2065-4dc6-ba0f-379f778cb4f9
+        title: Australia, Victoria, Westall High School
+        slug: victoria-westall-high-school-australia
+      - node_id: e10d037b-b94e-464e-9d35-8d193a99891b
+        title: 1966 Westall Unidentified Flying Object (UFO) incident
+        slug: 1966-westall-unidentified-flying-object-ufo-incident
+    date: '1966-04-06'
+    date_end: null
+    location_in_record: 00:24:58.7-00:25:03.7
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: fd845823-8784-462c-a981-4775525b6f84
+      record_title: The DANGEROUS Truth About UFOs - Ross Coulthart | DEBRIEFED ep. 76
+      record_date: '2026-02-20'
+      record_reference: https://www.youtube.com/watch?v=idBryc0eWww
+      content_hash: sha256:73be106d406f6d35a063a894e8384e7da0918eb8597d2107a9e3653becca2bdc
+      friendly_name: null
+  - claim_id: 44c1f680-65de-4efc-b63c-d1e2d71c9b01
+    claim_hash: d07f9f6c9b218b2d007602bec467140f4c084ef4afeedfefdf9fb4df6b526550
+    content: During the 1966 Westall Unidentified Flying Object (UFO) incident on 1966-04-06, between one and three objects
+      hovered over the Westall High School playground, with witness accounts differing on the number.
+    original_excerpt: on the 6th of April, 1966, they looked up over the field and there were either two or three or maybe
+      one, nobody's quite sure, there are differing witness accounts, one to three objects hovering over the school playground
+    claim_type: observation
+    attestation: second_hand
+    speaker:
+      node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+      title: Ross Coulthart
+    provenance_chain:
+      origin_kind: named
+      origin: Andrew Greenwood and other Westall witnesses
+      relay:
+        - Ross Coulthart
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 2a52d4e0-c8a1-49c6-a01d-8d37d6e69887
+        title: Andrew Greenwood
+        slug: andrew-greenwood
+      - node_id: b2f9fdfa-2065-4dc6-ba0f-379f778cb4f9
+        title: Australia, Victoria, Westall High School
+        slug: victoria-westall-high-school-australia
+      - node_id: e10d037b-b94e-464e-9d35-8d193a99891b
+        title: 1966 Westall Unidentified Flying Object (UFO) incident
+        slug: 1966-westall-unidentified-flying-object-ufo-incident
+    date: '1966-04-06'
+    date_end: null
+    location_in_record: 00:25:05.2-00:25:21.7
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: fd845823-8784-462c-a981-4775525b6f84
+      record_title: The DANGEROUS Truth About UFOs - Ross Coulthart | DEBRIEFED ep. 76
+      record_date: '2026-02-20'
+      record_reference: https://www.youtube.com/watch?v=idBryc0eWww
+      content_hash: sha256:73be106d406f6d35a063a894e8384e7da0918eb8597d2107a9e3653becca2bdc
+      friendly_name: null
+  - claim_id: 879eed16-9bfe-4b31-98e8-d32970c70d97
+    claim_hash: 74bbe0f27509829c12347f64f648853c6bc0934e7a6128148cbd57bcb8796ab1
+    content: Andrew Greenwood was a science teacher at the school involved in the 1966 Westall UFO incident.
+    original_excerpt: Andrew Greenwood the science teacher
+    claim_type: administrative
+    attestation: first_hand
+    speaker:
+      node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+      title: Ross Coulthart
+    provenance_chain:
+      origin_kind: speaker
+      origin: Ross Coulthart
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 2a52d4e0-c8a1-49c6-a01d-8d37d6e69887
+        title: Andrew Greenwood
+        slug: andrew-greenwood
+      - node_id: b2f9fdfa-2065-4dc6-ba0f-379f778cb4f9
+        title: Australia, Victoria, Westall High School
+        slug: victoria-westall-high-school-australia
+      - node_id: e10d037b-b94e-464e-9d35-8d193a99891b
+        title: 1966 Westall Unidentified Flying Object (UFO) incident
+        slug: 1966-westall-unidentified-flying-object-ufo-incident
+    date: null
+    date_end: null
+    location_in_record: 00:26:36.4-00:26:38.2
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: fd845823-8784-462c-a981-4775525b6f84
+      record_title: The DANGEROUS Truth About UFOs - Ross Coulthart | DEBRIEFED ep. 76
+      record_date: '2026-02-20'
+      record_reference: https://www.youtube.com/watch?v=idBryc0eWww
+      content_hash: sha256:73be106d406f6d35a063a894e8384e7da0918eb8597d2107a9e3653becca2bdc
+      friendly_name: null
+  - claim_id: a7250fac-0b0a-4969-9f80-3e88f2ed9dc2
+    claim_hash: 305fde2675ec701e47def81cf26f589096858401da9bd61efd1244207084632f
+    content: Andrew Greenwood spoke publicly to a local suburban newspaper about what he saw during the 1966 Westall UFO incident,
+      and his quotes remain available in newspaper archives today.
+    original_excerpt: Andrew Greenwood the science teacher speaks publicly to a local newspaper a local tabloid not tabloid
+      a local suburban newspaper and he says you know i'm sure about what i saw and there's the quotes of what he said in
+      the newspaper are still available in the archives today
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+      title: Ross Coulthart
+    provenance_chain:
+      origin_kind: speaker
+      origin: Ross Coulthart
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 2a52d4e0-c8a1-49c6-a01d-8d37d6e69887
+        title: Andrew Greenwood
+        slug: andrew-greenwood
+      - node_id: e10d037b-b94e-464e-9d35-8d193a99891b
+        title: 1966 Westall Unidentified Flying Object (UFO) incident
+        slug: 1966-westall-unidentified-flying-object-ufo-incident
+      - node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+        title: Ross Coulthart
+        slug: ross-coulthart
+    date: null
+    date_end: null
+    location_in_record: 00:26:36.4-00:26:53.3
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: fd845823-8784-462c-a981-4775525b6f84
+      record_title: The DANGEROUS Truth About UFOs - Ross Coulthart | DEBRIEFED ep. 76
+      record_date: '2026-02-20'
+      record_reference: https://www.youtube.com/watch?v=idBryc0eWww
+      content_hash: sha256:73be106d406f6d35a063a894e8384e7da0918eb8597d2107a9e3653becca2bdc
+      friendly_name: null
+  - claim_id: 4e69f9ed-3ec8-42c1-b7f2-5acd8420f0d3
+    claim_hash: a2612efa3da448fb258dd543da4f81b1ca18f39a87a99955db635a07255596ac
+    content: Andrew Greenwood received a late-night knock at his door from one man in Royal Australian Air Force uniform and
+      another man in civilian clothes after speaking publicly about the 1966 Westall UFO incident.
+    original_excerpt: He opens the door and there's one man in Air Force uniform, Australian Air Force uniform, and there's
+      another man in civilian clothes.
+    claim_type: testimony
+    attestation: second_hand
+    speaker:
+      node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+      title: Ross Coulthart
+    provenance_chain:
+      origin_kind: named
+      origin: Andrew Greenwood
+      relay:
+        - Ross Coulthart interview with Andrew Greenwood
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 2a52d4e0-c8a1-49c6-a01d-8d37d6e69887
+        title: Andrew Greenwood
+        slug: andrew-greenwood
+      - node_id: d737ef1a-34ac-41fc-b1c6-9d0c7dd87d03
+        title: Royal Australian Air Force
+        slug: royal-australian-air-force
+      - node_id: e10d037b-b94e-464e-9d35-8d193a99891b
+        title: 1966 Westall Unidentified Flying Object (UFO) incident
+        slug: 1966-westall-unidentified-flying-object-ufo-incident
+      - node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+        title: Ross Coulthart
+        slug: ross-coulthart
+    date: null
+    date_end: null
+    location_in_record: 00:27:02.1-00:27:09.2
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: fd845823-8784-462c-a981-4775525b6f84
+      record_title: The DANGEROUS Truth About UFOs - Ross Coulthart | DEBRIEFED ep. 76
+      record_date: '2026-02-20'
+      record_reference: https://www.youtube.com/watch?v=idBryc0eWww
+      content_hash: sha256:73be106d406f6d35a063a894e8384e7da0918eb8597d2107a9e3653becca2bdc
+      friendly_name: null
+  - claim_id: 30beca43-7593-407e-abec-742bc38a68bc
+    claim_hash: f0db3b143c6b285211d449766963a87e95709660bf4c1942dbd264f3088419f1
+    content: Andrew Greenwood was angry about being threatened over his account of the 1966 Westall UFO incident.
+    original_excerpt: And he was angry about this, really angry.
+    claim_type: testimony
+    attestation: second_hand
+    speaker:
+      node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+      title: Ross Coulthart
+    provenance_chain:
+      origin_kind: named
+      origin: Andrew Greenwood
+      relay:
+        - Ross Coulthart interview with Andrew Greenwood
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 2a52d4e0-c8a1-49c6-a01d-8d37d6e69887
+        title: Andrew Greenwood
+        slug: andrew-greenwood
+      - node_id: e10d037b-b94e-464e-9d35-8d193a99891b
+        title: 1966 Westall Unidentified Flying Object (UFO) incident
+        slug: 1966-westall-unidentified-flying-object-ufo-incident
+    date: null
+    date_end: null
+    location_in_record: 00:27:13.3-00:27:15.6
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: fd845823-8784-462c-a981-4775525b6f84
+      record_title: The DANGEROUS Truth About UFOs - Ross Coulthart | DEBRIEFED ep. 76
+      record_date: '2026-02-20'
+      record_reference: https://www.youtube.com/watch?v=idBryc0eWww
+      content_hash: sha256:73be106d406f6d35a063a894e8384e7da0918eb8597d2107a9e3653becca2bdc
+      friendly_name: null
+  - claim_id: e41769e6-12da-4032-8580-63e63ed6b0a1
+    claim_hash: 2b20cbb8a8e00485314fc3d2565b9ec31e902b34cc961e86134b1a409d148a41
+    content: Andrew Greenwood said the two men who visited his home threatened that if he did not stop talking about what
+      he had seen at Westall they would spread a story that he was an alcoholic and he would lose his teaching job.
+    original_excerpt: They threatened him that if he didn't shut up talking about what he'd seen, they would put around a
+      story that he was an alcoholic and he would lose his job as a teacher.
+    claim_type: testimony
+    attestation: second_hand
+    speaker:
+      node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+      title: Ross Coulthart
+    provenance_chain:
+      origin_kind: named
+      origin: Andrew Greenwood
+      relay:
+        - Ross Coulthart interview with Andrew Greenwood
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 2a52d4e0-c8a1-49c6-a01d-8d37d6e69887
+        title: Andrew Greenwood
+        slug: andrew-greenwood
+      - node_id: e10d037b-b94e-464e-9d35-8d193a99891b
+        title: 1966 Westall Unidentified Flying Object (UFO) incident
+        slug: 1966-westall-unidentified-flying-object-ufo-incident
+      - node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+        title: Ross Coulthart
+        slug: ross-coulthart
+    date: null
+    date_end: null
+    location_in_record: 00:27:16.5-00:27:26.0
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: fd845823-8784-462c-a981-4775525b6f84
+      record_title: The DANGEROUS Truth About UFOs - Ross Coulthart | DEBRIEFED ep. 76
+      record_date: '2026-02-20'
+      record_reference: https://www.youtube.com/watch?v=idBryc0eWww
+      content_hash: sha256:73be106d406f6d35a063a894e8384e7da0918eb8597d2107a9e3653becca2bdc
+      friendly_name: null
+  - claim_id: e1cdd081-2e68-4044-92cc-879f042ee08e
+    claim_hash: c6583a9d8e5976d8ed17dc211445da8d8d2ff3d1c583e60168e18965ce8b6b9c
+    content: Andrew Greenwood did not talk publicly about the 1966 Westall UFO incident for most of the following 40 to 50
+      years because of the threat made to him.
+    original_excerpt: And that's why he didn't talk about it for most of the last 40, 50 years.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+      title: Ross Coulthart
+    provenance_chain:
+      origin_kind: speaker
+      origin: Ross Coulthart
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 2a52d4e0-c8a1-49c6-a01d-8d37d6e69887
+        title: Andrew Greenwood
+        slug: andrew-greenwood
+      - node_id: e10d037b-b94e-464e-9d35-8d193a99891b
+        title: 1966 Westall Unidentified Flying Object (UFO) incident
+        slug: 1966-westall-unidentified-flying-object-ufo-incident
+    date: null
+    date_end: null
+    location_in_record: 00:27:27.4-00:27:33.4
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: fd845823-8784-462c-a981-4775525b6f84
+      record_title: The DANGEROUS Truth About UFOs - Ross Coulthart | DEBRIEFED ep. 76
+      record_date: '2026-02-20'
+      record_reference: https://www.youtube.com/watch?v=idBryc0eWww
+      content_hash: sha256:73be106d406f6d35a063a894e8384e7da0918eb8597d2107a9e3653becca2bdc
+      friendly_name: null
+  - claim_id: 5728b7a8-e7b4-4dc0-95a6-6962be473e11
+    claim_hash: 648be01d6bfe8a9544b4e81ce5e6746ee6bff34e93793fa9e6dcec77b872a73a
+    content: Andrew Greenwood was not an alcoholic.
+    original_excerpt: 'Chris Ramsay: Was he an alcoholic? Did he drink? Ross Coulthart: No. Not at all? No. Well, he probably
+      had a glass of wine at Christmas time. ... No, he wasn''t an alcoholic.'
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+      title: Ross Coulthart
+    provenance_chain:
+      origin_kind: speaker
+      origin: Ross Coulthart
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 24d00311-06ac-46a1-a2f5-c99f3f8e21b2
+        title: Chris Ramsay
+        slug: chris-ramsay
+      - node_id: 2a52d4e0-c8a1-49c6-a01d-8d37d6e69887
+        title: Andrew Greenwood
+        slug: andrew-greenwood
+      - node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+        title: Ross Coulthart
+        slug: ross-coulthart
+    date: null
+    date_end: null
+    location_in_record: 00:27:35.7-00:27:41.8
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: fd845823-8784-462c-a981-4775525b6f84
+      record_title: The DANGEROUS Truth About UFOs - Ross Coulthart | DEBRIEFED ep. 76
+      record_date: '2026-02-20'
+      record_reference: https://www.youtube.com/watch?v=idBryc0eWww
+      content_hash: sha256:73be106d406f6d35a063a894e8384e7da0918eb8597d2107a9e3653becca2bdc
+      friendly_name: null
+  - claim_id: 4f5340bd-34a1-4bbb-bb54-08a89a76f0bf
+    claim_hash: eb487b94df1c31c1950b1f6c9fa4d7480b8069c9f6ca57d3e6a3ceee9e211562
+    content: Ross Coulthart considers Andrew Greenwood to have been a decent and honourable man.
+    original_excerpt: He was a really decent, honorable man.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+      title: Ross Coulthart
+    provenance_chain:
+      origin_kind: speaker
+      origin: Ross Coulthart
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 2a52d4e0-c8a1-49c6-a01d-8d37d6e69887
+        title: Andrew Greenwood
+        slug: andrew-greenwood
+      - node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+        title: Ross Coulthart
+        slug: ross-coulthart
+    date: null
+    date_end: null
+    location_in_record: 00:27:42.8-00:27:44.8
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: fd845823-8784-462c-a981-4775525b6f84
+      record_title: The DANGEROUS Truth About UFOs - Ross Coulthart | DEBRIEFED ep. 76
+      record_date: '2026-02-20'
+      record_reference: https://www.youtube.com/watch?v=idBryc0eWww
+      content_hash: sha256:73be106d406f6d35a063a894e8384e7da0918eb8597d2107a9e3653becca2bdc
+      friendly_name: null
+  - claim_id: 2a7127f3-053b-4b74-b7d2-38dc14093125
+    claim_hash: 783b811f5af6385243770f14e45afe61b88b8fc5916b3bd3c676d799ae30137c
+    content: Andrew Greenwood has died.
+    original_excerpt: Sadly, he's passed away as well.
+    claim_type: administrative
+    attestation: first_hand
+    speaker:
+      node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+      title: Ross Coulthart
+    provenance_chain:
+      origin_kind: speaker
+      origin: Ross Coulthart
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 2a52d4e0-c8a1-49c6-a01d-8d37d6e69887
+        title: Andrew Greenwood
+        slug: andrew-greenwood
+    date: null
+    date_end: null
+    location_in_record: 00:27:45.8-00:27:47.1
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: fd845823-8784-462c-a981-4775525b6f84
+      record_title: The DANGEROUS Truth About UFOs - Ross Coulthart | DEBRIEFED ep. 76
+      record_date: '2026-02-20'
+      record_reference: https://www.youtube.com/watch?v=idBryc0eWww
+      content_hash: sha256:73be106d406f6d35a063a894e8384e7da0918eb8597d2107a9e3653becca2bdc
+      friendly_name: null
+  - claim_id: cc476926-fbf0-4139-8029-a22acf0efd6c
+    claim_hash: 6795be5fbbbcde7316cdf440977df91a23680051099c1e2ec815f72568f25a60
+    content: Andrew Greenwood described what he saw at Westall as a metallic-coloured elliptical-shaped object.
+    original_excerpt: he said whatever it was it was some kind of metallic colored elliptical shaped object
+    claim_type: observation
+    attestation: second_hand
+    speaker:
+      node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+      title: Ross Coulthart
+    provenance_chain:
+      origin_kind: named
+      origin: Andrew Greenwood
+      relay:
+        - Ross Coulthart interview with Andrew Greenwood
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 2a52d4e0-c8a1-49c6-a01d-8d37d6e69887
+        title: Andrew Greenwood
+        slug: andrew-greenwood
+      - node_id: e10d037b-b94e-464e-9d35-8d193a99891b
+        title: 1966 Westall Unidentified Flying Object (UFO) incident
+        slug: 1966-westall-unidentified-flying-object-ufo-incident
+    date: null
+    date_end: null
+    location_in_record: 00:28:04.3-00:28:09.4
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: fd845823-8784-462c-a981-4775525b6f84
+      record_title: The DANGEROUS Truth About UFOs - Ross Coulthart | DEBRIEFED ep. 76
+      record_date: '2026-02-20'
+      record_reference: https://www.youtube.com/watch?v=idBryc0eWww
+      content_hash: sha256:73be106d406f6d35a063a894e8384e7da0918eb8597d2107a9e3653becca2bdc
+      friendly_name: null
+  - claim_id: 92f27390-4e86-4427-b607-346339062064
+    claim_hash: ec6d854c36e2cdb90f126e9285945b895024077796d388973aa1ea47911ddfaf
+    content: Andrew Greenwood would not say the object he saw at Westall was solid because he had not touched it.
+    original_excerpt: he couldn't say that it was solid because he didn't touch it
+    claim_type: testimony
+    attestation: second_hand
+    speaker:
+      node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+      title: Ross Coulthart
+    provenance_chain:
+      origin_kind: named
+      origin: Andrew Greenwood
+      relay:
+        - Ross Coulthart interview with Andrew Greenwood
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 2a52d4e0-c8a1-49c6-a01d-8d37d6e69887
+        title: Andrew Greenwood
+        slug: andrew-greenwood
+      - node_id: e10d037b-b94e-464e-9d35-8d193a99891b
+        title: 1966 Westall Unidentified Flying Object (UFO) incident
+        slug: 1966-westall-unidentified-flying-object-ufo-incident
+    date: null
+    date_end: null
+    location_in_record: 00:28:10.3-00:28:12.6
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: fd845823-8784-462c-a981-4775525b6f84
+      record_title: The DANGEROUS Truth About UFOs - Ross Coulthart | DEBRIEFED ep. 76
+      record_date: '2026-02-20'
+      record_reference: https://www.youtube.com/watch?v=idBryc0eWww
+      content_hash: sha256:73be106d406f6d35a063a894e8384e7da0918eb8597d2107a9e3653becca2bdc
+      friendly_name: null
+  - claim_id: a24b2617-b6a2-434d-83d6-20353a88c435
+    claim_hash: 3aeb4c7da17fda041f7c255ccab873a85bc6337ed63f30dd61bf84f96fadd55e
+    content: Andrew Greenwood believed the person who threatened him over the 1966 Westall UFO incident was from either the
+      military or an intelligence agency.
+    original_excerpt: he had been threatened by somebody from what he believed was either military or an intelligence agency
+    claim_type: testimony
+    attestation: second_hand
+    speaker:
+      node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+      title: Ross Coulthart
+    provenance_chain:
+      origin_kind: named
+      origin: Andrew Greenwood
+      relay:
+        - Ross Coulthart interview with Andrew Greenwood
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 2a52d4e0-c8a1-49c6-a01d-8d37d6e69887
+        title: Andrew Greenwood
+        slug: andrew-greenwood
+      - node_id: e10d037b-b94e-464e-9d35-8d193a99891b
+        title: 1966 Westall Unidentified Flying Object (UFO) incident
+        slug: 1966-westall-unidentified-flying-object-ufo-incident
+    date: null
+    date_end: null
+    location_in_record: 00:30:40.4-00:30:46.6
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: fd845823-8784-462c-a981-4775525b6f84
+      record_title: The DANGEROUS Truth About UFOs - Ross Coulthart | DEBRIEFED ep. 76
+      record_date: '2026-02-20'
+      record_reference: https://www.youtube.com/watch?v=idBryc0eWww
+      content_hash: sha256:73be106d406f6d35a063a894e8384e7da0918eb8597d2107a9e3653becca2bdc
+      friendly_name: null

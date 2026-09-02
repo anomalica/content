@@ -1,0 +1,228 @@
+schema: anomalica/brief/1
+brief_hash: 2bb716cadcedb675f2f3457323040c1c1cd6ca67eaab4917e0ef36d4bb54c07d
+page:
+  kind: entity
+  node_id: de4613fa-3a05-4a97-b175-89376dd73386
+  node_type: person
+  title: Arthur Koestler
+  slug: arthur-koestler
+  claim_count: 5
+  claim_count_total: 5
+generated:
+  graph_version: '2026-09-01T10:10:49.863545+00:00'
+size:
+  claims: 5
+  tokens_estimated: 1411
+  sized_against: 1050000
+publication:
+  status: published
+  note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
+    transcripts are gated elsewhere.
+belonging:
+  verified: 0
+  suspect_excluded: 0
+  unreviewed: 5
+related_nodes:
+  - node_id: 5b3883ab-561a-4760-9538-10071fe10193
+    title: triune brain theory
+    node_type: topic
+    slug: triune-brain-theory
+    shared_claims: 3
+  - node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
+    title: Jacques Vallée
+    node_type: person
+    slug: jacques-vallee
+    shared_claims: 1
+  - node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+    title: Ross Coulthart
+    node_type: person
+    slug: ross-coulthart
+    shared_claims: 1
+claims:
+  - claim_id: fba5189c-c157-49e5-9575-b58b4db8da4d
+    claim_hash: 4550cc342d4f301a4f6d5a57a175ce602c133a9213542a2b235d4255b55c46dc
+    content: Arthur Koestler remarked to Jacques Vallée, in a letter, that contactee stories left him with the same feeling
+      as listening to a bad dirty joke.
+    original_excerpt: Arthur Koestler has remarked, in a letter to me, that contactee stories left him with the same feeling
+      as listening to a bad dirty joke.
+    claim_type: opinion
+    attestation: second_hand
+    speaker:
+      node_id: de4613fa-3a05-4a97-b175-89376dd73386
+      title: Arthur Koestler
+    provenance_chain:
+      origin_kind: named
+      origin: Arthur Koestler
+      relay:
+        - a letter to Jacques Vallée
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
+        title: Jacques Vallée
+        slug: jacques-vallee
+      - node_id: de4613fa-3a05-4a97-b175-89376dd73386
+        title: Arthur Koestler
+        slug: arthur-koestler
+    date: null
+    date_end: null
+    location_in_record: ch13:46772-46903
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: f0690aba-c78b-47f4-bb2f-f94ea04d55ee
+      record_title: 'Messengers of Deception: UFO Contacts and Cults'
+      record_date: '0101-01-01'
+      record_reference: null
+      content_hash: sha256:0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5ac9fd3168
+      friendly_name: 0101-01-01-ebook-messengers-of-deception-ufo-contacts-and-cults
+  - claim_id: 19a1826d-b44c-4428-aa46-5f4b99ee6214
+    claim_hash: bf1670c94be5cd75b3133d61e1361e6508bd9c7bf899cc647c2a227d67ed012e
+    content: Arthur Koestler was a German philosopher.
+    original_excerpt: He was a German philosopher, and he wrote a book
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+      title: Ross Coulthart
+    provenance_chain:
+      origin_kind: speaker
+      origin: Ross Coulthart
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: de4613fa-3a05-4a97-b175-89376dd73386
+        title: Arthur Koestler
+        slug: arthur-koestler
+    date: null
+    date_end: null
+    location_in_record: 02:52:28.4-02:52:30.1
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: fd845823-8784-462c-a981-4775525b6f84
+      record_title: The DANGEROUS Truth About UFOs - Ross Coulthart | DEBRIEFED ep. 76
+      record_date: '2026-02-20'
+      record_reference: https://www.youtube.com/watch?v=idBryc0eWww
+      content_hash: sha256:73be106d406f6d35a063a894e8384e7da0918eb8597d2107a9e3653becca2bdc
+      friendly_name: null
+  - claim_id: e4ce5d82-8c34-463a-84f7-40e40f77a010
+    claim_hash: 593ee44ef08d388b425523604424ba3199a035e041bfb8d06447b733e3b8a819
+    content: 'Arthur Koestler wrote a book arguing that a fault is built into the human being: an older reptilian brain with
+      a more advanced hominid forebrain, the neocortex, built onto the front of it.'
+    original_excerpt: he wrote a book about how there's essentially a fault built into the human being, that we are essentially
+      a reptilian brain and a more advanced hominid brain, a forebrain that's been built onto the front of that reptilian
+      brain, the neocortex.
+    claim_type: testimony
+    attestation: second_hand
+    speaker:
+      node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+      title: Ross Coulthart
+    provenance_chain:
+      origin_kind: named
+      origin: Arthur Koestler
+      relay:
+        - Ross Coulthart
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 5b3883ab-561a-4760-9538-10071fe10193
+        title: triune brain theory
+        slug: triune-brain-theory
+      - node_id: de4613fa-3a05-4a97-b175-89376dd73386
+        title: Arthur Koestler
+        slug: arthur-koestler
+    date: null
+    date_end: null
+    location_in_record: 02:52:29.7-02:52:43.8
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: fd845823-8784-462c-a981-4775525b6f84
+      record_title: The DANGEROUS Truth About UFOs - Ross Coulthart | DEBRIEFED ep. 76
+      record_date: '2026-02-20'
+      record_reference: https://www.youtube.com/watch?v=idBryc0eWww
+      content_hash: sha256:73be106d406f6d35a063a894e8384e7da0918eb8597d2107a9e3653becca2bdc
+      friendly_name: null
+  - claim_id: 5a00e8c6-b8e2-43aa-b3f3-15ad2a8ed00a
+    claim_hash: 2f62d4f059bd406303d80509660e56d4a457a80343023db9fcdbba36be448b3f
+    content: Arthur Koestler theorised an incompatibility between the impulsive, emotional older reptilian brain and the newer
+      human neocortex.
+    original_excerpt: he theorized that there's this incompatibility between that old reptilian brain, which is very impulsive
+      and emotional, and this newer human neocortex.
+    claim_type: testimony
+    attestation: second_hand
+    speaker:
+      node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+      title: Ross Coulthart
+    provenance_chain:
+      origin_kind: named
+      origin: Arthur Koestler
+      relay:
+        - Ross Coulthart
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 5b3883ab-561a-4760-9538-10071fe10193
+        title: triune brain theory
+        slug: triune-brain-theory
+      - node_id: de4613fa-3a05-4a97-b175-89376dd73386
+        title: Arthur Koestler
+        slug: arthur-koestler
+    date: null
+    date_end: null
+    location_in_record: 02:52:46.7-02:52:55.6
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: fd845823-8784-462c-a981-4775525b6f84
+      record_title: The DANGEROUS Truth About UFOs - Ross Coulthart | DEBRIEFED ep. 76
+      record_date: '2026-02-20'
+      record_reference: https://www.youtube.com/watch?v=idBryc0eWww
+      content_hash: sha256:73be106d406f6d35a063a894e8384e7da0918eb8597d2107a9e3653becca2bdc
+      friendly_name: null
+  - claim_id: eaa68219-85d6-41f1-aa26-5b11aa8d9c6c
+    claim_hash: 8c82d56cd1379c6af7e605a339038d2966dd58d3b63e56faa590ed594828a4f6
+    content: After reading Arthur Koestler as a child, Ross Coulthart read the biology on the subject and concluded that humans
+      retain a relic of their reptilian ancestors.
+    original_excerpt: And then going reading the biology about it and the fact that, yeah, we do. We've got a relic of our
+      reptilian ancestors in our body.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+      title: Ross Coulthart
+    provenance_chain:
+      origin_kind: speaker
+      origin: Ross Coulthart
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 5b3883ab-561a-4760-9538-10071fe10193
+        title: triune brain theory
+        slug: triune-brain-theory
+      - node_id: de4613fa-3a05-4a97-b175-89376dd73386
+        title: Arthur Koestler
+        slug: arthur-koestler
+      - node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+        title: Ross Coulthart
+        slug: ross-coulthart
+    date: null
+    date_end: null
+    location_in_record: 02:53:00.8-02:53:08.0
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: fd845823-8784-462c-a981-4775525b6f84
+      record_title: The DANGEROUS Truth About UFOs - Ross Coulthart | DEBRIEFED ep. 76
+      record_date: '2026-02-20'
+      record_reference: https://www.youtube.com/watch?v=idBryc0eWww
+      content_hash: sha256:73be106d406f6d35a063a894e8384e7da0918eb8597d2107a9e3653becca2bdc
+      friendly_name: null

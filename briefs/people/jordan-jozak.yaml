@@ -1,0 +1,820 @@
+schema: anomalica/brief/1
+brief_hash: 5e341bd12fd7e1f778a6115d5d74dd7f0c6dd10191caccad702683995e24d1f6
+page:
+  kind: entity
+  node_id: 239d0c42-c4e3-4325-82a2-50c20b2c3412
+  node_type: person
+  title: Jordan Jozak
+  slug: jordan-jozak
+  claim_count: 17
+  claim_count_total: 17
+generated:
+  graph_version: '2026-09-01T10:10:49.863545+00:00'
+size:
+  claims: 17
+  tokens_estimated: 5127
+  sized_against: 1050000
+publication:
+  status: published
+  note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
+    transcripts are gated elsewhere.
+belonging:
+  verified: 0
+  suspect_excluded: 0
+  unreviewed: 17
+related_nodes:
+  - node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+    title: Ross Coulthart
+    node_type: person
+    slug: ross-coulthart
+    shared_claims: 9
+  - node_id: 0c15657f-8c99-43ad-8912-d2841ba0634f
+    title: Esalen Institute Skywatcher psionic inviting demonstration
+    node_type: event
+    slug: esalen-institute-skywatcher-psionic-inviting-demonstration
+    shared_claims: 8
+  - node_id: 59e5adca-0786-4ef8-ad50-674371180a4a
+    title: psionics
+    node_type: topic
+    slug: psionics
+    shared_claims: 8
+  - node_id: d0e1ccf0-977b-4550-be92-02d4075be4ae
+    title: Skywatcher
+    node_type: organisation
+    slug: skywatcher
+    shared_claims: 5
+  - node_id: 6a174ff1-da8e-4674-8b4a-6b62b2182ec5
+    title: Esalen blue hexagonal orb photographs
+    node_type: document
+    slug: esalen-blue-hexagonal-orb-photographs
+    shared_claims: 4
+  - node_id: 55180311-d8bf-4d7a-ad49-c4364880b38f
+    title: Esalen Institute
+    node_type: organisation
+    slug: esalen-institute
+    shared_claims: 3
+  - node_id: 8b6e0178-0856-47b3-a14a-780d2bb8b63d
+    title: Alex Klokus
+    node_type: person
+    slug: alex-klokus
+    shared_claims: 2
+  - node_id: d4241f5a-1063-4970-ba02-5a391c02d96d
+    title: David Charles Grusch
+    node_type: person
+    slug: david-charles-grusch
+    shared_claims: 2
+  - node_id: a0bc0de8-1d81-44e5-96a7-30706ccc34a4
+    title: Jake Barber
+    node_type: person
+    slug: jake-barber
+    shared_claims: 2
+  - node_id: 24d00311-06ac-46a1-a2f5-c99f3f8e21b2
+    title: Chris Ramsay
+    node_type: person
+    slug: chris-ramsay
+    shared_claims: 1
+  - node_id: ad56db74-fbe1-4ef6-85e0-4af6c018aa7a
+    title: Confirmation bias
+    node_type: topic
+    slug: confirmation-bias
+    shared_claims: 1
+  - node_id: 0eb69efb-d775-47f2-a440-4c9874cbf3b8
+    title: Hypnotic regression
+    node_type: topic
+    slug: hypnotic-regression
+    shared_claims: 1
+  - node_id: 8d3ca113-3f28-4808-998e-34d2837332a5
+    title: Julia Mossbridge
+    node_type: person
+    slug: julia-mossbridge
+    shared_claims: 1
+  - node_id: 8b0155a9-fabc-4b8d-9ee9-45eac58dbf2e
+    title: Out-of-Body Experience (OBE)
+    node_type: topic
+    slug: out-of-body-experience-obe
+    shared_claims: 1
+  - node_id: 41c9281c-4a11-4399-b324-a8486a96c766
+    title: Remote Viewing (RV)
+    node_type: topic
+    slug: remote-viewing-rv
+    shared_claims: 1
+claims:
+  - claim_id: 8c3a2066-77bf-47ab-8c65-3475ee520456
+    claim_hash: 76469b958aa45b57f7abcaf12ffb5667d5eb5f9780e0f178e65a5351793ceb4b
+    content: At about 22:30 during the Esalen Institute Skywatcher psionic inviting demonstration, Jordan Jozak put a blindfold
+      over his eyes and within a few seconds said he was engaged and that he was in a craft.
+    original_excerpt: At 10.30 at night, he puts the blindfold over his eyes and within a few seconds, he says, I'm engaged.
+      I said, what do you mean you're engaged? He says, I'm in a craft.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+      title: Ross Coulthart
+    provenance_chain:
+      origin_kind: speaker
+      origin: Ross Coulthart
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 0c15657f-8c99-43ad-8912-d2841ba0634f
+        title: Esalen Institute Skywatcher psionic inviting demonstration
+        slug: esalen-institute-skywatcher-psionic-inviting-demonstration
+      - node_id: 239d0c42-c4e3-4325-82a2-50c20b2c3412
+        title: Jordan Jozak
+        slug: jordan-jozak
+      - node_id: 59e5adca-0786-4ef8-ad50-674371180a4a
+        title: psionics
+        slug: psionics
+      - node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+        title: Ross Coulthart
+        slug: ross-coulthart
+    date: null
+    date_end: null
+    location_in_record: 00:01:46.2-00:01:54.7
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: fd845823-8784-462c-a981-4775525b6f84
+      record_title: The DANGEROUS Truth About UFOs - Ross Coulthart | DEBRIEFED ep. 76
+      record_date: '2026-02-20'
+      record_reference: https://www.youtube.com/watch?v=idBryc0eWww
+      content_hash: sha256:73be106d406f6d35a063a894e8384e7da0918eb8597d2107a9e3653becca2bdc
+      friendly_name: null
+  - claim_id: 0bacf603-6ba1-4a72-a2bc-7d017b005d3b
+    claim_hash: b864dfb84dabe32269e46b239023a561824167a7cc6f9c7424959bc03fb24bb1
+    content: Jake Barber, David Grusch and Jordan Jozak attended the Skywatcher event at the Esalen Institute.
+    original_excerpt: And Jake Barber came along as well, as did David Grusch, and so did Jordan Jozak, who ended up becoming
+      one of the psionics who was working with Skywatcher.
+    claim_type: observation
+    attestation: first_hand
+    speaker:
+      node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+      title: Ross Coulthart
+    provenance_chain:
+      origin_kind: speaker
+      origin: Ross Coulthart
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 0c15657f-8c99-43ad-8912-d2841ba0634f
+        title: Esalen Institute Skywatcher psionic inviting demonstration
+        slug: esalen-institute-skywatcher-psionic-inviting-demonstration
+      - node_id: 239d0c42-c4e3-4325-82a2-50c20b2c3412
+        title: Jordan Jozak
+        slug: jordan-jozak
+      - node_id: 55180311-d8bf-4d7a-ad49-c4364880b38f
+        title: Esalen Institute
+        slug: esalen-institute
+      - node_id: a0bc0de8-1d81-44e5-96a7-30706ccc34a4
+        title: Jake Barber
+        slug: jake-barber
+      - node_id: d0e1ccf0-977b-4550-be92-02d4075be4ae
+        title: Skywatcher
+        slug: skywatcher
+      - node_id: d4241f5a-1063-4970-ba02-5a391c02d96d
+        title: David Charles Grusch
+        slug: david-charles-grusch
+    date: null
+    date_end: null
+    location_in_record: 02:21:33.1-02:21:44.5
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: fd845823-8784-462c-a981-4775525b6f84
+      record_title: The DANGEROUS Truth About UFOs - Ross Coulthart | DEBRIEFED ep. 76
+      record_date: '2026-02-20'
+      record_reference: https://www.youtube.com/watch?v=idBryc0eWww
+      content_hash: sha256:73be106d406f6d35a063a894e8384e7da0918eb8597d2107a9e3653becca2bdc
+      friendly_name: null
+  - claim_id: 3e198584-e2d3-4f2f-a7ae-7a11d024d6e5
+    claim_hash: f860d1113f54d894626ae37984b8dc32a98278afd69b5902a7cdb2fd096d9259
+    content: Jordan Jozak became one of the psionics working with Skywatcher.
+    original_excerpt: Jordan Jozak, who ended up becoming one of the psionics who was working with Skywatcher
+    claim_type: administrative
+    attestation: null
+    speaker:
+      node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+      title: Ross Coulthart
+    provenance_chain:
+      origin_kind: unattributed
+      origin: Ross Coulthart's narration
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 239d0c42-c4e3-4325-82a2-50c20b2c3412
+        title: Jordan Jozak
+        slug: jordan-jozak
+      - node_id: 59e5adca-0786-4ef8-ad50-674371180a4a
+        title: psionics
+        slug: psionics
+      - node_id: d0e1ccf0-977b-4550-be92-02d4075be4ae
+        title: Skywatcher
+        slug: skywatcher
+    date: null
+    date_end: null
+    location_in_record: 02:21:39.6-02:21:44.5
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: fd845823-8784-462c-a981-4775525b6f84
+      record_title: The DANGEROUS Truth About UFOs - Ross Coulthart | DEBRIEFED ep. 76
+      record_date: '2026-02-20'
+      record_reference: https://www.youtube.com/watch?v=idBryc0eWww
+      content_hash: sha256:73be106d406f6d35a063a894e8384e7da0918eb8597d2107a9e3653becca2bdc
+      friendly_name: null
+  - claim_id: 38cd4dbc-ee11-42e4-9542-5e740f698b9e
+    claim_hash: 610235720f706d4dddcf50665b6251f3d6f07499adf5ada825d11140f1dde3b2
+    content: Ross Coulthart had been talking to Jordan Jozak for some time and introduced him to Jake Barber and Alex Klokus,
+      which is how Jordan Jozak came to be involved with Skywatcher.
+    original_excerpt: And I'd been talking to Jordan for quite some time, and I introduced Jordan to Jake and to Alex Klokus,
+      and that's how he became to be involved with Skywatcher.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+      title: Ross Coulthart
+    provenance_chain:
+      origin_kind: speaker
+      origin: Ross Coulthart
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 239d0c42-c4e3-4325-82a2-50c20b2c3412
+        title: Jordan Jozak
+        slug: jordan-jozak
+      - node_id: 8b6e0178-0856-47b3-a14a-780d2bb8b63d
+        title: Alex Klokus
+        slug: alex-klokus
+      - node_id: a0bc0de8-1d81-44e5-96a7-30706ccc34a4
+        title: Jake Barber
+        slug: jake-barber
+      - node_id: d0e1ccf0-977b-4550-be92-02d4075be4ae
+        title: Skywatcher
+        slug: skywatcher
+      - node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+        title: Ross Coulthart
+        slug: ross-coulthart
+    date: null
+    date_end: null
+    location_in_record: 02:21:46.0-02:21:57.8
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: fd845823-8784-462c-a981-4775525b6f84
+      record_title: The DANGEROUS Truth About UFOs - Ross Coulthart | DEBRIEFED ep. 76
+      record_date: '2026-02-20'
+      record_reference: https://www.youtube.com/watch?v=idBryc0eWww
+      content_hash: sha256:73be106d406f6d35a063a894e8384e7da0918eb8597d2107a9e3653becca2bdc
+      friendly_name: null
+  - claim_id: 6647627d-ee5d-490e-be70-35118ea85bfa
+    claim_hash: b3305d47dc6e7a5141d78d11999e9f552c33a35db6472bb0425de0d39c5334a9
+    content: The aim at the Esalen Institute event was to give Jordan Jozak the opportunity to demonstrate psionic inviting.
+    original_excerpt: What we were aspiring to do at Esalen was to give Jordan the opportunity to demonstrate psionic inviting.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+      title: Ross Coulthart
+    provenance_chain:
+      origin_kind: speaker
+      origin: Ross Coulthart
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 0c15657f-8c99-43ad-8912-d2841ba0634f
+        title: Esalen Institute Skywatcher psionic inviting demonstration
+        slug: esalen-institute-skywatcher-psionic-inviting-demonstration
+      - node_id: 239d0c42-c4e3-4325-82a2-50c20b2c3412
+        title: Jordan Jozak
+        slug: jordan-jozak
+      - node_id: 55180311-d8bf-4d7a-ad49-c4364880b38f
+        title: Esalen Institute
+        slug: esalen-institute
+      - node_id: 59e5adca-0786-4ef8-ad50-674371180a4a
+        title: psionics
+        slug: psionics
+    date: null
+    date_end: null
+    location_in_record: 02:22:01.9-02:22:10.1
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: fd845823-8784-462c-a981-4775525b6f84
+      record_title: The DANGEROUS Truth About UFOs - Ross Coulthart | DEBRIEFED ep. 76
+      record_date: '2026-02-20'
+      record_reference: https://www.youtube.com/watch?v=idBryc0eWww
+      content_hash: sha256:73be106d406f6d35a063a894e8384e7da0918eb8597d2107a9e3653becca2bdc
+      friendly_name: null
+  - claim_id: e24e0733-7477-433b-b076-928232e59801
+    claim_hash: 8547355dcc9b3943de09dcbd72b0fb54ac367e7e2a1cffb424dd38b5deab0357
+    content: At about 16:00 on the day of the evening psionic inviting session at the Esalen Institute, Jordan Jozak told
+      Ross Coulthart he had a clear image in his head of a blue hexagonal craft.
+    original_excerpt: At about four o'clock in the afternoon before the evening, when we were meant to have this inviting
+      session, Jordan came to me and just said, I've got a really clear image in my head of a blue hexagonal craft. He said,
+      it's a blue hexagon, Ross.
+    claim_type: testimony
+    attestation: second_hand
+    speaker:
+      node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+      title: Ross Coulthart
+    provenance_chain:
+      origin_kind: named
+      origin: Jordan Jozak
+      relay:
+        - spoken directly to Ross Coulthart
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 0c15657f-8c99-43ad-8912-d2841ba0634f
+        title: Esalen Institute Skywatcher psionic inviting demonstration
+        slug: esalen-institute-skywatcher-psionic-inviting-demonstration
+      - node_id: 239d0c42-c4e3-4325-82a2-50c20b2c3412
+        title: Jordan Jozak
+        slug: jordan-jozak
+      - node_id: 59e5adca-0786-4ef8-ad50-674371180a4a
+        title: psionics
+        slug: psionics
+      - node_id: 6a174ff1-da8e-4674-8b4a-6b62b2182ec5
+        title: Esalen blue hexagonal orb photographs
+        slug: esalen-blue-hexagonal-orb-photographs
+      - node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+        title: Ross Coulthart
+        slug: ross-coulthart
+    date: null
+    date_end: null
+    location_in_record: 02:22:34.4-02:22:54.5
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: fd845823-8784-462c-a981-4775525b6f84
+      record_title: The DANGEROUS Truth About UFOs - Ross Coulthart | DEBRIEFED ep. 76
+      record_date: '2026-02-20'
+      record_reference: https://www.youtube.com/watch?v=idBryc0eWww
+      content_hash: sha256:73be106d406f6d35a063a894e8384e7da0918eb8597d2107a9e3653becca2bdc
+      friendly_name: null
+  - claim_id: f4d9ee61-d5f5-40e5-b9aa-aa5d45cfe755
+    claim_hash: 402d5e6fc3b3b46a347850c8edc8e8b68cb1add5237ad0b63ddc1bd92ed26569
+    content: Jordan Jozak's statement about a blue hexagonal craft was made in front of David Grusch, Alex Klokus and a number
+      of the premier investors, in Alex Klokus's hotel room at the Esalen Institute.
+    original_excerpt: He said this in front of David Grusch, in front of Alex Klokus, and in front of a number of the premier
+      investors. We were sitting in Alex Klokus's hotel room at Esalen
+    claim_type: observation
+    attestation: first_hand
+    speaker:
+      node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+      title: Ross Coulthart
+    provenance_chain:
+      origin_kind: speaker
+      origin: Ross Coulthart
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 239d0c42-c4e3-4325-82a2-50c20b2c3412
+        title: Jordan Jozak
+        slug: jordan-jozak
+      - node_id: 55180311-d8bf-4d7a-ad49-c4364880b38f
+        title: Esalen Institute
+        slug: esalen-institute
+      - node_id: 6a174ff1-da8e-4674-8b4a-6b62b2182ec5
+        title: Esalen blue hexagonal orb photographs
+        slug: esalen-blue-hexagonal-orb-photographs
+      - node_id: 8b6e0178-0856-47b3-a14a-780d2bb8b63d
+        title: Alex Klokus
+        slug: alex-klokus
+      - node_id: d4241f5a-1063-4970-ba02-5a391c02d96d
+        title: David Charles Grusch
+        slug: david-charles-grusch
+    date: null
+    date_end: null
+    location_in_record: 02:22:58.3-02:23:09.9
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: fd845823-8784-462c-a981-4775525b6f84
+      record_title: The DANGEROUS Truth About UFOs - Ross Coulthart | DEBRIEFED ep. 76
+      record_date: '2026-02-20'
+      record_reference: https://www.youtube.com/watch?v=idBryc0eWww
+      content_hash: sha256:73be106d406f6d35a063a894e8384e7da0918eb8597d2107a9e3653becca2bdc
+      friendly_name: null
+  - claim_id: 323aa53f-d151-4a4f-9914-bd62cf25c2cb
+    claim_hash: d5b919c2505b91ceaced0f1994cab1771dc13362dd60f1c7b5131be57cc449ce
+    content: At about 16:00 on the day of the Esalen Institute Skywatcher psionic inviting demonstration, Jordan Jozak told
+      Ross Coulthart that they were going to have a sighting of a blue hexagon that night.
+    original_excerpt: he told me at 4pm in the afternoon that we were going to have this sighting of a blue hexagon.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+      title: Ross Coulthart
+    provenance_chain:
+      origin_kind: speaker
+      origin: Ross Coulthart
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 0c15657f-8c99-43ad-8912-d2841ba0634f
+        title: Esalen Institute Skywatcher psionic inviting demonstration
+        slug: esalen-institute-skywatcher-psionic-inviting-demonstration
+      - node_id: 239d0c42-c4e3-4325-82a2-50c20b2c3412
+        title: Jordan Jozak
+        slug: jordan-jozak
+      - node_id: 6a174ff1-da8e-4674-8b4a-6b62b2182ec5
+        title: Esalen blue hexagonal orb photographs
+        slug: esalen-blue-hexagonal-orb-photographs
+      - node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+        title: Ross Coulthart
+        slug: ross-coulthart
+    date: null
+    date_end: null
+    location_in_record: 02:24:35.0-02:24:38.8
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: fd845823-8784-462c-a981-4775525b6f84
+      record_title: The DANGEROUS Truth About UFOs - Ross Coulthart | DEBRIEFED ep. 76
+      record_date: '2026-02-20'
+      record_reference: https://www.youtube.com/watch?v=idBryc0eWww
+      content_hash: sha256:73be106d406f6d35a063a894e8384e7da0918eb8597d2107a9e3653becca2bdc
+      friendly_name: null
+  - claim_id: a14fba6f-1610-427e-b776-b79731ece8bd
+    claim_hash: ecaedbeec205b1cb9e6b7d03b0dea9fa202c760aa20f49153195cc520c7207ad
+    content: During the Esalen Institute Skywatcher psionic inviting demonstration, Jordan Jozak said the word 'horizon',
+      and Ross Coulthart then saw two golden-white orbs appear on the horizon.
+    original_excerpt: And he says, horizon. And I look towards the horizon and there are these two golden white orbs that
+      just appeared on the horizon.
+    claim_type: observation
+    attestation: first_hand
+    speaker:
+      node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+      title: Ross Coulthart
+    provenance_chain:
+      origin_kind: speaker
+      origin: Ross Coulthart
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 0c15657f-8c99-43ad-8912-d2841ba0634f
+        title: Esalen Institute Skywatcher psionic inviting demonstration
+        slug: esalen-institute-skywatcher-psionic-inviting-demonstration
+      - node_id: 239d0c42-c4e3-4325-82a2-50c20b2c3412
+        title: Jordan Jozak
+        slug: jordan-jozak
+      - node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+        title: Ross Coulthart
+        slug: ross-coulthart
+    date: null
+    date_end: null
+    location_in_record: 02:24:52.7-02:25:04.3
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: fd845823-8784-462c-a981-4775525b6f84
+      record_title: The DANGEROUS Truth About UFOs - Ross Coulthart | DEBRIEFED ep. 76
+      record_date: '2026-02-20'
+      record_reference: https://www.youtube.com/watch?v=idBryc0eWww
+      content_hash: sha256:73be106d406f6d35a063a894e8384e7da0918eb8597d2107a9e3653becca2bdc
+      friendly_name: null
+  - claim_id: e4503387-1cf1-4eab-9eb7-c03838daead8
+    claim_hash: 38a4440dba54d53e76c8ff43059e5f0a2c67d8a650487870dd2d69b6b1118cdc
+    content: Jordan Jozak later told Ross Coulthart that during the Esalen Institute Skywatcher psionic inviting demonstration
+      he was inside one of the orbs, bringing them closer.
+    original_excerpt: And he tells me later he was inside one of those objects, bringing them closer.
+    claim_type: hearsay
+    attestation: second_hand
+    speaker:
+      node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+      title: Ross Coulthart
+    provenance_chain:
+      origin_kind: named
+      origin: Jordan Jozak
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 0c15657f-8c99-43ad-8912-d2841ba0634f
+        title: Esalen Institute Skywatcher psionic inviting demonstration
+        slug: esalen-institute-skywatcher-psionic-inviting-demonstration
+      - node_id: 239d0c42-c4e3-4325-82a2-50c20b2c3412
+        title: Jordan Jozak
+        slug: jordan-jozak
+      - node_id: 59e5adca-0786-4ef8-ad50-674371180a4a
+        title: psionics
+        slug: psionics
+      - node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+        title: Ross Coulthart
+        slug: ross-coulthart
+    date: null
+    date_end: null
+    location_in_record: 02:25:36.7-02:25:41.1
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: fd845823-8784-462c-a981-4775525b6f84
+      record_title: The DANGEROUS Truth About UFOs - Ross Coulthart | DEBRIEFED ep. 76
+      record_date: '2026-02-20'
+      record_reference: https://www.youtube.com/watch?v=idBryc0eWww
+      content_hash: sha256:73be106d406f6d35a063a894e8384e7da0918eb8597d2107a9e3653becca2bdc
+      friendly_name: null
+  - claim_id: 76580e69-be77-4f97-b42b-c32ff57cdd22
+    claim_hash: 179d6b0b34ddd34248dca498deed0cbc65135886ef8e1e7a77a7e86095e56e05
+    content: Ross Coulthart hoped to see the blue hexagon that Jordan Jozak had predicted, because seeing it would have proved
+      to him definitively that psionic inviting was real.
+    original_excerpt: i was also annoyed because it kind of disproved my conformational bias i really hoped to see what he
+      said he was going to see and it would prove definitively in my mind that this was real
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+      title: Ross Coulthart
+    provenance_chain:
+      origin_kind: speaker
+      origin: Ross Coulthart
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 239d0c42-c4e3-4325-82a2-50c20b2c3412
+        title: Jordan Jozak
+        slug: jordan-jozak
+      - node_id: 59e5adca-0786-4ef8-ad50-674371180a4a
+        title: psionics
+        slug: psionics
+      - node_id: ad56db74-fbe1-4ef6-85e0-4af6c018aa7a
+        title: Confirmation bias
+        slug: confirmation-bias
+      - node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+        title: Ross Coulthart
+        slug: ross-coulthart
+    date: null
+    date_end: null
+    location_in_record: 02:27:25.5-02:27:34.8
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: fd845823-8784-462c-a981-4775525b6f84
+      record_title: The DANGEROUS Truth About UFOs - Ross Coulthart | DEBRIEFED ep. 76
+      record_date: '2026-02-20'
+      record_reference: https://www.youtube.com/watch?v=idBryc0eWww
+      content_hash: sha256:73be106d406f6d35a063a894e8384e7da0918eb8597d2107a9e3653becca2bdc
+      friendly_name: null
+  - claim_id: b09a27a6-47ef-48e6-ab21-6825daba82dc
+    claim_hash: b50f315139771e2ef5605b9b37b0cf00a1e9510136fde72280cbe7da29fd6327
+    content: The second of the Esalen blue hexagonal orb photographs shows a blue hexagonal orb that settled on the lower
+      part of the beach next to the ocean at the Esalen Institute, exactly as Jordan Jozak had predicted.
+    original_excerpt: The second image that you'll see here is what happened subsequently, which is a blue hexagonal orb,
+      exactly as Jordan had predicted, sat down further down the beach and just planted itself on the lower part of the beach
+      next to the ocean
+    claim_type: observation
+    attestation: first_hand
+    speaker:
+      node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+      title: Ross Coulthart
+    provenance_chain:
+      origin_kind: speaker
+      origin: Ross Coulthart
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 0c15657f-8c99-43ad-8912-d2841ba0634f
+        title: Esalen Institute Skywatcher psionic inviting demonstration
+        slug: esalen-institute-skywatcher-psionic-inviting-demonstration
+      - node_id: 239d0c42-c4e3-4325-82a2-50c20b2c3412
+        title: Jordan Jozak
+        slug: jordan-jozak
+      - node_id: 6a174ff1-da8e-4674-8b4a-6b62b2182ec5
+        title: Esalen blue hexagonal orb photographs
+        slug: esalen-blue-hexagonal-orb-photographs
+      - node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+        title: Ross Coulthart
+        slug: ross-coulthart
+    date: null
+    date_end: null
+    location_in_record: 02:28:44.2-02:29:04.3
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: fd845823-8784-462c-a981-4775525b6f84
+      record_title: The DANGEROUS Truth About UFOs - Ross Coulthart | DEBRIEFED ep. 76
+      record_date: '2026-02-20'
+      record_reference: https://www.youtube.com/watch?v=idBryc0eWww
+      content_hash: sha256:73be106d406f6d35a063a894e8384e7da0918eb8597d2107a9e3653becca2bdc
+      friendly_name: null
+  - claim_id: 6c208a2b-d205-471f-bcaa-83c46b9c1b86
+    claim_hash: fbfe6dd18586f95b687479da8d4e91f154c7c138dd4dc8658db83f8cd1296198
+    content: Ross Coulthart suspects the blue hexagonal orb sighting at the Esalen Institute gave Jordan Jozak credibility
+      and was instrumental in his going on to become one of the lead psionics for Skywatcher.
+    original_excerpt: And I suspect that might have been instrumental for why he went on to become, I think, one of the lead
+      psionics for Skywatcher.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+      title: Ross Coulthart
+    provenance_chain:
+      origin_kind: speaker
+      origin: Ross Coulthart
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 239d0c42-c4e3-4325-82a2-50c20b2c3412
+        title: Jordan Jozak
+        slug: jordan-jozak
+      - node_id: 59e5adca-0786-4ef8-ad50-674371180a4a
+        title: psionics
+        slug: psionics
+      - node_id: d0e1ccf0-977b-4550-be92-02d4075be4ae
+        title: Skywatcher
+        slug: skywatcher
+      - node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+        title: Ross Coulthart
+        slug: ross-coulthart
+    date: null
+    date_end: null
+    location_in_record: 02:30:18.8-02:30:24.6
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: fd845823-8784-462c-a981-4775525b6f84
+      record_title: The DANGEROUS Truth About UFOs - Ross Coulthart | DEBRIEFED ep. 76
+      record_date: '2026-02-20'
+      record_reference: https://www.youtube.com/watch?v=idBryc0eWww
+      content_hash: sha256:73be106d406f6d35a063a894e8384e7da0918eb8597d2107a9e3653becca2bdc
+      friendly_name: null
+  - claim_id: 97dd2254-3e8b-44e8-a78f-2520883604a2
+    claim_hash: 3b111c8ea4fcc6d34192d0387c6e1327923b1a038a25f95c6b9fa0bbd9a0784b
+    content: Jordan Jozak's time as one of the lead psionics for Skywatcher was short-lived.
+    original_excerpt: 'Chris Ramsay: short-lived though Ross Coulthart: short-lived yeah yeah'
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+      title: Ross Coulthart
+    provenance_chain:
+      origin_kind: speaker
+      origin: Ross Coulthart
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 239d0c42-c4e3-4325-82a2-50c20b2c3412
+        title: Jordan Jozak
+        slug: jordan-jozak
+      - node_id: 59e5adca-0786-4ef8-ad50-674371180a4a
+        title: psionics
+        slug: psionics
+      - node_id: d0e1ccf0-977b-4550-be92-02d4075be4ae
+        title: Skywatcher
+        slug: skywatcher
+    date: null
+    date_end: null
+    location_in_record: 02:30:26.2-02:30:28.4
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: fd845823-8784-462c-a981-4775525b6f84
+      record_title: The DANGEROUS Truth About UFOs - Ross Coulthart | DEBRIEFED ep. 76
+      record_date: '2026-02-20'
+      record_reference: https://www.youtube.com/watch?v=idBryc0eWww
+      content_hash: sha256:73be106d406f6d35a063a894e8384e7da0918eb8597d2107a9e3653becca2bdc
+      friendly_name: null
+  - claim_id: 62f8315d-d44d-446f-b837-368cb10df4c2
+    claim_hash: 983618e535cde299d954953957899758106faa0d5295f0acc17ddf9a7b929c9a
+    content: Having heard what happened to other people through regressions and to people who remember, such as Jordan Jozak,
+      Julia Mossbridge wonders whether she wants to know and whether knowing would be more traumatising.
+    original_excerpt: Through regressions or even the people who remember, like Jordan Jozak. ... I sort of wonder if I want
+      to know. I sort of wonder if it would be more traumatizing to know. And that's when I land on the protective thing.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 8d3ca113-3f28-4808-998e-34d2837332a5
+      title: Julia Mossbridge
+    provenance_chain:
+      origin_kind: speaker
+      origin: Julia Mossbridge
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 0eb69efb-d775-47f2-a440-4c9874cbf3b8
+        title: Hypnotic regression
+        slug: hypnotic-regression
+      - node_id: 239d0c42-c4e3-4325-82a2-50c20b2c3412
+        title: Jordan Jozak
+        slug: jordan-jozak
+      - node_id: 8d3ca113-3f28-4808-998e-34d2837332a5
+        title: Julia Mossbridge
+        slug: julia-mossbridge
+    date: null
+    date_end: null
+    location_in_record: 00:31:29.8-00:31:42.2
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 43b2873d-8ebe-46aa-9425-a7e273c46e34
+      record_title: Non Human Intelligence, GATE Program and Psi Ability with Dr. Julia Mossbridge | ep. 99
+      record_date: '2026-08-14'
+      record_reference: https://www.youtube.com/watch?v=-qt2FYdP_EA
+      content_hash: sha256:8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8998cfdcd
+      friendly_name: null
+  - claim_id: 224e1c21-355c-4182-b44e-789f228c92bb
+    claim_hash: 0503de7a155d45df80d3c7c821f217f789058c9fdc90f6145df63d5251b0b673
+    content: Chris Ramsay understands the goal described by Jordan Jozak in his conversations and published writing to have
+      been getting participants out of body and having them build a construct for the programme's operators.
+    original_excerpt: you mentioned Jordan Jozak which also you know that was kind of the goal from his conversations and
+      and what you know hearing him and reading you know what he put out ... was this kind of idea of like yeah get get out
+      of body ... and like build this construct or whatever for them
+    claim_type: hearsay
+    attestation: second_hand
+    speaker:
+      node_id: 24d00311-06ac-46a1-a2f5-c99f3f8e21b2
+      title: Chris Ramsay
+    provenance_chain:
+      origin_kind: named
+      origin: Jordan Jozak
+      relay:
+        - Chris Ramsay
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 239d0c42-c4e3-4325-82a2-50c20b2c3412
+        title: Jordan Jozak
+        slug: jordan-jozak
+      - node_id: 24d00311-06ac-46a1-a2f5-c99f3f8e21b2
+        title: Chris Ramsay
+        slug: chris-ramsay
+      - node_id: 8b0155a9-fabc-4b8d-9ee9-45eac58dbf2e
+        title: Out-of-Body Experience (OBE)
+        slug: out-of-body-experience-obe
+    date: null
+    date_end: null
+    location_in_record: 00:35:24.3-00:35:39.0
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 43b2873d-8ebe-46aa-9425-a7e273c46e34
+      record_title: Non Human Intelligence, GATE Program and Psi Ability with Dr. Julia Mossbridge | ep. 99
+      record_date: '2026-08-14'
+      record_reference: https://www.youtube.com/watch?v=-qt2FYdP_EA
+      content_hash: sha256:8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8998cfdcd
+      friendly_name: null
+  - claim_id: 1988fcfd-6708-4ca8-b964-605d52e26b39
+    claim_hash: 6f7388a7539edf5dfc6ec4135280c2982e5eff21cf616c9b4468885e67b6c334
+    content: Jordan Jozak claims he participated in a childhood Gifted and Talented Education (GATE) programme involving psychic
+      training, remote viewing and anomalous phenomena; these claims have not been independently verified.
+    original_excerpt: '[note: Jordan Jozak - claims he participated in a childhood SORE/GATE program involving psychic training,
+      remote viewing and anomalous phenomena. These claims have not been independently verified.]'
+    claim_type: testimony
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: named
+      origin: Jordan Jozak
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 239d0c42-c4e3-4325-82a2-50c20b2c3412
+        title: Jordan Jozak
+        slug: jordan-jozak
+      - node_id: 41c9281c-4a11-4399-b324-a8486a96c766
+        title: Remote Viewing (RV)
+        slug: remote-viewing-rv
+    date: null
+    date_end: null
+    location_in_record: line 367
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 43b2873d-8ebe-46aa-9425-a7e273c46e34
+      record_title: Non Human Intelligence, GATE Program and Psi Ability with Dr. Julia Mossbridge | ep. 99
+      record_date: '2026-08-14'
+      record_reference: https://www.youtube.com/watch?v=-qt2FYdP_EA
+      content_hash: sha256:8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8998cfdcd
+      friendly_name: null

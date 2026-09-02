@@ -1,0 +1,1211 @@
+schema: anomalica/brief/1
+brief_hash: e7c95052e3ede63cbf2b249cd29726ffafafbdb920d6c321639e0d8a4b02fe4a
+page:
+  kind: entity
+  node_id: 9fcb0a2b-2f0e-401d-86f3-195e2f6053dc
+  node_type: topic
+  title: Marian apparitions
+  slug: marian-apparitions
+  claim_count: 31
+  claim_count_total: 31
+generated:
+  graph_version: '2026-09-01T10:10:49.863545+00:00'
+size:
+  claims: 31
+  tokens_estimated: 8471
+  sized_against: 1050000
+publication:
+  status: published
+  note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
+    transcripts are gated elsewhere.
+belonging:
+  verified: 0
+  suspect_excluded: 0
+  unreviewed: 31
+related_nodes:
+  - node_id: 6e230da1-2d10-4a16-920d-3dbc2369e898
+    title: Michael Hesemann
+    node_type: person
+    slug: michael-hesemann
+    shared_claims: 8
+  - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
+    title: Unidentified Flying Object (UFO)
+    node_type: topic
+    slug: unidentified-flying-object-ufo
+    shared_claims: 6
+  - node_id: cfd554b1-096e-4d54-aa89-5edc2e0c41f5
+    title: Fatima apparitions (1917)
+    node_type: event
+    slug: fatima-apparitions-1917
+    shared_claims: 5
+  - node_id: c3049206-6e8c-43b6-a645-5b8c47da0e56
+    title: 1917 Fatima Marian apparitions
+    node_type: event
+    slug: 1917-fatima-marian-apparitions
+    shared_claims: 1
+  - node_id: f52851d1-6388-4961-b21d-d5ef7454c950
+    title: Communism
+    node_type: topic
+    slug: communism
+    shared_claims: 1
+  - node_id: 412f5aae-011c-47ae-b6d5-cbf43358c378
+    title: Giorgio Dibitonto
+    node_type: person
+    slug: giorgio-dibitonto
+    shared_claims: 1
+  - node_id: 4484f20d-af42-40af-b0ab-964afae98ec7
+    title: John Paul II
+    node_type: person
+    slug: john-paul-ii
+    shared_claims: 1
+  - node_id: 0cf4b5c3-c9c8-4cf9-8044-6c87bac37ebc
+    title: Joseph Ratzinger
+    node_type: person
+    slug: joseph-ratzinger
+    shared_claims: 1
+  - node_id: d7ea5adc-7ed0-480a-9fa8-64bd6fa6b382
+    title: Peter Rinaldi
+    node_type: person
+    slug: peter-rinaldi
+    shared_claims: 1
+  - node_id: 95472b02-af65-4737-896c-993994f9be27
+    title: Portugal, Fatima
+    node_type: place
+    slug: fatima-portugal
+    shared_claims: 1
+  - node_id: 9b1bc45c-4a84-42ef-9b4e-33d184dfc93e
+    title: Shroud of Turin
+    node_type: object
+    slug: shroud-of-turin
+    shared_claims: 1
+  - node_id: b6b60271-c105-4b1f-89ec-bd02227901d9
+    title: Third Secret of Fatima
+    node_type: document
+    slug: third-secret-of-fatima
+    shared_claims: 1
+  - node_id: 2e6ef937-4471-457c-b4fa-7e078cf3baf6
+    title: USA
+    node_type: place
+    slug: usa
+    shared_claims: 1
+  - node_id: a4249a46-a75e-4781-8649-cfc0e35c38fe
+    title: Ukraine, Hrushiv
+    node_type: place
+    slug: hrushiv-ukraine
+    shared_claims: 1
+  - node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+    title: Whitley Strieber
+    node_type: person
+    slug: whitley-strieber
+    shared_claims: 1
+  - node_id: dcb95bd1-7593-4fe4-a992-2fc6a05fcb2c
+    title: World War II
+    node_type: event
+    slug: world-war-ii
+    shared_claims: 1
+claims:
+  - claim_id: 445d5bf9-a79e-45a7-a3fb-ba72199df1f1
+    claim_hash: 4e311ad8da54714dbda913eea522bbbe6fd29e8e049f03d269501e3e641d63a5
+    content: Joseph Ratzinger said that not publishing the Third Secret of Fatima was to avoid confusing religious prophecy
+      with sensationalism, and that its contents correspond to what is announced in Scripture and are confirmed by many other
+      Marian apparitions.
+    original_excerpt: If it is not published—at least for the moment—this is to avoid confusing religious prophecy with sensationalism.
+      But the things contained in this Third Secret correspond to what is announced in Scripture and are confirmed by many
+      other Marian apparitions.”
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 0cf4b5c3-c9c8-4cf9-8044-6c87bac37ebc
+      title: Joseph Ratzinger
+    provenance_chain:
+      origin_kind: speaker
+      origin: Ratzinger, Joseph
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 0cf4b5c3-c9c8-4cf9-8044-6c87bac37ebc
+        title: Joseph Ratzinger
+        slug: joseph-ratzinger
+      - node_id: 9fcb0a2b-2f0e-401d-86f3-195e2f6053dc
+        title: Marian apparitions
+        slug: marian-apparitions
+      - node_id: b6b60271-c105-4b1f-89ec-bd02227901d9
+        title: Third Secret of Fatima
+        slug: third-secret-of-fatima
+    date: null
+    date_end: null
+    location_in_record: ch18:10402-10646
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 171e1337-151f-40c5-8b9a-659faac4c5f6
+      record_title: The Fatima Secret
+      record_date: '2000-11-28'
+      record_reference: null
+      content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
+      friendly_name: 2000-11-28-ebook-the-fatima-secret
+  - claim_id: 86075c6f-fee3-4bfd-abab-9b32ab383e54
+    claim_hash: 164df18c99f93fb637dd93f1a7b9d6241a0cf8ff4a991d0c29600dfe3c59547a
+    content: John Paul II declared that he wanted to become a Marian pope.
+    original_excerpt: He declared that he wanted to become a Marian pope
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 4484f20d-af42-40af-b0ab-964afae98ec7
+      title: John Paul II
+    provenance_chain:
+      origin_kind: speaker
+      origin: John Paul II
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 4484f20d-af42-40af-b0ab-964afae98ec7
+        title: John Paul II
+        slug: john-paul-ii
+      - node_id: 9fcb0a2b-2f0e-401d-86f3-195e2f6053dc
+        title: Marian apparitions
+        slug: marian-apparitions
+    date: null
+    date_end: null
+    location_in_record: ch18:968-1014
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 171e1337-151f-40c5-8b9a-659faac4c5f6
+      record_title: The Fatima Secret
+      record_date: '2000-11-28'
+      record_reference: null
+      content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
+      friendly_name: 2000-11-28-ebook-the-fatima-secret
+  - claim_id: c1c9364d-0622-4fda-bb02-fcbf43cc0e8e
+    claim_hash: 3aae0719867cca594d2aa3770f3491861bce03f788e51648687918454df0fa29
+    content: An influential newspaper of the Soviet intelligentsia backed the cause of Christian pilgrims who streamed to
+      Hrushiv in Ukraine, where Marian apparitions had occurred.
+    original_excerpt: An influential newspaper of the Soviet intelligentsia, which at one time would have been strictly secular,
+      backed the cause of the Christian pilgrims who streamed to the village of Hrushiv in the Ukraine, where Marian apparitions
+      had occurred.
+    claim_type: observation
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 9fcb0a2b-2f0e-401d-86f3-195e2f6053dc
+        title: Marian apparitions
+        slug: marian-apparitions
+      - node_id: a4249a46-a75e-4781-8649-cfc0e35c38fe
+        title: Ukraine, Hrushiv
+        slug: hrushiv-ukraine
+    date: null
+    date_end: null
+    location_in_record: ch19:14918-15152
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 171e1337-151f-40c5-8b9a-659faac4c5f6
+      record_title: The Fatima Secret
+      record_date: '2000-11-28'
+      record_reference: null
+      content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
+      friendly_name: 2000-11-28-ebook-the-fatima-secret
+  - claim_id: bb05f429-870b-4ca5-bb31-48c45686bf94
+    claim_hash: 74cc30d5e809ed507d053b6ed12e2213b4d57bbabc17f715be43e203501ac2b0
+    content: There have been Marian apparitions throughout the history of Christianity.
+    original_excerpt: There have been Marian apparitions throughout the history of Christianity.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 6e230da1-2d10-4a16-920d-3dbc2369e898
+      title: Michael Hesemann
+    provenance_chain:
+      origin_kind: speaker
+      origin: Michael Hesemann
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 9fcb0a2b-2f0e-401d-86f3-195e2f6053dc
+        title: Marian apparitions
+        slug: marian-apparitions
+    date: null
+    date_end: null
+    location_in_record: ch20:96-157
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 171e1337-151f-40c5-8b9a-659faac4c5f6
+      record_title: The Fatima Secret
+      record_date: '2000-11-28'
+      record_reference: null
+      content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
+      friendly_name: 2000-11-28-ebook-the-fatima-secret
+  - claim_id: c71c6212-9b3b-49e7-9c98-13229d36236d
+    claim_hash: 91ae18c6c9d2f19652eddd052c4cf268441632ed69acac8bbf38c63f82cc3042
+    content: Marian apparitions increased greatly after the Fatima apparitions of 1917.
+    original_excerpt: Marian apparitions increased greatly after the Fatima visions in 1917.
+    claim_type: observation
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 9fcb0a2b-2f0e-401d-86f3-195e2f6053dc
+        title: Marian apparitions
+        slug: marian-apparitions
+      - node_id: cfd554b1-096e-4d54-aa89-5edc2e0c41f5
+        title: Fatima apparitions (1917)
+        slug: fatima-apparitions-1917
+    date: null
+    date_end: null
+    location_in_record: ch21:497-562
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 171e1337-151f-40c5-8b9a-659faac4c5f6
+      record_title: The Fatima Secret
+      record_date: '2000-11-28'
+      record_reference: null
+      content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
+      friendly_name: 2000-11-28-ebook-the-fatima-secret
+  - claim_id: f771dd23-a9ef-45c8-8bd6-04e6c9ef11e9
+    claim_hash: 4312a7d2a00785c69222f4eb13907bd11753259a7870e8b076e7725b9171c0de
+    content: There were 16 recorded Marian apparition cases in the decade 1920-1929.
+    original_excerpt: In the decade of 1920–29 there were 16 cases
+    claim_type: measurement
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 9fcb0a2b-2f0e-401d-86f3-195e2f6053dc
+        title: Marian apparitions
+        slug: marian-apparitions
+    date: null
+    date_end: null
+    location_in_record: ch21:568-607
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 171e1337-151f-40c5-8b9a-659faac4c5f6
+      record_title: The Fatima Secret
+      record_date: '2000-11-28'
+      record_reference: null
+      content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
+      friendly_name: 2000-11-28-ebook-the-fatima-secret
+  - claim_id: 06cc563b-4996-48a1-9155-b5b123efc294
+    claim_hash: 5fbc8ddf75204876ef9736e1b5b8a10412257175795fb29d4471493170f28ca6
+    content: There were 40 recorded Marian apparition cases in the decade 1930-1939.
+    original_excerpt: in 1930–39, 40 cases
+    claim_type: measurement
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 9fcb0a2b-2f0e-401d-86f3-195e2f6053dc
+        title: Marian apparitions
+        slug: marian-apparitions
+    date: null
+    date_end: null
+    location_in_record: ch21:614-629
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 171e1337-151f-40c5-8b9a-659faac4c5f6
+      record_title: The Fatima Secret
+      record_date: '2000-11-28'
+      record_reference: null
+      content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
+      friendly_name: 2000-11-28-ebook-the-fatima-secret
+  - claim_id: 558196db-97b1-450e-b0b2-f8001af955fa
+    claim_hash: ec379957501d79fde0b32ff1af35c256bb12bbebedf5113e75bdf92e26744fb5
+    content: There were 59 recorded Marian apparition cases in the decade 1940-1949.
+    original_excerpt: 1940–49, 59 cases
+    claim_type: measurement
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 9fcb0a2b-2f0e-401d-86f3-195e2f6053dc
+        title: Marian apparitions
+        slug: marian-apparitions
+    date: null
+    date_end: null
+    location_in_record: ch21:636-648
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 171e1337-151f-40c5-8b9a-659faac4c5f6
+      record_title: The Fatima Secret
+      record_date: '2000-11-28'
+      record_reference: null
+      content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
+      friendly_name: 2000-11-28-ebook-the-fatima-secret
+  - claim_id: b00500c0-8b68-4032-823a-6c79972f5bca
+    claim_hash: a6b94726ea5ce1a9f19cd5395bc8d6c4d64710fabbc132aa15e72fde5a06c3ad
+    content: There were 76 recorded Marian apparition cases in the decade 1950-1959.
+    original_excerpt: 1950–59, 76 cases
+    claim_type: measurement
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 9fcb0a2b-2f0e-401d-86f3-195e2f6053dc
+        title: Marian apparitions
+        slug: marian-apparitions
+    date: null
+    date_end: null
+    location_in_record: ch21:655-667
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 171e1337-151f-40c5-8b9a-659faac4c5f6
+      record_title: The Fatima Secret
+      record_date: '2000-11-28'
+      record_reference: null
+      content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
+      friendly_name: 2000-11-28-ebook-the-fatima-secret
+  - claim_id: 0358fcae-caf4-4bb3-aec3-7c43b7e65a97
+    claim_hash: d68c92614caef310d233b328ed8eadab852c1a54c77a7612caa505981a16deba
+    content: There were 376 recorded Marian apparition cases in the decade 1960-1969.
+    original_excerpt: 1960–69, 376 cases
+    claim_type: measurement
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 9fcb0a2b-2f0e-401d-86f3-195e2f6053dc
+        title: Marian apparitions
+        slug: marian-apparitions
+    date: null
+    date_end: null
+    location_in_record: ch21:674-687
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 171e1337-151f-40c5-8b9a-659faac4c5f6
+      record_title: The Fatima Secret
+      record_date: '2000-11-28'
+      record_reference: null
+      content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
+      friendly_name: 2000-11-28-ebook-the-fatima-secret
+  - claim_id: 5b66d83f-fb19-477d-990e-402462bd6517
+    claim_hash: 33da7e025027c04cc9295e37151827ea0ae995a4bfa9f573b556364ea70d2de6
+    content: There were 51 recorded Marian apparition cases in the decade 1970-1979.
+    original_excerpt: 1970–79, 51 cases
+    claim_type: measurement
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 9fcb0a2b-2f0e-401d-86f3-195e2f6053dc
+        title: Marian apparitions
+        slug: marian-apparitions
+    date: null
+    date_end: null
+    location_in_record: ch21:694-706
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 171e1337-151f-40c5-8b9a-659faac4c5f6
+      record_title: The Fatima Secret
+      record_date: '2000-11-28'
+      record_reference: null
+      content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
+      friendly_name: 2000-11-28-ebook-the-fatima-secret
+  - claim_id: f0f23e33-c48e-4bb9-a78f-28d3c950d6bb
+    claim_hash: 54841a2b27cbd8612e19e685cb5e3862a559d68fdf7c1a50368584e8af99a86c
+    content: There were 122 recorded Marian apparition cases in the decade 1980-1989.
+    original_excerpt: in 1980–89 there were 122 cases
+    claim_type: measurement
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 9fcb0a2b-2f0e-401d-86f3-195e2f6053dc
+        title: Marian apparitions
+        slug: marian-apparitions
+    date: null
+    date_end: null
+    location_in_record: ch21:717-743
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 171e1337-151f-40c5-8b9a-659faac4c5f6
+      record_title: The Fatima Secret
+      record_date: '2000-11-28'
+      record_reference: null
+      content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
+      friendly_name: 2000-11-28-ebook-the-fatima-secret
+  - claim_id: f5db10d5-1702-4bfb-983e-cb650559e166
+    claim_hash: edefcb55150223a3e8e4c4d54e934da7780c0578723bf5b7ce8081cbde50ef38
+    content: Many Marian apparitions have included bright, multicoloured lights and whirling, UFO-like disks.
+    original_excerpt: Many of these Marian appearances included bright, multicolored lights and whirling, UFO-like disks.
+    claim_type: observation
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
+        title: Unidentified Flying Object (UFO)
+        slug: unidentified-flying-object-ufo
+      - node_id: 9fcb0a2b-2f0e-401d-86f3-195e2f6053dc
+        title: Marian apparitions
+        slug: marian-apparitions
+    date: null
+    date_end: null
+    location_in_record: ch21:750-843
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 171e1337-151f-40c5-8b9a-659faac4c5f6
+      record_title: The Fatima Secret
+      record_date: '2000-11-28'
+      record_reference: null
+      content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
+      friendly_name: 2000-11-28-ebook-the-fatima-secret
+  - claim_id: 2766e2db-484d-449a-bd2b-b11402c01a4d
+    claim_hash: fd41ce41b79c7e6d8dadc10e28279dddad646730db790eaabcd0030f30116d70
+    content: Michael Hesemann has pointed out similarities between Marian visions and UFO sightings.
+    original_excerpt: I have pointed out some similarities between Marian visions and UFO sightings.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 6e230da1-2d10-4a16-920d-3dbc2369e898
+      title: Michael Hesemann
+    provenance_chain:
+      origin_kind: speaker
+      origin: Hesemann, Michael
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 6e230da1-2d10-4a16-920d-3dbc2369e898
+        title: Michael Hesemann
+        slug: michael-hesemann
+      - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
+        title: Unidentified Flying Object (UFO)
+        slug: unidentified-flying-object-ufo
+      - node_id: 9fcb0a2b-2f0e-401d-86f3-195e2f6053dc
+        title: Marian apparitions
+        slug: marian-apparitions
+    date: null
+    date_end: null
+    location_in_record: ch22:15504-15572
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 171e1337-151f-40c5-8b9a-659faac4c5f6
+      record_title: The Fatima Secret
+      record_date: '2000-11-28'
+      record_reference: null
+      content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
+      friendly_name: 2000-11-28-ebook-the-fatima-secret
+  - claim_id: dfe3e947-717f-42d0-9b9e-bb087d915d09
+    claim_hash: 352e058b6cc6448da3c9019f96cfdc0c5e4ad0f7d4244ad7fcc07d42068b9fe2
+    content: Michael Hesemann considers that some of the reported Marian miracles can be photographed, and weeping Madonnas
+      have signs that can be studied scientifically.
+    original_excerpt: But some of these miracles can be photographed, or, as in the case of the weeping Madonnas, they have
+      signs that can be studied scientifically.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 6e230da1-2d10-4a16-920d-3dbc2369e898
+      title: Michael Hesemann
+    provenance_chain:
+      origin_kind: speaker
+      origin: Michael Hesemann
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 6e230da1-2d10-4a16-920d-3dbc2369e898
+        title: Michael Hesemann
+        slug: michael-hesemann
+      - node_id: 9fcb0a2b-2f0e-401d-86f3-195e2f6053dc
+        title: Marian apparitions
+        slug: marian-apparitions
+    date: null
+    date_end: null
+    location_in_record: ch23:5413-5541
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 171e1337-151f-40c5-8b9a-659faac4c5f6
+      record_title: The Fatima Secret
+      record_date: '2000-11-28'
+      record_reference: null
+      content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
+      friendly_name: 2000-11-28-ebook-the-fatima-secret
+  - claim_id: 8e51c6ed-e66e-4f7a-96eb-e58d4bd6af16
+    claim_hash: 9ca3f5f594f6274ae7a25b37b9d31913fd6964cee7fa845cae4843e9947593fb
+    content: Marian apparitions have been reported in the United States, not only abroad.
+    original_excerpt: The apparitions of the Virgin Mary don't happen only abroad; they happen near your hometown as well,
+      right here in the United States.
+    claim_type: observation
+    attestation: first_hand
+    speaker:
+      node_id: 6e230da1-2d10-4a16-920d-3dbc2369e898
+      title: Michael Hesemann
+    provenance_chain:
+      origin_kind: speaker
+      origin: Michael Hesemann
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 2e6ef937-4471-457c-b4fa-7e078cf3baf6
+        title: USA
+        slug: usa
+      - node_id: 9fcb0a2b-2f0e-401d-86f3-195e2f6053dc
+        title: Marian apparitions
+        slug: marian-apparitions
+    date: null
+    date_end: null
+    location_in_record: ch23:90-216
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 171e1337-151f-40c5-8b9a-659faac4c5f6
+      record_title: The Fatima Secret
+      record_date: '2000-11-28'
+      record_reference: null
+      content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
+      friendly_name: 2000-11-28-ebook-the-fatima-secret
+  - claim_id: ac0ca2a7-91b7-4d41-b319-787299f79779
+    claim_hash: 6880bdc251644f885b310a8b0e461c6680020bdc51e189d8f550739ed3bf6408
+    content: Electroencephalogram (EEG) tests done on modern Marian seers showed that in deep meditation, the cerebral cortex
+      becomes synchronised with the apparition.
+    original_excerpt: This is confirmed by the EEG tests done on the modern seers. These tests showed that in deep meditation,
+      the cerebral cortex becomes synchronized with the apparition.
+    claim_type: measurement
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 9fcb0a2b-2f0e-401d-86f3-195e2f6053dc
+        title: Marian apparitions
+        slug: marian-apparitions
+    date: null
+    date_end: null
+    location_in_record: ch23:9004-9159
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 171e1337-151f-40c5-8b9a-659faac4c5f6
+      record_title: The Fatima Secret
+      record_date: '2000-11-28'
+      record_reference: null
+      content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
+      friendly_name: 2000-11-28-ebook-the-fatima-secret
+  - claim_id: 7491a257-2a93-40fe-8eed-dcc745224208
+    claim_hash: 164f79df848907604f25fe23ccc9e9e8cf2fe38eb840d3466a05650c015cbfe6
+    content: Since the Guadalupe apparition, Marian apparitions have become more frequent, appealing for churches to be built,
+      offering moral advice and warnings, expressing concern about Communism, and apparently sending a sign warning of the
+      imminent outbreak of World War II.
+    original_excerpt: Since Guadalupe, Marian apparitions have become more frequent. The visions have appealed for churches
+      to be built, offered moral advice and warnings, expressed direct concern about Communism, and even promised and apparently
+      sent a sign warning of the imminent outbreak of World War II.
+    claim_type: observation
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 9fcb0a2b-2f0e-401d-86f3-195e2f6053dc
+        title: Marian apparitions
+        slug: marian-apparitions
+      - node_id: dcb95bd1-7593-4fe4-a992-2fc6a05fcb2c
+        title: World War II
+        slug: world-war-ii
+      - node_id: f52851d1-6388-4961-b21d-d5ef7454c950
+        title: Communism
+        slug: communism
+    date: null
+    date_end: null
+    location_in_record: ch4:14069-14352
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 171e1337-151f-40c5-8b9a-659faac4c5f6
+      record_title: The Fatima Secret
+      record_date: '2000-11-28'
+      record_reference: null
+      content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
+      friendly_name: 2000-11-28-ebook-the-fatima-secret
+  - claim_id: c0220c9a-21cd-4eef-ae8e-1a1125356fc7
+    claim_hash: 0d8dd16406ae9cfd12f886cb920fd9da083d1ccff593aad939f5220711215a5d
+    content: Michael Hesemann does not deny that there are obvious parallels between phenomena observed during Marian apparitions
+      and Unidentified Flying Objects, but tries to avoid interpretation, preferring to tell the history of the Fatima events
+      in their own light.
+    original_excerpt: The parallels between some of the phenomena observed during Marian apparitions and UFOs are obvious
+      and the author does not deny that. Still, he has tried to avoid any interpretation, preferring to tell the history of
+      the Fatima events in their own light.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 6e230da1-2d10-4a16-920d-3dbc2369e898
+      title: Michael Hesemann
+    provenance_chain:
+      origin_kind: speaker
+      origin: Michael Hesemann
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 6e230da1-2d10-4a16-920d-3dbc2369e898
+        title: Michael Hesemann
+        slug: michael-hesemann
+      - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
+        title: Unidentified Flying Object (UFO)
+        slug: unidentified-flying-object-ufo
+      - node_id: 9fcb0a2b-2f0e-401d-86f3-195e2f6053dc
+        title: Marian apparitions
+        slug: marian-apparitions
+      - node_id: cfd554b1-096e-4d54-aa89-5edc2e0c41f5
+        title: Fatima apparitions (1917)
+        slug: fatima-apparitions-1917
+    date: null
+    date_end: null
+    location_in_record: ch4:14737-14986
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 171e1337-151f-40c5-8b9a-659faac4c5f6
+      record_title: The Fatima Secret
+      record_date: '2000-11-28'
+      record_reference: null
+      content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
+      friendly_name: 2000-11-28-ebook-the-fatima-secret
+  - claim_id: a8758d6b-8854-489b-bb01-08851f863f2b
+    claim_hash: d93ead665e89de89c5e124e454c52f99a8fe17c04412867fdbcdf369b49d219a
+    content: Michael Hesemann considers the Marian messages to include precise and completely fulfilled predictions about
+      both the future of mankind and the personal fate of the visionaries.
+    original_excerpt: He also points to the fact that the Marian messages have included “precise and completely fulfilled
+      predictions, both about the future of mankind and the personal fate of the visionaries.”
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 6e230da1-2d10-4a16-920d-3dbc2369e898
+      title: Michael Hesemann
+    provenance_chain:
+      origin_kind: speaker
+      origin: Michael Hesemann
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 6e230da1-2d10-4a16-920d-3dbc2369e898
+        title: Michael Hesemann
+        slug: michael-hesemann
+      - node_id: 9fcb0a2b-2f0e-401d-86f3-195e2f6053dc
+        title: Marian apparitions
+        slug: marian-apparitions
+    date: null
+    date_end: null
+    location_in_record: ch4:15576-15751
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 171e1337-151f-40c5-8b9a-659faac4c5f6
+      record_title: The Fatima Secret
+      record_date: '2000-11-28'
+      record_reference: null
+      content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
+      friendly_name: 2000-11-28-ebook-the-fatima-secret
+  - claim_id: 4eb75bf1-7175-4215-9b12-c06e1538d82a
+    claim_hash: cf82e10adc6a723f3ed75911b04c02ec3421e55d70a3622fff41e1fde35aaaff
+    content: Michael Hesemann considers that Giorgio Dibitonto's message goes beyond the limits of most Marian material and
+      raises the suggestion that the ancient Mother Goddess may in some way be involved.
+    original_excerpt: This message goes beyond the limits of most Marian material and opens the suggestion that the ancient
+      Mother Goddess may in some way be involved.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 6e230da1-2d10-4a16-920d-3dbc2369e898
+      title: Michael Hesemann
+    provenance_chain:
+      origin_kind: speaker
+      origin: Michael Hesemann
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 412f5aae-011c-47ae-b6d5-cbf43358c378
+        title: Giorgio Dibitonto
+        slug: giorgio-dibitonto
+      - node_id: 9fcb0a2b-2f0e-401d-86f3-195e2f6053dc
+        title: Marian apparitions
+        slug: marian-apparitions
+    date: null
+    date_end: null
+    location_in_record: ch4:22677-22813
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 171e1337-151f-40c5-8b9a-659faac4c5f6
+      record_title: The Fatima Secret
+      record_date: '2000-11-28'
+      record_reference: null
+      content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
+      friendly_name: 2000-11-28-ebook-the-fatima-secret
+  - claim_id: 74dba347-d89d-4818-b800-fecc64900c3d
+    claim_hash: fc747581af1b18b9495b2f75a562b8f53653a65713e475eb561f76e7a1b1f03f
+    content: Whitley Strieber's interest in Marian apparitions was kindled by a meeting with Father Peter Rinaldi, an expert
+      on the Shroud of Turin.
+    original_excerpt: My own interest in Marian apparitions was kindled indirectly, by a meeting with a remarkable man who
+      was an expert on the Shroud of Turin.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+      title: Whitley Strieber
+    provenance_chain:
+      origin_kind: speaker
+      origin: Whitley Strieber
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+        title: Whitley Strieber
+        slug: whitley-strieber
+      - node_id: 9b1bc45c-4a84-42ef-9b4e-33d184dfc93e
+        title: Shroud of Turin
+        slug: shroud-of-turin
+      - node_id: 9fcb0a2b-2f0e-401d-86f3-195e2f6053dc
+        title: Marian apparitions
+        slug: marian-apparitions
+      - node_id: d7ea5adc-7ed0-480a-9fa8-64bd6fa6b382
+        title: Peter Rinaldi
+        slug: peter-rinaldi
+    date: null
+    date_end: null
+    location_in_record: ch4:2427-2559
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 171e1337-151f-40c5-8b9a-659faac4c5f6
+      record_title: The Fatima Secret
+      record_date: '2000-11-28'
+      record_reference: null
+      content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
+      friendly_name: 2000-11-28-ebook-the-fatima-secret
+  - claim_id: 2f76179d-2394-4afd-8add-4ea00635766e
+    claim_hash: 717ef7f66c00e17edaa69f8ea8e58bb437259e7b2305edad4442cca0eb2c5f08
+    content: Michael Hesemann concludes that judging strictly from the number of witnesses involved, the Fatima apparitions
+      are the greatest of the Marian apparition mysteries.
+    original_excerpt: Judging strictly from the number of witnesses involved, it must also be concluded that Fatima is the
+      greatest of these mysteries.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 6e230da1-2d10-4a16-920d-3dbc2369e898
+      title: Michael Hesemann
+    provenance_chain:
+      origin_kind: speaker
+      origin: Michael Hesemann
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 9fcb0a2b-2f0e-401d-86f3-195e2f6053dc
+        title: Marian apparitions
+        slug: marian-apparitions
+      - node_id: cfd554b1-096e-4d54-aa89-5edc2e0c41f5
+        title: Fatima apparitions (1917)
+        slug: fatima-apparitions-1917
+    date: null
+    date_end: null
+    location_in_record: ch4:26505-26624
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 171e1337-151f-40c5-8b9a-659faac4c5f6
+      record_title: The Fatima Secret
+      record_date: '2000-11-28'
+      record_reference: null
+      content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
+      friendly_name: 2000-11-28-ebook-the-fatima-secret
+  - claim_id: 5b8e55e2-bb98-42d9-9e5a-48c7a2c4c700
+    claim_hash: 21c7a541d602ca21e68269abeea5570283e4b02ab283c03e3560d72576d33307
+    content: Unidentified Flying Object occupants, like the fairy folk before them, have at best a localised and tangential
+      effect on the social order, unlike Marian apparitions.
+    original_excerpt: UFO occupants, like the fairy folk before them, have, at best, a localized and tangential effect on
+      the social order.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+      title: Whitley Strieber
+    provenance_chain:
+      origin_kind: speaker
+      origin: Whitley Strieber
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
+        title: Unidentified Flying Object (UFO)
+        slug: unidentified-flying-object-ufo
+      - node_id: 9fcb0a2b-2f0e-401d-86f3-195e2f6053dc
+        title: Marian apparitions
+        slug: marian-apparitions
+    date: null
+    date_end: null
+    location_in_record: ch4:5638-5749
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 171e1337-151f-40c5-8b9a-659faac4c5f6
+      record_title: The Fatima Secret
+      record_date: '2000-11-28'
+      record_reference: null
+      content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
+      friendly_name: 2000-11-28-ebook-the-fatima-secret
+  - claim_id: e74138b0-e71a-4598-85c8-81fbf915d734
+    claim_hash: cca842c96476164bd798bfd1cc4c50da05182677832fd84d9da0ea94f239884c
+    content: Marian apparitions are unique in that they have received such a powerful response that they have often led to
+      identifiable historical change.
+    original_excerpt: Marian apparitions are unique in that they have received such a powerful response that they have often
+      led to identifiable historical change.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+      title: Whitley Strieber
+    provenance_chain:
+      origin_kind: speaker
+      origin: Whitley Strieber
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 9fcb0a2b-2f0e-401d-86f3-195e2f6053dc
+        title: Marian apparitions
+        slug: marian-apparitions
+    date: null
+    date_end: null
+    location_in_record: ch4:5955-6089
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 171e1337-151f-40c5-8b9a-659faac4c5f6
+      record_title: The Fatima Secret
+      record_date: '2000-11-28'
+      record_reference: null
+      content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
+      friendly_name: 2000-11-28-ebook-the-fatima-secret
+  - claim_id: 64a530c6-8962-406d-a62e-d52a0e4aae32
+    claim_hash: 0e6eedb400b79bab37aaaa3bc659a531de0108727199556b320549419a219221
+    content: Michael Hesemann considers the message of the Fatima apparitions and Marian apparitions to be purely spiritual,
+      indicating a spiritual intelligence behind them.
+    original_excerpt: Their message is a purely spiritual one, and therefore we can conclude that there is a spiritual intelligence
+      behind them.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 6e230da1-2d10-4a16-920d-3dbc2369e898
+      title: Michael Hesemann
+    provenance_chain:
+      origin_kind: speaker
+      origin: Hesemann, Michael
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 6e230da1-2d10-4a16-920d-3dbc2369e898
+        title: Michael Hesemann
+        slug: michael-hesemann
+      - node_id: 9fcb0a2b-2f0e-401d-86f3-195e2f6053dc
+        title: Marian apparitions
+        slug: marian-apparitions
+      - node_id: cfd554b1-096e-4d54-aa89-5edc2e0c41f5
+        title: Fatima apparitions (1917)
+        slug: fatima-apparitions-1917
+    date: null
+    date_end: null
+    location_in_record: ch5:4217-4334
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 171e1337-151f-40c5-8b9a-659faac4c5f6
+      record_title: The Fatima Secret
+      record_date: '2000-11-28'
+      record_reference: null
+      content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
+      friendly_name: 2000-11-28-ebook-the-fatima-secret
+  - claim_id: 4f39b4d7-194e-4a38-a011-d4fc3ce4cfff
+    claim_hash: 0262b2a145adde56e7d60d23618cb3f2112dcb21ee2cf87ef040524a85599140
+    content: The phenomenon of Marian apparitions started in the middle of the nineteenth century and was still growing as
+      of the book's writing.
+    original_excerpt: It is part of an overall phenomenon of Marian revelations, which started in the middle of the nineteenth
+      century and are still growing.
+    claim_type: opinion
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: narration
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 9fcb0a2b-2f0e-401d-86f3-195e2f6053dc
+        title: Marian apparitions
+        slug: marian-apparitions
+    date: null
+    date_end: null
+    location_in_record: ch5:5813-5940
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 171e1337-151f-40c5-8b9a-659faac4c5f6
+      record_title: The Fatima Secret
+      record_date: '2000-11-28'
+      record_reference: null
+      content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
+      friendly_name: 2000-11-28-ebook-the-fatima-secret
+  - claim_id: 87087f24-2104-4810-aad4-2b22e9e135f8
+    claim_hash: e6e376c490c67af29cc3f180d90fb247bb935267401c9ef226d3118049ca152e
+    content: Michael Hesemann considers that UFO phenomena and Marian apparitions are ways in which another world breaks through
+      the barriers into everyday life.
+    original_excerpt: This "other" world breaks through the barriers into our everyday lives in ways as diverse as UFO phenomena
+      and Marian apparitions.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 6e230da1-2d10-4a16-920d-3dbc2369e898
+      title: Michael Hesemann
+    provenance_chain:
+      origin_kind: speaker
+      origin: Michael Hesemann
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 6e230da1-2d10-4a16-920d-3dbc2369e898
+        title: Michael Hesemann
+        slug: michael-hesemann
+      - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
+        title: Unidentified Flying Object (UFO)
+        slug: unidentified-flying-object-ufo
+      - node_id: 9fcb0a2b-2f0e-401d-86f3-195e2f6053dc
+        title: Marian apparitions
+        slug: marian-apparitions
+    date: null
+    date_end: null
+    location_in_record: ch7:10070-10188
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 171e1337-151f-40c5-8b9a-659faac4c5f6
+      record_title: The Fatima Secret
+      record_date: '2000-11-28'
+      record_reference: null
+      content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
+      friendly_name: 2000-11-28-ebook-the-fatima-secret
+  - claim_id: f1353a77-87b6-4bd6-a59f-e935d667642b
+    claim_hash: e1584b90771e56205cde08e3d8e5b45cc78dad55456af8e18e2204789736682c
+    content: The Fatima apparitions of 1917 are part of a larger phenomenon of Marian apparitions that began in the mid-nineteenth
+      century and have increased in frequency since.
+    original_excerpt: They are part of a larger phenomenon of Marian visions, which began in the mid-nineteenth century and
+      have increased in frequency ever since.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 6e230da1-2d10-4a16-920d-3dbc2369e898
+      title: Michael Hesemann
+    provenance_chain:
+      origin_kind: speaker
+      origin: Michael Hesemann
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 6e230da1-2d10-4a16-920d-3dbc2369e898
+        title: Michael Hesemann
+        slug: michael-hesemann
+      - node_id: 9fcb0a2b-2f0e-401d-86f3-195e2f6053dc
+        title: Marian apparitions
+        slug: marian-apparitions
+      - node_id: cfd554b1-096e-4d54-aa89-5edc2e0c41f5
+        title: Fatima apparitions (1917)
+        slug: fatima-apparitions-1917
+    date: null
+    date_end: null
+    location_in_record: ch7:5855-5990
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 171e1337-151f-40c5-8b9a-659faac4c5f6
+      record_title: The Fatima Secret
+      record_date: '2000-11-28'
+      record_reference: null
+      content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
+      friendly_name: 2000-11-28-ebook-the-fatima-secret
+  - claim_id: 0ab3a1ce-197e-40fd-aa9e-de16834b2ab3
+    claim_hash: 33a2d2e0af81d21a710c6d9cb0028e9d27fb536e73c4da091bcd64d364e5fddf
+    content: Michael Hesemann considers the warnings given by Marian apparitions to be similar to warnings received from UFO
+      visitors.
+    original_excerpt: The warnings given to us by the Marian apparitions are similar to the warnings received from UFO visitors.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 6e230da1-2d10-4a16-920d-3dbc2369e898
+      title: Michael Hesemann
+    provenance_chain:
+      origin_kind: speaker
+      origin: Michael Hesemann
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 6e230da1-2d10-4a16-920d-3dbc2369e898
+        title: Michael Hesemann
+        slug: michael-hesemann
+      - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
+        title: Unidentified Flying Object (UFO)
+        slug: unidentified-flying-object-ufo
+      - node_id: 9fcb0a2b-2f0e-401d-86f3-195e2f6053dc
+        title: Marian apparitions
+        slug: marian-apparitions
+    date: null
+    date_end: null
+    location_in_record: ch7:5997-6094
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 171e1337-151f-40c5-8b9a-659faac4c5f6
+      record_title: The Fatima Secret
+      record_date: '2000-11-28'
+      record_reference: null
+      content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
+      friendly_name: 2000-11-28-ebook-the-fatima-secret
+  - claim_id: 18f8ba1c-c1e6-41e2-91ef-3e8b81ee5265
+    claim_hash: 9d7511f23b07ea9c67c2c51d53480991eeb14573fca5f3798dc2248caa4099a5
+    content: The Fatima Marian apparitions began in 1917 in Portugal, when young children reported seeing strange beings and
+      a lady whom no one else could see.
+    original_excerpt: it's a 1917 kind of period in Portugal, a place called Fatima. And these young children start to see
+      strange beings. This lady appears and, you know, no one else can really see this lady.
+    claim_type: testimony
+    attestation: null
+    speaker:
+      node_id: ff0a86b8-8f3c-4291-94ed-c6d303875ce8
+      title: Jason Samosa
+    provenance_chain:
+      origin_kind: unattributed
+      origin: general historical account
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 95472b02-af65-4737-896c-993994f9be27
+        title: Portugal, Fatima
+        slug: fatima-portugal
+      - node_id: 9fcb0a2b-2f0e-401d-86f3-195e2f6053dc
+        title: Marian apparitions
+        slug: marian-apparitions
+      - node_id: c3049206-6e8c-43b6-a645-5b8c47da0e56
+        title: 1917 Fatima Marian apparitions
+        slug: 1917-fatima-marian-apparitions
+    date: '1917'
+    date_end: null
+    location_in_record: 02:20:47.5-02:20:58.7
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 64b84f95-238c-4ab7-a678-bee55f985b14
+      record_title: The UFO Cover-Up Leads to One Secret Society — and One Final Event
+      record_date: '2026-07-14'
+      record_reference: https://www.youtube.com/watch?v=kccrkCGGzX4
+      content_hash: sha256:d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7b5a1b98d
+      friendly_name: null

@@ -1,0 +1,603 @@
+schema: anomalica/brief/1
+brief_hash: 83e51dccdc2aeb5a48cf30c915bb9292f7728cdbfaa5b6e7dd5e1fa4a762f60a
+page:
+  kind: entity
+  node_id: 76815898-cfc1-4d33-837b-113ed402ab4a
+  node_type: person
+  title: Donald Keyhoe
+  slug: donald-keyhoe
+  claim_count: 14
+  claim_count_total: 14
+generated:
+  graph_version: '2026-09-01T10:10:49.863545+00:00'
+size:
+  claims: 14
+  tokens_estimated: 4080
+  sized_against: 1050000
+publication:
+  status: published
+  note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
+    transcripts are gated elsewhere.
+belonging:
+  verified: 0
+  suspect_excluded: 0
+  unreviewed: 14
+related_nodes:
+  - node_id: 32b98a17-be55-4b0f-8e10-9d377e1e8b33
+    title: United States Air Force (USAF)
+    node_type: organisation
+    slug: united-states-air-force-usaf
+    shared_claims: 4
+  - node_id: f9f3c565-5dfa-4fc7-8485-e0d16d748e14
+    title: Flying Saucers Are Real
+    node_type: document
+    slug: flying-saucers-are-real
+    shared_claims: 3
+  - node_id: 384dcdc2-dd40-4ad9-a731-8fc1ac9f8a77
+    title: National Investigations Committee on Aerial Phenomena (NICAP)
+    node_type: organisation
+    slug: national-investigations-committee-on-aerial-phenomena-nicap
+    shared_claims: 3
+  - node_id: 26e4a0c7-7da3-4001-8f87-118941d1961c
+    title: Directorate of Air Force Intelligence Australia
+    node_type: organisation
+    slug: directorate-of-air-force-intelligence-australia
+    shared_claims: 2
+  - node_id: 442f8857-a05f-42e3-ba13-1040ab4b62ed
+    title: Harry Turner
+    node_type: person
+    slug: harry-turner
+    shared_claims: 2
+  - node_id: 6a0908ae-a9fa-4a24-9c24-20573b939788
+    title: 1954 Harry Turner Directorate of Air Force Intelligence (DAFI) Unidentified Aerial Phenomena (UAP) review
+    node_type: event
+    slug: 1954-harry-turner-directorate-of-air-force-intelligence-dafi-unidentified-aerial-phenomena-uap-review
+    shared_claims: 1
+  - node_id: a9463b39-2729-4c96-99d2-44d89dbbb31b
+    title: 1961 Betty and Barney Hill Unidentified Flying Object (UFO) abduction
+    node_type: event
+    slug: 1961-betty-and-barney-hill-unidentified-flying-object-ufo-abduction
+    shared_claims: 1
+  - node_id: ba818a56-7be8-41bd-8dff-132bb4a8f7e9
+    title: Barney Hill
+    node_type: person
+    slug: barney-hill
+    shared_claims: 1
+  - node_id: 827a669c-493c-4ea2-a245-a47d300ef053
+    title: Betty Hill
+    node_type: person
+    slug: betty-hill
+    shared_claims: 1
+  - node_id: a9c57f74-a940-45f4-82ac-18f2fd5f244e
+    title: Dan Kimball
+    node_type: person
+    slug: dan-kimball
+    shared_claims: 1
+  - node_id: c0f99f23-5c03-4437-a48f-226a86255412
+    title: Kimball Pacific UAP Sighting 1952
+    node_type: event
+    slug: kimball-pacific-uap-sighting-1952
+    shared_claims: 1
+  - node_id: 6ac84112-84f3-44b0-8f4e-f674c122a22c
+    title: True Magazine
+    node_type: organisation
+    slug: true-magazine
+    shared_claims: 1
+claims:
+  - claim_id: e3d751cf-efbf-439a-9a50-f8a21f6aecf5
+    claim_hash: d81984d620a5f9262652bc097efdd22f98be06109789cdf37d7811aca2109117
+    content: Donald Keyhoe was a retired Marine aviator who was head of the National Investigations Committee on Aerial Phenomena
+      (NICAP), a civilian research organisation.
+    original_excerpt: Donald Keyhoe, a retired Marine aviator who was head of the National Investigations Committee on Aerial
+      Phenomena, a civilian research organization.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 384dcdc2-dd40-4ad9-a731-8fc1ac9f8a77
+        title: National Investigations Committee on Aerial Phenomena (NICAP)
+        slug: national-investigations-committee-on-aerial-phenomena-nicap
+      - node_id: 76815898-cfc1-4d33-837b-113ed402ab4a
+        title: Donald Keyhoe
+        slug: donald-keyhoe
+    date: null
+    date_end: null
+    location_in_record: ch4:43149-43284
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 288e1100-0497-41df-ba08-9890e519b0b9
+      record_title: American Cosmic
+      record_date: '2019'
+      record_reference: null
+      content_hash: sha256:ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b16ac4758
+      friendly_name: 2019-ebook-american-cosmic
+  - claim_id: aec8d1f0-098d-47cc-a71e-0769637bdc62
+    claim_hash: a710283ecc9cac9bb1fb84de6e4825adf364be430161aeb0be073a11bd57f325
+    content: Donald Keyhoe contends in his book that there are alien beings that are more technologically advanced than humans.
+    original_excerpt: In the book Keyhoe contends that there are alien beings that are more technologically advanced than
+      humans and that the US Department of Defense is keeping the evidence secret.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 76815898-cfc1-4d33-837b-113ed402ab4a
+      title: Donald Keyhoe
+    provenance_chain:
+      origin_kind: speaker
+      origin: Donald Keyhoe
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 76815898-cfc1-4d33-837b-113ed402ab4a
+        title: Donald Keyhoe
+        slug: donald-keyhoe
+    date: null
+    date_end: null
+    location_in_record: ch4:43333-43502
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 288e1100-0497-41df-ba08-9890e519b0b9
+      record_title: American Cosmic
+      record_date: '2019'
+      record_reference: null
+      content_hash: sha256:ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b16ac4758
+      friendly_name: 2019-ebook-american-cosmic
+  - claim_id: 9dec7b03-6d63-45b9-bc6a-c7bed9fdf8a7
+    claim_hash: 9286ebed4e4b60c0c672adae684b63b2116b8f942108e7c60f85c5e57f306ee3
+    content: Donald Keyhoe contends in his book that the US Department of Defense is keeping evidence of technologically advanced
+      alien beings secret.
+    original_excerpt: the US Department of Defense is keeping the evidence secret.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 76815898-cfc1-4d33-837b-113ed402ab4a
+      title: Donald Keyhoe
+    provenance_chain:
+      origin_kind: speaker
+      origin: Donald Keyhoe
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 76815898-cfc1-4d33-837b-113ed402ab4a
+        title: Donald Keyhoe
+        slug: donald-keyhoe
+    date: null
+    date_end: null
+    location_in_record: ch4:43449-43502
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 288e1100-0497-41df-ba08-9890e519b0b9
+      record_title: American Cosmic
+      record_date: '2019'
+      record_reference: null
+      content_hash: sha256:ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b16ac4758
+      friendly_name: 2019-ebook-american-cosmic
+  - claim_id: 0ab8d589-9486-4efc-ab61-f5aaaeeb4074
+    claim_hash: d58f5ebe2fa35387ba63c37a14d7b1bfb045ae236d462b4deb670ca2fd101511
+    content: Betty Hill and Barney Hill reported empirical evidence of a starlike object sighting to the United States Air
+      Force, but when describing their experience to people they felt would not scoff, such as Donald Keyhoe and later their
+      therapist, they divulged the story of an encounter with nonhuman beings.
+    original_excerpt: They reported empirical evidence to the Air Force, the sighting of the starlike object. But when describing
+      their experience to people they felt would not be inclined to scoff, like Donald Keyhoe and later their therapist (who,
+      ironically, did not believe in UFOs), they divulged the story of the encounter with nonhuman beings.
+    claim_type: testimony
+    attestation: second_hand
+    speaker:
+      node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
+      title: Jacques Vallée
+    provenance_chain:
+      origin_kind: named
+      origin: Betty Hill and Barney Hill
+      relay:
+        - Jacques Vallee's field research
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 32b98a17-be55-4b0f-8e10-9d377e1e8b33
+        title: United States Air Force (USAF)
+        slug: united-states-air-force-usaf
+      - node_id: 76815898-cfc1-4d33-837b-113ed402ab4a
+        title: Donald Keyhoe
+        slug: donald-keyhoe
+      - node_id: 827a669c-493c-4ea2-a245-a47d300ef053
+        title: Betty Hill
+        slug: betty-hill
+      - node_id: a9463b39-2729-4c96-99d2-44d89dbbb31b
+        title: 1961 Betty and Barney Hill Unidentified Flying Object (UFO) abduction
+        slug: 1961-betty-and-barney-hill-unidentified-flying-object-ufo-abduction
+      - node_id: ba818a56-7be8-41bd-8dff-132bb4a8f7e9
+        title: Barney Hill
+        slug: barney-hill
+    date: null
+    date_end: null
+    location_in_record: ch5:7068-7389
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 288e1100-0497-41df-ba08-9890e519b0b9
+      record_title: American Cosmic
+      record_date: '2019'
+      record_reference: null
+      content_hash: sha256:ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b16ac4758
+      friendly_name: 2019-ebook-american-cosmic
+  - claim_id: ab0f8e65-e4a8-4f76-8c52-71a859d7b376
+    claim_hash: a699cf54fe508daf806de00925c078a11ead6bcc06b12ac40ffca8ccca82d9c7
+    content: Donald Keyhoe was co-founder of the National Investigations Committee on Aerial Phenomena (NICAP).
+    original_excerpt: The co-founder of the National Investigations Committee on Aerial Phenomena (NICAP), Major Donald Keyhoe
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: narration
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 384dcdc2-dd40-4ad9-a731-8fc1ac9f8a77
+        title: National Investigations Committee on Aerial Phenomena (NICAP)
+        slug: national-investigations-committee-on-aerial-phenomena-nicap
+      - node_id: 76815898-cfc1-4d33-837b-113ed402ab4a
+        title: Donald Keyhoe
+        slug: donald-keyhoe
+    date: null
+    date_end: null
+    location_in_record: ch8:14300-14398
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 9842b1a1-4966-49c4-92a1-460bf896a8fd
+    claim_hash: b71a1e1cf560fb4e31f29b3aae6089c930f052cd332c9f89f493b368f582770f
+    content: Dan Kimball told Donald Keyhoe that the discs observed during the 1952 Kimball-Radford Pacific UAP sighting flew
+      at speeds of up to approximately 3200 kilometres per hour.
+    original_excerpt: wrote how Kimball later told him the discs flew at speeds up to 2000 miles an hour (3200 km/h)
+    claim_type: testimony
+    attestation: second_hand
+    speaker:
+      node_id: 76815898-cfc1-4d33-837b-113ed402ab4a
+      title: Donald Keyhoe
+    provenance_chain:
+      origin_kind: named
+      origin: Dan Kimball
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 76815898-cfc1-4d33-837b-113ed402ab4a
+        title: Donald Keyhoe
+        slug: donald-keyhoe
+      - node_id: a9c57f74-a940-45f4-82ac-18f2fd5f244e
+        title: Dan Kimball
+        slug: dan-kimball
+      - node_id: c0f99f23-5c03-4437-a48f-226a86255412
+        title: Kimball Pacific UAP Sighting 1952
+        slug: kimball-pacific-uap-sighting-1952
+    date: null
+    date_end: null
+    location_in_record: ch8:14406-14498
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: c5f1048d-e83e-4092-8a3a-5cbf50fff505
+    claim_hash: 05ef6a6a85f6dd73611243c02f1d95b5e2c04a277f1ce0a112d5b71ca939e4f9
+    content: Donald Keyhoe was a Marine Corps veteran.
+    original_excerpt: Marine Corps veteran Donald Keyhoe
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: narration
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 76815898-cfc1-4d33-837b-113ed402ab4a
+        title: Donald Keyhoe
+        slug: donald-keyhoe
+    date: null
+    date_end: null
+    location_in_record: ch8:2935-2963
+    evidence:
+      score: null
+      independent_sources: 2
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 20762c32-caf6-4ca0-b049-7110c54f9a7e
+    claim_hash: 19140f192b5d72414bed596019670d62e1e3be00ecc99a3e8b7ff65711ea194a
+    content: Donald Keyhoe published the article 'Flying Saucers Are Real' in the magazine True in late 1949.
+    original_excerpt: published his dramatic article 'Flying Saucers Are Real' in the popular men's magazine True in late
+      1949
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: narration
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 6ac84112-84f3-44b0-8f4e-f674c122a22c
+        title: True Magazine
+        slug: true-magazine
+      - node_id: 76815898-cfc1-4d33-837b-113ed402ab4a
+        title: Donald Keyhoe
+        slug: donald-keyhoe
+    date: '1949'
+    date_end: null
+    location_in_record: ch8:2970-3072
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 994493a8-70e4-4b3c-a61b-ec95bb4e8332
+    claim_hash: 0beb8b09fd9aab45316448df91cc34d5c12c5b4cd46b51adb7cf7d8399d2f1fd
+    content: In his book Flying Saucers Are Real, Donald Keyhoe claimed the United States Air Force knew the mystery objects
+      were extra-terrestrial but was playing down reports to avoid public panic.
+    original_excerpt: In his best-selling book of the same name, he claimed the US Air Force knew that the mystery objects
+      were extra-terrestrial but that it was playing down reports to avoid a public panic
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 76815898-cfc1-4d33-837b-113ed402ab4a
+      title: Donald Keyhoe
+    provenance_chain:
+      origin_kind: speaker
+      origin: Donald Keyhoe
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 32b98a17-be55-4b0f-8e10-9d377e1e8b33
+        title: United States Air Force (USAF)
+        slug: united-states-air-force-usaf
+      - node_id: 76815898-cfc1-4d33-837b-113ed402ab4a
+        title: Donald Keyhoe
+        slug: donald-keyhoe
+      - node_id: f9f3c565-5dfa-4fc7-8485-e0d16d748e14
+        title: Flying Saucers Are Real
+        slug: flying-saucers-are-real
+    date: null
+    date_end: null
+    location_in_record: ch8:3078-3258
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: ddde7cb4-bb1f-423c-846f-8551fc0b53e3
+    claim_hash: 88eb78c6b6ad757c0dbaf8dcef867eb41ac8fb3a02dc8f4bdabb344c0801dced
+    content: Australia's Director of Air Force Intelligence said Harry Turner had erred in quoting Donald Keyhoe because Keyhoe
+      supposedly gave the misleading impression his books had some official US government sanction.
+    original_excerpt: He said Professor Turner had ‘erred’ in quoting Keyhoe because the former marine major supposedly gave
+      the misleading impression his books had some official US government sanction.
+    claim_type: opinion
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: anonymous
+      origin: a person claiming to be Australia's Director of Air Force Intelligence
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 26e4a0c7-7da3-4001-8f87-118941d1961c
+        title: Directorate of Air Force Intelligence Australia
+        slug: directorate-of-air-force-intelligence-australia
+      - node_id: 442f8857-a05f-42e3-ba13-1040ab4b62ed
+        title: Harry Turner
+        slug: harry-turner
+      - node_id: 76815898-cfc1-4d33-837b-113ed402ab4a
+        title: Donald Keyhoe
+        slug: donald-keyhoe
+    date: '1954'
+    date_end: null
+    location_in_record: ch9:10023-10194
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: dd1d2293-344b-4e05-9d78-cde44a42bd21
+    claim_hash: 1ce9aa94e80c2ed94d9da7816827a626d8e339c9d80dbba192694f6096325e81
+    content: Because Harry Turner quoted US flying saucer author and National Investigations Committee on Aerial Phenomena
+      director Donald Keyhoe in his research, Australia's Director of Air Force Intelligence dismissed Turner's findings after
+      consulting with the US Air Force.
+    original_excerpt: because Harry Turner quoted US best-selling flying saucer author and National Investigations Committee
+      on Aerial Phenomena director Major Donald Keyhoe in his research, Australia’s Director of Air Force Intelligence dismissed
+      Professor Turner’s findings, after consulting with the US Air Force
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 26e4a0c7-7da3-4001-8f87-118941d1961c
+        title: Directorate of Air Force Intelligence Australia
+        slug: directorate-of-air-force-intelligence-australia
+      - node_id: 32b98a17-be55-4b0f-8e10-9d377e1e8b33
+        title: United States Air Force (USAF)
+        slug: united-states-air-force-usaf
+      - node_id: 384dcdc2-dd40-4ad9-a731-8fc1ac9f8a77
+        title: National Investigations Committee on Aerial Phenomena (NICAP)
+        slug: national-investigations-committee-on-aerial-phenomena-nicap
+      - node_id: 442f8857-a05f-42e3-ba13-1040ab4b62ed
+        title: Harry Turner
+        slug: harry-turner
+      - node_id: 6a0908ae-a9fa-4a24-9c24-20573b939788
+        title: 1954 Harry Turner Directorate of Air Force Intelligence (DAFI) Unidentified Aerial Phenomena (UAP) review
+        slug: 1954-harry-turner-directorate-of-air-force-intelligence-dafi-unidentified-aerial-phenomena-uap-review
+      - node_id: 76815898-cfc1-4d33-837b-113ed402ab4a
+        title: Donald Keyhoe
+        slug: donald-keyhoe
+    date: '1954'
+    date_end: null
+    location_in_record: ch9:9728-10016
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 26be7206-7feb-4676-8326-74167e320511
+    claim_hash: 236b7055db64781ff4645bb5f6ce7ae7dd2dae0bf877faad8d1e2bd25444511d
+    content: In January 1950, Donald Keyhoe released a book entitled The Flying Saucers Are Real.
+    original_excerpt: I'm going to take you back to January 1950, where a very interesting book was released by none other
+      than Donald Kehoe entitled The Flying Saucers Are Real.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 76815898-cfc1-4d33-837b-113ed402ab4a
+        title: Donald Keyhoe
+        slug: donald-keyhoe
+      - node_id: f9f3c565-5dfa-4fc7-8485-e0d16d748e14
+        title: Flying Saucers Are Real
+        slug: flying-saucers-are-real
+    date: 1950-01
+    date_end: null
+    location_in_record: 00:10:48.8-00:10:57.4
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: f87bfd7f-e9da-40a1-b798-17f613313a67
+      record_title: Aliens and Albert Einstein - The Secret Document - DEBRIEFED ep. 33
+      record_date: '2025-04-11'
+      record_reference: https://www.youtube.com/watch?v=iSWqhLKzy2Q
+      content_hash: sha256:eda11247c8b061a87c50e7b919534a7201f12ef917f25680fe585121abef783c
+      friendly_name: null
+  - claim_id: f8ed4759-38e1-45d9-803a-f6363f1b4ba1
+    claim_hash: 1d4cf073da7f1d0f76acaa4cfd918d39b87ee8db02b73f39d4f60ed8e5ba0d7a
+    content: Donald Keyhoe was a former United States Marine Corps major.
+    original_excerpt: Kehoe was a former US Marine Corps major.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 76815898-cfc1-4d33-837b-113ed402ab4a
+        title: Donald Keyhoe
+        slug: donald-keyhoe
+    date: null
+    date_end: null
+    location_in_record: 00:10:58.2-00:11:00.2
+    evidence:
+      score: null
+      independent_sources: 2
+    provenance:
+      record_id: f87bfd7f-e9da-40a1-b798-17f613313a67
+      record_title: Aliens and Albert Einstein - The Secret Document - DEBRIEFED ep. 33
+      record_date: '2025-04-11'
+      record_reference: https://www.youtube.com/watch?v=iSWqhLKzy2Q
+      content_hash: sha256:eda11247c8b061a87c50e7b919534a7201f12ef917f25680fe585121abef783c
+      friendly_name: null
+  - claim_id: 8b48f5b7-a8d1-4727-94aa-94a31028ce05
+    claim_hash: 0caadd6f198e47fda38076e9be2f4e928054f42a34920620fc771193d0458f4f
+    content: In The Flying Saucers Are Real, Donald Keyhoe suggested that the US government was hiding the truth about UFOs
+      and claimed that high-level insiders, including Air Force officials, had retrieved crashed alien vehicles.
+    original_excerpt: He suggested that the US government was hiding the truth and claimed that high-level insiders like Air
+      Force officials had retrieved crashed alien vehicles.
+    claim_type: opinion
+    attestation: second_hand
+    speaker:
+      node_id: 76815898-cfc1-4d33-837b-113ed402ab4a
+      title: Donald Keyhoe
+    provenance_chain:
+      origin_kind: document
+      origin: The Flying Saucers Are Real (book)
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 32b98a17-be55-4b0f-8e10-9d377e1e8b33
+        title: United States Air Force (USAF)
+        slug: united-states-air-force-usaf
+      - node_id: 76815898-cfc1-4d33-837b-113ed402ab4a
+        title: Donald Keyhoe
+        slug: donald-keyhoe
+      - node_id: f9f3c565-5dfa-4fc7-8485-e0d16d748e14
+        title: Flying Saucers Are Real
+        slug: flying-saucers-are-real
+    date: null
+    date_end: null
+    location_in_record: 00:11:00.8-00:11:08.5
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: f87bfd7f-e9da-40a1-b798-17f613313a67
+      record_title: Aliens and Albert Einstein - The Secret Document - DEBRIEFED ep. 33
+      record_date: '2025-04-11'
+      record_reference: https://www.youtube.com/watch?v=iSWqhLKzy2Q
+      content_hash: sha256:eda11247c8b061a87c50e7b919534a7201f12ef917f25680fe585121abef783c
+      friendly_name: null

@@ -1,0 +1,1331 @@
+schema: anomalica/brief/1
+brief_hash: 96a28e27e49b554cca257b55bbbadfa397bb806930fe1fd136af4bc0fc39c1ff
+page:
+  kind: entity
+  node_id: 65058869-076f-47d0-92ea-f8daf08b94cf
+  node_type: person
+  title: Barack Obama
+  slug: barack-obama
+  claim_count: 29
+  claim_count_total: 29
+generated:
+  graph_version: '2026-09-01T10:10:49.863545+00:00'
+size:
+  claims: 29
+  tokens_estimated: 8527
+  sized_against: 1050000
+publication:
+  status: published
+  note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
+    transcripts are gated elsewhere.
+belonging:
+  verified: 0
+  suspect_excluded: 0
+  unreviewed: 29
+related_nodes:
+  - node_id: 176b82fd-52fb-4c89-944c-e03e424fd545
+    title: John Podesta
+    node_type: person
+    slug: john-podesta
+    shared_claims: 6
+  - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
+    title: Unidentified Flying Object (UFO)
+    node_type: topic
+    slug: unidentified-flying-object-ufo
+    shared_claims: 6
+  - node_id: 459eb5cf-ea76-4cad-9421-a726261cd3a2
+    title: Bill Clinton
+    node_type: person
+    slug: bill-clinton
+    shared_claims: 4
+  - node_id: 6ab4de8a-5e1e-4fd4-a5bb-6a96ff234ad4
+    title: William J. Clinton
+    node_type: person
+    slug: william-j-clinton
+    shared_claims: 4
+  - node_id: 167b9461-2288-4c48-b9b5-7b798d883f4f
+    title: 2015-03 Obama Jimmy Kimmel Live interview on aliens
+    node_type: event
+    slug: 2015-03-obama-jimmy-kimmel-live-interview-on-aliens
+    shared_claims: 3
+  - node_id: a3b88bf2-de8f-45bf-addf-fadd9244c4e5
+    title: James R. Clapper
+    node_type: person
+    slug: james-r-clapper
+    shared_claims: 3
+  - node_id: ea8ea587-d42e-4dc4-83b4-3804488fe215
+    title: Jimmy Kimmel Live
+    node_type: document
+    slug: jimmy-kimmel-live
+    shared_claims: 3
+  - node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+    title: Luis Elizondo
+    node_type: person
+    slug: luis-elizondo
+    shared_claims: 3
+  - node_id: dcfde05e-4c6d-4f3a-80da-781e42865401
+    title: USA, Nevada, Area 51
+    node_type: place
+    slug: nevada-area-51-usa
+    shared_claims: 3
+  - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
+    title: Unidentified Anomalous Phenomena (UAP)
+    node_type: topic
+    slug: unidentified-anomalous-phenomena-uap
+    shared_claims: 2
+  - node_id: 8af035c9-1425-4d81-bd15-25a27f3e043b
+    title: 2017 New York Times article on the Pentagon Unidentified Flying Object (UFO) program
+    node_type: document
+    slug: 2017-new-york-times-article-on-the-pentagon-unidentified-flying-object-ufo-program
+    shared_claims: 1
+  - node_id: ede32718-5670-4e5a-97da-13b980b85676
+    title: Betty and Barney Hill abduction case
+    node_type: event
+    slug: betty-and-barney-hill-abduction-case
+    shared_claims: 1
+  - node_id: 38b84d4a-96df-4684-bb46-f6f64f392add
+    title: Central Intelligence Agency (CIA)
+    node_type: organisation
+    slug: central-intelligence-agency-cia
+    shared_claims: 1
+  - node_id: c97d75c4-feb8-4d22-a0f0-a1da89b7007f
+    title: Cuba, Guantanamo Bay
+    node_type: place
+    slug: guantanamo-bay-cuba
+    shared_claims: 1
+  - node_id: 74f92619-e20b-406f-914f-b1181c4d82cb
+    title: Fermi paradox
+    node_type: topic
+    slug: fermi-paradox
+    shared_claims: 1
+  - node_id: 7a7d3dc5-791a-4393-a8bd-7afd375c52f3
+    title: Freedom of Information Act (FOIA)
+    node_type: topic
+    slug: freedom-of-information-act-foia
+    shared_claims: 1
+  - node_id: dba2f206-7088-4fe9-9fc5-d7228a9149f4
+    title: George Herbert Walker Bush
+    node_type: person
+    slug: george-herbert-walker-bush
+    shared_claims: 1
+  - node_id: 8d16b687-0581-4cf5-952a-a6ad7dfe7016
+    title: George W. Bush
+    node_type: person
+    slug: george-w-bush
+    shared_claims: 1
+  - node_id: 3030c72b-534a-4ddb-88ec-c09f315b9d87
+    title: Gerald Ford
+    node_type: person
+    slug: gerald-ford
+    shared_claims: 1
+  - node_id: c91974f0-961f-4db8-b7b0-22d4b846e5d5
+    title: Harry Reid
+    node_type: person
+    slug: harry-reid
+    shared_claims: 1
+  - node_id: 33ae3380-25ea-442a-9d60-69b285a20182
+    title: Hillary Clinton
+    node_type: person
+    slug: hillary-clinton
+    shared_claims: 1
+  - node_id: 29f843ff-42ca-4f1c-b335-4059708e83a3
+    title: James Corden
+    node_type: person
+    slug: james-corden
+    shared_claims: 1
+  - node_id: ff0a86b8-8f3c-4291-94ed-c6d303875ce8
+    title: Jason Samosa
+    node_type: person
+    slug: jason-samosa
+    shared_claims: 1
+  - node_id: 079d4381-4273-418b-bc9a-468623f95c6e
+    title: Jesse Mitchells
+    node_type: person
+    slug: jesse-mitchells
+    shared_claims: 1
+  - node_id: 898c410a-7789-4762-b6dd-1139ced89658
+    title: Jimmy Carter
+    node_type: person
+    slug: jimmy-carter
+    shared_claims: 1
+  - node_id: 7c74447b-218f-492e-a2f7-26fe9ba4e1cb
+    title: John Brennan
+    node_type: person
+    slug: john-brennan
+    shared_claims: 1
+  - node_id: 7155e2e0-0cd2-4ee7-963d-6e47c3f093f2
+    title: John Greenewald
+    node_type: person
+    slug: john-greenewald
+    shared_claims: 1
+  - node_id: b8a55a41-221e-4a25-a384-d5322ffdcbec
+    title: Lunar Reconnaissance Orbiter (LRO)
+    node_type: object
+    slug: lunar-reconnaissance-orbiter-lro
+    shared_claims: 1
+  - node_id: 9c74d864-957a-4654-a5b6-1249fe654ec7
+    title: Non-Human Intelligence
+    node_type: topic
+    slug: non-human-intelligence
+    shared_claims: 1
+  - node_id: 3690087e-5e65-4693-8b72-f144d9963dd5
+    title: Richard Nixon
+    node_type: person
+    slug: richard-nixon
+    shared_claims: 1
+claims:
+  - claim_id: 223ce99a-5206-4692-9964-17f30d1c7f6d
+    claim_hash: e295c4ec141e2d5f037f3bb31e4ba1c79c9b9686a3c515211d6b9e2e5c08b8ac
+    content: Because of launch delays, the Lunar Reconnaissance Orbiter mission would take place entirely during Barack Obama's
+      presidency rather than George W. Bush's.
+    original_excerpt: due to those delays, the LRO Mission would take place totally on Barack Obama’s watch.
+    claim_type: administrative
+    attestation: first_hand
+    speaker:
+      node_id: e1650a1d-8feb-4841-a403-0d71e176d2d9
+      title: Richard C. Hoagland
+    provenance_chain:
+      origin_kind: speaker
+      origin: Richard C. Hoagland
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 65058869-076f-47d0-92ea-f8daf08b94cf
+        title: Barack Obama
+        slug: barack-obama
+      - node_id: 8d16b687-0581-4cf5-952a-a6ad7dfe7016
+        title: George W. Bush
+        slug: george-w-bush
+      - node_id: b8a55a41-221e-4a25-a384-d5322ffdcbec
+        title: Lunar Reconnaissance Orbiter (LRO)
+        slug: lunar-reconnaissance-orbiter-lro
+    date: null
+    date_end: null
+    location_in_record: ch6:24206-24286
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+      record_title: Dark Mission
+      record_date: '2010-07-22'
+      record_reference: null
+      content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+      friendly_name: null
+  - claim_id: 32dcefba-6c4b-4670-bda6-117e2884eaee
+    claim_hash: 336cc2be6c2440d347efc91023b724d5438f670591d6c0146e257f57f99554eb
+    content: John Podesta served as Counsellor to President Barack Obama from 2014 to 2015.
+    original_excerpt: would later serve as Counsellor to President Obama from 2014 to 2015
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 176b82fd-52fb-4c89-944c-e03e424fd545
+        title: John Podesta
+        slug: john-podesta
+      - node_id: 65058869-076f-47d0-92ea-f8daf08b94cf
+        title: Barack Obama
+        slug: barack-obama
+    date: '2014'
+    date_end: null
+    location_in_record: ch14:26387-26451
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 9612f758-1801-4bbc-b62c-cd638445e523
+    claim_hash: 2871930e04e87c39158f337a8321208a7381301ee81fe1a96688f776062a698c
+    content: In February 2015, on his final day as Counsellor to President Obama, John Podesta tweeted that his biggest failure
+      of 2014 was once again not securing the disclosure of the UFO files.
+    original_excerpt: 'In February 2015, on his final day as Counsellor to President Obama, John Podesta tweeted, ''Finally,
+      my biggest failure of 2014: Once again not securing the #disclosure of the UFO files. #thetruthisstilloutthere cc: @nytimesDowd''.'
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 176b82fd-52fb-4c89-944c-e03e424fd545
+      title: John Podesta
+    provenance_chain:
+      origin_kind: speaker
+      origin: John Podesta
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 176b82fd-52fb-4c89-944c-e03e424fd545
+        title: John Podesta
+        slug: john-podesta
+      - node_id: 65058869-076f-47d0-92ea-f8daf08b94cf
+        title: Barack Obama
+        slug: barack-obama
+    date: 2015-02
+    date_end: null
+    location_in_record: ch18:3396-3613
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 345a268c-769b-4cbf-84e5-2560f8059f15
+    claim_hash: 94030afa037eda2cce5350cb2c9dc9fa9b875fdf36f3e7cf3c5acbc4d3122fe2
+    content: When asked by Jimmy Kimmel in March 2015 whether he had gone to find the Area 51 and UFO files upon becoming
+      president, Barack Obama responded that the aliens would not let it happen because he would reveal all their secrets,
+      and that they exercise strict control over the government.
+    original_excerpt: 'President Obama (smiling): ''That''s why you will not be president. That''s the first thing you would
+      do. [laughing] Aaah – the aliens won''t let it happen. You''ll reveal all their secrets. They exercise strict control
+      over us.'''
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 65058869-076f-47d0-92ea-f8daf08b94cf
+      title: Barack Obama
+    provenance_chain:
+      origin_kind: speaker
+      origin: Barack Obama
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 167b9461-2288-4c48-b9b5-7b798d883f4f
+        title: 2015-03 Obama Jimmy Kimmel Live interview on aliens
+        slug: 2015-03-obama-jimmy-kimmel-live-interview-on-aliens
+      - node_id: 65058869-076f-47d0-92ea-f8daf08b94cf
+        title: Barack Obama
+        slug: barack-obama
+      - node_id: ea8ea587-d42e-4dc4-83b4-3804488fe215
+        title: Jimmy Kimmel Live
+        slug: jimmy-kimmel-live
+    date: 2015-03
+    date_end: null
+    location_in_record: ch18:4626-4846
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: b2eaa265-5755-4ff1-a1d1-f0e9dcf1bac8
+    claim_hash: c52b238e7a99ae9e1cffe15e878902bcb5dac3624b6326e816cb7439f67b4171
+    content: When pressed by Jimmy Kimmel in March 2015 on whether he had looked into UFO files, Barack Obama said he could
+      not reveal anything.
+    original_excerpt: 'President Obama (slightly more serious): ''I – I can''t reveal anything.'''
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 65058869-076f-47d0-92ea-f8daf08b94cf
+      title: Barack Obama
+    provenance_chain:
+      origin_kind: speaker
+      origin: Barack Obama
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 167b9461-2288-4c48-b9b5-7b798d883f4f
+        title: 2015-03 Obama Jimmy Kimmel Live interview on aliens
+        slug: 2015-03-obama-jimmy-kimmel-live-interview-on-aliens
+      - node_id: 65058869-076f-47d0-92ea-f8daf08b94cf
+        title: Barack Obama
+        slug: barack-obama
+      - node_id: ea8ea587-d42e-4dc4-83b4-3804488fe215
+        title: Jimmy Kimmel Live
+        slug: jimmy-kimmel-live
+    date: 2015-03
+    date_end: null
+    location_in_record: ch18:5063-5124
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 9c8ff4cf-926d-48ca-b2d8-182d91584074
+    claim_hash: b182c8ab22db361f28e5594f07c0ed4bf0ad421b74f579a993d829ad6513b97f
+    content: When told by Jimmy Kimmel in March 2015 that President Clinton had said he checked and found nothing regarding
+      UFOs, Barack Obama replied that saying there was nothing is what presidents are instructed to say.
+    original_excerpt: 'Jimmy: ''Oh really. Because President Clinton said he did go right in and he did check and there was
+      nothing.'' President Obama: ''Well you know, that''s what we''re instructed to say.'''
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 65058869-076f-47d0-92ea-f8daf08b94cf
+      title: Barack Obama
+    provenance_chain:
+      origin_kind: speaker
+      origin: Barack Obama
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 167b9461-2288-4c48-b9b5-7b798d883f4f
+        title: 2015-03 Obama Jimmy Kimmel Live interview on aliens
+        slug: 2015-03-obama-jimmy-kimmel-live-interview-on-aliens
+      - node_id: 65058869-076f-47d0-92ea-f8daf08b94cf
+        title: Barack Obama
+        slug: barack-obama
+      - node_id: 6ab4de8a-5e1e-4fd4-a5bb-6a96ff234ad4
+        title: William J. Clinton
+        slug: william-j-clinton
+      - node_id: ea8ea587-d42e-4dc4-83b4-3804488fe215
+        title: Jimmy Kimmel Live
+        slug: jimmy-kimmel-live
+    date: 2015-03
+    date_end: null
+    location_in_record: ch18:5144-5339
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 3476f827-1a18-46dd-9d45-2c4cb30fc3b1
+    claim_hash: 0c37a3ee459ae207a17bdcd41e3d2acea2eb50387cf12d6d5369b7b279cad845
+    content: John Podesta held top-secret/Sensitive Compartmented Information (SCI) clearances in his past roles with both
+      Presidents Obama and Clinton.
+    original_excerpt: He is a senior and well-respected public servant who held top-secret/SCI clearances in his past roles
+      with both Presidents Obama and Clinton.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 176b82fd-52fb-4c89-944c-e03e424fd545
+        title: John Podesta
+        slug: john-podesta
+      - node_id: 65058869-076f-47d0-92ea-f8daf08b94cf
+        title: Barack Obama
+        slug: barack-obama
+      - node_id: 6ab4de8a-5e1e-4fd4-a5bb-6a96ff234ad4
+        title: William J. Clinton
+        slug: william-j-clinton
+      - node_id: 9bb3e171-2197-411c-ab51-c4ea9dd2048f
+        title: Sensitive Compartmented Information Facility (SCIF)
+        slug: sensitive-compartmented-information-facility-scif
+    date: null
+    date_end: null
+    location_in_record: ch20:17002-17135
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 9f87020e-0b71-4a5c-96c1-665a4085bc5a
+    claim_hash: 17507cc7ac340628f769ca5c968cd239b659e228fcd8f94c6c33867355a68344
+    content: John Podesta is a confidant of Presidents Bill Clinton and Barack Obama.
+    original_excerpt: John Podesta, the confidant of Presidents Clinton and Obama
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 176b82fd-52fb-4c89-944c-e03e424fd545
+        title: John Podesta
+        slug: john-podesta
+      - node_id: 65058869-076f-47d0-92ea-f8daf08b94cf
+        title: Barack Obama
+        slug: barack-obama
+      - node_id: 6ab4de8a-5e1e-4fd4-a5bb-6a96ff234ad4
+        title: William J. Clinton
+        slug: william-j-clinton
+    date: null
+    date_end: null
+    location_in_record: ch28:28552-28606
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: cdf8d701-990d-4487-bad6-7ea598e8ee59
+    claim_hash: 4063218fc2fe3aebdebe6f2cee002bf0c91d394b611261b8c62f375318c57928
+    content: President Barack Obama asked James Clapper to become the new Director of National Intelligence (DNI).
+    original_excerpt: was asked by President Barack Obama to become the new DNI.
+    claim_type: administrative
+    attestation: first_hand
+    speaker:
+      node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+      title: Luis Elizondo
+    provenance_chain:
+      origin_kind: speaker
+      origin: Lue Elizondo
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 65058869-076f-47d0-92ea-f8daf08b94cf
+        title: Barack Obama
+        slug: barack-obama
+      - node_id: a3b88bf2-de8f-45bf-addf-fadd9244c4e5
+        title: James R. Clapper
+        slug: james-r-clapper
+    date: null
+    date_end: null
+    location_in_record: ch12:49232-49286
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  - claim_id: 49e96a35-8ee8-408a-824b-1588b1889847
+    claim_hash: 6ab486e31c35d0ed38868e5bb19f016e1b3142a5246009129d481e9e208997d1
+    content: James Clapper received a phone call from Barack Obama during a meeting with Luis Elizondo, and shortly afterward
+      became the next Director of National Intelligence.
+    original_excerpt: '"Sir, it''s Obama," she said. Clapper stepped out to take the president''s call. When he reentered
+      the room, he said to us, "How do you all feel about me being the next director of national intelligence?" And just like
+      that, he was.'
+    claim_type: observation
+    attestation: first_hand
+    speaker:
+      node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+      title: Luis Elizondo
+    provenance_chain:
+      origin_kind: speaker
+      origin: Lue Elizondo
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 65058869-076f-47d0-92ea-f8daf08b94cf
+        title: Barack Obama
+        slug: barack-obama
+      - node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+        title: Luis Elizondo
+        slug: luis-elizondo
+      - node_id: a3b88bf2-de8f-45bf-addf-fadd9244c4e5
+        title: James R. Clapper
+        slug: james-r-clapper
+    date: null
+    date_end: null
+    location_in_record: ch16:5551-5778
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  - claim_id: 660b8e08-f910-45b5-a748-84ea146d9bc9
+    claim_hash: 761745dad4805207e971c4736c7aaa2ca701b4814675a7336e88f501543240b7
+    content: In the last years of the Obama administration, Lue Elizondo's primary work focus shifted heavily to counterterrorism
+      efforts.
+    original_excerpt: In the last years of the Obama administration, my primary work focus had shifted heavily to counterterrorism
+      efforts.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+      title: Luis Elizondo
+    provenance_chain:
+      origin_kind: speaker
+      origin: Lue Elizondo
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 65058869-076f-47d0-92ea-f8daf08b94cf
+        title: Barack Obama
+        slug: barack-obama
+      - node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+        title: Luis Elizondo
+        slug: luis-elizondo
+    date: null
+    date_end: null
+    location_in_record: ch20:2727-2836
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  - claim_id: 7144a7da-4197-460a-9584-ed1ecba868a7
+    claim_hash: ceca339de05bf97906149ea8cf21b546e5fe2970c1960aa3ea9f78c7f7f2a806
+    content: The Obama administration had sworn to shut down Guantanamo Bay (GTMO) even though Lue Elizondo was running its
+      most sensitive program.
+    original_excerpt: The Obama administration had sworn to shut down GTMO, or Gitmo, as Guantanamo is often called, even
+      though they had me running their most sensitive program.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+      title: Luis Elizondo
+    provenance_chain:
+      origin_kind: speaker
+      origin: Lue Elizondo
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 65058869-076f-47d0-92ea-f8daf08b94cf
+        title: Barack Obama
+        slug: barack-obama
+      - node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+        title: Luis Elizondo
+        slug: luis-elizondo
+      - node_id: c97d75c4-feb8-4d22-a0f0-a1da89b7007f
+        title: Cuba, Guantanamo Bay
+        slug: guantanamo-bay-cuba
+    date: null
+    date_end: null
+    location_in_record: ch20:7639-7787
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  - claim_id: 79bece11-f229-43bb-832d-42c337d7c6e9
+    claim_hash: 45754e20ef3a42e4bd4f398a9169de548f2afcc08e0200402a9014d6b868a5e2
+    content: John Podesta served as chief of staff to President Bill Clinton, counselor to President Barack Obama, and campaign
+      manager to Hillary Clinton.
+    original_excerpt: John Podesta, who had served as chief of staff to President Clinton, counselor to President Barack Obama,
+      and campaign manager to Hillary Clinton, was involved.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 176b82fd-52fb-4c89-944c-e03e424fd545
+        title: John Podesta
+        slug: john-podesta
+      - node_id: 33ae3380-25ea-442a-9d60-69b285a20182
+        title: Hillary Clinton
+        slug: hillary-clinton
+      - node_id: 65058869-076f-47d0-92ea-f8daf08b94cf
+        title: Barack Obama
+        slug: barack-obama
+      - node_id: 6ab4de8a-5e1e-4fd4-a5bb-6a96ff234ad4
+        title: William J. Clinton
+        slug: william-j-clinton
+    date: null
+    date_end: null
+    location_in_record: ch29:13091-13242
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  - claim_id: a293778b-0a30-4ecd-ae44-0ff38b2727fc
+    claim_hash: 0020fee58c95b2702c80be4113d049ebb528dcc45c5b55680738fd07e7b6c9d1
+    content: Barack Obama stated there is footage and records of objects in the skies whose movement and trajectory cannot
+      be explained.
+    original_excerpt: “There is footage and records of objects in the skies that we don’t know exactly what they are. We can’t
+      explain how they move, their trajectory… . They did not have an easily explainable pattern.” —President Barack Obama
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 65058869-076f-47d0-92ea-f8daf08b94cf
+      title: Barack Obama
+    provenance_chain:
+      origin_kind: speaker
+      origin: Barack Obama
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 65058869-076f-47d0-92ea-f8daf08b94cf
+        title: Barack Obama
+        slug: barack-obama
+      - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
+        title: Unidentified Anomalous Phenomena (UAP)
+        slug: unidentified-anomalous-phenomena-uap
+    date: null
+    date_end: null
+    location_in_record: ch35:3926-4113
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  - claim_id: b8540bfe-0c83-4236-9007-36869aff271d
+    claim_hash: 738e0554ff9cca8398e52eb827a8d8f78e2e1c3e075961785ffcde136029e7cd
+    content: Barack Obama considers it worthwhile that people take seriously trying to investigate and figure out what unexplained
+      aerial objects are.
+    original_excerpt: So I think that people take seriously trying to investigate and figure out what that is.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 65058869-076f-47d0-92ea-f8daf08b94cf
+      title: Barack Obama
+    provenance_chain:
+      origin_kind: speaker
+      origin: Barack Obama
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 65058869-076f-47d0-92ea-f8daf08b94cf
+        title: Barack Obama
+        slug: barack-obama
+      - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
+        title: Unidentified Anomalous Phenomena (UAP)
+        slug: unidentified-anomalous-phenomena-uap
+    date: null
+    date_end: null
+    location_in_record: ch35:4126-4211
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  - claim_id: 8f999b2d-5a47-448f-9ce3-87f6e6d43145
+    claim_hash: 7373e8f62859fd4519f119d993adb982338c65dde8858d2c3cf2a588042557cb
+    content: Ross Coulthart considers it unacceptable that United States presidents Bill Clinton, Barack Obama, Gerald Ford
+      and Jimmy Carter were not able to be briefed on Unidentified Flying Object information while serving as commander in
+      chief.
+    original_excerpt: it just doesn't wash in this day and age that you could have a situation where Clinton or Obama Ford
+      or Carter weren't able to be briefed on that information and they were making decisions as the person nominally in charge
+      of the defense forces of America, nominally the commander in chief.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+      title: Ross Coulthart
+    provenance_chain:
+      origin_kind: speaker
+      origin: Ross Coulthart
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 3030c72b-534a-4ddb-88ec-c09f315b9d87
+        title: Gerald Ford
+        slug: gerald-ford
+      - node_id: 459eb5cf-ea76-4cad-9421-a726261cd3a2
+        title: Bill Clinton
+        slug: bill-clinton
+      - node_id: 65058869-076f-47d0-92ea-f8daf08b94cf
+        title: Barack Obama
+        slug: barack-obama
+      - node_id: 898c410a-7789-4762-b6dd-1139ced89658
+        title: Jimmy Carter
+        slug: jimmy-carter
+      - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
+        title: Unidentified Flying Object (UFO)
+        slug: unidentified-flying-object-ufo
+      - node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+        title: Ross Coulthart
+        slug: ross-coulthart
+    date: null
+    date_end: null
+    location_in_record: 01:34:52.4-01:35:15.7
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: fd845823-8784-462c-a981-4775525b6f84
+      record_title: The DANGEROUS Truth About UFOs - Ross Coulthart | DEBRIEFED ep. 76
+      record_date: '2026-02-20'
+      record_reference: https://www.youtube.com/watch?v=idBryc0eWww
+      content_hash: sha256:73be106d406f6d35a063a894e8384e7da0918eb8597d2107a9e3653becca2bdc
+      friendly_name: null
+  - claim_id: 7be64312-c7b5-4528-af89-1659f36042a5
+    claim_hash: 96199762c0839795219ffd9fbd845b14aee2d7dd9133bc6c24e51304e4d3698d
+    content: Bill Clinton and Barack Obama came into office without being connected to the United States establishment, unlike
+      Ronald Reagan, Richard Nixon and the Bush family, in Jason Samosa's view.
+    original_excerpt: Clinton and Obama coming into office really weren't connected to the establishment of the United States.
+      They really were in many ways outsiders who'd started to move inside. ... But that's very different to Reagan, to Nixon
+      and to all of these kind of the Bush family.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: ff0a86b8-8f3c-4291-94ed-c6d303875ce8
+      title: Jason Samosa
+    provenance_chain:
+      origin_kind: speaker
+      origin: Jason Samosa
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 1c74a06c-1b3f-43b4-b54c-3f6b44fd8192
+        title: Ronald Reagan
+        slug: ronald-reagan
+      - node_id: 3690087e-5e65-4693-8b72-f144d9963dd5
+        title: Richard Nixon
+        slug: richard-nixon
+      - node_id: 459eb5cf-ea76-4cad-9421-a726261cd3a2
+        title: Bill Clinton
+        slug: bill-clinton
+      - node_id: 65058869-076f-47d0-92ea-f8daf08b94cf
+        title: Barack Obama
+        slug: barack-obama
+      - node_id: dba2f206-7088-4fe9-9fc5-d7228a9149f4
+        title: George Herbert Walker Bush
+        slug: george-herbert-walker-bush
+    date: null
+    date_end: null
+    location_in_record: 00:46:48.5-00:47:07.4
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 64b84f95-238c-4ab7-a678-bee55f985b14
+      record_title: The UFO Cover-Up Leads to One Secret Society — and One Final Event
+      record_date: '2026-07-14'
+      record_reference: https://www.youtube.com/watch?v=kccrkCGGzX4
+      content_hash: sha256:d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7b5a1b98d
+      friendly_name: null
+  - claim_id: bba7c117-50bc-4977-adc6-e9c4602dbb8f
+    claim_hash: 392a7be4e4bb97b3e4c9d007998f9bd523ff2def39384d8efe1ce87be7651444
+    content: Barack Obama is producing a documentary about the Betty and Barney Hill abduction.
+    original_excerpt: I mean, he's producing this Betty and Barney Hill documentary.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 079d4381-4273-418b-bc9a-468623f95c6e
+      title: Jesse Mitchells
+    provenance_chain:
+      origin_kind: speaker
+      origin: Jesse Michels
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 65058869-076f-47d0-92ea-f8daf08b94cf
+        title: Barack Obama
+        slug: barack-obama
+      - node_id: ede32718-5670-4e5a-97da-13b980b85676
+        title: Betty and Barney Hill abduction case
+        slug: betty-and-barney-hill-abduction-case
+    date: null
+    date_end: null
+    location_in_record: 00:51:23.5-00:51:26.5
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 64b84f95-238c-4ab7-a678-bee55f985b14
+      record_title: The UFO Cover-Up Leads to One Secret Society — and One Final Event
+      record_date: '2026-07-14'
+      record_reference: https://www.youtube.com/watch?v=kccrkCGGzX4
+      content_hash: sha256:d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7b5a1b98d
+      friendly_name: null
+  - claim_id: 55c158b5-2933-462c-8067-d1edb52a31ea
+    claim_hash: e8e8f8eeb9fbd0f75155999060268d812537001fbde0cea6b5bd71da6a6c5db1
+    content: On James Corden's programme, Barack Obama said there are things in the sky that cannot be identified and are
+      not understood.
+    original_excerpt: I think on James Corden, he goes, there are things in our sky that, you know, we can identify and we
+      don't know what they are.
+    claim_type: hearsay
+    attestation: second_hand
+    speaker:
+      node_id: 079d4381-4273-418b-bc9a-468623f95c6e
+      title: Jesse Mitchells
+    provenance_chain:
+      origin_kind: named
+      origin: Barack Obama
+      relay:
+        - Barack Obama's appearance on James Corden's programme
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 29f843ff-42ca-4f1c-b335-4059708e83a3
+        title: James Corden
+        slug: james-corden
+      - node_id: 65058869-076f-47d0-92ea-f8daf08b94cf
+        title: Barack Obama
+        slug: barack-obama
+      - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
+        title: Unidentified Flying Object (UFO)
+        slug: unidentified-flying-object-ufo
+    date: null
+    date_end: null
+    location_in_record: 00:51:36.5-00:51:42.2
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 64b84f95-238c-4ab7-a678-bee55f985b14
+      record_title: The UFO Cover-Up Leads to One Secret Society — and One Final Event
+      record_date: '2026-07-14'
+      record_reference: https://www.youtube.com/watch?v=kccrkCGGzX4
+      content_hash: sha256:d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7b5a1b98d
+      friendly_name: null
+  - claim_id: 21c3db96-9c00-428b-9567-7ff1c5249ab6
+    claim_hash: bccd70a975c742da4c65bfccc2bd3080e2137466443a21a24cd5c2734f09340b
+    content: Barack Obama publicly dismissed as a myth the idea that beings are held captive in a basement at Area 51.
+    original_excerpt: And then he goes on to talk about, you know, Area 51 and how that, you know, that's a myth, the idea
+      that we have them like, you know, chained up in the basement or whatever.
+    claim_type: hearsay
+    attestation: second_hand
+    speaker:
+      node_id: 079d4381-4273-418b-bc9a-468623f95c6e
+      title: Jesse Mitchells
+    provenance_chain:
+      origin_kind: named
+      origin: Barack Obama
+      relay:
+        - a public interview with Barack Obama
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 65058869-076f-47d0-92ea-f8daf08b94cf
+        title: Barack Obama
+        slug: barack-obama
+      - node_id: dcfde05e-4c6d-4f3a-80da-781e42865401
+        title: USA, Nevada, Area 51
+        slug: nevada-area-51-usa
+    date: null
+    date_end: null
+    location_in_record: 00:52:01.5-00:52:09.8
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 64b84f95-238c-4ab7-a678-bee55f985b14
+      record_title: The UFO Cover-Up Leads to One Secret Society — and One Final Event
+      record_date: '2026-07-14'
+      record_reference: https://www.youtube.com/watch?v=kccrkCGGzX4
+      content_hash: sha256:d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7b5a1b98d
+      friendly_name: null
+  - claim_id: 47b047a2-c3f6-4c15-8593-a68f792c874d
+    claim_hash: ac2f7b526ac4e3637353937705bc31a44f1999597d8e164a44b645c6795774a8
+    content: Bill Clinton said the same thing as Barack Obama about there being nothing underground at Area 51.
+    original_excerpt: What's so interesting about that is Clinton said exactly the same thing. ... They both said, yeah, there's
+      nothing underground under area 51.
+    claim_type: hearsay
+    attestation: second_hand
+    speaker:
+      node_id: ff0a86b8-8f3c-4291-94ed-c6d303875ce8
+      title: Jason Samosa
+    provenance_chain:
+      origin_kind: named
+      origin: Bill Clinton
+      relay:
+        - a public statement by Bill Clinton
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 459eb5cf-ea76-4cad-9421-a726261cd3a2
+        title: Bill Clinton
+        slug: bill-clinton
+      - node_id: 65058869-076f-47d0-92ea-f8daf08b94cf
+        title: Barack Obama
+        slug: barack-obama
+      - node_id: dcfde05e-4c6d-4f3a-80da-781e42865401
+        title: USA, Nevada, Area 51
+        slug: nevada-area-51-usa
+    date: null
+    date_end: null
+    location_in_record: 00:52:10.3-00:52:17.2
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 64b84f95-238c-4ab7-a678-bee55f985b14
+      record_title: The UFO Cover-Up Leads to One Secret Society — and One Final Event
+      record_date: '2026-07-14'
+      record_reference: https://www.youtube.com/watch?v=kccrkCGGzX4
+      content_hash: sha256:d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7b5a1b98d
+      friendly_name: null
+  - claim_id: 5648f0fb-569c-4b17-9fef-65219b6533e4
+    claim_hash: ef234d8444d38179e75927f2e06a34f0695ecf5cd0b4e4bcb8daa84c4d882f3d
+    content: Jason Samosa finds it strange that both Bill Clinton and Barack Obama, given a brief opportunity to speak about
+      UFOs, chose to single out the question of whether anything is underground at Area 51.
+    original_excerpt: What a weird thing to zero in on. ... It's like, if I'm asked about UFOs, there's a thousand things
+      I could mention in the 30 second snippet I'm going to give you. Why?
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: ff0a86b8-8f3c-4291-94ed-c6d303875ce8
+      title: Jason Samosa
+    provenance_chain:
+      origin_kind: speaker
+      origin: Jason Samosa
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 459eb5cf-ea76-4cad-9421-a726261cd3a2
+        title: Bill Clinton
+        slug: bill-clinton
+      - node_id: 65058869-076f-47d0-92ea-f8daf08b94cf
+        title: Barack Obama
+        slug: barack-obama
+      - node_id: dcfde05e-4c6d-4f3a-80da-781e42865401
+        title: USA, Nevada, Area 51
+        slug: nevada-area-51-usa
+      - node_id: ff0a86b8-8f3c-4291-94ed-c6d303875ce8
+        title: Jason Samosa
+        slug: jason-samosa
+    date: null
+    date_end: null
+    location_in_record: 00:52:13.8-00:52:22.6
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 64b84f95-238c-4ab7-a678-bee55f985b14
+      record_title: The UFO Cover-Up Leads to One Secret Society — and One Final Event
+      record_date: '2026-07-14'
+      record_reference: https://www.youtube.com/watch?v=kccrkCGGzX4
+      content_hash: sha256:d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7b5a1b98d
+      friendly_name: null
+  - claim_id: b6543b22-3cb0-4fac-90c7-3a8908ec5d66
+    claim_hash: cb3f87078cb03f6f2018eca31cbc41629d485c0ca46d07136b8092c1f72c5b79
+    content: Barack Obama's UFO remarks were a deliberately phrased and staged litmus test of public reaction, conducted with
+      a friendly left-wing interviewer in a rapid-fire question format, in Jesse Michels's view.
+    original_excerpt: it was so clearly this litmus test. It was like this, like, let's see how the public reacts. ... he
+      phrased it the way he did deliberately to begin with. The whole thing was staged with this very friendly, you know,
+      very left wing interviewer
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 079d4381-4273-418b-bc9a-468623f95c6e
+      title: Jesse Mitchells
+    provenance_chain:
+      origin_kind: speaker
+      origin: Jesse Michels
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 079d4381-4273-418b-bc9a-468623f95c6e
+        title: Jesse Mitchells
+        slug: jesse-mitchells
+      - node_id: 65058869-076f-47d0-92ea-f8daf08b94cf
+        title: Barack Obama
+        slug: barack-obama
+      - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
+        title: Unidentified Flying Object (UFO)
+        slug: unidentified-flying-object-ufo
+    date: null
+    date_end: null
+    location_in_record: 00:52:30.2-00:52:39.0
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 64b84f95-238c-4ab7-a678-bee55f985b14
+      record_title: The UFO Cover-Up Leads to One Secret Society — and One Final Event
+      record_date: '2026-07-14'
+      record_reference: https://www.youtube.com/watch?v=kccrkCGGzX4
+      content_hash: sha256:d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7b5a1b98d
+      friendly_name: null
+  - claim_id: 78fadad8-379c-4e0d-b2cc-e927aaaa8eb3
+    claim_hash: 93b63a5e24709b5d4a84a1efb7631dfa55489c4e271493eb6831ebdc2a55ddb5
+    content: Barack Obama walked back his UFO comments afterwards, saying he knew nothing the public did not know and framing
+      the matter in terms of the Fermi paradox and the number of solar systems.
+    original_excerpt: Because he then walked it back and was like, you know, really? You know, I don't know anything you don't
+      know. You know, I just think that it was like, you know, some Fermi paradox thing, given the amount of, you know, solar
+      systems, you know, there's the likelihood or whatever.
+    claim_type: hearsay
+    attestation: second_hand
+    speaker:
+      node_id: 079d4381-4273-418b-bc9a-468623f95c6e
+      title: Jesse Mitchells
+    provenance_chain:
+      origin_kind: named
+      origin: Barack Obama
+      relay:
+        - a public statement by Barack Obama
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 65058869-076f-47d0-92ea-f8daf08b94cf
+        title: Barack Obama
+        slug: barack-obama
+      - node_id: 74f92619-e20b-406f-914f-b1181c4d82cb
+        title: Fermi paradox
+        slug: fermi-paradox
+      - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
+        title: Unidentified Flying Object (UFO)
+        slug: unidentified-flying-object-ufo
+    date: null
+    date_end: null
+    location_in_record: 00:52:36.0-00:52:49.9
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 64b84f95-238c-4ab7-a678-bee55f985b14
+      record_title: The UFO Cover-Up Leads to One Secret Society — and One Final Event
+      record_date: '2026-07-14'
+      record_reference: https://www.youtube.com/watch?v=kccrkCGGzX4
+      content_hash: sha256:d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7b5a1b98d
+      friendly_name: null
+  - claim_id: 2c8caf19-6411-4f96-a5d8-d2563aaee6c2
+    claim_hash: c513605ffbfac1beac31e9fc85057f22188653a6689fc9c92a10682c239339dc
+    content: John Brennan was Barack Obama's CIA director and James Clapper was his director of national intelligence.
+    original_excerpt: Obama's uh, CIA director, uh, you know, Brennan and his, uh, director of national intelligence, James
+      Clapper
+    claim_type: administrative
+    attestation: null
+    speaker:
+      node_id: 079d4381-4273-418b-bc9a-468623f95c6e
+      title: Jesse Mitchells
+    provenance_chain:
+      origin_kind: unattributed
+      origin: public record
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 38b84d4a-96df-4684-bb46-f6f64f392add
+        title: Central Intelligence Agency (CIA)
+        slug: central-intelligence-agency-cia
+      - node_id: 65058869-076f-47d0-92ea-f8daf08b94cf
+        title: Barack Obama
+        slug: barack-obama
+      - node_id: 7c74447b-218f-492e-a2f7-26fe9ba4e1cb
+        title: John Brennan
+        slug: john-brennan
+      - node_id: a3b88bf2-de8f-45bf-addf-fadd9244c4e5
+        title: James R. Clapper
+        slug: james-r-clapper
+    date: null
+    date_end: null
+    location_in_record: 00:53:13.6-00:53:20.2
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 64b84f95-238c-4ab7-a678-bee55f985b14
+      record_title: The UFO Cover-Up Leads to One Secret Society — and One Final Event
+      record_date: '2026-07-14'
+      record_reference: https://www.youtube.com/watch?v=kccrkCGGzX4
+      content_hash: sha256:d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7b5a1b98d
+      friendly_name: null
+  - claim_id: 8daa4135-3d2f-4c59-9eb0-8301cdc7c67c
+    claim_hash: df8abf4100953ee1e40074a94152fea50ece242feaa033ff0dbd38f05234f0bf
+    content: John Greenewald filed a Freedom of Information Act request that returned information indicating either about
+      3,000 or about 30,000 references in Barack Obama's presidential documents.
+    original_excerpt: Did you see the John Greenwald thing where he filed a FOIA and he got information back, which indicated,
+      I can't remember if it's 3,000 or 30, I think it might've been 30,000 references in Obama's documents in his presidency
+    claim_type: testimony
+    attestation: second_hand
+    speaker:
+      node_id: ff0a86b8-8f3c-4291-94ed-c6d303875ce8
+      title: Jason Samosa
+    provenance_chain:
+      origin_kind: named
+      origin: John Greenewald
+      relay:
+        - John Greenewald's published FOIA result
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 65058869-076f-47d0-92ea-f8daf08b94cf
+        title: Barack Obama
+        slug: barack-obama
+      - node_id: 7155e2e0-0cd2-4ee7-963d-6e47c3f093f2
+        title: John Greenewald
+        slug: john-greenewald
+      - node_id: 7a7d3dc5-791a-4393-a8bd-7afd375c52f3
+        title: Freedom of Information Act (FOIA)
+        slug: freedom-of-information-act-foia
+    date: null
+    date_end: null
+    location_in_record: 00:53:49.7-00:54:01.2
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 64b84f95-238c-4ab7-a678-bee55f985b14
+      record_title: The UFO Cover-Up Leads to One Secret Society — and One Final Event
+      record_date: '2026-07-14'
+      record_reference: https://www.youtube.com/watch?v=kccrkCGGzX4
+      content_hash: sha256:d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7b5a1b98d
+      friendly_name: null
+  - claim_id: 07340c35-9a54-492b-ab79-d52fd404edf3
+    claim_hash: dd28802eaa535d50fe183c1d8fedf8b8cb8b7a119fcaf4db2a247572cef2e1ec
+    content: The UFO programmes discussed openly consist of those in the 2017 New York Times article on the Pentagon UFO program,
+      what Barack Obama discussed and investigated, and what Harry Reid set up from 2007 to 2012.
+    original_excerpt: the things that are talked about openly at this point are in that 2017 New York Times article. They're
+      what Obama was, you know, talking about and investigating. It's what Harry Reid set up from 2007 to 2012.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 079d4381-4273-418b-bc9a-468623f95c6e
+      title: Jesse Mitchells
+    provenance_chain:
+      origin_kind: speaker
+      origin: Jesse Michels
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 65058869-076f-47d0-92ea-f8daf08b94cf
+        title: Barack Obama
+        slug: barack-obama
+      - node_id: 8af035c9-1425-4d81-bd15-25a27f3e043b
+        title: 2017 New York Times article on the Pentagon Unidentified Flying Object (UFO) program
+        slug: 2017-new-york-times-article-on-the-pentagon-unidentified-flying-object-ufo-program
+      - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
+        title: Unidentified Flying Object (UFO)
+        slug: unidentified-flying-object-ufo
+      - node_id: c91974f0-961f-4db8-b7b0-22d4b846e5d5
+        title: Harry Reid
+        slug: harry-reid
+    date: null
+    date_end: null
+    location_in_record: 00:54:41.7-00:54:54.7
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 64b84f95-238c-4ab7-a678-bee55f985b14
+      record_title: The UFO Cover-Up Leads to One Secret Society — and One Final Event
+      record_date: '2026-07-14'
+      record_reference: https://www.youtube.com/watch?v=kccrkCGGzX4
+      content_hash: sha256:d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7b5a1b98d
+      friendly_name: null
+  - claim_id: 54785484-418d-4174-8c74-e1bde37c65b8
+    claim_hash: 7eeb8845af4ee4b2fe3128fbc201b7a0854936324e1068e547a88427459234ed
+    content: At the end of the Barack Obama administration, John Podesta said his greatest regret was that the UFO files were
+      not released.
+    original_excerpt: John Podesta at the end of the Obama administration says, my greatest regret is that we didn't release
+      the UFO files.
+    claim_type: hearsay
+    attestation: second_hand
+    speaker:
+      node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+      title: Whitley Strieber
+    provenance_chain:
+      origin_kind: named
+      origin: John Podesta
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 176b82fd-52fb-4c89-944c-e03e424fd545
+        title: John Podesta
+        slug: john-podesta
+      - node_id: 65058869-076f-47d0-92ea-f8daf08b94cf
+        title: Barack Obama
+        slug: barack-obama
+      - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
+        title: Unidentified Flying Object (UFO)
+        slug: unidentified-flying-object-ufo
+    date: null
+    date_end: null
+    location_in_record: 01:30:10.2-01:30:19.0
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 9302c6b2-133d-4cbb-adfa-5d1f0bd3e7ac
+      record_title: The Terrible Truth About the Visitors - Whitley Strieber | ep. 96
+      record_date: '2026-07-24'
+      record_reference: https://www.youtube.com/watch?v=Cv-sk4vt-qU
+      content_hash: sha256:456dbde0ab82ee8e216bdad2d1a0bf2a0b42622a167af19058f973050b035084
+      friendly_name: null
+  - claim_id: b98b4fe3-6a1d-4cd5-8f28-3587b83065a4
+    claim_hash: f9667b842252e74d745392ce895107835d6dbf0612fc53efe9ce822d479923cb
+    content: Barack Obama has since moved to the opposite position and says there are no aliens here.
+    original_excerpt: Now Obama has gone all the way to the other side and saying, there are no aliens here.
+    claim_type: hearsay
+    attestation: second_hand
+    speaker:
+      node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+      title: Whitley Strieber
+    provenance_chain:
+      origin_kind: named
+      origin: Barack Obama
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 65058869-076f-47d0-92ea-f8daf08b94cf
+        title: Barack Obama
+        slug: barack-obama
+      - node_id: 9c74d864-957a-4654-a5b6-1249fe654ec7
+        title: Non-Human Intelligence
+        slug: non-human-intelligence
+    date: null
+    date_end: null
+    location_in_record: 01:30:20.2-01:30:27.1
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 9302c6b2-133d-4cbb-adfa-5d1f0bd3e7ac
+      record_title: The Terrible Truth About the Visitors - Whitley Strieber | ep. 96
+      record_date: '2026-07-24'
+      record_reference: https://www.youtube.com/watch?v=Cv-sk4vt-qU
+      content_hash: sha256:456dbde0ab82ee8e216bdad2d1a0bf2a0b42622a167af19058f973050b035084
+      friendly_name: null

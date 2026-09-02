@@ -1,0 +1,288 @@
+schema: anomalica/brief/1
+brief_hash: a978c0eaf23015ef7e336a138cbd3fbc41f9d2151f4c12bce3a9bffddea1777d
+page:
+  kind: entity
+  node_id: 57e26296-4524-486b-a7ea-fc698140bb84
+  node_type: topic
+  title: Large language model (LLM)
+  slug: large-language-model-llm
+  claim_count: 6
+  claim_count_total: 6
+generated:
+  graph_version: '2026-09-01T10:10:49.863545+00:00'
+size:
+  claims: 6
+  tokens_estimated: 1937
+  sized_against: 1050000
+publication:
+  status: published
+  note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
+    transcripts are gated elsewhere.
+belonging:
+  verified: 0
+  suspect_excluded: 0
+  unreviewed: 6
+related_nodes:
+  - node_id: 24d00311-06ac-46a1-a2f5-c99f3f8e21b2
+    title: Chris Ramsay
+    node_type: person
+    slug: chris-ramsay
+    shared_claims: 4
+  - node_id: 3e5c824e-2d45-43db-bcbd-2526c91dc0df
+    title: Artificial intelligence (AI)
+    node_type: topic
+    slug: artificial-intelligence-ai
+    shared_claims: 3
+  - node_id: 8d3ca113-3f28-4808-998e-34d2837332a5
+    title: Julia Mossbridge
+    node_type: person
+    slug: julia-mossbridge
+    shared_claims: 2
+  - node_id: 9c74d864-957a-4654-a5b6-1249fe654ec7
+    title: Non-Human Intelligence
+    node_type: topic
+    slug: non-human-intelligence
+    shared_claims: 1
+  - node_id: 4a996a9b-9692-4d1a-8218-ee7ec7cb1f7c
+    title: Precognitive Remote Viewing
+    node_type: topic
+    slug: precognitive-remote-viewing
+    shared_claims: 1
+claims:
+  - claim_id: 4b5b8d4b-5a2c-4284-bb00-e5dd0e456564
+    claim_hash: 798f285686e05f542b44e75dcca79e648bf6a10a70f9efa98ef1a78384430d5f
+    content: Chris Ramsay considers that commercial developers are not seeking to build a better artificial intelligence but
+      a more lucrative one, whereas the military is building a better one, and that the packaged corporate version is designed
+      to flatter users rather than be accurate so that they keep paying for it.
+    original_excerpt: they're not looking to make a better ai they're looking to make a more lucrative ai The military is
+      making a better AI, but what we're getting is the packaged, lucrative sort of corporation version of it where much more
+      interesting to a business is to have an AI that isn't necessarily right all the time, but that makes you feel good.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 24d00311-06ac-46a1-a2f5-c99f3f8e21b2
+      title: Chris Ramsay
+    provenance_chain:
+      origin_kind: speaker
+      origin: Chris Ramsay
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 24d00311-06ac-46a1-a2f5-c99f3f8e21b2
+        title: Chris Ramsay
+        slug: chris-ramsay
+      - node_id: 3e5c824e-2d45-43db-bcbd-2526c91dc0df
+        title: Artificial intelligence (AI)
+        slug: artificial-intelligence-ai
+      - node_id: 57e26296-4524-486b-a7ea-fc698140bb84
+        title: Large language model (LLM)
+        slug: large-language-model-llm
+    date: null
+    date_end: null
+    location_in_record: 01:06:42.9-01:07:07.1
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 9302c6b2-133d-4cbb-adfa-5d1f0bd3e7ac
+      record_title: The Terrible Truth About the Visitors - Whitley Strieber | ep. 96
+      record_date: '2026-07-24'
+      record_reference: https://www.youtube.com/watch?v=Cv-sk4vt-qU
+      content_hash: sha256:456dbde0ab82ee8e216bdad2d1a0bf2a0b42622a167af19058f973050b035084
+      friendly_name: null
+  - claim_id: 187b2335-66ae-46b1-a32c-1b4e77609b19
+    claim_hash: a24185f1922a0a0879bd96317c0aa18c8a8ae1e9343cb352d34fbd6757bda073
+    content: Chris Ramsay attends UFO conferences at which people give him manuscripts of their generative pre-trained transformer
+      (GPT) chat logs, believing their GPT has become sentient and is an alien communicating important messages to them.
+    original_excerpt: i go to these conferences as well and i'm presented sometimes people give me these manuscripts of their
+      chat gpt logs and how they believe that their gpt is now sentient and it's an alien communicating to them you know um
+      really important messages
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 24d00311-06ac-46a1-a2f5-c99f3f8e21b2
+      title: Chris Ramsay
+    provenance_chain:
+      origin_kind: speaker
+      origin: Chris Ramsay
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 24d00311-06ac-46a1-a2f5-c99f3f8e21b2
+        title: Chris Ramsay
+        slug: chris-ramsay
+      - node_id: 57e26296-4524-486b-a7ea-fc698140bb84
+        title: Large language model (LLM)
+        slug: large-language-model-llm
+      - node_id: 9c74d864-957a-4654-a5b6-1249fe654ec7
+        title: Non-Human Intelligence
+        slug: non-human-intelligence
+    date: null
+    date_end: null
+    location_in_record: 01:10:46.1-01:11:03.0
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 9302c6b2-133d-4cbb-adfa-5d1f0bd3e7ac
+      record_title: The Terrible Truth About the Visitors - Whitley Strieber | ep. 96
+      record_date: '2026-07-24'
+      record_reference: https://www.youtube.com/watch?v=Cv-sk4vt-qU
+      content_hash: sha256:456dbde0ab82ee8e216bdad2d1a0bf2a0b42622a167af19058f973050b035084
+      friendly_name: null
+  - claim_id: 87c5a8b9-1acb-42a4-8ad3-44569be4b593
+    claim_hash: d4bdbebd4b55a0aa5bda61c4273af6ecd9402e567c78fc467758a1277c2a401f
+    content: Chris Ramsay considers large language models good at creating a world built around a user's own predispositions.
+    original_excerpt: that's what these large language models are really good at. They're really good at creating a world
+      based around your own predispositions.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 24d00311-06ac-46a1-a2f5-c99f3f8e21b2
+      title: Chris Ramsay
+    provenance_chain:
+      origin_kind: speaker
+      origin: Chris Ramsay
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 24d00311-06ac-46a1-a2f5-c99f3f8e21b2
+        title: Chris Ramsay
+        slug: chris-ramsay
+      - node_id: 57e26296-4524-486b-a7ea-fc698140bb84
+        title: Large language model (LLM)
+        slug: large-language-model-llm
+    date: null
+    date_end: null
+    location_in_record: 01:11:05.6-01:11:16.1
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 9302c6b2-133d-4cbb-adfa-5d1f0bd3e7ac
+      record_title: The Terrible Truth About the Visitors - Whitley Strieber | ep. 96
+      record_date: '2026-07-24'
+      record_reference: https://www.youtube.com/watch?v=Cv-sk4vt-qU
+      content_hash: sha256:456dbde0ab82ee8e216bdad2d1a0bf2a0b42622a167af19058f973050b035084
+      friendly_name: null
+  - claim_id: 3fbea3b9-a4e2-45df-b2b2-ffa9f8320c71
+    claim_hash: ab09ed4e95244112cc2fb3efbc96baf130bbeff81a2487bc5bab31983e83ebde
+    content: Chris Ramsay considers large language models good at reading humans, analysing users' typing patterns, giving
+      just enough to prompt a conclusion, and pulling back when they detect reluctance.
+    original_excerpt: they're good at giving you exactly just enough and pulling back enough when you feel a little reluctant
+      by the way you're typing, your patterns. It's very good at reading humans and analyzing. our communication
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 24d00311-06ac-46a1-a2f5-c99f3f8e21b2
+      title: Chris Ramsay
+    provenance_chain:
+      origin_kind: speaker
+      origin: Chris Ramsay
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 24d00311-06ac-46a1-a2f5-c99f3f8e21b2
+        title: Chris Ramsay
+        slug: chris-ramsay
+      - node_id: 57e26296-4524-486b-a7ea-fc698140bb84
+        title: Large language model (LLM)
+        slug: large-language-model-llm
+    date: null
+    date_end: null
+    location_in_record: 01:11:18.1-01:11:30.0
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 9302c6b2-133d-4cbb-adfa-5d1f0bd3e7ac
+      record_title: The Terrible Truth About the Visitors - Whitley Strieber | ep. 96
+      record_date: '2026-07-24'
+      record_reference: https://www.youtube.com/watch?v=Cv-sk4vt-qU
+      content_hash: sha256:456dbde0ab82ee8e216bdad2d1a0bf2a0b42622a167af19058f973050b035084
+      friendly_name: null
+  - claim_id: 8197d755-e7ba-4b89-8366-742a191bac7a
+    claim_hash: 34770a0d18e88c53f3052b65e61be89ab9aaf09d86b9db03829c52e0bb121cb0
+    content: Julia Mossbridge uses several different large language models (LLMs) for different purposes.
+    original_excerpt: I use kind of them all for different things.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 8d3ca113-3f28-4808-998e-34d2837332a5
+      title: Julia Mossbridge
+    provenance_chain:
+      origin_kind: speaker
+      origin: Julia Mossbridge
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 3e5c824e-2d45-43db-bcbd-2526c91dc0df
+        title: Artificial intelligence (AI)
+        slug: artificial-intelligence-ai
+      - node_id: 57e26296-4524-486b-a7ea-fc698140bb84
+        title: Large language model (LLM)
+        slug: large-language-model-llm
+      - node_id: 8d3ca113-3f28-4808-998e-34d2837332a5
+        title: Julia Mossbridge
+        slug: julia-mossbridge
+    date: null
+    date_end: null
+    location_in_record: 00:11:09.7-00:11:11.8
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 43b2873d-8ebe-46aa-9425-a7e273c46e34
+      record_title: Non Human Intelligence, GATE Program and Psi Ability with Dr. Julia Mossbridge | ep. 99
+      record_date: '2026-08-14'
+      record_reference: https://www.youtube.com/watch?v=-qt2FYdP_EA
+      content_hash: sha256:8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8998cfdcd
+      friendly_name: null
+  - claim_id: 723eca9d-6eba-4775-8fee-d16f7af60e23
+    claim_hash: c6dac07a932fe18c0f9857564565b1c54d525d74c2e8cc4285721303852903f1
+    content: Julia Mossbridge's more recent work uses large language models (LLMs) to judge precognitive remote viewing responses,
+      removing some human bias and finding larger effects that were previously undetected.
+    original_excerpt: in the more recent work, we've been able to use AI, so LLMs, to do that judging, to take away some of
+      the human bias and to find actually better and bigger effects that we didn't know were there.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 8d3ca113-3f28-4808-998e-34d2837332a5
+      title: Julia Mossbridge
+    provenance_chain:
+      origin_kind: speaker
+      origin: Julia Mossbridge
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 3e5c824e-2d45-43db-bcbd-2526c91dc0df
+        title: Artificial intelligence (AI)
+        slug: artificial-intelligence-ai
+      - node_id: 4a996a9b-9692-4d1a-8218-ee7ec7cb1f7c
+        title: Precognitive Remote Viewing
+        slug: precognitive-remote-viewing
+      - node_id: 57e26296-4524-486b-a7ea-fc698140bb84
+        title: Large language model (LLM)
+        slug: large-language-model-llm
+      - node_id: 8d3ca113-3f28-4808-998e-34d2837332a5
+        title: Julia Mossbridge
+        slug: julia-mossbridge
+    date: null
+    date_end: null
+    location_in_record: 01:28:05.5-01:28:16.9
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 43b2873d-8ebe-46aa-9425-a7e273c46e34
+      record_title: Non Human Intelligence, GATE Program and Psi Ability with Dr. Julia Mossbridge | ep. 99
+      record_date: '2026-08-14'
+      record_reference: https://www.youtube.com/watch?v=-qt2FYdP_EA
+      content_hash: sha256:8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8998cfdcd
+      friendly_name: null

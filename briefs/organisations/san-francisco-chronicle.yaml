@@ -1,0 +1,306 @@
+schema: anomalica/brief/1
+brief_hash: dc46ec6734e9f9a09f950329d71ec8422587ae3ee1434c8c5ae630c79eeb54ee
+page:
+  kind: entity
+  node_id: 7da2cf2b-788e-43ff-912c-1a6087f7bd06
+  node_type: organisation
+  title: San Francisco Chronicle
+  slug: san-francisco-chronicle
+  claim_count: 5
+  claim_count_total: 5
+generated:
+  graph_version: '2026-09-01T10:10:49.863545+00:00'
+size:
+  claims: 5
+  tokens_estimated: 1649
+  sized_against: 1050000
+publication:
+  status: published
+  note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
+    transcripts are gated elsewhere.
+belonging:
+  verified: 0
+  suspect_excluded: 0
+  unreviewed: 5
+related_nodes:
+  - node_id: 3b0c0328-6dfc-4b20-acce-d0f40ec02706
+    title: Roger Ramey
+    node_type: person
+    slug: roger-ramey
+    shared_claims: 2
+  - node_id: b8ea9860-ae6e-4835-8114-6a6626f28797
+    title: Roswell incident (1947)
+    node_type: event
+    slug: roswell-incident-1947
+    shared_claims: 2
+  - node_id: 5d5aa4e3-7bc3-4206-97e9-86ceeb333478
+    title: USA, California, San Francisco
+    node_type: place
+    slug: california-san-francisco-usa
+    shared_claims: 2
+  - node_id: 5af95a06-2e78-4b56-a826-0d83e136ead8
+    title: American Broadcasting Company (ABC)
+    node_type: organisation
+    slug: american-broadcasting-company-abc
+    shared_claims: 1
+  - node_id: 34798af9-f98a-424a-98f3-9b5340fdaa80
+    title: Bill Stout
+    node_type: person
+    slug: bill-stout
+    shared_claims: 1
+  - node_id: 7a25b20b-c238-4b97-862f-dc62dba6278a
+    title: Columbia Broadcasting System (CBS) News
+    node_type: organisation
+    slug: columbia-broadcasting-system-cbs-news
+    shared_claims: 1
+  - node_id: b34fd408-b07a-4bc4-b750-c80cfdecbcb3
+    title: Frank Bristow
+    node_type: person
+    slug: frank-bristow
+    shared_claims: 1
+  - node_id: 4094e5d5-06b8-4b3b-ac52-e926313e2e47
+    title: Frank Pearlman
+    node_type: person
+    slug: frank-pearlman
+    shared_claims: 1
+  - node_id: e6220ff0-c6db-4f15-9332-72acce9c9dc0
+    title: Jules Bergmann
+    node_type: person
+    slug: jules-bergmann
+    shared_claims: 1
+  - node_id: 3e3d0fe7-a2cf-4e09-ab26-7beca4bece48
+    title: NASA Jet Propulsion Laboratory (JPL)
+    node_type: organisation
+    slug: nasa-jet-propulsion-laboratory-jpl
+    shared_claims: 1
+  - node_id: 28b55b1b-8a63-4dbb-b444-8704078244fc
+    title: O'Hara (San Francisco Chronicle reporter)
+    node_type: person
+    slug: ohara-san-francisco-chronicle-reporter
+    shared_claims: 1
+  - node_id: c2db41b8-bc09-456d-8887-4b79a7e9c757
+    title: The New York Times
+    node_type: organisation
+    slug: the-new-york-times
+    shared_claims: 1
+  - node_id: 0958b0b1-bd61-4b80-930c-740c94c2e02b
+    title: Walter Sullivan
+    node_type: person
+    slug: walter-sullivan
+    shared_claims: 1
+claims:
+  - claim_id: 3cfad649-c436-4224-8c53-6fcda540cef2
+    claim_hash: c4d5de767a2e94e99012d4c9e473d462a99eeae4b79c0545a6f8fc1524fc0767
+    content: A reporter named O'Hara, working for the San Francisco Chronicle, went through the streets of San Francisco posing
+      a different question to people he met each day.
+    original_excerpt: A reporter named O'Hara, who works for the San Francisco Chronicle, goes through the streets of this
+      magnificent city and poses a different question every day to the people he meets.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 28b55b1b-8a63-4dbb-b444-8704078244fc
+        title: O'Hara (San Francisco Chronicle reporter)
+        slug: ohara-san-francisco-chronicle-reporter
+      - node_id: 5d5aa4e3-7bc3-4206-97e9-86ceeb333478
+        title: USA, California, San Francisco
+        slug: california-san-francisco-usa
+      - node_id: 7da2cf2b-788e-43ff-912c-1a6087f7bd06
+        title: San Francisco Chronicle
+        slug: san-francisco-chronicle
+    date: null
+    date_end: null
+    location_in_record: ch11:38802-38978
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: f0690aba-c78b-47f4-bb2f-f94ea04d55ee
+      record_title: 'Messengers of Deception: UFO Contacts and Cults'
+      record_date: '0101-01-01'
+      record_reference: null
+      content_hash: sha256:0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5ac9fd3168
+      friendly_name: 0101-01-01-ebook-messengers-of-deception-ufo-contacts-and-cults
+  - claim_id: e78e40fc-dfdc-4f37-ba85-5d06f4dcbeea
+    claim_hash: 2f7a9b742f4ed89ac338e3797840061ce92b33d890f39de627119c8bf2e96ac2
+    content: A San Francisco Chronicle reporter interviewed people on the streets of San Francisco about contact with UFO
+      beings.
+    original_excerpt: A reporter interviewing people on the streets of San Francisco recorded these views on the subject of
+      contact with "UFO beings."
+    claim_type: observation
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: document
+      origin: San Francisco Chronicle street interview feature
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 5d5aa4e3-7bc3-4206-97e9-86ceeb333478
+        title: USA, California, San Francisco
+        slug: california-san-francisco-usa
+      - node_id: 7da2cf2b-788e-43ff-912c-1a6087f7bd06
+        title: San Francisco Chronicle
+        slug: san-francisco-chronicle
+    date: null
+    date_end: null
+    location_in_record: ch11:41459-41579
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: f0690aba-c78b-47f4-bb2f-f94ea04d55ee
+      record_title: 'Messengers of Deception: UFO Contacts and Cults'
+      record_date: '0101-01-01'
+      record_reference: null
+      content_hash: sha256:0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5ac9fd3168
+      friendly_name: 0101-01-01-ebook-messengers-of-deception-ufo-contacts-and-cults
+  - claim_id: 55e6e833-2a8f-416d-bebc-61d8ed70bc95
+    claim_hash: a844f2c48b1758e19b8e1de72308ba74105d4d558993d69dcbb8e342adaa25b4
+    content: Frank Bristow, head of the Jet Propulsion Laboratory (JPL) press office, personally escorted the unidentified
+      man into the press room, where reporters including Walter Sullivan of the New York Times, Frank Pearlman of the San
+      Francisco Chronicle, Jules Bergmann of American Broadcasting Company (ABC), and Bill Stout of Columbia Broadcasting
+      System (CBS) were introduced to him.
+    original_excerpt: There, in an office where space correspondents, like Walter Sullivan (New York Times), Frank Pearlman
+      (San Francisco Chronicle), Jules Bergmann (ABC), and Bill Stout (our local guy from CBS) hung out... a handful of reporters
+      were now being introduced, again by Bristow, to "great coat guy."
+    claim_type: observation
+    attestation: first_hand
+    speaker:
+      node_id: e1650a1d-8feb-4841-a403-0d71e176d2d9
+      title: Richard C. Hoagland
+    provenance_chain:
+      origin_kind: speaker
+      origin: Richard C. Hoagland
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 0958b0b1-bd61-4b80-930c-740c94c2e02b
+        title: Walter Sullivan
+        slug: walter-sullivan
+      - node_id: 34798af9-f98a-424a-98f3-9b5340fdaa80
+        title: Bill Stout
+        slug: bill-stout
+      - node_id: 3e3d0fe7-a2cf-4e09-ab26-7beca4bece48
+        title: NASA Jet Propulsion Laboratory (JPL)
+        slug: nasa-jet-propulsion-laboratory-jpl
+      - node_id: 4094e5d5-06b8-4b3b-ac52-e926313e2e47
+        title: Frank Pearlman
+        slug: frank-pearlman
+      - node_id: 5af95a06-2e78-4b56-a826-0d83e136ead8
+        title: American Broadcasting Company (ABC)
+        slug: american-broadcasting-company-abc
+      - node_id: 7a25b20b-c238-4b97-862f-dc62dba6278a
+        title: Columbia Broadcasting System (CBS) News
+        slug: columbia-broadcasting-system-cbs-news
+      - node_id: 7da2cf2b-788e-43ff-912c-1a6087f7bd06
+        title: San Francisco Chronicle
+        slug: san-francisco-chronicle
+      - node_id: b34fd408-b07a-4bc4-b750-c80cfdecbcb3
+        title: Frank Bristow
+        slug: frank-bristow
+      - node_id: c2db41b8-bc09-456d-8887-4b79a7e9c757
+        title: The New York Times
+        slug: the-new-york-times
+      - node_id: e6220ff0-c6db-4f15-9332-72acce9c9dc0
+        title: Jules Bergmann
+        slug: jules-bergmann
+    date: 1969-07
+    date_end: null
+    location_in_record: ch7:28796-29148
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+      record_title: Dark Mission
+      record_date: '2010-07-22'
+      record_reference: null
+      content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+      friendly_name: null
+  - claim_id: b47bbe0c-9ff8-40ac-bc70-2d8d1d9c979e
+    claim_hash: 788c131e8272bf0b753866e1d0f4927188cbd843f802c1feff7b5c9d826a5a99
+    content: 'The San Francisco Chronicle, under the headline "DISC: SOLUTION COLLAPSES," reported that General Roger M. Ramey
+      said the Roswell wreckage was a "high-altitude weather observation device" consisting of a box kite and a balloon.'
+    original_excerpt: 'Under the headline DISC: SOLUTION COLLAPSES the *Chronicle* reported that General Roger M. Ramey had
+      stated that the wreckage was "a high-altitude weather observation device" that "consisted of a box kite and a balloon."'
+    claim_type: hearsay
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: named
+      origin: Roger M. Ramey
+      relay:
+        - San Francisco Chronicle
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 3b0c0328-6dfc-4b20-acce-d0f40ec02706
+        title: Roger Ramey
+        slug: roger-ramey
+      - node_id: 7da2cf2b-788e-43ff-912c-1a6087f7bd06
+        title: San Francisco Chronicle
+        slug: san-francisco-chronicle
+      - node_id: b8ea9860-ae6e-4835-8114-6a6626f28797
+        title: Roswell incident (1947)
+        slug: roswell-incident-1947
+    date: null
+    date_end: null
+    location_in_record: ch14:15459-15670
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: ad152768-183b-4cde-bc60-1520900ceb32
+      record_title: Communion
+      record_date: '2013-06-16'
+      record_reference: null
+      content_hash: sha256:b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4001275f9
+      friendly_name: 2013-06-16-ebook-communion
+  - claim_id: de085f16-60cb-4778-a8c5-6197ec7266cd
+    claim_hash: d66715dbc1b701323610f6a41009ca20069d7958417628ba99ce2bed733c6ca6
+    content: Later in the same San Francisco Chronicle story, General Roger M. Ramey was reported to have said the Roswell
+      wreckage was a "star-shaped tinfoil target designed to reflect radar."
+    original_excerpt: Later in the same story General Ramey is reported to have said that it was a "starshaped tinfoil target
+      designed to reflect radar."
+    claim_type: hearsay
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: named
+      origin: Roger M. Ramey
+      relay:
+        - San Francisco Chronicle
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 3b0c0328-6dfc-4b20-acce-d0f40ec02706
+        title: Roger Ramey
+        slug: roger-ramey
+      - node_id: 7da2cf2b-788e-43ff-912c-1a6087f7bd06
+        title: San Francisco Chronicle
+        slug: san-francisco-chronicle
+      - node_id: b8ea9860-ae6e-4835-8114-6a6626f28797
+        title: Roswell incident (1947)
+        slug: roswell-incident-1947
+    date: null
+    date_end: null
+    location_in_record: ch14:15680-15804
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: ad152768-183b-4cde-bc60-1520900ceb32
+      record_title: Communion
+      record_date: '2013-06-16'
+      record_reference: null
+      content_hash: sha256:b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4001275f9
+      friendly_name: 2013-06-16-ebook-communion

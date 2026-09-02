@@ -1,0 +1,255 @@
+schema: anomalica/brief/1
+brief_hash: bfb1112ed359fb38bf012a3c20ae22222952361a1789db5cd46ce32839082673
+page:
+  kind: entity
+  node_id: 9446003e-30ac-4b79-a1be-8f8d67800fd0
+  node_type: person
+  title: Story Musgrave
+  slug: story-musgrave
+  claim_count: 5
+  claim_count_total: 5
+generated:
+  graph_version: '2026-09-01T10:10:49.863545+00:00'
+size:
+  claims: 5
+  tokens_estimated: 1533
+  sized_against: 1050000
+publication:
+  status: published
+  note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
+    transcripts are gated elsewhere.
+belonging:
+  verified: 0
+  suspect_excluded: 0
+  unreviewed: 5
+related_nodes:
+  - node_id: 3487d76a-a9e8-4833-9a17-0a83e4cabe94
+    title: James E. Oberg
+    node_type: person
+    slug: james-e-oberg
+    shared_claims: 3
+  - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
+    title: 2004 USS Nimitz UAP encounter
+    node_type: event
+    slug: 2004-uss-nimitz-uap-encounter
+    shared_claims: 2
+  - node_id: 7896e551-150b-4bc8-a027-f96bb66a96a4
+    title: Dr. Mark Carlotto's 2005 STS-80 analysis paper
+    node_type: document
+    slug: dr-mark-carlottos-2005-sts-80-analysis-paper
+    shared_claims: 1
+  - node_id: b258ba79-75af-4717-8da2-cd62d86428e6
+    title: Maaneli "Max" Derakhshani
+    node_type: person
+    slug: maaneli-max-derakhshani
+    shared_claims: 1
+  - node_id: cd9db0d9-5951-4d87-a50b-7d772c61da41
+    title: Mark C. Carlotto
+    node_type: person
+    slug: mark-c-carlotto
+    shared_claims: 1
+  - node_id: af6dbe90-6360-40ab-ac31-ed08acbc94d4
+    title: STS-80
+    node_type: project
+    slug: sts-80
+    shared_claims: 1
+claims:
+  - claim_id: 137cc196-db0b-46f2-9200-d2489d4eb8fb
+    claim_hash: 7cf52faebdff985ca9c7c7fee489bd20f01a968bdf4cc8c83db50a191d3e6945
+    content: Space Shuttle crewman Story Musgrave, asked by James Oberg about the STS-80 disk-like objects, said he saw nothing
+      unusual on the flight at that point or at any other point.
+    original_excerpt: '"When I asked crewman Story Musgrave, who is not shy about talking about anomalies of any kind, he
+      assured me he saw nothing unusual on the flight, at this point or at any other."'
+    claim_type: testimony
+    attestation: second_hand
+    speaker:
+      node_id: 3487d76a-a9e8-4833-9a17-0a83e4cabe94
+      title: James E. Oberg
+    provenance_chain:
+      origin_kind: named
+      origin: Story Musgrave
+      relay:
+        - James Oberg
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 3487d76a-a9e8-4833-9a17-0a83e4cabe94
+        title: James E. Oberg
+        slug: james-e-oberg
+      - node_id: 9446003e-30ac-4b79-a1be-8f8d67800fd0
+        title: Story Musgrave
+        slug: story-musgrave
+      - node_id: af6dbe90-6360-40ab-ac31-ed08acbc94d4
+        title: STS-80
+        slug: sts-80
+    date: null
+    date_end: null
+    location_in_record: char:1970-2141
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 0055dc80-ff77-41d9-933f-4daa3f9aed31
+      record_title: Anomalous Phenomena in Space Shuttle Mission STS-80 Video
+      record_date: '2005'
+      record_reference: http://carlotto.us/newfrontiersinscience/Papers/v04n04a/v04n04a.pdf
+      content_hash: sha256:4c4bf584f8b4895378307383152cb3150dd5ad2368a0e996a77ec6309926d36a
+      friendly_name: null
+  - claim_id: f83c91d6-908e-4a98-a0aa-94ad2e43df90
+    claim_hash: e065d628bf8f3dfceac3bed044f284fd56f9ee0052dc8302967a71d126fdd80a
+    content: James Oberg described Story Musgrave as not shy about talking about anomalies of any kind.
+    original_excerpt: crewman Story Musgrave, who is not shy about talking about anomalies of any kind
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 3487d76a-a9e8-4833-9a17-0a83e4cabe94
+      title: James E. Oberg
+    provenance_chain:
+      origin_kind: speaker
+      origin: James Oberg
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 3487d76a-a9e8-4833-9a17-0a83e4cabe94
+        title: James E. Oberg
+        slug: james-e-oberg
+      - node_id: 9446003e-30ac-4b79-a1be-8f8d67800fd0
+        title: Story Musgrave
+        slug: story-musgrave
+    date: null
+    date_end: null
+    location_in_record: char:1983-2059
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 0055dc80-ff77-41d9-933f-4daa3f9aed31
+      record_title: Anomalous Phenomena in Space Shuttle Mission STS-80 Video
+      record_date: '2005'
+      record_reference: http://carlotto.us/newfrontiersinscience/Papers/v04n04a/v04n04a.pdf
+      content_hash: sha256:4c4bf584f8b4895378307383152cb3150dd5ad2368a0e996a77ec6309926d36a
+      friendly_name: null
+  - claim_id: 09bffba0-385f-48f9-a09c-0e4a858947d4
+    claim_hash: 34b899aa90e9bcea0cf8062f6f180d2b5f3098f9dfb16cb100c50641f4c918af
+    content: Story Musgrave, an astronaut, has talked about weird plasmatic snake-like objects that came up near the cockpit
+      window during one of his shuttle missions.
+    original_excerpt: is it Story Musgrave, one of the astronauts has talked about these weird plasmatic snake-like objects
+      that he said came up near the cockpit window when he was on his shuttle mission
+    claim_type: testimony
+    attestation: second_hand
+    speaker:
+      node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+      title: Ross Coulthart
+    provenance_chain:
+      origin_kind: named
+      origin: Story Musgrave
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 9446003e-30ac-4b79-a1be-8f8d67800fd0
+        title: Story Musgrave
+        slug: story-musgrave
+    date: null
+    date_end: null
+    location_in_record: 00:56:30.6-00:56:42.6
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: b3fda652-3dc2-4acc-b9ce-4b130add124f
+      record_title: What Did Apollo Astronauts Really See on the Moon? | Reality Check with Ross Coulthart
+      record_date: '2026-08-10'
+      record_reference: https://www.youtube.com/watch?v=lp-ta37pVKw
+      content_hash: sha256:f37882ab1f880101b3e452e3802d7afc296c07eb413f65ebea554984f3b8cdef
+      friendly_name: null
+  - claim_id: 77b6465b-6b85-4961-b771-ce51764b409d
+    claim_hash: cc796d26003dad9af081d1ba9ab2248ed73c64326f5679a98f8810e0ec88f737
+    content: According to James Oberg as quoted by Mark Carlotto, when Oberg asked Story Musgrave, who is not shy about discussing
+      anomalies, Musgrave assured Oberg that he saw nothing unusual during the STS-80 flight.
+    original_excerpt: According to James Ober, quote, when I asked crewman Story Musgrave, who is not shy about talking about
+      anomalies of any kind, he assured me he saw nothing unusual on the flight STS-80.
+    claim_type: testimony
+    attestation: third_hand
+    speaker:
+      node_id: b258ba79-75af-4717-8da2-cd62d86428e6
+      title: Maaneli "Max" Derakhshani
+    provenance_chain:
+      origin_kind: named
+      origin: James Oberg
+      relay:
+        - Dr. Mark Carlotto's 2005 STS-80 analysis paper
+        - Maaneli "Max" Derakhshani
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 3487d76a-a9e8-4833-9a17-0a83e4cabe94
+        title: James E. Oberg
+        slug: james-e-oberg
+      - node_id: 7896e551-150b-4bc8-a027-f96bb66a96a4
+        title: Dr. Mark Carlotto's 2005 STS-80 analysis paper
+        slug: dr-mark-carlottos-2005-sts-80-analysis-paper
+      - node_id: 9446003e-30ac-4b79-a1be-8f8d67800fd0
+        title: Story Musgrave
+        slug: story-musgrave
+      - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
+        title: 2004 USS Nimitz UAP encounter
+        slug: 2004-uss-nimitz-uap-encounter
+      - node_id: cd9db0d9-5951-4d87-a50b-7d772c61da41
+        title: Mark C. Carlotto
+        slug: mark-c-carlotto
+    date: null
+    date_end: null
+    location_in_record: 00:57:11.8-00:57:21.6
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: b3fda652-3dc2-4acc-b9ce-4b130add124f
+      record_title: What Did Apollo Astronauts Really See on the Moon? | Reality Check with Ross Coulthart
+      record_date: '2026-08-10'
+      record_reference: https://www.youtube.com/watch?v=lp-ta37pVKw
+      content_hash: sha256:f37882ab1f880101b3e452e3802d7afc296c07eb413f65ebea554984f3b8cdef
+      friendly_name: null
+  - claim_id: bb8fe4df-9d1d-4f2f-9f83-f34043f33ae2
+    claim_hash: 01389bc008434147cbccecaaebff2a7dc5e49c6a4c2dd6da00fe11317acb68b8
+    content: Maaneli "Max" Derakhshani questions whether Story Musgrave genuinely saw nothing unusual on STS-80 or was told
+      to stay quiet, noting it is hard to believe he would not have remarked on the strange things visible in the footage.
+    original_excerpt: So that raises a question. Musgrave see this himself or was he told to stay quiet it's hard to believe
+      that if he was looking at this footage footage he wouldn't say that's really weird there are a number of strange things
+      there
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: b258ba79-75af-4717-8da2-cd62d86428e6
+      title: Maaneli "Max" Derakhshani
+    provenance_chain:
+      origin_kind: speaker
+      origin: Maaneli "Max" Derakhshani
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 9446003e-30ac-4b79-a1be-8f8d67800fd0
+        title: Story Musgrave
+        slug: story-musgrave
+      - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
+        title: 2004 USS Nimitz UAP encounter
+        slug: 2004-uss-nimitz-uap-encounter
+      - node_id: b258ba79-75af-4717-8da2-cd62d86428e6
+        title: Maaneli "Max" Derakhshani
+        slug: maaneli-max-derakhshani
+    date: null
+    date_end: null
+    location_in_record: 00:57:27.8-00:57:42.3
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: b3fda652-3dc2-4acc-b9ce-4b130add124f
+      record_title: What Did Apollo Astronauts Really See on the Moon? | Reality Check with Ross Coulthart
+      record_date: '2026-08-10'
+      record_reference: https://www.youtube.com/watch?v=lp-ta37pVKw
+      content_hash: sha256:f37882ab1f880101b3e452e3802d7afc296c07eb413f65ebea554984f3b8cdef
+      friendly_name: null

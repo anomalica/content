@@ -1,0 +1,1449 @@
+schema: anomalica/brief/1
+brief_hash: fcbb7e97a022f65ab4d5c0a25713835eed40ca45f2b03256d633bed68f5ad8f1
+page:
+  kind: entity
+  node_id: 4ee606a3-72d8-412a-8bdc-c6077bd02a4a
+  node_type: organisation
+  title: National Security Agency (NSA)
+  slug: national-security-agency-nsa
+  claim_count: 30
+  claim_count_total: 30
+generated:
+  graph_version: '2026-09-01T10:10:49.863545+00:00'
+size:
+  claims: 30
+  tokens_estimated: 9834
+  sized_against: 1050000
+publication:
+  status: published
+  note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
+    transcripts are gated elsewhere.
+belonging:
+  verified: 0
+  suspect_excluded: 0
+  unreviewed: 30
+related_nodes:
+  - node_id: 38b84d4a-96df-4684-bb46-f6f64f392add
+    title: Central Intelligence Agency (CIA)
+    node_type: organisation
+    slug: central-intelligence-agency-cia
+    shared_claims: 11
+  - node_id: 6dcdfe60-bc2f-4be2-a041-9957a82f371e
+    title: Harold E. Puthoff
+    node_type: person
+    slug: harold-e-puthoff
+    shared_claims: 4
+  - node_id: 5ee4362d-c09b-44a8-a3be-8bd9c05f4c78
+    title: United States Navy (USN)
+    node_type: organisation
+    slug: united-states-navy-usn
+    shared_claims: 4
+  - node_id: 8ef89381-4a59-4986-96d3-1625498ef114
+    title: 1973 heavily redacted National Security Agency (NSA) Unidentified Flying Object (UFO) document
+    node_type: document
+    slug: 1973-heavily-redacted-national-security-agency-nsa-unidentified-flying-object-ufo-document
+    shared_claims: 3
+  - node_id: 382b6d6c-0182-4121-8bfc-525602d667b1
+    title: Defense Intelligence Agency (DIA)
+    node_type: organisation
+    slug: defense-intelligence-agency-dia
+    shared_claims: 3
+  - node_id: 71b60ec7-f862-452e-9945-85fd0d32b4f1
+    title: National Geospatial-Intelligence Agency (NGA)
+    node_type: organisation
+    slug: national-geospatial-intelligence-agency-nga
+    shared_claims: 3
+  - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
+    title: Unidentified Flying Object (UFO)
+    node_type: topic
+    slug: unidentified-flying-object-ufo
+    shared_claims: 3
+  - node_id: e79e207c-a848-4eb7-9246-07587b20d2c1
+    title: All-domain Anomaly Resolution Office (AARO)
+    node_type: organisation
+    slug: all-domain-anomaly-resolution-office-aaro
+    shared_claims: 2
+  - node_id: 6af27fdb-215e-48f8-bcfe-34ef174b3a5f
+    title: Bobby Inman
+    node_type: person
+    slug: bobby-inman
+    shared_claims: 2
+  - node_id: ec69e08d-062d-401c-9287-46a45fdc9b4d
+    title: Donald Menzel
+    node_type: person
+    slug: donald-menzel
+    shared_claims: 2
+  - node_id: c430b2b2-7900-45c9-9882-98ac4ab14e88
+    title: Federal Bureau of Investigation (FBI)
+    node_type: organisation
+    slug: federal-bureau-of-investigation-fbi
+    shared_claims: 2
+  - node_id: 2a210079-c0b5-4775-8f88-f0d4e1cec086
+    title: Freedom of Information Act (FOIA)
+    node_type: document
+    slug: freedom-of-information-act-foia
+    shared_claims: 2
+  - node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+    title: Luis Elizondo
+    node_type: person
+    slug: luis-elizondo
+    shared_claims: 2
+  - node_id: 97c6dfff-e58b-49b7-91c0-010e23dfc758
+    title: National Reconnaissance Office (NRO)
+    node_type: organisation
+    slug: national-reconnaissance-office-nro
+    shared_claims: 2
+  - node_id: f9c1f5e2-7a4b-4767-9954-a9d0f73bd908
+    title: Office of the Under Secretary of Defense for Intelligence (OUSDI)
+    node_type: organisation
+    slug: office-of-the-under-secretary-of-defense-for-intelligence-ousdi
+    shared_claims: 2
+  - node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+    title: Ross Coulthart
+    node_type: person
+    slug: ross-coulthart
+    shared_claims: 2
+  - node_id: 5c502145-40b9-4dbb-be65-24d903bbff01
+    title: Stanford University
+    node_type: organisation
+    slug: stanford-university
+    shared_claims: 2
+  - node_id: d1f6cc88-ffad-457b-bf78-802ea5429def
+    title: 6947th Security Squadron
+    node_type: organisation
+    slug: 6947th-security-squadron
+    shared_claims: 1
+  - node_id: 6ebf5277-bf0b-4a45-8edc-1fe389bf9933
+    title: Air Force A2
+    node_type: organisation
+    slug: air-force-a2
+    shared_claims: 1
+  - node_id: cad0a6eb-0ed3-44ee-8f8f-b22d7603c6f3
+    title: Air Force Office of Special Investigations (AFOSI)
+    node_type: organisation
+    slug: air-force-office-of-special-investigations-afosi
+    shared_claims: 1
+  - node_id: 498754fb-7980-482c-b877-57fbe17e1889
+    title: All-domain Anomaly Resolution Office (AARO) Historical Record Report (HR2)
+    node_type: project
+    slug: all-domain-anomaly-resolution-office-aaro-historical-record-report-hr2
+    shared_claims: 1
+  - node_id: 9552713a-c80e-4b66-9a3e-79cb79130430
+    title: Army Counterintelligence
+    node_type: organisation
+    slug: army-counterintelligence
+    shared_claims: 1
+  - node_id: 532f6b67-033c-43ab-8d64-b51becd65ac3
+    title: Army G2
+    node_type: organisation
+    slug: army-g2
+    shared_claims: 1
+  - node_id: 3ff75793-423c-4333-8402-d5c543074091
+    title: Bill Chalker
+    node_type: person
+    slug: bill-chalker
+    shared_claims: 1
+  - node_id: 0a1e7914-82e8-48f0-ae45-7a688df8b62f
+    title: Church Committee
+    node_type: organisation
+    slug: church-committee
+    shared_claims: 1
+  - node_id: fd6a41a5-1b73-48ce-b8f3-e7dc858bd0f4
+    title: Citizens Against Unidentified Flying Object (UFO) Secrecy
+    node_type: organisation
+    slug: citizens-against-unidentified-flying-object-ufo-secrecy
+    shared_claims: 1
+  - node_id: d9217e61-9255-4fc5-bb21-e8a8e9b5f0b0
+    title: Cuban MIG-21 Unidentified Flying Object (UFO) interception incident
+    node_type: event
+    slug: cuban-mig-21-unidentified-flying-object-ufo-interception-incident
+    shared_claims: 1
+  - node_id: d4241f5a-1063-4970-ba02-5a391c02d96d
+    title: David Charles Grusch
+    node_type: person
+    slug: david-charles-grusch
+    shared_claims: 1
+  - node_id: e3fc3ebb-8722-4b72-bfc3-3886b3bb167d
+    title: Department of Energy
+    node_type: organisation
+    slug: department-of-energy
+    shared_claims: 1
+  - node_id: 0527eb19-269f-4461-ab4c-54b4efb2fc90
+    title: General Electric
+    node_type: organisation
+    slug: general-electric
+    shared_claims: 1
+claims:
+  - claim_id: 0679ebe8-bd3f-4140-b1bc-f764d0e94558
+    claim_hash: fc7fcb215069c689296996e5589fbae5f5e1f8ea026ccd20c3c1cdb3bfd3f3fb
+    content: The National Security Agency admitted, after being brought to court, that it holds hundreds of documents relating
+      to UFOs.
+    original_excerpt: The National Security Agency has admitted after we brought them to court that they have hundreds of
+      documents relating to UFOs.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: d92b06f4-08e6-4138-8c83-7959f54a61bc
+      title: Raymond E. Fowler
+    provenance_chain:
+      origin_kind: speaker
+      origin: Raymond Fowler
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 2a210079-c0b5-4775-8f88-f0d4e1cec086
+        title: Freedom of Information Act (FOIA)
+        slug: freedom-of-information-act-foia
+      - node_id: 4ee606a3-72d8-412a-8bdc-c6077bd02a4a
+        title: National Security Agency (NSA)
+        slug: national-security-agency-nsa
+    date: null
+    date_end: null
+    location_in_record: 00:20:04.8-00:20:10.5
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 4c975267-b18f-447b-aea0-321d5f3aaf25
+      record_title: Raymond Fowler on UFOs, Government Cover-Ups & the Andreasson Affair (Full Interview, 1987)
+      record_date: null
+      record_reference: https://www.youtube.com/watch?v=eIx6NytOGTs
+      content_hash: sha256:c37a1f6968db0d7817235b1cb192758a04a3e990d89029bc48ff3facbb50e476
+      friendly_name: null
+  - claim_id: 59f3b41c-ccf5-4a37-8140-b7cdeff8eccc
+    claim_hash: 1d34d94971e9d4172a50057cd01fbf2246cd5804e13f073aa4115623668ecc49
+    content: The National Security Agency persuaded a judge that the contents of its UFO-related reports affected national
+      security and that the agency did not come under the Freedom of Information Act.
+    original_excerpt: They were able to persuade the judge that the contents of those reports affected national security and
+      that the National Security Agency didn't come under the Freedom of Information Act.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: d92b06f4-08e6-4138-8c83-7959f54a61bc
+      title: Raymond E. Fowler
+    provenance_chain:
+      origin_kind: speaker
+      origin: Raymond Fowler
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 2a210079-c0b5-4775-8f88-f0d4e1cec086
+        title: Freedom of Information Act (FOIA)
+        slug: freedom-of-information-act-foia
+      - node_id: 4ee606a3-72d8-412a-8bdc-c6077bd02a4a
+        title: National Security Agency (NSA)
+        slug: national-security-agency-nsa
+    date: null
+    date_end: null
+    location_in_record: 00:20:12.0-00:20:24.7
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 4c975267-b18f-447b-aea0-321d5f3aaf25
+      record_title: Raymond Fowler on UFOs, Government Cover-Ups & the Andreasson Affair (Full Interview, 1987)
+      record_date: null
+      record_reference: https://www.youtube.com/watch?v=eIx6NytOGTs
+      content_hash: sha256:c37a1f6968db0d7817235b1cb192758a04a3e990d89029bc48ff3facbb50e476
+      friendly_name: null
+  - claim_id: 1d7bf81c-d50e-40d8-b239-aa5904809120
+    claim_hash: 1b6d306fd8607014bff3342ace8d120fbb024b5e49178e6f7c8018f276e0e372
+    content: According to the testimony of a member of the 6947th Security Squadron, within hours of the Cuban MIG-21 interception
+      incident, orders were received to ship all tapes and pertinent intelligence to the National Security Agency and to list
+      the incident in the squadron files as an aircraft loss due to equipment malfunction.
+    original_excerpt: Within hours we received orders to ship all tapes and pertinent intelligence to the National Security
+      Agency, and were told to list the incident in the squadron files as aircraft loss due to equipment malfunction.
+    claim_type: testimony
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: named
+      origin: a member of the 6947th Security Squadron
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 4ee606a3-72d8-412a-8bdc-c6077bd02a4a
+        title: National Security Agency (NSA)
+        slug: national-security-agency-nsa
+      - node_id: d1f6cc88-ffad-457b-bf78-802ea5429def
+        title: 6947th Security Squadron
+        slug: 6947th-security-squadron
+      - node_id: d9217e61-9255-4fc5-bb21-e8a8e9b5f0b0
+        title: Cuban MIG-21 Unidentified Flying Object (UFO) interception incident
+        slug: cuban-mig-21-unidentified-flying-object-ufo-interception-incident
+    date: null
+    date_end: null
+    location_in_record: ch12:31528-31729
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: f0690aba-c78b-47f4-bb2f-f94ea04d55ee
+      record_title: 'Messengers of Deception: UFO Contacts and Cults'
+      record_date: '0101-01-01'
+      record_reference: null
+      content_hash: sha256:0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5ac9fd3168
+      friendly_name: 0101-01-01-ebook-messengers-of-deception-ufo-contacts-and-cults
+  - claim_id: c0f2530b-bb4c-4041-ad6c-a0fb4df99549
+    claim_hash: 1ec9e572f9e0ae90f22213526f9a02f586a939c7a44fa4b345f37ad93fcac929
+    content: Bobby Inman was a former director of the National Security Agency (NSA).
+    original_excerpt: The “Admiral Inman” he was referring to was Admiral Bobby Inman, former director of the National Security
+      Agency
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 4ee606a3-72d8-412a-8bdc-c6077bd02a4a
+        title: National Security Agency (NSA)
+        slug: national-security-agency-nsa
+      - node_id: 6af27fdb-215e-48f8-bcfe-34ef174b3a5f
+        title: Bobby Inman
+        slug: bobby-inman
+    date: null
+    date_end: null
+    location_in_record: ch14:22547-22653
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+      record_title: Dark Mission
+      record_date: '2010-07-22'
+      record_reference: null
+      content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+      friendly_name: null
+  - claim_id: 2811ab47-a795-4ba4-90c3-95871cd251cc
+    claim_hash: 0d242bd9ef68e7662c9bea894259dfc7e3fb7d3ec23d38ed80d3f2ade607a624
+    content: Joseph McMoneagle provided professional intelligence and informational support to the National Security Agency
+      (NSA) during his career.
+    original_excerpt: Joe provided professional intelligence and creative/inovative informational support to the CIA, DIA,
+      NSA, DEA, Secret Service, FBI, US Customs, the NSC, major commands within the DoD
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 4ee606a3-72d8-412a-8bdc-c6077bd02a4a
+        title: National Security Agency (NSA)
+        slug: national-security-agency-nsa
+      - node_id: 9caa600b-5ac0-4ec4-b956-10e029417fc8
+        title: Joseph McMoneagle
+        slug: joseph-mcmoneagle
+    date: null
+    date_end: null
+    location_in_record: ch4:1504-1683
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 6e543cda-3973-4882-854c-929a9aa608ab
+      record_title: Remote Viewing Secrets
+      record_date: '2013-03-22'
+      record_reference: null
+      content_hash: sha256:498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4d6dbbe35
+      friendly_name: 2013-03-22-ebook-remote-viewing-secrets
+  - claim_id: 3bdba6a0-f9d0-4a3c-a909-2ccb6a5e76d0
+    claim_hash: 7d3591df80141dfbbc49ddf3c2c8ff6db7b76c7f2f089a1f456b4704cb16a1df
+    content: The National Security Agency (NSA) went to the United States Supreme Court to protect some of its documents about
+      unidentified flying disks.
+    original_excerpt: The National Security agency has gone all the way to the Supreme Court to protect some of its documents
+      about the disks.
+    claim_type: testimony
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 4ee606a3-72d8-412a-8bdc-c6077bd02a4a
+        title: National Security Agency (NSA)
+        slug: national-security-agency-nsa
+      - node_id: 6c45d7b9-c535-4892-9989-ac81b1831890
+        title: United States Supreme Court
+        slug: united-states-supreme-court
+      - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
+        title: Unidentified Flying Object (UFO)
+        slug: unidentified-flying-object-ufo
+    date: null
+    date_end: null
+    location_in_record: ch14:21137-21251
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: ad152768-183b-4cde-bc60-1520900ceb32
+      record_title: Communion
+      record_date: '2013-06-16'
+      record_reference: null
+      content_hash: sha256:b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4001275f9
+      friendly_name: 2013-06-16-ebook-communion
+  - claim_id: db0896bb-d5d5-468d-b390-594f33645f46
+    claim_hash: f542908e28975ad543681ed2e1b7f64c4370fea7825211bfe2ef07a815735899
+    content: Bill Chalker has speculated that the 1973 North West Cape sighting may be referred to in a heavily redacted US
+      National Security Agency document, released in a 1980 court action taken by Citizens Against UFO Secrecy.
+    original_excerpt: but Bill Chalker has speculated it may be a sighting referred to in a heavily redacted US National Security
+      Agency (NSA) document, previously highly protected with one of the highest top-secret-umbra security classifications,
+      which was released in court action taken in 1980 by the US group Citizens Against Unidentified Flying Objects Secrecy.
+    claim_type: opinion
+    attestation: second_hand
+    speaker:
+      node_id: 3ff75793-423c-4333-8402-d5c543074091
+      title: Bill Chalker
+    provenance_chain:
+      origin_kind: named
+      origin: Bill Chalker
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 3ff75793-423c-4333-8402-d5c543074091
+        title: Bill Chalker
+        slug: bill-chalker
+      - node_id: 4ee606a3-72d8-412a-8bdc-c6077bd02a4a
+        title: National Security Agency (NSA)
+        slug: national-security-agency-nsa
+      - node_id: 8ef89381-4a59-4986-96d3-1625498ef114
+        title: 1973 heavily redacted National Security Agency (NSA) Unidentified Flying Object (UFO) document
+        slug: 1973-heavily-redacted-national-security-agency-nsa-unidentified-flying-object-ufo-document
+      - node_id: a50a3d44-6eb5-47f1-92ce-64328b2ec25f
+        title: North West Cape 1973 UAP Sighting
+        slug: north-west-cape-1973-uap-sighting
+      - node_id: fd6a41a5-1b73-48ce-b8f3-e7dc858bd0f4
+        title: Citizens Against Unidentified Flying Object (UFO) Secrecy
+        slug: citizens-against-unidentified-flying-object-ufo-secrecy
+    date: '1980'
+    date_end: null
+    location_in_record: ch11:12579-12915
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 3c4bbcb3-52b4-4a62-bc5f-ac834d84d523
+    claim_hash: 954b5be267c6675ede27279cf5ba0243d886f3a2ef7354ececefcd6ff83c4d07
+    content: The heavily redacted 1973 NSA UFO document was previously protected with one of the highest top-secret-umbra
+      security classifications.
+    original_excerpt: previously highly protected with one of the highest top-secret-umbra security classifications
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: narration
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 4ee606a3-72d8-412a-8bdc-c6077bd02a4a
+        title: National Security Agency (NSA)
+        slug: national-security-agency-nsa
+      - node_id: 8ef89381-4a59-4986-96d3-1625498ef114
+        title: 1973 heavily redacted National Security Agency (NSA) Unidentified Flying Object (UFO) document
+        slug: 1973-heavily-redacted-national-security-agency-nsa-unidentified-flying-object-ufo-document
+    date: null
+    date_end: null
+    location_in_record: ch11:12710-12788
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 92a6bc5a-2651-4db7-ac3a-98b7ad00ac89
+    claim_hash: 7ef80d1b0eb4584110279f97d965b8cf3bc70e39df6e8e33ab04f52e2440f192
+    content: An NSA official was compelled under deposition to admit that 239 UFO-related documents were held in the agency's
+      files.
+    original_excerpt: An NSA official was compelled under deposition to admit that 239 UFO-related documents were held in
+      the agency's files, including one describing 'a purported UFO sighting' in 1973
+    claim_type: testimony
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: named
+      origin: an unnamed NSA official
+      relay:
+        - deposition
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 4ee606a3-72d8-412a-8bdc-c6077bd02a4a
+        title: National Security Agency (NSA)
+        slug: national-security-agency-nsa
+      - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
+        title: Unidentified Flying Object (UFO)
+        slug: unidentified-flying-object-ufo
+    date: null
+    date_end: null
+    location_in_record: ch11:12925-13100
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: e4880dd8-2174-42ba-a077-cf29e74063d5
+    claim_hash: d368491b50b7af4d139c19999164be12e2f2a21ef475776c2acafd8fd0d2a07b
+    content: One of the 239 UFO-related documents held in the NSA's files described a purported UFO sighting in 1973, though
+      any mention of where it occurred was heavily redacted.
+    original_excerpt: including one describing 'a purported UFO sighting' in 1973; however, any mention of where this 'UFO
+      sighting' occurred was heavily redacted.
+    claim_type: administrative
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: document
+      origin: NSA deposition record
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 4ee606a3-72d8-412a-8bdc-c6077bd02a4a
+        title: National Security Agency (NSA)
+        slug: national-security-agency-nsa
+      - node_id: 8ef89381-4a59-4986-96d3-1625498ef114
+        title: 1973 heavily redacted National Security Agency (NSA) Unidentified Flying Object (UFO) document
+        slug: 1973-heavily-redacted-national-security-agency-nsa-unidentified-flying-object-ufo-document
+      - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
+        title: Unidentified Flying Object (UFO)
+        slug: unidentified-flying-object-ufo
+    date: '1973'
+    date_end: null
+    location_in_record: ch11:13045-13177
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 264fac5f-5e8c-4840-ae89-50f9c152e404
+    claim_hash: b81d4d48c6091a1dc5c31ea797a6464bdf4c2be5e9e220e3a6563ddc4b1152af
+    content: In 2008, James Clapper personally hired Luis Elizondo into the Office of the Under-Secretary of Defence for Intelligence
+      and Security, the office that acts as principal staff for the Department of Defense on sensitive intelligence-related
+      matters, overseeing a cluster of three-letter DoD agencies including the Defense Intelligence Agency and the National
+      Security Agency.
+    original_excerpt: recognised Elizondo's skills and, in 2008, had personally hired him into the office that acts as the
+      principal staff for the Department of Defence on sensitive intelligence-related matters, overseeing a cluster of three-letter
+      DoD agencies, including the Defence Intelligence Agency and the National Security Agency
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 382b6d6c-0182-4121-8bfc-525602d667b1
+        title: Defense Intelligence Agency (DIA)
+        slug: defense-intelligence-agency-dia
+      - node_id: 4ee606a3-72d8-412a-8bdc-c6077bd02a4a
+        title: National Security Agency (NSA)
+        slug: national-security-agency-nsa
+      - node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+        title: Luis Elizondo
+        slug: luis-elizondo
+      - node_id: a3b88bf2-de8f-45bf-addf-fadd9244c4e5
+        title: James R. Clapper
+        slug: james-r-clapper
+      - node_id: f9c1f5e2-7a4b-4767-9954-a9d0f73bd908
+        title: Office of the Under Secretary of Defense for Intelligence (OUSDI)
+        slug: office-of-the-under-secretary-of-defense-for-intelligence-ousdi
+    date: '2008'
+    date_end: null
+    location_in_record: ch21:11763-12072
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: acaafa83-9eaa-450f-abcb-95aac0f83f9f
+    claim_hash: e35f0c74711a559fdf9b3f06cbd9fbffaccaa1cf44fd3726109f6b33ef3ba4d7
+    content: Hal Puthoff worked for the National Security Agency and the Central Intelligence Agency.
+    original_excerpt: Hal Puthoff worked for the NSA and CIA.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: unattributed narration
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 38b84d4a-96df-4684-bb46-f6f64f392add
+        title: Central Intelligence Agency (CIA)
+        slug: central-intelligence-agency-cia
+      - node_id: 4ee606a3-72d8-412a-8bdc-c6077bd02a4a
+        title: National Security Agency (NSA)
+        slug: national-security-agency-nsa
+      - node_id: 6dcdfe60-bc2f-4be2-a041-9957a82f371e
+        title: Harold E. Puthoff
+        slug: harold-e-puthoff
+    date: null
+    date_end: null
+    location_in_record: ch24:8072-8107
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 49032c1d-f626-4c65-bb29-74a20a51363a
+    claim_hash: 4cc5a96d4beb74ad1d5d225b024a2924fbd2e97ddaf7704cb59265a8e14d9822
+    content: It was revealed only after his death that Harvard astronomer and self-described UFO sceptic Donald Menzel had
+      a clandestine association with the US National Security Agency, the Central Intelligence Agency (CIA), and the US Navy,
+      holding a top-secret-ultra security clearance.
+    original_excerpt: It was only revealed after his death that Harvard astronomer and self-described 'UFO sceptic' Donald
+      Menzel had a clandestine association with the US National Security Agency, CIA and Navy (holding a top-secret-ultra
+      clearance).
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 38b84d4a-96df-4684-bb46-f6f64f392add
+        title: Central Intelligence Agency (CIA)
+        slug: central-intelligence-agency-cia
+      - node_id: 4ee606a3-72d8-412a-8bdc-c6077bd02a4a
+        title: National Security Agency (NSA)
+        slug: national-security-agency-nsa
+      - node_id: 5ee4362d-c09b-44a8-a3be-8bd9c05f4c78
+        title: United States Navy (USN)
+        slug: united-states-navy-usn
+      - node_id: ec69e08d-062d-401c-9287-46a45fdc9b4d
+        title: Donald Menzel
+        slug: donald-menzel
+    date: null
+    date_end: null
+    location_in_record: ch7:22632-22849
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 4165ac93-d055-40c5-b4bf-a1520fe896af
+    claim_hash: b85152de8a1ae0d9cc72c95921f240a82881dc15e9772aa180c384dc2e55f002
+    content: Donald Menzel never disclosed his secret relationship with the US National Security Agency, the Central Intelligence
+      Agency (CIA), and the US Navy, even to his own university.
+    original_excerpt: It was a secret relationship he never disclosed, even to his university.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 38b84d4a-96df-4684-bb46-f6f64f392add
+        title: Central Intelligence Agency (CIA)
+        slug: central-intelligence-agency-cia
+      - node_id: 4ee606a3-72d8-412a-8bdc-c6077bd02a4a
+        title: National Security Agency (NSA)
+        slug: national-security-agency-nsa
+      - node_id: 5ee4362d-c09b-44a8-a3be-8bd9c05f4c78
+        title: United States Navy (USN)
+        slug: united-states-navy-usn
+      - node_id: ec69e08d-062d-401c-9287-46a45fdc9b4d
+        title: Donald Menzel
+        slug: donald-menzel
+    date: null
+    date_end: null
+    location_in_record: ch7:22861-22922
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 29055d3f-19b0-4a6e-9149-aa17ec070132
+    claim_hash: 6876d9453e2d0f4b2dff2368ae34f6438fa29ac4e6ede77e69c35bfc170c7379
+    content: Harold Puthoff's professional background spans decades of research at General Electric, Sperry Corporation, the
+      National Security Agency (NSA), Stanford University, and SRI International.
+    original_excerpt: His professional background spans decades of research at General Electric, Sperry, the NSA, Stanford
+      University, and SRI International
+    claim_type: administrative
+    attestation: first_hand
+    speaker:
+      node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+      title: Luis Elizondo
+    provenance_chain:
+      origin_kind: speaker
+      origin: Lue Elizondo
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 0527eb19-269f-4461-ab4c-54b4efb2fc90
+        title: General Electric
+        slug: general-electric
+      - node_id: 32987cf1-88f7-4646-a856-740205441fda
+        title: Sperry Corporation
+        slug: sperry-corporation
+      - node_id: 4ee606a3-72d8-412a-8bdc-c6077bd02a4a
+        title: National Security Agency (NSA)
+        slug: national-security-agency-nsa
+      - node_id: 5c502145-40b9-4dbb-be65-24d903bbff01
+        title: Stanford University
+        slug: stanford-university
+      - node_id: 6dcdfe60-bc2f-4be2-a041-9957a82f371e
+        title: Harold E. Puthoff
+        slug: harold-e-puthoff
+      - node_id: fd2faec4-ecaf-4f91-abec-e55c06c70e92
+        title: SRI International
+        slug: sri-international
+    date: null
+    date_end: null
+    location_in_record: ch10:2421-2542
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  - claim_id: b303af53-033c-4220-97ba-a1ddfd6b2cc6
+    claim_hash: e568d89001ca4b12ec22592b09cd0dc8da764182c3270b0ae88c6068eda23dda
+    content: Harold Puthoff served almost every United States government entity, including the Department of Defense (DoD)
+      and agencies within the intelligence community such as the National Security Agency (NSA), as a senior scientific advisor.
+    original_excerpt: he has served almost every government entity (for example, the Department of Defense and agencies within
+      the intelligence community, such as the NSA) as a senior scientific advisor.
+    claim_type: administrative
+    attestation: first_hand
+    speaker:
+      node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+      title: Luis Elizondo
+    provenance_chain:
+      origin_kind: speaker
+      origin: Lue Elizondo
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 4ee606a3-72d8-412a-8bdc-c6077bd02a4a
+        title: National Security Agency (NSA)
+        slug: national-security-agency-nsa
+      - node_id: 6dcdfe60-bc2f-4be2-a041-9957a82f371e
+        title: Harold E. Puthoff
+        slug: harold-e-puthoff
+      - node_id: 99f08514-5471-4eaf-bce3-46c474a8d304
+        title: United States Department of Defense (DoD)
+        slug: united-states-department-of-defense-dod
+    date: null
+    date_end: null
+    location_in_record: ch10:2561-2734
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  - claim_id: 625a284f-b4d0-4b1e-a20c-70cf133e40cc
+    claim_hash: 9dbedf40688015961aae4468a0ce2baf00abf871f8c8304d28c59565747e022d
+    content: Harold Puthoff was a Stanford University researcher and an employee of the National Security Agency when he and
+      Russell Targ were approached by the Central Intelligence Agency and told that Russia had a remote viewing programme.
+    original_excerpt: Hal had been a Stanford University researcher and an employee of the NSA when he and his colleague Russell
+      Targ were approached by the CIA and told that Russia had a remote-viewing program.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 38b84d4a-96df-4684-bb46-f6f64f392add
+        title: Central Intelligence Agency (CIA)
+        slug: central-intelligence-agency-cia
+      - node_id: 4ee606a3-72d8-412a-8bdc-c6077bd02a4a
+        title: National Security Agency (NSA)
+        slug: national-security-agency-nsa
+      - node_id: 5c502145-40b9-4dbb-be65-24d903bbff01
+        title: Stanford University
+        slug: stanford-university
+      - node_id: 6dcdfe60-bc2f-4be2-a041-9957a82f371e
+        title: Harold E. Puthoff
+        slug: harold-e-puthoff
+      - node_id: eaceaab4-6d50-49da-9974-e72719de76e9
+        title: Russell Targ
+        slug: russell-targ
+    date: null
+    date_end: null
+    location_in_record: ch11:25266-25447
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  - claim_id: 76b1b0ab-78bd-45f0-88f3-73fbaab7a2b5
+    claim_hash: 0da084b2ce1518707421da9d677ce6d8de356c40e90a4f1e307dadf13e18cc1c
+    content: Pat Price, working from a couch on the west coast of the United States, remote viewed a secret National Security
+      Agency location in West Virginia and correctly described identifying labels on file folders locked in a subterranean
+      cabinet there.
+    original_excerpt: From a couch on the west coast, Price penetrated a secret NSA location in West Virginia and correctly
+      described identifying labels on manila file folders locked in a subterranean cabinet.
+    claim_type: testimony
+    attestation: second_hand
+    speaker:
+      node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+      title: Luis Elizondo
+    provenance_chain:
+      origin_kind: named
+      origin: Pat Price
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 4ee606a3-72d8-412a-8bdc-c6077bd02a4a
+        title: National Security Agency (NSA)
+        slug: national-security-agency-nsa
+      - node_id: 7b68b243-b58d-411f-b05d-9e651cf08e33
+        title: USA, West Virginia
+        slug: west-virginia-usa
+      - node_id: e6ee4cde-c5f4-4f02-a164-a66ccdb5bb50
+        title: Pat Price
+        slug: pat-price
+    date: null
+    date_end: null
+    location_in_record: ch11:33958-34137
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  - claim_id: 9068dff4-55d0-482f-b78b-6cf064438682
+    claim_hash: 4868f16c71d2ba8c13095cc79c9228c1e1d48671c208d401e36f59700934054a
+    content: The National Security Agency and Central Intelligence Agency offered to provide assets to support Operation Plan
+      Interloper, and weekly meetings were held in Sensitive Compartmented Information Facility (SCIF) spaces, some at the
+      Pentagon and others at other agencies.
+    original_excerpt: The NSA and CIA offered to provide assets as well, and we launched weekly meetings in the SCIF spaces
+      we had available. Some of these meetings occurred at the Pentagon, while others were held at other agencies.
+    claim_type: administrative
+    attestation: first_hand
+    speaker:
+      node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+      title: Luis Elizondo
+    provenance_chain:
+      origin_kind: speaker
+      origin: Lue Elizondo
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 38b84d4a-96df-4684-bb46-f6f64f392add
+        title: Central Intelligence Agency (CIA)
+        slug: central-intelligence-agency-cia
+      - node_id: 4ee606a3-72d8-412a-8bdc-c6077bd02a4a
+        title: National Security Agency (NSA)
+        slug: national-security-agency-nsa
+      - node_id: 91bf8fa5-d894-4840-b3a2-8955d43c11c3
+        title: OPLAN Interloper
+        slug: oplan-interloper
+      - node_id: 9bb3e171-2197-411c-ab51-c4ea9dd2048f
+        title: Sensitive Compartmented Information Facility (SCIF)
+        slug: sensitive-compartmented-information-facility-scif
+      - node_id: c2161b8f-ab11-449c-8521-174024cb0552
+        title: USA, Washington DC, Pentagon
+        slug: washington-dc-pentagon-usa
+    date: null
+    date_end: null
+    location_in_record: ch23:13729-13930
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  - claim_id: fbad6c56-4a04-4bcd-a697-c5fd0dbf212d
+    claim_hash: 63d78bc4e3f56ad41a54e57b7d315afb4339f27ef0afd5d61cbd139ab5de331f
+    content: A few months after sharing the Predator video with Neill Tipton, Luis Elizondo attended a meeting with high-level
+      United States Navy officials, Central Intelligence Agency (CIA) representatives, and a National Security Agency (NSA)
+      representative where the GoFast and GIMBAL videos were shown.
+    original_excerpt: A few months later I was sitting in a room with high-level Navy officials, CIA reps, and someone from
+      the NSA... we rolled the tapes.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+      title: Luis Elizondo
+    provenance_chain:
+      origin_kind: speaker
+      origin: Lue Elizondo
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 1451172e-3efb-4848-939a-ed9aff0d7e2f
+        title: Go-Fast Video
+        slug: go-fast-video
+      - node_id: 38b84d4a-96df-4684-bb46-f6f64f392add
+        title: Central Intelligence Agency (CIA)
+        slug: central-intelligence-agency-cia
+      - node_id: 4ee606a3-72d8-412a-8bdc-c6077bd02a4a
+        title: National Security Agency (NSA)
+        slug: national-security-agency-nsa
+      - node_id: 5ee4362d-c09b-44a8-a3be-8bd9c05f4c78
+        title: United States Navy (USN)
+        slug: united-states-navy-usn
+      - node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+        title: Luis Elizondo
+        slug: luis-elizondo
+      - node_id: e57005b4-b10f-49a9-872f-61f00312b820
+        title: Gimbal video
+        slug: gimbal-video
+    date: null
+    date_end: null
+    location_in_record: ch23:21631-21748
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  - claim_id: 3bf8e55d-3cb7-4c40-b965-b0aa16bcc29a
+    claim_hash: b1ba0dc8a8dbe331424b2a3109e0168c1ea6b88cf0c02021151b7e8d5cba8ae4
+    content: The National Reconnaissance Office (NRO), Central Intelligence Agency (CIA), National Geospatial-Intelligence
+      Agency (NGA), Federal Bureau of Investigation (FBI), and National Security Agency (NSA) appeared to hold important UAP
+      data that they were not sharing with each other.
+    original_excerpt: Meanwhile, the National Reconnaissance Office (NRO), the Central Intelligence Agency (CIA), the National
+      Geospatial-Intelligence Agency (NGA), the Federal Bureau of Investigation (FBI), and the National Security Agency (NSA)
+      also appeared to have important UAP data they were not sharing.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 5d06f518-dd64-4429-9026-b930e88660d2
+      title: Christopher K. Mellon
+    provenance_chain:
+      origin_kind: speaker
+      origin: Christopher Mellon
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 38b84d4a-96df-4684-bb46-f6f64f392add
+        title: Central Intelligence Agency (CIA)
+        slug: central-intelligence-agency-cia
+      - node_id: 4ee606a3-72d8-412a-8bdc-c6077bd02a4a
+        title: National Security Agency (NSA)
+        slug: national-security-agency-nsa
+      - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
+        title: Unidentified Anomalous Phenomena (UAP)
+        slug: unidentified-anomalous-phenomena-uap
+      - node_id: 71b60ec7-f862-452e-9945-85fd0d32b4f1
+        title: National Geospatial-Intelligence Agency (NGA)
+        slug: national-geospatial-intelligence-agency-nga
+      - node_id: 97c6dfff-e58b-49b7-91c0-010e23dfc758
+        title: National Reconnaissance Office (NRO)
+        slug: national-reconnaissance-office-nro
+      - node_id: c430b2b2-7900-45c9-9882-98ac4ab14e88
+        title: Federal Bureau of Investigation (FBI)
+        slug: federal-bureau-of-investigation-fbi
+    date: null
+    date_end: null
+    location_in_record: ch6:17564-17844
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  - claim_id: 63b1526c-a4b6-4214-950e-85ccce69df5f
+    claim_hash: aadaed06a1c7a4cb707242f79df8554ea8deaecf81fa0539730945f9f60cdf94
+    content: The Inspector General, U.S. Department of Defense interviewed senior officials and requested unidentified anomalous
+      phenomena-related data and organisational policies, procedures, and guidance from the Office of the Under Secretary
+      of Defense for Intelligence and Security, the All-domain Anomaly Resolution Office, the Military Services, the Military
+      Service Intelligence Components, the Military Department Counterintelligence Organizations, and defense intelligence
+      agencies.
+    original_excerpt: 'We interviewed senior officials and requested UAP-related data and organizational policies, procedures,
+      and guidance from the following DoD organizations: OUSD(I&S), AARO, Military Services (Departments of the Army, Navy,
+      and Air Force), Military Service Intelligence Components (Army G2, Navy N2, Air Force A2), MDCOs (Army Counterintelligence,
+      Naval Criminal Investigative Service, Office of Special Investigations), Defense intelligence agencies (Defense Intelligence
+      Agency, National Geospatial-Intelligence Agency, National Reconnaissance Office, and National Security Agency)'
+    claim_type: administrative
+    attestation: first_hand
+    speaker:
+      node_id: a1d5db17-aa7c-4fe0-9ff4-a55f2ebb4617
+      title: Inspector General, U.S. Department of Defense
+    provenance_chain:
+      origin_kind: speaker
+      origin: Inspector General, U.S. Department of Defense
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 32b98a17-be55-4b0f-8e10-9d377e1e8b33
+        title: United States Air Force (USAF)
+        slug: united-states-air-force-usaf
+      - node_id: 382b6d6c-0182-4121-8bfc-525602d667b1
+        title: Defense Intelligence Agency (DIA)
+        slug: defense-intelligence-agency-dia
+      - node_id: 4ee606a3-72d8-412a-8bdc-c6077bd02a4a
+        title: National Security Agency (NSA)
+        slug: national-security-agency-nsa
+      - node_id: 532f6b67-033c-43ab-8d64-b51becd65ac3
+        title: Army G2
+        slug: army-g2
+      - node_id: 5ee4362d-c09b-44a8-a3be-8bd9c05f4c78
+        title: United States Navy (USN)
+        slug: united-states-navy-usn
+      - node_id: 68471186-0d1f-403a-9743-bdbc52c4e35e
+        title: Navy N2
+        slug: navy-n2
+      - node_id: 6ebf5277-bf0b-4a45-8edc-1fe389bf9933
+        title: Air Force A2
+        slug: air-force-a2
+      - node_id: 71b60ec7-f862-452e-9945-85fd0d32b4f1
+        title: National Geospatial-Intelligence Agency (NGA)
+        slug: national-geospatial-intelligence-agency-nga
+      - node_id: 9552713a-c80e-4b66-9a3e-79cb79130430
+        title: Army Counterintelligence
+        slug: army-counterintelligence
+      - node_id: 96278e27-75e6-49fe-8ea6-a0f4f5ff1f8a
+        title: United States Army
+        slug: united-states-army
+      - node_id: 97c6dfff-e58b-49b7-91c0-010e23dfc758
+        title: National Reconnaissance Office (NRO)
+        slug: national-reconnaissance-office-nro
+      - node_id: a1d5db17-aa7c-4fe0-9ff4-a55f2ebb4617
+        title: Inspector General, U.S. Department of Defense
+        slug: us-department-of-defense-inspector-general
+      - node_id: cad0a6eb-0ed3-44ee-8f8f-b22d7603c6f3
+        title: Air Force Office of Special Investigations (AFOSI)
+        slug: air-force-office-of-special-investigations-afosi
+      - node_id: cfbfa70c-2477-411c-ab84-994f2dcf6caf
+        title: Naval Criminal Investigative Service (NCIS)
+        slug: naval-criminal-investigative-service-ncis
+      - node_id: e79e207c-a848-4eb7-9246-07587b20d2c1
+        title: All-domain Anomaly Resolution Office (AARO)
+        slug: all-domain-anomaly-resolution-office-aaro
+      - node_id: f9c1f5e2-7a4b-4767-9954-a9d0f73bd908
+        title: Office of the Under Secretary of Defense for Intelligence (OUSDI)
+        slug: office-of-the-under-secretary-of-defense-for-intelligence-ousdi
+    date: null
+    date_end: null
+    location_in_record: char:26132-26714
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 16fab195-3d1d-4a8f-b0b0-6bf40d611152
+      record_title: Unclassified Summary of Report No. DODIG-2023-109, "Evaluation of the DoD's Actions Regarding Unidentified
+        Anomalous Phenomena," August 15, 2023
+      record_date: '2024-01-24'
+      record_reference: null
+      content_hash: sha256:e0b2ceb193d4e10a4cd75e5131257c453d15b7b5999d8d5245de9ab897a0bdd3
+      friendly_name: 2024-01-24-pdf-unclassified-summary-of-report-no-dodig-2023-109-evaluation-of-the-dods-actions-
+  - claim_id: 03d65f79-431b-4dcb-9412-ce121509179c
+    claim_hash: a649573b559b57ae8d9d643052e0de1032872892328d4f7003c2636eff73ee0b
+    content: One line of effort for the AARO Historical Record Report (HR2) was to partner with the archives of key intelligence
+      and national security agencies, including the Defense Intelligence Agency (DIA), the Central Intelligence Agency (CIA),
+      Department of Energy (DOE), National Security Agency (NSA), and the National Geospatial-Intelligence Agency (NGA).
+    original_excerpt: Partner with the archives of key intelligence and national security agencies such as the Defense Intelligence
+      Agency (DIA), the Central Intelligence Agency (CIA), Department of Energy (DOE), National Security Agency (NSA), the
+      National Geospatial-Intelligence Agency (NGA), the Services, and DoD Combatant Commands.
+    claim_type: administrative
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: named
+      origin: All-Domain Anomaly Resolution Office (AARO)
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 382b6d6c-0182-4121-8bfc-525602d667b1
+        title: Defense Intelligence Agency (DIA)
+        slug: defense-intelligence-agency-dia
+      - node_id: 38b84d4a-96df-4684-bb46-f6f64f392add
+        title: Central Intelligence Agency (CIA)
+        slug: central-intelligence-agency-cia
+      - node_id: 498754fb-7980-482c-b877-57fbe17e1889
+        title: All-domain Anomaly Resolution Office (AARO) Historical Record Report (HR2)
+        slug: all-domain-anomaly-resolution-office-aaro-historical-record-report-hr2
+      - node_id: 4ee606a3-72d8-412a-8bdc-c6077bd02a4a
+        title: National Security Agency (NSA)
+        slug: national-security-agency-nsa
+      - node_id: 71b60ec7-f862-452e-9945-85fd0d32b4f1
+        title: National Geospatial-Intelligence Agency (NGA)
+        slug: national-geospatial-intelligence-agency-nga
+      - node_id: e3fc3ebb-8722-4b72-bfc3-3886b3bb167d
+        title: Department of Energy
+        slug: department-of-energy
+    date: null
+    date_end: null
+    location_in_record: char:23031-23339
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: d3743fdf-6a99-43ef-98d4-b79ef60f0e47
+      record_title: Report on the Historical Record of U.S. Government Involvement with Unidentified Anomalous Phenomena (UAP),
+        Volume I
+      record_date: '2024-02-01'
+      record_reference: null
+      content_hash: sha256:8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a94774067868
+      friendly_name: 2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a
+  - claim_id: 6880c09a-8375-41f4-acd2-6e9e38f5cc49
+    claim_hash: 857ed9c9ef526efbe8da39e38e5826b0a6dff2ad82a34fec4c9a4206692595a1
+    content: After discussions with the Central Intelligence Agency's Center for the Study of Intelligence, the National Security
+      Agency Scientific Studies Board, and comparative research against known Special National Intelligence Estimates, AARO
+      concluded that the alleged 1961 Special National Intelligence Estimate on UFOs is not authentic.
+    original_excerpt: After discussions with the CIA's Center for the Study of Intelligence (CSI), the NSA Scientific Studies
+      Board (one of the alleged authors), and research comparing this document to a number of known SNIEs and National Intelligence
+      Estimates, AARO concluded the document is not authentic.
+    claim_type: administrative
+    attestation: first_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: speaker
+      origin: All-Domain Anomaly Resolution Office (AARO)
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 38b84d4a-96df-4684-bb46-f6f64f392add
+        title: Central Intelligence Agency (CIA)
+        slug: central-intelligence-agency-cia
+      - node_id: 4ee606a3-72d8-412a-8bdc-c6077bd02a4a
+        title: National Security Agency (NSA)
+        slug: national-security-agency-nsa
+      - node_id: e79e207c-a848-4eb7-9246-07587b20d2c1
+        title: All-domain Anomaly Resolution Office (AARO)
+        slug: all-domain-anomaly-resolution-office-aaro
+    date: null
+    date_end: null
+    location_in_record: char:89595-89871
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: d3743fdf-6a99-43ef-98d4-b79ef60f0e47
+      record_title: Report on the Historical Record of U.S. Government Involvement with Unidentified Anomalous Phenomena (UAP),
+        Volume I
+      record_date: '2024-02-01'
+      record_reference: null
+      content_hash: sha256:8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a94774067868
+      friendly_name: 2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a
+  - claim_id: 208e1cd5-f191-4988-bba6-4a83a5bdfda3
+    claim_hash: a0116ba19572e47eeea1b6e9b6e66943b5b0d6cd9eaffaafce64ec3c9dd7f2ff
+    content: Neither the Central Intelligence Agency's Center for the Study of Intelligence nor the National Security Agency
+      possessed or had knowledge of the alleged 1961 Special National Intelligence Estimate on UFOs.
+    original_excerpt: CIA/CSI and NSA did not possess nor have knowledge of the document.
+    claim_type: administrative
+    attestation: first_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: speaker
+      origin: All-Domain Anomaly Resolution Office (AARO)
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 38b84d4a-96df-4684-bb46-f6f64f392add
+        title: Central Intelligence Agency (CIA)
+        slug: central-intelligence-agency-cia
+      - node_id: 4ee606a3-72d8-412a-8bdc-c6077bd02a4a
+        title: National Security Agency (NSA)
+        slug: national-security-agency-nsa
+    date: null
+    date_end: null
+    location_in_record: char:90000-90058
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: d3743fdf-6a99-43ef-98d4-b79ef60f0e47
+      record_title: Report on the Historical Record of U.S. Government Involvement with Unidentified Anomalous Phenomena (UAP),
+        Volume I
+      record_date: '2024-02-01'
+      record_reference: null
+      content_hash: sha256:8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a94774067868
+      friendly_name: 2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a
+  - claim_id: adb4b7f5-9f0d-46fa-ac2e-1866622177b2
+    claim_hash: 2af7256e648f0dcfde70445d975c38f23c99766c9e347ea47d10cfe65f07ff7f
+    content: Ross Coulthart sent the photographs of hieroglyphic-looking images supplied by a European correspondent to a
+      contact associated with the National Security Agency (NSA).
+    original_excerpt: And I sent them to somebody I know who's associated with the National Security Agency, the NSA.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+      title: Ross Coulthart
+    provenance_chain:
+      origin_kind: speaker
+      origin: Ross Coulthart
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 4ee606a3-72d8-412a-8bdc-c6077bd02a4a
+        title: National Security Agency (NSA)
+        slug: national-security-agency-nsa
+      - node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+        title: Ross Coulthart
+        slug: ross-coulthart
+    date: null
+    date_end: null
+    location_in_record: 01:41:58.1-01:42:05.5
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: fd845823-8784-462c-a981-4775525b6f84
+      record_title: The DANGEROUS Truth About UFOs - Ross Coulthart | DEBRIEFED ep. 76
+      record_date: '2026-02-20'
+      record_reference: https://www.youtube.com/watch?v=idBryc0eWww
+      content_hash: sha256:73be106d406f6d35a063a894e8384e7da0918eb8597d2107a9e3653becca2bdc
+      friendly_name: null
+  - claim_id: df4b8f87-5f3c-463d-8d0f-13bb2d16a90b
+    claim_hash: 4e93e1c0af1c5cbb720efcd3ad087913fcebaf3584f2515f22e352650a8fd4fc
+    content: A contact of Ross Coulthart associated with the National Security Agency said the hieroglyphic-looking images
+      photographed by a European correspondent resembled ancient Sumerian symbology, and could not translate much of it.
+    original_excerpt: And he said it was like Sumerian. ... And like ancient Sumerian symbology. And he couldn't translate
+      a lot of it. A lot of it didn't make sense.
+    claim_type: hearsay
+    attestation: second_hand
+    speaker:
+      node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+      title: Ross Coulthart
+    provenance_chain:
+      origin_kind: anonymous
+      origin: a person claiming association with the National Security Agency
+      relay:
+        - direct contact with Ross Coulthart
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 4ee606a3-72d8-412a-8bdc-c6077bd02a4a
+        title: National Security Agency (NSA)
+        slug: national-security-agency-nsa
+      - node_id: 57bf13b0-ea42-4550-87ea-958aa22f36d7
+        title: Sumerian writing
+        slug: sumerian-writing
+      - node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+        title: Ross Coulthart
+        slug: ross-coulthart
+    date: null
+    date_end: null
+    location_in_record: 01:42:06.9-01:42:20.0
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: fd845823-8784-462c-a981-4775525b6f84
+      record_title: The DANGEROUS Truth About UFOs - Ross Coulthart | DEBRIEFED ep. 76
+      record_date: '2026-02-20'
+      record_reference: https://www.youtube.com/watch?v=idBryc0eWww
+      content_hash: sha256:73be106d406f6d35a063a894e8384e7da0918eb8597d2107a9e3653becca2bdc
+      friendly_name: null
+  - claim_id: 4feba199-d439-4136-93b3-7f0bbfb81108
+    claim_hash: 39be07b2c47235e7a01bc46316a58744721b2ba1f289bb54f39497276cdae074
+    content: Bobby Ray Inman served as director of the National Security Agency.
+    original_excerpt: nsa director and deputy
+    claim_type: administrative
+    attestation: null
+    speaker:
+      node_id: 079d4381-4273-418b-bc9a-468623f95c6e
+      title: Jesse Mitchells
+    provenance_chain:
+      origin_kind: unattributed
+      origin: narration by Jesse Michels
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 4ee606a3-72d8-412a-8bdc-c6077bd02a4a
+        title: National Security Agency (NSA)
+        slug: national-security-agency-nsa
+      - node_id: 6af27fdb-215e-48f8-bcfe-34ef174b3a5f
+        title: Bobby Inman
+        slug: bobby-inman
+    date: null
+    date_end: null
+    location_in_record: 00:34:10.0-00:34:11.1
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: dc9d8bc8-9c1f-46b4-9b89-8d86b6b08e1d
+      record_title: Jesse Michels, UAPGerb & Chris Ramsay - Flying Saucer Diner
+      record_date: '2026-07-17'
+      record_reference: https://www.youtube.com/watch?v=HFLBDi87888
+      content_hash: sha256:7b2e272d7c82fdda745ee0354d7c9cc4b0d5ba5506015ca27edd9169a768b262
+      friendly_name: null
+  - claim_id: c543056b-fd39-466e-9056-c0b3548a5bd3
+    claim_hash: 32af3448c70d9b98e3f4965899e8a1492ad25d3ba8cda105b633881353700770
+    content: Jim Simons was a National Security Agency code breaker.
+    original_excerpt: and also was an NSA code breaker
+    claim_type: administrative
+    attestation: first_hand
+    speaker:
+      node_id: 079d4381-4273-418b-bc9a-468623f95c6e
+      title: Jesse Mitchells
+    provenance_chain:
+      origin_kind: speaker
+      origin: Jesse Michels
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 4ee606a3-72d8-412a-8bdc-c6077bd02a4a
+        title: National Security Agency (NSA)
+        slug: national-security-agency-nsa
+      - node_id: f17c84a6-c71d-44f3-8c59-6f5393eccea4
+        title: Jim Simons
+        slug: jim-simons
+    date: null
+    date_end: null
+    location_in_record: 00:57:08.7-00:57:10.8
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: dc9d8bc8-9c1f-46b4-9b89-8d86b6b08e1d
+      record_title: Jesse Michels, UAPGerb & Chris Ramsay - Flying Saucer Diner
+      record_date: '2026-07-17'
+      record_reference: https://www.youtube.com/watch?v=HFLBDi87888
+      content_hash: sha256:7b2e272d7c82fdda745ee0354d7c9cc4b0d5ba5506015ca27edd9169a768b262
+      friendly_name: null
+  - claim_id: 36040736-14ae-4fe7-872a-d6c1cb3183b9
+    claim_hash: 8c993f39238eb3b12d84b5d2d13617b73584a1f8d0a62ded4f13ae7fb9f70cac
+    content: David Grusch considers it wrong that United States Congress lacked oversight insight into Unidentified Aerial
+      Phenomena matters comparable to the Church Committee investigations of the 1970s into the Central Intelligence Agency,
+      National Security Agency and Federal Bureau of Investigation activities.
+    original_excerpt: seeing what Congress was not being told and not having appropriate insight akin to the Church Committee
+      committees of the 1970s and not having insight on the CIA, NSA, and FBI's activities. I just thought it was wrong that
+      this was allowed to go unchecked for so many years.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: d4241f5a-1063-4970-ba02-5a391c02d96d
+      title: David Charles Grusch
+    provenance_chain:
+      origin_kind: speaker
+      origin: David Grusch
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 0a1e7914-82e8-48f0-ae45-7a688df8b62f
+        title: Church Committee
+        slug: church-committee
+      - node_id: 38b84d4a-96df-4684-bb46-f6f64f392add
+        title: Central Intelligence Agency (CIA)
+        slug: central-intelligence-agency-cia
+      - node_id: 4ee606a3-72d8-412a-8bdc-c6077bd02a4a
+        title: National Security Agency (NSA)
+        slug: national-security-agency-nsa
+      - node_id: 4fb65b2c-296a-493d-bbc7-65e4b763c1f0
+        title: United States Congress
+        slug: united-states-congress
+      - node_id: c430b2b2-7900-45c9-9882-98ac4ab14e88
+        title: Federal Bureau of Investigation (FBI)
+        slug: federal-bureau-of-investigation-fbi
+      - node_id: d4241f5a-1063-4970-ba02-5a391c02d96d
+        title: David Charles Grusch
+        slug: david-charles-grusch
+    date: null
+    date_end: null
+    location_in_record: 00:03:57.3-00:04:15.0
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: eb21cb34-eec1-462d-9127-2d5e367cdfb9
+      record_title: 'David Grusch: The Whistleblower Who Told Congress We''re Not Alone'
+      record_date: '2026-08-13'
+      record_reference: https://www.youtube.com/watch?v=LBXmqvFs0Ec
+      content_hash: sha256:c685d061d160da6ae664b97e8b033d8d36090ea76d13c45792556dae22ae3344
+      friendly_name: null

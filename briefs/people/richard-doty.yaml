@@ -1,0 +1,287 @@
+schema: anomalica/brief/1
+brief_hash: d80e5d9ad5781fa448009875bad7440ca398ce953e40d8eb5a9dd8233e27eb50
+page:
+  kind: entity
+  node_id: 039c59a5-c92b-48c3-9b54-9944e4d81e54
+  node_type: person
+  title: Richard Doty
+  slug: richard-doty
+  claim_count: 5
+  claim_count_total: 5
+generated:
+  graph_version: '2026-09-01T10:10:49.863545+00:00'
+size:
+  claims: 5
+  tokens_estimated: 1649
+  sized_against: 1050000
+publication:
+  status: published
+  note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
+    transcripts are gated elsewhere.
+belonging:
+  verified: 0
+  suspect_excluded: 0
+  unreviewed: 5
+related_nodes:
+  - node_id: 24d00311-06ac-46a1-a2f5-c99f3f8e21b2
+    title: Chris Ramsay
+    node_type: person
+    slug: chris-ramsay
+    shared_claims: 2
+  - node_id: 4a1e8aa8-8162-4ed9-9451-506b8d4376c0
+    title: Gabe Valdez
+    node_type: person
+    slug: gabe-valdez
+    shared_claims: 2
+  - node_id: eb3c9b13-54c3-411d-82f4-3ffae9cbaa70
+    title: USA, Vermont
+    node_type: place
+    slug: vermont-usa
+    shared_claims: 2
+  - node_id: 59476464-a679-46ce-9247-b0adcb287762
+    title: Edgar Mitchell
+    node_type: person
+    slug: edgar-mitchell
+    shared_claims: 1
+  - node_id: 51942e2e-72aa-447d-ba79-f10862370834
+    title: Paul Bennewitz
+    node_type: person
+    slug: paul-bennewitz
+    shared_claims: 1
+  - node_id: f8d46a79-bb25-455f-ae28-f8e5f915f322
+    title: R. J. Stewart
+    node_type: person
+    slug: r-j-stewart
+    shared_claims: 1
+  - node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+    title: Ross Coulthart
+    node_type: person
+    slug: ross-coulthart
+    shared_claims: 1
+  - node_id: 35f45839-edcf-4b99-8ba7-b9ec5b94bced
+    title: USA, New Mexico, Dulce
+    node_type: place
+    slug: new-mexico-dulce-usa
+    shared_claims: 1
+  - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
+    title: Unidentified Flying Object (UFO)
+    node_type: topic
+    slug: unidentified-flying-object-ufo
+    shared_claims: 1
+  - node_id: 32b98a17-be55-4b0f-8e10-9d377e1e8b33
+    title: United States Air Force (USAF)
+    node_type: organisation
+    slug: united-states-air-force-usaf
+    shared_claims: 1
+claims:
+  - claim_id: fa776a3a-539e-457b-bea6-7424391f6768
+    claim_hash: 506f41d14c50eacacf46a502c73c92d1015c43a283c059fff0c3bac587debb96
+    content: Richard Doty has claimed in retirement that he was under orders to lie to Gabe Valdez and Paul Bennewitz to distract
+      them from secret unspecified United States Air Force projects that Doty was ordered to misidentify as extra-terrestrial.
+    original_excerpt: he has since claimed in retirement that he was under orders to lie to Valdez and Bennewitz to distract
+      them from secret unspecified US Air Force projects that Doty was ordered to misidentify as extra-terrestrial.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 039c59a5-c92b-48c3-9b54-9944e4d81e54
+      title: Richard Doty
+    provenance_chain:
+      origin_kind: speaker
+      origin: Richard Doty
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 039c59a5-c92b-48c3-9b54-9944e4d81e54
+        title: Richard Doty
+        slug: richard-doty
+      - node_id: 32b98a17-be55-4b0f-8e10-9d377e1e8b33
+        title: United States Air Force (USAF)
+        slug: united-states-air-force-usaf
+      - node_id: 4a1e8aa8-8162-4ed9-9451-506b8d4376c0
+        title: Gabe Valdez
+        slug: gabe-valdez
+      - node_id: 51942e2e-72aa-447d-ba79-f10862370834
+        title: Paul Bennewitz
+        slug: paul-bennewitz
+    date: null
+    date_end: null
+    location_in_record: ch15:24015-24215
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 43f18036-b9e3-4d13-95dc-1002b9453fd1
+    claim_hash: b6c70340f64e420913d0b4a5a769245a08bd577a6713fd98f5712cfd294f0324
+    content: Documents in the Edgar Mitchell archive indicate that Gabe Valdez's willingness to believe Richard Doty's disinformation
+      may have been fuelled by statements from multiple local witnesses verifying that unusual UAP activity was occurring
+      around Dulce, New Mexico.
+    original_excerpt: Intriguing then to read in the Ed Mitchell archive documents that what might have fuelled Valdez’s willingness
+      to believe Doty’s disinformation was the statements of multiple local witnesses, who verified that there was indeed
+      highly unusual UAP activity happening around Dulce.
+    claim_type: opinion
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: document
+      origin: Edgar Mitchell archive documents
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 039c59a5-c92b-48c3-9b54-9944e4d81e54
+        title: Richard Doty
+        slug: richard-doty
+      - node_id: 35f45839-edcf-4b99-8ba7-b9ec5b94bced
+        title: USA, New Mexico, Dulce
+        slug: new-mexico-dulce-usa
+      - node_id: 4a1e8aa8-8162-4ed9-9451-506b8d4376c0
+        title: Gabe Valdez
+        slug: gabe-valdez
+      - node_id: 59476464-a679-46ce-9247-b0adcb287762
+        title: Edgar Mitchell
+        slug: edgar-mitchell
+    date: null
+    date_end: null
+    location_in_record: ch15:24228-24500
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 2b8ad35a-b940-4a64-93f3-b48c1866cf4f
+    claim_hash: 64d893b593f889fd8e45ce870a8615f9b1374b1102a32c71bd5d9a9cb6a0e7ed
+    content: Ross Coulthart considers that a lot of disinformation is sprinkled into the UFO subject, naming Richard Doty
+      as an example of someone who spreads falsehoods to sow discord inside the community.
+    original_excerpt: there's a lot of sprinkling of disinformation. There are the Richard Doty's who just love gaily spreading
+      little droplets of falsity to try and sow discord inside the community.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+      title: Ross Coulthart
+    provenance_chain:
+      origin_kind: speaker
+      origin: Ross Coulthart
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 039c59a5-c92b-48c3-9b54-9944e4d81e54
+        title: Richard Doty
+        slug: richard-doty
+      - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
+        title: Unidentified Flying Object (UFO)
+        slug: unidentified-flying-object-ufo
+      - node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+        title: Ross Coulthart
+        slug: ross-coulthart
+    date: null
+    date_end: null
+    location_in_record: 01:08:27.4-01:08:38.8
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: fd845823-8784-462c-a981-4775525b6f84
+      record_title: The DANGEROUS Truth About UFOs - Ross Coulthart | DEBRIEFED ep. 76
+      record_date: '2026-02-20'
+      record_reference: https://www.youtube.com/watch?v=idBryc0eWww
+      content_hash: sha256:73be106d406f6d35a063a894e8384e7da0918eb8597d2107a9e3653becca2bdc
+      friendly_name: null
+  - claim_id: 592b69fa-a198-4ce4-8d93-7269a3f34bc5
+    claim_hash: 1070f664abb5d98041461912252677499670c05714a8fb1589c063cbb813ee23
+    content: Richard Doty has sent pizzas, letters and faxes to the Carthusian monastery in Vermont in an attempt to make
+      contact, according to Jon Stewart as relayed to Chris Ramsay.
+    original_excerpt: I heard through, um, well through John, uh, that Rick Doty has like, apparently like sent pizzas there
+      and like letters and faxes.
+    claim_type: hearsay
+    attestation: third_hand
+    speaker:
+      node_id: 24d00311-06ac-46a1-a2f5-c99f3f8e21b2
+      title: Chris Ramsay
+    provenance_chain:
+      origin_kind: named
+      origin: Jon Stewart
+      relay:
+        - Jon Stewart
+        - Chris Ramsay
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 039c59a5-c92b-48c3-9b54-9944e4d81e54
+        title: Richard Doty
+        slug: richard-doty
+      - node_id: 24d00311-06ac-46a1-a2f5-c99f3f8e21b2
+        title: Chris Ramsay
+        slug: chris-ramsay
+      - node_id: eb3c9b13-54c3-411d-82f4-3ffae9cbaa70
+        title: USA, Vermont
+        slug: vermont-usa
+      - node_id: f8d46a79-bb25-455f-ae28-f8e5f915f322
+        title: R. J. Stewart
+        slug: r-j-stewart
+    date: null
+    date_end: null
+    location_in_record: 01:15:28.6-01:15:39.6
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: dc9d8bc8-9c1f-46b4-9b89-8d86b6b08e1d
+      record_title: Jesse Michels, UAPGerb & Chris Ramsay - Flying Saucer Diner
+      record_date: '2026-07-17'
+      record_reference: https://www.youtube.com/watch?v=HFLBDi87888
+      content_hash: sha256:7b2e272d7c82fdda745ee0354d7c9cc4b0d5ba5506015ca27edd9169a768b262
+      friendly_name: null
+  - claim_id: 1b330bfa-c6b1-4abe-b12d-059d7b9fc4c7
+    claim_hash: 125fa4f83557e59d9f1bbc2ef919e0583e0b3bd8a767662b38f7b2cd057ccaa4
+    content: Chris Ramsay takes Richard Doty's approaches to the Carthusian monastery in Vermont as evidence that Doty does
+      not already know about the monk and has either a genuine interest or some other nefarious connection.
+    original_excerpt: what that tells me is that, oh, Rick Doty also doesn't know about this and that he has a genuine interest
+      or some other nefarious connection.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 24d00311-06ac-46a1-a2f5-c99f3f8e21b2
+      title: Chris Ramsay
+    provenance_chain:
+      origin_kind: speaker
+      origin: Chris Ramsay
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 039c59a5-c92b-48c3-9b54-9944e4d81e54
+        title: Richard Doty
+        slug: richard-doty
+      - node_id: 24d00311-06ac-46a1-a2f5-c99f3f8e21b2
+        title: Chris Ramsay
+        slug: chris-ramsay
+      - node_id: eb3c9b13-54c3-411d-82f4-3ffae9cbaa70
+        title: USA, Vermont
+        slug: vermont-usa
+    date: null
+    date_end: null
+    location_in_record: 01:15:44.3-01:15:52.3
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: dc9d8bc8-9c1f-46b4-9b89-8d86b6b08e1d
+      record_title: Jesse Michels, UAPGerb & Chris Ramsay - Flying Saucer Diner
+      record_date: '2026-07-17'
+      record_reference: https://www.youtube.com/watch?v=HFLBDi87888
+      content_hash: sha256:7b2e272d7c82fdda745ee0354d7c9cc4b0d5ba5506015ca27edd9169a768b262
+      friendly_name: null

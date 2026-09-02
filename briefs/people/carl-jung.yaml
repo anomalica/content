@@ -1,0 +1,946 @@
+schema: anomalica/brief/1
+brief_hash: 7f3b948747a15abccd0763a381765fdbac1e81faaa540fadd57a8a774250ad4e
+page:
+  kind: entity
+  node_id: c551f048-0859-4b1c-af58-df2919d81390
+  node_type: person
+  title: Carl Jung
+  slug: carl-jung
+  claim_count: 23
+  claim_count_total: 23
+generated:
+  graph_version: '2026-09-01T10:10:49.863545+00:00'
+size:
+  claims: 23
+  tokens_estimated: 7157
+  sized_against: 1050000
+publication:
+  status: published
+  note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
+    transcripts are gated elsewhere.
+belonging:
+  verified: 0
+  suspect_excluded: 0
+  unreviewed: 23
+related_nodes:
+  - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
+    title: Unidentified Flying Object (UFO)
+    node_type: topic
+    slug: unidentified-flying-object-ufo
+    shared_claims: 5
+  - node_id: 8d51e05f-1dd1-468f-8c44-f590bfe983c3
+    title: Amplificatory interpretation (Jungian concept)
+    node_type: topic
+    slug: amplificatory-interpretation-jungian-concept
+    shared_claims: 2
+  - node_id: f2daae19-9351-4a8e-b466-664f83887f61
+    title: Diana Walsh Pasulka
+    node_type: person
+    slug: diana-walsh-pasulka
+    shared_claims: 2
+  - node_id: c47ce8ee-28f3-4757-8d83-a31e0a0f96bc
+    title: Fine structure constant
+    node_type: topic
+    slug: fine-structure-constant
+    shared_claims: 2
+  - node_id: 2b26531d-c2df-4e39-af0c-cd3d9cdb15d1
+    title: Synchronicity (Jungian concept)
+    node_type: topic
+    slug: synchronicity-jungian-concept
+    shared_claims: 2
+  - node_id: d6a23884-a280-40fa-a17a-7fe40f8d1d2a
+    title: Wolfgang Pauli
+    node_type: person
+    slug: wolfgang-pauli
+    shared_claims: 2
+  - node_id: 511b95fb-738d-4880-b933-e81325628830
+    title: Collective unconscious
+    node_type: topic
+    slug: collective-unconscious
+    shared_claims: 1
+  - node_id: e002eed3-4e45-4049-af0b-600c1214e623
+    title: David Stinnett
+    node_type: person
+    slug: david-stinnett
+    shared_claims: 1
+  - node_id: a0643448-eca0-4b08-9036-658daf27b1a3
+    title: Douglass Price-Williams
+    node_type: person
+    slug: douglass-price-williams
+    shared_claims: 1
+  - node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
+    title: Jacques Vallée
+    node_type: person
+    slug: jacques-vallee
+    shared_claims: 1
+  - node_id: ce4b5261-bfe2-43a1-8152-d7cae044506e
+    title: James Master
+    node_type: person
+    slug: james-master
+    shared_claims: 1
+  - node_id: 8d3ca113-3f28-4808-998e-34d2837332a5
+    title: Julia Mossbridge
+    node_type: person
+    slug: julia-mossbridge
+    shared_claims: 1
+  - node_id: 55c1406c-9169-4f28-836b-a9a8afbec687
+    title: Synchronicity
+    node_type: topic
+    slug: synchronicity
+    shared_claims: 1
+  - node_id: 24136f1c-4cb7-4030-8ed1-35855481a65e
+    title: Tyler D.
+    node_type: person
+    slug: tyler-d
+    shared_claims: 1
+claims:
+  - claim_id: dadaefd4-ea4a-4483-afc2-1f4bd459aff6
+    claim_hash: bd04228ad03c1a0d76d4e0d1ddd812514def22821b562980681262b4eebeb4c2
+    content: Douglass Price-Williams considers the scorpion creatures to be tellurian, 'chthonic' beings, as Carl Jung would
+      have described them.
+    original_excerpt: 'He adds: "These creatures would thus be tellurian beings, ''chthonic'' as Jung would have said."'
+    claim_type: opinion
+    attestation: second_hand
+    speaker:
+      node_id: a0643448-eca0-4b08-9036-658daf27b1a3
+      title: Douglass Price-Williams
+    provenance_chain:
+      origin_kind: named
+      origin: Douglass Price-Williams
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: a0643448-eca0-4b08-9036-658daf27b1a3
+        title: Douglass Price-Williams
+        slug: douglass-price-williams
+      - node_id: c551f048-0859-4b1c-af58-df2919d81390
+        title: Carl Jung
+        slug: carl-jung
+    date: null
+    date_end: null
+    location_in_record: ch14:12434-12522
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 220315f4-29cd-4c89-8860-44f95613d98f
+      record_title: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About UFO Influences on the Human Race'
+      record_date: '2014-09-27'
+      record_reference: null
+      content_hash: sha256:5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b8489cc11c26
+      friendly_name: 2014-09-27-ebook-the-invisible-college-what-a-group-of-scientists-has
+  - claim_id: 5e6a7bca-c27d-4df7-b591-13dd67881f6a
+    claim_hash: 657ffa08f9e8cce3e0108aa4bc63a4fe9cff6f7561b57fee0a76a67607ec7d13
+    content: Jacques Vallee considers the mechanism of UFO apparitions a possible invariant across all cultures, and questions
+      whether it is a psychic technology whose applications know few limitations in space and time.
+    original_excerpt: Is the mechanism of UFO apparitions, then, an invariant in all cultures? Are we faced here with something
+      more than a projection of Jung's archetypal images, a psychic technology whose applications know few if any limitations
+      in space and in time? I see no better hypothesis at this point of our knowledge of UFO phenomena.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
+      title: Jacques Vallée
+    provenance_chain:
+      origin_kind: speaker
+      origin: Jacques Vallee
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
+        title: Jacques Vallée
+        slug: jacques-vallee
+      - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
+        title: Unidentified Flying Object (UFO)
+        slug: unidentified-flying-object-ufo
+      - node_id: c551f048-0859-4b1c-af58-df2919d81390
+        title: Carl Jung
+        slug: carl-jung
+    date: null
+    date_end: null
+    location_in_record: ch14:26311-26624
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 220315f4-29cd-4c89-8860-44f95613d98f
+      record_title: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About UFO Influences on the Human Race'
+      record_date: '2014-09-27'
+      record_reference: null
+      content_hash: sha256:5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b8489cc11c26
+      friendly_name: 2014-09-27-ebook-the-invisible-college-what-a-group-of-scientists-has
+  - claim_id: 873042d8-8e56-4746-9004-190c67183ddb
+    claim_hash: 7fc6cfda289092f7088bbeed934bf94bf1a4121aa023faf2b435532cc75cbf6c
+    content: Carl Jung called the UFO phenomenon a "living myth" and a "universal mass rumor" reserved for an enlightened,
+      rationalist age.
+    original_excerpt: For him, they were not just a rumor or just a myth, but a *living myth.* He also called it a *universal
+      mass rumor*, which, he said, was “reserved for our enlightened, rationalist age.”
+    claim_type: opinion
+    attestation: second_hand
+    speaker:
+      node_id: c551f048-0859-4b1c-af58-df2919d81390
+      title: Carl Jung
+    provenance_chain:
+      origin_kind: named
+      origin: Carl Jung
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: c551f048-0859-4b1c-af58-df2919d81390
+        title: Carl Jung
+        slug: carl-jung
+    date: null
+    date_end: null
+    location_in_record: ch3:21422-21602
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 288e1100-0497-41df-ba08-9890e519b0b9
+      record_title: American Cosmic
+      record_date: '2019'
+      record_reference: null
+      content_hash: sha256:ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b16ac4758
+      friendly_name: 2019-ebook-american-cosmic
+  - claim_id: 96a9334c-12d0-4d69-8d13-899030415599
+    claim_hash: 94a41eeb2c54633adae44b82c900d986ddbb34d5d9551757f7c64119ca848c1c
+    content: Carl Jung wrote that despite Americans' camera-mindedness, few authentic photographs of UFOs seemed to exist
+      even though many had reportedly been observed for hours at close quarters.
+    original_excerpt: Considering the notorious camera-mindedness of Americans, it is surprising how few “authentic” photos
+      of UFOs seem to exist, especially as many of them are said to have been observed for several hours at relatively close
+      quarters.
+    claim_type: opinion
+    attestation: second_hand
+    speaker:
+      node_id: c551f048-0859-4b1c-af58-df2919d81390
+      title: Carl Jung
+    provenance_chain:
+      origin_kind: named
+      origin: Carl Jung
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: c551f048-0859-4b1c-af58-df2919d81390
+        title: Carl Jung
+        slug: carl-jung
+    date: null
+    date_end: null
+    location_in_record: ch3:21621-21842
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 288e1100-0497-41df-ba08-9890e519b0b9
+      record_title: American Cosmic
+      record_date: '2019'
+      record_reference: null
+      content_hash: sha256:ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b16ac4758
+      friendly_name: 2019-ebook-american-cosmic
+  - claim_id: 441d58f8-b2ed-4b08-9826-79c5f55e958e
+    claim_hash: f1db8debd58d260d2f830357bfa5badf4375d4ea68b14d19a2d32b51b8c526bf
+    content: Carl Jung wrote of knowing someone who saw a UFO with hundreds of other people in Guatemala, had a camera with
+      him, but forgot to photograph it during the daytime sighting which lasted about an hour.
+    original_excerpt: I myself happen to know someone who saw a UFO with hundreds of other people in Guatemala. He had his
+      camera with him, but in the excitement he completely forgot to take a photo, although it was daytime and the UFO remained
+      visible for an hour.
+    claim_type: hearsay
+    attestation: second_hand
+    speaker:
+      node_id: c551f048-0859-4b1c-af58-df2919d81390
+      title: Carl Jung
+    provenance_chain:
+      origin_kind: named
+      origin: an unnamed acquaintance of Carl Jung
+      relay:
+        - Carl Jung's written account
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: c551f048-0859-4b1c-af58-df2919d81390
+        title: Carl Jung
+        slug: carl-jung
+    date: null
+    date_end: null
+    location_in_record: ch3:21852-22090
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 288e1100-0497-41df-ba08-9890e519b0b9
+      record_title: American Cosmic
+      record_date: '2019'
+      record_reference: null
+      content_hash: sha256:ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b16ac4758
+      friendly_name: 2019-ebook-american-cosmic
+  - claim_id: eb427db1-f8a4-4ae1-b73d-208be9a76a16
+    claim_hash: d6a366c863b3f51d26831e0036dfff2d65bdf2899b31bd56419d041825b683ce
+    content: Carl Jung wrote that a person who prides himself on sound common sense will feel distinctly affronted by reports
+      of UFOs.
+    original_excerpt: “Every man who prides himself on his sound common sense will feel distinctly affronted” by reports of
+      UFOs, he wrote.
+    claim_type: opinion
+    attestation: second_hand
+    speaker:
+      node_id: c551f048-0859-4b1c-af58-df2919d81390
+      title: Carl Jung
+    provenance_chain:
+      origin_kind: named
+      origin: Carl Jung
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: c551f048-0859-4b1c-af58-df2919d81390
+        title: Carl Jung
+        slug: carl-jung
+    date: null
+    date_end: null
+    location_in_record: ch3:22994-23104
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 288e1100-0497-41df-ba08-9890e519b0b9
+      record_title: American Cosmic
+      record_date: '2019'
+      record_reference: null
+      content_hash: sha256:ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b16ac4758
+      friendly_name: 2019-ebook-american-cosmic
+  - claim_id: 00e812e8-7fb0-4343-b857-6d045074030b
+    claim_hash: abd4c3447f937a1f4072df904da04571c3c07a44fefeefe93dfef16b18ad8c61
+    content: Carl Jung wrote that psychologists conscious of their responsibilities should not be dissuaded from critically
+      examining a mass phenomenon like UFOs.
+    original_excerpt: “Psychologists who are conscious of their responsibilities should not be dissuaded from critically examining
+      a mass phenomenon like UFOs.”
+    claim_type: opinion
+    attestation: second_hand
+    speaker:
+      node_id: c551f048-0859-4b1c-af58-df2919d81390
+      title: Carl Jung
+    provenance_chain:
+      origin_kind: named
+      origin: Carl Jung
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: c551f048-0859-4b1c-af58-df2919d81390
+        title: Carl Jung
+        slug: carl-jung
+    date: null
+    date_end: null
+    location_in_record: ch3:23147-23278
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 288e1100-0497-41df-ba08-9890e519b0b9
+      record_title: American Cosmic
+      record_date: '2019'
+      record_reference: null
+      content_hash: sha256:ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b16ac4758
+      friendly_name: 2019-ebook-american-cosmic
+  - claim_id: 4d84d679-8bad-488d-9e0e-00595b8a01bd
+    claim_hash: 2e7da67ed5dc9376ac9cb4cc91a44a745d9b443e1a43f70e5748bea3edd292b1
+    content: Carl Jung's method for studying the UFO phenomenon was predicated on first denying that there was a real UFO,
+      since the apparent impossibility of the UFO report suggested to common sense that the most likely explanation lay in
+      a psychic disturbance.
+    original_excerpt: That method was predicated on first denying that there was a real UFO. “The apparent impossibility of
+      the UFO report suggests to common sense that the most likely explanation lies in a psychic disturbance.”
+    claim_type: opinion
+    attestation: second_hand
+    speaker:
+      node_id: c551f048-0859-4b1c-af58-df2919d81390
+      title: Carl Jung
+    provenance_chain:
+      origin_kind: named
+      origin: Carl Jung
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: c551f048-0859-4b1c-af58-df2919d81390
+        title: Carl Jung
+        slug: carl-jung
+    date: null
+    date_end: null
+    location_in_record: ch3:23349-23542
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 288e1100-0497-41df-ba08-9890e519b0b9
+      record_title: American Cosmic
+      record_date: '2019'
+      record_reference: null
+      content_hash: sha256:ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b16ac4758
+      friendly_name: 2019-ebook-american-cosmic
+  - claim_id: 78e2ac79-f4bd-4945-81b5-5420cb95748d
+    claim_hash: d3d47cbf0680bf0722edf721786baf6b0943bdacc5e3b5cb0b5c46cf7a60c545
+    content: Carl Jung introduced the concept of "amplificatory interpretation" to describe the process an individual or group
+      engages in when confronted by an unknown object, such as an aerial object, or by objects in dreams or visions.
+    original_excerpt: At this point Jung introduced his concept of “amplificatory interpretation.” By this he meant a process
+      that an individual or a group engages in when confronted by an unknown object, in this case an aerial object. This also
+      applies to objects in dreams or visions.
+    claim_type: opinion
+    attestation: second_hand
+    speaker:
+      node_id: c551f048-0859-4b1c-af58-df2919d81390
+      title: Carl Jung
+    provenance_chain:
+      origin_kind: named
+      origin: Carl Jung
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 8d51e05f-1dd1-468f-8c44-f590bfe983c3
+        title: Amplificatory interpretation (Jungian concept)
+        slug: amplificatory-interpretation-jungian-concept
+      - node_id: c551f048-0859-4b1c-af58-df2919d81390
+        title: Carl Jung
+        slug: carl-jung
+    date: null
+    date_end: null
+    location_in_record: ch3:23633-23889
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 288e1100-0497-41df-ba08-9890e519b0b9
+      record_title: American Cosmic
+      record_date: '2019'
+      record_reference: null
+      content_hash: sha256:ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b16ac4758
+      friendly_name: 2019-ebook-american-cosmic
+  - claim_id: ed9a8946-4f3a-4c84-9be9-3ea9a51c64c0
+    claim_hash: 5d4e699bced6ad67997dcaf55300dfa65716bbf3ea14354c874d56ebd87d98c0
+    content: Carl Jung wrote that the UFO was apparently impossible, not that it was actually impossible, and his point was
+      to move study of the phenomenon into the realm of the psyche.
+    original_excerpt: Jung wrote that the UFO was *apparently* impossible. He didn’t say it *was* impossible. His point was
+      not necessarily to dismiss its objective reality, but to move the study of it into the realm of the psyche, his field
+      of expertise.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: f2daae19-9351-4a8e-b466-664f83887f61
+      title: Diana Walsh Pasulka
+    provenance_chain:
+      origin_kind: speaker
+      origin: D. W. Pasulka
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: c551f048-0859-4b1c-af58-df2919d81390
+        title: Carl Jung
+        slug: carl-jung
+    date: null
+    date_end: null
+    location_in_record: ch3:24204-24427
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 288e1100-0497-41df-ba08-9890e519b0b9
+      record_title: American Cosmic
+      record_date: '2019'
+      record_reference: null
+      content_hash: sha256:ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b16ac4758
+      friendly_name: 2019-ebook-american-cosmic
+  - claim_id: 5b47dd7d-c816-4183-a1ff-db365f05b751
+    claim_hash: 40dd4964ed0e321db40ae17412e9c60be58de8e591386438672ad4e9f85cd5ad
+    content: Carl Jung noted that contemporary physics has revealed so many scientific truths that appear miraculous that
+      UFOs can easily be regarded and believed in as a physicist's miracle.
+    original_excerpt: He nods in this direction, noting that contemporary physics has revealed so many scientific truths that
+      appear miraculous that “UFOs can easily be regarded and believed in as a physicists’ miracle.”
+    claim_type: opinion
+    attestation: second_hand
+    speaker:
+      node_id: c551f048-0859-4b1c-af58-df2919d81390
+      title: Carl Jung
+    provenance_chain:
+      origin_kind: named
+      origin: Carl Jung
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: c551f048-0859-4b1c-af58-df2919d81390
+        title: Carl Jung
+        slug: carl-jung
+    date: null
+    date_end: null
+    location_in_record: ch3:24677-24866
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 288e1100-0497-41df-ba08-9890e519b0b9
+      record_title: American Cosmic
+      record_date: '2019'
+      record_reference: null
+      content_hash: sha256:ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b16ac4758
+      friendly_name: 2019-ebook-american-cosmic
+  - claim_id: 81647fe4-f4aa-470d-9587-c8e594c3c0e0
+    claim_hash: 1cb13572d4df05f7fa0424b5d5375a5623f12ea35d36e7a485f1daa5155a9e45
+    content: Carl Jung defined synchronicity as the coming together of inner and outer events that are not causally linked
+      but are very meaningful to the person having the experience.
+    original_excerpt: Synchronicity, as defined by Carl Jung, is the coming together of inner and outer events that are not
+      causally linked but are very meaningful to those who have the experience.
+    claim_type: opinion
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: named
+      origin: Carl Jung
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 2b26531d-c2df-4e39-af0c-cd3d9cdb15d1
+        title: Synchronicity (Jungian concept)
+        slug: synchronicity-jungian-concept
+      - node_id: c551f048-0859-4b1c-af58-df2919d81390
+        title: Carl Jung
+        slug: carl-jung
+    date: null
+    date_end: null
+    location_in_record: ch3:40162-40326
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 288e1100-0497-41df-ba08-9890e519b0b9
+      record_title: American Cosmic
+      record_date: '2019'
+      record_reference: null
+      content_hash: sha256:ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b16ac4758
+      friendly_name: 2019-ebook-american-cosmic
+  - claim_id: 4c91003a-614d-4abe-94d1-f676234626ac
+    claim_hash: 80bd30cca3656ce4b5ecbdc8813afb876556b0104dcfc7e809171319308ad80a
+    content: David Stinnett considers synchronicity not a big deal, believing that if you are doing things correctly, synchronicity
+      is how the world functions, quoting Carl Jung that "synchronicity is an ever present reality for those with eyes to
+      see."
+    original_excerpt: 'I took it to clarify his position, that synchronicity is not such a big deal, and in fact, if you’re
+      doing things correctly, it is how the world functions: “Synchronicity is an ever present reality for those with eyes
+      to see.”'
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: e002eed3-4e45-4049-af0b-600c1214e623
+      title: David Stinnett
+    provenance_chain:
+      origin_kind: speaker
+      origin: David Stinnett
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 2b26531d-c2df-4e39-af0c-cd3d9cdb15d1
+        title: Synchronicity (Jungian concept)
+        slug: synchronicity-jungian-concept
+      - node_id: c551f048-0859-4b1c-af58-df2919d81390
+        title: Carl Jung
+        slug: carl-jung
+      - node_id: e002eed3-4e45-4049-af0b-600c1214e623
+        title: David Stinnett
+        slug: david-stinnett
+    date: null
+    date_end: null
+    location_in_record: ch3:46518-46739
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 288e1100-0497-41df-ba08-9890e519b0b9
+      record_title: American Cosmic
+      record_date: '2019'
+      record_reference: null
+      content_hash: sha256:ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b16ac4758
+      friendly_name: 2019-ebook-american-cosmic
+  - claim_id: 455256d8-12f9-42f6-a1a5-d3d4f9c2da17
+    claim_hash: b9b99ef21e516d816b08ba58538c3848e582aeaf41ed90296e0202b3d7f906ee
+    content: D. W. Pasulka assumed that the work of Tyler D. and James Master would spawn rumours, described by Carl Jung
+      as shoots or hints of information that others interpret and spin into stories and narratives that constitute the UFO
+      narrative and, ultimately, religion.
+    original_excerpt: I assumed that their work would spawn rumors, as Jung calls them—shoots of information or just hints
+      of information that others would then interpret and spin into stories and narratives that would then constitute the
+      UFO narrative, story, and, ultimately, religion.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: f2daae19-9351-4a8e-b466-664f83887f61
+      title: Diana Walsh Pasulka
+    provenance_chain:
+      origin_kind: speaker
+      origin: D. W. Pasulka
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 24136f1c-4cb7-4030-8ed1-35855481a65e
+        title: Tyler D.
+        slug: tyler-d
+      - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
+        title: Unidentified Flying Object (UFO)
+        slug: unidentified-flying-object-ufo
+      - node_id: c551f048-0859-4b1c-af58-df2919d81390
+        title: Carl Jung
+        slug: carl-jung
+      - node_id: ce4b5261-bfe2-43a1-8152-d7cae044506e
+        title: James Master
+        slug: james-master
+      - node_id: f2daae19-9351-4a8e-b466-664f83887f61
+        title: Diana Walsh Pasulka
+        slug: diana-walsh-pasulka
+    date: null
+    date_end: null
+    location_in_record: ch3:48509-48765
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 288e1100-0497-41df-ba08-9890e519b0b9
+      record_title: American Cosmic
+      record_date: '2019'
+      record_reference: null
+      content_hash: sha256:ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b16ac4758
+      friendly_name: 2019-ebook-american-cosmic
+  - claim_id: a5d40175-45fd-44e0-9c68-3d53715d6d31
+    claim_hash: 6ca89527a85f459517665987f3b9c91ad557c9968df91c3d7b07a2dbd539484a
+    content: D. W. Pasulka concludes that the cultural narratives about the UFO phenomenon are formed through processes anticipated
+      by Carl Jung's concept of amplificatory interpretation.
+    original_excerpt: The cultural narratives were formed through processes anticipated by Jung with his concept of amplificatory
+      interpretation.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: f2daae19-9351-4a8e-b466-664f83887f61
+      title: Diana Walsh Pasulka
+    provenance_chain:
+      origin_kind: speaker
+      origin: D. W. Pasulka
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 8d51e05f-1dd1-468f-8c44-f590bfe983c3
+        title: Amplificatory interpretation (Jungian concept)
+        slug: amplificatory-interpretation-jungian-concept
+      - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
+        title: Unidentified Flying Object (UFO)
+        slug: unidentified-flying-object-ufo
+      - node_id: c551f048-0859-4b1c-af58-df2919d81390
+        title: Carl Jung
+        slug: carl-jung
+      - node_id: f2daae19-9351-4a8e-b466-664f83887f61
+        title: Diana Walsh Pasulka
+        slug: diana-walsh-pasulka
+    date: null
+    date_end: null
+    location_in_record: ch3:53053-53161
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 288e1100-0497-41df-ba08-9890e519b0b9
+      record_title: American Cosmic
+      record_date: '2019'
+      record_reference: null
+      content_hash: sha256:ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b16ac4758
+      friendly_name: 2019-ebook-american-cosmic
+  - claim_id: dc03c1cb-c667-4eaa-940e-fb4fc60cfa1c
+    claim_hash: 92ce21af21b91fc42441db17f6da464221cb8b5fb6fb6bfd40ce3ae41ec318b7
+    content: Carl Jung recognized that no sensible person would admit to belief in UFOs.
+    original_excerpt: 'thus brilliantly preserving the potential believers'' credibility and sidestepping the issue recognized
+      by Jung: that no sensible person would admit to belief in UFOs'
+    claim_type: opinion
+    attestation: second_hand
+    speaker:
+      node_id: c551f048-0859-4b1c-af58-df2919d81390
+      title: Carl Jung
+    provenance_chain:
+      origin_kind: named
+      origin: Carl Jung
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
+        title: Unidentified Flying Object (UFO)
+        slug: unidentified-flying-object-ufo
+      - node_id: c551f048-0859-4b1c-af58-df2919d81390
+        title: Carl Jung
+        slug: carl-jung
+    date: null
+    date_end: null
+    location_in_record: ch4:14316-14477
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 288e1100-0497-41df-ba08-9890e519b0b9
+      record_title: American Cosmic
+      record_date: '2019'
+      record_reference: null
+      content_hash: sha256:ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b16ac4758
+      friendly_name: 2019-ebook-american-cosmic
+  - claim_id: e7b9d021-d11a-4312-96a1-c9cbc2e72959
+    claim_hash: c5ffea37855ab65b73463cf952c30bb02dc60610e90cf10eec1401244c537479
+    content: Carl Jung wrote that the modern phenomenon of flying saucers offered 'a golden opportunity of seeing how a legend
+      is formed.'
+    original_excerpt: Carl Jung put it well. Referring to the modern phenomenon of flying saucers, he wrote, "We have here
+      a golden opportunity of seeing how a legend is formed."
+    claim_type: opinion
+    attestation: second_hand
+    speaker:
+      node_id: c551f048-0859-4b1c-af58-df2919d81390
+      title: Carl Jung
+    provenance_chain:
+      origin_kind: named
+      origin: Carl Jung
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: c551f048-0859-4b1c-af58-df2919d81390
+        title: Carl Jung
+        slug: carl-jung
+    date: null
+    date_end: null
+    location_in_record: char:27985-28133
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 288e1100-0497-41df-ba08-9890e519b0b9
+      record_title: American Cosmic
+      record_date: '2019'
+      record_reference: null
+      content_hash: sha256:ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b16ac4758
+      friendly_name: 2019-ebook-american-cosmic
+  - claim_id: c9ec3dec-1295-483d-a67a-96b0a6791826
+    claim_hash: 4c84d9e55918d11535b833653c5462f43c24c61fe8fe36e1c448028b9f3a0577
+    content: Carl Jung called the UFO a technological angel.
+    original_excerpt: Carl Jung called the UFO a technological angel.
+    claim_type: opinion
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: named
+      origin: Carl Jung
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
+        title: Unidentified Flying Object (UFO)
+        slug: unidentified-flying-object-ufo
+      - node_id: c551f048-0859-4b1c-af58-df2919d81390
+        title: Carl Jung
+        slug: carl-jung
+    date: null
+    date_end: null
+    location_in_record: char:5946-5987
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 288e1100-0497-41df-ba08-9890e519b0b9
+      record_title: American Cosmic
+      record_date: '2019'
+      record_reference: null
+      content_hash: sha256:ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b16ac4758
+      friendly_name: 2019-ebook-american-cosmic
+  - claim_id: b9c956f7-9024-4548-8a30-66f3e11bd8cf
+    claim_hash: b0dde7c72a7d7d1bcc8772064192090741126c0f570a9d535863a20faec7e6e7
+    content: The apparently arbitrary value of the fine structure constant led physicist Wolfgang Pauli into a correspondence
+      with psychologist and mystic Carl Jung about the mystery of its origin.
+    original_excerpt: What is so mysterious about it is that it appears to be an arbitrary number, which led the great physicist
+      Wolfgang Pauli into a correspondence with psychologist and mystic Carl Jung, about the mystery of its origin.
+    claim_type: observation
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: c47ce8ee-28f3-4757-8d83-a31e0a0f96bc
+        title: Fine structure constant
+        slug: fine-structure-constant
+      - node_id: c551f048-0859-4b1c-af58-df2919d81390
+        title: Carl Jung
+        slug: carl-jung
+      - node_id: d6a23884-a280-40fa-a17a-7fe40f8d1d2a
+        title: Wolfgang Pauli
+        slug: wolfgang-pauli
+    date: null
+    date_end: null
+    location_in_record: ch15:9729-9938
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 759e8d7b-a820-4e00-bdc3-9aebf9e4b1b1
+      record_title: The Fourth Mind
+      record_date: '2025-01-15'
+      record_reference: null
+      content_hash: sha256:524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008e17102e7
+      friendly_name: 2025-01-15-ebook-the-fourth-mind
+  - claim_id: 1968b664-bd80-46e7-8bf8-24d5b5a02585
+    claim_hash: b06525d3bd899b49b7f5bf423f42c78f7bb2d8b153e099f4b63f05052334c9cd
+    content: Carl Jung proposed the idea of the collective unconscious, a field in which all people share.
+    original_excerpt: Carl Jung has proposed the idea of the collective unconscious, which, if it exists, must be a kind of
+      field in which we all share.
+    claim_type: administrative
+    attestation: first_hand
+    speaker:
+      node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+      title: Whitley Strieber
+    provenance_chain:
+      origin_kind: speaker
+      origin: Whitley Strieber
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 511b95fb-738d-4880-b933-e81325628830
+        title: Collective unconscious
+        slug: collective-unconscious
+      - node_id: c551f048-0859-4b1c-af58-df2919d81390
+        title: Carl Jung
+        slug: carl-jung
+    date: null
+    date_end: null
+    location_in_record: ch18:8558-8682
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 759e8d7b-a820-4e00-bdc3-9aebf9e4b1b1
+      record_title: The Fourth Mind
+      record_date: '2025-01-15'
+      record_reference: null
+      content_hash: sha256:524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008e17102e7
+      friendly_name: 2025-01-15-ebook-the-fourth-mind
+  - claim_id: c79d2b40-0c10-4fbf-b6d5-be0bcfba0848
+    claim_hash: 0406a06b21d6aa930591f0a6bb38b33ddc2ca4491e6e33babd7cd49f0619f3ae
+    content: Carl Jung's theory of archetypes does not explain the universality of animal portraiture that existed in the
+      Stone Age.
+    original_excerpt: but not the universality of animal portraiture that existed in the Stone Age
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+      title: Whitley Strieber
+    provenance_chain:
+      origin_kind: speaker
+      origin: Whitley Strieber
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: c551f048-0859-4b1c-af58-df2919d81390
+        title: Carl Jung
+        slug: carl-jung
+    date: null
+    date_end: null
+    location_in_record: ch26:20277-20350
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 759e8d7b-a820-4e00-bdc3-9aebf9e4b1b1
+      record_title: The Fourth Mind
+      record_date: '2025-01-15'
+      record_reference: null
+      content_hash: sha256:524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008e17102e7
+      friendly_name: 2025-01-15-ebook-the-fourth-mind
+  - claim_id: 97745fd4-dc9e-4192-9d21-26cf5aca0b04
+    claim_hash: e39b1288693ece4c4f64e3298a02eb04d0c2f8499c89fcae55dbb135a3a9aa62
+    content: The arbitrary value of the fine-structure constant so troubled physicist Wolfgang Pauli that he initiated a correspondence
+      with psychologist Carl Jung to try to find an explanation, perhaps in the mysteries of the spirit.
+    original_excerpt: Unlike the other constants, though, there is no clear reason that it is this particular number, which
+      troubled the twentieth-century physicist Wolfgang Pauli so much that he initiated a correspondence with the mystical
+      psychologist Carl Jung in order to attempt to find something, perhaps in the mysteries of the spirit, that would explain
+      it.
+    claim_type: observation
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: named
+      origin: Wolfgang Pauli
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: c47ce8ee-28f3-4757-8d83-a31e0a0f96bc
+        title: Fine structure constant
+        slug: fine-structure-constant
+      - node_id: c551f048-0859-4b1c-af58-df2919d81390
+        title: Carl Jung
+        slug: carl-jung
+      - node_id: d6a23884-a280-40fa-a17a-7fe40f8d1d2a
+        title: Wolfgang Pauli
+        slug: wolfgang-pauli
+    date: null
+    date_end: null
+    location_in_record: ch27:4390-4730
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 759e8d7b-a820-4e00-bdc3-9aebf9e4b1b1
+      record_title: The Fourth Mind
+      record_date: '2025-01-15'
+      record_reference: null
+      content_hash: sha256:524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008e17102e7
+      friendly_name: 2025-01-15-ebook-the-fourth-mind
+  - claim_id: 88c4fbaf-5d31-4053-bb4b-80bbe65dc2f7
+    claim_hash: ee52dc73251792ae70e71a445f11b5bd99ec4c8a185dc8585c633cf8973e6801
+    content: Julia Mossbridge defines synchronicity in the Jungian sense as things that appear completely disconnected but
+      come to have great meaning when put together.
+    original_excerpt: synchronicity is here defined in the Jungian sense of things that seem to appear completely disconnected,
+      but end up having great meaning when put together.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 8d3ca113-3f28-4808-998e-34d2837332a5
+      title: Julia Mossbridge
+    provenance_chain:
+      origin_kind: speaker
+      origin: Julia Mossbridge
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 55c1406c-9169-4f28-836b-a9a8afbec687
+        title: Synchronicity
+        slug: synchronicity
+      - node_id: 8d3ca113-3f28-4808-998e-34d2837332a5
+        title: Julia Mossbridge
+        slug: julia-mossbridge
+      - node_id: c551f048-0859-4b1c-af58-df2919d81390
+        title: Carl Jung
+        slug: carl-jung
+    date: null
+    date_end: null
+    location_in_record: 02:16:21.7-02:16:31.4
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 43b2873d-8ebe-46aa-9425-a7e273c46e34
+      record_title: Non Human Intelligence, GATE Program and Psi Ability with Dr. Julia Mossbridge | ep. 99
+      record_date: '2026-08-14'
+      record_reference: https://www.youtube.com/watch?v=-qt2FYdP_EA
+      content_hash: sha256:8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8998cfdcd
+      friendly_name: null

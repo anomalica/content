@@ -1,0 +1,149 @@
+schema: anomalica/brief/1
+brief_hash: 41ea9fbab67efad08e3960b563047ee35fa1eeb2de88f5f4a067a071e8ac8555
+page:
+  kind: entity
+  node_id: 18935466-c561-44ee-8d75-5ae35101bc60
+  node_type: topic
+  title: Extended electrodynamics
+  slug: extended-electrodynamics
+  claim_count: 3
+  claim_count_total: 3
+generated:
+  graph_version: '2026-09-01T10:10:49.863545+00:00'
+size:
+  claims: 3
+  tokens_estimated: 785
+  sized_against: 1050000
+publication:
+  status: published
+  note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
+    transcripts are gated elsewhere.
+belonging:
+  verified: 0
+  suspect_excluded: 0
+  unreviewed: 3
+related_nodes:
+  - node_id: 604c23f9-70cb-4323-92a6-f733764d303b
+    title: Charles Proteus Steinmetz
+    node_type: person
+    slug: charles-proteus-steinmetz
+    shared_claims: 1
+  - node_id: 6dcdfe60-bc2f-4be2-a041-9957a82f371e
+    title: Harold E. Puthoff
+    node_type: person
+    slug: harold-e-puthoff
+    shared_claims: 1
+  - node_id: 8dab8565-0f8c-49ef-8745-f6881c1f508c
+    title: Russia, Bashkortostan, Yamantau Mountain
+    node_type: place
+    slug: bashkortostan-yamantau-mountain-russia
+    shared_claims: 1
+claims:
+  - claim_id: c87cce68-d7df-44ae-996d-bc3fc4292fa5
+    claim_hash: 3df52d9ad7aa4eca161f8f5ffab90bf6b5a31a8bfcb992f04703ddc5de9dfde7
+    content: Charles Proteus Steinmetz was extremely interested in heterodox models for electromagnetism, of the kind that
+      would today be described as extended electrodynamics.
+    original_excerpt: was extremely interested in kind of heterodox models for electromagnetism. You know, what might be described
+      today as extended electrodynamics
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 079d4381-4273-418b-bc9a-468623f95c6e
+      title: Jesse Mitchells
+    provenance_chain:
+      origin_kind: speaker
+      origin: Jesse Michels
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 18935466-c561-44ee-8d75-5ae35101bc60
+        title: Extended electrodynamics
+        slug: extended-electrodynamics
+      - node_id: 604c23f9-70cb-4323-92a6-f733764d303b
+        title: Charles Proteus Steinmetz
+        slug: charles-proteus-steinmetz
+    date: null
+    date_end: null
+    location_in_record: 01:31:10.6-01:31:20.4
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 64b84f95-238c-4ab7-a678-bee55f985b14
+      record_title: The UFO Cover-Up Leads to One Secret Society — and One Final Event
+      record_date: '2026-07-14'
+      record_reference: https://www.youtube.com/watch?v=kccrkCGGzX4
+      content_hash: sha256:d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7b5a1b98d
+      friendly_name: null
+  - claim_id: 5524636f-7061-45d4-85e6-5bdd36c0e96d
+    claim_hash: 592e4bb2eddb9ce59ad79967dca3e997a9fb001d33af87389c03273880d8fa61
+    content: Hal Puthoff is very interested in extended electrodynamics.
+    original_excerpt: which people like Hal Puthoff are very interested in
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 079d4381-4273-418b-bc9a-468623f95c6e
+      title: Jesse Mitchells
+    provenance_chain:
+      origin_kind: speaker
+      origin: Jesse Michels
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 18935466-c561-44ee-8d75-5ae35101bc60
+        title: Extended electrodynamics
+        slug: extended-electrodynamics
+      - node_id: 6dcdfe60-bc2f-4be2-a041-9957a82f371e
+        title: Harold E. Puthoff
+        slug: harold-e-puthoff
+    date: null
+    date_end: null
+    location_in_record: 01:31:21.5-01:31:23.6
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 64b84f95-238c-4ab7-a678-bee55f985b14
+      record_title: The UFO Cover-Up Leads to One Secret Society — and One Final Event
+      record_date: '2026-07-14'
+      record_reference: https://www.youtube.com/watch?v=kccrkCGGzX4
+      content_hash: sha256:d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7b5a1b98d
+      friendly_name: null
+  - claim_id: b933312e-7c26-41c9-a7ed-5177abb8eedd
+    claim_hash: 9b8f16a7f6d453a20791f0a23f58a53b53b16759fb5b44a57a36092f81439c8f
+    content: Extended electrodynamics appears to be studied by Russia at the Yamantau mountain range in Bashkortostan.
+    original_excerpt: And then they also have this mountain range called the Yamento Mountain Range, where they seem to study
+      sort of extended electrodynamics.
+    claim_type: hearsay
+    attestation: null
+    speaker:
+      node_id: 079d4381-4273-418b-bc9a-468623f95c6e
+      title: Jesse Mitchells
+    provenance_chain:
+      origin_kind: unattributed
+      origin: narration by Jesse Michels
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 18935466-c561-44ee-8d75-5ae35101bc60
+        title: Extended electrodynamics
+        slug: extended-electrodynamics
+      - node_id: 8dab8565-0f8c-49ef-8745-f6881c1f508c
+        title: Russia, Bashkortostan, Yamantau Mountain
+        slug: bashkortostan-yamantau-mountain-russia
+    date: null
+    date_end: null
+    location_in_record: 00:38:03.1-00:38:09.6
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: dc9d8bc8-9c1f-46b4-9b89-8d86b6b08e1d
+      record_title: Jesse Michels, UAPGerb & Chris Ramsay - Flying Saucer Diner
+      record_date: '2026-07-17'
+      record_reference: https://www.youtube.com/watch?v=HFLBDi87888
+      content_hash: sha256:7b2e272d7c82fdda745ee0354d7c9cc4b0d5ba5506015ca27edd9169a768b262
+      friendly_name: null

@@ -1,0 +1,853 @@
+schema: anomalica/brief/1
+brief_hash: 0665248d738b958f486815c838beb129d16678d047e38cf1e1e7c38f835491e7
+page:
+  kind: entity
+  node_id: 5c502145-40b9-4dbb-be65-24d903bbff01
+  node_type: organisation
+  title: Stanford University
+  slug: stanford-university
+  claim_count: 17
+  claim_count_total: 17
+generated:
+  graph_version: '2026-09-01T10:10:49.863545+00:00'
+size:
+  claims: 17
+  tokens_estimated: 4987
+  sized_against: 1050000
+publication:
+  status: published
+  note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
+    transcripts are gated elsewhere.
+belonging:
+  verified: 0
+  suspect_excluded: 0
+  unreviewed: 17
+related_nodes:
+  - node_id: 7984df1a-3d2e-475c-b0c9-31c258f71855
+    title: Garry Nolan
+    node_type: person
+    slug: garry-nolan
+    shared_claims: 5
+  - node_id: 6dcdfe60-bc2f-4be2-a041-9957a82f371e
+    title: Harold E. Puthoff
+    node_type: person
+    slug: harold-e-puthoff
+    shared_claims: 4
+  - node_id: 783d7089-bc2f-42b9-ad9a-7cc09fdaedb6
+    title: Marian Keech
+    node_type: person
+    slug: marian-keech
+    shared_claims: 2
+  - node_id: 4ee606a3-72d8-412a-8bdc-c6077bd02a4a
+    title: National Security Agency (NSA)
+    node_type: organisation
+    slug: national-security-agency-nsa
+    shared_claims: 2
+  - node_id: 8cc3cfbd-3ed9-4eb9-9111-45acc59dc61e
+    title: 2020 Robert Powell analysis of the Ubatuba samples for the Scientific Coalition for Unidentified Aerial Phenomena
+      (UAP) Studies
+    node_type: document
+    slug: 2020-robert-powell-analysis-of-the-ubatuba-samples-for-the-scientific-coalition-for-unidentified-aerial-phenomena-uap-studies
+    shared_claims: 1
+  - node_id: ee833add-d4e3-4b62-88dd-9b9c496e8dd1
+    title: California Institute of Technology (Caltech)
+    node_type: organisation
+    slug: california-institute-of-technology-caltech
+    shared_claims: 1
+  - node_id: bc46ab37-0b38-4fcb-9ce2-2ba47642005f
+    title: Carnegie Mellon University
+    node_type: organisation
+    slug: carnegie-mellon-university
+    shared_claims: 1
+  - node_id: 38b84d4a-96df-4684-bb46-f6f64f392add
+    title: Central Intelligence Agency (CIA)
+    node_type: organisation
+    slug: central-intelligence-agency-cia
+    shared_claims: 1
+  - node_id: c09e3558-1732-4676-a218-d67d285d98ef
+    title: David Fravor
+    node_type: person
+    slug: david-fravor
+    shared_claims: 1
+  - node_id: c8520928-93f3-4579-8259-dbe0aeeec7c3
+    title: Elisabeth Targ
+    node_type: person
+    slug: elisabeth-targ
+    shared_claims: 1
+  - node_id: a7401fee-f052-47b4-95d5-4ce7f695aa7d
+    title: Florenze Mansmann
+    node_type: person
+    slug: florenze-mansmann
+    shared_claims: 1
+  - node_id: 0527eb19-269f-4461-ab4c-54b4efb2fc90
+    title: General Electric
+    node_type: organisation
+    slug: general-electric
+    shared_claims: 1
+  - node_id: a8b10a6d-0ccb-4b48-98ab-ca7a7a147fde
+    title: Georgia Institute of Technology (Georgia Tech)
+    node_type: organisation
+    slug: georgia-institute-of-technology-georgia-tech
+    shared_claims: 1
+  - node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+    title: Luis Elizondo
+    node_type: person
+    slug: luis-elizondo
+    shared_claims: 1
+  - node_id: c5060aa6-0437-4ef7-a518-6c7239c491e5
+    title: Massachusetts Institute of Technology (MIT)
+    node_type: organisation
+    slug: massachusetts-institute-of-technology-mit
+    shared_claims: 1
+  - node_id: 7a2bb9c7-c65e-47c2-91da-8caebb3f1c90
+    title: Naval Postgraduate School
+    node_type: organisation
+    slug: naval-postgraduate-school
+    shared_claims: 1
+  - node_id: b77da313-1c95-44d8-883e-0ee4520215b9
+    title: Nolan/Vallée Iowa Unidentified Aerial Phenomena (UAP) materials paper
+    node_type: document
+    slug: nolanvallee-iowa-unidentified-aerial-phenomena-uap-materials-paper
+    shared_claims: 1
+  - node_id: 02b3bdb6-239f-4254-b282-15841bdf1a9e
+    title: Philip Zimbardo
+    node_type: person
+    slug: philip-zimbardo
+    shared_claims: 1
+  - node_id: 41c9281c-4a11-4399-b324-a8486a96c766
+    title: Remote Viewing (RV)
+    node_type: topic
+    slug: remote-viewing-rv
+    shared_claims: 1
+  - node_id: 803dbec1-a852-489a-a5a9-d2bd5bb22fe5
+    title: Robert Powell
+    node_type: person
+    slug: robert-powell
+    shared_claims: 1
+  - node_id: eaceaab4-6d50-49da-9974-e72719de76e9
+    title: Russell Targ
+    node_type: person
+    slug: russell-targ
+    shared_claims: 1
+  - node_id: fd2faec4-ecaf-4f91-abec-e55c06c70e92
+    title: SRI International
+    node_type: organisation
+    slug: sri-international
+    shared_claims: 1
+  - node_id: a3c6c31c-1d30-47e3-9dc2-215371969cc6
+    title: Scientific Coalition for Unidentified Aerial Phenomena (UAP) Studies
+    node_type: organisation
+    slug: scientific-coalition-for-unidentified-aerial-phenomena-uap-studies
+    shared_claims: 1
+  - node_id: 32987cf1-88f7-4646-a856-740205441fda
+    title: Sperry Corporation
+    node_type: organisation
+    slug: sperry-corporation
+    shared_claims: 1
+  - node_id: ddc15c9e-95fe-4a03-a576-36ee177fa8f7
+    title: Stanford Prison Experiment
+    node_type: project
+    slug: stanford-prison-experiment
+    shared_claims: 1
+  - node_id: 7c938114-e0bc-453c-8ea4-0571efd86908
+    title: Stargate
+    node_type: project
+    slug: stargate
+    shared_claims: 1
+  - node_id: 53f1bad3-7662-41e0-b816-e0db2df51a94
+    title: Sturrock Panel
+    node_type: project
+    slug: sturrock-panel
+    shared_claims: 1
+  - node_id: c3938d3d-6d68-4a6d-94db-45321eed124d
+    title: Tom DeLonge
+    node_type: person
+    slug: tom-delonge
+    shared_claims: 1
+  - node_id: d6f04ac4-b668-4dc8-b6d8-40746acb7860
+    title: USA, California, Stanford
+    node_type: place
+    slug: california-stanford-usa
+    shared_claims: 1
+  - node_id: 3b76da3b-df51-419d-bc15-d55fa86fbb8b
+    title: Ubatuba object
+    node_type: object
+    slug: ubatuba-object
+    shared_claims: 1
+claims:
+  - claim_id: 2577a673-8f57-4df3-9f5c-5cdc9d7ddbed
+    claim_hash: 0fa975f111412acae2b34b09a400f2b320ab9c6e83f4a1311f0ebc1d7fd189b4
+    content: Elisabeth Targ spent a decade at Stanford University, becoming a certified Russian translator and then earning
+      her medical degree.
+    original_excerpt: Elisabeth had spent a decade at Stanford University, becoming a certified Russian translator and then
+      earning her medical degree.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 5c502145-40b9-4dbb-be65-24d903bbff01
+        title: Stanford University
+        slug: stanford-university
+      - node_id: c8520928-93f3-4579-8259-dbe0aeeec7c3
+        title: Elisabeth Targ
+        slug: elisabeth-targ
+    date: null
+    date_end: null
+    location_in_record: ch30:4772-4894
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
+      record_title: Surviving Death
+      record_date: '2017-03-07'
+      record_reference: null
+      content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
+      friendly_name: 2017-03-07-ebook-surviving-death
+  - claim_id: 146b2af1-c483-4d97-b4a9-55b35017ca0d
+    claim_hash: e41cde189e5b77c2fa7ac4585155e78d2304bd95800552f3c178c968d9b406ff
+    content: In the 1950s, three Stanford University sociologists infiltrated a small UFO group led by Marian Keech, who had
+      predicted the arrival of UFOs amid a global cataclysm.
+    original_excerpt: In the 1950s three Stanford University sociologists infiltrated a small UFO group whose leader, Marian
+      Keech, predicted the arrival of UFOs amid a global cataclysm.
+    claim_type: observation
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 5c502145-40b9-4dbb-be65-24d903bbff01
+        title: Stanford University
+        slug: stanford-university
+      - node_id: 783d7089-bc2f-42b9-ad9a-7cc09fdaedb6
+        title: Marian Keech
+        slug: marian-keech
+      - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
+        title: Unidentified Flying Object (UFO)
+        slug: unidentified-flying-object-ufo
+    date: '1954'
+    date_end: null
+    location_in_record: ch3:51052-51206
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 288e1100-0497-41df-ba08-9890e519b0b9
+      record_title: American Cosmic
+      record_date: '2019'
+      record_reference: null
+      content_hash: sha256:ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b16ac4758
+      friendly_name: 2019-ebook-american-cosmic
+  - claim_id: 5485556d-d77f-415c-a615-32a1077d5b1f
+    claim_hash: fa64c610c699ba1c1e30d1827ebb948d4b04d3927c79d54be251e991868e6d4e
+    content: Contrary to the Stanford University sociologists' expectation that Marian Keech's followers would come to disbelieve
+      her, some followers instead reinterpreted the events in a way that supported their original faith in Keech.
+    original_excerpt: The sociologists had assumed that they would come to disbelieve Keech, but that didn’t exactly happen.
+      Instead, some of her followers reinterpreted the meaning of the events in a way that supported their faith in Keech,
+      and their original beliefs.
+    claim_type: observation
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 5c502145-40b9-4dbb-be65-24d903bbff01
+        title: Stanford University
+        slug: stanford-university
+      - node_id: 783d7089-bc2f-42b9-ad9a-7cc09fdaedb6
+        title: Marian Keech
+        slug: marian-keech
+    date: null
+    date_end: null
+    location_in_record: ch3:51428-51667
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 288e1100-0497-41df-ba08-9890e519b0b9
+      record_title: American Cosmic
+      record_date: '2019'
+      record_reference: null
+      content_hash: sha256:ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b16ac4758
+      friendly_name: 2019-ebook-american-cosmic
+  - claim_id: e24fc0b9-c93f-4edc-9169-d03a9047ecc0
+    claim_hash: 158621c1e45bb6fccb03bf28a91d4dc17fb2f5884870a0180a87ce2f249a4362
+    content: David Fravor considers Massachusetts Institute of Technology (MIT), California Institute of Technology (Caltech),
+      Stanford University, Georgia Institute of Technology (Georgia Tech), Virginia Polytechnic Institute and State University
+      (Virginia Tech), Carnegie Mellon University, and Naval Postgraduate School to be among the top-tier universities from
+      which leading-edge technology research typically emerges.
+    original_excerpt: So you've got MIT, you've got Caltech, you've got Stanford, Georgia Tech, Virginia Tech, Carnegie Mellon,
+      I'm just naming schools, Naval Postgraduate School is another one.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: c09e3558-1732-4676-a218-d67d285d98ef
+      title: David Fravor
+    provenance_chain:
+      origin_kind: speaker
+      origin: David Fravor
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 5c502145-40b9-4dbb-be65-24d903bbff01
+        title: Stanford University
+        slug: stanford-university
+      - node_id: 7a2bb9c7-c65e-47c2-91da-8caebb3f1c90
+        title: Naval Postgraduate School
+        slug: naval-postgraduate-school
+      - node_id: a8b10a6d-0ccb-4b48-98ab-ca7a7a147fde
+        title: Georgia Institute of Technology (Georgia Tech)
+        slug: georgia-institute-of-technology-georgia-tech
+      - node_id: bc46ab37-0b38-4fcb-9ce2-2ba47642005f
+        title: Carnegie Mellon University
+        slug: carnegie-mellon-university
+      - node_id: c09e3558-1732-4676-a218-d67d285d98ef
+        title: David Fravor
+        slug: david-fravor
+      - node_id: c5060aa6-0437-4ef7-a518-6c7239c491e5
+        title: Massachusetts Institute of Technology (MIT)
+        slug: massachusetts-institute-of-technology-mit
+      - node_id: c9c99b36-9b95-4a71-b0c4-38b2219e7401
+        title: Virginia Polytechnic Institute and State University (Virginia Tech)
+        slug: virginia-polytechnic-institute-and-state-university-virginia-tech
+      - node_id: ee833add-d4e3-4b62-88dd-9b9c496e8dd1
+        title: California Institute of Technology (Caltech)
+        slug: california-institute-of-technology-caltech
+    date: null
+    date_end: null
+    location_in_record: 02:14:16.5-02:14:25.2
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 0157e540-a945-4b2a-acdf-6c449172dcd6
+      record_title: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering | Lex Fridman Podcast #122'
+      record_date: '2020-09-08'
+      record_reference: https://www.youtube.com/watch?v=aB8zcAttP1E
+      content_hash: sha256:135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19fd6afb8a
+      friendly_name: 2020-09-08-video-david-fravor-ufos-aliens-fighter-jets-and-aerospace.v2
+  - claim_id: 5b387560-94a6-415c-90da-39d5a2ea5377
+    claim_hash: a0a0ef6224bcea676722b91fb83b50b9f8133bb86acda251f23b457543b0fee7
+    content: By 1982, Florenze Mansmann held a doctorate in biomedical engineering and worked at Stanford University.
+    original_excerpt: Mansmann, who by 1982 held a doctorate in biomedical engineering and worked at Stanford University
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 5c502145-40b9-4dbb-be65-24d903bbff01
+        title: Stanford University
+        slug: stanford-university
+      - node_id: a7401fee-f052-47b4-95d5-4ce7f695aa7d
+        title: Florenze Mansmann
+        slug: florenze-mansmann
+    date: '1982'
+    date_end: null
+    location_in_record: ch10:6382-6470
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 6b9636bc-f8ee-4a69-9494-74baea2ed4b9
+    claim_hash: 8cf0738a7ef3ed5174242b38168048afbc11f39c7dd3e6d7f21075969b348413
+    content: A Stanford University analysis and a 2020 analysis by Robert Powell of the Scientific Coalition for UAP Studies
+      suggested there is no evidence that the Ubatuba specimens are of extra-terrestrial origin, nor that the magnesium is
+      especially pure.
+    original_excerpt: more recent Stanford University analysis and a 2020 analysis by Robert Powell of the Scientific Coalition
+      for UAP Studies has suggested there is no evidence at all that the Ubatuba specimens are of extra-terrestrial origin,
+      nor that the magnesium is especially pure.
+    claim_type: opinion
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: named
+      origin: Stanford University and Robert Powell of the Scientific Coalition for UAP Studies
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 3b76da3b-df51-419d-bc15-d55fa86fbb8b
+        title: Ubatuba object
+        slug: ubatuba-object
+      - node_id: 5c502145-40b9-4dbb-be65-24d903bbff01
+        title: Stanford University
+        slug: stanford-university
+      - node_id: 803dbec1-a852-489a-a5a9-d2bd5bb22fe5
+        title: Robert Powell
+        slug: robert-powell
+      - node_id: 8cc3cfbd-3ed9-4eb9-9111-45acc59dc61e
+        title: 2020 Robert Powell analysis of the Ubatuba samples for the Scientific Coalition for Unidentified Aerial Phenomena
+          (UAP) Studies
+        slug: 2020-robert-powell-analysis-of-the-ubatuba-samples-for-the-scientific-coalition-for-unidentified-aerial-phenomena-uap-studies
+      - node_id: a3c6c31c-1d30-47e3-9dc2-215371969cc6
+        title: Scientific Coalition for Unidentified Aerial Phenomena (UAP) Studies
+        slug: scientific-coalition-for-unidentified-aerial-phenomena-uap-studies
+    date: '2020'
+    date_end: null
+    location_in_record: ch24:11894-12158
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 82b2198c-9671-459d-86f6-1b8c5136182b
+    claim_hash: dcb12b75fe518c7a52150b7e3ff4d1bcda6734814e5e6fde9fd4e8127d901cd1
+    content: Garry Nolan is a Professor in the Department of Pathology at Stanford University.
+    original_excerpt: Dr. Garry Nolan, a Professor in the Department of Pathology at Stanford University
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 5c502145-40b9-4dbb-be65-24d903bbff01
+        title: Stanford University
+        slug: stanford-university
+      - node_id: 7984df1a-3d2e-475c-b0c9-31c258f71855
+        title: Garry Nolan
+        slug: garry-nolan
+    date: null
+    date_end: null
+    location_in_record: char:18165-18237
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e790e3f8-b1a1-4ca3-893a-02d67f8815d7
+      record_title: Intelligence Officials Say U.S. Has Retrieved Craft of Non-Human Origin
+      record_date: '2023-06-05'
+      record_reference: https://thedebrief.org/intelligence-officials-say-u-s-has-retrieved-non-human-craft/
+      content_hash: sha256:5ce8e38071f914d4dbb950938474d8e00a0a59d120d4391a2e90baa5da5d4335
+      friendly_name: 2023-06-05-web-intelligence-officials-say-u-s-has-retrieved-craft-of-non
+  - claim_id: a204dd47-287c-48cb-b4a7-99a80528c391
+    claim_hash: 14e26859e59c841d37f613a31027e1deb34f99ab5bed156d5e8341c1247b0a1a
+    content: Harold Puthoff earned his PhD from Stanford University in 1967.
+    original_excerpt: Hal earned his PhD from Stanford University in 1967.
+    claim_type: administrative
+    attestation: first_hand
+    speaker:
+      node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+      title: Luis Elizondo
+    provenance_chain:
+      origin_kind: speaker
+      origin: Lue Elizondo
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 5c502145-40b9-4dbb-be65-24d903bbff01
+        title: Stanford University
+        slug: stanford-university
+      - node_id: 6dcdfe60-bc2f-4be2-a041-9957a82f371e
+        title: Harold E. Puthoff
+        slug: harold-e-puthoff
+    date: '1967'
+    date_end: null
+    location_in_record: ch10:2368-2415
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  - claim_id: 29055d3f-19b0-4a6e-9149-aa17ec070132
+    claim_hash: 6876d9453e2d0f4b2dff2368ae34f6438fa29ac4e6ede77e69c35bfc170c7379
+    content: Harold Puthoff's professional background spans decades of research at General Electric, Sperry Corporation, the
+      National Security Agency (NSA), Stanford University, and SRI International.
+    original_excerpt: His professional background spans decades of research at General Electric, Sperry, the NSA, Stanford
+      University, and SRI International
+    claim_type: administrative
+    attestation: first_hand
+    speaker:
+      node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+      title: Luis Elizondo
+    provenance_chain:
+      origin_kind: speaker
+      origin: Lue Elizondo
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 0527eb19-269f-4461-ab4c-54b4efb2fc90
+        title: General Electric
+        slug: general-electric
+      - node_id: 32987cf1-88f7-4646-a856-740205441fda
+        title: Sperry Corporation
+        slug: sperry-corporation
+      - node_id: 4ee606a3-72d8-412a-8bdc-c6077bd02a4a
+        title: National Security Agency (NSA)
+        slug: national-security-agency-nsa
+      - node_id: 5c502145-40b9-4dbb-be65-24d903bbff01
+        title: Stanford University
+        slug: stanford-university
+      - node_id: 6dcdfe60-bc2f-4be2-a041-9957a82f371e
+        title: Harold E. Puthoff
+        slug: harold-e-puthoff
+      - node_id: fd2faec4-ecaf-4f91-abec-e55c06c70e92
+        title: SRI International
+        slug: sri-international
+    date: null
+    date_end: null
+    location_in_record: ch10:2421-2542
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  - claim_id: c17217b6-187a-479f-abcb-d31254a39eb7
+    claim_hash: b822fde59aa136aa4220a96950075994e4a75274ac1e9f8f103367210cb10e2f
+    content: The remote viewing technique used in Project Stargate was pioneered at Stanford University in the late 1960s
+      and led by Harold Puthoff.
+    original_excerpt: The program, pioneered at Stanford University in the late 1960s, was led by none other than Hal Puthoff
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 41c9281c-4a11-4399-b324-a8486a96c766
+        title: Remote Viewing (RV)
+        slug: remote-viewing-rv
+      - node_id: 5c502145-40b9-4dbb-be65-24d903bbff01
+        title: Stanford University
+        slug: stanford-university
+      - node_id: 6dcdfe60-bc2f-4be2-a041-9957a82f371e
+        title: Harold E. Puthoff
+        slug: harold-e-puthoff
+      - node_id: 7c938114-e0bc-453c-8ea4-0571efd86908
+        title: Stargate
+        slug: stargate
+    date: null
+    date_end: null
+    location_in_record: ch11:25107-25203
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  - claim_id: 625a284f-b4d0-4b1e-a20c-70cf133e40cc
+    claim_hash: 9dbedf40688015961aae4468a0ce2baf00abf871f8c8304d28c59565747e022d
+    content: Harold Puthoff was a Stanford University researcher and an employee of the National Security Agency when he and
+      Russell Targ were approached by the Central Intelligence Agency and told that Russia had a remote viewing programme.
+    original_excerpt: Hal had been a Stanford University researcher and an employee of the NSA when he and his colleague Russell
+      Targ were approached by the CIA and told that Russia had a remote-viewing program.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 38b84d4a-96df-4684-bb46-f6f64f392add
+        title: Central Intelligence Agency (CIA)
+        slug: central-intelligence-agency-cia
+      - node_id: 4ee606a3-72d8-412a-8bdc-c6077bd02a4a
+        title: National Security Agency (NSA)
+        slug: national-security-agency-nsa
+      - node_id: 5c502145-40b9-4dbb-be65-24d903bbff01
+        title: Stanford University
+        slug: stanford-university
+      - node_id: 6dcdfe60-bc2f-4be2-a041-9957a82f371e
+        title: Harold E. Puthoff
+        slug: harold-e-puthoff
+      - node_id: eaceaab4-6d50-49da-9974-e72719de76e9
+        title: Russell Targ
+        slug: russell-targ
+    date: null
+    date_end: null
+    location_in_record: ch11:25266-25447
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  - claim_id: 9d570b51-8c5e-42ea-9f58-0f472d6de883
+    claim_hash: dd8615a0187c807244dfe0958f9094399a3164a8199d2037767d74ab1c0d17c9
+    content: Garry P. Nolan held a chaired position and his own laboratory at Stanford University, where postdocs and graduate
+      students investigated human genetics.
+    original_excerpt: Garry P. Nolan had a chaired position and his own laboratory at Stanford University, where an army of
+      postdocs and graduate students investigated various mysteries of human genetics.
+    claim_type: administrative
+    attestation: first_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: speaker
+      origin: Lue Elizondo
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 5c502145-40b9-4dbb-be65-24d903bbff01
+        title: Stanford University
+        slug: stanford-university
+      - node_id: 7984df1a-3d2e-475c-b0c9-31c258f71855
+        title: Garry Nolan
+        slug: garry-nolan
+    date: null
+    date_end: null
+    location_in_record: ch18:12588-12761
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  - claim_id: 0d99a206-ee32-4278-b4c4-24a1965b1dcd
+    claim_hash: c37f5751253099d68a2f6e3764acb330ebdc85d2b7808d44ac4b46611c34a647
+    content: William "Will" Livingston's team brought MRI images of the brains of UAP experiencers, all servicemen and intelligence
+      officials, to Garry P. Nolan's office at Stanford University.
+    original_excerpt: Will’s team had brought MRI images of the brains of the UAP experiencers—all servicemen and intelligence
+      officials—who had given them permission to share their medical data.
+    claim_type: administrative
+    attestation: first_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: speaker
+      origin: Lue Elizondo
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 5c502145-40b9-4dbb-be65-24d903bbff01
+        title: Stanford University
+        slug: stanford-university
+      - node_id: 7984df1a-3d2e-475c-b0c9-31c258f71855
+        title: Garry Nolan
+        slug: garry-nolan
+      - node_id: bfdc8095-3798-4086-bafa-9b4709c3c2b0
+        title: William Livingston
+        slug: william-livingston
+    date: null
+    date_end: null
+    location_in_record: ch18:15357-15552
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  - claim_id: 2863f5c1-c383-448b-9c58-6587ca071baf
+    claim_hash: 226008c0210ab047b78cab3cb6ba3ec315dc073c64233c4b72d3d87149e4b259
+    content: Garry P. Nolan of Stanford University was a friend and colleague of Luis Elizondo and was included on Tom DeLonge's
+      advisory board.
+    original_excerpt: my friend and colleague from Stanford University, Dr. Garry Nolan
+    claim_type: administrative
+    attestation: first_hand
+    speaker:
+      node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+      title: Luis Elizondo
+    provenance_chain:
+      origin_kind: speaker
+      origin: Lue Elizondo
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 5c502145-40b9-4dbb-be65-24d903bbff01
+        title: Stanford University
+        slug: stanford-university
+      - node_id: 7984df1a-3d2e-475c-b0c9-31c258f71855
+        title: Garry Nolan
+        slug: garry-nolan
+      - node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+        title: Luis Elizondo
+        slug: luis-elizondo
+      - node_id: c3938d3d-6d68-4a6d-94db-45321eed124d
+        title: Tom DeLonge
+        slug: tom-delonge
+    date: null
+    date_end: null
+    location_in_record: ch29:13554-13614
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  - claim_id: af50dfe6-97b1-492d-bc35-325d72bd153a
+    claim_hash: 652415d3b69a5ccf8ab2d05a0d269a2470bf3b48c04a14c1bbf4574ff510af1e
+    content: Garry P. Nolan is a professor at Stanford University's medical school, and the Nolan/Vallée Iowa UAP materials
+      paper was the first time he had published in an aerospace journal.
+    original_excerpt: It was the first time that Nolan, a professor at Stanford’s medical school, had ever published in an
+      aerospace journal
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 5c502145-40b9-4dbb-be65-24d903bbff01
+        title: Stanford University
+        slug: stanford-university
+      - node_id: 7984df1a-3d2e-475c-b0c9-31c258f71855
+        title: Garry Nolan
+        slug: garry-nolan
+      - node_id: b77da313-1c95-44d8-883e-0ee4520215b9
+        title: Nolan/Vallée Iowa Unidentified Aerial Phenomena (UAP) materials paper
+        slug: nolanvallee-iowa-unidentified-aerial-phenomena-uap-materials-paper
+    date: null
+    date_end: null
+    location_in_record: ch31:38451-38562
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  - claim_id: 725407aa-339e-485b-a96d-db25bd0a0241
+    claim_hash: a19f872c8c98b48ff18e347d423ee70816a86ac1660e7ea6c4b4b1df4a52119e
+    content: Stanford University's Sturrock Panel (1998) found no convincing evidence for the extraterrestrial origin of UFO/UAP.
+    original_excerpt: Stanford University's Sturrock Panel (1998) found no convincing evidence for the extraterrestrial origin
+      of UFO/UAP.
+    claim_type: administrative
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: document
+      origin: P.A. Sturrock et al., Physical Evidence Related to UFO Reports
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 53f1bad3-7662-41e0-b816-e0db2df51a94
+        title: Sturrock Panel
+        slug: sturrock-panel
+      - node_id: 5c502145-40b9-4dbb-be65-24d903bbff01
+        title: Stanford University
+        slug: stanford-university
+    date: '1998'
+    date_end: null
+    location_in_record: char:72240-72356
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: d3743fdf-6a99-43ef-98d4-b79ef60f0e47
+      record_title: Report on the Historical Record of U.S. Government Involvement with Unidentified Anomalous Phenomena (UAP),
+        Volume I
+      record_date: '2024-02-01'
+      record_reference: null
+      content_hash: sha256:8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a94774067868
+      friendly_name: 2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a
+  - claim_id: 8c6104a5-0220-4830-b57a-fb18031fcb76
+    claim_hash: 63b45b6a5e83c0be67e9a279366f787df44bb38e157b6fd582aa373f868133bb
+    content: Philip Zimbardo conducted the Stanford Prison Experiment at Stanford University.
+    original_excerpt: And Philip Zimbardo at Stanford with the Stanford Prison Experiments, very similar.
+    claim_type: administrative
+    attestation: first_hand
+    speaker:
+      node_id: 079d4381-4273-418b-bc9a-468623f95c6e
+      title: Jesse Mitchells
+    provenance_chain:
+      origin_kind: speaker
+      origin: Jesse Michels
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 02b3bdb6-239f-4254-b282-15841bdf1a9e
+        title: Philip Zimbardo
+        slug: philip-zimbardo
+      - node_id: 5c502145-40b9-4dbb-be65-24d903bbff01
+        title: Stanford University
+        slug: stanford-university
+      - node_id: d6f04ac4-b668-4dc8-b6d8-40746acb7860
+        title: USA, California, Stanford
+        slug: california-stanford-usa
+      - node_id: ddc15c9e-95fe-4a03-a576-36ee177fa8f7
+        title: Stanford Prison Experiment
+        slug: stanford-prison-experiment
+    date: null
+    date_end: null
+    location_in_record: 00:11:54.9-00:11:59.6
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 64b84f95-238c-4ab7-a678-bee55f985b14
+      record_title: The UFO Cover-Up Leads to One Secret Society — and One Final Event
+      record_date: '2026-07-14'
+      record_reference: https://www.youtube.com/watch?v=kccrkCGGzX4
+      content_hash: sha256:d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7b5a1b98d
+      friendly_name: null

@@ -1,0 +1,483 @@
+schema: anomalica/brief/1
+brief_hash: 37aefc662a0d61484da15148ff5e83379ab471218a5717ff24342435f5aa2f9a
+page:
+  kind: entity
+  node_id: 7a7d3dc5-791a-4393-a8bd-7afd375c52f3
+  node_type: topic
+  title: Freedom of Information Act (FOIA)
+  slug: freedom-of-information-act-foia
+  claim_count: 11
+  claim_count_total: 11
+generated:
+  graph_version: '2026-09-01T10:10:49.863545+00:00'
+size:
+  claims: 11
+  tokens_estimated: 3392
+  sized_against: 1050000
+publication:
+  status: published
+  note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
+    transcripts are gated elsewhere.
+belonging:
+  verified: 0
+  suspect_excluded: 0
+  unreviewed: 11
+related_nodes:
+  - node_id: 8d3ca113-3f28-4808-998e-34d2837332a5
+    title: Julia Mossbridge
+    node_type: person
+    slug: julia-mossbridge
+    shared_claims: 5
+  - node_id: 7155e2e0-0cd2-4ee7-963d-6e47c3f093f2
+    title: John Greenewald
+    node_type: person
+    slug: john-greenewald
+    shared_claims: 2
+  - node_id: dfd0572c-e4d0-4473-9e05-a00dc9e7954c
+    title: 2017-12 New York Times article on Luis Elizondo and the Advanced Aerospace Threat Identification Program (AATIP)
+    node_type: event
+    slug: 2017-12-new-york-times-article-on-luis-elizondo-and-the-advanced-aerospace-threat-identification-program-aatip
+    shared_claims: 1
+  - node_id: 65058869-076f-47d0-92ea-f8daf08b94cf
+    title: Barack Obama
+    node_type: person
+    slug: barack-obama
+    shared_claims: 1
+  - node_id: 24d00311-06ac-46a1-a2f5-c99f3f8e21b2
+    title: Chris Ramsay
+    node_type: person
+    slug: chris-ramsay
+    shared_claims: 1
+  - node_id: 09371900-62b4-4372-8da1-fad6e37ad78b
+    title: EG&G Rotron
+    node_type: organisation
+    slug: egg-rotron
+    shared_claims: 1
+  - node_id: 49e20a47-e0d6-429d-8e8e-f20f6705a850
+    title: The Black Vault
+    node_type: organisation
+    slug: the-black-vault
+    shared_claims: 1
+  - node_id: f7d4be19-70e0-40ba-a63a-50f75fada4fa
+    title: USA, New York, Woodstock
+    node_type: place
+    slug: new-york-woodstock-usa
+    shared_claims: 1
+  - node_id: 32b98a17-be55-4b0f-8e10-9d377e1e8b33
+    title: United States Air Force (USAF)
+    node_type: organisation
+    slug: united-states-air-force-usaf
+    shared_claims: 1
+claims:
+  - claim_id: a3ba7cef-e9eb-426e-b82f-44b81ae4c99a
+    claim_hash: 47c6dc6527aa02227e88c0f012a75e2f5790f68de3b73bd8659bf42a48a2cb4b
+    content: The December 2017 New York Times article on Luis Elizondo and the Advanced Aerospace Threat Identification Program
+      (AATIP) set off a firestorm of "disclosure" or "unofficial disclosure" that prompted public demands under the Freedom
+      of Information Act for the US government to provide any debris or alloys it might be keeping.
+    original_excerpt: This article set off a firestorm of “disclosure” or “unofficial disclosure,” which prompted public demands
+      under the Freedom of Information Act that the US government provide any debris or “alloys” they might be keeping.
+    claim_type: observation
+    attestation: first_hand
+    speaker:
+      node_id: f2daae19-9351-4a8e-b466-664f83887f61
+      title: Diana Walsh Pasulka
+    provenance_chain:
+      origin_kind: speaker
+      origin: D. W. Pasulka
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 7a7d3dc5-791a-4393-a8bd-7afd375c52f3
+        title: Freedom of Information Act (FOIA)
+        slug: freedom-of-information-act-foia
+      - node_id: dfd0572c-e4d0-4473-9e05-a00dc9e7954c
+        title: 2017-12 New York Times article on Luis Elizondo and the Advanced Aerospace Threat Identification Program (AATIP)
+        slug: 2017-12-new-york-times-article-on-luis-elizondo-and-the-advanced-aerospace-threat-identification-program-aatip
+    date: null
+    date_end: null
+    location_in_record: ch7:44747-44959
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 288e1100-0497-41df-ba08-9890e519b0b9
+      record_title: American Cosmic
+      record_date: '2019'
+      record_reference: null
+      content_hash: sha256:ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b16ac4758
+      friendly_name: 2019-ebook-american-cosmic
+  - claim_id: 8daa4135-3d2f-4c59-9eb0-8301cdc7c67c
+    claim_hash: df8abf4100953ee1e40074a94152fea50ece242feaa033ff0dbd38f05234f0bf
+    content: John Greenewald filed a Freedom of Information Act request that returned information indicating either about
+      3,000 or about 30,000 references in Barack Obama's presidential documents.
+    original_excerpt: Did you see the John Greenwald thing where he filed a FOIA and he got information back, which indicated,
+      I can't remember if it's 3,000 or 30, I think it might've been 30,000 references in Obama's documents in his presidency
+    claim_type: testimony
+    attestation: second_hand
+    speaker:
+      node_id: ff0a86b8-8f3c-4291-94ed-c6d303875ce8
+      title: Jason Samosa
+    provenance_chain:
+      origin_kind: named
+      origin: John Greenewald
+      relay:
+        - John Greenewald's published FOIA result
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 65058869-076f-47d0-92ea-f8daf08b94cf
+        title: Barack Obama
+        slug: barack-obama
+      - node_id: 7155e2e0-0cd2-4ee7-963d-6e47c3f093f2
+        title: John Greenewald
+        slug: john-greenewald
+      - node_id: 7a7d3dc5-791a-4393-a8bd-7afd375c52f3
+        title: Freedom of Information Act (FOIA)
+        slug: freedom-of-information-act-foia
+    date: null
+    date_end: null
+    location_in_record: 00:53:49.7-00:54:01.2
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 64b84f95-238c-4ab7-a678-bee55f985b14
+      record_title: The UFO Cover-Up Leads to One Secret Society — and One Final Event
+      record_date: '2026-07-14'
+      record_reference: https://www.youtube.com/watch?v=kccrkCGGzX4
+      content_hash: sha256:d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7b5a1b98d
+      friendly_name: null
+  - claim_id: f9ee5e0d-0616-47b4-8a1e-7581249d08ca
+    claim_hash: 0805938fe11a537b81e6b46da02db453b624eba8e321c0b98657245bbbb79dae
+    content: John Greenewald runs The Black Vault, a Freedom of Information Act archive.
+    original_excerpt: '[note: John Greenewald - Researcher who runs The Black Vault FOIA archive]'
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: source record annotation
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 49e20a47-e0d6-429d-8e8e-f20f6705a850
+        title: The Black Vault
+        slug: the-black-vault
+      - node_id: 7155e2e0-0cd2-4ee7-963d-6e47c3f093f2
+        title: John Greenewald
+        slug: john-greenewald
+      - node_id: 7a7d3dc5-791a-4393-a8bd-7afd375c52f3
+        title: Freedom of Information Act (FOIA)
+        slug: freedom-of-information-act-foia
+    date: null
+    date_end: null
+    location_in_record: line 255
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 64b84f95-238c-4ab7-a678-bee55f985b14
+      record_title: The UFO Cover-Up Leads to One Secret Society — and One Final Event
+      record_date: '2026-07-14'
+      record_reference: https://www.youtube.com/watch?v=kccrkCGGzX4
+      content_hash: sha256:d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7b5a1b98d
+      friendly_name: null
+  - claim_id: 5c6518a4-1c30-46f6-8f71-dcdf0ec432d8
+    claim_hash: 8435d07cdb403d1d1f47e65c87a982948ad85c0cbe37f555aaa75818373a07b3
+    content: Every document moved into the private EG&G Rotron facility in Woodstock, New York, passed out from under the
+      Freedom of Information Act umbrella and was no longer accessible.
+    original_excerpt: And every document that went in there moved out of the freedom of information umbrella and was no longer
+      accessible.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+      title: Whitley Strieber
+    provenance_chain:
+      origin_kind: speaker
+      origin: Whitley Strieber
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 09371900-62b4-4372-8da1-fad6e37ad78b
+        title: EG&G Rotron
+        slug: egg-rotron
+      - node_id: 7a7d3dc5-791a-4393-a8bd-7afd375c52f3
+        title: Freedom of Information Act (FOIA)
+        slug: freedom-of-information-act-foia
+      - node_id: f7d4be19-70e0-40ba-a63a-50f75fada4fa
+        title: USA, New York, Woodstock
+        slug: new-york-woodstock-usa
+    date: null
+    date_end: null
+    location_in_record: 00:15:47.4-00:15:56.3
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 9302c6b2-133d-4cbb-adfa-5d1f0bd3e7ac
+      record_title: The Terrible Truth About the Visitors - Whitley Strieber | ep. 96
+      record_date: '2026-07-24'
+      record_reference: https://www.youtube.com/watch?v=Cv-sk4vt-qU
+      content_hash: sha256:456dbde0ab82ee8e216bdad2d1a0bf2a0b42622a167af19058f973050b035084
+      friendly_name: null
+  - claim_id: 65ec9932-90e8-49c1-bba8-2b044da4a530
+    claim_hash: f2ecc6ef503f023c2ca35707c5fecac396af644260d2f03003a1f9fb36cd79d7
+    content: Four days after Julia Mossbridge filed her Freedom of Information Act request about the Students on Active Research
+      (SOAR) programme, she received a recruitment call from a federal organisation she had sent a resume to months earlier.
+    original_excerpt: But four days before that, I had sent a FOIA request about my SOAR stuff to FOIA. ... And so four days
+      later, I get this, oh, we want to recruit you call.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 8d3ca113-3f28-4808-998e-34d2837332a5
+      title: Julia Mossbridge
+    provenance_chain:
+      origin_kind: speaker
+      origin: Julia Mossbridge
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 7a7d3dc5-791a-4393-a8bd-7afd375c52f3
+        title: Freedom of Information Act (FOIA)
+        slug: freedom-of-information-act-foia
+      - node_id: 8d3ca113-3f28-4808-998e-34d2837332a5
+        title: Julia Mossbridge
+        slug: julia-mossbridge
+    date: null
+    date_end: null
+    location_in_record: 00:26:38.2-00:26:49.8
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 43b2873d-8ebe-46aa-9425-a7e273c46e34
+      record_title: Non Human Intelligence, GATE Program and Psi Ability with Dr. Julia Mossbridge | ep. 99
+      record_date: '2026-08-14'
+      record_reference: https://www.youtube.com/watch?v=-qt2FYdP_EA
+      content_hash: sha256:8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8998cfdcd
+      friendly_name: null
+  - claim_id: 9c9c0b94-7520-4217-b95b-bc93abe5bdc7
+    claim_hash: 76427da22978ed1564a00a5cd18882056591731e153f64198bd8b8aaf07db870
+    content: Julia Mossbridge sent a Freedom of Information Act (FOIA) request seeking information about the Students on Active
+      Research (SOAR) programme she had been in, targeting the United States Air Force because she thought there might be
+      a relationship given the programme's name.
+    original_excerpt: I had sent a FOIA request about my SOAR stuff to FOIA. I'd said, I really want to understand this program.
+      ... I had targeted the Air Force because I thought maybe there was a relationship with the Air Force. It's called SOAR.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 8d3ca113-3f28-4808-998e-34d2837332a5
+      title: Julia Mossbridge
+    provenance_chain:
+      origin_kind: speaker
+      origin: Julia Mossbridge
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 32b98a17-be55-4b0f-8e10-9d377e1e8b33
+        title: United States Air Force (USAF)
+        slug: united-states-air-force-usaf
+      - node_id: 7a7d3dc5-791a-4393-a8bd-7afd375c52f3
+        title: Freedom of Information Act (FOIA)
+        slug: freedom-of-information-act-foia
+      - node_id: 8d3ca113-3f28-4808-998e-34d2837332a5
+        title: Julia Mossbridge
+        slug: julia-mossbridge
+    date: null
+    date_end: null
+    location_in_record: 00:26:39.7-00:26:55.8
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 43b2873d-8ebe-46aa-9425-a7e273c46e34
+      record_title: Non Human Intelligence, GATE Program and Psi Ability with Dr. Julia Mossbridge | ep. 99
+      record_date: '2026-08-14'
+      record_reference: https://www.youtube.com/watch?v=-qt2FYdP_EA
+      content_hash: sha256:8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8998cfdcd
+      friendly_name: null
+  - claim_id: 906b4d56-3389-41bc-9616-2b4726d5524e
+    claim_hash: c98ea4470f4ff881829ad5c9f4a2bb25b2b1187d6a3173d06bb6e03de78ee40a
+    content: A couple of days after the recruitment call, Julia Mossbridge received an email from the Freedom of Information
+      Act office asking whether she would like to drop her request, on the grounds that the information might be hard to find
+      unless she knew exactly which programme it was.
+    original_excerpt: A couple days later, I get an email from the FOIA people saying, would you like to drop your request?
+      Because it might be hard for us to find out this information unless you exactly know what program it was.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 8d3ca113-3f28-4808-998e-34d2837332a5
+      title: Julia Mossbridge
+    provenance_chain:
+      origin_kind: speaker
+      origin: Julia Mossbridge
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 7a7d3dc5-791a-4393-a8bd-7afd375c52f3
+        title: Freedom of Information Act (FOIA)
+        slug: freedom-of-information-act-foia
+      - node_id: 8d3ca113-3f28-4808-998e-34d2837332a5
+        title: Julia Mossbridge
+        slug: julia-mossbridge
+    date: null
+    date_end: null
+    location_in_record: 00:27:22.6-00:27:34.0
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 43b2873d-8ebe-46aa-9425-a7e273c46e34
+      record_title: Non Human Intelligence, GATE Program and Psi Ability with Dr. Julia Mossbridge | ep. 99
+      record_date: '2026-08-14'
+      record_reference: https://www.youtube.com/watch?v=-qt2FYdP_EA
+      content_hash: sha256:8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8998cfdcd
+      friendly_name: null
+  - claim_id: fa2cd58b-7d3d-4397-a546-88863b08f809
+    claim_hash: 8656ae99667c2bda6dfaf6072de964fe08a4cc8c466c7974bee47371cba580ce
+    content: Freedom of Information Act requests do not normally receive responses that quickly.
+    original_excerpt: The FOIA just doesn't act that quickly, right?
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 8d3ca113-3f28-4808-998e-34d2837332a5
+      title: Julia Mossbridge
+    provenance_chain:
+      origin_kind: speaker
+      origin: Julia Mossbridge
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 7a7d3dc5-791a-4393-a8bd-7afd375c52f3
+        title: Freedom of Information Act (FOIA)
+        slug: freedom-of-information-act-foia
+    date: null
+    date_end: null
+    location_in_record: 00:27:35.4-00:27:36.9
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 43b2873d-8ebe-46aa-9425-a7e273c46e34
+      record_title: Non Human Intelligence, GATE Program and Psi Ability with Dr. Julia Mossbridge | ep. 99
+      record_date: '2026-08-14'
+      record_reference: https://www.youtube.com/watch?v=-qt2FYdP_EA
+      content_hash: sha256:8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8998cfdcd
+      friendly_name: null
+  - claim_id: eba7e13f-f5e4-405c-bf40-075ffe4641ce
+    claim_hash: 865dacf5debf8b96310c2265a7e25a00b4e2796d38125b2e57fd8303980355fb
+    content: Chris Ramsay considers Freedom of Information Act offices notoriously slow, with a backlog of years.
+    original_excerpt: They're notoriously, you know, they've got a backlog of years.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 24d00311-06ac-46a1-a2f5-c99f3f8e21b2
+      title: Chris Ramsay
+    provenance_chain:
+      origin_kind: speaker
+      origin: Chris Ramsay
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 24d00311-06ac-46a1-a2f5-c99f3f8e21b2
+        title: Chris Ramsay
+        slug: chris-ramsay
+      - node_id: 7a7d3dc5-791a-4393-a8bd-7afd375c52f3
+        title: Freedom of Information Act (FOIA)
+        slug: freedom-of-information-act-foia
+    date: null
+    date_end: null
+    location_in_record: 00:27:40.0-00:27:44.1
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 43b2873d-8ebe-46aa-9425-a7e273c46e34
+      record_title: Non Human Intelligence, GATE Program and Psi Ability with Dr. Julia Mossbridge | ep. 99
+      record_date: '2026-08-14'
+      record_reference: https://www.youtube.com/watch?v=-qt2FYdP_EA
+      content_hash: sha256:8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8998cfdcd
+      friendly_name: null
+  - claim_id: 40b12aaf-15a5-47bc-a8ba-736819898b5e
+    claim_hash: e3b61aca42963995cbd4d4b9bbab5323a34a645910c88d3abc9607d786dcc101
+    content: Three minutes after Julia Mossbridge agreed to drop her Freedom of Information Act request about the Students
+      on Active Research (SOAR) programme, she received a call telling her she had been passed to the cognitive testing stage
+      for the federal job, a timing she recorded in her journal.
+    original_excerpt: I drop it. Three minutes later, I wrote it down in my journal. I get a call. Oh, you've been passed
+      to the cognitive testing for that job.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 8d3ca113-3f28-4808-998e-34d2837332a5
+      title: Julia Mossbridge
+    provenance_chain:
+      origin_kind: speaker
+      origin: Julia Mossbridge
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 7a7d3dc5-791a-4393-a8bd-7afd375c52f3
+        title: Freedom of Information Act (FOIA)
+        slug: freedom-of-information-act-foia
+      - node_id: 8d3ca113-3f28-4808-998e-34d2837332a5
+        title: Julia Mossbridge
+        slug: julia-mossbridge
+    date: null
+    date_end: null
+    location_in_record: 00:27:52.5-00:27:59.4
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 43b2873d-8ebe-46aa-9425-a7e273c46e34
+      record_title: Non Human Intelligence, GATE Program and Psi Ability with Dr. Julia Mossbridge | ep. 99
+      record_date: '2026-08-14'
+      record_reference: https://www.youtube.com/watch?v=-qt2FYdP_EA
+      content_hash: sha256:8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8998cfdcd
+      friendly_name: null
+  - claim_id: 744228b2-1ddb-4132-b46c-985994eeafbc
+    claim_hash: 8e0b509c971b5a3b9750c8371056f41f2657e9089491fca4a1da4134613d5e73
+    content: Julia Mossbridge regards the timing between dropping her Freedom of Information Act request and being advanced
+      in the federal job process as a very interesting coincidence but allows that it could be coincidence.
+    original_excerpt: No. And well, I don't know. It could be a coincidence. Yeah. It just was a very interesting coincidence.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 8d3ca113-3f28-4808-998e-34d2837332a5
+      title: Julia Mossbridge
+    provenance_chain:
+      origin_kind: speaker
+      origin: Julia Mossbridge
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 7a7d3dc5-791a-4393-a8bd-7afd375c52f3
+        title: Freedom of Information Act (FOIA)
+        slug: freedom-of-information-act-foia
+      - node_id: 8d3ca113-3f28-4808-998e-34d2837332a5
+        title: Julia Mossbridge
+        slug: julia-mossbridge
+    date: null
+    date_end: null
+    location_in_record: 00:28:17.3-00:28:21.4
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 43b2873d-8ebe-46aa-9425-a7e273c46e34
+      record_title: Non Human Intelligence, GATE Program and Psi Ability with Dr. Julia Mossbridge | ep. 99
+      record_date: '2026-08-14'
+      record_reference: https://www.youtube.com/watch?v=-qt2FYdP_EA
+      content_hash: sha256:8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8998cfdcd
+      friendly_name: null

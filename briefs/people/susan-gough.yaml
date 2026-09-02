@@ -1,0 +1,539 @@
+schema: anomalica/brief/1
+brief_hash: 53d1b45fc4dcc0fbbca36286bb7b521849cb20d5b3f536f7a93d63321a14793a
+page:
+  kind: entity
+  node_id: 13b14438-a42d-4b08-8213-e10f6dd0d242
+  node_type: person
+  title: Susan Gough
+  slug: susan-gough
+  claim_count: 10
+  claim_count_total: 10
+generated:
+  graph_version: '2026-09-01T10:10:49.863545+00:00'
+size:
+  claims: 10
+  tokens_estimated: 2954
+  sized_against: 1050000
+publication:
+  status: published
+  note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
+    transcripts are gated elsewhere.
+belonging:
+  verified: 0
+  suspect_excluded: 0
+  unreviewed: 10
+related_nodes:
+  - node_id: 6c1618c8-50db-42c9-860e-6d736ef280bf
+    title: Advanced Aerospace Threat Identification Program (AATIP)
+    node_type: project
+    slug: advanced-aerospace-threat-identification-program-aatip
+    shared_claims: 3
+  - node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+    title: Luis Elizondo
+    node_type: person
+    slug: luis-elizondo
+    shared_claims: 3
+  - node_id: 382b6d6c-0182-4121-8bfc-525602d667b1
+    title: Defense Intelligence Agency (DIA)
+    node_type: organisation
+    slug: defense-intelligence-agency-dia
+    shared_claims: 2
+  - node_id: c91974f0-961f-4db8-b7b0-22d4b846e5d5
+    title: Harry Reid
+    node_type: person
+    slug: harry-reid
+    shared_claims: 2
+  - node_id: cec715ac-05d9-4eb4-b97a-dcbffb6bf2e5
+    title: Harry Reid memo to William Lynn III on Advanced Aerospace Threat Identification Program (AATIP) Special Access
+      Program status (2009-07-24)
+    node_type: document
+    slug: harry-reid-memo-to-william-lynn-iii-on-advanced-aerospace-threat-identification-program-aatip-special-access-program-status-2009-07-24
+    shared_claims: 2
+  - node_id: 403edb72-ebc4-4b89-8746-4cd19e089691
+    title: The Pentagon
+    node_type: organisation
+    slug: the-pentagon
+    shared_claims: 2
+  - node_id: 99f08514-5471-4eaf-bce3-46c474a8d304
+    title: United States Department of Defense (DoD)
+    node_type: organisation
+    slug: united-states-department-of-defense-dod
+    shared_claims: 2
+  - node_id: 6eabc3e2-0748-4914-8561-60ad3541b3e6
+    title: 2023 'Balloongate' Unidentified Aerial Phenomena (UAP) shoot-down controversy
+    node_type: event
+    slug: 2023-balloongate-unidentified-aerial-phenomena-uap-shoot-down-controversy
+    shared_claims: 1
+  - node_id: e498e3b9-87de-44e8-877a-46b8acc68ab1
+    title: All-Domain Anomaly Resolution Office report on UFOs 2023-01-12
+    node_type: document
+    slug: all-domain-anomaly-resolution-office-report-on-ufos-2023-01-12
+    shared_claims: 1
+  - node_id: 95f26306-d457-4b86-8b8e-c83e0906740c
+    title: China
+    node_type: place
+    slug: china
+    shared_claims: 1
+  - node_id: e921bccc-8a7a-4279-9873-8f3a5997be16
+    title: Christopher Sharp
+    node_type: person
+    slug: christopher-sharp
+    shared_claims: 1
+  - node_id: 3a865991-eaad-4855-8980-b28dfb98691a
+    title: James Lacatski
+    node_type: person
+    slug: james-lacatski
+    shared_claims: 1
+  - node_id: 9c74d864-957a-4654-a5b6-1249fe654ec7
+    title: Non-Human Intelligence
+    node_type: topic
+    slug: non-human-intelligence
+    shared_claims: 1
+  - node_id: f9c1f5e2-7a4b-4767-9954-a9d0f73bd908
+    title: Office of the Under Secretary of Defense for Intelligence (OUSDI)
+    node_type: organisation
+    slug: office-of-the-under-secretary-of-defense-for-intelligence-ousdi
+    shared_claims: 1
+  - node_id: 02b74577-f272-4ae7-8520-5fda4eacb5f2
+    title: Sean Kirkpatrick
+    node_type: person
+    slug: sean-kirkpatrick
+    shared_claims: 1
+  - node_id: 49e20a47-e0d6-429d-8e8e-f20f6705a850
+    title: The Black Vault
+    node_type: organisation
+    slug: the-black-vault
+    shared_claims: 1
+  - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
+    title: Unidentified Anomalous Phenomena (UAP)
+    node_type: topic
+    slug: unidentified-anomalous-phenomena-uap
+    shared_claims: 1
+claims:
+  - claim_id: b70779df-8f42-4690-b9b2-b9b04750709c
+    claim_hash: 0a0a29cc10a962cae081096970e8f6c97c837d33573083e44a9ba8c73f8297ce
+    content: The 2009 Harry Reid memo referenced regarding Luis Elizondo's role is authentic.
+    original_excerpt: I can confirm that the memo you’re referring to is authentic… It makes no change to previous statements.
+    claim_type: administrative
+    attestation: second_hand
+    speaker:
+      node_id: 13b14438-a42d-4b08-8213-e10f6dd0d242
+      title: Susan Gough
+    provenance_chain:
+      origin_kind: named
+      origin: United States Department of Defense (DoD)
+      relay:
+        - Susan Gough, Pentagon spokesperson
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 13b14438-a42d-4b08-8213-e10f6dd0d242
+        title: Susan Gough
+        slug: susan-gough
+      - node_id: cec715ac-05d9-4eb4-b97a-dcbffb6bf2e5
+        title: Harry Reid memo to William Lynn III on Advanced Aerospace Threat Identification Program (AATIP) Special Access
+          Program status (2009-07-24)
+        slug: harry-reid-memo-to-william-lynn-iii-on-advanced-aerospace-threat-identification-program-aatip-special-access-program-status-2009-07-24
+    date: '2019-06-14'
+    date_end: null
+    location_in_record: char:1156-1249
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 6277b269-0970-4c9f-bb3f-9af4babe813e
+      record_title: Pentagon Reinforces Mr. Luis Elizondo Had “No Responsibilities” on AATIP; Senator Harry Reid’s 2009 Memo
+        Changes Nothing - The Black Vault
+      record_date: '2019-06-14'
+      record_reference: https://www.theblackvault.com/documentarchive/pentagon-reinforces-mr-luis-elizondo-had-no-responsibilities-on-aatip-senator-harry-reids-2009-memo-changes-nothing/
+      content_hash: sha256:b5f3b4fc656776dcac742cb3190859da4a5d67bf028530c1aeea49b186b0adfc
+      friendly_name: 2019-06-14-web-pentagon-reinforces-mr-luis-elizondo-had-no
+  - claim_id: c9180952-4586-428d-a5f9-f32a5cecc0af
+    claim_hash: 1169ec8fa72330b0f582dc01b268fd443f701e0e12ddda4dfb0fee2b93e376f5
+    content: Luis Elizondo had no assigned responsibilities for the Advanced Aerospace Threat Identification Program (AATIP)
+      while he was in the Office of the Under Secretary of Defense for Intelligence (OUSD(I)).
+    original_excerpt: Mr. Elizondo had no assigned responsibilities for AATIP while he was in OUSD(I) [the Office of Under
+      Secretary of Defense for Intelligence].
+    claim_type: administrative
+    attestation: second_hand
+    speaker:
+      node_id: 13b14438-a42d-4b08-8213-e10f6dd0d242
+      title: Susan Gough
+    provenance_chain:
+      origin_kind: named
+      origin: United States Department of Defense (DoD)
+      relay:
+        - Susan Gough, Pentagon spokesperson
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 13b14438-a42d-4b08-8213-e10f6dd0d242
+        title: Susan Gough
+        slug: susan-gough
+      - node_id: 6c1618c8-50db-42c9-860e-6d736ef280bf
+        title: Advanced Aerospace Threat Identification Program (AATIP)
+        slug: advanced-aerospace-threat-identification-program-aatip
+      - node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+        title: Luis Elizondo
+        slug: luis-elizondo
+      - node_id: f9c1f5e2-7a4b-4767-9954-a9d0f73bd908
+        title: Office of the Under Secretary of Defense for Intelligence (OUSDI)
+        slug: office-of-the-under-secretary-of-defense-for-intelligence-ousdi
+    date: '2019-06-14'
+    date_end: null
+    location_in_record: char:1261-1388
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 6277b269-0970-4c9f-bb3f-9af4babe813e
+      record_title: Pentagon Reinforces Mr. Luis Elizondo Had “No Responsibilities” on AATIP; Senator Harry Reid’s 2009 Memo
+        Changes Nothing - The Black Vault
+      record_date: '2019-06-14'
+      record_reference: https://www.theblackvault.com/documentarchive/pentagon-reinforces-mr-luis-elizondo-had-no-responsibilities-on-aatip-senator-harry-reids-2009-memo-changes-nothing/
+      content_hash: sha256:b5f3b4fc656776dcac742cb3190859da4a5d67bf028530c1aeea49b186b0adfc
+      friendly_name: 2019-06-14-web-pentagon-reinforces-mr-luis-elizondo-had-no
+  - claim_id: 63804801-eb60-4ab6-a5b1-78c3ca89a6df
+    claim_hash: 4ae768a20d52212f358f19c27c6562b42705a3d0452ddfc6b5864595faa65d39
+    content: The Department of Defense received the 2009 Harry Reid memo and responded to Senator Reid.
+    original_excerpt: DOD received it and responded to Sen. Reid,” Ms. Gough said.
+    claim_type: administrative
+    attestation: second_hand
+    speaker:
+      node_id: 13b14438-a42d-4b08-8213-e10f6dd0d242
+      title: Susan Gough
+    provenance_chain:
+      origin_kind: named
+      origin: United States Department of Defense (DoD)
+      relay:
+        - Susan Gough, Pentagon spokesperson
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 13b14438-a42d-4b08-8213-e10f6dd0d242
+        title: Susan Gough
+        slug: susan-gough
+      - node_id: 99f08514-5471-4eaf-bce3-46c474a8d304
+        title: United States Department of Defense (DoD)
+        slug: united-states-department-of-defense-dod
+      - node_id: c91974f0-961f-4db8-b7b0-22d4b846e5d5
+        title: Harry Reid
+        slug: harry-reid
+      - node_id: cec715ac-05d9-4eb4-b97a-dcbffb6bf2e5
+        title: Harry Reid memo to William Lynn III on Advanced Aerospace Threat Identification Program (AATIP) Special Access
+          Program status (2009-07-24)
+        slug: harry-reid-memo-to-william-lynn-iii-on-advanced-aerospace-threat-identification-program-aatip-special-access-program-status-2009-07-24
+    date: '2019-06-14'
+    date_end: null
+    location_in_record: char:3589-3644
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 6277b269-0970-4c9f-bb3f-9af4babe813e
+      record_title: Pentagon Reinforces Mr. Luis Elizondo Had “No Responsibilities” on AATIP; Senator Harry Reid’s 2009 Memo
+        Changes Nothing - The Black Vault
+      record_date: '2019-06-14'
+      record_reference: https://www.theblackvault.com/documentarchive/pentagon-reinforces-mr-luis-elizondo-had-no-responsibilities-on-aatip-senator-harry-reids-2009-memo-changes-nothing/
+      content_hash: sha256:b5f3b4fc656776dcac742cb3190859da4a5d67bf028530c1aeea49b186b0adfc
+      friendly_name: 2019-06-14-web-pentagon-reinforces-mr-luis-elizondo-had-no
+  - claim_id: 0382a0ad-52b0-4b0e-b07a-6e7f2133345f
+    claim_hash: e040872bde3a3396aab7f6f17f4c555baabf7f94a531d55c70e4f56b6e637132
+    content: Susan Gough's office is unable to provide The Black Vault a full copy of the Department of Defense's response
+      to Senator Harry Reid, since the Public Affairs office does not release Congressional correspondence.
+    original_excerpt: She then explains that her office is unable to provide The Black Vault a full copy of the response,
+      since the Public Affairs office does not release Congressional correspondence
+    claim_type: administrative
+    attestation: first_hand
+    speaker:
+      node_id: 13b14438-a42d-4b08-8213-e10f6dd0d242
+      title: Susan Gough
+    provenance_chain:
+      origin_kind: speaker
+      origin: Susan Gough
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 13b14438-a42d-4b08-8213-e10f6dd0d242
+        title: Susan Gough
+        slug: susan-gough
+      - node_id: 49e20a47-e0d6-429d-8e8e-f20f6705a850
+        title: The Black Vault
+        slug: the-black-vault
+      - node_id: 99f08514-5471-4eaf-bce3-46c474a8d304
+        title: United States Department of Defense (DoD)
+        slug: united-states-department-of-defense-dod
+      - node_id: c91974f0-961f-4db8-b7b0-22d4b846e5d5
+        title: Harry Reid
+        slug: harry-reid
+    date: '2019-06-14'
+    date_end: null
+    location_in_record: char:3650-3813
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 6277b269-0970-4c9f-bb3f-9af4babe813e
+      record_title: Pentagon Reinforces Mr. Luis Elizondo Had “No Responsibilities” on AATIP; Senator Harry Reid’s 2009 Memo
+        Changes Nothing - The Black Vault
+      record_date: '2019-06-14'
+      record_reference: https://www.theblackvault.com/documentarchive/pentagon-reinforces-mr-luis-elizondo-had-no-responsibilities-on-aatip-senator-harry-reids-2009-memo-changes-nothing/
+      content_hash: sha256:b5f3b4fc656776dcac742cb3190859da4a5d67bf028530c1aeea49b186b0adfc
+      friendly_name: 2019-06-14-web-pentagon-reinforces-mr-luis-elizondo-had-no
+  - claim_id: 66d595f4-434f-4b7e-873c-0e9500e329bf
+    claim_hash: 1b31e18ee0a1f7849ff3874cc4a9f513ed4c30a791ef4a59981e54a1ec9bd6ce
+    content: The Defense Intelligence Agency (DIA) administered the Advanced Aerospace Threat Identification Program (AATIP),
+      and Luis Elizondo was never assigned to the Defense Intelligence Agency.
+    original_excerpt: DIA [Defense Intelligence Agency] administered AATIP, and Elizondo was never assigned to DIA.
+    claim_type: administrative
+    attestation: second_hand
+    speaker:
+      node_id: 13b14438-a42d-4b08-8213-e10f6dd0d242
+      title: Susan Gough
+    provenance_chain:
+      origin_kind: named
+      origin: United States Department of Defense (DoD)
+      relay:
+        - Susan Gough, Pentagon spokesperson
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 13b14438-a42d-4b08-8213-e10f6dd0d242
+        title: Susan Gough
+        slug: susan-gough
+      - node_id: 382b6d6c-0182-4121-8bfc-525602d667b1
+        title: Defense Intelligence Agency (DIA)
+        slug: defense-intelligence-agency-dia
+      - node_id: 6c1618c8-50db-42c9-860e-6d736ef280bf
+        title: Advanced Aerospace Threat Identification Program (AATIP)
+        slug: advanced-aerospace-threat-identification-program-aatip
+      - node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+        title: Luis Elizondo
+        slug: luis-elizondo
+    date: '2019-06-14'
+    date_end: null
+    location_in_record: char:3968-4058
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 6277b269-0970-4c9f-bb3f-9af4babe813e
+      record_title: Pentagon Reinforces Mr. Luis Elizondo Had “No Responsibilities” on AATIP; Senator Harry Reid’s 2009 Memo
+        Changes Nothing - The Black Vault
+      record_date: '2019-06-14'
+      record_reference: https://www.theblackvault.com/documentarchive/pentagon-reinforces-mr-luis-elizondo-had-no-responsibilities-on-aatip-senator-harry-reids-2009-memo-changes-nothing/
+      content_hash: sha256:b5f3b4fc656776dcac742cb3190859da4a5d67bf028530c1aeea49b186b0adfc
+      friendly_name: 2019-06-14-web-pentagon-reinforces-mr-luis-elizondo-had-no
+  - claim_id: 78ca86ac-7275-4292-b1e7-857a73689ebc
+    claim_hash: 6cce399eabd14bf8ecb420bc4c607370df3b0fdfcd3cb9ef0398f6bf500ba1c9
+    content: Luis Elizondo did interact with the Defense Intelligence Agency office managing the Advanced Aerospace Threat
+      Identification Program (AATIP) while the program was still ongoing, but he did not lead it.
+    original_excerpt: Elizondo did interact with the DIA office managing the program while the program was still ongoing,
+      but he did not lead it.
+    claim_type: administrative
+    attestation: second_hand
+    speaker:
+      node_id: 13b14438-a42d-4b08-8213-e10f6dd0d242
+      title: Susan Gough
+    provenance_chain:
+      origin_kind: named
+      origin: United States Department of Defense (DoD)
+      relay:
+        - Susan Gough, Pentagon spokesperson
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 13b14438-a42d-4b08-8213-e10f6dd0d242
+        title: Susan Gough
+        slug: susan-gough
+      - node_id: 382b6d6c-0182-4121-8bfc-525602d667b1
+        title: Defense Intelligence Agency (DIA)
+        slug: defense-intelligence-agency-dia
+      - node_id: 6c1618c8-50db-42c9-860e-6d736ef280bf
+        title: Advanced Aerospace Threat Identification Program (AATIP)
+        slug: advanced-aerospace-threat-identification-program-aatip
+      - node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+        title: Luis Elizondo
+        slug: luis-elizondo
+    date: '2019-06-14'
+    date_end: null
+    location_in_record: char:4063-4183
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 6277b269-0970-4c9f-bb3f-9af4babe813e
+      record_title: Pentagon Reinforces Mr. Luis Elizondo Had “No Responsibilities” on AATIP; Senator Harry Reid’s 2009 Memo
+        Changes Nothing - The Black Vault
+      record_date: '2019-06-14'
+      record_reference: https://www.theblackvault.com/documentarchive/pentagon-reinforces-mr-luis-elizondo-had-no-responsibilities-on-aatip-senator-harry-reids-2009-memo-changes-nothing/
+      content_hash: sha256:b5f3b4fc656776dcac742cb3190859da4a5d67bf028530c1aeea49b186b0adfc
+      friendly_name: 2019-06-14-web-pentagon-reinforces-mr-luis-elizondo-had-no
+  - claim_id: 405fbf0d-e4e7-493b-8ee7-bf12003574e3
+    claim_hash: 5b3902d60f9305b691fbaecfa04dedf3b6db4010df96cea3209514185912fe46
+    content: Susan Gough said an intelligence report had formally attributed some of the military Unidentified Aerial Phenomena
+      (UAP) sightings to Chinese surveillance using relatively ordinary drone technology.
+    original_excerpt: Ms Gough asserted an intelligence report had formally attributed *some* (my emphasis) of the military
+      sightings to Chinese surveillance, 'with relatively ordinary drone technology'.
+    claim_type: testimony
+    attestation: second_hand
+    speaker:
+      node_id: 13b14438-a42d-4b08-8213-e10f6dd0d242
+      title: Susan Gough
+    provenance_chain:
+      origin_kind: named
+      origin: Susan Gough
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 13b14438-a42d-4b08-8213-e10f6dd0d242
+        title: Susan Gough
+        slug: susan-gough
+      - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
+        title: Unidentified Anomalous Phenomena (UAP)
+        slug: unidentified-anomalous-phenomena-uap
+      - node_id: 95f26306-d457-4b86-8b8e-c83e0906740c
+        title: China
+        slug: china
+    date: null
+    date_end: null
+    location_in_record: ch29:25190-25359
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 2a22065c-f361-482e-b6eb-0f4b4895609a
+    claim_hash: 9d991147c4742dacd1465dd20d53f42a69f9782bc2b6acc27c7a39a8a47ca8c0
+    content: Susan Gough admitted the Pentagon knew in October 2022, four months prior to the February 2023 Super Bowl week
+      shoot-downs, that it was aware of potentially dangerous balloons or drones in American airspace.
+    original_excerpt: She admitted the Pentagon knew in October 2022, four months prior to the Super Bowl week shoot-downs,
+      that they were aware of potentially dangerous balloons or drones in American airspace.
+    claim_type: testimony
+    attestation: second_hand
+    speaker:
+      node_id: 13b14438-a42d-4b08-8213-e10f6dd0d242
+      title: Susan Gough
+    provenance_chain:
+      origin_kind: named
+      origin: Susan Gough
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 13b14438-a42d-4b08-8213-e10f6dd0d242
+        title: Susan Gough
+        slug: susan-gough
+      - node_id: 6eabc3e2-0748-4914-8561-60ad3541b3e6
+        title: 2023 'Balloongate' Unidentified Aerial Phenomena (UAP) shoot-down controversy
+        slug: 2023-balloongate-unidentified-aerial-phenomena-uap-shoot-down-controversy
+    date: 2022-10
+    date_end: null
+    location_in_record: ch29:29481-29660
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 50129d62-2168-4840-bdf8-28c0a8755de4
+    claim_hash: 94f437df80edabffa9fcc9ce039bca6286a260d438dad7452a9a77ae9acc8e24
+    content: Chris Sharp put to Susan Gough at the Pentagon that the term non-human intelligence (NHI) be used in substitution,
+      and she would not allow it.
+    original_excerpt: iend Chris Sharp has put that to Susan Goff at the Pentagon, and she won't allow him to use NHI in substitution.
+    claim_type: testimony
+    attestation: second_hand
+    speaker:
+      node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+      title: Ross Coulthart
+    provenance_chain:
+      origin_kind: named
+      origin: Chris Sharp
+      relay:
+        - Ross Coulthart
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 13b14438-a42d-4b08-8213-e10f6dd0d242
+        title: Susan Gough
+        slug: susan-gough
+      - node_id: 403edb72-ebc4-4b89-8746-4cd19e089691
+        title: The Pentagon
+        slug: the-pentagon
+      - node_id: 9c74d864-957a-4654-a5b6-1249fe654ec7
+        title: Non-Human Intelligence
+        slug: non-human-intelligence
+      - node_id: e921bccc-8a7a-4279-9873-8f3a5997be16
+        title: Christopher Sharp
+        slug: christopher-sharp
+    date: null
+    date_end: null
+    location_in_record: 01:04:01.7-01:04:08.4
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: fd845823-8784-462c-a981-4775525b6f84
+      record_title: The DANGEROUS Truth About UFOs - Ross Coulthart | DEBRIEFED ep. 76
+      record_date: '2026-02-20'
+      record_reference: https://www.youtube.com/watch?v=idBryc0eWww
+      content_hash: sha256:73be106d406f6d35a063a894e8384e7da0918eb8597d2107a9e3653becca2bdc
+      friendly_name: null
+  - claim_id: a60f5f23-6e93-486f-9ee7-9af53167ddf7
+    claim_hash: a0e1b50b87c4f17c24e647cd8602fa41c78e959a7c7bf18a297178daa1033552
+    content: James Lacatski wrote that close coordination between Pentagon spokesman Susan Gough and Sean Kirkpatrick became
+      obvious after the All-Domain Anomaly Resolution Office report on UFOs was released on 2023-01-12.
+    original_excerpt: there's a close coordination, Lacatski writes, between of the Pentagon spokesman Susan Gao and Kirkpatrick,
+      Dr. Kirkpatrick, became obvious after the AARO Report on UFOs was released on January 12, 2023.
+    claim_type: opinion
+    attestation: second_hand
+    speaker:
+      node_id: 0d4dfba6-a53b-4f23-a2ad-e4c9bea44076
+      title: Robert Bigelow
+    provenance_chain:
+      origin_kind: named
+      origin: James Lacatski
+      relay:
+        - Robert Bigelow reading his book aloud
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 02b74577-f272-4ae7-8520-5fda4eacb5f2
+        title: Sean Kirkpatrick
+        slug: sean-kirkpatrick
+      - node_id: 13b14438-a42d-4b08-8213-e10f6dd0d242
+        title: Susan Gough
+        slug: susan-gough
+      - node_id: 3a865991-eaad-4855-8980-b28dfb98691a
+        title: James Lacatski
+        slug: james-lacatski
+      - node_id: 403edb72-ebc4-4b89-8746-4cd19e089691
+        title: The Pentagon
+        slug: the-pentagon
+      - node_id: e498e3b9-87de-44e8-877a-46b8acc68ab1
+        title: All-Domain Anomaly Resolution Office report on UFOs 2023-01-12
+        slug: all-domain-anomaly-resolution-office-report-on-ufos-2023-01-12
+    date: '2023-01-12'
+    date_end: null
+    location_in_record: 00:10:02.3-00:10:16.8
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 5de4e296-4206-45f6-aa56-c3b8efb5c9e2
+      record_title: The Evolution of AAWSAP | Bigelow Podcast, Ep. 2
+      record_date: '2026-08-11'
+      record_reference: https://www.youtube.com/watch?v=hz7jHEgYzQw
+      content_hash: sha256:1aa9d864c5a4bb930164c278d9624c6bc0f84278ea4b5e57594fae9e21e90858
+      friendly_name: null

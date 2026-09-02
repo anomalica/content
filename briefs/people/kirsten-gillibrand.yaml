@@ -1,0 +1,414 @@
+schema: anomalica/brief/1
+brief_hash: 32a766464f712738b55e1e79a676b333e805dd517efd5e7831dadfe77e236bda
+page:
+  kind: entity
+  node_id: 8e578903-f8a2-44e4-ae42-3ede681682e8
+  node_type: person
+  title: Kirsten Gillibrand
+  slug: kirsten-gillibrand
+  claim_count: 7
+  claim_count_total: 7
+generated:
+  graph_version: '2026-09-01T10:10:49.863545+00:00'
+size:
+  claims: 7
+  tokens_estimated: 2221
+  sized_against: 1050000
+publication:
+  status: published
+  note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
+    transcripts are gated elsewhere.
+belonging:
+  verified: 0
+  suspect_excluded: 0
+  unreviewed: 7
+related_nodes:
+  - node_id: 981b261d-7fb4-408c-a643-0bd820a4c4ca
+    title: Marco Rubio
+    node_type: person
+    slug: marco-rubio
+    shared_claims: 4
+  - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
+    title: Unidentified Anomalous Phenomena (UAP)
+    node_type: topic
+    slug: unidentified-anomalous-phenomena-uap
+    shared_claims: 2
+  - node_id: 5d06f518-dd64-4429-9026-b930e88660d2
+    title: Christopher K. Mellon
+    node_type: person
+    slug: christopher-k-mellon
+    shared_claims: 1
+  - node_id: 21c03772-b277-4f24-9f35-27aa5b3b5d7a
+    title: Chuck Schumer
+    node_type: person
+    slug: chuck-schumer
+    shared_claims: 1
+  - node_id: a44d0359-4812-4979-8801-eb7f75f786f3
+    title: FY2024 National Defense Authorization Act
+    node_type: document
+    slug: fy2024-national-defense-authorization-act
+    shared_claims: 1
+  - node_id: 21f9d7aa-0cd8-4a9e-8153-a4bcc85c77ad
+    title: Joe Biden
+    node_type: person
+    slug: joe-biden
+    shared_claims: 1
+  - node_id: f09d54bd-8f71-4dc7-a618-62d9bc37508a
+    title: Lindsey Graham
+    node_type: person
+    slug: lindsey-graham
+    shared_claims: 1
+  - node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+    title: Luis Elizondo
+    node_type: person
+    slug: luis-elizondo
+    shared_claims: 1
+  - node_id: 7279dc3d-8056-4661-8d31-66398e4fc864
+    title: Martin Heinrich
+    node_type: person
+    slug: martin-heinrich
+    shared_claims: 1
+  - node_id: 64b5d145-8c58-4c80-86ba-628da6aee6ec
+    title: Mike Rounds
+    node_type: person
+    slug: mike-rounds
+    shared_claims: 1
+  - node_id: e6a30ca9-6ec3-4bbe-9d72-3c8db8ecdfa7
+    title: National Defense Authorization Act for Fiscal Year 2023 (FY2023 NDAA)
+    node_type: document
+    slug: national-defense-authorization-act-for-fiscal-year-2023-fy2023-ndaa
+    shared_claims: 1
+  - node_id: 66f038af-f928-46f9-a46e-69aa7ba0a79d
+    title: Roy Blunt
+    node_type: person
+    slug: roy-blunt
+    shared_claims: 1
+  - node_id: 26734bde-b2a6-4ef5-b186-6d1bb2fb72f5
+    title: Ruben Gallego
+    node_type: person
+    slug: ruben-gallego
+    shared_claims: 1
+  - node_id: 02b74577-f272-4ae7-8520-5fda4eacb5f2
+    title: Sean Kirkpatrick
+    node_type: person
+    slug: sean-kirkpatrick
+    shared_claims: 1
+  - node_id: ff987e6a-6593-419d-bc4f-6435848c3a59
+    title: Sean Kirkpatrick testimony to the Senate Armed Services Committee 2023-04-19
+    node_type: event
+    slug: sean-kirkpatrick-testimony-to-the-senate-armed-services-committee-2023-04-19
+    shared_claims: 1
+  - node_id: 892a2221-56f5-471e-942f-ebdf5967d7be
+    title: Senate Armed Services Committee
+    node_type: organisation
+    slug: senate-armed-services-committee
+    shared_claims: 1
+  - node_id: da0ae6a2-3fcc-4a18-b9ba-2e215b0c66a9
+    title: Unidentified Aerial Phenomena (UAP) Disclosure Act
+    node_type: document
+    slug: unidentified-aerial-phenomena-uap-disclosure-act
+    shared_claims: 1
+claims:
+  - claim_id: 4edfb886-4ae6-43e2-b9ab-4aa2363d4834
+    claim_hash: 66336262495a7d058b2383f56da4324ca2e4c5dbbcc94ee0b56bcf8e33b6a172
+    content: Marco Rubio made a bipartisan effort with Democratic Senator Kristen Gillibrand to create an office to establish
+      a coordinated effort to report and respond to unidentified objects.
+    original_excerpt: and he pointed to his bipartisan eff ort with Democratic Senator Kristen Gillibrand, creating an offi
+      ce to establish a coordinated eff ort to report and respond to unidentifi ed objects.
+    claim_type: administrative
+    attestation: first_hand
+    speaker:
+      node_id: 981b261d-7fb4-408c-a643-0bd820a4c4ca
+      title: Marco Rubio
+    provenance_chain:
+      origin_kind: speaker
+      origin: Marco Rubio
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 8e578903-f8a2-44e4-ae42-3ede681682e8
+        title: Kirsten Gillibrand
+        slug: kirsten-gillibrand
+      - node_id: 981b261d-7fb4-408c-a643-0bd820a4c4ca
+        title: Marco Rubio
+        slug: marco-rubio
+    date: null
+    date_end: null
+    location_in_record: ch29:31373-31552
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: eb5c953e-3be8-4fdc-b75e-6b8e65f8ee6b
+    claim_hash: 099e571d4e11d8c2df03c2cfdbde456de497db7439332eb48c3f03342a6d6f5e
+    content: The National Defense Authorization Act for Fiscal Year 2023 was spearheaded by Senators Kirsten Gillibrand and
+      Marco Rubio and signed into law by President Joe Biden in December 2022.
+    original_excerpt: spearheaded by Senators Kirsten Gillibrand and Marco Rubio and signed into law by President Biden in
+      December 2022.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 21f9d7aa-0cd8-4a9e-8153-a4bcc85c77ad
+        title: Joe Biden
+        slug: joe-biden
+      - node_id: 8e578903-f8a2-44e4-ae42-3ede681682e8
+        title: Kirsten Gillibrand
+        slug: kirsten-gillibrand
+      - node_id: 981b261d-7fb4-408c-a643-0bd820a4c4ca
+        title: Marco Rubio
+        slug: marco-rubio
+      - node_id: e6a30ca9-6ec3-4bbe-9d72-3c8db8ecdfa7
+        title: National Defense Authorization Act for Fiscal Year 2023 (FY2023 NDAA)
+        slug: national-defense-authorization-act-for-fiscal-year-2023-fy2023-ndaa
+    date: 2022-12
+    date_end: null
+    location_in_record: char:7299-7409
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e790e3f8-b1a1-4ca3-893a-02d67f8815d7
+      record_title: Intelligence Officials Say U.S. Has Retrieved Craft of Non-Human Origin
+      record_date: '2023-06-05'
+      record_reference: https://thedebrief.org/intelligence-officials-say-u-s-has-retrieved-non-human-craft/
+      content_hash: sha256:5ce8e38071f914d4dbb950938474d8e00a0a59d120d4391a2e90baa5da5d4335
+      friendly_name: 2023-06-05-web-intelligence-officials-say-u-s-has-retrieved-craft-of-non
+  - claim_id: adea157c-4485-459e-9776-d1a66737c42e
+    claim_hash: a9151f193da628e874be9b375c2ac9e4692133f97f1c30fb1781fa401a83c3a6
+    content: Republican senators Roy Blunt, Lindsey Graham, and Marco Rubio, and Democratic senators Kirsten Gillibrand and
+      Martin Heinrich, and Democratic representative Ruben Gallego worked together, with assistance from Christopher Mellon
+      and Lue Elizondo, to craft aggressive Unidentified Aerial Phenomena (UAP) language for the National Defense Authorization
+      Act (NDAA).
+    original_excerpt: Republican senators Roy Blunt of Missouri, Lindsey Graham of South Carolina, and Marco Rubio of Florida;
+      Democratic senators Kirsten Gillibrand of New York and Martin Heinrich of Arizona; and Democratic representative Ruben
+      Gallego of Arizona all worked together to craft aggressive language, with some help from Chris and me.
+    claim_type: administrative
+    attestation: first_hand
+    speaker:
+      node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+      title: Luis Elizondo
+    provenance_chain:
+      origin_kind: speaker
+      origin: Lue Elizondo
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 26734bde-b2a6-4ef5-b186-6d1bb2fb72f5
+        title: Ruben Gallego
+        slug: ruben-gallego
+      - node_id: 5d06f518-dd64-4429-9026-b930e88660d2
+        title: Christopher K. Mellon
+        slug: christopher-k-mellon
+      - node_id: 66f038af-f928-46f9-a46e-69aa7ba0a79d
+        title: Roy Blunt
+        slug: roy-blunt
+      - node_id: 7279dc3d-8056-4661-8d31-66398e4fc864
+        title: Martin Heinrich
+        slug: martin-heinrich
+      - node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+        title: Luis Elizondo
+        slug: luis-elizondo
+      - node_id: 8e578903-f8a2-44e4-ae42-3ede681682e8
+        title: Kirsten Gillibrand
+        slug: kirsten-gillibrand
+      - node_id: 981b261d-7fb4-408c-a643-0bd820a4c4ca
+        title: Marco Rubio
+        slug: marco-rubio
+      - node_id: a44d0359-4812-4979-8801-eb7f75f786f3
+        title: FY2024 National Defense Authorization Act
+        slug: fy2024-national-defense-authorization-act
+      - node_id: f09d54bd-8f71-4dc7-a618-62d9bc37508a
+        title: Lindsey Graham
+        slug: lindsey-graham
+    date: null
+    date_end: null
+    location_in_record: ch31:25733-26056
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  - claim_id: 1dc36bd4-3c1a-4ea3-908e-ce508321b2b9
+    claim_hash: c6237c442a6878f46b58c979ab6fe2d0dc6431aea7f58bd257cb932861a80279
+    content: In the summer of 2023, Senate Majority Leader Chuck Schumer, Senator Mike Rounds, Senator Marco Rubio, and Senator
+      Kirsten Gillibrand sponsored the UAP Disclosure Act.
+    original_excerpt: In the summer of 2023, Senate Majority Leader Chuck Schumer of New York, Senator Mike Rounds of South
+      Dakota, Senator Rubio, and Senator Gillibrand sponsored the most historic UAP legislation yet, the UAP Disclosure Act
+    claim_type: administrative
+    attestation: first_hand
+    speaker:
+      node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+      title: Luis Elizondo
+    provenance_chain:
+      origin_kind: speaker
+      origin: Lue Elizondo
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 21c03772-b277-4f24-9f35-27aa5b3b5d7a
+        title: Chuck Schumer
+        slug: chuck-schumer
+      - node_id: 64b5d145-8c58-4c80-86ba-628da6aee6ec
+        title: Mike Rounds
+        slug: mike-rounds
+      - node_id: 8e578903-f8a2-44e4-ae42-3ede681682e8
+        title: Kirsten Gillibrand
+        slug: kirsten-gillibrand
+      - node_id: 981b261d-7fb4-408c-a643-0bd820a4c4ca
+        title: Marco Rubio
+        slug: marco-rubio
+      - node_id: da0ae6a2-3fcc-4a18-b9ba-2e215b0c66a9
+        title: Unidentified Aerial Phenomena (UAP) Disclosure Act
+        slug: unidentified-aerial-phenomena-uap-disclosure-act
+    date: 2023-07
+    date_end: null
+    location_in_record: ch32:3989-4205
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  - claim_id: 92a34504-1cc1-484f-8e5a-03c17988a204
+    claim_hash: 998b7f85eabfa3dc60545c14abfa9f006087a0d6ecd2d48f388572a82722fd0c
+    content: Kirsten Gillibrand considers understanding Unidentified Aerial Phenomena (UAP) critical to national security
+      and to maintaining all-domain awareness.
+    original_excerpt: “Understanding UAP is critical to our national security and to maintaining all-domain awareness. Declassifying
+      previous records related to UAP is part of that mission and I’m proud to support this important amendment.” —Senator
+      Kirsten Gillibrand
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 8e578903-f8a2-44e4-ae42-3ede681682e8
+      title: Kirsten Gillibrand
+    provenance_chain:
+      origin_kind: speaker
+      origin: Kirsten Gillibrand
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
+        title: Unidentified Anomalous Phenomena (UAP)
+        slug: unidentified-anomalous-phenomena-uap
+      - node_id: 8e578903-f8a2-44e4-ae42-3ede681682e8
+        title: Kirsten Gillibrand
+        slug: kirsten-gillibrand
+    date: null
+    date_end: null
+    location_in_record: ch35:3264-3501
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  - claim_id: 72f2e563-ca45-4368-a636-ae68f7a5ce96
+    claim_hash: dc6ed33389b9a51f6a032a09ccc33c589195c886746e026fe51d2ef7b3410eb7
+    content: Kirsten Gillibrand supported an amendment to declassify previous records related to Unidentified Aerial Phenomena
+      (UAP).
+    original_excerpt: Declassifying previous records related to UAP is part of that mission and I’m proud to support this
+      important amendment.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 8e578903-f8a2-44e4-ae42-3ede681682e8
+      title: Kirsten Gillibrand
+    provenance_chain:
+      origin_kind: speaker
+      origin: Kirsten Gillibrand
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
+        title: Unidentified Anomalous Phenomena (UAP)
+        slug: unidentified-anomalous-phenomena-uap
+      - node_id: 8e578903-f8a2-44e4-ae42-3ede681682e8
+        title: Kirsten Gillibrand
+        slug: kirsten-gillibrand
+    date: null
+    date_end: null
+    location_in_record: ch35:3360-3470
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  - claim_id: 1a2b43d7-a381-4539-912d-99a749fdf43a
+    claim_hash: be2acfa144ede11896b52e4258a25287899b396aae8ca3642e1ea2489ca854fa
+    content: On 2023-04-19, Sean Kirkpatrick testified before Kirsten Gillibrand's Senate Armed Services Committee.
+    original_excerpt: Then on April the 19th, 2023, Kirkpatrick testified before Senator Gillibrand's Senate Armed Services
+      Committee.
+    claim_type: administrative
+    attestation: second_hand
+    speaker:
+      node_id: 0d4dfba6-a53b-4f23-a2ad-e4c9bea44076
+      title: Robert Bigelow
+    provenance_chain:
+      origin_kind: document
+      origin: James Lacatski's book
+      relay:
+        - Robert Bigelow reading aloud
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 02b74577-f272-4ae7-8520-5fda4eacb5f2
+        title: Sean Kirkpatrick
+        slug: sean-kirkpatrick
+      - node_id: 892a2221-56f5-471e-942f-ebdf5967d7be
+        title: Senate Armed Services Committee
+        slug: senate-armed-services-committee
+      - node_id: 8e578903-f8a2-44e4-ae42-3ede681682e8
+        title: Kirsten Gillibrand
+        slug: kirsten-gillibrand
+      - node_id: ff987e6a-6593-419d-bc4f-6435848c3a59
+        title: Sean Kirkpatrick testimony to the Senate Armed Services Committee 2023-04-19
+        slug: sean-kirkpatrick-testimony-to-the-senate-armed-services-committee-2023-04-19
+    date: '2023-04-19'
+    date_end: null
+    location_in_record: 00:10:34.5-00:10:42.7
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 5de4e296-4206-45f6-aa56-c3b8efb5c9e2
+      record_title: The Evolution of AAWSAP | Bigelow Podcast, Ep. 2
+      record_date: '2026-08-11'
+      record_reference: https://www.youtube.com/watch?v=hz7jHEgYzQw
+      content_hash: sha256:1aa9d864c5a4bb930164c278d9624c6bc0f84278ea4b5e57594fae9e21e90858
+      friendly_name: null

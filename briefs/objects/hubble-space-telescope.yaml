@@ -1,0 +1,825 @@
+schema: anomalica/brief/1
+brief_hash: fd7af2c769ace1437d2508cdd72c650541648a2c562ee33f2a6a9f2d1bb39f93
+page:
+  kind: entity
+  node_id: 157467a7-3117-469e-a12d-5d2487f21920
+  node_type: object
+  title: Hubble Space Telescope
+  slug: hubble-space-telescope
+  claim_count: 18
+  claim_count_total: 18
+generated:
+  graph_version: '2026-09-01T10:10:49.863545+00:00'
+size:
+  claims: 18
+  tokens_estimated: 5748
+  sized_against: 1050000
+publication:
+  status: published
+  note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
+    transcripts are gated elsewhere.
+belonging:
+  verified: 0
+  suspect_excluded: 0
+  unreviewed: 18
+related_nodes:
+  - node_id: e1650a1d-8feb-4841-a403-0d71e176d2d9
+    title: Richard C. Hoagland
+    node_type: person
+    slug: richard-c-hoagland
+    shared_claims: 5
+  - node_id: 26e7be21-d995-4398-b1a0-7726c4469b1e
+    title: High Speed Photometer (Hubble instrument)
+    node_type: object
+    slug: high-speed-photometer-hubble-instrument
+    shared_claims: 4
+  - node_id: d24f960b-8fe7-4869-bb6c-8477fd067677
+    title: Mars Pathfinder
+    node_type: object
+    slug: mars-pathfinder
+    shared_claims: 4
+  - node_id: 73d4f081-a30f-4212-a93f-f697d6a73051
+    title: Mars Observer
+    node_type: object
+    slug: mars-observer
+    shared_claims: 2
+  - node_id: 5e47c787-005b-4c91-ba4b-c9bec48146c9
+    title: National Aeronautics and Space Administration (NASA)
+    node_type: organisation
+    slug: national-aeronautics-and-space-administration-nasa
+    shared_claims: 2
+  - node_id: 90e3876c-6482-4dc0-85b7-f23f374a9a93
+    title: Apollo 17 landing site, Taurus-Littrow
+    node_type: place
+    slug: taurus-littrow-apollo-17-landing-site
+    shared_claims: 1
+  - node_id: 01580a56-8e88-4336-aadc-0aa38c00f84e
+    title: Gene Roddenberry
+    node_type: person
+    slug: gene-roddenberry
+    shared_claims: 1
+  - node_id: db3c19ff-53e8-4a30-8a55-a32e0ecde90e
+    title: Jim Garvin
+    node_type: person
+    slug: jim-garvin
+    shared_claims: 1
+  - node_id: f25082a3-50ed-43ae-ac84-f99bc7ea460f
+    title: Lunar Crater Observation and Sensing Satellite (LCROSS)
+    node_type: object
+    slug: lunar-crater-observation-and-sensing-satellite-lcross
+    shared_claims: 1
+  - node_id: 20bc60dc-9d88-4ad8-bcbb-17de912c6733
+    title: Mars Observer Laser Altimeter
+    node_type: object
+    slug: mars-observer-laser-altimeter
+    shared_claims: 1
+  - node_id: 285631b3-9dd0-4705-9e57-c7d8df7ad666
+    title: Mars Pathfinder Hubble pre-landing weather reconnaissance, 1997
+    node_type: event
+    slug: 1997-mars-pathfinder-hubble-pre-landing-weather-reconnaissance
+    shared_claims: 1
+  - node_id: 3e3d0fe7-a2cf-4e09-ab26-7beca4bece48
+    title: NASA Jet Propulsion Laboratory (JPL)
+    node_type: organisation
+    slug: nasa-jet-propulsion-laboratory-jpl
+    shared_claims: 1
+  - node_id: 6603cbc5-4d54-412d-8242-c933d6d2410c
+    title: STS-61 (Hubble Servicing Mission)
+    node_type: project
+    slug: sts-61-hubble-servicing-mission
+    shared_claims: 1
+  - node_id: f23b3f3a-16ad-408c-9e21-4dcbd82948f5
+    title: Saturn
+    node_type: object
+    slug: saturn
+    shared_claims: 1
+  - node_id: 3dbb3456-f49b-413f-9496-c4b0acd10ef0
+    title: South Massif (Taurus-Littrow)
+    node_type: place
+    slug: south-massif-taurus-littrow
+    shared_claims: 1
+  - node_id: 0caff968-782b-4f02-bfcd-3be1c0810d20
+    title: Space Transportation System (Space Shuttle programme)
+    node_type: project
+    slug: space-transportation-system-space-shuttle-programme
+    shared_claims: 1
+  - node_id: 0cccb91b-636d-47ae-8478-704bf67db8aa
+    title: 'Star Trek: The Next Generation (television series)'
+    node_type: document
+    slug: star-trek-the-next-generation-television-series
+    shared_claims: 1
+  - node_id: 5c68f24e-3789-4d6e-925c-def676dc00c6
+    title: USA, District of Columbia, Dunbar Senior High School
+    node_type: place
+    slug: district-of-columbia-dunbar-senior-high-school-usa
+    shared_claims: 1
+  - node_id: ab63774b-6526-48b8-9aff-358ac45f683a
+    title: USA, Texas, Houston, Manned Spacecraft Center
+    node_type: place
+    slug: texas-houston-manned-spacecraft-center-usa
+    shared_claims: 1
+  - node_id: 9b42c06f-0a41-4f13-bc8a-a81867e9dad0
+    title: USS Dunbar (educational project)
+    node_type: project
+    slug: uss-dunbar-educational-project
+    shared_claims: 1
+  - node_id: c9963801-6309-4edd-a803-5fd357dbcaf9
+    title: Vision for Space Exploration
+    node_type: project
+    slug: vision-for-space-exploration
+    shared_claims: 1
+claims:
+  - claim_id: 35829ddf-e899-4a8a-a7cf-596f2fbfa457
+    claim_hash: 10eaa0287dd09960b020f5773a4fc09621f446e48d4570e6e1276f79bcbc4e40
+    content: The USS Dunbar project was designed by Richard C. Hoagland and colleagues, drawing on the Star Trek motif of
+      Gene Roddenberry, to stimulate interest in science among students at the 99% black inner-city Dunbar Senior High School
+      by focusing research on real space science issues including the Hubble Space Telescope, the Magellan Venus Mission,
+      and Mars.
+    original_excerpt: Drawing unabashedly upon the Star Trek motif of his friend Gene Roddenberry, the U.S.S. Dunbar was designed
+      by Hoagland and colleagues to stimulate interest in science among the students at this 99% black inner-city school by
+      focusing their research on various real space science issues and arguments within NASA—such as the Hubble Telescope;
+      the Magellan Venus Mission; and Mars.
+    claim_type: administrative
+    attestation: first_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: speaker
+      origin: Richard C. Hoagland
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 01580a56-8e88-4336-aadc-0aa38c00f84e
+        title: Gene Roddenberry
+        slug: gene-roddenberry
+      - node_id: 0cccb91b-636d-47ae-8478-704bf67db8aa
+        title: 'Star Trek: The Next Generation (television series)'
+        slug: star-trek-the-next-generation-television-series
+      - node_id: 157467a7-3117-469e-a12d-5d2487f21920
+        title: Hubble Space Telescope
+        slug: hubble-space-telescope
+      - node_id: 5c68f24e-3789-4d6e-925c-def676dc00c6
+        title: USA, District of Columbia, Dunbar Senior High School
+        slug: district-of-columbia-dunbar-senior-high-school-usa
+      - node_id: 9b42c06f-0a41-4f13-bc8a-a81867e9dad0
+        title: USS Dunbar (educational project)
+        slug: uss-dunbar-educational-project
+      - node_id: e1650a1d-8feb-4841-a403-0d71e176d2d9
+        title: Richard C. Hoagland
+        slug: richard-c-hoagland
+    date: null
+    date_end: null
+    location_in_record: ch10:10698-11077
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+      record_title: Dark Mission
+      record_date: '2010-07-22'
+      record_reference: null
+      content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+      friendly_name: null
+  - claim_id: 94462b51-cd31-4dda-8b7d-a0d01f2838a4
+    claim_hash: 6e3e97d3f4baf843d62cb20f650b471b5177d1a139934816e7aacce33dfdd325
+    content: An anonymous source, in a call to Richard C. Hoagland a few months after the Mars Observer voicemails, said the
+      Hubble Space Telescope was being used to photograph UFOs using its high-speed photometer instrument, and that the then-imminent
+      Hubble repair mission would secretly bring back videotapes of the event.
+    original_excerpt: A few months later, another anonymous source told Hoagland that the Hubble Space Telescope was being
+      used to “photograph UFOs” using a light gathering device called the “high speed photometer,” and that the (then) imminent
+      “Hubble Repair Mission” was going to secretly bring back a load of videotapes of the event.
+    claim_type: hearsay
+    attestation: second_hand
+    speaker:
+      node_id: e1650a1d-8feb-4841-a403-0d71e176d2d9
+      title: Richard C. Hoagland
+    provenance_chain:
+      origin_kind: anonymous
+      origin: an anonymous caller to Richard C. Hoagland
+      relay:
+        - a phone call to Richard C. Hoagland
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 157467a7-3117-469e-a12d-5d2487f21920
+        title: Hubble Space Telescope
+        slug: hubble-space-telescope
+      - node_id: 26e7be21-d995-4398-b1a0-7726c4469b1e
+        title: High Speed Photometer (Hubble instrument)
+        slug: high-speed-photometer-hubble-instrument
+      - node_id: e1650a1d-8feb-4841-a403-0d71e176d2d9
+        title: Richard C. Hoagland
+        slug: richard-c-hoagland
+    date: null
+    date_end: null
+    location_in_record: ch10:46042-46352
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+      record_title: Dark Mission
+      record_date: '2010-07-22'
+      record_reference: null
+      content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+      friendly_name: null
+  - claim_id: 01943267-62ef-4b4f-a9f6-2cd93021f577
+    claim_hash: 7c84257322cd1b820838d0a3fbde1f8896a9d6dc817225e35c86db23267ac861
+    content: An anonymous caller, in a call to Richard C. Hoagland a couple of days after the Hubble Space Telescope call,
+      said Hubble was to be used in a future "New World Order" laser light display in the clouds to fake the Second Coming.
+    original_excerpt: Then another caller, a couple days later, called with an even more extraordinary tale … that Hubble
+      was to be used in a future “New World Order ‘laser light display in the clouds ... to fake the Second Coming!’”
+    claim_type: hearsay
+    attestation: second_hand
+    speaker:
+      node_id: e1650a1d-8feb-4841-a403-0d71e176d2d9
+      title: Richard C. Hoagland
+    provenance_chain:
+      origin_kind: anonymous
+      origin: an anonymous caller to Richard C. Hoagland
+      relay:
+        - a phone call to Richard C. Hoagland
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 157467a7-3117-469e-a12d-5d2487f21920
+        title: Hubble Space Telescope
+        slug: hubble-space-telescope
+      - node_id: e1650a1d-8feb-4841-a403-0d71e176d2d9
+        title: Richard C. Hoagland
+        slug: richard-c-hoagland
+    date: null
+    date_end: null
+    location_in_record: ch10:46359-46564
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+      record_title: Dark Mission
+      record_date: '2010-07-22'
+      record_reference: null
+      content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+      friendly_name: null
+  - claim_id: 106c4a35-a4e3-45f1-a8fc-5ee6f331bdd1
+    claim_hash: 24ec6d79e33f157a3dbe5052c77491d222333d3128f41877c50669c7d1236bf2
+    content: Richard C. Hoagland speculated that Mars Observer's laser altimeter could have been used to send a data stream
+      over a narrow infrared beam back to Earth, where the Hubble Space Telescope's high-speed photometer could secretly detect
+      and relay the signal.
+    original_excerpt: 'This powerful laser could, indeed, be used to send a data stream over a very narrow infrared beam,
+      literally millions of miles back to Earth, where one very special instrument could secretly detect and relay the signal
+      to the appropriate “audience” on Earth: the Hubble’s high-speed photometer.'
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: e1650a1d-8feb-4841-a403-0d71e176d2d9
+      title: Richard C. Hoagland
+    provenance_chain:
+      origin_kind: speaker
+      origin: Richard C. Hoagland
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 157467a7-3117-469e-a12d-5d2487f21920
+        title: Hubble Space Telescope
+        slug: hubble-space-telescope
+      - node_id: 20bc60dc-9d88-4ad8-bcbb-17de912c6733
+        title: Mars Observer Laser Altimeter
+        slug: mars-observer-laser-altimeter
+      - node_id: 26e7be21-d995-4398-b1a0-7726c4469b1e
+        title: High Speed Photometer (Hubble instrument)
+        slug: high-speed-photometer-hubble-instrument
+      - node_id: 73d4f081-a30f-4212-a93f-f697d6a73051
+        title: Mars Observer
+        slug: mars-observer
+      - node_id: e1650a1d-8feb-4841-a403-0d71e176d2d9
+        title: Richard C. Hoagland
+        slug: richard-c-hoagland
+    date: null
+    date_end: null
+    location_in_record: ch10:47072-47357
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+      record_title: Dark Mission
+      record_date: '2010-07-22'
+      record_reference: null
+      content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+      friendly_name: null
+  - claim_id: 35c39407-d394-480d-87f8-926daba5dc54
+    claim_hash: ca44b079a648bfd725d0dfc7414a9f79cad394bde8cf1141d7c4f0c2ebe9a3f5
+    content: Richard C. Hoagland never obtained proof that Mars Observer's laser altimeter was used to secretly transmit data
+      to the Hubble Space Telescope's high-speed photometer.
+    original_excerpt: Hoagland never got any proof that this was done, but there was one more curious side bar.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: e1650a1d-8feb-4841-a403-0d71e176d2d9
+      title: Richard C. Hoagland
+    provenance_chain:
+      origin_kind: speaker
+      origin: Richard C. Hoagland
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 157467a7-3117-469e-a12d-5d2487f21920
+        title: Hubble Space Telescope
+        slug: hubble-space-telescope
+      - node_id: 26e7be21-d995-4398-b1a0-7726c4469b1e
+        title: High Speed Photometer (Hubble instrument)
+        slug: high-speed-photometer-hubble-instrument
+      - node_id: 73d4f081-a30f-4212-a93f-f697d6a73051
+        title: Mars Observer
+        slug: mars-observer
+      - node_id: e1650a1d-8feb-4841-a403-0d71e176d2d9
+        title: Richard C. Hoagland
+        slug: richard-c-hoagland
+    date: null
+    date_end: null
+    location_in_record: ch10:47370-47455
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+      record_title: Dark Mission
+      record_date: '2010-07-22'
+      record_reference: null
+      content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+      friendly_name: null
+  - claim_id: ec1055d0-2118-45a5-a09e-326e8d1caa29
+    claim_hash: 7edaae6b43af9e02057150dd59b044bbebfd2d52d375df83b8bf866cb8e5bc9f
+    content: During the STS-61 Hubble Servicing Mission, the crew brought back only Hubble's high-speed photometer instrument
+      when they returned to Houston, after it had suddenly been declared obsolete.
+    original_excerpt: Months later, when STS-61 was sent up to rendezvous with Hubble and repair the telescope’s crippled
+      optics, the crew only brought one piece of equipment back with them when they returned to Houston—Hubble’s suddenly,
+      curiously “obsolete,” high-speed photometer.
+    claim_type: observation
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: narration
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 157467a7-3117-469e-a12d-5d2487f21920
+        title: Hubble Space Telescope
+        slug: hubble-space-telescope
+      - node_id: 26e7be21-d995-4398-b1a0-7726c4469b1e
+        title: High Speed Photometer (Hubble instrument)
+        slug: high-speed-photometer-hubble-instrument
+      - node_id: 6603cbc5-4d54-412d-8242-c933d6d2410c
+        title: STS-61 (Hubble Servicing Mission)
+        slug: sts-61-hubble-servicing-mission
+      - node_id: ab63774b-6526-48b8-9aff-358ac45f683a
+        title: USA, Texas, Houston, Manned Spacecraft Center
+        slug: texas-houston-manned-spacecraft-center-usa
+    date: null
+    date_end: null
+    location_in_record: ch10:47460-47710
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+      record_title: Dark Mission
+      record_date: '2010-07-22'
+      record_reference: null
+      content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+      friendly_name: null
+  - claim_id: c5ed3545-a022-4cf3-9999-740a824cb0e0
+    claim_hash: d8c4c2e0d3338b7303c577725b7213da21ac8802803ba8ff983daa1c8dbd8a8a
+    content: The Jet Propulsion Laboratory (JPL) adjusted the colour of the Martian sky in the Mars Pathfinder images to the
+      traditional pink seen in Viking imagery, rather than the natural Earth-like blue forecast by concurrent Hubble Space
+      Telescope imagery.
+    original_excerpt: JPL even adjusted the color of the Martian sky to appear the traditional "Viking pink" instead of the
+      forecast (from concurrent Hubble imagery)—natural Earth-like blue
+    claim_type: opinion
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 157467a7-3117-469e-a12d-5d2487f21920
+        title: Hubble Space Telescope
+        slug: hubble-space-telescope
+      - node_id: 3e3d0fe7-a2cf-4e09-ab26-7beca4bece48
+        title: NASA Jet Propulsion Laboratory (JPL)
+        slug: nasa-jet-propulsion-laboratory-jpl
+      - node_id: d24f960b-8fe7-4869-bb6c-8477fd067677
+        title: Mars Pathfinder
+        slug: mars-pathfinder
+    date: null
+    date_end: null
+    location_in_record: ch12:147211-147374
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+      record_title: Dark Mission
+      record_date: '2010-07-22'
+      record_reference: null
+      content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+      friendly_name: null
+  - claim_id: deeee704-a59c-40e0-a5b4-2488c8255d37
+    claim_hash: 0a28f27b4fa71b6919d8fe5de7bf448c60e0c20114a4a0cd1eed500d0196bee5
+    content: In 1997, before the arrival of the Mars Pathfinder spacecraft, the Hubble Space Telescope was tasked to acquire
+      a series of weather forecast images of Mars prior to the landing.
+    original_excerpt: In 1997, before the arrival of the Mars Pathfinder spacecraft (the first NASA Lander sent to Mars since
+      Viking), the Hubble Telescope was tasked to acquire a series of “weather forecast images” prior to the landing.
+    claim_type: observation
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 157467a7-3117-469e-a12d-5d2487f21920
+        title: Hubble Space Telescope
+        slug: hubble-space-telescope
+      - node_id: 285631b3-9dd0-4705-9e57-c7d8df7ad666
+        title: Mars Pathfinder Hubble pre-landing weather reconnaissance, 1997
+        slug: 1997-mars-pathfinder-hubble-pre-landing-weather-reconnaissance
+      - node_id: d24f960b-8fe7-4869-bb6c-8477fd067677
+        title: Mars Pathfinder
+        slug: mars-pathfinder
+    date: '1997'
+    date_end: null
+    location_in_record: ch18:20767-20974
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+      record_title: Dark Mission
+      record_date: '2010-07-22'
+      record_reference: null
+      content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+      friendly_name: null
+  - claim_id: 96e80705-d3ce-4b4b-98c7-f01831d51774
+    claim_hash: 4d0162e6338189269dd39a582811dcda0607218e3b0e43e563b4c88309d807ad
+    content: The 1997 Hubble Space Telescope reconnaissance of Mars detected a small dust storm less than a month before the
+      Mars Pathfinder arrival.
+    original_excerpt: This long-distance reconnaissance detected a small dust storm less than a month before the Pathfinder
+      arrival, which, with its potentially high winds, could have posed a serious threat to the Pathfinder entry and landing.
+    claim_type: observation
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 157467a7-3117-469e-a12d-5d2487f21920
+        title: Hubble Space Telescope
+        slug: hubble-space-telescope
+      - node_id: d24f960b-8fe7-4869-bb6c-8477fd067677
+        title: Mars Pathfinder
+        slug: mars-pathfinder
+    date: '1997'
+    date_end: null
+    location_in_record: ch18:20983-21196
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+      record_title: Dark Mission
+      record_date: '2010-07-22'
+      record_reference: null
+      content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+      friendly_name: null
+  - claim_id: 350507a0-79f5-484b-9063-359a7989b09b
+    claim_hash: ff0065ae66ea2dc6dcbf6ca4b13698c85dcc498f614a414dbdc4a5ffd0dee3ce
+    content: Based on the pre-landing Hubble Space Telescope images, NASA astronomers expected the Mars Pathfinder surface
+      view to show blue skies matching the telescopic images.
+    original_excerpt: NASA astronomers working with the Hubble data fully expected a surface view to match the blue skies
+      their telescopic images were showing
+    claim_type: observation
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 157467a7-3117-469e-a12d-5d2487f21920
+        title: Hubble Space Telescope
+        slug: hubble-space-telescope
+      - node_id: 5e47c787-005b-4c91-ba4b-c9bec48146c9
+        title: National Aeronautics and Space Administration (NASA)
+        slug: national-aeronautics-and-space-administration-nasa
+      - node_id: d24f960b-8fe7-4869-bb6c-8477fd067677
+        title: Mars Pathfinder
+        slug: mars-pathfinder
+    date: null
+    date_end: null
+    location_in_record: ch18:21683-21813
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+      record_title: Dark Mission
+      record_date: '2010-07-22'
+      record_reference: null
+      content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+      friendly_name: null
+  - claim_id: a23d1f5a-8687-430a-88a9-03eb8ebece9b
+    claim_hash: cc6dc5ba44b5432fd9097b726b3ec5c2ef960159d3c775afc9c988426429a744
+    content: One of Jim Garvin's first acts at NASA Goddard was to have the Hubble Space Telescope pointed at the Moon to
+      take new images.
+    original_excerpt: One of Garvin's first acts at Goddard was to have the Hubble telescope pointed at the Moon to take new
+      images
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 157467a7-3117-469e-a12d-5d2487f21920
+        title: Hubble Space Telescope
+        slug: hubble-space-telescope
+      - node_id: db3c19ff-53e8-4a30-8a55-a32e0ecde90e
+        title: Jim Garvin
+        slug: jim-garvin
+    date: null
+    date_end: null
+    location_in_record: ch19:74731-74834
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+      record_title: Dark Mission
+      record_date: '2010-07-22'
+      record_reference: null
+      content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+      friendly_name: null
+  - claim_id: b9dd42c8-ab40-41f4-b042-be7925c2249e
+    claim_hash: fd243570a14bcc9b344bc8a7de906f2556d4d122e1ca38fd93569f1bdf51590e
+    content: NASA had previously claimed that the Moon was too bright for the Hubble Space Telescope to photograph.
+    original_excerpt: this was well after NASA stopped falsely claiming that "the Moon is too bright for Hubble to take an
+      image of …"
+    claim_type: administrative
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: named
+      origin: National Aeronautics and Space Administration (NASA)
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 157467a7-3117-469e-a12d-5d2487f21920
+        title: Hubble Space Telescope
+        slug: hubble-space-telescope
+      - node_id: 5e47c787-005b-4c91-ba4b-c9bec48146c9
+        title: National Aeronautics and Space Administration (NASA)
+        slug: national-aeronautics-and-space-administration-nasa
+    date: null
+    date_end: null
+    location_in_record: ch19:74842-74949
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+      record_title: Dark Mission
+      record_date: '2010-07-22'
+      record_reference: null
+      content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+      friendly_name: null
+  - claim_id: 14d9765e-41af-4e8e-acef-0e219d3047ed
+    claim_hash: 30d48c3a4923687de3b5de4310332b49cc313465e71aca5e314ac05224b31799
+    content: The 2005 Hubble lunar imaging campaign was conducted in concurrence with promoting the President's new Space
+      Initiative.
+    original_excerpt: This new Hubble lunar campaign was done in concurrence with promoting the President's new Space Initiative.
+    claim_type: opinion
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 157467a7-3117-469e-a12d-5d2487f21920
+        title: Hubble Space Telescope
+        slug: hubble-space-telescope
+      - node_id: c9963801-6309-4edd-a803-5fd357dbcaf9
+        title: Vision for Space Exploration
+        slug: vision-for-space-exploration
+    date: '2005'
+    date_end: null
+    location_in_record: ch19:74957-75053
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+      record_title: Dark Mission
+      record_date: '2010-07-22'
+      record_reference: null
+      content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+      friendly_name: null
+  - claim_id: 08a8e43a-c2d1-4b8d-98d5-56f665da195f
+    claim_hash: 8fb869618877e91081deb895403c58dfdb2c72672453238070930f37e9819ea0
+    content: 'In October 2005, a new Hubble Space Telescope image of the Apollo 17 landing site was released to the web, containing
+      three panes: a Hubble image with the landing location marked by a red X, and two panes showing a derived 3D model of
+      the Taurus-Littrow Valley with the same red X and layering visible on the South Massif.'
+    original_excerpt: When the new Hubble image was released to the web in October of 2005, it contained three views in different
+      "panes." The leftmost pane contained the Hubble image of the Apollo 17 landing site with the actual location marked
+      with a red "X." The two rightmost panes showed a derived 3D model of the Taurus-Littrow Valley, complete with the same
+      red X, and … curious "layering" on the South Massif.
+    claim_type: observation
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 157467a7-3117-469e-a12d-5d2487f21920
+        title: Hubble Space Telescope
+        slug: hubble-space-telescope
+      - node_id: 3dbb3456-f49b-413f-9496-c4b0acd10ef0
+        title: South Massif (Taurus-Littrow)
+        slug: south-massif-taurus-littrow
+      - node_id: 90e3876c-6482-4dc0-85b7-f23f374a9a93
+        title: Apollo 17 landing site, Taurus-Littrow
+        slug: taurus-littrow-apollo-17-landing-site
+    date: 2005-10
+    date_end: null
+    location_in_record: ch19:75155-75543
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+      record_title: Dark Mission
+      record_date: '2010-07-22'
+      record_reference: null
+      content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+      friendly_name: null
+  - claim_id: 598eeeef-bafa-42b2-bcf9-656caef5aad7
+    claim_hash: 3f6aad2e84d44390b1c303339064694e88ecf66d099381a8af20a50e69d975ca
+    content: The Hubble Space Telescope planned to observe the Lunar Crater Observation and Sensing Satellite (LCROSS) impact
+      from Earth orbit with a variety of sensors.
+    original_excerpt: the Hubble Space Telescope (in Earth orbit) will be observing the impact with a variety of sensors as
+      well
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 157467a7-3117-469e-a12d-5d2487f21920
+        title: Hubble Space Telescope
+        slug: hubble-space-telescope
+      - node_id: f25082a3-50ed-43ae-ac84-f99bc7ea460f
+        title: Lunar Crater Observation and Sensing Satellite (LCROSS)
+        slug: lunar-crater-observation-and-sensing-satellite-lcross
+    date: null
+    date_end: null
+    location_in_record: ch6:26729-26831
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+      record_title: Dark Mission
+      record_date: '2010-07-22'
+      record_reference: null
+      content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+      friendly_name: null
+  - claim_id: 0190ab90-bc36-44b1-b231-8a890c3fa7dc
+    claim_hash: 4686c85d6c25e5a297b79e75d6621a22c0560ea022c5c47e8e9fb0b15e5cb70c
+    content: In 1994, the Hubble Space Telescope photographed Saturn producing a major planetary event, a brilliant cloud
+      erupting at 19.5 degrees north latitude.
+    original_excerpt: as was Saturn’s abrupt production of a major planetary “event,” photographed by the Hubble Space Telescope
+      in 1994, as a brilliant cloud erupting at *19.5º N*
+    claim_type: observation
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 157467a7-3117-469e-a12d-5d2487f21920
+        title: Hubble Space Telescope
+        slug: hubble-space-telescope
+      - node_id: f23b3f3a-16ad-408c-9e21-4dcbd82948f5
+        title: Saturn
+        slug: saturn
+    date: '1994'
+    date_end: null
+    location_in_record: ch9:71009-71165
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+      record_title: Dark Mission
+      record_date: '2010-07-22'
+      record_reference: null
+      content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+      friendly_name: null
+  - claim_id: f353b9c9-1940-4d24-b3a1-454d787098f0
+    claim_hash: b03712461f758fa306b4eb030407772b66ad1559b910d4405db70ab3ce70d390
+    content: The Space Shuttle fleet serviced the Hubble Space Telescope.
+    original_excerpt: serviced the Hubble space telescope
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 0caff968-782b-4f02-bfcd-3be1c0810d20
+        title: Space Transportation System (Space Shuttle programme)
+        slug: space-transportation-system-space-shuttle-programme
+      - node_id: 157467a7-3117-469e-a12d-5d2487f21920
+        title: Hubble Space Telescope
+        slug: hubble-space-telescope
+    date: null
+    date_end: null
+    location_in_record: char:133081-133107
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: d3743fdf-6a99-43ef-98d4-b79ef60f0e47
+      record_title: Report on the Historical Record of U.S. Government Involvement with Unidentified Anomalous Phenomena (UAP),
+        Volume I
+      record_date: '2024-02-01'
+      record_reference: null
+      content_hash: sha256:8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a94774067868
+      friendly_name: 2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a
+  - claim_id: a7f134c4-2d19-407d-be73-a37bbfaaaeba
+    claim_hash: 6df892d3302c4af4b0b10a4851518f310d7a35f9b0e154356d84988b5ef2f75a
+    content: The Hubble Space Telescope could only see out about 13.5 billion light years.
+    original_excerpt: until the Hubble became antiquated, because it could only see out about 13.5 billion light years.
+    claim_type: measurement
+    attestation: first_hand
+    speaker:
+      node_id: 0d4dfba6-a53b-4f23-a2ad-e4c9bea44076
+      title: Robert Bigelow
+    provenance_chain:
+      origin_kind: speaker
+      origin: Robert Bigelow
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 157467a7-3117-469e-a12d-5d2487f21920
+        title: Hubble Space Telescope
+        slug: hubble-space-telescope
+    date: null
+    date_end: null
+    location_in_record: 00:20:01.5-00:20:07.2
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 5de4e296-4206-45f6-aa56-c3b8efb5c9e2
+      record_title: The Evolution of AAWSAP | Bigelow Podcast, Ep. 2
+      record_date: '2026-08-11'
+      record_reference: https://www.youtube.com/watch?v=hz7jHEgYzQw
+      content_hash: sha256:1aa9d864c5a4bb930164c278d9624c6bc0f84278ea4b5e57594fae9e21e90858
+      friendly_name: null

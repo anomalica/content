@@ -1,0 +1,161 @@
+schema: anomalica/brief/1
+brief_hash: 8247df79d09c3edcd02cbab0dd48cd0f3f104a88d407689af2b3b47cefa5efad
+page:
+  kind: entity
+  node_id: 8784e981-b45a-4459-8cd9-56c3fcb8eb2d
+  node_type: person
+  title: Robert M. Wood
+  slug: robert-m-wood
+  claim_count: 3
+  claim_count_total: 3
+generated:
+  graph_version: '2026-09-01T10:10:49.863545+00:00'
+size:
+  claims: 3
+  tokens_estimated: 902
+  sized_against: 1050000
+publication:
+  status: published
+  note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
+    transcripts are gated elsewhere.
+belonging:
+  verified: 0
+  suspect_excluded: 0
+  unreviewed: 3
+related_nodes:
+  - node_id: 8fc62232-3acf-41ec-9851-4886ef37419d
+    title: Ryan Wood
+    node_type: person
+    slug: ryan-wood
+    shared_claims: 2
+  - node_id: 6260d48c-d517-49e6-be1a-ab4b0482f4b6
+    title: Classification Review of All UFO Intelligence Files Affecting National Security (memo)
+    node_type: document
+    slug: classification-review-of-all-ufo-intelligence-files-affecting-national-security-memo
+    shared_claims: 1
+  - node_id: b5e3b4f7-fc14-4c03-bc06-d8bf1fefdf3c
+    title: Speckin Laboratory
+    node_type: organisation
+    slug: speckin-laboratory
+    shared_claims: 1
+  - node_id: 1dccbb94-275f-44de-8f9a-edb60870ff3e
+    title: Timothy Cooper
+    node_type: person
+    slug: timothy-cooper
+    shared_claims: 1
+claims:
+  - claim_id: d306babe-8d16-4580-ba04-76189e8f2cbd
+    claim_hash: 5a560a00853865777073585a01473fd839952fdaf47a67f4c59cc5721336ae97
+    content: Robert M. Wood and Ryan Wood consider the "Classification Review of All UFO Intelligence Files Affecting National
+      Security" memo to have a "medium-high" (about 80%) probability of being authentic.
+    original_excerpt: the document... is considered by them to have a “medium-high” (about 80%) probability of being authentic
+    claim_type: opinion
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: named
+      origin: Robert M. Wood and Ryan Wood
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 6260d48c-d517-49e6-be1a-ab4b0482f4b6
+        title: Classification Review of All UFO Intelligence Files Affecting National Security (memo)
+        slug: classification-review-of-all-ufo-intelligence-files-affecting-national-security-memo
+      - node_id: 8784e981-b45a-4459-8cd9-56c3fcb8eb2d
+        title: Robert M. Wood
+        slug: robert-m-wood
+      - node_id: 8fc62232-3acf-41ec-9851-4886ef37419d
+        title: Ryan Wood
+        slug: ryan-wood
+    date: null
+    date_end: null
+    location_in_record: '45'
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+      record_title: Dark Mission
+      record_date: '2010-07-22'
+      record_reference: null
+      content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+      friendly_name: null
+  - claim_id: 53671762-3c51-496e-a8e0-3f678db98238
+    claim_hash: 55b5abedd473337de69b5f29305d6497df3c52b4bebc7329a999acc869640bbf
+    content: Robert Wood had taken documents offered to him from a filing cabinet at the Cooper household, and there might
+      have been further documents remaining there.
+    original_excerpt: that there was a filing cabinet and that Robert Wood had taken the documents that he was offered and
+      there might be others in the Cooper household.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: c16c86b6-7526-46cd-bcd8-7f74283ebf2c
+      title: Jonathan Caplan
+    provenance_chain:
+      origin_kind: speaker
+      origin: Jonathan Caplan
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 1dccbb94-275f-44de-8f9a-edb60870ff3e
+        title: Timothy Cooper
+        slug: timothy-cooper
+      - node_id: 8784e981-b45a-4459-8cd9-56c3fcb8eb2d
+        title: Robert M. Wood
+        slug: robert-m-wood
+    date: null
+    date_end: null
+    location_in_record: 00:30:11.5-00:30:20.4
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: d17e43f2-fe6c-4a2d-824d-fd379e6891c5
+      record_title: Watergate, the JFK assassination and a UFO secret at the center of it all | Reality Check
+      record_date: '2026-06-18'
+      record_reference: https://www.youtube.com/watch?v=PeULVsP-jEQ
+      content_hash: sha256:997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc07360cb2ab1
+      friendly_name: null
+  - claim_id: 3e4b714a-af2b-460d-a474-58a933566bd3
+    claim_hash: f94a3d09171492bfa6c291e168a9ea39b18fb020a1f750ff862494018375196f
+    content: Robert Wood and Ryan Wood took the Lancer document to the Speckin Laboratory, which confirmed that the inks and
+      paper on it are of the period and that the watermark is of government issue.
+    original_excerpt: I know that the Woods took it to a laboratory, the Speckin Laboratory, who confirm that the inks on
+      it and the paper are of that period and that the watermark is of government issue.
+    claim_type: testimony
+    attestation: second_hand
+    speaker:
+      node_id: c16c86b6-7526-46cd-bcd8-7f74283ebf2c
+      title: Jonathan Caplan
+    provenance_chain:
+      origin_kind: named
+      origin: Speckin Laboratory
+      relay:
+        - report to Robert Wood and Ryan Wood
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 8784e981-b45a-4459-8cd9-56c3fcb8eb2d
+        title: Robert M. Wood
+        slug: robert-m-wood
+      - node_id: 8fc62232-3acf-41ec-9851-4886ef37419d
+        title: Ryan Wood
+        slug: ryan-wood
+      - node_id: b5e3b4f7-fc14-4c03-bc06-d8bf1fefdf3c
+        title: Speckin Laboratory
+        slug: speckin-laboratory
+    date: null
+    date_end: null
+    location_in_record: 01:01:32.7-01:01:46.2
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: d17e43f2-fe6c-4a2d-824d-fd379e6891c5
+      record_title: Watergate, the JFK assassination and a UFO secret at the center of it all | Reality Check
+      record_date: '2026-06-18'
+      record_reference: https://www.youtube.com/watch?v=PeULVsP-jEQ
+      content_hash: sha256:997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc07360cb2ab1
+      friendly_name: null

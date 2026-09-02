@@ -1,0 +1,4212 @@
+schema: anomalica/brief/1
+brief_hash: 20279372d7cfd7a7914336b8c6696320cfb47f7029fa8944521856014df9ba85
+page:
+  kind: entity
+  node_id: 64f100c7-ad23-46ef-8818-ed5100b507c5
+  node_type: person
+  title: Charlie Hickson
+  slug: charlie-hickson
+  claim_count: 106
+  claim_count_total: 106
+generated:
+  graph_version: '2026-09-01T10:10:49.863545+00:00'
+size:
+  claims: 106
+  tokens_estimated: 32560
+  sized_against: 1050000
+publication:
+  status: published
+  note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
+    transcripts are gated elsewhere.
+belonging:
+  verified: 0
+  suspect_excluded: 0
+  unreviewed: 106
+related_nodes:
+  - node_id: 39bc257e-6dcc-4c45-b021-a456625771cb
+    title: Robert Monroe
+    node_type: person
+    slug: robert-monroe
+    shared_claims: 20
+  - node_id: 3dbf3f74-6f5b-4667-b447-5722becf4437
+    title: Gustave Geley
+    node_type: person
+    slug: gustave-geley
+    shared_claims: 9
+  - node_id: 244decc2-311c-4ab1-8197-ba03cc8ce57a
+    title: Astronaut light flash phenomenon
+    node_type: topic
+    slug: astronaut-light-flash-phenomenon
+    shared_claims: 7
+  - node_id: 8b0155a9-fabc-4b8d-9ee9-45eac58dbf2e
+    title: Out-of-Body Experience (OBE)
+    node_type: topic
+    slug: out-of-body-experience-obe
+    shared_claims: 7
+  - node_id: 52358d51-9096-4ae5-97b2-963f54de16d6
+    title: Franek Kluski
+    node_type: person
+    slug: franek-kluski
+    shared_claims: 6
+  - node_id: b35ea528-579f-457f-a690-2e24015bdcbf
+    title: Carie
+    node_type: person
+    slug: carie
+    shared_claims: 4
+  - node_id: 39bf344d-838f-4d5c-bd13-4e9c21d0ab8a
+    title: Calvin Parker
+    node_type: person
+    slug: calvin-parker
+    shared_claims: 3
+  - node_id: bc3f4c43-8a34-493d-98dd-419393017405
+    title: Ectoplasm
+    node_type: topic
+    slug: ectoplasm
+    shared_claims: 3
+  - node_id: 8ad0b348-d3d5-4e76-9c36-2f68e2e96577
+    title: Eva Carrière
+    node_type: person
+    slug: eva-carriere
+    shared_claims: 3
+  - node_id: c4b8749d-1f12-431f-9942-5610bd750a9a
+    title: Stanley Krippner
+    node_type: person
+    slug: stanley-krippner
+    shared_claims: 3
+  - node_id: 74505a33-a16b-4256-bd97-e40e2a2790c7
+    title: USA, Mississippi, Pascagoula
+    node_type: place
+    slug: mississippi-pascagoula-usa
+    shared_claims: 3
+  - node_id: e8d67c8e-f0dd-4c2a-bc87-8d3b4715a228
+    title: USA, New York, New York City
+    node_type: place
+    slug: new-york-new-york-city-usa
+    shared_claims: 3
+  - node_id: 44c7b40d-5ada-42e4-ae6b-35223941ace9
+    title: 1973 Pascagoula abduction
+    node_type: event
+    slug: 1973-pascagoula-abduction
+    shared_claims: 2
+  - node_id: 7fdb6e56-538b-4a51-892b-78a05444a683
+    title: 1973 Pascagoula, Mississippi Unidentified Flying Object (UFO) abduction
+    node_type: event
+    slug: mississippi-unidentified-flying-object-ufo-abduction-1973-pascagoula
+    shared_claims: 2
+  - node_id: abcb5364-007d-441a-b246-86e28f74227d
+    title: Anomalous Cognition (AC)
+    node_type: topic
+    slug: anomalous-cognition-ac
+    shared_claims: 2
+  - node_id: 663c59e3-0b99-4577-b723-d5d1337aa119
+    title: Apollo 12
+    node_type: project
+    slug: apollo-12
+    shared_claims: 2
+  - node_id: 757229b5-8942-45b1-bd13-ee87a21d045b
+    title: Bank of England
+    node_type: organisation
+    slug: bank-of-england
+    shared_claims: 2
+  - node_id: 827a669c-493c-4ea2-a245-a47d300ef053
+    title: Betty Hill
+    node_type: person
+    slug: betty-hill
+    shared_claims: 2
+  - node_id: 05a90841-a036-4c81-9c55-6bcc1478ad70
+    title: Charles Richet's 1934 writing on full-form materializations
+    node_type: document
+    slug: charles-richets-1934-writing-on-full-form-materializations
+    shared_claims: 2
+  - node_id: 7dd41fc6-847d-4a7f-9fff-f01b9bdf0bff
+    title: 'Electroencephalogram (EEG) Experiment #EEG-5 (1966-07-19)'
+    node_type: event
+    slug: electroencephalogram-eeg-experiment-eeg-5-1966-07-19
+    shared_claims: 2
+  - node_id: ec6e3129-f148-4490-bed4-01f487b632a9
+    title: Joseph Smith
+    node_type: person
+    slug: joseph-smith
+    shared_claims: 2
+  - node_id: 7a9ab5a0-fbc0-4e15-ad31-8b14c277b926
+    title: Materialization (mediumship phenomenon)
+    node_type: topic
+    slug: materialization-mediumship-phenomenon
+    shared_claims: 2
+  - node_id: 1572c402-bb04-4752-a659-747989bc2bb2
+    title: Miss Z
+    node_type: person
+    slug: miss-z
+    shared_claims: 2
+  - node_id: ad1bdc87-fa10-4e10-beb2-362d4ee82c4e
+    title: Paraffin wax mold experiments
+    node_type: topic
+    slug: paraffin-wax-mold-experiments
+    shared_claims: 2
+  - node_id: a7aa4b7b-cc5a-4683-939a-dfd7314bdb32
+    title: Special Operations Executive (SOE)
+    node_type: organisation
+    slug: special-operations-executive-soe
+    shared_claims: 2
+  - node_id: e5c02fba-d644-41c5-aadd-7d9acc35c103
+    title: USA, California, Davis
+    node_type: place
+    slug: california-davis-usa
+    shared_claims: 2
+  - node_id: 7699ee6b-266c-42ed-95b2-3b4430fd2af9
+    title: World Commerce Corporation
+    node_type: organisation
+    slug: world-commerce-corporation
+    shared_claims: 2
+  - node_id: 9e23c92b-9466-4b3b-b6eb-9e95c7ed4336
+    title: 1920 Institut Métapsychique International Paris séances with Franek Kluski
+    node_type: event
+    slug: 1920-institut-metapsychique-international-paris-seances-with-franek-kluski
+    shared_claims: 1
+  - node_id: 771149b9-802e-4cce-bf3c-4f96fa1c5a7c
+    title: 1921 Warsaw paraffin wax glove séances with Franek Kluski
+    node_type: event
+    slug: 1921-warsaw-paraffin-wax-glove-seances-with-franek-kluski
+    shared_claims: 1
+  - node_id: a471f501-13ba-47a2-ade7-270544e65a99
+    title: Al Lawson
+    node_type: person
+    slug: al-lawson
+    shared_claims: 1
+claims:
+  - claim_id: ebdffb06-fab2-4a7a-9fe4-4be6133b89e1
+    claim_hash: 1714c3c8d1b2b98444197396a2d9f655927338f3af190b94787dca0cf4a793b2
+    content: Charles "Pete" Conrad, aboard Intrepid, reported that on the first nightside pass small bits and pieces of debris
+      floated along with the spacecraft and the tracking light had been seen flashing on them, but that during a subsequent
+      pass the tracking light was no longer flashing on similar floating debris, leading him to conclude the tracking light
+      had burned out.
+    original_excerpt: Hey, Houston. It looks like our tracking light's burned out. Dick hasn't been able to find us in his
+      sextant. And on the first nightside pass we had little bits and pieces floating along with us and we could tell that
+      the tracking light was flashing on them. And we still have, I've presumed to think, bits and pieces floating along and
+      nothing's flashing on them, so I'm pretty sure it burned out.
+    claim_type: observation
+    attestation: first_hand
+    speaker:
+      node_id: 64f100c7-ad23-46ef-8818-ed5100b507c5
+      title: Charlie Hickson
+    provenance_chain:
+      origin_kind: speaker
+      origin: Charles "Pete" Conrad
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 64f100c7-ad23-46ef-8818-ed5100b507c5
+        title: Charlie Hickson
+        slug: charlie-hickson
+    date: null
+    date_end: null
+    location_in_record: char:5307-5701
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 8e936180-f3e9-4791-87d6-6d28a81040fe
+      record_title: Apollo 12 Air-to-Ground Voice Transcription
+      record_date: null
+      record_reference: null
+      content_hash: sha256:74dc1a19ef09d093ceba4a0ab082bf3729cb19218c0c3481d8b71f814740c9b3
+      friendly_name: undated-pdf-apollo-12-air-to-ground-voice-transcription
+  - claim_id: b47ec999-4a0c-4688-9ba0-22c0d8378d5c
+    claim_hash: cc7d9f7f5a3e461791a01b76f8accbb7399a0bb0da38ba78877de4245688e034
+    content: Richard Gordon aboard Yankee Clipper had set up the television camera and told Charles "Pete" Conrad it was ready.
+    original_excerpt: 'also, Yankee Clipper informs me he has the television all set up. When we come around the {{illegible:
+      horn}}, we''ll come around with the television on in VOX.'
+    claim_type: administrative
+    attestation: second_hand
+    speaker:
+      node_id: 64f100c7-ad23-46ef-8818-ed5100b507c5
+      title: Charlie Hickson
+    provenance_chain:
+      origin_kind: named
+      origin: Richard Gordon
+      relay:
+        - relayed by Charles "Pete" Conrad
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 64f100c7-ad23-46ef-8818-ed5100b507c5
+        title: Charlie Hickson
+        slug: charlie-hickson
+      - node_id: ea943180-20a7-469d-8fd5-fe4cdc274849
+        title: Richard Gordon
+        slug: richard-gordon
+    date: null
+    date_end: null
+    location_in_record: char:6017-6172
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 8e936180-f3e9-4791-87d6-6d28a81040fe
+      record_title: Apollo 12 Air-to-Ground Voice Transcription
+      record_date: null
+      record_reference: null
+      content_hash: sha256:74dc1a19ef09d093ceba4a0ab082bf3729cb19218c0c3481d8b71f814740c9b3
+      friendly_name: undated-pdf-apollo-12-air-to-ground-voice-transcription
+  - claim_id: 99bdad04-8a37-4a64-82c6-2d5a387bf59c
+    claim_hash: f4b3e30af6c6417d711ee7bc2b52531578329dcb2061561b1b4f98abb1ab5755
+    content: Betty Hill in Portsmouth, Charlie Hickson in Pascagoula, and Travis Walton in Arizona each took lie detector
+      tests related to their UFO abduction accounts and passed them.
+    original_excerpt: 'They take lie detector tests and pass them: Betty Hill in Portsmouth, Charlie Hickson in Pascagoula,
+      Travis Walton in Arizona.'
+    claim_type: testimony
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 64f100c7-ad23-46ef-8818-ed5100b507c5
+        title: Charlie Hickson
+        slug: charlie-hickson
+      - node_id: 74505a33-a16b-4256-bd97-e40e2a2790c7
+        title: USA, Mississippi, Pascagoula
+        slug: mississippi-pascagoula-usa
+      - node_id: 827a669c-493c-4ea2-a245-a47d300ef053
+        title: Betty Hill
+        slug: betty-hill
+      - node_id: c7429232-e4dd-45c9-9c5b-41eb36893aec
+        title: USA, Arizona
+        slug: arizona-usa
+      - node_id: d91e2df7-b885-41ab-952d-002373550f99
+        title: Travis Walton
+        slug: travis-walton
+    date: null
+    date_end: null
+    location_in_record: ch5:36692-36810
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: f0690aba-c78b-47f4-bb2f-f94ea04d55ee
+      record_title: 'Messengers of Deception: UFO Contacts and Cults'
+      record_date: '0101-01-01'
+      record_reference: null
+      content_hash: sha256:0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5ac9fd3168
+      friendly_name: 0101-01-01-ebook-messengers-of-deception-ufo-contacts-and-cults
+  - claim_id: 6190bcec-f65f-45ae-a515-6e43351f136c
+    claim_hash: c69500c435e24f4bc666bbc64c87112ed6525fc5bd84a393d42e9d7af06eadca
+    content: Al Lawson described the results of the imaginary abductees hypnosis study as providing "a coherent, intriguing
+      UFO abduction narrative" that was surprisingly similar to classic UFO abduction cases such as those of Betty Hill and
+      Charlie Hickson.
+    original_excerpt: Not only did these “imaginary abductees” provide what Dr. Lawson calls “a coherent, intriguing UFO abduction
+      narrative,” but their stories were surprisingly similar to the most classic UFO abduction cases, like those of Betty
+      Hill or Charlie Hickson.
+    claim_type: opinion
+    attestation: second_hand
+    speaker:
+      node_id: a471f501-13ba-47a2-ade7-270544e65a99
+      title: Al Lawson
+    provenance_chain:
+      origin_kind: named
+      origin: Al Lawson
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 2afd117d-a2b0-47c6-97be-29fd96a94494
+        title: Imaginary abductees hypnosis study
+        slug: imaginary-abductees-hypnosis-study
+      - node_id: 64f100c7-ad23-46ef-8818-ed5100b507c5
+        title: Charlie Hickson
+        slug: charlie-hickson
+      - node_id: 827a669c-493c-4ea2-a245-a47d300ef053
+        title: Betty Hill
+        slug: betty-hill
+      - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
+        title: Unidentified Flying Object (UFO)
+        slug: unidentified-flying-object-ufo
+      - node_id: a471f501-13ba-47a2-ade7-270544e65a99
+        title: Al Lawson
+        slug: al-lawson
+    date: null
+    date_end: null
+    location_in_record: ch5:38657-38899
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: f0690aba-c78b-47f4-bb2f-f94ea04d55ee
+      record_title: 'Messengers of Deception: UFO Contacts and Cults'
+      record_date: '0101-01-01'
+      record_reference: null
+      content_hash: sha256:0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5ac9fd3168
+      friendly_name: 0101-01-01-ebook-messengers-of-deception-ufo-contacts-and-cults
+  - claim_id: 4f138d8c-fd31-43b7-b564-a4831c152127
+    claim_hash: 84249f597b0940d45fcc343ed2562ea7bac8faa80c7b581663e4fb72d41e1593
+    content: In 1973, Charlie Hickson, a shipyard worker, described that an unidentified flying object landed in the old Schaupeter
+      shipyard in Pascagoula, Mississippi.
+    original_excerpt: Shipyard worker Charlie Hickson describes the October night in 1973 when, he says, an unidentified flying
+      object landed in the old Schaupeter shipyard.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 64f100c7-ad23-46ef-8818-ed5100b507c5
+      title: Charlie Hickson
+    provenance_chain:
+      origin_kind: speaker
+      origin: Charlie Hickson
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 44c7b40d-5ada-42e4-ae6b-35223941ace9
+        title: 1973 Pascagoula abduction
+        slug: 1973-pascagoula-abduction
+      - node_id: 64f100c7-ad23-46ef-8818-ed5100b507c5
+        title: Charlie Hickson
+        slug: charlie-hickson
+      - node_id: 74505a33-a16b-4256-bd97-e40e2a2790c7
+        title: USA, Mississippi, Pascagoula
+        slug: mississippi-pascagoula-usa
+    date: 1973-10
+    date_end: null
+    location_in_record: ch5:3966-4108
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: f0690aba-c78b-47f4-bb2f-f94ea04d55ee
+      record_title: 'Messengers of Deception: UFO Contacts and Cults'
+      record_date: '0101-01-01'
+      record_reference: null
+      content_hash: sha256:0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5ac9fd3168
+      friendly_name: 0101-01-01-ebook-messengers-of-deception-ufo-contacts-and-cults
+  - claim_id: b68a2c7b-5177-447f-93f8-f2f3ddb12d2e
+    claim_hash: 0e76e5bbaaa3206b51c9b60523b25512e7f107d3fa26f79b70ad9a6eb0a305e1
+    content: Charlie Hickson claimed that three "things" picked him and Calvin Parker up and carried them aboard the craft,
+      where they were closely examined.
+    original_excerpt: Hickson claims three “things” picked him and young Calvin Parker up, and carried them aboard the craft,
+      where they were closely examined.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 64f100c7-ad23-46ef-8818-ed5100b507c5
+      title: Charlie Hickson
+    provenance_chain:
+      origin_kind: speaker
+      origin: Charlie Hickson
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 39bf344d-838f-4d5c-bd13-4e9c21d0ab8a
+        title: Calvin Parker
+        slug: calvin-parker
+      - node_id: 44c7b40d-5ada-42e4-ae6b-35223941ace9
+        title: 1973 Pascagoula abduction
+        slug: 1973-pascagoula-abduction
+      - node_id: 64f100c7-ad23-46ef-8818-ed5100b507c5
+        title: Charlie Hickson
+        slug: charlie-hickson
+    date: 1973-10
+    date_end: null
+    location_in_record: ch5:4118-4246
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: f0690aba-c78b-47f4-bb2f-f94ea04d55ee
+      record_title: 'Messengers of Deception: UFO Contacts and Cults'
+      record_date: '0101-01-01'
+      record_reference: null
+      content_hash: sha256:0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5ac9fd3168
+      friendly_name: 0101-01-01-ebook-messengers-of-deception-ufo-contacts-and-cults
+  - claim_id: cb247ed4-d6bc-4db7-b36f-9e87482a7ae5
+    claim_hash: 60d3d2a51553b749996e93eab4d468b736138f71342b64bfafdf325f771c27f7
+    content: Paul Davies stated that if extraterrestrial DNA of independent origin were discovered, it would strike at the
+      heart of Darwinian evolutionary theory and the currently dominant scientific paradigm that rejects teleology.
+    original_excerpt: “If we were to discover extraterrestrial DNA that could be proved to be of independent origin, it would
+      strike at the very heart of Darwinian evolutionary theory and the entire [currently dominant] scientific paradigm in
+      which all teleology is decisively rejected.”
+    claim_type: opinion
+    attestation: second_hand
+    speaker:
+      node_id: 521300b4-8a92-4419-a368-f7697c583708
+      title: Paul Davies
+    provenance_chain:
+      origin_kind: named
+      origin: Paul Davies
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 521300b4-8a92-4419-a368-f7697c583708
+        title: Paul Davies
+        slug: paul-davies
+      - node_id: 64f100c7-ad23-46ef-8818-ed5100b507c5
+        title: Charlie Hickson
+        slug: charlie-hickson
+    date: null
+    date_end: null
+    location_in_record: ch21:2512-2766
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 32687cf8-a827-40a9-b9f4-308ca4d9b2b3
+      record_title: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
+      record_date: '2005-11-14'
+      record_reference: null
+      content_hash: sha256:c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95d6ac9c3b
+      friendly_name: 2005-11-14-ebook-hair-of-the-alien-dna-and-other-forensic-evidence-for-alien
+  - claim_id: 0d8dc338-963b-4115-8ffe-f59b14cd33c5
+    claim_hash: 972e1bf75e69ff18b376a3ff728c0d69a02f44e3e4b291334a8213a699c2ca85
+    content: Most modern geneticists follow Charles Darwin's model from 1860, assuming that modern humans evolved in isolation
+      on Earth from an unidentified lower primate.
+    original_excerpt: most of them follow Darwin’s model from 1860, where it is assumed that modern humans evolved in isolation
+      on this little planet Earth, from some unidentified lower primate
+    claim_type: opinion
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 64f100c7-ad23-46ef-8818-ed5100b507c5
+        title: Charlie Hickson
+        slug: charlie-hickson
+    date: null
+    date_end: null
+    location_in_record: ch22:49474-49638
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 32687cf8-a827-40a9-b9f4-308ca4d9b2b3
+      record_title: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
+      record_date: '2005-11-14'
+      record_reference: null
+      content_hash: sha256:c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95d6ac9c3b
+      friendly_name: 2005-11-14-ebook-hair-of-the-alien-dna-and-other-forensic-evidence-for-alien
+  - claim_id: d9578902-4051-49c5-a941-ce57012080d2
+    claim_hash: 9ad17f9df03db81b27c5ef89d610e1b58007de7b9376efe203b0fe93ca357f56
+    content: Dr. Charles Tart defines meditation as "first of all a deep passivity, combined with awareness."
+    original_excerpt: Meditation. The only definition of meditation that I would accept is that of Dr. Charles Tart, who states
+      that it is "first of all a deep passivity, combined with awareness."
+    claim_type: opinion
+    attestation: second_hand
+    speaker:
+      node_id: 64f100c7-ad23-46ef-8818-ed5100b507c5
+      title: Charlie Hickson
+    provenance_chain:
+      origin_kind: named
+      origin: Charles Tart
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 64f100c7-ad23-46ef-8818-ed5100b507c5
+        title: Charlie Hickson
+        slug: charlie-hickson
+      - node_id: a82c682b-80fb-488c-8a47-3142481c1458
+        title: Meditation
+        slug: meditation
+    date: null
+    date_end: null
+    location_in_record: ch25:19098-19261
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 6e543cda-3973-4882-854c-929a9aa608ab
+      record_title: Remote Viewing Secrets
+      record_date: '2013-03-22'
+      record_reference: null
+      content_hash: sha256:498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4d6dbbe35
+      friendly_name: 2013-03-22-ebook-remote-viewing-secrets
+  - claim_id: f6393bcb-a324-40d6-8ff8-2fc7191cf3f1
+    claim_hash: 5aae25cc4c4c50009690c00d5d8a5877cc4b6c7c55f2273df2e3c8f5ab8a95ae
+    content: Charles Tart found weak evidence that anomalous cognition performance is enhanced by screening electrical fields
+      with Faraday cages.
+    original_excerpt: There is weak evidence that performance is enhanced by screening electrical fields with Faraday cages
+      (Tart, 1988)
+    claim_type: observation
+    attestation: second_hand
+    speaker:
+      node_id: 4c9fa76a-2f7b-4f4f-964a-7dd041c19d6c
+      title: S. James P. Spottiswoode
+    provenance_chain:
+      origin_kind: named
+      origin: Charles Tart
+      relay:
+        - S. James P. Spottiswoode's paper
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 64f100c7-ad23-46ef-8818-ed5100b507c5
+        title: Charlie Hickson
+        slug: charlie-hickson
+      - node_id: abcb5364-007d-441a-b246-86e28f74227d
+        title: Anomalous Cognition (AC)
+        slug: anomalous-cognition-ac
+    date: '1988'
+    date_end: null
+    location_in_record: ch29:4440-4549
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 6e543cda-3973-4882-854c-929a9aa608ab
+      record_title: Remote Viewing Secrets
+      record_date: '2013-03-22'
+      record_reference: null
+      content_hash: sha256:498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4d6dbbe35
+      friendly_name: 2013-03-22-ebook-remote-viewing-secrets
+  - claim_id: 455a145e-3b92-4cc6-abb9-eaf15bd6e6fc
+    claim_hash: 154700b610076397c8bd789f5515bae3c76b944dc3a91fae0176e070e51ee7a5
+    content: Charles Tart found in 1988 an association between high-scoring anomalous cognition trials and low geomagnetic
+      fluctuations.
+    original_excerpt: Tart (1988) and Persinger & Krippner (1989) found an association between high scoring AC trials and
+      low GMF fluctuations
+    claim_type: observation
+    attestation: second_hand
+    speaker:
+      node_id: 64f100c7-ad23-46ef-8818-ed5100b507c5
+      title: Charlie Hickson
+    provenance_chain:
+      origin_kind: named
+      origin: Charles Tart
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 2a57de97-2fe8-41b9-951a-b58486bf15a5
+        title: Geomagnetic Fluctuations (GMF)
+        slug: geomagnetic-fluctuations-gmf
+      - node_id: 64f100c7-ad23-46ef-8818-ed5100b507c5
+        title: Charlie Hickson
+        slug: charlie-hickson
+      - node_id: abcb5364-007d-441a-b246-86e28f74227d
+        title: Anomalous Cognition (AC)
+        slug: anomalous-cognition-ac
+    date: '1988'
+    date_end: null
+    location_in_record: ch31:2705-2813
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 6e543cda-3973-4882-854c-929a9aa608ab
+      record_title: Remote Viewing Secrets
+      record_date: '2013-03-22'
+      record_reference: null
+      content_hash: sha256:498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4d6dbbe35
+      friendly_name: 2013-03-22-ebook-remote-viewing-secrets
+  - claim_id: 0dc2fdfa-38c0-46f2-8e64-913d8d15434a
+    claim_hash: 97fd9f538614ed762dc5aa35b03418f6cb6d9e95881a39053318381a994173f0
+    content: The witnesses of the 1973 Pascagoula, Mississippi UFO abduction were two fishermen, Charles Hickson, aged 42,
+      and Calvin Parker, aged 19.
+    original_excerpt: 'the witnesses were again two fishermen: Charles Hickson, 42, and Calvin Parker, 19.'
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 39bf344d-838f-4d5c-bd13-4e9c21d0ab8a
+        title: Calvin Parker
+        slug: calvin-parker
+      - node_id: 64f100c7-ad23-46ef-8818-ed5100b507c5
+        title: Charlie Hickson
+        slug: charlie-hickson
+      - node_id: 7fdb6e56-538b-4a51-892b-78a05444a683
+        title: 1973 Pascagoula, Mississippi Unidentified Flying Object (UFO) abduction
+        slug: mississippi-unidentified-flying-object-ufo-abduction-1973-pascagoula
+    date: null
+    date_end: null
+    location_in_record: ch10:49971-50051
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 220315f4-29cd-4c89-8860-44f95613d98f
+      record_title: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About UFO Influences on the Human Race'
+      record_date: '2014-09-27'
+      record_reference: null
+      content_hash: sha256:5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b8489cc11c26
+      friendly_name: 2014-09-27-ebook-the-invisible-college-what-a-group-of-scientists-has
+  - claim_id: dfb43757-fb6b-4fc7-bc66-bd46379ea23c
+    claim_hash: dd21f973277301df96e5760a3b16e1f1e6057c2314057d28fa466f1441820d11
+    content: When Martin Harris took the plates and the beginning of the translation to Professor Charles Anthon of New York,
+      Anthon stated the translation was correct, more so than any he had seen translated from Egyptian.
+    original_excerpt: When Harris took the plates and the beginning of the translation to Professor Charles Anthon of New
+      York, this learned gentleman stated that the translation was correct, “more so than any he had before seen translated
+      from the Egyptian.”
+    claim_type: testimony
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: named
+      origin: Charles Anthon
+      relay:
+        - Martin Harris
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 0e66a0b2-04ea-4a26-a9b7-cbd062a131c0
+        title: USA, New York
+        slug: new-york-usa
+      - node_id: 64f100c7-ad23-46ef-8818-ed5100b507c5
+        title: Charlie Hickson
+        slug: charlie-hickson
+      - node_id: e56783fe-0326-4a28-8945-7c275b3d0492
+        title: Martin Harris
+        slug: martin-harris
+      - node_id: ec6e3129-f148-4490-bed4-01f487b632a9
+        title: Joseph Smith
+        slug: joseph-smith
+    date: null
+    date_end: null
+    location_in_record: ch15:50630-50857
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 220315f4-29cd-4c89-8860-44f95613d98f
+      record_title: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About UFO Influences on the Human Race'
+      record_date: '2014-09-27'
+      record_reference: null
+      content_hash: sha256:5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b8489cc11c26
+      friendly_name: 2014-09-27-ebook-the-invisible-college-what-a-group-of-scientists-has
+  - claim_id: 913c12bc-9389-4e11-8038-6512c153acd9
+    claim_hash: 075ae631158e90fecdfa0191bd0e1f0ebc98264c8c87255a14267f4149db3ea3
+    content: Charles Anthon said the untranslated plates appeared to be Egyptian, Chaldaic, Assyrian, and Arabic, and signed
+      a statement to that effect, which he later tore up upon learning Smith had found the plates on an angel's instructions.
+    original_excerpt: Looking at the plates that had not yet been translated, he said that they were Egyptian, Chaldaic, As-
+      Syrian, and Arabic, and signed a statement to that effect (which he later tore to pieces, however, when he learned that
+      the young man had found the plates upon the instructions of an angel!).
+    claim_type: testimony
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: named
+      origin: Charles Anthon
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 64f100c7-ad23-46ef-8818-ed5100b507c5
+        title: Charlie Hickson
+        slug: charlie-hickson
+      - node_id: ec6e3129-f148-4490-bed4-01f487b632a9
+        title: Joseph Smith
+        slug: joseph-smith
+    date: null
+    date_end: null
+    location_in_record: ch15:50868-51154
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 220315f4-29cd-4c89-8860-44f95613d98f
+      record_title: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About UFO Influences on the Human Race'
+      record_date: '2014-09-27'
+      record_reference: null
+      content_hash: sha256:5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b8489cc11c26
+      friendly_name: 2014-09-27-ebook-the-invisible-college-what-a-group-of-scientists-has
+  - claim_id: a3b6437a-04e5-495a-975d-609ba083c9bf
+    claim_hash: 866ed2a8a7e485d47b54dfe71821e0e7fd39dba99d4a52a25583760e98120011
+    content: Two men from Pascagoula, Mississippi told of their abduction by grotesque robot-like creatures.
+    original_excerpt: two men from Pascagoula, Mississippi, told their tale of abduction by grotesque robot-like creatures
+    claim_type: testimony
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: named
+      origin: Charles Hickson and Calvin Parker
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 39bf344d-838f-4d5c-bd13-4e9c21d0ab8a
+        title: Calvin Parker
+        slug: calvin-parker
+      - node_id: 64f100c7-ad23-46ef-8818-ed5100b507c5
+        title: Charlie Hickson
+        slug: charlie-hickson
+      - node_id: 74505a33-a16b-4256-bd97-e40e2a2790c7
+        title: USA, Mississippi, Pascagoula
+        slug: mississippi-pascagoula-usa
+      - node_id: 7fdb6e56-538b-4a51-892b-78a05444a683
+        title: 1973 Pascagoula, Mississippi Unidentified Flying Object (UFO) abduction
+        slug: mississippi-unidentified-flying-object-ufo-abduction-1973-pascagoula
+    date: '1973-10-11'
+    date_end: null
+    location_in_record: ch9:1091-1182
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 220315f4-29cd-4c89-8860-44f95613d98f
+      record_title: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About UFO Influences on the Human Race'
+      record_date: '2014-09-27'
+      record_reference: null
+      content_hash: sha256:5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b8489cc11c26
+      friendly_name: 2014-09-27-ebook-the-invisible-college-what-a-group-of-scientists-has
+  - claim_id: 80ccaf76-7f59-4566-990b-545c47fa8a8d
+    claim_hash: 2130ba72b2088e1cb5824094448f4bfe72eb94c2adb90b8eeca3fe04a706722c
+    content: In a report to Charles T. Tart, the EEG technician confirmed that she was in the outer hall with her husband
+      at the time of Robert Monroe's indicated out-of-body separation.
+    original_excerpt: In a report to Dr. Tart, the technician confirmed that she was in the outer hall with her husband at
+      the time of the indicated “separation.”
+    claim_type: testimony
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: named
+      origin: the EEG technician
+      relay:
+        - a report to Charles T. Tart
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 64f100c7-ad23-46ef-8818-ed5100b507c5
+        title: Charlie Hickson
+        slug: charlie-hickson
+      - node_id: 7dd41fc6-847d-4a7f-9fff-f01b9bdf0bff
+        title: 'Electroencephalogram (EEG) Experiment #EEG-5 (1966-07-19)'
+        slug: electroencephalogram-eeg-experiment-eeg-5-1966-07-19
+    date: null
+    date_end: null
+    location_in_record: ch12:24425-24553
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 0585998d-c88f-4448-be7b-523c2680e789
+      record_title: Journeys Out of the Body
+      record_date: '2014-11-11'
+      record_reference: null
+      content_hash: sha256:b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029dc180b44
+      friendly_name: 2014-11-11-ebook-journeys-out-of-the-body
+  - claim_id: 06e0a806-ddab-4ad5-bf02-a539685a8a71
+    claim_hash: 41025b99e5f2816f8db71e96e47682e4b5db4b7c40695484e9855123ac77d813
+    content: Charles T. Tart stated that the EEG recording showed definite unusual and unique tracings during the time of
+      Robert Monroe's out-of-body activity in the EEG-5 experiment.
+    original_excerpt: Dr. Tart states that the EEG shows definite unusual and unique tracings during time of activity.
+    claim_type: testimony
+    attestation: second_hand
+    speaker:
+      node_id: 64f100c7-ad23-46ef-8818-ed5100b507c5
+      title: Charlie Hickson
+    provenance_chain:
+      origin_kind: named
+      origin: Charles T. Tart
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 125af8db-41e0-4f1f-b199-93e677c2aabe
+        title: Electroencephalography (EEG)
+        slug: electroencephalography-eeg
+      - node_id: 64f100c7-ad23-46ef-8818-ed5100b507c5
+        title: Charlie Hickson
+        slug: charlie-hickson
+      - node_id: 7dd41fc6-847d-4a7f-9fff-f01b9bdf0bff
+        title: 'Electroencephalogram (EEG) Experiment #EEG-5 (1966-07-19)'
+        slug: electroencephalogram-eeg-experiment-eeg-5-1966-07-19
+    date: null
+    date_end: null
+    location_in_record: ch12:24660-24747
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 0585998d-c88f-4448-be7b-523c2680e789
+      record_title: Journeys Out of the Body
+      record_date: '2014-11-11'
+      record_reference: null
+      content_hash: sha256:b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029dc180b44
+      friendly_name: 2014-11-11-ebook-journeys-out-of-the-body
+  - claim_id: d6bb67d4-f06f-48f4-9442-aa2288d0a7ca
+    claim_hash: b3ee50a98e2a7e0a33f7b1907f86c0beb7f3685fce59ea339b476d17aaec8264
+    content: Charles T. Tart conducted an initial series of laboratory studies with Robert Monroe over several months between
+      September 1965 and August 1966 at the Electroencephalographic Laboratory, University of Virginia Medical School.
+    original_excerpt: The initial series of laboratory studies we were able to do occurred over a period of several months
+      between September 1965 and August 1966, while I was able to use the facilities of the Electroencephalographic (brain
+      wave) Laboratory of the University of Virginia Medical School.
+    claim_type: administrative
+    attestation: first_hand
+    speaker:
+      node_id: 64f100c7-ad23-46ef-8818-ed5100b507c5
+      title: Charlie Hickson
+    provenance_chain:
+      origin_kind: speaker
+      origin: Charles T. Tart
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 12a1de1a-2a19-4ca3-9265-ce2409db4572
+        title: University of Virginia Medical School
+        slug: university-of-virginia-medical-school
+      - node_id: 39bc257e-6dcc-4c45-b021-a456625771cb
+        title: Robert Monroe
+        slug: robert-monroe
+      - node_id: 63bbbea7-034c-4baa-8f7c-8a63d758ad36
+        title: Electroencephalographic Laboratory, University of Virginia Medical School
+        slug: university-of-virginia-medical-school-electroencephalographic-laboratory
+      - node_id: 64f100c7-ad23-46ef-8818-ed5100b507c5
+        title: Charlie Hickson
+        slug: charlie-hickson
+    date: 1965-09
+    date_end: null
+    location_in_record: ch8:12111-12384
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 0585998d-c88f-4448-be7b-523c2680e789
+      record_title: Journeys Out of the Body
+      record_date: '2014-11-11'
+      record_reference: null
+      content_hash: sha256:b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029dc180b44
+      friendly_name: 2014-11-11-ebook-journeys-out-of-the-body
+  - claim_id: 0017413f-c38b-46e0-8d18-ac8c8226e6a2
+    claim_hash: 5b720946b85fb6ce426502b0adef89e535dfc27575820ccde460122f15968474
+    content: On eight occasions Robert Monroe was asked to try to produce an out-of-the-body experience (OOBE) while connected
+      to instruments measuring physiological functions.
+    original_excerpt: On eight occasions Mr. Monroe was asked to try to produce an OOBE while hooked up to various instruments
+      for measuring physiological functions.
+    claim_type: observation
+    attestation: first_hand
+    speaker:
+      node_id: 64f100c7-ad23-46ef-8818-ed5100b507c5
+      title: Charlie Hickson
+    provenance_chain:
+      origin_kind: speaker
+      origin: Charles T. Tart
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 39bc257e-6dcc-4c45-b021-a456625771cb
+        title: Robert Monroe
+        slug: robert-monroe
+      - node_id: 8b0155a9-fabc-4b8d-9ee9-45eac58dbf2e
+        title: Out-of-Body Experience (OBE)
+        slug: out-of-body-experience-obe
+    date: null
+    date_end: null
+    location_in_record: ch8:12393-12526
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 0585998d-c88f-4448-be7b-523c2680e789
+      record_title: Journeys Out of the Body
+      record_date: '2014-11-11'
+      record_reference: null
+      content_hash: sha256:b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029dc180b44
+      friendly_name: 2014-11-11-ebook-journeys-out-of-the-body
+  - claim_id: c65f48f4-f9fe-4b86-b173-7af9f0f34632
+    claim_hash: e4cf60e54fa6430434c932713e674034e39d5be2504191e642218d05e390120f
+    content: Robert Monroe was asked to direct his movements during the out-of-the-body experience (OOBE) into the adjoining
+      room to observe the technician monitoring the recording equipment.
+    original_excerpt: He was also asked to try to direct his movements during the OOBE into the adjoining room, both to observe
+      the activity of the technician monitoring the recording equipment
+    claim_type: administrative
+    attestation: first_hand
+    speaker:
+      node_id: 64f100c7-ad23-46ef-8818-ed5100b507c5
+      title: Charlie Hickson
+    provenance_chain:
+      origin_kind: speaker
+      origin: Charles T. Tart
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 39bc257e-6dcc-4c45-b021-a456625771cb
+        title: Robert Monroe
+        slug: robert-monroe
+      - node_id: 8b0155a9-fabc-4b8d-9ee9-45eac58dbf2e
+        title: Out-of-Body Experience (OBE)
+        slug: out-of-body-experience-obe
+    date: null
+    date_end: null
+    location_in_record: ch8:12537-12699
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 0585998d-c88f-4448-be7b-523c2680e789
+      record_title: Journeys Out of the Body
+      record_date: '2014-11-11'
+      record_reference: null
+      content_hash: sha256:b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029dc180b44
+      friendly_name: 2014-11-11-ebook-journeys-out-of-the-body
+  - claim_id: 95e40350-c990-4d62-8ef4-3da62e28bcae
+    claim_hash: e331b94d4249ce96cf196c5cac4046fe2905051d480d27ff543e0946e22ac3f6
+    content: Robert Monroe was asked to try to read a five-digit random target number placed on a shelf approximately 1.8
+      metres above the floor in the room adjoining the recording room.
+    original_excerpt: to try to read a five-digit random target number, which was placed on a shelf six feet above the floor
+    claim_type: measurement
+    attestation: first_hand
+    speaker:
+      node_id: 64f100c7-ad23-46ef-8818-ed5100b507c5
+      title: Charlie Hickson
+    provenance_chain:
+      origin_kind: speaker
+      origin: Charles T. Tart
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 39bc257e-6dcc-4c45-b021-a456625771cb
+        title: Robert Monroe
+        slug: robert-monroe
+    date: null
+    date_end: null
+    location_in_record: ch8:12713-12810
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 0585998d-c88f-4448-be7b-523c2680e789
+      record_title: Journeys Out of the Body
+      record_date: '2014-11-11'
+      record_reference: null
+      content_hash: sha256:b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029dc180b44
+      friendly_name: 2014-11-11-ebook-journeys-out-of-the-body
+  - claim_id: 207ff65a-a4de-4cbe-a9c7-4bf26e336077
+    claim_hash: 7d22788de103cd0e7cc3284abadd798c053e57b50d52d3a535d07d0e4006a8ea
+    content: Measurements were made of Robert Monroe's brain waves (electroencephalogram), eye movements, and heart rate (electrocardiogram)
+      during the laboratory sessions.
+    original_excerpt: Measurements were made of Mr. Monroe’s brain waves (the electroencephalogram), eye movements, and heart
+      rate (the electrocardiogram).
+    claim_type: measurement
+    attestation: first_hand
+    speaker:
+      node_id: 64f100c7-ad23-46ef-8818-ed5100b507c5
+      title: Charlie Hickson
+    provenance_chain:
+      origin_kind: speaker
+      origin: Charles T. Tart
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 125af8db-41e0-4f1f-b199-93e677c2aabe
+        title: Electroencephalography (EEG)
+        slug: electroencephalography-eeg
+      - node_id: 39bc257e-6dcc-4c45-b021-a456625771cb
+        title: Robert Monroe
+        slug: robert-monroe
+    date: null
+    date_end: null
+    location_in_record: ch8:12817-12931
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 0585998d-c88f-4448-be7b-523c2680e789
+      record_title: Journeys Out of the Body
+      record_date: '2014-11-11'
+      record_reference: null
+      content_hash: sha256:b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029dc180b44
+      friendly_name: 2014-11-11-ebook-journeys-out-of-the-body
+  - claim_id: c98246fe-c005-4031-8d2c-713d2715186d
+    claim_hash: bf42ce15c8cc305fd922d184afd3ac8caa4855125e21b651ad3f772f9e1152c2
+    content: An army cot was brought into the recording room at the Electroencephalographic Laboratory, University of Virginia
+      Medical School because there was no bed there.
+    original_excerpt: we had to bring an army cot into the recording room, as there was no bed there
+    claim_type: observation
+    attestation: first_hand
+    speaker:
+      node_id: 64f100c7-ad23-46ef-8818-ed5100b507c5
+      title: Charlie Hickson
+    provenance_chain:
+      origin_kind: speaker
+      origin: Charles T. Tart
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 63bbbea7-034c-4baa-8f7c-8a63d758ad36
+        title: Electroencephalographic Laboratory, University of Virginia Medical School
+        slug: university-of-virginia-medical-school-electroencephalographic-laboratory
+    date: null
+    date_end: null
+    location_in_record: ch8:13047-13120
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 0585998d-c88f-4448-be7b-523c2680e789
+      record_title: Journeys Out of the Body
+      record_date: '2014-11-11'
+      record_reference: null
+      content_hash: sha256:b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029dc180b44
+      friendly_name: 2014-11-11-ebook-journeys-out-of-the-body
+  - claim_id: 87449ec1-89a4-43a0-937f-30c06aef3620
+    claim_hash: c27e1a9391beac12f99b9c9155f0a656a2a67c548aaf47f5ba3a9a4e7ec65e20
+    content: The clip-type ear electrode used for recording brain waves caused irritation to the ear, making relaxation difficult
+      for Robert Monroe.
+    original_excerpt: One of the connections for recording brain waves, the ear electrode, was of a clip type that caused
+      some irritation to the ear, and this made relaxation somewhat difficult.
+    claim_type: observation
+    attestation: first_hand
+    speaker:
+      node_id: 64f100c7-ad23-46ef-8818-ed5100b507c5
+      title: Charlie Hickson
+    provenance_chain:
+      origin_kind: speaker
+      origin: Charles T. Tart
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 39bc257e-6dcc-4c45-b021-a456625771cb
+        title: Robert Monroe
+        slug: robert-monroe
+    date: null
+    date_end: null
+    location_in_record: ch8:13127-13289
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 0585998d-c88f-4448-be7b-523c2680e789
+      record_title: Journeys Out of the Body
+      record_date: '2014-11-11'
+      record_reference: null
+      content_hash: sha256:b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029dc180b44
+      friendly_name: 2014-11-11-ebook-journeys-out-of-the-body
+  - claim_id: 70102fc3-c550-4b95-ab23-ab6e1c9cf8a4
+    claim_hash: f5362d016927b2a1196d2b9f880b1695e242b75f19c28e1a08e333c591d0912a
+    content: On the first seven nights of the laboratory sessions at the Electroencephalographic Laboratory, University of
+      Virginia Medical School, Robert Monroe was not successful in producing an out-of-the-body experience (OOBE).
+    original_excerpt: On the first seven nights during which he attempted to produce an OOBE, Mr. Monroe was not successful.
+    claim_type: observation
+    attestation: first_hand
+    speaker:
+      node_id: 64f100c7-ad23-46ef-8818-ed5100b507c5
+      title: Charlie Hickson
+    provenance_chain:
+      origin_kind: speaker
+      origin: Charles T. Tart
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 39bc257e-6dcc-4c45-b021-a456625771cb
+        title: Robert Monroe
+        slug: robert-monroe
+      - node_id: 63bbbea7-034c-4baa-8f7c-8a63d758ad36
+        title: Electroencephalographic Laboratory, University of Virginia Medical School
+        slug: university-of-virginia-medical-school-electroencephalographic-laboratory
+      - node_id: 8b0155a9-fabc-4b8d-9ee9-45eac58dbf2e
+        title: Out-of-Body Experience (OBE)
+        slug: out-of-body-experience-obe
+    date: null
+    date_end: null
+    location_in_record: ch8:13301-13392
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 0585998d-c88f-4448-be7b-523c2680e789
+      record_title: Journeys Out of the Body
+      record_date: '2014-11-11'
+      record_reference: null
+      content_hash: sha256:b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029dc180b44
+      friendly_name: 2014-11-11-ebook-journeys-out-of-the-body
+  - claim_id: 16610bea-d273-40a2-a9f3-c2147bcde4e6
+    claim_hash: dc1d4d3c3d07f952c7e53ea6d2663c5d2fa3d9495f025970215c89d03b5582fb
+    content: On the eighth night of the laboratory sessions, Robert Monroe produced two very brief out-of-the-body experiences
+      (OOBEs).
+    original_excerpt: On his eighth night he was able to produce two very brief OOBEs, and these are described in some detail
+      in his own words
+    claim_type: observation
+    attestation: first_hand
+    speaker:
+      node_id: 64f100c7-ad23-46ef-8818-ed5100b507c5
+      title: Charlie Hickson
+    provenance_chain:
+      origin_kind: speaker
+      origin: Charles T. Tart
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 39bc257e-6dcc-4c45-b021-a456625771cb
+        title: Robert Monroe
+        slug: robert-monroe
+      - node_id: 8b0155a9-fabc-4b8d-9ee9-45eac58dbf2e
+        title: Out-of-Body Experience (OBE)
+        slug: out-of-body-experience-obe
+    date: null
+    date_end: null
+    location_in_record: ch8:13404-13519
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 0585998d-c88f-4448-be7b-523c2680e789
+      record_title: Journeys Out of the Body
+      record_date: '2014-11-11'
+      record_reference: null
+      content_hash: sha256:b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029dc180b44
+      friendly_name: 2014-11-11-ebook-journeys-out-of-the-body
+  - claim_id: 678bc207-ee83-4160-a6f8-c7de75d30656
+    claim_hash: 11d97198889099aa33519bf5008c62684f1908fdf8282a76307cf47cc39e1181
+    content: During his second brief out-of-the-body experience (OOBE) on the eighth laboratory night, Robert Monroe correctly
+      described that the laboratory technician was out of the room and that a man, later identified as her husband, was with
+      her in a corridor.
+    original_excerpt: He did correctly describe that the laboratory technician was out of the room, and that a man (later
+      identified as her husband) was with her in a corridor.
+    claim_type: observation
+    attestation: first_hand
+    speaker:
+      node_id: 64f100c7-ad23-46ef-8818-ed5100b507c5
+      title: Charlie Hickson
+    provenance_chain:
+      origin_kind: speaker
+      origin: Charles T. Tart
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 39bc257e-6dcc-4c45-b021-a456625771cb
+        title: Robert Monroe
+        slug: robert-monroe
+      - node_id: 8b0155a9-fabc-4b8d-9ee9-45eac58dbf2e
+        title: Out-of-Body Experience (OBE)
+        slug: out-of-body-experience-obe
+    date: null
+    date_end: null
+    location_in_record: ch8:13915-14060
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 0585998d-c88f-4448-be7b-523c2680e789
+      record_title: Journeys Out of the Body
+      record_date: '2014-11-11'
+      record_reference: null
+      content_hash: sha256:b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029dc180b44
+      friendly_name: 2014-11-11-ebook-journeys-out-of-the-body
+  - claim_id: 1b2535ad-8b9c-49fc-a982-ff543d4711ef
+    claim_hash: c531e25dc816af9eb2d9a1cbc0d52ed8f980a5f5502ba2a1778b8aef725877cd
+    content: Charles T. Tart's next opportunity to work with Robert Monroe in the laboratory came when Monroe visited him
+      in California, USA, in the summer of 1968.
+    original_excerpt: My next opportunity to work with Mr. Monroe in the laboratory came when he visited me in California
+      during the summer of 1968.
+    claim_type: administrative
+    attestation: first_hand
+    speaker:
+      node_id: 64f100c7-ad23-46ef-8818-ed5100b507c5
+      title: Charlie Hickson
+    provenance_chain:
+      origin_kind: speaker
+      origin: Charles T. Tart
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 39bc257e-6dcc-4c45-b021-a456625771cb
+        title: Robert Monroe
+        slug: robert-monroe
+      - node_id: 64f100c7-ad23-46ef-8818-ed5100b507c5
+        title: Charlie Hickson
+        slug: charlie-hickson
+      - node_id: e5c02fba-d644-41c5-aadd-7d9acc35c103
+        title: USA, California, Davis
+        slug: california-davis-usa
+    date: '1968'
+    date_end: null
+    location_in_record: ch8:14411-14532
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 0585998d-c88f-4448-be7b-523c2680e789
+      record_title: Journeys Out of the Body
+      record_date: '2014-11-11'
+      record_reference: null
+      content_hash: sha256:b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029dc180b44
+      friendly_name: 2014-11-11-ebook-journeys-out-of-the-body
+  - claim_id: e1054172-40e7-4abe-b12a-2aaf6f97d290
+    claim_hash: e61fbf2cf73fcfc5c890ad0b18f51760398a2c693ea7e44a0da9da2ae26b3f73
+    content: During the 1968 California laboratory session, a normal bed was available rather than a cot, and a different,
+      more comfortable type of electrode for measuring brain waves was used.
+    original_excerpt: a normal bed was available, rather than a cot, and we used a different type of electrode for measuring
+      brain waves which was not physically uncomfortable
+    claim_type: observation
+    attestation: first_hand
+    speaker:
+      node_id: 64f100c7-ad23-46ef-8818-ed5100b507c5
+      title: Charlie Hickson
+    provenance_chain:
+      origin_kind: speaker
+      origin: Charles T. Tart
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 39bc257e-6dcc-4c45-b021-a456625771cb
+        title: Robert Monroe
+        slug: robert-monroe
+      - node_id: 64f100c7-ad23-46ef-8818-ed5100b507c5
+        title: Charlie Hickson
+        slug: charlie-hickson
+    date: '1968'
+    date_end: null
+    location_in_record: ch8:14630-14770
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 0585998d-c88f-4448-be7b-523c2680e789
+      record_title: Journeys Out of the Body
+      record_date: '2014-11-11'
+      record_reference: null
+      content_hash: sha256:b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029dc180b44
+      friendly_name: 2014-11-11-ebook-journeys-out-of-the-body
+  - claim_id: a5045ed2-11a0-4b8f-823a-a4709884a93c
+    claim_hash: 367d12b10d6d81e2d104478ea03618875cd22da4f4db0e70141d182702804176
+    content: Under the improved conditions of the 1968 California laboratory session, Robert Monroe was able to produce two
+      brief out-of-the-body experiences (OOBEs).
+    original_excerpt: Under these conditions, Mr. Monroe was able to produce two brief OOBEs.
+    claim_type: observation
+    attestation: first_hand
+    speaker:
+      node_id: 64f100c7-ad23-46ef-8818-ed5100b507c5
+      title: Charlie Hickson
+    provenance_chain:
+      origin_kind: speaker
+      origin: Charles T. Tart
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 39bc257e-6dcc-4c45-b021-a456625771cb
+        title: Robert Monroe
+        slug: robert-monroe
+      - node_id: 8b0155a9-fabc-4b8d-9ee9-45eac58dbf2e
+        title: Out-of-Body Experience (OBE)
+        slug: out-of-body-experience-obe
+    date: '1968'
+    date_end: null
+    location_in_record: ch8:14785-14850
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 0585998d-c88f-4448-be7b-523c2680e789
+      record_title: Journeys Out of the Body
+      record_date: '2014-11-11'
+      record_reference: null
+      content_hash: sha256:b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029dc180b44
+      friendly_name: 2014-11-11-ebook-journeys-out-of-the-body
+  - claim_id: 6342d28d-3a1f-4b98-bf73-5142b49cc07c
+    claim_hash: e2008b01815fbbff8cdeafb2acbbba14ca94369ec589e34cb5f6707e3df9ddd1
+    content: The brain-wave record just before Robert Monroe awoke from his first 1968 California out-of-the-body experience
+      (OOBE) showed a Stage 1 sleep pattern, with possibly a single rapid eye movement (REM) occurring during that time.
+    original_excerpt: The brain-wave record just before he awoke again showed a Stage 1 pattern, with possibly a single rapid
+      eye movement occurring during that time.
+    claim_type: measurement
+    attestation: first_hand
+    speaker:
+      node_id: 64f100c7-ad23-46ef-8818-ed5100b507c5
+      title: Charlie Hickson
+    provenance_chain:
+      origin_kind: speaker
+      origin: Charles T. Tart
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 39bc257e-6dcc-4c45-b021-a456625771cb
+        title: Robert Monroe
+        slug: robert-monroe
+      - node_id: c73a0506-5354-40ec-855d-9c2a36846362
+        title: Rapid Eye Movement (REM) sleep
+        slug: rapid-eye-movement-rem-sleep
+    date: '1968'
+    date_end: null
+    location_in_record: ch8:14973-15112
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 0585998d-c88f-4448-be7b-523c2680e789
+      record_title: Journeys Out of the Body
+      record_date: '2014-11-11'
+      record_reference: null
+      content_hash: sha256:b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029dc180b44
+      friendly_name: 2014-11-11-ebook-journeys-out-of-the-body
+  - claim_id: 099ebde8-d250-4b43-aa6f-c0034a1669ee
+    claim_hash: cfce29b6c2dc847823d3d6ef3e39ba411f87d122648833c469e3c2f348075ed8
+    content: During Robert Monroe's first 1968 California out-of-the-body experience (OOBE), his blood pressure showed a sudden
+      drop, a steady low lasting eight seconds, and then a sudden resurgence to normal.
+    original_excerpt: His blood pressure showed a sudden drop, a steady low lasting eight seconds, and a sudden resurgence
+      to normal.
+    claim_type: measurement
+    attestation: first_hand
+    speaker:
+      node_id: 64f100c7-ad23-46ef-8818-ed5100b507c5
+      title: Charlie Hickson
+    provenance_chain:
+      origin_kind: speaker
+      origin: Charles T. Tart
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 39bc257e-6dcc-4c45-b021-a456625771cb
+        title: Robert Monroe
+        slug: robert-monroe
+    date: '1968'
+    date_end: null
+    location_in_record: ch8:15118-15222
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 0585998d-c88f-4448-be7b-523c2680e789
+      record_title: Journeys Out of the Body
+      record_date: '2014-11-11'
+      record_reference: null
+      content_hash: sha256:b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029dc180b44
+      friendly_name: 2014-11-11-ebook-journeys-out-of-the-body
+  - claim_id: d1f8ae5f-7bf0-4972-b64f-6c9f25b8e4dd
+    claim_hash: 139ad6528e6e1a3718a3113baa6877c10447bfa74a67f68c1d9739dccf1f96f9
+    content: Joan Crawford, an assistant to Charles T. Tart, and Tart watched Robert Monroe on closed-circuit television during
+      his first 1968 California out-of-the-body experience (OOBE) and saw him move his arm slightly away from his throat just
+      before he awoke and reported the experience.
+    original_excerpt: An assistant, Joan Crawford, and I had been watching him on a closed-circuit television set during this
+      time and we saw him move his arm slightly away from his throat just before he awoke and reported.
+    claim_type: observation
+    attestation: first_hand
+    speaker:
+      node_id: 64f100c7-ad23-46ef-8818-ed5100b507c5
+      title: Charlie Hickson
+    provenance_chain:
+      origin_kind: speaker
+      origin: Charles T. Tart
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 3790678e-ba30-4d7f-941e-8fbf194cc182
+        title: Joan Crawford
+        slug: joan-crawford
+      - node_id: 39bc257e-6dcc-4c45-b021-a456625771cb
+        title: Robert Monroe
+        slug: robert-monroe
+      - node_id: 64f100c7-ad23-46ef-8818-ed5100b507c5
+        title: Charlie Hickson
+        slug: charlie-hickson
+      - node_id: 8b0155a9-fabc-4b8d-9ee9-45eac58dbf2e
+        title: Out-of-Body Experience (OBE)
+        slug: out-of-body-experience-obe
+    date: '1968'
+    date_end: null
+    location_in_record: ch8:15543-15735
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 0585998d-c88f-4448-be7b-523c2680e789
+      record_title: Journeys Out of the Body
+      record_date: '2014-11-11'
+      record_reference: null
+      content_hash: sha256:b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029dc180b44
+      friendly_name: 2014-11-11-ebook-journeys-out-of-the-body
+  - claim_id: 20c5f7a4-e09d-4eb3-9469-dc3d091fa309
+    claim_hash: 7b8141fa67b734a1da4664b59ffc9c5248b49b2b71e9ad9366acf9fc4eee8df6
+    content: During his second attempt in the 1968 California session, Robert Monroe's brain-wave pattern showed much light
+      sleep, so after three quarters of an hour Charles T. Tart called out to him over the intercom to remind him that they
+      wanted him to try to produce an out-of-the-body experience (OOBE).
+    original_excerpt: His brain-wave pattern showed much light sleep, so after three quarters of an hour, I called out to
+      him over the intercom to remind him that we wanted him to try to produce an OOBE.
+    claim_type: observation
+    attestation: first_hand
+    speaker:
+      node_id: 64f100c7-ad23-46ef-8818-ed5100b507c5
+      title: Charlie Hickson
+    provenance_chain:
+      origin_kind: speaker
+      origin: Charles T. Tart
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 39bc257e-6dcc-4c45-b021-a456625771cb
+        title: Robert Monroe
+        slug: robert-monroe
+      - node_id: 64f100c7-ad23-46ef-8818-ed5100b507c5
+        title: Charlie Hickson
+        slug: charlie-hickson
+      - node_id: 8b0155a9-fabc-4b8d-9ee9-45eac58dbf2e
+        title: Out-of-Body Experience (OBE)
+        slug: out-of-body-experience-obe
+    date: '1968'
+    date_end: null
+    location_in_record: ch8:15930-16106
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 0585998d-c88f-4448-be7b-523c2680e789
+      record_title: Journeys Out of the Body
+      record_date: '2014-11-11'
+      record_reference: null
+      content_hash: sha256:b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029dc180b44
+      friendly_name: 2014-11-11-ebook-journeys-out-of-the-body
+  - claim_id: 03b106a9-45d4-4656-9ac1-a98ee7a2ed56
+    claim_hash: 3adc72f50b8656c528df0c1fbafe950277a76f7fcc61d0fb889a015983e9f2b1
+    content: Robert Monroe's description of the strange area he encountered during his second 1968 California out-of-the-body
+      experience (OOBE) matched an interior courtyard of the building he would have found himself in if he had inadvertently
+      gone in exactly the opposite direction he should have.
+    original_excerpt: His description of that area matched an interior courtyard of the building that he would indeed have
+      found himself in during an OOBE if he had inadvertently gone in exactly the opposite direction he should have.
+    claim_type: observation
+    attestation: first_hand
+    speaker:
+      node_id: 64f100c7-ad23-46ef-8818-ed5100b507c5
+      title: Charlie Hickson
+    provenance_chain:
+      origin_kind: speaker
+      origin: Charles T. Tart
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 39bc257e-6dcc-4c45-b021-a456625771cb
+        title: Robert Monroe
+        slug: robert-monroe
+      - node_id: 8b0155a9-fabc-4b8d-9ee9-45eac58dbf2e
+        title: Out-of-Body Experience (OBE)
+        slug: out-of-body-experience-obe
+    date: '1968'
+    date_end: null
+    location_in_record: ch8:16422-16628
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 0585998d-c88f-4448-be7b-523c2680e789
+      record_title: Journeys Out of the Body
+      record_date: '2014-11-11'
+      record_reference: null
+      content_hash: sha256:b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029dc180b44
+      friendly_name: 2014-11-11-ebook-journeys-out-of-the-body
+  - claim_id: 7eab0a8c-50d0-4198-a3a7-6a0194a81617
+    claim_hash: b0dad4c64bbffc0d7645e975be8da7728c9ba454e53c23f36f9a87fd6857c982
+    content: During Robert Monroe's second 1968 California out-of-the-body experience (OOBE) attempt, his physiological measurements
+      again showed a Stage 1 dreaming pattern, with only two rapid eye movements (REM) in the whole period and no clear-cut
+      blood pressure drop.
+    original_excerpt: In terms of physiological changes, he again showed a Stage 1 dreaming pattern, with only two rapid eye
+      movements in the whole period and no clear-cut blood pressure drop on this occasion.
+    claim_type: measurement
+    attestation: first_hand
+    speaker:
+      node_id: 64f100c7-ad23-46ef-8818-ed5100b507c5
+      title: Charlie Hickson
+    provenance_chain:
+      origin_kind: speaker
+      origin: Charles T. Tart
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 39bc257e-6dcc-4c45-b021-a456625771cb
+        title: Robert Monroe
+        slug: robert-monroe
+      - node_id: c73a0506-5354-40ec-855d-9c2a36846362
+        title: Rapid Eye Movement (REM) sleep
+        slug: rapid-eye-movement-rem-sleep
+    date: '1968'
+    date_end: null
+    location_in_record: ch8:16837-17015
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 0585998d-c88f-4448-be7b-523c2680e789
+      record_title: Journeys Out of the Body
+      record_date: '2014-11-11'
+      record_reference: null
+      content_hash: sha256:b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029dc180b44
+      friendly_name: 2014-11-11-ebook-journeys-out-of-the-body
+  - claim_id: 830b3c18-3068-42af-83fd-508227b28b14
+    claim_hash: 94f99d53d368c61232bfa6038fd39bc41f5a9598cec29967a13cdf7824cd51f8
+    content: Charles T. Tart moved from the east coast of the United States to California, USA, shortly after completing the
+      first series of laboratory experiments with Robert Monroe.
+    original_excerpt: Shortly after completing the first series of laboratory experiments, I moved from the east coast to
+      California.
+    claim_type: administrative
+    attestation: first_hand
+    speaker:
+      node_id: 64f100c7-ad23-46ef-8818-ed5100b507c5
+      title: Charlie Hickson
+    provenance_chain:
+      origin_kind: speaker
+      origin: Charles T. Tart
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 39bc257e-6dcc-4c45-b021-a456625771cb
+        title: Robert Monroe
+        slug: robert-monroe
+      - node_id: 64f100c7-ad23-46ef-8818-ed5100b507c5
+        title: Charlie Hickson
+        slug: charlie-hickson
+      - node_id: e5c02fba-d644-41c5-aadd-7d9acc35c103
+        title: USA, California, Davis
+        slug: california-davis-usa
+    date: null
+    date_end: null
+    location_in_record: ch8:17601-17701
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 0585998d-c88f-4448-be7b-523c2680e789
+      record_title: Journeys Out of the Body
+      record_date: '2014-11-11'
+      record_reference: null
+      content_hash: sha256:b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029dc180b44
+      friendly_name: 2014-11-11-ebook-journeys-out-of-the-body
+  - claim_id: eaecf404-6470-4119-89c1-83f38f64289b
+    claim_hash: cb06a499bd1c53a2bcf2a5d7ff202b044662e3730edd3cc33554d8db4d3da2c8
+    content: A few months after moving to California, Charles T. Tart and his wife set up an experiment in which they would
+      concentrate intensely for half an hour to try to help Robert Monroe have an out-of-the-body experience (OOBE) and come
+      to their home.
+    original_excerpt: A few months after moving, my wife and I decided to set up an experiment. One evening we would concentrate
+      intensely for half an hour, in an attempt to help Mr. Monroe have an OOBE and come to our home.
+    claim_type: administrative
+    attestation: first_hand
+    speaker:
+      node_id: 64f100c7-ad23-46ef-8818-ed5100b507c5
+      title: Charlie Hickson
+    provenance_chain:
+      origin_kind: speaker
+      origin: Charles T. Tart
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 39bc257e-6dcc-4c45-b021-a456625771cb
+        title: Robert Monroe
+        slug: robert-monroe
+      - node_id: 64f100c7-ad23-46ef-8818-ed5100b507c5
+        title: Charlie Hickson
+        slug: charlie-hickson
+      - node_id: 8b0155a9-fabc-4b8d-9ee9-45eac58dbf2e
+        title: Out-of-Body Experience (OBE)
+        slug: out-of-body-experience-obe
+    date: null
+    date_end: null
+    location_in_record: ch8:17713-17910
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 0585998d-c88f-4448-be7b-523c2680e789
+      record_title: Journeys Out of the Body
+      record_date: '2014-11-11'
+      record_reference: null
+      content_hash: sha256:b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029dc180b44
+      friendly_name: 2014-11-11-ebook-journeys-out-of-the-body
+  - claim_id: b90fc0f2-e87e-4f6b-9c68-d38b65bd61fb
+    claim_hash: 61f286e1ab75348959c111d86e50db0ceb82e3edf92fd8113bbdfa1c6fb8ea3c
+    content: Charles T. Tart telephoned Robert Monroe on the afternoon of the experiment and told him only that they would
+      try to direct him across the country to their home at an unspecified time that night, without giving further details.
+    original_excerpt: I telephoned Mr. Monroe that afternoon, and told him only that we would try to direct him across the
+      country to our home at some unspecified time that night, without giving him any further details.
+    claim_type: administrative
+    attestation: first_hand
+    speaker:
+      node_id: 64f100c7-ad23-46ef-8818-ed5100b507c5
+      title: Charlie Hickson
+    provenance_chain:
+      origin_kind: speaker
+      origin: Charles T. Tart
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 39bc257e-6dcc-4c45-b021-a456625771cb
+        title: Robert Monroe
+        slug: robert-monroe
+      - node_id: 64f100c7-ad23-46ef-8818-ed5100b507c5
+        title: Charlie Hickson
+        slug: charlie-hickson
+    date: null
+    date_end: null
+    location_in_record: ch8:18035-18224
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 0585998d-c88f-4448-be7b-523c2680e789
+      record_title: Journeys Out of the Body
+      record_date: '2014-11-11'
+      record_reference: null
+      content_hash: sha256:b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029dc180b44
+      friendly_name: 2014-11-11-ebook-journeys-out-of-the-body
+  - claim_id: 3b4f7682-1589-4e32-8b0e-4ec5860388ad
+    claim_hash: 6c134f74290d8fc501df2583474aaa6201242ac1071349212ba32ac4a30cff5c
+    content: Charles T. Tart randomly selected 11 P.M. California time (2 A.M. east coast time) for the concentration experiment,
+      believing this would occur well after Robert Monroe would be asleep.
+    original_excerpt: My random selection came out 11 P.M. California time, or 2 A.M. east coast time.
+    claim_type: administrative
+    attestation: first_hand
+    speaker:
+      node_id: 64f100c7-ad23-46ef-8818-ed5100b507c5
+      title: Charlie Hickson
+    provenance_chain:
+      origin_kind: speaker
+      origin: Charles T. Tart
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 39bc257e-6dcc-4c45-b021-a456625771cb
+        title: Robert Monroe
+        slug: robert-monroe
+      - node_id: 64f100c7-ad23-46ef-8818-ed5100b507c5
+        title: Charlie Hickson
+        slug: charlie-hickson
+    date: null
+    date_end: null
+    location_in_record: ch8:18344-18419
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 0585998d-c88f-4448-be7b-523c2680e789
+      record_title: Journeys Out of the Body
+      record_date: '2014-11-11'
+      record_reference: null
+      content_hash: sha256:b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029dc180b44
+      friendly_name: 2014-11-11-ebook-journeys-out-of-the-body
+  - claim_id: cf55face-c071-41d7-85ec-264edcc6ecc0
+    claim_hash: 40c2d92e8d1af0aadf16b17f620c0036d5842b73c18491d7a97016cd6608600e
+    content: Charles T. Tart and his wife began their concentration at 11 P.M. California time; the telephone rang at 11:05
+      P.M. interrupting it, and they did not answer but continued concentrating until 11:30 P.M.
+    original_excerpt: At 11 P.M. my wife and I began our concentration. At 11:05 P.M. the telephone rang, interrupting it.
+      We did not answer the telephone, but tried to continue our concentration until 11:30 P.M.
+    claim_type: observation
+    attestation: first_hand
+    speaker:
+      node_id: 64f100c7-ad23-46ef-8818-ed5100b507c5
+      title: Charlie Hickson
+    provenance_chain:
+      origin_kind: speaker
+      origin: Charles T. Tart
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 64f100c7-ad23-46ef-8818-ed5100b507c5
+        title: Charlie Hickson
+        slug: charlie-hickson
+    date: null
+    date_end: null
+    location_in_record: ch8:18425-18613
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 0585998d-c88f-4448-be7b-523c2680e789
+      record_title: Journeys Out of the Body
+      record_date: '2014-11-11'
+      record_reference: null
+      content_hash: sha256:b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029dc180b44
+      friendly_name: 2014-11-11-ebook-journeys-out-of-the-body
+  - claim_id: 83b42b86-7156-4e07-b11d-16d86d2ec656
+    claim_hash: c957a1b481f6d3445d3610a2bf59873c9eaf051bf97da1a1a68abf67cbebe180
+    content: The morning after the concentration experiment, Charles T. Tart telephoned Robert Monroe and told him only that
+      the results had been encouraging, and asked him to write an independent account of what he had experienced for later
+      comparison.
+    original_excerpt: The following morning I telephoned Mr. Monroe and told him only that the results had been encouraging,
+      and that he should write down an independent account of what he had experienced for later comparison against our independent
+      accounts.
+    claim_type: administrative
+    attestation: first_hand
+    speaker:
+      node_id: 64f100c7-ad23-46ef-8818-ed5100b507c5
+      title: Charlie Hickson
+    provenance_chain:
+      origin_kind: speaker
+      origin: Charles T. Tart
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 39bc257e-6dcc-4c45-b021-a456625771cb
+        title: Robert Monroe
+        slug: robert-monroe
+      - node_id: 64f100c7-ad23-46ef-8818-ed5100b507c5
+        title: Charlie Hickson
+        slug: charlie-hickson
+    date: null
+    date_end: null
+    location_in_record: ch8:18616-18844
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 0585998d-c88f-4448-be7b-523c2680e789
+      record_title: Journeys Out of the Body
+      record_date: '2014-11-11'
+      record_reference: null
+      content_hash: sha256:b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029dc180b44
+      friendly_name: 2014-11-11-ebook-journeys-out-of-the-body
+  - claim_id: 8416de4a-1688-4716-8f0e-3f243bcb416e
+    claim_hash: cf95ff96f118b31b0469aca8ed672d185a044f4b4f8a049391c14c14f2f9967a
+    content: Robert Monroe recognized that the tugging sensation had something to do with Charles T. Tart's concentration
+      experiment, and, trusting this, did not feel his usual caution about strangers.
+    original_excerpt: I recognized immediately that this had something to do with Charlie’s experiment, and with full trust,
+      did not feel my usual caution (about strangers).
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 39bc257e-6dcc-4c45-b021-a456625771cb
+      title: Robert Monroe
+    provenance_chain:
+      origin_kind: speaker
+      origin: Robert Monroe
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 39bc257e-6dcc-4c45-b021-a456625771cb
+        title: Robert Monroe
+        slug: robert-monroe
+      - node_id: 64f100c7-ad23-46ef-8818-ed5100b507c5
+        title: Charlie Hickson
+        slug: charlie-hickson
+    date: null
+    date_end: null
+    location_in_record: ch8:19402-19542
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 0585998d-c88f-4448-be7b-523c2680e789
+      record_title: Journeys Out of the Body
+      record_date: '2014-11-11'
+      record_reference: null
+      content_hash: sha256:b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029dc180b44
+      friendly_name: 2014-11-11-ebook-journeys-out-of-the-body
+  - claim_id: 984d0142-1467-48a9-a878-046ff0ce8d76
+    claim_hash: 4f46477c437a3afe6720ae88998143f6023f080fdcb969c9b05321fc2fc01bbd
+    content: Robert Monroe reported that, still trusting and a little excited, he expressed willingness to go to Charlie (Charles
+      T. Tart) if that was where the presence wanted to lead him.
+    original_excerpt: Still trusting, and a little excited, I expressed willingness to go to Charlie, if that was where he
+      (it) wanted to lead me.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 39bc257e-6dcc-4c45-b021-a456625771cb
+      title: Robert Monroe
+    provenance_chain:
+      origin_kind: speaker
+      origin: Robert Monroe
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 39bc257e-6dcc-4c45-b021-a456625771cb
+        title: Robert Monroe
+        slug: robert-monroe
+      - node_id: 64f100c7-ad23-46ef-8818-ed5100b507c5
+        title: Charlie Hickson
+        slug: charlie-hickson
+    date: null
+    date_end: null
+    location_in_record: ch8:19831-19952
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 0585998d-c88f-4448-be7b-523c2680e789
+      record_title: Journeys Out of the Body
+      record_date: '2014-11-11'
+      record_reference: null
+      content_hash: sha256:b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029dc180b44
+      friendly_name: 2014-11-11-ebook-journeys-out-of-the-body
+  - claim_id: 6f26b3a3-70b3-4613-b6b8-1eb9628ed549
+    claim_hash: 0189059393e3e08f1d4ed4417215249688b9b6b7ef7a8ce4d7191b770027ebbd
+    content: When Robert Monroe finished this out-of-the-body trip and telephoned Charles T. Tart, it was 2:05 A.M. Robert
+      Monroe's time.
+    original_excerpt: when he finished this brief trip and got out of bed to telephone me it was 2:05 A.M., his time
+    claim_type: testimony
+    attestation: second_hand
+    speaker:
+      node_id: 64f100c7-ad23-46ef-8818-ed5100b507c5
+      title: Charlie Hickson
+    provenance_chain:
+      origin_kind: named
+      origin: Robert Monroe
+      relay:
+        - telephone call to Charles T. Tart
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 39bc257e-6dcc-4c45-b021-a456625771cb
+        title: Robert Monroe
+        slug: robert-monroe
+      - node_id: 64f100c7-ad23-46ef-8818-ed5100b507c5
+        title: Charlie Hickson
+        slug: charlie-hickson
+    date: null
+    date_end: null
+    location_in_record: ch8:20643-20733
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 0585998d-c88f-4448-be7b-523c2680e789
+      record_title: Journeys Out of the Body
+      record_date: '2014-11-11'
+      record_reference: null
+      content_hash: sha256:b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029dc180b44
+      friendly_name: 2014-11-11-ebook-journeys-out-of-the-body
+  - claim_id: eee06f9d-c00b-4766-9da6-779f22978ce7
+    claim_hash: 3295e1229373424b8e988cd6b9e76a72270d8f23776940cd26e0dd4f58d83662
+    content: Robert Monroe felt a tug pulling him from his body within about a minute of when Charles T. Tart and his wife
+      began to concentrate, matching the timing of the experiment closely.
+    original_excerpt: 'Thus the time match with my wife and I beginning to concentrate was extremely good: he felt the tug
+      pulling him from his body within a minute or so of when we started to concentrate.'
+    claim_type: testimony
+    attestation: second_hand
+    speaker:
+      node_id: 64f100c7-ad23-46ef-8818-ed5100b507c5
+      title: Charlie Hickson
+    provenance_chain:
+      origin_kind: named
+      origin: Robert Monroe
+      relay:
+        - telephone call to Charles T. Tart
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 39bc257e-6dcc-4c45-b021-a456625771cb
+        title: Robert Monroe
+        slug: robert-monroe
+      - node_id: 64f100c7-ad23-46ef-8818-ed5100b507c5
+        title: Charlie Hickson
+        slug: charlie-hickson
+    date: null
+    date_end: null
+    location_in_record: ch8:20739-20909
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 0585998d-c88f-4448-be7b-523c2680e789
+      record_title: Journeys Out of the Body
+      record_date: '2014-11-11'
+      record_reference: null
+      content_hash: sha256:b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029dc180b44
+      friendly_name: 2014-11-11-ebook-journeys-out-of-the-body
+  - claim_id: 18056860-cdda-416a-9978-dca0000b5f98
+    claim_hash: 290a761c0e876de62b4c3b8b70885e358a1117a3e88e18b70cce660337e7ddb4
+    content: 'Robert Monroe''s description of what Charles T. Tart''s home looked like and what Tart and his wife were doing
+      during the out-of-the-body visit was not accurate: he perceived too many people in the room, perceived Tart doing things
+      he did not do, and gave a vague description of the room itself.'
+    original_excerpt: 'his continuing description of what our home looked like and what my wife and I were doing was not good
+      at all: he “perceived” too many people in the room, he “perceived” me doing things I didn’t do, and his description
+      of the room itself was quite vague.'
+    claim_type: observation
+    attestation: first_hand
+    speaker:
+      node_id: 64f100c7-ad23-46ef-8818-ed5100b507c5
+      title: Charlie Hickson
+    provenance_chain:
+      origin_kind: speaker
+      origin: Charles T. Tart
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 39bc257e-6dcc-4c45-b021-a456625771cb
+        title: Robert Monroe
+        slug: robert-monroe
+      - node_id: 64f100c7-ad23-46ef-8818-ed5100b507c5
+        title: Charlie Hickson
+        slug: charlie-hickson
+    date: null
+    date_end: null
+    location_in_record: ch8:20941-21189
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 0585998d-c88f-4448-be7b-523c2680e789
+      record_title: Journeys Out of the Body
+      record_date: '2014-11-11'
+      record_reference: null
+      content_hash: sha256:b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029dc180b44
+      friendly_name: 2014-11-11-ebook-journeys-out-of-the-body
+  - claim_id: 8cca8ba5-4b28-4c94-90e6-f50782c02195
+    claim_hash: 0db9dcd14e8b29e0da80ee2b019cfae011a879f285d6d401034500a90e89131e
+    content: Charles T. Tart considers this event one of the frustrating cases parapsychologists encounter when working with
+      poorly controlled phenomena, not evidential enough to call unquestionably paranormal, yet difficult to dismiss as nothing
+      having happened.
+    original_excerpt: This is one of those frustrating events that parapsychologists encounter when working with poorly controlled
+      phenomena. It is not evidential enough to say that it was unquestionably a paranormal effect, yet it is difficult simply
+      to say that nothing happened.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 64f100c7-ad23-46ef-8818-ed5100b507c5
+      title: Charlie Hickson
+    provenance_chain:
+      origin_kind: speaker
+      origin: Charles T. Tart
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 64f100c7-ad23-46ef-8818-ed5100b507c5
+        title: Charlie Hickson
+        slug: charlie-hickson
+    date: null
+    date_end: null
+    location_in_record: ch8:21221-21471
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 0585998d-c88f-4448-be7b-523c2680e789
+      record_title: Journeys Out of the Body
+      record_date: '2014-11-11'
+      record_reference: null
+      content_hash: sha256:b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029dc180b44
+      friendly_name: 2014-11-11-ebook-journeys-out-of-the-body
+  - claim_id: b63d70fc-4dab-47a6-8b00-8377eeadc411
+    claim_hash: 7bc1bbc51d839286ba4fe982282cd2606d0f8fdfef9aadb17830f886629c82a6
+    content: In the fall of 1970, Charles T. Tart briefly visited Robert Monroe in Virginia while en route to a conference
+      in Washington, D.C.
+    original_excerpt: The second puzzling “experiment” occurred in the fall of 1970 when I briefly visited Mr. Monroe in Virginia,
+      en route to a conference in Washington.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 64f100c7-ad23-46ef-8818-ed5100b507c5
+      title: Charlie Hickson
+    provenance_chain:
+      origin_kind: speaker
+      origin: Charles T. Tart
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 39bc257e-6dcc-4c45-b021-a456625771cb
+        title: Robert Monroe
+        slug: robert-monroe
+      - node_id: 64f100c7-ad23-46ef-8818-ed5100b507c5
+        title: Charlie Hickson
+        slug: charlie-hickson
+      - node_id: 9da33243-6854-43d4-b60d-fbeeb284787e
+        title: USA, District of Columbia, Washington
+        slug: district-of-columbia-washington-usa
+      - node_id: d8dd6958-5e30-4e66-bbe7-27c3efc08e78
+        title: USA, Virginia
+        slug: virginia-usa
+    date: '1970'
+    date_end: null
+    location_in_record: ch8:22124-22261
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 0585998d-c88f-4448-be7b-523c2680e789
+      record_title: Journeys Out of the Body
+      record_date: '2014-11-11'
+      record_reference: null
+      content_hash: sha256:b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029dc180b44
+      friendly_name: 2014-11-11-ebook-journeys-out-of-the-body
+  - claim_id: 6967abc3-2e92-4559-a734-af5d03d81a6b
+    claim_hash: 9bb72b147e3753c046be70e12c3878594c0724ba116400e383c8724e1c221b95
+    content: During his 1970 overnight visit, Charles T. Tart requested that if Robert Monroe had an out-of-the-body experience
+      that night, he come to Tart's bedroom and try to pull him out of his body so Tart could have the experience too.
+    original_excerpt: Staying overnight, I requested that if he had an OOBE that night, he should come to my bedroom and try
+      to pull me out of my body so I could have the experience too.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 64f100c7-ad23-46ef-8818-ed5100b507c5
+      title: Charlie Hickson
+    provenance_chain:
+      origin_kind: speaker
+      origin: Charles T. Tart
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 39bc257e-6dcc-4c45-b021-a456625771cb
+        title: Robert Monroe
+        slug: robert-monroe
+      - node_id: 64f100c7-ad23-46ef-8818-ed5100b507c5
+        title: Charlie Hickson
+        slug: charlie-hickson
+      - node_id: 8b0155a9-fabc-4b8d-9ee9-45eac58dbf2e
+        title: Out-of-Body Experience (OBE)
+        slug: out-of-body-experience-obe
+    date: '1970'
+    date_end: null
+    location_in_record: ch8:22273-22433
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 0585998d-c88f-4448-be7b-523c2680e789
+      record_title: Journeys Out of the Body
+      record_date: '2014-11-11'
+      record_reference: null
+      content_hash: sha256:b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029dc180b44
+      friendly_name: 2014-11-11-ebook-journeys-out-of-the-body
+  - claim_id: 23d3833c-b04a-4054-8036-90b1f08c3a44
+    claim_hash: 56a4217041ea0856e1acca42fc25b9c477c3ab4704e3e3e0c50c68fd11d55259
+    content: Sometime after dawn during the 1970 experiment, Charles T. Tart began dreaming and vaguely remembering that Robert
+      Monroe was supposed to try to get him out of his body, then became partially conscious and felt a sense of vibration
+      around him in the dream world with an indefinable menace, but lost his thread of consciousness before attempting the
+      out-of-the-body experience, and woke feeling the experiment had failed.
+    original_excerpt: Sometime after dawn that morning... I began vaguely remembering that Mr. Monroe was supposed to try
+      to get me out of my body. I became partially conscious, and felt a sense of “vibration” all around me in the dream world,
+      a “vibration” that had a certain amount of indefinable menace connected with it. In spite of the fear this aroused,
+      I thought that I should try to have an OOBE, but at that point I lost my thread of consciousness, and only remember
+      waking up a while later, feeling that the experiment was a failure.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 64f100c7-ad23-46ef-8818-ed5100b507c5
+      title: Charlie Hickson
+    provenance_chain:
+      origin_kind: speaker
+      origin: Charles T. Tart
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 39bc257e-6dcc-4c45-b021-a456625771cb
+        title: Robert Monroe
+        slug: robert-monroe
+      - node_id: 64f100c7-ad23-46ef-8818-ed5100b507c5
+        title: Charlie Hickson
+        slug: charlie-hickson
+      - node_id: fef60716-65c6-4bdf-8c22-5115416412af
+        title: State of Vibration
+        slug: state-of-vibration
+    date: '1970'
+    date_end: null
+    location_in_record: ch8:22602-23206
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 0585998d-c88f-4448-be7b-523c2680e789
+      record_title: Journeys Out of the Body
+      record_date: '2014-11-11'
+      record_reference: null
+      content_hash: sha256:b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029dc180b44
+      friendly_name: 2014-11-11-ebook-journeys-out-of-the-body
+  - claim_id: 59d7a3c5-9a69-484a-a94f-d4bd47f8a392
+    claim_hash: 911bbe019206f5ff41c8cd360813529acae17026ae889e4926b2ad7210747612
+    content: A week after the 1970 experiment, Charles T. Tart received a letter from Stanley Krippner describing an experience
+      Krippner's stepdaughter Carie had the same morning.
+    original_excerpt: A week later I received a letter from a colleague in New York, the well-known parapsychologist Dr. Stanley
+      Krippner, and I began to wonder if it really was a “failure.” He was writing to me about an experience his stepdaughter,
+      Carie... had the same morning I was having my “dream.”
+    claim_type: testimony
+    attestation: second_hand
+    speaker:
+      node_id: 64f100c7-ad23-46ef-8818-ed5100b507c5
+      title: Charlie Hickson
+    provenance_chain:
+      origin_kind: named
+      origin: Stanley Krippner
+      relay:
+        - a letter to Charles T. Tart
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 64f100c7-ad23-46ef-8818-ed5100b507c5
+        title: Charlie Hickson
+        slug: charlie-hickson
+      - node_id: b35ea528-579f-457f-a690-2e24015bdcbf
+        title: Carie
+        slug: carie
+      - node_id: c4b8749d-1f12-431f-9942-5610bd750a9a
+        title: Stanley Krippner
+        slug: stanley-krippner
+      - node_id: e8d67c8e-f0dd-4c2a-bc87-8d3b4715a228
+        title: USA, New York, New York City
+        slug: new-york-new-york-city-usa
+    date: '1970'
+    date_end: null
+    location_in_record: ch8:23215-23512
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 0585998d-c88f-4448-be7b-523c2680e789
+      record_title: Journeys Out of the Body
+      record_date: '2014-11-11'
+      record_reference: null
+      content_hash: sha256:b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029dc180b44
+      friendly_name: 2014-11-11-ebook-journeys-out-of-the-body
+  - claim_id: b3f844bd-1d11-428c-aa36-9e1eae840f63
+    claim_hash: 8649e72498c5e94e9931d9ae3b6e5e8ffcd36f8a760bcf7aac2f461f2d70f291
+    content: Stanley Krippner is a parapsychologist based in New York.
+    original_excerpt: a colleague in New York, the well-known parapsychologist Dr. Stanley Krippner
+    claim_type: administrative
+    attestation: first_hand
+    speaker:
+      node_id: 64f100c7-ad23-46ef-8818-ed5100b507c5
+      title: Charlie Hickson
+    provenance_chain:
+      origin_kind: speaker
+      origin: Charles T. Tart
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: c4b8749d-1f12-431f-9942-5610bd750a9a
+        title: Stanley Krippner
+        slug: stanley-krippner
+      - node_id: e8d67c8e-f0dd-4c2a-bc87-8d3b4715a228
+        title: USA, New York, New York City
+        slug: new-york-new-york-city-usa
+    date: null
+    date_end: null
+    location_in_record: ch8:23253-23322
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 0585998d-c88f-4448-be7b-523c2680e789
+      record_title: Journeys Out of the Body
+      record_date: '2014-11-11'
+      record_reference: null
+      content_hash: sha256:b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029dc180b44
+      friendly_name: 2014-11-11-ebook-journeys-out-of-the-body
+  - claim_id: 8b27208c-ff0e-4f4e-ba80-a514908ef113
+    claim_hash: ccd126e163cf60bf730c56a9408010f1905a4d4031128f74dfea19632e89a448
+    content: Carie is the stepdaughter of Stanley Krippner.
+    original_excerpt: his stepdaughter, Carie, who I am quite fond of
+    claim_type: administrative
+    attestation: first_hand
+    speaker:
+      node_id: 64f100c7-ad23-46ef-8818-ed5100b507c5
+      title: Charlie Hickson
+    provenance_chain:
+      origin_kind: speaker
+      origin: Charles T. Tart
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: b35ea528-579f-457f-a690-2e24015bdcbf
+        title: Carie
+        slug: carie
+      - node_id: c4b8749d-1f12-431f-9942-5610bd750a9a
+        title: Stanley Krippner
+        slug: stanley-krippner
+    date: null
+    date_end: null
+    location_in_record: ch8:23425-23470
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 0585998d-c88f-4448-be7b-523c2680e789
+      record_title: Journeys Out of the Body
+      record_date: '2014-11-11'
+      record_reference: null
+      content_hash: sha256:b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029dc180b44
+      friendly_name: 2014-11-11-ebook-journeys-out-of-the-body
+  - claim_id: 30b23dd0-edb8-4f6f-9e0c-cb8be5c013a5
+    claim_hash: e469ebe1fa145392019a3fae8cdb71ae9691df9ad289152d2289dbaf27cec148
+    content: Carie spontaneously reported to Stanley Krippner that she had seen Charles T. Tart in a restaurant in New York
+      City on her way to school that same morning, at roughly the time Tart was having his dream.
+    original_excerpt: Carie had spontaneously reported to her father that she had seen me in a restaurant in New York City
+      on her way to school that morning. This would have been roughly about the time I was having the dream.
+    claim_type: testimony
+    attestation: third_hand
+    speaker:
+      node_id: 64f100c7-ad23-46ef-8818-ed5100b507c5
+      title: Charlie Hickson
+    provenance_chain:
+      origin_kind: named
+      origin: Carie
+      relay:
+        - Carie told Stanley Krippner
+        - Stanley Krippner's letter to Charles T. Tart
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 64f100c7-ad23-46ef-8818-ed5100b507c5
+        title: Charlie Hickson
+        slug: charlie-hickson
+      - node_id: b35ea528-579f-457f-a690-2e24015bdcbf
+        title: Carie
+        slug: carie
+      - node_id: c4b8749d-1f12-431f-9942-5610bd750a9a
+        title: Stanley Krippner
+        slug: stanley-krippner
+      - node_id: e8d67c8e-f0dd-4c2a-bc87-8d3b4715a228
+        title: USA, New York, New York City
+        slug: new-york-new-york-city-usa
+    date: '1970'
+    date_end: null
+    location_in_record: ch8:23520-23717
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 0585998d-c88f-4448-be7b-523c2680e789
+      record_title: Journeys Out of the Body
+      record_date: '2014-11-11'
+      record_reference: null
+      content_hash: sha256:b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029dc180b44
+      friendly_name: 2014-11-11-ebook-journeys-out-of-the-body
+  - claim_id: c51a3fb1-9fe9-430e-8ee6-527047da2a81
+    claim_hash: 568eba5d6464e2bf013b67cfd2b0125b25716a27542151e42659e51a26555fef
+    content: Neither Carie nor Stanley Krippner knew that Charles T. Tart was on the east coast of the United States at the
+      time of Carie's report.
+    original_excerpt: Neither she nor her father knew that I was on the east coast.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 64f100c7-ad23-46ef-8818-ed5100b507c5
+      title: Charlie Hickson
+    provenance_chain:
+      origin_kind: speaker
+      origin: Charles T. Tart
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 64f100c7-ad23-46ef-8818-ed5100b507c5
+        title: Charlie Hickson
+        slug: charlie-hickson
+      - node_id: b35ea528-579f-457f-a690-2e24015bdcbf
+        title: Carie
+        slug: carie
+      - node_id: c4b8749d-1f12-431f-9942-5610bd750a9a
+        title: Stanley Krippner
+        slug: stanley-krippner
+    date: null
+    date_end: null
+    location_in_record: ch8:23724-23779
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 0585998d-c88f-4448-be7b-523c2680e789
+      record_title: Journeys Out of the Body
+      record_date: '2014-11-11'
+      record_reference: null
+      content_hash: sha256:b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029dc180b44
+      friendly_name: 2014-11-11-ebook-journeys-out-of-the-body
+  - claim_id: 9b7b36fc-16e4-4932-95c6-09de7da3e6a6
+    claim_hash: 23d885251f1d7d474789a5fc2494c131efda972c45333e0a80bdc24f28fc4cac
+    content: The 1970 attempt was the first time in years Charles T. Tart had consciously attempted to have an out-of-the-body
+      experience, and he has never, to his knowledge, succeeded in having one.
+    original_excerpt: this was the first time in years that I had consciously attempted to have an OOBE (I have never, to
+      my knowledge, succeeded)
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 64f100c7-ad23-46ef-8818-ed5100b507c5
+      title: Charlie Hickson
+    provenance_chain:
+      origin_kind: speaker
+      origin: Charles T. Tart
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 64f100c7-ad23-46ef-8818-ed5100b507c5
+        title: Charlie Hickson
+        slug: charlie-hickson
+      - node_id: 8b0155a9-fabc-4b8d-9ee9-45eac58dbf2e
+        title: Out-of-Body Experience (OBE)
+        slug: out-of-body-experience-obe
+    date: null
+    date_end: null
+    location_in_record: ch8:23811-23925
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 0585998d-c88f-4448-be7b-523c2680e789
+      record_title: Journeys Out of the Body
+      record_date: '2014-11-11'
+      record_reference: null
+      content_hash: sha256:b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029dc180b44
+      friendly_name: 2014-11-11-ebook-journeys-out-of-the-body
+  - claim_id: 0621bc3f-b5cd-4471-8183-8d349a18936b
+    claim_hash: 54cd630088ac2a118c60eea0e8110ec54cc80f1c04486df38ddd75590ebcedff
+    content: Charles T. Tart states he would have no desire to go to a restaurant in New York City, a place he dislikes intensely,
+      whereas visiting Carie and her family is always very pleasant to him.
+    original_excerpt: I would have no desire in the world to go to a restaurant in New York City, a place I dislike intensely,
+      if I were having an OOBE, although visiting Carie and her family is always very pleasant.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 64f100c7-ad23-46ef-8818-ed5100b507c5
+      title: Charlie Hickson
+    provenance_chain:
+      origin_kind: speaker
+      origin: Charles T. Tart
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 64f100c7-ad23-46ef-8818-ed5100b507c5
+        title: Charlie Hickson
+        slug: charlie-hickson
+      - node_id: b35ea528-579f-457f-a690-2e24015bdcbf
+        title: Carie
+        slug: carie
+      - node_id: e8d67c8e-f0dd-4c2a-bc87-8d3b4715a228
+        title: USA, New York, New York City
+        slug: new-york-new-york-city-usa
+    date: null
+    date_end: null
+    location_in_record: ch8:24069-24254
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 0585998d-c88f-4448-be7b-523c2680e789
+      record_title: Journeys Out of the Body
+      record_date: '2014-11-11'
+      record_reference: null
+      content_hash: sha256:b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029dc180b44
+      friendly_name: 2014-11-11-ebook-journeys-out-of-the-body
+  - claim_id: be3f3d08-5deb-480a-b8e0-e57c149490f3
+    claim_hash: b5761220f82e1bfe99e8fc206add025aa1b56d7c531aacfb7f1f5b232c83d3b8
+    content: Charles T. Tart admits he is somewhat afraid of out-of-the-body experiences, even though he is scientifically
+      interested in the phenomenon and excited at the prospect of personally experiencing it.
+    original_excerpt: I nave observed in myself, although I do not like to admit it, which is that I am somewhat afraid of
+      them. Part of me is very interested in the phenomenon scientifically, another part of me is excited at the prospect
+      of personally experiencing it.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 64f100c7-ad23-46ef-8818-ed5100b507c5
+      title: Charlie Hickson
+    provenance_chain:
+      origin_kind: speaker
+      origin: Charles T. Tart
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 64f100c7-ad23-46ef-8818-ed5100b507c5
+        title: Charlie Hickson
+        slug: charlie-hickson
+      - node_id: 8b0155a9-fabc-4b8d-9ee9-45eac58dbf2e
+        title: Out-of-Body Experience (OBE)
+        slug: out-of-body-experience-obe
+    date: null
+    date_end: null
+    location_in_record: ch8:24460-24704
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 0585998d-c88f-4448-be7b-523c2680e789
+      record_title: Journeys Out of the Body
+      record_date: '2014-11-11'
+      record_reference: null
+      content_hash: sha256:b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029dc180b44
+      friendly_name: 2014-11-11-ebook-journeys-out-of-the-body
+  - claim_id: 6ded657f-6e02-49d9-86ed-1a36be37fc09
+    claim_hash: 1a3278e86cf2320315d8492017b3e4c8389078d676cf8e8febaf10f028b9070c
+    content: Charles T. Tart considers an out-of-the-body experience to be something like dying, or opening up part of the
+      mind to an unknown realm.
+    original_excerpt: A third part of me knows that an OOBE is something like dying, or opening up part of my mind to an unknown
+      realm, and this third part is not at all anxious to get on with it.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 64f100c7-ad23-46ef-8818-ed5100b507c5
+      title: Charlie Hickson
+    provenance_chain:
+      origin_kind: speaker
+      origin: Charles T. Tart
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 64f100c7-ad23-46ef-8818-ed5100b507c5
+        title: Charlie Hickson
+        slug: charlie-hickson
+      - node_id: 8b0155a9-fabc-4b8d-9ee9-45eac58dbf2e
+        title: Out-of-Body Experience (OBE)
+        slug: out-of-body-experience-obe
+    date: null
+    date_end: null
+    location_in_record: ch8:24708-24879
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 0585998d-c88f-4448-be7b-523c2680e789
+      record_title: Journeys Out of the Body
+      record_date: '2014-11-11'
+      record_reference: null
+      content_hash: sha256:b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029dc180b44
+      friendly_name: 2014-11-11-ebook-journeys-out-of-the-body
+  - claim_id: 6649e4d7-6a4b-4745-ba92-886747f36e91
+    claim_hash: f8a9c1af6ddf907e0e45182e912fdbe783c29c5406116226ec9a1ca80418f7d0
+    content: Charles T. Tart advises readers not to dismiss Robert Monroe as a madman, nor to take everything he says as absolute
+      truth.
+    original_excerpt: It will be very tempting to dismiss Robert Monroe as a madman. I would suggest that you not do that.
+      Neither would I suggest that you take everything he says as absolute truth.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 64f100c7-ad23-46ef-8818-ed5100b507c5
+      title: Charlie Hickson
+    provenance_chain:
+      origin_kind: speaker
+      origin: Charles T. Tart
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 39bc257e-6dcc-4c45-b021-a456625771cb
+        title: Robert Monroe
+        slug: robert-monroe
+      - node_id: 64f100c7-ad23-46ef-8818-ed5100b507c5
+        title: Charlie Hickson
+        slug: charlie-hickson
+    date: null
+    date_end: null
+    location_in_record: ch8:26102-26272
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 0585998d-c88f-4448-be7b-523c2680e789
+      record_title: Journeys Out of the Body
+      record_date: '2014-11-11'
+      record_reference: null
+      content_hash: sha256:b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029dc180b44
+      friendly_name: 2014-11-11-ebook-journeys-out-of-the-body
+  - claim_id: 7c7e0692-274f-46ce-8abb-e34a0e19585b
+    claim_hash: e619c84348d81ddf0a2a46e85426e3013cf3a841fd70df102ae08e4677b93229
+    content: Charles T. Tart considers Robert Monroe a good reporter and a man he holds in immense respect, while cautioning
+      that Monroe's powers of observation are limited by being one man raised in a particular culture at a particular time.
+    original_excerpt: He is a good reporter, a man I have immense respect for, but he is one man, brought up in a particular
+      culture at a particular time, and therefore his powers of observation are limited.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 64f100c7-ad23-46ef-8818-ed5100b507c5
+      title: Charlie Hickson
+    provenance_chain:
+      origin_kind: speaker
+      origin: Charles T. Tart
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 39bc257e-6dcc-4c45-b021-a456625771cb
+        title: Robert Monroe
+        slug: robert-monroe
+      - node_id: 64f100c7-ad23-46ef-8818-ed5100b507c5
+        title: Charlie Hickson
+        slug: charlie-hickson
+    date: null
+    date_end: null
+    location_in_record: ch8:26279-26456
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 0585998d-c88f-4448-be7b-523c2680e789
+      record_title: Journeys Out of the Body
+      record_date: '2014-11-11'
+      record_reference: null
+      content_hash: sha256:b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029dc180b44
+      friendly_name: 2014-11-11-ebook-journeys-out-of-the-body
+  - claim_id: 6095e258-37ea-4308-9809-8b94358aaf14
+    claim_hash: fb1af6f981aeacd9f252f218e941b5750b841edc6986455731b706e8448cd739
+    content: Robert Monroe is a successful businessman who began experiencing out-of-the-body experiences (OOBEs) unexpectedly
+      over a decade before this account was written.
+    original_excerpt: Robert A. Monroe is a successful businessman who began experiencing OOBEs quite unexpectedly over a
+      decade ago.
+    claim_type: administrative
+    attestation: first_hand
+    speaker:
+      node_id: 64f100c7-ad23-46ef-8818-ed5100b507c5
+      title: Charlie Hickson
+    provenance_chain:
+      origin_kind: speaker
+      origin: Charles T. Tart
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 39bc257e-6dcc-4c45-b021-a456625771cb
+        title: Robert Monroe
+        slug: robert-monroe
+      - node_id: 8b0155a9-fabc-4b8d-9ee9-45eac58dbf2e
+        title: Out-of-Body Experience (OBE)
+        slug: out-of-body-experience-obe
+    date: null
+    date_end: null
+    location_in_record: ch8:9670-9777
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 0585998d-c88f-4448-be7b-523c2680e789
+      record_title: Journeys Out of the Body
+      record_date: '2014-11-11'
+      record_reference: null
+      content_hash: sha256:b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029dc180b44
+      friendly_name: 2014-11-11-ebook-journeys-out-of-the-body
+  - claim_id: 9d91f424-7392-4696-950f-59b1f9e366a2
+    claim_hash: 5d021bb17eba43ad96ee9be9178bd095b85f5b9a4058c83790c2f22ff59605de
+    content: Robert Monroe came from an academic family and had more than average intellectual training.
+    original_excerpt: Coming from an academic family and having more than the average intellectual training, he realized the
+      unusualness of these experiences and began taking systematic notes from the beginning.
+    claim_type: administrative
+    attestation: first_hand
+    speaker:
+      node_id: 64f100c7-ad23-46ef-8818-ed5100b507c5
+      title: Charlie Hickson
+    provenance_chain:
+      origin_kind: speaker
+      origin: Charles T. Tart
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 39bc257e-6dcc-4c45-b021-a456625771cb
+        title: Robert Monroe
+        slug: robert-monroe
+    date: null
+    date_end: null
+    location_in_record: ch8:9782-9961
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 0585998d-c88f-4448-be7b-523c2680e789
+      record_title: Journeys Out of the Body
+      record_date: '2014-11-11'
+      record_reference: null
+      content_hash: sha256:b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029dc180b44
+      friendly_name: 2014-11-11-ebook-journeys-out-of-the-body
+  - claim_id: 97377f94-3b04-4985-a965-850b525b79c6
+    claim_hash: 47bec1f245bd37199df6954cdbc39aa0eae06124f2d7949bdb5175176cd5036d
+    content: Robert Monroe began taking systematic notes on his out-of-the-body experiences (OOBEs) from the beginning of
+      having them.
+    original_excerpt: he realized the unusualness of these experiences and began taking systematic notes from the beginning
+    claim_type: administrative
+    attestation: first_hand
+    speaker:
+      node_id: 64f100c7-ad23-46ef-8818-ed5100b507c5
+      title: Charlie Hickson
+    provenance_chain:
+      origin_kind: speaker
+      origin: Charles T. Tart
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 39bc257e-6dcc-4c45-b021-a456625771cb
+        title: Robert Monroe
+        slug: robert-monroe
+      - node_id: 8b0155a9-fabc-4b8d-9ee9-45eac58dbf2e
+        title: Out-of-Body Experience (OBE)
+        slug: out-of-body-experience-obe
+    date: null
+    date_end: null
+    location_in_record: ch8:9869-9961
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 0585998d-c88f-4448-be7b-523c2680e789
+      record_title: Journeys Out of the Body
+      record_date: '2014-11-11'
+      record_reference: null
+      content_hash: sha256:b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029dc180b44
+      friendly_name: 2014-11-11-ebook-journeys-out-of-the-body
+  - claim_id: 2fb486b3-c8cc-4e0a-bf15-990f981ed110
+    claim_hash: fd95859b42d5b1f6017ce74fd5c55b37c041d476782ec9d5f9276090dffe17e3
+    content: Physical mediums, unconscious in deep trance, exude a substance that Charles Richet called "ectoplasm."
+    original_excerpt: Most of the time, physical mediums, unconscious in deep trance, exude a strange substance that Richet
+      called “ectoplasm.”
+    claim_type: observation
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: named
+      origin: Charles Richet
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 64f100c7-ad23-46ef-8818-ed5100b507c5
+        title: Charlie Hickson
+        slug: charlie-hickson
+      - node_id: bc3f4c43-8a34-493d-98dd-419393017405
+        title: Ectoplasm
+        slug: ectoplasm
+    date: null
+    date_end: null
+    location_in_record: ch37:12001-12111
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
+      record_title: Surviving Death
+      record_date: '2017-03-07'
+      record_reference: null
+      content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
+      friendly_name: 2017-03-07-ebook-surviving-death
+  - claim_id: a2e540f2-86d4-4b16-84d3-e56fab24abe4
+    claim_hash: f665796c2698fded28bb0074a3a134f5d609397eaa29d50db3d0552ba9005892
+    content: Charles Richet, Baron Albert von Schrenck-Notzing, Gustave Geley and other researchers observed the formation
+      of moving forms from ectoplasm under conditions eliminating the possibility of fraud.
+    original_excerpt: Many competent researchers in addition to Richet, Schrenck-Notzing, and Geley have observed the formation
+      of moving forms from this substance, in the light and under conditions eliminating the possibility of fraud.
+    claim_type: observation
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 3dbf3f74-6f5b-4667-b447-5722becf4437
+        title: Gustave Geley
+        slug: gustave-geley
+      - node_id: 64f100c7-ad23-46ef-8818-ed5100b507c5
+        title: Charlie Hickson
+        slug: charlie-hickson
+      - node_id: bc3f4c43-8a34-493d-98dd-419393017405
+        title: Ectoplasm
+        slug: ectoplasm
+      - node_id: c6e22ef5-acaa-47b9-95ab-89b1bc8ce201
+        title: Baron Albert von Schrenck-Notzing
+        slug: baron-albert-von-schrenck-notzing
+    date: null
+    date_end: null
+    location_in_record: ch37:12382-12590
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
+      record_title: Surviving Death
+      record_date: '2017-03-07'
+      record_reference: null
+      content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
+      friendly_name: 2017-03-07-ebook-surviving-death
+  - claim_id: 3c127ceb-e105-4264-a871-96227e0b38c2
+    claim_hash: 20415ec5d6b4ee902096bcbed7348cb7806c0581d1356e8679aa23e815257bb2
+    content: Charles Richet, in his study of French medium Eva Carrière, described ectoplasm as a whitish luminous steam shaped
+      like gauze or muslin, in which a hand or arm develops and gains consistency, creeping and rising from the ground like
+      an amoeba.
+    original_excerpt: …a whitish steam, perhaps luminous, taking the shape of gauze or muslin, in which there develops a hand
+      or an arm that gradually gains consistency. The ectoplasm makes *personal* movements. It creeps, rises from the ground,
+      and puts forth tentacles like an amoeba.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 64f100c7-ad23-46ef-8818-ed5100b507c5
+      title: Charlie Hickson
+    provenance_chain:
+      origin_kind: speaker
+      origin: Charles Richet
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 64f100c7-ad23-46ef-8818-ed5100b507c5
+        title: Charlie Hickson
+        slug: charlie-hickson
+      - node_id: 8ad0b348-d3d5-4e76-9c36-2f68e2e96577
+        title: Eva Carrière
+        slug: eva-carriere
+      - node_id: bc3f4c43-8a34-493d-98dd-419393017405
+        title: Ectoplasm
+        slug: ectoplasm
+    date: null
+    date_end: null
+    location_in_record: ch37:12901-13159
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
+      record_title: Surviving Death
+      record_date: '2017-03-07'
+      record_reference: null
+      content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
+      friendly_name: 2017-03-07-ebook-surviving-death
+  - claim_id: e679cdfe-314d-4e35-927d-2c4091a7bd07
+    claim_hash: d3b6432e50116a4764690ebfed5b1aa589dd118fb788cc01865aced83e0c00d9
+    content: Charles Richet described the ectoplasm produced by Eva Carrière as not always connected to the medium's body,
+      but usually emanating from her and connected with her.
+    original_excerpt: It is not always connected with the body of the medium but usually emanates from her, and is connected
+      with her.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 64f100c7-ad23-46ef-8818-ed5100b507c5
+      title: Charlie Hickson
+    provenance_chain:
+      origin_kind: speaker
+      origin: Charles Richet
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 64f100c7-ad23-46ef-8818-ed5100b507c5
+        title: Charlie Hickson
+        slug: charlie-hickson
+      - node_id: 8ad0b348-d3d5-4e76-9c36-2f68e2e96577
+        title: Eva Carrière
+        slug: eva-carriere
+    date: null
+    date_end: null
+    location_in_record: ch37:13167-13277
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
+      record_title: Surviving Death
+      record_date: '2017-03-07'
+      record_reference: null
+      content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
+      friendly_name: 2017-03-07-ebook-surviving-death
+  - claim_id: 0d4fbf13-393c-40d5-90a3-ca3f0a0e9a52
+    claim_hash: 724664f5384457985d14abfd0c9cda53ca3834750e38a97d7dbd46228b253dae
+    content: Charles Richet, a Nobel Prize-winning scientist, noted a distinction between mechanical energy phenomena such
+      as table movement or knocking sounds and phenomena producing word-making sound, lights, and living human forms.
+    original_excerpt: 'I was relieved when I discovered that Nobel Prize–winning scientist Charles Richet also noted this
+      distinction: That a mechanical energy of an unknown kind should emanate from the human body and move a table, and shake
+      a piece of board with knocking, is not entirely incomprehensible. But that this force should produce word-making sound,
+      lights, and living human forms—this indeed goes beyond all our concepts of the possible.'
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 64f100c7-ad23-46ef-8818-ed5100b507c5
+      title: Charlie Hickson
+    provenance_chain:
+      origin_kind: speaker
+      origin: Charles Richet
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 64f100c7-ad23-46ef-8818-ed5100b507c5
+        title: Charlie Hickson
+        slug: charlie-hickson
+      - node_id: 7a9ab5a0-fbc0-4e15-ad31-8b14c277b926
+        title: Materialization (mediumship phenomenon)
+        slug: materialization-mediumship-phenomenon
+      - node_id: cb4a5fa0-4215-4340-8c43-4e7091f6b650
+        title: Poltergeist
+        slug: poltergeist
+    date: null
+    date_end: null
+    location_in_record: ch37:28550-28971
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
+      record_title: Surviving Death
+      record_date: '2017-03-07'
+      record_reference: null
+      content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
+      friendly_name: 2017-03-07-ebook-surviving-death
+  - claim_id: 676a8a1e-0062-4588-860e-608a84d97f3c
+    claim_hash: 28ec5ee0d706429391503dfe4083d66d877fed93fea7dbc0e2d1e228ec4c5a2e
+    content: Charles Richet considered that a warm and living hand, a mouth that speaks, eyes that see, and thought that thrills,
+      produced through mediumship, are phenomena that put us to utter confusion.
+    original_excerpt: A warm and living hand, a mouth that speaks, eyes that see, and thought that thrills, like the hand,
+      the mouth, the eyes, and the thought of a human being—these are phenomena that put us to utter confusion.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 64f100c7-ad23-46ef-8818-ed5100b507c5
+      title: Charlie Hickson
+    provenance_chain:
+      origin_kind: speaker
+      origin: Charles Richet
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 64f100c7-ad23-46ef-8818-ed5100b507c5
+        title: Charlie Hickson
+        slug: charlie-hickson
+      - node_id: 7a9ab5a0-fbc0-4e15-ad31-8b14c277b926
+        title: Materialization (mediumship phenomenon)
+        slug: materialization-mediumship-phenomenon
+    date: null
+    date_end: null
+    location_in_record: ch37:28981-29180
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
+      record_title: Surviving Death
+      record_date: '2017-03-07'
+      record_reference: null
+      content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
+      friendly_name: 2017-03-07-ebook-surviving-death
+  - claim_id: 21c0bd09-93b1-4eb5-8e03-c807888560e2
+    claim_hash: 1800a82a03bf6377a572c85992017e779c31ac9c77498c1d2d002d25ea7543b1
+    content: Charles Richet was awarded the Nobel Prize in Physiology or Medicine in 1913.
+    original_excerpt: French physiologist Charles Richet (1850–1935) was awarded the Nobel Prize in Physiology or Medicine
+      in 1913.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 64f100c7-ad23-46ef-8818-ed5100b507c5
+        title: Charlie Hickson
+        slug: charlie-hickson
+    date: '1913'
+    date_end: null
+    location_in_record: ch37:2910-3014
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
+      record_title: Surviving Death
+      record_date: '2017-03-07'
+      record_reference: null
+      content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
+      friendly_name: 2017-03-07-ebook-surviving-death
+  - claim_id: 6a6051fe-1257-4984-8595-698c201c0b3c
+    claim_hash: f94695264166a5ac89448c4bef550db6f3f2fdd873b10cd3828e349cf77dca74
+    content: Charles Richet was a French physiologist who lived from 1850 to 1935.
+    original_excerpt: French physiologist Charles Richet (1850–1935) was awarded the Nobel Prize in Physiology or Medicine
+      in 1913.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 64f100c7-ad23-46ef-8818-ed5100b507c5
+        title: Charlie Hickson
+        slug: charlie-hickson
+    date: null
+    date_end: null
+    location_in_record: ch37:2910-3014
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
+      record_title: Surviving Death
+      record_date: '2017-03-07'
+      record_reference: null
+      content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
+      friendly_name: 2017-03-07-ebook-surviving-death
+  - claim_id: cf3836a4-ce80-42c3-a271-ad3df125e626
+    claim_hash: 9bc1c70300b0b5d4941894b89beb960a46d394590f6e6d7c7135083dde41e7c4
+    content: Charles Richet spent decades as the editor of leading journals and published papers on physiology, physiological
+      chemistry, experimental pathology, and normal and pathological psychology.
+    original_excerpt: He spent decades as the editor of leading journals and published papers on physiology, physiological
+      chemistry, experimental pathology, and normal and pathological psychology.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 64f100c7-ad23-46ef-8818-ed5100b507c5
+        title: Charlie Hickson
+        slug: charlie-hickson
+    date: null
+    date_end: null
+    location_in_record: ch37:3020-3184
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
+      record_title: Surviving Death
+      record_date: '2017-03-07'
+      record_reference: null
+      content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
+      friendly_name: 2017-03-07-ebook-surviving-death
+  - claim_id: 32f31fd9-609e-4724-9b9f-13e3cc3ce533
+    claim_hash: 530677c98bc92a9499d824aa31ce0e7f2f923887b8a37120f322d3101aeddc21
+    content: Charles Richet studied rare physical mediums who produced materializations and wrote hundreds of pages about
+      the results.
+    original_excerpt: We are fortunate that he also devoted his attention to the study of rare physical mediums who produced
+      materializations, and wrote hundreds of pages about the results and his attempt to understand them.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 64f100c7-ad23-46ef-8818-ed5100b507c5
+        title: Charlie Hickson
+        slug: charlie-hickson
+    date: null
+    date_end: null
+    location_in_record: ch37:3276-3473
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
+      record_title: Surviving Death
+      record_date: '2017-03-07'
+      record_reference: null
+      content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
+      friendly_name: 2017-03-07-ebook-surviving-death
+  - claim_id: 40f642f2-be54-4bf1-ae47-d32d3525fd45
+    claim_hash: a9c5159d87254734f1ee76f7364c7dcadd204d5944fdf92e35a1b04eabd88709
+    content: Charles Richet, after witnessing many partial and full materializations, considered the materialization of a
+      living, mobile hand or finger just as difficult to understand as the materialization of an entire personality that comes,
+      goes, speaks, and moves a veil covering it.
+    original_excerpt: After witnessing many partial and full materializations, he commented that it is just as difficult to
+      understand the materialization of a living, mobile hand, or even a finger, as it is to understand “the materialization
+      of an entire personality, which comes and goes, speaks, and moves the veil that covers him.”
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 64f100c7-ad23-46ef-8818-ed5100b507c5
+      title: Charlie Hickson
+    provenance_chain:
+      origin_kind: speaker
+      origin: Charles Richet
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 64f100c7-ad23-46ef-8818-ed5100b507c5
+        title: Charlie Hickson
+        slug: charlie-hickson
+    date: null
+    date_end: null
+    location_in_record: ch37:3518-3826
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
+      record_title: Surviving Death
+      record_date: '2017-03-07'
+      record_reference: null
+      content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
+      friendly_name: 2017-03-07-ebook-surviving-death
+  - claim_id: bee892cb-7f69-486f-b88f-142ed418f497
+    claim_hash: 89f6ed9742d7185be6ae56ee59ac50d653636de483b76d9f11d432fddd0c9bab
+    content: In 1934, Charles Richet wrote that a materialized living being formed under observation has its own warmth, apparent
+      circulation of blood, physiological respiration, and a psychic personality with a will distinct from the medium's, constituting
+      a new human being.
+    original_excerpt: A living being, or living matter, formed under our eyes, which has its proper warmth, apparently a circulation
+      of blood, and a physiological respiration, which has also a kind of psychic personality having a will distinct from
+      the will of the medium, in a word, a new human being!
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 64f100c7-ad23-46ef-8818-ed5100b507c5
+      title: Charlie Hickson
+    provenance_chain:
+      origin_kind: speaker
+      origin: Charles Richet
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 05a90841-a036-4c81-9c55-6bcc1478ad70
+        title: Charles Richet's 1934 writing on full-form materializations
+        slug: charles-richets-1934-writing-on-full-form-materializations
+      - node_id: 64f100c7-ad23-46ef-8818-ed5100b507c5
+        title: Charlie Hickson
+        slug: charlie-hickson
+    date: '1934'
+    date_end: null
+    location_in_record: ch37:3996-4270
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
+      record_title: Surviving Death
+      record_date: '2017-03-07'
+      record_reference: null
+      content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
+      friendly_name: 2017-03-07-ebook-surviving-death
+  - claim_id: 14c3ed81-9c4e-4f89-b6a2-0c4c4ece99c8
+    claim_hash: 0ac5daf1751b7d3f7afb5fa70fb77f92421e0e931c4143cbb264b5cf8ee3dd94
+    content: Charles Richet wrote in 1934 that despite its apparent absurdity from a psycho-physiological point of view, the
+      phenomenon of full-form materialization is nevertheless a fact.
+    original_excerpt: This is surely the climax of marvels. Nevertheless, it is a fact.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 64f100c7-ad23-46ef-8818-ed5100b507c5
+      title: Charlie Hickson
+    provenance_chain:
+      origin_kind: speaker
+      origin: Charles Richet
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 05a90841-a036-4c81-9c55-6bcc1478ad70
+        title: Charles Richet's 1934 writing on full-form materializations
+        slug: charles-richets-1934-writing-on-full-form-materializations
+      - node_id: 64f100c7-ad23-46ef-8818-ed5100b507c5
+        title: Charlie Hickson
+        slug: charlie-hickson
+    date: '1934'
+    date_end: null
+    location_in_record: ch37:4279-4339
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
+      record_title: Surviving Death
+      record_date: '2017-03-07'
+      record_reference: null
+      content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
+      friendly_name: 2017-03-07-ebook-surviving-death
+  - claim_id: 3d162d40-f05a-4faa-93a9-2103bae86529
+    claim_hash: 7cdd4778ea8030b3fd7aa60dc50e46b64504ea4bcd122ca6d04e5df4458bd164
+    content: Franek Kluski willingly subjected himself to study by Charles Richet and physician Gustave Geley.
+    original_excerpt: In the interest of science, he willingly subjected himself to study by Richet and physician Gustave
+      Geley (1860–1924), another outstanding investigator from the French Institut Métapsychique International who is well
+      known for his studies of physical mediumship.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 3dbf3f74-6f5b-4667-b447-5722becf4437
+        title: Gustave Geley
+        slug: gustave-geley
+      - node_id: 52358d51-9096-4ae5-97b2-963f54de16d6
+        title: Franek Kluski
+        slug: franek-kluski
+      - node_id: 64f100c7-ad23-46ef-8818-ed5100b507c5
+        title: Charlie Hickson
+        slug: charlie-hickson
+    date: null
+    date_end: null
+    location_in_record: ch37:4472-4723
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
+      record_title: Surviving Death
+      record_date: '2017-03-07'
+      record_reference: null
+      content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
+      friendly_name: 2017-03-07-ebook-surviving-death
+  - claim_id: fb98cf8b-d93c-4d67-937b-20c4569e3665
+    claim_hash: 6d3baf93be87b9fbe8d04cc0aba0e2c7068886c216204820a48d38083c2b655d
+    content: Gustave Geley and Charles Richet brought Franek Kluski to a windowless laboratory at the Institut Métapsychique
+      International in Paris, where in 1920 they conducted eleven successful séances.
+    original_excerpt: Most important, Geley and Richet and others working with them brought Kluski to a windowless laboratory
+      at the institute in Paris, where in 1920 they conducted eleven successful séances.
+    claim_type: observation
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 3dbf3f74-6f5b-4667-b447-5722becf4437
+        title: Gustave Geley
+        slug: gustave-geley
+      - node_id: 52358d51-9096-4ae5-97b2-963f54de16d6
+        title: Franek Kluski
+        slug: franek-kluski
+      - node_id: 64f100c7-ad23-46ef-8818-ed5100b507c5
+        title: Charlie Hickson
+        slug: charlie-hickson
+      - node_id: 9e23c92b-9466-4b3b-b6eb-9e95c7ed4336
+        title: 1920 Institut Métapsychique International Paris séances with Franek Kluski
+        slug: 1920-institut-metapsychique-international-paris-seances-with-franek-kluski
+      - node_id: e2718a44-84ab-4dca-92ec-a3ab3a95556d
+        title: Institut Métapsychique International (IMI)
+        slug: institut-metapsychique-international-imi
+      - node_id: f734df78-1ca4-463a-a3be-b431fccf710e
+        title: France, Paris
+        slug: paris-france
+    date: '1920'
+    date_end: null
+    location_in_record: ch37:5101-5281
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
+      record_title: Surviving Death
+      record_date: '2017-03-07'
+      record_reference: null
+      content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
+      friendly_name: 2017-03-07-ebook-surviving-death
+  - claim_id: 10f7b51f-d6d3-4427-b2e2-d07af1fc269e
+    claim_hash: b8ca0c5f7a3eb2c94635e9bce0804cf14cd4c6248fbe51d650cf468267e0165a
+    content: For the Paris sittings and a later series of sittings in Warsaw in 1921, Gustave Geley and Charles Richet placed
+      a circular tank of hot liquid paraffin wax floating above electrically heated water in the centre of the séance circle.
+    original_excerpt: For the Paris sittings and later in a series of sittings in Warsaw in 1921, the researchers placed a
+      circular tank containing a layer of hot liquid paraffin wax floating above electrically heated water in the center of
+      the séance circle.
+    claim_type: observation
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 3dbf3f74-6f5b-4667-b447-5722becf4437
+        title: Gustave Geley
+        slug: gustave-geley
+      - node_id: 64f100c7-ad23-46ef-8818-ed5100b507c5
+        title: Charlie Hickson
+        slug: charlie-hickson
+      - node_id: 771149b9-802e-4cce-bf3c-4f96fa1c5a7c
+        title: 1921 Warsaw paraffin wax glove séances with Franek Kluski
+        slug: 1921-warsaw-paraffin-wax-glove-seances-with-franek-kluski
+      - node_id: b19fbca2-e2d2-4cab-b04f-1ab4d9053f5f
+        title: Poland, Warsaw
+        slug: warsaw-poland
+    date: '1921'
+    date_end: null
+    location_in_record: ch37:7650-7880
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
+      record_title: Surviving Death
+      record_date: '2017-03-07'
+      record_reference: null
+      content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
+      friendly_name: 2017-03-07-ebook-surviving-death
+  - claim_id: 41a94c71-0511-44fe-af6a-0be002d8c718
+    claim_hash: 106de58fd53612c3293c3b56116b341884c296efce8f674b4945841808b58ef8
+    content: The researchers asked the materialized beings to dip their hands into the hot paraffin wax, making thin wax gloves
+      around them.
+    original_excerpt: They then asked the beings to dip their materialized hands into the hot wax, making thin gloves around
+      them.
+    claim_type: observation
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 3dbf3f74-6f5b-4667-b447-5722becf4437
+        title: Gustave Geley
+        slug: gustave-geley
+      - node_id: 52358d51-9096-4ae5-97b2-963f54de16d6
+        title: Franek Kluski
+        slug: franek-kluski
+      - node_id: 64f100c7-ad23-46ef-8818-ed5100b507c5
+        title: Charlie Hickson
+        slug: charlie-hickson
+    date: null
+    date_end: null
+    location_in_record: ch37:7888-7991
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
+      record_title: Surviving Death
+      record_date: '2017-03-07'
+      record_reference: null
+      content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
+      friendly_name: 2017-03-07-ebook-surviving-death
+  - claim_id: 91052435-8141-4ea7-927c-a469be3c8d06
+    claim_hash: e55a83685ef0aedaae84015e9acfb53099672ce5149511bb60edd239a5ee7ddb
+    content: In one instance, Gustave Geley and Charles Richet secretly added a bluish colouring agent to the paraffin wax
+      just prior to the séance to verify the identity of the wax as coming only from the séance room.
+    original_excerpt: Unknown to anyone else, in one instance Geley and Richet added a bluish coloring agent to the paraffin
+      just prior to the séance; for another experiment they secretly added cholesterin.
+    claim_type: observation
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 3dbf3f74-6f5b-4667-b447-5722becf4437
+        title: Gustave Geley
+        slug: gustave-geley
+      - node_id: 52358d51-9096-4ae5-97b2-963f54de16d6
+        title: Franek Kluski
+        slug: franek-kluski
+      - node_id: 64f100c7-ad23-46ef-8818-ed5100b507c5
+        title: Charlie Hickson
+        slug: charlie-hickson
+    date: null
+    date_end: null
+    location_in_record: ch37:9353-9525
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
+      record_title: Surviving Death
+      record_date: '2017-03-07'
+      record_reference: null
+      content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
+      friendly_name: 2017-03-07-ebook-surviving-death
+  - claim_id: 53113908-ec50-4268-8fc5-9306a17497b8
+    claim_hash: 7fb73950cc6b5a6cee283b5f4c2f2d54cf266ae41545c5323f48431b1a8005aa
+    content: Gustave Geley and Charles Richet added a bluish colouring agent to the wax used in the Franek Kluski mold experiments
+      to test authenticity.
+    original_excerpt: Geley and Richet added a bluish coloring agent
+    claim_type: observation
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: document
+      origin: 'Clairvoyance and Materialization: A Record of Experiments (book by Gustave Geley)'
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 3dbf3f74-6f5b-4667-b447-5722becf4437
+        title: Gustave Geley
+        slug: gustave-geley
+      - node_id: 52358d51-9096-4ae5-97b2-963f54de16d6
+        title: Franek Kluski
+        slug: franek-kluski
+      - node_id: 64f100c7-ad23-46ef-8818-ed5100b507c5
+        title: Charlie Hickson
+        slug: charlie-hickson
+      - node_id: ad1bdc87-fa10-4e10-beb2-362d4ee82c4e
+        title: Paraffin wax mold experiments
+        slug: paraffin-wax-mold-experiments
+    date: null
+    date_end: null
+    location_in_record: ch37:9393-9434
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
+      record_title: Surviving Death
+      record_date: '2017-03-07'
+      record_reference: null
+      content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
+      friendly_name: 2017-03-07-ebook-surviving-death
+  - claim_id: a021259f-bc37-4dc0-bb9b-884148c28092
+    claim_hash: 9b048e0dd175e5759af7bba1afd4eb1350be7bc630dfd01126646cfccc571d1d
+    content: For another experiment, Gustave Geley and Charles Richet secretly added cholesterin to the paraffin wax.
+    original_excerpt: for another experiment they secretly added cholesterin.
+    claim_type: observation
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 3dbf3f74-6f5b-4667-b447-5722becf4437
+        title: Gustave Geley
+        slug: gustave-geley
+      - node_id: 64f100c7-ad23-46ef-8818-ed5100b507c5
+        title: Charlie Hickson
+        slug: charlie-hickson
+    date: null
+    date_end: null
+    location_in_record: ch37:9482-9525
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
+      record_title: Surviving Death
+      record_date: '2017-03-07'
+      record_reference: null
+      content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
+      friendly_name: 2017-03-07-ebook-surviving-death
+  - claim_id: 799e2b45-eef2-4e13-a025-e579840e9b56
+    claim_hash: be42a61df6cf1904f530e70faedf091d9bc5d03008ef51b2d66523b564e52662
+    content: Gustave Geley and Charles Richet secretly added cholesterin to the wax used in the Franek Kluski mold experiments
+      to test authenticity.
+    original_excerpt: they secretly added cholesterin
+    claim_type: observation
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: document
+      origin: 'Clairvoyance and Materialization: A Record of Experiments (book by Gustave Geley)'
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 3dbf3f74-6f5b-4667-b447-5722becf4437
+        title: Gustave Geley
+        slug: gustave-geley
+      - node_id: 52358d51-9096-4ae5-97b2-963f54de16d6
+        title: Franek Kluski
+        slug: franek-kluski
+      - node_id: 64f100c7-ad23-46ef-8818-ed5100b507c5
+        title: Charlie Hickson
+        slug: charlie-hickson
+      - node_id: ad1bdc87-fa10-4e10-beb2-362d4ee82c4e
+        title: Paraffin wax mold experiments
+        slug: paraffin-wax-mold-experiments
+    date: null
+    date_end: null
+    location_in_record: ch37:9505-9525
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
+      record_title: Surviving Death
+      record_date: '2017-03-07'
+      record_reference: null
+      content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
+      friendly_name: 2017-03-07-ebook-surviving-death
+  - claim_id: 01879a03-6111-4903-ba5e-3815c53fb1f1
+    claim_hash: a74415b8dba602f60de0eb992beb3c650e42ad4ceb0bad109bb5e5e1374e0798
+    content: Charles Richet watched a mass of greyish, gelatinous ectoplasm emanate from the medium Eva Carrière and gradually
+      form into a left hand seen from the back, with visible digits, a little finger, thumb, and carpal-bone-like swelling.
+    original_excerpt: 'Charles Richet watched a mass of "grayish, gelatinous" ectoplasm emanate from Eva C.: Little by little
+      it seems to split into digits at its end. It is like the embryo of a hand, ill-formed but clear enough to enable me
+      to say that it is a left hand seen from the back. Fresh progress: the little finger separates almost completely: then
+      the following changes, very quick but very clear: a hand with closed fingers, seen from the back, with a little finger
+      extended, an ill-formed thumb, and higher up a swelling that resembles the carpal bones.'
+    claim_type: observation
+    attestation: first_hand
+    speaker:
+      node_id: 64f100c7-ad23-46ef-8818-ed5100b507c5
+      title: Charlie Hickson
+    provenance_chain:
+      origin_kind: speaker
+      origin: Charles Richet
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 64f100c7-ad23-46ef-8818-ed5100b507c5
+        title: Charlie Hickson
+        slug: charlie-hickson
+      - node_id: 8ad0b348-d3d5-4e76-9c36-2f68e2e96577
+        title: Eva Carrière
+        slug: eva-carriere
+    date: null
+    date_end: null
+    location_in_record: ch38:29321-29862
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
+      record_title: Surviving Death
+      record_date: '2017-03-07'
+      record_reference: null
+      content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
+      friendly_name: 2017-03-07-ebook-surviving-death
+  - claim_id: 6c48a11a-3a43-4c19-8d07-0b2b923c415d
+    claim_hash: 8d7fccb7de6beaca93b08d12248f5d812c48d75cfdc972679fd1e3c13d155f74
+    content: Charles Tart studied a woman known as Miss Z who reported frequent out-of-body experiences.
+    original_excerpt: Dr. Charles Tart studied a woman (Miss Z) who reported frequent out-of-body experiences.
+    claim_type: observation
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: named
+      origin: Charles Tart
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 1572c402-bb04-4752-a659-747989bc2bb2
+        title: Miss Z
+        slug: miss-z
+      - node_id: 64f100c7-ad23-46ef-8818-ed5100b507c5
+        title: Charlie Hickson
+        slug: charlie-hickson
+    date: null
+    date_end: null
+    location_in_record: ch22:11076-11152
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 759e8d7b-a820-4e00-bdc3-9aebf9e4b1b1
+      record_title: The Fourth Mind
+      record_date: '2025-01-15'
+      record_reference: null
+      content_hash: sha256:524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008e17102e7
+      friendly_name: 2025-01-15-ebook-the-fourth-mind
+  - claim_id: c12a4797-c126-4296-90e4-cc54721c0efb
+    claim_hash: 52081e730aea386ffcb9fe4ba47b85996df7ba6d20b878d10bd18d20447443a8
+    content: In Charles Tart's 1968 experiment, he placed a random five-digit number in a location Miss Z could not physically
+      see, and after reportedly leaving her body and moving to a place where she could see the paper, Miss Z was able to accurately
+      repeat the number.
+    original_excerpt: The study reported on an experiment in which Dr. Tart placed a random five-digit number in a location
+      that Miss Z. could not physically see. He found that, after going out of her body and moving in the nonphysical state
+      to a place where she could see the paper, she was able to accurately repeat the number (Tart 1968).
+    claim_type: observation
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: document
+      origin: Tart 1968 study on out-of-body experience of Miss Z
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 1572c402-bb04-4752-a659-747989bc2bb2
+        title: Miss Z
+        slug: miss-z
+      - node_id: 64f100c7-ad23-46ef-8818-ed5100b507c5
+        title: Charlie Hickson
+        slug: charlie-hickson
+      - node_id: 7eab7546-13f6-4e80-a2dd-b2e50e698e47
+        title: Tart 1968 study on out-of-body experience of Miss Z
+        slug: tart-1968-study-on-out-of-body-experience-of-miss-z
+    date: null
+    date_end: null
+    location_in_record: ch22:11261-11574
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 759e8d7b-a820-4e00-bdc3-9aebf9e4b1b1
+      record_title: The Fourth Mind
+      record_date: '2025-01-15'
+      record_reference: null
+      content_hash: sha256:524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008e17102e7
+      friendly_name: 2025-01-15-ebook-the-fourth-mind
+  - claim_id: ed51ce41-1af4-4222-b7e3-362761bb1e34
+    claim_hash: b2e262b29f7e3203cef39e3131e6f3e6c6399db34dbb970f78ec6e5b3e93113f
+    content: Charles Conrad perceived more instances of the light flash phenomenon in his left eye than in his right eye.
+    original_excerpt: I, for some reason, got more with my left eye than my right eye, but I could tell which eye it was when
+      I was concentrating on it.
+    claim_type: observation
+    attestation: first_hand
+    speaker:
+      node_id: 64f100c7-ad23-46ef-8818-ed5100b507c5
+      title: Charlie Hickson
+    provenance_chain:
+      origin_kind: speaker
+      origin: Charles Conrad
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 244decc2-311c-4ab1-8197-ba03cc8ce57a
+        title: Astronaut light flash phenomenon
+        slug: astronaut-light-flash-phenomenon
+      - node_id: 64f100c7-ad23-46ef-8818-ed5100b507c5
+        title: Charlie Hickson
+        slug: charlie-hickson
+    date: null
+    date_end: null
+    location_in_record: 00:01:54.4-00:02:00.4
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 4b71719c-c1c9-495b-a76b-693781c1515f
+      record_title: NASA-UAP-D008, Apollo 12 Medical Debriefing - Tape 12, 1969
+      record_date: '2026-07-11'
+      record_reference: https://www.dvidshub.net/video/1007870
+      content_hash: sha256:5a05136da7b71b53d7909a26e89d3a85e0acc9bba9670eb335c2277ebd2bb793
+      friendly_name: null
+  - claim_id: 66337d8e-d899-45bf-acdb-9bd62f1fb57b
+    claim_hash: 09e0af8cfe59749ba81fac53375fd88bd69b19306a6fb539ac9fe2adce7ace2f
+    content: Charles Conrad's sleeping position was on the left side of the spacecraft during Apollo 12, which was suggested
+      as the reason he perceived more light flashes in his left eye.
+    original_excerpt: I'm trying to tell him the reason he did is because his, where he slept, was always on the left side
+      of the spacecraft.
+    claim_type: opinion
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 64f100c7-ad23-46ef-8818-ed5100b507c5
+        title: Charlie Hickson
+        slug: charlie-hickson
+      - node_id: 663c59e3-0b99-4577-b723-d5d1337aa119
+        title: Apollo 12
+        slug: apollo-12
+    date: '1969-11-14'
+    date_end: null
+    location_in_record: 00:02:00.5-00:02:08.6
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 4b71719c-c1c9-495b-a76b-693781c1515f
+      record_title: NASA-UAP-D008, Apollo 12 Medical Debriefing - Tape 12, 1969
+      record_date: '2026-07-11'
+      record_reference: https://www.dvidshub.net/video/1007870
+      content_hash: sha256:5a05136da7b71b53d7909a26e89d3a85e0acc9bba9670eb335c2277ebd2bb793
+      friendly_name: null
+  - claim_id: e2194c84-5594-468a-994b-e9e98232c9d9
+    claim_hash: 6a30e9afff3b7ba2ed54bbd8356573f200f8537e8f27f56c4bb4c9015ff51a4b
+    content: During Apollo 12, Charles Conrad and other crew members were specifically asked to experiment with observing
+      the astronaut light flash phenomenon.
+    original_excerpt: we were asked to specifically experiment with this.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 64f100c7-ad23-46ef-8818-ed5100b507c5
+      title: Charlie Hickson
+    provenance_chain:
+      origin_kind: speaker
+      origin: Charles Conrad
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 244decc2-311c-4ab1-8197-ba03cc8ce57a
+        title: Astronaut light flash phenomenon
+        slug: astronaut-light-flash-phenomenon
+      - node_id: 64f100c7-ad23-46ef-8818-ed5100b507c5
+        title: Charlie Hickson
+        slug: charlie-hickson
+      - node_id: 663c59e3-0b99-4577-b723-d5d1337aa119
+        title: Apollo 12
+        slug: apollo-12
+    date: '1969-11-14'
+    date_end: null
+    location_in_record: 00:02:30.3-00:02:33.6
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 4b71719c-c1c9-495b-a76b-693781c1515f
+      record_title: NASA-UAP-D008, Apollo 12 Medical Debriefing - Tape 12, 1969
+      record_date: '2026-07-11'
+      record_reference: https://www.dvidshub.net/video/1007870
+      content_hash: sha256:5a05136da7b71b53d7909a26e89d3a85e0acc9bba9670eb335c2277ebd2bb793
+      friendly_name: null
+  - claim_id: 35c7d031-2389-4d2b-adc5-b4c2cf10ea7a
+    claim_hash: d75c2924b3c71746e69a81e8deb5f4730989f2f8e8c0a0a494c4aeb4a7e72eac
+    content: Buzz Neal discussed two phenomena related to the astronaut light flash phenomenon in a letter.
+    original_excerpt: Two phenomena that came out of a letter. Buzz Neal talked about this.
+    claim_type: administrative
+    attestation: first_hand
+    speaker:
+      node_id: 64f100c7-ad23-46ef-8818-ed5100b507c5
+      title: Charlie Hickson
+    provenance_chain:
+      origin_kind: speaker
+      origin: Charles Conrad
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 244decc2-311c-4ab1-8197-ba03cc8ce57a
+        title: Astronaut light flash phenomenon
+        slug: astronaut-light-flash-phenomenon
+      - node_id: 2899acba-bc9d-4209-b582-d9d0179a1681
+        title: Buzz Neal
+        slug: buzz-neal
+    date: null
+    date_end: null
+    location_in_record: 00:02:44.5-00:02:47.5
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 4b71719c-c1c9-495b-a76b-693781c1515f
+      record_title: NASA-UAP-D008, Apollo 12 Medical Debriefing - Tape 12, 1969
+      record_date: '2026-07-11'
+      record_reference: https://www.dvidshub.net/video/1007870
+      content_hash: sha256:5a05136da7b71b53d7909a26e89d3a85e0acc9bba9670eb335c2277ebd2bb793
+      friendly_name: null
+  - claim_id: b5d4cb6a-b887-4eda-8c78-4d3bd60ae2a7
+    claim_hash: c577cc103fabe6ee58700b2ee39e0dac36faee5dca33a579aa0b8e71002d4589
+    content: Charles Conrad observed a light flash travel along a handrail above the MVP for a short distance while looking
+      directly at that spot.
+    original_excerpt: I saw one night, I was looking at the MVP, a handrail up above, and one right right along, I don't know
+      where it went, it's here, you know, right straight along that handrail for about that distance.
+    claim_type: observation
+    attestation: first_hand
+    speaker:
+      node_id: 64f100c7-ad23-46ef-8818-ed5100b507c5
+      title: Charlie Hickson
+    provenance_chain:
+      origin_kind: speaker
+      origin: Charles Conrad
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 244decc2-311c-4ab1-8197-ba03cc8ce57a
+        title: Astronaut light flash phenomenon
+        slug: astronaut-light-flash-phenomenon
+      - node_id: 64f100c7-ad23-46ef-8818-ed5100b507c5
+        title: Charlie Hickson
+        slug: charlie-hickson
+    date: null
+    date_end: null
+    location_in_record: 00:04:12.7-00:04:22.8
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 4b71719c-c1c9-495b-a76b-693781c1515f
+      record_title: NASA-UAP-D008, Apollo 12 Medical Debriefing - Tape 12, 1969
+      record_date: '2026-07-11'
+      record_reference: https://www.dvidshub.net/video/1007870
+      content_hash: sha256:5a05136da7b71b53d7909a26e89d3a85e0acc9bba9670eb335c2277ebd2bb793
+      friendly_name: null
+  - claim_id: 2d86fd5d-f03e-4c1a-8625-53a03c9c4d1a
+    claim_hash: 469d2a0f8b0c163fde3fff749f366fadcd4722f5cf100d8df2a19fd65c4815dd
+    content: Charles Conrad observed that the light streaks he saw during the astronaut light flash phenomenon were horizontal
+      in orientation.
+    original_excerpt: The streets I saw were horizontal.
+    claim_type: observation
+    attestation: first_hand
+    speaker:
+      node_id: 64f100c7-ad23-46ef-8818-ed5100b507c5
+      title: Charlie Hickson
+    provenance_chain:
+      origin_kind: speaker
+      origin: Charles Conrad
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 244decc2-311c-4ab1-8197-ba03cc8ce57a
+        title: Astronaut light flash phenomenon
+        slug: astronaut-light-flash-phenomenon
+      - node_id: 64f100c7-ad23-46ef-8818-ed5100b507c5
+        title: Charlie Hickson
+        slug: charlie-hickson
+    date: null
+    date_end: null
+    location_in_record: 00:05:26.2-00:05:27.9
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 4b71719c-c1c9-495b-a76b-693781c1515f
+      record_title: NASA-UAP-D008, Apollo 12 Medical Debriefing - Tape 12, 1969
+      record_date: '2026-07-11'
+      record_reference: https://www.dvidshub.net/video/1007870
+      content_hash: sha256:5a05136da7b71b53d7909a26e89d3a85e0acc9bba9670eb335c2277ebd2bb793
+      friendly_name: null
+  - claim_id: a00086be-7251-44b5-8c50-119410b44a2d
+    claim_hash: ebd305f05a904c0ceaf2fcc3a04531371ff39817f33759f7bc9da4a88ca307f5
+    content: Charles Conrad had the impression that the horizontal light streaks he observed always appeared roughly in the
+      same place, slightly above centre of his field of view, and moved from right to left.
+    original_excerpt: Mine, it seemed to me I had the impression that they were always roughly in the same place and mine
+      were horizontal... it always seemed like the horizontal street was a little bit above the center. And it always seemed
+      to me it went from right to left.
+    claim_type: observation
+    attestation: first_hand
+    speaker:
+      node_id: 64f100c7-ad23-46ef-8818-ed5100b507c5
+      title: Charlie Hickson
+    provenance_chain:
+      origin_kind: speaker
+      origin: Charles Conrad
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 244decc2-311c-4ab1-8197-ba03cc8ce57a
+        title: Astronaut light flash phenomenon
+        slug: astronaut-light-flash-phenomenon
+      - node_id: 64f100c7-ad23-46ef-8818-ed5100b507c5
+        title: Charlie Hickson
+        slug: charlie-hickson
+    date: null
+    date_end: null
+    location_in_record: 00:05:31.5-00:05:48.9
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 4b71719c-c1c9-495b-a76b-693781c1515f
+      record_title: NASA-UAP-D008, Apollo 12 Medical Debriefing - Tape 12, 1969
+      record_date: '2026-07-11'
+      record_reference: https://www.dvidshub.net/video/1007870
+      content_hash: sha256:5a05136da7b71b53d7909a26e89d3a85e0acc9bba9670eb335c2277ebd2bb793
+      friendly_name: null
+  - claim_id: 2ce9de79-1ef4-4704-8956-e15cc1c43233
+    claim_hash: e0406e1150216614457522c0383d61ac9071d1776c839645c1ef5b2b731d7265
+    content: Charles Conrad recalled that the light streaks he observed appeared at roughly 30 degrees from horizontal.
+    original_excerpt: Yeah, I remember right about 30 degrees of horizontal when they were coming.
+    claim_type: measurement
+    attestation: first_hand
+    speaker:
+      node_id: 64f100c7-ad23-46ef-8818-ed5100b507c5
+      title: Charlie Hickson
+    provenance_chain:
+      origin_kind: speaker
+      origin: Charles Conrad
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 244decc2-311c-4ab1-8197-ba03cc8ce57a
+        title: Astronaut light flash phenomenon
+        slug: astronaut-light-flash-phenomenon
+      - node_id: 64f100c7-ad23-46ef-8818-ed5100b507c5
+        title: Charlie Hickson
+        slug: charlie-hickson
+    date: null
+    date_end: null
+    location_in_record: 00:06:28.8-00:06:32.6
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 4b71719c-c1c9-495b-a76b-693781c1515f
+      record_title: NASA-UAP-D008, Apollo 12 Medical Debriefing - Tape 12, 1969
+      record_date: '2026-07-11'
+      record_reference: https://www.dvidshub.net/video/1007870
+      content_hash: sha256:5a05136da7b71b53d7909a26e89d3a85e0acc9bba9670eb335c2277ebd2bb793
+      friendly_name: null
+  - claim_id: 7144dfe1-8312-4036-8590-b3f33dc0e62d
+    claim_hash: f26b951e713c0692c90dbb8b860dd9d127b180eceaac1cfaff824be7a40ed75c
+    content: 'Charles Conrad observed two distinct types of light flashes during the astronaut light flash phenomenon: a flash-like
+      shape and a streak.'
+    original_excerpt: We had two kinds... And we get either a flag like that or we get a streak.
+    claim_type: observation
+    attestation: first_hand
+    speaker:
+      node_id: 64f100c7-ad23-46ef-8818-ed5100b507c5
+      title: Charlie Hickson
+    provenance_chain:
+      origin_kind: speaker
+      origin: Charles Conrad
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 244decc2-311c-4ab1-8197-ba03cc8ce57a
+        title: Astronaut light flash phenomenon
+        slug: astronaut-light-flash-phenomenon
+      - node_id: 64f100c7-ad23-46ef-8818-ed5100b507c5
+        title: Charlie Hickson
+        slug: charlie-hickson
+    date: null
+    date_end: null
+    location_in_record: L19-L23
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 4b71719c-c1c9-495b-a76b-693781c1515f
+      record_title: NASA-UAP-D008, Apollo 12 Medical Debriefing - Tape 12, 1969
+      record_date: '2026-07-11'
+      record_reference: https://www.dvidshub.net/video/1007870
+      content_hash: sha256:5a05136da7b71b53d7909a26e89d3a85e0acc9bba9670eb335c2277ebd2bb793
+      friendly_name: null
+  - claim_id: cd0cf9ef-1e04-457a-8437-c75404320924
+    claim_hash: 6d474acef03e37649f4c1a24ff70ac5d0a752c30d37b9da4c173c5908ef14686
+    content: There are theories that Louis Jolyon West might have brainwashed Charles Manson.
+    original_excerpt: And now there are all these theories that he might have brainwashed Charles Manson.
+    claim_type: hearsay
+    attestation: null
+    speaker:
+      node_id: 079d4381-4273-418b-bc9a-468623f95c6e
+      title: Jesse Mitchells
+    provenance_chain:
+      origin_kind: unattributed
+      origin: unattributed theories referred to by Jesse Michels
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 21a31a67-2dcf-40b7-9c48-4f55fdfb8952
+        title: Louis Jolyon West
+        slug: louis-jolyon-west
+      - node_id: 64f100c7-ad23-46ef-8818-ed5100b507c5
+        title: Charlie Hickson
+        slug: charlie-hickson
+    date: null
+    date_end: null
+    location_in_record: 00:11:45.5-00:11:49.3
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 64b84f95-238c-4ab7-a678-bee55f985b14
+      record_title: The UFO Cover-Up Leads to One Secret Society — and One Final Event
+      record_date: '2026-07-14'
+      record_reference: https://www.youtube.com/watch?v=kccrkCGGzX4
+      content_hash: sha256:d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7b5a1b98d
+      friendly_name: null
+  - claim_id: ca94eaaf-3aa3-47e4-8dc7-3ced0ec52687
+    claim_hash: 0b7c9ce7e15b3da0b2f8dfd87f2db6c87440d47e78f51f6b1524e0edf0c628b4
+    content: For the 20 years before the Maison Rouge meeting, the German industrialists present had deep relationships with
+      the Rockefellers, the Morgans and Hambro in the United Kingdom.
+    original_excerpt: All of those people for 20 years up to this point, had had a deep relationship with the Rockefellers,
+      with the Morgans, with Hambro and the United Kingdom.
+    claim_type: testimony
+    attestation: null
+    speaker:
+      node_id: ff0a86b8-8f3c-4291-94ed-c6d303875ce8
+      title: Jason Samosa
+    provenance_chain:
+      origin_kind: unattributed
+      origin: narration by Jason Samosa
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 64f100c7-ad23-46ef-8818-ed5100b507c5
+        title: Charlie Hickson
+        slug: charlie-hickson
+      - node_id: fa727cfc-9b1c-4743-b176-76256cc02fa4
+        title: Maison Rouge meeting
+        slug: maison-rouge-meeting
+    date: null
+    date_end: null
+    location_in_record: 01:19:46.4-01:19:55.0
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 64b84f95-238c-4ab7-a678-bee55f985b14
+      record_title: The UFO Cover-Up Leads to One Secret Society — and One Final Event
+      record_date: '2026-07-14'
+      record_reference: https://www.youtube.com/watch?v=kccrkCGGzX4
+      content_hash: sha256:d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7b5a1b98d
+      friendly_name: null
+  - claim_id: 8562c237-5e8d-4ad2-90b9-5a6c587929d6
+    claim_hash: 1744da63216a183a01914072cf8a7072d3eb4e059a00ca629ea7e9427c6b9649
+    content: The Special Operations Executive in the United Kingdom was run by Charles Hambro, one of the directors of the
+      Bank of England.
+    original_excerpt: And then you've got the Special Operations Executive in the United Kingdom. ... It turns out to be one
+      of the directors of the Bank of England, Hambrose.
+    claim_type: testimony
+    attestation: null
+    speaker:
+      node_id: ff0a86b8-8f3c-4291-94ed-c6d303875ce8
+      title: Jason Samosa
+    provenance_chain:
+      origin_kind: unattributed
+      origin: narration by Jason Samosa
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 64f100c7-ad23-46ef-8818-ed5100b507c5
+        title: Charlie Hickson
+        slug: charlie-hickson
+      - node_id: 757229b5-8942-45b1-bd13-ee87a21d045b
+        title: Bank of England
+        slug: bank-of-england
+      - node_id: a7aa4b7b-cc5a-4683-939a-dfd7314bdb32
+        title: Special Operations Executive (SOE)
+        slug: special-operations-executive-soe
+    date: null
+    date_end: null
+    location_in_record: 01:23:32.9-01:23:41.8
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 64b84f95-238c-4ab7-a678-bee55f985b14
+      record_title: The UFO Cover-Up Leads to One Secret Society — and One Final Event
+      record_date: '2026-07-14'
+      record_reference: https://www.youtube.com/watch?v=kccrkCGGzX4
+      content_hash: sha256:d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7b5a1b98d
+      friendly_name: null
+  - claim_id: 765fa90e-5e01-4fc7-9233-1ccf142dcd37
+    claim_hash: abab747b6c89187924be71fa2b620066bcf88bfd828f786cf33c74eb837b2fe1
+    content: The board of the World Commerce Corporation included William Donovan, William Stephenson and Charles Hambro,
+      with Allen Dulles serving as legal counsel.
+    original_excerpt: Donovan, Stephenson, Hambrose, you've got Dulles doing the legal counsel.
+    claim_type: testimony
+    attestation: null
+    speaker:
+      node_id: ff0a86b8-8f3c-4291-94ed-c6d303875ce8
+      title: Jason Samosa
+    provenance_chain:
+      origin_kind: unattributed
+      origin: narration by Jason Samosa
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 64f100c7-ad23-46ef-8818-ed5100b507c5
+        title: Charlie Hickson
+        slug: charlie-hickson
+      - node_id: 7699ee6b-266c-42ed-95b2-3b4430fd2af9
+        title: World Commerce Corporation
+        slug: world-commerce-corporation
+      - node_id: 7ddd5068-c6d5-475e-893a-bcf182ee126f
+        title: William Stephenson
+        slug: william-stephenson
+      - node_id: d889d0f2-6025-463f-abde-a238988e925f
+        title: William Donovan
+        slug: william-donovan
+      - node_id: dea35210-38f0-4797-8438-84a5a9f42661
+        title: Allen Dulles
+        slug: allen-dulles
+    date: null
+    date_end: null
+    location_in_record: 01:24:43.0-01:24:47.0
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 64b84f95-238c-4ab7-a678-bee55f985b14
+      record_title: The UFO Cover-Up Leads to One Secret Society — and One Final Event
+      record_date: '2026-07-14'
+      record_reference: https://www.youtube.com/watch?v=kccrkCGGzX4
+      content_hash: sha256:d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7b5a1b98d
+      friendly_name: null
+  - claim_id: 395b2367-1ed7-46ef-a8e8-1d7ac64fc248
+    claim_hash: c355fe68357f560a2490ca1f0a839e0256a3fcaf6d077707728d6c51a53ffc87
+    content: Michele Sindona acquired his own banks as part of the Moneyrex operation, and when he acquired them two or three
+      other parties would acquire all the remaining shares, one being the Institute for the Works of Religion (Vatican Bank)
+      and another being Charles Hambro.
+    original_excerpt: Sindona, as part of this, would acquire his own banks. Many of those banks, when he would acquire them,
+      two or three people would then acquire all the rest of the shares. One was the Vatican bank. The other one was Charles
+      Hambro.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: ff0a86b8-8f3c-4291-94ed-c6d303875ce8
+      title: Jason Samosa
+    provenance_chain:
+      origin_kind: speaker
+      origin: Jason Samosa
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 64f100c7-ad23-46ef-8818-ed5100b507c5
+        title: Charlie Hickson
+        slug: charlie-hickson
+      - node_id: 90637a2e-45e8-4044-8247-0148be5af049
+        title: Michele Sindona
+        slug: michele-sindona
+      - node_id: 965c92f0-6dbe-4a8c-9f3f-d77cb19a7487
+        title: Moneyrex
+        slug: moneyrex
+      - node_id: a1cc72c7-9215-444e-9ebb-494533ed59fb
+        title: Institute for the Works of Religion (Vatican Bank)
+        slug: institute-for-the-works-of-religion-vatican-bank
+    date: null
+    date_end: null
+    location_in_record: 01:38:40.9-01:38:52.2
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 64b84f95-238c-4ab7-a678-bee55f985b14
+      record_title: The UFO Cover-Up Leads to One Secret Society — and One Final Event
+      record_date: '2026-07-14'
+      record_reference: https://www.youtube.com/watch?v=kccrkCGGzX4
+      content_hash: sha256:d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7b5a1b98d
+      friendly_name: null
+  - claim_id: 64a1db75-c1f6-48b8-9d7f-752161181b74
+    claim_hash: ffe66b3b31bc619e225855299de32237981c48fff273c0919e48fbf53da16705
+    content: Charles Hambro was the financier who ran the Special Operations Executive (SOE), a Bank of England director,
+      and a founding member of the World Commerce Corporation.
+    original_excerpt: So the financier who ran the special operations executive, Bank of England director, and a founding
+      member of the World Commerce Corporation.
+    claim_type: administrative
+    attestation: first_hand
+    speaker:
+      node_id: ff0a86b8-8f3c-4291-94ed-c6d303875ce8
+      title: Jason Samosa
+    provenance_chain:
+      origin_kind: speaker
+      origin: Jason Samosa
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 64f100c7-ad23-46ef-8818-ed5100b507c5
+        title: Charlie Hickson
+        slug: charlie-hickson
+      - node_id: 757229b5-8942-45b1-bd13-ee87a21d045b
+        title: Bank of England
+        slug: bank-of-england
+      - node_id: 7699ee6b-266c-42ed-95b2-3b4430fd2af9
+        title: World Commerce Corporation
+        slug: world-commerce-corporation
+      - node_id: a7aa4b7b-cc5a-4683-939a-dfd7314bdb32
+        title: Special Operations Executive (SOE)
+        slug: special-operations-executive-soe
+    date: null
+    date_end: null
+    location_in_record: 01:38:53.2-01:39:00.3
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 64b84f95-238c-4ab7-a678-bee55f985b14
+      record_title: The UFO Cover-Up Leads to One Secret Society — and One Final Event
+      record_date: '2026-07-14'
+      record_reference: https://www.youtube.com/watch?v=kccrkCGGzX4
+      content_hash: sha256:d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7b5a1b98d
+      friendly_name: null
+  - claim_id: 4aeb55bf-d381-4b1c-a9f4-b4a5db1412ad
+    claim_hash: 0a0a875bc5afaa25a269d412abcbfed6ceed1008f7c4816fe27f95ee92f18e6a
+    content: Jason Samosa considers Charles Hambro's bank a good fit for the private European bank from the 1800s that Jacques
+      Vallee described.
+    original_excerpt: Charles Hambro's bank would fit that very well.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: ff0a86b8-8f3c-4291-94ed-c6d303875ce8
+      title: Jason Samosa
+    provenance_chain:
+      origin_kind: speaker
+      origin: Jason Samosa
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
+        title: Jacques Vallée
+        slug: jacques-vallee
+      - node_id: 64f100c7-ad23-46ef-8818-ed5100b507c5
+        title: Charlie Hickson
+        slug: charlie-hickson
+      - node_id: ff0a86b8-8f3c-4291-94ed-c6d303875ce8
+        title: Jason Samosa
+        slug: jason-samosa
+    date: null
+    date_end: null
+    location_in_record: 01:39:11.5-01:39:13.5
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 64b84f95-238c-4ab7-a678-bee55f985b14
+      record_title: The UFO Cover-Up Leads to One Secret Society — and One Final Event
+      record_date: '2026-07-14'
+      record_reference: https://www.youtube.com/watch?v=kccrkCGGzX4
+      content_hash: sha256:d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7b5a1b98d
+      friendly_name: null
+  - claim_id: 6f409188-6138-4bea-96aa-8c3a08e5f5b0
+    claim_hash: 5ad015d76cbd470c29d184baa70d7011f6d29b1260ae749ccc5e15546ec65c2e
+    content: An author whose name David Grusch could not recall has reported in a book that Charles Manson may possibly have
+      been involved in Project MKUltra.
+    original_excerpt: it's been reported by a particular author whose name escapes me that even Charles Manson would have
+      possibly been in the MKUltra program. And there's a whole book on that.
+    claim_type: hearsay
+    attestation: second_hand
+    speaker:
+      node_id: d4241f5a-1063-4970-ba02-5a391c02d96d
+      title: David Charles Grusch
+    provenance_chain:
+      origin_kind: named
+      origin: an author, name not recalled by David Grusch, of a book on Charles Manson and Project MKUltra
+      relay:
+        - a book
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 5d4966d1-e0f0-4c5c-b701-b48b4a2f13c1
+        title: Project MKUltra (MKUltra)
+        slug: project-mkultra-mkultra
+      - node_id: 64f100c7-ad23-46ef-8818-ed5100b507c5
+        title: Charlie Hickson
+        slug: charlie-hickson
+      - node_id: d4241f5a-1063-4970-ba02-5a391c02d96d
+        title: David Charles Grusch
+        slug: david-charles-grusch
+    date: null
+    date_end: null
+    location_in_record: 00:12:08.1-00:12:19.0
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: eb21cb34-eec1-462d-9127-2d5e367cdfb9
+      record_title: 'David Grusch: The Whistleblower Who Told Congress We''re Not Alone'
+      record_date: '2026-08-13'
+      record_reference: https://www.youtube.com/watch?v=LBXmqvFs0Ec
+      content_hash: sha256:c685d061d160da6ae664b97e8b033d8d36090ea76d13c45792556dae22ae3344
+      friendly_name: null

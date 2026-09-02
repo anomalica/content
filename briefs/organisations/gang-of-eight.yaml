@@ -1,0 +1,625 @@
+schema: anomalica/brief/1
+brief_hash: c3d9ab2414277f1b9dbc7ba434593ec084d896629fe8919eccbc2fd2ecab2cbd
+page:
+  kind: entity
+  node_id: d0c9e76a-0abb-43c6-a250-70888008fe19
+  node_type: organisation
+  title: Gang of Eight
+  slug: gang-of-eight
+  claim_count: 14
+  claim_count_total: 14
+generated:
+  graph_version: '2026-09-01T10:10:49.863545+00:00'
+size:
+  claims: 14
+  tokens_estimated: 4366
+  sized_against: 1050000
+publication:
+  status: published
+  note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
+    transcripts are gated elsewhere.
+belonging:
+  verified: 0
+  suspect_excluded: 0
+  unreviewed: 14
+related_nodes:
+  - node_id: 4fb65b2c-296a-493d-bbc7-65e4b763c1f0
+    title: United States Congress
+    node_type: organisation
+    slug: united-states-congress
+    shared_claims: 7
+  - node_id: 706d02f7-09d8-4d58-b064-88c79bc6a53d
+    title: Waived Unacknowledged Special Access Programs (WUSAPs)
+    node_type: topic
+    slug: waived-unacknowledged-special-access-programs-wusaps
+    shared_claims: 6
+  - node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+    title: Ross Coulthart
+    node_type: person
+    slug: ross-coulthart
+    shared_claims: 5
+  - node_id: c91974f0-961f-4db8-b7b0-22d4b846e5d5
+    title: Harry Reid
+    node_type: person
+    slug: harry-reid
+    shared_claims: 2
+  - node_id: 0bbdac2d-a855-466a-a051-2afa64a779e2
+    title: UAP crash retrieval and reverse engineering program
+    node_type: project
+    slug: uap-crash-retrieval-and-reverse-engineering-program
+    shared_claims: 2
+  - node_id: 76246f1a-4b58-41f6-a5c3-7a63845fac61
+    title: Barry Goldwater
+    node_type: person
+    slug: barry-goldwater
+    shared_claims: 1
+  - node_id: 38b84d4a-96df-4684-bb46-f6f64f392add
+    title: Central Intelligence Agency (CIA)
+    node_type: organisation
+    slug: central-intelligence-agency-cia
+    shared_claims: 1
+  - node_id: ea4f0043-9263-4245-b817-ac0ba6f897f9
+    title: Jim Hines
+    node_type: person
+    slug: jim-hines
+    shared_claims: 1
+  - node_id: e6a30ca9-6ec3-4bbe-9d72-3c8db8ecdfa7
+    title: National Defense Authorization Act for Fiscal Year 2023 (FY2023 NDAA)
+    node_type: document
+    slug: national-defense-authorization-act-for-fiscal-year-2023-fy2023-ndaa
+    shared_claims: 1
+  - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
+    title: Unidentified Anomalous Phenomena (UAP)
+    node_type: topic
+    slug: unidentified-anomalous-phenomena-uap
+    shared_claims: 1
+claims:
+  - claim_id: e0e0d35c-ffd3-4552-83cc-755d5b258ab1
+    claim_hash: c8e4cb788b13443ec598841e882cc8f377af17759457469376477bad2d258aa6
+    content: A Waived Unacknowledged Special Access Program (WUSAP) means the Secretary of Defense has waived all normal oversight
+      laws and reporting procedures, and its existence is concealed and overseen only by the so-called Gang of Eight in Congress.
+    original_excerpt: A WUSAP means the Secretary of Defence has waived all the normal oversight laws and reporting procedures;
+      not only is its very existence concealed, it is only overseen by the so-called Gang of Eight in Congress.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 4fb65b2c-296a-493d-bbc7-65e4b763c1f0
+        title: United States Congress
+        slug: united-states-congress
+      - node_id: 706d02f7-09d8-4d58-b064-88c79bc6a53d
+        title: Waived Unacknowledged Special Access Programs (WUSAPs)
+        slug: waived-unacknowledged-special-access-programs-wusaps
+      - node_id: d0c9e76a-0abb-43c6-a250-70888008fe19
+        title: Gang of Eight
+        slug: gang-of-eight
+    date: null
+    date_end: null
+    location_in_record: ch14:11734-11936
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 32675599-226a-472f-848c-e967ee7f2633
+    claim_hash: db162e7200fc9d3bb45cdf9bd8454754e07de6d2eae6790721e236dffe2b95a7
+    content: The Gang of Eight includes the chair and vice-chair of the House Intelligence Armed Services Committee, the Senate
+      Majority and Minority leaders, and a bipartisan elected group allowed to review Waived Unacknowledged Special Access
+      Programs.
+    original_excerpt: This includes the chair and vice-chair of the House Intelligence Armed Services Committee, the Senate
+      Majority and Minority leaders, and a bipartisan elected group allowed to review WUSAPs.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 706d02f7-09d8-4d58-b064-88c79bc6a53d
+        title: Waived Unacknowledged Special Access Programs (WUSAPs)
+        slug: waived-unacknowledged-special-access-programs-wusaps
+      - node_id: d0c9e76a-0abb-43c6-a250-70888008fe19
+        title: Gang of Eight
+        slug: gang-of-eight
+    date: null
+    date_end: null
+    location_in_record: ch14:11946-12128
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 6e3af895-32c1-4931-89e5-e0d58167d670
+    claim_hash: 29a145be9a6a8a77da20f9a8e315e261cfc70bddeda8079ad3323d128ab0aa2b
+    content: Harry Reid was for years one of the so-called 'Gang of Eight', entitled to be briefed on highly classified intelligence
+      matters including Waived Unacknowledged Special Access Programs (WUSAPs).
+    original_excerpt: Having served as both a Senate Minority and Majority leader, Reid was for years one of the so-called
+      'Gang of Eight', entitled to be briefed into highly classified intelligence matters including Waived Unacknowledged
+      Special Access Programs.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 706d02f7-09d8-4d58-b064-88c79bc6a53d
+        title: Waived Unacknowledged Special Access Programs (WUSAPs)
+        slug: waived-unacknowledged-special-access-programs-wusaps
+      - node_id: c91974f0-961f-4db8-b7b0-22d4b846e5d5
+        title: Harry Reid
+        slug: harry-reid
+      - node_id: d0c9e76a-0abb-43c6-a250-70888008fe19
+        title: Gang of Eight
+        slug: gang-of-eight
+    date: null
+    date_end: null
+    location_in_record: ch17:1357-1589
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 0031b14a-f294-4dda-8c4f-188dca549c9b
+    claim_hash: 033461b6a26836b3e50b81414b649f07db47f6e68ffe12cbb0ebe1e08a0228c2
+    content: Harry Reid was a former member of the United States Congress' Gang of Eight Special Access Program oversight
+      group.
+    original_excerpt: a former member of the Congress’ Gang of Eight SAP oversight group
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: narration
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 4fb65b2c-296a-493d-bbc7-65e4b763c1f0
+        title: United States Congress
+        slug: united-states-congress
+      - node_id: c91974f0-961f-4db8-b7b0-22d4b846e5d5
+        title: Harry Reid
+        slug: harry-reid
+      - node_id: d0c9e76a-0abb-43c6-a250-70888008fe19
+        title: Gang of Eight
+        slug: gang-of-eight
+    date: null
+    date_end: null
+    location_in_record: ch17:22355-22416
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: de40f851-2cdb-4eb7-ad0a-858c3447e7be
+    claim_hash: 56ca73544589eb695ac9cd990d3ff049269f35615d02e6c91e6b55e8856806c5
+    content: As a member of the Gang of Eight in the United States Congress, Barry Goldwater was cleared to know America's
+      most sensitive secrets.
+    original_excerpt: As a member of the so-called Gang of Eight in Congress, he was cleared to know America's most sensitive
+      secrets.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 4fb65b2c-296a-493d-bbc7-65e4b763c1f0
+        title: United States Congress
+        slug: united-states-congress
+      - node_id: 76246f1a-4b58-41f6-a5c3-7a63845fac61
+        title: Barry Goldwater
+        slug: barry-goldwater
+      - node_id: d0c9e76a-0abb-43c6-a250-70888008fe19
+        title: Gang of Eight
+        slug: gang-of-eight
+    date: null
+    date_end: null
+    location_in_record: ch27:19338-19442
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: dd646d57-d40d-4e15-9318-64b8a7a48732
+    claim_hash: 4daab0a8b793563ade94c78f8f9fa9a7eadbe291d35f3966eba5e6bdfd0a5fca
+    content: Congressman Jim Hines is a Gang of Eight member and a Democrat from Connecticut.
+    original_excerpt: Gang of Eight member, Congressman Jim Hines, a Democrat from Connecticut, was given an impressive grilling
+      by Stephen Colbert on his CBS *The Late Show*.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: d0c9e76a-0abb-43c6-a250-70888008fe19
+        title: Gang of Eight
+        slug: gang-of-eight
+      - node_id: ea4f0043-9263-4245-b817-ac0ba6f897f9
+        title: Jim Hines
+        slug: jim-hines
+    date: null
+    date_end: null
+    location_in_record: ch29:26843-26990
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 6ddc7f5e-711f-42af-b9d8-76c7bb1ec6c9
+    claim_hash: ecd2ac1a2816cea2d5b9d0d5b34821d906b972cd59f001f35f1b54b2ddb7b7a1
+    content: If a UAP reverse-engineering program were authorised and overseen solely by Congress's so-called Gang of Eight
+      as a Waived Unacknowledged Special Access Program (WUSAP), it would be required to stay secret under the National Defense
+      Authorization Act 2023's UAP provisions.
+    original_excerpt: so long as it was 'authorised', perhaps by being oversighted solely by the Congress' so-called Gang
+      of Eight as a WUSAP, it would be required to stay secret under these laws.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+      title: Ross Coulthart
+    provenance_chain:
+      origin_kind: speaker
+      origin: Ross Coulthart
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 706d02f7-09d8-4d58-b064-88c79bc6a53d
+        title: Waived Unacknowledged Special Access Programs (WUSAPs)
+        slug: waived-unacknowledged-special-access-programs-wusaps
+      - node_id: d0c9e76a-0abb-43c6-a250-70888008fe19
+        title: Gang of Eight
+        slug: gang-of-eight
+      - node_id: e6a30ca9-6ec3-4bbe-9d72-3c8db8ecdfa7
+        title: National Defense Authorization Act for Fiscal Year 2023 (FY2023 NDAA)
+        slug: national-defense-authorization-act-for-fiscal-year-2023-fy2023-ndaa
+    date: null
+    date_end: null
+    location_in_record: ch30:16075-16244
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: b9ba17a8-37ae-4ee4-a684-c742d15eecca
+    claim_hash: 51558ff5c761077a6ab56c98bb81dacf39b860ea1b8db8215180b0cdef918996
+    content: Before 2021 many members of the United States Congress, including members of the Gang of Eight, were genuinely
+      unaware of UAP programmes.
+    original_excerpt: I would say that a lot of the people in Congress were genuinely oblivious, including, I can say this,
+      members of the Gang of Eight.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+      title: Ross Coulthart
+    provenance_chain:
+      origin_kind: speaker
+      origin: Ross Coulthart
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 4fb65b2c-296a-493d-bbc7-65e4b763c1f0
+        title: United States Congress
+        slug: united-states-congress
+      - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
+        title: Unidentified Anomalous Phenomena (UAP)
+        slug: unidentified-anomalous-phenomena-uap
+      - node_id: d0c9e76a-0abb-43c6-a250-70888008fe19
+        title: Gang of Eight
+        slug: gang-of-eight
+      - node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+        title: Ross Coulthart
+        slug: ross-coulthart
+    date: null
+    date_end: null
+    location_in_record: 00:32:45.9-00:32:53.5
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: fd845823-8784-462c-a981-4775525b6f84
+      record_title: The DANGEROUS Truth About UFOs - Ross Coulthart | DEBRIEFED ep. 76
+      record_date: '2026-02-20'
+      record_reference: https://www.youtube.com/watch?v=idBryc0eWww
+      content_hash: sha256:73be106d406f6d35a063a894e8384e7da0918eb8597d2107a9e3653becca2bdc
+      friendly_name: null
+  - claim_id: 9db22574-6a78-4fca-b2b3-ba3e4a7508b4
+    claim_hash: 648296771054e0869b60df654a648bd146893091c34d8222e1c87f243182a3a2
+    content: Ross Coulthart used contacts from earlier stories to gain access to two members of the Gang of Eight during the
+      period before 2021.
+    original_excerpt: And I pulled rank with a few people I knew from other stories I'd done to get access to two members
+      of the Gang of Eight in that period.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+      title: Ross Coulthart
+    provenance_chain:
+      origin_kind: speaker
+      origin: Ross Coulthart
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: d0c9e76a-0abb-43c6-a250-70888008fe19
+        title: Gang of Eight
+        slug: gang-of-eight
+      - node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+        title: Ross Coulthart
+        slug: ross-coulthart
+    date: null
+    date_end: null
+    location_in_record: 00:32:54.8-00:33:05.3
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: fd845823-8784-462c-a981-4775525b6f84
+      record_title: The DANGEROUS Truth About UFOs - Ross Coulthart | DEBRIEFED ep. 76
+      record_date: '2026-02-20'
+      record_reference: https://www.youtube.com/watch?v=idBryc0eWww
+      content_hash: sha256:73be106d406f6d35a063a894e8384e7da0918eb8597d2107a9e3653becca2bdc
+      friendly_name: null
+  - claim_id: d9c9204f-0ebc-4e8a-9f48-cbab18d5fd0b
+    claim_hash: 35d40b534b748a8d1c69cecd5b3fb5cd1aafda862820943ca151eacc20e3e44d
+    content: The Gang of Eight is a group of senior politicians from both sides of politics, including the Senate Majority
+      Leader and the House Majority Leader, entrusted to review the most sensitive secrets in the oversight committees.
+    original_excerpt: the Gang of Eight, as you would know, is a group of senior politicians, the Senate Majority Leader,
+      the House Majority Leader, senior people, both sides of politics, who are entrusted to review in the oversight committees
+      the most sensitive secrets of all
+    claim_type: administrative
+    attestation: first_hand
+    speaker:
+      node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+      title: Ross Coulthart
+    provenance_chain:
+      origin_kind: speaker
+      origin: Ross Coulthart
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 4fb65b2c-296a-493d-bbc7-65e4b763c1f0
+        title: United States Congress
+        slug: united-states-congress
+      - node_id: d0c9e76a-0abb-43c6-a250-70888008fe19
+        title: Gang of Eight
+        slug: gang-of-eight
+    date: null
+    date_end: null
+    location_in_record: 00:33:06.5-00:33:24.7
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: fd845823-8784-462c-a981-4775525b6f84
+      record_title: The DANGEROUS Truth About UFOs - Ross Coulthart | DEBRIEFED ep. 76
+      record_date: '2026-02-20'
+      record_reference: https://www.youtube.com/watch?v=idBryc0eWww
+      content_hash: sha256:73be106d406f6d35a063a894e8384e7da0918eb8597d2107a9e3653becca2bdc
+      friendly_name: null
+  - claim_id: d2f95006-f745-409b-ad78-2140904b55e9
+    claim_hash: a26686011cc8ca935a3f76c55ebd9db0b4ad6e87cbd4fe05147ac476daa13de4
+    content: Waived Unacknowledged Special Access Programs and Unacknowledged Special Access Programs are generally put before
+      the Gang of Eight, so that congressional oversight nominally remains.
+    original_excerpt: They are generally put before the Gang of Eight. And it means that there's still congressional oversight.
+    claim_type: administrative
+    attestation: first_hand
+    speaker:
+      node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+      title: Ross Coulthart
+    provenance_chain:
+      origin_kind: speaker
+      origin: Ross Coulthart
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 4fb65b2c-296a-493d-bbc7-65e4b763c1f0
+        title: United States Congress
+        slug: united-states-congress
+      - node_id: 706d02f7-09d8-4d58-b064-88c79bc6a53d
+        title: Waived Unacknowledged Special Access Programs (WUSAPs)
+        slug: waived-unacknowledged-special-access-programs-wusaps
+      - node_id: d0c9e76a-0abb-43c6-a250-70888008fe19
+        title: Gang of Eight
+        slug: gang-of-eight
+    date: null
+    date_end: null
+    location_in_record: 00:34:19.2-00:34:25.2
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: fd845823-8784-462c-a981-4775525b6f84
+      record_title: The DANGEROUS Truth About UFOs - Ross Coulthart | DEBRIEFED ep. 76
+      record_date: '2026-02-20'
+      record_reference: https://www.youtube.com/watch?v=idBryc0eWww
+      content_hash: sha256:73be106d406f6d35a063a894e8384e7da0918eb8597d2107a9e3653becca2bdc
+      friendly_name: null
+  - claim_id: bb28f693-e7ba-485f-8009-7358d9ad741d
+    claim_hash: 782d41d4d89564af4d28f286f92aeedc843c48624b69c9946e135a5d5420e727
+    content: Ross Coulthart considers congressional oversight of Waived Unacknowledged Special Access Programs through the
+      Gang of Eight not to work in practice, with information still held back by the CIA and the defence community.
+    original_excerpt: And that, frankly, doesn't really work in practice. And there's still, I think, holding back of information.
+      ... By the CIA, by the defense community, because they don't trust.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+      title: Ross Coulthart
+    provenance_chain:
+      origin_kind: speaker
+      origin: Ross Coulthart
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 38b84d4a-96df-4684-bb46-f6f64f392add
+        title: Central Intelligence Agency (CIA)
+        slug: central-intelligence-agency-cia
+      - node_id: 4fb65b2c-296a-493d-bbc7-65e4b763c1f0
+        title: United States Congress
+        slug: united-states-congress
+      - node_id: 706d02f7-09d8-4d58-b064-88c79bc6a53d
+        title: Waived Unacknowledged Special Access Programs (WUSAPs)
+        slug: waived-unacknowledged-special-access-programs-wusaps
+      - node_id: d0c9e76a-0abb-43c6-a250-70888008fe19
+        title: Gang of Eight
+        slug: gang-of-eight
+      - node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+        title: Ross Coulthart
+        slug: ross-coulthart
+    date: null
+    date_end: null
+    location_in_record: 00:34:33.7-00:34:44.6
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: fd845823-8784-462c-a981-4775525b6f84
+      record_title: The DANGEROUS Truth About UFOs - Ross Coulthart | DEBRIEFED ep. 76
+      record_date: '2026-02-20'
+      record_reference: https://www.youtube.com/watch?v=idBryc0eWww
+      content_hash: sha256:73be106d406f6d35a063a894e8384e7da0918eb8597d2107a9e3653becca2bdc
+      friendly_name: null
+  - claim_id: 1d328eab-59d2-430d-984f-45a4af150576
+    claim_hash: 48ee9330b526d71640f52467e975c08433e353d6ba04814e3ef4fcaf341c7150
+    content: Ross Coulthart considers that certain but not all members of the Gang of Eight have been read into the UFO programme
+      in the period since 2021.
+    original_excerpt: And I think what's happened in the interim is certain members of the Gang of Eight, not all of them,
+      have been read in. They've been told.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+      title: Ross Coulthart
+    provenance_chain:
+      origin_kind: speaker
+      origin: Ross Coulthart
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 0bbdac2d-a855-466a-a051-2afa64a779e2
+        title: UAP crash retrieval and reverse engineering program
+        slug: uap-crash-retrieval-and-reverse-engineering-program
+      - node_id: d0c9e76a-0abb-43c6-a250-70888008fe19
+        title: Gang of Eight
+        slug: gang-of-eight
+      - node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+        title: Ross Coulthart
+        slug: ross-coulthart
+    date: null
+    date_end: null
+    location_in_record: 00:35:52.7-00:36:03.2
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: fd845823-8784-462c-a981-4775525b6f84
+      record_title: The DANGEROUS Truth About UFOs - Ross Coulthart | DEBRIEFED ep. 76
+      record_date: '2026-02-20'
+      record_reference: https://www.youtube.com/watch?v=idBryc0eWww
+      content_hash: sha256:73be106d406f6d35a063a894e8384e7da0918eb8597d2107a9e3653becca2bdc
+      friendly_name: null
+  - claim_id: c8ac0af8-7dd9-445f-8d6f-9a6f028f33d1
+    claim_hash: 234d1bded43831cfbe62bdda30f93861e17964ea2db4a77e3336bbda6ee4cdfc
+    content: Ross Coulthart knows from one of his own sources what an unnamed United States senator and member of the Gang
+      of Eight was told about the UFO programme about a year before February 2026, and considers that the senator has since
+      lied to the public about it.
+    original_excerpt: I had an incident when I was doing some research a year ago, and I know what a certain senator was told
+      by a source of mine, and I know he has lied to the public about what he's been told. And it's quite galling to me because
+      he's clearly made a decision as a member of the Gang of Eight to completely mislead.
+    claim_type: testimony
+    attestation: second_hand
+    speaker:
+      node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+      title: Ross Coulthart
+    provenance_chain:
+      origin_kind: anonymous
+      origin: a source of Ross Coulthart's who briefed an unnamed United States senator
+      relay:
+        - Ross Coulthart
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 0bbdac2d-a855-466a-a051-2afa64a779e2
+        title: UAP crash retrieval and reverse engineering program
+        slug: uap-crash-retrieval-and-reverse-engineering-program
+      - node_id: d0c9e76a-0abb-43c6-a250-70888008fe19
+        title: Gang of Eight
+        slug: gang-of-eight
+      - node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+        title: Ross Coulthart
+        slug: ross-coulthart
+    date: null
+    date_end: null
+    location_in_record: 00:38:19.4-00:38:41.5
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: fd845823-8784-462c-a981-4775525b6f84
+      record_title: The DANGEROUS Truth About UFOs - Ross Coulthart | DEBRIEFED ep. 76
+      record_date: '2026-02-20'
+      record_reference: https://www.youtube.com/watch?v=idBryc0eWww
+      content_hash: sha256:73be106d406f6d35a063a894e8384e7da0918eb8597d2107a9e3653becca2bdc
+      friendly_name: null

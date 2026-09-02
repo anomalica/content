@@ -1,0 +1,393 @@
+schema: anomalica/brief/1
+brief_hash: e78ea92cab590bf415867f230266f0b3ed8d7a817b3803b1ca0fae2b2d18e96f
+page:
+  kind: entity
+  node_id: 62ec3674-d63c-4567-833f-a0f46b9aa524
+  node_type: person
+  title: Jacques Gansler
+  slug: jacques-gansler
+  claim_count: 9
+  claim_count_total: 9
+generated:
+  graph_version: '2026-09-01T10:10:49.863545+00:00'
+size:
+  claims: 9
+  tokens_estimated: 2319
+  sized_against: 1050000
+publication:
+  status: published
+  note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
+    transcripts are gated elsewhere.
+belonging:
+  verified: 0
+  suspect_excluded: 0
+  unreviewed: 9
+related_nodes:
+  - node_id: 8161270a-248d-424a-8aaa-f76999efc02b
+    title: Thomas Wilson
+    node_type: person
+    slug: thomas-wilson
+    shared_claims: 7
+  - node_id: f522e4cc-76e6-4d35-942a-d13c0b7a57e6
+    title: Office of the Under Secretary of Defense for Acquisition, Technology and Logistics (OUSDAT)
+    node_type: organisation
+    slug: technology-and-logistics-ousdat-office-of-the-under-secretary-of-defense-for-acquisition
+    shared_claims: 1
+  - node_id: 71454f99-aad7-4fbb-9d89-688c8b7acc37
+    title: Reverse-engineering program of recovered technological hardware (unnamed SAP)
+    node_type: project
+    slug: reverse-engineering-program-of-recovered-technological-hardware-unnamed-sap
+    shared_claims: 1
+  - node_id: 4b92db24-6fcf-4867-bcbf-897b0806de8c
+    title: The Admiral Wilson Memo
+    node_type: document
+    slug: the-admiral-wilson-memo
+    shared_claims: 1
+  - node_id: 9830e672-892f-440b-a2dd-0844dfa8c1e0
+    title: Thomas Wilson's 1997-06 investigation into the special-access reverse-engineering program
+    node_type: event
+    slug: thomas-wilsons-1997-06-investigation-into-the-special-access-reverse-engineering-program
+    shared_claims: 1
+  - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
+    title: Unidentified Flying Object (UFO)
+    node_type: topic
+    slug: unidentified-flying-object-ufo
+    shared_claims: 1
+  - node_id: adec06c4-e59e-410f-a766-bd9beebe1c58
+    title: United States Pentagon
+    node_type: place
+    slug: united-states-pentagon
+    shared_claims: 1
+claims:
+  - claim_id: 8c50c795-71d8-458d-99ce-6e0f815ea690
+    claim_hash: 64eb93b77b5fb768ab325eaaaa32a2f36df586121ca8cfeb243900e3db5b962d
+    content: Jacques Gansler became the new Under Secretary of Defense for Acquisition, Technology and Logistics (USDAT),
+      starting December 1997.
+    original_excerpt: Jacques Gansler was new USDAT, started Dec. '97
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 8161270a-248d-424a-8aaa-f76999efc02b
+      title: Thomas Wilson
+    provenance_chain:
+      origin_kind: speaker
+      origin: Thomas Wilson
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 62ec3674-d63c-4567-833f-a0f46b9aa524
+        title: Jacques Gansler
+        slug: jacques-gansler
+      - node_id: 8161270a-248d-424a-8aaa-f76999efc02b
+        title: Thomas Wilson
+        slug: thomas-wilson
+      - node_id: f522e4cc-76e6-4d35-942a-d13c0b7a57e6
+        title: Office of the Under Secretary of Defense for Acquisition, Technology and Logistics (OUSDAT)
+        slug: technology-and-logistics-ousdat-office-of-the-under-secretary-of-defense-for-acquisition
+    date: 1997-12
+    date_end: null
+    location_in_record: char:22964-23009
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: ef5c864a-3a92-4358-b991-3fa2be4df4da
+      record_title: EWD Notes - Eric Davis Meeting with Adm. Wilson
+      record_date: '2002-10-16'
+      record_reference: https://www.congress.gov/117/meeting/house/114761/documents/HHRG-117-IG05-20220517-SD001.pdf
+      content_hash: sha256:88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7f46f9a9d
+      friendly_name: 2002-10-16-pdf-ewd-notes-eric-davis-meeting-with-adm-wilson
+  - claim_id: e63a7709-af98-47b4-a4e3-8a7a29220e19
+    claim_hash: b1193c76e2aef6a5bfe88e4d2fa8458445a7603e44a7ac8f11d1d915549244a7
+    content: Thomas Wilson spoke with Jacques Gansler in January 1998 about his June 1997 meetings regarding the reverse-engineering
+      program.
+    original_excerpt: Talked to Gansler in Jan '98 about my June '97 meetings.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 8161270a-248d-424a-8aaa-f76999efc02b
+      title: Thomas Wilson
+    provenance_chain:
+      origin_kind: speaker
+      origin: Thomas Wilson
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 62ec3674-d63c-4567-833f-a0f46b9aa524
+        title: Jacques Gansler
+        slug: jacques-gansler
+      - node_id: 8161270a-248d-424a-8aaa-f76999efc02b
+        title: Thomas Wilson
+        slug: thomas-wilson
+      - node_id: 9830e672-892f-440b-a2dd-0844dfa8c1e0
+        title: Thomas Wilson's 1997-06 investigation into the special-access reverse-engineering program
+        slug: thomas-wilsons-1997-06-investigation-into-the-special-access-reverse-engineering-program
+    date: 1998-01
+    date_end: null
+    location_in_record: char:23251-23298
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: ef5c864a-3a92-4358-b991-3fa2be4df4da
+      record_title: EWD Notes - Eric Davis Meeting with Adm. Wilson
+      record_date: '2002-10-16'
+      record_reference: https://www.congress.gov/117/meeting/house/114761/documents/HHRG-117-IG05-20220517-SD001.pdf
+      content_hash: sha256:88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7f46f9a9d
+      friendly_name: 2002-10-16-pdf-ewd-notes-eric-davis-meeting-with-adm-wilson
+  - claim_id: fb65f439-5319-4a0e-8ee3-4a59445fe020
+    claim_hash: a2845549b507de44f7dfa6d3f1c20d2a487d91b9798ae8106f2695d062011973
+    content: Jacques Gansler had already been briefed on the reverse-engineering program matter by someone else before speaking
+      with Thomas Wilson in January 1998, which surprised Thomas Wilson.
+    original_excerpt: He was briefed by someone! Surprised me ...
+    claim_type: observation
+    attestation: first_hand
+    speaker:
+      node_id: 8161270a-248d-424a-8aaa-f76999efc02b
+      title: Thomas Wilson
+    provenance_chain:
+      origin_kind: speaker
+      origin: Thomas Wilson
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 62ec3674-d63c-4567-833f-a0f46b9aa524
+        title: Jacques Gansler
+        slug: jacques-gansler
+      - node_id: 8161270a-248d-424a-8aaa-f76999efc02b
+        title: Thomas Wilson
+        slug: thomas-wilson
+    date: 1998-01
+    date_end: null
+    location_in_record: char:23310-23347
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: ef5c864a-3a92-4358-b991-3fa2be4df4da
+      record_title: EWD Notes - Eric Davis Meeting with Adm. Wilson
+      record_date: '2002-10-16'
+      record_reference: https://www.congress.gov/117/meeting/house/114761/documents/HHRG-117-IG05-20220517-SD001.pdf
+      content_hash: sha256:88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7f46f9a9d
+      friendly_name: 2002-10-16-pdf-ewd-notes-eric-davis-meeting-with-adm-wilson
+  - claim_id: e09649e1-8293-4f04-aad5-fd1ca66ae460
+    claim_hash: 63244cb1c771ea133da895e2511cce230f14816a9e5a30746c7491b6a883983b
+    content: Jacques Gansler told Thomas Wilson that UFOs are real.
+    original_excerpt: '"UFOs are real, so-called ''alien abductions'' not real" - Gansler said this'
+    claim_type: hearsay
+    attestation: second_hand
+    speaker:
+      node_id: 8161270a-248d-424a-8aaa-f76999efc02b
+      title: Thomas Wilson
+    provenance_chain:
+      origin_kind: named
+      origin: Jacques Gansler
+      relay:
+        - Thomas Wilson
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 62ec3674-d63c-4567-833f-a0f46b9aa524
+        title: Jacques Gansler
+        slug: jacques-gansler
+      - node_id: 8161270a-248d-424a-8aaa-f76999efc02b
+        title: Thomas Wilson
+        slug: thomas-wilson
+      - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
+        title: Unidentified Flying Object (UFO)
+        slug: unidentified-flying-object-ufo
+    date: null
+    date_end: null
+    location_in_record: char:23383-23452
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: ef5c864a-3a92-4358-b991-3fa2be4df4da
+      record_title: EWD Notes - Eric Davis Meeting with Adm. Wilson
+      record_date: '2002-10-16'
+      record_reference: https://www.congress.gov/117/meeting/house/114761/documents/HHRG-117-IG05-20220517-SD001.pdf
+      content_hash: sha256:88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7f46f9a9d
+      friendly_name: 2002-10-16-pdf-ewd-notes-eric-davis-meeting-with-adm-wilson
+  - claim_id: ff118382-8bea-49cf-b2ae-985f90ac8eaa
+    claim_hash: 17757817d3e1b628c823d3530a3ad150a49020ff613f940cac3d3a00cdb6b069
+    content: Jacques Gansler told Thomas Wilson that so-called "alien abductions" are not real.
+    original_excerpt: '"UFOs are real, so-called ''alien abductions'' not real" - Gansler said this'
+    claim_type: hearsay
+    attestation: second_hand
+    speaker:
+      node_id: 8161270a-248d-424a-8aaa-f76999efc02b
+      title: Thomas Wilson
+    provenance_chain:
+      origin_kind: named
+      origin: Jacques Gansler
+      relay:
+        - Thomas Wilson
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 62ec3674-d63c-4567-833f-a0f46b9aa524
+        title: Jacques Gansler
+        slug: jacques-gansler
+      - node_id: 8161270a-248d-424a-8aaa-f76999efc02b
+        title: Thomas Wilson
+        slug: thomas-wilson
+    date: null
+    date_end: null
+    location_in_record: char:23383-23452
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: ef5c864a-3a92-4358-b991-3fa2be4df4da
+      record_title: EWD Notes - Eric Davis Meeting with Adm. Wilson
+      record_date: '2002-10-16'
+      record_reference: https://www.congress.gov/117/meeting/house/114761/documents/HHRG-117-IG05-20220517-SD001.pdf
+      content_hash: sha256:88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7f46f9a9d
+      friendly_name: 2002-10-16-pdf-ewd-notes-eric-davis-meeting-with-adm-wilson
+  - claim_id: 022c014d-144b-43cc-aa5c-48ca693dda56
+    claim_hash: b57de6ce09d43aca930004e360bdb5b7e29a7881d5d30a4ce117fb1fc036de1f
+    content: Jacques Gansler told Thomas Wilson to drop the matter of the reverse-engineering program and have no further
+      discussion about it.
+    original_excerpt: Told to drop the matter - no more discussion about it.
+    claim_type: hearsay
+    attestation: second_hand
+    speaker:
+      node_id: 8161270a-248d-424a-8aaa-f76999efc02b
+      title: Thomas Wilson
+    provenance_chain:
+      origin_kind: named
+      origin: Jacques Gansler
+      relay:
+        - Thomas Wilson
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 62ec3674-d63c-4567-833f-a0f46b9aa524
+        title: Jacques Gansler
+        slug: jacques-gansler
+      - node_id: 71454f99-aad7-4fbb-9d89-688c8b7acc37
+        title: Reverse-engineering program of recovered technological hardware (unnamed SAP)
+        slug: reverse-engineering-program-of-recovered-technological-hardware-unnamed-sap
+      - node_id: 8161270a-248d-424a-8aaa-f76999efc02b
+        title: Thomas Wilson
+        slug: thomas-wilson
+    date: null
+    date_end: null
+    location_in_record: char:23479-23530
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: ef5c864a-3a92-4358-b991-3fa2be4df4da
+      record_title: EWD Notes - Eric Davis Meeting with Adm. Wilson
+      record_date: '2002-10-16'
+      record_reference: https://www.congress.gov/117/meeting/house/114761/documents/HHRG-117-IG05-20220517-SD001.pdf
+      content_hash: sha256:88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7f46f9a9d
+      friendly_name: 2002-10-16-pdf-ewd-notes-eric-davis-meeting-with-adm-wilson
+  - claim_id: e432db08-8382-45d4-bcb7-378bea035b61
+    claim_hash: 5c4b05d628064aaa1791e0a8a091ef4e93c2524e1a3547bee9befd5b55457ce4
+    content: The Admiral Wilson Memo (EWD Notes) claims Tom Wilson was told by Under Secretary for Defence for Acquisition,
+      Technology and Logistics Jacques Gansler that UFOs are real but so-called alien abductions are not real.
+    original_excerpt: The memo also claimed Wilson was told by the Under Secretary for Defence for Acquisition, Technology
+      and Logistics, Dr Jacques Gansler, that ‘UFOS are real, so-called “alien abductions” not real’.
+    claim_type: hearsay
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: document
+      origin: The Admiral Wilson Memo (EWD Notes)
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 4b92db24-6fcf-4867-bcbf-897b0806de8c
+        title: The Admiral Wilson Memo
+        slug: the-admiral-wilson-memo
+      - node_id: 62ec3674-d63c-4567-833f-a0f46b9aa524
+        title: Jacques Gansler
+        slug: jacques-gansler
+      - node_id: 8161270a-248d-424a-8aaa-f76999efc02b
+        title: Thomas Wilson
+        slug: thomas-wilson
+    date: null
+    date_end: null
+    location_in_record: ch26:20491-20681
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 7fef9e5f-c847-40c0-8285-c4764d66801e
+    claim_hash: 1ab4b9f66b74ea1179197198e09a814156db98ce16762d0d438012abef68f276
+    content: Jacques Gansler was the third-ranking civilian at the Pentagon from November 1997 to January 2001, responsible
+      for research and development and advanced technology.
+    original_excerpt: Dr Gansler was the third-ranking civilian at the Pentagon from November 1997 to January 2001, responsible
+      for research and development and advanced technology.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 62ec3674-d63c-4567-833f-a0f46b9aa524
+        title: Jacques Gansler
+        slug: jacques-gansler
+      - node_id: adec06c4-e59e-410f-a766-bd9beebe1c58
+        title: United States Pentagon
+        slug: united-states-pentagon
+    date: 1997-11
+    date_end: null
+    location_in_record: ch26:20688-20836
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 62df470b-c89b-4b8f-82e2-a8a5332be6d4
+    claim_hash: 1dea99aa4136b1d9445a67626fa67ae20ceda1b5f64cde8376e0a406e24ca703
+    content: Jacques Gansler died from melanoma cancer in 2018.
+    original_excerpt: He died from melanoma cancer in 2018.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 62ec3674-d63c-4567-833f-a0f46b9aa524
+        title: Jacques Gansler
+        slug: jacques-gansler
+    date: '2018'
+    date_end: null
+    location_in_record: ch26:20848-20880
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight

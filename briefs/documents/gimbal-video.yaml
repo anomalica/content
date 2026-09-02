@@ -1,0 +1,2390 @@
+schema: anomalica/brief/1
+brief_hash: eff4ff451ba968587648d399b73673329a08d816c7fa75b70c9b0f6bc8cca2d6
+page:
+  kind: entity
+  node_id: e57005b4-b10f-49a9-872f-61f00312b820
+  node_type: document
+  title: Gimbal video
+  slug: gimbal-video
+  claim_count: 61
+  claim_count_total: 61
+generated:
+  graph_version: '2026-09-01T10:10:49.863545+00:00'
+size:
+  claims: 61
+  tokens_estimated: 17733
+  sized_against: 1050000
+publication:
+  status: published
+  note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
+    transcripts are gated elsewhere.
+belonging:
+  verified: 0
+  suspect_excluded: 0
+  unreviewed: 61
+related_nodes:
+  - node_id: 1451172e-3efb-4848-939a-ed9aff0d7e2f
+    title: Go-Fast Video
+    node_type: document
+    slug: go-fast-video
+    shared_claims: 12
+  - node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+    title: Luis Elizondo
+    node_type: person
+    slug: luis-elizondo
+    shared_claims: 8
+  - node_id: a3a02857-b28d-434b-b1ad-e6c2d491e8bd
+    title: To the Stars Academy of Arts and Science (TTSA)
+    node_type: organisation
+    slug: to-the-stars-academy-of-arts-and-science-ttsa
+    shared_claims: 8
+  - node_id: 38b84d4a-96df-4684-bb46-f6f64f392add
+    title: Central Intelligence Agency (CIA)
+    node_type: organisation
+    slug: central-intelligence-agency-cia
+    shared_claims: 5
+  - node_id: 5ee4362d-c09b-44a8-a3be-8bd9c05f4c78
+    title: United States Navy (USN)
+    node_type: organisation
+    slug: united-states-navy-usn
+    shared_claims: 4
+  - node_id: 55991bcf-937b-46da-9858-2b733307190b
+    title: Tic Tac
+    node_type: object
+    slug: tic-tac
+    shared_claims: 3
+  - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
+    title: Unidentified Anomalous Phenomena (UAP)
+    node_type: topic
+    slug: unidentified-anomalous-phenomena-uap
+    shared_claims: 3
+  - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
+    title: 2004 USS Nimitz UAP encounter
+    node_type: event
+    slug: 2004-uss-nimitz-uap-encounter
+    shared_claims: 2
+  - node_id: b9bf4e86-7ab0-4cb4-b53c-8cf60140d42e
+    title: Department of Defense (DoD) Form 1910
+    node_type: document
+    slug: department-of-defense-dod-form-1910
+    shared_claims: 2
+  - node_id: 64be188f-bca4-416a-a06b-fc30fd1d7eff
+    title: Ryan Graves
+    node_type: person
+    slug: ryan-graves
+    shared_claims: 2
+  - node_id: 99f08514-5471-4eaf-bce3-46c474a8d304
+    title: United States Department of Defense (DoD)
+    node_type: organisation
+    slug: united-states-department-of-defense-dod
+    shared_claims: 2
+  - node_id: adec06c4-e59e-410f-a766-bd9beebe1c58
+    title: United States Pentagon
+    node_type: place
+    slug: united-states-pentagon
+    shared_claims: 2
+  - node_id: 27dfae91-c0b0-4a61-bf69-a941cd82eb94
+    title: '''Department of Defense (DoD) Threat Scenario'' briefing slide'
+    node_type: document
+    slug: department-of-defense-dod-threat-scenario-briefing-slide
+    shared_claims: 1
+  - node_id: 3714792a-cebe-4f13-ae2e-a779ddc45ed4
+    title: 2014-2015 US East Coast Unidentified Aerial Phenomena (UAP) encounters
+    node_type: event
+    slug: 2014-2015-us-east-coast-unidentified-aerial-phenomena-uap-encounters
+    shared_claims: 1
+  - node_id: 66f42c54-23e1-441b-ad3a-c2618cd447c4
+    title: AN/APG-79 Radar
+    node_type: object
+    slug: anapg-79-radar
+    shared_claims: 1
+  - node_id: 86002941-4b26-48e5-8629-0d332b938ca9
+    title: Apollo 11
+    node_type: project
+    slug: apollo-11
+    shared_claims: 1
+  - node_id: edcd823e-07d4-4319-b0e9-f1bdd30731dd
+    title: Apollo Lunar Module
+    node_type: object
+    slug: apollo-lunar-module
+    shared_claims: 1
+  - node_id: c09e3558-1732-4676-a218-d67d285d98ef
+    title: David Fravor
+    node_type: person
+    slug: david-fravor
+    shared_claims: 1
+  - node_id: 164b4ec2-1d96-4c98-a5e2-5a7d77568b7c
+    title: Defense Office of Prepublication and Security Review
+    node_type: organisation
+    slug: defense-office-of-prepublication-and-security-review
+    shared_claims: 1
+  - node_id: 9ab76638-a596-48f1-9a58-9c9251cc97f3
+    title: Eric Davis
+    node_type: person
+    slug: eric-davis
+    shared_claims: 1
+  - node_id: 0f04d1d3-1b90-4e39-af45-5852e313dffa
+    title: F/A-18F Super Hornet
+    node_type: object
+    slug: fa-18f-super-hornet
+    shared_claims: 1
+  - node_id: 6dcdfe60-bc2f-4be2-a041-9957a82f371e
+    title: Harold E. Puthoff
+    node_type: person
+    slug: harold-e-puthoff
+    shared_claims: 1
+  - node_id: a7973345-5e89-4f49-b7f3-a1fdad2f8b9c
+    title: Joseph Gradisher
+    node_type: person
+    slug: joseph-gradisher
+    shared_claims: 1
+  - node_id: 4ee606a3-72d8-412a-8bdc-c6077bd02a4a
+    title: National Security Agency (NSA)
+    node_type: organisation
+    slug: national-security-agency-nsa
+    shared_claims: 1
+  - node_id: 91bf8fa5-d894-4840-b3a2-8955d43c11c3
+    title: OPLAN Interloper
+    node_type: matter
+    slug: oplan-interloper
+    shared_claims: 1
+  - node_id: 41eed7f8-b54f-4c4a-8318-bed3936984b2
+    title: Raytheon
+    node_type: organisation
+    slug: raytheon
+    shared_claims: 1
+  - node_id: d3255a2f-a651-4e85-b4b6-d5507cc85588
+    title: USA, Washington, Whidbey Island
+    node_type: place
+    slug: washington-whidbey-island-usa
+    shared_claims: 1
+  - node_id: c59c3e0a-c46d-4c6e-af81-aee0d8a57be7
+    title: USS Theodore Roosevelt
+    node_type: object
+    slug: uss-theodore-roosevelt
+    shared_claims: 1
+claims:
+  - claim_id: 7235ad5e-c5da-48fa-afa0-5db40a1f5ddd
+    claim_hash: e09d706564b250de7eb5237b93e8b8cdb1a1283d2c6cef21d08001d52e89acb3
+    content: The gimbal video object shows an apparent rotation that is not possible with systems known at the time.
+    original_excerpt: the gimbal video to comment on the amazing aspect of that video is the rotation, the apparent rotation
+      of the object that is something that is not possible to do with systems that we know of
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 7eaac853-d863-4210-af67-e165485c02e9
+      title: Lex Fridman
+    provenance_chain:
+      origin_kind: speaker
+      origin: Lex Fridman
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: e57005b4-b10f-49a9-872f-61f00312b820
+        title: Gimbal video
+        slug: gimbal-video
+    date: null
+    date_end: null
+    location_in_record: 02:44:05.9-02:44:21.9
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 0157e540-a945-4b2a-acdf-6c449172dcd6
+      record_title: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering | Lex Fridman Podcast #122'
+      record_date: '2020-09-08'
+      record_reference: https://www.youtube.com/watch?v=aB8zcAttP1E
+      content_hash: sha256:135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19fd6afb8a
+      friendly_name: 2020-09-08-video-david-fravor-ufos-aliens-fighter-jets-and-aerospace.v2
+  - claim_id: f815a724-ee3f-4953-9002-b60344a25361
+    claim_hash: 718689431570c0bac2f54b3e4cd877a40a6bab210accfe7adcbdd043e06b3bc2
+    content: David Fravor personally knows the pilot who filmed both the Go Fast video and the Gimbal video.
+    original_excerpt: No, because what Mick West doesn't see is so when they take, because I've talked to the one of them
+      actually I work with, so I know him, I know I talk to him all the time.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: c09e3558-1732-4676-a218-d67d285d98ef
+      title: David Fravor
+    provenance_chain:
+      origin_kind: speaker
+      origin: David Fravor
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 1451172e-3efb-4848-939a-ed9aff0d7e2f
+        title: Go-Fast Video
+        slug: go-fast-video
+      - node_id: c09e3558-1732-4676-a218-d67d285d98ef
+        title: David Fravor
+        slug: david-fravor
+      - node_id: e57005b4-b10f-49a9-872f-61f00312b820
+        title: Gimbal video
+        slug: gimbal-video
+    date: null
+    date_end: null
+    location_in_record: 02:44:31.0-02:44:39.7
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 0157e540-a945-4b2a-acdf-6c449172dcd6
+      record_title: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering | Lex Fridman Podcast #122'
+      record_date: '2020-09-08'
+      record_reference: https://www.youtube.com/watch?v=aB8zcAttP1E
+      content_hash: sha256:135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19fd6afb8a
+      friendly_name: 2020-09-08-video-david-fravor-ufos-aliens-fighter-jets-and-aerospace.v2
+  - claim_id: b2e659c8-6e64-441a-9772-b459f70d6dea
+    claim_hash: 2f5aa7ee88f8483c8b186a44d02f5088706d7c68e6219073861e7e5fb6ebf0dd
+    content: The Go Fast video and the Gimbal video were shot by the same person.
+    original_excerpt: The go fast and the gimbal were shot by the same person, okay?
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: c09e3558-1732-4676-a218-d67d285d98ef
+      title: David Fravor
+    provenance_chain:
+      origin_kind: speaker
+      origin: David Fravor
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 1451172e-3efb-4848-939a-ed9aff0d7e2f
+        title: Go-Fast Video
+        slug: go-fast-video
+      - node_id: e57005b4-b10f-49a9-872f-61f00312b820
+        title: Gimbal video
+        slug: gimbal-video
+    date: null
+    date_end: null
+    location_in_record: 02:44:47.9-02:44:50.0
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 0157e540-a945-4b2a-acdf-6c449172dcd6
+      record_title: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering | Lex Fridman Podcast #122'
+      record_date: '2020-09-08'
+      record_reference: https://www.youtube.com/watch?v=aB8zcAttP1E
+      content_hash: sha256:135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19fd6afb8a
+      friendly_name: 2020-09-08-video-david-fravor-ufos-aliens-fighter-jets-and-aerospace.v2
+  - claim_id: bf86aeab-838c-4b05-8ec6-b2040285ab3f
+    claim_hash: d1b242885df73dee00a3d7690231c7b93046f5cb847341eea3a8013615e0a72f
+    content: The aircraft involved in filming the Gimbal video were F/A-18F Super Hornets equipped with the AN/APG-79 phased
+      array radar made by Raytheon.
+    original_excerpt: the airplanes they're flying, still Super Hornets, but they have the APG-79, which is the new phased
+      array radar that's made by Raytheon
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: c09e3558-1732-4676-a218-d67d285d98ef
+      title: David Fravor
+    provenance_chain:
+      origin_kind: speaker
+      origin: David Fravor
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 0f04d1d3-1b90-4e39-af45-5852e313dffa
+        title: F/A-18F Super Hornet
+        slug: fa-18f-super-hornet
+      - node_id: 41eed7f8-b54f-4c4a-8318-bed3936984b2
+        title: Raytheon
+        slug: raytheon
+      - node_id: 66f42c54-23e1-441b-ad3a-c2618cd447c4
+        title: AN/APG-79 Radar
+        slug: anapg-79-radar
+      - node_id: e57005b4-b10f-49a9-872f-61f00312b820
+        title: Gimbal video
+        slug: gimbal-video
+    date: null
+    date_end: null
+    location_in_record: 02:44:59.2-02:45:05.2
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 0157e540-a945-4b2a-acdf-6c449172dcd6
+      record_title: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering | Lex Fridman Podcast #122'
+      record_date: '2020-09-08'
+      record_reference: https://www.youtube.com/watch?v=aB8zcAttP1E
+      content_hash: sha256:135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19fd6afb8a
+      friendly_name: 2020-09-08-video-david-fravor-ufos-aliens-fighter-jets-and-aerospace.v2
+  - claim_id: 0cebf117-3f38-48b3-80e7-d5c23f7458ab
+    claim_hash: f4738c843a389c9b12b33b692368dcf966848d012f38abb56a6cf5721dbbb697
+    content: Pilots initially thought the radar contacts associated with the Gimbal video were ghost tracks before confirming
+      a heat signature with a targeting pod.
+    original_excerpt: So at first they thought they were ghost tracks when they started seeing stuff, and then they actually
+      threw one of the targeting pods out there.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: c09e3558-1732-4676-a218-d67d285d98ef
+      title: David Fravor
+    provenance_chain:
+      origin_kind: speaker
+      origin: David Fravor
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: e57005b4-b10f-49a9-872f-61f00312b820
+        title: Gimbal video
+        slug: gimbal-video
+    date: null
+    date_end: null
+    location_in_record: 02:45:11.4-02:45:15.8
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 0157e540-a945-4b2a-acdf-6c449172dcd6
+      record_title: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering | Lex Fridman Podcast #122'
+      record_date: '2020-09-08'
+      record_reference: https://www.youtube.com/watch?v=aB8zcAttP1E
+      content_hash: sha256:135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19fd6afb8a
+      friendly_name: 2020-09-08-video-david-fravor-ufos-aliens-fighter-jets-and-aerospace.v2
+  - claim_id: 7ecd502c-e96c-4321-add1-fe566f4dec7b
+    claim_hash: 2c080ca7ea76c42798e010158081821248841fb9c2e001127ff3e93f8bbe2dd0
+    content: The object filmed in the Gimbal video rotates in place while appearing to move against the wind, without changing
+      aspect the way a turning airplane would.
+    original_excerpt: This thing doesn't change aspect, it just rotates. It's just rotating.
+    claim_type: observation
+    attestation: first_hand
+    speaker:
+      node_id: c09e3558-1732-4676-a218-d67d285d98ef
+      title: David Fravor
+    provenance_chain:
+      origin_kind: speaker
+      origin: David Fravor
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: e57005b4-b10f-49a9-872f-61f00312b820
+        title: Gimbal video
+        slug: gimbal-video
+    date: null
+    date_end: null
+    location_in_record: 02:45:37.4-02:45:39.2
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 0157e540-a945-4b2a-acdf-6c449172dcd6
+      record_title: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering | Lex Fridman Podcast #122'
+      record_date: '2020-09-08'
+      record_reference: https://www.youtube.com/watch?v=aB8zcAttP1E
+      content_hash: sha256:135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19fd6afb8a
+      friendly_name: 2020-09-08-video-david-fravor-ufos-aliens-fighter-jets-and-aerospace.v2
+  - claim_id: 1b1e53d9-cd8e-4aba-82fc-82dd2642832d
+    claim_hash: 12bb4db9e9892bfcb20e057f6a537f8e4c9a20b413fd34ecf5d94193880e6f71
+    content: During the encounter recorded in the Gimbal video, five other objects were seen flying in a V formation in front
+      of the tracked object and turned on their radar and flew away while being filmed.
+    original_excerpt: There's five other, I think it's five, they're kind of in a V, you know, like a geese would fly that
+      are out in front of it and they're actually coming, they're out in front of it and they actually turn on the radar and
+      go the other way while they're filming the gimbal video.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: c09e3558-1732-4676-a218-d67d285d98ef
+      title: David Fravor
+    provenance_chain:
+      origin_kind: speaker
+      origin: David Fravor
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: e57005b4-b10f-49a9-872f-61f00312b820
+        title: Gimbal video
+        slug: gimbal-video
+    date: null
+    date_end: null
+    location_in_record: 02:45:56.3-02:46:07.9
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 0157e540-a945-4b2a-acdf-6c449172dcd6
+      record_title: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering | Lex Fridman Podcast #122'
+      record_date: '2020-09-08'
+      record_reference: https://www.youtube.com/watch?v=aB8zcAttP1E
+      content_hash: sha256:135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19fd6afb8a
+      friendly_name: 2020-09-08-video-david-fravor-ufos-aliens-fighter-jets-and-aerospace.v2
+  - claim_id: 82e0ea9f-a24a-40d2-bdb8-79dec45ee3ad
+    claim_hash: e296ee1596e043094d1f3aea0ad98567b0e631c30b08a639ecd63bec20404b91
+    content: At least 60 people saw the unidentified objects associated with the Gimbal and Go Fast videos on radar off the
+      coast near Whidbey Island.
+    original_excerpt: there's at least 60 people that have seen these things on radar off the vacates
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: c09e3558-1732-4676-a218-d67d285d98ef
+      title: David Fravor
+    provenance_chain:
+      origin_kind: speaker
+      origin: David Fravor
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 1451172e-3efb-4848-939a-ed9aff0d7e2f
+        title: Go-Fast Video
+        slug: go-fast-video
+      - node_id: d3255a2f-a651-4e85-b4b6-d5507cc85588
+        title: USA, Washington, Whidbey Island
+        slug: washington-whidbey-island-usa
+      - node_id: e57005b4-b10f-49a9-872f-61f00312b820
+        title: Gimbal video
+        slug: gimbal-video
+    date: null
+    date_end: null
+    location_in_record: 02:46:24.1-02:46:28.2
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 0157e540-a945-4b2a-acdf-6c449172dcd6
+      record_title: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering | Lex Fridman Podcast #122'
+      record_date: '2020-09-08'
+      record_reference: https://www.youtube.com/watch?v=aB8zcAttP1E
+      content_hash: sha256:135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19fd6afb8a
+      friendly_name: 2020-09-08-video-david-fravor-ufos-aliens-fighter-jets-and-aerospace.v2
+  - claim_id: 9b520d9b-7aea-4521-90ec-94cab1ddea8c
+    claim_hash: 54c612c7a3eae68dc1853401534cef0a8d2ecda562832cf474d6f99e3d198498
+    content: The FLIR1 video was posted on the To The Stars Academy of Arts & Sciences website along with another undated
+      34-second video known as the Gimbal video.
+    original_excerpt: That FLIR1/Tic Tac film was posted on the TTSA site along with another undated 34-second video known
+      as the 'Gimbal'.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: narration
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: a3a02857-b28d-434b-b1ad-e6c2d491e8bd
+        title: To the Stars Academy of Arts and Science (TTSA)
+        slug: to-the-stars-academy-of-arts-and-science-ttsa
+      - node_id: e57005b4-b10f-49a9-872f-61f00312b820
+        title: Gimbal video
+        slug: gimbal-video
+    date: null
+    date_end: null
+    location_in_record: ch21:21287-21396
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: b52f2de3-0056-4129-afa6-939e3e4266af
+    claim_hash: bd6f211a4b5bac4835eaec389859b9f2e7f3dcc9becec4e6e0b52c686bb56193
+    content: The Gimbal video shows a UAP appearing to swivel on its axis in flight, manoeuvring in ways that defied known
+      conventional aircraft capabilities.
+    original_excerpt: The Gimbal video shows a UAP appearing to swivel on its axis in flight, manoeuvring in ways that defied
+      known conventional aircraft capabilities.
+    claim_type: observation
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: narration
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
+        title: Unidentified Anomalous Phenomena (UAP)
+        slug: unidentified-anomalous-phenomena-uap
+      - node_id: e57005b4-b10f-49a9-872f-61f00312b820
+        title: Gimbal video
+        slug: gimbal-video
+    date: null
+    date_end: null
+    location_in_record: ch21:21407-21539
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 654aecd1-8111-4a4b-9f18-730a5dc3ba45
+    claim_hash: 75b3bab326816cb5e54ebf4517bff94750d4ab4e8025d70814582e5ac9cd4da8
+    content: To The Stars Academy of Arts & Sciences initially revealed very little about the Gimbal object other than that
+      it was seen and videoed by US Navy fighter pilots at an unspecified location.
+    original_excerpt: TTSA initially revealed very little about the Gimbal object other than that it was seen and videoed
+      by US Navy fighter pilots at an unspecified location
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: narration
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 5ee4362d-c09b-44a8-a3be-8bd9c05f4c78
+        title: United States Navy (USN)
+        slug: united-states-navy-usn
+      - node_id: a3a02857-b28d-434b-b1ad-e6c2d491e8bd
+        title: To the Stars Academy of Arts and Science (TTSA)
+        slug: to-the-stars-academy-of-arts-and-science-ttsa
+      - node_id: e57005b4-b10f-49a9-872f-61f00312b820
+        title: Gimbal video
+        slug: gimbal-video
+    date: null
+    date_end: null
+    location_in_record: ch21:21553-21724
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: c00cd3b9-fa38-424b-a0a3-754ff9854383
+    claim_hash: 75717d934c5317d8a88bb4bf0b46a9f80b22e23edb212d90d4d37fae0e044f47
+    content: The Gimbal video was almost certainly filmed sometime in late 2014 or early 2015 off the east coast of the United
+      States.
+    original_excerpt: it would later emerge that the Gimbal was almost certainly videoed sometime in late 2014 or early 2015
+      off the east coast of the US
+    claim_type: observation
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: narration
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 3714792a-cebe-4f13-ae2e-a779ddc45ed4
+        title: 2014-2015 US East Coast Unidentified Aerial Phenomena (UAP) encounters
+        slug: 2014-2015-us-east-coast-unidentified-aerial-phenomena-uap-encounters
+      - node_id: e57005b4-b10f-49a9-872f-61f00312b820
+        title: Gimbal video
+        slug: gimbal-video
+    date: null
+    date_end: null
+    location_in_record: ch21:21734-21863
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 219f9ae8-2444-476e-92d8-303b5f51f594
+    claim_hash: d8a82c28e00375ef2e6f948f3a9b9a66feb34c0ac936b27299555fa5fd9c6fe9
+    content: The To The Stars Academy of Arts & Sciences website stated that the Gimbal object had low-observability on both
+      video and radar.
+    original_excerpt: The TTSA website said the Gimbal had 'low-observability' on both video and radar
+    claim_type: testimony
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: named
+      origin: To The Stars Academy of Arts & Sciences (TTSA)
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: a3a02857-b28d-434b-b1ad-e6c2d491e8bd
+        title: To the Stars Academy of Arts and Science (TTSA)
+        slug: to-the-stars-academy-of-arts-and-science-ttsa
+      - node_id: e57005b4-b10f-49a9-872f-61f00312b820
+        title: Gimbal video
+        slug: gimbal-video
+    date: null
+    date_end: null
+    location_in_record: ch21:21868-21943
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 0894c1dd-d2d7-43aa-ad40-e9ba00f515bd
+    claim_hash: 308fef1269ff018b31c60d666c996410941ddf51fda0ba87a7f188c4221447ec
+    content: The Gimbal object had no distinguishable flight surfaces.
+    original_excerpt: it also had no distinguishable flight surfaces, no 'obvious propulsion system', 'never-before-seen flight
+      capabilities'
+    claim_type: testimony
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: named
+      origin: To The Stars Academy of Arts & Sciences (TTSA)
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: a3a02857-b28d-434b-b1ad-e6c2d491e8bd
+        title: To the Stars Academy of Arts and Science (TTSA)
+        slug: to-the-stars-academy-of-arts-and-science-ttsa
+      - node_id: e57005b4-b10f-49a9-872f-61f00312b820
+        title: Gimbal video
+        slug: gimbal-video
+    date: null
+    date_end: null
+    location_in_record: ch21:21950-22056
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 85b1ea24-960c-475f-aab1-de65883a4426
+    claim_hash: 4709f85a1b590a7a44daa573204ac147431b3c862ab23a5bcd4c1d2003e928af
+    content: The Gimbal object had no obvious propulsion system.
+    original_excerpt: no 'obvious propulsion system'
+    claim_type: testimony
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: named
+      origin: To The Stars Academy of Arts & Sciences (TTSA)
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: a3a02857-b28d-434b-b1ad-e6c2d491e8bd
+        title: To the Stars Academy of Arts and Science (TTSA)
+        slug: to-the-stars-academy-of-arts-and-science-ttsa
+      - node_id: e57005b4-b10f-49a9-872f-61f00312b820
+        title: Gimbal video
+        slug: gimbal-video
+    date: null
+    date_end: null
+    location_in_record: ch21:21998-22021
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: cee21df8-0645-4916-8354-60ea159ac53f
+    claim_hash: 5a2fde06732d7e2dafeabe517ea2108525e29ce1c76dceba3b82ea0bba903005
+    content: The Gimbal object exhibited never-before-seen flight capabilities.
+    original_excerpt: '''never-before-seen flight capabilities'''
+    claim_type: testimony
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: named
+      origin: To The Stars Academy of Arts & Sciences (TTSA)
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: a3a02857-b28d-434b-b1ad-e6c2d491e8bd
+        title: To the Stars Academy of Arts and Science (TTSA)
+        slug: to-the-stars-academy-of-arts-and-science-ttsa
+      - node_id: e57005b4-b10f-49a9-872f-61f00312b820
+        title: Gimbal video
+        slug: gimbal-video
+    date: null
+    date_end: null
+    location_in_record: ch21:22031-22056
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 8723e6e1-6842-496d-b1da-5345512fffe1
+    claim_hash: 7b442e3a6f0194d807f561af039eb49f01493449db575a87c77c4ea33089615c
+    content: To The Stars Academy of Arts & Sciences speculated that a strange shimmer on the Gimbal object's surface suggested
+      a possible energy or resonance field of unknown nature.
+    original_excerpt: because of a strange shimmer on its surface, they speculated that it had a 'possible energy or resonance
+      field of unknown nature'
+    claim_type: opinion
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: named
+      origin: To The Stars Academy of Arts & Sciences (TTSA)
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: a3a02857-b28d-434b-b1ad-e6c2d491e8bd
+        title: To the Stars Academy of Arts and Science (TTSA)
+        slug: to-the-stars-academy-of-arts-and-science-ttsa
+      - node_id: e57005b4-b10f-49a9-872f-61f00312b820
+        title: Gimbal video
+        slug: gimbal-video
+    date: null
+    date_end: null
+    location_in_record: ch21:22075-22197
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 4a20ff99-3e29-469e-b19b-05773e1ebf53
+    claim_hash: 643f2794c6b9251fcf502d5e5c59c5d84b129d3667f2606c6288385a15e3baa5
+    content: Joseph Gradisher said the US Navy has not publicly released characterisations or descriptions, nor released any
+      hypothesis or conclusions, regarding the objects contained in the Tic Tac, Go-Fast and Gimbal videos.
+    original_excerpt: ‘The Navy has not publicly released characterizations or descriptions, nor released any hypothesis or
+      conclusions, in regard to the objects contained in the referenced videos.’
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: a7973345-5e89-4f49-b7f3-a1fdad2f8b9c
+      title: Joseph Gradisher
+    provenance_chain:
+      origin_kind: speaker
+      origin: Joseph Gradisher
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 1451172e-3efb-4848-939a-ed9aff0d7e2f
+        title: Go-Fast Video
+        slug: go-fast-video
+      - node_id: 5ee4362d-c09b-44a8-a3be-8bd9c05f4c78
+        title: United States Navy (USN)
+        slug: united-states-navy-usn
+      - node_id: a7973345-5e89-4f49-b7f3-a1fdad2f8b9c
+        title: Joseph Gradisher
+        slug: joseph-gradisher
+      - node_id: e57005b4-b10f-49a9-872f-61f00312b820
+        title: Gimbal video
+        slug: gimbal-video
+    date: null
+    date_end: null
+    location_in_record: ch22:10667-10834
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: d1443675-36be-4986-a5da-ddaf0257bbea
+    claim_hash: 04df12ba202cc3460e5e9aeac267a729fcecc396341f3b0189f984b13205c642
+    content: Ryan Graves saw a cluster of smaller craft flying in an inverted V-shape in front of the larger object shown
+      in the Gimbal video, on the longer version of the video he viewed aboard the USS Theodore Roosevelt.
+    original_excerpt: What he saw on the onboard video was a cluster of smaller craft flying in an inverted V-shape in front
+      of the larger Gimbal object.
+    claim_type: observation
+    attestation: first_hand
+    speaker:
+      node_id: 64be188f-bca4-416a-a06b-fc30fd1d7eff
+      title: Ryan Graves
+    provenance_chain:
+      origin_kind: speaker
+      origin: Ryan Graves
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 64be188f-bca4-416a-a06b-fc30fd1d7eff
+        title: Ryan Graves
+        slug: ryan-graves
+      - node_id: c59c3e0a-c46d-4c6e-af81-aee0d8a57be7
+        title: USS Theodore Roosevelt
+        slug: uss-theodore-roosevelt
+      - node_id: e57005b4-b10f-49a9-872f-61f00312b820
+        title: Gimbal video
+        slug: gimbal-video
+    date: null
+    date_end: null
+    location_in_record: ch22:4760-4884
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: b4102fb1-8f43-4a94-a2b6-d13b56a501ed
+    claim_hash: 6797e041ec64ce6e39d103f90dad938a10c15d64d21624418693fa08b96cd3a1
+    content: The section of the Gimbal video publicly released by the Pentagon only showed the Gimbal object by itself, with
+      the other objects Ryan Graves described out of the picture.
+    original_excerpt: The section of video publicly released by the Pentagon only showed the Gimbal by itself; the other objects
+      were out of the picture.
+    claim_type: observation
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: adec06c4-e59e-410f-a766-bd9beebe1c58
+        title: United States Pentagon
+        slug: united-states-pentagon
+      - node_id: e57005b4-b10f-49a9-872f-61f00312b820
+        title: Gimbal video
+        slug: gimbal-video
+    date: null
+    date_end: null
+    location_in_record: ch22:4892-5015
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: f2d9736e-0005-4450-ba3a-2c406d8ddea2
+    claim_hash: b39b4555369f81ba2f05336c5f7d00a84acc5d7bd71a7d36c6d9edd58e2bbe52
+    content: In the Gimbal video, the object was stationary and then apparently rotated through a 90-degree angle while hovering,
+      a manoeuvre impossible for any known conventionally powered craft.
+    original_excerpt: At one point, the Gimbal was stationary and then it apparently rotated through a 90-degree angle in
+      the hover, a manoeuvre that is impossible for any known conventionally powered craft.
+    claim_type: observation
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: e57005b4-b10f-49a9-872f-61f00312b820
+        title: Gimbal video
+        slug: gimbal-video
+    date: null
+    date_end: null
+    location_in_record: ch22:5024-5203
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: ed0e46f5-5dfb-4910-ac20-86be0553fda3
+    claim_hash: 6aa8f866f2daf1ec74e83a1e374df5324df67955d21cf53e935c6fd6cda4dcc1
+    content: Ryan Graves said of the Gimbal object's 90-degree hover rotation, 'It's just basic airplane physics.'
+    original_excerpt: ‘It’s just basic airplane physics,’ Graves explained.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 64be188f-bca4-416a-a06b-fc30fd1d7eff
+      title: Ryan Graves
+    provenance_chain:
+      origin_kind: speaker
+      origin: Ryan Graves
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 64be188f-bca4-416a-a06b-fc30fd1d7eff
+        title: Ryan Graves
+        slug: ryan-graves
+      - node_id: e57005b4-b10f-49a9-872f-61f00312b820
+        title: Gimbal video
+        slug: gimbal-video
+    date: null
+    date_end: null
+    location_in_record: ch22:5211-5253
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: c9ab546e-672d-4274-ba57-c2e1c233b980
+    claim_hash: e4d8605c6a134bd1485d0849de7b2eb5b13fc3c76c1b9e799968e7b17e7de36b
+    content: Like the object in the 2004 USS Nimitz Tic Tac encounter, the object in the Gimbal video had no visible flight
+      surfaces, no visible propulsion, and no heat signature.
+    original_excerpt: Just like the 2004 Tic Tac, the Gimbal had no visible flight surfaces, no visible propulsion, and no
+      heat signature.
+    claim_type: observation
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
+        title: 2004 USS Nimitz UAP encounter
+        slug: 2004-uss-nimitz-uap-encounter
+      - node_id: e57005b4-b10f-49a9-872f-61f00312b820
+        title: Gimbal video
+        slug: gimbal-video
+    date: null
+    date_end: null
+    location_in_record: ch22:5565-5671
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: a7190c38-f0ae-4057-94e0-91fe9011e0d9
+    claim_hash: fa3c8cc2f3dce96810c35c76904b87423eb0e270fe79480c32a931a7c50181ec
+    content: The Gimbal object stayed stationary in one spot despite approximately 220 kilometres per hour of wind against
+      it, then suddenly accelerated to speeds well above supersonic.
+    original_excerpt: It stayed stationary in one spot, even though there were 120 knots of wind against it, then it suddenly
+      accelerated well above supersonic speeds.
+    claim_type: measurement
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: e57005b4-b10f-49a9-872f-61f00312b820
+        title: Gimbal video
+        slug: gimbal-video
+    date: null
+    date_end: null
+    location_in_record: ch22:5682-5820
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 616ad299-5b1d-4c0f-bbb4-f2a311d86ef3
+    claim_hash: 7beb4d9a40a37dde6173ba827f3aa9f9ec0be2fa9e576a91def5d8585bcd6c28
+    content: The cluster of objects associated with the Gimbal video stayed aloft for hours, far beyond the fuel duration
+      of any known conventional craft.
+    original_excerpt: Even stranger, the cluster of objects it was part of stayed aloft for hours, far beyond the fuel duration
+      of any known conventional craft.
+    claim_type: observation
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: e57005b4-b10f-49a9-872f-61f00312b820
+        title: Gimbal video
+        slug: gimbal-video
+    date: null
+    date_end: null
+    location_in_record: ch22:5828-5960
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 522adbe2-3516-4be1-be29-64c20947bf85
+    claim_hash: 8e9c9d1092a7d4780598f36c48b5d4d058b6fc5425ca8b2b81e1770174b31e1a
+    content: There is no publicly documented evidence proving the alleged advanced capabilities described in the Department
+      of Defense briefing slide, aside from what has been revealed from the data of the Tic Tac, Gimbal and Go-Fast encounters.
+    original_excerpt: It should be emphasised that there is not a shred of evidence on the public record to show that any
+      of these capabilities have been proven, other than what has been revealed publicly and privately by the data from the
+      Tic Tac, Gimbal and Go Fast encounters.
+    claim_type: opinion
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 1451172e-3efb-4848-939a-ed9aff0d7e2f
+        title: Go-Fast Video
+        slug: go-fast-video
+      - node_id: 27dfae91-c0b0-4a61-bf69-a941cd82eb94
+        title: '''Department of Defense (DoD) Threat Scenario'' briefing slide'
+        slug: department-of-defense-dod-threat-scenario-briefing-slide
+      - node_id: e57005b4-b10f-49a9-872f-61f00312b820
+        title: Gimbal video
+        slug: gimbal-video
+    date: null
+    date_end: null
+    location_in_record: ch25:21027-21273
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 2c52c9e5-eba0-4486-a38a-7d556fa96cf9
+    claim_hash: ff62162e1d817b82095ce659a37d4bc3bb94d9555bb3bfcca430c16a394d240b
+    content: The United States Navy has admitted it cannot prosaically explain the Tic Tac craft (2004 Nimitz encounter),
+      Gimbal video, or Go-Fast video footage taken by its carrier battlegroup fighter pilots.
+    original_excerpt: it might explain why the US Navy recently admitted that it cannot prosaically explain the Tic-Tac, Gimbal
+      or Go-Fast videos taken by its carrier battlegroup fighter pilots.
+    claim_type: administrative
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: named
+      origin: United States Navy
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 1451172e-3efb-4848-939a-ed9aff0d7e2f
+        title: Go-Fast Video
+        slug: go-fast-video
+      - node_id: 5ee4362d-c09b-44a8-a3be-8bd9c05f4c78
+        title: United States Navy (USN)
+        slug: united-states-navy-usn
+      - node_id: e57005b4-b10f-49a9-872f-61f00312b820
+        title: Gimbal video
+        slug: gimbal-video
+    date: null
+    date_end: null
+    location_in_record: ch27:25269-25434
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: e1e39783-195d-4cd0-b5a4-1d2b454f8ab8
+    claim_hash: 181e15574dc593523f8708396b4060e25e7d882e406d33ccb1f370a6c9b7f8af
+    content: Whatever is propelling the Tic Tac craft, the Go-Fast object and the Gimbal object filmed by US Navy pilots is,
+      in Eric Davis's assessment, off-world vehicles not made on Earth.
+    original_excerpt: Dr Davis leaves no room for doubt when he says whatever is propelling the Tic Tac, Go Fast and Gimbal
+      UAPs is 'off-world vehicles not made on this earth'
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 9ab76638-a596-48f1-9a58-9c9251cc97f3
+      title: Eric Davis
+    provenance_chain:
+      origin_kind: speaker
+      origin: Eric Davis
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 1451172e-3efb-4848-939a-ed9aff0d7e2f
+        title: Go-Fast Video
+        slug: go-fast-video
+      - node_id: 9ab76638-a596-48f1-9a58-9c9251cc97f3
+        title: Eric Davis
+        slug: eric-davis
+      - node_id: e57005b4-b10f-49a9-872f-61f00312b820
+        title: Gimbal video
+        slug: gimbal-video
+    date: null
+    date_end: null
+    location_in_record: ch28:27597-27744
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 581aa91e-36a3-41b0-b851-79582a541961
+    claim_hash: 9c08d2c05f9d2eb02f568854fc342ab5f9fb9c5c2109956c81f46b8fafe6396c
+    content: On 2017-12-13, the US Department of Defense released the Gimbal video, described as authenticated UAP footage,
+      via the To The Stars Academy vault website.
+    original_excerpt: 'US Dept of Defence, ''Gimbal: Authenticated UAP Video'', 13 December 2017, TheVaulttothestarsacademy.com.'
+    claim_type: administrative
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: named
+      origin: United States Department of Defense
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 99f08514-5471-4eaf-bce3-46c474a8d304
+        title: United States Department of Defense (DoD)
+        slug: united-states-department-of-defense-dod
+      - node_id: a3a02857-b28d-434b-b1ad-e6c2d491e8bd
+        title: To the Stars Academy of Arts and Science (TTSA)
+        slug: to-the-stars-academy-of-arts-and-science-ttsa
+      - node_id: e57005b4-b10f-49a9-872f-61f00312b820
+        title: Gimbal video
+        slug: gimbal-video
+    date: '2017-12-13'
+    date_end: null
+    location_in_record: ch34:44333-44432
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 3ca15ddf-b83e-452c-b27f-d3a90f5cdfde
+    claim_hash: 0eb9b6db0e2445c60535f25f016b081b42bf0d88c84d6256ca9820787dc67d20
+    content: The Pentagon says the Gimbal video is real and, officially, unexplained.
+    original_excerpt: The Pentagon says the video is real and, officially, unexplained.
+    claim_type: administrative
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: named
+      origin: United States Pentagon
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: adec06c4-e59e-410f-a766-bd9beebe1c58
+        title: United States Pentagon
+        slug: united-states-pentagon
+      - node_id: e57005b4-b10f-49a9-872f-61f00312b820
+        title: Gimbal video
+        slug: gimbal-video
+    date: null
+    date_end: null
+    location_in_record: ch37:8537-8590
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 68eeea8f-e9fe-4595-a966-6141dc6fac9a
+    claim_hash: 2c753934b97fd93b38a2fed553dd21e39ced0270127a59d88fd25ff893618d5d
+    content: Luis Elizondo drew a comparison between the manoeuvring of the object in the GIMBAL video and the docking manoeuvres
+      of the Apollo Lunar Module approaching the lunar orbiter.
+    original_excerpt: The GIMBAL maneuvered in a way that reminded me of the old Apollo 11 lunar module... If you compare
+      that maneuver to the way in which the object in the GIMBAL video rotates, you will see an uncanny resemblance.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+      title: Luis Elizondo
+    provenance_chain:
+      origin_kind: speaker
+      origin: Lue Elizondo
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 86002941-4b26-48e5-8629-0d332b938ca9
+        title: Apollo 11
+        slug: apollo-11
+      - node_id: e57005b4-b10f-49a9-872f-61f00312b820
+        title: Gimbal video
+        slug: gimbal-video
+      - node_id: edcd823e-07d4-4319-b0e9-f1bdd30731dd
+        title: Apollo Lunar Module
+        slug: apollo-lunar-module
+    date: null
+    date_end: null
+    location_in_record: 00:00:13.0-00:00:15.0
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  - claim_id: 794e8fb6-2db5-4734-bf98-b7806a1e9dfa
+    claim_hash: 8ba2a85bf8e1a5d39d662551345e6562477f1fbb02d6759d3d529d0b17daf0d4
+    content: The GIMBAL video became world-famous years after being filmed, and is noted for the filmed object's unusual flight
+      behaviour.
+    original_excerpt: The second film would become world-famous years later by the name GIMBAL. It was slightly more intriguing
+      because of the object’s unusual flight behavior.
+    claim_type: administrative
+    attestation: first_hand
+    speaker:
+      node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+      title: Luis Elizondo
+    provenance_chain:
+      origin_kind: speaker
+      origin: Lue Elizondo
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: e57005b4-b10f-49a9-872f-61f00312b820
+        title: Gimbal video
+        slug: gimbal-video
+    date: null
+    date_end: null
+    location_in_record: ch23:16729-16874
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  - claim_id: 58420205-09a3-40eb-b322-ecf759d79a2b
+    claim_hash: 4a24a9100582ef57c6a884b229caba5b0168eb34fdbd23a5ba6bf5dd7dd1de12
+    content: When the GIMBAL video was shot, the pilots had just encountered a fleet of five UAP in their airspace and locked
+      their camera onto one of the objects, which flew from right to left of the screen.
+    original_excerpt: When the film was shot, the pilots had just encountered a fleet of five UAP in their airspace. They
+      managed to lock the camera on just one of these objects and watched as it flew from right to left of the screen.
+    claim_type: observation
+    attestation: second_hand
+    speaker:
+      node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+      title: Luis Elizondo
+    provenance_chain:
+      origin_kind: anonymous
+      origin: a person claiming to be a pilot who filmed the GIMBAL video
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
+        title: Unidentified Anomalous Phenomena (UAP)
+        slug: unidentified-anomalous-phenomena-uap
+      - node_id: e57005b4-b10f-49a9-872f-61f00312b820
+        title: Gimbal video
+        slug: gimbal-video
+    date: null
+    date_end: null
+    location_in_record: ch23:16884-17089
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  - claim_id: fc8fd206-b54c-41b6-adf9-cd775b2500b2
+    claim_hash: 7bc01fd4011675c3dfb886b6031e9f77682705c9fe74ad2ecd0690e425e57a36
+    content: In the GIMBAL video, the object appears elongated and white, which in the infrared camera mode indicates the
+      object was cold, with no heat emanating from it.
+    original_excerpt: In the video, the object looks elongated and white. But that color is somewhat misleading. Since the
+      camera is in infrared mode, white merely indicates that the object is 'cold'—no heat emanating from the aircraft at
+      all.
+    claim_type: observation
+    attestation: first_hand
+    speaker:
+      node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+      title: Luis Elizondo
+    provenance_chain:
+      origin_kind: speaker
+      origin: Lue Elizondo
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: e57005b4-b10f-49a9-872f-61f00312b820
+        title: Gimbal video
+        slug: gimbal-video
+    date: null
+    date_end: null
+    location_in_record: ch23:17098-17315
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  - claim_id: c85656b0-506a-43b8-bc14-5e5249f6a7c4
+    claim_hash: 25b2d501931ff9fd5a40dc720f736a1c072013c1837216d1a1dfc4382214715e
+    content: In the GIMBAL video recording, pilots and observers noted the object was part of a whole fleet visible on radar
+      and stated it was not a drone because it was flying against a wind blowing at approximately 220 kilometres per hour
+      out of the west.
+    original_excerpt: '"It’s a f—in’ drone, bro," someone says. "Look, there’s a whole fleet of them! Look on the [radar]."
+      ... "It’s damn sure not a drone," someone else responds. "They’re all going against the wind! The wind is 120 knots
+      out of the west."'
+    claim_type: observation
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: anonymous
+      origin: a person claiming to be a pilot or crew member who filmed the GIMBAL video
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: e57005b4-b10f-49a9-872f-61f00312b820
+        title: Gimbal video
+        slug: gimbal-video
+    date: null
+    date_end: null
+    location_in_record: ch23:17464-17729
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  - claim_id: 8a49dd88-16d6-4784-a33c-f5a85553691c
+    claim_hash: e1617f611652e0a6cb3306fd4a52c99971cc3a208264e9a593b75c9d0e384dd0
+    content: When the pilots recording the GIMBAL video switched camera modes, the object appeared with a lenticular shape
+      with a bulge on its top and bottom, and was rendered black, indicating it was cold with no heat signature.
+    original_excerpt: Staring them in the face is what looks like a stereotypical flying saucer out of some 1950s-era movie.
+      The object is lenticular, with a bulge on its top and bottom. The object is now black, which in this camera mode also
+      indicates that the object is 'cold'—no heat signature.
+    claim_type: observation
+    attestation: first_hand
+    speaker:
+      node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+      title: Luis Elizondo
+    provenance_chain:
+      origin_kind: speaker
+      origin: Lue Elizondo
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: e57005b4-b10f-49a9-872f-61f00312b820
+        title: Gimbal video
+        slug: gimbal-video
+    date: null
+    date_end: null
+    location_in_record: ch23:17933-18198
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  - claim_id: c55948d1-aec7-4610-893a-22096c8d1589
+    claim_hash: ce66042df7f7d7eb7a1e6a6efcddd1dc103cf007254057cb06e21825ecd0a9c5
+    content: In the GIMBAL video, the object slowed, parked itself in the air, and shifted so that the bulge on top swung
+      from left to right and the bulge on the bottom faced into the wind, at one point flying perpendicular to the wind without
+      bending or tilting.
+    original_excerpt: Then the UAP slows, parks itself in the air, and begins to shift. The bulge on top swings from left
+      to right, and now the bulge on its bottom faces the wind. At one point the object flies perpendicular to the oncoming
+      wind, yet it doesn’t bend or tilt from the resistance.
+    claim_type: observation
+    attestation: first_hand
+    speaker:
+      node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+      title: Luis Elizondo
+    provenance_chain:
+      origin_kind: speaker
+      origin: Lue Elizondo
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: e57005b4-b10f-49a9-872f-61f00312b820
+        title: Gimbal video
+        slug: gimbal-video
+    date: null
+    date_end: null
+    location_in_record: ch23:18326-18587
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  - claim_id: 2baef86e-3648-433b-9ec3-3902f217f457
+    claim_hash: b75749ae185b5a32465359540d0dc2df237123e2178fa7bf3d4012b7004f367c
+    content: At 120 knots, the wind speed clocked by the pilots recording the GIMBAL video is equivalent to approximately
+      220 kilometres per hour.
+    original_excerpt: At 120 knots, the wind speed the pilots clocked is equivalent to 138-mile-per-hour winds.
+    claim_type: measurement
+    attestation: first_hand
+    speaker:
+      node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+      title: Luis Elizondo
+    provenance_chain:
+      origin_kind: speaker
+      origin: Lue Elizondo
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: e57005b4-b10f-49a9-872f-61f00312b820
+        title: Gimbal video
+        slug: gimbal-video
+    date: null
+    date_end: null
+    location_in_record: ch23:18866-18949
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  - claim_id: c23d959e-885c-4ece-b717-5b94d707a6e4
+    claim_hash: 42bbc0fc1727912dc2a27d264b0405460ed07202d00d18e559dc8b9602b23480
+    content: The object in the GIMBAL video was heatless, wingless, propeller-less, produced no exhaust, parked itself at
+      approximately 6,100 metres in altitude, and calmly flipped over in winds equivalent to a Category 4 hurricane without
+      fluttering or rattling.
+    original_excerpt: Yet this object—which is heatless, wingless, and propeller-less, and spews no exhaust—parks itself at
+      20,000 feet in the sky and calmly flips itself over in winds that would be classified as a Category 4 hurricane on earth.
+      It doesn’t even flutter or rattle like a kite.
+    claim_type: observation
+    attestation: first_hand
+    speaker:
+      node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+      title: Luis Elizondo
+    provenance_chain:
+      origin_kind: speaker
+      origin: Lue Elizondo
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: e57005b4-b10f-49a9-872f-61f00312b820
+        title: Gimbal video
+        slug: gimbal-video
+    date: null
+    date_end: null
+    location_in_record: ch23:19150-19415
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  - claim_id: eaa7d884-dedf-41c4-acbb-81fe45d5912e
+    claim_hash: 5c4672cc7f64d3b42af8a97816c4fac8d604cb9f09abfbc5fbac7207a71a4526
+    content: Lue Elizondo considers the flight behaviour observed in the GIMBAL video comparable to the earlier UAP incident
+      in which an object split the formation of fighter aircraft off the coast of Virginia, and states that balloons are incapable
+      of such manoeuvres.
+    original_excerpt: This again reminded me of the previous investigation of "balloons" splitting the formation of fighter
+      aircraft off the coast of Virginia. Balloons can’t do that.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+      title: Luis Elizondo
+    provenance_chain:
+      origin_kind: speaker
+      origin: Lue Elizondo
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: e57005b4-b10f-49a9-872f-61f00312b820
+        title: Gimbal video
+        slug: gimbal-video
+    date: null
+    date_end: null
+    location_in_record: ch23:19421-19577
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  - claim_id: 08f8fe74-707e-4b53-9f6c-b17dbbed5249
+    claim_hash: 9927b05f95b0c773140341cb405e7031b7a490aeead30fda4ef0fc83fdd0894d
+    content: Luis Elizondo and his colleagues planned to use both the GoFast video and the GIMBAL video to reinforce Operation
+      Plan Interloper.
+    original_excerpt: hesitation we knew we would use both videos to reinforce OPLAN Interloper.
+    claim_type: observation
+    attestation: first_hand
+    speaker:
+      node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+      title: Luis Elizondo
+    provenance_chain:
+      origin_kind: speaker
+      origin: Lue Elizondo
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 1451172e-3efb-4848-939a-ed9aff0d7e2f
+        title: Go-Fast Video
+        slug: go-fast-video
+      - node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+        title: Luis Elizondo
+        slug: luis-elizondo
+      - node_id: 91bf8fa5-d894-4840-b3a2-8955d43c11c3
+        title: OPLAN Interloper
+        slug: oplan-interloper
+      - node_id: e57005b4-b10f-49a9-872f-61f00312b820
+        title: Gimbal video
+        slug: gimbal-video
+    date: null
+    date_end: null
+    location_in_record: ch23:19980-20043
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  - claim_id: fbad6c56-4a04-4bcd-a697-c5fd0dbf212d
+    claim_hash: 63d78bc4e3f56ad41a54e57b7d315afb4339f27ef0afd5d61cbd139ab5de331f
+    content: A few months after sharing the Predator video with Neill Tipton, Luis Elizondo attended a meeting with high-level
+      United States Navy officials, Central Intelligence Agency (CIA) representatives, and a National Security Agency (NSA)
+      representative where the GoFast and GIMBAL videos were shown.
+    original_excerpt: A few months later I was sitting in a room with high-level Navy officials, CIA reps, and someone from
+      the NSA... we rolled the tapes.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+      title: Luis Elizondo
+    provenance_chain:
+      origin_kind: speaker
+      origin: Lue Elizondo
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 1451172e-3efb-4848-939a-ed9aff0d7e2f
+        title: Go-Fast Video
+        slug: go-fast-video
+      - node_id: 38b84d4a-96df-4684-bb46-f6f64f392add
+        title: Central Intelligence Agency (CIA)
+        slug: central-intelligence-agency-cia
+      - node_id: 4ee606a3-72d8-412a-8bdc-c6077bd02a4a
+        title: National Security Agency (NSA)
+        slug: national-security-agency-nsa
+      - node_id: 5ee4362d-c09b-44a8-a3be-8bd9c05f4c78
+        title: United States Navy (USN)
+        slug: united-states-navy-usn
+      - node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+        title: Luis Elizondo
+        slug: luis-elizondo
+      - node_id: e57005b4-b10f-49a9-872f-61f00312b820
+        title: Gimbal video
+        slug: gimbal-video
+    date: null
+    date_end: null
+    location_in_record: ch23:21631-21748
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  - claim_id: 3945eb2e-6649-4d90-9038-b27d7ea8662e
+    claim_hash: cf4f2937160ae03b9d69a6a060a46ff147906687c54dcdcbc32d43ef81619401
+    content: The object in the GIMBAL video never lost altitude as it turned 90 degrees.
+    original_excerpt: What made GIMBAL so perplexing was the fact the object never lost altitude as it turned 90 degrees.
+    claim_type: observation
+    attestation: first_hand
+    speaker:
+      node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+      title: Luis Elizondo
+    provenance_chain:
+      origin_kind: speaker
+      origin: Lue Elizondo
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: e57005b4-b10f-49a9-872f-61f00312b820
+        title: Gimbal video
+        slug: gimbal-video
+    date: null
+    date_end: null
+    location_in_record: ch23:21909-22000
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  - claim_id: edbac7cd-22d7-4417-9cc0-c57e05ff2fa4
+    claim_hash: 28f67e748b585976eb22ec8f3129be47dfcfa772da26b218de152ac63b1a4686
+    content: The object in the GIMBAL video appeared to hover at an altitude of approximately 6,100 metres.
+    original_excerpt: the object seemed to hover at an altitude of 20,000 feet and linger there, eerily.
+    claim_type: measurement
+    attestation: first_hand
+    speaker:
+      node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+      title: Luis Elizondo
+    provenance_chain:
+      origin_kind: speaker
+      origin: Lue Elizondo
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: e57005b4-b10f-49a9-872f-61f00312b820
+        title: Gimbal video
+        slug: gimbal-video
+    date: null
+    date_end: null
+    location_in_record: ch23:22222-22297
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  - claim_id: e0462256-7866-4553-99d8-2f6745c47fd0
+    claim_hash: 8602d5cbe218fb4528c7490cc5e29e9574c52a80653c2483fb2f780f9d7c2354
+    content: Sceptics later suggested the object in the GIMBAL video was a balloon, but Luis Elizondo considers this explanation
+      incorrect.
+    original_excerpt: Skeptics would later suggest that the object was a balloon, but this was certainly not the case.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+      title: Luis Elizondo
+    provenance_chain:
+      origin_kind: speaker
+      origin: Lue Elizondo
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+        title: Luis Elizondo
+        slug: luis-elizondo
+      - node_id: e57005b4-b10f-49a9-872f-61f00312b820
+        title: Gimbal video
+        slug: gimbal-video
+    date: null
+    date_end: null
+    location_in_record: ch23:22305-22396
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  - claim_id: bd2ee597-1dad-49ae-995e-877c4ea8f023
+    claim_hash: 9d9b566acc2571add5bc4c7a7a5e4b5a2a01639b1029855267befcc1768968e2
+    content: One meeting attendee joked that the object in the GIMBAL video seemed to be mocking the observers, as if saying
+      'Hey guys, watch this!'
+    original_excerpt: One of our meeting attendees made an uncomfortable joke that this thing seemed to be showing us what
+      it could do, mocking us, as if to say, "Hey guys, watch this!"
+    claim_type: observation
+    attestation: first_hand
+    speaker:
+      node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+      title: Luis Elizondo
+    provenance_chain:
+      origin_kind: speaker
+      origin: Lue Elizondo
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: e57005b4-b10f-49a9-872f-61f00312b820
+        title: Gimbal video
+        slug: gimbal-video
+    date: null
+    date_end: null
+    location_in_record: ch23:22403-22560
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  - claim_id: 65505fe8-b660-480d-80db-62999081af2c
+    claim_hash: 52d6238d42938699e81a55df9118f71ea220debd1925f0b0f80f32e583786bfe
+    content: No one in the meeting where the GIMBAL video was shown believed the Unidentified Aerial Phenomenon (UAP) depicted
+      was made by humans.
+    original_excerpt: To be clear, no one in that room thought this UAP was made by humans.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+      title: Luis Elizondo
+    provenance_chain:
+      origin_kind: speaker
+      origin: Lue Elizondo
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
+        title: Unidentified Anomalous Phenomena (UAP)
+        slug: unidentified-anomalous-phenomena-uap
+      - node_id: e57005b4-b10f-49a9-872f-61f00312b820
+        title: Gimbal video
+        slug: gimbal-video
+    date: null
+    date_end: null
+    location_in_record: ch23:22788-22850
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  - claim_id: 83fb0229-5ef9-4d3c-a282-f885262ad8c3
+    claim_hash: 3683af55329e6a16b6968e07cb8f44b3bffdb445fccbfa3e0530d6fda11b4aef
+    content: The behaviour of the object in the GIMBAL video unnerved and mystified the team of aviation and optical experts
+      present at the meeting.
+    original_excerpt: This unnerved, mystified, and concerned our team of aviation and optical experts.
+    claim_type: observation
+    attestation: first_hand
+    speaker:
+      node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+      title: Luis Elizondo
+    provenance_chain:
+      origin_kind: speaker
+      origin: Lue Elizondo
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: e57005b4-b10f-49a9-872f-61f00312b820
+        title: Gimbal video
+        slug: gimbal-video
+    date: null
+    date_end: null
+    location_in_record: ch23:22859-22932
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  - claim_id: 484e5797-c17a-4a90-b86f-80deba7f2288
+    claim_hash: ab9ebced76554366426919d616903f114931c0f6b54548a161c88b1267ae3e53
+    content: Luis Elizondo speculated that a slight aura visible around the object in the GIMBAL video might indicate a protective
+      bubble created by the object's propulsion system operating in a vacuum-like environment.
+    original_excerpt: Was that the reason a slight aura can be seen around the GIMBAL object? Was this a protective bubble?
+      Was this an artifact of the propulsion unit?
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+      title: Luis Elizondo
+    provenance_chain:
+      origin_kind: speaker
+      origin: Lue Elizondo
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: e57005b4-b10f-49a9-872f-61f00312b820
+        title: Gimbal video
+        slug: gimbal-video
+    date: null
+    date_end: null
+    location_in_record: ch23:24215-24356
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  - claim_id: ce86cd54-c104-44c1-a4f6-b176e70c261a
+    claim_hash: df8bf8e2fac3c9208d5cef5b980ef56db976133b05b609c283a0c036971c1a56
+    content: A representative from the Central Intelligence Agency (CIA) at the meeting proposed that the object in the GIMBAL
+      video could be a hybrid balloon with an inducted fan at its centre.
+    original_excerpt: '"The only way I see this being even remotely possible is if you had a... hybrid balloon with some sort
+      of inducted fan at its center," he said, not quite believing his own words.'
+    claim_type: opinion
+    attestation: second_hand
+    speaker:
+      node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+      title: Luis Elizondo
+    provenance_chain:
+      origin_kind: named
+      origin: an unnamed Central Intelligence Agency representative
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 38b84d4a-96df-4684-bb46-f6f64f392add
+        title: Central Intelligence Agency (CIA)
+        slug: central-intelligence-agency-cia
+      - node_id: e57005b4-b10f-49a9-872f-61f00312b820
+        title: Gimbal video
+        slug: gimbal-video
+    date: null
+    date_end: null
+    location_in_record: ch23:24494-24663
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  - claim_id: 1fa03d4c-d413-47c7-acc1-9705d2008385
+    claim_hash: 3ba4e5347494be6c11c3c25adb6aebad38c4f8ee1151c2902ce899f74bb03693
+    content: A Central Intelligence Agency (CIA) representative at the meeting suggested the object in the GIMBAL video might
+      be a Mylar football with its own navigation and propulsion.
+    original_excerpt: '"Perhaps it is some sort of Mylar football that has its own navigation and propulsion."'
+    claim_type: opinion
+    attestation: second_hand
+    speaker:
+      node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+      title: Luis Elizondo
+    provenance_chain:
+      origin_kind: named
+      origin: an unnamed Central Intelligence Agency representative
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 38b84d4a-96df-4684-bb46-f6f64f392add
+        title: Central Intelligence Agency (CIA)
+        slug: central-intelligence-agency-cia
+      - node_id: e57005b4-b10f-49a9-872f-61f00312b820
+        title: Gimbal video
+        slug: gimbal-video
+    date: null
+    date_end: null
+    location_in_record: ch23:24671-24745
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  - claim_id: 80a83812-d5e7-4e69-a85f-2da2040f6338
+    claim_hash: 1f8f55450bf9f047806c245a2d46324a8d35aaa77523f687012d25bba01620ed
+    content: Luis Elizondo asked the Central Intelligence Agency (CIA) representative about fuel and loiter capability for
+      the object in the GIMBAL video, noting it was located far out in the middle of the ocean.
+    original_excerpt: '"What about fuel and loiter capability? This thing is way out in the middle of nowhere," I said.'
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+      title: Luis Elizondo
+    provenance_chain:
+      origin_kind: speaker
+      origin: Lue Elizondo
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+        title: Luis Elizondo
+        slug: luis-elizondo
+      - node_id: e57005b4-b10f-49a9-872f-61f00312b820
+        title: Gimbal video
+        slug: gimbal-video
+    date: null
+    date_end: null
+    location_in_record: ch23:24974-25064
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  - claim_id: 05cd2947-baec-4fb6-8c3e-6eb06c9ba55c
+    claim_hash: e69cfb1ab637b6024f8d03f27c2636767fe4f7d2ce3169dcd04d8114d61f1678
+    content: A Central Intelligence Agency (CIA) representative suggested the object in the GIMBAL video might be powered
+      by a tether or beamed energy from a nearby floating platform.
+    original_excerpt: '"Um... perhaps they are using some sort of tether or beamed energy to give it power, you know? Like
+      a floating platform nearby."'
+    claim_type: opinion
+    attestation: second_hand
+    speaker:
+      node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+      title: Luis Elizondo
+    provenance_chain:
+      origin_kind: named
+      origin: an unnamed Central Intelligence Agency representative
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 38b84d4a-96df-4684-bb46-f6f64f392add
+        title: Central Intelligence Agency (CIA)
+        slug: central-intelligence-agency-cia
+      - node_id: e57005b4-b10f-49a9-872f-61f00312b820
+        title: Gimbal video
+        slug: gimbal-video
+    date: null
+    date_end: null
+    location_in_record: ch23:25108-25225
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  - claim_id: effefdfb-bd09-49d2-b08c-e7ec10ebe89e
+    claim_hash: 25e189922b86092aa2a44dc610cc7109df04d4836a872c1cc11632b5c3dd0a62
+    content: The object depicted in the GIMBAL video was recorded as very hot while the surrounding air was very cold.
+    original_excerpt: The object itself was indicated as being very hot; however, the air surrounding it was very cold.
+    claim_type: measurement
+    attestation: first_hand
+    speaker:
+      node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+      title: Luis Elizondo
+    provenance_chain:
+      origin_kind: speaker
+      origin: Lue Elizondo
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: e57005b4-b10f-49a9-872f-61f00312b820
+        title: Gimbal video
+        slug: gimbal-video
+    date: null
+    date_end: null
+    location_in_record: ch23:25284-25376
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  - claim_id: 4d8ae13a-7a80-414b-9619-cb76bd68dc8e
+    claim_hash: 724909f494fef5a680696ca2d4acbc2403e953f8fa9e9aee02096619ad0b7bd2
+    content: Luis Elizondo considers the object in the GIMBAL video to have exhibited behaviour consistent with an antigravity
+      device based on the observables shown.
+    original_excerpt: On the observables scale, it was clearly an antigravity device.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+      title: Luis Elizondo
+    provenance_chain:
+      origin_kind: speaker
+      origin: Lue Elizondo
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: e57005b4-b10f-49a9-872f-61f00312b820
+        title: Gimbal video
+        slug: gimbal-video
+    date: null
+    date_end: null
+    location_in_record: ch23:25554-25610
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  - claim_id: 31740ae7-8801-4e40-9f68-bcd3bdb087df
+    claim_hash: 856a7f5885c97c4b18cd3448477b5b54342d0e69ac892b7d93105b3417d932f9
+    content: The pilots who observed the object shown in the GIMBAL video corroborated everything the video showed with their
+      own eyewitness testimony.
+    original_excerpt: Everything the video showed, the pilots backed up with eyewitness testimony.
+    claim_type: testimony
+    attestation: second_hand
+    speaker:
+      node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+      title: Luis Elizondo
+    provenance_chain:
+      origin_kind: named
+      origin: the pilots who filmed the GIMBAL video
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: e57005b4-b10f-49a9-872f-61f00312b820
+        title: Gimbal video
+        slug: gimbal-video
+    date: null
+    date_end: null
+    location_in_record: ch23:25618-25684
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  - claim_id: cb98d930-2531-4f1d-b764-8b806fa35e83
+    claim_hash: 82caa459f37f304fadee37667ca7e39fd41937718661e353986ba4fdfee86121
+    content: According to the Central Intelligence Agency (CIA), the aura visible around the object in the GIMBAL video was
+      not an artefact of the camera or a lens flare.
+    original_excerpt: According to the CIA, it was not. It was not an artifact of the camera nor a lens flare.
+    claim_type: observation
+    attestation: second_hand
+    speaker:
+      node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+      title: Luis Elizondo
+    provenance_chain:
+      origin_kind: named
+      origin: Central Intelligence Agency (CIA)
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 38b84d4a-96df-4684-bb46-f6f64f392add
+        title: Central Intelligence Agency (CIA)
+        slug: central-intelligence-agency-cia
+      - node_id: e57005b4-b10f-49a9-872f-61f00312b820
+        title: Gimbal video
+        slug: gimbal-video
+    date: null
+    date_end: null
+    location_in_record: ch23:25939-26021
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  - claim_id: 35b8b447-4d55-4c19-aec7-53fdc9169b46
+    claim_hash: 04fc0ebebc6cbd2820e5a670f41944ccc10a09d1cd67e52f2741bba0be8d22f7
+    content: Lue Elizondo recalled that a bubble surrounding an aircraft, as described by Harold Puthoff's warp theory, was
+      consistent with what was seen in the GIMBAL video.
+    original_excerpt: I remembered that a bubble around an aircraft was exactly what we’d seen in the GIMBAL video… and others.
+    claim_type: observation
+    attestation: first_hand
+    speaker:
+      node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+      title: Luis Elizondo
+    provenance_chain:
+      origin_kind: speaker
+      origin: Lue Elizondo
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 6dcdfe60-bc2f-4be2-a041-9957a82f371e
+        title: Harold E. Puthoff
+        slug: harold-e-puthoff
+      - node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+        title: Luis Elizondo
+        slug: luis-elizondo
+      - node_id: e57005b4-b10f-49a9-872f-61f00312b820
+        title: Gimbal video
+        slug: gimbal-video
+    date: null
+    date_end: null
+    location_in_record: ch24:6282-6382
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  - claim_id: 4e101289-de3e-48f8-9726-5a59a348ea41
+    claim_hash: 1af1112ff77216fd465b45763ee5a7ff1f5bf23cee8cc8d8d1c0ac188914aed8
+    content: Lue Elizondo selected the GoFast video, the GIMBAL video, and the FLIR1 video (also known as the 2004 Tic Tac
+      video) as the three UAP videos he chose to submit for declassification, because their low resolution would hasten the
+      approval process.
+    original_excerpt: I anticipated that their low resolution would be an asset and hasten the approval process. I chose the
+      FLIR video (aka Tic Tac from 2004), and the GoFast and GIMBAL videos from 2015.
+    claim_type: administrative
+    attestation: first_hand
+    speaker:
+      node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+      title: Luis Elizondo
+    provenance_chain:
+      origin_kind: speaker
+      origin: Lue Elizondo
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 1451172e-3efb-4848-939a-ed9aff0d7e2f
+        title: Go-Fast Video
+        slug: go-fast-video
+      - node_id: 55991bcf-937b-46da-9858-2b733307190b
+        title: Tic Tac
+        slug: tic-tac
+      - node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+        title: Luis Elizondo
+        slug: luis-elizondo
+      - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
+        title: 2004 USS Nimitz UAP encounter
+        slug: 2004-uss-nimitz-uap-encounter
+      - node_id: e57005b4-b10f-49a9-872f-61f00312b820
+        title: Gimbal video
+        slug: gimbal-video
+    date: '2004'
+    date_end: null
+    location_in_record: ch27:3984-4161
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  - claim_id: 2223045f-db27-4a88-9e13-8e82859a59b3
+    claim_hash: ec99b0bcf7d12fc4c25f5ee027a23bb72721d370a1d50b8ca5b5b909fa764f46
+    content: Lue Elizondo described the GoFast video, the GIMBAL video, and the FLIR1 (Tic Tac) video on a single DoD Form
+      1910, the form the United States Department of Defense (DoD) uses to request declassification of documents and multimedia
+      content.
+    original_excerpt: I described all three videos on a single Form 1910, which the DoD uses to request declassification of
+      everything from documents to multimedia content.
+    claim_type: administrative
+    attestation: first_hand
+    speaker:
+      node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+      title: Luis Elizondo
+    provenance_chain:
+      origin_kind: speaker
+      origin: Lue Elizondo
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 1451172e-3efb-4848-939a-ed9aff0d7e2f
+        title: Go-Fast Video
+        slug: go-fast-video
+      - node_id: 55991bcf-937b-46da-9858-2b733307190b
+        title: Tic Tac
+        slug: tic-tac
+      - node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+        title: Luis Elizondo
+        slug: luis-elizondo
+      - node_id: 99f08514-5471-4eaf-bce3-46c474a8d304
+        title: United States Department of Defense (DoD)
+        slug: united-states-department-of-defense-dod
+      - node_id: b9bf4e86-7ab0-4cb4-b53c-8cf60140d42e
+        title: Department of Defense (DoD) Form 1910
+        slug: department-of-defense-dod-form-1910
+      - node_id: e57005b4-b10f-49a9-872f-61f00312b820
+        title: Gimbal video
+        slug: gimbal-video
+    date: null
+    date_end: null
+    location_in_record: ch27:4167-4309
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  - claim_id: 142a480a-00e6-4c47-aa96-3b2ab61df55c
+    claim_hash: 6afc7636702f0015e2a765fa72a3ee2f1f9686bbd9662f7ef7ae5c01f2886997
+    content: The Department of Defense Office of Prepublication and Security Review (DoDOPSR) officially stamped Lue Elizondo's
+      DoD Form 1910 with the words "UNLIMITED DISTRIBUTION", approving unrestricted public release of the GoFast, GIMBAL,
+      and FLIR1 (Tic Tac) videos.
+    original_excerpt: 'Shortly after, the approval showed up in my inbox. DoDOPSR had officially stamped my Form 1910 with
+      the following words: UNLIMITED DISTRIBUTION.'
+    claim_type: administrative
+    attestation: first_hand
+    speaker:
+      node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+      title: Luis Elizondo
+    provenance_chain:
+      origin_kind: speaker
+      origin: Lue Elizondo
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 1451172e-3efb-4848-939a-ed9aff0d7e2f
+        title: Go-Fast Video
+        slug: go-fast-video
+      - node_id: 164b4ec2-1d96-4c98-a5e2-5a7d77568b7c
+        title: Defense Office of Prepublication and Security Review
+        slug: defense-office-of-prepublication-and-security-review
+      - node_id: 55991bcf-937b-46da-9858-2b733307190b
+        title: Tic Tac
+        slug: tic-tac
+      - node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+        title: Luis Elizondo
+        slug: luis-elizondo
+      - node_id: b9bf4e86-7ab0-4cb4-b53c-8cf60140d42e
+        title: Department of Defense (DoD) Form 1910
+        slug: department-of-defense-dod-form-1910
+      - node_id: e57005b4-b10f-49a9-872f-61f00312b820
+        title: Gimbal video
+        slug: gimbal-video
+    date: null
+    date_end: null
+    location_in_record: ch27:5617-5748
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos

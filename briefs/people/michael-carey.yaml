@@ -1,0 +1,368 @@
+schema: anomalica/brief/1
+brief_hash: 3893d1493eadaec595dd59a68eaf3cf79f72f5c506cb561f3b04c015023cb7ef
+page:
+  kind: entity
+  node_id: cc40c23e-57c0-4a40-b658-13edc499cf25
+  node_type: person
+  title: Michael Carey
+  slug: michael-carey
+  claim_count: 7
+  claim_count_total: 7
+generated:
+  graph_version: '2026-09-01T10:10:49.863545+00:00'
+size:
+  claims: 7
+  tokens_estimated: 2043
+  sized_against: 1050000
+publication:
+  status: published
+  note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
+    transcripts are gated elsewhere.
+belonging:
+  verified: 0
+  suspect_excluded: 0
+  unreviewed: 7
+related_nodes:
+  - node_id: 176b82fd-52fb-4c89-944c-e03e424fd545
+    title: John Podesta
+    node_type: person
+    slug: john-podesta
+    shared_claims: 3
+  - node_id: e7d89991-1182-4dbb-a1dc-71199b03d96d
+    title: Robert Weiss
+    node_type: person
+    slug: robert-weiss
+    shared_claims: 3
+  - node_id: c3938d3d-6d68-4a6d-94db-45321eed124d
+    title: Tom DeLonge
+    node_type: person
+    slug: tom-delonge
+    shared_claims: 3
+  - node_id: 38d071fa-d938-4b68-a428-0572ffbb1b95
+    title: William McCasland
+    node_type: person
+    slug: william-mccasland
+    shared_claims: 2
+  - node_id: 91c443e8-5105-4f38-8d10-10ba0e24f5c5
+    title: Hillary Clinton presidential campaign
+    node_type: organisation
+    slug: hillary-clinton-presidential-campaign
+    shared_claims: 1
+  - node_id: 9795e9e6-0f72-4ae9-9dcb-ed4bd808f2d7
+    title: Lockheed Martin Skunk Works
+    node_type: organisation
+    slug: lockheed-martin-skunk-works
+    shared_claims: 1
+  - node_id: 13dd6341-c313-47b9-b7cd-07f36290876d
+    title: Milia Fisher
+    node_type: person
+    slug: milia-fisher
+    shared_claims: 1
+  - node_id: 3906876c-b2ac-4c8d-b864-6cb5a02e13b6
+    title: Neil McCasland
+    node_type: person
+    slug: neil-mccasland
+    shared_claims: 1
+  - node_id: ef2bb79d-43f0-4dd8-8a98-f100f3269e92
+    title: Podesta email leak correspondence with Tom DeLonge
+    node_type: document
+    slug: podesta-email-leak-correspondence-with-tom-delonge
+    shared_claims: 1
+  - node_id: 619cf545-7418-417a-af4e-9acf7930f3b2
+    title: US Air Force Space Command
+    node_type: organisation
+    slug: us-air-force-space-command
+    shared_claims: 1
+  - node_id: d3fdabd6-2b67-4ace-9c5e-5ddcaaf75986
+    title: USA, Colorado, Peterson Air Force Base
+    node_type: place
+    slug: colorado-peterson-air-force-base-usa
+    shared_claims: 1
+  - node_id: 32b98a17-be55-4b0f-8e10-9d377e1e8b33
+    title: United States Air Force (USAF)
+    node_type: organisation
+    slug: united-states-air-force-usaf
+    shared_claims: 1
+claims:
+  - claim_id: ba26da13-3d8c-4159-b75e-d3d9da7ee769
+    claim_hash: 15ab996cafd242c9f5c88f734371568fe078816d90971556cdc6d17f656fbd1c
+    content: The other attendees listed for the proposed Google Hangout meeting were Tom DeLonge, John Podesta, Lockheed Martin
+      Skunk Works' boss Rob Weiss, Hillary Clinton campaign assistant Milia Fisher, and retired Major General Michael Carey.
+    original_excerpt: The other meeting attendees were listed as DeLonge, Podesta, Skunk Works' boss Rob Weiss, an assistant
+      to the Hillary Clinton campaign Milia Fisher, and retired Major General Michael Carey.
+    claim_type: administrative
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: document
+      origin: a leaked Podesta email
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 13dd6341-c313-47b9-b7cd-07f36290876d
+        title: Milia Fisher
+        slug: milia-fisher
+      - node_id: 176b82fd-52fb-4c89-944c-e03e424fd545
+        title: John Podesta
+        slug: john-podesta
+      - node_id: 91c443e8-5105-4f38-8d10-10ba0e24f5c5
+        title: Hillary Clinton presidential campaign
+        slug: hillary-clinton-presidential-campaign
+      - node_id: 9795e9e6-0f72-4ae9-9dcb-ed4bd808f2d7
+        title: Lockheed Martin Skunk Works
+        slug: lockheed-martin-skunk-works
+      - node_id: c3938d3d-6d68-4a6d-94db-45321eed124d
+        title: Tom DeLonge
+        slug: tom-delonge
+      - node_id: cc40c23e-57c0-4a40-b658-13edc499cf25
+        title: Michael Carey
+        slug: michael-carey
+      - node_id: e7d89991-1182-4dbb-a1dc-71199b03d96d
+        title: Robert Weiss
+        slug: robert-weiss
+    date: null
+    date_end: null
+    location_in_record: 29-31
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: af2a5199-eea9-4b16-b522-84f8a0533deb
+    claim_hash: 162d48a1a9408a2ffc0c8c478e11623f0ad5e10c34848a6058d585d6a5b0c0e6
+    content: The leaked Podesta emails reveal that Tom DeLonge was in contact with one of America's most senior private aerospace
+      chief executives, a campaign manager for Hillary Clinton, and two senior recently retired US Air Force generals, and
+      that UAP were discussed among them.
+    original_excerpt: they revealed beyond any doubt whatsoever that punk rock star Tom DeLonge truly was in contact with
+      one of America's most senior private aerospace chief executives, a campaign manager for Hillary Clinton, and two very
+      senior recently retired air force generals – and UAPs were discussed
+    claim_type: administrative
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: document
+      origin: leaked Podesta emails
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 176b82fd-52fb-4c89-944c-e03e424fd545
+        title: John Podesta
+        slug: john-podesta
+      - node_id: 3906876c-b2ac-4c8d-b864-6cb5a02e13b6
+        title: Neil McCasland
+        slug: neil-mccasland
+      - node_id: c3938d3d-6d68-4a6d-94db-45321eed124d
+        title: Tom DeLonge
+        slug: tom-delonge
+      - node_id: cc40c23e-57c0-4a40-b658-13edc499cf25
+        title: Michael Carey
+        slug: michael-carey
+      - node_id: e7d89991-1182-4dbb-a1dc-71199b03d96d
+        title: Robert Weiss
+        slug: robert-weiss
+    date: null
+    date_end: null
+    location_in_record: ch20:10178-10455
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 686bc4d8-2c09-4e85-850e-b8ec5706e44f
+    claim_hash: 55af47a08774165bf52759a8f18619f79abd064746c201feda70f50e725b766c
+    content: Until 2014, Major General Michael Carey was the special assistant to the commander of Air Force Space Command
+      at Peterson Air Force Base in Colorado.
+    original_excerpt: Until 2014, Major General Michael Carey was the special assistant to the commander of Air Force Space
+      Command at Peterson Air Force Base in Colorado
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 619cf545-7418-417a-af4e-9acf7930f3b2
+        title: US Air Force Space Command
+        slug: us-air-force-space-command
+      - node_id: cc40c23e-57c0-4a40-b658-13edc499cf25
+        title: Michael Carey
+        slug: michael-carey
+      - node_id: d3fdabd6-2b67-4ace-9c5e-5ddcaaf75986
+        title: USA, Colorado, Peterson Air Force Base
+        slug: colorado-peterson-air-force-base-usa
+    date: null
+    date_end: null
+    location_in_record: ch20:5970-6110
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 7c48be51-5c1b-46f1-bfbb-7ae2a66978a6
+    claim_hash: aa091441f86a8a5d26a4c5a2dd509c02d2bbcea50721d18b29354b3be1585554
+    content: Michael Carey retired from the military in June 2014.
+    original_excerpt: Carey, who retired from the military in June 2014
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: cc40c23e-57c0-4a40-b658-13edc499cf25
+        title: Michael Carey
+        slug: michael-carey
+    date: 2014-06
+    date_end: null
+    location_in_record: ch20:6387-6432
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 3d22f230-9a6e-4c2e-bda8-7ed2968de241
+    claim_hash: 66a607141f66ec5d625e082b7686c80f1f63ba7dfa4e5eb9886bcaa3dc1fd44a
+    content: Michael Carey was one of the individuals who introduced Tom DeLonge to General William Neal McCasland.
+    original_excerpt: He's meeting with, I think General Mike Carey was one of the individuals who eventually introduced him
+      to General William Neal McCasland.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: ff0a86b8-8f3c-4291-94ed-c6d303875ce8
+      title: Jason Samosa
+    provenance_chain:
+      origin_kind: speaker
+      origin: Jason Samosa
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 38d071fa-d938-4b68-a428-0572ffbb1b95
+        title: William McCasland
+        slug: william-mccasland
+      - node_id: c3938d3d-6d68-4a6d-94db-45321eed124d
+        title: Tom DeLonge
+        slug: tom-delonge
+      - node_id: cc40c23e-57c0-4a40-b658-13edc499cf25
+        title: Michael Carey
+        slug: michael-carey
+    date: null
+    date_end: null
+    location_in_record: 00:38:24.7-00:38:31.5
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 64b84f95-238c-4ab7-a678-bee55f985b14
+      record_title: The UFO Cover-Up Leads to One Secret Society — and One Final Event
+      record_date: '2026-07-14'
+      record_reference: https://www.youtube.com/watch?v=kccrkCGGzX4
+      content_hash: sha256:d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7b5a1b98d
+      friendly_name: null
+  - claim_id: 0d828226-9b96-46eb-aa06-83df347c5b0a
+    claim_hash: b63c07cdcf9c940b6c82d6e260dbeedb9cd410c8a6447e44b3ecb8818d9661e1
+    content: The leaked John Podesta correspondence describes a meeting involving William Neal McCasland, Michael Carey, Robert
+      Weiss and John Podesta.
+    original_excerpt: There's that meeting where you've got General Neil McCasland and Michael Carey and Robert Weiss, the
+      president of the Skunk Works, along with Podesta and along...
+    claim_type: testimony
+    attestation: second_hand
+    speaker:
+      node_id: ff0a86b8-8f3c-4291-94ed-c6d303875ce8
+      title: Jason Samosa
+    provenance_chain:
+      origin_kind: document
+      origin: the leaked John Podesta emails
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 176b82fd-52fb-4c89-944c-e03e424fd545
+        title: John Podesta
+        slug: john-podesta
+      - node_id: 38d071fa-d938-4b68-a428-0572ffbb1b95
+        title: William McCasland
+        slug: william-mccasland
+      - node_id: cc40c23e-57c0-4a40-b658-13edc499cf25
+        title: Michael Carey
+        slug: michael-carey
+      - node_id: e7d89991-1182-4dbb-a1dc-71199b03d96d
+        title: Robert Weiss
+        slug: robert-weiss
+      - node_id: ef2bb79d-43f0-4dd8-8a98-f100f3269e92
+        title: Podesta email leak correspondence with Tom DeLonge
+        slug: podesta-email-leak-correspondence-with-tom-delonge
+    date: null
+    date_end: null
+    location_in_record: 00:40:10.4-00:40:19.3
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 64b84f95-238c-4ab7-a678-bee55f985b14
+      record_title: The UFO Cover-Up Leads to One Secret Society — and One Final Event
+      record_date: '2026-07-14'
+      record_reference: https://www.youtube.com/watch?v=kccrkCGGzX4
+      content_hash: sha256:d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7b5a1b98d
+      friendly_name: null
+  - claim_id: 5f94df24-5665-4b99-970c-9408c902449b
+    claim_hash: b290ecabb4bbd584db30b4de5403bc5aab46f60c4e822a17be3547ee8889d17e
+    content: Michael Carey is a former commander of the United States Air Force's intercontinental ballistic missile force.
+    original_excerpt: '[note: Maj. Gen. Michael Carey - Former commander of the Air Force''s ICBM force]'
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: source record annotation
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 32b98a17-be55-4b0f-8e10-9d377e1e8b33
+        title: United States Air Force (USAF)
+        slug: united-states-air-force-usaf
+      - node_id: cc40c23e-57c0-4a40-b658-13edc499cf25
+        title: Michael Carey
+        slug: michael-carey
+    date: null
+    date_end: null
+    location_in_record: line 12
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 64b84f95-238c-4ab7-a678-bee55f985b14
+      record_title: The UFO Cover-Up Leads to One Secret Society — and One Final Event
+      record_date: '2026-07-14'
+      record_reference: https://www.youtube.com/watch?v=kccrkCGGzX4
+      content_hash: sha256:d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7b5a1b98d
+      friendly_name: null

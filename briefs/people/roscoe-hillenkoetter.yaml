@@ -1,0 +1,728 @@
+schema: anomalica/brief/1
+brief_hash: 1375c3106c864b02c88870295bd8a6964c653ef166f656f1b6beb90b271a89e7
+page:
+  kind: entity
+  node_id: 0606a83a-eb1e-439f-a945-e8daef0d69c9
+  node_type: person
+  title: Roscoe Hillenkoetter
+  slug: roscoe-hillenkoetter
+  claim_count: 17
+  claim_count_total: 17
+generated:
+  graph_version: '2026-09-01T10:10:49.863545+00:00'
+size:
+  claims: 17
+  tokens_estimated: 4793
+  sized_against: 1050000
+publication:
+  status: published
+  note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
+    transcripts are gated elsewhere.
+belonging:
+  verified: 0
+  suspect_excluded: 0
+  unreviewed: 17
+related_nodes:
+  - node_id: 38b84d4a-96df-4684-bb46-f6f64f392add
+    title: Central Intelligence Agency (CIA)
+    node_type: organisation
+    slug: central-intelligence-agency-cia
+    shared_claims: 6
+  - node_id: bac12cc3-05f5-4ff5-8830-070294718f8d
+    title: Attack on Pearl Harbor
+    node_type: event
+    slug: attack-on-pearl-harbor
+    shared_claims: 2
+  - node_id: 384dcdc2-dd40-4ad9-a731-8fc1ac9f8a77
+    title: National Investigations Committee on Aerial Phenomena (NICAP)
+    node_type: organisation
+    slug: national-investigations-committee-on-aerial-phenomena-nicap
+    shared_claims: 2
+  - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
+    title: Unidentified Flying Object (UFO)
+    node_type: topic
+    slug: unidentified-flying-object-ufo
+    shared_claims: 2
+  - node_id: 32b98a17-be55-4b0f-8e10-9d377e1e8b33
+    title: United States Air Force (USAF)
+    node_type: organisation
+    slug: united-states-air-force-usaf
+    shared_claims: 2
+  - node_id: 6b42ed17-f30c-4863-ad71-f939193f2c03
+    title: Gary McKinnon
+    node_type: person
+    slug: gary-mckinnon
+    shared_claims: 1
+  - node_id: 442f8857-a05f-42e3-ba13-1040ab4b62ed
+    title: Harry Turner
+    node_type: person
+    slug: harry-turner
+    shared_claims: 1
+  - node_id: 94acebad-d864-4d15-b54c-52197eb9c4ad
+    title: Majestic 12
+    node_type: organisation
+    slug: majestic-12
+    shared_claims: 1
+  - node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+    title: Ross Coulthart
+    node_type: person
+    slug: ross-coulthart
+    shared_claims: 1
+  - node_id: 92395963-b6b1-4e27-9885-b1dae7b11687
+    title: Secret space program
+    node_type: topic
+    slug: secret-space-program
+    shared_claims: 1
+  - node_id: dd63806c-7201-4c43-bde1-a91732c4ee25
+    title: The Martian Conspiracy (hypothesis)
+    node_type: topic
+    slug: the-martian-conspiracy-hypothesis
+    shared_claims: 1
+  - node_id: 9da33243-6854-43d4-b60d-fbeeb284787e
+    title: USA, District of Columbia, Washington
+    node_type: place
+    slug: district-of-columbia-washington-usa
+    shared_claims: 1
+  - node_id: 53bcddc8-6687-47e4-b64b-9ab4a5aa3470
+    title: USA, Hawaii, Pearl Harbor
+    node_type: place
+    slug: hawaii-pearl-harbor-usa
+    shared_claims: 1
+  - node_id: 4fb65b2c-296a-493d-bbc7-65e4b763c1f0
+    title: United States Congress
+    node_type: organisation
+    slug: united-states-congress
+    shared_claims: 1
+  - node_id: c98f787b-ce71-4dd9-bcf8-5b797c8cdcd3
+    title: United States Ship Missouri (USS Missouri)
+    node_type: object
+    slug: united-states-ship-missouri-uss-missouri
+    shared_claims: 1
+claims:
+  - claim_id: 772143cb-2ceb-441d-bd34-1687e50168b3
+    claim_hash: da764323051e655c82b3c9083cc874a76f3c8c67dc66c4e615d00cc6417ca8b7
+    content: Roscoe Hillenkoeter, a former Central Intelligence Agency (CIA) chief, said it was imperative that we learn what
+      UFOs are and where they come from.
+    original_excerpt: Admiral Hillenkoeter, the former CIA chief who stated, “It is imperative that we learn what UFOs are
+      and where they come from,”
+    claim_type: opinion
+    attestation: second_hand
+    speaker:
+      node_id: 0606a83a-eb1e-439f-a945-e8daef0d69c9
+      title: Roscoe Hillenkoetter
+    provenance_chain:
+      origin_kind: named
+      origin: Roscoe Hillenkoeter
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 0606a83a-eb1e-439f-a945-e8daef0d69c9
+        title: Roscoe Hillenkoetter
+        slug: roscoe-hillenkoetter
+      - node_id: 38b84d4a-96df-4684-bb46-f6f64f392add
+        title: Central Intelligence Agency (CIA)
+        slug: central-intelligence-agency-cia
+    date: null
+    date_end: null
+    location_in_record: ch13:32646-32767
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: f0690aba-c78b-47f4-bb2f-f94ea04d55ee
+      record_title: 'Messengers of Deception: UFO Contacts and Cults'
+      record_date: '0101-01-01'
+      record_reference: null
+      content_hash: sha256:0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5ac9fd3168
+      friendly_name: 0101-01-01-ebook-messengers-of-deception-ufo-contacts-and-cults
+  - claim_id: f15c72a4-ad1a-4396-8a99-2196c1221424
+    claim_hash: 657e938b39b58b2b0c4a4a5da0b01da8a853fad53ec0e8d46d337a3dbb0af419
+    content: Roscoe Hillenkoeter joined the Board of Directors of the National Investigations Committee on Aerial Phenomena
+      (NICAP).
+    original_excerpt: and joined the Board of Directors of NICAP
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 0606a83a-eb1e-439f-a945-e8daef0d69c9
+        title: Roscoe Hillenkoetter
+        slug: roscoe-hillenkoetter
+      - node_id: 384dcdc2-dd40-4ad9-a731-8fc1ac9f8a77
+        title: National Investigations Committee on Aerial Phenomena (NICAP)
+        slug: national-investigations-committee-on-aerial-phenomena-nicap
+    date: null
+    date_end: null
+    location_in_record: ch13:32773-32810
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: f0690aba-c78b-47f4-bb2f-f94ea04d55ee
+      record_title: 'Messengers of Deception: UFO Contacts and Cults'
+      record_date: '0101-01-01'
+      record_reference: null
+      content_hash: sha256:0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5ac9fd3168
+      friendly_name: 0101-01-01-ebook-messengers-of-deception-ufo-contacts-and-cults
+  - claim_id: 422238e0-ca4d-42cf-afc7-222669d1fe79
+    claim_hash: 85f598b621e106169f28340ea01b358fe0518269bcc5555871b924be86cd5ad4
+    content: Jacques Vallée speculates that Roscoe Hillenkoeter could have been lending credibility to the Martian Conspiracy
+      stratagem by deliberately promoting the extraterrestrial theory of UFOs.
+    original_excerpt: could have been lending credibility to the stratagem by deliberately promoting the “extraterrestrial”
+      theory.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
+      title: Jacques Vallée
+    provenance_chain:
+      origin_kind: speaker
+      origin: Jacques Vallée
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 0606a83a-eb1e-439f-a945-e8daef0d69c9
+        title: Roscoe Hillenkoetter
+        slug: roscoe-hillenkoetter
+      - node_id: dd63806c-7201-4c43-bde1-a91732c4ee25
+        title: The Martian Conspiracy (hypothesis)
+        slug: the-martian-conspiracy-hypothesis
+    date: null
+    date_end: null
+    location_in_record: ch13:32817-32919
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: f0690aba-c78b-47f4-bb2f-f94ea04d55ee
+      record_title: 'Messengers of Deception: UFO Contacts and Cults'
+      record_date: '0101-01-01'
+      record_reference: null
+      content_hash: sha256:0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5ac9fd3168
+      friendly_name: 0101-01-01-ebook-messengers-of-deception-ufo-contacts-and-cults
+  - claim_id: f2bc05b7-75f8-4e7e-8a9d-e29a1f770adb
+    claim_hash: e5fad396903aa0d28773a472c26075db2eae159ee931e5b1d5f05b8c0cae8177
+    content: Harry Turner said many intelligence officers associated with the UFO problem, including former CIA director Roscoe
+      Hillenkoetter, had stated that the US government knew UFOs were extra-terrestrial but was withholding this fact from
+      the public.
+    original_excerpt: '''Many intelligence officers associated with the UFO problem,'' he said, including former CIA boss
+      Admiral Hillenkoetter, had ''stated that the US government knew UFOs were extra-terrestrial but was withholding this
+      fact from the public''.'
+    claim_type: hearsay
+    attestation: second_hand
+    speaker:
+      node_id: 442f8857-a05f-42e3-ba13-1040ab4b62ed
+      title: Harry Turner
+    provenance_chain:
+      origin_kind: named
+      origin: Harry Turner
+      relay:
+        - 1971 Harry Turner report 'Scientific and Intelligence Aspects of the UFO Problem'
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 0606a83a-eb1e-439f-a945-e8daef0d69c9
+        title: Roscoe Hillenkoetter
+        slug: roscoe-hillenkoetter
+      - node_id: 38b84d4a-96df-4684-bb46-f6f64f392add
+        title: Central Intelligence Agency (CIA)
+        slug: central-intelligence-agency-cia
+      - node_id: 442f8857-a05f-42e3-ba13-1040ab4b62ed
+        title: Harry Turner
+        slug: harry-turner
+      - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
+        title: Unidentified Flying Object (UFO)
+        slug: unidentified-flying-object-ufo
+    date: null
+    date_end: null
+    location_in_record: ch11:2703-2929
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 81697f7d-8545-4d1e-8a38-632f67d8c68b
+    claim_hash: bdf187800b34c48ad8f7b9a1cd55963f9ca8fa34ec48c3c68e341d7a6494ecbd
+    content: In May 1947, Rear Admiral Roscoe Hillenkoetter was settling into his new job as Director of Central Intelligence
+      in Washington DC.
+    original_excerpt: About the same time as the southern Australia sightings, in May 1947, on the other side of the planet
+      in Washington DC, Rear Admiral Roscoe Hillenkoetter was settling into his new job as the Director of Central Intelligence,
+      which later that year became the Central Intelligence Agency (CIA).
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: narration
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 0606a83a-eb1e-439f-a945-e8daef0d69c9
+        title: Roscoe Hillenkoetter
+        slug: roscoe-hillenkoetter
+      - node_id: 9da33243-6854-43d4-b60d-fbeeb284787e
+        title: USA, District of Columbia, Washington
+        slug: district-of-columbia-washington-usa
+    date: 1947-05
+    date_end: null
+    location_in_record: ch7:5036-5323
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: b1375d69-f83f-4842-abd2-3e57e8987ef6
+    claim_hash: ecc0a8d00d2b1aa771a58f5b6b6a5790824d18fd23ffe465af007b4d2b1e0209
+    content: The Director of Central Intelligence position Roscoe Hillenkoetter held later became the Central Intelligence
+      Agency (CIA) later in 1947.
+    original_excerpt: Rear Admiral Roscoe Hillenkoetter was settling into his new job as the Director of Central Intelligence,
+      which later that year became the Central Intelligence Agency (CIA).
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: narration
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 0606a83a-eb1e-439f-a945-e8daef0d69c9
+        title: Roscoe Hillenkoetter
+        slug: roscoe-hillenkoetter
+      - node_id: 38b84d4a-96df-4684-bb46-f6f64f392add
+        title: Central Intelligence Agency (CIA)
+        slug: central-intelligence-agency-cia
+    date: '1947'
+    date_end: null
+    location_in_record: ch7:5156-5323
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: ddd1d2c6-6859-46b1-bec0-e8cb39ab27cc
+    claim_hash: 6fbeb601a94a3c0ca0a71effc76d6f5830eac1d36775d72801c332a6d7e2a24d
+    content: Roscoe Hillenkoetter was formerly the commander of the battleship United States Ship Missouri (USS Missouri).
+    original_excerpt: A former commander of the battleship USS Missouri, Hillenkoetter had been wounded on another vessel
+      during the attack on Pearl Harbor
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: narration
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 0606a83a-eb1e-439f-a945-e8daef0d69c9
+        title: Roscoe Hillenkoetter
+        slug: roscoe-hillenkoetter
+      - node_id: c98f787b-ce71-4dd9-bcf8-5b797c8cdcd3
+        title: United States Ship Missouri (USS Missouri)
+        slug: united-states-ship-missouri-uss-missouri
+    date: null
+    date_end: null
+    location_in_record: ch7:5329-5484
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: b26db7a2-3d63-41d4-b049-0cbc8784a4e4
+    claim_hash: b60f2f07adb30408040b85ae870a0a674c11a2a8394e55bb2b0efcf2020b2137
+    content: Roscoe Hillenkoetter was wounded on a vessel during the 1941 attack on Pearl Harbor.
+    original_excerpt: Hillenkoetter had been wounded on another vessel during the attack on Pearl Harbor
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: narration
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 0606a83a-eb1e-439f-a945-e8daef0d69c9
+        title: Roscoe Hillenkoetter
+        slug: roscoe-hillenkoetter
+      - node_id: 53bcddc8-6687-47e4-b64b-9ab4a5aa3470
+        title: USA, Hawaii, Pearl Harbor
+        slug: hawaii-pearl-harbor-usa
+      - node_id: bac12cc3-05f5-4ff5-8830-070294718f8d
+        title: Attack on Pearl Harbor
+        slug: attack-on-pearl-harbor
+    date: '1941-12-07'
+    date_end: null
+    location_in_record: ch7:5408-5484
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: c87ead90-11cb-46ae-b2c8-9abbc5e0210c
+    claim_hash: b915c1aa1f398aab8f0af43d4a1635cf56086ccf0b246efe80a45ff115467fb9
+    content: A major priority for Roscoe Hillenkoetter in his new intelligence role was to fix the intelligence failures that
+      had allowed the Japanese to attack Pearl Harbor undetected in 1941.
+    original_excerpt: a major priority in his new job was to fix the intelligence failures that had allowed the Japanese to
+      attack undetected in 1941.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: narration
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 0606a83a-eb1e-439f-a945-e8daef0d69c9
+        title: Roscoe Hillenkoetter
+        slug: roscoe-hillenkoetter
+      - node_id: bac12cc3-05f5-4ff5-8830-070294718f8d
+        title: Attack on Pearl Harbor
+        slug: attack-on-pearl-harbor
+    date: null
+    date_end: null
+    location_in_record: ch7:5495-5618
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 909f2ddf-1eb2-4bdf-9c43-b87adc6b8599
+    claim_hash: 148dc49fa2f995b6de07ed931378599f551619f356a0c71e3e9bf2b1ff29aa78
+    content: Former CIA Director Roscoe Hillenkoetter, barely a year out of the job, was one of three former navy admirals
+      on the National Investigations Committee on Aerial Phenomena board.
+    original_excerpt: Former CIA Director Vice Admiral Roscoe Hillenkoetter, barely a year out of the job, was one of the
+      three former navy admirals on the NICAP board
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 0606a83a-eb1e-439f-a945-e8daef0d69c9
+        title: Roscoe Hillenkoetter
+        slug: roscoe-hillenkoetter
+      - node_id: 384dcdc2-dd40-4ad9-a731-8fc1ac9f8a77
+        title: National Investigations Committee on Aerial Phenomena (NICAP)
+        slug: national-investigations-committee-on-aerial-phenomena-nicap
+      - node_id: 38b84d4a-96df-4684-bb46-f6f64f392add
+        title: Central Intelligence Agency (CIA)
+        slug: central-intelligence-agency-cia
+    date: null
+    date_end: null
+    location_in_record: ch9:14715-14855
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 6ceca9f9-2cdc-4030-9366-f12c7cf70099
+    claim_hash: 3dfa7e3432eec2803b4f4aa3546ca4935399fda78072b9799b60cecf46183d47
+    content: Roscoe Hillenkoetter said in 1960 that it was time for the truth to be brought out in open congressional hearings.
+    original_excerpt: ‘It is time for the truth to be brought out in open congressional hearings,’ he said in 1960.
+    claim_type: opinion
+    attestation: second_hand
+    speaker:
+      node_id: 0606a83a-eb1e-439f-a945-e8daef0d69c9
+      title: Roscoe Hillenkoetter
+    provenance_chain:
+      origin_kind: named
+      origin: Roscoe Hillenkoetter
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 0606a83a-eb1e-439f-a945-e8daef0d69c9
+        title: Roscoe Hillenkoetter
+        slug: roscoe-hillenkoetter
+    date: '1960'
+    date_end: null
+    location_in_record: ch9:15260-15347
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 40a7560c-749b-41dc-8e72-24f9e95ad0fc
+    claim_hash: 3543d510a3bd1fbeb9b04a92a59841ead874c4cbf977761bb8d70f4e3c734e90
+    content: Roscoe Hillenkoetter told Congress that behind the scenes, high-ranking air force officers were soberly concerned
+      about UFOs, but through official secrecy and ridicule, many citizens were led to believe the unknown flying objects
+      were nonsense.
+    original_excerpt: He would tell Congress, ‘Behind the scenes, high-ranking air force officers are soberly concerned about
+      UFOs. But through official secrecy and ridicule, many citizens are led to believe the unknown flying objects are nonsense.’
+    claim_type: opinion
+    attestation: second_hand
+    speaker:
+      node_id: 0606a83a-eb1e-439f-a945-e8daef0d69c9
+      title: Roscoe Hillenkoetter
+    provenance_chain:
+      origin_kind: named
+      origin: Roscoe Hillenkoetter
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 0606a83a-eb1e-439f-a945-e8daef0d69c9
+        title: Roscoe Hillenkoetter
+        slug: roscoe-hillenkoetter
+      - node_id: 32b98a17-be55-4b0f-8e10-9d377e1e8b33
+        title: United States Air Force (USAF)
+        slug: united-states-air-force-usaf
+      - node_id: 4fb65b2c-296a-493d-bbc7-65e4b763c1f0
+        title: United States Congress
+        slug: united-states-congress
+    date: null
+    date_end: null
+    location_in_record: ch9:15353-15570
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 6ee9a279-9c83-4c4f-8cb9-9c0866496b29
+    claim_hash: aedc992ae486e58c3391a47092e0332bb441da2c50e9824b1a983949961c204b
+    content: Roscoe Hillenkoetter, former CIA Director, was pushing for Congressional hearings on the UAP issue while the
+      US Air Force aggressively debunked most UAP sightings in public but privately took the phenomenon very seriously.
+    original_excerpt: While the US Air Force aggressively debunked most UAP sightings in public, privately it was taking the
+      phenomenon very seriously. Former CIA Director Roscoe Hillenkoetter was pushing for Congressional hearings.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 0606a83a-eb1e-439f-a945-e8daef0d69c9
+        title: Roscoe Hillenkoetter
+        slug: roscoe-hillenkoetter
+      - node_id: 32b98a17-be55-4b0f-8e10-9d377e1e8b33
+        title: United States Air Force (USAF)
+        slug: united-states-air-force-usaf
+      - node_id: 38b84d4a-96df-4684-bb46-f6f64f392add
+        title: Central Intelligence Agency (CIA)
+        slug: central-intelligence-agency-cia
+    date: null
+    date_end: null
+    location_in_record: ch9:17242-17443
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 63c5b136-07b3-4734-b2dd-84a16d74695b
+    claim_hash: 815e549d2b079a8547bc18e174dfde10b68b64d79332bb52b598deac6a1d5dd3
+    content: One of the alleged secret space program vessel names reported by Gary McKinnon is a vessel named after Roscoe
+      Hillenkoetter.
+    original_excerpt: i love the fact that one of them is called the Hillencotter
+    claim_type: hearsay
+    attestation: second_hand
+    speaker:
+      node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+      title: Ross Coulthart
+    provenance_chain:
+      origin_kind: named
+      origin: Gary McKinnon
+      relay:
+        - Gary McKinnon's public accounts
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 0606a83a-eb1e-439f-a945-e8daef0d69c9
+        title: Roscoe Hillenkoetter
+        slug: roscoe-hillenkoetter
+      - node_id: 6b42ed17-f30c-4863-ad71-f939193f2c03
+        title: Gary McKinnon
+        slug: gary-mckinnon
+      - node_id: 92395963-b6b1-4e27-9885-b1dae7b11687
+        title: Secret space program
+        slug: secret-space-program
+      - node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+        title: Ross Coulthart
+        slug: ross-coulthart
+    date: null
+    date_end: null
+    location_in_record: 00:46:18.7-00:46:20.6
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: fd845823-8784-462c-a981-4775525b6f84
+      record_title: The DANGEROUS Truth About UFOs - Ross Coulthart | DEBRIEFED ep. 76
+      record_date: '2026-02-20'
+      record_reference: https://www.youtube.com/watch?v=idBryc0eWww
+      content_hash: sha256:73be106d406f6d35a063a894e8384e7da0918eb8597d2107a9e3653becca2bdc
+      friendly_name: null
+  - claim_id: 33fc5b61-a155-46b5-9bc0-f7eaf683336f
+    claim_hash: 9e6f06cbf6c53790fd1bd0026254b1853a94f4de746a97a14f2eca49f37e2748
+    content: Roscoe Hillenkoetter was the founding director of the CIA.
+    original_excerpt: Roscoe Hillencotter, of course, the founding director of the CIA.
+    claim_type: administrative
+    attestation: null
+    speaker:
+      node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+      title: Ross Coulthart
+    provenance_chain:
+      origin_kind: unattributed
+      origin: general knowledge asserted in the interview
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 0606a83a-eb1e-439f-a945-e8daef0d69c9
+        title: Roscoe Hillenkoetter
+        slug: roscoe-hillenkoetter
+      - node_id: 38b84d4a-96df-4684-bb46-f6f64f392add
+        title: Central Intelligence Agency (CIA)
+        slug: central-intelligence-agency-cia
+    date: null
+    date_end: null
+    location_in_record: 00:46:22.2-00:46:24.7
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: fd845823-8784-462c-a981-4775525b6f84
+      record_title: The DANGEROUS Truth About UFOs - Ross Coulthart | DEBRIEFED ep. 76
+      record_date: '2026-02-20'
+      record_reference: https://www.youtube.com/watch?v=idBryc0eWww
+      content_hash: sha256:73be106d406f6d35a063a894e8384e7da0918eb8597d2107a9e3653becca2bdc
+      friendly_name: null
+  - claim_id: 8dff0873-dd4b-4cf2-a6ea-412e3133aa3d
+    claim_hash: d2b0a8732c352fd762b43816ac69dc27bc54d9514847ac8019ab94f4bed1291a
+    content: Roscoe Hillenkoetter was part of Majestic 12.
+    original_excerpt: And part of Majestic 12. / Part of Majestic 12
+    claim_type: administrative
+    attestation: null
+    speaker:
+      node_id: 24d00311-06ac-46a1-a2f5-c99f3f8e21b2
+      title: Chris Ramsay
+    provenance_chain:
+      origin_kind: unattributed
+      origin: general knowledge asserted in the interview
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 0606a83a-eb1e-439f-a945-e8daef0d69c9
+        title: Roscoe Hillenkoetter
+        slug: roscoe-hillenkoetter
+      - node_id: 94acebad-d864-4d15-b54c-52197eb9c4ad
+        title: Majestic 12
+        slug: majestic-12
+    date: null
+    date_end: null
+    location_in_record: 00:46:25.4-00:46:27.8
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: fd845823-8784-462c-a981-4775525b6f84
+      record_title: The DANGEROUS Truth About UFOs - Ross Coulthart | DEBRIEFED ep. 76
+      record_date: '2026-02-20'
+      record_reference: https://www.youtube.com/watch?v=idBryc0eWww
+      content_hash: sha256:73be106d406f6d35a063a894e8384e7da0918eb8597d2107a9e3653becca2bdc
+      friendly_name: null
+  - claim_id: ec008c7b-708e-4f6f-8d41-6a9adb34817f
+    claim_hash: c3948ef13f97dec8842c1f546ce86675159f7baa05ac30d33ca16daaf6ef7445
+    content: Roscoe Hillenkoetter was one of the biggest UFO disclosure activists of his time in the 1950s.
+    original_excerpt: was also one of the biggest UFO disclosure activists of his time in the 1950s.
+    claim_type: administrative
+    attestation: null
+    speaker:
+      node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+      title: Ross Coulthart
+    provenance_chain:
+      origin_kind: unattributed
+      origin: general knowledge asserted in the interview
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 0606a83a-eb1e-439f-a945-e8daef0d69c9
+        title: Roscoe Hillenkoetter
+        slug: roscoe-hillenkoetter
+      - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
+        title: Unidentified Flying Object (UFO)
+        slug: unidentified-flying-object-ufo
+    date: null
+    date_end: null
+    location_in_record: 00:46:28.2-00:46:32.9
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: fd845823-8784-462c-a981-4775525b6f84
+      record_title: The DANGEROUS Truth About UFOs - Ross Coulthart | DEBRIEFED ep. 76
+      record_date: '2026-02-20'
+      record_reference: https://www.youtube.com/watch?v=idBryc0eWww
+      content_hash: sha256:73be106d406f6d35a063a894e8384e7da0918eb8597d2107a9e3653becca2bdc
+      friendly_name: null

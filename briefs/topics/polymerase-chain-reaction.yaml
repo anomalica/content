@@ -1,0 +1,1529 @@
+schema: anomalica/brief/1
+brief_hash: 359d9717de161ff4d5647986a1a7fb64604ffb76b948eda3ef0fbadfed79f9a5
+page:
+  kind: entity
+  node_id: 87475644-8ed2-4e3a-88e3-e0c5e12a991e
+  node_type: topic
+  title: Polymerase chain reaction
+  slug: polymerase-chain-reaction
+  claim_count: 35
+  claim_count_total: 35
+generated:
+  graph_version: '2026-09-01T10:10:49.863545+00:00'
+size:
+  claims: 35
+  tokens_estimated: 11756
+  sized_against: 1050000
+publication:
+  status: published
+  note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
+    transcripts are gated elsewhere.
+belonging:
+  verified: 0
+  suspect_excluded: 0
+  unreviewed: 35
+related_nodes:
+  - node_id: 1643a173-c5d8-47f7-b738-62090f5d3f0e
+    title: David Berryman
+    node_type: person
+    slug: david-berryman
+    shared_claims: 8
+  - node_id: a709c9ea-00d7-47ac-b8c4-78e319f72728
+    title: David Berryman's September 22, 2002 Radio National interview on Polymerase Chain Reaction (PCR) crime-scene contamination
+    node_type: event
+    slug: 2002-radio-national-interview-on-polymerase-chain-reaction-pcr-crime-scene-contamination-david-berrymans-september-22
+    shared_claims: 7
+  - node_id: d22bbc9a-c18b-445b-8798-e4c29c1ad7de
+    title: Peter Khoury alien abduction case
+    node_type: event
+    slug: peter-khoury-alien-abduction-case
+    shared_claims: 6
+  - node_id: 2cc858d0-aa73-46c4-bdd0-7cb545271750
+    title: Kary Mullis
+    node_type: person
+    slug: kary-mullis
+    shared_claims: 5
+  - node_id: 0aa7acd4-c013-4bff-9317-e4160830d0a8
+    title: Deoxyribonucleic Acid (DNA) profiling
+    node_type: topic
+    slug: deoxyribonucleic-acid-dna-profiling
+    shared_claims: 4
+  - node_id: 0ebb2d59-f1cf-475c-870f-19d8ca33e6f8
+    title: Mitochondrial Deoxyribonucleic Acid (DNA)
+    node_type: topic
+    slug: mitochondrial-deoxyribonucleic-acid-dna
+    shared_claims: 4
+  - node_id: 98e50374-da8a-4414-998b-d42fce1cd3d7
+    title: Peter Khoury
+    node_type: person
+    slug: peter-khoury
+    shared_claims: 4
+  - node_id: 3ff75793-423c-4333-8402-d5c543074091
+    title: Bill Chalker
+    node_type: person
+    slug: bill-chalker
+    shared_claims: 3
+  - node_id: 19c2b4c4-dca2-4b50-9fc4-02c0bfc3e3bb
+    title: 2000-09 Gary Lowrey alien claw discovery
+    node_type: event
+    slug: 2000-09-gary-lowrey-alien-claw-discovery
+    shared_claims: 2
+  - node_id: 595b8ab8-af49-4d09-ae7b-3d706b6eaba6
+    title: Henry C. Lee
+    node_type: person
+    slug: henry-c-lee
+    shared_claims: 2
+  - node_id: bc2f053f-e64f-43b5-8277-1d8036baf9f6
+    title: Vivian Khoury
+    node_type: person
+    slug: vivian-khoury
+    shared_claims: 2
+  - node_id: 21c29dd2-c3c2-4c56-b32f-0c261bad9517
+    title: Anomaly Physical Evidence Group (APEG)
+    node_type: organisation
+    slug: anomaly-physical-evidence-group-apeg
+    shared_claims: 1
+  - node_id: 827a669c-493c-4ea2-a245-a47d300ef053
+    title: Betty Hill
+    node_type: person
+    slug: betty-hill
+    shared_claims: 1
+  - node_id: 92a70f77-d5d2-4547-bc55-49a07cdd6b24
+    title: Betty Hill's 1961 dress Deoxyribonucleic Acid (DNA) analysis
+    node_type: event
+    slug: betty-hills-1961-dress-deoxyribonucleic-acid-dna-analysis
+    shared_claims: 1
+  - node_id: e727aed8-9cb2-4e44-8d93-8a893629140c
+    title: C-C chemokine receptor type 5 (CCR5) gene
+    node_type: topic
+    slug: c-c-chemokine-receptor-type-5-ccr5-gene
+    shared_claims: 1
+  - node_id: 561a0780-b8e4-443b-a1ad-db626660ed6b
+    title: Chinese Mongoloid mitochondrial Deoxyribonucleic Acid (DNA) substitution found in Peter Khoury's alien hair shaft
+    node_type: event
+    slug: chinese-mongoloid-mitochondrial-deoxyribonucleic-acid-dna-substitution-found-in-peter-khourys-alien-hair-shaft
+    shared_claims: 1
+  - node_id: 9e257cce-d8c0-4a82-8dd9-e86661742d51
+    title: Colm Kelleher
+    node_type: person
+    slug: colm-kelleher
+    shared_claims: 1
+  - node_id: 3cd38fe6-f50f-407c-956b-ca5d4c844909
+    title: Mike Wood's daughter
+    node_type: person
+    slug: mike-woods-daughter
+    shared_claims: 1
+  - node_id: 146c1c05-7049-4a51-9fd5-46904a84e5d5
+    title: Mitochondrial Deoxyribonucleic Acid (DNA) Polymerase Chain Reaction (PCR) profiling comparison of Mike Wood's daughter's
+      hair sample against human consensus
+    node_type: event
+    slug: mitochondrial-deoxyribonucleic-acid-dna-polymerase-chain-reaction-pcr-profiling-comparison-of-mike-woods-daughters-hair-sample-against-human-consensus
+    shared_claims: 1
+  - node_id: a789545b-0778-4fee-80fe-0741297014c2
+    title: Mitochondrial Deoxyribonucleic Acid (DNA) hypervariable region I analysis of Peter Khoury's alien hair sample (Phase
+      One, hair shaft, 1998-1999)
+    node_type: event
+    slug: hair-shaft-1998-1999-mitochondrial-deoxyribonucleic-acid-dna-hypervariable-region-i-analysis-of-peter-khourys-alien-hair-sample-phase-one
+    shared_claims: 1
+  - node_id: fd0d4696-45b5-43d9-ad79-26df5acb4a6f
+    title: Nobel Prize in Chemistry
+    node_type: topic
+    slug: nobel-prize-in-chemistry
+    shared_claims: 1
+  - node_id: ea3b7bc3-55b7-41ae-a2a6-e07ec3e8981d
+    title: Phase Two hair root Deoxyribonucleic Acid (DNA) analysis of Peter Khoury's alien hair sample revealing Basque/Gaelic
+      mitochondrial DNA
+    node_type: event
+    slug: phase-two-hair-root-deoxyribonucleic-acid-dna-analysis-of-peter-khourys-alien-hair-sample-revealing-basquegaelic-mitochondrial-dna
+    shared_claims: 1
+  - node_id: 5d369e9e-d5ca-45f5-8eb9-58ed1990eb88
+    title: Radio National (ABC)
+    node_type: organisation
+    slug: radio-national-abc
+    shared_claims: 1
+  - node_id: 23c038c8-b335-417f-80b1-b2e896cd4949
+    title: UFO Research New South Wales
+    node_type: organisation
+    slug: ufo-research-new-south-wales
+    shared_claims: 1
+  - node_id: a3ac6135-89c2-4d32-96da-8e2a74d2a160
+    title: USA, California, Mendocino County, Anderson Valley cabin
+    node_type: place
+    slug: california-mendocino-county-anderson-valley-cabin-usa
+    shared_claims: 1
+claims:
+  - claim_id: 94ca98f2-f656-4339-b107-18947433df33
+    claim_hash: 6c0c06a58c8ac130e102d870a3058fbedcc62f43f54ee1d77c20e5dc857dd1d4
+    content: The Anomaly Physical Evidence Group's discussions focused on using polymerase chain reaction (PCR) amplification
+      and sequencing of mitochondrial DNA on Peter Khoury's hair sample to challenge the credibility of abduction stories.
+    original_excerpt: Our discussions then focused on the fact that techniques like polymerase chain reaction (PCR) amplification
+      and sequencing of mitochondrial DNA on the hair sample might provide a real challenge to the credibility of abduction
+      stories
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 3ff75793-423c-4333-8402-d5c543074091
+      title: Bill Chalker
+    provenance_chain:
+      origin_kind: speaker
+      origin: Bill Chalker
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 0ebb2d59-f1cf-475c-870f-19d8ca33e6f8
+        title: Mitochondrial Deoxyribonucleic Acid (DNA)
+        slug: mitochondrial-deoxyribonucleic-acid-dna
+      - node_id: 21c29dd2-c3c2-4c56-b32f-0c261bad9517
+        title: Anomaly Physical Evidence Group (APEG)
+        slug: anomaly-physical-evidence-group-apeg
+      - node_id: 3ff75793-423c-4333-8402-d5c543074091
+        title: Bill Chalker
+        slug: bill-chalker
+      - node_id: 87475644-8ed2-4e3a-88e3-e0c5e12a991e
+        title: Polymerase chain reaction
+        slug: polymerase-chain-reaction
+      - node_id: 98e50374-da8a-4414-998b-d42fce1cd3d7
+        title: Peter Khoury
+        slug: peter-khoury
+    date: null
+    date_end: null
+    location_in_record: ch12:4689-4915
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 32687cf8-a827-40a9-b9f4-308ca4d9b2b3
+      record_title: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
+      record_date: '2005-11-14'
+      record_reference: null
+      content_hash: sha256:c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95d6ac9c3b
+      friendly_name: 2005-11-14-ebook-hair-of-the-alien-dna-and-other-forensic-evidence-for-alien
+  - claim_id: c41b15e9-3c54-4498-90b0-d319be6a4e1c
+    claim_hash: 06ed2a26f2ed7e28c67c39a9cde13f2ced68351595d32cae5e79acfbc4790e91
+    content: After a prolonged extraction step at elevated temperatures, fragmentation of the hair, and repeated boiling and
+      freezing with dry ice, the DNA from each hair sample was released from its protein structure, purified, and prepared
+      for the polymerase chain reaction (PCR) amplification step.
+    original_excerpt: Following a prolonged extraction step at elevated temperatures, fragmentation of the hair into smaller
+      pieces, and repeated boiling and freezing with dry ice, the DNA from each was released from its protein structure, purified,
+      and prepared for the PCR amplification step.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 87475644-8ed2-4e3a-88e3-e0c5e12a991e
+        title: Polymerase chain reaction
+        slug: polymerase-chain-reaction
+      - node_id: a789545b-0778-4fee-80fe-0741297014c2
+        title: Mitochondrial Deoxyribonucleic Acid (DNA) hypervariable region I analysis of Peter Khoury's alien hair sample
+          (Phase One, hair shaft, 1998-1999)
+        slug: hair-shaft-1998-1999-mitochondrial-deoxyribonucleic-acid-dna-hypervariable-region-i-analysis-of-peter-khourys-alien-hair-sample-phase-one
+    date: null
+    date_end: null
+    location_in_record: ch12:8867-9134
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 32687cf8-a827-40a9-b9f4-308ca4d9b2b3
+      record_title: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
+      record_date: '2005-11-14'
+      record_reference: null
+      content_hash: sha256:c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95d6ac9c3b
+      friendly_name: 2005-11-14-ebook-hair-of-the-alien-dna-and-other-forensic-evidence-for-alien
+  - claim_id: 54c496e2-998d-49b1-bfb1-16b1c117bc92
+    claim_hash: 80753f34a9dadb40c1a038b301e9c751e78d0505925ba2ea9c103e0bbeb8f4c0
+    content: The polymerase chain reaction (PCR) step creates a very large quantity of originally extracted DNA, making it
+      possible to analyse the DNA in more detail.
+    original_excerpt: The PCR step, in simple terms, creates a very large quantity of the originally extracted DNA, making
+      it possible to analyze the DNA in more detail.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 87475644-8ed2-4e3a-88e3-e0c5e12a991e
+        title: Polymerase chain reaction
+        slug: polymerase-chain-reaction
+    date: null
+    date_end: null
+    location_in_record: ch12:9141-9281
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 32687cf8-a827-40a9-b9f4-308ca4d9b2b3
+      record_title: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
+      record_date: '2005-11-14'
+      record_reference: null
+      content_hash: sha256:c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95d6ac9c3b
+      friendly_name: 2005-11-14-ebook-hair-of-the-alien-dna-and-other-forensic-evidence-for-alien
+  - claim_id: 4e8a879d-6679-40b2-bf36-24a6a08fd223
+    claim_hash: e759adb9f1759769dba1e120c3fd55f77d4abb3e9b41ca8ea371a8cf90a170dc
+    content: Vivian Khoury's hair sample did not produce polymerase chain reaction (PCR) amplification products; the analysts
+      concluded this might have been due to chemical treatment.
+    original_excerpt: Vivian’s hair sample did not produce PCR amplification products; the analysts concluded that this might
+      have been due to chemical treatment.
+    claim_type: observation
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 87475644-8ed2-4e3a-88e3-e0c5e12a991e
+        title: Polymerase chain reaction
+        slug: polymerase-chain-reaction
+      - node_id: bc2f053f-e64f-43b5-8277-1d8036baf9f6
+        title: Vivian Khoury
+        slug: vivian-khoury
+    date: null
+    date_end: null
+    location_in_record: ch12:9645-9775
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 32687cf8-a827-40a9-b9f4-308ca4d9b2b3
+      record_title: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
+      record_date: '2005-11-14'
+      record_reference: null
+      content_hash: sha256:c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95d6ac9c3b
+      friendly_name: 2005-11-14-ebook-hair-of-the-alien-dna-and-other-forensic-evidence-for-alien
+  - claim_id: d05fec6f-010b-4e9f-8f76-2ea4d8bb140f
+    claim_hash: 3a6ad93c88c5ecb2be36ea7465fa6b482aaefe83acd9b0a4513e1498b6780f7a
+    content: On a Friday night in 1983-04, Kary Mullis was driving to his Anderson Valley cabin in Mendocino County, California,
+      when he conceived the polymerase chain reaction (PCR), a method for making unlimited copies of DNA.
+    original_excerpt: On a Friday night in April 1983, Mullis was driving up to his Anderson Valley cabin in Mendocino County
+      in northern California... Mullis made one of the great discoveries of modern chemistry—the polymerase chain reaction
+      (PCR)
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 2cc858d0-aa73-46c4-bdd0-7cb545271750
+        title: Kary Mullis
+        slug: kary-mullis
+      - node_id: 87475644-8ed2-4e3a-88e3-e0c5e12a991e
+        title: Polymerase chain reaction
+        slug: polymerase-chain-reaction
+      - node_id: a3ac6135-89c2-4d32-96da-8e2a74d2a160
+        title: USA, California, Mendocino County, Anderson Valley cabin
+        slug: california-mendocino-county-anderson-valley-cabin-usa
+    date: 1983-04
+    date_end: null
+    location_in_record: ch13:256-507
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 32687cf8-a827-40a9-b9f4-308ca4d9b2b3
+      record_title: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
+      record_date: '2005-11-14'
+      record_reference: null
+      content_hash: sha256:c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95d6ac9c3b
+      friendly_name: 2005-11-14-ebook-hair-of-the-alien-dna-and-other-forensic-evidence-for-alien
+  - claim_id: 1f5c1b72-3a0c-461c-9409-bfa897846ee3
+    claim_hash: 920c6be01f4bfec02fd1db9d514b879cceba708bfb11371bcb416978d1d03d19
+    content: A preliminary mitochondrial DNA PCR (Polymerase Chain Reaction) profiling comparison against the human consensus
+      was performed on both the alien hair sample and Mike Wood's daughter's hair sample, and both were found to be within
+      the normal human consensus DNA range, though different from each other.
+    original_excerpt: Ultimately we did the preliminary step of undertaking a mitochondrial DNA PCR profiling comparison against
+      the “human consensus” on both the “alien hair” and Mike’s daughter’s sample. While different, both were within the normal
+      “human consensus” DNA range.
+    claim_type: measurement
+    attestation: first_hand
+    speaker:
+      node_id: 3ff75793-423c-4333-8402-d5c543074091
+      title: Bill Chalker
+    provenance_chain:
+      origin_kind: speaker
+      origin: Bill Chalker
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 0ebb2d59-f1cf-475c-870f-19d8ca33e6f8
+        title: Mitochondrial Deoxyribonucleic Acid (DNA)
+        slug: mitochondrial-deoxyribonucleic-acid-dna
+      - node_id: 146c1c05-7049-4a51-9fd5-46904a84e5d5
+        title: Mitochondrial Deoxyribonucleic Acid (DNA) Polymerase Chain Reaction (PCR) profiling comparison of Mike Wood's
+          daughter's hair sample against human consensus
+        slug: mitochondrial-deoxyribonucleic-acid-dna-polymerase-chain-reaction-pcr-profiling-comparison-of-mike-woods-daughters-hair-sample-against-human-consensus
+      - node_id: 3cd38fe6-f50f-407c-956b-ca5d4c844909
+        title: Mike Wood's daughter
+        slug: mike-woods-daughter
+      - node_id: 87475644-8ed2-4e3a-88e3-e0c5e12a991e
+        title: Polymerase chain reaction
+        slug: polymerase-chain-reaction
+    date: null
+    date_end: null
+    location_in_record: ch15:33177-33428
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 32687cf8-a827-40a9-b9f4-308ca4d9b2b3
+      record_title: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
+      record_date: '2005-11-14'
+      record_reference: null
+      content_hash: sha256:c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95d6ac9c3b
+      friendly_name: 2005-11-14-ebook-hair-of-the-alien-dna-and-other-forensic-evidence-for-alien
+  - claim_id: 57e6fcce-56d5-4265-9311-4e1034827ae8
+    claim_hash: 414b374b36f236e63703dae5c755550407919f7cfc306c32827825ce94d7d3d9
+    content: Six separate rounds of subsequent DNA analysis, using different and sometimes very novel approaches, were carried
+      out in the Gary Lowrey claw case, including a new polymerase chain reaction (PCR) using novel primers to the most conserved
+      DNA sequences on Earth, to finally resolve the case.
+    original_excerpt: six separate rounds of subsequent DNA analysis, using different and sometimes very novel approaches,
+      were carried out to bring this case to a conclusion. It was necessary to invent a new polymerase chain reaction using
+      novel primers to the most conserved DNA sequences on Earth in order to finally resolve this case.
+    claim_type: measurement
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: named
+      origin: Colm Kelleher
+      relay:
+        - 'A Cautionary Tale: DNA Analysis of Alleged Extraterrestrial Biological Material—Anatomy of a Molecular Forensic
+          Investigation'
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 19c2b4c4-dca2-4b50-9fc4-02c0bfc3e3bb
+        title: 2000-09 Gary Lowrey alien claw discovery
+        slug: 2000-09-gary-lowrey-alien-claw-discovery
+      - node_id: 87475644-8ed2-4e3a-88e3-e0c5e12a991e
+        title: Polymerase chain reaction
+        slug: polymerase-chain-reaction
+      - node_id: 9e257cce-d8c0-4a82-8dd9-e86661742d51
+        title: Colm Kelleher
+        slug: colm-kelleher
+    date: null
+    date_end: null
+    location_in_record: ch18:27313-27624
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 32687cf8-a827-40a9-b9f4-308ca4d9b2b3
+      record_title: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
+      record_date: '2005-11-14'
+      record_reference: null
+      content_hash: sha256:c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95d6ac9c3b
+      friendly_name: 2005-11-14-ebook-hair-of-the-alien-dna-and-other-forensic-evidence-for-alien
+  - claim_id: 3a633a1e-4ea5-4b8d-8124-038d09e364c3
+    claim_hash: bce6d923698d741b7201ef2b863bd259f56a6d85af0fdf38d05eb443fdcc53ec
+    content: Molluscs, particularly snails and slugs, secrete a thick mucus that contains multiple inhibitors of many of the
+      common enzymes fundamental to molecular biology and DNA analysis, including polymerase chain reaction (PCR) enzymes
+      and those used in standard molecular cloning.
+    original_excerpt: Mollusks, particularly snails and slugs, secrete a thick mucus that contains multiple inhibitors of
+      many of the common enzymes that are fundamental to molecular biology and DNA analysis, including polymerase chain reaction
+      enzymes and those used in standard molecular cloning.
+    claim_type: observation
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: named
+      origin: Colm Kelleher
+      relay:
+        - 'A Cautionary Tale: DNA Analysis of Alleged Extraterrestrial Biological Material—Anatomy of a Molecular Forensic
+          Investigation'
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 87475644-8ed2-4e3a-88e3-e0c5e12a991e
+        title: Polymerase chain reaction
+        slug: polymerase-chain-reaction
+    date: null
+    date_end: null
+    location_in_record: ch18:28131-28399
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 32687cf8-a827-40a9-b9f4-308ca4d9b2b3
+      record_title: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
+      record_date: '2005-11-14'
+      record_reference: null
+      content_hash: sha256:c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95d6ac9c3b
+      friendly_name: 2005-11-14-ebook-hair-of-the-alien-dna-and-other-forensic-evidence-for-alien
+  - claim_id: 2edb9b83-6e7e-4fda-b117-598479d83288
+    claim_hash: 14455369208971b27a976e844cfb38189422887e76baa8d1fdfc29dac2ce1d6d
+    content: Rigorous DNA analysis using a novel set of oligonucleotide primers for the polymerase chain reaction (PCR) ultimately
+      solved the puzzle of the Gary Lowrey claw sample's identity.
+    original_excerpt: Ultimately however rigorous DNA analysis using a novel set of oligonucleotide primers for the polymerase
+      chain reaction solved the puzzle
+    claim_type: observation
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: named
+      origin: Colm Kelleher
+      relay:
+        - 'A Cautionary Tale: DNA Analysis of Alleged Extraterrestrial Biological Material—Anatomy of a Molecular Forensic
+          Investigation'
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 19c2b4c4-dca2-4b50-9fc4-02c0bfc3e3bb
+        title: 2000-09 Gary Lowrey alien claw discovery
+        slug: 2000-09-gary-lowrey-alien-claw-discovery
+      - node_id: 87475644-8ed2-4e3a-88e3-e0c5e12a991e
+        title: Polymerase chain reaction
+        slug: polymerase-chain-reaction
+    date: null
+    date_end: null
+    location_in_record: ch18:28635-28766
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 32687cf8-a827-40a9-b9f4-308ca4d9b2b3
+      record_title: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
+      record_date: '2005-11-14'
+      record_reference: null
+      content_hash: sha256:c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95d6ac9c3b
+      friendly_name: 2005-11-14-ebook-hair-of-the-alien-dna-and-other-forensic-evidence-for-alien
+  - claim_id: 48280a30-11a7-4cca-8a58-9fcd12509871
+    claim_hash: 6b9756717dad9b63bd95005112f1d53980755b90faf19c3355f1559134511c61
+    content: A specialised ribosomal Polymerase Chain Reaction (PCR) DNA profiling was undertaken on Betty Hill's dress samples
+      to extract non-human DNA along with standard assessments.
+    original_excerpt: A specialized (ribosomal) PCR DNA profiling was undertaken to extract non-human DNA along with standard
+      assessments.
+    claim_type: measurement
+    attestation: first_hand
+    speaker:
+      node_id: 3ff75793-423c-4333-8402-d5c543074091
+      title: Bill Chalker
+    provenance_chain:
+      origin_kind: speaker
+      origin: Bill Chalker
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 827a669c-493c-4ea2-a245-a47d300ef053
+        title: Betty Hill
+        slug: betty-hill
+      - node_id: 87475644-8ed2-4e3a-88e3-e0c5e12a991e
+        title: Polymerase chain reaction
+        slug: polymerase-chain-reaction
+      - node_id: 92a70f77-d5d2-4547-bc55-49a07cdd6b24
+        title: Betty Hill's 1961 dress Deoxyribonucleic Acid (DNA) analysis
+        slug: betty-hills-1961-dress-deoxyribonucleic-acid-dna-analysis
+    date: null
+    date_end: null
+    location_in_record: ch18:5123-5227
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 32687cf8-a827-40a9-b9f4-308ca4d9b2b3
+      record_title: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
+      record_date: '2005-11-14'
+      record_reference: null
+      content_hash: sha256:c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95d6ac9c3b
+      friendly_name: 2005-11-14-ebook-hair-of-the-alien-dna-and-other-forensic-evidence-for-alien
+  - claim_id: bea25baa-3a67-4161-948b-e7dac09b4798
+    claim_hash: 565ae43340ff85ec92cf8746fca9d62329d95422d515b1189103cbdd1af08423
+    content: Considerable debate continues about factors that might affect the accuracy of standard Polymerase Chain Reaction
+      (PCR)-based DNA profiling.
+    original_excerpt: Even with standard PCR-based DNA profiling, considerable debate continues about factors that might affect
+      its accuracy.
+    claim_type: observation
+    attestation: first_hand
+    speaker:
+      node_id: 3ff75793-423c-4333-8402-d5c543074091
+      title: Bill Chalker
+    provenance_chain:
+      origin_kind: speaker
+      origin: Bill Chalker
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 0aa7acd4-c013-4bff-9317-e4160830d0a8
+        title: Deoxyribonucleic Acid (DNA) profiling
+        slug: deoxyribonucleic-acid-dna-profiling
+      - node_id: 87475644-8ed2-4e3a-88e3-e0c5e12a991e
+        title: Polymerase chain reaction
+        slug: polymerase-chain-reaction
+    date: null
+    date_end: null
+    location_in_record: ch21:481-591
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 32687cf8-a827-40a9-b9f4-308ca4d9b2b3
+      record_title: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
+      record_date: '2005-11-14'
+      record_reference: null
+      content_hash: sha256:c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95d6ac9c3b
+      friendly_name: 2005-11-14-ebook-hair-of-the-alien-dna-and-other-forensic-evidence-for-alien
+  - claim_id: c47755c1-1e26-4233-870e-012bb032296c
+    claim_hash: 0526baba381b1a4348e164cd5613c376ab469881cd84e57ad007080291cfd91f
+    content: 'Four PCR products were obtained in total: two from the tall blond alien hair and two from Peter Khoury''s hair,
+      but none from his wife''s hair, which may have been chemically treated and who never came into direct contact with the
+      alien hair.'
+    original_excerpt: 'Four PCR products were obtained in total: two from the hair of the tall blond female (both left and
+      right), two from the young man who collected the hair (both left and right), but none from his wife whose hair may have
+      been chemically treated, so as to make recovery of DNA difficult (and who never came into direct contact with the alien
+      hair).'
+    claim_type: measurement
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: document
+      origin: Mitochondrial DNA Sequence Analysis of a Shed Hair from an Alien Abduction Case
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 87475644-8ed2-4e3a-88e3-e0c5e12a991e
+        title: Polymerase chain reaction
+        slug: polymerase-chain-reaction
+      - node_id: 98e50374-da8a-4414-998b-d42fce1cd3d7
+        title: Peter Khoury
+        slug: peter-khoury
+      - node_id: bc2f053f-e64f-43b5-8277-1d8036baf9f6
+        title: Vivian Khoury
+        slug: vivian-khoury
+    date: null
+    date_end: null
+    location_in_record: ch22:10152-10492
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 32687cf8-a827-40a9-b9f4-308ca4d9b2b3
+      record_title: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
+      record_date: '2005-11-14'
+      record_reference: null
+      content_hash: sha256:c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95d6ac9c3b
+      friendly_name: 2005-11-14-ebook-hair-of-the-alien-dna-and-other-forensic-evidence-for-alien
+  - claim_id: 370ba6dc-5898-45f7-87b5-752dbe2740bf
+    claim_hash: 2bd425e5a944278534572cdfd4197ace72528fdebd5735064a91ea203f180f5e
+    content: Analysis of a 2 centimetre portion of the thin blond hair shaft from the Peter Khoury alien abduction case, cut
+      from just above the root, required extensive grinding to release its DNA and no contaminating DNA was found on any outer
+      part.
+    original_excerpt: we analysed a 2 cm portion of thin blond hair shaft, which was cut from just above the root. That hard
+      hair shaft required extensive grinding to release its DNA; no contaminating DNA was found on any outer part.
+    claim_type: measurement
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: named
+      origin: Anomaly Physical Evidence Group
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 87475644-8ed2-4e3a-88e3-e0c5e12a991e
+        title: Polymerase chain reaction
+        slug: polymerase-chain-reaction
+      - node_id: d22bbc9a-c18b-445b-8798-e4c29c1ad7de
+        title: Peter Khoury alien abduction case
+        slug: peter-khoury-alien-abduction-case
+    date: null
+    date_end: null
+    location_in_record: ch22:28167-28373
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 32687cf8-a827-40a9-b9f4-308ca4d9b2b3
+      record_title: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
+      record_date: '2005-11-14'
+      record_reference: null
+      content_hash: sha256:c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95d6ac9c3b
+      friendly_name: 2005-11-14-ebook-hair-of-the-alien-dna-and-other-forensic-evidence-for-alien
+  - claim_id: 82ca9693-8d40-411d-8bf7-21936da1a8fd
+    claim_hash: 2b0a60a7285905c9e97fbd46233aa63f05e5aefc0799c5723d909a65efe376c7
+    content: Polymerase Chain Reaction (PCR) studies of the hair shaft from the Peter Khoury alien abduction case revealed
+      an unusual mitochondrial DNA of Chinese genetics, with a rare mutation 16,108 C-to-T.
+    original_excerpt: Those studies revealed an unusual mitochondrial DNA of Chinese genetics, with a rare mutation 16,108
+      C-to-T, plus four other mutations 16,129, 16,162, 16,172, 16,304 in hypervariable region I (HVRI).
+    claim_type: measurement
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: named
+      origin: Anomaly Physical Evidence Group
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 561a0780-b8e4-443b-a1ad-db626660ed6b
+        title: Chinese Mongoloid mitochondrial Deoxyribonucleic Acid (DNA) substitution found in Peter Khoury's alien hair
+          shaft
+        slug: chinese-mongoloid-mitochondrial-deoxyribonucleic-acid-dna-substitution-found-in-peter-khourys-alien-hair-shaft
+      - node_id: 87475644-8ed2-4e3a-88e3-e0c5e12a991e
+        title: Polymerase chain reaction
+        slug: polymerase-chain-reaction
+      - node_id: d22bbc9a-c18b-445b-8798-e4c29c1ad7de
+        title: Peter Khoury alien abduction case
+        slug: peter-khoury-alien-abduction-case
+    date: null
+    date_end: null
+    location_in_record: ch22:28506-28699
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 32687cf8-a827-40a9-b9f4-308ca4d9b2b3
+      record_title: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
+      record_date: '2005-11-14'
+      record_reference: null
+      content_hash: sha256:c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95d6ac9c3b
+      friendly_name: 2005-11-14-ebook-hair-of-the-alien-dna-and-other-forensic-evidence-for-alien
+  - claim_id: d6ecbb67-f031-4554-8b2b-a4625a76b457
+    claim_hash: c883324a857a0d1ad7ab665c9616487aa9b4decbe6e71e900073f6f67f372dcf
+    content: In analysing the Peter Khoury alien hair sample, both sides of mitochondrial hypervariable region I (nucleotides
+      16,020-16,400) were amplified by PCR for 37 or 33 cycles respectively, while a nuclear region coding for the CCR5 gene
+      was amplified for 40 cycles.
+    original_excerpt: Our PCR methods also remain the same, where both the left and right-hand sides of mitochondrial HVRI
+      (hypervariable region I, nucleotides 16,020-16,400) were amplified for 37 or 33 cycles respectively; while one small
+      nuclear region which codes for CCR5 was amplified for 40 cycles.
+    claim_type: measurement
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: named
+      origin: Anomaly Physical Evidence Group
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 87475644-8ed2-4e3a-88e3-e0c5e12a991e
+        title: Polymerase chain reaction
+        slug: polymerase-chain-reaction
+      - node_id: d22bbc9a-c18b-445b-8798-e4c29c1ad7de
+        title: Peter Khoury alien abduction case
+        slug: peter-khoury-alien-abduction-case
+      - node_id: e727aed8-9cb2-4e44-8d93-8a893629140c
+        title: C-C chemokine receptor type 5 (CCR5) gene
+        slug: c-c-chemokine-receptor-type-5-ccr5-gene
+    date: null
+    date_end: null
+    location_in_record: ch22:30406-30681
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 32687cf8-a827-40a9-b9f4-308ca4d9b2b3
+      record_title: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
+      record_date: '2005-11-14'
+      record_reference: null
+      content_hash: sha256:c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95d6ac9c3b
+      friendly_name: 2005-11-14-ebook-hair-of-the-alien-dna-and-other-forensic-evidence-for-alien
+  - claim_id: aed3b5ab-f845-45b8-9097-fd3dfa7031da
+    claim_hash: 7bde43d1685610196ad188bc46511f02da2b9117fd8e2d92e47f30488140d3ca
+    content: Mitochondrial DNA is present in hundreds of copies within each human cell, making it an easily amplified genetic
+      marker for polymerase chain reaction (PCR) even in moderately degraded samples.
+    original_excerpt: Such DNA is present in hundreds of copies within each human cell, and thereby acts as an easily amplified
+      genetic marker for the polymerase chain reaction (PCR), even in moderately degraded samples.
+    claim_type: administrative
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: document
+      origin: Mitochondrial DNA Sequence Analysis of a Shed Hair from an Alien Abduction Case
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 0ebb2d59-f1cf-475c-870f-19d8ca33e6f8
+        title: Mitochondrial Deoxyribonucleic Acid (DNA)
+        slug: mitochondrial-deoxyribonucleic-acid-dna
+      - node_id: 87475644-8ed2-4e3a-88e3-e0c5e12a991e
+        title: Polymerase chain reaction
+        slug: polymerase-chain-reaction
+    date: null
+    date_end: null
+    location_in_record: ch22:4569-4759
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 32687cf8-a827-40a9-b9f4-308ca4d9b2b3
+      record_title: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
+      record_date: '2005-11-14'
+      record_reference: null
+      content_hash: sha256:c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95d6ac9c3b
+      friendly_name: 2005-11-14-ebook-hair-of-the-alien-dna-and-other-forensic-evidence-for-alien
+  - claim_id: d8be000c-0140-43cd-ab72-685693cc1920
+    claim_hash: cfe2a01f74160e910a7cad259b26172c33b524f2033dcd545b0ec37a4ed6129a
+    content: Kary Mullis did not carry out the polymerase chain reaction (PCR) DNA testing of Peter Khoury's alien hair samples
+      described in Bill Chalker's book.
+    original_excerpt: It needs to be made clear that Kary Mullis did not carry out the PCR DNA testing of the Khoury hair
+      samples detailed in this book.
+    claim_type: administrative
+    attestation: first_hand
+    speaker:
+      node_id: 3ff75793-423c-4333-8402-d5c543074091
+      title: Bill Chalker
+    provenance_chain:
+      origin_kind: speaker
+      origin: Bill Chalker
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 2cc858d0-aa73-46c4-bdd0-7cb545271750
+        title: Kary Mullis
+        slug: kary-mullis
+      - node_id: 87475644-8ed2-4e3a-88e3-e0c5e12a991e
+        title: Polymerase chain reaction
+        slug: polymerase-chain-reaction
+      - node_id: 98e50374-da8a-4414-998b-d42fce1cd3d7
+        title: Peter Khoury
+        slug: peter-khoury
+    date: null
+    date_end: null
+    location_in_record: ch23:1302-1427
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 32687cf8-a827-40a9-b9f4-308ca4d9b2b3
+      record_title: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
+      record_date: '2005-11-14'
+      record_reference: null
+      content_hash: sha256:c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95d6ac9c3b
+      friendly_name: 2005-11-14-ebook-hair-of-the-alien-dna-and-other-forensic-evidence-for-alien
+  - claim_id: 901ab26f-e587-4b53-8c59-1c1fb07ec875
+    claim_hash: 06e67d25503f8059388c72bed035ec5fe0aab87228bf7c3a80fa276dca4f82c1
+    content: UFO Research New South Wales assisted with funding the preliminary polymerase chain reaction (PCR) "human consensus"
+      DNA comparisons.
+    original_excerpt: UFOR (NSW) assisted with the funding of these preliminary PCR “human consensus” DNA comparisons.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 0aa7acd4-c013-4bff-9317-e4160830d0a8
+        title: Deoxyribonucleic Acid (DNA) profiling
+        slug: deoxyribonucleic-acid-dna-profiling
+      - node_id: 23c038c8-b335-417f-80b1-b2e896cd4949
+        title: UFO Research New South Wales
+        slug: ufo-research-new-south-wales
+      - node_id: 87475644-8ed2-4e3a-88e3-e0c5e12a991e
+        title: Polymerase chain reaction
+        slug: polymerase-chain-reaction
+    date: null
+    date_end: null
+    location_in_record: ch23:21698-21782
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 32687cf8-a827-40a9-b9f4-308ca4d9b2b3
+      record_title: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
+      record_date: '2005-11-14'
+      record_reference: null
+      content_hash: sha256:c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95d6ac9c3b
+      friendly_name: 2005-11-14-ebook-hair-of-the-alien-dna-and-other-forensic-evidence-for-alien
+  - claim_id: 377fd9a5-4f6a-462c-9f6a-ed66cb4a74c4
+    claim_hash: cc3cf2bce181f9970d789d6bea17775ac57f4420b8e18344957daaec1d533559
+    content: David Berryman has drawn attention to the potential for deliberate contamination of crime scenes with Polymerase
+      Chain Reaction (PCR) products.
+    original_excerpt: has been drawing attention to the potential of deliberate contamination of crime scenes with PCR products
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 1643a173-c5d8-47f7-b738-62090f5d3f0e
+      title: David Berryman
+    provenance_chain:
+      origin_kind: speaker
+      origin: David Berryman
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 1643a173-c5d8-47f7-b738-62090f5d3f0e
+        title: David Berryman
+        slug: david-berryman
+      - node_id: 87475644-8ed2-4e3a-88e3-e0c5e12a991e
+        title: Polymerase chain reaction
+        slug: polymerase-chain-reaction
+    date: null
+    date_end: null
+    location_in_record: ch23:65657-65754
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 32687cf8-a827-40a9-b9f4-308ca4d9b2b3
+      record_title: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
+      record_date: '2005-11-14'
+      record_reference: null
+      content_hash: sha256:c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95d6ac9c3b
+      friendly_name: 2005-11-14-ebook-hair-of-the-alien-dna-and-other-forensic-evidence-for-alien
+  - claim_id: 9e109c1c-ec23-466e-a2e9-ba1f2ebb8f36
+    claim_hash: d108b3bad18c809e71805b99707c89a2cd6f25f1a39341279343238c9944b2ab
+    content: In a September 22, 2002 interview on The Big Idea, Radio National ABC, David Berryman explained that forensic
+      DNA analysis commonly uses Polymerase Chain Reaction (PCR) amplification of variable regions of DNA called short tandem
+      repeats (STRs) because forensic samples such as a single hair or the DNA in fingerprint cells contain very little material,
+      requiring PCR to increase the amount for analysis.
+    original_excerpt: The most common way of doing the forensic analysis at the moment is using PCR amplification of variable
+      regions of DNA, called ‘short hand and repeats’ or STRs, but with forensics in particular, you often work with very
+      small amounts of material—it might be a single hair or even the DNA contained in the cells on a fingerprint on a stamp,
+      or something like that—so you’ve really got very little DNA, there’s not really enough there to do any analysis on,
+      somehow you’ve got to increase the amount, and that’s done by PCR.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 1643a173-c5d8-47f7-b738-62090f5d3f0e
+      title: David Berryman
+    provenance_chain:
+      origin_kind: speaker
+      origin: David Berryman
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 1643a173-c5d8-47f7-b738-62090f5d3f0e
+        title: David Berryman
+        slug: david-berryman
+      - node_id: 5d369e9e-d5ca-45f5-8eb9-58ed1990eb88
+        title: Radio National (ABC)
+        slug: radio-national-abc
+      - node_id: 87475644-8ed2-4e3a-88e3-e0c5e12a991e
+        title: Polymerase chain reaction
+        slug: polymerase-chain-reaction
+      - node_id: a709c9ea-00d7-47ac-b8c4-78e319f72728
+        title: David Berryman's September 22, 2002 Radio National interview on Polymerase Chain Reaction (PCR) crime-scene
+          contamination
+        slug: 2002-radio-national-interview-on-polymerase-chain-reaction-pcr-crime-scene-contamination-david-berrymans-september-22
+    date: '2002-09-22'
+    date_end: null
+    location_in_record: ch23:65862-66380
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 32687cf8-a827-40a9-b9f4-308ca4d9b2b3
+      record_title: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
+      record_date: '2005-11-14'
+      record_reference: null
+      content_hash: sha256:c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95d6ac9c3b
+      friendly_name: 2005-11-14-ebook-hair-of-the-alien-dna-and-other-forensic-evidence-for-alien
+  - claim_id: 34c36b61-50c9-4220-ad54-5c4561a87757
+    claim_hash: 6efa667c95b348cc10632ecdf7950c249fa3d09614f8e5dccaf17454ec06dff1
+    content: David Berryman stated that Polymerase Chain Reaction (PCR) has contamination issues in the laboratory and that
+      a crime scene can be deliberately contaminated using PCR products as the diagnostic test.
+    original_excerpt: if people want to contaminate a crime scene, using PCR as the diagnostic test is a bit problematic because,
+      as I said, you can contaminate a crime scene using PCR products.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 1643a173-c5d8-47f7-b738-62090f5d3f0e
+      title: David Berryman
+    provenance_chain:
+      origin_kind: speaker
+      origin: David Berryman
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 1643a173-c5d8-47f7-b738-62090f5d3f0e
+        title: David Berryman
+        slug: david-berryman
+      - node_id: 87475644-8ed2-4e3a-88e3-e0c5e12a991e
+        title: Polymerase chain reaction
+        slug: polymerase-chain-reaction
+      - node_id: a709c9ea-00d7-47ac-b8c4-78e319f72728
+        title: David Berryman's September 22, 2002 Radio National interview on Polymerase Chain Reaction (PCR) crime-scene
+          contamination
+        slug: 2002-radio-national-interview-on-polymerase-chain-reaction-pcr-crime-scene-contamination-david-berrymans-september-22
+    date: '2002-09-22'
+    date_end: null
+    location_in_record: ch23:66538-66701
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 32687cf8-a827-40a9-b9f4-308ca4d9b2b3
+      record_title: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
+      record_date: '2005-11-14'
+      record_reference: null
+      content_hash: sha256:c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95d6ac9c3b
+      friendly_name: 2005-11-14-ebook-hair-of-the-alien-dna-and-other-forensic-evidence-for-alien
+  - claim_id: e542cde1-bc4c-40c8-b7b1-ead0c9d24dc9
+    claim_hash: f8416341aada9d84070691493c4b1868108a66ab0d767faa6a9d78cc6c58dc2c
+    content: David Berryman explained that contaminating a crime scene with Polymerase Chain Reaction (PCR) products does
+      not require planting hairs or a fingerprint, but can be done by covering the whole scene with DNA PCR products.
+    original_excerpt: You don’t have to distribute hairs or try to put a fingerprint on a wall in the space that looks like
+      it was accidentally put there during a crime—you can just cover the whole scene with DNA PCR products.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 1643a173-c5d8-47f7-b738-62090f5d3f0e
+      title: David Berryman
+    provenance_chain:
+      origin_kind: speaker
+      origin: David Berryman
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 1643a173-c5d8-47f7-b738-62090f5d3f0e
+        title: David Berryman
+        slug: david-berryman
+      - node_id: 87475644-8ed2-4e3a-88e3-e0c5e12a991e
+        title: Polymerase chain reaction
+        slug: polymerase-chain-reaction
+      - node_id: a709c9ea-00d7-47ac-b8c4-78e319f72728
+        title: David Berryman's September 22, 2002 Radio National interview on Polymerase Chain Reaction (PCR) crime-scene
+          contamination
+        slug: 2002-radio-national-interview-on-polymerase-chain-reaction-pcr-crime-scene-contamination-david-berrymans-september-22
+    date: '2002-09-22'
+    date_end: null
+    location_in_record: ch23:66711-66906
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 32687cf8-a827-40a9-b9f4-308ca4d9b2b3
+      record_title: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
+      record_date: '2005-11-14'
+      record_reference: null
+      content_hash: sha256:c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95d6ac9c3b
+      friendly_name: 2005-11-14-ebook-hair-of-the-alien-dna-and-other-forensic-evidence-for-alien
+  - claim_id: 15cdb5b0-0f66-4c06-b395-a6ab2f7c0821
+    claim_hash: 7bd178cd046db6b2fafbc8a82962f10d3d4e80cbeb08621eb12493f5146bfcdd
+    content: David Berryman explained that contaminating a crime scene with Polymerase Chain Reaction (PCR) products requires
+      only easy access to a publicly available PCR kit and amplifier, comparable in difficulty to buying a litre of milk at
+      a supermarket.
+    original_excerpt: firstly, get access to the kit and amplifier, and that’s easy to do, it’s just publicly available information—it’s
+      like going down to the supermarket and buying a litre of milk, it’s not hard to do
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 1643a173-c5d8-47f7-b738-62090f5d3f0e
+      title: David Berryman
+    provenance_chain:
+      origin_kind: speaker
+      origin: David Berryman
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 1643a173-c5d8-47f7-b738-62090f5d3f0e
+        title: David Berryman
+        slug: david-berryman
+      - node_id: 87475644-8ed2-4e3a-88e3-e0c5e12a991e
+        title: Polymerase chain reaction
+        slug: polymerase-chain-reaction
+      - node_id: a709c9ea-00d7-47ac-b8c4-78e319f72728
+        title: David Berryman's September 22, 2002 Radio National interview on Polymerase Chain Reaction (PCR) crime-scene
+          contamination
+        slug: 2002-radio-national-interview-on-polymerase-chain-reaction-pcr-crime-scene-contamination-david-berrymans-september-22
+    date: '2002-09-22'
+    date_end: null
+    location_in_record: ch23:66979-67174
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 32687cf8-a827-40a9-b9f4-308ca4d9b2b3
+      record_title: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
+      record_date: '2005-11-14'
+      record_reference: null
+      content_hash: sha256:c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95d6ac9c3b
+      friendly_name: 2005-11-14-ebook-hair-of-the-alien-dna-and-other-forensic-evidence-for-alien
+  - claim_id: e9a7653b-5fb0-4931-9753-8874b1dafea3
+    claim_hash: 95967a1d4a52e4f63ba993253b4bc7dee861258d93c3305312655a4a0aa195fc
+    content: David Berryman stated that performing the Polymerase Chain Reaction (PCR) reaction requires no special skill
+      or significant resources and can be done at home on a stove using publicly available information.
+    original_excerpt: then, do the PCR reaction and once again, that’s easy to do, it’s all publicly available information,
+      it doesn’t require any skill or any significant resource—in fact, you can do it at home on your stove.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 1643a173-c5d8-47f7-b738-62090f5d3f0e
+      title: David Berryman
+    provenance_chain:
+      origin_kind: speaker
+      origin: David Berryman
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 1643a173-c5d8-47f7-b738-62090f5d3f0e
+        title: David Berryman
+        slug: david-berryman
+      - node_id: 87475644-8ed2-4e3a-88e3-e0c5e12a991e
+        title: Polymerase chain reaction
+        slug: polymerase-chain-reaction
+      - node_id: a709c9ea-00d7-47ac-b8c4-78e319f72728
+        title: David Berryman's September 22, 2002 Radio National interview on Polymerase Chain Reaction (PCR) crime-scene
+          contamination
+        slug: 2002-radio-national-interview-on-polymerase-chain-reaction-pcr-crime-scene-contamination-david-berrymans-september-22
+    date: '2002-09-22'
+    date_end: null
+    location_in_record: ch23:67178-67376
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 32687cf8-a827-40a9-b9f4-308ca4d9b2b3
+      record_title: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
+      record_date: '2005-11-14'
+      record_reference: null
+      content_hash: sha256:c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95d6ac9c3b
+      friendly_name: 2005-11-14-ebook-hair-of-the-alien-dna-and-other-forensic-evidence-for-alien
+  - claim_id: 3ab7fa4e-1e90-4bb3-98db-d45dae515997
+    claim_hash: 5b056c08763078c70ed74efc40bf9be6d4325b21c9e3cc3116fe306a658ee4f0
+    content: David Berryman stated that squirting Polymerase Chain Reaction (PCR) products around a crime scene is enough
+      to contaminate it virtually beyond any possibility of recovering a genuine DNA profile, based on his data.
+    original_excerpt: Then just go to a crime scene and squirt it around, and that’s enough to contaminate a crime scene from
+      our data, virtually beyond any possibility of recovering a genuine profile.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 1643a173-c5d8-47f7-b738-62090f5d3f0e
+      title: David Berryman
+    provenance_chain:
+      origin_kind: speaker
+      origin: David Berryman
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 1643a173-c5d8-47f7-b738-62090f5d3f0e
+        title: David Berryman
+        slug: david-berryman
+      - node_id: 87475644-8ed2-4e3a-88e3-e0c5e12a991e
+        title: Polymerase chain reaction
+        slug: polymerase-chain-reaction
+      - node_id: a709c9ea-00d7-47ac-b8c4-78e319f72728
+        title: David Berryman's September 22, 2002 Radio National interview on Polymerase Chain Reaction (PCR) crime-scene
+          contamination
+        slug: 2002-radio-national-interview-on-polymerase-chain-reaction-pcr-crime-scene-contamination-david-berrymans-september-22
+    date: '2002-09-22'
+    date_end: null
+    location_in_record: ch23:67383-67554
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 32687cf8-a827-40a9-b9f4-308ca4d9b2b3
+      record_title: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
+      record_date: '2005-11-14'
+      record_reference: null
+      content_hash: sha256:c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95d6ac9c3b
+      friendly_name: 2005-11-14-ebook-hair-of-the-alien-dna-and-other-forensic-evidence-for-alien
+  - claim_id: 35a4092b-99d8-4429-bbe4-723423e36f5a
+    claim_hash: c6da265d7dbbc84f2745d623bd0dc3cfd158ba28ce5faa96de0e5382b2e02a8f
+    content: David Berryman was concerned that while considerable effort had gone into resolving Polymerase Chain Reaction
+      (PCR)-related contamination issues in laboratory environments, the impact of deliberate PCR contamination in the field
+      at crime scenes seemed largely ignored.
+    original_excerpt: What concerned Berryman was that, while there was plenty of effort in resolving such PCR-related contamination
+      issues in a lab environment, the impact of deliberate PCR contamination in the field, i.e., at crime scenes, seemed
+      largely ignored.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 1643a173-c5d8-47f7-b738-62090f5d3f0e
+      title: David Berryman
+    provenance_chain:
+      origin_kind: speaker
+      origin: David Berryman
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 1643a173-c5d8-47f7-b738-62090f5d3f0e
+        title: David Berryman
+        slug: david-berryman
+      - node_id: 87475644-8ed2-4e3a-88e3-e0c5e12a991e
+        title: Polymerase chain reaction
+        slug: polymerase-chain-reaction
+      - node_id: a709c9ea-00d7-47ac-b8c4-78e319f72728
+        title: David Berryman's September 22, 2002 Radio National interview on Polymerase Chain Reaction (PCR) crime-scene
+          contamination
+        slug: 2002-radio-national-interview-on-polymerase-chain-reaction-pcr-crime-scene-contamination-david-berrymans-september-22
+    date: null
+    date_end: null
+    location_in_record: ch23:67564-67799
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 32687cf8-a827-40a9-b9f4-308ca4d9b2b3
+      record_title: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
+      record_date: '2005-11-14'
+      record_reference: null
+      content_hash: sha256:c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95d6ac9c3b
+      friendly_name: 2005-11-14-ebook-hair-of-the-alien-dna-and-other-forensic-evidence-for-alien
+  - claim_id: 58ebe6fd-09d0-4222-b769-c1b4bb9c74ef
+    claim_hash: 94d9a4897c386dcaf76db46c0010ca4221e8dce8c30509cb4eebd03205b6b2da
+    content: Bill Chalker considers it certain that Peter Khoury had no knowledge, back in 1992, of the forensic Polymerase
+      Chain Reaction (PCR) contamination techniques only now being discussed in the field of forensics.
+    original_excerpt: Before someone suggests it, the chances of Peter Khoury having this sort of knowledge, only now being
+      discussed and debated in the field of forensics, were certainly nil back in 1992 and pretty much the same even now.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 3ff75793-423c-4333-8402-d5c543074091
+      title: Bill Chalker
+    provenance_chain:
+      origin_kind: speaker
+      origin: Bill Chalker
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 3ff75793-423c-4333-8402-d5c543074091
+        title: Bill Chalker
+        slug: bill-chalker
+      - node_id: 87475644-8ed2-4e3a-88e3-e0c5e12a991e
+        title: Polymerase chain reaction
+        slug: polymerase-chain-reaction
+      - node_id: 98e50374-da8a-4414-998b-d42fce1cd3d7
+        title: Peter Khoury
+        slug: peter-khoury
+      - node_id: d22bbc9a-c18b-445b-8798-e4c29c1ad7de
+        title: Peter Khoury alien abduction case
+        slug: peter-khoury-alien-abduction-case
+    date: null
+    date_end: null
+    location_in_record: ch23:68034-68247
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 32687cf8-a827-40a9-b9f4-308ca4d9b2b3
+      record_title: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
+      record_date: '2005-11-14'
+      record_reference: null
+      content_hash: sha256:c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95d6ac9c3b
+      friendly_name: 2005-11-14-ebook-hair-of-the-alien-dna-and-other-forensic-evidence-for-alien
+  - claim_id: 5b3ae527-9178-4efc-a64c-eaab40ca3ee3
+    claim_hash: 9a8ed3ba8edc364356df427b16530b44050ce9dec7fab4a08015e7692c8a1d23
+    content: Bill Chalker considers it very difficult, though not impossible, to fabricate a Polymerase Chain Reaction (PCR)
+      "brew" that would contain the same rare genetic substitutions found in the Peter Khoury alien hair sample, given the
+      rarity of the DNA profile and its unusual attributes near the root and at the shaft of the hair.
+    original_excerpt: The dilemma now would be how anyone could fabricate a PCR “brew” in a similar way that would contain
+      the same rare genetic substitutions. Impossible? No, but very difficult, given the rarity of the DNA profile and its
+      unusual attributes near the root and at the shaft of the hair.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 3ff75793-423c-4333-8402-d5c543074091
+      title: Bill Chalker
+    provenance_chain:
+      origin_kind: speaker
+      origin: Bill Chalker
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 3ff75793-423c-4333-8402-d5c543074091
+        title: Bill Chalker
+        slug: bill-chalker
+      - node_id: 87475644-8ed2-4e3a-88e3-e0c5e12a991e
+        title: Polymerase chain reaction
+        slug: polymerase-chain-reaction
+      - node_id: d22bbc9a-c18b-445b-8798-e4c29c1ad7de
+        title: Peter Khoury alien abduction case
+        slug: peter-khoury-alien-abduction-case
+    date: null
+    date_end: null
+    location_in_record: ch23:68252-68527
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 32687cf8-a827-40a9-b9f4-308ca4d9b2b3
+      record_title: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
+      record_date: '2005-11-14'
+      record_reference: null
+      content_hash: sha256:c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95d6ac9c3b
+      friendly_name: 2005-11-14-ebook-hair-of-the-alien-dna-and-other-forensic-evidence-for-alien
+  - claim_id: 99a90f1f-93b1-437b-b3ad-90a15eb2067a
+    claim_hash: e1079d917e585b969ce585cf21c20b397574898e2955669177b8cc640951cde8
+    content: 'Two different samples from the Peter Khoury alien hair root gave two different mitochondrial DNA sequences within
+      the same Polymerase Chain Reaction (PCR) run: a 16255C genotype for 6 of 7 clones from the soft root, and a 16304 sequence
+      from the hard keratin inside the base of the hard shaft, matching the shaft result from the first round of testing.'
+    original_excerpt: 'Two different samples from the hair root gave two different DNA sequences, within the same PCR: 162555
+      genotype for 6/7 clones from the soft root (i.e., the skin area of the “donor”) and 16, 304 again (as in the shaft result
+      from the first round of testing) from the hard keratin inside the base of the hard shaft of the hair).'
+    claim_type: measurement
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 0ebb2d59-f1cf-475c-870f-19d8ca33e6f8
+        title: Mitochondrial Deoxyribonucleic Acid (DNA)
+        slug: mitochondrial-deoxyribonucleic-acid-dna
+      - node_id: 87475644-8ed2-4e3a-88e3-e0c5e12a991e
+        title: Polymerase chain reaction
+        slug: polymerase-chain-reaction
+      - node_id: d22bbc9a-c18b-445b-8798-e4c29c1ad7de
+        title: Peter Khoury alien abduction case
+        slug: peter-khoury-alien-abduction-case
+      - node_id: ea3b7bc3-55b7-41ae-a2a6-e07ec3e8981d
+        title: Phase Two hair root Deoxyribonucleic Acid (DNA) analysis of Peter Khoury's alien hair sample revealing Basque/Gaelic
+          mitochondrial DNA
+        slug: phase-two-hair-root-deoxyribonucleic-acid-dna-analysis-of-peter-khourys-alien-hair-sample-revealing-basquegaelic-mitochondrial-dna
+    date: null
+    date_end: null
+    location_in_record: ch23:74624-74945
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 32687cf8-a827-40a9-b9f4-308ca4d9b2b3
+      record_title: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
+      record_date: '2005-11-14'
+      record_reference: null
+      content_hash: sha256:c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95d6ac9c3b
+      friendly_name: 2005-11-14-ebook-hair-of-the-alien-dna-and-other-forensic-evidence-for-alien
+  - claim_id: d84e694a-5727-42d1-b525-1cead129558b
+    claim_hash: 1a626eb26bf0d130a2ec78bd3aa9a1b9e8e9fe962762b7e613258d43466ea301
+    content: Modern DNA (deoxyribonucleic acid) forensic work was made possible by the polymerase chain reaction (PCR) procedure.
+    original_excerpt: Such work was made possible only through a remarkable breakthrough, the PCR (polymerase chain reaction)
+      procedure.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 87475644-8ed2-4e3a-88e3-e0c5e12a991e
+        title: Polymerase chain reaction
+        slug: polymerase-chain-reaction
+    date: null
+    date_end: null
+    location_in_record: ch7:5253-5357
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 32687cf8-a827-40a9-b9f4-308ca4d9b2b3
+      record_title: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
+      record_date: '2005-11-14'
+      record_reference: null
+      content_hash: sha256:c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95d6ac9c3b
+      friendly_name: 2005-11-14-ebook-hair-of-the-alien-dna-and-other-forensic-evidence-for-alien
+  - claim_id: 42f914f2-74f0-4ef5-b50a-1080566306b3
+    claim_hash: e9fbe68b9b47ac835288657fb87e4d22092c3a03ea35eb0a2585cbc029dcc4f1
+    content: Kary Mullis is credited with the initial concept that led to the polymerase chain reaction (PCR) technique.
+    original_excerpt: Dr. Kary Mullis is credited with the initial concept that led to the PCR technique, a discovery that
+      ultimately earned him the 1993 Nobel Prize in chemistry.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 2cc858d0-aa73-46c4-bdd0-7cb545271750
+        title: Kary Mullis
+        slug: kary-mullis
+      - node_id: 87475644-8ed2-4e3a-88e3-e0c5e12a991e
+        title: Polymerase chain reaction
+        slug: polymerase-chain-reaction
+    date: null
+    date_end: null
+    location_in_record: ch7:5369-5516
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 32687cf8-a827-40a9-b9f4-308ca4d9b2b3
+      record_title: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
+      record_date: '2005-11-14'
+      record_reference: null
+      content_hash: sha256:c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95d6ac9c3b
+      friendly_name: 2005-11-14-ebook-hair-of-the-alien-dna-and-other-forensic-evidence-for-alien
+  - claim_id: 90415310-69c6-4e4a-b343-7aad2a81191f
+    claim_hash: e8a8aad1caea1bbf0b05ece848b45a1f58b620850d6adac11782702e9f36d900
+    content: Kary Mullis was awarded the 1993 Nobel Prize in Chemistry for the polymerase chain reaction (PCR) technique.
+    original_excerpt: a discovery that ultimately earned him the 1993 Nobel Prize in chemistry
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 2cc858d0-aa73-46c4-bdd0-7cb545271750
+        title: Kary Mullis
+        slug: kary-mullis
+      - node_id: 87475644-8ed2-4e3a-88e3-e0c5e12a991e
+        title: Polymerase chain reaction
+        slug: polymerase-chain-reaction
+      - node_id: fd0d4696-45b5-43d9-ad79-26df5acb4a6f
+        title: Nobel Prize in Chemistry
+        slug: nobel-prize-in-chemistry
+    date: '1993'
+    date_end: null
+    location_in_record: ch7:5453-5516
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 32687cf8-a827-40a9-b9f4-308ca4d9b2b3
+      record_title: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
+      record_date: '2005-11-14'
+      record_reference: null
+      content_hash: sha256:c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95d6ac9c3b
+      friendly_name: 2005-11-14-ebook-hair-of-the-alien-dna-and-other-forensic-evidence-for-alien
+  - claim_id: eb5fc3d7-0323-456a-a935-4b7fa8e896ce
+    claim_hash: bb8183632b8a7e6847f5c9d5acb008a4b5e1ee8d1cbf8df43e80f903f56d5915
+    content: Most forensic DNA (deoxyribonucleic acid) techniques are powered by polymerase chain reaction (PCR), a process
+      that permits faithful reproduction of very small amounts of DNA, producing large amounts of identical copies.
+    original_excerpt: '[Most] of the forensic techniques are generally powered by polymerase chain reaction, or PCR, a revolutionary
+      process that permits the faithful reproduction of small, sometimes even vanishingly small, amounts of DNA. The process
+      produces large amounts (identical copies) of DNA'
+    claim_type: opinion
+    attestation: second_hand
+    speaker:
+      node_id: 595b8ab8-af49-4d09-ae7b-3d706b6eaba6
+      title: Henry C. Lee
+    provenance_chain:
+      origin_kind: named
+      origin: Henry C. Lee and Frank Tirnady
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 0aa7acd4-c013-4bff-9317-e4160830d0a8
+        title: Deoxyribonucleic Acid (DNA) profiling
+        slug: deoxyribonucleic-acid-dna-profiling
+      - node_id: 595b8ab8-af49-4d09-ae7b-3d706b6eaba6
+        title: Henry C. Lee
+        slug: henry-c-lee
+      - node_id: 87475644-8ed2-4e3a-88e3-e0c5e12a991e
+        title: Polymerase chain reaction
+        slug: polymerase-chain-reaction
+    date: null
+    date_end: null
+    location_in_record: ch7:6821-7094
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 32687cf8-a827-40a9-b9f4-308ca4d9b2b3
+      record_title: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
+      record_date: '2005-11-14'
+      record_reference: null
+      content_hash: sha256:c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95d6ac9c3b
+      friendly_name: 2005-11-14-ebook-hair-of-the-alien-dna-and-other-forensic-evidence-for-alien
+  - claim_id: 87a97d5c-c58d-485b-b5ef-6a8d9fce5a10
+    claim_hash: 87deab831adec3fca72ca3dd94d95ebbc2372f7034fd08096225779e2d7a4efc
+    content: Polymerase chain reaction (PCR) allows investigators to obtain a DNA (deoxyribonucleic acid) profile from postage
+      stamps, coffee cups, and single hairs.
+    original_excerpt: allows investigators to obtain a DNA profile from postage stamps, coffee cups, and even single hairs.
+    claim_type: opinion
+    attestation: second_hand
+    speaker:
+      node_id: 595b8ab8-af49-4d09-ae7b-3d706b6eaba6
+      title: Henry C. Lee
+    provenance_chain:
+      origin_kind: named
+      origin: Henry C. Lee and Frank Tirnady
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 0aa7acd4-c013-4bff-9317-e4160830d0a8
+        title: Deoxyribonucleic Acid (DNA) profiling
+        slug: deoxyribonucleic-acid-dna-profiling
+      - node_id: 595b8ab8-af49-4d09-ae7b-3d706b6eaba6
+        title: Henry C. Lee
+        slug: henry-c-lee
+      - node_id: 87475644-8ed2-4e3a-88e3-e0c5e12a991e
+        title: Polymerase chain reaction
+        slug: polymerase-chain-reaction
+    date: null
+    date_end: null
+    location_in_record: ch7:7106-7201
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 32687cf8-a827-40a9-b9f4-308ca4d9b2b3
+      record_title: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
+      record_date: '2005-11-14'
+      record_reference: null
+      content_hash: sha256:c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95d6ac9c3b
+      friendly_name: 2005-11-14-ebook-hair-of-the-alien-dna-and-other-forensic-evidence-for-alien
+  - claim_id: 1200fe6b-1f90-4017-abad-b6454c0c03fc
+    claim_hash: a2bfa9f48a2d732368130c216d566885a8b578cc55e47ab7139ab3fa8d3f4ade
+    content: Kary Mullis discovered the polymerase chain reaction and won the Nobel Prize for the discovery in 1993.
+    original_excerpt: The "accidental" aspect of Tyler's protocol brought to my mind the biochemist Kary Mullis, who had discovered
+      the highly influential polymerase chain reaction and won the Nobel Prize for the discovery in 1993.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 2cc858d0-aa73-46c4-bdd0-7cb545271750
+        title: Kary Mullis
+        slug: kary-mullis
+      - node_id: 87475644-8ed2-4e3a-88e3-e0c5e12a991e
+        title: Polymerase chain reaction
+        slug: polymerase-chain-reaction
+    date: '1993'
+    date_end: null
+    location_in_record: ch1:46075-46279
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 288e1100-0497-41df-ba08-9890e519b0b9
+      record_title: American Cosmic
+      record_date: '2019'
+      record_reference: null
+      content_hash: sha256:ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b16ac4758
+      friendly_name: 2019-ebook-american-cosmic

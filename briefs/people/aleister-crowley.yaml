@@ -1,0 +1,1027 @@
+schema: anomalica/brief/1
+brief_hash: 2d1882991d5c02f43daeb723b95d74c26e8f995d7b418c434f6bfb8f9961059a
+page:
+  kind: entity
+  node_id: 383fc644-c1b4-4a39-bf62-5b14ba2db5cc
+  node_type: person
+  title: Aleister Crowley
+  slug: aleister-crowley
+  claim_count: 24
+  claim_count_total: 24
+generated:
+  graph_version: '2026-09-01T10:10:49.863545+00:00'
+size:
+  claims: 24
+  tokens_estimated: 6970
+  sized_against: 1050000
+publication:
+  status: published
+  note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
+    transcripts are gated elsewhere.
+belonging:
+  verified: 0
+  suspect_excluded: 0
+  unreviewed: 24
+related_nodes:
+  - node_id: b6090b6b-63d9-473d-8d6c-bd4b5f54f24b
+    title: Jack Parsons
+    node_type: person
+    slug: jack-parsons
+    shared_claims: 13
+  - node_id: b8f94227-7b07-4296-b7a4-222b69e0ca03
+    title: Ordo Templi Orientis (OTO)
+    node_type: organisation
+    slug: ordo-templi-orientis-oto
+    shared_claims: 5
+  - node_id: 6063296b-f65b-452e-be99-dd564ded9c39
+    title: L. Ron Hubbard
+    node_type: person
+    slug: l-ron-hubbard
+    shared_claims: 3
+  - node_id: adf0d246-d092-48c2-a964-40bfb7beabf8
+    title: Book of the Law (Crowley)
+    node_type: document
+    slug: book-of-the-law-crowley
+    shared_claims: 2
+  - node_id: 8b6a34cc-4dc3-4ab2-b545-d3d6535b1516
+    title: Church of Scientology
+    node_type: organisation
+    slug: church-of-scientology
+    shared_claims: 2
+  - node_id: ec19fd66-d4ee-42c7-b46b-a511dc050818
+    title: USA, California, Los Angeles, Ordo Templi Orientis temple
+    node_type: place
+    slug: california-los-angeles-ordo-templi-orientis-temple-usa
+    shared_claims: 2
+  - node_id: e95835fe-733e-4777-bb60-740d9727e2c8
+    title: Adolf Hitler
+    node_type: person
+    slug: adolf-hitler
+    shared_claims: 1
+  - node_id: 8540537f-be24-4174-a270-8b46c4a8c45b
+    title: Aeon of Osiris
+    node_type: topic
+    slug: aeon-of-osiris
+    shared_claims: 1
+  - node_id: fd44f2f2-eea9-42b7-af12-c800e99548ab
+    title: Ancient and Accepted Scottish Rite
+    node_type: organisation
+    slug: ancient-and-accepted-scottish-rite
+    shared_claims: 1
+  - node_id: ee833add-d4e3-4b62-88dd-9b9c496e8dd1
+    title: California Institute of Technology (Caltech)
+    node_type: organisation
+    slug: california-institute-of-technology-caltech
+    shared_claims: 1
+  - node_id: 9bbdf4e3-624a-4f49-8570-340f59e867eb
+    title: Enochian language
+    node_type: topic
+    slug: enochian-language
+    shared_claims: 1
+  - node_id: fed4f9f6-83bd-4965-9440-444e40db518c
+    title: Giacomo Casanova
+    node_type: person
+    slug: giacomo-casanova
+    shared_claims: 1
+  - node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
+    title: Jacques Vallée
+    node_type: person
+    slug: jacques-vallee
+    shared_claims: 1
+  - node_id: 553b7708-8bac-4ff7-88e3-4038c33273df
+    title: Jane Wolfe
+    node_type: person
+    slug: jane-wolfe
+    shared_claims: 1
+  - node_id: 767969f9-4aab-4910-8224-db78ee159e5c
+    title: John Dee
+    node_type: person
+    slug: john-dee
+    shared_claims: 1
+  - node_id: d2c9e022-b9e4-4b37-97fa-32880343393c
+    title: Karl Germer
+    node_type: person
+    slug: karl-germer
+    shared_claims: 1
+  - node_id: d2e71755-8b24-4ea0-ba28-54f5a6726a66
+    title: Marjorie Cameron
+    node_type: person
+    slug: marjorie-cameron
+    shared_claims: 1
+  - node_id: f7ed2e8d-70e7-4545-b17d-444f3c688a59
+    title: Ordo Templi Orientis (O.T.O.)
+    node_type: topic
+    slug: ordo-templi-orientis-oto
+    shared_claims: 1
+  - node_id: 2bc776a8-dbd0-416c-92e1-9543f4156b26
+    title: Paul Rydeen
+    node_type: person
+    slug: paul-rydeen
+    shared_claims: 1
+  - node_id: 96b7973f-154d-40e4-8b19-81d26c7d53d6
+    title: USA, California, Los Angeles
+    node_type: place
+    slug: california-los-angeles-usa
+    shared_claims: 1
+claims:
+  - claim_id: e6bbeadc-23e4-4d90-84eb-18212e2e02a4
+    claim_hash: 8370c522c23e877f3f31da0dca7916a5af86385b794ac1366093c5d8a1659af1
+    content: Jacques Vallée noted that occultists from John Dee and Giacomo Casanova to Aleister Crowley have often doubled
+      as spies.
+    original_excerpt: From John Dee and Casanova to Aleister Crowley, occultists have often doubled as spies.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
+      title: Jacques Vallée
+    provenance_chain:
+      origin_kind: speaker
+      origin: Jacques Vallée
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
+        title: Jacques Vallée
+        slug: jacques-vallee
+      - node_id: 383fc644-c1b4-4a39-bf62-5b14ba2db5cc
+        title: Aleister Crowley
+        slug: aleister-crowley
+      - node_id: 767969f9-4aab-4910-8224-db78ee159e5c
+        title: John Dee
+        slug: john-dee
+      - node_id: fed4f9f6-83bd-4965-9440-444e40db518c
+        title: Giacomo Casanova
+        slug: giacomo-casanova
+    date: null
+    date_end: null
+    location_in_record: ch11:64739-64820
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: f0690aba-c78b-47f4-bb2f-f94ea04d55ee
+      record_title: 'Messengers of Deception: UFO Contacts and Cults'
+      record_date: '0101-01-01'
+      record_reference: null
+      content_hash: sha256:0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5ac9fd3168
+      friendly_name: 0101-01-01-ebook-messengers-of-deception-ufo-contacts-and-cults
+  - claim_id: 30f92028-6f44-4201-a0f4-aae29007f628
+    claim_hash: 6f23e81e6ae3393f555ae54d76cbf2314bad839569f6d024fcbda61562a49c47
+    content: Right after World War II, a branch of Aleister Crowley's Ordo Templi Orientis (O.T.O.) flourished in Los Angeles.
+    original_excerpt: Right after World War II, when a branch of Aleister Crowley’s O.T.O. [Ordo Templi Orientis...] flourished
+      in Los Angeles
+    claim_type: observation
+    attestation: first_hand
+    speaker:
+      node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
+      title: Jacques Vallée
+    provenance_chain:
+      origin_kind: speaker
+      origin: Jacques Vallée
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 383fc644-c1b4-4a39-bf62-5b14ba2db5cc
+        title: Aleister Crowley
+        slug: aleister-crowley
+      - node_id: 96b7973f-154d-40e4-8b19-81d26c7d53d6
+        title: USA, California, Los Angeles
+        slug: california-los-angeles-usa
+      - node_id: f7ed2e8d-70e7-4545-b17d-444f3c688a59
+        title: Ordo Templi Orientis (O.T.O.)
+        slug: ordo-templi-orientis-oto
+    date: null
+    date_end: null
+    location_in_record: ch13:9589-9671
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: f0690aba-c78b-47f4-bb2f-f94ea04d55ee
+      record_title: 'Messengers of Deception: UFO Contacts and Cults'
+      record_date: '0101-01-01'
+      record_reference: null
+      content_hash: sha256:0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5ac9fd3168
+      friendly_name: 0101-01-01-ebook-messengers-of-deception-ufo-contacts-and-cults
+  - claim_id: 8a282ada-aa93-45dd-b2a1-decac0fed0b1
+    claim_hash: 9f8c71d71745606e0c2f01751bc9e07849f4916ef48ae9a54e03c63860dd023e
+    content: Aleister Crowley was himself a minor espionage figure, and his file at the Intelligence Service is said to have
+      read "Use only with the most extreme caution".
+    original_excerpt: Aleister Crowley, by the way, was himself a minor espionage figure (his file at the Intelligence Service
+      is said to have read, "Use only with the most extreme caution"), whose influence on Hitler was more imaginary than real.
+    claim_type: hearsay
+    attestation: second_hand
+    speaker:
+      node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
+      title: Jacques Vallée
+    provenance_chain:
+      origin_kind: anonymous
+      origin: unnamed source describing Aleister Crowley's Intelligence Service file
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 383fc644-c1b4-4a39-bf62-5b14ba2db5cc
+        title: Aleister Crowley
+        slug: aleister-crowley
+    date: null
+    date_end: null
+    location_in_record: ch13:9681-9901
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: f0690aba-c78b-47f4-bb2f-f94ea04d55ee
+      record_title: 'Messengers of Deception: UFO Contacts and Cults'
+      record_date: '0101-01-01'
+      record_reference: null
+      content_hash: sha256:0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5ac9fd3168
+      friendly_name: 0101-01-01-ebook-messengers-of-deception-ufo-contacts-and-cults
+  - claim_id: 00fd7d2a-3449-41d0-8ba3-215055e53fed
+    claim_hash: be027e3e626d9d4a0a91f5d8c0c6b8f77df52f5738ccd9b3209a0edb35bfd731
+    content: Aleister Crowley's influence on Adolf Hitler was more imaginary than real.
+    original_excerpt: whose influence on Hitler was more imaginary than real.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
+      title: Jacques Vallée
+    provenance_chain:
+      origin_kind: speaker
+      origin: Jacques Vallée
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 383fc644-c1b4-4a39-bf62-5b14ba2db5cc
+        title: Aleister Crowley
+        slug: aleister-crowley
+      - node_id: e95835fe-733e-4777-bb60-740d9727e2c8
+        title: Adolf Hitler
+        slug: adolf-hitler
+    date: null
+    date_end: null
+    location_in_record: ch13:9851-9901
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: f0690aba-c78b-47f4-bb2f-f94ea04d55ee
+      record_title: 'Messengers of Deception: UFO Contacts and Cults'
+      record_date: '0101-01-01'
+      record_reference: null
+      content_hash: sha256:0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5ac9fd3168
+      friendly_name: 0101-01-01-ebook-messengers-of-deception-ufo-contacts-and-cults
+  - claim_id: a25953dd-781b-42a6-a167-f522e86cf62e
+    claim_hash: af1d6efa998f7bfae4b7250406a3be83a1cb0573b960d778233189c90886217f
+    content: Jack Parsons took many of his most bizarre occult ideas from Aleister Crowley, who proclaimed himself the wickedest
+      man in the world.
+    original_excerpt: Parsons took many of his most bizarre occult ideas from the equally controversial Aleister Crowley [Fig.
+      5-20], the self-proclaimed "wickedest man in the world."
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 383fc644-c1b4-4a39-bf62-5b14ba2db5cc
+        title: Aleister Crowley
+        slug: aleister-crowley
+      - node_id: b6090b6b-63d9-473d-8d6c-bd4b5f54f24b
+        title: Jack Parsons
+        slug: jack-parsons
+    date: null
+    date_end: null
+    location_in_record: ch12:74475-74629
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+      record_title: Dark Mission
+      record_date: '2010-07-22'
+      record_reference: null
+      content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+      friendly_name: null
+  - claim_id: 358a4228-a6cf-49d0-bcc4-90e21abdf1a2
+    claim_hash: 0ca0e0cc872777a64a72face7bbccaed4dfbd4168b4dcd1c5ec55cec975cd984
+    content: After Jack Parsons spent several years as a member of Aleister Crowley's Pasadena lodge, Crowley appointed Parsons
+      to head Crowley's Southern California centre while Parsons was simultaneously employed by Caltech to develop rockets
+      for the US Army.
+    original_excerpt: After Parsons spent several years as a member of Crowley's Pasadena lodge, Crowley ultimately appointed
+      Parsons to head this Southern California center of Crowley's world-wide organization—while, simultaneously, Parsons
+      was still employed by Cal Tech to develop rockets for the U.S. Army.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 383fc644-c1b4-4a39-bf62-5b14ba2db5cc
+        title: Aleister Crowley
+        slug: aleister-crowley
+      - node_id: b6090b6b-63d9-473d-8d6c-bd4b5f54f24b
+        title: Jack Parsons
+        slug: jack-parsons
+      - node_id: ee833add-d4e3-4b62-88dd-9b9c496e8dd1
+        title: California Institute of Technology (Caltech)
+        slug: california-institute-of-technology-caltech
+    date: null
+    date_end: null
+    location_in_record: ch12:74637-74924
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+      record_title: Dark Mission
+      record_date: '2010-07-22'
+      record_reference: null
+      content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+      friendly_name: null
+  - claim_id: d83acc38-475e-4add-8c5b-c9f9e55007ec
+    claim_hash: 203a07ce1e70f639f1c8d9733ba60e01d3487fc6ef42aaf36dc2d7bbf3737718
+    content: Around December 1938, Jack Parsons fell in with Aleister Crowley's Ordo Templi Orientis at their temple in Los
+      Angeles.
+    original_excerpt: It was around December 1938, that Parsons fell in with Aleister Crowley's Ordo Templi Orientis (OTO)
+      at their temple in Los Angeles.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 383fc644-c1b4-4a39-bf62-5b14ba2db5cc
+        title: Aleister Crowley
+        slug: aleister-crowley
+      - node_id: b6090b6b-63d9-473d-8d6c-bd4b5f54f24b
+        title: Jack Parsons
+        slug: jack-parsons
+      - node_id: b8f94227-7b07-4296-b7a4-222b69e0ca03
+        title: Ordo Templi Orientis (OTO)
+        slug: ordo-templi-orientis-oto
+      - node_id: ec19fd66-d4ee-42c7-b46b-a511dc050818
+        title: USA, California, Los Angeles, Ordo Templi Orientis temple
+        slug: california-los-angeles-ordo-templi-orientis-temple-usa
+    date: 1938-12
+    date_end: null
+    location_in_record: ch12:79342-79466
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+      record_title: Dark Mission
+      record_date: '2010-07-22'
+      record_reference: null
+      content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+      friendly_name: null
+  - claim_id: 616625e9-0efc-4e6f-9908-43d669bbf248
+    claim_hash: c81b0153a74f1a7483bcd2d353843bebd2448a24cbc52f0af6994dca0738c166
+    content: Jack Parsons was initiated into the Ordo Templi Orientis in 1939 and made a major impression on fellow members,
+      including Jane Wolfe, an actress who had spent time with Aleister Crowley.
+    original_excerpt: Initiated into the Order in 1939, Parsons made a major impression on his fellow members, including Jane
+      Wolfe, an actress who had spent some time with Crowley.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 383fc644-c1b4-4a39-bf62-5b14ba2db5cc
+        title: Aleister Crowley
+        slug: aleister-crowley
+      - node_id: 553b7708-8bac-4ff7-88e3-4038c33273df
+        title: Jane Wolfe
+        slug: jane-wolfe
+      - node_id: b6090b6b-63d9-473d-8d6c-bd4b5f54f24b
+        title: Jack Parsons
+        slug: jack-parsons
+      - node_id: b8f94227-7b07-4296-b7a4-222b69e0ca03
+        title: Ordo Templi Orientis (OTO)
+        slug: ordo-templi-orientis-oto
+    date: '1939'
+    date_end: null
+    location_in_record: ch12:79475-79626
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+      record_title: Dark Mission
+      record_date: '2010-07-22'
+      record_reference: null
+      content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+      friendly_name: null
+  - claim_id: 5be16a32-b6e7-4f93-b0d0-a68a868bca7f
+    claim_hash: d682915692dccd93fd4a88d1e5f5f8ad858ba1d98a3a189ac1c1c1b819b37ea0
+    content: By the early 1940s, Jack Parsons was a rising figure in the Ordo Templi Orientis (OTO) and exchanged frequent
+      correspondence with Aleister Crowley.
+    original_excerpt: By the early 1940s, Parsons was a rising star in the OTO, and he and Crowley were exchanging letters
+      with great frequency.
+    claim_type: observation
+    attestation: first_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: speaker
+      origin: Richard C. Hoagland
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 383fc644-c1b4-4a39-bf62-5b14ba2db5cc
+        title: Aleister Crowley
+        slug: aleister-crowley
+      - node_id: b6090b6b-63d9-473d-8d6c-bd4b5f54f24b
+        title: Jack Parsons
+        slug: jack-parsons
+      - node_id: b8f94227-7b07-4296-b7a4-222b69e0ca03
+        title: Ordo Templi Orientis (OTO)
+        slug: ordo-templi-orientis-oto
+    date: '1940'
+    date_end: null
+    location_in_record: ch12:80655-80767
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+      record_title: Dark Mission
+      record_date: '2010-07-22'
+      record_reference: null
+      content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+      friendly_name: null
+  - claim_id: c1f42159-1ed5-478d-aec3-f5a5f4246da4
+    claim_hash: 86db41b8d7089f7dcca5ce1daf1529427cb085d287d44e2c14bf7a563a05e0da
+    content: Aleister Crowley was a member of numerous secret societies, including being a 33rd-degree Scottish Rite Freemason.
+    original_excerpt: a member of a multitude of secret societies (he was a 33º Scottish Rite Freemason, for one)
+    claim_type: observation
+    attestation: first_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: speaker
+      origin: Richard C. Hoagland
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 383fc644-c1b4-4a39-bf62-5b14ba2db5cc
+        title: Aleister Crowley
+        slug: aleister-crowley
+      - node_id: fd44f2f2-eea9-42b7-af12-c800e99548ab
+        title: Ancient and Accepted Scottish Rite
+        slug: ancient-and-accepted-scottish-rite
+    date: null
+    date_end: null
+    location_in_record: ch12:80877-80964
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+      record_title: Dark Mission
+      record_date: '2010-07-22'
+      record_reference: null
+      content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+      friendly_name: null
+  - claim_id: 7b76bd2c-b515-4b55-b55d-bcf07f8e7e5a
+    claim_hash: 7d9f674a389e5863824983a5a9598b60097e80b8368f142e713889a6db9cc10c
+    content: Aleister Crowley claimed that his book Book of the Law was dictated to him by an extraterrestrial named Aiwass.
+    original_excerpt: such as the Book of the Law (which he claimed was dictated to him by an extraterrestrial named "Aiwass")
+    claim_type: testimony
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: named
+      origin: Aleister Crowley
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 383fc644-c1b4-4a39-bf62-5b14ba2db5cc
+        title: Aleister Crowley
+        slug: aleister-crowley
+      - node_id: adf0d246-d092-48c2-a964-40bfb7beabf8
+        title: Book of the Law (Crowley)
+        slug: book-of-the-law-crowley
+    date: null
+    date_end: null
+    location_in_record: ch12:81120-81218
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+      record_title: Dark Mission
+      record_date: '2010-07-22'
+      record_reference: null
+      content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+      friendly_name: null
+  - claim_id: 7db8e6f4-85d7-4180-9602-64efd137d4c1
+    claim_hash: 2d182e0efc829ac129a729c3ea9808add1c0ccf8a48176c558e1330de5b79abd
+    content: Jack Parsons and Aleister Crowley worked to expand the membership of the Ordo Templi Orientis lodge in Los Angeles.
+    original_excerpt: He and Parsons set about expanding the membership of the OTO lodge in Los Angeles
+    claim_type: observation
+    attestation: first_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: speaker
+      origin: Richard C. Hoagland
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 383fc644-c1b4-4a39-bf62-5b14ba2db5cc
+        title: Aleister Crowley
+        slug: aleister-crowley
+      - node_id: b6090b6b-63d9-473d-8d6c-bd4b5f54f24b
+        title: Jack Parsons
+        slug: jack-parsons
+      - node_id: b8f94227-7b07-4296-b7a4-222b69e0ca03
+        title: Ordo Templi Orientis (OTO)
+        slug: ordo-templi-orientis-oto
+      - node_id: ec19fd66-d4ee-42c7-b46b-a511dc050818
+        title: USA, California, Los Angeles, Ordo Templi Orientis temple
+        slug: california-los-angeles-ordo-templi-orientis-temple-usa
+    date: null
+    date_end: null
+    location_in_record: ch12:81547-81621
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+      record_title: Dark Mission
+      record_date: '2010-07-22'
+      record_reference: null
+      content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+      friendly_name: null
+  - claim_id: a2b3e2a1-750f-413c-93f4-896b4b5b5424
+    claim_hash: 9b4a46307cce5b760c41129c3ef58094fda4797c1e7401f35bb2821f028175a1
+    content: In a letter dated 1946-02-23, Jack Parsons wrote to Aleister Crowley that he had obtained his elemental, referring
+      to Marjorie Cameron.
+    original_excerpt: in a letter dated February 23, 1946, wrote to Crowley "I have my elemental! She turned up one night
+      after the conclusion of the Operation, and has been with me since."
+    claim_type: testimony
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: named
+      origin: Jack Parsons
+      relay:
+        - a letter to Aleister Crowley
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 383fc644-c1b4-4a39-bf62-5b14ba2db5cc
+        title: Aleister Crowley
+        slug: aleister-crowley
+      - node_id: b6090b6b-63d9-473d-8d6c-bd4b5f54f24b
+        title: Jack Parsons
+        slug: jack-parsons
+      - node_id: d2e71755-8b24-4ea0-ba28-54f5a6726a66
+        title: Marjorie Cameron
+        slug: marjorie-cameron
+    date: '1946-02-23'
+    date_end: null
+    location_in_record: ch12:84260-84420
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+      record_title: Dark Mission
+      record_date: '2010-07-22'
+      record_reference: null
+      content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+      friendly_name: null
+  - claim_id: b5107f45-9045-469e-a31c-b0451f9dbefb
+    claim_hash: d62ecd7a1dd9bd04237a9e81c1c510906cb0206ce0ed4b54376c6f899eedd52a
+    content: Paul Rydeen wrote that Jack Parsons claimed the mantle of Antichrist for himself as the magickal heir prophesied
+      by Aleister Crowley in the Book of the Law.
+    original_excerpt: In effect, Parsons also claimed the mantle of Antichrist for himself, as the magickal heir of Crowley
+      prophesied in Liber AL
+    claim_type: opinion
+    attestation: second_hand
+    speaker:
+      node_id: 2bc776a8-dbd0-416c-92e1-9543f4156b26
+      title: Paul Rydeen
+    provenance_chain:
+      origin_kind: named
+      origin: Paul Rydeen
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 2bc776a8-dbd0-416c-92e1-9543f4156b26
+        title: Paul Rydeen
+        slug: paul-rydeen
+      - node_id: 383fc644-c1b4-4a39-bf62-5b14ba2db5cc
+        title: Aleister Crowley
+        slug: aleister-crowley
+      - node_id: adf0d246-d092-48c2-a964-40bfb7beabf8
+        title: Book of the Law (Crowley)
+        slug: book-of-the-law-crowley
+      - node_id: b6090b6b-63d9-473d-8d6c-bd4b5f54f24b
+        title: Jack Parsons
+        slug: jack-parsons
+    date: null
+    date_end: null
+    location_in_record: ch12:85992-86114
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+      record_title: Dark Mission
+      record_date: '2010-07-22'
+      record_reference: null
+      content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+      friendly_name: null
+  - claim_id: a3ff3c33-4564-4a9c-95d5-e73c3d98df84
+    claim_hash: 89e1a561550e39fd40408a77a8db3f45ff0dd8931dff138ae39791866ab62c2f
+    content: Jack Parsons and Aleister Crowley believed mankind was living in the Aeon of Osiris, a dark time when men were
+      ruled by arbitrary laws that denied them their proper birthright.
+    original_excerpt: Parsons and Crowley believed that mankind was muddled in the so-called "Aeon of Osiris"—in their view,
+      a dark time when men were ruled by arbitrary laws that denied them their proper birthright.
+    claim_type: opinion
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: named
+      origin: Jack Parsons and Aleister Crowley
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 383fc644-c1b4-4a39-bf62-5b14ba2db5cc
+        title: Aleister Crowley
+        slug: aleister-crowley
+      - node_id: 8540537f-be24-4174-a270-8b46c4a8c45b
+        title: Aeon of Osiris
+        slug: aeon-of-osiris
+      - node_id: b6090b6b-63d9-473d-8d6c-bd4b5f54f24b
+        title: Jack Parsons
+        slug: jack-parsons
+    date: null
+    date_end: null
+    location_in_record: ch12:86792-86975
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+      record_title: Dark Mission
+      record_date: '2010-07-22'
+      record_reference: null
+      content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+      friendly_name: null
+  - claim_id: b1910fc0-a024-4475-9600-de30f7988d2f
+    claim_hash: edfb5940c6b703e91df49a2cece51305ad5138f23ca91cfee66840ed26f6d8c3
+    content: Aleister Crowley became alarmed when he learned that L. Ron Hubbard and Jack Parsons were attempting to produce
+      a Moonchild.
+    original_excerpt: when Crowley caught wind of what Hubbard and Parsons were attempting, he became alarmed. "Apparently
+      Parsons and Hubbard or somebody is producing a Moonchild. I get fairly frantic when I contemplate the idiocy of these
+      louts."
+    claim_type: testimony
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: named
+      origin: Aleister Crowley
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 383fc644-c1b4-4a39-bf62-5b14ba2db5cc
+        title: Aleister Crowley
+        slug: aleister-crowley
+      - node_id: 6063296b-f65b-452e-be99-dd564ded9c39
+        title: L. Ron Hubbard
+        slug: l-ron-hubbard
+      - node_id: b6090b6b-63d9-473d-8d6c-bd4b5f54f24b
+        title: Jack Parsons
+        slug: jack-parsons
+    date: null
+    date_end: null
+    location_in_record: ch12:87184-87403
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+      record_title: Dark Mission
+      record_date: '2010-07-22'
+      record_reference: null
+      content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+      friendly_name: null
+  - claim_id: 2f4fc32a-61fb-4b2a-b5a7-72ac171612c9
+    claim_hash: e90dca1a8fc691b3b82cdc6f3a3cb69cfe2b41eeb8aedee617f8c38eb4de605e
+    content: Aleister Crowley considered neither L. Ron Hubbard nor Jack Parsons experienced enough in the methods and consequences
+      of using his Thelemic sex magick to safely raise a Moonchild.
+    original_excerpt: Crowley evidently considered the actual raising of a "Moonchild" to be an incredibly risky endeavor.
+      In his view, neither man was experienced enough in the methods (and consequences) of using Crowley's "Thelemic sex magick"
+      in this way.
+    claim_type: opinion
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: named
+      origin: Aleister Crowley
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 383fc644-c1b4-4a39-bf62-5b14ba2db5cc
+        title: Aleister Crowley
+        slug: aleister-crowley
+      - node_id: 6063296b-f65b-452e-be99-dd564ded9c39
+        title: L. Ron Hubbard
+        slug: l-ron-hubbard
+      - node_id: b6090b6b-63d9-473d-8d6c-bd4b5f54f24b
+        title: Jack Parsons
+        slug: jack-parsons
+    date: null
+    date_end: null
+    location_in_record: ch12:87411-87643
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+      record_title: Dark Mission
+      record_date: '2010-07-22'
+      record_reference: null
+      content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+      friendly_name: null
+  - claim_id: 32955ab4-86ee-40df-a010-a001297af0cb
+    claim_hash: 74bc52b81cb9283aa19ee598d66e9704fc1f57c67422562454be5a16712a29ef
+    content: Aleister Crowley wanted to remove Jack Parsons as head of the Ordo Templi Orientis in America after the Babalon
+      Working episode, but Parsons continued to lead the OTO for a few more years because of his strong support among the
+      Pasadena members, before eventually quitting.
+    original_excerpt: The whole episode soured Crowley on Parsons, to the point that he wanted to remove him as the head of
+      the OTO in America. Because he had strong support among the Pasadena members, Parsons continued to lead the OTO for
+      a few more years, but eventually quit.
+    claim_type: observation
+    attestation: first_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: speaker
+      origin: Richard C. Hoagland
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 383fc644-c1b4-4a39-bf62-5b14ba2db5cc
+        title: Aleister Crowley
+        slug: aleister-crowley
+      - node_id: b6090b6b-63d9-473d-8d6c-bd4b5f54f24b
+        title: Jack Parsons
+        slug: jack-parsons
+      - node_id: b8f94227-7b07-4296-b7a4-222b69e0ca03
+        title: Ordo Templi Orientis (OTO)
+        slug: ordo-templi-orientis-oto
+    date: null
+    date_end: null
+    location_in_record: ch12:89362-89613
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+      record_title: Dark Mission
+      record_date: '2010-07-22'
+      record_reference: null
+      content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+      friendly_name: null
+  - claim_id: 4fbd98f3-786c-4ba6-9e77-9b394206a763
+    claim_hash: c3025109dd4dae3261e8941a7153fbbfb415087d55927d858b902f7669721306
+    content: The Church of Scientology was most concerned with conveying that none of its teachings are based on the Thelemic
+      beliefs of Aleister Crowley.
+    original_excerpt: They were most concerned with conveying the message that none of their teachings are based in any way
+      on the Thelemic beliefs of Aleister Crowley.
+    claim_type: testimony
+    attestation: second_hand
+    speaker:
+      node_id: 6c762b97-ffec-4ab2-9c1d-989f0566d586
+      title: Mike Bara
+    provenance_chain:
+      origin_kind: named
+      origin: Church of Scientology
+      relay:
+        - Mike Bara
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 383fc644-c1b4-4a39-bf62-5b14ba2db5cc
+        title: Aleister Crowley
+        slug: aleister-crowley
+      - node_id: 8b6a34cc-4dc3-4ab2-b545-d3d6535b1516
+        title: Church of Scientology
+        slug: church-of-scientology
+    date: null
+    date_end: null
+    location_in_record: ch5:18074-18212
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+      record_title: Dark Mission
+      record_date: '2010-07-22'
+      record_reference: null
+      content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+      friendly_name: null
+  - claim_id: 676beb92-8657-4bac-8b1a-1e4e3359b8ca
+    claim_hash: 9247c4c9ee1345f253201c0870748632ed66b23ef55b7fee759524bc9298c37d
+    content: Mike Bara considers the Church of Scientology deserving of the benefit of the doubt on the claim that its teachings
+      are not based on the Thelemic beliefs of Aleister Crowley.
+    original_excerpt: From my limited knowledge of the practices of the Church of Scientology, it is my opinion is that the
+      Church deserves the benefit of the doubt on this point.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 6c762b97-ffec-4ab2-9c1d-989f0566d586
+      title: Mike Bara
+    provenance_chain:
+      origin_kind: speaker
+      origin: Mike Bara
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 383fc644-c1b4-4a39-bf62-5b14ba2db5cc
+        title: Aleister Crowley
+        slug: aleister-crowley
+      - node_id: 8b6a34cc-4dc3-4ab2-b545-d3d6535b1516
+        title: Church of Scientology
+        slug: church-of-scientology
+    date: null
+    date_end: null
+    location_in_record: ch5:18221-18372
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+      record_title: Dark Mission
+      record_date: '2010-07-22'
+      record_reference: null
+      content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+      friendly_name: null
+  - claim_id: c245f845-bb90-4a75-850e-db33202d6b4f
+    claim_hash: a69e2c86fe30e76c68f310fc4f474b0bfe1e8ebb4240bc85633239000ccc5f1f
+    content: Karl Germer reported directly to Aleister Crowley.
+    original_excerpt: It was also known that Germer reported to Crowley directly
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 383fc644-c1b4-4a39-bf62-5b14ba2db5cc
+        title: Aleister Crowley
+        slug: aleister-crowley
+      - node_id: d2c9e022-b9e4-4b37-97fa-32880343393c
+        title: Karl Germer
+        slug: karl-germer
+    date: null
+    date_end: null
+    location_in_record: ch5:20725-20775
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+      record_title: Dark Mission
+      record_date: '2010-07-22'
+      record_reference: null
+      content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+      friendly_name: null
+  - claim_id: c54709c7-b37a-4216-a685-c68ff208d7c5
+    claim_hash: b8dbfbd418cdc75b408d494bbfd1f975c05bd78aeb787db6a44d39c34338b8e8
+    content: Aleister Crowley was considered a possible Nazi spy.
+    original_excerpt: Crowley was also considered a possible Nazi spy
+    claim_type: hearsay
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 383fc644-c1b4-4a39-bf62-5b14ba2db5cc
+        title: Aleister Crowley
+        slug: aleister-crowley
+    date: null
+    date_end: null
+    location_in_record: ch5:20789-20833
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+      record_title: Dark Mission
+      record_date: '2010-07-22'
+      record_reference: null
+      content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+      friendly_name: null
+  - claim_id: 03de320e-c712-4d96-abac-89aea6851625
+    claim_hash: beab760ce923757a94be6724fe201114b62751ecb36fc631cccd4a42a1cce6e8
+    content: Aleister Crowley expressed his greatest magical invocations in the Enochian language, which has to be pronounced
+      in a certain way to be effective, and these invocations are still used today by his many disciples.
+    original_excerpt: Aleister Crowley, for instance, expressed his greatest magical invocations in the Enochian language,
+      which has to be pronounced in a certain way in order to be effective, and these are still used today by his many disciples.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 383fc644-c1b4-4a39-bf62-5b14ba2db5cc
+        title: Aleister Crowley
+        slug: aleister-crowley
+      - node_id: 9bbdf4e3-624a-4f49-8570-340f59e867eb
+        title: Enochian language
+        slug: enochian-language
+    date: null
+    date_end: null
+    location_in_record: ch11:32015-32229
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 220315f4-29cd-4c89-8860-44f95613d98f
+      record_title: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About UFO Influences on the Human Race'
+      record_date: '2014-09-27'
+      record_reference: null
+      content_hash: sha256:5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b8489cc11c26
+      friendly_name: 2014-09-27-ebook-the-invisible-college-what-a-group-of-scientists-has
+  - claim_id: 89b8270c-54ab-4a51-8a92-3451f647b1ed
+    claim_hash: 6a4fae8e0934beabfd6fb07e74abb8a488132243f7650df5eb28186d6ed42d7d
+    content: Jack Parsons collaborated with Aleister Crowley and L. Ron Hubbard while both launching rockets and engaging
+      in provocative rituals in the Los Angeles desert.
+    original_excerpt: Jack Parsons was uniquely American in that he collaborated with Aleister Crowley and L. Ron Hubbard
+      and spent time both launching rockets and engaging in provocative rituals in the Los Angeles desert.
+    claim_type: administrative
+    attestation: null
+    speaker:
+      node_id: f2daae19-9351-4a8e-b466-664f83887f61
+      title: Diana Walsh Pasulka
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 383fc644-c1b4-4a39-bf62-5b14ba2db5cc
+        title: Aleister Crowley
+        slug: aleister-crowley
+      - node_id: 6063296b-f65b-452e-be99-dd564ded9c39
+        title: L. Ron Hubbard
+        slug: l-ron-hubbard
+      - node_id: b6090b6b-63d9-473d-8d6c-bd4b5f54f24b
+        title: Jack Parsons
+        slug: jack-parsons
+    date: null
+    date_end: null
+    location_in_record: ch1:35097-35290
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 288e1100-0497-41df-ba08-9890e519b0b9
+      record_title: American Cosmic
+      record_date: '2019'
+      record_reference: null
+      content_hash: sha256:ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b16ac4758
+      friendly_name: 2019-ebook-american-cosmic

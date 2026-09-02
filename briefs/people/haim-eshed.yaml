@@ -1,0 +1,623 @@
+schema: anomalica/brief/1
+brief_hash: f75bb978a809def26313f8ff5cff66d68914006a9eb94763788c9b84c580bfae
+page:
+  kind: entity
+  node_id: 0e3a61c6-53fe-4d1d-ac5d-cbd4d60349bd
+  node_type: person
+  title: Haim Eshed
+  slug: haim-eshed
+  claim_count: 15
+  claim_count_total: 15
+generated:
+  graph_version: '2026-09-01T10:10:49.863545+00:00'
+size:
+  claims: 15
+  tokens_estimated: 4301
+  sized_against: 1050000
+publication:
+  status: published
+  note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
+    transcripts are gated elsewhere.
+belonging:
+  verified: 0
+  suspect_excluded: 0
+  unreviewed: 15
+related_nodes:
+  - node_id: c16c86b6-7526-46cd-bcd8-7f74283ebf2c
+    title: Jonathan Caplan
+    node_type: person
+    slug: jonathan-caplan
+    shared_claims: 7
+  - node_id: 63d7ff4f-81fd-43aa-a61f-3d3a3cec7477
+    title: Galactic Federation
+    node_type: topic
+    slug: galactic-federation
+    shared_claims: 3
+  - node_id: 24d00311-06ac-46a1-a2f5-c99f3f8e21b2
+    title: Chris Ramsay
+    node_type: person
+    slug: chris-ramsay
+    shared_claims: 1
+  - node_id: 6b42ed17-f30c-4863-ad71-f939193f2c03
+    title: Gary McKinnon
+    node_type: person
+    slug: gary-mckinnon
+    shared_claims: 1
+  - node_id: e6eacc23-8cba-4646-b086-dd6835a7a638
+    title: Israel Space Agency
+    node_type: organisation
+    slug: israel-space-agency
+    shared_claims: 1
+  - node_id: 3ff00526-613c-4cdc-a367-997e5159383a
+    title: Paul Hellyer
+    node_type: person
+    slug: paul-hellyer
+    shared_claims: 1
+  - node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+    title: Ross Coulthart
+    node_type: person
+    slug: ross-coulthart
+    shared_claims: 1
+  - node_id: 92395963-b6b1-4e27-9885-b1dae7b11687
+    title: Secret space program
+    node_type: topic
+    slug: secret-space-program
+    shared_claims: 1
+claims:
+  - claim_id: 433465e0-974a-4c43-8ac0-a7e419ccc02d
+    claim_hash: e120c17eb3a032276d3d200ee82e648fa0d9cad3a99197e9192bf9ce81de39e8
+    content: Chris Ramsay considers Gary McKinnon's account, along with that of Haim Eshed, one of the few corroborating anecdotal
+      pieces of evidence for the existence of a secret space program.
+    original_excerpt: It's one of the few other corroborating sort of anecdotal pieces of evidence that we have confirming
+      this secret space program other than perhaps Haim Eshed, who also mentions this as well.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 24d00311-06ac-46a1-a2f5-c99f3f8e21b2
+      title: Chris Ramsay
+    provenance_chain:
+      origin_kind: speaker
+      origin: Chris Ramsay
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 0e3a61c6-53fe-4d1d-ac5d-cbd4d60349bd
+        title: Haim Eshed
+        slug: haim-eshed
+      - node_id: 24d00311-06ac-46a1-a2f5-c99f3f8e21b2
+        title: Chris Ramsay
+        slug: chris-ramsay
+      - node_id: 6b42ed17-f30c-4863-ad71-f939193f2c03
+        title: Gary McKinnon
+        slug: gary-mckinnon
+      - node_id: 92395963-b6b1-4e27-9885-b1dae7b11687
+        title: Secret space program
+        slug: secret-space-program
+    date: null
+    date_end: null
+    location_in_record: 00:46:49.8-00:47:02.6
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: fd845823-8784-462c-a981-4775525b6f84
+      record_title: The DANGEROUS Truth About UFOs - Ross Coulthart | DEBRIEFED ep. 76
+      record_date: '2026-02-20'
+      record_reference: https://www.youtube.com/watch?v=idBryc0eWww
+      content_hash: sha256:73be106d406f6d35a063a894e8384e7da0918eb8597d2107a9e3653becca2bdc
+      friendly_name: null
+  - claim_id: bedaa7f4-e9bb-4ed2-a9e7-826c11e4d13c
+    claim_hash: aa7d22968ee8ee82d3845015075294d4c1a3318700394fad88763b9b34218935
+    content: Haim Eshed, the former Israel Space Agency boss, made allegations in an interview with an Israeli Hebrew-language
+      newspaper of a Galactic Federation, of recovered craft, and of United States collaboration in the recovery and reverse
+      engineering of non-human technology.
+    original_excerpt: the claims of Haim Eshed, the former Israeli space agency boss, who very controversially gave an interview
+      to an Israeli newspaper, Hebrew language newspaper, in which he made extraordinary allegations of a galactic federation
+      of recovered craft, of US collaboration in the recovery of and reverse engineering of non-human technology
+    claim_type: hearsay
+    attestation: second_hand
+    speaker:
+      node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+      title: Ross Coulthart
+    provenance_chain:
+      origin_kind: named
+      origin: Haim Eshed
+      relay:
+        - an Israeli Hebrew-language newspaper interview
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 0e3a61c6-53fe-4d1d-ac5d-cbd4d60349bd
+        title: Haim Eshed
+        slug: haim-eshed
+      - node_id: 63d7ff4f-81fd-43aa-a61f-3d3a3cec7477
+        title: Galactic Federation
+        slug: galactic-federation
+      - node_id: e6eacc23-8cba-4646-b086-dd6835a7a638
+        title: Israel Space Agency
+        slug: israel-space-agency
+    date: null
+    date_end: null
+    location_in_record: 01:18:07.2-01:18:32.4
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: d17e43f2-fe6c-4a2d-824d-fd379e6891c5
+      record_title: Watergate, the JFK assassination and a UFO secret at the center of it all | Reality Check
+      record_date: '2026-06-18'
+      record_reference: https://www.youtube.com/watch?v=PeULVsP-jEQ
+      content_hash: sha256:997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc07360cb2ab1
+      friendly_name: null
+  - claim_id: c021a2f4-420a-4775-b0a9-a6bc73cddbcf
+    claim_hash: 973f6f3715341ea9b6e906a935698d375f8755576a7823ded76abd9cdfa6d29a
+    content: Ross Coulthart was not sure he would feel 100% confident about Haim Eshed's mental capacities after watching
+      the video interview with Uri Geller.
+    original_excerpt: I wasn't quite sure that I would feel 100% about Haim's mental capacities.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+      title: Ross Coulthart
+    provenance_chain:
+      origin_kind: speaker
+      origin: Ross Coulthart
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 0e3a61c6-53fe-4d1d-ac5d-cbd4d60349bd
+        title: Haim Eshed
+        slug: haim-eshed
+      - node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+        title: Ross Coulthart
+        slug: ross-coulthart
+    date: null
+    date_end: null
+    location_in_record: 01:18:48.7-01:18:53.8
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: d17e43f2-fe6c-4a2d-824d-fd379e6891c5
+      record_title: Watergate, the JFK assassination and a UFO secret at the center of it all | Reality Check
+      record_date: '2026-06-18'
+      record_reference: https://www.youtube.com/watch?v=PeULVsP-jEQ
+      content_hash: sha256:997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc07360cb2ab1
+      friendly_name: null
+  - claim_id: ac7d2724-6b68-4b99-9455-153469a22f89
+    claim_hash: 367efcca9c90d28bc1f57144cfe56f422bac6d8071c430ec7198f4468bc07b9a
+    content: Haim Eshed's book provoked huge international interest when it was published, although it has never been translated
+      into English.
+    original_excerpt: when that book came out, it provoked international, huge international interest, although it's never
+      been translated into English.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: c16c86b6-7526-46cd-bcd8-7f74283ebf2c
+      title: Jonathan Caplan
+    provenance_chain:
+      origin_kind: speaker
+      origin: Jonathan Caplan
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 0e3a61c6-53fe-4d1d-ac5d-cbd4d60349bd
+        title: Haim Eshed
+        slug: haim-eshed
+    date: null
+    date_end: null
+    location_in_record: 01:19:10.1-01:19:17.2
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: d17e43f2-fe6c-4a2d-824d-fd379e6891c5
+      record_title: Watergate, the JFK assassination and a UFO secret at the center of it all | Reality Check
+      record_date: '2026-06-18'
+      record_reference: https://www.youtube.com/watch?v=PeULVsP-jEQ
+      content_hash: sha256:997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc07360cb2ab1
+      friendly_name: null
+  - claim_id: 9e60098b-4e33-4ae3-b3d3-08bd9dfdaaa4
+    claim_hash: 24c55be1493ad084009cfce03f0aaeabac4665ab0f7a4e233b48a382040d49b4
+    content: Jonathan Caplan had Haim Eshed's book translated from Hebrew.
+    original_excerpt: I did get it translated from Hebrew.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: c16c86b6-7526-46cd-bcd8-7f74283ebf2c
+      title: Jonathan Caplan
+    provenance_chain:
+      origin_kind: speaker
+      origin: Jonathan Caplan
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 0e3a61c6-53fe-4d1d-ac5d-cbd4d60349bd
+        title: Haim Eshed
+        slug: haim-eshed
+      - node_id: c16c86b6-7526-46cd-bcd8-7f74283ebf2c
+        title: Jonathan Caplan
+        slug: jonathan-caplan
+    date: null
+    date_end: null
+    location_in_record: 01:19:17.8-01:19:19.1
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: d17e43f2-fe6c-4a2d-824d-fd379e6891c5
+      record_title: Watergate, the JFK assassination and a UFO secret at the center of it all | Reality Check
+      record_date: '2026-06-18'
+      record_reference: https://www.youtube.com/watch?v=PeULVsP-jEQ
+      content_hash: sha256:997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc07360cb2ab1
+      friendly_name: null
+  - claim_id: ff588657-1fab-4b9a-9369-8a868f08ad30
+    claim_hash: b57f1a0f3ffafaada7b91f8df9cb183e0bef1241f162b33683b107d4f15ff072
+    content: Haim Eshed's book describes the Galactic Federation as a group of Non-Human Intelligences (NHI) who have humanity's
+      best interests at heart and who are in touch with the Americans and some other countries.
+    original_excerpt: there's a group called the Galactic Federation. It's a group of NHIs who have our best interests at
+      heart and who are in touch with the Americans and some other countries.
+    claim_type: hearsay
+    attestation: second_hand
+    speaker:
+      node_id: c16c86b6-7526-46cd-bcd8-7f74283ebf2c
+      title: Jonathan Caplan
+    provenance_chain:
+      origin_kind: named
+      origin: Haim Eshed
+      relay:
+        - Haim Eshed's book
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 0e3a61c6-53fe-4d1d-ac5d-cbd4d60349bd
+        title: Haim Eshed
+        slug: haim-eshed
+      - node_id: 63d7ff4f-81fd-43aa-a61f-3d3a3cec7477
+        title: Galactic Federation
+        slug: galactic-federation
+    date: null
+    date_end: null
+    location_in_record: 01:19:21.9-01:19:32.5
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: d17e43f2-fe6c-4a2d-824d-fd379e6891c5
+      record_title: Watergate, the JFK assassination and a UFO secret at the center of it all | Reality Check
+      record_date: '2026-06-18'
+      record_reference: https://www.youtube.com/watch?v=PeULVsP-jEQ
+      content_hash: sha256:997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc07360cb2ab1
+      friendly_name: null
+  - claim_id: 17263600-82af-4aaf-a595-80dcd7820b06
+    claim_hash: 6ae7a8bafcfa9020aa99a1994677592329719be34ff16b35b9757aafe038ec87
+    content: Haim Eshed's book discusses other crashes of non-human craft that are not well known.
+    original_excerpt: he goes on in the book, in fact, to talk about other crashes, which aren't well known.
+    claim_type: hearsay
+    attestation: second_hand
+    speaker:
+      node_id: c16c86b6-7526-46cd-bcd8-7f74283ebf2c
+      title: Jonathan Caplan
+    provenance_chain:
+      origin_kind: named
+      origin: Haim Eshed
+      relay:
+        - Haim Eshed's book
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 0e3a61c6-53fe-4d1d-ac5d-cbd4d60349bd
+        title: Haim Eshed
+        slug: haim-eshed
+    date: null
+    date_end: null
+    location_in_record: 01:19:40.6-01:19:46.4
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: d17e43f2-fe6c-4a2d-824d-fd379e6891c5
+      record_title: Watergate, the JFK assassination and a UFO secret at the center of it all | Reality Check
+      record_date: '2026-06-18'
+      record_reference: https://www.youtube.com/watch?v=PeULVsP-jEQ
+      content_hash: sha256:997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc07360cb2ab1
+      friendly_name: null
+  - claim_id: 5187f6b2-95f6-4c2f-aeaf-a6f17ca5f731
+    claim_hash: 6fead2293fd0c47b7490d6203ce0cbbe7852e672fa9e8bfa99807bab312f4ba8
+    content: Haim Eshed examined in detail photographs transmitted from the Martian surface and stated he could detect artificial
+      structures in some of those photographs.
+    original_excerpt: he talks about examining in great detail photographs that have come back from what landed on the Martian
+      surface and transmitted photographs and how he can detect from some of those photographs artificial structures.
+    claim_type: hearsay
+    attestation: second_hand
+    speaker:
+      node_id: c16c86b6-7526-46cd-bcd8-7f74283ebf2c
+      title: Jonathan Caplan
+    provenance_chain:
+      origin_kind: named
+      origin: Haim Eshed
+      relay:
+        - Haim Eshed's book
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 0e3a61c6-53fe-4d1d-ac5d-cbd4d60349bd
+        title: Haim Eshed
+        slug: haim-eshed
+    date: null
+    date_end: null
+    location_in_record: 01:19:47.5-01:20:03.6
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: d17e43f2-fe6c-4a2d-824d-fd379e6891c5
+      record_title: Watergate, the JFK assassination and a UFO secret at the center of it all | Reality Check
+      record_date: '2026-06-18'
+      record_reference: https://www.youtube.com/watch?v=PeULVsP-jEQ
+      content_hash: sha256:997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc07360cb2ab1
+      friendly_name: null
+  - claim_id: a817a843-da97-4656-ba46-a5a9d7ceb9cd
+    claim_hash: 2a15c0cdc433d04060ef0dd6de0b53933e4261a8518ca2b08920f7ab6b8ddd36
+    content: Jonathan Caplan travelled to Israel and tried to contact Haim Eshed, who was not speaking to anybody.
+    original_excerpt: So I did go to Israel. I tried to contact him. He wasn't speaking to anybody.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: c16c86b6-7526-46cd-bcd8-7f74283ebf2c
+      title: Jonathan Caplan
+    provenance_chain:
+      origin_kind: speaker
+      origin: Jonathan Caplan
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 0e3a61c6-53fe-4d1d-ac5d-cbd4d60349bd
+        title: Haim Eshed
+        slug: haim-eshed
+      - node_id: c16c86b6-7526-46cd-bcd8-7f74283ebf2c
+        title: Jonathan Caplan
+        slug: jonathan-caplan
+    date: null
+    date_end: null
+    location_in_record: 01:20:04.9-01:20:08.7
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: d17e43f2-fe6c-4a2d-824d-fd379e6891c5
+      record_title: Watergate, the JFK assassination and a UFO secret at the center of it all | Reality Check
+      record_date: '2026-06-18'
+      record_reference: https://www.youtube.com/watch?v=PeULVsP-jEQ
+      content_hash: sha256:997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc07360cb2ab1
+      friendly_name: null
+  - claim_id: d27ed1e6-f05d-4ab7-af72-22dec3117db0
+    claim_hash: 95e02b901ae0c15e940ba4a60ff8320e499ea3d9e8d0fa7748908a862f66e4cb
+    content: Jonathan Caplan contacted the journalist who co-wrote Haim Eshed's book, who told him she was not allowed to
+      speak about the book.
+    original_excerpt: I contacted the journalist who co-wrote the book with him. She told me that she wasn't allowed to speak
+      about the book.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: c16c86b6-7526-46cd-bcd8-7f74283ebf2c
+      title: Jonathan Caplan
+    provenance_chain:
+      origin_kind: speaker
+      origin: Jonathan Caplan
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 0e3a61c6-53fe-4d1d-ac5d-cbd4d60349bd
+        title: Haim Eshed
+        slug: haim-eshed
+      - node_id: c16c86b6-7526-46cd-bcd8-7f74283ebf2c
+        title: Jonathan Caplan
+        slug: jonathan-caplan
+    date: null
+    date_end: null
+    location_in_record: 01:20:09.8-01:20:16.9
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: d17e43f2-fe6c-4a2d-824d-fd379e6891c5
+      record_title: Watergate, the JFK assassination and a UFO secret at the center of it all | Reality Check
+      record_date: '2026-06-18'
+      record_reference: https://www.youtube.com/watch?v=PeULVsP-jEQ
+      content_hash: sha256:997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc07360cb2ab1
+      friendly_name: null
+  - claim_id: 0ba0f59f-f686-4cfa-a989-0368a72b84bf
+    claim_hash: 77c779868f8f1f4b7af9f23f4a0d52f8cecf01d5e7160b34fe71277a1b963c64
+    content: Jonathan Caplan has no idea from where Haim Eshed might have got the information he claims about crashes and
+      non-human intelligence contact.
+    original_excerpt: as time has gone on, I have no idea from where Haim Eshed might have got the information which he is
+      claiming.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: c16c86b6-7526-46cd-bcd8-7f74283ebf2c
+      title: Jonathan Caplan
+    provenance_chain:
+      origin_kind: speaker
+      origin: Jonathan Caplan
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 0e3a61c6-53fe-4d1d-ac5d-cbd4d60349bd
+        title: Haim Eshed
+        slug: haim-eshed
+      - node_id: c16c86b6-7526-46cd-bcd8-7f74283ebf2c
+        title: Jonathan Caplan
+        slug: jonathan-caplan
+    date: null
+    date_end: null
+    location_in_record: 01:20:26.4-01:20:36.1
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: d17e43f2-fe6c-4a2d-824d-fd379e6891c5
+      record_title: Watergate, the JFK assassination and a UFO secret at the center of it all | Reality Check
+      record_date: '2026-06-18'
+      record_reference: https://www.youtube.com/watch?v=PeULVsP-jEQ
+      content_hash: sha256:997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc07360cb2ab1
+      friendly_name: null
+  - claim_id: ac7f13c3-6f43-40da-bf1d-363277b65b7b
+    claim_hash: 420ebee3124ec1abc615c9cec92dc80ba517b879737456b3b5b11fbd57f91c64
+    content: Paul Hellyer doubted the Galactic Federation story described by Haim Eshed, although he had confirmed that he
+      was told many races have visited Earth.
+    original_excerpt: He doubted the Galactic Federation story, actually, although of course he's confirmed that he was told
+      that many races have visited Earth.
+    claim_type: testimony
+    attestation: second_hand
+    speaker:
+      node_id: c16c86b6-7526-46cd-bcd8-7f74283ebf2c
+      title: Jonathan Caplan
+    provenance_chain:
+      origin_kind: named
+      origin: Paul Hellyer
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 0e3a61c6-53fe-4d1d-ac5d-cbd4d60349bd
+        title: Haim Eshed
+        slug: haim-eshed
+      - node_id: 3ff00526-613c-4cdc-a367-997e5159383a
+        title: Paul Hellyer
+        slug: paul-hellyer
+      - node_id: 63d7ff4f-81fd-43aa-a61f-3d3a3cec7477
+        title: Galactic Federation
+        slug: galactic-federation
+    date: null
+    date_end: null
+    location_in_record: 01:20:42.4-01:20:50.3
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: d17e43f2-fe6c-4a2d-824d-fd379e6891c5
+      record_title: Watergate, the JFK assassination and a UFO secret at the center of it all | Reality Check
+      record_date: '2026-06-18'
+      record_reference: https://www.youtube.com/watch?v=PeULVsP-jEQ
+      content_hash: sha256:997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc07360cb2ab1
+      friendly_name: null
+  - claim_id: f54ba0f6-aae6-4617-99e0-b6db595943a2
+    claim_hash: 832b6a96b6b0777e3b9320b64a629ddfd45bcbec82116dae8028f11ed472474c
+    content: Jonathan Caplan considers that it cannot be established that Haim Eshed received his claimed information officially,
+      and that it should be taken with a degree of scepticism.
+    original_excerpt: Because I don't think we can establish that Haim Eshed has received this information officially, I think
+      I'd have to say one should take it with a pinch of salt at the moment.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: c16c86b6-7526-46cd-bcd8-7f74283ebf2c
+      title: Jonathan Caplan
+    provenance_chain:
+      origin_kind: speaker
+      origin: Jonathan Caplan
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 0e3a61c6-53fe-4d1d-ac5d-cbd4d60349bd
+        title: Haim Eshed
+        slug: haim-eshed
+      - node_id: c16c86b6-7526-46cd-bcd8-7f74283ebf2c
+        title: Jonathan Caplan
+        slug: jonathan-caplan
+    date: null
+    date_end: null
+    location_in_record: 01:20:54.0-01:21:07.2
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: d17e43f2-fe6c-4a2d-824d-fd379e6891c5
+      record_title: Watergate, the JFK assassination and a UFO secret at the center of it all | Reality Check
+      record_date: '2026-06-18'
+      record_reference: https://www.youtube.com/watch?v=PeULVsP-jEQ
+      content_hash: sha256:997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc07360cb2ab1
+      friendly_name: null
+  - claim_id: 4f073c27-d5b3-4806-a4b6-d84f58fae78d
+    claim_hash: 31a4d308eb40b70ceb85a9f680790c8cfb589f6e31a1440bad820e363414c1e7
+    content: Jonathan Caplan reports some crashes described by Haim Eshed in his book that have not appeared elsewhere and
+      may well be genuine.
+    original_excerpt: Some of them have, which I've reported in the book, haven't appeared elsewhere and they may well be
+      genuine.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: c16c86b6-7526-46cd-bcd8-7f74283ebf2c
+      title: Jonathan Caplan
+    provenance_chain:
+      origin_kind: speaker
+      origin: Jonathan Caplan
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 0e3a61c6-53fe-4d1d-ac5d-cbd4d60349bd
+        title: Haim Eshed
+        slug: haim-eshed
+      - node_id: c16c86b6-7526-46cd-bcd8-7f74283ebf2c
+        title: Jonathan Caplan
+        slug: jonathan-caplan
+    date: null
+    date_end: null
+    location_in_record: 01:21:17.4-01:21:22.3
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: d17e43f2-fe6c-4a2d-824d-fd379e6891c5
+      record_title: Watergate, the JFK assassination and a UFO secret at the center of it all | Reality Check
+      record_date: '2026-06-18'
+      record_reference: https://www.youtube.com/watch?v=PeULVsP-jEQ
+      content_hash: sha256:997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc07360cb2ab1
+      friendly_name: null
+  - claim_id: cfca451c-1c80-4e29-ad28-6288231348bd
+    claim_hash: e866d2fcb23e6e14fd2903d6676c6c9fc0049f6ed4f113c12e81048a6d3c3bb4
+    content: Jonathan Caplan considers Haim Eshed's claims about non-human intelligence contact to be Eshed's personal view
+      rather than information he has been officially notified of.
+    original_excerpt: I think it's best to say that's his personal view rather than of information which he's been officially
+      notified of.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: c16c86b6-7526-46cd-bcd8-7f74283ebf2c
+      title: Jonathan Caplan
+    provenance_chain:
+      origin_kind: speaker
+      origin: Jonathan Caplan
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 0e3a61c6-53fe-4d1d-ac5d-cbd4d60349bd
+        title: Haim Eshed
+        slug: haim-eshed
+      - node_id: c16c86b6-7526-46cd-bcd8-7f74283ebf2c
+        title: Jonathan Caplan
+        slug: jonathan-caplan
+    date: null
+    date_end: null
+    location_in_record: 01:21:32.7-01:21:39.5
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: d17e43f2-fe6c-4a2d-824d-fd379e6891c5
+      record_title: Watergate, the JFK assassination and a UFO secret at the center of it all | Reality Check
+      record_date: '2026-06-18'
+      record_reference: https://www.youtube.com/watch?v=PeULVsP-jEQ
+      content_hash: sha256:997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc07360cb2ab1
+      friendly_name: null

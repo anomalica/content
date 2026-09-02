@@ -1,0 +1,229 @@
+schema: anomalica/brief/1
+brief_hash: 38eef909ec9f2501a78b23e8a3eeefee84cba7b2e2e552ad6ce56234f981524d
+page:
+  kind: entity
+  node_id: e6dedf4e-2500-4eac-8289-0589be5e0c8c
+  node_type: person
+  title: George Hansen
+  slug: george-hansen
+  claim_count: 5
+  claim_count_total: 5
+generated:
+  graph_version: '2026-09-01T10:10:49.863545+00:00'
+size:
+  claims: 5
+  tokens_estimated: 1533
+  sized_against: 1050000
+publication:
+  status: published
+  note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
+    transcripts are gated elsewhere.
+belonging:
+  verified: 0
+  suspect_excluded: 0
+  unreviewed: 5
+related_nodes:
+  - node_id: 65480ae6-531e-4a7b-878c-cae6bd0bac3e
+    title: Princeton Engineering Anomalies Research (PEAR)
+    node_type: organisation
+    slug: princeton-engineering-anomalies-research-pear
+    shared_claims: 2
+  - node_id: 41c9281c-4a11-4399-b324-a8486a96c766
+    title: Remote Viewing (RV)
+    node_type: topic
+    slug: remote-viewing-rv
+    shared_claims: 1
+  - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
+    title: Unidentified Flying Object (UFO)
+    node_type: topic
+    slug: unidentified-flying-object-ufo
+    shared_claims: 1
+claims:
+  - claim_id: 4e1a2097-d091-4ab7-a125-4091c66f3ac3
+    claim_hash: 6d25d833ce31119f84d099e024db431ad59d4cdb7097b39d974157dfc046f3c1
+    content: George Hansen raised methodological criticism of the Princeton Engineering Anomalies Research (PEAR) group's
+      data.
+    original_excerpt: has been subjected to some methodological criticism (Hansen et al., 1992; Bobyns, Y., 1992)
+    claim_type: opinion
+    attestation: second_hand
+    speaker:
+      node_id: 4c9fa76a-2f7b-4f4f-964a-7dd041c19d6c
+      title: S. James P. Spottiswoode
+    provenance_chain:
+      origin_kind: named
+      origin: George Hansen
+      relay:
+        - S. James P. Spottiswoode's paper
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 65480ae6-531e-4a7b-878c-cae6bd0bac3e
+        title: Princeton Engineering Anomalies Research (PEAR)
+        slug: princeton-engineering-anomalies-research-pear
+      - node_id: e6dedf4e-2500-4eac-8289-0589be5e0c8c
+        title: George Hansen
+        slug: george-hansen
+    date: '1992'
+    date_end: null
+    location_in_record: ch29:8667-8753
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 6e543cda-3973-4882-854c-929a9aa608ab
+      record_title: Remote Viewing Secrets
+      record_date: '2013-03-22'
+      record_reference: null
+      content_hash: sha256:498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4d6dbbe35
+      friendly_name: 2013-03-22-ebook-remote-viewing-secrets
+  - claim_id: 75483371-7650-4a93-8012-ac7cf2cfe680
+    claim_hash: bcbb2aa6d091299b1c542fc2cf0978600927beecf63b71748405d3a7d8db5b01
+    content: The Princeton Engineering Anomalies Research remote viewing experiments were subjected to methodological criticism
+      by George Hansen in 1992.
+    original_excerpt: The PEAR remote viewing experiments have been subjected to some methodological criticism (Hansen et
+      al, 1992; Dobyns, Y., 1992)
+    claim_type: opinion
+    attestation: second_hand
+    speaker:
+      node_id: e6dedf4e-2500-4eac-8289-0589be5e0c8c
+      title: George Hansen
+    provenance_chain:
+      origin_kind: named
+      origin: George Hansen
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 41c9281c-4a11-4399-b324-a8486a96c766
+        title: Remote Viewing (RV)
+        slug: remote-viewing-rv
+      - node_id: 65480ae6-531e-4a7b-878c-cae6bd0bac3e
+        title: Princeton Engineering Anomalies Research (PEAR)
+        slug: princeton-engineering-anomalies-research-pear
+      - node_id: e6dedf4e-2500-4eac-8289-0589be5e0c8c
+        title: George Hansen
+        slug: george-hansen
+    date: '1992'
+    date_end: null
+    location_in_record: ch31:5265-5387
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 6e543cda-3973-4882-854c-929a9aa608ab
+      record_title: Remote Viewing Secrets
+      record_date: '2013-03-22'
+      record_reference: null
+      content_hash: sha256:498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4d6dbbe35
+      friendly_name: 2013-03-22-ebook-remote-viewing-secrets
+  - claim_id: b51bc3f6-424c-42b6-a919-467ca6e4ab65
+    claim_hash: 6740e71b43df4d1335085a622f5af84253ee62c4266df08d527c64393fb11a9d
+    content: George Hansen argues that a trickster element of absurdity is inherent to the paranormal and the supernatural,
+      including UFOs.
+    original_excerpt: He argues that a trickster element of absurdity is inherent to the paranormal and the supernatural,
+      including UFOs.
+    claim_type: opinion
+    attestation: second_hand
+    speaker:
+      node_id: e6dedf4e-2500-4eac-8289-0589be5e0c8c
+      title: George Hansen
+    provenance_chain:
+      origin_kind: named
+      origin: George Hansen
+      relay:
+        - The Trickster and the Paranormal
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
+        title: Unidentified Flying Object (UFO)
+        slug: unidentified-flying-object-ufo
+      - node_id: e6dedf4e-2500-4eac-8289-0589be5e0c8c
+        title: George Hansen
+        slug: george-hansen
+    date: null
+    date_end: null
+    location_in_record: ch5:14738-14848
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 288e1100-0497-41df-ba08-9890e519b0b9
+      record_title: American Cosmic
+      record_date: '2019'
+      record_reference: null
+      content_hash: sha256:ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b16ac4758
+      friendly_name: 2019-ebook-american-cosmic
+  - claim_id: cd2e7ab4-15be-4e67-9ac9-498a3d44bd88
+    claim_hash: dc675b642a190e8a0ae1382c9c2cf777caa9e5440f828bc5dbde13b85ec3c573
+    content: George Hansen's central theme is that psi, the paranormal, and the supernatural are fundamentally linked to destructuring,
+      change, transition, disorder, marginality, the ephemeral, fluidity, ambiguity, and blurring of boundaries, while phenomena
+      are repressed or excluded with order, structure, routine, stasis, regularity, precision, rigidity, and clear demarcation.
+    original_excerpt: His central theme is that "psi, the paranormal, and the supernatural are fundamentally linked to destructuring,
+      change, transition, disorder, marginality, the ephemeral, fluidity, ambiguity, and blurring of boundaries. In contrast,
+      the phenomena are repressed or excluded with order, structure, routine, stasis, regularity, precision, rigidity, and
+      clear demarcation."
+    claim_type: opinion
+    attestation: second_hand
+    speaker:
+      node_id: e6dedf4e-2500-4eac-8289-0589be5e0c8c
+      title: George Hansen
+    provenance_chain:
+      origin_kind: named
+      origin: George Hansen
+      relay:
+        - The Trickster and the Paranormal
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: e6dedf4e-2500-4eac-8289-0589be5e0c8c
+        title: George Hansen
+        slug: george-hansen
+    date: null
+    date_end: null
+    location_in_record: ch5:14854-15209
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 288e1100-0497-41df-ba08-9890e519b0b9
+      record_title: American Cosmic
+      record_date: '2019'
+      record_reference: null
+      content_hash: sha256:ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b16ac4758
+      friendly_name: 2019-ebook-american-cosmic
+  - claim_id: 86bdc84f-1c4b-4389-bc3d-78f03bd6af23
+    claim_hash: 3e655394cb6f1931e691f990b24e65b6e1623d936b72fa094ceedf07984de1de
+    content: George Hansen links the proliferation of practices and beliefs associated with the paranormal to cultural revolutions
+      or instability.
+    original_excerpt: He links the proliferation of practices and beliefs associated with the paranormal to cultural revolutions
+      or instability.
+    claim_type: opinion
+    attestation: second_hand
+    speaker:
+      node_id: e6dedf4e-2500-4eac-8289-0589be5e0c8c
+      title: George Hansen
+    provenance_chain:
+      origin_kind: named
+      origin: George Hansen
+      relay:
+        - The Trickster and the Paranormal
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: e6dedf4e-2500-4eac-8289-0589be5e0c8c
+        title: George Hansen
+        slug: george-hansen
+    date: null
+    date_end: null
+    location_in_record: ch5:15225-15335
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 288e1100-0497-41df-ba08-9890e519b0b9
+      record_title: American Cosmic
+      record_date: '2019'
+      record_reference: null
+      content_hash: sha256:ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b16ac4758
+      friendly_name: 2019-ebook-american-cosmic

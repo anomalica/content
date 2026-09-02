@@ -1,0 +1,216 @@
+schema: anomalica/brief/1
+brief_hash: 2a75212fac8ccb8bf8c4261dd0a2f64ec32917654a8f3f82a948c41b2b5ba410
+page:
+  kind: entity
+  node_id: 0c950a77-cc2b-4bb3-86ec-b49e0402abd7
+  node_type: person
+  title: Eric Weinstein
+  slug: eric-weinstein
+  claim_count: 4
+  claim_count_total: 4
+generated:
+  graph_version: '2026-09-01T10:10:49.863545+00:00'
+size:
+  claims: 4
+  tokens_estimated: 1201
+  sized_against: 1050000
+publication:
+  status: published
+  note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
+    transcripts are gated elsewhere.
+belonging:
+  verified: 0
+  suspect_excluded: 0
+  unreviewed: 4
+related_nodes:
+  - node_id: e4f25bff-6da6-4885-902f-6daaf7e4be86
+    title: Jesse Michels video with Eric Weinstein and Eric Davis
+    node_type: document
+    slug: jesse-michels-video-with-eric-weinstein-and-eric-davis
+    shared_claims: 2
+  - node_id: 24d00311-06ac-46a1-a2f5-c99f3f8e21b2
+    title: Chris Ramsay
+    node_type: person
+    slug: chris-ramsay
+    shared_claims: 1
+  - node_id: 9ab76638-a596-48f1-9a58-9c9251cc97f3
+    title: Eric Davis
+    node_type: person
+    slug: eric-davis
+    shared_claims: 1
+  - node_id: 221cb090-6c03-4bc2-8b68-79fe700bbc2a
+    title: String theory
+    node_type: topic
+    slug: string-theory
+    shared_claims: 1
+  - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
+    title: Unidentified Anomalous Phenomena (UAP)
+    node_type: topic
+    slug: unidentified-anomalous-phenomena-uap
+    shared_claims: 1
+  - node_id: 5b203293-842f-43cf-a5af-746bf78aa31e
+    title: limited hangout
+    node_type: topic
+    slug: limited-hangout
+    shared_claims: 1
+claims:
+  - claim_id: b0ee3b55-3258-4f21-a805-257bd45f5527
+    claim_hash: 692d90eaac34d9967ca9a46e2027c858d9c2cacf383209687e838f10990f9451
+    content: In a video with Jesse Michels, Eric Weinstein put it to Eric Davis that the craft in question break physics yet
+      there are no physicists on the programme.
+    original_excerpt: Eric Weinstein is like, you're telling me these crafts break physics. and there are no physicists on
+      the program.
+    claim_type: hearsay
+    attestation: second_hand
+    speaker:
+      node_id: 079d4381-4273-418b-bc9a-468623f95c6e
+      title: Jesse Mitchells
+    provenance_chain:
+      origin_kind: named
+      origin: Eric Weinstein
+      relay:
+        - Jesse Michels, who recorded the video
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 0c950a77-cc2b-4bb3-86ec-b49e0402abd7
+        title: Eric Weinstein
+        slug: eric-weinstein
+      - node_id: 9ab76638-a596-48f1-9a58-9c9251cc97f3
+        title: Eric Davis
+        slug: eric-davis
+      - node_id: e4f25bff-6da6-4885-902f-6daaf7e4be86
+        title: Jesse Michels video with Eric Weinstein and Eric Davis
+        slug: jesse-michels-video-with-eric-weinstein-and-eric-davis
+    date: null
+    date_end: null
+    location_in_record: 00:55:26.4-00:55:31.8
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: dc9d8bc8-9c1f-46b4-9b89-8d86b6b08e1d
+      record_title: Jesse Michels, UAPGerb & Chris Ramsay - Flying Saucer Diner
+      record_date: '2026-07-17'
+      record_reference: https://www.youtube.com/watch?v=HFLBDi87888
+      content_hash: sha256:7b2e272d7c82fdda745ee0354d7c9cc4b0d5ba5506015ca27edd9169a768b262
+      friendly_name: null
+  - claim_id: 89b4dfac-f1bf-4ffb-9039-9c1c73a2d535
+    claim_hash: da73c3eea310fad9a72eb1e21bb4ebfd894564efe9cdf0c73d1818210b0f436d
+    content: Eric Weinstein, in a video with Jesse Michels, said that he knows some of the smartest people in the United States
+      and that they have no idea any of the unidentified aerial phenomena material is real.
+    original_excerpt: I know like some of the smartest people in the country and they have no idea any of this stuff is real.
+    claim_type: hearsay
+    attestation: second_hand
+    speaker:
+      node_id: 079d4381-4273-418b-bc9a-468623f95c6e
+      title: Jesse Mitchells
+    provenance_chain:
+      origin_kind: named
+      origin: Eric Weinstein
+      relay:
+        - Jesse Michels
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 0c950a77-cc2b-4bb3-86ec-b49e0402abd7
+        title: Eric Weinstein
+        slug: eric-weinstein
+      - node_id: e4f25bff-6da6-4885-902f-6daaf7e4be86
+        title: Jesse Michels video with Eric Weinstein and Eric Davis
+        slug: jesse-michels-video-with-eric-weinstein-and-eric-davis
+    date: null
+    date_end: null
+    location_in_record: 00:55:49.4-00:55:54.1
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: dc9d8bc8-9c1f-46b4-9b89-8d86b6b08e1d
+      record_title: Jesse Michels, UAPGerb & Chris Ramsay - Flying Saucer Diner
+      record_date: '2026-07-17'
+      record_reference: https://www.youtube.com/watch?v=HFLBDi87888
+      content_hash: sha256:7b2e272d7c82fdda745ee0354d7c9cc4b0d5ba5506015ca27edd9169a768b262
+      friendly_name: null
+  - claim_id: 03333a2f-8b9b-4cfd-89b6-3be63d948a99
+    claim_hash: 4b1bac80a7015e37a53b99381efdd1d811a05f63b16fc53fc394743c5b2ac167
+    content: Eric Weinstein's narrative, as characterised by Jesse Michels, is that string theory was pushed as a limited
+      hangout, so that researchers who bump up against the genuinely sensitive material are farmed out or worked with.
+    original_excerpt: this is the kind of Weinstein narrative somewhat is like, String theory was pushed out as like a limited
+      hangout where like you bump up against the right stuff and they farm you out
+    claim_type: hearsay
+    attestation: second_hand
+    speaker:
+      node_id: 079d4381-4273-418b-bc9a-468623f95c6e
+      title: Jesse Mitchells
+    provenance_chain:
+      origin_kind: named
+      origin: Eric Weinstein
+      relay:
+        - Jesse Michels
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 0c950a77-cc2b-4bb3-86ec-b49e0402abd7
+        title: Eric Weinstein
+        slug: eric-weinstein
+      - node_id: 221cb090-6c03-4bc2-8b68-79fe700bbc2a
+        title: String theory
+        slug: string-theory
+      - node_id: 5b203293-842f-43cf-a5af-746bf78aa31e
+        title: limited hangout
+        slug: limited-hangout
+    date: null
+    date_end: null
+    location_in_record: 00:56:44.0-00:56:55.0
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: dc9d8bc8-9c1f-46b4-9b89-8d86b6b08e1d
+      record_title: Jesse Michels, UAPGerb & Chris Ramsay - Flying Saucer Diner
+      record_date: '2026-07-17'
+      record_reference: https://www.youtube.com/watch?v=HFLBDi87888
+      content_hash: sha256:7b2e272d7c82fdda745ee0354d7c9cc4b0d5ba5506015ca27edd9169a768b262
+      friendly_name: null
+  - claim_id: 67382392-9948-4933-ab75-7b2f4baf78a6
+    claim_hash: 8f27da559bfbb83d337c055d8be02a66e20bc1621b9d332dcc90506b6edebcc7
+    content: Eric Weinstein argued that the absence of physicists in the UAP programme makes no sense, because working out
+      an unknown would require theoretical physicists of all kinds.
+    original_excerpt: And where Weinstein's like, this doesn't make sense. If you're trying to figure something out, then
+      you would need theoretical physicists of all kinds.
+    claim_type: hearsay
+    attestation: second_hand
+    speaker:
+      node_id: 24d00311-06ac-46a1-a2f5-c99f3f8e21b2
+      title: Chris Ramsay
+    provenance_chain:
+      origin_kind: named
+      origin: Eric Weinstein
+      relay:
+        - an episode of Jesse Michels' podcast
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 0c950a77-cc2b-4bb3-86ec-b49e0402abd7
+        title: Eric Weinstein
+        slug: eric-weinstein
+      - node_id: 24d00311-06ac-46a1-a2f5-c99f3f8e21b2
+        title: Chris Ramsay
+        slug: chris-ramsay
+      - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
+        title: Unidentified Anomalous Phenomena (UAP)
+        slug: unidentified-anomalous-phenomena-uap
+    date: null
+    date_end: null
+    location_in_record: 01:26:25.0-01:26:33.2
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 9302c6b2-133d-4cbb-adfa-5d1f0bd3e7ac
+      record_title: The Terrible Truth About the Visitors - Whitley Strieber | ep. 96
+      record_date: '2026-07-24'
+      record_reference: https://www.youtube.com/watch?v=Cv-sk4vt-qU
+      content_hash: sha256:456dbde0ab82ee8e216bdad2d1a0bf2a0b42622a167af19058f973050b035084
+      friendly_name: null

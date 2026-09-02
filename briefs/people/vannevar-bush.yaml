@@ -1,0 +1,1394 @@
+schema: anomalica/brief/1
+brief_hash: 1d2a0698b4ef52c87849065acb6bd20b46173fcf4af6d0cdeda38be0e0c6658d
+page:
+  kind: entity
+  node_id: 4ada3704-4cd8-4cf2-b0fe-fcfb6716abaa
+  node_type: person
+  title: Vannevar Bush
+  slug: vannevar-bush
+  claim_count: 31
+  claim_count_total: 31
+generated:
+  graph_version: '2026-09-01T10:10:49.863545+00:00'
+size:
+  claims: 31
+  tokens_estimated: 9351
+  sized_against: 1050000
+publication:
+  status: published
+  note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
+    transcripts are gated elsewhere.
+belonging:
+  verified: 0
+  suspect_excluded: 0
+  unreviewed: 31
+related_nodes:
+  - node_id: ec69e08d-062d-401c-9287-46a45fdc9b4d
+    title: Donald Menzel
+    node_type: person
+    slug: donald-menzel
+    shared_claims: 6
+  - node_id: 6f90c776-6afc-49e2-ac5a-9335d9259398
+    title: Wernher von Braun
+    node_type: person
+    slug: wernher-von-braun
+    shared_claims: 4
+  - node_id: ec304822-db5e-484b-9c4a-b2d43d70757a
+    title: James Forrestal
+    node_type: person
+    slug: james-forrestal
+    shared_claims: 3
+  - node_id: 01ac6d11-095a-456f-9e5a-31bbf7be74d0
+    title: Linda Hunt
+    node_type: person
+    slug: linda-hunt
+    shared_claims: 3
+  - node_id: e0f5987b-40af-4833-88bc-51b0904fb4dd
+    title: Frank Edwards
+    node_type: person
+    slug: frank-edwards
+    shared_claims: 2
+  - node_id: 7bc18490-04d7-41f1-94bf-99d46ba1f4e2
+    title: Franklin D. Roosevelt
+    node_type: person
+    slug: franklin-d-roosevelt
+    shared_claims: 2
+  - node_id: 589d7469-f87f-4da5-afa8-cabca7be6818
+    title: Harry S. Truman
+    node_type: person
+    slug: harry-s-truman
+    shared_claims: 2
+  - node_id: 7a34498a-e727-43f3-aa35-6794f29ceedb
+    title: Henry Tizard
+    node_type: person
+    slug: henry-tizard
+    shared_claims: 2
+  - node_id: 93df8d48-8068-409a-a198-27e923af6cde
+    title: Majestic 12 (MJ-12)
+    node_type: project
+    slug: majestic-12-mj-12
+    shared_claims: 2
+  - node_id: 8fb01f65-e5b0-4f6d-9238-6d845ca1880c
+    title: National Advisory Committee for Aeronautics (NACA)
+    node_type: organisation
+    slug: national-advisory-committee-for-aeronautics-naca
+    shared_claims: 2
+  - node_id: 5e47c787-005b-4c91-ba4b-c9bec48146c9
+    title: National Aeronautics and Space Administration (NASA)
+    node_type: organisation
+    slug: national-aeronautics-and-space-administration-nasa
+    shared_claims: 2
+  - node_id: 00342f1c-59c8-4b00-aa9d-ad2b8cc6f2f4
+    title: 1947-10 Forrestal-Tizard meetings
+    node_type: event
+    slug: 1947-10-forrestal-tizard-meetings
+    shared_claims: 1
+  - node_id: 3bc3042d-afb8-4eba-ace6-40a3c2107aba
+    title: 1950 Wilbert Smith memo to the Canadian Department of Transport
+    node_type: document
+    slug: 1950-wilbert-smith-memo-to-the-canadian-department-of-transport
+    shared_claims: 1
+  - node_id: fd44f2f2-eea9-42b7-af12-c800e99548ab
+    title: Ancient and Accepted Scottish Rite
+    node_type: organisation
+    slug: ancient-and-accepted-scottish-rite
+    shared_claims: 1
+  - node_id: 5f29d662-0d3b-4af3-ab7d-16cbb0a33d30
+    title: Avi Loeb
+    node_type: person
+    slug: avi-loeb
+    shared_claims: 1
+  - node_id: 05b87b4f-5eaa-4cae-9e6a-deba17adf186
+    title: Carnegie Institution
+    node_type: organisation
+    slug: carnegie-institution
+    shared_claims: 1
+  - node_id: 24d00311-06ac-46a1-a2f5-c99f3f8e21b2
+    title: Chris Ramsay
+    node_type: person
+    slug: chris-ramsay
+    shared_claims: 1
+  - node_id: 4ca72f01-5794-474d-8fa6-7c9e04a4ca57
+    title: Condon Report
+    node_type: document
+    slug: condon-report
+    shared_claims: 1
+  - node_id: 40d62987-68cd-4814-85fe-c058f64df1fc
+    title: Detlef Gronk
+    node_type: person
+    slug: detlef-gronk
+    shared_claims: 1
+  - node_id: 9ab76638-a596-48f1-9a58-9c9251cc97f3
+    title: Eric Davis
+    node_type: person
+    slug: eric-davis
+    shared_claims: 1
+  - node_id: fdd724f2-0b15-4664-8f9c-a17be751ec9c
+    title: Harvard University
+    node_type: organisation
+    slug: harvard-university
+    shared_claims: 1
+  - node_id: 3fdaa103-1755-4604-bca5-8a59b9990ed4
+    title: Hugh L. Dryden
+    node_type: person
+    slug: hugh-l-dryden
+    shared_claims: 1
+  - node_id: 2f2f008a-15f4-412c-b697-2496cccd2798
+    title: Joint Intelligence Objectives Agency (JIOA)
+    node_type: organisation
+    slug: joint-intelligence-objectives-agency-jioa
+    shared_claims: 1
+  - node_id: 8f7f2a6e-3af3-4ff9-abc0-d3d868958f00
+    title: Joint Research and Development Board
+    node_type: organisation
+    slug: joint-research-and-development-board
+    shared_claims: 1
+  - node_id: c38ab265-3a8b-4a95-aea7-9eb7d97ef0b5
+    title: Joseph Stalin
+    node_type: person
+    slug: joseph-stalin
+    shared_claims: 1
+  - node_id: e273b6e6-a281-407c-9e14-d463d6f3a4d5
+    title: MJ-12
+    node_type: organisation
+    slug: mj-12
+    shared_claims: 1
+  - node_id: 69fa2a03-b6bb-41c3-a745-dff92528671c
+    title: Manhattan Project
+    node_type: project
+    slug: manhattan-project
+    shared_claims: 1
+  - node_id: c5060aa6-0437-4ef7-a518-6c7239c491e5
+    title: Massachusetts Institute of Technology (MIT)
+    node_type: organisation
+    slug: massachusetts-institute-of-technology-mit
+    shared_claims: 1
+  - node_id: beec6cab-42fa-41fd-b69a-68e19df1289f
+    title: Office of Scientific Research and Development
+    node_type: organisation
+    slug: office-of-scientific-research-and-development
+    shared_claims: 1
+  - node_id: b612d415-9e40-4e28-ac70-54f1ade35c47
+    title: Presidential Emergency Action Documents (PEADs)
+    node_type: document
+    slug: presidential-emergency-action-documents-peads
+    shared_claims: 1
+claims:
+  - claim_id: f8969e46-07af-4d73-844c-e04fa46cb12d
+    claim_hash: 4327c51fb02811ffa6fb1a4d6eadff4808ff83b840610107710735e4748add86
+    content: Vannevar Bush and Theodore von Karman used their influence to have doubts about Wernher von Braun's SS Nazi past
+      overlooked.
+    original_excerpt: Fortunately (for Von Braun) he had "friends in high places," not just in Germany, but in the U.S.—in
+      the personages of Drs. Bush and Von Karman. Their influence was so powerful, that doubts expressed by the field investigators
+      about Von Braun's SS Nazi past were ultimately "conveniently" overlooked.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: e1650a1d-8feb-4841-a403-0d71e176d2d9
+      title: Richard C. Hoagland
+    provenance_chain:
+      origin_kind: speaker
+      origin: Richard C. Hoagland
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 4ada3704-4cd8-4cf2-b0fe-fcfb6716abaa
+        title: Vannevar Bush
+        slug: vannevar-bush
+      - node_id: 6f90c776-6afc-49e2-ac5a-9335d9259398
+        title: Wernher von Braun
+        slug: wernher-von-braun
+      - node_id: cf9d0841-4c94-4e97-ad97-131b028af237
+        title: Schutzstaffel (SS)
+        slug: schutzstaffel-ss
+      - node_id: f8fda164-69fa-479f-873b-097f03d0acfd
+        title: Theodore von Karman
+        slug: theodore-von-karman
+    date: null
+    date_end: null
+    location_in_record: ch12:100648-100937
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+      record_title: Dark Mission
+      record_date: '2010-07-22'
+      record_reference: null
+      content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+      friendly_name: null
+  - claim_id: ed58c20a-32ae-4b03-8d5e-dc3df6e35af5
+    claim_hash: d58821d19d18af23b778ecc9d1713e5af585b403fbe31a0228a4d06d2ab0055e
+    content: Hugh L. Dryden had been Director of the National Advisory Committee for Aeronautics (NACA) since 1949, after
+      Vannevar Bush left.
+    original_excerpt: (Director of NACA since 1949, after Dr. Bush left)
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 3fdaa103-1755-4604-bca5-8a59b9990ed4
+        title: Hugh L. Dryden
+        slug: hugh-l-dryden
+      - node_id: 4ada3704-4cd8-4cf2-b0fe-fcfb6716abaa
+        title: Vannevar Bush
+        slug: vannevar-bush
+      - node_id: 8fb01f65-e5b0-4f6d-9238-6d845ca1880c
+        title: National Advisory Committee for Aeronautics (NACA)
+        slug: national-advisory-committee-for-aeronautics-naca
+    date: '1949'
+    date_end: null
+    location_in_record: ch12:112070-112114
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+      record_title: Dark Mission
+      record_date: '2010-07-22'
+      record_reference: null
+      content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+      friendly_name: null
+  - claim_id: 30105898-60f2-474f-8e0f-90a8f11d62e7
+    claim_hash: b1220b7e1590dbd7038592b2d71343c87b7555d52ec602f62bbc61889a18765f
+    content: Vannevar Bush was the National Advisory Committee for Aeronautics (NACA) director and was influential in many
+      major aerospace projects and companies.
+    original_excerpt: The NACA director, Dr. Vannevar Bush, was influential in many major aerospace projects and companies.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 4ada3704-4cd8-4cf2-b0fe-fcfb6716abaa
+        title: Vannevar Bush
+        slug: vannevar-bush
+      - node_id: 8fb01f65-e5b0-4f6d-9238-6d845ca1880c
+        title: National Advisory Committee for Aeronautics (NACA)
+        slug: national-advisory-committee-for-aeronautics-naca
+    date: null
+    date_end: null
+    location_in_record: ch12:66436-66527
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+      record_title: Dark Mission
+      record_date: '2010-07-22'
+      record_reference: null
+      content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+      friendly_name: null
+  - claim_id: 99250b1e-e819-49e7-894f-741767ab81dc
+    claim_hash: 663c593c73dfcfda7062999092685cbe28df419e99a6a541a8d7fb36b021363a
+    content: Vannevar Bush was co-founder of Raytheon, still a major defence contractor.
+    original_excerpt: He was co-founder of Raytheon systems (still a major defense contractor)
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 41eed7f8-b54f-4c4a-8318-bed3936984b2
+        title: Raytheon
+        slug: raytheon
+      - node_id: 4ada3704-4cd8-4cf2-b0fe-fcfb6716abaa
+        title: Vannevar Bush
+        slug: vannevar-bush
+    date: null
+    date_end: null
+    location_in_record: ch12:66538-66599
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+      record_title: Dark Mission
+      record_date: '2010-07-22'
+      record_reference: null
+      content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+      friendly_name: null
+  - claim_id: 0a367026-8ec5-4cb1-939c-2d317389121f
+    claim_hash: 2749ca9e552ba46096b34ec98211deeb02fe032d3658ab32d04fe606a757aaa6
+    content: Vannevar Bush was director of the Office of Scientific Research and Development, which oversaw the Manhattan
+      Project.
+    original_excerpt: was director of the Office of Scientific Research and Development, which oversaw the Manhattan Project
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 4ada3704-4cd8-4cf2-b0fe-fcfb6716abaa
+        title: Vannevar Bush
+        slug: vannevar-bush
+      - node_id: 69fa2a03-b6bb-41c3-a745-dff92528671c
+        title: Manhattan Project
+        slug: manhattan-project
+      - node_id: beec6cab-42fa-41fd-b69a-68e19df1289f
+        title: Office of Scientific Research and Development
+        slug: office-of-scientific-research-and-development
+    date: null
+    date_end: null
+    location_in_record: ch12:66615-66710
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+      record_title: Dark Mission
+      record_date: '2010-07-22'
+      record_reference: null
+      content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+      friendly_name: null
+  - claim_id: 251d055c-d679-4cb7-87dc-adeb3b6ae95c
+    claim_hash: 3be51a7bc02f75088b110f2a2f05e4c6d40a66159b68c7bd95561b625c84b7d2
+    content: Vannevar Bush was President Franklin D. Roosevelt's scientific advisor.
+    original_excerpt: He was also President Roosevelt's scientific advisor
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 4ada3704-4cd8-4cf2-b0fe-fcfb6716abaa
+        title: Vannevar Bush
+        slug: vannevar-bush
+      - node_id: 7bc18490-04d7-41f1-94bf-99d46ba1f4e2
+        title: Franklin D. Roosevelt
+        slug: franklin-d-roosevelt
+    date: null
+    date_end: null
+    location_in_record: ch12:66719-66764
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+      record_title: Dark Mission
+      record_date: '2010-07-22'
+      record_reference: null
+      content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+      friendly_name: null
+  - claim_id: 4f6adb27-4225-4780-badc-8a277c81ca2c
+    claim_hash: cdfe34dce97d57c4bb7b82bdac700227d5f438f1d549e19e4ffee161ccc197e3
+    content: Vannevar Bush played a key role in bringing many German rocket scientists, such as Wernher von Braun, to the
+      United States.
+    original_excerpt: played a key role in bringing many of the German rocket scientists, like Wernher Von Braun, to the United
+      States
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 4ada3704-4cd8-4cf2-b0fe-fcfb6716abaa
+        title: Vannevar Bush
+        slug: vannevar-bush
+      - node_id: 6f90c776-6afc-49e2-ac5a-9335d9259398
+        title: Wernher von Braun
+        slug: wernher-von-braun
+    date: null
+    date_end: null
+    location_in_record: ch12:66776-66882
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+      record_title: Dark Mission
+      record_date: '2010-07-22'
+      record_reference: null
+      content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+      friendly_name: null
+  - claim_id: 71cec79b-4d2b-49fc-9ca6-f868229d412d
+    claim_hash: 58423fbebee4a8b12a66879e849868194c9758dc3b883905b92f09a032fc63a2
+    content: Vannevar Bush was a 33rd degree Scottish Rite Freemason.
+    original_excerpt: He was also a 33° Scottish Rite Freemason.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 4ada3704-4cd8-4cf2-b0fe-fcfb6716abaa
+        title: Vannevar Bush
+        slug: vannevar-bush
+      - node_id: fd44f2f2-eea9-42b7-af12-c800e99548ab
+        title: Ancient and Accepted Scottish Rite
+        slug: ancient-and-accepted-scottish-rite
+    date: null
+    date_end: null
+    location_in_record: ch12:66891-66923
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+      record_title: Dark Mission
+      record_date: '2010-07-22'
+      record_reference: null
+      content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+      friendly_name: null
+  - claim_id: a77b32cd-4cff-46e3-9ffe-bab16306b395
+    claim_hash: e49fb9f9d5824c5d22d5df1af89b2ec3f663aaae093d638a444d5617c2069d07
+    content: With the help of Vannevar Bush, the Pentagon supplied a steady stream of brainpower to NASA through its secret
+      ballistic missile programmes led by Wernher von Braun.
+    original_excerpt: With the help of Bush, the Pentagon supplied a steady stream of brainpower to NASA through its secret
+      ballistic missile programs led by Wernher Von Braun.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 4ada3704-4cd8-4cf2-b0fe-fcfb6716abaa
+        title: Vannevar Bush
+        slug: vannevar-bush
+      - node_id: 5e47c787-005b-4c91-ba4b-c9bec48146c9
+        title: National Aeronautics and Space Administration (NASA)
+        slug: national-aeronautics-and-space-administration-nasa
+      - node_id: 6f90c776-6afc-49e2-ac5a-9335d9259398
+        title: Wernher von Braun
+        slug: wernher-von-braun
+    date: null
+    date_end: null
+    location_in_record: ch12:67249-67397
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+      record_title: Dark Mission
+      record_date: '2010-07-22'
+      record_reference: null
+      content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+      friendly_name: null
+  - claim_id: b08f6750-e7ec-4ec0-bcb3-67d32f70579c
+    claim_hash: 61d9326bf620b03186e35b2754ca846da7d6ae368613e572b239ee7eaede2b1c
+    content: Vannevar Bush originally played a key role in bringing Wernher von Braun and other ardent Nazis to the United
+      States illegally, in direct violation of President Truman's executive orders.
+    original_excerpt: Bush originally played a key role in bringing Von Braun and other "ardent Nazis" to the U.S. illegally,
+      in direct violation of President Truman's executive orders.
+    claim_type: hearsay
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: document
+      origin: Secret Agenda (book)
+      relay:
+        - Linda Hunt
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 01ac6d11-095a-456f-9e5a-31bbf7be74d0
+        title: Linda Hunt
+        slug: linda-hunt
+      - node_id: 4ada3704-4cd8-4cf2-b0fe-fcfb6716abaa
+        title: Vannevar Bush
+        slug: vannevar-bush
+      - node_id: 589d7469-f87f-4da5-afa8-cabca7be6818
+        title: Harry S. Truman
+        slug: harry-s-truman
+      - node_id: 6f90c776-6afc-49e2-ac5a-9335d9259398
+        title: Wernher von Braun
+        slug: wernher-von-braun
+      - node_id: b47c99b9-9fb4-47d0-b2f3-613f8a65d016
+        title: Secret Agenda (book)
+        slug: secret-agenda-book
+    date: null
+    date_end: null
+    location_in_record: ch12:67454-67610
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+      record_title: Dark Mission
+      record_date: '2010-07-22'
+      record_reference: null
+      content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+      friendly_name: null
+  - claim_id: 6b5bc520-6122-4f98-b77a-d8eb5416fcc0
+    claim_hash: 1b0093c41d908a5c0b325c245c8e33214d4d8e7d0a38bb76db7117b6bedceb67
+    content: When certain Nazi rocket scientists were deemed too unimportant to be brought to the United States by a military
+      panel, Vannevar Bush intervened with a scathing letter to the Joint Intelligence Objectives Agency criticising the military
+      for not knowing elementary information on Germans as well known in scientific circles as Churchill, Stalin and Roosevelt
+      were in political circles.
+    original_excerpt: when certain Nazi rocket scientists were deemed as "too unimportant" to be brought to the U.S. by a
+      military panel, Bush intervened with a scathing letter to the Joint Intelligence Objectives Agency (JIOA) in which he
+      derided the military for not knowing "even elementary information on Germans whose names are as well known in scientific
+      circles as Churchill, Stalin and Roosevelt are in political circles."
+    claim_type: hearsay
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: named
+      origin: Linda Hunt
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 01ac6d11-095a-456f-9e5a-31bbf7be74d0
+        title: Linda Hunt
+        slug: linda-hunt
+      - node_id: 29d39310-2ab5-4df0-aa63-25d30a7b9f6d
+        title: Winston Churchill
+        slug: winston-churchill
+      - node_id: 2f2f008a-15f4-412c-b697-2496cccd2798
+        title: Joint Intelligence Objectives Agency (JIOA)
+        slug: joint-intelligence-objectives-agency-jioa
+      - node_id: 4ada3704-4cd8-4cf2-b0fe-fcfb6716abaa
+        title: Vannevar Bush
+        slug: vannevar-bush
+      - node_id: 7bc18490-04d7-41f1-94bf-99d46ba1f4e2
+        title: Franklin D. Roosevelt
+        slug: franklin-d-roosevelt
+      - node_id: c38ab265-3a8b-4a95-aea7-9eb7d97ef0b5
+        title: Joseph Stalin
+        slug: joseph-stalin
+    date: null
+    date_end: null
+    location_in_record: ch12:67640-68040
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+      record_title: Dark Mission
+      record_date: '2010-07-22'
+      record_reference: null
+      content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+      friendly_name: null
+  - claim_id: dc715a02-2e81-4674-b73b-f85470ed12b6
+    claim_hash: 9330972d7be33dac7d42faa0e70887977f6b60ad4abd7e1f5516d5b5dcdf7171
+    content: Vannevar Bush insisted that several of the German rocket scientists were intellectual giants of Nobel Prize stature.
+    original_excerpt: He insisted that several of the scientists were "intellectual giants of Nobel Prize stature."
+    claim_type: hearsay
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: named
+      origin: Linda Hunt
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 01ac6d11-095a-456f-9e5a-31bbf7be74d0
+        title: Linda Hunt
+        slug: linda-hunt
+      - node_id: 4ada3704-4cd8-4cf2-b0fe-fcfb6716abaa
+        title: Vannevar Bush
+        slug: vannevar-bush
+    date: null
+    date_end: null
+    location_in_record: ch12:68050-68134
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+      record_title: Dark Mission
+      record_date: '2010-07-22'
+      record_reference: null
+      content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+      friendly_name: null
+  - claim_id: 2da8b879-02af-4feb-ab9d-19ff3fcb2ef9
+    claim_hash: 36a8bdcc19513f2d56c64902ece3ce70aee641558d249451a61a9da938dd9f84
+    content: Vannevar Bush's efforts were a significant factor in some of the German rocket scientists being brought to the
+      United States.
+    original_excerpt: Bush's efforts were clearly a significant factor in some of the Germans being brought to U.S.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: e1650a1d-8feb-4841-a403-0d71e176d2d9
+      title: Richard C. Hoagland
+    provenance_chain:
+      origin_kind: speaker
+      origin: Richard C. Hoagland
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 4ada3704-4cd8-4cf2-b0fe-fcfb6716abaa
+        title: Vannevar Bush
+        slug: vannevar-bush
+    date: null
+    date_end: null
+    location_in_record: ch12:68144-68235
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+      record_title: Dark Mission
+      record_date: '2010-07-22'
+      record_reference: null
+      content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+      friendly_name: null
+  - claim_id: 951afd96-5497-41e1-bedd-98b6d68a6d2f
+    claim_hash: 60fdbdce3edc9e49d41de9f6c74fe5f84dfbfc9fb9e832fec82de0e4f75cc8ce
+    content: Shortly before the Second World War, Vannevar Bush worked closely with Donald Menzel, an astronomer at Harvard
+      University, on the development of a differential analyzer, the world's first modern analog computer.
+    original_excerpt: Shortly before the war, Bush was also working closely with Dr. Donald Menzel, an astronomer at Harvard
+      University, on the development of a "differential analyzer"—the world's first (modern) analog computer.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 4ada3704-4cd8-4cf2-b0fe-fcfb6716abaa
+        title: Vannevar Bush
+        slug: vannevar-bush
+      - node_id: ec69e08d-062d-401c-9287-46a45fdc9b4d
+        title: Donald Menzel
+        slug: donald-menzel
+      - node_id: fdd724f2-0b15-4664-8f9c-a17be751ec9c
+        title: Harvard University
+        slug: harvard-university
+    date: null
+    date_end: null
+    location_in_record: ch12:68352-68549
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+      record_title: Dark Mission
+      record_date: '2010-07-22'
+      record_reference: null
+      content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+      friendly_name: null
+  - claim_id: 298288c5-47ea-4ec1-a75b-0f0a0f4900cf
+    claim_hash: f7dfda9492f53db8504abc73ba84b8c37dc3b4349d8cab8e46c00171c16743e5
+    content: The differential analyzer developed by Vannevar Bush and Donald Menzel eventually enabled NASA to accomplish
+      some of its occult goals.
+    original_excerpt: It was this pioneering work with Menzel which eventually—critically—enabled NASA to accomplish some
+      of its "occult" goals.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: e1650a1d-8feb-4841-a403-0d71e176d2d9
+      title: Richard C. Hoagland
+    provenance_chain:
+      origin_kind: speaker
+      origin: Richard C. Hoagland
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 4ada3704-4cd8-4cf2-b0fe-fcfb6716abaa
+        title: Vannevar Bush
+        slug: vannevar-bush
+      - node_id: 5e47c787-005b-4c91-ba4b-c9bec48146c9
+        title: National Aeronautics and Space Administration (NASA)
+        slug: national-aeronautics-and-space-administration-nasa
+      - node_id: ec69e08d-062d-401c-9287-46a45fdc9b4d
+        title: Donald Menzel
+        slug: donald-menzel
+    date: null
+    date_end: null
+    location_in_record: ch12:68559-68675
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+      record_title: Dark Mission
+      record_date: '2010-07-22'
+      record_reference: null
+      content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+      friendly_name: null
+  - claim_id: 2e83dc0b-e772-4ca2-916b-9df6c2492a19
+    claim_hash: 0ba742b0cc64bd677c746ce8eb48d001e8ccb76e239312a25837bbd75f04bbe2
+    content: In Vannevar Bush's 1950 testimony on behalf of Donald Menzel in loyalty hearings, Bush stated he first knew Menzel
+      in either 1934 or 1935 while engaged in designing and building the differential analyzer at the Massachusetts Institute
+      of Technology, where Bush was then Vice President and Dean of Engineering.
+    original_excerpt: I first knew DHM [Menzel] of Cambridge, MA, in either 1934 or 1935 when I was engaged in designing and
+      building a machine known as a differential analyzer at MIT, where I was then VP and Dean of Engineering.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 4ada3704-4cd8-4cf2-b0fe-fcfb6716abaa
+      title: Vannevar Bush
+    provenance_chain:
+      origin_kind: speaker
+      origin: Vannevar Bush
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 4ada3704-4cd8-4cf2-b0fe-fcfb6716abaa
+        title: Vannevar Bush
+        slug: vannevar-bush
+      - node_id: c5060aa6-0437-4ef7-a518-6c7239c491e5
+        title: Massachusetts Institute of Technology (MIT)
+        slug: massachusetts-institute-of-technology-mit
+      - node_id: ec69e08d-062d-401c-9287-46a45fdc9b4d
+        title: Donald Menzel
+        slug: donald-menzel
+    date: '1950'
+    date_end: null
+    location_in_record: ch12:68768-68963
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+      record_title: Dark Mission
+      record_date: '2010-07-22'
+      record_reference: null
+      content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+      friendly_name: null
+  - claim_id: 655851eb-8f17-4a98-9af4-b379b49d3044
+    claim_hash: e50a5d973ebeea0404196b876bc7a384104497c225ef44015091a285c8f62c07
+    content: Donald Menzel was then an assistant or associate professor in the astronomy department of Harvard University
+      and was much interested in applying the differential analyzer to certain astronomical and astrophysical problems.
+    original_excerpt: Dr. M., who was then an assistant or associate professor in the astronomy department of Harvard University,
+      was much interested in the possibility of applying the differential analyzer to the solution of certain astronomical
+      and astrophysical problems.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 4ada3704-4cd8-4cf2-b0fe-fcfb6716abaa
+      title: Vannevar Bush
+    provenance_chain:
+      origin_kind: speaker
+      origin: Vannevar Bush
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: ec69e08d-062d-401c-9287-46a45fdc9b4d
+        title: Donald Menzel
+        slug: donald-menzel
+      - node_id: fdd724f2-0b15-4664-8f9c-a17be751ec9c
+        title: Harvard University
+        slug: harvard-university
+    date: '1950'
+    date_end: null
+    location_in_record: ch12:68976-69219
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+      record_title: Dark Mission
+      record_date: '2010-07-22'
+      record_reference: null
+      content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+      friendly_name: null
+  - claim_id: 39e2e05f-b41e-4946-b016-ca44fc85dc14
+    claim_hash: f4ef62a480c297df9e0cdec617a82be7ffe7c8d9d675f02a308483e61d6b255d
+    content: Vannevar Bush and Donald Menzel's mutual interest in the differential analyzer led to a technical association
+      of some intimacy over a period of about a year, after which they met frequently in connection with scientific or technical
+      matters until Bush became associated with the Carnegie Institution in 1939.
+    original_excerpt: This mutual interest led to a technical association of some intimacy over a period of about a year.
+      Thereafter, until I became associated with the Carnegie Institution in 1939, we met in connection with scientific or
+      technical matters fairly frequently, usually in connection with the development of specialized machinery for astrophysical
+      use.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 4ada3704-4cd8-4cf2-b0fe-fcfb6716abaa
+      title: Vannevar Bush
+    provenance_chain:
+      origin_kind: speaker
+      origin: Vannevar Bush
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 05b87b4f-5eaa-4cae-9e6a-deba17adf186
+        title: Carnegie Institution
+        slug: carnegie-institution
+      - node_id: 4ada3704-4cd8-4cf2-b0fe-fcfb6716abaa
+        title: Vannevar Bush
+        slug: vannevar-bush
+      - node_id: ec69e08d-062d-401c-9287-46a45fdc9b4d
+        title: Donald Menzel
+        slug: donald-menzel
+    date: '1950'
+    date_end: null
+    location_in_record: ch12:69229-69569
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+      record_title: Dark Mission
+      record_date: '2010-07-22'
+      record_reference: null
+      content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+      friendly_name: null
+  - claim_id: 9cb4b2b2-9664-4ed8-b6ea-01f8aac8e896
+    claim_hash: 87d81384575b4136ec97837a9abd26b6f3c10e7bdbda5fe2fcc173c8e72253ae
+    content: Richard C. Hoagland considers that the objective of Vannevar Bush and Donald Menzel's differential analyzer,
+      although not overtly stated, was to develop a computer able to predict the future positions of stars and planets from
+      any point in the solar system centuries ahead.
+    original_excerpt: Although not overtly stated, Bush and Menzel's objective was to develop a computer that could allow
+      them to predict—and centuries ahead—the future positions of stars and planets from any point in the solar system.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: e1650a1d-8feb-4841-a403-0d71e176d2d9
+      title: Richard C. Hoagland
+    provenance_chain:
+      origin_kind: speaker
+      origin: Richard C. Hoagland
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 4ada3704-4cd8-4cf2-b0fe-fcfb6716abaa
+        title: Vannevar Bush
+        slug: vannevar-bush
+      - node_id: ec69e08d-062d-401c-9287-46a45fdc9b4d
+        title: Donald Menzel
+        slug: donald-menzel
+    date: null
+    date_end: null
+    location_in_record: ch12:69576-69785
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+      record_title: Dark Mission
+      record_date: '2010-07-22'
+      record_reference: null
+      content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+      friendly_name: null
+  - claim_id: a572a8f5-a29b-4d13-8123-45fd3f1a2c87
+    claim_hash: 92bb52d14127072159919d6a5b3d3080237a4d591e35cfb5f57d1565ca86e3f7
+    content: Vannevar Bush and Donald Menzel were both listed as founding members of Majestic 12 (MJ-12) in the memo mailed
+      to Jaime Shandera.
+    original_excerpt: included both Bush and Menzel as founding members
+    claim_type: administrative
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: document
+      origin: microfilm memo mailed to Jaime Shandera, 1984
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 4ada3704-4cd8-4cf2-b0fe-fcfb6716abaa
+        title: Vannevar Bush
+        slug: vannevar-bush
+      - node_id: 93df8d48-8068-409a-a198-27e923af6cde
+        title: Majestic 12 (MJ-12)
+        slug: majestic-12-mj-12
+      - node_id: ec69e08d-062d-401c-9287-46a45fdc9b4d
+        title: Donald Menzel
+        slug: donald-menzel
+    date: null
+    date_end: null
+    location_in_record: ch12:70848-70890
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+      record_title: Dark Mission
+      record_date: '2010-07-22'
+      record_reference: null
+      content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+      friendly_name: null
+  - claim_id: aa4c5eec-51f9-41d5-bae0-43d183816502
+    claim_hash: 32362023e23efaed6f6e5a9a4e31e325bbb20493da59dcccd024670a6969dbc3
+    content: According to the 1950 Wilbert Smith memo to the Canadian Department of Transport, Robert Sarbacher said the saucers'
+      modus operandi was unknown, but a concentrated effort was being made by a small group headed by Dr Vannevar Bush.
+    original_excerpt: Their modus operandi is unknown, but a concentrated effort is being made by a small group headed by
+      Dr Vannevar Bush.
+    claim_type: hearsay
+    attestation: second_hand
+    speaker:
+      node_id: 4d15bba5-debc-45e0-8256-c430164e3e59
+      title: Wilbert Smith
+    provenance_chain:
+      origin_kind: named
+      origin: Robert Sarbacher
+      relay:
+        - 1950 Wilbert Smith memo to the Canadian Department of Transport
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 3bc3042d-afb8-4eba-ace6-40a3c2107aba
+        title: 1950 Wilbert Smith memo to the Canadian Department of Transport
+        slug: 1950-wilbert-smith-memo-to-the-canadian-department-of-transport
+      - node_id: 4ada3704-4cd8-4cf2-b0fe-fcfb6716abaa
+        title: Vannevar Bush
+        slug: vannevar-bush
+      - node_id: caa4dc74-91cb-4bce-8c98-9575005932c1
+        title: Robert Sarbacher
+        slug: robert-sarbacher
+    date: null
+    date_end: null
+    location_in_record: ch8:7544-7656
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: dea9ec81-7fe6-45c5-9237-81be34af98c9
+    claim_hash: 43fd6ba94900cbb4a76b4d9f04d93506954f41874fc17e6799d7eaae073ed34f
+    content: Frank Edwards claimed that Dr. Vannevar Bush, a prominent inventor, defence industry scientist, and founder of
+      the National Science Foundation, led the effort to study the alleged UFO fragment.
+    original_excerpt: He also claimed that Dr. Vannevar Bush, a prominent inventor, defense industry scientist, and founder
+      of the National Science Foundation, led the effort to study the fragment.
+    claim_type: hearsay
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: named
+      origin: Frank Edwards
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 4ada3704-4cd8-4cf2-b0fe-fcfb6716abaa
+        title: Vannevar Bush
+        slug: vannevar-bush
+      - node_id: e0f5987b-40af-4833-88bc-51b0904fb4dd
+        title: Frank Edwards
+        slug: frank-edwards
+    date: null
+    date_end: null
+    location_in_record: char:51650-51816
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: d3743fdf-6a99-43ef-98d4-b79ef60f0e47
+      record_title: Report on the Historical Record of U.S. Government Involvement with Unidentified Anomalous Phenomena (UAP),
+        Volume I
+      record_date: '2024-02-01'
+      record_reference: null
+      content_hash: sha256:8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a94774067868
+      friendly_name: 2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a
+  - claim_id: c0b94ac9-4985-4b42-9af8-eeb13438b84e
+    claim_hash: b91a5824e9e717f5e6d5428421178d256581b26518120e34a7d134bf02854d71
+    content: The Condon Report panel determined that Frank Edwards's claims about a UFO fragment and Vannevar Bush's involvement
+      most likely were false.
+    original_excerpt: The Condon panel determined that these claims most likely were false.
+    claim_type: administrative
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: named
+      origin: The Condon Report
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 4ada3704-4cd8-4cf2-b0fe-fcfb6716abaa
+        title: Vannevar Bush
+        slug: vannevar-bush
+      - node_id: 4ca72f01-5794-474d-8fa6-7c9e04a4ca57
+        title: Condon Report
+        slug: condon-report
+      - node_id: e0f5987b-40af-4833-88bc-51b0904fb4dd
+        title: Frank Edwards
+        slug: frank-edwards
+    date: null
+    date_end: null
+    location_in_record: char:51826-51889
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: d3743fdf-6a99-43ef-98d4-b79ef60f0e47
+      record_title: Report on the Historical Record of U.S. Government Involvement with Unidentified Anomalous Phenomena (UAP),
+        Volume I
+      record_date: '2024-02-01'
+      record_reference: null
+      content_hash: sha256:8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a94774067868
+      friendly_name: 2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a
+  - claim_id: a1711a29-fb55-49a6-8e40-e0d43f363bc3
+    claim_hash: 266818c18e5b1ee6222b684173b0633f653d1561100fef020b0bc461fe77ffdd
+    content: Chris Ramsey names Vannevar Bush and Detlef Gronk among the members of MJ-12 who may have been involved with
+      UFOs at the time.
+    original_excerpt: including all of the members or some of the members of MJ-12, you know, like Dr. Vannevar Bush and Detlef
+      Gronk.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 24d00311-06ac-46a1-a2f5-c99f3f8e21b2
+      title: Chris Ramsay
+    provenance_chain:
+      origin_kind: speaker
+      origin: Chris Ramsey
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 40d62987-68cd-4814-85fe-c058f64df1fc
+        title: Detlef Gronk
+        slug: detlef-gronk
+      - node_id: 4ada3704-4cd8-4cf2-b0fe-fcfb6716abaa
+        title: Vannevar Bush
+        slug: vannevar-bush
+      - node_id: e273b6e6-a281-407c-9e14-d463d6f3a4d5
+        title: MJ-12
+        slug: mj-12
+    date: null
+    date_end: null
+    location_in_record: 00:37:02.0-00:37:09.8
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: f87bfd7f-e9da-40a1-b798-17f613313a67
+      record_title: Aliens and Albert Einstein - The Secret Document - DEBRIEFED ep. 33
+      record_date: '2025-04-11'
+      record_reference: https://www.youtube.com/watch?v=iSWqhLKzy2Q
+      content_hash: sha256:eda11247c8b061a87c50e7b919534a7201f12ef917f25680fe585121abef783c
+      friendly_name: null
+  - claim_id: bc9da4d5-0665-48a2-893c-385b3299867c
+    claim_hash: ab8a7cd303a405ae9dbc3702d98575ffe77eaeb9e43357659f6e559d1e8f034b
+    content: The Truman Directive of 24 September 1947 was issued at the request of Vannevar Bush and James Forrestal, the
+      Secretary of Defense.
+    original_excerpt: It was issued at the request of Dr. Vannevar Bush and James Forrestal, the Secretary of Defense, as
+      you've said.
+    claim_type: administrative
+    attestation: null
+    speaker:
+      node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+      title: Ross Coulthart
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 4128bd50-87f8-46c4-92e5-b0e1e7239816
+        title: Truman Directive of 1947-09-24
+        slug: truman-directive-of-1947-09-24
+      - node_id: 4ada3704-4cd8-4cf2-b0fe-fcfb6716abaa
+        title: Vannevar Bush
+        slug: vannevar-bush
+      - node_id: ec304822-db5e-484b-9c4a-b2d43d70757a
+        title: James Forrestal
+        slug: james-forrestal
+    date: null
+    date_end: null
+    location_in_record: 00:17:18.3-00:17:24.4
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: d17e43f2-fe6c-4a2d-824d-fd379e6891c5
+      record_title: Watergate, the JFK assassination and a UFO secret at the center of it all | Reality Check
+      record_date: '2026-06-18'
+      record_reference: https://www.youtube.com/watch?v=PeULVsP-jEQ
+      content_hash: sha256:997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc07360cb2ab1
+      friendly_name: null
+  - claim_id: 10988019-e1bc-4e72-8302-53217dfdc95c
+    claim_hash: f3e22e173b27d13421990f92e95654a03d045ab218a4937a8fef5281d2117a29
+    content: James Forrestal and Vannevar Bush held a lunch with Henry Tizard, the chief scientific adviser to the UK Ministry
+      of Defence, on 1 October 1947.
+    original_excerpt: They held a lunch, Forrestal and Bush, Vannevar Bush, held a lunch with the British scientist, Sir Henry
+      Tizard, the chief scientific adviser to the UK Ministry of Defence. On, as you say, the 1st of October 1947
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+      title: Ross Coulthart
+    provenance_chain:
+      origin_kind: speaker
+      origin: Ross Coulthart
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 00342f1c-59c8-4b00-aa9d-ad2b8cc6f2f4
+        title: 1947-10 Forrestal-Tizard meetings
+        slug: 1947-10-forrestal-tizard-meetings
+      - node_id: 4ada3704-4cd8-4cf2-b0fe-fcfb6716abaa
+        title: Vannevar Bush
+        slug: vannevar-bush
+      - node_id: 7a34498a-e727-43f3-aa35-6794f29ceedb
+        title: Henry Tizard
+        slug: henry-tizard
+      - node_id: ebfeea63-bb6d-4fa3-a1e9-35b5a2c33b7f
+        title: UK Ministry of Defence
+        slug: uk-ministry-of-defence
+      - node_id: ec304822-db5e-484b-9c4a-b2d43d70757a
+        title: James Forrestal
+        slug: james-forrestal
+    date: '1947-10-01'
+    date_end: null
+    location_in_record: 00:22:43.0-00:22:56.4
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: d17e43f2-fe6c-4a2d-824d-fd379e6891c5
+      record_title: Watergate, the JFK assassination and a UFO secret at the center of it all | Reality Check
+      record_date: '2026-06-18'
+      record_reference: https://www.youtube.com/watch?v=PeULVsP-jEQ
+      content_hash: sha256:997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc07360cb2ab1
+      friendly_name: null
+  - claim_id: 0ea2729a-2d49-4a4f-a596-8611751f2583
+    claim_hash: 513fe53a0217b8a523cd20399cf7d0c744250a875c8d1eb4692b3a9a86b90a0b
+    content: Ross Coulthart considers it extremely unlikely that James Forrestal and Vannevar Bush did not brief Henry Tizard
+      on Majestic 12 (MJ-12) and the UFO issue at their October 1947 meeting.
+    original_excerpt: it's unlikely in the extreme that they didn't brief Tizard on the UFOs issue on Majestic.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+      title: Ross Coulthart
+    provenance_chain:
+      origin_kind: speaker
+      origin: Ross Coulthart
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 4ada3704-4cd8-4cf2-b0fe-fcfb6716abaa
+        title: Vannevar Bush
+        slug: vannevar-bush
+      - node_id: 7a34498a-e727-43f3-aa35-6794f29ceedb
+        title: Henry Tizard
+        slug: henry-tizard
+      - node_id: 93df8d48-8068-409a-a198-27e923af6cde
+        title: Majestic 12 (MJ-12)
+        slug: majestic-12-mj-12
+      - node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+        title: Ross Coulthart
+        slug: ross-coulthart
+      - node_id: ec304822-db5e-484b-9c4a-b2d43d70757a
+        title: James Forrestal
+        slug: james-forrestal
+    date: null
+    date_end: null
+    location_in_record: 00:23:06.0-00:23:13.8
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: d17e43f2-fe6c-4a2d-824d-fd379e6891c5
+      record_title: Watergate, the JFK assassination and a UFO secret at the center of it all | Reality Check
+      record_date: '2026-06-18'
+      record_reference: https://www.youtube.com/watch?v=PeULVsP-jEQ
+      content_hash: sha256:997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc07360cb2ab1
+      friendly_name: null
+  - claim_id: d0de81e4-2e15-4d50-b2da-05563be2e5e6
+    claim_hash: 99623d6c3dbcdb33663b4c4e870ff07313c78437b1dd346c1bc36f94621171c3
+    content: Vannevar Bush established the relationship between scientists and the US government.
+    original_excerpt: You can actually thank one of the greatest scientific minds in US history, Dr. Vannevar Bush, for establishing
+      the relationship between the scientists and between the US government.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 78ca02a3-3c5f-4295-9c7b-3d547643603f
+      title: UAP Gerb
+    provenance_chain:
+      origin_kind: speaker
+      origin: UAP Gerb
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 4ada3704-4cd8-4cf2-b0fe-fcfb6716abaa
+        title: Vannevar Bush
+        slug: vannevar-bush
+    date: null
+    date_end: null
+    location_in_record: 00:56:34.4-00:56:41.7
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 8c1d10dd-26ad-481a-9699-761ecf181743
+      record_title: 'Episode 73: Science vs. Secrecy'
+      record_date: '2026-06-30'
+      record_reference: https://www.youtube.com/watch?v=tZHuAZpLdFw
+      content_hash: sha256:ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230a948eb3d
+      friendly_name: null
+  - claim_id: aba985af-7ac6-4601-8b1c-24495a9218df
+    claim_hash: e2ace5a091f06ec4fa596bfcf174842d74b68e532186dfc700befd3d9c6763d9
+    content: In 1948, President Harry Truman is alleged to have established classified presidential executive orders, referred
+      to by Eric Davis as Presidential Emergency Action Documents (PEADs), that relegated custody of recovered disks to Atomic
+      Energy Commission National Lab Control to be studied under Vannevar Bush's Joint Research and Development Board and
+      its successor, the Research and Development Board.
+    original_excerpt: there are serious credible allegations that within the late 40s, 1948, to be specific, President Harry
+      Truman established classified presidential executive orders, also referred to by your colleague, Dr. Eric Davis, as
+      PEADS, presidential emergency action documents, that relegated custody of recovered disks to Atomic Energy Commission
+      National Lab Control to be studied under Vannevar Bush, his soon to be Joint Research and Development Board and then
+      Research and Development Board
+    claim_type: hearsay
+    attestation: null
+    speaker:
+      node_id: 78ca02a3-3c5f-4295-9c7b-3d547643603f
+      title: UAP Gerb
+    provenance_chain:
+      origin_kind: unattributed
+      origin: unnamed allegations
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 4ada3704-4cd8-4cf2-b0fe-fcfb6716abaa
+        title: Vannevar Bush
+        slug: vannevar-bush
+      - node_id: 589d7469-f87f-4da5-afa8-cabca7be6818
+        title: Harry S. Truman
+        slug: harry-s-truman
+      - node_id: 6ccc0ddb-8dc6-4dd0-92d5-c86e9e3cda25
+        title: United States Atomic Energy Commission
+        slug: united-states-atomic-energy-commission
+      - node_id: 8f7f2a6e-3af3-4ff9-abc0-d3d868958f00
+        title: Joint Research and Development Board
+        slug: joint-research-and-development-board
+      - node_id: 9ab76638-a596-48f1-9a58-9c9251cc97f3
+        title: Eric Davis
+        slug: eric-davis
+      - node_id: b612d415-9e40-4e28-ac70-54f1ade35c47
+        title: Presidential Emergency Action Documents (PEADs)
+        slug: presidential-emergency-action-documents-peads
+    date: '1948'
+    date_end: null
+    location_in_record: 00:56:53.3-00:57:19.8
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 8c1d10dd-26ad-481a-9699-761ecf181743
+      record_title: 'Episode 73: Science vs. Secrecy'
+      record_date: '2026-06-30'
+      record_reference: https://www.youtube.com/watch?v=tZHuAZpLdFw
+      content_hash: sha256:ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230a948eb3d
+      friendly_name: null
+  - claim_id: 8d66f9a1-9056-47c4-956e-8052d9a6324e
+    claim_hash: 21dd997f976f0adcae8de093c6463c34e409f786cd70ad092ea27a142f53ef98
+    content: Vannevar Bush lived in Belmont, Massachusetts, which is next to Lexington, Massachusetts, where Avi Loeb lives.
+    original_excerpt: Vannevar Bush lived in Belmont, which is just next to where I live in Lexington, Massachusetts.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 5f29d662-0d3b-4af3-ab7d-16cbb0a33d30
+      title: Avi Loeb
+    provenance_chain:
+      origin_kind: speaker
+      origin: Avi Loeb
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 379a5b1d-c65a-4d59-bdea-1a72ba2ee783
+        title: USA, Massachusetts, Lexington
+        slug: massachusetts-lexington-usa
+      - node_id: 4ada3704-4cd8-4cf2-b0fe-fcfb6716abaa
+        title: Vannevar Bush
+        slug: vannevar-bush
+      - node_id: 5f29d662-0d3b-4af3-ab7d-16cbb0a33d30
+        title: Avi Loeb
+        slug: avi-loeb
+      - node_id: 8b5fd60f-8d30-42c9-a27f-99d4620ef8d0
+        title: USA, Massachusetts, Belmont
+        slug: massachusetts-belmont-usa
+    date: null
+    date_end: null
+    location_in_record: 00:57:23.6-00:57:29.2
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 8c1d10dd-26ad-481a-9699-761ecf181743
+      record_title: 'Episode 73: Science vs. Secrecy'
+      record_date: '2026-06-30'
+      record_reference: https://www.youtube.com/watch?v=tZHuAZpLdFw
+      content_hash: sha256:ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230a948eb3d
+      friendly_name: null
+  - claim_id: 2160cfd1-50a5-4c19-bfb4-cc214b3048be
+    claim_hash: db5cc2e6452f1d744e6e97b0928940917142e8e429cb6818895c1dfd455ed772
+    content: The Wilbert Smith 1950 memorandum on flying saucers records that Vannevar Bush had put together a team to look
+      into flying saucers.
+    original_excerpt: he even says, Vannevar Bush put together a team to look into this stuff
+    claim_type: administrative
+    attestation: second_hand
+    speaker:
+      node_id: 24d00311-06ac-46a1-a2f5-c99f3f8e21b2
+      title: Chris Ramsay
+    provenance_chain:
+      origin_kind: document
+      origin: Wilbert Smith 1950 memorandum on flying saucers
+      relay:
+        - Chris Ramsay
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 24d00311-06ac-46a1-a2f5-c99f3f8e21b2
+        title: Chris Ramsay
+        slug: chris-ramsay
+      - node_id: 4ada3704-4cd8-4cf2-b0fe-fcfb6716abaa
+        title: Vannevar Bush
+        slug: vannevar-bush
+      - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
+        title: Unidentified Flying Object (UFO)
+        slug: unidentified-flying-object-ufo
+      - node_id: b8f40be9-d8c9-4217-962f-2421f8d05a55
+        title: Wilbert Smith 1950 memorandum on flying saucers
+        slug: wilbert-smith-1950-memorandum-on-flying-saucers
+    date: '1950'
+    date_end: null
+    location_in_record: 02:48:49.4-02:48:54.6
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 43b2873d-8ebe-46aa-9425-a7e273c46e34
+      record_title: Non Human Intelligence, GATE Program and Psi Ability with Dr. Julia Mossbridge | ep. 99
+      record_date: '2026-08-14'
+      record_reference: https://www.youtube.com/watch?v=-qt2FYdP_EA
+      content_hash: sha256:8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8998cfdcd
+      friendly_name: null

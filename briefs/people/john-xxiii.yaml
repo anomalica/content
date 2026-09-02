@@ -1,0 +1,1999 @@
+schema: anomalica/brief/1
+brief_hash: 276a9318640c123efbe81da196b5f49dcc6a595050cebdeb724842db5323446b
+page:
+  kind: entity
+  node_id: ff3b3953-e566-48ff-933f-8c176d32db54
+  node_type: person
+  title: John XXIII
+  slug: john-xxiii
+  claim_count: 47
+  claim_count_total: 47
+generated:
+  graph_version: '2026-09-01T10:10:49.863545+00:00'
+size:
+  claims: 47
+  tokens_estimated: 14306
+  sized_against: 1050000
+publication:
+  status: published
+  note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
+    transcripts are gated elsewhere.
+belonging:
+  verified: 0
+  suspect_excluded: 0
+  unreviewed: 47
+related_nodes:
+  - node_id: b6b60271-c105-4b1f-89ec-bd02227901d9
+    title: Third Secret of Fatima
+    node_type: document
+    slug: third-secret-of-fatima
+    shared_claims: 23
+  - node_id: 11e5d467-eddb-4565-b496-984e85ca249a
+    title: Italy, Castel Gandolfo
+    node_type: place
+    slug: castel-gandolfo-italy
+    shared_claims: 5
+  - node_id: 447252e4-e100-43f2-8f8a-54cdb1c57e36
+    title: Malachi Martin
+    node_type: person
+    slug: malachi-martin
+    shared_claims: 4
+  - node_id: e63698cc-274e-4e27-b576-a027fb10f37f
+    title: Paul VI
+    node_type: person
+    slug: paul-vi
+    shared_claims: 4
+  - node_id: 34cbcce0-b88a-4057-8691-635f2902c481
+    title: Italy, Rome
+    node_type: place
+    slug: rome-italy
+    shared_claims: 3
+  - node_id: 32aac518-3882-443e-8d56-2e7be7a5688e
+    title: John XXIII's opening of the Third Secret envelope (1959-08-17)
+    node_type: event
+    slug: john-xxiiis-opening-of-the-third-secret-envelope-1959-08-17
+    shared_claims: 3
+  - node_id: bbddfa81-653b-4aa6-8e98-3ba0d1485044
+    title: Lúcia (Fatima seer)
+    node_type: person
+    slug: lucia-fatima-seer
+    shared_claims: 3
+  - node_id: 06d4e2fc-77bb-4c00-bb30-de3462fb11b1
+    title: Second Vatican Council
+    node_type: event
+    slug: second-vatican-council
+    shared_claims: 3
+  - node_id: 24136f1c-4cb7-4030-8ed1-35855481a65e
+    title: Tyler D.
+    node_type: person
+    slug: tyler-d
+    shared_claims: 3
+  - node_id: 82b8d978-e21d-4aaf-a513-38518702d2f6
+    title: Bea (Cardinal)
+    node_type: person
+    slug: bea-cardinal
+    shared_claims: 2
+  - node_id: e98a32b4-349a-4a66-b918-f07622fdace1
+    title: Cuban Missile Crisis (1962-10)
+    node_type: event
+    slug: cuban-missile-crisis-1962-10
+    shared_claims: 2
+  - node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
+    title: Jacques Vallée
+    node_type: person
+    slug: jacques-vallee
+    shared_claims: 2
+  - node_id: 4484f20d-af42-40af-b0ab-964afae98ec7
+    title: John Paul II
+    node_type: person
+    slug: john-paul-ii
+    shared_claims: 2
+  - node_id: 9dd4a9e0-df04-4593-83cb-d36dc7dabdab
+    title: Pius XII
+    node_type: person
+    slug: pius-xii
+    shared_claims: 2
+  - node_id: 95472b02-af65-4737-896c-993994f9be27
+    title: Portugal, Fatima
+    node_type: place
+    slug: fatima-portugal
+    shared_claims: 2
+  - node_id: cb54ad51-94b1-4a33-b036-7c00ad40cf6b
+    title: Vatican
+    node_type: organisation
+    slug: vatican
+    shared_claims: 2
+  - node_id: c3049206-6e8c-43b6-a645-5b8c47da0e56
+    title: 1917 Fatima Marian apparitions
+    node_type: event
+    slug: 1917-fatima-marian-apparitions
+    shared_claims: 1
+  - node_id: cd369cba-7f0b-4726-bb98-7d0ab5bc8092
+    title: Albert Schweitzer
+    node_type: person
+    slug: albert-schweitzer
+    shared_claims: 1
+  - node_id: eb22d754-dbb1-4be0-8da7-7084e2b9ff4a
+    title: Alfredo Cavagna
+    node_type: person
+    slug: alfredo-cavagna
+    shared_claims: 1
+  - node_id: b024a129-fffd-45ef-bc67-f1bc29af1b8f
+    title: Bertrand Russell
+    node_type: person
+    slug: bertrand-russell
+    shared_claims: 1
+  - node_id: 6c262c92-9da2-45a2-abbb-81e95cdd400c
+    title: Catholic Church
+    node_type: organisation
+    slug: catholic-church
+    shared_claims: 1
+  - node_id: b454b345-1c72-4ea1-ad89-993030ba8224
+    title: Conchita (Garabandal seer)
+    node_type: person
+    slug: conchita-garabandal-seer
+    shared_claims: 1
+  - node_id: e899e96b-b5f6-43e7-a414-678811f724b9
+    title: Death of John XXIII (1963-06-03)
+    node_type: event
+    slug: death-of-john-xxiii-1963-06-03
+    shared_claims: 1
+  - node_id: f2daae19-9351-4a8e-b466-664f83887f61
+    title: Diana Walsh Pasulka
+    node_type: person
+    slug: diana-walsh-pasulka
+    shared_claims: 1
+  - node_id: d4806f1d-d95b-46cb-bbaa-fab1c899be32
+    title: Emmanuel Mounier
+    node_type: person
+    slug: emmanuel-mounier
+    shared_claims: 1
+  - node_id: 13b1c891-bcc2-44f1-b69b-a9b1269a83c3
+    title: Ernesto (Che) Guevara
+    node_type: person
+    slug: ernesto-che-guevara
+    shared_claims: 1
+  - node_id: ad3e3fc1-f555-4ed5-a6b2-2fd06f301a1c
+    title: Fatima 2000 Conference (1995-11)
+    node_type: event
+    slug: fatima-2000-conference-1995-11
+    shared_claims: 1
+  - node_id: b87112f4-d737-49fd-bb59-4efeace92707
+    title: Helder Camara
+    node_type: person
+    slug: helder-camara
+    shared_claims: 1
+  - node_id: d2086c24-9d5d-4838-96a8-c17f99427cd6
+    title: Incorruptibility (Catholic tradition)
+    node_type: topic
+    slug: incorruptibility-catholic-tradition
+    shared_claims: 1
+  - node_id: fd098218-945b-496e-a091-cf4602e3a5a2
+    title: Italy, Bergamo, Sotto il Monte
+    node_type: place
+    slug: bergamo-sotto-il-monte-italy
+    shared_claims: 1
+claims:
+  - claim_id: 122db297-02b9-477a-8ea7-22c9899c3567
+    claim_hash: ddff2a93bc5fc0f546d3f8d560013d0d9e93262b44d37f0f86e25d702d56c433
+    content: Father Paul Philippe delivered an envelope to Pope John XXIII at Castel Gandolfo on 1959-08-17.
+    original_excerpt: He handed him an envelope. ... Father Paul Philippe bowed respectfully. He had done his job of bringing
+      to Castelgondolfo what was perhaps the most explosive document in the Christian world.
+    claim_type: observation
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: narration
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 088dfc18-7a7f-4f3e-9df2-7ffad62e9699
+        title: Paul Philippe
+        slug: paul-philippe
+      - node_id: 11e5d467-eddb-4565-b496-984e85ca249a
+        title: Italy, Castel Gandolfo
+        slug: castel-gandolfo-italy
+      - node_id: ff3b3953-e566-48ff-933f-8c176d32db54
+        title: John XXIII
+        slug: john-xxiii
+    date: '1959-08-17'
+    date_end: null
+    location_in_record: 7-11
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 171e1337-151f-40c5-8b9a-659faac4c5f6
+      record_title: The Fatima Secret
+      record_date: '2000-11-28'
+      record_reference: null
+      content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
+      friendly_name: 2000-11-28-ebook-the-fatima-secret
+  - claim_id: 96443a75-e233-4307-9d7c-a6491264ff81
+    claim_hash: b180e48b6fb18387f71c86a4e402fb770e210bdbe2530fd177adf0da31c254f2
+    content: When Pope John XXIII realised what the Third Secret was about on 1959-08-17, his face turned white as chalk.
+    original_excerpt: When he realized what it was all about, his face turned white as chalk.
+    claim_type: observation
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: narration
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: b6b60271-c105-4b1f-89ec-bd02227901d9
+        title: Third Secret of Fatima
+        slug: third-secret-of-fatima
+      - node_id: ff3b3953-e566-48ff-933f-8c176d32db54
+        title: John XXIII
+        slug: john-xxiii
+    date: '1959-08-17'
+    date_end: null
+    location_in_record: ch16:10172-10237
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 171e1337-151f-40c5-8b9a-659faac4c5f6
+      record_title: The Fatima Secret
+      record_date: '2000-11-28'
+      record_reference: null
+      content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
+      friendly_name: 2000-11-28-ebook-the-fatima-secret
+  - claim_id: 64ba6e8c-f994-4c3e-bb4d-7c3095dfc02f
+    claim_hash: 8cd4941e4a1f4ea618d44d7bf95221ad22fd4b9825e95fe151b49631ccca1bd3
+    content: On 1959-08-17 three men sat and discussed the contents of the Third Secret until late at night, after which Pope
+      John XXIII decided he could not and would not publish it, saying it was certain it did not deal with his own papal reign.
+    original_excerpt: The three men sat and discussed the contents of Lúcia’s writing until late at night, then the pontiff
+      made his decision. “I cannot publish this and will not publish it. I’ll leave it for others to do so. It is certain
+      that it does not deal with my reign.”
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: ff3b3953-e566-48ff-933f-8c176d32db54
+      title: John XXIII
+    provenance_chain:
+      origin_kind: speaker
+      origin: John XXIII
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: b6b60271-c105-4b1f-89ec-bd02227901d9
+        title: Third Secret of Fatima
+        slug: third-secret-of-fatima
+      - node_id: ff3b3953-e566-48ff-933f-8c176d32db54
+        title: John XXIII
+        slug: john-xxiii
+    date: '1959-08-17'
+    date_end: null
+    location_in_record: ch16:10245-10493
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 171e1337-151f-40c5-8b9a-659faac4c5f6
+      record_title: The Fatima Secret
+      record_date: '2000-11-28'
+      record_reference: null
+      content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
+      friendly_name: 2000-11-28-ebook-the-fatima-secret
+  - claim_id: 900697e9-8732-4640-8d6d-e0e6870c4bc8
+    claim_hash: a8265caf1876672c4ddd5182299ffb918fe3c5229374ebd192bc3535d4c88c8c
+    content: Pope John XXIII put Sister Lúcia's letter back in its envelope along with a personal note explaining the reasons
+      for his decision not to publish the Third Secret, then told his closest advisors about its contents and his decision,
+      and made them all swear to secrecy.
+    original_excerpt: He put Lúcia’s letter back in its envelope, together with a personal note in which he wrote down the
+      reasons for his decision. Back in Rome he called his closest advisors together and told them about the contents of the
+      secret as well as his decision not to make them public. He made them all swear to keep the secret.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: narration
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 34cbcce0-b88a-4057-8691-635f2902c481
+        title: Italy, Rome
+        slug: rome-italy
+      - node_id: b6b60271-c105-4b1f-89ec-bd02227901d9
+        title: Third Secret of Fatima
+        slug: third-secret-of-fatima
+      - node_id: ff3b3953-e566-48ff-933f-8c176d32db54
+        title: John XXIII
+        slug: john-xxiii
+    date: '1959-08-17'
+    date_end: null
+    location_in_record: ch16:10501-10812
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 171e1337-151f-40c5-8b9a-659faac4c5f6
+      record_title: The Fatima Secret
+      record_date: '2000-11-28'
+      record_reference: null
+      content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
+      friendly_name: 2000-11-28-ebook-the-fatima-secret
+  - claim_id: 0df938ba-9e7b-474d-922e-6e6b6d450d31
+    claim_hash: df0921af47c4ad4d0f807c7d34844271fabbb9ae0c8dafee4a25520ce2a51301
+    content: At the "Fatima 2000" Conference in November 1995, Dr. Malachi Martin, former secretary of Cardinal Bea, recalled
+      that the cardinal was shaken and annoyed that Pope John XXIII would not publish the Third Secret.
+    original_excerpt: At the “Fatima 2000” Conference in November 1995 the former secretary of Cardinal Bea, Dr. Malachi Martin,
+      recalled the reaction of the cardinal after he left the secret meeting. He said that the cardinal was obviously shaken,
+      but also annoyed that the pope would not publish the Third Secret.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 447252e4-e100-43f2-8f8a-54cdb1c57e36
+      title: Malachi Martin
+    provenance_chain:
+      origin_kind: speaker
+      origin: Martin, Malachi
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 447252e4-e100-43f2-8f8a-54cdb1c57e36
+        title: Malachi Martin
+        slug: malachi-martin
+      - node_id: 82b8d978-e21d-4aaf-a513-38518702d2f6
+        title: Bea (Cardinal)
+        slug: bea-cardinal
+      - node_id: ad3e3fc1-f555-4ed5-a6b2-2fd06f301a1c
+        title: Fatima 2000 Conference (1995-11)
+        slug: fatima-2000-conference-1995-11
+      - node_id: b6b60271-c105-4b1f-89ec-bd02227901d9
+        title: Third Secret of Fatima
+        slug: third-secret-of-fatima
+      - node_id: ff3b3953-e566-48ff-933f-8c176d32db54
+        title: John XXIII
+        slug: john-xxiii
+    date: 1995-11
+    date_end: null
+    location_in_record: ch16:11267-11553
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 171e1337-151f-40c5-8b9a-659faac4c5f6
+      record_title: The Fatima Secret
+      record_date: '2000-11-28'
+      record_reference: null
+      content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
+      friendly_name: 2000-11-28-ebook-the-fatima-secret
+  - claim_id: 4d9adda6-42cc-4edd-82cd-3dd4daa7223e
+    claim_hash: a57eb76d55a0ace1596fd9f7a31589d066ee06528a04f30f12812acb93acdd9e
+    content: Dr. Malachi Martin was later told the contents of the Third Secret by Pope John XXIII.
+    original_excerpt: Dr. Martin was later told the contents of the Third Secret by Pope John.
+    claim_type: testimony
+    attestation: second_hand
+    speaker:
+      node_id: 447252e4-e100-43f2-8f8a-54cdb1c57e36
+      title: Malachi Martin
+    provenance_chain:
+      origin_kind: named
+      origin: John XXIII
+      relay:
+        - Malachi Martin
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 447252e4-e100-43f2-8f8a-54cdb1c57e36
+        title: Malachi Martin
+        slug: malachi-martin
+      - node_id: b6b60271-c105-4b1f-89ec-bd02227901d9
+        title: Third Secret of Fatima
+        slug: third-secret-of-fatima
+      - node_id: ff3b3953-e566-48ff-933f-8c176d32db54
+        title: John XXIII
+        slug: john-xxiii
+    date: null
+    date_end: null
+    location_in_record: ch16:11561-11628
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 171e1337-151f-40c5-8b9a-659faac4c5f6
+      record_title: The Fatima Secret
+      record_date: '2000-11-28'
+      record_reference: null
+      content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
+      friendly_name: 2000-11-28-ebook-the-fatima-secret
+  - claim_id: 1e93f0b9-bb8c-4246-8ad1-e7d166370e89
+    claim_hash: e85da781f4c0cdea52be2296b4151821a6b27e81bd50366fe333fbf4f8de5b2c
+    content: The seal of the Third Secret letter had already been broken six months before the 1960 announcement, by Pope
+      John XXIII.
+    original_excerpt: Also, the seal of the letter had already been broken six months before, by Pope John XXIII.
+    claim_type: administrative
+    attestation: first_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: speaker
+      origin: Hesemann, Michael
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 32aac518-3882-443e-8d56-2e7be7a5688e
+        title: John XXIII's opening of the Third Secret envelope (1959-08-17)
+        slug: john-xxiiis-opening-of-the-third-secret-envelope-1959-08-17
+      - node_id: b6b60271-c105-4b1f-89ec-bd02227901d9
+        title: Third Secret of Fatima
+        slug: third-secret-of-fatima
+      - node_id: ff3b3953-e566-48ff-933f-8c176d32db54
+        title: John XXIII
+        slug: john-xxiii
+    date: '1960-02-08'
+    date_end: null
+    location_in_record: ch16:13226-13311
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 171e1337-151f-40c5-8b9a-659faac4c5f6
+      record_title: The Fatima Secret
+      record_date: '2000-11-28'
+      record_reference: null
+      content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
+      friendly_name: 2000-11-28-ebook-the-fatima-secret
+  - claim_id: 4afbce7d-5034-4bd5-8e59-f14b59ae1634
+    claim_hash: 5d0465640c2300d002709bd0d44596c2c80209698ccfac877f4ea025a9734a38
+    content: Only years after the 1960 announcement did Pope John XXIII mention the secret to the cardinal of Lisbon in vague,
+      general words, from which the cardinal realised it was a very serious matter, reasoning that since nothing joyous was
+      said about it, it must be very sad.
+    original_excerpt: Only years later did John XXIII mention the secret to him, “in vague words, very generally. I realized
+      it was a very serious matter. If it had been joyous, I would have been told about it. Since nothing specific was said,
+      it means that it is very sad.”
+    claim_type: testimony
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: the cardinal of Lisbon
+      relay:
+        - John XXIII
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: b6b60271-c105-4b1f-89ec-bd02227901d9
+        title: Third Secret of Fatima
+        slug: third-secret-of-fatima
+      - node_id: ff3b3953-e566-48ff-933f-8c176d32db54
+        title: John XXIII
+        slug: john-xxiii
+    date: null
+    date_end: null
+    location_in_record: ch16:13520-13767
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 171e1337-151f-40c5-8b9a-659faac4c5f6
+      record_title: The Fatima Secret
+      record_date: '2000-11-28'
+      record_reference: null
+      content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
+      friendly_name: 2000-11-28-ebook-the-fatima-secret
+  - claim_id: f3340b67-b6f9-42fd-b575-360787f6186e
+    claim_hash: 3a124fad24336284d26bb1ccd152931d3cb74d17775d06f002bd50a2168ccdb1
+    content: Pope John XXIII kept the Fatima message on his desk during the rest of his time in office until his death on
+      1963-06-03.
+    original_excerpt: John XXIII kept the Fatima message on his desk during the rest of his period in office, until his death
+      on June 3, 1963.
+    claim_type: observation
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: narration
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: b6b60271-c105-4b1f-89ec-bd02227901d9
+        title: Third Secret of Fatima
+        slug: third-secret-of-fatima
+      - node_id: e899e96b-b5f6-43e7-a414-678811f724b9
+        title: Death of John XXIII (1963-06-03)
+        slug: death-of-john-xxiii-1963-06-03
+      - node_id: ff3b3953-e566-48ff-933f-8c176d32db54
+        title: John XXIII
+        slug: john-xxiii
+    date: '1963-06-03'
+    date_end: null
+    location_in_record: ch16:13774-13889
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 171e1337-151f-40c5-8b9a-659faac4c5f6
+      record_title: The Fatima Secret
+      record_date: '2000-11-28'
+      record_reference: null
+      content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
+      friendly_name: 2000-11-28-ebook-the-fatima-secret
+  - claim_id: 6be43974-9ba1-436a-9fc7-0b82fea3e696
+    claim_hash: ad6ee6a886413af7b233b59cb38c43fac5e63d94c5201fa6e11dc34bfdafcceb
+    content: Father José Geraldes Freire, an authority on Fatima, stated that John XXIII gave the Third Secret message great
+      importance and that certain major decisions many found inexplicable were influenced by it.
+    original_excerpt: “Quite the contrary,” declared Father José Geraldes Freire, an authority regarding Fatima. “I have evidence
+      that John XXIII gave the message great importance, and that certain major decisions, which many found inexplicable,
+      were influenced by it.”
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 533594b7-9713-4e54-a53f-5f36080e7a9d
+      title: José Geraldes Freire
+    provenance_chain:
+      origin_kind: speaker
+      origin: Freire, José Geraldes
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 533594b7-9713-4e54-a53f-5f36080e7a9d
+        title: José Geraldes Freire
+        slug: jose-geraldes-freire
+      - node_id: b6b60271-c105-4b1f-89ec-bd02227901d9
+        title: Third Secret of Fatima
+        slug: third-secret-of-fatima
+      - node_id: ff3b3953-e566-48ff-933f-8c176d32db54
+        title: John XXIII
+        slug: john-xxiii
+    date: null
+    date_end: null
+    location_in_record: ch16:13982-14224
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 171e1337-151f-40c5-8b9a-659faac4c5f6
+      record_title: The Fatima Secret
+      record_date: '2000-11-28'
+      record_reference: null
+      content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
+      friendly_name: 2000-11-28-ebook-the-fatima-secret
+  - claim_id: 2ca9ffce-9bf0-41c4-ae5d-4e83a2009308
+    claim_hash: b8ec829cb52df28f1015baf0aa401bb7c47a9d939da42db621e5174f4d920635
+    content: When the Third Secret envelope was brought to Pope John XXIII at Castel Gandolfo, the seal on the envelope was
+      still intact.
+    original_excerpt: When the envelope was brought to his successor, Pope John XXIII, at Castelgondolfo, the seal on the
+      envelope was still intact.
+    claim_type: observation
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: narration
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 11e5d467-eddb-4565-b496-984e85ca249a
+        title: Italy, Castel Gandolfo
+        slug: castel-gandolfo-italy
+      - node_id: b6b60271-c105-4b1f-89ec-bd02227901d9
+        title: Third Secret of Fatima
+        slug: third-secret-of-fatima
+      - node_id: ff3b3953-e566-48ff-933f-8c176d32db54
+        title: John XXIII
+        slug: john-xxiii
+    date: null
+    date_end: null
+    location_in_record: ch16:6954-7073
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 171e1337-151f-40c5-8b9a-659faac4c5f6
+      record_title: The Fatima Secret
+      record_date: '2000-11-28'
+      record_reference: null
+      content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
+      friendly_name: 2000-11-28-ebook-the-fatima-secret
+  - claim_id: 3868beae-a86a-4fa8-a048-657db58f8c02
+    claim_hash: 8ee66c7f07f88b777b28c5cf8453c245fcf00a3645090752731cf4838f30d599
+    content: Early in 1959 a high official in the Vatican suggested to Pope John XXIII that Sister Lúcia be permitted to speak
+      to the world over the radio, but the pope turned the suggestion down.
+    original_excerpt: When, early in 1959, a high official in the Vatican suggested to Pope John XXIII that Sister Lúcia be
+      permitted to speak to the world over the radio, he turned him down.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: narration
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: bbddfa81-653b-4aa6-8e98-3ba0d1485044
+        title: Lúcia (Fatima seer)
+        slug: lucia-fatima-seer
+      - node_id: cb54ad51-94b1-4a33-b036-7c00ad40cf6b
+        title: Vatican
+        slug: vatican
+      - node_id: ff3b3953-e566-48ff-933f-8c176d32db54
+        title: John XXIII
+        slug: john-xxiii
+    date: '1959'
+    date_end: null
+    location_in_record: ch16:8822-8986
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 171e1337-151f-40c5-8b9a-659faac4c5f6
+      record_title: The Fatima Secret
+      record_date: '2000-11-28'
+      record_reference: null
+      content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
+      friendly_name: 2000-11-28-ebook-the-fatima-secret
+  - claim_id: 9e3afdeb-8bc8-4cbf-8ddf-6205154dc2e4
+    claim_hash: 1f9a0684990a0634954f6bea6b8ebe6fbaea915253b587083e56739c01ab28e6
+    content: Pope John XXIII's private secretary later wrote that it seemed as if the pope personally preferred Sister Lúcia
+      to be silent.
+    original_excerpt: “It seemed as if he personally preferred her to be silent,” his private secretary wrote later.
+    claim_type: opinion
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: anonymous
+      origin: a person claiming to be Pope John XXIII's private secretary
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: bbddfa81-653b-4aa6-8e98-3ba0d1485044
+        title: Lúcia (Fatima seer)
+        slug: lucia-fatima-seer
+      - node_id: ff3b3953-e566-48ff-933f-8c176d32db54
+        title: John XXIII
+        slug: john-xxiii
+    date: '1959'
+    date_end: null
+    location_in_record: ch16:8993-9080
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 171e1337-151f-40c5-8b9a-659faac4c5f6
+      record_title: The Fatima Secret
+      record_date: '2000-11-28'
+      record_reference: null
+      content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
+      friendly_name: 2000-11-28-ebook-the-fatima-secret
+  - claim_id: 145be8d5-4a4f-4148-ac3d-0c073700d4de
+    claim_hash: 0769ee7016bba1dc56709364958e059f9c726f6d7a227877b47724a139cb732e
+    content: In early 1959 Rome was preparing for the Second Vatican Council, and Pope John XXIII said he did not want to
+      listen to "prophets of doom."
+    original_excerpt: Rome was preparing for the Second Vatican Council, and the air was filled with a sense of hope and a
+      new beginning. No one wanted to listen to “prophets of doom,” as John XXIII called them.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: ff3b3953-e566-48ff-933f-8c176d32db54
+      title: John XXIII
+    provenance_chain:
+      origin_kind: speaker
+      origin: John XXIII
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 06d4e2fc-77bb-4c00-bb30-de3462fb11b1
+        title: Second Vatican Council
+        slug: second-vatican-council
+      - node_id: 34cbcce0-b88a-4057-8691-635f2902c481
+        title: Italy, Rome
+        slug: rome-italy
+      - node_id: ff3b3953-e566-48ff-933f-8c176d32db54
+        title: John XXIII
+        slug: john-xxiii
+    date: '1959'
+    date_end: null
+    location_in_record: ch16:9087-9271
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 171e1337-151f-40c5-8b9a-659faac4c5f6
+      record_title: The Fatima Secret
+      record_date: '2000-11-28'
+      record_reference: null
+      content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
+      friendly_name: 2000-11-28-ebook-the-fatima-secret
+  - claim_id: d492f92f-0647-491c-831d-201ca79bb76b
+    claim_hash: 6708ca4d4958c4fe2fd98b593a26a5a0a8d08c2be0e97c13577c01339cd606ed
+    content: The person in charge of keeping the Third Secret envelope safe asked Pope John XXIII if he wanted to see it,
+      and he replied he would let them know when to bring it to him.
+    original_excerpt: Finally, the person who was in charge of keeping the envelope safe asked him, “Holy Father, don’t you
+      want to see it?” He answered, “I’ll let you know when you should bring it to me.”
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: ff3b3953-e566-48ff-933f-8c176d32db54
+      title: John XXIII
+    provenance_chain:
+      origin_kind: speaker
+      origin: John XXIII
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: b6b60271-c105-4b1f-89ec-bd02227901d9
+        title: Third Secret of Fatima
+        slug: third-secret-of-fatima
+      - node_id: ff3b3953-e566-48ff-933f-8c176d32db54
+        title: John XXIII
+        slug: john-xxiii
+    date: null
+    date_end: null
+    location_in_record: ch16:9355-9535
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 171e1337-151f-40c5-8b9a-659faac4c5f6
+      record_title: The Fatima Secret
+      record_date: '2000-11-28'
+      record_reference: null
+      content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
+      friendly_name: 2000-11-28-ebook-the-fatima-secret
+  - claim_id: cbdd3aea-579f-498d-b1fc-ba205e9d4469
+    claim_hash: 6f58140a101340b7a00d8abea59be6e1d1a623527dfba7aba03413199927347f
+    content: Pope John XXIII went to Castel Gandolfo in August 1959 for the summer holidays before deciding to open the Third
+      Secret envelope, unlike his predecessor who had not done so out of respect for a falsely interpreted 1960 date.
+    original_excerpt: 'When he went to Castelgondolfo in August for the summer holidays, he was surrounded by peace and quiet,
+      so perhaps he felt the time had come. Thus Pope John decided to do what his predecessor, out of respect for a falsely
+      interpreted date, had not had the courage to do: he opened the envelope containing the message of Fatima.'
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: narration
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 11e5d467-eddb-4565-b496-984e85ca249a
+        title: Italy, Castel Gandolfo
+        slug: castel-gandolfo-italy
+      - node_id: 9dd4a9e0-df04-4593-83cb-d36dc7dabdab
+        title: Pius XII
+        slug: pius-xii
+      - node_id: b6b60271-c105-4b1f-89ec-bd02227901d9
+        title: Third Secret of Fatima
+        slug: third-secret-of-fatima
+      - node_id: ff3b3953-e566-48ff-933f-8c176d32db54
+        title: John XXIII
+        slug: john-xxiii
+    date: 1959-08
+    date_end: null
+    location_in_record: ch16:9559-9879
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 171e1337-151f-40c5-8b9a-659faac4c5f6
+      record_title: The Fatima Secret
+      record_date: '2000-11-28'
+      record_reference: null
+      content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
+      friendly_name: 2000-11-28-ebook-the-fatima-secret
+  - claim_id: 92f7a037-e11f-40c9-bd99-d381fc64bd05
+    claim_hash: a5a809b4b63c42d369fefd8fb3ddba9c985ad4474141059a5b2e3c53e2f4ff63
+    content: On 1959-08-17 Pope John XXIII opened and read the text of the Third Secret slowly with trembling hands, needing
+      help from an interpreter because he did not speak Portuguese.
+    original_excerpt: On August 17, 1959, John XXIII read the text of the Third Secret slowly, with trembling hands. The text
+      was difficult and since he did not speak Portuguese, he had to get help from an interpreter more than once.
+    claim_type: observation
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: narration
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 32aac518-3882-443e-8d56-2e7be7a5688e
+        title: John XXIII's opening of the Third Secret envelope (1959-08-17)
+        slug: john-xxiiis-opening-of-the-third-secret-envelope-1959-08-17
+      - node_id: b6b60271-c105-4b1f-89ec-bd02227901d9
+        title: Third Secret of Fatima
+        slug: third-secret-of-fatima
+      - node_id: ff3b3953-e566-48ff-933f-8c176d32db54
+        title: John XXIII
+        slug: john-xxiii
+    date: '1959-08-17'
+    date_end: null
+    location_in_record: ch16:9888-10094
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 171e1337-151f-40c5-8b9a-659faac4c5f6
+      record_title: The Fatima Secret
+      record_date: '2000-11-28'
+      record_reference: null
+      content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
+      friendly_name: 2000-11-28-ebook-the-fatima-secret
+  - claim_id: eb9e4db6-0d8a-45e5-90ac-bf012e23b81c
+    claim_hash: e738eedcb419f119e6ce64f05306d9fa57c073ad8dd17ff76a5dff84b802a583
+    content: Loris Capovilla said Paul VI asked him what the opinion of Pope John XXIII was, and Capovilla could only say
+      that John XXIII's decision had been 'I will leave it to my successors,' to which Paul VI replied 'I shall do that too.'
+    original_excerpt: Paul VI asked me, 'What was the opinion of Pope John XXIII?' Perhaps he wanted to know more, but I could
+      only say what I knew, which was that his decision was 'I will leave it to my successors.' And Paul VI said, 'I shall
+      do that too.'
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: e3a9ee95-4f59-4c79-8850-c9d35adf7e90
+      title: Loris Capovilla
+    provenance_chain:
+      origin_kind: speaker
+      origin: Capovilla, Loris
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: b6b60271-c105-4b1f-89ec-bd02227901d9
+        title: Third Secret of Fatima
+        slug: third-secret-of-fatima
+      - node_id: e3a9ee95-4f59-4c79-8850-c9d35adf7e90
+        title: Loris Capovilla
+        slug: loris-capovilla
+      - node_id: e63698cc-274e-4e27-b576-a027fb10f37f
+        title: Paul VI
+        slug: paul-vi
+      - node_id: ff3b3953-e566-48ff-933f-8c176d32db54
+        title: John XXIII
+        slug: john-xxiii
+    date: null
+    date_end: null
+    location_in_record: ch17:10222-10452
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 171e1337-151f-40c5-8b9a-659faac4c5f6
+      record_title: The Fatima Secret
+      record_date: '2000-11-28'
+      record_reference: null
+      content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
+      friendly_name: 2000-11-28-ebook-the-fatima-secret
+  - claim_id: 3abbc59f-3852-477d-8f45-6e48f2e216f0
+    claim_hash: 5a674f7df808e6b883f3ffbdfcd677900e703986fde9bbf990c24728ed766772
+    content: On 1962-10-25, Pope John XXIII appealed to the world, pleading for peace during the Cuban Missile Crisis.
+    original_excerpt: Pope John XXIII appealed to the world on October 25, desperately pleading for peace.
+    claim_type: observation
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: e98a32b4-349a-4a66-b918-f07622fdace1
+        title: Cuban Missile Crisis (1962-10)
+        slug: cuban-missile-crisis-1962-10
+      - node_id: ff3b3953-e566-48ff-933f-8c176d32db54
+        title: John XXIII
+        slug: john-xxiii
+    date: '1962-10-25'
+    date_end: null
+    location_in_record: ch17:1841-1919
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 171e1337-151f-40c5-8b9a-659faac4c5f6
+      record_title: The Fatima Secret
+      record_date: '2000-11-28'
+      record_reference: null
+      content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
+      friendly_name: 2000-11-28-ebook-the-fatima-secret
+  - claim_id: 1a3112ff-7e3b-42d6-bacf-c183f578a0cc
+    claim_hash: 568de6b77bb9aac371fadfa6e8d8f90fdd501918225aece6e4970ad56f994fe3
+    content: Michael Hesemann considers it unknown whether the Fatima message actually played a role in the diplomacy of the
+      Cuban Missile Crisis.
+    original_excerpt: Did the Fatima message really play a role in this drama? Did John XXIII reveal some of its contents
+      to the leaders of the major powers during the Cuban crisis? And if he did, did this religious message actually have
+      an influence on them? We do not know.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 6e230da1-2d10-4a16-920d-3dbc2369e898
+      title: Michael Hesemann
+    provenance_chain:
+      origin_kind: speaker
+      origin: Hesemann, Michael
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 6e230da1-2d10-4a16-920d-3dbc2369e898
+        title: Michael Hesemann
+        slug: michael-hesemann
+      - node_id: b6b60271-c105-4b1f-89ec-bd02227901d9
+        title: Third Secret of Fatima
+        slug: third-secret-of-fatima
+      - node_id: e98a32b4-349a-4a66-b918-f07622fdace1
+        title: Cuban Missile Crisis (1962-10)
+        slug: cuban-missile-crisis-1962-10
+      - node_id: ff3b3953-e566-48ff-933f-8c176d32db54
+        title: John XXIII
+        slug: john-xxiii
+    date: null
+    date_end: null
+    location_in_record: ch17:2349-2597
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 171e1337-151f-40c5-8b9a-659faac4c5f6
+      record_title: The Fatima Secret
+      record_date: '2000-11-28'
+      record_reference: null
+      content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
+      friendly_name: 2000-11-28-ebook-the-fatima-secret
+  - claim_id: a3aeeb10-57c4-4738-a541-9733d64576b1
+    claim_hash: 8de7786dad59d346112c3807a30d64a6a0dfad9c4078c5d214a410dcd962c906
+    content: On 1977-05-13, Vatican Radio announced that neither Pope John XXIII nor Pope Paul VI considered it right to reveal
+      the contents of the Third Secret of Fatima to the world at large.
+    original_excerpt: Vatican radio announced on May 13, 1977, that neither Pope John XXIII nor Pope Paul VI considered it
+      right to reveal the contents of the third part of the Secret of Fatima to the world at large.
+    claim_type: administrative
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: document
+      origin: Vatican Radio announcement
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: b6b60271-c105-4b1f-89ec-bd02227901d9
+        title: Third Secret of Fatima
+        slug: third-secret-of-fatima
+      - node_id: c8527d6c-46c6-4172-abab-0ff2260f1267
+        title: Vatican Radio announcement on the Third Secret (1977-05-13)
+        slug: vatican-radio-announcement-on-the-third-secret-1977-05-13
+      - node_id: db1d34d7-c07e-4795-8619-81fe009e528b
+        title: Vatican Radio
+        slug: vatican-radio
+      - node_id: e63698cc-274e-4e27-b576-a027fb10f37f
+        title: Paul VI
+        slug: paul-vi
+      - node_id: ff3b3953-e566-48ff-933f-8c176d32db54
+        title: John XXIII
+        slug: john-xxiii
+    date: '1977-05-13'
+    date_end: null
+    location_in_record: ch17:9578-9766
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 171e1337-151f-40c5-8b9a-659faac4c5f6
+      record_title: The Fatima Secret
+      record_date: '2000-11-28'
+      record_reference: null
+      content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
+      friendly_name: 2000-11-28-ebook-the-fatima-secret
+  - claim_id: 22d9a161-c1d4-45a7-85b9-32bbb274ab96
+    claim_hash: 6f0f82f15c6579bca81be1c8dd844859a0434f41de439f87d82fc1d49898a3d0
+    content: Five popes - Pius XII, John XXIII, Paul VI, John Paul I, and John Paul II - kept the Third Secret of Fatima under
+      lock and key.
+    original_excerpt: There must have been a reason why five popes, Pius XII, John XXIII, Paul VI, and John Paul I and II,
+      kept it under lock and key.
+    claim_type: observation
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 4484f20d-af42-40af-b0ab-964afae98ec7
+        title: John Paul II
+        slug: john-paul-ii
+      - node_id: 9dd4a9e0-df04-4593-83cb-d36dc7dabdab
+        title: Pius XII
+        slug: pius-xii
+      - node_id: b6b60271-c105-4b1f-89ec-bd02227901d9
+        title: Third Secret of Fatima
+        slug: third-secret-of-fatima
+      - node_id: e63698cc-274e-4e27-b576-a027fb10f37f
+        title: Paul VI
+        slug: paul-vi
+      - node_id: ff3b3953-e566-48ff-933f-8c176d32db54
+        title: John XXIII
+        slug: john-xxiii
+    date: null
+    date_end: null
+    location_in_record: ch18:3861-3985
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 171e1337-151f-40c5-8b9a-659faac4c5f6
+      record_title: The Fatima Secret
+      record_date: '2000-11-28'
+      record_reference: null
+      content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
+      friendly_name: 2000-11-28-ebook-the-fatima-secret
+  - claim_id: 544200ed-81a1-4cc2-bdcf-9723cc988553
+    claim_hash: 418dbd25ef0752c4773a3df6d21f9942f5ff895322b7ef5e81d40af0cae8328f
+    content: Malachi Martin was told about the contents of the Third Secret of Fatima during a secret meeting with Pope John
+      XXIII.
+    original_excerpt: Dr. Malachi Martin, former secretary of Cardinal Bea, was told about the contents during a secret meeting
+      with Pope John XXIII.
+    claim_type: testimony
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: named
+      origin: John XXIII
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 447252e4-e100-43f2-8f8a-54cdb1c57e36
+        title: Malachi Martin
+        slug: malachi-martin
+      - node_id: b6b60271-c105-4b1f-89ec-bd02227901d9
+        title: Third Secret of Fatima
+        slug: third-secret-of-fatima
+      - node_id: ff3b3953-e566-48ff-933f-8c176d32db54
+        title: John XXIII
+        slug: john-xxiii
+    date: null
+    date_end: null
+    location_in_record: ch18:5849-5970
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 171e1337-151f-40c5-8b9a-659faac4c5f6
+      record_title: The Fatima Secret
+      record_date: '2000-11-28'
+      record_reference: null
+      content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
+      friendly_name: 2000-11-28-ebook-the-fatima-secret
+  - claim_id: adf3d771-1ef8-47e9-8c13-92dc4676f2d1
+    claim_hash: e47bef297e03e02c3c923653dc8fb2fcc57e05fc059ce8aa7b65a22ef8ea1484
+    content: Cardinal Bea was very annoyed that Pope John XXIII wanted to hide the contents of the Third Secret of Fatima.
+    original_excerpt: According to Dr. Martin, Cardinal Bea was very annoyed that the pope wanted to hide this.
+    claim_type: hearsay
+    attestation: second_hand
+    speaker:
+      node_id: 447252e4-e100-43f2-8f8a-54cdb1c57e36
+      title: Malachi Martin
+    provenance_chain:
+      origin_kind: named
+      origin: Bea (Cardinal)
+      relay:
+        - Malachi Martin
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 447252e4-e100-43f2-8f8a-54cdb1c57e36
+        title: Malachi Martin
+        slug: malachi-martin
+      - node_id: 82b8d978-e21d-4aaf-a513-38518702d2f6
+        title: Bea (Cardinal)
+        slug: bea-cardinal
+      - node_id: b6b60271-c105-4b1f-89ec-bd02227901d9
+        title: Third Secret of Fatima
+        slug: third-secret-of-fatima
+      - node_id: ff3b3953-e566-48ff-933f-8c176d32db54
+        title: John XXIII
+        slug: john-xxiii
+    date: null
+    date_end: null
+    location_in_record: ch18:6211-6295
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 171e1337-151f-40c5-8b9a-659faac4c5f6
+      record_title: The Fatima Secret
+      record_date: '2000-11-28'
+      record_reference: null
+      content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
+      friendly_name: 2000-11-28-ebook-the-fatima-secret
+  - claim_id: b0706a73-1410-4220-b366-d0d2abb1b1fc
+    claim_hash: cf73f3afd2684dbd42dacbed2b76a3fe3908a7d5660c70d1e7062ed0f914e83b
+    content: On 1959-01-25, Pope John XXIII announced his intention to convene an ecumenical council, before he had read the
+      Third Secret of Fatima.
+    original_excerpt: On January 25, 1959, Pope John XXIII announced his intention to convene an ecumenical council, before
+      he had read the Third Secret.
+    claim_type: observation
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: b6b60271-c105-4b1f-89ec-bd02227901d9
+        title: Third Secret of Fatima
+        slug: third-secret-of-fatima
+      - node_id: cd325d6f-3733-4a00-b57f-713f67cd8abf
+        title: John XXIII announcement of intention to convene an ecumenical council (1959-01-25)
+        slug: john-xxiii-announcement-of-intention-to-convene-an-ecumenical-council-1959-01-25
+      - node_id: ff3b3953-e566-48ff-933f-8c176d32db54
+        title: John XXIII
+        slug: john-xxiii
+    date: '1959-01-25'
+    date_end: null
+    location_in_record: ch18:6683-6807
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 171e1337-151f-40c5-8b9a-659faac4c5f6
+      record_title: The Fatima Secret
+      record_date: '2000-11-28'
+      record_reference: null
+      content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
+      friendly_name: 2000-11-28-ebook-the-fatima-secret
+  - claim_id: 7e3c189e-9ccb-4eec-afd1-11d5f58753b1
+    claim_hash: 52f00edbc1701476640bca68e1b4ae9ee3a76d866a1339aaa414e80c8f13c31a
+    content: Vatican II was opened on 1962-10-11 with a speech in which the Holy Father raised his voice against the prophets
+      of doom who always announce the coming of ominous events, as if the end of the world stood before us.
+    original_excerpt: Vatican II was opened on October 11, 1962, with a speech in which the Holy Father raised his voice “against
+      the prophets of doom, who always announce the coming of ominous events, as if the end of the world stood before us.”
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: ff3b3953-e566-48ff-933f-8c176d32db54
+      title: John XXIII
+    provenance_chain:
+      origin_kind: speaker
+      origin: John XXIII
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 06d4e2fc-77bb-4c00-bb30-de3462fb11b1
+        title: Second Vatican Council
+        slug: second-vatican-council
+      - node_id: ff3b3953-e566-48ff-933f-8c176d32db54
+        title: John XXIII
+        slug: john-xxiii
+    date: '1962-10-11'
+    date_end: null
+    location_in_record: ch18:6815-7035
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 171e1337-151f-40c5-8b9a-659faac4c5f6
+      record_title: The Fatima Secret
+      record_date: '2000-11-28'
+      record_reference: null
+      content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
+      friendly_name: 2000-11-28-ebook-the-fatima-secret
+  - claim_id: 7525fe19-ee55-46a0-98bb-8a3c53208fb6
+    claim_hash: 966325153259ce2f280caabed5941dff4a4f91e968e09774975f30b40d041454
+    content: By the time he opened Vatican II, Pope John XXIII had already read Sister Lúcia's Third Secret.
+    original_excerpt: He had read Lúcia’s secret by then, so was he referring to its contents when he talked about “prophets
+      of doom”?
+    claim_type: observation
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: b6b60271-c105-4b1f-89ec-bd02227901d9
+        title: Third Secret of Fatima
+        slug: third-secret-of-fatima
+      - node_id: bbddfa81-653b-4aa6-8e98-3ba0d1485044
+        title: Lúcia (Fatima seer)
+        slug: lucia-fatima-seer
+      - node_id: ff3b3953-e566-48ff-933f-8c176d32db54
+        title: John XXIII
+        slug: john-xxiii
+    date: null
+    date_end: null
+    location_in_record: ch18:7040-7146
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 171e1337-151f-40c5-8b9a-659faac4c5f6
+      record_title: The Fatima Secret
+      record_date: '2000-11-28'
+      record_reference: null
+      content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
+      friendly_name: 2000-11-28-ebook-the-fatima-secret
+  - claim_id: 0a210ad2-cbb8-47c9-a904-61f39b41d88c
+    claim_hash: e175aaddf1ead071280ae0f309cb5b355703729d11c65756e9121b1571f966f0
+    content: American bishops called Joseph Ratzinger a prophet of doom, using words attributed to Pope John XXIII.
+    original_excerpt: The American bishops called Ratzinger “a prophet of doom,” using the words of Pope John.
+    claim_type: hearsay
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 0cf4b5c3-c9c8-4cf9-8044-6c87bac37ebc
+        title: Joseph Ratzinger
+        slug: joseph-ratzinger
+      - node_id: ff3b3953-e566-48ff-933f-8c176d32db54
+        title: John XXIII
+        slug: john-xxiii
+    date: null
+    date_end: null
+    location_in_record: ch18:9101-9184
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 171e1337-151f-40c5-8b9a-659faac4c5f6
+      record_title: The Fatima Secret
+      record_date: '2000-11-28'
+      record_reference: null
+      content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
+      friendly_name: 2000-11-28-ebook-the-fatima-secret
+  - claim_id: 4182bd9b-0566-4af3-9366-fb71c84356bb
+    claim_hash: 83196fc9be045214c641474a3ff3bee109ac16717a9523bfd2b3a0c11b004b60
+    content: The Prophecy of the Popes gave John XXIII (1958-1963) the description "Pastor et nauta" ("shepherd and seafarer").
+    original_excerpt: “Pastor et nauta,” “shepherd and seafarer,” applied to John XXIII (1958–63)
+    claim_type: administrative
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: document
+      origin: Prophecy of the Popes (Saint Malachy)
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: a67c07e8-2281-4146-a057-d5106c1a1495
+        title: Prophecy of the Popes (Saint Malachy)
+        slug: prophecy-of-the-popes-saint-malachy
+      - node_id: ff3b3953-e566-48ff-933f-8c176d32db54
+        title: John XXIII
+        slug: john-xxiii
+    date: null
+    date_end: null
+    location_in_record: ch21:10848-10919
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 171e1337-151f-40c5-8b9a-659faac4c5f6
+      record_title: The Fatima Secret
+      record_date: '2000-11-28'
+      record_reference: null
+      content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
+      friendly_name: 2000-11-28-ebook-the-fatima-secret
+  - claim_id: 91f94bd6-d092-4aa0-8c20-4712a4e5b720
+    claim_hash: d552e48071b27239edbf8a4d2b28fe6c1c78149672a50aa5ff64d28a87b6e658
+    content: John XXIII came from the shepherds' village of Sotto il Monte near Bergamo and herded sheep as a boy.
+    original_excerpt: who came from the shepherds’ village of Soto-il-Monte near Bergamo, and herded sheep as a boy.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: fd098218-945b-496e-a091-cf4602e3a5a2
+        title: Italy, Bergamo, Sotto il Monte
+        slug: bergamo-sotto-il-monte-italy
+      - node_id: ff3b3953-e566-48ff-933f-8c176d32db54
+        title: John XXIII
+        slug: john-xxiii
+    date: null
+    date_end: null
+    location_in_record: ch21:10924-11014
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 171e1337-151f-40c5-8b9a-659faac4c5f6
+      record_title: The Fatima Secret
+      record_date: '2000-11-28'
+      record_reference: null
+      content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
+      friendly_name: 2000-11-28-ebook-the-fatima-secret
+  - claim_id: 66f9bf50-938d-416b-931d-ca1ecc05b083
+    claim_hash: b731d15de37bc9e5a6203c569c5e81ce7f6ca1a0287f31c5985050c4c3f366c0
+    content: Before being elected pope, John XXIII had been patriarch of Venice.
+    original_excerpt: Before being elected pope he had been patriarch of the famous seafaring city of Venice.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 278dd77d-927f-4112-8b07-ffbf1d60f5d7
+        title: Italy, Venice
+        slug: venice-italy
+      - node_id: ff3b3953-e566-48ff-933f-8c176d32db54
+        title: John XXIII
+        slug: john-xxiii
+    date: null
+    date_end: null
+    location_in_record: ch21:11019-11099
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 171e1337-151f-40c5-8b9a-659faac4c5f6
+      record_title: The Fatima Secret
+      record_date: '2000-11-28'
+      record_reference: null
+      content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
+      friendly_name: 2000-11-28-ebook-the-fatima-secret
+  - claim_id: 32619ebf-4abf-45f0-bf24-55ce538da12d
+    claim_hash: aa4a5d66f6ad8baaeb6f1a670ebdd9095a4a4a33bcbb001295b8fe65b7feef1a
+    content: When Pope John XXIII died, the Garabandal seer Conchita told her mother there would be three more popes.
+    original_excerpt: When Pope John XXIII died, one of the girls, Conchita, told her mother that there will be three more
+      popes.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: b454b345-1c72-4ea1-ad89-993030ba8224
+      title: Conchita (Garabandal seer)
+    provenance_chain:
+      origin_kind: speaker
+      origin: Conchita
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: b454b345-1c72-4ea1-ad89-993030ba8224
+        title: Conchita (Garabandal seer)
+        slug: conchita-garabandal-seer
+      - node_id: ff3b3953-e566-48ff-933f-8c176d32db54
+        title: John XXIII
+        slug: john-xxiii
+    date: '1963-06-03'
+    date_end: null
+    location_in_record: ch21:8771-8872
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 171e1337-151f-40c5-8b9a-659faac4c5f6
+      record_title: The Fatima Secret
+      record_date: '2000-11-28'
+      record_reference: null
+      content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
+      friendly_name: 2000-11-28-ebook-the-fatima-secret
+  - claim_id: 002c1430-d9b8-4630-92d1-13614eb3ec3a
+    claim_hash: 55fb3af1d88f308e320da722eca3a1ec6bd8db606c3a4cf80516db8d2aa02eca
+    content: 'After John XXIII there have been three popes: Paul VI (1963-1978), John Paul I (1978), and John Paul II, who
+      has been pope since 1978.'
+    original_excerpt: 'After John XXIII there have been three popes: Paul VI (1963–78), John Paul I (1978), and John Paul
+      II (who has been pope since 1978).'
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 4484f20d-af42-40af-b0ab-964afae98ec7
+        title: John Paul II
+        slug: john-paul-ii
+      - node_id: e63698cc-274e-4e27-b576-a027fb10f37f
+        title: Paul VI
+        slug: paul-vi
+      - node_id: ff3b3953-e566-48ff-933f-8c176d32db54
+        title: John XXIII
+        slug: john-xxiii
+    date: null
+    date_end: null
+    location_in_record: ch21:9168-9295
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 171e1337-151f-40c5-8b9a-659faac4c5f6
+      record_title: The Fatima Secret
+      record_date: '2000-11-28'
+      record_reference: null
+      content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
+      friendly_name: 2000-11-28-ebook-the-fatima-secret
+  - claim_id: 47ac9b7b-4497-4063-8d4f-a2735c880aae
+    claim_hash: 1cc3d424e2d6a1605ff1b05dcd2bcb2b59444d52c136f3962b20a336e259d53c
+    content: Pope John XXIII trembled upon reading the Third Secret of Fatima, and did not want to spread fear but wanted
+      a state of optimism in the Church in preparation for the upcoming Second Vatican Council.
+    original_excerpt: Pope John XXIII trembled. He did not want to spread fear; he wanted a state of optimism in the church
+      in preparation for the upcoming Council.
+    claim_type: observation
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 06d4e2fc-77bb-4c00-bb30-de3462fb11b1
+        title: Second Vatican Council
+        slug: second-vatican-council
+      - node_id: 32aac518-3882-443e-8d56-2e7be7a5688e
+        title: John XXIII's opening of the Third Secret envelope (1959-08-17)
+        slug: john-xxiiis-opening-of-the-third-secret-envelope-1959-08-17
+      - node_id: b6b60271-c105-4b1f-89ec-bd02227901d9
+        title: Third Secret of Fatima
+        slug: third-secret-of-fatima
+      - node_id: ff3b3953-e566-48ff-933f-8c176d32db54
+        title: John XXIII
+        slug: john-xxiii
+    date: null
+    date_end: null
+    location_in_record: ch24:28908-29042
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 171e1337-151f-40c5-8b9a-659faac4c5f6
+      record_title: The Fatima Secret
+      record_date: '2000-11-28'
+      record_reference: null
+      content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
+      friendly_name: 2000-11-28-ebook-the-fatima-secret
+  - claim_id: d64717d2-e02f-42a5-99a5-70698e3f53ea
+    claim_hash: d84e5e809ec7251dd11b9252f20c954891a8b65eb1a795121fc521c1d9b656f5
+    content: When Pope John XXIII opened the Third Secret of Fatima in 1960, some of those closest to him reported that he
+      almost fainted with horror.
+    original_excerpt: When, in 1960, Pope John XXIII opened the Third Secret, some of those closest to him reported that he
+      almost fainted with horror.
+    claim_type: hearsay
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: anonymous
+      origin: people close to Pope John XXIII
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: b6b60271-c105-4b1f-89ec-bd02227901d9
+        title: Third Secret of Fatima
+        slug: third-secret-of-fatima
+      - node_id: ff3b3953-e566-48ff-933f-8c176d32db54
+        title: John XXIII
+        slug: john-xxiii
+    date: '1959-08-17'
+    date_end: null
+    location_in_record: ch4:393-515
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 171e1337-151f-40c5-8b9a-659faac4c5f6
+      record_title: The Fatima Secret
+      record_date: '2000-11-28'
+      record_reference: null
+      content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
+      friendly_name: 2000-11-28-ebook-the-fatima-secret
+  - claim_id: 4d84296b-a69d-450a-8aa4-aead8d8ecd46
+    claim_hash: 105d72bd1243dbba14a69865208f3e72a35e937dd03bd1432d9dd53cedcec95f
+    content: Pope John XXIII waited four days, until Friday 1959-08-21, before breaking the seal on the envelope bearing the
+      insignia of the bishop of Leiria.
+    original_excerpt: Pope John waited four days, until Friday, August 21, before breaking the seal on the envelope, which
+      bore the insignia of the bishop of Leiria.
+    claim_type: observation
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: narration
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 86a3d282-0dee-49af-8533-93f32405844e
+        title: Portugal, Leiria
+        slug: leiria-portugal
+      - node_id: ff3b3953-e566-48ff-933f-8c176d32db54
+        title: John XXIII
+        slug: john-xxiii
+    date: '1959-08-21'
+    date_end: null
+    location_in_record: ch8:817-953
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 171e1337-151f-40c5-8b9a-659faac4c5f6
+      record_title: The Fatima Secret
+      record_date: '2000-11-28'
+      record_reference: null
+      content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
+      friendly_name: 2000-11-28-ebook-the-fatima-secret
+  - claim_id: 04a8b1f2-a057-43fd-ad3f-ae659badcce4
+    claim_hash: bae4d0b0f21b5f93f724610aef27ce49c5878642bfa822b0e5e33a6cd15b1a50
+    content: On 1959-08-17, at Castel Gandolfo, Italy, the summer residence of the pope, Pope John XXIII received a messenger
+      from Rome asking whether he had brought the document with him.
+    original_excerpt: It was August 17, 1959, in Castelgondolfo, Italy, the summer residence of the pope. "There you are!"
+      exclaimed the man in the white soutane, when he saw the messenger from Rome. "Do you have it with you?"
+    claim_type: observation
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: narration
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 11e5d467-eddb-4565-b496-984e85ca249a
+        title: Italy, Castel Gandolfo
+        slug: castel-gandolfo-italy
+      - node_id: ff3b3953-e566-48ff-933f-8c176d32db54
+        title: John XXIII
+        slug: john-xxiii
+    date: '1959-08-17'
+    date_end: null
+    location_in_record: ch8:96-295
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 171e1337-151f-40c5-8b9a-659faac4c5f6
+      record_title: The Fatima Secret
+      record_date: '2000-11-28'
+      record_reference: null
+      content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
+      friendly_name: 2000-11-28-ebook-the-fatima-secret
+  - claim_id: b0e259be-5678-4ddc-abda-9284b23d04a0
+    claim_hash: 0c2161ca9b90f1c4c45b0a8f4949dcafcf30ad53bb6e7f27895b407945fc677e
+    content: Pope John XXIII read the sealed envelope in a closed room at Castel Gandolfo in the presence only of a Vatican
+      interpreter and his confessor, Monsignor Alfredo Cavagna.
+    original_excerpt: He had arranged for a Vatican interpreter to be present, in case there was difficulty understanding
+      the Portuguese text. Sitting in a closed room, with only the interpreter and his confessor, Monsignor Alfredo Cavagna,
+      present, the pope read the words that Sister Lúcia had written down fifteen years before.
+    claim_type: observation
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: narration
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 11e5d467-eddb-4565-b496-984e85ca249a
+        title: Italy, Castel Gandolfo
+        slug: castel-gandolfo-italy
+      - node_id: cb54ad51-94b1-4a33-b036-7c00ad40cf6b
+        title: Vatican
+        slug: vatican
+      - node_id: eb22d754-dbb1-4be0-8da7-7084e2b9ff4a
+        title: Alfredo Cavagna
+        slug: alfredo-cavagna
+      - node_id: ff3b3953-e566-48ff-933f-8c176d32db54
+        title: John XXIII
+        slug: john-xxiii
+    date: '1959-08-21'
+    date_end: null
+    location_in_record: ch8:961-1262
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 171e1337-151f-40c5-8b9a-659faac4c5f6
+      record_title: The Fatima Secret
+      record_date: '2000-11-28'
+      record_reference: null
+      content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
+      friendly_name: 2000-11-28-ebook-the-fatima-secret
+  - claim_id: e7502767-ca83-4378-9e66-4281bb612d91
+    claim_hash: 0f3aafa2fe6229a970c027de63e4e44f99713f3e84263d0beee673ecd824b180
+    content: An alleged UMMO message stated that an expeditionary group originating from UMMO is found among citizens of various
+      nations on Earth, naming Bertrand Russell, Mahatma Gandhi, Ernesto (Che) Guevara, Helder Camara, John XXIII, Martin
+      Luther King, Karl Marx, Emmanuel Mounier, Albert Schweitzer, and Leo Tolstoy as among its members.
+    original_excerpt: 'The expeditionary group that originated with the solidified celestial body UMMO is found among the
+      citizens of various nations on Earth, with the Man Bertrand Russell and others among his brothers: Mirandas K. Gandhi,
+      Ernesto (Che) Guevara, Helder Camara, John XXIII, Martin Luther King, Karl Marx, Emmanuel Mounier, Albert Schweitzer,
+      Tolstoi, and others.'
+    claim_type: hearsay
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: anonymous
+      origin: a person or group claiming to represent the extraterrestrial civilization UMMO
+      relay:
+        - a UMMO document
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 13b1c891-bcc2-44f1-b69b-a9b1269a83c3
+        title: Ernesto (Che) Guevara
+        slug: ernesto-che-guevara
+      - node_id: 4c8a2a8d-4542-4b8d-bf52-a8ebcade3342
+        title: UMMO organization
+        slug: ummo-organization
+      - node_id: 4e04e922-217d-46aa-a189-d230df147376
+        title: Mahatma Gandhi
+        slug: mahatma-gandhi
+      - node_id: 6b111eb3-394e-4607-90da-bce3fe05a0c6
+        title: Karl Marx
+        slug: karl-marx
+      - node_id: 7c693b7a-bcc9-4c10-954f-f0e5f23d3fb8
+        title: Leo Tolstoy
+        slug: leo-tolstoy
+      - node_id: b024a129-fffd-45ef-bc67-f1bc29af1b8f
+        title: Bertrand Russell
+        slug: bertrand-russell
+      - node_id: b87112f4-d737-49fd-bb59-4efeace92707
+        title: Helder Camara
+        slug: helder-camara
+      - node_id: cd369cba-7f0b-4726-bb98-7d0ab5bc8092
+        title: Albert Schweitzer
+        slug: albert-schweitzer
+      - node_id: d4806f1d-d95b-46cb-bbaa-fab1c899be32
+        title: Emmanuel Mounier
+        slug: emmanuel-mounier
+      - node_id: e5b602e5-f70f-4c77-94b1-2e081339e0a3
+        title: Martin Luther King
+        slug: martin-luther-king
+      - node_id: ff3b3953-e566-48ff-933f-8c176d32db54
+        title: John XXIII
+        slug: john-xxiii
+    date: null
+    date_end: null
+    location_in_record: ch12:26475-26824
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 220315f4-29cd-4c89-8860-44f95613d98f
+      record_title: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About UFO Influences on the Human Race'
+      record_date: '2014-09-27'
+      record_reference: null
+      content_hash: sha256:5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b8489cc11c26
+      friendly_name: 2014-09-27-ebook-the-invisible-college-what-a-group-of-scientists-has
+  - claim_id: 9ea22b89-d357-415d-9f6e-d867fe840a78
+    claim_hash: aedb293880520b6449023269746bc30c0eb191eceeb93e08077663abfb19d380
+    content: A man Jacques Vallee trusts received a report from one of Pope John XXIII's secretaries, who described introducing
+      senior Church figures into the presence of Pope John XXIII for the opening of the secret part of the Fatima prophecy
+      in 1960.
+    original_excerpt: A man whose word I trust received an interesting report from one of the Pope’s secretaries, who introduced
+      the highest men in the Church into the presence of John XXIII for the opening of the secret part of the Fatima prophecy
+      in 1960.
+    claim_type: hearsay
+    attestation: second_hand
+    speaker:
+      node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
+      title: Jacques Vallée
+    provenance_chain:
+      origin_kind: anonymous
+      origin: one of Pope John XXIII's secretaries
+      relay:
+        - a man Jacques Vallee trusts
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
+        title: Jacques Vallée
+        slug: jacques-vallee
+      - node_id: 95472b02-af65-4737-896c-993994f9be27
+        title: Portugal, Fatima
+        slug: fatima-portugal
+      - node_id: ff3b3953-e566-48ff-933f-8c176d32db54
+        title: John XXIII
+        slug: john-xxiii
+    date: '1960'
+    date_end: null
+    location_in_record: ch15:21235-21465
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 220315f4-29cd-4c89-8860-44f95613d98f
+      record_title: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About UFO Influences on the Human Race'
+      record_date: '2014-09-27'
+      record_reference: null
+      content_hash: sha256:5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b8489cc11c26
+      friendly_name: 2014-09-27-ebook-the-invisible-college-what-a-group-of-scientists-has
+  - claim_id: 2190433c-199b-4d32-a3f1-8e5a30416c7d
+    claim_hash: 08e31d0cfc6fbb0aa0d4a6d98553c3cc8577e566424b617dce224b08e677a33b
+    content: According to the account relayed to Jacques Vallee, when the cardinals left Pope John XXIII's office after the
+      opening of the secret part of the Fatima prophecy in 1960, they had a look of deep horror on their faces, and one prelate
+      who was approached by the secretary gently pushed him aside and walked on with the expression of someone who had seen
+      a ghost.
+    original_excerpt: 'the secretary had the opportunity to see the cardinals as they left the Pope’s office: they had a look
+      of deep horror on their faces. He got up from behind his desk and tried to speak to one of them whom he knew intimately,
+      but the prelate gently pushed him aside and walked on with the expression of someone who has seen a ghost.'
+    claim_type: hearsay
+    attestation: second_hand
+    speaker:
+      node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
+      title: Jacques Vallée
+    provenance_chain:
+      origin_kind: anonymous
+      origin: one of Pope John XXIII's secretaries
+      relay:
+        - a man Jacques Vallee trusts
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 95472b02-af65-4737-896c-993994f9be27
+        title: Portugal, Fatima
+        slug: fatima-portugal
+      - node_id: ff3b3953-e566-48ff-933f-8c176d32db54
+        title: John XXIII
+        slug: john-xxiii
+    date: '1960'
+    date_end: null
+    location_in_record: ch15:21529-21853
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 220315f4-29cd-4c89-8860-44f95613d98f
+      record_title: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About UFO Influences on the Human Race'
+      record_date: '2014-09-27'
+      record_reference: null
+      content_hash: sha256:5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b8489cc11c26
+      friendly_name: 2014-09-27-ebook-the-invisible-college-what-a-group-of-scientists-has
+  - claim_id: 8714b42e-441f-423a-a845-5d56c5a45adc
+    claim_hash: 67e9f490ad27a566356acaea7266497084b17017656ae431340f60cd286e5443
+    content: Part of the Fatima prophetic message was not to be revealed until 1960, when Pope John XXIII opened the sealed
+      envelope but did not publish the secret.
+    original_excerpt: A part of that message was not to be revealed until 1960, at which time Pope John XXIII opened the sealed
+      envelope, but did not publish the secret.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: c3049206-6e8c-43b6-a645-5b8c47da0e56
+        title: 1917 Fatima Marian apparitions
+        slug: 1917-fatima-marian-apparitions
+      - node_id: ff3b3953-e566-48ff-933f-8c176d32db54
+        title: John XXIII
+        slug: john-xxiii
+    date: '1960'
+    date_end: null
+    location_in_record: ch15:3552-3692
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 220315f4-29cd-4c89-8860-44f95613d98f
+      record_title: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About UFO Influences on the Human Race'
+      record_date: '2014-09-27'
+      record_reference: null
+      content_hash: sha256:5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b8489cc11c26
+      friendly_name: 2014-09-27-ebook-the-invisible-college-what-a-group-of-scientists-has
+  - claim_id: 78a25f32-618c-4a31-a9eb-f9222fd55c7d
+    claim_hash: 5fc866cf29a528d45e9dd87acef2588f7e8b1c377a6856faa1e92f9c9c2b77cb
+    content: Jacques Vallee obtained some indirect information on the circumstances of Pope John XXIII's 1960 opening of the
+      sealed Fatima message, which sheds light on the reactions of senior Catholic Church officials to the prophecy, though
+      not necessarily on its actual contents.
+    original_excerpt: Some indirect information on the circumstances of this opening of the message, which I have obtained,
+      sheds light on the reactions of high Church officials to the prophecy, if not on its actual contents.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
+      title: Jacques Vallée
+    provenance_chain:
+      origin_kind: speaker
+      origin: Jacques Vallee
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
+        title: Jacques Vallée
+        slug: jacques-vallee
+      - node_id: 6c262c92-9da2-45a2-abbb-81e95cdd400c
+        title: Catholic Church
+        slug: catholic-church
+      - node_id: ff3b3953-e566-48ff-933f-8c176d32db54
+        title: John XXIII
+        slug: john-xxiii
+    date: '1960'
+    date_end: null
+    location_in_record: ch15:3700-3894
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 220315f4-29cd-4c89-8860-44f95613d98f
+      record_title: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About UFO Influences on the Human Race'
+      record_date: '2014-09-27'
+      record_reference: null
+      content_hash: sha256:5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b8489cc11c26
+      friendly_name: 2014-09-27-ebook-the-invisible-college-what-a-group-of-scientists-has
+  - claim_id: bf865a8b-8fa6-4f38-8aae-1647296ee1a5
+    claim_hash: 655101ff17eba9f59bdb412c68b7140977267ba87da929d013aae07c4f4378d4
+    content: The Mass at St. Peter's Basilica was celebrated in Latin near the incorruptible body of Pope John XXIII.
+    original_excerpt: The Mass was celebrated in Latin, near the incorruptible body of Pope John XXIII, which certainly enhanced
+      the surreal quality of my experience.
+    claim_type: observation
+    attestation: first_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: speaker
+      origin: D. W. Pasulka
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: d2086c24-9d5d-4838-96a8-c17f99427cd6
+        title: Incorruptibility (Catholic tradition)
+        slug: incorruptibility-catholic-tradition
+      - node_id: ff3b3953-e566-48ff-933f-8c176d32db54
+        title: John XXIII
+        slug: john-xxiii
+    date: null
+    date_end: null
+    location_in_record: ch7:15008-15141
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 288e1100-0497-41df-ba08-9890e519b0b9
+      record_title: American Cosmic
+      record_date: '2019'
+      record_reference: null
+      content_hash: sha256:ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b16ac4758
+      friendly_name: 2019-ebook-american-cosmic
+  - claim_id: 9b4e0569-bcd7-4494-ac96-0e300dfc5685
+    claim_hash: 60c0dbb00b1eba8bdee33366008a20be2322a674795c943c318955e067f1db51
+    content: Tyler D. had never heard of the Catholic tradition of incorruptible saints before viewing the preserved body
+      of Pope John XXIII.
+    original_excerpt: Later I found out that he didn’t know what I had said and was astonished that we had been so close to
+      a dead body. He had never heard of the tradition of incorruptible saints
+    claim_type: observation
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: speaker
+      origin: D. W. Pasulka
+      relay:
+        - Tyler D.'s account
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 24136f1c-4cb7-4030-8ed1-35855481a65e
+        title: Tyler D.
+        slug: tyler-d
+      - node_id: ff3b3953-e566-48ff-933f-8c176d32db54
+        title: John XXIII
+        slug: john-xxiii
+    date: null
+    date_end: null
+    location_in_record: ch7:15864-16032
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 288e1100-0497-41df-ba08-9890e519b0b9
+      record_title: American Cosmic
+      record_date: '2019'
+      record_reference: null
+      content_hash: sha256:ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b16ac4758
+      friendly_name: 2019-ebook-american-cosmic
+  - claim_id: 8a853a83-b6f0-458f-b50d-adba3700c4ed
+    claim_hash: 15554e4bed42b86806a1395aed304794fcb7814783b303885c609e72ebf33ba9
+    content: D. W. Pasulka and Tyler D. discussed Pope John XXIII's preserved body on the day after Tyler D.'s mother's funeral,
+      two weeks after they returned from Rome, Italy.
+    original_excerpt: Tyler and I talked about this on the day after his mother’s funeral, two weeks after we had returned
+      from Rome.
+    claim_type: observation
+    attestation: first_hand
+    speaker:
+      node_id: f2daae19-9351-4a8e-b466-664f83887f61
+      title: Diana Walsh Pasulka
+    provenance_chain:
+      origin_kind: speaker
+      origin: D. W. Pasulka
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 24136f1c-4cb7-4030-8ed1-35855481a65e
+        title: Tyler D.
+        slug: tyler-d
+      - node_id: 34cbcce0-b88a-4057-8691-635f2902c481
+        title: Italy, Rome
+        slug: rome-italy
+      - node_id: f2daae19-9351-4a8e-b466-664f83887f61
+        title: Diana Walsh Pasulka
+        slug: diana-walsh-pasulka
+      - node_id: ff3b3953-e566-48ff-933f-8c176d32db54
+        title: John XXIII
+        slug: john-xxiii
+    date: null
+    date_end: null
+    location_in_record: ch7:16301-16407
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 288e1100-0497-41df-ba08-9890e519b0b9
+      record_title: American Cosmic
+      record_date: '2019'
+      record_reference: null
+      content_hash: sha256:ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b16ac4758
+      friendly_name: 2019-ebook-american-cosmic
+  - claim_id: 3b9eae22-9718-4aa7-b45d-f48678231b72
+    claim_hash: eba21498cd27d96d1b5a5db1b13afb1269e354ce1eb66c86bc6195a0d6f5231b
+    content: The fact that Tyler D. and D. W. Pasulka had been close to Pope John XXIII's preserved body was comforting to
+      Tyler D. following his mother's death.
+    original_excerpt: The fact that we had been so close to John XXIII’s preserved body was comforting to him.
+    claim_type: observation
+    attestation: first_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: speaker
+      origin: D. W. Pasulka
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 24136f1c-4cb7-4030-8ed1-35855481a65e
+        title: Tyler D.
+        slug: tyler-d
+      - node_id: ff3b3953-e566-48ff-933f-8c176d32db54
+        title: John XXIII
+        slug: john-xxiii
+    date: null
+    date_end: null
+    location_in_record: ch7:16413-16497
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 288e1100-0497-41df-ba08-9890e519b0b9
+      record_title: American Cosmic
+      record_date: '2019'
+      record_reference: null
+      content_hash: sha256:ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b16ac4758
+      friendly_name: 2019-ebook-american-cosmic

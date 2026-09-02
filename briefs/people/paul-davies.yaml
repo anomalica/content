@@ -1,0 +1,354 @@
+schema: anomalica/brief/1
+brief_hash: f098a32d2e74335255fd6034b262f128e69773b541cc1cd7d8bfe2fa37b66adc
+page:
+  kind: entity
+  node_id: 521300b4-8a92-4419-a368-f7697c583708
+  node_type: person
+  title: Paul Davies
+  slug: paul-davies
+  claim_count: 7
+  claim_count_total: 7
+generated:
+  graph_version: '2026-09-01T10:10:49.863545+00:00'
+size:
+  claims: 7
+  tokens_estimated: 2276
+  sized_against: 1050000
+publication:
+  status: published
+  note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
+    transcripts are gated elsewhere.
+belonging:
+  verified: 0
+  suspect_excluded: 0
+  unreviewed: 7
+related_nodes:
+  - node_id: 33ae3380-25ea-442a-9d60-69b285a20182
+    title: Hillary Clinton
+    node_type: person
+    slug: hillary-clinton
+    shared_claims: 2
+  - node_id: 335f2869-3102-445f-ae63-1a13d0efe9a7
+    title: Are We Alone?
+    node_type: document
+    slug: are-we-alone
+    shared_claims: 1
+  - node_id: cb65862c-4896-41a1-978e-64faa46e87e1
+    title: Are We Alone? (book by Paul Davies)
+    node_type: document
+    slug: are-we-alone-book-by-paul-davies
+    shared_claims: 1
+  - node_id: 64f100c7-ad23-46ef-8818-ed5100b507c5
+    title: Charlie Hickson
+    node_type: person
+    slug: charlie-hickson
+    shared_claims: 1
+  - node_id: b636c9a1-e958-4f48-a639-450a7ab409f0
+    title: Junk Deoxyribonucleic Acid (DNA)
+    node_type: topic
+    slug: junk-deoxyribonucleic-acid-dna
+    shared_claims: 1
+  - node_id: f657fb13-198a-45d6-9530-253f2784f9d2
+    title: Laurance Rockefeller
+    node_type: person
+    slug: laurance-rockefeller
+    shared_claims: 1
+  - node_id: 5c9023b9-5b26-4a95-b6ae-6c81a24aa33e
+    title: New Scientist
+    node_type: document
+    slug: new-scientist
+    shared_claims: 1
+  - node_id: 4e18fded-649f-4eb8-a246-b6b79e9f9a6c
+    title: Paul Davies's 2004 New Scientist speculation on extraterrestrial messages in junk Deoxyribonucleic Acid (DNA)
+    node_type: event
+    slug: paul-daviess-2004-new-scientist-speculation-on-extraterrestrial-messages-in-junk-deoxyribonucleic-acid-dna
+    shared_claims: 1
+  - node_id: 782e22a7-0df0-4c32-86ac-095f5ac2ec32
+    title: Search for Extraterrestrial Intelligence (SETI)
+    node_type: topic
+    slug: search-for-extraterrestrial-intelligence-seti
+    shared_claims: 1
+  - node_id: e3ced5ef-15d5-4ac8-b81e-fc56aab736e2
+    title: USA, Maryland, Camp David
+    node_type: place
+    slug: maryland-camp-david-usa
+    shared_claims: 1
+  - node_id: 2857f17e-454a-472d-a73a-b616686f7964
+    title: University of Arizona Press
+    node_type: organisation
+    slug: university-of-arizona-press
+    shared_claims: 1
+claims:
+  - claim_id: b7aab27b-4509-422a-83f9-99dbc862ae60
+    claim_hash: ca13b25afb9f771d068ee51df436280a28c9dfb19699d06071a720b1c009bfba
+    content: Paul Davies concludes that in most reasonable spatially infinite cosmological models with conservative assumptions,
+      there are an infinite number of duplicate beings.
+    original_excerpt: He concludes by stating that “in most reasonable spatially infinite cosmological models with conservative
+      assumptions, there are indeed an infinite number of duplicate beings.”
+    claim_type: opinion
+    attestation: second_hand
+    speaker:
+      node_id: 521300b4-8a92-4419-a368-f7697c583708
+      title: Paul Davies
+    provenance_chain:
+      origin_kind: named
+      origin: Paul Davies
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 521300b4-8a92-4419-a368-f7697c583708
+        title: Paul Davies
+        slug: paul-davies
+    date: null
+    date_end: null
+    location_in_record: ch21:2309-2477
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 32687cf8-a827-40a9-b9f4-308ca4d9b2b3
+      record_title: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
+      record_date: '2005-11-14'
+      record_reference: null
+      content_hash: sha256:c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95d6ac9c3b
+      friendly_name: 2005-11-14-ebook-hair-of-the-alien-dna-and-other-forensic-evidence-for-alien
+  - claim_id: cb247ed4-d6bc-4db7-b36f-9e87482a7ae5
+    claim_hash: 60d3d2a51553b749996e93eab4d468b736138f71342b64bfafdf325f771c27f7
+    content: Paul Davies stated that if extraterrestrial DNA of independent origin were discovered, it would strike at the
+      heart of Darwinian evolutionary theory and the currently dominant scientific paradigm that rejects teleology.
+    original_excerpt: “If we were to discover extraterrestrial DNA that could be proved to be of independent origin, it would
+      strike at the very heart of Darwinian evolutionary theory and the entire [currently dominant] scientific paradigm in
+      which all teleology is decisively rejected.”
+    claim_type: opinion
+    attestation: second_hand
+    speaker:
+      node_id: 521300b4-8a92-4419-a368-f7697c583708
+      title: Paul Davies
+    provenance_chain:
+      origin_kind: named
+      origin: Paul Davies
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 521300b4-8a92-4419-a368-f7697c583708
+        title: Paul Davies
+        slug: paul-davies
+      - node_id: 64f100c7-ad23-46ef-8818-ed5100b507c5
+        title: Charlie Hickson
+        slug: charlie-hickson
+    date: null
+    date_end: null
+    location_in_record: ch21:2512-2766
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 32687cf8-a827-40a9-b9f4-308ca4d9b2b3
+      record_title: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
+      record_date: '2005-11-14'
+      record_reference: null
+      content_hash: sha256:c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95d6ac9c3b
+      friendly_name: 2005-11-14-ebook-hair-of-the-alien-dna-and-other-forensic-evidence-for-alien
+  - claim_id: c5ad89a9-4067-4a95-9237-ea4cf347a5f3
+    claim_hash: d0c8c48d8f062dbb04d059b02ca9c6f6307bb8cf30846417fd07b1a196c2ee35
+    content: In 2004, Paul Davies revisited the theme of extraterrestrial DNA in a way that surprised many people, speculating
+      in New Scientist that a more intelligent way to search for evidence of an extraterrestrial message would be to look
+      for unusual extraterrestrial patterns in so-called "junk" DNA rather than using Search for Extraterrestrial Intelligence
+      (SETI) radio astronomy searches.
+    original_excerpt: Paul Davies revisited the theme of extraterrestrial DNA in a way that took many people by surprise in
+      2004. He speculated in New Scientist that a more intelligent way to look for evidence of an extraterrestrial message,
+      rather than SETI searches via radio astronomy, was to see if there were unusual extraterrestrial patterns in so-called
+      “junk” DNA.
+    claim_type: opinion
+    attestation: second_hand
+    speaker:
+      node_id: 521300b4-8a92-4419-a368-f7697c583708
+      title: Paul Davies
+    provenance_chain:
+      origin_kind: named
+      origin: Paul Davies
+      relay:
+        - New Scientist
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 4e18fded-649f-4eb8-a246-b6b79e9f9a6c
+        title: Paul Davies's 2004 New Scientist speculation on extraterrestrial messages in junk Deoxyribonucleic Acid (DNA)
+        slug: paul-daviess-2004-new-scientist-speculation-on-extraterrestrial-messages-in-junk-deoxyribonucleic-acid-dna
+      - node_id: 521300b4-8a92-4419-a368-f7697c583708
+        title: Paul Davies
+        slug: paul-davies
+      - node_id: 5c9023b9-5b26-4a95-b6ae-6c81a24aa33e
+        title: New Scientist
+        slug: new-scientist
+      - node_id: 782e22a7-0df0-4c32-86ac-095f5ac2ec32
+        title: Search for Extraterrestrial Intelligence (SETI)
+        slug: search-for-extraterrestrial-intelligence-seti
+      - node_id: b636c9a1-e958-4f48-a639-450a7ab409f0
+        title: Junk Deoxyribonucleic Acid (DNA)
+        slug: junk-deoxyribonucleic-acid-dna
+    date: '2004'
+    date_end: null
+    location_in_record: ch21:3747-4093
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 32687cf8-a827-40a9-b9f4-308ca4d9b2b3
+      record_title: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
+      record_date: '2005-11-14'
+      record_reference: null
+      content_hash: sha256:c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95d6ac9c3b
+      friendly_name: 2005-11-14-ebook-hair-of-the-alien-dna-and-other-forensic-evidence-for-alien
+  - claim_id: b7be2318-eb53-4fe2-90cc-c5537a7df2c5
+    claim_hash: 08e312a56884a398500f9126f494a5d4817a6e6756a876be61178bebf899e26e
+    content: Paul Davies wondered whether evidence of alien intervention could be hidden in human DNA.
+    original_excerpt: Could evidence of alien intervention be hidden in our own human DNA? he wondered.
+    claim_type: opinion
+    attestation: second_hand
+    speaker:
+      node_id: 521300b4-8a92-4419-a368-f7697c583708
+      title: Paul Davies
+    provenance_chain:
+      origin_kind: named
+      origin: Paul Davies
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 521300b4-8a92-4419-a368-f7697c583708
+        title: Paul Davies
+        slug: paul-davies
+    date: null
+    date_end: null
+    location_in_record: ch21:4098-4170
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 32687cf8-a827-40a9-b9f4-308ca4d9b2b3
+      record_title: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
+      record_date: '2005-11-14'
+      record_reference: null
+      content_hash: sha256:c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95d6ac9c3b
+      friendly_name: 2005-11-14-ebook-hair-of-the-alien-dna-and-other-forensic-evidence-for-alien
+  - claim_id: 42199e36-3096-4528-b02e-402873c460ed
+    claim_hash: f11325889e200a11ee5c682c1f514fbf07230b91f5d9f1e578f6e95e5fbbf54c
+    content: A photograph taken two years after 1993 shows Hillary Clinton conspicuously carrying the book Are We Alone? by
+      Australian professor Paul Davies, which Laurance Rockefeller gave her as a gift.
+    original_excerpt: Two years later, a photograph of Hillary Clinton and Rockefeller shows her conspicuously carrying the
+      book *Are We Alone?*3 by Australian Professor Paul Davies... Rockefeller, a long-time advocate for 'UFO disclosure',
+      gave Hillary the book as a gift; it looks at the philosophical implications of the discovery of extra-terrestrial life.
+    claim_type: observation
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 335f2869-3102-445f-ae63-1a13d0efe9a7
+        title: Are We Alone?
+        slug: are-we-alone
+      - node_id: 33ae3380-25ea-442a-9d60-69b285a20182
+        title: Hillary Clinton
+        slug: hillary-clinton
+      - node_id: 521300b4-8a92-4419-a368-f7697c583708
+        title: Paul Davies
+        slug: paul-davies
+      - node_id: f657fb13-198a-45d6-9530-253f2784f9d2
+        title: Laurance Rockefeller
+        slug: laurance-rockefeller
+    date: '1995'
+    date_end: null
+    location_in_record: ch14:1735-2066
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 13e01c8f-7660-442b-8746-dd94bbaa6183
+    claim_hash: 93454335e530768f7edcd70f02f42327a70bb029f6a9c89727e359a26f77bd57
+    content: A photograph shows Hillary Clinton, apparently at Camp David, holding the book "Are We Alone?" by University
+      of Arizona physicist Paul Davies.
+    original_excerpt: There's a photo of Hillary Clinton, and I think she's at camp David and she's holding a book and it's
+      a book by, uh, university of Arizona physicist, Paul Davies. And the book is titled, Are We Alone?
+    claim_type: testimony
+    attestation: second_hand
+    speaker:
+      node_id: 079d4381-4273-418b-bc9a-468623f95c6e
+      title: Jesse Mitchells
+    provenance_chain:
+      origin_kind: document
+      origin: a photograph of Hillary Clinton
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 2857f17e-454a-472d-a73a-b616686f7964
+        title: University of Arizona Press
+        slug: university-of-arizona-press
+      - node_id: 33ae3380-25ea-442a-9d60-69b285a20182
+        title: Hillary Clinton
+        slug: hillary-clinton
+      - node_id: 521300b4-8a92-4419-a368-f7697c583708
+        title: Paul Davies
+        slug: paul-davies
+      - node_id: cb65862c-4896-41a1-978e-64faa46e87e1
+        title: Are We Alone? (book by Paul Davies)
+        slug: are-we-alone-book-by-paul-davies
+      - node_id: e3ced5ef-15d5-4ac8-b81e-fc56aab736e2
+        title: USA, Maryland, Camp David
+        slug: maryland-camp-david-usa
+    date: null
+    date_end: null
+    location_in_record: 00:48:40.1-00:48:52.6
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 64b84f95-238c-4ab7-a678-bee55f985b14
+      record_title: The UFO Cover-Up Leads to One Secret Society — and One Final Event
+      record_date: '2026-07-14'
+      record_reference: https://www.youtube.com/watch?v=kccrkCGGzX4
+      content_hash: sha256:d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7b5a1b98d
+      friendly_name: null
+  - claim_id: efef562c-5bb5-44a8-baf2-a4351093bab8
+    claim_hash: 6ed35d21f1b784600870d7712d03ded2cb7f975538d2a24df3cb8446081ce2bc
+    content: Paul Davies is a theoretical physicist and writer on astrobiology.
+    original_excerpt: '[note: Paul Davies - Theoretical physicist and writer on astrobiology]'
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: source record annotation
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 521300b4-8a92-4419-a368-f7697c583708
+        title: Paul Davies
+        slug: paul-davies
+    date: null
+    date_end: null
+    location_in_record: line 161
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 64b84f95-238c-4ab7-a678-bee55f985b14
+      record_title: The UFO Cover-Up Leads to One Secret Society — and One Final Event
+      record_date: '2026-07-14'
+      record_reference: https://www.youtube.com/watch?v=kccrkCGGzX4
+      content_hash: sha256:d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7b5a1b98d
+      friendly_name: null

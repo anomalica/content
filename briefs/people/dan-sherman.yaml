@@ -1,0 +1,237 @@
+schema: anomalica/brief/1
+brief_hash: 23460e51a8720cbd6c881f8c6eaa16ae3e6eb435f6825756bdf0246014c8b48f
+page:
+  kind: entity
+  node_id: 30630ee7-6533-4319-a44f-2ae66a6197d3
+  node_type: person
+  title: Dan Sherman
+  slug: dan-sherman
+  claim_count: 4
+  claim_count_total: 4
+generated:
+  graph_version: '2026-09-01T10:10:49.863545+00:00'
+size:
+  claims: 4
+  tokens_estimated: 1274
+  sized_against: 1050000
+publication:
+  status: published
+  note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
+    transcripts are gated elsewhere.
+belonging:
+  verified: 0
+  suspect_excluded: 0
+  unreviewed: 4
+related_nodes:
+  - node_id: 084ebb6f-7a7f-42b8-b6a9-90a0a5666367
+    title: Basque mythology
+    node_type: topic
+    slug: basque-mythology
+    shared_claims: 2
+  - node_id: 9c774b14-7795-455d-8596-185e3c624e62
+    title: Above Black
+    node_type: document
+    slug: above-black
+    shared_claims: 1
+  - node_id: b2987768-887d-4ed6-859d-ca6cac3cf5b9
+    title: C. L. Turnage
+    node_type: person
+    slug: c-l-turnage
+    shared_claims: 1
+  - node_id: 24d00311-06ac-46a1-a2f5-c99f3f8e21b2
+    title: Chris Ramsay
+    node_type: person
+    slug: chris-ramsay
+    shared_claims: 1
+  - node_id: 0faecfe7-7e60-46e5-b110-56b2c3ab48c7
+    title: Flight of the Navigator (film)
+    node_type: document
+    slug: flight-of-the-navigator-film
+    shared_claims: 1
+  - node_id: 079d4381-4273-418b-bc9a-468623f95c6e
+    title: Jesse Mitchells
+    node_type: person
+    slug: jesse-mitchells
+    shared_claims: 1
+  - node_id: f88cd30d-7f0e-4b7a-be67-197933355eaa
+    title: Project Preserve Destiny
+    node_type: project
+    slug: project-preserve-destiny
+    shared_claims: 1
+  - node_id: 099b9987-ef29-433e-b79a-df0a1faf94a5
+    title: Sexual Encounters with Extraterrestrials
+    node_type: document
+    slug: sexual-encounters-with-extraterrestrials
+    shared_claims: 1
+  - node_id: 82811a97-b71f-47bc-9f99-b06aa75407a5
+    title: predictive programming
+    node_type: topic
+    slug: predictive-programming
+    shared_claims: 1
+claims:
+  - claim_id: 20192bb6-0833-48e6-bc38-98ae7c3d3c43
+    claim_hash: cb827a40382d3e80f37f8bef4e46e4625c13f84b6125f805957b93ecd30b9b27
+    content: Dan Sherman, in his book Above Black (1997), described unverified insider claims of alien interbreeding with
+      humans, indicating that the Basque people of Spain and France are the most likely candidates in the search for their
+      progeny.
+    original_excerpt: C. L. Turnage refers to the unverified claims of Dan Sherman, recounted in his book Above Black (1997),
+      where he describes “insider” claims about “alien interbreeding with man” indicating “the Basque people of Spain and
+      France are the most likely candidates in the search for their progeny.
+    claim_type: hearsay
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: named
+      origin: Dan Sherman
+      relay:
+        - C. L. Turnage's account of Sherman's claims
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 084ebb6f-7a7f-42b8-b6a9-90a0a5666367
+        title: Basque mythology
+        slug: basque-mythology
+      - node_id: 30630ee7-6533-4319-a44f-2ae66a6197d3
+        title: Dan Sherman
+        slug: dan-sherman
+      - node_id: 9c774b14-7795-455d-8596-185e3c624e62
+        title: Above Black
+        slug: above-black
+    date: null
+    date_end: null
+    location_in_record: ch23:53164-53446
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 32687cf8-a827-40a9-b9f4-308ca4d9b2b3
+      record_title: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
+      record_date: '2005-11-14'
+      record_reference: null
+      content_hash: sha256:c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95d6ac9c3b
+      friendly_name: 2005-11-14-ebook-hair-of-the-alien-dna-and-other-forensic-evidence-for-alien
+  - claim_id: bc5d889b-fb24-4a9e-917c-1d3ae710d6d9
+    claim_hash: a4509578f102bd65ef4dba5e07106940de3d4f0e22080245dadeef45cacdac59
+    content: Dan Sherman's account claims the Basque language has no identifiable roots, and that Basques are genetically
+      different from all other humans on the planet, with the scientific community considering them a human anomaly.
+    original_excerpt: The Basque language has no identifiable roots, and they are genetically different from all other humans
+      on the planet. The scientific community considers them a human anomaly.” See “Sexual Encounters With Extraterrestrials”
+      by C. L. Turnage (2001) p. 117.
+    claim_type: hearsay
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: named
+      origin: Dan Sherman
+      relay:
+        - C. L. Turnage's account of Sherman's claims
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 084ebb6f-7a7f-42b8-b6a9-90a0a5666367
+        title: Basque mythology
+        slug: basque-mythology
+      - node_id: 099b9987-ef29-433e-b79a-df0a1faf94a5
+        title: Sexual Encounters with Extraterrestrials
+        slug: sexual-encounters-with-extraterrestrials
+      - node_id: 30630ee7-6533-4319-a44f-2ae66a6197d3
+        title: Dan Sherman
+        slug: dan-sherman
+      - node_id: b2987768-887d-4ed6-859d-ca6cac3cf5b9
+        title: C. L. Turnage
+        slug: c-l-turnage
+    date: null
+    date_end: null
+    location_in_record: ch23:53455-53706
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 32687cf8-a827-40a9-b9f4-308ca4d9b2b3
+      record_title: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
+      record_date: '2005-11-14'
+      record_reference: null
+      content_hash: sha256:c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95d6ac9c3b
+      friendly_name: 2005-11-14-ebook-hair-of-the-alien-dna-and-other-forensic-evidence-for-alien
+  - claim_id: 0e2ded42-3be4-456e-8f3a-901b59f55764
+    claim_hash: 7c3647471626fa5e812a94726c1457c5c9c0ff5c5b0e1f84105186cf095dfa0d
+    content: Chris Ramsay considers the scene in Flight of the Navigator of a child interacting with oscilloscopes at a NASA
+      facility to resemble Dan Sherman's account and to be wildly predictive.
+    original_excerpt: this sounds like the Dan Sherman stuff it's wildly uh predictive
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 24d00311-06ac-46a1-a2f5-c99f3f8e21b2
+      title: Chris Ramsay
+    provenance_chain:
+      origin_kind: speaker
+      origin: Chris Ramsay
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 0faecfe7-7e60-46e5-b110-56b2c3ab48c7
+        title: Flight of the Navigator (film)
+        slug: flight-of-the-navigator-film
+      - node_id: 24d00311-06ac-46a1-a2f5-c99f3f8e21b2
+        title: Chris Ramsay
+        slug: chris-ramsay
+      - node_id: 30630ee7-6533-4319-a44f-2ae66a6197d3
+        title: Dan Sherman
+        slug: dan-sherman
+      - node_id: 82811a97-b71f-47bc-9f99-b06aa75407a5
+        title: predictive programming
+        slug: predictive-programming
+    date: null
+    date_end: null
+    location_in_record: 02:35:38.1-02:35:42.5
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: fd845823-8784-462c-a981-4775525b6f84
+      record_title: The DANGEROUS Truth About UFOs - Ross Coulthart | DEBRIEFED ep. 76
+      record_date: '2026-02-20'
+      record_reference: https://www.youtube.com/watch?v=idBryc0eWww
+      content_hash: sha256:73be106d406f6d35a063a894e8384e7da0918eb8597d2107a9e3653becca2bdc
+      friendly_name: null
+  - claim_id: cf9099a4-7118-491d-bf88-db6ae2ba79f8
+    claim_hash: be391ff73d068be7d78c45490dfa67bbfd2c8b32aafe9f72be85030ecb7e6a88
+    content: Project Preserve Destiny, associated with Dan Sherman, is a distinct effort from the reverse engineering of a
+      craft.
+    original_excerpt: Project Preserve Destiny is definitely stepwise different than reverse engineering a craft, which is
+      the stuff you're tracking.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 079d4381-4273-418b-bc9a-468623f95c6e
+      title: Jesse Mitchells
+    provenance_chain:
+      origin_kind: speaker
+      origin: Jesse Michels
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 079d4381-4273-418b-bc9a-468623f95c6e
+        title: Jesse Mitchells
+        slug: jesse-mitchells
+      - node_id: 30630ee7-6533-4319-a44f-2ae66a6197d3
+        title: Dan Sherman
+        slug: dan-sherman
+      - node_id: f88cd30d-7f0e-4b7a-be67-197933355eaa
+        title: Project Preserve Destiny
+        slug: project-preserve-destiny
+    date: null
+    date_end: null
+    location_in_record: 00:13:23.1-00:13:28.0
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: dc9d8bc8-9c1f-46b4-9b89-8d86b6b08e1d
+      record_title: Jesse Michels, UAPGerb & Chris Ramsay - Flying Saucer Diner
+      record_date: '2026-07-17'
+      record_reference: https://www.youtube.com/watch?v=HFLBDi87888
+      content_hash: sha256:7b2e272d7c82fdda745ee0354d7c9cc4b0d5ba5506015ca27edd9169a768b262
+      friendly_name: null

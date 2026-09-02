@@ -1,0 +1,247 @@
+schema: anomalica/brief/1
+brief_hash: 9a79b6a9d2438c2723ad8ef2474e3ba00495a31e9cf5ac28af6860b0d5b60682
+page:
+  kind: entity
+  node_id: 71e19b96-d74c-4ebe-a427-d979a83673a3
+  node_type: organisation
+  title: United States Naval Forces Central Command (NAVCENT)
+  slug: united-states-naval-forces-central-command-navcent
+  claim_count: 6
+  claim_count_total: 6
+generated:
+  graph_version: '2026-09-01T10:10:49.863545+00:00'
+size:
+  claims: 6
+  tokens_estimated: 1690
+  sized_against: 1050000
+publication:
+  status: published
+  note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
+    transcripts are gated elsewhere.
+belonging:
+  verified: 0
+  suspect_excluded: 0
+  unreviewed: 6
+related_nodes:
+  - node_id: 4601c91f-54fd-4465-91dc-850378d5eed9
+    title: 2022-07-31 Unidentified Aerial Phenomena (UAP) sighting near Deir ez-Zor, Syria
+    node_type: event
+    slug: syria-2022-07-31-unidentified-aerial-phenomena-uap-sighting-near-deir-ez-zor
+    shared_claims: 1
+  - node_id: cbbaacb9-368f-480a-be0b-2ea934a389bd
+    title: Arabian Gulf
+    node_type: place
+    slug: arabian-gulf
+    shared_claims: 1
+  - node_id: 81bf2de7-b43c-4003-b8d3-b62fc080c7e8
+    title: Gulf of Oman
+    node_type: place
+    slug: gulf-of-oman
+    shared_claims: 1
+  - node_id: 4167f02c-6de0-4e71-b7f2-afad64767943
+    title: Strait of Hormuz
+    node_type: place
+    slug: strait-of-hormuz
+    shared_claims: 1
+claims:
+  - claim_id: f4dde4ed-40db-43b6-bfe0-bf101afc54d2
+    claim_hash: 6edf7d8553fbf1f28127d7a40fd88e8a309ac6bfc4900126abceab5ca16d66b4
+    content: The combatant command for this mission was United States Central Command (USCENTCOM).
+    original_excerpt: '**Combatant Command (COCOM):** USCENTCOM'
+    claim_type: administrative
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: document
+      origin: Mission Report (MISREP) 4592219
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 71e19b96-d74c-4ebe-a427-d979a83673a3
+        title: United States Naval Forces Central Command (NAVCENT)
+        slug: united-states-naval-forces-central-command-navcent
+    date: null
+    date_end: null
+    location_in_record: char:1195-1224
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e3da2c6a-8270-49ce-bec2-71d7281e3943
+      record_title: Misrep 4592219
+      record_date: '2020-08-08'
+      record_reference: null
+      content_hash: sha256:39126406547c89dbc81112c5638612858fcfe7e38179dd89e6d725dc6cee13b1
+      friendly_name: null
+  - claim_id: c9e22d52-ac74-40f2-a376-f73e9e181b6d
+    claim_hash: 850d2a1ca1c8b32dbfc7ea51679b822464e24aff5b7c004dd446becfd7794553
+    content: From 05:13 to 22:56 Zulu on 2020-08-08, the aircraft supported United States Naval Forces Central Command (NAVCENT)
+      in the vicinity of the Arabian Gulf, Strait of Hormuz and Gulf of Oman.
+    original_excerpt: 'FROM 0513Z TO 2256Z, {{redacted: 1.4a}} SUPPORTED NAVCENT TO OPERATION {{redacted: 1.4a}} IVO ARABIAN
+      GULF, STRAIT OF HORMUZ AND GULF OF OMAN.'
+    claim_type: administrative
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: document
+      origin: Mission Report (MISREP) 4592219
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 4167f02c-6de0-4e71-b7f2-afad64767943
+        title: Strait of Hormuz
+        slug: strait-of-hormuz
+      - node_id: 71e19b96-d74c-4ebe-a427-d979a83673a3
+        title: United States Naval Forces Central Command (NAVCENT)
+        slug: united-states-naval-forces-central-command-navcent
+      - node_id: 81bf2de7-b43c-4003-b8d3-b62fc080c7e8
+        title: Gulf of Oman
+        slug: gulf-of-oman
+      - node_id: cbbaacb9-368f-480a-be0b-2ea934a389bd
+        title: Arabian Gulf
+        slug: arabian-gulf
+    date: '2020-08-08'
+    date_end: null
+    location_in_record: char:274-411
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e3da2c6a-8270-49ce-bec2-71d7281e3943
+      record_title: Misrep 4592219
+      record_date: '2020-08-08'
+      record_reference: null
+      content_hash: sha256:39126406547c89dbc81112c5638612858fcfe7e38179dd89e6d725dc6cee13b1
+      friendly_name: null
+  - claim_id: baf6ec81-4002-479c-8b70-67b3fbeab26c
+    claim_hash: 613110a869d34bfff97da3916d5bc5aca15e793740a2d2c59be544c35705beba
+    content: The aircraft coordinated with United States Naval Forces Central Command (NAVCENT) 24 hours prior to take off,
+      and the pre-coordination was assessed as satisfactory.
+    original_excerpt: '{{redacted: 1.4a}} COORDINATED WITH NAVCENT 24 HOURS PRIOR TO TAKE OFF. PRECOORD WAS SATISFACTORY.'
+    claim_type: administrative
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: document
+      origin: Mission Report (MISREP) 4592219
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 71e19b96-d74c-4ebe-a427-d979a83673a3
+        title: United States Naval Forces Central Command (NAVCENT)
+        slug: united-states-naval-forces-central-command-navcent
+    date: '2020-08-08'
+    date_end: null
+    location_in_record: char:6612-6695
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e3da2c6a-8270-49ce-bec2-71d7281e3943
+      record_title: Misrep 4592219
+      record_date: '2020-08-08'
+      record_reference: null
+      content_hash: sha256:39126406547c89dbc81112c5638612858fcfe7e38179dd89e6d725dc6cee13b1
+      friendly_name: null
+  - claim_id: 5a99f79a-7d6d-486b-a922-da727a9d8ae2
+    claim_hash: 85f2ca61c12ca9ea59af8c77ab87dff43cf5b68c57c339d5004e978c4844f6c3
+    content: At 05:13 Zulu on 2020-08-08, the aircraft arrived on station in support of United States Naval Forces Central
+      Command (NAVCENT) to conduct scans for identified Islamic Republic of Iran Navy (IRIN) and Islamic Revolutionary Guard
+      Corps Navy (IRGCN) vessels, to establish a pattern of life, unmanned aircraft system (UAS) activity, and to characterise
+      activity outside of ports.
+    original_excerpt: 'AT 0513Z, {{redacted: 1.4a}} ARRIVED ON STATION ISO NAVCENT TO OPERATION {{redacted: 1.4a}} TO CONDUCT
+      SCANS FOR IDENTIFIED IRIN\IRGCN VESSELS TO ESTABLISH PATTERN OF LIFE, UAS ACTIVITY AND CHARACTERIZE ACTIVITY OUTSIDE
+      OF PORTS.'
+    claim_type: administrative
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: document
+      origin: Mission Report (MISREP) 4592219
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 71e19b96-d74c-4ebe-a427-d979a83673a3
+        title: United States Naval Forces Central Command (NAVCENT)
+        slug: united-states-naval-forces-central-command-navcent
+    date: '2020-08-08'
+    date_end: null
+    location_in_record: char:6709-6932
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e3da2c6a-8270-49ce-bec2-71d7281e3943
+      record_title: Misrep 4592219
+      record_date: '2020-08-08'
+      record_reference: null
+      content_hash: sha256:39126406547c89dbc81112c5638612858fcfe7e38179dd89e6d725dc6cee13b1
+      friendly_name: null
+  - claim_id: bfdfab78-c239-4f5a-ae96-9f16e1dc12e4
+    claim_hash: 029b142cc41d8a2631fb3897142333a75a43e0f93df691900e1fad9f0cb3ef58
+    content: The unit supported by this ISR mission was United States Naval Forces Central Command (NAVCENT).
+    original_excerpt: '**Supported Unit:** NAVCENT'
+    claim_type: administrative
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: document
+      origin: Mission Report (MISREP) 4592219
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 71e19b96-d74c-4ebe-a427-d979a83673a3
+        title: United States Naval Forces Central Command (NAVCENT)
+        slug: united-states-naval-forces-central-command-navcent
+    date: '2020-08-08'
+    date_end: null
+    location_in_record: char:7228-7246
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e3da2c6a-8270-49ce-bec2-71d7281e3943
+      record_title: Misrep 4592219
+      record_date: '2020-08-08'
+      record_reference: null
+      content_hash: sha256:39126406547c89dbc81112c5638612858fcfe7e38179dd89e6d725dc6cee13b1
+      friendly_name: null
+  - claim_id: 2ffe5bfa-25c2-4a6c-afc8-0fc873c6cd6a
+    claim_hash: a80b600eea548cbd9e760378c1be0146e68b4b2ae5feb6e14590b171263003fc
+    content: The mission that included the 2022-07-31 UAP sighting near Deir ez-Zor, Syria fell under the combatant command
+      of United States Central Command (USCENTCOM).
+    original_excerpt: 'Combatant Command (COCOM): USCENTCOM'
+    claim_type: administrative
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: document
+      origin: the mission report (MISREP)
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 4601c91f-54fd-4465-91dc-850378d5eed9
+        title: 2022-07-31 Unidentified Aerial Phenomena (UAP) sighting near Deir ez-Zor, Syria
+        slug: syria-2022-07-31-unidentified-aerial-phenomena-uap-sighting-near-deir-ez-zor
+      - node_id: 71e19b96-d74c-4ebe-a427-d979a83673a3
+        title: United States Naval Forces Central Command (NAVCENT)
+        slug: united-states-naval-forces-central-command-navcent
+    date: '2022-07-31'
+    date_end: null
+    location_in_record: char:1507-1534
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: c323ba11-136d-424d-beec-9a09c7a603b5
+      record_title: Misrep-7816710
+      record_date: '2022-07-31'
+      record_reference: null
+      content_hash: sha256:b3b3f023d70bcce3178de9fe6a019ea6db5e5145bc7e28a49308442e190ef817
+      friendly_name: null

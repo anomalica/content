@@ -1,0 +1,363 @@
+schema: anomalica/brief/1
+brief_hash: ea8005dda29b17bbee777d8d08ab656f246f0b90282d9db9465426ab177662ca
+page:
+  kind: entity
+  node_id: a9ab65f5-d3ee-4c94-aa9e-523d3c2dd80d
+  node_type: event
+  title: Bay of Pigs Invasion 1961
+  slug: bay-of-pigs-invasion-1961
+  claim_count: 7
+  claim_count_total: 7
+generated:
+  graph_version: '2026-09-01T10:10:49.863545+00:00'
+size:
+  claims: 7
+  tokens_estimated: 2090
+  sized_against: 1050000
+publication:
+  status: published
+  note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
+    transcripts are gated elsewhere.
+belonging:
+  verified: 0
+  suspect_excluded: 0
+  unreviewed: 7
+related_nodes:
+  - node_id: 7aed4677-7814-4963-9610-13d46bd97440
+    title: Fidel Castro
+    node_type: person
+    slug: fidel-castro
+    shared_claims: 2
+  - node_id: c3c90829-7c63-4c5d-8ba1-e96d65aa1a03
+    title: John Fitzgerald Kennedy
+    node_type: person
+    slug: john-fitzgerald-kennedy
+    shared_claims: 2
+  - node_id: 2f2a8882-079b-429e-9aaf-37d1fdc53cee
+    title: Luis D. Elizondo III (father)
+    node_type: person
+    slug: luis-d-elizondo-iii-father
+    shared_claims: 2
+  - node_id: 80cba131-c480-415b-9ed6-956f04104f73
+    title: Brigade 2506
+    node_type: organisation
+    slug: brigade-2506
+    shared_claims: 1
+  - node_id: 38b84d4a-96df-4684-bb46-f6f64f392add
+    title: Central Intelligence Agency (CIA)
+    node_type: organisation
+    slug: central-intelligence-agency-cia
+    shared_claims: 1
+  - node_id: 37ce5ca9-55f8-466e-86f6-4e80d24247dc
+    title: Cuba
+    node_type: place
+    slug: cuba
+    shared_claims: 1
+  - node_id: 3e00227f-4ac3-4c3c-8591-bbd5b34f0240
+    title: David Lamar Christ
+    node_type: person
+    slug: david-lamar-christ
+    shared_claims: 1
+  - node_id: 65d9b05d-a0f6-455f-ac83-9ee030fc4c36
+    title: Gordon Novel
+    node_type: person
+    slug: gordon-novel
+    shared_claims: 1
+  - node_id: 1fa66dfc-6e67-4838-a828-fcf88d3bdfc0
+    title: Nikita Khrushchev
+    node_type: person
+    slug: nikita-khrushchev
+    shared_claims: 1
+  - node_id: 636605af-4dec-4495-8c42-ffd320314004
+    title: USA, Louisiana
+    node_type: place
+    slug: louisiana-usa
+    shared_claims: 1
+  - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
+    title: Unidentified Anomalous Phenomena (UAP)
+    node_type: topic
+    slug: unidentified-anomalous-phenomena-uap
+    shared_claims: 1
+  - node_id: e0e5506a-fc71-425f-a22a-755baba27d2a
+    title: Vienna summit, 1961-06
+    node_type: event
+    slug: 1961-06-vienna-summit
+    shared_claims: 1
+claims:
+  - claim_id: a7856bfd-df9a-4a0a-8eaf-72246a9da24b
+    claim_hash: 9f2f27e6ef95547fc3806626fe791ea5fc9563c1fb2f809152034d1662bf3ab2
+    content: Nikita Khrushchev turned down John F. Kennedy's offer to merge the US and Soviet space programmes, in part because
+      he did not trust Kennedy after the Bay of Pigs invasion.
+    original_excerpt: Khrushchev turned Kennedy down, in part because he didn’t trust the young President after the Bay of
+      Pigs fiasco
+    claim_type: observation
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 1fa66dfc-6e67-4838-a828-fcf88d3bdfc0
+        title: Nikita Khrushchev
+        slug: nikita-khrushchev
+      - node_id: a9ab65f5-d3ee-4c94-aa9e-523d3c2dd80d
+        title: Bay of Pigs Invasion 1961
+        slug: bay-of-pigs-invasion-1961
+      - node_id: c3c90829-7c63-4c5d-8ba1-e96d65aa1a03
+        title: John Fitzgerald Kennedy
+        slug: john-fitzgerald-kennedy
+      - node_id: e0e5506a-fc71-425f-a22a-755baba27d2a
+        title: Vienna summit, 1961-06
+        slug: 1961-06-vienna-summit
+    date: 1961-06
+    date_end: null
+    location_in_record: ch10:63546-63652
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+      record_title: Dark Mission
+      record_date: '2010-07-22'
+      record_reference: null
+      content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+      friendly_name: null
+  - claim_id: 06b15552-5c3f-47cb-ae44-d2a2e135d6ed
+    claim_hash: e171e9b02b24e0e83bb19297ad72b21a687c838d85b6ace5235e11dfceb6ba91
+    content: During the Central Intelligence Agency's Operation Mongoose, anti-Castro Cuban immigrants were covertly funded
+      to plan the abortive invasion of Cuba at the Bay of Pigs in 1961.
+    original_excerpt: When the CIA's Operation Mongoose covertly funded anti-Castro Cuban immigrants to plan an abortive invasion
+      of Cuba in the Bay of Pigs debacle in 1961
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 37ce5ca9-55f8-466e-86f6-4e80d24247dc
+        title: Cuba
+        slug: cuba
+      - node_id: 38b84d4a-96df-4684-bb46-f6f64f392add
+        title: Central Intelligence Agency (CIA)
+        slug: central-intelligence-agency-cia
+      - node_id: a9ab65f5-d3ee-4c94-aa9e-523d3c2dd80d
+        title: Bay of Pigs Invasion 1961
+        slug: bay-of-pigs-invasion-1961
+    date: '1961'
+    date_end: null
+    location_in_record: ch27:3588-3734
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: fe56ba27-c503-4aa5-afae-f314df3c57f3
+    claim_hash: 68594c9a2cf0ea05b684c437216afe2dfb8f436fb02afdeff26c49c76cc4a407
+    content: Gordon Novel was among the plotters who stole weapons from a munitions bunker in Louisiana in connection with
+      the 1961 Bay of Pigs invasion plot.
+    original_excerpt: Novel was among the plotters who stole weapons from a munitions bunker in Louisiana.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 636605af-4dec-4495-8c42-ffd320314004
+        title: USA, Louisiana
+        slug: louisiana-usa
+      - node_id: 65d9b05d-a0f6-455f-ac83-9ee030fc4c36
+        title: Gordon Novel
+        slug: gordon-novel
+      - node_id: a9ab65f5-d3ee-4c94-aa9e-523d3c2dd80d
+        title: Bay of Pigs Invasion 1961
+        slug: bay-of-pigs-invasion-1961
+    date: '1961'
+    date_end: null
+    location_in_record: ch27:3740-3814
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 0db65cfa-f920-41a8-9169-ede0e2f5ff5b
+    claim_hash: 22b2731ca15ca898e4e105f8099d847b9adfb53ef51a7d61d3f8402e7ec4e31f
+    content: After Fidel Castro aligned with the Russians and declared himself president for life, Luis D. Elizondo III joined
+      the resistance and ultimately Brigade 2506, and participated in the US-led Bay of Pigs Invasion.
+    original_excerpt: Once Castro aligned with the Russians and declared himself president for life, my father joined the
+      resistance and ultimately Brigade 2506 and participated in the US-led invasion of the Bay of Pigs.
+    claim_type: administrative
+    attestation: first_hand
+    speaker:
+      node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+      title: Luis Elizondo
+    provenance_chain:
+      origin_kind: speaker
+      origin: Lue Elizondo
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 2f2a8882-079b-429e-9aaf-37d1fdc53cee
+        title: Luis D. Elizondo III (father)
+        slug: luis-d-elizondo-iii-father
+      - node_id: 7aed4677-7814-4963-9610-13d46bd97440
+        title: Fidel Castro
+        slug: fidel-castro
+      - node_id: 80cba131-c480-415b-9ed6-956f04104f73
+        title: Brigade 2506
+        slug: brigade-2506
+      - node_id: a9ab65f5-d3ee-4c94-aa9e-523d3c2dd80d
+        title: Bay of Pigs Invasion 1961
+        slug: bay-of-pigs-invasion-1961
+    date: '1961'
+    date_end: null
+    location_in_record: ch11:6048-6267
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  - claim_id: b20e37a7-c4bc-4f3d-8f31-d7d397baf36b
+    claim_hash: a352b9aa30d1db722684f76ed37f6c4c596b2b7732252aac5923d6035bb7640e
+    content: Luis D. Elizondo III spent two years in Fidel Castro's prisons as a consequence of his role in the Bay of Pigs
+      Invasion.
+    original_excerpt: The price for his decision was two years in Castro's prisons, where he underwent oral surgery without
+      anesthesia and ate the occasional boiled horse hoof to survive.
+    claim_type: administrative
+    attestation: first_hand
+    speaker:
+      node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+      title: Luis Elizondo
+    provenance_chain:
+      origin_kind: speaker
+      origin: Lue Elizondo
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 2f2a8882-079b-429e-9aaf-37d1fdc53cee
+        title: Luis D. Elizondo III (father)
+        slug: luis-d-elizondo-iii-father
+      - node_id: 7aed4677-7814-4963-9610-13d46bd97440
+        title: Fidel Castro
+        slug: fidel-castro
+      - node_id: a9ab65f5-d3ee-4c94-aa9e-523d3c2dd80d
+        title: Bay of Pigs Invasion 1961
+        slug: bay-of-pigs-invasion-1961
+    date: null
+    date_end: null
+    location_in_record: ch11:6273-6430
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  - claim_id: dd55aa2e-f8c9-4590-b33a-72c33636c168
+    claim_hash: 29689657005270360a4f131bd8e656621276395d498f3eac7e3f0a879781d291
+    content: David Lamar Christ was imprisoned in Cuba around the time of the Bay of Pigs Invasion.
+    original_excerpt: he was imprisoned in Cuba at around the time of the Bay of Pigs.
+    claim_type: testimony
+    attestation: second_hand
+    speaker:
+      node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+      title: Ross Coulthart
+    provenance_chain:
+      origin_kind: speaker
+      origin: Ross Coulthart
+      relay:
+        - Jeff Cruikshank's research
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 3e00227f-4ac3-4c3c-8591-bbd5b34f0240
+        title: David Lamar Christ
+        slug: david-lamar-christ
+      - node_id: a9ab65f5-d3ee-4c94-aa9e-523d3c2dd80d
+        title: Bay of Pigs Invasion 1961
+        slug: bay-of-pigs-invasion-1961
+    date: null
+    date_end: null
+    location_in_record: 00:54:36.0-00:54:41.5
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: d17e43f2-fe6c-4a2d-824d-fd379e6891c5
+      record_title: Watergate, the JFK assassination and a UFO secret at the center of it all | Reality Check
+      record_date: '2026-06-18'
+      record_reference: https://www.youtube.com/watch?v=PeULVsP-jEQ
+      content_hash: sha256:997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc07360cb2ab1
+      friendly_name: null
+  - claim_id: c6fd8141-757f-4760-a941-075fc84860e3
+    claim_hash: be60a6d90fa18a758236a05bed52dca5b558857a7e12a23d17117a45a7637d1c
+    content: Jonathan Caplan believes John F. Kennedy was interfering in the UFO situation because he was concerned that after
+      the Bay of Pigs Invasion a UFO might be mistaken by the Russians, or vice versa, as an incoming ballistic missile, and
+      he did not want that nuclear threat to exist.
+    original_excerpt: there is other evidence that Kennedy was interfering in the UFO situation because he was very concerned
+      that after the Bay of Pigs that an a UFO might be mistaken by the Russians or vice versa as an incoming ballistic missile
+      and he did not want that nuclear threat to exist
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: c16c86b6-7526-46cd-bcd8-7f74283ebf2c
+      title: Jonathan Caplan
+    provenance_chain:
+      origin_kind: speaker
+      origin: Jonathan Caplan
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
+        title: Unidentified Anomalous Phenomena (UAP)
+        slug: unidentified-anomalous-phenomena-uap
+      - node_id: a9ab65f5-d3ee-4c94-aa9e-523d3c2dd80d
+        title: Bay of Pigs Invasion 1961
+        slug: bay-of-pigs-invasion-1961
+      - node_id: c3c90829-7c63-4c5d-8ba1-e96d65aa1a03
+        title: John Fitzgerald Kennedy
+        slug: john-fitzgerald-kennedy
+    date: null
+    date_end: null
+    location_in_record: 00:57:06.8-00:57:34.8
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: d17e43f2-fe6c-4a2d-824d-fd379e6891c5
+      record_title: Watergate, the JFK assassination and a UFO secret at the center of it all | Reality Check
+      record_date: '2026-06-18'
+      record_reference: https://www.youtube.com/watch?v=PeULVsP-jEQ
+      content_hash: sha256:997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc07360cb2ab1
+      friendly_name: null

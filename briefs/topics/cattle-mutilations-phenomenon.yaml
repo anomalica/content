@@ -1,0 +1,3606 @@
+schema: anomalica/brief/1
+brief_hash: 5de0e5716302214d63266d6dc88ea7da66a61a45e3dee43fdcd8727cab1539ec
+page:
+  kind: entity
+  node_id: 5c2e2a53-46e8-479b-88a3-74aee6f4f350
+  node_type: topic
+  title: Cattle mutilations phenomenon
+  slug: cattle-mutilations-phenomenon
+  claim_count: 96
+  claim_count_total: 96
+generated:
+  graph_version: '2026-09-01T10:10:49.863545+00:00'
+size:
+  claims: 96
+  tokens_estimated: 28854
+  sized_against: 1050000
+publication:
+  status: published
+  note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
+    transcripts are gated elsewhere.
+belonging:
+  verified: 0
+  suspect_excluded: 0
+  unreviewed: 96
+related_nodes:
+  - node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
+    title: Jacques Vallée
+    node_type: person
+    slug: jacques-vallee
+    shared_claims: 13
+  - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
+    title: Unidentified Flying Object (UFO)
+    node_type: topic
+    slug: unidentified-flying-object-ufo
+    shared_claims: 8
+  - node_id: 1bbb9362-ef9b-4176-b2bf-3c2febf997aa
+    title: Mick Cook
+    node_type: person
+    slug: mick-cook
+    shared_claims: 4
+  - node_id: d357c88d-2b2d-45b4-8c14-7511cf55329a
+    title: The Occult (alleged Satanic cult)
+    node_type: organisation
+    slug: the-occult-alleged-satanic-cult
+    shared_claims: 4
+  - node_id: c430b2b2-7900-45c9-9882-98ac4ab14e88
+    title: Federal Bureau of Investigation (FBI)
+    node_type: organisation
+    slug: federal-bureau-of-investigation-fbi
+    shared_claims: 3
+  - node_id: c0575ded-5592-48b0-96ac-478b5714394e
+    title: Frederick W. Smith
+    node_type: person
+    slug: frederick-w-smith
+    shared_claims: 3
+  - node_id: 3ad152ce-8517-4ea6-921f-b3fc1115a68b
+    title: Judy Cook
+    node_type: person
+    slug: judy-cook
+    shared_claims: 3
+  - node_id: e46e0501-ca3d-4bbd-ad05-0d03468072e5
+    title: North American Air Defense Command (NORAD)
+    node_type: organisation
+    slug: north-american-air-defense-command-norad
+    shared_claims: 3
+  - node_id: 0841fca4-8906-47b6-a5c1-f2415ec1559b
+    title: 1975 Cheyenne Mountain area cattle mutilation wave
+    node_type: event
+    slug: 1975-cheyenne-mountain-area-cattle-mutilation-wave
+    shared_claims: 2
+  - node_id: e771f9fe-8342-4be6-94b3-a8afcc990d87
+    title: Albert K. Bankston
+    node_type: person
+    slug: albert-k-bankston
+    shared_claims: 2
+  - node_id: 17d1fa51-fb6f-4ccd-9aa7-fe1df0262eee
+    title: Carl Whiteside
+    node_type: person
+    slug: carl-whiteside
+    shared_claims: 2
+  - node_id: cd3d4ab8-3182-4764-9bc6-994e81caf081
+    title: Colorado Bureau of Investigation
+    node_type: organisation
+    slug: colorado-bureau-of-investigation
+    shared_claims: 2
+  - node_id: 7e77b366-ef45-4ae9-bceb-72dc2caaadf6
+    title: Dan Dugan
+    node_type: person
+    slug: dan-dugan
+    shared_claims: 2
+  - node_id: ff44152e-1a0c-4656-8ab6-bae4854f53bc
+    title: Fort Carson
+    node_type: place
+    slug: fort-carson
+    shared_claims: 2
+  - node_id: 1623e9f3-5ac3-4e67-86d0-ceb1072826dc
+    title: Richard Dolan
+    node_type: person
+    slug: richard-dolan
+    shared_claims: 2
+  - node_id: 0bf05aad-f8de-4b2d-bdbd-0b1cff88e823
+    title: Baron Hankes
+    node_type: person
+    slug: baron-hankes
+    shared_claims: 1
+  - node_id: 3ac17f67-a833-42ec-b9e4-e742e5fb1bf6
+    title: Buckley Air National Guard Base
+    node_type: place
+    slug: buckley-air-national-guard-base
+    shared_claims: 1
+  - node_id: 9e05037f-bd7e-4cbc-814f-ddefe6bc5dfe
+    title: Cattle Mutilation
+    node_type: document
+    slug: cattle-mutilation
+    shared_claims: 1
+  - node_id: 80c138ee-3fa2-4bb7-88fa-1a2cc11e33a2
+    title: Cheyenne Mountain Zoo
+    node_type: place
+    slug: cheyenne-mountain-zoo
+    shared_claims: 1
+  - node_id: fac2c1f9-2729-4cf3-aec9-bd07adf3bf06
+    title: Clarence Kelley
+    node_type: person
+    slug: clarence-kelley
+    shared_claims: 1
+  - node_id: 8c12625d-af67-4478-84ef-6474c861d558
+    title: Ent Air Force Base
+    node_type: place
+    slug: ent-air-force-base
+    shared_claims: 1
+  - node_id: 589ae4ed-e41d-4514-85e7-72038302a442
+    title: Floyd K. Haskell
+    node_type: person
+    slug: floyd-k-haskell
+    shared_claims: 1
+  - node_id: 2f6ab98a-b02d-4741-981f-606003647a05
+    title: George Yarnell
+    node_type: person
+    slug: george-yarnell
+    shared_claims: 1
+  - node_id: 9492971a-ab0d-4cc4-b5a6-8016dcc56632
+    title: Hart (Garfield County officer)
+    node_type: person
+    slug: hart-garfield-county-officer
+    shared_claims: 1
+  - node_id: 5be461f1-e45f-4484-a650-e8658e81cb02
+    title: Intelligence information regarding occult activities throughout the United States (1975 report)
+    node_type: document
+    slug: intelligence-information-regarding-occult-activities-throughout-the-united-states-1975-report
+    shared_claims: 1
+  - node_id: 9e848b8a-266e-4cb9-ac63-36b2d31a36f0
+    title: James Stewart
+    node_type: person
+    slug: james-stewart
+    shared_claims: 1
+  - node_id: b49361de-ba6c-4116-8b86-ff39f58c7921
+    title: Jim Hileman
+    node_type: person
+    slug: jim-hileman
+    shared_claims: 1
+  - node_id: 148161eb-6162-4291-81a7-ba1a5d4f4a29
+    title: Lowry Air Force Base bombing range
+    node_type: place
+    slug: lowry-air-force-base-bombing-range
+    shared_claims: 1
+  - node_id: d5224a9c-0d69-4b8d-b27b-0ffc20e0b713
+    title: Major Murphy
+    node_type: person
+    slug: major-murphy
+    shared_claims: 1
+  - node_id: 4d967e52-6eba-4adf-ae00-3f652e082e46
+    title: National Enquirer
+    node_type: organisation
+    slug: national-enquirer
+    shared_claims: 1
+claims:
+  - claim_id: db5d75cd-6304-4b02-93c4-f9619fb517d2
+    claim_hash: f87b535db979cddc0381ad5d70882576d2d9d22d0e1ba043178641238ebd8758
+    content: In late July 1975 at Ashlot Bench near Fort Shaw, a mutilated cow was found in a pasture with its teats cut off
+      by a sharp instrument and the grass trampled down for about 2.7 metres around the carcass; the farmer had seen a blinking
+      red light at the spot the previous night that had moved down the road.
+    original_excerpt: In late July 1975, on Ashlot Bench, north of Fort Shaw, Montana, a mutilated cow was found in the pasture,
+      the teats cut off with a sharp instrument, the grass trampled down for nine feet around the carcass. The farmer had
+      seen a blinking red light at the spot on the previous night, and it had moved down the road.
+    claim_type: testimony
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: an unnamed farmer near Fort Shaw
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 28578a2e-478a-4f35-86fb-1f04fda7da98
+        title: USA, Colorado, Ashlot Bench (near Fort Shaw)
+        slug: colorado-ashlot-bench-near-fort-shaw-usa
+      - node_id: 5c2e2a53-46e8-479b-88a3-74aee6f4f350
+        title: Cattle mutilations phenomenon
+        slug: cattle-mutilations-phenomenon
+    date: 1975-07
+    date_end: null
+    location_in_record: ch12:11053-11363
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: f0690aba-c78b-47f4-bb2f-f94ea04d55ee
+      record_title: 'Messengers of Deception: UFO Contacts and Cults'
+      record_date: '0101-01-01'
+      record_reference: null
+      content_hash: sha256:0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5ac9fd3168
+      friendly_name: 0101-01-01-ebook-messengers-of-deception-ufo-contacts-and-cults
+  - claim_id: 73c2077b-8f17-4a70-aa15-c7e22457104e
+    claim_hash: 79fc0ef2696880b392dc56182d9a583c8dd21501437d9bb3e6084c42d66f8000
+    content: James Stewart, an assistant professor of sociology at the University of South Dakota at Vermillion, suggested
+      that belief in cattle mutilations was the result of collective delusion.
+    original_excerpt: James Stewart, an assistant professor of sociology from the University of South Dakota at Vermillion,
+      suggested that belief in cattle mutilations was "the result of collective delusion,"
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 9e848b8a-266e-4cb9-ac63-36b2d31a36f0
+      title: James Stewart
+    provenance_chain:
+      origin_kind: speaker
+      origin: James Stewart
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 5c2e2a53-46e8-479b-88a3-74aee6f4f350
+        title: Cattle mutilations phenomenon
+        slug: cattle-mutilations-phenomenon
+      - node_id: 9e848b8a-266e-4cb9-ac63-36b2d31a36f0
+        title: James Stewart
+        slug: james-stewart
+      - node_id: e4d8dc41-369e-4494-8046-98ade4e94fbf
+        title: University of South Dakota
+        slug: university-of-south-dakota
+    date: null
+    date_end: null
+    location_in_record: ch12:13177-13353
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: f0690aba-c78b-47f4-bb2f-f94ea04d55ee
+      record_title: 'Messengers of Deception: UFO Contacts and Cults'
+      record_date: '0101-01-01'
+      record_reference: null
+      content_hash: sha256:0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5ac9fd3168
+      friendly_name: 0101-01-01-ebook-messengers-of-deception-ufo-contacts-and-cults
+  - claim_id: 8278d146-c549-4f73-abdc-4c394d4ef24b
+    claim_hash: 8037fe54d4af6857ab67eba030525c4fcebbdabb7ba6d330603bfa1d9385d855
+    content: Captain Vern Byler of the Nebraska State Patrol, Criminal Division, cited a case his agency had investigated
+      in which he found evidence of deliberate cattle mutilation that could not be attributed to predators.
+    original_excerpt: In Nebraska, Captain Vern Byler (Criminal Division of the State Patrol) cited a case that his agency
+      had investigated in which he found evidence of deliberate mutilation that could not be attributed to predators.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 061ddde7-37e4-42a0-a471-abe2793491d2
+      title: Vern Byler
+    provenance_chain:
+      origin_kind: speaker
+      origin: Vern Byler
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 061ddde7-37e4-42a0-a471-abe2793491d2
+        title: Vern Byler
+        slug: vern-byler
+      - node_id: 5c2e2a53-46e8-479b-88a3-74aee6f4f350
+        title: Cattle mutilations phenomenon
+        slug: cattle-mutilations-phenomenon
+      - node_id: 7399daee-5a1b-4020-a8e4-b650cbafb2a5
+        title: Nebraska State Patrol, Criminal Division
+        slug: criminal-division-nebraska-state-patrol
+    date: null
+    date_end: null
+    location_in_record: ch12:14245-14447
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: f0690aba-c78b-47f4-bb2f-f94ea04d55ee
+      record_title: 'Messengers of Deception: UFO Contacts and Cults'
+      record_date: '0101-01-01'
+      record_reference: null
+      content_hash: sha256:0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5ac9fd3168
+      friendly_name: 0101-01-01-ebook-messengers-of-deception-ufo-contacts-and-cults
+  - claim_id: d8aafc71-ce4f-4887-afb2-7ab8bbb3de24
+    claim_hash: a402802130c36cc4fdfaea18cf4f489bef740c1299f1e0fae01daebcfc43a7b1
+    content: Captain W. Wilson of the Texas Rangers said that several cattle mutilation cases he had studied were classified
+      as unexplainable.
+    original_excerpt: Similarly, in Texas, Captain W. Wilson of the Texas Rangers stated that several cases he had studied
+      were classified as unexplainable.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: ab1d283c-bf4d-4471-a29f-5ccf5d5a7d1c
+      title: W. Wilson
+    provenance_chain:
+      origin_kind: speaker
+      origin: W. Wilson
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 5c2e2a53-46e8-479b-88a3-74aee6f4f350
+        title: Cattle mutilations phenomenon
+        slug: cattle-mutilations-phenomenon
+      - node_id: ab1d283c-bf4d-4471-a29f-5ccf5d5a7d1c
+        title: W. Wilson
+        slug: w-wilson
+      - node_id: b6d90d8b-df3a-4bd9-84fb-ad272345cca6
+        title: Texas Rangers
+        slug: texas-rangers
+    date: null
+    date_end: null
+    location_in_record: ch12:14458-14578
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: f0690aba-c78b-47f4-bb2f-f94ea04d55ee
+      record_title: 'Messengers of Deception: UFO Contacts and Cults'
+      record_date: '0101-01-01'
+      record_reference: null
+      content_hash: sha256:0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5ac9fd3168
+      friendly_name: 0101-01-01-ebook-messengers-of-deception-ufo-contacts-and-cults
+  - claim_id: f3cd767c-8b26-41b4-adec-4b9b7705c969
+    claim_hash: 04261bb1c43d0a8cf52a494ceb8f309aacd324264e2b2ea583196ff7e1e439a9
+    content: A police report signed by Sheriff Richards of Cochran County, Texas, dated March 10, 1975, recorded a complaint
+      of cattle mutilation from a resident of Whiteface.
+    original_excerpt: 'It comes from Texas. It is signed by Sheriff Richards, of Cochran County, and is dated March 10, 1975,
+      at 12:30 p.m. The complainant is a resident of the town of Whiteface. The "offense" listed in the upper right- hand
+      corner of the report reads: Cattle Mutilation.'
+    claim_type: administrative
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: document
+      origin: Cochran County Sheriff's police report, 1975-03-10
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 5c2e2a53-46e8-479b-88a3-74aee6f4f350
+        title: Cattle mutilations phenomenon
+        slug: cattle-mutilations-phenomenon
+      - node_id: b49d3a16-782a-4b1d-bfe9-b801adcc0ee1
+        title: USA, Texas, Cochran County, Whiteface
+        slug: texas-cochran-county-whiteface-usa
+      - node_id: e4c71ea2-3c99-424b-8a70-32b7cc3833aa
+        title: Sheriff Richards
+        slug: sheriff-richards
+    date: '1975-03-10'
+    date_end: null
+    location_in_record: ch12:14708-14962
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: f0690aba-c78b-47f4-bb2f-f94ea04d55ee
+      record_title: 'Messengers of Deception: UFO Contacts and Cults'
+      record_date: '0101-01-01'
+      record_reference: null
+      content_hash: sha256:0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5ac9fd3168
+      friendly_name: 0101-01-01-ebook-messengers-of-deception-ufo-contacts-and-cults
+  - claim_id: e1fd6e37-eb2d-4391-8b59-bbf54c83917a
+    claim_hash: 19599aaa058453da89713c2b9e7542ded575b9567a3b392e32e488824e8a6d7f
+    content: Cattle mutilations are often reported in the western United States at the same time and in the same area as sightings
+      of Unidentified Flying Objects (UFOs).
+    original_excerpt: I am referring to the many reports of cattle mutilations that are reported throughout the Western states,
+      often at the same time and in the same area as UFO sightings.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
+      title: Jacques Vallée
+    provenance_chain:
+      origin_kind: speaker
+      origin: Jacques Vallée
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
+        title: Jacques Vallée
+        slug: jacques-vallee
+      - node_id: 5c2e2a53-46e8-479b-88a3-74aee6f4f350
+        title: Cattle mutilations phenomenon
+        slug: cattle-mutilations-phenomenon
+      - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
+        title: Unidentified Flying Object (UFO)
+        slug: unidentified-flying-object-ufo
+    date: null
+    date_end: null
+    location_in_record: ch12:1504-1661
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: f0690aba-c78b-47f4-bb2f-f94ea04d55ee
+      record_title: 'Messengers of Deception: UFO Contacts and Cults'
+      record_date: '0101-01-01'
+      record_reference: null
+      content_hash: sha256:0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5ac9fd3168
+      friendly_name: 0101-01-01-ebook-messengers-of-deception-ufo-contacts-and-cults
+  - claim_id: 019c21c3-0956-4280-9580-6b46de72e3f2
+    claim_hash: 0021e516cfdf68593179d025cfeee4ca8e9fc41a947d560708c44f0551d0a10e
+    content: A veterinarian on the staff of the Utah Department of Agriculture was told he would be fired if he announced
+      his conclusion that an animal he had autopsied had died abnormally.
+    original_excerpt: In Utah, a veterinarian on the staff of the Department of Agriculture was told he would be fired if
+      he announced his conclusion that an animal he had autopsied had died abnormally.
+    claim_type: testimony
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: anonymous
+      origin: an unnamed veterinarian on the staff of the Utah Department of Agriculture
+      relay:
+        - Jacques Vallée's account
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 5c2e2a53-46e8-479b-88a3-74aee6f4f350
+        title: Cattle mutilations phenomenon
+        slug: cattle-mutilations-phenomenon
+    date: null
+    date_end: null
+    location_in_record: ch12:16309-16478
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: f0690aba-c78b-47f4-bb2f-f94ea04d55ee
+      record_title: 'Messengers of Deception: UFO Contacts and Cults'
+      record_date: '0101-01-01'
+      record_reference: null
+      content_hash: sha256:0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5ac9fd3168
+      friendly_name: 0101-01-01-ebook-messengers-of-deception-ufo-contacts-and-cults
+  - claim_id: 2fc927a2-1bb8-4e19-b58c-171ff17d9500
+    claim_hash: 1738fb657f64bf1847229cf91ecc5859eb26517f45925e585a7f7cccbb23316c
+    content: A Texas UFO research group reported cattle mutilation cases from Brazil, Bolivia, Sweden, Australia, and Scotland.
+    original_excerpt: The same group reports cases from Brazil, Bolivia, Sweden, Australia, and Scotland.
+    claim_type: hearsay
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: anonymous
+      origin: a person claiming to be part of a Texas UFO research group
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 5c2e2a53-46e8-479b-88a3-74aee6f4f350
+        title: Cattle mutilations phenomenon
+        slug: cattle-mutilations-phenomenon
+      - node_id: a2487f3f-f131-46b9-ad0d-c27082cad986
+        title: Sweden
+        slug: sweden
+    date: null
+    date_end: null
+    location_in_record: ch12:18959-19033
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: f0690aba-c78b-47f4-bb2f-f94ea04d55ee
+      record_title: 'Messengers of Deception: UFO Contacts and Cults'
+      record_date: '0101-01-01'
+      record_reference: null
+      content_hash: sha256:0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5ac9fd3168
+      friendly_name: 0101-01-01-ebook-messengers-of-deception-ufo-contacts-and-cults
+  - claim_id: 9045af37-8ed9-4bd8-b75a-df7475a1d5c1
+    claim_hash: 7f09dcd4472d5dfacbb6830a31b2327bc8e1437864e6de88375bf333f2ef673d
+    content: 'Jacques Vallée identified three positions people take regarding cattle mutilations: that the cattle died naturally
+      and were mutilated by predators or by isolated sensation-seekers; that an organisation is secretly conducting large-scale
+      cattle mutilation as part of a witchcraft cult or a secret government testing programme; or that the mutilations are
+      caused by UFOs and their occupants.'
+    original_excerpt: (1) the cattle have died naturally and were mutilated by predators, or were killed by a few isolated
+      sensation-seekers; (2) there is an organization secretly conducting large-scale mutilation of cattle... (3) the mutilations
+      are caused by UFOs and their occupants.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
+      title: Jacques Vallée
+    provenance_chain:
+      origin_kind: speaker
+      origin: Jacques Vallée
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
+        title: Jacques Vallée
+        slug: jacques-vallee
+      - node_id: 5c2e2a53-46e8-479b-88a3-74aee6f4f350
+        title: Cattle mutilations phenomenon
+        slug: cattle-mutilations-phenomenon
+      - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
+        title: Unidentified Flying Object (UFO)
+        slug: unidentified-flying-object-ufo
+    date: null
+    date_end: null
+    location_in_record: ch12:2015-2321
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: f0690aba-c78b-47f4-bb2f-f94ea04d55ee
+      record_title: 'Messengers of Deception: UFO Contacts and Cults'
+      record_date: '0101-01-01'
+      record_reference: null
+      content_hash: sha256:0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5ac9fd3168
+      friendly_name: 0101-01-01-ebook-messengers-of-deception-ufo-contacts-and-cults
+  - claim_id: 5f01ed19-964d-4280-b0f9-6235da3b1505
+    claim_hash: 9fc0fcee809e8f23afa35808a71b1dc9221bb5fd1a285be939138701202acb10
+    content: Frederick W. Smith, who lives in Colorado, offered an interpretation of the cattle mutilation mystery that Jacques
+      Vallée considered the only one that made sense to him.
+    original_excerpt: A man named Frederick W. Smith, who lives in Colorado, has offered the only interpretation of the mystery
+      that, among everything I have read on the subject, makes sense to me.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
+      title: Jacques Vallée
+    provenance_chain:
+      origin_kind: speaker
+      origin: Jacques Vallée
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 5c2e2a53-46e8-479b-88a3-74aee6f4f350
+        title: Cattle mutilations phenomenon
+        slug: cattle-mutilations-phenomenon
+      - node_id: c0575ded-5592-48b0-96ac-478b5714394e
+        title: Frederick W. Smith
+        slug: frederick-w-smith
+    date: null
+    date_end: null
+    location_in_record: ch12:20879-21051
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: f0690aba-c78b-47f4-bb2f-f94ea04d55ee
+      record_title: 'Messengers of Deception: UFO Contacts and Cults'
+      record_date: '0101-01-01'
+      record_reference: null
+      content_hash: sha256:0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5ac9fd3168
+      friendly_name: 0101-01-01-ebook-messengers-of-deception-ufo-contacts-and-cults
+  - claim_id: 26f9863c-e658-4aa3-9bf4-47ace3d1966c
+    claim_hash: d9fc79a2607bcb01281ce264bd132a6f076638cfe6dd66f14faf319a5c58e99c
+    content: Frederick W. Smith wrote that someone has been delivering a message to the American people, the government, and
+      the intelligence community through the cattle mutilations.
+    original_excerpt: He writes, very simply, "Someone has been delivering a message to the American people, to the government,
+      the intelligence community."
+    claim_type: opinion
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: named
+      origin: Frederick W. Smith
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 5c2e2a53-46e8-479b-88a3-74aee6f4f350
+        title: Cattle mutilations phenomenon
+        slug: cattle-mutilations-phenomenon
+      - node_id: c0575ded-5592-48b0-96ac-478b5714394e
+        title: Frederick W. Smith
+        slug: frederick-w-smith
+    date: null
+    date_end: null
+    location_in_record: ch12:21055-21178
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: f0690aba-c78b-47f4-bb2f-f94ea04d55ee
+      record_title: 'Messengers of Deception: UFO Contacts and Cults'
+      record_date: '0101-01-01'
+      record_reference: null
+      content_hash: sha256:0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5ac9fd3168
+      friendly_name: 0101-01-01-ebook-messengers-of-deception-ufo-contacts-and-cults
+  - claim_id: 1fa7cf9f-ba79-4e91-bd60-d647635109c2
+    claim_hash: d215978332943fb2508273ea47532d282aa96f853fd940ba7b5fb22e1ce8efe4
+    content: Richard D. Lamm called the cattle mutilations one of the greatest outrages in the history of the western cattle
+      industry.
+    original_excerpt: which he called "one of the greatest outrages in the history of the western cattle industry."
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 1623e9f3-5ac3-4e67-86d0-ceb1072826dc
+      title: Richard Dolan
+    provenance_chain:
+      origin_kind: speaker
+      origin: Richard D. Lamm
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 1623e9f3-5ac3-4e67-86d0-ceb1072826dc
+        title: Richard Dolan
+        slug: richard-dolan
+      - node_id: 5c2e2a53-46e8-479b-88a3-74aee6f4f350
+        title: Cattle mutilations phenomenon
+        slug: cattle-mutilations-phenomenon
+    date: null
+    date_end: null
+    location_in_record: ch12:21712-21795
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: f0690aba-c78b-47f4-bb2f-f94ea04d55ee
+      record_title: 'Messengers of Deception: UFO Contacts and Cults'
+      record_date: '0101-01-01'
+      record_reference: null
+      content_hash: sha256:0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5ac9fd3168
+      friendly_name: 0101-01-01-ebook-messengers-of-deception-ufo-contacts-and-cults
+  - claim_id: 5914e459-0116-4ab6-9d84-65c985e4560a
+    claim_hash: 6c84c587064d2b7c6095800b204299235bee0e665f055bfd71acfeb853e2def6
+    content: Richard D. Lamm said it was no longer possible to blame predators for the cattle mutilations.
+    original_excerpt: The Governor of Colorado added, "It is no longer possible to blame predators for the mutilations."
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 1623e9f3-5ac3-4e67-86d0-ceb1072826dc
+      title: Richard Dolan
+    provenance_chain:
+      origin_kind: speaker
+      origin: Richard D. Lamm
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 1623e9f3-5ac3-4e67-86d0-ceb1072826dc
+        title: Richard Dolan
+        slug: richard-dolan
+      - node_id: 5c2e2a53-46e8-479b-88a3-74aee6f4f350
+        title: Cattle mutilations phenomenon
+        slug: cattle-mutilations-phenomenon
+    date: null
+    date_end: null
+    location_in_record: ch12:21806-21891
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: f0690aba-c78b-47f4-bb2f-f94ea04d55ee
+      record_title: 'Messengers of Deception: UFO Contacts and Cults'
+      record_date: '0101-01-01'
+      record_reference: null
+      content_hash: sha256:0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5ac9fd3168
+      friendly_name: 0101-01-01-ebook-messengers-of-deception-ufo-contacts-and-cults
+  - claim_id: 91f10e83-4d38-4f1a-9cc8-6ca85d72ef12
+    claim_hash: 34a9de948d400ccc038a0db04c3775a8a11f982a41966f826b3ecf83ae16c323
+    content: In September 1975 the largest force of law enforcement manpower ever assembled in the history of Colorado was
+      deployed to investigate the cattle mutilations, and it failed to identify a single suspect.
+    original_excerpt: the largest force of law enforcement manpower ever assembled in the history of Colorado" was deployed...
+      It failed to identify a single suspect.
+    claim_type: observation
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 5c2e2a53-46e8-479b-88a3-74aee6f4f350
+        title: Cattle mutilations phenomenon
+        slug: cattle-mutilations-phenomenon
+    date: 1975-09
+    date_end: null
+    location_in_record: ch12:21953-22087
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: f0690aba-c78b-47f4-bb2f-f94ea04d55ee
+      record_title: 'Messengers of Deception: UFO Contacts and Cults'
+      record_date: '0101-01-01'
+      record_reference: null
+      content_hash: sha256:0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5ac9fd3168
+      friendly_name: 0101-01-01-ebook-messengers-of-deception-ufo-contacts-and-cults
+  - claim_id: 5d451247-a41d-4e9b-864b-85b2c5570a55
+    claim_hash: b57e16548072587bebd51721816cd6e8cad770c04018529033811315617a5b29
+    content: Sixty officers from Nebraska, Wyoming, and Colorado met in Fort Morgan, Colorado, to try to coordinate efforts
+      investigating the cattle mutilations.
+    original_excerpt: Sixty officers from Nebraska, Wyoming, and Colorado met in Fort Morgan to try to coordinate their efforts
+    claim_type: observation
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 5c2e2a53-46e8-479b-88a3-74aee6f4f350
+        title: Cattle mutilations phenomenon
+        slug: cattle-mutilations-phenomenon
+      - node_id: e51b7879-c56d-4a34-8cfe-3c38702d6bc3
+        title: USA, Colorado, Fort Morgan
+        slug: colorado-fort-morgan-usa
+    date: null
+    date_end: null
+    location_in_record: ch12:22126-22224
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: f0690aba-c78b-47f4-bb2f-f94ea04d55ee
+      record_title: 'Messengers of Deception: UFO Contacts and Cults'
+      record_date: '0101-01-01'
+      record_reference: null
+      content_hash: sha256:0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5ac9fd3168
+      friendly_name: 0101-01-01-ebook-messengers-of-deception-ufo-contacts-and-cults
+  - claim_id: c7d279ba-0d75-4134-82a5-366152603ae8
+    claim_hash: 280acb6812b0061229e8adaafcdce6dfd53bd1bcfe9ada145ce3172881177805
+    content: Colorado Bureau of Special Investigation investigator Carl Whiteside said that the removal of sex organs and
+      other body parts in the cattle mutilations was definitely not made by predators.
+    original_excerpt: Colorado Bureau of Special Investigation special investigator Carl Whiteside said that the removal of
+      sex organs and other body parts was "definitely not made by predators."
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 17d1fa51-fb6f-4ccd-9aa7-fe1df0262eee
+      title: Carl Whiteside
+    provenance_chain:
+      origin_kind: speaker
+      origin: Carl Whiteside
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 17d1fa51-fb6f-4ccd-9aa7-fe1df0262eee
+        title: Carl Whiteside
+        slug: carl-whiteside
+      - node_id: 5c2e2a53-46e8-479b-88a3-74aee6f4f350
+        title: Cattle mutilations phenomenon
+        slug: cattle-mutilations-phenomenon
+      - node_id: cd3d4ab8-3182-4764-9bc6-994e81caf081
+        title: Colorado Bureau of Investigation
+        slug: colorado-bureau-of-investigation
+    date: null
+    date_end: null
+    location_in_record: ch12:22677-22839
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: f0690aba-c78b-47f4-bb2f-f94ea04d55ee
+      record_title: 'Messengers of Deception: UFO Contacts and Cults'
+      record_date: '0101-01-01'
+      record_reference: null
+      content_hash: sha256:0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5ac9fd3168
+      friendly_name: 0101-01-01-ebook-messengers-of-deception-ufo-contacts-and-cults
+  - claim_id: a8f00c17-41ed-460a-8238-61d782cbf2d8
+    claim_hash: 8a10a89d54a3fcb69f6dc1d5eec51338e046ad0fd396bc1a90d9b4aaa2f7b0cc
+    content: In the cattle mutilations, the animals died with no evidence of struggle.
+    original_excerpt: the animals died with no evidence of struggle
+    claim_type: observation
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 5c2e2a53-46e8-479b-88a3-74aee6f4f350
+        title: Cattle mutilations phenomenon
+        slug: cattle-mutilations-phenomenon
+    date: null
+    date_end: null
+    location_in_record: ch12:22895-22932
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: f0690aba-c78b-47f4-bb2f-f94ea04d55ee
+      record_title: 'Messengers of Deception: UFO Contacts and Cults'
+      record_date: '0101-01-01'
+      record_reference: null
+      content_hash: sha256:0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5ac9fd3168
+      friendly_name: 0101-01-01-ebook-messengers-of-deception-ufo-contacts-and-cults
+  - claim_id: e8577fb8-dd1b-402b-aae8-3c741ca8eb95
+    claim_hash: 48df42896c70e86341518e710d994786efd3dc95e009a8b7b973c8c78135a938
+    content: In the cattle mutilations, there were no tracks or blood near the carcasses, although circular depressions and
+      pod-like marks were sometimes reported.
+    original_excerpt: There were no tracks or blood near the carcasses (although circular depressions and pod-like marks were
+      sometimes reported).
+    claim_type: observation
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 5c2e2a53-46e8-479b-88a3-74aee6f4f350
+        title: Cattle mutilations phenomenon
+        slug: cattle-mutilations-phenomenon
+    date: null
+    date_end: null
+    location_in_record: ch12:22942-23056
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: f0690aba-c78b-47f4-bb2f-f94ea04d55ee
+      record_title: 'Messengers of Deception: UFO Contacts and Cults'
+      record_date: '0101-01-01'
+      record_reference: null
+      content_hash: sha256:0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5ac9fd3168
+      friendly_name: 0101-01-01-ebook-messengers-of-deception-ufo-contacts-and-cults
+  - claim_id: 4ed6d860-1653-4276-93a1-3eddd80b38e5
+    claim_hash: 7e5e45edd3b9a9e7bb3ae7c83cd53bce571997a3f087398767f5583901bdc94e
+    content: Some cattle mutilation carcasses appeared to have been airlifted, then dropped in areas that maximised the chances
+      of discovery.
+    original_excerpt: Some carcasses seemed to have been airlifted, then dropped in areas which maximized the chances of discovery.
+    claim_type: observation
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 5c2e2a53-46e8-479b-88a3-74aee6f4f350
+        title: Cattle mutilations phenomenon
+        slug: cattle-mutilations-phenomenon
+    date: null
+    date_end: null
+    location_in_record: ch12:23067-23166
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: f0690aba-c78b-47f4-bb2f-f94ea04d55ee
+      record_title: 'Messengers of Deception: UFO Contacts and Cults'
+      record_date: '0101-01-01'
+      record_reference: null
+      content_hash: sha256:0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5ac9fd3168
+      friendly_name: 0101-01-01-ebook-messengers-of-deception-ufo-contacts-and-cults
+  - claim_id: c37124a5-d5a5-407c-8dc4-534b1bd5613b
+    claim_hash: 1f064ab5f775498d0ef8a77f1595144560c2a1216d8a15ab0ee7ea9d458a3812
+    content: Intense blinding lights from the sky were often associated with the cattle mutilation events.
+    original_excerpt: intense blinding lights from the sky were often associated with the events
+    claim_type: observation
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 5c2e2a53-46e8-479b-88a3-74aee6f4f350
+        title: Cattle mutilations phenomenon
+        slug: cattle-mutilations-phenomenon
+      - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
+        title: Unidentified Flying Object (UFO)
+        slug: unidentified-flying-object-ufo
+    date: null
+    date_end: null
+    location_in_record: ch12:23181-23249
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: f0690aba-c78b-47f4-bb2f-f94ea04d55ee
+      record_title: 'Messengers of Deception: UFO Contacts and Cults'
+      record_date: '0101-01-01'
+      record_reference: null
+      content_hash: sha256:0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5ac9fd3168
+      friendly_name: 0101-01-01-ebook-messengers-of-deception-ufo-contacts-and-cults
+  - claim_id: 43b8ca14-9eec-4b9c-82a5-8f2ef229f069
+    claim_hash: 1ab7ebb1f98c50b23ed108188ee763e9a4d7c4d236836a5cf156e40e5e90fa91
+    content: In a news release dated 1975-09-18, Colorado Senator Floyd K. Haskell disclosed that he had discussed the cattle
+      mutilations with FBI Director Clarence Kelley and his chief assistant.
+    original_excerpt: In a news release dated Sept. 18, 1975, the senior Senator from Colorado, Floyd K. Haskell, disclosed
+      that he had discussed the matter with FBI director Clarence Kelley and his chief assistant.
+    claim_type: administrative
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: document
+      origin: Haskell News Release
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 589ae4ed-e41d-4514-85e7-72038302a442
+        title: Floyd K. Haskell
+        slug: floyd-k-haskell
+      - node_id: 5c2e2a53-46e8-479b-88a3-74aee6f4f350
+        title: Cattle mutilations phenomenon
+        slug: cattle-mutilations-phenomenon
+      - node_id: c430b2b2-7900-45c9-9882-98ac4ab14e88
+        title: Federal Bureau of Investigation (FBI)
+        slug: federal-bureau-of-investigation-fbi
+      - node_id: fac2c1f9-2729-4cf3-aec9-bd07adf3bf06
+        title: Clarence Kelley
+        slug: clarence-kelley
+    date: '1975-09-18'
+    date_end: null
+    location_in_record: ch12:23258-23441
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: f0690aba-c78b-47f4-bb2f-f94ea04d55ee
+      record_title: 'Messengers of Deception: UFO Contacts and Cults'
+      record_date: '0101-01-01'
+      record_reference: null
+      content_hash: sha256:0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5ac9fd3168
+      friendly_name: 0101-01-01-ebook-messengers-of-deception-ufo-contacts-and-cults
+  - claim_id: 4177bf86-f094-4cd3-b337-2b4fecdfd79e
+    claim_hash: 920df5bb8bea1ff4c49506cfbb0e5a046f02f018c172f02ea09d7ca688e7843f
+    content: The Federal Bureau of Investigation concluded it had no jurisdiction to enter the cattle mutilation case because
+      there was no evidence of interstate movement.
+    original_excerpt: the FBI concluded it had no jurisdiction to enter the case, because there was no evidence of interstate
+      movement
+    claim_type: administrative
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: named
+      origin: Federal Bureau of Investigation (FBI)
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 5c2e2a53-46e8-479b-88a3-74aee6f4f350
+        title: Cattle mutilations phenomenon
+        slug: cattle-mutilations-phenomenon
+      - node_id: c430b2b2-7900-45c9-9882-98ac4ab14e88
+        title: Federal Bureau of Investigation (FBI)
+        slug: federal-bureau-of-investigation-fbi
+    date: null
+    date_end: null
+    location_in_record: ch12:23461-23565
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: f0690aba-c78b-47f4-bb2f-f94ea04d55ee
+      record_title: 'Messengers of Deception: UFO Contacts and Cults'
+      record_date: '0101-01-01'
+      record_reference: null
+      content_hash: sha256:0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5ac9fd3168
+      friendly_name: 0101-01-01-ebook-messengers-of-deception-ufo-contacts-and-cults
+  - claim_id: 66ca8f76-76a0-401e-a587-0c777a0c3e82
+    claim_hash: c1bf9d9896c9767bda4f2337d64d79dd04d1d1de28e985a921a2c485f2b0b5e5
+    content: Adams County, Idaho Sheriff Jim Hileman said he had been around livestock all his life and had never seen anything
+      like the cattle mutilations.
+    original_excerpt: 'Many ranchers echoed the statement of Adams County (Idaho) Sheriff Jim Hileman: "I''ve been around
+      livestock all my life, and I''ve never seen anything like this."'
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: b49361de-ba6c-4116-8b86-ff39f58c7921
+      title: Jim Hileman
+    provenance_chain:
+      origin_kind: speaker
+      origin: Jim Hileman
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 5c2e2a53-46e8-479b-88a3-74aee6f4f350
+        title: Cattle mutilations phenomenon
+        slug: cattle-mutilations-phenomenon
+      - node_id: b49361de-ba6c-4116-8b86-ff39f58c7921
+        title: Jim Hileman
+        slug: jim-hileman
+    date: null
+    date_end: null
+    location_in_record: ch12:23654-23809
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: f0690aba-c78b-47f4-bb2f-f94ea04d55ee
+      record_title: 'Messengers of Deception: UFO Contacts and Cults'
+      record_date: '0101-01-01'
+      record_reference: null
+      content_hash: sha256:0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5ac9fd3168
+      friendly_name: 0101-01-01-ebook-messengers-of-deception-ufo-contacts-and-cults
+  - claim_id: cd8dd05f-895b-42ce-940d-6637b5f59de9
+    claim_hash: 5748a3089ddca85b90ca2bcd4cc134c8a9d183d20341dc67047b00197f851cc2
+    content: Garfield County, Colorado officer Hart disclosed that on 1975-09-13 a Hereford cow was discovered across the
+      county line in Mesa County, Colorado, missing its sex organs, rectum, and an ear.
+    original_excerpt: A Garfield County officer, named Hart, disclosed that on Sept. 13, a Hereford cow was discovered just
+      across the county line in Mesa County; missing were the sex organs, the rectum, and an ear.
+    claim_type: observation
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: named
+      origin: Hart (Garfield County officer)
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 5c2e2a53-46e8-479b-88a3-74aee6f4f350
+        title: Cattle mutilations phenomenon
+        slug: cattle-mutilations-phenomenon
+      - node_id: 9492971a-ab0d-4cc4-b5a6-8016dcc56632
+        title: Hart (Garfield County officer)
+        slug: hart-garfield-county-officer
+    date: '1975-09-13'
+    date_end: null
+    location_in_record: ch12:23817-24006
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: f0690aba-c78b-47f4-bb2f-f94ea04d55ee
+      record_title: 'Messengers of Deception: UFO Contacts and Cults'
+      record_date: '0101-01-01'
+      record_reference: null
+      content_hash: sha256:0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5ac9fd3168
+      friendly_name: 0101-01-01-ebook-messengers-of-deception-ufo-contacts-and-cults
+  - claim_id: b606bd4c-e8d2-44a9-986f-480fb918469f
+    claim_hash: e569d9543315ae81344c155ed4901775a1c6b23a893a5c080fbcf629af661f18
+    content: In Montana, a mutilated bull calf was found north of Cascade with its right hind leg removed by a circular cut
+      through the leg bone, and all its sex organs removed, with no footprints or other evidence around the carcass.
+    original_excerpt: Wolverton's unit investigated a dead bull calf north of Cascade. Its right hind leg had been removed
+      in a circular cut that went completely through the leg bone below the hip socket... All of the sex organs had been removed.
+      There was no footprint or other evidence around the carcass.
+    claim_type: observation
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: named
+      origin: Wolverton
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 5c2e2a53-46e8-479b-88a3-74aee6f4f350
+        title: Cattle mutilations phenomenon
+        slug: cattle-mutilations-phenomenon
+      - node_id: f3f07654-e700-4271-bccb-9f987c626c83
+        title: Wolverton
+        slug: wolverton
+    date: null
+    date_end: null
+    location_in_record: ch12:24121-24458
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: f0690aba-c78b-47f4-bb2f-f94ea04d55ee
+      record_title: 'Messengers of Deception: UFO Contacts and Cults'
+      record_date: '0101-01-01'
+      record_reference: null
+      content_hash: sha256:0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5ac9fd3168
+      friendly_name: 0101-01-01-ebook-messengers-of-deception-ufo-contacts-and-cults
+  - claim_id: ee654662-4274-44fd-aeb2-a534c67e13be
+    claim_hash: 7331ae344ecdf86abafc89f00279f276745cbdcb287f3af2b8176f5bb3ad1f1c
+    content: In Montana, a mutilated cow was found in an undisturbed plowed field three-quarters of a kilometre from the fence
+      line, with two teats and the rectal area removed with a sharp instrument and an incision to the heart.
+    original_excerpt: a cow was found in an undisturbed plowed field, its loose furrows intact, three-quarters of a mile from
+      the fence line. Two teats and the rectal area had been removed with a sharp instrument, and an incision underneath the
+      front leg went all the way to the heart.
+    claim_type: observation
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 5c2e2a53-46e8-479b-88a3-74aee6f4f350
+        title: Cattle mutilations phenomenon
+        slug: cattle-mutilations-phenomenon
+    date: null
+    date_end: null
+    location_in_record: ch12:24484-24741
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: f0690aba-c78b-47f4-bb2f-f94ea04d55ee
+      record_title: 'Messengers of Deception: UFO Contacts and Cults'
+      record_date: '0101-01-01'
+      record_reference: null
+      content_hash: sha256:0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5ac9fd3168
+      friendly_name: 0101-01-01-ebook-messengers-of-deception-ufo-contacts-and-cults
+  - claim_id: 641b3f0e-2706-419d-bc5d-7075674d3046
+    claim_hash: daff30ebb375a6dba85320ad6758e2877f84c7fd83adb96b2c66d21ba453668a
+    content: Some cattle mutilation carcasses showed evidence that the Rokitansky technique, a standard autopsy procedure
+      involving removal of the viscera as an integral unit, had been used.
+    original_excerpt: Some of the carcasses showed evidence that a standard autopsy procedure, the Rokitansky technique, had
+      been used; it consists in the removal of the viscera as an integral unit.
+    claim_type: observation
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 5c2e2a53-46e8-479b-88a3-74aee6f4f350
+        title: Cattle mutilations phenomenon
+        slug: cattle-mutilations-phenomenon
+      - node_id: 7ad6426a-3228-4d77-8b56-74fe37f80f96
+        title: Rokitansky technique
+        slug: rokitansky-technique
+    date: null
+    date_end: null
+    location_in_record: ch12:25141-25312
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: f0690aba-c78b-47f4-bb2f-f94ea04d55ee
+      record_title: 'Messengers of Deception: UFO Contacts and Cults'
+      record_date: '0101-01-01'
+      record_reference: null
+      content_hash: sha256:0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5ac9fd3168
+      friendly_name: 0101-01-01-ebook-messengers-of-deception-ufo-contacts-and-cults
+  - claim_id: b5b4c796-ce38-4bc0-8402-088b1ec7593e
+    claim_hash: 0257522a8d0c532aa21884bb1731c49dae5a25d8a201660fbba03af007738844
+    content: In Colorado there was a concentration of cattle mutilation incidents in Elbert County, near sophisticated military
+      installations including Ent Air Force Base, Fort Carson Army Base, Peterson Airfield, Lowry Air Force Base bombing range,
+      the U.S. Air Force Academy, the Buckley Air National Guard Base, the Rocky Mountain Arsenal, and Rocky Flats.
+    original_excerpt: In Colorado, there was a concentration of mutilation incidents in Elbert County, very near some of the
+      world's most sophisticated military installations; these include Ent Air Force Base, Fort Carson Army Base, Peterson
+      Airfield, Lowry Air Force bombing range, the U.S. Air Force Academy, the Buckley Air National Guard and Naval Air Station,
+      the Rocky Mountain Arsenal (where nerve gas is manufactured and stored), and the Rocky Flats, where H-bomb triggers
+      are assembled.
+    claim_type: observation
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 148161eb-6162-4291-81a7-ba1a5d4f4a29
+        title: Lowry Air Force Base bombing range
+        slug: lowry-air-force-base-bombing-range
+      - node_id: 262d673c-b437-4ddf-8bee-d95e42e719ae
+        title: USA, Colorado, Elbert County
+        slug: colorado-elbert-county-usa
+      - node_id: 3ac17f67-a833-42ec-b9e4-e742e5fb1bf6
+        title: Buckley Air National Guard Base
+        slug: buckley-air-national-guard-base
+      - node_id: 3fd8f98e-811a-49fe-924a-08ac572031bf
+        title: Rocky Mountain Arsenal
+        slug: rocky-mountain-arsenal
+      - node_id: 57f8e234-f3eb-4293-b225-2dc9012bdad3
+        title: Rocky Flats
+        slug: rocky-flats
+      - node_id: 5c2e2a53-46e8-479b-88a3-74aee6f4f350
+        title: Cattle mutilations phenomenon
+        slug: cattle-mutilations-phenomenon
+      - node_id: 75d3c353-f4ab-4f49-8e58-07b36738e2d7
+        title: Peterson Airfield
+        slug: peterson-airfield
+      - node_id: 87d13e73-21ff-4bc0-820e-3dff6a444082
+        title: USA, Colorado, U.S. Air Force Academy
+        slug: colorado-us-air-force-academy-usa
+      - node_id: 8c12625d-af67-4478-84ef-6474c861d558
+        title: Ent Air Force Base
+        slug: ent-air-force-base
+      - node_id: ff44152e-1a0c-4656-8ab6-bae4854f53bc
+        title: Fort Carson
+        slug: fort-carson
+    date: null
+    date_end: null
+    location_in_record: ch12:25388-25851
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: f0690aba-c78b-47f4-bb2f-f94ea04d55ee
+      record_title: 'Messengers of Deception: UFO Contacts and Cults'
+      record_date: '0101-01-01'
+      record_reference: null
+      content_hash: sha256:0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5ac9fd3168
+      friendly_name: 0101-01-01-ebook-messengers-of-deception-ufo-contacts-and-cults
+  - claim_id: 8a52f0d6-95b5-4b95-be41-c8606b5420dc
+    claim_hash: 8478442055b4ab4f4ea793b32598e1bd272640eb3d3cf5daa24881a2c826b1af
+    content: Jacques Vallée relied on original police reports and statements from state veterinarians and county coroners,
+      disregarding cases where predators could have been involved, in concluding that many reported cattle mutilations are
+      genuine.
+    original_excerpt: In studying these reports, I have disregarded all cases where predators could have been involved, and
+      I have relied on the original police reports and on the statements given by state veterinarians and county coroners
+      about the nature of the wounds inflicted on the animals.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
+      title: Jacques Vallée
+    provenance_chain:
+      origin_kind: speaker
+      origin: Jacques Vallée
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
+        title: Jacques Vallée
+        slug: jacques-vallee
+      - node_id: 5c2e2a53-46e8-479b-88a3-74aee6f4f350
+        title: Cattle mutilations phenomenon
+        slug: cattle-mutilations-phenomenon
+    date: null
+    date_end: null
+    location_in_record: ch12:2637-2903
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: f0690aba-c78b-47f4-bb2f-f94ea04d55ee
+      record_title: 'Messengers of Deception: UFO Contacts and Cults'
+      record_date: '0101-01-01'
+      record_reference: null
+      content_hash: sha256:0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5ac9fd3168
+      friendly_name: 0101-01-01-ebook-messengers-of-deception-ufo-contacts-and-cults
+  - claim_id: 610889ec-0174-409d-ba04-843440a52998
+    claim_hash: 48e18264ddbdd834ed64c77d827b18a08398b56311b9873b98b65cc1bc1d49e0
+    content: A female buffalo weighing approximately 680 kilograms was mutilated at Cheyenne Mountain Zoo on Tuesday, 1975-10-21,
+      with an udder, an ear, and about 0.4 square metres of hide removed, and its vagina cut.
+    original_excerpt: A 1,500-pound female buffalo was mutilated there on Tuesday, October 21, 1975. An udder, an ear, and
+      four square feet of hide had been removed. The vagina had been cut.
+    claim_type: observation
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 0841fca4-8906-47b6-a5c1-f2415ec1559b
+        title: 1975 Cheyenne Mountain area cattle mutilation wave
+        slug: 1975-cheyenne-mountain-area-cattle-mutilation-wave
+      - node_id: 5c2e2a53-46e8-479b-88a3-74aee6f4f350
+        title: Cattle mutilations phenomenon
+        slug: cattle-mutilations-phenomenon
+      - node_id: 80c138ee-3fa2-4bb7-88fa-1a2cc11e33a2
+        title: Cheyenne Mountain Zoo
+        slug: cheyenne-mountain-zoo
+    date: '1975-10-21'
+    date_end: null
+    location_in_record: ch12:26675-26839
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: f0690aba-c78b-47f4-bb2f-f94ea04d55ee
+      record_title: 'Messengers of Deception: UFO Contacts and Cults'
+      record_date: '0101-01-01'
+      record_reference: null
+      content_hash: sha256:0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5ac9fd3168
+      friendly_name: 0101-01-01-ebook-messengers-of-deception-ufo-contacts-and-cults
+  - claim_id: 6ae562bc-3d5f-474d-9dc1-b164b4802106
+    claim_hash: 565a061882cdcacc2c3c4ed6f5c99ffe2c98bd4c16a29e9f7bb1188af6cf2315
+    content: On 1975-07-06 a cow due to calve in two months was mutilated next to the NORAD entrance gate near the unmarked
+      NORAD road on a military reservation posted with prosecution warning signs.
+    original_excerpt: an incident that had occurred on July 6, 1975, next to the NORAD entrance gate, near the unmarked NORAD
+      road... It was a cow due to calve in two months.
+    claim_type: observation
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 0841fca4-8906-47b6-a5c1-f2415ec1559b
+        title: 1975 Cheyenne Mountain area cattle mutilation wave
+        slug: 1975-cheyenne-mountain-area-cattle-mutilation-wave
+      - node_id: 5c2e2a53-46e8-479b-88a3-74aee6f4f350
+        title: Cattle mutilations phenomenon
+        slug: cattle-mutilations-phenomenon
+      - node_id: e46e0501-ca3d-4bbd-ad05-0d03468072e5
+        title: North American Air Defense Command (NORAD)
+        slug: north-american-air-defense-command-norad
+    date: '1975-07-06'
+    date_end: null
+    location_in_record: ch12:27435-27603
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: f0690aba-c78b-47f4-bb2f-f94ea04d55ee
+      record_title: 'Messengers of Deception: UFO Contacts and Cults'
+      record_date: '0101-01-01'
+      record_reference: null
+      content_hash: sha256:0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5ac9fd3168
+      friendly_name: 0101-01-01-ebook-messengers-of-deception-ufo-contacts-and-cults
+  - claim_id: 13b113fe-eaef-454c-8b56-a7a09a479b8d
+    claim_hash: 7b6df154ce2f3978382c7c04c9c282633b82b48b4ecfc26b8727adf3c614b314
+    content: Sgt. Robert Stone of the Sheriff's Office ruled out the possibility that the sex organs on the NORAD-area mutilated
+      cow were removed by a coyote.
+    original_excerpt: Sgt. Robert Stone of the Sheriff's Office "ruled out the possibility that the sex organs were removed
+      by a coyote."
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 597b9f63-26b9-4502-9642-940f1c424549
+      title: Robert Stone
+    provenance_chain:
+      origin_kind: speaker
+      origin: Robert Stone
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 597b9f63-26b9-4502-9642-940f1c424549
+        title: Robert Stone
+        slug: robert-stone
+      - node_id: 5c2e2a53-46e8-479b-88a3-74aee6f4f350
+        title: Cattle mutilations phenomenon
+        slug: cattle-mutilations-phenomenon
+    date: null
+    date_end: null
+    location_in_record: ch12:27809-27916
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: f0690aba-c78b-47f4-bb2f-f94ea04d55ee
+      record_title: 'Messengers of Deception: UFO Contacts and Cults'
+      record_date: '0101-01-01'
+      record_reference: null
+      content_hash: sha256:0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5ac9fd3168
+      friendly_name: 0101-01-01-ebook-messengers-of-deception-ufo-contacts-and-cults
+  - claim_id: c648151b-bb5f-4231-80dd-370730199e24
+    claim_hash: 739895a58e323f620afff182dd92489c71b92882444efa7206fbb8d255aa453f
+    content: Two cows mutilated in Park County, Colorado, were found in a pasture with a padlocked gate, not in the pasture
+      where the owner had left them.
+    original_excerpt: Two cows mutilated in Park County were found in a pasture with a padlocked gate, not in the pasture
+      where the owner had left them.
+    claim_type: observation
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 5c2e2a53-46e8-479b-88a3-74aee6f4f350
+        title: Cattle mutilations phenomenon
+        slug: cattle-mutilations-phenomenon
+    date: null
+    date_end: null
+    location_in_record: ch12:28265-28390
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: f0690aba-c78b-47f4-bb2f-f94ea04d55ee
+      record_title: 'Messengers of Deception: UFO Contacts and Cults'
+      record_date: '0101-01-01'
+      record_reference: null
+      content_hash: sha256:0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5ac9fd3168
+      friendly_name: 0101-01-01-ebook-messengers-of-deception-ufo-contacts-and-cults
+  - claim_id: c4487f7b-5bfe-43c2-81ae-c85956d90ad6
+    claim_hash: 15ba75778e53a0b23fb22bed520319e903f076357c522f0b58d9bb27d6a85124
+    content: Sheriff Norman Howey said the two mutilated cows in the padlocked Park County pasture couldn't possibly have
+      been where they were found unless they had been dropped from the air.
+    original_excerpt: Sheriff Norman Howey said they "couldn't possibly have been where they were found unless they had been
+      dropped from the air."
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: de5a07ca-a6ca-451f-9b46-fd2a79b7f4c0
+      title: Norman Howey
+    provenance_chain:
+      origin_kind: speaker
+      origin: Norman Howey
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 5c2e2a53-46e8-479b-88a3-74aee6f4f350
+        title: Cattle mutilations phenomenon
+        slug: cattle-mutilations-phenomenon
+      - node_id: de5a07ca-a6ca-451f-9b46-fd2a79b7f4c0
+        title: Norman Howey
+        slug: norman-howey
+    date: null
+    date_end: null
+    location_in_record: ch12:28396-28516
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: f0690aba-c78b-47f4-bb2f-f94ea04d55ee
+      record_title: 'Messengers of Deception: UFO Contacts and Cults'
+      record_date: '0101-01-01'
+      record_reference: null
+      content_hash: sha256:0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5ac9fd3168
+      friendly_name: 0101-01-01-ebook-messengers-of-deception-ufo-contacts-and-cults
+  - claim_id: 50e60b78-2c7b-4909-bcf4-f2d228400332
+    claim_hash: 0b0cdf97335490376f8c26c6a4a25ea16c6fcf34f257df57239a04b158643315
+    content: Sheriff George Yarnell of Elbert County, Colorado, described his most memorable cattle mutilation case as one
+      in which an udder was neatly cleaned out and then tightly packed with several gallons of sand.
+    original_excerpt: Sheriff George Yarnell of Elbert County is quoted by F. Smith as saying that his "most memorable case"
+      was one in which an udder was "neatly cleaned out, leaving only the skin, which was then tightly packed with several
+      gallons of sand."
+    claim_type: testimony
+    attestation: second_hand
+    speaker:
+      node_id: 2f6ab98a-b02d-4741-981f-606003647a05
+      title: George Yarnell
+    provenance_chain:
+      origin_kind: speaker
+      origin: George Yarnell
+      relay:
+        - Frederick W. Smith
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 2f6ab98a-b02d-4741-981f-606003647a05
+        title: George Yarnell
+        slug: george-yarnell
+      - node_id: 5c2e2a53-46e8-479b-88a3-74aee6f4f350
+        title: Cattle mutilations phenomenon
+        slug: cattle-mutilations-phenomenon
+    date: null
+    date_end: null
+    location_in_record: ch12:28838-29069
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: f0690aba-c78b-47f4-bb2f-f94ea04d55ee
+      record_title: 'Messengers of Deception: UFO Contacts and Cults'
+      record_date: '0101-01-01'
+      record_reference: null
+      content_hash: sha256:0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5ac9fd3168
+      friendly_name: 0101-01-01-ebook-messengers-of-deception-ufo-contacts-and-cults
+  - claim_id: e368b8a3-ed6e-43ac-b2bc-1e68e9df3b8b
+    claim_hash: 4ae732fdce9469894e29fa6edac6333f4e8bb75d8f4472c657ebc00394231263
+    content: In one cattle mutilation incident, a scalpel that was an ordinary article of military surplus had been left behind
+      at the scene.
+    original_excerpt: In one incident a scalpel had been left behind; it was an ordinary article of military surplus.
+    claim_type: observation
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 5c2e2a53-46e8-479b-88a3-74aee6f4f350
+        title: Cattle mutilations phenomenon
+        slug: cattle-mutilations-phenomenon
+    date: null
+    date_end: null
+    location_in_record: ch12:29197-29284
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: f0690aba-c78b-47f4-bb2f-f94ea04d55ee
+      record_title: 'Messengers of Deception: UFO Contacts and Cults'
+      record_date: '0101-01-01'
+      record_reference: null
+      content_hash: sha256:0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5ac9fd3168
+      friendly_name: 0101-01-01-ebook-messengers-of-deception-ufo-contacts-and-cults
+  - claim_id: 4ed0d1e9-0a14-49ab-8799-aaa49abe312f
+    claim_hash: da644f7b9190aaf26429b509b4173f80280b87c57866471684a88e7d5e0e7509
+    content: Jacques Vallée considers it difficult to believe that the intelligence community has hidden the truth about the
+      cattle mutilation phenomenon because the public was not ready.
+    original_excerpt: I find it difficult to believe in that kind of a cover-up.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
+      title: Jacques Vallée
+    provenance_chain:
+      origin_kind: speaker
+      origin: Jacques Vallée
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
+        title: Jacques Vallée
+        slug: jacques-vallee
+      - node_id: 5c2e2a53-46e8-479b-88a3-74aee6f4f350
+        title: Cattle mutilations phenomenon
+        slug: cattle-mutilations-phenomenon
+    date: null
+    date_end: null
+    location_in_record: ch12:30108-30163
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: f0690aba-c78b-47f4-bb2f-f94ea04d55ee
+      record_title: 'Messengers of Deception: UFO Contacts and Cults'
+      record_date: '0101-01-01'
+      record_reference: null
+      content_hash: sha256:0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5ac9fd3168
+      friendly_name: 0101-01-01-ebook-messengers-of-deception-ufo-contacts-and-cults
+  - claim_id: bd694aaf-96c9-4681-961c-e8431da36987
+    claim_hash: 7e1b308cbbeab580787d2ff219658da5f4f4a6c91d8a72b372efdb5433317060
+    content: 'Jacques Vallée considers that the intelligence community has only two good reasons to hide the truth about the
+      UFO/mutilation phenomenon: either it is secretly causing it for its own purposes and does not want it examined closely,
+      or it simply does not know the answers.'
+    original_excerpt: 'It seems to me that the intelligence community has only two good reasons to hide the truth about such
+      a phenomenon: either it is secretly causing it for its own purposes and doesn''t want the phenomenon examined too closely...
+      or it simply doesn''t know the answers.'
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
+      title: Jacques Vallée
+    provenance_chain:
+      origin_kind: speaker
+      origin: Jacques Vallée
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
+        title: Jacques Vallée
+        slug: jacques-vallee
+      - node_id: 5c2e2a53-46e8-479b-88a3-74aee6f4f350
+        title: Cattle mutilations phenomenon
+        slug: cattle-mutilations-phenomenon
+      - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
+        title: Unidentified Flying Object (UFO)
+        slug: unidentified-flying-object-ufo
+    date: null
+    date_end: null
+    location_in_record: ch12:30167-30470
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: f0690aba-c78b-47f4-bb2f-f94ea04d55ee
+      record_title: 'Messengers of Deception: UFO Contacts and Cults'
+      record_date: '0101-01-01'
+      record_reference: null
+      content_hash: sha256:0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5ac9fd3168
+      friendly_name: 0101-01-01-ebook-messengers-of-deception-ufo-contacts-and-cults
+  - claim_id: 4967a113-8c82-4dfe-9dbb-5cbde0aed77f
+    claim_hash: 4456a73b713298459f9412d39d98af456cd8324cc54849554f7d96aaf140738c
+    content: According to Jacques Vallée, cattle mutilations documented in police reports involve surgical techniques demanding
+      good anatomical knowledge and procedural skill, which restricts the range of possible suspects.
+    original_excerpt: They involve surgical techniques that demand both good anatomical knowledge and procedural skill. This
+      restricts considerably the range of possible suspects.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
+      title: Jacques Vallée
+    provenance_chain:
+      origin_kind: speaker
+      origin: Jacques Vallée
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
+        title: Jacques Vallée
+        slug: jacques-vallee
+      - node_id: 5c2e2a53-46e8-479b-88a3-74aee6f4f350
+        title: Cattle mutilations phenomenon
+        slug: cattle-mutilations-phenomenon
+    date: null
+    date_end: null
+    location_in_record: ch12:3056-3204
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: f0690aba-c78b-47f4-bb2f-f94ea04d55ee
+      record_title: 'Messengers of Deception: UFO Contacts and Cults'
+      record_date: '0101-01-01'
+      record_reference: null
+      content_hash: sha256:0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5ac9fd3168
+      friendly_name: 0101-01-01-ebook-messengers-of-deception-ufo-contacts-and-cults
+  - claim_id: 6e549edd-d81c-4ccd-b99f-4927287ba0af
+    claim_hash: d7576dfb62a8e09d2de45d8ac869057fb07ab3f0adc0b2a9c01c33cd71130438
+    content: Jacques Vallée suggests that dropping a mutilated cow at the main entrance to NORAD may be an indication that
+      somebody is now calling the government's bluff on UFO censorship.
+    original_excerpt: Dropping a mutilated cow at the main entrance to NORAD may be a clear indication that somebody is now
+      calling that bluff.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
+      title: Jacques Vallée
+    provenance_chain:
+      origin_kind: speaker
+      origin: Jacques Vallée
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
+        title: Jacques Vallée
+        slug: jacques-vallee
+      - node_id: 5c2e2a53-46e8-479b-88a3-74aee6f4f350
+        title: Cattle mutilations phenomenon
+        slug: cattle-mutilations-phenomenon
+      - node_id: e46e0501-ca3d-4bbd-ad05-0d03468072e5
+        title: North American Air Defense Command (NORAD)
+        slug: north-american-air-defense-command-norad
+    date: null
+    date_end: null
+    location_in_record: ch12:30681-30796
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: f0690aba-c78b-47f4-bb2f-f94ea04d55ee
+      record_title: 'Messengers of Deception: UFO Contacts and Cults'
+      record_date: '0101-01-01'
+      record_reference: null
+      content_hash: sha256:0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5ac9fd3168
+      friendly_name: 0101-01-01-ebook-messengers-of-deception-ufo-contacts-and-cults
+  - claim_id: 4e234217-4808-4ae3-aebd-3ee60313fa32
+    claim_hash: b29018170cffe651a350eb5c4dd84a5eb7c92553ade8c781f749fe4cf0b0ef58
+    content: In October 1975 a preliminary intelligence report entitled "Intelligence information regarding occult activities
+      throughout the United States" was prepared for the U.S. attorney in Minneapolis, and it actually centred on cattle and
+      human mutilations and their relationship to UFOs.
+    original_excerpt: In October 1975, a preliminary Intelligence Report was prepared for the U.S. attorney in Minneapolis.
+      Although it was entitled "Intelligence information regarding occult activities throughout the United States," it really
+      centered on cattle and human mutilations and their relationship to UFOs.
+    claim_type: administrative
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: document
+      origin: Intelligence information regarding occult activities throughout the United States (1975 report)
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 3e893727-5e86-4304-845d-90267a140838
+        title: USA, Minnesota, Minneapolis
+        slug: minnesota-minneapolis-usa
+      - node_id: 5be461f1-e45f-4484-a650-e8658e81cb02
+        title: Intelligence information regarding occult activities throughout the United States (1975 report)
+        slug: intelligence-information-regarding-occult-activities-throughout-the-united-states-1975-report
+      - node_id: 5c2e2a53-46e8-479b-88a3-74aee6f4f350
+        title: Cattle mutilations phenomenon
+        slug: cattle-mutilations-phenomenon
+      - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
+        title: Unidentified Flying Object (UFO)
+        slug: unidentified-flying-object-ufo
+    date: 1975-10
+    date_end: null
+    location_in_record: ch12:31892-32181
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: f0690aba-c78b-47f4-bb2f-f94ea04d55ee
+      record_title: 'Messengers of Deception: UFO Contacts and Cults'
+      record_date: '0101-01-01'
+      record_reference: null
+      content_hash: sha256:0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5ac9fd3168
+      friendly_name: 0101-01-01-ebook-messengers-of-deception-ufo-contacts-and-cults
+  - claim_id: 9596d444-d02b-4195-9157-9b5a1081de4a
+    claim_hash: d04cb16f0877ec9ddb70025171ccdd8001a2cbde6320d4b198b6639caa2c6550
+    content: A law enforcement official in Montana said that diligent and intensive research by officers, assisted by pathologists,
+      veterinarians and toxicologists, had failed to unravel the mystery of the cattle mutilations.
+    original_excerpt: Diligent and intensive research by officers, assisted by pathologists, veterinarians, toxicologists,
+      and others, has failed to unravel the mystery.
+    claim_type: hearsay
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: anonymous
+      origin: a person claiming to be a law enforcement official in Montana
+      relay:
+        - Jacques Vallée's account
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 5c2e2a53-46e8-479b-88a3-74aee6f4f350
+        title: Cattle mutilations phenomenon
+        slug: cattle-mutilations-phenomenon
+    date: null
+    date_end: null
+    location_in_record: ch12:3270-3409
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: f0690aba-c78b-47f4-bb2f-f94ea04d55ee
+      record_title: 'Messengers of Deception: UFO Contacts and Cults'
+      record_date: '0101-01-01'
+      record_reference: null
+      content_hash: sha256:0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5ac9fd3168
+      friendly_name: 0101-01-01-ebook-messengers-of-deception-ufo-contacts-and-cults
+  - claim_id: 9f052667-444d-4aa8-bfef-28e06c2f6502
+    claim_hash: 4cf2a119a4ce003fa9810bb6a8158ace9a6041391cd6eb38b2d4975d0c672aba
+    content: Prison inmate Albert K. Bankston wrote letters to authorities stating that he knew who the cattle mutilators
+      were, that they were members of a Satanic cult, and that he wanted to assist in their arrest but feared reprisals and
+      asked to be transferred to a Minnesota jail.
+    original_excerpt: a prison inmate named Albert K. Bankston. This man stated that he knew who the mutilators were; he said
+      that they were members of a Satanic cult, and that he wanted to assist in their arrest. However, he was afraid of reprisals
+      and asked to be transferred to a Minnesota jail.
+    claim_type: hearsay
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: named
+      origin: Albert K. Bankston
+      relay:
+        - a preliminary intelligence report
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 5c2e2a53-46e8-479b-88a3-74aee6f4f350
+        title: Cattle mutilations phenomenon
+        slug: cattle-mutilations-phenomenon
+      - node_id: d357c88d-2b2d-45b4-8c14-7511cf55329a
+        title: The Occult (alleged Satanic cult)
+        slug: the-occult-alleged-satanic-cult
+      - node_id: e771f9fe-8342-4be6-94b3-a8afcc990d87
+        title: Albert K. Bankston
+        slug: albert-k-bankston
+    date: null
+    date_end: null
+    location_in_record: ch12:33341-33612
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: f0690aba-c78b-47f4-bb2f-f94ea04d55ee
+      record_title: 'Messengers of Deception: UFO Contacts and Cults'
+      record_date: '0101-01-01'
+      record_reference: null
+      content_hash: sha256:0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5ac9fd3168
+      friendly_name: 0101-01-01-ebook-messengers-of-deception-ufo-contacts-and-cults
+  - claim_id: fab9c727-1922-4afe-81c3-7b035e7dc0a3
+    claim_hash: 84af93875aaf8d3b54d2789370a07c62fb615f62deb72b975684e93f29133644
+    content: During interrogation, Albert K. Bankston said he had met in jail a former Hell's Angel who referred to a secret
+      organisation called "the Occult," which Bankston said was responsible for the cattle mutilations and used the animal
+      organs in its rituals.
+    original_excerpt: This so-called "Occult" was responsible for the mutilations, Bankston said, and used the animal organs
+      in its rituals.
+    claim_type: hearsay
+    attestation: third_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: named
+      origin: Albert K. Bankston
+      relay:
+        - a former Hell's Angel
+        - a preliminary intelligence report
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 5c2e2a53-46e8-479b-88a3-74aee6f4f350
+        title: Cattle mutilations phenomenon
+        slug: cattle-mutilations-phenomenon
+      - node_id: d357c88d-2b2d-45b4-8c14-7511cf55329a
+        title: The Occult (alleged Satanic cult)
+        slug: the-occult-alleged-satanic-cult
+      - node_id: e771f9fe-8342-4be6-94b3-a8afcc990d87
+        title: Albert K. Bankston
+        slug: albert-k-bankston
+    date: null
+    date_end: null
+    location_in_record: ch12:34062-34172
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: f0690aba-c78b-47f4-bb2f-f94ea04d55ee
+      record_title: 'Messengers of Deception: UFO Contacts and Cults'
+      record_date: '0101-01-01'
+      record_reference: null
+      content_hash: sha256:0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5ac9fd3168
+      friendly_name: 0101-01-01-ebook-messengers-of-deception-ufo-contacts-and-cults
+  - claim_id: 5193a7da-45d9-4e5a-8724-a4bbbbcf9a25
+    claim_hash: 6b595de9fa5448267016fffb6560ee4ff871b5fbf1a480568ee758d8367893c7
+    content: Dan Dugan said the cult also killed animals with tranquilizer pellets and took particular care not to leave any
+      tracks, often discussing how authorities would eventually blame the killings on UFOs, which is what came to pass.
+    original_excerpt: He said they all got a particular "thrill" over not leaving any tracks, and often talked about how the
+      authorities would sooner or later begin blaming the whole thing on UFOs, which is what came to pass.
+    claim_type: hearsay
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: named
+      origin: Dan Dugan
+      relay:
+        - a preliminary intelligence report
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 5c2e2a53-46e8-479b-88a3-74aee6f4f350
+        title: Cattle mutilations phenomenon
+        slug: cattle-mutilations-phenomenon
+      - node_id: 7e77b366-ef45-4ae9-bceb-72dc2caaadf6
+        title: Dan Dugan
+        slug: dan-dugan
+      - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
+        title: Unidentified Flying Object (UFO)
+        slug: unidentified-flying-object-ufo
+      - node_id: d357c88d-2b2d-45b4-8c14-7511cf55329a
+        title: The Occult (alleged Satanic cult)
+        slug: the-occult-alleged-satanic-cult
+    date: null
+    date_end: null
+    location_in_record: ch12:35379-35577
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: f0690aba-c78b-47f4-bb2f-f94ea04d55ee
+      record_title: 'Messengers of Deception: UFO Contacts and Cults'
+      record_date: '0101-01-01'
+      record_reference: null
+      content_hash: sha256:0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5ac9fd3168
+      friendly_name: 0101-01-01-ebook-messengers-of-deception-ufo-contacts-and-cults
+  - claim_id: 5c0be650-9e08-40b3-8f94-60d28f0d3342
+    claim_hash: bdeeb62effde0140d89216ae5368ae6815b92bcf282bb53efedc4c2502d271c0
+    content: A calf was mutilated on farmer Reuben Olson's property near Kiowa, Colorado, in August 1975.
+    original_excerpt: Farmer Reuben Olson looks at a calf chat was mutilated on his property near Kiowa, Colorado, in August
+      1975.
+    claim_type: observation
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 5c2e2a53-46e8-479b-88a3-74aee6f4f350
+        title: Cattle mutilations phenomenon
+        slug: cattle-mutilations-phenomenon
+      - node_id: 6790237c-3749-4807-9908-1b0a14f73a5b
+        title: Reuben Olson
+        slug: reuben-olson
+      - node_id: b962da2b-e529-452a-a2c4-14aa829c5dd2
+        title: USA, Colorado, Kiowa
+        slug: colorado-kiowa-usa
+    date: 1975-08
+    date_end: null
+    location_in_record: ch12:35791-35894
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: f0690aba-c78b-47f4-bb2f-f94ea04d55ee
+      record_title: 'Messengers of Deception: UFO Contacts and Cults'
+      record_date: '0101-01-01'
+      record_reference: null
+      content_hash: sha256:0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5ac9fd3168
+      friendly_name: 0101-01-01-ebook-messengers-of-deception-ufo-contacts-and-cults
+  - claim_id: 0cffd8c7-3b13-4a39-b35e-e9d0c10e66b0
+    claim_hash: 849d6ab18f5ae0453417790a977a56d53a6fcb15344d1fc2c1b1f42a9c6bd7f2
+    content: Carl Whiteside, an agent with the Colorado Bureau of Investigation, said that trying to catch the culprits behind
+      the cattle mutilations was like chasing a ghost.
+    original_excerpt: Carl Whiteside, an agent with the Colorado Bureau of Investigation, stated that trying to catch the
+      culprits was like chasing a ghost.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 17d1fa51-fb6f-4ccd-9aa7-fe1df0262eee
+      title: Carl Whiteside
+    provenance_chain:
+      origin_kind: speaker
+      origin: Carl Whiteside
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 17d1fa51-fb6f-4ccd-9aa7-fe1df0262eee
+        title: Carl Whiteside
+        slug: carl-whiteside
+      - node_id: 5c2e2a53-46e8-479b-88a3-74aee6f4f350
+        title: Cattle mutilations phenomenon
+        slug: cattle-mutilations-phenomenon
+      - node_id: cd3d4ab8-3182-4764-9bc6-994e81caf081
+        title: Colorado Bureau of Investigation
+        slug: colorado-bureau-of-investigation
+    date: null
+    date_end: null
+    location_in_record: ch12:35900-36028
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: f0690aba-c78b-47f4-bb2f-f94ea04d55ee
+      record_title: 'Messengers of Deception: UFO Contacts and Cults'
+      record_date: '0101-01-01'
+      record_reference: null
+      content_hash: sha256:0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5ac9fd3168
+      friendly_name: 0101-01-01-ebook-messengers-of-deception-ufo-contacts-and-cults
+  - claim_id: 87c157a2-168a-4c8c-8a4b-8db210c4b658
+    claim_hash: 4fb4b1ad90c19ed29ca3134167a2259c5156e539d7d2672206c1502771335f38
+    content: Dan Dugan provided investigators with a list of names, including a Bell Helicopter employee who was already suspected
+      of narcotics trafficking, burglary, and fencing, and investigators were interested because of frequent reports of unmarked
+      helicopters at cattle mutilation sites.
+    original_excerpt: provide the investigators with a list of names, including a Bell Helicopter employee who was already
+      suspected of narcotic traffic, burglary, and fencing. Authorities were interested in this angle because of frequent
+      reports of "unmarked helicopters" at the sites of mutilations.
+    claim_type: hearsay
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: named
+      origin: Dan Dugan
+      relay:
+        - a preliminary intelligence report
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 5c2e2a53-46e8-479b-88a3-74aee6f4f350
+        title: Cattle mutilations phenomenon
+        slug: cattle-mutilations-phenomenon
+      - node_id: 7e77b366-ef45-4ae9-bceb-72dc2caaadf6
+        title: Dan Dugan
+        slug: dan-dugan
+    date: null
+    date_end: null
+    location_in_record: ch12:36084-36351
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: f0690aba-c78b-47f4-bb2f-f94ea04d55ee
+      record_title: 'Messengers of Deception: UFO Contacts and Cults'
+      record_date: '0101-01-01'
+      record_reference: null
+      content_hash: sha256:0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5ac9fd3168
+      friendly_name: 0101-01-01-ebook-messengers-of-deception-ufo-contacts-and-cults
+  - claim_id: e4b97f26-dbed-42a0-8585-279550087e05
+    claim_hash: 4f201298fbf5871537bb2fee281eb7d22bfac90493b1298ac5c3ff4e7ff16c2d
+    content: When cattle mutilations are mentioned to ufologists, their standard answer is that it has all been solved as
+      simple cult activity.
+    original_excerpt: Whenever the mutilations are mentioned to ufologists, their standard answer is, "It's all been solved
+      as a simple cult activity."
+    claim_type: opinion
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 5c2e2a53-46e8-479b-88a3-74aee6f4f350
+        title: Cattle mutilations phenomenon
+        slug: cattle-mutilations-phenomenon
+    date: null
+    date_end: null
+    location_in_record: ch12:37808-37927
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: f0690aba-c78b-47f4-bb2f-f94ea04d55ee
+      record_title: 'Messengers of Deception: UFO Contacts and Cults'
+      record_date: '0101-01-01'
+      record_reference: null
+      content_hash: sha256:0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5ac9fd3168
+      friendly_name: 0101-01-01-ebook-messengers-of-deception-ufo-contacts-and-cults
+  - claim_id: 114ce641-5d98-4e0b-8cb7-b4dd02c53501
+    claim_hash: 39d4b2372b92aa04f5501addbd5a16ea5fd8a41ee2e65f74c8916171e49c2072
+    content: In 1976, when Jacques Vallée was told the cattle mutilations had been solved as simple cult activity, he asked
+      which cult had been identified, why no arrests had been made, and why the mutilations were continuing.
+    original_excerpt: 'When I was told of this "explanation" in 1976, I asked three questions: exactly which cult had been
+      identified... why no arrests had been made; and why the mutilations were continuing.'
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
+      title: Jacques Vallée
+    provenance_chain:
+      origin_kind: speaker
+      origin: Jacques Vallée
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
+        title: Jacques Vallée
+        slug: jacques-vallee
+      - node_id: 5c2e2a53-46e8-479b-88a3-74aee6f4f350
+        title: Cattle mutilations phenomenon
+        slug: cattle-mutilations-phenomenon
+    date: '1976'
+    date_end: null
+    location_in_record: ch12:37938-38176
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: f0690aba-c78b-47f4-bb2f-f94ea04d55ee
+      record_title: 'Messengers of Deception: UFO Contacts and Cults'
+      record_date: '0101-01-01'
+      record_reference: null
+      content_hash: sha256:0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5ac9fd3168
+      friendly_name: 0101-01-01-ebook-messengers-of-deception-ufo-contacts-and-cults
+  - claim_id: 02bbe611-2a8a-465c-bdc8-81aaf13236a8
+    claim_hash: e212339b67ccc22c6c64094873ef5a6a30797085e676ac0d8351df3e01735996
+    content: By late 1975, mutilation investigators agreed that involvement by cult members was more the exception than the
+      rule, and that the real culprits behind the cattle mutilations were much more powerful.
+    original_excerpt: By late 1975, mutilation investigators agreed that any involvement by cult members was more the exception
+      than the rule, and that the real culprits were much more powerful. The Occult Theory was inadequate.
+    claim_type: opinion
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 5c2e2a53-46e8-479b-88a3-74aee6f4f350
+        title: Cattle mutilations phenomenon
+        slug: cattle-mutilations-phenomenon
+      - node_id: d357c88d-2b2d-45b4-8c14-7511cf55329a
+        title: The Occult (alleged Satanic cult)
+        slug: the-occult-alleged-satanic-cult
+    date: '1975'
+    date_end: null
+    location_in_record: ch12:39516-39711
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: f0690aba-c78b-47f4-bb2f-f94ea04d55ee
+      record_title: 'Messengers of Deception: UFO Contacts and Cults'
+      record_date: '0101-01-01'
+      record_reference: null
+      content_hash: sha256:0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5ac9fd3168
+      friendly_name: 0101-01-01-ebook-messengers-of-deception-ufo-contacts-and-cults
+  - claim_id: 4072fa02-14b9-4a6d-b35a-f91655799c74
+    claim_hash: cf57cf18f1b07878c865cd9ba179f076e371388a85d65792ed33429c3712edbb
+    content: Ranchers concluded the military was responsible for the cattle mutilations after repeatedly seeing flying objects
+      resembling helicopters in the mutilation areas at night.
+    original_excerpt: Since they kept seeing flying objects of various kinds in the mutilation areas at night, and since some
+      of these resembled helicopters, they concluded that the military was responsible.
+    claim_type: opinion
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 5c2e2a53-46e8-479b-88a3-74aee6f4f350
+        title: Cattle mutilations phenomenon
+        slug: cattle-mutilations-phenomenon
+    date: null
+    date_end: null
+    location_in_record: ch12:39770-39943
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: f0690aba-c78b-47f4-bb2f-f94ea04d55ee
+      record_title: 'Messengers of Deception: UFO Contacts and Cults'
+      record_date: '0101-01-01'
+      record_reference: null
+      content_hash: sha256:0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5ac9fd3168
+      friendly_name: 0101-01-01-ebook-messengers-of-deception-ufo-contacts-and-cults
+  - claim_id: e40f7fc5-2c14-4843-8e12-1ecdb96402e5
+    claim_hash: b416f1d1415b1099926f01ab327ec5e8250aaacdbb4acc52bfae65e3dbb40eb5
+    content: Some farmers believed that a sect or secret group within the military was performing rituals using cattle organs
+      stolen in the cattle mutilations phenomenon.
+    original_excerpt: some farmers believed that a sect or secret group within the military was performing rituals using the
+      stolen cattle organs
+    claim_type: opinion
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: anonymous
+      origin: a group of farmers holding a belief about the cattle mutilations phenomenon
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 5c2e2a53-46e8-479b-88a3-74aee6f4f350
+        title: Cattle mutilations phenomenon
+        slug: cattle-mutilations-phenomenon
+    date: null
+    date_end: null
+    location_in_record: ch12:39991-40108
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: f0690aba-c78b-47f4-bb2f-f94ea04d55ee
+      record_title: 'Messengers of Deception: UFO Contacts and Cults'
+      record_date: '0101-01-01'
+      record_reference: null
+      content_hash: sha256:0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5ac9fd3168
+      friendly_name: 0101-01-01-ebook-messengers-of-deception-ufo-contacts-and-cults
+  - claim_id: a34ddc56-96d5-4138-af51-b0fb130a57e8
+    claim_hash: 33f86aa8635d180608a96191dbfac34b387a0781965aae3f7d914429f973d15a
+    content: A larger number of ranchers believed the government was conducting massive experiments testing new drugs on the
+      mutilated animals.
+    original_excerpt: A larger number believed that the government was conducting massive experiments, testing new drugs on
+      the animals.
+    claim_type: opinion
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: anonymous
+      origin: a larger group of ranchers holding a belief about the cattle mutilations phenomenon
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 5c2e2a53-46e8-479b-88a3-74aee6f4f350
+        title: Cattle mutilations phenomenon
+        slug: cattle-mutilations-phenomenon
+    date: null
+    date_end: null
+    location_in_record: ch12:40116-40222
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: f0690aba-c78b-47f4-bb2f-f94ea04d55ee
+      record_title: 'Messengers of Deception: UFO Contacts and Cults'
+      record_date: '0101-01-01'
+      record_reference: null
+      content_hash: sha256:0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5ac9fd3168
+      friendly_name: 0101-01-01-ebook-messengers-of-deception-ufo-contacts-and-cults
+  - claim_id: caa20e70-3f5e-415b-8b57-a7dae9b806e7
+    claim_hash: 99ff68bcbb21e545ab048cebfc9e83e30449004da113a63fccb3f4f235072ee1
+    content: Ranchers began firing on helicopters leaving or returning to Fort Carson at low altitude during the cattle mutilations
+      investigations, and several helicopters returned to base with bullets in their sides.
+    original_excerpt: The ranchers began firing on helicopters leaving or returning to Fort Carson at low altitude, and several
+      of the machines came back to base with bullets in their sides.
+    claim_type: observation
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 5c2e2a53-46e8-479b-88a3-74aee6f4f350
+        title: Cattle mutilations phenomenon
+        slug: cattle-mutilations-phenomenon
+      - node_id: ff44152e-1a0c-4656-8ab6-bae4854f53bc
+        title: Fort Carson
+        slug: fort-carson
+    date: null
+    date_end: null
+    location_in_record: ch12:40489-40651
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: f0690aba-c78b-47f4-bb2f-f94ea04d55ee
+      record_title: 'Messengers of Deception: UFO Contacts and Cults'
+      record_date: '0101-01-01'
+      record_reference: null
+      content_hash: sha256:0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5ac9fd3168
+      friendly_name: 0101-01-01-ebook-messengers-of-deception-ufo-contacts-and-cults
+  - claim_id: cc70285a-da29-4317-83f7-c78bd4b12bb7
+    claim_hash: 8092911446379c36c168eeab89c852477daabd2bf7662066aa267101cdceab66
+    content: It was never explained how a single group could be responsible for hundreds of cattle mutilation incidents across
+      several American states.
+    original_excerpt: Neither was it explained how a single group could be responsible for hundreds of incidents in several
+      states.
+    claim_type: observation
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 5c2e2a53-46e8-479b-88a3-74aee6f4f350
+        title: Cattle mutilations phenomenon
+        slug: cattle-mutilations-phenomenon
+    date: null
+    date_end: null
+    location_in_record: ch12:40876-40978
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: f0690aba-c78b-47f4-bb2f-f94ea04d55ee
+      record_title: 'Messengers of Deception: UFO Contacts and Cults'
+      record_date: '0101-01-01'
+      record_reference: null
+      content_hash: sha256:0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5ac9fd3168
+      friendly_name: 0101-01-01-ebook-messengers-of-deception-ufo-contacts-and-cults
+  - claim_id: 31d990c4-ba31-49b6-9818-0c7b7b00bb75
+    claim_hash: 30782db0c3555f2d56ca3098b9d9e18e01c8b70658e05a9114d619340c654b4a
+    content: At night, ranchers investigating cattle mutilations kept vigils by parking their pickups on hilltops and staying
+      in contact by citizen's band radio.
+    original_excerpt: At night, the ranchers kept up vigils, parking their pickups on hilltops and staying in contact by citizen's
+      band radio.
+    claim_type: observation
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 5c2e2a53-46e8-479b-88a3-74aee6f4f350
+        title: Cattle mutilations phenomenon
+        slug: cattle-mutilations-phenomenon
+    date: null
+    date_end: null
+    location_in_record: ch12:40987-41101
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: f0690aba-c78b-47f4-bb2f-f94ea04d55ee
+      record_title: 'Messengers of Deception: UFO Contacts and Cults'
+      record_date: '0101-01-01'
+      record_reference: null
+      content_hash: sha256:0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5ac9fd3168
+      friendly_name: 0101-01-01-ebook-messengers-of-deception-ufo-contacts-and-cults
+  - claim_id: bf36120c-31ef-4360-8c4b-170caa7990b0
+    claim_hash: ff3d333b5071ecee9c9bd4008309e9895b928bf97ee94d5d622cd4623c911189
+    content: Cattle mutilations continued even on stormy nights when helicopter flights would have been prevented by the weather.
+    original_excerpt: However, the mutilations continued, even on stormy nights when helicopter flights were prevented by
+      the weather.
+    claim_type: observation
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 5c2e2a53-46e8-479b-88a3-74aee6f4f350
+        title: Cattle mutilations phenomenon
+        slug: cattle-mutilations-phenomenon
+    date: null
+    date_end: null
+    location_in_record: ch12:41108-41212
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: f0690aba-c78b-47f4-bb2f-f94ea04d55ee
+      record_title: 'Messengers of Deception: UFO Contacts and Cults'
+      record_date: '0101-01-01'
+      record_reference: null
+      content_hash: sha256:0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5ac9fd3168
+      friendly_name: 0101-01-01-ebook-messengers-of-deception-ufo-contacts-and-cults
+  - claim_id: 9578e559-7801-45c5-bd56-637d1e9f7496
+    claim_hash: b57bd612a104c48bde767ad7587965ef93b3ffd4508857c2ea2c83e379dc3c69
+    content: Among the ranch families investigating cattle mutilations were men who had returned from Vietnam and the Philippines,
+      where they had participated in counter-insurgency operations that used mythology to achieve political change.
+    original_excerpt: Among the ranch families were men who had returned from Vietnam and the Philippines, where they had
+      participated in counter-insurgency operations that used mythology to achieve political change.
+    claim_type: observation
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 085f6c91-4cb1-44a7-97a5-c61a87bfa0a4
+        title: Vietnam
+        slug: vietnam
+      - node_id: 5c2e2a53-46e8-479b-88a3-74aee6f4f350
+        title: Cattle mutilations phenomenon
+        slug: cattle-mutilations-phenomenon
+    date: null
+    date_end: null
+    location_in_record: ch12:41315-41502
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: f0690aba-c78b-47f4-bb2f-f94ea04d55ee
+      record_title: 'Messengers of Deception: UFO Contacts and Cults'
+      record_date: '0101-01-01'
+      record_reference: null
+      content_hash: sha256:0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5ac9fd3168
+      friendly_name: 0101-01-01-ebook-messengers-of-deception-ufo-contacts-and-cults
+  - claim_id: e71dc686-51e9-4083-8a62-b85be79df52c
+    claim_hash: 5e56a7ff66aa0b70743a5c37bebd91606b40f2db8cd4c914347958362fe55a64
+    content: The organs primarily taken by the mutilators in the cattle mutilations phenomenon are the eyes, ears, tongue,
+      and genitals, organs associated with communication and reproduction.
+    original_excerpt: 'What are the organs taken by the mutilators? The eyes, the ears, the tongue, and the genitals: that
+      is, the organs concerned ... with communication and with reproduction.'
+    claim_type: observation
+    attestation: first_hand
+    speaker:
+      node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
+      title: Jacques Vallée
+    provenance_chain:
+      origin_kind: speaker
+      origin: Jacques Vallée
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 5c2e2a53-46e8-479b-88a3-74aee6f4f350
+        title: Cattle mutilations phenomenon
+        slug: cattle-mutilations-phenomenon
+    date: null
+    date_end: null
+    location_in_record: ch12:43889-44004
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: f0690aba-c78b-47f4-bb2f-f94ea04d55ee
+      record_title: 'Messengers of Deception: UFO Contacts and Cults'
+      record_date: '0101-01-01'
+      record_reference: null
+      content_hash: sha256:0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5ac9fd3168
+      friendly_name: 0101-01-01-ebook-messengers-of-deception-ufo-contacts-and-cults
+  - claim_id: 69adf703-ab71-42b7-918b-118a72a5c9d8
+    claim_hash: f6d884dfd3e1a3f6ff2c89e634000aea2bd21480963f62cb63aeec56671d906b
+    content: Jacques Vallée had several conversations with a law enforcement officer who investigated cattle mutilation cases
+      in the northern plains and who gave him first-hand details.
+    original_excerpt: I have had several conversations with a law enforcement officer who investigated cases in the northern
+      plains. He gave me some first-hand details.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
+      title: Jacques Vallée
+    provenance_chain:
+      origin_kind: speaker
+      origin: Jacques Vallée
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
+        title: Jacques Vallée
+        slug: jacques-vallee
+      - node_id: 5c2e2a53-46e8-479b-88a3-74aee6f4f350
+        title: Cattle mutilations phenomenon
+        slug: cattle-mutilations-phenomenon
+    date: null
+    date_end: null
+    location_in_record: ch12:44406-44544
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: f0690aba-c78b-47f4-bb2f-f94ea04d55ee
+      record_title: 'Messengers of Deception: UFO Contacts and Cults'
+      record_date: '0101-01-01'
+      record_reference: null
+      content_hash: sha256:0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5ac9fd3168
+      friendly_name: 0101-01-01-ebook-messengers-of-deception-ufo-contacts-and-cults
+  - claim_id: 51ae9b15-c0a4-41b3-8b43-51a94175687e
+    claim_hash: 1099b1e5ee0b2566b3e2831418710e285c79db83b5267a3203fdb57e32fc5727
+    content: A law enforcement officer investigating cattle mutilations in the northern plains examined a case in which a
+      cow's sex organs had been removed not from the outside but through a surgical operation involving a scalpel introduced
+      through the rectum to cut the ligaments, indicating good knowledge of anatomy.
+    original_excerpt: '"There is this case I examined. An animal, a cow, whose sex organs had been removed. Not from the outside,
+      but through a surgical operation that consists in introducing a scalpel through the rectum and cutting the ligaments.
+      That takes someone with good knowledge of anatomy."'
+    claim_type: testimony
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: anonymous
+      origin: a person claiming to be a law enforcement officer who investigated cattle mutilation cases in the northern plains
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 5c2e2a53-46e8-479b-88a3-74aee6f4f350
+        title: Cattle mutilations phenomenon
+        slug: cattle-mutilations-phenomenon
+    date: null
+    date_end: null
+    location_in_record: ch12:44659-44925
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: f0690aba-c78b-47f4-bb2f-f94ea04d55ee
+      record_title: 'Messengers of Deception: UFO Contacts and Cults'
+      record_date: '0101-01-01'
+      record_reference: null
+      content_hash: sha256:0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5ac9fd3168
+      friendly_name: 0101-01-01-ebook-messengers-of-deception-ufo-contacts-and-cults
+  - claim_id: 170fb434-9e17-4906-aeb6-2efe432f49a0
+    claim_hash: 12cf6253c8e1e4ca8fd96289b7f2ee1cf54bc272cc01a08296d3cb172b9b4738
+    content: The same law enforcement officer noted that in some cattle mutilation cases the eye was taken out through an
+      incision above the socket, which he stated predators would not do.
+    original_excerpt: '"Sure. But in some of our cases the eye was taken out through an incision above the socket. How would
+      predators do that?"'
+    claim_type: testimony
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: anonymous
+      origin: a person claiming to be a law enforcement officer who investigated cattle mutilation cases in the northern plains
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 5c2e2a53-46e8-479b-88a3-74aee6f4f350
+        title: Cattle mutilations phenomenon
+        slug: cattle-mutilations-phenomenon
+    date: null
+    date_end: null
+    location_in_record: ch12:45009-45123
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: f0690aba-c78b-47f4-bb2f-f94ea04d55ee
+      record_title: 'Messengers of Deception: UFO Contacts and Cults'
+      record_date: '0101-01-01'
+      record_reference: null
+      content_hash: sha256:0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5ac9fd3168
+      friendly_name: 0101-01-01-ebook-messengers-of-deception-ufo-contacts-and-cults
+  - claim_id: 52eda625-142a-418c-9b9f-aa3455b77568
+    claim_hash: 842fe5b738eff4fd84412295bb367cc089e93aa9ec7e16ddd4df0861674b2d4e
+    content: The officer investigated an unsolved incident in which a farmer's electrical lights went out and, when he went
+      to repair the system twenty minutes later, found one of his pigs dead and mutilated 200 metres from the house among
+      the other pigs, with the farmer having heard nothing.
+    original_excerpt: '"I looked into this one incident where the lights went out," answered the man ... "This farmer was
+      eating dinner with his family. He was going to go out after dinner and repair the electrical system; only when he did
+      go out twenty minutes later, one of the pigs was dead and mutilated 200 yards from the house, among the other pigs."
+      ... "He hadn''t heard anything?" "Not a thing."'
+    claim_type: testimony
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: anonymous
+      origin: a person claiming to be a law enforcement officer who investigated cattle mutilation cases in the northern plains
+      relay:
+        - a farmer's account relayed to the officer
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 5c2e2a53-46e8-479b-88a3-74aee6f4f350
+        title: Cattle mutilations phenomenon
+        slug: cattle-mutilations-phenomenon
+    date: null
+    date_end: null
+    location_in_record: ch12:45272-45705
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: f0690aba-c78b-47f4-bb2f-f94ea04d55ee
+      record_title: 'Messengers of Deception: UFO Contacts and Cults'
+      record_date: '0101-01-01'
+      record_reference: null
+      content_hash: sha256:0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5ac9fd3168
+      friendly_name: 0101-01-01-ebook-messengers-of-deception-ufo-contacts-and-cults
+  - claim_id: 65de319c-dee2-4853-9265-498575bfd89b
+    claim_hash: bfb40e8cbaf42018c3dd1bebe685e5143a4dc83a17bd63315f48e15f49ac8b0d
+    content: The officer stated there was no disturbance whatsoever reported around the mutilated-pig incident he investigated.
+    original_excerpt: '"There wasn''t any disturbance whatsoever," was his answer.'
+    claim_type: testimony
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: anonymous
+      origin: a person claiming to be a law enforcement officer who investigated cattle mutilation cases in the northern plains
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 5c2e2a53-46e8-479b-88a3-74aee6f4f350
+        title: Cattle mutilations phenomenon
+        slug: cattle-mutilations-phenomenon
+    date: null
+    date_end: null
+    location_in_record: ch12:45958-46008
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: f0690aba-c78b-47f4-bb2f-f94ea04d55ee
+      record_title: 'Messengers of Deception: UFO Contacts and Cults'
+      record_date: '0101-01-01'
+      record_reference: null
+      content_hash: sha256:0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5ac9fd3168
+      friendly_name: 0101-01-01-ebook-messengers-of-deception-ufo-contacts-and-cults
+  - claim_id: 1f1ffee5-02cf-40ea-97ce-945e916a5105
+    claim_hash: 6157ac1e1ac45ad046eb564bf9582ca37a4f174113d5d628c39a129757884268
+    content: The farmer's photocell-activated light system in the mutilated-pig incident switched on automatically at dusk.
+    original_excerpt: '"It activated automatically at dusk. There is a photocell."'
+    claim_type: testimony
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: anonymous
+      origin: a person claiming to be a law enforcement officer who investigated cattle mutilation cases in the northern plains
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 5c2e2a53-46e8-479b-88a3-74aee6f4f350
+        title: Cattle mutilations phenomenon
+        slug: cattle-mutilations-phenomenon
+    date: null
+    date_end: null
+    location_in_record: ch12:46052-46099
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: f0690aba-c78b-47f4-bb2f-f94ea04d55ee
+      record_title: 'Messengers of Deception: UFO Contacts and Cults'
+      record_date: '0101-01-01'
+      record_reference: null
+      content_hash: sha256:0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5ac9fd3168
+      friendly_name: 0101-01-01-ebook-messengers-of-deception-ufo-contacts-and-cults
+  - claim_id: 9ef9878c-e25b-4d7a-9208-d758a76cc7f6
+    claim_hash: a2ff5258323b1e73fced0098adaa9e0889459f24ff34928ac8626a573f46c811
+    content: The officer demonstrated with fellow officers, using their patrol car light, that the photocell light system
+      in the mutilated-pig incident could be turned on and off by shining a spotlight on it.
+    original_excerpt: '"I did exactly that with the officers who were with me, using their patrol car light. Sure, we could
+      aim at the cell and turn the system on and off."'
+    claim_type: testimony
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: anonymous
+      origin: a person claiming to be a law enforcement officer who investigated cattle mutilation cases in the northern plains
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 5c2e2a53-46e8-479b-88a3-74aee6f4f350
+        title: Cattle mutilations phenomenon
+        slug: cattle-mutilations-phenomenon
+    date: null
+    date_end: null
+    location_in_record: ch12:46182-46325
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: f0690aba-c78b-47f4-bb2f-f94ea04d55ee
+      record_title: 'Messengers of Deception: UFO Contacts and Cults'
+      record_date: '0101-01-01'
+      record_reference: null
+      content_hash: sha256:0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5ac9fd3168
+      friendly_name: 0101-01-01-ebook-messengers-of-deception-ufo-contacts-and-cults
+  - claim_id: 58591f2d-1bcb-4eeb-bd7e-1a38aea6b91e
+    claim_hash: a665e07c399b4766f7e7c70879cc790c2a0d2519600d50d19358e02b1b9194f3
+    content: The officer questioned how somebody could hold a light to the photocell for twenty minutes while mutilating a
+      pig 200 metres from the house without any noise.
+    original_excerpt: '"But can you imagine somebody holding up a light to that cell for twenty minutes while mutilating a
+      pig 200 yards from the house, the whole thing without any noise?"'
+    claim_type: opinion
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: anonymous
+      origin: a person claiming to be a law enforcement officer who investigated cattle mutilation cases in the northern plains
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 5c2e2a53-46e8-479b-88a3-74aee6f4f350
+        title: Cattle mutilations phenomenon
+        slug: cattle-mutilations-phenomenon
+    date: null
+    date_end: null
+    location_in_record: ch12:46330-46487
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: f0690aba-c78b-47f4-bb2f-f94ea04d55ee
+      record_title: 'Messengers of Deception: UFO Contacts and Cults'
+      record_date: '0101-01-01'
+      record_reference: null
+      content_hash: sha256:0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5ac9fd3168
+      friendly_name: 0101-01-01-ebook-messengers-of-deception-ufo-contacts-and-cults
+  - claim_id: 8f5e2a22-1453-407a-95dc-43bd0b36c784
+    claim_hash: b9dcaf1c612e110904822b5b89c19458e3df6f040c5a40aa8828663521c7b628
+    content: The law enforcement officer said he was no longer doing cattle mutilation investigations, having been taken off
+      the assignment, and expressed regret about having been involved in it.
+    original_excerpt: '"No, fortunately. We were taken off that kind of thing. I''m sorry we got involved in this problem
+      in the first place."'
+    claim_type: testimony
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: anonymous
+      origin: a person claiming to be a law enforcement officer who investigated cattle mutilation cases in the northern plains
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 5c2e2a53-46e8-479b-88a3-74aee6f4f350
+        title: Cattle mutilations phenomenon
+        slug: cattle-mutilations-phenomenon
+    date: null
+    date_end: null
+    location_in_record: ch12:46585-46695
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: f0690aba-c78b-47f4-bb2f-f94ea04d55ee
+      record_title: 'Messengers of Deception: UFO Contacts and Cults'
+      record_date: '0101-01-01'
+      record_reference: null
+      content_hash: sha256:0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5ac9fd3168
+      friendly_name: 0101-01-01-ebook-messengers-of-deception-ufo-contacts-and-cults
+  - claim_id: ee9f6fd6-5b74-41e8-bbab-962b3563a6be
+    claim_hash: 75699c340c6a48b4f2509bb27ab0c9f692848874b5d7d7a66efae153bd46aa6d
+    content: In an 18-month period before January 1977, there were 700 reported cattle mutilations across 15 western US states.
+    original_excerpt: In an 18-month period before January 1977, there were 700 mutilations in 15 western states.
+    claim_type: measurement
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 5c2e2a53-46e8-479b-88a3-74aee6f4f350
+        title: Cattle mutilations phenomenon
+        slug: cattle-mutilations-phenomenon
+    date: null
+    date_end: null
+    location_in_record: ch12:6797-6881
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: f0690aba-c78b-47f4-bb2f-f94ea04d55ee
+      record_title: 'Messengers of Deception: UFO Contacts and Cults'
+      record_date: '0101-01-01'
+      record_reference: null
+      content_hash: sha256:0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5ac9fd3168
+      friendly_name: 0101-01-01-ebook-messengers-of-deception-ufo-contacts-and-cults
+  - claim_id: e352aceb-b2d3-4535-ad36-31a76ccbed76
+    claim_hash: af604e781f8754cc1bebfab41142bde6f428864a6a8569abe6b3abf1e7cedc08
+    content: More than 180 cattle mutilation cases occurred in Colorado alone in 1975.
+    original_excerpt: More than 180 cases occurred in Colorado alone in 1975.
+    claim_type: measurement
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 5c2e2a53-46e8-479b-88a3-74aee6f4f350
+        title: Cattle mutilations phenomenon
+        slug: cattle-mutilations-phenomenon
+    date: '1975'
+    date_end: null
+    location_in_record: ch12:6889-6939
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: f0690aba-c78b-47f4-bb2f-f94ea04d55ee
+      record_title: 'Messengers of Deception: UFO Contacts and Cults'
+      record_date: '0101-01-01'
+      record_reference: null
+      content_hash: sha256:0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5ac9fd3168
+      friendly_name: 0101-01-01-ebook-messengers-of-deception-ufo-contacts-and-cults
+  - claim_id: ea7cc246-b6cf-4944-8f7e-e4bea5633e7e
+    claim_hash: cbf0dddb8615797bb8ac78ffaf62f23f1e7e70a5b41e7a33594ab0528ad43b8d
+    content: Baron Hankes, a Mendocino Sheriffs Investigator, said after studying seven mutilated cattle in USA, California,
+      Mendocino between November 1976 and January 1977 that it was as if someone had wanted them to find the carcasses.
+    original_excerpt: as Mendocino Sheriffs Investigator Baron Hankes said, after studying seven mutilated cattle in Covelo,
+      California, between November ‘76 and January ‘77, "It was like someone wanted us to find them."
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 0bf05aad-f8de-4b2d-bdbd-0b1cff88e823
+      title: Baron Hankes
+    provenance_chain:
+      origin_kind: speaker
+      origin: Baron Hankes
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 0bf05aad-f8de-4b2d-bdbd-0b1cff88e823
+        title: Baron Hankes
+        slug: baron-hankes
+      - node_id: 5c2e2a53-46e8-479b-88a3-74aee6f4f350
+        title: Cattle mutilations phenomenon
+        slug: cattle-mutilations-phenomenon
+      - node_id: 8ca1cb31-3bcb-4eb9-b71b-5302b6ae846d
+        title: USA, California, Mendocino
+        slug: california-mendocino-usa
+    date: 1976-11
+    date_end: null
+    location_in_record: ch12:7292-7484
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: f0690aba-c78b-47f4-bb2f-f94ea04d55ee
+      record_title: 'Messengers of Deception: UFO Contacts and Cults'
+      record_date: '0101-01-01'
+      record_reference: null
+      content_hash: sha256:0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5ac9fd3168
+      friendly_name: 0101-01-01-ebook-messengers-of-deception-ufo-contacts-and-cults
+  - claim_id: abd87b42-2824-49e6-9ecb-6462b702020f
+    claim_hash: e9166afa0a4bc7c3569370eca9daed02c506e36445627b6d9f64f1f20127cff4
+    content: Frederick W. Smith, in his book Cattle Mutilation, described a cattle mutilation occurring at a hillside site
+      directly overlooking the underground NORAD (North American Air Defense Command) facility, a site protecting thousands
+      of military buildings, hundreds of aircraft and helicopters, and approximately 20,000 soldiers.
+    original_excerpt: So right there, immediately overlooking thousands of military buildings, the protective covering of
+      hundreds of planes and helicopters and 20,000 soldiers... someone thought this would be a neat place to have a cattle
+      mutilation.
+    claim_type: testimony
+    attestation: second_hand
+    speaker:
+      node_id: c0575ded-5592-48b0-96ac-478b5714394e
+      title: Frederick W. Smith
+    provenance_chain:
+      origin_kind: document
+      origin: Cattle Mutilation by Frederick W. Smith
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 5c2e2a53-46e8-479b-88a3-74aee6f4f350
+        title: Cattle mutilations phenomenon
+        slug: cattle-mutilations-phenomenon
+      - node_id: 9e05037f-bd7e-4cbc-814f-ddefe6bc5dfe
+        title: Cattle Mutilation
+        slug: cattle-mutilation
+      - node_id: c0575ded-5592-48b0-96ac-478b5714394e
+        title: Frederick W. Smith
+        slug: frederick-w-smith
+      - node_id: e46e0501-ca3d-4bbd-ad05-0d03468072e5
+        title: North American Air Defense Command (NORAD)
+        slug: north-american-air-defense-command-norad
+    date: null
+    date_end: null
+    location_in_record: ch12:799-1076
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: f0690aba-c78b-47f4-bb2f-f94ea04d55ee
+      record_title: 'Messengers of Deception: UFO Contacts and Cults'
+      record_date: '0101-01-01'
+      record_reference: null
+      content_hash: sha256:0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5ac9fd3168
+      friendly_name: 0101-01-01-ebook-messengers-of-deception-ufo-contacts-and-cults
+  - claim_id: f752831a-d54a-453d-9e83-c3b6d5bd39a3
+    claim_hash: 2c68dbe0f337c000f5f29cb7150f7ae280a7959da2f93bdf001844f024ece1af
+    content: Major Murphy told Jacques Vallée that things regarding the causes of human and cattle mutilations are not usually
+      so simple.
+    original_excerpt: Things are not usually so simple, as Major Murphy had said.
+    claim_type: opinion
+    attestation: second_hand
+    speaker:
+      node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
+      title: Jacques Vallée
+    provenance_chain:
+      origin_kind: named
+      origin: Major Murphy
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
+        title: Jacques Vallée
+        slug: jacques-vallee
+      - node_id: 5c2e2a53-46e8-479b-88a3-74aee6f4f350
+        title: Cattle mutilations phenomenon
+        slug: cattle-mutilations-phenomenon
+      - node_id: d5224a9c-0d69-4b8d-b27b-0ffc20e0b713
+        title: Major Murphy
+        slug: major-murphy
+    date: null
+    date_end: null
+    location_in_record: ch13:1379-1433
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: f0690aba-c78b-47f4-bb2f-f94ea04d55ee
+      record_title: 'Messengers of Deception: UFO Contacts and Cults'
+      record_date: '0101-01-01'
+      record_reference: null
+      content_hash: sha256:0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5ac9fd3168
+      friendly_name: 0101-01-01-ebook-messengers-of-deception-ufo-contacts-and-cults
+  - claim_id: 34a1bfbc-13d4-4bc1-a5a7-495e4f509603
+    claim_hash: 9ba9b8569c75152fd8a475c5d0f6276131504afe6593e960d5a4361edef2a07e
+    content: According to local law-enforcement authorities, the sexual organs, rectum, and tongue of the mutilated Holstein
+      calf near Middleton, Idaho had been removed.
+    original_excerpt: The sexual organs, rectum, and tongue have been removed, according to local law-enforcement authorities.
+    claim_type: observation
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: local law-enforcement authorities
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 5c2e2a53-46e8-479b-88a3-74aee6f4f350
+        title: Cattle mutilations phenomenon
+        slug: cattle-mutilations-phenomenon
+    date: '1975-10-28'
+    date_end: null
+    location_in_record: ch13:160-252
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: f0690aba-c78b-47f4-bb2f-f94ea04d55ee
+      record_title: 'Messengers of Deception: UFO Contacts and Cults'
+      record_date: '0101-01-01'
+      record_reference: null
+      content_hash: sha256:0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5ac9fd3168
+      friendly_name: 0101-01-01-ebook-messengers-of-deception-ufo-contacts-and-cults
+  - claim_id: b7c762e1-6b5c-45da-8012-cebef6df67ae
+    claim_hash: 52fe3601c62946cb57cdb4369351fbd55c9905924910a2abb8be6e39b5349c12
+    content: Various magazines in the United States systematically equate unidentified flying objects and cattle mutilations
+      to media hoaxes like the Bermuda Triangle.
+    original_excerpt: There are various magazines in the United States which fulfill a debunking role. They are systematically
+      equating unidentified flying objects and cattle mutilations to media hoaxes like the Bermuda Triangle.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
+      title: Jacques Vallée
+    provenance_chain:
+      origin_kind: speaker
+      origin: Jacques Vallée
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 5c2e2a53-46e8-479b-88a3-74aee6f4f350
+        title: Cattle mutilations phenomenon
+        slug: cattle-mutilations-phenomenon
+      - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
+        title: Unidentified Flying Object (UFO)
+        slug: unidentified-flying-object-ufo
+    date: null
+    date_end: null
+    location_in_record: ch13:35384-35582
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: f0690aba-c78b-47f4-bb2f-f94ea04d55ee
+      record_title: 'Messengers of Deception: UFO Contacts and Cults'
+      record_date: '0101-01-01'
+      record_reference: null
+      content_hash: sha256:0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5ac9fd3168
+      friendly_name: 0101-01-01-ebook-messengers-of-deception-ufo-contacts-and-cults
+  - claim_id: 78e7c6fb-ce37-4082-b179-da138560fee4
+    claim_hash: b3a4d555b6732ff0c3e96bd8935110eb0eaed9ee82b7e69b9ae04dd8cdfd52ef
+    content: Jacques Vallée considers the scope and character of the cattle mutilations phenomenon to indicate that some sort
+      of secret organisation is responsible.
+    original_excerpt: The scope and character of the cattle mutilations do indicate that some sort of secret organization
+      is responsible.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
+      title: Jacques Vallée
+    provenance_chain:
+      origin_kind: speaker
+      origin: Jacques Vallée
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
+        title: Jacques Vallée
+        slug: jacques-vallee
+      - node_id: 5c2e2a53-46e8-479b-88a3-74aee6f4f350
+        title: Cattle mutilations phenomenon
+        slug: cattle-mutilations-phenomenon
+    date: null
+    date_end: null
+    location_in_record: ch13:44791-44894
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: f0690aba-c78b-47f4-bb2f-f94ea04d55ee
+      record_title: 'Messengers of Deception: UFO Contacts and Cults'
+      record_date: '0101-01-01'
+      record_reference: null
+      content_hash: sha256:0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5ac9fd3168
+      friendly_name: 0101-01-01-ebook-messengers-of-deception-ufo-contacts-and-cults
+  - claim_id: 94b46ce2-0847-4615-91c1-4f0215ba8c58
+    claim_hash: 421c699e29f84ad9bcc11b92a38898372df43b1105dc4decda91db13078bfb63
+    content: Jacques Vallée proposes that the UFO phenomenon itself is being manipulated through fabrication of UFO reports
+      and related stories, including livestock mutilations used as terrorist elements.
+    original_excerpt: The second element deals with manipulation of the phenomenon itself by fabrication of UFO reports and
+      of related stories, including such terrorist elements as livestock mutilations.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
+      title: Jacques Vallée
+    provenance_chain:
+      origin_kind: speaker
+      origin: Jacques Vallée
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
+        title: Jacques Vallée
+        slug: jacques-vallee
+      - node_id: 5c2e2a53-46e8-479b-88a3-74aee6f4f350
+        title: Cattle mutilations phenomenon
+        slug: cattle-mutilations-phenomenon
+    date: null
+    date_end: null
+    location_in_record: ch13:48175-48344
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: f0690aba-c78b-47f4-bb2f-f94ea04d55ee
+      record_title: 'Messengers of Deception: UFO Contacts and Cults'
+      record_date: '0101-01-01'
+      record_reference: null
+      content_hash: sha256:0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5ac9fd3168
+      friendly_name: 0101-01-01-ebook-messengers-of-deception-ufo-contacts-and-cults
+  - claim_id: ecbde2c6-1c2c-4168-b7bf-575ee323fd8c
+    claim_hash: d01b8a827188a4214211cb37d272684f8b3dc80dad7192cdb58d73095d2be463
+    content: A Holstein calf was found mutilated on 1975-10-28 near Middleton, Idaho.
+    original_excerpt: This Holstein calf was found mutilated on October 28, 1975, near Middleton, Idaho.
+    claim_type: observation
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: local law-enforcement authorities
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 5c2e2a53-46e8-479b-88a3-74aee6f4f350
+        title: Cattle mutilations phenomenon
+        slug: cattle-mutilations-phenomenon
+    date: '1975-10-28'
+    date_end: null
+    location_in_record: ch13:77-153
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: f0690aba-c78b-47f4-bb2f-f94ea04d55ee
+      record_title: 'Messengers of Deception: UFO Contacts and Cults'
+      record_date: '0101-01-01'
+      record_reference: null
+      content_hash: sha256:0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5ac9fd3168
+      friendly_name: 0101-01-01-ebook-messengers-of-deception-ufo-contacts-and-cults
+  - claim_id: 8c9774f8-a4a5-48b0-8294-59664d203e22
+    claim_hash: f023f15ef1e5abd0189789c91990d5e3c428d54d8b7657ad92bd5bbc64142938
+    content: Jacques Vallée considers the cattle mutilations phenomenon to remain unsolved.
+    original_excerpt: The cattle mutilations phenomenon remains unsolved.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
+      title: Jacques Vallée
+    provenance_chain:
+      origin_kind: speaker
+      origin: Jacques Vallée
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
+        title: Jacques Vallée
+        slug: jacques-vallee
+      - node_id: 5c2e2a53-46e8-479b-88a3-74aee6f4f350
+        title: Cattle mutilations phenomenon
+        slug: cattle-mutilations-phenomenon
+    date: null
+    date_end: null
+    location_in_record: ch3:835-877
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: f0690aba-c78b-47f4-bb2f-f94ea04d55ee
+      record_title: 'Messengers of Deception: UFO Contacts and Cults'
+      record_date: '0101-01-01'
+      record_reference: null
+      content_hash: sha256:0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5ac9fd3168
+      friendly_name: 0101-01-01-ebook-messengers-of-deception-ufo-contacts-and-cults
+  - claim_id: 7073e995-ff6a-4531-ad69-99aa774346d8
+    claim_hash: 743df09e63642e00f02fab75e3bdacb8b1c55185cd08d6cc931759fbf20dd017
+    content: The National Enquirer's panel of UFO case investigators, which includes representatives of leading civilian UFO
+      research groups, decided that the link between UFOs and cattle mutilations was an idea whose time had not yet come.
+    original_excerpt: The panel of investigators which the magazine maintains to review UFO cases – a committee on which leading
+      civilian research groups are represented – has decided that the link between UFOs and the mutilators was an idea whose
+      time had not yet come.
+    claim_type: administrative
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: named
+      origin: National Enquirer
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 4d967e52-6eba-4adf-ae00-3f652e082e46
+        title: National Enquirer
+        slug: national-enquirer
+      - node_id: 5c2e2a53-46e8-479b-88a3-74aee6f4f350
+        title: Cattle mutilations phenomenon
+        slug: cattle-mutilations-phenomenon
+      - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
+        title: Unidentified Flying Object (UFO)
+        slug: unidentified-flying-object-ufo
+    date: null
+    date_end: null
+    location_in_record: ch4:39246-39485
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: f0690aba-c78b-47f4-bb2f-f94ea04d55ee
+      record_title: 'Messengers of Deception: UFO Contacts and Cults'
+      record_date: '0101-01-01'
+      record_reference: null
+      content_hash: sha256:0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5ac9fd3168
+      friendly_name: 0101-01-01-ebook-messengers-of-deception-ufo-contacts-and-cults
+  - claim_id: a57fc9a7-91b1-4ccd-83b3-da58d65731c8
+    claim_hash: 2aa79db308f71f64a26ec6ae1cdf953df58be7b93ee6883d3a7bb6f3cca6d0e7
+    content: Mick Cook found a cow on his cattle station that had an ear and part of a jowl surgically removed with no blood
+      on the hide.
+    original_excerpt: She also had a part of a joel removed and one ear. Basically, where it's been cut, there's no blood
+      on the hide, no blood on anything.
+    claim_type: observation
+    attestation: first_hand
+    speaker:
+      node_id: 1bbb9362-ef9b-4176-b2bf-3c2febf997aa
+      title: Mick Cook
+    provenance_chain:
+      origin_kind: speaker
+      origin: Mick Cook
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 1bbb9362-ef9b-4176-b2bf-3c2febf997aa
+        title: Mick Cook
+        slug: mick-cook
+      - node_id: 5c2e2a53-46e8-479b-88a3-74aee6f4f350
+        title: Cattle mutilations phenomenon
+        slug: cattle-mutilations-phenomenon
+    date: null
+    date_end: null
+    location_in_record: 01:14:00.4-01:14:10.4
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 15beeb8e-9f96-4d4b-be24-5ed581d4d43a
+      record_title: The UFO Phenomenon | Full Documentary 2021 | 7NEWS Spotlight
+      record_date: '2021-09-06'
+      record_reference: https://www.youtube.com/watch?v=sm6AL5lA4Zc
+      content_hash: sha256:957f730c1d53cbfc4f87d1db882a409506030e2e49338b530c4ab643a7603660
+      friendly_name: 2021-09-06-video-the-ufo-phenomenon-full-documentary-2021-7news-spotlight.v2
+  - claim_id: 71ad7620-81e3-4d41-a477-cb017867ce1d
+    claim_hash: f3ed9de973be7105defe7e2ee98f6f2eff6a175111dea0570679b5b93e662ade
+    content: Mick Cook does not know of anyone able to remove a cow's body part without blood everywhere.
+    original_excerpt: And I don't know anybody that's been able to remove a cow's either without blood everywhere.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 1bbb9362-ef9b-4176-b2bf-3c2febf997aa
+      title: Mick Cook
+    provenance_chain:
+      origin_kind: speaker
+      origin: Mick Cook
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 1bbb9362-ef9b-4176-b2bf-3c2febf997aa
+        title: Mick Cook
+        slug: mick-cook
+      - node_id: 5c2e2a53-46e8-479b-88a3-74aee6f4f350
+        title: Cattle mutilations phenomenon
+        slug: cattle-mutilations-phenomenon
+    date: null
+    date_end: null
+    location_in_record: 01:14:10.8-01:14:16.4
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 15beeb8e-9f96-4d4b-be24-5ed581d4d43a
+      record_title: The UFO Phenomenon | Full Documentary 2021 | 7NEWS Spotlight
+      record_date: '2021-09-06'
+      record_reference: https://www.youtube.com/watch?v=sm6AL5lA4Zc
+      content_hash: sha256:957f730c1d53cbfc4f87d1db882a409506030e2e49338b530c4ab643a7603660
+      friendly_name: 2021-09-06-video-the-ufo-phenomenon-full-documentary-2021-7news-spotlight.v2
+  - claim_id: 2eeea421-e956-43bc-8c5a-600904d9cdc0
+    claim_hash: dcf41a8cdcde88ee58bb079d1cd4b0ea90dcb713ce4caa9c16386f484f377a92
+    content: Mick Cook observed no struggle marks at the location where his mutilated cow died.
+    original_excerpt: And not only that, there's no struggle where the cow died.
+    claim_type: observation
+    attestation: first_hand
+    speaker:
+      node_id: 1bbb9362-ef9b-4176-b2bf-3c2febf997aa
+      title: Mick Cook
+    provenance_chain:
+      origin_kind: speaker
+      origin: Mick Cook
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 1bbb9362-ef9b-4176-b2bf-3c2febf997aa
+        title: Mick Cook
+        slug: mick-cook
+      - node_id: 5c2e2a53-46e8-479b-88a3-74aee6f4f350
+        title: Cattle mutilations phenomenon
+        slug: cattle-mutilations-phenomenon
+    date: null
+    date_end: null
+    location_in_record: 01:14:18.0-01:14:20.0
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 15beeb8e-9f96-4d4b-be24-5ed581d4d43a
+      record_title: The UFO Phenomenon | Full Documentary 2021 | 7NEWS Spotlight
+      record_date: '2021-09-06'
+      record_reference: https://www.youtube.com/watch?v=sm6AL5lA4Zc
+      content_hash: sha256:957f730c1d53cbfc4f87d1db882a409506030e2e49338b530c4ab643a7603660
+      friendly_name: 2021-09-06-video-the-ufo-phenomenon-full-documentary-2021-7news-spotlight.v2
+  - claim_id: 7eb6876c-fa34-40c7-8681-6026fc630a56
+    claim_hash: ca4beadfc2c8b350b22b12371b1c3e0105ec4e7a3d9f8149755a15c4de7f9850
+    content: Judy Cook considers the absence of struggle marks or blood at the site of the cattle mutilation to be unexplained.
+    original_excerpt: There's nothing. It's just neatly put down there and no struggle marks, no blood, nothing.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 3ad152ce-8517-4ea6-921f-b3fc1115a68b
+      title: Judy Cook
+    provenance_chain:
+      origin_kind: speaker
+      origin: Judy Cook
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 3ad152ce-8517-4ea6-921f-b3fc1115a68b
+        title: Judy Cook
+        slug: judy-cook
+      - node_id: 5c2e2a53-46e8-479b-88a3-74aee6f4f350
+        title: Cattle mutilations phenomenon
+        slug: cattle-mutilations-phenomenon
+    date: null
+    date_end: null
+    location_in_record: 01:14:21.4-01:14:25.4
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 15beeb8e-9f96-4d4b-be24-5ed581d4d43a
+      record_title: The UFO Phenomenon | Full Documentary 2021 | 7NEWS Spotlight
+      record_date: '2021-09-06'
+      record_reference: https://www.youtube.com/watch?v=sm6AL5lA4Zc
+      content_hash: sha256:957f730c1d53cbfc4f87d1db882a409506030e2e49338b530c4ab643a7603660
+      friendly_name: 2021-09-06-video-the-ufo-phenomenon-full-documentary-2021-7news-spotlight.v2
+  - claim_id: 385a3b7b-a2c1-452d-9617-d162d6acaf17
+    claim_hash: 9cc8ac01bfdfc9a1fcb97547d9cd34d7246763e46e217e48a53fe064409629b7
+    content: Since Mick Cook's initial discovery, 15 of Mick and Judy Cook's cattle have died in similar mutilation circumstances,
+      with the most recent death occurring approximately eight months before this account.
+    original_excerpt: Since then, they say 15 of their cattle have died in similar ways. The most recent was eight months
+      ago.
+    claim_type: testimony
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: named
+      origin: Mick Cook and Judy Cook
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 1bbb9362-ef9b-4176-b2bf-3c2febf997aa
+        title: Mick Cook
+        slug: mick-cook
+      - node_id: 3ad152ce-8517-4ea6-921f-b3fc1115a68b
+        title: Judy Cook
+        slug: judy-cook
+      - node_id: 5c2e2a53-46e8-479b-88a3-74aee6f4f350
+        title: Cattle mutilations phenomenon
+        slug: cattle-mutilations-phenomenon
+    date: null
+    date_end: null
+    location_in_record: 01:14:27.2-01:14:34.2
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 15beeb8e-9f96-4d4b-be24-5ed581d4d43a
+      record_title: The UFO Phenomenon | Full Documentary 2021 | 7NEWS Spotlight
+      record_date: '2021-09-06'
+      record_reference: https://www.youtube.com/watch?v=sm6AL5lA4Zc
+      content_hash: sha256:957f730c1d53cbfc4f87d1db882a409506030e2e49338b530c4ab643a7603660
+      friendly_name: 2021-09-06-video-the-ufo-phenomenon-full-documentary-2021-7news-spotlight.v2
+  - claim_id: 843877a9-378b-4bf5-b13c-cdd8fcc113ed
+    claim_hash: e98971a777f750bae5515e9b51a9e23aa6f237935ca9fc7f302f6b80be0e751a
+    content: Judy Cook considers the cattle mutilations on her property to be alien in origin.
+    original_excerpt: It's alien to us.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 3ad152ce-8517-4ea6-921f-b3fc1115a68b
+      title: Judy Cook
+    provenance_chain:
+      origin_kind: speaker
+      origin: Judy Cook
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 3ad152ce-8517-4ea6-921f-b3fc1115a68b
+        title: Judy Cook
+        slug: judy-cook
+      - node_id: 5c2e2a53-46e8-479b-88a3-74aee6f4f350
+        title: Cattle mutilations phenomenon
+        slug: cattle-mutilations-phenomenon
+    date: null
+    date_end: null
+    location_in_record: 01:14:40.7-01:14:41.8
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 15beeb8e-9f96-4d4b-be24-5ed581d4d43a
+      record_title: The UFO Phenomenon | Full Documentary 2021 | 7NEWS Spotlight
+      record_date: '2021-09-06'
+      record_reference: https://www.youtube.com/watch?v=sm6AL5lA4Zc
+      content_hash: sha256:957f730c1d53cbfc4f87d1db882a409506030e2e49338b530c4ab643a7603660
+      friendly_name: 2021-09-06-video-the-ufo-phenomenon-full-documentary-2021-7news-spotlight.v2
+  - claim_id: e124a23e-64ec-42b4-b2d7-0b561158cad9
+    claim_hash: 8b33783470bb9ea4274c365673099a31a91fca9a5bcdd7d68f615345fe8ddb76
+    content: During research for a book, the Federal Bureau of Investigation (FBI) told an interviewer that there are 10,000
+      unsolved cattle mutilation cases across the United States.
+    original_excerpt: The reality is it's real because the United States FBI, when I was doing my book research, they told
+      me that there are 10,000 unsolved cattle mutilation cases across the United States, across a swathe of the United States.
+    claim_type: hearsay
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: named
+      origin: Federal Bureau of Investigation (FBI)
+      relay:
+        - an interviewer's book research
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 5c2e2a53-46e8-479b-88a3-74aee6f4f350
+        title: Cattle mutilations phenomenon
+        slug: cattle-mutilations-phenomenon
+      - node_id: c430b2b2-7900-45c9-9882-98ac4ab14e88
+        title: Federal Bureau of Investigation (FBI)
+        slug: federal-bureau-of-investigation-fbi
+    date: null
+    date_end: null
+    location_in_record: 01:15:50.9-01:16:08.1
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 15beeb8e-9f96-4d4b-be24-5ed581d4d43a
+      record_title: The UFO Phenomenon | Full Documentary 2021 | 7NEWS Spotlight
+      record_date: '2021-09-06'
+      record_reference: https://www.youtube.com/watch?v=sm6AL5lA4Zc
+      content_hash: sha256:957f730c1d53cbfc4f87d1db882a409506030e2e49338b530c4ab643a7603660
+      friendly_name: 2021-09-06-video-the-ufo-phenomenon-full-documentary-2021-7news-spotlight.v2
+  - claim_id: 81546d16-a356-408a-9ed0-aec26d06ba2a
+    claim_hash: f2efb174dbc3bf470f438fe9457c0ff85b1d3ab5c5f1694c8fc088d76bee979c
+    content: The cattle mutilation phenomenon became such a significant issue that congressmen demanded investigations by
+      federal law enforcement.
+    original_excerpt: It became such a big issue that congressmen were demanding investigations by federal law enforcement.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: narration
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 5c2e2a53-46e8-479b-88a3-74aee6f4f350
+        title: Cattle mutilations phenomenon
+        slug: cattle-mutilations-phenomenon
+    date: null
+    date_end: null
+    location_in_record: 01:16:09.1-01:16:14.1
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 15beeb8e-9f96-4d4b-be24-5ed581d4d43a
+      record_title: The UFO Phenomenon | Full Documentary 2021 | 7NEWS Spotlight
+      record_date: '2021-09-06'
+      record_reference: https://www.youtube.com/watch?v=sm6AL5lA4Zc
+      content_hash: sha256:957f730c1d53cbfc4f87d1db882a409506030e2e49338b530c4ab643a7603660
+      friendly_name: 2021-09-06-video-the-ufo-phenomenon-full-documentary-2021-7news-spotlight.v2
+  - claim_id: af591b06-dec2-462f-9c66-cacfeaf2a708
+    claim_hash: 05a005d11a273bc081ad5ac28006acab5a4d74d1154dae4f5a8cbb9048a59084
+    content: Federal law enforcement in the United States was never able to properly explain what happened to the animals
+      in the cattle mutilation cases.
+    original_excerpt: and they never got an answer. They were never able to properly explain what happened to these poor animals.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: narration
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 5c2e2a53-46e8-479b-88a3-74aee6f4f350
+        title: Cattle mutilations phenomenon
+        slug: cattle-mutilations-phenomenon
+    date: null
+    date_end: null
+    location_in_record: 01:16:15.1-01:16:20.5
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 15beeb8e-9f96-4d4b-be24-5ed581d4d43a
+      record_title: The UFO Phenomenon | Full Documentary 2021 | 7NEWS Spotlight
+      record_date: '2021-09-06'
+      record_reference: https://www.youtube.com/watch?v=sm6AL5lA4Zc
+      content_hash: sha256:957f730c1d53cbfc4f87d1db882a409506030e2e49338b530c4ab643a7603660
+      friendly_name: 2021-09-06-video-the-ufo-phenomenon-full-documentary-2021-7news-spotlight.v2
+  - claim_id: 69dbb9a5-0a45-4707-9b7d-fcd1f0afcb99
+    claim_hash: ba653e30abfdbbbf7e4183333a7baed3f75a993fdfc6f01994dfd54fc386afbf
+    content: There are people across Australia who have experienced strange, surgically precise cuts on animals that died
+      in unexplained circumstances.
+    original_excerpt: We started investigating them and there are people all over Australia who've experienced strange, surgically
+      precise cuts to their animals that died in the most horrendous circumstances.
+    claim_type: observation
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: narration
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 5c2e2a53-46e8-479b-88a3-74aee6f4f350
+        title: Cattle mutilations phenomenon
+        slug: cattle-mutilations-phenomenon
+    date: null
+    date_end: null
+    location_in_record: 01:17:02.7-01:17:14.7
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 15beeb8e-9f96-4d4b-be24-5ed581d4d43a
+      record_title: The UFO Phenomenon | Full Documentary 2021 | 7NEWS Spotlight
+      record_date: '2021-09-06'
+      record_reference: https://www.youtube.com/watch?v=sm6AL5lA4Zc
+      content_hash: sha256:957f730c1d53cbfc4f87d1db882a409506030e2e49338b530c4ab643a7603660
+      friendly_name: 2021-09-06-video-the-ufo-phenomenon-full-documentary-2021-7news-spotlight.v2
+  - claim_id: 82a8f6b8-29f2-4129-9773-36104e9c6a23
+    claim_hash: bf23acf8e3137610ef9ead3d085045b6705d2ec3495834a2e3c26ec3477bb09b
+    content: The blood of cattle contains abundant copper.
+    original_excerpt: The blood of cattle contains abundant copper
+    claim_type: observation
+    attestation: first_hand
+    speaker:
+      node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+      title: Whitley Strieber
+    provenance_chain:
+      origin_kind: speaker
+      origin: Whitley Strieber
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 5c2e2a53-46e8-479b-88a3-74aee6f4f350
+        title: Cattle mutilations phenomenon
+        slug: cattle-mutilations-phenomenon
+    date: null
+    date_end: null
+    location_in_record: ch11:32786-32824
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 759e8d7b-a820-4e00-bdc3-9aebf9e4b1b1
+      record_title: The Fourth Mind
+      record_date: '2025-01-15'
+      record_reference: null
+      content_hash: sha256:524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008e17102e7
+      friendly_name: 2025-01-15-ebook-the-fourth-mind
+  - claim_id: 13efa03f-f78c-42df-9f5f-bb05eb13f048
+    claim_hash: d620fd804456f1ced20d8278087f4892e3a0d86cb5dce5e86ed24a3bfcaf4df1
+    content: Whitley Strieber considers human beings to have an even higher copper content in their blood than cattle, but
+      believes the visitors avoid humans and instead use livestock.
+    original_excerpt: Human beings have an even higher copper content in their blood, but our visitors are no fools. They
+      leave us alone and make use, instead, of our own “prey” species—our livestock.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+      title: Whitley Strieber
+    provenance_chain:
+      origin_kind: speaker
+      origin: Whitley Strieber
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+        title: Whitley Strieber
+        slug: whitley-strieber
+      - node_id: 5c2e2a53-46e8-479b-88a3-74aee6f4f350
+        title: Cattle mutilations phenomenon
+        slug: cattle-mutilations-phenomenon
+    date: null
+    date_end: null
+    location_in_record: ch11:33043-33211
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 759e8d7b-a820-4e00-bdc3-9aebf9e4b1b1
+      record_title: The Fourth Mind
+      record_date: '2025-01-15'
+      record_reference: null
+      content_hash: sha256:524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008e17102e7
+      friendly_name: 2025-01-15-ebook-the-fourth-mind
+  - claim_id: d1122f12-9118-469a-8b49-6dd254981182
+    claim_hash: 983b773e9b37b47e74728d504b1803ccfec88ea7f0798553d7fc03ac0c900312
+    content: A lack of blood around the carcass is a common but not universal feature of cattle mutilations.
+    original_excerpt: This lack of blood is a common but not universal feature of cattle mutilations.
+    claim_type: observation
+    attestation: first_hand
+    speaker:
+      node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+      title: Whitley Strieber
+    provenance_chain:
+      origin_kind: speaker
+      origin: Whitley Strieber
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 5c2e2a53-46e8-479b-88a3-74aee6f4f350
+        title: Cattle mutilations phenomenon
+        slug: cattle-mutilations-phenomenon
+    date: null
+    date_end: null
+    location_in_record: ch11:33954-34021
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 759e8d7b-a820-4e00-bdc3-9aebf9e4b1b1
+      record_title: The Fourth Mind
+      record_date: '2025-01-15'
+      record_reference: null
+      content_hash: sha256:524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008e17102e7
+      friendly_name: 2025-01-15-ebook-the-fourth-mind
+  - claim_id: 22b37e95-5bbb-4647-a0a6-2181c5f60e64
+    claim_hash: 4c60138c8c1345b60b03796b8fe3793db841f221870267345775f9cb1dbd3556
+    content: Bovine blood is rich in copper.
+    original_excerpt: Bovine blood is rich in copper
+    claim_type: observation
+    attestation: first_hand
+    speaker:
+      node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+      title: Whitley Strieber
+    provenance_chain:
+      origin_kind: speaker
+      origin: Whitley Strieber
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 5c2e2a53-46e8-479b-88a3-74aee6f4f350
+        title: Cattle mutilations phenomenon
+        slug: cattle-mutilations-phenomenon
+    date: null
+    date_end: null
+    location_in_record: ch11:34034-34058
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 759e8d7b-a820-4e00-bdc3-9aebf9e4b1b1
+      record_title: The Fourth Mind
+      record_date: '2025-01-15'
+      record_reference: null
+      content_hash: sha256:524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008e17102e7
+      friendly_name: 2025-01-15-ebook-the-fourth-mind
+  - claim_id: 10e5c16d-199c-4ce0-9543-e4f717efdb9b
+    claim_hash: 58331e7da5c00c2b10968a1ea3c733145ef628df2fe203289510006dca8ffa00
+    content: In cattle mutilation cases, the liver is often found missing, and the liver has a high copper content.
+    original_excerpt: The liver, also often found to be missing, has a high copper content.
+    claim_type: observation
+    attestation: first_hand
+    speaker:
+      node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+      title: Whitley Strieber
+    provenance_chain:
+      origin_kind: speaker
+      origin: Whitley Strieber
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 5c2e2a53-46e8-479b-88a3-74aee6f4f350
+        title: Cattle mutilations phenomenon
+        slug: cattle-mutilations-phenomenon
+    date: null
+    date_end: null
+    location_in_record: ch11:34211-34272
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 759e8d7b-a820-4e00-bdc3-9aebf9e4b1b1
+      record_title: The Fourth Mind
+      record_date: '2025-01-15'
+      record_reference: null
+      content_hash: sha256:524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008e17102e7
+      friendly_name: 2025-01-15-ebook-the-fourth-mind

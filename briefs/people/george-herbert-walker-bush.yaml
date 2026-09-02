@@ -1,0 +1,1576 @@
+schema: anomalica/brief/1
+brief_hash: fbe59308de5ba2763499cdc81681a21644ba5a05062653011c47569cd80a3ef4
+page:
+  kind: entity
+  node_id: dba2f206-7088-4fe9-9fc5-d7228a9149f4
+  node_type: person
+  title: George Herbert Walker Bush
+  slug: george-herbert-walker-bush
+  claim_count: 34
+  claim_count_total: 34
+generated:
+  graph_version: '2026-09-01T10:10:49.863545+00:00'
+size:
+  claims: 34
+  tokens_estimated: 10597
+  sized_against: 1050000
+publication:
+  status: published
+  note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
+    transcripts are gated elsewhere.
+belonging:
+  verified: 0
+  suspect_excluded: 0
+  unreviewed: 34
+related_nodes:
+  - node_id: 666178f1-932b-4413-b63b-ffd33ea7b12b
+    title: Space Exploration Initiative (SEI)
+    node_type: project
+    slug: space-exploration-initiative-sei
+    shared_claims: 8
+  - node_id: 898c410a-7789-4762-b6dd-1139ced89658
+    title: Jimmy Carter
+    node_type: person
+    slug: jimmy-carter
+    shared_claims: 6
+  - node_id: 38b84d4a-96df-4684-bb46-f6f64f392add
+    title: Central Intelligence Agency (CIA)
+    node_type: organisation
+    slug: central-intelligence-agency-cia
+    shared_claims: 5
+  - node_id: 3e0f36b1-57e0-486f-aeeb-1e20da75efd9
+    title: Boeing
+    node_type: organisation
+    slug: boeing
+    shared_claims: 4
+  - node_id: 9ab76638-a596-48f1-9a58-9c9251cc97f3
+    title: Eric Davis
+    node_type: person
+    slug: eric-davis
+    shared_claims: 4
+  - node_id: e1650a1d-8feb-4841-a403-0d71e176d2d9
+    title: Richard C. Hoagland
+    node_type: person
+    slug: richard-c-hoagland
+    shared_claims: 4
+  - node_id: e3f2ec33-f1bb-49ec-bb41-80e0a406e50b
+    title: 1989 White House Mars Exploration Program poster (Boeing)
+    node_type: document
+    slug: 1989-white-house-mars-exploration-program-poster-boeing
+    shared_claims: 3
+  - node_id: 1c74a06c-1b3f-43b4-b54c-3f6b44fd8192
+    title: Ronald Reagan
+    node_type: person
+    slug: ronald-reagan
+    shared_claims: 3
+  - node_id: f3489d01-4ce5-4fa0-98a2-dc665f9b2557
+    title: Crossfire (CNN programme)
+    node_type: document
+    slug: crossfire-cnn-programme
+    shared_claims: 2
+  - node_id: fe68fb63-77de-4c67-8021-e4b9e520ed6a
+    title: Daniel Sheehan
+    node_type: person
+    slug: daniel-sheehan
+    shared_claims: 2
+  - node_id: afdd3185-961e-4f76-8730-ed7e32f271f8
+    title: Holloman Air Force Base
+    node_type: place
+    slug: holloman-air-force-base
+    shared_claims: 2
+  - node_id: a4e23c30-3b72-4690-b855-906d80d76a17
+    title: John Kleinberg
+    node_type: person
+    slug: john-kleinberg
+    shared_claims: 2
+  - node_id: 0f346560-30b4-403a-aac9-e61980a99abb
+    title: Lyndon B. Johnson
+    node_type: person
+    slug: lyndon-b-johnson
+    shared_claims: 2
+  - node_id: e2cd842a-1c1c-4bb8-8586-b9ef6d2cd4e3
+    title: National Space Council
+    node_type: organisation
+    slug: national-space-council
+    shared_claims: 2
+  - node_id: fcc1cf0f-1065-4075-86ae-599c85dad09f
+    title: Paul Hudson
+    node_type: person
+    slug: paul-hudson
+    shared_claims: 2
+  - node_id: 3690087e-5e65-4693-8b72-f144d9963dd5
+    title: Richard Nixon
+    node_type: person
+    slug: richard-nixon
+    shared_claims: 2
+  - node_id: fb23b4a4-2e7e-4432-8347-0832eaeca2da
+    title: Saddam Hussein
+    node_type: person
+    slug: saddam-hussein
+    shared_claims: 2
+  - node_id: b148851c-20a3-4587-bfc0-110023059275
+    title: Space Exploration Initiative announcement, 1989-07-20
+    node_type: event
+    slug: 1989-07-20-space-exploration-initiative-announcement
+    shared_claims: 2
+  - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
+    title: Unidentified Flying Object (UFO)
+    node_type: topic
+    slug: unidentified-flying-object-ufo
+    shared_claims: 2
+  - node_id: 4fb65b2c-296a-493d-bbc7-65e4b763c1f0
+    title: United States Congress
+    node_type: organisation
+    slug: united-states-congress
+    shared_claims: 2
+  - node_id: 86002941-4b26-48e5-8629-0d332b938ca9
+    title: Apollo 11
+    node_type: project
+    slug: apollo-11
+    shared_claims: 1
+  - node_id: 507f01bf-31d9-4cbe-85b7-8ca02a950653
+    title: Apollo 11 Moon landing, 1969-07-20
+    node_type: event
+    slug: 1969-07-20-apollo-11-moon-landing
+    shared_claims: 1
+  - node_id: 65058869-076f-47d0-92ea-f8daf08b94cf
+    title: Barack Obama
+    node_type: person
+    slug: barack-obama
+    shared_claims: 1
+  - node_id: 459eb5cf-ea76-4cad-9421-a726261cd3a2
+    title: Bill Clinton
+    node_type: person
+    slug: bill-clinton
+    shared_claims: 1
+  - node_id: ef50574e-39d2-42c0-ac5c-1123ef6a9beb
+    title: Congressional Research Service (CRS)
+    node_type: organisation
+    slug: congressional-research-service-crs
+    shared_claims: 1
+  - node_id: a0d39101-3bd7-4dad-b5b2-f1ce51e2da68
+    title: Dan Quayle
+    node_type: person
+    slug: dan-quayle
+    shared_claims: 1
+  - node_id: 4f980f8f-1048-4232-9e77-8faeaaf6a63f
+    title: Dave Bara
+    node_type: person
+    slug: dave-bara
+    shared_claims: 1
+  - node_id: 816c219b-6372-49f6-9579-5eeabb9a7474
+    title: Donald Trump
+    node_type: person
+    slug: donald-trump
+    shared_claims: 1
+  - node_id: f175f6db-6c31-49bc-9ca8-0e4487fd7d39
+    title: Dwight D. Eisenhower
+    node_type: person
+    slug: dwight-d-eisenhower
+    shared_claims: 1
+  - node_id: 01901068-df09-4d46-8c2d-aca4db216069
+    title: Gulf War
+    node_type: event
+    slug: gulf-war
+    shared_claims: 1
+claims:
+  - claim_id: 56808a48-8b55-442b-b946-dc9caec6e600
+    claim_hash: 287258f377e08c33414fec6d2d58d376c3560d36020dc5097494fd1aa6f753d2
+    content: The USS Dunbar educational project received a nomination for a Point of Light award from the Point of Light Foundation
+      of President George Herbert Walker Bush.
+    original_excerpt: This educational project, with the able contributions of both national corporations and local community
+      volunteers (including Keith Morgan, of ABC News, and his entire family), eventually received a nomination for a “Point
+      of Light” award from President Bush’s (41) own Point of Light Foundation.
+    claim_type: administrative
+    attestation: first_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: speaker
+      origin: Richard C. Hoagland
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 9b42c06f-0a41-4f13-bc8a-a81867e9dad0
+        title: USS Dunbar (educational project)
+        slug: uss-dunbar-educational-project
+      - node_id: d65910ef-2553-4a6e-a430-4a1f4e6c3b9e
+        title: Point of Light Foundation
+        slug: point-of-light-foundation
+      - node_id: dba2f206-7088-4fe9-9fc5-d7228a9149f4
+        title: George Herbert Walker Bush
+        slug: george-herbert-walker-bush
+    date: null
+    date_end: null
+    location_in_record: ch10:11257-11542
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+      record_title: Dark Mission
+      record_date: '2010-07-22'
+      record_reference: null
+      content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+      friendly_name: null
+  - claim_id: e8f83580-d53b-4e9d-882d-6e31f0421b36
+    claim_hash: 311099498cba9ce80fb941b6449a145a2e1f25f8adb21fbece87ba7c663dee0c
+    content: John Klineberg said that Richard C. Hoagland is the man who managed to convince the President to state that a
+      return to Mars is one of the nation's goals.
+    original_excerpt: '"Richard Hoagland is [also] the man who managed to convince the President to state that a return to
+      Mars is one of our goals..."'
+    claim_type: testimony
+    attestation: second_hand
+    speaker:
+      node_id: a4e23c30-3b72-4690-b855-906d80d76a17
+      title: John Kleinberg
+    provenance_chain:
+      origin_kind: named
+      origin: John Klineberg
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: a4e23c30-3b72-4690-b855-906d80d76a17
+        title: John Kleinberg
+        slug: john-kleinberg
+      - node_id: dba2f206-7088-4fe9-9fc5-d7228a9149f4
+        title: George Herbert Walker Bush
+        slug: george-herbert-walker-bush
+      - node_id: e1650a1d-8feb-4841-a403-0d71e176d2d9
+        title: Richard C. Hoagland
+        slug: richard-c-hoagland
+    date: '1990-03-20'
+    date_end: null
+    location_in_record: ch19:11627-11745
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+      record_title: Dark Mission
+      record_date: '2010-07-22'
+      record_reference: null
+      content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+      friendly_name: null
+  - claim_id: 154436ee-e289-4bb7-872c-f8942c6083a5
+    claim_hash: f32d52a2838fbb28edcc04f9cc4b957e90fd8163ae80b09bcf106b767827ada5
+    content: George Herbert Walker Bush proposed the Space Exploration Initiative in 1989, which met resistance over its large
+      budgetary requirements and was subsequently killed by his successor, President Bill Clinton.
+    original_excerpt: This was a considerably more modest proposal than the so-called "Space Exploration Initiative" proposed
+      by his father, President George H. W. Bush, in 1989. That program had met with resistance over its large budgetary requirements
+      and was subsequently killed by his successor, President Clinton.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 666178f1-932b-4413-b63b-ffd33ea7b12b
+        title: Space Exploration Initiative (SEI)
+        slug: space-exploration-initiative-sei
+      - node_id: 6ab4de8a-5e1e-4fd4-a5bb-6a96ff234ad4
+        title: William J. Clinton
+        slug: william-j-clinton
+      - node_id: dba2f206-7088-4fe9-9fc5-d7228a9149f4
+        title: George Herbert Walker Bush
+        slug: george-herbert-walker-bush
+    date: '1989'
+    date_end: null
+    location_in_record: ch19:1259-1547
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+      record_title: Dark Mission
+      record_date: '2010-07-22'
+      record_reference: null
+      content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+      friendly_name: null
+  - claim_id: 2909aefe-359c-4b38-b2c0-4882c3ccfab6
+    claim_hash: a9b20c52237429269055f676e254c53adb332bcbeefed1c64db3dfbb4f8230e1
+    content: In 1997, Dave Bara, the brother of one of the authors of Dark Mission, was walking through a vacated office area
+      of the Boeing Company in Renton, Washington, and spotted a poster from the 1989 White House Mars Exploration Program.
+    original_excerpt: In 1997, the brother of one of the authors, Dave Bara, was walking through an office area of the Boeing
+      Company in Renton, Washington, which had just been vacated by a relocated organization. On the wall of an abandoned
+      cubicle, he spotted a poster that he instantly knew to be highly significant. It was from the 1989 White House Mars
+      Exploration Program proposed by then-President Bush.
+    claim_type: observation
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: named
+      origin: Dave Bara
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 34f6fb01-4897-42df-9ce9-b7a964e7275f
+        title: USA, Washington, Renton, Boeing Company office
+        slug: washington-renton-boeing-company-office-usa
+      - node_id: 3e0f36b1-57e0-486f-aeeb-1e20da75efd9
+        title: Boeing
+        slug: boeing
+      - node_id: 4f980f8f-1048-4232-9e77-8faeaaf6a63f
+        title: Dave Bara
+        slug: dave-bara
+      - node_id: dba2f206-7088-4fe9-9fc5-d7228a9149f4
+        title: George Herbert Walker Bush
+        slug: george-herbert-walker-bush
+      - node_id: e3f2ec33-f1bb-49ec-bb41-80e0a406e50b
+        title: 1989 White House Mars Exploration Program poster (Boeing)
+        slug: 1989-white-house-mars-exploration-program-poster-boeing
+    date: '1997'
+    date_end: null
+    location_in_record: ch19:13738-14121
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+      record_title: Dark Mission
+      record_date: '2010-07-22'
+      record_reference: null
+      content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+      friendly_name: null
+  - claim_id: 60ec1598-800b-44e1-bc86-8aece0e224a9
+    claim_hash: f37c4fb899c40096981cf61acacd65a7c0240806c73880297c203c7611da0618
+    content: The 1989 White House Mars Exploration Program poster includes a quote from President George Herbert Walker Bush
+      explaining 'Why Mars?'
+    original_excerpt: To ensure that there is no doubt that this was connected to the President's "space vision," the poster
+      also includes a quote from President Bush explaining "Why Mars?"
+    claim_type: observation
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: dba2f206-7088-4fe9-9fc5-d7228a9149f4
+        title: George Herbert Walker Bush
+        slug: george-herbert-walker-bush
+      - node_id: e3f2ec33-f1bb-49ec-bb41-80e0a406e50b
+        title: 1989 White House Mars Exploration Program poster (Boeing)
+        slug: 1989-white-house-mars-exploration-program-poster-boeing
+    date: '1989'
+    date_end: null
+    location_in_record: ch19:14585-14746
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+      record_title: Dark Mission
+      record_date: '2010-07-22'
+      record_reference: null
+      content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+      friendly_name: null
+  - claim_id: 40b2596a-583a-48f5-b670-63d68f65b0dc
+    claim_hash: 755b480121288b5edea7d63e340e0ef1197e16ff4705c2340dabee4234f2e28a
+    content: Richard C. Hoagland considers the Crossfire invitation, the Klineberg statement quoting the President, and the
+      1989 White House Mars Exploration Program poster as three separate lines of evidence that George Herbert Walker Bush
+      was familiar with and inspired by Hoagland's work.
+    original_excerpt: It was clear to us that these three separate lines of evidence—the Crossfire invitation, the Klineberg
+      statement quoting the President and the Program poster—all pointed to Bush 41 being not only familiar with Hoagland's
+      work, but inspired by it.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: e1650a1d-8feb-4841-a403-0d71e176d2d9
+      title: Richard C. Hoagland
+    provenance_chain:
+      origin_kind: speaker
+      origin: Richard C. Hoagland
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: a4e23c30-3b72-4690-b855-906d80d76a17
+        title: John Kleinberg
+        slug: john-kleinberg
+      - node_id: dba2f206-7088-4fe9-9fc5-d7228a9149f4
+        title: George Herbert Walker Bush
+        slug: george-herbert-walker-bush
+      - node_id: e1650a1d-8feb-4841-a403-0d71e176d2d9
+        title: Richard C. Hoagland
+        slug: richard-c-hoagland
+      - node_id: e3f2ec33-f1bb-49ec-bb41-80e0a406e50b
+        title: 1989 White House Mars Exploration Program poster (Boeing)
+        slug: 1989-white-house-mars-exploration-program-poster-boeing
+      - node_id: f3489d01-4ce5-4fa0-98a2-dc665f9b2557
+        title: Crossfire (CNN programme)
+        slug: crossfire-cnn-programme
+    date: '1989'
+    date_end: null
+    location_in_record: ch19:15233-15480
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+      record_title: Dark Mission
+      record_date: '2010-07-22'
+      record_reference: null
+      content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+      friendly_name: null
+  - claim_id: 893ac4e2-3881-4d8e-babc-6389fe995291
+    claim_hash: 499b7325843fe636a7a7423e183cd8626777f8b3f28e2fd2dfd4d0da7a9325f7
+    content: Ann Richards attained national prominence at the 1988 Democratic National Convention by mocking George Herbert
+      Walker Bush.
+    original_excerpt: Richards had attained national prominence at the 1988 Democratic National Convention by mocking his
+      father, the first President Bush.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 1623e9f3-5ac3-4e67-86d0-ceb1072826dc
+        title: Richard Dolan
+        slug: richard-dolan
+      - node_id: dba2f206-7088-4fe9-9fc5-d7228a9149f4
+        title: George Herbert Walker Bush
+        slug: george-herbert-walker-bush
+    date: '1988'
+    date_end: null
+    location_in_record: ch19:2360-2488
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+      record_title: Dark Mission
+      record_date: '2010-07-22'
+      record_reference: null
+      content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+      friendly_name: null
+  - claim_id: ef0b9118-75b2-44cd-bc84-a0ba46d4e0af
+    claim_hash: eb751568b86d49443a5a9ff73c2527c793c69ab7663b406735f57c5b997176fd
+    content: Saddam Hussein was left in power by George Herbert Walker Bush at the conclusion of the 1991 Gulf War.
+    original_excerpt: After being left in power by Bush 41 at the conclusion of the first Gulf War, Saddam had sponsored and
+      financed several attacks against the United States, including the first World Trade Center bombing.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 01901068-df09-4d46-8c2d-aca4db216069
+        title: Gulf War
+        slug: gulf-war
+      - node_id: dba2f206-7088-4fe9-9fc5-d7228a9149f4
+        title: George Herbert Walker Bush
+        slug: george-herbert-walker-bush
+      - node_id: fb23b4a4-2e7e-4432-8347-0832eaeca2da
+        title: Saddam Hussein
+        slug: saddam-hussein
+    date: '1991'
+    date_end: null
+    location_in_record: ch19:5895-6089
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+      record_title: Dark Mission
+      record_date: '2010-07-22'
+      record_reference: null
+      content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+      friendly_name: null
+  - claim_id: 45c48113-cf28-4eb2-aa00-23911e59dc9f
+    claim_hash: 562dceec860f1c02b9f025afcfdd9ad3552ccf0309036fb2e03e3336dd10b028
+    content: Saddam Hussein attempted to assassinate George Herbert Walker Bush in 1993.
+    original_excerpt: He had attempted to assassinate Bush 41 in 1993, and George W. Bush was determined to take him down.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: dba2f206-7088-4fe9-9fc5-d7228a9149f4
+        title: George Herbert Walker Bush
+        slug: george-herbert-walker-bush
+      - node_id: fb23b4a4-2e7e-4432-8347-0832eaeca2da
+        title: Saddam Hussein
+        slug: saddam-hussein
+    date: '1993'
+    date_end: null
+    location_in_record: ch19:6191-6286
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+      record_title: Dark Mission
+      record_date: '2010-07-22'
+      record_reference: null
+      content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+      friendly_name: null
+  - claim_id: 4c309d43-ba28-435d-b7f2-06aad7d58df0
+    claim_hash: 3b0a271aa3960523986f87c819a703ac403f864f1c1257ca6e522c6911873e09
+    content: The Space Exploration Initiative was the first major policy initiative of George Herbert Walker Bush's presidency.
+    original_excerpt: In fact, it was the first major policy initiative of his Presidency.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: e1650a1d-8feb-4841-a403-0d71e176d2d9
+      title: Richard C. Hoagland
+    provenance_chain:
+      origin_kind: speaker
+      origin: Richard C. Hoagland
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 666178f1-932b-4413-b63b-ffd33ea7b12b
+        title: Space Exploration Initiative (SEI)
+        slug: space-exploration-initiative-sei
+      - node_id: dba2f206-7088-4fe9-9fc5-d7228a9149f4
+        title: George Herbert Walker Bush
+        slug: george-herbert-walker-bush
+    date: '1989'
+    date_end: null
+    location_in_record: ch19:6861-6920
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+      record_title: Dark Mission
+      record_date: '2010-07-22'
+      record_reference: null
+      content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+      friendly_name: null
+  - claim_id: 91115471-7416-4499-92d4-6a07ccaa88f7
+    claim_hash: 70ee242602eeb3c0add0945e3404ebeaed7b03fe319cc8b85fa7102bb172f921
+    content: George Herbert Walker Bush announced the Space Exploration Initiative on the twentieth anniversary of the Apollo
+      11 Moon landing.
+    original_excerpt: George Herbert Walker Bush announced the Space Exploration Initiative on the occasion of the Twentieth
+      Anniversary of the Apollo 11 Manned Moon Landing.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 507f01bf-31d9-4cbe-85b7-8ca02a950653
+        title: Apollo 11 Moon landing, 1969-07-20
+        slug: 1969-07-20-apollo-11-moon-landing
+      - node_id: 666178f1-932b-4413-b63b-ffd33ea7b12b
+        title: Space Exploration Initiative (SEI)
+        slug: space-exploration-initiative-sei
+      - node_id: b148851c-20a3-4587-bfc0-110023059275
+        title: Space Exploration Initiative announcement, 1989-07-20
+        slug: 1989-07-20-space-exploration-initiative-announcement
+      - node_id: dba2f206-7088-4fe9-9fc5-d7228a9149f4
+        title: George Herbert Walker Bush
+        slug: george-herbert-walker-bush
+    date: '1989-07-20'
+    date_end: null
+    location_in_record: ch19:6933-7077
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+      record_title: Dark Mission
+      record_date: '2010-07-22'
+      record_reference: null
+      content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+      friendly_name: null
+  - claim_id: efb195b6-4088-4f42-9dd9-64877ee4b565
+    claim_hash: 5b1b7a229ff28bed3866fdc7cc126a945fe082b08485ec65bf9d2822c6fb0bb9
+    content: George Herbert Walker Bush's announcement of the Space Exploration Initiative was made at a ceremony at the Smithsonian
+      National Air and Space Museum honouring the Apollo 11 crew.
+    original_excerpt: His announcement at a Smithsonian Air and Space Museum ceremony honoring the Apollo 11 crew caught many
+      by surprise, since as late as a few days before the ceremony reporters were convinced that Bush would not be announcing
+      any new space programs.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 86002941-4b26-48e5-8629-0d332b938ca9
+        title: Apollo 11
+        slug: apollo-11
+      - node_id: b148851c-20a3-4587-bfc0-110023059275
+        title: Space Exploration Initiative announcement, 1989-07-20
+        slug: 1989-07-20-space-exploration-initiative-announcement
+      - node_id: bdf66f02-144a-4bb2-ab94-f368e4dc2dd6
+        title: National Air and Space Museum
+        slug: national-air-and-space-museum
+      - node_id: dba2f206-7088-4fe9-9fc5-d7228a9149f4
+        title: George Herbert Walker Bush
+        slug: george-herbert-walker-bush
+    date: '1989-07-20'
+    date_end: null
+    location_in_record: ch19:7482-7720
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+      record_title: Dark Mission
+      record_date: '2010-07-22'
+      record_reference: null
+      content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+      friendly_name: null
+  - claim_id: 79d03200-43fb-4d95-9733-dfafd29831ac
+    claim_hash: c2e0219f6eae5b261882d78ee055f49bb9083141364c4746b6dceb2925db7be3
+    content: George Herbert Walker Bush re-created the National Space Council, an agency that had once been led by Lyndon
+      B. Johnson when he was Vice President.
+    original_excerpt: First, he re-created the National Space Council, an agency that had once been led by Lyndon Johnson
+      when he was Vice President.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 0f346560-30b4-403a-aac9-e61980a99abb
+        title: Lyndon B. Johnson
+        slug: lyndon-b-johnson
+      - node_id: dba2f206-7088-4fe9-9fc5-d7228a9149f4
+        title: George Herbert Walker Bush
+        slug: george-herbert-walker-bush
+      - node_id: e2cd842a-1c1c-4bb8-8586-b9ef6d2cd4e3
+        title: National Space Council
+        slug: national-space-council
+    date: '1989'
+    date_end: null
+    location_in_record: ch19:7888-8005
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+      record_title: Dark Mission
+      record_date: '2010-07-22'
+      record_reference: null
+      content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+      friendly_name: null
+  - claim_id: 3899e78a-ad2a-4192-854b-546a09b0716d
+    claim_hash: 62612c656f2b5b80905a1bc0c0cfbfb0871cdfd553e82324f7e1ea5e92742f6b
+    content: George Herbert Walker Bush appointed his Vice President, Dan Quayle, to head the National Space Council and make
+      recommendations on executing the Space Exploration Initiative.
+    original_excerpt: Bush appointed his own Vice President, the much-maligned Dan Quayle, to head the Council and make recommendations
+      on executing the President's vision.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 666178f1-932b-4413-b63b-ffd33ea7b12b
+        title: Space Exploration Initiative (SEI)
+        slug: space-exploration-initiative-sei
+      - node_id: a0d39101-3bd7-4dad-b5b2-f1ce51e2da68
+        title: Dan Quayle
+        slug: dan-quayle
+      - node_id: dba2f206-7088-4fe9-9fc5-d7228a9149f4
+        title: George Herbert Walker Bush
+        slug: george-herbert-walker-bush
+      - node_id: e2cd842a-1c1c-4bb8-8586-b9ef6d2cd4e3
+        title: National Space Council
+        slug: national-space-council
+    date: '1989'
+    date_end: null
+    location_in_record: ch19:8016-8159
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+      record_title: Dark Mission
+      record_date: '2010-07-22'
+      record_reference: null
+      content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+      friendly_name: null
+  - claim_id: 7c812ec1-8d6a-4674-a2bc-afe2a1847c4f
+    claim_hash: 3242bf5ada88eca7a6fecf671f6b24e3abcf4ebc34472e809ddee06820a31324
+    content: George Herbert Walker Bush overtly stated on at least one occasion that the work of Richard C. Hoagland and the
+      Mars Mission was a primary impetus behind his Space Exploration Initiative programme.
+    original_excerpt: the first President Bush overtly stated on at least one occasion his view that the work of Richard C.
+      Hoagland (and the then-"Mars Mission") was a primary impetus behind his SEI program.
+    claim_type: testimony
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: named
+      origin: George Herbert Walker Bush
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 666178f1-932b-4413-b63b-ffd33ea7b12b
+        title: Space Exploration Initiative (SEI)
+        slug: space-exploration-initiative-sei
+      - node_id: dba2f206-7088-4fe9-9fc5-d7228a9149f4
+        title: George Herbert Walker Bush
+        slug: george-herbert-walker-bush
+      - node_id: e1650a1d-8feb-4841-a403-0d71e176d2d9
+        title: Richard C. Hoagland
+        slug: richard-c-hoagland
+    date: '1989'
+    date_end: null
+    location_in_record: ch19:9378-9557
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+      record_title: Dark Mission
+      record_date: '2010-07-22'
+      record_reference: null
+      content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+      friendly_name: null
+  - claim_id: 379a9cbf-3e32-4da6-8d4a-5e219e363fe3
+    claim_hash: bde8a9025f0012d44009f4c16f2ca6774f85be4a6ef7a73a37c84faea5c04067
+    content: The producers of the political programme Crossfire specifically wanted Richard C. Hoagland, of all possible Mars
+      experts, to present the case for Mars following George Herbert Walker Bush's surprise announcement.
+    original_excerpt: The producers of the political program Crossfire specifically wanted Hoagland, of all the possible NASA
+      Mars experts they could have called upon, to present "the case for Mars," following the President's surprise announcement
+      on the steps of the National Air and Space Museum earlier that day.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 324c90e2-454f-4dc3-910e-7f9a409b5c67
+        title: Hoagland CNN Crossfire invitation, 1989-07-20
+        slug: 1989-07-20-hoagland-cnn-crossfire-invitation
+      - node_id: dba2f206-7088-4fe9-9fc5-d7228a9149f4
+        title: George Herbert Walker Bush
+        slug: george-herbert-walker-bush
+      - node_id: e1650a1d-8feb-4841-a403-0d71e176d2d9
+        title: Richard C. Hoagland
+        slug: richard-c-hoagland
+      - node_id: f3489d01-4ce5-4fa0-98a2-dc665f9b2557
+        title: Crossfire (CNN programme)
+        slug: crossfire-cnn-programme
+    date: '1989-07-20'
+    date_end: null
+    location_in_record: ch19:9706-9997
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+      record_title: Dark Mission
+      record_date: '2010-07-22'
+      record_reference: null
+      content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+      friendly_name: null
+  - claim_id: aecd8401-7413-4d30-8623-6318d3cc8d1c
+    claim_hash: 7eca3d91d388c6967140cf6505bb1ec71d395757036aa0d96bdc60f9b52665c2
+    content: The commission for the Boeing Mars poster painting came through President George Herbert Walker Bush's office
+      via Boeing Aerospace, around 1985, while Paul Hudson was working for Boeing.
+    original_excerpt: The commission for the painting came through the President's [George Herbert Walker Bush] office via
+      Boeing Aerospace, with whom I was working for at the time (1985 or so?)
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: fcc1cf0f-1065-4075-86ae-599c85dad09f
+      title: Paul Hudson
+    provenance_chain:
+      origin_kind: speaker
+      origin: Paul Hudson
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 3e0f36b1-57e0-486f-aeeb-1e20da75efd9
+        title: Boeing
+        slug: boeing
+      - node_id: dba2f206-7088-4fe9-9fc5-d7228a9149f4
+        title: George Herbert Walker Bush
+        slug: george-herbert-walker-bush
+      - node_id: fcc1cf0f-1065-4075-86ae-599c85dad09f
+        title: Paul Hudson
+        slug: paul-hudson
+    date: '1985'
+    date_end: null
+    location_in_record: ch5:25600-25768
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+      record_title: Dark Mission
+      record_date: '2010-07-22'
+      record_reference: null
+      content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+      friendly_name: null
+  - claim_id: cafa3c5e-6c3b-4633-bea7-875bd82e3571
+    claim_hash: 39ac91f9489b7d7a9a5fd5a5ef75479a82a06918d7e6eeaec526fc737177c045
+    content: George Herbert Walker Bush was pushing hard for the Space Exploration Initiative with little success in the United
+      States Congress.
+    original_excerpt: The President was pushing hard for the Initiative with little luck
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: fcc1cf0f-1065-4075-86ae-599c85dad09f
+      title: Paul Hudson
+    provenance_chain:
+      origin_kind: speaker
+      origin: Paul Hudson
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 4fb65b2c-296a-493d-bbc7-65e4b763c1f0
+        title: United States Congress
+        slug: united-states-congress
+      - node_id: 666178f1-932b-4413-b63b-ffd33ea7b12b
+        title: Space Exploration Initiative (SEI)
+        slug: space-exploration-initiative-sei
+      - node_id: dba2f206-7088-4fe9-9fc5-d7228a9149f4
+        title: George Herbert Walker Bush
+        slug: george-herbert-walker-bush
+    date: null
+    date_end: null
+    location_in_record: ch5:25773-25835
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+      record_title: Dark Mission
+      record_date: '2010-07-22'
+      record_reference: null
+      content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+      friendly_name: null
+  - claim_id: f26048e5-5c9d-486d-be3b-44fb3fbe214e
+    claim_hash: bac975d16499e8fa987087945d8ab97eb480306b00be1d2984be6bcd0fef1aec
+    content: George Herbert Walker Bush thought an image was needed to help sell the Space Exploration Initiative programme
+      to the American people and to the United States Congress.
+    original_excerpt: thought that what was needed was an image to help sell the program to the American people as well as
+      Congress
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: fcc1cf0f-1065-4075-86ae-599c85dad09f
+      title: Paul Hudson
+    provenance_chain:
+      origin_kind: speaker
+      origin: Paul Hudson
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 4fb65b2c-296a-493d-bbc7-65e4b763c1f0
+        title: United States Congress
+        slug: united-states-congress
+      - node_id: 666178f1-932b-4413-b63b-ffd33ea7b12b
+        title: Space Exploration Initiative (SEI)
+        slug: space-exploration-initiative-sei
+      - node_id: dba2f206-7088-4fe9-9fc5-d7228a9149f4
+        title: George Herbert Walker Bush
+        slug: george-herbert-walker-bush
+    date: null
+    date_end: null
+    location_in_record: ch5:26056-26157
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+      record_title: Dark Mission
+      record_date: '2010-07-22'
+      record_reference: null
+      content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+      friendly_name: null
+  - claim_id: 138a8b7f-6450-4586-8c68-5cb9a7aa960e
+    claim_hash: 37cc28b25cb80137c0bdc56a22e08171b582e436d931436538637feaea316a56
+    content: George Herbert Walker Bush's science advisers suggested it would not be prudent to sell the Space Exploration
+      Initiative programme with an image suggesting there was once intelligent life on Mars.
+    original_excerpt: his science advisers suggested it would not be prudent to attempt a selling of the program with an image
+      that suggested there was once intelligent life on Mars
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: fcc1cf0f-1065-4075-86ae-599c85dad09f
+      title: Paul Hudson
+    provenance_chain:
+      origin_kind: speaker
+      origin: Paul Hudson
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 666178f1-932b-4413-b63b-ffd33ea7b12b
+        title: Space Exploration Initiative (SEI)
+        slug: space-exploration-initiative-sei
+      - node_id: dba2f206-7088-4fe9-9fc5-d7228a9149f4
+        title: George Herbert Walker Bush
+        slug: george-herbert-walker-bush
+    date: null
+    date_end: null
+    location_in_record: ch5:26808-26963
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+      record_title: Dark Mission
+      record_date: '2010-07-22'
+      record_reference: null
+      content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+      friendly_name: null
+  - claim_id: a0cb7975-108d-4fd3-a886-8356d22b57ff
+    claim_hash: 8a6ed8af3f7f1becee6dbea9c3c50914abded958fa812c98b3df4123e53cb52e
+    content: Paul Hudson noted that the Boeing Mars poster image has been used to bolster claims of George Herbert Walker
+      Bush's Nazi heritage and Masonic membership, alleging he wanted to send men to Mars to return the Brotherhood to the
+      old stomping grounds of the Aryan race.
+    original_excerpt: it has come to my attention that the image is used to bolster claims of the President's Nazi heritage,
+      and that, being both a Mason and a Nazi, the only reason he wanted to send men to Mars was to return the Brotherhood
+      back to the old stomping grounds of the Aryan race
+    claim_type: hearsay
+    attestation: second_hand
+    speaker:
+      node_id: fcc1cf0f-1065-4075-86ae-599c85dad09f
+      title: Paul Hudson
+    provenance_chain:
+      origin_kind: anonymous
+      origin: unnamed theorists who claim the Boeing Mars poster evidences George Herbert Walker Bush's Nazi heritage and
+        Masonic membership
+      relay:
+        - Paul Hudson
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 3e0f36b1-57e0-486f-aeeb-1e20da75efd9
+        title: Boeing
+        slug: boeing
+      - node_id: dba2f206-7088-4fe9-9fc5-d7228a9149f4
+        title: George Herbert Walker Bush
+        slug: george-herbert-walker-bush
+    date: null
+    date_end: null
+    location_in_record: ch5:27577-27843
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+      record_title: Dark Mission
+      record_date: '2010-07-22'
+      record_reference: null
+      content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+      friendly_name: null
+  - claim_id: 48ab2b11-9178-4edc-bb7f-11f841573dd9
+    claim_hash: bcd21f6b8928f18d32db742afcfc9ce49419f5c5d9f90bf37b75f31d977d2fc4
+    content: Mike Bara observed that Paul Hudson seemed anxious to dispel any notion that the George Herbert Walker Bush administration
+      supported his Boeing Mars poster work, even though Hudson submitted a detailed proposal before starting the painting.
+    original_excerpt: He seemed anxious to dispel any notion that the Bush administration supported his work, even though
+      he submitted a detailed proposal before starting the actual painting.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 6c762b97-ffec-4ab2-9c1d-989f0566d586
+      title: Mike Bara
+    provenance_chain:
+      origin_kind: speaker
+      origin: Mike Bara
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 3e0f36b1-57e0-486f-aeeb-1e20da75efd9
+        title: Boeing
+        slug: boeing
+      - node_id: 6c762b97-ffec-4ab2-9c1d-989f0566d586
+        title: Mike Bara
+        slug: mike-bara
+      - node_id: dba2f206-7088-4fe9-9fc5-d7228a9149f4
+        title: George Herbert Walker Bush
+        slug: george-herbert-walker-bush
+      - node_id: fcc1cf0f-1065-4075-86ae-599c85dad09f
+        title: Paul Hudson
+        slug: paul-hudson
+    date: null
+    date_end: null
+    location_in_record: ch5:28960-29120
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+      record_title: Dark Mission
+      record_date: '2010-07-22'
+      record_reference: null
+      content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+      friendly_name: null
+  - claim_id: bc4e12e5-674d-4ed6-ab78-35db0dd5d819
+    claim_hash: 5ff7f668c943e5d744910da17cb9d5e9fc5ace4793bf9c73c6bcc410686b3c8a
+    content: According to Daniel Sheehan, before Jimmy Carter's January inauguration, Carter sought a meeting with the then
+      CIA Director George Herbert Walker Bush.
+    original_excerpt: According to celebrated civil rights attorney Daniel Sheehan, before Carter's January inauguration he
+      sought a meeting with the then Director of the CIA, George Herbert Walker Bush, later the 41st president, but the CIA
+      Director flatly refused to give the president-elect a briefing on UFOs telling Carter he had no 'need to know'.
+    claim_type: hearsay
+    attestation: second_hand
+    speaker:
+      node_id: fe68fb63-77de-4c67-8021-e4b9e520ed6a
+      title: Daniel Sheehan
+    provenance_chain:
+      origin_kind: named
+      origin: Daniel Sheehan
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 38b84d4a-96df-4684-bb46-f6f64f392add
+        title: Central Intelligence Agency (CIA)
+        slug: central-intelligence-agency-cia
+      - node_id: 898c410a-7789-4762-b6dd-1139ced89658
+        title: Jimmy Carter
+        slug: jimmy-carter
+      - node_id: dba2f206-7088-4fe9-9fc5-d7228a9149f4
+        title: George Herbert Walker Bush
+        slug: george-herbert-walker-bush
+      - node_id: fe68fb63-77de-4c67-8021-e4b9e520ed6a
+        title: Daniel Sheehan
+        slug: daniel-sheehan
+    date: null
+    date_end: null
+    location_in_record: ch11:15229-15554
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 34b671a6-bd89-42f0-afdb-9f75e72a17f1
+    claim_hash: e350b249cb7ca2c92e6abe7ffcc058c573610365a3c9eab5ee8e9f9c6ce93a90
+    content: According to Daniel Sheehan, CIA Director George Herbert Walker Bush flatly refused to give president-elect Jimmy
+      Carter a briefing on UFOs, telling him he had no 'need to know'.
+    original_excerpt: but the CIA Director flatly refused to give the president-elect a briefing on UFOs telling Carter he
+      had no 'need to know'.
+    claim_type: hearsay
+    attestation: second_hand
+    speaker:
+      node_id: fe68fb63-77de-4c67-8021-e4b9e520ed6a
+      title: Daniel Sheehan
+    provenance_chain:
+      origin_kind: named
+      origin: Daniel Sheehan
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 38b84d4a-96df-4684-bb46-f6f64f392add
+        title: Central Intelligence Agency (CIA)
+        slug: central-intelligence-agency-cia
+      - node_id: 898c410a-7789-4762-b6dd-1139ced89658
+        title: Jimmy Carter
+        slug: jimmy-carter
+      - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
+        title: Unidentified Flying Object (UFO)
+        slug: unidentified-flying-object-ufo
+      - node_id: dba2f206-7088-4fe9-9fc5-d7228a9149f4
+        title: George Herbert Walker Bush
+        slug: george-herbert-walker-bush
+      - node_id: fe68fb63-77de-4c67-8021-e4b9e520ed6a
+        title: Daniel Sheehan
+        slug: daniel-sheehan
+    date: null
+    date_end: null
+    location_in_record: ch11:15437-15554
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 8cb06a6c-7d0a-4660-b635-9f09b569f714
+    claim_hash: 5250e22a949adfbc2c30ed6e3cdfe1ab287332f82003e48a120cfd8aff9b7420
+    content: George Herbert Walker Bush's term as CIA Director ended just before Jimmy Carter's inauguration in January 1977.
+    original_excerpt: (Bush's term as CIA Director ended just before the inauguration in January 1977.)
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: narration
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 38b84d4a-96df-4684-bb46-f6f64f392add
+        title: Central Intelligence Agency (CIA)
+        slug: central-intelligence-agency-cia
+      - node_id: 898c410a-7789-4762-b6dd-1139ced89658
+        title: Jimmy Carter
+        slug: jimmy-carter
+      - node_id: dba2f206-7088-4fe9-9fc5-d7228a9149f4
+        title: George Herbert Walker Bush
+        slug: george-herbert-walker-bush
+    date: 1977-01
+    date_end: null
+    location_in_record: ch11:15562-15636
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: f88beec4-39ca-4842-8255-1a52b419f62e
+    claim_hash: f768349295518b01e07ed849d888840e80f63d522af883457133bc948f59d5c5
+    content: George Herbert Walker Bush suggested incoming president Jimmy Carter instead seek a UFO briefing through the
+      Congressional Research Service.
+    original_excerpt: Bush suggested the incoming president instead seek a briefing through the Congressional Research Service.
+    claim_type: hearsay
+    attestation: second_hand
+    speaker:
+      node_id: fe68fb63-77de-4c67-8021-e4b9e520ed6a
+      title: Daniel Sheehan
+    provenance_chain:
+      origin_kind: named
+      origin: Daniel Sheehan
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 898c410a-7789-4762-b6dd-1139ced89658
+        title: Jimmy Carter
+        slug: jimmy-carter
+      - node_id: dba2f206-7088-4fe9-9fc5-d7228a9149f4
+        title: George Herbert Walker Bush
+        slug: george-herbert-walker-bush
+      - node_id: ef50574e-39d2-42c0-ac5c-1123ef6a9beb
+        title: Congressional Research Service (CRS)
+        slug: congressional-research-service-crs
+    date: null
+    date_end: null
+    location_in_record: ch11:15643-15740
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: ebd1ae38-dd77-469e-a408-2d86f274bff8
+    claim_hash: 1cc3aa7bd2a6c9098fb26382cd93b95133c4bc4e77deb9cf96c78d5c50dbb93f
+    content: 'Luis Elizondo believes the following US presidents were briefed in some way on UAP: Harry Truman, Dwight Eisenhower,
+      John F. Kennedy, Lyndon B. Johnson, Jimmy Carter, Ronald Reagan, George H. W. Bush, and Donald Trump.'
+    original_excerpt: 'As far as I know, the following US presidents were briefed in some way: Truman, Eisenhower, JFK, LBJ,
+      Carter, Reagan, George H. W. Bush, and Trump.'
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+      title: Luis Elizondo
+    provenance_chain:
+      origin_kind: speaker
+      origin: Lue Elizondo
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 0f346560-30b4-403a-aac9-e61980a99abb
+        title: Lyndon B. Johnson
+        slug: lyndon-b-johnson
+      - node_id: 1c74a06c-1b3f-43b4-b54c-3f6b44fd8192
+        title: Ronald Reagan
+        slug: ronald-reagan
+      - node_id: 589d7469-f87f-4da5-afa8-cabca7be6818
+        title: Harry S. Truman
+        slug: harry-s-truman
+      - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
+        title: Unidentified Anomalous Phenomena (UAP)
+        slug: unidentified-anomalous-phenomena-uap
+      - node_id: 816c219b-6372-49f6-9579-5eeabb9a7474
+        title: Donald Trump
+        slug: donald-trump
+      - node_id: 898c410a-7789-4762-b6dd-1139ced89658
+        title: Jimmy Carter
+        slug: jimmy-carter
+      - node_id: c3c90829-7c63-4c5d-8ba1-e96d65aa1a03
+        title: John Fitzgerald Kennedy
+        slug: john-fitzgerald-kennedy
+      - node_id: dba2f206-7088-4fe9-9fc5-d7228a9149f4
+        title: George Herbert Walker Bush
+        slug: george-herbert-walker-bush
+      - node_id: f175f6db-6c31-49bc-9ca8-0e4487fd7d39
+        title: Dwight D. Eisenhower
+        slug: dwight-d-eisenhower
+    date: null
+    date_end: null
+    location_in_record: ch31:16189-16330
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  - claim_id: 6f2a1e99-6aea-47ba-a333-0b80c431e466
+    claim_hash: cbb56793f0f90ce2d56c8c18cf96905ace8bf8245bc8b49a1d1e69489408f95d
+    content: Eric Davis is a physicist who has asserted on the record that he was briefed by former United States president
+      George H. W. Bush about mantis beings, reptilian beings and Nordic aliens.
+    original_excerpt: Dr. Eric Davis, a hugely respected physicist who is making an assertion that he has been briefed by
+      a former president, Herbert Walker Bush, about... Mantillians. Reptilians. Nordics.
+    claim_type: hearsay
+    attestation: second_hand
+    speaker:
+      node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+      title: Ross Coulthart
+    provenance_chain:
+      origin_kind: named
+      origin: Eric Davis
+      relay:
+        - Ross Coulthart
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 17a564b3-f5bb-4f8b-a24a-6117966b5522
+        title: Mantid beings
+        slug: mantid-beings
+      - node_id: 9ab76638-a596-48f1-9a58-9c9251cc97f3
+        title: Eric Davis
+        slug: eric-davis
+      - node_id: b093fc3e-21e3-4b01-8313-56bc63efdea7
+        title: Reptilian beings
+        slug: reptilian-beings
+      - node_id: d0dafe60-c978-431d-8ef8-95e44e97aedf
+        title: Nordic alien (type)
+        slug: nordic-alien-type
+      - node_id: dba2f206-7088-4fe9-9fc5-d7228a9149f4
+        title: George Herbert Walker Bush
+        slug: george-herbert-walker-bush
+      - node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+        title: Ross Coulthart
+        slug: ross-coulthart
+    date: null
+    date_end: null
+    location_in_record: 01:10:07.1-01:10:20.8
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: fd845823-8784-462c-a981-4775525b6f84
+      record_title: The DANGEROUS Truth About UFOs - Ross Coulthart | DEBRIEFED ep. 76
+      record_date: '2026-02-20'
+      record_reference: https://www.youtube.com/watch?v=idBryc0eWww
+      content_hash: sha256:73be106d406f6d35a063a894e8384e7da0918eb8597d2107a9e3653becca2bdc
+      friendly_name: null
+  - claim_id: 8fabc812-ae0a-482e-a855-19452dfece7b
+    claim_hash: 36a2cbfc7373bf32d3b2014ef23f6087af170d59c555ef4abd86bb417454468d
+    content: Eric Davis has spoken about a conversation he had with George H. W. Bush, in which Bush told him that when he
+      became director of the Central Intelligence Agency (CIA) he was briefed about a landing at Holloman Air Force Base.
+    original_excerpt: we know that Dr. Eric Davis has recently spoken about a conversation he had with President Bush senior.
+      And he says that Bush told him that when he became director of the he was briefed about a landing at Holloman
+    claim_type: hearsay
+    attestation: second_hand
+    speaker:
+      node_id: c16c86b6-7526-46cd-bcd8-7f74283ebf2c
+      title: Jonathan Caplan
+    provenance_chain:
+      origin_kind: named
+      origin: George H. W. Bush
+      relay:
+        - Eric Davis
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 38b84d4a-96df-4684-bb46-f6f64f392add
+        title: Central Intelligence Agency (CIA)
+        slug: central-intelligence-agency-cia
+      - node_id: 9ab76638-a596-48f1-9a58-9c9251cc97f3
+        title: Eric Davis
+        slug: eric-davis
+      - node_id: afdd3185-961e-4f76-8730-ed7e32f271f8
+        title: Holloman Air Force Base
+        slug: holloman-air-force-base
+      - node_id: dba2f206-7088-4fe9-9fc5-d7228a9149f4
+        title: George Herbert Walker Bush
+        slug: george-herbert-walker-bush
+    date: null
+    date_end: null
+    location_in_record: 00:47:46.8-00:48:10.6
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: d17e43f2-fe6c-4a2d-824d-fd379e6891c5
+      record_title: Watergate, the JFK assassination and a UFO secret at the center of it all | Reality Check
+      record_date: '2026-06-18'
+      record_reference: https://www.youtube.com/watch?v=PeULVsP-jEQ
+      content_hash: sha256:997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc07360cb2ab1
+      friendly_name: null
+  - claim_id: 2d224c01-9ae7-46b7-8bff-7afba88d2802
+    claim_hash: 1a554bdd7b8d83d895ac19f16ae819cd9dea2b327b92aeedfa77175ea508711c
+    content: According to George H. W. Bush's account relayed to Eric Davis, the Holloman Air Force Base landing briefing
+      did not involve the president but involved a number of uniformed officers and CIA officers, and a non-human individual
+      of Nordic appearance emerged from a craft and met with these individuals at Holloman.
+    original_excerpt: he was briefed about a landing at Holloman, not with the president, but with a number of uniformed officers
+      and CIA officers that had taken place and that a non-human individual of Nordic appearance had emerged from a craft
+      and had met with these individuals at Holloman.
+    claim_type: hearsay
+    attestation: third_hand
+    speaker:
+      node_id: c16c86b6-7526-46cd-bcd8-7f74283ebf2c
+      title: Jonathan Caplan
+    provenance_chain:
+      origin_kind: named
+      origin: George H. W. Bush
+      relay:
+        - Eric Davis
+        - Jonathan Caplan
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 38b84d4a-96df-4684-bb46-f6f64f392add
+        title: Central Intelligence Agency (CIA)
+        slug: central-intelligence-agency-cia
+      - node_id: 9ab76638-a596-48f1-9a58-9c9251cc97f3
+        title: Eric Davis
+        slug: eric-davis
+      - node_id: afdd3185-961e-4f76-8730-ed7e32f271f8
+        title: Holloman Air Force Base
+        slug: holloman-air-force-base
+      - node_id: dba2f206-7088-4fe9-9fc5-d7228a9149f4
+        title: George Herbert Walker Bush
+        slug: george-herbert-walker-bush
+    date: null
+    date_end: null
+    location_in_record: 00:48:07.6-00:48:32.6
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: d17e43f2-fe6c-4a2d-824d-fd379e6891c5
+      record_title: Watergate, the JFK assassination and a UFO secret at the center of it all | Reality Check
+      record_date: '2026-06-18'
+      record_reference: https://www.youtube.com/watch?v=PeULVsP-jEQ
+      content_hash: sha256:997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc07360cb2ab1
+      friendly_name: null
+  - claim_id: ebd334d5-900e-4b7c-b710-586f005075a2
+    claim_hash: 450d27ee38dbe91a11aa1c70a99943655591eb8f5fd9f1d34eccfc86d738f700
+    content: Jonathan Caplan has never been persuaded that any US president attended a meeting with non-human beings, but
+      believes what George H. W. Bush told Eric Davis is likely true.
+    original_excerpt: i have never been persuaded myself that any president has had a meeting but i do believe um that uh
+      what bush um told eric davis is likely to be true
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: c16c86b6-7526-46cd-bcd8-7f74283ebf2c
+      title: Jonathan Caplan
+    provenance_chain:
+      origin_kind: speaker
+      origin: Jonathan Caplan
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 9ab76638-a596-48f1-9a58-9c9251cc97f3
+        title: Eric Davis
+        slug: eric-davis
+      - node_id: c16c86b6-7526-46cd-bcd8-7f74283ebf2c
+        title: Jonathan Caplan
+        slug: jonathan-caplan
+      - node_id: dba2f206-7088-4fe9-9fc5-d7228a9149f4
+        title: George Herbert Walker Bush
+        slug: george-herbert-walker-bush
+    date: null
+    date_end: null
+    location_in_record: 00:48:33.9-00:48:46.6
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: d17e43f2-fe6c-4a2d-824d-fd379e6891c5
+      record_title: Watergate, the JFK assassination and a UFO secret at the center of it all | Reality Check
+      record_date: '2026-06-18'
+      record_reference: https://www.youtube.com/watch?v=PeULVsP-jEQ
+      content_hash: sha256:997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc07360cb2ab1
+      friendly_name: null
+  - claim_id: e72be749-9bc0-467a-b699-0ac87d60a67f
+    claim_hash: ebf79e7533930844d7c53d1df28be912339ea25f89960afa3321b1e111b9e048
+    content: Richard Nixon, Jimmy Carter, Ronald Reagan and George H. W. Bush all appear to have received briefings on the
+      UFO subject, according to Jason Samosa's research.
+    original_excerpt: Nixon, Carter, Reagan, Bush, all seem to have received briefings.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: ff0a86b8-8f3c-4291-94ed-c6d303875ce8
+      title: Jason Samosa
+    provenance_chain:
+      origin_kind: speaker
+      origin: Jason Samosa
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 1c74a06c-1b3f-43b4-b54c-3f6b44fd8192
+        title: Ronald Reagan
+        slug: ronald-reagan
+      - node_id: 3690087e-5e65-4693-8b72-f144d9963dd5
+        title: Richard Nixon
+        slug: richard-nixon
+      - node_id: 898c410a-7789-4762-b6dd-1139ced89658
+        title: Jimmy Carter
+        slug: jimmy-carter
+      - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
+        title: Unidentified Flying Object (UFO)
+        slug: unidentified-flying-object-ufo
+      - node_id: dba2f206-7088-4fe9-9fc5-d7228a9149f4
+        title: George Herbert Walker Bush
+        slug: george-herbert-walker-bush
+    date: null
+    date_end: null
+    location_in_record: 00:46:04.1-00:46:07.3
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 64b84f95-238c-4ab7-a678-bee55f985b14
+      record_title: The UFO Cover-Up Leads to One Secret Society — and One Final Event
+      record_date: '2026-07-14'
+      record_reference: https://www.youtube.com/watch?v=kccrkCGGzX4
+      content_hash: sha256:d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7b5a1b98d
+      friendly_name: null
+  - claim_id: 7be64312-c7b5-4528-af89-1659f36042a5
+    claim_hash: 96199762c0839795219ffd9fbd845b14aee2d7dd9133bc6c24e51304e4d3698d
+    content: Bill Clinton and Barack Obama came into office without being connected to the United States establishment, unlike
+      Ronald Reagan, Richard Nixon and the Bush family, in Jason Samosa's view.
+    original_excerpt: Clinton and Obama coming into office really weren't connected to the establishment of the United States.
+      They really were in many ways outsiders who'd started to move inside. ... But that's very different to Reagan, to Nixon
+      and to all of these kind of the Bush family.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: ff0a86b8-8f3c-4291-94ed-c6d303875ce8
+      title: Jason Samosa
+    provenance_chain:
+      origin_kind: speaker
+      origin: Jason Samosa
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 1c74a06c-1b3f-43b4-b54c-3f6b44fd8192
+        title: Ronald Reagan
+        slug: ronald-reagan
+      - node_id: 3690087e-5e65-4693-8b72-f144d9963dd5
+        title: Richard Nixon
+        slug: richard-nixon
+      - node_id: 459eb5cf-ea76-4cad-9421-a726261cd3a2
+        title: Bill Clinton
+        slug: bill-clinton
+      - node_id: 65058869-076f-47d0-92ea-f8daf08b94cf
+        title: Barack Obama
+        slug: barack-obama
+      - node_id: dba2f206-7088-4fe9-9fc5-d7228a9149f4
+        title: George Herbert Walker Bush
+        slug: george-herbert-walker-bush
+    date: null
+    date_end: null
+    location_in_record: 00:46:48.5-00:47:07.4
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 64b84f95-238c-4ab7-a678-bee55f985b14
+      record_title: The UFO Cover-Up Leads to One Secret Society — and One Final Event
+      record_date: '2026-07-14'
+      record_reference: https://www.youtube.com/watch?v=kccrkCGGzX4
+      content_hash: sha256:d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7b5a1b98d
+      friendly_name: null
+  - claim_id: a4bb7ccf-07b9-41fb-aeb8-f9a785e0b02a
+    claim_hash: 23d9c29b033bbf55c029e903bd38ee7f372c6228d586f7c00f7dce26e0b8c3cf
+    content: George H. W. Bush was without doubt an establishment insider, in Jesse Michels's view.
+    original_excerpt: George H.W. Bush, for sure, insider. No doubt about that.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 079d4381-4273-418b-bc9a-468623f95c6e
+      title: Jesse Mitchells
+    provenance_chain:
+      origin_kind: speaker
+      origin: Jesse Michels
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 079d4381-4273-418b-bc9a-468623f95c6e
+        title: Jesse Mitchells
+        slug: jesse-mitchells
+      - node_id: dba2f206-7088-4fe9-9fc5-d7228a9149f4
+        title: George Herbert Walker Bush
+        slug: george-herbert-walker-bush
+    date: null
+    date_end: null
+    location_in_record: 00:47:27.4-00:47:31.2
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 64b84f95-238c-4ab7-a678-bee55f985b14
+      record_title: The UFO Cover-Up Leads to One Secret Society — and One Final Event
+      record_date: '2026-07-14'
+      record_reference: https://www.youtube.com/watch?v=kccrkCGGzX4
+      content_hash: sha256:d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7b5a1b98d
+      friendly_name: null

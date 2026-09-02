@@ -1,0 +1,794 @@
+schema: anomalica/brief/1
+brief_hash: 5e792aba3392948b08755fc7484ac6ff72b031fec5c7f7f5fda6a42c87057cb6
+page:
+  kind: entity
+  node_id: 8b6a34cc-4dc3-4ab2-b545-d3d6535b1516
+  node_type: organisation
+  title: Church of Scientology
+  slug: church-of-scientology
+  claim_count: 17
+  claim_count_total: 17
+generated:
+  graph_version: '2026-09-01T10:10:49.863545+00:00'
+size:
+  claims: 17
+  tokens_estimated: 4964
+  sized_against: 1050000
+publication:
+  status: published
+  note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
+    transcripts are gated elsewhere.
+belonging:
+  verified: 0
+  suspect_excluded: 0
+  unreviewed: 17
+related_nodes:
+  - node_id: 6063296b-f65b-452e-be99-dd564ded9c39
+    title: L. Ron Hubbard
+    node_type: person
+    slug: l-ron-hubbard
+    shared_claims: 11
+  - node_id: b6090b6b-63d9-473d-8d6c-bd4b5f54f24b
+    title: Jack Parsons
+    node_type: person
+    slug: jack-parsons
+    shared_claims: 6
+  - node_id: b8f94227-7b07-4296-b7a4-222b69e0ca03
+    title: Ordo Templi Orientis (OTO)
+    node_type: organisation
+    slug: ordo-templi-orientis-oto
+    shared_claims: 4
+  - node_id: 383fc644-c1b4-4a39-bf62-5b14ba2db5cc
+    title: Aleister Crowley
+    node_type: person
+    slug: aleister-crowley
+    shared_claims: 2
+  - node_id: d3a2e105-cca7-4abd-b795-d51b893be697
+    title: Federation of American Scientists
+    node_type: organisation
+    slug: federation-of-american-scientists
+    shared_claims: 2
+  - node_id: 3e3d0fe7-a2cf-4e09-ab26-7beca4bece48
+    title: NASA Jet Propulsion Laboratory (JPL)
+    node_type: organisation
+    slug: nasa-jet-propulsion-laboratory-jpl
+    shared_claims: 2
+  - node_id: e1650a1d-8feb-4841-a403-0d71e176d2d9
+    title: Richard C. Hoagland
+    node_type: person
+    slug: richard-c-hoagland
+    shared_claims: 2
+  - node_id: cc81c235-c101-46bc-9b60-0d618973886f
+    title: Dark Mission (ebook)
+    node_type: document
+    slug: dark-mission-ebook
+    shared_claims: 1
+  - node_id: d9cee85a-e8f8-43b9-b1fd-6035daf6ce2c
+    title: Harpoon (sailing boat)
+    node_type: object
+    slug: harpoon-sailing-boat
+    shared_claims: 1
+  - node_id: 6ca2b329-5ed0-4bb0-bfec-d70dfd0a5d05
+    title: L. Ron Hubbard Life Exhibition
+    node_type: place
+    slug: l-ron-hubbard-life-exhibition
+    shared_claims: 1
+  - node_id: 69fa2a03-b6bb-41c3-a745-dff92528671c
+    title: Manhattan Project
+    node_type: project
+    slug: manhattan-project
+    shared_claims: 1
+  - node_id: 6c762b97-ffec-4ab2-9c1d-989f0566d586
+    title: Mike Bara
+    node_type: person
+    slug: mike-bara
+    shared_claims: 1
+  - node_id: d5646dcd-3a5c-4de2-8d21-25d7181665c1
+    title: Office of Naval Intelligence
+    node_type: organisation
+    slug: office-of-naval-intelligence
+    shared_claims: 1
+  - node_id: 579d6aef-89d5-41b0-adf1-89dba0bb0920
+    title: Sara Northrup
+    node_type: person
+    slug: sara-northrup
+    shared_claims: 1
+  - node_id: 9d4c9329-92b6-489b-9bf6-8a89bb415671
+    title: USA, California, Pasadena
+    node_type: place
+    slug: california-pasadena-usa
+    shared_claims: 1
+  - node_id: 2ccec918-9f0b-4569-ba3f-ddd8c2eb6460
+    title: USA, California, Pasadena, 1003 Orange Grove Avenue
+    node_type: place
+    slug: california-pasadena-1003-orange-grove-avenue-usa
+    shared_claims: 1
+  - node_id: 5ee4362d-c09b-44a8-a3be-8bd9c05f4c78
+    title: United States Navy (USN)
+    node_type: organisation
+    slug: united-states-navy-usn
+    shared_claims: 1
+claims:
+  - claim_id: 67fdaf08-e23f-417f-acc3-bd110d99dfad
+    claim_hash: 4304cbdf4c85532329ba3aa874cbc63a746b94838695f0984fcd2d581e8c3613
+    content: L. Ron Hubbard founded Dianetics and, later, the Church of Scientology.
+    original_excerpt: Ron Hubbard, on the other hand, founded Dianetics and, later, the Church of Scientology.
+    claim_type: administrative
+    attestation: first_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: speaker
+      origin: Jacques Vallée
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 6063296b-f65b-452e-be99-dd564ded9c39
+        title: L. Ron Hubbard
+        slug: l-ron-hubbard
+      - node_id: 8b6a34cc-4dc3-4ab2-b545-d3d6535b1516
+        title: Church of Scientology
+        slug: church-of-scientology
+    date: null
+    date_end: null
+    location_in_record: ch13:10303-10379
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: f0690aba-c78b-47f4-bb2f-f94ea04d55ee
+      record_title: 'Messengers of Deception: UFO Contacts and Cults'
+      record_date: '0101-01-01'
+      record_reference: null
+      content_hash: sha256:0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5ac9fd3168
+      friendly_name: 0101-01-01-ebook-messengers-of-deception-ufo-contacts-and-cults
+  - claim_id: 2c586e2f-7861-4683-bf72-73c3affe2a70
+    claim_hash: 41e410e58c745225441eab8169be4f20cf7c49b0558453a15f5a6b485c889a92
+    content: Jack Parsons, who founded the Jet Propulsion Laboratory, is linked by Jacques Vallée to the same process of extraterrestrial-superiority
+      belief as L. Ron Hubbard, who founded the Church of Scientology.
+    original_excerpt: The same links can be traced around people like Jack Parsons, who founded JPL, and Ron Hubbard, who
+      founded Scientology.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
+      title: Jacques Vallée
+    provenance_chain:
+      origin_kind: speaker
+      origin: Jacques Vallée
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 3e3d0fe7-a2cf-4e09-ab26-7beca4bece48
+        title: NASA Jet Propulsion Laboratory (JPL)
+        slug: nasa-jet-propulsion-laboratory-jpl
+      - node_id: 6063296b-f65b-452e-be99-dd564ded9c39
+        title: L. Ron Hubbard
+        slug: l-ron-hubbard
+      - node_id: 8b6a34cc-4dc3-4ab2-b545-d3d6535b1516
+        title: Church of Scientology
+        slug: church-of-scientology
+      - node_id: b6090b6b-63d9-473d-8d6c-bd4b5f54f24b
+        title: Jack Parsons
+        slug: jack-parsons
+    date: null
+    date_end: null
+    location_in_record: ch13:694-802
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: f0690aba-c78b-47f4-bb2f-f94ea04d55ee
+      record_title: 'Messengers of Deception: UFO Contacts and Cults'
+      record_date: '0101-01-01'
+      record_reference: null
+      content_hash: sha256:0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5ac9fd3168
+      friendly_name: 0101-01-01-ebook-messengers-of-deception-ufo-contacts-and-cults
+  - claim_id: d1872e72-d885-47b3-96e3-15eb776002eb
+    claim_hash: 8199e65bf3c3bc31876fda1f5c7b262daae57b45f5edd63580fc99769465a7ca
+    content: The inventor of Dianetics is said to have practised ritual magic with rocket expert Jack Parsons.
+    original_excerpt: Indeed, the inventor of Dianetics is said to have practiced ritual magic with a rocket expert named
+      Jack Parsons
+    claim_type: hearsay
+    attestation: null
+    speaker:
+      node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
+      title: Jacques Vallée
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 8b6a34cc-4dc3-4ab2-b545-d3d6535b1516
+        title: Church of Scientology
+        slug: church-of-scientology
+      - node_id: b6090b6b-63d9-473d-8d6c-bd4b5f54f24b
+        title: Jack Parsons
+        slug: jack-parsons
+    date: null
+    date_end: null
+    location_in_record: ch4:20690-20795
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: f0690aba-c78b-47f4-bb2f-f94ea04d55ee
+      record_title: 'Messengers of Deception: UFO Contacts and Cults'
+      record_date: '0101-01-01'
+      record_reference: null
+      content_hash: sha256:0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5ac9fd3168
+      friendly_name: 0101-01-01-ebook-messengers-of-deception-ufo-contacts-and-cults
+  - claim_id: ead61858-187f-4be6-badf-20bf04939405
+    claim_hash: b5e9432f8643ef975c0e8e8f74d41af6739bcdf11a899ec619e9d8761393bb68
+    content: L. Ron Hubbard was a compatriot of Jack Parsons in many of these bizarre occult rites, and later went on to form
+      the Church of Scientology.
+    original_excerpt: His compatriot in many of these bizarre rites was one L. Ron Hubbard [Fig. 5-19], who later went on
+      to form the controversial "Church of Scientology"
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 6063296b-f65b-452e-be99-dd564ded9c39
+        title: L. Ron Hubbard
+        slug: l-ron-hubbard
+      - node_id: 8b6a34cc-4dc3-4ab2-b545-d3d6535b1516
+        title: Church of Scientology
+        slug: church-of-scientology
+      - node_id: b6090b6b-63d9-473d-8d6c-bd4b5f54f24b
+        title: Jack Parsons
+        slug: jack-parsons
+    date: null
+    date_end: null
+    location_in_record: ch12:74271-74408
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+      record_title: Dark Mission
+      record_date: '2010-07-22'
+      record_reference: null
+      content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+      friendly_name: null
+  - claim_id: 99194bf7-cfe7-4d71-b5df-752d16cb634c
+    claim_hash: 279411644fefeebd251f706eb7d2a77bd4aab43560c9477200770e6800f06b4f
+    content: The Church of Scientology is still a major influence in Hollywood today.
+    original_excerpt: which is still a major influence in Hollywood today
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: e1650a1d-8feb-4841-a403-0d71e176d2d9
+      title: Richard C. Hoagland
+    provenance_chain:
+      origin_kind: speaker
+      origin: Richard C. Hoagland
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 8b6a34cc-4dc3-4ab2-b545-d3d6535b1516
+        title: Church of Scientology
+        slug: church-of-scientology
+    date: null
+    date_end: null
+    location_in_record: ch12:74421-74467
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+      record_title: Dark Mission
+      record_date: '2010-07-22'
+      record_reference: null
+      content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+      friendly_name: null
+  - claim_id: 4d9fb5e1-3ec0-41b4-9653-429cbdde2cc0
+    claim_hash: 60f92701db3f846028d5a1988f3c783ab088ea55ed7de3a7d0fcbf91165cb5ed
+    content: The Church of Scientology claims that L. Ron Hubbard was sent by the United States Navy to infiltrate and break
+      up a black magic cult operating in Los Angeles.
+    original_excerpt: The Church of Scientology claims that he was sent by the U.S. Navy to infiltrate and break up a "black
+      magic cult" operating in Los Angeles.
+    claim_type: hearsay
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: named
+      origin: Church of Scientology
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 5ee4362d-c09b-44a8-a3be-8bd9c05f4c78
+        title: United States Navy (USN)
+        slug: united-states-navy-usn
+      - node_id: 6063296b-f65b-452e-be99-dd564ded9c39
+        title: L. Ron Hubbard
+        slug: l-ron-hubbard
+      - node_id: 8b6a34cc-4dc3-4ab2-b545-d3d6535b1516
+        title: Church of Scientology
+        slug: church-of-scientology
+    date: null
+    date_end: null
+    location_in_record: ch12:82693-82825
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+      record_title: Dark Mission
+      record_date: '2010-07-22'
+      record_reference: null
+      content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+      friendly_name: null
+  - claim_id: 4bde6a83-7d48-437d-aedf-1ad63d0f6358
+    claim_hash: aaf670cd1a3b333ad5db6d3b93c926cc88f7cab02c092cd1485ce9ac5f892589
+    content: L. Ron Hubbard went on to marry Sara Northrup and eventually founded the Church of Scientology.
+    original_excerpt: Hubbard went on to marry Betty and eventually form the Church of Scientology
+    claim_type: administrative
+    attestation: first_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: speaker
+      origin: Richard C. Hoagland
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 579d6aef-89d5-41b0-adf1-89dba0bb0920
+        title: Sara Northrup
+        slug: sara-northrup
+      - node_id: 6063296b-f65b-452e-be99-dd564ded9c39
+        title: L. Ron Hubbard
+        slug: l-ron-hubbard
+      - node_id: 8b6a34cc-4dc3-4ab2-b545-d3d6535b1516
+        title: Church of Scientology
+        slug: church-of-scientology
+    date: null
+    date_end: null
+    location_in_record: ch12:89151-89216
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+      record_title: Dark Mission
+      record_date: '2010-07-22'
+      record_reference: null
+      content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+      friendly_name: null
+  - claim_id: 5e304e29-0dff-47f1-a73c-e00bbb5377b2
+    claim_hash: 1f8230521756d14d786a187a59c0e224176bd8980b164a011279409c1c127eab
+    content: In October 2008, Mike Bara was invited to visit the L. Ron Hubbard Life Exhibition in Hollywood and meet with
+      several members of the Church of Scientology.
+    original_excerpt: In October, 2008, I was invited to the visit the L. Ron Hubbard Life Exhibition in Hollywood and meet
+      with several members of the Church of Scientology.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 6c762b97-ffec-4ab2-9c1d-989f0566d586
+      title: Mike Bara
+    provenance_chain:
+      origin_kind: speaker
+      origin: Mike Bara
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 6c762b97-ffec-4ab2-9c1d-989f0566d586
+        title: Mike Bara
+        slug: mike-bara
+      - node_id: 6ca2b329-5ed0-4bb0-bfec-d70dfd0a5d05
+        title: L. Ron Hubbard Life Exhibition
+        slug: l-ron-hubbard-life-exhibition
+      - node_id: 8b6a34cc-4dc3-4ab2-b545-d3d6535b1516
+        title: Church of Scientology
+        slug: church-of-scientology
+    date: 2008-10
+    date_end: null
+    location_in_record: ch5:17693-17834
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+      record_title: Dark Mission
+      record_date: '2010-07-22'
+      record_reference: null
+      content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+      friendly_name: null
+  - claim_id: 6b36ea45-237d-4158-b88d-09ac34b727ff
+    claim_hash: 42948a6f1b3bc7859737e62ac80cb725028b685301e4fc400042d17c769cd537
+    content: Members of the Church of Scientology sought to correct what they viewed as mischaracterisations in Dark Mission
+      (ebook)'s section on L. Ron Hubbard and Jack Parsons of the Jet Propulsion Laboratory (JPL).
+    original_excerpt: They sought to set the record straight on what they viewed as mischaracterizations in the section dealing
+      with Hubbard and Jack Parsons of JPL.
+    claim_type: testimony
+    attestation: second_hand
+    speaker:
+      node_id: 6c762b97-ffec-4ab2-9c1d-989f0566d586
+      title: Mike Bara
+    provenance_chain:
+      origin_kind: named
+      origin: Church of Scientology
+      relay:
+        - Mike Bara
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 3e3d0fe7-a2cf-4e09-ab26-7beca4bece48
+        title: NASA Jet Propulsion Laboratory (JPL)
+        slug: nasa-jet-propulsion-laboratory-jpl
+      - node_id: 6063296b-f65b-452e-be99-dd564ded9c39
+        title: L. Ron Hubbard
+        slug: l-ron-hubbard
+      - node_id: 8b6a34cc-4dc3-4ab2-b545-d3d6535b1516
+        title: Church of Scientology
+        slug: church-of-scientology
+      - node_id: b6090b6b-63d9-473d-8d6c-bd4b5f54f24b
+        title: Jack Parsons
+        slug: jack-parsons
+      - node_id: cc81c235-c101-46bc-9b60-0d618973886f
+        title: Dark Mission (ebook)
+        slug: dark-mission-ebook
+    date: null
+    date_end: null
+    location_in_record: ch5:17847-17986
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+      record_title: Dark Mission
+      record_date: '2010-07-22'
+      record_reference: null
+      content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+      friendly_name: null
+  - claim_id: 4fbd98f3-786c-4ba6-9e77-9b394206a763
+    claim_hash: c3025109dd4dae3261e8941a7153fbbfb415087d55927d858b902f7669721306
+    content: The Church of Scientology was most concerned with conveying that none of its teachings are based on the Thelemic
+      beliefs of Aleister Crowley.
+    original_excerpt: They were most concerned with conveying the message that none of their teachings are based in any way
+      on the Thelemic beliefs of Aleister Crowley.
+    claim_type: testimony
+    attestation: second_hand
+    speaker:
+      node_id: 6c762b97-ffec-4ab2-9c1d-989f0566d586
+      title: Mike Bara
+    provenance_chain:
+      origin_kind: named
+      origin: Church of Scientology
+      relay:
+        - Mike Bara
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 383fc644-c1b4-4a39-bf62-5b14ba2db5cc
+        title: Aleister Crowley
+        slug: aleister-crowley
+      - node_id: 8b6a34cc-4dc3-4ab2-b545-d3d6535b1516
+        title: Church of Scientology
+        slug: church-of-scientology
+    date: null
+    date_end: null
+    location_in_record: ch5:18074-18212
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+      record_title: Dark Mission
+      record_date: '2010-07-22'
+      record_reference: null
+      content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+      friendly_name: null
+  - claim_id: 676beb92-8657-4bac-8b1a-1e4e3359b8ca
+    claim_hash: 9247c4c9ee1345f253201c0870748632ed66b23ef55b7fee759524bc9298c37d
+    content: Mike Bara considers the Church of Scientology deserving of the benefit of the doubt on the claim that its teachings
+      are not based on the Thelemic beliefs of Aleister Crowley.
+    original_excerpt: From my limited knowledge of the practices of the Church of Scientology, it is my opinion is that the
+      Church deserves the benefit of the doubt on this point.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 6c762b97-ffec-4ab2-9c1d-989f0566d586
+      title: Mike Bara
+    provenance_chain:
+      origin_kind: speaker
+      origin: Mike Bara
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 383fc644-c1b4-4a39-bf62-5b14ba2db5cc
+        title: Aleister Crowley
+        slug: aleister-crowley
+      - node_id: 8b6a34cc-4dc3-4ab2-b545-d3d6535b1516
+        title: Church of Scientology
+        slug: church-of-scientology
+    date: null
+    date_end: null
+    location_in_record: ch5:18221-18372
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+      record_title: Dark Mission
+      record_date: '2010-07-22'
+      record_reference: null
+      content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+      friendly_name: null
+  - claim_id: 6d7865d7-6307-4398-9e8d-760aada2de21
+    claim_hash: ee3e538888738a01be135a46e9b2014fa022f5f14896fe071bff7b0c5b4f0a78
+    content: The Church of Scientology argued that L. Ron Hubbard was sent to infiltrate and disrupt the activities of Jack
+      Parsons at 1003 Orange Grove Avenue rather than being a willing participant in Parsons' pursuits within the Ordo Templi
+      Orientis.
+    original_excerpt: The Church has argued Hubbard was not so much a willing participant in Parsons’ pursuits as he was an
+      instrument of disruption inside the Ordo Templi Orientis. According to the Church—and as we outlined in Chapter Five
+      of the original edition—Hubbard was sent to infiltrate and disrupt the worrisome activities of Jack Parsons at 1003
+      Orange Grove Avenue.
+    claim_type: testimony
+    attestation: second_hand
+    speaker:
+      node_id: 6c762b97-ffec-4ab2-9c1d-989f0566d586
+      title: Mike Bara
+    provenance_chain:
+      origin_kind: named
+      origin: Church of Scientology
+      relay:
+        - Mike Bara
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 2ccec918-9f0b-4569-ba3f-ddd8c2eb6460
+        title: USA, California, Pasadena, 1003 Orange Grove Avenue
+        slug: california-pasadena-1003-orange-grove-avenue-usa
+      - node_id: 6063296b-f65b-452e-be99-dd564ded9c39
+        title: L. Ron Hubbard
+        slug: l-ron-hubbard
+      - node_id: 8b6a34cc-4dc3-4ab2-b545-d3d6535b1516
+        title: Church of Scientology
+        slug: church-of-scientology
+      - node_id: b6090b6b-63d9-473d-8d6c-bd4b5f54f24b
+        title: Jack Parsons
+        slug: jack-parsons
+      - node_id: b8f94227-7b07-4296-b7a4-222b69e0ca03
+        title: Ordo Templi Orientis (OTO)
+        slug: ordo-templi-orientis-oto
+    date: null
+    date_end: null
+    location_in_record: ch5:18477-18825
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+      record_title: Dark Mission
+      record_date: '2010-07-22'
+      record_reference: null
+      content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+      friendly_name: null
+  - claim_id: f4c1e6f7-c1b0-4989-af61-a4cf9b704d0d
+    claim_hash: 564733b006193b0fe8317ec87d64e90e2ee069c561542b076277da5452d2f671
+    content: Documents provided by the Church of Scientology inclined Mike Bara to lean toward the interpretation that L.
+      Ron Hubbard was sent to infiltrate the Ordo Templi Orientis rather than being a willing participant.
+    original_excerpt: Documents provided to me by the Church now incline me to lean more toward this interpretation, although
+      I think it is fair to say we will never know for certain.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 6c762b97-ffec-4ab2-9c1d-989f0566d586
+      title: Mike Bara
+    provenance_chain:
+      origin_kind: speaker
+      origin: Mike Bara
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 6063296b-f65b-452e-be99-dd564ded9c39
+        title: L. Ron Hubbard
+        slug: l-ron-hubbard
+      - node_id: 8b6a34cc-4dc3-4ab2-b545-d3d6535b1516
+        title: Church of Scientology
+        slug: church-of-scientology
+      - node_id: b8f94227-7b07-4296-b7a4-222b69e0ca03
+        title: Ordo Templi Orientis (OTO)
+        slug: ordo-templi-orientis-oto
+    date: null
+    date_end: null
+    location_in_record: ch5:18833-18986
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+      record_title: Dark Mission
+      record_date: '2010-07-22'
+      record_reference: null
+      content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+      friendly_name: null
+  - claim_id: 23c47feb-7214-4c6f-afc3-a45df43a8bdc
+    claim_hash: 53ce1dda0e04c808910e9f464c9af58ea2b03ae12997d2fe0e6637790c1f5158
+    content: The Federation of American Scientists was a left-wing group of disaffected Manhattan Project veterans dismayed
+      at the military uses of atomic weapons.
+    original_excerpt: a group called the Federation of American Scientists, a left wing group of disaffected Manhattan Project
+      veterans who were dismayed at the military uses of atomic weapons
+    claim_type: administrative
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: named
+      origin: Church of Scientology
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 69fa2a03-b6bb-41c3-a745-dff92528671c
+        title: Manhattan Project
+        slug: manhattan-project
+      - node_id: 8b6a34cc-4dc3-4ab2-b545-d3d6535b1516
+        title: Church of Scientology
+        slug: church-of-scientology
+      - node_id: d3a2e105-cca7-4abd-b795-d51b893be697
+        title: Federation of American Scientists
+        slug: federation-of-american-scientists
+    date: null
+    date_end: null
+    location_in_record: ch5:21480-21643
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+      record_title: Dark Mission
+      record_date: '2010-07-22'
+      record_reference: null
+      content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+      friendly_name: null
+  - claim_id: 2423a791-723b-4afb-9c15-c1117d298e24
+    claim_hash: b05f681944769896424d5ff1c28238806e65bba4c8620ca416d09487f9b19274
+    content: A Bill of Sale produced by the Church of Scientology shows that Jack Parsons sold the sailing boat Harpoon to
+      L. Ron Hubbard.
+    original_excerpt: A Bill of Sale produced by the Church shows that Parsons sold the *Harpoon* to Hubbard.
+    claim_type: administrative
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: document
+      origin: a Bill of Sale produced by the Church of Scientology
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 6063296b-f65b-452e-be99-dd564ded9c39
+        title: L. Ron Hubbard
+        slug: l-ron-hubbard
+      - node_id: 8b6a34cc-4dc3-4ab2-b545-d3d6535b1516
+        title: Church of Scientology
+        slug: church-of-scientology
+      - node_id: b6090b6b-63d9-473d-8d6c-bd4b5f54f24b
+        title: Jack Parsons
+        slug: jack-parsons
+      - node_id: d9cee85a-e8f8-43b9-b1fd-6035daf6ce2c
+        title: Harpoon (sailing boat)
+        slug: harpoon-sailing-boat
+    date: null
+    date_end: null
+    location_in_record: ch5:22063-22142
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+      record_title: Dark Mission
+      record_date: '2010-07-22'
+      record_reference: null
+      content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+      friendly_name: null
+  - claim_id: 630b43e8-dd36-4538-8c53-5db1a973caa7
+    claim_hash: 9f2c4448c2a4a14948912fb7c4036bb7b6e18b018256d0721fec7f174abf3ee8
+    content: Richard C. Hoagland considers the premise that L. Ron Hubbard was an Office of Naval Intelligence informant sent
+      to infiltrate and destabilise the Ordo Templi Orientis and Federation of American Scientists a plausible one, after
+      reviewing documentation supplied by the Church of Scientology.
+    original_excerpt: After seeing the documentation supplied to me by the Church of Scientology, I find the premise a plausible
+      one.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: e1650a1d-8feb-4841-a403-0d71e176d2d9
+      title: Richard C. Hoagland
+    provenance_chain:
+      origin_kind: speaker
+      origin: Richard C. Hoagland
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 6063296b-f65b-452e-be99-dd564ded9c39
+        title: L. Ron Hubbard
+        slug: l-ron-hubbard
+      - node_id: 8b6a34cc-4dc3-4ab2-b545-d3d6535b1516
+        title: Church of Scientology
+        slug: church-of-scientology
+      - node_id: b8f94227-7b07-4296-b7a4-222b69e0ca03
+        title: Ordo Templi Orientis (OTO)
+        slug: ordo-templi-orientis-oto
+      - node_id: d3a2e105-cca7-4abd-b795-d51b893be697
+        title: Federation of American Scientists
+        slug: federation-of-american-scientists
+      - node_id: d5646dcd-3a5c-4de2-8d21-25d7181665c1
+        title: Office of Naval Intelligence
+        slug: office-of-naval-intelligence
+      - node_id: e1650a1d-8feb-4841-a403-0d71e176d2d9
+        title: Richard C. Hoagland
+        slug: richard-c-hoagland
+    date: null
+    date_end: null
+    location_in_record: ch5:22842-22949
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+      record_title: Dark Mission
+      record_date: '2010-07-22'
+      record_reference: null
+      content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+      friendly_name: null
+  - claim_id: 1e75a06c-1766-4b67-82ac-399c975489de
+    claim_hash: 475daec173a9b09688bb2abad171583f3f88da821245a1dfaa829a38889847b7
+    content: Richard C. Hoagland now holds that the weight of the evidence supports the Church of Scientology's version of
+      events regarding L. Ron Hubbard's role at the Ordo Templi Orientis temple in Pasadena over the less flattering alternative
+      account.
+    original_excerpt: I will admit that I now hold that the weight of the evidence supports the Scientologist's version of
+      events over the less flattering one.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: e1650a1d-8feb-4841-a403-0d71e176d2d9
+      title: Richard C. Hoagland
+    provenance_chain:
+      origin_kind: speaker
+      origin: Richard C. Hoagland
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 6063296b-f65b-452e-be99-dd564ded9c39
+        title: L. Ron Hubbard
+        slug: l-ron-hubbard
+      - node_id: 8b6a34cc-4dc3-4ab2-b545-d3d6535b1516
+        title: Church of Scientology
+        slug: church-of-scientology
+      - node_id: 9d4c9329-92b6-489b-9bf6-8a89bb415671
+        title: USA, California, Pasadena
+        slug: california-pasadena-usa
+      - node_id: b8f94227-7b07-4296-b7a4-222b69e0ca03
+        title: Ordo Templi Orientis (OTO)
+        slug: ordo-templi-orientis-oto
+      - node_id: e1650a1d-8feb-4841-a403-0d71e176d2d9
+        title: Richard C. Hoagland
+        slug: richard-c-hoagland
+    date: null
+    date_end: null
+    location_in_record: ch5:23597-23730
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+      record_title: Dark Mission
+      record_date: '2010-07-22'
+      record_reference: null
+      content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+      friendly_name: null

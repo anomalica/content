@@ -1,0 +1,297 @@
+schema: anomalica/brief/1
+brief_hash: f623f69250c81fd86ad0e179e2bbb9dfa98247937cb0de09009f235f0f94e724
+page:
+  kind: entity
+  node_id: bbb5b561-9e28-49d2-b469-e6cbd085b289
+  node_type: person
+  title: John Brandenberg
+  slug: john-brandenberg
+  claim_count: 5
+  claim_count_total: 5
+generated:
+  graph_version: '2026-09-01T10:10:49.863545+00:00'
+size:
+  claims: 5
+  tokens_estimated: 1664
+  sized_against: 1050000
+publication:
+  status: published
+  note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
+    transcripts are gated elsewhere.
+belonging:
+  verified: 0
+  suspect_excluded: 0
+  unreviewed: 5
+related_nodes:
+  - node_id: e7aef649-b8cd-42c8-af7f-ab1ceb0226c2
+    title: Carl Sagan
+    node_type: person
+    slug: carl-sagan
+    shared_claims: 2
+  - node_id: cc327db1-44bd-4762-acc0-d8fe82a3c6ea
+    title: Cydonia
+    node_type: place
+    slug: cydonia
+    shared_claims: 2
+  - node_id: 5e47c787-005b-4c91-ba4b-c9bec48146c9
+    title: National Aeronautics and Space Administration (NASA)
+    node_type: organisation
+    slug: national-aeronautics-and-space-administration-nasa
+    shared_claims: 2
+  - node_id: 40d3d2e8-97b8-464e-9a9b-41f1d225c6c7
+    title: Carl Pilcher
+    node_type: person
+    slug: carl-pilcher
+    shared_claims: 1
+  - node_id: 6248eb51-3e0a-44a2-9708-bfd776848fad
+    title: Clementine mission
+    node_type: project
+    slug: clementine-mission
+    shared_claims: 1
+  - node_id: 9778a6a9-311a-4add-8130-a1da615edb90
+    title: David Webb
+    node_type: person
+    slug: david-webb
+    shared_claims: 1
+  - node_id: bb82a06d-4e07-4318-95c2-fbaea63d14a9
+    title: Louis Friedman
+    node_type: person
+    slug: louis-friedman
+    shared_claims: 1
+  - node_id: cd9db0d9-5951-4d87-a50b-7d772c61da41
+    title: Mark C. Carlotto
+    node_type: person
+    slug: mark-c-carlotto
+    shared_claims: 1
+  - node_id: 52586266-6207-48bf-ad74-ca679326b5a9
+    title: Mars Global Surveyor
+    node_type: object
+    slug: mars-global-surveyor
+    shared_claims: 1
+  - node_id: 3e3d0fe7-a2cf-4e09-ab26-7beca4bece48
+    title: NASA Jet Propulsion Laboratory (JPL)
+    node_type: organisation
+    slug: nasa-jet-propulsion-laboratory-jpl
+    shared_claims: 1
+  - node_id: e1650a1d-8feb-4841-a403-0d71e176d2d9
+    title: Richard C. Hoagland
+    node_type: person
+    slug: richard-c-hoagland
+    shared_claims: 1
+  - node_id: ee17e26e-d4de-41af-ba2c-a2ac27168725
+    title: Stanley V. McDaniel
+    node_type: person
+    slug: stanley-v-mcdaniel
+    shared_claims: 1
+claims:
+  - claim_id: 14bc9892-407d-4158-94fe-faef09443240
+    claim_hash: 7a852bdd4903446e288c199ae48ef425c5499d64ccdd83464030d37f2ba23ddd
+    content: Carl Sagan told John Brandenberg regarding Brandenberg's work on Cydonia that the question is not whether he
+      is right or wrong, and that he is not even in the conversation.
+    original_excerpt: “The question is not whether you are right or wrong, sir. You are not even in the conversation.”—Dr.
+      Carl Sagan to Dr. John Brandenburg, regarding Brandenburg’s work on Cydonia.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: e7aef649-b8cd-42c8-af7f-ab1ceb0226c2
+      title: Carl Sagan
+    provenance_chain:
+      origin_kind: speaker
+      origin: Carl Sagan
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: bbb5b561-9e28-49d2-b469-e6cbd085b289
+        title: John Brandenberg
+        slug: john-brandenberg
+      - node_id: cc327db1-44bd-4762-acc0-d8fe82a3c6ea
+        title: Cydonia
+        slug: cydonia
+      - node_id: e7aef649-b8cd-42c8-af7f-ab1ceb0226c2
+        title: Carl Sagan
+        slug: carl-sagan
+    date: null
+    date_end: null
+    location_in_record: ch10:95-264
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+      record_title: Dark Mission
+      record_date: '2010-07-22'
+      record_reference: null
+      content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+      friendly_name: null
+  - claim_id: cbfa4bb7-c3ab-49e7-960d-b9d7a61b2efe
+    claim_hash: cf59c1a7a02a185712a06cb0472d3ee570467fce7cbb74fce8c2ca35ac6255c7
+    content: The 1997-11 meeting between Society for Planetary SETI Research (SPSR) and Carl Pilcher was attended by Stanley
+      V. McDaniel, Mark Carlotto, and John Brandenberg among others.
+    original_excerpt: At the meeting, which was attended by McDaniel, Carlotto and Brandenberg among others, Pilcher feigned
+      interest and promised that Cydonia would be imaged at every opportunity during the “science mapping phase” of the mission.
+    claim_type: observation
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 40d3d2e8-97b8-464e-9a9b-41f1d225c6c7
+        title: Carl Pilcher
+        slug: carl-pilcher
+      - node_id: bbb5b561-9e28-49d2-b469-e6cbd085b289
+        title: John Brandenberg
+        slug: john-brandenberg
+      - node_id: cd9db0d9-5951-4d87-a50b-7d772c61da41
+        title: Mark C. Carlotto
+        slug: mark-c-carlotto
+      - node_id: ee17e26e-d4de-41af-ba2c-a2ac27168725
+        title: Stanley V. McDaniel
+        slug: stanley-v-mcdaniel
+    date: 1997-11
+    date_end: null
+    location_in_record: ch13:2394-2611
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+      record_title: Dark Mission
+      record_date: '2010-07-22'
+      record_reference: null
+      content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+      friendly_name: null
+  - claim_id: 496cec07-8031-42c6-a6fa-4517ce3eb6a5
+    claim_hash: af51e121c555a625a2be28d2b458c42a7aa9f7e1b3a4df19c5280f706fe9e601
+    content: National Aeronautics and Space Administration (NASA) asked John Brandenberg, an old colleague of Richard C. Hoagland's
+      from the early independent Mars investigations, to present the Clementine camera a second time to Jet Propulsion Laboratory's
+      (JPL) open bidding process for the Mars Global Surveyor camera contract.
+    original_excerpt: So NASA asked Dr. John Brandenberg, an old colleague of Hoagland’s from the early independent Mars investigations,
+      to present the camera a second time to JPL’s open bidding process.
+    claim_type: observation
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 3e3d0fe7-a2cf-4e09-ab26-7beca4bece48
+        title: NASA Jet Propulsion Laboratory (JPL)
+        slug: nasa-jet-propulsion-laboratory-jpl
+      - node_id: 52586266-6207-48bf-ad74-ca679326b5a9
+        title: Mars Global Surveyor
+        slug: mars-global-surveyor
+      - node_id: 5e47c787-005b-4c91-ba4b-c9bec48146c9
+        title: National Aeronautics and Space Administration (NASA)
+        slug: national-aeronautics-and-space-administration-nasa
+      - node_id: bbb5b561-9e28-49d2-b469-e6cbd085b289
+        title: John Brandenberg
+        slug: john-brandenberg
+      - node_id: e1650a1d-8feb-4841-a403-0d71e176d2d9
+        title: Richard C. Hoagland
+        slug: richard-c-hoagland
+    date: null
+    date_end: null
+    location_in_record: ch13:843-1016
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+      record_title: Dark Mission
+      record_date: '2010-07-22'
+      record_reference: null
+      content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+      friendly_name: null
+  - claim_id: a4e93dfe-56a2-49cf-89bd-27febcf00d52
+    claim_hash: fa2a59f8b1263fa821c2954f9769a54bfcbb49ac808b5af5bfed42ae29f452ea
+    content: Carl Sagan eventually gave up trying to get Louis Friedman to look at the Cydonia images, and told John Brandenberg
+      and David Webb he would deny the meeting took place if he were ever asked about it.
+    original_excerpt: Sagan eventually gave up trying to get Friedman to look, and then told Brandenburg and Webb that he
+      would deny the meeting took place if he were ever asked about it.
+    claim_type: testimony
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: named
+      origin: Carl Sagan
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 9778a6a9-311a-4add-8130-a1da615edb90
+        title: David Webb
+        slug: david-webb
+      - node_id: bb82a06d-4e07-4318-95c2-fbaea63d14a9
+        title: Louis Friedman
+        slug: louis-friedman
+      - node_id: bbb5b561-9e28-49d2-b469-e6cbd085b289
+        title: John Brandenberg
+        slug: john-brandenberg
+      - node_id: cc327db1-44bd-4762-acc0-d8fe82a3c6ea
+        title: Cydonia
+        slug: cydonia
+      - node_id: e7aef649-b8cd-42c8-af7f-ab1ceb0226c2
+        title: Carl Sagan
+        slug: carl-sagan
+    date: null
+    date_end: null
+    location_in_record: ch14:37597-37759
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+      record_title: Dark Mission
+      record_date: '2010-07-22'
+      record_reference: null
+      content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+      friendly_name: null
+  - claim_id: d4a12aa0-b9c1-4207-b06b-bf4c1307242b
+    claim_hash: 102d5558d14017771c0a3cd957999252f04526c00319195f04641b774def2c0b
+    content: Some former NASA whistleblowers, including Dr. John Brandenburg, have suggested or implied that the true intentions
+      of certain NASA missions, such as the Clementine mission, differed from what was publicly stated.
+    original_excerpt: We have some whistleblowers who've previously worked for NASA who suggest or imply that the intentions
+      of certain missions like the Clementine mission was different from what was publicly stated. And for example, Dr. John
+      Brandenburg.
+    claim_type: hearsay
+    attestation: second_hand
+    speaker:
+      node_id: b258ba79-75af-4717-8da2-cd62d86428e6
+      title: Maaneli "Max" Derakhshani
+    provenance_chain:
+      origin_kind: named
+      origin: John Brandenburg and other former NASA whistleblowers
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 5e47c787-005b-4c91-ba4b-c9bec48146c9
+        title: National Aeronautics and Space Administration (NASA)
+        slug: national-aeronautics-and-space-administration-nasa
+      - node_id: 6248eb51-3e0a-44a2-9708-bfd776848fad
+        title: Clementine mission
+        slug: clementine-mission
+      - node_id: bbb5b561-9e28-49d2-b469-e6cbd085b289
+        title: John Brandenberg
+        slug: john-brandenberg
+    date: null
+    date_end: null
+    location_in_record: 00:08:57.9-00:09:11.6
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: b3fda652-3dc2-4acc-b9ce-4b130add124f
+      record_title: What Did Apollo Astronauts Really See on the Moon? | Reality Check with Ross Coulthart
+      record_date: '2026-08-10'
+      record_reference: https://www.youtube.com/watch?v=lp-ta37pVKw
+      content_hash: sha256:f37882ab1f880101b3e452e3802d7afc296c07eb413f65ebea554984f3b8cdef
+      friendly_name: null

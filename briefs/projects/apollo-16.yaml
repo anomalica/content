@@ -1,0 +1,658 @@
+schema: anomalica/brief/1
+brief_hash: 465c4c0a30c06e0f8a9425ea2f1048eb60f262668e6d52ee0f8b3defed5b94fa
+page:
+  kind: entity
+  node_id: bb31f7ea-899c-4373-872c-8c326d325928
+  node_type: project
+  title: Apollo 16
+  slug: apollo-16
+  claim_count: 15
+  claim_count_total: 15
+generated:
+  graph_version: '2026-09-01T10:10:49.863545+00:00'
+size:
+  claims: 15
+  tokens_estimated: 4640
+  sized_against: 1050000
+publication:
+  status: published
+  note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
+    transcripts are gated elsewhere.
+belonging:
+  verified: 0
+  suspect_excluded: 0
+  unreviewed: 15
+related_nodes:
+  - node_id: 2bd9d043-7930-45eb-93b3-ddeec7e67dba
+    title: Orion (Apollo 16 Lunar Module)
+    node_type: object
+    slug: orion-apollo-16-lunar-module
+    shared_claims: 4
+  - node_id: ff26748c-1f2d-4563-bbd4-1e7cbf5f2ec5
+    title: Harrison Schmitt
+    node_type: person
+    slug: harrison-schmitt
+    shared_claims: 3
+  - node_id: e1650a1d-8feb-4841-a403-0d71e176d2d9
+    title: Richard C. Hoagland
+    node_type: person
+    slug: richard-c-hoagland
+    shared_claims: 3
+  - node_id: e95835fe-733e-4777-bb60-740d9727e2c8
+    title: Adolf Hitler
+    node_type: person
+    slug: adolf-hitler
+    shared_claims: 2
+  - node_id: f7c95e10-c632-4ab2-bd6c-19102858c5db
+    title: Apollo 15
+    node_type: project
+    slug: apollo-15
+    shared_claims: 2
+  - node_id: c76ec8f2-cf2e-4693-b24c-b3ce9c5879d0
+    title: Apollo 17
+    node_type: project
+    slug: apollo-17
+    shared_claims: 2
+  - node_id: 90e3876c-6482-4dc0-85b7-f23f374a9a93
+    title: Apollo 17 landing site, Taurus-Littrow
+    node_type: place
+    slug: taurus-littrow-apollo-17-landing-site
+    shared_claims: 2
+  - node_id: f22dd2e0-d635-4282-86af-76995188289d
+    title: AS16-112-18231HR (Apollo 16 photograph)
+    node_type: document
+    slug: as16-112-18231hr-apollo-16-photograph
+    shared_claims: 1
+  - node_id: aeb780b9-3c7f-425a-96f6-ae24e38a1db1
+    title: Charles Duke
+    node_type: person
+    slug: charles-duke
+    shared_claims: 1
+  - node_id: 07ff368f-3ac8-4204-98dd-faf540958308
+    title: Descartes (lunar crater)
+    node_type: place
+    slug: descartes-lunar-crater
+    shared_claims: 1
+  - node_id: f6658983-807e-4a72-90cf-39290c3ebf3f
+    title: National Space Science Data Center (NSSDC) visit by Hoagland's lunar investigation team, 1995
+    node_type: event
+    slug: 1995-national-space-science-data-center-nssdc-visit-by-hoaglands-lunar-investigation-team
+    shared_claims: 1
+  - node_id: 8ecf450c-a590-42de-a98b-077d191c736e
+    title: Osiris
+    node_type: topic
+    slug: osiris
+    shared_claims: 1
+  - node_id: e0f804d9-9b23-4bcd-9d7c-53e0d0531b05
+    title: Westinghouse Field Sequential Color Camera
+    node_type: object
+    slug: westinghouse-field-sequential-color-camera
+    shared_claims: 1
+claims:
+  - claim_id: 554664e0-1ab9-483f-ade7-f436c27b694a
+    claim_hash: 116ec5bdce8926c34ed6ce8f205353bf9ef1ee5ddba58cd301a05fd883a22517
+    content: An anonymous source claiming to regularly visit NASA Headquarters gave Richard C. Hoagland an Apollo 16 lunar
+      photographic print shortly before the 1995 National Space Science Data Center trip.
+    original_excerpt: Shortly before the trip to NSSDC, Hoagland had been given (by a “source”) a remarkable Apollo 16 lunar
+      photographic print.
+    claim_type: testimony
+    attestation: second_hand
+    speaker:
+      node_id: e1650a1d-8feb-4841-a403-0d71e176d2d9
+      title: Richard C. Hoagland
+    provenance_chain:
+      origin_kind: anonymous
+      origin: a person claiming to regularly visit NASA Headquarters
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: bb31f7ea-899c-4373-872c-8c326d325928
+        title: Apollo 16
+        slug: apollo-16
+      - node_id: e1650a1d-8feb-4841-a403-0d71e176d2d9
+        title: Richard C. Hoagland
+        slug: richard-c-hoagland
+    date: null
+    date_end: null
+    location_in_record: ch11:64282-64398
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+      record_title: Dark Mission
+      record_date: '2010-07-22'
+      record_reference: null
+      content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+      friendly_name: null
+  - claim_id: 25de00bf-6980-4cda-95ed-c1d3b8f1887a
+    claim_hash: c69811a6134824cdc6d98d69147146379a1db1c7fd9cca7823a21e50cce0eaba
+    content: During the 1995 Goddard visit, Richard C. Hoagland's team obtained several reels of 5-inch Apollo 16 panoramic
+      camera negatives, described as the highest-resolution Apollo photographs then available.
+    original_excerpt: as well as (surprisingly) several *reels* of 5-inch Apollo 16 *panoramic* camera negatives (the highest-resolution
+      Apollo photographs currently available), comprising literally thousands of superb high-resolution negatives
+    claim_type: administrative
+    attestation: first_hand
+    speaker:
+      node_id: e1650a1d-8feb-4841-a403-0d71e176d2d9
+      title: Richard C. Hoagland
+    provenance_chain:
+      origin_kind: speaker
+      origin: Richard C. Hoagland
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: bb31f7ea-899c-4373-872c-8c326d325928
+        title: Apollo 16
+        slug: apollo-16
+      - node_id: e1650a1d-8feb-4841-a403-0d71e176d2d9
+        title: Richard C. Hoagland
+        slug: richard-c-hoagland
+      - node_id: f6658983-807e-4a72-90cf-39290c3ebf3f
+        title: National Space Science Data Center (NSSDC) visit by Hoagland's lunar investigation team, 1995
+        slug: 1995-national-space-science-data-center-nssdc-visit-by-hoaglands-lunar-investigation-team
+    date: '1995'
+    date_end: null
+    location_in_record: ch11:67366-67579
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+      record_title: Dark Mission
+      record_date: '2010-07-22'
+      record_reference: null
+      content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+      friendly_name: null
+  - claim_id: 56896a55-073a-4a3c-bc92-422f0fa1fc88
+    claim_hash: 1e6f70f3f06719fdf8baeed1750acdd53d949b157acbeff3e4a16e64c7558829
+    content: Apollo 16 landed on the Moon on 1972-04-20, Adolf Hitler's birthday.
+    original_excerpt: The second time was with Apollo 16, in 1972... Once again—on Hitler's date of birth.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: bb31f7ea-899c-4373-872c-8c326d325928
+        title: Apollo 16
+        slug: apollo-16
+      - node_id: e95835fe-733e-4777-bb60-740d9727e2c8
+        title: Adolf Hitler
+        slug: adolf-hitler
+    date: '1972-04-20'
+    date_end: null
+    location_in_record: ch12:134134-134208
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+      record_title: Dark Mission
+      record_date: '2010-07-22'
+      record_reference: null
+      content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+      friendly_name: null
+  - claim_id: 0a148ab1-8828-4c4b-b382-6d35ccc8d1c3
+    claim_hash: 36e89b8ba02c66a46724025f511a07eb462e6a10b31eebe8fa816463bd03b7b9
+    content: The Apollo 16 Lunar Module had a problem with its Service Propulsion System engine just before the planned deorbit
+      burn, delaying the intended landing time for several hours until the date changed to April 20th, at which point the
+      problem cleared and the astronauts were given the go-ahead to land.
+    original_excerpt: the Lunar Module on Apollo 16 had "a problem" with it's critical SPS engine just before the planned
+      "deorbit burn" ... which delayed the intending landing time for several nail-biting hours, while NASA trouble-shot various
+      engineering possibilities from Earth. This process dragged on and on … until the date of "April 20th" clicked over on
+      the clock. Then, suddenly, the "problem" cleared itself—and the astronauts were given the go-ahead to land on "the next
+      rev"
+    claim_type: opinion
+    attestation: first_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: speaker
+      origin: Richard C. Hoagland
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: bb31f7ea-899c-4373-872c-8c326d325928
+        title: Apollo 16
+        slug: apollo-16
+    date: null
+    date_end: null
+    location_in_record: ch12:134191-134652
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+      record_title: Dark Mission
+      record_date: '2010-07-22'
+      record_reference: null
+      content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+      friendly_name: null
+  - claim_id: 6548c211-2af4-40c8-a1b3-b4507575f8d6
+    claim_hash: e7e6ff513025a74d60c155762f4beaa151d9ff1626fe466ff6d239543601115f
+    content: The Apollo 16 Lunar Module was named Orion.
+    original_excerpt: 'Not only that, but that particular Lunar Module had a very interesting name: Orion.'
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 2bd9d043-7930-45eb-93b3-ddeec7e67dba
+        title: Orion (Apollo 16 Lunar Module)
+        slug: orion-apollo-16-lunar-module
+      - node_id: bb31f7ea-899c-4373-872c-8c326d325928
+        title: Apollo 16
+        slug: apollo-16
+    date: null
+    date_end: null
+    location_in_record: ch12:134698-134775
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+      record_title: Dark Mission
+      record_date: '2010-07-22'
+      record_reference: null
+      content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+      friendly_name: null
+  - claim_id: 6322539e-cd44-41e7-8189-aa8bdd07c199
+    claim_hash: 0b94f950c2110db9a9609f79d87fd1e361a5c37fe8ccda5f6f797736dc01c76c
+    content: The Orion Lunar Module used on Apollo 16 was the only Lunar Module in the entire Apollo programme that was not
+      deliberately crashed back onto the Moon after the astronauts departed and returned safely to the Command Module.
+    original_excerpt: Orion was also the only Lunar Module in the entire Apollo Program which was *not* deliberately crashed
+      back onto the Moon after the astronauts had left the Moon, returned to the Command Module, and were safely on their
+      way home
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 2bd9d043-7930-45eb-93b3-ddeec7e67dba
+        title: Orion (Apollo 16 Lunar Module)
+        slug: orion-apollo-16-lunar-module
+      - node_id: bb31f7ea-899c-4373-872c-8c326d325928
+        title: Apollo 16
+        slug: apollo-16
+    date: null
+    date_end: null
+    location_in_record: ch12:134783-135006
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+      record_title: Dark Mission
+      record_date: '2010-07-22'
+      record_reference: null
+      content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+      friendly_name: null
+  - claim_id: ed94009b-2d10-40e5-9e2e-95f39da0fd10
+    claim_hash: c2f81962be443f8a7697b34c628d14d49d0162b66d8020bb689829fb1e6aa4e8
+    content: The Apollo 16 landing site is located in the lunar highlands near the crater Descartes.
+    original_excerpt: the skies above the Apollo 16 landing site—in the lunar highlands near a major lunar crater called "Descartes"
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 07ff368f-3ac8-4204-98dd-faf540958308
+        title: Descartes (lunar crater)
+        slug: descartes-lunar-crater
+      - node_id: bb31f7ea-899c-4373-872c-8c326d325928
+        title: Apollo 16
+        slug: apollo-16
+    date: null
+    date_end: null
+    location_in_record: ch12:135335-135435
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+      record_title: Dark Mission
+      record_date: '2010-07-22'
+      record_reference: null
+      content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+      friendly_name: null
+  - claim_id: f44f1b0e-ae47-4d90-8b74-2202a5bcc5a7
+    claim_hash: b5698a3a11d291d33907736bf346db0cccc1030da6cbf6a7754926c0eebb7ad4
+    content: The Apollo 16 lunar module named Orion landed on the Moon on 1972-04-20, Adolf Hitler's birthday.
+    original_excerpt: Fig. 5-35 - Alignments at the landing of Apollo 16 lunar module “Orion” on April 20th, 1972 (Adolf Hitler’s
+      birthday).
+    claim_type: observation
+    attestation: first_hand
+    speaker:
+      node_id: e1650a1d-8feb-4841-a403-0d71e176d2d9
+      title: Richard C. Hoagland
+    provenance_chain:
+      origin_kind: speaker
+      origin: Richard C. Hoagland
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 2bd9d043-7930-45eb-93b3-ddeec7e67dba
+        title: Orion (Apollo 16 Lunar Module)
+        slug: orion-apollo-16-lunar-module
+      - node_id: bb31f7ea-899c-4373-872c-8c326d325928
+        title: Apollo 16
+        slug: apollo-16
+      - node_id: e95835fe-733e-4777-bb60-740d9727e2c8
+        title: Adolf Hitler
+        slug: adolf-hitler
+    date: '1972-04-20'
+    date_end: null
+    location_in_record: ch12:172657-172765
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+      record_title: Dark Mission
+      record_date: '2010-07-22'
+      record_reference: null
+      content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+      friendly_name: null
+  - claim_id: 5775f32c-0dc4-4518-ab88-f9cf589b6f10
+    claim_hash: 678cc31a8891dff92d5b869c64eb18f604d8fb62b8e0f7a8e277d5020acc5b86
+    content: The Apollo 16 Lunar Module was openly named "Orion," which Richard C. Hoagland considers an obvious reference
+      to Osiris.
+    original_excerpt: The Apollo 16 LEM had been openly named “Orion,” an obvious reference to Osiris.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: e1650a1d-8feb-4841-a403-0d71e176d2d9
+      title: Richard C. Hoagland
+    provenance_chain:
+      origin_kind: speaker
+      origin: Richard C. Hoagland
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 2bd9d043-7930-45eb-93b3-ddeec7e67dba
+        title: Orion (Apollo 16 Lunar Module)
+        slug: orion-apollo-16-lunar-module
+      - node_id: 8ecf450c-a590-42de-a98b-077d191c736e
+        title: Osiris
+        slug: osiris
+      - node_id: bb31f7ea-899c-4373-872c-8c326d325928
+        title: Apollo 16
+        slug: apollo-16
+      - node_id: e1650a1d-8feb-4841-a403-0d71e176d2d9
+        title: Richard C. Hoagland
+        slug: richard-c-hoagland
+    date: null
+    date_end: null
+    location_in_record: ch12:18321-18394
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+      record_title: Dark Mission
+      record_date: '2010-07-22'
+      record_reference: null
+      content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+      friendly_name: null
+  - claim_id: 9bfc6e78-225b-4faa-aa58-9041f3f817e0
+    claim_hash: a5ffc778e1514d1b9c4fd0feeedaf2d0db381d8a1373675091a88a098f6d6ee0
+    content: Similar rectilinear formations were seen in the lunar highlands, halfway between the Apollo 15 and Apollo 17
+      sites, by Apollo 16 astronauts John Young and Charles Duke.
+    original_excerpt: as well as in "the highlands of the Moon," half way between the 15 and 17 sites, by the Apollo 16 astronauts,
+      John Young and Charlie Duke
+    claim_type: observation
+    attestation: first_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: speaker
+      origin: Richard C. Hoagland
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: aeb780b9-3c7f-425a-96f6-ae24e38a1db1
+        title: Charles Duke
+        slug: charles-duke
+      - node_id: bb31f7ea-899c-4373-872c-8c326d325928
+        title: Apollo 16
+        slug: apollo-16
+    date: null
+    date_end: null
+    location_in_record: ch19:56575-56708
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+      record_title: Dark Mission
+      record_date: '2010-07-22'
+      record_reference: null
+      content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+      friendly_name: null
+  - claim_id: fe33df66-8c2b-4f32-916c-db3aba441357
+    claim_hash: cb24a2ca3ec24793aa66459b510fa39435f0a3ded685b4852742922095a2e778
+    content: Richard C. Hoagland considers an example of geologic layering visible in an Apollo 16 photograph, similar to
+      the Apollo 17 landing site, to bear a remarkable resemblance to heavily-eroded, artificial honeycomb construction.
+    original_excerpt: Fig. 12-10 - Striking example of “geologic layering” (on a waterless Moon…) from Apollo 16—similar to
+      Apollo 17 landing site, bearing a remarkable resemblance to heavily-eroded, artificial “honeycomb” construction
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: e1650a1d-8feb-4841-a403-0d71e176d2d9
+      title: Richard C. Hoagland
+    provenance_chain:
+      origin_kind: speaker
+      origin: Richard C. Hoagland
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 90e3876c-6482-4dc0-85b7-f23f374a9a93
+        title: Apollo 17 landing site, Taurus-Littrow
+        slug: taurus-littrow-apollo-17-landing-site
+      - node_id: bb31f7ea-899c-4373-872c-8c326d325928
+        title: Apollo 16
+        slug: apollo-16
+      - node_id: f22dd2e0-d635-4282-86af-76995188289d
+        title: AS16-112-18231HR (Apollo 16 photograph)
+        slug: as16-112-18231hr-apollo-16-photograph
+    date: null
+    date_end: null
+    location_in_record: ch19:90545-90746
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+      record_title: Dark Mission
+      record_date: '2010-07-22'
+      record_reference: null
+      content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+      friendly_name: null
+  - claim_id: aac8dcb5-bcb9-4906-b223-879371651bbd
+    claim_hash: 2ad735e29c8d2614fb1855d7640204463d2b7e4a9d1bfdf0cc1855d2ad77da27
+    content: On Apollo 15, 16, and 17, the Sequential Color Camera received a gamma correction capability, and transmissions
+      on those missions were run through a bandwidth-limiting low-pass filter that reduced image quality.
+    original_excerpt: However, the Sequential Color Camera only received a gamma correction capability on the last three missions
+      (Apollo 15, 16, and 17) and all of the transmissions were run through a bandwidth limiting “low-pass” filter which dramatically
+      reduced the image quality.
+    claim_type: observation
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 90e3876c-6482-4dc0-85b7-f23f374a9a93
+        title: Apollo 17 landing site, Taurus-Littrow
+        slug: taurus-littrow-apollo-17-landing-site
+      - node_id: bb31f7ea-899c-4373-872c-8c326d325928
+        title: Apollo 16
+        slug: apollo-16
+      - node_id: e0f804d9-9b23-4bcd-9d7c-53e0d0531b05
+        title: Westinghouse Field Sequential Color Camera
+        slug: westinghouse-field-sequential-color-camera
+      - node_id: f7c95e10-c632-4ab2-bd6c-19102858c5db
+        title: Apollo 15
+        slug: apollo-15
+    date: null
+    date_end: null
+    location_in_record: ch20:10573-10827
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+      record_title: Dark Mission
+      record_date: '2010-07-22'
+      record_reference: null
+      content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+      friendly_name: null
+  - claim_id: 0e1070d7-8e0a-40a3-9e04-3cbcabe3dafc
+    claim_hash: 713f39e010a4f171d40a3dfbf14240814b946df9e7845cc43228b52104759acc
+    content: Harrison Schmitt did not use the data card book to the extent he believes it was used on Apollo 15 and possibly
+      on Apollo 16.
+    original_excerpt: I did not use the data card book to the extent that I know it was used on 15 and maybe on 16.
+    claim_type: observation
+    attestation: first_hand
+    speaker:
+      node_id: ff26748c-1f2d-4563-bbd4-1e7cbf5f2ec5
+      title: Harrison Schmitt
+    provenance_chain:
+      origin_kind: speaker
+      origin: Harrison Schmitt
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: bb31f7ea-899c-4373-872c-8c326d325928
+        title: Apollo 16
+        slug: apollo-16
+      - node_id: f7c95e10-c632-4ab2-bd6c-19102858c5db
+        title: Apollo 15
+        slug: apollo-15
+      - node_id: ff26748c-1f2d-4563-bbd4-1e7cbf5f2ec5
+        title: Harrison Schmitt
+        slug: harrison-schmitt
+    date: null
+    date_end: null
+    location_in_record: 00:04:29.1-00:04:33.7
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 4c96108b-60eb-4fd2-8408-38ff733d2df4
+      record_title: NASA-UAP-D029, Apollo 17 Crew Medical Debriefing (Continued), 1972
+      record_date: '2026-07-11'
+      record_reference: https://www.dvidshub.net/video/1014117
+      content_hash: sha256:63c518ebd5b9dbaf027b3dcdbc0f7fe2572ff85e4be34b72062dd82cb161830b
+      friendly_name: null
+  - claim_id: 59823a5d-0bac-485b-adce-31eac3ddd183
+    claim_hash: fc214707bfd332244a04aada73bb08332edea2390b9b356b4767a18629a12356
+    content: On Apollo 17, the onset of a loose-stool problem was delayed until about the 11th or 12th day, unlike on Apollo
+      16.
+    original_excerpt: I think it's important to try to understand why Apollo 17 was different than 16, and at least in the
+      delay of a problem with loose stools until about the 11th or 12th day.
+    claim_type: observation
+    attestation: first_hand
+    speaker:
+      node_id: ff26748c-1f2d-4563-bbd4-1e7cbf5f2ec5
+      title: Harrison Schmitt
+    provenance_chain:
+      origin_kind: speaker
+      origin: Harrison Schmitt
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: bb31f7ea-899c-4373-872c-8c326d325928
+        title: Apollo 16
+        slug: apollo-16
+      - node_id: c76ec8f2-cf2e-4693-b24c-b3ce9c5879d0
+        title: Apollo 17
+        slug: apollo-17
+      - node_id: ff26748c-1f2d-4563-bbd4-1e7cbf5f2ec5
+        title: Harrison Schmitt
+        slug: harrison-schmitt
+    date: null
+    date_end: null
+    location_in_record: 00:43:16.2-00:43:32.0
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 4c96108b-60eb-4fd2-8408-38ff733d2df4
+      record_title: NASA-UAP-D029, Apollo 17 Crew Medical Debriefing (Continued), 1972
+      record_date: '2026-07-11'
+      record_reference: https://www.dvidshub.net/video/1014117
+      content_hash: sha256:63c518ebd5b9dbaf027b3dcdbc0f7fe2572ff85e4be34b72062dd82cb161830b
+      friendly_name: null
+  - claim_id: 31cfa078-9577-4437-b151-3abf534ab345
+    claim_hash: 01faa7f55a6c575992390c57fe1e0a23af010efaf4f147eaa9dea475ba56514b
+    content: Harrison Schmitt's personal opinion, based on limited in-flight observation and consideration of electrolyte
+      intake levels, was that the reduced electrolyte quantity compared to Apollo 16 meant electrolyte saturation was not
+      reached until the 11th or 12th day for the Command Module Pilot and Lunar Module Pilot on Apollo 17.
+    original_excerpt: And my personal opinion at this point, based on very little information other than observation in flight
+      and thinking about levels of electrolyte intake, is that with the electrolyte quantity down from that imposed on Apollo
+      16 that we did not reach an electrolyte saturation level until the 11th or 12th day, in terms of the CMP and the LMP
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: ff26748c-1f2d-4563-bbd4-1e7cbf5f2ec5
+      title: Harrison Schmitt
+    provenance_chain:
+      origin_kind: speaker
+      origin: Harrison Schmitt
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: bb31f7ea-899c-4373-872c-8c326d325928
+        title: Apollo 16
+        slug: apollo-16
+      - node_id: c76ec8f2-cf2e-4693-b24c-b3ce9c5879d0
+        title: Apollo 17
+        slug: apollo-17
+      - node_id: ff26748c-1f2d-4563-bbd4-1e7cbf5f2ec5
+        title: Harrison Schmitt
+        slug: harrison-schmitt
+    date: null
+    date_end: null
+    location_in_record: 00:43:36.8-00:44:07.6
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 4c96108b-60eb-4fd2-8408-38ff733d2df4
+      record_title: NASA-UAP-D029, Apollo 17 Crew Medical Debriefing (Continued), 1972
+      record_date: '2026-07-11'
+      record_reference: https://www.dvidshub.net/video/1014117
+      content_hash: sha256:63c518ebd5b9dbaf027b3dcdbc0f7fe2572ff85e4be34b72062dd82cb161830b
+      friendly_name: null

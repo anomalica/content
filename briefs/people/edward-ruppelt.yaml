@@ -1,0 +1,982 @@
+schema: anomalica/brief/1
+brief_hash: 18d444c8fe1b92e9b85a6e31b07ab17fae3f1c9d6fb2f152a411bb67f2d1d84e
+page:
+  kind: entity
+  node_id: 9c33f24d-2663-4c2a-b542-8ac668326e20
+  node_type: person
+  title: Edward Ruppelt
+  slug: edward-ruppelt
+  claim_count: 23
+  claim_count_total: 23
+generated:
+  graph_version: '2026-09-01T10:10:49.863545+00:00'
+size:
+  claims: 23
+  tokens_estimated: 6546
+  sized_against: 1050000
+publication:
+  status: published
+  note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
+    transcripts are gated elsewhere.
+belonging:
+  verified: 0
+  suspect_excluded: 0
+  unreviewed: 23
+related_nodes:
+  - node_id: abe07382-c992-4549-b0ff-6d2bc0b3e3e0
+    title: Project GRUDGE (Reestablishment)
+    node_type: project
+    slug: project-grudge-reestablishment
+    shared_claims: 8
+  - node_id: 769601ed-5b7f-4833-ae21-5d60d0fddaaa
+    title: Project Blue Book
+    node_type: project
+    slug: project-blue-book
+    shared_claims: 6
+  - node_id: 7a2adbe8-5a43-4700-a844-a24d35748e19
+    title: Project GRUDGE (Original Organization)
+    node_type: project
+    slug: project-grudge-original-organization
+    shared_claims: 3
+  - node_id: f5d73324-41fa-47e1-9348-c40a271cfb62
+    title: Project Sign
+    node_type: project
+    slug: project-sign
+    shared_claims: 3
+  - node_id: 32b98a17-be55-4b0f-8e10-9d377e1e8b33
+    title: United States Air Force (USAF)
+    node_type: organisation
+    slug: united-states-air-force-usaf
+    shared_claims: 3
+  - node_id: d604549a-40b2-441c-9756-9b27ffdc6925
+    title: Estimate of the Situation (1948)
+    node_type: document
+    slug: estimate-of-the-situation-1948
+    shared_claims: 2
+  - node_id: 08778a39-f85b-4d03-9f62-23366a3c976c
+    title: Project BEAR
+    node_type: project
+    slug: project-bear
+    shared_claims: 2
+  - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
+    title: Unidentified Flying Object (UFO)
+    node_type: topic
+    slug: unidentified-flying-object-ufo
+    shared_claims: 2
+  - node_id: e79e207c-a848-4eb7-9246-07587b20d2c1
+    title: All-domain Anomaly Resolution Office (AARO)
+    node_type: organisation
+    slug: all-domain-anomaly-resolution-office-aaro
+    shared_claims: 1
+  - node_id: ec810255-5617-4bcd-9a17-346323c85a5f
+    title: Battelle Memorial Institute (BMI)
+    node_type: organisation
+    slug: battelle-memorial-institute-bmi
+    shared_claims: 1
+  - node_id: 3d59ca99-543d-402a-ac33-f68d428fc728
+    title: Project GRUDGE
+    node_type: project
+    slug: project-grudge
+    shared_claims: 1
+  - node_id: cc888145-58ee-42f5-b3c9-7a90e71ae117
+    title: Project SAUCER
+    node_type: project
+    slug: project-saucer
+    shared_claims: 1
+  - node_id: 23f17da9-6fea-4e9a-99a8-c9f5e0a08098
+    title: USA, New Mexico, Los Alamos-Albuquerque
+    node_type: place
+    slug: new-mexico-los-alamos-albuquerque-usa
+    shared_claims: 1
+  - node_id: 0166f727-ae03-4b15-b8d3-f73188ea7dc5
+    title: USA, New Mexico, White Sands
+    node_type: place
+    slug: new-mexico-white-sands-usa
+    shared_claims: 1
+  - node_id: a316cbb9-b90f-422a-9329-9be7414bda65
+    title: USA, Tennessee, Oak Ridge
+    node_type: place
+    slug: tennessee-oak-ridge-usa
+    shared_claims: 1
+claims:
+  - claim_id: 5b6c1dde-c122-4963-bdb5-c22d7a45ee96
+    claim_hash: 7ba541e70d75b9fc01eb2dc6821e2d74e1092581bf8d7e2007996d601b4b054f
+    content: Edward Ruppelt was a US Air Force officer privy to the Project Sign investigations.
+    original_excerpt: One insider privy to the Project Sign investigations was a US Air Force officer, Edward Ruppelt
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: narration
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 32b98a17-be55-4b0f-8e10-9d377e1e8b33
+        title: United States Air Force (USAF)
+        slug: united-states-air-force-usaf
+      - node_id: 9c33f24d-2663-4c2a-b542-8ac668326e20
+        title: Edward Ruppelt
+        slug: edward-ruppelt
+      - node_id: f5d73324-41fa-47e1-9348-c40a271cfb62
+        title: Project Sign
+        slug: project-sign
+    date: null
+    date_end: null
+    location_in_record: ch8:1378-1466
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 94b1b41f-8928-43e1-a0d9-a87655ca181a
+    claim_hash: 7ea12f074db965f33ca4cbe1fdf7af9d861032c410c285e798f27cb430ee6510
+    content: Edward Ruppelt claimed to have seen a highly classified 1948 Project Sign 'Estimate of the Situation' report
+      investigating flying saucer sightings.
+    original_excerpt: He subsequently claimed to have seen a highly classified 1948 Project Sign report, entitled 'Estimate
+      of the Situation', investigating the flying saucer sightings
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 9c33f24d-2663-4c2a-b542-8ac668326e20
+      title: Edward Ruppelt
+    provenance_chain:
+      origin_kind: speaker
+      origin: Edward Ruppelt
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 9c33f24d-2663-4c2a-b542-8ac668326e20
+        title: Edward Ruppelt
+        slug: edward-ruppelt
+    date: null
+    date_end: null
+    location_in_record: ch8:1475-1628
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 9fea55f0-6b72-4442-8eed-2972223676bd
+    claim_hash: 7ecbe28abfa611e974e22ecf613265afc283721ad198da57f0d513ce31e8032d
+    content: Edward Ruppelt later headed Project Blue Book's UAP investigations.
+    original_excerpt: Ruppelt, who later headed Project Blue Book's UAP investigations
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: narration
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 769601ed-5b7f-4833-ae21-5d60d0fddaaa
+        title: Project Blue Book
+        slug: project-blue-book
+      - node_id: 9c33f24d-2663-4c2a-b542-8ac668326e20
+        title: Edward Ruppelt
+        slug: edward-ruppelt
+    date: null
+    date_end: null
+    location_in_record: ch8:1742-1792
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 05cfc5b9-7d76-49c6-99e5-7a607440887c
+    claim_hash: 9e31e4d267d3932fb726d58bf9e32e809ee4a2e2d537118a1ecca9fe88566ac0
+    content: The 1948 Project Sign 'Estimate of the Situation' report concluded that the best explanation for the phenomenon
+      was that the craft were extra-terrestrial.
+    original_excerpt: Ruppelt, who later headed Project Blue Book's UAP investigations, claimed this early report concluded
+      that the best explanation for the phenomenon was that the craft were extra-terrestrial
+    claim_type: hearsay
+    attestation: second_hand
+    speaker:
+      node_id: 9c33f24d-2663-4c2a-b542-8ac668326e20
+      title: Edward Ruppelt
+    provenance_chain:
+      origin_kind: document
+      origin: 1948 Project Sign 'Estimate of the Situation' report
+      relay:
+        - Edward Ruppelt
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 9c33f24d-2663-4c2a-b542-8ac668326e20
+        title: Edward Ruppelt
+        slug: edward-ruppelt
+    date: null
+    date_end: null
+    location_in_record: ch8:1742-1919
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 0249af1f-6fd2-4452-aa20-a78d88b0fd89
+    claim_hash: 12a225279f53c5ca1c1175177f795e94a8ea7389a3cc8ed58616827082fe0027
+    content: Edward Ruppelt later asserted there was a widespread view that Project Grudge was operating under a directive
+      to debunk all sightings.
+    original_excerpt: as project insider Edward Ruppelt later asserted, there was a widespread view that Project Grudge was
+      operating under a directive to debunk all sightings
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 9c33f24d-2663-4c2a-b542-8ac668326e20
+      title: Edward Ruppelt
+    provenance_chain:
+      origin_kind: speaker
+      origin: Edward Ruppelt
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 3d59ca99-543d-402a-ac33-f68d428fc728
+        title: Project GRUDGE
+        slug: project-grudge
+      - node_id: 9c33f24d-2663-4c2a-b542-8ac668326e20
+        title: Edward Ruppelt
+        slug: edward-ruppelt
+    date: null
+    date_end: null
+    location_in_record: ch8:3681-3825
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: c1b23519-6a5f-46ca-a4f3-c89236f6faf9
+    claim_hash: a7054222626dc4a5e56ff84604ea84bccd93f59d5d8f8ac9b32937a52a80d5e2
+    content: Edward J. Ruppelt was involved with three UFO investigation efforts, including serving as the initial leader
+      of Project BLUE BOOK.
+    original_excerpt: Capt Ruppelt, who was involved with three UFO investigations efforts, including being the initial leader
+      of Project BLUE BOOK
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 769601ed-5b7f-4833-ae21-5d60d0fddaaa
+        title: Project Blue Book
+        slug: project-blue-book
+      - node_id: 9c33f24d-2663-4c2a-b542-8ac668326e20
+        title: Edward Ruppelt
+        slug: edward-ruppelt
+    date: null
+    date_end: null
+    location_in_record: char:110124-110245
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: d3743fdf-6a99-43ef-98d4-b79ef60f0e47
+      record_title: Report on the Historical Record of U.S. Government Involvement with Unidentified Anomalous Phenomena (UAP),
+        Volume I
+      record_date: '2024-02-01'
+      record_reference: null
+      content_hash: sha256:8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a94774067868
+      friendly_name: 2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a
+  - claim_id: a6889b9e-a705-459d-af6d-8a27deb1b027
+    claim_hash: 130ce258519dd52ae0e8574d950fe79e0d3fedecf5115d29e39c723948cf290b
+    content: Edward J. Ruppelt noted that there would be spikes in reported UFO sightings after official press events mentioning
+      UFOs, suggesting that reports of sightings can influence the incidence of additional reported sightings.
+    original_excerpt: noted that there would be spikes in reported sightings after official press events mentioning UFOs;
+      suggesting that reports of sightings can influence the incidence of additional reported sightings.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 9c33f24d-2663-4c2a-b542-8ac668326e20
+      title: Edward Ruppelt
+    provenance_chain:
+      origin_kind: speaker
+      origin: Edward J. Ruppelt
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
+        title: Unidentified Flying Object (UFO)
+        slug: unidentified-flying-object-ufo
+      - node_id: 9c33f24d-2663-4c2a-b542-8ac668326e20
+        title: Edward Ruppelt
+        slug: edward-ruppelt
+    date: null
+    date_end: null
+    location_in_record: char:110251-110439
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: d3743fdf-6a99-43ef-98d4-b79ef60f0e47
+      record_title: Report on the Historical Record of U.S. Government Involvement with Unidentified Anomalous Phenomena (UAP),
+        Volume I
+      record_date: '2024-02-01'
+      record_reference: null
+      content_hash: sha256:8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a94774067868
+      friendly_name: 2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a
+  - claim_id: 461b32a1-467b-4cc6-a4bd-542453d4a483
+    claim_hash: 0b4642ca05099b910b8f58a1c91fc8aaf4f508799ebdde9d197e20920b225caa
+    content: Edward J. Ruppelt was the first director of Project BLUE BOOK.
+    original_excerpt: Capt Ruppelt, the first director of Project BLUE BOOK
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 769601ed-5b7f-4833-ae21-5d60d0fddaaa
+        title: Project Blue Book
+        slug: project-blue-book
+      - node_id: 9c33f24d-2663-4c2a-b542-8ac668326e20
+        title: Edward Ruppelt
+        slug: edward-ruppelt
+    date: null
+    date_end: null
+    location_in_record: char:111408-111457
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: d3743fdf-6a99-43ef-98d4-b79ef60f0e47
+      record_title: Report on the Historical Record of U.S. Government Involvement with Unidentified Anomalous Phenomena (UAP),
+        Volume I
+      record_date: '2024-02-01'
+      record_reference: null
+      content_hash: sha256:8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a94774067868
+      friendly_name: 2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a
+  - claim_id: 38fdfbf1-577c-43dc-944b-d802fe9b12d1
+    claim_hash: e99fa1e87c9284c5f5edfec6f77d717f8b2f78f152922ba4788eb59289b637f6
+    content: Edward J. Ruppelt noted that the inability to collect a UFO's altitude, size, and speed was a recurring and significant
+      obstacle to resolving cases.
+    original_excerpt: noted that the inability to collect the UFO's altitude, size, and speed was a recurring and significant
+      obstacle to resolving cases.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 9c33f24d-2663-4c2a-b542-8ac668326e20
+      title: Edward Ruppelt
+    provenance_chain:
+      origin_kind: speaker
+      origin: Edward J. Ruppelt
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
+        title: Unidentified Flying Object (UFO)
+        slug: unidentified-flying-object-ufo
+      - node_id: 9c33f24d-2663-4c2a-b542-8ac668326e20
+        title: Edward Ruppelt
+        slug: edward-ruppelt
+    date: null
+    date_end: null
+    location_in_record: char:111463-111589
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: d3743fdf-6a99-43ef-98d4-b79ef60f0e47
+      record_title: Report on the Historical Record of U.S. Government Involvement with Unidentified Anomalous Phenomena (UAP),
+        Volume I
+      record_date: '2024-02-01'
+      record_reference: null
+      content_hash: sha256:8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a94774067868
+      friendly_name: 2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a
+  - claim_id: 3e8086b0-e0e0-4c6a-9376-5a482a7347e1
+    claim_hash: cefc89bb442f0e12c5dd5c274f02ce54386d6066ddf8d80e72a28d2c888cdfce
+    content: Edward J. Ruppelt, the first chief of Project BLUE BOOK, later wrote that he was expected to explain away every
+      report and that the United States Air Force (USAF) sought to produce press stories in alignment with its position.
+    original_excerpt: Capt Ruppelt, the first chief of BLUE BOOK, later wrote that he was expected to explain away every report
+      and that the USAF sought to produce press stories in alignment with the USAF's position.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 9c33f24d-2663-4c2a-b542-8ac668326e20
+      title: Edward Ruppelt
+    provenance_chain:
+      origin_kind: speaker
+      origin: Edward J. Ruppelt
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 32b98a17-be55-4b0f-8e10-9d377e1e8b33
+        title: United States Air Force (USAF)
+        slug: united-states-air-force-usaf
+      - node_id: 769601ed-5b7f-4833-ae21-5d60d0fddaaa
+        title: Project Blue Book
+        slug: project-blue-book
+      - node_id: 9c33f24d-2663-4c2a-b542-8ac668326e20
+        title: Edward Ruppelt
+        slug: edward-ruppelt
+    date: null
+    date_end: null
+    location_in_record: char:112841-113026
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: d3743fdf-6a99-43ef-98d4-b79ef60f0e47
+      record_title: Report on the Historical Record of U.S. Government Involvement with Unidentified Anomalous Phenomena (UAP),
+        Volume I
+      record_date: '2024-02-01'
+      record_reference: null
+      content_hash: sha256:8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a94774067868
+      friendly_name: 2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a
+  - claim_id: fde445ac-828e-47ad-97fc-01db680f2c9a
+    claim_hash: 312ebba0d2c2c13a15cd900db965b97b07911715cc423dc575567685eb8071cb
+    content: Edward J. Ruppelt claimed that Project SAUCER was the informal name of Project SIGN and that it was designated
+      a high priority.
+    original_excerpt: Captain Edward Ruppelt claimed that Project SAUCER was the informal name of Project SIGN and it was
+      designated a high priority.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 9c33f24d-2663-4c2a-b542-8ac668326e20
+      title: Edward Ruppelt
+    provenance_chain:
+      origin_kind: speaker
+      origin: Edward J. Ruppelt
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 9c33f24d-2663-4c2a-b542-8ac668326e20
+        title: Edward Ruppelt
+        slug: edward-ruppelt
+      - node_id: cc888145-58ee-42f5-b3c9-7a90e71ae117
+        title: Project SAUCER
+        slug: project-saucer
+      - node_id: f5d73324-41fa-47e1-9348-c40a271cfb62
+        title: Project Sign
+        slug: project-sign
+    date: null
+    date_end: null
+    location_in_record: char:25290-25408
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: d3743fdf-6a99-43ef-98d4-b79ef60f0e47
+      record_title: Report on the Historical Record of U.S. Government Involvement with Unidentified Anomalous Phenomena (UAP),
+        Volume I
+      record_date: '2024-02-01'
+      record_reference: null
+      content_hash: sha256:8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a94774067868
+      friendly_name: 2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a
+  - claim_id: 22d34974-e75d-4f7e-a9bb-8e6bbfb0ae27
+    claim_hash: 71dc5d28330069343227be79e10fa735e4a18ab2db3b80f671a406c449f811ae
+    content: In late October 1951, almost two years after Project GRUDGE was disestablished, the United States Air Force's
+      UFO mission was reorganised into another distinct programme, also named Project GRUDGE, led by Edward J. Ruppelt.
+    original_excerpt: In late October 1951, almost two years after Project GRUDGE was disestablished, the USAF's UFO mission
+      was reorganized into another distinct program - also named Project GRUDGE - led by Capt Ruppelt.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 32b98a17-be55-4b0f-8e10-9d377e1e8b33
+        title: United States Air Force (USAF)
+        slug: united-states-air-force-usaf
+      - node_id: 7a2adbe8-5a43-4700-a844-a24d35748e19
+        title: Project GRUDGE (Original Organization)
+        slug: project-grudge-original-organization
+      - node_id: 9c33f24d-2663-4c2a-b542-8ac668326e20
+        title: Edward Ruppelt
+        slug: edward-ruppelt
+      - node_id: abe07382-c992-4549-b0ff-6d2bc0b3e3e0
+        title: Project GRUDGE (Reestablishment)
+        slug: project-grudge-reestablishment
+    date: 1951-10
+    date_end: null
+    location_in_record: char:33424-33615
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: d3743fdf-6a99-43ef-98d4-b79ef60f0e47
+      record_title: Report on the Historical Record of U.S. Government Involvement with Unidentified Anomalous Phenomena (UAP),
+        Volume I
+      record_date: '2024-02-01'
+      record_reference: null
+      content_hash: sha256:8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a94774067868
+      friendly_name: 2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a
+  - claim_id: 6b01fcf7-8c6a-4532-9941-e4e51335c363
+    claim_hash: 2f7bd293ec19ef31ff917058980f1be0867311422f286e1c2e0ccad3e5fe2447
+    content: Edward J. Ruppelt sought to correct the mistakes of Project SIGN and the former Project GRUDGE.
+    original_excerpt: By his own account, Capt Ruppelt sought to correct the mistakes of Project SIGN and the former Project
+      GRUDGE.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 9c33f24d-2663-4c2a-b542-8ac668326e20
+      title: Edward Ruppelt
+    provenance_chain:
+      origin_kind: speaker
+      origin: Edward J. Ruppelt
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 7a2adbe8-5a43-4700-a844-a24d35748e19
+        title: Project GRUDGE (Original Organization)
+        slug: project-grudge-original-organization
+      - node_id: 9c33f24d-2663-4c2a-b542-8ac668326e20
+        title: Edward Ruppelt
+        slug: edward-ruppelt
+      - node_id: f5d73324-41fa-47e1-9348-c40a271cfb62
+        title: Project Sign
+        slug: project-sign
+    date: null
+    date_end: null
+    location_in_record: char:33624-33727
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: d3743fdf-6a99-43ef-98d4-b79ef60f0e47
+      record_title: Report on the Historical Record of U.S. Government Involvement with Unidentified Anomalous Phenomena (UAP),
+        Volume I
+      record_date: '2024-02-01'
+      record_reference: null
+      content_hash: sha256:8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a94774067868
+      friendly_name: 2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a
+  - claim_id: c6aa08fb-4ec4-4a3c-a75f-9cc2602f8018
+    claim_hash: 392e6e244d7a60a35603515c5c61d9ba9adcd36538bd56870bd261613720bd0b
+    content: Edward J. Ruppelt's primary goal for the reestablished Project GRUDGE was to ensure there would be "no wild speculation,"
+      and that staff who were "too pro or too con" regarding the off-world origin of UFOs would be let go.
+    original_excerpt: His primary goal was to ensure that there would be "no wild speculation" and that if his staff were
+      "too pro or too con" regarding the off-world origin of UFOs, they would be let go.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 9c33f24d-2663-4c2a-b542-8ac668326e20
+      title: Edward Ruppelt
+    provenance_chain:
+      origin_kind: speaker
+      origin: Edward J. Ruppelt
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 9c33f24d-2663-4c2a-b542-8ac668326e20
+        title: Edward Ruppelt
+        slug: edward-ruppelt
+      - node_id: abe07382-c992-4549-b0ff-6d2bc0b3e3e0
+        title: Project GRUDGE (Reestablishment)
+        slug: project-grudge-reestablishment
+    date: null
+    date_end: null
+    location_in_record: char:33735-33914
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: d3743fdf-6a99-43ef-98d4-b79ef60f0e47
+      record_title: Report on the Historical Record of U.S. Government Involvement with Unidentified Anomalous Phenomena (UAP),
+        Volume I
+      record_date: '2024-02-01'
+      record_reference: null
+      content_hash: sha256:8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a94774067868
+      friendly_name: 2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a
+  - claim_id: 0a459fa8-ac38-42dd-9639-30bac37a07f1
+    claim_hash: 7122f1f3cf6f3d5209a9444406f41b42695e86eff7f01b697cae850cd5f4f063
+    content: Edward J. Ruppelt claimed to have fired three staff members from Project GRUDGE.
+    original_excerpt: He claimed to have fired three staff.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 9c33f24d-2663-4c2a-b542-8ac668326e20
+      title: Edward Ruppelt
+    provenance_chain:
+      origin_kind: speaker
+      origin: Edward J. Ruppelt
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 9c33f24d-2663-4c2a-b542-8ac668326e20
+        title: Edward Ruppelt
+        slug: edward-ruppelt
+      - node_id: abe07382-c992-4549-b0ff-6d2bc0b3e3e0
+        title: Project GRUDGE (Reestablishment)
+        slug: project-grudge-reestablishment
+    date: null
+    date_end: null
+    location_in_record: char:33918-33943
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: d3743fdf-6a99-43ef-98d4-b79ef60f0e47
+      record_title: Report on the Historical Record of U.S. Government Involvement with Unidentified Anomalous Phenomena (UAP),
+        Volume I
+      record_date: '2024-02-01'
+      record_reference: null
+      content_hash: sha256:8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a94774067868
+      friendly_name: 2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a
+  - claim_id: b3f9ff03-e703-478a-bd76-15bdd7228508
+    claim_hash: 3a8403ace51064f200c1dcf89eebd14ede8dbe6f7b3bb2fcd1a9091ae7fa4067
+    content: Edward J. Ruppelt sourced a range of scientific expertise for Project GRUDGE through a contract he dubbed Project
+      BEAR.
+    original_excerpt: He also realized that he needed a range of scientific expertise which he sourced through a contract
+      he dubbed Project BEAR.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 9c33f24d-2663-4c2a-b542-8ac668326e20
+      title: Edward Ruppelt
+    provenance_chain:
+      origin_kind: speaker
+      origin: Edward J. Ruppelt
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 08778a39-f85b-4d03-9f62-23366a3c976c
+        title: Project BEAR
+        slug: project-bear
+      - node_id: 9c33f24d-2663-4c2a-b542-8ac668326e20
+        title: Edward Ruppelt
+        slug: edward-ruppelt
+      - node_id: abe07382-c992-4549-b0ff-6d2bc0b3e3e0
+        title: Project GRUDGE (Reestablishment)
+        slug: project-grudge-reestablishment
+    date: null
+    date_end: null
+    location_in_record: char:33998-34116
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: d3743fdf-6a99-43ef-98d4-b79ef60f0e47
+      record_title: Report on the Historical Record of U.S. Government Involvement with Unidentified Anomalous Phenomena (UAP),
+        Volume I
+      record_date: '2024-02-01'
+      record_reference: null
+      content_hash: sha256:8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a94774067868
+      friendly_name: 2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a
+  - claim_id: 7b8b6201-d91b-4a48-a385-c860e5db7fc1
+    claim_hash: 5d72a363862494c9a21a444f77e64ef55f53ea3d66b8442afe094d2cd0a6d30b
+    content: Edward J. Ruppelt set a policy for the reestablished Project GRUDGE intended to foster objectivity.
+    original_excerpt: Capt Ruppelt set a policy that was intended to foster objectivity.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 9c33f24d-2663-4c2a-b542-8ac668326e20
+      title: Edward Ruppelt
+    provenance_chain:
+      origin_kind: speaker
+      origin: Edward J. Ruppelt
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 9c33f24d-2663-4c2a-b542-8ac668326e20
+        title: Edward Ruppelt
+        slug: edward-ruppelt
+      - node_id: abe07382-c992-4549-b0ff-6d2bc0b3e3e0
+        title: Project GRUDGE (Reestablishment)
+        slug: project-grudge-reestablishment
+    date: null
+    date_end: null
+    location_in_record: char:34122-34176
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: d3743fdf-6a99-43ef-98d4-b79ef60f0e47
+      record_title: Report on the Historical Record of U.S. Government Involvement with Unidentified Anomalous Phenomena (UAP),
+        Volume I
+      record_date: '2024-02-01'
+      record_reference: null
+      content_hash: sha256:8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a94774067868
+      friendly_name: 2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a
+  - claim_id: 1b9908b4-9f2e-443d-a0e4-097c5b6eefaf
+    claim_hash: 6ab152003fad063d4696f7aa398a2fbeacc44317618a11aca9903342f38ce43f
+    content: Unlike the previous Project GRUDGE, Edward J. Ruppelt allowed his staff to create an "unknown" category of cases,
+      which he hoped would dissuade forcing a particular answer to any case.
+    original_excerpt: Unlike the previous Project GRUDGE, he allowed his staff to create an "unknown" category of cases which
+      he hoped would dissuade the forcing of a particular answer to any case.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 9c33f24d-2663-4c2a-b542-8ac668326e20
+      title: Edward Ruppelt
+    provenance_chain:
+      origin_kind: speaker
+      origin: Edward J. Ruppelt
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 7a2adbe8-5a43-4700-a844-a24d35748e19
+        title: Project GRUDGE (Original Organization)
+        slug: project-grudge-original-organization
+      - node_id: 9c33f24d-2663-4c2a-b542-8ac668326e20
+        title: Edward Ruppelt
+        slug: edward-ruppelt
+      - node_id: abe07382-c992-4549-b0ff-6d2bc0b3e3e0
+        title: Project GRUDGE (Reestablishment)
+        slug: project-grudge-reestablishment
+    date: null
+    date_end: null
+    location_in_record: char:34189-34359
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: d3743fdf-6a99-43ef-98d4-b79ef60f0e47
+      record_title: Report on the Historical Record of U.S. Government Involvement with Unidentified Anomalous Phenomena (UAP),
+        Volume I
+      record_date: '2024-02-01'
+      record_reference: null
+      content_hash: sha256:8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a94774067868
+      friendly_name: 2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a
+  - claim_id: 8ed631d3-3c5f-42b4-b351-aa6cfbfc25b0
+    claim_hash: 9fa923eba96dc9ee2183c03f03a1f2535732ed0dbea310c7c2c5c98130320c0e
+    content: Edward J. Ruppelt noted concentrations of UFO sighting cases in the Los Alamos-Albuquerque area, Oak Ridge, White
+      Sands, Strategic Air Command locations, ports, and industrial sites.
+    original_excerpt: Capt Ruppelt noted that there were concentrations of cases in the Los Alamos-Albuquerque area, Oak Ridge,
+      White Sands, Strategic Air Command locations, ports, and industrial sites.
+    claim_type: observation
+    attestation: first_hand
+    speaker:
+      node_id: 9c33f24d-2663-4c2a-b542-8ac668326e20
+      title: Edward Ruppelt
+    provenance_chain:
+      origin_kind: speaker
+      origin: Edward J. Ruppelt
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 0166f727-ae03-4b15-b8d3-f73188ea7dc5
+        title: USA, New Mexico, White Sands
+        slug: new-mexico-white-sands-usa
+      - node_id: 23f17da9-6fea-4e9a-99a8-c9f5e0a08098
+        title: USA, New Mexico, Los Alamos-Albuquerque
+        slug: new-mexico-los-alamos-albuquerque-usa
+      - node_id: 9c33f24d-2663-4c2a-b542-8ac668326e20
+        title: Edward Ruppelt
+        slug: edward-ruppelt
+      - node_id: a316cbb9-b90f-422a-9329-9be7414bda65
+        title: USA, Tennessee, Oak Ridge
+        slug: tennessee-oak-ridge-usa
+    date: null
+    date_end: null
+    location_in_record: char:34646-34820
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: d3743fdf-6a99-43ef-98d4-b79ef60f0e47
+      record_title: Report on the Historical Record of U.S. Government Involvement with Unidentified Anomalous Phenomena (UAP),
+        Volume I
+      record_date: '2024-02-01'
+      record_reference: null
+      content_hash: sha256:8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a94774067868
+      friendly_name: 2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a
+  - claim_id: f3a9fcc0-a082-4835-91db-93c1c290fce2
+    claim_hash: f06b62bc5d16c5b1c352f91e920ade3130ba2d4db6ca745ce2592fa8c1216dcc
+    content: Project BEAR was an informal name given by Edward J. Ruppelt, Chief of Project GRUDGE, to a contract he created
+      with the Battelle Memorial Institute (BMI) to provide scientific support to the reestablished Project GRUDGE.
+    original_excerpt: Project BEAR was an informal name given by Capt Ruppelt, Chief of Project GRUDGE, to a contract he created
+      with the Battelle Memorial Institute (BMI) to provide scientific support to the new Project GRUDGE.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 08778a39-f85b-4d03-9f62-23366a3c976c
+        title: Project BEAR
+        slug: project-bear
+      - node_id: 9c33f24d-2663-4c2a-b542-8ac668326e20
+        title: Edward Ruppelt
+        slug: edward-ruppelt
+      - node_id: abe07382-c992-4549-b0ff-6d2bc0b3e3e0
+        title: Project GRUDGE (Reestablishment)
+        slug: project-grudge-reestablishment
+      - node_id: ec810255-5617-4bcd-9a17-346323c85a5f
+        title: Battelle Memorial Institute (BMI)
+        slug: battelle-memorial-institute-bmi
+    date: null
+    date_end: null
+    location_in_record: char:34962-35161
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: d3743fdf-6a99-43ef-98d4-b79ef60f0e47
+      record_title: Report on the Historical Record of U.S. Government Involvement with Unidentified Anomalous Phenomena (UAP),
+        Volume I
+      record_date: '2024-02-01'
+      record_reference: null
+      content_hash: sha256:8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a94774067868
+      friendly_name: 2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a
+  - claim_id: 53a68d95-b9a7-42f1-959f-3a3920266bcb
+    claim_hash: c73b6b8d4cee544db974e5b8e5244b86356bbd6e6b12d66731cf710ca0c9a0e1
+    content: Project BLUE BOOK was led successively by Capt Edward J. Ruppelt, the former director of the reorganised Project
+      GRUDGE.
+    original_excerpt: It was led successively by Capt Edward J. Ruppelt (the former Director of the reorganized Project GRUDGE)
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 769601ed-5b7f-4833-ae21-5d60d0fddaaa
+        title: Project Blue Book
+        slug: project-blue-book
+      - node_id: 9c33f24d-2663-4c2a-b542-8ac668326e20
+        title: Edward Ruppelt
+        slug: edward-ruppelt
+      - node_id: abe07382-c992-4549-b0ff-6d2bc0b3e3e0
+        title: Project GRUDGE (Reestablishment)
+        slug: project-grudge-reestablishment
+    date: null
+    date_end: null
+    location_in_record: char:41852-41950
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: d3743fdf-6a99-43ef-98d4-b79ef60f0e47
+      record_title: Report on the Historical Record of U.S. Government Involvement with Unidentified Anomalous Phenomena (UAP),
+        Volume I
+      record_date: '2024-02-01'
+      record_reference: null
+      content_hash: sha256:8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a94774067868
+      friendly_name: 2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a
+  - claim_id: 3bfbca1d-c8ed-44e7-b66c-f878aff25fc0
+    claim_hash: cba951e4241d403cfb5091214ac08a14762be2a6aa05d1e17d57491c16ee611c
+    content: Edward J. Ruppelt, the first Director of Project BLUE BOOK, said that all but a couple of copies of "The Estimate
+      of the Situation" were destroyed.
+    original_excerpt: The first Director of Project BLUE BOOK, Capt Edward Ruppelt, said that all but a couple copies of this
+      estimate were destroyed.
+    claim_type: testimony
+    attestation: second_hand
+    speaker:
+      node_id: 9c33f24d-2663-4c2a-b542-8ac668326e20
+      title: Edward Ruppelt
+    provenance_chain:
+      origin_kind: speaker
+      origin: Edward J. Ruppelt
+      relay:
+        - The Report on Unidentified Flying Objects
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 769601ed-5b7f-4833-ae21-5d60d0fddaaa
+        title: Project Blue Book
+        slug: project-blue-book
+      - node_id: 9c33f24d-2663-4c2a-b542-8ac668326e20
+        title: Edward Ruppelt
+        slug: edward-ruppelt
+      - node_id: d604549a-40b2-441c-9756-9b27ffdc6925
+        title: Estimate of the Situation (1948)
+        slug: estimate-of-the-situation-1948
+    date: null
+    date_end: null
+    location_in_record: char:78831-78986
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: d3743fdf-6a99-43ef-98d4-b79ef60f0e47
+      record_title: Report on the Historical Record of U.S. Government Involvement with Unidentified Anomalous Phenomena (UAP),
+        Volume I
+      record_date: '2024-02-01'
+      record_reference: null
+      content_hash: sha256:8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a94774067868
+      friendly_name: 2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a
+  - claim_id: 896cabe1-9171-4585-8fbe-9756f4232dd9
+    claim_hash: 0ac9a7f9d4d73641c44154d086db89681ef29788060d644ddc0425ba628d6368
+    content: The All-Domain Anomaly Resolution Office (AARO) has been unable to verify Edward J. Ruppelt's claim that all
+      but a couple of copies of "The Estimate of the Situation" were destroyed, or to locate the document.
+    original_excerpt: AARO has been unable to verify his claim or locate the document.
+    claim_type: administrative
+    attestation: first_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: speaker
+      origin: All-Domain Anomaly Resolution Office (AARO)
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 9c33f24d-2663-4c2a-b542-8ac668326e20
+        title: Edward Ruppelt
+        slug: edward-ruppelt
+      - node_id: d604549a-40b2-441c-9756-9b27ffdc6925
+        title: Estimate of the Situation (1948)
+        slug: estimate-of-the-situation-1948
+      - node_id: e79e207c-a848-4eb7-9246-07587b20d2c1
+        title: All-domain Anomaly Resolution Office (AARO)
+        slug: all-domain-anomaly-resolution-office-aaro
+    date: null
+    date_end: null
+    location_in_record: char:79359-79414
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: d3743fdf-6a99-43ef-98d4-b79ef60f0e47
+      record_title: Report on the Historical Record of U.S. Government Involvement with Unidentified Anomalous Phenomena (UAP),
+        Volume I
+      record_date: '2024-02-01'
+      record_reference: null
+      content_hash: sha256:8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a94774067868
+      friendly_name: 2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a

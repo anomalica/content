@@ -1,0 +1,430 @@
+schema: anomalica/brief/1
+brief_hash: 4ba6140581aacb2ab69d26c4d1a441ed6084ec2c53734a74e9138d4fc08d247a
+page:
+  kind: entity
+  node_id: fd1ac0e8-cb84-4d6c-9340-078e18a21f69
+  node_type: event
+  title: Spanish conquest of the Aztec Empire
+  slug: spanish-conquest-of-the-aztec-empire
+  claim_count: 10
+  claim_count_total: 10
+generated:
+  graph_version: '2026-09-01T10:10:49.863545+00:00'
+size:
+  claims: 10
+  tokens_estimated: 2836
+  sized_against: 1050000
+publication:
+  status: published
+  note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
+    transcripts are gated elsewhere.
+belonging:
+  verified: 0
+  suspect_excluded: 0
+  unreviewed: 10
+related_nodes:
+  - node_id: 6dce2996-40fd-4e29-bdfc-264cab8d24ca
+    title: Hernán Cortés
+    node_type: person
+    slug: hernan-cortes
+    shared_claims: 3
+  - node_id: 5dde559e-1517-4b55-a35d-8d8c99664209
+    title: Mesoamerica
+    node_type: place
+    slug: mesoamerica
+    shared_claims: 2
+  - node_id: 29089c3a-ed2c-4ca5-8269-0b39e6700a5b
+    title: Mexico, Guadalupe apparition (1531)
+    node_type: event
+    slug: guadalupe-apparition-1531-mexico
+    shared_claims: 2
+  - node_id: 9c74d864-957a-4654-a5b6-1249fe654ec7
+    title: Non-Human Intelligence
+    node_type: topic
+    slug: non-human-intelligence
+    shared_claims: 2
+  - node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+    title: Whitley Strieber
+    node_type: person
+    slug: whitley-strieber
+    shared_claims: 2
+  - node_id: 6789a8de-bb31-448e-adbf-4817c17e0529
+    title: Hernando Cortés
+    node_type: person
+    slug: hernando-cortes
+    shared_claims: 1
+  - node_id: ee1db704-5200-4872-842e-f7e6c5708110
+    title: Quetzalcoatl
+    node_type: topic
+    slug: quetzalcoatl
+    shared_claims: 1
+claims:
+  - claim_id: 43df257f-a6c5-4dd9-8d14-4840af5d578e
+    claim_hash: aa957b3b83a35949dccf049ce9e0d1196f39e47b8ad990a89307792a7237073d
+    content: Hernando Cortés led the conquest of the Aztec Empire twelve years before the 1531 Guadalupe apparitions.
+    original_excerpt: Twelve years had passed since the bloody conquest of the Aztec empire of Mexico by the unscrupulous
+      adventurer Hernando Cortés, who succeeded in destroying within days a culture that had flourished for centuries.
+    claim_type: observation
+    attestation: first_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: speaker
+      origin: Michael Hesemann
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 29089c3a-ed2c-4ca5-8269-0b39e6700a5b
+        title: Mexico, Guadalupe apparition (1531)
+        slug: guadalupe-apparition-1531-mexico
+      - node_id: 6789a8de-bb31-448e-adbf-4817c17e0529
+        title: Hernando Cortés
+        slug: hernando-cortes
+      - node_id: fd1ac0e8-cb84-4d6c-9340-078e18a21f69
+        title: Spanish conquest of the Aztec Empire
+        slug: spanish-conquest-of-the-aztec-empire
+    date: null
+    date_end: null
+    location_in_record: ch20:851-1053
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 171e1337-151f-40c5-8b9a-659faac4c5f6
+      record_title: The Fatima Secret
+      record_date: '2000-11-28'
+      record_reference: null
+      content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
+      friendly_name: 2000-11-28-ebook-the-fatima-secret
+  - claim_id: db00f64c-87c6-4ee3-a7a3-dfbc29e097e8
+    claim_hash: 4d380a4b7e1ad72f3319d258f0bb481151c804acbb281275a067bea3dba25626
+    content: At the time of the Guadalupe apparition, conquered Mexican Indians were not considered fully human by the Spaniards,
+      and it was no sin to enslave them nor a crime to murder them.
+    original_excerpt: At the time the conquered Mexican Indians were not even considered fully human by the Spaniards. It
+      was no sin to enslave them, no crime to murder them.
+    claim_type: observation
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 29089c3a-ed2c-4ca5-8269-0b39e6700a5b
+        title: Mexico, Guadalupe apparition (1531)
+        slug: guadalupe-apparition-1531-mexico
+      - node_id: fd1ac0e8-cb84-4d6c-9340-078e18a21f69
+        title: Spanish conquest of the Aztec Empire
+        slug: spanish-conquest-of-the-aztec-empire
+    date: null
+    date_end: null
+    location_in_record: ch4:6556-6703
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 171e1337-151f-40c5-8b9a-659faac4c5f6
+      record_title: The Fatima Secret
+      record_date: '2000-11-28'
+      record_reference: null
+      content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
+      friendly_name: 2000-11-28-ebook-the-fatima-secret
+  - claim_id: 65c6146d-b7b6-4394-97d7-d6c12ead05de
+    claim_hash: a5fb38eefb23befb515c06a34b114c45ee4ddad87f780a11c07359338f7d7dec
+    content: When Hernan Cortes first arrived on the shores of the Aztec empire, the Aztecs initially thought he was their
+      god Quetzalcoatl.
+    original_excerpt: the Aztecs uh when Cortez first arrived on their shores, they were confused. First, they thought he
+      was Quetzalcoatl, their god.
+    claim_type: observation
+    attestation: null
+    speaker:
+      node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+      title: Whitley Strieber
+    provenance_chain:
+      origin_kind: unattributed
+      origin: unattributed
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 6dce2996-40fd-4e29-bdfc-264cab8d24ca
+        title: Hernán Cortés
+        slug: hernan-cortes
+      - node_id: ee1db704-5200-4872-842e-f7e6c5708110
+        title: Quetzalcoatl
+        slug: quetzalcoatl
+      - node_id: fd1ac0e8-cb84-4d6c-9340-078e18a21f69
+        title: Spanish conquest of the Aztec Empire
+        slug: spanish-conquest-of-the-aztec-empire
+    date: null
+    date_end: null
+    location_in_record: 00:38:12.6-00:38:21.4
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 9302c6b2-133d-4cbb-adfa-5d1f0bd3e7ac
+      record_title: The Terrible Truth About the Visitors - Whitley Strieber | ep. 96
+      record_date: '2026-07-24'
+      record_reference: https://www.youtube.com/watch?v=Cv-sk4vt-qU
+      content_hash: sha256:456dbde0ab82ee8e216bdad2d1a0bf2a0b42622a167af19058f973050b035084
+      friendly_name: null
+  - claim_id: 05ac5a95-4526-4bf0-a4d6-77e863f37c6d
+    claim_hash: 9f091507864e6c6071736a3c970a99595e49cc715f4570fb63bff4932289ab86
+    content: The Aztecs could not understand that a horse and its rider were not one creature.
+    original_excerpt: They couldn't understand that the horse and the man were not one creature.
+    claim_type: observation
+    attestation: null
+    speaker:
+      node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+      title: Whitley Strieber
+    provenance_chain:
+      origin_kind: unattributed
+      origin: unattributed
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: fd1ac0e8-cb84-4d6c-9340-078e18a21f69
+        title: Spanish conquest of the Aztec Empire
+        slug: spanish-conquest-of-the-aztec-empire
+    date: null
+    date_end: null
+    location_in_record: 00:38:26.1-00:38:31.2
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 9302c6b2-133d-4cbb-adfa-5d1f0bd3e7ac
+      record_title: The Terrible Truth About the Visitors - Whitley Strieber | ep. 96
+      record_date: '2026-07-24'
+      record_reference: https://www.youtube.com/watch?v=Cv-sk4vt-qU
+      content_hash: sha256:456dbde0ab82ee8e216bdad2d1a0bf2a0b42622a167af19058f973050b035084
+      friendly_name: null
+  - claim_id: c5ff4112-870e-4686-9dbf-2bfcc5c0bc2c
+    claim_hash: 868cc270bab39d30c47d4b8f9cddd406fa3a696aa4e0a1083aaac5ad590f3d92
+    content: The Aztecs could not understand how cannons worked or what wheels were.
+    original_excerpt: then they couldn't understand how cannons worked or what wheels were
+    claim_type: observation
+    attestation: null
+    speaker:
+      node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+      title: Whitley Strieber
+    provenance_chain:
+      origin_kind: unattributed
+      origin: unattributed
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: fd1ac0e8-cb84-4d6c-9340-078e18a21f69
+        title: Spanish conquest of the Aztec Empire
+        slug: spanish-conquest-of-the-aztec-empire
+    date: null
+    date_end: null
+    location_in_record: 00:38:32.5-00:38:37.8
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 9302c6b2-133d-4cbb-adfa-5d1f0bd3e7ac
+      record_title: The Terrible Truth About the Visitors - Whitley Strieber | ep. 96
+      record_date: '2026-07-24'
+      record_reference: https://www.youtube.com/watch?v=Cv-sk4vt-qU
+      content_hash: sha256:456dbde0ab82ee8e216bdad2d1a0bf2a0b42622a167af19058f973050b035084
+      friendly_name: null
+  - claim_id: 878fefdc-6be0-4c19-a4b1-19dad4fafd17
+    claim_hash: 2d8fd87f1fcc1f5ac3fa447b5adfc9c2f07b4ab8674e8aa95ae348407bd6f246
+    content: The Aztecs were completely outclassed by the Spanish, their armies failed and their culture collapsed.
+    original_excerpt: they were completely outclassed and their whole culture collapsed their armies failed and their culture
+      collapsed
+    claim_type: observation
+    attestation: null
+    speaker:
+      node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+      title: Whitley Strieber
+    provenance_chain:
+      origin_kind: unattributed
+      origin: unattributed
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: fd1ac0e8-cb84-4d6c-9340-078e18a21f69
+        title: Spanish conquest of the Aztec Empire
+        slug: spanish-conquest-of-the-aztec-empire
+    date: null
+    date_end: null
+    location_in_record: 00:38:38.7-00:38:47.6
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 9302c6b2-133d-4cbb-adfa-5d1f0bd3e7ac
+      record_title: The Terrible Truth About the Visitors - Whitley Strieber | ep. 96
+      record_date: '2026-07-24'
+      record_reference: https://www.youtube.com/watch?v=Cv-sk4vt-qU
+      content_hash: sha256:456dbde0ab82ee8e216bdad2d1a0bf2a0b42622a167af19058f973050b035084
+      friendly_name: null
+  - claim_id: 9028efc5-f2ff-4a6b-a881-b0589f9097d3
+    claim_hash: cb2d6ba2abf03d1724ae70d063a332ebd3fed0f1532e09ca39c5ace9501e86b7
+    content: There were approximately 90 million people in Mesoamerica when Hernan Cortes arrived.
+    original_excerpt: the result was there were approximately 90 million people in mesoamerica when Cortez arrived
+    claim_type: measurement
+    attestation: null
+    speaker:
+      node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+      title: Whitley Strieber
+    provenance_chain:
+      origin_kind: unattributed
+      origin: unattributed
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 5dde559e-1517-4b55-a35d-8d8c99664209
+        title: Mesoamerica
+        slug: mesoamerica
+      - node_id: 6dce2996-40fd-4e29-bdfc-264cab8d24ca
+        title: Hernán Cortés
+        slug: hernan-cortes
+      - node_id: fd1ac0e8-cb84-4d6c-9340-078e18a21f69
+        title: Spanish conquest of the Aztec Empire
+        slug: spanish-conquest-of-the-aztec-empire
+    date: null
+    date_end: null
+    location_in_record: 00:38:48.9-00:38:57.0
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 9302c6b2-133d-4cbb-adfa-5d1f0bd3e7ac
+      record_title: The Terrible Truth About the Visitors - Whitley Strieber | ep. 96
+      record_date: '2026-07-24'
+      record_reference: https://www.youtube.com/watch?v=Cv-sk4vt-qU
+      content_hash: sha256:456dbde0ab82ee8e216bdad2d1a0bf2a0b42622a167af19058f973050b035084
+      friendly_name: null
+  - claim_id: 8ad24b3a-d87b-498c-ae96-d551b40606fd
+    claim_hash: b90aa6dec75e2cbcad56903330121fd87b399097e23903ca6c5bdb093ac7294f
+    content: A hundred years after Hernan Cortes arrived, about 9 million indigenous people remained in Mesoamerica, the great
+      majority of them slaves.
+    original_excerpt: a hundred years later There were about 9 million native peoples, indigenous peoples in Mesoamerica,
+      of whom the great majority were slaves.
+    claim_type: measurement
+    attestation: null
+    speaker:
+      node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+      title: Whitley Strieber
+    provenance_chain:
+      origin_kind: unattributed
+      origin: unattributed
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 5dde559e-1517-4b55-a35d-8d8c99664209
+        title: Mesoamerica
+        slug: mesoamerica
+      - node_id: 6dce2996-40fd-4e29-bdfc-264cab8d24ca
+        title: Hernán Cortés
+        slug: hernan-cortes
+      - node_id: fd1ac0e8-cb84-4d6c-9340-078e18a21f69
+        title: Spanish conquest of the Aztec Empire
+        slug: spanish-conquest-of-the-aztec-empire
+    date: null
+    date_end: null
+    location_in_record: 00:38:58.7-00:39:11.0
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 9302c6b2-133d-4cbb-adfa-5d1f0bd3e7ac
+      record_title: The Terrible Truth About the Visitors - Whitley Strieber | ep. 96
+      record_date: '2026-07-24'
+      record_reference: https://www.youtube.com/watch?v=Cv-sk4vt-qU
+      content_hash: sha256:456dbde0ab82ee8e216bdad2d1a0bf2a0b42622a167af19058f973050b035084
+      friendly_name: null
+  - claim_id: 54774884-5fc0-4c5d-932e-4c660805e795
+    claim_hash: b8950dbd2b306be7cac051f626a8af6099b048a9218d3f429d214b4bf98e5293
+    content: Whitley Strieber holds that the danger for humanity is misunderstanding the Non-Human Intelligence and failing
+      to respond in a way that gives humans agency, as happened to the Aztecs but on a far larger scale.
+    original_excerpt: The danger is that we will misunderstand what we are dealing with and fail to respond to it in a way
+      that gives us agency... i think this species is gonna get into the same kind of trouble the Aztecs got into but on a
+      much more massive scale
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+      title: Whitley Strieber
+    provenance_chain:
+      origin_kind: speaker
+      origin: Whitley Strieber
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+        title: Whitley Strieber
+        slug: whitley-strieber
+      - node_id: 9c74d864-957a-4654-a5b6-1249fe654ec7
+        title: Non-Human Intelligence
+        slug: non-human-intelligence
+      - node_id: fd1ac0e8-cb84-4d6c-9340-078e18a21f69
+        title: Spanish conquest of the Aztec Empire
+        slug: spanish-conquest-of-the-aztec-empire
+    date: null
+    date_end: null
+    location_in_record: 00:39:16.4-00:39:36.4
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 9302c6b2-133d-4cbb-adfa-5d1f0bd3e7ac
+      record_title: The Terrible Truth About the Visitors - Whitley Strieber | ep. 96
+      record_date: '2026-07-24'
+      record_reference: https://www.youtube.com/watch?v=Cv-sk4vt-qU
+      content_hash: sha256:456dbde0ab82ee8e216bdad2d1a0bf2a0b42622a167af19058f973050b035084
+      friendly_name: null
+  - claim_id: 57498f50-3bce-4985-950d-36114efe3140
+    claim_hash: a82aefdacbdf8874afa9237048e048c0ad0ea536c5abd0c4fd2f1d6d1e0558df
+    content: Whitley Strieber considers that the Non-Human Intelligence is leaving technological donations to advance humanity
+      so that humans do not have the Aztecs' reaction and are not culturally colonised, and that they are looking for friends
+      rather than slaves.
+    original_excerpt: then they're trying to get us to the point where we don't have the Aztecs reaction to them, where they
+      don't colonize us culturally... They're looking for friends, not slaves. That's what it looks like to me, I hope.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+      title: Whitley Strieber
+    provenance_chain:
+      origin_kind: speaker
+      origin: Whitley Strieber
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+        title: Whitley Strieber
+        slug: whitley-strieber
+      - node_id: 9c74d864-957a-4654-a5b6-1249fe654ec7
+        title: Non-Human Intelligence
+        slug: non-human-intelligence
+      - node_id: fd1ac0e8-cb84-4d6c-9340-078e18a21f69
+        title: Spanish conquest of the Aztec Empire
+        slug: spanish-conquest-of-the-aztec-empire
+    date: null
+    date_end: null
+    location_in_record: 00:44:01.5-00:44:18.5
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 9302c6b2-133d-4cbb-adfa-5d1f0bd3e7ac
+      record_title: The Terrible Truth About the Visitors - Whitley Strieber | ep. 96
+      record_date: '2026-07-24'
+      record_reference: https://www.youtube.com/watch?v=Cv-sk4vt-qU
+      content_hash: sha256:456dbde0ab82ee8e216bdad2d1a0bf2a0b42622a167af19058f973050b035084
+      friendly_name: null

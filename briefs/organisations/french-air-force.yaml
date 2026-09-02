@@ -1,0 +1,351 @@
+schema: anomalica/brief/1
+brief_hash: 018bbc7bb7076c27b9f3674a0aa85648283f03d630cebb8bb84f414f8e19374b
+page:
+  kind: entity
+  node_id: ec22df36-01d7-47c0-9a91-150b93b82532
+  node_type: organisation
+  title: French Air Force
+  slug: french-air-force
+  claim_count: 6
+  claim_count_total: 6
+generated:
+  graph_version: '2026-09-01T10:10:49.863545+00:00'
+size:
+  claims: 6
+  tokens_estimated: 2035
+  sized_against: 1050000
+publication:
+  status: published
+  note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
+    transcripts are gated elsewhere.
+belonging:
+  verified: 0
+  suspect_excluded: 0
+  unreviewed: 6
+related_nodes:
+  - node_id: f888411e-b882-4f89-8275-350d19f6c52d
+    title: Jesse Marcel
+    node_type: person
+    slug: jesse-marcel
+    shared_claims: 2
+  - node_id: ae75f016-578f-4a76-bbc6-bdb2ac683d6b
+    title: USA, Texas, Fort Worth
+    node_type: place
+    slug: texas-fort-worth-usa
+    shared_claims: 2
+  - node_id: 86023aed-d6f6-4d5c-91f5-8ebfe3441bc9
+    title: 1958 Bouahmama, Algeria tranquilizing light Unidentified Flying Object (UFO) sighting
+    node_type: event
+    slug: algeria-tranquilizing-light-unidentified-flying-object-ufo-sighting-1958-bouahmama
+    shared_claims: 1
+  - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
+    title: 2004 USS Nimitz UAP encounter
+    node_type: event
+    slug: 2004-uss-nimitz-uap-encounter
+    shared_claims: 1
+  - node_id: 9ff5178f-37d8-407c-8fa9-4892755887be
+    title: 509th Bomb Group
+    node_type: organisation
+    slug: 509th-bomb-group
+    shared_claims: 1
+  - node_id: 65058390-bec5-4d48-84a0-bdd823cd974f
+    title: Air France
+    node_type: organisation
+    slug: air-france
+    shared_claims: 1
+  - node_id: bba75b2a-e20d-49b6-ab1d-1ca56ff8f342
+    title: France, Basses-Alpes, La Javie
+    node_type: place
+    slug: basses-alpes-la-javie-france
+    shared_claims: 1
+  - node_id: 91e70c22-52be-4342-8943-6c180404df3a
+    title: France, Gretz-Armainvilliers
+    node_type: place
+    slug: gretz-armainvilliers-france
+    shared_claims: 1
+  - node_id: f734df78-1ca4-463a-a3be-b431fccf710e
+    title: France, Paris
+    node_type: place
+    slug: paris-france
+    shared_claims: 1
+  - node_id: 0439b77b-861c-42f6-92d2-bb9764b78b86
+    title: Jean Gabriel Greslé
+    node_type: person
+    slug: jean-gabriel-gresle
+    shared_claims: 1
+  - node_id: 3b0c0328-6dfc-4b20-acce-d0f40ec02706
+    title: Roger Ramey
+    node_type: person
+    slug: roger-ramey
+    shared_claims: 1
+  - node_id: 5cbf5dc4-1585-4009-9754-52bf086dbd33
+    title: Roswell Army Air Field
+    node_type: organisation
+    slug: roswell-army-air-field
+    shared_claims: 1
+  - node_id: b8ea9860-ae6e-4835-8114-6a6626f28797
+    title: Roswell incident (1947)
+    node_type: event
+    slug: roswell-incident-1947
+    shared_claims: 1
+  - node_id: d888fba5-8ed4-4dd2-b03e-a2aeb1d25ce6
+    title: Sheridan Cavitt
+    node_type: person
+    slug: sheridan-cavitt
+    shared_claims: 1
+  - node_id: 105344db-a5eb-4108-a72a-a06408ff1a6c
+    title: William Blanchard
+    node_type: person
+    slug: william-blanchard
+    shared_claims: 1
+claims:
+  - claim_id: 0601e8ef-da11-4233-a750-d7a9a3d7ce5b
+    claim_hash: f89198974999193a61ab0c5ffd4286638facbb87d8bdb5af627ebe54b0edebbf
+    content: The French Air Force took pictures of the La Javie area and had suspicious markings carefully investigated by
+      search parties.
+    original_excerpt: (The French Air Force too had taken pictures of the area and suspicious markings had been carefully
+      investigated by search parties.)
+    claim_type: observation
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: bba75b2a-e20d-49b6-ab1d-1ca56ff8f342
+        title: France, Basses-Alpes, La Javie
+        slug: basses-alpes-la-javie-france
+      - node_id: ec22df36-01d7-47c0-9a91-150b93b82532
+        title: French Air Force
+        slug: french-air-force
+    date: null
+    date_end: null
+    location_in_record: ch12:31044-31166
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 220315f4-29cd-4c89-8860-44f95613d98f
+      record_title: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About UFO Influences on the Human Race'
+      record_date: '2014-09-27'
+      record_reference: null
+      content_hash: sha256:5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b8489cc11c26
+      friendly_name: 2014-09-27-ebook-the-invisible-college-what-a-group-of-scientists-has
+  - claim_id: 8e840e65-db8f-4f1d-8172-5dc4a771ccdc
+    claim_hash: 2ce472a3f3eb5c7ae3f478ddb73f8169677d8948d75ab90db5818647a02313d7
+    content: French military officers investigating the 1958 Bouahmama sighting went to the site, examined it, found no physical
+      evidence, questioned the witness again, and, finding no reason to doubt him, sent him to Paris for further examination.
+    original_excerpt: the officers went to the site, examined it carefully, found no physical evidence, resumed their questioning
+      of the witness, and, as he kept insisting on the veracity of the event and they had no reason to doubt his truthfulness,
+      they sent him to Paris for a more detailed examination.
+    claim_type: administrative
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: named
+      origin: Joel Mesnard
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 86023aed-d6f6-4d5c-91f5-8ebfe3441bc9
+        title: 1958 Bouahmama, Algeria tranquilizing light Unidentified Flying Object (UFO) sighting
+        slug: algeria-tranquilizing-light-unidentified-flying-object-ufo-sighting-1958-bouahmama
+      - node_id: ec22df36-01d7-47c0-9a91-150b93b82532
+        title: French Air Force
+        slug: french-air-force
+    date: 1958-03
+    date_end: null
+    location_in_record: ch14:25145-25417
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 220315f4-29cd-4c89-8860-44f95613d98f
+      record_title: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About UFO Influences on the Human Race'
+      record_date: '2014-09-27'
+      record_reference: null
+      content_hash: sha256:5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b8489cc11c26
+      friendly_name: 2014-09-27-ebook-the-invisible-college-what-a-group-of-scientists-has
+  - claim_id: 6d57c1c5-3477-418e-a95d-dcee17eecbd0
+    claim_hash: 5fbb9b3e907c64dcc0658deef27371fc4ac6e5cd2bcd81c3d81a396973c3f745
+    content: Jean Gabriel Greslé, a former French Air Force and Air France pilot, was standing outside a gym in Gretz-Armainvilliers,
+      France, 25 kilometres east of Paris, in November 1990 when he and six of his pupils witnessed a craft.
+    original_excerpt: a former French air force and Air France pilot, Jean Gabriel Greslé, was standing outside a gym where
+      he worked as an instructor in Gretz-Armainvilliers, 25 kilometres east of Paris, when he and six of his pupils witnessed
+      a craft
+    claim_type: testimony
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: named
+      origin: Jean Gabriel Greslé
+      relay:
+        - Timothy Good's book Need To Know
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 0439b77b-861c-42f6-92d2-bb9764b78b86
+        title: Jean Gabriel Greslé
+        slug: jean-gabriel-gresle
+      - node_id: 65058390-bec5-4d48-84a0-bdd823cd974f
+        title: Air France
+        slug: air-france
+      - node_id: 91e70c22-52be-4342-8943-6c180404df3a
+        title: France, Gretz-Armainvilliers
+        slug: gretz-armainvilliers-france
+      - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
+        title: 2004 USS Nimitz UAP encounter
+        slug: 2004-uss-nimitz-uap-encounter
+      - node_id: ec22df36-01d7-47c0-9a91-150b93b82532
+        title: French Air Force
+        slug: french-air-force
+      - node_id: f734df78-1ca4-463a-a3be-b431fccf710e
+        title: France, Paris
+        slug: paris-france
+    date: 1990-11
+    date_end: null
+    location_in_record: ch13:4665-4890
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 9d4cfb27-68da-4cb1-a3b4-01e881ed1656
+    claim_hash: 18eca91b655175c38e1b14f5afe862c381416b4b6c88f2905f2b06b1e2d60f9d
+    content: In July 1947, US Air Force intelligence officer Jesse Marcel posed with the remains of a weather balloon at the
+      8th Air Force headquarters in Fort Worth, Texas.
+    original_excerpt: US Air Force intelligence officer Major Jesse Marcel posing with the remains of a weather balloon at
+      the 8th Air Force headquarters in Fort Worth, Texas, July 1947.
+    claim_type: observation
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: ae75f016-578f-4a76-bbc6-bdb2ac683d6b
+        title: USA, Texas, Fort Worth
+        slug: texas-fort-worth-usa
+      - node_id: ec22df36-01d7-47c0-9a91-150b93b82532
+        title: French Air Force
+        slug: french-air-force
+      - node_id: f888411e-b882-4f89-8275-350d19f6c52d
+        title: Jesse Marcel
+        slug: jesse-marcel
+    date: 1947-07
+    date_end: null
+    location_in_record: ch37:95-254
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 285961e3-90e2-4268-b4d3-a4e3229366a0
+    claim_hash: 8193baaf7ba0b71048c33d4af2a57297c66a8f1f4f0a4ca6e0d08b01b629e5ed
+    content: When Jesse Marcel and Sheridan Cavitt brought their debris back to the Roswell base, their commanding officer
+      Colonel William Blanchard sent Marcel on a flight to take the debris to the 8th Air Force headquarters in Fort Worth,
+      Texas, to meet Brigadier General Roger Ramey.
+    original_excerpt: When Marcel and Cavitt brought their debris back to the Roswell base, their commanding officer Colonel
+      William Blanchard sent Marcel on a flight to take the debris to the 8th Air Force headquarters in Fort Worth, Texas,
+      to meet Brigadier General Roger Ramey.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: narration
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 105344db-a5eb-4108-a72a-a06408ff1a6c
+        title: William Blanchard
+        slug: william-blanchard
+      - node_id: 3b0c0328-6dfc-4b20-acce-d0f40ec02706
+        title: Roger Ramey
+        slug: roger-ramey
+      - node_id: ae75f016-578f-4a76-bbc6-bdb2ac683d6b
+        title: USA, Texas, Fort Worth
+        slug: texas-fort-worth-usa
+      - node_id: d888fba5-8ed4-4dd2-b03e-a2aeb1d25ce6
+        title: Sheridan Cavitt
+        slug: sheridan-cavitt
+      - node_id: ec22df36-01d7-47c0-9a91-150b93b82532
+        title: French Air Force
+        slug: french-air-force
+      - node_id: f888411e-b882-4f89-8275-350d19f6c52d
+        title: Jesse Marcel
+        slug: jesse-marcel
+    date: '1947-07-08'
+    date_end: null
+    location_in_record: ch7:11422-11674
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 28646148-4164-4723-b436-a0af11771c46
+    claim_hash: 493deaedf815eb710748c30f3d5de49d84325318930639e987efa46fd71202e4
+    content: The initial Roswell press release stated that the many rumours regarding the flying disc became a reality when
+      the intelligence office of the 509th Bomb Group of the Eighth Air Force, Roswell Army Air Field, was fortunate enough
+      to gain possession of a disc.
+    original_excerpt: 'It began: ‘The many rumors regarding the flying disc became a reality yesterday when the intelligence
+      office of 509th Bomb Group of the Eighth Air Force, Roswell Army Air Field, was fortunate enough to gain possession
+      of a disc.’'
+    claim_type: administrative
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: named
+      origin: United States Army press release
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 5cbf5dc4-1585-4009-9754-52bf086dbd33
+        title: Roswell Army Air Field
+        slug: roswell-army-air-field
+      - node_id: 9ff5178f-37d8-407c-8fa9-4892755887be
+        title: 509th Bomb Group
+        slug: 509th-bomb-group
+      - node_id: b8ea9860-ae6e-4835-8114-6a6626f28797
+        title: Roswell incident (1947)
+        slug: roswell-incident-1947
+      - node_id: ec22df36-01d7-47c0-9a91-150b93b82532
+        title: French Air Force
+        slug: french-air-force
+    date: '1947-07-08'
+    date_end: null
+    location_in_record: ch7:15567-15790
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight

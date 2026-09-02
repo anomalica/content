@@ -1,0 +1,195 @@
+schema: anomalica/brief/1
+brief_hash: 4de5379f8b6250bd9bb6bfe99299a9c0d1771b4fb09680155fe672e0b5fd0d25
+page:
+  kind: entity
+  node_id: 2194ed7c-cc8f-4554-ba87-dbed04f339ac
+  node_type: topic
+  title: Cargo cult
+  slug: cargo-cult
+  claim_count: 4
+  claim_count_total: 4
+generated:
+  graph_version: '2026-09-01T10:10:49.863545+00:00'
+size:
+  claims: 4
+  tokens_estimated: 1254
+  sized_against: 1050000
+publication:
+  status: published
+  note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
+    transcripts are gated elsewhere.
+belonging:
+  verified: 0
+  suspect_excluded: 0
+  unreviewed: 4
+related_nodes:
+  - node_id: c3938d3d-6d68-4a6d-94db-45321eed124d
+    title: Tom DeLonge
+    node_type: person
+    slug: tom-delonge
+    shared_claims: 2
+  - node_id: ff0a86b8-8f3c-4291-94ed-c6d303875ce8
+    title: Jason Samosa
+    node_type: person
+    slug: jason-samosa
+    shared_claims: 1
+  - node_id: 079d4381-4273-418b-bc9a-468623f95c6e
+    title: Jesse Mitchells
+    node_type: person
+    slug: jesse-mitchells
+    shared_claims: 1
+  - node_id: 9795e9e6-0f72-4ae9-9dcb-ed4bd808f2d7
+    title: Lockheed Martin Skunk Works
+    node_type: organisation
+    slug: lockheed-martin-skunk-works
+    shared_claims: 1
+claims:
+  - claim_id: 38e154dd-440c-4c63-b505-c0dc869e3959
+    claim_hash: a4c41217bf3be68fdc02fc6b6d31d8cccd10df56d4160f50f52fde2b28969603
+    content: Anthropologists discovered that Polynesian islanders built wooden effigies of American military aircraft and
+      conducted rituals to encourage the planes to return with cargo, a phenomenon known as a cargo cult.
+    original_excerpt: Anthropologists later discovered that in the pilots' absence, these people built wooden effigies of
+      those aircraft, and conducted rituals designed to coax the planes to return again with their bounty of cargo... This
+      is referred to as a cargo cult.
+    claim_type: hearsay
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: anonymous
+      origin: unnamed anthropologists who studied Polynesian cargo cults
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 2194ed7c-cc8f-4554-ba87-dbed04f339ac
+        title: Cargo cult
+        slug: cargo-cult
+    date: null
+    date_end: null
+    location_in_record: ch13:4596-4916
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  - claim_id: ab7462e8-4ff2-457e-9d39-606e91478eb1
+    claim_hash: 5464858b625b5a24f7d09bab3aeb51ff3680d464f8b926e5164f377f8c74c8dd
+    content: Tom DeLonge sent his Lockheed Martin Skunk Works contact a piece of content written by his adviser about cargo
+      cults, describing a remote tribe that watched aircraft land and unload cargo, food and resources.
+    original_excerpt: then he sent this individual a piece of content that the vendor had written, and it was all around cargo
+      cults... they could see these planes landing and dropping off all this cargo and stuff, food, resources.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: ff0a86b8-8f3c-4291-94ed-c6d303875ce8
+      title: Jason Samosa
+    provenance_chain:
+      origin_kind: speaker
+      origin: Jason Samosa
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 2194ed7c-cc8f-4554-ba87-dbed04f339ac
+        title: Cargo cult
+        slug: cargo-cult
+      - node_id: 9795e9e6-0f72-4ae9-9dcb-ed4bd808f2d7
+        title: Lockheed Martin Skunk Works
+        slug: lockheed-martin-skunk-works
+      - node_id: c3938d3d-6d68-4a6d-94db-45321eed124d
+        title: Tom DeLonge
+        slug: tom-delonge
+      - node_id: ff0a86b8-8f3c-4291-94ed-c6d303875ce8
+        title: Jason Samosa
+        slug: jason-samosa
+    date: null
+    date_end: null
+    location_in_record: 00:36:55.7-00:37:07.0
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 64b84f95-238c-4ab7-a678-bee55f985b14
+      record_title: The UFO Cover-Up Leads to One Secret Society — and One Final Event
+      record_date: '2026-07-14'
+      record_reference: https://www.youtube.com/watch?v=kccrkCGGzX4
+      content_hash: sha256:d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7b5a1b98d
+      friendly_name: null
+  - claim_id: 1ef0860a-126d-42ce-96dd-e42bc98e0eb0
+    claim_hash: b5ab39e7174afc313094fb0ba1741cb5554a534ffdc58020be88f1bf8a5163f8
+    content: The cargo cult phenomenon described in the material Tom DeLonge sent to his Lockheed Martin Skunk Works contact
+      occurred in French Polynesia.
+    original_excerpt: 'Jesse Michels: In French Polynesia. Jason Samosa: French Polynesia, there you go.'
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 079d4381-4273-418b-bc9a-468623f95c6e
+      title: Jesse Mitchells
+    provenance_chain:
+      origin_kind: speaker
+      origin: Jesse Michels
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 079d4381-4273-418b-bc9a-468623f95c6e
+        title: Jesse Mitchells
+        slug: jesse-mitchells
+      - node_id: 2194ed7c-cc8f-4554-ba87-dbed04f339ac
+        title: Cargo cult
+        slug: cargo-cult
+      - node_id: c3938d3d-6d68-4a6d-94db-45321eed124d
+        title: Tom DeLonge
+        slug: tom-delonge
+    date: null
+    date_end: null
+    location_in_record: 00:37:09.8-00:37:12.3
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 64b84f95-238c-4ab7-a678-bee55f985b14
+      record_title: The UFO Cover-Up Leads to One Secret Society — and One Final Event
+      record_date: '2026-07-14'
+      record_reference: https://www.youtube.com/watch?v=kccrkCGGzX4
+      content_hash: sha256:d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7b5a1b98d
+      friendly_name: null
+  - claim_id: a6c02180-3b7d-4a46-9e21-5fa82f939a57
+    claim_hash: ca6f703c90fd509134c8b9427842bdf8fb8e319673a4ac9d466ed4913527a5e1
+    content: A documented cargo cult built a tower out of trees and added lights, replicating what its members had observed,
+      in the hope of making the thing land again.
+    original_excerpt: if we can replicate what we're seeing, so we make the tower out of trees and, you know, put these lights
+      here, maybe we'll also get the thing to land. And that happened, that's documented
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: ff0a86b8-8f3c-4291-94ed-c6d303875ce8
+      title: Jason Samosa
+    provenance_chain:
+      origin_kind: speaker
+      origin: Jason Samosa
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 2194ed7c-cc8f-4554-ba87-dbed04f339ac
+        title: Cargo cult
+        slug: cargo-cult
+    date: null
+    date_end: null
+    location_in_record: 00:37:27.5-00:37:37.0
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 64b84f95-238c-4ab7-a678-bee55f985b14
+      record_title: The UFO Cover-Up Leads to One Secret Society — and One Final Event
+      record_date: '2026-07-14'
+      record_reference: https://www.youtube.com/watch?v=kccrkCGGzX4
+      content_hash: sha256:d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7b5a1b98d
+      friendly_name: null

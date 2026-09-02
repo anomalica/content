@@ -1,0 +1,1089 @@
+schema: anomalica/brief/1
+brief_hash: 1e551c3d362714422c5db3f0821bffabc0ce054d636dfa1287078e95c1498ce4
+page:
+  kind: entity
+  node_id: 7984df1a-3d2e-475c-b0c9-31c258f71855
+  node_type: person
+  title: Garry Nolan
+  slug: garry-nolan
+  claim_count: 27
+  claim_count_total: 27
+generated:
+  graph_version: '2026-09-01T10:10:49.863545+00:00'
+size:
+  claims: 27
+  tokens_estimated: 8070
+  sized_against: 1050000
+publication:
+  status: published
+  note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
+    transcripts are gated elsewhere.
+belonging:
+  verified: 0
+  suspect_excluded: 0
+  unreviewed: 27
+related_nodes:
+  - node_id: 0d209f3b-60f9-4408-bf46-f8a24eb79852
+    title: Caudate-putamen
+    node_type: topic
+    slug: caudate-putamen
+    shared_claims: 6
+  - node_id: bfdc8095-3798-4086-bafa-9b4709c3c2b0
+    title: William Livingston
+    node_type: person
+    slug: william-livingston
+    shared_claims: 6
+  - node_id: 5c502145-40b9-4dbb-be65-24d903bbff01
+    title: Stanford University
+    node_type: organisation
+    slug: stanford-university
+    shared_claims: 5
+  - node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
+    title: Jacques Vallée
+    node_type: person
+    slug: jacques-vallee
+    shared_claims: 3
+  - node_id: 2433eb26-c3e3-4e56-a29e-b6f0d58e0d45
+    title: Council Bluffs Iowa UAP Incident 1977
+    node_type: event
+    slug: council-bluffs-iowa-uap-incident-1977
+    shared_claims: 2
+  - node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+    title: Luis Elizondo
+    node_type: person
+    slug: luis-elizondo
+    shared_claims: 2
+  - node_id: 38b84d4a-96df-4684-bb46-f6f64f392add
+    title: Central Intelligence Agency (CIA)
+    node_type: organisation
+    slug: central-intelligence-agency-cia
+    shared_claims: 1
+  - node_id: 9e257cce-d8c0-4a82-8dd9-e86661742d51
+    title: Colm Kelleher
+    node_type: person
+    slug: colm-kelleher
+    shared_claims: 1
+  - node_id: 5be4173d-ab3b-4b99-9785-d01595d22bdb
+    title: Lady Gaga
+    node_type: person
+    slug: lady-gaga
+    shared_claims: 1
+  - node_id: b77da313-1c95-44d8-883e-0ee4520215b9
+    title: Nolan/Vallée Iowa Unidentified Aerial Phenomena (UAP) materials paper
+    node_type: document
+    slug: nolanvallee-iowa-unidentified-aerial-phenomena-uap-materials-paper
+    shared_claims: 1
+  - node_id: 41c9281c-4a11-4399-b324-a8486a96c766
+    title: Remote Viewing (RV)
+    node_type: topic
+    slug: remote-viewing-rv
+    shared_claims: 1
+  - node_id: bda3ed30-e60d-4076-aa52-0c60302fbcce
+    title: Sean Parker
+    node_type: person
+    slug: sean-parker
+    shared_claims: 1
+  - node_id: c3938d3d-6d68-4a6d-94db-45321eed124d
+    title: Tom DeLonge
+    node_type: person
+    slug: tom-delonge
+    shared_claims: 1
+  - node_id: c2161b8f-ab11-449c-8521-174024cb0552
+    title: USA, Washington DC, Pentagon
+    node_type: place
+    slug: washington-dc-pentagon-usa
+    shared_claims: 1
+  - node_id: 96278e27-75e6-49fe-8ea6-a0f4f5ff1f8a
+    title: United States Army
+    node_type: organisation
+    slug: united-states-army
+    shared_claims: 1
+  - node_id: 8f7ba176-6547-4a47-a0fc-a234fdbc4578
+    title: White-matter disease
+    node_type: topic
+    slug: white-matter-disease
+    shared_claims: 1
+claims:
+  - claim_id: 82b2198c-9671-459d-86f6-1b8c5136182b
+    claim_hash: dcb12b75fe518c7a52150b7e3ff4d1bcda6734814e5e6fde9fd4e8127d901cd1
+    content: Garry Nolan is a Professor in the Department of Pathology at Stanford University.
+    original_excerpt: Dr. Garry Nolan, a Professor in the Department of Pathology at Stanford University
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 5c502145-40b9-4dbb-be65-24d903bbff01
+        title: Stanford University
+        slug: stanford-university
+      - node_id: 7984df1a-3d2e-475c-b0c9-31c258f71855
+        title: Garry Nolan
+        slug: garry-nolan
+    date: null
+    date_end: null
+    location_in_record: char:18165-18237
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e790e3f8-b1a1-4ca3-893a-02d67f8815d7
+      record_title: Intelligence Officials Say U.S. Has Retrieved Craft of Non-Human Origin
+      record_date: '2023-06-05'
+      record_reference: https://thedebrief.org/intelligence-officials-say-u-s-has-retrieved-non-human-craft/
+      content_hash: sha256:5ce8e38071f914d4dbb950938474d8e00a0a59d120d4391a2e90baa5da5d4335
+      friendly_name: 2023-06-05-web-intelligence-officials-say-u-s-has-retrieved-craft-of-non
+  - claim_id: 02172998-08c1-4cd0-974b-43930d8e654f
+    claim_hash: c0b0e21abe04654caa988fc39fdc522b0e341423951166e1bb67d8352b56557d
+    content: Garry Nolan is a renowned inventor and entrepreneur with more than three hundred published papers, and has started
+      over half a dozen companies based on technologies out of his laboratory.
+    original_excerpt: and a renowned inventor and entrepreneur with more than three hundred published papers, has started
+      over half a dozen companies based on technologies out of his laboratory.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 7984df1a-3d2e-475c-b0c9-31c258f71855
+        title: Garry Nolan
+        slug: garry-nolan
+    date: null
+    date_end: null
+    location_in_record: char:18248-18409
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e790e3f8-b1a1-4ca3-893a-02d67f8815d7
+      record_title: Intelligence Officials Say U.S. Has Retrieved Craft of Non-Human Origin
+      record_date: '2023-06-05'
+      record_reference: https://thedebrief.org/intelligence-officials-say-u-s-has-retrieved-non-human-craft/
+      content_hash: sha256:5ce8e38071f914d4dbb950938474d8e00a0a59d120d4391a2e90baa5da5d4335
+      friendly_name: 2023-06-05-web-intelligence-officials-say-u-s-has-retrieved-craft-of-non
+  - claim_id: 64754560-a95f-4718-a0ed-522c39feb810
+    claim_hash: e29807453f39b28e514a27badb650249457d35fb47b22576d6ee8e9d94e74e4d
+    content: Garry Nolan has applied technologies from his laboratory to the analysis of exotic materials, publishing the
+      first peer-reviewed paper examining such materials.
+    original_excerpt: Nolan has previously applied some of those technologies to the analysis of exotic materials, publishing
+      the first peer-reviewed paper examining such materials.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 7984df1a-3d2e-475c-b0c9-31c258f71855
+        title: Garry Nolan
+        slug: garry-nolan
+    date: null
+    date_end: null
+    location_in_record: char:18421-18570
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e790e3f8-b1a1-4ca3-893a-02d67f8815d7
+      record_title: Intelligence Officials Say U.S. Has Retrieved Craft of Non-Human Origin
+      record_date: '2023-06-05'
+      record_reference: https://thedebrief.org/intelligence-officials-say-u-s-has-retrieved-non-human-craft/
+      content_hash: sha256:5ce8e38071f914d4dbb950938474d8e00a0a59d120d4391a2e90baa5da5d4335
+      friendly_name: 2023-06-05-web-intelligence-officials-say-u-s-has-retrieved-craft-of-non
+  - claim_id: cf767440-c71f-427d-8f4c-55b89e15c98f
+    claim_hash: e6be8f4998d793f0a42fc08cda1512d67593cacfa8e2858d805843b51a867aee
+    content: Garry Nolan said human civilisation was utterly transformed by something as small as a grain of silicon or germanium,
+      creating the underpinning of the integrated circuits that underlie computation and now even artificial intelligence.
+    original_excerpt: “Human civilization was utterly transformed by something as small as a grain of silicon or germanium—creating
+      the underpinning of the integrated circuits that underly computation and now even artificial intelligence,” Nolan said.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 7984df1a-3d2e-475c-b0c9-31c258f71855
+      title: Garry Nolan
+    provenance_chain:
+      origin_kind: speaker
+      origin: Garry Nolan
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 7984df1a-3d2e-475c-b0c9-31c258f71855
+        title: Garry Nolan
+        slug: garry-nolan
+    date: null
+    date_end: null
+    location_in_record: char:18662-18885
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e790e3f8-b1a1-4ca3-893a-02d67f8815d7
+      record_title: Intelligence Officials Say U.S. Has Retrieved Craft of Non-Human Origin
+      record_date: '2023-06-05'
+      record_reference: https://thedebrief.org/intelligence-officials-say-u-s-has-retrieved-non-human-craft/
+      content_hash: sha256:5ce8e38071f914d4dbb950938474d8e00a0a59d120d4391a2e90baa5da5d4335
+      friendly_name: 2023-06-05-web-intelligence-officials-say-u-s-has-retrieved-craft-of-non
+  - claim_id: 9dbd6da9-4989-44b7-a16d-67e33d25ec6d
+    claim_hash: fcbca877230056a1ce1c5305198178a6a74378e1432deecba7d5615d2cb4c350
+    content: Garry Nolan considers that studying even small samples of purported anomalous material could lead to currently
+      inconceivable benefits for humanity.
+    original_excerpt: Studying even small samples of purported anomalous material could lead to currently inconceivable benefits
+      for humanity, he said.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 7984df1a-3d2e-475c-b0c9-31c258f71855
+      title: Garry Nolan
+    provenance_chain:
+      origin_kind: speaker
+      origin: Garry Nolan
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 7984df1a-3d2e-475c-b0c9-31c258f71855
+        title: Garry Nolan
+        slug: garry-nolan
+    date: null
+    date_end: null
+    location_in_record: char:18892-19016
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e790e3f8-b1a1-4ca3-893a-02d67f8815d7
+      record_title: Intelligence Officials Say U.S. Has Retrieved Craft of Non-Human Origin
+      record_date: '2023-06-05'
+      record_reference: https://thedebrief.org/intelligence-officials-say-u-s-has-retrieved-non-human-craft/
+      content_hash: sha256:5ce8e38071f914d4dbb950938474d8e00a0a59d120d4391a2e90baa5da5d4335
+      friendly_name: 2023-06-05-web-intelligence-officials-say-u-s-has-retrieved-craft-of-non
+  - claim_id: f4969222-7afa-4fc8-be1b-45d9c0d45c94
+    claim_hash: 8718538213efa9f05335b07c694e296ec5c9bbae8c6dd620e12a489039461d50
+    content: 'Garry Nolan said: "What might be represented here could be hundreds of technology revolutions ahead of us. It
+      could be more transformative for humanity than what the microprocessor accomplished. Imagine what we could do with even
+      a grain of knowledge about how they operate."'
+    original_excerpt: “What might be represented here could be hundreds of technology revolutions ahead of us. It could be
+      more transformative for humanity than what the microprocessor accomplished. Imagine what we could do with even a grain
+      of knowledge about how they operate.”
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 7984df1a-3d2e-475c-b0c9-31c258f71855
+      title: Garry Nolan
+    provenance_chain:
+      origin_kind: speaker
+      origin: Garry Nolan
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 7984df1a-3d2e-475c-b0c9-31c258f71855
+        title: Garry Nolan
+        slug: garry-nolan
+    date: null
+    date_end: null
+    location_in_record: char:19023-19270
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e790e3f8-b1a1-4ca3-893a-02d67f8815d7
+      record_title: Intelligence Officials Say U.S. Has Retrieved Craft of Non-Human Origin
+      record_date: '2023-06-05'
+      record_reference: https://thedebrief.org/intelligence-officials-say-u-s-has-retrieved-non-human-craft/
+      content_hash: sha256:5ce8e38071f914d4dbb950938474d8e00a0a59d120d4391a2e90baa5da5d4335
+      friendly_name: 2023-06-05-web-intelligence-officials-say-u-s-has-retrieved-craft-of-non
+  - claim_id: 9d570b51-8c5e-42ea-9f58-0f472d6de883
+    claim_hash: dd8615a0187c807244dfe0958f9094399a3164a8199d2037767d74ab1c0d17c9
+    content: Garry P. Nolan held a chaired position and his own laboratory at Stanford University, where postdocs and graduate
+      students investigated human genetics.
+    original_excerpt: Garry P. Nolan had a chaired position and his own laboratory at Stanford University, where an army of
+      postdocs and graduate students investigated various mysteries of human genetics.
+    claim_type: administrative
+    attestation: first_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: speaker
+      origin: Lue Elizondo
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 5c502145-40b9-4dbb-be65-24d903bbff01
+        title: Stanford University
+        slug: stanford-university
+      - node_id: 7984df1a-3d2e-475c-b0c9-31c258f71855
+        title: Garry Nolan
+        slug: garry-nolan
+    date: null
+    date_end: null
+    location_in_record: ch18:12588-12761
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  - claim_id: a34e9a52-1ae9-4e4c-8dc6-d61691f6222a
+    claim_hash: 302c03a7dc4beaafc20d833755ee792dbbcde18d36a0fe738d07a9cc32f02164
+    content: Garry P. Nolan has published more than three hundred research articles and developed forty patents.
+    original_excerpt: Garry had published more than three hundred research articles, developed forty patents, and invented
+      several of the experimental instruments in his lab.
+    claim_type: administrative
+    attestation: first_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: speaker
+      origin: Lue Elizondo
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 7984df1a-3d2e-475c-b0c9-31c258f71855
+        title: Garry Nolan
+        slug: garry-nolan
+    date: null
+    date_end: null
+    location_in_record: ch18:12771-12919
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  - claim_id: 259c23a8-0fb0-4be2-96ff-803bc46f448c
+    claim_hash: 87a07e6258b5b7d46c7d02bebcbc68e8a0fb40de6513f41cb583fd1c058fcb1c
+    content: Colleagues have nominated Garry P. Nolan for the Nobel Prize.
+    original_excerpt: Colleagues have nominated Garry for the Nobel Prize.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+      title: Luis Elizondo
+    provenance_chain:
+      origin_kind: speaker
+      origin: Lue Elizondo
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 7984df1a-3d2e-475c-b0c9-31c258f71855
+        title: Garry Nolan
+        slug: garry-nolan
+    date: null
+    date_end: null
+    location_in_record: ch18:12924-12970
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  - claim_id: 8c24143f-0659-4c03-afc2-0f7e7d600289
+    claim_hash: 811a883d25c676dd35dd4bbe22c316cad877bed24457b72ae9931fec0b279ec5
+    content: Lue Elizondo, through Garry P. Nolan, met billionaire entrepreneur Sean Parker and entertainer Lady Gaga, who
+      fund cancer research.
+    original_excerpt: I had the privilege of meeting the billionaire entrepreneur Sean Parker and the entertainer Lady Gaga,
+      to name two people who are doing more for humanity than they will ever take credit for.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+      title: Luis Elizondo
+    provenance_chain:
+      origin_kind: speaker
+      origin: Lue Elizondo
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 5be4173d-ab3b-4b99-9785-d01595d22bdb
+        title: Lady Gaga
+        slug: lady-gaga
+      - node_id: 7984df1a-3d2e-475c-b0c9-31c258f71855
+        title: Garry Nolan
+        slug: garry-nolan
+      - node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+        title: Luis Elizondo
+        slug: luis-elizondo
+      - node_id: bda3ed30-e60d-4076-aa52-0c60302fbcce
+        title: Sean Parker
+        slug: sean-parker
+    date: null
+    date_end: null
+    location_in_record: ch18:13678-13864
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  - claim_id: f775c4c3-96c1-4807-ab6a-bf19bb351011
+    claim_hash: 3445677b95383bdf2718ca0220fac711ce952933e169f13d74fc4ba50b7c7f97
+    content: William "Will" Livingston flew to California with a team that included Colm Kelleher and Jacques Vallée to meet
+      Garry P. Nolan.
+    original_excerpt: Will flew to California with a small team that included Colm Kelleher, a biochemist who was the deputy
+      administrator for BAASS during AAWSAP, and the French scientist Jacques Vallée, who had US government clearances related
+      to the investigation of UAP.
+    claim_type: administrative
+    attestation: first_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: speaker
+      origin: Lue Elizondo
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
+        title: Jacques Vallée
+        slug: jacques-vallee
+      - node_id: 7984df1a-3d2e-475c-b0c9-31c258f71855
+        title: Garry Nolan
+        slug: garry-nolan
+      - node_id: 9e257cce-d8c0-4a82-8dd9-e86661742d51
+        title: Colm Kelleher
+        slug: colm-kelleher
+      - node_id: bfdc8095-3798-4086-bafa-9b4709c3c2b0
+        title: William Livingston
+        slug: william-livingston
+    date: null
+    date_end: null
+    location_in_record: ch18:14594-14842
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  - claim_id: 0d99a206-ee32-4278-b4c4-24a1965b1dcd
+    claim_hash: c37f5751253099d68a2f6e3764acb330ebdc85d2b7808d44ac4b46611c34a647
+    content: William "Will" Livingston's team brought MRI images of the brains of UAP experiencers, all servicemen and intelligence
+      officials, to Garry P. Nolan's office at Stanford University.
+    original_excerpt: Will’s team had brought MRI images of the brains of the UAP experiencers—all servicemen and intelligence
+      officials—who had given them permission to share their medical data.
+    claim_type: administrative
+    attestation: first_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: speaker
+      origin: Lue Elizondo
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 5c502145-40b9-4dbb-be65-24d903bbff01
+        title: Stanford University
+        slug: stanford-university
+      - node_id: 7984df1a-3d2e-475c-b0c9-31c258f71855
+        title: Garry Nolan
+        slug: garry-nolan
+      - node_id: bfdc8095-3798-4086-bafa-9b4709c3c2b0
+        title: William Livingston
+        slug: william-livingston
+    date: null
+    date_end: null
+    location_in_record: ch18:15357-15552
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  - claim_id: 4e7bf743-b7f2-4020-8096-a5f57cf594a8
+    claim_hash: af8b1048c7f02c9f9088df326493770979abfa8a770e002f65257b070ce9197f
+    content: Garry P. Nolan concurred with William "Will" Livingston that the UAP experiencers whose MRI images were examined
+      had suffered brain scarring, known as white-matter disease.
+    original_excerpt: At first glance, Garry concurred with Will that all these people had suffered brain scarring. I was
+      told that this is what doctors call white-matter disease because the scars appear as white in medical images.
+    claim_type: observation
+    attestation: second_hand
+    speaker:
+      node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+      title: Luis Elizondo
+    provenance_chain:
+      origin_kind: named
+      origin: Garry P. Nolan
+      relay:
+        - William "Will" Livingston
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 7984df1a-3d2e-475c-b0c9-31c258f71855
+        title: Garry Nolan
+        slug: garry-nolan
+      - node_id: 8f7ba176-6547-4a47-a0fc-a234fdbc4578
+        title: White-matter disease
+        slug: white-matter-disease
+      - node_id: bfdc8095-3798-4086-bafa-9b4709c3c2b0
+        title: William Livingston
+        slug: william-livingston
+    date: null
+    date_end: null
+    location_in_record: ch18:15558-15760
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  - claim_id: fd9110d3-165c-4e4a-a579-81265948a013
+    claim_hash: 5f6e6e0b6ca9b73feeb9c5f424259fd9ff842ecfcf1c819053eafbdadb847385
+    content: All 105 patients in the UAP experiencer study examined by Garry P. Nolan were high-functioning and had high IQs.
+    original_excerpt: All 105 of the patients were high-functioning and had high IQs.
+    claim_type: measurement
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: named
+      origin: Garry P. Nolan
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 7984df1a-3d2e-475c-b0c9-31c258f71855
+        title: Garry Nolan
+        slug: garry-nolan
+    date: null
+    date_end: null
+    location_in_record: ch18:15828-15887
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  - claim_id: e468572f-6b6f-4bd1-9213-a8f73aea5e60
+    claim_hash: 7976efae4be6cf702bfee29d47d69acd9211a2f8d41e87a23aa2360150c97ea7
+    content: All 105 patients in the UAP experiencer study examined by Garry P. Nolan had an overdeveloped caudate-putamen,
+      a region of the brain associated by some researchers with intuition.
+    original_excerpt: All had an overdeveloped part of the brain known as the caudate-putamen. This is the area of the brain
+      that many researchers have begun to associate with intuition
+    claim_type: measurement
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: named
+      origin: Garry P. Nolan
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 0d209f3b-60f9-4408-bf46-f8a24eb79852
+        title: Caudate-putamen
+        slug: caudate-putamen
+      - node_id: 7984df1a-3d2e-475c-b0c9-31c258f71855
+        title: Garry Nolan
+        slug: garry-nolan
+    date: null
+    date_end: null
+    location_in_record: ch18:15892-16046
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  - claim_id: 75cb5790-ff9a-47ce-b5be-7a36fa579d3d
+    claim_hash: 0e6cdd2e3ec2d2d95be1b3353fa1644ad83a324cc39b5cfc76265946b543e677
+    content: William "Will" Livingston identified a second subset of patients for Garry P. Nolan who were military employees
+      recruited for an unusual programme originally run by the Central Intelligence Agency (CIA).
+    original_excerpt: The people in this data set were military employees recruited for an unusual program originally run
+      by the CIA.
+    claim_type: administrative
+    attestation: first_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: speaker
+      origin: Lue Elizondo
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 38b84d4a-96df-4684-bb46-f6f64f392add
+        title: Central Intelligence Agency (CIA)
+        slug: central-intelligence-agency-cia
+      - node_id: 7984df1a-3d2e-475c-b0c9-31c258f71855
+        title: Garry Nolan
+        slug: garry-nolan
+      - node_id: bfdc8095-3798-4086-bafa-9b4709c3c2b0
+        title: William Livingston
+        slug: william-livingston
+    date: null
+    date_end: null
+    location_in_record: ch18:17527-17634
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  - claim_id: 63ab8169-c960-4870-a766-9e2d7880fef9
+    claim_hash: 3c3a0aceabceb055512ea68dafe9e95e139be9b68e9ad154c11d4ec9af707696
+    content: Many of the patients in the second study group examined by Garry P. Nolan had been associated with the elite
+      military remote-viewing programme, and some of the Army's psychic spies (remote viewers) had the same hyperdeveloped
+      caudate-putamen found in the UAP experiencers.
+    original_excerpt: It turned out that many of the patients in this specific study group had been associated in the past
+      with the elite military operation that trained soldiers to become remote viewers... some of the Army’s psychic spies
+      had the same hyperdeveloped caudate-putamen in their brains.
+    claim_type: observation
+    attestation: first_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: speaker
+      origin: Lue Elizondo
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 0d209f3b-60f9-4408-bf46-f8a24eb79852
+        title: Caudate-putamen
+        slug: caudate-putamen
+      - node_id: 41c9281c-4a11-4399-b324-a8486a96c766
+        title: Remote Viewing (RV)
+        slug: remote-viewing-rv
+      - node_id: 7984df1a-3d2e-475c-b0c9-31c258f71855
+        title: Garry Nolan
+        slug: garry-nolan
+      - node_id: 96278e27-75e6-49fe-8ea6-a0f4f5ff1f8a
+        title: United States Army
+        slug: united-states-army
+    date: null
+    date_end: null
+    location_in_record: ch18:18050-18367
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  - claim_id: 82f6a432-e4b0-4df7-b899-f6f99a45264c
+    claim_hash: 49f9f6be5d3deaa311cfa3569614032756ac79863075661256575e761d18d316
+    content: Garry P. Nolan had a battery of instruments in his laboratory that he thought would allow Jacques Vallée to better
+      understand the material sample recovered from the 1977 Council Bluffs Iowa UAP incident.
+    original_excerpt: Nolan had a battery of instruments in his laboratory that he thought would allow Jacques to get a better
+      understanding of the sample in his possession.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
+        title: Jacques Vallée
+        slug: jacques-vallee
+      - node_id: 2433eb26-c3e3-4e56-a29e-b6f0d58e0d45
+        title: Council Bluffs Iowa UAP Incident 1977
+        slug: council-bluffs-iowa-uap-incident-1977
+      - node_id: 7984df1a-3d2e-475c-b0c9-31c258f71855
+        title: Garry Nolan
+        slug: garry-nolan
+    date: null
+    date_end: null
+    location_in_record: ch22:6774-6914
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  - claim_id: ce3d56ff-1efd-44c7-868c-1ccef2c84850
+    claim_hash: aefefeaa2afd91cf84f36cd890fe4a849c6965f84872ab127abc9ef128da3243
+    content: Garry P. Nolan worked with William "Will" Livingston to develop a program studying the questions raised by the
+      circumstances of Livingston's patients.
+    original_excerpt: At the same time, Garry was also working with Will to flesh out a program to study the questions raised
+      by Will’s patients’ circumstances.
+    claim_type: administrative
+    attestation: first_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: speaker
+      origin: Lue Elizondo
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 7984df1a-3d2e-475c-b0c9-31c258f71855
+        title: Garry Nolan
+        slug: garry-nolan
+      - node_id: bfdc8095-3798-4086-bafa-9b4709c3c2b0
+        title: William Livingston
+        slug: william-livingston
+    date: null
+    date_end: null
+    location_in_record: ch22:6927-7051
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  - claim_id: 4c3a9cb4-6134-4b3f-936e-b5fbb9988240
+    claim_hash: 122b5f2658faf74ef282318d2f74236c72e9f33bafb43e106d10ba1901aad565
+    content: Garry P. Nolan never briefed the Pentagon-based Advanced Aerospace Threat Identification Program (AATIP) team,
+      because he worked directly for William "Will" Livingston.
+    original_excerpt: Though I knew of him and his work with us, he never briefed us at the Pentagon because he was working
+      directly for Will.
+    claim_type: observation
+    attestation: first_hand
+    speaker:
+      node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+      title: Luis Elizondo
+    provenance_chain:
+      origin_kind: speaker
+      origin: Lue Elizondo
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 7984df1a-3d2e-475c-b0c9-31c258f71855
+        title: Garry Nolan
+        slug: garry-nolan
+      - node_id: bfdc8095-3798-4086-bafa-9b4709c3c2b0
+        title: William Livingston
+        slug: william-livingston
+      - node_id: c2161b8f-ab11-449c-8521-174024cb0552
+        title: USA, Washington DC, Pentagon
+        slug: washington-dc-pentagon-usa
+    date: null
+    date_end: null
+    location_in_record: ch22:7129-7244
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  - claim_id: ce91b7c3-f6ec-438f-92d1-a59645d462be
+    claim_hash: 7327508844d316a7b92bfdcdd8ab17c8a14c4d1cc131618220fab5cdfaf9d0c6
+    content: 'Garry P. Nolan set up a project for graduate students to examine caudate-putamen brain scans of three groups:
+      a control group, a group diagnosed with autism, and a group with schizophrenia.'
+    original_excerpt: He set up a project for some graduate students to look at the brain scans of three sets of people—a
+      control group, a group that had diagnosed autism, and those with schizophrenia.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 0d209f3b-60f9-4408-bf46-f8a24eb79852
+        title: Caudate-putamen
+        slug: caudate-putamen
+      - node_id: 7984df1a-3d2e-475c-b0c9-31c258f71855
+        title: Garry Nolan
+        slug: garry-nolan
+    date: null
+    date_end: null
+    location_in_record: ch22:7740-7905
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  - claim_id: 53aee1c9-0cc1-4703-8f67-a5939c759d81
+    claim_hash: 5e13434901e6de874cbfbd5d2c50466eb9fff135ac29954230723884e69e60d6
+    content: Garry P. Nolan's graduate student team found that autistic and schizophrenic people both showed slight pathological
+      differences in their caudate-putamens compared with the average person.
+    original_excerpt: Sure enough, Nolan’s team of grads found that autistic people and schizophrenic people both had slight
+      differences from the average person, pathologies, in their caudate-putamens.
+    claim_type: measurement
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 0d209f3b-60f9-4408-bf46-f8a24eb79852
+        title: Caudate-putamen
+        slug: caudate-putamen
+      - node_id: 7984df1a-3d2e-475c-b0c9-31c258f71855
+        title: Garry Nolan
+        slug: garry-nolan
+    date: null
+    date_end: null
+    location_in_record: ch22:8200-8370
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  - claim_id: 8f835955-93c0-4a4f-beef-8fd2de96708b
+    claim_hash: 142afa147d0ca7e7ca1490da4ef99e64da755db56d24ceb27bad1ebd9a87bfd2
+    content: Garry P. Nolan theorised that if psychic ability really exists, it would have to be connected in some way to
+      the caudate-putamen.
+    original_excerpt: If psychic ability really exists, Nolan theorized, it would have to be connected in some way to the
+      caudate-putamen.
+    claim_type: opinion
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: named
+      origin: Garry P. Nolan
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 0d209f3b-60f9-4408-bf46-f8a24eb79852
+        title: Caudate-putamen
+        slug: caudate-putamen
+      - node_id: 7984df1a-3d2e-475c-b0c9-31c258f71855
+        title: Garry Nolan
+        slug: garry-nolan
+    date: null
+    date_end: null
+    location_in_record: ch22:8756-8864
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  - claim_id: f089850e-6e85-4662-8f15-3c4d4dc7893b
+    claim_hash: 7ce8584c528099b3d6cfd8d7b097c5344ed1a26de6fa7517452f9cf822d76da7
+    content: Garry P. Nolan considered the caudate-putamen to be the "hardware" that allows the brain to perform intuitive
+      or psychic functions, with DNA as its blueprint.
+    original_excerpt: The way he saw it, the caudate-putamen was the “hardware” that allowed these brains to perform their
+      work. DNA was the blueprint for the hardware.
+    claim_type: opinion
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: named
+      origin: Garry P. Nolan
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 0d209f3b-60f9-4408-bf46-f8a24eb79852
+        title: Caudate-putamen
+        slug: caudate-putamen
+      - node_id: 7984df1a-3d2e-475c-b0c9-31c258f71855
+        title: Garry Nolan
+        slug: garry-nolan
+    date: null
+    date_end: null
+    location_in_record: ch22:9141-9278
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  - claim_id: 8147bb32-bcf6-4e03-994b-d9aa809283e2
+    claim_hash: 2eaafa10007677bee9dfc46e5c79cbd84c6abc01d4d5d74c1c27095747261b2b
+    content: Garry P. Nolan and Jacques Vallée analysed the elemental and isotopic composition of the molten metal aggregate
+      recovered from the 1977 Council Bluffs Iowa UAP incident.
+    original_excerpt: Nolan and Vallée had explored the composition of the 1977 Iowa molten metal aggregate and had uncovered
+      another mystery for us to solve.
+    claim_type: testimony
+    attestation: second_hand
+    speaker:
+      node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+      title: Luis Elizondo
+    provenance_chain:
+      origin_kind: named
+      origin: Garry P. Nolan and Jacques Vallée
+      relay:
+        - Lue Elizondo
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
+        title: Jacques Vallée
+        slug: jacques-vallee
+      - node_id: 2433eb26-c3e3-4e56-a29e-b6f0d58e0d45
+        title: Council Bluffs Iowa UAP Incident 1977
+        slug: council-bluffs-iowa-uap-incident-1977
+      - node_id: 7984df1a-3d2e-475c-b0c9-31c258f71855
+        title: Garry Nolan
+        slug: garry-nolan
+    date: 1977-12
+    date_end: null
+    location_in_record: ch25:14224-14354
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  - claim_id: 2863f5c1-c383-448b-9c58-6587ca071baf
+    claim_hash: 226008c0210ab047b78cab3cb6ba3ec315dc073c64233c4b72d3d87149e4b259
+    content: Garry P. Nolan of Stanford University was a friend and colleague of Luis Elizondo and was included on Tom DeLonge's
+      advisory board.
+    original_excerpt: my friend and colleague from Stanford University, Dr. Garry Nolan
+    claim_type: administrative
+    attestation: first_hand
+    speaker:
+      node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+      title: Luis Elizondo
+    provenance_chain:
+      origin_kind: speaker
+      origin: Lue Elizondo
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 5c502145-40b9-4dbb-be65-24d903bbff01
+        title: Stanford University
+        slug: stanford-university
+      - node_id: 7984df1a-3d2e-475c-b0c9-31c258f71855
+        title: Garry Nolan
+        slug: garry-nolan
+      - node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+        title: Luis Elizondo
+        slug: luis-elizondo
+      - node_id: c3938d3d-6d68-4a6d-94db-45321eed124d
+        title: Tom DeLonge
+        slug: tom-delonge
+    date: null
+    date_end: null
+    location_in_record: ch29:13554-13614
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  - claim_id: af50dfe6-97b1-492d-bc35-325d72bd153a
+    claim_hash: 652415d3b69a5ccf8ab2d05a0d269a2470bf3b48c04a14c1bbf4574ff510af1e
+    content: Garry P. Nolan is a professor at Stanford University's medical school, and the Nolan/Vallée Iowa UAP materials
+      paper was the first time he had published in an aerospace journal.
+    original_excerpt: It was the first time that Nolan, a professor at Stanford’s medical school, had ever published in an
+      aerospace journal
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 5c502145-40b9-4dbb-be65-24d903bbff01
+        title: Stanford University
+        slug: stanford-university
+      - node_id: 7984df1a-3d2e-475c-b0c9-31c258f71855
+        title: Garry Nolan
+        slug: garry-nolan
+      - node_id: b77da313-1c95-44d8-883e-0ee4520215b9
+        title: Nolan/Vallée Iowa Unidentified Aerial Phenomena (UAP) materials paper
+        slug: nolanvallee-iowa-unidentified-aerial-phenomena-uap-materials-paper
+    date: null
+    date_end: null
+    location_in_record: ch31:38451-38562
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos

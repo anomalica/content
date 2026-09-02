@@ -1,0 +1,823 @@
+schema: anomalica/brief/1
+brief_hash: 4233a367fdbe2f7eb093a70b3ad05030e71dadab6687dcbd24e1a0a17e14973d
+page:
+  kind: entity
+  node_id: 782e22a7-0df0-4c32-86ac-095f5ac2ec32
+  node_type: topic
+  title: Search for Extraterrestrial Intelligence (SETI)
+  slug: search-for-extraterrestrial-intelligence-seti
+  claim_count: 18
+  claim_count_total: 18
+generated:
+  graph_version: '2026-09-01T10:10:49.863545+00:00'
+size:
+  claims: 18
+  tokens_estimated: 5872
+  sized_against: 1050000
+publication:
+  status: published
+  note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
+    transcripts are gated elsewhere.
+belonging:
+  verified: 0
+  suspect_excluded: 0
+  unreviewed: 18
+related_nodes:
+  - node_id: e1650a1d-8feb-4841-a403-0d71e176d2d9
+    title: Richard C. Hoagland
+    node_type: person
+    slug: richard-c-hoagland
+    shared_claims: 4
+  - node_id: e7aef649-b8cd-42c8-af7f-ab1ceb0226c2
+    title: Carl Sagan
+    node_type: person
+    slug: carl-sagan
+    shared_claims: 3
+  - node_id: 9162dd11-b0a1-4385-8a10-a9ba47b335a6
+    title: J. Allen Hynek
+    node_type: person
+    slug: j-allen-hynek
+    shared_claims: 2
+  - node_id: 5e47c787-005b-4c91-ba4b-c9bec48146c9
+    title: National Aeronautics and Space Administration (NASA)
+    node_type: organisation
+    slug: national-aeronautics-and-space-administration-nasa
+    shared_claims: 2
+  - node_id: ee17e26e-d4de-41af-ba2c-a2ac27168725
+    title: Stanley V. McDaniel
+    node_type: person
+    slug: stanley-v-mcdaniel
+    shared_claims: 2
+  - node_id: 24136f1c-4cb7-4030-8ed1-35855481a65e
+    title: Tyler D.
+    node_type: person
+    slug: tyler-d
+    shared_claims: 2
+  - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
+    title: Unidentified Flying Object (UFO)
+    node_type: topic
+    slug: unidentified-flying-object-ufo
+    shared_claims: 2
+  - node_id: cc327db1-44bd-4762-acc0-d8fe82a3c6ea
+    title: Cydonia
+    node_type: place
+    slug: cydonia
+    shared_claims: 1
+  - node_id: e95de532-be74-4903-9624-cf62541d08bb
+    title: David Finkelstein
+    node_type: person
+    slug: david-finkelstein
+    shared_claims: 1
+  - node_id: 59476464-a679-46ce-9247-b0adcb287762
+    title: Edgar Mitchell
+    node_type: person
+    slug: edgar-mitchell
+    shared_claims: 1
+  - node_id: f4405afb-cf86-4558-a12b-427d10a2b9ac
+    title: Intelligent Life in the Universe
+    node_type: document
+    slug: intelligent-life-in-the-universe
+    shared_claims: 1
+  - node_id: ad152a4a-c815-4e9f-b5f3-f637e57e434d
+    title: Iosif Samuilovich Shklovsky
+    node_type: person
+    slug: iosif-samuilovich-shklovsky
+    shared_claims: 1
+  - node_id: 8ceb897c-2d80-45fc-aff6-76217588d1ed
+    title: John Pruitt
+    node_type: person
+    slug: john-pruitt
+    shared_claims: 1
+  - node_id: b636c9a1-e958-4f48-a639-450a7ab409f0
+    title: Junk Deoxyribonucleic Acid (DNA)
+    node_type: topic
+    slug: junk-deoxyribonucleic-acid-dna
+    shared_claims: 1
+  - node_id: 5c9023b9-5b26-4a95-b6ae-6c81a24aa33e
+    title: New Scientist
+    node_type: document
+    slug: new-scientist
+    shared_claims: 1
+  - node_id: 521300b4-8a92-4419-a368-f7697c583708
+    title: Paul Davies
+    node_type: person
+    slug: paul-davies
+    shared_claims: 1
+  - node_id: 4e18fded-649f-4eb8-a246-b6b79e9f9a6c
+    title: Paul Davies's 2004 New Scientist speculation on extraterrestrial messages in junk Deoxyribonucleic Acid (DNA)
+    node_type: event
+    slug: paul-daviess-2004-new-scientist-speculation-on-extraterrestrial-messages-in-junk-deoxyribonucleic-acid-dna
+    shared_claims: 1
+  - node_id: a2ef7e82-b7e5-4099-9065-c98b8a795968
+    title: Royal Society
+    node_type: organisation
+    slug: royal-society
+    shared_claims: 1
+  - node_id: 612a4c2d-673e-4943-b7b6-1b1d9d200893
+    title: USA, California, Mojave Desert
+    node_type: place
+    slug: california-mojave-desert-usa
+    shared_claims: 1
+claims:
+  - claim_id: 1605437b-7b2a-49dc-a819-a6fe436cbf91
+    claim_hash: cc91c708a28fdc06f338051b795d0b064d94194231a753d99cae6badcbecb0bf
+    content: By 1975, the search for extraterrestrial intelligence had recently evolved from a largely disreputable pseudoscience
+      into a speculative endeavour within the boundaries of science.
+    original_excerpt: The search for extraterrestrial intelligence has recently evolved from a largely disreputable pseudoscience
+      to an interesting although extremely speculative endeavour within the boundaries of science.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: e7aef649-b8cd-42c8-af7f-ab1ceb0226c2
+      title: Carl Sagan
+    provenance_chain:
+      origin_kind: speaker
+      origin: Carl Sagan
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 782e22a7-0df0-4c32-86ac-095f5ac2ec32
+        title: Search for Extraterrestrial Intelligence (SETI)
+        slug: search-for-extraterrestrial-intelligence-seti
+      - node_id: e7aef649-b8cd-42c8-af7f-ab1ceb0226c2
+        title: Carl Sagan
+        slug: carl-sagan
+    date: '1975'
+    date_end: null
+    location_in_record: char:1884-2076
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: ad1bc55d-0bfb-49a6-82f5-2124886cf5d0
+      record_title: The recognition of extraterrestrial intelligence
+      record_date: '1975'
+      record_reference: null
+      content_hash: sha256:db65684625707605ee783f094129c86f86b76812c216416543f96185a1eeda6c
+      friendly_name: null
+  - claim_id: 50deaa77-bc09-4b18-9388-a5e6bab95fd0
+    claim_hash: 49a7ea0c0de0aa353e60be9feee2efcbb790996cb3e907eaf69cbf3fd33ad5a5
+    content: Carl Sagan considers this 1975 Royal Society discussion meeting itself an indication of the growing respectability
+      of the search for extraterrestrial intelligence.
+    original_excerpt: This discussion meeting of the Royal Society is itself an indication of the growing respectability of
+      the subject.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: e7aef649-b8cd-42c8-af7f-ab1ceb0226c2
+      title: Carl Sagan
+    provenance_chain:
+      origin_kind: speaker
+      origin: Carl Sagan
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 782e22a7-0df0-4c32-86ac-095f5ac2ec32
+        title: Search for Extraterrestrial Intelligence (SETI)
+        slug: search-for-extraterrestrial-intelligence-seti
+      - node_id: a2ef7e82-b7e5-4099-9065-c98b8a795968
+        title: Royal Society
+        slug: royal-society
+      - node_id: e7aef649-b8cd-42c8-af7f-ab1ceb0226c2
+        title: Carl Sagan
+        slug: carl-sagan
+    date: '1975'
+    date_end: null
+    location_in_record: char:2085-2191
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: ad1bc55d-0bfb-49a6-82f5-2124886cf5d0
+      record_title: The recognition of extraterrestrial intelligence
+      record_date: '1975'
+      record_reference: null
+      content_hash: sha256:db65684625707605ee783f094129c86f86b76812c216416543f96185a1eeda6c
+      friendly_name: null
+  - claim_id: 0ba41b2d-a92a-4d02-ae5e-fa1b657972cb
+    claim_hash: 1da1d5404c204af883159c1fe6a31a8e834bc6083bec6b1660302c2dc85e1552
+    content: Visitors from outer space have fascinated humanity since the dawn of civilisation.
+    original_excerpt: has fascinated man since the dawn of civilization, visitors from outer space.
+    claim_type: opinion
+    attestation: null
+    speaker:
+      node_id: 8ceb897c-2d80-45fc-aff6-76217588d1ed
+      title: John Pruitt
+    provenance_chain:
+      origin_kind: unattributed
+      origin: news presenter John Pruitt
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 782e22a7-0df0-4c32-86ac-095f5ac2ec32
+        title: Search for Extraterrestrial Intelligence (SETI)
+        slug: search-for-extraterrestrial-intelligence-seti
+      - node_id: 8ceb897c-2d80-45fc-aff6-76217588d1ed
+        title: John Pruitt
+        slug: john-pruitt
+    date: null
+    date_end: null
+    location_in_record: 00:00:00.1-00:00:04.0
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: deb5fa91-469f-4adc-871f-e7c053fd5adb
+      record_title: Paul Brown Recounts His 1973 UFO Encounter With Two Humanoids | 1988 News Report
+      record_date: '1988'
+      record_reference: https://www.youtube.com/watch?v=7GTmo9GhPZo
+      content_hash: sha256:95ecdca9eaaaa0521483c2d03a9a5c1d985a6e0cf3c938b2d12b235833fce3bb
+      friendly_name: null
+  - claim_id: c4931655-9f69-4dd6-ba2c-490bf86651c6
+    claim_hash: 20206d964fa6563c819e11b868274bdc8b02e8c9e53c2326a7bd591b92fccc03
+    content: David Finkelstein expects that wherever similar conditions are found in other solar systems, beings not very
+      different from humans will probably be found.
+    original_excerpt: Yes, I expect then whenever we'll find similar conditions in other solar systems, we'll probably find
+      other beings not very different from us.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: e95de532-be74-4903-9624-cf62541d08bb
+      title: David Finkelstein
+    provenance_chain:
+      origin_kind: speaker
+      origin: David Finkelstein
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 782e22a7-0df0-4c32-86ac-095f5ac2ec32
+        title: Search for Extraterrestrial Intelligence (SETI)
+        slug: search-for-extraterrestrial-intelligence-seti
+      - node_id: e95de532-be74-4903-9624-cf62541d08bb
+        title: David Finkelstein
+        slug: david-finkelstein
+    date: null
+    date_end: null
+    location_in_record: 00:02:01.8-00:02:11.6
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: deb5fa91-469f-4adc-871f-e7c053fd5adb
+      record_title: Paul Brown Recounts His 1973 UFO Encounter With Two Humanoids | 1988 News Report
+      record_date: '1988'
+      record_reference: https://www.youtube.com/watch?v=7GTmo9GhPZo
+      content_hash: sha256:95ecdca9eaaaa0521483c2d03a9a5c1d985a6e0cf3c938b2d12b235833fce3bb
+      friendly_name: null
+  - claim_id: 290eacdc-c9bd-4be2-b0e6-14e84e4b8768
+    claim_hash: df89144bd7a7e068ac9d80f7187112f55b50a446d18502b6bd5be433ea9181eb
+    content: J. Allen Hynek believes there is life and intelligence elsewhere in the universe, but regards whether that is
+      what UFOs are as the big open question.
+    original_excerpt: My feeling is that there is a life and intelligence elsewhere. However, The big question is, is that
+      what UFOs are?
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 9162dd11-b0a1-4385-8a10-a9ba47b335a6
+      title: J. Allen Hynek
+    provenance_chain:
+      origin_kind: speaker
+      origin: J. Allen Hynek
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 782e22a7-0df0-4c32-86ac-095f5ac2ec32
+        title: Search for Extraterrestrial Intelligence (SETI)
+        slug: search-for-extraterrestrial-intelligence-seti
+      - node_id: 9162dd11-b0a1-4385-8a10-a9ba47b335a6
+        title: J. Allen Hynek
+        slug: j-allen-hynek
+      - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
+        title: Unidentified Flying Object (UFO)
+        slug: unidentified-flying-object-ufo
+    date: null
+    date_end: null
+    location_in_record: 00:02:12.3-00:02:22.8
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: deb5fa91-469f-4adc-871f-e7c053fd5adb
+      record_title: Paul Brown Recounts His 1973 UFO Encounter With Two Humanoids | 1988 News Report
+      record_date: '1988'
+      record_reference: https://www.youtube.com/watch?v=7GTmo9GhPZo
+      content_hash: sha256:95ecdca9eaaaa0521483c2d03a9a5c1d985a6e0cf3c938b2d12b235833fce3bb
+      friendly_name: null
+  - claim_id: d52a006c-276e-41e4-94ca-34431d16f89f
+    claim_hash: eac882692a02ee28f5d9dbbe0c5c0f5a0a84bca22eb52ff816f22cc381840db6
+    content: There are 200 billion stars in our galaxy and the universe contains billions more galaxies, so the law of averages
+      alone suggests humanity may not be alone.
+    original_excerpt: With 200 billion stars in our galaxy and the universe containing billions more galaxies, the law of
+      averages alone suggests that perhaps we are not alone.
+    claim_type: measurement
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: news report narration
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 782e22a7-0df0-4c32-86ac-095f5ac2ec32
+        title: Search for Extraterrestrial Intelligence (SETI)
+        slug: search-for-extraterrestrial-intelligence-seti
+    date: null
+    date_end: null
+    location_in_record: 00:02:53.6-00:03:02.9
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: deb5fa91-469f-4adc-871f-e7c053fd5adb
+      record_title: Paul Brown Recounts His 1973 UFO Encounter With Two Humanoids | 1988 News Report
+      record_date: '1988'
+      record_reference: https://www.youtube.com/watch?v=7GTmo9GhPZo
+      content_hash: sha256:95ecdca9eaaaa0521483c2d03a9a5c1d985a6e0cf3c938b2d12b235833fce3bb
+      friendly_name: null
+  - claim_id: 046c9826-6916-410d-b5f9-6edaa24f16ba
+    claim_hash: e0fe1b210b3be42c1a80b3789f45268296302e1c60e08e5464f15298a0736121
+    content: J. Allen Hynek considers it preposterous that humans could be such complete freaks as to be the only intelligence
+      in the vast array of the universe.
+    original_excerpt: It's preposterous to me to think that we could be such complete freaks as to be the only intelligence
+      in that vast array of things.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 9162dd11-b0a1-4385-8a10-a9ba47b335a6
+      title: J. Allen Hynek
+    provenance_chain:
+      origin_kind: speaker
+      origin: J. Allen Hynek
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 782e22a7-0df0-4c32-86ac-095f5ac2ec32
+        title: Search for Extraterrestrial Intelligence (SETI)
+        slug: search-for-extraterrestrial-intelligence-seti
+      - node_id: 9162dd11-b0a1-4385-8a10-a9ba47b335a6
+        title: J. Allen Hynek
+        slug: j-allen-hynek
+    date: null
+    date_end: null
+    location_in_record: 00:03:07.5-00:03:16.6
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: deb5fa91-469f-4adc-871f-e7c053fd5adb
+      record_title: Paul Brown Recounts His 1973 UFO Encounter With Two Humanoids | 1988 News Report
+      record_date: '1988'
+      record_reference: https://www.youtube.com/watch?v=7GTmo9GhPZo
+      content_hash: sha256:95ecdca9eaaaa0521483c2d03a9a5c1d985a6e0cf3c938b2d12b235833fce3bb
+      friendly_name: null
+  - claim_id: 50dc3394-07d3-4476-9123-283a0da2f806
+    claim_hash: 7db0133f211e6bdc071b6c658d19287ee206c7dbde83b011cbb231453002aeb3
+    content: The Search for Extraterrestrial Intelligence (SETI) is a government-sponsored project that has for years scanned
+      the heavens from the Mojave Desert in California with huge radio telescopes, listening for a trace of intelligent life.
+    original_excerpt: For years, a government-sponsored project called SETI, or Search for Extraterrestrial Intelligence,
+      has been scanning the heavens from the Mojave Desert with huge radio telescopes, listening for some trace of intelligent
+      life.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: news report narration
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 612a4c2d-673e-4943-b7b6-1b1d9d200893
+        title: USA, California, Mojave Desert
+        slug: california-mojave-desert-usa
+      - node_id: 782e22a7-0df0-4c32-86ac-095f5ac2ec32
+        title: Search for Extraterrestrial Intelligence (SETI)
+        slug: search-for-extraterrestrial-intelligence-seti
+    date: null
+    date_end: null
+    location_in_record: 00:03:18.6-00:03:31.2
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: deb5fa91-469f-4adc-871f-e7c053fd5adb
+      record_title: Paul Brown Recounts His 1973 UFO Encounter With Two Humanoids | 1988 News Report
+      record_date: '1988'
+      record_reference: https://www.youtube.com/watch?v=7GTmo9GhPZo
+      content_hash: sha256:95ecdca9eaaaa0521483c2d03a9a5c1d985a6e0cf3c938b2d12b235833fce3bb
+      friendly_name: null
+  - claim_id: 6db72cda-68c3-48bc-9a60-04a5efd6e73f
+    claim_hash: 784190aeb4e203cd43cd51965a6eddf50a3089148f5f18c317aeb7bc85e44766
+    content: Even if the Search for Extraterrestrial Intelligence (SETI) picked up a message from outer space, it would do
+      little to settle the UFO controversy.
+    original_excerpt: But even if they were to pick up a message from outer space, it would do little to settle the UFO controversy.
+    claim_type: opinion
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: news report narration
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 782e22a7-0df0-4c32-86ac-095f5ac2ec32
+        title: Search for Extraterrestrial Intelligence (SETI)
+        slug: search-for-extraterrestrial-intelligence-seti
+      - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
+        title: Unidentified Flying Object (UFO)
+        slug: unidentified-flying-object-ufo
+    date: null
+    date_end: null
+    location_in_record: 00:03:32.7-00:03:37.3
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: deb5fa91-469f-4adc-871f-e7c053fd5adb
+      record_title: Paul Brown Recounts His 1973 UFO Encounter With Two Humanoids | 1988 News Report
+      record_date: '1988'
+      record_reference: https://www.youtube.com/watch?v=7GTmo9GhPZo
+      content_hash: sha256:95ecdca9eaaaa0521483c2d03a9a5c1d985a6e0cf3c938b2d12b235833fce3bb
+      friendly_name: null
+  - claim_id: c5ad89a9-4067-4a95-9237-ea4cf347a5f3
+    claim_hash: d0c8c48d8f062dbb04d059b02ca9c6f6307bb8cf30846417fd07b1a196c2ee35
+    content: In 2004, Paul Davies revisited the theme of extraterrestrial DNA in a way that surprised many people, speculating
+      in New Scientist that a more intelligent way to search for evidence of an extraterrestrial message would be to look
+      for unusual extraterrestrial patterns in so-called "junk" DNA rather than using Search for Extraterrestrial Intelligence
+      (SETI) radio astronomy searches.
+    original_excerpt: Paul Davies revisited the theme of extraterrestrial DNA in a way that took many people by surprise in
+      2004. He speculated in New Scientist that a more intelligent way to look for evidence of an extraterrestrial message,
+      rather than SETI searches via radio astronomy, was to see if there were unusual extraterrestrial patterns in so-called
+      “junk” DNA.
+    claim_type: opinion
+    attestation: second_hand
+    speaker:
+      node_id: 521300b4-8a92-4419-a368-f7697c583708
+      title: Paul Davies
+    provenance_chain:
+      origin_kind: named
+      origin: Paul Davies
+      relay:
+        - New Scientist
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 4e18fded-649f-4eb8-a246-b6b79e9f9a6c
+        title: Paul Davies's 2004 New Scientist speculation on extraterrestrial messages in junk Deoxyribonucleic Acid (DNA)
+        slug: paul-daviess-2004-new-scientist-speculation-on-extraterrestrial-messages-in-junk-deoxyribonucleic-acid-dna
+      - node_id: 521300b4-8a92-4419-a368-f7697c583708
+        title: Paul Davies
+        slug: paul-davies
+      - node_id: 5c9023b9-5b26-4a95-b6ae-6c81a24aa33e
+        title: New Scientist
+        slug: new-scientist
+      - node_id: 782e22a7-0df0-4c32-86ac-095f5ac2ec32
+        title: Search for Extraterrestrial Intelligence (SETI)
+        slug: search-for-extraterrestrial-intelligence-seti
+      - node_id: b636c9a1-e958-4f48-a639-450a7ab409f0
+        title: Junk Deoxyribonucleic Acid (DNA)
+        slug: junk-deoxyribonucleic-acid-dna
+    date: '2004'
+    date_end: null
+    location_in_record: ch21:3747-4093
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 32687cf8-a827-40a9-b9f4-308ca4d9b2b3
+      record_title: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
+      record_date: '2005-11-14'
+      record_reference: null
+      content_hash: sha256:c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95d6ac9c3b
+      friendly_name: 2005-11-14-ebook-hair-of-the-alien-dna-and-other-forensic-evidence-for-alien
+  - claim_id: 7c6b2f48-6f39-434c-b41b-b9b304b26fee
+    claim_hash: a0d0c2ccbdcb7bca5677b02aa765d5f2529618a7ba7a008e871da21f5f8c8ac0
+    content: Stanley V. McDaniel asked Richard C. Hoagland for assistance in locating difficult-to-find historical National
+      Aeronautics and Space Administration (NASA) documents and research papers relating to its Search for Extraterrestrial
+      Intelligence (SETI) project.
+    original_excerpt: In the final stages of his study, McDaniel asked Richard C. Hoagland for some assistance in locating
+      difficult-to-find historical NASA documents and research papers relating to its SETI (Search for Extraterrestrial Intelligence)
+      project.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: narration
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 5e47c787-005b-4c91-ba4b-c9bec48146c9
+        title: National Aeronautics and Space Administration (NASA)
+        slug: national-aeronautics-and-space-administration-nasa
+      - node_id: 782e22a7-0df0-4c32-86ac-095f5ac2ec32
+        title: Search for Extraterrestrial Intelligence (SETI)
+        slug: search-for-extraterrestrial-intelligence-seti
+      - node_id: e1650a1d-8feb-4841-a403-0d71e176d2d9
+        title: Richard C. Hoagland
+        slug: richard-c-hoagland
+      - node_id: ee17e26e-d4de-41af-ba2c-a2ac27168725
+        title: Stanley V. McDaniel
+        slug: stanley-v-mcdaniel
+    date: null
+    date_end: null
+    location_in_record: ch10:50972-51201
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+      record_title: Dark Mission
+      record_date: '2010-07-22'
+      record_reference: null
+      content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+      friendly_name: null
+  - claim_id: 9148179a-c025-472d-99dd-95c9339d4c02
+    claim_hash: f1e6bb92d34b6a557562e2147a6d805de96f63616e4d4c2964b3917eea33a9d1
+    content: Richard C. Hoagland told Stanley V. McDaniel of the long-rumoured existence of an official National Aeronautics
+      and Space Administration (NASA) report, supposedly commissioned by the agency in its early years, relating to prospective
+      censorship of Search for Extraterrestrial Intelligence (SETI) evidence if it was ever discovered.
+    original_excerpt: Hoagland advised McDaniel of the long-rumored existence of an official NASA report—supposedly commissioned
+      by the space agency in its early years and relating to prospective NASA censorship of SETI evidence if it was ever discovered.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: e1650a1d-8feb-4841-a403-0d71e176d2d9
+      title: Richard C. Hoagland
+    provenance_chain:
+      origin_kind: speaker
+      origin: Richard C. Hoagland
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 5e47c787-005b-4c91-ba4b-c9bec48146c9
+        title: National Aeronautics and Space Administration (NASA)
+        slug: national-aeronautics-and-space-administration-nasa
+      - node_id: 782e22a7-0df0-4c32-86ac-095f5ac2ec32
+        title: Search for Extraterrestrial Intelligence (SETI)
+        slug: search-for-extraterrestrial-intelligence-seti
+      - node_id: e1650a1d-8feb-4841-a403-0d71e176d2d9
+        title: Richard C. Hoagland
+        slug: richard-c-hoagland
+      - node_id: ee17e26e-d4de-41af-ba2c-a2ac27168725
+        title: Stanley V. McDaniel
+        slug: stanley-v-mcdaniel
+    date: null
+    date_end: null
+    location_in_record: ch10:51210-51432
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+      record_title: Dark Mission
+      record_date: '2010-07-22'
+      record_reference: null
+      content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+      friendly_name: null
+  - claim_id: de5f5a10-e1a7-49da-9550-9f4e60f9a94c
+    claim_hash: 543bdcb428aa4eb16054e3260e9a8400042aff085fc4e31131d24ed9e232f76f
+    content: Richard C. Hoagland objected to the use of the term Search for Extraterrestrial Intelligence (SETI) because he
+      considered it a moniker developed by Carl Sagan for radio astronomy searches for stray radio signals from other stellar
+      systems, which Hoagland believed gave unnecessary credibility to what he saw as a waste of time or an outright scam.
+    original_excerpt: He objected to the use of the term “SETI.” This was a moniker developed by Carl Sagan for the use of
+      radio astronomy to scan for stray radio signals from other stellar systems... Hoagland felt that the use of SETI gave
+      unnecessary credibility to what he had come to believe was a waste of time at best or an outright scam at worst.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: e1650a1d-8feb-4841-a403-0d71e176d2d9
+      title: Richard C. Hoagland
+    provenance_chain:
+      origin_kind: speaker
+      origin: Richard C. Hoagland
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 782e22a7-0df0-4c32-86ac-095f5ac2ec32
+        title: Search for Extraterrestrial Intelligence (SETI)
+        slug: search-for-extraterrestrial-intelligence-seti
+      - node_id: e1650a1d-8feb-4841-a403-0d71e176d2d9
+        title: Richard C. Hoagland
+        slug: richard-c-hoagland
+      - node_id: e7aef649-b8cd-42c8-af7f-ab1ceb0226c2
+        title: Carl Sagan
+        slug: carl-sagan
+    date: null
+    date_end: null
+    location_in_record: ch11:2136-2517
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+      record_title: Dark Mission
+      record_date: '2010-07-22'
+      record_reference: null
+      content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+      friendly_name: null
+  - claim_id: b21bf72e-e0fa-42c8-aa1b-f43473fc3b3d
+    claim_hash: 8ce2a319c3eb01975bddc33d049ca075fd288fc44e8a4d935d97dbd0387f342b
+    content: Drawing on the model of Search for Extraterrestrial Intelligence (SETI) analysis, Richard C. Hoagland decided
+      that any intended message at Cydonia would almost certainly have been inscribed more than once.
+    original_excerpt: Taking a page out of the SETI manual, Hoagland decided that any intended message would almost certainly
+      have been inscribed more than once.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: e1650a1d-8feb-4841-a403-0d71e176d2d9
+      title: Richard C. Hoagland
+    provenance_chain:
+      origin_kind: speaker
+      origin: Richard C. Hoagland
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 782e22a7-0df0-4c32-86ac-095f5ac2ec32
+        title: Search for Extraterrestrial Intelligence (SETI)
+        slug: search-for-extraterrestrial-intelligence-seti
+      - node_id: cc327db1-44bd-4762-acc0-d8fe82a3c6ea
+        title: Cydonia
+        slug: cydonia
+      - node_id: e1650a1d-8feb-4841-a403-0d71e176d2d9
+        title: Richard C. Hoagland
+        slug: richard-c-hoagland
+    date: null
+    date_end: null
+    location_in_record: ch8:19791-19925
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+      record_title: Dark Mission
+      record_date: '2010-07-22'
+      record_reference: null
+      content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+      friendly_name: null
+  - claim_id: b2de63d7-63a3-4792-bbc1-3a515d04df1e
+    claim_hash: ab3412f532ffe47e80da62f9d57170ff2e3387b4be80caf03de0e1a4882a6bda
+    content: Tyler D. considers the Search for Extraterrestrial Intelligence (SETI) to be looking in the wrong places with
+      the wrong sensors, since a laser detector is unlikely to find anything, though it obtains funding.
+    original_excerpt: SETI [the Search for Extraterrestrial Intelligence] seems to look in all the wrong places with the wrong
+      sensors. I guess any search is better than no search but it won’t come from a laser detector. The best detectors are
+      humans like you and their net results and may be certain light frequencies or the study of physical relics. The wavelength
+      of optical lasers is unlikely to find anything. But it sounds good and can obtain funding.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 24136f1c-4cb7-4030-8ed1-35855481a65e
+      title: Tyler D.
+    provenance_chain:
+      origin_kind: speaker
+      origin: Tyler D.
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 24136f1c-4cb7-4030-8ed1-35855481a65e
+        title: Tyler D.
+        slug: tyler-d
+      - node_id: 782e22a7-0df0-4c32-86ac-095f5ac2ec32
+        title: Search for Extraterrestrial Intelligence (SETI)
+        slug: search-for-extraterrestrial-intelligence-seti
+    date: null
+    date_end: null
+    location_in_record: ch5:46531-46958
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 288e1100-0497-41df-ba08-9890e519b0b9
+      record_title: American Cosmic
+      record_date: '2019'
+      record_reference: null
+      content_hash: sha256:ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b16ac4758
+      friendly_name: 2019-ebook-american-cosmic
+  - claim_id: 063684b5-1bd3-42f3-a486-0c9694d338c5
+    claim_hash: 4a9b341b71790c2753e99da00f1a2fd7400d5222d34ee09367ae93aee3176964
+    content: According to Edgar Mitchell, organisations like the Search for Extraterrestrial Intelligence (SETI) were apparently
+      not the preferred contact centres for extraterrestrial communication.
+    original_excerpt: Organizations like SETI, the Search for Extraterrestrial Intelligence, were not the preferred contact
+      centers, apparently.
+    claim_type: opinion
+    attestation: second_hand
+    speaker:
+      node_id: f2daae19-9351-4a8e-b466-664f83887f61
+      title: Diana Walsh Pasulka
+    provenance_chain:
+      origin_kind: named
+      origin: Edgar Mitchell
+      relay:
+        - D. W. Pasulka
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 59476464-a679-46ce-9247-b0adcb287762
+        title: Edgar Mitchell
+        slug: edgar-mitchell
+      - node_id: 782e22a7-0df0-4c32-86ac-095f5ac2ec32
+        title: Search for Extraterrestrial Intelligence (SETI)
+        slug: search-for-extraterrestrial-intelligence-seti
+    date: null
+    date_end: null
+    location_in_record: ch6:35477-35588
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 288e1100-0497-41df-ba08-9890e519b0b9
+      record_title: American Cosmic
+      record_date: '2019'
+      record_reference: null
+      content_hash: sha256:ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b16ac4758
+      friendly_name: 2019-ebook-american-cosmic
+  - claim_id: f7da5fc2-392d-446d-bdd1-538af132fb11
+    claim_hash: 7149657b1793de0af0111cf0219ed5bdeec18b3b19fd5ba951ca98dae198a1c7
+    content: Tyler D. also mentioned that organisations like the Search for Extraterrestrial Intelligence (SETI) were not
+      the preferred contact centres for extraterrestrial communication.
+    original_excerpt: Tyler had mentioned this too.
+    claim_type: opinion
+    attestation: second_hand
+    speaker:
+      node_id: f2daae19-9351-4a8e-b466-664f83887f61
+      title: Diana Walsh Pasulka
+    provenance_chain:
+      origin_kind: named
+      origin: Tyler D.
+      relay:
+        - D. W. Pasulka
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 24136f1c-4cb7-4030-8ed1-35855481a65e
+        title: Tyler D.
+        slug: tyler-d
+      - node_id: 782e22a7-0df0-4c32-86ac-095f5ac2ec32
+        title: Search for Extraterrestrial Intelligence (SETI)
+        slug: search-for-extraterrestrial-intelligence-seti
+    date: null
+    date_end: null
+    location_in_record: ch6:35600-35625
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 288e1100-0497-41df-ba08-9890e519b0b9
+      record_title: American Cosmic
+      record_date: '2019'
+      record_reference: null
+      content_hash: sha256:ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b16ac4758
+      friendly_name: 2019-ebook-american-cosmic
+  - claim_id: 3bac88c8-bcd4-48b1-a505-9247426d9b68
+    claim_hash: a03cd95f54f085e2f476a30136c1de6069d483a2016ae6ffbc448643410567de
+    content: Iosif Samuilovich Shklovsky wrote in Intelligent Life in the Universe, "The prey runs to the predator," referring
+      to the search for extraterrestrial life and suggesting that if humans met such life it might not be friendly.
+    original_excerpt: 'I was struck by Shklovsky''s words: “The prey runs to the predator.” This referred to the search for
+      extraterrestrial life, of course. It suggested that if humans actually did meet such life, it might not be friendly.'
+    claim_type: opinion
+    attestation: second_hand
+    speaker:
+      node_id: ad152a4a-c815-4e9f-b5f3-f637e57e434d
+      title: Iosif Samuilovich Shklovsky
+    provenance_chain:
+      origin_kind: document
+      origin: Intelligent Life in the Universe
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 782e22a7-0df0-4c32-86ac-095f5ac2ec32
+        title: Search for Extraterrestrial Intelligence (SETI)
+        slug: search-for-extraterrestrial-intelligence-seti
+      - node_id: ad152a4a-c815-4e9f-b5f3-f637e57e434d
+        title: Iosif Samuilovich Shklovsky
+        slug: iosif-samuilovich-shklovsky
+      - node_id: f4405afb-cf86-4558-a12b-427d10a2b9ac
+        title: Intelligent Life in the Universe
+        slug: intelligent-life-in-the-universe
+    date: null
+    date_end: null
+    location_in_record: ch7:50204-50411
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 288e1100-0497-41df-ba08-9890e519b0b9
+      record_title: American Cosmic
+      record_date: '2019'
+      record_reference: null
+      content_hash: sha256:ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b16ac4758
+      friendly_name: 2019-ebook-american-cosmic

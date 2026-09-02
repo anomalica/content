@@ -1,0 +1,327 @@
+schema: anomalica/brief/1
+brief_hash: 18a3ea4529662b34b6a2cdde13ea230236beadef650b84f90a993a9b55b03ce0
+page:
+  kind: entity
+  node_id: 49e20a47-e0d6-429d-8e8e-f20f6705a850
+  node_type: organisation
+  title: The Black Vault
+  slug: the-black-vault
+  claim_count: 6
+  claim_count_total: 6
+generated:
+  graph_version: '2026-09-01T10:10:49.863545+00:00'
+size:
+  claims: 6
+  tokens_estimated: 1718
+  sized_against: 1050000
+publication:
+  status: published
+  note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
+    transcripts are gated elsewhere.
+belonging:
+  verified: 0
+  suspect_excluded: 0
+  unreviewed: 6
+related_nodes:
+  - node_id: 7155e2e0-0cd2-4ee7-963d-6e47c3f093f2
+    title: John Greenewald
+    node_type: person
+    slug: john-greenewald
+    shared_claims: 3
+  - node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+    title: Luis Elizondo
+    node_type: person
+    slug: luis-elizondo
+    shared_claims: 2
+  - node_id: 99f08514-5471-4eaf-bce3-46c474a8d304
+    title: United States Department of Defense (DoD)
+    node_type: organisation
+    slug: united-states-department-of-defense-dod
+    shared_claims: 2
+  - node_id: 6c1618c8-50db-42c9-860e-6d736ef280bf
+    title: Advanced Aerospace Threat Identification Program (AATIP)
+    node_type: project
+    slug: advanced-aerospace-threat-identification-program-aatip
+    shared_claims: 1
+  - node_id: 6ab5988e-2f69-4938-8ed9-72e00bd92150
+    title: Cooperative Research and Development Agreement (CRADA) between To The Stars Academy of Arts & Sciences (TTSA) and
+      US Army
+    node_type: project
+    slug: cooperative-research-and-development-agreement-crada-between-to-the-stars-academy-of-arts-sciences-ttsa-and-us-army
+    shared_claims: 1
+  - node_id: 7a7d3dc5-791a-4393-a8bd-7afd375c52f3
+    title: Freedom of Information Act (FOIA)
+    node_type: topic
+    slug: freedom-of-information-act-foia
+    shared_claims: 1
+  - node_id: c91974f0-961f-4db8-b7b0-22d4b846e5d5
+    title: Harry Reid
+    node_type: person
+    slug: harry-reid
+    shared_claims: 1
+  - node_id: cec715ac-05d9-4eb4-b97a-dcbffb6bf2e5
+    title: Harry Reid memo to William Lynn III on Advanced Aerospace Threat Identification Program (AATIP) Special Access
+      Program status (2009-07-24)
+    node_type: document
+    slug: harry-reid-memo-to-william-lynn-iii-on-advanced-aerospace-threat-identification-program-aatip-special-access-program-status-2009-07-24
+    shared_claims: 1
+  - node_id: 13b14438-a42d-4b08-8213-e10f6dd0d242
+    title: Susan Gough
+    node_type: person
+    slug: susan-gough
+    shared_claims: 1
+  - node_id: 96278e27-75e6-49fe-8ea6-a0f4f5ff1f8a
+    title: United States Army
+    node_type: organisation
+    slug: united-states-army
+    shared_claims: 1
+  - node_id: 5ee4362d-c09b-44a8-a3be-8bd9c05f4c78
+    title: United States Navy (USN)
+    node_type: organisation
+    slug: united-states-navy-usn
+    shared_claims: 1
+claims:
+  - claim_id: 0382a0ad-52b0-4b0e-b07a-6e7f2133345f
+    claim_hash: e040872bde3a3396aab7f6f17f4c555baabf7f94a531d55c70e4f56b6e637132
+    content: Susan Gough's office is unable to provide The Black Vault a full copy of the Department of Defense's response
+      to Senator Harry Reid, since the Public Affairs office does not release Congressional correspondence.
+    original_excerpt: She then explains that her office is unable to provide The Black Vault a full copy of the response,
+      since the Public Affairs office does not release Congressional correspondence
+    claim_type: administrative
+    attestation: first_hand
+    speaker:
+      node_id: 13b14438-a42d-4b08-8213-e10f6dd0d242
+      title: Susan Gough
+    provenance_chain:
+      origin_kind: speaker
+      origin: Susan Gough
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 13b14438-a42d-4b08-8213-e10f6dd0d242
+        title: Susan Gough
+        slug: susan-gough
+      - node_id: 49e20a47-e0d6-429d-8e8e-f20f6705a850
+        title: The Black Vault
+        slug: the-black-vault
+      - node_id: 99f08514-5471-4eaf-bce3-46c474a8d304
+        title: United States Department of Defense (DoD)
+        slug: united-states-department-of-defense-dod
+      - node_id: c91974f0-961f-4db8-b7b0-22d4b846e5d5
+        title: Harry Reid
+        slug: harry-reid
+    date: '2019-06-14'
+    date_end: null
+    location_in_record: char:3650-3813
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 6277b269-0970-4c9f-bb3f-9af4babe813e
+      record_title: Pentagon Reinforces Mr. Luis Elizondo Had “No Responsibilities” on AATIP; Senator Harry Reid’s 2009 Memo
+        Changes Nothing - The Black Vault
+      record_date: '2019-06-14'
+      record_reference: https://www.theblackvault.com/documentarchive/pentagon-reinforces-mr-luis-elizondo-had-no-responsibilities-on-aatip-senator-harry-reids-2009-memo-changes-nothing/
+      content_hash: sha256:b5f3b4fc656776dcac742cb3190859da4a5d67bf028530c1aeea49b186b0adfc
+      friendly_name: 2019-06-14-web-pentagon-reinforces-mr-luis-elizondo-had-no
+  - claim_id: 8f944325-163a-4caa-96e5-245772c3bc31
+    claim_hash: 4aa5a08580b95547548f53640c564f9da37e61011c618a1a6dd1de384ee05293
+    content: Luis Elizondo did not respond to a request for comment from The Black Vault.
+    original_excerpt: Mr. Elizondo did not respond to a request for comment.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 49e20a47-e0d6-429d-8e8e-f20f6705a850
+        title: The Black Vault
+        slug: the-black-vault
+      - node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+        title: Luis Elizondo
+        slug: luis-elizondo
+    date: '2019-06-14'
+    date_end: null
+    location_in_record: char:4189-4235
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 6277b269-0970-4c9f-bb3f-9af4babe813e
+      record_title: Pentagon Reinforces Mr. Luis Elizondo Had “No Responsibilities” on AATIP; Senator Harry Reid’s 2009 Memo
+        Changes Nothing - The Black Vault
+      record_date: '2019-06-14'
+      record_reference: https://www.theblackvault.com/documentarchive/pentagon-reinforces-mr-luis-elizondo-had-no-responsibilities-on-aatip-senator-harry-reids-2009-memo-changes-nothing/
+      content_hash: sha256:b5f3b4fc656776dcac742cb3190859da4a5d67bf028530c1aeea49b186b0adfc
+      friendly_name: 2019-06-14-web-pentagon-reinforces-mr-luis-elizondo-had-no
+  - claim_id: eced2346-d2dc-4905-9fb5-29fef7b40d12
+    claim_hash: 061cce7ea83f6bba506f32935ae8b78e37a147806c4718497e0a63851fbeed02
+    content: The Pentagon issued statements to The Black Vault specifically addressing the 2009 Harry Reid memo, which some
+      supporters offered as proof of Luis Elizondo's alleged leadership of the Advanced Aerospace Threat Identification Program
+      (AATIP).
+    original_excerpt: newly received statements from the Pentagon issued to The Black Vault specifically address a 2009 Harry
+      Reid memo that is being offered by some supporters as proof of Mr. Elizondo’s alleged leadership of the program.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 49e20a47-e0d6-429d-8e8e-f20f6705a850
+        title: The Black Vault
+        slug: the-black-vault
+      - node_id: 6c1618c8-50db-42c9-860e-6d736ef280bf
+        title: Advanced Aerospace Threat Identification Program (AATIP)
+        slug: advanced-aerospace-threat-identification-program-aatip
+      - node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+        title: Luis Elizondo
+        slug: luis-elizondo
+      - node_id: 99f08514-5471-4eaf-bce3-46c474a8d304
+        title: United States Department of Defense (DoD)
+        slug: united-states-department-of-defense-dod
+      - node_id: cec715ac-05d9-4eb4-b97a-dcbffb6bf2e5
+        title: Harry Reid memo to William Lynn III on Advanced Aerospace Threat Identification Program (AATIP) Special Access
+          Program status (2009-07-24)
+        slug: harry-reid-memo-to-william-lynn-iii-on-advanced-aerospace-threat-identification-program-aatip-special-access-program-status-2009-07-24
+    date: '2019-06-14'
+    date_end: null
+    location_in_record: char:769-977
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 6277b269-0970-4c9f-bb3f-9af4babe813e
+      record_title: Pentagon Reinforces Mr. Luis Elizondo Had “No Responsibilities” on AATIP; Senator Harry Reid’s 2009 Memo
+        Changes Nothing - The Black Vault
+      record_date: '2019-06-14'
+      record_reference: https://www.theblackvault.com/documentarchive/pentagon-reinforces-mr-luis-elizondo-had-no-responsibilities-on-aatip-senator-harry-reids-2009-memo-changes-nothing/
+      content_hash: sha256:b5f3b4fc656776dcac742cb3190859da4a5d67bf028530c1aeea49b186b0adfc
+      friendly_name: 2019-06-14-web-pentagon-reinforces-mr-luis-elizondo-had-no
+  - claim_id: f66c86f4-cc07-4c4b-a267-7decee52d115
+    claim_hash: a9e71d3f928c9f587ebd0fee4f5bc28fbadce7bff65d1df080cad2ed0f19ce4c
+    content: On 2019-09-11, John Greenewald reported via The Black Vault that the US Navy had released the dates of three
+      officially acknowledged encounters with unidentified phenomena.
+    original_excerpt: John Greenewald Jr, 'U.S. Navy Releases Dates of Three Officially Acknowledged Encounters with Phenomena',
+      The Black Vault, 11 September 2019.
+    claim_type: administrative
+    attestation: third_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: named
+      origin: United States Navy
+      relay:
+        - John Greenewald
+        - The Black Vault
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 49e20a47-e0d6-429d-8e8e-f20f6705a850
+        title: The Black Vault
+        slug: the-black-vault
+      - node_id: 5ee4362d-c09b-44a8-a3be-8bd9c05f4c78
+        title: United States Navy (USN)
+        slug: united-states-navy-usn
+      - node_id: 7155e2e0-0cd2-4ee7-963d-6e47c3f093f2
+        title: John Greenewald
+        slug: john-greenewald
+    date: '2019-09-11'
+    date_end: null
+    location_in_record: ch34:47692-47829
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: fbe357d8-af29-4fa1-b676-e4819f6eb946
+    claim_hash: ad6f44c252e1d6b4755612162c43ec49751383d3af336a5eeba9387d108b6f7a
+    content: John Greenewald reported via The Black Vault on 2019-10-18 that the US Army had released its agreement with To
+      The Stars Academy of Arts & Sciences.
+    original_excerpt: John Greenewald/TheBlackVault.com, 'U.S. Army Releases Agreement with To The Stars Academy of Arts &
+      Science', 18 October 2019.
+    claim_type: administrative
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: named
+      origin: John Greenewald
+      relay:
+        - The Black Vault
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 49e20a47-e0d6-429d-8e8e-f20f6705a850
+        title: The Black Vault
+        slug: the-black-vault
+      - node_id: 6ab5988e-2f69-4938-8ed9-72e00bd92150
+        title: Cooperative Research and Development Agreement (CRADA) between To The Stars Academy of Arts & Sciences (TTSA)
+          and US Army
+        slug: cooperative-research-and-development-agreement-crada-between-to-the-stars-academy-of-arts-sciences-ttsa-and-us-army
+      - node_id: 7155e2e0-0cd2-4ee7-963d-6e47c3f093f2
+        title: John Greenewald
+        slug: john-greenewald
+      - node_id: 96278e27-75e6-49fe-8ea6-a0f4f5ff1f8a
+        title: United States Army
+        slug: united-states-army
+    date: '2019-10-18'
+    date_end: null
+    location_in_record: ch34:51759-51881
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: f9ee5e0d-0616-47b4-8a1e-7581249d08ca
+    claim_hash: 0805938fe11a537b81e6b46da02db453b624eba8e321c0b98657245bbbb79dae
+    content: John Greenewald runs The Black Vault, a Freedom of Information Act archive.
+    original_excerpt: '[note: John Greenewald - Researcher who runs The Black Vault FOIA archive]'
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: source record annotation
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 49e20a47-e0d6-429d-8e8e-f20f6705a850
+        title: The Black Vault
+        slug: the-black-vault
+      - node_id: 7155e2e0-0cd2-4ee7-963d-6e47c3f093f2
+        title: John Greenewald
+        slug: john-greenewald
+      - node_id: 7a7d3dc5-791a-4393-a8bd-7afd375c52f3
+        title: Freedom of Information Act (FOIA)
+        slug: freedom-of-information-act-foia
+    date: null
+    date_end: null
+    location_in_record: line 255
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 64b84f95-238c-4ab7-a678-bee55f985b14
+      record_title: The UFO Cover-Up Leads to One Secret Society — and One Final Event
+      record_date: '2026-07-14'
+      record_reference: https://www.youtube.com/watch?v=kccrkCGGzX4
+      content_hash: sha256:d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7b5a1b98d
+      friendly_name: null

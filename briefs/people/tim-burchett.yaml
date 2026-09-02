@@ -1,0 +1,933 @@
+schema: anomalica/brief/1
+brief_hash: 58caccb604b8a0afe03f83b480c9b614439186474230ed03b638d1d8b533ee82
+page:
+  kind: entity
+  node_id: 71b8e508-1c7b-4573-a68e-34c777cdeffa
+  node_type: person
+  title: Tim Burchett
+  slug: tim-burchett
+  claim_count: 19
+  claim_count_total: 19
+generated:
+  graph_version: '2026-09-01T10:10:49.863545+00:00'
+size:
+  claims: 19
+  tokens_estimated: 5469
+  sized_against: 1050000
+publication:
+  status: published
+  note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
+    transcripts are gated elsewhere.
+belonging:
+  verified: 0
+  suspect_excluded: 0
+  unreviewed: 19
+related_nodes:
+  - node_id: 1d228903-0bd7-401a-9902-2656e6e85650
+    title: Anna Paulina Luna
+    node_type: person
+    slug: anna-paulina-luna
+    shared_claims: 7
+  - node_id: 6cf462e5-bd6f-4c8a-930a-0fe54c67ec28
+    title: Matt Gaetz
+    node_type: person
+    slug: matt-gaetz
+    shared_claims: 5
+  - node_id: d0dc734b-e88b-4274-bdfd-8181139805b2
+    title: Eric Burlison
+    node_type: person
+    slug: eric-burlison
+    shared_claims: 4
+  - node_id: 4e3caa3f-a8a8-4d99-b17b-3bb42d5652e6
+    title: House Hearing on Unidentified Anomalous Phenomena (2023-07-26)
+    node_type: event
+    slug: house-hearing-on-unidentified-anomalous-phenomena-2023-07-26
+    shared_claims: 3
+  - node_id: 1ef2907b-d608-4a71-b164-05ea785b5765
+    title: USA, Florida, Eglin Air Force Base
+    node_type: place
+    slug: florida-eglin-air-force-base-usa
+    shared_claims: 3
+  - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
+    title: Unidentified Anomalous Phenomena (UAP)
+    node_type: topic
+    slug: unidentified-anomalous-phenomena-uap
+    shared_claims: 3
+  - node_id: f813951c-0161-4bab-ad93-06d5511adf8b
+    title: Alexandria Ocasio-Cortez
+    node_type: person
+    slug: alexandria-ocasio-cortez
+    shared_claims: 2
+  - node_id: 1017eefe-05d5-4310-bc45-827bb449863f
+    title: Andrew Ogles
+    node_type: person
+    slug: andrew-ogles
+    shared_claims: 2
+  - node_id: 903557d1-d572-49fe-89ff-2cde42e50f78
+    title: Glenn Grothman
+    node_type: person
+    slug: glenn-grothman
+    shared_claims: 2
+  - node_id: 4fb65b2c-296a-493d-bbc7-65e4b763c1f0
+    title: United States Congress
+    node_type: organisation
+    slug: united-states-congress
+    shared_claims: 2
+  - node_id: 55f35a8b-84bc-46d6-8b9b-f131810f7262
+    title: 1st Marine Division
+    node_type: organisation
+    slug: 1st-marine-division
+    shared_claims: 1
+  - node_id: 95f94bc0-90f2-40bc-93e3-79e8739dbc03
+    title: Advanced Space Propulsion Based on Vacuum (Spacetime Metric) Engineering
+    node_type: document
+    slug: advanced-space-propulsion-based-on-vacuum-spacetime-metric-engineering
+    shared_claims: 1
+  - node_id: bfc5973f-29cc-4ea4-8218-86c5b0b2e417
+    title: Battle of Peleliu
+    node_type: event
+    slug: battle-of-peleliu
+    shared_claims: 1
+  - node_id: 7d0b52ee-b0e5-4110-a403-e3e815d59acd
+    title: Chesty Puller
+    node_type: person
+    slug: chesty-puller
+    shared_claims: 1
+  - node_id: 816c219b-6372-49f6-9579-5eeabb9a7474
+    title: Donald Trump
+    node_type: person
+    slug: donald-trump
+    shared_claims: 1
+  - node_id: de3e896e-c2b5-4cd6-8507-dd4f3acf4486
+    title: James Comer
+    node_type: person
+    slug: james-comer
+    shared_claims: 1
+  - node_id: cb9ba091-aeb7-41fd-8753-15754baa8762
+    title: Jamie Raskin
+    node_type: person
+    slug: jamie-raskin
+    shared_claims: 1
+  - node_id: 69fa2a03-b6bb-41c3-a745-dff92528671c
+    title: Manhattan Project
+    node_type: project
+    slug: manhattan-project
+    shared_claims: 1
+  - node_id: 4d8a72a4-7ecf-4d18-b634-573e09b75b4f
+    title: Nick Langworthy
+    node_type: person
+    slug: nick-langworthy
+    shared_claims: 1
+  - node_id: b26a5e2e-9cb8-484e-92f8-d332245917b5
+    title: Phil McGraw
+    node_type: person
+    slug: phil-mcgraw
+    shared_claims: 1
+  - node_id: 7d0a9d14-858f-43e0-81a5-eb173422d291
+    title: Stephen Miller
+    node_type: person
+    slug: stephen-miller
+    shared_claims: 1
+  - node_id: a316cbb9-b90f-422a-9329-9be7414bda65
+    title: USA, Tennessee, Oak Ridge
+    node_type: place
+    slug: tennessee-oak-ridge-usa
+    shared_claims: 1
+  - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
+    title: Unidentified Flying Object (UFO)
+    node_type: topic
+    slug: unidentified-flying-object-ufo
+    shared_claims: 1
+  - node_id: 240453b5-254d-479a-a39f-4340fec022c8
+    title: United States House Committee on Oversight and Accountability
+    node_type: organisation
+    slug: united-states-house-committee-on-oversight-and-accountability
+    shared_claims: 1
+  - node_id: 0f912810-85b7-4e73-a97f-f31901933301
+    title: United States Marine Corps (USMC)
+    node_type: organisation
+    slug: united-states-marine-corps-usmc
+    shared_claims: 1
+claims:
+  - claim_id: 771089ea-4d90-4e9c-979c-a78b450716cc
+    claim_hash: 97b4736681ef703ffda33668e6fccd221ef4858428b1eb63da5a60845c034591
+    content: If not for Matt Gaetz's involvement, Tim Burchett, Anna Paulina Luna, and Eric Burlison would still be at Eglin
+      Air Force Base trying to get answers about UAP.
+    original_excerpt: it is not in my notes here but Matt Gaetz—if it had not been for Matt Gaetz, myself, him, and Luna would
+      still be down at Eglin Air Force Base trying to get some answers.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 71b8e508-1c7b-4573-a68e-34c777cdeffa
+      title: Tim Burchett
+    provenance_chain:
+      origin_kind: speaker
+      origin: Tim Burchett
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 1d228903-0bd7-401a-9902-2656e6e85650
+        title: Anna Paulina Luna
+        slug: anna-paulina-luna
+      - node_id: 1ef2907b-d608-4a71-b164-05ea785b5765
+        title: USA, Florida, Eglin Air Force Base
+        slug: florida-eglin-air-force-base-usa
+      - node_id: 6cf462e5-bd6f-4c8a-930a-0fe54c67ec28
+        title: Matt Gaetz
+        slug: matt-gaetz
+      - node_id: 71b8e508-1c7b-4573-a68e-34c777cdeffa
+        title: Tim Burchett
+        slug: tim-burchett
+      - node_id: d0dc734b-e88b-4274-bdfd-8181139805b2
+        title: Eric Burlison
+        slug: eric-burlison
+    date: null
+    date_end: null
+    location_in_record: char:10458-10620
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 5e233de3-335a-46b1-8b03-81df19638eae
+      record_title: 'Unidentified Anomalous Phenomena: Implications on National Security, Public Safety, and Government Transparency'
+      record_date: '2023-07-26'
+      record_reference: null
+      content_hash: sha256:e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed69a6d8ec1
+      friendly_name: 2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety
+  - claim_id: 9725d5f4-e744-4876-a353-c6064d8da600
+    claim_hash: fc9578813e32fa44b7037bc9da650c8b2ded760fa2174bc82f13cf60db8206d0
+    content: Tim Burchett, Matt Gaetz, Anna Paulina Luna, and Eric Burlison visited Eglin Air Force Base to try to get answers
+      on UAP.
+    original_excerpt: if it had not been for Matt Gaetz, myself, him, and Luna would still be down at Eglin Air Force Base
+      trying to get some answers.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 71b8e508-1c7b-4573-a68e-34c777cdeffa
+      title: Tim Burchett
+    provenance_chain:
+      origin_kind: speaker
+      origin: Tim Burchett
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 1d228903-0bd7-401a-9902-2656e6e85650
+        title: Anna Paulina Luna
+        slug: anna-paulina-luna
+      - node_id: 1ef2907b-d608-4a71-b164-05ea785b5765
+        title: USA, Florida, Eglin Air Force Base
+        slug: florida-eglin-air-force-base-usa
+      - node_id: 6cf462e5-bd6f-4c8a-930a-0fe54c67ec28
+        title: Matt Gaetz
+        slug: matt-gaetz
+      - node_id: 71b8e508-1c7b-4573-a68e-34c777cdeffa
+        title: Tim Burchett
+        slug: tim-burchett
+      - node_id: d0dc734b-e88b-4274-bdfd-8181139805b2
+        title: Eric Burlison
+        slug: eric-burlison
+    date: '2023-07-26'
+    date_end: null
+    location_in_record: char:10500-10620
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 5e233de3-335a-46b1-8b03-81df19638eae
+      record_title: 'Unidentified Anomalous Phenomena: Implications on National Security, Public Safety, and Government Transparency'
+      record_date: '2023-07-26'
+      record_reference: null
+      content_hash: sha256:e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed69a6d8ec1
+      friendly_name: 2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety
+  - claim_id: d25c13f7-f38b-4cea-a994-2b72a383c6b1
+    claim_hash: 13854456ee6ab6b7731033a5cf33a8c453a4932c454bb6e21711e4a4b59f0ffb
+    content: Matt Gaetz has an excellent legal mind.
+    original_excerpt: He has got an incredible legal mind.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 71b8e508-1c7b-4573-a68e-34c777cdeffa
+      title: Tim Burchett
+    provenance_chain:
+      origin_kind: speaker
+      origin: Tim Burchett
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 6cf462e5-bd6f-4c8a-930a-0fe54c67ec28
+        title: Matt Gaetz
+        slug: matt-gaetz
+    date: null
+    date_end: null
+    location_in_record: char:10629-10660
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 5e233de3-335a-46b1-8b03-81df19638eae
+      record_title: 'Unidentified Anomalous Phenomena: Implications on National Security, Public Safety, and Government Transparency'
+      record_date: '2023-07-26'
+      record_reference: null
+      content_hash: sha256:e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed69a6d8ec1
+      friendly_name: 2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety
+  - claim_id: de5653d4-edad-43de-beb2-4b10cdd30ce2
+    claim_hash: 1ecd807049eb78f9e7dc2a3707676c35d6f4a29c0cc2bdbb113e1bc7b6006fc4
+    content: Tim Burchett entered the Defense Intelligence Reference Document "Advanced Space Propulsion Based on Vacuum (Spacetime
+      Metric) Engineering" into the hearing record as an unclassified public document.
+    original_excerpt: I also would like to enter in—I understand now that this is unclassified, and it is public record but
+      as we all know that is sometimes difficult for the public to get a hold of—a report, defense intelligence reference
+      documents, ''Advanced Space Propulsion Based on Vacuum (spacetime metric) Engineering,''
+    claim_type: administrative
+    attestation: first_hand
+    speaker:
+      node_id: 71b8e508-1c7b-4573-a68e-34c777cdeffa
+      title: Tim Burchett
+    provenance_chain:
+      origin_kind: speaker
+      origin: Tim Burchett
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 71b8e508-1c7b-4573-a68e-34c777cdeffa
+        title: Tim Burchett
+        slug: tim-burchett
+      - node_id: 95f94bc0-90f2-40bc-93e3-79e8739dbc03
+        title: Advanced Space Propulsion Based on Vacuum (Spacetime Metric) Engineering
+        slug: advanced-space-propulsion-based-on-vacuum-spacetime-metric-engineering
+    date: '2023-07-26'
+    date_end: null
+    location_in_record: char:10964-11256
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 5e233de3-335a-46b1-8b03-81df19638eae
+      record_title: 'Unidentified Anomalous Phenomena: Implications on National Security, Public Safety, and Government Transparency'
+      record_date: '2023-07-26'
+      record_reference: null
+      content_hash: sha256:e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed69a6d8ec1
+      friendly_name: 2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety
+  - claim_id: b109fc08-0df9-41e8-8f67-716f6ff7dd49
+    claim_hash: 3db0c4579fc904183b37889fd8976179a165122f578c7ccaba4cedc84a9baa64
+    content: Matt Gaetz sought a briefing about the Eglin Air Force Base UAP incident and brought Tim Burchett and Anna Paulina
+      Luna with him.
+    original_excerpt: I sought a briefing regarding that episode and brought with me Congressman Burchett and Congresswoman
+      Luna.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 6cf462e5-bd6f-4c8a-930a-0fe54c67ec28
+      title: Matt Gaetz
+    provenance_chain:
+      origin_kind: speaker
+      origin: Matt Gaetz
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 1d228903-0bd7-401a-9902-2656e6e85650
+        title: Anna Paulina Luna
+        slug: anna-paulina-luna
+      - node_id: 1ef2907b-d608-4a71-b164-05ea785b5765
+        title: USA, Florida, Eglin Air Force Base
+        slug: florida-eglin-air-force-base-usa
+      - node_id: 6cf462e5-bd6f-4c8a-930a-0fe54c67ec28
+        title: Matt Gaetz
+        slug: matt-gaetz
+      - node_id: 71b8e508-1c7b-4573-a68e-34c777cdeffa
+        title: Tim Burchett
+        slug: tim-burchett
+    date: null
+    date_end: null
+    location_in_record: char:111658-111760
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 5e233de3-335a-46b1-8b03-81df19638eae
+      record_title: 'Unidentified Anomalous Phenomena: Implications on National Security, Public Safety, and Government Transparency'
+      record_date: '2023-07-26'
+      record_reference: null
+      content_hash: sha256:e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed69a6d8ec1
+      friendly_name: 2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety
+  - claim_id: b5c480af-24e4-491d-b1e9-f5e8fcde9aea
+    claim_hash: c767deb50d57890679317f35d0ceab5ff5b35f2a2e711b746f35602e377939cc
+    content: Tim Burchett met a person who travelled from Denmark to attend the 2023-07-26 House hearing on Unidentified Anomalous
+      Phenomena.
+    original_excerpt: I met a fellow who came in here all the way from Denmark to be here for this meeting.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 71b8e508-1c7b-4573-a68e-34c777cdeffa
+      title: Tim Burchett
+    provenance_chain:
+      origin_kind: speaker
+      origin: Tim Burchett
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 4e3caa3f-a8a8-4d99-b17b-3bb42d5652e6
+        title: House Hearing on Unidentified Anomalous Phenomena (2023-07-26)
+        slug: house-hearing-on-unidentified-anomalous-phenomena-2023-07-26
+      - node_id: 71b8e508-1c7b-4573-a68e-34c777cdeffa
+        title: Tim Burchett
+        slug: tim-burchett
+    date: '2023-07-26'
+    date_end: null
+    location_in_record: char:11874-11951
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 5e233de3-335a-46b1-8b03-81df19638eae
+      record_title: 'Unidentified Anomalous Phenomena: Implications on National Security, Public Safety, and Government Transparency'
+      record_date: '2023-07-26'
+      record_reference: null
+      content_hash: sha256:e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed69a6d8ec1
+      friendly_name: 2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety
+  - claim_id: 27042e55-4a62-4a65-bcfa-258ff96cc48f
+    claim_hash: 3ebed1e81ce3f0acbd05d7cbfe31e7cd90341a92fb670dc19fedf452b1ca5f7e
+    content: Some Members of Congress confided in Tim Burchett that they have had UFO sightings of their own, while wishing
+      to remain anonymous.
+    original_excerpt: Some have even confided in me that they have had UFO sightings of their own. Those Members, of course,
+      some of them wish to remain anonymous and I will keep it that way.
+    claim_type: hearsay
+    attestation: second_hand
+    speaker:
+      node_id: 71b8e508-1c7b-4573-a68e-34c777cdeffa
+      title: Tim Burchett
+    provenance_chain:
+      origin_kind: anonymous
+      origin: unnamed Members of Congress who confided in Tim Burchett about their own UFO sightings
+      relay:
+        - Tim Burchett
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 4fb65b2c-296a-493d-bbc7-65e4b763c1f0
+        title: United States Congress
+        slug: united-states-congress
+      - node_id: 71b8e508-1c7b-4573-a68e-34c777cdeffa
+        title: Tim Burchett
+        slug: tim-burchett
+      - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
+        title: Unidentified Flying Object (UFO)
+        slug: unidentified-flying-object-ufo
+    date: '2023-07-26'
+    date_end: null
+    location_in_record: char:12150-12316
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 5e233de3-335a-46b1-8b03-81df19638eae
+      record_title: 'Unidentified Anomalous Phenomena: Implications on National Security, Public Safety, and Government Transparency'
+      record_date: '2023-07-26'
+      record_reference: null
+      content_hash: sha256:e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed69a6d8ec1
+      friendly_name: 2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety
+  - claim_id: 0aff9851-b38a-41cb-967d-01860b6b4871
+    claim_hash: e6b6dbc060a58237976ac3c117784948d496814f07c4c739d533d186f45debab
+    content: Tim Burchett proposed legislation for the FAA reauthorization that would require an airline pilot's UAP sighting
+      report made to the FAA to be forwarded to Congress.
+    original_excerpt: I proposed legislation to go in the FAA reauthorization that just said if an airline pilot has a sighting
+      that when he makes that report to the FAA that it would come to Congress.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 71b8e508-1c7b-4573-a68e-34c777cdeffa
+      title: Tim Burchett
+    provenance_chain:
+      origin_kind: speaker
+      origin: Tim Burchett
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 4fb65b2c-296a-493d-bbc7-65e4b763c1f0
+        title: United States Congress
+        slug: united-states-congress
+      - node_id: 71b8e508-1c7b-4573-a68e-34c777cdeffa
+        title: Tim Burchett
+        slug: tim-burchett
+    date: '2023-07-26'
+    date_end: null
+    location_in_record: char:13416-13586
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 5e233de3-335a-46b1-8b03-81df19638eae
+      record_title: 'Unidentified Anomalous Phenomena: Implications on National Security, Public Safety, and Government Transparency'
+      record_date: '2023-07-26'
+      record_reference: null
+      content_hash: sha256:e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed69a6d8ec1
+      friendly_name: 2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety
+  - claim_id: 038aa706-9a49-4d23-8515-5acf798cf0b2
+    claim_hash: 5236df68660908d09eb535a4774b38a1363a2addb3f91f686f07811e8df3e4c7
+    content: Tim Burchett's proposed amendment requiring airline pilot UAP sighting reports to be forwarded to Congress was
+      not heard in committee, after he was told the intelligence community did not like it.
+    original_excerpt: But I was told that the intelligence community did not like that, and the bill was—the amendment was
+      not even heard in committee.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 71b8e508-1c7b-4573-a68e-34c777cdeffa
+      title: Tim Burchett
+    provenance_chain:
+      origin_kind: speaker
+      origin: Tim Burchett
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 71b8e508-1c7b-4573-a68e-34c777cdeffa
+        title: Tim Burchett
+        slug: tim-burchett
+    date: '2023-07-26'
+    date_end: null
+    location_in_record: char:13597-13716
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 5e233de3-335a-46b1-8b03-81df19638eae
+      record_title: 'Unidentified Anomalous Phenomena: Implications on National Security, Public Safety, and Government Transparency'
+      record_date: '2023-07-26'
+      record_reference: null
+      content_hash: sha256:e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed69a6d8ec1
+      friendly_name: 2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety
+  - claim_id: 3b753630-8517-46bc-be0d-850e554e9679
+    claim_hash: 72e28ea0b22cb7739f3a45bfe36dd8fea87192cb1a867fc8936a7adca3fe022b
+    content: Tim Burchett's father served in the United States Marine Corps First Marine Division.
+    original_excerpt: My daddy was United States Marine Corps First Marine Division.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 71b8e508-1c7b-4573-a68e-34c777cdeffa
+      title: Tim Burchett
+    provenance_chain:
+      origin_kind: speaker
+      origin: Tim Burchett
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 0f912810-85b7-4e73-a97f-f31901933301
+        title: United States Marine Corps (USMC)
+        slug: united-states-marine-corps-usmc
+      - node_id: 55f35a8b-84bc-46d6-8b9b-f131810f7262
+        title: 1st Marine Division
+        slug: 1st-marine-division
+      - node_id: 71b8e508-1c7b-4573-a68e-34c777cdeffa
+        title: Tim Burchett
+        slug: tim-burchett
+    date: null
+    date_end: null
+    location_in_record: char:142136-142189
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 5e233de3-335a-46b1-8b03-81df19638eae
+      record_title: 'Unidentified Anomalous Phenomena: Implications on National Security, Public Safety, and Government Transparency'
+      record_date: '2023-07-26'
+      record_reference: null
+      content_hash: sha256:e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed69a6d8ec1
+      friendly_name: 2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety
+  - claim_id: 3c162fe8-55e2-421b-ac4a-436185ee9ce2
+    claim_hash: f7c235e06e85d8a5972cc5755f9815477587d53f52c0847ffb1c251ff18e96a4
+    content: Tim Burchett's father served alongside Chesty Puller at the Battle of Peleliu.
+    original_excerpt: He was old school. Him and Chesty Puller on Peleliu.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 71b8e508-1c7b-4573-a68e-34c777cdeffa
+      title: Tim Burchett
+    provenance_chain:
+      origin_kind: speaker
+      origin: Tim Burchett
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 71b8e508-1c7b-4573-a68e-34c777cdeffa
+        title: Tim Burchett
+        slug: tim-burchett
+      - node_id: 7d0b52ee-b0e5-4110-a403-e3e815d59acd
+        title: Chesty Puller
+        slug: chesty-puller
+      - node_id: bfc5973f-29cc-4ea4-8218-86c5b0b2e417
+        title: Battle of Peleliu
+        slug: battle-of-peleliu
+    date: null
+    date_end: null
+    location_in_record: char:142255-142299
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 5e233de3-335a-46b1-8b03-81df19638eae
+      record_title: 'Unidentified Anomalous Phenomena: Implications on National Security, Public Safety, and Government Transparency'
+      record_date: '2023-07-26'
+      record_reference: null
+      content_hash: sha256:e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed69a6d8ec1
+      friendly_name: 2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety
+  - claim_id: f984cfbf-a4f3-4551-9908-a6177f78c2eb
+    claim_hash: eb3a4f4bb4e6b42f3158eb22e05e4929bdcc741f46573bd9a6818c67c732c78d
+    content: Glenn Grothman thanked Tim Burchett and Anna Paulina Luna for bringing the topic of Unidentified Anomalous Phenomena
+      to the House Committee on Oversight and Accountability's attention.
+    original_excerpt: I would like to one more time thank Mr. Burchett and Ms. Luna for bringing this to our attention.
+    claim_type: administrative
+    attestation: first_hand
+    speaker:
+      node_id: 903557d1-d572-49fe-89ff-2cde42e50f78
+      title: Glenn Grothman
+    provenance_chain:
+      origin_kind: speaker
+      origin: Glenn Grothman
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 1d228903-0bd7-401a-9902-2656e6e85650
+        title: Anna Paulina Luna
+        slug: anna-paulina-luna
+      - node_id: 240453b5-254d-479a-a39f-4340fec022c8
+        title: United States House Committee on Oversight and Accountability
+        slug: united-states-house-committee-on-oversight-and-accountability
+      - node_id: 71b8e508-1c7b-4573-a68e-34c777cdeffa
+        title: Tim Burchett
+        slug: tim-burchett
+      - node_id: 903557d1-d572-49fe-89ff-2cde42e50f78
+        title: Glenn Grothman
+        slug: glenn-grothman
+    date: null
+    date_end: null
+    location_in_record: char:146912-146999
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 5e233de3-335a-46b1-8b03-81df19638eae
+      record_title: 'Unidentified Anomalous Phenomena: Implications on National Security, Public Safety, and Government Transparency'
+      record_date: '2023-07-26'
+      record_reference: null
+      content_hash: sha256:e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed69a6d8ec1
+      friendly_name: 2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety
+  - claim_id: c1ffe66f-44ad-454e-9da3-c137060f20b5
+    claim_hash: b7e44f8e807d0097765051591663832168827bcbfca194fed9f6bd5638bf5d7e
+    content: Representatives Luna, Burlison, Gaetz, Burchett, Comer, Ogles, Langworthy, Raskin, and Ocasio-Cortez were also
+      present at the 2023-07-26 House hearing on Unidentified Anomalous Phenomena.
+    original_excerpt: 'Also present: Representatives Luna, Burlison, Gaetz, Burchett, Comer, Ogles, Langworthy, Raskin, and
+      Ocasio-Cortez.'
+    claim_type: administrative
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: document
+      origin: the printed hearing volume
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 1017eefe-05d5-4310-bc45-827bb449863f
+        title: Andrew Ogles
+        slug: andrew-ogles
+      - node_id: 1d228903-0bd7-401a-9902-2656e6e85650
+        title: Anna Paulina Luna
+        slug: anna-paulina-luna
+      - node_id: 4d8a72a4-7ecf-4d18-b634-573e09b75b4f
+        title: Nick Langworthy
+        slug: nick-langworthy
+      - node_id: 4e3caa3f-a8a8-4d99-b17b-3bb42d5652e6
+        title: House Hearing on Unidentified Anomalous Phenomena (2023-07-26)
+        slug: house-hearing-on-unidentified-anomalous-phenomena-2023-07-26
+      - node_id: 6cf462e5-bd6f-4c8a-930a-0fe54c67ec28
+        title: Matt Gaetz
+        slug: matt-gaetz
+      - node_id: 71b8e508-1c7b-4573-a68e-34c777cdeffa
+        title: Tim Burchett
+        slug: tim-burchett
+      - node_id: cb9ba091-aeb7-41fd-8753-15754baa8762
+        title: Jamie Raskin
+        slug: jamie-raskin
+      - node_id: d0dc734b-e88b-4274-bdfd-8181139805b2
+        title: Eric Burlison
+        slug: eric-burlison
+      - node_id: de3e896e-c2b5-4cd6-8507-dd4f3acf4486
+        title: James Comer
+        slug: james-comer
+      - node_id: f813951c-0161-4bab-ad93-06d5511adf8b
+        title: Alexandria Ocasio-Cortez
+        slug: alexandria-ocasio-cortez
+    date: '2023-07-26'
+    date_end: null
+    location_in_record: char:5085-5193
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 5e233de3-335a-46b1-8b03-81df19638eae
+      record_title: 'Unidentified Anomalous Phenomena: Implications on National Security, Public Safety, and Government Transparency'
+      record_date: '2023-07-26'
+      record_reference: null
+      content_hash: sha256:e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed69a6d8ec1
+      friendly_name: 2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety
+  - claim_id: 935ed13e-4329-4d08-80c6-2788a588a6d6
+    claim_hash: 5f92b778a6418a9c9665892db62ff319e8dd62efa72e6c47b185aab1d648d67c
+    content: Glenn Grothman waived Tim Burchett, Anna Paulina Luna, Matt Gaetz, Eric Burlison, Alexandria Ocasio-Cortez, and
+      Andy Ogles onto the Subcommittee for the purpose of participating in the 2023-07-26 hearing.
+    original_excerpt: 'Additionally, without objection, the following Members are waived on to the Subcommittee for the purpose
+      of participating in today''s hearing: Mr. Burchett of Tennessee, Ms. Luna of Florida, Mr. Gaetz of Florida, Mr. Burlison
+      of Missouri, Ms. Ocasio-Cortez of New York, and Mr. Ogles of Tennessee.'
+    claim_type: administrative
+    attestation: first_hand
+    speaker:
+      node_id: 903557d1-d572-49fe-89ff-2cde42e50f78
+      title: Glenn Grothman
+    provenance_chain:
+      origin_kind: speaker
+      origin: Glenn Grothman
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 1017eefe-05d5-4310-bc45-827bb449863f
+        title: Andrew Ogles
+        slug: andrew-ogles
+      - node_id: 1d228903-0bd7-401a-9902-2656e6e85650
+        title: Anna Paulina Luna
+        slug: anna-paulina-luna
+      - node_id: 4e3caa3f-a8a8-4d99-b17b-3bb42d5652e6
+        title: House Hearing on Unidentified Anomalous Phenomena (2023-07-26)
+        slug: house-hearing-on-unidentified-anomalous-phenomena-2023-07-26
+      - node_id: 6cf462e5-bd6f-4c8a-930a-0fe54c67ec28
+        title: Matt Gaetz
+        slug: matt-gaetz
+      - node_id: 71b8e508-1c7b-4573-a68e-34c777cdeffa
+        title: Tim Burchett
+        slug: tim-burchett
+      - node_id: 903557d1-d572-49fe-89ff-2cde42e50f78
+        title: Glenn Grothman
+        slug: glenn-grothman
+      - node_id: d0dc734b-e88b-4274-bdfd-8181139805b2
+        title: Eric Burlison
+        slug: eric-burlison
+      - node_id: f813951c-0161-4bab-ad93-06d5511adf8b
+        title: Alexandria Ocasio-Cortez
+        slug: alexandria-ocasio-cortez
+    date: '2023-07-26'
+    date_end: null
+    location_in_record: char:5382-5668
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 5e233de3-335a-46b1-8b03-81df19638eae
+      record_title: 'Unidentified Anomalous Phenomena: Implications on National Security, Public Safety, and Government Transparency'
+      record_date: '2023-07-26'
+      record_reference: null
+      content_hash: sha256:e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed69a6d8ec1
+      friendly_name: 2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety
+  - claim_id: 730c8f72-b6c5-49e3-adc3-dd48e78e780a
+    claim_hash: 6ba70571c8a8f28f7e8ecb31f9353831319a7df264b61b28eaea0abcd7192aa8
+    content: The House Committee on Oversight and Accountability was denied access to a Sensitive Compartmented Information
+      Facility (SCIF) for a confidential discussion during the hearing.
+    original_excerpt: Maybe in a—if we could get in a confidential area, a SCIF, we could talk about that. But unfortunately,
+      we were denied access to the SCIF and that is very unfortunate in this scenario.
+    claim_type: administrative
+    attestation: first_hand
+    speaker:
+      node_id: 71b8e508-1c7b-4573-a68e-34c777cdeffa
+      title: Tim Burchett
+    provenance_chain:
+      origin_kind: speaker
+      origin: Tim Burchett
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 240453b5-254d-479a-a39f-4340fec022c8
+        title: United States House Committee on Oversight and Accountability
+        slug: united-states-house-committee-on-oversight-and-accountability
+    date: null
+    date_end: null
+    location_in_record: char:63706-63932
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 5e233de3-335a-46b1-8b03-81df19638eae
+      record_title: 'Unidentified Anomalous Phenomena: Implications on National Security, Public Safety, and Government Transparency'
+      record_date: '2023-07-26'
+      record_reference: null
+      content_hash: sha256:e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed69a6d8ec1
+      friendly_name: 2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety
+  - claim_id: 1ca7c8dd-b7b9-408d-b471-36e04cb1dd8a
+    claim_hash: b0a1fd8b5912e166ef5b80aee17f8411051d0b24ad1ecb639e6ffcf557a38a70
+    content: Tim Burchett's congressional district in Tennessee was near Oak Ridge, home to the nation's uranium stockpile,
+      a former World War II Manhattan Project 'Secret City,' and the site of numerous UAP sightings.
+    original_excerpt: Coincidentally, his district was near Oak Ridge, home to the nation’s uranium stockpile and a former
+      World War II “Secret City” of the Manhattan Project and the site of countless UAP sightings.
+    claim_type: administrative
+    attestation: first_hand
+    speaker:
+      node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+      title: Luis Elizondo
+    provenance_chain:
+      origin_kind: speaker
+      origin: Lue Elizondo
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 69fa2a03-b6bb-41c3-a745-dff92528671c
+        title: Manhattan Project
+        slug: manhattan-project
+      - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
+        title: Unidentified Anomalous Phenomena (UAP)
+        slug: unidentified-anomalous-phenomena-uap
+      - node_id: 71b8e508-1c7b-4573-a68e-34c777cdeffa
+        title: Tim Burchett
+        slug: tim-burchett
+      - node_id: a316cbb9-b90f-422a-9329-9be7414bda65
+        title: USA, Tennessee, Oak Ridge
+        slug: tennessee-oak-ridge-usa
+    date: null
+    date_end: null
+    location_in_record: ch31:12918-13101
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  - claim_id: 58bee08c-3f84-417c-beb3-f41e698d00b6
+    claim_hash: 33c7a8f1952e7967ee626049da2e364616000e0eb0d248d41e8c8abd42d18d35
+    content: Tim Burchett was particularly alarmed by the connection between UAP and US nuclear capabilities.
+    original_excerpt: He was particularly alarmed by the connection to US nuclear capabilities.
+    claim_type: opinion
+    attestation: second_hand
+    speaker:
+      node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+      title: Luis Elizondo
+    provenance_chain:
+      origin_kind: named
+      origin: Tim Burchett
+      relay:
+        - Lue Elizondo
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
+        title: Unidentified Anomalous Phenomena (UAP)
+        slug: unidentified-anomalous-phenomena-uap
+      - node_id: 71b8e508-1c7b-4573-a68e-34c777cdeffa
+        title: Tim Burchett
+        slug: tim-burchett
+    date: null
+    date_end: null
+    location_in_record: ch31:13112-13172
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  - claim_id: 1f7705dd-cc0c-4440-9171-dc7c0545312d
+    claim_hash: 86ddace193d060509e32626768ff061ab70aa1c670b4529f145195788f0e54f1
+    content: Tim Burchett is a born-again Christian and used to own a trailer repair shop before becoming a US representative.
+    original_excerpt: A born-again Christian, Burchett could not help but be intrigued by the possible connection of UAP to
+      the otherworldly visions of Ezekiel and Elijah in the Bible... not a DC politician, but a blue-collar guy who used to
+      own a trailer repair shop.
+    claim_type: administrative
+    attestation: first_hand
+    speaker:
+      node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+      title: Luis Elizondo
+    provenance_chain:
+      origin_kind: speaker
+      origin: Lue Elizondo
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 71b8e508-1c7b-4573-a68e-34c777cdeffa
+        title: Tim Burchett
+        slug: tim-burchett
+    date: null
+    date_end: null
+    location_in_record: ch31:13186-13491
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  - claim_id: 7e837b4f-a5d6-4671-9c49-b4dbf3980b11
+    claim_hash: f6ba8a1552cc91472bcf61f6d4f8c5964bb4d99ac3884eef0bdc2d4039319220
+    content: Phil McGraw has discussed the Unidentified Aerial Phenomena (UAP) subject with Donald Trump, Stephen Miller,
+      Tim Burchett and Anna Paulina Luna.
+    original_excerpt: And I've discussed this with the president. I've discussed it with Stephen Miller. I've discussed it
+      with Representative Burchard and Luna.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: b26a5e2e-9cb8-484e-92f8-d332245917b5
+      title: Phil McGraw
+    provenance_chain:
+      origin_kind: speaker
+      origin: Phil McGraw
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 1d228903-0bd7-401a-9902-2656e6e85650
+        title: Anna Paulina Luna
+        slug: anna-paulina-luna
+      - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
+        title: Unidentified Anomalous Phenomena (UAP)
+        slug: unidentified-anomalous-phenomena-uap
+      - node_id: 71b8e508-1c7b-4573-a68e-34c777cdeffa
+        title: Tim Burchett
+        slug: tim-burchett
+      - node_id: 7d0a9d14-858f-43e0-81a5-eb173422d291
+        title: Stephen Miller
+        slug: stephen-miller
+      - node_id: 816c219b-6372-49f6-9579-5eeabb9a7474
+        title: Donald Trump
+        slug: donald-trump
+      - node_id: b26a5e2e-9cb8-484e-92f8-d332245917b5
+        title: Phil McGraw
+        slug: phil-mcgraw
+    date: null
+    date_end: null
+    location_in_record: 00:47:40.5-00:47:51.0
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: eb21cb34-eec1-462d-9127-2d5e367cdfb9
+      record_title: 'David Grusch: The Whistleblower Who Told Congress We''re Not Alone'
+      record_date: '2026-08-13'
+      record_reference: https://www.youtube.com/watch?v=LBXmqvFs0Ec
+      content_hash: sha256:c685d061d160da6ae664b97e8b033d8d36090ea76d13c45792556dae22ae3344
+      friendly_name: null

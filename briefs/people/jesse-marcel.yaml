@@ -1,0 +1,1355 @@
+schema: anomalica/brief/1
+brief_hash: 2bcb6dbb857cac3df435629fd45cecd210688afbeaaf250a164d7fa1e8a3ec38
+page:
+  kind: entity
+  node_id: f888411e-b882-4f89-8275-350d19f6c52d
+  node_type: person
+  title: Jesse Marcel
+  slug: jesse-marcel
+  claim_count: 31
+  claim_count_total: 31
+generated:
+  graph_version: '2026-09-01T10:10:49.863545+00:00'
+size:
+  claims: 31
+  tokens_estimated: 9419
+  sized_against: 1050000
+publication:
+  status: published
+  note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
+    transcripts are gated elsewhere.
+belonging:
+  verified: 0
+  suspect_excluded: 0
+  unreviewed: 31
+related_nodes:
+  - node_id: b8ea9860-ae6e-4835-8114-6a6626f28797
+    title: Roswell incident (1947)
+    node_type: event
+    slug: roswell-incident-1947
+    shared_claims: 15
+  - node_id: d888fba5-8ed4-4dd2-b03e-a2aeb1d25ce6
+    title: Sheridan Cavitt
+    node_type: person
+    slug: sheridan-cavitt
+    shared_claims: 5
+  - node_id: 03ce9078-270f-4be3-ae7e-45ef913c7e5d
+    title: Walter Haut
+    node_type: person
+    slug: walter-haut
+    shared_claims: 5
+  - node_id: 105344db-a5eb-4108-a72a-a06408ff1a6c
+    title: William Blanchard
+    node_type: person
+    slug: william-blanchard
+    shared_claims: 5
+  - node_id: 3b0c0328-6dfc-4b20-acce-d0f40ec02706
+    title: Roger Ramey
+    node_type: person
+    slug: roger-ramey
+    shared_claims: 4
+  - node_id: ae75f016-578f-4a76-bbc6-bdb2ac683d6b
+    title: USA, Texas, Fort Worth
+    node_type: place
+    slug: texas-fort-worth-usa
+    shared_claims: 4
+  - node_id: ec22df36-01d7-47c0-9a91-150b93b82532
+    title: French Air Force
+    node_type: organisation
+    slug: french-air-force
+    shared_claims: 2
+  - node_id: 01740738-2c6a-4d5b-a268-07cd31ad31fe
+    title: July 8, 1947 Roswell Army Air Field press release
+    node_type: document
+    slug: 1947-roswell-army-air-field-press-release-july-8
+    shared_claims: 2
+  - node_id: 7f37c65e-dfbc-4840-989b-0b1dac11b4f6
+    title: Mac Brazel
+    node_type: person
+    slug: mac-brazel
+    shared_claims: 2
+  - node_id: 5cbf5dc4-1585-4009-9754-52bf086dbd33
+    title: Roswell Army Air Field
+    node_type: organisation
+    slug: roswell-army-air-field
+    shared_claims: 2
+  - node_id: 35380539-7caf-46ec-9614-1956abdd7e7a
+    title: USA, New Mexico, Roswell
+    node_type: place
+    slug: new-mexico-roswell-usa
+    shared_claims: 2
+  - node_id: c4d61dc5-9e3c-4d24-8feb-b7de06605d9f
+    title: USA, New Mexico, Roswell Army Air Field
+    node_type: place
+    slug: new-mexico-roswell-army-air-field-usa
+    shared_claims: 2
+  - node_id: 2e3cca19-5c91-43ef-b0ab-60c8d6f424c1
+    title: '"Cav" Cavett'
+    node_type: person
+    slug: cav-cavett
+    shared_claims: 1
+  - node_id: d7b379f1-7788-43d9-94f9-c436614bf76c
+    title: 1945 atomic bombing of Hiroshima and Nagasaki
+    node_type: event
+    slug: 1945-atomic-bombing-of-hiroshima-and-nagasaki
+    shared_claims: 1
+  - node_id: 9ff5178f-37d8-407c-8fa9-4892755887be
+    title: 509th Bomb Group
+    node_type: organisation
+    slug: 509th-bomb-group
+    shared_claims: 1
+  - node_id: 7c889359-a85a-4baf-a36b-a8a4f36873e3
+    title: 509th Bomber Group Intelligence Office
+    node_type: organisation
+    slug: 509th-bomber-group-intelligence-office
+    shared_claims: 1
+  - node_id: d2b4890a-4999-4f45-9d1c-20e9393a88df
+    title: Isadore Brown
+    node_type: person
+    slug: isadore-brown
+    shared_claims: 1
+  - node_id: c581a3e1-83fa-424c-840d-df874cfccebe
+    title: James I. Hopkins
+    node_type: person
+    slug: james-i-hopkins
+    shared_claims: 1
+  - node_id: ce0b967f-b897-4754-aada-b48e03c4a84a
+    title: Patrick Saunders
+    node_type: person
+    slug: patrick-saunders
+    shared_claims: 1
+  - node_id: ac3d9c83-bad1-45e4-ac4d-d51acc58b79f
+    title: Project Mogul
+    node_type: project
+    slug: project-mogul
+    shared_claims: 1
+  - node_id: baa13d91-0551-4f21-ac2f-32fba4c397cf
+    title: USA, New Mexico
+    node_type: place
+    slug: new-mexico-usa
+    shared_claims: 1
+  - node_id: 085d3824-ddd8-49a0-891d-1fd008f6e704
+    title: Ulysses S. Nero
+    node_type: person
+    slug: ulysses-s-nero
+    shared_claims: 1
+  - node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+    title: Whitley Strieber
+    node_type: person
+    slug: whitley-strieber
+    shared_claims: 1
+claims:
+  - claim_id: 3f427259-2777-4b14-8bd5-0e352e991f5e
+    claim_hash: 667e8bba122497025de2e3daaa71027a01b5a1342e6cf404f9cee5d4a595db8f
+    content: The July 8, 1947 Roswell Army Air Field press release stated that the flying object landed on a ranch near Roswell
+      sometime the previous week, and that the rancher, lacking phone facilities, stored the disc until he could contact the
+      sheriff's office, which notified Major Jesse A. Marcel of the 509th Bomber Group Intelligence Office.
+    original_excerpt: The flying object landed on a ranch near Roswell sometime last week. Not having phone facilities, the
+      rancher stored the disc until such time as he was able to contact the sheriff's office, who in turn notified Major Jesse
+      A. Marcel of the 509th Bomber Group Intelligence Office.
+    claim_type: administrative
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: document
+      origin: July 8, 1947 Roswell Army Air Field press release
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 01740738-2c6a-4d5b-a268-07cd31ad31fe
+        title: July 8, 1947 Roswell Army Air Field press release
+        slug: 1947-roswell-army-air-field-press-release-july-8
+      - node_id: 35380539-7caf-46ec-9614-1956abdd7e7a
+        title: USA, New Mexico, Roswell
+        slug: new-mexico-roswell-usa
+      - node_id: 7c889359-a85a-4baf-a36b-a8a4f36873e3
+        title: 509th Bomber Group Intelligence Office
+        slug: 509th-bomber-group-intelligence-office
+      - node_id: f888411e-b882-4f89-8275-350d19f6c52d
+        title: Jesse Marcel
+        slug: jesse-marcel
+    date: 1947-07
+    date_end: null
+    location_in_record: ch14:14700-14972
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: ad152768-183b-4cde-bc60-1520900ceb32
+      record_title: Communion
+      record_date: '2013-06-16'
+      record_reference: null
+      content_hash: sha256:b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4001275f9
+      friendly_name: 2013-06-16-ebook-communion
+  - claim_id: 5fe5b734-6213-4b98-87a5-ae065f85e7d2
+    claim_hash: 1507f9ed80fdfdb07015790fa9b65f78ea8aea3dd3e370cee07c6012dd9fad51
+    content: The disc was picked up at the rancher's home, inspected at the Roswell Army Air Field, and subsequently loaned
+      by Major Jesse A. Marcel to higher headquarters.
+    original_excerpt: Action was immediately taken and the disc was picked up at the rancher's home. It was inspected at the
+      Roswell Army Air Field and subsequently loaned by Major Marcel to higher headquarters.
+    claim_type: administrative
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: document
+      origin: July 8, 1947 Roswell Army Air Field press release
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 01740738-2c6a-4d5b-a268-07cd31ad31fe
+        title: July 8, 1947 Roswell Army Air Field press release
+        slug: 1947-roswell-army-air-field-press-release-july-8
+      - node_id: 5cbf5dc4-1585-4009-9754-52bf086dbd33
+        title: Roswell Army Air Field
+        slug: roswell-army-air-field
+      - node_id: f888411e-b882-4f89-8275-350d19f6c52d
+        title: Jesse Marcel
+        slug: jesse-marcel
+    date: 1947-07
+    date_end: null
+    location_in_record: ch14:14981-15157
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: ad152768-183b-4cde-bc60-1520900ceb32
+      record_title: Communion
+      record_date: '2013-06-16'
+      record_reference: null
+      content_hash: sha256:b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4001275f9
+      friendly_name: 2013-06-16-ebook-communion
+  - claim_id: ba50ef26-cbba-4920-a9e9-b95090c74f26
+    claim_hash: f280d647c74ffff6abd3ffddc8087d5ae6d9ed835120d53ba70c2cce099f6e46
+    content: The Roswell debris was picked up by air intelligence officers Jesse A. Marcel and "Cav" Cavett, who Whitley Strieber
+      considers would have been unlikely to misidentify weather balloons and radar targets.
+    original_excerpt: The debris was picked up by air intelligence officers Jesse Marcel and "Cav" Cavett —two more men who
+      would have been unlikely to misidentify items like weather balloons and radar targets.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+      title: Whitley Strieber
+    provenance_chain:
+      origin_kind: speaker
+      origin: Whitley Strieber
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 2e3cca19-5c91-43ef-b0ab-60c8d6f424c1
+        title: '"Cav" Cavett'
+        slug: cav-cavett
+      - node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+        title: Whitley Strieber
+        slug: whitley-strieber
+      - node_id: b8ea9860-ae6e-4835-8114-6a6626f28797
+        title: Roswell incident (1947)
+        slug: roswell-incident-1947
+      - node_id: f888411e-b882-4f89-8275-350d19f6c52d
+        title: Jesse Marcel
+        slug: jesse-marcel
+    date: null
+    date_end: null
+    location_in_record: ch14:16380-16560
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: ad152768-183b-4cde-bc60-1520900ceb32
+      record_title: Communion
+      record_date: '2013-06-16'
+      record_reference: null
+      content_hash: sha256:b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4001275f9
+      friendly_name: 2013-06-16-ebook-communion
+  - claim_id: fc6eab2c-4ac6-4c1a-bb80-1c66d33009d5
+    claim_hash: a00a4eab85c7d4a0a0238c1e9c2116d2c8e7929c14662dac0b4e644759aa9a87
+    content: Jesse Marcel later claimed he was ordered to collude in a cover-up and that the real debris he recovered near
+      Roswell was extra-terrestrial in origin.
+    original_excerpt: Three decades later, Marcel claimed that he was ordered to collude in a cover-up and that the real debris
+      he recovered from near Roswell was extra-terrestrial in origin.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: f888411e-b882-4f89-8275-350d19f6c52d
+      title: Jesse Marcel
+    provenance_chain:
+      origin_kind: speaker
+      origin: Jesse Marcel
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 35380539-7caf-46ec-9614-1956abdd7e7a
+        title: USA, New Mexico, Roswell
+        slug: new-mexico-roswell-usa
+      - node_id: b8ea9860-ae6e-4835-8114-6a6626f28797
+        title: Roswell incident (1947)
+        slug: roswell-incident-1947
+      - node_id: f888411e-b882-4f89-8275-350d19f6c52d
+        title: Jesse Marcel
+        slug: jesse-marcel
+    date: null
+    date_end: null
+    location_in_record: ch37:260-422
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 9d4cfb27-68da-4cb1-a3b4-01e881ed1656
+    claim_hash: 18eca91b655175c38e1b14f5afe862c381416b4b6c88f2905f2b06b1e2d60f9d
+    content: In July 1947, US Air Force intelligence officer Jesse Marcel posed with the remains of a weather balloon at the
+      8th Air Force headquarters in Fort Worth, Texas.
+    original_excerpt: US Air Force intelligence officer Major Jesse Marcel posing with the remains of a weather balloon at
+      the 8th Air Force headquarters in Fort Worth, Texas, July 1947.
+    claim_type: observation
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: ae75f016-578f-4a76-bbc6-bdb2ac683d6b
+        title: USA, Texas, Fort Worth
+        slug: texas-fort-worth-usa
+      - node_id: ec22df36-01d7-47c0-9a91-150b93b82532
+        title: French Air Force
+        slug: french-air-force
+      - node_id: f888411e-b882-4f89-8275-350d19f6c52d
+        title: Jesse Marcel
+        slug: jesse-marcel
+    date: 1947-07
+    date_end: null
+    location_in_record: ch37:95-254
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: d7d74af6-56ff-46f6-9133-e441b52da13e
+    claim_hash: 7cdc983b8bfbd9db353e31cebcb9d2e72a14a3d1d2b372b793f54b370fd5acf7
+    content: Roswell ranch foreman Mac Brazel took army intelligence officers Major Jesse Marcel and Captain Sheridan Cavitt
+      out to the crash site.
+    original_excerpt: What we do know is that Roswell ranch foreman Mac Brazel took army intelligence officers Major Jesse
+      Marcel and his colleague Captain Sheridan Cavitt out to the crash site
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: narration
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 7f37c65e-dfbc-4840-989b-0b1dac11b4f6
+        title: Mac Brazel
+        slug: mac-brazel
+      - node_id: d888fba5-8ed4-4dd2-b03e-a2aeb1d25ce6
+        title: Sheridan Cavitt
+        slug: sheridan-cavitt
+      - node_id: f888411e-b882-4f89-8275-350d19f6c52d
+        title: Jesse Marcel
+        slug: jesse-marcel
+    date: 1947-07
+    date_end: null
+    location_in_record: ch7:10572-10739
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 046fea9f-435f-4841-99b5-8455c0789b32
+    claim_hash: 70f4b3fd3434b29028fa3d4a5fc31d35c17dd1522ec49a74c1872c4a0e6dc0c3
+    content: Jesse Marcel came back from the Roswell crash site clearly convinced that a flying disc of extra-terrestrial
+      origin had crashed on the ranch.
+    original_excerpt: Marcel came back clearly convinced that a flying disc of extra-terrestrial origin had crashed on the
+      ranch.
+    claim_type: opinion
+    attestation: second_hand
+    speaker:
+      node_id: f888411e-b882-4f89-8275-350d19f6c52d
+      title: Jesse Marcel
+    provenance_chain:
+      origin_kind: named
+      origin: Jesse Marcel
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: b8ea9860-ae6e-4835-8114-6a6626f28797
+        title: Roswell incident (1947)
+        slug: roswell-incident-1947
+      - node_id: f888411e-b882-4f89-8275-350d19f6c52d
+        title: Jesse Marcel
+        slug: jesse-marcel
+    date: 1947-07
+    date_end: null
+    location_in_record: ch7:10748-10849
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 3f9e2860-a5e7-41af-84df-164e1e10881d
+    claim_hash: 635638352675fa7cad63e32d8d2943a1a352b4588776d93e6552a7db7d0c8973
+    content: Jesse Marcel described the Roswell debris field as approximately 1200 metres long and 60 to 90 metres wide.
+    original_excerpt: Marcel described a massive field of debris 1200 metres long and 60 to 90 metres wide.
+    claim_type: measurement
+    attestation: second_hand
+    speaker:
+      node_id: f888411e-b882-4f89-8275-350d19f6c52d
+      title: Jesse Marcel
+    provenance_chain:
+      origin_kind: named
+      origin: Jesse Marcel
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: b8ea9860-ae6e-4835-8114-6a6626f28797
+        title: Roswell incident (1947)
+        slug: roswell-incident-1947
+      - node_id: f888411e-b882-4f89-8275-350d19f6c52d
+        title: Jesse Marcel
+        slug: jesse-marcel
+    date: 1947-07
+    date_end: null
+    location_in_record: ch7:10856-10936
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 3aaa2879-49b8-4d43-820b-dffb0514900a
+    claim_hash: e87c5c5b8c9c24e8d3aeb2d93be79dd9f0e476771a3050bbe7926302d156f9f7
+    content: Jesse Marcel alleged there was a gouge in the Roswell debris field that extended up to 150 metres long, which
+      looked as if something had touched down and skipped along.
+    original_excerpt: There was allegedly a gouge in the field that extended up to 150 metres long, which looked as if ‘something
+      had touched down and skipped along’.
+    claim_type: testimony
+    attestation: second_hand
+    speaker:
+      node_id: f888411e-b882-4f89-8275-350d19f6c52d
+      title: Jesse Marcel
+    provenance_chain:
+      origin_kind: named
+      origin: Jesse Marcel
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: b8ea9860-ae6e-4835-8114-6a6626f28797
+        title: Roswell incident (1947)
+        slug: roswell-incident-1947
+      - node_id: f888411e-b882-4f89-8275-350d19f6c52d
+        title: Jesse Marcel
+        slug: jesse-marcel
+    date: 1947-07
+    date_end: null
+    location_in_record: ch7:10942-11079
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 9e80664c-c5ea-42dc-9ef7-c642256b567b
+    claim_hash: 7ad1b1c4b18b6aa3c84cb46778521fc676ee1bcccd8039af075b03fbe537c6ca
+    content: Jesse Marcel later showed his family some of the strange debris, saying it was wreckage from a 'flying saucer'.
+    original_excerpt: Marcel later showed his family some of the strange debris, saying it was wreckage from a ‘flying saucer’.
+    claim_type: testimony
+    attestation: second_hand
+    speaker:
+      node_id: f888411e-b882-4f89-8275-350d19f6c52d
+      title: Jesse Marcel
+    provenance_chain:
+      origin_kind: named
+      origin: Jesse Marcel
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: b8ea9860-ae6e-4835-8114-6a6626f28797
+        title: Roswell incident (1947)
+        slug: roswell-incident-1947
+      - node_id: f888411e-b882-4f89-8275-350d19f6c52d
+        title: Jesse Marcel
+        slug: jesse-marcel
+    date: 1947-07
+    date_end: null
+    location_in_record: ch7:11089-11186
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: c2fe9751-ce6a-44c1-8162-a7f5e85854a1
+    claim_hash: 102d8a4198a2670ede55bc3cfd215681397baaf5eb92163c6569ab1c50079a00
+    content: The Roswell debris included foil metal sheets that were as light as a feather yet incredibly strong and impervious
+      to tearing.
+    original_excerpt: This included foil metal sheets that were as light as a feather yet incredibly strong and impervious
+      to tearing.
+    claim_type: observation
+    attestation: second_hand
+    speaker:
+      node_id: f888411e-b882-4f89-8275-350d19f6c52d
+      title: Jesse Marcel
+    provenance_chain:
+      origin_kind: named
+      origin: Jesse Marcel
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: b8ea9860-ae6e-4835-8114-6a6626f28797
+        title: Roswell incident (1947)
+        slug: roswell-incident-1947
+      - node_id: f888411e-b882-4f89-8275-350d19f6c52d
+        title: Jesse Marcel
+        slug: jesse-marcel
+    date: 1947-07
+    date_end: null
+    location_in_record: ch7:11197-11301
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: efffd874-ee46-40dd-af37-b6c5870d5196
+    claim_hash: feb3d67af5cd4b0e22d120cca70551cdd2d87d1c02492f2e959433835707d5b8
+    content: Jesse Marcel described light metal beams from the Roswell debris on which there was strange hieroglyphic writing.
+    original_excerpt: He also described light metal beams on which there was strange hieroglyphic writing.
+    claim_type: observation
+    attestation: second_hand
+    speaker:
+      node_id: f888411e-b882-4f89-8275-350d19f6c52d
+      title: Jesse Marcel
+    provenance_chain:
+      origin_kind: named
+      origin: Jesse Marcel
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: b8ea9860-ae6e-4835-8114-6a6626f28797
+        title: Roswell incident (1947)
+        slug: roswell-incident-1947
+      - node_id: f888411e-b882-4f89-8275-350d19f6c52d
+        title: Jesse Marcel
+        slug: jesse-marcel
+    date: 1947-07
+    date_end: null
+    location_in_record: ch7:11310-11386
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 285961e3-90e2-4268-b4d3-a4e3229366a0
+    claim_hash: 8193baaf7ba0b71048c33d4af2a57297c66a8f1f4f0a4ca6e0d08b01b629e5ed
+    content: When Jesse Marcel and Sheridan Cavitt brought their debris back to the Roswell base, their commanding officer
+      Colonel William Blanchard sent Marcel on a flight to take the debris to the 8th Air Force headquarters in Fort Worth,
+      Texas, to meet Brigadier General Roger Ramey.
+    original_excerpt: When Marcel and Cavitt brought their debris back to the Roswell base, their commanding officer Colonel
+      William Blanchard sent Marcel on a flight to take the debris to the 8th Air Force headquarters in Fort Worth, Texas,
+      to meet Brigadier General Roger Ramey.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: narration
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 105344db-a5eb-4108-a72a-a06408ff1a6c
+        title: William Blanchard
+        slug: william-blanchard
+      - node_id: 3b0c0328-6dfc-4b20-acce-d0f40ec02706
+        title: Roger Ramey
+        slug: roger-ramey
+      - node_id: ae75f016-578f-4a76-bbc6-bdb2ac683d6b
+        title: USA, Texas, Fort Worth
+        slug: texas-fort-worth-usa
+      - node_id: d888fba5-8ed4-4dd2-b03e-a2aeb1d25ce6
+        title: Sheridan Cavitt
+        slug: sheridan-cavitt
+      - node_id: ec22df36-01d7-47c0-9a91-150b93b82532
+        title: French Air Force
+        slug: french-air-force
+      - node_id: f888411e-b882-4f89-8275-350d19f6c52d
+        title: Jesse Marcel
+        slug: jesse-marcel
+    date: '1947-07-08'
+    date_end: null
+    location_in_record: ch7:11422-11674
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: f18e83d3-03fe-48d1-883c-baf75ccfe321
+    claim_hash: 7a8587b8357404112dac55d85e821d32ca4422dbb33d5c813f4085d8d42fe9b4
+    content: General Roger Ramey's office had changed its mind by the time Jesse Marcel arrived in Fort Worth, Texas, later
+      on 8 July 1947.
+    original_excerpt: By the time Marcel arrived in Fort Worth, Texas, later that day, General Ramey’s office had changed
+      its mind.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: narration
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 3b0c0328-6dfc-4b20-acce-d0f40ec02706
+        title: Roger Ramey
+        slug: roger-ramey
+      - node_id: ae75f016-578f-4a76-bbc6-bdb2ac683d6b
+        title: USA, Texas, Fort Worth
+        slug: texas-fort-worth-usa
+      - node_id: f888411e-b882-4f89-8275-350d19f6c52d
+        title: Jesse Marcel
+        slug: jesse-marcel
+    date: '1947-07-08'
+    date_end: null
+    location_in_record: ch7:13034-13138
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 41c4ec65-90ff-4918-8320-7bb4a8767c1f
+    claim_hash: d15a5c4b980b2a859fb762e89767d8f49ccaaf0810881f3e582f6e258e8bb06d
+    content: Jesse Marcel did not speak up publicly about Roswell until 1978.
+    original_excerpt: Jesse Marcel did not speak up until 1978, but for eight years from 1978 until he died in 1986, he claimed
+      he had been ordered to collude in a cover-up
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: narration
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: b8ea9860-ae6e-4835-8114-6a6626f28797
+        title: Roswell incident (1947)
+        slug: roswell-incident-1947
+      - node_id: f888411e-b882-4f89-8275-350d19f6c52d
+        title: Jesse Marcel
+        slug: jesse-marcel
+    date: '1978'
+    date_end: null
+    location_in_record: ch7:13585-13733
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 27f9af84-66d9-4fcd-81aa-6cce723a6241
+    claim_hash: dda03e6fcd8f5248d7af64c18871ccd20e4aebbcb0eeaa795191915f0035cc0f
+    content: From 1978 until his death in 1986, Jesse Marcel claimed in multiple interviews that he had been ordered to collude
+      in a cover-up and that the real debris he brought from Roswell was substituted by General Roger Ramey with wreckage
+      from an old weather balloon.
+    original_excerpt: for eight years from 1978 until he died in 1986, he claimed he had been ordered to collude in a cover-up
+      and dramatically alleged in multiple interviews that the real debris he brought with him that day from Roswell was substituted
+      by General Ramey with wreckage from an old weather balloon
+    claim_type: testimony
+    attestation: second_hand
+    speaker:
+      node_id: f888411e-b882-4f89-8275-350d19f6c52d
+      title: Jesse Marcel
+    provenance_chain:
+      origin_kind: named
+      origin: Jesse Marcel
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 3b0c0328-6dfc-4b20-acce-d0f40ec02706
+        title: Roger Ramey
+        slug: roger-ramey
+      - node_id: b8ea9860-ae6e-4835-8114-6a6626f28797
+        title: Roswell incident (1947)
+        slug: roswell-incident-1947
+      - node_id: f888411e-b882-4f89-8275-350d19f6c52d
+        title: Jesse Marcel
+        slug: jesse-marcel
+    date: '1978'
+    date_end: null
+    location_in_record: ch7:13631-13914
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: a2edca60-4bf0-4eca-acb9-623c283dc91c
+    claim_hash: b769a144a62d07beb855dd609b7f3659255be95c27454289c3d4615199e41936
+    content: Jesse Marcel said he actually believed what crashed at Roswell was extra-terrestrial.
+    original_excerpt: that he actually believed what crashed at Roswell was extra-terrestrial.
+    claim_type: opinion
+    attestation: second_hand
+    speaker:
+      node_id: f888411e-b882-4f89-8275-350d19f6c52d
+      title: Jesse Marcel
+    provenance_chain:
+      origin_kind: named
+      origin: Jesse Marcel
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: b8ea9860-ae6e-4835-8114-6a6626f28797
+        title: Roswell incident (1947)
+        slug: roswell-incident-1947
+      - node_id: f888411e-b882-4f89-8275-350d19f6c52d
+        title: Jesse Marcel
+        slug: jesse-marcel
+    date: '1978'
+    date_end: null
+    location_in_record: ch7:13927-13987
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: feb1aab9-0216-4a2b-9ad5-7c3ff59deb16
+    claim_hash: 2faf380ff714c4da5ff07acde2c642f2d343a88ca7086feefc45b6eea3cf621b
+    content: Jesse Marcel left the Air Force Reserves as a decorated lieutenant colonel in 1958.
+    original_excerpt: Marcel, who left the Air Force Reserves as a decorated lieutenant colonel in 1958, said he was forced
+      to pose for photographs with pieces of a weather balloon to debunk the flying disc crash story.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: narration
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: f888411e-b882-4f89-8275-350d19f6c52d
+        title: Jesse Marcel
+        slug: jesse-marcel
+    date: '1958'
+    date_end: null
+    location_in_record: ch7:14000-14191
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: a4de6739-f31b-43e7-baff-00848cff74ba
+    claim_hash: a51d81fe58a7d9f7134f1d8414ba12071353531bad84d6aa9bc3af0ab5414d17
+    content: Jesse Marcel said he was forced to pose for photographs with pieces of a weather balloon to debunk the flying
+      disc crash story.
+    original_excerpt: said he was forced to pose for photographs with pieces of a weather balloon to debunk the flying disc
+      crash story.
+    claim_type: testimony
+    attestation: second_hand
+    speaker:
+      node_id: f888411e-b882-4f89-8275-350d19f6c52d
+      title: Jesse Marcel
+    provenance_chain:
+      origin_kind: named
+      origin: Jesse Marcel
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: b8ea9860-ae6e-4835-8114-6a6626f28797
+        title: Roswell incident (1947)
+        slug: roswell-incident-1947
+      - node_id: f888411e-b882-4f89-8275-350d19f6c52d
+        title: Jesse Marcel
+        slug: jesse-marcel
+    date: 1947-07
+    date_end: null
+    location_in_record: ch7:14083-14191
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: d25679ca-4390-489b-ab9c-f0c7e43ae7be
+    claim_hash: 92b89a13549a4a781b71fb4d4b133f9909b366169f50b0cb0a074d9e3209ac74
+    content: It has never been satisfactorily explained why Roswell commanding officer Colonel William Blanchard so quickly
+      concluded that what had crashed was a 'flying disc' when supposedly all he was shown at the base by Jesse Marcel and
+      Sheridan Cavitt were small pieces of debris.
+    original_excerpt: What has never been satisfactorily explained is why Roswell’s commanding officer Colonel Blanchard so
+      quickly concluded that what had crashed was a ‘flying disc’ when, supposedly, all he was shown at the base by Marcel
+      and Cavitt were small pieces of debris.
+    claim_type: opinion
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: narration
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 105344db-a5eb-4108-a72a-a06408ff1a6c
+        title: William Blanchard
+        slug: william-blanchard
+      - node_id: b8ea9860-ae6e-4835-8114-6a6626f28797
+        title: Roswell incident (1947)
+        slug: roswell-incident-1947
+      - node_id: d888fba5-8ed4-4dd2-b03e-a2aeb1d25ce6
+        title: Sheridan Cavitt
+        slug: sheridan-cavitt
+      - node_id: f888411e-b882-4f89-8275-350d19f6c52d
+        title: Jesse Marcel
+        slug: jesse-marcel
+    date: null
+    date_end: null
+    location_in_record: ch7:15799-16050
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 18ac2aa0-bf65-43ba-9541-1d1cd83f28d5
+    claim_hash: 44c6f6fecb2229ea4d34c3464c01af16ac6331700bd8c85e56403cd6d1a32af1
+    content: Project MOGUL's radar reflector debris would have been clearly recognisable as conventional material, especially
+      to Major Jesse Marcel.
+    original_excerpt: and Mogul’s radar reflector debris would have been clearly recognisable as conventional material, especially
+      to Major Marcel.
+    claim_type: opinion
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: narration
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: ac3d9c83-bad1-45e4-ac4d-d51acc58b79f
+        title: Project Mogul
+        slug: project-mogul
+      - node_id: f888411e-b882-4f89-8275-350d19f6c52d
+        title: Jesse Marcel
+        slug: jesse-marcel
+    date: null
+    date_end: null
+    location_in_record: ch7:16215-16333
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: a1fe41a3-6438-4606-9e9a-42c06c2b2661
+    claim_hash: 7e7d8a4ec8f41c2c567991f3c07f0486b66732d2e8d5394e4f6a2c9d643a003b
+    content: When Mac Brazel alerted the local sheriff, the nearby Roswell Army Air Force Base was notified, and intelligence
+      officer Major Jesse Marcel was sent to investigate.
+    original_excerpt: When Brazel alerted the local sheriff, the nearby Roswell Army Air Force Base was notified, and an intelligence
+      officer named Major Jesse Marcel was sent to investigate.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: narration
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 5cbf5dc4-1585-4009-9754-52bf086dbd33
+        title: Roswell Army Air Field
+        slug: roswell-army-air-field
+      - node_id: 7f37c65e-dfbc-4840-989b-0b1dac11b4f6
+        title: Mac Brazel
+        slug: mac-brazel
+      - node_id: f888411e-b882-4f89-8275-350d19f6c52d
+        title: Jesse Marcel
+        slug: jesse-marcel
+    date: 1947-07
+    date_end: null
+    location_in_record: ch7:8938-9095
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 3f994fff-63dc-4b41-aeed-a29b3d7180ef
+    claim_hash: 70be42d85adbd860c21969f87ecf2fd0766ba2069cdc96205310d1e00d967a25
+    content: It was Major Jesse Marcel's 509th Bomb Group Wing that had dropped the atomic bombs on the Japanese cities of
+      Hiroshima and Nagasaki in 1945, two years before the Roswell incident.
+    original_excerpt: Adding to the ensuing Roswell controversy was that it was Major Marcel’s 509th Bomb Group Wing that
+      had dropped the atomic bombs on the Japanese cities of Hiroshima and Nagasaki two years earlier in 1945.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: narration
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 9ff5178f-37d8-407c-8fa9-4892755887be
+        title: 509th Bomb Group
+        slug: 509th-bomb-group
+      - node_id: d7b379f1-7788-43d9-94f9-c436614bf76c
+        title: 1945 atomic bombing of Hiroshima and Nagasaki
+        slug: 1945-atomic-bombing-of-hiroshima-and-nagasaki
+      - node_id: f888411e-b882-4f89-8275-350d19f6c52d
+        title: Jesse Marcel
+        slug: jesse-marcel
+    date: '1945'
+    date_end: null
+    location_in_record: ch7:9109-9308
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 1043044d-0ff2-4f1a-a419-b0fb40e1304f
+    claim_hash: 303d72bf22857cc16a38d64c78785d204860431f300d2bcdda1f78281b2adc3d
+    content: Walter Haut affirmed that Jesse Marcel's description of the debris found in the desert thirty miles from Roswell
+      was unusual.
+    original_excerpt: He affirmed that Col. Jesse Marcel’s description of the debris that had been found in the desert thirty
+      miles from Roswell was unusual
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 03ce9078-270f-4be3-ae7e-45ef913c7e5d
+      title: Walter Haut
+    provenance_chain:
+      origin_kind: speaker
+      origin: Walter Haut
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 03ce9078-270f-4be3-ae7e-45ef913c7e5d
+        title: Walter Haut
+        slug: walter-haut
+      - node_id: f888411e-b882-4f89-8275-350d19f6c52d
+        title: Jesse Marcel
+        slug: jesse-marcel
+    date: null
+    date_end: null
+    location_in_record: ch11:1908-2035
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 759e8d7b-a820-4e00-bdc3-9aebf9e4b1b1
+      record_title: The Fourth Mind
+      record_date: '2025-01-15'
+      record_reference: null
+      content_hash: sha256:524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008e17102e7
+      friendly_name: 2025-01-15-ebook-the-fourth-mind
+  - claim_id: 0ce83969-109f-4b9c-ac94-e4909c082fb7
+    claim_hash: d8eae882644d4aa8bc3fa29d114677d5f98d164826a0653e0d6d4ac3c9f3a367
+    content: Walter Haut told Whitley Strieber that Jesse Marcel was one of the most honest people he had ever known.
+    original_excerpt: I asked for a description of the debris, but only got the response that Jesse was one of the most honest
+      people he had ever known.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 03ce9078-270f-4be3-ae7e-45ef913c7e5d
+      title: Walter Haut
+    provenance_chain:
+      origin_kind: speaker
+      origin: Walter Haut
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 03ce9078-270f-4be3-ae7e-45ef913c7e5d
+        title: Walter Haut
+        slug: walter-haut
+      - node_id: f888411e-b882-4f89-8275-350d19f6c52d
+        title: Jesse Marcel
+        slug: jesse-marcel
+    date: null
+    date_end: null
+    location_in_record: ch11:2274-2398
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 759e8d7b-a820-4e00-bdc3-9aebf9e4b1b1
+      record_title: The Fourth Mind
+      record_date: '2025-01-15'
+      record_reference: null
+      content_hash: sha256:524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008e17102e7
+      friendly_name: 2025-01-15-ebook-the-fourth-mind
+  - claim_id: 6b87785c-9914-4683-842a-192f19362454
+    claim_hash: b68cd0aeeaede8238d8fb35c74e725a44daee1aaa5b9ed84632d615ea2fd633e
+    content: The 1947-07-08 staff meeting at Roswell Army Air Force Base was attended by William Blanchard, Jesse Marcel,
+      Sheridan Cavitt, James I. Hopkins, Patrick Saunders, Isadore Brown, and Ulysses S. Nero.
+    original_excerpt: Besides Blanchard, Marcel; CID Capt. Sheridan Cavitt; Col. James I. Hopkins, the operations officer;
+      Major Patrick Saunders, the base adjutant; Major Isadore Brown the personnel officer; Lt. Col. Ulysses S. Nero, the
+      supply officer... were also in attendance.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 03ce9078-270f-4be3-ae7e-45ef913c7e5d
+      title: Walter Haut
+    provenance_chain:
+      origin_kind: speaker
+      origin: Walter Haut
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 085d3824-ddd8-49a0-891d-1fd008f6e704
+        title: Ulysses S. Nero
+        slug: ulysses-s-nero
+      - node_id: 105344db-a5eb-4108-a72a-a06408ff1a6c
+        title: William Blanchard
+        slug: william-blanchard
+      - node_id: c4d61dc5-9e3c-4d24-8feb-b7de06605d9f
+        title: USA, New Mexico, Roswell Army Air Field
+        slug: new-mexico-roswell-army-air-field-usa
+      - node_id: c581a3e1-83fa-424c-840d-df874cfccebe
+        title: James I. Hopkins
+        slug: james-i-hopkins
+      - node_id: ce0b967f-b897-4754-aada-b48e03c4a84a
+        title: Patrick Saunders
+        slug: patrick-saunders
+      - node_id: d2b4890a-4999-4f45-9d1c-20e9393a88df
+        title: Isadore Brown
+        slug: isadore-brown
+      - node_id: d888fba5-8ed4-4dd2-b03e-a2aeb1d25ce6
+        title: Sheridan Cavitt
+        slug: sheridan-cavitt
+      - node_id: f888411e-b882-4f89-8275-350d19f6c52d
+        title: Jesse Marcel
+        slug: jesse-marcel
+    date: '1947-07-08'
+    date_end: null
+    location_in_record: ch28:1231-1486
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 759e8d7b-a820-4e00-bdc3-9aebf9e4b1b1
+      record_title: The Fourth Mind
+      record_date: '2025-01-15'
+      record_reference: null
+      content_hash: sha256:524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008e17102e7
+      friendly_name: 2025-01-15-ebook-the-fourth-mind
+  - claim_id: c2620eed-7d92-458e-b6b6-c3fb79aa25ad
+    claim_hash: c91893f2aff48ac93354c6a630fba7779c9ee34c2142821259736e49d8d3a0a9
+    content: At the 1947-07-08 staff meeting, Jesse Marcel and Sheridan Cavitt reported on an extensive debris field in Lincoln
+      County, approximately 120 kilometres northwest of Roswell, New Mexico.
+    original_excerpt: The main topic of discussion was reported by Marcel and Cavitt regarding an extensive debris field in
+      Lincoln County approx. 75 miles NW of Roswell.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 03ce9078-270f-4be3-ae7e-45ef913c7e5d
+      title: Walter Haut
+    provenance_chain:
+      origin_kind: speaker
+      origin: Walter Haut
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: baa13d91-0551-4f21-ac2f-32fba4c397cf
+        title: USA, New Mexico
+        slug: new-mexico-usa
+      - node_id: d888fba5-8ed4-4dd2-b03e-a2aeb1d25ce6
+        title: Sheridan Cavitt
+        slug: sheridan-cavitt
+      - node_id: f888411e-b882-4f89-8275-350d19f6c52d
+        title: Jesse Marcel
+        slug: jesse-marcel
+    date: '1947-07-08'
+    date_end: null
+    location_in_record: ch28:1620-1760
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 759e8d7b-a820-4e00-bdc3-9aebf9e4b1b1
+      record_title: The Fourth Mind
+      record_date: '2025-01-15'
+      record_reference: null
+      content_hash: sha256:524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008e17102e7
+      friendly_name: 2025-01-15-ebook-the-fourth-mind
+  - claim_id: 8293d6b2-fdb5-4504-b97c-f4d5544e55c4
+    claim_hash: 17317da6673c7078239c791a510bdc7152e3b70fcb44c8270ed27839db272f48
+    content: At approximately 9:30 a.m. on 1947-07-08, William Blanchard phoned Walter Haut's office and dictated a press
+      release stating that the Roswell Army Air Force Base had in its possession a flying disc recovered from a ranch northwest
+      of Roswell, with Jesse Marcel flying the material to higher headquarters.
+    original_excerpt: At approximately 9:30 a.m. Col. Blanchard phoned my office and dictated the press release of having
+      in our possession a flying disc, coming from a ranch northwest of Roswell and Marcel flying the material to higher headquarters.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 03ce9078-270f-4be3-ae7e-45ef913c7e5d
+      title: Walter Haut
+    provenance_chain:
+      origin_kind: speaker
+      origin: Walter Haut
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 03ce9078-270f-4be3-ae7e-45ef913c7e5d
+        title: Walter Haut
+        slug: walter-haut
+      - node_id: 105344db-a5eb-4108-a72a-a06408ff1a6c
+        title: William Blanchard
+        slug: william-blanchard
+      - node_id: b8ea9860-ae6e-4835-8114-6a6626f28797
+        title: Roswell incident (1947)
+        slug: roswell-incident-1947
+      - node_id: f888411e-b882-4f89-8275-350d19f6c52d
+        title: Jesse Marcel
+        slug: jesse-marcel
+    date: '1947-07-08'
+    date_end: null
+    location_in_record: ch28:2659-2874
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 759e8d7b-a820-4e00-bdc3-9aebf9e4b1b1
+      record_title: The Fourth Mind
+      record_date: '2025-01-15'
+      record_reference: null
+      content_hash: sha256:524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008e17102e7
+      friendly_name: 2025-01-15-ebook-the-fourth-mind
+  - claim_id: df90eebc-f967-4025-99c1-4959e301ccf3
+    claim_hash: 849fcf1a0743a0bcf36cc4dfb14e93bd579a462955a5a66ad789d0145ca63004
+    content: Upon his return from Fort Worth, Jesse Marcel described to Walter Haut taking pieces of the 1947 Roswell wreckage
+      to Roger Ramey's office and, after returning from a map room, finding the remains of a weather balloon and a radar kite
+      substituted in place of the original wreckage.
+    original_excerpt: Upon his return from Fort Worth, Major Marcel described to me taking pieces of the wreckage to Gen.
+      Ramey's office and after returning from a map room, finding the remains of a weather balloon and a radar kite substituted
+      while he was out of the room.
+    claim_type: testimony
+    attestation: second_hand
+    speaker:
+      node_id: 03ce9078-270f-4be3-ae7e-45ef913c7e5d
+      title: Walter Haut
+    provenance_chain:
+      origin_kind: named
+      origin: Jesse Marcel
+      relay:
+        - Jesse Marcel's account, described to Walter Haut
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 03ce9078-270f-4be3-ae7e-45ef913c7e5d
+        title: Walter Haut
+        slug: walter-haut
+      - node_id: 3b0c0328-6dfc-4b20-acce-d0f40ec02706
+        title: Roger Ramey
+        slug: roger-ramey
+      - node_id: ae75f016-578f-4a76-bbc6-bdb2ac683d6b
+        title: USA, Texas, Fort Worth
+        slug: texas-fort-worth-usa
+      - node_id: b8ea9860-ae6e-4835-8114-6a6626f28797
+        title: Roswell incident (1947)
+        slug: roswell-incident-1947
+      - node_id: f888411e-b882-4f89-8275-350d19f6c52d
+        title: Jesse Marcel
+        slug: jesse-marcel
+    date: 1947-07
+    date_end: null
+    location_in_record: ch28:4396-4642
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 759e8d7b-a820-4e00-bdc3-9aebf9e4b1b1
+      record_title: The Fourth Mind
+      record_date: '2025-01-15'
+      record_reference: null
+      content_hash: sha256:524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008e17102e7
+      friendly_name: 2025-01-15-ebook-the-fourth-mind
+  - claim_id: 743de6d7-30d8-4604-a507-d0e9301a3dca
+    claim_hash: 0bcf8ab5e207fab7216ff27e386d61c6c7b1cfb76e471638103165de51eae013
+    content: Jesse Marcel was very upset over the substitution of the weather balloon and radar kite for the original 1947
+      Roswell wreckage, and he and Walter Haut would not discuss it again.
+    original_excerpt: Marcel was very upset over the situation. We would not discuss it again.
+    claim_type: observation
+    attestation: first_hand
+    speaker:
+      node_id: 03ce9078-270f-4be3-ae7e-45ef913c7e5d
+      title: Walter Haut
+    provenance_chain:
+      origin_kind: speaker
+      origin: Walter Haut
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 03ce9078-270f-4be3-ae7e-45ef913c7e5d
+        title: Walter Haut
+        slug: walter-haut
+      - node_id: f888411e-b882-4f89-8275-350d19f6c52d
+        title: Jesse Marcel
+        slug: jesse-marcel
+    date: 1947-07
+    date_end: null
+    location_in_record: ch28:4648-4714
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 759e8d7b-a820-4e00-bdc3-9aebf9e4b1b1
+      record_title: The Fourth Mind
+      record_date: '2025-01-15'
+      record_reference: null
+      content_hash: sha256:524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008e17102e7
+      friendly_name: 2025-01-15-ebook-the-fourth-mind
+  - claim_id: ced0c092-a6c8-49b9-b815-b43f61e67403
+    claim_hash: a8767257ac79272151a1e87a068db8d178ee3e04e868dfeaa451f3cf1cfcb4fb
+    content: Jesse Marcel, head of intelligence at Roswell Army Air Force Base, was sent by base commander William Blanchard
+      to investigate the reported downed vehicle debris on 1947-07-07.
+    original_excerpt: I was aware that Major Jesse A. Marcel, head of intelligence, was sent by the base commander, Col. William
+      Blanchard, to investigate.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 03ce9078-270f-4be3-ae7e-45ef913c7e5d
+      title: Walter Haut
+    provenance_chain:
+      origin_kind: speaker
+      origin: Walter Haut
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 105344db-a5eb-4108-a72a-a06408ff1a6c
+        title: William Blanchard
+        slug: william-blanchard
+      - node_id: c4d61dc5-9e3c-4d24-8feb-b7de06605d9f
+        title: USA, New Mexico, Roswell Army Air Field
+        slug: new-mexico-roswell-army-air-field-usa
+      - node_id: f888411e-b882-4f89-8275-350d19f6c52d
+        title: Jesse Marcel
+        slug: jesse-marcel
+    date: '1947-07-07'
+    date_end: null
+    location_in_record: ch28:754-875
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 759e8d7b-a820-4e00-bdc3-9aebf9e4b1b1
+      record_title: The Fourth Mind
+      record_date: '2025-01-15'
+      record_reference: null
+      content_hash: sha256:524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008e17102e7
+      friendly_name: 2025-01-15-ebook-the-fourth-mind

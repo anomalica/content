@@ -1,0 +1,225 @@
+schema: anomalica/brief/1
+brief_hash: 488495aebd0a25d8f1df6cfed784168ef8f039ab5472964d6d6e0959f2452504
+page:
+  kind: entity
+  node_id: 76248a03-7d4e-4fdb-8c91-412ba73dc575
+  node_type: organisation
+  title: United States Naval Academy
+  slug: united-states-naval-academy
+  claim_count: 5
+  claim_count_total: 5
+generated:
+  graph_version: '2026-09-01T10:10:49.863545+00:00'
+size:
+  claims: 5
+  tokens_estimated: 1239
+  sized_against: 1050000
+publication:
+  status: published
+  note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
+    transcripts are gated elsewhere.
+belonging:
+  verified: 0
+  suspect_excluded: 0
+  unreviewed: 5
+related_nodes:
+  - node_id: c09e3558-1732-4676-a218-d67d285d98ef
+    title: David Fravor
+    node_type: person
+    slug: david-fravor
+    shared_claims: 5
+  - node_id: ebbc59cd-bc77-405b-845e-889ff3c21b47
+    title: USS Nimitz (CVN-68)
+    node_type: object
+    slug: uss-nimitz-cvn-68
+    shared_claims: 1
+  - node_id: 0f912810-85b7-4e73-a97f-f31901933301
+    title: United States Marine Corps (USMC)
+    node_type: organisation
+    slug: united-states-marine-corps-usmc
+    shared_claims: 1
+claims:
+  - claim_id: 1c75f2f9-0127-47c1-a0e4-82dda115d7c9
+    claim_hash: e6c3126f99b2b9d3361a13fb03ab109ed1147a1b48b8dd4ca7e5c04db968cd0b
+    content: The United States Marine Corps recommended David Fravor to attend the United States Naval Academy.
+    original_excerpt: the Marines actually sent me, recommended me to go to the Naval Academy.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: c09e3558-1732-4676-a218-d67d285d98ef
+      title: David Fravor
+    provenance_chain:
+      origin_kind: speaker
+      origin: David Fravor
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 0f912810-85b7-4e73-a97f-f31901933301
+        title: United States Marine Corps (USMC)
+        slug: united-states-marine-corps-usmc
+      - node_id: 76248a03-7d4e-4fdb-8c91-412ba73dc575
+        title: United States Naval Academy
+        slug: united-states-naval-academy
+      - node_id: c09e3558-1732-4676-a218-d67d285d98ef
+        title: David Fravor
+        slug: david-fravor
+    date: null
+    date_end: null
+    location_in_record: 00:12:22.6-00:12:26.1
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 0157e540-a945-4b2a-acdf-6c449172dcd6
+      record_title: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering | Lex Fridman Podcast #122'
+      record_date: '2020-09-08'
+      record_reference: https://www.youtube.com/watch?v=aB8zcAttP1E
+      content_hash: sha256:135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19fd6afb8a
+      friendly_name: 2020-09-08-video-david-fravor-ufos-aliens-fighter-jets-and-aerospace.v2
+  - claim_id: e7c45ab6-e7a5-49b0-a6da-218c3df9ff5e
+    claim_hash: e3f0721316dc59109f995562f0aa00ab2c84a0b06e48de08830df6cf16db7a29
+    content: David Fravor attended and graduated from the United States Naval Academy.
+    original_excerpt: I got to go to the Naval Academy and I finished
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: c09e3558-1732-4676-a218-d67d285d98ef
+      title: David Fravor
+    provenance_chain:
+      origin_kind: speaker
+      origin: David Fravor
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 76248a03-7d4e-4fdb-8c91-412ba73dc575
+        title: United States Naval Academy
+        slug: united-states-naval-academy
+      - node_id: c09e3558-1732-4676-a218-d67d285d98ef
+        title: David Fravor
+        slug: david-fravor
+    date: null
+    date_end: null
+    location_in_record: 00:12:29.4-00:12:30.9
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 0157e540-a945-4b2a-acdf-6c449172dcd6
+      record_title: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering | Lex Fridman Podcast #122'
+      record_date: '2020-09-08'
+      record_reference: https://www.youtube.com/watch?v=aB8zcAttP1E
+      content_hash: sha256:135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19fd6afb8a
+      friendly_name: 2020-09-08-video-david-fravor-ufos-aliens-fighter-jets-and-aerospace.v2
+  - claim_id: b8764618-8338-468e-8f0d-af5efcaf7eb3
+    claim_hash: 97bb2158511209387c23e978bafd878f2463a59691aa134ae2e2f604eef359ec
+    content: David Fravor went on his freshman midshipman cruise aboard the USS Nimitz after his freshman year at the United
+      States Naval Academy.
+    original_excerpt: I went out to the Nimitz on my, uh, freshman cruise after your freshman year at the Naval Academy, you
+      go out on a ship
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: c09e3558-1732-4676-a218-d67d285d98ef
+      title: David Fravor
+    provenance_chain:
+      origin_kind: speaker
+      origin: David Fravor
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 76248a03-7d4e-4fdb-8c91-412ba73dc575
+        title: United States Naval Academy
+        slug: united-states-naval-academy
+      - node_id: c09e3558-1732-4676-a218-d67d285d98ef
+        title: David Fravor
+        slug: david-fravor
+      - node_id: ebbc59cd-bc77-405b-845e-889ff3c21b47
+        title: USS Nimitz (CVN-68)
+        slug: uss-nimitz-cvn-68
+    date: null
+    date_end: null
+    location_in_record: 00:18:25.8-00:18:31.4
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 0157e540-a945-4b2a-acdf-6c449172dcd6
+      record_title: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering | Lex Fridman Podcast #122'
+      record_date: '2020-09-08'
+      record_reference: https://www.youtube.com/watch?v=aB8zcAttP1E
+      content_hash: sha256:135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19fd6afb8a
+      friendly_name: 2020-09-08-video-david-fravor-ufos-aliens-fighter-jets-and-aerospace.v2
+  - claim_id: 73c1651c-7728-4197-a310-fe2a375fbfd5
+    claim_hash: 28c6feab19a4b8dba4043bff30b7850e2eb216adc46bcedcfac90f945f0322fd
+    content: It took David Fravor exactly two years from the day he graduated the United States Naval Academy until he got
+      his wings.
+    original_excerpt: it took me two years to the day from the time i graduated the naval academy until i got my wings
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: c09e3558-1732-4676-a218-d67d285d98ef
+      title: David Fravor
+    provenance_chain:
+      origin_kind: speaker
+      origin: David Fravor
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 76248a03-7d4e-4fdb-8c91-412ba73dc575
+        title: United States Naval Academy
+        slug: united-states-naval-academy
+      - node_id: c09e3558-1732-4676-a218-d67d285d98ef
+        title: David Fravor
+        slug: david-fravor
+    date: null
+    date_end: null
+    location_in_record: 00:20:11.4-00:20:14.9
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 0157e540-a945-4b2a-acdf-6c449172dcd6
+      record_title: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering | Lex Fridman Podcast #122'
+      record_date: '2020-09-08'
+      record_reference: https://www.youtube.com/watch?v=aB8zcAttP1E
+      content_hash: sha256:135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19fd6afb8a
+      friendly_name: 2020-09-08-video-david-fravor-ufos-aliens-fighter-jets-and-aerospace.v2
+  - claim_id: edb40477-b5c8-48c6-ae83-c677a2c63658
+    claim_hash: 4e01ec2e9cb9a9863bceefde13f117577475f13758881b3fa324e56386203b76
+    content: David Fravor was an enlisted Marine before becoming a Naval Academy graduate.
+    original_excerpt: I was an enlisted Marine, Naval Academy graduate, Navy, flew for 18 years.
+    claim_type: administrative
+    attestation: first_hand
+    speaker:
+      node_id: c09e3558-1732-4676-a218-d67d285d98ef
+      title: David Fravor
+    provenance_chain:
+      origin_kind: speaker
+      origin: David Fravor
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 76248a03-7d4e-4fdb-8c91-412ba73dc575
+        title: United States Naval Academy
+        slug: united-states-naval-academy
+      - node_id: c09e3558-1732-4676-a218-d67d285d98ef
+        title: David Fravor
+        slug: david-fravor
+    date: null
+    date_end: null
+    location_in_record: char:122630-122698
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 5e233de3-335a-46b1-8b03-81df19638eae
+      record_title: 'Unidentified Anomalous Phenomena: Implications on National Security, Public Safety, and Government Transparency'
+      record_date: '2023-07-26'
+      record_reference: null
+      content_hash: sha256:e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed69a6d8ec1
+      friendly_name: 2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety

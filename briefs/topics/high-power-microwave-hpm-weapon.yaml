@@ -1,0 +1,266 @@
+schema: anomalica/brief/1
+brief_hash: 2b84cdb89e3e4bd73446e401f0e86f294b7929239be5142483223b63483808ff
+page:
+  kind: entity
+  node_id: a8ed2e9f-3a8f-47cc-b85c-61c07728a00e
+  node_type: topic
+  title: high-power microwave (HPM) weapon
+  slug: high-power-microwave-hpm-weapon
+  claim_count: 5
+  claim_count_total: 5
+generated:
+  graph_version: '2026-09-01T10:10:49.863545+00:00'
+size:
+  claims: 5
+  tokens_estimated: 1815
+  sized_against: 1050000
+publication:
+  status: published
+  note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
+    transcripts are gated elsewhere.
+belonging:
+  verified: 0
+  suspect_excluded: 0
+  unreviewed: 5
+related_nodes:
+  - node_id: 22049c25-e98a-4e2f-99ce-e8c8da9050cf
+    title: USA, New Mexico, White Sands Missile Range
+    node_type: place
+    slug: new-mexico-white-sands-missile-range-usa
+    shared_claims: 2
+  - node_id: 816c219b-6372-49f6-9579-5eeabb9a7474
+    title: Donald Trump
+    node_type: person
+    slug: donald-trump
+    shared_claims: 1
+  - node_id: c4a2012c-4510-410e-bf59-ecf3adeb279d
+    title: King Air
+    node_type: object
+    slug: king-air
+    shared_claims: 1
+  - node_id: 9c74d864-957a-4654-a5b6-1249fe654ec7
+    title: Non-Human Intelligence
+    node_type: topic
+    slug: non-human-intelligence
+    shared_claims: 1
+  - node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+    title: Ross Coulthart
+    node_type: person
+    slug: ross-coulthart
+    shared_claims: 1
+  - node_id: 0bbdac2d-a855-466a-a051-2afa64a779e2
+    title: UAP crash retrieval and reverse engineering program
+    node_type: project
+    slug: uap-crash-retrieval-and-reverse-engineering-program
+    shared_claims: 1
+  - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
+    title: Unidentified Anomalous Phenomena (UAP)
+    node_type: topic
+    slug: unidentified-anomalous-phenomena-uap
+    shared_claims: 1
+claims:
+  - claim_id: 023efd3f-4dcb-4bce-94ae-62e07dfce718
+    claim_hash: 6df5fbec42936f1bf870dd55a6089643a27d2ddeb45aae35f6d2f696cb2c2dd0
+    content: People currently working inside the United States legacy Unidentified Flying Object (UFO) crash retrieval and
+      reverse engineering program admitted to Ross Coulthart that high-power microwave (HPM) weapons are being used to bring
+      down non-human craft.
+    original_excerpt: people that I was talking to in the program, who are still in the program, admitted to me that we're
+      using high-pulse microwave weapons, HPMs, to down... ...craft.
+    claim_type: hearsay
+    attestation: second_hand
+    speaker:
+      node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+      title: Ross Coulthart
+    provenance_chain:
+      origin_kind: anonymous
+      origin: people claiming to be currently working inside the United States legacy UFO crash retrieval and reverse engineering
+        program
+      relay:
+        - conversations with Ross Coulthart
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 0bbdac2d-a855-466a-a051-2afa64a779e2
+        title: UAP crash retrieval and reverse engineering program
+        slug: uap-crash-retrieval-and-reverse-engineering-program
+      - node_id: a8ed2e9f-3a8f-47cc-b85c-61c07728a00e
+        title: high-power microwave (HPM) weapon
+        slug: high-power-microwave-hpm-weapon
+      - node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+        title: Ross Coulthart
+        slug: ross-coulthart
+    date: null
+    date_end: null
+    location_in_record: 00:00:35.7-00:00:46.4
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: fd845823-8784-462c-a981-4775525b6f84
+      record_title: The DANGEROUS Truth About UFOs - Ross Coulthart | DEBRIEFED ep. 76
+      record_date: '2026-02-20'
+      record_reference: https://www.youtube.com/watch?v=idBryc0eWww
+      content_hash: sha256:73be106d406f6d35a063a894e8384e7da0918eb8597d2107a9e3653becca2bdc
+      friendly_name: null
+  - claim_id: 76aa130a-e8b8-4831-afeb-d9bb7a627a33
+    claim_hash: 5a45f4384a4f9c2a80deeb53622df63d1a200ce24d434f3e3c453fc05eab09bf
+    content: One of the directed energy weapons systems used at White Sands to attempt to shoot down mystery craft is called
+      high-power microwave (HPM), which shuts down an aircraft by emitting an intense burst of electromagnetic energy that
+      travels at the speed of light, penetrates the aircraft, and fries its electronic systems.
+    original_excerpt: Sources have told me that one of the directed energy weapons systems used at White Sands in an attempt
+      to shoot down these mystery craft is what's called high pulse microwave. It shuts down an aircraft by emitting an intense
+      burst of electromagnetic energy that travels at the speed of light, penetrates the aircraft and fries its electronic
+      systems.
+    claim_type: hearsay
+    attestation: second_hand
+    speaker:
+      node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+      title: Ross Coulthart
+    provenance_chain:
+      origin_kind: anonymous
+      origin: sources claiming knowledge of White Sands weapons systems
+      relay:
+        - Ross Coulthart
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 22049c25-e98a-4e2f-99ce-e8c8da9050cf
+        title: USA, New Mexico, White Sands Missile Range
+        slug: new-mexico-white-sands-missile-range-usa
+      - node_id: a8ed2e9f-3a8f-47cc-b85c-61c07728a00e
+        title: high-power microwave (HPM) weapon
+        slug: high-power-microwave-hpm-weapon
+    date: null
+    date_end: null
+    location_in_record: 00:20:54.5-00:21:20.4
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 308dd5bd-eed8-4f08-b15a-98f7bb989522
+      record_title: 'Ross Coulthart Q&A: Skywatcher didn''t disappear — it went government | Reality Check'
+      record_date: '2026-08-09'
+      record_reference: https://www.youtube.com/watch?v=IOZdVCoZ51Q
+      content_hash: sha256:76d7e7613c0a44bdb8d7e5ce87b2a23defe4a987cf1865be3ae1080cd1893d21
+      friendly_name: null
+  - claim_id: fe4a2b6a-fbc1-4357-a7ad-2a3a3c687b72
+    claim_hash: 39e271112b98c48418972b733beaed1104b8120e7538fc4bcb737d6144477c88
+    content: If President Trump is being truthful with the public, he should offer an explanation as to whether the King Air
+      aircraft that was downed over or near White Sands Missile Range was hit by high-power microwave (HPM) weapons or any
+      kind of weaponry being used in the Unidentified Aerial Phenomena (UAP) operations.
+    original_excerpt: If the president's being straight with us, he will offer an explanation as to whether, for example,
+      the King Air aircraft that was downed over or near White Sands whether that aircraft was hit by HPM weapons or any kind
+      of weaponry that was being used in one of these operations.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+      title: Ross Coulthart
+    provenance_chain:
+      origin_kind: speaker
+      origin: Ross Coulthart
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 22049c25-e98a-4e2f-99ce-e8c8da9050cf
+        title: USA, New Mexico, White Sands Missile Range
+        slug: new-mexico-white-sands-missile-range-usa
+      - node_id: 816c219b-6372-49f6-9579-5eeabb9a7474
+        title: Donald Trump
+        slug: donald-trump
+      - node_id: a8ed2e9f-3a8f-47cc-b85c-61c07728a00e
+        title: high-power microwave (HPM) weapon
+        slug: high-power-microwave-hpm-weapon
+      - node_id: c4a2012c-4510-410e-bf59-ecf3adeb279d
+        title: King Air
+        slug: king-air
+    date: null
+    date_end: null
+    location_in_record: 00:27:06.0-00:27:25.0
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 308dd5bd-eed8-4f08-b15a-98f7bb989522
+      record_title: 'Ross Coulthart Q&A: Skywatcher didn''t disappear — it went government | Reality Check'
+      record_date: '2026-08-09'
+      record_reference: https://www.youtube.com/watch?v=IOZdVCoZ51Q
+      content_hash: sha256:76d7e7613c0a44bdb8d7e5ce87b2a23defe4a987cf1865be3ae1080cd1893d21
+      friendly_name: null
+  - claim_id: 5f7971df-1a80-4a62-bbf0-414a90392a7f
+    claim_hash: 77c618baa11bd72f40bcdcd54e87ab96133a63138a5867eebf578f4ea6339edc
+    content: Ross Coulthart's sources indicate that civilian aircraft have been accidentally brought down by high-power microwave
+      (HPM) weapons during legacy Unidentified Aerial Phenomena (UAP) operations conducted in other parts of the United States
+      targeting Unidentified Aerial Phenomena (UAP) craft.
+    original_excerpt: I'm told from my own sources that there have been craft incidentally brought down, civilian aircraft
+      brought down as an accident by high pulse microwaves during legacy operations that have taken place in other parts of
+      the United States targeting UAP craft.
+    claim_type: hearsay
+    attestation: second_hand
+    speaker:
+      node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+      title: Ross Coulthart
+    provenance_chain:
+      origin_kind: anonymous
+      origin: sources claiming knowledge of past UAP-related incidents
+      relay:
+        - Ross Coulthart
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
+        title: Unidentified Anomalous Phenomena (UAP)
+        slug: unidentified-anomalous-phenomena-uap
+      - node_id: a8ed2e9f-3a8f-47cc-b85c-61c07728a00e
+        title: high-power microwave (HPM) weapon
+        slug: high-power-microwave-hpm-weapon
+    date: null
+    date_end: null
+    location_in_record: 00:27:26.7-00:27:49.9
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 308dd5bd-eed8-4f08-b15a-98f7bb989522
+      record_title: 'Ross Coulthart Q&A: Skywatcher didn''t disappear — it went government | Reality Check'
+      record_date: '2026-08-09'
+      record_reference: https://www.youtube.com/watch?v=IOZdVCoZ51Q
+      content_hash: sha256:76d7e7613c0a44bdb8d7e5ce87b2a23defe4a987cf1865be3ae1080cd1893d21
+      friendly_name: null
+  - claim_id: a8756ea0-3996-43ad-8ba9-2a1c9eb35d03
+    claim_hash: e88f2820788af72fc7651941755ca60e03f1a8653d15541ac055c8863617fdf9
+    content: The real story is that the government has been using high-power microwave (HPM) weapons to attempt to shoot down
+      Non-human Intelligence (NHI) technology.
+    original_excerpt: The real story is that they have been using these weapons to try to shoot down NHI technology.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+      title: Ross Coulthart
+    provenance_chain:
+      origin_kind: speaker
+      origin: Ross Coulthart
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 9c74d864-957a-4654-a5b6-1249fe654ec7
+        title: Non-Human Intelligence
+        slug: non-human-intelligence
+      - node_id: a8ed2e9f-3a8f-47cc-b85c-61c07728a00e
+        title: high-power microwave (HPM) weapon
+        slug: high-power-microwave-hpm-weapon
+    date: null
+    date_end: null
+    location_in_record: 00:28:43.8-00:28:49.8
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 308dd5bd-eed8-4f08-b15a-98f7bb989522
+      record_title: 'Ross Coulthart Q&A: Skywatcher didn''t disappear — it went government | Reality Check'
+      record_date: '2026-08-09'
+      record_reference: https://www.youtube.com/watch?v=IOZdVCoZ51Q
+      content_hash: sha256:76d7e7613c0a44bdb8d7e5ce87b2a23defe4a987cf1865be3ae1080cd1893d21
+      friendly_name: null

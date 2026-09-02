@@ -1,0 +1,197 @@
+schema: anomalica/brief/1
+brief_hash: 7a8ae193db58218182eb511cad24410a4bf47cc040a835a6caafe192a5a6dac0
+page:
+  kind: entity
+  node_id: cf4a0eff-8912-4a1e-bd3e-b8a60a8fc1fb
+  node_type: organisation
+  title: New Zealand Herald
+  slug: new-zealand-herald
+  claim_count: 4
+  claim_count_total: 4
+generated:
+  graph_version: '2026-09-01T10:10:49.863545+00:00'
+size:
+  claims: 4
+  tokens_estimated: 1052
+  sized_against: 1050000
+publication:
+  status: published
+  note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
+    transcripts are gated elsewhere.
+belonging:
+  verified: 0
+  suspect_excluded: 0
+  unreviewed: 4
+related_nodes:
+  - node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+    title: Ross Coulthart
+    node_type: person
+    slug: ross-coulthart
+    shared_claims: 3
+  - node_id: f1f3fbdf-1d40-4497-b859-d6bf312f802d
+    title: Kaikoura UAP Sighting
+    node_type: event
+    slug: kaikoura-uap-sighting
+    shared_claims: 1
+  - node_id: e4044a2b-73aa-4513-879d-342b4a4a522a
+    title: New Zealand, Auckland
+    node_type: place
+    slug: auckland-new-zealand
+    shared_claims: 1
+  - node_id: 9926a63a-c90d-47b1-923b-7163c1ee382d
+    title: Robert Muldoon
+    node_type: person
+    slug: robert-muldoon
+    shared_claims: 1
+claims:
+  - claim_id: b2983232-5479-4ef2-93cd-a0361e297ab1
+    claim_hash: 411f677798111a7e0c9666a3dde36e90487d8cf5d448970b8ff74cd97ce92bf7
+    content: Ross Coulthart followed the Kaikoura case as a young journalist for the New Zealand Herald newspaper in the early
+      1980s.
+    original_excerpt: I followed the Kaikoura case as a young journalist for the New Zealand Herald newspaper in the early
+      1980s
+    claim_type: administrative
+    attestation: first_hand
+    speaker:
+      node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+      title: Ross Coulthart
+    provenance_chain:
+      origin_kind: speaker
+      origin: Ross Coulthart
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: cf4a0eff-8912-4a1e-bd3e-b8a60a8fc1fb
+        title: New Zealand Herald
+        slug: new-zealand-herald
+      - node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+        title: Ross Coulthart
+        slug: ross-coulthart
+      - node_id: f1f3fbdf-1d40-4497-b859-d6bf312f802d
+        title: Kaikoura UAP Sighting
+        slug: kaikoura-uap-sighting
+    date: null
+    date_end: null
+    location_in_record: ch12:2692-2795
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 0eaf0081-2fea-4da8-86dd-6202c3d3f5a2
+    claim_hash: 998500d8291cbec9a543bdfb00e2315aa87d74098783fa727d449cc89c5433c9
+    content: One of Ross Coulthart's first journalism jobs was as a cub reporter at the New Zealand Herald newspaper in Auckland.
+    original_excerpt: One of my first gigs in journalism was with the New Zealand Herald newspaper in Auckland... And I was
+      the young cub reporter.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+      title: Ross Coulthart
+    provenance_chain:
+      origin_kind: speaker
+      origin: Ross Coulthart
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: cf4a0eff-8912-4a1e-bd3e-b8a60a8fc1fb
+        title: New Zealand Herald
+        slug: new-zealand-herald
+      - node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+        title: Ross Coulthart
+        slug: ross-coulthart
+      - node_id: e4044a2b-73aa-4513-879d-342b4a4a522a
+        title: New Zealand, Auckland
+        slug: auckland-new-zealand
+    date: null
+    date_end: null
+    location_in_record: 00:17:28.9-00:17:34.7
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: fd845823-8784-462c-a981-4775525b6f84
+      record_title: The DANGEROUS Truth About UFOs - Ross Coulthart | DEBRIEFED ep. 76
+      record_date: '2026-02-20'
+      record_reference: https://www.youtube.com/watch?v=idBryc0eWww
+      content_hash: sha256:73be106d406f6d35a063a894e8384e7da0918eb8597d2107a9e3653becca2bdc
+      friendly_name: null
+  - claim_id: 35a9e634-07c8-4368-b8aa-5cce117b4de6
+    claim_hash: 780b499454d514c13661c1740a9d83b63697ce84a15d0588b92a37811e331f2b
+    content: The New Zealand Herald is New Zealand's main national flagship newspaper.
+    original_excerpt: which is a sort of flagship newspaper in New Zealand. It's the main sort of national newspaper.
+    claim_type: administrative
+    attestation: null
+    speaker:
+      node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+      title: Ross Coulthart
+    provenance_chain:
+      origin_kind: unattributed
+      origin: general knowledge conveyed by Ross Coulthart
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: cf4a0eff-8912-4a1e-bd3e-b8a60a8fc1fb
+        title: New Zealand Herald
+        slug: new-zealand-herald
+    date: null
+    date_end: null
+    location_in_record: 00:17:35.1-00:17:40.1
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: fd845823-8784-462c-a981-4775525b6f84
+      record_title: The DANGEROUS Truth About UFOs - Ross Coulthart | DEBRIEFED ep. 76
+      record_date: '2026-02-20'
+      record_reference: https://www.youtube.com/watch?v=idBryc0eWww
+      content_hash: sha256:73be106d406f6d35a063a894e8384e7da0918eb8597d2107a9e3653becca2bdc
+      friendly_name: null
+  - claim_id: f3b062df-1265-49e7-9e47-be5ba436d67a
+    claim_hash: 72d1a4764085267b5ea5770ae8ad4697ff1d26e6f16631761788720dcdba10c1
+    content: The New Zealand Herald had a tradition of sending a reporter to interview the retired Robert Muldoon at his beach
+      house at Christmas time.
+    original_excerpt: for some weird reason, it was a tradition on the newspaper to go and interview Sir Robert Muldoon in
+      his beach house
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+      title: Ross Coulthart
+    provenance_chain:
+      origin_kind: speaker
+      origin: Ross Coulthart
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 9926a63a-c90d-47b1-923b-7163c1ee382d
+        title: Robert Muldoon
+        slug: robert-muldoon
+      - node_id: cf4a0eff-8912-4a1e-bd3e-b8a60a8fc1fb
+        title: New Zealand Herald
+        slug: new-zealand-herald
+      - node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+        title: Ross Coulthart
+        slug: ross-coulthart
+    date: null
+    date_end: null
+    location_in_record: 00:17:54.5-00:18:00.9
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: fd845823-8784-462c-a981-4775525b6f84
+      record_title: The DANGEROUS Truth About UFOs - Ross Coulthart | DEBRIEFED ep. 76
+      record_date: '2026-02-20'
+      record_reference: https://www.youtube.com/watch?v=idBryc0eWww
+      content_hash: sha256:73be106d406f6d35a063a894e8384e7da0918eb8597d2107a9e3653becca2bdc
+      friendly_name: null

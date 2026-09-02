@@ -1,0 +1,428 @@
+schema: anomalica/brief/1
+brief_hash: 4805638407c7d62de62981356a7789a2274e539310423ce265ddd7d3ff6825c6
+page:
+  kind: entity
+  node_id: 0cc52b04-a65c-4580-aaf9-4b3df6f47995
+  node_type: organisation
+  title: Aerospace Corporation
+  slug: aerospace-corporation
+  claim_count: 9
+  claim_count_total: 9
+generated:
+  graph_version: '2026-09-01T10:10:49.863545+00:00'
+size:
+  claims: 9
+  tokens_estimated: 2528
+  sized_against: 1050000
+publication:
+  status: published
+  note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
+    transcripts are gated elsewhere.
+belonging:
+  verified: 0
+  suspect_excluded: 0
+  unreviewed: 9
+related_nodes:
+  - node_id: 9ab76638-a596-48f1-9a58-9c9251cc97f3
+    title: Eric Davis
+    node_type: person
+    slug: eric-davis
+    shared_claims: 6
+  - node_id: 6c1618c8-50db-42c9-860e-6d736ef280bf
+    title: Advanced Aerospace Threat Identification Program (AATIP)
+    node_type: project
+    slug: advanced-aerospace-threat-identification-program-aatip
+    shared_claims: 1
+  - node_id: 0017e9ea-ba2f-4c15-9767-6f5a0f4035a0
+    title: BAE Systems
+    node_type: organisation
+    slug: bae-systems
+    shared_claims: 1
+  - node_id: 3e0f36b1-57e0-486f-aeeb-1e20da75efd9
+    title: Boeing
+    node_type: organisation
+    slug: boeing
+    shared_claims: 1
+  - node_id: 989ce2ef-ea09-466d-99ad-6ba8785a5823
+    title: Edward C. Aldridge
+    node_type: person
+    slug: edward-c-aldridge
+    shared_claims: 1
+  - node_id: d047a520-092f-4fe5-935d-ef4eadd7c952
+    title: Legacy Program
+    node_type: project
+    slug: legacy-program
+    shared_claims: 1
+  - node_id: 6814b080-a222-4c03-9e18-877cf868e816
+    title: Lockheed
+    node_type: organisation
+    slug: lockheed
+    shared_claims: 1
+  - node_id: d3f1910c-f3bf-4eff-b952-3d38b54e9876
+    title: McDonnell Douglas
+    node_type: organisation
+    slug: mcdonnell-douglas
+    shared_claims: 1
+  - node_id: c08687d3-db82-43e7-86aa-dd3516a74265
+    title: Northrop Grumman
+    node_type: organisation
+    slug: northrop-grumman
+    shared_claims: 1
+  - node_id: 41eed7f8-b54f-4c4a-8318-bed3936984b2
+    title: Raytheon
+    node_type: organisation
+    slug: raytheon
+    shared_claims: 1
+  - node_id: 75748cac-be9a-4dd5-bf52-40e41da1bab0
+    title: TRW Inc.
+    node_type: organisation
+    slug: trw-inc
+    shared_claims: 1
+  - node_id: 6485c8ec-97af-4a6d-9547-34aee3eb5b87
+    title: Taylor
+    node_type: person
+    slug: taylor
+    shared_claims: 1
+claims:
+  - claim_id: fb1d2a31-5c3e-49df-9ae9-a2d228a512e1
+    claim_hash: 283e2f957eb154efca55a83d9447cf1532cc283d333fcf3a5e47fd0061484610
+    content: Eric Davis is currently employed at the federally funded Aerospace Corporation.
+    original_excerpt: it would not have been unreasonable for an angry US government, embarrassed by such a reckless assertion,
+      to have stripped him of his security classification and to have sacked him from his job at his current employer, the
+      federally funded Aerospace Corporation.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 0cc52b04-a65c-4580-aaf9-4b3df6f47995
+        title: Aerospace Corporation
+        slug: aerospace-corporation
+      - node_id: 9ab76638-a596-48f1-9a58-9c9251cc97f3
+        title: Eric Davis
+        slug: eric-davis
+    date: null
+    date_end: null
+    location_in_record: ch17:16274-16524
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 904d5a30-aeec-4431-ada8-7c2f1c193ed9
+    claim_hash: f1e385eee6418b554f0ff644c3f2510b5759c5fbdfd3729bbfc7de91ccde3d1a
+    content: Eric Davis remains a trusted government employee at Aerospace Corporation at time of writing, despite his public
+      claims of crash retrievals.
+    original_excerpt: But Dr Davis remains a much-valued and trusted government employee at time of writing.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 0cc52b04-a65c-4580-aaf9-4b3df6f47995
+        title: Aerospace Corporation
+        slug: aerospace-corporation
+      - node_id: 9ab76638-a596-48f1-9a58-9c9251cc97f3
+        title: Eric Davis
+        slug: eric-davis
+    date: null
+    date_end: null
+    location_in_record: ch17:16537-16615
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 1a19639a-674b-484e-a017-46b876e5d7ba
+    claim_hash: 59c9a2d2d33f61a4eb2d43921f16a00e7ac702748c8d969eb445ef8afcb5a8e4
+    content: Eric Davis now works for the federally funded Aerospace Corporation on classified government projects.
+    original_excerpt: an insider in a position to know (who, by the way, now works for the federally funded Aerospace Corporation
+      on classified government projects)
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: unattributed narration
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 0cc52b04-a65c-4580-aaf9-4b3df6f47995
+        title: Aerospace Corporation
+        slug: aerospace-corporation
+      - node_id: 9ab76638-a596-48f1-9a58-9c9251cc97f3
+        title: Eric Davis
+        slug: eric-davis
+    date: null
+    date_end: null
+    location_in_record: ch24:17818-17951
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 1a338d2d-e16f-40fd-adba-83229f535a5e
+    claim_hash: 8851e854c860953b4c57f2d16242f0f36b5c30729ee1df066e48af104d7dfbbf
+    content: Eric Davis recorded a cluster of revealing interviews in late 2019 before taking up his new job at Aerospace
+      Corporation, in which he asserted that the US was in possession of retrieved alien technology.
+    original_excerpt: Davis recorded a cluster of extremely revealing interviews in late 2019 before he took up his new job
+      at Aerospace Corporation, before he was bound again by the confidentiality constraints of the black world. All of them
+      pushed Davis' line that he knew for a fact that the US was in possession of retrieved alien technology.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 9ab76638-a596-48f1-9a58-9c9251cc97f3
+      title: Eric Davis
+    provenance_chain:
+      origin_kind: speaker
+      origin: Eric Davis
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 0cc52b04-a65c-4580-aaf9-4b3df6f47995
+        title: Aerospace Corporation
+        slug: aerospace-corporation
+      - node_id: 9ab76638-a596-48f1-9a58-9c9251cc97f3
+        title: Eric Davis
+        slug: eric-davis
+    date: '2019'
+    date_end: null
+    location_in_record: ch24:18597-18910
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: d42e0846-d8c4-4bba-8c59-454e8cb8f664
+    claim_hash: f5b1678d78895fcae4766f8e072b2d6d6e2c05941abd38ddaa3a851a0829f42d
+    content: Eric Davis was hired in December 2019 by the federally funded Aerospace Corporation.
+    original_excerpt: He was then was hired in December 2019 by the federally funded Aerospace Corporation.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 0cc52b04-a65c-4580-aaf9-4b3df6f47995
+        title: Aerospace Corporation
+        slug: aerospace-corporation
+      - node_id: 9ab76638-a596-48f1-9a58-9c9251cc97f3
+        title: Eric Davis
+        slug: eric-davis
+    date: 2019-12
+    date_end: null
+    location_in_record: ch26:5289-5389
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: a7f3a152-7714-45c3-8e1e-ff2cbc757810
+    claim_hash: 281fc939cb04016c833f8699869b5933f65d4b0429016c9e9d48e0317178588c
+    content: Lockheed Martin, TRW, McDonnell Douglas, Northrop Grumman, Boeing, Raytheon, BAE Systems, and the Aerospace Corporation
+      were named by senior officials as aerospace and defence companies involved in the Legacy Program to retrieve and reverse-engineer
+      crash materials.
+    original_excerpt: The big names included Lockheed Martin, TRW, McDonnell Douglas, Northrop Grumman, Boeing, Raytheon,
+      BAE Systems, and the Aerospace Corporation, all of which have long been principal members of the US military-industrial
+      complex.
+    claim_type: hearsay
+    attestation: second_hand
+    speaker:
+      node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+      title: Luis Elizondo
+    provenance_chain:
+      origin_kind: anonymous
+      origin: persons claiming to be senior officials
+      relay:
+        - told confidentially to Lue Elizondo
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 0017e9ea-ba2f-4c15-9767-6f5a0f4035a0
+        title: BAE Systems
+        slug: bae-systems
+      - node_id: 0cc52b04-a65c-4580-aaf9-4b3df6f47995
+        title: Aerospace Corporation
+        slug: aerospace-corporation
+      - node_id: 3e0f36b1-57e0-486f-aeeb-1e20da75efd9
+        title: Boeing
+        slug: boeing
+      - node_id: 41eed7f8-b54f-4c4a-8318-bed3936984b2
+        title: Raytheon
+        slug: raytheon
+      - node_id: 6814b080-a222-4c03-9e18-877cf868e816
+        title: Lockheed
+        slug: lockheed
+      - node_id: 75748cac-be9a-4dd5-bf52-40e41da1bab0
+        title: TRW Inc.
+        slug: trw-inc
+      - node_id: c08687d3-db82-43e7-86aa-dd3516a74265
+        title: Northrop Grumman
+        slug: northrop-grumman
+      - node_id: d047a520-092f-4fe5-935d-ef4eadd7c952
+        title: Legacy Program
+        slug: legacy-program
+      - node_id: d3f1910c-f3bf-4eff-b952-3d38b54e9876
+        title: McDonnell Douglas
+        slug: mcdonnell-douglas
+    date: null
+    date_end: null
+    location_in_record: ch21:4633-4853
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  - claim_id: 42e97d5d-df3d-4097-90f1-a872297efb89
+    claim_hash: f1fa1db4eb2e97336b79b58a4a624764259956159a6290c57b69fbf21183c0b8
+    content: Eric Davis is a former member of the Advanced Aerospace Threat Identification Program (AATIP) and, at the time
+      of the quote, an employee of the Aerospace Corporation.
+    original_excerpt: —Eric Davis, former member of AATIP, current employee of the Aerospace Corporation
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 0cc52b04-a65c-4580-aaf9-4b3df6f47995
+        title: Aerospace Corporation
+        slug: aerospace-corporation
+      - node_id: 6c1618c8-50db-42c9-860e-6d736ef280bf
+        title: Advanced Aerospace Threat Identification Program (AATIP)
+        slug: advanced-aerospace-threat-identification-program-aatip
+      - node_id: 9ab76638-a596-48f1-9a58-9c9251cc97f3
+        title: Eric Davis
+        slug: eric-davis
+    date: null
+    date_end: null
+    location_in_record: ch35:5603-5673
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  - claim_id: 05b4bf73-53dc-40ea-bd3d-b02a9cf4d1a9
+    claim_hash: 75b97489216fb84599127fa0124b27a43277a4730e55daaa1d2eca6d1db7b303
+    content: Tim Taylor worked at The Aerospace Corporation.
+    original_excerpt: He's an aerospace corp.
+    claim_type: administrative
+    attestation: first_hand
+    speaker:
+      node_id: 24d00311-06ac-46a1-a2f5-c99f3f8e21b2
+      title: Chris Ramsay
+    provenance_chain:
+      origin_kind: speaker
+      origin: Chris Ramsay
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 0cc52b04-a65c-4580-aaf9-4b3df6f47995
+        title: Aerospace Corporation
+        slug: aerospace-corporation
+      - node_id: 6485c8ec-97af-4a6d-9547-34aee3eb5b87
+        title: Taylor
+        slug: taylor
+    date: null
+    date_end: null
+    location_in_record: 00:12:42.2-00:12:43.0
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: dc9d8bc8-9c1f-46b4-9b89-8d86b6b08e1d
+      record_title: Jesse Michels, UAPGerb & Chris Ramsay - Flying Saucer Diner
+      record_date: '2026-07-17'
+      record_reference: https://www.youtube.com/watch?v=HFLBDi87888
+      content_hash: sha256:7b2e272d7c82fdda745ee0354d7c9cc4b0d5ba5506015ca27edd9169a768b262
+      friendly_name: null
+  - claim_id: 8018b345-c3c7-454c-a5d2-ac428067dcf8
+    claim_hash: 22306ab49aa948eaf6504e9391fcfdce0bf2d6e723e522987a698b6670699a40
+    content: Edward C. Aldridge was chief executive of The Aerospace Corporation.
+    original_excerpt: I mean, this guy was CEO of the Aerospace Corporation.
+    claim_type: administrative
+    attestation: null
+    speaker:
+      node_id: 0b47cac5-b9cc-44ea-a2aa-5cbd39a0d21a
+      title: Unidentified Aerial Phenomena (UAP) Gerb
+    provenance_chain:
+      origin_kind: unattributed
+      origin: narration by UAP Gerb
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 0cc52b04-a65c-4580-aaf9-4b3df6f47995
+        title: Aerospace Corporation
+        slug: aerospace-corporation
+      - node_id: 989ce2ef-ea09-466d-99ad-6ba8785a5823
+        title: Edward C. Aldridge
+        slug: edward-c-aldridge
+    date: null
+    date_end: null
+    location_in_record: 00:52:03.4-00:52:05.6
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: dc9d8bc8-9c1f-46b4-9b89-8d86b6b08e1d
+      record_title: Jesse Michels, UAPGerb & Chris Ramsay - Flying Saucer Diner
+      record_date: '2026-07-17'
+      record_reference: https://www.youtube.com/watch?v=HFLBDi87888
+      content_hash: sha256:7b2e272d7c82fdda745ee0354d7c9cc4b0d5ba5506015ca27edd9169a768b262
+      friendly_name: null

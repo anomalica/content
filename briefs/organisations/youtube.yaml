@@ -1,0 +1,191 @@
+schema: anomalica/brief/1
+brief_hash: e7f727aec2a807bb31c4101456a1f0eaebb03715e4958967c493050bf5574999
+page:
+  kind: entity
+  node_id: c61b8532-0c4f-4df1-a299-2487c93e4ef8
+  node_type: organisation
+  title: YouTube
+  slug: youtube
+  claim_count: 4
+  claim_count_total: 4
+generated:
+  graph_version: '2026-09-01T10:10:49.863545+00:00'
+size:
+  claims: 4
+  tokens_estimated: 1090
+  sized_against: 1050000
+publication:
+  status: published
+  note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
+    transcripts are gated elsewhere.
+belonging:
+  verified: 0
+  suspect_excluded: 0
+  unreviewed: 4
+related_nodes:
+  - node_id: 4d8ce136-e1b9-4cdd-b892-05aeb5855dcd
+    title: Disclosure Project Investigations (DPI) archive
+    node_type: document
+    slug: disclosure-project-investigations-dpi-archive
+    shared_claims: 1
+  - node_id: a3edcb4f-f0b5-42c4-8b04-57dc3744c380
+    title: James Fox
+    node_type: person
+    slug: james-fox
+    shared_claims: 1
+  - node_id: 91228f6b-79b5-483a-a62b-c98f5eed12ab
+    title: Jason Quitt
+    node_type: person
+    slug: jason-quitt
+    shared_claims: 1
+  - node_id: 5ee4362d-c09b-44a8-a3be-8bd9c05f4c78
+    title: United States Navy (USN)
+    node_type: organisation
+    slug: united-states-navy-usn
+    shared_claims: 1
+claims:
+  - claim_id: a5ee651e-2128-4b05-8f4e-6ffc0818cc33
+    claim_hash: 0e23f405f432132cfb1760fd0a998b8553a28553d56019087004c6b2ff600eb5
+    content: The FLIR video of the 2004 USS Nimitz Tic Tac object was publicly available on YouTube for years before the United
+      States government officially released it.
+    original_excerpt: Granted, so the video's been out, it actually was on YouTube for years before the government released
+      it.
+    claim_type: observation
+    attestation: first_hand
+    speaker:
+      node_id: c09e3558-1732-4676-a218-d67d285d98ef
+      title: David Fravor
+    provenance_chain:
+      origin_kind: speaker
+      origin: David Fravor
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 5ee4362d-c09b-44a8-a3be-8bd9c05f4c78
+        title: United States Navy (USN)
+        slug: united-states-navy-usn
+      - node_id: c61b8532-0c4f-4df1-a299-2487c93e4ef8
+        title: YouTube
+        slug: youtube
+    date: null
+    date_end: null
+    location_in_record: 01:34:44.0-01:34:50.5
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 0157e540-a945-4b2a-acdf-6c449172dcd6
+      record_title: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering | Lex Fridman Podcast #122'
+      record_date: '2020-09-08'
+      record_reference: https://www.youtube.com/watch?v=aB8zcAttP1E
+      content_hash: sha256:135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19fd6afb8a
+      friendly_name: 2020-09-08-video-david-fravor-ufos-aliens-fighter-jets-and-aerospace.v2
+  - claim_id: cdd63f41-eff6-446f-b4c9-2e22e5f6b161
+    claim_hash: 1e4247892479587b8f88463da073553b6835d7876165f96737e173d1ff830819
+    content: The FLIR video of the 2004 USS Nimitz Tic Tac object first appeared publicly on strangeland.com before being
+      uploaded to YouTube.
+    original_excerpt: So next thing you know, it ends up on YouTube.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: c09e3558-1732-4676-a218-d67d285d98ef
+      title: David Fravor
+    provenance_chain:
+      origin_kind: speaker
+      origin: David Fravor
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: c61b8532-0c4f-4df1-a299-2487c93e4ef8
+        title: YouTube
+        slug: youtube
+    date: null
+    date_end: null
+    location_in_record: 01:35:29.9-01:35:31.9
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 0157e540-a945-4b2a-acdf-6c449172dcd6
+      record_title: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering | Lex Fridman Podcast #122'
+      record_date: '2020-09-08'
+      record_reference: https://www.youtube.com/watch?v=aB8zcAttP1E
+      content_hash: sha256:135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19fd6afb8a
+      friendly_name: 2020-09-08-video-david-fravor-ufos-aliens-fighter-jets-and-aerospace.v2
+  - claim_id: cd30a563-53e6-45ce-9952-3f3fdad747e5
+    claim_hash: 39f0e7f6363b701bddf76d9efbba31e47e7a241b2f2baabcef9508daf85cae3e
+    content: In the raw interview recordings held in the Disclosure Project Investigations (DPI) archive, James Fox can be
+      heard beginning to ask questions before the recording cuts, unlike the versions posted to YouTube.
+    original_excerpt: not like the interview here posted to YouTube, but in the archives of the DPI archive, you can hear
+      sort of the raw interview. And at certain parts, James Fox will start to ask a question, then it'll just cut.
+    claim_type: observation
+    attestation: first_hand
+    speaker:
+      node_id: 0b47cac5-b9cc-44ea-a2aa-5cbd39a0d21a
+      title: Unidentified Aerial Phenomena (UAP) Gerb
+    provenance_chain:
+      origin_kind: speaker
+      origin: UAP Gerb
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 4d8ce136-e1b9-4cdd-b892-05aeb5855dcd
+        title: Disclosure Project Investigations (DPI) archive
+        slug: disclosure-project-investigations-dpi-archive
+      - node_id: a3edcb4f-f0b5-42c4-8b04-57dc3744c380
+        title: James Fox
+        slug: james-fox
+      - node_id: c61b8532-0c4f-4df1-a299-2487c93e4ef8
+        title: YouTube
+        slug: youtube
+    date: null
+    date_end: null
+    location_in_record: 01:26:42.3-01:26:53.5
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: dc9d8bc8-9c1f-46b4-9b89-8d86b6b08e1d
+      record_title: Jesse Michels, UAPGerb & Chris Ramsay - Flying Saucer Diner
+      record_date: '2026-07-17'
+      record_reference: https://www.youtube.com/watch?v=HFLBDi87888
+      content_hash: sha256:7b2e272d7c82fdda745ee0354d7c9cc4b0d5ba5506015ca27edd9169a768b262
+      friendly_name: null
+  - claim_id: c0a45f2f-f586-4e82-8ba7-35437f34d27d
+    claim_hash: 65d9754b013246719805991a184abae943f4d1f56d01d6a8858a379027ab5879
+    content: When Jason Quitt's sleep paralysis episodes began in the early 2000s, YouTube did not yet exist.
+    original_excerpt: I couldn't go on YouTube. It didn't exist yet.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 91228f6b-79b5-483a-a62b-c98f5eed12ab
+      title: Jason Quitt
+    provenance_chain:
+      origin_kind: speaker
+      origin: Jason Quitt
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 91228f6b-79b5-483a-a62b-c98f5eed12ab
+        title: Jason Quitt
+        slug: jason-quitt
+      - node_id: c61b8532-0c4f-4df1-a299-2487c93e4ef8
+        title: YouTube
+        slug: youtube
+    date: null
+    date_end: null
+    location_in_record: 00:04:56.3-00:04:58.2
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: b0f8ff5d-db19-45e1-abaa-391d63833bec
+      record_title: Researcher Describes Strange Encounters With Other Beings - Jason Quitt | Ep. 98
+      record_date: '2026-08-07'
+      record_reference: https://www.youtube.com/watch?v=JsPE3o-PJms
+      content_hash: sha256:474630c81ceb39029e473c41a62306341a264aa94e100930de6ceb845884cf57
+      friendly_name: null

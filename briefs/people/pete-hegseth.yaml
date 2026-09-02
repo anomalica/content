@@ -1,0 +1,183 @@
+schema: anomalica/brief/1
+brief_hash: 6bfde1062b8eac5c38dbd231d4139593103e4be51802913373000c3776dbfc2b
+page:
+  kind: entity
+  node_id: 378be804-4ade-409d-89e4-2354e375377d
+  node_type: person
+  title: Pete Hegseth
+  slug: pete-hegseth
+  claim_count: 3
+  claim_count_total: 3
+generated:
+  graph_version: '2026-09-01T10:10:49.863545+00:00'
+size:
+  claims: 3
+  tokens_estimated: 990
+  sized_against: 1050000
+publication:
+  status: published
+  note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
+    transcripts are gated elsewhere.
+belonging:
+  verified: 0
+  suspect_excluded: 0
+  unreviewed: 3
+related_nodes:
+  - node_id: 816c219b-6372-49f6-9579-5eeabb9a7474
+    title: Donald Trump
+    node_type: person
+    slug: donald-trump
+    shared_claims: 2
+  - node_id: d9d1b2e0-e686-48ba-8687-2156ab38abf1
+    title: 2023-10 All-Domain Anomaly Resolution Office (AARO)-documented Unidentified Aerial Phenomena (UAP) event (two-day)
+    node_type: event
+    slug: 2023-10-all-domain-anomaly-resolution-office-aaro-documented-unidentified-aerial-phenomena-uap-event-two-day
+    shared_claims: 1
+  - node_id: e79e207c-a848-4eb7-9246-07587b20d2c1
+    title: All-domain Anomaly Resolution Office (AARO)
+    node_type: organisation
+    slug: all-domain-anomaly-resolution-office-aaro
+    shared_claims: 1
+  - node_id: f20ecd0e-e0be-46d4-91d1-a2280258a6db
+    title: Donald Trump's cabinet meeting remarks on extraterrestrials, 2026-08-11
+    node_type: event
+    slug: 2026-08-11-donald-trumps-cabinet-meeting-remarks-on-extraterrestrials
+    shared_claims: 1
+  - node_id: 4608d6f8-17e4-4eea-81c5-f59dcf727853
+    title: Jon Kosloski
+    node_type: person
+    slug: jon-kosloski
+    shared_claims: 1
+  - node_id: 981b261d-7fb4-408c-a643-0bd820a4c4ca
+    title: Marco Rubio
+    node_type: person
+    slug: marco-rubio
+    shared_claims: 1
+claims:
+  - claim_id: 0bdbf388-122d-418e-8f69-a6c6e22eb580
+    claim_hash: 6617c99290f0b5bd4df47c1b76c26992df7d25fd50c790f64633f44cf9f4573b
+    content: Avi Loeb considers that Jon Kosloski should have written a classified memo to the Secretary of War, Pete Hegseth,
+      about the two-day October 2023 event instead of releasing the All-Domain Anomaly Resolution Office (AARO) third tranche
+      historical record report to the public, given the possibility the observed objects could be human-made and a matter
+      of national security.
+    original_excerpt: he should have written a memo to the Secretary of War, Pete Hegseth, that would have been classified
+      because if he suspected that it could be human-made, I mean, these objects, these orbs, then it's a matter of national
+      security and you don't want the adversarial nations to be aware of what we know and so forth.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 5f29d662-0d3b-4af3-ab7d-16cbb0a33d30
+      title: Avi Loeb
+    provenance_chain:
+      origin_kind: speaker
+      origin: Avi Loeb
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 378be804-4ade-409d-89e4-2354e375377d
+        title: Pete Hegseth
+        slug: pete-hegseth
+      - node_id: 4608d6f8-17e4-4eea-81c5-f59dcf727853
+        title: Jon Kosloski
+        slug: jon-kosloski
+      - node_id: d9d1b2e0-e686-48ba-8687-2156ab38abf1
+        title: 2023-10 All-Domain Anomaly Resolution Office (AARO)-documented Unidentified Aerial Phenomena (UAP) event (two-day)
+        slug: 2023-10-all-domain-anomaly-resolution-office-aaro-documented-unidentified-aerial-phenomena-uap-event-two-day
+      - node_id: e79e207c-a848-4eb7-9246-07587b20d2c1
+        title: All-domain Anomaly Resolution Office (AARO)
+        slug: all-domain-anomaly-resolution-office-aaro
+    date: null
+    date_end: null
+    location_in_record: 00:18:24.6-00:18:44.6
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 8c1d10dd-26ad-481a-9699-761ecf181743
+      record_title: 'Episode 73: Science vs. Secrecy'
+      record_date: '2026-06-30'
+      record_reference: https://www.youtube.com/watch?v=tZHuAZpLdFw
+      content_hash: sha256:ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230a948eb3d
+      friendly_name: null
+  - claim_id: 3b91aebe-5a83-42d2-9265-35c1d387ca86
+    claim_hash: f08c16842a9d852da660964f045884e9086d4e636616cff27ed8d7afbf8fd852
+    content: President Donald Trump has tasked Secretary of Defense Pete Hegseth with determining what the detected objects
+      are and capturing them.
+    original_excerpt: President Trump has tasked the Secretary of War, Pete Hegseth, to find out what these objects are and
+      to capture them.
+    claim_type: hearsay
+    attestation: second_hand
+    speaker:
+      node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+      title: Ross Coulthart
+    provenance_chain:
+      origin_kind: anonymous
+      origin: a person claiming to have knowledge of the Trump administration's UAP operations
+      relay:
+        - Ross Coulthart
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 378be804-4ade-409d-89e4-2354e375377d
+        title: Pete Hegseth
+        slug: pete-hegseth
+      - node_id: 816c219b-6372-49f6-9579-5eeabb9a7474
+        title: Donald Trump
+        slug: donald-trump
+    date: null
+    date_end: null
+    location_in_record: 00:20:36.2-00:20:45.5
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 308dd5bd-eed8-4f08-b15a-98f7bb989522
+      record_title: 'Ross Coulthart Q&A: Skywatcher didn''t disappear — it went government | Reality Check'
+      record_date: '2026-08-09'
+      record_reference: https://www.youtube.com/watch?v=IOZdVCoZ51Q
+      content_hash: sha256:76d7e7613c0a44bdb8d7e5ce87b2a23defe4a987cf1865be3ae1080cd1893d21
+      friendly_name: null
+  - claim_id: fa4cb2d1-198c-492d-a5dd-14ef7f100d78
+    claim_hash: 5525f16eb5783fbdd2c5f79b9a84714cd21e88e9dccfc6cfe07dc02a7b39a78d
+    content: Donald Trump made his remarks about releasing extraterrestrial information at a cabinet meeting with Marco Rubio
+      seated on one side and Pete Hegseth on the other.
+    original_excerpt: He was in a cabinet conference, cabinet meeting, and with Marco Rubio on one side and Pete Hegseth on
+      the other.
+    claim_type: administrative
+    attestation: null
+    speaker:
+      node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+      title: Ross Coulthart
+    provenance_chain:
+      origin_kind: unattributed
+      origin: Ross Coulthart's narration
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 378be804-4ade-409d-89e4-2354e375377d
+        title: Pete Hegseth
+        slug: pete-hegseth
+      - node_id: 816c219b-6372-49f6-9579-5eeabb9a7474
+        title: Donald Trump
+        slug: donald-trump
+      - node_id: 981b261d-7fb4-408c-a643-0bd820a4c4ca
+        title: Marco Rubio
+        slug: marco-rubio
+      - node_id: f20ecd0e-e0be-46d4-91d1-a2280258a6db
+        title: Donald Trump's cabinet meeting remarks on extraterrestrials, 2026-08-11
+        slug: 2026-08-11-donald-trumps-cabinet-meeting-remarks-on-extraterrestrials
+    date: '2026-08-11'
+    date_end: null
+    location_in_record: 00:00:38.0-00:00:44.0
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 9038fd78-74aa-4d65-968a-0cd2808a3d13
+      record_title: Ross Coulthart Answers Your Biggest UAP Questions | Reality Check with Ross Coulthart
+      record_date: '2026-08-11'
+      record_reference: https://www.youtube.com/watch?v=7xtGoDVjqdE
+      content_hash: sha256:ec4ba3a9ba6cfe6598002b0b2441a39aac6847d339f856b1e24752aeb484b3a4
+      friendly_name: null

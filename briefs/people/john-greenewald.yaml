@@ -1,0 +1,539 @@
+schema: anomalica/brief/1
+brief_hash: 8ae02655974e779c60bbe44b25f47773fc19a94e0a70ef4fa574cf3257c399e3
+page:
+  kind: entity
+  node_id: 7155e2e0-0cd2-4ee7-963d-6e47c3f093f2
+  node_type: person
+  title: John Greenewald
+  slug: john-greenewald
+  claim_count: 11
+  claim_count_total: 11
+generated:
+  graph_version: '2026-09-01T10:10:49.863545+00:00'
+size:
+  claims: 11
+  tokens_estimated: 3330
+  sized_against: 1050000
+publication:
+  status: published
+  note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
+    transcripts are gated elsewhere.
+belonging:
+  verified: 0
+  suspect_excluded: 0
+  unreviewed: 11
+related_nodes:
+  - node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+    title: Luis Elizondo
+    node_type: person
+    slug: luis-elizondo
+    shared_claims: 6
+  - node_id: 6c1618c8-50db-42c9-860e-6d736ef280bf
+    title: Advanced Aerospace Threat Identification Program (AATIP)
+    node_type: project
+    slug: advanced-aerospace-threat-identification-program-aatip
+    shared_claims: 3
+  - node_id: 49e20a47-e0d6-429d-8e8e-f20f6705a850
+    title: The Black Vault
+    node_type: organisation
+    slug: the-black-vault
+    shared_claims: 3
+  - node_id: 7a7d3dc5-791a-4393-a8bd-7afd375c52f3
+    title: Freedom of Information Act (FOIA)
+    node_type: topic
+    slug: freedom-of-information-act-foia
+    shared_claims: 2
+  - node_id: 290badaf-6308-4425-9c37-b1da518c0882
+    title: Kari DeLonge
+    node_type: person
+    slug: kari-delonge
+    shared_claims: 2
+  - node_id: a3a02857-b28d-434b-b1ad-e6c2d491e8bd
+    title: To the Stars Academy of Arts and Science (TTSA)
+    node_type: organisation
+    slug: to-the-stars-academy-of-arts-and-science-ttsa
+    shared_claims: 2
+  - node_id: 65058869-076f-47d0-92ea-f8daf08b94cf
+    title: Barack Obama
+    node_type: person
+    slug: barack-obama
+    shared_claims: 1
+  - node_id: 6ab5988e-2f69-4938-8ed9-72e00bd92150
+    title: Cooperative Research and Development Agreement (CRADA) between To The Stars Academy of Arts & Sciences (TTSA) and
+      US Army
+    node_type: project
+    slug: cooperative-research-and-development-agreement-crada-between-to-the-stars-academy-of-arts-sciences-ttsa-and-us-army
+    shared_claims: 1
+  - node_id: f9c1f5e2-7a4b-4767-9954-a9d0f73bd908
+    title: Office of the Under Secretary of Defense for Intelligence (OUSDI)
+    node_type: organisation
+    slug: office-of-the-under-secretary-of-defense-for-intelligence-ousdi
+    shared_claims: 1
+  - node_id: aefac202-9f9b-433f-81d3-1d384551d045
+    title: Tim McMillan
+    node_type: person
+    slug: tim-mcmillan
+    shared_claims: 1
+  - node_id: c3938d3d-6d68-4a6d-94db-45321eed124d
+    title: Tom DeLonge
+    node_type: person
+    slug: tom-delonge
+    shared_claims: 1
+  - node_id: 96278e27-75e6-49fe-8ea6-a0f4f5ff1f8a
+    title: United States Army
+    node_type: organisation
+    slug: united-states-army
+    shared_claims: 1
+  - node_id: 99f08514-5471-4eaf-bce3-46c474a8d304
+    title: United States Department of Defense (DoD)
+    node_type: organisation
+    slug: united-states-department-of-defense-dod
+    shared_claims: 1
+  - node_id: 5ee4362d-c09b-44a8-a3be-8bd9c05f4c78
+    title: United States Navy (USN)
+    node_type: organisation
+    slug: united-states-navy-usn
+    shared_claims: 1
+claims:
+  - claim_id: ce8f0d36-3dc7-47cc-b33f-2bc78cb52430
+    claim_hash: f3bc6e43292b3c814e47fa1b297fb6f198ab79837ee749cd7363facb929a8ac1
+    content: John Greenewald was initially enthusiastic about To The Stars Academy of Arts & Science but became increasingly
+      sceptical when he was unable to verify many of Luis Elizondo's claims about the government's UFO programme through Freedom
+      of Information Act (FOIA) requests and conversations with Pentagon representatives.
+    original_excerpt: Initially enthusiastic about To the Stars, Greenewald became increasingly skeptical when he was unable
+      to verify many of Elizondo’s claims about the government’s UFO program through FOIA requests and conversations with
+      Pentagon representatives.
+    claim_type: observation
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 7155e2e0-0cd2-4ee7-963d-6e47c3f093f2
+        title: John Greenewald
+        slug: john-greenewald
+      - node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+        title: Luis Elizondo
+        slug: luis-elizondo
+      - node_id: a3a02857-b28d-434b-b1ad-e6c2d491e8bd
+        title: To the Stars Academy of Arts and Science (TTSA)
+        slug: to-the-stars-academy-of-arts-and-science-ttsa
+    date: null
+    date_end: null
+    location_in_record: char:15769-15997
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: b8671ec4-886d-48bb-87c4-f4c4e0baf0fe
+      record_title: The Media Loves This UFO Expert Who Says He Worked for an Obscure Pentagon Program. Did He?
+      record_date: '2019-06-01'
+      record_reference: https://theintercept.com/2019/06/01/ufo-unidentified-history-channel-luis-elizondo-pentagon/
+      content_hash: sha256:f6e5fb77226638f01db033f2f157e830aba705e5fbf996540cdd0cf29e0cff2c
+      friendly_name: 2019-06-01-web-the-media-loves-this-ufo-expert-who-says-he-worked-for-an
+  - claim_id: 2f5610d4-c62b-4a94-abdf-4f48c77099db
+    claim_hash: bc00e69392cf61ec9f3156b3924da0385d9262041125d4b6282a67da937d7d4f
+    content: John Greenewald reached out to To The Stars Academy of Arts & Science spokesperson Kari DeLonge, Tom DeLonge's
+      sister, for more information about Luis Elizondo's involvement in the Advanced Aerospace Threat Identification Program
+      (AATIP).
+    original_excerpt: Greenewald reached out to To the Stars spokesperson Kari DeLonge (Tom’s sister) for more information
+      about Elizondo’s involvement in AATIP.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 290badaf-6308-4425-9c37-b1da518c0882
+        title: Kari DeLonge
+        slug: kari-delonge
+      - node_id: 6c1618c8-50db-42c9-860e-6d736ef280bf
+        title: Advanced Aerospace Threat Identification Program (AATIP)
+        slug: advanced-aerospace-threat-identification-program-aatip
+      - node_id: 7155e2e0-0cd2-4ee7-963d-6e47c3f093f2
+        title: John Greenewald
+        slug: john-greenewald
+      - node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+        title: Luis Elizondo
+        slug: luis-elizondo
+      - node_id: a3a02857-b28d-434b-b1ad-e6c2d491e8bd
+        title: To the Stars Academy of Arts and Science (TTSA)
+        slug: to-the-stars-academy-of-arts-and-science-ttsa
+      - node_id: c3938d3d-6d68-4a6d-94db-45321eed124d
+        title: Tom DeLonge
+        slug: tom-delonge
+    date: null
+    date_end: null
+    location_in_record: char:16028-16161
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: b8671ec4-886d-48bb-87c4-f4c4e0baf0fe
+      record_title: The Media Loves This UFO Expert Who Says He Worked for an Obscure Pentagon Program. Did He?
+      record_date: '2019-06-01'
+      record_reference: https://theintercept.com/2019/06/01/ufo-unidentified-history-channel-luis-elizondo-pentagon/
+      content_hash: sha256:f6e5fb77226638f01db033f2f157e830aba705e5fbf996540cdd0cf29e0cff2c
+      friendly_name: 2019-06-01-web-the-media-loves-this-ufo-expert-who-says-he-worked-for-an
+  - claim_id: 86220c1a-8014-4594-ae13-ee72c1ba8c2c
+    claim_hash: 4e05e0db596d4e1d4515117c856e365c9d2b17349774be5101f17cd7fabd51e9
+    content: Tim McMillan has a longtime interest in UFOs, like John Greenewald, but has come to doubt Luis Elizondo's involvement
+      with any government UFO program.
+    original_excerpt: who, like Greenewald, has a longtime interest in UFOs but has come to doubt Elizondo’s involvement with
+      any government UFO program.
+    claim_type: opinion
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 7155e2e0-0cd2-4ee7-963d-6e47c3f093f2
+        title: John Greenewald
+        slug: john-greenewald
+      - node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+        title: Luis Elizondo
+        slug: luis-elizondo
+      - node_id: aefac202-9f9b-433f-81d3-1d384551d045
+        title: Tim McMillan
+        slug: tim-mcmillan
+    date: null
+    date_end: null
+    location_in_record: char:19108-19231
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: b8671ec4-886d-48bb-87c4-f4c4e0baf0fe
+      record_title: The Media Loves This UFO Expert Who Says He Worked for an Obscure Pentagon Program. Did He?
+      record_date: '2019-06-01'
+      record_reference: https://theintercept.com/2019/06/01/ufo-unidentified-history-channel-luis-elizondo-pentagon/
+      content_hash: sha256:f6e5fb77226638f01db033f2f157e830aba705e5fbf996540cdd0cf29e0cff2c
+      friendly_name: 2019-06-01-web-the-media-loves-this-ufo-expert-who-says-he-worked-for-an
+  - claim_id: c9ea7def-d7f3-4238-a727-d895ecc2b2e5
+    claim_hash: f963667a0e3694f49ef50fb7ad03bcf52f6fabf9e73b96f296fb5b52a17149df
+    content: By the time of Kari DeLonge's email, John Greenewald had become frustrated at the lack of tangible information
+      about the Advanced Aerospace Threat Identification Program (AATIP) and Luis Elizondo's role in it.
+    original_excerpt: At the time, Greenewald had become frustrated at the lack of tangible information about AATIP and Elizondo’s
+      role
+    claim_type: observation
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 6c1618c8-50db-42c9-860e-6d736ef280bf
+        title: Advanced Aerospace Threat Identification Program (AATIP)
+        slug: advanced-aerospace-threat-identification-program-aatip
+      - node_id: 7155e2e0-0cd2-4ee7-963d-6e47c3f093f2
+        title: John Greenewald
+        slug: john-greenewald
+      - node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+        title: Luis Elizondo
+        slug: luis-elizondo
+    date: null
+    date_end: null
+    location_in_record: char:3202-3311
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: b8671ec4-886d-48bb-87c4-f4c4e0baf0fe
+      record_title: The Media Loves This UFO Expert Who Says He Worked for an Obscure Pentagon Program. Did He?
+      record_date: '2019-06-01'
+      record_reference: https://theintercept.com/2019/06/01/ufo-unidentified-history-channel-luis-elizondo-pentagon/
+      content_hash: sha256:f6e5fb77226638f01db033f2f157e830aba705e5fbf996540cdd0cf29e0cff2c
+      friendly_name: 2019-06-01-web-the-media-loves-this-ufo-expert-who-says-he-worked-for-an
+  - claim_id: 0c202e09-6af9-4061-b72e-e0be3ef37047
+    claim_hash: 8782000b0be4f32933dd550877fcd47f18b4d28a32ca3645e18d71f100ed98e7
+    content: Luis Elizondo spurned John Greenewald's interview requests.
+    original_excerpt: Elizondo had spurned Greenewald’s interview requests.
+    claim_type: observation
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 7155e2e0-0cd2-4ee7-963d-6e47c3f093f2
+        title: John Greenewald
+        slug: john-greenewald
+      - node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+        title: Luis Elizondo
+        slug: luis-elizondo
+    date: null
+    date_end: null
+    location_in_record: char:3331-3375
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: b8671ec4-886d-48bb-87c4-f4c4e0baf0fe
+      record_title: The Media Loves This UFO Expert Who Says He Worked for an Obscure Pentagon Program. Did He?
+      record_date: '2019-06-01'
+      record_reference: https://theintercept.com/2019/06/01/ufo-unidentified-history-channel-luis-elizondo-pentagon/
+      content_hash: sha256:f6e5fb77226638f01db033f2f157e830aba705e5fbf996540cdd0cf29e0cff2c
+      friendly_name: 2019-06-01-web-the-media-loves-this-ufo-expert-who-says-he-worked-for-an
+  - claim_id: f12b4bdf-9ae9-4f34-b626-60a352113648
+    claim_hash: 731c61c57b1f1d1cd79aa8c694661fde0392e48a830b735c82c5b24f71e96e39
+    content: John Greenewald asked Kari DeLonge specifically where Luis Elizondo worked within the United States Department
+      of Defense (DoD) when he ran the Advanced Aerospace Threat Identification Program (AATIP).
+    original_excerpt: Greenewald told me that he had asked DeLonge specifically where Elizondo worked within the Department
+      of Defense when he ran AATIP.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 7155e2e0-0cd2-4ee7-963d-6e47c3f093f2
+      title: John Greenewald
+    provenance_chain:
+      origin_kind: speaker
+      origin: John Greenewald
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 290badaf-6308-4425-9c37-b1da518c0882
+        title: Kari DeLonge
+        slug: kari-delonge
+      - node_id: 6c1618c8-50db-42c9-860e-6d736ef280bf
+        title: Advanced Aerospace Threat Identification Program (AATIP)
+        slug: advanced-aerospace-threat-identification-program-aatip
+      - node_id: 7155e2e0-0cd2-4ee7-963d-6e47c3f093f2
+        title: John Greenewald
+        slug: john-greenewald
+      - node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+        title: Luis Elizondo
+        slug: luis-elizondo
+      - node_id: 99f08514-5471-4eaf-bce3-46c474a8d304
+        title: United States Department of Defense (DoD)
+        slug: united-states-department-of-defense-dod
+    date: null
+    date_end: null
+    location_in_record: char:3386-3511
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: b8671ec4-886d-48bb-87c4-f4c4e0baf0fe
+      record_title: The Media Loves This UFO Expert Who Says He Worked for an Obscure Pentagon Program. Did He?
+      record_date: '2019-06-01'
+      record_reference: https://theintercept.com/2019/06/01/ufo-unidentified-history-channel-luis-elizondo-pentagon/
+      content_hash: sha256:f6e5fb77226638f01db033f2f157e830aba705e5fbf996540cdd0cf29e0cff2c
+      friendly_name: 2019-06-01-web-the-media-loves-this-ufo-expert-who-says-he-worked-for-an
+  - claim_id: f66c86f4-cc07-4c4b-a267-7decee52d115
+    claim_hash: a9e71d3f928c9f587ebd0fee4f5bc28fbadce7bff65d1df080cad2ed0f19ce4c
+    content: On 2019-09-11, John Greenewald reported via The Black Vault that the US Navy had released the dates of three
+      officially acknowledged encounters with unidentified phenomena.
+    original_excerpt: John Greenewald Jr, 'U.S. Navy Releases Dates of Three Officially Acknowledged Encounters with Phenomena',
+      The Black Vault, 11 September 2019.
+    claim_type: administrative
+    attestation: third_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: named
+      origin: United States Navy
+      relay:
+        - John Greenewald
+        - The Black Vault
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 49e20a47-e0d6-429d-8e8e-f20f6705a850
+        title: The Black Vault
+        slug: the-black-vault
+      - node_id: 5ee4362d-c09b-44a8-a3be-8bd9c05f4c78
+        title: United States Navy (USN)
+        slug: united-states-navy-usn
+      - node_id: 7155e2e0-0cd2-4ee7-963d-6e47c3f093f2
+        title: John Greenewald
+        slug: john-greenewald
+    date: '2019-09-11'
+    date_end: null
+    location_in_record: ch34:47692-47829
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: fbe357d8-af29-4fa1-b676-e4819f6eb946
+    claim_hash: ad6f44c252e1d6b4755612162c43ec49751383d3af336a5eeba9387d108b6f7a
+    content: John Greenewald reported via The Black Vault on 2019-10-18 that the US Army had released its agreement with To
+      The Stars Academy of Arts & Sciences.
+    original_excerpt: John Greenewald/TheBlackVault.com, 'U.S. Army Releases Agreement with To The Stars Academy of Arts &
+      Science', 18 October 2019.
+    claim_type: administrative
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: named
+      origin: John Greenewald
+      relay:
+        - The Black Vault
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 49e20a47-e0d6-429d-8e8e-f20f6705a850
+        title: The Black Vault
+        slug: the-black-vault
+      - node_id: 6ab5988e-2f69-4938-8ed9-72e00bd92150
+        title: Cooperative Research and Development Agreement (CRADA) between To The Stars Academy of Arts & Sciences (TTSA)
+          and US Army
+        slug: cooperative-research-and-development-agreement-crada-between-to-the-stars-academy-of-arts-sciences-ttsa-and-us-army
+      - node_id: 7155e2e0-0cd2-4ee7-963d-6e47c3f093f2
+        title: John Greenewald
+        slug: john-greenewald
+      - node_id: 96278e27-75e6-49fe-8ea6-a0f4f5ff1f8a
+        title: United States Army
+        slug: united-states-army
+    date: '2019-10-18'
+    date_end: null
+    location_in_record: ch34:51759-51881
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: dd88e9df-d1b5-4faf-9f81-9bb8dc58eb73
+    claim_hash: 772a5eead6e9f0119b4f40067a38f5cbfc371d7d56163375b2e6200a386aa6b8
+    content: The Office of the Under Secretary of Defense for Intelligence and Security, a component of the Office of the
+      Secretary of Defense, located eight pages determined responsive to parts one and two of John Greenewald's Freedom of
+      Information Act request.
+    original_excerpt: The Under Secretary of Defense for Intelligence & Security, a component of the Office of the Secretary
+      of Defense, conducted a search of their records systems and located eight pages determined to be responsive to parts
+      one and two of your request.
+    claim_type: administrative
+    attestation: first_hand
+    speaker:
+      node_id: 52a81097-af0d-4b40-a084-fef72e901628
+      title: Stephanie L. Carr
+    provenance_chain:
+      origin_kind: speaker
+      origin: Stephanie L. Carr
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 7155e2e0-0cd2-4ee7-963d-6e47c3f093f2
+        title: John Greenewald
+        slug: john-greenewald
+      - node_id: f9c1f5e2-7a4b-4767-9954-a9d0f73bd908
+        title: Office of the Under Secretary of Defense for Intelligence (OUSDI)
+        slug: office-of-the-under-secretary-of-defense-for-intelligence-ousdi
+    date: null
+    date_end: null
+    location_in_record: char:569-809
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 76cc7d2f-448c-495d-b7fd-c60691cad7ea
+      record_title: 'FOIA Response 18-F-0324: AATIP and Luis Elizondo Documents'
+      record_date: '2022-08-17'
+      record_reference: null
+      content_hash: sha256:871c3dd25cbe67b03b3a67adb47e73855eb7c2c89dd185934191372a76b861a3
+      friendly_name: 2022-08-17-pdf-foia-response-18-f-0324-aatip-and-luis-elizondo-documents
+  - claim_id: 8daa4135-3d2f-4c59-9eb0-8301cdc7c67c
+    claim_hash: df8abf4100953ee1e40074a94152fea50ece242feaa033ff0dbd38f05234f0bf
+    content: John Greenewald filed a Freedom of Information Act request that returned information indicating either about
+      3,000 or about 30,000 references in Barack Obama's presidential documents.
+    original_excerpt: Did you see the John Greenwald thing where he filed a FOIA and he got information back, which indicated,
+      I can't remember if it's 3,000 or 30, I think it might've been 30,000 references in Obama's documents in his presidency
+    claim_type: testimony
+    attestation: second_hand
+    speaker:
+      node_id: ff0a86b8-8f3c-4291-94ed-c6d303875ce8
+      title: Jason Samosa
+    provenance_chain:
+      origin_kind: named
+      origin: John Greenewald
+      relay:
+        - John Greenewald's published FOIA result
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 65058869-076f-47d0-92ea-f8daf08b94cf
+        title: Barack Obama
+        slug: barack-obama
+      - node_id: 7155e2e0-0cd2-4ee7-963d-6e47c3f093f2
+        title: John Greenewald
+        slug: john-greenewald
+      - node_id: 7a7d3dc5-791a-4393-a8bd-7afd375c52f3
+        title: Freedom of Information Act (FOIA)
+        slug: freedom-of-information-act-foia
+    date: null
+    date_end: null
+    location_in_record: 00:53:49.7-00:54:01.2
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 64b84f95-238c-4ab7-a678-bee55f985b14
+      record_title: The UFO Cover-Up Leads to One Secret Society — and One Final Event
+      record_date: '2026-07-14'
+      record_reference: https://www.youtube.com/watch?v=kccrkCGGzX4
+      content_hash: sha256:d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7b5a1b98d
+      friendly_name: null
+  - claim_id: f9ee5e0d-0616-47b4-8a1e-7581249d08ca
+    claim_hash: 0805938fe11a537b81e6b46da02db453b624eba8e321c0b98657245bbbb79dae
+    content: John Greenewald runs The Black Vault, a Freedom of Information Act archive.
+    original_excerpt: '[note: John Greenewald - Researcher who runs The Black Vault FOIA archive]'
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: source record annotation
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 49e20a47-e0d6-429d-8e8e-f20f6705a850
+        title: The Black Vault
+        slug: the-black-vault
+      - node_id: 7155e2e0-0cd2-4ee7-963d-6e47c3f093f2
+        title: John Greenewald
+        slug: john-greenewald
+      - node_id: 7a7d3dc5-791a-4393-a8bd-7afd375c52f3
+        title: Freedom of Information Act (FOIA)
+        slug: freedom-of-information-act-foia
+    date: null
+    date_end: null
+    location_in_record: line 255
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 64b84f95-238c-4ab7-a678-bee55f985b14
+      record_title: The UFO Cover-Up Leads to One Secret Society — and One Final Event
+      record_date: '2026-07-14'
+      record_reference: https://www.youtube.com/watch?v=kccrkCGGzX4
+      content_hash: sha256:d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7b5a1b98d
+      friendly_name: null

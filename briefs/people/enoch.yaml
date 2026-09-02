@@ -1,0 +1,243 @@
+schema: anomalica/brief/1
+brief_hash: 6693a0504dab63158e2aa56dd10c55b29bff47ce099a407dd5005dd1a8979b84
+page:
+  kind: entity
+  node_id: 6bc3e622-15ad-4cd7-b677-a1e6a48d8f82
+  node_type: person
+  title: Enoch
+  slug: enoch
+  claim_count: 5
+  claim_count_total: 5
+generated:
+  graph_version: '2026-09-01T10:10:49.863545+00:00'
+size:
+  claims: 5
+  tokens_estimated: 1225
+  sized_against: 1050000
+publication:
+  status: published
+  note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
+    transcripts are gated elsewhere.
+belonging:
+  verified: 0
+  suspect_excluded: 0
+  unreviewed: 5
+related_nodes:
+  - node_id: 2b9d89f6-26e3-4780-bdbd-ca2b8c0f54e7
+    title: Book of Enoch
+    node_type: document
+    slug: book-of-enoch
+    shared_claims: 2
+  - node_id: 9ebd9127-8681-4ead-b17f-55709a8077e6
+    title: Billy Meier
+    node_type: person
+    slug: billy-meier
+    shared_claims: 1
+  - node_id: c3f4f1cc-c0bc-4445-aecc-4e94294abd12
+    title: Elijah
+    node_type: person
+    slug: elijah
+    shared_claims: 1
+  - node_id: cf23724b-96ce-4457-a706-f7051b12f5e7
+    title: Isaiah
+    node_type: person
+    slug: isaiah
+    shared_claims: 1
+  - node_id: 7faffb7d-e8b9-49a0-9423-93043e1cd093
+    title: Jeremiah
+    node_type: person
+    slug: jeremiah
+    shared_claims: 1
+  - node_id: 6c7d7ca7-93b2-49cd-a1b3-263fd3b38ba5
+    title: Jmmanuel
+    node_type: person
+    slug: jmmanuel
+    shared_claims: 1
+  - node_id: 62c47701-8125-4ed7-82bd-42cee17889fc
+    title: Muhammad
+    node_type: person
+    slug: muhammad
+    shared_claims: 1
+  - node_id: f01a8a37-0b9b-4e26-9a85-182ded89ee7f
+    title: Noah
+    node_type: person
+    slug: noah
+    shared_claims: 1
+claims:
+  - claim_id: 508f6d9d-8d90-4346-b926-48d8dabda5de
+    claim_hash: b05283074e2cfafcd648ebdba7ed4557e95c35c471f01fef779e170b88ae9db4
+    content: In the Book of Enoch, Enoch is the first Hebrew text figure to journey to Heaven, encounter God, and learn about
+      the hierarchy of angels.
+    original_excerpt: It's the first Hebrew text in which a man, Enoch, journeys to Heaven, encounters God, and learns about
+      the hierarchy of angels.
+    claim_type: administrative
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: document
+      origin: Book of Enoch
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 2b9d89f6-26e3-4780-bdbd-ca2b8c0f54e7
+        title: Book of Enoch
+        slug: book-of-enoch
+      - node_id: 6bc3e622-15ad-4cd7-b677-a1e6a48d8f82
+        title: Enoch
+        slug: enoch
+    date: null
+    date_end: null
+    location_in_record: ch13:1704-1824
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  - claim_id: 3bd74b9d-3884-4efd-92c9-154fcafe3bdc
+    claim_hash: 8569f487c62ee5a35b224c59adb6d7710b339656b1654ee5843036778c3a44fb
+    content: In the Book of Enoch, Enoch is described as Noah's grandfather.
+    original_excerpt: (Enoch is said to be Noah's grandfather.)
+    claim_type: administrative
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: document
+      origin: Book of Enoch
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 2b9d89f6-26e3-4780-bdbd-ca2b8c0f54e7
+        title: Book of Enoch
+        slug: book-of-enoch
+      - node_id: 6bc3e622-15ad-4cd7-b677-a1e6a48d8f82
+        title: Enoch
+        slug: enoch
+      - node_id: f01a8a37-0b9b-4e26-9a85-182ded89ee7f
+        title: Noah
+        slug: noah
+    date: null
+    date_end: null
+    location_in_record: ch13:2743-2770
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  - claim_id: e8a1cb1f-014d-4492-81f7-26fbc68895f2
+    claim_hash: 4ebcc3a0217246d827fca325ab2268719f9d9ef9a873deb741cc3ff3fbd76ddf
+    content: Henoch is the German version of the name Enoch.
+    original_excerpt: Henoch being, I guess, the German version of Enoch
+    claim_type: administrative
+    attestation: null
+    speaker:
+      node_id: 9645dd97-54a9-4d27-9cde-5e948ab7c2f5
+      title: Michael Horn
+    provenance_chain: null
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 6bc3e622-15ad-4cd7-b677-a1e6a48d8f82
+        title: Enoch
+        slug: enoch
+    date: null
+    date_end: null
+    location_in_record: 01:19:25.3-01:19:30.8
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 88d112ab-3b40-4882-a9ff-8d7d01c8431c
+      record_title: Revealing The Nordic Alien Prophecies - Michael Horn | DEBRIEFED ep. 92
+      record_date: '2026-06-12'
+      record_reference: https://www.youtube.com/watch?v=5Vk8V-clYLU
+      content_hash: sha256:68890827242b3c71c1a1df2f1da00ac2d0f033be148be34bf2487159c9b82337
+      friendly_name: 2026-06-12-video-revealing-the-nordic-alien-prophecies-michael-horn.v2
+  - claim_id: 2aa61f7c-f386-4b7b-a782-331a3305eae9
+    claim_hash: ac807f1b0fe3ec4599aa791e5db405c72d72ee8497a239ee819ccd876d56de9d
+    content: The Henoch document is said to have been created thousands of years ago by the prophet Enoch.
+    original_excerpt: we're told that this document actually was created Thousands of years ago by the prophet Enoch.
+    claim_type: testimony
+    attestation: null
+    speaker:
+      node_id: 9645dd97-54a9-4d27-9cde-5e948ab7c2f5
+      title: Michael Horn
+    provenance_chain: null
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 6bc3e622-15ad-4cd7-b677-a1e6a48d8f82
+        title: Enoch
+        slug: enoch
+    date: null
+    date_end: null
+    location_in_record: 01:21:18.6-01:21:38.6
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 88d112ab-3b40-4882-a9ff-8d7d01c8431c
+      record_title: Revealing The Nordic Alien Prophecies - Michael Horn | DEBRIEFED ep. 92
+      record_date: '2026-06-12'
+      record_reference: https://www.youtube.com/watch?v=5Vk8V-clYLU
+      content_hash: sha256:68890827242b3c71c1a1df2f1da00ac2d0f033be148be34bf2487159c9b82337
+      friendly_name: 2026-06-12-video-revealing-the-nordic-alien-prophecies-michael-horn.v2
+  - claim_id: 8977fa2b-2ec7-4793-879f-c67f354fa83d
+    claim_hash: 850d2f9e3fb58573e51a28353b6d028f80316478065fe3c628f04d1c42f74a50
+    content: The prophets prior to Billy Meier in the lineage are Enoch, Elijah, Isaiah, Jeremiah, Jmmanuel, and Muhammad.
+    original_excerpt: Well, you've got Enoch or Henoch, Elijah, Isaiah, Jeremiah, Emmanuel. We'll get back there. Muhammad
+      and Billy.
+    claim_type: testimony
+    attestation: null
+    speaker:
+      node_id: 9645dd97-54a9-4d27-9cde-5e948ab7c2f5
+      title: Michael Horn
+    provenance_chain: null
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 62c47701-8125-4ed7-82bd-42cee17889fc
+        title: Muhammad
+        slug: muhammad
+      - node_id: 6bc3e622-15ad-4cd7-b677-a1e6a48d8f82
+        title: Enoch
+        slug: enoch
+      - node_id: 6c7d7ca7-93b2-49cd-a1b3-263fd3b38ba5
+        title: Jmmanuel
+        slug: jmmanuel
+      - node_id: 7faffb7d-e8b9-49a0-9423-93043e1cd093
+        title: Jeremiah
+        slug: jeremiah
+      - node_id: 9ebd9127-8681-4ead-b17f-55709a8077e6
+        title: Billy Meier
+        slug: billy-meier
+      - node_id: c3f4f1cc-c0bc-4445-aecc-4e94294abd12
+        title: Elijah
+        slug: elijah
+      - node_id: cf23724b-96ce-4457-a706-f7051b12f5e7
+        title: Isaiah
+        slug: isaiah
+    date: null
+    date_end: null
+    location_in_record: 02:01:48.8-02:02:01.3
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 88d112ab-3b40-4882-a9ff-8d7d01c8431c
+      record_title: Revealing The Nordic Alien Prophecies - Michael Horn | DEBRIEFED ep. 92
+      record_date: '2026-06-12'
+      record_reference: https://www.youtube.com/watch?v=5Vk8V-clYLU
+      content_hash: sha256:68890827242b3c71c1a1df2f1da00ac2d0f033be148be34bf2487159c9b82337
+      friendly_name: 2026-06-12-video-revealing-the-nordic-alien-prophecies-michael-horn.v2

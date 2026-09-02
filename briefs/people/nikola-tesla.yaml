@@ -1,0 +1,504 @@
+schema: anomalica/brief/1
+brief_hash: 02af3ab1dce75b2b16c711b5daa7a3d1c085ca5d0974e0bf9f37cad37097a030
+page:
+  kind: entity
+  node_id: d7e78302-bfc0-44d0-b2c8-967b15fde742
+  node_type: person
+  title: Nikola Tesla
+  slug: nikola-tesla
+  claim_count: 10
+  claim_count_total: 10
+generated:
+  graph_version: '2026-09-01T10:10:49.863545+00:00'
+size:
+  claims: 10
+  tokens_estimated: 3247
+  sized_against: 1050000
+publication:
+  status: published
+  note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
+    transcripts are gated elsewhere.
+belonging:
+  verified: 0
+  suspect_excluded: 0
+  unreviewed: 10
+related_nodes:
+  - node_id: 96c9d481-7c21-4bc7-b293-56b6469c40ed
+    title: Whitley Strieber's 1983 time slip on LaGuardia Place
+    node_type: event
+    slug: whitley-striebers-1983-time-slip-on-laguardia-place
+    shared_claims: 3
+  - node_id: 1c57cd6c-8c54-4f61-b180-2bd899c69889
+    title: Time travel
+    node_type: topic
+    slug: time-travel
+    shared_claims: 2
+  - node_id: 6a42f73e-1e98-4f51-ac69-8baada52acbe
+    title: USA, New York, Manhattan, LaGuardia Place
+    node_type: place
+    slug: new-york-manhattan-laguardia-place-usa
+    shared_claims: 2
+  - node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+    title: Whitley Strieber
+    node_type: person
+    slug: whitley-strieber
+    shared_claims: 2
+  - node_id: 1f03fa1d-9929-4575-a27b-52dba43ec087
+    title: Anti-Gravity Propulsion
+    node_type: topic
+    slug: anti-gravity-propulsion
+    shared_claims: 1
+  - node_id: 6225f499-1adb-4e32-b963-7f27f90e9067
+    title: Dreamland (podcast)
+    node_type: document
+    slug: dreamland-podcast
+    shared_claims: 1
+  - node_id: b147fa58-809a-4da6-bb4f-5f481dbde8ae
+    title: Edmund Whittaker
+    node_type: person
+    slug: edmund-whittaker
+    shared_claims: 1
+  - node_id: 00bb755b-8df3-4702-a8cf-a6df3a727834
+    title: Harald Malmgren
+    node_type: person
+    slug: harald-malmgren
+    shared_claims: 1
+  - node_id: 88137404-14fa-49b8-b3b5-462e17a8e4de
+    title: J. P. Morgan
+    node_type: person
+    slug: j-p-morgan
+    shared_claims: 1
+  - node_id: 38056c94-8e88-4ea8-8761-89856badf530
+    title: James Clerk Maxwell
+    node_type: person
+    slug: james-clerk-maxwell
+    shared_claims: 1
+  - node_id: 079d4381-4273-418b-bc9a-468623f95c6e
+    title: Jesse Mitchells
+    node_type: person
+    slug: jesse-mitchells
+    shared_claims: 1
+  - node_id: 830c3427-3a42-45d6-b737-75e480743959
+    title: Quaternions (mathematics)
+    node_type: topic
+    slug: quaternions-mathematics
+    shared_claims: 1
+  - node_id: 1b7f7388-4e9c-4830-8d37-3df0f3e5597f
+    title: Thomas Bearden
+    node_type: person
+    slug: thomas-bearden
+    shared_claims: 1
+  - node_id: caf1c89f-4922-48c6-8cae-f8f0cbd45a7a
+    title: Thomas Townsend Brown
+    node_type: person
+    slug: thomas-townsend-brown
+    shared_claims: 1
+  - node_id: 374982e6-193c-49b4-87fa-1259227a9f3d
+    title: Time slip
+    node_type: topic
+    slug: time-slip
+    shared_claims: 1
+  - node_id: 268ebaed-fa42-4feb-881f-fd8f70ca28fb
+    title: USA, Colorado, Colorado Springs
+    node_type: place
+    slug: colorado-colorado-springs-usa
+    shared_claims: 1
+claims:
+  - claim_id: e4e498fa-dd68-410a-ac1d-87172cdcc771
+    claim_hash: a7a4c3d806c415e8738e137b3b45741e824233d7c8aba8e42cb68ecf89e5471e
+    content: Thomas Bearden's view was supported by his own research, based on papers and experiments carried out by Edmund
+      Whittaker and Nikola Tesla in the early 20th century, and later confirmed in the Aharonov-Bohm experiments.
+    original_excerpt: This radical view was supported by Bearden’s own research, which was based on papers and experiments
+      carried out by Sir Edmund Whittaker and Nicola Tesla in the early 20th-century, and later confirmed in the so-called
+      “Aharonov-Bohm” experiments.
+    claim_type: observation
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: named
+      origin: Thomas Bearden
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 1b7f7388-4e9c-4830-8d37-3df0f3e5597f
+        title: Thomas Bearden
+        slug: thomas-bearden
+      - node_id: b147fa58-809a-4da6-bb4f-5f481dbde8ae
+        title: Edmund Whittaker
+        slug: edmund-whittaker
+      - node_id: d7e78302-bfc0-44d0-b2c8-967b15fde742
+        title: Nikola Tesla
+        slug: nikola-tesla
+    date: null
+    date_end: null
+    location_in_record: ch9:35179-35413
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+      record_title: Dark Mission
+      record_date: '2010-07-22'
+      record_reference: null
+      content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+      friendly_name: null
+  - claim_id: ba9d98ea-7c57-4387-b2ba-503af730c5f6
+    claim_hash: f19db974fb0e9251aa6156b24bf62860f65e3aefb89a5980470f462248dc2f74
+    content: Nikola Tesla conducted experiments in his laboratory in Colorado Springs in 1899, during which he observed and
+      recorded interfering scalar waves.
+    original_excerpt: Tesla, the inventor of modern civilization (through his discovery of alternating current), had conducted
+      a number of relevant experiments in his lab in Colorado Springs in 1899. During one experiment, he observed and recorded
+      “interfering scalar waves.”
+    claim_type: testimony
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: named
+      origin: Nikola Tesla
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 268ebaed-fa42-4feb-881f-fd8f70ca28fb
+        title: USA, Colorado, Colorado Springs
+        slug: colorado-colorado-springs-usa
+      - node_id: d7e78302-bfc0-44d0-b2c8-967b15fde742
+        title: Nikola Tesla
+        slug: nikola-tesla
+    date: '1899'
+    date_end: null
+    location_in_record: ch9:35429-35675
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+      record_title: Dark Mission
+      record_date: '2010-07-22'
+      record_reference: null
+      content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+      friendly_name: null
+  - claim_id: 29b87d5c-53c3-4cf0-9fe0-e3c3c2d89ec2
+    claim_hash: 54a0718fd790b8e3c7d7b50b9ab3f5e5783c5e2d84969a548bdc4c5082bf479c
+    content: Nikola Tesla, using massive experimental radio transmitters he built on a mountaintop in Colorado, broadcast
+      and received longitudinal stresses through the vacuum, as opposed to conventional electromagnetic transverse waves.
+    original_excerpt: Via massive experimental radio transmitters he had built on a mountaintop in Colorado, he was broadcasting
+      and receiving (by his own assertion) longitudinal stresses (as opposed to conventional EM “transverse waves”) through
+      the vacuum.
+    claim_type: testimony
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: named
+      origin: Nikola Tesla
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: d7e78302-bfc0-44d0-b2c8-967b15fde742
+        title: Nikola Tesla
+        slug: nikola-tesla
+    date: '1899'
+    date_end: null
+    location_in_record: ch9:35683-35912
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+      record_title: Dark Mission
+      record_date: '2010-07-22'
+      record_reference: null
+      content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+      friendly_name: null
+  - claim_id: 42bd1252-64c8-4e40-bed4-cb603b7b094c
+    claim_hash: f92c6d4cc848f63bc7389619d27c8292c154459509ab33b2ddb6c8305a196524
+    content: Nikola Tesla detected an interference return from a passing line of thunderstorms while conducting his 1899 Colorado
+      Springs experiments with hand-engineered equipment built according to James Clerk Maxwell's original quaternion equations.
+    original_excerpt: This he was accomplishing with his own, hand-engineered equipment (produced according to Maxwell’s original,
+      quaternion equations), when he detected an interference “return” from a passing line of thunderstorms.
+    claim_type: testimony
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: named
+      origin: Nikola Tesla
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 38056c94-8e88-4ea8-8761-89856badf530
+        title: James Clerk Maxwell
+        slug: james-clerk-maxwell
+      - node_id: 830c3427-3a42-45d6-b737-75e480743959
+        title: Quaternions (mathematics)
+        slug: quaternions-mathematics
+      - node_id: d7e78302-bfc0-44d0-b2c8-967b15fde742
+        title: Nikola Tesla
+        slug: nikola-tesla
+    date: '1899'
+    date_end: null
+    location_in_record: ch9:35920-36117
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+      record_title: Dark Mission
+      record_date: '2010-07-22'
+      record_reference: null
+      content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+      friendly_name: null
+  - claim_id: 0f27fcf0-3f0a-46b0-a3ed-217aac4d90e3
+    claim_hash: 104d486e20b2fee47ecb27955e76d9aec3a685c857f8b946e38f345477eb8693
+    content: Nikola Tesla termed the phenomenon he detected a "standing columnar wave" and tracked it electromagnetically
+      for hours as the cold front moved across the western United States.
+    original_excerpt: Tesla termed the phenomenon a “standing columnar wave,” and tracked it electromagnetically for hours
+      as the cold front moved across the west.
+    claim_type: testimony
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: named
+      origin: Nikola Tesla
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: d7e78302-bfc0-44d0-b2c8-967b15fde742
+        title: Nikola Tesla
+        slug: nikola-tesla
+    date: '1899'
+    date_end: null
+    location_in_record: ch9:36132-36268
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+      record_title: Dark Mission
+      record_date: '2010-07-22'
+      record_reference: null
+      content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+      friendly_name: null
+  - claim_id: 79e0fbca-3a18-40ee-b5a7-826f03128e96
+    claim_hash: 1495911bae1ada1789ee55009827a0782cd3fb4420859aeb8f4938c0d4b6401f
+    content: Nikola Tesla's experiments in Colorado Springs were stopped when his benefactor, J. P. Morgan, discovered that
+      Tesla's true purpose was to generate unlimited amounts of electricity too inexpensive to charge for.
+    original_excerpt: Tesla’s experiments were suddenly stopped when his benefactor, J. P. Morgan, discovered the true purpose
+      of his experiment—to generate unlimited amounts of electricity “too inexpensive to charge for.”
+    claim_type: observation
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 88137404-14fa-49b8-b3b5-462e17a8e4de
+        title: J. P. Morgan
+        slug: j-p-morgan
+      - node_id: d7e78302-bfc0-44d0-b2c8-967b15fde742
+        title: Nikola Tesla
+        slug: nikola-tesla
+    date: '1899'
+    date_end: null
+    location_in_record: ch9:36274-36469
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+      record_title: Dark Mission
+      record_date: '2010-07-22'
+      record_reference: null
+      content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+      friendly_name: null
+  - claim_id: e2acf7e9-0b07-4a43-8da9-9b9036289b92
+    claim_hash: b07f48e3302cb1d814ec1ef9eb1bcbf5074269992273e5e1306f6acf70044737
+    content: Harald Malmgren said he had a foreign intelligence source who gave him documentation of Thomas Townsend Brown
+      collaborating with Nikola Tesla on gravity research.
+    original_excerpt: he apparently said he had a foreign intelligence source that gave him documentation of Townsend Brown
+      collaborating with Tesla on some gravity stuff, which is crazy.
+    claim_type: hearsay
+    attestation: third_hand
+    speaker:
+      node_id: 079d4381-4273-418b-bc9a-468623f95c6e
+      title: Jesse Mitchells
+    provenance_chain:
+      origin_kind: anonymous
+      origin: a person claiming to be a foreign intelligence source
+      relay:
+        - Harald Malmgren
+        - Jesse Michels
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 00bb755b-8df3-4702-a8cf-a6df3a727834
+        title: Harald Malmgren
+        slug: harald-malmgren
+      - node_id: 079d4381-4273-418b-bc9a-468623f95c6e
+        title: Jesse Mitchells
+        slug: jesse-mitchells
+      - node_id: 1f03fa1d-9929-4575-a27b-52dba43ec087
+        title: Anti-Gravity Propulsion
+        slug: anti-gravity-propulsion
+      - node_id: caf1c89f-4922-48c6-8cae-f8f0cbd45a7a
+        title: Thomas Townsend Brown
+        slug: thomas-townsend-brown
+      - node_id: d7e78302-bfc0-44d0-b2c8-967b15fde742
+        title: Nikola Tesla
+        slug: nikola-tesla
+    date: null
+    date_end: null
+    location_in_record: 00:14:53.8-00:15:04.7
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: dc9d8bc8-9c1f-46b4-9b89-8d86b6b08e1d
+      record_title: Jesse Michels, UAPGerb & Chris Ramsay - Flying Saucer Diner
+      record_date: '2026-07-17'
+      record_reference: https://www.youtube.com/watch?v=HFLBDi87888
+      content_hash: sha256:7b2e272d7c82fdda745ee0354d7c9cc4b0d5ba5506015ca27edd9169a768b262
+      friendly_name: null
+  - claim_id: a38ba4d1-1804-44af-ad4e-e780582efe4a
+    claim_hash: 5458d94e858720c6807ad23b69e57ace0aeb3c209cf12ce3f999a2c748d2f188
+    content: After Whitley Strieber discussed his 1983 LaGuardia Place time slip on his own programme, an unnamed listener
+      wrote to him saying that Nikola Tesla's laboratory had stood across the street from where the time slip happened.
+    original_excerpt: i'm talking about this maybe on dreamland actually i'm i think it was on my show and uh i someone writes
+      me and say says do you know What was across the street from where that happened to you when it happened? It was Nikola
+      Tesla's lab.
+    claim_type: hearsay
+    attestation: second_hand
+    speaker:
+      node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+      title: Whitley Strieber
+    provenance_chain:
+      origin_kind: anonymous
+      origin: a person writing in to Whitley Strieber's programme
+      relay:
+        - a letter to Whitley Strieber
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+        title: Whitley Strieber
+        slug: whitley-strieber
+      - node_id: 6225f499-1adb-4e32-b963-7f27f90e9067
+        title: Dreamland (podcast)
+        slug: dreamland-podcast
+      - node_id: 6a42f73e-1e98-4f51-ac69-8baada52acbe
+        title: USA, New York, Manhattan, LaGuardia Place
+        slug: new-york-manhattan-laguardia-place-usa
+      - node_id: 96c9d481-7c21-4bc7-b293-56b6469c40ed
+        title: Whitley Strieber's 1983 time slip on LaGuardia Place
+        slug: whitley-striebers-1983-time-slip-on-laguardia-place
+      - node_id: d7e78302-bfc0-44d0-b2c8-967b15fde742
+        title: Nikola Tesla
+        slug: nikola-tesla
+    date: null
+    date_end: null
+    location_in_record: 01:55:35.7-01:55:56.2
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 9302c6b2-133d-4cbb-adfa-5d1f0bd3e7ac
+      record_title: The Terrible Truth About the Visitors - Whitley Strieber | ep. 96
+      record_date: '2026-07-24'
+      record_reference: https://www.youtube.com/watch?v=Cv-sk4vt-qU
+      content_hash: sha256:456dbde0ab82ee8e216bdad2d1a0bf2a0b42622a167af19058f973050b035084
+      friendly_name: null
+  - claim_id: cfd5a009-e824-44ad-9893-06c0aa423d84
+    claim_hash: 8a31be3e039845049ad59c63bc61fb5e49f0f11101c40e76512c77bb363e00fc
+    content: There is no record of Nikola Tesla conducting experiments with time, but his laboratory was in the immediate
+      area of the site of Whitley Strieber's 1983 time slip on LaGuardia Place in Manhattan.
+    original_excerpt: There's no record of him doing experiments with time, but his lab was right in that immediate area.
+      That is correct.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+      title: Whitley Strieber
+    provenance_chain:
+      origin_kind: speaker
+      origin: Whitley Strieber
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 1c57cd6c-8c54-4f61-b180-2bd899c69889
+        title: Time travel
+        slug: time-travel
+      - node_id: 6a42f73e-1e98-4f51-ac69-8baada52acbe
+        title: USA, New York, Manhattan, LaGuardia Place
+        slug: new-york-manhattan-laguardia-place-usa
+      - node_id: 96c9d481-7c21-4bc7-b293-56b6469c40ed
+        title: Whitley Strieber's 1983 time slip on LaGuardia Place
+        slug: whitley-striebers-1983-time-slip-on-laguardia-place
+      - node_id: d7e78302-bfc0-44d0-b2c8-967b15fde742
+        title: Nikola Tesla
+        slug: nikola-tesla
+    date: null
+    date_end: null
+    location_in_record: 01:56:08.0-01:56:14.5
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 9302c6b2-133d-4cbb-adfa-5d1f0bd3e7ac
+      record_title: The Terrible Truth About the Visitors - Whitley Strieber | ep. 96
+      record_date: '2026-07-24'
+      record_reference: https://www.youtube.com/watch?v=Cv-sk4vt-qU
+      content_hash: sha256:456dbde0ab82ee8e216bdad2d1a0bf2a0b42622a167af19058f973050b035084
+      friendly_name: null
+  - claim_id: b4e3c871-b43e-4df8-bdce-60448ba33e3e
+    claim_hash: b17a7bb0920a18f0d88d2e20b26d41675559ef1667aef6b00b7d914278d1b9d6
+    content: Whitley Strieber speculates that Nikola Tesla may have drawn him back in time during the 1983 LaGuardia Place
+      time slip and that the figure he saw shouting was Tesla trying to contact him.
+    original_excerpt: And maybe he drew me back in time and he was trying to contact me. Maybe that was what he was yelling
+      at.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+      title: Whitley Strieber
+    provenance_chain:
+      origin_kind: speaker
+      origin: Whitley Strieber
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 1c57cd6c-8c54-4f61-b180-2bd899c69889
+        title: Time travel
+        slug: time-travel
+      - node_id: 374982e6-193c-49b4-87fa-1259227a9f3d
+        title: Time slip
+        slug: time-slip
+      - node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+        title: Whitley Strieber
+        slug: whitley-strieber
+      - node_id: 96c9d481-7c21-4bc7-b293-56b6469c40ed
+        title: Whitley Strieber's 1983 time slip on LaGuardia Place
+        slug: whitley-striebers-1983-time-slip-on-laguardia-place
+      - node_id: d7e78302-bfc0-44d0-b2c8-967b15fde742
+        title: Nikola Tesla
+        slug: nikola-tesla
+    date: null
+    date_end: null
+    location_in_record: 01:56:17.9-01:56:22.8
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 9302c6b2-133d-4cbb-adfa-5d1f0bd3e7ac
+      record_title: The Terrible Truth About the Visitors - Whitley Strieber | ep. 96
+      record_date: '2026-07-24'
+      record_reference: https://www.youtube.com/watch?v=Cv-sk4vt-qU
+      content_hash: sha256:456dbde0ab82ee8e216bdad2d1a0bf2a0b42622a167af19058f973050b035084
+      friendly_name: null

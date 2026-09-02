@@ -1,0 +1,418 @@
+schema: anomalica/brief/1
+brief_hash: 0a9824170dfa8f5b3e966e724148622c3b6debc2cc8307fd64bbe65d8fcd144a
+page:
+  kind: entity
+  node_id: 239f8c90-729f-481d-8c0f-6a900ec6b118
+  node_type: person
+  title: Paul Eno
+  slug: paul-eno
+  claim_count: 10
+  claim_count_total: 10
+generated:
+  graph_version: '2026-09-01T10:10:49.863545+00:00'
+size:
+  claims: 10
+  tokens_estimated: 3029
+  sized_against: 1050000
+publication:
+  status: published
+  note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
+    transcripts are gated elsewhere.
+belonging:
+  verified: 0
+  suspect_excluded: 0
+  unreviewed: 10
+related_nodes:
+  - node_id: 51d5b265-d761-4682-a177-e794447ed628
+    title: Exorcism
+    node_type: topic
+    slug: exorcism
+    shared_claims: 4
+  - node_id: c02e77c4-512a-4524-88ae-55ec4eaa6c83
+    title: Exorcism of seventeen-year-old girl witnessed by Paul Eno
+    node_type: event
+    slug: exorcism-of-seventeen-year-old-girl-witnessed-by-paul-eno
+    shared_claims: 4
+  - node_id: 8279b46d-20a1-4c17-8814-8fec517b2199
+    title: Levitation
+    node_type: topic
+    slug: levitation
+    shared_claims: 4
+claims:
+  - claim_id: 716265a0-592c-44a9-8ede-d3be23aec1ec
+    claim_hash: ca3601090e224251beb7df847810d81a74a9b48f7bb4e7841695f11a67c8d626
+    content: Paul Eno experienced a sensation of electricity when he touched a levitating girl during an exorcism he witnessed.
+    original_excerpt: what was that electricity that Paul Eno experienced when he touched the levitating girl?
+    claim_type: testimony
+    attestation: second_hand
+    speaker:
+      node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+      title: Whitley Strieber
+    provenance_chain:
+      origin_kind: named
+      origin: Paul Eno
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 239f8c90-729f-481d-8c0f-6a900ec6b118
+        title: Paul Eno
+        slug: paul-eno
+      - node_id: c02e77c4-512a-4524-88ae-55ec4eaa6c83
+        title: Exorcism of seventeen-year-old girl witnessed by Paul Eno
+        slug: exorcism-of-seventeen-year-old-girl-witnessed-by-paul-eno
+    date: null
+    date_end: null
+    location_in_record: ch22:21587-21670
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 759e8d7b-a820-4e00-bdc3-9aebf9e4b1b1
+      record_title: The Fourth Mind
+      record_date: '2025-01-15'
+      record_reference: null
+      content_hash: sha256:524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008e17102e7
+      friendly_name: 2025-01-15-ebook-the-fourth-mind
+  - claim_id: 31aa2765-207e-4c8c-9355-969331543065
+    claim_hash: a1371ae712501f7f552dce2332a1e0eeb74aa254fa358f71f2c477f27cc85dc9
+    content: Paul Eno was, early in his life, a novice Catholic priest assigned as assistant to a priest who was both chaplain
+      at a local mental institution and an exorcist.
+    original_excerpt: He was assigned to be the assistant to a priest who was both chaplain at a local mental institution
+      and an exorcist.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 239f8c90-729f-481d-8c0f-6a900ec6b118
+      title: Paul Eno
+    provenance_chain:
+      origin_kind: speaker
+      origin: Paul Eno
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 239f8c90-729f-481d-8c0f-6a900ec6b118
+        title: Paul Eno
+        slug: paul-eno
+    date: null
+    date_end: null
+    location_in_record: ch22:3552-3659
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 759e8d7b-a820-4e00-bdc3-9aebf9e4b1b1
+      record_title: The Fourth Mind
+      record_date: '2025-01-15'
+      record_reference: null
+      content_hash: sha256:524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008e17102e7
+      friendly_name: 2025-01-15-ebook-the-fourth-mind
+  - claim_id: bb6d97ad-5f86-45ac-b4d4-d7251254d2d4
+    claim_hash: 45524385baecae230614c54f0f5e28cc77be538b53827faee02c16da3657a127
+    content: Paul Eno witnessed the exorcism of a seventeen-year-old girl who was a patient at a mental hospital, had schizophrenia,
+      and was in drug rehabilitation.
+    original_excerpt: He attended the exorcism of a seventeen-year-old girl who was a patient in the hospital. She had schizophrenia
+      and was in drug rehab.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 239f8c90-729f-481d-8c0f-6a900ec6b118
+      title: Paul Eno
+    provenance_chain:
+      origin_kind: speaker
+      origin: Paul Eno
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 239f8c90-729f-481d-8c0f-6a900ec6b118
+        title: Paul Eno
+        slug: paul-eno
+      - node_id: c02e77c4-512a-4524-88ae-55ec4eaa6c83
+        title: Exorcism of seventeen-year-old girl witnessed by Paul Eno
+        slug: exorcism-of-seventeen-year-old-girl-witnessed-by-paul-eno
+    date: null
+    date_end: null
+    location_in_record: ch22:3669-3796
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 759e8d7b-a820-4e00-bdc3-9aebf9e4b1b1
+      record_title: The Fourth Mind
+      record_date: '2025-01-15'
+      record_reference: null
+      content_hash: sha256:524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008e17102e7
+      friendly_name: 2025-01-15-ebook-the-fourth-mind
+  - claim_id: 7d6319e6-52b6-4c3b-87b9-aecc176a5b20
+    claim_hash: a2408539fe4d37ed399f32b347b16ceee19644a819e3619856585ffa5a63614d
+    content: During the exorcism of a seventeen-year-old girl witnessed by Paul Eno, the patient rose out of her wheelchair
+      without using her legs while remaining in a seated position, and two attendants had to push her back down.
+    original_excerpt: the patient “rose out of the wheelchair not using her legs—she was still in the seated position—and
+      Leonard and I (the other attendant) had to push her back down.”
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 239f8c90-729f-481d-8c0f-6a900ec6b118
+      title: Paul Eno
+    provenance_chain:
+      origin_kind: speaker
+      origin: Paul Eno
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 239f8c90-729f-481d-8c0f-6a900ec6b118
+        title: Paul Eno
+        slug: paul-eno
+      - node_id: 8279b46d-20a1-4c17-8814-8fec517b2199
+        title: Levitation
+        slug: levitation
+      - node_id: c02e77c4-512a-4524-88ae-55ec4eaa6c83
+        title: Exorcism of seventeen-year-old girl witnessed by Paul Eno
+        slug: exorcism-of-seventeen-year-old-girl-witnessed-by-paul-eno
+    date: null
+    date_end: null
+    location_in_record: ch22:3944-4101
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 759e8d7b-a820-4e00-bdc3-9aebf9e4b1b1
+      record_title: The Fourth Mind
+      record_date: '2025-01-15'
+      record_reference: null
+      content_hash: sha256:524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008e17102e7
+      friendly_name: 2025-01-15-ebook-the-fourth-mind
+  - claim_id: a04af9b5-8cb5-4430-9c93-db4825d7f808
+    claim_hash: 9ccafa66797bcc1618f873e456409c6aa27319b86cd56a09d00036cc0a3577ed
+    content: Paul Eno described touching the levitating girl during her exorcism as feeling "very electric."
+    original_excerpt: I asked him what touching her had felt like, to which he replied, “It was very electric.”
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 239f8c90-729f-481d-8c0f-6a900ec6b118
+      title: Paul Eno
+    provenance_chain:
+      origin_kind: speaker
+      origin: Paul Eno
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 239f8c90-729f-481d-8c0f-6a900ec6b118
+        title: Paul Eno
+        slug: paul-eno
+      - node_id: c02e77c4-512a-4524-88ae-55ec4eaa6c83
+        title: Exorcism of seventeen-year-old girl witnessed by Paul Eno
+        slug: exorcism-of-seventeen-year-old-girl-witnessed-by-paul-eno
+    date: null
+    date_end: null
+    location_in_record: ch22:4139-4218
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 759e8d7b-a820-4e00-bdc3-9aebf9e4b1b1
+      record_title: The Fourth Mind
+      record_date: '2025-01-15'
+      record_reference: null
+      content_hash: sha256:524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008e17102e7
+      friendly_name: 2025-01-15-ebook-the-fourth-mind
+  - claim_id: f776f03b-cc77-4021-91ba-c79b1a624070
+    claim_hash: 0fdf28f54523b1eb4fda48d02e43ee3257abeb03f8d73389df7a40b77b08d529
+    content: Paul Eno witnessed a woman levitate.
+    original_excerpt: the woman Paul Eno saw levitate
+    claim_type: testimony
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: named
+      origin: Paul Eno
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 239f8c90-729f-481d-8c0f-6a900ec6b118
+        title: Paul Eno
+        slug: paul-eno
+      - node_id: 8279b46d-20a1-4c17-8814-8fec517b2199
+        title: Levitation
+        slug: levitation
+    date: null
+    date_end: null
+    location_in_record: ch25:19153-19176
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 759e8d7b-a820-4e00-bdc3-9aebf9e4b1b1
+      record_title: The Fourth Mind
+      record_date: '2025-01-15'
+      record_reference: null
+      content_hash: sha256:524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008e17102e7
+      friendly_name: 2025-01-15-ebook-the-fourth-mind
+  - claim_id: 300650b4-7a4f-4398-903c-fac57b3fd821
+    claim_hash: 159fc89cddd3278eef8d781c166d88a44f3633414d51852de6af08dea89d7d6d
+    content: Paul Eno, who wrote books on the paranormal and has since died, was a novice priest who became the assistant
+      to his diocesan exorcist.
+    original_excerpt: a lovely guy called Paul Eno, who has passed away. He was He got into this whole paranormal stuff and
+      wrote some books. But before that, he was a novice priest. And he ended up as the assistant to the diocesan exorcist.
+    claim_type: administrative
+    attestation: second_hand
+    speaker:
+      node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+      title: Whitley Strieber
+    provenance_chain:
+      origin_kind: named
+      origin: Paul Eno
+      relay:
+        - Paul Eno telling Whitley Strieber
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 239f8c90-729f-481d-8c0f-6a900ec6b118
+        title: Paul Eno
+        slug: paul-eno
+      - node_id: 51d5b265-d761-4682-a177-e794447ed628
+        title: Exorcism
+        slug: exorcism
+    date: null
+    date_end: null
+    location_in_record: 02:01:53.7-02:02:14.8
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 9302c6b2-133d-4cbb-adfa-5d1f0bd3e7ac
+      record_title: The Terrible Truth About the Visitors - Whitley Strieber | ep. 96
+      record_date: '2026-07-24'
+      record_reference: https://www.youtube.com/watch?v=Cv-sk4vt-qU
+      content_hash: sha256:456dbde0ab82ee8e216bdad2d1a0bf2a0b42622a167af19058f973050b035084
+      friendly_name: null
+  - claim_id: ee970d70-8d61-4557-81cb-4f95f72d368b
+    claim_hash: 46d8345b0d58fa4c817273eb247037a2e8b0be99cb9ae14ff4b627d12f920b6a
+    content: Paul Eno told Whitley Strieber that he and the diocesan exorcist were called to a mental institution to treat
+      a 17-year-old girl who had been diagnosed as schizophrenic and was also a drug addict, whose family had asked for an
+      exorcist after nothing else helped.
+    original_excerpt: They were called to a mental institution in which there was a young 17-year-old girl. The family was
+      desperate because she was diagnosed as schizophrenic and she was a drug addict as well. ... And so they had asked for
+      the exorcist in hopes that by some miracle that would help.
+    claim_type: hearsay
+    attestation: second_hand
+    speaker:
+      node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+      title: Whitley Strieber
+    provenance_chain:
+      origin_kind: named
+      origin: Paul Eno
+      relay:
+        - Paul Eno telling Whitley Strieber
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 239f8c90-729f-481d-8c0f-6a900ec6b118
+        title: Paul Eno
+        slug: paul-eno
+      - node_id: 51d5b265-d761-4682-a177-e794447ed628
+        title: Exorcism
+        slug: exorcism
+    date: null
+    date_end: null
+    location_in_record: 02:02:16.9-02:02:45.6
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 9302c6b2-133d-4cbb-adfa-5d1f0bd3e7ac
+      record_title: The Terrible Truth About the Visitors - Whitley Strieber | ep. 96
+      record_date: '2026-07-24'
+      record_reference: https://www.youtube.com/watch?v=Cv-sk4vt-qU
+      content_hash: sha256:456dbde0ab82ee8e216bdad2d1a0bf2a0b42622a167af19058f973050b035084
+      friendly_name: null
+  - claim_id: e8030b2b-493a-4411-9dd9-8e87ae9dc6c5
+    claim_hash: dd7bbc87640edafad8d8fbf6e764498d66a13de3d606df911bf64ce217fce1bd
+    content: Paul Eno told Whitley Strieber that during the exorcism the 17-year-old girl rose out of her wheelchair and floated
+      in the air still in a sitting position, in front of Paul Eno, the exorcist, a second assistant, a psychiatrist and three
+      attendants, all of whom could see it.
+    original_excerpt: So the exorcist goes in to this room where the girl is sitting in a wheelchair. Paul is with him. There's
+      a psychiatrist and three assistants, three attendees in the room as well. ... And suddenly, still in a sitting position,
+      she rises up out of the chair. ... And she's like floating in the air, still in a sitting position. They all can see
+      it.
+    claim_type: hearsay
+    attestation: second_hand
+    speaker:
+      node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+      title: Whitley Strieber
+    provenance_chain:
+      origin_kind: named
+      origin: Paul Eno
+      relay:
+        - Paul Eno telling Whitley Strieber
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 239f8c90-729f-481d-8c0f-6a900ec6b118
+        title: Paul Eno
+        slug: paul-eno
+      - node_id: 51d5b265-d761-4682-a177-e794447ed628
+        title: Exorcism
+        slug: exorcism
+      - node_id: 8279b46d-20a1-4c17-8814-8fec517b2199
+        title: Levitation
+        slug: levitation
+    date: null
+    date_end: null
+    location_in_record: 02:02:49.0-02:03:21.8
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 9302c6b2-133d-4cbb-adfa-5d1f0bd3e7ac
+      record_title: The Terrible Truth About the Visitors - Whitley Strieber | ep. 96
+      record_date: '2026-07-24'
+      record_reference: https://www.youtube.com/watch?v=Cv-sk4vt-qU
+      content_hash: sha256:456dbde0ab82ee8e216bdad2d1a0bf2a0b42622a167af19058f973050b035084
+      friendly_name: null
+  - claim_id: 8a5d1f84-1aa6-4d3c-b72d-12f42f077b5c
+    claim_hash: a1a8290b9763b762c1cc4457c875e1a6dc84cd5ff8d17dbbd379a59eacfb336c
+    content: Paul Eno told Whitley Strieber that when the exorcist instructed him to push the floating 17-year-old girl back
+      down into her wheelchair, he felt a mild electrical energy entering his hand as he did so.
+    original_excerpt: And the exorcist simply says to Paul, push her down into the chair. And he pushes her down into the
+      chair again, and he said, I could feel an energy, a sort of mild electricity coming into my hand.
+    claim_type: hearsay
+    attestation: second_hand
+    speaker:
+      node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+      title: Whitley Strieber
+    provenance_chain:
+      origin_kind: named
+      origin: Paul Eno
+      relay:
+        - Paul Eno telling Whitley Strieber
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 239f8c90-729f-481d-8c0f-6a900ec6b118
+        title: Paul Eno
+        slug: paul-eno
+      - node_id: 51d5b265-d761-4682-a177-e794447ed628
+        title: Exorcism
+        slug: exorcism
+      - node_id: 8279b46d-20a1-4c17-8814-8fec517b2199
+        title: Levitation
+        slug: levitation
+    date: null
+    date_end: null
+    location_in_record: 02:03:31.3-02:03:44.6
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 9302c6b2-133d-4cbb-adfa-5d1f0bd3e7ac
+      record_title: The Terrible Truth About the Visitors - Whitley Strieber | ep. 96
+      record_date: '2026-07-24'
+      record_reference: https://www.youtube.com/watch?v=Cv-sk4vt-qU
+      content_hash: sha256:456dbde0ab82ee8e216bdad2d1a0bf2a0b42622a167af19058f973050b035084
+      friendly_name: null

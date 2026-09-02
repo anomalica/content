@@ -1,0 +1,677 @@
+schema: anomalica/brief/1
+brief_hash: 5c31feb0015a18fc83ea6c52094f96aca61b590d43808e9ed519bca6b8905b41
+page:
+  kind: entity
+  node_id: 19157631-6448-476b-94d2-d80cf5a10387
+  node_type: person
+  title: Frederick Valentich
+  slug: frederick-valentich
+  claim_count: 15
+  claim_count_total: 15
+generated:
+  graph_version: '2026-09-01T10:10:49.863545+00:00'
+size:
+  claims: 15
+  tokens_estimated: 4303
+  sized_against: 1050000
+publication:
+  status: published
+  note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
+    transcripts are gated elsewhere.
+belonging:
+  verified: 0
+  suspect_excluded: 0
+  unreviewed: 15
+related_nodes:
+  - node_id: daa5ec49-aded-4c21-a9ce-49698d86cb89
+    title: 1978 disappearance of Frederick Valentich
+    node_type: event
+    slug: 1978-disappearance-of-frederick-valentich
+    shared_claims: 13
+  - node_id: 0b1e0e78-b517-4e6c-a20b-61257619c42d
+    title: Australia, Victoria, Bass Strait
+    node_type: place
+    slug: victoria-bass-strait-australia
+    shared_claims: 3
+  - node_id: db7170bd-ea41-4851-8bd2-8aba8c0fa4f4
+    title: Australia, Victoria, Melbourne
+    node_type: place
+    slug: victoria-melbourne-australia
+    shared_claims: 3
+  - node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+    title: Ross Coulthart
+    node_type: person
+    slug: ross-coulthart
+    shared_claims: 3
+  - node_id: 4e4282df-0f0a-4912-a87b-5ebda6fbb2e7
+    title: Cessna aircraft flown by Frederick Valentich
+    node_type: object
+    slug: cessna-aircraft-flown-by-frederick-valentich
+    shared_claims: 2
+  - node_id: e10d037b-b94e-464e-9d35-8d193a99891b
+    title: 1966 Westall Unidentified Flying Object (UFO) incident
+    node_type: event
+    slug: 1966-westall-unidentified-flying-object-ufo-incident
+    shared_claims: 1
+  - node_id: f489fcdb-3c40-4743-aa1c-8b742db9dd6b
+    title: Australia, Tasmania, King Island
+    node_type: place
+    slug: tasmania-king-island-australia
+    shared_claims: 1
+  - node_id: 9453e275-4ec7-40f2-bbdf-f0e0f47ff27d
+    title: Australia, Victoria, Moorabbin Airport
+    node_type: place
+    slug: victoria-moorabbin-airport-australia
+    shared_claims: 1
+  - node_id: a66d3909-374c-40ae-b3e5-97762c0f5eb1
+    title: Australian Skeptics
+    node_type: organisation
+    slug: australian-skeptics
+    shared_claims: 1
+  - node_id: 869490f4-19be-4a53-821a-2fdde9c16328
+    title: Cessna light aircraft
+    node_type: object
+    slug: cessna-light-aircraft
+    shared_claims: 1
+  - node_id: 24d00311-06ac-46a1-a2f5-c99f3f8e21b2
+    title: Chris Ramsay
+    node_type: person
+    slug: chris-ramsay
+    shared_claims: 1
+  - node_id: 6282c596-5bd8-40f5-8b90-9653f540118e
+    title: Frederick Valentich radio transmission audio recording
+    node_type: document
+    slug: frederick-valentich-radio-transmission-audio-recording
+    shared_claims: 1
+claims:
+  - claim_id: d5db3784-8967-4046-a5c1-53ac34eb5eff
+    claim_hash: 84dc0321b42e5c23a18a137479dc58db694efb8b865c94b06c1ed4fd2d1a2ffe
+    content: Frederick Valentich was a 20-year-old Melbourne-based pilot who disappeared while piloting a Cessna aircraft
+      over Bass Strait in 1978.
+    original_excerpt: Twenty-year-old Melbourne-based pilot Frederick Valentich, who disappeared while piloting a tiny Cessna
+      aircraft over Bass Strait in 1978.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 0b1e0e78-b517-4e6c-a20b-61257619c42d
+        title: Australia, Victoria, Bass Strait
+        slug: victoria-bass-strait-australia
+      - node_id: 19157631-6448-476b-94d2-d80cf5a10387
+        title: Frederick Valentich
+        slug: frederick-valentich
+      - node_id: 4e4282df-0f0a-4912-a87b-5ebda6fbb2e7
+        title: Cessna aircraft flown by Frederick Valentich
+        slug: cessna-aircraft-flown-by-frederick-valentich
+      - node_id: daa5ec49-aded-4c21-a9ce-49698d86cb89
+        title: 1978 disappearance of Frederick Valentich
+        slug: 1978-disappearance-of-frederick-valentich
+    date: '1978-10-21'
+    date_end: null
+    location_in_record: ch37:5160-5293
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: f77bdf21-9973-438f-bad4-a0b8a2b43297
+    claim_hash: 934b4643aeac6352de7f0e75cbdf19d6085c66d11d8eb7c1d342ed166d8e4b22
+    content: In October 1978, 20-year-old Melbourne-based pilot Frederick Valentich disappeared while piloting a Cessna aircraft
+      over Bass Strait on a flight to King Island.
+    original_excerpt: One reason for my scepticism was because two months earlier, in October 1978, across the Tasman Ocean
+      in Australia, a 20-year-old Melbourne-based pilot Frederick Valentich had disappeared while piloting a tiny Cessna aircraft
+      over Bass Strait on a flight to King Island.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 0b1e0e78-b517-4e6c-a20b-61257619c42d
+        title: Australia, Victoria, Bass Strait
+        slug: victoria-bass-strait-australia
+      - node_id: 19157631-6448-476b-94d2-d80cf5a10387
+        title: Frederick Valentich
+        slug: frederick-valentich
+      - node_id: 4e4282df-0f0a-4912-a87b-5ebda6fbb2e7
+        title: Cessna aircraft flown by Frederick Valentich
+        slug: cessna-aircraft-flown-by-frederick-valentich
+      - node_id: daa5ec49-aded-4c21-a9ce-49698d86cb89
+        title: 1978 disappearance of Frederick Valentich
+        slug: 1978-disappearance-of-frederick-valentich
+      - node_id: db7170bd-ea41-4851-8bd2-8aba8c0fa4f4
+        title: Australia, Victoria, Melbourne
+        slug: victoria-melbourne-australia
+      - node_id: f489fcdb-3c40-4743-aa1c-8b742db9dd6b
+        title: Australia, Tasmania, King Island
+        slug: tasmania-king-island-australia
+    date: '1978-10-21'
+    date_end: null
+    location_in_record: ch6:5354-5617
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: baf902d2-5db4-4dcb-9edf-1750b1298813
+    claim_hash: 322ce55eec564ba7424d4deaddbc923eb5fbb81834fe46a44acebedb15e29b47
+    content: Shortly before he and his aircraft disappeared, Frederick Valentich was recorded telling Melbourne air traffic
+      control that he was being followed by a huge illuminated shiny metal craft hovering above him.
+    original_excerpt: Shortly before he and his aircraft disappeared, Valentich was recorded telling Melbourne air traffic
+      control that he was being followed by a huge illuminated shiny metal craft hovering above.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 19157631-6448-476b-94d2-d80cf5a10387
+      title: Frederick Valentich
+    provenance_chain:
+      origin_kind: speaker
+      origin: Frederick Valentich
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 19157631-6448-476b-94d2-d80cf5a10387
+        title: Frederick Valentich
+        slug: frederick-valentich
+      - node_id: daa5ec49-aded-4c21-a9ce-49698d86cb89
+        title: 1978 disappearance of Frederick Valentich
+        slug: 1978-disappearance-of-frederick-valentich
+      - node_id: db7170bd-ea41-4851-8bd2-8aba8c0fa4f4
+        title: Australia, Victoria, Melbourne
+        slug: victoria-melbourne-australia
+    date: '1978-10-21'
+    date_end: null
+    location_in_record: ch6:5625-5810
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 8cecd6e5-25d3-4d9c-af6d-2073e484bcbb
+    claim_hash: 46d301a0976835b6cce171621a3dec7162a21e6c06ff1b8f8dc5c1af7a260787
+    content: Shortly before he and his aircraft disappeared, Frederick Valentich told Melbourne air traffic control that he
+      was being followed by a huge illuminated shiny metal craft hovering above him.
+    original_excerpt: Shortly before he and his aircraft disappeared, Valentich was recorded telling Melbourne air traffic
+      control that he was being followed by a huge illuminated shiny metal craft hovering above him.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 19157631-6448-476b-94d2-d80cf5a10387
+      title: Frederick Valentich
+    provenance_chain:
+      origin_kind: speaker
+      origin: Frederick Valentich
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 19157631-6448-476b-94d2-d80cf5a10387
+        title: Frederick Valentich
+        slug: frederick-valentich
+      - node_id: daa5ec49-aded-4c21-a9ce-49698d86cb89
+        title: 1978 disappearance of Frederick Valentich
+        slug: 1978-disappearance-of-frederick-valentich
+    date: '1978-10-21'
+    date_end: null
+    location_in_record: ch6:5625-5816
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: ae1ee506-9334-4fe9-8ed0-266195e4cad5
+    claim_hash: 5a37265584a63f463edb462466c8e630b33e87984cb5750db183858d23d6ec62
+    content: Frederick Valentich's last recorded words, as his engine began rough idling, were that the object was hovering
+      and was not an aircraft.
+    original_excerpt: 'Some of his dramatic last words, as his engine began rough idling, were: ‘It’s hovering and it’s not
+      an aircraft.’'
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 19157631-6448-476b-94d2-d80cf5a10387
+      title: Frederick Valentich
+    provenance_chain:
+      origin_kind: speaker
+      origin: Frederick Valentich
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 19157631-6448-476b-94d2-d80cf5a10387
+        title: Frederick Valentich
+        slug: frederick-valentich
+      - node_id: daa5ec49-aded-4c21-a9ce-49698d86cb89
+        title: 1978 disappearance of Frederick Valentich
+        slug: 1978-disappearance-of-frederick-valentich
+    date: '1978-10-21'
+    date_end: null
+    location_in_record: ch6:5821-5925
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 4134d315-e913-49bb-a390-57024ce1f2c8
+    claim_hash: 4dcd095bf7c5fedb06524a3115f9cfed8cc962e45961ad29045ccfacb37d0277
+    content: Frederick Valentich's radio transmission was interrupted by strange pulsing sounds and then his radio cut out.
+    original_excerpt: Then the transmission was interrupted by strange pulsing sounds and his radio cut out.
+    claim_type: observation
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 19157631-6448-476b-94d2-d80cf5a10387
+        title: Frederick Valentich
+        slug: frederick-valentich
+      - node_id: daa5ec49-aded-4c21-a9ce-49698d86cb89
+        title: 1978 disappearance of Frederick Valentich
+        slug: 1978-disappearance-of-frederick-valentich
+    date: '1978-10-21'
+    date_end: null
+    location_in_record: ch6:5936-6018
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: ff3d019a-4b75-4911-971f-115acc48ff4d
+    claim_hash: a8d4ccc81efe673ab75e8a6ab6ff26cee2abcdae5faedc4c20dbc168d04aa513
+    content: Frederick Valentich disappeared in a light aircraft over Bass Strait shortly before the 1978 Kaikoura lights
+      incident.
+    original_excerpt: shortly before the Kaikōura incident, there'd been an incident involving a young fellow called Frederick
+      Valentich in Australia. He disappeared. He disappeared in a light plane over Bass Strait
+    claim_type: testimony
+    attestation: null
+    speaker:
+      node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+      title: Ross Coulthart
+    provenance_chain:
+      origin_kind: unattributed
+      origin: general knowledge conveyed by Ross Coulthart
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 0b1e0e78-b517-4e6c-a20b-61257619c42d
+        title: Australia, Victoria, Bass Strait
+        slug: victoria-bass-strait-australia
+      - node_id: 19157631-6448-476b-94d2-d80cf5a10387
+        title: Frederick Valentich
+        slug: frederick-valentich
+      - node_id: daa5ec49-aded-4c21-a9ce-49698d86cb89
+        title: 1978 disappearance of Frederick Valentich
+        slug: 1978-disappearance-of-frederick-valentich
+    date: '1978-10-21'
+    date_end: null
+    location_in_record: 00:11:51.0-00:12:02.6
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: fd845823-8784-462c-a981-4775525b6f84
+      record_title: The DANGEROUS Truth About UFOs - Ross Coulthart | DEBRIEFED ep. 76
+      record_date: '2026-02-20'
+      record_reference: https://www.youtube.com/watch?v=idBryc0eWww
+      content_hash: sha256:73be106d406f6d35a063a894e8384e7da0918eb8597d2107a9e3653becca2bdc
+      friendly_name: null
+  - claim_id: 720791b3-3d96-4d37-83d1-7a9580cb7b79
+    claim_hash: 1dd10758da273240e797aa40578104206a73989416af268fb304e51c24865170
+    content: Frederick Valentich flew out of Moorabbin Airport in Melbourne on the flight during which he disappeared.
+    original_excerpt: he flew out of Moorabbin in Melbourne, Melbourne Airport
+    claim_type: testimony
+    attestation: null
+    speaker:
+      node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+      title: Ross Coulthart
+    provenance_chain:
+      origin_kind: unattributed
+      origin: general knowledge conveyed by Ross Coulthart
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 19157631-6448-476b-94d2-d80cf5a10387
+        title: Frederick Valentich
+        slug: frederick-valentich
+      - node_id: 9453e275-4ec7-40f2-bbdf-f0e0f47ff27d
+        title: Australia, Victoria, Moorabbin Airport
+        slug: victoria-moorabbin-airport-australia
+      - node_id: daa5ec49-aded-4c21-a9ce-49698d86cb89
+        title: 1978 disappearance of Frederick Valentich
+        slug: 1978-disappearance-of-frederick-valentich
+      - node_id: db7170bd-ea41-4851-8bd2-8aba8c0fa4f4
+        title: Australia, Victoria, Melbourne
+        slug: victoria-melbourne-australia
+    date: '1978-10-21'
+    date_end: null
+    location_in_record: 00:12:10.7-00:12:12.8
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: fd845823-8784-462c-a981-4775525b6f84
+      record_title: The DANGEROUS Truth About UFOs - Ross Coulthart | DEBRIEFED ep. 76
+      record_date: '2026-02-20'
+      record_reference: https://www.youtube.com/watch?v=idBryc0eWww
+      content_hash: sha256:73be106d406f6d35a063a894e8384e7da0918eb8597d2107a9e3653becca2bdc
+      friendly_name: null
+  - claim_id: 458ec0d9-2b3a-4480-86e5-052ad1a12cd3
+    claim_hash: b904b367b68de18f4655a8f3bb0eac7e5f1c6c764b99e57caf28e63f560d2124
+    content: The last thing Frederick Valentich said in his radio transmission before disappearing was that the object was
+      not an aeroplane.
+    original_excerpt: the last thing he said was it's not an airplane
+    claim_type: testimony
+    attestation: second_hand
+    speaker:
+      node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+      title: Ross Coulthart
+    provenance_chain:
+      origin_kind: document
+      origin: Frederick Valentich radio transmission audio recording
+      relay:
+        - Ross Coulthart
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 19157631-6448-476b-94d2-d80cf5a10387
+        title: Frederick Valentich
+        slug: frederick-valentich
+      - node_id: 6282c596-5bd8-40f5-8b90-9653f540118e
+        title: Frederick Valentich radio transmission audio recording
+        slug: frederick-valentich-radio-transmission-audio-recording
+    date: '1978-10-21'
+    date_end: null
+    location_in_record: 00:12:18.7-00:12:22.0
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: fd845823-8784-462c-a981-4775525b6f84
+      record_title: The DANGEROUS Truth About UFOs - Ross Coulthart | DEBRIEFED ep. 76
+      record_date: '2026-02-20'
+      record_reference: https://www.youtube.com/watch?v=idBryc0eWww
+      content_hash: sha256:73be106d406f6d35a063a894e8384e7da0918eb8597d2107a9e3653becca2bdc
+      friendly_name: null
+  - claim_id: a0aa156e-50cb-4281-be10-63bc29346783
+    claim_hash: 3e3206da2a7f249a08312f6ddb317e3a190a14ab58e4d65f30c8a85dc3964e7e
+    content: The official explanation for Frederick Valentich's 1978 disappearance remains that he crashed into the water,
+      possibly while flying upside down.
+    original_excerpt: the official explanation to this day is he crashed into the water. Maybe he was flying upside down.
+    claim_type: testimony
+    attestation: null
+    speaker:
+      node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+      title: Ross Coulthart
+    provenance_chain:
+      origin_kind: unattributed
+      origin: general knowledge conveyed by Ross Coulthart
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 19157631-6448-476b-94d2-d80cf5a10387
+        title: Frederick Valentich
+        slug: frederick-valentich
+      - node_id: daa5ec49-aded-4c21-a9ce-49698d86cb89
+        title: 1978 disappearance of Frederick Valentich
+        slug: 1978-disappearance-of-frederick-valentich
+    date: null
+    date_end: null
+    location_in_record: 00:12:46.9-00:12:52.0
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: fd845823-8784-462c-a981-4775525b6f84
+      record_title: The DANGEROUS Truth About UFOs - Ross Coulthart | DEBRIEFED ep. 76
+      record_date: '2026-02-20'
+      record_reference: https://www.youtube.com/watch?v=idBryc0eWww
+      content_hash: sha256:73be106d406f6d35a063a894e8384e7da0918eb8597d2107a9e3653becca2bdc
+      friendly_name: null
+  - claim_id: a8bc0635-8e17-4d20-91dd-9740b6fd50ba
+    claim_hash: fbe0eba3add53c756ea91bb4cd0ffb2758c98ee8aa7cd4592c81b27d4c571802
+    content: Ross Coulthart considers the official inverted-flight crash explanation implausible for the type of Cessna light
+      aircraft Frederick Valentich was flying.
+    original_excerpt: There's a whole lot of reasons why that's not plausible for that particular type of Cessna aircraft.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+      title: Ross Coulthart
+    provenance_chain:
+      origin_kind: speaker
+      origin: Ross Coulthart
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 19157631-6448-476b-94d2-d80cf5a10387
+        title: Frederick Valentich
+        slug: frederick-valentich
+      - node_id: 869490f4-19be-4a53-821a-2fdde9c16328
+        title: Cessna light aircraft
+        slug: cessna-light-aircraft
+      - node_id: daa5ec49-aded-4c21-a9ce-49698d86cb89
+        title: 1978 disappearance of Frederick Valentich
+        slug: 1978-disappearance-of-frederick-valentich
+      - node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+        title: Ross Coulthart
+        slug: ross-coulthart
+    date: null
+    date_end: null
+    location_in_record: 00:12:52.4-00:12:56.3
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: fd845823-8784-462c-a981-4775525b6f84
+      record_title: The DANGEROUS Truth About UFOs - Ross Coulthart | DEBRIEFED ep. 76
+      record_date: '2026-02-20'
+      record_reference: https://www.youtube.com/watch?v=idBryc0eWww
+      content_hash: sha256:73be106d406f6d35a063a894e8384e7da0918eb8597d2107a9e3653becca2bdc
+      friendly_name: null
+  - claim_id: 9bf37308-546d-4b32-b47a-9355dd296ac1
+    claim_hash: 3ccea819163b3016e274411293052cd38f269d603716de554273be1fe9f929e2
+    content: Ross Coulthart regards the farmer's account of Frederick Valentich's aircraft being commandeered by a flying
+      saucer as apocryphal hearsay.
+    original_excerpt: That's one from a farmer, and it's an apocryphal story because it's hearsay.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+      title: Ross Coulthart
+    provenance_chain:
+      origin_kind: speaker
+      origin: Ross Coulthart
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 19157631-6448-476b-94d2-d80cf5a10387
+        title: Frederick Valentich
+        slug: frederick-valentich
+      - node_id: daa5ec49-aded-4c21-a9ce-49698d86cb89
+        title: 1978 disappearance of Frederick Valentich
+        slug: 1978-disappearance-of-frederick-valentich
+      - node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+        title: Ross Coulthart
+        slug: ross-coulthart
+    date: null
+    date_end: null
+    location_in_record: 00:13:09.0-00:13:12.1
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: fd845823-8784-462c-a981-4775525b6f84
+      record_title: The DANGEROUS Truth About UFOs - Ross Coulthart | DEBRIEFED ep. 76
+      record_date: '2026-02-20'
+      record_reference: https://www.youtube.com/watch?v=idBryc0eWww
+      content_hash: sha256:73be106d406f6d35a063a894e8384e7da0918eb8597d2107a9e3653becca2bdc
+      friendly_name: null
+  - claim_id: b3f845ed-fd1a-4565-8b40-8cc4e8b439ec
+    claim_hash: 426d98c9fa0eb47fa50a8082ac85b2f5b28e52fc140e16b3005855135e1a1464
+    content: A photograph exists of a distant object taken at sunset shortly before Frederick Valentich's 1978 disappearance
+      over Bass Strait.
+    original_excerpt: there's a photograph. There's a photograph of a very distant object shortly before. ... At sunset.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+      title: Ross Coulthart
+    provenance_chain:
+      origin_kind: speaker
+      origin: Ross Coulthart
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 19157631-6448-476b-94d2-d80cf5a10387
+        title: Frederick Valentich
+        slug: frederick-valentich
+      - node_id: daa5ec49-aded-4c21-a9ce-49698d86cb89
+        title: 1978 disappearance of Frederick Valentich
+        slug: 1978-disappearance-of-frederick-valentich
+    date: '1978-10-21'
+    date_end: null
+    location_in_record: 00:13:16.3-00:13:22.8
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: fd845823-8784-462c-a981-4775525b6f84
+      record_title: The DANGEROUS Truth About UFOs - Ross Coulthart | DEBRIEFED ep. 76
+      record_date: '2026-02-20'
+      record_reference: https://www.youtube.com/watch?v=idBryc0eWww
+      content_hash: sha256:73be106d406f6d35a063a894e8384e7da0918eb8597d2107a9e3653becca2bdc
+      friendly_name: null
+  - claim_id: c0c5f576-11cf-46ea-81c3-0e376d80dcf1
+    claim_hash: 3fa282fb78df27fd5e48a27b4095cb35408026562cc562c8ab1fd446f0fa0e41
+    content: Chris Ramsay considers the object in the sunset photograph associated with the Frederick Valentich disappearance
+      to be a fly buzzing in front of the camera.
+    original_excerpt: I see a fly. I see a fly buzzing in front of the camera and you kind of see its wings.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 24d00311-06ac-46a1-a2f5-c99f3f8e21b2
+      title: Chris Ramsay
+    provenance_chain:
+      origin_kind: speaker
+      origin: Chris Ramsay
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 19157631-6448-476b-94d2-d80cf5a10387
+        title: Frederick Valentich
+        slug: frederick-valentich
+      - node_id: 24d00311-06ac-46a1-a2f5-c99f3f8e21b2
+        title: Chris Ramsay
+        slug: chris-ramsay
+      - node_id: daa5ec49-aded-4c21-a9ce-49698d86cb89
+        title: 1978 disappearance of Frederick Valentich
+        slug: 1978-disappearance-of-frederick-valentich
+    date: null
+    date_end: null
+    location_in_record: 00:13:27.3-00:13:32.0
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: fd845823-8784-462c-a981-4775525b6f84
+      record_title: The DANGEROUS Truth About UFOs - Ross Coulthart | DEBRIEFED ep. 76
+      record_date: '2026-02-20'
+      record_reference: https://www.youtube.com/watch?v=idBryc0eWww
+      content_hash: sha256:73be106d406f6d35a063a894e8384e7da0918eb8597d2107a9e3653becca2bdc
+      friendly_name: null
+  - claim_id: 382b58fe-3e1c-4dfb-9122-7f1e28f61688
+    claim_hash: 140341d70379d0071a5d7826c9a2bc86985cbf7e3661ad1d5da78b640a2d22ca
+    content: Ross Coulthart considers the Australian Skeptics to have dismissed the first-hand witness evidence for the 1966
+      Westall UFO incident with no scientific basis, characterising it as school children getting excited and confabulating
+      after excitement about the Frederick Valentich case.
+    original_excerpt: They just sweepingly dismissed all of the evidence given by these multiple witnesses, first-hand witnesses,
+      and just said it's just a bunch of school kids getting excited and confabulating, and they were excited about the Frederick
+      Valentich case, and it's all nonsense.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+      title: Ross Coulthart
+    provenance_chain:
+      origin_kind: speaker
+      origin: Ross Coulthart
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 19157631-6448-476b-94d2-d80cf5a10387
+        title: Frederick Valentich
+        slug: frederick-valentich
+      - node_id: a66d3909-374c-40ae-b3e5-97762c0f5eb1
+        title: Australian Skeptics
+        slug: australian-skeptics
+      - node_id: e10d037b-b94e-464e-9d35-8d193a99891b
+        title: 1966 Westall Unidentified Flying Object (UFO) incident
+        slug: 1966-westall-unidentified-flying-object-ufo-incident
+      - node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+        title: Ross Coulthart
+        slug: ross-coulthart
+    date: null
+    date_end: null
+    location_in_record: 00:30:07.9-00:30:21.0
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: fd845823-8784-462c-a981-4775525b6f84
+      record_title: The DANGEROUS Truth About UFOs - Ross Coulthart | DEBRIEFED ep. 76
+      record_date: '2026-02-20'
+      record_reference: https://www.youtube.com/watch?v=idBryc0eWww
+      content_hash: sha256:73be106d406f6d35a063a894e8384e7da0918eb8597d2107a9e3653becca2bdc
+      friendly_name: null

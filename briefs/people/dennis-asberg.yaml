@@ -1,0 +1,1159 @@
+schema: anomalica/brief/1
+brief_hash: cd1d4416fd9deba60b1bc4eb233967b93947f0a5554bbdc662af9b701d2afa37
+page:
+  kind: entity
+  node_id: 0fdd20f7-03ac-4826-a495-e60294392ef9
+  node_type: person
+  title: Dennis Åsberg
+  slug: dennis-asberg
+  claim_count: 29
+  claim_count_total: 29
+generated:
+  graph_version: '2026-09-01T10:10:49.863545+00:00'
+size:
+  claims: 29
+  tokens_estimated: 8020
+  sized_against: 1050000
+publication:
+  status: published
+  note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
+    transcripts are gated elsewhere.
+belonging:
+  verified: 0
+  suspect_excluded: 0
+  unreviewed: 29
+related_nodes:
+  - node_id: f750f72c-a0ff-40ef-a891-06a2b56286d9
+    title: Merivälja object
+    node_type: object
+    slug: merivalja-object
+    shared_claims: 13
+  - node_id: 7d93e155-b9ad-4f9a-833f-5cf9be7ef411
+    title: Baltic Sea anomaly
+    node_type: object
+    slug: baltic-sea-anomaly
+    shared_claims: 8
+  - node_id: 3a99db97-5bbc-4710-a37a-dd08d103dfd4
+    title: Estonia, Tallinn, Merivälja
+    node_type: place
+    slug: tallinn-merivalja-estonia
+    shared_claims: 5
+  - node_id: f9aee024-11bf-4dfa-bac5-d6eaa724a26a
+    title: Beatriz Villarroel
+    node_type: person
+    slug: beatriz-villarroel
+    shared_claims: 3
+  - node_id: aaad19c3-782d-4a16-8673-c06ad1f13014
+    title: Estonia, Tallinn
+    node_type: place
+    slug: tallinn-estonia
+    shared_claims: 2
+  - node_id: c7d94198-c3cd-4159-8f92-2a39857ab6d8
+    title: Baltic Sea
+    node_type: place
+    slug: baltic-sea
+    shared_claims: 1
+  - node_id: 1d7dc299-a51c-4beb-bb7a-fe0d8f1c3485
+    title: European Crash Retrieval Initiative
+    node_type: organisation
+    slug: european-crash-retrieval-initiative
+    shared_claims: 1
+  - node_id: 98a3a0de-4196-4c43-aafc-b328da73588a
+    title: OceanX discovery of the Baltic Sea anomaly (2011)
+    node_type: event
+    slug: oceanx-discovery-of-the-baltic-sea-anomaly-2011
+    shared_claims: 1
+claims:
+  - claim_id: 141e3ee3-cafd-4c02-8f74-b70f9694f8c0
+    claim_hash: e531c016376bf8adaddff83f383a2d90a7c59823dffbfdfa57aa6f06bf389942
+    content: Dennis Åsberg is an explorer who discovered the Baltic Sea anomaly.
+    original_excerpt: Dennis Åsberg, the renowned explorer who's responsible for the so-called Baltic Sea anomaly
+    claim_type: administrative
+    attestation: first_hand
+    speaker:
+      node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+      title: Ross Coulthart
+    provenance_chain:
+      origin_kind: speaker
+      origin: Ross Coulthart
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 0fdd20f7-03ac-4826-a495-e60294392ef9
+        title: Dennis Åsberg
+        slug: dennis-asberg
+      - node_id: 7d93e155-b9ad-4f9a-833f-5cf9be7ef411
+        title: Baltic Sea anomaly
+        slug: baltic-sea-anomaly
+    date: null
+    date_end: null
+    location_in_record: 00:00:26.6-00:00:32.5
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 27d9666b-7dec-4bdf-914e-a05749c23e26
+      record_title: 'Secret Soviet UFOs: What happened when two scientists knocked on a door in Estonia? | Reality Check'
+      record_date: null
+      record_reference: https://www.youtube.com/watch?v=Arkw4z8rCyw
+      content_hash: sha256:06a55bcd5a315e6b8ced7e1bc51b39707caeb87249e4bc8a911eacb2dc7dd245
+      friendly_name: null
+  - claim_id: 0ff0100c-a090-4a06-a1b0-db6ca7a0cc31
+    claim_hash: 844680693b54091cc9285ceaf4f951011102456c078301ed1d35a69a7735d659
+    content: Dennis Åsberg discovered the Baltic Sea anomaly in 2011.
+    original_excerpt: he discovered the so-called Baltic anomaly in 2011
+    claim_type: administrative
+    attestation: first_hand
+    speaker:
+      node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+      title: Ross Coulthart
+    provenance_chain:
+      origin_kind: speaker
+      origin: Ross Coulthart
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 0fdd20f7-03ac-4826-a495-e60294392ef9
+        title: Dennis Åsberg
+        slug: dennis-asberg
+      - node_id: 7d93e155-b9ad-4f9a-833f-5cf9be7ef411
+        title: Baltic Sea anomaly
+        slug: baltic-sea-anomaly
+      - node_id: 98a3a0de-4196-4c43-aafc-b328da73588a
+        title: OceanX discovery of the Baltic Sea anomaly (2011)
+        slug: oceanx-discovery-of-the-baltic-sea-anomaly-2011
+    date: '2011'
+    date_end: null
+    location_in_record: 00:01:27.3-00:01:30.5
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 27d9666b-7dec-4bdf-914e-a05749c23e26
+      record_title: 'Secret Soviet UFOs: What happened when two scientists knocked on a door in Estonia? | Reality Check'
+      record_date: null
+      record_reference: https://www.youtube.com/watch?v=Arkw4z8rCyw
+      content_hash: sha256:06a55bcd5a315e6b8ced7e1bc51b39707caeb87249e4bc8a911eacb2dc7dd245
+      friendly_name: null
+  - claim_id: 85be3829-1e82-4fc3-9819-a80e6b79e725
+    claim_hash: 83fcda7219b67bba3c5cd2b57b7fef753e96b79c5c2026ea32a5c9474d850514
+    content: The European Crash Retrieval Initiative was started in December 2023 by Beatriz Villarroel, Dennis Åsberg, and
+      a few other people.
+    original_excerpt: we have this little group called the European Crash Retrieval Initiative that we started in 2023, in
+      December 2023, together with Dennis and a few more people
+    claim_type: administrative
+    attestation: first_hand
+    speaker:
+      node_id: f9aee024-11bf-4dfa-bac5-d6eaa724a26a
+      title: Beatriz Villarroel
+    provenance_chain:
+      origin_kind: speaker
+      origin: Beatriz Villarroel
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 0fdd20f7-03ac-4826-a495-e60294392ef9
+        title: Dennis Åsberg
+        slug: dennis-asberg
+      - node_id: 1d7dc299-a51c-4beb-bb7a-fe0d8f1c3485
+        title: European Crash Retrieval Initiative
+        slug: european-crash-retrieval-initiative
+      - node_id: f9aee024-11bf-4dfa-bac5-d6eaa724a26a
+        title: Beatriz Villarroel
+        slug: beatriz-villarroel
+    date: 2023-12
+    date_end: null
+    location_in_record: 00:02:06.9-00:02:17.8
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 27d9666b-7dec-4bdf-914e-a05749c23e26
+      record_title: 'Secret Soviet UFOs: What happened when two scientists knocked on a door in Estonia? | Reality Check'
+      record_date: null
+      record_reference: https://www.youtube.com/watch?v=Arkw4z8rCyw
+      content_hash: sha256:06a55bcd5a315e6b8ced7e1bc51b39707caeb87249e4bc8a911eacb2dc7dd245
+      friendly_name: null
+  - claim_id: 27f987f4-a571-434a-9e0c-61248dfe18d7
+    claim_hash: d48ed2a514579824c5924058dddcd4afdec25afea78364f55452d8671a148741
+    content: Dennis Åsberg and Beatriz Villarroel travelled from Sweden to Tallinn, Estonia to investigate the Merivälja object.
+    original_excerpt: you and Beatriz heroically, bravely crossed the ditch across from Sweden and came to Tallinn on our
+      behalf to see what you could find
+    claim_type: administrative
+    attestation: first_hand
+    speaker:
+      node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+      title: Ross Coulthart
+    provenance_chain:
+      origin_kind: speaker
+      origin: Ross Coulthart
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 0fdd20f7-03ac-4826-a495-e60294392ef9
+        title: Dennis Åsberg
+        slug: dennis-asberg
+      - node_id: aaad19c3-782d-4a16-8673-c06ad1f13014
+        title: Estonia, Tallinn
+        slug: tallinn-estonia
+      - node_id: f9aee024-11bf-4dfa-bac5-d6eaa724a26a
+        title: Beatriz Villarroel
+        slug: beatriz-villarroel
+    date: null
+    date_end: null
+    location_in_record: 00:05:45.0-00:05:54.1
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 27d9666b-7dec-4bdf-914e-a05749c23e26
+      record_title: 'Secret Soviet UFOs: What happened when two scientists knocked on a door in Estonia? | Reality Check'
+      record_date: null
+      record_reference: https://www.youtube.com/watch?v=Arkw4z8rCyw
+      content_hash: sha256:06a55bcd5a315e6b8ced7e1bc51b39707caeb87249e4bc8a911eacb2dc7dd245
+      friendly_name: null
+  - claim_id: 21eef662-5a0e-43f8-82aa-82ea334d25dd
+    claim_hash: 88f462fb91b6f95ca68db97043771366111bc58fa840bce078237360c3629263
+    content: That trip to Tallinn was Dennis Åsberg's first visit to the city.
+    original_excerpt: It was the first time for me also in Tallinn.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 0fdd20f7-03ac-4826-a495-e60294392ef9
+      title: Dennis Åsberg
+    provenance_chain:
+      origin_kind: speaker
+      origin: Dennis Åsberg
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 0fdd20f7-03ac-4826-a495-e60294392ef9
+        title: Dennis Åsberg
+        slug: dennis-asberg
+      - node_id: aaad19c3-782d-4a16-8673-c06ad1f13014
+        title: Estonia, Tallinn
+        slug: tallinn-estonia
+    date: null
+    date_end: null
+    location_in_record: 00:06:01.8-00:06:03.6
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 27d9666b-7dec-4bdf-914e-a05749c23e26
+      record_title: 'Secret Soviet UFOs: What happened when two scientists knocked on a door in Estonia? | Reality Check'
+      record_date: null
+      record_reference: https://www.youtube.com/watch?v=Arkw4z8rCyw
+      content_hash: sha256:06a55bcd5a315e6b8ced7e1bc51b39707caeb87249e4bc8a911eacb2dc7dd245
+      friendly_name: null
+  - claim_id: a9484f73-d424-4750-8f02-2c541b0befb4
+    claim_hash: 7f30cf9b89f57de80d4645987f4e1df9e10af089a6bc4d1900d49b59b1dc819e
+    content: Dennis Åsberg knocked on the door of the homeowner at the Merivälja site, but nobody answered.
+    original_excerpt: I knocked on the door. I remember there and see if I can get any answer, but nobody answered. Nobody
+      opened the door.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 0fdd20f7-03ac-4826-a495-e60294392ef9
+      title: Dennis Åsberg
+    provenance_chain:
+      origin_kind: speaker
+      origin: Dennis Åsberg
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 0fdd20f7-03ac-4826-a495-e60294392ef9
+        title: Dennis Åsberg
+        slug: dennis-asberg
+      - node_id: 3a99db97-5bbc-4710-a37a-dd08d103dfd4
+        title: Estonia, Tallinn, Merivälja
+        slug: tallinn-merivalja-estonia
+      - node_id: f750f72c-a0ff-40ef-a891-06a2b56286d9
+        title: Merivälja object
+        slug: merivalja-object
+    date: null
+    date_end: null
+    location_in_record: 00:06:20.8-00:06:26.9
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 27d9666b-7dec-4bdf-914e-a05749c23e26
+      record_title: 'Secret Soviet UFOs: What happened when two scientists knocked on a door in Estonia? | Reality Check'
+      record_date: null
+      record_reference: https://www.youtube.com/watch?v=Arkw4z8rCyw
+      content_hash: sha256:06a55bcd5a315e6b8ced7e1bc51b39707caeb87249e4bc8a911eacb2dc7dd245
+      friendly_name: null
+  - claim_id: 731ead01-2d26-42cc-8026-16297618f602
+    claim_hash: 9e303140dbdabd11912e04e434dd38b928d4caf8ee6c13843831caa64edf0af8
+    content: After getting no answer at the homeowner's door, Dennis Åsberg and Beatriz Villarroel spoke with the neighbour,
+      who was glad to talk to them about the Merivälja object.
+    original_excerpt: instead we decided to go over to the neighbor and talk to the neighbor. And the neighbors were very
+      glad that we were there. He was so happy to talk with us about the story about this thing they have been working with
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 0fdd20f7-03ac-4826-a495-e60294392ef9
+      title: Dennis Åsberg
+    provenance_chain:
+      origin_kind: speaker
+      origin: Dennis Åsberg
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 0fdd20f7-03ac-4826-a495-e60294392ef9
+        title: Dennis Åsberg
+        slug: dennis-asberg
+      - node_id: 3a99db97-5bbc-4710-a37a-dd08d103dfd4
+        title: Estonia, Tallinn, Merivälja
+        slug: tallinn-merivalja-estonia
+      - node_id: f750f72c-a0ff-40ef-a891-06a2b56286d9
+        title: Merivälja object
+        slug: merivalja-object
+    date: null
+    date_end: null
+    location_in_record: 00:06:29.7-00:06:44.2
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 27d9666b-7dec-4bdf-914e-a05749c23e26
+      record_title: 'Secret Soviet UFOs: What happened when two scientists knocked on a door in Estonia? | Reality Check'
+      record_date: null
+      record_reference: https://www.youtube.com/watch?v=Arkw4z8rCyw
+      content_hash: sha256:06a55bcd5a315e6b8ced7e1bc51b39707caeb87249e4bc8a911eacb2dc7dd245
+      friendly_name: null
+  - claim_id: 67be8206-56c7-4686-be06-be26bcdb15c4
+    claim_hash: ba33361df734ae996806633a365d82b4fc996140beea7085cddb51719965640a
+    content: According to the neighbour interviewed by Dennis Åsberg, excavators and trucks were present at the Merivälja
+      site for a long time.
+    original_excerpt: They have been here for a long time with excavators. They have trucks there.
+    claim_type: testimony
+    attestation: second_hand
+    speaker:
+      node_id: 0fdd20f7-03ac-4826-a495-e60294392ef9
+      title: Dennis Åsberg
+    provenance_chain:
+      origin_kind: named
+      origin: a neighbour of the Merivälja homeowner
+      relay:
+        - Dennis Åsberg
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 3a99db97-5bbc-4710-a37a-dd08d103dfd4
+        title: Estonia, Tallinn, Merivälja
+        slug: tallinn-merivalja-estonia
+      - node_id: f750f72c-a0ff-40ef-a891-06a2b56286d9
+        title: Merivälja object
+        slug: merivalja-object
+    date: null
+    date_end: null
+    location_in_record: 00:06:46.8-00:06:52.9
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 27d9666b-7dec-4bdf-914e-a05749c23e26
+      record_title: 'Secret Soviet UFOs: What happened when two scientists knocked on a door in Estonia? | Reality Check'
+      record_date: null
+      record_reference: https://www.youtube.com/watch?v=Arkw4z8rCyw
+      content_hash: sha256:06a55bcd5a315e6b8ced7e1bc51b39707caeb87249e4bc8a911eacb2dc7dd245
+      friendly_name: null
+  - claim_id: 13dde761-238f-4448-8e00-9b0fc27cfc10
+    claim_hash: 056f81890efd6c3b7d2f4541943fe0ebeacb56b03ab013da253bcfa78c549712
+    content: According to the neighbour interviewed by Dennis Åsberg, there had been many scientists, military personnel,
+      and journalists at the Merivälja site.
+    original_excerpt: There have been lots of scientists, people and also military people and even journalists there.
+    claim_type: testimony
+    attestation: second_hand
+    speaker:
+      node_id: 0fdd20f7-03ac-4826-a495-e60294392ef9
+      title: Dennis Åsberg
+    provenance_chain:
+      origin_kind: named
+      origin: a neighbour of the Merivälja homeowner
+      relay:
+        - Dennis Åsberg
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 3a99db97-5bbc-4710-a37a-dd08d103dfd4
+        title: Estonia, Tallinn, Merivälja
+        slug: tallinn-merivalja-estonia
+      - node_id: f750f72c-a0ff-40ef-a891-06a2b56286d9
+        title: Merivälja object
+        slug: merivalja-object
+    date: null
+    date_end: null
+    location_in_record: 00:06:53.3-00:06:58.6
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 27d9666b-7dec-4bdf-914e-a05749c23e26
+      record_title: 'Secret Soviet UFOs: What happened when two scientists knocked on a door in Estonia? | Reality Check'
+      record_date: null
+      record_reference: https://www.youtube.com/watch?v=Arkw4z8rCyw
+      content_hash: sha256:06a55bcd5a315e6b8ced7e1bc51b39707caeb87249e4bc8a911eacb2dc7dd245
+      friendly_name: null
+  - claim_id: ca8c9d0a-3782-4935-a7fd-7fdd140068a8
+    claim_hash: cce86ac252bebbce219a6e1fbeea669f81af700c543d282ab7209e2c653a318f
+    content: The neighbour interviewed by Dennis Åsberg said he had seen all the activity at the Merivälja site from his window.
+    original_excerpt: So he has seen from his window all the activity activities have been out there.
+    claim_type: testimony
+    attestation: second_hand
+    speaker:
+      node_id: 0fdd20f7-03ac-4826-a495-e60294392ef9
+      title: Dennis Åsberg
+    provenance_chain:
+      origin_kind: named
+      origin: a neighbour of the Merivälja homeowner
+      relay:
+        - Dennis Åsberg
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 3a99db97-5bbc-4710-a37a-dd08d103dfd4
+        title: Estonia, Tallinn, Merivälja
+        slug: tallinn-merivalja-estonia
+      - node_id: f750f72c-a0ff-40ef-a891-06a2b56286d9
+        title: Merivälja object
+        slug: merivalja-object
+    date: null
+    date_end: null
+    location_in_record: 00:06:59.7-00:07:05.2
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 27d9666b-7dec-4bdf-914e-a05749c23e26
+      record_title: 'Secret Soviet UFOs: What happened when two scientists knocked on a door in Estonia? | Reality Check'
+      record_date: null
+      record_reference: https://www.youtube.com/watch?v=Arkw4z8rCyw
+      content_hash: sha256:06a55bcd5a315e6b8ced7e1bc51b39707caeb87249e4bc8a911eacb2dc7dd245
+      friendly_name: null
+  - claim_id: c0269c28-e421-40c7-bad0-0db23bcb4b2e
+    claim_hash: 3ef75bd0768d5c569aca9c7db38796f8919969ad75e7872427bb603bffc74137
+    content: Dennis Åsberg and Beatriz Villarroel spoke with the neighbour at the Merivälja site for almost one hour.
+    original_excerpt: We talked for almost one hour about this.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 0fdd20f7-03ac-4826-a495-e60294392ef9
+      title: Dennis Åsberg
+    provenance_chain:
+      origin_kind: speaker
+      origin: Dennis Åsberg
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 0fdd20f7-03ac-4826-a495-e60294392ef9
+        title: Dennis Åsberg
+        slug: dennis-asberg
+      - node_id: f750f72c-a0ff-40ef-a891-06a2b56286d9
+        title: Merivälja object
+        slug: merivalja-object
+    date: null
+    date_end: null
+    location_in_record: 00:07:09.9-00:07:12.7
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 27d9666b-7dec-4bdf-914e-a05749c23e26
+      record_title: 'Secret Soviet UFOs: What happened when two scientists knocked on a door in Estonia? | Reality Check'
+      record_date: null
+      record_reference: https://www.youtube.com/watch?v=Arkw4z8rCyw
+      content_hash: sha256:06a55bcd5a315e6b8ced7e1bc51b39707caeb87249e4bc8a911eacb2dc7dd245
+      friendly_name: null
+  - claim_id: 05d6e367-0d5e-4828-b8fa-106fd6ae74b1
+    claim_hash: 8b32a683df50ce0375281addb746169a74fbefa95ad21bf0a33140ed2fd5c2a3
+    content: Dennis Åsberg does not think the Merivälja object is still present at the site, given that the military reportedly
+      used excavators to dig there, but thinks signs of it might still be found.
+    original_excerpt: if the military have been there and they have excavators down and dig. And so I don't think it's still
+      there, but perhaps we can find signs of that there have been something there.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 0fdd20f7-03ac-4826-a495-e60294392ef9
+      title: Dennis Åsberg
+    provenance_chain:
+      origin_kind: speaker
+      origin: Dennis Åsberg
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 0fdd20f7-03ac-4826-a495-e60294392ef9
+        title: Dennis Åsberg
+        slug: dennis-asberg
+      - node_id: f750f72c-a0ff-40ef-a891-06a2b56286d9
+        title: Merivälja object
+        slug: merivalja-object
+    date: null
+    date_end: null
+    location_in_record: 00:07:29.2-00:07:43.6
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 27d9666b-7dec-4bdf-914e-a05749c23e26
+      record_title: 'Secret Soviet UFOs: What happened when two scientists knocked on a door in Estonia? | Reality Check'
+      record_date: null
+      record_reference: https://www.youtube.com/watch?v=Arkw4z8rCyw
+      content_hash: sha256:06a55bcd5a315e6b8ced7e1bc51b39707caeb87249e4bc8a911eacb2dc7dd245
+      friendly_name: null
+  - claim_id: 00e05b29-890a-4fa5-b7dd-02602fa88d3c
+    claim_hash: 8c106cdf0868ecca9070cbc57161781c614f9b0acb826ba1374ca6d48749e544
+    content: The day after the initial unanswered visit, Dennis Åsberg returned to the Merivälja homeowner's house and found
+      him at home.
+    original_excerpt: the day after, we went back to try again and he was home.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 0fdd20f7-03ac-4826-a495-e60294392ef9
+      title: Dennis Åsberg
+    provenance_chain:
+      origin_kind: speaker
+      origin: Dennis Åsberg
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 0fdd20f7-03ac-4826-a495-e60294392ef9
+        title: Dennis Åsberg
+        slug: dennis-asberg
+      - node_id: 3a99db97-5bbc-4710-a37a-dd08d103dfd4
+        title: Estonia, Tallinn, Merivälja
+        slug: tallinn-merivalja-estonia
+      - node_id: f750f72c-a0ff-40ef-a891-06a2b56286d9
+        title: Merivälja object
+        slug: merivalja-object
+    date: null
+    date_end: null
+    location_in_record: 00:08:34.6-00:08:38.7
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 27d9666b-7dec-4bdf-914e-a05749c23e26
+      record_title: 'Secret Soviet UFOs: What happened when two scientists knocked on a door in Estonia? | Reality Check'
+      record_date: null
+      record_reference: https://www.youtube.com/watch?v=Arkw4z8rCyw
+      content_hash: sha256:06a55bcd5a315e6b8ced7e1bc51b39707caeb87249e4bc8a911eacb2dc7dd245
+      friendly_name: null
+  - claim_id: 2432016d-e745-4310-bbc1-1640794cdc52
+    claim_hash: ddcb801806055db1e3768e95beace6707424ade1a8ed4781278b05e0d9a1ddde
+    content: The Merivälja homeowner told Dennis Åsberg that he did not want to be involved in discussing the object and did
+      not believe in it.
+    original_excerpt: no, I don't want to be involved in this and I don't believe in this and so on.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 0fdd20f7-03ac-4826-a495-e60294392ef9
+      title: Dennis Åsberg
+    provenance_chain:
+      origin_kind: speaker
+      origin: Dennis Åsberg
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 0fdd20f7-03ac-4826-a495-e60294392ef9
+        title: Dennis Åsberg
+        slug: dennis-asberg
+      - node_id: f750f72c-a0ff-40ef-a891-06a2b56286d9
+        title: Merivälja object
+        slug: merivalja-object
+    date: null
+    date_end: null
+    location_in_record: 00:08:49.5-00:08:53.5
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 27d9666b-7dec-4bdf-914e-a05749c23e26
+      record_title: 'Secret Soviet UFOs: What happened when two scientists knocked on a door in Estonia? | Reality Check'
+      record_date: null
+      record_reference: https://www.youtube.com/watch?v=Arkw4z8rCyw
+      content_hash: sha256:06a55bcd5a315e6b8ced7e1bc51b39707caeb87249e4bc8a911eacb2dc7dd245
+      friendly_name: null
+  - claim_id: 89247cd7-7a0c-400e-8b02-6dfd38da7a3a
+    claim_hash: 6b66472c1e299e8c9cdb5215cf37d743cc90df7801a7d4cafcd5bbcd68dd52a3
+    content: The Merivälja homeowner has not responded to Dennis Åsberg's follow-up email, but Dennis Åsberg has not given
+      up trying to obtain permission to conduct a ground-penetrating radar study of the site.
+    original_excerpt: I have not answered my mail either. But I have not given up. Beatriz and I will try again to see if
+      we can get any connection with them and see if we can also use ground radar.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 0fdd20f7-03ac-4826-a495-e60294392ef9
+      title: Dennis Åsberg
+    provenance_chain:
+      origin_kind: speaker
+      origin: Dennis Åsberg
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 0fdd20f7-03ac-4826-a495-e60294392ef9
+        title: Dennis Åsberg
+        slug: dennis-asberg
+      - node_id: f750f72c-a0ff-40ef-a891-06a2b56286d9
+        title: Merivälja object
+        slug: merivalja-object
+      - node_id: f9aee024-11bf-4dfa-bac5-d6eaa724a26a
+        title: Beatriz Villarroel
+        slug: beatriz-villarroel
+    date: null
+    date_end: null
+    location_in_record: 00:09:23.7-00:09:35.8
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 27d9666b-7dec-4bdf-914e-a05749c23e26
+      record_title: 'Secret Soviet UFOs: What happened when two scientists knocked on a door in Estonia? | Reality Check'
+      record_date: null
+      record_reference: https://www.youtube.com/watch?v=Arkw4z8rCyw
+      content_hash: sha256:06a55bcd5a315e6b8ced7e1bc51b39707caeb87249e4bc8a911eacb2dc7dd245
+      friendly_name: null
+  - claim_id: d5e6cd98-c456-4256-8f1d-be8f1b1e786d
+    claim_hash: ca9b2017a18e57fbb54d6cc197f32fe4e4d6b31033d1c99e52b3eae6c87f4f7a
+    content: Dennis Åsberg prefers to use ground-penetrating radar rather than excavators to investigate the Merivälja site,
+      because ground-penetrating radar can reveal soil layers and whether digging or removal has occurred without physically
+      disturbing the ground.
+    original_excerpt: We don't do it in a simple way instead with ground radar. Then you can see all the layers and we can
+      also see if they have digged there. If they have taken up something, we're going to see that directly.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 0fdd20f7-03ac-4826-a495-e60294392ef9
+      title: Dennis Åsberg
+    provenance_chain:
+      origin_kind: speaker
+      origin: Dennis Åsberg
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 0fdd20f7-03ac-4826-a495-e60294392ef9
+        title: Dennis Åsberg
+        slug: dennis-asberg
+      - node_id: f750f72c-a0ff-40ef-a891-06a2b56286d9
+        title: Merivälja object
+        slug: merivalja-object
+    date: null
+    date_end: null
+    location_in_record: 00:09:42.6-00:09:55.1
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 27d9666b-7dec-4bdf-914e-a05749c23e26
+      record_title: 'Secret Soviet UFOs: What happened when two scientists knocked on a door in Estonia? | Reality Check'
+      record_date: null
+      record_reference: https://www.youtube.com/watch?v=Arkw4z8rCyw
+      content_hash: sha256:06a55bcd5a315e6b8ced7e1bc51b39707caeb87249e4bc8a911eacb2dc7dd245
+      friendly_name: null
+  - claim_id: e6dadd83-e7c1-40a0-a018-d3e9f7b097ef
+    claim_hash: 72ad0ab23cb1d1f955ab3daa68fe8d8e14adb0cb9906af91b926a5bf5a59bfca
+    content: The Baltic Sea anomaly and the Merivälja object are located approximately 300 kilometres apart, near Tallinn.
+    original_excerpt: we're talking about like 300 kilometers, not more than that.
+    claim_type: measurement
+    attestation: first_hand
+    speaker:
+      node_id: 0fdd20f7-03ac-4826-a495-e60294392ef9
+      title: Dennis Åsberg
+    provenance_chain:
+      origin_kind: speaker
+      origin: Dennis Åsberg
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 7d93e155-b9ad-4f9a-833f-5cf9be7ef411
+        title: Baltic Sea anomaly
+        slug: baltic-sea-anomaly
+      - node_id: aaad19c3-782d-4a16-8673-c06ad1f13014
+        title: Estonia, Tallinn
+        slug: tallinn-estonia
+      - node_id: f750f72c-a0ff-40ef-a891-06a2b56286d9
+        title: Merivälja object
+        slug: merivalja-object
+    date: null
+    date_end: null
+    location_in_record: 00:13:34.5-00:13:38.1
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 27d9666b-7dec-4bdf-914e-a05749c23e26
+      record_title: 'Secret Soviet UFOs: What happened when two scientists knocked on a door in Estonia? | Reality Check'
+      record_date: null
+      record_reference: https://www.youtube.com/watch?v=Arkw4z8rCyw
+      content_hash: sha256:06a55bcd5a315e6b8ced7e1bc51b39707caeb87249e4bc8a911eacb2dc7dd245
+      friendly_name: null
+  - claim_id: bddf7098-d4e9-4e15-93eb-de88c12ba53e
+    claim_hash: 28785d5e83375837a5f98451b87abdc930213e76f7b2b4cbd058b8cba82c29fd
+    content: Scientists who have visited the Baltic Sea anomaly have said it looks like it is constructed and is separated
+      from the seabed rather than being bedrock.
+    original_excerpt: the scientists, people have been there, have said that this is probably something that is constructed.
+      It looks like that. And it's also separated from the bottom. So it's not a bedrock
+    claim_type: opinion
+    attestation: second_hand
+    speaker:
+      node_id: 0fdd20f7-03ac-4826-a495-e60294392ef9
+      title: Dennis Åsberg
+    provenance_chain:
+      origin_kind: named
+      origin: scientists who visited the Baltic Sea anomaly
+      relay:
+        - Dennis Åsberg
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 7d93e155-b9ad-4f9a-833f-5cf9be7ef411
+        title: Baltic Sea anomaly
+        slug: baltic-sea-anomaly
+    date: null
+    date_end: null
+    location_in_record: 00:13:51.7-00:14:06.3
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 27d9666b-7dec-4bdf-914e-a05749c23e26
+      record_title: 'Secret Soviet UFOs: What happened when two scientists knocked on a door in Estonia? | Reality Check'
+      record_date: null
+      record_reference: https://www.youtube.com/watch?v=Arkw4z8rCyw
+      content_hash: sha256:06a55bcd5a315e6b8ced7e1bc51b39707caeb87249e4bc8a911eacb2dc7dd245
+      friendly_name: null
+  - claim_id: 3a655d06-eede-47ba-bd8c-0cb8ac8db53c
+    claim_hash: 27f9a5401b94b51f3f45d9f83d932698ad7a68dcafbe38ce2ee70e104afee65d
+    content: There are other reported anomalies in the Baltic Sea beyond the Baltic Sea anomaly and the Merivälja object.
+    original_excerpt: we have heard also about other anomalies in the Baltic. It's not only the Baltic Sea anomaly and Tallinn.
+      We have one another one also
+    claim_type: hearsay
+    attestation: null
+    speaker:
+      node_id: 0fdd20f7-03ac-4826-a495-e60294392ef9
+      title: Dennis Åsberg
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay:
+        - Dennis Åsberg
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 7d93e155-b9ad-4f9a-833f-5cf9be7ef411
+        title: Baltic Sea anomaly
+        slug: baltic-sea-anomaly
+      - node_id: c7d94198-c3cd-4159-8f92-2a39857ab6d8
+        title: Baltic Sea
+        slug: baltic-sea
+      - node_id: f750f72c-a0ff-40ef-a891-06a2b56286d9
+        title: Merivälja object
+        slug: merivalja-object
+    date: null
+    date_end: null
+    location_in_record: 00:14:10.0-00:14:19.6
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 27d9666b-7dec-4bdf-914e-a05749c23e26
+      record_title: 'Secret Soviet UFOs: What happened when two scientists knocked on a door in Estonia? | Reality Check'
+      record_date: null
+      record_reference: https://www.youtube.com/watch?v=Arkw4z8rCyw
+      content_hash: sha256:06a55bcd5a315e6b8ced7e1bc51b39707caeb87249e4bc8a911eacb2dc7dd245
+      friendly_name: null
+  - claim_id: ad372980-1a64-4645-b399-0fdb21f7fac1
+    claim_hash: 3edd8400a6e83a17d66aa94d64fc7b6f0476af2983fc09fdea44a57bd571420f
+    content: Dennis Åsberg has reported anomalous phenomena around the Baltic Sea anomaly similar to those reported at the
+      Merivälja object.
+    original_excerpt: you've been reporting pretty much the same kind of anomalous phenomena in and around the baltic sea
+      anomaly object haven't you
+    claim_type: observation
+    attestation: first_hand
+    speaker:
+      node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+      title: Ross Coulthart
+    provenance_chain:
+      origin_kind: speaker
+      origin: Ross Coulthart
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 0fdd20f7-03ac-4826-a495-e60294392ef9
+        title: Dennis Åsberg
+        slug: dennis-asberg
+      - node_id: 7d93e155-b9ad-4f9a-833f-5cf9be7ef411
+        title: Baltic Sea anomaly
+        slug: baltic-sea-anomaly
+      - node_id: f750f72c-a0ff-40ef-a891-06a2b56286d9
+        title: Merivälja object
+        slug: merivalja-object
+    date: null
+    date_end: null
+    location_in_record: 00:16:52.7-00:16:59.0
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 27d9666b-7dec-4bdf-914e-a05749c23e26
+      record_title: 'Secret Soviet UFOs: What happened when two scientists knocked on a door in Estonia? | Reality Check'
+      record_date: null
+      record_reference: https://www.youtube.com/watch?v=Arkw4z8rCyw
+      content_hash: sha256:06a55bcd5a315e6b8ced7e1bc51b39707caeb87249e4bc8a911eacb2dc7dd245
+      friendly_name: null
+  - claim_id: ef1630b8-7e02-4356-a5e7-79aee5889e03
+    claim_hash: 2b3ed029e685cd83217efe32387868ac365784f3c31fae63012ce58cbd23838c
+    content: Dennis Åsberg has experienced equipment failures, including GPS, sonar, and other equipment problems, almost
+      every time his team has visited the Baltic Sea anomaly.
+    original_excerpt: we have experience of that failure of equipment. And that's I mean, it's almost every time we were out
+      there... we have problems with the GPS, the equipment, sonar system and so on.
+    claim_type: observation
+    attestation: first_hand
+    speaker:
+      node_id: 0fdd20f7-03ac-4826-a495-e60294392ef9
+      title: Dennis Åsberg
+    provenance_chain:
+      origin_kind: speaker
+      origin: Dennis Åsberg
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 0fdd20f7-03ac-4826-a495-e60294392ef9
+        title: Dennis Åsberg
+        slug: dennis-asberg
+      - node_id: 7d93e155-b9ad-4f9a-833f-5cf9be7ef411
+        title: Baltic Sea anomaly
+        slug: baltic-sea-anomaly
+    date: null
+    date_end: null
+    location_in_record: 00:17:00.0-00:17:13.1
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 27d9666b-7dec-4bdf-914e-a05749c23e26
+      record_title: 'Secret Soviet UFOs: What happened when two scientists knocked on a door in Estonia? | Reality Check'
+      record_date: null
+      record_reference: https://www.youtube.com/watch?v=Arkw4z8rCyw
+      content_hash: sha256:06a55bcd5a315e6b8ced7e1bc51b39707caeb87249e4bc8a911eacb2dc7dd245
+      friendly_name: null
+  - claim_id: c4ad547a-859f-4e23-9f1d-fad8a1497d77
+    claim_hash: bf5d74ba4d1754439cd4493ea1a195e551ef6b595570044395b8aee2221c0e12
+    content: During a visit to the Baltic Sea anomaly, scientists from Germany, France, the US, and Sweden personally witnessed
+      the equipment problems that occur there, despite initially being skeptical.
+    original_excerpt: even last year when we were out with scientists, people from Germany and to Germany, France and the
+      US and even Swedish scientists. And they were skeptic... they saw it with their own eyes when they were out there. We
+      had problems even last year.
+    claim_type: observation
+    attestation: first_hand
+    speaker:
+      node_id: 0fdd20f7-03ac-4826-a495-e60294392ef9
+      title: Dennis Åsberg
+    provenance_chain:
+      origin_kind: speaker
+      origin: Dennis Åsberg
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 0fdd20f7-03ac-4826-a495-e60294392ef9
+        title: Dennis Åsberg
+        slug: dennis-asberg
+      - node_id: 7d93e155-b9ad-4f9a-833f-5cf9be7ef411
+        title: Baltic Sea anomaly
+        slug: baltic-sea-anomaly
+    date: null
+    date_end: null
+    location_in_record: 00:17:09.0-00:17:22.4
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 27d9666b-7dec-4bdf-914e-a05749c23e26
+      record_title: 'Secret Soviet UFOs: What happened when two scientists knocked on a door in Estonia? | Reality Check'
+      record_date: null
+      record_reference: https://www.youtube.com/watch?v=Arkw4z8rCyw
+      content_hash: sha256:06a55bcd5a315e6b8ced7e1bc51b39707caeb87249e4bc8a911eacb2dc7dd245
+      friendly_name: null
+  - claim_id: 2e95504c-9d3b-4f7e-8d7b-02200b8f224c
+    claim_hash: f8ab99a4c8eeb6f400574ba8da698f88feb9e6055968461c45ce980eeab9950e
+    content: Dennis Åsberg plans to return to the Merivälja homeowner and ask again for permission to conduct a ground-penetrating
+      radar study in the garden.
+    original_excerpt: that's the plan to go back and talk to him again... I'm going to take a chance again and see if it's
+      OK for us just to go out in the garden and perhaps use ground penetrating radar.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 0fdd20f7-03ac-4826-a495-e60294392ef9
+      title: Dennis Åsberg
+    provenance_chain:
+      origin_kind: speaker
+      origin: Dennis Åsberg
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 0fdd20f7-03ac-4826-a495-e60294392ef9
+        title: Dennis Åsberg
+        slug: dennis-asberg
+      - node_id: f750f72c-a0ff-40ef-a891-06a2b56286d9
+        title: Merivälja object
+        slug: merivalja-object
+    date: null
+    date_end: null
+    location_in_record: 00:21:15.3-00:21:34.8
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 27d9666b-7dec-4bdf-914e-a05749c23e26
+      record_title: 'Secret Soviet UFOs: What happened when two scientists knocked on a door in Estonia? | Reality Check'
+      record_date: null
+      record_reference: https://www.youtube.com/watch?v=Arkw4z8rCyw
+      content_hash: sha256:06a55bcd5a315e6b8ced7e1bc51b39707caeb87249e4bc8a911eacb2dc7dd245
+      friendly_name: null
+  - claim_id: 973bb585-0d6d-461b-a4ef-7d1a1e40a487
+    claim_hash: 8e0e9a0a1c2d9d5d3283169ebe59a0f7ee710fbca9390ff1247cd33e99042ff2
+    content: The Merivälja homeowner appeared shocked and unprepared when Dennis Åsberg first visited him.
+    original_excerpt: He was perhaps shocked when we were there. He was not prepared for it.
+    claim_type: observation
+    attestation: first_hand
+    speaker:
+      node_id: 0fdd20f7-03ac-4826-a495-e60294392ef9
+      title: Dennis Åsberg
+    provenance_chain:
+      origin_kind: speaker
+      origin: Dennis Åsberg
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 0fdd20f7-03ac-4826-a495-e60294392ef9
+        title: Dennis Åsberg
+        slug: dennis-asberg
+      - node_id: f750f72c-a0ff-40ef-a891-06a2b56286d9
+        title: Merivälja object
+        slug: merivalja-object
+    date: null
+    date_end: null
+    location_in_record: 00:21:22.2-00:21:26.6
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 27d9666b-7dec-4bdf-914e-a05749c23e26
+      record_title: 'Secret Soviet UFOs: What happened when two scientists knocked on a door in Estonia? | Reality Check'
+      record_date: null
+      record_reference: https://www.youtube.com/watch?v=Arkw4z8rCyw
+      content_hash: sha256:06a55bcd5a315e6b8ced7e1bc51b39707caeb87249e4bc8a911eacb2dc7dd245
+      friendly_name: null
+  - claim_id: 56e40260-8ba9-4f0f-9951-05811028b20d
+    claim_hash: e199e1ef5401357eab1dfc9f31a7047dd3c2bfe8dd74cfe5b0ffabb57f973d43
+    content: Dennis Åsberg believes it increasingly likely that the Baltic Sea anomaly was built before the last ice age.
+    original_excerpt: I believe more and more that we probably have found something that build before the last ice age.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 0fdd20f7-03ac-4826-a495-e60294392ef9
+      title: Dennis Åsberg
+    provenance_chain:
+      origin_kind: speaker
+      origin: Dennis Åsberg
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 0fdd20f7-03ac-4826-a495-e60294392ef9
+        title: Dennis Åsberg
+        slug: dennis-asberg
+      - node_id: 7d93e155-b9ad-4f9a-833f-5cf9be7ef411
+        title: Baltic Sea anomaly
+        slug: baltic-sea-anomaly
+    date: null
+    date_end: null
+    location_in_record: 00:26:39.8-00:26:48.0
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 27d9666b-7dec-4bdf-914e-a05749c23e26
+      record_title: 'Secret Soviet UFOs: What happened when two scientists knocked on a door in Estonia? | Reality Check'
+      record_date: null
+      record_reference: https://www.youtube.com/watch?v=Arkw4z8rCyw
+      content_hash: sha256:06a55bcd5a315e6b8ced7e1bc51b39707caeb87249e4bc8a911eacb2dc7dd245
+      friendly_name: null
+  - claim_id: f2d0a0da-de60-4b12-b371-8d184893e85a
+    claim_hash: b589984f5173bfb84968832708a268d4bcbaddc7b5d4d7a1b8a1318a355b20e3
+    content: Dennis Åsberg, after reviewing all the data, believes the Baltic Sea anomaly may have been built on the spot
+      before the last ice age, at a time when there was no water in that area.
+    original_excerpt: after I've seen all the data, this looks more and more that it can be something that is built on the
+      spot before the ice age when there was no water there in that area.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 0fdd20f7-03ac-4826-a495-e60294392ef9
+      title: Dennis Åsberg
+    provenance_chain:
+      origin_kind: speaker
+      origin: Dennis Åsberg
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 0fdd20f7-03ac-4826-a495-e60294392ef9
+        title: Dennis Åsberg
+        slug: dennis-asberg
+      - node_id: 7d93e155-b9ad-4f9a-833f-5cf9be7ef411
+        title: Baltic Sea anomaly
+        slug: baltic-sea-anomaly
+    date: null
+    date_end: null
+    location_in_record: 00:26:55.0-00:27:05.9
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 27d9666b-7dec-4bdf-914e-a05749c23e26
+      record_title: 'Secret Soviet UFOs: What happened when two scientists knocked on a door in Estonia? | Reality Check'
+      record_date: null
+      record_reference: https://www.youtube.com/watch?v=Arkw4z8rCyw
+      content_hash: sha256:06a55bcd5a315e6b8ced7e1bc51b39707caeb87249e4bc8a911eacb2dc7dd245
+      friendly_name: null
+  - claim_id: ee3ffb08-b366-4419-bcea-613b46b7068f
+    claim_hash: 0f819aa6b1604f1170861a287c213dec6f762f0dce11ee67b1580a853b8e80bb
+    content: Dennis Åsberg and his team spoke to neighbours of the Merivälja property who confirmed that something has been
+      happening there for a long time.
+    original_excerpt: We have talked to the neighbors and they have ever seen everything that happened for a long time also.
+    claim_type: testimony
+    attestation: second_hand
+    speaker:
+      node_id: 0fdd20f7-03ac-4826-a495-e60294392ef9
+      title: Dennis Åsberg
+    provenance_chain:
+      origin_kind: anonymous
+      origin: neighbours of the Merivälja property
+      relay:
+        - Dennis Åsberg
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 0fdd20f7-03ac-4826-a495-e60294392ef9
+        title: Dennis Åsberg
+        slug: dennis-asberg
+      - node_id: 3a99db97-5bbc-4710-a37a-dd08d103dfd4
+        title: Estonia, Tallinn, Merivälja
+        slug: tallinn-merivalja-estonia
+      - node_id: f750f72c-a0ff-40ef-a891-06a2b56286d9
+        title: Merivälja object
+        slug: merivalja-object
+    date: null
+    date_end: null
+    location_in_record: 00:31:29.9-00:31:34.9
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 27d9666b-7dec-4bdf-914e-a05749c23e26
+      record_title: 'Secret Soviet UFOs: What happened when two scientists knocked on a door in Estonia? | Reality Check'
+      record_date: null
+      record_reference: https://www.youtube.com/watch?v=Arkw4z8rCyw
+      content_hash: sha256:06a55bcd5a315e6b8ced7e1bc51b39707caeb87249e4bc8a911eacb2dc7dd245
+      friendly_name: null
+  - claim_id: 667ee311-660b-486b-ab20-f1073c33e7fd
+    claim_hash: 1c7469dbf5ade601e9af2bfc06f9752880d086eea8f78f3bfb907a9bfe44a4bc
+    content: Dennis Åsberg plans to knock on the Merivälja homeowner's door again to seek permission to use ground-penetrating
+      radar to check whether something has been or still is present at the site, without destroying anything.
+    original_excerpt: I will knock on his door...We just want to use the radar to check if there have been or still something
+      there.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 0fdd20f7-03ac-4826-a495-e60294392ef9
+      title: Dennis Åsberg
+    provenance_chain:
+      origin_kind: speaker
+      origin: Dennis Åsberg
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 0fdd20f7-03ac-4826-a495-e60294392ef9
+        title: Dennis Åsberg
+        slug: dennis-asberg
+      - node_id: 3a99db97-5bbc-4710-a37a-dd08d103dfd4
+        title: Estonia, Tallinn, Merivälja
+        slug: tallinn-merivalja-estonia
+      - node_id: f750f72c-a0ff-40ef-a891-06a2b56286d9
+        title: Merivälja object
+        slug: merivalja-object
+    date: null
+    date_end: null
+    location_in_record: 95-98
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 27d9666b-7dec-4bdf-914e-a05749c23e26
+      record_title: 'Secret Soviet UFOs: What happened when two scientists knocked on a door in Estonia? | Reality Check'
+      record_date: null
+      record_reference: https://www.youtube.com/watch?v=Arkw4z8rCyw
+      content_hash: sha256:06a55bcd5a315e6b8ced7e1bc51b39707caeb87249e4bc8a911eacb2dc7dd245
+      friendly_name: null
+  - claim_id: e8111886-40c8-490c-b201-c7b3a152db3f
+    claim_hash: bfe3172fe3ce4ecd3d78ab39fb4fc0cd18fc183f130fd7880bc2d4542d6d94e4
+    content: Dennis Asberg, associated with the Baltic Sea anomaly, has spoken about Russian interest in the site.
+    original_excerpt: And then on the, you know, are they interested in underwater stuff, Dennis Asberg, you know, the Baltic
+      Sea anomaly said that, you know, they're...
+    claim_type: hearsay
+    attestation: second_hand
+    speaker:
+      node_id: 079d4381-4273-418b-bc9a-468623f95c6e
+      title: Jesse Mitchells
+    provenance_chain:
+      origin_kind: named
+      origin: Dennis Asberg
+      relay:
+        - Jesse Michels
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 0fdd20f7-03ac-4826-a495-e60294392ef9
+        title: Dennis Åsberg
+        slug: dennis-asberg
+      - node_id: 7d93e155-b9ad-4f9a-833f-5cf9be7ef411
+        title: Baltic Sea anomaly
+        slug: baltic-sea-anomaly
+      - node_id: c7d94198-c3cd-4159-8f92-2a39857ab6d8
+        title: Baltic Sea
+        slug: baltic-sea
+    date: null
+    date_end: null
+    location_in_record: 00:39:47.2-00:39:55.0
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: dc9d8bc8-9c1f-46b4-9b89-8d86b6b08e1d
+      record_title: Jesse Michels, UAPGerb & Chris Ramsay - Flying Saucer Diner
+      record_date: '2026-07-17'
+      record_reference: https://www.youtube.com/watch?v=HFLBDi87888
+      content_hash: sha256:7b2e272d7c82fdda745ee0354d7c9cc4b0d5ba5506015ca27edd9169a768b262
+      friendly_name: null

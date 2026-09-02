@@ -1,0 +1,359 @@
+schema: anomalica/brief/1
+brief_hash: 58ca8bb052c14e0738ce5517c0793b7a5feb819e006768a3160b3df3d3090cfd
+page:
+  kind: entity
+  node_id: c7d94198-c3cd-4159-8f92-2a39857ab6d8
+  node_type: place
+  title: Baltic Sea
+  slug: baltic-sea
+  claim_count: 7
+  claim_count_total: 7
+generated:
+  graph_version: '2026-09-01T10:10:49.863545+00:00'
+size:
+  claims: 7
+  tokens_estimated: 1961
+  sized_against: 1050000
+publication:
+  status: published
+  note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
+    transcripts are gated elsewhere.
+belonging:
+  verified: 0
+  suspect_excluded: 0
+  unreviewed: 7
+related_nodes:
+  - node_id: 7d93e155-b9ad-4f9a-833f-5cf9be7ef411
+    title: Baltic Sea anomaly
+    node_type: object
+    slug: baltic-sea-anomaly
+    shared_claims: 5
+  - node_id: 944f868b-d956-4816-bec1-35b374d8aacf
+    title: Ocean X Team
+    node_type: organisation
+    slug: ocean-x-team
+    shared_claims: 2
+  - node_id: 22bd746a-0503-45aa-ad60-42904bd1812c
+    title: 2011 Baltic Sea anomaly discovery
+    node_type: event
+    slug: 2011-baltic-sea-anomaly-discovery
+    shared_claims: 1
+  - node_id: f3fd5012-43f9-4615-bf52-34f4a2e9f7ff
+    title: Alexander Deyev
+    node_type: person
+    slug: alexander-deyev
+    shared_claims: 1
+  - node_id: f9aee024-11bf-4dfa-bac5-d6eaa724a26a
+    title: Beatriz Villarroel
+    node_type: person
+    slug: beatriz-villarroel
+    shared_claims: 1
+  - node_id: 0fdd20f7-03ac-4826-a495-e60294392ef9
+    title: Dennis Åsberg
+    node_type: person
+    slug: dennis-asberg
+    shared_claims: 1
+  - node_id: aaad19c3-782d-4a16-8673-c06ad1f13014
+    title: Estonia, Tallinn
+    node_type: place
+    slug: tallinn-estonia
+    shared_claims: 1
+  - node_id: 079d4381-4273-418b-bc9a-468623f95c6e
+    title: Jesse Mitchells
+    node_type: person
+    slug: jesse-mitchells
+    shared_claims: 1
+  - node_id: f750f72c-a0ff-40ef-a891-06a2b56286d9
+    title: Merivälja object
+    node_type: object
+    slug: merivalja-object
+    shared_claims: 1
+  - node_id: 95e29275-4734-4feb-ba93-0ce455eae6bb
+    title: Nuremberg celestial phenomenon engraving of 1566
+    node_type: document
+    slug: nuremberg-celestial-phenomenon-engraving-of-1566
+    shared_claims: 1
+claims:
+  - claim_id: 21724d09-a4b4-4ff7-b585-1beb3d5ab94f
+    claim_hash: 22e3a807e4283528b03f44b1579e5a9ed1ab8ec336f0800612aa8f0c0a604e12
+    content: Alexander Deyev theorised, based on the position of celestial objects depicted, that the Nuremberg celestial
+      phenomenon engraving of 1566 more likely depicted an event over the Baltic Sea, possibly over Tallinn, rather than over
+      Nuremberg.
+    original_excerpt: he apparently had the theory that it was more likely because of the position of celestial objects somewhere
+      over the Baltic Sea and possibly over Tallinn
+    claim_type: opinion
+    attestation: third_hand
+    speaker:
+      node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+      title: Ross Coulthart
+    provenance_chain:
+      origin_kind: named
+      origin: Alexander Deyev
+      relay:
+        - Mart Sander
+        - Ross Coulthart
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 95e29275-4734-4feb-ba93-0ce455eae6bb
+        title: Nuremberg celestial phenomenon engraving of 1566
+        slug: nuremberg-celestial-phenomenon-engraving-of-1566
+      - node_id: aaad19c3-782d-4a16-8673-c06ad1f13014
+        title: Estonia, Tallinn
+        slug: tallinn-estonia
+      - node_id: c7d94198-c3cd-4159-8f92-2a39857ab6d8
+        title: Baltic Sea
+        slug: baltic-sea
+      - node_id: f3fd5012-43f9-4615-bf52-34f4a2e9f7ff
+        title: Alexander Deyev
+        slug: alexander-deyev
+    date: null
+    date_end: null
+    location_in_record: 00:12:43.9-00:12:53.2
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 27d9666b-7dec-4bdf-914e-a05749c23e26
+      record_title: 'Secret Soviet UFOs: What happened when two scientists knocked on a door in Estonia? | Reality Check'
+      record_date: null
+      record_reference: https://www.youtube.com/watch?v=Arkw4z8rCyw
+      content_hash: sha256:06a55bcd5a315e6b8ced7e1bc51b39707caeb87249e4bc8a911eacb2dc7dd245
+      friendly_name: null
+  - claim_id: 3a655d06-eede-47ba-bd8c-0cb8ac8db53c
+    claim_hash: 27f9a5401b94b51f3f45d9f83d932698ad7a68dcafbe38ce2ee70e104afee65d
+    content: There are other reported anomalies in the Baltic Sea beyond the Baltic Sea anomaly and the Merivälja object.
+    original_excerpt: we have heard also about other anomalies in the Baltic. It's not only the Baltic Sea anomaly and Tallinn.
+      We have one another one also
+    claim_type: hearsay
+    attestation: null
+    speaker:
+      node_id: 0fdd20f7-03ac-4826-a495-e60294392ef9
+      title: Dennis Åsberg
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay:
+        - Dennis Åsberg
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 7d93e155-b9ad-4f9a-833f-5cf9be7ef411
+        title: Baltic Sea anomaly
+        slug: baltic-sea-anomaly
+      - node_id: c7d94198-c3cd-4159-8f92-2a39857ab6d8
+        title: Baltic Sea
+        slug: baltic-sea
+      - node_id: f750f72c-a0ff-40ef-a891-06a2b56286d9
+        title: Merivälja object
+        slug: merivalja-object
+    date: null
+    date_end: null
+    location_in_record: 00:14:10.0-00:14:19.6
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 27d9666b-7dec-4bdf-914e-a05749c23e26
+      record_title: 'Secret Soviet UFOs: What happened when two scientists knocked on a door in Estonia? | Reality Check'
+      record_date: null
+      record_reference: https://www.youtube.com/watch?v=Arkw4z8rCyw
+      content_hash: sha256:06a55bcd5a315e6b8ced7e1bc51b39707caeb87249e4bc8a911eacb2dc7dd245
+      friendly_name: null
+  - claim_id: a5e155aa-a68c-48f8-89ba-beb702879c3a
+    claim_hash: 67ada3e27524690e3933902125972c7be102c49f89007567b2c7c6ca8a3e8948
+    content: Beatriz Villarroel considers the Baltic Sea region one of the most geologically stable regions in the world.
+    original_excerpt: the Baltic Sea region is one of the most geologically stable regions in the world.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: f9aee024-11bf-4dfa-bac5-d6eaa724a26a
+      title: Beatriz Villarroel
+    provenance_chain:
+      origin_kind: speaker
+      origin: Beatriz Villarroel
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: c7d94198-c3cd-4159-8f92-2a39857ab6d8
+        title: Baltic Sea
+        slug: baltic-sea
+      - node_id: f9aee024-11bf-4dfa-bac5-d6eaa724a26a
+        title: Beatriz Villarroel
+        slug: beatriz-villarroel
+    date: null
+    date_end: null
+    location_in_record: 00:26:04.0-00:26:08.5
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 27d9666b-7dec-4bdf-914e-a05749c23e26
+      record_title: 'Secret Soviet UFOs: What happened when two scientists knocked on a door in Estonia? | Reality Check'
+      record_date: null
+      record_reference: https://www.youtube.com/watch?v=Arkw4z8rCyw
+      content_hash: sha256:06a55bcd5a315e6b8ced7e1bc51b39707caeb87249e4bc8a911eacb2dc7dd245
+      friendly_name: null
+  - claim_id: 871d3537-bd5b-471e-90b7-54d7f3221ef4
+    claim_hash: 07afcf4a7b6622048c5e7b7b75364a7b726054b054db559dace160f527353196
+    content: The Baltic Sea anomaly was discovered in June 2011 by the Ocean X Team, a group of treasure hunters, while they
+      were searching for shipwrecks in the Baltic Sea.
+    original_excerpt: this was discovered in june of 2011 by a group of treasure hunters known as the ocean x team while searching
+      for shipwrecks
+    claim_type: administrative
+    attestation: second_hand
+    speaker:
+      node_id: 24d00311-06ac-46a1-a2f5-c99f3f8e21b2
+      title: Chris Ramsay
+    provenance_chain:
+      origin_kind: named
+      origin: Ocean X Team
+      relay:
+        - Chris Ramsey
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 22bd746a-0503-45aa-ad60-42904bd1812c
+        title: 2011 Baltic Sea anomaly discovery
+        slug: 2011-baltic-sea-anomaly-discovery
+      - node_id: 7d93e155-b9ad-4f9a-833f-5cf9be7ef411
+        title: Baltic Sea anomaly
+        slug: baltic-sea-anomaly
+      - node_id: 944f868b-d956-4816-bec1-35b374d8aacf
+        title: Ocean X Team
+        slug: ocean-x-team
+      - node_id: c7d94198-c3cd-4159-8f92-2a39857ab6d8
+        title: Baltic Sea
+        slug: baltic-sea
+    date: 2011-06
+    date_end: null
+    location_in_record: 00:15:23.2-00:15:29.0
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: bfeac055-0d75-4942-964a-5cc9f98a75b4
+      record_title: Horseshoe UAP Video Surfaces! - DEBRIEFED ep. 08
+      record_date: '2024-10-02'
+      record_reference: https://www.youtube.com/watch?v=q-Z-6r7nAc4
+      content_hash: sha256:7180fcb5127c761edd18177f3e18132e0e38af6a7e2fb279ccff499a197b888f
+      friendly_name: null
+  - claim_id: d0fd5811-ea83-46e0-a492-860719cf4951
+    claim_hash: e450c72809e48395dd248d13c52ef101fffb7d32d34f829f5f195dee8a0a0d72
+    content: The Ocean X Team found a strange circular formation about 60 metres in diameter at a depth of around 90 metres
+      in the Baltic Sea.
+    original_excerpt: they found a strange circular formation about 60 meters in diameter at a depth of around 90 meters
+    claim_type: measurement
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: named
+      origin: Ocean X Team
+      relay:
+        - Chris Ramsey
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 7d93e155-b9ad-4f9a-833f-5cf9be7ef411
+        title: Baltic Sea anomaly
+        slug: baltic-sea-anomaly
+      - node_id: 944f868b-d956-4816-bec1-35b374d8aacf
+        title: Ocean X Team
+        slug: ocean-x-team
+      - node_id: c7d94198-c3cd-4159-8f92-2a39857ab6d8
+        title: Baltic Sea
+        slug: baltic-sea
+    date: 2011-06
+    date_end: null
+    location_in_record: 00:15:29.5-00:15:35.4
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: bfeac055-0d75-4942-964a-5cc9f98a75b4
+      record_title: Horseshoe UAP Video Surfaces! - DEBRIEFED ep. 08
+      record_date: '2024-10-02'
+      record_reference: https://www.youtube.com/watch?v=q-Z-6r7nAc4
+      content_hash: sha256:7180fcb5127c761edd18177f3e18132e0e38af6a7e2fb279ccff499a197b888f
+      friendly_name: null
+  - claim_id: e8111886-40c8-490c-b201-c7b3a152db3f
+    claim_hash: bfe3172fe3ce4ecd3d78ab39fb4fc0cd18fc183f130fd7880bc2d4542d6d94e4
+    content: Dennis Asberg, associated with the Baltic Sea anomaly, has spoken about Russian interest in the site.
+    original_excerpt: And then on the, you know, are they interested in underwater stuff, Dennis Asberg, you know, the Baltic
+      Sea anomaly said that, you know, they're...
+    claim_type: hearsay
+    attestation: second_hand
+    speaker:
+      node_id: 079d4381-4273-418b-bc9a-468623f95c6e
+      title: Jesse Mitchells
+    provenance_chain:
+      origin_kind: named
+      origin: Dennis Asberg
+      relay:
+        - Jesse Michels
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 0fdd20f7-03ac-4826-a495-e60294392ef9
+        title: Dennis Åsberg
+        slug: dennis-asberg
+      - node_id: 7d93e155-b9ad-4f9a-833f-5cf9be7ef411
+        title: Baltic Sea anomaly
+        slug: baltic-sea-anomaly
+      - node_id: c7d94198-c3cd-4159-8f92-2a39857ab6d8
+        title: Baltic Sea
+        slug: baltic-sea
+    date: null
+    date_end: null
+    location_in_record: 00:39:47.2-00:39:55.0
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: dc9d8bc8-9c1f-46b4-9b89-8d86b6b08e1d
+      record_title: Jesse Michels, UAPGerb & Chris Ramsay - Flying Saucer Diner
+      record_date: '2026-07-17'
+      record_reference: https://www.youtube.com/watch?v=HFLBDi87888
+      content_hash: sha256:7b2e272d7c82fdda745ee0354d7c9cc4b0d5ba5506015ca27edd9169a768b262
+      friendly_name: null
+  - claim_id: ea4995d7-2936-43a4-bfda-e496adf3b892
+    claim_hash: 702d5291b689aaaa91fe22807d605b7153e1991fe028f255046ecdf7c0ed3cce
+    content: Jesse Michels considers the Baltic Sea to be of strategic importance and that Russia appears interested in the
+      underwater object known as the Baltic Sea anomaly.
+    original_excerpt: Well, yeah, I mean, the Baltic Sea is obviously of very strategic importance, and it seems like they're
+      interested in this object underwater.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 079d4381-4273-418b-bc9a-468623f95c6e
+      title: Jesse Mitchells
+    provenance_chain:
+      origin_kind: speaker
+      origin: Jesse Michels
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 079d4381-4273-418b-bc9a-468623f95c6e
+        title: Jesse Mitchells
+        slug: jesse-mitchells
+      - node_id: 7d93e155-b9ad-4f9a-833f-5cf9be7ef411
+        title: Baltic Sea anomaly
+        slug: baltic-sea-anomaly
+      - node_id: c7d94198-c3cd-4159-8f92-2a39857ab6d8
+        title: Baltic Sea
+        slug: baltic-sea
+    date: null
+    date_end: null
+    location_in_record: 00:39:56.9-00:40:02.8
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: dc9d8bc8-9c1f-46b4-9b89-8d86b6b08e1d
+      record_title: Jesse Michels, UAPGerb & Chris Ramsay - Flying Saucer Diner
+      record_date: '2026-07-17'
+      record_reference: https://www.youtube.com/watch?v=HFLBDi87888
+      content_hash: sha256:7b2e272d7c82fdda745ee0354d7c9cc4b0d5ba5506015ca27edd9169a768b262
+      friendly_name: null

@@ -1,0 +1,861 @@
+schema: anomalica/brief/1
+brief_hash: 6aaad8e4c9041f715487aa1e2c11db8398b5aac011480cc07a7e5a3765f13028
+page:
+  kind: entity
+  node_id: f0add216-a5fe-45e9-9e4a-1e82ebd4db2d
+  node_type: person
+  title: Lucia dos Santos
+  slug: lucia-dos-santos
+  claim_count: 22
+  claim_count_total: 22
+generated:
+  graph_version: '2026-09-01T10:10:49.863545+00:00'
+size:
+  claims: 22
+  tokens_estimated: 6296
+  sized_against: 1050000
+publication:
+  status: published
+  note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
+    transcripts are gated elsewhere.
+belonging:
+  verified: 0
+  suspect_excluded: 0
+  unreviewed: 22
+related_nodes:
+  - node_id: c3049206-6e8c-43b6-a645-5b8c47da0e56
+    title: 1917 Fatima Marian apparitions
+    node_type: event
+    slug: 1917-fatima-marian-apparitions
+    shared_claims: 9
+  - node_id: 1b8138fb-8844-40ba-9512-21dc1ea1ba39
+    title: Francisco Marto
+    node_type: person
+    slug: francisco-marto
+    shared_claims: 9
+  - node_id: d2593720-e09e-4f39-837e-4c6f88e66fbd
+    title: Jacinta Marto
+    node_type: person
+    slug: jacinta-marto
+    shared_claims: 9
+  - node_id: e6f088da-0d55-4b40-bd2f-3db0c66a481c
+    title: 1915-1916 Lucia dos Santos angelic apparitions, Fatima
+    node_type: event
+    slug: fatima-1915-1916-lucia-dos-santos-angelic-apparitions
+    shared_claims: 6
+  - node_id: 95472b02-af65-4737-896c-993994f9be27
+    title: Portugal, Fatima
+    node_type: place
+    slug: fatima-portugal
+    shared_claims: 3
+claims:
+  - claim_id: 2ff99259-d785-40d6-9ba8-959a1dd69d50
+    claim_hash: 711b9b318b60c75acdbdfede525b2f65baae3f02318db5f4fdbe94ed8e0a7b6c
+    content: In April 1915, when Lucia dos Santos was 8 years old, she was reciting the rosary near Fatima when she saw a
+      transparent white cloud and a human form.
+    original_excerpt: In April, 1915, when Lucia was 8, she was reciting the rosary near Fatima when she saw a transparent
+      white cloud and a human form.
+    claim_type: testimony
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: named
+      origin: Lucia dos Santos
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 95472b02-af65-4737-896c-993994f9be27
+        title: Portugal, Fatima
+        slug: fatima-portugal
+      - node_id: e6f088da-0d55-4b40-bd2f-3db0c66a481c
+        title: 1915-1916 Lucia dos Santos angelic apparitions, Fatima
+        slug: fatima-1915-1916-lucia-dos-santos-angelic-apparitions
+      - node_id: f0add216-a5fe-45e9-9e4a-1e82ebd4db2d
+        title: Lucia dos Santos
+        slug: lucia-dos-santos
+    date: 1915-04
+    date_end: null
+    location_in_record: ch15:13441-13566
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 220315f4-29cd-4c89-8860-44f95613d98f
+      record_title: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About UFO Influences on the Human Race'
+      record_date: '2014-09-27'
+      record_reference: null
+      content_hash: sha256:5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b8489cc11c26
+      friendly_name: 2014-09-27-ebook-the-invisible-college-what-a-group-of-scientists-has
+  - claim_id: bdf803bd-fbdc-4cc1-8650-1c7fd62e52d2
+    claim_hash: 7e5edc3b085088ac9891c0993d280ba9bbf323db00aa986326e0d56ef7ec3ff4
+    content: Lucia dos Santos's vision of the transparent white cloud and human form near Fatima recurred a second time later
+      in 1915 and a third time in October 1915.
+    original_excerpt: This happened a second time in the same year, and a third time in October.
+    claim_type: testimony
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: named
+      origin: Lucia dos Santos
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: e6f088da-0d55-4b40-bd2f-3db0c66a481c
+        title: 1915-1916 Lucia dos Santos angelic apparitions, Fatima
+        slug: fatima-1915-1916-lucia-dos-santos-angelic-apparitions
+      - node_id: f0add216-a5fe-45e9-9e4a-1e82ebd4db2d
+        title: Lucia dos Santos
+        slug: lucia-dos-santos
+    date: 1915-10
+    date_end: null
+    location_in_record: ch15:13572-13638
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 220315f4-29cd-4c89-8860-44f95613d98f
+      record_title: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About UFO Influences on the Human Race'
+      record_date: '2014-09-27'
+      record_reference: null
+      content_hash: sha256:5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b8489cc11c26
+      friendly_name: 2014-09-27-ebook-the-invisible-college-what-a-group-of-scientists-has
+  - claim_id: 76a8baab-d76e-4020-8346-3d76a408f76b
+    claim_hash: 16a390532e9d48e88cc26c249610b3af8aaedfa6c8f538ef57e5819f72321942
+    content: During 1916, Lucia dos Santos was visited three times by the angel.
+    original_excerpt: Then during 1916, Lucia was visited three times by the angel.
+    claim_type: testimony
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: named
+      origin: Lucia dos Santos
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: e6f088da-0d55-4b40-bd2f-3db0c66a481c
+        title: 1915-1916 Lucia dos Santos angelic apparitions, Fatima
+        slug: fatima-1915-1916-lucia-dos-santos-angelic-apparitions
+      - node_id: f0add216-a5fe-45e9-9e4a-1e82ebd4db2d
+        title: Lucia dos Santos
+        slug: lucia-dos-santos
+    date: '1916'
+    date_end: null
+    location_in_record: ch15:13647-13704
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 220315f4-29cd-4c89-8860-44f95613d98f
+      record_title: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About UFO Influences on the Human Race'
+      record_date: '2014-09-27'
+      record_reference: null
+      content_hash: sha256:5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b8489cc11c26
+      friendly_name: 2014-09-27-ebook-the-invisible-college-what-a-group-of-scientists-has
+  - claim_id: 0d2d4e35-7faa-4248-b95b-375759ff7783
+    claim_hash: 653570ee98c1227d9270cea2758fdc312f41eb4c4db9edb292b8477b3d68e09b
+    content: In the spring of 1916, Lucia dos Santos was with two cousins sheltering from rain in a small cave when they heard
+      the rumble of a powerful wind and a white light appeared, gliding through the valley above the tree tops, containing
+      a youth of admirable beauty who came close and said, 'I am the Angel of Peace.'
+    original_excerpt: 'The first occasion was in the spring. Lucia was with two of her cousins when rain started to fall...
+      they heard the rumble of a powerful wind—another constant in UFO behavior—and a white light appeared. It was gliding
+      through the valley above the tree tops. In the light was a youth of admirable beauty who came close to them and said:
+      "I am the Angel of Peace".'
+    claim_type: testimony
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: named
+      origin: Lucia dos Santos
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: e6f088da-0d55-4b40-bd2f-3db0c66a481c
+        title: 1915-1916 Lucia dos Santos angelic apparitions, Fatima
+        slug: fatima-1915-1916-lucia-dos-santos-angelic-apparitions
+      - node_id: f0add216-a5fe-45e9-9e4a-1e82ebd4db2d
+        title: Lucia dos Santos
+        slug: lucia-dos-santos
+    date: '1916'
+    date_end: null
+    location_in_record: ch15:13712-14164
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 220315f4-29cd-4c89-8860-44f95613d98f
+      record_title: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About UFO Influences on the Human Race'
+      record_date: '2014-09-27'
+      record_reference: null
+      content_hash: sha256:5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b8489cc11c26
+      friendly_name: 2014-09-27-ebook-the-invisible-college-what-a-group-of-scientists-has
+  - claim_id: ebe4fccc-474c-4402-b78c-9bcc22c7ae4a
+    claim_hash: 9f64cc2616516d4e02d93d7c87c40b3782f2ab22c6dae7d016ca0bdb211d18ba
+    content: When Lucia dos Santos asked the angel how they were to offer sacrifices, the angel replied to make a sacrifice
+      of everything possible and, above all, to accept and bear with submission the suffering the Lord shall send.
+    original_excerpt: '"How are we to offer sacrifices?" asked Lucia. "Make a sacrifice of everything that you possibly can….
+      Above all, accept and bear with submission the suffering that the Lord shall send you."'
+    claim_type: testimony
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: named
+      origin: Lucia dos Santos
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: e6f088da-0d55-4b40-bd2f-3db0c66a481c
+        title: 1915-1916 Lucia dos Santos angelic apparitions, Fatima
+        slug: fatima-1915-1916-lucia-dos-santos-angelic-apparitions
+      - node_id: f0add216-a5fe-45e9-9e4a-1e82ebd4db2d
+        title: Lucia dos Santos
+        slug: lucia-dos-santos
+    date: '1916'
+    date_end: null
+    location_in_record: ch15:14601-14786
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 220315f4-29cd-4c89-8860-44f95613d98f
+      record_title: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About UFO Influences on the Human Race'
+      record_date: '2014-09-27'
+      record_reference: null
+      content_hash: sha256:5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b8489cc11c26
+      friendly_name: 2014-09-27-ebook-the-invisible-college-what-a-group-of-scientists-has
+  - claim_id: 8a4a9b6f-a8f5-4ada-abc1-84611335f693
+    claim_hash: 0e984474b44f249d2fd2829915529e32bea4a2b59c3623821f9930f6fcb6af0c
+    content: The sequence of observations of the entity thought to be the Holy Virgin at Fatima was preceded, two years earlier,
+      by a series of angelic apparitions to Lucia dos Santos that Jacques Vallee characterises as a classical sequence of
+      UFO sightings.
+    original_excerpt: the entire sequence of observations of an entity thought to be the Holy Virgin had begun two years previously
+      with a fairly classical sequence of UFO sightings
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
+      title: Jacques Vallée
+    provenance_chain:
+      origin_kind: speaker
+      origin: Jacques Vallee
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: c3049206-6e8c-43b6-a645-5b8c47da0e56
+        title: 1917 Fatima Marian apparitions
+        slug: 1917-fatima-marian-apparitions
+      - node_id: e6f088da-0d55-4b40-bd2f-3db0c66a481c
+        title: 1915-1916 Lucia dos Santos angelic apparitions, Fatima
+        slug: fatima-1915-1916-lucia-dos-santos-angelic-apparitions
+      - node_id: f0add216-a5fe-45e9-9e4a-1e82ebd4db2d
+        title: Lucia dos Santos
+        slug: lucia-dos-santos
+    date: null
+    date_end: null
+    location_in_record: ch15:1632-1782
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 220315f4-29cd-4c89-8860-44f95613d98f
+      record_title: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About UFO Influences on the Human Race'
+      record_date: '2014-09-27'
+      record_reference: null
+      content_hash: sha256:5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b8489cc11c26
+      friendly_name: 2014-09-27-ebook-the-invisible-college-what-a-group-of-scientists-has
+  - claim_id: 60d94d32-6d6d-4af4-bab0-f0cd784eac17
+    claim_hash: 8d6e0a1ca0b2cdf759ffafec55dea35c2f59c5d00c94c45ff06a0c44afccace5
+    content: Two of the three children who witnessed the apparitions at Fatima died young, as the Lady had predicted, but
+      Lucia dos Santos lived secluded in a convent to an advanced age.
+    original_excerpt: Two of the three children at Fatima died young, as the Lady had predicted, but Lucia lived secluded
+      in a convent to an advanced age.
+    claim_type: testimony
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 1b8138fb-8844-40ba-9512-21dc1ea1ba39
+        title: Francisco Marto
+        slug: francisco-marto
+      - node_id: 95472b02-af65-4737-896c-993994f9be27
+        title: Portugal, Fatima
+        slug: fatima-portugal
+      - node_id: d2593720-e09e-4f39-837e-4c6f88e66fbd
+        title: Jacinta Marto
+        slug: jacinta-marto
+      - node_id: f0add216-a5fe-45e9-9e4a-1e82ebd4db2d
+        title: Lucia dos Santos
+        slug: lucia-dos-santos
+    date: null
+    date_end: null
+    location_in_record: ch15:21077-21205
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 220315f4-29cd-4c89-8860-44f95613d98f
+      record_title: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About UFO Influences on the Human Race'
+      record_date: '2014-09-27'
+      record_reference: null
+      content_hash: sha256:5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b8489cc11c26
+      friendly_name: 2014-09-27-ebook-the-invisible-college-what-a-group-of-scientists-has
+  - claim_id: e0582ebf-6d46-4f67-bdc1-8800ef8a3773
+    claim_hash: 500f7b11ebb339640a944dfd15996b0182032f99e83254c52cc4f7becf42061e
+    content: Lucia dos Santos of Fatima was closely questioned on the point of the wind moving the tree without touching other
+      trees, and stated that the Lady's feet rested lightly on the top of the leaves.
+    original_excerpt: Lucia, of Fatima, was closely questioned on this point and stated that “our Lady’s feet rested lightly
+      on the top of the leaves.”
+    claim_type: testimony
+    attestation: second_hand
+    speaker:
+      node_id: f0add216-a5fe-45e9-9e4a-1e82ebd4db2d
+      title: Lucia dos Santos
+    provenance_chain:
+      origin_kind: named
+      origin: Lucia dos Santos
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 95472b02-af65-4737-896c-993994f9be27
+        title: Portugal, Fatima
+        slug: fatima-portugal
+      - node_id: f0add216-a5fe-45e9-9e4a-1e82ebd4db2d
+        title: Lucia dos Santos
+        slug: lucia-dos-santos
+    date: null
+    date_end: null
+    location_in_record: ch15:25289-25410
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 220315f4-29cd-4c89-8860-44f95613d98f
+      record_title: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About UFO Influences on the Human Race'
+      record_date: '2014-09-27'
+      record_reference: null
+      content_hash: sha256:5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b8489cc11c26
+      friendly_name: 2014-09-27-ebook-the-invisible-college-what-a-group-of-scientists-has
+  - claim_id: bb8d634e-4800-4b23-ad82-fb2accd5d09b
+    claim_hash: 95f333c301988fc84cf9311691b34852b918e688499c88015ff5087f74e88d06
+    content: Lucia dos Santos, the oldest of the Fatima children, was 10 years old at the time of the second apparition on
+      1917-06-13 and addressed an unseen entity whose answers were not heard by others in the group.
+    original_excerpt: The oldest child, Lucia, who was 10 at the time, addressed an unseen entity whose answers were not heard
+      by others in the group.
+    claim_type: testimony
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: c3049206-6e8c-43b6-a645-5b8c47da0e56
+        title: 1917 Fatima Marian apparitions
+        slug: 1917-fatima-marian-apparitions
+      - node_id: f0add216-a5fe-45e9-9e4a-1e82ebd4db2d
+        title: Lucia dos Santos
+        slug: lucia-dos-santos
+    date: '1917-06-13'
+    date_end: null
+    location_in_record: ch15:4724-4846
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 220315f4-29cd-4c89-8860-44f95613d98f
+      record_title: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About UFO Influences on the Human Race'
+      record_date: '2014-09-27'
+      record_reference: null
+      content_hash: sha256:5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b8489cc11c26
+      friendly_name: 2014-09-27-ebook-the-invisible-college-what-a-group-of-scientists-has
+  - claim_id: bd9faf53-bc9e-4ab1-ba84-de4529031326
+    claim_hash: 18762dd214e0de62a41fc2ede3c2dc6546810a1a770fa44ee9433a6ef49aa2c8
+    content: At the 1917-09-13 Fatima apparition, the promise of a miracle on October 13 was repeated to Lucia dos Santos,
+      and the radiant globe then rose and disappeared into the sun.
+    original_excerpt: The promise of a miracle on October 13 was repeated. Then the radiant globe rose and disappeared into
+      the sun.
+    claim_type: testimony
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: c3049206-6e8c-43b6-a645-5b8c47da0e56
+        title: 1917 Fatima Marian apparitions
+        slug: 1917-fatima-marian-apparitions
+      - node_id: f0add216-a5fe-45e9-9e4a-1e82ebd4db2d
+        title: Lucia dos Santos
+        slug: lucia-dos-santos
+    date: '1917-09-13'
+    date_end: null
+    location_in_record: ch15:9985-10092
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 220315f4-29cd-4c89-8860-44f95613d98f
+      record_title: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About UFO Influences on the Human Race'
+      record_date: '2014-09-27'
+      record_reference: null
+      content_hash: sha256:5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b8489cc11c26
+      friendly_name: 2014-09-27-ebook-the-invisible-college-what-a-group-of-scientists-has
+  - claim_id: 82706c31-faa6-409a-8dbf-342d6f15ffa2
+    claim_hash: 20b5cdfd820dd42aecfa1e12e7a2f5ab1f45310f31d1395752a0a971fd8db08f
+    content: The Fatima events started with three children, nine-year-old Lucia Santos and her cousins Jacinta Marto and Francisco
+      Marto, who saw an angel in the spring of 1917.
+    original_excerpt: It started with the three children, nine-year-old Lucia Santos and her cousins, Jacinta and Francisco
+      Marto, who saw an angel in the spring of 1917.
+    claim_type: testimony
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: named
+      origin: Lucia Santos, Jacinta Marto, and Francisco Marto
+      relay:
+        - historical accounts of the Fatima apparitions
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 1b8138fb-8844-40ba-9512-21dc1ea1ba39
+        title: Francisco Marto
+        slug: francisco-marto
+      - node_id: c3049206-6e8c-43b6-a645-5b8c47da0e56
+        title: 1917 Fatima Marian apparitions
+        slug: 1917-fatima-marian-apparitions
+      - node_id: d2593720-e09e-4f39-837e-4c6f88e66fbd
+        title: Jacinta Marto
+        slug: jacinta-marto
+      - node_id: f0add216-a5fe-45e9-9e4a-1e82ebd4db2d
+        title: Lucia dos Santos
+        slug: lucia-dos-santos
+    date: 1917-03
+    date_end: null
+    location_in_record: ch5:19467-19610
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 288e1100-0497-41df-ba08-9890e519b0b9
+      record_title: American Cosmic
+      record_date: '2019'
+      record_reference: null
+      content_hash: sha256:ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b16ac4758
+      friendly_name: 2019-ebook-american-cosmic
+  - claim_id: dfd8947d-d4d2-4139-ad02-dafdf1375ab1
+    claim_hash: ec0f517e3f133c57138b1a1789c46a30128f18a2b3dddd9b26d3a6c46f5fa5cf
+    content: The angel appeared to Lucia Santos, Jacinta Marto, and Francisco Marto on three occasions and told them to follow
+      a protocol of fasting and penance.
+    original_excerpt: This angel appeared to them on three occasions and told them to follow a protocol of fasting and penance.
+    claim_type: testimony
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: named
+      origin: Lucia Santos, Jacinta Marto, and Francisco Marto
+      relay:
+        - historical accounts of the Fatima apparitions
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 1b8138fb-8844-40ba-9512-21dc1ea1ba39
+        title: Francisco Marto
+        slug: francisco-marto
+      - node_id: d2593720-e09e-4f39-837e-4c6f88e66fbd
+        title: Jacinta Marto
+        slug: jacinta-marto
+      - node_id: f0add216-a5fe-45e9-9e4a-1e82ebd4db2d
+        title: Lucia dos Santos
+        slug: lucia-dos-santos
+    date: null
+    date_end: null
+    location_in_record: ch5:19616-19713
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 288e1100-0497-41df-ba08-9890e519b0b9
+      record_title: American Cosmic
+      record_date: '2019'
+      record_reference: null
+      content_hash: sha256:ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b16ac4758
+      friendly_name: 2019-ebook-american-cosmic
+  - claim_id: e24d81db-6e44-495c-b05b-5206abbeb5c3
+    claim_hash: 9377bacba121d15008bc2b64da76288a7e9eb90bf6209ec87c032651ee767edb
+    content: On May 13 and again on June 13, 1917, Lucia Santos, Jacinta Marto, and Francisco Marto saw a beautiful lady.
+    original_excerpt: On May 13, and again on June 13, the children saw a beautiful lady.
+    claim_type: testimony
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: named
+      origin: Lucia Santos, Jacinta Marto, and Francisco Marto
+      relay:
+        - historical accounts of the Fatima apparitions
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 1b8138fb-8844-40ba-9512-21dc1ea1ba39
+        title: Francisco Marto
+        slug: francisco-marto
+      - node_id: c3049206-6e8c-43b6-a645-5b8c47da0e56
+        title: 1917 Fatima Marian apparitions
+        slug: 1917-fatima-marian-apparitions
+      - node_id: d2593720-e09e-4f39-837e-4c6f88e66fbd
+        title: Jacinta Marto
+        slug: jacinta-marto
+      - node_id: f0add216-a5fe-45e9-9e4a-1e82ebd4db2d
+        title: Lucia dos Santos
+        slug: lucia-dos-santos
+    date: '1917-05-13'
+    date_end: null
+    location_in_record: ch5:19722-19784
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 288e1100-0497-41df-ba08-9890e519b0b9
+      record_title: American Cosmic
+      record_date: '2019'
+      record_reference: null
+      content_hash: sha256:ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b16ac4758
+      friendly_name: 2019-ebook-american-cosmic
+  - claim_id: e5a45203-a86f-4881-899b-3c321b853c60
+    claim_hash: e070579c6592a8bcadf2f43918237bfd15682da77f71086e828ea4cda42b5434
+    content: The children at Fatima reported seeing the apparition six times in all.
+    original_excerpt: The children reported seeing the apparition six times in all.
+    claim_type: testimony
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 1b8138fb-8844-40ba-9512-21dc1ea1ba39
+        title: Francisco Marto
+        slug: francisco-marto
+      - node_id: c3049206-6e8c-43b6-a645-5b8c47da0e56
+        title: 1917 Fatima Marian apparitions
+        slug: 1917-fatima-marian-apparitions
+      - node_id: d2593720-e09e-4f39-837e-4c6f88e66fbd
+        title: Jacinta Marto
+        slug: jacinta-marto
+      - node_id: f0add216-a5fe-45e9-9e4a-1e82ebd4db2d
+        title: Lucia dos Santos
+        slug: lucia-dos-santos
+    date: null
+    date_end: null
+    location_in_record: ch5:20082-20139
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 288e1100-0497-41df-ba08-9890e519b0b9
+      record_title: American Cosmic
+      record_date: '2019'
+      record_reference: null
+      content_hash: sha256:ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b16ac4758
+      friendly_name: 2019-ebook-american-cosmic
+  - claim_id: 2abc282b-eb0e-4474-8ecc-95c7a23f9105
+    claim_hash: 050b493c92cc89da9ddd7e502b79571155f00e59a2dfba548240ce326d0c0d7a
+    content: Months before the 1917 Fatima apparitions began, Lucia Santos was walking on a hillside when she saw a shining
+      cloud descend from the sky containing the outline of a human form.
+    original_excerpt: Months before the apparitions of the Virgin, Lucia was out walking on a hillside when she saw a shining
+      cloud descend from the sky. In the cloud was the outline of a human form.
+    claim_type: testimony
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: named
+      origin: Lucia Santos
+      relay:
+        - Jacques Vallee's account
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: c3049206-6e8c-43b6-a645-5b8c47da0e56
+        title: 1917 Fatima Marian apparitions
+        slug: 1917-fatima-marian-apparitions
+      - node_id: f0add216-a5fe-45e9-9e4a-1e82ebd4db2d
+        title: Lucia dos Santos
+        slug: lucia-dos-santos
+    date: null
+    date_end: null
+    location_in_record: ch5:21556-21728
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 288e1100-0497-41df-ba08-9890e519b0b9
+      record_title: American Cosmic
+      record_date: '2019'
+      record_reference: null
+      content_hash: sha256:ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b16ac4758
+      friendly_name: 2019-ebook-american-cosmic
+  - claim_id: c21afd11-2b13-40ed-aaa3-a4015a2fbc17
+    claim_hash: 818a189b2e5b784703f0c02130ee406a874b73a80f2c5568c0479a6b04602fbc
+    content: Lucia Santos saw the shining human form again on a subsequent walk before the Fatima apparitions.
+    original_excerpt: She saw this again on a subsequent walk.
+    claim_type: testimony
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: named
+      origin: Lucia Santos
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: f0add216-a5fe-45e9-9e4a-1e82ebd4db2d
+        title: Lucia dos Santos
+        slug: lucia-dos-santos
+    date: null
+    date_end: null
+    location_in_record: ch5:21734-21769
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 288e1100-0497-41df-ba08-9890e519b0b9
+      record_title: American Cosmic
+      record_date: '2019'
+      record_reference: null
+      content_hash: sha256:ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b16ac4758
+      friendly_name: 2019-ebook-american-cosmic
+  - claim_id: 56aaace3-36ae-46a6-8660-7ac11cb6ac9c
+    claim_hash: 8713fcab425f626c489d55dcc796ded514387b6a4378abb70f326f2da454d572
+    content: While Lucia Santos and her cousins Jacinta Marto and Francisco Marto were playing, a white light passed over
+      them and a humanlike being appeared, this time clearly observable as a shining youth.
+    original_excerpt: Then one day when she and her cousins were out playing, a white light passed over them and the humanlike
+      being appeared again. This time she was clearly observable as a shining youth.
+    claim_type: testimony
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: named
+      origin: Lucia Santos
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 1b8138fb-8844-40ba-9512-21dc1ea1ba39
+        title: Francisco Marto
+        slug: francisco-marto
+      - node_id: d2593720-e09e-4f39-837e-4c6f88e66fbd
+        title: Jacinta Marto
+        slug: jacinta-marto
+      - node_id: f0add216-a5fe-45e9-9e4a-1e82ebd4db2d
+        title: Lucia dos Santos
+        slug: lucia-dos-santos
+    date: null
+    date_end: null
+    location_in_record: ch5:21775-21952
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 288e1100-0497-41df-ba08-9890e519b0b9
+      record_title: American Cosmic
+      record_date: '2019'
+      record_reference: null
+      content_hash: sha256:ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b16ac4758
+      friendly_name: 2019-ebook-american-cosmic
+  - claim_id: 4356421d-506f-47e6-8405-ce765e02f7ce
+    claim_hash: 5c0ce4e239dbc05543365ce2a97d6646e9b3faa12fc39b1da2cdb0f7847b2611
+    content: The shining youth instructed the Fatima children to pray and do penance.
+    original_excerpt: She gave the children instructions. They were to pray and do penance.
+    claim_type: testimony
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: named
+      origin: Lucia Santos
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 1b8138fb-8844-40ba-9512-21dc1ea1ba39
+        title: Francisco Marto
+        slug: francisco-marto
+      - node_id: d2593720-e09e-4f39-837e-4c6f88e66fbd
+        title: Jacinta Marto
+        slug: jacinta-marto
+      - node_id: f0add216-a5fe-45e9-9e4a-1e82ebd4db2d
+        title: Lucia dos Santos
+        slug: lucia-dos-santos
+    date: null
+    date_end: null
+    location_in_record: ch5:21959-22020
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 288e1100-0497-41df-ba08-9890e519b0b9
+      record_title: American Cosmic
+      record_date: '2019'
+      record_reference: null
+      content_hash: sha256:ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b16ac4758
+      friendly_name: 2019-ebook-american-cosmic
+  - claim_id: 16cfe188-b7d8-4ab9-8663-ce485a7e1f8d
+    claim_hash: b0b4a121e7b95d91d0229c9e26ba6da43313eff3d89eefecea3e0c95fc53ed4c
+    content: The experience of the shining youth left the Fatima children physically enervated for hours.
+    original_excerpt: The experience left the children physically enervated for hours
+    claim_type: testimony
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 1b8138fb-8844-40ba-9512-21dc1ea1ba39
+        title: Francisco Marto
+        slug: francisco-marto
+      - node_id: d2593720-e09e-4f39-837e-4c6f88e66fbd
+        title: Jacinta Marto
+        slug: jacinta-marto
+      - node_id: f0add216-a5fe-45e9-9e4a-1e82ebd4db2d
+        title: Lucia dos Santos
+        slug: lucia-dos-santos
+    date: null
+    date_end: null
+    location_in_record: ch5:22029-22087
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 288e1100-0497-41df-ba08-9890e519b0b9
+      record_title: American Cosmic
+      record_date: '2019'
+      record_reference: null
+      content_hash: sha256:ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b16ac4758
+      friendly_name: 2019-ebook-american-cosmic
+  - claim_id: c9583bb3-b674-448c-9885-3a002064f1ce
+    claim_hash: 93062fd89186c670d64a98611e323ce50ae176ea27511edcbc577615f59f2b52
+    content: In their testimonies, the Fatima children identified the apparition only as "a lady," not as the Virgin Mary,
+      although the entity had said she was from heaven.
+    original_excerpt: The records of the children’s testimonies indicate that they identified the lady just as “a lady,” not
+      as the Virgin Mary, although the entity had said that she was from heaven.
+    claim_type: testimony
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: document
+      origin: records of the Fatima children's testimonies
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 1b8138fb-8844-40ba-9512-21dc1ea1ba39
+        title: Francisco Marto
+        slug: francisco-marto
+      - node_id: c3049206-6e8c-43b6-a645-5b8c47da0e56
+        title: 1917 Fatima Marian apparitions
+        slug: 1917-fatima-marian-apparitions
+      - node_id: d2593720-e09e-4f39-837e-4c6f88e66fbd
+        title: Jacinta Marto
+        slug: jacinta-marto
+      - node_id: f0add216-a5fe-45e9-9e4a-1e82ebd4db2d
+        title: Lucia dos Santos
+        slug: lucia-dos-santos
+    date: null
+    date_end: null
+    location_in_record: ch5:22312-22482
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 288e1100-0497-41df-ba08-9890e519b0b9
+      record_title: American Cosmic
+      record_date: '2019'
+      record_reference: null
+      content_hash: sha256:ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b16ac4758
+      friendly_name: 2019-ebook-american-cosmic
+  - claim_id: c541bc8b-1d4d-4d9e-9f8f-9abf67668e21
+    claim_hash: 851d646f6ace757b6027982253ef110510cf928e5f025e66519c525454b0389c
+    content: The Fatima apparition first appeared to the children in an oval of bright light and instructed them to return
+      to the same place every month.
+    original_excerpt: She first appeared to the children in an oval of bright light, and she instructed them to return to
+      the same place every month, where she would greet them.
+    claim_type: testimony
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: c3049206-6e8c-43b6-a645-5b8c47da0e56
+        title: 1917 Fatima Marian apparitions
+        slug: 1917-fatima-marian-apparitions
+      - node_id: f0add216-a5fe-45e9-9e4a-1e82ebd4db2d
+        title: Lucia dos Santos
+        slug: lucia-dos-santos
+    date: null
+    date_end: null
+    location_in_record: ch5:22490-22640
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 288e1100-0497-41df-ba08-9890e519b0b9
+      record_title: American Cosmic
+      record_date: '2019'
+      record_reference: null
+      content_hash: sha256:ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b16ac4758
+      friendly_name: 2019-ebook-american-cosmic
+  - claim_id: 3e0fda38-2ca3-4733-aeac-3af9ae8dd680
+    claim_hash: 192c37b6b0c6aa39fc76e8de3093840fd8bd94e0cdcdb18f002685371a5b5521
+    content: Lucia Santos entered the Order of Carmelites as a nun and lived as a cloistered member of the convent until her
+      death in 2005.
+    original_excerpt: Lucia entered the Order of Carmelites as a nun and would live as a cloistered member of the convent
+      until her death in 2005.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: f0add216-a5fe-45e9-9e4a-1e82ebd4db2d
+        title: Lucia dos Santos
+        slug: lucia-dos-santos
+    date: '2005'
+    date_end: null
+    location_in_record: ch5:27606-27725
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 288e1100-0497-41df-ba08-9890e519b0b9
+      record_title: American Cosmic
+      record_date: '2019'
+      record_reference: null
+      content_hash: sha256:ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b16ac4758
+      friendly_name: 2019-ebook-american-cosmic

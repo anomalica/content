@@ -1,0 +1,2877 @@
+schema: anomalica/brief/1
+brief_hash: ff11c5de8f8941af525bd5500d0040dac4e96e44df86a151e6a63d7c297d9e18
+page:
+  kind: entity
+  node_id: 9140412a-da89-49d7-8057-6aa4487f2645
+  node_type: person
+  title: Kelly Cahill
+  slug: kelly-cahill
+  claim_count: 74
+  claim_count_total: 74
+generated:
+  graph_version: '2026-09-01T10:10:49.863545+00:00'
+size:
+  claims: 74
+  tokens_estimated: 23837
+  sized_against: 1050000
+publication:
+  status: published
+  note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
+    transcripts are gated elsewhere.
+belonging:
+  verified: 0
+  suspect_excluded: 0
+  unreviewed: 74
+related_nodes:
+  - node_id: a4760961-badf-4d33-a964-d2857c144afe
+    title: Kelly Cahill's husband
+    node_type: person
+    slug: kelly-cahills-husband
+    shared_claims: 18
+  - node_id: 28b5cf15-119e-4cf0-b561-c02f8ae4d8a1
+    title: 1993 Kelly Cahill case
+    node_type: event
+    slug: 1993-kelly-cahill-case
+    shared_claims: 7
+  - node_id: 01d1fc44-ac80-41d4-b635-13d85f62fcb9
+    title: Australia, Victoria, Narre Warren
+    node_type: place
+    slug: victoria-narre-warren-australia
+    shared_claims: 5
+  - node_id: ec524006-1238-42aa-9e8c-4e07c051ad63
+    title: Kelly Cahill's August 8, 1993 post-encounter dream
+    node_type: event
+    slug: 1993-post-encounter-dream-kelly-cahills-august-8
+    shared_claims: 5
+  - node_id: 787c626a-bd4f-41de-ad44-0b58c97504d6
+    title: Kelly Cahill's first "dreaming"
+    node_type: event
+    slug: kelly-cahills-first-dreaming
+    shared_claims: 4
+  - node_id: c414d774-7f4d-4fff-9778-29dda0f5a9b8
+    title: Kelly Cahill's third "dreaming"
+    node_type: event
+    slug: kelly-cahills-third-dreaming
+    shared_claims: 4
+  - node_id: ce2ed2ae-5963-4c62-92ee-fc193c65f424
+    title: Phenomena Research Australia (PRA)
+    node_type: organisation
+    slug: phenomena-research-australia-pra
+    shared_claims: 4
+  - node_id: f1cbb74c-1e77-41f7-a92f-041920e7d853
+    title: Kelly Cahill's fourth "dreaming"
+    node_type: event
+    slug: kelly-cahills-fourth-dreaming
+    shared_claims: 3
+  - node_id: 6c948c14-9342-4fc6-836d-a0b7b166b2c7
+    title: Bill (Narre Warren North second-car witness)
+    node_type: person
+    slug: bill-narre-warren-north-second-car-witness
+    shared_claims: 2
+  - node_id: 3ff75793-423c-4333-8402-d5c543074091
+    title: Bill Chalker
+    node_type: person
+    slug: bill-chalker
+    shared_claims: 2
+  - node_id: ffc4dffc-33d3-4a26-9296-5665788889d4
+    title: James Rigney
+    node_type: person
+    slug: james-rigney
+    shared_claims: 2
+  - node_id: 0507928f-2ce8-4f97-b038-792472f4b1e7
+    title: Kelly Cahill 1993 Unidentified Flying Object (UFO) encounter
+    node_type: event
+    slug: kelly-cahill-1993-unidentified-flying-object-ufo-encounter
+    shared_claims: 2
+  - node_id: 5466bb1a-e1b0-454a-af25-4819612ca07a
+    title: Kelly Cahill's second "dreaming"
+    node_type: event
+    slug: kelly-cahills-second-dreaming
+    shared_claims: 2
+  - node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+    title: Ross Coulthart
+    node_type: person
+    slug: ross-coulthart
+    shared_claims: 2
+  - node_id: c8d7d813-d750-4d28-af63-4e0a47565153
+    title: 1996-10 anonymous letter to Who magazine about Narre Warren North encounter
+    node_type: document
+    slug: 1996-10-anonymous-letter-to-who-magazine-about-narre-warren-north-encounter
+    shared_claims: 1
+  - node_id: 9a7cafdf-dbe8-4a15-a0a4-9ec1099c3618
+    title: John Auchettl
+    node_type: person
+    slug: john-auchettl
+    shared_claims: 1
+  - node_id: 14854dc9-061d-4041-9153-efa55076a7ae
+    title: Kelly Cahill's March 21, 1994 interview with Robb Tilley
+    node_type: event
+    slug: 1994-interview-with-robb-tilley-kelly-cahills-march-21
+    shared_claims: 1
+claims:
+  - claim_id: 2a8a65f2-63ae-46e1-9c25-899b3dfb392b
+    claim_hash: 2e4e3be270007a9764a990e2d409abb52981abb8ebcef9fd5cbcd2ce52d42433
+    content: Kelly Cahill described her first "dreaming" as a sensation of energy being violently sucked from her chest, followed
+      by waking to find a black-hooded figure about two metres tall with big red eyes standing between five and thirty centimetres
+      from her.
+    original_excerpt: all of a sudden I felt like something was being sucked out of my chest and the pressure... standing
+      beside me and only that far away from me (between five inches to a foot at the most) was a black figure about seven
+      feet tall (because he just reached the top of my mirror) with a hood on it, with big red eyes.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 9140412a-da89-49d7-8057-6aa4487f2645
+      title: Kelly Cahill
+    provenance_chain:
+      origin_kind: speaker
+      origin: Kelly Cahill
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 787c626a-bd4f-41de-ad44-0b58c97504d6
+        title: Kelly Cahill's first "dreaming"
+        slug: kelly-cahills-first-dreaming
+      - node_id: 9140412a-da89-49d7-8057-6aa4487f2645
+        title: Kelly Cahill
+        slug: kelly-cahill
+    date: null
+    date_end: null
+    location_in_record: 37-37
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 32687cf8-a827-40a9-b9f4-308ca4d9b2b3
+      record_title: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
+      record_date: '2005-11-14'
+      record_reference: null
+      content_hash: sha256:c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95d6ac9c3b
+      friendly_name: 2005-11-14-ebook-hair-of-the-alien-dna-and-other-forensic-evidence-for-alien
+  - claim_id: cd1b00a6-3ce7-46d1-a7ac-985c32b5df8e
+    claim_hash: 4706ad62f0842057e7860cb6fc94f27d500d779bba421a13537a4821175f16f4
+    content: Kelly Cahill and her husband experienced an apparent period of missing time associated with the bright light,
+      after which she found herself abruptly sitting in the car with no memory of what happened in between.
+    original_excerpt: From there, that is the last we remembered until… All of a sudden I'm sitting in the car, and I'm saying
+      to my husband, "What happened?" And he says to me, "I don't know. We must have gone around a comer or something."
+    claim_type: testimony
+    attestation: third_hand
+    speaker:
+      node_id: 9140412a-da89-49d7-8057-6aa4487f2645
+      title: Kelly Cahill
+    provenance_chain:
+      origin_kind: speaker
+      origin: Kelly Cahill
+      relay:
+        - Robb Tilley's March 21, 1994 interview
+        - Bill Chalker's book
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 9140412a-da89-49d7-8057-6aa4487f2645
+        title: Kelly Cahill
+        slug: kelly-cahill
+      - node_id: a4760961-badf-4d33-a964-d2857c144afe
+        title: Kelly Cahill's husband
+        slug: kelly-cahills-husband
+    date: null
+    date_end: null
+    location_in_record: '60'
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 32687cf8-a827-40a9-b9f4-308ca4d9b2b3
+      record_title: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
+      record_date: '2005-11-14'
+      record_reference: null
+      content_hash: sha256:c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95d6ac9c3b
+      friendly_name: 2005-11-14-ebook-hair-of-the-alien-dna-and-other-forensic-evidence-for-alien
+  - claim_id: 507c7591-0ca6-4c38-8d25-d0171537bbaf
+    claim_hash: 4750eecb0ff343bbf80a28d3b0e6e48e2d31b9aef0c88bc8da337c6736f58ca4
+    content: Kelly Cahill underwent a second laparoscopy about six weeks after her hospital treatment, due to ongoing stomach
+      pain, and the triangular mark was still present on her body at that time.
+    original_excerpt: I went back in later, another six weeks after that, because I had a lot of pains in my stomach, and
+      just wanted to have it checked to see what it was. And I still had the triangular mark there.
+    claim_type: testimony
+    attestation: second_hand
+    speaker:
+      node_id: 9140412a-da89-49d7-8057-6aa4487f2645
+      title: Kelly Cahill
+    provenance_chain:
+      origin_kind: speaker
+      origin: Kelly Cahill
+      relay:
+        - Bill Chalker's book
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 9140412a-da89-49d7-8057-6aa4487f2645
+        title: Kelly Cahill
+        slug: kelly-cahill
+    date: null
+    date_end: null
+    location_in_record: ch11:10143-10330
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 32687cf8-a827-40a9-b9f4-308ca4d9b2b3
+      record_title: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
+      record_date: '2005-11-14'
+      record_reference: null
+      content_hash: sha256:c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95d6ac9c3b
+      friendly_name: 2005-11-14-ebook-hair-of-the-alien-dna-and-other-forensic-evidence-for-alien
+  - claim_id: 5f0e4544-d374-4ff5-9826-fe81c8c31830
+    claim_hash: 093ed4f4e6787029c9f7890fd11b6913dd63dce7c89329516aa6120185c3f4a9
+    content: During Kelly Cahill's second laparoscopy, the surgical cut was made directly next to her pre-existing triangular
+      mark with no comment from medical staff, and a friend later wrote a letter confirming she had seen the triangular mark.
+    original_excerpt: They just did a blooming laparoscopy cut right next to it. [There was] no comment whatsoever…. I have
+      a letter from a friend saying that she saw [the triangular mark].
+    claim_type: testimony
+    attestation: second_hand
+    speaker:
+      node_id: 9140412a-da89-49d7-8057-6aa4487f2645
+      title: Kelly Cahill
+    provenance_chain:
+      origin_kind: speaker
+      origin: Kelly Cahill
+      relay:
+        - Bill Chalker's book
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 9140412a-da89-49d7-8057-6aa4487f2645
+        title: Kelly Cahill
+        slug: kelly-cahill
+    date: null
+    date_end: null
+    location_in_record: ch11:10339-10500
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 32687cf8-a827-40a9-b9f4-308ca4d9b2b3
+      record_title: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
+      record_date: '2005-11-14'
+      record_reference: null
+      content_hash: sha256:c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95d6ac9c3b
+      friendly_name: 2005-11-14-ebook-hair-of-the-alien-dna-and-other-forensic-evidence-for-alien
+  - claim_id: 46021b31-d7f5-4c63-b4de-555eac2ba92b
+    claim_hash: 19d498d4b7358580aca2cd07eff7c76aa8936d30cf4e52a8c80a57e2fc8047c3
+    content: Kelly Cahill's recollections of the 1993 encounter did not emerge from hypnosis; she had only one hypnosis session,
+      held after the main investigation was already complete, which failed to reveal anything significant.
+    original_excerpt: Kelly's recollections did not emerge from hypnosis. Indeed, she had only one session well after the
+      main investigation of her encounter had been completed, and it failed to reveal anything of significance.
+    claim_type: observation
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: narration
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 9140412a-da89-49d7-8057-6aa4487f2645
+        title: Kelly Cahill
+        slug: kelly-cahill
+    date: null
+    date_end: null
+    location_in_record: ch11:10538-10730
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 32687cf8-a827-40a9-b9f4-308ca4d9b2b3
+      record_title: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
+      record_date: '2005-11-14'
+      record_reference: null
+      content_hash: sha256:c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95d6ac9c3b
+      friendly_name: 2005-11-14-ebook-hair-of-the-alien-dna-and-other-forensic-evidence-for-alien
+  - claim_id: 66dcb0da-eb4a-44c0-b743-5091d29aac43
+    claim_hash: 2f48250b422160bc5ed53187e7af16d593b0695fe743c9254cd2446e907e0e69
+    content: Kelly Cahill felt she was only lightly hypnotised during her one hypnosis session and generally considered the
+      session to be of little value.
+    original_excerpt: Kelly felt she was at best only lightly under and generally thought the session was of little value.
+    claim_type: opinion
+    attestation: second_hand
+    speaker:
+      node_id: 9140412a-da89-49d7-8057-6aa4487f2645
+      title: Kelly Cahill
+    provenance_chain:
+      origin_kind: speaker
+      origin: Kelly Cahill
+      relay:
+        - Bill Chalker's book
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 9140412a-da89-49d7-8057-6aa4487f2645
+        title: Kelly Cahill
+        slug: kelly-cahill
+    date: null
+    date_end: null
+    location_in_record: ch11:10745-10839
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 32687cf8-a827-40a9-b9f4-308ca4d9b2b3
+      record_title: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
+      record_date: '2005-11-14'
+      record_reference: null
+      content_hash: sha256:c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95d6ac9c3b
+      friendly_name: 2005-11-14-ebook-hair-of-the-alien-dna-and-other-forensic-evidence-for-alien
+  - claim_id: 510d4996-7fbe-445d-ba15-72792283ea6f
+    claim_hash: 3a73c7cedf7fe256ffa063f1db427ecf0ffaf588c67f1cd7ed3a439c8f792f6b
+    content: A few weeks after the encounter, Kelly Cahill's husband reminded her of what they had seen while she had no memory
+      of it, and a few days later her memory of the object hovering over the road suddenly returned.
+    original_excerpt: It had been totally blanked out of my mind. And I search my head for days... He was telling me, "Remember
+      on the way home from [your girlfriend's], remember, it wasn't making any noise… ?"... And a few days later, all of a
+      sudden I remembered it! It hit me!
+    claim_type: testimony
+    attestation: third_hand
+    speaker:
+      node_id: 9140412a-da89-49d7-8057-6aa4487f2645
+      title: Kelly Cahill
+    provenance_chain:
+      origin_kind: speaker
+      origin: Kelly Cahill
+      relay:
+        - Robb Tilley's March 21, 1994 interview
+        - Bill Chalker's book
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 9140412a-da89-49d7-8057-6aa4487f2645
+        title: Kelly Cahill
+        slug: kelly-cahill
+      - node_id: a4760961-badf-4d33-a964-d2857c144afe
+        title: Kelly Cahill's husband
+        slug: kelly-cahills-husband
+    date: null
+    date_end: null
+    location_in_record: ch11:11352-11652
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 32687cf8-a827-40a9-b9f4-308ca4d9b2b3
+      record_title: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
+      record_date: '2005-11-14'
+      record_reference: null
+      content_hash: sha256:c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95d6ac9c3b
+      friendly_name: 2005-11-14-ebook-hair-of-the-alien-dna-and-other-forensic-evidence-for-alien
+  - claim_id: 6886f2b5-ce8a-4405-ae2e-1c24242a566d
+    claim_hash: b88fd2e37be27f71378b2a6c48168f6979f61668bb8e62470967f33604ce0975
+    content: In October 1993, while driving home along the same road after visiting her friend for a second birthday and playing
+      Bingo again, Kelly Cahill felt sudden terror at a certain spot and by the next morning had remembered nearly everything
+      that happened, aside from some remaining missing time.
+    original_excerpt: I went up to [my girlfriend's] house again in October, this time for her other daughter's… birthday,
+      and again we went to Bingo. On the way home from Bingo that night, we went along the same road, and as we passed a certain
+      spot I just got this incredible feeling of terror go through me... All of a sudden I just started remembering and by
+      the next morning I. had remembered just about everything that happened, except there's still missing time that I can't
+      [remember].
+    claim_type: testimony
+    attestation: third_hand
+    speaker:
+      node_id: 9140412a-da89-49d7-8057-6aa4487f2645
+      title: Kelly Cahill
+    provenance_chain:
+      origin_kind: speaker
+      origin: Kelly Cahill
+      relay:
+        - Robb Tilley's March 21, 1994 interview
+        - Bill Chalker's book
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 9140412a-da89-49d7-8057-6aa4487f2645
+        title: Kelly Cahill
+        slug: kelly-cahill
+      - node_id: c414d774-7f4d-4fff-9778-29dda0f5a9b8
+        title: Kelly Cahill's third "dreaming"
+        slug: kelly-cahills-third-dreaming
+    date: 1993-10
+    date_end: null
+    location_in_record: ch11:12005-12488
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 32687cf8-a827-40a9-b9f4-308ca4d9b2b3
+      record_title: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
+      record_date: '2005-11-14'
+      record_reference: null
+      content_hash: sha256:c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95d6ac9c3b
+      friendly_name: 2005-11-14-ebook-hair-of-the-alien-dna-and-other-forensic-evidence-for-alien
+  - claim_id: 6fa04e42-3462-46c1-8ab6-607f81e1fbae
+    claim_hash: 84fe9b513c05a406541f49be9bee697c13eb6e3455bd64ad9efffd78970e51b6
+    content: Kelly Cahill recalled that the bright light they had driven towards was actually located to the right of the
+      road in a field rather than directly ahead, because the road had curved.
+    original_excerpt: What we had actually done, we had driven… into the light, but the road curved and the light we had thought
+      was in front of us was actually to our right-hand side. It was in the field, and it was massive.
+    claim_type: testimony
+    attestation: third_hand
+    speaker:
+      node_id: 9140412a-da89-49d7-8057-6aa4487f2645
+      title: Kelly Cahill
+    provenance_chain:
+      origin_kind: speaker
+      origin: Kelly Cahill
+      relay:
+        - Robb Tilley's March 21, 1994 interview
+        - Bill Chalker's book
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 01d1fc44-ac80-41d4-b635-13d85f62fcb9
+        title: Australia, Victoria, Narre Warren
+        slug: victoria-narre-warren-australia
+      - node_id: 9140412a-da89-49d7-8057-6aa4487f2645
+        title: Kelly Cahill
+        slug: kelly-cahill
+    date: null
+    date_end: null
+    location_in_record: ch11:12500-12695
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 32687cf8-a827-40a9-b9f4-308ca4d9b2b3
+      record_title: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
+      record_date: '2005-11-14'
+      record_reference: null
+      content_hash: sha256:c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95d6ac9c3b
+      friendly_name: 2005-11-14-ebook-hair-of-the-alien-dna-and-other-forensic-evidence-for-alien
+  - claim_id: 2a0b9de3-4d45-40b3-b9ee-99bd6be3425b
+    claim_hash: 2bc89dc04d46b4368bc92cd1ed0f23237fae4744e7e0e69687c124ebc2359b37
+    content: Estimates put the possible diameter of the object Kelly Cahill saw in the field at close to 50 metres, comparable
+      to the size of a house.
+    original_excerpt: '[Estimates put the possible diameter of the UFO at "the size of a house" or perhaps close to 50 meters.]'
+    claim_type: measurement
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: editorial note
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 9140412a-da89-49d7-8057-6aa4487f2645
+        title: Kelly Cahill
+        slug: kelly-cahill
+    date: null
+    date_end: null
+    location_in_record: ch11:12708-12803
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 32687cf8-a827-40a9-b9f4-308ca4d9b2b3
+      record_title: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
+      record_date: '2005-11-14'
+      record_reference: null
+      content_hash: sha256:c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95d6ac9c3b
+      friendly_name: 2005-11-14-ebook-hair-of-the-alien-dna-and-other-forensic-evidence-for-alien
+  - claim_id: 4d234e18-2855-4bf0-ae99-c28f1511efd1
+    claim_hash: 15c9e16dbe74a7fda4966b2c6ff3ab22ac3e556403733a07d269885b0c1cac33
+    content: Kelly Cahill judged the object in the field to be very large because they could have driven for five minutes
+      along the winding road without losing sight of it.
+    original_excerpt: Why I knew it was very big was because we could have driven for five minutes. The road sort of wound
+      around this part. You could have driven forfive minutes and not had it out of your sight the whole time.
+    claim_type: testimony
+    attestation: third_hand
+    speaker:
+      node_id: 9140412a-da89-49d7-8057-6aa4487f2645
+      title: Kelly Cahill
+    provenance_chain:
+      origin_kind: speaker
+      origin: Kelly Cahill
+      relay:
+        - Robb Tilley's March 21, 1994 interview
+        - Bill Chalker's book
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 9140412a-da89-49d7-8057-6aa4487f2645
+        title: Kelly Cahill
+        slug: kelly-cahill
+    date: null
+    date_end: null
+    location_in_record: ch11:12832-13032
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 32687cf8-a827-40a9-b9f4-308ca4d9b2b3
+      record_title: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
+      record_date: '2005-11-14'
+      record_reference: null
+      content_hash: sha256:c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95d6ac9c3b
+      friendly_name: 2005-11-14-ebook-hair-of-the-alien-dna-and-other-forensic-evidence-for-alien
+  - claim_id: 9cc15851-8446-40b0-8470-e8a3976b847c
+    claim_hash: 0beed90001eedf8f1011af5f932b1d693de4db6d49b577184f132c5606fcb732
+    content: Kelly Cahill and her husband had a clear, uninterrupted view of a craft of enormous size, much larger than the
+      UFO seen a few minutes earlier, resting at ground level in a field at the bottom of a gully area.
+    original_excerpt: Kelly and her husband had a clear, uninterrupted view of a craft of enormous size. It was much larger
+      than the UFO seen a few minutes earlier and it was at ground level in the field at the bottom of a gully area.
+    claim_type: observation
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: narration
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 01d1fc44-ac80-41d4-b635-13d85f62fcb9
+        title: Australia, Victoria, Narre Warren
+        slug: victoria-narre-warren-australia
+      - node_id: 9140412a-da89-49d7-8057-6aa4487f2645
+        title: Kelly Cahill
+        slug: kelly-cahill
+      - node_id: a4760961-badf-4d33-a964-d2857c144afe
+        title: Kelly Cahill's husband
+        slug: kelly-cahills-husband
+    date: null
+    date_end: null
+    location_in_record: ch11:13039-13246
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 32687cf8-a827-40a9-b9f4-308ca4d9b2b3
+      record_title: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
+      record_date: '2005-11-14'
+      record_reference: null
+      content_hash: sha256:c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95d6ac9c3b
+      friendly_name: 2005-11-14-ebook-hair-of-the-alien-dna-and-other-forensic-evidence-for-alien
+  - claim_id: f2e30112-46c6-4dfb-b0c3-95779b4f454f
+    claim_hash: 94340fb50ee308642bf870c7a37e3d643b91389ba1d89b9ce9dd35002e82edf4
+    content: Kelly Cahill and her husband stopped the car and got out to look at the object; Kelly recalled leaning back into
+      the car to retrieve her handbag as one of the details that later triggered the return of her memories.
+    original_excerpt: I asked him to stop the car and we both got out. I remembered leaning back in, actually on the floor
+      to pick up my handbag because I didn't go anywhere without my handbag. And that's one of the sort of things that triggered
+      off a lot of these memories doing that.
+    claim_type: testimony
+    attestation: third_hand
+    speaker:
+      node_id: 9140412a-da89-49d7-8057-6aa4487f2645
+      title: Kelly Cahill
+    provenance_chain:
+      origin_kind: speaker
+      origin: Kelly Cahill
+      relay:
+        - Robb Tilley's March 21, 1994 interview
+        - Bill Chalker's book
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 9140412a-da89-49d7-8057-6aa4487f2645
+        title: Kelly Cahill
+        slug: kelly-cahill
+      - node_id: a4760961-badf-4d33-a964-d2857c144afe
+        title: Kelly Cahill's husband
+        slug: kelly-cahills-husband
+    date: null
+    date_end: null
+    location_in_record: ch11:13253-13511
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 32687cf8-a827-40a9-b9f4-308ca4d9b2b3
+      record_title: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
+      record_date: '2005-11-14'
+      record_reference: null
+      content_hash: sha256:c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95d6ac9c3b
+      friendly_name: 2005-11-14-ebook-hair-of-the-alien-dna-and-other-forensic-evidence-for-alien
+  - claim_id: 2cb5a4b1-71fd-498c-a5ff-b8123398e519
+    claim_hash: 9896190c306824580f52109518072c082c7ab61ee9aa65bf36011ff078737e59
+    content: After crossing the road towards the object, Kelly Cahill saw another car, light blue in colour, parked down the
+      road with people getting out, though she initially thought there were two people when there were actually three.
+    original_excerpt: I looked down the road and there was another car—a light blue car—pulled up. Some people got out, and
+      went across the road. I only thought it was two, but it was actually three, but I didn't pay much attention.
+    claim_type: testimony
+    attestation: third_hand
+    speaker:
+      node_id: 9140412a-da89-49d7-8057-6aa4487f2645
+      title: Kelly Cahill
+    provenance_chain:
+      origin_kind: speaker
+      origin: Kelly Cahill
+      relay:
+        - Robb Tilley's March 21, 1994 interview
+        - Bill Chalker's book
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 6c948c14-9342-4fc6-836d-a0b7b166b2c7
+        title: Bill (Narre Warren North second-car witness)
+        slug: bill-narre-warren-north-second-car-witness
+      - node_id: 9140412a-da89-49d7-8057-6aa4487f2645
+        title: Kelly Cahill
+        slug: kelly-cahill
+    date: null
+    date_end: null
+    location_in_record: ch11:13961-14162
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 32687cf8-a827-40a9-b9f4-308ca4d9b2b3
+      record_title: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
+      record_date: '2005-11-14'
+      record_reference: null
+      content_hash: sha256:c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95d6ac9c3b
+      friendly_name: 2005-11-14-ebook-hair-of-the-alien-dna-and-other-forensic-evidence-for-alien
+  - claim_id: 38ca07d9-a785-4770-a01a-f30b99dc349c
+    claim_hash: 329e62b9aca7a663ec73fd2a8027f78514814d30e5254390ab70bc6744a8667b
+    content: Kelly Cahill saw a black figure appear in the field, standing about 2.1 metres tall.
+    original_excerpt: All of a sudden there is a black figure on the field. It's about seven foot [sic] tall…. I knew it was
+      really tall at the time.
+    claim_type: testimony
+    attestation: third_hand
+    speaker:
+      node_id: 9140412a-da89-49d7-8057-6aa4487f2645
+      title: Kelly Cahill
+    provenance_chain:
+      origin_kind: speaker
+      origin: Kelly Cahill
+      relay:
+        - Robb Tilley's March 21, 1994 interview
+        - Bill Chalker's book
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 9140412a-da89-49d7-8057-6aa4487f2645
+        title: Kelly Cahill
+        slug: kelly-cahill
+    date: null
+    date_end: null
+    location_in_record: ch11:14509-14631
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 32687cf8-a827-40a9-b9f4-308ca4d9b2b3
+      record_title: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
+      record_date: '2005-11-14'
+      record_reference: null
+      content_hash: sha256:c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95d6ac9c3b
+      friendly_name: 2005-11-14-ebook-hair-of-the-alien-dna-and-other-forensic-evidence-for-alien
+  - claim_id: 030c93f5-8ba1-4844-a50c-2a23c3dcb435
+    claim_hash: d87e1ab617fba389fd7c6e551381efbd3e7f5f64b0b06a0136cf218d56b18a9c
+    content: Kelly Cahill expected the figure she saw to be a human being, but its shape was wrong and it was not human; she
+      was immediately overwhelmed with fear when she tried to communicate with it using thought.
+    original_excerpt: For Kelly this was quite startling. Somehow she expected to see a human being, but this was not human.
+      Its shape was all wrong. Kelly tried to use thought as a means to communicate. She was immediately overwhelmed with
+      fear.
+    claim_type: testimony
+    attestation: null
+    speaker:
+      node_id: 9140412a-da89-49d7-8057-6aa4487f2645
+      title: Kelly Cahill
+    provenance_chain:
+      origin_kind: unattributed
+      origin: narration attributed to Kelly Cahill's account
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 9140412a-da89-49d7-8057-6aa4487f2645
+        title: Kelly Cahill
+        slug: kelly-cahill
+    date: null
+    date_end: null
+    location_in_record: ch11:14640-14859
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 32687cf8-a827-40a9-b9f4-308ca4d9b2b3
+      record_title: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
+      record_date: '2005-11-14'
+      record_reference: null
+      content_hash: sha256:c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95d6ac9c3b
+      friendly_name: 2005-11-14-ebook-hair-of-the-alien-dna-and-other-forensic-evidence-for-alien
+  - claim_id: 98b77d36-abf3-4d59-b19a-52a04f12de69
+    claim_hash: 0ee5039b7bca01b1a8cd35f279af000589db62aecc20599d207e9acc551c3185
+    content: At a distance of about 150 metres, the eyes of the figure Kelly Cahill saw appeared to turn to a red fire with
+      extraordinary luminosity.
+    original_excerpt: Its eyes seemed to turn to a red fire. At the distance of about 150 meters, they possessed an extraordinary
+      luminosity.
+    claim_type: observation
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: narration attributed to Kelly Cahill's account
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 9140412a-da89-49d7-8057-6aa4487f2645
+        title: Kelly Cahill
+        slug: kelly-cahill
+    date: null
+    date_end: null
+    location_in_record: ch11:14865-14973
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 32687cf8-a827-40a9-b9f4-308ca4d9b2b3
+      record_title: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
+      record_date: '2005-11-14'
+      record_reference: null
+      content_hash: sha256:c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95d6ac9c3b
+      friendly_name: 2005-11-14-ebook-hair-of-the-alien-dna-and-other-forensic-evidence-for-alien
+  - claim_id: 507c3f2c-87a2-41d2-9865-8d233c8377dd
+    claim_hash: a971ae6c7431675e7b276227c9524cb8d8c9fdc2d4dcb7e69cf58eb0dfbf860b
+    content: Kelly Cahill described the figure's eyes as great big round red eyes, resembling huge fly's eyes, burning red
+      like fluorescent stop lights rather than a reflection.
+    original_excerpt: it had great big round red eyes, like huge fly's eyes, and they were red like, not like a reflection
+      of red, but like burning red, like… fluorescent stop lights, I suppose, that sort of real burning red.
+    claim_type: testimony
+    attestation: third_hand
+    speaker:
+      node_id: 9140412a-da89-49d7-8057-6aa4487f2645
+      title: Kelly Cahill
+    provenance_chain:
+      origin_kind: speaker
+      origin: Kelly Cahill
+      relay:
+        - Robb Tilley's March 21, 1994 interview
+        - Bill Chalker's book
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 9140412a-da89-49d7-8057-6aa4487f2645
+        title: Kelly Cahill
+        slug: kelly-cahill
+    date: null
+    date_end: null
+    location_in_record: ch11:15076-15275
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 32687cf8-a827-40a9-b9f4-308ca4d9b2b3
+      record_title: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
+      record_date: '2005-11-14'
+      record_reference: null
+      content_hash: sha256:c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95d6ac9c3b
+      friendly_name: 2005-11-14-ebook-hair-of-the-alien-dna-and-other-forensic-evidence-for-alien
+  - claim_id: 8f56acc9-3ab8-4065-a6ae-2b1aaffc0329
+    claim_hash: 826acbe002f661deaea81c59351fc1d04669ef29d3abc3c053371174c2ae44da
+    content: Kelly Cahill began screaming that the beings had no souls, a phrase she found baffling to have said because she
+      felt a human being would not normally know or say this.
+    original_excerpt: Now this has really got me baffled because of the fact that a human being doesn't know this, so I don't
+      even know how I came out with this, but I started saying "They've got no souls," and then I started screaming "THEY'VE
+      GOT NO SOULS."
+    claim_type: testimony
+    attestation: third_hand
+    speaker:
+      node_id: 9140412a-da89-49d7-8057-6aa4487f2645
+      title: Kelly Cahill
+    provenance_chain:
+      origin_kind: speaker
+      origin: Kelly Cahill
+      relay:
+        - Robb Tilley's March 21, 1994 interview
+        - Bill Chalker's book
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 9140412a-da89-49d7-8057-6aa4487f2645
+        title: Kelly Cahill
+        slug: kelly-cahill
+    date: null
+    date_end: null
+    location_in_record: ch11:15339-15571
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 32687cf8-a827-40a9-b9f4-308ca4d9b2b3
+      record_title: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
+      record_date: '2005-11-14'
+      record_reference: null
+      content_hash: sha256:c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95d6ac9c3b
+      friendly_name: 2005-11-14-ebook-hair-of-the-alien-dna-and-other-forensic-evidence-for-alien
+  - claim_id: d12b8211-e0a9-41f5-815d-d8cacd28b8e6
+    claim_hash: 2a269f7c4601c95310a65d360f0901f22ed410a38161731d0ea3762f414b9fdb
+    content: Kelly Cahill saw multiple beings appear in the field, moving faster than a man could run and gliding off the
+      ground, some heading towards the other witnesses down the road and some towards Kelly and her husband.
+    original_excerpt: Then all of a sudden there were heaps of them in the field, not just one, a whole heap of them, and
+      they started coming towards us, I mean … faster than a man could run, and they were gliding off the ground. They got
+      halfway across the field. They split up, some of them went towards the other people... and some of them... came towards
+      us.
+    claim_type: testimony
+    attestation: third_hand
+    speaker:
+      node_id: 9140412a-da89-49d7-8057-6aa4487f2645
+      title: Kelly Cahill
+    provenance_chain:
+      origin_kind: speaker
+      origin: Kelly Cahill
+      relay:
+        - Robb Tilley's March 21, 1994 interview
+        - Bill Chalker's book
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 9140412a-da89-49d7-8057-6aa4487f2645
+        title: Kelly Cahill
+        slug: kelly-cahill
+    date: null
+    date_end: null
+    location_in_record: ch11:15580-15974
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 32687cf8-a827-40a9-b9f4-308ca4d9b2b3
+      record_title: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
+      record_date: '2005-11-14'
+      record_reference: null
+      content_hash: sha256:c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95d6ac9c3b
+      friendly_name: 2005-11-14-ebook-hair-of-the-alien-dna-and-other-forensic-evidence-for-alien
+  - claim_id: 0fc4f52a-2bca-472a-be73-822d43fce7cc
+    claim_hash: 140920e4af7fb6141870c157394ce861ea3710697f73ddc0700d60e197d9f194
+    content: Kelly Cahill screamed out to the other group of witnesses down the road that the beings were evil and were going
+      to kill them.
+    original_excerpt: Kelly found herself screaming out to the other group of people down the road, "They're evil! They're
+      going to kill us!"
+    claim_type: testimony
+    attestation: third_hand
+    speaker:
+      node_id: 9140412a-da89-49d7-8057-6aa4487f2645
+      title: Kelly Cahill
+    provenance_chain:
+      origin_kind: speaker
+      origin: Kelly Cahill
+      relay:
+        - Robb Tilley's March 21, 1994 interview
+        - Bill Chalker's book
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 6c948c14-9342-4fc6-836d-a0b7b166b2c7
+        title: Bill (Narre Warren North second-car witness)
+        slug: bill-narre-warren-north-second-car-witness
+      - node_id: 9140412a-da89-49d7-8057-6aa4487f2645
+        title: Kelly Cahill
+        slug: kelly-cahill
+    date: null
+    date_end: null
+    location_in_record: ch11:15979-16095
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 32687cf8-a827-40a9-b9f4-308ca4d9b2b3
+      record_title: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
+      record_date: '2005-11-14'
+      record_reference: null
+      content_hash: sha256:c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95d6ac9c3b
+      friendly_name: 2005-11-14-ebook-hair-of-the-alien-dna-and-other-forensic-evidence-for-alien
+  - claim_id: 9765e8b6-8ba7-4682-8123-36ffc8124210
+    claim_hash: 65a674ee29d579484d21663abd44ce17a42c19f22885e9cb380297aa48685a8d
+    content: Kelly Cahill felt a sudden impact in her stomach as if winded, was thrown backwards onto the ground, and temporarily
+      lost her vision.
+    original_excerpt: The next thing I know I felt this Umph! in my stomach, right across here like I was winded, but I was
+      thrown right hack and I was on my back on the ground. I sat up, with my head between my knees... My eyes. … It was all
+      black. I couldn't see anything.
+    claim_type: testimony
+    attestation: third_hand
+    speaker:
+      node_id: 9140412a-da89-49d7-8057-6aa4487f2645
+      title: Kelly Cahill
+    provenance_chain:
+      origin_kind: speaker
+      origin: Kelly Cahill
+      relay:
+        - Robb Tilley's March 21, 1994 interview
+        - Bill Chalker's book
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 9140412a-da89-49d7-8057-6aa4487f2645
+        title: Kelly Cahill
+        slug: kelly-cahill
+    date: null
+    date_end: null
+    location_in_record: ch11:16101-16394
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 32687cf8-a827-40a9-b9f4-308ca4d9b2b3
+      record_title: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
+      record_date: '2005-11-14'
+      record_reference: null
+      content_hash: sha256:c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95d6ac9c3b
+      friendly_name: 2005-11-14-ebook-hair-of-the-alien-dna-and-other-forensic-evidence-for-alien
+  - claim_id: 49405526-e35a-48e7-9308-2e254d3119a1
+    claim_hash: 049acefbb1fd1cbe1b7134283c01a54e65dfb83f685247c1169001d2cd1e4e5f
+    content: Kelly Cahill speculated that being winded during the encounter may have been caused by an electric fence at the
+      site, though the investigation found this fence was inside the main fence line, likely not strong enough to have winded
+      her, and most likely not switched on at the time.
+    original_excerpt: Kelly speculated that her being "winded" may have been caused by an electric fence at the site. However,
+      this electric fence was inside the main fence line, would probably not have been sufficiently strong to have "winded"
+      her, and most likely was not on at the time.
+    claim_type: observation
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: narration, incorporating Kelly Cahill's speculation
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 9140412a-da89-49d7-8057-6aa4487f2645
+        title: Kelly Cahill
+        slug: kelly-cahill
+    date: null
+    date_end: null
+    location_in_record: ch11:16478-16740
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 32687cf8-a827-40a9-b9f4-308ca4d9b2b3
+      record_title: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
+      record_date: '2005-11-14'
+      record_reference: null
+      content_hash: sha256:c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95d6ac9c3b
+      friendly_name: 2005-11-14-ebook-hair-of-the-alien-dna-and-other-forensic-evidence-for-alien
+  - claim_id: 6fe5c600-8d4b-408d-85de-a126fc871cdc
+    claim_hash: e559ee0ce31914f94ae67cb09db544cb54ee786ba65e13763efd0ae28c37d1fb
+    content: Kelly Cahill heard her husband say "let go of me" with his voice cracked with fear, which she found unusual because
+      he was not normally frightened or afraid of anything.
+    original_excerpt: the next thing I heard him saying "Let go of me." His voice was all sort of cracked up with fear, and
+      I'd never heard that from my husband. He's not frightened or afraid of anything….
+    claim_type: testimony
+    attestation: third_hand
+    speaker:
+      node_id: 9140412a-da89-49d7-8057-6aa4487f2645
+      title: Kelly Cahill
+    provenance_chain:
+      origin_kind: speaker
+      origin: Kelly Cahill
+      relay:
+        - Robb Tilley's March 21, 1994 interview
+        - Bill Chalker's book
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 9140412a-da89-49d7-8057-6aa4487f2645
+        title: Kelly Cahill
+        slug: kelly-cahill
+      - node_id: a4760961-badf-4d33-a964-d2857c144afe
+        title: Kelly Cahill's husband
+        slug: kelly-cahills-husband
+    date: null
+    date_end: null
+    location_in_record: ch11:16987-17161
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 32687cf8-a827-40a9-b9f4-308ca4d9b2b3
+      record_title: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
+      record_date: '2005-11-14'
+      record_reference: null
+      content_hash: sha256:c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95d6ac9c3b
+      friendly_name: 2005-11-14-ebook-hair-of-the-alien-dna-and-other-forensic-evidence-for-alien
+  - claim_id: 99f76b9a-9b41-4812-9b0c-44c971caa87c
+    claim_hash: 7cd4651021753a4d7088e668852fd31e39e882db92defa98f3ee0d898050fcab
+    content: Kelly Cahill heard a male voice during the encounter say they did not mean any harm, and ask why her husband
+      had hit Kelly, after which she heard nothing further from her husband.
+    original_excerpt: Then this male voice said, "We [don't] mean you any harm." And then he said, "Why did you hit Kelly
+      then?" That's the last I heard of [my husband].
+    claim_type: testimony
+    attestation: third_hand
+    speaker:
+      node_id: 9140412a-da89-49d7-8057-6aa4487f2645
+      title: Kelly Cahill
+    provenance_chain:
+      origin_kind: speaker
+      origin: Kelly Cahill
+      relay:
+        - Robb Tilley's March 21, 1994 interview
+        - Bill Chalker's book
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 9140412a-da89-49d7-8057-6aa4487f2645
+        title: Kelly Cahill
+        slug: kelly-cahill
+      - node_id: a4760961-badf-4d33-a964-d2857c144afe
+        title: Kelly Cahill's husband
+        slug: kelly-cahills-husband
+    date: null
+    date_end: null
+    location_in_record: ch11:17173-17312
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 32687cf8-a827-40a9-b9f4-308ca4d9b2b3
+      record_title: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
+      record_date: '2005-11-14'
+      record_reference: null
+      content_hash: sha256:c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95d6ac9c3b
+      friendly_name: 2005-11-14-ebook-hair-of-the-alien-dna-and-other-forensic-evidence-for-alien
+  - claim_id: d8e94ae9-edf8-4be0-8e46-5a4647bbaf58
+    claim_hash: 7c7e27d65ba21100fbaa9122d1bdea922da925cda36391927113e1a4c8b64f38
+    content: Kelly Cahill heard talk during the encounter of the beings being a peaceful people, and screamed for the other
+      witnesses not to believe them because they were going to steal their souls.
+    original_excerpt: Then I remember hearing talk about being "a peaceful people," and I started screaming out, I said, "Don't
+      believe them, they're going to steal your souls."
+    claim_type: testimony
+    attestation: third_hand
+    speaker:
+      node_id: 9140412a-da89-49d7-8057-6aa4487f2645
+      title: Kelly Cahill
+    provenance_chain:
+      origin_kind: speaker
+      origin: Kelly Cahill
+      relay:
+        - Robb Tilley's March 21, 1994 interview
+        - Bill Chalker's book
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 9140412a-da89-49d7-8057-6aa4487f2645
+        title: Kelly Cahill
+        slug: kelly-cahill
+    date: null
+    date_end: null
+    location_in_record: ch11:17591-17740
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 32687cf8-a827-40a9-b9f4-308ca4d9b2b3
+      record_title: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
+      record_date: '2005-11-14'
+      record_reference: null
+      content_hash: sha256:c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95d6ac9c3b
+      friendly_name: 2005-11-14-ebook-hair-of-the-alien-dna-and-other-forensic-evidence-for-alien
+  - claim_id: 4e66bed5-550a-4467-94f0-f9b4ca788266
+    claim_hash: cdd117ab6589c24854fa7cf5bdebda826a19c348221a78087fa5bd544b3b600e
+    content: Kelly Cahill heard a voice during the encounter say it would not harm her because "she's my daughter," which
+      Kelly took as sarcasm given her earlier prayer that had begun with the word "Father."
+    original_excerpt: 'there''s one thing I remember that he said: "I wouldn''t harm her. She''s my daughter." Now when I
+      first saw the [UFO]… on the way up to [my girlfriend''s] in the field, the first thing I did was pray. And I took it
+      as sarcasm straight away.'
+    claim_type: testimony
+    attestation: third_hand
+    speaker:
+      node_id: 9140412a-da89-49d7-8057-6aa4487f2645
+      title: Kelly Cahill
+    provenance_chain:
+      origin_kind: speaker
+      origin: Kelly Cahill
+      relay:
+        - Robb Tilley's March 21, 1994 interview
+        - Bill Chalker's book
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 9140412a-da89-49d7-8057-6aa4487f2645
+        title: Kelly Cahill
+        slug: kelly-cahill
+    date: null
+    date_end: null
+    location_in_record: ch11:17980-18213
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 32687cf8-a827-40a9-b9f4-308ca4d9b2b3
+      record_title: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
+      record_date: '2005-11-14'
+      record_reference: null
+      content_hash: sha256:c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95d6ac9c3b
+      friendly_name: 2005-11-14-ebook-hair-of-the-alien-dna-and-other-forensic-evidence-for-alien
+  - claim_id: 7d797736-b1a4-481d-a959-6dbde21a6be0
+    claim_hash: c4b1b4726d08eea4511781da7c2744930b957a93d9e5810ac58b1bc30b1dfdf3
+    content: On seeing the ring of orange lights on 1993-08-07, Kelly Cahill made a silent prayer beginning with the word
+      "Father," asking to be shown its meaning when she passed the same spot on her way back.
+    original_excerpt: So she made a silent prayer, which began with "Father." She thought for a moment, "Wait for me… I'll
+      be back down this way in a few hours."
+    claim_type: testimony
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: narration, drawing on Kelly Cahill's account
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 9140412a-da89-49d7-8057-6aa4487f2645
+        title: Kelly Cahill
+        slug: kelly-cahill
+    date: '1993-08-07'
+    date_end: null
+    location_in_record: ch11:18718-18850
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 32687cf8-a827-40a9-b9f4-308ca4d9b2b3
+      record_title: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
+      record_date: '2005-11-14'
+      record_reference: null
+      content_hash: sha256:c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95d6ac9c3b
+      friendly_name: 2005-11-14-ebook-hair-of-the-alien-dna-and-other-forensic-evidence-for-alien
+  - claim_id: 174ee921-11c5-4e7f-941b-daa9eb9ad56f
+    claim_hash: 327a1d7c985bd91583ed2729385117079119227e776cd31fe8a6b0b60a8ace44
+    content: Kelly Cahill had long been on a spiritual quest anchored in a religious journey and a desire to understand life's
+      great mysteries, and although she had little time for organised religion she had a deep interest in religious works
+      and the Bible.
+    original_excerpt: Kelly had long been on a spiritual quest, which was anchored in a religious journey and a desire to
+      understand the great mysteries. While she had little time for organized religion, she had a deep interest in the great
+      religious works and the Bible in particular.
+    claim_type: observation
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: narration
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 9140412a-da89-49d7-8057-6aa4487f2645
+        title: Kelly Cahill
+        slug: kelly-cahill
+    date: null
+    date_end: null
+    location_in_record: ch11:18860-19112
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 32687cf8-a827-40a9-b9f4-308ca4d9b2b3
+      record_title: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
+      record_date: '2005-11-14'
+      record_reference: null
+      content_hash: sha256:c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95d6ac9c3b
+      friendly_name: 2005-11-14-ebook-hair-of-the-alien-dna-and-other-forensic-evidence-for-alien
+  - claim_id: c1ad5e37-5b48-4ba9-b232-9fa022624960
+    claim_hash: 1b9196f8025b5971ca156d9d630ce2cf7b560169b052dc87ffeb62d7a1d992b3
+    content: Kelly Cahill felt "mocked" during the 1993-08-08 encounter when she heard a voice say "she is my daughter" in
+      apparent response to her earlier prayer to a "Father," and she stated aloud that this could not be her father.
+    original_excerpt: given her brief prayer for clarification of the nature of the UFO event on the way to her friend's on
+      August 7, and the use of the word "Father," she felt "mocked" when during the close encounter of August 8, on the way
+      back from her friend's, she heard a voice saying, "She is my daughter." To Kelly there was no way this was her "father,"
+      and she said as much before losing consciousness.
+    claim_type: testimony
+    attestation: null
+    speaker:
+      node_id: 9140412a-da89-49d7-8057-6aa4487f2645
+      title: Kelly Cahill
+    provenance_chain:
+      origin_kind: unattributed
+      origin: narration, drawing on Kelly Cahill's account
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 9140412a-da89-49d7-8057-6aa4487f2645
+        title: Kelly Cahill
+        slug: kelly-cahill
+    date: '1993-08-08'
+    date_end: null
+    location_in_record: ch11:19136-19513
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 32687cf8-a827-40a9-b9f4-308ca4d9b2b3
+      record_title: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
+      record_date: '2005-11-14'
+      record_reference: null
+      content_hash: sha256:c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95d6ac9c3b
+      friendly_name: 2005-11-14-ebook-hair-of-the-alien-dna-and-other-forensic-evidence-for-alien
+  - claim_id: ce0cf2f8-d7d1-4648-8c93-16459790cbd8
+    claim_hash: 4bc1632ed680fa5123a2e1b464e8155fa15756dc37c499a87bf006b1d9f0a59d
+    content: During the encounter, Kelly Cahill screamed and spoke about demons trying to steal people's souls, an utterance
+      she later found herself reluctant to admit had come from her own mouth.
+    original_excerpt: Anyway, I started screaming and going on about demons trying to steal people's souls. That's what I
+      did. I know it sounds stupid, but I did. I like not to admit that it came from my mouth, but it did.
+    claim_type: testimony
+    attestation: third_hand
+    speaker:
+      node_id: 9140412a-da89-49d7-8057-6aa4487f2645
+      title: Kelly Cahill
+    provenance_chain:
+      origin_kind: speaker
+      origin: Kelly Cahill
+      relay:
+        - Robb Tilley's March 21, 1994 interview
+        - Bill Chalker's book
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 9140412a-da89-49d7-8057-6aa4487f2645
+        title: Kelly Cahill
+        slug: kelly-cahill
+    date: null
+    date_end: null
+    location_in_record: ch11:19529-19725
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 32687cf8-a827-40a9-b9f4-308ca4d9b2b3
+      record_title: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
+      record_date: '2005-11-14'
+      record_reference: null
+      content_hash: sha256:c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95d6ac9c3b
+      friendly_name: 2005-11-14-ebook-hair-of-the-alien-dna-and-other-forensic-evidence-for-alien
+  - claim_id: f4b4f742-3a50-4c3b-b0f2-f9bcd676b510
+    claim_hash: ad11b1958c80a29547a95dfff1034e3bb27f64fb8f9dae9b5423cc73e53960a6
+    content: During the encounter, Kelly Cahill heard a voice say someone should do something about her, and then felt a gentle
+      hand touch her shoulder, which caused her to react intensely.
+    original_excerpt: Next thing I hear him saying "Would somebody do something about her." And I felt a hand… touch my shoulder.
+      It wasn't hard, it was quite gentle. That's when I absolutely cracked!
+    claim_type: testimony
+    attestation: third_hand
+    speaker:
+      node_id: 9140412a-da89-49d7-8057-6aa4487f2645
+      title: Kelly Cahill
+    provenance_chain:
+      origin_kind: speaker
+      origin: Kelly Cahill
+      relay:
+        - Robb Tilley's March 21, 1994 interview
+        - Bill Chalker's book
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 9140412a-da89-49d7-8057-6aa4487f2645
+        title: Kelly Cahill
+        slug: kelly-cahill
+    date: null
+    date_end: null
+    location_in_record: ch11:19793-19964
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 32687cf8-a827-40a9-b9f4-308ca4d9b2b3
+      record_title: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
+      record_date: '2005-11-14'
+      record_reference: null
+      content_hash: sha256:c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95d6ac9c3b
+      friendly_name: 2005-11-14-ebook-hair-of-the-alien-dna-and-other-forensic-evidence-for-alien
+  - claim_id: 67cf8742-5874-4b5c-9136-7664e9576896
+    claim_hash: a10731a9e8ed44eb7a8beb3b02ebc671799479487b09a717818796199f7ce51f
+    content: Kelly Cahill had a bizarre dream on the night of 1993-08-08 that emerged within hours of her encounter and placed
+      her back in the encounter.
+    original_excerpt: Once home and asleep, Kelly had a bizarre dream. This "dream" is of interest because it emerged within
+      hours of the actual event and it places Kelly back in the encounter.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 9140412a-da89-49d7-8057-6aa4487f2645
+      title: Kelly Cahill
+    provenance_chain:
+      origin_kind: speaker
+      origin: Kelly Cahill
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 9140412a-da89-49d7-8057-6aa4487f2645
+        title: Kelly Cahill
+        slug: kelly-cahill
+      - node_id: ec524006-1238-42aa-9e8c-4e07c051ad63
+        title: Kelly Cahill's August 8, 1993 post-encounter dream
+        slug: 1993-post-encounter-dream-kelly-cahills-august-8
+    date: '1993-08-08'
+    date_end: null
+    location_in_record: ch11:20887-21048
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 32687cf8-a827-40a9-b9f4-308ca4d9b2b3
+      record_title: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
+      record_date: '2005-11-14'
+      record_reference: null
+      content_hash: sha256:c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95d6ac9c3b
+      friendly_name: 2005-11-14-ebook-hair-of-the-alien-dna-and-other-forensic-evidence-for-alien
+  - claim_id: 1431198e-314e-47cb-be7d-45fd0855e787
+    claim_hash: 5cb9e799ce41e6aba199b522fae128499160a2fa4dd8b08fb14a13218c575072
+    content: In Kelly Cahill's dream of 1993-08-08, a being led her husband down a slope onto a field while she sat on the
+      side of the road.
+    original_excerpt: In the August 8 dream, she is on the side of the road with her head between her knees. She becomes aware
+      that she can see again. A being is leading her husband down the slope onto the field.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 9140412a-da89-49d7-8057-6aa4487f2645
+      title: Kelly Cahill
+    provenance_chain:
+      origin_kind: speaker
+      origin: Kelly Cahill
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 9140412a-da89-49d7-8057-6aa4487f2645
+        title: Kelly Cahill
+        slug: kelly-cahill
+      - node_id: a4760961-badf-4d33-a964-d2857c144afe
+        title: Kelly Cahill's husband
+        slug: kelly-cahills-husband
+      - node_id: ec524006-1238-42aa-9e8c-4e07c051ad63
+        title: Kelly Cahill's August 8, 1993 post-encounter dream
+        slug: 1993-post-encounter-dream-kelly-cahills-august-8
+    date: '1993-08-08'
+    date_end: null
+    location_in_record: ch11:21120-21304
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 32687cf8-a827-40a9-b9f4-308ca4d9b2b3
+      record_title: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
+      record_date: '2005-11-14'
+      record_reference: null
+      content_hash: sha256:c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95d6ac9c3b
+      friendly_name: 2005-11-14-ebook-hair-of-the-alien-dna-and-other-forensic-evidence-for-alien
+  - claim_id: 15539b93-3668-4d81-b4fb-f820a49f2460
+    claim_hash: f74cbc317be33d3ff636df975a4f9346ac5afc3c176c55fd1aeca74fca5fb169
+    content: In Kelly Cahill's dream of 1993-08-08, a woman screamed "Murderess, murderess!" at her over a body on the ground.
+    original_excerpt: A woman, apparently middle-aged, standing farther down the field, was screaming at her, "Murderess,
+      murderess!"
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 9140412a-da89-49d7-8057-6aa4487f2645
+      title: Kelly Cahill
+    provenance_chain:
+      origin_kind: speaker
+      origin: Kelly Cahill
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 9140412a-da89-49d7-8057-6aa4487f2645
+        title: Kelly Cahill
+        slug: kelly-cahill
+      - node_id: ec524006-1238-42aa-9e8c-4e07c051ad63
+        title: Kelly Cahill's August 8, 1993 post-encounter dream
+        slug: 1993-post-encounter-dream-kelly-cahills-august-8
+    date: '1993-08-08'
+    date_end: null
+    location_in_record: ch11:21766-21866
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 32687cf8-a827-40a9-b9f4-308ca4d9b2b3
+      record_title: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
+      record_date: '2005-11-14'
+      record_reference: null
+      content_hash: sha256:c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95d6ac9c3b
+      friendly_name: 2005-11-14-ebook-hair-of-the-alien-dna-and-other-forensic-evidence-for-alien
+  - claim_id: 478fb6fc-65b0-4af0-b8f1-17409036a008
+    claim_hash: e6ae9b079ee169f1c1cd738e718ef74ddf41f377be6fd562fc58bfa941b5757d
+    content: In Kelly Cahill's dream of 1993-08-08, a being told her she had not killed anyone and that they had to use her
+      own sense of morality to overcome her fear.
+    original_excerpt: The being tells her she did not kill anyone, and that they had to use her own sense of morality to overcome
+      her fear.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 9140412a-da89-49d7-8057-6aa4487f2645
+      title: Kelly Cahill
+    provenance_chain:
+      origin_kind: speaker
+      origin: Kelly Cahill
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 9140412a-da89-49d7-8057-6aa4487f2645
+        title: Kelly Cahill
+        slug: kelly-cahill
+      - node_id: ec524006-1238-42aa-9e8c-4e07c051ad63
+        title: Kelly Cahill's August 8, 1993 post-encounter dream
+        slug: 1993-post-encounter-dream-kelly-cahills-august-8
+    date: '1993-08-08'
+    date_end: null
+    location_in_record: ch11:22142-22254
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 32687cf8-a827-40a9-b9f4-308ca4d9b2b3
+      record_title: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
+      record_date: '2005-11-14'
+      record_reference: null
+      content_hash: sha256:c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95d6ac9c3b
+      friendly_name: 2005-11-14-ebook-hair-of-the-alien-dna-and-other-forensic-evidence-for-alien
+  - claim_id: 2d8185a6-42d5-43a4-9eec-f213542d5007
+    claim_hash: 13371bcb2dd573d85ab66e6a30b190734a2892c66780dce4b01786ee7302fe51
+    content: A Bible belonging to Kelly Cahill, which had disappeared a few weeks before her encounter, appeared on a table
+      in her dream of 1993-08-08 and her husband found the physical Bible in the car a few days after the encounter.
+    original_excerpt: On a table behind this being is a Bible, one of hers, which had disappeared a few weeks before... A
+      few days after the encounter her husband found the Bible in the car.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 9140412a-da89-49d7-8057-6aa4487f2645
+      title: Kelly Cahill
+    provenance_chain:
+      origin_kind: speaker
+      origin: Kelly Cahill
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 9140412a-da89-49d7-8057-6aa4487f2645
+        title: Kelly Cahill
+        slug: kelly-cahill
+      - node_id: a4760961-badf-4d33-a964-d2857c144afe
+        title: Kelly Cahill's husband
+        slug: kelly-cahills-husband
+      - node_id: ec524006-1238-42aa-9e8c-4e07c051ad63
+        title: Kelly Cahill's August 8, 1993 post-encounter dream
+        slug: 1993-post-encounter-dream-kelly-cahills-august-8
+    date: 1993-08
+    date_end: null
+    location_in_record: ch11:22311-22480
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 32687cf8-a827-40a9-b9f4-308ca4d9b2b3
+      record_title: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
+      record_date: '2005-11-14'
+      record_reference: null
+      content_hash: sha256:c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95d6ac9c3b
+      friendly_name: 2005-11-14-ebook-hair-of-the-alien-dna-and-other-forensic-evidence-for-alien
+  - claim_id: cefa9cc2-5dd8-4258-b066-c88f4f2580d5
+    claim_hash: 771569ef2abd483d104d1b7101a21394f4df8d796e0118b7b248415e9ef64fc2
+    content: Kelly Cahill's first "dreaming" occurred before she regained a full recollection of the events of 1993-08-08,
+      and involved a sense of a presence followed by a frightening sucking sensation.
+    original_excerpt: The first of Kelly's strange "dreamings" occurred before she regained a full recollection of the events
+      of August 8, 1993. It started with a sense of a presence warning her to be calm, followed by a frightening "sucking"
+      sensation; it was as if something was being taken from her.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 9140412a-da89-49d7-8057-6aa4487f2645
+      title: Kelly Cahill
+    provenance_chain:
+      origin_kind: speaker
+      origin: Kelly Cahill
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 787c626a-bd4f-41de-ad44-0b58c97504d6
+        title: Kelly Cahill's first "dreaming"
+        slug: kelly-cahills-first-dreaming
+      - node_id: 9140412a-da89-49d7-8057-6aa4487f2645
+        title: Kelly Cahill
+        slug: kelly-cahill
+    date: null
+    date_end: null
+    location_in_record: ch11:22757-23033
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 32687cf8-a827-40a9-b9f4-308ca4d9b2b3
+      record_title: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
+      record_date: '2005-11-14'
+      record_reference: null
+      content_hash: sha256:c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95d6ac9c3b
+      friendly_name: 2005-11-14-ebook-hair-of-the-alien-dna-and-other-forensic-evidence-for-alien
+  - claim_id: ad164e45-6549-42ca-a235-bd07b6c201bd
+    claim_hash: 94f4dfe847248af7ca877b4320e18099ba2d5a43fb1b4654bb8c38999248a9a3
+    content: During Kelly Cahill's first "dreaming", she was confronted by a tall black figure roughly two metres tall, wearing
+      a floor-length hooded cloak, with glowing red eyes, which disappeared when she screamed.
+    original_excerpt: She came out of the dream terrified, only to be confronted by a tall black figure in a floor-length
+      hooded cloak. It was about seven feet tall, with glowing red eyes. She screamed in terror and the being disappeared.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 9140412a-da89-49d7-8057-6aa4487f2645
+      title: Kelly Cahill
+    provenance_chain:
+      origin_kind: speaker
+      origin: Kelly Cahill
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 787c626a-bd4f-41de-ad44-0b58c97504d6
+        title: Kelly Cahill's first "dreaming"
+        slug: kelly-cahills-first-dreaming
+      - node_id: 9140412a-da89-49d7-8057-6aa4487f2645
+        title: Kelly Cahill
+        slug: kelly-cahill
+    date: null
+    date_end: null
+    location_in_record: ch11:23039-23243
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 32687cf8-a827-40a9-b9f4-308ca4d9b2b3
+      record_title: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
+      record_date: '2005-11-14'
+      record_reference: null
+      content_hash: sha256:c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95d6ac9c3b
+      friendly_name: 2005-11-14-ebook-hair-of-the-alien-dna-and-other-forensic-evidence-for-alien
+  - claim_id: 21d8e3c8-7a65-4e7a-8873-3e492c8c0936
+    claim_hash: 9d5e5fef518552166e0567c26434c696ca5800723629fd8edbea8f4c2b436024
+    content: Kelly Cahill likened the black-robed being of her first "dreaming" to a "soul vampire" or the "grim reaper",
+      and it had no UFO context to her at the time since her memories had not yet resurfaced.
+    original_excerpt: To Kelly the being resembled a "soul vampire" or the "grim reaper." The being did not have any UFO context
+      at the time, as her memories had not resurfaced at the time.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 9140412a-da89-49d7-8057-6aa4487f2645
+      title: Kelly Cahill
+    provenance_chain:
+      origin_kind: speaker
+      origin: Kelly Cahill
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 787c626a-bd4f-41de-ad44-0b58c97504d6
+        title: Kelly Cahill's first "dreaming"
+        slug: kelly-cahills-first-dreaming
+      - node_id: 9140412a-da89-49d7-8057-6aa4487f2645
+        title: Kelly Cahill
+        slug: kelly-cahill
+    date: null
+    date_end: null
+    location_in_record: ch11:23257-23419
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 32687cf8-a827-40a9-b9f4-308ca4d9b2b3
+      record_title: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
+      record_date: '2005-11-14'
+      record_reference: null
+      content_hash: sha256:c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95d6ac9c3b
+      friendly_name: 2005-11-14-ebook-hair-of-the-alien-dna-and-other-forensic-evidence-for-alien
+  - claim_id: 8cd6361d-45af-40fe-94fe-68dd013e41b1
+    claim_hash: 44959585853ae67d99c17cc5043ac897f8a343c63a78dc7153f5b557ea9a5701
+    content: During Kelly Cahill's second "dreaming", she felt paralysed from the waist down while something pulled her legs
+      off the bed, and she fought back by hitting at her husband with a pillow to wake him.
+    original_excerpt: I felt as if my legs were being pulled off the bed, and it was like I was paralyzed from my waist down,
+      and my legs were being pulled over to the side... Then I'm grabbing a pillow, trying to hit my husband, to wake him
+      up.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 9140412a-da89-49d7-8057-6aa4487f2645
+      title: Kelly Cahill
+    provenance_chain:
+      origin_kind: speaker
+      origin: Kelly Cahill
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 5466bb1a-e1b0-454a-af25-4819612ca07a
+        title: Kelly Cahill's second "dreaming"
+        slug: kelly-cahills-second-dreaming
+      - node_id: 9140412a-da89-49d7-8057-6aa4487f2645
+        title: Kelly Cahill
+        slug: kelly-cahill
+      - node_id: a4760961-badf-4d33-a964-d2857c144afe
+        title: Kelly Cahill's husband
+        slug: kelly-cahills-husband
+    date: null
+    date_end: null
+    location_in_record: ch11:24506-24767
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 32687cf8-a827-40a9-b9f4-308ca4d9b2b3
+      record_title: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
+      record_date: '2005-11-14'
+      record_reference: null
+      content_hash: sha256:c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95d6ac9c3b
+      friendly_name: 2005-11-14-ebook-hair-of-the-alien-dna-and-other-forensic-evidence-for-alien
+  - claim_id: 6ee8ac2d-5968-4ec5-b5f2-f1eb5a8af060
+    claim_hash: 2b98ed8cbb2e45806a9370cc11ccb83b6e6b2d95bf2d32871b5e525242913c87
+    content: In Kelly Cahill's second "dreaming", the same hooded black figure appeared again, this time with its eyes covered
+      by the hood, and frightened her less than before.
+    original_excerpt: Then I woke up and saw it standing there again! This time the hood covered the eyes, and it didn't scare
+      me.... I was still terrified, but it didn't scare me quite as much.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 9140412a-da89-49d7-8057-6aa4487f2645
+      title: Kelly Cahill
+    provenance_chain:
+      origin_kind: speaker
+      origin: Kelly Cahill
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 5466bb1a-e1b0-454a-af25-4819612ca07a
+        title: Kelly Cahill's second "dreaming"
+        slug: kelly-cahills-second-dreaming
+      - node_id: 9140412a-da89-49d7-8057-6aa4487f2645
+        title: Kelly Cahill
+        slug: kelly-cahill
+    date: null
+    date_end: null
+    location_in_record: ch11:24891-25056
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 32687cf8-a827-40a9-b9f4-308ca4d9b2b3
+      record_title: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
+      record_date: '2005-11-14'
+      record_reference: null
+      content_hash: sha256:c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95d6ac9c3b
+      friendly_name: 2005-11-14-ebook-hair-of-the-alien-dna-and-other-forensic-evidence-for-alien
+  - claim_id: f9c404c2-f4dc-4378-bde7-d912465c58d6
+    claim_hash: b7a481cd2353e70b8dc57e7da1feabbb6a4219635d688540fa1d10f34ca6c8ea
+    content: Kelly Cahill's third "dreaming" occurred at a friend's place on 1993-10-23, after she had already experienced
+      a flood of recollections of the August 1993 encounter.
+    original_excerpt: The third "dreaming" occurred at a friend's place on October 23, 1993. By then Kelly had experienced
+      the flood of recollections.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 9140412a-da89-49d7-8057-6aa4487f2645
+      title: Kelly Cahill
+    provenance_chain:
+      origin_kind: speaker
+      origin: Kelly Cahill
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 9140412a-da89-49d7-8057-6aa4487f2645
+        title: Kelly Cahill
+        slug: kelly-cahill
+      - node_id: c414d774-7f4d-4fff-9778-29dda0f5a9b8
+        title: Kelly Cahill's third "dreaming"
+        slug: kelly-cahills-third-dreaming
+    date: '1993-10-23'
+    date_end: null
+    location_in_record: ch11:25593-25707
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 32687cf8-a827-40a9-b9f4-308ca4d9b2b3
+      record_title: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
+      record_date: '2005-11-14'
+      record_reference: null
+      content_hash: sha256:c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95d6ac9c3b
+      friendly_name: 2005-11-14-ebook-hair-of-the-alien-dna-and-other-forensic-evidence-for-alien
+  - claim_id: 904b18f5-69f1-496f-b25e-6da2c75406aa
+    claim_hash: a719aa20bb06aed8f33f50fb300614c1aed2f645495264f773f0b06d4ee94ed7
+    content: In Kelly Cahill's third "dreaming", she woke to see the same naked creature leaning over her as if about to kiss
+      her navel, with a head much larger than normal, long thin arms, and an abdomen disproportionate to its thin frame resembling
+      a malnourished child's stomach, with skin like gray-black plasticine.
+    original_excerpt: she saw what appeared to be the same creature, but naked this time and leaning over her, looking as
+      if it were about to kiss her navel. It was tall, with a head much larger than normal, very long and thin arms, and an
+      abdomen out of proportion to its thin frame, like the stomach of a child suffering from malnutrition. Its skin resembled
+      gray-black plasticine.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 9140412a-da89-49d7-8057-6aa4487f2645
+      title: Kelly Cahill
+    provenance_chain:
+      origin_kind: speaker
+      origin: Kelly Cahill
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 9140412a-da89-49d7-8057-6aa4487f2645
+        title: Kelly Cahill
+        slug: kelly-cahill
+      - node_id: c414d774-7f4d-4fff-9778-29dda0f5a9b8
+        title: Kelly Cahill's third "dreaming"
+        slug: kelly-cahills-third-dreaming
+    date: '1993-10-23'
+    date_end: null
+    location_in_record: ch11:26000-26350
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 32687cf8-a827-40a9-b9f4-308ca4d9b2b3
+      record_title: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
+      record_date: '2005-11-14'
+      record_reference: null
+      content_hash: sha256:c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95d6ac9c3b
+      friendly_name: 2005-11-14-ebook-hair-of-the-alien-dna-and-other-forensic-evidence-for-alien
+  - claim_id: 0f752a6f-bf40-447b-a856-5590f30d2bd3
+    claim_hash: 7e7d75ed4fa9c5dec7a325018573a125845bb59cc2a696b3d3d878b86f83a016
+    content: After Kelly Cahill's third "dreaming" she insisted her husband check under their car after hearing a voice urging
+      her to do so during the night; he ignored her and their car subsequently developed a problem.
+    original_excerpt: With morning she insisted that her husband check under the car; she had heard a distinct voice during
+      the night urging her do so. He ignored her request and their car subsequently suffered a problem.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 9140412a-da89-49d7-8057-6aa4487f2645
+      title: Kelly Cahill
+    provenance_chain:
+      origin_kind: speaker
+      origin: Kelly Cahill
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 9140412a-da89-49d7-8057-6aa4487f2645
+        title: Kelly Cahill
+        slug: kelly-cahill
+      - node_id: a4760961-badf-4d33-a964-d2857c144afe
+        title: Kelly Cahill's husband
+        slug: kelly-cahills-husband
+      - node_id: c414d774-7f4d-4fff-9778-29dda0f5a9b8
+        title: Kelly Cahill's third "dreaming"
+        slug: kelly-cahills-third-dreaming
+    date: '1993-10-23'
+    date_end: null
+    location_in_record: ch11:26456-26647
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 32687cf8-a827-40a9-b9f4-308ca4d9b2b3
+      record_title: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
+      record_date: '2005-11-14'
+      record_reference: null
+      content_hash: sha256:c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95d6ac9c3b
+      friendly_name: 2005-11-14-ebook-hair-of-the-alien-dna-and-other-forensic-evidence-for-alien
+  - claim_id: 9310faea-5af6-4ffb-8857-9d4168203b91
+    claim_hash: ffe4769b73cc828a464172b791c98b9a140b75aa44896e485c742f81b50ec717
+    content: Kelly Cahill's car would frequently start up with no one inside it, despite having a kill switch that made such
+      events especially startling.
+    original_excerpt: their car would frequently start up when no one was in it, even though the vehicle had a kill switch
+      that made such events even more startling and curious.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 9140412a-da89-49d7-8057-6aa4487f2645
+      title: Kelly Cahill
+    provenance_chain:
+      origin_kind: speaker
+      origin: Kelly Cahill
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 9140412a-da89-49d7-8057-6aa4487f2645
+        title: Kelly Cahill
+        slug: kelly-cahill
+    date: null
+    date_end: null
+    location_in_record: ch11:26809-26956
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 32687cf8-a827-40a9-b9f4-308ca4d9b2b3
+      record_title: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
+      record_date: '2005-11-14'
+      record_reference: null
+      content_hash: sha256:c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95d6ac9c3b
+      friendly_name: 2005-11-14-ebook-hair-of-the-alien-dna-and-other-forensic-evidence-for-alien
+  - claim_id: 5cfcd752-6244-4020-9cfe-b96737dcc7ee
+    claim_hash: c7eb6d3fa4df10172db2322aa3d9444570d65641b5169a3bf6cd7d0ab94535bf
+    content: Kelly Cahill's fourth "dreaming" occurred in 1994-01, after which the unusual events surrounding her appeared
+      to end.
+    original_excerpt: These events seemed to come to an end by January 1994, when the fourth and final "dreaming" occurred.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 9140412a-da89-49d7-8057-6aa4487f2645
+      title: Kelly Cahill
+    provenance_chain:
+      origin_kind: speaker
+      origin: Kelly Cahill
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 9140412a-da89-49d7-8057-6aa4487f2645
+        title: Kelly Cahill
+        slug: kelly-cahill
+      - node_id: f1cbb74c-1e77-41f7-a92f-041920e7d853
+        title: Kelly Cahill's fourth "dreaming"
+        slug: kelly-cahills-fourth-dreaming
+    date: 1994-01
+    date_end: null
+    location_in_record: ch11:26965-27057
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 32687cf8-a827-40a9-b9f4-308ca4d9b2b3
+      record_title: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
+      record_date: '2005-11-14'
+      record_reference: null
+      content_hash: sha256:c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95d6ac9c3b
+      friendly_name: 2005-11-14-ebook-hair-of-the-alien-dna-and-other-forensic-evidence-for-alien
+  - claim_id: 981a4a99-99bd-4c54-b9fb-3e37960ecadf
+    claim_hash: 63df316b4fcfc0fb45e74ef1fea1e1c625552f43fe2965e80b841ba88752daec
+    content: In Kelly Cahill's fourth "dreaming", the bathroom light had blown out and something tried to grab her right hand;
+      after she let her hand be taken she woke to find the black-robed creature standing at her bedside before it left.
+    original_excerpt: In the dream, the bathroom light had blown out. Once again there was a sense of a presence. Something
+      was trying to grab Kelly's right hand. Eventually she let her hand be taken. She immediately woke up. Once again the
+      creature in the black robe was standing at her bedside. It went away.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 9140412a-da89-49d7-8057-6aa4487f2645
+      title: Kelly Cahill
+    provenance_chain:
+      origin_kind: speaker
+      origin: Kelly Cahill
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 9140412a-da89-49d7-8057-6aa4487f2645
+        title: Kelly Cahill
+        slug: kelly-cahill
+      - node_id: f1cbb74c-1e77-41f7-a92f-041920e7d853
+        title: Kelly Cahill's fourth "dreaming"
+        slug: kelly-cahills-fourth-dreaming
+    date: 1994-01
+    date_end: null
+    location_in_record: ch11:27096-27379
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 32687cf8-a827-40a9-b9f4-308ca4d9b2b3
+      record_title: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
+      record_date: '2005-11-14'
+      record_reference: null
+      content_hash: sha256:c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95d6ac9c3b
+      friendly_name: 2005-11-14-ebook-hair-of-the-alien-dna-and-other-forensic-evidence-for-alien
+  - claim_id: 2606f7cb-9fc5-454f-b6ae-15029a0fdbba
+    claim_hash: afa7b11c095ac924fb452a18c1ec709813922eaf63746162d3a4ed4581700164
+    content: After Kelly Cahill's fourth "dreaming", her bathroom light was found to have indeed blown out and the diamond
+      and sapphire rings she wore on her right hand had gone missing and were never found.
+    original_excerpt: It turned out that the light had indeed blown and the diamond and sapphire rings she wore on her right
+      hand had gone. To date, they have not been found.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 9140412a-da89-49d7-8057-6aa4487f2645
+      title: Kelly Cahill
+    provenance_chain:
+      origin_kind: speaker
+      origin: Kelly Cahill
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 9140412a-da89-49d7-8057-6aa4487f2645
+        title: Kelly Cahill
+        slug: kelly-cahill
+      - node_id: f1cbb74c-1e77-41f7-a92f-041920e7d853
+        title: Kelly Cahill's fourth "dreaming"
+        slug: kelly-cahills-fourth-dreaming
+    date: 1994-01
+    date_end: null
+    location_in_record: ch11:27386-27532
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 32687cf8-a827-40a9-b9f4-308ca4d9b2b3
+      record_title: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
+      record_date: '2005-11-14'
+      record_reference: null
+      content_hash: sha256:c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95d6ac9c3b
+      friendly_name: 2005-11-14-ebook-hair-of-the-alien-dna-and-other-forensic-evidence-for-alien
+  - claim_id: 8286bb64-4276-49d4-8bd4-3c2ec6a34475
+    claim_hash: c283e4f8a2b02d78bd097745cbb97a13ef630b6acccf71128b3c2b8c7b4ebc35
+    content: Kelly Cahill first contacted Bill Chalker on 1993-10-04 seeking assistance in understanding an encounter she
+      had experienced near Narre Warren North, Victoria.
+    original_excerpt: Kelly Cahill first contacted me back on October 4, 1993, seeking assistance in understanding a bizarre
+      experience she had near the outer Melbourne suburban housing development of Narre Warren North, in the foothills of
+      the Dandenongs, Victoria, between Belgrave and Fountain Gate, during the early hours of August 8, 1993.
+    claim_type: administrative
+    attestation: first_hand
+    speaker:
+      node_id: 3ff75793-423c-4333-8402-d5c543074091
+      title: Bill Chalker
+    provenance_chain:
+      origin_kind: speaker
+      origin: Bill Chalker
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 01d1fc44-ac80-41d4-b635-13d85f62fcb9
+        title: Australia, Victoria, Narre Warren
+        slug: victoria-narre-warren-australia
+      - node_id: 28b5cf15-119e-4cf0-b561-c02f8ae4d8a1
+        title: 1993 Kelly Cahill case
+        slug: 1993-kelly-cahill-case
+      - node_id: 3ff75793-423c-4333-8402-d5c543074091
+        title: Bill Chalker
+        slug: bill-chalker
+      - node_id: 9140412a-da89-49d7-8057-6aa4487f2645
+        title: Kelly Cahill
+        slug: kelly-cahill
+    date: '1993-10-04'
+    date_end: null
+    location_in_record: ch11:2742-3059
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 32687cf8-a827-40a9-b9f4-308ca4d9b2b3
+      record_title: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
+      record_date: '2005-11-14'
+      record_reference: null
+      content_hash: sha256:c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95d6ac9c3b
+      friendly_name: 2005-11-14-ebook-hair-of-the-alien-dna-and-other-forensic-evidence-for-alien
+  - claim_id: 7e5e693c-e8b7-4eb4-b258-6a1794263b2f
+    claim_hash: fa6c43344c6f06fd62a4e43baea25de6fe86f6e2f42243cffffd9313845a5167
+    content: Phenomena Research Australia's 1993-1994 investigations found that, besides Kelly Cahill and her husband, a married
+      couple and their female friend appear to have witnessed and become involved in the 1993 Narre Warren North encounter.
+    original_excerpt: The PRA's 1993-1994 investigations disclosed that, other than Kelly and her husband, a married couple
+      and their female friend also appear to have witnessed and become involved in the event.
+    claim_type: observation
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: named
+      origin: Phenomena Research Australia (PRA)
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 28b5cf15-119e-4cf0-b561-c02f8ae4d8a1
+        title: 1993 Kelly Cahill case
+        slug: 1993-kelly-cahill-case
+      - node_id: 9140412a-da89-49d7-8057-6aa4487f2645
+        title: Kelly Cahill
+        slug: kelly-cahill
+      - node_id: a4760961-badf-4d33-a964-d2857c144afe
+        title: Kelly Cahill's husband
+        slug: kelly-cahills-husband
+      - node_id: ce2ed2ae-5963-4c62-92ee-fc193c65f424
+        title: Phenomena Research Australia (PRA)
+        slug: phenomena-research-australia-pra
+    date: null
+    date_end: null
+    location_in_record: ch11:27981-28164
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 32687cf8-a827-40a9-b9f4-308ca4d9b2b3
+      record_title: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
+      record_date: '2005-11-14'
+      record_reference: null
+      content_hash: sha256:c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95d6ac9c3b
+      friendly_name: 2005-11-14-ebook-hair-of-the-alien-dna-and-other-forensic-evidence-for-alien
+  - claim_id: 169357a3-2734-4a71-af44-90aafa7c40c1
+    claim_hash: af786d1078ff998e297cf996ff063bbc87042881064340b641c254d7c72f6897
+    content: The two women in the second car at the 1993 Narre Warren North encounter had conscious recollection up to and
+      including their onboard encounters, and recalled the UFO and tall black beings, though their description of the beings
+      did not include the red eyes that Kelly Cahill saw.
+    original_excerpt: The two women, on the other hand, had a conscious recollection up to and including their onboard encounters.
+      They recollected the UFO and the tall black beings, though their description of the beings did not feature the red eyes
+      Kelly saw.
+    claim_type: observation
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: narration
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 28b5cf15-119e-4cf0-b561-c02f8ae4d8a1
+        title: 1993 Kelly Cahill case
+        slug: 1993-kelly-cahill-case
+      - node_id: 9140412a-da89-49d7-8057-6aa4487f2645
+        title: Kelly Cahill
+        slug: kelly-cahill
+    date: null
+    date_end: null
+    location_in_record: ch11:28276-28511
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 32687cf8-a827-40a9-b9f4-308ca4d9b2b3
+      record_title: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
+      record_date: '2005-11-14'
+      record_reference: null
+      content_hash: sha256:c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95d6ac9c3b
+      friendly_name: 2005-11-14-ebook-hair-of-the-alien-dna-and-other-forensic-evidence-for-alien
+  - claim_id: a01105a5-8185-418c-9ff4-cc0a5bc676a0
+    claim_hash: 89eb77f25971e95a6e77bf5a8b2fce8772941e4d1340c414b2d0116152fe2268
+    content: One of the two women in the second car at the 1993 Narre Warren North encounter had severe ligature indentations
+      on the skin of her ankle, a physical symptom shared in part with Kelly Cahill.
+    original_excerpt: The women also shared some of the physical symptoms that Kelly Cahill experienced, such as body markings.
+      One of them also had severe ligature indentations on the skin of her ankle.
+    claim_type: observation
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: narration
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 28b5cf15-119e-4cf0-b561-c02f8ae4d8a1
+        title: 1993 Kelly Cahill case
+        slug: 1993-kelly-cahill-case
+      - node_id: 9140412a-da89-49d7-8057-6aa4487f2645
+        title: Kelly Cahill
+        slug: kelly-cahill
+    date: null
+    date_end: null
+    location_in_record: ch11:29944-30119
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 32687cf8-a827-40a9-b9f4-308ca4d9b2b3
+      record_title: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
+      record_date: '2005-11-14'
+      record_reference: null
+      content_hash: sha256:c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95d6ac9c3b
+      friendly_name: 2005-11-14-ebook-hair-of-the-alien-dna-and-other-forensic-evidence-for-alien
+  - claim_id: 920a745b-0112-49ae-a10c-76a0eebd6e53
+    claim_hash: 8e693cdde88ef26d3391b543be8eefdd937648772a0ba0bcd2b1ef7cfb05509a
+    content: The third witness's car headlights appeared to have illuminated the second car at the site of the 1993 Narre
+      Warren North encounter, which may explain why Kelly Cahill was able to notice the second party and their car.
+    original_excerpt: The presence of this man's car perhaps also explains why Kelly Cahill was able to notice a second party
+      and their car. It appeared that this third witness had his headlights, which illuminated the second car.
+    claim_type: opinion
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: narration
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 28b5cf15-119e-4cf0-b561-c02f8ae4d8a1
+        title: 1993 Kelly Cahill case
+        slug: 1993-kelly-cahill-case
+      - node_id: 9140412a-da89-49d7-8057-6aa4487f2645
+        title: Kelly Cahill
+        slug: kelly-cahill
+      - node_id: c8d7d813-d750-4d28-af63-4e0a47565153
+        title: 1996-10 anonymous letter to Who magazine about Narre Warren North encounter
+        slug: 1996-10-anonymous-letter-to-who-magazine-about-narre-warren-north-encounter
+    date: null
+    date_end: null
+    location_in_record: ch11:30886-31090
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 32687cf8-a827-40a9-b9f4-308ca4d9b2b3
+      record_title: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
+      record_date: '2005-11-14'
+      record_reference: null
+      content_hash: sha256:c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95d6ac9c3b
+      friendly_name: 2005-11-14-ebook-hair-of-the-alien-dna-and-other-forensic-evidence-for-alien
+  - claim_id: c440dc94-bb07-48c2-8673-25d5b1d40449
+    claim_hash: cd779a42d9ebc99d7f5d97dfc65f4d3849e6f8b1fd3aeaf518ffd58ec8971b72
+    content: Kelly Cahill has not been given access to the full data that Phenomena Research Australia report they hold on
+      her case.
+    original_excerpt: Sadly, even the key witness, Kelly Cahill, who took the brave step of coming forward, has not been made
+      privy to the full data that PRA report they have on the incident.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 3ff75793-423c-4333-8402-d5c543074091
+      title: Bill Chalker
+    provenance_chain:
+      origin_kind: speaker
+      origin: Bill Chalker
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 28b5cf15-119e-4cf0-b561-c02f8ae4d8a1
+        title: 1993 Kelly Cahill case
+        slug: 1993-kelly-cahill-case
+      - node_id: 9140412a-da89-49d7-8057-6aa4487f2645
+        title: Kelly Cahill
+        slug: kelly-cahill
+      - node_id: ce2ed2ae-5963-4c62-92ee-fc193c65f424
+        title: Phenomena Research Australia (PRA)
+        slug: phenomena-research-australia-pra
+    date: null
+    date_end: null
+    location_in_record: ch11:32317-32477
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 32687cf8-a827-40a9-b9f4-308ca4d9b2b3
+      record_title: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
+      record_date: '2005-11-14'
+      record_reference: null
+      content_hash: sha256:c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95d6ac9c3b
+      friendly_name: 2005-11-14-ebook-hair-of-the-alien-dna-and-other-forensic-evidence-for-alien
+  - claim_id: 93752265-dfc0-4346-9078-24f067857730
+    claim_hash: 17c675554e48132f2c498bd8c46d16934b199962267ec8c589bb2f81645e3806
+    content: Further developments independent of Phenomena Research Australia's own investigations, not yet fully elaborated,
+      suggest the focus of the 1993 Narre Warren North encounter had not been Kelly Cahill or the second or third parties
+      on the road that night.
+    original_excerpt: further developments, independent of PRA's own investigations and still not fully elaborated, suggest
+      that perhaps the focus of this extraordinary encounter had not been Kelly or the second (or indeed the third) party
+      on the road that night.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 3ff75793-423c-4333-8402-d5c543074091
+      title: Bill Chalker
+    provenance_chain:
+      origin_kind: speaker
+      origin: Bill Chalker
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 28b5cf15-119e-4cf0-b561-c02f8ae4d8a1
+        title: 1993 Kelly Cahill case
+        slug: 1993-kelly-cahill-case
+      - node_id: 9140412a-da89-49d7-8057-6aa4487f2645
+        title: Kelly Cahill
+        slug: kelly-cahill
+      - node_id: ce2ed2ae-5963-4c62-92ee-fc193c65f424
+        title: Phenomena Research Australia (PRA)
+        slug: phenomena-research-australia-pra
+    date: null
+    date_end: null
+    location_in_record: ch11:32759-32994
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 32687cf8-a827-40a9-b9f4-308ca4d9b2b3
+      record_title: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
+      record_date: '2005-11-14'
+      record_reference: null
+      content_hash: sha256:c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95d6ac9c3b
+      friendly_name: 2005-11-14-ebook-hair-of-the-alien-dna-and-other-forensic-evidence-for-alien
+  - claim_id: 42257472-23b2-4b99-b6fd-2436f99df6d2
+    claim_hash: 2279cb5e7c9c517523a84c95b266f2c6bad59d8730936028fa45aeec4355cc37
+    content: The details of Kelly Cahill's account given in her March 21, 1994 interview with Robb Tilley were consistent
+      with the account she initially and later related to Bill Chalker, with what she told John Auchettl of Phenomena Research
+      Australia (PRA), and with her own written account of the experience.
+    original_excerpt: as the details of the incident that emerged during that interview are consistent with those she initially
+      and later related to me, with what she told John Auchettl of PRA, and with her own written account of the experience
+    claim_type: observation
+    attestation: first_hand
+    speaker:
+      node_id: 3ff75793-423c-4333-8402-d5c543074091
+      title: Bill Chalker
+    provenance_chain:
+      origin_kind: speaker
+      origin: Bill Chalker
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 14854dc9-061d-4041-9153-efa55076a7ae
+        title: Kelly Cahill's March 21, 1994 interview with Robb Tilley
+        slug: 1994-interview-with-robb-tilley-kelly-cahills-march-21
+      - node_id: 3ff75793-423c-4333-8402-d5c543074091
+        title: Bill Chalker
+        slug: bill-chalker
+      - node_id: 9140412a-da89-49d7-8057-6aa4487f2645
+        title: Kelly Cahill
+        slug: kelly-cahill
+      - node_id: 9a7cafdf-dbe8-4a15-a0a4-9ec1099c3618
+        title: John Auchettl
+        slug: john-auchettl
+      - node_id: ce2ed2ae-5963-4c62-92ee-fc193c65f424
+        title: Phenomena Research Australia (PRA)
+        slug: phenomena-research-australia-pra
+    date: null
+    date_end: null
+    location_in_record: ch11:3352-3564
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 32687cf8-a827-40a9-b9f4-308ca4d9b2b3
+      record_title: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
+      record_date: '2005-11-14'
+      record_reference: null
+      content_hash: sha256:c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95d6ac9c3b
+      friendly_name: 2005-11-14-ebook-hair-of-the-alien-dna-and-other-forensic-evidence-for-alien
+  - claim_id: ad3f6969-1e19-46dc-8a52-757fcb481416
+    claim_hash: 11b026811553eb7c3856755caa79d75f32f701a46b8876a0537403df7eef9cb7
+    content: On the way to a friend's house near Narre Warren North on 1993-08-07, Kelly Cahill saw a ring of orange lights
+      in a field while her husband was driving, and initially hesitated to mention it for fear he would dismiss her.
+    original_excerpt: It’s turned dark and I look over towards this field as we are going past and I see a ring of orange
+      lights. It was the first time I ever thought I had seen something that wasn’t normal
+    claim_type: testimony
+    attestation: third_hand
+    speaker:
+      node_id: 9140412a-da89-49d7-8057-6aa4487f2645
+      title: Kelly Cahill
+    provenance_chain:
+      origin_kind: speaker
+      origin: Kelly Cahill
+      relay:
+        - Robb Tilley's March 21, 1994 interview
+        - Bill Chalker's book
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 01d1fc44-ac80-41d4-b635-13d85f62fcb9
+        title: Australia, Victoria, Narre Warren
+        slug: victoria-narre-warren-australia
+      - node_id: 9140412a-da89-49d7-8057-6aa4487f2645
+        title: Kelly Cahill
+        slug: kelly-cahill
+      - node_id: a4760961-badf-4d33-a964-d2857c144afe
+        title: Kelly Cahill's husband
+        slug: kelly-cahills-husband
+    date: '1993-08-07'
+    date_end: null
+    location_in_record: ch11:4042-4220
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 32687cf8-a827-40a9-b9f4-308ca4d9b2b3
+      record_title: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
+      record_date: '2005-11-14'
+      record_reference: null
+      content_hash: sha256:c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95d6ac9c3b
+      friendly_name: 2005-11-14-ebook-hair-of-the-alien-dna-and-other-forensic-evidence-for-alien
+  - claim_id: 986b9cfe-57f9-40b5-b3ce-9846e8ad442c
+    claim_hash: c6b8a8cb21dcc45efc0af76243de13b8229b6dddb5291eaa3ebe33359da6e6d3
+    content: Kelly Cahill's husband dismissed her report of seeing a UFO, suggesting it was probably a helicopter, and she
+      responded that it was not making any noise and was sitting on the ground.
+    original_excerpt: I said, "I swear I saw a UFO." He said, "Don't he stupid! It was probably a helicopter." I said, "It
+      wasn't making any noise. It was just sitting on the ground."
+    claim_type: testimony
+    attestation: third_hand
+    speaker:
+      node_id: 9140412a-da89-49d7-8057-6aa4487f2645
+      title: Kelly Cahill
+    provenance_chain:
+      origin_kind: speaker
+      origin: Kelly Cahill
+      relay:
+        - Robb Tilley's March 21, 1994 interview
+        - Bill Chalker's book
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 9140412a-da89-49d7-8057-6aa4487f2645
+        title: Kelly Cahill
+        slug: kelly-cahill
+      - node_id: a4760961-badf-4d33-a964-d2857c144afe
+        title: Kelly Cahill's husband
+        slug: kelly-cahills-husband
+    date: null
+    date_end: null
+    location_in_record: ch11:4369-4525
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 32687cf8-a827-40a9-b9f4-308ca4d9b2b3
+      record_title: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
+      record_date: '2005-11-14'
+      record_reference: null
+      content_hash: sha256:c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95d6ac9c3b
+      friendly_name: 2005-11-14-ebook-hair-of-the-alien-dna-and-other-forensic-evidence-for-alien
+  - claim_id: 16810b1a-a4f8-452f-b351-89a29d34571e
+    claim_hash: 62161503825713423860326e7271e459ac13ca9520abbbecccec6af63755c2c1
+    content: On the return drive from their friend's house in the early hours of 1993-08-08, both Kelly Cahill and her husband
+      saw a round object hovering above the road, with something resembling glass, windows, and lights around its bottom,
+      which produced no noise.
+    original_excerpt: we were driving back down the road in the same stretch. Both of us, just me and my husband … we both
+      saw this... it was a round shape with some sort of glass around, or what looked like windows and lights around the bottom...
+      there was no noise or anything.
+    claim_type: testimony
+    attestation: third_hand
+    speaker:
+      node_id: 9140412a-da89-49d7-8057-6aa4487f2645
+      title: Kelly Cahill
+    provenance_chain:
+      origin_kind: speaker
+      origin: Kelly Cahill
+      relay:
+        - Robb Tilley's March 21, 1994 interview
+        - Bill Chalker's book
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 01d1fc44-ac80-41d4-b635-13d85f62fcb9
+        title: Australia, Victoria, Narre Warren
+        slug: victoria-narre-warren-australia
+      - node_id: 9140412a-da89-49d7-8057-6aa4487f2645
+        title: Kelly Cahill
+        slug: kelly-cahill
+      - node_id: a4760961-badf-4d33-a964-d2857c144afe
+        title: Kelly Cahill's husband
+        slug: kelly-cahills-husband
+    date: '1993-08-08'
+    date_end: null
+    location_in_record: ch11:5523-5748
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 32687cf8-a827-40a9-b9f4-308ca4d9b2b3
+      record_title: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
+      record_date: '2005-11-14'
+      record_reference: null
+      content_hash: sha256:c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95d6ac9c3b
+      friendly_name: 2005-11-14-ebook-hair-of-the-alien-dna-and-other-forensic-evidence-for-alien
+  - claim_id: a8c05858-5531-44e3-8c68-f140972b5293
+    claim_hash: 3cc03f6773f5c448d8928c660d264d1160ad111d286a6316121b35a958abb0a7
+    content: Kelly Cahill believed she saw people inside the hovering object before it shot off to the left and disappeared
+      within a split second.
+    original_excerpt: I swear we saw people in there and then just as I said to him, "I swear there's people in there," it
+      just shot off to the left as fast as it could go. I mean it just disappeared.
+    claim_type: testimony
+    attestation: third_hand
+    speaker:
+      node_id: 9140412a-da89-49d7-8057-6aa4487f2645
+      title: Kelly Cahill
+    provenance_chain:
+      origin_kind: speaker
+      origin: Kelly Cahill
+      relay:
+        - Robb Tilley's March 21, 1994 interview
+        - Bill Chalker's book
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 9140412a-da89-49d7-8057-6aa4487f2645
+        title: Kelly Cahill
+        slug: kelly-cahill
+    date: null
+    date_end: null
+    location_in_record: ch11:6198-6365
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 32687cf8-a827-40a9-b9f4-308ca4d9b2b3
+      record_title: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
+      record_date: '2005-11-14'
+      record_reference: null
+      content_hash: sha256:c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95d6ac9c3b
+      friendly_name: 2005-11-14-ebook-hair-of-the-alien-dna-and-other-forensic-evidence-for-alien
+  - claim_id: d6244beb-1886-497d-866c-ece63e4b9e58
+    claim_hash: bbe056c6917a1c71d4ec0ae29bea8aa4fa31ace1f4970aeb53339f4735b5d157
+    content: After the object disappeared, Kelly Cahill and her husband continued driving and about a kilometre ahead encountered
+      an extremely bright light in front of the car.
+    original_excerpt: We kept driving and about a kilometer ahead, all of a sudden, there's this really, really bright light
+      in front of us, and I've got my hand up, up above my brow to look out the window, because it's that bright, but I can't
+      see anything.
+    claim_type: testimony
+    attestation: third_hand
+    speaker:
+      node_id: 9140412a-da89-49d7-8057-6aa4487f2645
+      title: Kelly Cahill
+    provenance_chain:
+      origin_kind: speaker
+      origin: Kelly Cahill
+      relay:
+        - Robb Tilley's March 21, 1994 interview
+        - Bill Chalker's book
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 9140412a-da89-49d7-8057-6aa4487f2645
+        title: Kelly Cahill
+        slug: kelly-cahill
+      - node_id: a4760961-badf-4d33-a964-d2857c144afe
+        title: Kelly Cahill's husband
+        slug: kelly-cahills-husband
+    date: null
+    date_end: null
+    location_in_record: ch11:6415-6642
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 32687cf8-a827-40a9-b9f4-308ca4d9b2b3
+      record_title: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
+      record_date: '2005-11-14'
+      record_reference: null
+      content_hash: sha256:c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95d6ac9c3b
+      friendly_name: 2005-11-14-ebook-hair-of-the-alien-dna-and-other-forensic-evidence-for-alien
+  - claim_id: 9371d20a-eebd-4541-8436-81fb06e7e7ba
+    claim_hash: 7b60fa0caf96b5ed28cc2e7fe59c07add9cd9ec42039131e8b7330808480be58
+    content: After the missing-time episode, Kelly Cahill could smell vomit in the car and could not identify its source.
+    original_excerpt: One thing that really annoyed me was that I could smell vomit. I couldn't figure out where the smell
+      of vomit was coming from.
+    claim_type: testimony
+    attestation: third_hand
+    speaker:
+      node_id: 9140412a-da89-49d7-8057-6aa4487f2645
+      title: Kelly Cahill
+    provenance_chain:
+      origin_kind: speaker
+      origin: Kelly Cahill
+      relay:
+        - Robb Tilley's March 21, 1994 interview
+        - Bill Chalker's book
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 9140412a-da89-49d7-8057-6aa4487f2645
+        title: Kelly Cahill
+        slug: kelly-cahill
+    date: null
+    date_end: null
+    location_in_record: ch11:7454-7575
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 32687cf8-a827-40a9-b9f4-308ca4d9b2b3
+      record_title: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
+      record_date: '2005-11-14'
+      record_reference: null
+      content_hash: sha256:c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95d6ac9c3b
+      friendly_name: 2005-11-14-ebook-hair-of-the-alien-dna-and-other-forensic-evidence-for-alien
+  - claim_id: 7e9b98f7-a40b-4e15-bf14-f049356814e9
+    claim_hash: ebe692ee9d1db8bc5297bc8ba238c36012b3db4f5801f998a20c5e5315f3bd63
+    content: On the way home from Narre Warren North, Kelly Cahill saw a tall, dark figure standing on the side of the road
+      for a couple of seconds.
+    original_excerpt: I saw a figure standing on the side of the road—a tall, dark figure. It was only for a couple of seconds,
+      and I didn't relate it to anything until much later on at all.
+    claim_type: testimony
+    attestation: third_hand
+    speaker:
+      node_id: 9140412a-da89-49d7-8057-6aa4487f2645
+      title: Kelly Cahill
+    provenance_chain:
+      origin_kind: speaker
+      origin: Kelly Cahill
+      relay:
+        - Robb Tilley's March 21, 1994 interview
+        - Bill Chalker's book
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 9140412a-da89-49d7-8057-6aa4487f2645
+        title: Kelly Cahill
+        slug: kelly-cahill
+    date: null
+    date_end: null
+    location_in_record: ch11:7911-8075
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 32687cf8-a827-40a9-b9f4-308ca4d9b2b3
+      record_title: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
+      record_date: '2005-11-14'
+      record_reference: null
+      content_hash: sha256:c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95d6ac9c3b
+      friendly_name: 2005-11-14-ebook-hair-of-the-alien-dna-and-other-forensic-evidence-for-alien
+  - claim_id: 256d5ddc-4be7-464c-b932-6e5f04f52ea3
+    claim_hash: 09fdab29b265ed407dcf6c01acfc282d98d7bfc49f7e63adb0aac52c953e0af0
+    content: Kelly Cahill and her husband both agreed they saw a UFO during the drive home but disagreed on whether Kelly
+      had experienced a blackout or missing time and had seen people inside the object.
+    original_excerpt: Kelly and her husband argued about what happened for part of the way home. Both agree they saw a UFO,
+      but cannot agree on the feeling Kelly had of experiencing a blackout or missing time and seeing people.
+    claim_type: observation
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: narration
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 9140412a-da89-49d7-8057-6aa4487f2645
+        title: Kelly Cahill
+        slug: kelly-cahill
+      - node_id: a4760961-badf-4d33-a964-d2857c144afe
+        title: Kelly Cahill's husband
+        slug: kelly-cahills-husband
+    date: null
+    date_end: null
+    location_in_record: ch11:8631-8829
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 32687cf8-a827-40a9-b9f4-308ca4d9b2b3
+      record_title: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
+      record_date: '2005-11-14'
+      record_reference: null
+      content_hash: sha256:c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95d6ac9c3b
+      friendly_name: 2005-11-14-ebook-hair-of-the-alien-dna-and-other-forensic-evidence-for-alien
+  - claim_id: afb873cd-478c-43a5-9e28-d2465e0cc730
+    claim_hash: b1a533a148ffb3f91d116e729e3a284778666a18eb8e82f185ef35f3d5dcfe39
+    content: Both Kelly Cahill and her husband could smell vomit and each experienced unexplained stomach pain after the 1993-08-08
+      encounter.
+    original_excerpt: They also could both smell vomit and were each experiencing unexplained stomach pain.
+    claim_type: observation
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: narration
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 9140412a-da89-49d7-8057-6aa4487f2645
+        title: Kelly Cahill
+        slug: kelly-cahill
+      - node_id: a4760961-badf-4d33-a964-d2857c144afe
+        title: Kelly Cahill's husband
+        slug: kelly-cahills-husband
+    date: null
+    date_end: null
+    location_in_record: ch11:8837-8917
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 32687cf8-a827-40a9-b9f4-308ca4d9b2b3
+      record_title: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
+      record_date: '2005-11-14'
+      record_reference: null
+      content_hash: sha256:c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95d6ac9c3b
+      friendly_name: 2005-11-14-ebook-hair-of-the-alien-dna-and-other-forensic-evidence-for-alien
+  - claim_id: b1c24f2e-553b-4594-bb0d-6535e338d4a8
+    claim_hash: d0a7dbf163b708790ef9f803589726df77a13cb1a240cb8f74bad20b5d7cc64c
+    content: Kelly Cahill's stomach pain after the 1993-08-08 encounter felt like severe muscle fatigue radiating from her
+      lower abdomen to her upper shoulders.
+    original_excerpt: For Kelly it was like pain from severe muscle fatigue that radiated from her lower abdomen to the upper
+      shoulders.
+    claim_type: testimony
+    attestation: second_hand
+    speaker:
+      node_id: 9140412a-da89-49d7-8057-6aa4487f2645
+      title: Kelly Cahill
+    provenance_chain:
+      origin_kind: speaker
+      origin: Kelly Cahill
+      relay:
+        - Bill Chalker's book
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 9140412a-da89-49d7-8057-6aa4487f2645
+        title: Kelly Cahill
+        slug: kelly-cahill
+    date: null
+    date_end: null
+    location_in_record: ch11:8923-9027
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 32687cf8-a827-40a9-b9f4-308ca4d9b2b3
+      record_title: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
+      record_date: '2005-11-14'
+      record_reference: null
+      content_hash: sha256:c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95d6ac9c3b
+      friendly_name: 2005-11-14-ebook-hair-of-the-alien-dna-and-other-forensic-evidence-for-alien
+  - claim_id: 8a906ef5-4e15-4d74-9169-c4f0f02dd2b0
+    claim_hash: a11b8b04ec957629babbb8a33594030c674fb22c03bbf61850eea6f56d1deb8b
+    content: Kelly Cahill and her husband arrived home at about 2:30 a.m. following the 1993-08-08 encounter, with Kelly certain
+      they had left their friends' place before midnight while her husband insisted they had left around 1 a.m.
+    original_excerpt: They arrived home at about 2:30 a.m. Kelly was certain they had left their friends' place before midnight.
+      Her husband refused to acknowledge Kelly's growing concerns and insisted they had left later, more likely around 1 a.m.
+    claim_type: observation
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: narration
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 9140412a-da89-49d7-8057-6aa4487f2645
+        title: Kelly Cahill
+        slug: kelly-cahill
+      - node_id: a4760961-badf-4d33-a964-d2857c144afe
+        title: Kelly Cahill's husband
+        slug: kelly-cahills-husband
+    date: null
+    date_end: null
+    location_in_record: ch11:9039-9263
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 32687cf8-a827-40a9-b9f4-308ca4d9b2b3
+      record_title: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
+      record_date: '2005-11-14'
+      record_reference: null
+      content_hash: sha256:c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95d6ac9c3b
+      friendly_name: 2005-11-14-ebook-hair-of-the-alien-dna-and-other-forensic-evidence-for-alien
+  - claim_id: a200a3da-a65e-43e8-b9ea-55d2e313b8b4
+    claim_hash: b50a1d43cb1f2e4a3f23c2eb6df5d8896f94c2399813d8e692f9559fd17349bc
+    content: After the 1993-08-08 encounter, Kelly Cahill experienced unexplained menstrual bleeding and became extremely
+      ill, despite having had her period the week before.
+    original_excerpt: Kelly experienced unexplained menstrual bleeding and became extremely ill. She had had her period the
+      week before.
+    claim_type: observation
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: narration
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 9140412a-da89-49d7-8057-6aa4487f2645
+        title: Kelly Cahill
+        slug: kelly-cahill
+    date: null
+    date_end: null
+    location_in_record: ch11:9267-9374
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 32687cf8-a827-40a9-b9f4-308ca4d9b2b3
+      record_title: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
+      record_date: '2005-11-14'
+      record_reference: null
+      content_hash: sha256:c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95d6ac9c3b
+      friendly_name: 2005-11-14-ebook-hair-of-the-alien-dna-and-other-forensic-evidence-for-alien
+  - claim_id: 3fe66721-4af4-4e5c-9d97-03b124f7ef22
+    claim_hash: ae4c1c0b8d09c86ccf0286bb60557c8573ecd53ef22a7fa9d3f0818ab82e8bf5
+    content: When Kelly Cahill arrived home on the night of the encounter, she found a triangular mark below her navel resembling
+      a small laparoscopy cut, and began bleeding that night.
+    original_excerpt: when I got home that night, that is when Ifound the triangular mark below my navel, with what I thought
+      was a little laparoscopy cut, and I also started bleeding that night.
+    claim_type: testimony
+    attestation: second_hand
+    speaker:
+      node_id: 9140412a-da89-49d7-8057-6aa4487f2645
+      title: Kelly Cahill
+    provenance_chain:
+      origin_kind: speaker
+      origin: Kelly Cahill
+      relay:
+        - Bill Chalker's book
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 9140412a-da89-49d7-8057-6aa4487f2645
+        title: Kelly Cahill
+        slug: kelly-cahill
+    date: null
+    date_end: null
+    location_in_record: ch11:9404-9571
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 32687cf8-a827-40a9-b9f4-308ca4d9b2b3
+      record_title: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
+      record_date: '2005-11-14'
+      record_reference: null
+      content_hash: sha256:c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95d6ac9c3b
+      friendly_name: 2005-11-14-ebook-hair-of-the-alien-dna-and-other-forensic-evidence-for-alien
+  - claim_id: f60bf730-bc99-4177-aa42-33e337d753ee
+    claim_hash: 92436f0f33a7bc7b8a55ddf13ec747f1f3cbf6a67dc37b0d9f6aba913a119b22
+    content: Three and a half weeks after the 1993-08-08 encounter, Kelly Cahill was hospitalised with an infection in her
+      womb after continuous bleeding.
+    original_excerpt: Three and a half weeks later I ended up in hospital with an infection in the womb. I hadn't stopped
+      bleeding.
+    claim_type: testimony
+    attestation: second_hand
+    speaker:
+      node_id: 9140412a-da89-49d7-8057-6aa4487f2645
+      title: Kelly Cahill
+    provenance_chain:
+      origin_kind: speaker
+      origin: Kelly Cahill
+      relay:
+        - Bill Chalker's book
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 9140412a-da89-49d7-8057-6aa4487f2645
+        title: Kelly Cahill
+        slug: kelly-cahill
+    date: null
+    date_end: null
+    location_in_record: ch11:9578-9678
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 32687cf8-a827-40a9-b9f4-308ca4d9b2b3
+      record_title: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
+      record_date: '2005-11-14'
+      record_reference: null
+      content_hash: sha256:c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95d6ac9c3b
+      friendly_name: 2005-11-14-ebook-hair-of-the-alien-dna-and-other-forensic-evidence-for-alien
+  - claim_id: 1a9ed63a-e258-4ef1-827d-60243a4f7781
+    claim_hash: 026b4902a416838a4625269e3c449ad6e6dabd0e55b0c8f14198a3ba133e5244
+    content: A doctor told Kelly Cahill that her womb infection meant she must have been pregnant, though she insisted she
+      had not been pregnant, and the doctor said such an infection could only result from pregnancy or an operation.
+    original_excerpt: The doctor said to me, "You must have been pregnant," and I said I was not pregnant. I know I wasn't
+      pregnant. He said that the only way you can get an infection in the womb is if you've been pregnant or it's been caused
+      by an operation.
+    claim_type: testimony
+    attestation: second_hand
+    speaker:
+      node_id: 9140412a-da89-49d7-8057-6aa4487f2645
+      title: Kelly Cahill
+    provenance_chain:
+      origin_kind: named
+      origin: an unnamed doctor who treated Kelly Cahill
+      relay:
+        - Kelly Cahill
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 9140412a-da89-49d7-8057-6aa4487f2645
+        title: Kelly Cahill
+        slug: kelly-cahill
+    date: null
+    date_end: null
+    location_in_record: ch11:9688-9916
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 32687cf8-a827-40a9-b9f4-308ca4d9b2b3
+      record_title: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
+      record_date: '2005-11-14'
+      record_reference: null
+      content_hash: sha256:c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95d6ac9c3b
+      friendly_name: 2005-11-14-ebook-hair-of-the-alien-dna-and-other-forensic-evidence-for-alien
+  - claim_id: 72e15866-1fc2-480b-aeac-41ab75ffb20f
+    claim_hash: fad471a4682d1894c871fe6a346c4499f5c3d7932890a33fd1ae33b0edfc69a1
+    content: James Rigney told Ross Coulthart about the Kelly Cahill 1993 Unidentified Flying Object (UFO) encounter.
+    original_excerpt: And he also told me about the Kelly Cahill.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+      title: Ross Coulthart
+    provenance_chain:
+      origin_kind: speaker
+      origin: Ross Coulthart
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 0507928f-2ce8-4f97-b038-792472f4b1e7
+        title: Kelly Cahill 1993 Unidentified Flying Object (UFO) encounter
+        slug: kelly-cahill-1993-unidentified-flying-object-ufo-encounter
+      - node_id: 9140412a-da89-49d7-8057-6aa4487f2645
+        title: Kelly Cahill
+        slug: kelly-cahill
+      - node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+        title: Ross Coulthart
+        slug: ross-coulthart
+      - node_id: ffc4dffc-33d3-4a26-9296-5665788889d4
+        title: James Rigney
+        slug: james-rigney
+    date: null
+    date_end: null
+    location_in_record: 00:22:55.0-00:22:57.0
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: fd845823-8784-462c-a981-4775525b6f84
+      record_title: The DANGEROUS Truth About UFOs - Ross Coulthart | DEBRIEFED ep. 76
+      record_date: '2026-02-20'
+      record_reference: https://www.youtube.com/watch?v=idBryc0eWww
+      content_hash: sha256:73be106d406f6d35a063a894e8384e7da0918eb8597d2107a9e3653becca2bdc
+      friendly_name: null
+  - claim_id: d371ba87-d8f0-4b39-bc01-f42030cd95a5
+    claim_hash: 9bd6e29615f5bc78b814c3a3071704d02e40160b8dc8f8f278d00fa5b20772b8
+    content: Ross Coulthart spent a weekend with James Rigney visiting the site of the Kelly Cahill 1993 Unidentified Flying
+      Object (UFO) encounter.
+    original_excerpt: I spent a weekend with James going around looking at the Kelly Cahill site
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+      title: Ross Coulthart
+    provenance_chain:
+      origin_kind: speaker
+      origin: Ross Coulthart
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 0507928f-2ce8-4f97-b038-792472f4b1e7
+        title: Kelly Cahill 1993 Unidentified Flying Object (UFO) encounter
+        slug: kelly-cahill-1993-unidentified-flying-object-ufo-encounter
+      - node_id: 9140412a-da89-49d7-8057-6aa4487f2645
+        title: Kelly Cahill
+        slug: kelly-cahill
+      - node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+        title: Ross Coulthart
+        slug: ross-coulthart
+      - node_id: ffc4dffc-33d3-4a26-9296-5665788889d4
+        title: James Rigney
+        slug: james-rigney
+    date: null
+    date_end: null
+    location_in_record: 00:24:25.5-00:24:29.2
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: fd845823-8784-462c-a981-4775525b6f84
+      record_title: The DANGEROUS Truth About UFOs - Ross Coulthart | DEBRIEFED ep. 76
+      record_date: '2026-02-20'
+      record_reference: https://www.youtube.com/watch?v=idBryc0eWww
+      content_hash: sha256:73be106d406f6d35a063a894e8384e7da0918eb8597d2107a9e3653becca2bdc
+      friendly_name: null

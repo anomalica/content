@@ -1,0 +1,352 @@
+schema: anomalica/brief/1
+brief_hash: de7b54fbe6f6315a218c9d1c94e17b8c67e15aa818fb952e07e5a266330b4ff2
+page:
+  kind: entity
+  node_id: 75080c1c-2b3c-4e17-87c9-0096b1c8e930
+  node_type: organisation
+  title: Twitter
+  slug: twitter
+  claim_count: 6
+  claim_count_total: 6
+generated:
+  graph_version: '2026-09-01T10:10:49.863545+00:00'
+size:
+  claims: 6
+  tokens_estimated: 2049
+  sized_against: 1050000
+publication:
+  status: published
+  note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
+    transcripts are gated elsewhere.
+belonging:
+  verified: 0
+  suspect_excluded: 0
+  unreviewed: 6
+related_nodes:
+  - node_id: a3a02857-b28d-434b-b1ad-e6c2d491e8bd
+    title: To the Stars Academy of Arts and Science (TTSA)
+    node_type: organisation
+    slug: to-the-stars-academy-of-arts-and-science-ttsa
+    shared_claims: 3
+  - node_id: 389d0c85-b557-433e-8054-107e29b1de11
+    title: 2019 To The Stars Academy of Arts & Sciences (TTSA) Twitter claim about metamaterials from an advanced aerospace
+      vehicle
+    node_type: document
+    slug: 2019-to-the-stars-academy-of-arts-sciences-ttsa-twitter-claim-about-metamaterials-from-an-advanced-aerospace-vehicle
+    shared_claims: 2
+  - node_id: 5d06f518-dd64-4429-9026-b930e88660d2
+    title: Christopher K. Mellon
+    node_type: person
+    slug: christopher-k-mellon
+    shared_claims: 2
+  - node_id: d7f6cb14-4a16-4d89-bf5a-38e970e0f0fe
+    title: 2020-07 Christopher Mellon tweet on Salvatore Pais's patents
+    node_type: document
+    slug: 2020-07-christopher-mellon-tweet-on-salvatore-paiss-patents
+    shared_claims: 1
+  - node_id: 685735df-78d2-4ab2-970b-05932dcda3db
+    title: 2023-02 Yukon cylindrical object shoot-down
+    node_type: event
+    slug: 2023-02-yukon-cylindrical-object-shoot-down
+    shared_claims: 1
+  - node_id: b120a6e3-2061-4154-8e75-b0bd7ff99f79
+    title: Alex Katz
+    node_type: person
+    slug: alex-katz
+    shared_claims: 1
+  - node_id: 1f03fa1d-9929-4575-a27b-52dba43ec087
+    title: Anti-Gravity Propulsion
+    node_type: topic
+    slug: anti-gravity-propulsion
+    shared_claims: 1
+  - node_id: e1e9ff44-627c-4fd8-ad46-b05ec94d287c
+    title: Justin Trudeau
+    node_type: person
+    slug: justin-trudeau
+    shared_claims: 1
+  - node_id: 2e3b1f38-f41e-4ced-9ec0-812b17e942d3
+    title: Metamaterials (Art's Parts context)
+    node_type: topic
+    slug: metamaterials-arts-parts-context
+    shared_claims: 1
+  - node_id: 4bedff78-4e99-46cf-8eff-f61e56041681
+    title: Office of the Administrative Assistant to the Secretary of the Air Force (SAF/AA)
+    node_type: organisation
+    slug: office-of-the-administrative-assistant-to-the-secretary-of-the-air-force-safaa
+    shared_claims: 1
+  - node_id: c68638d3-44c5-470d-82e5-68ab882e0544
+    title: Russell E. Weiler
+    node_type: person
+    slug: russell-e-weiler
+    shared_claims: 1
+  - node_id: c3938d3d-6d68-4a6d-94db-45321eed124d
+    title: Tom DeLonge
+    node_type: person
+    slug: tom-delonge
+    shared_claims: 1
+  - node_id: 8de315e8-a0d7-45df-bdaa-aff3d00c3bc3
+    title: William E. McClure
+    node_type: person
+    slug: william-e-mcclure
+    shared_claims: 1
+claims:
+  - claim_id: 2dc21847-303d-45d4-976f-a040e994b2ef
+    claim_hash: 865d842b0b3c11c2bdfb1c1fcb20d77ea015bbd9e5ad450306472baa51ac9216
+    content: In 2019, To The Stars Academy of Arts & Sciences announced on Twitter that it had acquired multiple pieces of
+      metamaterials reported to have come from an advanced aerospace vehicle of unknown origin.
+    original_excerpt: TTSA did nothing to reassure people of its credibility when it announced on Twitter in 2019 that it
+      had acquired multiple pieces of metamaterials that 'are reported to have come from an advanced aerospace vehicle of
+      unknown origin. We're enthusiastic about its potential use and how it can further our mission for discovery and innovation'.
+    claim_type: administrative
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: document
+      origin: 2019 TTSA Twitter claim about metamaterials from an advanced aerospace vehicle
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 2e3b1f38-f41e-4ced-9ec0-812b17e942d3
+        title: Metamaterials (Art's Parts context)
+        slug: metamaterials-arts-parts-context
+      - node_id: 389d0c85-b557-433e-8054-107e29b1de11
+        title: 2019 To The Stars Academy of Arts & Sciences (TTSA) Twitter claim about metamaterials from an advanced aerospace
+          vehicle
+        slug: 2019-to-the-stars-academy-of-arts-sciences-ttsa-twitter-claim-about-metamaterials-from-an-advanced-aerospace-vehicle
+      - node_id: 75080c1c-2b3c-4e17-87c9-0096b1c8e930
+        title: Twitter
+        slug: twitter
+      - node_id: a3a02857-b28d-434b-b1ad-e6c2d491e8bd
+        title: To the Stars Academy of Arts and Science (TTSA)
+        slug: to-the-stars-academy-of-arts-and-science-ttsa
+    date: '2019'
+    date_end: null
+    location_in_record: ch24:8953-9281
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 76de335b-5cac-4c56-a8a9-919557f5359d
+    claim_hash: 28bad32b9a5cef72b82017dcbb3052e95b2605c039cc1cfcc07d5f43aa99acba
+    content: The photograph used by To The Stars Academy of Arts & Sciences to support its 2019 Twitter claims about metamaterials
+      was a downloadable commercial stock image of a natural layered stone called malachite.
+    original_excerpt: It was pointed out that the photograph used by TTSA to support its dramatic Twitter claims about these
+      purported metamaterials was, in fact, a downloadable commercial stock image of a natural layered stone called malachite
+    claim_type: observation
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: unattributed narration citing an unnamed observer
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 389d0c85-b557-433e-8054-107e29b1de11
+        title: 2019 To The Stars Academy of Arts & Sciences (TTSA) Twitter claim about metamaterials from an advanced aerospace
+          vehicle
+        slug: 2019-to-the-stars-academy-of-arts-sciences-ttsa-twitter-claim-about-metamaterials-from-an-advanced-aerospace-vehicle
+      - node_id: 75080c1c-2b3c-4e17-87c9-0096b1c8e930
+        title: Twitter
+        slug: twitter
+      - node_id: a3a02857-b28d-434b-b1ad-e6c2d491e8bd
+        title: To the Stars Academy of Arts and Science (TTSA)
+        slug: to-the-stars-academy-of-arts-and-science-ttsa
+    date: '2019'
+    date_end: null
+    location_in_record: ch24:9295-9508
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 3c9ee2ae-c5fe-47ef-b605-37b247015afc
+    claim_hash: 7cb88d7b42bf2c72572d9825c26a934775bdace3cbc0792ffc4c90ebdaa81729
+    content: Canadian Prime Minister Justin Trudeau said in a tweet that Canadian Forces would recover and analyse the wreckage
+      of the object shot down over Yukon.
+    original_excerpt: Canadian Prime Minister Justin Trudeau reassured the public in a tweet that, while they did not yet
+      know what the object was before it was shot down, 'Canadian Forces will now recover and analyze the wreckage of the
+      object.'
+    claim_type: testimony
+    attestation: second_hand
+    speaker:
+      node_id: e1e9ff44-627c-4fd8-ad46-b05ec94d287c
+      title: Justin Trudeau
+    provenance_chain:
+      origin_kind: named
+      origin: Justin Trudeau
+      relay:
+        - Twitter
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 685735df-78d2-4ab2-970b-05932dcda3db
+        title: 2023-02 Yukon cylindrical object shoot-down
+        slug: 2023-02-yukon-cylindrical-object-shoot-down
+      - node_id: 75080c1c-2b3c-4e17-87c9-0096b1c8e930
+        title: Twitter
+        slug: twitter
+      - node_id: e1e9ff44-627c-4fd8-ad46-b05ec94d287c
+        title: Justin Trudeau
+        slug: justin-trudeau
+    date: '2023-02-11'
+    date_end: null
+    location_in_record: ch29:5769-5985
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 1663b21b-68b7-4cc8-8901-bf16f83e46a8
+    claim_hash: 196c2139fc6e0327504add74c626cdffa743edb356a9102be2596437fbe97536
+    content: On 2020-07-25, Tom DeLonge tweeted that he was working on the first plans for an anti-gravitic propulsion experiment
+      for To The Stars Academy.
+    original_excerpt: On 25 Jul 2020 Tom DeLonge tweeted 'Working on the first plans for @ TTSAcademy's first anti-gravitic
+      experiment. More to come.'
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: c3938d3d-6d68-4a6d-94db-45321eed124d
+      title: Tom DeLonge
+    provenance_chain:
+      origin_kind: speaker
+      origin: Tom DeLonge
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 1f03fa1d-9929-4575-a27b-52dba43ec087
+        title: Anti-Gravity Propulsion
+        slug: anti-gravity-propulsion
+      - node_id: 75080c1c-2b3c-4e17-87c9-0096b1c8e930
+        title: Twitter
+        slug: twitter
+      - node_id: a3a02857-b28d-434b-b1ad-e6c2d491e8bd
+        title: To the Stars Academy of Arts and Science (TTSA)
+        slug: to-the-stars-academy-of-arts-and-science-ttsa
+      - node_id: c3938d3d-6d68-4a6d-94db-45321eed124d
+        title: Tom DeLonge
+        slug: tom-delonge
+    date: '2020-07-25'
+    date_end: null
+    location_in_record: ch34:41321-41443
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 4b3c69a7-f4c6-4c02-9c31-08e4d5021ba5
+    claim_hash: 2fc8d6671869b908949593137471222577511492999506d1409ffe5fb9058e20
+    content: Christopher Mellon tweeted about a video described as showing a 1997 Lockheed antigravity craft using electrostatic/electrogravitic
+      propulsion, on 2020-07-21.
+    original_excerpt: Tweet @ChristopherKMe4, Christopher Mellon Twitter account, 21 July 2020.
+    claim_type: administrative
+    attestation: second_hand
+    speaker:
+      node_id: 5d06f518-dd64-4429-9026-b930e88660d2
+      title: Christopher K. Mellon
+    provenance_chain:
+      origin_kind: document
+      origin: Christopher Mellon's Twitter account
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 5d06f518-dd64-4429-9026-b930e88660d2
+        title: Christopher K. Mellon
+        slug: christopher-k-mellon
+      - node_id: 75080c1c-2b3c-4e17-87c9-0096b1c8e930
+        title: Twitter
+        slug: twitter
+      - node_id: d7f6cb14-4a16-4d89-bf5a-38e970e0f0fe
+        title: 2020-07 Christopher Mellon tweet on Salvatore Pais's patents
+        slug: 2020-07-christopher-mellon-tweet-on-salvatore-paiss-patents
+    date: '2020-07-21'
+    date_end: null
+    location_in_record: ch34:65604-65672
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: e009e9df-0e2e-43bf-9c12-446672b57e01
+    claim_hash: 98023c0a571d73d28b8a20af7329db90f4222b0cac298ed2462c7a515176ef5d
+    content: In the image Chris Mellon posted on Twitter, Chris Mellon told a senior United States Government official that
+      he thought they had tracked down the Senior Executive Service gatekeeper in the Air Force, with the name redacted, crediting
+      work by Alex Katz and himself, and identifying the person as most likely either the former SAF/AAH sensitive activities
+      official Russell E. Weiler or the SAF/AAZ official William E. McClure.
+    original_excerpt: It was Chris Mellon talking to a senior USG official and saying, hey, I think we tracked down the SES
+      senior executive service gatekeeper in the Air Force name redacted. Thanks to some work by like a good guy named Alex
+      Katz and myself, it's either former SAF/AAH, Sensitive Activities, Russell Weiler, or AAZ, William E. McClure, most
+      likely.
+    claim_type: hearsay
+    attestation: second_hand
+    speaker:
+      node_id: 0b47cac5-b9cc-44ea-a2aa-5cbd39a0d21a
+      title: Unidentified Aerial Phenomena (UAP) Gerb
+    provenance_chain:
+      origin_kind: named
+      origin: Chris Mellon
+      relay:
+        - an image Chris Mellon posted on Twitter
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 4bedff78-4e99-46cf-8eff-f61e56041681
+        title: Office of the Administrative Assistant to the Secretary of the Air Force (SAF/AA)
+        slug: office-of-the-administrative-assistant-to-the-secretary-of-the-air-force-safaa
+      - node_id: 5d06f518-dd64-4429-9026-b930e88660d2
+        title: Christopher K. Mellon
+        slug: christopher-k-mellon
+      - node_id: 75080c1c-2b3c-4e17-87c9-0096b1c8e930
+        title: Twitter
+        slug: twitter
+      - node_id: 8de315e8-a0d7-45df-bdaa-aff3d00c3bc3
+        title: William E. McClure
+        slug: william-e-mcclure
+      - node_id: b120a6e3-2061-4154-8e75-b0bd7ff99f79
+        title: Alex Katz
+        slug: alex-katz
+      - node_id: c68638d3-44c5-470d-82e5-68ab882e0544
+        title: Russell E. Weiler
+        slug: russell-e-weiler
+    date: null
+    date_end: null
+    location_in_record: 00:54:27.3-00:54:46.1
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: dc9d8bc8-9c1f-46b4-9b89-8d86b6b08e1d
+      record_title: Jesse Michels, UAPGerb & Chris Ramsay - Flying Saucer Diner
+      record_date: '2026-07-17'
+      record_reference: https://www.youtube.com/watch?v=HFLBDi87888
+      content_hash: sha256:7b2e272d7c82fdda745ee0354d7c9cc4b0d5ba5506015ca27edd9169a768b262
+      friendly_name: null

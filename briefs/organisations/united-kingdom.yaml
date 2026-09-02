@@ -1,0 +1,307 @@
+schema: anomalica/brief/1
+brief_hash: 894aac917e84bd0a429bd4d8b24e61baf9e4956ed94c02bfd79bde52f26e85f2
+page:
+  kind: entity
+  node_id: 75139190-9d0c-47b6-b969-e905f864c633
+  node_type: organisation
+  title: United Kingdom
+  slug: united-kingdom
+  claim_count: 6
+  claim_count_total: 6
+generated:
+  graph_version: '2026-09-01T10:10:49.863545+00:00'
+size:
+  claims: 6
+  tokens_estimated: 1734
+  sized_against: 1050000
+publication:
+  status: published
+  note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
+    transcripts are gated elsewhere.
+belonging:
+  verified: 0
+  suspect_excluded: 0
+  unreviewed: 6
+related_nodes:
+  - node_id: 7955b61c-1b1b-4da6-b19c-c9d0d79944d7
+    title: Nick Pope
+    node_type: person
+    slug: nick-pope
+    shared_claims: 3
+  - node_id: fe63ec69-1ce7-4ee0-9e68-ff5ec941822c
+    title: 2024-2025 drone sightings over United Kingdom and United States
+    node_type: event
+    slug: 2024-2025-drone-sightings-over-united-kingdom-and-united-states
+    shared_claims: 1
+  - node_id: 65058390-bec5-4d48-84a0-bdd823cd974f
+    title: Air France
+    node_type: organisation
+    slug: air-france
+    shared_claims: 1
+  - node_id: 05c993d3-ff62-4822-a7fe-91cba59c0215
+    title: Brazil
+    node_type: organisation
+    slug: brazil
+    shared_claims: 1
+  - node_id: b0fac387-07b0-4b33-8ba8-e3cf5ee8e2b6
+    title: China
+    node_type: organisation
+    slug: china
+    shared_claims: 1
+  - node_id: 816c219b-6372-49f6-9579-5eeabb9a7474
+    title: Donald Trump
+    node_type: person
+    slug: donald-trump
+    shared_claims: 1
+  - node_id: 706f2310-7f81-4a5c-8126-1bb09fcaf29c
+    title: Russia
+    node_type: organisation
+    slug: russia
+    shared_claims: 1
+  - node_id: 0afc1d4e-dcb2-47c0-95a1-65220ab59f26
+    title: The X-Files (TV series)
+    node_type: document
+    slug: the-x-files-tv-series
+    shared_claims: 1
+  - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
+    title: Unidentified Flying Object (UFO)
+    node_type: topic
+    slug: unidentified-flying-object-ufo
+    shared_claims: 1
+claims:
+  - claim_id: 7fb0a125-884d-4440-8fee-f7fbf18b9ab2
+    claim_hash: 2c42e9fdbec6637c02709ea15f5c71fda5d5fef3a2f5243943af8f5703ee6f7a
+    content: At the same time as the 2024 United States nuclear weapons redeployment to the United Kingdom, a US president
+      was elected who has said he does not believe in climate change and would undo existing environmental protections.
+    original_excerpt: a president was elected who has said that he doesn't believe at all in climate change and will not only
+      undo environmental protections already in place, but even suppress reporting about the situation on the part of governmental
+      scientific institutions
+    claim_type: opinion
+    attestation: null
+    speaker:
+      node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+      title: Whitley Strieber
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 75139190-9d0c-47b6-b969-e905f864c633
+        title: United Kingdom
+        slug: united-kingdom
+      - node_id: 816c219b-6372-49f6-9579-5eeabb9a7474
+        title: Donald Trump
+        slug: donald-trump
+    date: 2024-11
+    date_end: null
+    location_in_record: ch10:2233-2473
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 759e8d7b-a820-4e00-bdc3-9aebf9e4b1b1
+      record_title: The Fourth Mind
+      record_date: '2025-01-15'
+      record_reference: null
+      content_hash: sha256:524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008e17102e7
+      friendly_name: 2025-01-15-ebook-the-fourth-mind
+  - claim_id: db93efb3-ca16-4305-9af9-4e3ead208216
+    claim_hash: 75c36a7d0914f0813d160b3e34af213253d48b837d92d6c8a966f82ec2663399
+    content: Whitley Strieber considers that the governments of the United Kingdom, France, Russia, Brazil and China all possess
+      significant secrets about nonhuman visitors and remain silent on the subject.
+    original_excerpt: the governments of the United Kingdom, France, Russia, Brazil and China, all of whom possess significant
+      secrets, remain silent on the subject
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+      title: Whitley Strieber
+    provenance_chain:
+      origin_kind: speaker
+      origin: Whitley Strieber
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 05c993d3-ff62-4822-a7fe-91cba59c0215
+        title: Brazil
+        slug: brazil
+      - node_id: 65058390-bec5-4d48-84a0-bdd823cd974f
+        title: Air France
+        slug: air-france
+      - node_id: 706f2310-7f81-4a5c-8126-1bb09fcaf29c
+        title: Russia
+        slug: russia
+      - node_id: 75139190-9d0c-47b6-b969-e905f864c633
+        title: United Kingdom
+        slug: united-kingdom
+      - node_id: b0fac387-07b0-4b33-8ba8-e3cf5ee8e2b6
+        title: China
+        slug: china
+    date: null
+    date_end: null
+    location_in_record: ch10:6359-6494
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 759e8d7b-a820-4e00-bdc3-9aebf9e4b1b1
+      record_title: The Fourth Mind
+      record_date: '2025-01-15'
+      record_reference: null
+      content_hash: sha256:524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008e17102e7
+      friendly_name: 2025-01-15-ebook-the-fourth-mind
+  - claim_id: 5f76f421-4488-4818-8d33-40d5629db97a
+    claim_hash: dfad6d90322afb5b356b6205f0bdbef9864a706164c9e98c60f9b3fd12b784ab
+    content: In the fourth quarter of 2024 the United States began redeploying nuclear weapons in the United Kingdom.
+    original_excerpt: the United States began, in the fourth quarter of 2024, to redeploy nuclear weapons in the United Kingdom
+    claim_type: observation
+    attestation: null
+    speaker:
+      node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+      title: Whitley Strieber
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 75139190-9d0c-47b6-b969-e905f864c633
+        title: United Kingdom
+        slug: united-kingdom
+      - node_id: fe63ec69-1ce7-4ee0-9e68-ff5ec941822c
+        title: 2024-2025 drone sightings over United Kingdom and United States
+        slug: 2024-2025-drone-sightings-over-united-kingdom-and-united-states
+    date: 2024-10
+    date_end: null
+    location_in_record: ch10:645-743
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 759e8d7b-a820-4e00-bdc3-9aebf9e4b1b1
+      record_title: The Fourth Mind
+      record_date: '2025-01-15'
+      record_reference: null
+      content_hash: sha256:524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008e17102e7
+      friendly_name: 2025-01-15-ebook-the-fourth-mind
+  - claim_id: 2bf34191-a75d-4de7-b8e2-90eeb1cec591
+    claim_hash: e644df77aed585d0785ed88a1c998a98d37f283573ed31122eacfb4338d4183c
+    content: Nick Pope ran the UFO desk at the United Kingdom Ministry of Defence, a role Chris Ramsay likens to the Scully
+      or Mulder figure of the United Kingdom.
+    original_excerpt: even you look at Nick Pope, who is, you know, kind of the Scully or the Molder of the UK at the UFO
+      desk for the MOD.
+    claim_type: administrative
+    attestation: first_hand
+    speaker:
+      node_id: 24d00311-06ac-46a1-a2f5-c99f3f8e21b2
+      title: Chris Ramsay
+    provenance_chain:
+      origin_kind: speaker
+      origin: Chris Ramsay
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 0afc1d4e-dcb2-47c0-95a1-65220ab59f26
+        title: The X-Files (TV series)
+        slug: the-x-files-tv-series
+      - node_id: 75139190-9d0c-47b6-b969-e905f864c633
+        title: United Kingdom
+        slug: united-kingdom
+      - node_id: 7955b61c-1b1b-4da6-b19c-c9d0d79944d7
+        title: Nick Pope
+        slug: nick-pope
+      - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
+        title: Unidentified Flying Object (UFO)
+        slug: unidentified-flying-object-ufo
+    date: null
+    date_end: null
+    location_in_record: 00:27:18.3-00:27:27.5
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: dc9d8bc8-9c1f-46b4-9b89-8d86b6b08e1d
+      record_title: Jesse Michels, UAPGerb & Chris Ramsay - Flying Saucer Diner
+      record_date: '2026-07-17'
+      record_reference: https://www.youtube.com/watch?v=HFLBDi87888
+      content_hash: sha256:7b2e272d7c82fdda745ee0354d7c9cc4b0d5ba5506015ca27edd9169a768b262
+      friendly_name: null
+  - claim_id: 0164ad7c-83cd-4878-901d-5e0e3e6bbc0e
+    claim_hash: 27c6a36f79e7de41f507ab0ffe09e68d2c40c767fba769d8dfcbb1deec50b0f6
+    content: Nick Pope's UFO desk at the United Kingdom Ministry of Defence had a public freephone-style telephone number
+      that members of the public could call in on.
+    original_excerpt: He had a 1-800 number, essentially. It was like this phone number that you would call in
+    claim_type: hearsay
+    attestation: second_hand
+    speaker:
+      node_id: 24d00311-06ac-46a1-a2f5-c99f3f8e21b2
+      title: Chris Ramsay
+    provenance_chain:
+      origin_kind: named
+      origin: Nick Pope
+      relay:
+        - Chris Ramsay
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 75139190-9d0c-47b6-b969-e905f864c633
+        title: United Kingdom
+        slug: united-kingdom
+      - node_id: 7955b61c-1b1b-4da6-b19c-c9d0d79944d7
+        title: Nick Pope
+        slug: nick-pope
+    date: null
+    date_end: null
+    location_in_record: 00:27:29.6-00:27:33.6
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: dc9d8bc8-9c1f-46b4-9b89-8d86b6b08e1d
+      record_title: Jesse Michels, UAPGerb & Chris Ramsay - Flying Saucer Diner
+      record_date: '2026-07-17'
+      record_reference: https://www.youtube.com/watch?v=HFLBDi87888
+      content_hash: sha256:7b2e272d7c82fdda745ee0354d7c9cc4b0d5ba5506015ca27edd9169a768b262
+      friendly_name: null
+  - claim_id: b021052c-ad7a-4d0b-b129-0216e01eb652
+    claim_hash: 9292a147389b3626f870f1973734b07d13de8048eecfdf4a1546059c9a51a3b0
+    content: Nick Pope received calls from actual experiencers on the Ministry of Defence UFO line and went out to investigate
+      sightings in person.
+    original_excerpt: you're getting calls from actual experiencers and he's actually going out and seeing these things.
+    claim_type: hearsay
+    attestation: second_hand
+    speaker:
+      node_id: 24d00311-06ac-46a1-a2f5-c99f3f8e21b2
+      title: Chris Ramsay
+    provenance_chain:
+      origin_kind: named
+      origin: Nick Pope
+      relay:
+        - Chris Ramsay
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 75139190-9d0c-47b6-b969-e905f864c633
+        title: United Kingdom
+        slug: united-kingdom
+      - node_id: 7955b61c-1b1b-4da6-b19c-c9d0d79944d7
+        title: Nick Pope
+        slug: nick-pope
+    date: null
+    date_end: null
+    location_in_record: 00:28:02.9-00:28:06.5
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: dc9d8bc8-9c1f-46b4-9b89-8d86b6b08e1d
+      record_title: Jesse Michels, UAPGerb & Chris Ramsay - Flying Saucer Diner
+      record_date: '2026-07-17'
+      record_reference: https://www.youtube.com/watch?v=HFLBDi87888
+      content_hash: sha256:7b2e272d7c82fdda745ee0354d7c9cc4b0d5ba5506015ca27edd9169a768b262
+      friendly_name: null

@@ -1,0 +1,214 @@
+schema: anomalica/brief/1
+brief_hash: ab15f4e2ac078cf06926330d5bb5a8fb2bdf18e5685a4590fbff458885d7d414
+page:
+  kind: entity
+  node_id: 68765641-06a8-4801-a75f-9d37075a3b5c
+  node_type: organisation
+  title: NewsNation
+  slug: newsnation
+  claim_count: 4
+  claim_count_total: 4
+generated:
+  graph_version: '2026-09-01T10:10:49.863545+00:00'
+size:
+  claims: 4
+  tokens_estimated: 1220
+  sized_against: 1050000
+publication:
+  status: published
+  note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
+    transcripts are gated elsewhere.
+belonging:
+  verified: 0
+  suspect_excluded: 0
+  unreviewed: 4
+related_nodes:
+  - node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+    title: Ross Coulthart
+    node_type: person
+    slug: ross-coulthart
+    shared_claims: 2
+  - node_id: 642b94b4-3874-4145-84a5-ae31cc9d9bc3
+    title: Ali Bradley
+    node_type: person
+    slug: ali-bradley
+    shared_claims: 1
+  - node_id: e79e207c-a848-4eb7-9246-07587b20d2c1
+    title: All-domain Anomaly Resolution Office (AARO)
+    node_type: organisation
+    slug: all-domain-anomaly-resolution-office-aaro
+    shared_claims: 1
+  - node_id: d4241f5a-1063-4970-ba02-5a391c02d96d
+    title: David Charles Grusch
+    node_type: person
+    slug: david-charles-grusch
+    shared_claims: 1
+  - node_id: 942227d2-0ca6-413f-b80d-bc6475fc98ab
+    title: USA, Texas, El Paso
+    node_type: place
+    slug: texas-el-paso-usa
+    shared_claims: 1
+  - node_id: 99f08514-5471-4eaf-bce3-46c474a8d304
+    title: United States Department of Defense (DoD)
+    node_type: organisation
+    slug: united-states-department-of-defense-dod
+    shared_claims: 1
+claims:
+  - claim_id: 200dbe20-614e-43ee-89f2-39a5174b6c6d
+    claim_hash: 5396baf01b6aa959f4cc4535225976622e9c10ba9d6dd84fc3c03e8954b25f13
+    content: In a statement to NewsNation, the United States Department of Defense denied that the All-domain Anomaly Resolution
+      Office had uncovered the sort of activity alleged by David Grusch.
+    original_excerpt: In a statement to NewsNation, the Department of Defense denied that the Pentagon’s new UFO office has
+      uncovered the sort of activity alleged by Grusch.
+    claim_type: administrative
+    attestation: second_hand
+    speaker:
+      node_id: b2f3a105-5f9e-4a13-9705-eca70d64476d
+      title: Marik von Rennenkampff
+    provenance_chain:
+      origin_kind: named
+      origin: United States Department of Defense (DoD)
+      relay:
+        - a statement to NewsNation
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 68765641-06a8-4801-a75f-9d37075a3b5c
+        title: NewsNation
+        slug: newsnation
+      - node_id: 99f08514-5471-4eaf-bce3-46c474a8d304
+        title: United States Department of Defense (DoD)
+        slug: united-states-department-of-defense-dod
+      - node_id: d4241f5a-1063-4970-ba02-5a391c02d96d
+        title: David Charles Grusch
+        slug: david-charles-grusch
+      - node_id: e79e207c-a848-4eb7-9246-07587b20d2c1
+        title: All-domain Anomaly Resolution Office (AARO)
+        slug: all-domain-anomaly-resolution-office-aaro
+    date: null
+    date_end: null
+    location_in_record: char:2788-3001
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: ca27c972-be68-47c9-8b9a-90d1e176b3e8
+      record_title: Claims that UFO information was inappropriately withheld from Congress deemed ‘credible,’ ‘urgent’
+      record_date: '2023-06-09'
+      record_reference: https://thehill.com/opinion/4038159-stunning-ufo-crash-retrieval-allegations-deemed-credible-urgent/
+      content_hash: sha256:90adc95e78f8aa5fb46873b510fe1cfd420a909322daec66f5b671ab1989ce15
+      friendly_name: 2023-06-09-web-claims-that-ufo-information-was-inappropriately-withheld
+  - claim_id: d9aeec9a-4760-42e8-9f16-8f68729c3225
+    claim_hash: c9a5a109b7f55f18a8b045b3884d003c8a5c360ee7abf0e018687a1083763548
+    content: Ross Coulthart finds that sources approach him more readily now, which he attributes to his public profile from
+      his role with News Nation making people feel familiar with him.
+    original_excerpt: it's easier now. ... Because I've got the News Nation role that I do. And I think that really helps
+      because people know me. They feel familiar with me.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+      title: Ross Coulthart
+    provenance_chain:
+      origin_kind: speaker
+      origin: Ross Coulthart
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 68765641-06a8-4801-a75f-9d37075a3b5c
+        title: NewsNation
+        slug: newsnation
+      - node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+        title: Ross Coulthart
+        slug: ross-coulthart
+    date: null
+    date_end: null
+    location_in_record: 00:53:23.2-00:53:33.5
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: fd845823-8784-462c-a981-4775525b6f84
+      record_title: The DANGEROUS Truth About UFOs - Ross Coulthart | DEBRIEFED ep. 76
+      record_date: '2026-02-20'
+      record_reference: https://www.youtube.com/watch?v=idBryc0eWww
+      content_hash: sha256:73be106d406f6d35a063a894e8384e7da0918eb8597d2107a9e3653becca2bdc
+      friendly_name: null
+  - claim_id: e162e20c-4afc-4ae4-883b-611a364e80a4
+    claim_hash: a24bf277ee5fd4fd4ed55be036652f0b489c19745caa87c40538853e15a4ca87
+    content: Ross Coulthart holds a role with News Nation.
+    original_excerpt: Because I've got the News Nation role that I do.
+    claim_type: administrative
+    attestation: first_hand
+    speaker:
+      node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+      title: Ross Coulthart
+    provenance_chain:
+      origin_kind: speaker
+      origin: Ross Coulthart
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 68765641-06a8-4801-a75f-9d37075a3b5c
+        title: NewsNation
+        slug: newsnation
+      - node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+        title: Ross Coulthart
+        slug: ross-coulthart
+    date: null
+    date_end: null
+    location_in_record: 00:53:27.6-00:53:29.8
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: fd845823-8784-462c-a981-4775525b6f84
+      record_title: The DANGEROUS Truth About UFOs - Ross Coulthart | DEBRIEFED ep. 76
+      record_date: '2026-02-20'
+      record_reference: https://www.youtube.com/watch?v=idBryc0eWww
+      content_hash: sha256:73be106d406f6d35a063a894e8384e7da0918eb8597d2107a9e3653becca2bdc
+      friendly_name: null
+  - claim_id: 23c427b7-bf7a-4ace-8c02-7afc5716054d
+    claim_hash: 55a1006de4826fc9480b5d9d14bf6a582981514d942c750e48f8fc80fb917b83
+    content: The explanation that Mexican cartels breached El Paso airspace, prompting the Federal Aviation Administration
+      (FAA) closure, was inconsistent with established patterns, as Mexican cartels frequently fly drones over the United
+      States border yet airspace closures are rarely or never imposed in response.
+    original_excerpt: This cartel drones explanation never really made any sense. As my NewsNation border correspondent colleague
+      Ali Bradley has detailed many times, the Mexican cartels frequently fly their drones over the US border and airspace
+      is rarely, if ever, shut down because of these frequent incursions.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+      title: Ross Coulthart
+    provenance_chain:
+      origin_kind: speaker
+      origin: Ross Coulthart
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 642b94b4-3874-4145-84a5-ae31cc9d9bc3
+        title: Ali Bradley
+        slug: ali-bradley
+      - node_id: 68765641-06a8-4801-a75f-9d37075a3b5c
+        title: NewsNation
+        slug: newsnation
+      - node_id: 942227d2-0ca6-413f-b80d-bc6475fc98ab
+        title: USA, Texas, El Paso
+        slug: texas-el-paso-usa
+    date: null
+    date_end: null
+    location_in_record: 00:09:39.7-00:10:01.8
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 308dd5bd-eed8-4f08-b15a-98f7bb989522
+      record_title: 'Ross Coulthart Q&A: Skywatcher didn''t disappear — it went government | Reality Check'
+      record_date: '2026-08-09'
+      record_reference: https://www.youtube.com/watch?v=IOZdVCoZ51Q
+      content_hash: sha256:76d7e7613c0a44bdb8d7e5ce87b2a23defe4a987cf1865be3ae1080cd1893d21
+      friendly_name: null

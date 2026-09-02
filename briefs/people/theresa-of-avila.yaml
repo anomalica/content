@@ -1,0 +1,543 @@
+schema: anomalica/brief/1
+brief_hash: 4182a3ccd2d62b2d99aa0d7cae9cdcc95dfcefa628810fea255ce063ee6c8f4f
+page:
+  kind: entity
+  node_id: 81244a41-ef9f-4529-8ea2-9ff690f56cf7
+  node_type: person
+  title: Theresa of Avila
+  slug: theresa-of-avila
+  claim_count: 13
+  claim_count_total: 13
+generated:
+  graph_version: '2026-09-01T10:10:49.863545+00:00'
+size:
+  claims: 13
+  tokens_estimated: 4308
+  sized_against: 1050000
+publication:
+  status: published
+  note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
+    transcripts are gated elsewhere.
+belonging:
+  verified: 0
+  suspect_excluded: 0
+  unreviewed: 13
+related_nodes:
+  - node_id: c3049206-6e8c-43b6-a645-5b8c47da0e56
+    title: 1917 Fatima Marian apparitions
+    node_type: event
+    slug: 1917-fatima-marian-apparitions
+    shared_claims: 1
+  - node_id: f2daae19-9351-4a8e-b466-664f83887f61
+    title: Diana Walsh Pasulka
+    node_type: person
+    slug: diana-walsh-pasulka
+    shared_claims: 1
+  - node_id: 6901bb4c-4d75-490f-b67f-2abaf46ac285
+    title: Domingo Bañez
+    node_type: person
+    slug: domingo-banez
+    shared_claims: 1
+  - node_id: c635c62e-a9e6-4092-9961-72c441aa8e52
+    title: Gian Lorenzo Bernini
+    node_type: person
+    slug: gian-lorenzo-bernini
+    shared_claims: 1
+  - node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
+    title: Jacques Vallée
+    node_type: person
+    slug: jacques-vallee
+    shared_claims: 1
+  - node_id: e351583f-bcd7-4360-92b1-395ede249cc2
+    title: Joseph of Cupertino
+    node_type: person
+    slug: joseph-of-cupertino
+    shared_claims: 1
+  - node_id: ccaada0b-7348-4d54-bd7b-22896b137901
+    title: Maria of Agreda
+    node_type: person
+    slug: maria-of-agreda
+    shared_claims: 1
+  - node_id: e429e611-f7a3-4b71-bc4a-7b219dabc2e6
+    title: Morphology of Miracles (Vallee framework)
+    node_type: topic
+    slug: morphology-of-miracles-vallee-framework
+    shared_claims: 1
+  - node_id: 8ae942de-e17b-4ffb-988c-23113c15a157
+    title: Pope Paul VI
+    node_type: person
+    slug: pope-paul-vi
+    shared_claims: 1
+  - node_id: 24136f1c-4cb7-4030-8ed1-35855481a65e
+    title: Tyler D.
+    node_type: person
+    slug: tyler-d
+    shared_claims: 1
+claims:
+  - claim_id: ed764da8-e137-40d2-9805-bf3df7f92a7d
+    claim_hash: 49210be75534db1be5d4e3d0d1330f1b2706649cf91000b49457077ccd3261bb
+    content: St. Teresa of Avila wrote in her diary of an angel appearing beside her in bodily form, short and beautiful with
+      a face aflame, holding a golden spear with a fiery tip, which he plunged into her heart several times causing severe
+      pain and a spiritual sweetness that left her utterly consumed by the love of God.
+    original_excerpt: Beside me, on the left hand, appeared an angel in bodily form... In his hands I saw a great golden spear,
+      and at the iron tip there appeared to be a point of fire. This he plunged into my heart several times so that it penetrated
+      to my entrails... left me utterly consumed by the great love of God.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 81244a41-ef9f-4529-8ea2-9ff690f56cf7
+      title: Theresa of Avila
+    provenance_chain:
+      origin_kind: speaker
+      origin: St. Teresa of Avila
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 81244a41-ef9f-4529-8ea2-9ff690f56cf7
+        title: Theresa of Avila
+        slug: theresa-of-avila
+    date: null
+    date_end: null
+    location_in_record: 51-51
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 288e1100-0497-41df-ba08-9890e519b0b9
+      record_title: American Cosmic
+      record_date: '2019'
+      record_reference: null
+      content_hash: sha256:ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b16ac4758
+      friendly_name: 2019-ebook-american-cosmic
+  - claim_id: 40e90443-403b-437d-9949-851288849e99
+    claim_hash: ad517719ada7dae98b5216c4dcd77d485eda137e152a2d85947eae3f858ad87d
+    content: St. Teresa of Avila was a sixteenth-century Catholic nun who instigated significant theological and social change
+      for the Catholic Church of her time.
+    original_excerpt: In my article, I described the experience of St. Teresa of Avila, a sixteenth-century Catholic nun.
+      An extraordinary woman, she instigated such significant change for the Catholic Church of her time, both theologically
+      and socially...
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 81244a41-ef9f-4529-8ea2-9ff690f56cf7
+        title: Theresa of Avila
+        slug: theresa-of-avila
+    date: null
+    date_end: null
+    location_in_record: ch3:31642-31865
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 288e1100-0497-41df-ba08-9890e519b0b9
+      record_title: American Cosmic
+      record_date: '2019'
+      record_reference: null
+      content_hash: sha256:ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b16ac4758
+      friendly_name: 2019-ebook-american-cosmic
+  - claim_id: e39061c4-3414-49c5-8f9f-5a480512487a
+    claim_hash: cd3b055fb4b87bfd1f9ea3c81e0371beb6a55edc79979bf90b4d2d86672fde4e
+    content: Pope Paul VI made St. Teresa of Avila an official "doctor" of the Catholic Church, a title previously held almost
+      exclusively by men.
+    original_excerpt: 'the modern church bestowed upon her one of its highest honors: Pope Paul VI made her an official “doctor”
+      of the church, a title previously held almost exclusively by men.'
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 81244a41-ef9f-4529-8ea2-9ff690f56cf7
+        title: Theresa of Avila
+        slug: theresa-of-avila
+      - node_id: 8ae942de-e17b-4ffb-988c-23113c15a157
+        title: Pope Paul VI
+        slug: pope-paul-vi
+    date: null
+    date_end: null
+    location_in_record: ch3:31880-32047
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 288e1100-0497-41df-ba08-9890e519b0b9
+      record_title: American Cosmic
+      record_date: '2019'
+      record_reference: null
+      content_hash: sha256:ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b16ac4758
+      friendly_name: 2019-ebook-american-cosmic
+  - claim_id: ae054ffb-e083-40a5-87de-0ce8172cf24e
+    claim_hash: 1d248d32a8200326cd3d12b1cf5803dc91e4254d57d3861286de7f46a5a40ee0
+    content: St. Teresa of Avila's mystic status began with an unusual occurrence commonly referred to as the ecstasy of Teresa,
+      or the "transverberation" of St. Teresa, meaning "to be pierced through."
+    original_excerpt: Her status as a mystic began with a most unusual occurrence, which even she had a hard time understanding.
+      It is commonly referred to as the ecstasy of Teresa, or the “transverberation” of St. Teresa, which means “to be pierced
+      through.”
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 81244a41-ef9f-4529-8ea2-9ff690f56cf7
+        title: Theresa of Avila
+        slug: theresa-of-avila
+    date: null
+    date_end: null
+    location_in_record: ch3:32231-32459
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 288e1100-0497-41df-ba08-9890e519b0b9
+      record_title: American Cosmic
+      record_date: '2019'
+      record_reference: null
+      content_hash: sha256:ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b16ac4758
+      friendly_name: 2019-ebook-american-cosmic
+  - claim_id: 51b3b799-8049-44a7-bce6-99b638d6c4f5
+    claim_hash: ec955a94370f2ed16816f7547cf2beefeaada50d11f9dd39f70b0e78b8721b4f
+    content: D. W. Pasulka noted that St. Teresa of Avila's written description of her transverberation differs radically
+      from most artistic representations of it, including paintings and a famous sculpture by Gian Lorenzo Bernini, which
+      do not depict the illuminated nature of the being or Teresa's confusion about whether the being was real.
+    original_excerpt: I had never paid attention to the fact that her description differs radically from most of the artistic
+      representations of it. There are paintings and also a famous sculpture by Bernini. They depict Teresa near a little
+      angel with a small dart. They do not depict the illuminated nature of the small being, nor do they show Teresa’s confusion
+      about the being.
+    claim_type: observation
+    attestation: first_hand
+    speaker:
+      node_id: f2daae19-9351-4a8e-b466-664f83887f61
+      title: Diana Walsh Pasulka
+    provenance_chain:
+      origin_kind: speaker
+      origin: D. W. Pasulka
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 81244a41-ef9f-4529-8ea2-9ff690f56cf7
+        title: Theresa of Avila
+        slug: theresa-of-avila
+      - node_id: c635c62e-a9e6-4092-9961-72c441aa8e52
+        title: Gian Lorenzo Bernini
+        slug: gian-lorenzo-bernini
+    date: null
+    date_end: null
+    location_in_record: ch3:33977-34330
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 288e1100-0497-41df-ba08-9890e519b0b9
+      record_title: American Cosmic
+      record_date: '2019'
+      record_reference: null
+      content_hash: sha256:ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b16ac4758
+      friendly_name: 2019-ebook-american-cosmic
+  - claim_id: a118e7f6-aa72-4cdb-bab0-41eefb73f65c
+    claim_hash: 0b0f6ba9d38ddb4fa59b57398c152363df3a4fe43aede6fcb52bb07b31934181
+    content: St. Teresa of Avila turned to the Catholic angelology known by her confessors to make sense of her experience
+      of the being, and her confessors' book encounter helped her understand her experience as religious, having to do with
+      Catholicism and God.
+    original_excerpt: To think through this event and make sense of it, she turns to the books of her time, Catholic angelology,
+      which was known by her confessors, the men in whom she confided. Her book encounter, facilitated by her confessors,
+      helped her understand her experience as religious, having to do with Catholicism and God.
+    claim_type: observation
+    attestation: first_hand
+    speaker:
+      node_id: f2daae19-9351-4a8e-b466-664f83887f61
+      title: Diana Walsh Pasulka
+    provenance_chain:
+      origin_kind: speaker
+      origin: D. W. Pasulka
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 81244a41-ef9f-4529-8ea2-9ff690f56cf7
+        title: Theresa of Avila
+        slug: theresa-of-avila
+    date: null
+    date_end: null
+    location_in_record: ch3:34578-34886
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 288e1100-0497-41df-ba08-9890e519b0b9
+      record_title: American Cosmic
+      record_date: '2019'
+      record_reference: null
+      content_hash: sha256:ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b16ac4758
+      friendly_name: 2019-ebook-american-cosmic
+  - claim_id: 3064df3a-e96a-440f-8aa3-5bd0e4111cc0
+    claim_hash: a3326c59d1d7dd2774d6a89bd641935b5d867f5dae06a9439c60e056c2ce6641
+    content: Jacques Vallee's morphology of miracles includes a psychic component, reported by the Fatima children and by
+      St. Teresa of Avila, experienced as a direct knowing of what the beings communicate, as if there are no barriers between
+      the beings and the experiencer.
+    original_excerpt: There is also the “psychic component” that Jacques mentions, which was reported by the children who
+      witnessed the apparition, as well as by St. Teresa of Avila. This component is experienced as a direct knowing of what
+      the beings seem to communicate. It is as if the beings somehow get inside the heads of the experiencers, as if there
+      are no barriers between them.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
+      title: Jacques Vallée
+    provenance_chain:
+      origin_kind: speaker
+      origin: Jacques Vallee
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
+        title: Jacques Vallée
+        slug: jacques-vallee
+      - node_id: 81244a41-ef9f-4529-8ea2-9ff690f56cf7
+        title: Theresa of Avila
+        slug: theresa-of-avila
+      - node_id: c3049206-6e8c-43b6-a645-5b8c47da0e56
+        title: 1917 Fatima Marian apparitions
+        slug: 1917-fatima-marian-apparitions
+      - node_id: e429e611-f7a3-4b71-bc4a-7b219dabc2e6
+        title: Morphology of Miracles (Vallee framework)
+        slug: morphology-of-miracles-vallee-framework
+    date: null
+    date_end: null
+    location_in_record: ch5:31825-32185
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 288e1100-0497-41df-ba08-9890e519b0b9
+      record_title: American Cosmic
+      record_date: '2019'
+      record_reference: null
+      content_hash: sha256:ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b16ac4758
+      friendly_name: 2019-ebook-american-cosmic
+  - claim_id: 942635c3-aa37-4530-a073-3cd4e6ab0b32
+    claim_hash: 9f0a6b693f4439ddf4a04e7a1383e46f4f078638dffff94305f31f5a723235f6
+    content: A colleague of D. W. Pasulka who scoffed at her interest in UFO cultures was nonetheless fascinated by her work
+      on saints such as Teresa of Avila who were reported to levitate or bilocate.
+    original_excerpt: A colleague who scoffed at my interest in UFO cultures was nonetheless fascinated by my work on the
+      cases of saints like Teresa of Avila, who was reported to levitate, and other saints who were said to have been in two
+      places at the same time—bilocation.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: f2daae19-9351-4a8e-b466-664f83887f61
+      title: Diana Walsh Pasulka
+    provenance_chain:
+      origin_kind: speaker
+      origin: D. W. Pasulka
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 81244a41-ef9f-4529-8ea2-9ff690f56cf7
+        title: Theresa of Avila
+        slug: theresa-of-avila
+      - node_id: f2daae19-9351-4a8e-b466-664f83887f61
+        title: Diana Walsh Pasulka
+        slug: diana-walsh-pasulka
+    date: null
+    date_end: null
+    location_in_record: ch6:26770-27013
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 288e1100-0497-41df-ba08-9890e519b0b9
+      record_title: American Cosmic
+      record_date: '2019'
+      record_reference: null
+      content_hash: sha256:ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b16ac4758
+      friendly_name: 2019-ebook-american-cosmic
+  - claim_id: 776bfe22-6643-4fb3-a7ad-f9ae89e1d235
+    claim_hash: 749933faeef71bbb7885b1a9d618cbf89a3afc35648fac030cc79f9f92928b7f
+    content: Teresa of Avila was reported to levitate.
+    original_excerpt: my work on the cases of saints like Teresa of Avila, who was reported to levitate, and other saints
+      who were said to have been in two places at the same time—bilocation.
+    claim_type: hearsay
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 81244a41-ef9f-4529-8ea2-9ff690f56cf7
+        title: Theresa of Avila
+        slug: theresa-of-avila
+    date: null
+    date_end: null
+    location_in_record: ch6:26855-27013
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 288e1100-0497-41df-ba08-9890e519b0b9
+      record_title: American Cosmic
+      record_date: '2019'
+      record_reference: null
+      content_hash: sha256:ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b16ac4758
+      friendly_name: 2019-ebook-american-cosmic
+  - claim_id: f3552ba4-051b-45d6-8b4e-475a183692ee
+    claim_hash: a3e7d75ad7d70f5dfa2884b8ef17acd6eb92b46a1fa02eeefd8144a855fee569
+    content: Before Mass at the hospital chapel, Tyler D. sat in silent contemplation in a small chapel that contained a relic
+      of a bone fragment of St. Teresa of Avila.
+    original_excerpt: Tyler, not knowing the prayers, sat in silent contemplation, looking around at the very small chapel,
+      which contained a relic (a fragment of a bone) of St. Teresa of Avila.
+    claim_type: observation
+    attestation: first_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: speaker
+      origin: D. W. Pasulka
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 24136f1c-4cb7-4030-8ed1-35855481a65e
+        title: Tyler D.
+        slug: tyler-d
+      - node_id: 81244a41-ef9f-4529-8ea2-9ff690f56cf7
+        title: Theresa of Avila
+        slug: theresa-of-avila
+    date: null
+    date_end: null
+    location_in_record: ch7:17161-17327
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 288e1100-0497-41df-ba08-9890e519b0b9
+      record_title: American Cosmic
+      record_date: '2019'
+      record_reference: null
+      content_hash: sha256:ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b16ac4758
+      friendly_name: 2019-ebook-american-cosmic
+  - claim_id: 72d57289-30a8-4eb0-8233-203a1bbd7dd1
+    claim_hash: 2a4be07654c6e3fe4f4a7c8d40577f5cfd34563ea4afd0f8a96c1c2dd977f993
+    content: Domingo Bañez witnessed Theresa of Avila rise into the air during a congregation after she took communion.
+    original_excerpt: Domingo Bañez, who was investigating Theresa of Avila, was in a congregation when he saw her rise up
+      after taking communion.
+    claim_type: testimony
+    attestation: second_hand
+    speaker:
+      node_id: 6901bb4c-4d75-490f-b67f-2abaf46ac285
+      title: Domingo Bañez
+    provenance_chain:
+      origin_kind: named
+      origin: Domingo Bañez
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 6901bb4c-4d75-490f-b67f-2abaf46ac285
+        title: Domingo Bañez
+        slug: domingo-banez
+      - node_id: 81244a41-ef9f-4529-8ea2-9ff690f56cf7
+        title: Theresa of Avila
+        slug: theresa-of-avila
+    date: null
+    date_end: null
+    location_in_record: ch22:20070-20184
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 759e8d7b-a820-4e00-bdc3-9aebf9e4b1b1
+      record_title: The Fourth Mind
+      record_date: '2025-01-15'
+      record_reference: null
+      content_hash: sha256:524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008e17102e7
+      friendly_name: 2025-01-15-ebook-the-fourth-mind
+  - claim_id: 1b093a27-dd69-47df-a5fb-b1598616b87e
+    claim_hash: f48096c0cbaf75c933f34bc646d6f863a80218242834e16bc055b42acd5fcf2a
+    content: During her levitation, Theresa of Avila grabbed onto a rail and hung there, begging God to stop the levitation.
+    original_excerpt: She grabbed onto a rail, and hung there, begging God to stop the levitations.
+    claim_type: testimony
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 81244a41-ef9f-4529-8ea2-9ff690f56cf7
+        title: Theresa of Avila
+        slug: theresa-of-avila
+    date: null
+    date_end: null
+    location_in_record: ch22:20195-20260
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 759e8d7b-a820-4e00-bdc3-9aebf9e4b1b1
+      record_title: The Fourth Mind
+      record_date: '2025-01-15'
+      record_reference: null
+      content_hash: sha256:524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008e17102e7
+      friendly_name: 2025-01-15-ebook-the-fourth-mind
+  - claim_id: f795b775-3b6e-45e4-848b-57aa73a28a78
+    claim_hash: 72ddcc4ea0374c6a469061e564699114536970e8cecf8e043c3408d01d4d9dd4
+    content: Witnesses reported that Theresa of Avila, Joseph of Cupertino, and Maria of Agreda all appeared to be dead when
+      they were levitating.
+    original_excerpt: Witnesses reported that Theresa of Avila, Joseph of Cupertino, and Maria of Agreda, who was also a noteworthy
+      bilocator, all seemed to be dead when they were levitating.
+    claim_type: testimony
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 81244a41-ef9f-4529-8ea2-9ff690f56cf7
+        title: Theresa of Avila
+        slug: theresa-of-avila
+      - node_id: ccaada0b-7348-4d54-bd7b-22896b137901
+        title: Maria of Agreda
+        slug: maria-of-agreda
+      - node_id: e351583f-bcd7-4360-92b1-395ede249cc2
+        title: Joseph of Cupertino
+        slug: joseph-of-cupertino
+    date: null
+    date_end: null
+    location_in_record: ch22:22010-22168
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 759e8d7b-a820-4e00-bdc3-9aebf9e4b1b1
+      record_title: The Fourth Mind
+      record_date: '2025-01-15'
+      record_reference: null
+      content_hash: sha256:524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008e17102e7
+      friendly_name: 2025-01-15-ebook-the-fourth-mind

@@ -1,0 +1,3226 @@
+schema: anomalica/brief/1
+brief_hash: 7254f038a7ec76a6c6abd6c216319d99e42b06118f18946a8a61651214a329ff
+page:
+  kind: entity
+  node_id: 7a9b9ff0-2991-43e0-87c6-23beada4ac49
+  node_type: person
+  title: Uri Geller
+  slug: uri-geller
+  claim_count: 82
+  claim_count_total: 82
+generated:
+  graph_version: '2026-09-01T10:10:49.863545+00:00'
+size:
+  claims: 82
+  tokens_estimated: 24510
+  sized_against: 1050000
+publication:
+  status: published
+  note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
+    transcripts are gated elsewhere.
+belonging:
+  verified: 0
+  suspect_excluded: 0
+  unreviewed: 82
+related_nodes:
+  - node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
+    title: Jacques Vallée
+    node_type: person
+    slug: jacques-vallee
+    shared_claims: 34
+  - node_id: ce3b2c34-7756-4263-8c86-f7e42c89c63e
+    title: Andrija Puharich
+    node_type: person
+    slug: andrija-puharich
+    shared_claims: 19
+  - node_id: e946f7e2-b3d1-4da6-a7d9-86b6fd754b2c
+    title: SPECTRA (alleged cosmic intelligence)
+    node_type: topic
+    slug: spectra-alleged-cosmic-intelligence
+    shared_claims: 8
+  - node_id: 2fd7d455-39be-4108-b1fa-b83a8057f23d
+    title: Edgar Cayce
+    node_type: person
+    slug: edgar-cayce
+    shared_claims: 3
+  - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
+    title: Unidentified Flying Object (UFO)
+    node_type: topic
+    slug: unidentified-flying-object-ufo
+    shared_claims: 3
+  - node_id: 1179d65c-bdf6-40c4-8629-596a2c6d4fad
+    title: 1949 Uri Geller childhood Unidentified Flying Object (UFO) sighting, Tel Aviv
+    node_type: event
+    slug: tel-aviv-1949-uri-geller-childhood-unidentified-flying-object-ufo-sighting
+    shared_claims: 2
+  - node_id: 436dad13-d01f-462b-9619-59a64fa95bd7
+    title: Israel, Tel Aviv
+    node_type: place
+    slug: tel-aviv-israel
+    shared_claims: 2
+  - node_id: 34fa7ace-5c72-4a1c-80b6-01f654eefe00
+    title: Stanford Research Institute (SRI)
+    node_type: organisation
+    slug: stanford-research-institute-sri
+    shared_claims: 2
+  - node_id: ffe28322-0585-4120-9c1a-aa93d16033ff
+    title: 1899 Victor Hugo séance, Jersey
+    node_type: event
+    slug: jersey-1899-victor-hugo-seance
+    shared_claims: 1
+  - node_id: 8d3a1dcb-1344-4baf-94d3-e532c44610d3
+    title: Charles Muses
+    node_type: person
+    slug: charles-muses
+    shared_claims: 1
+  - node_id: 129d2171-8308-4e75-ade4-9e12b2601536
+    title: Cyprus
+    node_type: place
+    slug: cyprus
+    shared_claims: 1
+  - node_id: 37e382f1-7386-416d-a245-6134d241b09e
+    title: Dr. Armstrong
+    node_type: person
+    slug: dr-armstrong
+    shared_claims: 1
+  - node_id: 807dfee6-055a-4f2e-ba5a-3e25f62f0138
+    title: Gordon Creighton
+    node_type: person
+    slug: gordon-creighton
+    shared_claims: 1
+  - node_id: 35cb9229-5c5c-4df9-b77f-548956cd70c4
+    title: Ira Einhorn
+    node_type: person
+    slug: ira-einhorn
+    shared_claims: 1
+  - node_id: a4382072-aedb-441f-90ba-9aa7b3ce81cc
+    title: Janine Vallée
+    node_type: person
+    slug: janine-vallee
+    shared_claims: 1
+  - node_id: ee1924c8-14da-4e7d-ba0c-7fd48502807b
+    title: Jim Hurtak
+    node_type: person
+    slug: jim-hurtak
+    shared_claims: 1
+  - node_id: f7fbff31-55ae-4ab9-9955-4ab6930f7418
+    title: Joan of Arc
+    node_type: person
+    slug: joan-of-arc
+    shared_claims: 1
+  - node_id: ec6e3129-f148-4490-bed4-01f487b632a9
+    title: Joseph Smith
+    node_type: person
+    slug: joseph-smith
+    shared_claims: 1
+  - node_id: 858fac07-91b9-482f-a116-71a4b41c69c8
+    title: Mrs. Keech
+    node_type: person
+    slug: mrs-keech
+    shared_claims: 1
+  - node_id: d12ebb23-4faf-4060-95a7-156343da4172
+    title: Northwestern University
+    node_type: organisation
+    slug: northwestern-university
+    shared_claims: 1
+  - node_id: 8976dff6-bb1e-4f97-a444-e0d0a36660ef
+    title: Parapsychology Research Group of Palo Alto
+    node_type: organisation
+    slug: parapsychology-research-group-of-palo-alto
+    shared_claims: 1
+  - node_id: 710dc680-9aa5-4be0-a87f-c6086d5e38a6
+    title: Peter Rogerson
+    node_type: person
+    slug: peter-rogerson
+    shared_claims: 1
+  - node_id: d32cd1a5-1fad-4af9-b42c-71a16f140948
+    title: Phoenician civilization
+    node_type: topic
+    slug: phoenician-civilization
+    shared_claims: 1
+  - node_id: 26a79169-f5c3-471c-ba20-a2a855c9f73f
+    title: Professor Miklos
+    node_type: person
+    slug: professor-miklos
+    shared_claims: 1
+  - node_id: 29f7cc37-42f6-422b-b4f4-67b00f36db77
+    title: Rhombus 4-D computer
+    node_type: topic
+    slug: rhombus-4-d-computer
+    shared_claims: 1
+  - node_id: 4eb6861d-7e60-4228-a4a1-06af7d3486f2
+    title: Six-Day War
+    node_type: event
+    slug: six-day-war
+    shared_claims: 1
+  - node_id: 134433ac-c317-4826-9edd-5f732f74521c
+    title: UK, London
+    node_type: place
+    slug: london-uk
+    shared_claims: 1
+  - node_id: c75ed158-58c4-4b95-b5de-03abc0397fd4
+    title: USA, California, Berkeley
+    node_type: place
+    slug: california-berkeley-usa
+    shared_claims: 1
+  - node_id: 13ddcea0-4d1f-4236-b2a2-78948a039eec
+    title: Uri (book by Andrija Puharich, 1974)
+    node_type: document
+    slug: 1974-uri-book-by-andrija-puharich
+    shared_claims: 1
+claims:
+  - claim_id: 2f32f54f-eec9-45af-baeb-be4d8e7568ec
+    claim_hash: 9e4624b291753e15d477de4a88788f7f14b6a37f737ee53937cc867397df32b0
+    content: Jim Hurtak was a friend of Andrija Puharich, was involved in the Uri Geller affair, and claimed to be psychic
+      and to have had UFO encounters.
+    original_excerpt: He was a friend of Andrija Puharich, was deeply involved in the Uri Geller affair, and claimed to be
+      psychic himself. Not only was he psychic, but he had had a number of UFO encounters
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
+      title: Jacques Vallée
+    provenance_chain:
+      origin_kind: speaker
+      origin: Jacques Vallée
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 7a9b9ff0-2991-43e0-87c6-23beada4ac49
+        title: Uri Geller
+        slug: uri-geller
+      - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
+        title: Unidentified Flying Object (UFO)
+        slug: unidentified-flying-object-ufo
+      - node_id: ce3b2c34-7756-4263-8c86-f7e42c89c63e
+        title: Andrija Puharich
+        slug: andrija-puharich
+      - node_id: ee1924c8-14da-4e7d-ba0c-7fd48502807b
+        title: Jim Hurtak
+        slug: jim-hurtak
+    date: null
+    date_end: null
+    location_in_record: ch11:28344-28518
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: f0690aba-c78b-47f4-bb2f-f94ea04d55ee
+      record_title: 'Messengers of Deception: UFO Contacts and Cults'
+      record_date: '0101-01-01'
+      record_reference: null
+      content_hash: sha256:0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5ac9fd3168
+      friendly_name: 0101-01-01-ebook-messengers-of-deception-ufo-contacts-and-cults
+  - claim_id: 26033a1b-8f6b-47c5-a1ab-dcf6328b3ee7
+    claim_hash: 6dba43334a369cead7c7418bc78a538305a5b83008ae85144cfc018c583e1305
+    content: Uri Geller has stated that his powers come from a form of consciousness emanating from "Hoova."
+    original_excerpt: Uri Geller has stated that his powers come from a form of consciousness emanating from “Hoova,”
+    claim_type: opinion
+    attestation: second_hand
+    speaker:
+      node_id: 7a9b9ff0-2991-43e0-87c6-23beada4ac49
+      title: Uri Geller
+    provenance_chain:
+      origin_kind: named
+      origin: Uri Geller
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 7a9b9ff0-2991-43e0-87c6-23beada4ac49
+        title: Uri Geller
+        slug: uri-geller
+    date: null
+    date_end: null
+    location_in_record: ch5:26349-26437
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: f0690aba-c78b-47f4-bb2f-f94ea04d55ee
+      record_title: 'Messengers of Deception: UFO Contacts and Cults'
+      record_date: '0101-01-01'
+      record_reference: null
+      content_hash: sha256:0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5ac9fd3168
+      friendly_name: 0101-01-01-ebook-messengers-of-deception-ufo-contacts-and-cults
+  - claim_id: 195b98b9-8c81-48b0-889a-dfbebe0538d6
+    claim_hash: c1eed3fb05befab920188a37abb55d49870e990a49e90f3a70134803232e98a4
+    content: Jacques Vallée classifies Joan of Arc, Joseph Smith, Edgar Cayce, and Uri Geller as historical direct contactees.
+    original_excerpt: Under this definition, such historical figures as Joan of Arc or Joseph Smith are direct contactees.
+      So are Edgar Cayce and Uri Geller.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
+      title: Jacques Vallée
+    provenance_chain:
+      origin_kind: speaker
+      origin: Jacques Vallée
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 2fd7d455-39be-4108-b1fa-b83a8057f23d
+        title: Edgar Cayce
+        slug: edgar-cayce
+      - node_id: 7a9b9ff0-2991-43e0-87c6-23beada4ac49
+        title: Uri Geller
+        slug: uri-geller
+      - node_id: ec6e3129-f148-4490-bed4-01f487b632a9
+        title: Joseph Smith
+        slug: joseph-smith
+      - node_id: f7fbff31-55ae-4ab9-9955-4ab6930f7418
+        title: Joan of Arc
+        slug: joan-of-arc
+    date: null
+    date_end: null
+    location_in_record: ch6:13676-13804
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: f0690aba-c78b-47f4-bb2f-f94ea04d55ee
+      record_title: 'Messengers of Deception: UFO Contacts and Cults'
+      record_date: '0101-01-01'
+      record_reference: null
+      content_hash: sha256:0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5ac9fd3168
+      friendly_name: 0101-01-01-ebook-messengers-of-deception-ufo-contacts-and-cults
+  - claim_id: db923ed1-6cad-47db-b5e6-d10ddb0e7b78
+    claim_hash: 6e80ad0d90af18ee8c38b784aecd3ece719b4d836c6f6c3dc00b9744e45a9148
+    content: One physicist present at the Mendocino, California gathering to hear the Timothy Leary tapes had conducted research
+      on Uri Geller.
+    original_excerpt: There was one physicist from Berkeley who had done research on Uri Geller
+    claim_type: observation
+    attestation: first_hand
+    speaker:
+      node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
+      title: Jacques Vallée
+    provenance_chain:
+      origin_kind: speaker
+      origin: Jacques Vallée
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 7a9b9ff0-2991-43e0-87c6-23beada4ac49
+        title: Uri Geller
+        slug: uri-geller
+      - node_id: c75ed158-58c4-4b95-b5de-03abc0397fd4
+        title: USA, California, Berkeley
+        slug: california-berkeley-usa
+    date: null
+    date_end: null
+    location_in_record: ch6:956-1023
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: f0690aba-c78b-47f4-bb2f-f94ea04d55ee
+      record_title: 'Messengers of Deception: UFO Contacts and Cults'
+      record_date: '0101-01-01'
+      record_reference: null
+      content_hash: sha256:0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5ac9fd3168
+      friendly_name: 0101-01-01-ebook-messengers-of-deception-ufo-contacts-and-cults
+  - claim_id: 4936614d-4f89-4250-bcbc-a3e6a26718ad
+    claim_hash: 32dae264615c06e6ea91894a9423c946046d39143ae1c4a0a63cf17c7dfc362a
+    content: Jacques Vallee considers Uri Geller a case in which self-negating factors of the UFO phenomenon are all gathered
+      around a single person, making research into it truly fantastic in complexity.
+    original_excerpt: In some cases all three factors are gathered around a single person, and then the complexity of the
+      research becomes truly fantastic. Uri Geller, of course, is a case in point.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
+      title: Jacques Vallée
+    provenance_chain:
+      origin_kind: speaker
+      origin: Jacques Vallee
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
+        title: Jacques Vallée
+        slug: jacques-vallee
+      - node_id: 7a9b9ff0-2991-43e0-87c6-23beada4ac49
+        title: Uri Geller
+        slug: uri-geller
+    date: null
+    date_end: null
+    location_in_record: ch10:39020-39190
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 220315f4-29cd-4c89-8860-44f95613d98f
+      record_title: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About UFO Influences on the Human Race'
+      record_date: '2014-09-27'
+      record_reference: null
+      content_hash: sha256:5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b8489cc11c26
+      friendly_name: 2014-09-27-ebook-the-invisible-college-what-a-group-of-scientists-has
+  - claim_id: acfbca68-5f2b-4e59-a59e-6e1cf1e16bb1
+    claim_hash: 9556077a5e1a97201d7794985e4c1572991a58e80207b92c0e2523715b940e0f
+    content: Dr. Armstrong was one of the leaders of the sect that formed around Mrs. Keech, and he later became involved
+      in the Uri Geller affair.
+    original_excerpt: One of the leaders of the sect was a “Dr. Armstrong,” a man we will again find involved in the Uri Geller
+      affair.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 37e382f1-7386-416d-a245-6134d241b09e
+        title: Dr. Armstrong
+        slug: dr-armstrong
+      - node_id: 7a9b9ff0-2991-43e0-87c6-23beada4ac49
+        title: Uri Geller
+        slug: uri-geller
+      - node_id: 858fac07-91b9-482f-a116-71a4b41c69c8
+        title: Mrs. Keech
+        slug: mrs-keech
+    date: null
+    date_end: null
+    location_in_record: ch10:40627-40733
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 220315f4-29cd-4c89-8860-44f95613d98f
+      record_title: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About UFO Influences on the Human Race'
+      record_date: '2014-09-27'
+      record_reference: null
+      content_hash: sha256:5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b8489cc11c26
+      friendly_name: 2014-09-27-ebook-the-invisible-college-what-a-group-of-scientists-has
+  - claim_id: e2afb4b1-e63d-4360-b156-e2dcf8aa18b9
+    claim_hash: 99d6e7a133b14662587ccf76efb3ef72d4abe84a3c0009407adb483550b61dd5
+    content: The network of Uri Geller devotees has succeeded in arousing the interest of several leading physicists.
+    original_excerpt: One of the most publicized of these groups in recent years is the network of Uri Geller devotees, which
+      has succeeded in arousing the interest of several leading physicists.
+    claim_type: testimony
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 7a9b9ff0-2991-43e0-87c6-23beada4ac49
+        title: Uri Geller
+        slug: uri-geller
+    date: null
+    date_end: null
+    location_in_record: ch10:45106-45268
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 220315f4-29cd-4c89-8860-44f95613d98f
+      record_title: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About UFO Influences on the Human Race'
+      record_date: '2014-09-27'
+      record_reference: null
+      content_hash: sha256:5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b8489cc11c26
+      friendly_name: 2014-09-27-ebook-the-invisible-college-what-a-group-of-scientists-has
+  - claim_id: 4525f8ae-dd94-438e-9400-d6a2590c1c67
+    claim_hash: f53c4cc241f3047e2288d3b1e3da59046489f9c27a3140467c61cc5c55348318
+    content: Uri Geller and Andrija Puharich have forecast massive flying saucer landings.
+    original_excerpt: Geller and Puharich have forecast massive flying saucer landings.
+    claim_type: hearsay
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 7a9b9ff0-2991-43e0-87c6-23beada4ac49
+        title: Uri Geller
+        slug: uri-geller
+      - node_id: ce3b2c34-7756-4263-8c86-f7e42c89c63e
+        title: Andrija Puharich
+        slug: andrija-puharich
+    date: null
+    date_end: null
+    location_in_record: ch10:45652-45708
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 220315f4-29cd-4c89-8860-44f95613d98f
+      record_title: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About UFO Influences on the Human Race'
+      record_date: '2014-09-27'
+      record_reference: null
+      content_hash: sha256:5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b8489cc11c26
+      friendly_name: 2014-09-27-ebook-the-invisible-college-what-a-group-of-scientists-has
+  - claim_id: 8ed0caee-592a-4279-9edb-27f6de6ed976
+    claim_hash: 35ee38ee9e85abef93f0055b4ab68a26ee4393921e0ad63eee3f80abb4173aba
+    content: On 1949-12-25 in Tel Aviv, Uri Geller, then aged three and playing in a garden, saw a large shining bowl-shaped
+      light in the sky above him.
+    original_excerpt: At the age of three, as he was playing in a garden in Tel Aviv, he saw a large shining bowl-shaped light
+      in the sky above him, on December 25, 1949.
+    claim_type: testimony
+    attestation: second_hand
+    speaker:
+      node_id: 7a9b9ff0-2991-43e0-87c6-23beada4ac49
+      title: Uri Geller
+    provenance_chain:
+      origin_kind: named
+      origin: Uri Geller
+      relay:
+        - a hypnosis session conducted by Andrija Puharich
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 1179d65c-bdf6-40c4-8629-596a2c6d4fad
+        title: 1949 Uri Geller childhood Unidentified Flying Object (UFO) sighting, Tel Aviv
+        slug: tel-aviv-1949-uri-geller-childhood-unidentified-flying-object-ufo-sighting
+      - node_id: 436dad13-d01f-462b-9619-59a64fa95bd7
+        title: Israel, Tel Aviv
+        slug: tel-aviv-israel
+      - node_id: 7a9b9ff0-2991-43e0-87c6-23beada4ac49
+        title: Uri Geller
+        slug: uri-geller
+    date: '1949-12-25'
+    date_end: null
+    location_in_record: ch11:1077-1220
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 220315f4-29cd-4c89-8860-44f95613d98f
+      record_title: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About UFO Influences on the Human Race'
+      record_date: '2014-09-27'
+      record_reference: null
+      content_hash: sha256:5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b8489cc11c26
+      friendly_name: 2014-09-27-ebook-the-invisible-college-what-a-group-of-scientists-has
+  - claim_id: 1ec2f9cc-971b-4ffe-bae9-47b6a9d90fce
+    claim_hash: 76d04b383d1a88fadfec9291808b760cdc4b032894ee5635e70e911c8badb71a
+    content: Uri Geller recalled a huge, very bright shining figure with no visible face appearing in the garden in Tel Aviv,
+      holding the sun between its raised arms, whose brightness caused him to pass out.
+    original_excerpt: The shining figure had no face that could be seen, only a radiant countenance...Uri passed out from
+      the power of its rays, with the pain of blindness.
+    claim_type: testimony
+    attestation: second_hand
+    speaker:
+      node_id: 7a9b9ff0-2991-43e0-87c6-23beada4ac49
+      title: Uri Geller
+    provenance_chain:
+      origin_kind: named
+      origin: Uri Geller
+      relay:
+        - a hypnosis session conducted by Andrija Puharich
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 1179d65c-bdf6-40c4-8629-596a2c6d4fad
+        title: 1949 Uri Geller childhood Unidentified Flying Object (UFO) sighting, Tel Aviv
+        slug: tel-aviv-1949-uri-geller-childhood-unidentified-flying-object-ufo-sighting
+      - node_id: 436dad13-d01f-462b-9619-59a64fa95bd7
+        title: Israel, Tel Aviv
+        slug: tel-aviv-israel
+      - node_id: 7a9b9ff0-2991-43e0-87c6-23beada4ac49
+        title: Uri Geller
+        slug: uri-geller
+    date: '1949-12-25'
+    date_end: null
+    location_in_record: ch11:1291-1478
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 220315f4-29cd-4c89-8860-44f95613d98f
+      record_title: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About UFO Influences on the Human Race'
+      record_date: '2014-09-27'
+      record_reference: null
+      content_hash: sha256:5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b8489cc11c26
+      friendly_name: 2014-09-27-ebook-the-invisible-college-what-a-group-of-scientists-has
+  - claim_id: 789e570d-6af6-40e6-afc3-1d8e3bc28ef8
+    claim_hash: 6e2fdf321682585c7d177b16ddf785275783bd333adfce63174b8b90a88ff32c
+    content: During the hypnosis session, a voice identifying itself as the source that had found Uri Geller in the garden
+      and 'programmed' him stated it was revealing itself because plans for war had been made by Egypt, referencing the period
+      around the Six-Day War.
+    original_excerpt: 'It identified itself as the source that had found Uri in the garden and had “programmed” him. The message
+      was impressive but also absurd: “We reveal ourselves because … plans for war have been made by Egypt.”'
+    claim_type: hearsay
+    attestation: second_hand
+    speaker:
+      node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
+      title: Jacques Vallée
+    provenance_chain:
+      origin_kind: named
+      origin: an unidentified voice heard during Uri Geller's hypnosis session
+      relay:
+        - Andrija Puharich's account
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 4eb6861d-7e60-4228-a4a1-06af7d3486f2
+        title: Six-Day War
+        slug: six-day-war
+      - node_id: 7a9b9ff0-2991-43e0-87c6-23beada4ac49
+        title: Uri Geller
+        slug: uri-geller
+    date: null
+    date_end: null
+    location_in_record: ch11:1802-2003
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 220315f4-29cd-4c89-8860-44f95613d98f
+      record_title: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About UFO Influences on the Human Race'
+      record_date: '2014-09-27'
+      record_reference: null
+      content_hash: sha256:5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b8489cc11c26
+      friendly_name: 2014-09-27-ebook-the-invisible-college-what-a-group-of-scientists-has
+  - claim_id: 50423b82-572b-45e0-b20a-e4f28e6ebbd5
+    claim_hash: d65409da5d73654418e73fb7dcd8413bbfa91c8601ae347e03ad95d34ce3d512
+    content: Jacques Vallee considers most of the exchanges between Andrija Puharich and SPECTRA (the alleged cosmic intelligence)
+      to consist of elements borrowed from Puharich's and Uri Geller's own brains and reflected back on them.
+    original_excerpt: Its elements may be borrowed entirely from our own brains and reflected upon us (as seems the case in
+      most of the exchanges between Puharich and SPECTRA) or it may present genuinely new data.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
+      title: Jacques Vallée
+    provenance_chain:
+      origin_kind: speaker
+      origin: Jacques Vallee
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
+        title: Jacques Vallée
+        slug: jacques-vallee
+      - node_id: 7a9b9ff0-2991-43e0-87c6-23beada4ac49
+        title: Uri Geller
+        slug: uri-geller
+      - node_id: ce3b2c34-7756-4263-8c86-f7e42c89c63e
+        title: Andrija Puharich
+        slug: andrija-puharich
+      - node_id: e946f7e2-b3d1-4da6-a7d9-86b6fd754b2c
+        title: SPECTRA (alleged cosmic intelligence)
+        slug: spectra-alleged-cosmic-intelligence
+    date: null
+    date_end: null
+    location_in_record: ch11:21004-21190
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 220315f4-29cd-4c89-8860-44f95613d98f
+      record_title: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About UFO Influences on the Human Race'
+      record_date: '2014-09-27'
+      record_reference: null
+      content_hash: sha256:5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b8489cc11c26
+      friendly_name: 2014-09-27-ebook-the-invisible-college-what-a-group-of-scientists-has
+  - claim_id: f7f75b7c-4b54-498c-b4c5-2c9434cf257f
+    claim_hash: e0542e9c39bf6034787a98420bf64583268f4ca85fb45a7be3d67b7922962459
+    content: Uri Geller told scientists from Stanford Research Institute during his first interview with them that SPECTRA's
+      computers guiding his powers 'were fed millions of light-years in the future', using light-years as a unit of time.
+    original_excerpt: 'During his first interview with scientists from the Stanford Research Institute, Uri explained the
+      concept of SPECTRA’s computers guiding his “powers” and said: “You see, they are computers, which were fed millions
+      of light-years in the future.”'
+    claim_type: testimony
+    attestation: second_hand
+    speaker:
+      node_id: 7a9b9ff0-2991-43e0-87c6-23beada4ac49
+      title: Uri Geller
+    provenance_chain:
+      origin_kind: named
+      origin: Uri Geller
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 34fa7ace-5c72-4a1c-80b6-01f654eefe00
+        title: Stanford Research Institute (SRI)
+        slug: stanford-research-institute-sri
+      - node_id: 7a9b9ff0-2991-43e0-87c6-23beada4ac49
+        title: Uri Geller
+        slug: uri-geller
+      - node_id: e946f7e2-b3d1-4da6-a7d9-86b6fd754b2c
+        title: SPECTRA (alleged cosmic intelligence)
+        slug: spectra-alleged-cosmic-intelligence
+    date: null
+    date_end: null
+    location_in_record: ch11:24578-24815
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 220315f4-29cd-4c89-8860-44f95613d98f
+      record_title: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About UFO Influences on the Human Race'
+      record_date: '2014-09-27'
+      record_reference: null
+      content_hash: sha256:5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b8489cc11c26
+      friendly_name: 2014-09-27-ebook-the-invisible-college-what-a-group-of-scientists-has
+  - claim_id: e6a8f477-a89b-4064-bdef-c4574cc7b03e
+    claim_hash: a0406bd06d912841a913dcf1361206834f2bb40bc5a45ae00933d76b2eb3252e
+    content: Andrija Puharich sometimes receives messages from SPECTRA when Uri Geller is not present.
+    original_excerpt: Puharich sometimes receives the messages when Uri is away, and it is difficult to believe that even
+      a clever magician would be able to plant loudspeakers in the walls wherever Dr. Puharich goes.
+    claim_type: testimony
+    attestation: null
+    speaker:
+      node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
+      title: Jacques Vallée
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 7a9b9ff0-2991-43e0-87c6-23beada4ac49
+        title: Uri Geller
+        slug: uri-geller
+      - node_id: ce3b2c34-7756-4263-8c86-f7e42c89c63e
+        title: Andrija Puharich
+        slug: andrija-puharich
+      - node_id: e946f7e2-b3d1-4da6-a7d9-86b6fd754b2c
+        title: SPECTRA (alleged cosmic intelligence)
+        slug: spectra-alleged-cosmic-intelligence
+    date: null
+    date_end: null
+    location_in_record: ch11:25088-25277
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 220315f4-29cd-4c89-8860-44f95613d98f
+      record_title: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About UFO Influences on the Human Race'
+      record_date: '2014-09-27'
+      record_reference: null
+      content_hash: sha256:5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b8489cc11c26
+      friendly_name: 2014-09-27-ebook-the-invisible-college-what-a-group-of-scientists-has
+  - claim_id: 53df69ad-8062-44dd-9e74-9e826c1003df
+    claim_hash: 0471e1af84846f2018518f940610af780306c564e06e507361ff2cb34cc77e4e
+    content: Jacques Vallee considers it true that Uri Geller and other 'silent contactees' can produce phenomena inadequately
+      explained in conventional terms.
+    original_excerpt: It is true, in my opinion, that Geller and other “silent contactees” can produce phenomena that are
+      inadequately explained in conventional terms.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
+      title: Jacques Vallée
+    provenance_chain:
+      origin_kind: speaker
+      origin: Jacques Vallee
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
+        title: Jacques Vallée
+        slug: jacques-vallee
+      - node_id: 7a9b9ff0-2991-43e0-87c6-23beada4ac49
+        title: Uri Geller
+        slug: uri-geller
+    date: null
+    date_end: null
+    location_in_record: ch11:25948-26087
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 220315f4-29cd-4c89-8860-44f95613d98f
+      record_title: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About UFO Influences on the Human Race'
+      record_date: '2014-09-27'
+      record_reference: null
+      content_hash: sha256:5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b8489cc11c26
+      friendly_name: 2014-09-27-ebook-the-invisible-college-what-a-group-of-scientists-has
+  - claim_id: 84e78942-afcd-40ae-b66f-314175277e5f
+    claim_hash: 4bb32848ed59e15a3d6b2ca89654da695005a37cb85e54de29ee7f4a74cf2f69
+    content: Uri Geller and Andrija Puharich took literally the messages recorded on tape from the alleged cosmic intelligence
+      SPECTRA, including a claim that there is a dematerialized aspect to atoms that could be used, and a claim about a 'mass
+      landing' compared to refuelling and charging via the earth's barometric and cosmic layer.
+    original_excerpt: “There is a dematerialized aspect to your atoms that we can use” (p. 166), and “We need that mass landing
+      like you people on earth call refueling, and charging up, like a huge plane of yours charges up with electricity. We
+      do that through your barometric and cosmic layer around earth” (p. 179).
+    claim_type: hearsay
+    attestation: second_hand
+    speaker:
+      node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
+      title: Jacques Vallée
+    provenance_chain:
+      origin_kind: document
+      origin: tape recordings made by Andrija Puharich and Uri Geller
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 7a9b9ff0-2991-43e0-87c6-23beada4ac49
+        title: Uri Geller
+        slug: uri-geller
+      - node_id: ce3b2c34-7756-4263-8c86-f7e42c89c63e
+        title: Andrija Puharich
+        slug: andrija-puharich
+      - node_id: e946f7e2-b3d1-4da6-a7d9-86b6fd754b2c
+        title: SPECTRA (alleged cosmic intelligence)
+        slug: spectra-alleged-cosmic-intelligence
+    date: null
+    date_end: null
+    location_in_record: ch11:2673-2962
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 220315f4-29cd-4c89-8860-44f95613d98f
+      record_title: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About UFO Influences on the Human Race'
+      record_date: '2014-09-27'
+      record_reference: null
+      content_hash: sha256:5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b8489cc11c26
+      friendly_name: 2014-09-27-ebook-the-invisible-college-what-a-group-of-scientists-has
+  - claim_id: 2ffc70ee-f18e-4c2e-89a0-6e1ae34b39fa
+    claim_hash: 482ea9887bfc3e412a3d8d9fc6f91e8d524cd6f0cd9dfd29321652df2b4d8184
+    content: Jacques Vallee considers that the phenomena involving the table at the 1899 Victor Hugo séance can be explained
+      by unconscious mental processes among the attending spiritualists, and that the same explanation applies to Andrija
+      Puharich and Uri Geller.
+    original_excerpt: I think the phenomena involving the table can be explained by unconscious and mental process among the
+      attending “spiritualists.” The same explanation holds true for Puharich and Geller.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
+      title: Jacques Vallée
+    provenance_chain:
+      origin_kind: speaker
+      origin: Jacques Vallee
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
+        title: Jacques Vallée
+        slug: jacques-vallee
+      - node_id: 7a9b9ff0-2991-43e0-87c6-23beada4ac49
+        title: Uri Geller
+        slug: uri-geller
+      - node_id: ce3b2c34-7756-4263-8c86-f7e42c89c63e
+        title: Andrija Puharich
+        slug: andrija-puharich
+      - node_id: ffe28322-0585-4120-9c1a-aa93d16033ff
+        title: 1899 Victor Hugo séance, Jersey
+        slug: jersey-1899-victor-hugo-seance
+    date: null
+    date_end: null
+    location_in_record: ch11:28893-29072
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 220315f4-29cd-4c89-8860-44f95613d98f
+      record_title: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About UFO Influences on the Human Race'
+      record_date: '2014-09-27'
+      record_reference: null
+      content_hash: sha256:5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b8489cc11c26
+      friendly_name: 2014-09-27-ebook-the-invisible-college-what-a-group-of-scientists-has
+  - claim_id: e8db6eff-dfd9-41a0-937e-d99db97c8633
+    claim_hash: 397a728b1641f3a71768b40e5e5d3b644fd707b4871a151fe741370eafb78cab
+    content: Jacques Vallee thinks highly of Uri Geller's talents.
+    original_excerpt: I think highly of Geller’s talents.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
+      title: Jacques Vallée
+    provenance_chain:
+      origin_kind: speaker
+      origin: Jacques Vallee
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
+        title: Jacques Vallée
+        slug: jacques-vallee
+      - node_id: 7a9b9ff0-2991-43e0-87c6-23beada4ac49
+        title: Uri Geller
+        slug: uri-geller
+    date: null
+    date_end: null
+    location_in_record: ch11:4288-4315
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 220315f4-29cd-4c89-8860-44f95613d98f
+      record_title: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About UFO Influences on the Human Race'
+      record_date: '2014-09-27'
+      record_reference: null
+      content_hash: sha256:5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b8489cc11c26
+      friendly_name: 2014-09-27-ebook-the-invisible-college-what-a-group-of-scientists-has
+  - claim_id: 10463795-d081-4d39-a962-77d4e7e85f41
+    claim_hash: 922808741e71a4d345b5da1bb7099bd756ddb0a113c9d7c4eb72acfb23e535fb
+    content: A series of contacts between Andrija Puharich and an 'Intelligence in the Sky' called SPECTRA or Hoova began
+      on 1971-11-30, when Puharich hypnotized Uri Geller for the first time.
+    original_excerpt: The series of contacts between a physician, Andrija Puharich, a graduate of Northwestern University,
+      and the “Intelligence in the Sky” called SPECTRA or Hoova, began on November 30, 1971, when Puharich hypnotized Uri
+      Geller for the first time.
+    claim_type: testimony
+    attestation: second_hand
+    speaker:
+      node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
+      title: Jacques Vallée
+    provenance_chain:
+      origin_kind: named
+      origin: Andrija Puharich
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 7a9b9ff0-2991-43e0-87c6-23beada4ac49
+        title: Uri Geller
+        slug: uri-geller
+      - node_id: ce3b2c34-7756-4263-8c86-f7e42c89c63e
+        title: Andrija Puharich
+        slug: andrija-puharich
+      - node_id: d12ebb23-4faf-4060-95a7-156343da4172
+        title: Northwestern University
+        slug: northwestern-university
+      - node_id: e946f7e2-b3d1-4da6-a7d9-86b6fd754b2c
+        title: SPECTRA (alleged cosmic intelligence)
+        slug: spectra-alleged-cosmic-intelligence
+    date: '1971-11-30'
+    date_end: null
+    location_in_record: ch11:463-701
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 220315f4-29cd-4c89-8860-44f95613d98f
+      record_title: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About UFO Influences on the Human Race'
+      record_date: '2014-09-27'
+      record_reference: null
+      content_hash: sha256:5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b8489cc11c26
+      friendly_name: 2014-09-27-ebook-the-invisible-college-what-a-group-of-scientists-has
+  - claim_id: 27185691-355b-439d-843f-23bf7485784b
+    claim_hash: d40d4d8ca60bef20ef47b35a69762512e02471bdaebde45af0b2366fce264ce0
+    content: Jacques Vallee considers the cult building up around Andrija Puharich and Uri Geller very similar to a number
+      of other belief structures that had developed in the United States and other countries in recent years.
+    original_excerpt: we find that the cult that is building up around Puharich and Geller is very similar to a number of
+      other belief structures that have developed in the U.S. and other countries in recent years.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
+      title: Jacques Vallée
+    provenance_chain:
+      origin_kind: speaker
+      origin: Jacques Vallee
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
+        title: Jacques Vallée
+        slug: jacques-vallee
+      - node_id: 7a9b9ff0-2991-43e0-87c6-23beada4ac49
+        title: Uri Geller
+        slug: uri-geller
+      - node_id: ce3b2c34-7756-4263-8c86-f7e42c89c63e
+        title: Andrija Puharich
+        slug: andrija-puharich
+    date: null
+    date_end: null
+    location_in_record: ch11:5799-5985
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 220315f4-29cd-4c89-8860-44f95613d98f
+      record_title: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About UFO Influences on the Human Race'
+      record_date: '2014-09-27'
+      record_reference: null
+      content_hash: sha256:5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b8489cc11c26
+      friendly_name: 2014-09-27-ebook-the-invisible-college-what-a-group-of-scientists-has
+  - claim_id: ba56ebd5-6844-4c10-a8e2-891fd36fbbe7
+    claim_hash: 81e14c14953acfab2186aa568e9bcff36d27268127e5178bd5cb6ae87baff9c8
+    content: Uri Geller and Andrija Puharich received messages from SPECTRA predicting mass landings that would perhaps be
+      visible only to themselves.
+    original_excerpt: Uri and Puharich receive messages from SPECTRA, predicting mass landings (perhaps visible only to themselves).
+    claim_type: hearsay
+    attestation: second_hand
+    speaker:
+      node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
+      title: Jacques Vallée
+    provenance_chain:
+      origin_kind: document
+      origin: tape recordings made by Andrija Puharich and Uri Geller
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 7a9b9ff0-2991-43e0-87c6-23beada4ac49
+        title: Uri Geller
+        slug: uri-geller
+      - node_id: ce3b2c34-7756-4263-8c86-f7e42c89c63e
+        title: Andrija Puharich
+        slug: andrija-puharich
+      - node_id: e946f7e2-b3d1-4da6-a7d9-86b6fd754b2c
+        title: SPECTRA (alleged cosmic intelligence)
+        slug: spectra-alleged-cosmic-intelligence
+    date: null
+    date_end: null
+    location_in_record: ch11:5993-6091
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 220315f4-29cd-4c89-8860-44f95613d98f
+      record_title: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About UFO Influences on the Human Race'
+      record_date: '2014-09-27'
+      record_reference: null
+      content_hash: sha256:5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b8489cc11c26
+      friendly_name: 2014-09-27-ebook-the-invisible-college-what-a-group-of-scientists-has
+  - claim_id: 6675e9d3-bb81-4e34-bf86-9b1e00102308
+    claim_hash: 7302650e67523051a866606c2609ca96eafc37871b7126531f5c0f7c2d319d46
+    content: Under hypnosis, Uri Geller said he found himself in a cave in Cyprus and 'came there for learning'.
+    original_excerpt: Uri said under hypnosis that he found himself in a cave in Cyprus and “came there for learning.”
+    claim_type: testimony
+    attestation: second_hand
+    speaker:
+      node_id: 7a9b9ff0-2991-43e0-87c6-23beada4ac49
+      title: Uri Geller
+    provenance_chain:
+      origin_kind: named
+      origin: Uri Geller
+      relay:
+        - a hypnosis session conducted by Andrija Puharich
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 129d2171-8308-4e75-ade4-9e12b2601536
+        title: Cyprus
+        slug: cyprus
+      - node_id: 7a9b9ff0-2991-43e0-87c6-23beada4ac49
+        title: Uri Geller
+        slug: uri-geller
+    date: null
+    date_end: null
+    location_in_record: ch11:707-793
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 220315f4-29cd-4c89-8860-44f95613d98f
+      record_title: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About UFO Influences on the Human Race'
+      record_date: '2014-09-27'
+      record_reference: null
+      content_hash: sha256:5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b8489cc11c26
+      friendly_name: 2014-09-27-ebook-the-invisible-college-what-a-group-of-scientists-has
+  - claim_id: c86bd3f3-2f1d-425c-a8c1-c7859c0c3ced
+    claim_hash: fe8cd48f5d99bd099c5703b00cbe78d2abdada115f98dcd90c3cdcb5063dce4b
+    content: Andrija Puharich wrote in his book (page 127) that a Prophet, such as Uri Geller, is specifically created to
+      serve as an intermediary between a 'divine' intelligence and man.
+    original_excerpt: “I believe,” states Dr. Puharich (p. 127), “that a Prophet, a Uri Geller … is specifically created to
+      serve as an intermediary between a ‘divine’ intelligence and man.”
+    claim_type: opinion
+    attestation: second_hand
+    speaker:
+      node_id: ce3b2c34-7756-4263-8c86-f7e42c89c63e
+      title: Andrija Puharich
+    provenance_chain:
+      origin_kind: named
+      origin: Andrija Puharich
+      relay:
+        - Uri (book by Andrija Puharich, 1974)
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 13ddcea0-4d1f-4236-b2a2-78948a039eec
+        title: Uri (book by Andrija Puharich, 1974)
+        slug: 1974-uri-book-by-andrija-puharich
+      - node_id: 7a9b9ff0-2991-43e0-87c6-23beada4ac49
+        title: Uri Geller
+        slug: uri-geller
+      - node_id: ce3b2c34-7756-4263-8c86-f7e42c89c63e
+        title: Andrija Puharich
+        slug: andrija-puharich
+    date: null
+    date_end: null
+    location_in_record: ch11:8012-8174
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 220315f4-29cd-4c89-8860-44f95613d98f
+      record_title: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About UFO Influences on the Human Race'
+      record_date: '2014-09-27'
+      record_reference: null
+      content_hash: sha256:5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b8489cc11c26
+      friendly_name: 2014-09-27-ebook-the-invisible-college-what-a-group-of-scientists-has
+  - claim_id: 597e7465-548a-4f8d-b902-f4368e8d7e4e
+    claim_hash: 1b7332279721140aa8f837b6de507ea877156a2f8aac214f96802f59852f1db6
+    content: Andrija Puharich stated flatly that the relationship between the superior beings and Uri Geller and himself continues
+      to grow deeper and mutually more meaningful.
+    original_excerpt: Dr. Puharich states flatly that “The relationship … between these superior beings and Uri and me continues
+      to grow deeper and mutually more meaningful.”
+    claim_type: opinion
+    attestation: second_hand
+    speaker:
+      node_id: ce3b2c34-7756-4263-8c86-f7e42c89c63e
+      title: Andrija Puharich
+    provenance_chain:
+      origin_kind: named
+      origin: Andrija Puharich
+      relay:
+        - Uri (book by Andrija Puharich, 1974)
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 7a9b9ff0-2991-43e0-87c6-23beada4ac49
+        title: Uri Geller
+        slug: uri-geller
+      - node_id: ce3b2c34-7756-4263-8c86-f7e42c89c63e
+        title: Andrija Puharich
+        slug: andrija-puharich
+    date: null
+    date_end: null
+    location_in_record: ch11:8428-8568
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 220315f4-29cd-4c89-8860-44f95613d98f
+      record_title: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About UFO Influences on the Human Race'
+      record_date: '2014-09-27'
+      record_reference: null
+      content_hash: sha256:5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b8489cc11c26
+      friendly_name: 2014-09-27-ebook-the-invisible-college-what-a-group-of-scientists-has
+  - claim_id: 057e1f3d-a37f-4c48-81bc-d4cbb5c45769
+    claim_hash: 939fdf398f75bb2971c7bebbc916a79850d03e41c7c6f8c9153db8041dd52e5a
+    content: Uri Geller began to receive information through automatic writing, in the form of tensor equations, a kind of
+      higher mathematics of which he has no concept.
+    original_excerpt: Although most of the messages from SPECTRA are said to have come on a tape recorder, Uri Geller himself
+      has begun to get information through automatic writing. It comes in the form of tensor equations, a kind of higher mathematics
+      of which Uri has no concept.
+    claim_type: hearsay
+    attestation: second_hand
+    speaker:
+      node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
+      title: Jacques Vallée
+    provenance_chain:
+      origin_kind: document
+      origin: tape recordings and writings made by Andrija Puharich and Uri Geller
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 7a9b9ff0-2991-43e0-87c6-23beada4ac49
+        title: Uri Geller
+        slug: uri-geller
+    date: null
+    date_end: null
+    location_in_record: ch11:8651-8902
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 220315f4-29cd-4c89-8860-44f95613d98f
+      record_title: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About UFO Influences on the Human Race'
+      record_date: '2014-09-27'
+      record_reference: null
+      content_hash: sha256:5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b8489cc11c26
+      friendly_name: 2014-09-27-ebook-the-invisible-college-what-a-group-of-scientists-has
+  - claim_id: 988563d5-0e91-4bf3-8a78-16e4faf6a159
+    claim_hash: 3509cd184e7b48f586004ac727a8b9a2be2870192e60b9c9de2199379b27d369
+    content: The magnetic tape recording of the 1972 SPECTRA communications to Uri Geller and Andrija Puharich disappeared
+      after transcription.
+    original_excerpt: Received on magnetic tape. The tape disappeared after transcription.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 7a9b9ff0-2991-43e0-87c6-23beada4ac49
+        title: Uri Geller
+        slug: uri-geller
+      - node_id: ce3b2c34-7756-4263-8c86-f7e42c89c63e
+        title: Andrija Puharich
+        slug: andrija-puharich
+      - node_id: e946f7e2-b3d1-4da6-a7d9-86b6fd754b2c
+        title: SPECTRA (alleged cosmic intelligence)
+        slug: spectra-alleged-cosmic-intelligence
+    date: null
+    date_end: null
+    location_in_record: ch12:1271-1325
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 220315f4-29cd-4c89-8860-44f95613d98f
+      record_title: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About UFO Influences on the Human Race'
+      record_date: '2014-09-27'
+      record_reference: null
+      content_hash: sha256:5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b8489cc11c26
+      friendly_name: 2014-09-27-ebook-the-invisible-college-what-a-group-of-scientists-has
+  - claim_id: f8a262a4-584d-4698-a862-085269ba7e02
+    claim_hash: 67e11d4bf295199abb5a0b3d7bd8cfa7f810352b53fdb965cebcd756007d881f
+    content: SPECTRA communicated to Uri Geller and Andrija Puharich in 1972 that it is a spacecraft used as humans use a
+      planet and had been stationed for the past eight hundred years over the earth.
+    original_excerpt: SPECTRA is the name of a spacecraft which we use as you use a planet. It has been stationed for the
+      past eight hundred years over the earth…. The Israeli territory is where we first landed on earth
+    claim_type: hearsay
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: anonymous
+      origin: a person or entity claiming to be SPECTRA
+      relay:
+        - a magnetic tape recording received by Uri Geller and Andrija Puharich in 1972, which disappeared after transcription
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 7a9b9ff0-2991-43e0-87c6-23beada4ac49
+        title: Uri Geller
+        slug: uri-geller
+      - node_id: ce3b2c34-7756-4263-8c86-f7e42c89c63e
+        title: Andrija Puharich
+        slug: andrija-puharich
+      - node_id: e946f7e2-b3d1-4da6-a7d9-86b6fd754b2c
+        title: SPECTRA (alleged cosmic intelligence)
+        slug: spectra-alleged-cosmic-intelligence
+    date: null
+    date_end: null
+    location_in_record: ch12:785-977
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 220315f4-29cd-4c89-8860-44f95613d98f
+      record_title: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About UFO Influences on the Human Race'
+      record_date: '2014-09-27'
+      record_reference: null
+      content_hash: sha256:5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b8489cc11c26
+      friendly_name: 2014-09-27-ebook-the-invisible-college-what-a-group-of-scientists-has
+  - claim_id: e445f3f2-babd-457c-875e-008ed61c0d68
+    claim_hash: 23931efb6cb73c6cdbbc40fc3310f7b795c089abd32eca04abc43de67792db84
+    content: British researcher Peter Rogerson noted that stories similar to the childhood experiences of Edgar Cayce and
+      Uri Geller were common in accounts of mediums of various kinds.
+    original_excerpt: Commenting on the childhood experiences of Cayce and Geller, a British researcher named Peter Rogerson
+      has reminded me that similar stories were common in accounts of mediums of various kinds
+    claim_type: opinion
+    attestation: second_hand
+    speaker:
+      node_id: 710dc680-9aa5-4be0-a87f-c6086d5e38a6
+      title: Peter Rogerson
+    provenance_chain:
+      origin_kind: named
+      origin: Peter Rogerson
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 2fd7d455-39be-4108-b1fa-b83a8057f23d
+        title: Edgar Cayce
+        slug: edgar-cayce
+      - node_id: 710dc680-9aa5-4be0-a87f-c6086d5e38a6
+        title: Peter Rogerson
+        slug: peter-rogerson
+      - node_id: 7a9b9ff0-2991-43e0-87c6-23beada4ac49
+        title: Uri Geller
+        slug: uri-geller
+    date: null
+    date_end: null
+    location_in_record: ch15:57264-57450
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 220315f4-29cd-4c89-8860-44f95613d98f
+      record_title: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About UFO Influences on the Human Race'
+      record_date: '2014-09-27'
+      record_reference: null
+      content_hash: sha256:5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b8489cc11c26
+      friendly_name: 2014-09-27-ebook-the-invisible-college-what-a-group-of-scientists-has
+  - claim_id: 4d646bdb-20df-40df-a203-dc09357b0668
+    claim_hash: dac85fee6c691189d23374cc7513309eb195701ab9dbabf0639f64ed210a6bb6
+    content: In a colour experiment, Jacques Vallee first thought of blue, then deliberately switched his target to yellow,
+      and Uri Geller reported receiving yellow with one out of three signals as blue.
+    original_excerpt: 'For this reason, I deliberately changed my choice, reviewed a dozen colors, and picked yellow as the
+      target. Three times Uri gave me the signal to send him the color. Then he calmly announced: "The color I receive is
+      yellow, but once out of three times I got the color blue."'
+    claim_type: observation
+    attestation: first_hand
+    speaker:
+      node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
+      title: Jacques Vallée
+    provenance_chain:
+      origin_kind: speaker
+      origin: Jacques Vallee
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
+        title: Jacques Vallée
+        slug: jacques-vallee
+      - node_id: 7a9b9ff0-2991-43e0-87c6-23beada4ac49
+        title: Uri Geller
+        slug: uri-geller
+    date: null
+    date_end: null
+    location_in_record: ch16:10124-10394
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 220315f4-29cd-4c89-8860-44f95613d98f
+      record_title: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About UFO Influences on the Human Race'
+      record_date: '2014-09-27'
+      record_reference: null
+      content_hash: sha256:5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b8489cc11c26
+      friendly_name: 2014-09-27-ebook-the-invisible-college-what-a-group-of-scientists-has
+  - claim_id: def8128b-bafe-40fc-b178-f71b56a1fa92
+    claim_hash: fc8b1e0fee3fd44c7ce0b60b7463f4c1007829bcdc5b2ddaf22e3e8cdd2f1de2
+    content: Jacques Vallee attended an experiment where Uri Geller asked a subject to select a three-digit number and write
+      it on a board.
+    original_excerpt: Uri Geller asked the subject to select a three-digit number and to write it down on the board.
+    claim_type: observation
+    attestation: first_hand
+    speaker:
+      node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
+      title: Jacques Vallée
+    provenance_chain:
+      origin_kind: speaker
+      origin: Jacques Vallee
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
+        title: Jacques Vallée
+        slug: jacques-vallee
+      - node_id: 7a9b9ff0-2991-43e0-87c6-23beada4ac49
+        title: Uri Geller
+        slug: uri-geller
+    date: null
+    date_end: null
+    location_in_record: ch16:1044-1132
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 220315f4-29cd-4c89-8860-44f95613d98f
+      record_title: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About UFO Influences on the Human Race'
+      record_date: '2014-09-27'
+      record_reference: null
+      content_hash: sha256:5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b8489cc11c26
+      friendly_name: 2014-09-27-ebook-the-invisible-college-what-a-group-of-scientists-has
+  - claim_id: 5916a906-5d84-453d-af49-0eca626a6f96
+    claim_hash: 6a76bbc58b392a13c93a7427488f3e524ed49da7fef064521110dbff991410e3
+    content: Uri Geller told Jacques Vallee that his specialty was producing phenomena with physical objects, citing a spoon
+      as an example.
+    original_excerpt: '"You know," said Uri, "everything you’ve seen … Those are little things. This is not what I really
+      do. My specialty is to produce phenomena with physical objects. For example, take a spoon."'
+    claim_type: testimony
+    attestation: second_hand
+    speaker:
+      node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
+      title: Jacques Vallée
+    provenance_chain:
+      origin_kind: named
+      origin: Uri Geller
+      relay:
+        - told to Jacques Vallee
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 7a9b9ff0-2991-43e0-87c6-23beada4ac49
+        title: Uri Geller
+        slug: uri-geller
+    date: null
+    date_end: null
+    location_in_record: ch16:10484-10666
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 220315f4-29cd-4c89-8860-44f95613d98f
+      record_title: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About UFO Influences on the Human Race'
+      record_date: '2014-09-27'
+      record_reference: null
+      content_hash: sha256:5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b8489cc11c26
+      friendly_name: 2014-09-27-ebook-the-invisible-college-what-a-group-of-scientists-has
+  - claim_id: a6b10f89-6645-44e8-9e8c-e263bfbf483e
+    claim_hash: 0b860d418a369aa10d0d968ee97d99926eda2604909aeea0b823fc0f4da9d21d
+    content: Uri Geller touched a spoon in his cup and it became bent three times, folded back against the handle.
+    original_excerpt: With these words he touched, barely touched the spoon in his cup, and he jumped back as if he had touched
+      a snake. He reached for the spoon again and showed it to us. It was bent three times, literally folded back against
+      the handle.
+    claim_type: observation
+    attestation: first_hand
+    speaker:
+      node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
+      title: Jacques Vallée
+    provenance_chain:
+      origin_kind: speaker
+      origin: Jacques Vallee
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 7a9b9ff0-2991-43e0-87c6-23beada4ac49
+        title: Uri Geller
+        slug: uri-geller
+    date: null
+    date_end: null
+    location_in_record: ch16:10675-10901
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 220315f4-29cd-4c89-8860-44f95613d98f
+      record_title: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About UFO Influences on the Human Race'
+      record_date: '2014-09-27'
+      record_reference: null
+      content_hash: sha256:5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b8489cc11c26
+      friendly_name: 2014-09-27-ebook-the-invisible-college-what-a-group-of-scientists-has
+  - claim_id: 610c9482-63ec-4ae6-b674-7776a3eabca5
+    claim_hash: 17149f8eb27e7583f0ddf73e616278a87605da7942c40ced143a9c20c351a3e1
+    content: As Uri Geller gave instructions to the subject, Jacques Vallee independently wrote the number 726 on his own
+      notepad and showed it to Janine Vallee.
+    original_excerpt: As he gave these instructions a number came into my consciousness and I noted it on the pad I was using
+      to keep a record of the experiments, showing it to Janine as I did so. The number I wrote was 726.
+    claim_type: observation
+    attestation: first_hand
+    speaker:
+      node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
+      title: Jacques Vallée
+    provenance_chain:
+      origin_kind: speaker
+      origin: Jacques Vallee
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
+        title: Jacques Vallée
+        slug: jacques-vallee
+      - node_id: 7a9b9ff0-2991-43e0-87c6-23beada4ac49
+        title: Uri Geller
+        slug: uri-geller
+      - node_id: a4382072-aedb-441f-90ba-9aa7b3ce81cc
+        title: Janine Vallée
+        slug: janine-vallee
+    date: null
+    date_end: null
+    location_in_record: ch16:1139-1337
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 220315f4-29cd-4c89-8860-44f95613d98f
+      record_title: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About UFO Influences on the Human Race'
+      record_date: '2014-09-27'
+      record_reference: null
+      content_hash: sha256:5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b8489cc11c26
+      friendly_name: 2014-09-27-ebook-the-invisible-college-what-a-group-of-scientists-has
+  - claim_id: 6d722af5-63e0-4993-986e-187b9fbbb927
+    claim_hash: aa22b3db56ebf97405a1b7c3e3fe7fdf742e3f728108ec70485c8bc546168378
+    content: The subject in the experiment wrote the digits 7, 2, and 5 on the board.
+    original_excerpt: 'The subject wrote a number on the board: the digits were 7, 2, and 5.'
+    claim_type: observation
+    attestation: first_hand
+    speaker:
+      node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
+      title: Jacques Vallée
+    provenance_chain:
+      origin_kind: speaker
+      origin: Jacques Vallee
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 7a9b9ff0-2991-43e0-87c6-23beada4ac49
+        title: Uri Geller
+        slug: uri-geller
+    date: null
+    date_end: null
+    location_in_record: ch16:1342-1409
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 220315f4-29cd-4c89-8860-44f95613d98f
+      record_title: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About UFO Influences on the Human Race'
+      record_date: '2014-09-27'
+      record_reference: null
+      content_hash: sha256:5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b8489cc11c26
+      friendly_name: 2014-09-27-ebook-the-invisible-college-what-a-group-of-scientists-has
+  - claim_id: 7bd265fc-cfb3-4ccc-b40d-a74024879c71
+    claim_hash: 99f31108acd6a723dfc93aeae5a4bbb551cef101924f76b011020ddd37cbad2c
+    content: During the number experiment, Uri Geller sat in a corner of the room with his head turned toward the wall and
+      hidden by a screen, and spelled out the digits 7, 2, and 5 as the digits he said he was mentally picking up.
+    original_excerpt: 'Geller was sitting in a corner at the other end of the room, his head turned toward the wall and hidden
+      by a screen. He spelled out the digits he said he was mentally picking up: 7, 2, and 5.'
+    claim_type: observation
+    attestation: first_hand
+    speaker:
+      node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
+      title: Jacques Vallée
+    provenance_chain:
+      origin_kind: speaker
+      origin: Jacques Vallee
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 7a9b9ff0-2991-43e0-87c6-23beada4ac49
+        title: Uri Geller
+        slug: uri-geller
+    date: null
+    date_end: null
+    location_in_record: ch16:1412-1601
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 220315f4-29cd-4c89-8860-44f95613d98f
+      record_title: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About UFO Influences on the Human Race'
+      record_date: '2014-09-27'
+      record_reference: null
+      content_hash: sha256:5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b8489cc11c26
+      friendly_name: 2014-09-27-ebook-the-invisible-college-what-a-group-of-scientists-has
+  - claim_id: c6b9ce00-6a15-4533-9207-4c3736338fb5
+    claim_hash: 264eb7116eca37812076a8f5596ddcacd92b0053639be221077bccab5da2513a
+    content: Jacques Vallee considers people with experiences similar to those of Uri Geller to not be uncommon.
+    original_excerpt: This letter is another indication that people with experiences similar to those of Uri Geller are not
+      uncommon.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
+      title: Jacques Vallée
+    provenance_chain:
+      origin_kind: speaker
+      origin: Jacques Vallee
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
+        title: Jacques Vallée
+        slug: jacques-vallee
+      - node_id: 7a9b9ff0-2991-43e0-87c6-23beada4ac49
+        title: Uri Geller
+        slug: uri-geller
+    date: null
+    date_end: null
+    location_in_record: ch16:22324-22426
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 220315f4-29cd-4c89-8860-44f95613d98f
+      record_title: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About UFO Influences on the Human Race'
+      record_date: '2014-09-27'
+      record_reference: null
+      content_hash: sha256:5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b8489cc11c26
+      friendly_name: 2014-09-27-ebook-the-invisible-college-what-a-group-of-scientists-has
+  - claim_id: b84b2660-e49c-4120-8d21-d309cc32211a
+    claim_hash: 1f34a0045d21fea9a10ba879667655f3249aa04e66addf7dfccd92050e982567
+    content: Professor Miklos is a Romanian researcher who offered Jacques Vallee a theory intended to help understand Uri
+      Geller.
+    original_excerpt: Additional comments have come to me from scientists in several countries. Professor Miklos, a Romanian
+      researcher, offered a theory that may be helpful in our attempts to understand Uri Geller
+    claim_type: administrative
+    attestation: first_hand
+    speaker:
+      node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
+      title: Jacques Vallée
+    provenance_chain:
+      origin_kind: speaker
+      origin: Jacques Vallee
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
+        title: Jacques Vallée
+        slug: jacques-vallee
+      - node_id: 26a79169-f5c3-471c-ba20-a2a855c9f73f
+        title: Professor Miklos
+        slug: professor-miklos
+      - node_id: 7a9b9ff0-2991-43e0-87c6-23beada4ac49
+        title: Uri Geller
+        slug: uri-geller
+    date: null
+    date_end: null
+    location_in_record: ch16:23591-23777
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 220315f4-29cd-4c89-8860-44f95613d98f
+      record_title: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About UFO Influences on the Human Race'
+      record_date: '2014-09-27'
+      record_reference: null
+      content_hash: sha256:5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b8489cc11c26
+      friendly_name: 2014-09-27-ebook-the-invisible-college-what-a-group-of-scientists-has
+  - claim_id: d9f0d541-7ce4-4027-a9ae-f13fd8e59b2c
+    claim_hash: c9461947bb6e7fad530ee3b6186a364298d4c1ee64a599f0ad6739f512152c57
+    content: Uri Geller appears capable of forcing subjects to pick certain numbers or certain words.
+    original_excerpt: Uri Geller appears capable of forcing subjects to pick certain numbers or certain words.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
+      title: Jacques Vallée
+    provenance_chain:
+      origin_kind: speaker
+      origin: Jacques Vallee
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 7a9b9ff0-2991-43e0-87c6-23beada4ac49
+        title: Uri Geller
+        slug: uri-geller
+    date: null
+    date_end: null
+    location_in_record: ch16:2591-2673
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 220315f4-29cd-4c89-8860-44f95613d98f
+      record_title: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About UFO Influences on the Human Race'
+      record_date: '2014-09-27'
+      record_reference: null
+      content_hash: sha256:5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b8489cc11c26
+      friendly_name: 2014-09-27-ebook-the-invisible-college-what-a-group-of-scientists-has
+  - claim_id: dd590558-4624-4167-a88d-1b9eb46687fa
+    claim_hash: 94a7708c5e5b65aa92111ec0753e84f85bd89577c6cb5ec89c887b01ef696fc4
+    content: Jacques Vallee's own observation of Uri Geller was only one factor motivating his research; the other was the
+      convergence of Geller's experiences with those of a sizable sample of individuals in contact with Vallee.
+    original_excerpt: My own observation of Geller was only one of the factors here; the other was the convergence of his
+      experience with those of a sizable sample of individuals with whom I am in contact.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
+      title: Jacques Vallée
+    provenance_chain:
+      origin_kind: speaker
+      origin: Jacques Vallee
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
+        title: Jacques Vallée
+        slug: jacques-vallee
+      - node_id: 7a9b9ff0-2991-43e0-87c6-23beada4ac49
+        title: Uri Geller
+        slug: uri-geller
+    date: null
+    date_end: null
+    location_in_record: ch16:26030-26205
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 220315f4-29cd-4c89-8860-44f95613d98f
+      record_title: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About UFO Influences on the Human Race'
+      record_date: '2014-09-27'
+      record_reference: null
+      content_hash: sha256:5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b8489cc11c26
+      friendly_name: 2014-09-27-ebook-the-invisible-college-what-a-group-of-scientists-has
+  - claim_id: 3bb60852-7f05-469c-94da-023226673ab9
+    claim_hash: 76dad1b34d7cf8c9aa8591b32e284dcbfb34cc3c7d36e754fc05e47b852a6841
+    content: Jacques Vallee proposes that the Uri Geller phenomenon is not spontaneous manifestations explainable by a psychiatrist
+      or a student of ordinary spiritualist phenomena such as automatic writing, and is not necessarily space visitors, but
+      is a control system.
+    original_excerpt: I propose the view that we are not dealing with spontaneous manifestations that can be explained simply
+      by the psychiatrist or by the student of ordinary spiritualist phenomena, such as automatic writing. Nor are we necessarily
+      dealing with space visitors. We are dealing with a control system.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
+      title: Jacques Vallée
+    provenance_chain:
+      origin_kind: speaker
+      origin: Jacques Vallee
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
+        title: Jacques Vallée
+        slug: jacques-vallee
+      - node_id: 7a9b9ff0-2991-43e0-87c6-23beada4ac49
+        title: Uri Geller
+        slug: uri-geller
+    date: null
+    date_end: null
+    location_in_record: ch16:26330-26617
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 220315f4-29cd-4c89-8860-44f95613d98f
+      record_title: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About UFO Influences on the Human Race'
+      record_date: '2014-09-27'
+      record_reference: null
+      content_hash: sha256:5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b8489cc11c26
+      friendly_name: 2014-09-27-ebook-the-invisible-college-what-a-group-of-scientists-has
+  - claim_id: 1cf4c868-4b56-48ff-88ac-945491aeadd3
+    claim_hash: 4e65b357288531c79031256e45fbbe6fa12b17796c85f3425dbc458750d5336c
+    content: Jacques Vallee asked Uri Geller privately whether he had played a word-forcing game with the subject on the night
+      of the number experiment, and Geller assured him that he had not.
+    original_excerpt: Knowing about this ability, I asked Uri privately if he had played a similar game with his subject on
+      the night of the experiment, and he assured me that he had not.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
+      title: Jacques Vallée
+    provenance_chain:
+      origin_kind: speaker
+      origin: Jacques Vallee
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
+        title: Jacques Vallée
+        slug: jacques-vallee
+      - node_id: 7a9b9ff0-2991-43e0-87c6-23beada4ac49
+        title: Uri Geller
+        slug: uri-geller
+    date: null
+    date_end: null
+    location_in_record: ch16:3268-3429
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 220315f4-29cd-4c89-8860-44f95613d98f
+      record_title: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About UFO Influences on the Human Race'
+      record_date: '2014-09-27'
+      record_reference: null
+      content_hash: sha256:5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b8489cc11c26
+      friendly_name: 2014-09-27-ebook-the-invisible-college-what-a-group-of-scientists-has
+  - claim_id: 6885b306-9a96-4c97-a9c6-24ffeb0a82d9
+    claim_hash: 2d63aeb2591aa7a7b1d1f51edaeefaa144c3e364f51e6e3d4bdb82d1a06bdce0
+    content: Uri Geller and Andrija Puharich have described events around Geller as including contact with UFO entities.
+    original_excerpt: the events around Geller include contact with what he and Puharich have described as UFO entities.
+    claim_type: hearsay
+    attestation: second_hand
+    speaker:
+      node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
+      title: Jacques Vallée
+    provenance_chain:
+      origin_kind: named
+      origin: Uri Geller and Andrija Puharich
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 7a9b9ff0-2991-43e0-87c6-23beada4ac49
+        title: Uri Geller
+        slug: uri-geller
+      - node_id: ce3b2c34-7756-4263-8c86-f7e42c89c63e
+        title: Andrija Puharich
+        slug: andrija-puharich
+    date: null
+    date_end: null
+    location_in_record: ch16:3857-3946
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 220315f4-29cd-4c89-8860-44f95613d98f
+      record_title: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About UFO Influences on the Human Race'
+      record_date: '2014-09-27'
+      record_reference: null
+      content_hash: sha256:5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b8489cc11c26
+      friendly_name: 2014-09-27-ebook-the-invisible-college-what-a-group-of-scientists-has
+  - claim_id: 4df20458-0ff2-4875-ade4-308f587d3e51
+    claim_hash: 5ee426c3941ef3800a132019532e8baada14e4ebec9daadb90caf25fb6ba617d
+    content: Uri Geller came to the United States around 1970 at the request of Andrija Puharich.
+    original_excerpt: Uri Geller came to the U.S. about 1970 at the request of Dr. Andrija Puharich, who was well-known among
+      psychic phenomena research circles and could therefore expose him quickly to a significant audience.
+    claim_type: administrative
+    attestation: null
+    speaker:
+      node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
+      title: Jacques Vallée
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 7a9b9ff0-2991-43e0-87c6-23beada4ac49
+        title: Uri Geller
+        slug: uri-geller
+      - node_id: ce3b2c34-7756-4263-8c86-f7e42c89c63e
+        title: Andrija Puharich
+        slug: andrija-puharich
+    date: '1970'
+    date_end: null
+    location_in_record: ch16:3957-4152
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 220315f4-29cd-4c89-8860-44f95613d98f
+      record_title: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About UFO Influences on the Human Race'
+      record_date: '2014-09-27'
+      record_reference: null
+      content_hash: sha256:5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b8489cc11c26
+      friendly_name: 2014-09-27-ebook-the-invisible-college-what-a-group-of-scientists-has
+  - claim_id: eab9d2a3-a9a2-4fbb-9890-74dfd1b53753
+    claim_hash: d0e9039cbc14138db497fe89d7d26eed831ccd60e3d0496bfe9d18a5465af32f
+    content: Uri Geller is claimed to have the ability of psychokinesis, defined as moving objects at a distance without touching
+      them.
+    original_excerpt: Of special interest was Uri’s psychokinetic ability. (The word psychokinesis has been given to the ability
+      to move objects at a distance without touching them, a feat that traditionally has been regarded as one of the tests
+      of the miraculous.)
+    claim_type: hearsay
+    attestation: null
+    speaker:
+      node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
+      title: Jacques Vallée
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 7a9b9ff0-2991-43e0-87c6-23beada4ac49
+        title: Uri Geller
+        slug: uri-geller
+    date: null
+    date_end: null
+    location_in_record: ch16:4162-4393
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 220315f4-29cd-4c89-8860-44f95613d98f
+      record_title: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About UFO Influences on the Human Race'
+      record_date: '2014-09-27'
+      record_reference: null
+      content_hash: sha256:5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b8489cc11c26
+      friendly_name: 2014-09-27-ebook-the-invisible-college-what-a-group-of-scientists-has
+  - claim_id: 151c4ae9-5088-4980-b886-20dd2cf92cdf
+    claim_hash: fca5ed2d22c764b9bf3a3012e80cf0c0daf8b73f0eda4f9e9acc69bbc209cf0a
+    content: Uri Geller is claimed to have the ability to distort metal objects and partly or completely dematerialize them.
+    original_excerpt: In the case of Geller, not only is this ability claimed, but it apparently includes the faculty of distorting
+      metal objects and even partly or completely dematerializing them.
+    claim_type: hearsay
+    attestation: null
+    speaker:
+      node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
+      title: Jacques Vallée
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 7a9b9ff0-2991-43e0-87c6-23beada4ac49
+        title: Uri Geller
+        slug: uri-geller
+    date: null
+    date_end: null
+    location_in_record: ch16:4406-4576
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 220315f4-29cd-4c89-8860-44f95613d98f
+      record_title: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About UFO Influences on the Human Race'
+      record_date: '2014-09-27'
+      record_reference: null
+      content_hash: sha256:5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b8489cc11c26
+      friendly_name: 2014-09-27-ebook-the-invisible-college-what-a-group-of-scientists-has
+  - claim_id: 595df9ed-8e8b-410f-8a33-c4d3a58ddfca
+    claim_hash: 6c2d8a3f8c5e504c43d4d700f5b4a3c5026ca21231a704dd3491dd4ab00c2fe4
+    content: As of the time of writing, no demonstration of Uri Geller's metal-bending or dematerializing ability had been
+      provided under strict laboratory control conditions, although anecdotal evidence was available.
+    original_excerpt: but at the time of this writing no demonstration of this ability has been provided in strict laboratory
+      control environments, although a wealth of anecdotal evidence is available.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
+      title: Jacques Vallée
+    provenance_chain:
+      origin_kind: speaker
+      origin: Jacques Vallee
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 7a9b9ff0-2991-43e0-87c6-23beada4ac49
+        title: Uri Geller
+        slug: uri-geller
+    date: null
+    date_end: null
+    location_in_record: ch16:4672-4841
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 220315f4-29cd-4c89-8860-44f95613d98f
+      record_title: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About UFO Influences on the Human Race'
+      record_date: '2014-09-27'
+      record_reference: null
+      content_hash: sha256:5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b8489cc11c26
+      friendly_name: 2014-09-27-ebook-the-invisible-college-what-a-group-of-scientists-has
+  - claim_id: f3ef3b69-ef9d-4b85-b3eb-8abbfd243d9f
+    claim_hash: 8421e255ce9283511f7ef4a5001b6f85da216356552d1be6fcbea4ca84e903e5
+    content: Uri Geller's paranormal effects reportedly happen spontaneously in his vicinity and are not under his own conscious
+      control.
+    original_excerpt: One further interesting aspect of Geller’s gift is that he does not control it. Instead, the effects
+      happen more or less spontaneously in his vicinity.
+    claim_type: hearsay
+    attestation: null
+    speaker:
+      node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
+      title: Jacques Vallée
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 7a9b9ff0-2991-43e0-87c6-23beada4ac49
+        title: Uri Geller
+        slug: uri-geller
+    date: null
+    date_end: null
+    location_in_record: ch16:4853-4997
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 220315f4-29cd-4c89-8860-44f95613d98f
+      record_title: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About UFO Influences on the Human Race'
+      record_date: '2014-09-27'
+      record_reference: null
+      content_hash: sha256:5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b8489cc11c26
+      friendly_name: 2014-09-27-ebook-the-invisible-college-what-a-group-of-scientists-has
+  - claim_id: 5f9e0426-daa6-49b3-a6b2-fd56b2600734
+    claim_hash: e0f7f9fd95e79bc7758ca0af655a2f176a9d7983cb291cf14b1bac32532b952b
+    content: In the communications channelled through Uri Geller, the source of his power has identified itself as emanating
+      from UFOs.
+    original_excerpt: In the communications channeled through Geller the source of this power has identified itself as emanating
+      from UFOs.
+    claim_type: hearsay
+    attestation: null
+    speaker:
+      node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
+      title: Jacques Vallée
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 7a9b9ff0-2991-43e0-87c6-23beada4ac49
+        title: Uri Geller
+        slug: uri-geller
+      - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
+        title: Unidentified Flying Object (UFO)
+        slug: unidentified-flying-object-ufo
+    date: null
+    date_end: null
+    location_in_record: ch16:5166-5278
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 220315f4-29cd-4c89-8860-44f95613d98f
+      record_title: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About UFO Influences on the Human Race'
+      record_date: '2014-09-27'
+      record_reference: null
+      content_hash: sha256:5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b8489cc11c26
+      friendly_name: 2014-09-27-ebook-the-invisible-college-what-a-group-of-scientists-has
+  - claim_id: 74451da5-3e23-4330-a259-d537ac26b2af
+    claim_hash: 0347f28f88315433ec449e641a7d5f7f31d5b4c2da1002ad0926c5469316cea1
+    content: Jacques Vallee considers that although Uri Geller uses trickery at times like every medium, some of the phenomena
+      around him are genuine.
+    original_excerpt: I am inclined to believe that although Geller, like every medium, uses trickery at times, some of the
+      phenomena that happen around him are genuine.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
+      title: Jacques Vallée
+    provenance_chain:
+      origin_kind: speaker
+      origin: Jacques Vallee
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
+        title: Jacques Vallée
+        slug: jacques-vallee
+      - node_id: 7a9b9ff0-2991-43e0-87c6-23beada4ac49
+        title: Uri Geller
+        slug: uri-geller
+    date: null
+    date_end: null
+    location_in_record: ch16:5503-5642
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 220315f4-29cd-4c89-8860-44f95613d98f
+      record_title: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About UFO Influences on the Human Race'
+      record_date: '2014-09-27'
+      record_reference: null
+      content_hash: sha256:5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b8489cc11c26
+      friendly_name: 2014-09-27-ebook-the-invisible-college-what-a-group-of-scientists-has
+  - claim_id: bf22d449-86bf-4eec-991b-2e3191f4fd2b
+    claim_hash: 93c5754868278633d8df23b071fc1aee6fc45e0cdc857f4a52c8fa28456ee7bc
+    content: At a meeting of the Parapsychology Research Group of Palo Alto, Uri Geller did not demonstrate metal bending
+      to anyone's satisfaction, and many members left with grave doubts.
+    original_excerpt: At the meeting of the Parapsychology Research Group mentioned earlier Geller did not demonstrate metal
+      bending to anyone’s satisfaction, and many members went away with grave doubts.
+    claim_type: observation
+    attestation: first_hand
+    speaker:
+      node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
+      title: Jacques Vallée
+    provenance_chain:
+      origin_kind: speaker
+      origin: Jacques Vallee
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 7a9b9ff0-2991-43e0-87c6-23beada4ac49
+        title: Uri Geller
+        slug: uri-geller
+      - node_id: 8976dff6-bb1e-4f97-a444-e0d0a36660ef
+        title: Parapsychology Research Group of Palo Alto
+        slug: parapsychology-research-group-of-palo-alto
+    date: null
+    date_end: null
+    location_in_record: ch16:5651-5826
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 220315f4-29cd-4c89-8860-44f95613d98f
+      record_title: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About UFO Influences on the Human Race'
+      record_date: '2014-09-27'
+      record_reference: null
+      content_hash: sha256:5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b8489cc11c26
+      friendly_name: 2014-09-27-ebook-the-invisible-college-what-a-group-of-scientists-has
+  - claim_id: 31a51f43-f6e7-49c1-8347-5849eb33ee1e
+    claim_hash: 21d63f5b5e6e146f0a02bd1d35a5d0394564b416940fce6a4644000e170f21e7
+    content: In December 1972, Jacques Vallee had lunch with Uri Geller and showed him a series of Phoenician seals depicting
+      a religious ritual performed by priests and a flying disk from which God-like creatures are emerging.
+    original_excerpt: In December, 1972, I had lunch with Geller and showed him the series of Phoenician seals described in
+      Chapter Six. They depict a religious ritual performed by priests, and a flying disk from which God-like creatures are
+      emerging.
+    claim_type: observation
+    attestation: first_hand
+    speaker:
+      node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
+      title: Jacques Vallée
+    provenance_chain:
+      origin_kind: speaker
+      origin: Jacques Vallee
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
+        title: Jacques Vallée
+        slug: jacques-vallee
+      - node_id: 7a9b9ff0-2991-43e0-87c6-23beada4ac49
+        title: Uri Geller
+        slug: uri-geller
+      - node_id: d32cd1a5-1fad-4af9-b42c-71a16f140948
+        title: Phoenician civilization
+        slug: phoenician-civilization
+    date: 1972-12
+    date_end: null
+    location_in_record: ch16:6013-6233
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 220315f4-29cd-4c89-8860-44f95613d98f
+      record_title: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About UFO Influences on the Human Race'
+      record_date: '2014-09-27'
+      record_reference: null
+      content_hash: sha256:5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b8489cc11c26
+      friendly_name: 2014-09-27-ebook-the-invisible-college-what-a-group-of-scientists-has
+  - claim_id: 432b561f-18c0-4f6f-b965-cb73a5241592
+    claim_hash: 090d16b8c431c3fed14e915f97a6209635b50209a1ad9c6af1eacd6c027d08df
+    content: During their December 1972 lunch, Uri Geller told Jacques Vallee confidentially the details of his own close
+      encounters with UFOs.
+    original_excerpt: Uri studied these photographs with much interest and proceeded to tell me confidentially the details
+      of his own close encounters with UFOs.
+    claim_type: testimony
+    attestation: second_hand
+    speaker:
+      node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
+      title: Jacques Vallée
+    provenance_chain:
+      origin_kind: named
+      origin: Uri Geller
+      relay:
+        - told confidentially to Jacques Vallee
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
+        title: Jacques Vallée
+        slug: jacques-vallee
+      - node_id: 7a9b9ff0-2991-43e0-87c6-23beada4ac49
+        title: Uri Geller
+        slug: uri-geller
+      - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
+        title: Unidentified Flying Object (UFO)
+        slug: unidentified-flying-object-ufo
+    date: 1972-12
+    date_end: null
+    location_in_record: ch16:6243-6377
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 220315f4-29cd-4c89-8860-44f95613d98f
+      record_title: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About UFO Influences on the Human Race'
+      record_date: '2014-09-27'
+      record_reference: null
+      content_hash: sha256:5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b8489cc11c26
+      friendly_name: 2014-09-27-ebook-the-invisible-college-what-a-group-of-scientists-has
+  - claim_id: fa132188-3bfd-4fe6-873e-18cea6d23f5a
+    claim_hash: 048e57d3d462c565270f37e352f8ca99b1fcea7666b7e1bba676ef3ab1384f0c
+    content: Uri Geller believed himself to be a secret contactee in contact with an alien entity that he did not want to
+      mention in public.
+    original_excerpt: He was in fact, I learned, a "secret contactee," a man who believed himself to be in contact with an
+      alien entity which he did not want to mention in public.
+    claim_type: testimony
+    attestation: second_hand
+    speaker:
+      node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
+      title: Jacques Vallée
+    provenance_chain:
+      origin_kind: named
+      origin: Uri Geller
+      relay:
+        - told confidentially to Jacques Vallee
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 7a9b9ff0-2991-43e0-87c6-23beada4ac49
+        title: Uri Geller
+        slug: uri-geller
+    date: null
+    date_end: null
+    location_in_record: ch16:6383-6533
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 220315f4-29cd-4c89-8860-44f95613d98f
+      record_title: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About UFO Influences on the Human Race'
+      record_date: '2014-09-27'
+      record_reference: null
+      content_hash: sha256:5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b8489cc11c26
+      friendly_name: 2014-09-27-ebook-the-invisible-college-what-a-group-of-scientists-has
+  - claim_id: 24499a5a-eb42-4c59-8995-50077def1cc7
+    claim_hash: cbb17f6167cb3f074eb9da3b6fbafde60e880d9e0cfb31a54587b5a624f751fa
+    content: Jacques Vallee asked Uri Geller during their December 1972 discussion whether he thought he could contact the
+      UFO entity again to obtain a close observation of a flying saucer as a real test case.
+    original_excerpt: 'During our discussion I asked Uri Geller if he thought he could contact the UFO entity again to obtain
+      for us a real test case: a close observation of a flying saucer.'
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
+      title: Jacques Vallée
+    provenance_chain:
+      origin_kind: speaker
+      origin: Jacques Vallee
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
+        title: Jacques Vallée
+        slug: jacques-vallee
+      - node_id: 7a9b9ff0-2991-43e0-87c6-23beada4ac49
+        title: Uri Geller
+        slug: uri-geller
+    date: 1972-12
+    date_end: null
+    location_in_record: ch16:6965-7125
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 220315f4-29cd-4c89-8860-44f95613d98f
+      record_title: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About UFO Influences on the Human Race'
+      record_date: '2014-09-27'
+      record_reference: null
+      content_hash: sha256:5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b8489cc11c26
+      friendly_name: 2014-09-27-ebook-the-invisible-college-what-a-group-of-scientists-has
+  - claim_id: accec093-042f-4cd3-8c7a-210968ee3f5c
+    claim_hash: 48cdd8bf1c433907bfebc4e3dd865f6a33148d93b1056370a31adb0d04e5afab
+    content: Uri Geller replied that in all his meetings with the entity, the initiative for the contact had come from the
+      other side, not from him.
+    original_excerpt: He replied that in all his meetings with "them" the initiative for the contact has been with the "other
+      side."
+    claim_type: testimony
+    attestation: second_hand
+    speaker:
+      node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
+      title: Jacques Vallée
+    provenance_chain:
+      origin_kind: named
+      origin: Uri Geller
+      relay:
+        - told to Jacques Vallee
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 7a9b9ff0-2991-43e0-87c6-23beada4ac49
+        title: Uri Geller
+        slug: uri-geller
+    date: null
+    date_end: null
+    location_in_record: ch16:7133-7237
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 220315f4-29cd-4c89-8860-44f95613d98f
+      record_title: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About UFO Influences on the Human Race'
+      record_date: '2014-09-27'
+      record_reference: null
+      content_hash: sha256:5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b8489cc11c26
+      friendly_name: 2014-09-27-ebook-the-invisible-college-what-a-group-of-scientists-has
+  - claim_id: 2a52523e-33ae-4f25-893e-da240a1cd741
+    claim_hash: d1a3befb0a155023e26bfa3486660226241481988650fb01a6fd7c3f18d20195
+    content: During the December 1972 lunch, Uri Geller proposed to Jacques Vallee that they conduct telepathic experiments
+      together.
+    original_excerpt: Later during our lunch Uri proposed to do telepathic experiments with me.
+    claim_type: observation
+    attestation: first_hand
+    speaker:
+      node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
+      title: Jacques Vallée
+    provenance_chain:
+      origin_kind: speaker
+      origin: Jacques Vallee
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
+        title: Jacques Vallée
+        slug: jacques-vallee
+      - node_id: 7a9b9ff0-2991-43e0-87c6-23beada4ac49
+        title: Uri Geller
+        slug: uri-geller
+    date: 1972-12
+    date_end: null
+    location_in_record: ch16:7245-7315
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 220315f4-29cd-4c89-8860-44f95613d98f
+      record_title: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About UFO Influences on the Human Race'
+      record_date: '2014-09-27'
+      record_reference: null
+      content_hash: sha256:5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b8489cc11c26
+      friendly_name: 2014-09-27-ebook-the-invisible-college-what-a-group-of-scientists-has
+  - claim_id: 99eac439-f12d-4ff1-beba-a6d9ce429ec4
+    claim_hash: 4be7d294d824facfb64ce750731f21973d8129377c129d7bc6c2928ecabfe908
+    content: Jacques Vallee considers that a short series of telepathic tests with Uri Geller convinced him that Geller's
+      abilities were genuine.
+    original_excerpt: It is this short series of tests that convinced me that his abilities were genuine.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
+      title: Jacques Vallée
+    provenance_chain:
+      origin_kind: speaker
+      origin: Jacques Vallee
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
+        title: Jacques Vallée
+        slug: jacques-vallee
+      - node_id: 7a9b9ff0-2991-43e0-87c6-23beada4ac49
+        title: Uri Geller
+        slug: uri-geller
+    date: null
+    date_end: null
+    location_in_record: ch16:7319-7394
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 220315f4-29cd-4c89-8860-44f95613d98f
+      record_title: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About UFO Influences on the Human Race'
+      record_date: '2014-09-27'
+      record_reference: null
+      content_hash: sha256:5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b8489cc11c26
+      friendly_name: 2014-09-27-ebook-the-invisible-college-what-a-group-of-scientists-has
+  - claim_id: 5049b5ba-f019-429c-a44c-6d3c2992ad46
+    claim_hash: 0e051c8f5ea8bd5525bf01ee843bb2882a85bd0b08371b2164daaabb05277973
+    content: In the first telepathy test, one of Uri Geller's physicist colleagues handed Jacques Vallee a sealed envelope
+      containing a card with a target drawing of a whale blowing water vapor into the air.
+    original_excerpt: One of the physicists with whom Geller had been working handed me a sealed envelope containing a card
+      on which a target had been drawn. It was the outline of a whale blowing water vapor into the air.
+    claim_type: observation
+    attestation: first_hand
+    speaker:
+      node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
+      title: Jacques Vallée
+    provenance_chain:
+      origin_kind: speaker
+      origin: Jacques Vallee
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
+        title: Jacques Vallée
+        slug: jacques-vallee
+      - node_id: 7a9b9ff0-2991-43e0-87c6-23beada4ac49
+        title: Uri Geller
+        slug: uri-geller
+    date: 1972-12
+    date_end: null
+    location_in_record: ch16:7490-7685
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 220315f4-29cd-4c89-8860-44f95613d98f
+      record_title: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About UFO Influences on the Human Race'
+      record_date: '2014-09-27'
+      record_reference: null
+      content_hash: sha256:5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b8489cc11c26
+      friendly_name: 2014-09-27-ebook-the-invisible-college-what-a-group-of-scientists-has
+  - claim_id: c3256e31-6da8-4ffe-8d95-e08c1bb7eb06
+    claim_hash: 0af9c9b5e1d87ac27d3783fc79b236ec0c7c89d074e212fd3bb4c8e53cbca9f7
+    content: In the first attempt, Uri Geller received no clear image when Jacques Vallee mentally sent him the whale drawing.
+    original_excerpt: Uri was to imagine a similar screen in his own mind and fill out the picture, but he received no clear
+      image at the first trial.
+    claim_type: observation
+    attestation: first_hand
+    speaker:
+      node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
+      title: Jacques Vallée
+    provenance_chain:
+      origin_kind: speaker
+      origin: Jacques Vallee
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
+        title: Jacques Vallée
+        slug: jacques-vallee
+      - node_id: 7a9b9ff0-2991-43e0-87c6-23beada4ac49
+        title: Uri Geller
+        slug: uri-geller
+    date: null
+    date_end: null
+    location_in_record: ch16:7820-7942
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 220315f4-29cd-4c89-8860-44f95613d98f
+      record_title: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About UFO Influences on the Human Race'
+      record_date: '2014-09-27'
+      record_reference: null
+      content_hash: sha256:5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b8489cc11c26
+      friendly_name: 2014-09-27-ebook-the-invisible-college-what-a-group-of-scientists-has
+  - claim_id: 5895c4f4-8767-445b-99c8-2759171b232e
+    claim_hash: 51ac9d6015d175634f108682dd97a4e72bc7a36d55021ff669a20de3e5a3d0b9
+    content: In a second attempt, Jacques Vallee mentally sent Uri Geller the images of a fountain and then a fish, and Geller
+      drew both a fish and a fountain on a card, saying he was getting two things.
+    original_excerpt: Now Uri took a blank card and said, as he rapidly drew on it, "It’s strange, I’m getting two things."
+      On the card he passed around, he had drawn a fish. Next to the fish was a fountain.
+    claim_type: observation
+    attestation: first_hand
+    speaker:
+      node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
+      title: Jacques Vallée
+    provenance_chain:
+      origin_kind: speaker
+      origin: Jacques Vallee
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
+        title: Jacques Vallée
+        slug: jacques-vallee
+      - node_id: 7a9b9ff0-2991-43e0-87c6-23beada4ac49
+        title: Uri Geller
+        slug: uri-geller
+    date: 1972-12
+    date_end: null
+    location_in_record: ch16:8311-8487
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 220315f4-29cd-4c89-8860-44f95613d98f
+      record_title: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About UFO Influences on the Human Race'
+      record_date: '2014-09-27'
+      record_reference: null
+      content_hash: sha256:5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b8489cc11c26
+      friendly_name: 2014-09-27-ebook-the-invisible-college-what-a-group-of-scientists-has
+  - claim_id: 3ba8dac1-e49f-4df7-848f-88ed1a8bbcda
+    claim_hash: fadabb9d1d1a6dd29514c9186e7f53bff22511856af097b8f020f2c22aa843de
+    content: Jacques Vallee considers the two-target telepathy test convincing because he was the only person who knew that
+      two different targets, rather than one, had been sent.
+    original_excerpt: This was a convincing test because it excluded the "collusion" hypothesis... I was the only person who
+      knew that two different targets, rather than one, had been sent!
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
+      title: Jacques Vallée
+    provenance_chain:
+      origin_kind: speaker
+      origin: Jacques Vallee
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
+        title: Jacques Vallée
+        slug: jacques-vallee
+      - node_id: 7a9b9ff0-2991-43e0-87c6-23beada4ac49
+        title: Uri Geller
+        slug: uri-geller
+    date: null
+    date_end: null
+    location_in_record: ch16:8533-8648
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 220315f4-29cd-4c89-8860-44f95613d98f
+      record_title: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About UFO Influences on the Human Race'
+      record_date: '2014-09-27'
+      record_reference: null
+      content_hash: sha256:5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b8489cc11c26
+      friendly_name: 2014-09-27-ebook-the-invisible-college-what-a-group-of-scientists-has
+  - claim_id: c036d66e-334d-4e8b-8576-3c9d92996d63
+    claim_hash: bcaca298a1ab7233fa6cfc9de793f0f4592b7107bf66fd62fd4bd2b1b2a4ffee
+    content: In a second experiment, Jacques Vallee wrote the digits 8, 9, and 2, and after being asked to send only the last
+      digit, Uri Geller wrote a 2 on a card.
+    original_excerpt: Now I began to take Uri Geller more seriously. In the second experiment he asked me to write a digit
+      (I wrote down 8) and a second one (9) and then a third, larger. I wrote 2. "Send me the last digit only," he said. And
+      a moment later he had written a 2 on a card.
+    claim_type: observation
+    attestation: first_hand
+    speaker:
+      node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
+      title: Jacques Vallée
+    provenance_chain:
+      origin_kind: speaker
+      origin: Jacques Vallee
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
+        title: Jacques Vallée
+        slug: jacques-vallee
+      - node_id: 7a9b9ff0-2991-43e0-87c6-23beada4ac49
+        title: Uri Geller
+        slug: uri-geller
+    date: null
+    date_end: null
+    location_in_record: ch16:8913-9173
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 220315f4-29cd-4c89-8860-44f95613d98f
+      record_title: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About UFO Influences on the Human Race'
+      record_date: '2014-09-27'
+      record_reference: null
+      content_hash: sha256:5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b8489cc11c26
+      friendly_name: 2014-09-27-ebook-the-invisible-college-what-a-group-of-scientists-has
+  - claim_id: 12613c8e-3c1f-4faf-a40a-723a474e9ec7
+    claim_hash: abaf32a2b1ab78b473967a94cec606807226986f9eeaec319ebd2adca396d344
+    content: Jacques Vallee's hastily drawn digit 2 had a flat, elongated horizontal base unlike the usual American way of
+      drawing it, and Uri Geller's drawing of the digit was identical when the two tracings were superimposed.
+    original_excerpt: 'The interesting fact here was that my 2 was hastily drawn and that the horizontal base of the digit
+      was very flat and elongated. It was completely different from the usual American way of drawing it. Now the drawing
+      by Uri was not only similar to mine: it was identical, as was soon demonstrated by superimposing the two tracings.'
+    claim_type: observation
+    attestation: first_hand
+    speaker:
+      node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
+      title: Jacques Vallée
+    provenance_chain:
+      origin_kind: speaker
+      origin: Jacques Vallee
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
+        title: Jacques Vallée
+        slug: jacques-vallee
+      - node_id: 7a9b9ff0-2991-43e0-87c6-23beada4ac49
+        title: Uri Geller
+        slug: uri-geller
+    date: null
+    date_end: null
+    location_in_record: ch16:9410-9733
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 220315f4-29cd-4c89-8860-44f95613d98f
+      record_title: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About UFO Influences on the Human Race'
+      record_date: '2014-09-27'
+      record_reference: null
+      content_hash: sha256:5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b8489cc11c26
+      friendly_name: 2014-09-27-ebook-the-invisible-college-what-a-group-of-scientists-has
+  - claim_id: ac973420-faad-48a0-acce-a3c0fe814497
+    claim_hash: 61bfd9643a27a328495b63f63351b93f38675b4eb6551bc88a5f66f9e5d4bfeb
+    content: Andrija Puharich described his latest experiences with Uri Geller on the panel.
+    original_excerpt: Puharich describes his latest experiences with Geller.
+    claim_type: observation
+    attestation: first_hand
+    speaker:
+      node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
+      title: Jacques Vallée
+    provenance_chain:
+      origin_kind: speaker
+      origin: Jacques Vallee
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 7a9b9ff0-2991-43e0-87c6-23beada4ac49
+        title: Uri Geller
+        slug: uri-geller
+      - node_id: ce3b2c34-7756-4263-8c86-f7e42c89c63e
+        title: Andrija Puharich
+        slug: andrija-puharich
+    date: null
+    date_end: null
+    location_in_record: ch17:20869-20916
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 220315f4-29cd-4c89-8860-44f95613d98f
+      record_title: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About UFO Influences on the Human Race'
+      record_date: '2014-09-27'
+      record_reference: null
+      content_hash: sha256:5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b8489cc11c26
+      friendly_name: 2014-09-27-ebook-the-invisible-college-what-a-group-of-scientists-has
+  - claim_id: 28413dcc-399a-4d98-8ea4-aba13c926696
+    claim_hash: aa9a590a7f48479591221809d90701c9b8e943e840d39909da82412d3cb7c1a9
+    content: Andrija Puharich is committed to the idea that he and Uri Geller are guided by a very high source of wisdom and
+      that mankind's only course is to place its destiny in that source's hands.
+    original_excerpt: he is totally committed to the idea that he and Uri are now guided by a very high source of wisdom,
+      and that the only course for mankind is to place its destiny in “their” hands
+    claim_type: opinion
+    attestation: second_hand
+    speaker:
+      node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
+      title: Jacques Vallée
+    provenance_chain:
+      origin_kind: named
+      origin: Andrija Puharich
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 7a9b9ff0-2991-43e0-87c6-23beada4ac49
+        title: Uri Geller
+        slug: uri-geller
+      - node_id: ce3b2c34-7756-4263-8c86-f7e42c89c63e
+        title: Andrija Puharich
+        slug: andrija-puharich
+    date: null
+    date_end: null
+    location_in_record: ch17:21115-21287
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 220315f4-29cd-4c89-8860-44f95613d98f
+      record_title: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About UFO Influences on the Human Race'
+      record_date: '2014-09-27'
+      record_reference: null
+      content_hash: sha256:5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b8489cc11c26
+      friendly_name: 2014-09-27-ebook-the-invisible-college-what-a-group-of-scientists-has
+  - claim_id: a3ec1f1a-df8d-4322-bda9-338197c98915
+    claim_hash: cabb9dbf42cb8a2dd667c6e413cfefcce75796ed9955790408d51017cf9dc7fe
+    content: Ira Einhorn gave the floor to Charles Muses to comment on Uri Geller during the panel.
+    original_excerpt: Ira gives the floor to Charles Muses who comments on Geller.
+    claim_type: observation
+    attestation: first_hand
+    speaker:
+      node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
+      title: Jacques Vallée
+    provenance_chain:
+      origin_kind: speaker
+      origin: Jacques Vallee
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 35cb9229-5c5c-4df9-b77f-548956cd70c4
+        title: Ira Einhorn
+        slug: ira-einhorn
+      - node_id: 7a9b9ff0-2991-43e0-87c6-23beada4ac49
+        title: Uri Geller
+        slug: uri-geller
+      - node_id: 8d3a1dcb-1344-4baf-94d3-e532c44610d3
+        title: Charles Muses
+        slug: charles-muses
+    date: null
+    date_end: null
+    location_in_record: ch17:21295-21348
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 220315f4-29cd-4c89-8860-44f95613d98f
+      record_title: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About UFO Influences on the Human Race'
+      record_date: '2014-09-27'
+      record_reference: null
+      content_hash: sha256:5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b8489cc11c26
+      friendly_name: 2014-09-27-ebook-the-invisible-college-what-a-group-of-scientists-has
+  - claim_id: 5ed4dce6-6dc6-4587-925f-4de41d7f63a5
+    claim_hash: dccbf8e71e170e067f2128481a1be396d11a51a1227bd03380e8778f268f163f
+    content: Jacques Vallee argues that both believers and sceptics in the UFO debate are wrong, including Andrija Puharich
+      with his disappearing tapes and Uri Geller voicing messages from the Rhombus 4-D computer.
+    original_excerpt: I would argue that they are all wrong, even Puharich with his disappearing tapes, and Uri voicing from
+      Rhombus 4-D.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
+      title: Jacques Vallée
+    provenance_chain:
+      origin_kind: speaker
+      origin: Jacques Vallee
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
+        title: Jacques Vallée
+        slug: jacques-vallee
+      - node_id: 29f7cc37-42f6-422b-b4f4-67b00f36db77
+        title: Rhombus 4-D computer
+        slug: rhombus-4-d-computer
+      - node_id: 7a9b9ff0-2991-43e0-87c6-23beada4ac49
+        title: Uri Geller
+        slug: uri-geller
+      - node_id: ce3b2c34-7756-4263-8c86-f7e42c89c63e
+        title: Andrija Puharich
+        slug: andrija-puharich
+    date: null
+    date_end: null
+    location_in_record: ch17:4423-4536
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 220315f4-29cd-4c89-8860-44f95613d98f
+      record_title: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About UFO Influences on the Human Race'
+      record_date: '2014-09-27'
+      record_reference: null
+      content_hash: sha256:5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b8489cc11c26
+      friendly_name: 2014-09-27-ebook-the-invisible-college-what-a-group-of-scientists-has
+  - claim_id: 5b7a2bb8-e127-4728-93ce-dbdc2609bfb5
+    claim_hash: a5918ff6abef4815d5a05a32d137cfb8458d7dbf96d85ab63fb671412ccb287a
+    content: Jacques Vallee discussed Uri Geller's abilities with Gordon Creighton while driving through London in the winter
+      of 1973.
+    original_excerpt: As I was discussing Uri Geller’s abilities with British scholar Gordon Creighton, driving through the
+      midst of London in the winter of 1973
+    claim_type: observation
+    attestation: first_hand
+    speaker:
+      node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
+      title: Jacques Vallée
+    provenance_chain:
+      origin_kind: speaker
+      origin: Jacques Vallee
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
+        title: Jacques Vallée
+        slug: jacques-vallee
+      - node_id: 134433ac-c317-4826-9edd-5f732f74521c
+        title: UK, London
+        slug: london-uk
+      - node_id: 7a9b9ff0-2991-43e0-87c6-23beada4ac49
+        title: Uri Geller
+        slug: uri-geller
+      - node_id: 807dfee6-055a-4f2e-ba5a-3e25f62f0138
+        title: Gordon Creighton
+        slug: gordon-creighton
+    date: '1973'
+    date_end: null
+    location_in_record: ch18:332-467
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 220315f4-29cd-4c89-8860-44f95613d98f
+      record_title: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About UFO Influences on the Human Race'
+      record_date: '2014-09-27'
+      record_reference: null
+      content_hash: sha256:5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b8489cc11c26
+      friendly_name: 2014-09-27-ebook-the-invisible-college-what-a-group-of-scientists-has
+  - claim_id: 2b06eb52-fed2-42d7-859c-a6c1b0e75981
+    claim_hash: a341cafb0014df0758129469a9e5cbed8c21c43529ce5e0abb1387a4edf45411
+    content: At the time of meeting the anonymous engineer, Jacques Vallee had for over a year been in touch with Uri Geller,
+      an Israeli psychic whose similar story he had reserved judgment on.
+    original_excerpt: At the time of this encounter I had been for over a year in touch with another man whose story was similar
+      but on the veracity of which I had reserved judgment. This other man was Uri Geller, the Israeli psychic
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
+      title: Jacques Vallée
+    provenance_chain:
+      origin_kind: speaker
+      origin: Jacques Vallee
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
+        title: Jacques Vallée
+        slug: jacques-vallee
+      - node_id: 7a9b9ff0-2991-43e0-87c6-23beada4ac49
+        title: Uri Geller
+        slug: uri-geller
+    date: null
+    date_end: null
+    location_in_record: ch8:11312-11516
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 220315f4-29cd-4c89-8860-44f95613d98f
+      record_title: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About UFO Influences on the Human Race'
+      record_date: '2014-09-27'
+      record_reference: null
+      content_hash: sha256:5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b8489cc11c26
+      friendly_name: 2014-09-27-ebook-the-invisible-college-what-a-group-of-scientists-has
+  - claim_id: 279296ef-75e7-4469-a5b6-60a0ccf10062
+    claim_hash: 1f7c1db68b30484d5934b09923377b06c677ed2fb9b6887f59be724665aa5eff
+    content: Uri Geller began his career as a stage magician performing entertainment before later puzzling scientists who
+      tested his abilities in the laboratory.
+    original_excerpt: the Israeli psychic who began an entertainment career as a stage magician but later puzzled the scientists
+      who tested his abilities in the laboratory.
+    claim_type: administrative
+    attestation: first_hand
+    speaker:
+      node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
+      title: Jacques Vallée
+    provenance_chain:
+      origin_kind: speaker
+      origin: Jacques Vallee
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 7a9b9ff0-2991-43e0-87c6-23beada4ac49
+        title: Uri Geller
+        slug: uri-geller
+    date: null
+    date_end: null
+    location_in_record: ch8:11504-11643
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 220315f4-29cd-4c89-8860-44f95613d98f
+      record_title: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About UFO Influences on the Human Race'
+      record_date: '2014-09-27'
+      record_reference: null
+      content_hash: sha256:5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b8489cc11c26
+      friendly_name: 2014-09-27-ebook-the-invisible-college-what-a-group-of-scientists-has
+  - claim_id: d615f8d0-8ffe-4a6e-85f5-318882db4933
+    claim_hash: 1381dd23e03bc8a448b2b03942f0e62e454c8091b63a468b3abb365afed6ce6d
+    content: Like the anonymous engineer, Uri Geller had been inside what he described as a UFO, had experienced a major life
+      change and left his country, and felt he had been given a 'mission' and was the centre of peculiar physical effects.
+    original_excerpt: Like the engineer, Geller had been inside what he described as a UFO. Like him, he had experienced a
+      major life change and left his country. Like him, he felt that he had been given a "mission" and that he was the center
+      of peculiar physical effects.
+    claim_type: hearsay
+    attestation: second_hand
+    speaker:
+      node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
+      title: Jacques Vallée
+    provenance_chain:
+      origin_kind: named
+      origin: Uri Geller
+      relay:
+        - Jacques Vallee
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
+        title: Jacques Vallée
+        slug: jacques-vallee
+      - node_id: 7a9b9ff0-2991-43e0-87c6-23beada4ac49
+        title: Uri Geller
+        slug: uri-geller
+    date: null
+    date_end: null
+    location_in_record: ch8:11655-11897
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 220315f4-29cd-4c89-8860-44f95613d98f
+      record_title: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About UFO Influences on the Human Race'
+      record_date: '2014-09-27'
+      record_reference: null
+      content_hash: sha256:5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b8489cc11c26
+      friendly_name: 2014-09-27-ebook-the-invisible-college-what-a-group-of-scientists-has
+  - claim_id: 0c42c55f-7f5d-4d4b-905c-037a1ad7d206
+    claim_hash: 566c5ade21c8f9f968b720b46f9c1de26383a95264a14bbbc6fcc66195df13a8
+    content: Andrija Puharich, an American parapsychologist, brought Uri Geller to the United States in 1971 and arranged
+      for him to be studied under laboratory conditions at several scientific institutions.
+    original_excerpt: An American parapsychologist, Dr. Andrija Puharich, brought Geller to the United States in 1971 and
+      arranged for the young man to be studied under laboratory conditions at several scientific institutions.
+    claim_type: administrative
+    attestation: first_hand
+    speaker:
+      node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
+      title: Jacques Vallée
+    provenance_chain:
+      origin_kind: speaker
+      origin: Jacques Vallee
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 7a9b9ff0-2991-43e0-87c6-23beada4ac49
+        title: Uri Geller
+        slug: uri-geller
+      - node_id: ce3b2c34-7756-4263-8c86-f7e42c89c63e
+        title: Andrija Puharich
+        slug: andrija-puharich
+    date: '1971'
+    date_end: null
+    location_in_record: ch8:14713-14904
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 220315f4-29cd-4c89-8860-44f95613d98f
+      record_title: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About UFO Influences on the Human Race'
+      record_date: '2014-09-27'
+      record_reference: null
+      content_hash: sha256:5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b8489cc11c26
+      friendly_name: 2014-09-27-ebook-the-invisible-college-what-a-group-of-scientists-has
+  - claim_id: 94966675-4828-4cbe-9a40-bef2c9082be6
+    claim_hash: 559504d580acede433a79b1f10394bc5701a3cc525db2f92a4a3c0c61fcac2c7
+    content: Uri Geller's abilities include the apparent triggering of a force affecting material objects, which sometimes
+      seems to lead to dematerialisations, with phenomena affecting mass and inertia appearing reproducible in the laboratory.
+    original_excerpt: Geller's abilities include what can best be described as the triggering of a force which affects material
+      objects, and which sometimes even seems to lead to dematerializations. ... The puzzling fact here is that some phenomena
+      affecting mass and inertia appear to be reproducible in the laboratory.
+    claim_type: observation
+    attestation: first_hand
+    speaker:
+      node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
+      title: Jacques Vallée
+    provenance_chain:
+      origin_kind: speaker
+      origin: Jacques Vallee
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 7a9b9ff0-2991-43e0-87c6-23beada4ac49
+        title: Uri Geller
+        slug: uri-geller
+    date: null
+    date_end: null
+    location_in_record: ch8:14918-15198
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 220315f4-29cd-4c89-8860-44f95613d98f
+      record_title: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About UFO Influences on the Human Race'
+      record_date: '2014-09-27'
+      record_reference: null
+      content_hash: sha256:5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b8489cc11c26
+      friendly_name: 2014-09-27-ebook-the-invisible-college-what-a-group-of-scientists-has
+  - claim_id: 33275a49-26f3-4fde-b4a8-1ba6ad462b31
+    claim_hash: 2f71d4ec937fb43178c3b737fc4f45153dd2acc96773a139d9fe037db8c52d9e
+    content: Many manifestations around Uri Geller are similar to classical 'poltergeist' phenomena described in folklore,
+      including mysterious breakage and disappearance of objects.
+    original_excerpt: 'Many of the manifestations around him are similar to classical "poltergeist" phenomena as described
+      in the folklore of many countries: mysterious breakage and disappearance of objects, usually ascribed to the imagination
+      of the witnesses.'
+    claim_type: observation
+    attestation: first_hand
+    speaker:
+      node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
+      title: Jacques Vallée
+    provenance_chain:
+      origin_kind: speaker
+      origin: Jacques Vallee
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 7a9b9ff0-2991-43e0-87c6-23beada4ac49
+        title: Uri Geller
+        slug: uri-geller
+    date: null
+    date_end: null
+    location_in_record: ch8:15095-15323
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 220315f4-29cd-4c89-8860-44f95613d98f
+      record_title: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About UFO Influences on the Human Race'
+      record_date: '2014-09-27'
+      record_reference: null
+      content_hash: sha256:5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b8489cc11c26
+      friendly_name: 2014-09-27-ebook-the-invisible-college-what-a-group-of-scientists-has
+  - claim_id: 19b35acb-7c2d-437d-b494-9daeaff0ab83
+    claim_hash: 4beb7c68ba0a01ebb99c057b924ba13b60d85e803f89776a2f99b62ae8c61202
+    content: Uri Geller believes himself invested with a mission given to him by a mysterious space source, and some of his
+      followers even suggest that he might be a Messiah.
+    original_excerpt: Most remarkable for our purpose, however, is the fact that Geller believes himself invested with a mission,
+      given to him by a mysterious space source. Some of his followers even suggest that he might be a Messiah.
+    claim_type: opinion
+    attestation: second_hand
+    speaker:
+      node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
+      title: Jacques Vallée
+    provenance_chain:
+      origin_kind: named
+      origin: Uri Geller
+      relay:
+        - Jacques Vallee
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 7a9b9ff0-2991-43e0-87c6-23beada4ac49
+        title: Uri Geller
+        slug: uri-geller
+    date: null
+    date_end: null
+    location_in_record: ch8:15452-15657
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 220315f4-29cd-4c89-8860-44f95613d98f
+      record_title: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About UFO Influences on the Human Race'
+      record_date: '2014-09-27'
+      record_reference: null
+      content_hash: sha256:5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b8489cc11c26
+      friendly_name: 2014-09-27-ebook-the-invisible-college-what-a-group-of-scientists-has
+  - claim_id: f5c0b502-ac6f-455d-8449-0b3cedb5c3e6
+    claim_hash: 7489f756c3ab6ff9191916c33c2fa19e3636c4ebffe9d04c93523136a238971f
+    content: The anonymous engineer is withdrawn and secretive with a greatest wish to remain unknown, unlike Uri Geller who
+      is a showman.
+    original_excerpt: He is withdrawn and secretive, while Geller is a showman. The engineer is a very quiet and well-organized
+      man whose greatest wish is to remain unknown.
+    claim_type: hearsay
+    attestation: second_hand
+    speaker:
+      node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
+      title: Jacques Vallée
+    provenance_chain:
+      origin_kind: anonymous
+      origin: a person claiming to be an engineering executive who had a UFO abduction experience
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
+        title: Jacques Vallée
+        slug: jacques-vallee
+      - node_id: 7a9b9ff0-2991-43e0-87c6-23beada4ac49
+        title: Uri Geller
+        slug: uri-geller
+    date: null
+    date_end: null
+    location_in_record: ch8:15826-15969
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 220315f4-29cd-4c89-8860-44f95613d98f
+      record_title: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About UFO Influences on the Human Race'
+      record_date: '2014-09-27'
+      record_reference: null
+      content_hash: sha256:5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b8489cc11c26
+      friendly_name: 2014-09-27-ebook-the-invisible-college-what-a-group-of-scientists-has
+  - claim_id: d32231f6-4505-4d5a-af4f-1ddf4e54735d
+    claim_hash: 5b3b1fd6d09f360c1664b3e4a5b7f83b4655709665cda923f84aec323984a70f
+    content: The anonymous engineer feels he received information from the 'teaching machine', has acquired the ability to
+      'leave his body', can transfer his consciousness at will into other objects or into space, and can trigger a psychokinetic
+      power similar to Uri Geller's, who claims he bends or breaks objects by pure thought.
+    original_excerpt: He feels that he has received certain information from the "teaching machine," that he has acquired
+      the ability to "leave his body," that he is now able to transfer his consciousness at will into other objects or into
+      space, and that he can trigger a psychokinetic power similar to that of Geller, who claims that he bends or breaks objects
+      by pure thought.
+    claim_type: hearsay
+    attestation: second_hand
+    speaker:
+      node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
+      title: Jacques Vallée
+    provenance_chain:
+      origin_kind: anonymous
+      origin: a person claiming to be an engineering executive who had a UFO abduction experience
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
+        title: Jacques Vallée
+        slug: jacques-vallee
+      - node_id: 7a9b9ff0-2991-43e0-87c6-23beada4ac49
+        title: Uri Geller
+        slug: uri-geller
+    date: null
+    date_end: null
+    location_in_record: ch8:15978-16327
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 220315f4-29cd-4c89-8860-44f95613d98f
+      record_title: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About UFO Influences on the Human Race'
+      record_date: '2014-09-27'
+      record_reference: null
+      content_hash: sha256:5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b8489cc11c26
+      friendly_name: 2014-09-27-ebook-the-invisible-college-what-a-group-of-scientists-has
+  - claim_id: 92d4394c-2c1d-4c05-bf31-8c4a5573a495
+    claim_hash: 467d57d068048dd853e4fec39b439e46b83dba274de0733433549d0ede23acaf
+    content: Uri Geller is an individual with apparently abnormal abilities who seeks and receives much publicity.
+    original_excerpt: The appearance on the scene of a few individuals with apparently abnormal abilities, like Uri Geller,
+      who seeks and receives much publicity
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
+      title: Jacques Vallée
+    provenance_chain:
+      origin_kind: speaker
+      origin: Jacques Vallee
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 7a9b9ff0-2991-43e0-87c6-23beada4ac49
+        title: Uri Geller
+        slug: uri-geller
+    date: null
+    date_end: null
+    location_in_record: ch8:24004-24134
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 220315f4-29cd-4c89-8860-44f95613d98f
+      record_title: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About UFO Influences on the Human Race'
+      record_date: '2014-09-27'
+      record_reference: null
+      content_hash: sha256:5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b8489cc11c26
+      friendly_name: 2014-09-27-ebook-the-invisible-college-what-a-group-of-scientists-has
+  - claim_id: 80f202d2-2fac-4ed2-aee3-994d0211c7b1
+    claim_hash: 344f925928f7be549ba2412ed8f90dd98f5e63e8576ba554a1cbb55a341a2194
+    content: Jacques Vallee does not believe Uri Geller is a new Messiah.
+    original_excerpt: I do not believe Uri Geller is a new Messiah.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
+      title: Jacques Vallée
+    provenance_chain:
+      origin_kind: speaker
+      origin: Jacques Vallee
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
+        title: Jacques Vallée
+        slug: jacques-vallee
+      - node_id: 7a9b9ff0-2991-43e0-87c6-23beada4ac49
+        title: Uri Geller
+        slug: uri-geller
+    date: null
+    date_end: null
+    location_in_record: ch8:24978-25015
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 220315f4-29cd-4c89-8860-44f95613d98f
+      record_title: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About UFO Influences on the Human Race'
+      record_date: '2014-09-27'
+      record_reference: null
+      content_hash: sha256:5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b8489cc11c26
+      friendly_name: 2014-09-27-ebook-the-invisible-college-what-a-group-of-scientists-has
+  - claim_id: 522b5ef6-7b0c-4859-889d-20b3018c35db
+    claim_hash: 167abec49fb1941cd35f539feb9a00c733bc59a92fc7a154c6a29fa0b3ee8285
+    content: An awareness of the paranormal has been inspired by UFO sightings in figures such as Uri Geller and Edgar Cayce.
+    original_excerpt: An awareness of the paranormal has been inspired by such sightings in men like Uri Geller and Edgar
+      Cayce.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
+      title: Jacques Vallée
+    provenance_chain:
+      origin_kind: speaker
+      origin: Jacques Vallee
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
+        title: Jacques Vallée
+        slug: jacques-vallee
+      - node_id: 2fd7d455-39be-4108-b1fa-b83a8057f23d
+        title: Edgar Cayce
+        slug: edgar-cayce
+      - node_id: 7a9b9ff0-2991-43e0-87c6-23beada4ac49
+        title: Uri Geller
+        slug: uri-geller
+    date: null
+    date_end: null
+    location_in_record: ch9:19852-19952
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 220315f4-29cd-4c89-8860-44f95613d98f
+      record_title: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About UFO Influences on the Human Race'
+      record_date: '2014-09-27'
+      record_reference: null
+      content_hash: sha256:5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b8489cc11c26
+      friendly_name: 2014-09-27-ebook-the-invisible-college-what-a-group-of-scientists-has
+  - claim_id: b23c94d1-196e-48cc-88f1-dd85b0097232
+    claim_hash: 335b948fd511f883e012929620b5cda28ef54ecb37baf8806881cb4da94b0f47
+    content: Uri Geller traces his paranormal abilities to his exposure to a beam of light that he says came from the sky.
+    original_excerpt: In the case of Uri Geller, who, like the French doctor, traces his paranormal abilities to his exposure
+      to a peculiar beam of light that came from the sky
+    claim_type: testimony
+    attestation: second_hand
+    speaker:
+      node_id: 7a9b9ff0-2991-43e0-87c6-23beada4ac49
+      title: Uri Geller
+    provenance_chain:
+      origin_kind: named
+      origin: Uri Geller
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 7a9b9ff0-2991-43e0-87c6-23beada4ac49
+        title: Uri Geller
+        slug: uri-geller
+    date: null
+    date_end: null
+    location_in_record: ch9:21205-21356
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 220315f4-29cd-4c89-8860-44f95613d98f
+      record_title: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About UFO Influences on the Human Race'
+      record_date: '2014-09-27'
+      record_reference: null
+      content_hash: sha256:5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b8489cc11c26
+      friendly_name: 2014-09-27-ebook-the-invisible-college-what-a-group-of-scientists-has
+  - claim_id: 82d7eca8-0c22-47c6-85d0-7d3a7aa3fafb
+    claim_hash: 7b398085f9f81fbc76e25337c617b834e7d54d0f9e269eb02e4c47a30577c62f
+    content: Stanford Research Institute (SRI) studied Uri Geller extensively.
+    original_excerpt: and they studied people like Uri Geller extensively. and phenomenal performers.
+    claim_type: administrative
+    attestation: first_hand
+    speaker:
+      node_id: 0d4dfba6-a53b-4f23-a2ad-e4c9bea44076
+      title: Robert Bigelow
+    provenance_chain:
+      origin_kind: speaker
+      origin: Robert Bigelow
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 34fa7ace-5c72-4a1c-80b6-01f654eefe00
+        title: Stanford Research Institute (SRI)
+        slug: stanford-research-institute-sri
+      - node_id: 7a9b9ff0-2991-43e0-87c6-23beada4ac49
+        title: Uri Geller
+        slug: uri-geller
+    date: null
+    date_end: null
+    location_in_record: 00:19:14.5-00:19:20.6
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 5de4e296-4206-45f6-aa56-c3b8efb5c9e2
+      record_title: The Evolution of AAWSAP | Bigelow Podcast, Ep. 2
+      record_date: '2026-08-11'
+      record_reference: https://www.youtube.com/watch?v=hz7jHEgYzQw
+      content_hash: sha256:1aa9d864c5a4bb930164c278d9624c6bc0f84278ea4b5e57594fae9e21e90858
+      friendly_name: null

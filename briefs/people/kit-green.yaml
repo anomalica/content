@@ -1,0 +1,255 @@
+schema: anomalica/brief/1
+brief_hash: 46b82eef25e61d2c88b9897095bdec9ca1546c2f8d1acb1c434205380d9d79b1
+page:
+  kind: entity
+  node_id: 44b5a52b-4fc7-4de7-ac48-d75f0f545583
+  node_type: person
+  title: Kit Green
+  slug: kit-green
+  claim_count: 5
+  claim_count_total: 5
+generated:
+  graph_version: '2026-09-01T10:10:49.863545+00:00'
+size:
+  claims: 5
+  tokens_estimated: 1316
+  sized_against: 1050000
+publication:
+  status: published
+  note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
+    transcripts are gated elsewhere.
+belonging:
+  verified: 0
+  suspect_excluded: 0
+  unreviewed: 5
+related_nodes:
+  - node_id: 8161270a-248d-424a-8aaa-f76999efc02b
+    title: Thomas Wilson
+    node_type: person
+    slug: thomas-wilson
+    shared_claims: 2
+  - node_id: 20f74902-e650-4d8b-a454-8e37e7cd471c
+    title: Whitley Strieber's alien implant
+    node_type: object
+    slug: whitley-striebers-alien-implant
+    shared_claims: 2
+  - node_id: 24d00311-06ac-46a1-a2f5-c99f3f8e21b2
+    title: Chris Ramsay
+    node_type: person
+    slug: chris-ramsay
+    shared_claims: 1
+  - node_id: 6dcdfe60-bc2f-4be2-a041-9957a82f371e
+    title: Harold E. Puthoff
+    node_type: person
+    slug: harold-e-puthoff
+    shared_claims: 1
+  - node_id: a384e65a-f90f-4829-9bc0-cd87e84a56cf
+    title: Jason Reza Jorjani
+    node_type: person
+    slug: jason-reza-jorjani
+    shared_claims: 1
+  - node_id: 0e4e60d0-a5df-461d-ac29-486f8eff8c50
+    title: Jason Reza Jorjani interview on American Alchemy, 2025-11
+    node_type: event
+    slug: 2025-11-jason-reza-jorjani-interview-on-american-alchemy
+    shared_claims: 1
+  - node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+    title: Whitley Strieber
+    node_type: person
+    slug: whitley-strieber
+    shared_claims: 1
+claims:
+  - claim_id: 0f6b0857-7622-47bb-80fc-a1ef8f2b29cb
+    claim_hash: 14e919945afb6fbb434ccbec3021fd26522672e8f991b163b2daaed6d873ca6b
+    content: Thomas Wilson was not familiar with the names Hal Puthoff and Kit Green.
+    original_excerpt: TW not familiar with names, heard about RV program in 1990.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 8161270a-248d-424a-8aaa-f76999efc02b
+      title: Thomas Wilson
+    provenance_chain:
+      origin_kind: speaker
+      origin: Thomas Wilson
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 44b5a52b-4fc7-4de7-ac48-d75f0f545583
+        title: Kit Green
+        slug: kit-green
+      - node_id: 6dcdfe60-bc2f-4be2-a041-9957a82f371e
+        title: Harold E. Puthoff
+        slug: harold-e-puthoff
+      - node_id: 8161270a-248d-424a-8aaa-f76999efc02b
+        title: Thomas Wilson
+        slug: thomas-wilson
+    date: null
+    date_end: null
+    location_in_record: char:23637-23691
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: ef5c864a-3a92-4358-b991-3fa2be4df4da
+      record_title: EWD Notes - Eric Davis Meeting with Adm. Wilson
+      record_date: '2002-10-16'
+      record_reference: https://www.congress.gov/117/meeting/house/114761/documents/HHRG-117-IG05-20220517-SD001.pdf
+      content_hash: sha256:88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7f46f9a9d
+      friendly_name: 2002-10-16-pdf-ewd-notes-eric-davis-meeting-with-adm-wilson
+  - claim_id: 104c7f88-a91b-40de-8086-3761a57886fa
+    claim_hash: c9b8f730284b86230ce8ac2ebae07a9c5a2ff8d13a6a5d475769c6794c9b60a0
+    content: Thomas Wilson gave no response on whether he would talk to Kit Green.
+    original_excerpt: No response on Kit Green.
+    claim_type: observation
+    attestation: first_hand
+    speaker:
+      node_id: 9ab76638-a596-48f1-9a58-9c9251cc97f3
+      title: Eric Davis
+    provenance_chain:
+      origin_kind: speaker
+      origin: Eric W. Davis
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 44b5a52b-4fc7-4de7-ac48-d75f0f545583
+        title: Kit Green
+        slug: kit-green
+      - node_id: 8161270a-248d-424a-8aaa-f76999efc02b
+        title: Thomas Wilson
+        slug: thomas-wilson
+    date: null
+    date_end: null
+    location_in_record: char:23748-23767
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: ef5c864a-3a92-4358-b991-3fa2be4df4da
+      record_title: EWD Notes - Eric Davis Meeting with Adm. Wilson
+      record_date: '2002-10-16'
+      record_reference: https://www.congress.gov/117/meeting/house/114761/documents/HHRG-117-IG05-20220517-SD001.pdf
+      content_hash: sha256:88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7f46f9a9d
+      friendly_name: 2002-10-16-pdf-ewd-notes-eric-davis-meeting-with-adm-wilson
+  - claim_id: e8e399f8-f71f-4622-b24a-0b42835d8b80
+    claim_hash: bd9fa60b2da08197f1a0bd78addb631e3445e0548c5dc7369419edc6b3cf7682
+    content: Chris Ramsay suggested that the unnamed doctor with a Central Intelligence Agency connection who sought a computed
+      tomography scan of Whitley Strieber's implant was Kit Green.
+    original_excerpt: 'Chris Ramsay: It was a Kit Green? Whitley Strieber: I''m not going to say his name because he told
+      me not to.'
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 24d00311-06ac-46a1-a2f5-c99f3f8e21b2
+      title: Chris Ramsay
+    provenance_chain:
+      origin_kind: speaker
+      origin: Chris Ramsay
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 20f74902-e650-4d8b-a454-8e37e7cd471c
+        title: Whitley Strieber's alien implant
+        slug: whitley-striebers-alien-implant
+      - node_id: 24d00311-06ac-46a1-a2f5-c99f3f8e21b2
+        title: Chris Ramsay
+        slug: chris-ramsay
+      - node_id: 44b5a52b-4fc7-4de7-ac48-d75f0f545583
+        title: Kit Green
+        slug: kit-green
+    date: null
+    date_end: null
+    location_in_record: 01:02:53.9-01:02:57.8
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 9302c6b2-133d-4cbb-adfa-5d1f0bd3e7ac
+      record_title: The Terrible Truth About the Visitors - Whitley Strieber | ep. 96
+      record_date: '2026-07-24'
+      record_reference: https://www.youtube.com/watch?v=Cv-sk4vt-qU
+      content_hash: sha256:456dbde0ab82ee8e216bdad2d1a0bf2a0b42622a167af19058f973050b035084
+      friendly_name: null
+  - claim_id: f26f5c80-39ea-47d0-90e0-8b46c2290dff
+    claim_hash: 29534fa0ed157fb60cd0c3cd07944dd3debf81cd338b5f2fc20380a13f059bd8
+    content: Whitley Strieber believes the two men who came to his apartment to explain his implant did so because they feared
+      Kit Green would talk him into having it removed and handed over.
+    original_excerpt: I think because they were afraid that Kit was going to try to sweet talk me into getting it taken out
+      and give it to him.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+      title: Whitley Strieber
+    provenance_chain:
+      origin_kind: speaker
+      origin: Whitley Strieber
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 20f74902-e650-4d8b-a454-8e37e7cd471c
+        title: Whitley Strieber's alien implant
+        slug: whitley-striebers-alien-implant
+      - node_id: 44b5a52b-4fc7-4de7-ac48-d75f0f545583
+        title: Kit Green
+        slug: kit-green
+      - node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+        title: Whitley Strieber
+        slug: whitley-strieber
+    date: null
+    date_end: null
+    location_in_record: 01:03:22.2-01:03:27.8
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 9302c6b2-133d-4cbb-adfa-5d1f0bd3e7ac
+      record_title: The Terrible Truth About the Visitors - Whitley Strieber | ep. 96
+      record_date: '2026-07-24'
+      record_reference: https://www.youtube.com/watch?v=Cv-sk4vt-qU
+      content_hash: sha256:456dbde0ab82ee8e216bdad2d1a0bf2a0b42622a167af19058f973050b035084
+      friendly_name: null
+  - claim_id: e2272606-041f-4d3d-a67b-1bd44149cb6a
+    claim_hash: 7da8a933d09486fa26173be3540b7e7c4e0b0c5b6343594876d87dc034a4f889
+    content: Jason Reza Jorjani, in his November 2025 American Alchemy interview, said Kit Green is heavily involved in the
+      alleged programme screening consumer DNA databases for alien genetic markers.
+    original_excerpt: the claim was made in the same Georgiani interview that Kit Green, Chris Green, is heavily involved
+      in this alleged program
+    claim_type: hearsay
+    attestation: second_hand
+    speaker:
+      node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+      title: Ross Coulthart
+    provenance_chain:
+      origin_kind: named
+      origin: Jason Reza Jorjani
+      relay:
+        - Ross Coulthart
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 0e4e60d0-a5df-461d-ac29-486f8eff8c50
+        title: Jason Reza Jorjani interview on American Alchemy, 2025-11
+        slug: 2025-11-jason-reza-jorjani-interview-on-american-alchemy
+      - node_id: 44b5a52b-4fc7-4de7-ac48-d75f0f545583
+        title: Kit Green
+        slug: kit-green
+      - node_id: a384e65a-f90f-4829-9bc0-cd87e84a56cf
+        title: Jason Reza Jorjani
+        slug: jason-reza-jorjani
+    date: null
+    date_end: null
+    location_in_record: 00:04:15.7-00:04:22.8
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 9038fd78-74aa-4d65-968a-0cd2808a3d13
+      record_title: Ross Coulthart Answers Your Biggest UAP Questions | Reality Check with Ross Coulthart
+      record_date: '2026-08-11'
+      record_reference: https://www.youtube.com/watch?v=7xtGoDVjqdE
+      content_hash: sha256:ec4ba3a9ba6cfe6598002b0b2441a39aac6847d339f856b1e24752aeb484b3a4
+      friendly_name: null

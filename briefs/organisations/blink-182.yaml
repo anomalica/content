@@ -1,0 +1,540 @@
+schema: anomalica/brief/1
+brief_hash: de06b6ef5cd5790040a6d9c541db704d72a0656d0d9020623182417e8bc96040
+page:
+  kind: entity
+  node_id: 1cddc1bd-375e-4481-9c3b-fec8cbea86cd
+  node_type: organisation
+  title: Blink-182
+  slug: blink-182
+  claim_count: 13
+  claim_count_total: 13
+generated:
+  graph_version: '2026-09-01T10:10:49.863545+00:00'
+size:
+  claims: 13
+  tokens_estimated: 3460
+  sized_against: 1050000
+publication:
+  status: published
+  note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
+    transcripts are gated elsewhere.
+belonging:
+  verified: 0
+  suspect_excluded: 0
+  unreviewed: 13
+related_nodes:
+  - node_id: c3938d3d-6d68-4a6d-94db-45321eed124d
+    title: Tom DeLonge
+    node_type: person
+    slug: tom-delonge
+    shared_claims: 11
+  - node_id: 039c66b2-28e5-4694-9333-5ca6bbc7e804
+    title: 2015 Tom DeLonge departure from Blink-182
+    node_type: event
+    slug: 2015-tom-delonge-departure-from-blink-182
+    shared_claims: 2
+  - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
+    title: Unidentified Flying Object (UFO)
+    node_type: topic
+    slug: unidentified-flying-object-ufo
+    shared_claims: 2
+  - node_id: b9479850-237f-45ab-a657-ec42bba06032
+    title: Enema of the State (Blink-182 album)
+    node_type: document
+    slug: enema-of-the-state-blink-182-album
+    shared_claims: 1
+  - node_id: 07534d23-762d-4cd6-8743-123a52f236a8
+    title: Janine Lindemulder
+    node_type: person
+    slug: janine-lindemulder
+    shared_claims: 1
+  - node_id: ff0a86b8-8f3c-4291-94ed-c6d303875ce8
+    title: Jason Samosa
+    node_type: person
+    slug: jason-samosa
+    shared_claims: 1
+  - node_id: 765d35c0-554c-4b48-aedf-6592df517f52
+    title: John Lydon
+    node_type: person
+    slug: john-lydon
+    shared_claims: 1
+claims:
+  - claim_id: f8f05b75-00f1-485a-9bb7-aafcd60935e6
+    claim_hash: 0229f275c07c9161c6f4fb088f792e4cee228b3e26df64540810bac282a9f9dc
+    content: In early 2015 Tom DeLonge's relationship with Blink-182 went on indefinite hiatus, in part because he wanted
+      to focus on researching the mystery of Unidentified Aerial Phenomena (UAP).
+    original_excerpt: In early 2015, DeLonge quit Blink-182, or rather his relationship with the band went on 'indefinite
+      hiatus', in part because he wanted to focus on researching the mystery of UAPs.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 039c66b2-28e5-4694-9333-5ca6bbc7e804
+        title: 2015 Tom DeLonge departure from Blink-182
+        slug: 2015-tom-delonge-departure-from-blink-182
+      - node_id: 1cddc1bd-375e-4481-9c3b-fec8cbea86cd
+        title: Blink-182
+        slug: blink-182
+      - node_id: c3938d3d-6d68-4a6d-94db-45321eed124d
+        title: Tom DeLonge
+        slug: tom-delonge
+    date: '2015'
+    date_end: null
+    location_in_record: ch18:12272-12446
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 7822dcc3-ea39-4a9c-a637-9be738869008
+    claim_hash: 399558eb37cc40b7fe9d0cbb4b182b5237a809ab525aad4dfeab1b9f40ebef4f
+    content: Shortly before he left Blink-182, Tom DeLonge was invited to an open house for families of a top defence aerospace
+      contracting company to serve as master of ceremonies, introducing a lead aerospace executive.
+    original_excerpt: Shortly before he left Blink-182, the rock star was invited to an open house for families of a top defence
+      aerospace contracting company to MC at a function where his job would be to introduce someone he would only describe
+      as a lead aerospace executive.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: c3938d3d-6d68-4a6d-94db-45321eed124d
+      title: Tom DeLonge
+    provenance_chain:
+      origin_kind: speaker
+      origin: Tom DeLonge
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 1cddc1bd-375e-4481-9c3b-fec8cbea86cd
+        title: Blink-182
+        slug: blink-182
+      - node_id: c3938d3d-6d68-4a6d-94db-45321eed124d
+        title: Tom DeLonge
+        slug: tom-delonge
+    date: null
+    date_end: null
+    location_in_record: ch18:14707-14951
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 0fe34a35-e9ef-4e50-9430-a38aa76a983f
+    claim_hash: 1f93bfadf9afa07967b8e4455e3c33ab109690b3d5feffd0f1d36971972bb5b6
+    content: In 2015 Tom DeLonge quit his band Blink-182.
+    original_excerpt: The other seminal UAP event in 2015 was that punk pop rock star Tom DeLonge quit his band Blink-182.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 039c66b2-28e5-4694-9333-5ca6bbc7e804
+        title: 2015 Tom DeLonge departure from Blink-182
+        slug: 2015-tom-delonge-departure-from-blink-182
+      - node_id: 1cddc1bd-375e-4481-9c3b-fec8cbea86cd
+        title: Blink-182
+        slug: blink-182
+      - node_id: c3938d3d-6d68-4a6d-94db-45321eed124d
+        title: Tom DeLonge
+        slug: tom-delonge
+    date: '2015'
+    date_end: null
+    location_in_record: ch18:5680-5776
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 213ea6ad-712a-4e2c-80f8-e7ff21584efe
+    claim_hash: ded2a1d0d9c410dc285ee7f293bb9297f1cb22df2ee44994673f6a8a3d791587
+    content: By 1999, as Blink-182's lead singer, Tom DeLonge was a megastar, packing stadiums full of fans across the United
+      States and around the world.
+    original_excerpt: By 1999, as Blink-182's lead singer, DeLonge was a megastar, packing stadiums full of fans across the
+      US and around the world.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 1cddc1bd-375e-4481-9c3b-fec8cbea86cd
+        title: Blink-182
+        slug: blink-182
+      - node_id: c3938d3d-6d68-4a6d-94db-45321eed124d
+        title: Tom DeLonge
+        slug: tom-delonge
+    date: '1999'
+    date_end: null
+    location_in_record: ch18:9536-9656
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 0c6d475c-5c9a-4028-8322-210ad8deaa30
+    claim_hash: d646399411fb4e849a4ec44500ae41ca7d958f4864f7c10f00b459e934f3679f
+    content: Punk pop veteran John Lydon, known as Johnny Rotten of the Sex Pistols, dismissed Blink-182 as 'a bunch of silly
+      boys'.
+    original_excerpt: '...the cranky Sex Pistols veteran punk John Lydon, aka Johnny Rotten, dismissed them as ''a bunch of
+      silly boys'',...'
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 765d35c0-554c-4b48-aedf-6592df517f52
+      title: John Lydon
+    provenance_chain:
+      origin_kind: speaker
+      origin: John Lydon
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 1cddc1bd-375e-4481-9c3b-fec8cbea86cd
+        title: Blink-182
+        slug: blink-182
+      - node_id: 765d35c0-554c-4b48-aedf-6592df517f52
+        title: John Lydon
+        slug: john-lydon
+    date: null
+    date_end: null
+    location_in_record: ch18:9715-9818
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 2751925b-97fc-44d0-8113-5d80a1de3981
+    claim_hash: fdc9ac763fd22cdb960cef97317cbc733f1cf1c6024f99f42b16dd84ac30bef7
+    content: In June 1999 Blink-182 released their album Enema of the State, featuring porn star Janine Lindemulder in a nurse's
+      uniform donning a rubber glove on the cover.
+    original_excerpt: In June that year, the band released their hugely popular Enema of the State album, featuring buxom
+      porn star Janine Lindemulder in a nurse's uniform donning a rubber glove.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 07534d23-762d-4cd6-8743-123a52f236a8
+        title: Janine Lindemulder
+        slug: janine-lindemulder
+      - node_id: 1cddc1bd-375e-4481-9c3b-fec8cbea86cd
+        title: Blink-182
+        slug: blink-182
+      - node_id: b9479850-237f-45ab-a657-ec42bba06032
+        title: Enema of the State (Blink-182 album)
+        slug: enema-of-the-state-blink-182-album
+    date: 1999-06
+    date_end: null
+    location_in_record: ch18:9856-10025
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 39700b45-4a87-46a0-a9ef-1b8d4ad4629b
+    claim_hash: b221f2dcafb30fdb71617bfe1a4b8cd1c82bcf09d1bc1731ed24ce3c387b0fe1
+    content: Tom DeLonge is the lead singer of Blink-182.
+    original_excerpt: “You know,” he said, “the lead singer of Blink-182?”
+    claim_type: administrative
+    attestation: second_hand
+    speaker:
+      node_id: 1c8b4d30-0305-4694-8008-7eab18bc4996
+      title: Jim Semivan
+    provenance_chain:
+      origin_kind: named
+      origin: Jim Semivan
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 1cddc1bd-375e-4481-9c3b-fec8cbea86cd
+        title: Blink-182
+        slug: blink-182
+      - node_id: c3938d3d-6d68-4a6d-94db-45321eed124d
+        title: Tom DeLonge
+        slug: tom-delonge
+    date: null
+    date_end: null
+    location_in_record: ch25:27053-27099
+    evidence:
+      score: null
+      independent_sources: 3
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  - claim_id: 22410738-59ee-43df-81ef-6c4638747374
+    claim_hash: c8f7cb4482688aa14b7e5eb9e735d1186013177f0adc731f653e3b93a29ba6df
+    content: Tom DeLonge is the front man of the band Blink-182.
+    original_excerpt: Tom DeLonge, the front man of Blink-182, was only a few years younger than me
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 1cddc1bd-375e-4481-9c3b-fec8cbea86cd
+        title: Blink-182
+        slug: blink-182
+      - node_id: c3938d3d-6d68-4a6d-94db-45321eed124d
+        title: Tom DeLonge
+        slug: tom-delonge
+    date: null
+    date_end: null
+    location_in_record: ch29:11264-11339
+    evidence:
+      score: null
+      independent_sources: 3
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  - claim_id: 25923918-e8e4-4b7c-ae6b-d8aa7f6e6dad
+    claim_hash: 6a4c6abbd31ce4015ea9014aed75128673ce4ef775c81269e5aca09d1f8941a5
+    content: Tom DeLonge was a member of Blink-182.
+    original_excerpt: I never expected to be so lucky as to have a band like Blink-182 in my life.
+    claim_type: administrative
+    attestation: first_hand
+    speaker:
+      node_id: c3938d3d-6d68-4a6d-94db-45321eed124d
+      title: Tom DeLonge
+    provenance_chain:
+      origin_kind: speaker
+      origin: Tom DeLonge
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 1cddc1bd-375e-4481-9c3b-fec8cbea86cd
+        title: Blink-182
+        slug: blink-182
+      - node_id: c3938d3d-6d68-4a6d-94db-45321eed124d
+        title: Tom DeLonge
+        slug: tom-delonge
+    date: null
+    date_end: null
+    location_in_record: 00:01:18.0-00:01:21.7
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: f919f98d-eba1-46e2-96d7-a458d5b6b2ea
+      record_title: 'Tom DeLonge''s ''Sekret Machines'' FULL Documentary #ufo #uap'
+      record_date: '2026-03-04'
+      record_reference: https://www.youtube.com/watch?v=D-MCIOFaZak
+      content_hash: sha256:99a53c9b2f419c30722bbc6a36359c17a9eda0094d02cb415fbd64df44b026ff
+      friendly_name: null
+  - claim_id: 4e6daba0-8a44-4045-a705-b28703b36143
+    claim_hash: 92d0966b4b6599cdadb83fb67a8f8dfad7601e5d77452fee3679f22653edac7c
+    content: Tom DeLonge is the frontman of the band Blink-182.
+    original_excerpt: And then Tom DeLonge is the blink one 82 front man.
+    claim_type: administrative
+    attestation: first_hand
+    speaker:
+      node_id: 079d4381-4273-418b-bc9a-468623f95c6e
+      title: Jesse Mitchells
+    provenance_chain:
+      origin_kind: speaker
+      origin: Jesse Michels
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 1cddc1bd-375e-4481-9c3b-fec8cbea86cd
+        title: Blink-182
+        slug: blink-182
+      - node_id: c3938d3d-6d68-4a6d-94db-45321eed124d
+        title: Tom DeLonge
+        slug: tom-delonge
+    date: null
+    date_end: null
+    location_in_record: 00:33:56.8-00:33:59.2
+    evidence:
+      score: null
+      independent_sources: 3
+    provenance:
+      record_id: 64b84f95-238c-4ab7-a678-bee55f985b14
+      record_title: The UFO Cover-Up Leads to One Secret Society — and One Final Event
+      record_date: '2026-07-14'
+      record_reference: https://www.youtube.com/watch?v=kccrkCGGzX4
+      content_hash: sha256:d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7b5a1b98d
+      friendly_name: null
+  - claim_id: 1c6738d7-b479-482b-87e4-d7eb63693aaa
+    claim_hash: e1689379a4e01bd3313ecf9630c0bd5f4aa1c8f115572e3140c895cd7781b202
+    content: Tom DeLonge became deeply interested in the Unidentified Flying Object (UFO) subject from a very young age, with
+      video footage of him discussing it possibly predating the formation of Blink-182.
+    original_excerpt: DeLonge, I think had become deeply interested in this from a very young age. There's, there's video
+      footage of him talking about this, you're kind of wondering if he's even started Blink-182 at this point.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: ff0a86b8-8f3c-4291-94ed-c6d303875ce8
+      title: Jason Samosa
+    provenance_chain:
+      origin_kind: speaker
+      origin: Jason Samosa
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 1cddc1bd-375e-4481-9c3b-fec8cbea86cd
+        title: Blink-182
+        slug: blink-182
+      - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
+        title: Unidentified Flying Object (UFO)
+        slug: unidentified-flying-object-ufo
+      - node_id: c3938d3d-6d68-4a6d-94db-45321eed124d
+        title: Tom DeLonge
+        slug: tom-delonge
+      - node_id: ff0a86b8-8f3c-4291-94ed-c6d303875ce8
+        title: Jason Samosa
+        slug: jason-samosa
+    date: null
+    date_end: null
+    location_in_record: 00:34:29.4-00:34:38.7
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 64b84f95-238c-4ab7-a678-bee55f985b14
+      record_title: The UFO Cover-Up Leads to One Secret Society — and One Final Event
+      record_date: '2026-07-14'
+      record_reference: https://www.youtube.com/watch?v=kccrkCGGzX4
+      content_hash: sha256:d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7b5a1b98d
+      friendly_name: null
+  - claim_id: eb23df0f-e031-469b-823f-85e56e6e295a
+    claim_hash: 667b229e0f7f0cfa12363654bbcf7288e0df36a8e80f9aeb64d0f4674e002cbc
+    content: Tom DeLonge said on podcasts that he had met the people managing the UFO subject and that they had begun speaking
+      to him.
+    original_excerpt: He was saying, I have met the people who are managing the UFO thing. They've started to speak to me,
+      the front man from Blink-182, and they're telling me all of these things.
+    claim_type: hearsay
+    attestation: second_hand
+    speaker:
+      node_id: ff0a86b8-8f3c-4291-94ed-c6d303875ce8
+      title: Jason Samosa
+    provenance_chain:
+      origin_kind: named
+      origin: Tom DeLonge
+      relay:
+        - podcast appearances by Tom DeLonge
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 1cddc1bd-375e-4481-9c3b-fec8cbea86cd
+        title: Blink-182
+        slug: blink-182
+      - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
+        title: Unidentified Flying Object (UFO)
+        slug: unidentified-flying-object-ufo
+      - node_id: c3938d3d-6d68-4a6d-94db-45321eed124d
+        title: Tom DeLonge
+        slug: tom-delonge
+    date: null
+    date_end: null
+    location_in_record: 00:38:44.4-00:38:53.8
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 64b84f95-238c-4ab7-a678-bee55f985b14
+      record_title: The UFO Cover-Up Leads to One Secret Society — and One Final Event
+      record_date: '2026-07-14'
+      record_reference: https://www.youtube.com/watch?v=kccrkCGGzX4
+      content_hash: sha256:d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7b5a1b98d
+      friendly_name: null
+  - claim_id: 9b26e553-a23b-4798-8d27-980b27553405
+    claim_hash: 86352284114f1c6b67e96832694aa3ffb258b00f318ce73d9ab931cf6ac1424e
+    content: Tom DeLonge is the front man of Blink-182.
+    original_excerpt: the front man from Blink-182
+    claim_type: administrative
+    attestation: null
+    speaker:
+      node_id: ff0a86b8-8f3c-4291-94ed-c6d303875ce8
+      title: Jason Samosa
+    provenance_chain:
+      origin_kind: unattributed
+      origin: general knowledge stated by the speaker
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 1cddc1bd-375e-4481-9c3b-fec8cbea86cd
+        title: Blink-182
+        slug: blink-182
+      - node_id: c3938d3d-6d68-4a6d-94db-45321eed124d
+        title: Tom DeLonge
+        slug: tom-delonge
+    date: null
+    date_end: null
+    location_in_record: 00:38:50.5-00:38:51.2
+    evidence:
+      score: null
+      independent_sources: 3
+    provenance:
+      record_id: 64b84f95-238c-4ab7-a678-bee55f985b14
+      record_title: The UFO Cover-Up Leads to One Secret Society — and One Final Event
+      record_date: '2026-07-14'
+      record_reference: https://www.youtube.com/watch?v=kccrkCGGzX4
+      content_hash: sha256:d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7b5a1b98d
+      friendly_name: null

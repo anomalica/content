@@ -1,0 +1,292 @@
+schema: anomalica/brief/1
+brief_hash: 8d61ae2c79af754d248e0575ff3c6776f155c0c2bf66cf9586f367a26fb7c5a3
+page:
+  kind: entity
+  node_id: b2c77a25-6123-4a27-a105-4edfde1e27c1
+  node_type: organisation
+  title: KLAS-TV
+  slug: klas-tv
+  claim_count: 5
+  claim_count_total: 5
+generated:
+  graph_version: '2026-09-01T10:10:49.863545+00:00'
+size:
+  claims: 5
+  tokens_estimated: 1503
+  sized_against: 1050000
+publication:
+  status: published
+  note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
+    transcripts are gated elsewhere.
+belonging:
+  verified: 0
+  suspect_excluded: 0
+  unreviewed: 5
+related_nodes:
+  - node_id: 6712e8fa-3b86-4982-a102-e2d38e0b29d6
+    title: George Knapp
+    node_type: person
+    slug: george-knapp
+    shared_claims: 4
+  - node_id: 2d83eddd-3fff-4559-b07c-7711ada4bf0f
+    title: USA, Nevada, Las Vegas
+    node_type: place
+    slug: nevada-las-vegas-usa
+    shared_claims: 2
+  - node_id: 8ba74dde-17fd-4904-bca7-46d2303c2534
+    title: 1989 Bob Lazar KLAS interview
+    node_type: event
+    slug: 1989-bob-lazar-klas-interview
+    shared_claims: 1
+  - node_id: b0c0fde0-37e6-4632-8d64-a95091f03a49
+    title: Bob Lazar
+    node_type: person
+    slug: bob-lazar
+    shared_claims: 1
+  - node_id: 6dcdfe60-bc2f-4be2-a041-9957a82f371e
+    title: Harold E. Puthoff
+    node_type: person
+    slug: harold-e-puthoff
+    shared_claims: 1
+  - node_id: cec715ac-05d9-4eb4-b97a-dcbffb6bf2e5
+    title: Harry Reid memo to William Lynn III on Advanced Aerospace Threat Identification Program (AATIP) Special Access
+      Program status (2009-07-24)
+    node_type: document
+    slug: harry-reid-memo-to-william-lynn-iii-on-advanced-aerospace-threat-identification-program-aatip-special-access-program-status-2009-07-24
+    shared_claims: 1
+  - node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+    title: Luis Elizondo
+    node_type: person
+    slug: luis-elizondo
+    shared_claims: 1
+  - node_id: a3a02857-b28d-434b-b1ad-e6c2d491e8bd
+    title: To the Stars Academy of Arts and Science (TTSA)
+    node_type: organisation
+    slug: to-the-stars-academy-of-arts-and-science-ttsa
+    shared_claims: 1
+  - node_id: dcfde05e-4c6d-4f3a-80da-781e42865401
+    title: USA, Nevada, Area 51
+    node_type: place
+    slug: nevada-area-51-usa
+    shared_claims: 1
+  - node_id: 9a0a9944-b50d-4340-adde-ee14c278518b
+    title: USA, Nevada, Papoose Lake
+    node_type: place
+    slug: nevada-papoose-lake-usa
+    shared_claims: 1
+  - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
+    title: Unidentified Anomalous Phenomena (UAP)
+    node_type: topic
+    slug: unidentified-anomalous-phenomena-uap
+    shared_claims: 1
+claims:
+  - claim_id: 5b34a3c7-f445-456a-a54e-396af2bb500e
+    claim_hash: 9c78c4ce95c6994440bb86c79a44ece8d747313510242a59209e01865b59a95e
+    content: George Knapp said he made his stock purchase in To The Stars Academy of Arts & Science public and informed his
+      employer at KLAS-TV in Las Vegas.
+    original_excerpt: He wrote that he had “made that information public” and “informed” his employer” at KLAS-TV in Las Vegas.
+    claim_type: testimony
+    attestation: second_hand
+    speaker:
+      node_id: 6712e8fa-3b86-4982-a102-e2d38e0b29d6
+      title: George Knapp
+    provenance_chain:
+      origin_kind: speaker
+      origin: George Knapp
+      relay:
+        - an email to The Intercept
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 6712e8fa-3b86-4982-a102-e2d38e0b29d6
+        title: George Knapp
+        slug: george-knapp
+      - node_id: a3a02857-b28d-434b-b1ad-e6c2d491e8bd
+        title: To the Stars Academy of Arts and Science (TTSA)
+        slug: to-the-stars-academy-of-arts-and-science-ttsa
+      - node_id: b2c77a25-6123-4a27-a105-4edfde1e27c1
+        title: KLAS-TV
+        slug: klas-tv
+    date: null
+    date_end: null
+    location_in_record: char:15206-15305
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: b8671ec4-886d-48bb-87c4-f4c4e0baf0fe
+      record_title: The Media Loves This UFO Expert Who Says He Worked for an Obscure Pentagon Program. Did He?
+      record_date: '2019-06-01'
+      record_reference: https://theintercept.com/2019/06/01/ufo-unidentified-history-channel-luis-elizondo-pentagon/
+      content_hash: sha256:f6e5fb77226638f01db033f2f157e830aba705e5fbf996540cdd0cf29e0cff2c
+      friendly_name: 2019-06-01-web-the-media-loves-this-ufo-expert-who-says-he-worked-for-an
+  - claim_id: 1b71bd40-b5a3-4af0-86ed-6bd0c48069b8
+    claim_hash: e04b0eacbe47dc0de5f31b046dfc96f39ece61c0b1b110fa12c803b30914112a
+    content: One page of the 2009 Harry Reid memo shows that the names of Luis Elizondo and Hal Puthoff were redacted by KLAS-TV
+      on its initial release, for unknown reasons.
+    original_excerpt: '[caption: One page from the 2009 Harry Reid memo, showing Mr. Luis Elizondo and Dr. Hal Puthoff were
+      redacted by KLAS-TV on the initial release, for unknown reasons.]'
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 6dcdfe60-bc2f-4be2-a041-9957a82f371e
+        title: Harold E. Puthoff
+        slug: harold-e-puthoff
+      - node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+        title: Luis Elizondo
+        slug: luis-elizondo
+      - node_id: b2c77a25-6123-4a27-a105-4edfde1e27c1
+        title: KLAS-TV
+        slug: klas-tv
+      - node_id: cec715ac-05d9-4eb4-b97a-dcbffb6bf2e5
+        title: Harry Reid memo to William Lynn III on Advanced Aerospace Threat Identification Program (AATIP) Special Access
+          Program status (2009-07-24)
+        slug: harry-reid-memo-to-william-lynn-iii-on-advanced-aerospace-threat-identification-program-aatip-special-access-program-status-2009-07-24
+    date: null
+    date_end: null
+    location_in_record: char:1708-1864
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 6277b269-0970-4c9f-bb3f-9af4babe813e
+      record_title: Pentagon Reinforces Mr. Luis Elizondo Had “No Responsibilities” on AATIP; Senator Harry Reid’s 2009 Memo
+        Changes Nothing - The Black Vault
+      record_date: '2019-06-14'
+      record_reference: https://www.theblackvault.com/documentarchive/pentagon-reinforces-mr-luis-elizondo-had-no-responsibilities-on-aatip-senator-harry-reids-2009-memo-changes-nothing/
+      content_hash: sha256:b5f3b4fc656776dcac742cb3190859da4a5d67bf028530c1aeea49b186b0adfc
+      friendly_name: 2019-06-14-web-pentagon-reinforces-mr-luis-elizondo-had-no
+  - claim_id: 9e441a3d-2bf2-46fa-b555-860f16fc39ac
+    claim_hash: d32fd58d77c5987cf6fdb08ee3f02883a861ee67cc9442ca1458e97a8443f266
+    content: George Knapp is a journalist from KLAS-TV in Las Vegas, Nevada.
+    original_excerpt: Mr. George Knapp, journalist from KLAS-TV in Las Vegas, Nevada
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 2d83eddd-3fff-4559-b07c-7711ada4bf0f
+        title: USA, Nevada, Las Vegas
+        slug: nevada-las-vegas-usa
+      - node_id: 6712e8fa-3b86-4982-a102-e2d38e0b29d6
+        title: George Knapp
+        slug: george-knapp
+      - node_id: b2c77a25-6123-4a27-a105-4edfde1e27c1
+        title: KLAS-TV
+        slug: klas-tv
+    date: null
+    date_end: null
+    location_in_record: char:1939-1995
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 6277b269-0970-4c9f-bb3f-9af4babe813e
+      record_title: Pentagon Reinforces Mr. Luis Elizondo Had “No Responsibilities” on AATIP; Senator Harry Reid’s 2009 Memo
+        Changes Nothing - The Black Vault
+      record_date: '2019-06-14'
+      record_reference: https://www.theblackvault.com/documentarchive/pentagon-reinforces-mr-luis-elizondo-had-no-responsibilities-on-aatip-senator-harry-reids-2009-memo-changes-nothing/
+      content_hash: sha256:b5f3b4fc656776dcac742cb3190859da4a5d67bf028530c1aeea49b186b0adfc
+      friendly_name: 2019-06-14-web-pentagon-reinforces-mr-luis-elizondo-had-no
+  - claim_id: 46f173e7-f7db-489f-92fa-3898e1612ad0
+    claim_hash: c5cc2d5225d7ba8391234e7aefaf7538e235878a47a3de873b71c135aa982b65
+    content: In 1989, Bob Lazar went public in an interview with journalist George Knapp on Las Vegas television station KLAS-TV,
+      asserting anonymously at first his purported employment working on a recovered extra-terrestrial flying saucer at the
+      supposed Site 4 (S-4) facility.
+    original_excerpt: Years later, in 1989, Lazar went public in an interview with investigative journalist George Knapp on
+      Las Vegas TV station KLAS, asserting (anonymously, at first) his purported employment working on a recovered extra-terrestrial
+      flying saucer at the supposed S-4 facility, adjacent to Papoose Lake south of Area 51
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: narration
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 2d83eddd-3fff-4559-b07c-7711ada4bf0f
+        title: USA, Nevada, Las Vegas
+        slug: nevada-las-vegas-usa
+      - node_id: 6712e8fa-3b86-4982-a102-e2d38e0b29d6
+        title: George Knapp
+        slug: george-knapp
+      - node_id: 8ba74dde-17fd-4904-bca7-46d2303c2534
+        title: 1989 Bob Lazar KLAS interview
+        slug: 1989-bob-lazar-klas-interview
+      - node_id: 9a0a9944-b50d-4340-adde-ee14c278518b
+        title: USA, Nevada, Papoose Lake
+        slug: nevada-papoose-lake-usa
+      - node_id: b0c0fde0-37e6-4632-8d64-a95091f03a49
+        title: Bob Lazar
+        slug: bob-lazar
+      - node_id: b2c77a25-6123-4a27-a105-4edfde1e27c1
+        title: KLAS-TV
+        slug: klas-tv
+      - node_id: dcfde05e-4c6d-4f3a-80da-781e42865401
+        title: USA, Nevada, Area 51
+        slug: nevada-area-51-usa
+    date: '1989'
+    date_end: null
+    location_in_record: ch13:20633-20945
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 477f7a1b-4745-422c-b4a1-a6ba8663ae90
+    claim_hash: e9a28460e0723b18b61662c355f110f86d9b5facb932e3580aa4d1d22a58c6cf
+    content: George Knapp is a multi-award-winning investigative journalist who has worked for Nevada's KLAS-TV for 40 years,
+      breaking many extraordinary UAP stories.
+    original_excerpt: Las Vegas investigative journalist George Knapp is a multi-award-winning investigative journalist who
+      has worked for Nevada's KLAS-TV for 40 years, breaking many extraordinary UAP stories.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 6712e8fa-3b86-4982-a102-e2d38e0b29d6
+        title: George Knapp
+        slug: george-knapp
+      - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
+        title: Unidentified Anomalous Phenomena (UAP)
+        slug: unidentified-anomalous-phenomena-uap
+      - node_id: b2c77a25-6123-4a27-a105-4edfde1e27c1
+        title: KLAS-TV
+        slug: klas-tv
+    date: null
+    date_end: null
+    location_in_record: ch15:13284-13464
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight

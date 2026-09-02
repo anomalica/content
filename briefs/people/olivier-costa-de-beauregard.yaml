@@ -1,0 +1,205 @@
+schema: anomalica/brief/1
+brief_hash: 80d5d5659183e8de66f941105bf695d4e4025b75fa10f7a0decb3ed2219a3010
+page:
+  kind: entity
+  node_id: 7d9d2f1c-57b1-4801-97b3-fafbb1278ea9
+  node_type: person
+  title: Olivier Costa de Beauregard
+  slug: olivier-costa-de-beauregard
+  claim_count: 4
+  claim_count_total: 4
+generated:
+  graph_version: '2026-09-01T10:10:49.863545+00:00'
+size:
+  claims: 4
+  tokens_estimated: 1319
+  sized_against: 1050000
+publication:
+  status: published
+  note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
+    transcripts are gated elsewhere.
+belonging:
+  verified: 0
+  suspect_excluded: 0
+  unreviewed: 4
+related_nodes:
+  - node_id: 5d93c82e-5c20-47f0-b7d4-de96abd4f1f4
+    title: Aimé Michel
+    node_type: person
+    slug: aime-michel
+    shared_claims: 1
+  - node_id: d59b3e14-cb0b-451d-9864-be08bc78133d
+    title: Claude Poher
+    node_type: person
+    slug: claude-poher
+    shared_claims: 1
+  - node_id: bdf81b1d-d06b-492c-b020-d3926fc76b14
+    title: National Centre for Space Studies (CNES)
+    node_type: organisation
+    slug: national-centre-for-space-studies-cnes
+    shared_claims: 1
+  - node_id: da036800-30a7-4c4d-b57a-21dca53ce073
+    title: Pierre Guérin
+    node_type: person
+    slug: pierre-guerin
+    shared_claims: 1
+  - node_id: b3a417af-0df0-46fd-b152-f6200dcc81bb
+    title: Rémy Chauvin
+    node_type: person
+    slug: remy-chauvin
+    shared_claims: 1
+claims:
+  - claim_id: b03b2e1e-9b48-4d8a-89d7-4047b396fefc
+    claim_hash: 7656d43d5fde7785d2647bf2c48defdfd480d999ab72735ab25e9a606e05cd53
+    content: Olivier Costa de Beauregard wrote that it must be in the nature of probability to serve as the operational link
+      between objective and subjective, between matter and psychism.
+    original_excerpt: Speculating on the relationship between these physical quantities, Costa de Beauregard wrote, “It must
+      be in the nature of probability to serve as the operational link between objective and subjective, between matter and
+      psychism.”
+    claim_type: opinion
+    attestation: second_hand
+    speaker:
+      node_id: 7d9d2f1c-57b1-4801-97b3-fafbb1278ea9
+      title: Olivier Costa de Beauregard
+    provenance_chain:
+      origin_kind: named
+      origin: Olivier Costa de Beauregard
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 7d9d2f1c-57b1-4801-97b3-fafbb1278ea9
+        title: Olivier Costa de Beauregard
+        slug: olivier-costa-de-beauregard
+    date: null
+    date_end: null
+    location_in_record: ch13:53786-54007
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: f0690aba-c78b-47f4-bb2f-f94ea04d55ee
+      record_title: 'Messengers of Deception: UFO Contacts and Cults'
+      record_date: '0101-01-01'
+      record_reference: null
+      content_hash: sha256:0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5ac9fd3168
+      friendly_name: 0101-01-01-ebook-messengers-of-deception-ufo-contacts-and-cults
+  - claim_id: 59280229-53af-456e-af8e-bb42584e8db0
+    claim_hash: 1b8b3d1738123421ac25cdccd0d9361f791ddc2755d70c9c926f3aebacf82017
+    content: Olivier Costa de Beauregard noted that in precybernetic physics, observation was regarded as a process without
+      mystery requiring no explanation, whereas free action was regarded as a physical impossibility and a psychological illusion.
+    original_excerpt: He points out that, in precybernetic physics, observation was regarded as “a process without mystery,
+      requiring no explanation,” whereas free action, on the contrary, was “regarded as a physical impossibility and a psychological
+      illusion.”
+    claim_type: opinion
+    attestation: second_hand
+    speaker:
+      node_id: 7d9d2f1c-57b1-4801-97b3-fafbb1278ea9
+      title: Olivier Costa de Beauregard
+    provenance_chain:
+      origin_kind: named
+      origin: Olivier Costa de Beauregard
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 7d9d2f1c-57b1-4801-97b3-fafbb1278ea9
+        title: Olivier Costa de Beauregard
+        slug: olivier-costa-de-beauregard
+    date: null
+    date_end: null
+    location_in_record: ch13:54020-54249
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: f0690aba-c78b-47f4-bb2f-f94ea04d55ee
+      record_title: 'Messengers of Deception: UFO Contacts and Cults'
+      record_date: '0101-01-01'
+      record_reference: null
+      content_hash: sha256:0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5ac9fd3168
+      friendly_name: 0101-01-01-ebook-messengers-of-deception-ufo-contacts-and-cults
+  - claim_id: ca686ac8-499f-4334-bcd5-63b35bcb5044
+    claim_hash: 21ea217318857d546daf7db063f9d5d139a72d0e80f7cff39957ed8e0eeb124d
+    content: Fred Beckman, William T. Powers, Douglass Price-Williams and Ted Phillips were joined by French researchers in
+      philosopher Aimé Michel's circle, including planetary astronomer Pierre Guérin, Sorbonne biologist and parapsychologist
+      Rémy Chauvin, relativist Olivier Costa de Beauregard, and aerospace expert Claude Poher at the National Centre for Space
+      Studies (CNES).
+    original_excerpt: They were joined by distinguished French researchers in philosopher Aimé Michel’s circle, like planetary
+      astronomer Pierre Guérin, Sorbonne biologist and parapsychologist Rémy Chauvin, and relativist Olivier Costa de Beauregard,
+      along with aerospace expert Dr. Claude Poher at CNES.
+    claim_type: administrative
+    attestation: first_hand
+    speaker:
+      node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
+      title: Jacques Vallée
+    provenance_chain:
+      origin_kind: speaker
+      origin: Jacques Vallee
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 5d93c82e-5c20-47f0-b7d4-de96abd4f1f4
+        title: Aimé Michel
+        slug: aime-michel
+      - node_id: 7d9d2f1c-57b1-4801-97b3-fafbb1278ea9
+        title: Olivier Costa de Beauregard
+        slug: olivier-costa-de-beauregard
+      - node_id: b3a417af-0df0-46fd-b152-f6200dcc81bb
+        title: Rémy Chauvin
+        slug: remy-chauvin
+      - node_id: bdf81b1d-d06b-492c-b020-d3926fc76b14
+        title: National Centre for Space Studies (CNES)
+        slug: national-centre-for-space-studies-cnes
+      - node_id: d59b3e14-cb0b-451d-9864-be08bc78133d
+        title: Claude Poher
+        slug: claude-poher
+      - node_id: da036800-30a7-4c4d-b57a-21dca53ce073
+        title: Pierre Guérin
+        slug: pierre-guerin
+    date: null
+    date_end: null
+    location_in_record: ch7:1818-2095
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 220315f4-29cd-4c89-8860-44f95613d98f
+      record_title: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About UFO Influences on the Human Race'
+      record_date: '2014-09-27'
+      record_reference: null
+      content_hash: sha256:5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b8489cc11c26
+      friendly_name: 2014-09-27-ebook-the-invisible-college-what-a-group-of-scientists-has
+  - claim_id: 585fba0c-f150-4fd1-b129-621eb827b904
+    claim_hash: d31670e02a5c4c4946ed090720b4f8454b60cd05849b41e44c0c05b30e24fc59
+    content: Olivier Costa de Beauregard was a relativist.
+    original_excerpt: relativist Olivier Costa de Beauregard
+    claim_type: administrative
+    attestation: first_hand
+    speaker:
+      node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
+      title: Jacques Vallée
+    provenance_chain:
+      origin_kind: speaker
+      origin: Jacques Vallee
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 7d9d2f1c-57b1-4801-97b3-fafbb1278ea9
+        title: Olivier Costa de Beauregard
+        slug: olivier-costa-de-beauregard
+    date: null
+    date_end: null
+    location_in_record: ch7:2007-2035
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 220315f4-29cd-4c89-8860-44f95613d98f
+      record_title: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About UFO Influences on the Human Race'
+      record_date: '2014-09-27'
+      record_reference: null
+      content_hash: sha256:5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b8489cc11c26
+      friendly_name: 2014-09-27-ebook-the-invisible-college-what-a-group-of-scientists-has

@@ -1,0 +1,804 @@
+schema: anomalica/brief/1
+brief_hash: 7664bed03c4e98cfec719f8b0bb37850299c336b8627230f226bff96a626c7b0
+page:
+  kind: entity
+  node_id: 55180311-d8bf-4d7a-ad49-c4364880b38f
+  node_type: organisation
+  title: Esalen Institute
+  slug: esalen-institute
+  claim_count: 17
+  claim_count_total: 17
+generated:
+  graph_version: '2026-09-01T10:10:49.863545+00:00'
+size:
+  claims: 17
+  tokens_estimated: 4933
+  sized_against: 1050000
+publication:
+  status: published
+  note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
+    transcripts are gated elsewhere.
+belonging:
+  verified: 0
+  suspect_excluded: 0
+  unreviewed: 17
+related_nodes:
+  - node_id: 0c15657f-8c99-43ad-8912-d2841ba0634f
+    title: Esalen Institute Skywatcher psionic inviting demonstration
+    node_type: event
+    slug: esalen-institute-skywatcher-psionic-inviting-demonstration
+    shared_claims: 7
+  - node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+    title: Ross Coulthart
+    node_type: person
+    slug: ross-coulthart
+    shared_claims: 6
+  - node_id: ad4c5ffb-29fc-42b3-a3cc-29ed186d5456
+    title: USA, California, Big Sur
+    node_type: place
+    slug: california-big-sur-usa
+    shared_claims: 4
+  - node_id: 8b6e0178-0856-47b3-a14a-780d2bb8b63d
+    title: Alex Klokus
+    node_type: person
+    slug: alex-klokus
+    shared_claims: 3
+  - node_id: 6a174ff1-da8e-4674-8b4a-6b62b2182ec5
+    title: Esalen blue hexagonal orb photographs
+    node_type: document
+    slug: esalen-blue-hexagonal-orb-photographs
+    shared_claims: 3
+  - node_id: c4e4e422-f2b5-4ed3-ae65-ec244ddcc14a
+    title: Jeffrey Kripal
+    node_type: person
+    slug: jeffrey-kripal
+    shared_claims: 3
+  - node_id: 239d0c42-c4e3-4325-82a2-50c20b2c3412
+    title: Jordan Jozak
+    node_type: person
+    slug: jordan-jozak
+    shared_claims: 3
+  - node_id: d0e1ccf0-977b-4550-be92-02d4075be4ae
+    title: Skywatcher
+    node_type: organisation
+    slug: skywatcher
+    shared_claims: 3
+  - node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+    title: Whitley Strieber
+    node_type: person
+    slug: whitley-strieber
+    shared_claims: 3
+  - node_id: d4241f5a-1063-4970-ba02-5a391c02d96d
+    title: David Charles Grusch
+    node_type: person
+    slug: david-charles-grusch
+    shared_claims: 2
+  - node_id: 9c74d864-957a-4654-a5b6-1249fe654ec7
+    title: Non-Human Intelligence
+    node_type: topic
+    slug: non-human-intelligence
+    shared_claims: 2
+  - node_id: 59e5adca-0786-4ef8-ad50-674371180a4a
+    title: psionics
+    node_type: topic
+    slug: psionics
+    shared_claims: 2
+  - node_id: a0bc0de8-1d81-44e5-96a7-30706ccc34a4
+    title: Jake Barber
+    node_type: person
+    slug: jake-barber
+    shared_claims: 1
+  - node_id: 5d5aa4e3-7bc3-4206-97e9-86ceeb333478
+    title: USA, California, San Francisco
+    node_type: place
+    slug: california-san-francisco-usa
+    shared_claims: 1
+  - node_id: 7bf3a5af-70a5-4e9e-8f96-2dbf37ffaf39
+    title: USA, California, Southern California
+    node_type: place
+    slug: california-southern-california-usa
+    shared_claims: 1
+claims:
+  - claim_id: 6f50e4fd-584b-4914-96c4-a8cd6fd3d9e8
+    claim_hash: d7d48cdcfcecacf5262b4d87ea4652f005eb15aa2c4d77a8e2eb45f6aa3f83d8
+    content: Jeff Kripal experienced a sense of annihilation while sleeping in the same room as Whitley Strieber at a conference
+      at the Esalen Institute in Northern California.
+    original_excerpt: my Super Natural co-author, Jeff Kripal, experienced it when sleeping in the same room with me at a
+      conference at the Esalen Institute in Northern California.
+    claim_type: testimony
+    attestation: second_hand
+    speaker:
+      node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+      title: Whitley Strieber
+    provenance_chain:
+      origin_kind: named
+      origin: Jeff Kripal
+      relay:
+        - Whitley Strieber
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 55180311-d8bf-4d7a-ad49-c4364880b38f
+        title: Esalen Institute
+        slug: esalen-institute
+      - node_id: 7bf3a5af-70a5-4e9e-8f96-2dbf37ffaf39
+        title: USA, California, Southern California
+        slug: california-southern-california-usa
+      - node_id: c4e4e422-f2b5-4ed3-ae65-ec244ddcc14a
+        title: Jeffrey Kripal
+        slug: jeffrey-kripal
+    date: null
+    date_end: null
+    location_in_record: ch18:13699-13846
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 759e8d7b-a820-4e00-bdc3-9aebf9e4b1b1
+      record_title: The Fourth Mind
+      record_date: '2025-01-15'
+      record_reference: null
+      content_hash: sha256:524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008e17102e7
+      friendly_name: 2025-01-15-ebook-the-fourth-mind
+  - claim_id: a4244173-3b2a-40e4-9c63-a06740ef18d5
+    claim_hash: 03d1ecffc680ef6d01035dc7f9a150b1461267cabba14fd330571c59b089488f
+    content: Whitley Strieber regularly attends conferences at the Esalen Institute in Northern California and uses a relatively
+      isolated room overlooking the Pacific where visitors sometimes appear.
+    original_excerpt: I go to conferences there often, and sometimes the visitors will show up in the room I use, as it is
+      relatively isolated and overlooks the Pacific, making for easy and secure physical contact for them.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+      title: Whitley Strieber
+    provenance_chain:
+      origin_kind: speaker
+      origin: Whitley Strieber
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+        title: Whitley Strieber
+        slug: whitley-strieber
+      - node_id: 55180311-d8bf-4d7a-ad49-c4364880b38f
+        title: Esalen Institute
+        slug: esalen-institute
+    date: null
+    date_end: null
+    location_in_record: ch18:13859-14055
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 759e8d7b-a820-4e00-bdc3-9aebf9e4b1b1
+      record_title: The Fourth Mind
+      record_date: '2025-01-15'
+      record_reference: null
+      content_hash: sha256:524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008e17102e7
+      friendly_name: 2025-01-15-ebook-the-fourth-mind
+  - claim_id: 92d2cdb6-0d36-40ab-acfb-9579174d482a
+    claim_hash: ad16b935cf83e5fcff8f673558a9a942b0450d499f6ca923af97f3b8f6e12a1e
+    content: During a night at the Esalen Institute with Jeff Kripal sleeping in a second bed, Whitley Strieber and then Jeff
+      Kripal each experienced a brief physical contact with a visitor.
+    original_excerpt: one night when Jeff was sleeping in the second bed, there was a brief physical contact, first with me,
+      then a few minutes later with him.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+      title: Whitley Strieber
+    provenance_chain:
+      origin_kind: speaker
+      origin: Whitley Strieber
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+        title: Whitley Strieber
+        slug: whitley-strieber
+      - node_id: 55180311-d8bf-4d7a-ad49-c4364880b38f
+        title: Esalen Institute
+        slug: esalen-institute
+      - node_id: c4e4e422-f2b5-4ed3-ae65-ec244ddcc14a
+        title: Jeffrey Kripal
+        slug: jeffrey-kripal
+    date: null
+    date_end: null
+    location_in_record: ch18:14121-14254
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 759e8d7b-a820-4e00-bdc3-9aebf9e4b1b1
+      record_title: The Fourth Mind
+      record_date: '2025-01-15'
+      record_reference: null
+      content_hash: sha256:524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008e17102e7
+      friendly_name: 2025-01-15-ebook-the-fourth-mind
+  - claim_id: 77035cd9-0d1b-415a-9576-b72af74b7274
+    claim_hash: 892aa7be783e74695ae14d9f90ca240e04fdd04e6a7055ee046423276ba24965
+    content: During the contact experience at the Esalen Institute, Jeff Kripal heard a great noise as if of glass breaking,
+      followed by his own voice crying out from within himself, "Oh my God!"
+    original_excerpt: He heard a great noise as if of glass breaking and then his own voice crying out from deep within himself,
+      “Oh my God!”
+    claim_type: testimony
+    attestation: second_hand
+    speaker:
+      node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+      title: Whitley Strieber
+    provenance_chain:
+      origin_kind: named
+      origin: Jeff Kripal
+      relay:
+        - Whitley Strieber
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 55180311-d8bf-4d7a-ad49-c4364880b38f
+        title: Esalen Institute
+        slug: esalen-institute
+      - node_id: c4e4e422-f2b5-4ed3-ae65-ec244ddcc14a
+        title: Jeffrey Kripal
+        slug: jeffrey-kripal
+    date: null
+    date_end: null
+    location_in_record: ch18:14355-14469
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 759e8d7b-a820-4e00-bdc3-9aebf9e4b1b1
+      record_title: The Fourth Mind
+      record_date: '2025-01-15'
+      record_reference: null
+      content_hash: sha256:524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008e17102e7
+      friendly_name: 2025-01-15-ebook-the-fourth-mind
+  - claim_id: 6f55c982-f4ca-45ce-92ad-78a0a973c09d
+    claim_hash: c8a3cb87093cf0e28abb7dd5f3d8ecdaa9bd742f81c28b555e699f45cb350b28
+    content: Before Skywatcher was established, Ross Coulthart was invited by Alex Klokus to an event at the Esalen Institute
+      to speak to an audience of potential investors.
+    original_excerpt: Prior to the establishment of Skywatcher, there was an event that I was invited to by Alex Klokus, who's
+      one of the co-founders of Skywatcher... he invited me to come to Esalen to speak to that audience.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+      title: Ross Coulthart
+    provenance_chain:
+      origin_kind: speaker
+      origin: Ross Coulthart
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 0c15657f-8c99-43ad-8912-d2841ba0634f
+        title: Esalen Institute Skywatcher psionic inviting demonstration
+        slug: esalen-institute-skywatcher-psionic-inviting-demonstration
+      - node_id: 55180311-d8bf-4d7a-ad49-c4364880b38f
+        title: Esalen Institute
+        slug: esalen-institute
+      - node_id: 8b6e0178-0856-47b3-a14a-780d2bb8b63d
+        title: Alex Klokus
+        slug: alex-klokus
+      - node_id: ad4c5ffb-29fc-42b3-a3cc-29ed186d5456
+        title: USA, California, Big Sur
+        slug: california-big-sur-usa
+      - node_id: d0e1ccf0-977b-4550-be92-02d4075be4ae
+        title: Skywatcher
+        slug: skywatcher
+      - node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+        title: Ross Coulthart
+        slug: ross-coulthart
+    date: null
+    date_end: null
+    location_in_record: 02:20:44.4-02:20:52.6
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: fd845823-8784-462c-a981-4775525b6f84
+      record_title: The DANGEROUS Truth About UFOs - Ross Coulthart | DEBRIEFED ep. 76
+      record_date: '2026-02-20'
+      record_reference: https://www.youtube.com/watch?v=idBryc0eWww
+      content_hash: sha256:73be106d406f6d35a063a894e8384e7da0918eb8597d2107a9e3653becca2bdc
+      friendly_name: null
+  - claim_id: 6a347cdc-2d5f-4d08-816f-1530cedb6324
+    claim_hash: ffaff2415a580c5c79035d0b4d5ebdb68c2e43a6c8ebd26acea734e561cf6ea1
+    content: The Esalen Institute event was an opportunity to show potential investors what Skywatcher aspired to do scientifically.
+    original_excerpt: this was an opportunity to show to potential investors what Skywatcher aspired to do science-wise
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+      title: Ross Coulthart
+    provenance_chain:
+      origin_kind: speaker
+      origin: Ross Coulthart
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 0c15657f-8c99-43ad-8912-d2841ba0634f
+        title: Esalen Institute Skywatcher psionic inviting demonstration
+        slug: esalen-institute-skywatcher-psionic-inviting-demonstration
+      - node_id: 55180311-d8bf-4d7a-ad49-c4364880b38f
+        title: Esalen Institute
+        slug: esalen-institute
+      - node_id: d0e1ccf0-977b-4550-be92-02d4075be4ae
+        title: Skywatcher
+        slug: skywatcher
+    date: null
+    date_end: null
+    location_in_record: 02:21:03.1-02:21:09.9
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: fd845823-8784-462c-a981-4775525b6f84
+      record_title: The DANGEROUS Truth About UFOs - Ross Coulthart | DEBRIEFED ep. 76
+      record_date: '2026-02-20'
+      record_reference: https://www.youtube.com/watch?v=idBryc0eWww
+      content_hash: sha256:73be106d406f6d35a063a894e8384e7da0918eb8597d2107a9e3653becca2bdc
+      friendly_name: null
+  - claim_id: b08b29d9-d402-4dcb-85b1-d2af0777365d
+    claim_hash: 9e8f45ee3321dcc3987ad9a025415f215301c436728f33b0ab00b85ddf73583b
+    content: The Esalen Institute Skywatcher event was attended by a group of extremely high net worth people who arrived
+      on private jets.
+    original_excerpt: it was a bunch of extremely high net worth people who came in on their private jets. I've never seen
+      so many private jets in one place at one time.
+    claim_type: observation
+    attestation: first_hand
+    speaker:
+      node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+      title: Ross Coulthart
+    provenance_chain:
+      origin_kind: speaker
+      origin: Ross Coulthart
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 0c15657f-8c99-43ad-8912-d2841ba0634f
+        title: Esalen Institute Skywatcher psionic inviting demonstration
+        slug: esalen-institute-skywatcher-psionic-inviting-demonstration
+      - node_id: 55180311-d8bf-4d7a-ad49-c4364880b38f
+        title: Esalen Institute
+        slug: esalen-institute
+      - node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+        title: Ross Coulthart
+        slug: ross-coulthart
+    date: null
+    date_end: null
+    location_in_record: 02:21:23.3-02:21:31.5
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: fd845823-8784-462c-a981-4775525b6f84
+      record_title: The DANGEROUS Truth About UFOs - Ross Coulthart | DEBRIEFED ep. 76
+      record_date: '2026-02-20'
+      record_reference: https://www.youtube.com/watch?v=idBryc0eWww
+      content_hash: sha256:73be106d406f6d35a063a894e8384e7da0918eb8597d2107a9e3653becca2bdc
+      friendly_name: null
+  - claim_id: 0bacf603-6ba1-4a72-a2bc-7d017b005d3b
+    claim_hash: b864dfb84dabe32269e46b239023a561824167a7cc6f9c7424959bc03fb24bb1
+    content: Jake Barber, David Grusch and Jordan Jozak attended the Skywatcher event at the Esalen Institute.
+    original_excerpt: And Jake Barber came along as well, as did David Grusch, and so did Jordan Jozak, who ended up becoming
+      one of the psionics who was working with Skywatcher.
+    claim_type: observation
+    attestation: first_hand
+    speaker:
+      node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+      title: Ross Coulthart
+    provenance_chain:
+      origin_kind: speaker
+      origin: Ross Coulthart
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 0c15657f-8c99-43ad-8912-d2841ba0634f
+        title: Esalen Institute Skywatcher psionic inviting demonstration
+        slug: esalen-institute-skywatcher-psionic-inviting-demonstration
+      - node_id: 239d0c42-c4e3-4325-82a2-50c20b2c3412
+        title: Jordan Jozak
+        slug: jordan-jozak
+      - node_id: 55180311-d8bf-4d7a-ad49-c4364880b38f
+        title: Esalen Institute
+        slug: esalen-institute
+      - node_id: a0bc0de8-1d81-44e5-96a7-30706ccc34a4
+        title: Jake Barber
+        slug: jake-barber
+      - node_id: d0e1ccf0-977b-4550-be92-02d4075be4ae
+        title: Skywatcher
+        slug: skywatcher
+      - node_id: d4241f5a-1063-4970-ba02-5a391c02d96d
+        title: David Charles Grusch
+        slug: david-charles-grusch
+    date: null
+    date_end: null
+    location_in_record: 02:21:33.1-02:21:44.5
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: fd845823-8784-462c-a981-4775525b6f84
+      record_title: The DANGEROUS Truth About UFOs - Ross Coulthart | DEBRIEFED ep. 76
+      record_date: '2026-02-20'
+      record_reference: https://www.youtube.com/watch?v=idBryc0eWww
+      content_hash: sha256:73be106d406f6d35a063a894e8384e7da0918eb8597d2107a9e3653becca2bdc
+      friendly_name: null
+  - claim_id: 6647627d-ee5d-490e-be70-35118ea85bfa
+    claim_hash: b3305d47dc6e7a5141d78d11999e9f552c33a35db6472bb0425de0d39c5334a9
+    content: The aim at the Esalen Institute event was to give Jordan Jozak the opportunity to demonstrate psionic inviting.
+    original_excerpt: What we were aspiring to do at Esalen was to give Jordan the opportunity to demonstrate psionic inviting.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+      title: Ross Coulthart
+    provenance_chain:
+      origin_kind: speaker
+      origin: Ross Coulthart
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 0c15657f-8c99-43ad-8912-d2841ba0634f
+        title: Esalen Institute Skywatcher psionic inviting demonstration
+        slug: esalen-institute-skywatcher-psionic-inviting-demonstration
+      - node_id: 239d0c42-c4e3-4325-82a2-50c20b2c3412
+        title: Jordan Jozak
+        slug: jordan-jozak
+      - node_id: 55180311-d8bf-4d7a-ad49-c4364880b38f
+        title: Esalen Institute
+        slug: esalen-institute
+      - node_id: 59e5adca-0786-4ef8-ad50-674371180a4a
+        title: psionics
+        slug: psionics
+    date: null
+    date_end: null
+    location_in_record: 02:22:01.9-02:22:10.1
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: fd845823-8784-462c-a981-4775525b6f84
+      record_title: The DANGEROUS Truth About UFOs - Ross Coulthart | DEBRIEFED ep. 76
+      record_date: '2026-02-20'
+      record_reference: https://www.youtube.com/watch?v=idBryc0eWww
+      content_hash: sha256:73be106d406f6d35a063a894e8384e7da0918eb8597d2107a9e3653becca2bdc
+      friendly_name: null
+  - claim_id: f4d9ee61-d5f5-40e5-b9aa-aa5d45cfe755
+    claim_hash: 402d5e6fc3b3b46a347850c8edc8e8b68cb1add5237ad0b63ddc1bd92ed26569
+    content: Jordan Jozak's statement about a blue hexagonal craft was made in front of David Grusch, Alex Klokus and a number
+      of the premier investors, in Alex Klokus's hotel room at the Esalen Institute.
+    original_excerpt: He said this in front of David Grusch, in front of Alex Klokus, and in front of a number of the premier
+      investors. We were sitting in Alex Klokus's hotel room at Esalen
+    claim_type: observation
+    attestation: first_hand
+    speaker:
+      node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+      title: Ross Coulthart
+    provenance_chain:
+      origin_kind: speaker
+      origin: Ross Coulthart
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 239d0c42-c4e3-4325-82a2-50c20b2c3412
+        title: Jordan Jozak
+        slug: jordan-jozak
+      - node_id: 55180311-d8bf-4d7a-ad49-c4364880b38f
+        title: Esalen Institute
+        slug: esalen-institute
+      - node_id: 6a174ff1-da8e-4674-8b4a-6b62b2182ec5
+        title: Esalen blue hexagonal orb photographs
+        slug: esalen-blue-hexagonal-orb-photographs
+      - node_id: 8b6e0178-0856-47b3-a14a-780d2bb8b63d
+        title: Alex Klokus
+        slug: alex-klokus
+      - node_id: d4241f5a-1063-4970-ba02-5a391c02d96d
+        title: David Charles Grusch
+        slug: david-charles-grusch
+    date: null
+    date_end: null
+    location_in_record: 02:22:58.3-02:23:09.9
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: fd845823-8784-462c-a981-4775525b6f84
+      record_title: The DANGEROUS Truth About UFOs - Ross Coulthart | DEBRIEFED ep. 76
+      record_date: '2026-02-20'
+      record_reference: https://www.youtube.com/watch?v=idBryc0eWww
+      content_hash: sha256:73be106d406f6d35a063a894e8384e7da0918eb8597d2107a9e3653becca2bdc
+      friendly_name: null
+  - claim_id: bb22128a-6a40-4c20-bac1-a37d79a60565
+    claim_hash: 616153afc81f296eca6ea481333fc6a18a772609c0f80fbb43c0f43a44839a05
+    content: The Esalen Institute is a spiritual retreat sitting directly above the Pacific Ocean, about three hours' drive
+      south of San Francisco.
+    original_excerpt: a spiritual retreat that sits right over the Pacific Ocean, but three hours drive south of San Francisco
+    claim_type: administrative
+    attestation: null
+    speaker:
+      node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+      title: Ross Coulthart
+    provenance_chain:
+      origin_kind: unattributed
+      origin: Ross Coulthart's narration
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 55180311-d8bf-4d7a-ad49-c4364880b38f
+        title: Esalen Institute
+        slug: esalen-institute
+      - node_id: 5d5aa4e3-7bc3-4206-97e9-86ceeb333478
+        title: USA, California, San Francisco
+        slug: california-san-francisco-usa
+      - node_id: ad4c5ffb-29fc-42b3-a3cc-29ed186d5456
+        title: USA, California, Big Sur
+        slug: california-big-sur-usa
+    date: null
+    date_end: null
+    location_in_record: 02:23:18.2-02:23:23.8
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: fd845823-8784-462c-a981-4775525b6f84
+      record_title: The DANGEROUS Truth About UFOs - Ross Coulthart | DEBRIEFED ep. 76
+      record_date: '2026-02-20'
+      record_reference: https://www.youtube.com/watch?v=idBryc0eWww
+      content_hash: sha256:73be106d406f6d35a063a894e8384e7da0918eb8597d2107a9e3653becca2bdc
+      friendly_name: null
+  - claim_id: dd425b06-9728-4378-a9e3-95363bd55f94
+    claim_hash: 298035b761a749f9abe0c5a4dca55c4fc39ada1c2fd49bba79300a5a818259ec
+    content: The Esalen Institute at Big Sur has hot springs and pools where visitors bathe naked.
+    original_excerpt: know that it has hot springs, beautiful pools where people can take their clothes off and sit in the
+      pools.
+    claim_type: observation
+    attestation: first_hand
+    speaker:
+      node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+      title: Ross Coulthart
+    provenance_chain:
+      origin_kind: speaker
+      origin: Ross Coulthart
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 55180311-d8bf-4d7a-ad49-c4364880b38f
+        title: Esalen Institute
+        slug: esalen-institute
+      - node_id: ad4c5ffb-29fc-42b3-a3cc-29ed186d5456
+        title: USA, California, Big Sur
+        slug: california-big-sur-usa
+      - node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+        title: Ross Coulthart
+        slug: ross-coulthart
+    date: null
+    date_end: null
+    location_in_record: 02:23:29.8-02:23:37.2
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: fd845823-8784-462c-a981-4775525b6f84
+      record_title: The DANGEROUS Truth About UFOs - Ross Coulthart | DEBRIEFED ep. 76
+      record_date: '2026-02-20'
+      record_reference: https://www.youtube.com/watch?v=idBryc0eWww
+      content_hash: sha256:73be106d406f6d35a063a894e8384e7da0918eb8597d2107a9e3653becca2bdc
+      friendly_name: null
+  - claim_id: bb411521-c9fa-4a23-9acd-6f9c7be81e96
+    claim_hash: 6460b5aa4ccb3049626ba67980e0b58951aa062fa53d8729bfa3c27875dced49
+    content: At the Esalen Institute Skywatcher psionic inviting demonstration, participants lay on yoga mats on the grass
+      and were invited to meditate and open their minds to inviting a non-human intelligence.
+    original_excerpt: we very seriously sat down on our yoga mats and lay down on the grass, and we were invited to meditate
+      and open our minds to the idea of inviting a non-human intelligence.
+    claim_type: observation
+    attestation: first_hand
+    speaker:
+      node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+      title: Ross Coulthart
+    provenance_chain:
+      origin_kind: speaker
+      origin: Ross Coulthart
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 0c15657f-8c99-43ad-8912-d2841ba0634f
+        title: Esalen Institute Skywatcher psionic inviting demonstration
+        slug: esalen-institute-skywatcher-psionic-inviting-demonstration
+      - node_id: 55180311-d8bf-4d7a-ad49-c4364880b38f
+        title: Esalen Institute
+        slug: esalen-institute
+      - node_id: 59e5adca-0786-4ef8-ad50-674371180a4a
+        title: psionics
+        slug: psionics
+      - node_id: 9c74d864-957a-4654-a5b6-1249fe654ec7
+        title: Non-Human Intelligence
+        slug: non-human-intelligence
+      - node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+        title: Ross Coulthart
+        slug: ross-coulthart
+    date: null
+    date_end: null
+    location_in_record: 02:24:14.1-02:24:23.5
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: fd845823-8784-462c-a981-4775525b6f84
+      record_title: The DANGEROUS Truth About UFOs - Ross Coulthart | DEBRIEFED ep. 76
+      record_date: '2026-02-20'
+      record_reference: https://www.youtube.com/watch?v=idBryc0eWww
+      content_hash: sha256:73be106d406f6d35a063a894e8384e7da0918eb8597d2107a9e3653becca2bdc
+      friendly_name: null
+  - claim_id: 50b9e51e-ea47-4e26-8db3-2e67f3ad2f16
+    claim_hash: e5554dd0be66e7d36bbc205acb19afc5599dddd76346a6548701ac16b3a5b318
+    content: Alex Klokus arranged the Esalen Institute Skywatcher psionic inviting demonstration with an even split of 50
+      per cent men and 50 per cent women.
+    original_excerpt: What I loved about Esalen was he'd done 50% men, 50% women.
+    claim_type: observation
+    attestation: first_hand
+    speaker:
+      node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+      title: Ross Coulthart
+    provenance_chain:
+      origin_kind: speaker
+      origin: Ross Coulthart
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 0c15657f-8c99-43ad-8912-d2841ba0634f
+        title: Esalen Institute Skywatcher psionic inviting demonstration
+        slug: esalen-institute-skywatcher-psionic-inviting-demonstration
+      - node_id: 55180311-d8bf-4d7a-ad49-c4364880b38f
+        title: Esalen Institute
+        slug: esalen-institute
+      - node_id: 8b6e0178-0856-47b3-a14a-780d2bb8b63d
+        title: Alex Klokus
+        slug: alex-klokus
+    date: null
+    date_end: null
+    location_in_record: 02:26:17.9-02:26:21.8
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: fd845823-8784-462c-a981-4775525b6f84
+      record_title: The DANGEROUS Truth About UFOs - Ross Coulthart | DEBRIEFED ep. 76
+      record_date: '2026-02-20'
+      record_reference: https://www.youtube.com/watch?v=idBryc0eWww
+      content_hash: sha256:73be106d406f6d35a063a894e8384e7da0918eb8597d2107a9e3653becca2bdc
+      friendly_name: null
+  - claim_id: a5468d3c-1842-4fa7-b1a7-615329dbce28
+    claim_hash: e89ae1498b00bd3ebb47c3e5f846a088025b8823d21dae7ba28fe6dbf24aed0c
+    content: One of the Esalen blue hexagonal orb photographs shows swirling faces in a translucent mist, adjacent to the
+      hot springs at the Esalen Institute, viewed from the hill below the main meeting room.
+    original_excerpt: you see adjacent to the hot springs where all these young men and women were buck naked swimming in
+      the hot springs, swirling faces in a kind of a translucent mist.
+    claim_type: observation
+    attestation: first_hand
+    speaker:
+      node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+      title: Ross Coulthart
+    provenance_chain:
+      origin_kind: speaker
+      origin: Ross Coulthart
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 55180311-d8bf-4d7a-ad49-c4364880b38f
+        title: Esalen Institute
+        slug: esalen-institute
+      - node_id: 6a174ff1-da8e-4674-8b4a-6b62b2182ec5
+        title: Esalen blue hexagonal orb photographs
+        slug: esalen-blue-hexagonal-orb-photographs
+      - node_id: ad4c5ffb-29fc-42b3-a3cc-29ed186d5456
+        title: USA, California, Big Sur
+        slug: california-big-sur-usa
+      - node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+        title: Ross Coulthart
+        slug: ross-coulthart
+    date: null
+    date_end: null
+    location_in_record: 02:28:17.0-02:28:27.1
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: fd845823-8784-462c-a981-4775525b6f84
+      record_title: The DANGEROUS Truth About UFOs - Ross Coulthart | DEBRIEFED ep. 76
+      record_date: '2026-02-20'
+      record_reference: https://www.youtube.com/watch?v=idBryc0eWww
+      content_hash: sha256:73be106d406f6d35a063a894e8384e7da0918eb8597d2107a9e3653becca2bdc
+      friendly_name: null
+  - claim_id: 444ec61a-dfbb-448e-99c6-704fc4411677
+    claim_hash: 81f1d4b2ee9e73a2ea4e3bc4dd67e64bed404bc14e3f823e09342a82af14692f
+    content: People present at the Esalen Institute told Ross Coulthart they had seen with their own eyes the swirling faces
+      in translucent mist near the hot springs, so it was not only visible in the photograph.
+    original_excerpt: People who'd been there told me they'd seen that. So it's not just something on the photograph.
+    claim_type: hearsay
+    attestation: second_hand
+    speaker:
+      node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+      title: Ross Coulthart
+    provenance_chain:
+      origin_kind: anonymous
+      origin: people claiming to have been present at the Esalen Institute gathering
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 55180311-d8bf-4d7a-ad49-c4364880b38f
+        title: Esalen Institute
+        slug: esalen-institute
+      - node_id: 6a174ff1-da8e-4674-8b4a-6b62b2182ec5
+        title: Esalen blue hexagonal orb photographs
+        slug: esalen-blue-hexagonal-orb-photographs
+      - node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+        title: Ross Coulthart
+        slug: ross-coulthart
+    date: null
+    date_end: null
+    location_in_record: 02:28:34.0-02:28:38.9
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: fd845823-8784-462c-a981-4775525b6f84
+      record_title: The DANGEROUS Truth About UFOs - Ross Coulthart | DEBRIEFED ep. 76
+      record_date: '2026-02-20'
+      record_reference: https://www.youtube.com/watch?v=idBryc0eWww
+      content_hash: sha256:73be106d406f6d35a063a894e8384e7da0918eb8597d2107a9e3653becca2bdc
+      friendly_name: null
+  - claim_id: 8bf52c70-152c-4b01-a197-74a398cbd3fc
+    claim_hash: 584d83f46f053b105073bbfdd685f120d7a3174d569b32fe57fe6f91d97c97e2
+    content: Whitley Strieber has seen the Non-Human Intelligence beings from time to time at isolated places including the
+      Esalen Institute, and there seeks to stay in a room convenient for them to enter.
+    original_excerpt: when I go out to places, isolated places where I've seen them from time to time, like the Esalen Institute,
+      what I want to do is be in a room where it's convenient for them to come.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+      title: Whitley Strieber
+    provenance_chain:
+      origin_kind: speaker
+      origin: Whitley Strieber
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+        title: Whitley Strieber
+        slug: whitley-strieber
+      - node_id: 55180311-d8bf-4d7a-ad49-c4364880b38f
+        title: Esalen Institute
+        slug: esalen-institute
+      - node_id: 9c74d864-957a-4654-a5b6-1249fe654ec7
+        title: Non-Human Intelligence
+        slug: non-human-intelligence
+    date: null
+    date_end: null
+    location_in_record: 00:48:39.2-00:48:48.9
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 9302c6b2-133d-4cbb-adfa-5d1f0bd3e7ac
+      record_title: The Terrible Truth About the Visitors - Whitley Strieber | ep. 96
+      record_date: '2026-07-24'
+      record_reference: https://www.youtube.com/watch?v=Cv-sk4vt-qU
+      content_hash: sha256:456dbde0ab82ee8e216bdad2d1a0bf2a0b42622a167af19058f973050b035084
+      friendly_name: null

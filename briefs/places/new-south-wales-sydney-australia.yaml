@@ -1,0 +1,1278 @@
+schema: anomalica/brief/1
+brief_hash: aa1791f01dd147cfde80f20d0fbc8ea334d53ca030100a457f031c2f2886d22f
+page:
+  kind: entity
+  node_id: c0e7a75a-6931-4d2b-8f96-ac29ab9262a3
+  node_type: place
+  title: Australia, New South Wales, Sydney
+  slug: new-south-wales-sydney-australia
+  claim_count: 29
+  claim_count_total: 29
+generated:
+  graph_version: '2026-09-01T10:10:49.863545+00:00'
+size:
+  claims: 29
+  tokens_estimated: 9121
+  sized_against: 1050000
+publication:
+  status: published
+  note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
+    transcripts are gated elsewhere.
+belonging:
+  verified: 0
+  suspect_excluded: 0
+  unreviewed: 29
+related_nodes:
+  - node_id: 98e50374-da8a-4414-998b-d42fce1cd3d7
+    title: Peter Khoury
+    node_type: person
+    slug: peter-khoury
+    shared_claims: 13
+  - node_id: d22bbc9a-c18b-445b-8798-e4c29c1ad7de
+    title: Peter Khoury alien abduction case
+    node_type: event
+    slug: peter-khoury-alien-abduction-case
+    shared_claims: 4
+  - node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+    title: Ross Coulthart
+    node_type: person
+    slug: ross-coulthart
+    shared_claims: 4
+  - node_id: 3ff75793-423c-4333-8402-d5c543074091
+    title: Bill Chalker
+    node_type: person
+    slug: bill-chalker
+    shared_claims: 3
+  - node_id: 561a0780-b8e4-443b-a1ad-db626660ed6b
+    title: Chinese Mongoloid mitochondrial Deoxyribonucleic Acid (DNA) substitution found in Peter Khoury's alien hair shaft
+    node_type: event
+    slug: chinese-mongoloid-mitochondrial-deoxyribonucleic-acid-dna-substitution-found-in-peter-khourys-alien-hair-shaft
+    shared_claims: 3
+  - node_id: 1a572b0e-dc80-4671-ac08-a32ef6842b71
+    title: 1976 New South Wales woman (Communion letter case)
+    node_type: person
+    slug: 1976-new-south-wales-woman-communion-letter-case
+    shared_claims: 2
+  - node_id: 863be258-ae0e-47b4-89fb-59647e33d564
+    title: 1992-07-23 Peter Khoury bedroom encounter
+    node_type: event
+    slug: 1992-07-23-peter-khoury-bedroom-encounter
+    shared_claims: 2
+  - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
+    title: Unidentified Flying Object (UFO)
+    node_type: topic
+    slug: unidentified-flying-object-ufo
+    shared_claims: 2
+  - node_id: 1b81f385-7729-483e-9ec9-3d6b9dd28dcd
+    title: 1980 Nugan Hand Bank collapse
+    node_type: event
+    slug: 1980-nugan-hand-bank-collapse
+    shared_claims: 1
+  - node_id: 98eeed83-96a9-45ef-bb14-cb915d45fc9c
+    title: Alien abduction
+    node_type: topic
+    slug: alien-abduction
+    shared_claims: 1
+  - node_id: 3e7634d4-9639-4ddd-a1a5-52063e67cf4c
+    title: Australia, Tasmania, Hobart
+    node_type: place
+    slug: tasmania-hobart-australia
+    shared_claims: 1
+  - node_id: db7170bd-ea41-4851-8bd2-8aba8c0fa4f4
+    title: Australia, Victoria, Melbourne
+    node_type: place
+    slug: victoria-melbourne-australia
+    shared_claims: 1
+  - node_id: e300f168-782f-4fd0-8291-3b863836fe03
+    title: Australian Government
+    node_type: organisation
+    slug: australian-government
+    shared_claims: 1
+  - node_id: 1323abef-7286-4c62-83cc-c463a096c98c
+    title: Brian Woolch
+    node_type: person
+    slug: brian-woolch
+    shared_claims: 1
+  - node_id: fdd724f2-0b15-4664-8f9c-a17be751ec9c
+    title: Harvard University
+    node_type: organisation
+    slug: harvard-university
+    shared_claims: 1
+  - node_id: 46886954-19d1-4d21-861a-9e653fb096a3
+    title: James MacDonald
+    node_type: person
+    slug: james-macdonald
+    shared_claims: 1
+  - node_id: 85edce4a-02ca-468d-9877-e5f4f839d169
+    title: Jamie Leonarder
+    node_type: person
+    slug: jamie-leonarder
+    shared_claims: 1
+  - node_id: d0a6ce69-4f5f-456b-a83c-b68a680224be
+    title: John Mack
+    node_type: person
+    slug: john-mack
+    shared_claims: 1
+  - node_id: 0ebb2d59-f1cf-475c-870f-19d8ca33e6f8
+    title: Mitochondrial Deoxyribonucleic Acid (DNA)
+    node_type: topic
+    slug: mitochondrial-deoxyribonucleic-acid-dna
+    shared_claims: 1
+  - node_id: 9c74d864-957a-4654-a5b6-1249fe654ec7
+    title: Non-Human Intelligence
+    node_type: topic
+    slug: non-human-intelligence
+    shared_claims: 1
+  - node_id: c777e081-0b5d-481b-b67d-79fe4b9b6d00
+    title: Nugan Hand Bank
+    node_type: organisation
+    slug: nugan-hand-bank
+    shared_claims: 1
+  - node_id: 6b271133-f71f-4b4d-9a81-e7cdaf920b0f
+    title: Sydney family home footsteps and 1988 encounter house
+    node_type: place
+    slug: sydney-family-home-footsteps-and-1988-encounter-house
+    shared_claims: 1
+  - node_id: d3988ff3-26a2-4e46-8eac-cc507b1a2886
+    title: UFO Experience Support Association (UFOESA)
+    node_type: organisation
+    slug: ufo-experience-support-association-ufoesa
+    shared_claims: 1
+  - node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+    title: Whitley Strieber
+    node_type: person
+    slug: whitley-strieber
+    shared_claims: 1
+  - node_id: ebbcbfb6-214c-44f3-b3b3-837c9882211e
+    title: manipulation of human perception by the phenomenon
+    node_type: topic
+    slug: manipulation-of-human-perception-by-the-phenomenon
+    shared_claims: 1
+claims:
+  - claim_id: 92b26b56-e12d-4cc6-8827-4a3acab16e3c
+    claim_hash: e7c1f6b4512c526489f18ba52353409d0bc265d0c566dad3f5aa31d28020111f
+    content: Jamie Leonarder was a welfare worker with a Sydney welfare agency that provided support for down-and-out street
+      people, including those with drug and other dependency problems and destitute individuals.
+    original_excerpt: He was a welfare worker with a Sydney welfare agency that provided support for down and out street people.
+      These included those with drug and other dependency problems, destitute individuals, and other people on the fringe
+      of society.
+    claim_type: administrative
+    attestation: first_hand
+    speaker:
+      node_id: 3ff75793-423c-4333-8402-d5c543074091
+      title: Bill Chalker
+    provenance_chain:
+      origin_kind: speaker
+      origin: Bill Chalker
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 85edce4a-02ca-468d-9877-e5f4f839d169
+        title: Jamie Leonarder
+        slug: jamie-leonarder
+      - node_id: c0e7a75a-6931-4d2b-8f96-ac29ab9262a3
+        title: Australia, New South Wales, Sydney
+        slug: new-south-wales-sydney-australia
+    date: null
+    date_end: null
+    location_in_record: ch10:5569-5795
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 32687cf8-a827-40a9-b9f4-308ca4d9b2b3
+      record_title: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
+      record_date: '2005-11-14'
+      record_reference: null
+      content_hash: sha256:c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95d6ac9c3b
+      friendly_name: 2005-11-14-ebook-hair-of-the-alien-dna-and-other-forensic-evidence-for-alien
+  - claim_id: 76e8da5d-a291-4705-b6bb-6f50aa4d2e64
+    claim_hash: 6c8619be73720e89bb8926e29fadea3f8b5afcf27fb9f4242555f9ad6ca90274
+    content: The UFO Experience Support Association (UFOESA) was based in Sydney and became one of the most notable manifestations
+      of the support group concept in Australia.
+    original_excerpt: UFOESA, based in Sydney, went on to become one of the most notable manifestations of the support group
+      concept in Australia.
+    claim_type: observation
+    attestation: first_hand
+    speaker:
+      node_id: 3ff75793-423c-4333-8402-d5c543074091
+      title: Bill Chalker
+    provenance_chain:
+      origin_kind: speaker
+      origin: Bill Chalker
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: c0e7a75a-6931-4d2b-8f96-ac29ab9262a3
+        title: Australia, New South Wales, Sydney
+        slug: new-south-wales-sydney-australia
+      - node_id: d3988ff3-26a2-4e46-8eac-cc507b1a2886
+        title: UFO Experience Support Association (UFOESA)
+        slug: ufo-experience-support-association-ufoesa
+    date: null
+    date_end: null
+    location_in_record: ch10:7261-7375
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 32687cf8-a827-40a9-b9f4-308ca4d9b2b3
+      record_title: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
+      record_date: '2005-11-14'
+      record_reference: null
+      content_hash: sha256:c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95d6ac9c3b
+      friendly_name: 2005-11-14-ebook-hair-of-the-alien-dna-and-other-forensic-evidence-for-alien
+  - claim_id: 9ad45189-4712-4889-8a13-f2631fb10e6d
+    claim_hash: 1326697cbed4725da660e84acc55b63133fd52747e58de76d4d5b9d6b845a836
+    content: A chief biochemist analysing the alien hair sample considered it not impossible for Peter Khoury to have had
+      sexual contact with a fair-skinned, nearly albino female from the Sydney area, but concluded such an explanation is
+      ruled out by the DNA evidence, which fits only a Chinese Mongoloid donor.
+    original_excerpt: While it would not be impossible for him to have had sexual contact with some fair-skinned, nearly-albino
+      female from the Sydney area, such an explanation is ruled out by the DNA evidence, which fits only a Chinese Mongoloid
+      as a donor of the hair.
+    claim_type: opinion
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: anonymous
+      origin: '[Anomaly Physical Evidence Group (APEG) biochemist]'
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 561a0780-b8e4-443b-a1ad-db626660ed6b
+        title: Chinese Mongoloid mitochondrial Deoxyribonucleic Acid (DNA) substitution found in Peter Khoury's alien hair
+          shaft
+        slug: chinese-mongoloid-mitochondrial-deoxyribonucleic-acid-dna-substitution-found-in-peter-khourys-alien-hair-shaft
+      - node_id: 98e50374-da8a-4414-998b-d42fce1cd3d7
+        title: Peter Khoury
+        slug: peter-khoury
+      - node_id: c0e7a75a-6931-4d2b-8f96-ac29ab9262a3
+        title: Australia, New South Wales, Sydney
+        slug: new-south-wales-sydney-australia
+    date: null
+    date_end: null
+    location_in_record: ch12:12677-12920
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 32687cf8-a827-40a9-b9f4-308ca4d9b2b3
+      record_title: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
+      record_date: '2005-11-14'
+      record_reference: null
+      content_hash: sha256:c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95d6ac9c3b
+      friendly_name: 2005-11-14-ebook-hair-of-the-alien-dna-and-other-forensic-evidence-for-alien
+  - claim_id: 35be1b05-3b3e-4d4c-8f1e-9761bf710370
+    claim_hash: 4a6fa17e875a443042cac7ff4cc8f4d2cac12737c94a64f0735c058845d9ed29
+    content: The rare DNA substitution seen in Peter Khoury's alien hair sample is found in just 4% of Taiwanese women, and
+      it would not be plausible to find a Chinese woman in Sydney with thin, almost clear hair having the same rare DNA.
+    original_excerpt: while it might be possible to find a few Chinese in Sydney with the same DNA as seen in just 4% of Taiwanese
+      women, it would not be plausible to find a Chinese woman here with thin, almost clear hair, having the same rare DNA
+    claim_type: opinion
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: anonymous
+      origin: '[Anomaly Physical Evidence Group (APEG) biochemist]'
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 561a0780-b8e4-443b-a1ad-db626660ed6b
+        title: Chinese Mongoloid mitochondrial Deoxyribonucleic Acid (DNA) substitution found in Peter Khoury's alien hair
+          shaft
+        slug: chinese-mongoloid-mitochondrial-deoxyribonucleic-acid-dna-substitution-found-in-peter-khourys-alien-hair-shaft
+      - node_id: c0e7a75a-6931-4d2b-8f96-ac29ab9262a3
+        title: Australia, New South Wales, Sydney
+        slug: new-south-wales-sydney-australia
+    date: null
+    date_end: null
+    location_in_record: ch12:12940-13162
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 32687cf8-a827-40a9-b9f4-308ca4d9b2b3
+      record_title: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
+      record_date: '2005-11-14'
+      record_reference: null
+      content_hash: sha256:c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95d6ac9c3b
+      friendly_name: 2005-11-14-ebook-hair-of-the-alien-dna-and-other-forensic-evidence-for-alien
+  - claim_id: 84a8a6d4-61ec-48ff-acf0-3868e0258d2d
+    claim_hash: bb98309bed378aec0d4769e3121f19aab8095970f1b29c460c6aabad28b10992
+    content: The DNA results support the claim that Peter Khoury was in the presence of two very unusual persons with apparently
+      rare mitochondrial DNA, not easily found in the Sydney, Australia region.
+    original_excerpt: This possibility still supports the claim that Peter Khoury was in the presence of two very unusual
+      persons with apparently rare mitochondrial DNA, not easily found in the Sydney, Australia, region.
+    claim_type: opinion
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 561a0780-b8e4-443b-a1ad-db626660ed6b
+        title: Chinese Mongoloid mitochondrial Deoxyribonucleic Acid (DNA) substitution found in Peter Khoury's alien hair
+          shaft
+        slug: chinese-mongoloid-mitochondrial-deoxyribonucleic-acid-dna-substitution-found-in-peter-khourys-alien-hair-shaft
+      - node_id: 98e50374-da8a-4414-998b-d42fce1cd3d7
+        title: Peter Khoury
+        slug: peter-khoury
+      - node_id: c0e7a75a-6931-4d2b-8f96-ac29ab9262a3
+        title: Australia, New South Wales, Sydney
+        slug: new-south-wales-sydney-australia
+    date: null
+    date_end: null
+    location_in_record: ch12:17814-18005
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 32687cf8-a827-40a9-b9f4-308ca4d9b2b3
+      record_title: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
+      record_date: '2005-11-14'
+      record_reference: null
+      content_hash: sha256:c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95d6ac9c3b
+      friendly_name: 2005-11-14-ebook-hair-of-the-alien-dna-and-other-forensic-evidence-for-alien
+  - claim_id: 8eb22f1f-fdd0-4e2f-9f9d-6e2fbff803bb
+    claim_hash: 642088510a48f38def029f99d63df22d3d2c09150595a368da23295495daf594
+    content: Harvard psychiatrist John Mack visited Australia in 1996 to research the subject of alien abduction.
+    original_excerpt: When Harvard psychiatrist John Mack visited Australia to research the subject of alien abduction in
+      1996,40 he took the opportunity to regress Peter to try to clarify the 1988 experience beyond the moment of blankness
+      after the needle was inserted in his head.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 98eeed83-96a9-45ef-bb14-cb915d45fc9c
+        title: Alien abduction
+        slug: alien-abduction
+      - node_id: c0e7a75a-6931-4d2b-8f96-ac29ab9262a3
+        title: Australia, New South Wales, Sydney
+        slug: new-south-wales-sydney-australia
+      - node_id: d0a6ce69-4f5f-456b-a83c-b68a680224be
+        title: John Mack
+        slug: john-mack
+      - node_id: fdd724f2-0b15-4664-8f9c-a17be751ec9c
+        title: Harvard University
+        slug: harvard-university
+    date: '1996'
+    date_end: null
+    location_in_record: ch14:13541-13796
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 32687cf8-a827-40a9-b9f4-308ca4d9b2b3
+      record_title: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
+      record_date: '2005-11-14'
+      record_reference: null
+      content_hash: sha256:c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95d6ac9c3b
+      friendly_name: 2005-11-14-ebook-hair-of-the-alien-dna-and-other-forensic-evidence-for-alien
+  - claim_id: 4a1e1608-65f9-4000-a728-432b492c6157
+    claim_hash: 1483192d8276c8484fc5b8fcc5d3290263150c83e9c0d45c8a458ec77ba701ee
+    content: To Bill Chalker's knowledge, only one other account of possible alien hair emerged in Australia, in 1992 and
+      2001.
+    original_excerpt: To my knowledge, only one other account of possible alien hair emerged in Australia, in 1992 and 2001.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 3ff75793-423c-4333-8402-d5c543074091
+      title: Bill Chalker
+    provenance_chain:
+      origin_kind: speaker
+      origin: Bill Chalker
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 3ff75793-423c-4333-8402-d5c543074091
+        title: Bill Chalker
+        slug: bill-chalker
+      - node_id: c0e7a75a-6931-4d2b-8f96-ac29ab9262a3
+        title: Australia, New South Wales, Sydney
+        slug: new-south-wales-sydney-australia
+    date: null
+    date_end: null
+    location_in_record: ch14:3175-3272
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 32687cf8-a827-40a9-b9f4-308ca4d9b2b3
+      record_title: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
+      record_date: '2005-11-14'
+      record_reference: null
+      content_hash: sha256:c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95d6ac9c3b
+      friendly_name: 2005-11-14-ebook-hair-of-the-alien-dna-and-other-forensic-evidence-for-alien
+  - claim_id: f9d1d6ff-3925-4e29-8af2-2dde587444c2
+    claim_hash: e3a62c33c42d081a19505f8edc040d06ba9f18666d60cdb51af590bfef08f88b
+    content: The 1976 New South Wales encounter described to Whitley Strieber took place in late 1976 in New South Wales,
+      Australia, in the middle of the day, while a woman in her early thirties was vacuuming her home.
+    original_excerpt: The case that Strieber passed on to me took place in late 1976 in New South Wales, Australia. It occurred
+      in the middle of the day. A woman in her early thirties was vacuuming her home.
+    claim_type: testimony
+    attestation: third_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: named
+      origin: 1976 New South Wales woman (Communion letter case)
+      relay:
+        - Whitley Strieber
+        - Bill Chalker
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 1a572b0e-dc80-4671-ac08-a32ef6842b71
+        title: 1976 New South Wales woman (Communion letter case)
+        slug: 1976-new-south-wales-woman-communion-letter-case
+      - node_id: c0e7a75a-6931-4d2b-8f96-ac29ab9262a3
+        title: Australia, New South Wales, Sydney
+        slug: new-south-wales-sydney-australia
+    date: '1976'
+    date_end: null
+    location_in_record: ch15:3587-3767
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 32687cf8-a827-40a9-b9f4-308ca4d9b2b3
+      record_title: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
+      record_date: '2005-11-14'
+      record_reference: null
+      content_hash: sha256:c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95d6ac9c3b
+      friendly_name: 2005-11-14-ebook-hair-of-the-alien-dna-and-other-forensic-evidence-for-alien
+  - claim_id: 4e693395-7013-4e33-b9aa-823edd8f9d77
+    claim_hash: da9ebbe663e05f8dce28d19e152ac09e7c7ef44cdb8d8c1fdc20ad413ac45de1
+    content: Bill Chalker spoke to the 1976 New South Wales woman on the phone after receiving her letter, and later interviewed
+      her extensively in person when she came to Sydney.
+    original_excerpt: I spoke to the woman on the phone after receiving her letter and later interviewed her extensively in
+      person when she came to Sydney.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 3ff75793-423c-4333-8402-d5c543074091
+      title: Bill Chalker
+    provenance_chain:
+      origin_kind: speaker
+      origin: Bill Chalker
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 1a572b0e-dc80-4671-ac08-a32ef6842b71
+        title: 1976 New South Wales woman (Communion letter case)
+        slug: 1976-new-south-wales-woman-communion-letter-case
+      - node_id: 3ff75793-423c-4333-8402-d5c543074091
+        title: Bill Chalker
+        slug: bill-chalker
+      - node_id: c0e7a75a-6931-4d2b-8f96-ac29ab9262a3
+        title: Australia, New South Wales, Sydney
+        slug: new-south-wales-sydney-australia
+    date: null
+    date_end: null
+    location_in_record: ch15:6564-6690
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 32687cf8-a827-40a9-b9f4-308ca4d9b2b3
+      record_title: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
+      record_date: '2005-11-14'
+      record_reference: null
+      content_hash: sha256:c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95d6ac9c3b
+      friendly_name: 2005-11-14-ebook-hair-of-the-alien-dna-and-other-forensic-evidence-for-alien
+  - claim_id: 2dcf3e72-8a13-4805-a4f4-b633a664f011
+    claim_hash: ea706560d3592fac33c6a9f497cf815588c4ad31ad51252d80433be05f32b3bb
+    content: In 1992, in Sydney, Australia, two near-human females appeared suddenly to a young man in daylight in his bedroom.
+    original_excerpt: One such piece of physical evidence was obtained recently from an alien abduction case in Sydney, Australia,
+      in 1992, when supposedly two near-human females appeared suddenly to a young man in daylight in his bedroom.
+    claim_type: testimony
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: named
+      origin: Peter Khoury
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: c0e7a75a-6931-4d2b-8f96-ac29ab9262a3
+        title: Australia, New South Wales, Sydney
+        slug: new-south-wales-sydney-australia
+      - node_id: d22bbc9a-c18b-445b-8798-e4c29c1ad7de
+        title: Peter Khoury alien abduction case
+        slug: peter-khoury-alien-abduction-case
+    date: '1992'
+    date_end: null
+    location_in_record: ch22:1835-2043
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 32687cf8-a827-40a9-b9f4-308ca4d9b2b3
+      record_title: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
+      record_date: '2005-11-14'
+      record_reference: null
+      content_hash: sha256:c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95d6ac9c3b
+      friendly_name: 2005-11-14-ebook-hair-of-the-alien-dna-and-other-forensic-evidence-for-alien
+  - claim_id: 4b8c1d88-5a8b-4c9b-9955-d916f329ee6b
+    claim_hash: 7f10159cdb1e8e3d6cb3660b4570dff45a0c47b136875e0c16d6608f5ec6e751
+    content: A second alleged alien visitor seen with Peter Khoury in Sydney in 1992 was reported to be Asian in appearance.
+    original_excerpt: second girl seen in Sydney 1992 was reported to be Asian in appearance, even though DNA evidence to
+      that effect was not obtained until 1998.
+    claim_type: observation
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: named
+      origin: Anomaly Physical Evidence Group
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: c0e7a75a-6931-4d2b-8f96-ac29ab9262a3
+        title: Australia, New South Wales, Sydney
+        slug: new-south-wales-sydney-australia
+      - node_id: d22bbc9a-c18b-445b-8798-e4c29c1ad7de
+        title: Peter Khoury alien abduction case
+        slug: peter-khoury-alien-abduction-case
+    date: null
+    date_end: null
+    location_in_record: ch22:19980-20115
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 32687cf8-a827-40a9-b9f4-308ca4d9b2b3
+      record_title: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
+      record_date: '2005-11-14'
+      record_reference: null
+      content_hash: sha256:c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95d6ac9c3b
+      friendly_name: 2005-11-14-ebook-hair-of-the-alien-dna-and-other-forensic-evidence-for-alien
+  - claim_id: 80a2b931-cc5d-4579-848f-793568eab403
+    claim_hash: 87e382ba1d79b5cbd82dda6cf61bdc7a6537bae8095b9879aaf5358387f4400e
+    content: The strange hair examined in the Peter Khoury alien abduction case was collected from a suburb of Sydney, Australia,
+      in July 1992, following an apparent close encounter between Peter Khoury and two almost-human females in early daylight
+      in his bedroom.
+    original_excerpt: This strange hair was collected from a suburb of Sydney, Australia, in July of 1992, following an apparent
+      close encounter between a young man, Peter Khoury, and two almost-human females in early daylight in his bedroom.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 98e50374-da8a-4414-998b-d42fce1cd3d7
+      title: Peter Khoury
+    provenance_chain:
+      origin_kind: speaker
+      origin: Peter Khoury
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 863be258-ae0e-47b4-89fb-59647e33d564
+        title: 1992-07-23 Peter Khoury bedroom encounter
+        slug: 1992-07-23-peter-khoury-bedroom-encounter
+      - node_id: 98e50374-da8a-4414-998b-d42fce1cd3d7
+        title: Peter Khoury
+        slug: peter-khoury
+      - node_id: c0e7a75a-6931-4d2b-8f96-ac29ab9262a3
+        title: Australia, New South Wales, Sydney
+        slug: new-south-wales-sydney-australia
+      - node_id: d22bbc9a-c18b-445b-8798-e4c29c1ad7de
+        title: Peter Khoury alien abduction case
+        slug: peter-khoury-alien-abduction-case
+    date: 1992-07
+    date_end: null
+    location_in_record: ch22:22827-23039
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 32687cf8-a827-40a9-b9f4-308ca4d9b2b3
+      record_title: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
+      record_date: '2005-11-14'
+      record_reference: null
+      content_hash: sha256:c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95d6ac9c3b
+      friendly_name: 2005-11-14-ebook-hair-of-the-alien-dna-and-other-forensic-evidence-for-alien
+  - claim_id: 395e7ac7-7790-4af1-8924-f0bf269591e5
+    claim_hash: 098d0a2037c3b9466812014e7d01e0ab5a2ceceee1d35ce7057815b142621938
+    content: The 23 July 1992 Peter Khoury bedroom encounter in Sydney resulted in the recovery of a clear, thin head hair
+      of length 15 centimetres.
+    original_excerpt: Still later in a different house in Sydney in July of 1992, Peter had a daylight encounter with two
+      almost-human females as noted above, which resulted in the recovery of a clear, thin head hair of length 15 cm.
+    claim_type: measurement
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: named
+      origin: Anomaly Physical Evidence Group
+      relay:
+        - Peter Khoury
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 863be258-ae0e-47b4-89fb-59647e33d564
+        title: 1992-07-23 Peter Khoury bedroom encounter
+        slug: 1992-07-23-peter-khoury-bedroom-encounter
+      - node_id: 98e50374-da8a-4414-998b-d42fce1cd3d7
+        title: Peter Khoury
+        slug: peter-khoury
+      - node_id: c0e7a75a-6931-4d2b-8f96-ac29ab9262a3
+        title: Australia, New South Wales, Sydney
+        slug: new-south-wales-sydney-australia
+    date: 1992-07
+    date_end: null
+    location_in_record: ch22:25218-25426
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 32687cf8-a827-40a9-b9f4-308ca4d9b2b3
+      record_title: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
+      record_date: '2005-11-14'
+      record_reference: null
+      content_hash: sha256:c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95d6ac9c3b
+      friendly_name: 2005-11-14-ebook-hair-of-the-alien-dna-and-other-forensic-evidence-for-alien
+  - claim_id: 809460d6-6482-4dd3-8f58-ecb997af047e
+    claim_hash: 16ab0004027c6ad8efc3269a2fdee5a6f2d7e13b9382ad544aa7365b8298912b
+    content: The DNA results support the claim that Peter Khoury was in the presence of two very unusual persons with rare
+      mitochondrial DNAs not easily found in the Sydney, Australia region, and do not support prosaic processing errors or
+      contamination.
+    original_excerpt: This possibility still supports the claim that Peter Khoury was in the presence of two very unusual
+      persons with rare mitochondrial DNAs, not easily found in the Sydney, Australia, region. The results do not support
+      prosaic processing errors or contamination.
+    claim_type: opinion
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 0ebb2d59-f1cf-475c-870f-19d8ca33e6f8
+        title: Mitochondrial Deoxyribonucleic Acid (DNA)
+        slug: mitochondrial-deoxyribonucleic-acid-dna
+      - node_id: 98e50374-da8a-4414-998b-d42fce1cd3d7
+        title: Peter Khoury
+        slug: peter-khoury
+      - node_id: c0e7a75a-6931-4d2b-8f96-ac29ab9262a3
+        title: Australia, New South Wales, Sydney
+        slug: new-south-wales-sydney-australia
+      - node_id: d22bbc9a-c18b-445b-8798-e4c29c1ad7de
+        title: Peter Khoury alien abduction case
+        slug: peter-khoury-alien-abduction-case
+    date: null
+    date_end: null
+    location_in_record: ch23:76215-76460
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 32687cf8-a827-40a9-b9f4-308ca4d9b2b3
+      record_title: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
+      record_date: '2005-11-14'
+      record_reference: null
+      content_hash: sha256:c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95d6ac9c3b
+      friendly_name: 2005-11-14-ebook-hair-of-the-alien-dna-and-other-forensic-evidence-for-alien
+  - claim_id: 56cc100c-ffcf-4445-b24b-6507a871241c
+    claim_hash: 351d7352f5ef296f4fbeed405401d8c9e95eb5a4b9b40f28b864ccc284e9d2db
+    content: According to Whitley Strieber, only one case among the many worldwide alien encounter accounts strikingly matched
+      his own experience in sharing the detail of hair, and that case was from Australia.
+    original_excerpt: According to Whitley Strieber, only one case emerged in this human tide of encounters with aliens that
+      strikingly matched his own experiences with aliens, sharing the key element of the presence of hair. That case turned
+      out to be from Australia.
+    claim_type: testimony
+    attestation: second_hand
+    speaker:
+      node_id: 3ff75793-423c-4333-8402-d5c543074091
+      title: Bill Chalker
+    provenance_chain:
+      origin_kind: named
+      origin: Whitley Strieber
+      relay:
+        - Bill Chalker
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+        title: Whitley Strieber
+        slug: whitley-strieber
+      - node_id: c0e7a75a-6931-4d2b-8f96-ac29ab9262a3
+        title: Australia, New South Wales, Sydney
+        slug: new-south-wales-sydney-australia
+    date: null
+    date_end: null
+    location_in_record: ch7:3024-3260
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 32687cf8-a827-40a9-b9f4-308ca4d9b2b3
+      record_title: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
+      record_date: '2005-11-14'
+      record_reference: null
+      content_hash: sha256:c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95d6ac9c3b
+      friendly_name: 2005-11-14-ebook-hair-of-the-alien-dna-and-other-forensic-evidence-for-alien
+  - claim_id: 395140b6-c6b6-446a-9886-a3211e0ede99
+    claim_hash: f848ec1eeecd488ae787ac5101f5eaa859a6bc7d7ab6c9ec72a42d6b0aaf429b
+    content: Peter Khoury's mother, some years before the 1988 episode, saw an unknown man inside the family home in Sydney
+      walking through a hall doorway into a room that was later found empty.
+    original_excerpt: Another puzzling experience that involved Peter’s mother occurred at the family home in Sydney, some
+      years before the 1988 episode. She was startled to see an unknown man inside the house walking through a hall doorway
+      into a room. She found the room empty.
+    claim_type: hearsay
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: named
+      origin: Peter Khoury's mother
+      relay:
+        - narration
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 6b271133-f71f-4b4d-9a81-e7cdaf920b0f
+        title: Sydney family home footsteps and 1988 encounter house
+        slug: sydney-family-home-footsteps-and-1988-encounter-house
+      - node_id: 98e50374-da8a-4414-998b-d42fce1cd3d7
+        title: Peter Khoury
+        slug: peter-khoury
+      - node_id: c0e7a75a-6931-4d2b-8f96-ac29ab9262a3
+        title: Australia, New South Wales, Sydney
+        slug: new-south-wales-sydney-australia
+    date: null
+    date_end: null
+    location_in_record: ch8:15115-15366
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 32687cf8-a827-40a9-b9f4-308ca4d9b2b3
+      record_title: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
+      record_date: '2005-11-14'
+      record_reference: null
+      content_hash: sha256:c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95d6ac9c3b
+      friendly_name: 2005-11-14-ebook-hair-of-the-alien-dna-and-other-forensic-evidence-for-alien
+  - claim_id: d00f2e5e-5f12-4221-ab69-0a116b0a21f5
+    claim_hash: 7b0a365aab3eee5936b76723cd1a8b0ecfaaeda5d4cf8456d83cfb7e9aa43389
+    content: Peter Khoury was twenty-four years old at the time of the 1988 encounter and was living with his Lebanese parents
+      and family in a Sydney suburb.
+    original_excerpt: Peter Khoury was twenty-four years old. He was living with his Lebanese parents and family in a Sydney
+      suburb.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: narration
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 98e50374-da8a-4414-998b-d42fce1cd3d7
+        title: Peter Khoury
+        slug: peter-khoury
+      - node_id: c0e7a75a-6931-4d2b-8f96-ac29ab9262a3
+        title: Australia, New South Wales, Sydney
+        slug: new-south-wales-sydney-australia
+    date: '1988'
+    date_end: null
+    location_in_record: ch8:3447-3550
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 32687cf8-a827-40a9-b9f4-308ca4d9b2b3
+      record_title: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
+      record_date: '2005-11-14'
+      record_reference: null
+      content_hash: sha256:c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95d6ac9c3b
+      friendly_name: 2005-11-14-ebook-hair-of-the-alien-dna-and-other-forensic-evidence-for-alien
+  - claim_id: f229b7a5-8506-4593-a587-aa141a7dd281
+    claim_hash: c760effa9db72f8144b907f5534caaa36a3d6275c3584373cb54b469353b871f
+    content: Peter Khoury migrated with his family to Australia in 1973.
+    original_excerpt: Born in 1964, in Lebanon, he migrated with his family to Australia in 1973.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: narration
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 98e50374-da8a-4414-998b-d42fce1cd3d7
+        title: Peter Khoury
+        slug: peter-khoury
+      - node_id: c0e7a75a-6931-4d2b-8f96-ac29ab9262a3
+        title: Australia, New South Wales, Sydney
+        slug: new-south-wales-sydney-australia
+    date: '1973'
+    date_end: null
+    location_in_record: ch8:923-993
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 32687cf8-a827-40a9-b9f4-308ca4d9b2b3
+      record_title: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
+      record_date: '2005-11-14'
+      record_reference: null
+      content_hash: sha256:c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95d6ac9c3b
+      friendly_name: 2005-11-14-ebook-hair-of-the-alien-dna-and-other-forensic-evidence-for-alien
+  - claim_id: e986c522-e0f1-4d82-9c67-8263d7bfa855
+    claim_hash: b4e92182380fcbadd2b727e802e8d3caa958f25142f1e69b6ca34c8dbbc3c572
+    content: Peter Khoury told Bill Chalker about his 1988 abduction experience in Sydney.
+    original_excerpt: He told me about his 1988 abduction experience in Sydney, the rooftop experience during his childhood
+      in Lebanon, and a UFO sighting he had witnessed with his fiancee, Vivian, in February of 1988.
+    claim_type: testimony
+    attestation: second_hand
+    speaker:
+      node_id: 3ff75793-423c-4333-8402-d5c543074091
+      title: Bill Chalker
+    provenance_chain:
+      origin_kind: named
+      origin: Peter Khoury
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 3ff75793-423c-4333-8402-d5c543074091
+        title: Bill Chalker
+        slug: bill-chalker
+      - node_id: 98e50374-da8a-4414-998b-d42fce1cd3d7
+        title: Peter Khoury
+        slug: peter-khoury
+      - node_id: c0e7a75a-6931-4d2b-8f96-ac29ab9262a3
+        title: Australia, New South Wales, Sydney
+        slug: new-south-wales-sydney-australia
+    date: null
+    date_end: null
+    location_in_record: ch9:454-645
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 32687cf8-a827-40a9-b9f4-308ca4d9b2b3
+      record_title: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
+      record_date: '2005-11-14'
+      record_reference: null
+      content_hash: sha256:c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95d6ac9c3b
+      friendly_name: 2005-11-14-ebook-hair-of-the-alien-dna-and-other-forensic-evidence-for-alien
+  - claim_id: bec3a73f-5bf7-4480-be5c-4c6237754744
+    claim_hash: ef5f3230b6030e832c710b33d7ad3968efc4127ba28542b4154d784802e2e149
+    content: The Nugan Hand Bank collapsed in scandal in Sydney in 1980 amid allegations of money laundering and drugs smuggling.
+    original_excerpt: the Nugan Hand Bank, that collapsed in scandal in Sydney in 1980 amid allegations of money laundering
+      and drugs smuggling.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 1b81f385-7729-483e-9ec9-3d6b9dd28dcd
+        title: 1980 Nugan Hand Bank collapse
+        slug: 1980-nugan-hand-bank-collapse
+      - node_id: c0e7a75a-6931-4d2b-8f96-ac29ab9262a3
+        title: Australia, New South Wales, Sydney
+        slug: new-south-wales-sydney-australia
+      - node_id: c777e081-0b5d-481b-b67d-79fe4b9b6d00
+        title: Nugan Hand Bank
+        slug: nugan-hand-bank
+    date: '1980'
+    date_end: null
+    location_in_record: ch27:2188-2300
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 36b7b52a-d34b-449b-9f30-b1d5fda915c7
+    claim_hash: 239d0d929861abe33a41e4e4f8f7eb697c3f1f50897e68b0ce54d9f5a54a8286
+    content: Peter Khoury lived on his own for about five years and, during that time, associated with a hardcore standover
+      man in Sydney, New South Wales, who was later killed.
+    original_excerpt: I lived on my own for about five years and I got up to a bit of mischief... one of the Aurelos, um,
+      it was a hardcore, um, standover man in, in, in Sydney. Everyone knew him. He eventually was, um, taken out.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 98e50374-da8a-4414-998b-d42fce1cd3d7
+      title: Peter Khoury
+    provenance_chain:
+      origin_kind: speaker
+      origin: Peter Khoury
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 98e50374-da8a-4414-998b-d42fce1cd3d7
+        title: Peter Khoury
+        slug: peter-khoury
+      - node_id: c0e7a75a-6931-4d2b-8f96-ac29ab9262a3
+        title: Australia, New South Wales, Sydney
+        slug: new-south-wales-sydney-australia
+    date: null
+    date_end: null
+    location_in_record: 00:02:228.0-00:02:234.0
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3b05e864-7a02-462a-828a-903374db8ce7
+      record_title: UFO Witness Reveals CHILLING Daytime Alien Encounter - Peter Khoury - DEBRIEFED ep. 58
+      record_date: '2025-10-17'
+      record_reference: https://www.youtube.com/watch?v=wX3whEVHr3g
+      content_hash: sha256:b75101566131346a95237998494f68630d802a73409e5a64893cf350b414c437
+      friendly_name: 2025-10-17-video-ufo-witness-reveals-chilling-daytime-alien-encounter-peter.v2
+  - claim_id: bbe058fd-cc0b-4511-89a5-9f9e65b8dbf4
+    claim_hash: 941cf7dad2267c63b6b9aac3855f27a05037a149c95ee9926ac6a75e58bb4521
+    content: Peter Khoury's family migrated from Lebanon to Australia.
+    original_excerpt: it wasn't until we moved, migrated to Australia that I really got to know that he was my dad.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 98e50374-da8a-4414-998b-d42fce1cd3d7
+      title: Peter Khoury
+    provenance_chain:
+      origin_kind: speaker
+      origin: Peter Khoury
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 98e50374-da8a-4414-998b-d42fce1cd3d7
+        title: Peter Khoury
+        slug: peter-khoury
+      - node_id: c0e7a75a-6931-4d2b-8f96-ac29ab9262a3
+        title: Australia, New South Wales, Sydney
+        slug: new-south-wales-sydney-australia
+    date: null
+    date_end: null
+    location_in_record: 00:07:12.3-00:07:16.9
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3b05e864-7a02-462a-828a-903374db8ce7
+      record_title: UFO Witness Reveals CHILLING Daytime Alien Encounter - Peter Khoury - DEBRIEFED ep. 58
+      record_date: '2025-10-17'
+      record_reference: https://www.youtube.com/watch?v=wX3whEVHr3g
+      content_hash: sha256:b75101566131346a95237998494f68630d802a73409e5a64893cf350b414c437
+      friendly_name: 2025-10-17-video-ufo-witness-reveals-chilling-daytime-alien-encounter-peter.v2
+  - claim_id: 39e77cea-1cee-4dde-915e-035bfdf57f77
+    claim_hash: c0437a78209d2e1812201d7d64c714b543efb8f4ca459350884bc7dd2db4d80b
+    content: In 1973, Peter Khoury's family migrated to Australia, following his father who had already moved there.
+    original_excerpt: in 1973 we followed my dad out here and um yeah we migrated um... my dad was here before us for a few
+      years
+    claim_type: administrative
+    attestation: first_hand
+    speaker:
+      node_id: 98e50374-da8a-4414-998b-d42fce1cd3d7
+      title: Peter Khoury
+    provenance_chain:
+      origin_kind: speaker
+      origin: Peter Khoury
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 98e50374-da8a-4414-998b-d42fce1cd3d7
+        title: Peter Khoury
+        slug: peter-khoury
+      - node_id: c0e7a75a-6931-4d2b-8f96-ac29ab9262a3
+        title: Australia, New South Wales, Sydney
+        slug: new-south-wales-sydney-australia
+    date: '1973'
+    date_end: null
+    location_in_record: 00:27:48.0-00:27:54.6
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3b05e864-7a02-462a-828a-903374db8ce7
+      record_title: UFO Witness Reveals CHILLING Daytime Alien Encounter - Peter Khoury - DEBRIEFED ep. 58
+      record_date: '2025-10-17'
+      record_reference: https://www.youtube.com/watch?v=wX3whEVHr3g
+      content_hash: sha256:b75101566131346a95237998494f68630d802a73409e5a64893cf350b414c437
+      friendly_name: 2025-10-17-video-ufo-witness-reveals-chilling-daytime-alien-encounter-peter.v2
+  - claim_id: 75583af5-6733-472f-99d2-93aac24d2629
+    claim_hash: 1bb7f27823730704521b07fae2af8d77d445484f70bd78fb210237c24640a694
+    content: Brian Woolch, who used to run a radio station in Sydney, New South Wales, and had an interest in paranormal topics
+      while remaining skeptical, described the mark on Peter Khoury's head as looking like a bullet hole and said Peter Khoury
+      could not have faked it.
+    original_excerpt: Brian, Brian Woolch here, he used to have a radio station in Sydney. Um, um, he was into paranormal
+      stuff and that, but very skeptical at the same time. He actually referred to that mark as a bullet hole... He says,
+      oh, it looks like he's got a bullet hole in his leg, so he couldn't have faked that. He wouldn't dig a hole in your
+      leg to fake a story like that.
+    claim_type: hearsay
+    attestation: second_hand
+    speaker:
+      node_id: 98e50374-da8a-4414-998b-d42fce1cd3d7
+      title: Peter Khoury
+    provenance_chain:
+      origin_kind: named
+      origin: Brian Woolch
+      relay:
+        - Peter Khoury
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 1323abef-7286-4c62-83cc-c463a096c98c
+        title: Brian Woolch
+        slug: brian-woolch
+      - node_id: 98e50374-da8a-4414-998b-d42fce1cd3d7
+        title: Peter Khoury
+        slug: peter-khoury
+      - node_id: c0e7a75a-6931-4d2b-8f96-ac29ab9262a3
+        title: Australia, New South Wales, Sydney
+        slug: new-south-wales-sydney-australia
+    date: null
+    date_end: null
+    location_in_record: 01:30:57.2-01:31:20.8
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3b05e864-7a02-462a-828a-903374db8ce7
+      record_title: UFO Witness Reveals CHILLING Daytime Alien Encounter - Peter Khoury - DEBRIEFED ep. 58
+      record_date: '2025-10-17'
+      record_reference: https://www.youtube.com/watch?v=wX3whEVHr3g
+      content_hash: sha256:b75101566131346a95237998494f68630d802a73409e5a64893cf350b414c437
+      friendly_name: 2025-10-17-video-ufo-witness-reveals-chilling-daytime-alien-encounter-peter.v2
+  - claim_id: 3913cf54-f52f-4c3d-8d07-7965e35d44d9
+    claim_hash: 8528ff1feb4960fa720a4a257ee44af5bbff324fb73200b30a8cc5bfa7a37d1e
+    content: An anonymous source claiming to be a very senior minister of the Australian government insisted to Ross Coulthart
+      that the elliptical metal disc he saw over a Sydney square was real, that he had not been hallucinating and had not
+      been drinking.
+    original_excerpt: he's adamant it was real. He says, I wasn't hallucinating, I hadn't been drinking, I hadn't been out
+      for lunch.
+    claim_type: hearsay
+    attestation: second_hand
+    speaker:
+      node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+      title: Ross Coulthart
+    provenance_chain:
+      origin_kind: anonymous
+      origin: a person claiming to be a very senior minister of the Australian government
+      relay:
+        - a telephone call to Ross Coulthart
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: c0e7a75a-6931-4d2b-8f96-ac29ab9262a3
+        title: Australia, New South Wales, Sydney
+        slug: new-south-wales-sydney-australia
+      - node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+        title: Ross Coulthart
+        slug: ross-coulthart
+    date: null
+    date_end: null
+    location_in_record: 01:46:24.2-01:46:29.0
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: fd845823-8784-462c-a981-4775525b6f84
+      record_title: The DANGEROUS Truth About UFOs - Ross Coulthart | DEBRIEFED ep. 76
+      record_date: '2026-02-20'
+      record_reference: https://www.youtube.com/watch?v=idBryc0eWww
+      content_hash: sha256:73be106d406f6d35a063a894e8384e7da0918eb8597d2107a9e3653becca2bdc
+      friendly_name: null
+  - claim_id: 11460ddc-8b20-4767-a9e1-c01b30c5b07c
+    claim_hash: 78c2068e7d62e5f007ca192f03b5a1d1daac9c6d6e5f9a745cd79d52647f2609
+    content: An anonymous source claiming to be a very senior minister of the Australian government told Ross Coulthart that
+      while standing on steps in Sydney waiting for his ministerial car, with his press secretary and bodyguards beside him,
+      he looked up and saw a gigantic elliptical metal disc hovering over the public square.
+    original_excerpt: He looks up and he sees a gigantic spherical, not spherical, elliptical metal disc hovering over the
+      square.
+    claim_type: hearsay
+    attestation: second_hand
+    speaker:
+      node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+      title: Ross Coulthart
+    provenance_chain:
+      origin_kind: anonymous
+      origin: a person claiming to be a very senior minister of the Australian government
+      relay:
+        - a telephone call to Ross Coulthart
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
+        title: Unidentified Flying Object (UFO)
+        slug: unidentified-flying-object-ufo
+      - node_id: c0e7a75a-6931-4d2b-8f96-ac29ab9262a3
+        title: Australia, New South Wales, Sydney
+        slug: new-south-wales-sydney-australia
+      - node_id: e300f168-782f-4fd0-8291-3b863836fe03
+        title: Australian Government
+        slug: australian-government
+      - node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+        title: Ross Coulthart
+        slug: ross-coulthart
+    date: null
+    date_end: null
+    location_in_record: 01:46:29.8-01:46:37.9
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: fd845823-8784-462c-a981-4775525b6f84
+      record_title: The DANGEROUS Truth About UFOs - Ross Coulthart | DEBRIEFED ep. 76
+      record_date: '2026-02-20'
+      record_reference: https://www.youtube.com/watch?v=idBryc0eWww
+      content_hash: sha256:73be106d406f6d35a063a894e8384e7da0918eb8597d2107a9e3653becca2bdc
+      friendly_name: null
+  - claim_id: 99dec23e-5e79-4e77-a144-2a2f9fd617be
+    claim_hash: 9a5063efc5c28ef406a640e9eae13ef8c60a69b3750fae2eb42ef4dd484b9818
+    content: An anonymous source claiming to be a very senior minister of the Australian government told Ross Coulthart that
+      his press secretary, standing beside him, appeared perplexed and could not see the elliptical metal disc hovering over
+      the Sydney square.
+    original_excerpt: he's looking at his press secretary who's looking up perplexed as well and he can see that he's looking
+      at something but he can't see what he's seeing.
+    claim_type: hearsay
+    attestation: second_hand
+    speaker:
+      node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+      title: Ross Coulthart
+    provenance_chain:
+      origin_kind: anonymous
+      origin: a person claiming to be a very senior minister of the Australian government
+      relay:
+        - a telephone call to Ross Coulthart
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: c0e7a75a-6931-4d2b-8f96-ac29ab9262a3
+        title: Australia, New South Wales, Sydney
+        slug: new-south-wales-sydney-australia
+      - node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+        title: Ross Coulthart
+        slug: ross-coulthart
+    date: null
+    date_end: null
+    location_in_record: 01:46:40.2-01:46:45.7
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: fd845823-8784-462c-a981-4775525b6f84
+      record_title: The DANGEROUS Truth About UFOs - Ross Coulthart | DEBRIEFED ep. 76
+      record_date: '2026-02-20'
+      record_reference: https://www.youtube.com/watch?v=idBryc0eWww
+      content_hash: sha256:73be106d406f6d35a063a894e8384e7da0918eb8597d2107a9e3653becca2bdc
+      friendly_name: null
+  - claim_id: 157ae4ab-3412-44e8-a23c-24ba71b8fb28
+    claim_hash: 400168f75918360849393e1fe905a0fcfe87b4704c339fefdfc0079bd3a52ffa
+    content: Ross Coulthart considers the Sydney sighting by a senior Australian political figure to be a case of a non-human
+      intelligence manipulating that person's perception and presenting itself in a way other people nearby could not perceive.
+    original_excerpt: Their perception was being manipulated in some way by what appears to have been a non-human intelligence
+      representing itself to them in a way that could not be perceived by other people.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+      title: Ross Coulthart
+    provenance_chain:
+      origin_kind: speaker
+      origin: Ross Coulthart
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 9c74d864-957a-4654-a5b6-1249fe654ec7
+        title: Non-Human Intelligence
+        slug: non-human-intelligence
+      - node_id: c0e7a75a-6931-4d2b-8f96-ac29ab9262a3
+        title: Australia, New South Wales, Sydney
+        slug: new-south-wales-sydney-australia
+      - node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+        title: Ross Coulthart
+        slug: ross-coulthart
+      - node_id: ebbcbfb6-214c-44f3-b3b3-837c9882211e
+        title: manipulation of human perception by the phenomenon
+        slug: manipulation-of-human-perception-by-the-phenomenon
+    date: null
+    date_end: null
+    location_in_record: 01:47:28.2-01:47:39.1
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: fd845823-8784-462c-a981-4775525b6f84
+      record_title: The DANGEROUS Truth About UFOs - Ross Coulthart | DEBRIEFED ep. 76
+      record_date: '2026-02-20'
+      record_reference: https://www.youtube.com/watch?v=idBryc0eWww
+      content_hash: sha256:73be106d406f6d35a063a894e8384e7da0918eb8597d2107a9e3653becca2bdc
+      friendly_name: null
+  - claim_id: 6dad5000-716d-432a-ba79-921e0ca8bb12
+    claim_hash: f8913cd208336c26621eacd8408fa95a4fc7a5445ebbd6c5958e835ad6e3610b
+    content: Experienced private UFO investigating groups work in Sydney, Melbourne, Tasmania and other parts of the world,
+      as distinct from the official groups, whose explanations James E. McDonald finds outrageously absurd.
+    original_excerpt: experienced investigators such as those that have been working in Sydney and Melbourne and Tasmania
+      and in other parts of the world, these are private investigating groups, not the official groups. The official groups
+      ... come out with such outrageously absurd explanations
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 46886954-19d1-4d21-861a-9e653fb096a3
+      title: James MacDonald
+    provenance_chain:
+      origin_kind: speaker
+      origin: James E. McDonald
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 3e7634d4-9639-4ddd-a1a5-52063e67cf4c
+        title: Australia, Tasmania, Hobart
+        slug: tasmania-hobart-australia
+      - node_id: 46886954-19d1-4d21-861a-9e653fb096a3
+        title: James MacDonald
+        slug: james-macdonald
+      - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
+        title: Unidentified Flying Object (UFO)
+        slug: unidentified-flying-object-ufo
+      - node_id: c0e7a75a-6931-4d2b-8f96-ac29ab9262a3
+        title: Australia, New South Wales, Sydney
+        slug: new-south-wales-sydney-australia
+      - node_id: db7170bd-ea41-4851-8bd2-8aba8c0fa4f4
+        title: Australia, Victoria, Melbourne
+        slug: victoria-melbourne-australia
+    date: null
+    date_end: null
+    location_in_record: 00:35:43.8-00:36:00.5
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 63f802b1-a3c3-4c41-b0a6-c08cb44fa738
+      record_title: UFOs in Australia – Eyewitnesses Talk to Dr. James E. McDonald During His Investigative Tour (1967)
+      record_date: '2026-08-11'
+      record_reference: https://www.youtube.com/watch?v=8NIy61DkTWw
+      content_hash: sha256:1d24cbe9e49ad5279cd4975a2b37b3b3ab60a260be30a9264e34ef168d7f9e0e
+      friendly_name: null

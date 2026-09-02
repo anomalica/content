@@ -1,0 +1,291 @@
+schema: anomalica/brief/1
+brief_hash: 23b4bcd8fe60b7501e8931047a4463863ab191fd22a6310cfd9965c485023d00
+page:
+  kind: entity
+  node_id: ca49b030-d85e-42ed-80ea-2b6ef60d3d7e
+  node_type: organisation
+  title: United States Department of the Navy
+  slug: united-states-department-of-the-navy
+  claim_count: 6
+  claim_count_total: 6
+generated:
+  graph_version: '2026-09-01T10:10:49.863545+00:00'
+size:
+  claims: 6
+  tokens_estimated: 1694
+  sized_against: 1050000
+publication:
+  status: published
+  note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
+    transcripts are gated elsewhere.
+belonging:
+  verified: 0
+  suspect_excluded: 0
+  unreviewed: 6
+related_nodes:
+  - node_id: c2d4e0bc-0a15-41b7-874a-0bb4d670b5c9
+    title: Lowry Taylor
+    node_type: person
+    slug: lowry-taylor
+    shared_claims: 2
+  - node_id: f9c1f5e2-7a4b-4767-9954-a9d0f73bd908
+    title: Office of the Under Secretary of Defense for Intelligence (OUSDI)
+    node_type: organisation
+    slug: office-of-the-under-secretary-of-defense-for-intelligence-ousdi
+    shared_claims: 2
+  - node_id: 501412f8-f77e-40f4-926b-18142d005cd4
+    title: Unidentified Aerial Phenomena Task Force (UAPTF)
+    node_type: project
+    slug: unidentified-aerial-phenomena-task-force-uaptf
+    shared_claims: 2
+  - node_id: d46162c5-c64c-4139-878e-78b659bcae5c
+    title: 2016 United States presidential election
+    node_type: event
+    slug: 2016-united-states-presidential-election
+    shared_claims: 1
+  - node_id: b622d319-2f3c-45d2-a9b7-9e9a0f007a1c
+    title: American Embassy Dushanbe
+    node_type: organisation
+    slug: american-embassy-dushanbe
+    shared_claims: 1
+  - node_id: 4c424965-a275-4ad5-aa4c-12b189c0cc25
+    title: Ed Rhodes
+    node_type: person
+    slug: ed-rhodes
+    shared_claims: 1
+  - node_id: 33ae3380-25ea-442a-9d60-69b285a20182
+    title: Hillary Clinton
+    node_type: person
+    slug: hillary-clinton
+    shared_claims: 1
+  - node_id: fa727cfc-9b1c-4743-b176-76256cc02fa4
+    title: Maison Rouge meeting
+    node_type: event
+    slug: maison-rouge-meeting
+    shared_claims: 1
+claims:
+  - claim_id: ffe2e7c4-14c1-4e7f-af27-b6cfa741c72e
+    claim_hash: 10f5357a0fdd862649bf283d6f0261a3d5f9786c5fb5a288f34d7c7132c9d530
+    content: Ed Rhodes intended to send copies of his photographs of the object to the American Embassy Dushanbe and to Lowry
+      Taylor at the Tajikistan Desk in the Department of State, if they came out.
+    original_excerpt: WILL SEND COPIES TO THE EMBASSY AND THE TAJIKISTAN DESK (LOWRY TAYLOR) IN THE DEPARTMENT, IF THEY COME
+      OUT
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 4c424965-a275-4ad5-aa4c-12b189c0cc25
+        title: Ed Rhodes
+        slug: ed-rhodes
+      - node_id: b622d319-2f3c-45d2-a9b7-9e9a0f007a1c
+        title: American Embassy Dushanbe
+        slug: american-embassy-dushanbe
+      - node_id: c2d4e0bc-0a15-41b7-874a-0bb4d670b5c9
+        title: Lowry Taylor
+        slug: lowry-taylor
+      - node_id: ca49b030-d85e-42ed-80ea-2b6ef60d3d7e
+        title: United States Department of the Navy
+        slug: united-states-department-of-the-navy
+    date: '1994-01-27'
+    date_end: null
+    location_in_record: char:1829-1932
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: d8607394-2350-482b-84ae-53b726674541
+      record_title: Tajik Air Pilots Report Unidentified Flying Object
+      record_date: '1994-01-31'
+      record_reference: null
+      content_hash: sha256:e1d583556594e3e98f0ceea5598760c9d122283c4582f7d5f6c6c9ad96ad76e3
+      friendly_name: 1994-01-31-pdf-tajik-air-pilots-report-unidentified-flying-object
+  - claim_id: 0654e7ed-4491-42a7-bbd2-2fa02400a625
+    claim_hash: 85ee9ec0416b01d0dcbfc7ded89215cd015762b0d5931aeebfd97ca654cc5141
+    content: Lowry Taylor worked on the Tajikistan Desk within the United States Department of State.
+    original_excerpt: THE TAJIKISTAN DESK (LOWRY TAYLOR) IN THE DEPARTMENT
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: c2d4e0bc-0a15-41b7-874a-0bb4d670b5c9
+        title: Lowry Taylor
+        slug: lowry-taylor
+      - node_id: ca49b030-d85e-42ed-80ea-2b6ef60d3d7e
+        title: United States Department of the Navy
+        slug: united-states-department-of-the-navy
+    date: '1994-01-31'
+    date_end: null
+    location_in_record: char:1865-1907
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: d8607394-2350-482b-84ae-53b726674541
+      record_title: Tajik Air Pilots Report Unidentified Flying Object
+      record_date: '1994-01-31'
+      record_reference: null
+      content_hash: sha256:e1d583556594e3e98f0ceea5598760c9d122283c4582f7d5f6c6c9ad96ad76e3
+      friendly_name: 1994-01-31-pdf-tajik-air-pilots-report-unidentified-flying-object
+  - claim_id: 4dfaaca4-ed1d-4f2f-a7b8-e9adefceac54
+    claim_hash: abdd079a757157b15ee562b48b856bf304b40b4b7b1646e3a45550fe70872a97
+    content: The Unidentified Aerial Phenomena Task Force was led by the Department of the Navy under the Office of the Under
+      Secretary of Defense for Intelligence and Security.
+    original_excerpt: The task force was led by the Department of the Navy under the Office of the Under Secretary of Defense
+      for Intelligence and Security.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 501412f8-f77e-40f4-926b-18142d005cd4
+        title: Unidentified Aerial Phenomena Task Force (UAPTF)
+        slug: unidentified-aerial-phenomena-task-force-uaptf
+      - node_id: ca49b030-d85e-42ed-80ea-2b6ef60d3d7e
+        title: United States Department of the Navy
+        slug: united-states-department-of-the-navy
+      - node_id: f9c1f5e2-7a4b-4767-9954-a9d0f73bd908
+        title: Office of the Under Secretary of Defense for Intelligence (OUSDI)
+        slug: office-of-the-under-secretary-of-defense-for-intelligence-ousdi
+    date: null
+    date_end: null
+    location_in_record: char:1723-1848
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e790e3f8-b1a1-4ca3-893a-02d67f8815d7
+      record_title: Intelligence Officials Say U.S. Has Retrieved Craft of Non-Human Origin
+      record_date: '2023-06-05'
+      record_reference: https://thedebrief.org/intelligence-officials-say-u-s-has-retrieved-non-human-craft/
+      content_hash: sha256:5ce8e38071f914d4dbb950938474d8e00a0a59d120d4391a2e90baa5da5d4335
+      friendly_name: 2023-06-05-web-intelligence-officials-say-u-s-has-retrieved-craft-of-non
+  - claim_id: 9d4cb255-01b9-4cf5-8513-793eb12b53e1
+    claim_hash: 08b05f97e09c197f53062c63b78cb1d4997d86fb8f933e4350f49cf702723447
+    content: Under the cognisance of the Office of the Under Secretary of Defense for Intelligence and Security (USD(I&S)),
+      the Department of the Navy was asked to lead the Unidentified Aerial Phenomena Task Force (UAPTF).
+    original_excerpt: Under the cognizance of the Office of the Under Secretary of Defense for Intelligence and Security (USD(I&S)),
+      the Department of the Navy was asked to lead the task force.
+    claim_type: administrative
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: document
+      origin: Department of Defense press release
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 501412f8-f77e-40f4-926b-18142d005cd4
+        title: Unidentified Aerial Phenomena Task Force (UAPTF)
+        slug: unidentified-aerial-phenomena-task-force-uaptf
+      - node_id: ca49b030-d85e-42ed-80ea-2b6ef60d3d7e
+        title: United States Department of the Navy
+        slug: united-states-department-of-the-navy
+      - node_id: f9c1f5e2-7a4b-4767-9954-a9d0f73bd908
+        title: Office of the Under Secretary of Defense for Intelligence (OUSDI)
+        slug: office-of-the-under-secretary-of-defense-for-intelligence-ousdi
+    date: null
+    date_end: null
+    location_in_record: char:64225-64390
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: d3743fdf-6a99-43ef-98d4-b79ef60f0e47
+      record_title: Report on the Historical Record of U.S. Government Involvement with Unidentified Anomalous Phenomena (UAP),
+        Volume I
+      record_date: '2024-02-01'
+      record_reference: null
+      content_hash: sha256:8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a94774067868
+      friendly_name: 2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a
+  - claim_id: b533e7fc-0a5e-4beb-b997-3b3ce6c1ce62
+    claim_hash: ee52a9c540ff89bf68bb3229bf435aba7094045d11c740cea108e55320738914
+    content: A 1945 United States Department of State document recorded that hundreds of new companies had been set up in
+      Nicaragua and Argentina connected to Nazi industrialists.
+    original_excerpt: So there's a State Department document which talks about how This was in 1945. They'd already realized
+      hundreds of new companies have been set up in Nicaragua and Argentina, and it's all connected to these Nazi industrialists.
+    claim_type: testimony
+    attestation: second_hand
+    speaker:
+      node_id: ff0a86b8-8f3c-4291-94ed-c6d303875ce8
+      title: Jason Samosa
+    provenance_chain:
+      origin_kind: document
+      origin: a 1945 United States Department of State document
+      relay:
+        - Jason Samosa's research
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: ca49b030-d85e-42ed-80ea-2b6ef60d3d7e
+        title: United States Department of the Navy
+        slug: united-states-department-of-the-navy
+      - node_id: fa727cfc-9b1c-4743-b176-76256cc02fa4
+        title: Maison Rouge meeting
+        slug: maison-rouge-meeting
+    date: '1945'
+    date_end: null
+    location_in_record: 01:18:46.1-01:18:57.7
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 64b84f95-238c-4ab7-a678-bee55f985b14
+      record_title: The UFO Cover-Up Leads to One Secret Society — and One Final Event
+      record_date: '2026-07-14'
+      record_reference: https://www.youtube.com/watch?v=kccrkCGGzX4
+      content_hash: sha256:d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7b5a1b98d
+      friendly_name: null
+  - claim_id: dffb0f39-fd8e-4062-a213-f61e8193642a
+    claim_hash: bb318ccb812fdf3f004e1b6fc941b070e2687bb0ad8978f81828d705905c0cc5
+    content: Hillary Clinton was Secretary of State and the 2016 presidential nominee.
+    original_excerpt: '[note: Hillary Clinton - Secretay of State and 2016 presidential nominee]'
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: source record annotation
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 33ae3380-25ea-442a-9d60-69b285a20182
+        title: Hillary Clinton
+        slug: hillary-clinton
+      - node_id: ca49b030-d85e-42ed-80ea-2b6ef60d3d7e
+        title: United States Department of the Navy
+        slug: united-states-department-of-the-navy
+      - node_id: d46162c5-c64c-4139-878e-78b659bcae5c
+        title: 2016 United States presidential election
+        slug: 2016-united-states-presidential-election
+    date: null
+    date_end: null
+    location_in_record: line 33
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 64b84f95-238c-4ab7-a678-bee55f985b14
+      record_title: The UFO Cover-Up Leads to One Secret Society — and One Final Event
+      record_date: '2026-07-14'
+      record_reference: https://www.youtube.com/watch?v=kccrkCGGzX4
+      content_hash: sha256:d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7b5a1b98d
+      friendly_name: null

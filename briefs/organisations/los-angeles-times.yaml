@@ -1,0 +1,252 @@
+schema: anomalica/brief/1
+brief_hash: b8d834daf551e7a3d5385e26fd57e2da7f318f4c4cef208c0afffd85b2c7e478
+page:
+  kind: entity
+  node_id: dd7cc1c5-c334-4b4f-ac19-14c06c2dd039
+  node_type: organisation
+  title: Los Angeles Times
+  slug: los-angeles-times
+  claim_count: 5
+  claim_count_total: 5
+generated:
+  graph_version: '2026-09-01T10:10:49.863545+00:00'
+size:
+  claims: 5
+  tokens_estimated: 1495
+  sized_against: 1050000
+publication:
+  status: published
+  note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
+    transcripts are gated elsewhere.
+belonging:
+  verified: 0
+  suspect_excluded: 0
+  unreviewed: 5
+related_nodes:
+  - node_id: 3e35ba86-6210-47c7-91f7-eb2dbfee762a
+    title: Transformation (Whitley Strieber)
+    node_type: document
+    slug: transformation-whitley-strieber
+    shared_claims: 3
+  - node_id: 64786265-c265-4e58-8c08-4409072cbf05
+    title: Aliens Exist (Blink-182 song)
+    node_type: document
+    slug: aliens-exist-blink-182-song
+    shared_claims: 1
+  - node_id: d4849f89-98f8-4e76-9c42-0c3fdad61a0d
+    title: Blair Cuspids
+    node_type: place
+    slug: blair-cuspids
+    shared_claims: 1
+  - node_id: c3938d3d-6d68-4a6d-94db-45321eed124d
+    title: Tom DeLonge
+    node_type: person
+    slug: tom-delonge
+    shared_claims: 1
+  - node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+    title: Whitley Strieber
+    node_type: person
+    slug: whitley-strieber
+    shared_claims: 1
+  - node_id: b3ed18fc-8a8f-4826-8049-e40f5e78798f
+    title: William Blair
+    node_type: person
+    slug: william-blair
+    shared_claims: 1
+claims:
+  - claim_id: 253451b1-0b14-4b44-b79c-fbdbc5c9dcde
+    claim_hash: dbac2e97fe741e4f04f1a9c3bb03219f8ada0e5c0b43b9df8b9b9010fb851ddf
+    content: William Blair was quoted in the Los Angeles Times saying that if such a complex of structures were photographed
+      on Earth, an archaeologist's first order of business would be to inspect and excavate test trenches to validate whether
+      the site has archaeological significance.
+    original_excerpt: '"If such a complex of structures were photographed on Earth, the archeologist''s first order of business
+      would be to inspect and excavate test trenches and thus validate whether the prospective site has archeological significance,"
+      he was quoted in the *L.A. Times*.'
+    claim_type: opinion
+    attestation: second_hand
+    speaker:
+      node_id: b3ed18fc-8a8f-4826-8049-e40f5e78798f
+      title: William Blair
+    provenance_chain:
+      origin_kind: named
+      origin: William Blair
+      relay:
+        - Los Angeles Times
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: b3ed18fc-8a8f-4826-8049-e40f5e78798f
+        title: William Blair
+        slug: william-blair
+      - node_id: d4849f89-98f8-4e76-9c42-0c3fdad61a0d
+        title: Blair Cuspids
+        slug: blair-cuspids
+      - node_id: dd7cc1c5-c334-4b4f-ac19-14c06c2dd039
+        title: Los Angeles Times
+        slug: los-angeles-times
+    date: null
+    date_end: null
+    location_in_record: ch8:22595-22853
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+      record_title: Dark Mission
+      record_date: '2010-07-22'
+      record_reference: null
+      content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+      friendly_name: null
+  - claim_id: 78c790d9-b419-4739-b772-47392e913efd
+    claim_hash: 0d2b3c345e700eba89ee0dcde801207e7a78156386237ed93a52da548e614104
+    content: Tom DeLonge told the Los Angeles Times that the Blink-182 track 'Aliens Exist' is about aliens that come to Earth
+      and 'fly up your butt', and that 'it's true'.
+    original_excerpt: He told the Los Angeles Times the track was about aliens that come to Earth and 'fly up your butt. And
+      it's true'.
+    claim_type: opinion
+    attestation: second_hand
+    speaker:
+      node_id: c3938d3d-6d68-4a6d-94db-45321eed124d
+      title: Tom DeLonge
+    provenance_chain:
+      origin_kind: speaker
+      origin: Tom DeLonge
+      relay:
+        - Los Angeles Times
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 64786265-c265-4e58-8c08-4409072cbf05
+        title: Aliens Exist (Blink-182 song)
+        slug: aliens-exist-blink-182-song
+      - node_id: c3938d3d-6d68-4a6d-94db-45321eed124d
+        title: Tom DeLonge
+        slug: tom-delonge
+      - node_id: dd7cc1c5-c334-4b4f-ac19-14c06c2dd039
+        title: Los Angeles Times
+        slug: los-angeles-times
+    date: null
+    date_end: null
+    location_in_record: ch18:10196-10306
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: f0e56378-8e25-4b4a-a145-d1b53af5b812
+    claim_hash: efcaefcea19b7b712e3bc164c4309b99949159b5f31c0f832bf2380f218bb472
+    content: In the era when Transformation was first published, bestselling books started in California and publishers needed
+      a good review in the Los Angeles Times.
+    original_excerpt: Books started, bestsellers started in California. And one of the critical things the publishers had
+      to have was a good review in the Los Angeles Times. This is a different era entirely.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+      title: Whitley Strieber
+    provenance_chain:
+      origin_kind: speaker
+      origin: Whitley Strieber
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 3e35ba86-6210-47c7-91f7-eb2dbfee762a
+        title: Transformation (Whitley Strieber)
+        slug: transformation-whitley-strieber
+      - node_id: dd7cc1c5-c334-4b4f-ac19-14c06c2dd039
+        title: Los Angeles Times
+        slug: los-angeles-times
+    date: null
+    date_end: null
+    location_in_record: 00:52:39.2-00:52:50.3
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 9302c6b2-133d-4cbb-adfa-5d1f0bd3e7ac
+      record_title: The Terrible Truth About the Visitors - Whitley Strieber | ep. 96
+      record_date: '2026-07-24'
+      record_reference: https://www.youtube.com/watch?v=Cv-sk4vt-qU
+      content_hash: sha256:456dbde0ab82ee8e216bdad2d1a0bf2a0b42622a167af19058f973050b035084
+      friendly_name: null
+  - claim_id: 1e366aa3-48ed-423a-9845-f26f3d50fe42
+    claim_hash: 1e22d498ef63b0b90fb84ccf896b4864b7a6c7ca0be9b46b64246453fff7c3dc
+    content: Whitley Strieber's book Transformation received an extremely bad review in the Los Angeles Times.
+    original_excerpt: transformation got the most fantastically bad review in the Los Angeles Times than you could possibly
+      imagine
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+      title: Whitley Strieber
+    provenance_chain:
+      origin_kind: speaker
+      origin: Whitley Strieber
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 3e35ba86-6210-47c7-91f7-eb2dbfee762a
+        title: Transformation (Whitley Strieber)
+        slug: transformation-whitley-strieber
+      - node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+        title: Whitley Strieber
+        slug: whitley-strieber
+      - node_id: dd7cc1c5-c334-4b4f-ac19-14c06c2dd039
+        title: Los Angeles Times
+        slug: los-angeles-times
+    date: null
+    date_end: null
+    location_in_record: 00:53:07.2-00:53:15.5
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 9302c6b2-133d-4cbb-adfa-5d1f0bd3e7ac
+      record_title: The Terrible Truth About the Visitors - Whitley Strieber | ep. 96
+      record_date: '2026-07-24'
+      record_reference: https://www.youtube.com/watch?v=Cv-sk4vt-qU
+      content_hash: sha256:456dbde0ab82ee8e216bdad2d1a0bf2a0b42622a167af19058f973050b035084
+      friendly_name: null
+  - claim_id: 1c06ff00-3f04-4ddc-83bc-f32cd2a81417
+    claim_hash: 67987883e658d5904a92561e288f18f0a6c5a8b12c949df95cfb93d782533094
+    content: When Whitley Strieber's book Transformation briefly appeared on the Los Angeles Times bestseller list, it was
+      placed on the fiction bestseller list.
+    original_excerpt: when it briefly appeared on the bestseller list, they put it on their fiction bestseller list.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+      title: Whitley Strieber
+    provenance_chain:
+      origin_kind: speaker
+      origin: Whitley Strieber
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 3e35ba86-6210-47c7-91f7-eb2dbfee762a
+        title: Transformation (Whitley Strieber)
+        slug: transformation-whitley-strieber
+      - node_id: dd7cc1c5-c334-4b4f-ac19-14c06c2dd039
+        title: Los Angeles Times
+        slug: los-angeles-times
+    date: null
+    date_end: null
+    location_in_record: 00:53:16.7-00:53:21.2
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 9302c6b2-133d-4cbb-adfa-5d1f0bd3e7ac
+      record_title: The Terrible Truth About the Visitors - Whitley Strieber | ep. 96
+      record_date: '2026-07-24'
+      record_reference: https://www.youtube.com/watch?v=Cv-sk4vt-qU
+      content_hash: sha256:456dbde0ab82ee8e216bdad2d1a0bf2a0b42622a167af19058f973050b035084
+      friendly_name: null

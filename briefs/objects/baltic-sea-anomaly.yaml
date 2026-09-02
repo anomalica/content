@@ -1,0 +1,1013 @@
+schema: anomalica/brief/1
+brief_hash: cce35bd85eddafe15a0385d6ed290b12da7ff5ba2fb59c66aa0214c8cd964ac7
+page:
+  kind: entity
+  node_id: 7d93e155-b9ad-4f9a-833f-5cf9be7ef411
+  node_type: object
+  title: Baltic Sea anomaly
+  slug: baltic-sea-anomaly
+  claim_count: 25
+  claim_count_total: 25
+generated:
+  graph_version: '2026-09-01T10:10:49.863545+00:00'
+size:
+  claims: 25
+  tokens_estimated: 6905
+  sized_against: 1050000
+publication:
+  status: published
+  note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
+    transcripts are gated elsewhere.
+belonging:
+  verified: 0
+  suspect_excluded: 0
+  unreviewed: 25
+related_nodes:
+  - node_id: 0fdd20f7-03ac-4826-a495-e60294392ef9
+    title: Dennis Åsberg
+    node_type: person
+    slug: dennis-asberg
+    shared_claims: 8
+  - node_id: f750f72c-a0ff-40ef-a891-06a2b56286d9
+    title: Merivälja object
+    node_type: object
+    slug: merivalja-object
+    shared_claims: 7
+  - node_id: c7d94198-c3cd-4159-8f92-2a39857ab6d8
+    title: Baltic Sea
+    node_type: place
+    slug: baltic-sea
+    shared_claims: 5
+  - node_id: 944f868b-d956-4816-bec1-35b374d8aacf
+    title: Ocean X Team
+    node_type: organisation
+    slug: ocean-x-team
+    shared_claims: 4
+  - node_id: f9aee024-11bf-4dfa-bac5-d6eaa724a26a
+    title: Beatriz Villarroel
+    node_type: person
+    slug: beatriz-villarroel
+    shared_claims: 2
+  - node_id: 98a3a0de-4196-4c43-aafc-b328da73588a
+    title: OceanX discovery of the Baltic Sea anomaly (2011)
+    node_type: event
+    slug: oceanx-discovery-of-the-baltic-sea-anomaly-2011
+    shared_claims: 2
+  - node_id: 22bd746a-0503-45aa-ad60-42904bd1812c
+    title: 2011 Baltic Sea anomaly discovery
+    node_type: event
+    slug: 2011-baltic-sea-anomaly-discovery
+    shared_claims: 1
+  - node_id: aaad19c3-782d-4a16-8673-c06ad1f13014
+    title: Estonia, Tallinn
+    node_type: place
+    slug: tallinn-estonia
+    shared_claims: 1
+  - node_id: 1d7dc299-a51c-4beb-bb7a-fe0d8f1c3485
+    title: European Crash Retrieval Initiative
+    node_type: organisation
+    slug: european-crash-retrieval-initiative
+    shared_claims: 1
+  - node_id: 079d4381-4273-418b-bc9a-468623f95c6e
+    title: Jesse Mitchells
+    node_type: person
+    slug: jesse-mitchells
+    shared_claims: 1
+  - node_id: 8d2b1fdd-e45e-4054-9b9c-13e7286fbdc3
+    title: OceanX
+    node_type: organisation
+    slug: oceanx
+    shared_claims: 1
+claims:
+  - claim_id: 141e3ee3-cafd-4c02-8f74-b70f9694f8c0
+    claim_hash: e531c016376bf8adaddff83f383a2d90a7c59823dffbfdfa57aa6f06bf389942
+    content: Dennis Åsberg is an explorer who discovered the Baltic Sea anomaly.
+    original_excerpt: Dennis Åsberg, the renowned explorer who's responsible for the so-called Baltic Sea anomaly
+    claim_type: administrative
+    attestation: first_hand
+    speaker:
+      node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+      title: Ross Coulthart
+    provenance_chain:
+      origin_kind: speaker
+      origin: Ross Coulthart
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 0fdd20f7-03ac-4826-a495-e60294392ef9
+        title: Dennis Åsberg
+        slug: dennis-asberg
+      - node_id: 7d93e155-b9ad-4f9a-833f-5cf9be7ef411
+        title: Baltic Sea anomaly
+        slug: baltic-sea-anomaly
+    date: null
+    date_end: null
+    location_in_record: 00:00:26.6-00:00:32.5
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 27d9666b-7dec-4bdf-914e-a05749c23e26
+      record_title: 'Secret Soviet UFOs: What happened when two scientists knocked on a door in Estonia? | Reality Check'
+      record_date: null
+      record_reference: https://www.youtube.com/watch?v=Arkw4z8rCyw
+      content_hash: sha256:06a55bcd5a315e6b8ced7e1bc51b39707caeb87249e4bc8a911eacb2dc7dd245
+      friendly_name: null
+  - claim_id: 0ff0100c-a090-4a06-a1b0-db6ca7a0cc31
+    claim_hash: 844680693b54091cc9285ceaf4f951011102456c078301ed1d35a69a7735d659
+    content: Dennis Åsberg discovered the Baltic Sea anomaly in 2011.
+    original_excerpt: he discovered the so-called Baltic anomaly in 2011
+    claim_type: administrative
+    attestation: first_hand
+    speaker:
+      node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+      title: Ross Coulthart
+    provenance_chain:
+      origin_kind: speaker
+      origin: Ross Coulthart
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 0fdd20f7-03ac-4826-a495-e60294392ef9
+        title: Dennis Åsberg
+        slug: dennis-asberg
+      - node_id: 7d93e155-b9ad-4f9a-833f-5cf9be7ef411
+        title: Baltic Sea anomaly
+        slug: baltic-sea-anomaly
+      - node_id: 98a3a0de-4196-4c43-aafc-b328da73588a
+        title: OceanX discovery of the Baltic Sea anomaly (2011)
+        slug: oceanx-discovery-of-the-baltic-sea-anomaly-2011
+    date: '2011'
+    date_end: null
+    location_in_record: 00:01:27.3-00:01:30.5
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 27d9666b-7dec-4bdf-914e-a05749c23e26
+      record_title: 'Secret Soviet UFOs: What happened when two scientists knocked on a door in Estonia? | Reality Check'
+      record_date: null
+      record_reference: https://www.youtube.com/watch?v=Arkw4z8rCyw
+      content_hash: sha256:06a55bcd5a315e6b8ced7e1bc51b39707caeb87249e4bc8a911eacb2dc7dd245
+      friendly_name: null
+  - claim_id: 10e780ac-09c1-47a2-9bcf-6ed0e5a3ddeb
+    claim_hash: ebe376a99a6daeb944a7368983a26639700acca3341bbaef46a7c490689545cd
+    content: Dennis Åsberg's OceanX diving team discovered a massive disc-shaped formation resting approximately 90 metres
+      underwater.
+    original_excerpt: His OceanX diving team discovered this massive disc-shaped formation resting 90 metres underwater
+    claim_type: measurement
+    attestation: first_hand
+    speaker:
+      node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+      title: Ross Coulthart
+    provenance_chain:
+      origin_kind: speaker
+      origin: Ross Coulthart
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 7d93e155-b9ad-4f9a-833f-5cf9be7ef411
+        title: Baltic Sea anomaly
+        slug: baltic-sea-anomaly
+      - node_id: 8d2b1fdd-e45e-4054-9b9c-13e7286fbdc3
+        title: OceanX
+        slug: oceanx
+      - node_id: 98a3a0de-4196-4c43-aafc-b328da73588a
+        title: OceanX discovery of the Baltic Sea anomaly (2011)
+        slug: oceanx-discovery-of-the-baltic-sea-anomaly-2011
+    date: null
+    date_end: null
+    location_in_record: 00:01:31.4-00:01:38.3
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 27d9666b-7dec-4bdf-914e-a05749c23e26
+      record_title: 'Secret Soviet UFOs: What happened when two scientists knocked on a door in Estonia? | Reality Check'
+      record_date: null
+      record_reference: https://www.youtube.com/watch?v=Arkw4z8rCyw
+      content_hash: sha256:06a55bcd5a315e6b8ced7e1bc51b39707caeb87249e4bc8a911eacb2dc7dd245
+      friendly_name: null
+  - claim_id: fb1495f3-ed97-41d2-803d-6178eeffb0a5
+    claim_hash: b9c3cd8e6d63bf684eac4a1a8f0ec62d59275a2539a4d5c70ad0d1ef953091f6
+    content: The Baltic Sea anomaly is approximately 60 metres wide.
+    original_excerpt: 60 metres wide, with curiously angular ridges, very symmetrical in structure
+    claim_type: measurement
+    attestation: first_hand
+    speaker:
+      node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+      title: Ross Coulthart
+    provenance_chain:
+      origin_kind: speaker
+      origin: Ross Coulthart
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 7d93e155-b9ad-4f9a-833f-5cf9be7ef411
+        title: Baltic Sea anomaly
+        slug: baltic-sea-anomaly
+    date: null
+    date_end: null
+    location_in_record: 00:01:39.2-00:01:44.0
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 27d9666b-7dec-4bdf-914e-a05749c23e26
+      record_title: 'Secret Soviet UFOs: What happened when two scientists knocked on a door in Estonia? | Reality Check'
+      record_date: null
+      record_reference: https://www.youtube.com/watch?v=Arkw4z8rCyw
+      content_hash: sha256:06a55bcd5a315e6b8ced7e1bc51b39707caeb87249e4bc8a911eacb2dc7dd245
+      friendly_name: null
+  - claim_id: 35ee0e86-c933-4805-9f5d-88a8d95191e2
+    claim_hash: aa99e4720822c77be65546763cd67b39b39fc93d342d2fdf9809ad6cbdceb53b
+    content: The Baltic Sea anomaly has curiously angular, very symmetrical ridges in its structure.
+    original_excerpt: with curiously angular ridges, very symmetrical in structure
+    claim_type: observation
+    attestation: first_hand
+    speaker:
+      node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+      title: Ross Coulthart
+    provenance_chain:
+      origin_kind: speaker
+      origin: Ross Coulthart
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 7d93e155-b9ad-4f9a-833f-5cf9be7ef411
+        title: Baltic Sea anomaly
+        slug: baltic-sea-anomaly
+    date: null
+    date_end: null
+    location_in_record: 00:01:40.4-00:01:44.0
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 27d9666b-7dec-4bdf-914e-a05749c23e26
+      record_title: 'Secret Soviet UFOs: What happened when two scientists knocked on a door in Estonia? | Reality Check'
+      record_date: null
+      record_reference: https://www.youtube.com/watch?v=Arkw4z8rCyw
+      content_hash: sha256:06a55bcd5a315e6b8ced7e1bc51b39707caeb87249e4bc8a911eacb2dc7dd245
+      friendly_name: null
+  - claim_id: f94975c5-7222-4494-904a-9d66b4d78558
+    claim_hash: ef10e747323f88ce521b970c63dbcd51390c3fb1085043d912a92ac128bbbc83
+    content: Sensor instruments reportedly malfunction near the Baltic Sea anomaly, echoing similar effects reported at the
+      Merivälja object.
+    original_excerpt: sensor instruments reportedly malfunction near the object echoing the tails from Merivälja
+    claim_type: observation
+    attestation: second_hand
+    speaker:
+      node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+      title: Ross Coulthart
+    provenance_chain:
+      origin_kind: speaker
+      origin: Dennis Åsberg
+      relay:
+        - previously told on Reality Check
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 7d93e155-b9ad-4f9a-833f-5cf9be7ef411
+        title: Baltic Sea anomaly
+        slug: baltic-sea-anomaly
+      - node_id: f750f72c-a0ff-40ef-a891-06a2b56286d9
+        title: Merivälja object
+        slug: merivalja-object
+    date: null
+    date_end: null
+    location_in_record: 00:01:47.8-00:01:54.0
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 27d9666b-7dec-4bdf-914e-a05749c23e26
+      record_title: 'Secret Soviet UFOs: What happened when two scientists knocked on a door in Estonia? | Reality Check'
+      record_date: null
+      record_reference: https://www.youtube.com/watch?v=Arkw4z8rCyw
+      content_hash: sha256:06a55bcd5a315e6b8ced7e1bc51b39707caeb87249e4bc8a911eacb2dc7dd245
+      friendly_name: null
+  - claim_id: e6dadd83-e7c1-40a0-a018-d3e9f7b097ef
+    claim_hash: 72ad0ab23cb1d1f955ab3daa68fe8d8e14adb0cb9906af91b926a5bf5a59bfca
+    content: The Baltic Sea anomaly and the Merivälja object are located approximately 300 kilometres apart, near Tallinn.
+    original_excerpt: we're talking about like 300 kilometers, not more than that.
+    claim_type: measurement
+    attestation: first_hand
+    speaker:
+      node_id: 0fdd20f7-03ac-4826-a495-e60294392ef9
+      title: Dennis Åsberg
+    provenance_chain:
+      origin_kind: speaker
+      origin: Dennis Åsberg
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 7d93e155-b9ad-4f9a-833f-5cf9be7ef411
+        title: Baltic Sea anomaly
+        slug: baltic-sea-anomaly
+      - node_id: aaad19c3-782d-4a16-8673-c06ad1f13014
+        title: Estonia, Tallinn
+        slug: tallinn-estonia
+      - node_id: f750f72c-a0ff-40ef-a891-06a2b56286d9
+        title: Merivälja object
+        slug: merivalja-object
+    date: null
+    date_end: null
+    location_in_record: 00:13:34.5-00:13:38.1
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 27d9666b-7dec-4bdf-914e-a05749c23e26
+      record_title: 'Secret Soviet UFOs: What happened when two scientists knocked on a door in Estonia? | Reality Check'
+      record_date: null
+      record_reference: https://www.youtube.com/watch?v=Arkw4z8rCyw
+      content_hash: sha256:06a55bcd5a315e6b8ced7e1bc51b39707caeb87249e4bc8a911eacb2dc7dd245
+      friendly_name: null
+  - claim_id: bddf7098-d4e9-4e15-93eb-de88c12ba53e
+    claim_hash: 28785d5e83375837a5f98451b87abdc930213e76f7b2b4cbd058b8cba82c29fd
+    content: Scientists who have visited the Baltic Sea anomaly have said it looks like it is constructed and is separated
+      from the seabed rather than being bedrock.
+    original_excerpt: the scientists, people have been there, have said that this is probably something that is constructed.
+      It looks like that. And it's also separated from the bottom. So it's not a bedrock
+    claim_type: opinion
+    attestation: second_hand
+    speaker:
+      node_id: 0fdd20f7-03ac-4826-a495-e60294392ef9
+      title: Dennis Åsberg
+    provenance_chain:
+      origin_kind: named
+      origin: scientists who visited the Baltic Sea anomaly
+      relay:
+        - Dennis Åsberg
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 7d93e155-b9ad-4f9a-833f-5cf9be7ef411
+        title: Baltic Sea anomaly
+        slug: baltic-sea-anomaly
+    date: null
+    date_end: null
+    location_in_record: 00:13:51.7-00:14:06.3
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 27d9666b-7dec-4bdf-914e-a05749c23e26
+      record_title: 'Secret Soviet UFOs: What happened when two scientists knocked on a door in Estonia? | Reality Check'
+      record_date: null
+      record_reference: https://www.youtube.com/watch?v=Arkw4z8rCyw
+      content_hash: sha256:06a55bcd5a315e6b8ced7e1bc51b39707caeb87249e4bc8a911eacb2dc7dd245
+      friendly_name: null
+  - claim_id: 3a655d06-eede-47ba-bd8c-0cb8ac8db53c
+    claim_hash: 27f9a5401b94b51f3f45d9f83d932698ad7a68dcafbe38ce2ee70e104afee65d
+    content: There are other reported anomalies in the Baltic Sea beyond the Baltic Sea anomaly and the Merivälja object.
+    original_excerpt: we have heard also about other anomalies in the Baltic. It's not only the Baltic Sea anomaly and Tallinn.
+      We have one another one also
+    claim_type: hearsay
+    attestation: null
+    speaker:
+      node_id: 0fdd20f7-03ac-4826-a495-e60294392ef9
+      title: Dennis Åsberg
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay:
+        - Dennis Åsberg
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 7d93e155-b9ad-4f9a-833f-5cf9be7ef411
+        title: Baltic Sea anomaly
+        slug: baltic-sea-anomaly
+      - node_id: c7d94198-c3cd-4159-8f92-2a39857ab6d8
+        title: Baltic Sea
+        slug: baltic-sea
+      - node_id: f750f72c-a0ff-40ef-a891-06a2b56286d9
+        title: Merivälja object
+        slug: merivalja-object
+    date: null
+    date_end: null
+    location_in_record: 00:14:10.0-00:14:19.6
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 27d9666b-7dec-4bdf-914e-a05749c23e26
+      record_title: 'Secret Soviet UFOs: What happened when two scientists knocked on a door in Estonia? | Reality Check'
+      record_date: null
+      record_reference: https://www.youtube.com/watch?v=Arkw4z8rCyw
+      content_hash: sha256:06a55bcd5a315e6b8ced7e1bc51b39707caeb87249e4bc8a911eacb2dc7dd245
+      friendly_name: null
+  - claim_id: 65f401e4-d434-40c1-a0a4-093d7821201d
+    claim_hash: c4fe3026f4d096978ae69014e9694481be1585433c3cf65ed49e69f3ac79f1b1
+    content: Beatriz Villarroel's team has identified at least five interesting cases of potential non-human craft crashes
+      across Europe, including one in Sweden, one in Germany, and one located between the Merivälja object and the Baltic
+      Sea anomaly.
+    original_excerpt: there are at least five interesting cases that I can think about from the top of my mind. One in Sweden,
+      another in Germany... Then there is this third case that is in between Merivälja and the Baltic Sea anomaly
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: f9aee024-11bf-4dfa-bac5-d6eaa724a26a
+      title: Beatriz Villarroel
+    provenance_chain:
+      origin_kind: speaker
+      origin: Beatriz Villarroel
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 1d7dc299-a51c-4beb-bb7a-fe0d8f1c3485
+        title: European Crash Retrieval Initiative
+        slug: european-crash-retrieval-initiative
+      - node_id: 7d93e155-b9ad-4f9a-833f-5cf9be7ef411
+        title: Baltic Sea anomaly
+        slug: baltic-sea-anomaly
+      - node_id: f750f72c-a0ff-40ef-a891-06a2b56286d9
+        title: Merivälja object
+        slug: merivalja-object
+      - node_id: f9aee024-11bf-4dfa-bac5-d6eaa724a26a
+        title: Beatriz Villarroel
+        slug: beatriz-villarroel
+    date: null
+    date_end: null
+    location_in_record: 00:14:54.5-00:15:12.6
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 27d9666b-7dec-4bdf-914e-a05749c23e26
+      record_title: 'Secret Soviet UFOs: What happened when two scientists knocked on a door in Estonia? | Reality Check'
+      record_date: null
+      record_reference: https://www.youtube.com/watch?v=Arkw4z8rCyw
+      content_hash: sha256:06a55bcd5a315e6b8ced7e1bc51b39707caeb87249e4bc8a911eacb2dc7dd245
+      friendly_name: null
+  - claim_id: 7225bf86-899d-494e-a677-060019492ef7
+    claim_hash: 5c4eb2b4202d04c01aa44d81e759cff9047466de45fe903d3c7f2d71c4ebca80
+    content: A third object located near the Merivälja object and the Baltic Sea anomaly has been investigated by scientists
+      who believe it is probably a natural object.
+    original_excerpt: that third case has actually been investigated by some scientists. They think it's probably a natural
+      object.
+    claim_type: opinion
+    attestation: second_hand
+    speaker:
+      node_id: f9aee024-11bf-4dfa-bac5-d6eaa724a26a
+      title: Beatriz Villarroel
+    provenance_chain:
+      origin_kind: named
+      origin: scientists who investigated the third object
+      relay:
+        - Beatriz Villarroel
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 7d93e155-b9ad-4f9a-833f-5cf9be7ef411
+        title: Baltic Sea anomaly
+        slug: baltic-sea-anomaly
+      - node_id: f750f72c-a0ff-40ef-a891-06a2b56286d9
+        title: Merivälja object
+        slug: merivalja-object
+      - node_id: f9aee024-11bf-4dfa-bac5-d6eaa724a26a
+        title: Beatriz Villarroel
+        slug: beatriz-villarroel
+    date: null
+    date_end: null
+    location_in_record: 00:15:22.8-00:15:28.5
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 27d9666b-7dec-4bdf-914e-a05749c23e26
+      record_title: 'Secret Soviet UFOs: What happened when two scientists knocked on a door in Estonia? | Reality Check'
+      record_date: null
+      record_reference: https://www.youtube.com/watch?v=Arkw4z8rCyw
+      content_hash: sha256:06a55bcd5a315e6b8ced7e1bc51b39707caeb87249e4bc8a911eacb2dc7dd245
+      friendly_name: null
+  - claim_id: ad372980-1a64-4645-b399-0fdb21f7fac1
+    claim_hash: 3edd8400a6e83a17d66aa94d64fc7b6f0476af2983fc09fdea44a57bd571420f
+    content: Dennis Åsberg has reported anomalous phenomena around the Baltic Sea anomaly similar to those reported at the
+      Merivälja object.
+    original_excerpt: you've been reporting pretty much the same kind of anomalous phenomena in and around the baltic sea
+      anomaly object haven't you
+    claim_type: observation
+    attestation: first_hand
+    speaker:
+      node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+      title: Ross Coulthart
+    provenance_chain:
+      origin_kind: speaker
+      origin: Ross Coulthart
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 0fdd20f7-03ac-4826-a495-e60294392ef9
+        title: Dennis Åsberg
+        slug: dennis-asberg
+      - node_id: 7d93e155-b9ad-4f9a-833f-5cf9be7ef411
+        title: Baltic Sea anomaly
+        slug: baltic-sea-anomaly
+      - node_id: f750f72c-a0ff-40ef-a891-06a2b56286d9
+        title: Merivälja object
+        slug: merivalja-object
+    date: null
+    date_end: null
+    location_in_record: 00:16:52.7-00:16:59.0
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 27d9666b-7dec-4bdf-914e-a05749c23e26
+      record_title: 'Secret Soviet UFOs: What happened when two scientists knocked on a door in Estonia? | Reality Check'
+      record_date: null
+      record_reference: https://www.youtube.com/watch?v=Arkw4z8rCyw
+      content_hash: sha256:06a55bcd5a315e6b8ced7e1bc51b39707caeb87249e4bc8a911eacb2dc7dd245
+      friendly_name: null
+  - claim_id: ef1630b8-7e02-4356-a5e7-79aee5889e03
+    claim_hash: 2b3ed029e685cd83217efe32387868ac365784f3c31fae63012ce58cbd23838c
+    content: Dennis Åsberg has experienced equipment failures, including GPS, sonar, and other equipment problems, almost
+      every time his team has visited the Baltic Sea anomaly.
+    original_excerpt: we have experience of that failure of equipment. And that's I mean, it's almost every time we were out
+      there... we have problems with the GPS, the equipment, sonar system and so on.
+    claim_type: observation
+    attestation: first_hand
+    speaker:
+      node_id: 0fdd20f7-03ac-4826-a495-e60294392ef9
+      title: Dennis Åsberg
+    provenance_chain:
+      origin_kind: speaker
+      origin: Dennis Åsberg
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 0fdd20f7-03ac-4826-a495-e60294392ef9
+        title: Dennis Åsberg
+        slug: dennis-asberg
+      - node_id: 7d93e155-b9ad-4f9a-833f-5cf9be7ef411
+        title: Baltic Sea anomaly
+        slug: baltic-sea-anomaly
+    date: null
+    date_end: null
+    location_in_record: 00:17:00.0-00:17:13.1
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 27d9666b-7dec-4bdf-914e-a05749c23e26
+      record_title: 'Secret Soviet UFOs: What happened when two scientists knocked on a door in Estonia? | Reality Check'
+      record_date: null
+      record_reference: https://www.youtube.com/watch?v=Arkw4z8rCyw
+      content_hash: sha256:06a55bcd5a315e6b8ced7e1bc51b39707caeb87249e4bc8a911eacb2dc7dd245
+      friendly_name: null
+  - claim_id: c4ad547a-859f-4e23-9f1d-fad8a1497d77
+    claim_hash: bf5d74ba4d1754439cd4493ea1a195e551ef6b595570044395b8aee2221c0e12
+    content: During a visit to the Baltic Sea anomaly, scientists from Germany, France, the US, and Sweden personally witnessed
+      the equipment problems that occur there, despite initially being skeptical.
+    original_excerpt: even last year when we were out with scientists, people from Germany and to Germany, France and the
+      US and even Swedish scientists. And they were skeptic... they saw it with their own eyes when they were out there. We
+      had problems even last year.
+    claim_type: observation
+    attestation: first_hand
+    speaker:
+      node_id: 0fdd20f7-03ac-4826-a495-e60294392ef9
+      title: Dennis Åsberg
+    provenance_chain:
+      origin_kind: speaker
+      origin: Dennis Åsberg
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 0fdd20f7-03ac-4826-a495-e60294392ef9
+        title: Dennis Åsberg
+        slug: dennis-asberg
+      - node_id: 7d93e155-b9ad-4f9a-833f-5cf9be7ef411
+        title: Baltic Sea anomaly
+        slug: baltic-sea-anomaly
+    date: null
+    date_end: null
+    location_in_record: 00:17:09.0-00:17:22.4
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 27d9666b-7dec-4bdf-914e-a05749c23e26
+      record_title: 'Secret Soviet UFOs: What happened when two scientists knocked on a door in Estonia? | Reality Check'
+      record_date: null
+      record_reference: https://www.youtube.com/watch?v=Arkw4z8rCyw
+      content_hash: sha256:06a55bcd5a315e6b8ced7e1bc51b39707caeb87249e4bc8a911eacb2dc7dd245
+      friendly_name: null
+  - claim_id: c52b95de-bc81-49d0-a895-cd27b21ec272
+    claim_hash: 26a1f3003898a8620332f4dd2dd5c7a2b3dee08a06cf4c8764d2fd3b38702dee
+    content: Beatriz Villarroel considers it worth taking seriously the hypothesis that the Baltic Sea anomaly or the Merivälja
+      object could be evidence of a prior civilisation that was wiped out during the last ice age.
+    original_excerpt: I think anything is possible is a hypothesis that is absolutely worth taking seriously.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: f9aee024-11bf-4dfa-bac5-d6eaa724a26a
+      title: Beatriz Villarroel
+    provenance_chain:
+      origin_kind: speaker
+      origin: Beatriz Villarroel
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 7d93e155-b9ad-4f9a-833f-5cf9be7ef411
+        title: Baltic Sea anomaly
+        slug: baltic-sea-anomaly
+      - node_id: f750f72c-a0ff-40ef-a891-06a2b56286d9
+        title: Merivälja object
+        slug: merivalja-object
+    date: null
+    date_end: null
+    location_in_record: 00:25:57.8-00:26:01.9
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 27d9666b-7dec-4bdf-914e-a05749c23e26
+      record_title: 'Secret Soviet UFOs: What happened when two scientists knocked on a door in Estonia? | Reality Check'
+      record_date: null
+      record_reference: https://www.youtube.com/watch?v=Arkw4z8rCyw
+      content_hash: sha256:06a55bcd5a315e6b8ced7e1bc51b39707caeb87249e4bc8a911eacb2dc7dd245
+      friendly_name: null
+  - claim_id: 56e40260-8ba9-4f0f-9951-05811028b20d
+    claim_hash: e199e1ef5401357eab1dfc9f31a7047dd3c2bfe8dd74cfe5b0ffabb57f973d43
+    content: Dennis Åsberg believes it increasingly likely that the Baltic Sea anomaly was built before the last ice age.
+    original_excerpt: I believe more and more that we probably have found something that build before the last ice age.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 0fdd20f7-03ac-4826-a495-e60294392ef9
+      title: Dennis Åsberg
+    provenance_chain:
+      origin_kind: speaker
+      origin: Dennis Åsberg
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 0fdd20f7-03ac-4826-a495-e60294392ef9
+        title: Dennis Åsberg
+        slug: dennis-asberg
+      - node_id: 7d93e155-b9ad-4f9a-833f-5cf9be7ef411
+        title: Baltic Sea anomaly
+        slug: baltic-sea-anomaly
+    date: null
+    date_end: null
+    location_in_record: 00:26:39.8-00:26:48.0
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 27d9666b-7dec-4bdf-914e-a05749c23e26
+      record_title: 'Secret Soviet UFOs: What happened when two scientists knocked on a door in Estonia? | Reality Check'
+      record_date: null
+      record_reference: https://www.youtube.com/watch?v=Arkw4z8rCyw
+      content_hash: sha256:06a55bcd5a315e6b8ced7e1bc51b39707caeb87249e4bc8a911eacb2dc7dd245
+      friendly_name: null
+  - claim_id: f2d0a0da-de60-4b12-b371-8d184893e85a
+    claim_hash: b589984f5173bfb84968832708a268d4bcbaddc7b5d4d7a1b8a1318a355b20e3
+    content: Dennis Åsberg, after reviewing all the data, believes the Baltic Sea anomaly may have been built on the spot
+      before the last ice age, at a time when there was no water in that area.
+    original_excerpt: after I've seen all the data, this looks more and more that it can be something that is built on the
+      spot before the ice age when there was no water there in that area.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 0fdd20f7-03ac-4826-a495-e60294392ef9
+      title: Dennis Åsberg
+    provenance_chain:
+      origin_kind: speaker
+      origin: Dennis Åsberg
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 0fdd20f7-03ac-4826-a495-e60294392ef9
+        title: Dennis Åsberg
+        slug: dennis-asberg
+      - node_id: 7d93e155-b9ad-4f9a-833f-5cf9be7ef411
+        title: Baltic Sea anomaly
+        slug: baltic-sea-anomaly
+    date: null
+    date_end: null
+    location_in_record: 00:26:55.0-00:27:05.9
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 27d9666b-7dec-4bdf-914e-a05749c23e26
+      record_title: 'Secret Soviet UFOs: What happened when two scientists knocked on a door in Estonia? | Reality Check'
+      record_date: null
+      record_reference: https://www.youtube.com/watch?v=Arkw4z8rCyw
+      content_hash: sha256:06a55bcd5a315e6b8ced7e1bc51b39707caeb87249e4bc8a911eacb2dc7dd245
+      friendly_name: null
+  - claim_id: 871d3537-bd5b-471e-90b7-54d7f3221ef4
+    claim_hash: 07afcf4a7b6622048c5e7b7b75364a7b726054b054db559dace160f527353196
+    content: The Baltic Sea anomaly was discovered in June 2011 by the Ocean X Team, a group of treasure hunters, while they
+      were searching for shipwrecks in the Baltic Sea.
+    original_excerpt: this was discovered in june of 2011 by a group of treasure hunters known as the ocean x team while searching
+      for shipwrecks
+    claim_type: administrative
+    attestation: second_hand
+    speaker:
+      node_id: 24d00311-06ac-46a1-a2f5-c99f3f8e21b2
+      title: Chris Ramsay
+    provenance_chain:
+      origin_kind: named
+      origin: Ocean X Team
+      relay:
+        - Chris Ramsey
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 22bd746a-0503-45aa-ad60-42904bd1812c
+        title: 2011 Baltic Sea anomaly discovery
+        slug: 2011-baltic-sea-anomaly-discovery
+      - node_id: 7d93e155-b9ad-4f9a-833f-5cf9be7ef411
+        title: Baltic Sea anomaly
+        slug: baltic-sea-anomaly
+      - node_id: 944f868b-d956-4816-bec1-35b374d8aacf
+        title: Ocean X Team
+        slug: ocean-x-team
+      - node_id: c7d94198-c3cd-4159-8f92-2a39857ab6d8
+        title: Baltic Sea
+        slug: baltic-sea
+    date: 2011-06
+    date_end: null
+    location_in_record: 00:15:23.2-00:15:29.0
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: bfeac055-0d75-4942-964a-5cc9f98a75b4
+      record_title: Horseshoe UAP Video Surfaces! - DEBRIEFED ep. 08
+      record_date: '2024-10-02'
+      record_reference: https://www.youtube.com/watch?v=q-Z-6r7nAc4
+      content_hash: sha256:7180fcb5127c761edd18177f3e18132e0e38af6a7e2fb279ccff499a197b888f
+      friendly_name: null
+  - claim_id: d0fd5811-ea83-46e0-a492-860719cf4951
+    claim_hash: e450c72809e48395dd248d13c52ef101fffb7d32d34f829f5f195dee8a0a0d72
+    content: The Ocean X Team found a strange circular formation about 60 metres in diameter at a depth of around 90 metres
+      in the Baltic Sea.
+    original_excerpt: they found a strange circular formation about 60 meters in diameter at a depth of around 90 meters
+    claim_type: measurement
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: named
+      origin: Ocean X Team
+      relay:
+        - Chris Ramsey
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 7d93e155-b9ad-4f9a-833f-5cf9be7ef411
+        title: Baltic Sea anomaly
+        slug: baltic-sea-anomaly
+      - node_id: 944f868b-d956-4816-bec1-35b374d8aacf
+        title: Ocean X Team
+        slug: ocean-x-team
+      - node_id: c7d94198-c3cd-4159-8f92-2a39857ab6d8
+        title: Baltic Sea
+        slug: baltic-sea
+    date: 2011-06
+    date_end: null
+    location_in_record: 00:15:29.5-00:15:35.4
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: bfeac055-0d75-4942-964a-5cc9f98a75b4
+      record_title: Horseshoe UAP Video Surfaces! - DEBRIEFED ep. 08
+      record_date: '2024-10-02'
+      record_reference: https://www.youtube.com/watch?v=q-Z-6r7nAc4
+      content_hash: sha256:7180fcb5127c761edd18177f3e18132e0e38af6a7e2fb279ccff499a197b888f
+      friendly_name: null
+  - claim_id: b9240516-418c-41f4-9632-841b59693bf6
+    claim_hash: 4ea9bd05bc8f45042d902f539c323a5d849c800fefff813eefc8bc4371d9414b
+    content: Sonar scans of the Baltic Sea anomaly revealed a large disc-shaped object with a tail-like structure leading
+      away from it, as if the object had crashed and left a trail.
+    original_excerpt: the sonar scans revealed a large disc-shaped object with a tail-like structure leading away from it,
+      almost as if this object crashed and left a trail.
+    claim_type: observation
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: named
+      origin: Ocean X Team
+      relay:
+        - Chris Ramsey
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 7d93e155-b9ad-4f9a-833f-5cf9be7ef411
+        title: Baltic Sea anomaly
+        slug: baltic-sea-anomaly
+    date: '2011'
+    date_end: null
+    location_in_record: 00:15:36.2-00:15:46.9
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: bfeac055-0d75-4942-964a-5cc9f98a75b4
+      record_title: Horseshoe UAP Video Surfaces! - DEBRIEFED ep. 08
+      record_date: '2024-10-02'
+      record_reference: https://www.youtube.com/watch?v=q-Z-6r7nAc4
+      content_hash: sha256:7180fcb5127c761edd18177f3e18132e0e38af6a7e2fb279ccff499a197b888f
+      friendly_name: null
+  - claim_id: b5550525-5b11-4658-aa44-039a51c0badc
+    claim_hash: 0a3df82d3a536c24fbf8da7b8bc8a3ae1d5026681c72f7b0e7b6aa8864a5ea19
+    content: The Baltic Sea anomaly has unnatural geometric patterns, which some have interpreted as evidence that it is an
+      artificial structure.
+    original_excerpt: It does seem to also have unnatural geometric patterns, which some have interpreted that as being evidence
+      of it being an artificial structure.
+    claim_type: opinion
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: anonymous
+      origin: unnamed researchers who interpreted the Baltic Sea anomaly's patterns as artificial
+      relay:
+        - Chris Ramsey
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 7d93e155-b9ad-4f9a-833f-5cf9be7ef411
+        title: Baltic Sea anomaly
+        slug: baltic-sea-anomaly
+    date: '2011'
+    date_end: null
+    location_in_record: 00:15:47.5-00:15:55.1
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: bfeac055-0d75-4942-964a-5cc9f98a75b4
+      record_title: Horseshoe UAP Video Surfaces! - DEBRIEFED ep. 08
+      record_date: '2024-10-02'
+      record_reference: https://www.youtube.com/watch?v=q-Z-6r7nAc4
+      content_hash: sha256:7180fcb5127c761edd18177f3e18132e0e38af6a7e2fb279ccff499a197b888f
+      friendly_name: null
+  - claim_id: 72a2f51d-0d72-4bd7-a413-511977a4ddca
+    claim_hash: c486924229eddf70eb7fe0a77ec9bbbbbb60d13addb1843b4f49b7546e8584ac
+    content: In 2012, the Ocean X Team sent a team down to the Baltic Sea anomaly, during which electrical equipment reportedly
+      malfunctioned when the team got close to the object.
+    original_excerpt: But in 2012, they did send a team down there. A few things happened, one being that electrical equipment
+      would malfunction when they got close to this thing
+    claim_type: observation
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: named
+      origin: Ocean X Team
+      relay:
+        - Chris Ramsey
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 7d93e155-b9ad-4f9a-833f-5cf9be7ef411
+        title: Baltic Sea anomaly
+        slug: baltic-sea-anomaly
+      - node_id: 944f868b-d956-4816-bec1-35b374d8aacf
+        title: Ocean X Team
+        slug: ocean-x-team
+    date: '2012'
+    date_end: null
+    location_in_record: 00:16:27.7-00:16:36.0
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: bfeac055-0d75-4942-964a-5cc9f98a75b4
+      record_title: Horseshoe UAP Video Surfaces! - DEBRIEFED ep. 08
+      record_date: '2024-10-02'
+      record_reference: https://www.youtube.com/watch?v=q-Z-6r7nAc4
+      content_hash: sha256:7180fcb5127c761edd18177f3e18132e0e38af6a7e2fb279ccff499a197b888f
+      friendly_name: null
+  - claim_id: 427d36d4-a683-43d2-8ea0-26c1416f0ab0
+    claim_hash: 2a334ce9437480427d89a12757a15d0a54b6935372e52055c353076f01e51faa
+    content: Samples taken from the Baltic Sea anomaly by the Ocean X Team turned out to be volcanic rock.
+    original_excerpt: a lot of the samples that they took back turned out to be volcanic rock.
+    claim_type: measurement
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: named
+      origin: Ocean X Team
+      relay:
+        - Chris Ramsey
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 7d93e155-b9ad-4f9a-833f-5cf9be7ef411
+        title: Baltic Sea anomaly
+        slug: baltic-sea-anomaly
+      - node_id: 944f868b-d956-4816-bec1-35b374d8aacf
+        title: Ocean X Team
+        slug: ocean-x-team
+    date: '2012'
+    date_end: null
+    location_in_record: 00:16:40.2-00:16:44.5
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: bfeac055-0d75-4942-964a-5cc9f98a75b4
+      record_title: Horseshoe UAP Video Surfaces! - DEBRIEFED ep. 08
+      record_date: '2024-10-02'
+      record_reference: https://www.youtube.com/watch?v=q-Z-6r7nAc4
+      content_hash: sha256:7180fcb5127c761edd18177f3e18132e0e38af6a7e2fb279ccff499a197b888f
+      friendly_name: null
+  - claim_id: e8111886-40c8-490c-b201-c7b3a152db3f
+    claim_hash: bfe3172fe3ce4ecd3d78ab39fb4fc0cd18fc183f130fd7880bc2d4542d6d94e4
+    content: Dennis Asberg, associated with the Baltic Sea anomaly, has spoken about Russian interest in the site.
+    original_excerpt: And then on the, you know, are they interested in underwater stuff, Dennis Asberg, you know, the Baltic
+      Sea anomaly said that, you know, they're...
+    claim_type: hearsay
+    attestation: second_hand
+    speaker:
+      node_id: 079d4381-4273-418b-bc9a-468623f95c6e
+      title: Jesse Mitchells
+    provenance_chain:
+      origin_kind: named
+      origin: Dennis Asberg
+      relay:
+        - Jesse Michels
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 0fdd20f7-03ac-4826-a495-e60294392ef9
+        title: Dennis Åsberg
+        slug: dennis-asberg
+      - node_id: 7d93e155-b9ad-4f9a-833f-5cf9be7ef411
+        title: Baltic Sea anomaly
+        slug: baltic-sea-anomaly
+      - node_id: c7d94198-c3cd-4159-8f92-2a39857ab6d8
+        title: Baltic Sea
+        slug: baltic-sea
+    date: null
+    date_end: null
+    location_in_record: 00:39:47.2-00:39:55.0
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: dc9d8bc8-9c1f-46b4-9b89-8d86b6b08e1d
+      record_title: Jesse Michels, UAPGerb & Chris Ramsay - Flying Saucer Diner
+      record_date: '2026-07-17'
+      record_reference: https://www.youtube.com/watch?v=HFLBDi87888
+      content_hash: sha256:7b2e272d7c82fdda745ee0354d7c9cc4b0d5ba5506015ca27edd9169a768b262
+      friendly_name: null
+  - claim_id: ea4995d7-2936-43a4-bfda-e496adf3b892
+    claim_hash: 702d5291b689aaaa91fe22807d605b7153e1991fe028f255046ecdf7c0ed3cce
+    content: Jesse Michels considers the Baltic Sea to be of strategic importance and that Russia appears interested in the
+      underwater object known as the Baltic Sea anomaly.
+    original_excerpt: Well, yeah, I mean, the Baltic Sea is obviously of very strategic importance, and it seems like they're
+      interested in this object underwater.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 079d4381-4273-418b-bc9a-468623f95c6e
+      title: Jesse Mitchells
+    provenance_chain:
+      origin_kind: speaker
+      origin: Jesse Michels
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 079d4381-4273-418b-bc9a-468623f95c6e
+        title: Jesse Mitchells
+        slug: jesse-mitchells
+      - node_id: 7d93e155-b9ad-4f9a-833f-5cf9be7ef411
+        title: Baltic Sea anomaly
+        slug: baltic-sea-anomaly
+      - node_id: c7d94198-c3cd-4159-8f92-2a39857ab6d8
+        title: Baltic Sea
+        slug: baltic-sea
+    date: null
+    date_end: null
+    location_in_record: 00:39:56.9-00:40:02.8
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: dc9d8bc8-9c1f-46b4-9b89-8d86b6b08e1d
+      record_title: Jesse Michels, UAPGerb & Chris Ramsay - Flying Saucer Diner
+      record_date: '2026-07-17'
+      record_reference: https://www.youtube.com/watch?v=HFLBDi87888
+      content_hash: sha256:7b2e272d7c82fdda745ee0354d7c9cc4b0d5ba5506015ca27edd9169a768b262
+      friendly_name: null

@@ -1,0 +1,475 @@
+schema: anomalica/brief/1
+brief_hash: d44f991aeb97719a0b9c5f08c8a1f97c80f821ed3a3553e4f4565db2139545e1
+page:
+  kind: entity
+  node_id: 0c023c1b-30bd-48a1-a836-2b291ff5853a
+  node_type: person
+  title: Ronald Pandolfi
+  slug: ronald-pandolfi
+  claim_count: 10
+  claim_count_total: 10
+generated:
+  graph_version: '2026-09-01T10:10:49.863545+00:00'
+size:
+  claims: 10
+  tokens_estimated: 2788
+  sized_against: 1050000
+publication:
+  status: published
+  note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
+    transcripts are gated elsewhere.
+belonging:
+  verified: 0
+  suspect_excluded: 0
+  unreviewed: 10
+related_nodes:
+  - node_id: 38b84d4a-96df-4684-bb46-f6f64f392add
+    title: Central Intelligence Agency (CIA)
+    node_type: organisation
+    slug: central-intelligence-agency-cia
+    shared_claims: 6
+  - node_id: 459eb5cf-ea76-4cad-9421-a726261cd3a2
+    title: Bill Clinton
+    node_type: person
+    slug: bill-clinton
+    shared_claims: 5
+  - node_id: 0c0f7266-312d-4b09-99a4-0126cc96308d
+    title: Bruce Maccabee
+    node_type: person
+    slug: bruce-maccabee
+    shared_claims: 2
+  - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
+    title: Unidentified Flying Object (UFO)
+    node_type: topic
+    slug: unidentified-flying-object-ufo
+    shared_claims: 2
+  - node_id: 1f687134-7b02-4aae-b2d3-5be94c9c0b5f
+    title: William LaParl
+    node_type: person
+    slug: william-laparl
+    shared_claims: 2
+  - node_id: 9452773a-568c-48b2-bcb5-f58ccfda1f1b
+    title: Christopher Green
+    node_type: person
+    slug: christopher-green
+    shared_claims: 1
+  - node_id: c430b2b2-7900-45c9-9882-98ac4ab14e88
+    title: Federal Bureau of Investigation (FBI)
+    node_type: organisation
+    slug: federal-bureau-of-investigation-fbi
+    shared_claims: 1
+  - node_id: 33059988-f184-4707-be55-9265bf4cd48d
+    title: Jack Sarfatti
+    node_type: person
+    slug: jack-sarfatti
+    shared_claims: 1
+  - node_id: f033cd4a-f577-41a9-968a-bd3e29946b40
+    title: Louis Pandolfi
+    node_type: person
+    slug: louis-pandolfi
+    shared_claims: 1
+  - node_id: 1c2b71ac-662d-4cbf-80fe-06d97aa016fb
+    title: Office of Strategic Services (OSS)
+    node_type: organisation
+    slug: office-of-strategic-services-oss
+    shared_claims: 1
+claims:
+  - claim_id: 779a942f-0cc6-49b0-a00e-3b3e49c95718
+    claim_hash: 877f3402edd79a9830b01d50f80ae409ee57124c762dcc0994fc3db2cab1201a
+    content: Ronald Pandolfi came out of the CIA's Weird Desk, in Jesse Michels's understanding.
+    original_excerpt: who is, I think, out of the CIA's Weird Desk.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 079d4381-4273-418b-bc9a-468623f95c6e
+      title: Jesse Mitchells
+    provenance_chain:
+      origin_kind: speaker
+      origin: Jesse Michels
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 0c023c1b-30bd-48a1-a836-2b291ff5853a
+        title: Ronald Pandolfi
+        slug: ronald-pandolfi
+      - node_id: 38b84d4a-96df-4684-bb46-f6f64f392add
+        title: Central Intelligence Agency (CIA)
+        slug: central-intelligence-agency-cia
+    date: null
+    date_end: null
+    location_in_record: 00:47:42.2-00:47:44.8
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 64b84f95-238c-4ab7-a678-bee55f985b14
+      record_title: The UFO Cover-Up Leads to One Secret Society — and One Final Event
+      record_date: '2026-07-14'
+      record_reference: https://www.youtube.com/watch?v=kccrkCGGzX4
+      content_hash: sha256:d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7b5a1b98d
+      friendly_name: null
+  - claim_id: 1b8cf3b4-33dc-4f1b-b6e3-077b1d580dec
+    claim_hash: 3468eb4bb961beed0a260eaa2f295f4d4a3445960212c939d60ba84e955681a7
+    content: Ronald Pandolfi advised Bill Clinton that he should be briefed by Bruce Maccabee, a longtime civilian UFO researcher
+      who had written a book about UFOs and the FBI.
+    original_excerpt: Ron Pandolfi told Clinton he should get briefed by a guy named Bruce Maccabee who had written about
+      a book about UFOs and the FBI was a longtime civilian researcher.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 079d4381-4273-418b-bc9a-468623f95c6e
+      title: Jesse Mitchells
+    provenance_chain:
+      origin_kind: speaker
+      origin: Jesse Michels
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 0c023c1b-30bd-48a1-a836-2b291ff5853a
+        title: Ronald Pandolfi
+        slug: ronald-pandolfi
+      - node_id: 0c0f7266-312d-4b09-99a4-0126cc96308d
+        title: Bruce Maccabee
+        slug: bruce-maccabee
+      - node_id: 459eb5cf-ea76-4cad-9421-a726261cd3a2
+        title: Bill Clinton
+        slug: bill-clinton
+      - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
+        title: Unidentified Flying Object (UFO)
+        slug: unidentified-flying-object-ufo
+      - node_id: c430b2b2-7900-45c9-9882-98ac4ab14e88
+        title: Federal Bureau of Investigation (FBI)
+        slug: federal-bureau-of-investigation-fbi
+    date: null
+    date_end: null
+    location_in_record: 00:47:46.2-00:47:56.5
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 64b84f95-238c-4ab7-a678-bee55f985b14
+      record_title: The UFO Cover-Up Leads to One Secret Society — and One Final Event
+      record_date: '2026-07-14'
+      record_reference: https://www.youtube.com/watch?v=kccrkCGGzX4
+      content_hash: sha256:d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7b5a1b98d
+      friendly_name: null
+  - claim_id: fcfb04bf-222b-495d-84f0-b1300da49864
+    claim_hash: 6e25c3facbcbc190644c919db5ed05f6281744e187663c0b9313a110de9d06ed
+    content: Ronald Pandolfi was running the CIA's Weird Desk at the time Bill Clinton's science advisor sought a UFO briefing.
+    original_excerpt: And at that point, a guy called Dr. Ronald Pandolfi was running the Weird Desk.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: ff0a86b8-8f3c-4291-94ed-c6d303875ce8
+      title: Jason Samosa
+    provenance_chain:
+      origin_kind: speaker
+      origin: Jason Samosa
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 0c023c1b-30bd-48a1-a836-2b291ff5853a
+        title: Ronald Pandolfi
+        slug: ronald-pandolfi
+      - node_id: 38b84d4a-96df-4684-bb46-f6f64f392add
+        title: Central Intelligence Agency (CIA)
+        slug: central-intelligence-agency-cia
+      - node_id: 459eb5cf-ea76-4cad-9421-a726261cd3a2
+        title: Bill Clinton
+        slug: bill-clinton
+    date: null
+    date_end: null
+    location_in_record: 00:49:18.8-00:49:23.0
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 64b84f95-238c-4ab7-a678-bee55f985b14
+      record_title: The UFO Cover-Up Leads to One Secret Society — and One Final Event
+      record_date: '2026-07-14'
+      record_reference: https://www.youtube.com/watch?v=kccrkCGGzX4
+      content_hash: sha256:d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7b5a1b98d
+      friendly_name: null
+  - claim_id: 63d32f5f-d26e-4216-badd-0b4f1f215298
+    claim_hash: 28b8bc2246e7f6ffceb3d3a98e168b92700292d743951f82e7f2823501776789
+    content: Bruce Maccabee received a call from Ronald Pandolfi asking him to deliver to Bill Clinton's science advisor the
+      lecture he had once given to the CIA, and was told the briefing was the following morning at eight o'clock, leaving
+      almost no time to prepare.
+    original_excerpt: So Bruce Maccabee relates the story. ... he gets a call from Pandolfi basically saying, look, I need
+      you to go in and give the lecture you gave to the CIA once. I want you to give it to the science advisor. And he's like,
+      well, I need time to prepare ... And he's like, it's tomorrow eight in the morning.
+    claim_type: hearsay
+    attestation: second_hand
+    speaker:
+      node_id: ff0a86b8-8f3c-4291-94ed-c6d303875ce8
+      title: Jason Samosa
+    provenance_chain:
+      origin_kind: named
+      origin: Bruce Maccabee
+      relay:
+        - Bruce Maccabee's public retelling of the story
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 0c023c1b-30bd-48a1-a836-2b291ff5853a
+        title: Ronald Pandolfi
+        slug: ronald-pandolfi
+      - node_id: 0c0f7266-312d-4b09-99a4-0126cc96308d
+        title: Bruce Maccabee
+        slug: bruce-maccabee
+      - node_id: 38b84d4a-96df-4684-bb46-f6f64f392add
+        title: Central Intelligence Agency (CIA)
+        slug: central-intelligence-agency-cia
+      - node_id: 459eb5cf-ea76-4cad-9421-a726261cd3a2
+        title: Bill Clinton
+        slug: bill-clinton
+    date: null
+    date_end: null
+    location_in_record: 00:49:25.2-00:49:44.0
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 64b84f95-238c-4ab7-a678-bee55f985b14
+      record_title: The UFO Cover-Up Leads to One Secret Society — and One Final Event
+      record_date: '2026-07-14'
+      record_reference: https://www.youtube.com/watch?v=kccrkCGGzX4
+      content_hash: sha256:d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7b5a1b98d
+      friendly_name: null
+  - claim_id: ae2337df-7ca4-42ec-8003-256b17cac3ed
+    claim_hash: 36770d4be758af97eac8b6d3ad2c05a9b25e999e3728eaf3f74d81de636ef9fc
+    content: William LaParl suggested that the CIA's handling of the Bill Clinton UFO briefing request was intended to push
+      the matter away rather than confront what was going on.
+    original_excerpt: And there's a guy called William LaParl, who I think had closer interactions with Pandolfi at this time.
+      And he suggested that really they just wanted to push this away. They didn't want to have to confront what was going
+      on with Clinton.
+    claim_type: hearsay
+    attestation: second_hand
+    speaker:
+      node_id: ff0a86b8-8f3c-4291-94ed-c6d303875ce8
+      title: Jason Samosa
+    provenance_chain:
+      origin_kind: named
+      origin: William LaParl
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 0c023c1b-30bd-48a1-a836-2b291ff5853a
+        title: Ronald Pandolfi
+        slug: ronald-pandolfi
+      - node_id: 1f687134-7b02-4aae-b2d3-5be94c9c0b5f
+        title: William LaParl
+        slug: william-laparl
+      - node_id: 38b84d4a-96df-4684-bb46-f6f64f392add
+        title: Central Intelligence Agency (CIA)
+        slug: central-intelligence-agency-cia
+      - node_id: 459eb5cf-ea76-4cad-9421-a726261cd3a2
+        title: Bill Clinton
+        slug: bill-clinton
+    date: null
+    date_end: null
+    location_in_record: 00:50:02.1-00:50:13.8
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 64b84f95-238c-4ab7-a678-bee55f985b14
+      record_title: The UFO Cover-Up Leads to One Secret Society — and One Final Event
+      record_date: '2026-07-14'
+      record_reference: https://www.youtube.com/watch?v=kccrkCGGzX4
+      content_hash: sha256:d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7b5a1b98d
+      friendly_name: null
+  - claim_id: b0a1244b-8c2a-49c2-a771-6303eb2cd0b8
+    claim_hash: 8ff1e3581c9c47f7e404c392c77848a634ed417a3842808aad2013447b324c6c
+    content: Bill Clinton's attempt to obtain UFO information was shut down by Ronald Pandolfi, in Jason Samosa's account.
+    original_excerpt: You've got Clinton, comes in, he's just this guy, and he wants the information and it's shut down by
+      Dr. Pandolfi
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: ff0a86b8-8f3c-4291-94ed-c6d303875ce8
+      title: Jason Samosa
+    provenance_chain:
+      origin_kind: speaker
+      origin: Jason Samosa
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 0c023c1b-30bd-48a1-a836-2b291ff5853a
+        title: Ronald Pandolfi
+        slug: ronald-pandolfi
+      - node_id: 459eb5cf-ea76-4cad-9421-a726261cd3a2
+        title: Bill Clinton
+        slug: bill-clinton
+      - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
+        title: Unidentified Flying Object (UFO)
+        slug: unidentified-flying-object-ufo
+    date: null
+    date_end: null
+    location_in_record: 00:50:38.2-00:50:45.7
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 64b84f95-238c-4ab7-a678-bee55f985b14
+      record_title: The UFO Cover-Up Leads to One Secret Society — and One Final Event
+      record_date: '2026-07-14'
+      record_reference: https://www.youtube.com/watch?v=kccrkCGGzX4
+      content_hash: sha256:d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7b5a1b98d
+      friendly_name: null
+  - claim_id: 56f320bd-ce53-49f3-8fcd-2fd9f23e0193
+    claim_hash: 3107c21b26f250e9063df3a0c75c7c3caf0a9e381279005209777a66de1323e5
+    content: Jack Sarfatti said that Ronald Pandolfi's uncle Louis Pandolfi was a founding member of the Office of Strategic
+      Services.
+    original_excerpt: his uncle Louis Pandolfi was a founding member of the OSS. ... Well, according to Jack Sarfatti, so
+      take the information as you please.
+    claim_type: hearsay
+    attestation: second_hand
+    speaker:
+      node_id: ff0a86b8-8f3c-4291-94ed-c6d303875ce8
+      title: Jason Samosa
+    provenance_chain:
+      origin_kind: named
+      origin: Jack Sarfatti
+      relay:
+        - an interview with Danny Jones
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 0c023c1b-30bd-48a1-a836-2b291ff5853a
+        title: Ronald Pandolfi
+        slug: ronald-pandolfi
+      - node_id: 1c2b71ac-662d-4cbf-80fe-06d97aa016fb
+        title: Office of Strategic Services (OSS)
+        slug: office-of-strategic-services-oss
+      - node_id: 33059988-f184-4707-be55-9265bf4cd48d
+        title: Jack Sarfatti
+        slug: jack-sarfatti
+      - node_id: f033cd4a-f577-41a9-968a-bd3e29946b40
+        title: Louis Pandolfi
+        slug: louis-pandolfi
+    date: null
+    date_end: null
+    location_in_record: 00:50:46.8-00:50:54.1
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 64b84f95-238c-4ab7-a678-bee55f985b14
+      record_title: The UFO Cover-Up Leads to One Secret Society — and One Final Event
+      record_date: '2026-07-14'
+      record_reference: https://www.youtube.com/watch?v=kccrkCGGzX4
+      content_hash: sha256:d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7b5a1b98d
+      friendly_name: null
+  - claim_id: be8e3b59-e566-4967-bafa-cc0034fea135
+    claim_hash: a2b7071b8fd2a4f96f8990fdbd82c6afb74469252f0732527297b2d4fffa14b3
+    content: Ronald Pandolfi is a CIA analyst at the centre of the UFO establishment.
+    original_excerpt: '[note: Ron Pandolfi - CIA analyst at the center of the UFO establishment]'
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: source record annotation
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 0c023c1b-30bd-48a1-a836-2b291ff5853a
+        title: Ronald Pandolfi
+        slug: ronald-pandolfi
+      - node_id: 38b84d4a-96df-4684-bb46-f6f64f392add
+        title: Central Intelligence Agency (CIA)
+        slug: central-intelligence-agency-cia
+    date: null
+    date_end: null
+    location_in_record: line 140
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 64b84f95-238c-4ab7-a678-bee55f985b14
+      record_title: The UFO Cover-Up Leads to One Secret Society — and One Final Event
+      record_date: '2026-07-14'
+      record_reference: https://www.youtube.com/watch?v=kccrkCGGzX4
+      content_hash: sha256:d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7b5a1b98d
+      friendly_name: null
+  - claim_id: 9b53b68b-49c3-43b7-bf27-b6e29dfd3d8d
+    claim_hash: b241d997c415eefb3d204804b015be07f82dad740bfa77e981ac605a97ea0c99
+    content: William LaParl is a UFO researcher who investigated Rick Doty for Ronald Pandolfi.
+    original_excerpt: '[note: Bill LaParl - UFO researcher who investigated Rick Doty for Pandolfi]'
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: source record annotation
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 0c023c1b-30bd-48a1-a836-2b291ff5853a
+        title: Ronald Pandolfi
+        slug: ronald-pandolfi
+      - node_id: 1f687134-7b02-4aae-b2d3-5be94c9c0b5f
+        title: William LaParl
+        slug: william-laparl
+    date: null
+    date_end: null
+    location_in_record: line 182
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 64b84f95-238c-4ab7-a678-bee55f985b14
+      record_title: The UFO Cover-Up Leads to One Secret Society — and One Final Event
+      record_date: '2026-07-14'
+      record_reference: https://www.youtube.com/watch?v=kccrkCGGzX4
+      content_hash: sha256:d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7b5a1b98d
+      friendly_name: null
+  - claim_id: cac2777e-9195-4131-9839-281bf4c900fe
+    claim_hash: 1f3b5220d2d5ae42d663bf1f3ae94a3462d53893a7eea7158af95638f30f13f9
+    content: Christopher Kit Green is said to have run the Central Intelligence Agency's so-called weird desk, with Ron Pandolfi
+      later taking over.
+    original_excerpt: it's like the weird desk at the CIA that they say, you know, they say Kit Green was on it. Then they
+      say Ron Pandolfi took over
+    claim_type: hearsay
+    attestation: null
+    speaker:
+      node_id: 079d4381-4273-418b-bc9a-468623f95c6e
+      title: Jesse Mitchells
+    provenance_chain:
+      origin_kind: unattributed
+      origin: unnamed persons referred to as 'they'
+      relay:
+        - Jesse Michels
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 0c023c1b-30bd-48a1-a836-2b291ff5853a
+        title: Ronald Pandolfi
+        slug: ronald-pandolfi
+      - node_id: 38b84d4a-96df-4684-bb46-f6f64f392add
+        title: Central Intelligence Agency (CIA)
+        slug: central-intelligence-agency-cia
+      - node_id: 9452773a-568c-48b2-bcb5-f58ccfda1f1b
+        title: Christopher Green
+        slug: christopher-green
+    date: null
+    date_end: null
+    location_in_record: 00:27:45.8-00:27:52.7
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: dc9d8bc8-9c1f-46b4-9b89-8d86b6b08e1d
+      record_title: Jesse Michels, UAPGerb & Chris Ramsay - Flying Saucer Diner
+      record_date: '2026-07-17'
+      record_reference: https://www.youtube.com/watch?v=HFLBDi87888
+      content_hash: sha256:7b2e272d7c82fdda745ee0354d7c9cc4b0d5ba5506015ca27edd9169a768b262
+      friendly_name: null

@@ -1,0 +1,2285 @@
+schema: anomalica/brief/1
+brief_hash: 34e1be735a29791fde6cd07e636ae6026ac331afd4c2b3a461ded4037db5bc19
+page:
+  kind: entity
+  node_id: 9dd4a9e0-df04-4593-83cb-d36dc7dabdab
+  node_type: person
+  title: Pius XII
+  slug: pius-xii
+  claim_count: 55
+  claim_count_total: 55
+generated:
+  graph_version: '2026-09-01T10:10:49.863545+00:00'
+size:
+  claims: 55
+  tokens_estimated: 16762
+  sized_against: 1050000
+publication:
+  status: published
+  note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
+    transcripts are gated elsewhere.
+belonging:
+  verified: 0
+  suspect_excluded: 0
+  unreviewed: 55
+related_nodes:
+  - node_id: bbddfa81-653b-4aa6-8e98-3ba0d1485044
+    title: Lúcia (Fatima seer)
+    node_type: person
+    slug: lucia-fatima-seer
+    shared_claims: 12
+  - node_id: b6b60271-c105-4b1f-89ec-bd02227901d9
+    title: Third Secret of Fatima
+    node_type: document
+    slug: third-secret-of-fatima
+    shared_claims: 7
+  - node_id: cfd554b1-096e-4d54-aa89-5edc2e0c41f5
+    title: Fatima apparitions (1917)
+    node_type: event
+    slug: fatima-apparitions-1917
+    shared_claims: 6
+  - node_id: c1cbc577-35ff-4fd6-9f6b-dce79dc91f2e
+    title: Vision of the pope in the Vatican gardens ('dance of the sun') (1950-10-30)
+    node_type: event
+    slug: vision-of-the-pope-in-the-vatican-gardens-dance-of-the-sun-1950-10-30
+    shared_claims: 6
+  - node_id: 4484f20d-af42-40af-b0ab-964afae98ec7
+    title: John Paul II
+    node_type: person
+    slug: john-paul-ii
+    shared_claims: 5
+  - node_id: 6e230da1-2d10-4a16-920d-3dbc2369e898
+    title: Michael Hesemann
+    node_type: person
+    slug: michael-hesemann
+    shared_claims: 4
+  - node_id: cb54ad51-94b1-4a33-b036-7c00ad40cf6b
+    title: Vatican
+    node_type: organisation
+    slug: vatican
+    shared_claims: 4
+  - node_id: 2eebf534-955a-46bf-bacd-fecdd5074643
+    title: Pius XII radio message on Fatima jubilee (1942-10-31)
+    node_type: event
+    slug: pius-xii-radio-message-on-fatima-jubilee-1942-10-31
+    shared_claims: 3
+  - node_id: e95835fe-733e-4777-bb60-740d9727e2c8
+    title: Adolf Hitler
+    node_type: person
+    slug: adolf-hitler
+    shared_claims: 2
+  - node_id: 7bc18490-04d7-41f1-94bf-99d46ba1f4e2
+    title: Franklin D. Roosevelt
+    node_type: person
+    slug: franklin-d-roosevelt
+    shared_claims: 2
+  - node_id: d787a37f-6435-4313-be03-37dd29361524
+    title: Godinho (Mother Superior)
+    node_type: person
+    slug: godinho-mother-superior
+    shared_claims: 2
+  - node_id: 079d4381-4273-418b-bc9a-468623f95c6e
+    title: Jesse Mitchells
+    node_type: person
+    slug: jesse-mitchells
+    shared_claims: 2
+  - node_id: ff3b3953-e566-48ff-933f-8c176d32db54
+    title: John XXIII
+    node_type: person
+    slug: john-xxiii
+    shared_claims: 2
+  - node_id: 84a72770-ffbf-4f8f-8327-b66fd0183da1
+    title: Magenta Unidentified Flying Object (UFO) crash
+    node_type: event
+    slug: magenta-unidentified-flying-object-ufo-crash
+    shared_claims: 2
+  - node_id: e63698cc-274e-4e27-b576-a027fb10f37f
+    title: Paul VI
+    node_type: person
+    slug: paul-vi
+    shared_claims: 2
+  - node_id: 0f9aa10e-8dfd-4ae9-a03f-750a51ef7dda
+    title: Pius XII repetition of the consecration (1942-12-08)
+    node_type: event
+    slug: pius-xii-repetition-of-the-consecration-1942-12-08
+    shared_claims: 2
+  - node_id: 6809b8f3-f710-463e-a449-efe785c89a8f
+    title: Robert Serrou
+    node_type: person
+    slug: robert-serrou
+    shared_claims: 2
+  - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
+    title: 2004 USS Nimitz UAP encounter
+    node_type: event
+    slug: 2004-uss-nimitz-uap-encounter
+    shared_claims: 1
+  - node_id: 02193b62-30a2-4ad5-9fa0-a64c90c9b236
+    title: Basilica of Our Lady of the Rosary of Fatima
+    node_type: object
+    slug: basilica-of-our-lady-of-the-rosary-of-fatima
+    shared_claims: 1
+  - node_id: 9909a3a9-aa87-44f5-a762-31d1d802ceb9
+    title: Battle of Stalingrad (1942-12-08 to 1943-02-02)
+    node_type: event
+    slug: battle-of-stalingrad-1942-12-08-to-1943-02-02
+    shared_claims: 1
+  - node_id: 77cc9b26-f63f-41c7-9b05-737616bcfed9
+    title: Benedict XV
+    node_type: person
+    slug: benedict-xv
+    shared_claims: 1
+  - node_id: fe0881ab-5be5-4de6-bc8a-f781bee7374d
+    title: Carmelite convent of Coimbra
+    node_type: object
+    slug: carmelite-convent-of-coimbra
+    shared_claims: 1
+  - node_id: f52851d1-6388-4961-b21d-d5ef7454c950
+    title: Communism
+    node_type: topic
+    slug: communism
+    shared_claims: 1
+  - node_id: b6ce3d34-c2b6-4202-9498-a93262c549bf
+    title: Consecration of Eugenio Pacelli as bishop (1917-05-13)
+    node_type: event
+    slug: consecration-of-eugenio-pacelli-as-bishop-1917-05-13
+    shared_claims: 1
+  - node_id: a669c98c-60d9-4e93-bfd5-a20e9f42dfa5
+    title: Creation of the feast of the Immaculate Heart of Mary (1944-05-04)
+    node_type: event
+    slug: creation-of-the-feast-of-the-immaculate-heart-of-mary-1944-05-04
+    shared_claims: 1
+  - node_id: 4374daa6-b4c8-4ecc-9590-4cb452f9b662
+    title: Crowning of the Statue of Our Lady of Fatima (1946-05-13)
+    node_type: event
+    slug: crowning-of-the-statue-of-our-lady-of-fatima-1946-05-13
+    shared_claims: 1
+  - node_id: 6a21d50a-411c-4fdf-af44-835b98c9a88c
+    title: Death of Bishop da Silva (1957-10)
+    node_type: event
+    slug: death-of-bishop-da-silva-1957-10
+    shared_claims: 1
+  - node_id: 29dcfae9-39d3-4fa7-ba84-d068cc392028
+    title: Death of Pius XII (1958-10-09)
+    node_type: event
+    slug: death-of-pius-xii-1958-10-09
+    shared_claims: 1
+  - node_id: cfbee36a-7513-41b7-84a5-99c9481fc4d7
+    title: Eugenio Pacelli
+    node_type: person
+    slug: eugenio-pacelli
+    shared_claims: 1
+  - node_id: 8b4952d7-e8f7-430d-aba8-cec960025133
+    title: Father Schweigl's interview of Sister Lúcia at Coimbra convent (1952-09-02)
+    node_type: event
+    slug: father-schweigls-interview-of-sister-lucia-at-coimbra-convent-1952-09-02
+    shared_claims: 1
+claims:
+  - claim_id: 98960f14-b1f8-4bf4-86ed-833cfdd5e5ea
+    claim_hash: 7e2e3e00ebb8e0c4bfd7a7fa6604e7a15d4b7a1233194e64f943ffa8be2e38b8
+    content: On 1954-04-25, shortly before her death, Mother Superior Godinho wrote a long letter to Pope Pius XII asking
+      that her institution be officially designated as a convent.
+    original_excerpt: On April 25, 1954, shortly before her death, Mother Godinho wrote a long letter to Pope Pius XII in
+      which she asked that her institution be officially designated as a convent.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 9dd4a9e0-df04-4593-83cb-d36dc7dabdab
+        title: Pius XII
+        slug: pius-xii
+      - node_id: d787a37f-6435-4313-be03-37dd29361524
+        title: Godinho (Mother Superior)
+        slug: godinho-mother-superior
+    date: '1954-04-25'
+    date_end: null
+    location_in_record: ch13:9311-9478
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 171e1337-151f-40c5-8b9a-659faac4c5f6
+      record_title: The Fatima Secret
+      record_date: '2000-11-28'
+      record_reference: null
+      content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
+      friendly_name: 2000-11-28-ebook-the-fatima-secret
+  - claim_id: 83173755-0581-4a06-83ad-736e7e7c374d
+    claim_hash: f6f7e0fd070f668b384421283d5f8946f83ae7b22f39ffe365cb90b1ab2c3c92
+    content: In her 1954 letter to Pope Pius XII, Mother Superior Godinho revealed a warning Jacinta Marto had given her to
+      prepare for the year 1972, when sins would cause much pain to the pope.
+    original_excerpt: 'In that letter she revealed details about her conversations with Jacinta, which included the following
+      warning: “Prepare yourself for the year 1972, when sins will cause much pain to the pope.”'
+    claim_type: testimony
+    attestation: second_hand
+    speaker:
+      node_id: d787a37f-6435-4313-be03-37dd29361524
+      title: Godinho (Mother Superior)
+    provenance_chain:
+      origin_kind: named
+      origin: Godinho (Mother Superior)
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 9dd4a9e0-df04-4593-83cb-d36dc7dabdab
+        title: Pius XII
+        slug: pius-xii
+      - node_id: d2593720-e09e-4f39-837e-4c6f88e66fbd
+        title: Jacinta Marto
+        slug: jacinta-marto
+      - node_id: d787a37f-6435-4313-be03-37dd29361524
+        title: Godinho (Mother Superior)
+        slug: godinho-mother-superior
+    date: '1954-04-25'
+    date_end: null
+    location_in_record: ch13:9487-9674
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 171e1337-151f-40c5-8b9a-659faac4c5f6
+      record_title: The Fatima Secret
+      record_date: '2000-11-28'
+      record_reference: null
+      content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
+      friendly_name: 2000-11-28-ebook-the-fatima-secret
+  - claim_id: f4744d86-007a-439f-b86a-401e22f19d70
+    claim_hash: 7112c9dd00e7264d2538bb752129e4e353e7df3858aea93d65a7e5ee47955ce3
+    content: Michael Hesemann suggests Pope Pius XII may have been important not because of spiritual powers but because he
+      was the only person who could get the attention and support of all Catholics worldwide, and that this may have been
+      an early experiment in channeling mental energy.
+    original_excerpt: Perhaps the pope was important not so much because of his spiritual powers, but because he was the only
+      person who could get the attention and support of all the Catholics in the world. This may have been an early experiment
+      in channeling mental energy.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 6e230da1-2d10-4a16-920d-3dbc2369e898
+      title: Michael Hesemann
+    provenance_chain:
+      origin_kind: speaker
+      origin: Hesemann, Michael
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 6e230da1-2d10-4a16-920d-3dbc2369e898
+        title: Michael Hesemann
+        slug: michael-hesemann
+      - node_id: 9dd4a9e0-df04-4593-83cb-d36dc7dabdab
+        title: Pius XII
+        slug: pius-xii
+    date: null
+    date_end: null
+    location_in_record: ch15:10683-10929
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 171e1337-151f-40c5-8b9a-659faac4c5f6
+      record_title: The Fatima Secret
+      record_date: '2000-11-28'
+      record_reference: null
+      content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
+      friendly_name: 2000-11-28-ebook-the-fatima-secret
+  - claim_id: de63a1d6-f710-40f6-b5bc-da3035c70f1d
+    claim_hash: 19db059a42420a6f8e0e16d66b0a30fc08331cbc3b5bafcf346427076b090513
+    content: Lúcia (Fatima seer) requested that the pope set aside a feast day to honour Mary to be celebrated worldwide as
+      one of the church's major feasts, and Pius XII granted her request.
+    original_excerpt: When she begged the pope "to set aside a feast day to honor Mary, which will be celebrated in the whole
+      world as one of the major feasts of the church," Pius XII granted her request.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: bbddfa81-653b-4aa6-8e98-3ba0d1485044
+      title: Lúcia (Fatima seer)
+    provenance_chain:
+      origin_kind: speaker
+      origin: Lúcia (Fatima seer)
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 9dd4a9e0-df04-4593-83cb-d36dc7dabdab
+        title: Pius XII
+        slug: pius-xii
+      - node_id: bbddfa81-653b-4aa6-8e98-3ba0d1485044
+        title: Lúcia (Fatima seer)
+        slug: lucia-fatima-seer
+    date: null
+    date_end: null
+    location_in_record: ch15:11430-11604
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 171e1337-151f-40c5-8b9a-659faac4c5f6
+      record_title: The Fatima Secret
+      record_date: '2000-11-28'
+      record_reference: null
+      content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
+      friendly_name: 2000-11-28-ebook-the-fatima-secret
+  - claim_id: fa8928a0-0169-4f65-bc41-06010aea057d
+    claim_hash: 52c2a33ce906fb82eb4449102d77311ff382eb7fd4f8c1ccf9b8c0829f1ff8af
+    content: On 1944-05-04, Pope Pius XII announced the creation of a new feast day in honour of the Immaculate Heart of Mary,
+      to be celebrated every year on 22 August.
+    original_excerpt: On May 4, 1944, the Holy Father announced the creation of a new feast day in honor of the Immaculate
+      Heart of Mary, to be celebrated every year on August 22.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 9dd4a9e0-df04-4593-83cb-d36dc7dabdab
+        title: Pius XII
+        slug: pius-xii
+      - node_id: a669c98c-60d9-4e93-bfd5-a20e9f42dfa5
+        title: Creation of the feast of the Immaculate Heart of Mary (1944-05-04)
+        slug: creation-of-the-feast-of-the-immaculate-heart-of-mary-1944-05-04
+    date: '1944-05-04'
+    date_end: null
+    location_in_record: ch15:11613-11767
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 171e1337-151f-40c5-8b9a-659faac4c5f6
+      record_title: The Fatima Secret
+      record_date: '2000-11-28'
+      record_reference: null
+      content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
+      friendly_name: 2000-11-28-ebook-the-fatima-secret
+  - claim_id: 450b032d-a18c-40e1-84c0-f556a2aebd29
+    claim_hash: adf90c64c434f87cf8434e6f62fd3a722feecffd209e2376f1c037ccf741bd74
+    content: At noon on 1946-05-13, the image of the Statue of Our Lady of Fatima was brought from the chapel in a solemn
+      procession to the court of the basilica, after which the pope broadcast a special message of thanks over the radio to
+      the Portuguese nation.
+    original_excerpt: At noon on that day the image was brought from the chapel in a solemn procession to the court of the
+      basilica. Shortly afterward the pope broadcast a special message of thanks over the radio to the Portuguese nation.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 02193b62-30a2-4ad5-9fa0-a64c90c9b236
+        title: Basilica of Our Lady of the Rosary of Fatima
+        slug: basilica-of-our-lady-of-the-rosary-of-fatima
+      - node_id: 4374daa6-b4c8-4ecc-9590-4cb452f9b662
+        title: Crowning of the Statue of Our Lady of Fatima (1946-05-13)
+        slug: crowning-of-the-statue-of-our-lady-of-fatima-1946-05-13
+      - node_id: 7960be39-3279-4d62-9deb-71ef5e6d71ca
+        title: Statue of Our Lady of Fatima
+        slug: statue-of-our-lady-of-fatima
+      - node_id: 9dd4a9e0-df04-4593-83cb-d36dc7dabdab
+        title: Pius XII
+        slug: pius-xii
+    date: '1946-05-13'
+    date_end: null
+    location_in_record: ch15:12613-12822
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 171e1337-151f-40c5-8b9a-659faac4c5f6
+      record_title: The Fatima Secret
+      record_date: '2000-11-28'
+      record_reference: null
+      content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
+      friendly_name: 2000-11-28-ebook-the-fatima-secret
+  - claim_id: b39dfc58-004a-413a-8c6d-d7efa0ff0954
+    claim_hash: 125c5b956c07126624c617571219a1afc369dd997c4177e0a962a24315375619
+    content: Pope Pius XII described the 1947 pilgrimage of the Statue of Our Lady of Fatima through Europe, the United States,
+      and Canada as a 'pilgrimage of miracles'.
+    original_excerpt: Pope Pius XII described it as a "pilgrimage of miracles."
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 9dd4a9e0-df04-4593-83cb-d36dc7dabdab
+      title: Pius XII
+    provenance_chain:
+      origin_kind: speaker
+      origin: Pius XII
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 9dd4a9e0-df04-4593-83cb-d36dc7dabdab
+        title: Pius XII
+        slug: pius-xii
+      - node_id: cebcae00-a0bc-48aa-939f-80d5527e8a45
+        title: Pilgrimage of the Statue of Our Lady of Fatima through Europe, the United States, and Canada (1947)
+        slug: the-united-states-and-canada-1947-pilgrimage-of-the-statue-of-our-lady-of-fatima-through-europe
+    date: null
+    date_end: null
+    location_in_record: ch15:13831-13878
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 171e1337-151f-40c5-8b9a-659faac4c5f6
+      record_title: The Fatima Secret
+      record_date: '2000-11-28'
+      record_reference: null
+      content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
+      friendly_name: 2000-11-28-ebook-the-fatima-secret
+  - claim_id: 77d9584a-3592-48d7-9d95-9f269e909a0e
+    claim_hash: e632711041a69b4970ba4ef69ee66eeb45b7cbfb1f1d33b6c6e10c906a128a55
+    content: On discovering a newly built Carmelite convent near the site of the Fatima visions, Lúcia (Fatima seer) again
+      wanted to enter the Carmelite order and wrote to the pope for permission, which was granted.
+    original_excerpt: When she discovered there was a newly built Carmelite convent near the site of the visions, she remembered
+      her old wish and again wanted to enter the Carmelite order. She wrote to the pope, asking for his permission, and her
+      request was granted.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 9dd4a9e0-df04-4593-83cb-d36dc7dabdab
+        title: Pius XII
+        slug: pius-xii
+      - node_id: bbddfa81-653b-4aa6-8e98-3ba0d1485044
+        title: Lúcia (Fatima seer)
+        slug: lucia-fatima-seer
+      - node_id: fe0881ab-5be5-4de6-bc8a-f781bee7374d
+        title: Carmelite convent of Coimbra
+        slug: carmelite-convent-of-coimbra
+    date: null
+    date_end: null
+    location_in_record: ch15:14035-14272
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 171e1337-151f-40c5-8b9a-659faac4c5f6
+      record_title: The Fatima Secret
+      record_date: '2000-11-28'
+      record_reference: null
+      content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
+      friendly_name: 2000-11-28-ebook-the-fatima-secret
+  - claim_id: 8fac96b6-3a5f-4a5e-8f19-d77d6171cb0e
+    claim_hash: f6e076080d2ae13236cad4c478f5a121dfc3fca8f1a9b8962eb69613655d52f3
+    content: Someone repeated a rumour that the pope had said he did not want to hear anything more about Fatima.
+    original_excerpt: Someone even repeated that the pope had said he did not want to hear anything more about Fatima.
+    claim_type: hearsay
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: anonymous
+      origin: an unnamed person relaying a rumour about the pope's attitude to Fatima
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 9dd4a9e0-df04-4593-83cb-d36dc7dabdab
+        title: Pius XII
+        slug: pius-xii
+      - node_id: cfd554b1-096e-4d54-aa89-5edc2e0c41f5
+        title: Fatima apparitions (1917)
+        slug: fatima-apparitions-1917
+    date: null
+    date_end: null
+    location_in_record: ch15:15600-15689
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 171e1337-151f-40c5-8b9a-659faac4c5f6
+      record_title: The Fatima Secret
+      record_date: '2000-11-28'
+      record_reference: null
+      content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
+      friendly_name: 2000-11-28-ebook-the-fatima-secret
+  - claim_id: 94568054-1790-4281-8bcb-2e2c3e184ffb
+    claim_hash: 943bbc87cf6cd2bc332cff7683b18dd0b42e7cd5415192e83d418b0bc84a045e
+    content: Pope Pius XII, confronted with rumours of papal indifference toward Fatima, said indignantly that people had
+      invented these things to serve their own purposes, and that the pope's thoughts were completely in agreement with the
+      message of Fatima, urging continued worship of Our Lady of the Rosary of Fatima with reverence and enthusiasm.
+    original_excerpt: '"People have invented these things to serve their own purposes," stated Pope Pius XII indignantly,
+      when confronted with the rumors about papal indifference toward Fatima. "Tell them that the thoughts of the pope are
+      completely in agreement with the message of Fatima. They should continue to worship Our Dear Lady of the Rosary of Fatima
+      with reverence and enthusiasm."'
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 9dd4a9e0-df04-4593-83cb-d36dc7dabdab
+      title: Pius XII
+    provenance_chain:
+      origin_kind: speaker
+      origin: Pius XII
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 9dd4a9e0-df04-4593-83cb-d36dc7dabdab
+        title: Pius XII
+        slug: pius-xii
+      - node_id: cfd554b1-096e-4d54-aa89-5edc2e0c41f5
+        title: Fatima apparitions (1917)
+        slug: fatima-apparitions-1917
+    date: null
+    date_end: null
+    location_in_record: ch15:15699-16055
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 171e1337-151f-40c5-8b9a-659faac4c5f6
+      record_title: The Fatima Secret
+      record_date: '2000-11-28'
+      record_reference: null
+      content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
+      friendly_name: 2000-11-28-ebook-the-fatima-secret
+  - claim_id: 81f19627-5177-4dfb-b282-dbafa25ea905
+    claim_hash: a5d9cdeacdc9d465868c2e7e3584de0a867968ba178d80e90dbe532918b3eecf
+    content: During a papal audience in 1951, someone called out 'Long live the pope of Fatima!' and Pius XII answered with
+      a smile, 'That's me!'
+    original_excerpt: During a papal audience in 1951 someone called out, "Long live the pope of Fatima!" Pius XII answered
+      with a smile, "That's me!"
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 9dd4a9e0-df04-4593-83cb-d36dc7dabdab
+      title: Pius XII
+    provenance_chain:
+      origin_kind: speaker
+      origin: Pius XII
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 9dd4a9e0-df04-4593-83cb-d36dc7dabdab
+        title: Pius XII
+        slug: pius-xii
+      - node_id: a751c238-56c3-410d-beca-fb77715733af
+        title: Papal audience 'pope of Fatima' remark (1951)
+        slug: papal-audience-pope-of-fatima-remark-1951
+    date: '1951'
+    date_end: null
+    location_in_record: ch15:16069-16193
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 171e1337-151f-40c5-8b9a-659faac4c5f6
+      record_title: The Fatima Secret
+      record_date: '2000-11-28'
+      record_reference: null
+      content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
+      friendly_name: 2000-11-28-ebook-the-fatima-secret
+  - claim_id: ac7f1a44-a95b-4f68-9594-5565ac9057f2
+    claim_hash: b5c48408324f0a717d2d59bb31b081d225790babcc0c7b0fd565dc0e219d5afc
+    content: Despite being called the 'pope of Fatima', Pius XII did not succeed in overcoming Vatican opposition to performing
+      the consecration act desired by the Virgin Mary.
+    original_excerpt: Nevertheless the "pope of Fatima" did not succeed in overcoming the opposition in the Vatican to performing
+      the act desired by the Madonna.
+    claim_type: opinion
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 9dd4a9e0-df04-4593-83cb-d36dc7dabdab
+        title: Pius XII
+        slug: pius-xii
+      - node_id: cb54ad51-94b1-4a33-b036-7c00ad40cf6b
+        title: Vatican
+        slug: vatican
+    date: null
+    date_end: null
+    location_in_record: ch15:16199-16330
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 171e1337-151f-40c5-8b9a-659faac4c5f6
+      record_title: The Fatima Secret
+      record_date: '2000-11-28'
+      record_reference: null
+      content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
+      friendly_name: 2000-11-28-ebook-the-fatima-secret
+  - claim_id: 3771f05f-ffbf-4129-bcb5-b453263d1bd8
+    claim_hash: d6877c461aaced3472087b84afb28f7cce968ab59c3f89bc8c49e10015ddb564
+    content: Pius XII is described as a man of compromise who tried to please everyone and avoided confrontation, and whose
+      inability to stand firm was his undoing in his early confrontation with Hitler and the Nazis in Rome.
+    original_excerpt: Pius XII was a man of compromise, who tried to please everyone and avoided confrontation. His inability
+      to stand firm and fight for his convictions was his undoing in the early years of his papacy, in his confrontation with
+      Hitler and later with the Nazis in Rome.
+    claim_type: opinion
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 9dd4a9e0-df04-4593-83cb-d36dc7dabdab
+        title: Pius XII
+        slug: pius-xii
+      - node_id: e95835fe-733e-4777-bb60-740d9727e2c8
+        title: Adolf Hitler
+        slug: adolf-hitler
+    date: null
+    date_end: null
+    location_in_record: ch15:16339-16598
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 171e1337-151f-40c5-8b9a-659faac4c5f6
+      record_title: The Fatima Secret
+      record_date: '2000-11-28'
+      record_reference: null
+      content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
+      friendly_name: 2000-11-28-ebook-the-fatima-secret
+  - claim_id: 5c90c1b1-9901-4152-afa3-b4249f88f8e6
+    claim_hash: a1027cba518b621e0cfd2b402024e77ee3774ee8d4be1e92a0effdb9da25e08e
+    content: Although historically proven to have helped thousands of Jews escape, Pius XII never spoke out openly against
+      Hitler's anti-Semitism, which made him a target of criticism.
+    original_excerpt: Although it has been historically proven that he helped thousands of Jews to escape, the fact is that
+      he never spoke out openly against Hitler's anti-Semitism, and this made him a target of criticism.
+    claim_type: opinion
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 9dd4a9e0-df04-4593-83cb-d36dc7dabdab
+        title: Pius XII
+        slug: pius-xii
+      - node_id: e95835fe-733e-4777-bb60-740d9727e2c8
+        title: Adolf Hitler
+        slug: adolf-hitler
+    date: null
+    date_end: null
+    location_in_record: ch15:16604-16794
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 171e1337-151f-40c5-8b9a-659faac4c5f6
+      record_title: The Fatima Secret
+      record_date: '2000-11-28'
+      record_reference: null
+      content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
+      friendly_name: 2000-11-28-ebook-the-fatima-secret
+  - claim_id: 12008b96-8034-43f9-a02c-e3dbd5c6ca26
+    claim_hash: 4f23247cb79157dcfcd499e6d790641882ad5330882635cc20331a825fcfa4bb
+    content: Pius XII showed the same 'adaptability' in his dealings with the Fatima consecration request despite heaven's
+      efforts to remind him of his obligation.
+    original_excerpt: He showed the same "adaptability" in his dealings with Fatima, although heaven did everything it could
+      to remind him of his obligation.
+    claim_type: opinion
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 9dd4a9e0-df04-4593-83cb-d36dc7dabdab
+        title: Pius XII
+        slug: pius-xii
+      - node_id: cfd554b1-096e-4d54-aa89-5edc2e0c41f5
+        title: Fatima apparitions (1917)
+        slug: fatima-apparitions-1917
+    date: null
+    date_end: null
+    location_in_record: ch15:16805-16929
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 171e1337-151f-40c5-8b9a-659faac4c5f6
+      record_title: The Fatima Secret
+      record_date: '2000-11-28'
+      record_reference: null
+      content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
+      friendly_name: 2000-11-28-ebook-the-fatima-secret
+  - claim_id: 23e70044-c39c-4546-87b5-e330dbaf9218
+    claim_hash: 270c8cfa4412e1fcdaca32344a03a69d188b55dd3467d6a8f384b8205c020fa7
+    content: On 1950-10-30, Pope Pius XII had a vision in the garden of the Vatican in which the 'dance of the sun' of Fatima
+      repeated itself.
+    original_excerpt: The next day the pope had a vision in the garden of the Vatican, where the "dance of the sun" of Fatima
+      repeated itself.
+    claim_type: observation
+    attestation: first_hand
+    speaker:
+      node_id: 9dd4a9e0-df04-4593-83cb-d36dc7dabdab
+      title: Pius XII
+    provenance_chain:
+      origin_kind: speaker
+      origin: Pius XII
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 9dd4a9e0-df04-4593-83cb-d36dc7dabdab
+        title: Pius XII
+        slug: pius-xii
+      - node_id: c1cbc577-35ff-4fd6-9f6b-dce79dc91f2e
+        title: Vision of the pope in the Vatican gardens ('dance of the sun') (1950-10-30)
+        slug: vision-of-the-pope-in-the-vatican-gardens-dance-of-the-sun-1950-10-30
+    date: '1950-10-30'
+    date_end: null
+    location_in_record: ch15:17048-17161
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 171e1337-151f-40c5-8b9a-659faac4c5f6
+      record_title: The Fatima Secret
+      record_date: '2000-11-28'
+      record_reference: null
+      content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
+      friendly_name: 2000-11-28-ebook-the-fatima-secret
+  - claim_id: bef25278-a74e-46bc-870c-3361da344f42
+    claim_hash: ec5793f108e04f1836ffa63e17edeecec5d08b60134a016ef6fbd31adcd462d4
+    content: Pope Pius XII wrote that at about four o'clock in the afternoon he was taking his daily walk in the Vatican gardens,
+      reading official papers, and went up the Esplanade of Our Lady of Lourdes to the top of the hill.
+    original_excerpt: '"It was about four o''clock in the afternoon," the pope himself wrote later. "I was taking my daily
+      walk in the Vatican gardens, reading and studying various official papers. I went up the Esplanade of Our Lady of Lourdes,
+      to the top of the hill, in the passage on the right near the walls.'
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 9dd4a9e0-df04-4593-83cb-d36dc7dabdab
+      title: Pius XII
+    provenance_chain:
+      origin_kind: speaker
+      origin: Pius XII
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 9dd4a9e0-df04-4593-83cb-d36dc7dabdab
+        title: Pius XII
+        slug: pius-xii
+      - node_id: c1cbc577-35ff-4fd6-9f6b-dce79dc91f2e
+        title: Vision of the pope in the Vatican gardens ('dance of the sun') (1950-10-30)
+        slug: vision-of-the-pope-in-the-vatican-gardens-dance-of-the-sun-1950-10-30
+    date: '1950-10-30'
+    date_end: null
+    location_in_record: ch15:17171-17453
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 171e1337-151f-40c5-8b9a-659faac4c5f6
+      record_title: The Fatima Secret
+      record_date: '2000-11-28'
+      record_reference: null
+      content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
+      friendly_name: 2000-11-28-ebook-the-fatima-secret
+  - claim_id: f07ac91b-0478-4f79-b1e4-5b2c1c20846c
+    claim_hash: 92396e3dcddcb8a8a5d8c4f5c2172e07b2d8e53479df8f9d20f68376ebc9d5cc
+    content: Pope Pius XII wrote that he witnessed the sun, which was fairly high, appear as a pale, yellow, opaque globe
+      surrounded by a luminous halo, without causing him any discomfort staring at it, with a small cloud in front of it,
+      and the globe rotated and moved from left to right before reversing direction.
+    original_excerpt: '"At a certain moment, lifting my eyes from the papers in my hand, I was struck by a phenomenon that
+      I had never seen before. The sun, which was fairly high, looked like a pale, yellow, opaque globe, completely surrounded
+      by a luminous halo, which, nevertheless, did not prevent me from staring at the sun without the slightest discomfort.
+      A small cloud was in front of it. The globe began moving outward, slowly rotating, going from left to right, then reversing
+      direction.'
+    claim_type: observation
+    attestation: first_hand
+    speaker:
+      node_id: 9dd4a9e0-df04-4593-83cb-d36dc7dabdab
+      title: Pius XII
+    provenance_chain:
+      origin_kind: speaker
+      origin: Pius XII
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 9dd4a9e0-df04-4593-83cb-d36dc7dabdab
+        title: Pius XII
+        slug: pius-xii
+      - node_id: c1cbc577-35ff-4fd6-9f6b-dce79dc91f2e
+        title: Vision of the pope in the Vatican gardens ('dance of the sun') (1950-10-30)
+        slug: vision-of-the-pope-in-the-vatican-gardens-dance-of-the-sun-1950-10-30
+    date: '1950-10-30'
+    date_end: null
+    location_in_record: ch15:17462-17924
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 171e1337-151f-40c5-8b9a-659faac4c5f6
+      record_title: The Fatima Secret
+      record_date: '2000-11-28'
+      record_reference: null
+      content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
+      friendly_name: 2000-11-28-ebook-the-fatima-secret
+  - claim_id: 914ce561-c3b1-4c3e-84b4-e737d4a2f809
+    claim_hash: cffc10cd0dc36dce91918cf1971346faeda8c9a74590e9233f4f99e61c94e9dc
+    content: Pope Pius XII wrote that the same solar phenomenon repeated on the following day, then on 1950-11-01, and once
+      more on 1950-11-08, and that nothing more happened after that.
+    original_excerpt: The same thing repeated on the following day, then on November 1, and once more on November 8. Since
+      then there has been nothing more."
+    claim_type: observation
+    attestation: first_hand
+    speaker:
+      node_id: 9dd4a9e0-df04-4593-83cb-d36dc7dabdab
+      title: Pius XII
+    provenance_chain:
+      origin_kind: speaker
+      origin: Pius XII
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 9dd4a9e0-df04-4593-83cb-d36dc7dabdab
+        title: Pius XII
+        slug: pius-xii
+      - node_id: c1cbc577-35ff-4fd6-9f6b-dce79dc91f2e
+        title: Vision of the pope in the Vatican gardens ('dance of the sun') (1950-10-30)
+        slug: vision-of-the-pope-in-the-vatican-gardens-dance-of-the-sun-1950-10-30
+    date: '1950-11-08'
+    date_end: null
+    location_in_record: ch15:17935-18064
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 171e1337-151f-40c5-8b9a-659faac4c5f6
+      record_title: The Fatima Secret
+      record_date: '2000-11-28'
+      record_reference: null
+      content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
+      friendly_name: 2000-11-28-ebook-the-fatima-secret
+  - claim_id: 1f9d8c64-f000-470f-93ef-eece818710c6
+    claim_hash: 43749a8b8cd7e9d5beaff943ef2dc7db321c3c08083548a289a91e01d974d842
+    content: When Pope Pius XII asked the Vatican Observatory whether anything unusual had been reported during those periods,
+      the reply was negative.
+    original_excerpt: When the pope asked the Vatican observatory if anything unusual had been reported during those periods,
+      the reply was negative.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 49286131-da81-4d49-9b69-de49065b47c5
+        title: Vatican Observatory
+        slug: vatican-observatory
+      - node_id: 9dd4a9e0-df04-4593-83cb-d36dc7dabdab
+        title: Pius XII
+        slug: pius-xii
+      - node_id: c1cbc577-35ff-4fd6-9f6b-dce79dc91f2e
+        title: Vision of the pope in the Vatican gardens ('dance of the sun') (1950-10-30)
+        slug: vision-of-the-pope-in-the-vatican-gardens-dance-of-the-sun-1950-10-30
+    date: null
+    date_end: null
+    location_in_record: ch15:18071-18189
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 171e1337-151f-40c5-8b9a-659faac4c5f6
+      record_title: The Fatima Secret
+      record_date: '2000-11-28'
+      record_reference: null
+      content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
+      friendly_name: 2000-11-28-ebook-the-fatima-secret
+  - claim_id: 8271764e-7b01-48db-b1c2-892873a5100f
+    claim_hash: d97734b63c553fe2086e273eb22d882c07ac5fc018c2fa580958b3c9fee65c35
+    content: On 1952-07-07, Pope Pius XII composed a pastoral letter addressed to the people of Russia in which he condemned
+      the errors of godless Communism and called for the veneration of the Virgin Mary.
+    original_excerpt: On July 7, 1952, he composed a pastoral letter, addressed to the people of Russia, in which he condemned
+      the errors of godless Communism and called for the veneration of the Virgin Mary.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 9dd4a9e0-df04-4593-83cb-d36dc7dabdab
+        title: Pius XII
+        slug: pius-xii
+      - node_id: d359bb61-2dd0-4420-85ef-921ad4e57f85
+        title: Pius XII pastoral letter to the people of Russia (1952-07-07)
+        slug: pius-xii-pastoral-letter-to-the-people-of-russia-1952-07-07
+      - node_id: f52851d1-6388-4961-b21d-d5ef7454c950
+        title: Communism
+        slug: communism
+    date: '1952-07-07'
+    date_end: null
+    location_in_record: ch15:18529-18710
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 171e1337-151f-40c5-8b9a-659faac4c5f6
+      record_title: The Fatima Secret
+      record_date: '2000-11-28'
+      record_reference: null
+      content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
+      friendly_name: 2000-11-28-ebook-the-fatima-secret
+  - claim_id: fb132cd2-7318-40ee-bd1e-925448cbc879
+    claim_hash: fbb2a68bc3a50943947382b864750e8bac7708cea279e609941509ba01d09839
+    content: On 1953-09-08, Pius XII declared 1954 to be a Marian year, but made no reference to the Lady of Fatima.
+    original_excerpt: On September 8, 1953, Pius XII declared 1954 to be a Marian year. But he made no reference to the Lady
+      of Fatima.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 995e1089-d41e-4477-aab3-df8e942b1a4d
+        title: Marian Year declaration (1953-09-08)
+        slug: marian-year-declaration-1953-09-08
+      - node_id: 9dd4a9e0-df04-4593-83cb-d36dc7dabdab
+        title: Pius XII
+        slug: pius-xii
+      - node_id: cfd554b1-096e-4d54-aa89-5edc2e0c41f5
+        title: Fatima apparitions (1917)
+        slug: fatima-apparitions-1917
+    date: '1953-09-08'
+    date_end: null
+    location_in_record: ch15:18771-18877
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 171e1337-151f-40c5-8b9a-659faac4c5f6
+      record_title: The Fatima Secret
+      record_date: '2000-11-28'
+      record_reference: null
+      content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
+      friendly_name: 2000-11-28-ebook-the-fatima-secret
+  - claim_id: e3723880-a260-488b-a7f4-72121fd6f069
+    claim_hash: 414ce54b227ecfb35dc5b2579e3db163db25e57c20a246faa81109498e597f7a
+    content: Pope Pius XII eventually ordered that Sister Lúcia was only allowed to meet with people she was already in contact
+      with, and that anyone else wanting to meet her needed Vatican permission.
+    original_excerpt: Eventually the pope ordered that Sister Lúcia was only allowed to meet with those people whom she was
+      already in contact with, and anyone else who wanted to meet her would have to get permission from the Vatican.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 9dd4a9e0-df04-4593-83cb-d36dc7dabdab
+        title: Pius XII
+        slug: pius-xii
+      - node_id: bbddfa81-653b-4aa6-8e98-3ba0d1485044
+        title: Lúcia (Fatima seer)
+        slug: lucia-fatima-seer
+      - node_id: cb54ad51-94b1-4a33-b036-7c00ad40cf6b
+        title: Vatican
+        slug: vatican
+    date: null
+    date_end: null
+    location_in_record: ch15:18885-19089
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 171e1337-151f-40c5-8b9a-659faac4c5f6
+      record_title: The Fatima Secret
+      record_date: '2000-11-28'
+      record_reference: null
+      content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
+      friendly_name: 2000-11-28-ebook-the-fatima-secret
+  - claim_id: 008d7607-449d-44eb-ac83-964cad39c350
+    claim_hash: 0bef10708413a9a91501ad725e2428d4c25538bb42a1192a1eda9fcd8eb38b8e
+    content: Eugenio Pacelli, who became Pope Pius XII, was consecrated as bishop on 1917-05-13, the same day and hour that
+      the Virgin Mary appeared above the hills of Fatima, as he himself noted.
+    original_excerpt: Eugenio Pacelli, who became Pope Pius XII, had been consecrated as bishop on May 13, 1917, the very
+      day and, as he said, "at the very hour when the white-robed Queen appeared above the hills of Fatima."
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: cfbee36a-7513-41b7-84a5-99c9481fc4d7
+      title: Eugenio Pacelli
+    provenance_chain:
+      origin_kind: speaker
+      origin: Pacelli, Eugenio
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 9dd4a9e0-df04-4593-83cb-d36dc7dabdab
+        title: Pius XII
+        slug: pius-xii
+      - node_id: b6ce3d34-c2b6-4202-9498-a93262c549bf
+        title: Consecration of Eugenio Pacelli as bishop (1917-05-13)
+        slug: consecration-of-eugenio-pacelli-as-bishop-1917-05-13
+      - node_id: cfbee36a-7513-41b7-84a5-99c9481fc4d7
+        title: Eugenio Pacelli
+        slug: eugenio-pacelli
+      - node_id: cfd554b1-096e-4d54-aa89-5edc2e0c41f5
+        title: Fatima apparitions (1917)
+        slug: fatima-apparitions-1917
+    date: '1917-05-13'
+    date_end: null
+    location_in_record: ch15:4914-5108
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 171e1337-151f-40c5-8b9a-659faac4c5f6
+      record_title: The Fatima Secret
+      record_date: '2000-11-28'
+      record_reference: null
+      content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
+      friendly_name: 2000-11-28-ebook-the-fatima-secret
+  - claim_id: f987a6fc-0e21-45fc-acfb-edd87715109e
+    claim_hash: 8d3b8da628c969d8724c019f418a99f8924243cce5791931f47a994fbf682767
+    content: When Lúcia (Fatima seer) learned about the new pope Pius XII, she felt full of hope that her words would finally
+      be heard in Rome.
+    original_excerpt: When Sister Lúcia learned about the new pope, she was full of hope. It seemed that finally her words
+      would be heard in Rome.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: bbddfa81-653b-4aa6-8e98-3ba0d1485044
+      title: Lúcia (Fatima seer)
+    provenance_chain:
+      origin_kind: speaker
+      origin: Lúcia (Fatima seer)
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 9dd4a9e0-df04-4593-83cb-d36dc7dabdab
+        title: Pius XII
+        slug: pius-xii
+      - node_id: bbddfa81-653b-4aa6-8e98-3ba0d1485044
+        title: Lúcia (Fatima seer)
+        slug: lucia-fatima-seer
+    date: null
+    date_end: null
+    location_in_record: ch15:5117-5236
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 171e1337-151f-40c5-8b9a-659faac4c5f6
+      record_title: The Fatima Secret
+      record_date: '2000-11-28'
+      record_reference: null
+      content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
+      friendly_name: 2000-11-28-ebook-the-fatima-secret
+  - claim_id: 6989986e-185f-485e-a8d1-8a92a99aefb3
+    claim_hash: 67125f1fc980b60c8a3c49d867f531b35cf37d67c36bf35e2a53ec6017e7f886
+    content: On 1940-08-18, Lúcia (Fatima seer) decided to write directly to Pope Pius XII.
+    original_excerpt: On August 18, 1940, she decided to write to the new pope directly.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 9dd4a9e0-df04-4593-83cb-d36dc7dabdab
+        title: Pius XII
+        slug: pius-xii
+      - node_id: bbddfa81-653b-4aa6-8e98-3ba0d1485044
+        title: Lúcia (Fatima seer)
+        slug: lucia-fatima-seer
+    date: '1940-08-18'
+    date_end: null
+    location_in_record: ch15:5243-5300
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 171e1337-151f-40c5-8b9a-659faac4c5f6
+      record_title: The Fatima Secret
+      record_date: '2000-11-28'
+      record_reference: null
+      content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
+      friendly_name: 2000-11-28-ebook-the-fatima-secret
+  - claim_id: d2f5ea77-43be-4316-9c4d-d9593a7065d3
+    claim_hash: f8ee6c1b03301876e067786f45aa4f8ade21f93a2cd04b10550d3926544f14da
+    content: Lúcia (Fatima seer) wrote to Pius XII on 1940-10-24, two days after Jesus appeared to her again threatening to
+      punish nations for their crimes through war, hunger, and religious persecution unless the pope immediately worked to
+      convert Russia to the worship of Mary.
+    original_excerpt: Lúcia wrote on October 24 to Pius XII, two days after Jesus had appeared to her once more threatening
+      to "punish the nations for their crimes" by bringing about war, hunger, and religious persecution if the pope did not
+      immediately make a special effort to convert Russia to the worship of Mary.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: bbddfa81-653b-4aa6-8e98-3ba0d1485044
+      title: Lúcia (Fatima seer)
+    provenance_chain:
+      origin_kind: speaker
+      origin: Lúcia (Fatima seer)
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 9dd4a9e0-df04-4593-83cb-d36dc7dabdab
+        title: Pius XII
+        slug: pius-xii
+      - node_id: bbddfa81-653b-4aa6-8e98-3ba0d1485044
+        title: Lúcia (Fatima seer)
+        slug: lucia-fatima-seer
+    date: '1940-10-24'
+    date_end: null
+    location_in_record: ch15:5310-5600
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 171e1337-151f-40c5-8b9a-659faac4c5f6
+      record_title: The Fatima Secret
+      record_date: '2000-11-28'
+      record_reference: null
+      content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
+      friendly_name: 2000-11-28-ebook-the-fatima-secret
+  - claim_id: e4a20bac-9044-458a-898a-cf978ec509dd
+    claim_hash: fa508fa47e759378d15ce8b1c0d3005fda80eb42abf485a8cf77449359634e9b
+    content: Lúcia (Fatima seer)'s first letter to Pope Pius XII was censored by the bishop of Leiria, who felt it was too
+      long.
+    original_excerpt: When Lúcia's first letter to the pope was censored by the bishop of Leiria, who felt it was too long,
+      Lúcia sent off another version on December 2, 1940.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 86a3d282-0dee-49af-8533-93f32405844e
+        title: Portugal, Leiria
+        slug: leiria-portugal
+      - node_id: 9dd4a9e0-df04-4593-83cb-d36dc7dabdab
+        title: Pius XII
+        slug: pius-xii
+      - node_id: bbddfa81-653b-4aa6-8e98-3ba0d1485044
+        title: Lúcia (Fatima seer)
+        slug: lucia-fatima-seer
+    date: null
+    date_end: null
+    location_in_record: ch15:5607-5755
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 171e1337-151f-40c5-8b9a-659faac4c5f6
+      record_title: The Fatima Secret
+      record_date: '2000-11-28'
+      record_reference: null
+      content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
+      friendly_name: 2000-11-28-ebook-the-fatima-secret
+  - claim_id: 7061d03e-c65d-4b7d-a2d4-f1424c61b2bb
+    claim_hash: ebd299f3e782b9f443b37f6505f2245f67297434808fa7340ba45ac81cb830b0
+    content: Lúcia (Fatima seer) sent a second version of her letter to Pope Pius XII on 1940-12-02.
+    original_excerpt: Lúcia sent off another version on December 2, 1940.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 9dd4a9e0-df04-4593-83cb-d36dc7dabdab
+        title: Pius XII
+        slug: pius-xii
+      - node_id: bbddfa81-653b-4aa6-8e98-3ba0d1485044
+        title: Lúcia (Fatima seer)
+        slug: lucia-fatima-seer
+    date: '1940-12-02'
+    date_end: null
+    location_in_record: ch15:5709-5755
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 171e1337-151f-40c5-8b9a-659faac4c5f6
+      record_title: The Fatima Secret
+      record_date: '2000-11-28'
+      record_reference: null
+      content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
+      friendly_name: 2000-11-28-ebook-the-fatima-secret
+  - claim_id: ea7c78e7-4fab-433f-8fcb-d68ecc72f0b9
+    claim_hash: 5543f2671f4e07847b6d9535cf2d1f5354f61de43d848ff1144c4d541177424d
+    content: It was another two years before Pope Pius XII paid attention to Lúcia (Fatima seer)'s message.
+    original_excerpt: It was another two years before the pope paid attention to her message.
+    claim_type: opinion
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 9dd4a9e0-df04-4593-83cb-d36dc7dabdab
+        title: Pius XII
+        slug: pius-xii
+      - node_id: bbddfa81-653b-4aa6-8e98-3ba0d1485044
+        title: Lúcia (Fatima seer)
+        slug: lucia-fatima-seer
+    date: null
+    date_end: null
+    location_in_record: ch15:5761-5824
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 171e1337-151f-40c5-8b9a-659faac4c5f6
+      record_title: The Fatima Secret
+      record_date: '2000-11-28'
+      record_reference: null
+      content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
+      friendly_name: 2000-11-28-ebook-the-fatima-secret
+  - claim_id: df78860f-2549-49b6-b4c6-ef91874b8ef3
+    claim_hash: 6ec55014453484d4d2a28e0e393f32a39f8da6ed2e71b1d2cf718ce372298988
+    content: In his 1942-10-31 radio message, Pope Pius XII said that during hours of darkness and despair, heaven intervened
+      and Portugal regained its role as a religious nation thanks to the Virgin Mary, and that no one could have imagined
+      the horrors to come in 1936 when the Communist danger was so close.
+    original_excerpt: The pope said to the nation, in perfect Portuguese, "During the hours of darkness and despair heaven,
+      which could foresee these dangers, intervened, and Portugal, the faithful, regained its role as a religious nation,
+      thanks to the Holy Virgin, the Mother of that country, whose protection showed itself so clearly. At that time no one
+      could imagine the horrors to come in 1936, when the Communist danger was so close.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 9dd4a9e0-df04-4593-83cb-d36dc7dabdab
+      title: Pius XII
+    provenance_chain:
+      origin_kind: speaker
+      origin: Pius XII
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 2eebf534-955a-46bf-bacd-fecdd5074643
+        title: Pius XII radio message on Fatima jubilee (1942-10-31)
+        slug: pius-xii-radio-message-on-fatima-jubilee-1942-10-31
+      - node_id: 9dd4a9e0-df04-4593-83cb-d36dc7dabdab
+        title: Pius XII
+        slug: pius-xii
+    date: '1942-10-31'
+    date_end: null
+    location_in_record: ch15:8394-8806
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 171e1337-151f-40c5-8b9a-659faac4c5f6
+      record_title: The Fatima Secret
+      record_date: '2000-11-28'
+      record_reference: null
+      content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
+      friendly_name: 2000-11-28-ebook-the-fatima-secret
+  - claim_id: 81867a3b-aed8-4f1c-9da1-17c152cfe48c
+    claim_hash: 885f56771652ef0d2d1862d1cdbf31a09e8e42978609d7d59c081b70cbce2ce6
+    content: In his 1942-10-31 radio message, Pope Pius XII said the war was in its fourth year and the more the conflict
+      spread, the more dangerous it became, calling on people to ask the Virgin Mary for help again.
+    original_excerpt: '"Today we are in the fourth year of that war. The more the conflict spreads, the more dangerous it
+      becomes. Let us ask the Virgin for help once more, for She alone can help us."'
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 9dd4a9e0-df04-4593-83cb-d36dc7dabdab
+      title: Pius XII
+    provenance_chain:
+      origin_kind: speaker
+      origin: Pius XII
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 2eebf534-955a-46bf-bacd-fecdd5074643
+        title: Pius XII radio message on Fatima jubilee (1942-10-31)
+        slug: pius-xii-radio-message-on-fatima-jubilee-1942-10-31
+      - node_id: 9dd4a9e0-df04-4593-83cb-d36dc7dabdab
+        title: Pius XII
+        slug: pius-xii
+    date: '1942-10-31'
+    date_end: null
+    location_in_record: ch15:8815-8987
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 171e1337-151f-40c5-8b9a-659faac4c5f6
+      record_title: The Fatima Secret
+      record_date: '2000-11-28'
+      record_reference: null
+      content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
+      friendly_name: 2000-11-28-ebook-the-fatima-secret
+  - claim_id: e59e1b41-96bf-4a97-a41b-88eefa6c285a
+    claim_hash: dc87d36b4b6431b26bc2482b404110a5927da1d3c8069cb9a12953995d413bf9
+    content: In his 1942-10-31 radio message, Pope Pius XII made a subtle reference to Russia by referring to peoples separated
+      by error and discord whose homes once displayed Mary's holy icon, but who now hid it away until better days.
+    original_excerpt: Pope Pius XII fulfilled, at least in principle, the wish of the Madonna, by including a subtle reference
+      to Russia, referring to "peoples separated by error and discord, where once there wasn't a single house that did not
+      display Your holy icon, which today are hidden away until better days."
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 9dd4a9e0-df04-4593-83cb-d36dc7dabdab
+      title: Pius XII
+    provenance_chain:
+      origin_kind: speaker
+      origin: Pius XII
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 2eebf534-955a-46bf-bacd-fecdd5074643
+        title: Pius XII radio message on Fatima jubilee (1942-10-31)
+        slug: pius-xii-radio-message-on-fatima-jubilee-1942-10-31
+      - node_id: 9dd4a9e0-df04-4593-83cb-d36dc7dabdab
+        title: Pius XII
+        slug: pius-xii
+      - node_id: d97aed00-0c54-4966-958c-c62dffcedfb9
+        title: Soviet Union
+        slug: soviet-union
+    date: '1942-10-31'
+    date_end: null
+    location_in_record: ch15:8993-9280
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 171e1337-151f-40c5-8b9a-659faac4c5f6
+      record_title: The Fatima Secret
+      record_date: '2000-11-28'
+      record_reference: null
+      content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
+      friendly_name: 2000-11-28-ebook-the-fatima-secret
+  - claim_id: ab6df9bd-c7b5-41ab-ba00-c4fab2031d63
+    claim_hash: b9cadbfc874dde5c6630e6ae0b6d5719ba07af5d0f7d924d09ca5d5f2871df73
+    content: On 1942-12-08, the day Pope Pius XII repeated the consecration, the Battle of Stalingrad began, which ended the
+      German march to the east and is considered the turning point of World War II.
+    original_excerpt: On the day when Pope Pius repeated the consecration, December 8, 1942, the battle of Stalingrad began,
+      which ended the German march to the east and is considered the turning point of World War II.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 0f9aa10e-8dfd-4ae9-a03f-750a51ef7dda
+        title: Pius XII repetition of the consecration (1942-12-08)
+        slug: pius-xii-repetition-of-the-consecration-1942-12-08
+      - node_id: 9909a3a9-aa87-44f5-a762-31d1d802ceb9
+        title: Battle of Stalingrad (1942-12-08 to 1943-02-02)
+        slug: battle-of-stalingrad-1942-12-08-to-1943-02-02
+      - node_id: 9dd4a9e0-df04-4593-83cb-d36dc7dabdab
+        title: Pius XII
+        slug: pius-xii
+      - node_id: dcb95bd1-7593-4fe4-a992-2fc6a05fcb2c
+        title: World War II
+        slug: world-war-ii
+    date: '1942-12-08'
+    date_end: null
+    location_in_record: ch15:9991-10184
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 171e1337-151f-40c5-8b9a-659faac4c5f6
+      record_title: The Fatima Secret
+      record_date: '2000-11-28'
+      record_reference: null
+      content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
+      friendly_name: 2000-11-28-ebook-the-fatima-secret
+  - claim_id: 4eacd9fa-933d-4501-a0fc-343f778806fc
+    claim_hash: 4596677d1864d56e1fe85a6c449672343a9d78ce49706058c330e9e47c47fa6c
+    content: Sister Lúcia repeatedly tried to get an audience with Pope Pius XII to personally tell him the contents of the
+      Third Secret, but these attempts failed.
+    original_excerpt: Sister Lúcia tried repeatedly to get an audience with Pope Pius XII, to personally tell him about the
+      contents of the Third Secret. After these attempts failed,
+    claim_type: testimony
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: narration
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 9dd4a9e0-df04-4593-83cb-d36dc7dabdab
+        title: Pius XII
+        slug: pius-xii
+      - node_id: b6b60271-c105-4b1f-89ec-bd02227901d9
+        title: Third Secret of Fatima
+        slug: third-secret-of-fatima
+      - node_id: bbddfa81-653b-4aa6-8e98-3ba0d1485044
+        title: Lúcia (Fatima seer)
+        slug: lucia-fatima-seer
+    date: null
+    date_end: null
+    location_in_record: ch16:3838-3991
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 171e1337-151f-40c5-8b9a-659faac4c5f6
+      record_title: The Fatima Secret
+      record_date: '2000-11-28'
+      record_reference: null
+      content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
+      friendly_name: 2000-11-28-ebook-the-fatima-secret
+  - claim_id: 980a22cb-8da9-4f35-87e0-24ed8513c235
+    claim_hash: e667e52ba2729288f1dc1bf3d5321b25ecc6066c4b63b4e50b1e45451c428e7e
+    content: Pope Pius XII wanted the Third Secret of Fatima under his control in order to prevent it from falling into the
+      wrong hands, even by mistake.
+    original_excerpt: The pope wanted to have the secret under his control in order to prevent it from falling into the wrong
+      hands, even by mistake.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: narration
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 9dd4a9e0-df04-4593-83cb-d36dc7dabdab
+        title: Pius XII
+        slug: pius-xii
+      - node_id: b6b60271-c105-4b1f-89ec-bd02227901d9
+        title: Third Secret of Fatima
+        slug: third-secret-of-fatima
+    date: null
+    date_end: null
+    location_in_record: ch16:6055-6174
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 171e1337-151f-40c5-8b9a-659faac4c5f6
+      record_title: The Fatima Secret
+      record_date: '2000-11-28'
+      record_reference: null
+      content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
+      friendly_name: 2000-11-28-ebook-the-fatima-secret
+  - claim_id: 43340122-1ded-4e9a-963e-93736136eff4
+    claim_hash: ef14388451ea6d1673ecf7863fb25fa1c51042d73d8005556046d4a85b023b5d
+    content: The Third Secret envelope was kept in the most secure part of the Vatican, the private quarters of Pope Pius
+      XII.
+    original_excerpt: The envelope was kept in the most secure part of the Vatican, the private quarters of Pope Pius XII.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: narration
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 9dd4a9e0-df04-4593-83cb-d36dc7dabdab
+        title: Pius XII
+        slug: pius-xii
+      - node_id: b6b60271-c105-4b1f-89ec-bd02227901d9
+        title: Third Secret of Fatima
+        slug: third-secret-of-fatima
+      - node_id: cb54ad51-94b1-4a33-b036-7c00ad40cf6b
+        title: Vatican
+        slug: vatican
+    date: null
+    date_end: null
+    location_in_record: ch16:6184-6280
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 171e1337-151f-40c5-8b9a-659faac4c5f6
+      record_title: The Fatima Secret
+      record_date: '2000-11-28'
+      record_reference: null
+      content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
+      friendly_name: 2000-11-28-ebook-the-fatima-secret
+  - claim_id: e6f009ba-1cdf-4a3e-97e1-97a9fdb8a7d3
+    claim_hash: 0c40fa4448c961e0bb029500a18ef164097a14a59470bb02a49bf3f1195ba7c3
+    content: When French journalist Robert Serrou of Paris Match was given permission to photograph the pope's private apartment
+      on 1957-05-14, he noticed a small wooden safe standing on a table bearing the words "Secret of the Holy Office."
+    original_excerpt: When the French journalist Robert Serrou of Paris Match was given permission to photograph the pope’s
+      private apartment on May 14, 1957, he noticed a small wooden safe standing on a table, bearing the words “Secret of
+      the Holy Office.”
+    claim_type: observation
+    attestation: first_hand
+    speaker:
+      node_id: 6809b8f3-f710-463e-a449-efe785c89a8f
+      title: Robert Serrou
+    provenance_chain:
+      origin_kind: speaker
+      origin: Serrou, Robert
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 00327df7-19aa-40c9-b7df-656e66c0b14c
+        title: Robert Serrou's photograph of the Third Secret safe (1957-05-14)
+        slug: robert-serrous-photograph-of-the-third-secret-safe-1957-05-14
+      - node_id: 1b33521e-9d11-418f-be06-462332c6fef5
+        title: Paris-Match
+        slug: paris-match
+      - node_id: 33472749-aeb3-467b-ab00-0a0ca0cb3ff5
+        title: Holy Office
+        slug: holy-office
+      - node_id: 6809b8f3-f710-463e-a449-efe785c89a8f
+        title: Robert Serrou
+        slug: robert-serrou
+      - node_id: 9dd4a9e0-df04-4593-83cb-d36dc7dabdab
+        title: Pius XII
+        slug: pius-xii
+    date: '1957-05-14'
+    date_end: null
+    location_in_record: ch16:6285-6512
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 171e1337-151f-40c5-8b9a-659faac4c5f6
+      record_title: The Fatima Secret
+      record_date: '2000-11-28'
+      record_reference: null
+      content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
+      friendly_name: 2000-11-28-ebook-the-fatima-secret
+  - claim_id: 1d92a93d-3f58-449d-8119-02e67d7f5993
+    claim_hash: c6337d4ad452e21f4a9118f7fae4d24fd22e481e2b9d0f7f6a67dfb96f71aa95
+    content: Robert Serrou asked the pope's housekeeper what was in the small wooden safe, and she replied that it was the
+      Third Secret of Fatima.
+    original_excerpt: “What’s in it?” he asked the pope’s housekeeper. “The Third Secret of Fatima” was her reply.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 6809b8f3-f710-463e-a449-efe785c89a8f
+      title: Robert Serrou
+    provenance_chain:
+      origin_kind: speaker
+      origin: Serrou, Robert
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 6809b8f3-f710-463e-a449-efe785c89a8f
+        title: Robert Serrou
+        slug: robert-serrou
+      - node_id: 9dd4a9e0-df04-4593-83cb-d36dc7dabdab
+        title: Pius XII
+        slug: pius-xii
+      - node_id: b6b60271-c105-4b1f-89ec-bd02227901d9
+        title: Third Secret of Fatima
+        slug: third-secret-of-fatima
+    date: '1957-05-14'
+    date_end: null
+    location_in_record: ch16:6523-6609
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 171e1337-151f-40c5-8b9a-659faac4c5f6
+      record_title: The Fatima Secret
+      record_date: '2000-11-28'
+      record_reference: null
+      content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
+      friendly_name: 2000-11-28-ebook-the-fatima-secret
+  - claim_id: 422a4b51-72bf-4f2c-bbb0-c27f9b2b2481
+    claim_hash: bbdc73f2a105c8cadc8dfd1d20007122e2a0a6876ef0fd4eb71896e07e718e98
+    content: Michael Hesemann assesses that Pope Pius XII probably never read the Third Secret document and likely was, like
+      others, waiting for 1960, the date set for the opening of the seal.
+    original_excerpt: Did Pius XII ever read the document? Probably not. One can assume that he, too, was waiting for 1960,
+      the magical date set for the opening of the seal.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 6e230da1-2d10-4a16-920d-3dbc2369e898
+      title: Michael Hesemann
+    provenance_chain:
+      origin_kind: speaker
+      origin: Hesemann, Michael
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 6e230da1-2d10-4a16-920d-3dbc2369e898
+        title: Michael Hesemann
+        slug: michael-hesemann
+      - node_id: 9dd4a9e0-df04-4593-83cb-d36dc7dabdab
+        title: Pius XII
+        slug: pius-xii
+      - node_id: b6b60271-c105-4b1f-89ec-bd02227901d9
+        title: Third Secret of Fatima
+        slug: third-secret-of-fatima
+    date: null
+    date_end: null
+    location_in_record: ch16:6693-6839
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 171e1337-151f-40c5-8b9a-659faac4c5f6
+      record_title: The Fatima Secret
+      record_date: '2000-11-28'
+      record_reference: null
+      content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
+      friendly_name: 2000-11-28-ebook-the-fatima-secret
+  - claim_id: 51ccdd3e-93a9-4a96-8a38-e7a47df1d982
+    claim_hash: 7f05b9d2b5fcd3ff4f3fe1ec3fefe95fee596bac460c95752f2607fd239b7687
+    content: Pope Pius XII died on 1958-10-09, a year after the death of Bishop da Silva of Leiria.
+    original_excerpt: He died on October 9, 1958, a year after the death of da Silva, the bishop of Leiria.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: narration
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 29dcfae9-39d3-4fa7-ba84-d068cc392028
+        title: Death of Pius XII (1958-10-09)
+        slug: death-of-pius-xii-1958-10-09
+      - node_id: 6a21d50a-411c-4fdf-af44-835b98c9a88c
+        title: Death of Bishop da Silva (1957-10)
+        slug: death-of-bishop-da-silva-1957-10
+      - node_id: 9dd4a9e0-df04-4593-83cb-d36dc7dabdab
+        title: Pius XII
+        slug: pius-xii
+      - node_id: bcf2064d-2e0d-4d33-9abc-278aaae68bec
+        title: José Alves Correira da Silva
+        slug: jose-alves-correira-da-silva
+    date: '1958-10-09'
+    date_end: null
+    location_in_record: ch16:6868-6946
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 171e1337-151f-40c5-8b9a-659faac4c5f6
+      record_title: The Fatima Secret
+      record_date: '2000-11-28'
+      record_reference: null
+      content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
+      friendly_name: 2000-11-28-ebook-the-fatima-secret
+  - claim_id: cbdd3aea-579f-498d-b1fc-ba205e9d4469
+    claim_hash: 6f58140a101340b7a00d8abea59be6e1d1a623527dfba7aba03413199927347f
+    content: Pope John XXIII went to Castel Gandolfo in August 1959 for the summer holidays before deciding to open the Third
+      Secret envelope, unlike his predecessor who had not done so out of respect for a falsely interpreted 1960 date.
+    original_excerpt: 'When he went to Castelgondolfo in August for the summer holidays, he was surrounded by peace and quiet,
+      so perhaps he felt the time had come. Thus Pope John decided to do what his predecessor, out of respect for a falsely
+      interpreted date, had not had the courage to do: he opened the envelope containing the message of Fatima.'
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: narration
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 11e5d467-eddb-4565-b496-984e85ca249a
+        title: Italy, Castel Gandolfo
+        slug: castel-gandolfo-italy
+      - node_id: 9dd4a9e0-df04-4593-83cb-d36dc7dabdab
+        title: Pius XII
+        slug: pius-xii
+      - node_id: b6b60271-c105-4b1f-89ec-bd02227901d9
+        title: Third Secret of Fatima
+        slug: third-secret-of-fatima
+      - node_id: ff3b3953-e566-48ff-933f-8c176d32db54
+        title: John XXIII
+        slug: john-xxiii
+    date: 1959-08
+    date_end: null
+    location_in_record: ch16:9559-9879
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 171e1337-151f-40c5-8b9a-659faac4c5f6
+      record_title: The Fatima Secret
+      record_date: '2000-11-28'
+      record_reference: null
+      content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
+      friendly_name: 2000-11-28-ebook-the-fatima-secret
+  - claim_id: 22d9a161-c1d4-45a7-85b9-32bbb274ab96
+    claim_hash: 6f0f82f15c6579bca81be1c8dd844859a0434f41de439f87d82fc1d49898a3d0
+    content: Five popes - Pius XII, John XXIII, Paul VI, John Paul I, and John Paul II - kept the Third Secret of Fatima under
+      lock and key.
+    original_excerpt: There must have been a reason why five popes, Pius XII, John XXIII, Paul VI, and John Paul I and II,
+      kept it under lock and key.
+    claim_type: observation
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 4484f20d-af42-40af-b0ab-964afae98ec7
+        title: John Paul II
+        slug: john-paul-ii
+      - node_id: 9dd4a9e0-df04-4593-83cb-d36dc7dabdab
+        title: Pius XII
+        slug: pius-xii
+      - node_id: b6b60271-c105-4b1f-89ec-bd02227901d9
+        title: Third Secret of Fatima
+        slug: third-secret-of-fatima
+      - node_id: e63698cc-274e-4e27-b576-a027fb10f37f
+        title: Paul VI
+        slug: paul-vi
+      - node_id: ff3b3953-e566-48ff-933f-8c176d32db54
+        title: John XXIII
+        slug: john-xxiii
+    date: null
+    date_end: null
+    location_in_record: ch18:3861-3985
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 171e1337-151f-40c5-8b9a-659faac4c5f6
+      record_title: The Fatima Secret
+      record_date: '2000-11-28'
+      record_reference: null
+      content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
+      friendly_name: 2000-11-28-ebook-the-fatima-secret
+  - claim_id: 96970f78-0f3c-4987-b1d6-54d521909edb
+    claim_hash: 7549c15044dcd95bdbf24d517f8fe876a7b384a0291f43089b6ea3f0dfb546a6
+    content: Father Schweigl interviewed Sister Lúcia on 1952-09-02 at her convent at Coimbra on instructions from Pope Pius
+      XII.
+    original_excerpt: Father Alonso’s opinion was confirmed by Father Schweigl, who interviewed Sister Lúcia on September
+      2, 1952, at her convent at Coimbra, on instructions from Pope Pius XII.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 71ccefe7-af9a-459b-962d-787a8c17ccd6
+        title: Portugal, Coimbra
+        slug: coimbra-portugal
+      - node_id: 8b4952d7-e8f7-430d-aba8-cec960025133
+        title: Father Schweigl's interview of Sister Lúcia at Coimbra convent (1952-09-02)
+        slug: father-schweigls-interview-of-sister-lucia-at-coimbra-convent-1952-09-02
+      - node_id: 9dd4a9e0-df04-4593-83cb-d36dc7dabdab
+        title: Pius XII
+        slug: pius-xii
+      - node_id: b010bd9d-5d70-4405-997d-50e83b3bc3b6
+        title: Schweigl (Father)
+        slug: schweigl-father
+      - node_id: bbddfa81-653b-4aa6-8e98-3ba0d1485044
+        title: Lúcia (Fatima seer)
+        slug: lucia-fatima-seer
+    date: '1952-09-02'
+    date_end: null
+    location_in_record: ch18:4748-4915
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 171e1337-151f-40c5-8b9a-659faac4c5f6
+      record_title: The Fatima Secret
+      record_date: '2000-11-28'
+      record_reference: null
+      content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
+      friendly_name: 2000-11-28-ebook-the-fatima-secret
+  - claim_id: b5d67698-14ee-455c-86a9-22509d0b2184
+    claim_hash: c05c1942b1b38741520f7cd95c5ee7168c3842ed2080834ab3341190ea0adf81
+    content: John Paul II regarded himself as the Fatima pope, a title originally given to his predecessor Pius XII.
+    original_excerpt: John Paul II now looked upon himself as the Fatima pope, a title that had originally been given to his
+      predecessor Pius XII.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 4484f20d-af42-40af-b0ab-964afae98ec7
+      title: John Paul II
+    provenance_chain:
+      origin_kind: speaker
+      origin: John Paul II
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 4484f20d-af42-40af-b0ab-964afae98ec7
+        title: John Paul II
+        slug: john-paul-ii
+      - node_id: 9dd4a9e0-df04-4593-83cb-d36dc7dabdab
+        title: Pius XII
+        slug: pius-xii
+    date: null
+    date_end: null
+    location_in_record: ch19:6373-6493
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 171e1337-151f-40c5-8b9a-659faac4c5f6
+      record_title: The Fatima Secret
+      record_date: '2000-11-28'
+      record_reference: null
+      content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
+      friendly_name: 2000-11-28-ebook-the-fatima-secret
+  - claim_id: 7a05ead6-7dbc-4f23-a41e-f02546ce14dc
+    claim_hash: a95a257e2ed2eb729d6c4199e7b07ea460544755bd4e4d51011b1d61e36234c8
+    content: The Prophecy of the Popes gave Pius XII (1939-1958) the description "Pastor angelicus" ("the angelic shepherd").
+    original_excerpt: “Pastor angelicus,” the “angelic shepherd,” was the name for Pius XII (1939–1958)
+    claim_type: administrative
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: document
+      origin: Prophecy of the Popes (Saint Malachy)
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 9dd4a9e0-df04-4593-83cb-d36dc7dabdab
+        title: Pius XII
+        slug: pius-xii
+      - node_id: a67c07e8-2281-4146-a057-d5106c1a1495
+        title: Prophecy of the Popes (Saint Malachy)
+        slug: prophecy-of-the-popes-saint-malachy
+    date: null
+    date_end: null
+    location_in_record: ch21:10575-10650
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 171e1337-151f-40c5-8b9a-659faac4c5f6
+      record_title: The Fatima Secret
+      record_date: '2000-11-28'
+      record_reference: null
+      content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
+      friendly_name: 2000-11-28-ebook-the-fatima-secret
+  - claim_id: fb4805f2-1c37-444e-808d-e83530a5dcc6
+    claim_hash: 149c038920e09f1e0136302b96cb3f71641ed3eeea9109b74cc6242bf66c41e6
+    content: For Pius XII, the miracle of the sun of Fatima was repeated in the Vatican gardens.
+    original_excerpt: for whom the “miracle of the sun” of Fatima was repeated in the Vatican gardens.
+    claim_type: observation
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 9dd4a9e0-df04-4593-83cb-d36dc7dabdab
+        title: Pius XII
+        slug: pius-xii
+      - node_id: a3d7425b-b814-43c7-b4f4-a84328bded4f
+        title: Miracle of the Sun (1917-10-13)
+        slug: miracle-of-the-sun-1917-10-13
+      - node_id: c1cbc577-35ff-4fd6-9f6b-dce79dc91f2e
+        title: Vision of the pope in the Vatican gardens ('dance of the sun') (1950-10-30)
+        slug: vision-of-the-pope-in-the-vatican-gardens-dance-of-the-sun-1950-10-30
+    date: null
+    date_end: null
+    location_in_record: ch21:10657-10729
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 171e1337-151f-40c5-8b9a-659faac4c5f6
+      record_title: The Fatima Secret
+      record_date: '2000-11-28'
+      record_reference: null
+      content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
+      friendly_name: 2000-11-28-ebook-the-fatima-secret
+  - claim_id: ccf98e61-d290-44f6-a90c-40d631920558
+    claim_hash: 4aedd2d4282b0350cc64a716648a168636d7623dc8e4a8be346679bf52754d39
+    content: Pius XII proclaimed the dogma of the bodily ascension of Mary into heaven and consecrated the whole world to
+      her.
+    original_excerpt: He proclaimed the dogma of the bodily ascension of Mary into heaven and consecrated the whole world
+      to her.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 9dd4a9e0-df04-4593-83cb-d36dc7dabdab
+        title: Pius XII
+        slug: pius-xii
+    date: null
+    date_end: null
+    location_in_record: ch21:10738-10841
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 171e1337-151f-40c5-8b9a-659faac4c5f6
+      record_title: The Fatima Secret
+      record_date: '2000-11-28'
+      record_reference: null
+      content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
+      friendly_name: 2000-11-28-ebook-the-fatima-secret
+  - claim_id: 65f2743c-7f60-462f-8bf1-d8b7c6162076
+    claim_hash: 4c5abfd246018e8327e98898dccbe49c8371b9a49e7e76659ffaf7ae84855041
+    content: Pope Pius XII did his best to fulfil the wish of the Madonna for the consecration of Russia to the Immaculate
+      Heart of Mary, but did not achieve the desired effect.
+    original_excerpt: Pope Pius XII did his best to fulfill the wish of the Madonna, but did not achieve the desired effect.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 6e230da1-2d10-4a16-920d-3dbc2369e898
+      title: Michael Hesemann
+    provenance_chain:
+      origin_kind: speaker
+      origin: Michael Hesemann
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 0f9aa10e-8dfd-4ae9-a03f-750a51ef7dda
+        title: Pius XII repetition of the consecration (1942-12-08)
+        slug: pius-xii-repetition-of-the-consecration-1942-12-08
+      - node_id: 9dd4a9e0-df04-4593-83cb-d36dc7dabdab
+        title: Pius XII
+        slug: pius-xii
+    date: null
+    date_end: null
+    location_in_record: ch23:12701-12796
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 171e1337-151f-40c5-8b9a-659faac4c5f6
+      record_title: The Fatima Secret
+      record_date: '2000-11-28'
+      record_reference: null
+      content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
+      friendly_name: 2000-11-28-ebook-the-fatima-secret
+  - claim_id: adb1df6a-4569-4baf-97e1-8d1bd597b3a6
+    claim_hash: 60e5d84d4b61542cc50bb349e2d4aca8fce5b6b91b0fae35487aa86b60db74b9
+    content: Sister Lúcia said the seer children did not know the name of the pope in the vision, since the Virgin Mary did
+      not tell them whether it was Benedict XV, Pius XII, Paul VI, or John Paul II, but only that it was the pope who was
+      suffering, which made them suffer too.
+    original_excerpt: “We did not know the name of the pope. Our Lady did not tell us his name, so we did not know whether
+      it was Benedict XV or Pius XII or Paul VI or John Paul II, but it was the pope who was suffering and that made us suffer,
+      too.”
+    claim_type: testimony
+    attestation: second_hand
+    speaker:
+      node_id: bbddfa81-653b-4aa6-8e98-3ba0d1485044
+      title: Lúcia (Fatima seer)
+    provenance_chain:
+      origin_kind: named
+      origin: Lúcia (Fatima seer)
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 4484f20d-af42-40af-b0ab-964afae98ec7
+        title: John Paul II
+        slug: john-paul-ii
+      - node_id: 77cc9b26-f63f-41c7-9b05-737616bcfed9
+        title: Benedict XV
+        slug: benedict-xv
+      - node_id: 9dd4a9e0-df04-4593-83cb-d36dc7dabdab
+        title: Pius XII
+        slug: pius-xii
+      - node_id: bbddfa81-653b-4aa6-8e98-3ba0d1485044
+        title: Lúcia (Fatima seer)
+        slug: lucia-fatima-seer
+      - node_id: e63698cc-274e-4e27-b576-a027fb10f37f
+        title: Paul VI
+        slug: paul-vi
+    date: '2000-04-27'
+    date_end: null
+    location_in_record: ch24:16144-16366
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 171e1337-151f-40c5-8b9a-659faac4c5f6
+      record_title: The Fatima Secret
+      record_date: '2000-11-28'
+      record_reference: null
+      content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
+      friendly_name: 2000-11-28-ebook-the-fatima-secret
+  - claim_id: 6a1e3361-222e-4961-8dc9-202b6947bce0
+    claim_hash: d8333f41eb3ad27a7e63643d8960e15c199bef0da8fb157dd5bc57c806df7b4c
+    content: Michael Hesemann considers the message of Fatima to have influenced the secret policy of the Vatican from Pope
+      Pius XII to John Paul II.
+    original_excerpt: It influenced the secret policy of the Vatican, the smallest but most influential state on earth, from
+      Pope Pius XII to John Paul II, who believes it to be his mission to fulfill the Fatima prophecy.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 6e230da1-2d10-4a16-920d-3dbc2369e898
+      title: Michael Hesemann
+    provenance_chain:
+      origin_kind: speaker
+      origin: Hesemann, Michael
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 4484f20d-af42-40af-b0ab-964afae98ec7
+        title: John Paul II
+        slug: john-paul-ii
+      - node_id: 6e230da1-2d10-4a16-920d-3dbc2369e898
+        title: Michael Hesemann
+        slug: michael-hesemann
+      - node_id: 9dd4a9e0-df04-4593-83cb-d36dc7dabdab
+        title: Pius XII
+        slug: pius-xii
+      - node_id: cb54ad51-94b1-4a33-b036-7c00ad40cf6b
+        title: Vatican
+        slug: vatican
+      - node_id: cfd554b1-096e-4d54-aa89-5edc2e0c41f5
+        title: Fatima apparitions (1917)
+        slug: fatima-apparitions-1917
+    date: null
+    date_end: null
+    location_in_record: ch5:5613-5803
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 171e1337-151f-40c5-8b9a-659faac4c5f6
+      record_title: The Fatima Secret
+      record_date: '2000-11-28'
+      record_reference: null
+      content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
+      friendly_name: 2000-11-28-ebook-the-fatima-secret
+  - claim_id: 6d6bcbc5-434b-44e6-ac0a-e32404103f0b
+    claim_hash: b7341bc7095f675de982a9fac9e199fb80fd75d4c7f88999633fa505e06dc925
+    content: All popes of the twentieth century, from Pius XII up to John Paul II, have been aware of the messages of the
+      Virgin Mary at Fatima.
+    original_excerpt: All the popes of this century have been aware of the Virgin's messages, from Pope Pius XII up to John
+      Paul II
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 6e230da1-2d10-4a16-920d-3dbc2369e898
+      title: Michael Hesemann
+    provenance_chain:
+      origin_kind: speaker
+      origin: Michael Hesemann
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 4484f20d-af42-40af-b0ab-964afae98ec7
+        title: John Paul II
+        slug: john-paul-ii
+      - node_id: 6e230da1-2d10-4a16-920d-3dbc2369e898
+        title: Michael Hesemann
+        slug: michael-hesemann
+      - node_id: 9dd4a9e0-df04-4593-83cb-d36dc7dabdab
+        title: Pius XII
+        slug: pius-xii
+    date: null
+    date_end: null
+    location_in_record: ch7:5611-5718
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 171e1337-151f-40c5-8b9a-659faac4c5f6
+      record_title: The Fatima Secret
+      record_date: '2000-11-28'
+      record_reference: null
+      content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
+      friendly_name: 2000-11-28-ebook-the-fatima-secret
+  - claim_id: 86ca639a-0b26-4e25-ae60-cf7535396729
+    claim_hash: b695c2d9f699a113d7e4affa39713903a4bee9504fe0bcd9974b5db4e6a1884c
+    content: Information about the Magenta UFO crash was back-channelled through Pope Pius XII to Franklin D. Roosevelt.
+    original_excerpt: but it was the information about it was back channeled through Pope Pius the 12th to FDR
+    claim_type: hearsay
+    attestation: first_hand
+    speaker:
+      node_id: 079d4381-4273-418b-bc9a-468623f95c6e
+      title: Jesse Mitchells
+    provenance_chain:
+      origin_kind: speaker
+      origin: Jesse Michels
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 079d4381-4273-418b-bc9a-468623f95c6e
+        title: Jesse Mitchells
+        slug: jesse-mitchells
+      - node_id: 7bc18490-04d7-41f1-94bf-99d46ba1f4e2
+        title: Franklin D. Roosevelt
+        slug: franklin-d-roosevelt
+      - node_id: 9dd4a9e0-df04-4593-83cb-d36dc7dabdab
+        title: Pius XII
+        slug: pius-xii
+      - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
+        title: 2004 USS Nimitz UAP encounter
+        slug: 2004-uss-nimitz-uap-encounter
+    date: null
+    date_end: null
+    location_in_record: 02:22:56.4-02:23:02.2
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 64b84f95-238c-4ab7-a678-bee55f985b14
+      record_title: The UFO Cover-Up Leads to One Secret Society — and One Final Event
+      record_date: '2026-07-14'
+      record_reference: https://www.youtube.com/watch?v=kccrkCGGzX4
+      content_hash: sha256:d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7b5a1b98d
+      friendly_name: null
+  - claim_id: a0dbee2c-83c9-494e-88d7-f8b4d716d94a
+    claim_hash: 6f9493f95d0d96360d24919880524a5e4aa01faadaabefd63831ea74d9536bce
+    content: Jesse Michels considers the Magenta UFO crash to have fallen under the jurisdiction of Pope Pius XII.
+    original_excerpt: The Magenta crash was under, you know, I think, what was it? Pope Pius?... The XII... It was like, you
+      know, under his jurisdiction.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 079d4381-4273-418b-bc9a-468623f95c6e
+      title: Jesse Mitchells
+    provenance_chain:
+      origin_kind: speaker
+      origin: Jesse Michels
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 079d4381-4273-418b-bc9a-468623f95c6e
+        title: Jesse Mitchells
+        slug: jesse-mitchells
+      - node_id: 28fefccb-4947-48ab-9e17-00a032cd9bdd
+        title: Italy, Lombardy, Magenta
+        slug: lombardy-magenta-italy
+      - node_id: 84a72770-ffbf-4f8f-8327-b66fd0183da1
+        title: Magenta Unidentified Flying Object (UFO) crash
+        slug: magenta-unidentified-flying-object-ufo-crash
+      - node_id: 9dd4a9e0-df04-4593-83cb-d36dc7dabdab
+        title: Pius XII
+        slug: pius-xii
+    date: null
+    date_end: null
+    location_in_record: 01:05:11.5-01:05:18.9
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: dc9d8bc8-9c1f-46b4-9b89-8d86b6b08e1d
+      record_title: Jesse Michels, UAPGerb & Chris Ramsay - Flying Saucer Diner
+      record_date: '2026-07-17'
+      record_reference: https://www.youtube.com/watch?v=HFLBDi87888
+      content_hash: sha256:7b2e272d7c82fdda745ee0354d7c9cc4b0d5ba5506015ca27edd9169a768b262
+      friendly_name: null
+  - claim_id: dd0819af-f534-4ede-8cb8-f302ae3948a3
+    claim_hash: 4271a894c83ebf9ab15fb01d79b6cb14b402e187287b24cb7428dfafd530f6f6
+    content: Pope Pius XII helped back-channel information about the Magenta UFO crash to Franklin D. Roosevelt.
+    original_excerpt: And then he helped back channel the information back to FDR.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 079d4381-4273-418b-bc9a-468623f95c6e
+      title: Jesse Mitchells
+    provenance_chain:
+      origin_kind: speaker
+      origin: Jesse Michels
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 0233cce8-2687-4ccb-b0ab-8bbaddf5656c
+        title: Holy See
+        slug: holy-see
+      - node_id: 7bc18490-04d7-41f1-94bf-99d46ba1f4e2
+        title: Franklin D. Roosevelt
+        slug: franklin-d-roosevelt
+      - node_id: 84a72770-ffbf-4f8f-8327-b66fd0183da1
+        title: Magenta Unidentified Flying Object (UFO) crash
+        slug: magenta-unidentified-flying-object-ufo-crash
+      - node_id: 9dd4a9e0-df04-4593-83cb-d36dc7dabdab
+        title: Pius XII
+        slug: pius-xii
+    date: null
+    date_end: null
+    location_in_record: 01:05:20.6-01:05:23.8
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: dc9d8bc8-9c1f-46b4-9b89-8d86b6b08e1d
+      record_title: Jesse Michels, UAPGerb & Chris Ramsay - Flying Saucer Diner
+      record_date: '2026-07-17'
+      record_reference: https://www.youtube.com/watch?v=HFLBDi87888
+      content_hash: sha256:7b2e272d7c82fdda745ee0354d7c9cc4b0d5ba5506015ca27edd9169a768b262
+      friendly_name: null

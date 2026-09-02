@@ -1,0 +1,790 @@
+schema: anomalica/brief/1
+brief_hash: 198732699ae60ae35c9a04f2cc0626ee9516f0cb6a96797290e401e0745b4961
+page:
+  kind: entity
+  node_id: 49286131-da81-4d49-9b69-de49065b47c5
+  node_type: organisation
+  title: Vatican Observatory
+  slug: vatican-observatory
+  claim_count: 17
+  claim_count_total: 17
+generated:
+  graph_version: '2026-09-01T10:10:49.863545+00:00'
+size:
+  claims: 17
+  tokens_estimated: 5050
+  sized_against: 1050000
+publication:
+  status: published
+  note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
+    transcripts are gated elsewhere.
+belonging:
+  verified: 0
+  suspect_excluded: 0
+  unreviewed: 17
+related_nodes:
+  - node_id: 11e5d467-eddb-4565-b496-984e85ca249a
+    title: Italy, Castel Gandolfo
+    node_type: place
+    slug: castel-gandolfo-italy
+    shared_claims: 6
+  - node_id: 81999e13-93e8-4815-8b1a-7f5b14f67464
+    title: Guy Consolmagno
+    node_type: person
+    slug: guy-consolmagno
+    shared_claims: 5
+  - node_id: 24136f1c-4cb7-4030-8ed1-35855481a65e
+    title: Tyler D.
+    node_type: person
+    slug: tyler-d
+    shared_claims: 4
+  - node_id: f2daae19-9351-4a8e-b466-664f83887f61
+    title: Diana Walsh Pasulka
+    node_type: person
+    slug: diana-walsh-pasulka
+    shared_claims: 3
+  - node_id: 60bb9fef-425c-41b7-987d-1baacef0f6f1
+    title: Johannes Kepler
+    node_type: person
+    slug: johannes-kepler
+    shared_claims: 2
+  - node_id: 753b0207-bd56-4e7e-bbaf-e06f7ea4672f
+    title: Nicolaus Copernicus
+    node_type: person
+    slug: nicolaus-copernicus
+    shared_claims: 2
+  - node_id: 4290466e-f30e-426f-8357-e31c0e252b5a
+    title: Vatican City
+    node_type: place
+    slug: vatican-city
+    shared_claims: 2
+  - node_id: aa530356-1368-4a26-ba50-abea6300a359
+    title: American Association for the Advancement of Science
+    node_type: organisation
+    slug: american-association-for-the-advancement-of-science
+    shared_claims: 1
+  - node_id: 80d720b4-e7b2-469f-ba83-5ce236b9b5f4
+    title: American Cosmic
+    node_type: document
+    slug: american-cosmic
+    shared_claims: 1
+  - node_id: afd545f2-606a-48bd-b855-74e04596f1c3
+    title: Christopher Corbally
+    node_type: person
+    slug: christopher-corbally
+    shared_claims: 1
+  - node_id: fb641c4d-01aa-4932-8d51-f0c8e8edc900
+    title: Father McDonnell
+    node_type: person
+    slug: father-mcdonnell
+    shared_claims: 1
+  - node_id: ccaada0b-7348-4d54-bd7b-22896b137901
+    title: Maria of Agreda
+    node_type: person
+    slug: maria-of-agreda
+    shared_claims: 1
+  - node_id: 9dd4a9e0-df04-4593-83cb-d36dc7dabdab
+    title: Pius XII
+    node_type: person
+    slug: pius-xii
+    shared_claims: 1
+  - node_id: 338783a8-a20b-4c83-863c-a84f252f5cd7
+    title: USA, Arizona, Tucson
+    node_type: place
+    slug: arizona-tucson-usa
+    shared_claims: 1
+  - node_id: d0c8f9ff-47d3-4dbe-91a4-aaa9c1e0cd51
+    title: Ufology
+    node_type: topic
+    slug: ufology
+    shared_claims: 1
+  - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
+    title: Unidentified Flying Object (UFO)
+    node_type: topic
+    slug: unidentified-flying-object-ufo
+    shared_claims: 1
+  - node_id: 51c6a45d-9531-473d-ad1d-402a379aeadf
+    title: Vatican Secret Archives
+    node_type: organisation
+    slug: vatican-secret-archives
+    shared_claims: 1
+  - node_id: c1cbc577-35ff-4fd6-9f6b-dce79dc91f2e
+    title: Vision of the pope in the Vatican gardens ('dance of the sun') (1950-10-30)
+    node_type: event
+    slug: vision-of-the-pope-in-the-vatican-gardens-dance-of-the-sun-1950-10-30
+    shared_claims: 1
+claims:
+  - claim_id: 1f9d8c64-f000-470f-93ef-eece818710c6
+    claim_hash: 43749a8b8cd7e9d5beaff943ef2dc7db321c3c08083548a289a91e01d974d842
+    content: When Pope Pius XII asked the Vatican Observatory whether anything unusual had been reported during those periods,
+      the reply was negative.
+    original_excerpt: When the pope asked the Vatican observatory if anything unusual had been reported during those periods,
+      the reply was negative.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 49286131-da81-4d49-9b69-de49065b47c5
+        title: Vatican Observatory
+        slug: vatican-observatory
+      - node_id: 9dd4a9e0-df04-4593-83cb-d36dc7dabdab
+        title: Pius XII
+        slug: pius-xii
+      - node_id: c1cbc577-35ff-4fd6-9f6b-dce79dc91f2e
+        title: Vision of the pope in the Vatican gardens ('dance of the sun') (1950-10-30)
+        slug: vision-of-the-pope-in-the-vatican-gardens-dance-of-the-sun-1950-10-30
+    date: null
+    date_end: null
+    location_in_record: ch15:18071-18189
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 171e1337-151f-40c5-8b9a-659faac4c5f6
+      record_title: The Fatima Secret
+      record_date: '2000-11-28'
+      record_reference: null
+      content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
+      friendly_name: 2000-11-28-ebook-the-fatima-secret
+  - claim_id: 586cd227-4e52-4fe3-966d-961b02ea4640
+    claim_hash: 0ede2aa384636d85fa4396c388992c71129419f5eb200e128ec46e258ad6744d
+    content: At the annual congress of the American Association for the Advancement of Science, when the possible discovery
+      of remains of bacterial life in a meteorite from Mars was discussed, Christopher Corbally of the Vatican Observatory
+      in Tucson, Arizona said the concept of an "anthropocentric God" should be extended toward a God more almighty than previously
+      imagined.
+    original_excerpt: At the annual congress of the American Association for the Advancement of Science, when the implications
+      of the possible discovery of remains of bacterial life in a meteorite from Mars were discussed, Dr. Christopher Corbally
+      of the Vatican Observatory in Tucson, Arizona, said, “We only have to extend the concept of an ‘anthropocentric God’
+      toward a God which is more almighty than we were ever able to imagine.”
+    claim_type: opinion
+    attestation: second_hand
+    speaker:
+      node_id: afd545f2-606a-48bd-b855-74e04596f1c3
+      title: Christopher Corbally
+    provenance_chain:
+      origin_kind: named
+      origin: Corbally, Christopher
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 338783a8-a20b-4c83-863c-a84f252f5cd7
+        title: USA, Arizona, Tucson
+        slug: arizona-tucson-usa
+      - node_id: 49286131-da81-4d49-9b69-de49065b47c5
+        title: Vatican Observatory
+        slug: vatican-observatory
+      - node_id: aa530356-1368-4a26-ba50-abea6300a359
+        title: American Association for the Advancement of Science
+        slug: american-association-for-the-advancement-of-science
+      - node_id: afd545f2-606a-48bd-b855-74e04596f1c3
+        title: Christopher Corbally
+        slug: christopher-corbally
+    date: null
+    date_end: null
+    location_in_record: ch4:16765-17170
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 171e1337-151f-40c5-8b9a-659faac4c5f6
+      record_title: The Fatima Secret
+      record_date: '2000-11-28'
+      record_reference: null
+      content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
+      friendly_name: 2000-11-28-ebook-the-fatima-secret
+  - claim_id: c1b9ccc9-7f71-4c48-812f-6c5b1af1300d
+    claim_hash: 20b7a63eb4a76152a5ffc9effad2a26b227880bf195bfc11e866f5f7a15e933b
+    content: Guy Consolmagno is the astronomer and director of the Vatican Observatory.
+    original_excerpt: The astronomer and director of the Vatican Observatory, Brother Guy Consolmagno
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 49286131-da81-4d49-9b69-de49065b47c5
+        title: Vatican Observatory
+        slug: vatican-observatory
+      - node_id: 81999e13-93e8-4815-8b1a-7f5b14f67464
+        title: Guy Consolmagno
+        slug: guy-consolmagno
+    date: null
+    date_end: null
+    location_in_record: ch3:47250-47318
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 288e1100-0497-41df-ba08-9890e519b0b9
+      record_title: American Cosmic
+      record_date: '2019'
+      record_reference: null
+      content_hash: sha256:ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b16ac4758
+      friendly_name: 2019-ebook-american-cosmic
+  - claim_id: a69ee38e-1ec6-4993-a468-15c1fb7b2163
+    claim_hash: 5bacbb10e4e8f072ebd475e81bb2c49c410434928ece71710357824994d691ce
+    content: Guy Consolmagno, the astronomer and director of the Vatican Observatory, considers truth a moving target that
+      scientists try their best to identify.
+    original_excerpt: The astronomer and director of the Vatican Observatory, Brother Guy Consolmagno, reminds us, “Truth
+      is a moving target,” and scientists try their best to identify it.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 81999e13-93e8-4815-8b1a-7f5b14f67464
+      title: Guy Consolmagno
+    provenance_chain:
+      origin_kind: speaker
+      origin: Guy Consolmagno
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 49286131-da81-4d49-9b69-de49065b47c5
+        title: Vatican Observatory
+        slug: vatican-observatory
+      - node_id: 81999e13-93e8-4815-8b1a-7f5b14f67464
+        title: Guy Consolmagno
+        slug: guy-consolmagno
+    date: null
+    date_end: null
+    location_in_record: ch3:47250-47413
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 288e1100-0497-41df-ba08-9890e519b0b9
+      record_title: American Cosmic
+      record_date: '2019'
+      record_reference: null
+      content_hash: sha256:ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b16ac4758
+      friendly_name: 2019-ebook-american-cosmic
+  - claim_id: 7f6925cc-4a3d-490f-8799-f00a148d5517
+    claim_hash: 992ac4d2fe692843e48bce035941184260e05c4ee04675bb98df2087532d15c6
+    content: Nicolaus Copernicus's books are now prominently displayed in the Vatican Observatory archive.
+    original_excerpt: Ironically, his books are now prominently displayed in the archive.
+    claim_type: observation
+    attestation: first_hand
+    speaker:
+      node_id: f2daae19-9351-4a8e-b466-664f83887f61
+      title: Diana Walsh Pasulka
+    provenance_chain:
+      origin_kind: speaker
+      origin: D. W. Pasulka
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 49286131-da81-4d49-9b69-de49065b47c5
+        title: Vatican Observatory
+        slug: vatican-observatory
+      - node_id: 753b0207-bd56-4e7e-bbaf-e06f7ea4672f
+        title: Nicolaus Copernicus
+        slug: nicolaus-copernicus
+    date: null
+    date_end: null
+    location_in_record: ch7:1038-1097
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 288e1100-0497-41df-ba08-9890e519b0b9
+      record_title: American Cosmic
+      record_date: '2019'
+      record_reference: null
+      content_hash: sha256:ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b16ac4758
+      friendly_name: 2019-ebook-american-cosmic
+  - claim_id: 215b546c-741d-41ce-8e16-d292c855d556
+    claim_hash: f14648d989f0e77cdb2629049b90912bc3daff283e11f41d64f926da8e189884
+    content: D. W. Pasulka visited the Vatican Secret Archives and the Vatican Observatory in Castel Gandolfo, Italy while
+      researching American Cosmic.
+    original_excerpt: This book began with a journey, and it ends with a journey, a plane trip to Rome where I visited the
+      Vatican Secret Archives and the Vatican Observatory in Castel Gandolfo
+    claim_type: observation
+    attestation: first_hand
+    speaker:
+      node_id: f2daae19-9351-4a8e-b466-664f83887f61
+      title: Diana Walsh Pasulka
+    provenance_chain:
+      origin_kind: speaker
+      origin: D. W. Pasulka
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 11e5d467-eddb-4565-b496-984e85ca249a
+        title: Italy, Castel Gandolfo
+        slug: castel-gandolfo-italy
+      - node_id: 49286131-da81-4d49-9b69-de49065b47c5
+        title: Vatican Observatory
+        slug: vatican-observatory
+      - node_id: 51c6a45d-9531-473d-ad1d-402a379aeadf
+        title: Vatican Secret Archives
+        slug: vatican-secret-archives
+      - node_id: 80d720b4-e7b2-469f-ba83-5ce236b9b5f4
+        title: American Cosmic
+        slug: american-cosmic
+      - node_id: f2daae19-9351-4a8e-b466-664f83887f61
+        title: Diana Walsh Pasulka
+        slug: diana-walsh-pasulka
+    date: null
+    date_end: null
+    location_in_record: ch7:173-336
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 288e1100-0497-41df-ba08-9890e519b0b9
+      record_title: American Cosmic
+      record_date: '2019'
+      record_reference: null
+      content_hash: sha256:ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b16ac4758
+      friendly_name: 2019-ebook-american-cosmic
+  - claim_id: 0545cb9d-20b8-4171-bb39-109b739704e1
+    claim_hash: 20ec466790784b06a45c7ea176e6d995398da072d3ea10fdd35149744723ee9f
+    content: Guy Consolmagno is the director of the Vatican Observatory and an astronomer who specialises in meteorites and
+      asteroids.
+    original_excerpt: Brother Guy Consolmagno, director of the observatory, is a well-known astronomer who specializes in
+      meteorites and asteroids.
+    claim_type: administrative
+    attestation: first_hand
+    speaker:
+      node_id: f2daae19-9351-4a8e-b466-664f83887f61
+      title: Diana Walsh Pasulka
+    provenance_chain:
+      origin_kind: speaker
+      origin: D. W. Pasulka
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 49286131-da81-4d49-9b69-de49065b47c5
+        title: Vatican Observatory
+        slug: vatican-observatory
+      - node_id: 81999e13-93e8-4815-8b1a-7f5b14f67464
+        title: Guy Consolmagno
+        slug: guy-consolmagno
+    date: null
+    date_end: null
+    location_in_record: ch7:23894-24009
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 288e1100-0497-41df-ba08-9890e519b0b9
+      record_title: American Cosmic
+      record_date: '2019'
+      record_reference: null
+      content_hash: sha256:ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b16ac4758
+      friendly_name: 2019-ebook-american-cosmic
+  - claim_id: 1c8597c4-8a9c-47a8-898b-684723d149cb
+    claim_hash: f14e39cfa2675b498e0d050f09eeff8ddd19d771e7aedaa1ce25823d14fc24a0
+    content: Guy Consolmagno gave Diana Pasulka and Tyler D. a tour of the Vatican Observatory premises at Castel Gandolfo
+      and presented Diana Pasulka with the keys to the observatory archive.
+    original_excerpt: He gave us a brief tour of the premises, carefully showing us which doors we could enter and which were
+      off-limits. After the tour, Brother Guy presented me with the keys to their archive.
+    claim_type: observation
+    attestation: first_hand
+    speaker:
+      node_id: f2daae19-9351-4a8e-b466-664f83887f61
+      title: Diana Walsh Pasulka
+    provenance_chain:
+      origin_kind: speaker
+      origin: D. W. Pasulka
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 11e5d467-eddb-4565-b496-984e85ca249a
+        title: Italy, Castel Gandolfo
+        slug: castel-gandolfo-italy
+      - node_id: 24136f1c-4cb7-4030-8ed1-35855481a65e
+        title: Tyler D.
+        slug: tyler-d
+      - node_id: 49286131-da81-4d49-9b69-de49065b47c5
+        title: Vatican Observatory
+        slug: vatican-observatory
+      - node_id: 81999e13-93e8-4815-8b1a-7f5b14f67464
+        title: Guy Consolmagno
+        slug: guy-consolmagno
+      - node_id: f2daae19-9351-4a8e-b466-664f83887f61
+        title: Diana Walsh Pasulka
+        slug: diana-walsh-pasulka
+    date: null
+    date_end: null
+    location_in_record: ch7:24178-24358
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 288e1100-0497-41df-ba08-9890e519b0b9
+      record_title: American Cosmic
+      record_date: '2019'
+      record_reference: null
+      content_hash: sha256:ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b16ac4758
+      friendly_name: 2019-ebook-american-cosmic
+  - claim_id: 0c818ada-2037-41ee-b8dd-e69676974aba
+    claim_hash: 01b8a638888861ed22f574089bb8ca99276e78c1d9001c0368f8391a60b47a0b
+    content: The Vatican Observatory archive holds works by Johannes Kepler and other scientists of Western cosmology.
+    original_excerpt: we were going to be looking at the works of Johannes Kepler and other great scientists of Western cosmology.
+    claim_type: observation
+    attestation: first_hand
+    speaker:
+      node_id: f2daae19-9351-4a8e-b466-664f83887f61
+      title: Diana Walsh Pasulka
+    provenance_chain:
+      origin_kind: speaker
+      origin: D. W. Pasulka
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 49286131-da81-4d49-9b69-de49065b47c5
+        title: Vatican Observatory
+        slug: vatican-observatory
+      - node_id: 60bb9fef-425c-41b7-987d-1baacef0f6f1
+        title: Johannes Kepler
+        slug: johannes-kepler
+    date: null
+    date_end: null
+    location_in_record: ch7:24511-24609
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 288e1100-0497-41df-ba08-9890e519b0b9
+      record_title: American Cosmic
+      record_date: '2019'
+      record_reference: null
+      content_hash: sha256:ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b16ac4758
+      friendly_name: 2019-ebook-american-cosmic
+  - claim_id: 8add7c80-bb6b-48d4-86fa-8439a4d16f53
+    claim_hash: 44063b0516ff8f738e8764e1fb924e30609a25655c0290ca635195ddc2dd01ee
+    content: The Vatican Observatory archive at Castel Gandolfo displays old technologies of space exploration, including
+      early telescopes.
+    original_excerpt: 'On exhibit are old technologies of space exploration: the first telescopes developed to scour the galaxy.'
+    claim_type: observation
+    attestation: first_hand
+    speaker:
+      node_id: f2daae19-9351-4a8e-b466-664f83887f61
+      title: Diana Walsh Pasulka
+    provenance_chain:
+      origin_kind: speaker
+      origin: D. W. Pasulka
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 11e5d467-eddb-4565-b496-984e85ca249a
+        title: Italy, Castel Gandolfo
+        slug: castel-gandolfo-italy
+      - node_id: 49286131-da81-4d49-9b69-de49065b47c5
+        title: Vatican Observatory
+        slug: vatican-observatory
+    date: null
+    date_end: null
+    location_in_record: ch7:24867-24965
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 288e1100-0497-41df-ba08-9890e519b0b9
+      record_title: American Cosmic
+      record_date: '2019'
+      record_reference: null
+      content_hash: sha256:ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b16ac4758
+      friendly_name: 2019-ebook-american-cosmic
+  - claim_id: 01d131de-8a22-49bd-bf4e-1c78ec4e28db
+    claim_hash: 7f0808d769a113f35ba87980660bc94b58b6f0274b9dcab59ea6663ba81f1f1e
+    content: Guy Consolmagno lined the walls of the Vatican Observatory archive with old photographs of nuns who had worked
+      at the observatory and helped chart star patterns.
+    original_excerpt: Brother Guy had lined the walls with old photographs of nuns who had worked at the observatory and helped
+      to chart star patterns.
+    claim_type: observation
+    attestation: first_hand
+    speaker:
+      node_id: f2daae19-9351-4a8e-b466-664f83887f61
+      title: Diana Walsh Pasulka
+    provenance_chain:
+      origin_kind: speaker
+      origin: D. W. Pasulka
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 49286131-da81-4d49-9b69-de49065b47c5
+        title: Vatican Observatory
+        slug: vatican-observatory
+      - node_id: 81999e13-93e8-4815-8b1a-7f5b14f67464
+        title: Guy Consolmagno
+        slug: guy-consolmagno
+    date: null
+    date_end: null
+    location_in_record: ch7:24973-25093
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 288e1100-0497-41df-ba08-9890e519b0b9
+      record_title: American Cosmic
+      record_date: '2019'
+      record_reference: null
+      content_hash: sha256:ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b16ac4758
+      friendly_name: 2019-ebook-american-cosmic
+  - claim_id: 455e9614-ea2b-4299-8983-dc0cdab149aa
+    claim_hash: 7d537fbe5f2544e9412320baa6424d1edabda99d93c8e562b8c3ee144bb799a9
+    content: Diana Pasulka told the Jesuit brothers and priests at the Vatican Observatory that she and Tyler D. were looking
+      for instances of aerial phenomena in the archive, without using the word 'UFO'.
+    original_excerpt: “We are looking for instances of aerial phenomena.”
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: f2daae19-9351-4a8e-b466-664f83887f61
+      title: Diana Walsh Pasulka
+    provenance_chain:
+      origin_kind: speaker
+      origin: D. W. Pasulka
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 24136f1c-4cb7-4030-8ed1-35855481a65e
+        title: Tyler D.
+        slug: tyler-d
+      - node_id: 49286131-da81-4d49-9b69-de49065b47c5
+        title: Vatican Observatory
+        slug: vatican-observatory
+      - node_id: f2daae19-9351-4a8e-b466-664f83887f61
+        title: Diana Walsh Pasulka
+        slug: diana-walsh-pasulka
+    date: null
+    date_end: null
+    location_in_record: ch7:25999-26038
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 288e1100-0497-41df-ba08-9890e519b0b9
+      record_title: American Cosmic
+      record_date: '2019'
+      record_reference: null
+      content_hash: sha256:ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b16ac4758
+      friendly_name: 2019-ebook-american-cosmic
+  - claim_id: eb5e48b7-3ca2-4ee4-8e46-ac43b47fe5b5
+    claim_hash: 2e44519f560064bb284c0beee48894be0eabb9375c40e15804f5410da2bb57dc
+    content: The Jesuit scientists at the Vatican Observatory are not actively searching for UFOs and are not engaged in ufology.
+    original_excerpt: To set the record straight, the Jesuits at the Vatican Observatory are not actively searching for UFOs,
+      nor are they engaged in anything related to ufology.
+    claim_type: observation
+    attestation: first_hand
+    speaker:
+      node_id: f2daae19-9351-4a8e-b466-664f83887f61
+      title: Diana Walsh Pasulka
+    provenance_chain:
+      origin_kind: speaker
+      origin: D. W. Pasulka
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 49286131-da81-4d49-9b69-de49065b47c5
+        title: Vatican Observatory
+        slug: vatican-observatory
+      - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
+        title: Unidentified Flying Object (UFO)
+        slug: unidentified-flying-object-ufo
+      - node_id: d0c8f9ff-47d3-4dbe-91a4-aaa9c1e0cd51
+        title: Ufology
+        slug: ufology
+    date: null
+    date_end: null
+    location_in_record: ch7:26241-26389
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 288e1100-0497-41df-ba08-9890e519b0b9
+      record_title: American Cosmic
+      record_date: '2019'
+      record_reference: null
+      content_hash: sha256:ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b16ac4758
+      friendly_name: 2019-ebook-american-cosmic
+  - claim_id: 2e65114e-69f1-403b-a6a7-bfb7612a0672
+    claim_hash: 29b3484cf480b6f7378c9eb624c1c5f33f11224e33145496d91c236000babe7f
+    content: The Vatican Observatory at Castel Gandolfo, Italy is one of the oldest established observatories in the Western
+      world.
+    original_excerpt: the Vatican Observatory in Castel Gandolfo, one of the oldest established observatories in the Western
+      world
+    claim_type: observation
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: narration
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 11e5d467-eddb-4565-b496-984e85ca249a
+        title: Italy, Castel Gandolfo
+        slug: castel-gandolfo-italy
+      - node_id: 49286131-da81-4d49-9b69-de49065b47c5
+        title: Vatican Observatory
+        slug: vatican-observatory
+    date: null
+    date_end: null
+    location_in_record: ch7:302-405
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 288e1100-0497-41df-ba08-9890e519b0b9
+      record_title: American Cosmic
+      record_date: '2019'
+      record_reference: null
+      content_hash: sha256:ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b16ac4758
+      friendly_name: 2019-ebook-american-cosmic
+  - claim_id: 412a5a6f-0b41-4918-8ae7-447389e5b200
+    claim_hash: 7443ef18382113becef9cb52b04561332f67a2b61ffdafaa1a9904dda2f73f93
+    content: Tyler D.'s understanding of the 'beings' was transformed by his encounter with Sister Maria of Agreda's alleged
+      bilocations, information about levitations of other saints and apparitions of the Virgin Mary, hospital rounds with
+      Father McDonnell, and insights from scientists at the Vatican and Vatican Observatory.
+    original_excerpt: That night, Tyler admitted that his understanding of the “beings” was being transformed by his experiences.
+      His encounter with Sister Maria and her alleged bilocations... coupled with what he had felt while making hospital rounds
+      with Father McDonnell, and then the insights he gathered from the other scientists at the Vatican and the Vatican Observatory,
+      shifted his interpretive structure with respect to what he thought might be extraterrestrials.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 24136f1c-4cb7-4030-8ed1-35855481a65e
+      title: Tyler D.
+    provenance_chain:
+      origin_kind: speaker
+      origin: Tyler D.
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 24136f1c-4cb7-4030-8ed1-35855481a65e
+        title: Tyler D.
+        slug: tyler-d
+      - node_id: 4290466e-f30e-426f-8357-e31c0e252b5a
+        title: Vatican City
+        slug: vatican-city
+      - node_id: 49286131-da81-4d49-9b69-de49065b47c5
+        title: Vatican Observatory
+        slug: vatican-observatory
+      - node_id: ccaada0b-7348-4d54-bd7b-22896b137901
+        title: Maria of Agreda
+        slug: maria-of-agreda
+      - node_id: fb641c4d-01aa-4932-8d51-f0c8e8edc900
+        title: Father McDonnell
+        slug: father-mcdonnell
+    date: null
+    date_end: null
+    location_in_record: ch7:38963-39499
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 288e1100-0497-41df-ba08-9890e519b0b9
+      record_title: American Cosmic
+      record_date: '2019'
+      record_reference: null
+      content_hash: sha256:ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b16ac4758
+      friendly_name: 2019-ebook-american-cosmic
+  - claim_id: e1eae98b-f167-4684-ad0b-9c62208f8070
+    claim_hash: 5044e5ae589184d4322674472e9e95eb09aba3b8f2fe8af1257bddedde47993b
+    content: The Vatican Observatory archive at Castel Gandolfo houses works of Johannes Kepler and Nicolaus Copernicus.
+    original_excerpt: I was given the keys to their archive, which housed, among many other things, works of Johannes Kepler
+      and Nicolaus Copernicus
+    claim_type: observation
+    attestation: first_hand
+    speaker:
+      node_id: f2daae19-9351-4a8e-b466-664f83887f61
+      title: Diana Walsh Pasulka
+    provenance_chain:
+      origin_kind: speaker
+      origin: D. W. Pasulka
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 11e5d467-eddb-4565-b496-984e85ca249a
+        title: Italy, Castel Gandolfo
+        slug: castel-gandolfo-italy
+      - node_id: 49286131-da81-4d49-9b69-de49065b47c5
+        title: Vatican Observatory
+        slug: vatican-observatory
+      - node_id: 60bb9fef-425c-41b7-987d-1baacef0f6f1
+        title: Johannes Kepler
+        slug: johannes-kepler
+      - node_id: 753b0207-bd56-4e7e-bbaf-e06f7ea4672f
+        title: Nicolaus Copernicus
+        slug: nicolaus-copernicus
+    date: null
+    date_end: null
+    location_in_record: ch7:634-750
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 288e1100-0497-41df-ba08-9890e519b0b9
+      record_title: American Cosmic
+      record_date: '2019'
+      record_reference: null
+      content_hash: sha256:ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b16ac4758
+      friendly_name: 2019-ebook-american-cosmic
+  - claim_id: 5c6d6603-530d-4b35-9202-3f7b11bb9aca
+    claim_hash: 999e1cd5538b2f5b11fb210ccb62c3c6bf6c6c520348a03670ca28340ff28e4f
+    content: Tyler D.'s religious conversion happened dramatically and rapidly during his visit to the Vatican and the observatory
+      at Castel Gandolfo, Italy.
+    original_excerpt: Tyler’s experience was an accelerated version that happened dramatically during his visit to the Vatican
+      and the observatory at Castel Gandolfo.
+    claim_type: observation
+    attestation: first_hand
+    speaker:
+      node_id: f2daae19-9351-4a8e-b466-664f83887f61
+      title: Diana Walsh Pasulka
+    provenance_chain:
+      origin_kind: speaker
+      origin: D. W. Pasulka
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 11e5d467-eddb-4565-b496-984e85ca249a
+        title: Italy, Castel Gandolfo
+        slug: castel-gandolfo-italy
+      - node_id: 24136f1c-4cb7-4030-8ed1-35855481a65e
+        title: Tyler D.
+        slug: tyler-d
+      - node_id: 4290466e-f30e-426f-8357-e31c0e252b5a
+        title: Vatican City
+        slug: vatican-city
+      - node_id: 49286131-da81-4d49-9b69-de49065b47c5
+        title: Vatican Observatory
+        slug: vatican-observatory
+    date: null
+    date_end: null
+    location_in_record: ch7:8250-8385
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 288e1100-0497-41df-ba08-9890e519b0b9
+      record_title: American Cosmic
+      record_date: '2019'
+      record_reference: null
+      content_hash: sha256:ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b16ac4758
+      friendly_name: 2019-ebook-american-cosmic

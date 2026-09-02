@@ -1,0 +1,967 @@
+schema: anomalica/brief/1
+brief_hash: 57bb53e018e8ab894e3be36c7089d50719db160865af39177a21628463010e72
+page:
+  kind: entity
+  node_id: 2ac310ed-0be4-43bd-a103-64143b4d20a8
+  node_type: person
+  title: Jeffrey Epstein
+  slug: jeffrey-epstein
+  claim_count: 20
+  claim_count_total: 20
+generated:
+  graph_version: '2026-09-01T10:10:49.863545+00:00'
+size:
+  claims: 20
+  tokens_estimated: 6015
+  sized_against: 1050000
+publication:
+  status: published
+  note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
+    transcripts are gated elsewhere.
+belonging:
+  verified: 0
+  suspect_excluded: 0
+  unreviewed: 20
+related_nodes:
+  - node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+    title: Ross Coulthart
+    node_type: person
+    slug: ross-coulthart
+    shared_claims: 4
+  - node_id: 25b424e6-dc71-4394-b364-20668adc6d28
+    title: Steve Bannon
+    node_type: person
+    slug: steve-bannon
+    shared_claims: 3
+  - node_id: 512669b1-56d1-4dd0-ab30-2f7c3e402c1b
+    title: Yuri Gribov
+    node_type: person
+    slug: yuri-gribov
+    shared_claims: 3
+  - node_id: 1f03fa1d-9929-4575-a27b-52dba43ec087
+    title: Anti-Gravity Propulsion
+    node_type: topic
+    slug: anti-gravity-propulsion
+    shared_claims: 2
+  - node_id: 5ac2dd73-33b0-469b-8bc4-cc7b017f3c64
+    title: Casimir effect
+    node_type: topic
+    slug: casimir-effect
+    shared_claims: 2
+  - node_id: 9dd2f69c-3a6c-494b-83f1-2e49bb02d551
+    title: Closer to Truth
+    node_type: organisation
+    slug: closer-to-truth
+    shared_claims: 2
+  - node_id: 5155f44f-289f-4f79-b477-0d6d3b188d52
+    title: Deep state
+    node_type: topic
+    slug: deep-state
+    shared_claims: 2
+  - node_id: 5ef63b42-d0d7-4dbe-bd33-47180bd177be
+    title: Epstein files
+    node_type: document
+    slug: epstein-files
+    shared_claims: 2
+  - node_id: 079d4381-4273-418b-bc9a-468623f95c6e
+    title: Jesse Mitchells
+    node_type: person
+    slug: jesse-mitchells
+    shared_claims: 2
+  - node_id: b65ca672-cb9e-4a57-a0fb-56ede7e118a4
+    title: Los Alamos National Laboratory
+    node_type: organisation
+    slug: los-alamos-national-laboratory
+    shared_claims: 2
+  - node_id: 83befb44-3578-4a94-81f1-1136a1e56df7
+    title: Robert Kuhn
+    node_type: person
+    slug: robert-kuhn
+    shared_claims: 2
+  - node_id: eb22a102-29d0-46a3-b27d-a49639b9b86f
+    title: USA, New Mexico, Zorro Ranch
+    node_type: place
+    slug: new-mexico-zorro-ranch-usa
+    shared_claims: 2
+  - node_id: 659d3a53-e4f1-4d2f-95f4-081fce0370f5
+    title: 1970s United States Church Committee investigation
+    node_type: event
+    slug: 1970s-united-states-church-committee-investigation
+    shared_claims: 1
+  - node_id: d838e7a4-6492-45b1-90ca-9dbdcc0fecef
+    title: Bill Richardson
+    node_type: person
+    slug: bill-richardson
+    shared_claims: 1
+  - node_id: b0c0fde0-37e6-4632-8d64-a95091f03a49
+    title: Bob Lazar
+    node_type: person
+    slug: bob-lazar
+    shared_claims: 1
+  - node_id: 38b84d4a-96df-4684-bb46-f6f64f392add
+    title: Central Intelligence Agency (CIA)
+    node_type: organisation
+    slug: central-intelligence-agency-cia
+    shared_claims: 1
+  - node_id: 94caa3ca-cefb-49db-b569-a266095c1bf7
+    title: Church Committee investigation into the Central Intelligence Agency (CIA)
+    node_type: project
+    slug: church-committee-investigation-into-the-central-intelligence-agency-cia
+    shared_claims: 1
+  - node_id: 30c25905-7c45-4757-811a-26c8f348d138
+    title: Cold fusion
+    node_type: topic
+    slug: cold-fusion
+    shared_claims: 1
+  - node_id: 3c02aabc-e2ae-4fe8-b2cb-4efcdf28e45c
+    title: Ghislaine Maxwell
+    node_type: person
+    slug: ghislaine-maxwell
+    shared_claims: 1
+  - node_id: 6f1a9022-ceda-40d1-8b85-4bcbf1aad6f9
+    title: Martin Fleischmann
+    node_type: person
+    slug: martin-fleischmann
+    shared_claims: 1
+  - node_id: da6f939c-ab3a-4bfa-91d9-2737b24b1a68
+    title: Public Broadcasting Service (PBS)
+    node_type: organisation
+    slug: public-broadcasting-service-pbs
+    shared_claims: 1
+  - node_id: 04a3d97d-b37a-487f-9891-f70171c453e0
+    title: Stanley Pons
+    node_type: person
+    slug: stanley-pons
+    shared_claims: 1
+  - node_id: 99b62ee0-a336-4919-9804-070632a0e1a3
+    title: USA, New Mexico, Los Alamos
+    node_type: place
+    slug: new-mexico-los-alamos-usa
+    shared_claims: 1
+  - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
+    title: Unidentified Anomalous Phenomena (UAP)
+    node_type: topic
+    slug: unidentified-anomalous-phenomena-uap
+    shared_claims: 1
+  - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
+    title: Unidentified Flying Object (UFO)
+    node_type: topic
+    slug: unidentified-flying-object-ufo
+    shared_claims: 1
+  - node_id: 06d065a8-507a-488d-bdd0-50aa4c983490
+    title: Zero-point energy
+    node_type: topic
+    slug: zero-point-energy
+    shared_claims: 1
+claims:
+  - claim_id: c9b19aba-936d-43b4-9a8e-1d69e583fbf4
+    claim_hash: 44c1217aeec37f7ace4323a2522c614a40c798397fced8dafa5781e965fb7e7d
+    content: Ross Coulthart does not think the current United States administration will get away with trying to bury the
+      Jeffrey Epstein story.
+    original_excerpt: i don't think the current administration is going to get away with trying to bury the Epstein story
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+      title: Ross Coulthart
+    provenance_chain:
+      origin_kind: speaker
+      origin: Ross Coulthart
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 2ac310ed-0be4-43bd-a103-64143b4d20a8
+        title: Jeffrey Epstein
+        slug: jeffrey-epstein
+      - node_id: 5ef63b42-d0d7-4dbe-bd33-47180bd177be
+        title: Epstein files
+        slug: epstein-files
+      - node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+        title: Ross Coulthart
+        slug: ross-coulthart
+    date: null
+    date_end: null
+    location_in_record: 01:26:48.5-01:26:53.8
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: fd845823-8784-462c-a981-4775525b6f84
+      record_title: The DANGEROUS Truth About UFOs - Ross Coulthart | DEBRIEFED ep. 76
+      record_date: '2026-02-20'
+      record_reference: https://www.youtube.com/watch?v=idBryc0eWww
+      content_hash: sha256:73be106d406f6d35a063a894e8384e7da0918eb8597d2107a9e3653becca2bdc
+      friendly_name: null
+  - claim_id: c6f2d985-adb7-4361-94f2-f1e879f5e537
+    claim_hash: d9c82855b77d6c9d1ab4da20141942eeee451db3e183375dab5a25ea27ec6c2b
+    content: Ross Coulthart compares the building public outrage over the Jeffrey Epstein case to the public outrage that
+      sparked the Church Committee investigation into the abuses of the Central Intelligence Agency in the 1970s.
+    original_excerpt: it's very like the impetus that built the public outrage that sparked the Church commission into the
+      CIA's abuses in the 1970s
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+      title: Ross Coulthart
+    provenance_chain:
+      origin_kind: speaker
+      origin: Ross Coulthart
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 2ac310ed-0be4-43bd-a103-64143b4d20a8
+        title: Jeffrey Epstein
+        slug: jeffrey-epstein
+      - node_id: 38b84d4a-96df-4684-bb46-f6f64f392add
+        title: Central Intelligence Agency (CIA)
+        slug: central-intelligence-agency-cia
+      - node_id: 659d3a53-e4f1-4d2f-95f4-081fce0370f5
+        title: 1970s United States Church Committee investigation
+        slug: 1970s-united-states-church-committee-investigation
+      - node_id: 94caa3ca-cefb-49db-b569-a266095c1bf7
+        title: Church Committee investigation into the Central Intelligence Agency (CIA)
+        slug: church-committee-investigation-into-the-central-intelligence-agency-cia
+      - node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+        title: Ross Coulthart
+        slug: ross-coulthart
+    date: null
+    date_end: null
+    location_in_record: 01:27:14.5-01:27:20.6
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: fd845823-8784-462c-a981-4775525b6f84
+      record_title: The DANGEROUS Truth About UFOs - Ross Coulthart | DEBRIEFED ep. 76
+      record_date: '2026-02-20'
+      record_reference: https://www.youtube.com/watch?v=idBryc0eWww
+      content_hash: sha256:73be106d406f6d35a063a894e8384e7da0918eb8597d2107a9e3653becca2bdc
+      friendly_name: null
+  - claim_id: 942be072-205b-4fd0-bdfa-d6dc4165efaa
+    claim_hash: a48a3b98b2ad0a9eedd7b3ed1a4fcc42be6cdef6f54389bfaaed39c14ed9fc52
+    content: Ross Coulthart hopes momentum for the Unidentified Aerial Phenomena issue can be generated as part of a broader
+      investigation arising from the Jeffrey Epstein case and the idea of a deep state.
+    original_excerpt: What I'm wondering is whether we can get momentum for the UAP issue out of that as well, as part of
+      a broader investigation
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+      title: Ross Coulthart
+    provenance_chain:
+      origin_kind: speaker
+      origin: Ross Coulthart
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 2ac310ed-0be4-43bd-a103-64143b4d20a8
+        title: Jeffrey Epstein
+        slug: jeffrey-epstein
+      - node_id: 5155f44f-289f-4f79-b477-0d6d3b188d52
+        title: Deep state
+        slug: deep-state
+      - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
+        title: Unidentified Anomalous Phenomena (UAP)
+        slug: unidentified-anomalous-phenomena-uap
+      - node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+        title: Ross Coulthart
+        slug: ross-coulthart
+    date: null
+    date_end: null
+    location_in_record: 01:27:23.1-01:27:30.5
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: fd845823-8784-462c-a981-4775525b6f84
+      record_title: The DANGEROUS Truth About UFOs - Ross Coulthart | DEBRIEFED ep. 76
+      record_date: '2026-02-20'
+      record_reference: https://www.youtube.com/watch?v=idBryc0eWww
+      content_hash: sha256:73be106d406f6d35a063a894e8384e7da0918eb8597d2107a9e3653becca2bdc
+      friendly_name: null
+  - claim_id: 92ec6af0-c3d4-4819-ae3d-0a259ad10196
+    claim_hash: a9d291f1f294be62ad158c848d81b3b0821719030cbdccdec6b87f968e29d5a4
+    content: Ross Coulthart considers that a group of people connected to the Jeffrey Epstein case are being protected by
+      people in power, and that the government is misusing its legal authority to stop further investigation of them.
+    original_excerpt: there really is a group of people who are being protected, frankly, by people in power. The government
+      is misusing its authority, its legal power to stop further investigation
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+      title: Ross Coulthart
+    provenance_chain:
+      origin_kind: speaker
+      origin: Ross Coulthart
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 2ac310ed-0be4-43bd-a103-64143b4d20a8
+        title: Jeffrey Epstein
+        slug: jeffrey-epstein
+      - node_id: 5ef63b42-d0d7-4dbe-bd33-47180bd177be
+        title: Epstein files
+        slug: epstein-files
+      - node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+        title: Ross Coulthart
+        slug: ross-coulthart
+    date: null
+    date_end: null
+    location_in_record: 01:29:10.1-01:29:20.2
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: fd845823-8784-462c-a981-4775525b6f84
+      record_title: The DANGEROUS Truth About UFOs - Ross Coulthart | DEBRIEFED ep. 76
+      record_date: '2026-02-20'
+      record_reference: https://www.youtube.com/watch?v=idBryc0eWww
+      content_hash: sha256:73be106d406f6d35a063a894e8384e7da0918eb8597d2107a9e3653becca2bdc
+      friendly_name: null
+  - claim_id: 82a81550-7a0a-45f4-892d-e23e4764ace9
+    claim_hash: 17d88f558908771f849281cbedab1f5f34c10b4459f35d60201c29ed36ab2526
+    content: The material concerning Jeffrey Epstein points to science suppression as a recurring theme, in Jesse Michels's
+      assessment.
+    original_excerpt: then you look at the Epstein stuff and it kind of points at that too and it points at a lot of science
+      suppression being a theme
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 079d4381-4273-418b-bc9a-468623f95c6e
+      title: Jesse Mitchells
+    provenance_chain:
+      origin_kind: speaker
+      origin: Jesse Michels
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 2ac310ed-0be4-43bd-a103-64143b4d20a8
+        title: Jeffrey Epstein
+        slug: jeffrey-epstein
+    date: null
+    date_end: null
+    location_in_record: 01:46:27.0-01:46:32.9
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 64b84f95-238c-4ab7-a678-bee55f985b14
+      record_title: The UFO Cover-Up Leads to One Secret Society — and One Final Event
+      record_date: '2026-07-14'
+      record_reference: https://www.youtube.com/watch?v=kccrkCGGzX4
+      content_hash: sha256:d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7b5a1b98d
+      friendly_name: null
+  - claim_id: de69b098-63b7-4799-8628-0a54ce2fcaea
+    claim_hash: 3ae7b7004c499a5f82d6973d96a5f1453007db43a679c1a8a83c5b571e93c83e
+    content: Jeffrey Epstein set up Zorro Ranch in New Mexico in order to be near retiring Los Alamos National Laboratory
+      physicists, according to Jesse Michels's account of Epstein's messages to Steve Bannon.
+    original_excerpt: he says tells Bannon that he's you know decides to set up Zorro Ranch because Los Alamos physicists
+      are retiring uh you know in New Mexico and so he wants to be you know have proximity to them
+    claim_type: hearsay
+    attestation: third_hand
+    speaker:
+      node_id: 079d4381-4273-418b-bc9a-468623f95c6e
+      title: Jesse Mitchells
+    provenance_chain:
+      origin_kind: named
+      origin: Jeffrey Epstein
+      relay:
+        - emails/messages to Steve Bannon reported in media
+        - Jesse Michels
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 25b424e6-dc71-4394-b364-20668adc6d28
+        title: Steve Bannon
+        slug: steve-bannon
+      - node_id: 2ac310ed-0be4-43bd-a103-64143b4d20a8
+        title: Jeffrey Epstein
+        slug: jeffrey-epstein
+      - node_id: b65ca672-cb9e-4a57-a0fb-56ede7e118a4
+        title: Los Alamos National Laboratory
+        slug: los-alamos-national-laboratory
+      - node_id: eb22a102-29d0-46a3-b27d-a49639b9b86f
+        title: USA, New Mexico, Zorro Ranch
+        slug: new-mexico-zorro-ranch-usa
+    date: null
+    date_end: null
+    location_in_record: 01:46:33.3-01:46:44.6
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 64b84f95-238c-4ab7-a678-bee55f985b14
+      record_title: The UFO Cover-Up Leads to One Secret Society — and One Final Event
+      record_date: '2026-07-14'
+      record_reference: https://www.youtube.com/watch?v=kccrkCGGzX4
+      content_hash: sha256:d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7b5a1b98d
+      friendly_name: null
+  - claim_id: c34a9acd-6ee5-4b44-986a-73ebfab53b62
+    claim_hash: 5a6388a913b6010898308117757a5035bdcec8bb0980a28208175b7cd064ef30
+    content: In an email, Jeffrey Epstein wrote that he killed Stanley Pons, a reference to the cold fusion work of Stanley
+      Pons and Martin Fleischmann, according to Jesse Michels.
+    original_excerpt: he says he kills Pons in an email which is cold fusion he's talking about Pons and Fleischmann
+    claim_type: hearsay
+    attestation: second_hand
+    speaker:
+      node_id: 079d4381-4273-418b-bc9a-468623f95c6e
+      title: Jesse Mitchells
+    provenance_chain:
+      origin_kind: document
+      origin: an email attributed to Jeffrey Epstein
+      relay:
+        - Jesse Michels
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 04a3d97d-b37a-487f-9891-f70171c453e0
+        title: Stanley Pons
+        slug: stanley-pons
+      - node_id: 2ac310ed-0be4-43bd-a103-64143b4d20a8
+        title: Jeffrey Epstein
+        slug: jeffrey-epstein
+      - node_id: 30c25905-7c45-4757-811a-26c8f348d138
+        title: Cold fusion
+        slug: cold-fusion
+      - node_id: 6f1a9022-ceda-40d1-8b85-4bcbf1aad6f9
+        title: Martin Fleischmann
+        slug: martin-fleischmann
+    date: null
+    date_end: null
+    location_in_record: 01:46:44.9-01:46:50.2
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 64b84f95-238c-4ab7-a678-bee55f985b14
+      record_title: The UFO Cover-Up Leads to One Secret Society — and One Final Event
+      record_date: '2026-07-14'
+      record_reference: https://www.youtube.com/watch?v=kccrkCGGzX4
+      content_hash: sha256:d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7b5a1b98d
+      friendly_name: null
+  - claim_id: db8f965a-7352-4bc7-b779-a3476d65f439
+    claim_hash: 99e42d572463b0833cccaf2a4c5478dd0af5d258a845e2399984c427ba0dad5b
+    content: The Jeffrey Epstein matter, the deep state, underground criminal networks and the UFO issue intersect, and whatever
+      that entity is today is probably quite dangerous, in Jason Samosa's assessment.
+    original_excerpt: you see this sort of conflation of, Epstein issue and the deep state issue and the underground criminal
+      networks with the UFO issue and they i think they intersect in there whatever it is today is probably quite dangerous
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: ff0a86b8-8f3c-4291-94ed-c6d303875ce8
+      title: Jason Samosa
+    provenance_chain:
+      origin_kind: speaker
+      origin: Jason Samosa
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 2ac310ed-0be4-43bd-a103-64143b4d20a8
+        title: Jeffrey Epstein
+        slug: jeffrey-epstein
+      - node_id: 5155f44f-289f-4f79-b477-0d6d3b188d52
+        title: Deep state
+        slug: deep-state
+      - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
+        title: Unidentified Flying Object (UFO)
+        slug: unidentified-flying-object-ufo
+    date: null
+    date_end: null
+    location_in_record: 01:51:29.2-01:51:41.3
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 64b84f95-238c-4ab7-a678-bee55f985b14
+      record_title: The UFO Cover-Up Leads to One Secret Society — and One Final Event
+      record_date: '2026-07-14'
+      record_reference: https://www.youtube.com/watch?v=kccrkCGGzX4
+      content_hash: sha256:d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7b5a1b98d
+      friendly_name: null
+  - claim_id: 62ad99f9-8567-4eb4-8923-b82d712d8c40
+    claim_hash: eaa5d667add40af22ad1a12b61d05933c46b90b93db29a90a1189020b840598b
+    content: Jeffrey Epstein was in a relationship with Ghislaine Maxwell, though Jesse Michels does not believe they were
+      married.
+    original_excerpt: Epstein is with Ghislaine Maxwell... I don't think Ghislaine and you know, uh, Jeffrey were married
+      necessarily
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 079d4381-4273-418b-bc9a-468623f95c6e
+      title: Jesse Mitchells
+    provenance_chain:
+      origin_kind: speaker
+      origin: Jesse Michels
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 2ac310ed-0be4-43bd-a103-64143b4d20a8
+        title: Jeffrey Epstein
+        slug: jeffrey-epstein
+      - node_id: 3c02aabc-e2ae-4fe8-b2cb-4efcdf28e45c
+        title: Ghislaine Maxwell
+        slug: ghislaine-maxwell
+    date: null
+    date_end: null
+    location_in_record: lines 3-11
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 64b84f95-238c-4ab7-a678-bee55f985b14
+      record_title: The UFO Cover-Up Leads to One Secret Society — and One Final Event
+      record_date: '2026-07-14'
+      record_reference: https://www.youtube.com/watch?v=kccrkCGGzX4
+      content_hash: sha256:d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7b5a1b98d
+      friendly_name: null
+  - claim_id: 7d4c4934-bf61-4787-9f7c-27254c160b4e
+    claim_hash: 07b0f9c28fdd44eb4b57038ffea163f5deda51fe36823733aa44a36031c0439c
+    content: Jeffrey Epstein recorded hours of conversation with Steve Bannon.
+    original_excerpt: So Epstein has like hours recorded with this guy, Steve Bannon
+    claim_type: administrative
+    attestation: null
+    speaker:
+      node_id: 079d4381-4273-418b-bc9a-468623f95c6e
+      title: Jesse Mitchells
+    provenance_chain:
+      origin_kind: unattributed
+      origin: narration by Jesse Michels
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 25b424e6-dc71-4394-b364-20668adc6d28
+        title: Steve Bannon
+        slug: steve-bannon
+      - node_id: 2ac310ed-0be4-43bd-a103-64143b4d20a8
+        title: Jeffrey Epstein
+        slug: jeffrey-epstein
+    date: null
+    date_end: null
+    location_in_record: 00:45:14.2-00:45:19.1
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: dc9d8bc8-9c1f-46b4-9b89-8d86b6b08e1d
+      record_title: Jesse Michels, UAPGerb & Chris Ramsay - Flying Saucer Diner
+      record_date: '2026-07-17'
+      record_reference: https://www.youtube.com/watch?v=HFLBDi87888
+      content_hash: sha256:7b2e272d7c82fdda745ee0354d7c9cc4b0d5ba5506015ca27edd9169a768b262
+      friendly_name: null
+  - claim_id: c40263b5-5b12-4e1a-9035-44319ff9f5bd
+    claim_hash: 0f7ae78933bed4c2c3f1d54822655acfac1b1c234aa14ac3678dc912f8892980
+    content: In a recorded conversation with Steve Bannon, Jeffrey Epstein explained that he sited Zorro Ranch where he did
+      in New Mexico because retired Los Alamos physicists were in the proximity and he wanted to have conversations with them.
+    original_excerpt: They're talking and he goes, why'd you, you know, put Zorro Ranch where it is in New Mexico? And he
+      starts going on about retired Los Alamos physicists being in the proximity and him wanting to have conversations with
+      these guys.
+    claim_type: hearsay
+    attestation: second_hand
+    speaker:
+      node_id: 079d4381-4273-418b-bc9a-468623f95c6e
+      title: Jesse Mitchells
+    provenance_chain:
+      origin_kind: named
+      origin: Jeffrey Epstein, in a recording with Steve Bannon
+      relay:
+        - Jesse Michels
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 25b424e6-dc71-4394-b364-20668adc6d28
+        title: Steve Bannon
+        slug: steve-bannon
+      - node_id: 2ac310ed-0be4-43bd-a103-64143b4d20a8
+        title: Jeffrey Epstein
+        slug: jeffrey-epstein
+      - node_id: 99b62ee0-a336-4919-9804-070632a0e1a3
+        title: USA, New Mexico, Los Alamos
+        slug: new-mexico-los-alamos-usa
+      - node_id: b65ca672-cb9e-4a57-a0fb-56ede7e118a4
+        title: Los Alamos National Laboratory
+        slug: los-alamos-national-laboratory
+      - node_id: eb22a102-29d0-46a3-b27d-a49639b9b86f
+        title: USA, New Mexico, Zorro Ranch
+        slug: new-mexico-zorro-ranch-usa
+    date: null
+    date_end: null
+    location_in_record: 00:45:28.5-00:45:43.4
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: dc9d8bc8-9c1f-46b4-9b89-8d86b6b08e1d
+      record_title: Jesse Michels, UAPGerb & Chris Ramsay - Flying Saucer Diner
+      record_date: '2026-07-17'
+      record_reference: https://www.youtube.com/watch?v=HFLBDi87888
+      content_hash: sha256:7b2e272d7c82fdda745ee0354d7c9cc4b0d5ba5506015ca27edd9169a768b262
+      friendly_name: null
+  - claim_id: f05e3c63-8dff-47d8-a52c-13dadcd2a32d
+    claim_hash: 1f1a31cb89bf5bbc7e4a8711e313536c8a6bbaf604a83b074833a5c40e24c6ef
+    content: Jesse Michels suspects a connection between Bill Richardson's roles as Secretary of Energy and governor of New
+      Mexico and Jeffrey Epstein's presence in New Mexico.
+    original_excerpt: And so I think that there's some sort of connection there too.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 079d4381-4273-418b-bc9a-468623f95c6e
+      title: Jesse Mitchells
+    provenance_chain:
+      origin_kind: speaker
+      origin: Jesse Michels
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 079d4381-4273-418b-bc9a-468623f95c6e
+        title: Jesse Mitchells
+        slug: jesse-mitchells
+      - node_id: 2ac310ed-0be4-43bd-a103-64143b4d20a8
+        title: Jeffrey Epstein
+        slug: jeffrey-epstein
+      - node_id: d838e7a4-6492-45b1-90ca-9dbdcc0fecef
+        title: Bill Richardson
+        slug: bill-richardson
+    date: null
+    date_end: null
+    location_in_record: 00:46:02.4-00:46:06.2
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: dc9d8bc8-9c1f-46b4-9b89-8d86b6b08e1d
+      record_title: Jesse Michels, UAPGerb & Chris Ramsay - Flying Saucer Diner
+      record_date: '2026-07-17'
+      record_reference: https://www.youtube.com/watch?v=HFLBDi87888
+      content_hash: sha256:7b2e272d7c82fdda745ee0354d7c9cc4b0d5ba5506015ca27edd9169a768b262
+      friendly_name: null
+  - claim_id: b27a60f5-02ae-4944-83b8-ee3689b9013c
+    claim_hash: ac1f58fc51591dd15086e0db832ae82f6456486c49e88c52ba0ad06d41ed0de1
+    content: A search of the Jeffrey Epstein material returned no results for Bob Lazar, although there were results for the
+      surname Lazar belonging to other people.
+    original_excerpt: No results under Bob Lazar, but plenty of results under just Lazar.
+    claim_type: observation
+    attestation: first_hand
+    speaker:
+      node_id: 24d00311-06ac-46a1-a2f5-c99f3f8e21b2
+      title: Chris Ramsay
+    provenance_chain:
+      origin_kind: speaker
+      origin: Chris Ramsay
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 2ac310ed-0be4-43bd-a103-64143b4d20a8
+        title: Jeffrey Epstein
+        slug: jeffrey-epstein
+      - node_id: b0c0fde0-37e6-4632-8d64-a95091f03a49
+        title: Bob Lazar
+        slug: bob-lazar
+    date: null
+    date_end: null
+    location_in_record: 00:46:20.3-00:46:23.2
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: dc9d8bc8-9c1f-46b4-9b89-8d86b6b08e1d
+      record_title: Jesse Michels, UAPGerb & Chris Ramsay - Flying Saucer Diner
+      record_date: '2026-07-17'
+      record_reference: https://www.youtube.com/watch?v=HFLBDi87888
+      content_hash: sha256:7b2e272d7c82fdda745ee0354d7c9cc4b0d5ba5506015ca27edd9169a768b262
+      friendly_name: null
+  - claim_id: 10055ba7-7846-4b40-8e7e-d009c7488e5c
+    claim_hash: 2696bead040babf1d0d0ed8a8f56a0488861d62696978ff96b41b9b7efad1173
+    content: Jesse Michels has heard rumours that Jeffrey Epstein was obsessed with the Casimir effect, which relates to zero-point
+      energy.
+    original_excerpt: Look up, look up Casimir, which is zero point energy. Cause I, I've heard rumors that Epstein was obsessed
+      with the Casimir.
+    claim_type: hearsay
+    attestation: second_hand
+    speaker:
+      node_id: 079d4381-4273-418b-bc9a-468623f95c6e
+      title: Jesse Mitchells
+    provenance_chain:
+      origin_kind: anonymous
+      origin: unnamed people circulating rumours about Jeffrey Epstein's scientific interests
+      relay:
+        - Jesse Michels
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 06d065a8-507a-488d-bdd0-50aa4c983490
+        title: Zero-point energy
+        slug: zero-point-energy
+      - node_id: 079d4381-4273-418b-bc9a-468623f95c6e
+        title: Jesse Mitchells
+        slug: jesse-mitchells
+      - node_id: 2ac310ed-0be4-43bd-a103-64143b4d20a8
+        title: Jeffrey Epstein
+        slug: jeffrey-epstein
+      - node_id: 5ac2dd73-33b0-469b-8bc4-cc7b017f3c64
+        title: Casimir effect
+        slug: casimir-effect
+    date: null
+    date_end: null
+    location_in_record: 00:46:37.5-00:46:43.9
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: dc9d8bc8-9c1f-46b4-9b89-8d86b6b08e1d
+      record_title: Jesse Michels, UAPGerb & Chris Ramsay - Flying Saucer Diner
+      record_date: '2026-07-17'
+      record_reference: https://www.youtube.com/watch?v=HFLBDi87888
+      content_hash: sha256:7b2e272d7c82fdda745ee0354d7c9cc4b0d5ba5506015ca27edd9169a768b262
+      friendly_name: null
+  - claim_id: a62c8b6d-2703-4bd7-9396-dc0949842ca5
+    claim_hash: 35c385690c7024a98c01bf08f0a5803a58f8da8521e812c73a1553c3b5a52ce2
+    content: A search of the Jeffrey Epstein material returned no results for the term Casimir effect.
+    original_excerpt: 'Jesse Michels: No, what about Casimir Effect? E-F-F-E-C-T. Chris Ramsay: None. No result.'
+    claim_type: observation
+    attestation: first_hand
+    speaker:
+      node_id: 24d00311-06ac-46a1-a2f5-c99f3f8e21b2
+      title: Chris Ramsay
+    provenance_chain:
+      origin_kind: speaker
+      origin: Chris Ramsay
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 2ac310ed-0be4-43bd-a103-64143b4d20a8
+        title: Jeffrey Epstein
+        slug: jeffrey-epstein
+      - node_id: 5ac2dd73-33b0-469b-8bc4-cc7b017f3c64
+        title: Casimir effect
+        slug: casimir-effect
+    date: null
+    date_end: null
+    location_in_record: 00:47:54.2-00:47:56.3
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: dc9d8bc8-9c1f-46b4-9b89-8d86b6b08e1d
+      record_title: Jesse Michels, UAPGerb & Chris Ramsay - Flying Saucer Diner
+      record_date: '2026-07-17'
+      record_reference: https://www.youtube.com/watch?v=HFLBDi87888
+      content_hash: sha256:7b2e272d7c82fdda745ee0354d7c9cc4b0d5ba5506015ca27edd9169a768b262
+      friendly_name: null
+  - claim_id: 980a0897-122c-4661-a430-b7b7d8a2d9e9
+    claim_hash: 7f618dbda64ef44a3bdc1eb7b98bc779d43013e1c3f78c0c8b19100dd43def97
+    content: Jeffrey Epstein held gravity conferences.
+    original_excerpt: Oh, gravity. He holds these gravity conferences or whatever, but.
+    claim_type: administrative
+    attestation: null
+    speaker:
+      node_id: 079d4381-4273-418b-bc9a-468623f95c6e
+      title: Jesse Mitchells
+    provenance_chain:
+      origin_kind: unattributed
+      origin: narration by Jesse Michels
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 2ac310ed-0be4-43bd-a103-64143b4d20a8
+        title: Jeffrey Epstein
+        slug: jeffrey-epstein
+    date: null
+    date_end: null
+    location_in_record: 00:48:11.3-00:48:14.8
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: dc9d8bc8-9c1f-46b4-9b89-8d86b6b08e1d
+      record_title: Jesse Michels, UAPGerb & Chris Ramsay - Flying Saucer Diner
+      record_date: '2026-07-17'
+      record_reference: https://www.youtube.com/watch?v=HFLBDi87888
+      content_hash: sha256:7b2e272d7c82fdda745ee0354d7c9cc4b0d5ba5506015ca27edd9169a768b262
+      friendly_name: null
+  - claim_id: f7f07bd8-0146-4486-816b-d949a30ac818
+    claim_hash: ff0b74be18062fb1e9aa4186bf7497e6e1a7793b532c684654effa0aec62c667
+    content: A search of the Jeffrey Epstein material for anti-gravity returned one result, an exchange involving Robert Kuhn
+      and Jeffrey Epstein.
+    original_excerpt: One result... I'm pulling it up now. So from Robert Kuhn to Jeffrey Epstein, an exchange between...
+    claim_type: observation
+    attestation: first_hand
+    speaker:
+      node_id: 24d00311-06ac-46a1-a2f5-c99f3f8e21b2
+      title: Chris Ramsay
+    provenance_chain:
+      origin_kind: speaker
+      origin: Chris Ramsay
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 1f03fa1d-9929-4575-a27b-52dba43ec087
+        title: Anti-Gravity Propulsion
+        slug: anti-gravity-propulsion
+      - node_id: 2ac310ed-0be4-43bd-a103-64143b4d20a8
+        title: Jeffrey Epstein
+        slug: jeffrey-epstein
+      - node_id: 83befb44-3578-4a94-81f1-1136a1e56df7
+        title: Robert Kuhn
+        slug: robert-kuhn
+    date: null
+    date_end: null
+    location_in_record: 00:48:15.3-00:48:28.0
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: dc9d8bc8-9c1f-46b4-9b89-8d86b6b08e1d
+      record_title: Jesse Michels, UAPGerb & Chris Ramsay - Flying Saucer Diner
+      record_date: '2026-07-17'
+      record_reference: https://www.youtube.com/watch?v=HFLBDi87888
+      content_hash: sha256:7b2e272d7c82fdda745ee0354d7c9cc4b0d5ba5506015ca27edd9169a768b262
+      friendly_name: null
+  - claim_id: a0c32ebe-ea63-4364-9c6e-9ebe3759a823
+    claim_hash: 4a4c435c58e2a521b97ba6d7ac389d86306e72ac53a13c94a5646dad3c11d6cc
+    content: In an email in the Jeffrey Epstein material, Yuri Gribov wrote that he deeply appreciated the intention behind
+      the interviews with leading physicists for Closer to Truth about the universe and its basic physical mysteries, and
+      attached his newly published physics article.
+    original_excerpt: So it starts with Jeffrey being like, I deeply appreciate your strong intention with the bold interviews
+      of the best physicists to be, quote unquote, closer to the truth about our universe and its basic physical mysteries.
+      Um, below is my new J Fizz published article. Oh, this is Dr. Yuri Gribov.
+    claim_type: administrative
+    attestation: second_hand
+    speaker:
+      node_id: 24d00311-06ac-46a1-a2f5-c99f3f8e21b2
+      title: Chris Ramsay
+    provenance_chain:
+      origin_kind: document
+      origin: an email from Yuri Gribov in the released Jeffrey Epstein material
+      relay:
+        - Chris Ramsay reading it aloud
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 2ac310ed-0be4-43bd-a103-64143b4d20a8
+        title: Jeffrey Epstein
+        slug: jeffrey-epstein
+      - node_id: 512669b1-56d1-4dd0-ab30-2f7c3e402c1b
+        title: Yuri Gribov
+        slug: yuri-gribov
+      - node_id: 9dd2f69c-3a6c-494b-83f1-2e49bb02d551
+        title: Closer to Truth
+        slug: closer-to-truth
+    date: null
+    date_end: null
+    location_in_record: 00:48:29.3-00:48:56.1
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: dc9d8bc8-9c1f-46b4-9b89-8d86b6b08e1d
+      record_title: Jesse Michels, UAPGerb & Chris Ramsay - Flying Saucer Diner
+      record_date: '2026-07-17'
+      record_reference: https://www.youtube.com/watch?v=HFLBDi87888
+      content_hash: sha256:7b2e272d7c82fdda745ee0354d7c9cc4b0d5ba5506015ca27edd9169a768b262
+      friendly_name: null
+  - claim_id: b7f13603-ce72-43ab-b167-e6fdd061053b
+    claim_hash: 41bf3775f455dbee84005e5e0e657e88cc2b5f61f9ac22a35d11b593a003f640
+    content: In an email in the Jeffrey Epstein material, Yuri Gribov wrote that his model predicts matter, antimatter and
+      antigravity, that publication of such work had been forbidden in most physics journals, and that the barrier existed
+      without any experimental verification of the opposite case of attractive gravity between matter and antimatter.
+    original_excerpt: He goes, I waited years for this opportunity. My model predicts the matter, antimatter, antigravity,
+      et cetera, that was simply stupidly forbidden to publish in the most of distant physical journals. Why stupid? Because
+      this barrier existed without any experimental verification of the opposite case. matter antimatter attractive gravity
+      but now it is published
+    claim_type: administrative
+    attestation: second_hand
+    speaker:
+      node_id: 24d00311-06ac-46a1-a2f5-c99f3f8e21b2
+      title: Chris Ramsay
+    provenance_chain:
+      origin_kind: document
+      origin: an email from Yuri Gribov in the released Jeffrey Epstein material
+      relay:
+        - Chris Ramsay reading it aloud
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 1f03fa1d-9929-4575-a27b-52dba43ec087
+        title: Anti-Gravity Propulsion
+        slug: anti-gravity-propulsion
+      - node_id: 2ac310ed-0be4-43bd-a103-64143b4d20a8
+        title: Jeffrey Epstein
+        slug: jeffrey-epstein
+      - node_id: 512669b1-56d1-4dd0-ab30-2f7c3e402c1b
+        title: Yuri Gribov
+        slug: yuri-gribov
+    date: null
+    date_end: null
+    location_in_record: 00:49:15.9-00:49:39.7
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: dc9d8bc8-9c1f-46b4-9b89-8d86b6b08e1d
+      record_title: Jesse Michels, UAPGerb & Chris Ramsay - Flying Saucer Diner
+      record_date: '2026-07-17'
+      record_reference: https://www.youtube.com/watch?v=HFLBDi87888
+      content_hash: sha256:7b2e272d7c82fdda745ee0354d7c9cc4b0d5ba5506015ca27edd9169a768b262
+      friendly_name: null
+  - claim_id: cb4e149e-99e1-4193-89e2-79d1fc6d72a5
+    claim_hash: c22b6e0c8fe27102fc8b94411623c8367929c29798a6511eaad4bbe166dcdaa0
+    content: In an email in the Jeffrey Epstein material, Robert Kuhn wrote that Jeffrey Epstein and Closer to Truth were
+      collaborating on a major series for the Public Broadcasting Service (PBS) on breakthroughs in mathematics and other
+      areas, and that they wanted to feature Yuri Gribov in one or more mathematics episodes.
+    original_excerpt: Robert Kuhn writes in CC's Jeffrey and says, as you know, Jeffrey and Closer to the Truth, so it sounds
+      like an organization, are collaborating on a major series for PBS on breakthroughs in mathematics and other areas. And
+      we surely want to feature you in one or more mathematics episodes
+    claim_type: administrative
+    attestation: second_hand
+    speaker:
+      node_id: 24d00311-06ac-46a1-a2f5-c99f3f8e21b2
+      title: Chris Ramsay
+    provenance_chain:
+      origin_kind: document
+      origin: an email from Robert Kuhn in the released Jeffrey Epstein material
+      relay:
+        - Chris Ramsay reading it aloud
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 2ac310ed-0be4-43bd-a103-64143b4d20a8
+        title: Jeffrey Epstein
+        slug: jeffrey-epstein
+      - node_id: 512669b1-56d1-4dd0-ab30-2f7c3e402c1b
+        title: Yuri Gribov
+        slug: yuri-gribov
+      - node_id: 83befb44-3578-4a94-81f1-1136a1e56df7
+        title: Robert Kuhn
+        slug: robert-kuhn
+      - node_id: 9dd2f69c-3a6c-494b-83f1-2e49bb02d551
+        title: Closer to Truth
+        slug: closer-to-truth
+      - node_id: da6f939c-ab3a-4bfa-91d9-2737b24b1a68
+        title: Public Broadcasting Service (PBS)
+        slug: public-broadcasting-service-pbs
+    date: null
+    date_end: null
+    location_in_record: 00:50:02.4-00:50:18.2
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: dc9d8bc8-9c1f-46b4-9b89-8d86b6b08e1d
+      record_title: Jesse Michels, UAPGerb & Chris Ramsay - Flying Saucer Diner
+      record_date: '2026-07-17'
+      record_reference: https://www.youtube.com/watch?v=HFLBDi87888
+      content_hash: sha256:7b2e272d7c82fdda745ee0354d7c9cc4b0d5ba5506015ca27edd9169a768b262
+      friendly_name: null

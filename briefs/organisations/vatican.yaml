@@ -1,0 +1,2992 @@
+schema: anomalica/brief/1
+brief_hash: f783c585b4f5b7eb932f2557b39882d6c32a16687a692910cf738556ce53b5eb
+page:
+  kind: entity
+  node_id: cb54ad51-94b1-4a33-b036-7c00ad40cf6b
+  node_type: organisation
+  title: Vatican
+  slug: vatican
+  claim_count: 72
+  claim_count_total: 72
+generated:
+  graph_version: '2026-09-01T10:10:49.863545+00:00'
+size:
+  claims: 72
+  tokens_estimated: 22097
+  sized_against: 1050000
+publication:
+  status: published
+  note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
+    transcripts are gated elsewhere.
+belonging:
+  verified: 0
+  suspect_excluded: 0
+  unreviewed: 72
+related_nodes:
+  - node_id: ff0a86b8-8f3c-4291-94ed-c6d303875ce8
+    title: Jason Samosa
+    node_type: person
+    slug: jason-samosa
+    shared_claims: 15
+  - node_id: b6b60271-c105-4b1f-89ec-bd02227901d9
+    title: Third Secret of Fatima
+    node_type: document
+    slug: third-secret-of-fatima
+    shared_claims: 14
+  - node_id: cfd554b1-096e-4d54-aa89-5edc2e0c41f5
+    title: Fatima apparitions (1917)
+    node_type: event
+    slug: fatima-apparitions-1917
+    shared_claims: 7
+  - node_id: bbddfa81-653b-4aa6-8e98-3ba0d1485044
+    title: Lúcia (Fatima seer)
+    node_type: person
+    slug: lucia-fatima-seer
+    shared_claims: 6
+  - node_id: 4484f20d-af42-40af-b0ab-964afae98ec7
+    title: John Paul II
+    node_type: person
+    slug: john-paul-ii
+    shared_claims: 5
+  - node_id: 688c96b1-566b-48fe-a7be-98d95e9d4691
+    title: Louis Emrich
+    node_type: person
+    slug: louis-emrich
+    shared_claims: 5
+  - node_id: 6e230da1-2d10-4a16-920d-3dbc2369e898
+    title: Michael Hesemann
+    node_type: person
+    slug: michael-hesemann
+    shared_claims: 5
+  - node_id: 9dd4a9e0-df04-4593-83cb-d36dc7dabdab
+    title: Pius XII
+    node_type: person
+    slug: pius-xii
+    shared_claims: 4
+  - node_id: deaa3b19-d0f4-42bd-9abe-633d51bee95e
+    title: Diplomatic version of the Third Secret of Fatima (European News, 1963-10-15)
+    node_type: document
+    slug: 1963-10-15-diplomatic-version-of-the-third-secret-of-fatima-european-news
+    shared_claims: 3
+  - node_id: 34cbcce0-b88a-4057-8691-635f2902c481
+    title: Italy, Rome
+    node_type: place
+    slug: rome-italy
+    shared_claims: 3
+  - node_id: 079d4381-4273-418b-bc9a-468623f95c6e
+    title: Jesse Mitchells
+    node_type: person
+    slug: jesse-mitchells
+    shared_claims: 3
+  - node_id: b9230db2-eef8-4526-86aa-97f693336b1a
+    title: Knights of Malta
+    node_type: organisation
+    slug: knights-of-malta
+    shared_claims: 3
+  - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
+    title: Unidentified Flying Object (UFO)
+    node_type: topic
+    slug: unidentified-flying-object-ufo
+    shared_claims: 3
+  - node_id: 64a2f80d-f8bc-4c3f-8966-6558b593bbb9
+    title: Congress of Vienna
+    node_type: event
+    slug: congress-of-vienna
+    shared_claims: 2
+  - node_id: 2e939c07-6002-4f06-8917-e448656ef39d
+    title: Corrado Balducci
+    node_type: person
+    slug: corrado-balducci
+    shared_claims: 2
+  - node_id: 7e8f1051-0b50-49bd-a3bd-aa13db6e3820
+    title: Emrich (Mrs., widow of Louis Emrich)
+    node_type: person
+    slug: widow-of-louis-emrich-emrich-mrs
+    shared_claims: 2
+  - node_id: ff3b3953-e566-48ff-933f-8c176d32db54
+    title: John XXIII
+    node_type: person
+    slug: john-xxiii
+    shared_claims: 2
+  - node_id: 945f1e52-b06d-42ab-99a7-acfa8e7c7b2b
+    title: Miracle of the Sun at Fatima
+    node_type: event
+    slug: miracle-of-the-sun-at-fatima
+    shared_claims: 2
+  - node_id: 51de39c8-281c-48f1-ae5f-6c52cfec6fe5
+    title: Nicholas Gruner
+    node_type: person
+    slug: nicholas-gruner
+    shared_claims: 2
+  - node_id: f612ccb6-6742-42e5-bd05-97ab49801197
+    title: Russia, Moscow
+    node_type: place
+    slug: moscow-russia
+    shared_claims: 2
+  - node_id: d97aed00-0c54-4966-958c-c62dffcedfb9
+    title: Soviet Union
+    node_type: place
+    slug: soviet-union
+    shared_claims: 2
+  - node_id: e4ac668d-d416-4931-ae19-e92c5bbe84dc
+    title: Tarcisio Bertone
+    node_type: person
+    slug: tarcisio-bertone
+    shared_claims: 2
+  - node_id: 9da33243-6854-43d4-b60d-fbeeb284787e
+    title: USA, District of Columbia, Washington
+    node_type: place
+    slug: district-of-columbia-washington-usa
+    shared_claims: 2
+  - node_id: c3049206-6e8c-43b6-a645-5b8c47da0e56
+    title: 1917 Fatima Marian apparitions
+    node_type: event
+    slug: 1917-fatima-marian-apparitions
+    shared_claims: 1
+  - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
+    title: 2004 USS Nimitz UAP encounter
+    node_type: event
+    slug: 2004-uss-nimitz-uap-encounter
+    shared_claims: 1
+  - node_id: cad0a6eb-0ed3-44ee-8f8f-b22d7603c6f3
+    title: Air Force Office of Special Investigations (AFOSI)
+    node_type: organisation
+    slug: air-force-office-of-special-investigations-afosi
+    shared_claims: 1
+  - node_id: eb22d754-dbb1-4be0-8da7-7084e2b9ff4a
+    title: Alfredo Cavagna
+    node_type: person
+    slug: alfredo-cavagna
+    shared_claims: 1
+  - node_id: 37bc5b59-3fad-4290-b925-7063c23f35d7
+    title: Angelo Sodano
+    node_type: person
+    slug: angelo-sodano
+    shared_claims: 1
+  - node_id: 93b96bc3-1f90-4b98-ad86-db07fff63f38
+    title: Austria, Vienna
+    node_type: place
+    slug: vienna-austria
+    shared_claims: 1
+  - node_id: 38b84d4a-96df-4684-bb46-f6f64f392add
+    title: Central Intelligence Agency (CIA)
+    node_type: organisation
+    slug: central-intelligence-agency-cia
+    shared_claims: 1
+claims:
+  - claim_id: 8b55606b-1a3e-4e27-865d-d5e60d92d2e9
+    claim_hash: 5d3293112d47dbe813cff414dd09f6cb45ebce31c8592b5d943c6b7a020d7c0c
+    content: Lúcia (Fatima seer)'s steps toward becoming a nun were guided by Church authorities who were at that time investigating
+      the incidents at Fatima and wanted to have her under their control so they could control the cult of Fatima itself.
+    original_excerpt: her steps were guided by Church authorities, who at that time were investigating the incidents at Fatima.
+      They wanted to have her under their control, so they could control the cult of Fatima itself.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 6e230da1-2d10-4a16-920d-3dbc2369e898
+      title: Michael Hesemann
+    provenance_chain:
+      origin_kind: speaker
+      origin: Hesemann, Michael
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: bbddfa81-653b-4aa6-8e98-3ba0d1485044
+        title: Lúcia (Fatima seer)
+        slug: lucia-fatima-seer
+      - node_id: cb54ad51-94b1-4a33-b036-7c00ad40cf6b
+        title: Vatican
+        slug: vatican
+      - node_id: cfd554b1-096e-4d54-aa89-5edc2e0c41f5
+        title: Fatima apparitions (1917)
+        slug: fatima-apparitions-1917
+    date: null
+    date_end: null
+    location_in_record: ch13:12137-12329
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 171e1337-151f-40c5-8b9a-659faac4c5f6
+      record_title: The Fatima Secret
+      record_date: '2000-11-28'
+      record_reference: null
+      content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
+      friendly_name: 2000-11-28-ebook-the-fatima-secret
+  - claim_id: 6b111f62-b93a-4c0b-964a-7024b8412be6
+    claim_hash: b429a72ce1be09db8b017ccb97d030b32d02092a430fecb87a9d7b115a0a1eb7
+    content: After Lúcia (Fatima seer)'s departure from Aljustrel, all religious proclamations at the Cova da Iria chapel
+      were made by priests appointed by the Church.
+    original_excerpt: There, all religious proclamations were made by priests who were appointed by the Church.
+    claim_type: observation
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 79277187-1caf-4840-a135-5819bc771321
+        title: Portugal, Fatima, Cova da Iria
+        slug: fatima-cova-da-iria-portugal
+      - node_id: cb54ad51-94b1-4a33-b036-7c00ad40cf6b
+        title: Vatican
+        slug: vatican
+    date: null
+    date_end: null
+    location_in_record: ch13:12561-12643
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 171e1337-151f-40c5-8b9a-659faac4c5f6
+      record_title: The Fatima Secret
+      record_date: '2000-11-28'
+      record_reference: null
+      content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
+      friendly_name: 2000-11-28-ebook-the-fatima-secret
+  - claim_id: 00d4c7f3-c54b-4217-876f-ab6f97995ed4
+    claim_hash: d979565a60132414957c2140e55f444d33d5e8ca209aa639c8ade23b37619715
+    content: It was difficult at first to find a priest for the Cova da Iria chapel because the Fatima apparitions had not
+      yet been officially recognised by the Catholic Church.
+    original_excerpt: It was difficult, at first, to find a priest for the chapel, since the visions of Fatima had not yet
+      been officially recognized by the Church.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: cb54ad51-94b1-4a33-b036-7c00ad40cf6b
+        title: Vatican
+        slug: vatican
+      - node_id: cfd554b1-096e-4d54-aa89-5edc2e0c41f5
+        title: Fatima apparitions (1917)
+        slug: fatima-apparitions-1917
+    date: null
+    date_end: null
+    location_in_record: ch13:2889-3024
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 171e1337-151f-40c5-8b9a-659faac4c5f6
+      record_title: The Fatima Secret
+      record_date: '2000-11-28'
+      record_reference: null
+      content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
+      friendly_name: 2000-11-28-ebook-the-fatima-secret
+  - claim_id: 19329330-8be0-40fa-9a38-ff408df0b7d8
+    claim_hash: 980cb88f7b0ebe177b1342d34a5ad794e5e0615b138ffe138a32428510360ff7
+    content: Sidonio Pais established official diplomatic relations between Portugal and the Vatican in June 1918.
+    original_excerpt: In June he established official diplomatic relations with the Vatican.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 1519a78f-fcbc-4ca6-b4c8-510a314d205a
+        title: Sidonio Pais
+        slug: sidonio-pais
+      - node_id: cb54ad51-94b1-4a33-b036-7c00ad40cf6b
+        title: Vatican
+        slug: vatican
+    date: 1918-06
+    date_end: null
+    location_in_record: ch14:10659-10721
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 171e1337-151f-40c5-8b9a-659faac4c5f6
+      record_title: The Fatima Secret
+      record_date: '2000-11-28'
+      record_reference: null
+      content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
+      friendly_name: 2000-11-28-ebook-the-fatima-secret
+  - claim_id: f244f6a8-babb-41f5-8fcf-ba1503cfc2b2
+    claim_hash: 4e5dc4dccaec4e7c5ddb95919834561077ea88dce8c68e9065d5201a4f931de2
+    content: Lúcia (Fatima seer)'s withdrawal into the seclusion of the Carmelite order suited the opponents of Fatima devotion
+      within the Vatican.
+    original_excerpt: Her withdrawal into the strict and almost total seclusion of the Carmelite order suited the opponents
+      of Fatima only too well.
+    claim_type: opinion
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: bbddfa81-653b-4aa6-8e98-3ba0d1485044
+        title: Lúcia (Fatima seer)
+        slug: lucia-fatima-seer
+      - node_id: cb54ad51-94b1-4a33-b036-7c00ad40cf6b
+        title: Vatican
+        slug: vatican
+    date: null
+    date_end: null
+    location_in_record: ch15:14503-14624
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 171e1337-151f-40c5-8b9a-659faac4c5f6
+      record_title: The Fatima Secret
+      record_date: '2000-11-28'
+      record_reference: null
+      content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
+      friendly_name: 2000-11-28-ebook-the-fatima-secret
+  - claim_id: f1d49bf7-2eab-4ff1-b7e3-521d9d7dbcb8
+    claim_hash: bb779bc320177c18fcaacf63384f305bd0b357952d9cfa2c9c701e1cca6089cf
+    content: Some people in the Vatican opposed the consecration of Russia because they aimed to first establish diplomatic
+      connections with Moscow, fearing the Soviets might interpret a papal proclamation as intervention in their internal
+      affairs and jeopardise hopes of relief for Christians in Russia.
+    original_excerpt: But there were people in the Vatican who were not at all in favor of this step. Their aim was to first
+      establish diplomatic connections with Moscow. The Soviets might interpret such a papal proclamation as a deliberate
+      act of intervention in their internal affairs. They felt that it would be irresponsible for the pope to perform a naive
+      and sentimental act that could jeopardize all their hopes for obtaining relief for the Christians in Russia.
+    claim_type: opinion
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 59c74099-5b2b-4738-bf0f-35e471ea119f
+        title: Moscow
+        slug: moscow
+      - node_id: cb54ad51-94b1-4a33-b036-7c00ad40cf6b
+        title: Vatican
+        slug: vatican
+      - node_id: d97aed00-0c54-4966-958c-c62dffcedfb9
+        title: Soviet Union
+        slug: soviet-union
+    date: null
+    date_end: null
+    location_in_record: ch15:14804-15244
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 171e1337-151f-40c5-8b9a-659faac4c5f6
+      record_title: The Fatima Secret
+      record_date: '2000-11-28'
+      record_reference: null
+      content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
+      friendly_name: 2000-11-28-ebook-the-fatima-secret
+  - claim_id: 4c3b167c-2552-413e-91cc-750c873df2fb
+    claim_hash: 2e9363e622db0212f54f4689c0deeb8455ca63709a2c716ad495cc0d9563f8a4
+    content: An official Vatican statement noted that no pope had ever consecrated any country in which non-Christians or
+      Protestants were in the majority.
+    original_excerpt: An official statement was made that "no pope has ever consecrated any country in which non-Christians
+      or Protestants are in the majority."
+    claim_type: administrative
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: document
+      origin: an official Vatican statement
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: cb54ad51-94b1-4a33-b036-7c00ad40cf6b
+        title: Vatican
+        slug: vatican
+    date: null
+    date_end: null
+    location_in_record: ch15:15252-15380
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 171e1337-151f-40c5-8b9a-659faac4c5f6
+      record_title: The Fatima Secret
+      record_date: '2000-11-28'
+      record_reference: null
+      content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
+      friendly_name: 2000-11-28-ebook-the-fatima-secret
+  - claim_id: 9dc7ef04-e05f-4be1-888b-98d040717699
+    claim_hash: aecc3fa02ea041f40f143e45e56220e37efcd42a78767ff1f3ec4ac9aad267f5
+    content: A press report said that Rome's attitude toward Fatima was reported to have changed considerably, moving from
+      popularity and enthusiasm to coolness, indifference, and disillusion.
+    original_excerpt: '"Rome''s attitude toward Fatima is reported to have changed considerably," said a press report. "The
+      short period of popularity and enthusiasm has given way to one of coolness, indifference, and disillusion."'
+    claim_type: hearsay
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: document
+      origin: an unnamed press report
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: cb54ad51-94b1-4a33-b036-7c00ad40cf6b
+        title: Vatican
+        slug: vatican
+      - node_id: cfd554b1-096e-4d54-aa89-5edc2e0c41f5
+        title: Fatima apparitions (1917)
+        slug: fatima-apparitions-1917
+    date: null
+    date_end: null
+    location_in_record: ch15:15393-15586
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 171e1337-151f-40c5-8b9a-659faac4c5f6
+      record_title: The Fatima Secret
+      record_date: '2000-11-28'
+      record_reference: null
+      content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
+      friendly_name: 2000-11-28-ebook-the-fatima-secret
+  - claim_id: ac7f1a44-a95b-4f68-9594-5565ac9057f2
+    claim_hash: b5c48408324f0a717d2d59bb31b081d225790babcc0c7b0fd565dc0e219d5afc
+    content: Despite being called the 'pope of Fatima', Pius XII did not succeed in overcoming Vatican opposition to performing
+      the consecration act desired by the Virgin Mary.
+    original_excerpt: Nevertheless the "pope of Fatima" did not succeed in overcoming the opposition in the Vatican to performing
+      the act desired by the Madonna.
+    claim_type: opinion
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 9dd4a9e0-df04-4593-83cb-d36dc7dabdab
+        title: Pius XII
+        slug: pius-xii
+      - node_id: cb54ad51-94b1-4a33-b036-7c00ad40cf6b
+        title: Vatican
+        slug: vatican
+    date: null
+    date_end: null
+    location_in_record: ch15:16199-16330
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 171e1337-151f-40c5-8b9a-659faac4c5f6
+      record_title: The Fatima Secret
+      record_date: '2000-11-28'
+      record_reference: null
+      content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
+      friendly_name: 2000-11-28-ebook-the-fatima-secret
+  - claim_id: e3723880-a260-488b-a7f4-72121fd6f069
+    claim_hash: 414ce54b227ecfb35dc5b2579e3db163db25e57c20a246faa81109498e597f7a
+    content: Pope Pius XII eventually ordered that Sister Lúcia was only allowed to meet with people she was already in contact
+      with, and that anyone else wanting to meet her needed Vatican permission.
+    original_excerpt: Eventually the pope ordered that Sister Lúcia was only allowed to meet with those people whom she was
+      already in contact with, and anyone else who wanted to meet her would have to get permission from the Vatican.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 9dd4a9e0-df04-4593-83cb-d36dc7dabdab
+        title: Pius XII
+        slug: pius-xii
+      - node_id: bbddfa81-653b-4aa6-8e98-3ba0d1485044
+        title: Lúcia (Fatima seer)
+        slug: lucia-fatima-seer
+      - node_id: cb54ad51-94b1-4a33-b036-7c00ad40cf6b
+        title: Vatican
+        slug: vatican
+    date: null
+    date_end: null
+    location_in_record: ch15:18885-19089
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 171e1337-151f-40c5-8b9a-659faac4c5f6
+      record_title: The Fatima Secret
+      record_date: '2000-11-28'
+      record_reference: null
+      content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
+      friendly_name: 2000-11-28-ebook-the-fatima-secret
+  - claim_id: 44a714cb-9dcf-4baa-b017-2caf633a49a6
+    claim_hash: fba88f3f020c4998c98bb5858bb7196b490d8628852ca734cb52884921d46223
+    content: The Third Secret of Fatima that the Virgin Mary had revealed to the three children would become the most zealously
+      guarded secret of the Vatican.
+    original_excerpt: The Third Secret that the Madonna had revealed to the three children would become the most zealously
+      guarded secret of the Vatican.
+    claim_type: opinion
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: b6b60271-c105-4b1f-89ec-bd02227901d9
+        title: Third Secret of Fatima
+        slug: third-secret-of-fatima
+      - node_id: cb54ad51-94b1-4a33-b036-7c00ad40cf6b
+        title: Vatican
+        slug: vatican
+    date: null
+    date_end: null
+    location_in_record: ch15:19282-19405
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 171e1337-151f-40c5-8b9a-659faac4c5f6
+      record_title: The Fatima Secret
+      record_date: '2000-11-28'
+      record_reference: null
+      content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
+      friendly_name: 2000-11-28-ebook-the-fatima-secret
+  - claim_id: c0d71420-1bd7-488d-a9bf-683c81bac041
+    claim_hash: 89f483be41d4dda768259873f9ca3cc93b2778974d1e44e56529978bb9da214b
+    content: During the jubilee year of 1942, the Portuguese bishops again petitioned Rome to have the pope consecrate Russia
+      to the Mother of God, but the Vatican remained silent until 1942-10-13.
+    original_excerpt: During the jubilee year the Portuguese bishops once again sent a petition to Rome, begging the pope
+      to consecrate Russia to the Mother of God. To their disappointment the Vatican remained silent until October 13, when
+      it was suddenly and unexpectedly announced that the pope would send a message to the world on October 31, at the official
+      end of the jubilee.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: cb54ad51-94b1-4a33-b036-7c00ad40cf6b
+        title: Vatican
+        slug: vatican
+      - node_id: d97aed00-0c54-4966-958c-c62dffcedfb9
+        title: Soviet Union
+        slug: soviet-union
+    date: '1942-10-13'
+    date_end: null
+    location_in_record: ch15:7728-8079
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 171e1337-151f-40c5-8b9a-659faac4c5f6
+      record_title: The Fatima Secret
+      record_date: '2000-11-28'
+      record_reference: null
+      content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
+      friendly_name: 2000-11-28-ebook-the-fatima-secret
+  - claim_id: dea64a11-461e-42f8-9ea4-a86afb4d510f
+    claim_hash: eefb5ed21f3ff4396f75c2ad4a93faea498cc26872f209f0089ac049425b541c
+    content: The 1960 announcement stated that because of pressure on the Vatican from those wanting publication and fears
+      from others that it might contain alarming prophecies, the Vatican decided to keep Sister Lúcia's letter sealed, and
+      that it was likely the secret would remain sealed forever.
+    original_excerpt: Because of the pressure on the Vatican by those who want the letter to be published, and the fears of
+      others that it may contain alarming prophecies, the Vatican has decided not to open Sister Lúcia’s letter, but to keep
+      it sealed. It is likely that the secret of Fatima will remain sealed forever.
+    claim_type: administrative
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: named
+      origin: Portuguese news agency (Rome office)
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: b6b60271-c105-4b1f-89ec-bd02227901d9
+        title: Third Secret of Fatima
+        slug: third-secret-of-fatima
+      - node_id: bbddfa81-653b-4aa6-8e98-3ba0d1485044
+        title: Lúcia (Fatima seer)
+        slug: lucia-fatima-seer
+      - node_id: cb54ad51-94b1-4a33-b036-7c00ad40cf6b
+        title: Vatican
+        slug: vatican
+    date: '1960-02-08'
+    date_end: null
+    location_in_record: ch16:12679-12969
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 171e1337-151f-40c5-8b9a-659faac4c5f6
+      record_title: The Fatima Secret
+      record_date: '2000-11-28'
+      record_reference: null
+      content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
+      friendly_name: 2000-11-28-ebook-the-fatima-secret
+  - claim_id: 37b52475-a103-48d1-b1a8-229ae8326c5b
+    claim_hash: b813d16db5365948ce456817a6934bd83d51bc2e9e6746351d3c9483eb61ad41
+    content: Bishop da Silva wanted to send the Third Secret to Rome, but the Vatican instructed him to keep the envelope
+      at Leiria for the present.
+    original_excerpt: Bishop da Silva, on the other hand, wanted to send it to Rome. But the Vatican instructed him to keep
+      the envelope at Leiria for the present.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: narration
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 86a3d282-0dee-49af-8533-93f32405844e
+        title: Portugal, Leiria
+        slug: leiria-portugal
+      - node_id: b6b60271-c105-4b1f-89ec-bd02227901d9
+        title: Third Secret of Fatima
+        slug: third-secret-of-fatima
+      - node_id: bcf2064d-2e0d-4d33-9abc-278aaae68bec
+        title: José Alves Correira da Silva
+        slug: jose-alves-correira-da-silva
+      - node_id: cb54ad51-94b1-4a33-b036-7c00ad40cf6b
+        title: Vatican
+        slug: vatican
+    date: null
+    date_end: null
+    location_in_record: ch16:2972-3105
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 171e1337-151f-40c5-8b9a-659faac4c5f6
+      record_title: The Fatima Secret
+      record_date: '2000-11-28'
+      record_reference: null
+      content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
+      friendly_name: 2000-11-28-ebook-the-fatima-secret
+  - claim_id: 43340122-1ded-4e9a-963e-93736136eff4
+    claim_hash: ef14388451ea6d1673ecf7863fb25fa1c51042d73d8005556046d4a85b023b5d
+    content: The Third Secret envelope was kept in the most secure part of the Vatican, the private quarters of Pope Pius
+      XII.
+    original_excerpt: The envelope was kept in the most secure part of the Vatican, the private quarters of Pope Pius XII.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: narration
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 9dd4a9e0-df04-4593-83cb-d36dc7dabdab
+        title: Pius XII
+        slug: pius-xii
+      - node_id: b6b60271-c105-4b1f-89ec-bd02227901d9
+        title: Third Secret of Fatima
+        slug: third-secret-of-fatima
+      - node_id: cb54ad51-94b1-4a33-b036-7c00ad40cf6b
+        title: Vatican
+        slug: vatican
+    date: null
+    date_end: null
+    location_in_record: ch16:6184-6280
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 171e1337-151f-40c5-8b9a-659faac4c5f6
+      record_title: The Fatima Secret
+      record_date: '2000-11-28'
+      record_reference: null
+      content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
+      friendly_name: 2000-11-28-ebook-the-fatima-secret
+  - claim_id: 1abc0e80-b066-4a9c-a95e-d784c5105212
+    claim_hash: 8e17618dfd75e5f9f0ed184ffd76a78def5a7031746866f23e4519addc3dc6c1
+    content: Father Fuentes was relieved of his office by the Vatican owing to his indiscretion in publishing his speech about
+      Sister Lúcia.
+    original_excerpt: Owing to his indiscretion Father Fuentes was relieved of his office by the Vatican.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: narration
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: cb54ad51-94b1-4a33-b036-7c00ad40cf6b
+        title: Vatican
+        slug: vatican
+      - node_id: cff88b58-5410-4524-a70e-fdd0761f9903
+        title: Fuentes (Father)
+        slug: fuentes-father
+    date: '1958'
+    date_end: null
+    location_in_record: ch16:8737-8812
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 171e1337-151f-40c5-8b9a-659faac4c5f6
+      record_title: The Fatima Secret
+      record_date: '2000-11-28'
+      record_reference: null
+      content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
+      friendly_name: 2000-11-28-ebook-the-fatima-secret
+  - claim_id: 3868beae-a86a-4fa8-a048-657db58f8c02
+    claim_hash: 8ee66c7f07f88b777b28c5cf8453c245fcf00a3645090752731cf4838f30d599
+    content: Early in 1959 a high official in the Vatican suggested to Pope John XXIII that Sister Lúcia be permitted to speak
+      to the world over the radio, but the pope turned the suggestion down.
+    original_excerpt: When, early in 1959, a high official in the Vatican suggested to Pope John XXIII that Sister Lúcia be
+      permitted to speak to the world over the radio, he turned him down.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: narration
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: bbddfa81-653b-4aa6-8e98-3ba0d1485044
+        title: Lúcia (Fatima seer)
+        slug: lucia-fatima-seer
+      - node_id: cb54ad51-94b1-4a33-b036-7c00ad40cf6b
+        title: Vatican
+        slug: vatican
+      - node_id: ff3b3953-e566-48ff-933f-8c176d32db54
+        title: John XXIII
+        slug: john-xxiii
+    date: '1959'
+    date_end: null
+    location_in_record: ch16:8822-8986
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 171e1337-151f-40c5-8b9a-659faac4c5f6
+      record_title: The Fatima Secret
+      record_date: '2000-11-28'
+      record_reference: null
+      content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
+      friendly_name: 2000-11-28-ebook-the-fatima-secret
+  - claim_id: d8f24f88-a124-4d35-8836-07a72915ee8d
+    claim_hash: b04958a485bdd68e3c41ef5466f1e0429cba3ebe3c374dbe5dfad6b5b8fc0424
+    content: The Vatican maintained official silence regarding the Third Secret of Fatima until the fiftieth anniversary of
+      the events at Fatima.
+    original_excerpt: Officially, the Vatican declared silence regarding the matter, a silence that lasted until the fiftieth
+      anniversary of the events at Fatima.
+    claim_type: observation
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: b6b60271-c105-4b1f-89ec-bd02227901d9
+        title: Third Secret of Fatima
+        slug: third-secret-of-fatima
+      - node_id: cb54ad51-94b1-4a33-b036-7c00ad40cf6b
+        title: Vatican
+        slug: vatican
+      - node_id: cfd554b1-096e-4d54-aa89-5edc2e0c41f5
+        title: Fatima apparitions (1917)
+        slug: fatima-apparitions-1917
+    date: null
+    date_end: null
+    location_in_record: ch17:10461-10594
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 171e1337-151f-40c5-8b9a-659faac4c5f6
+      record_title: The Fatima Secret
+      record_date: '2000-11-28'
+      record_reference: null
+      content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
+      friendly_name: 2000-11-28-ebook-the-fatima-secret
+  - claim_id: 5ddbb785-b7d5-485e-b107-cd639139c5dd
+    claim_hash: 5ec197fc3223cb60ca780719ad0c1c5ac1467f9f2cbd1b08220a51c3f8a87ede
+    content: Louis Emrich said the Vatican had taken all precautions to make sure the Third Secret of Fatima document remains
+      a papal secret.
+    original_excerpt: The Vatican has taken all precautions to make sure that the document remains a papal secret.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 688c96b1-566b-48fe-a7be-98d95e9d4691
+      title: Louis Emrich
+    provenance_chain:
+      origin_kind: speaker
+      origin: Emrich, Louis
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 688c96b1-566b-48fe-a7be-98d95e9d4691
+        title: Louis Emrich
+        slug: louis-emrich
+      - node_id: b6b60271-c105-4b1f-89ec-bd02227901d9
+        title: Third Secret of Fatima
+        slug: third-secret-of-fatima
+      - node_id: cb54ad51-94b1-4a33-b036-7c00ad40cf6b
+        title: Vatican
+        slug: vatican
+    date: null
+    date_end: null
+    location_in_record: ch17:2770-2855
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 171e1337-151f-40c5-8b9a-659faac4c5f6
+      record_title: The Fatima Secret
+      record_date: '2000-11-28'
+      record_reference: null
+      content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
+      friendly_name: 2000-11-28-ebook-the-fatima-secret
+  - claim_id: bb204a48-7cf7-4919-972c-1780814d51fd
+    claim_hash: b10f2794b54e717b8c565733fd5d31930a4e5b983ed7b6963b99c8605194d9c7
+    content: The diplomatic version of the Third Secret of Fatima had allegedly been sent by the Vatican to the governments
+      of Washington, London, and Moscow during the height of the Cuban Missile Crisis (1962-10) a year before its publication.
+    original_excerpt: which had allegedly been sent by the Vatican to the governments of Washington, London, and Moscow during
+      the height of the Cuban Missile Crisis a year earlier
+    claim_type: hearsay
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: document
+      origin: European News magazine
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 134433ac-c317-4826-9edd-5f732f74521c
+        title: UK, London
+        slug: london-uk
+      - node_id: 9da33243-6854-43d4-b60d-fbeeb284787e
+        title: USA, District of Columbia, Washington
+        slug: district-of-columbia-washington-usa
+      - node_id: cb54ad51-94b1-4a33-b036-7c00ad40cf6b
+        title: Vatican
+        slug: vatican
+      - node_id: deaa3b19-d0f4-42bd-9abe-633d51bee95e
+        title: Diplomatic version of the Third Secret of Fatima (European News, 1963-10-15)
+        slug: 1963-10-15-diplomatic-version-of-the-third-secret-of-fatima-european-news
+      - node_id: e98a32b4-349a-4a66-b918-f07622fdace1
+        title: Cuban Missile Crisis (1962-10)
+        slug: cuban-missile-crisis-1962-10
+      - node_id: f612ccb6-6742-42e5-bd05-97ab49801197
+        title: Russia, Moscow
+        slug: moscow-russia
+    date: null
+    date_end: null
+    location_in_record: ch17:302-453
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 171e1337-151f-40c5-8b9a-659faac4c5f6
+      record_title: The Fatima Secret
+      record_date: '2000-11-28'
+      record_reference: null
+      content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
+      friendly_name: 2000-11-28-ebook-the-fatima-secret
+  - claim_id: 56067770-abe8-4a87-8bb3-ae139e7f2f75
+    claim_hash: 28c0579d9a29665dbce27af25624e869df54cac91b7dda236d5c48e463b030ca
+    content: According to European News, the agreement signed by the foreign ministers of the United Kingdom and Russia and
+      the U.S. secretary of state to stop atomic bomb tests was due to intervention by the Vatican.
+    original_excerpt: According to the magazine the agreement signed by the foreign ministers of the United Kingdom and Russia,
+      and the U.S. secretary of state, to stop atomic bomb tests, was 'due to intervention by the Vatican.'
+    claim_type: hearsay
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: document
+      origin: European News magazine
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 9da33243-6854-43d4-b60d-fbeeb284787e
+        title: USA, District of Columbia, Washington
+        slug: district-of-columbia-washington-usa
+      - node_id: bd4c37aa-ba3b-4bd0-a38d-75dad60ab2ff
+        title: Partial Nuclear Test Ban Treaty signing (1963-08-05)
+        slug: partial-nuclear-test-ban-treaty-signing-1963-08-05
+      - node_id: cb54ad51-94b1-4a33-b036-7c00ad40cf6b
+        title: Vatican
+        slug: vatican
+      - node_id: e2e54c56-bb2e-404b-acde-395745fc950c
+        title: UK
+        slug: uk
+      - node_id: f612ccb6-6742-42e5-bd05-97ab49801197
+        title: Russia, Moscow
+        slug: moscow-russia
+    date: null
+    date_end: null
+    location_in_record: ch17:463-661
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 171e1337-151f-40c5-8b9a-659faac4c5f6
+      record_title: The Fatima Secret
+      record_date: '2000-11-28'
+      record_reference: null
+      content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
+      friendly_name: 2000-11-28-ebook-the-fatima-secret
+  - claim_id: 062351b6-a12e-4edd-91ad-3fbe5e9193fd
+    claim_hash: f0fac0c435fd2f6f050aaaf96f07ac96097e757475a7f782592d0a578e4f1d14
+    content: Mrs. Emrich told Hans Bender that Louis Emrich worked on the Fatima story for some time before its 1963-10-15
+      publication and already had some information about the probable contents of the document guarded by the Vatican as a
+      state secret.
+    original_excerpt: Emrich worked on the Fatima story for quite some time before the publication on October 15, 1963, and
+      already had some information about the probable contents of the document guarded by the Vatican as a state secret.
+    claim_type: testimony
+    attestation: second_hand
+    speaker:
+      node_id: 7e8f1051-0b50-49bd-a3bd-aa13db6e3820
+      title: Emrich (Mrs., widow of Louis Emrich)
+    provenance_chain:
+      origin_kind: named
+      origin: Emrich (Mrs., widow of Louis Emrich)
+      relay:
+        - Hans Bender's summary
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 248df1b0-43a1-4903-adc5-a1076c4de155
+        title: Hans Bender
+        slug: hans-bender
+      - node_id: 688c96b1-566b-48fe-a7be-98d95e9d4691
+        title: Louis Emrich
+        slug: louis-emrich
+      - node_id: 7e8f1051-0b50-49bd-a3bd-aa13db6e3820
+        title: Emrich (Mrs., widow of Louis Emrich)
+        slug: widow-of-louis-emrich-emrich-mrs
+      - node_id: b6b60271-c105-4b1f-89ec-bd02227901d9
+        title: Third Secret of Fatima
+        slug: third-secret-of-fatima
+      - node_id: cb54ad51-94b1-4a33-b036-7c00ad40cf6b
+        title: Vatican
+        slug: vatican
+    date: '1963-10-15'
+    date_end: null
+    location_in_record: ch17:6932-7141
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 171e1337-151f-40c5-8b9a-659faac4c5f6
+      record_title: The Fatima Secret
+      record_date: '2000-11-28'
+      record_reference: null
+      content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
+      friendly_name: 2000-11-28-ebook-the-fatima-secret
+  - claim_id: a554b116-8e15-4ba8-a2ba-7b2c35b24385
+    claim_hash: e139fed4ef7d18eaa0df5c39666fd21b7cf39b059cc369e88db6171d78cce1c8
+    content: Mrs. Emrich told Hans Bender that a priest from the Vatican visited Louis Emrich and clearly emphasised that
+      he had not been sent officially, but had come for his own reasons.
+    original_excerpt: Then a priest from the Vatican visited him, who clearly emphasized that he had not been sent officially,
+      but that he had come for his own reasons.
+    claim_type: testimony
+    attestation: second_hand
+    speaker:
+      node_id: 7e8f1051-0b50-49bd-a3bd-aa13db6e3820
+      title: Emrich (Mrs., widow of Louis Emrich)
+    provenance_chain:
+      origin_kind: named
+      origin: Emrich (Mrs., widow of Louis Emrich)
+      relay:
+        - Hans Bender's summary
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 688c96b1-566b-48fe-a7be-98d95e9d4691
+        title: Louis Emrich
+        slug: louis-emrich
+      - node_id: 7e8f1051-0b50-49bd-a3bd-aa13db6e3820
+        title: Emrich (Mrs., widow of Louis Emrich)
+        slug: widow-of-louis-emrich-emrich-mrs
+      - node_id: cb54ad51-94b1-4a33-b036-7c00ad40cf6b
+        title: Vatican
+        slug: vatican
+    date: null
+    date_end: null
+    location_in_record: ch17:7149-7287
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 171e1337-151f-40c5-8b9a-659faac4c5f6
+      record_title: The Fatima Secret
+      record_date: '2000-11-28'
+      record_reference: null
+      content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
+      friendly_name: 2000-11-28-ebook-the-fatima-secret
+  - claim_id: 698a6974-7760-4574-b029-2c0a69131aba
+    claim_hash: 7eb5e8f78910f7b17a313679f02e5287121d619232f347a782d1d81e63c448a3
+    content: The Emrich version of the diplomatic Third Secret of Fatima was never either confirmed or denied by the Catholic
+      Church.
+    original_excerpt: Interestingly enough, the Emrich version was never either confirmed or denied by the Church.
+    claim_type: observation
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: cb54ad51-94b1-4a33-b036-7c00ad40cf6b
+        title: Vatican
+        slug: vatican
+      - node_id: deaa3b19-d0f4-42bd-9abe-633d51bee95e
+        title: Diplomatic version of the Third Secret of Fatima (European News, 1963-10-15)
+        slug: 1963-10-15-diplomatic-version-of-the-third-secret-of-fatima-european-news
+    date: null
+    date_end: null
+    location_in_record: ch17:8818-8903
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 171e1337-151f-40c5-8b9a-659faac4c5f6
+      record_title: The Fatima Secret
+      record_date: '2000-11-28'
+      record_reference: null
+      content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
+      friendly_name: 2000-11-28-ebook-the-fatima-secret
+  - claim_id: 2092a711-a149-4560-9b56-2f48205d605e
+    claim_hash: d47c292755dc92093933aece230fbaf859ba605b3207ced541a8d9e8f68d9acb
+    content: Joseph Ratzinger's name has been brought up many times as a possible candidate for the papacy.
+    original_excerpt: Ratzinger is a conservative member of the Vatican, whose name has been brought up many times as a possible
+      candidate for the papacy.
+    claim_type: opinion
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 0cf4b5c3-c9c8-4cf9-8044-6c87bac37ebc
+        title: Joseph Ratzinger
+        slug: joseph-ratzinger
+      - node_id: cb54ad51-94b1-4a33-b036-7c00ad40cf6b
+        title: Vatican
+        slug: vatican
+    date: null
+    date_end: null
+    location_in_record: ch18:7664-7789
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 171e1337-151f-40c5-8b9a-659faac4c5f6
+      record_title: The Fatima Secret
+      record_date: '2000-11-28'
+      record_reference: null
+      content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
+      friendly_name: 2000-11-28-ebook-the-fatima-secret
+  - claim_id: ebe23d12-3933-4677-ae1a-321258cb2a4b
+    claim_hash: 1386bb9811633b15a892deced3d2aefc3c27def156338ccfd41dd08e181cd22c
+    content: According to the declassified documents, the KGB planted a recording device inside the Madonna statue belonging
+      to the Vatican secretary of state.
+    original_excerpt: As the documents revealed, the KGB even planted a recording device within the Madonna statue of the
+      Vatican secretary of state.
+    claim_type: hearsay
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: document
+      origin: KGB memorandum on measures against the Polish pope (1979-11-13)
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 0a55aeb7-60f2-4b90-8acd-f00a3d0e1ae4
+        title: KGB
+        slug: kgb
+      - node_id: cb54ad51-94b1-4a33-b036-7c00ad40cf6b
+        title: Vatican
+        slug: vatican
+    date: null
+    date_end: null
+    location_in_record: ch19:14380-14501
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 171e1337-151f-40c5-8b9a-659faac4c5f6
+      record_title: The Fatima Secret
+      record_date: '2000-11-28'
+      record_reference: null
+      content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
+      friendly_name: 2000-11-28-ebook-the-fatima-secret
+  - claim_id: 2a82c61b-0df4-4db9-8f46-b83fd174dd5d
+    claim_hash: 03fa3dbf5754b7dc8b727480d7427a69d91f30b2458bd7ada1fdd04e51bfbf37
+    content: Every Wednesday, unless travelling abroad, John Paul II received pilgrims at 5:00 PM, in a hall of the Vatican
+      in winter or in St. Peter's Square in summer.
+    original_excerpt: Every Wednesday, unless he was on one of his frequent journeys abroad, the pope received pilgrims at
+      5:00 P.M., in winter in a hall of the Vatican, in summer in the open square.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 1f5d3803-7533-4068-b2b6-74da38556688
+        title: St. Peter's Square
+        slug: st-peters-square
+      - node_id: 4484f20d-af42-40af-b0ab-964afae98ec7
+        title: John Paul II
+        slug: john-paul-ii
+      - node_id: cb54ad51-94b1-4a33-b036-7c00ad40cf6b
+        title: Vatican
+        slug: vatican
+    date: null
+    date_end: null
+    location_in_record: ch19:768-938
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 171e1337-151f-40c5-8b9a-659faac4c5f6
+      record_title: The Fatima Secret
+      record_date: '2000-11-28'
+      record_reference: null
+      content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
+      friendly_name: 2000-11-28-ebook-the-fatima-secret
+  - claim_id: ae72d022-5105-42ec-834d-a673f54cfe33
+    claim_hash: 9a981b4db68822fcf16b20c39f354d6abd963748ce3ca9cf3795a7b41c790e3a
+    content: The Vatican instructed the local bishop to form a new commission to study the Medjugorje apparitions, which as
+      of the time of writing had not yet reached a final judgment because the apparitions were still continuing.
+    original_excerpt: But the Vatican came to the aid of Medjugorje. Rome gave instructions to the bishop to form a new commission
+      to study them, which, since the apparitions are still continuing, has not yet arrived at a final judgment.
+    claim_type: observation
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 23a8079f-6741-4591-bda1-e67f5d8d7f33
+        title: Medjugorje apparitions (1981-)
+        slug: medjugorje-apparitions-1981
+      - node_id: cb54ad51-94b1-4a33-b036-7c00ad40cf6b
+        title: Vatican
+        slug: vatican
+    date: null
+    date_end: null
+    location_in_record: ch22:3323-3529
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 171e1337-151f-40c5-8b9a-659faac4c5f6
+      record_title: The Fatima Secret
+      record_date: '2000-11-28'
+      record_reference: null
+      content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
+      friendly_name: 2000-11-28-ebook-the-fatima-secret
+  - claim_id: 052ecffa-2493-476e-8a00-6cbc81dcddab
+    claim_hash: b3ba5886e8e24f918812fcf8effce2eff7e2132409f1e123bb4857f2938045d3
+    content: Further apparitions and messages associated with the María statue near Los Angeles included secrets for the Vatican,
+      which the community's priest brought to Rome personally.
+    original_excerpt: There followed further apparitions and messages, including some secrets for the Vatican, which the priest
+      of the community brought to Rome personally.
+    claim_type: testimony
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 34cbcce0-b88a-4057-8691-635f2902c481
+        title: Italy, Rome
+        slug: rome-italy
+      - node_id: cb54ad51-94b1-4a33-b036-7c00ad40cf6b
+        title: Vatican
+        slug: vatican
+      - node_id: d0cb0a3b-6a93-4390-911b-aba30e2289b3
+        title: Weeping oil-tear statue of María near Los Angeles (1991-01)
+        slug: weeping-oil-tear-statue-of-maria-near-los-angeles-1991-01
+    date: null
+    date_end: null
+    location_in_record: ch23:4928-5067
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 171e1337-151f-40c5-8b9a-659faac4c5f6
+      record_title: The Fatima Secret
+      record_date: '2000-11-28'
+      record_reference: null
+      content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
+      friendly_name: 2000-11-28-ebook-the-fatima-secret
+  - claim_id: 700da108-1ae3-4dee-b9ee-b4f987beee3c
+    claim_hash: 44ba0fe0ca388e51a74cfa30d56dc9be06610cc00742f2b61bef2580170f22cc
+    content: The Third Secret of Fatima was revealed only at the end of the two-and-a-half hour ceremony on 2000-05-13, after
+      priests who had distributed the blessed sacrament to the crowd returned to their places.
+    original_excerpt: Not until the end of the two-and-a-half hour ceremony, during which Sister Lúcia received the Holy Communion
+      from the hands of the pope, was the Secret revealed. After the hundreds of priests who had walked out into the crowd
+      to distribute the blessed sacrament returned to their places, a speech by Cardinal Sodano, the secretary of state for
+      the Vatican, was announced.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 37bc5b59-3fad-4290-b925-7063c23f35d7
+        title: Angelo Sodano
+        slug: angelo-sodano
+      - node_id: b6b60271-c105-4b1f-89ec-bd02227901d9
+        title: Third Secret of Fatima
+        slug: third-secret-of-fatima
+      - node_id: cb54ad51-94b1-4a33-b036-7c00ad40cf6b
+        title: Vatican
+        slug: vatican
+    date: '2000-05-13'
+    date_end: null
+    location_in_record: ch24:10005-10366
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 171e1337-151f-40c5-8b9a-659faac4c5f6
+      record_title: The Fatima Secret
+      record_date: '2000-11-28'
+      record_reference: null
+      content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
+      friendly_name: 2000-11-28-ebook-the-fatima-secret
+  - claim_id: 8fa223ff-6fdd-4cfb-b57a-c53a6ad838b4
+    claim_hash: a054483d5ec882a13f8d4cff1872c66fb82fe728574c63cd20a5eb2e66aaac20
+    content: On 2000-06-05, newly elected Russian president Vladimir Putin visited the Vatican for a confidential meeting.
+    original_excerpt: On Monday, June 5, 2000, the newly elected Russian president Vladimir Putin visited the Vatican for
+      a confidential meeting.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 6433c225-6b48-44bd-8ae4-c7fcb1c650e0
+        title: Vladimir Putin
+        slug: vladimir-putin
+      - node_id: cb54ad51-94b1-4a33-b036-7c00ad40cf6b
+        title: Vatican
+        slug: vatican
+      - node_id: f98ca8ee-825a-451c-ae44-c61ef5537886
+        title: Putin's visit to the Vatican (2000-06-05)
+        slug: putins-visit-to-the-vatican-2000-06-05
+    date: '2000-06-05'
+    date_end: null
+    location_in_record: ch24:16436-16551
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 171e1337-151f-40c5-8b9a-659faac4c5f6
+      record_title: The Fatima Secret
+      record_date: '2000-11-28'
+      record_reference: null
+      content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
+      friendly_name: 2000-11-28-ebook-the-fatima-secret
+  - claim_id: c2bf2e6c-dbd5-42f1-a6f4-022b46f9567a
+    claim_hash: 5ae45e261812531c86989d992aef2a37b2e96a9d60cbf60206cb864d89999ebd
+    content: The 2000-06-14 pardon of Mehmet Ali Ağca had been discussed with the Vatican beforehand and was supported by
+      John Paul II.
+    original_excerpt: This was discussed with the Vatican beforehand and supported by the pope.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 4484f20d-af42-40af-b0ab-964afae98ec7
+        title: John Paul II
+        slug: john-paul-ii
+      - node_id: ae40bb38-c337-42ad-8eca-3443ef42641f
+        title: Pardon of Ali Agca (2000-06-14)
+        slug: pardon-of-ali-agca-2000-06-14
+      - node_id: cb54ad51-94b1-4a33-b036-7c00ad40cf6b
+        title: Vatican
+        slug: vatican
+    date: '2000-06-14'
+    date_end: null
+    location_in_record: ch24:17106-17174
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 171e1337-151f-40c5-8b9a-659faac4c5f6
+      record_title: The Fatima Secret
+      record_date: '2000-11-28'
+      record_reference: null
+      content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
+      friendly_name: 2000-11-28-ebook-the-fatima-secret
+  - claim_id: 9c50611e-d0c6-4a8b-96bf-f755faad3238
+    claim_hash: c49044fbd5dfd6597f5c20e2ae14850a636e145d4b51c5d27777215ebc055559
+    content: In response to sceptics who requested publication of Sister Lúcia's handwritten notes, the Vatican released a
+      facsimile of her handwriting together with examples of letters she had written by hand three years earlier.
+    original_excerpt: Skeptics requested the publication of Lúcia's handwritten notes. In its wisdom, the Vatican released
+      a facsimile of her handwriting, together with several examples of letters that she had written by hand three years ago.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: bbddfa81-653b-4aa6-8e98-3ba0d1485044
+        title: Lúcia (Fatima seer)
+        slug: lucia-fatima-seer
+      - node_id: cb54ad51-94b1-4a33-b036-7c00ad40cf6b
+        title: Vatican
+        slug: vatican
+    date: null
+    date_end: null
+    location_in_record: ch24:24446-24662
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 171e1337-151f-40c5-8b9a-659faac4c5f6
+      record_title: The Fatima Secret
+      record_date: '2000-11-28'
+      record_reference: null
+      content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
+      friendly_name: 2000-11-28-ebook-the-fatima-secret
+  - claim_id: de6d23b5-a50e-4eaa-a6cc-62e3acfe65a6
+    claim_hash: 66d0559f62b6a85d8608dadcaedf45dc4457405b470c9ca4d6e100ff211d82f4
+    content: Father Nicholas Gruner, in an immediate press release, accused the Vatican of whitewashing and watering down
+      the message of the Third Secret of Fatima.
+    original_excerpt: In an immediate press release from the renegade Canadian priest Father Nicholas Gruner, he accused the
+      Vatican of "whitewashing" and "watering down" the message.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 51de39c8-281c-48f1-ae5f-6c52cfec6fe5
+      title: Nicholas Gruner
+    provenance_chain:
+      origin_kind: speaker
+      origin: Gruner, Nicholas
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 51de39c8-281c-48f1-ae5f-6c52cfec6fe5
+        title: Nicholas Gruner
+        slug: nicholas-gruner
+      - node_id: b6b60271-c105-4b1f-89ec-bd02227901d9
+        title: Third Secret of Fatima
+        slug: third-secret-of-fatima
+      - node_id: cb54ad51-94b1-4a33-b036-7c00ad40cf6b
+        title: Vatican
+        slug: vatican
+    date: null
+    date_end: null
+    location_in_record: ch24:25504-25657
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 171e1337-151f-40c5-8b9a-659faac4c5f6
+      record_title: The Fatima Secret
+      record_date: '2000-11-28'
+      record_reference: null
+      content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
+      friendly_name: 2000-11-28-ebook-the-fatima-secret
+  - claim_id: 3a871815-3cfb-43f8-9abb-c83a9de6fcea
+    claim_hash: 2e46ff62c2aa4992ed4f5ec499496cf3faa999b112f45ee4533cf860e497dc02
+    content: Father Nicholas Gruner said the Vatican's official interpretation of the Third Secret of Fatima raises far more
+      questions than it answers.
+    original_excerpt: '"The official interpretation raises far more questions than it answers," he stated.'
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 51de39c8-281c-48f1-ae5f-6c52cfec6fe5
+      title: Nicholas Gruner
+    provenance_chain:
+      origin_kind: speaker
+      origin: Gruner, Nicholas
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 51de39c8-281c-48f1-ae5f-6c52cfec6fe5
+        title: Nicholas Gruner
+        slug: nicholas-gruner
+      - node_id: b6b60271-c105-4b1f-89ec-bd02227901d9
+        title: Third Secret of Fatima
+        slug: third-secret-of-fatima
+      - node_id: cb54ad51-94b1-4a33-b036-7c00ad40cf6b
+        title: Vatican
+        slug: vatican
+    date: null
+    date_end: null
+    location_in_record: ch24:25667-25742
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 171e1337-151f-40c5-8b9a-659faac4c5f6
+      record_title: The Fatima Secret
+      record_date: '2000-11-28'
+      record_reference: null
+      content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
+      friendly_name: 2000-11-28-ebook-the-fatima-secret
+  - claim_id: babea78d-5eb5-4adb-bcbd-8f31e7ff501c
+    claim_hash: d7abeefc736131fdf9af26d93d647d8714c6f79e578fa8553ee407b33a5b9629
+    content: Michael Hesemann spent the week following the Vatican's press conference in Rome, speaking to several Vatican
+      sources and conducting a long interview with Archbishop Tarcisio Bertone, to find answers about the Third Secret of
+      Fatima.
+    original_excerpt: I decided to spend the following week in Rome, speaking to several Vatican sources and doing a long
+      interview with Archbishop Bertone, to find the answers to these questions.
+    claim_type: administrative
+    attestation: first_hand
+    speaker:
+      node_id: 6e230da1-2d10-4a16-920d-3dbc2369e898
+      title: Michael Hesemann
+    provenance_chain:
+      origin_kind: speaker
+      origin: Hesemann, Michael
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 34cbcce0-b88a-4057-8691-635f2902c481
+        title: Italy, Rome
+        slug: rome-italy
+      - node_id: 6e230da1-2d10-4a16-920d-3dbc2369e898
+        title: Michael Hesemann
+        slug: michael-hesemann
+      - node_id: b6b60271-c105-4b1f-89ec-bd02227901d9
+        title: Third Secret of Fatima
+        slug: third-secret-of-fatima
+      - node_id: cb54ad51-94b1-4a33-b036-7c00ad40cf6b
+        title: Vatican
+        slug: vatican
+      - node_id: e4ac668d-d416-4931-ae19-e92c5bbe84dc
+        title: Tarcisio Bertone
+        slug: tarcisio-bertone
+    date: null
+    date_end: null
+    location_in_record: ch24:25751-25915
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 171e1337-151f-40c5-8b9a-659faac4c5f6
+      record_title: The Fatima Secret
+      record_date: '2000-11-28'
+      record_reference: null
+      content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
+      friendly_name: 2000-11-28-ebook-the-fatima-secret
+  - claim_id: 7434f671-7dda-4c79-81f0-424a7e47f703
+    claim_hash: 8f62e8eab58d58bbe604efe9167ee7aba9bbbacc19ab557abca3fb252f71b956
+    content: Swiss journalist Louis Emrich, the originator of the diplomatic version of the Third Secret of Fatima, admitted
+      that it was constructed on rumours and information he received from the Vatican and was not meant to be the original
+      text.
+    original_excerpt: As we know, even the originator of that version, the Swiss journalist Louis Emrich, admitted that it
+      was constructed on rumors and information he received from the Vatican and that it was not meant to be the original
+      text.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 688c96b1-566b-48fe-a7be-98d95e9d4691
+      title: Louis Emrich
+    provenance_chain:
+      origin_kind: speaker
+      origin: Emrich, Louis
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 688c96b1-566b-48fe-a7be-98d95e9d4691
+        title: Louis Emrich
+        slug: louis-emrich
+      - node_id: cb54ad51-94b1-4a33-b036-7c00ad40cf6b
+        title: Vatican
+        slug: vatican
+      - node_id: deaa3b19-d0f4-42bd-9abe-633d51bee95e
+        title: Diplomatic version of the Third Secret of Fatima (European News, 1963-10-15)
+        slug: 1963-10-15-diplomatic-version-of-the-third-secret-of-fatima-european-news
+    date: null
+    date_end: null
+    location_in_record: ch24:26096-26313
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 171e1337-151f-40c5-8b9a-659faac4c5f6
+      record_title: The Fatima Secret
+      record_date: '2000-11-28'
+      record_reference: null
+      content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
+      friendly_name: 2000-11-28-ebook-the-fatima-secret
+  - claim_id: be2754c1-18b7-4a2f-baf9-06b08b2e7714
+    claim_hash: 426beeca59cac937f69a206935fe3a8b8ab03fe20a0d2d9978682fc531538c9c
+    content: Archbishop Tarcisio Bertone's research found no evidence of a Vatican leak or support for Louis Emrich's claim
+      that the Third Secret was shown to Nikita Khrushchev or John F. Kennedy.
+    original_excerpt: Archbishop Bertone's research has not revealed any evidence of a Vatican leak, or for Emrich's claim
+      that the Secret was shown to Krushchev or Kennedy.
+    claim_type: observation
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: named
+      origin: Bertone, Tarcisio
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 1fa66dfc-6e67-4838-a828-fcf88d3bdfc0
+        title: Nikita Khrushchev
+        slug: nikita-khrushchev
+      - node_id: 688c96b1-566b-48fe-a7be-98d95e9d4691
+        title: Louis Emrich
+        slug: louis-emrich
+      - node_id: b6b60271-c105-4b1f-89ec-bd02227901d9
+        title: Third Secret of Fatima
+        slug: third-secret-of-fatima
+      - node_id: c3c90829-7c63-4c5d-8ba1-e96d65aa1a03
+        title: John Fitzgerald Kennedy
+        slug: john-fitzgerald-kennedy
+      - node_id: cb54ad51-94b1-4a33-b036-7c00ad40cf6b
+        title: Vatican
+        slug: vatican
+      - node_id: e4ac668d-d416-4931-ae19-e92c5bbe84dc
+        title: Tarcisio Bertone
+        slug: tarcisio-bertone
+    date: null
+    date_end: null
+    location_in_record: ch24:26658-26801
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 171e1337-151f-40c5-8b9a-659faac4c5f6
+      record_title: The Fatima Secret
+      record_date: '2000-11-28'
+      record_reference: null
+      content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
+      friendly_name: 2000-11-28-ebook-the-fatima-secret
+  - claim_id: 60253b8b-f301-4fa2-ba25-0585ddbf4606
+    claim_hash: 6a2d119b5d64dac5d99b0337115053fcb0926b87856c2f13e8c86bdc78c63881
+    content: Michael Hesemann considers it possible that the Vatican peace initiative was influenced by the Fatima message.
+    original_excerpt: Still, it is possible that the Vatican peace initiative was influenced by the Fatima message.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 6e230da1-2d10-4a16-920d-3dbc2369e898
+      title: Michael Hesemann
+    provenance_chain:
+      origin_kind: speaker
+      origin: Hesemann, Michael
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 6e230da1-2d10-4a16-920d-3dbc2369e898
+        title: Michael Hesemann
+        slug: michael-hesemann
+      - node_id: cb54ad51-94b1-4a33-b036-7c00ad40cf6b
+        title: Vatican
+        slug: vatican
+      - node_id: cfd554b1-096e-4d54-aa89-5edc2e0c41f5
+        title: Fatima apparitions (1917)
+        slug: fatima-apparitions-1917
+    date: null
+    date_end: null
+    location_in_record: ch24:26810-26895
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 171e1337-151f-40c5-8b9a-659faac4c5f6
+      record_title: The Fatima Secret
+      record_date: '2000-11-28'
+      record_reference: null
+      content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
+      friendly_name: 2000-11-28-ebook-the-fatima-secret
+  - claim_id: 675cdfc6-1b01-4894-8dc0-f5812e3208c1
+    claim_hash: f9ee5c9d6080906bf9665639498402e1e3848f28609582024c6d01b9d0bf4e89
+    content: In May 1873, Saint Don Bosco had a vision of a dark night in which a crowd of men, women, old people, children,
+      monks, nuns, and priests, headed by the pope, came out of the Vatican in procession before a violent storm darkened
+      a magnificent light, and a square appeared covered with corpses and wounded people.
+    original_excerpt: '"It was a dark night, the people were unable to discern which way to take to return to their homes,
+      when in the heavens a magnificent light appeared, illuminating the paths of the wanderers as if it was midday. In this
+      moment, a crowd of men, women, old people, children, monks, nuns, and priests, headed by the pope, came out of the Vatican
+      and formed a procession. But behold, there came a violent storm. It darkened the light and a battle between the light
+      and the darkness seemed to develop. Meanwhile, I saw a square covered with corpses and wounded people.…"'
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 7d8ca182-d376-4d11-8aa4-895c8b59dc1e
+      title: Don Bosco
+    provenance_chain:
+      origin_kind: speaker
+      origin: Bosco, Don
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 7d8ca182-d376-4d11-8aa4-895c8b59dc1e
+        title: Don Bosco
+        slug: don-bosco
+      - node_id: cb54ad51-94b1-4a33-b036-7c00ad40cf6b
+        title: Vatican
+        slug: vatican
+      - node_id: d4707fa0-a959-41a5-83b8-d50f88ff2949
+        title: Don Bosco's vision (1873-05)
+        slug: don-boscos-vision-1873-05
+    date: 1873-05
+    date_end: null
+    location_in_record: ch24:31373-31927
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 171e1337-151f-40c5-8b9a-659faac4c5f6
+      record_title: The Fatima Secret
+      record_date: '2000-11-28'
+      record_reference: null
+      content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
+      friendly_name: 2000-11-28-ebook-the-fatima-secret
+  - claim_id: e45c4d23-bcdf-4125-bf6c-0d673947d8bc
+    claim_hash: 1c59025d90438418f3a604c30f5b49bfd9b8b709a40009bc2017897b9f128772
+    content: The Vatican officially remained silent about whether John Paul II would return to Portugal, Fatima following
+      the November 1999 remark.
+    original_excerpt: Officially, the Vatican kept silent.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: cb54ad51-94b1-4a33-b036-7c00ad40cf6b
+        title: Vatican
+        slug: vatican
+    date: 1999-11
+    date_end: null
+    location_in_record: ch24:3719-3748
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 171e1337-151f-40c5-8b9a-659faac4c5f6
+      record_title: The Fatima Secret
+      record_date: '2000-11-28'
+      record_reference: null
+      content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
+      friendly_name: 2000-11-28-ebook-the-fatima-secret
+  - claim_id: 69e6779f-b8a2-43a8-a615-2c66beb158c4
+    claim_hash: 9d335a502aa22b7c05182e9f5072a86d95ab0c0d0c69ed056c52d2444ce521c3
+    content: John Paul II wanted his 2000 visit to Portugal, Fatima to be a highlight of the Vatican's Jubilee Year, a yearlong
+      celebration of two thousand years of Christianity.
+    original_excerpt: The pope wanted the trip to be a special event, a highlight of the Vatican’s Jubilee Year, a yearlong
+      celebration of two thousand years of Christianity.
+    claim_type: opinion
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 4484f20d-af42-40af-b0ab-964afae98ec7
+        title: John Paul II
+        slug: john-paul-ii
+      - node_id: 95472b02-af65-4737-896c-993994f9be27
+        title: Portugal, Fatima
+        slug: fatima-portugal
+      - node_id: cb54ad51-94b1-4a33-b036-7c00ad40cf6b
+        title: Vatican
+        slug: vatican
+    date: null
+    date_end: null
+    location_in_record: ch24:3997-4136
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 171e1337-151f-40c5-8b9a-659faac4c5f6
+      record_title: The Fatima Secret
+      record_date: '2000-11-28'
+      record_reference: null
+      content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
+      friendly_name: 2000-11-28-ebook-the-fatima-secret
+  - claim_id: 3f8813e6-d388-4128-88be-c69e5e229848
+    claim_hash: 13f0d32fc52bf72ef6b639045d1b27a5a2cba300670ec8efc3d7d7c5a1132df3
+    content: About a hundred children, some from the same hospital where Jacinta Marto had died eighty years earlier, greeted
+      John Paul II at Lisbon Airport, waving flags in the Vatican colours of white and yellow.
+    original_excerpt: About a hundred children, some from the same hospital where Jacinta had died eighty years ago, greeted
+      him, waving flags in the Vatican colors of white and yellow.
+    claim_type: observation
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 0ecd3d0a-de6b-451f-a345-e758d1dee56b
+        title: Lisbon Airport
+        slug: lisbon-airport
+      - node_id: 4484f20d-af42-40af-b0ab-964afae98ec7
+        title: John Paul II
+        slug: john-paul-ii
+      - node_id: cb54ad51-94b1-4a33-b036-7c00ad40cf6b
+        title: Vatican
+        slug: vatican
+      - node_id: d2593720-e09e-4f39-837e-4c6f88e66fbd
+        title: Jacinta Marto
+        slug: jacinta-marto
+    date: '2000-05-12'
+    date_end: null
+    location_in_record: ch24:6298-6454
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 171e1337-151f-40c5-8b9a-659faac4c5f6
+      record_title: The Fatima Secret
+      record_date: '2000-11-28'
+      record_reference: null
+      content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
+      friendly_name: 2000-11-28-ebook-the-fatima-secret
+  - claim_id: 6a1e3361-222e-4961-8dc9-202b6947bce0
+    claim_hash: d8333f41eb3ad27a7e63643d8960e15c199bef0da8fb157dd5bc57c806df7b4c
+    content: Michael Hesemann considers the message of Fatima to have influenced the secret policy of the Vatican from Pope
+      Pius XII to John Paul II.
+    original_excerpt: It influenced the secret policy of the Vatican, the smallest but most influential state on earth, from
+      Pope Pius XII to John Paul II, who believes it to be his mission to fulfill the Fatima prophecy.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 6e230da1-2d10-4a16-920d-3dbc2369e898
+      title: Michael Hesemann
+    provenance_chain:
+      origin_kind: speaker
+      origin: Hesemann, Michael
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 4484f20d-af42-40af-b0ab-964afae98ec7
+        title: John Paul II
+        slug: john-paul-ii
+      - node_id: 6e230da1-2d10-4a16-920d-3dbc2369e898
+        title: Michael Hesemann
+        slug: michael-hesemann
+      - node_id: 9dd4a9e0-df04-4593-83cb-d36dc7dabdab
+        title: Pius XII
+        slug: pius-xii
+      - node_id: cb54ad51-94b1-4a33-b036-7c00ad40cf6b
+        title: Vatican
+        slug: vatican
+      - node_id: cfd554b1-096e-4d54-aa89-5edc2e0c41f5
+        title: Fatima apparitions (1917)
+        slug: fatima-apparitions-1917
+    date: null
+    date_end: null
+    location_in_record: ch5:5613-5803
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 171e1337-151f-40c5-8b9a-659faac4c5f6
+      record_title: The Fatima Secret
+      record_date: '2000-11-28'
+      record_reference: null
+      content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
+      friendly_name: 2000-11-28-ebook-the-fatima-secret
+  - claim_id: 8783052e-e4d2-4454-9a65-1cf286ee0750
+    claim_hash: 45341cfda957e64f9149e410297e3917b4a33cb7de71b7a64e521aec07c147a9
+    content: Michael Hesemann has travelled to Italy, Rome many times from his home in Germany and spoken with Vatican insiders
+      about the contents of the Third Secret of Fatima.
+    original_excerpt: I've traveled to Rome many times from my home in Germany, and spoken with Vatican insiders, about the
+      contents of the Third Secret.
+    claim_type: administrative
+    attestation: first_hand
+    speaker:
+      node_id: 6e230da1-2d10-4a16-920d-3dbc2369e898
+      title: Michael Hesemann
+    provenance_chain:
+      origin_kind: speaker
+      origin: Michael Hesemann
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 33ae4490-caad-4ccc-9af2-98152d7dfc72
+        title: Germany
+        slug: germany
+      - node_id: 34cbcce0-b88a-4057-8691-635f2902c481
+        title: Italy, Rome
+        slug: rome-italy
+      - node_id: 6e230da1-2d10-4a16-920d-3dbc2369e898
+        title: Michael Hesemann
+        slug: michael-hesemann
+      - node_id: b6b60271-c105-4b1f-89ec-bd02227901d9
+        title: Third Secret of Fatima
+        slug: third-secret-of-fatima
+      - node_id: cb54ad51-94b1-4a33-b036-7c00ad40cf6b
+        title: Vatican
+        slug: vatican
+    date: null
+    date_end: null
+    location_in_record: ch7:4744-4868
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 171e1337-151f-40c5-8b9a-659faac4c5f6
+      record_title: The Fatima Secret
+      record_date: '2000-11-28'
+      record_reference: null
+      content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
+      friendly_name: 2000-11-28-ebook-the-fatima-secret
+  - claim_id: 5fac85f4-0a08-4eeb-a1d7-c0c14ab0ba18
+    claim_hash: 12cdadf417d654882b5cf620d4bdf3c32496d32dc54f36e77ab742ce13ab0dcf
+    content: Michael Hesemann considers the Fatima apparitions to have had a deep impact on the secret policies of the Vatican.
+    original_excerpt: Fatima had a deep impact on the secret policies of the Vatican, which is the smallest state, yet the
+      most influential superpower, on earth.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 6e230da1-2d10-4a16-920d-3dbc2369e898
+      title: Michael Hesemann
+    provenance_chain:
+      origin_kind: speaker
+      origin: Michael Hesemann
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 6e230da1-2d10-4a16-920d-3dbc2369e898
+        title: Michael Hesemann
+        slug: michael-hesemann
+      - node_id: cb54ad51-94b1-4a33-b036-7c00ad40cf6b
+        title: Vatican
+        slug: vatican
+      - node_id: cfd554b1-096e-4d54-aa89-5edc2e0c41f5
+        title: Fatima apparitions (1917)
+        slug: fatima-apparitions-1917
+    date: null
+    date_end: null
+    location_in_record: ch7:5471-5604
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 171e1337-151f-40c5-8b9a-659faac4c5f6
+      record_title: The Fatima Secret
+      record_date: '2000-11-28'
+      record_reference: null
+      content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
+      friendly_name: 2000-11-28-ebook-the-fatima-secret
+  - claim_id: 6320ab77-06c4-4d08-bc0f-485e31ad8158
+    claim_hash: fb9556e54e5713b17b90caec7a394d776ecda76a3f1650b3e8853f06d950f79a
+    content: Corrado Balducci has been a high-ranking member of the Vatican for fifty-two years.
+    original_excerpt: He has been a high-ranking member of the Vatican for fifty-two years
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 2e939c07-6002-4f06-8917-e448656ef39d
+        title: Corrado Balducci
+        slug: corrado-balducci
+      - node_id: cb54ad51-94b1-4a33-b036-7c00ad40cf6b
+        title: Vatican
+        slug: vatican
+    date: null
+    date_end: null
+    location_in_record: ch7:7589-7652
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 171e1337-151f-40c5-8b9a-659faac4c5f6
+      record_title: The Fatima Secret
+      record_date: '2000-11-28'
+      record_reference: null
+      content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
+      friendly_name: 2000-11-28-ebook-the-fatima-secret
+  - claim_id: 2ae3dbcd-56ff-4500-b3bc-315b0efa81cb
+    claim_hash: 51adc5c893f6b20e8891d76dc55f3b1be2f4321132d6e60027d10bce7432fca2
+    content: Corrado Balducci worked for several years as an exorcist in the Vatican for Pope Paul VI.
+    original_excerpt: For several years he worked as an exorcist in the Vatican for Pope Paul VI.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 2e939c07-6002-4f06-8917-e448656ef39d
+        title: Corrado Balducci
+        slug: corrado-balducci
+      - node_id: cb54ad51-94b1-4a33-b036-7c00ad40cf6b
+        title: Vatican
+        slug: vatican
+      - node_id: e63698cc-274e-4e27-b576-a027fb10f37f
+        title: Paul VI
+        slug: paul-vi
+    date: null
+    date_end: null
+    location_in_record: ch7:7756-7828
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 171e1337-151f-40c5-8b9a-659faac4c5f6
+      record_title: The Fatima Secret
+      record_date: '2000-11-28'
+      record_reference: null
+      content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
+      friendly_name: 2000-11-28-ebook-the-fatima-secret
+  - claim_id: b0e259be-5678-4ddc-abda-9284b23d04a0
+    claim_hash: 0c2161ca9b90f1c4c45b0a8f4949dcafcf30ad53bb6e7f27895b407945fc677e
+    content: Pope John XXIII read the sealed envelope in a closed room at Castel Gandolfo in the presence only of a Vatican
+      interpreter and his confessor, Monsignor Alfredo Cavagna.
+    original_excerpt: He had arranged for a Vatican interpreter to be present, in case there was difficulty understanding
+      the Portuguese text. Sitting in a closed room, with only the interpreter and his confessor, Monsignor Alfredo Cavagna,
+      present, the pope read the words that Sister Lúcia had written down fifteen years before.
+    claim_type: observation
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: narration
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 11e5d467-eddb-4565-b496-984e85ca249a
+        title: Italy, Castel Gandolfo
+        slug: castel-gandolfo-italy
+      - node_id: cb54ad51-94b1-4a33-b036-7c00ad40cf6b
+        title: Vatican
+        slug: vatican
+      - node_id: eb22d754-dbb1-4be0-8da7-7084e2b9ff4a
+        title: Alfredo Cavagna
+        slug: alfredo-cavagna
+      - node_id: ff3b3953-e566-48ff-933f-8c176d32db54
+        title: John XXIII
+        slug: john-xxiii
+    date: '1959-08-21'
+    date_end: null
+    location_in_record: ch8:961-1262
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 171e1337-151f-40c5-8b9a-659faac4c5f6
+      record_title: The Fatima Secret
+      record_date: '2000-11-28'
+      record_reference: null
+      content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
+      friendly_name: 2000-11-28-ebook-the-fatima-secret
+  - claim_id: 8e0ce4a8-6424-47cd-b1b5-06270e4ce0d7
+    claim_hash: 274fa19684d1f8461ba0c05afbc5de3a20c1cb2e5ef5ac04a87b6c09d025f9c8
+    content: The Vatican has formed alliances with UAP transparency advocates in Italy and the United States and confidentially
+      shares centuries-old historic accounts that may be UAP-related.
+    original_excerpt: Institutions like the Vatican have formed alliances with UAP transparency advocates in Italy and the
+      US and confidentially share historic accounts that are centuries old that may be UAP-related.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+      title: Luis Elizondo
+    provenance_chain:
+      origin_kind: speaker
+      origin: Lue Elizondo
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: cb54ad51-94b1-4a33-b036-7c00ad40cf6b
+        title: Vatican
+        slug: vatican
+      - node_id: f774194b-106c-43bd-be85-5318eb56d66e
+        title: Italy
+        slug: italy
+    date: null
+    date_end: null
+    location_in_record: ch12:42885-43071
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  - claim_id: 47e7b83c-ece4-4bdb-a4ca-0ee5a75e273e
+    claim_hash: 9c189d72a816a50652f29fd7bf6e32c4a0c951f65652da2c6b50aaa353bf89c1
+    content: The Vatican has collected intelligence over the millennia culled from eyewitness reports and anecdotes shared
+      in the confessional.
+    original_excerpt: Most people would be shocked by the amount of intelligence the Vatican has collected over the millennia,
+      culled from eyewitness reports and perhaps even anecdotes shared in the confessional.
+    claim_type: hearsay
+    attestation: second_hand
+    speaker:
+      node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+      title: Luis Elizondo
+    provenance_chain:
+      origin_kind: anonymous
+      origin: a person claiming to have told Lue Elizondo that the Catholic Church routinely polled priests about their parishioners'
+        concerns
+      relay:
+        - told to Lue Elizondo
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: cb54ad51-94b1-4a33-b036-7c00ad40cf6b
+        title: Vatican
+        slug: vatican
+    date: null
+    date_end: null
+    location_in_record: ch12:43080-43257
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  - claim_id: e06d69da-6fba-44b8-a845-b0df8301dbeb
+    claim_hash: 923aad4ca5164a91623846a0242bcbb8067026cb6066ea971c4dec187c9fbdc9
+    content: Lue Elizondo was told that the Catholic Church routinely polled priests to speak in a general way about what
+      troubled their parishioners.
+    original_excerpt: I’ve been told that the church routinely polled priests to speak in a general way about what troubled
+      their parishioners.
+    claim_type: hearsay
+    attestation: second_hand
+    speaker:
+      node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+      title: Luis Elizondo
+    provenance_chain:
+      origin_kind: anonymous
+      origin: a person claiming knowledge of Catholic Church internal practices
+      relay:
+        - told to Lue Elizondo
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+        title: Luis Elizondo
+        slug: luis-elizondo
+      - node_id: cb54ad51-94b1-4a33-b036-7c00ad40cf6b
+        title: Vatican
+        slug: vatican
+    date: null
+    date_end: null
+    location_in_record: ch12:43318-43426
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  - claim_id: 61c54761-0969-421e-afbe-50f9304e4e8b
+    claim_hash: 12c3b0820225acb7a9960de465add1feb12838ab8899973659e15d2698e42314
+    content: Jason Samosa is certain the Vatican knows something about UFOs.
+    original_excerpt: 'Jesse Michels: Do you think the Vatican knows anything about UFOs? Jason Samosa: Absolutely. Yeah,
+      absolutely. I do.'
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: ff0a86b8-8f3c-4291-94ed-c6d303875ce8
+      title: Jason Samosa
+    provenance_chain:
+      origin_kind: speaker
+      origin: Jason Samosa
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
+        title: Unidentified Flying Object (UFO)
+        slug: unidentified-flying-object-ufo
+      - node_id: cb54ad51-94b1-4a33-b036-7c00ad40cf6b
+        title: Vatican
+        slug: vatican
+      - node_id: ff0a86b8-8f3c-4291-94ed-c6d303875ce8
+        title: Jason Samosa
+        slug: jason-samosa
+    date: null
+    date_end: null
+    location_in_record: 02:17:50.6-02:17:55.4
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 64b84f95-238c-4ab7-a678-bee55f985b14
+      record_title: The UFO Cover-Up Leads to One Secret Society — and One Final Event
+      record_date: '2026-07-14'
+      record_reference: https://www.youtube.com/watch?v=kccrkCGGzX4
+      content_hash: sha256:d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7b5a1b98d
+      friendly_name: null
+  - claim_id: 3bc81cc5-32d4-4081-9ea1-ce240f1152a2
+    claim_hash: d809d419a348f76281a196be9bfb2f5f291d8bde71f48b0f2e4ab2f64909b677
+    content: Jason Samosa observes that the role of the Vatican in the UFO subject is hinted at by many researchers he respects,
+      comes up and then disappears, with no one wanting to focus on it.
+    original_excerpt: the role of the Vatican is hinted at by many people that I would respect it kind of comes up and then
+      it disappears, right? No one wants to focus too much on the Vatican.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: ff0a86b8-8f3c-4291-94ed-c6d303875ce8
+      title: Jason Samosa
+    provenance_chain:
+      origin_kind: speaker
+      origin: Jason Samosa
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: cb54ad51-94b1-4a33-b036-7c00ad40cf6b
+        title: Vatican
+        slug: vatican
+      - node_id: d0c8f9ff-47d3-4dbe-91a4-aaa9c1e0cd51
+        title: Ufology
+        slug: ufology
+      - node_id: ff0a86b8-8f3c-4291-94ed-c6d303875ce8
+        title: Jason Samosa
+        slug: jason-samosa
+    date: null
+    date_end: null
+    location_in_record: 02:17:57.1-02:18:04.0
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 64b84f95-238c-4ab7-a678-bee55f985b14
+      record_title: The UFO Cover-Up Leads to One Secret Society — and One Final Event
+      record_date: '2026-07-14'
+      record_reference: https://www.youtube.com/watch?v=kccrkCGGzX4
+      content_hash: sha256:d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7b5a1b98d
+      friendly_name: null
+  - claim_id: 3f511a56-ee73-48df-8f22-82af5a1c17fb
+    claim_hash: 44955b607510901d98344866891387d185f8d494074a600b353bee1c9598dce1
+    content: Jason Samosa argues that an institution lasting 2,000 years such as the Vatican must resist change and revolution,
+      and that the Vatican has done so outstandingly well, suppressing doctrinal challenges for a long time.
+    original_excerpt: what is it that makes an institution last for a long time, 2000 years?... the key thing is you have
+      to resist change. You have to resist revolution. And the Vatican did and has done an outstanding job on that.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: ff0a86b8-8f3c-4291-94ed-c6d303875ce8
+      title: Jason Samosa
+    provenance_chain:
+      origin_kind: speaker
+      origin: Jason Samosa
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: cb54ad51-94b1-4a33-b036-7c00ad40cf6b
+        title: Vatican
+        slug: vatican
+      - node_id: ff0a86b8-8f3c-4291-94ed-c6d303875ce8
+        title: Jason Samosa
+        slug: jason-samosa
+    date: null
+    date_end: null
+    location_in_record: 02:18:11.7-02:18:28.0
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 64b84f95-238c-4ab7-a678-bee55f985b14
+      record_title: The UFO Cover-Up Leads to One Secret Society — and One Final Event
+      record_date: '2026-07-14'
+      record_reference: https://www.youtube.com/watch?v=kccrkCGGzX4
+      content_hash: sha256:d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7b5a1b98d
+      friendly_name: null
+  - claim_id: eff7a1d3-d75f-4754-99f4-baa04a72fb26
+    claim_hash: f9f77db842f311ff26670a2c71ff3ac9dfb53f08e626328434ed08b25bf78fe3
+    content: Jason Samosa holds that the Vatican, the monarchies and the Knights of Malta were nearly wiped off the map in
+      the late 1700s and afterwards colluded in the Congress of Vienna.
+    original_excerpt: the Vatican conspiring with the monarchies and the Knights of Malta... All of them were like, we nearly
+      got wiped off the map, you know, like late 1700s... So afterwards they colluded a thing called the Congress of Vienna
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: ff0a86b8-8f3c-4291-94ed-c6d303875ce8
+      title: Jason Samosa
+    provenance_chain:
+      origin_kind: speaker
+      origin: Jason Samosa
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 64a2f80d-f8bc-4c3f-8966-6558b593bbb9
+        title: Congress of Vienna
+        slug: congress-of-vienna
+      - node_id: b9230db2-eef8-4526-86aa-97f693336b1a
+        title: Knights of Malta
+        slug: knights-of-malta
+      - node_id: cb54ad51-94b1-4a33-b036-7c00ad40cf6b
+        title: Vatican
+        slug: vatican
+      - node_id: ff0a86b8-8f3c-4291-94ed-c6d303875ce8
+        title: Jason Samosa
+        slug: jason-samosa
+    date: null
+    date_end: null
+    location_in_record: 02:18:49.7-02:19:07.8
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 64b84f95-238c-4ab7-a678-bee55f985b14
+      record_title: The UFO Cover-Up Leads to One Secret Society — and One Final Event
+      record_date: '2026-07-14'
+      record_reference: https://www.youtube.com/watch?v=kccrkCGGzX4
+      content_hash: sha256:d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7b5a1b98d
+      friendly_name: null
+  - claim_id: b736bc27-407a-4e6b-be0f-df7d9ba335a1
+    claim_hash: 80ed2eb0389f872634add6052dfb268fbe8be45ac88b1a713f23807adad17e00
+    content: Attending the Congress of Vienna beneath Klemens von Metternich were the various monarchies, the Vatican and
+      the Knights of Malta, with the aim of systematising a joint response to revolution, so that a revolution in Southern
+      Italy would be treated as Austro-Hungary's problem too.
+    original_excerpt: Underneath him attending were the various monarchies and the Vatican, the Knights of Malta. And the
+      idea was like, look, we don't like each other... Because when a revolution happens in Southern Italy, that's Austro-Hungaria's
+      problem. So I'm going to send people down to help with that. Let's systematize our response
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: ff0a86b8-8f3c-4291-94ed-c6d303875ce8
+      title: Jason Samosa
+    provenance_chain:
+      origin_kind: speaker
+      origin: Jason Samosa
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 64a2f80d-f8bc-4c3f-8966-6558b593bbb9
+        title: Congress of Vienna
+        slug: congress-of-vienna
+      - node_id: 93b96bc3-1f90-4b98-ad86-db07fff63f38
+        title: Austria, Vienna
+        slug: vienna-austria
+      - node_id: b9230db2-eef8-4526-86aa-97f693336b1a
+        title: Knights of Malta
+        slug: knights-of-malta
+      - node_id: c4fc7a98-b459-4b3a-9d62-bc9ab77b5bc0
+        title: Klemens von Metternich
+        slug: klemens-von-metternich
+      - node_id: cb54ad51-94b1-4a33-b036-7c00ad40cf6b
+        title: Vatican
+        slug: vatican
+      - node_id: ff0a86b8-8f3c-4291-94ed-c6d303875ce8
+        title: Jason Samosa
+        slug: jason-samosa
+    date: null
+    date_end: null
+    location_in_record: 02:19:25.0-02:19:45.2
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 64b84f95-238c-4ab7-a678-bee55f985b14
+      record_title: The UFO Cover-Up Leads to One Secret Society — and One Final Event
+      record_date: '2026-07-14'
+      record_reference: https://www.youtube.com/watch?v=kccrkCGGzX4
+      content_hash: sha256:d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7b5a1b98d
+      friendly_name: null
+  - claim_id: 6bcc44fc-bb22-4443-9ece-41ce014fd1f7
+    claim_hash: 72646bc6062172e4c753109da8629e783a2daa592ae4e2f4c26923f8dd1728ff
+    content: The Holy See (the Vatican) has historically sought to manage revolutions, and Jason Samosa characterises its
+      institutional personality as conservative.
+    original_excerpt: So the Vatican has always tried to deal with revolutions... if the Vatican has a personality, it's conservative.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: ff0a86b8-8f3c-4291-94ed-c6d303875ce8
+      title: Jason Samosa
+    provenance_chain:
+      origin_kind: speaker
+      origin: Jason Samosa
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: cb54ad51-94b1-4a33-b036-7c00ad40cf6b
+        title: Vatican
+        slug: vatican
+      - node_id: ff0a86b8-8f3c-4291-94ed-c6d303875ce8
+        title: Jason Samosa
+        slug: jason-samosa
+    date: null
+    date_end: null
+    location_in_record: 02:19:51.3-02:19:55.0
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 64b84f95-238c-4ab7-a678-bee55f985b14
+      record_title: The UFO Cover-Up Leads to One Secret Society — and One Final Event
+      record_date: '2026-07-14'
+      record_reference: https://www.youtube.com/watch?v=kccrkCGGzX4
+      content_hash: sha256:d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7b5a1b98d
+      friendly_name: null
+  - claim_id: b43031f1-cdf4-4a9e-bfdd-aa9d6715ccfd
+    claim_hash: bbcb95cd2119b71e24d81a315de9255dc6d8aefd66945058319ce2156b40706a
+    content: Jason Samosa considers the ultimate revolution to be the prospect that the biblical narrative and the doctrine
+      built on top of it, which constrain interpretation of anomalous events, could be blown open.
+    original_excerpt: The reality that the biblical narrative, which constrains the information... could be blown open by
+      the next revolution.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: ff0a86b8-8f3c-4291-94ed-c6d303875ce8
+      title: Jason Samosa
+    provenance_chain:
+      origin_kind: speaker
+      origin: Jason Samosa
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: b54fcf2e-35dc-4c05-baae-e892c1a79140
+        title: The Bible
+        slug: the-bible
+      - node_id: cb54ad51-94b1-4a33-b036-7c00ad40cf6b
+        title: Vatican
+        slug: vatican
+      - node_id: ff0a86b8-8f3c-4291-94ed-c6d303875ce8
+        title: Jason Samosa
+        slug: jason-samosa
+    date: null
+    date_end: null
+    location_in_record: 02:19:56.8-02:20:01.8
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 64b84f95-238c-4ab7-a678-bee55f985b14
+      record_title: The UFO Cover-Up Leads to One Secret Society — and One Final Event
+      record_date: '2026-07-14'
+      record_reference: https://www.youtube.com/watch?v=kccrkCGGzX4
+      content_hash: sha256:d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7b5a1b98d
+      friendly_name: null
+  - claim_id: 565a2c20-3628-4eca-bf00-77c62ac66331
+    claim_hash: ab05ead686c2a2a5598ed641cf46615a1ec50785c863cba3220699f9aa7f182c
+    content: The Holy See (the Vatican) characterised the object seen at the Miracle of the Sun at Fatima as the sun flying
+      around, rather than as a disc.
+    original_excerpt: So the Vatican basically says, this was the sun flying around. Okay. People said they saw a disc, but
+      for the Vatican, that's kind of dangerous.
+    claim_type: testimony
+    attestation: null
+    speaker:
+      node_id: ff0a86b8-8f3c-4291-94ed-c6d303875ce8
+      title: Jason Samosa
+    provenance_chain:
+      origin_kind: unattributed
+      origin: general historical account
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 945f1e52-b06d-42ab-99a7-acfa8e7c7b2b
+        title: Miracle of the Sun at Fatima
+        slug: miracle-of-the-sun-at-fatima
+      - node_id: cb54ad51-94b1-4a33-b036-7c00ad40cf6b
+        title: Vatican
+        slug: vatican
+    date: null
+    date_end: null
+    location_in_record: 02:21:52.8-02:22:01.4
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 64b84f95-238c-4ab7-a678-bee55f985b14
+      record_title: The UFO Cover-Up Leads to One Secret Society — and One Final Event
+      record_date: '2026-07-14'
+      record_reference: https://www.youtube.com/watch?v=kccrkCGGzX4
+      content_hash: sha256:d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7b5a1b98d
+      friendly_name: null
+  - claim_id: 5f81a12e-cbfe-43d2-88b7-7dd4350a0461
+    claim_hash: bd58becb65c50ba0bf072af05e8af13faf58fb004cb08812d308e51c92b67ce5
+    content: Jason Samosa considers that a silver disc interpretation of Fatima would be dangerous for the Holy See (the Vatican)
+      because it would draw believers away from devotional practice, giving the church a tendency to constrain the information.
+    original_excerpt: Are you telling me there's a silver disc in this guy? I'm probably going to stop focusing on all my
+      Hail Marys and start reading some books, you know? So now there's this tendency to constrain the information.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: ff0a86b8-8f3c-4291-94ed-c6d303875ce8
+      title: Jason Samosa
+    provenance_chain:
+      origin_kind: speaker
+      origin: Jason Samosa
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 945f1e52-b06d-42ab-99a7-acfa8e7c7b2b
+        title: Miracle of the Sun at Fatima
+        slug: miracle-of-the-sun-at-fatima
+      - node_id: cb54ad51-94b1-4a33-b036-7c00ad40cf6b
+        title: Vatican
+        slug: vatican
+      - node_id: ff0a86b8-8f3c-4291-94ed-c6d303875ce8
+        title: Jason Samosa
+        slug: jason-samosa
+    date: null
+    date_end: null
+    location_in_record: 02:22:02.3-02:22:11.4
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 64b84f95-238c-4ab7-a678-bee55f985b14
+      record_title: The UFO Cover-Up Leads to One Secret Society — and One Final Event
+      record_date: '2026-07-14'
+      record_reference: https://www.youtube.com/watch?v=kccrkCGGzX4
+      content_hash: sha256:d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7b5a1b98d
+      friendly_name: null
+  - claim_id: 5e7b7fe9-f609-459c-9502-a479c287d1c4
+    claim_hash: 61d19418c0924fe81ee74108def5b2ee292acb44b1ce4a0c8767633e5518a71f
+    content: The Holy See (the Vatican) confiscated a written prophecy given to the children who witnessed the Fatima Marian
+      apparitions, and Jesse Michels believes that prophecy was more complex than the historical portrayal of a sun or Virgin
+      Mary appearance.
+    original_excerpt: I think the Vatican confiscated one of the prophecies from the, the orphans or whatever... And it was
+      written down and that piece of paper was literally confiscated by the Vatican.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 079d4381-4273-418b-bc9a-468623f95c6e
+      title: Jesse Mitchells
+    provenance_chain:
+      origin_kind: speaker
+      origin: Jesse Michels
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 079d4381-4273-418b-bc9a-468623f95c6e
+        title: Jesse Mitchells
+        slug: jesse-mitchells
+      - node_id: b6b60271-c105-4b1f-89ec-bd02227901d9
+        title: Third Secret of Fatima
+        slug: third-secret-of-fatima
+      - node_id: c3049206-6e8c-43b6-a645-5b8c47da0e56
+        title: 1917 Fatima Marian apparitions
+        slug: 1917-fatima-marian-apparitions
+      - node_id: cb54ad51-94b1-4a33-b036-7c00ad40cf6b
+        title: Vatican
+        slug: vatican
+    date: null
+    date_end: null
+    location_in_record: 02:22:32.7-02:22:41.6
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 64b84f95-238c-4ab7-a678-bee55f985b14
+      record_title: The UFO Cover-Up Leads to One Secret Society — and One Final Event
+      record_date: '2026-07-14'
+      record_reference: https://www.youtube.com/watch?v=kccrkCGGzX4
+      content_hash: sha256:d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7b5a1b98d
+      friendly_name: null
+  - claim_id: 43d9cdfc-e031-4720-b1c9-853b607556f4
+    claim_hash: 9fd749c884c4f7d2a541b6bb6d5f619368b54df06d79fd8607267c8dfba32db8
+    content: Jesse Michels believes material from the Magenta UFO crash is held by the Holy See (the Vatican) or is at least
+      known to it.
+    original_excerpt: And then you have the magenta crash probably being held by the Vatican as well, or at least under the
+      knowledge.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 079d4381-4273-418b-bc9a-468623f95c6e
+      title: Jesse Mitchells
+    provenance_chain:
+      origin_kind: speaker
+      origin: Jesse Michels
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 079d4381-4273-418b-bc9a-468623f95c6e
+        title: Jesse Mitchells
+        slug: jesse-mitchells
+      - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
+        title: 2004 USS Nimitz UAP encounter
+        slug: 2004-uss-nimitz-uap-encounter
+      - node_id: cb54ad51-94b1-4a33-b036-7c00ad40cf6b
+        title: Vatican
+        slug: vatican
+    date: null
+    date_end: null
+    location_in_record: 02:22:46.8-02:22:52.6
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 64b84f95-238c-4ab7-a678-bee55f985b14
+      record_title: The UFO Cover-Up Leads to One Secret Society — and One Final Event
+      record_date: '2026-07-14'
+      record_reference: https://www.youtube.com/watch?v=kccrkCGGzX4
+      content_hash: sha256:d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7b5a1b98d
+      friendly_name: null
+  - claim_id: a231f9c3-127c-428e-b102-8da6d090b0c9
+    claim_hash: ed91f6acc935dea5a7fac65a935694080b740a66663839b9f948ce8e411383d0
+    content: Francis Spellman was deeply tied in with the Holy See (the Vatican).
+    original_excerpt: Francis Spellman is deeply tied in with the Vatican.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 079d4381-4273-418b-bc9a-468623f95c6e
+      title: Jesse Mitchells
+    provenance_chain:
+      origin_kind: speaker
+      origin: Jesse Michels
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 4b693358-e781-45fc-ac14-c65d11b38516
+        title: Francis Spellman
+        slug: francis-spellman
+      - node_id: cb54ad51-94b1-4a33-b036-7c00ad40cf6b
+        title: Vatican
+        slug: vatican
+    date: null
+    date_end: null
+    location_in_record: 02:23:23.0-02:23:25.5
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 64b84f95-238c-4ab7-a678-bee55f985b14
+      record_title: The UFO Cover-Up Leads to One Secret Society — and One Final Event
+      record_date: '2026-07-14'
+      record_reference: https://www.youtube.com/watch?v=kccrkCGGzX4
+      content_hash: sha256:d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7b5a1b98d
+      friendly_name: null
+  - claim_id: 55b712e5-b1c9-4218-aa03-d967203f1794
+    claim_hash: ba87e22a0b17c4a6012a6fd6e3e3ba6fc0ca66dafa382e80b36d8e5bc6426e11
+    content: Records outside the Majestic 12 documents show Bishop John McIntyre, a senior figure in the Catholic hierarchy,
+      present around Edwards Air Force Base in 1954.
+    original_excerpt: And then there's documentation of Bishop McIntyre, another guy pretty high up in the Vatican ecosystem.
+      And he's hanging out around Edwards Air Force Base in 1954. This is not even MJ-12. This is real records
+    claim_type: testimony
+    attestation: second_hand
+    speaker:
+      node_id: 079d4381-4273-418b-bc9a-468623f95c6e
+      title: Jesse Mitchells
+    provenance_chain:
+      origin_kind: document
+      origin: records of Bishop John McIntyre's presence at Edwards Air Force Base
+      relay:
+        - Jesse Michels
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 079d4381-4273-418b-bc9a-468623f95c6e
+        title: Jesse Mitchells
+        slug: jesse-mitchells
+      - node_id: ba23cf77-e8d4-434c-a843-7ee713d9f578
+        title: John McIntyre
+        slug: john-mcintyre
+      - node_id: bfd491e5-8e60-456c-bb6c-da2fb39d96f0
+        title: USA, California, Edwards Air Force Base
+        slug: california-edwards-air-force-base-usa
+      - node_id: cb54ad51-94b1-4a33-b036-7c00ad40cf6b
+        title: Vatican
+        slug: vatican
+    date: '1954'
+    date_end: null
+    location_in_record: 02:23:39.1-02:23:52.4
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 64b84f95-238c-4ab7-a678-bee55f985b14
+      record_title: The UFO Cover-Up Leads to One Secret Society — and One Final Event
+      record_date: '2026-07-14'
+      record_reference: https://www.youtube.com/watch?v=kccrkCGGzX4
+      content_hash: sha256:d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7b5a1b98d
+      friendly_name: null
+  - claim_id: a2241991-0d9a-44f0-b5ed-7ec03e32f81c
+    claim_hash: ac691ebdb35ff99365431e3d5a66937b5f421b654671513de495f6a3d3dc7dca
+    content: Jason Samosa considers Catholic influence in the United States to be very large.
+    original_excerpt: And the general Catholic influence in America is huge.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: ff0a86b8-8f3c-4291-94ed-c6d303875ce8
+      title: Jason Samosa
+    provenance_chain:
+      origin_kind: speaker
+      origin: Jason Samosa
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: cb54ad51-94b1-4a33-b036-7c00ad40cf6b
+        title: Vatican
+        slug: vatican
+      - node_id: ff0a86b8-8f3c-4291-94ed-c6d303875ce8
+        title: Jason Samosa
+        slug: jason-samosa
+    date: null
+    date_end: null
+    location_in_record: 02:24:10.8-02:24:13.1
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 64b84f95-238c-4ab7-a678-bee55f985b14
+      record_title: The UFO Cover-Up Leads to One Secret Society — and One Final Event
+      record_date: '2026-07-14'
+      record_reference: https://www.youtube.com/watch?v=kccrkCGGzX4
+      content_hash: sha256:d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7b5a1b98d
+      friendly_name: null
+  - claim_id: 0a9a6bdd-f716-4202-81a3-9d17b16b0a37
+    claim_hash: ed54782d8400507964d6b70240635991b3d610972a90588139c6831c377de826
+    content: Some of the American founding fathers were worried about Catholic influence in America because the influence
+      of the church in Europe had been to suppress democracy and the free flow of information.
+    original_excerpt: And some of the founding fathers were very worried about Catholic influence in America, because generally
+      the influence in Europe had been to suppress and not to allow democracy and the free flow of information.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: ff0a86b8-8f3c-4291-94ed-c6d303875ce8
+      title: Jason Samosa
+    provenance_chain:
+      origin_kind: speaker
+      origin: Jason Samosa
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: cb54ad51-94b1-4a33-b036-7c00ad40cf6b
+        title: Vatican
+        slug: vatican
+      - node_id: ff0a86b8-8f3c-4291-94ed-c6d303875ce8
+        title: Jason Samosa
+        slug: jason-samosa
+    date: null
+    date_end: null
+    location_in_record: 02:24:27.5-02:24:37.0
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 64b84f95-238c-4ab7-a678-bee55f985b14
+      record_title: The UFO Cover-Up Leads to One Secret Society — and One Final Event
+      record_date: '2026-07-14'
+      record_reference: https://www.youtube.com/watch?v=kccrkCGGzX4
+      content_hash: sha256:d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7b5a1b98d
+      friendly_name: null
+  - claim_id: edf2a079-9a9f-4edd-b736-fa95faac4728
+    claim_hash: d3c5d6343bb00f36066781733a84fdfba2677cef295853a5a3d31957f4e7ef55
+    content: Jason Samosa argues that placing people in key positions such as the Air Force Office of Special Investigations
+      (AFOSI) and Central Intelligence Agency (CIA) directorships gives the Holy See (the Vatican) effectively a seat on the
+      board of directors of the UFO issue.
+    original_excerpt: if you have the Vatican who may have an interest in preventing that ultimate revolution, and they now
+      manage to get people in positions of key power, AFOSI, different general CIA directors... you've now essentially got
+      a seat at the board of directors of the UFO issue.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: ff0a86b8-8f3c-4291-94ed-c6d303875ce8
+      title: Jason Samosa
+    provenance_chain:
+      origin_kind: speaker
+      origin: Jason Samosa
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 38b84d4a-96df-4684-bb46-f6f64f392add
+        title: Central Intelligence Agency (CIA)
+        slug: central-intelligence-agency-cia
+      - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
+        title: Unidentified Flying Object (UFO)
+        slug: unidentified-flying-object-ufo
+      - node_id: cad0a6eb-0ed3-44ee-8f8f-b22d7603c6f3
+        title: Air Force Office of Special Investigations (AFOSI)
+        slug: air-force-office-of-special-investigations-afosi
+      - node_id: cb54ad51-94b1-4a33-b036-7c00ad40cf6b
+        title: Vatican
+        slug: vatican
+      - node_id: ff0a86b8-8f3c-4291-94ed-c6d303875ce8
+        title: Jason Samosa
+        slug: jason-samosa
+    date: null
+    date_end: null
+    location_in_record: 02:26:45.0-02:27:05.4
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 64b84f95-238c-4ab7-a678-bee55f985b14
+      record_title: The UFO Cover-Up Leads to One Secret Society — and One Final Event
+      record_date: '2026-07-14'
+      record_reference: https://www.youtube.com/watch?v=kccrkCGGzX4
+      content_hash: sha256:d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7b5a1b98d
+      friendly_name: null
+  - claim_id: 1b9f1fc5-049c-46f9-ba7e-bc166d776054
+    claim_hash: 2fc413c80904d2a014e05be1e188123ef72efcafbe04b4d60e5696e6fc40b0e0
+    content: The Holy See (the Vatican) is at its core a vast network encompassing the Society of Jesus (the Jesuits), the
+      Knights of Malta, Opus Dei and the Pro Deo intelligence network, and is one of the biggest organisations on the planet.
+    original_excerpt: Because the Vatican is, at its core, a vast network. It's one of the biggest organizations, probably
+      the biggest one on the planet, with so many different networks, whether you're looking at the Jesuits, the Knights of
+      Malta, Opus Dei, there's the Pro Dio intelligence network
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: ff0a86b8-8f3c-4291-94ed-c6d303875ce8
+      title: Jason Samosa
+    provenance_chain:
+      origin_kind: speaker
+      origin: Jason Samosa
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: a0a37694-4ae0-431b-925a-dcaa14ec46d0
+        title: Society of Jesus (the Jesuits)
+        slug: society-of-jesus-the-jesuits
+      - node_id: a4174d90-e5c0-42c7-bedc-277fac058e6b
+        title: Pro Deo intelligence network
+        slug: pro-deo-intelligence-network
+      - node_id: b9230db2-eef8-4526-86aa-97f693336b1a
+        title: Knights of Malta
+        slug: knights-of-malta
+      - node_id: cb54ad51-94b1-4a33-b036-7c00ad40cf6b
+        title: Vatican
+        slug: vatican
+      - node_id: eabda0ab-fddc-45c8-b0c9-3a485b73a814
+        title: Opus Dei
+        slug: opus-dei
+      - node_id: ff0a86b8-8f3c-4291-94ed-c6d303875ce8
+        title: Jason Samosa
+        slug: jason-samosa
+    date: null
+    date_end: null
+    location_in_record: 02:27:16.9-02:27:32.0
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 64b84f95-238c-4ab7-a678-bee55f985b14
+      record_title: The UFO Cover-Up Leads to One Secret Society — and One Final Event
+      record_date: '2026-07-14'
+      record_reference: https://www.youtube.com/watch?v=kccrkCGGzX4
+      content_hash: sha256:d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7b5a1b98d
+      friendly_name: null
+  - claim_id: 5ba948e5-0e13-4c94-ae57-99afeb76655d
+    claim_hash: 227fd58a7ae5bfc2bf3415609bfb7f18328c1559e30ae4d2769aa6a3acc22de6
+    content: Jason Samosa attempted at one point to compile a full list of the networks operating under the Holy See (the
+      Vatican) and concluded it would take a long time to work through.
+    original_excerpt: I mean, at one point I tried to list them all and I thought this is going to take a long time to dig
+      into all this stuff.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: ff0a86b8-8f3c-4291-94ed-c6d303875ce8
+      title: Jason Samosa
+    provenance_chain:
+      origin_kind: speaker
+      origin: Jason Samosa
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: cb54ad51-94b1-4a33-b036-7c00ad40cf6b
+        title: Vatican
+        slug: vatican
+      - node_id: ff0a86b8-8f3c-4291-94ed-c6d303875ce8
+        title: Jason Samosa
+        slug: jason-samosa
+    date: null
+    date_end: null
+    location_in_record: 02:27:33.1-02:27:36.9
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 64b84f95-238c-4ab7-a678-bee55f985b14
+      record_title: The UFO Cover-Up Leads to One Secret Society — and One Final Event
+      record_date: '2026-07-14'
+      record_reference: https://www.youtube.com/watch?v=kccrkCGGzX4
+      content_hash: sha256:d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7b5a1b98d
+      friendly_name: null
+  - claim_id: 7a9bdb5c-5cb4-437e-915c-41af68a9b19a
+    claim_hash: 820fa349d5550e630b3b180d9e3ebd034ae21558e14b7856e1abc1a7b4fbd419
+    content: Jason Samosa believes the Holy See (the Vatican) knows more than it discloses about the UFO subject and has tried
+      to reinterpret events.
+    original_excerpt: so yeah, I do think that the Vatican knows more. I do think that they've tried to reinterpret things
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: ff0a86b8-8f3c-4291-94ed-c6d303875ce8
+      title: Jason Samosa
+    provenance_chain:
+      origin_kind: speaker
+      origin: Jason Samosa
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
+        title: Unidentified Flying Object (UFO)
+        slug: unidentified-flying-object-ufo
+      - node_id: cb54ad51-94b1-4a33-b036-7c00ad40cf6b
+        title: Vatican
+        slug: vatican
+      - node_id: ff0a86b8-8f3c-4291-94ed-c6d303875ce8
+        title: Jason Samosa
+        slug: jason-samosa
+    date: null
+    date_end: null
+    location_in_record: 02:27:39.2-02:27:42.9
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 64b84f95-238c-4ab7-a678-bee55f985b14
+      record_title: The UFO Cover-Up Leads to One Secret Society — and One Final Event
+      record_date: '2026-07-14'
+      record_reference: https://www.youtube.com/watch?v=kccrkCGGzX4
+      content_hash: sha256:d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7b5a1b98d
+      friendly_name: null
+  - claim_id: e1fe7c96-2dfa-44b6-b39a-da7c584cdcf8
+    claim_hash: 7e28b31af067d1733ec5047646242efc6f6e9470fa00b99f02f25ca719f94707
+    content: Some Catholics view current events as an open, evolutionary and not strongly doctrinal process, while others
+      see themselves as a katechon restraining the end times whose job is to prevent the final event.
+    original_excerpt: Some Catholics believe that we're going through what seems to be kind of like an evolutionary, like
+      it's very open... And there are some who view themselves to be like a cataconic force with restraining the end times.
+      And their job is to prevent that final thing from happening.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: ff0a86b8-8f3c-4291-94ed-c6d303875ce8
+      title: Jason Samosa
+    provenance_chain:
+      origin_kind: speaker
+      origin: Jason Samosa
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 84a43dea-0183-4bb1-b2d7-c9637920d75f
+        title: Eschatology
+        slug: eschatology
+      - node_id: a3e2e1f9-b00a-47e1-80ee-e7ed50c5f9f3
+        title: Katechon
+        slug: katechon
+      - node_id: cb54ad51-94b1-4a33-b036-7c00ad40cf6b
+        title: Vatican
+        slug: vatican
+      - node_id: ff0a86b8-8f3c-4291-94ed-c6d303875ce8
+        title: Jason Samosa
+        slug: jason-samosa
+    date: null
+    date_end: null
+    location_in_record: 02:27:49.6-02:28:08.1
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 64b84f95-238c-4ab7-a678-bee55f985b14
+      record_title: The UFO Cover-Up Leads to One Secret Society — and One Final Event
+      record_date: '2026-07-14'
+      record_reference: https://www.youtube.com/watch?v=kccrkCGGzX4
+      content_hash: sha256:d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7b5a1b98d
+      friendly_name: null

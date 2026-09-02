@@ -1,0 +1,980 @@
+schema: anomalica/brief/1
+brief_hash: 5df85f7847f3a05be0e61900e57bd68b898d6a1a2f75214d9d973f9c4ed122c7
+page:
+  kind: entity
+  node_id: a9463b39-2729-4c96-99d2-44d89dbbb31b
+  node_type: event
+  title: 1961 Betty and Barney Hill Unidentified Flying Object (UFO) abduction
+  slug: 1961-betty-and-barney-hill-unidentified-flying-object-ufo-abduction
+  claim_count: 23
+  claim_count_total: 23
+generated:
+  graph_version: '2026-09-01T10:10:49.863545+00:00'
+size:
+  claims: 23
+  tokens_estimated: 6787
+  sized_against: 1050000
+publication:
+  status: published
+  note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
+    transcripts are gated elsewhere.
+belonging:
+  verified: 0
+  suspect_excluded: 0
+  unreviewed: 23
+related_nodes:
+  - node_id: ba818a56-7be8-41bd-8dff-132bb4a8f7e9
+    title: Barney Hill
+    node_type: person
+    slug: barney-hill
+    shared_claims: 17
+  - node_id: 827a669c-493c-4ea2-a245-a47d300ef053
+    title: Betty Hill
+    node_type: person
+    slug: betty-hill
+    shared_claims: 17
+  - node_id: 597b84fc-ecd1-421e-86dd-481a291dceb1
+    title: Betty Hill's star map
+    node_type: object
+    slug: betty-hills-star-map
+    shared_claims: 2
+  - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
+    title: Unidentified Flying Object (UFO)
+    node_type: topic
+    slug: unidentified-flying-object-ufo
+    shared_claims: 2
+  - node_id: 32b98a17-be55-4b0f-8e10-9d377e1e8b33
+    title: United States Air Force (USAF)
+    node_type: organisation
+    slug: united-states-air-force-usaf
+    shared_claims: 2
+  - node_id: 0e07f47f-6926-41f6-81f7-85f1f628a4c0
+    title: Benjamin Simon
+    node_type: person
+    slug: benjamin-simon
+    shared_claims: 1
+  - node_id: 76815898-cfc1-4d33-837b-113ed402ab4a
+    title: Donald Keyhoe
+    node_type: person
+    slug: donald-keyhoe
+    shared_claims: 1
+  - node_id: 384dcdc2-dd40-4ad9-a731-8fc1ac9f8a77
+    title: National Investigations Committee on Aerial Phenomena (NICAP)
+    node_type: organisation
+    slug: national-investigations-committee-on-aerial-phenomena-nicap
+    shared_claims: 1
+  - node_id: 2792ffc2-ffb7-4614-b667-ec3a739c81a1
+    title: Paul W. Henderson
+    node_type: person
+    slug: paul-w-henderson
+    shared_claims: 1
+  - node_id: b23fce4b-dde4-41f9-8e0a-e62575d2de7c
+    title: USA, Connecticut, Hartford
+    node_type: place
+    slug: connecticut-hartford-usa
+    shared_claims: 1
+  - node_id: ab8ed1ae-1526-45bf-ac89-dc9885c5ec7a
+    title: USA, New Hampshire
+    node_type: place
+    slug: new-hampshire-usa
+    shared_claims: 1
+  - node_id: 41e39cbb-5e8f-40d2-bf34-0dcefa266b76
+    title: USA, New Hampshire, White Mountains
+    node_type: place
+    slug: new-hampshire-white-mountains-usa
+    shared_claims: 1
+claims:
+  - claim_id: dd4bad6b-df03-47bb-9702-ce61f5ffbcf7
+    claim_hash: f3018e26f2b922df45ab506331fd0d3c4e30da305718da8200da3d23e3bbe472
+    content: Barney and Betty Hill's case began with a six-page report from the National Investigations Committee on Aerial
+      Phenomena (NICAP) describing their sighting of an unidentified flying object.
+    original_excerpt: they began almost at the beginning with a six-page report from NICAP...this was the story of their seeing
+      an unidentified flying object, which was investigated by a NICAP investigator who made this report
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 0e07f47f-6926-41f6-81f7-85f1f628a4c0
+      title: Benjamin Simon
+    provenance_chain:
+      origin_kind: speaker
+      origin: Benjamin Simon
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 384dcdc2-dd40-4ad9-a731-8fc1ac9f8a77
+        title: National Investigations Committee on Aerial Phenomena (NICAP)
+        slug: national-investigations-committee-on-aerial-phenomena-nicap
+      - node_id: 827a669c-493c-4ea2-a245-a47d300ef053
+        title: Betty Hill
+        slug: betty-hill
+      - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
+        title: Unidentified Flying Object (UFO)
+        slug: unidentified-flying-object-ufo
+      - node_id: a9463b39-2729-4c96-99d2-44d89dbbb31b
+        title: 1961 Betty and Barney Hill Unidentified Flying Object (UFO) abduction
+        slug: 1961-betty-and-barney-hill-unidentified-flying-object-ufo-abduction
+      - node_id: ba818a56-7be8-41bd-8dff-132bb4a8f7e9
+        title: Barney Hill
+        slug: barney-hill
+    date: null
+    date_end: null
+    location_in_record: 00:02:15.3-00:02:36.0
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: eb893bbf-4f8a-4e42-9085-5fecfa87f924
+      record_title: The Hypnotist Who Unlocked Betty & Barney Hill’s Alien Memories | Dr. Benjamin Simon Speaks
+      record_date: null
+      record_reference: https://www.youtube.com/watch?v=aXCr-jdvp6U
+      content_hash: sha256:30f8c30c6c37f3e3a2f61e3a451cc200ad17dead4830f0088f8e0e7b9ee3f499
+      friendly_name: null
+  - claim_id: 4bd82ba7-ad39-4077-8124-cd4562b2df85
+    claim_hash: 89f47bb20cb32c5b83456046fbdb7ad618fd777d64a84075627696bcd92258f1
+    content: Benjamin Simon considers the star-map matter not particularly relevant to his construction of the Betty and Barney
+      Hill case, which he views as internally factual and psychological, and not something proven by hindsight.
+    original_excerpt: At any rate, I say that's not so relevant to the construction that I have about the case, which is internally
+      a factual and psychological one and is not proving anything by hindsight.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 0e07f47f-6926-41f6-81f7-85f1f628a4c0
+      title: Benjamin Simon
+    provenance_chain:
+      origin_kind: speaker
+      origin: Benjamin Simon
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 0e07f47f-6926-41f6-81f7-85f1f628a4c0
+        title: Benjamin Simon
+        slug: benjamin-simon
+      - node_id: 597b84fc-ecd1-421e-86dd-481a291dceb1
+        title: Betty Hill's star map
+        slug: betty-hills-star-map
+      - node_id: a9463b39-2729-4c96-99d2-44d89dbbb31b
+        title: 1961 Betty and Barney Hill Unidentified Flying Object (UFO) abduction
+        slug: 1961-betty-and-barney-hill-unidentified-flying-object-ufo-abduction
+    date: null
+    date_end: null
+    location_in_record: 00:26:07.2-00:26:20.5
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: eb893bbf-4f8a-4e42-9085-5fecfa87f924
+      record_title: The Hypnotist Who Unlocked Betty & Barney Hill’s Alien Memories | Dr. Benjamin Simon Speaks
+      record_date: null
+      record_reference: https://www.youtube.com/watch?v=aXCr-jdvp6U
+      content_hash: sha256:30f8c30c6c37f3e3a2f61e3a451cc200ad17dead4830f0088f8e0e7b9ee3f499
+      friendly_name: null
+  - claim_id: 3f1c28b0-9db2-4903-8730-f69668ad8e0d
+    claim_hash: ec6044ffafa1c00bb8a25a9839b5e73199b6e34f896bba3d978519764e51d7e5
+    content: Betty Hill considers her star map a milestone proof of her belief that she was kidnapped.
+    original_excerpt: except she considers that a marked... milestone in the proof of her belief, which she said she's sure
+      of, that she was kidnapped, and so on.
+    claim_type: opinion
+    attestation: second_hand
+    speaker:
+      node_id: 0e07f47f-6926-41f6-81f7-85f1f628a4c0
+      title: Benjamin Simon
+    provenance_chain:
+      origin_kind: named
+      origin: Betty Hill
+      relay:
+        - Benjamin Simon
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 597b84fc-ecd1-421e-86dd-481a291dceb1
+        title: Betty Hill's star map
+        slug: betty-hills-star-map
+      - node_id: 827a669c-493c-4ea2-a245-a47d300ef053
+        title: Betty Hill
+        slug: betty-hill
+      - node_id: a9463b39-2729-4c96-99d2-44d89dbbb31b
+        title: 1961 Betty and Barney Hill Unidentified Flying Object (UFO) abduction
+        slug: 1961-betty-and-barney-hill-unidentified-flying-object-ufo-abduction
+    date: null
+    date_end: null
+    location_in_record: 00:26:24.8-00:26:34.2
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: eb893bbf-4f8a-4e42-9085-5fecfa87f924
+      record_title: The Hypnotist Who Unlocked Betty & Barney Hill’s Alien Memories | Dr. Benjamin Simon Speaks
+      record_date: null
+      record_reference: https://www.youtube.com/watch?v=aXCr-jdvp6U
+      content_hash: sha256:30f8c30c6c37f3e3a2f61e3a451cc200ad17dead4830f0088f8e0e7b9ee3f499
+      friendly_name: null
+  - claim_id: f942a65a-6198-400d-8a66-080827e13928
+    claim_hash: 16d699e00cd34277bca53ce9c17d3a773ad59194183d2d1992c8e89c108d61a4
+    content: Benjamin Simon considers that what Betty Hill called dreams were not just isolated dreams she had written down,
+      but that the whole structure of her story had the character of a dream.
+    original_excerpt: By the way, when I say dreams, I'm not only referring to that she had dreams, that she'd written them
+      down, but the whole structure of the story was that of a dream.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 0e07f47f-6926-41f6-81f7-85f1f628a4c0
+      title: Benjamin Simon
+    provenance_chain:
+      origin_kind: speaker
+      origin: Benjamin Simon
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 827a669c-493c-4ea2-a245-a47d300ef053
+        title: Betty Hill
+        slug: betty-hill
+      - node_id: a9463b39-2729-4c96-99d2-44d89dbbb31b
+        title: 1961 Betty and Barney Hill Unidentified Flying Object (UFO) abduction
+        slug: 1961-betty-and-barney-hill-unidentified-flying-object-ufo-abduction
+    date: null
+    date_end: null
+    location_in_record: 00:27:37.1-00:27:44.7
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: eb893bbf-4f8a-4e42-9085-5fecfa87f924
+      record_title: The Hypnotist Who Unlocked Betty & Barney Hill’s Alien Memories | Dr. Benjamin Simon Speaks
+      record_date: null
+      record_reference: https://www.youtube.com/watch?v=aXCr-jdvp6U
+      content_hash: sha256:30f8c30c6c37f3e3a2f61e3a451cc200ad17dead4830f0088f8e0e7b9ee3f499
+      friendly_name: null
+  - claim_id: 92c76129-bbe3-4177-bcb1-5a3aee7de1c6
+    claim_hash: 57f037853982977cf555de9b34a1a856fb65184bf157f1e35fb0de6b135f12f7
+    content: Benjamin Simon concluded that the two stimuli behind Betty and Barney Hill's sighting were an American Airlines
+      plane, which he had seen long before knowing the Hills, and a brilliantly lighted sign outside Hartford, Connecticut,
+      reflected through misty sky.
+    original_excerpt: the two stimuli, without giving the story, turned out to be the American Airlines plane, and the one
+      which I saw long before I ever knew the Hill's and one subsequently unseen by me, and another is a guy that turned out
+      to be a brilliantly lighted sign outside of Hartford, which was reflected through misty sky.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 0e07f47f-6926-41f6-81f7-85f1f628a4c0
+      title: Benjamin Simon
+    provenance_chain:
+      origin_kind: speaker
+      origin: Benjamin Simon
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 827a669c-493c-4ea2-a245-a47d300ef053
+        title: Betty Hill
+        slug: betty-hill
+      - node_id: a9463b39-2729-4c96-99d2-44d89dbbb31b
+        title: 1961 Betty and Barney Hill Unidentified Flying Object (UFO) abduction
+        slug: 1961-betty-and-barney-hill-unidentified-flying-object-ufo-abduction
+      - node_id: b23fce4b-dde4-41f9-8e0a-e62575d2de7c
+        title: USA, Connecticut, Hartford
+        slug: connecticut-hartford-usa
+      - node_id: ba818a56-7be8-41bd-8dff-132bb4a8f7e9
+        title: Barney Hill
+        slug: barney-hill
+    date: null
+    date_end: null
+    location_in_record: 00:30:03.7-00:30:24.5
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: eb893bbf-4f8a-4e42-9085-5fecfa87f924
+      record_title: The Hypnotist Who Unlocked Betty & Barney Hill’s Alien Memories | Dr. Benjamin Simon Speaks
+      record_date: null
+      record_reference: https://www.youtube.com/watch?v=aXCr-jdvp6U
+      content_hash: sha256:30f8c30c6c37f3e3a2f61e3a451cc200ad17dead4830f0088f8e0e7b9ee3f499
+      friendly_name: null
+  - claim_id: 38e7c93f-2cf9-4781-8b5a-dd75107c5e2a
+    claim_hash: 32151ea3994ea118e21614323ee2807bb6233b34e06a9054ea058ed1aeefbdef
+    content: Betty Hill and Barney Hill disagreed on several details of the appearance of the occupants they described in
+      their 1961 UFO abduction account.
+    original_excerpt: this would explain why contactees Betty and Barney Hill disagreed on several details of the occupants’
+      appearance
+    claim_type: observation
+    attestation: second_hand
+    speaker:
+      node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
+      title: Jacques Vallée
+    provenance_chain:
+      origin_kind: named
+      origin: Betty Hill and Barney Hill
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 827a669c-493c-4ea2-a245-a47d300ef053
+        title: Betty Hill
+        slug: betty-hill
+      - node_id: a9463b39-2729-4c96-99d2-44d89dbbb31b
+        title: 1961 Betty and Barney Hill Unidentified Flying Object (UFO) abduction
+        slug: 1961-betty-and-barney-hill-unidentified-flying-object-ufo-abduction
+      - node_id: ba818a56-7be8-41bd-8dff-132bb4a8f7e9
+        title: Barney Hill
+        slug: barney-hill
+    date: '1961-09-19'
+    date_end: null
+    location_in_record: ch5:14291-14394
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: f0690aba-c78b-47f4-bb2f-f94ea04d55ee
+      record_title: 'Messengers of Deception: UFO Contacts and Cults'
+      record_date: '0101-01-01'
+      record_reference: null
+      content_hash: sha256:0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5ac9fd3168
+      friendly_name: 0101-01-01-ebook-messengers-of-deception-ufo-contacts-and-cults
+  - claim_id: 46cebc90-65b9-4cdb-b781-22dd123a550e
+    claim_hash: 514f61086d9f0b7af5de0679281ce670b9b1993873d8b297a67ec7acfdb343d6
+    content: On 1961-09-19, Betty Hill and Barney Hill encountered a flying saucer in the White Mountains area of New Hampshire.
+    original_excerpt: It is on September 19, 1961, in the White Mountains area of New Hampshire, that Betty and Barney Hill
+      meet their flying saucer.
+    claim_type: observation
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: named
+      origin: Betty Hill
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 41e39cbb-5e8f-40d2-bf34-0dcefa266b76
+        title: USA, New Hampshire, White Mountains
+        slug: new-hampshire-white-mountains-usa
+      - node_id: 827a669c-493c-4ea2-a245-a47d300ef053
+        title: Betty Hill
+        slug: betty-hill
+      - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
+        title: Unidentified Flying Object (UFO)
+        slug: unidentified-flying-object-ufo
+      - node_id: a9463b39-2729-4c96-99d2-44d89dbbb31b
+        title: 1961 Betty and Barney Hill Unidentified Flying Object (UFO) abduction
+        slug: 1961-betty-and-barney-hill-unidentified-flying-object-ufo-abduction
+      - node_id: ba818a56-7be8-41bd-8dff-132bb4a8f7e9
+        title: Barney Hill
+        slug: barney-hill
+    date: '1961-09-19'
+    date_end: null
+    location_in_record: ch5:21588-21708
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: f0690aba-c78b-47f4-bb2f-f94ea04d55ee
+      record_title: 'Messengers of Deception: UFO Contacts and Cults'
+      record_date: '0101-01-01'
+      record_reference: null
+      content_hash: sha256:0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5ac9fd3168
+      friendly_name: 0101-01-01-ebook-messengers-of-deception-ufo-contacts-and-cults
+  - claim_id: 627a6940-0c73-4b5d-9e60-737bdbfa6c90
+    claim_hash: 4ee28cf05189d54b0fb64c13d867d27375178ee3fb0b5ee9c5ff46a1b9dd4e6d
+    content: During the 1961 encounter, the object approached Betty Hill and Barney Hill and appeared to change from looking
+      like a star to looking like a disk.
+    original_excerpt: At first it looks like a star. They keep driving on the lonely road, observing the object. It comes
+      closer and looks like a disk.
+    claim_type: observation
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: named
+      origin: Betty Hill
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 827a669c-493c-4ea2-a245-a47d300ef053
+        title: Betty Hill
+        slug: betty-hill
+      - node_id: a9463b39-2729-4c96-99d2-44d89dbbb31b
+        title: 1961 Betty and Barney Hill Unidentified Flying Object (UFO) abduction
+        slug: 1961-betty-and-barney-hill-unidentified-flying-object-ufo-abduction
+      - node_id: ba818a56-7be8-41bd-8dff-132bb4a8f7e9
+        title: Barney Hill
+        slug: barney-hill
+    date: null
+    date_end: null
+    location_in_record: ch5:21716-21840
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: f0690aba-c78b-47f4-bb2f-f94ea04d55ee
+      record_title: 'Messengers of Deception: UFO Contacts and Cults'
+      record_date: '0101-01-01'
+      record_reference: null
+      content_hash: sha256:0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5ac9fd3168
+      friendly_name: 0101-01-01-ebook-messengers-of-deception-ufo-contacts-and-cults
+  - claim_id: dd0ac7b1-3d30-476b-83a7-d311272ddbc6
+    claim_hash: f36459b60ec078502b84e1546e017b577ff602e636786e7d2f5b7956e9d4472e
+    content: During the 1961 encounter, Barney Hill used binoculars and observed the object had a large curved window behind
+      which humanoids were looking at him.
+    original_excerpt: Barney stops the car, gets his binoculars. The object has a large curved window, and behind that window,
+      humanoids are looking at him.
+    claim_type: observation
+    attestation: second_hand
+    speaker:
+      node_id: ba818a56-7be8-41bd-8dff-132bb4a8f7e9
+      title: Barney Hill
+    provenance_chain:
+      origin_kind: named
+      origin: Barney Hill
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: a9463b39-2729-4c96-99d2-44d89dbbb31b
+        title: 1961 Betty and Barney Hill Unidentified Flying Object (UFO) abduction
+        slug: 1961-betty-and-barney-hill-unidentified-flying-object-ufo-abduction
+      - node_id: ba818a56-7be8-41bd-8dff-132bb4a8f7e9
+        title: Barney Hill
+        slug: barney-hill
+    date: null
+    date_end: null
+    location_in_record: ch5:22051-22181
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: f0690aba-c78b-47f4-bb2f-f94ea04d55ee
+      record_title: 'Messengers of Deception: UFO Contacts and Cults'
+      record_date: '0101-01-01'
+      record_reference: null
+      content_hash: sha256:0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5ac9fd3168
+      friendly_name: 0101-01-01-ebook-messengers-of-deception-ufo-contacts-and-cults
+  - claim_id: ba0ccce7-fc61-4d66-a354-36901690d794
+    claim_hash: 4c6505d8ed73d591f2fc0114e4a9e2ec6dba34a77d7270f218a5125498c2012b
+    content: Barney Hill became frightened, rushed back to the car, and drove away after observing the humanoids.
+    original_excerpt: Barney rushes back to the car, frightened, and drives away.
+    claim_type: observation
+    attestation: second_hand
+    speaker:
+      node_id: ba818a56-7be8-41bd-8dff-132bb4a8f7e9
+      title: Barney Hill
+    provenance_chain:
+      origin_kind: named
+      origin: Barney Hill
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: a9463b39-2729-4c96-99d2-44d89dbbb31b
+        title: 1961 Betty and Barney Hill Unidentified Flying Object (UFO) abduction
+        slug: 1961-betty-and-barney-hill-unidentified-flying-object-ufo-abduction
+      - node_id: ba818a56-7be8-41bd-8dff-132bb4a8f7e9
+        title: Barney Hill
+        slug: barney-hill
+    date: null
+    date_end: null
+    location_in_record: ch5:22186-22240
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: f0690aba-c78b-47f4-bb2f-f94ea04d55ee
+      record_title: 'Messengers of Deception: UFO Contacts and Cults'
+      record_date: '0101-01-01'
+      record_reference: null
+      content_hash: sha256:0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5ac9fd3168
+      friendly_name: 0101-01-01-ebook-messengers-of-deception-ufo-contacts-and-cults
+  - claim_id: 8a65ef8a-d4e4-427f-ae53-5541f05b4c2b
+    claim_hash: f9902a150cab63fb8f8a5914bd81d5a5fe59b4dc4ac40ea094cdd358e5072640
+    content: A few miles down the road from the encounter site, Betty Hill and Barney Hill lost all awareness of their actions
+      and next remembered driving past Ashland, about 100 kilometres to the south.
+    original_excerpt: A few miles down the road the middle-aged couple loses all awareness of their actions. They next remember
+      driving past Ashland… sixty miles to the south!
+    claim_type: testimony
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: named
+      origin: Betty Hill
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 827a669c-493c-4ea2-a245-a47d300ef053
+        title: Betty Hill
+        slug: betty-hill
+      - node_id: a9463b39-2729-4c96-99d2-44d89dbbb31b
+        title: 1961 Betty and Barney Hill Unidentified Flying Object (UFO) abduction
+        slug: 1961-betty-and-barney-hill-unidentified-flying-object-ufo-abduction
+      - node_id: ba818a56-7be8-41bd-8dff-132bb4a8f7e9
+        title: Barney Hill
+        slug: barney-hill
+    date: null
+    date_end: null
+    location_in_record: ch5:22246-22393
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: f0690aba-c78b-47f4-bb2f-f94ea04d55ee
+      record_title: 'Messengers of Deception: UFO Contacts and Cults'
+      record_date: '0101-01-01'
+      record_reference: null
+      content_hash: sha256:0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5ac9fd3168
+      friendly_name: 0101-01-01-ebook-messengers-of-deception-ufo-contacts-and-cults
+  - claim_id: 17da03c2-bc0d-4842-95b7-cccc585ad263
+    claim_hash: 02e751403e7ab1eb2f7d6f4ad6105c97bb698759531e97de6bd7e13bf2a86cbe
+    content: A psychiatrist used regressive hypnosis to take Betty Hill and Barney Hill back to the instant of the 1961 incident,
+      during which they described eerie dwarf-like men in black uniforms taking control of them and taking them inside the
+      flying saucer for a medical examination.
+    original_excerpt: 'A psychiatrist took Betty and Barney back to the instant of the incident by using regressive hypnosis,
+      and they both described a scene they could not remember consciously: the car was stopped; eerie dwarf-like men in black
+      uniforms took control of them; and they were taken inside the flying saucer for a medical examination.'
+    claim_type: testimony
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: named
+      origin: Betty Hill
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 827a669c-493c-4ea2-a245-a47d300ef053
+        title: Betty Hill
+        slug: betty-hill
+      - node_id: a9463b39-2729-4c96-99d2-44d89dbbb31b
+        title: 1961 Betty and Barney Hill Unidentified Flying Object (UFO) abduction
+        slug: 1961-betty-and-barney-hill-unidentified-flying-object-ufo-abduction
+      - node_id: ba818a56-7be8-41bd-8dff-132bb4a8f7e9
+        title: Barney Hill
+        slug: barney-hill
+    date: null
+    date_end: null
+    location_in_record: ch5:22489-22802
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: f0690aba-c78b-47f4-bb2f-f94ea04d55ee
+      record_title: 'Messengers of Deception: UFO Contacts and Cults'
+      record_date: '0101-01-01'
+      record_reference: null
+      content_hash: sha256:0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5ac9fd3168
+      friendly_name: 0101-01-01-ebook-messengers-of-deception-ufo-contacts-and-cults
+  - claim_id: db0c860d-6a40-4aec-bdbd-e6732cc42f35
+    claim_hash: 8eef8aa925de0ad8c4ca71a4a24236c3c3769de3bf72813c23c0b60f5756c59f
+    content: Betty Hill claimed to have seen a star map aboard the UFO that abducted her.
+    original_excerpt: And what about the evidence of the “star map” seen by contactee Betty Hill aboard the UFO which abducted
+      her?
+    claim_type: testimony
+    attestation: second_hand
+    speaker:
+      node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
+      title: Jacques Vallée
+    provenance_chain:
+      origin_kind: named
+      origin: Betty Hill
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 827a669c-493c-4ea2-a245-a47d300ef053
+        title: Betty Hill
+        slug: betty-hill
+      - node_id: a9463b39-2729-4c96-99d2-44d89dbbb31b
+        title: 1961 Betty and Barney Hill Unidentified Flying Object (UFO) abduction
+        slug: 1961-betty-and-barney-hill-unidentified-flying-object-ufo-abduction
+    date: null
+    date_end: null
+    location_in_record: ch5:5090-5195
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: f0690aba-c78b-47f4-bb2f-f94ea04d55ee
+      record_title: 'Messengers of Deception: UFO Contacts and Cults'
+      record_date: '0101-01-01'
+      record_reference: null
+      content_hash: sha256:0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5ac9fd3168
+      friendly_name: 0101-01-01-ebook-messengers-of-deception-ufo-contacts-and-cults
+  - claim_id: ec73ff26-f04a-4ca0-a6de-7f9c256b83ea
+    claim_hash: 1a798cbb40bfe73004624d59d737572929c2837f7947f69ec06409fe7482681f
+    content: The 1961 Betty and Barney Hill UFO abduction incident may have been the first time hypnosis was used on people
+      who claimed to have been abducted by aliens.
+    original_excerpt: It may also have been the first time hypnosis was used on people who claimed to have been abducted by
+      aliens.
+    claim_type: observation
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 827a669c-493c-4ea2-a245-a47d300ef053
+        title: Betty Hill
+        slug: betty-hill
+      - node_id: a9463b39-2729-4c96-99d2-44d89dbbb31b
+        title: 1961 Betty and Barney Hill Unidentified Flying Object (UFO) abduction
+        slug: 1961-betty-and-barney-hill-unidentified-flying-object-ufo-abduction
+      - node_id: ba818a56-7be8-41bd-8dff-132bb4a8f7e9
+        title: Barney Hill
+        slug: barney-hill
+    date: null
+    date_end: null
+    location_in_record: ch4:41343-41445
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 288e1100-0497-41df-ba08-9890e519b0b9
+      record_title: American Cosmic
+      record_date: '2019'
+      record_reference: null
+      content_hash: sha256:ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b16ac4758
+      friendly_name: 2019-ebook-american-cosmic
+  - claim_id: f7201d79-2649-4546-93db-3ea2257a8767
+    claim_hash: efad0fe0295f6fb42fd33822585f8109ce861ef454b257e8e06600761b325475
+    content: On 1961-09-19, Betty Hill and Barney Hill were driving on a rural road in New Hampshire when they spotted a light
+      that resembled a falling star but moved differently.
+    original_excerpt: On September 19, 1961, they were driving on a rural road in that state, when they spotted a light that
+      resembled a falling star but moved differently.
+    claim_type: testimony
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: named
+      origin: Betty Hill and Barney Hill
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 827a669c-493c-4ea2-a245-a47d300ef053
+        title: Betty Hill
+        slug: betty-hill
+      - node_id: a9463b39-2729-4c96-99d2-44d89dbbb31b
+        title: 1961 Betty and Barney Hill Unidentified Flying Object (UFO) abduction
+        slug: 1961-betty-and-barney-hill-unidentified-flying-object-ufo-abduction
+      - node_id: ab8ed1ae-1526-45bf-ac89-dc9885c5ec7a
+        title: USA, New Hampshire
+        slug: new-hampshire-usa
+      - node_id: ba818a56-7be8-41bd-8dff-132bb4a8f7e9
+        title: Barney Hill
+        slug: barney-hill
+    date: '1961-09-19'
+    date_end: null
+    location_in_record: ch4:42099-42237
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 288e1100-0497-41df-ba08-9890e519b0b9
+      record_title: American Cosmic
+      record_date: '2019'
+      record_reference: null
+      content_hash: sha256:ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b16ac4758
+      friendly_name: 2019-ebook-american-cosmic
+  - claim_id: 8753169c-d5f7-446f-8951-4e365b9c7749
+    claim_hash: fe589d0e29f09ed0d3068f147000e20eff68a6c83ab863c4b2eda610b4ceb42f
+    content: During the 1961 Betty and Barney Hill UFO abduction incident, the light continued to be visible and appeared
+      to hover in the sky above their car.
+    original_excerpt: The star, however, continued to be visible and in fact seemed to hover in the sky above them.
+    claim_type: testimony
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: named
+      origin: Betty Hill and Barney Hill
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 827a669c-493c-4ea2-a245-a47d300ef053
+        title: Betty Hill
+        slug: betty-hill
+      - node_id: a9463b39-2729-4c96-99d2-44d89dbbb31b
+        title: 1961 Betty and Barney Hill Unidentified Flying Object (UFO) abduction
+        slug: 1961-betty-and-barney-hill-unidentified-flying-object-ufo-abduction
+      - node_id: ba818a56-7be8-41bd-8dff-132bb4a8f7e9
+        title: Barney Hill
+        slug: barney-hill
+    date: null
+    date_end: null
+    location_in_record: ch4:42368-42456
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 288e1100-0497-41df-ba08-9890e519b0b9
+      record_title: American Cosmic
+      record_date: '2019'
+      record_reference: null
+      content_hash: sha256:ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b16ac4758
+      friendly_name: 2019-ebook-american-cosmic
+  - claim_id: 6b6d8285-759d-4780-831d-9a5314313b2d
+    claim_hash: efe12f29b6b0edfb3dfb4b6c061b4f3fad5344164335aa07bf683e10f070f26d
+    content: During the 1961 Betty and Barney Hill UFO abduction incident, the light came toward their vehicle, almost filling
+      the windshield with its light.
+    original_excerpt: At one point, it came toward their vehicle, almost filling the windshield with its light.
+    claim_type: testimony
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: named
+      origin: Betty Hill and Barney Hill
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 827a669c-493c-4ea2-a245-a47d300ef053
+        title: Betty Hill
+        slug: betty-hill
+      - node_id: a9463b39-2729-4c96-99d2-44d89dbbb31b
+        title: 1961 Betty and Barney Hill Unidentified Flying Object (UFO) abduction
+        slug: 1961-betty-and-barney-hill-unidentified-flying-object-ufo-abduction
+      - node_id: ba818a56-7be8-41bd-8dff-132bb4a8f7e9
+        title: Barney Hill
+        slug: barney-hill
+    date: null
+    date_end: null
+    location_in_record: ch4:42462-42545
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 288e1100-0497-41df-ba08-9890e519b0b9
+      record_title: American Cosmic
+      record_date: '2019'
+      record_reference: null
+      content_hash: sha256:ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b16ac4758
+      friendly_name: 2019-ebook-american-cosmic
+  - claim_id: 93bd4ac9-26d9-4fb9-93dd-c31fcce79ff8
+    claim_hash: e1e5f3912a883e06e6053a3fa72a2602ab608a585ff1aa3e636b00988fa0e0c9
+    content: The United States Air Force file on the Hill sighting states that Paul W. Henderson explained the sighting as
+      a probable misidentified planet.
+    original_excerpt: The Air Force file says that Henderson explained the sighting as a probable misidentified planet.
+    claim_type: administrative
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: document
+      origin: the Air Force file on the Hill sighting
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 2792ffc2-ffb7-4614-b667-ec3a739c81a1
+        title: Paul W. Henderson
+        slug: paul-w-henderson
+      - node_id: 32b98a17-be55-4b0f-8e10-9d377e1e8b33
+        title: United States Air Force (USAF)
+        slug: united-states-air-force-usaf
+      - node_id: a9463b39-2729-4c96-99d2-44d89dbbb31b
+        title: 1961 Betty and Barney Hill Unidentified Flying Object (UFO) abduction
+        slug: 1961-betty-and-barney-hill-unidentified-flying-object-ufo-abduction
+    date: null
+    date_end: null
+    location_in_record: ch4:42932-43022
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 288e1100-0497-41df-ba08-9890e519b0b9
+      record_title: American Cosmic
+      record_date: '2019'
+      record_reference: null
+      content_hash: sha256:ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b16ac4758
+      friendly_name: 2019-ebook-american-cosmic
+  - claim_id: a8ecbd59-b311-4e50-9088-d235bcc6a8fa
+    claim_hash: a4ee48cbc5190ceef51232be05e09759ffdbf1e0cc0dc3c3603885443a242d86
+    content: After the 1961 Betty and Barney Hill UFO abduction incident, Barney Hill experienced headaches and nightmares.
+    original_excerpt: Additionally, Barney had been experiencing headaches and nightmares since the event.
+    claim_type: testimony
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: named
+      origin: Barney Hill
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: a9463b39-2729-4c96-99d2-44d89dbbb31b
+        title: 1961 Betty and Barney Hill Unidentified Flying Object (UFO) abduction
+        slug: 1961-betty-and-barney-hill-unidentified-flying-object-ufo-abduction
+      - node_id: ba818a56-7be8-41bd-8dff-132bb4a8f7e9
+        title: Barney Hill
+        slug: barney-hill
+    date: null
+    date_end: null
+    location_in_record: ch4:43634-43712
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 288e1100-0497-41df-ba08-9890e519b0b9
+      record_title: American Cosmic
+      record_date: '2019'
+      record_reference: null
+      content_hash: sha256:ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b16ac4758
+      friendly_name: 2019-ebook-american-cosmic
+  - claim_id: 1a7baec4-f17b-43ae-bb14-0645062457c2
+    claim_hash: af3d89ba5c1b09550fdf21bbec8b00961e275dacf8af26a98701e25c77bb9355
+    content: Betty Hill sought out a qualified hypnotist following the 1961 UFO abduction incident.
+    original_excerpt: Betty sought out a qualified hypnotist.
+    claim_type: testimony
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: named
+      origin: Betty Hill
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 827a669c-493c-4ea2-a245-a47d300ef053
+        title: Betty Hill
+        slug: betty-hill
+      - node_id: a9463b39-2729-4c96-99d2-44d89dbbb31b
+        title: 1961 Betty and Barney Hill Unidentified Flying Object (UFO) abduction
+        slug: 1961-betty-and-barney-hill-unidentified-flying-object-ufo-abduction
+    date: null
+    date_end: null
+    location_in_record: ch4:43719-43748
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 288e1100-0497-41df-ba08-9890e519b0b9
+      record_title: American Cosmic
+      record_date: '2019'
+      record_reference: null
+      content_hash: sha256:ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b16ac4758
+      friendly_name: 2019-ebook-american-cosmic
+  - claim_id: 287220b3-7918-4e7c-9574-a11214352a4a
+    claim_hash: 6a2cdd950779f91a1717008d2ce7080361ea45d6136f2f1bf4711dc8a8454565
+    content: While hypnotised, Betty Hill and Barney Hill related that they believed alien beings had abducted them, taken
+      them aboard a UFO craft, and then examined them.
+    original_excerpt: Betty and Barney related, while hypnotized, that they believed that alien beings had abducted them,
+      taken them aboard a UFO craft, and then examined them.
+    claim_type: testimony
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: named
+      origin: Betty Hill and Barney Hill
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 827a669c-493c-4ea2-a245-a47d300ef053
+        title: Betty Hill
+        slug: betty-hill
+      - node_id: a9463b39-2729-4c96-99d2-44d89dbbb31b
+        title: 1961 Betty and Barney Hill Unidentified Flying Object (UFO) abduction
+        slug: 1961-betty-and-barney-hill-unidentified-flying-object-ufo-abduction
+      - node_id: ba818a56-7be8-41bd-8dff-132bb4a8f7e9
+        title: Barney Hill
+        slug: barney-hill
+    date: null
+    date_end: null
+    location_in_record: ch4:43843-43992
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 288e1100-0497-41df-ba08-9890e519b0b9
+      record_title: American Cosmic
+      record_date: '2019'
+      record_reference: null
+      content_hash: sha256:ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b16ac4758
+      friendly_name: 2019-ebook-american-cosmic
+  - claim_id: 02bd8776-f04a-4033-b815-ff7354b4b5d1
+    claim_hash: a9a526eeee8eba21f049cf406f1e7f487462006d0b731230d0df9919bc2922da
+    content: On 1961-02-22, during hypnotic regression, Barney Hill described the eyes of one of the UFO beings as slanted
+      but not like a Chinese person's eyes.
+    original_excerpt: In hypnotic regression on February 22, Barney described the eyes of one of the UFO beings as “slanted
+      . . . [b]ut not like a Chinese.”
+    claim_type: testimony
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: named
+      origin: Barney Hill
+      relay:
+        - David Halperin's analysis
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: a9463b39-2729-4c96-99d2-44d89dbbb31b
+        title: 1961 Betty and Barney Hill Unidentified Flying Object (UFO) abduction
+        slug: 1961-betty-and-barney-hill-unidentified-flying-object-ufo-abduction
+      - node_id: ba818a56-7be8-41bd-8dff-132bb4a8f7e9
+        title: Barney Hill
+        slug: barney-hill
+    date: '1961-02-22'
+    date_end: null
+    location_in_record: ch4:44124-44249
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 288e1100-0497-41df-ba08-9890e519b0b9
+      record_title: American Cosmic
+      record_date: '2019'
+      record_reference: null
+      content_hash: sha256:ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b16ac4758
+      friendly_name: 2019-ebook-american-cosmic
+  - claim_id: 0ab8d589-9486-4efc-ab61-f5aaaeeb4074
+    claim_hash: d58f5ebe2fa35387ba63c37a14d7b1bfb045ae236d462b4deb670ca2fd101511
+    content: Betty Hill and Barney Hill reported empirical evidence of a starlike object sighting to the United States Air
+      Force, but when describing their experience to people they felt would not scoff, such as Donald Keyhoe and later their
+      therapist, they divulged the story of an encounter with nonhuman beings.
+    original_excerpt: They reported empirical evidence to the Air Force, the sighting of the starlike object. But when describing
+      their experience to people they felt would not be inclined to scoff, like Donald Keyhoe and later their therapist (who,
+      ironically, did not believe in UFOs), they divulged the story of the encounter with nonhuman beings.
+    claim_type: testimony
+    attestation: second_hand
+    speaker:
+      node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
+      title: Jacques Vallée
+    provenance_chain:
+      origin_kind: named
+      origin: Betty Hill and Barney Hill
+      relay:
+        - Jacques Vallee's field research
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 32b98a17-be55-4b0f-8e10-9d377e1e8b33
+        title: United States Air Force (USAF)
+        slug: united-states-air-force-usaf
+      - node_id: 76815898-cfc1-4d33-837b-113ed402ab4a
+        title: Donald Keyhoe
+        slug: donald-keyhoe
+      - node_id: 827a669c-493c-4ea2-a245-a47d300ef053
+        title: Betty Hill
+        slug: betty-hill
+      - node_id: a9463b39-2729-4c96-99d2-44d89dbbb31b
+        title: 1961 Betty and Barney Hill Unidentified Flying Object (UFO) abduction
+        slug: 1961-betty-and-barney-hill-unidentified-flying-object-ufo-abduction
+      - node_id: ba818a56-7be8-41bd-8dff-132bb4a8f7e9
+        title: Barney Hill
+        slug: barney-hill
+    date: null
+    date_end: null
+    location_in_record: ch5:7068-7389
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 288e1100-0497-41df-ba08-9890e519b0b9
+      record_title: American Cosmic
+      record_date: '2019'
+      record_reference: null
+      content_hash: sha256:ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b16ac4758
+      friendly_name: 2019-ebook-american-cosmic

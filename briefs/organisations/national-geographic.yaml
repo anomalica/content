@@ -1,0 +1,309 @@
+schema: anomalica/brief/1
+brief_hash: 45648ee757da87550b23cd4e448368a6d92eead59a2f0948e591cf18ee9c6935
+page:
+  kind: entity
+  node_id: ff555cb2-efb4-4de4-a3d6-c76a2bd68a6b
+  node_type: organisation
+  title: National Geographic
+  slug: national-geographic
+  claim_count: 6
+  claim_count_total: 6
+generated:
+  graph_version: '2026-09-01T10:10:49.863545+00:00'
+size:
+  claims: 6
+  tokens_estimated: 2044
+  sized_against: 1050000
+publication:
+  status: published
+  note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
+    transcripts are gated elsewhere.
+belonging:
+  verified: 0
+  suspect_excluded: 0
+  unreviewed: 6
+related_nodes:
+  - node_id: 2f670a25-1870-4ba8-8b67-91e45c70f955
+    title: Brad Dancer
+    node_type: person
+    slug: brad-dancer
+    shared_claims: 2
+  - node_id: f243f3b2-2b59-43ab-a374-d6304099998d
+    title: '"Crossing Over" (National Geographic article by Robin Marantz Henig)'
+    node_type: document
+    slug: crossing-over-national-geographic-article-by-robin-marantz-henig
+    shared_claims: 1
+  - node_id: fb74433b-514e-4b1d-a248-38c665262497
+    title: 2012 National Geographic Unidentified Flying Object (UFO) belief poll
+    node_type: document
+    slug: 2012-national-geographic-unidentified-flying-object-ufo-belief-poll
+    shared_claims: 1
+  - node_id: 4bd6fd95-3858-460d-a0a1-7c2d409507d1
+    title: History Channel
+    node_type: organisation
+    slug: history-channel
+    shared_claims: 1
+  - node_id: 7c1602f6-1862-450f-895d-7ac9f3d2ae16
+    title: Impossible Factual
+    node_type: organisation
+    slug: impossible-factual
+    shared_claims: 1
+  - node_id: c9ed6f84-e749-4834-8027-989da9d18929
+    title: Robin Marantz Henig
+    node_type: person
+    slug: robin-marantz-henig
+    shared_claims: 1
+  - node_id: 723cb617-2eb8-4779-84ef-24b14e72a378
+    title: Smithsonian Institution
+    node_type: organisation
+    slug: smithsonian-institution
+    shared_claims: 1
+  - node_id: 1231e0bd-34f2-4e27-ad3b-29db129add4c
+    title: The OZ Files
+    node_type: document
+    slug: the-oz-files
+    shared_claims: 1
+  - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
+    title: Unidentified Flying Object (UFO)
+    node_type: topic
+    slug: unidentified-flying-object-ufo
+    shared_claims: 1
+  - node_id: fbebaf7d-431f-4145-8801-0e52471c3eb6
+    title: Unnamed woman's death and resuscitation in the forest (2011-06)
+    node_type: event
+    slug: unnamed-womans-death-and-resuscitation-in-the-forest-2011-06
+    shared_claims: 1
+claims:
+  - claim_id: 252a09f7-33fe-4b6b-8294-1787cbb42617
+    claim_hash: 106870e10040366902be2411ac6d17ffb6c965608ec628db44ac4a421f28b610
+    content: The unnamed woman whose death and resuscitation in the forest occurred in June 2011 had, according to a 2016
+      National Geographic article, been dead for 101 minutes.
+    original_excerpt: after having been dead for 101 minutes / Robin Marantz Henig, "Crossing Over," National Geographic,
+      April 2016, pp. 41 and 48.
+    claim_type: measurement
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: document
+      origin: Robin Marantz Henig's National Geographic article
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: c9ed6f84-e749-4834-8027-989da9d18929
+        title: Robin Marantz Henig
+        slug: robin-marantz-henig
+      - node_id: f243f3b2-2b59-43ab-a374-d6304099998d
+        title: '"Crossing Over" (National Geographic article by Robin Marantz Henig)'
+        slug: crossing-over-national-geographic-article-by-robin-marantz-henig
+      - node_id: fbebaf7d-431f-4145-8801-0e52471c3eb6
+        title: Unnamed woman's death and resuscitation in the forest (2011-06)
+        slug: unnamed-womans-death-and-resuscitation-in-the-forest-2011-06
+      - node_id: ff555cb2-efb4-4de4-a3d6-c76a2bd68a6b
+        title: National Geographic
+        slug: national-geographic
+    date: 2016-04
+    date_end: null
+    location_in_record: ch41:22394-22518
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
+      record_title: Surviving Death
+      record_date: '2017-03-07'
+      record_reference: null
+      content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
+      friendly_name: 2017-03-07-ebook-surviving-death
+  - claim_id: f285b92e-dc79-49e4-87c3-749c20755fab
+    claim_hash: 2db91d97670b174ad399e30cb789c982805f1e5a609fe042f9ab8dc2d289eba9
+    content: Brad Dancer, National Geographic's senior vice president for audience and business development, acknowledged
+      that companies like National Geographic might play a role in bolstering belief in UFOs.
+    original_excerpt: Brad Dancer, National Geographic's senior vice president for audience and business development, recently
+      acknowledged that companies like his might play a role in bolstering UFO belief.
+    claim_type: administrative
+    attestation: first_hand
+    speaker:
+      node_id: 2f670a25-1870-4ba8-8b67-91e45c70f955
+      title: Brad Dancer
+    provenance_chain:
+      origin_kind: speaker
+      origin: Brad Dancer
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 2f670a25-1870-4ba8-8b67-91e45c70f955
+        title: Brad Dancer
+        slug: brad-dancer
+      - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
+        title: Unidentified Flying Object (UFO)
+        slug: unidentified-flying-object-ufo
+      - node_id: ff555cb2-efb4-4de4-a3d6-c76a2bd68a6b
+        title: National Geographic
+        slug: national-geographic
+    date: null
+    date_end: null
+    location_in_record: ch4:11935-12113
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 288e1100-0497-41df-ba08-9890e519b0b9
+      record_title: American Cosmic
+      record_date: '2019'
+      record_reference: null
+      content_hash: sha256:ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b16ac4758
+      friendly_name: 2019-ebook-american-cosmic
+  - claim_id: 830d3271-ba7d-4449-9c3d-d30f1b46643f
+    claim_hash: e2c8c7c1c3d6cd54bd7fde68c5b7962ed66c1c0693a3b5a6b25c9c1bed5d398c
+    content: Brad Dancer said that National Geographic was trying to have fun and see if pop culture references had an impact
+      on people's beliefs about extraterrestrials, and that Hollywood may have contributed to the belief, with movies portraying
+      aliens increasingly convincingly possibly subconsciously affecting people's attitudes.
+    original_excerpt: We were trying to have a little fun and see if pop culture references have had an impact on people's
+      beliefs. Hollywood may have contributed to the belief. As movies portraying aliens become increasingly convincing, they
+      may subconsciously affect people's attitudes.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 2f670a25-1870-4ba8-8b67-91e45c70f955
+      title: Brad Dancer
+    provenance_chain:
+      origin_kind: speaker
+      origin: Brad Dancer
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 2f670a25-1870-4ba8-8b67-91e45c70f955
+        title: Brad Dancer
+        slug: brad-dancer
+      - node_id: ff555cb2-efb4-4de4-a3d6-c76a2bd68a6b
+        title: National Geographic
+        slug: national-geographic
+    date: null
+    date_end: null
+    location_in_record: ch4:12196-12452
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 288e1100-0497-41df-ba08-9890e519b0b9
+      record_title: American Cosmic
+      record_date: '2019'
+      record_reference: null
+      content_hash: sha256:ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b16ac4758
+      friendly_name: 2019-ebook-american-cosmic
+  - claim_id: 96bd2807-0dfb-4fec-b7bb-5af2f9064f2b
+    claim_hash: ee951709f148f1b57c6581454db49aa53e796a43b0886be93d5e2dd5f0f3ff59
+    content: In a National Geographic poll, respondents were asked what they believed the world would be like if extraterrestrials
+      were real, and they thought The X-Files was the best representation of what actual UFOs and aliens would be like.
+    original_excerpt: In a poll, National Geographic asked its audience what they believed the world would be like if extraterrestrials
+      were real. Respondents thought that The X-Files was the best representation of what actual UFOs and aliens would be
+      like.
+    claim_type: measurement
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: named
+      origin: National Geographic poll
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 1231e0bd-34f2-4e27-ad3b-29db129add4c
+        title: The OZ Files
+        slug: the-oz-files
+      - node_id: ff555cb2-efb4-4de4-a3d6-c76a2bd68a6b
+        title: National Geographic
+        slug: national-geographic
+    date: null
+    date_end: null
+    location_in_record: ch4:12466-12698
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 288e1100-0497-41df-ba08-9890e519b0b9
+      record_title: American Cosmic
+      record_date: '2019'
+      record_reference: null
+      content_hash: sha256:ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b16ac4758
+      friendly_name: 2019-ebook-american-cosmic
+  - claim_id: f639f8ed-ee0d-4283-bf24-9afcc30f0cd7
+    claim_hash: 182c239cda690e9403fdf87acb1a3295f341234d5910fce7a5895fa69b81cc38
+    content: Impossible Factual's clients include National Geographic, the History Channel, and the Smithsonian Institution.
+    original_excerpt: Their clients include National Geographic, the History Channel, and the Smithsonian, all of which are
+      known to produce historical and other presumably factual programing.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 4bd6fd95-3858-460d-a0a1-7c2d409507d1
+        title: History Channel
+        slug: history-channel
+      - node_id: 723cb617-2eb8-4779-84ef-24b14e72a378
+        title: Smithsonian Institution
+        slug: smithsonian-institution
+      - node_id: 7c1602f6-1862-450f-895d-7ac9f3d2ae16
+        title: Impossible Factual
+        slug: impossible-factual
+      - node_id: ff555cb2-efb4-4de4-a3d6-c76a2bd68a6b
+        title: National Geographic
+        slug: national-geographic
+    date: null
+    date_end: null
+    location_in_record: ch4:16434-16593
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 288e1100-0497-41df-ba08-9890e519b0b9
+      record_title: American Cosmic
+      record_date: '2019'
+      record_reference: null
+      content_hash: sha256:ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b16ac4758
+      friendly_name: 2019-ebook-american-cosmic
+  - claim_id: 3f973431-66ff-4872-be7e-6aeaeb10c5f8
+    claim_hash: 312f320e27531b5c5ce0743ce6f55caab6dd5ffd519e41e93092d705a31f0756
+    content: In 2012, National Geographic conducted an informal poll of 1,114 randomly sampled Americans over the age of eighteen
+      about their belief in UFOs, in connection with marketing its UFO-themed programming.
+    original_excerpt: In 2012, in connection with marketing their UFO-themed programming, National Geographic conducted an
+      informal poll of Americans about their belief in UFOs. They randomly sampled 1,114 individuals over the age of eighteen
+      and found that 36 percent believed UFOs exist and, more significantly, 77 percent believed that there are signs suggesting
+      that aliens have been to Earth in the past.
+    claim_type: measurement
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: document
+      origin: 2012 National Geographic UFO belief poll
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: fb74433b-514e-4b1d-a248-38c665262497
+        title: 2012 National Geographic Unidentified Flying Object (UFO) belief poll
+        slug: 2012-national-geographic-unidentified-flying-object-ufo-belief-poll
+      - node_id: ff555cb2-efb4-4de4-a3d6-c76a2bd68a6b
+        title: National Geographic
+        slug: national-geographic
+    date: '2012'
+    date_end: null
+    location_in_record: char:21482-21864
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 288e1100-0497-41df-ba08-9890e519b0b9
+      record_title: American Cosmic
+      record_date: '2019'
+      record_reference: null
+      content_hash: sha256:ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b16ac4758
+      friendly_name: 2019-ebook-american-cosmic

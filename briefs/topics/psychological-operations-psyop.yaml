@@ -1,0 +1,255 @@
+schema: anomalica/brief/1
+brief_hash: 07a079297b0c7796c71e41e5e5ec732de6b87ff055ed7fc818771c1621a9f30e
+page:
+  kind: entity
+  node_id: 93fe290b-199f-418a-a3fe-715b41745a4c
+  node_type: topic
+  title: Psychological operations (PSYOP)
+  slug: psychological-operations-psyop
+  claim_count: 5
+  claim_count_total: 5
+generated:
+  graph_version: '2026-09-01T10:10:49.863545+00:00'
+size:
+  claims: 5
+  tokens_estimated: 1399
+  sized_against: 1050000
+publication:
+  status: published
+  note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
+    transcripts are gated elsewhere.
+belonging:
+  verified: 0
+  suspect_excluded: 0
+  unreviewed: 5
+related_nodes:
+  - node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+    title: Ross Coulthart
+    node_type: person
+    slug: ross-coulthart
+    shared_claims: 3
+  - node_id: 24d00311-06ac-46a1-a2f5-c99f3f8e21b2
+    title: Chris Ramsay
+    node_type: person
+    slug: chris-ramsay
+    shared_claims: 1
+  - node_id: 9bbfb006-0ecd-4d69-b3a3-8f6b01768d5b
+    title: Corey Goode
+    node_type: person
+    slug: corey-goode
+    shared_claims: 1
+  - node_id: d4241f5a-1063-4970-ba02-5a391c02d96d
+    title: David Charles Grusch
+    node_type: person
+    slug: david-charles-grusch
+    shared_claims: 1
+  - node_id: 9c74d864-957a-4654-a5b6-1249fe654ec7
+    title: Non-Human Intelligence
+    node_type: topic
+    slug: non-human-intelligence
+    shared_claims: 1
+  - node_id: b26a5e2e-9cb8-484e-92f8-d332245917b5
+    title: Phil McGraw
+    node_type: person
+    slug: phil-mcgraw
+    shared_claims: 1
+  - node_id: 92395963-b6b1-4e27-9885-b1dae7b11687
+    title: Secret space program
+    node_type: topic
+    slug: secret-space-program
+    shared_claims: 1
+claims:
+  - claim_id: 5226006f-0ddb-4d2e-b723-f142df866500
+    claim_hash: da9d994f38f1fc9e5397a36d632f04bd43b121520f8f75b65ee961aa828151bb
+    content: Ross Coulthart suspects that many of Corey Goode's claims, and other outlandish claims about the secret space
+      program, are deliberate intelligence community disinformation intended to discredit the whole idea of a secret space
+      program.
+    original_excerpt: A lot of the wacky claims about the secret space program, I suspect, are almost deliberate intelligence
+      community disinformation to discredit the whole idea of a secret space program.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+      title: Ross Coulthart
+    provenance_chain:
+      origin_kind: speaker
+      origin: Ross Coulthart
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 92395963-b6b1-4e27-9885-b1dae7b11687
+        title: Secret space program
+        slug: secret-space-program
+      - node_id: 93fe290b-199f-418a-a3fe-715b41745a4c
+        title: Psychological operations (PSYOP)
+        slug: psychological-operations-psyop
+      - node_id: 9bbfb006-0ecd-4d69-b3a3-8f6b01768d5b
+        title: Corey Goode
+        slug: corey-goode
+      - node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+        title: Ross Coulthart
+        slug: ross-coulthart
+    date: null
+    date_end: null
+    location_in_record: 00:44:37.5-00:44:47.0
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: fd845823-8784-462c-a981-4775525b6f84
+      record_title: The DANGEROUS Truth About UFOs - Ross Coulthart | DEBRIEFED ep. 76
+      record_date: '2026-02-20'
+      record_reference: https://www.youtube.com/watch?v=idBryc0eWww
+      content_hash: sha256:73be106d406f6d35a063a894e8384e7da0918eb8597d2107a9e3653becca2bdc
+      friendly_name: null
+  - claim_id: 97cdc5be-c769-46c9-82cd-9365a2ad8950
+    claim_hash: 2142d2f2e4e8e3c1c9ed0d06886d2617a4f20a8d18b37636a723e4572fd69f70
+    content: Chris Ramsay considers it possible that the sense of benevolence people feel around non-human beings is a psychological
+      operation.
+    original_excerpt: 'Chris Ramsay: It might be a psyop. Ross Coulthart: It could be that they''re just manipulating us.
+      Chris Ramsay: I''ve had that thought a lot.'
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 24d00311-06ac-46a1-a2f5-c99f3f8e21b2
+      title: Chris Ramsay
+    provenance_chain:
+      origin_kind: speaker
+      origin: Chris Ramsay
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 24d00311-06ac-46a1-a2f5-c99f3f8e21b2
+        title: Chris Ramsay
+        slug: chris-ramsay
+      - node_id: 93fe290b-199f-418a-a3fe-715b41745a4c
+        title: Psychological operations (PSYOP)
+        slug: psychological-operations-psyop
+      - node_id: 9c74d864-957a-4654-a5b6-1249fe654ec7
+        title: Non-Human Intelligence
+        slug: non-human-intelligence
+    date: null
+    date_end: null
+    location_in_record: 01:50:20.3-01:50:26.1
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: fd845823-8784-462c-a981-4775525b6f84
+      record_title: The DANGEROUS Truth About UFOs - Ross Coulthart | DEBRIEFED ep. 76
+      record_date: '2026-02-20'
+      record_reference: https://www.youtube.com/watch?v=idBryc0eWww
+      content_hash: sha256:73be106d406f6d35a063a894e8384e7da0918eb8597d2107a9e3653becca2bdc
+      friendly_name: null
+  - claim_id: 73e7af97-eee4-482a-b2c3-567fd775ce74
+    claim_hash: 9880ca7fb82638202c8881da19b79ec121119b0f1c554065159e07e0ab929f3a
+    content: Ross Coulthart accepts that the claims made to him about something coming in 2027 could be a psychological operation.
+    original_excerpt: 'Chris Ramsay: Do you think that that could be some type of psyop? Ross Coulthart: It could be.'
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+      title: Ross Coulthart
+    provenance_chain:
+      origin_kind: speaker
+      origin: Ross Coulthart
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 93fe290b-199f-418a-a3fe-715b41745a4c
+        title: Psychological operations (PSYOP)
+        slug: psychological-operations-psyop
+      - node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+        title: Ross Coulthart
+        slug: ross-coulthart
+    date: null
+    date_end: null
+    location_in_record: 02:44:52.6-02:44:56.4
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: fd845823-8784-462c-a981-4775525b6f84
+      record_title: The DANGEROUS Truth About UFOs - Ross Coulthart | DEBRIEFED ep. 76
+      record_date: '2026-02-20'
+      record_reference: https://www.youtube.com/watch?v=idBryc0eWww
+      content_hash: sha256:73be106d406f6d35a063a894e8384e7da0918eb8597d2107a9e3653becca2bdc
+      friendly_name: null
+  - claim_id: 532858b1-ba4b-4584-906b-e1984707d806
+    claim_hash: 5920a6aee93f989a41af5a139a07e3dc8b5922b2269203548dfa1118191be248
+    content: Ross Coulthart accepts that the people who told him something is coming could themselves have been targeted by
+      a psychological operation.
+    original_excerpt: 'Chris Ramsay: Do you think that the people who tell you that could have been psyoped as well? Ross
+      Coulthart: Yeah, it could be.'
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+      title: Ross Coulthart
+    provenance_chain:
+      origin_kind: speaker
+      origin: Ross Coulthart
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 93fe290b-199f-418a-a3fe-715b41745a4c
+        title: Psychological operations (PSYOP)
+        slug: psychological-operations-psyop
+      - node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+        title: Ross Coulthart
+        slug: ross-coulthart
+    date: null
+    date_end: null
+    location_in_record: 02:44:56.7-02:45:01.1
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: fd845823-8784-462c-a981-4775525b6f84
+      record_title: The DANGEROUS Truth About UFOs - Ross Coulthart | DEBRIEFED ep. 76
+      record_date: '2026-02-20'
+      record_reference: https://www.youtube.com/watch?v=idBryc0eWww
+      content_hash: sha256:73be106d406f6d35a063a894e8384e7da0918eb8597d2107a9e3653becca2bdc
+      friendly_name: null
+  - claim_id: f8e73a1d-f545-4932-8555-b10d5659867b
+    claim_hash: 570ce2fc20742525c019ecfd2be29214a1195c9971002fad287f8aa992ed57ed
+    content: Phil McGraw considers the attempts to discredit David Grusch part of a psychological operation.
+    original_excerpt: And we've seen it and it's part of the PSYOP that goes into all of this, sadly.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: b26a5e2e-9cb8-484e-92f8-d332245917b5
+      title: Phil McGraw
+    provenance_chain:
+      origin_kind: speaker
+      origin: Phil McGraw
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 93fe290b-199f-418a-a3fe-715b41745a4c
+        title: Psychological operations (PSYOP)
+        slug: psychological-operations-psyop
+      - node_id: b26a5e2e-9cb8-484e-92f8-d332245917b5
+        title: Phil McGraw
+        slug: phil-mcgraw
+      - node_id: d4241f5a-1063-4970-ba02-5a391c02d96d
+        title: David Charles Grusch
+        slug: david-charles-grusch
+    date: null
+    date_end: null
+    location_in_record: 00:20:51.6-00:20:59.2
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: eb21cb34-eec1-462d-9127-2d5e367cdfb9
+      record_title: 'David Grusch: The Whistleblower Who Told Congress We''re Not Alone'
+      record_date: '2026-08-13'
+      record_reference: https://www.youtube.com/watch?v=LBXmqvFs0Ec
+      content_hash: sha256:c685d061d160da6ae664b97e8b033d8d36090ea76d13c45792556dae22ae3344
+      friendly_name: null

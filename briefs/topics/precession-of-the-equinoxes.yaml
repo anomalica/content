@@ -1,0 +1,415 @@
+schema: anomalica/brief/1
+brief_hash: d4b21adbd961f03deffb0cd0716e23c9118aa03cef043d6cbde97e9427be33e0
+page:
+  kind: entity
+  node_id: 01879d5e-4a17-48e2-a801-7bea624f603b
+  node_type: topic
+  title: Precession of the equinoxes
+  slug: precession-of-the-equinoxes
+  claim_count: 9
+  claim_count_total: 9
+generated:
+  graph_version: '2026-09-01T10:10:49.863545+00:00'
+size:
+  claims: 9
+  tokens_estimated: 2526
+  sized_against: 1050000
+publication:
+  status: published
+  note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
+    transcripts are gated elsewhere.
+belonging:
+  verified: 0
+  suspect_excluded: 0
+  unreviewed: 9
+related_nodes:
+  - node_id: 09224572-7980-4e4d-a433-e05c3a40a77e
+    title: Atlantis
+    node_type: topic
+    slug: atlantis
+    shared_claims: 4
+  - node_id: c587d170-065c-40c8-89b0-bdf0ba8e95b5
+    title: Hercules
+    node_type: person
+    slug: hercules
+    shared_claims: 2
+  - node_id: a264f1fe-2e5e-42d4-b688-60d4289a3a98
+    title: Solon
+    node_type: person
+    slug: solon
+    shared_claims: 2
+  - node_id: 064e30a2-3d9f-4036-ada6-ce7df15f66d1
+    title: Vega (star)
+    node_type: object
+    slug: vega-star
+    shared_claims: 2
+  - node_id: a64c32cb-291d-4a81-8663-e91dfbb7b803
+    title: Astrotheology
+    node_type: topic
+    slug: astrotheology
+    shared_claims: 1
+  - node_id: 7a34e267-ee5c-4172-9230-fb920cddde2a
+    title: Cyclical destruction by fire and water
+    node_type: topic
+    slug: cyclical-destruction-by-fire-and-water
+    shared_claims: 1
+  - node_id: 91228f6b-79b5-483a-a62b-c98f5eed12ab
+    title: Jason Quitt
+    node_type: person
+    slug: jason-quitt
+    shared_claims: 1
+  - node_id: 74e5ae26-0bf5-4be4-936c-83910bbdeb0d
+    title: Thuban (star)
+    node_type: object
+    slug: thuban-star
+    shared_claims: 1
+  - node_id: bde7d0db-6607-4a24-9738-7ebad2cc191b
+    title: Western astrological calendar
+    node_type: topic
+    slug: western-astrological-calendar
+    shared_claims: 1
+claims:
+  - claim_id: c9ca640c-84c5-4b36-97c8-b89e0bdef10a
+    claim_hash: ba04db7f8ce66a85b2e4a842e3041f95d9aa4b200a382793b21c36a2c27b5436
+    content: The Western astrological calendar is divided into 12 periods of approximately 2,000 years each, keyed to the
+      precession of the equinoxes.
+    original_excerpt: This calendar is divided into 12 periods, each of which covers about 2,000 years and is keyed to the
+      precession of the equinoxes, which is a slow shift in Earth's rotational axis.
+    claim_type: observation
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 01879d5e-4a17-48e2-a801-7bea624f603b
+        title: Precession of the equinoxes
+        slug: precession-of-the-equinoxes
+      - node_id: bde7d0db-6607-4a24-9738-7ebad2cc191b
+        title: Western astrological calendar
+        slug: western-astrological-calendar
+    date: null
+    date_end: null
+    location_in_record: ch27:10002-10176
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 759e8d7b-a820-4e00-bdc3-9aebf9e4b1b1
+      record_title: The Fourth Mind
+      record_date: '2025-01-15'
+      record_reference: null
+      content_hash: sha256:524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008e17102e7
+      friendly_name: 2025-01-15-ebook-the-fourth-mind
+  - claim_id: 447b755c-6ecf-496e-8913-65980f0f8cab
+    claim_hash: f7bbae941da59c48ac28446e3b06b0b70ce21ab92e2664cf03c9b699eb0d2d64
+    content: The precession of the equinoxes causes the north star to change over time as Earth's rotational pole circles
+      a central point.
+    original_excerpt: This shift causes the north star to change as the pole circles a central point.
+    claim_type: observation
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 01879d5e-4a17-48e2-a801-7bea624f603b
+        title: Precession of the equinoxes
+        slug: precession-of-the-equinoxes
+    date: null
+    date_end: null
+    location_in_record: ch27:10182-10255
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 759e8d7b-a820-4e00-bdc3-9aebf9e4b1b1
+      record_title: The Fourth Mind
+      record_date: '2025-01-15'
+      record_reference: null
+      content_hash: sha256:524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008e17102e7
+      friendly_name: 2025-01-15-ebook-the-fourth-mind
+  - claim_id: ccc07b57-c8c8-4fb6-aea9-434859555cfb
+    claim_hash: 4ba4fe1c1a30a0d67771ed751ef8d1be94a9523f6bfb613467de3b7907f77b6b
+    content: At 9600 BC the north celestial pole lay directly between the legs of the constellation Hercules in the northern
+      sky.
+    original_excerpt: If you look up in the sky, at the northern sky at that time, the North Pole is directly in between the
+      legs of Hercules in the sky.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 91228f6b-79b5-483a-a62b-c98f5eed12ab
+      title: Jason Quitt
+    provenance_chain:
+      origin_kind: speaker
+      origin: Jason Quitt
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 01879d5e-4a17-48e2-a801-7bea624f603b
+        title: Precession of the equinoxes
+        slug: precession-of-the-equinoxes
+      - node_id: 09224572-7980-4e4d-a433-e05c3a40a77e
+        title: Atlantis
+        slug: atlantis
+      - node_id: c587d170-065c-40c8-89b0-bdf0ba8e95b5
+        title: Hercules
+        slug: hercules
+    date: null
+    date_end: null
+    location_in_record: 01:41:35.4-01:41:44.8
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: b0f8ff5d-db19-45e1-abaa-391d63833bec
+      record_title: Researcher Describes Strange Encounters With Other Beings - Jason Quitt | Ep. 98
+      record_date: '2026-08-07'
+      record_reference: https://www.youtube.com/watch?v=JsPE3o-PJms
+      content_hash: sha256:474630c81ceb39029e473c41a62306341a264aa94e100930de6ceb845884cf57
+      friendly_name: null
+  - claim_id: 3ec139c8-c578-4722-b81c-cedbb12b37eb
+    claim_hash: 15d2ec6931ca898fdd097e87e41700e537932bac68112a89813962b62a968f06
+    content: At the height of Atlantis's power, around 12,000 BCE, the pole star was Vega, the brightest star in the northern
+      sky.
+    original_excerpt: The pole star is Vega in the north sky. And so Vega is the brightest star in the north sky. If you go
+      back 12,000 BCE
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 91228f6b-79b5-483a-a62b-c98f5eed12ab
+      title: Jason Quitt
+    provenance_chain:
+      origin_kind: speaker
+      origin: Jason Quitt
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 01879d5e-4a17-48e2-a801-7bea624f603b
+        title: Precession of the equinoxes
+        slug: precession-of-the-equinoxes
+      - node_id: 064e30a2-3d9f-4036-ada6-ce7df15f66d1
+        title: Vega (star)
+        slug: vega-star
+      - node_id: 09224572-7980-4e4d-a433-e05c3a40a77e
+        title: Atlantis
+        slug: atlantis
+    date: null
+    date_end: null
+    location_in_record: 01:42:07.1-01:42:16.2
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: b0f8ff5d-db19-45e1-abaa-391d63833bec
+      record_title: Researcher Describes Strange Encounters With Other Beings - Jason Quitt | Ep. 98
+      record_date: '2026-08-07'
+      record_reference: https://www.youtube.com/watch?v=JsPE3o-PJms
+      content_hash: sha256:474630c81ceb39029e473c41a62306341a264aa94e100930de6ceb845884cf57
+      friendly_name: null
+  - claim_id: ef8a5652-c39d-4211-a536-7524b7579fcb
+    claim_hash: 72725b642a903bd8c8e018ce34b34ce019654e9b15ae3a5cc52c3729757ea475
+    content: The precession of the north star runs on a cycle of 25,000 to 26,000 years.
+    original_excerpt: the procession of, of the North star over the 25,000, 26,000 year cycle
+    claim_type: measurement
+    attestation: first_hand
+    speaker:
+      node_id: 91228f6b-79b5-483a-a62b-c98f5eed12ab
+      title: Jason Quitt
+    provenance_chain:
+      origin_kind: speaker
+      origin: Jason Quitt
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 01879d5e-4a17-48e2-a801-7bea624f603b
+        title: Precession of the equinoxes
+        slug: precession-of-the-equinoxes
+    date: null
+    date_end: null
+    location_in_record: 01:42:38.5-01:42:46.1
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: b0f8ff5d-db19-45e1-abaa-391d63833bec
+      record_title: Researcher Describes Strange Encounters With Other Beings - Jason Quitt | Ep. 98
+      record_date: '2026-08-07'
+      record_reference: https://www.youtube.com/watch?v=JsPE3o-PJms
+      content_hash: sha256:474630c81ceb39029e473c41a62306341a264aa94e100930de6ceb845884cf57
+      friendly_name: null
+  - claim_id: eb5c643f-bc77-4187-94ec-2433763ad3c1
+    claim_hash: 1a2d803ebcc8fa3766126f6241dfbc57fd47ccd2e729980f5b139532290f3b03
+    content: Jason Quitt links the cataclysm in the Atlantis story to the loss of the north star and a resulting loss of cosmic
+      navigational understanding.
+    original_excerpt: now the pole star is in between Hercules and you have this cataclysm because there is no north star
+      anymore... So you have this loss of the world, loss of cosmic navigational understanding.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 91228f6b-79b5-483a-a62b-c98f5eed12ab
+      title: Jason Quitt
+    provenance_chain:
+      origin_kind: speaker
+      origin: Jason Quitt
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 01879d5e-4a17-48e2-a801-7bea624f603b
+        title: Precession of the equinoxes
+        slug: precession-of-the-equinoxes
+      - node_id: 09224572-7980-4e4d-a433-e05c3a40a77e
+        title: Atlantis
+        slug: atlantis
+      - node_id: 91228f6b-79b5-483a-a62b-c98f5eed12ab
+        title: Jason Quitt
+        slug: jason-quitt
+      - node_id: c587d170-065c-40c8-89b0-bdf0ba8e95b5
+        title: Hercules
+        slug: hercules
+    date: null
+    date_end: null
+    location_in_record: 01:43:06.1-01:43:16.8
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: b0f8ff5d-db19-45e1-abaa-391d63833bec
+      record_title: Researcher Describes Strange Encounters With Other Beings - Jason Quitt | Ep. 98
+      record_date: '2026-08-07'
+      record_reference: https://www.youtube.com/watch?v=JsPE3o-PJms
+      content_hash: sha256:474630c81ceb39029e473c41a62306341a264aa94e100930de6ceb845884cf57
+      friendly_name: null
+  - claim_id: d83345ff-8d77-4da7-943f-03280c397071
+    claim_hash: 428ad432ed64b4de3640a574d39759a77458e301868361678ae012cf506712a6
+    content: After Vega ceased to be the pole star there was no north star for about 6,000 years until Thuban became the pole
+      star.
+    original_excerpt: There's no north star for about 6,000 years until you hit Thuban.
+    claim_type: measurement
+    attestation: first_hand
+    speaker:
+      node_id: 91228f6b-79b5-483a-a62b-c98f5eed12ab
+      title: Jason Quitt
+    provenance_chain:
+      origin_kind: speaker
+      origin: Jason Quitt
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 01879d5e-4a17-48e2-a801-7bea624f603b
+        title: Precession of the equinoxes
+        slug: precession-of-the-equinoxes
+      - node_id: 064e30a2-3d9f-4036-ada6-ce7df15f66d1
+        title: Vega (star)
+        slug: vega-star
+      - node_id: 74e5ae26-0bf5-4be4-936c-83910bbdeb0d
+        title: Thuban (star)
+        slug: thuban-star
+    date: null
+    date_end: null
+    location_in_record: 01:43:17.5-01:43:20.6
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: b0f8ff5d-db19-45e1-abaa-391d63833bec
+      record_title: Researcher Describes Strange Encounters With Other Beings - Jason Quitt | Ep. 98
+      record_date: '2026-08-07'
+      record_reference: https://www.youtube.com/watch?v=JsPE3o-PJms
+      content_hash: sha256:474630c81ceb39029e473c41a62306341a264aa94e100930de6ceb845884cf57
+      friendly_name: null
+  - claim_id: a9a8ebc5-e578-4564-b31b-ee1fdb2862e0
+    claim_hash: 3dfe727d6791764fca451517408072dce88e61cc8bc4e1e498bb34bb9d6b21ee
+    content: Immediately before relating the Atlantis story, the Egyptian priest tells Solon that the account has the form
+      of a myth but really means the declination of the stars of the heavens over long periods of time.
+    original_excerpt: the priest also says, you know, this story has a form of a myth, but what it really means is the declination
+      of the stars of the heavens. over long periods of time.
+    claim_type: testimony
+    attestation: second_hand
+    speaker:
+      node_id: 91228f6b-79b5-483a-a62b-c98f5eed12ab
+      title: Jason Quitt
+    provenance_chain:
+      origin_kind: document
+      origin: Plato's Atlantis account
+      relay:
+        - Jason Quitt's reading
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 01879d5e-4a17-48e2-a801-7bea624f603b
+        title: Precession of the equinoxes
+        slug: precession-of-the-equinoxes
+      - node_id: 09224572-7980-4e4d-a433-e05c3a40a77e
+        title: Atlantis
+        slug: atlantis
+      - node_id: a264f1fe-2e5e-42d4-b688-60d4289a3a98
+        title: Solon
+        slug: solon
+      - node_id: a64c32cb-291d-4a81-8663-e91dfbb7b803
+        title: Astrotheology
+        slug: astrotheology
+    date: null
+    date_end: null
+    location_in_record: 01:48:55.0-01:49:05.8
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: b0f8ff5d-db19-45e1-abaa-391d63833bec
+      record_title: Researcher Describes Strange Encounters With Other Beings - Jason Quitt | Ep. 98
+      record_date: '2026-08-07'
+      record_reference: https://www.youtube.com/watch?v=JsPE3o-PJms
+      content_hash: sha256:474630c81ceb39029e473c41a62306341a264aa94e100930de6ceb845884cf57
+      friendly_name: null
+  - claim_id: eb920f32-300d-48e7-afe7-081a67059638
+    claim_hash: 46476230099fb7ab632aa43e5ec3262257be1f34b9f498eef15cd7a391e92f86
+    content: Jason Quitt considers that every civilisation comes to its fall, followed by a time of recalibration and then
+      a rise again, matching the long cycles of the heavens described by the Egyptian priest to Solon.
+    original_excerpt: Every civilization will come to its fall. but then there's this time of recalibration and then there's
+      this time where the society rises again and it's like a new world and it matches these cycles
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 91228f6b-79b5-483a-a62b-c98f5eed12ab
+      title: Jason Quitt
+    provenance_chain:
+      origin_kind: speaker
+      origin: Jason Quitt
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 01879d5e-4a17-48e2-a801-7bea624f603b
+        title: Precession of the equinoxes
+        slug: precession-of-the-equinoxes
+      - node_id: 7a34e267-ee5c-4172-9230-fb920cddde2a
+        title: Cyclical destruction by fire and water
+        slug: cyclical-destruction-by-fire-and-water
+      - node_id: a264f1fe-2e5e-42d4-b688-60d4289a3a98
+        title: Solon
+        slug: solon
+    date: null
+    date_end: null
+    location_in_record: 01:51:58.5-01:52:12.1
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: b0f8ff5d-db19-45e1-abaa-391d63833bec
+      record_title: Researcher Describes Strange Encounters With Other Beings - Jason Quitt | Ep. 98
+      record_date: '2026-08-07'
+      record_reference: https://www.youtube.com/watch?v=JsPE3o-PJms
+      content_hash: sha256:474630c81ceb39029e473c41a62306341a264aa94e100930de6ceb845884cf57
+      friendly_name: null

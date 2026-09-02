@@ -1,0 +1,2889 @@
+schema: anomalica/brief/1
+brief_hash: c6ab718655c7416d749c59e845dfb689aa15af77f180c1228c6fd20c87f33ac4
+page:
+  kind: entity
+  node_id: 3a865991-eaad-4855-8980-b28dfb98691a
+  node_type: person
+  title: James Lacatski
+  slug: james-lacatski
+  claim_count: 67
+  claim_count_total: 67
+generated:
+  graph_version: '2026-09-01T10:10:49.863545+00:00'
+size:
+  claims: 67
+  tokens_estimated: 20416
+  sized_against: 1050000
+publication:
+  status: published
+  note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
+    transcripts are gated elsewhere.
+belonging:
+  verified: 0
+  suspect_excluded: 0
+  unreviewed: 67
+related_nodes:
+  - node_id: cc6d8585-d896-4fc3-b3a2-28d9a7d153ab
+    title: Advanced Aerospace Weapon System Applications Program (AAWSAP)
+    node_type: project
+    slug: advanced-aerospace-weapon-system-applications-program-aawsap
+    shared_claims: 24
+  - node_id: 0d4dfba6-a53b-4f23-a2ad-e4c9bea44076
+    title: Robert Bigelow
+    node_type: person
+    slug: robert-bigelow
+    shared_claims: 14
+  - node_id: 382b6d6c-0182-4121-8bfc-525602d667b1
+    title: Defense Intelligence Agency (DIA)
+    node_type: organisation
+    slug: defense-intelligence-agency-dia
+    shared_claims: 12
+  - node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+    title: Luis Elizondo
+    node_type: person
+    slug: luis-elizondo
+    shared_claims: 12
+  - node_id: d532997b-8a3d-4d47-9fd3-17e736310f75
+    title: USA, Utah, Skinwalker Ranch
+    node_type: place
+    slug: utah-skinwalker-ranch-usa
+    shared_claims: 11
+  - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
+    title: Unidentified Flying Object (UFO)
+    node_type: topic
+    slug: unidentified-flying-object-ufo
+    shared_claims: 8
+  - node_id: c437bffd-cc66-421a-80a6-a7e106176e0a
+    title: James Lacatski's Skinwalker Ranch kitchen sighting 2008
+    node_type: event
+    slug: james-lacatskis-skinwalker-ranch-kitchen-sighting-2008
+    shared_claims: 7
+  - node_id: 51d882d7-ae4b-4a91-bc4f-a2b900fb1196
+    title: Jay Stratton
+    node_type: person
+    slug: jay-stratton
+    shared_claims: 4
+  - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
+    title: Unidentified Anomalous Phenomena (UAP)
+    node_type: topic
+    slug: unidentified-anomalous-phenomena-uap
+    shared_claims: 4
+  - node_id: e19a826c-8076-4fa5-8ec5-e24a00b0d4b9
+    title: Bigelow Aerospace Advanced Space Studies, LLC
+    node_type: organisation
+    slug: llc-bigelow-aerospace-advanced-space-studies
+    shared_claims: 3
+  - node_id: c91974f0-961f-4db8-b7b0-22d4b846e5d5
+    title: Harry Reid
+    node_type: person
+    slug: harry-reid
+    shared_claims: 3
+  - node_id: 6c1618c8-50db-42c9-860e-6d736ef280bf
+    title: Advanced Aerospace Threat Identification Program (AATIP)
+    node_type: project
+    slug: advanced-aerospace-threat-identification-program-aatip
+    shared_claims: 2
+  - node_id: e498e3b9-87de-44e8-877a-46b8acc68ab1
+    title: All-Domain Anomaly Resolution Office report on UFOs 2023-01-12
+    node_type: document
+    slug: all-domain-anomaly-resolution-office-report-on-ufos-2023-01-12
+    shared_claims: 2
+  - node_id: eb990ad2-d234-45c3-a47f-ce12bc2da79c
+    title: Michael Higgins
+    node_type: person
+    slug: michael-higgins
+    shared_claims: 2
+  - node_id: 403edb72-ebc4-4b89-8746-4cd19e089691
+    title: The Pentagon
+    node_type: organisation
+    slug: the-pentagon
+    shared_claims: 2
+  - node_id: bc4340b4-7aeb-43a4-b47a-53427fc6d7db
+    title: Tubular metal object seen at Skinwalker Ranch
+    node_type: object
+    slug: tubular-metal-object-seen-at-skinwalker-ranch
+    shared_claims: 2
+  - node_id: 99f08514-5471-4eaf-bce3-46c474a8d304
+    title: United States Department of Defense (DoD)
+    node_type: organisation
+    slug: united-states-department-of-defense-dod
+    shared_claims: 2
+  - node_id: fa41c29c-44a3-4cea-873a-33b2ec1ec2db
+    title: 'Bigelow Podcast Episode 2: The Evolution of Advanced Aerospace Weapon System Applications Program (AAWSAP)'
+    node_type: document
+    slug: bigelow-podcast-episode-2-the-evolution-of-advanced-aerospace-weapon-system-applications-program-aawsap
+    shared_claims: 1
+  - node_id: 9e257cce-d8c0-4a82-8dd9-e86661742d51
+    title: Colm Kelleher
+    node_type: person
+    slug: colm-kelleher
+    shared_claims: 1
+  - node_id: 164b4ec2-1d96-4c98-a5e2-5a7d77568b7c
+    title: Defense Office of Prepublication and Security Review
+    node_type: organisation
+    slug: defense-office-of-prepublication-and-security-review
+    shared_claims: 1
+  - node_id: 76e614a1-ecfa-46a9-8963-d1f4befa2133
+    title: Devon Woods
+    node_type: person
+    slug: devon-woods
+    shared_claims: 1
+  - node_id: 6dcdfe60-bc2f-4be2-a041-9957a82f371e
+    title: Harold E. Puthoff
+    node_type: person
+    slug: harold-e-puthoff
+    shared_claims: 1
+  - node_id: ad470259-efd8-400b-adb0-8bcfcd89516e
+    title: Hunt for the Skinwalker
+    node_type: document
+    slug: hunt-for-the-skinwalker
+    shared_claims: 1
+  - node_id: 3f5cbb67-d7db-4b79-bc7c-375bcaea33f5
+    title: Italy, Veneto, Verona
+    node_type: place
+    slug: veneto-verona-italy
+    shared_claims: 1
+  - node_id: 1c8b4d30-0305-4694-8008-7eab18bc4996
+    title: Jim Semivan
+    node_type: person
+    slug: jim-semivan
+    shared_claims: 1
+  - node_id: d047a520-092f-4fe5-935d-ef4eadd7c952
+    title: Legacy Program
+    node_type: project
+    slug: legacy-program
+    shared_claims: 1
+  - node_id: 9c74d864-957a-4654-a5b6-1249fe654ec7
+    title: Non-Human Intelligence
+    node_type: topic
+    slug: non-human-intelligence
+    shared_claims: 1
+  - node_id: c52fd2ac-fa87-43e8-8a8b-1bbd33ef6a28
+    title: Office of the Director of National Intelligence (ODNI)
+    node_type: organisation
+    slug: office-of-the-director-of-national-intelligence-odni
+    shared_claims: 1
+  - node_id: cca7de4c-13f1-4a10-a697-d901f5e87646
+    title: Office of the Director of National Intelligence Unidentified Aerial Phenomena (UAP) preliminary assessment release
+      2021-06-25
+    node_type: event
+    slug: office-of-the-director-of-national-intelligence-unidentified-aerial-phenomena-uap-preliminary-assessment-release-2021-06-25
+    shared_claims: 1
+  - node_id: 02b74577-f272-4ae7-8520-5fda4eacb5f2
+    title: Sean Kirkpatrick
+    node_type: person
+    slug: sean-kirkpatrick
+    shared_claims: 1
+claims:
+  - claim_id: 4b90f6eb-ae58-4d7e-81c4-41643e707245
+    claim_hash: 7854734efb09df2d0169c0f95f15b8b363e55634c174016fa494a3ab9c63dd00
+    content: When James Lacatski pressed for access to the exotic materials studied under the Advanced Aerospace Weapon System
+      Applications Program, he was met with harsh rebukes and the door was slammed in his face.
+    original_excerpt: When Dr. Lacatski began pressing the issue, seeking access to the exotic materials, he was met with
+      harsh rebukes. The door, in essence, was slammed in his face.
+    claim_type: hearsay
+    attestation: second_hand
+    speaker:
+      node_id: 6712e8fa-3b86-4982-a102-e2d38e0b29d6
+      title: George Knapp
+    provenance_chain:
+      origin_kind: named
+      origin: James Lacatski
+      relay:
+        - George Knapp
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 3a865991-eaad-4855-8980-b28dfb98691a
+        title: James Lacatski
+        slug: james-lacatski
+      - node_id: cc6d8585-d896-4fc3-b3a2-28d9a7d153ab
+        title: Advanced Aerospace Weapon System Applications Program (AAWSAP)
+        slug: advanced-aerospace-weapon-system-applications-program-aawsap
+    date: null
+    date_end: null
+    location_in_record: char:11856-12036
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: ac3e9de5-6c3a-444c-9e8d-5e10b81e4108
+      record_title: Statement to Congress
+      record_date: null
+      record_reference: http://docs.house.gov/meetings/GO/GO06/20230726/116282/HHRG-118-GO06-20230726-SD004.pdf
+      content_hash: sha256:4a716ca59d59506698f169478b0104cb63237c855c142e7be8c75a5fb6374eb2
+      friendly_name: undated-pdf-statement-to-congress
+  - claim_id: 15d09546-9c85-4e5c-be2a-7f4c20084c3e
+    claim_hash: 4d7ef1857b6dfccaa2c90111fc5c26bad1dd5118fb5a3dd907a6ea7807b07ae5
+    content: The Advanced Aerospace Weapon System Applications Program was initiated and managed for the Defense Intelligence
+      Agency by veteran intelligence analyst and rocket expert Dr. James Lacatski.
+    original_excerpt: The man who initiated and managed the program for DIA was a veteran intelligence analyst and rocket
+      expert named Dr. James Lacatski.
+    claim_type: administrative
+    attestation: first_hand
+    speaker:
+      node_id: 6712e8fa-3b86-4982-a102-e2d38e0b29d6
+      title: George Knapp
+    provenance_chain:
+      origin_kind: speaker
+      origin: George Knapp
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 382b6d6c-0182-4121-8bfc-525602d667b1
+        title: Defense Intelligence Agency (DIA)
+        slug: defense-intelligence-agency-dia
+      - node_id: 3a865991-eaad-4855-8980-b28dfb98691a
+        title: James Lacatski
+        slug: james-lacatski
+      - node_id: cc6d8585-d896-4fc3-b3a2-28d9a7d153ab
+        title: Advanced Aerospace Weapon System Applications Program (AAWSAP)
+        slug: advanced-aerospace-weapon-system-applications-program-aawsap
+    date: null
+    date_end: null
+    location_in_record: char:9837-9960
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: ac3e9de5-6c3a-444c-9e8d-5e10b81e4108
+      record_title: Statement to Congress
+      record_date: null
+      record_reference: http://docs.house.gov/meetings/GO/GO06/20230726/116282/HHRG-118-GO06-20230726-SD004.pdf
+      content_hash: sha256:4a716ca59d59506698f169478b0104cb63237c855c142e7be8c75a5fb6374eb2
+      friendly_name: undated-pdf-statement-to-congress
+  - claim_id: 37be4bef-43f5-47fb-b9ae-afcb0ac75a74
+    claim_hash: 308b0aec18884a102d6c4977528621eeb7b19ef6b5f1de1749e5efbad84a16fd
+    content: Around 2008, Senator Harry Reid received a letter from a senior US Defense Intelligence Agency scientist, likely
+      a physicist named James Lacatski although he was never publicly named, whose world view had been transformed by events
+      he witnessed at Skinwalker Ranch.
+    original_excerpt: In about 2008, one of the most powerful politicians in Washington DC, Democrat Senator Harry Reid, received
+      an intriguing letter written by a senior US Defence Intelligence Agency (DIA) scientist (likely a physicist named James
+      Lacatski, although he was never named), whose world view had been transformed by extraordinary events he witnessed at
+      Skinwalker Ranch.
+    claim_type: testimony
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: named
+      origin: Harry Reid
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 382b6d6c-0182-4121-8bfc-525602d667b1
+        title: Defense Intelligence Agency (DIA)
+        slug: defense-intelligence-agency-dia
+      - node_id: 3a865991-eaad-4855-8980-b28dfb98691a
+        title: James Lacatski
+        slug: james-lacatski
+      - node_id: a0931369-67de-42b5-a58c-e687698c9999
+        title: Skinwalker Ranch
+        slug: skinwalker-ranch
+      - node_id: c91974f0-961f-4db8-b7b0-22d4b846e5d5
+        title: Harry Reid
+        slug: harry-reid
+    date: '2008'
+    date_end: null
+    location_in_record: ch17:113-470
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: a0568dbf-c6aa-4c17-b076-5f5f53e59c27
+    claim_hash: 8905b847182ad0f9f19f1aeb5d264b62c7871be193d9edfaa24b7ca6248c154a
+    content: Jim Lacatski and his team pursued the investigation of anomalous phenomena at Skinwalker Ranch because the science
+      warranted further investigation and they could not rule out a link between the anomalous events and UAP.
+    original_excerpt: 'Jim and his team had gone down this path for the simplest reason imaginable: the science warranted
+      further investigation of these strange phenomena, and they could not yet rule out the possibility that these anomalous
+      events and UAP were inextricably linked'
+    claim_type: testimony
+    attestation: second_hand
+    speaker:
+      node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+      title: Luis Elizondo
+    provenance_chain:
+      origin_kind: named
+      origin: James Lacatski
+      relay:
+        - Lue Elizondo
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 3a865991-eaad-4855-8980-b28dfb98691a
+        title: James Lacatski
+        slug: james-lacatski
+      - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
+        title: Unidentified Anomalous Phenomena (UAP)
+        slug: unidentified-anomalous-phenomena-uap
+      - node_id: d532997b-8a3d-4d47-9fd3-17e736310f75
+        title: USA, Utah, Skinwalker Ranch
+        slug: utah-skinwalker-ranch-usa
+    date: null
+    date_end: null
+    location_in_record: ch12:2117-2368
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  - claim_id: 8deb1fc1-e9a8-429c-8ce4-36fe34463cf9
+    claim_hash: e49ba89790595db4be3b41045d15683f66fbec889e59f4b0888fa366b66e82f8
+    content: Jay Stratton and Jim Lacatski briefed Luis Elizondo on the Advanced Aerospace Weapons System Application Program
+      (AAWSAP)/Advanced Aerospace Threat Identification Program (AATIP) in a Sensitive Compartmented Information Facility
+      (SCIF).
+    original_excerpt: Jay and Jim began briefing me on the program in a SCIF
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+      title: Luis Elizondo
+    provenance_chain:
+      origin_kind: speaker
+      origin: Lue Elizondo
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 3a865991-eaad-4855-8980-b28dfb98691a
+        title: James Lacatski
+        slug: james-lacatski
+      - node_id: 51d882d7-ae4b-4a91-bc4f-a2b900fb1196
+        title: Jay Stratton
+        slug: jay-stratton
+      - node_id: 6c1618c8-50db-42c9-860e-6d736ef280bf
+        title: Advanced Aerospace Threat Identification Program (AATIP)
+        slug: advanced-aerospace-threat-identification-program-aatip
+      - node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+        title: Luis Elizondo
+        slug: luis-elizondo
+      - node_id: 9bb3e171-2197-411c-ab51-c4ea9dd2048f
+        title: Sensitive Compartmented Information Facility (SCIF)
+        slug: sensitive-compartmented-information-facility-scif
+      - node_id: cc6d8585-d896-4fc3-b3a2-28d9a7d153ab
+        title: Advanced Aerospace Weapon System Applications Program (AAWSAP)
+        slug: advanced-aerospace-weapon-system-applications-program-aawsap
+    date: null
+    date_end: null
+    location_in_record: ch12:245-295
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  - claim_id: cda9554e-03c7-4ae5-8e4c-d5fb86ae12d7
+    claim_hash: 2dda84da4aecf1de29387d092591e0e5e3bf544934fef836c630d0e7dd4b6005
+    content: At Jim Lacatski's suggestion, Luis Elizondo used his government computer to search terms including "unknown technology",
+      "unusual performance", "anomaly", "unidentified", "UFO", and "UAP".
+    original_excerpt: At Jim’s suggestion, I used my government computer to search terms including *unknown technology*, *unusual
+      performance*, *anomaly*, *unidentified*, *UFO*, *UAP*.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+      title: Luis Elizondo
+    provenance_chain:
+      origin_kind: speaker
+      origin: Lue Elizondo
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 3a865991-eaad-4855-8980-b28dfb98691a
+        title: James Lacatski
+        slug: james-lacatski
+      - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
+        title: Unidentified Anomalous Phenomena (UAP)
+        slug: unidentified-anomalous-phenomena-uap
+      - node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+        title: Luis Elizondo
+        slug: luis-elizondo
+      - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
+        title: Unidentified Flying Object (UFO)
+        slug: unidentified-flying-object-ufo
+    date: null
+    date_end: null
+    location_in_record: ch12:2635-2792
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  - claim_id: eeca7ef6-97ca-42ac-a12f-bedc39718ed6
+    claim_hash: 7babade23f3f02b668ab0e2c5732c3849e132611b45a98d82a7cfad229560a19
+    content: James Lacatski and his team ran the United States' official program on Unidentified Aerial Phenomena (UAP), while
+      the Legacy Program was working at cross-purposes to that effort.
+    original_excerpt: Theoretically, Jim Lacatski and his team ran the US’s official program on UAP, but at the same time
+      the Legacy Program was working at cross-purposes to ours.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+      title: Luis Elizondo
+    provenance_chain:
+      origin_kind: speaker
+      origin: Lue Elizondo
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 3a865991-eaad-4855-8980-b28dfb98691a
+        title: James Lacatski
+        slug: james-lacatski
+      - node_id: d047a520-092f-4fe5-935d-ef4eadd7c952
+        title: Legacy Program
+        slug: legacy-program
+    date: null
+    date_end: null
+    location_in_record: ch12:45975-46127
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  - claim_id: c9226745-372b-4dfa-9f3a-bb912d541b9d
+    claim_hash: 015bd4bdc6061e9387bdbeb537bb21bcf324a4e5dfe0dd507030e373a8c3c66a
+    content: As James Lacatski and his contractors circulated Advanced Aerospace Weapons System Application Program (AAWSAP)
+      executive summaries, the email responses received via secure internal servers were unfailingly positive.
+    original_excerpt: As Jim Lacatski and his contractors circulated executive summaries, the email responses they received
+      via secure internal servers were unfailingly positive.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+      title: Luis Elizondo
+    provenance_chain:
+      origin_kind: speaker
+      origin: Lue Elizondo
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 3a865991-eaad-4855-8980-b28dfb98691a
+        title: James Lacatski
+        slug: james-lacatski
+      - node_id: cc6d8585-d896-4fc3-b3a2-28d9a7d153ab
+        title: Advanced Aerospace Weapon System Applications Program (AAWSAP)
+        slug: advanced-aerospace-weapon-system-applications-program-aawsap
+    date: null
+    date_end: null
+    location_in_record: ch12:47290-47437
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  - claim_id: 61ba409a-3b22-47a6-9f3a-06d01a57c364
+    claim_hash: 71ce0df9a23b3e265afcd6cfaf754a6dbfbc902808efe25a65bb00ece5338408
+    content: Within weeks of the Defense Intelligence Agency (DIA) leadership transition, James Lacatski began spending most
+      of his time defending his efforts instead of conducting research, as senior DIA leadership actively tried to kill the
+      Advanced Aerospace Weapons System Application Program (AAWSAP).
+    original_excerpt: Within a matter of weeks of the transition, Lacatski began spending most of his time defending his efforts
+      instead of conducting research. The powers that be in the ivory tower now actively tried to kill the program.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+      title: Luis Elizondo
+    provenance_chain:
+      origin_kind: speaker
+      origin: Lue Elizondo
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 382b6d6c-0182-4121-8bfc-525602d667b1
+        title: Defense Intelligence Agency (DIA)
+        slug: defense-intelligence-agency-dia
+      - node_id: 3a865991-eaad-4855-8980-b28dfb98691a
+        title: James Lacatski
+        slug: james-lacatski
+      - node_id: cc6d8585-d896-4fc3-b3a2-28d9a7d153ab
+        title: Advanced Aerospace Weapon System Applications Program (AAWSAP)
+        slug: advanced-aerospace-weapon-system-applications-program-aawsap
+    date: null
+    date_end: null
+    location_in_record: ch12:47919-48127
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  - claim_id: 6740fcd2-1c1b-45e6-81bc-ec60872ad141
+    claim_hash: 1c2aa3f05d7a69304b1b872a6283fe6af6225eda00bf0bb5cd4cc018535bb412
+    content: If any glimmer of the truth about James Lacatski's work reached a broader report destined for other powerful
+      readers, Defense Intelligence Agency (DIA) bureaucrats killed it, filed it away, or ignored it.
+    original_excerpt: If the slightest glimmer of the truth of Jim’s work got released in a broader report destined for the
+      eyes of others in power, it got kicked upstairs, where DIA’s bureaucrats killed it, filed it away, or ignored it.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+      title: Luis Elizondo
+    provenance_chain:
+      origin_kind: speaker
+      origin: Lue Elizondo
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 382b6d6c-0182-4121-8bfc-525602d667b1
+        title: Defense Intelligence Agency (DIA)
+        slug: defense-intelligence-agency-dia
+      - node_id: 3a865991-eaad-4855-8980-b28dfb98691a
+        title: James Lacatski
+        slug: james-lacatski
+    date: null
+    date_end: null
+    location_in_record: ch12:48136-48348
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  - claim_id: e9588082-7ac7-41d6-9f8d-f4474e721849
+    claim_hash: 99696233baff26bc29a3bc49ce6f3bd969dbdfdc942f62f2d0e7f5c770732581
+    content: Lue Elizondo believed that, as the new member of the Advanced Aerospace Weapons System Application Program (AAWSAP)/Advanced
+      Aerospace Threat Identification Program (AATIP) team, the powers that be had targeted James Lacatski and AAWSAP/AATIP
+      for elimination.
+    original_excerpt: As the new kid, I was certainly not going to tell Jim how to do his job, but I worried the powers that
+      be had bull’s-eyes fixed on Jim and AAWSAP/AATIP.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+      title: Luis Elizondo
+    provenance_chain:
+      origin_kind: speaker
+      origin: Lue Elizondo
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 3a865991-eaad-4855-8980-b28dfb98691a
+        title: James Lacatski
+        slug: james-lacatski
+      - node_id: 6c1618c8-50db-42c9-860e-6d736ef280bf
+        title: Advanced Aerospace Threat Identification Program (AATIP)
+        slug: advanced-aerospace-threat-identification-program-aatip
+      - node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+        title: Luis Elizondo
+        slug: luis-elizondo
+      - node_id: cc6d8585-d896-4fc3-b3a2-28d9a7d153ab
+        title: Advanced Aerospace Weapon System Applications Program (AAWSAP)
+        slug: advanced-aerospace-weapon-system-applications-program-aawsap
+    date: null
+    date_end: null
+    location_in_record: ch12:51505-51651
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  - claim_id: 9bbb30f9-f9ce-4afe-9a94-41baa3583ee3
+    claim_hash: 4b81659971ade629401a472a03710d67bc228f2c8cc4b7ed5728178c9c149352
+    content: James Lacatski conceived a chart placing the word God at the top, Angels in the middle, and Humans at the bottom.
+    original_excerpt: One day I arrived at our group office to find Jim and a couple of the others kicking around ideas for
+      a chart Jim had conceived. At the top he'd typed the word God. At the bottom was Humans. In the middle was Angels.
+    claim_type: observation
+    attestation: first_hand
+    speaker:
+      node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+      title: Luis Elizondo
+    provenance_chain:
+      origin_kind: speaker
+      origin: Lue Elizondo
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 3a865991-eaad-4855-8980-b28dfb98691a
+        title: James Lacatski
+        slug: james-lacatski
+      - node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+        title: Luis Elizondo
+        slug: luis-elizondo
+    date: null
+    date_end: null
+    location_in_record: ch13:7013-7227
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  - claim_id: 4f71ecd8-66ed-40a6-ac31-1fa80cf8e5b5
+    claim_hash: 32b9f35ad9669604d80e501db77545e351fa807efbb0da3a801c05ed6c39fcb2
+    content: James Lacatski theorised that if the distance between humans and angels is large, an entire ecosystem of divine
+      and semidivine life forms could exist between purely spiritual angels and flesh-and-soul humans.
+    original_excerpt: Jim theorized that if the distance between humans and angels is large, was it not probable that other
+      beings existed between the purely spiritual angels and the flesh-and-soul creatures known as humans? Was it possible
+      an entire ecosystem of divine and semidivine life forms existed in an invisible ecosystem?
+    claim_type: opinion
+    attestation: second_hand
+    speaker:
+      node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+      title: Luis Elizondo
+    provenance_chain:
+      origin_kind: named
+      origin: James Lacatski
+      relay:
+        - Lue Elizondo
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 3a865991-eaad-4855-8980-b28dfb98691a
+        title: James Lacatski
+        slug: james-lacatski
+      - node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+        title: Luis Elizondo
+        slug: luis-elizondo
+    date: null
+    date_end: null
+    location_in_record: ch13:7692-7991
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  - claim_id: 427be487-8a34-4076-b078-fbb64dac409a
+    claim_hash: a45211ade70d5fc3deaf4c02f7fb27753dce57c0d113d40704bfd0bf8b2af3f8
+    content: Luis Elizondo called Michael Higgins and asked him to protect James Lacatski from internal persecution within
+      the Defense Intelligence Agency (DIA).
+    original_excerpt: '"Michael, I need you to protect one of our scientists. He is a good man who has done great things for
+      our country, and your agency is trying to persecute him. I need to call in a favor and make sure he is protected from
+      internal DIA forces."'
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+      title: Luis Elizondo
+    provenance_chain:
+      origin_kind: speaker
+      origin: Lue Elizondo
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 382b6d6c-0182-4121-8bfc-525602d667b1
+        title: Defense Intelligence Agency (DIA)
+        slug: defense-intelligence-agency-dia
+      - node_id: 3a865991-eaad-4855-8980-b28dfb98691a
+        title: James Lacatski
+        slug: james-lacatski
+      - node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+        title: Luis Elizondo
+        slug: luis-elizondo
+      - node_id: eb990ad2-d234-45c3-a47f-ce12bc2da79c
+        title: Michael Higgins
+        slug: michael-higgins
+    date: null
+    date_end: null
+    location_in_record: ch16:18562-18794
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  - claim_id: e6eabda3-15e9-47d4-b8be-543843522c6f
+    claim_hash: d7c5fda303e2110110f0983df4165d59aaee9c7dee2a55fb6a6484ccbf757196
+    content: Michael Higgins agreed to Luis Elizondo's request and said he would look into protecting James Lacatski.
+    original_excerpt: Michael simply replied, "You got it, Lue. I will look into it."
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: eb990ad2-d234-45c3-a47f-ce12bc2da79c
+      title: Michael Higgins
+    provenance_chain:
+      origin_kind: speaker
+      origin: Michael Higgins
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 3a865991-eaad-4855-8980-b28dfb98691a
+        title: James Lacatski
+        slug: james-lacatski
+      - node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+        title: Luis Elizondo
+        slug: luis-elizondo
+      - node_id: eb990ad2-d234-45c3-a47f-ce12bc2da79c
+        title: Michael Higgins
+        slug: michael-higgins
+    date: null
+    date_end: null
+    location_in_record: ch16:18804-18863
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  - claim_id: 7ef53de4-cc6d-4955-a5a2-c248f0b1292b
+    claim_hash: a8e84a5e211134e810df475bece1afcb414e9d480930c1c2262e2f2c7519b36f
+    content: Within thirty to forty-five days of Devon Woods's reassignment to the Defense Intelligence Agency (DIA), the
+      agency's attitude toward the Advanced Aerospace Weapons System Application Program (AAWSAP) work shifted, with higher-ups
+      who had previously welcomed the reports beginning to question why the work was being done.
+    original_excerpt: Within thirty to forty-five days of my mentor's reassignment to DIA, the atmosphere at the agency changed
+      with respect to our work. Woods brought in colleagues from the CIA. Suddenly the response to Lacatski's well-crafted
+      reports to higher-ups elicited a shift in tone.
+    claim_type: observation
+    attestation: first_hand
+    speaker:
+      node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+      title: Luis Elizondo
+    provenance_chain:
+      origin_kind: speaker
+      origin: Lue Elizondo
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 382b6d6c-0182-4121-8bfc-525602d667b1
+        title: Defense Intelligence Agency (DIA)
+        slug: defense-intelligence-agency-dia
+      - node_id: 3a865991-eaad-4855-8980-b28dfb98691a
+        title: James Lacatski
+        slug: james-lacatski
+      - node_id: 76e614a1-ecfa-46a9-8963-d1f4befa2133
+        title: Devon Woods
+        slug: devon-woods
+      - node_id: cc6d8585-d896-4fc3-b3a2-28d9a7d153ab
+        title: Advanced Aerospace Weapon System Applications Program (AAWSAP)
+        slug: advanced-aerospace-weapon-system-applications-program-aawsap
+    date: null
+    date_end: null
+    location_in_record: ch16:6497-6762
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  - claim_id: 290aa661-6ea6-4ae5-9083-56a28d770985
+    claim_hash: fd2b61848cd974c8a7056267cc4d8e7c45458fd499dd09e12781ed01f22f3da0
+    content: In the fall of 2009, Luis Elizondo and Jim Semivan attended a meeting with James Lacatski in which they discussed
+      whether the Advanced Aerospace Weapons System Application Program (AAWSAP) should drop investigations widely considered
+      paranormal and instead focus solely on UAP threats.
+    original_excerpt: I remember a meeting in the fall of 2009 that Jay and I attended with Jim, in which we openly talked
+      about the wisdom of Jim dropping the investigations AAWSAP had gotten involved with that many considered to be dealing
+      with the paranormal and instead focusing solely on UAP threats.
+    claim_type: observation
+    attestation: first_hand
+    speaker:
+      node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+      title: Luis Elizondo
+    provenance_chain:
+      origin_kind: speaker
+      origin: Lue Elizondo
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 1c8b4d30-0305-4694-8008-7eab18bc4996
+        title: Jim Semivan
+        slug: jim-semivan
+      - node_id: 3a865991-eaad-4855-8980-b28dfb98691a
+        title: James Lacatski
+        slug: james-lacatski
+      - node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+        title: Luis Elizondo
+        slug: luis-elizondo
+      - node_id: cc6d8585-d896-4fc3-b3a2-28d9a7d153ab
+        title: Advanced Aerospace Weapon System Applications Program (AAWSAP)
+        slug: advanced-aerospace-weapon-system-applications-program-aawsap
+    date: '2009'
+    date_end: null
+    location_in_record: ch16:7085-7360
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  - claim_id: 45bd5514-9829-4c69-b4b7-2de396af42f0
+    claim_hash: 63bb058f446519b0132c44e20eb44a5755573b7007452684d92279b470a1fe5e
+    content: James Lacatski's briefing intended for Defense Intelligence Agency (DIA) and Department of Defense (DoD) leadership
+      included the terms archangels, angels, demons, and spiritual realm.
+    original_excerpt: 'The only problem: the briefing Jim wanted to share with leadership included words like *archangels*,
+      *angels*, *demons*, and *spiritual realm*.'
+    claim_type: observation
+    attestation: first_hand
+    speaker:
+      node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+      title: Luis Elizondo
+    provenance_chain:
+      origin_kind: speaker
+      origin: Lue Elizondo
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 382b6d6c-0182-4121-8bfc-525602d667b1
+        title: Defense Intelligence Agency (DIA)
+        slug: defense-intelligence-agency-dia
+      - node_id: 3a865991-eaad-4855-8980-b28dfb98691a
+        title: James Lacatski
+        slug: james-lacatski
+      - node_id: 99f08514-5471-4eaf-bce3-46c474a8d304
+        title: United States Department of Defense (DoD)
+        slug: united-states-department-of-defense-dod
+    date: null
+    date_end: null
+    location_in_record: ch16:8057-8193
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  - claim_id: 5744799d-b335-4423-8644-9eb4feb6df36
+    claim_hash: 9f213bd7f2274781719264d9179b18b70591ad52f2f3929c150290ce5ebdad49
+    content: James Lacatski believed that research on Skinwalker Ranch was worth pursuing.
+    original_excerpt: Jim believed with all his core that research on Skinwalker Ranch was worth pursuing.
+    claim_type: opinion
+    attestation: second_hand
+    speaker:
+      node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+      title: Luis Elizondo
+    provenance_chain:
+      origin_kind: named
+      origin: James Lacatski
+      relay:
+        - relayed by Lue Elizondo
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 3a865991-eaad-4855-8980-b28dfb98691a
+        title: James Lacatski
+        slug: james-lacatski
+      - node_id: d532997b-8a3d-4d47-9fd3-17e736310f75
+        title: USA, Utah, Skinwalker Ranch
+        slug: utah-skinwalker-ranch-usa
+    date: null
+    date_end: null
+    location_in_record: ch16:8947-9022
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  - claim_id: 68ea8837-b63c-48b9-85a6-5f7962c06b2d
+    claim_hash: 219230a845c40bcc1e25e4e2ff23076d595f52a2db13aa5356f821459a79b680
+    content: In the spring of 2010, James Lacatski confided to Luis Elizondo that he was being pressured to stop all Advanced
+      Aerospace Weapons System Application Program (AAWSAP) efforts.
+    original_excerpt: Sometime after that, in the spring of 2010, Jim confided in me that he was being pressured to stop all
+      efforts.
+    claim_type: testimony
+    attestation: second_hand
+    speaker:
+      node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+      title: Luis Elizondo
+    provenance_chain:
+      origin_kind: named
+      origin: James Lacatski
+      relay:
+        - told to Lue Elizondo directly
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 3a865991-eaad-4855-8980-b28dfb98691a
+        title: James Lacatski
+        slug: james-lacatski
+      - node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+        title: Luis Elizondo
+        slug: luis-elizondo
+      - node_id: cc6d8585-d896-4fc3-b3a2-28d9a7d153ab
+        title: Advanced Aerospace Weapon System Applications Program (AAWSAP)
+        slug: advanced-aerospace-weapon-system-applications-program-aawsap
+    date: '2010'
+    date_end: null
+    location_in_record: ch16:9218-9321
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  - claim_id: 0c5d5c50-2081-4a41-bc67-2ba427229517
+    claim_hash: 7bbbed5347ba58f2c933bddd7f9359728616da120c17cdf42748212d46390f92
+    content: James Lacatski planned to meet with Deputy Secretary of Defense William J. Lynn in 2010 in an effort to allay
+      concerns about the Advanced Aerospace Weapons System Application Program (AAWSAP).
+    original_excerpt: He was about to take a meeting with Deputy Secretary of Defense William J. Lynn, hoping he could talk
+      some sense into the deputy secretary and allay any of DoD's fears or concerns.
+    claim_type: observation
+    attestation: first_hand
+    speaker:
+      node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+      title: Luis Elizondo
+    provenance_chain:
+      origin_kind: speaker
+      origin: Lue Elizondo
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 3a865991-eaad-4855-8980-b28dfb98691a
+        title: James Lacatski
+        slug: james-lacatski
+      - node_id: 6e99f1f2-9ffd-45da-ae58-bf6ca96c0e54
+        title: William J. Lynn
+        slug: william-j-lynn
+      - node_id: cc6d8585-d896-4fc3-b3a2-28d9a7d153ab
+        title: Advanced Aerospace Weapon System Applications Program (AAWSAP)
+        slug: advanced-aerospace-weapon-system-applications-program-aawsap
+    date: '2010'
+    date_end: null
+    location_in_record: ch16:9330-9501
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  - claim_id: 278b3d9e-3a51-460f-8d81-318ff6eb8947
+    claim_hash: 67102a1dbb8c512380cd5aa65c692976f2f2e9aca4ddd8e7dc35d4759022ad25
+    content: James Lacatski told Luis Elizondo that the Advanced Aerospace Weapons System Applications Program focused on
+      unusual phenomena and investigated unidentified aircraft that display beyond-next-generation technology and capabilities,
+      now called unidentified anomalous phenomena (UAP), previously referred to as UFOs.
+    original_excerpt: He explained that AAWSAP focused on "unusual phenomena" and investigated unidentified aircraft, specifically
+      ones that seem to display beyond-next-generation technology and capabilities—what we now call unidentified anomalous
+      phenomena, or UAP, or what were long referred to as UFOs.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 3a865991-eaad-4855-8980-b28dfb98691a
+      title: James Lacatski
+    provenance_chain:
+      origin_kind: speaker
+      origin: James Lacatski
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 3a865991-eaad-4855-8980-b28dfb98691a
+        title: James Lacatski
+        slug: james-lacatski
+      - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
+        title: Unidentified Anomalous Phenomena (UAP)
+        slug: unidentified-anomalous-phenomena-uap
+      - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
+        title: Unidentified Flying Object (UFO)
+        slug: unidentified-flying-object-ufo
+      - node_id: cc6d8585-d896-4fc3-b3a2-28d9a7d153ab
+        title: Advanced Aerospace Weapon System Applications Program (AAWSAP)
+        slug: advanced-aerospace-weapon-system-applications-program-aawsap
+    date: null
+    date_end: null
+    location_in_record: ch9:11397-11675
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  - claim_id: 75a591ed-babe-4bd3-8abc-cc61ccf0b459
+    claim_hash: 8acd487724dec282b9535d15347532ecf761ada9dcf5aa9049decae88d74f7bf
+    content: James Lacatski told Luis Elizondo that for decades civilians, military personnel, and law enforcement officers
+      had reported strange sightings across the world, supported by data from the same intelligence-gathering systems used
+      to protect national security.
+    original_excerpt: Jim explained that for decades, civilians, military personnel, and law enforcement officers had reported
+      strange sightings across the world, and there was actually data to support what they saw. Data collected by the same
+      intelligence-gathering systems used to keep our country safe from our adversaries, arguably the most advanced in the
+      world.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 3a865991-eaad-4855-8980-b28dfb98691a
+      title: James Lacatski
+    provenance_chain:
+      origin_kind: speaker
+      origin: James Lacatski
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 3a865991-eaad-4855-8980-b28dfb98691a
+        title: James Lacatski
+        slug: james-lacatski
+    date: null
+    date_end: null
+    location_in_record: ch9:11681-12020
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  - claim_id: 2da76bf1-2725-42f3-a88c-95234c1ff88d
+    claim_hash: 23f4513e473a6fbbf6c0954d24f8431e27c712e9414c94c1dcb797793d8ca878
+    content: James Lacatski told Luis Elizondo that the phenomena the program focused on did not conform to physics as currently
+      understood.
+    original_excerpt: Jim emphasized that what they focused on didn't conform to physics as we understood it.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 3a865991-eaad-4855-8980-b28dfb98691a
+      title: James Lacatski
+    provenance_chain:
+      origin_kind: speaker
+      origin: James Lacatski
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 3a865991-eaad-4855-8980-b28dfb98691a
+        title: James Lacatski
+        slug: james-lacatski
+      - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
+        title: Unidentified Anomalous Phenomena (UAP)
+        slug: unidentified-anomalous-phenomena-uap
+    date: null
+    date_end: null
+    location_in_record: ch9:12027-12111
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  - claim_id: 48783ee1-cc4d-4530-89be-e763adf1c0ee
+    claim_hash: 57fbc9eef02b54698dda958cc71a441827d12609f9ffbb1e929e3d1c1d7efb0a
+    content: The Advanced Aerospace Weapons System Applications Program was supported by then-Director of the Defense Intelligence
+      Agency Lieutenant General Michael D. Maples, and was funded through the efforts of Senator Harry Reid (Democrat, Nevada),
+      Senator Ted Stevens (Republican, Alaska), and Senator Daniel Inouye (Democrat, Hawaii).
+    original_excerpt: 'This time, Jim shared that the program enjoyed the support of the DIA''s then director, Lieutenant
+      General Michael D. Maples, and was funded through the efforts of a bipartisan group of senators: Senator Harry Reid
+      (D-NV), Senator Ted Stevens (R-AK), and Senator Daniel Inouye (D-HI).'
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 3a865991-eaad-4855-8980-b28dfb98691a
+      title: James Lacatski
+    provenance_chain:
+      origin_kind: speaker
+      origin: James Lacatski
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 382b6d6c-0182-4121-8bfc-525602d667b1
+        title: Defense Intelligence Agency (DIA)
+        slug: defense-intelligence-agency-dia
+      - node_id: 95677ec8-f94c-422a-933f-2b689ae917fa
+        title: Daniel K. Inouye
+        slug: daniel-k-inouye
+      - node_id: a932f36e-29f1-46fa-a39d-92bd5044f2f9
+        title: Ted Stevens
+        slug: ted-stevens
+      - node_id: c91974f0-961f-4db8-b7b0-22d4b846e5d5
+        title: Harry Reid
+        slug: harry-reid
+      - node_id: c95dc873-284b-438f-88d4-19bb5619fa48
+        title: Michael D. Maples
+        slug: michael-d-maples
+      - node_id: cc6d8585-d896-4fc3-b3a2-28d9a7d153ab
+        title: Advanced Aerospace Weapon System Applications Program (AAWSAP)
+        slug: advanced-aerospace-weapon-system-applications-program-aawsap
+    date: null
+    date_end: null
+    location_in_record: ch9:17304-17583
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  - claim_id: f174fbab-955b-4b77-b596-8019cad9c551
+    claim_hash: 9dc501751eea570414fa988d378d123674cf44d828770fe97eb5a91390af01a2
+    content: James Lacatski formally asked Luis Elizondo to handle counterintelligence and security for the Advanced Aerospace
+      Weapons System Applications Program.
+    original_excerpt: In this second meeting, Jim Lacatski formally asked me to handle counterintelligence and security for
+      the program.
+    claim_type: administrative
+    attestation: first_hand
+    speaker:
+      node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+      title: Luis Elizondo
+    provenance_chain:
+      origin_kind: speaker
+      origin: Lue Elizondo
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 3a865991-eaad-4855-8980-b28dfb98691a
+        title: James Lacatski
+        slug: james-lacatski
+      - node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+        title: Luis Elizondo
+        slug: luis-elizondo
+      - node_id: cc6d8585-d896-4fc3-b3a2-28d9a7d153ab
+        title: Advanced Aerospace Weapon System Applications Program (AAWSAP)
+        slug: advanced-aerospace-weapon-system-applications-program-aawsap
+    date: null
+    date_end: null
+    location_in_record: ch9:19326-19432
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  - claim_id: d6a0f326-48b7-4ced-913e-9365016bf9f8
+    claim_hash: 0f6f40b96aece81297efdb6349e1ef7bbc5c20a8a56a9e6bb586820fc536772c
+    content: Luis Elizondo met James Lacatski at a government office building on the tenth floor in Virginia.
+    original_excerpt: Finally, in a glass office space along the far wall, I met Dr. James Lacatski.
+    claim_type: observation
+    attestation: first_hand
+    speaker:
+      node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+      title: Luis Elizondo
+    provenance_chain:
+      origin_kind: speaker
+      origin: Lue Elizondo
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 3a865991-eaad-4855-8980-b28dfb98691a
+        title: James Lacatski
+        slug: james-lacatski
+      - node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+        title: Luis Elizondo
+        slug: luis-elizondo
+    date: null
+    date_end: null
+    location_in_record: ch9:9093-9162
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  - claim_id: bdea3455-8a7f-44ce-a43c-6dbad2ef45d5
+    claim_hash: c7359f02566089f4ef9deda14e634a94fb1199eae6eb096a66114703f7033382
+    content: James Lacatski holds a doctorate in engineering and was one of the government's top rocket scientists.
+    original_excerpt: He was a bona fide rocket scientist, with a doctorate in engineering, and looked every bit the part...
+      I later learned that he was one of our government's top rocket scientists.
+    claim_type: administrative
+    attestation: first_hand
+    speaker:
+      node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+      title: Luis Elizondo
+    provenance_chain:
+      origin_kind: speaker
+      origin: Lue Elizondo
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 3a865991-eaad-4855-8980-b28dfb98691a
+        title: James Lacatski
+        slug: james-lacatski
+    date: null
+    date_end: null
+    location_in_record: ch9:9173-9366
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  - claim_id: 1534e40a-6b44-41b8-bc7d-2c8ac38edbff
+    claim_hash: a0b52df26e2dc2eaff48bdcbfc3eaa93815473a55598155a86d80ce1383f932e
+    content: James Lacatski told Luis Elizondo that the Advanced Aerospace Weapons System Applications Program worked on sensitive
+      aviation technology and needed a senior counterintelligence agent to protect intel about the program from foreign adversaries.
+    original_excerpt: In a calm voice, he told me AAWSAP worked on sensitive aviation technology and needed a senior counterintelligence
+      agent to lock down all intel about the program from the usual antagonists, foreign adversaries.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 3a865991-eaad-4855-8980-b28dfb98691a
+      title: James Lacatski
+    provenance_chain:
+      origin_kind: speaker
+      origin: James Lacatski
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 3a865991-eaad-4855-8980-b28dfb98691a
+        title: James Lacatski
+        slug: james-lacatski
+      - node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+        title: Luis Elizondo
+        slug: luis-elizondo
+      - node_id: cc6d8585-d896-4fc3-b3a2-28d9a7d153ab
+        title: Advanced Aerospace Weapon System Applications Program (AAWSAP)
+        slug: advanced-aerospace-weapon-system-applications-program-aawsap
+    date: null
+    date_end: null
+    location_in_record: ch9:9565-9763
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  - claim_id: 10b54b87-31c4-44f8-875b-1d255a1760e6
+    claim_hash: 7494e7d0621faef231b96f7c34828f93af3afeae4ff6ca28dfd2ae57b3dcb056
+    content: The Advanced Aerospace Weapons System Applications Program was nestled inside the Defense Intelligence Agency
+      (DIA), a member of the US intelligence community, and drew its authority directly from the United States Congress, according
+      to James Lacatski.
+    original_excerpt: Nestled deep inside DIA, a member of the US intelligence community (the IC), AAWSAP drew its authority
+      directly from Congress, according to Jim.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 3a865991-eaad-4855-8980-b28dfb98691a
+      title: James Lacatski
+    provenance_chain:
+      origin_kind: speaker
+      origin: James Lacatski
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 382b6d6c-0182-4121-8bfc-525602d667b1
+        title: Defense Intelligence Agency (DIA)
+        slug: defense-intelligence-agency-dia
+      - node_id: 4fb65b2c-296a-493d-bbc7-65e4b763c1f0
+        title: United States Congress
+        slug: united-states-congress
+      - node_id: cc6d8585-d896-4fc3-b3a2-28d9a7d153ab
+        title: Advanced Aerospace Weapon System Applications Program (AAWSAP)
+        slug: advanced-aerospace-weapon-system-applications-program-aawsap
+    date: null
+    date_end: null
+    location_in_record: ch9:9945-10085
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  - claim_id: 367a46ce-87b9-4016-a3ac-2d6a99bd371f
+    claim_hash: bc664a8cfb1b1fc77bf9ed70cbfb75f3e6bafb243bb062eb5dbc9e8a19186178
+    content: Jim Lacatski is a Defense Intelligence Agency rocket scientist who was involved in the Advanced Aerospace Weapon
+      System Applications Program (AAWSAP).
+    original_excerpt: Jim Lacatski coming out, you know, who is a DIA rocket scientist involved in AAWSAP.
+    claim_type: administrative
+    attestation: null
+    speaker:
+      node_id: 079d4381-4273-418b-bc9a-468623f95c6e
+      title: Jesse Mitchells
+    provenance_chain:
+      origin_kind: unattributed
+      origin: narration
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 382b6d6c-0182-4121-8bfc-525602d667b1
+        title: Defense Intelligence Agency (DIA)
+        slug: defense-intelligence-agency-dia
+      - node_id: 3a865991-eaad-4855-8980-b28dfb98691a
+        title: James Lacatski
+        slug: james-lacatski
+      - node_id: cc6d8585-d896-4fc3-b3a2-28d9a7d153ab
+        title: Advanced Aerospace Weapon System Applications Program (AAWSAP)
+        slug: advanced-aerospace-weapon-system-applications-program-aawsap
+    date: null
+    date_end: null
+    location_in_record: 01:01:56.5-01:02:01.8
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 64b84f95-238c-4ab7-a678-bee55f985b14
+      record_title: The UFO Cover-Up Leads to One Secret Society — and One Final Event
+      record_date: '2026-07-14'
+      record_reference: https://www.youtube.com/watch?v=kccrkCGGzX4
+      content_hash: sha256:d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7b5a1b98d
+      friendly_name: null
+  - claim_id: de1b0120-8ad9-45dc-99eb-56249f289d85
+    claim_hash: 991f7756f972e85d814dddf975f33d7e905d97381e39e1b101134b230f9dc8f7
+    content: Jim Lacatski writes about the UFO subject as a platonic puzzle, more a mystical object than something physicists
+      would be put against.
+    original_excerpt: And he writes about it like it's some platonic puzzle. Like it's more of like a mystical object than
+      it is something you'd ever even put throw physicists against.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 079d4381-4273-418b-bc9a-468623f95c6e
+      title: Jesse Mitchells
+    provenance_chain:
+      origin_kind: speaker
+      origin: Jesse Michels
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 3a865991-eaad-4855-8980-b28dfb98691a
+        title: James Lacatski
+        slug: james-lacatski
+      - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
+        title: Unidentified Flying Object (UFO)
+        slug: unidentified-flying-object-ufo
+    date: null
+    date_end: null
+    location_in_record: 01:02:04.4-01:02:14.5
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 64b84f95-238c-4ab7-a678-bee55f985b14
+      record_title: The UFO Cover-Up Leads to One Secret Society — and One Final Event
+      record_date: '2026-07-14'
+      record_reference: https://www.youtube.com/watch?v=kccrkCGGzX4
+      content_hash: sha256:d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7b5a1b98d
+      friendly_name: null
+  - claim_id: de7731b7-1faf-4d6d-8e82-caf2cab91052
+    claim_hash: 122e7790cabc776c82161aff047669a5d80a36b837ad2ca3dcc746baa13d7743
+    content: Whitley Strieber believes Hal Puthoff and James Lacatski refer to technological pieces left by the Non-Human
+      Intelligence and picked up by humans as donations, though he is not certain he has the right scientists.
+    original_excerpt: they leave what people like, I believe, Hal Puthoff and Jim Lacatski refer to as donations. You know,
+      these technological bits and pieces that we pick up and craft and so forth. They think of them as donations. I might
+      not have the scientists who said that correct, but some important people in this have said that.
+    claim_type: hearsay
+    attestation: second_hand
+    speaker:
+      node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+      title: Whitley Strieber
+    provenance_chain:
+      origin_kind: named
+      origin: Hal Puthoff and James Lacatski
+      relay:
+        - Whitley Strieber
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 3a865991-eaad-4855-8980-b28dfb98691a
+        title: James Lacatski
+        slug: james-lacatski
+      - node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+        title: Whitley Strieber
+        slug: whitley-strieber
+      - node_id: 6dcdfe60-bc2f-4be2-a041-9957a82f371e
+        title: Harold E. Puthoff
+        slug: harold-e-puthoff
+      - node_id: 9c74d864-957a-4654-a5b6-1249fe654ec7
+        title: Non-Human Intelligence
+        slug: non-human-intelligence
+    date: null
+    date_end: null
+    location_in_record: 00:43:37.4-00:43:59.4
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 9302c6b2-133d-4cbb-adfa-5d1f0bd3e7ac
+      record_title: The Terrible Truth About the Visitors - Whitley Strieber | ep. 96
+      record_date: '2026-07-24'
+      record_reference: https://www.youtube.com/watch?v=Cv-sk4vt-qU
+      content_hash: sha256:456dbde0ab82ee8e216bdad2d1a0bf2a0b42622a167af19058f973050b035084
+      friendly_name: null
+  - claim_id: 15b181f6-e2fd-49cc-ad41-d1c27ef36f52
+    claim_hash: 4440f35f86f1bb1454f9d4816ed3b384848d27b3ce699b683e5a2c3c3ff77ad8
+    content: Robert Bigelow's initial motivation for starting the Bigelow Podcast came from the publication of James Lacatski's
+      books in 2023, 2025 and 2026.
+    original_excerpt: So I think the initial push was some time back with the publishing of Jim McCasky's book in 2023
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 0d4dfba6-a53b-4f23-a2ad-e4c9bea44076
+      title: Robert Bigelow
+    provenance_chain:
+      origin_kind: speaker
+      origin: Robert Bigelow
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 0d4dfba6-a53b-4f23-a2ad-e4c9bea44076
+        title: Robert Bigelow
+        slug: robert-bigelow
+      - node_id: 3a865991-eaad-4855-8980-b28dfb98691a
+        title: James Lacatski
+        slug: james-lacatski
+      - node_id: fa41c29c-44a3-4cea-873a-33b2ec1ec2db
+        title: 'Bigelow Podcast Episode 2: The Evolution of Advanced Aerospace Weapon System Applications Program (AAWSAP)'
+        slug: bigelow-podcast-episode-2-the-evolution-of-advanced-aerospace-weapon-system-applications-program-aawsap
+    date: null
+    date_end: null
+    location_in_record: 00:00:42.6-00:00:54.1
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 5de4e296-4206-45f6-aa56-c3b8efb5c9e2
+      record_title: The Evolution of AAWSAP | Bigelow Podcast, Ep. 2
+      record_date: '2026-08-11'
+      record_reference: https://www.youtube.com/watch?v=hz7jHEgYzQw
+      content_hash: sha256:1aa9d864c5a4bb930164c278d9624c6bc0f84278ea4b5e57594fae9e21e90858
+      friendly_name: null
+  - claim_id: c388035c-b71e-46c7-9c46-93d8931d2e13
+    claim_hash: d87d5a9d77c4387d7f0bef679635b46aa90ee3d991f12d01018825634ed7a69a
+    content: All three of James Lacatski's books were briefed and scrubbed by the Pentagon and the Defense Intelligence Agency
+      (DIA) through the Defense Office of Prepublication and Security Review (DOPSR) process.
+    original_excerpt: this has been sanctioned, this has been briefed and scrubbed as have all of his books, all three of
+      his books, from the Pentagon and the- ... The DOPSR Process. ... The DIA, yeah, yeah.
+    claim_type: administrative
+    attestation: first_hand
+    speaker:
+      node_id: 0d4dfba6-a53b-4f23-a2ad-e4c9bea44076
+      title: Robert Bigelow
+    provenance_chain:
+      origin_kind: speaker
+      origin: Robert Bigelow
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 164b4ec2-1d96-4c98-a5e2-5a7d77568b7c
+        title: Defense Office of Prepublication and Security Review
+        slug: defense-office-of-prepublication-and-security-review
+      - node_id: 382b6d6c-0182-4121-8bfc-525602d667b1
+        title: Defense Intelligence Agency (DIA)
+        slug: defense-intelligence-agency-dia
+      - node_id: 3a865991-eaad-4855-8980-b28dfb98691a
+        title: James Lacatski
+        slug: james-lacatski
+      - node_id: 403edb72-ebc4-4b89-8746-4cd19e089691
+        title: The Pentagon
+        slug: the-pentagon
+    date: null
+    date_end: null
+    location_in_record: 00:07:46.0-00:07:56.9
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 5de4e296-4206-45f6-aa56-c3b8efb5c9e2
+      record_title: The Evolution of AAWSAP | Bigelow Podcast, Ep. 2
+      record_date: '2026-08-11'
+      record_reference: https://www.youtube.com/watch?v=hz7jHEgYzQw
+      content_hash: sha256:1aa9d864c5a4bb930164c278d9624c6bc0f84278ea4b5e57594fae9e21e90858
+      friendly_name: null
+  - claim_id: 5f5f4822-a934-416f-aa75-572604bacdab
+    claim_hash: 8a84de76c7e20ea136186b0f2b0a2429afa8f73047b2bd8e54fffadb82f8b690
+    content: In the introduction to his book, James Lacatski wrote that 2021-06-25 was a revolutionary day when the Office
+      of the Director of National Intelligence made the long-awaited announcement that UFOs were real.
+    original_excerpt: So he writes in the introduction here, on June 25, 2021, was a revolutionary day when the Office of
+      the Director of National Intelligence, ODNI, made the long-awaited announcement that UFOs were real.
+    claim_type: administrative
+    attestation: second_hand
+    speaker:
+      node_id: 0d4dfba6-a53b-4f23-a2ad-e4c9bea44076
+      title: Robert Bigelow
+    provenance_chain:
+      origin_kind: document
+      origin: the introduction to James Lacatski's book
+      relay:
+        - Robert Bigelow reading aloud
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 3a865991-eaad-4855-8980-b28dfb98691a
+        title: James Lacatski
+        slug: james-lacatski
+      - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
+        title: Unidentified Flying Object (UFO)
+        slug: unidentified-flying-object-ufo
+      - node_id: c52fd2ac-fa87-43e8-8a8b-1bbd33ef6a28
+        title: Office of the Director of National Intelligence (ODNI)
+        slug: office-of-the-director-of-national-intelligence-odni
+      - node_id: cca7de4c-13f1-4a10-a697-d901f5e87646
+        title: Office of the Director of National Intelligence Unidentified Aerial Phenomena (UAP) preliminary assessment
+          release 2021-06-25
+        slug: office-of-the-director-of-national-intelligence-unidentified-aerial-phenomena-uap-preliminary-assessment-release-2021-06-25
+    date: '2021-06-25'
+    date_end: null
+    location_in_record: 00:07:57.7-00:08:14.0
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 5de4e296-4206-45f6-aa56-c3b8efb5c9e2
+      record_title: The Evolution of AAWSAP | Bigelow Podcast, Ep. 2
+      record_date: '2026-08-11'
+      record_reference: https://www.youtube.com/watch?v=hz7jHEgYzQw
+      content_hash: sha256:1aa9d864c5a4bb930164c278d9624c6bc0f84278ea4b5e57594fae9e21e90858
+      friendly_name: null
+  - claim_id: a60f5f23-6e93-486f-9ee7-9af53167ddf7
+    claim_hash: a0e1b50b87c4f17c24e647cd8602fa41c78e959a7c7bf18a297178daa1033552
+    content: James Lacatski wrote that close coordination between Pentagon spokesman Susan Gough and Sean Kirkpatrick became
+      obvious after the All-Domain Anomaly Resolution Office report on UFOs was released on 2023-01-12.
+    original_excerpt: there's a close coordination, Lacatski writes, between of the Pentagon spokesman Susan Gao and Kirkpatrick,
+      Dr. Kirkpatrick, became obvious after the AARO Report on UFOs was released on January 12, 2023.
+    claim_type: opinion
+    attestation: second_hand
+    speaker:
+      node_id: 0d4dfba6-a53b-4f23-a2ad-e4c9bea44076
+      title: Robert Bigelow
+    provenance_chain:
+      origin_kind: named
+      origin: James Lacatski
+      relay:
+        - Robert Bigelow reading his book aloud
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 02b74577-f272-4ae7-8520-5fda4eacb5f2
+        title: Sean Kirkpatrick
+        slug: sean-kirkpatrick
+      - node_id: 13b14438-a42d-4b08-8213-e10f6dd0d242
+        title: Susan Gough
+        slug: susan-gough
+      - node_id: 3a865991-eaad-4855-8980-b28dfb98691a
+        title: James Lacatski
+        slug: james-lacatski
+      - node_id: 403edb72-ebc4-4b89-8746-4cd19e089691
+        title: The Pentagon
+        slug: the-pentagon
+      - node_id: e498e3b9-87de-44e8-877a-46b8acc68ab1
+        title: All-Domain Anomaly Resolution Office report on UFOs 2023-01-12
+        slug: all-domain-anomaly-resolution-office-report-on-ufos-2023-01-12
+    date: '2023-01-12'
+    date_end: null
+    location_in_record: 00:10:02.3-00:10:16.8
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 5de4e296-4206-45f6-aa56-c3b8efb5c9e2
+      record_title: The Evolution of AAWSAP | Bigelow Podcast, Ep. 2
+      record_date: '2026-08-11'
+      record_reference: https://www.youtube.com/watch?v=hz7jHEgYzQw
+      content_hash: sha256:1aa9d864c5a4bb930164c278d9624c6bc0f84278ea4b5e57594fae9e21e90858
+      friendly_name: null
+  - claim_id: b567699b-951f-4c58-b5a2-4e3acb65c701
+    claim_hash: ef57bdef66ee6190e6abed234ab63c9289ffded1d16965de9842c7723b2aa7c9
+    content: The All-Domain Anomaly Resolution Office report on UFOs released on 2023-01-12 was notable for its blandness
+      and lack of detail.
+    original_excerpt: The report was notable for its blandness and lack of detail
+    claim_type: opinion
+    attestation: second_hand
+    speaker:
+      node_id: 0d4dfba6-a53b-4f23-a2ad-e4c9bea44076
+      title: Robert Bigelow
+    provenance_chain:
+      origin_kind: named
+      origin: James Lacatski
+      relay:
+        - Robert Bigelow reading his book aloud
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 3a865991-eaad-4855-8980-b28dfb98691a
+        title: James Lacatski
+        slug: james-lacatski
+      - node_id: e498e3b9-87de-44e8-877a-46b8acc68ab1
+        title: All-Domain Anomaly Resolution Office report on UFOs 2023-01-12
+        slug: all-domain-anomaly-resolution-office-report-on-ufos-2023-01-12
+    date: '2023-01-12'
+    date_end: null
+    location_in_record: 00:10:20.4-00:10:23.4
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 5de4e296-4206-45f6-aa56-c3b8efb5c9e2
+      record_title: The Evolution of AAWSAP | Bigelow Podcast, Ep. 2
+      record_date: '2026-08-11'
+      record_reference: https://www.youtube.com/watch?v=hz7jHEgYzQw
+      content_hash: sha256:1aa9d864c5a4bb930164c278d9624c6bc0f84278ea4b5e57594fae9e21e90858
+      friendly_name: null
+  - claim_id: 8fb1cc7a-5330-444a-ab7a-091a80ae65ce
+    claim_hash: c0cfef2e35b95000a671c7372a88f1d36ca10b4504a5e1207ac833173cc3e1b4
+    content: James Lacatski included paranormal events in the Advanced Aerospace Weapon System Applications Program (AAWSAP)
+      because he knew that ancillary events occur that belong in the paranormal category.
+    original_excerpt: The wisdom of Jim Lacatski was great because he knew that there are ancillary kinds of events that occur
+      that are really paranormal basket kinds of things.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 0d4dfba6-a53b-4f23-a2ad-e4c9bea44076
+      title: Robert Bigelow
+    provenance_chain:
+      origin_kind: speaker
+      origin: Robert Bigelow
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 3a865991-eaad-4855-8980-b28dfb98691a
+        title: James Lacatski
+        slug: james-lacatski
+      - node_id: cc6d8585-d896-4fc3-b3a2-28d9a7d153ab
+        title: Advanced Aerospace Weapon System Applications Program (AAWSAP)
+        slug: advanced-aerospace-weapon-system-applications-program-aawsap
+    date: null
+    date_end: null
+    location_in_record: 00:14:03.6-00:14:15.2
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 5de4e296-4206-45f6-aa56-c3b8efb5c9e2
+      record_title: The Evolution of AAWSAP | Bigelow Podcast, Ep. 2
+      record_date: '2026-08-11'
+      record_reference: https://www.youtube.com/watch?v=hz7jHEgYzQw
+      content_hash: sha256:1aa9d864c5a4bb930164c278d9624c6bc0f84278ea4b5e57594fae9e21e90858
+      friendly_name: null
+  - claim_id: 1ed21881-dd58-4242-8198-df7ee45c2ad8
+    claim_hash: eb7222793a45d26ec605182fc189e1aba84ba7881ffe3b01589bd59a298b83d1
+    content: James Lacatski instructed Robert Bigelow's team not to ignore anything that fell outside the UFO genre, and to
+      pursue and run experiments on any other phenomena that mystified them.
+    original_excerpt: he gave us instructions not to ignore anything that was not just you know UFO uh kind of the genre of
+      of UFOlogy that if we had other kinds of mystifications, things that mystified us, we were to absolutely go down that
+      path and try to do experiments.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 0d4dfba6-a53b-4f23-a2ad-e4c9bea44076
+      title: Robert Bigelow
+    provenance_chain:
+      origin_kind: speaker
+      origin: Robert Bigelow
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 0d4dfba6-a53b-4f23-a2ad-e4c9bea44076
+        title: Robert Bigelow
+        slug: robert-bigelow
+      - node_id: 3a865991-eaad-4855-8980-b28dfb98691a
+        title: James Lacatski
+        slug: james-lacatski
+      - node_id: cc6d8585-d896-4fc3-b3a2-28d9a7d153ab
+        title: Advanced Aerospace Weapon System Applications Program (AAWSAP)
+        slug: advanced-aerospace-weapon-system-applications-program-aawsap
+      - node_id: e19a826c-8076-4fa5-8ec5-e24a00b0d4b9
+        title: Bigelow Aerospace Advanced Space Studies, LLC
+        slug: llc-bigelow-aerospace-advanced-space-studies
+    date: null
+    date_end: null
+    location_in_record: 00:36:31.6-00:36:52.5
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 5de4e296-4206-45f6-aa56-c3b8efb5c9e2
+      record_title: The Evolution of AAWSAP | Bigelow Podcast, Ep. 2
+      record_date: '2026-08-11'
+      record_reference: https://www.youtube.com/watch?v=hz7jHEgYzQw
+      content_hash: sha256:1aa9d864c5a4bb930164c278d9624c6bc0f84278ea4b5e57594fae9e21e90858
+      friendly_name: null
+  - claim_id: a5e88f2d-d847-4462-a9df-72ea05997ebc
+    claim_hash: da8e5a4f4b7a2a150bd842b02bc2ecced41bc375f43b73ba8f8c2de2d858c2f0
+    content: Robert Bigelow was unsure the approach from James Lacatski was genuine and had to authenticate him; Lacatski
+      knew this and supplied the means for Bigelow to verify his identity.
+    original_excerpt: Yeah, I wasn't sure it was real. You know, I had to authenticate him and he knew that. And so he gave
+      me the means to be able to information, be able to authenticate who the hell is this Jim Lacatski guy
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 0d4dfba6-a53b-4f23-a2ad-e4c9bea44076
+      title: Robert Bigelow
+    provenance_chain:
+      origin_kind: speaker
+      origin: Robert Bigelow
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 0d4dfba6-a53b-4f23-a2ad-e4c9bea44076
+        title: Robert Bigelow
+        slug: robert-bigelow
+      - node_id: 3a865991-eaad-4855-8980-b28dfb98691a
+        title: James Lacatski
+        slug: james-lacatski
+      - node_id: cc6d8585-d896-4fc3-b3a2-28d9a7d153ab
+        title: Advanced Aerospace Weapon System Applications Program (AAWSAP)
+        slug: advanced-aerospace-weapon-system-applications-program-aawsap
+    date: null
+    date_end: null
+    location_in_record: 00:38:41.8-00:38:52.5
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 5de4e296-4206-45f6-aa56-c3b8efb5c9e2
+      record_title: The Evolution of AAWSAP | Bigelow Podcast, Ep. 2
+      record_date: '2026-08-11'
+      record_reference: https://www.youtube.com/watch?v=hz7jHEgYzQw
+      content_hash: sha256:1aa9d864c5a4bb930164c278d9624c6bc0f84278ea4b5e57594fae9e21e90858
+      friendly_name: null
+  - claim_id: 7e488b63-ffd0-4746-a2f9-b4f3cb745a84
+    claim_hash: 359b1396ff40921dad0e60607ee8f4c937e7230b215424cca6877d35fe74f9b3
+    content: James Lacatski's initial approach to Robert Bigelow came in the form of a letter rather than a phone call.
+    original_excerpt: 'George Knapp: Is it a phone call or a letter? Robert Bigelow: I think it was a letter.'
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 0d4dfba6-a53b-4f23-a2ad-e4c9bea44076
+      title: Robert Bigelow
+    provenance_chain:
+      origin_kind: speaker
+      origin: Robert Bigelow
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 0d4dfba6-a53b-4f23-a2ad-e4c9bea44076
+        title: Robert Bigelow
+        slug: robert-bigelow
+      - node_id: 3a865991-eaad-4855-8980-b28dfb98691a
+        title: James Lacatski
+        slug: james-lacatski
+      - node_id: cc6d8585-d896-4fc3-b3a2-28d9a7d153ab
+        title: Advanced Aerospace Weapon System Applications Program (AAWSAP)
+        slug: advanced-aerospace-weapon-system-applications-program-aawsap
+    date: null
+    date_end: null
+    location_in_record: 00:38:54.8-00:38:56.8
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 5de4e296-4206-45f6-aa56-c3b8efb5c9e2
+      record_title: The Evolution of AAWSAP | Bigelow Podcast, Ep. 2
+      record_date: '2026-08-11'
+      record_reference: https://www.youtube.com/watch?v=hz7jHEgYzQw
+      content_hash: sha256:1aa9d864c5a4bb930164c278d9624c6bc0f84278ea4b5e57594fae9e21e90858
+      friendly_name: null
+  - claim_id: 8b444334-8eb2-47ac-b613-817f4eb47f12
+    claim_hash: 633c901db0b35c73bdf022f815f389aefa23c060df65e018f3d44f74649d26a4
+    content: In his introductory letter to Robert Bigelow, James Lacatski said he wanted to see Skinwalker Ranch and was already
+      aware of it.
+    original_excerpt: he introduced himself and he says, uh, I, I think, uh, he wanted to see the Skinwalker ranch and he
+      was, uh, he was aware of it.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 0d4dfba6-a53b-4f23-a2ad-e4c9bea44076
+      title: Robert Bigelow
+    provenance_chain:
+      origin_kind: speaker
+      origin: Robert Bigelow
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 0d4dfba6-a53b-4f23-a2ad-e4c9bea44076
+        title: Robert Bigelow
+        slug: robert-bigelow
+      - node_id: 3a865991-eaad-4855-8980-b28dfb98691a
+        title: James Lacatski
+        slug: james-lacatski
+      - node_id: d532997b-8a3d-4d47-9fd3-17e736310f75
+        title: USA, Utah, Skinwalker Ranch
+        slug: utah-skinwalker-ranch-usa
+    date: null
+    date_end: null
+    location_in_record: 00:38:58.8-00:39:06.5
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 5de4e296-4206-45f6-aa56-c3b8efb5c9e2
+      record_title: The Evolution of AAWSAP | Bigelow Podcast, Ep. 2
+      record_date: '2026-08-11'
+      record_reference: https://www.youtube.com/watch?v=hz7jHEgYzQw
+      content_hash: sha256:1aa9d864c5a4bb930164c278d9624c6bc0f84278ea4b5e57594fae9e21e90858
+      friendly_name: null
+  - claim_id: 3e9bd27c-7b29-476d-8c5a-c1bc2a230fe4
+    claim_hash: 777533292431489e6b954603dc5ffe7eb7c411afee1eb82cfd54026f6fcebc52
+    content: James Lacatski's letter mentioned something about securing funding, which prompted Robert Bigelow to contact
+      Harry Reid.
+    original_excerpt: I think he mentioned something about, um, We need to secure, I'm not sure if he said something about
+      secure funding, but there was something there that caused me to contact Reid, Harry Reid
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 0d4dfba6-a53b-4f23-a2ad-e4c9bea44076
+      title: Robert Bigelow
+    provenance_chain:
+      origin_kind: speaker
+      origin: Robert Bigelow
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 0d4dfba6-a53b-4f23-a2ad-e4c9bea44076
+        title: Robert Bigelow
+        slug: robert-bigelow
+      - node_id: 3a865991-eaad-4855-8980-b28dfb98691a
+        title: James Lacatski
+        slug: james-lacatski
+      - node_id: c91974f0-961f-4db8-b7b0-22d4b846e5d5
+        title: Harry Reid
+        slug: harry-reid
+      - node_id: cc6d8585-d896-4fc3-b3a2-28d9a7d153ab
+        title: Advanced Aerospace Weapon System Applications Program (AAWSAP)
+        slug: advanced-aerospace-weapon-system-applications-program-aawsap
+    date: null
+    date_end: null
+    location_in_record: 00:39:13.5-00:39:26.3
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 5de4e296-4206-45f6-aa56-c3b8efb5c9e2
+      record_title: The Evolution of AAWSAP | Bigelow Podcast, Ep. 2
+      record_date: '2026-08-11'
+      record_reference: https://www.youtube.com/watch?v=hz7jHEgYzQw
+      content_hash: sha256:1aa9d864c5a4bb930164c278d9624c6bc0f84278ea4b5e57594fae9e21e90858
+      friendly_name: null
+  - claim_id: 9407175f-42d7-44bb-93fb-7b75ecf4ec05
+    claim_hash: 5fe40efdf8f06a1a7c0eeb119edcab96027efdd9ef980f3353bd786a679281e6
+    content: Robert Bigelow judged James Lacatski to be legitimate.
+    original_excerpt: And so this guy, Lacatski, is legitimate.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 0d4dfba6-a53b-4f23-a2ad-e4c9bea44076
+      title: Robert Bigelow
+    provenance_chain:
+      origin_kind: speaker
+      origin: Robert Bigelow
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 0d4dfba6-a53b-4f23-a2ad-e4c9bea44076
+        title: Robert Bigelow
+        slug: robert-bigelow
+      - node_id: 3a865991-eaad-4855-8980-b28dfb98691a
+        title: James Lacatski
+        slug: james-lacatski
+    date: null
+    date_end: null
+    location_in_record: 00:39:52.9-00:39:56.0
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 5de4e296-4206-45f6-aa56-c3b8efb5c9e2
+      record_title: The Evolution of AAWSAP | Bigelow Podcast, Ep. 2
+      record_date: '2026-08-11'
+      record_reference: https://www.youtube.com/watch?v=hz7jHEgYzQw
+      content_hash: sha256:1aa9d864c5a4bb930164c278d9624c6bc0f84278ea4b5e57594fae9e21e90858
+      friendly_name: null
+  - claim_id: 037febf6-f41c-4a63-bbf2-d15d96c1b8b2
+    claim_hash: 249bcd956b077aa9d8cf947c75c14228c7e4ab1e2eed394b88ffed723595e56f
+    content: The Bigelow Aerospace Advanced Space Studies (BAASS) papers contain highly sensitive material including personal
+      medical information and the identities of people who work for the government.
+    original_excerpt: there's a lot of really sensitive stuff in there. Personal medical information. There's the identities
+      of people who work for the government.
+    claim_type: observation
+    attestation: second_hand
+    speaker:
+      node_id: 6712e8fa-3b86-4982-a102-e2d38e0b29d6
+      title: George Knapp
+    provenance_chain:
+      origin_kind: named
+      origin: James Lacatski and Colm Kelleher
+      relay:
+        - George Knapp
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 3a865991-eaad-4855-8980-b28dfb98691a
+        title: James Lacatski
+        slug: james-lacatski
+      - node_id: 9e257cce-d8c0-4a82-8dd9-e86661742d51
+        title: Colm Kelleher
+        slug: colm-kelleher
+      - node_id: cc6d8585-d896-4fc3-b3a2-28d9a7d153ab
+        title: Advanced Aerospace Weapon System Applications Program (AAWSAP)
+        slug: advanced-aerospace-weapon-system-applications-program-aawsap
+      - node_id: e19a826c-8076-4fa5-8ec5-e24a00b0d4b9
+        title: Bigelow Aerospace Advanced Space Studies, LLC
+        slug: llc-bigelow-aerospace-advanced-space-studies
+    date: null
+    date_end: null
+    location_in_record: 00:41:50.9-00:41:57.6
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 5de4e296-4206-45f6-aa56-c3b8efb5c9e2
+      record_title: The Evolution of AAWSAP | Bigelow Podcast, Ep. 2
+      record_date: '2026-08-11'
+      record_reference: https://www.youtube.com/watch?v=hz7jHEgYzQw
+      content_hash: sha256:1aa9d864c5a4bb930164c278d9624c6bc0f84278ea4b5e57594fae9e21e90858
+      friendly_name: null
+  - claim_id: 794657ba-7f13-4d64-8140-2e0a3e1d327b
+    claim_hash: 78171a1d1019ad038418633a1dfa20ddc9191c10202d5d15b6b0de77d2e50705
+    content: Bigelow Aerospace Advanced Space Studies (BAASS) employed 50 full-time investigators.
+    original_excerpt: Dr. Lakatsky explained to me your organization, BAASS, you had 50 full-time investigators, 50.
+    claim_type: measurement
+    attestation: second_hand
+    speaker:
+      node_id: 6712e8fa-3b86-4982-a102-e2d38e0b29d6
+      title: George Knapp
+    provenance_chain:
+      origin_kind: named
+      origin: James Lacatski
+      relay:
+        - George Knapp
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 3a865991-eaad-4855-8980-b28dfb98691a
+        title: James Lacatski
+        slug: james-lacatski
+      - node_id: cc6d8585-d896-4fc3-b3a2-28d9a7d153ab
+        title: Advanced Aerospace Weapon System Applications Program (AAWSAP)
+        slug: advanced-aerospace-weapon-system-applications-program-aawsap
+      - node_id: e19a826c-8076-4fa5-8ec5-e24a00b0d4b9
+        title: Bigelow Aerospace Advanced Space Studies, LLC
+        slug: llc-bigelow-aerospace-advanced-space-studies
+    date: null
+    date_end: null
+    location_in_record: 00:42:12.7-00:42:18.7
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 5de4e296-4206-45f6-aa56-c3b8efb5c9e2
+      record_title: The Evolution of AAWSAP | Bigelow Podcast, Ep. 2
+      record_date: '2026-08-11'
+      record_reference: https://www.youtube.com/watch?v=hz7jHEgYzQw
+      content_hash: sha256:1aa9d864c5a4bb930164c278d9624c6bc0f84278ea4b5e57594fae9e21e90858
+      friendly_name: null
+  - claim_id: e0d0b4cd-5ce5-41b1-8dab-5a919b10e3c0
+    claim_hash: 495b0559bdce9bdcf54f2e6d73c732613f9e486f295316a8583d2ea966047848
+    content: James Lacatski was not always in step with the wider Department of Defense establishment.
+    original_excerpt: So Jim wasn't always in sync with the whole crowd at the Department of Defense by any means.
+    claim_type: observation
+    attestation: first_hand
+    speaker:
+      node_id: 0d4dfba6-a53b-4f23-a2ad-e4c9bea44076
+      title: Robert Bigelow
+    provenance_chain:
+      origin_kind: speaker
+      origin: Robert Bigelow
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 3a865991-eaad-4855-8980-b28dfb98691a
+        title: James Lacatski
+        slug: james-lacatski
+      - node_id: 99f08514-5471-4eaf-bce3-46c474a8d304
+        title: United States Department of Defense (DoD)
+        slug: united-states-department-of-defense-dod
+    date: null
+    date_end: null
+    location_in_record: 00:44:52.8-00:45:01.0
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 5de4e296-4206-45f6-aa56-c3b8efb5c9e2
+      record_title: The Evolution of AAWSAP | Bigelow Podcast, Ep. 2
+      record_date: '2026-08-11'
+      record_reference: https://www.youtube.com/watch?v=hz7jHEgYzQw
+      content_hash: sha256:1aa9d864c5a4bb930164c278d9624c6bc0f84278ea4b5e57594fae9e21e90858
+      friendly_name: null
+  - claim_id: d9c03bfe-80ab-49f1-8b42-4c3acd61064b
+    claim_hash: 700dd0178d118390007fe76f7f3682c879dcc5af30c1e8b329ba9ad6ef654c35
+    content: James Lacatski was a rocket scientist for the Defense Intelligence Agency (DIA).
+    original_excerpt: Jim Lacatski is brilliant in many ways, a rocket scientist for DIA.
+    claim_type: administrative
+    attestation: null
+    speaker:
+      node_id: 6712e8fa-3b86-4982-a102-e2d38e0b29d6
+      title: George Knapp
+    provenance_chain:
+      origin_kind: unattributed
+      origin: narration in Bigelow Podcast Episode 2
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 382b6d6c-0182-4121-8bfc-525602d667b1
+        title: Defense Intelligence Agency (DIA)
+        slug: defense-intelligence-agency-dia
+      - node_id: 3a865991-eaad-4855-8980-b28dfb98691a
+        title: James Lacatski
+        slug: james-lacatski
+    date: null
+    date_end: null
+    location_in_record: 00:49:44.0-00:49:48.6
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 5de4e296-4206-45f6-aa56-c3b8efb5c9e2
+      record_title: The Evolution of AAWSAP | Bigelow Podcast, Ep. 2
+      record_date: '2026-08-11'
+      record_reference: https://www.youtube.com/watch?v=hz7jHEgYzQw
+      content_hash: sha256:1aa9d864c5a4bb930164c278d9624c6bc0f84278ea4b5e57594fae9e21e90858
+      friendly_name: null
+  - claim_id: f3b0af0d-8ef7-4352-af76-a04ce02fdf1b
+    claim_hash: e3c8608e9d90a1761d38adde2b95c1a564adf48ffae8dcf2c6a0ef12f2c51369
+    content: James Lacatski wrote up the proposal that became the Advanced Aerospace Weapon System Applications Program (AAWSAP)
+      without mentioning UFOs, Skinwalker Ranch or alien technology.
+    original_excerpt: But his brilliance in writing up the program that became AAWSAP was, you don't mention UFOs. You're
+      not going to mention werewolves or the ranch or alien technology.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 6712e8fa-3b86-4982-a102-e2d38e0b29d6
+      title: George Knapp
+    provenance_chain:
+      origin_kind: speaker
+      origin: George Knapp
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 3a865991-eaad-4855-8980-b28dfb98691a
+        title: James Lacatski
+        slug: james-lacatski
+      - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
+        title: Unidentified Flying Object (UFO)
+        slug: unidentified-flying-object-ufo
+      - node_id: cc6d8585-d896-4fc3-b3a2-28d9a7d153ab
+        title: Advanced Aerospace Weapon System Applications Program (AAWSAP)
+        slug: advanced-aerospace-weapon-system-applications-program-aawsap
+      - node_id: d532997b-8a3d-4d47-9fd3-17e736310f75
+        title: USA, Utah, Skinwalker Ranch
+        slug: utah-skinwalker-ranch-usa
+    date: null
+    date_end: null
+    location_in_record: 00:49:49.8-00:50:00.8
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 5de4e296-4206-45f6-aa56-c3b8efb5c9e2
+      record_title: The Evolution of AAWSAP | Bigelow Podcast, Ep. 2
+      record_date: '2026-08-11'
+      record_reference: https://www.youtube.com/watch?v=hz7jHEgYzQw
+      content_hash: sha256:1aa9d864c5a4bb930164c278d9624c6bc0f84278ea4b5e57594fae9e21e90858
+      friendly_name: null
+  - claim_id: 46616d6c-0422-4263-97cf-925282597511
+    claim_hash: a1d6dcc8b0743252fb6052736107caf9285042412cbeaddf1a5b6269f1531078
+    content: James Lacatski and Jay Stratton worked together at the Defense Intelligence Agency (DIA).
+    original_excerpt: They worked together at DIA and they both explained both in their own areas were seeing UFO reports
+      that were startling.
+    claim_type: administrative
+    attestation: null
+    speaker:
+      node_id: 6712e8fa-3b86-4982-a102-e2d38e0b29d6
+      title: George Knapp
+    provenance_chain:
+      origin_kind: unattributed
+      origin: narration in Bigelow Podcast Episode 2
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 382b6d6c-0182-4121-8bfc-525602d667b1
+        title: Defense Intelligence Agency (DIA)
+        slug: defense-intelligence-agency-dia
+      - node_id: 3a865991-eaad-4855-8980-b28dfb98691a
+        title: James Lacatski
+        slug: james-lacatski
+      - node_id: 51d882d7-ae4b-4a91-bc4f-a2b900fb1196
+        title: Jay Stratton
+        slug: jay-stratton
+    date: null
+    date_end: null
+    location_in_record: 00:50:42.5-00:50:49.0
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 5de4e296-4206-45f6-aa56-c3b8efb5c9e2
+      record_title: The Evolution of AAWSAP | Bigelow Podcast, Ep. 2
+      record_date: '2026-08-11'
+      record_reference: https://www.youtube.com/watch?v=hz7jHEgYzQw
+      content_hash: sha256:1aa9d864c5a4bb930164c278d9624c6bc0f84278ea4b5e57594fae9e21e90858
+      friendly_name: null
+  - claim_id: 6d487f4a-3f81-4a93-b28d-2acf27b592a6
+    claim_hash: a5dc6c8e7012e70e662ff00cfb3224283198a2d10b3a6e97e1f9f44d95144523
+    content: James Lacatski and Jay Stratton were each seeing startling UFO reports in their own areas at the Defense Intelligence
+      Agency (DIA) and concluded something needed to be done about it.
+    original_excerpt: they both explained both in their own areas were seeing UFO reports that were startling. They kept seeing
+      them over and over and they thought we need to do something about it.
+    claim_type: hearsay
+    attestation: second_hand
+    speaker:
+      node_id: 6712e8fa-3b86-4982-a102-e2d38e0b29d6
+      title: George Knapp
+    provenance_chain:
+      origin_kind: named
+      origin: James Lacatski and Jay Stratton
+      relay:
+        - George Knapp
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 382b6d6c-0182-4121-8bfc-525602d667b1
+        title: Defense Intelligence Agency (DIA)
+        slug: defense-intelligence-agency-dia
+      - node_id: 3a865991-eaad-4855-8980-b28dfb98691a
+        title: James Lacatski
+        slug: james-lacatski
+      - node_id: 51d882d7-ae4b-4a91-bc4f-a2b900fb1196
+        title: Jay Stratton
+        slug: jay-stratton
+      - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
+        title: Unidentified Flying Object (UFO)
+        slug: unidentified-flying-object-ufo
+    date: null
+    date_end: null
+    location_in_record: 00:50:44.5-00:50:53.2
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 5de4e296-4206-45f6-aa56-c3b8efb5c9e2
+      record_title: The Evolution of AAWSAP | Bigelow Podcast, Ep. 2
+      record_date: '2026-08-11'
+      record_reference: https://www.youtube.com/watch?v=hz7jHEgYzQw
+      content_hash: sha256:1aa9d864c5a4bb930164c278d9624c6bc0f84278ea4b5e57594fae9e21e90858
+      friendly_name: null
+  - claim_id: 52306bf8-e47e-4884-a9d3-2ceb34b6c76d
+    claim_hash: 59d80b09699aa1006a3c8296b230d0740cc6ebdd1a774bdc2493e11bfd04db9c
+    content: After reading Hunt for the Skinwalker, James Lacatski and Jay Stratton concluded that Skinwalker Ranch was a
+      place that could be studied with a reasonable chance of seeing UFOs.
+    original_excerpt: And then they read Hunt for the Skinwalker and they thought Skinwalker Ranch is a place you could study.
+      where you have a reasonable chance of seeing UFOs
+    claim_type: hearsay
+    attestation: second_hand
+    speaker:
+      node_id: 6712e8fa-3b86-4982-a102-e2d38e0b29d6
+      title: George Knapp
+    provenance_chain:
+      origin_kind: named
+      origin: James Lacatski and Jay Stratton
+      relay:
+        - George Knapp
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 3a865991-eaad-4855-8980-b28dfb98691a
+        title: James Lacatski
+        slug: james-lacatski
+      - node_id: 51d882d7-ae4b-4a91-bc4f-a2b900fb1196
+        title: Jay Stratton
+        slug: jay-stratton
+      - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
+        title: Unidentified Flying Object (UFO)
+        slug: unidentified-flying-object-ufo
+      - node_id: ad470259-efd8-400b-adb0-8bcfcd89516e
+        title: Hunt for the Skinwalker
+        slug: hunt-for-the-skinwalker
+      - node_id: d532997b-8a3d-4d47-9fd3-17e736310f75
+        title: USA, Utah, Skinwalker Ranch
+        slug: utah-skinwalker-ranch-usa
+    date: null
+    date_end: null
+    location_in_record: 00:50:53.3-00:51:01.4
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 5de4e296-4206-45f6-aa56-c3b8efb5c9e2
+      record_title: The Evolution of AAWSAP | Bigelow Podcast, Ep. 2
+      record_date: '2026-08-11'
+      record_reference: https://www.youtube.com/watch?v=hz7jHEgYzQw
+      content_hash: sha256:1aa9d864c5a4bb930164c278d9624c6bc0f84278ea4b5e57594fae9e21e90858
+      friendly_name: null
+  - claim_id: acc9e5e6-31cf-4fcd-9724-01af51b8beb7
+    claim_hash: f3e44f8619a6b449c0b87d3e7f4752268f0740cd185124a8ce294b8886fc0cd4
+    content: James Lacatski sent a letter to Robert Bigelow pitching the idea of studying Skinwalker Ranch.
+    original_excerpt: and they came to you and pitched this idea so the letter comes in from lakatsky to you yeah
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 6712e8fa-3b86-4982-a102-e2d38e0b29d6
+      title: George Knapp
+    provenance_chain:
+      origin_kind: speaker
+      origin: George Knapp
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 0d4dfba6-a53b-4f23-a2ad-e4c9bea44076
+        title: Robert Bigelow
+        slug: robert-bigelow
+      - node_id: 3a865991-eaad-4855-8980-b28dfb98691a
+        title: James Lacatski
+        slug: james-lacatski
+      - node_id: d532997b-8a3d-4d47-9fd3-17e736310f75
+        title: USA, Utah, Skinwalker Ranch
+        slug: utah-skinwalker-ranch-usa
+    date: null
+    date_end: null
+    location_in_record: 00:51:02.7-00:51:07.5
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 5de4e296-4206-45f6-aa56-c3b8efb5c9e2
+      record_title: The Evolution of AAWSAP | Bigelow Podcast, Ep. 2
+      record_date: '2026-08-11'
+      record_reference: https://www.youtube.com/watch?v=hz7jHEgYzQw
+      content_hash: sha256:1aa9d864c5a4bb930164c278d9624c6bc0f84278ea4b5e57594fae9e21e90858
+      friendly_name: null
+  - claim_id: ce532971-de2b-48fa-b267-345bddc24e59
+    claim_hash: 46dcaba5870a4514ddd0795b27a08bc2402f9cd2c7becc63e57fc86dadf4c21c
+    content: UFOs were the primary focus of the Advanced Aerospace Weapon System Applications Program (AAWSAP), with everything
+      else treated as fair game because it was connected.
+    original_excerpt: But we had permission. Everything else was fair game. Because it was connected, too. And Lacatski knew
+      that. It was connected.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 0d4dfba6-a53b-4f23-a2ad-e4c9bea44076
+      title: Robert Bigelow
+    provenance_chain:
+      origin_kind: speaker
+      origin: Robert Bigelow
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 3a865991-eaad-4855-8980-b28dfb98691a
+        title: James Lacatski
+        slug: james-lacatski
+      - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
+        title: Unidentified Flying Object (UFO)
+        slug: unidentified-flying-object-ufo
+      - node_id: cc6d8585-d896-4fc3-b3a2-28d9a7d153ab
+        title: Advanced Aerospace Weapon System Applications Program (AAWSAP)
+        slug: advanced-aerospace-weapon-system-applications-program-aawsap
+    date: null
+    date_end: null
+    location_in_record: 00:52:11.7-00:52:21.2
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 5de4e296-4206-45f6-aa56-c3b8efb5c9e2
+      record_title: The Evolution of AAWSAP | Bigelow Podcast, Ep. 2
+      record_date: '2026-08-11'
+      record_reference: https://www.youtube.com/watch?v=hz7jHEgYzQw
+      content_hash: sha256:1aa9d864c5a4bb930164c278d9624c6bc0f84278ea4b5e57594fae9e21e90858
+      friendly_name: null
+  - claim_id: b7778055-b5f4-48d0-a0fe-8d2318fcc041
+    claim_hash: 448b9a8b55dd645d699ba2443ad8c4109a2812bef4d4cc81cfdca3af76ad13d4
+    content: James Lacatski travelled to Las Vegas and then flew with Robert Bigelow on Bigelow's aircraft to north-eastern
+      Utah for a tour of Skinwalker Ranch.
+    original_excerpt: Dr. Lakatsky comes to Las Vegas, you jump on your plane, you fly to Northeastern Utah, and you took
+      him on a little tour.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 6712e8fa-3b86-4982-a102-e2d38e0b29d6
+      title: George Knapp
+    provenance_chain:
+      origin_kind: speaker
+      origin: George Knapp
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 0d4dfba6-a53b-4f23-a2ad-e4c9bea44076
+        title: Robert Bigelow
+        slug: robert-bigelow
+      - node_id: 2d83eddd-3fff-4559-b07c-7711ada4bf0f
+        title: USA, Nevada, Las Vegas
+        slug: nevada-las-vegas-usa
+      - node_id: 3a865991-eaad-4855-8980-b28dfb98691a
+        title: James Lacatski
+        slug: james-lacatski
+      - node_id: d532997b-8a3d-4d47-9fd3-17e736310f75
+        title: USA, Utah, Skinwalker Ranch
+        slug: utah-skinwalker-ranch-usa
+    date: null
+    date_end: null
+    location_in_record: 00:53:31.2-00:53:38.1
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 5de4e296-4206-45f6-aa56-c3b8efb5c9e2
+      record_title: The Evolution of AAWSAP | Bigelow Podcast, Ep. 2
+      record_date: '2026-08-11'
+      record_reference: https://www.youtube.com/watch?v=hz7jHEgYzQw
+      content_hash: sha256:1aa9d864c5a4bb930164c278d9624c6bc0f84278ea4b5e57594fae9e21e90858
+      friendly_name: null
+  - claim_id: e734ebbb-9b8a-4124-b674-b26554ffb410
+    claim_hash: adb88463e99a4458262f1c6c36827fd7c527c9cec53d671d7498c86d1ab574e0
+    content: James Lacatski identified Skinwalker Ranch from the air during the approach to Vernal airport, recognising its
+      mesa and topography from aerial photographs he had studied.
+    original_excerpt: he's looking out the window and we're coming close you know to to vernal where the airport is ... he
+      said, oh, there's the ranch so he had had aerial photographs to where he knew it visually Yeah, because he spotted the,
+      you know, the mesa and the topography
+    claim_type: observation
+    attestation: first_hand
+    speaker:
+      node_id: 0d4dfba6-a53b-4f23-a2ad-e4c9bea44076
+      title: Robert Bigelow
+    provenance_chain:
+      origin_kind: speaker
+      origin: Robert Bigelow
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 3a865991-eaad-4855-8980-b28dfb98691a
+        title: James Lacatski
+        slug: james-lacatski
+      - node_id: 3f5cbb67-d7db-4b79-bc7c-375bcaea33f5
+        title: Italy, Veneto, Verona
+        slug: veneto-verona-italy
+      - node_id: d532997b-8a3d-4d47-9fd3-17e736310f75
+        title: USA, Utah, Skinwalker Ranch
+        slug: utah-skinwalker-ranch-usa
+    date: null
+    date_end: null
+    location_in_record: 00:54:00.7-00:54:16.0
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 5de4e296-4206-45f6-aa56-c3b8efb5c9e2
+      record_title: The Evolution of AAWSAP | Bigelow Podcast, Ep. 2
+      record_date: '2026-08-11'
+      record_reference: https://www.youtube.com/watch?v=hz7jHEgYzQw
+      content_hash: sha256:1aa9d864c5a4bb930164c278d9624c6bc0f84278ea4b5e57594fae9e21e90858
+      friendly_name: null
+  - claim_id: 0ca54662-4fd1-4e20-a8b9-7947e517016a
+    claim_hash: 57cbc9a0cac49e5fc6d2322afb1abeb0a601a6c01d997982055cd76e4275447f
+    content: During James Lacatski's 2008 visit to Skinwalker Ranch, four people were seated around a rectangular table in
+      the dining area of the living room, not in the kitchen, and only James Lacatski was facing towards the kitchen.
+    original_excerpt: We were in the dining area of the living room around a rectangular table. And there were four of us
+      and Jim was the only one looking into the kitchen.
+    claim_type: observation
+    attestation: first_hand
+    speaker:
+      node_id: 0d4dfba6-a53b-4f23-a2ad-e4c9bea44076
+      title: Robert Bigelow
+    provenance_chain:
+      origin_kind: speaker
+      origin: Robert Bigelow
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 3a865991-eaad-4855-8980-b28dfb98691a
+        title: James Lacatski
+        slug: james-lacatski
+      - node_id: c437bffd-cc66-421a-80a6-a7e106176e0a
+        title: James Lacatski's Skinwalker Ranch kitchen sighting 2008
+        slug: james-lacatskis-skinwalker-ranch-kitchen-sighting-2008
+      - node_id: d532997b-8a3d-4d47-9fd3-17e736310f75
+        title: USA, Utah, Skinwalker Ranch
+        slug: utah-skinwalker-ranch-usa
+    date: null
+    date_end: null
+    location_in_record: 00:55:36.4-00:55:45.4
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 5de4e296-4206-45f6-aa56-c3b8efb5c9e2
+      record_title: The Evolution of AAWSAP | Bigelow Podcast, Ep. 2
+      record_date: '2026-08-11'
+      record_reference: https://www.youtube.com/watch?v=hz7jHEgYzQw
+      content_hash: sha256:1aa9d864c5a4bb930164c278d9624c6bc0f84278ea4b5e57594fae9e21e90858
+      friendly_name: null
+  - claim_id: 224f3ba1-4724-4664-bf71-23fa0d0574f5
+    claim_hash: 82472609d1576b30e4d972fe23a855c8b5da4f593cc0a6e6801eaf6500ad7730
+    content: James Lacatski was the only person present who saw the object in the kitchen at Skinwalker Ranch.
+    original_excerpt: He was the only one that saw it.
+    claim_type: observation
+    attestation: first_hand
+    speaker:
+      node_id: 0d4dfba6-a53b-4f23-a2ad-e4c9bea44076
+      title: Robert Bigelow
+    provenance_chain:
+      origin_kind: speaker
+      origin: Robert Bigelow
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 3a865991-eaad-4855-8980-b28dfb98691a
+        title: James Lacatski
+        slug: james-lacatski
+      - node_id: c437bffd-cc66-421a-80a6-a7e106176e0a
+        title: James Lacatski's Skinwalker Ranch kitchen sighting 2008
+        slug: james-lacatskis-skinwalker-ranch-kitchen-sighting-2008
+      - node_id: d532997b-8a3d-4d47-9fd3-17e736310f75
+        title: USA, Utah, Skinwalker Ranch
+        slug: utah-skinwalker-ranch-usa
+    date: null
+    date_end: null
+    location_in_record: 00:56:11.0-00:56:12.1
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 5de4e296-4206-45f6-aa56-c3b8efb5c9e2
+      record_title: The Evolution of AAWSAP | Bigelow Podcast, Ep. 2
+      record_date: '2026-08-11'
+      record_reference: https://www.youtube.com/watch?v=hz7jHEgYzQw
+      content_hash: sha256:1aa9d864c5a4bb930164c278d9624c6bc0f84278ea4b5e57594fae9e21e90858
+      friendly_name: null
+  - claim_id: 55dca922-79ee-41d3-a2ff-88cf0254b242
+    claim_hash: 8bf64fa5b2640a5c669ef1bbdc62468354f1ea5435bbb7c8a2304ff4ebc6c834
+    content: The object James Lacatski saw at Skinwalker Ranch was floating above the floor at about the height of a sink
+      countertop.
+    original_excerpt: And what he saw floating above the floor, about sink countertop high,
+    claim_type: hearsay
+    attestation: second_hand
+    speaker:
+      node_id: 0d4dfba6-a53b-4f23-a2ad-e4c9bea44076
+      title: Robert Bigelow
+    provenance_chain:
+      origin_kind: named
+      origin: James Lacatski
+      relay:
+        - Robert Bigelow
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 3a865991-eaad-4855-8980-b28dfb98691a
+        title: James Lacatski
+        slug: james-lacatski
+      - node_id: bc4340b4-7aeb-43a4-b47a-53427fc6d7db
+        title: Tubular metal object seen at Skinwalker Ranch
+        slug: tubular-metal-object-seen-at-skinwalker-ranch
+      - node_id: c437bffd-cc66-421a-80a6-a7e106176e0a
+        title: James Lacatski's Skinwalker Ranch kitchen sighting 2008
+        slug: james-lacatskis-skinwalker-ranch-kitchen-sighting-2008
+    date: null
+    date_end: null
+    location_in_record: 00:56:13.0-00:56:18.6
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 5de4e296-4206-45f6-aa56-c3b8efb5c9e2
+      record_title: The Evolution of AAWSAP | Bigelow Podcast, Ep. 2
+      record_date: '2026-08-11'
+      record_reference: https://www.youtube.com/watch?v=hz7jHEgYzQw
+      content_hash: sha256:1aa9d864c5a4bb930164c278d9624c6bc0f84278ea4b5e57594fae9e21e90858
+      friendly_name: null
+  - claim_id: ff24cde3-3de4-4d53-a044-47876e905793
+    claim_hash: 06b04b0b127964ab3bb76639275ff00ae7e2ba920c6e65d653747adaeaa8a1d6
+    content: According to what James Lacatski described to Robert Bigelow, the object he saw at Skinwalker Ranch was metal-looking
+      and tubular, resembling the imagery of the album Tubular Bells.
+    original_excerpt: was a metal-looking object that was tubular. like in the music album, Tubular Bells.
+    claim_type: hearsay
+    attestation: second_hand
+    speaker:
+      node_id: 0d4dfba6-a53b-4f23-a2ad-e4c9bea44076
+      title: Robert Bigelow
+    provenance_chain:
+      origin_kind: named
+      origin: James Lacatski
+      relay:
+        - Robert Bigelow
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 308f34b4-6251-45c8-9257-e74b6b50b805
+        title: Tubular Bells
+        slug: tubular-bells
+      - node_id: 3a865991-eaad-4855-8980-b28dfb98691a
+        title: James Lacatski
+        slug: james-lacatski
+      - node_id: bc4340b4-7aeb-43a4-b47a-53427fc6d7db
+        title: Tubular metal object seen at Skinwalker Ranch
+        slug: tubular-metal-object-seen-at-skinwalker-ranch
+      - node_id: c437bffd-cc66-421a-80a6-a7e106176e0a
+        title: James Lacatski's Skinwalker Ranch kitchen sighting 2008
+        slug: james-lacatskis-skinwalker-ranch-kitchen-sighting-2008
+    date: null
+    date_end: null
+    location_in_record: 00:56:20.2-00:56:27.2
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 5de4e296-4206-45f6-aa56-c3b8efb5c9e2
+      record_title: The Evolution of AAWSAP | Bigelow Podcast, Ep. 2
+      record_date: '2026-08-11'
+      record_reference: https://www.youtube.com/watch?v=hz7jHEgYzQw
+      content_hash: sha256:1aa9d864c5a4bb930164c278d9624c6bc0f84278ea4b5e57594fae9e21e90858
+      friendly_name: null
+  - claim_id: 777b999c-1fbc-4314-a5e2-629005e8c1f7
+    claim_hash: a45bb616bddd9f66771a4c952b55cba9d64130f69a06f9f5d96d80f0ef2b35ae
+    content: James Lacatski said nothing about the sighting while at Skinwalker Ranch and only raised it on the return flight,
+      asking Robert Bigelow whether he had seen anything.
+    original_excerpt: but on the flight back, and he said, did you, on the flight, he said, did you see anything? I said,
+      no.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 0d4dfba6-a53b-4f23-a2ad-e4c9bea44076
+      title: Robert Bigelow
+    provenance_chain:
+      origin_kind: speaker
+      origin: Robert Bigelow
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 0d4dfba6-a53b-4f23-a2ad-e4c9bea44076
+        title: Robert Bigelow
+        slug: robert-bigelow
+      - node_id: 3a865991-eaad-4855-8980-b28dfb98691a
+        title: James Lacatski
+        slug: james-lacatski
+      - node_id: c437bffd-cc66-421a-80a6-a7e106176e0a
+        title: James Lacatski's Skinwalker Ranch kitchen sighting 2008
+        slug: james-lacatskis-skinwalker-ranch-kitchen-sighting-2008
+    date: null
+    date_end: null
+    location_in_record: 00:56:38.9-00:56:45.0
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 5de4e296-4206-45f6-aa56-c3b8efb5c9e2
+      record_title: The Evolution of AAWSAP | Bigelow Podcast, Ep. 2
+      record_date: '2026-08-11'
+      record_reference: https://www.youtube.com/watch?v=hz7jHEgYzQw
+      content_hash: sha256:1aa9d864c5a4bb930164c278d9624c6bc0f84278ea4b5e57594fae9e21e90858
+      friendly_name: null
+  - claim_id: f7c45851-56f9-4294-85c0-e1069633889c
+    claim_hash: b3e456db627ce911aeace39d3bc39739c4c3801c27a6b2b79b70fdf5591ef4cf
+    content: Over a period of time James Lacatski gradually disclosed to Robert Bigelow everything he had seen at Skinwalker
+      Ranch, describing it in as much detail as he could.
+    original_excerpt: so over a period of time he loosened up more and more and more and finally divulged everything about
+      what he saw and described it in detail as much as he could.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 0d4dfba6-a53b-4f23-a2ad-e4c9bea44076
+      title: Robert Bigelow
+    provenance_chain:
+      origin_kind: speaker
+      origin: Robert Bigelow
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 0d4dfba6-a53b-4f23-a2ad-e4c9bea44076
+        title: Robert Bigelow
+        slug: robert-bigelow
+      - node_id: 3a865991-eaad-4855-8980-b28dfb98691a
+        title: James Lacatski
+        slug: james-lacatski
+      - node_id: c437bffd-cc66-421a-80a6-a7e106176e0a
+        title: James Lacatski's Skinwalker Ranch kitchen sighting 2008
+        slug: james-lacatskis-skinwalker-ranch-kitchen-sighting-2008
+    date: null
+    date_end: null
+    location_in_record: 00:57:01.0-00:57:13.4
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 5de4e296-4206-45f6-aa56-c3b8efb5c9e2
+      record_title: The Evolution of AAWSAP | Bigelow Podcast, Ep. 2
+      record_date: '2026-08-11'
+      record_reference: https://www.youtube.com/watch?v=hz7jHEgYzQw
+      content_hash: sha256:1aa9d864c5a4bb930164c278d9624c6bc0f84278ea4b5e57594fae9e21e90858
+      friendly_name: null
+  - claim_id: 9652a18b-18f0-43db-9cce-56ebf1493216
+    claim_hash: b4dcb20a6e07bb987a2f824465dc8252b817347ded7a6ea2e895e8422dd5fb62
+    content: Robert Bigelow considers the display James Lacatski witnessed at Skinwalker Ranch to have been customised for
+      him.
+    original_excerpt: So it really sunk into him and it was customized.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 0d4dfba6-a53b-4f23-a2ad-e4c9bea44076
+      title: Robert Bigelow
+    provenance_chain:
+      origin_kind: speaker
+      origin: Robert Bigelow
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 0d4dfba6-a53b-4f23-a2ad-e4c9bea44076
+        title: Robert Bigelow
+        slug: robert-bigelow
+      - node_id: 3a865991-eaad-4855-8980-b28dfb98691a
+        title: James Lacatski
+        slug: james-lacatski
+      - node_id: c437bffd-cc66-421a-80a6-a7e106176e0a
+        title: James Lacatski's Skinwalker Ranch kitchen sighting 2008
+        slug: james-lacatskis-skinwalker-ranch-kitchen-sighting-2008
+    date: null
+    date_end: null
+    location_in_record: 00:57:55.1-00:57:57.6
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 5de4e296-4206-45f6-aa56-c3b8efb5c9e2
+      record_title: The Evolution of AAWSAP | Bigelow Podcast, Ep. 2
+      record_date: '2026-08-11'
+      record_reference: https://www.youtube.com/watch?v=hz7jHEgYzQw
+      content_hash: sha256:1aa9d864c5a4bb930164c278d9624c6bc0f84278ea4b5e57594fae9e21e90858
+      friendly_name: null
+  - claim_id: 1154a780-4da9-4f8e-bd24-30cb75b90cb0
+    claim_hash: 842b752dbddc41beb103373ce46e241d426ac33196944610cb0ce0cb42718218
+    content: James Lacatski was the first government employee to become an experiencer at Skinwalker Ranch, ahead of the other
+      government personnel who later visited.
+    original_excerpt: he was an experiencer right off the bat as a government employee in addition to all the other people,
+      all the other government people that showed up. And so Jim was the first one.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 0d4dfba6-a53b-4f23-a2ad-e4c9bea44076
+      title: Robert Bigelow
+    provenance_chain:
+      origin_kind: speaker
+      origin: Robert Bigelow
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 3a865991-eaad-4855-8980-b28dfb98691a
+        title: James Lacatski
+        slug: james-lacatski
+      - node_id: d532997b-8a3d-4d47-9fd3-17e736310f75
+        title: USA, Utah, Skinwalker Ranch
+        slug: utah-skinwalker-ranch-usa
+    date: null
+    date_end: null
+    location_in_record: 00:58:02.6-00:58:16.2
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 5de4e296-4206-45f6-aa56-c3b8efb5c9e2
+      record_title: The Evolution of AAWSAP | Bigelow Podcast, Ep. 2
+      record_date: '2026-08-11'
+      record_reference: https://www.youtube.com/watch?v=hz7jHEgYzQw
+      content_hash: sha256:1aa9d864c5a4bb930164c278d9624c6bc0f84278ea4b5e57594fae9e21e90858
+      friendly_name: null
+  - claim_id: cbdd714a-495a-4aa7-b052-80900886b975
+    claim_hash: 918ca566eb57e56953a7e4bd9e55fa7d9671944ae62dcd4004360f4b302e0513
+    content: After his Skinwalker Ranch visit James Lacatski returned to Washington DC, drafted the outline of a programme,
+      described it to Robert Bigelow, who then contacted Harry Reid, leading to the creation of the Advanced Aerospace Weapon
+      System Applications Program (AAWSAP).
+    original_excerpt: And then he goes back to D.C., he designs the outline of a program, he tells it to you, you call Reid,
+      and then AAWSAP is born.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 6712e8fa-3b86-4982-a102-e2d38e0b29d6
+      title: George Knapp
+    provenance_chain:
+      origin_kind: speaker
+      origin: George Knapp
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 0d4dfba6-a53b-4f23-a2ad-e4c9bea44076
+        title: Robert Bigelow
+        slug: robert-bigelow
+      - node_id: 3a865991-eaad-4855-8980-b28dfb98691a
+        title: James Lacatski
+        slug: james-lacatski
+      - node_id: c91974f0-961f-4db8-b7b0-22d4b846e5d5
+        title: Harry Reid
+        slug: harry-reid
+      - node_id: cc6d8585-d896-4fc3-b3a2-28d9a7d153ab
+        title: Advanced Aerospace Weapon System Applications Program (AAWSAP)
+        slug: advanced-aerospace-weapon-system-applications-program-aawsap
+    date: null
+    date_end: null
+    location_in_record: 00:58:24.8-00:58:32.4
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 5de4e296-4206-45f6-aa56-c3b8efb5c9e2
+      record_title: The Evolution of AAWSAP | Bigelow Podcast, Ep. 2
+      record_date: '2026-08-11'
+      record_reference: https://www.youtube.com/watch?v=hz7jHEgYzQw
+      content_hash: sha256:1aa9d864c5a4bb930164c278d9624c6bc0f84278ea4b5e57594fae9e21e90858
+      friendly_name: null
+  - claim_id: b34b9bd9-ab40-4050-be2f-d1d27fe9f854
+    claim_hash: 84660983a6885518419c1f52de8bcf2413d057fdde7bcc6a1c7010208b43aee6
+    content: Robert Bigelow pursued his own approach to gaining unacknowledged special access program (USAP) status, without
+      mentioning it to James Lacatski or anyone else.
+    original_excerpt: So I didn't even mention it to Lacatski or to anybody, but I had my own approach to becoming SAP-ed,
+      to being an unacknowledged special access program.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 0d4dfba6-a53b-4f23-a2ad-e4c9bea44076
+      title: Robert Bigelow
+    provenance_chain:
+      origin_kind: speaker
+      origin: Robert Bigelow
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 0d4dfba6-a53b-4f23-a2ad-e4c9bea44076
+        title: Robert Bigelow
+        slug: robert-bigelow
+      - node_id: 3a865991-eaad-4855-8980-b28dfb98691a
+        title: James Lacatski
+        slug: james-lacatski
+      - node_id: 706d02f7-09d8-4d58-b064-88c79bc6a53d
+        title: Waived Unacknowledged Special Access Programs (WUSAPs)
+        slug: waived-unacknowledged-special-access-programs-wusaps
+    date: null
+    date_end: null
+    location_in_record: 01:00:49.5-01:01:02.3
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 5de4e296-4206-45f6-aa56-c3b8efb5c9e2
+      record_title: The Evolution of AAWSAP | Bigelow Podcast, Ep. 2
+      record_date: '2026-08-11'
+      record_reference: https://www.youtube.com/watch?v=hz7jHEgYzQw
+      content_hash: sha256:1aa9d864c5a4bb930164c278d9624c6bc0f84278ea4b5e57594fae9e21e90858
+      friendly_name: null

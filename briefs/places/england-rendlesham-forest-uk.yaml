@@ -1,0 +1,509 @@
+schema: anomalica/brief/1
+brief_hash: 7a695dbc4cf32cd4779dd3e9dfcf770a7db7d193120c98cbc765aa61f25da630
+page:
+  kind: entity
+  node_id: 7c8cf677-bd98-4fd7-9898-673c2b6115ab
+  node_type: place
+  title: UK, England, Rendlesham Forest
+  slug: england-rendlesham-forest-uk
+  claim_count: 10
+  claim_count_total: 10
+generated:
+  graph_version: '2026-09-01T10:10:49.863545+00:00'
+size:
+  claims: 10
+  tokens_estimated: 3319
+  sized_against: 1050000
+publication:
+  status: published
+  note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
+    transcripts are gated elsewhere.
+belonging:
+  verified: 0
+  suspect_excluded: 0
+  unreviewed: 10
+related_nodes:
+  - node_id: 224e26e2-c488-413d-9693-7726f1481df8
+    title: 1980 Rendlesham Forest incident
+    node_type: event
+    slug: 1980-rendlesham-forest-incident
+    shared_claims: 10
+  - node_id: 814327af-44ac-4970-8062-f3802264a30f
+    title: Charles Halt
+    node_type: person
+    slug: charles-halt
+    shared_claims: 3
+  - node_id: f2a1105b-6bda-47b3-8762-3dc3f97f365c
+    title: UK, England, RAF Woodbridge
+    node_type: place
+    slug: england-raf-woodbridge-uk
+    shared_claims: 3
+  - node_id: 43c5b374-2f2a-4989-a2e7-3589f0094845
+    title: Jim Penniston
+    node_type: person
+    slug: jim-penniston
+    shared_claims: 2
+  - node_id: fcc63288-a1cf-48c4-bce9-ade05691f88d
+    title: John Burroughs
+    node_type: person
+    slug: john-burroughs
+    shared_claims: 2
+  - node_id: 32b98a17-be55-4b0f-8e10-9d377e1e8b33
+    title: United States Air Force (USAF)
+    node_type: organisation
+    slug: united-states-air-force-usaf
+    shared_claims: 2
+  - node_id: 19a3601f-bc98-49bb-8d34-aa41b0e9f4bb
+    title: Cold War
+    node_type: topic
+    slug: cold-war
+    shared_claims: 1
+  - node_id: c09e3558-1732-4676-a218-d67d285d98ef
+    title: David Fravor
+    node_type: person
+    slug: david-fravor
+    shared_claims: 1
+  - node_id: 7e49b5dc-c78b-41c8-849f-5cfaca777b76
+    title: December 29, 1980 Huffman, Texas Unidentified Flying Object (UFO) incident
+    node_type: event
+    slug: 1980-huffman-texas-unidentified-flying-object-ufo-incident-december-29
+    shared_claims: 1
+  - node_id: 2d9cdc5c-bc5e-4cd4-a1e4-ab607047eb71
+    title: Larry Warren
+    node_type: person
+    slug: larry-warren
+    shared_claims: 1
+  - node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+    title: Ross Coulthart
+    node_type: person
+    slug: ross-coulthart
+    shared_claims: 1
+  - node_id: 2993e6e0-6c79-4c60-a1d3-f2f023ea2957
+    title: UK, England, RAF Bentwaters
+    node_type: place
+    slug: england-raf-bentwaters-uk
+    shared_claims: 1
+claims:
+  - claim_id: 2e55bf6c-6d57-47ff-8041-668ed1223926
+    claim_hash: 88ec48abc4f86251c05fa47c7ba8d60c06cd36ad0aad7ea079519208918a0585
+    content: The December 29, 1980 Huffman, Texas UFO incident occurred on the same day and at about the same hour as the
+      December 1980 Rendlesham Forest incident in England.
+    original_excerpt: (Oddly enough, this occurred on the same day and at about the same hour that a spectacular and controversial
+      sighting was taking pace halfway across the world in Rendlesam Forest, England.)
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+      title: Whitley Strieber
+    provenance_chain:
+      origin_kind: speaker
+      origin: Whitley Strieber
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 224e26e2-c488-413d-9693-7726f1481df8
+        title: 1980 Rendlesham Forest incident
+        slug: 1980-rendlesham-forest-incident
+      - node_id: 7c8cf677-bd98-4fd7-9898-673c2b6115ab
+        title: UK, England, Rendlesham Forest
+        slug: england-rendlesham-forest-uk
+      - node_id: 7e49b5dc-c78b-41c8-849f-5cfaca777b76
+        title: December 29, 1980 Huffman, Texas Unidentified Flying Object (UFO) incident
+        slug: 1980-huffman-texas-unidentified-flying-object-ufo-incident-december-29
+    date: '1980-12-29'
+    date_end: null
+    location_in_record: ch14:49413-49592
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: ad152768-183b-4cde-bc60-1520900ceb32
+      record_title: Communion
+      record_date: '2013-06-16'
+      record_reference: null
+      content_hash: sha256:b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4001275f9
+      friendly_name: 2013-06-16-ebook-communion
+  - claim_id: 66f4e374-4358-4848-b051-b2059e92750b
+    claim_hash: b649308043c0394a0820b567f24d0e721223fd155111fdb87990f1dd7ac11cf0
+    content: During the 1980 Rendlesham Forest incident, United States military personnel who witnessed the event received
+      radiation burns.
+    original_excerpt: what is it, Rameshon Forest in England, the U.S. guys that saw stuff and actually got radiation burns.
+    claim_type: hearsay
+    attestation: null
+    speaker:
+      node_id: c09e3558-1732-4676-a218-d67d285d98ef
+      title: David Fravor
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 224e26e2-c488-413d-9693-7726f1481df8
+        title: 1980 Rendlesham Forest incident
+        slug: 1980-rendlesham-forest-incident
+      - node_id: 32b98a17-be55-4b0f-8e10-9d377e1e8b33
+        title: United States Air Force (USAF)
+        slug: united-states-air-force-usaf
+      - node_id: 7c8cf677-bd98-4fd7-9898-673c2b6115ab
+        title: UK, England, Rendlesham Forest
+        slug: england-rendlesham-forest-uk
+      - node_id: c09e3558-1732-4676-a218-d67d285d98ef
+        title: David Fravor
+        slug: david-fravor
+    date: null
+    date_end: null
+    location_in_record: 03:26:03.6-03:26:08.9
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 0157e540-a945-4b2a-acdf-6c449172dcd6
+      record_title: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering | Lex Fridman Podcast #122'
+      record_date: '2020-09-08'
+      record_reference: https://www.youtube.com/watch?v=aB8zcAttP1E
+      content_hash: sha256:135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19fd6afb8a
+      friendly_name: 2020-09-08-video-david-fravor-ufos-aliens-fighter-jets-and-aerospace.v2
+  - claim_id: 95a6a639-6e27-484b-9278-08a422076163
+    claim_hash: 3ca3f5422341e1e6e15abdcfa4121b2695c4e4924ea00fc1b72225a27b55601b
+    content: On a December morning in 1980, an American military patrol near RAF Woodbridge in Suffolk, England saw lights
+      descending into the adjacent Rendlesham Forest.
+    original_excerpt: On a December morning in 1980, an American military patrol near the British Royal Air Force base RAF
+      Woodbridge in Suffolk, England, saw lights descending into the adjacent Rendlesham Forest.
+    claim_type: observation
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 224e26e2-c488-413d-9693-7726f1481df8
+        title: 1980 Rendlesham Forest incident
+        slug: 1980-rendlesham-forest-incident
+      - node_id: 7c8cf677-bd98-4fd7-9898-673c2b6115ab
+        title: UK, England, Rendlesham Forest
+        slug: england-rendlesham-forest-uk
+      - node_id: f2a1105b-6bda-47b3-8762-3dc3f97f365c
+        title: UK, England, RAF Woodbridge
+        slug: england-raf-woodbridge-uk
+    date: 1980-12
+    date_end: null
+    location_in_record: ch12:7342-7526
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: afee89be-47b5-4527-acf6-3bd414fff051
+    claim_hash: 8726cb70c8cda7a01a5844f5c54109f2892c302a41fa43cb722a49ea8710c5f1
+    content: Charles Halt witnessed a hovering UAP in Rendlesham Forest at close range and believed the vehicle was probably
+      extra-terrestrial.
+    original_excerpt: He told me he and his colleagues witnessed a hovering UAP in the forest at close-up range and he believed
+      the vehicle was probably extra-terrestrial.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 814327af-44ac-4970-8062-f3802264a30f
+      title: Charles Halt
+    provenance_chain:
+      origin_kind: speaker
+      origin: Charles Halt
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 224e26e2-c488-413d-9693-7726f1481df8
+        title: 1980 Rendlesham Forest incident
+        slug: 1980-rendlesham-forest-incident
+      - node_id: 7c8cf677-bd98-4fd7-9898-673c2b6115ab
+        title: UK, England, Rendlesham Forest
+        slug: england-rendlesham-forest-uk
+      - node_id: 814327af-44ac-4970-8062-f3802264a30f
+        title: Charles Halt
+        slug: charles-halt
+    date: null
+    date_end: null
+    location_in_record: ch12:8942-9079
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: d048e30a-67a1-4f6a-88d3-4a5c7611b25f
+    claim_hash: 0e9e74c0777d58eacfb0ecab0bbc9c71aa0c2b6a74548a42b28a3982a5470299
+    content: Jim Penniston and John Burroughs claimed they saw a craft land in Rendlesham Forest near the RAF Woodbridge base
+      in Suffolk, England, on 1980-12-26.
+    original_excerpt: Mr Penniston and Airman John Burroughs claimed they saw the craft land in Rendlesham Forest near the
+      RAF Woodridge base in Suffolk, England, on 26 December 1980.
+    claim_type: testimony
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: named
+      origin: Jim Penniston and John Burroughs
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 224e26e2-c488-413d-9693-7726f1481df8
+        title: 1980 Rendlesham Forest incident
+        slug: 1980-rendlesham-forest-incident
+      - node_id: 43c5b374-2f2a-4989-a2e7-3589f0094845
+        title: Jim Penniston
+        slug: jim-penniston
+      - node_id: 7c8cf677-bd98-4fd7-9898-673c2b6115ab
+        title: UK, England, Rendlesham Forest
+        slug: england-rendlesham-forest-uk
+      - node_id: f2a1105b-6bda-47b3-8762-3dc3f97f365c
+        title: UK, England, RAF Woodbridge
+        slug: england-raf-woodbridge-uk
+      - node_id: fcc63288-a1cf-48c4-bce9-ade05691f88d
+        title: John Burroughs
+        slug: john-burroughs
+    date: '1980-12-26'
+    date_end: null
+    location_in_record: ch37:5623-5779
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 489957f8-1f1e-4661-8ba5-ae6a6b70ff8e
+    claim_hash: 140da055db2959f951aae0f2d66de9da1b96f487c09cae8756784e093da04711
+    content: Charles Halt, the deputy base commander at RAF Woodbridge, led a patrol that witnessed what he describes as an
+      'intelligently-controlled' object moving through Rendlesham Forest.
+    original_excerpt: Lieutenant Colonel Charles Halt, the deputy base commander at RAF Woodridge who led a patrol that witnessed
+      what he describes as an 'intelligently-controlled' object moving through Rendlesham Forest.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 814327af-44ac-4970-8062-f3802264a30f
+      title: Charles Halt
+    provenance_chain:
+      origin_kind: speaker
+      origin: Charles Halt
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 224e26e2-c488-413d-9693-7726f1481df8
+        title: 1980 Rendlesham Forest incident
+        slug: 1980-rendlesham-forest-incident
+      - node_id: 7c8cf677-bd98-4fd7-9898-673c2b6115ab
+        title: UK, England, Rendlesham Forest
+        slug: england-rendlesham-forest-uk
+      - node_id: 814327af-44ac-4970-8062-f3802264a30f
+        title: Charles Halt
+        slug: charles-halt
+      - node_id: f2a1105b-6bda-47b3-8762-3dc3f97f365c
+        title: UK, England, RAF Woodbridge
+        slug: england-raf-woodbridge-uk
+    date: null
+    date_end: null
+    location_in_record: ch37:5795-5987
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 3da0d335-124f-469d-bf79-216973759877
+    claim_hash: 3af20350c3d129807e683579f661cdceca1eeafc5f71878e0bde6683313cf020
+    content: In 1980-12, Unidentified Aerial Phenomena (UAP) appeared over a joint UK-US military facility near Rendlesham
+      Forest in Suffolk, England and hovered over an underground bunker where the two allies had secretly stockpiled nuclear
+      weapons.
+    original_excerpt: 'United Kingdom, 1980: UAP appeared out of the night sky over a very sensitive joint UK-US military
+      facility near Rendlesham Forest in Suffolk, England. These UAP hovered specifically over an underground bunker where
+      the two allies had secretly stockpiled nuclear weapons.'
+    claim_type: observation
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 224e26e2-c488-413d-9693-7726f1481df8
+        title: 1980 Rendlesham Forest incident
+        slug: 1980-rendlesham-forest-incident
+      - node_id: 7c8cf677-bd98-4fd7-9898-673c2b6115ab
+        title: UK, England, Rendlesham Forest
+        slug: england-rendlesham-forest-uk
+    date: 1980-12
+    date_end: null
+    location_in_record: ch12:32146-32411
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  - claim_id: d81cc4be-6bc9-487c-834e-f8cb317e3de9
+    claim_hash: 61a67059388181b63569268874a94d43a0a6a4434bd33fff0f0c93f21114fdc8
+    content: During the 1980 Rendlesham Forest incident, security policemen John Burroughs and Jim Penniston found a landed
+      Unidentified Aerial Phenomenon (UAP) in Rendlesham Forest near a joint UK-US military facility in Suffolk, England,
+      where the two allies had stored nuclear weapons in a secret bunker.
+    original_excerpt: Strange lights appeared near a joint UK-US military facility in Suffolk, England, where the two allies
+      had stored nuclear weapons in a secret bunker. Two security policemen, John Burroughs and Jim Penniston, found a landed
+      UAP in nearby Rendlesham Forest.
+    claim_type: observation
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: narration
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 224e26e2-c488-413d-9693-7726f1481df8
+        title: 1980 Rendlesham Forest incident
+        slug: 1980-rendlesham-forest-incident
+      - node_id: 43c5b374-2f2a-4989-a2e7-3589f0094845
+        title: Jim Penniston
+        slug: jim-penniston
+      - node_id: 7c8cf677-bd98-4fd7-9898-673c2b6115ab
+        title: UK, England, Rendlesham Forest
+        slug: england-rendlesham-forest-uk
+      - node_id: fcc63288-a1cf-48c4-bce9-ade05691f88d
+        title: John Burroughs
+        slug: john-burroughs
+    date: 1980-12
+    date_end: null
+    location_in_record: ch18:4677-4925
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  - claim_id: 115b1c46-4c9d-493d-af6b-d0d206a377db
+    claim_hash: 53116393fcef436fbe5708284a039e84587dd5ac8eb6ece86a2ef64e5e0b06e0
+    content: In the 1980 Rendlesham Forest RAF Bentwaters incident a craft allegedly landed in a forest in Suffolk, England,
+      at the location of a highly sensitive nuclear-armed American Air Force base during the Cold War.
+    original_excerpt: a UK sighting where a craft allegedly landed in a forest in Suffolk, England, at the location of a very
+      sensitive nuclear-armed American Air Force base during the Cold War.
+    claim_type: testimony
+    attestation: null
+    speaker:
+      node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+      title: Ross Coulthart
+    provenance_chain:
+      origin_kind: unattributed
+      origin: Ross Coulthart's account of the Rendlesham Forest case
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 19a3601f-bc98-49bb-8d34-aa41b0e9f4bb
+        title: Cold War
+        slug: cold-war
+      - node_id: 224e26e2-c488-413d-9693-7726f1481df8
+        title: 1980 Rendlesham Forest incident
+        slug: 1980-rendlesham-forest-incident
+      - node_id: 2993e6e0-6c79-4c60-a1d3-f2f023ea2957
+        title: UK, England, RAF Bentwaters
+        slug: england-raf-bentwaters-uk
+      - node_id: 32b98a17-be55-4b0f-8e10-9d377e1e8b33
+        title: United States Air Force (USAF)
+        slug: united-states-air-force-usaf
+      - node_id: 7c8cf677-bd98-4fd7-9898-673c2b6115ab
+        title: UK, England, Rendlesham Forest
+        slug: england-rendlesham-forest-uk
+    date: null
+    date_end: null
+    location_in_record: 01:55:54.3-01:56:05.9
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: fd845823-8784-462c-a981-4775525b6f84
+      record_title: The DANGEROUS Truth About UFOs - Ross Coulthart | DEBRIEFED ep. 76
+      record_date: '2026-02-20'
+      record_reference: https://www.youtube.com/watch?v=idBryc0eWww
+      content_hash: sha256:73be106d406f6d35a063a894e8384e7da0918eb8597d2107a9e3653becca2bdc
+      friendly_name: null
+  - claim_id: 9b259c23-96a3-45ef-9911-2c1cf1162a2c
+    claim_hash: ad56487622f95e7323b79b082727b340e53f61b637f9ee8b33fb05a1d420ad23
+    content: 'Ross Coulthart concluded that Charles Halt and Larry Warren were describing two different Rendlesham Forest
+      events: Charles Halt the incident in the forest, and Larry Warren a later event that evening at an open field where
+      witnesses described beings emerging from the craft and film being taken by the United States military, followed by a
+      cover-up.'
+    original_excerpt: Charles Halt was talking about one incident in the forest and he didn't know that Larry had gone later
+      in the evening to another location where there was an open field where another event occurred where a whole lot of people
+      described an event that took place that involved allegedly beings coming out of the craft and some kind of film being
+      taken by the US military on the scene. a whole elaborate cover-up.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+      title: Ross Coulthart
+    provenance_chain:
+      origin_kind: speaker
+      origin: Ross Coulthart
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 224e26e2-c488-413d-9693-7726f1481df8
+        title: 1980 Rendlesham Forest incident
+        slug: 1980-rendlesham-forest-incident
+      - node_id: 2d9cdc5c-bc5e-4cd4-a1e4-ab607047eb71
+        title: Larry Warren
+        slug: larry-warren
+      - node_id: 7c8cf677-bd98-4fd7-9898-673c2b6115ab
+        title: UK, England, Rendlesham Forest
+        slug: england-rendlesham-forest-uk
+      - node_id: 814327af-44ac-4970-8062-f3802264a30f
+        title: Charles Halt
+        slug: charles-halt
+      - node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+        title: Ross Coulthart
+        slug: ross-coulthart
+    date: null
+    date_end: null
+    location_in_record: 01:57:26.4-01:57:55.1
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: fd845823-8784-462c-a981-4775525b6f84
+      record_title: The DANGEROUS Truth About UFOs - Ross Coulthart | DEBRIEFED ep. 76
+      record_date: '2026-02-20'
+      record_reference: https://www.youtube.com/watch?v=idBryc0eWww
+      content_hash: sha256:73be106d406f6d35a063a894e8384e7da0918eb8597d2107a9e3653becca2bdc
+      friendly_name: null

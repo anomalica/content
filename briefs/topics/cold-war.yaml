@@ -1,0 +1,279 @@
+schema: anomalica/brief/1
+brief_hash: 6d770dcd26354c30c6e728a8cd2c115eea24aa2d3758e0da9de5789d8e46237a
+page:
+  kind: entity
+  node_id: 19a3601f-bc98-49bb-8d34-aa41b0e9f4bb
+  node_type: topic
+  title: Cold War
+  slug: cold-war
+  claim_count: 4
+  claim_count_total: 4
+generated:
+  graph_version: '2026-09-01T10:10:49.863545+00:00'
+size:
+  claims: 4
+  tokens_estimated: 1431
+  sized_against: 1050000
+publication:
+  status: published
+  note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
+    transcripts are gated elsewhere.
+belonging:
+  verified: 0
+  suspect_excluded: 0
+  unreviewed: 4
+related_nodes:
+  - node_id: 24d00311-06ac-46a1-a2f5-c99f3f8e21b2
+    title: Chris Ramsay
+    node_type: person
+    slug: chris-ramsay
+    shared_claims: 2
+  - node_id: 224e26e2-c488-413d-9693-7726f1481df8
+    title: 1980 Rendlesham Forest incident
+    node_type: event
+    slug: 1980-rendlesham-forest-incident
+    shared_claims: 1
+  - node_id: 2f7dd04a-6a24-4dee-9f84-e561dbd7b088
+    title: Casablanca (film)
+    node_type: document
+    slug: casablanca-film
+    shared_claims: 1
+  - node_id: 38b84d4a-96df-4684-bb46-f6f64f392add
+    title: Central Intelligence Agency (CIA)
+    node_type: organisation
+    slug: central-intelligence-agency-cia
+    shared_claims: 1
+  - node_id: f52851d1-6388-4961-b21d-d5ef7454c950
+    title: Communism
+    node_type: topic
+    slug: communism
+    shared_claims: 1
+  - node_id: 42a1bffe-5534-4296-b5d9-f8c3811763c7
+    title: Second World War
+    node_type: event
+    slug: second-world-war
+    shared_claims: 1
+  - node_id: 0f8c8f20-472e-4bc0-a87b-1f344e6a9c4f
+    title: Spanish Civil War
+    node_type: event
+    slug: spanish-civil-war
+    shared_claims: 1
+  - node_id: b6b60271-c105-4b1f-89ec-bd02227901d9
+    title: Third Secret of Fatima
+    node_type: document
+    slug: third-secret-of-fatima
+    shared_claims: 1
+  - node_id: 2993e6e0-6c79-4c60-a1d3-f2f023ea2957
+    title: UK, England, RAF Bentwaters
+    node_type: place
+    slug: england-raf-bentwaters-uk
+    shared_claims: 1
+  - node_id: 7c8cf677-bd98-4fd7-9898-673c2b6115ab
+    title: UK, England, Rendlesham Forest
+    node_type: place
+    slug: england-rendlesham-forest-uk
+    shared_claims: 1
+  - node_id: eb3c9b13-54c3-411d-82f4-3ffae9cbaa70
+    title: USA, Vermont
+    node_type: place
+    slug: vermont-usa
+    shared_claims: 1
+  - node_id: 32b98a17-be55-4b0f-8e10-9d377e1e8b33
+    title: United States Air Force (USAF)
+    node_type: organisation
+    slug: united-states-air-force-usaf
+    shared_claims: 1
+  - node_id: dcb95bd1-7593-4fe4-a992-2fc6a05fcb2c
+    title: World War II
+    node_type: event
+    slug: world-war-ii
+    shared_claims: 1
+  - node_id: 82811a97-b71f-47bc-9f99-b06aa75407a5
+    title: predictive programming
+    node_type: topic
+    slug: predictive-programming
+    shared_claims: 1
+claims:
+  - claim_id: e166b584-f125-4968-a39f-6905fb96b1a2
+    claim_hash: a6bbeb913292ba41333803384dbc3a35ba4eaa065b18fb612e32eeaa6af05227
+    content: The Third Secret of Fatima included revelations about disasters of the twentieth century, including communist
+      revolutions, the Spanish Civil War, Nazi terror, World War II, the Cold War, the arms race, the nuclear threat, and
+      the spread of atheism.
+    original_excerpt: They had also been told about the real hell that would happen on earth during the twentieth century—the
+      hell of Communist revolutions and the Spanish Civil War, of the Nazi terror and the Second World War, with the Cold
+      War following it; of the arms race and the nuclear threat, and the spread of atheism.
+    claim_type: observation
+    attestation: first_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: speaker
+      origin: Hesemann, Michael
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 0f8c8f20-472e-4bc0-a87b-1f344e6a9c4f
+        title: Spanish Civil War
+        slug: spanish-civil-war
+      - node_id: 19a3601f-bc98-49bb-8d34-aa41b0e9f4bb
+        title: Cold War
+        slug: cold-war
+      - node_id: b6b60271-c105-4b1f-89ec-bd02227901d9
+        title: Third Secret of Fatima
+        slug: third-secret-of-fatima
+      - node_id: dcb95bd1-7593-4fe4-a992-2fc6a05fcb2c
+        title: World War II
+        slug: world-war-ii
+      - node_id: f52851d1-6388-4961-b21d-d5ef7454c950
+        title: Communism
+        slug: communism
+    date: null
+    date_end: null
+    location_in_record: ch10:8768-9065
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 171e1337-151f-40c5-8b9a-659faac4c5f6
+      record_title: The Fatima Secret
+      record_date: '2000-11-28'
+      record_reference: null
+      content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
+      friendly_name: 2000-11-28-ebook-the-fatima-secret
+  - claim_id: 115b1c46-4c9d-493d-af6b-d0d206a377db
+    claim_hash: 53116393fcef436fbe5708284a039e84587dd5ac8eb6ece86a2ef64e5e0b06e0
+    content: In the 1980 Rendlesham Forest RAF Bentwaters incident a craft allegedly landed in a forest in Suffolk, England,
+      at the location of a highly sensitive nuclear-armed American Air Force base during the Cold War.
+    original_excerpt: a UK sighting where a craft allegedly landed in a forest in Suffolk, England, at the location of a very
+      sensitive nuclear-armed American Air Force base during the Cold War.
+    claim_type: testimony
+    attestation: null
+    speaker:
+      node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+      title: Ross Coulthart
+    provenance_chain:
+      origin_kind: unattributed
+      origin: Ross Coulthart's account of the Rendlesham Forest case
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 19a3601f-bc98-49bb-8d34-aa41b0e9f4bb
+        title: Cold War
+        slug: cold-war
+      - node_id: 224e26e2-c488-413d-9693-7726f1481df8
+        title: 1980 Rendlesham Forest incident
+        slug: 1980-rendlesham-forest-incident
+      - node_id: 2993e6e0-6c79-4c60-a1d3-f2f023ea2957
+        title: UK, England, RAF Bentwaters
+        slug: england-raf-bentwaters-uk
+      - node_id: 32b98a17-be55-4b0f-8e10-9d377e1e8b33
+        title: United States Air Force (USAF)
+        slug: united-states-air-force-usaf
+      - node_id: 7c8cf677-bd98-4fd7-9898-673c2b6115ab
+        title: UK, England, Rendlesham Forest
+        slug: england-rendlesham-forest-uk
+    date: null
+    date_end: null
+    location_in_record: 01:55:54.3-01:56:05.9
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: fd845823-8784-462c-a981-4775525b6f84
+      record_title: The DANGEROUS Truth About UFOs - Ross Coulthart | DEBRIEFED ep. 76
+      record_date: '2026-02-20'
+      record_reference: https://www.youtube.com/watch?v=idBryc0eWww
+      content_hash: sha256:73be106d406f6d35a063a894e8384e7da0918eb8597d2107a9e3653becca2bdc
+      friendly_name: null
+  - claim_id: d716fb1b-4406-409b-8db9-3bd903de49af
+    claim_hash: 413ce26c3d1c5a85eeff4d3e63f678665a6167b35f60e81d7b163756262445e6
+    content: Chris Ramsay considers it openly known that the CIA was involved during and after the Second World War in easing
+      public anxiety about the war and the Cold War by promoting romance films such as Casablanca.
+    original_excerpt: we all know that the CIA was involved during and post-war to sort of attenuate a lot of these stressful
+      feelings that people had at home in regards to the war, the Cold War... Well, give them romance, give them Casablanca
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 24d00311-06ac-46a1-a2f5-c99f3f8e21b2
+      title: Chris Ramsay
+    provenance_chain:
+      origin_kind: speaker
+      origin: Chris Ramsay
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 19a3601f-bc98-49bb-8d34-aa41b0e9f4bb
+        title: Cold War
+        slug: cold-war
+      - node_id: 24d00311-06ac-46a1-a2f5-c99f3f8e21b2
+        title: Chris Ramsay
+        slug: chris-ramsay
+      - node_id: 2f7dd04a-6a24-4dee-9f84-e561dbd7b088
+        title: Casablanca (film)
+        slug: casablanca-film
+      - node_id: 38b84d4a-96df-4684-bb46-f6f64f392add
+        title: Central Intelligence Agency (CIA)
+        slug: central-intelligence-agency-cia
+      - node_id: 42a1bffe-5534-4296-b5d9-f8c3811763c7
+        title: Second World War
+        slug: second-world-war
+      - node_id: 82811a97-b71f-47bc-9f99-b06aa75407a5
+        title: predictive programming
+        slug: predictive-programming
+    date: null
+    date_end: null
+    location_in_record: 02:36:20.4-02:36:33.2
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: fd845823-8784-462c-a981-4775525b6f84
+      record_title: The DANGEROUS Truth About UFOs - Ross Coulthart | DEBRIEFED ep. 76
+      record_date: '2026-02-20'
+      record_reference: https://www.youtube.com/watch?v=idBryc0eWww
+      content_hash: sha256:73be106d406f6d35a063a894e8384e7da0918eb8597d2107a9e3653becca2bdc
+      friendly_name: null
+  - claim_id: e53d05a8-90ff-4400-8924-f89b7f1ae814
+    claim_hash: 20b1a7c9b8eefc151e4bbdf5ada39d36c540be79219653709eba3b1f1dc87d0d
+    content: Chris Ramsay's unsent letter to the Carthusian monastery in Vermont presents him as a researcher, cites rumours
+      that during the Cold War people within certain agencies hired people with monastic ties to aid their operations, and
+      offers the monk a chance to set the record straight.
+    original_excerpt: that I'm a researcher and that there were rumors circulating that during the Cold War era that some
+      people within certain agencies would have hired people with monistic ties to sort of aid in some of their operations
+      ... I wanted to give you a chance to set the record straight
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 24d00311-06ac-46a1-a2f5-c99f3f8e21b2
+      title: Chris Ramsay
+    provenance_chain:
+      origin_kind: speaker
+      origin: Chris Ramsay
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 19a3601f-bc98-49bb-8d34-aa41b0e9f4bb
+        title: Cold War
+        slug: cold-war
+      - node_id: 24d00311-06ac-46a1-a2f5-c99f3f8e21b2
+        title: Chris Ramsay
+        slug: chris-ramsay
+      - node_id: eb3c9b13-54c3-411d-82f4-3ffae9cbaa70
+        title: USA, Vermont
+        slug: vermont-usa
+    date: null
+    date_end: null
+    location_in_record: 01:16:40.9-01:17:11.3
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: dc9d8bc8-9c1f-46b4-9b89-8d86b6b08e1d
+      record_title: Jesse Michels, UAPGerb & Chris Ramsay - Flying Saucer Diner
+      record_date: '2026-07-17'
+      record_reference: https://www.youtube.com/watch?v=HFLBDi87888
+      content_hash: sha256:7b2e272d7c82fdda745ee0354d7c9cc4b0d5ba5506015ca27edd9169a768b262
+      friendly_name: null

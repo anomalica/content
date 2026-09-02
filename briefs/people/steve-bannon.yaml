@@ -1,0 +1,224 @@
+schema: anomalica/brief/1
+brief_hash: 985c2a81ad5674d272a7cdb005e4ad275dd7609f527620fb558ba2ea4549f38d
+page:
+  kind: entity
+  node_id: 25b424e6-dc71-4394-b364-20668adc6d28
+  node_type: person
+  title: Steve Bannon
+  slug: steve-bannon
+  claim_count: 4
+  claim_count_total: 4
+generated:
+  graph_version: '2026-09-01T10:10:49.863545+00:00'
+size:
+  claims: 4
+  tokens_estimated: 1192
+  sized_against: 1050000
+publication:
+  status: published
+  note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
+    transcripts are gated elsewhere.
+belonging:
+  verified: 0
+  suspect_excluded: 0
+  unreviewed: 4
+related_nodes:
+  - node_id: 2ac310ed-0be4-43bd-a103-64143b4d20a8
+    title: Jeffrey Epstein
+    node_type: person
+    slug: jeffrey-epstein
+    shared_claims: 3
+  - node_id: b65ca672-cb9e-4a57-a0fb-56ede7e118a4
+    title: Los Alamos National Laboratory
+    node_type: organisation
+    slug: los-alamos-national-laboratory
+    shared_claims: 2
+  - node_id: eb22a102-29d0-46a3-b27d-a49639b9b86f
+    title: USA, New Mexico, Zorro Ranch
+    node_type: place
+    slug: new-mexico-zorro-ranch-usa
+    shared_claims: 2
+  - node_id: 816c219b-6372-49f6-9579-5eeabb9a7474
+    title: Donald Trump
+    node_type: person
+    slug: donald-trump
+    shared_claims: 1
+  - node_id: 079d4381-4273-418b-bc9a-468623f95c6e
+    title: Jesse Mitchells
+    node_type: person
+    slug: jesse-mitchells
+    shared_claims: 1
+  - node_id: 99b62ee0-a336-4919-9804-070632a0e1a3
+    title: USA, New Mexico, Los Alamos
+    node_type: place
+    slug: new-mexico-los-alamos-usa
+    shared_claims: 1
+claims:
+  - claim_id: de69b098-63b7-4799-8628-0a54ce2fcaea
+    claim_hash: 3ae7b7004c499a5f82d6973d96a5f1453007db43a679c1a8a83c5b571e93c83e
+    content: Jeffrey Epstein set up Zorro Ranch in New Mexico in order to be near retiring Los Alamos National Laboratory
+      physicists, according to Jesse Michels's account of Epstein's messages to Steve Bannon.
+    original_excerpt: he says tells Bannon that he's you know decides to set up Zorro Ranch because Los Alamos physicists
+      are retiring uh you know in New Mexico and so he wants to be you know have proximity to them
+    claim_type: hearsay
+    attestation: third_hand
+    speaker:
+      node_id: 079d4381-4273-418b-bc9a-468623f95c6e
+      title: Jesse Mitchells
+    provenance_chain:
+      origin_kind: named
+      origin: Jeffrey Epstein
+      relay:
+        - emails/messages to Steve Bannon reported in media
+        - Jesse Michels
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 25b424e6-dc71-4394-b364-20668adc6d28
+        title: Steve Bannon
+        slug: steve-bannon
+      - node_id: 2ac310ed-0be4-43bd-a103-64143b4d20a8
+        title: Jeffrey Epstein
+        slug: jeffrey-epstein
+      - node_id: b65ca672-cb9e-4a57-a0fb-56ede7e118a4
+        title: Los Alamos National Laboratory
+        slug: los-alamos-national-laboratory
+      - node_id: eb22a102-29d0-46a3-b27d-a49639b9b86f
+        title: USA, New Mexico, Zorro Ranch
+        slug: new-mexico-zorro-ranch-usa
+    date: null
+    date_end: null
+    location_in_record: 01:46:33.3-01:46:44.6
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 64b84f95-238c-4ab7-a678-bee55f985b14
+      record_title: The UFO Cover-Up Leads to One Secret Society — and One Final Event
+      record_date: '2026-07-14'
+      record_reference: https://www.youtube.com/watch?v=kccrkCGGzX4
+      content_hash: sha256:d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7b5a1b98d
+      friendly_name: null
+  - claim_id: 7d4c4934-bf61-4787-9f7c-27254c160b4e
+    claim_hash: 07b0f9c28fdd44eb4b57038ffea163f5deda51fe36823733aa44a36031c0439c
+    content: Jeffrey Epstein recorded hours of conversation with Steve Bannon.
+    original_excerpt: So Epstein has like hours recorded with this guy, Steve Bannon
+    claim_type: administrative
+    attestation: null
+    speaker:
+      node_id: 079d4381-4273-418b-bc9a-468623f95c6e
+      title: Jesse Mitchells
+    provenance_chain:
+      origin_kind: unattributed
+      origin: narration by Jesse Michels
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 25b424e6-dc71-4394-b364-20668adc6d28
+        title: Steve Bannon
+        slug: steve-bannon
+      - node_id: 2ac310ed-0be4-43bd-a103-64143b4d20a8
+        title: Jeffrey Epstein
+        slug: jeffrey-epstein
+    date: null
+    date_end: null
+    location_in_record: 00:45:14.2-00:45:19.1
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: dc9d8bc8-9c1f-46b4-9b89-8d86b6b08e1d
+      record_title: Jesse Michels, UAPGerb & Chris Ramsay - Flying Saucer Diner
+      record_date: '2026-07-17'
+      record_reference: https://www.youtube.com/watch?v=HFLBDi87888
+      content_hash: sha256:7b2e272d7c82fdda745ee0354d7c9cc4b0d5ba5506015ca27edd9169a768b262
+      friendly_name: null
+  - claim_id: 9d986703-ecfd-4f2a-94f5-616547dc4a5f
+    claim_hash: 70be266d159dedac1100ba7d8e391fe312af58e6a93bdc31af8b220eca4c6c37
+    content: Jesse Michels regards Steve Bannon as probably an intelligence operative himself, and describes him as a Donald
+      Trump operative from the 2016 era.
+    original_excerpt: So Epstein has like hours recorded with this guy, Steve Bannon, who's probably a spook himself... Trump's
+      guy operative from the 20, from 2016 era.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 079d4381-4273-418b-bc9a-468623f95c6e
+      title: Jesse Mitchells
+    provenance_chain:
+      origin_kind: speaker
+      origin: Jesse Michels
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 079d4381-4273-418b-bc9a-468623f95c6e
+        title: Jesse Mitchells
+        slug: jesse-mitchells
+      - node_id: 25b424e6-dc71-4394-b364-20668adc6d28
+        title: Steve Bannon
+        slug: steve-bannon
+      - node_id: 816c219b-6372-49f6-9579-5eeabb9a7474
+        title: Donald Trump
+        slug: donald-trump
+    date: null
+    date_end: null
+    location_in_record: 00:45:14.2-00:45:22.9
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: dc9d8bc8-9c1f-46b4-9b89-8d86b6b08e1d
+      record_title: Jesse Michels, UAPGerb & Chris Ramsay - Flying Saucer Diner
+      record_date: '2026-07-17'
+      record_reference: https://www.youtube.com/watch?v=HFLBDi87888
+      content_hash: sha256:7b2e272d7c82fdda745ee0354d7c9cc4b0d5ba5506015ca27edd9169a768b262
+      friendly_name: null
+  - claim_id: c40263b5-5b12-4e1a-9035-44319ff9f5bd
+    claim_hash: 0f7ae78933bed4c2c3f1d54822655acfac1b1c234aa14ac3678dc912f8892980
+    content: In a recorded conversation with Steve Bannon, Jeffrey Epstein explained that he sited Zorro Ranch where he did
+      in New Mexico because retired Los Alamos physicists were in the proximity and he wanted to have conversations with them.
+    original_excerpt: They're talking and he goes, why'd you, you know, put Zorro Ranch where it is in New Mexico? And he
+      starts going on about retired Los Alamos physicists being in the proximity and him wanting to have conversations with
+      these guys.
+    claim_type: hearsay
+    attestation: second_hand
+    speaker:
+      node_id: 079d4381-4273-418b-bc9a-468623f95c6e
+      title: Jesse Mitchells
+    provenance_chain:
+      origin_kind: named
+      origin: Jeffrey Epstein, in a recording with Steve Bannon
+      relay:
+        - Jesse Michels
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 25b424e6-dc71-4394-b364-20668adc6d28
+        title: Steve Bannon
+        slug: steve-bannon
+      - node_id: 2ac310ed-0be4-43bd-a103-64143b4d20a8
+        title: Jeffrey Epstein
+        slug: jeffrey-epstein
+      - node_id: 99b62ee0-a336-4919-9804-070632a0e1a3
+        title: USA, New Mexico, Los Alamos
+        slug: new-mexico-los-alamos-usa
+      - node_id: b65ca672-cb9e-4a57-a0fb-56ede7e118a4
+        title: Los Alamos National Laboratory
+        slug: los-alamos-national-laboratory
+      - node_id: eb22a102-29d0-46a3-b27d-a49639b9b86f
+        title: USA, New Mexico, Zorro Ranch
+        slug: new-mexico-zorro-ranch-usa
+    date: null
+    date_end: null
+    location_in_record: 00:45:28.5-00:45:43.4
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: dc9d8bc8-9c1f-46b4-9b89-8d86b6b08e1d
+      record_title: Jesse Michels, UAPGerb & Chris Ramsay - Flying Saucer Diner
+      record_date: '2026-07-17'
+      record_reference: https://www.youtube.com/watch?v=HFLBDi87888
+      content_hash: sha256:7b2e272d7c82fdda745ee0354d7c9cc4b0d5ba5506015ca27edd9169a768b262
+      friendly_name: null

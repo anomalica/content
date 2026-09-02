@@ -1,0 +1,1390 @@
+schema: anomalica/brief/1
+brief_hash: f401d23e0afe9cb6e79a25c415d60a68621751dfbfdca3302d42fe3c175ee312
+page:
+  kind: entity
+  node_id: 78ca02a3-3c5f-4295-9c7b-3d547643603f
+  node_type: person
+  title: UAP Gerb
+  slug: uap-gerb
+  claim_count: 36
+  claim_count_total: 36
+generated:
+  graph_version: '2026-09-01T10:10:49.863545+00:00'
+size:
+  claims: 36
+  tokens_estimated: 11011
+  sized_against: 1050000
+publication:
+  status: published
+  note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
+    transcripts are gated elsewhere.
+belonging:
+  verified: 0
+  suspect_excluded: 0
+  unreviewed: 36
+related_nodes:
+  - node_id: 67b73a04-8bdf-43f7-8853-c21492336ef9
+    title: Federally Funded Research and Development Center (FFRDC)
+    node_type: topic
+    slug: federally-funded-research-and-development-center-ffrdc
+    shared_claims: 1
+  - node_id: ff0a86b8-8f3c-4291-94ed-c6d303875ce8
+    title: Jason Samosa
+    node_type: person
+    slug: jason-samosa
+    shared_claims: 1
+  - node_id: 44c2be53-a004-4eff-9d02-05e6f12fe2fc
+    title: MIT Lincoln Laboratory
+    node_type: organisation
+    slug: mit-lincoln-laboratory
+    shared_claims: 1
+  - node_id: 7fa3fec0-3ba0-4dc7-9779-8ed56b3bbeb5
+    title: MITRE Corporation
+    node_type: organisation
+    slug: mitre-corporation
+    shared_claims: 1
+  - node_id: a07cf4c0-e71e-48d1-afcb-ffddb14de10a
+    title: Psychological operations (psyop)
+    node_type: topic
+    slug: psychological-operations-psyop-a07cf4c0
+    shared_claims: 1
+  - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
+    title: Unidentified Flying Object (UFO)
+    node_type: topic
+    slug: unidentified-flying-object-ufo
+    shared_claims: 1
+  - node_id: 09527e2e-b76c-4293-a9ce-a2b531b038e6
+    title: United States Department of Energy (DOE)
+    node_type: organisation
+    slug: united-states-department-of-energy-doe
+    shared_claims: 1
+claims:
+  - claim_id: b2f8e5a8-6fa3-4545-b809-778f6ed2e0d5
+    claim_hash: 230c0bf6c10edf8210d3aaa6232c2a1a76a98b093c82678ed5bb322bbc6f2dc2
+    content: UAP Gerb has led multiple letters to various Federally Funded Research and Development Centers (FFRDCs).
+    original_excerpt: And Congressman, you have led multiple letters to various FFRDCs.
+    claim_type: administrative
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: named
+      origin: UAP Gerb
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 67b73a04-8bdf-43f7-8853-c21492336ef9
+        title: Federally Funded Research and Development Center (FFRDC)
+        slug: federally-funded-research-and-development-center-ffrdc
+      - node_id: 78ca02a3-3c5f-4295-9c7b-3d547643603f
+        title: UAP Gerb
+        slug: uap-gerb
+    date: null
+    date_end: null
+    location_in_record: 00:06:36.8-00:06:40.3
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 8c1d10dd-26ad-481a-9699-761ecf181743
+      record_title: 'Episode 73: Science vs. Secrecy'
+      record_date: '2026-06-30'
+      record_reference: https://www.youtube.com/watch?v=tZHuAZpLdFw
+      content_hash: sha256:ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230a948eb3d
+      friendly_name: null
+  - claim_id: e883e5c7-6cf9-4be4-9d96-4b5897a88054
+    claim_hash: 1aa3e9ba8ecba2289520f01859607d232cf3a4d7be133d44e396ae9a18078caa
+    content: UAP Gerb considers that legal interrogatives sent to the MITRE Corporation, MIT Lincoln Laboratory, and cabinet-level
+      agencies and services are more effective in pursuit of Unidentified Aerial Phenomena (UAP) disclosure than the released
+      document files and videos.
+    original_excerpt: I think the legal interrogatives sent to the MITRE Corporation, MIT Lincoln Labs, cabinet level agencies
+      and services are far more effective in pursuit of disclosure.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 78ca02a3-3c5f-4295-9c7b-3d547643603f
+      title: UAP Gerb
+    provenance_chain:
+      origin_kind: speaker
+      origin: UAP Gerb
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 44c2be53-a004-4eff-9d02-05e6f12fe2fc
+        title: MIT Lincoln Laboratory
+        slug: mit-lincoln-laboratory
+      - node_id: 78ca02a3-3c5f-4295-9c7b-3d547643603f
+        title: UAP Gerb
+        slug: uap-gerb
+      - node_id: 7fa3fec0-3ba0-4dc7-9779-8ed56b3bbeb5
+        title: MITRE Corporation
+        slug: mitre-corporation
+    date: null
+    date_end: null
+    location_in_record: 00:07:05.7-00:07:14.8
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 8c1d10dd-26ad-481a-9699-761ecf181743
+      record_title: 'Episode 73: Science vs. Secrecy'
+      record_date: '2026-06-30'
+      record_reference: https://www.youtube.com/watch?v=tZHuAZpLdFw
+      content_hash: sha256:ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230a948eb3d
+      friendly_name: null
+  - claim_id: ef1bb1a7-30d3-43d9-9a09-0a916051fc3d
+    claim_hash: b7f8e6f4f7f2403a6cdf8402130277f249781a674855c2045fc286d46360624d
+    content: UAP Gerb considers that legal interrogatives are likely leading to a domino effect of discovering other Unidentified
+      Aerial Phenomena (UAP) records and materials held by other private and semi-private companies.
+    original_excerpt: as we've kind of seen of late, these interrogatives are likely leading to a domino effect of discovering
+      other records, other materials within other private companies, semi-private companies.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 78ca02a3-3c5f-4295-9c7b-3d547643603f
+      title: UAP Gerb
+    provenance_chain:
+      origin_kind: speaker
+      origin: UAP Gerb
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 78ca02a3-3c5f-4295-9c7b-3d547643603f
+        title: UAP Gerb
+        slug: uap-gerb
+    date: null
+    date_end: null
+    location_in_record: 00:07:16.1-00:07:26.5
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 8c1d10dd-26ad-481a-9699-761ecf181743
+      record_title: 'Episode 73: Science vs. Secrecy'
+      record_date: '2026-06-30'
+      record_reference: https://www.youtube.com/watch?v=tZHuAZpLdFw
+      content_hash: sha256:ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230a948eb3d
+      friendly_name: null
+  - claim_id: 4effa719-7b2a-4c7e-b7d2-20e3975187aa
+    claim_hash: aafc4cc8aaa4d4e4c26cb64d6073a7cf9be1947fcad468a895f275a9b96a0030
+    content: UAP Gerb expects to run into difficulty obtaining Unidentified Aerial Phenomena (UAP) related records held by
+      the United States Department of Energy.
+    original_excerpt: we're probably going to run into some trouble with Department of Energy held records.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 78ca02a3-3c5f-4295-9c7b-3d547643603f
+      title: UAP Gerb
+    provenance_chain:
+      origin_kind: speaker
+      origin: UAP Gerb
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 09527e2e-b76c-4293-a9ce-a2b531b038e6
+        title: United States Department of Energy (DOE)
+        slug: united-states-department-of-energy-doe
+      - node_id: 78ca02a3-3c5f-4295-9c7b-3d547643603f
+        title: UAP Gerb
+        slug: uap-gerb
+    date: null
+    date_end: null
+    location_in_record: 00:07:37.5-00:07:41.3
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 8c1d10dd-26ad-481a-9699-761ecf181743
+      record_title: 'Episode 73: Science vs. Secrecy'
+      record_date: '2026-06-30'
+      record_reference: https://www.youtube.com/watch?v=tZHuAZpLdFw
+      content_hash: sha256:ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230a948eb3d
+      friendly_name: null
+  - claim_id: bd58ea65-f128-4f78-a4b5-215206213f26
+    claim_hash: d3978ce2cb71d518242c37d1cca027345bf397542aecf40ae7d351398a35c09a
+    content: At the UAPDF event, Hal Puthoff stated that if he revealed everything he knew about the subject of Unidentified
+      Aerial Phenomena (UAP), he would go to jail.
+    original_excerpt: today at the UAPDF event, you stated if you revealed everything you knew about the subject, you would
+      go to jail.
+    claim_type: testimony
+    attestation: second_hand
+    speaker:
+      node_id: 78ca02a3-3c5f-4295-9c7b-3d547643603f
+      title: UAP Gerb
+    provenance_chain:
+      origin_kind: named
+      origin: Hal Puthoff
+      relay:
+        - UAP Gerb, relaying what Hal Puthoff said at the UAPDF event
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 6dcdfe60-bc2f-4be2-a041-9957a82f371e
+        title: Harold E. Puthoff
+        slug: harold-e-puthoff
+    date: null
+    date_end: null
+    location_in_record: 00:08:10.9-00:08:16.0
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 8c1d10dd-26ad-481a-9699-761ecf181743
+      record_title: 'Episode 73: Science vs. Secrecy'
+      record_date: '2026-06-30'
+      record_reference: https://www.youtube.com/watch?v=tZHuAZpLdFw
+      content_hash: sha256:ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230a948eb3d
+      friendly_name: null
+  - claim_id: 1751f734-44ca-47b2-894e-d6ec10f898a6
+    claim_hash: c66cf0bddb82a53e057341a1c99ba70323ddf03911e6d65a8fd481cd40d3dda2
+    content: The United States Department of Energy is subject to a statutory-authority classification system that is different
+      from the standard executive-order-based classification system used by the United States Department of Defense (DoD).
+    original_excerpt: the Department of Energy would be a really good place to hide exotic materials, anomalous materials
+      because of the statutory authority that the Department of Energy is subject to, which is completely different than the
+      standard executive order based classification system that exists within the DoD?
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 78ca02a3-3c5f-4295-9c7b-3d547643603f
+      title: UAP Gerb
+    provenance_chain:
+      origin_kind: speaker
+      origin: UAP Gerb
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 09527e2e-b76c-4293-a9ce-a2b531b038e6
+        title: United States Department of Energy (DOE)
+        slug: united-states-department-of-energy-doe
+      - node_id: 99f08514-5471-4eaf-bce3-46c474a8d304
+        title: United States Department of Defense (DoD)
+        slug: united-states-department-of-defense-dod
+    date: null
+    date_end: null
+    location_in_record: 00:08:34.0-00:08:50.0
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 8c1d10dd-26ad-481a-9699-761ecf181743
+      record_title: 'Episode 73: Science vs. Secrecy'
+      record_date: '2026-06-30'
+      record_reference: https://www.youtube.com/watch?v=tZHuAZpLdFw
+      content_hash: sha256:ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230a948eb3d
+      friendly_name: null
+  - claim_id: 9f3c6f9b-31b6-412b-bf81-fe4a32b3165c
+    claim_hash: 651d514a15a33f2701e499aebbf8d2e6a7b0783e409db88fdcfc978f28a3c7c0
+    content: Kona Blue was a Department of Homeland Security Prospective Special Access Program (SAP) material transfer effort.
+    original_excerpt: You're talking about the Kona Blue, Department of Homeland Security Prospective Special Access Material
+      Transfer, correct?
+    claim_type: administrative
+    attestation: first_hand
+    speaker:
+      node_id: 78ca02a3-3c5f-4295-9c7b-3d547643603f
+      title: UAP Gerb
+    provenance_chain:
+      origin_kind: speaker
+      origin: UAP Gerb
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 502c7c1d-c898-4ec2-998e-4954e00b6437
+        title: Department of Homeland Security (DHS)
+        slug: department-of-homeland-security-dhs
+    date: null
+    date_end: null
+    location_in_record: 00:12:33.9-00:12:39.2
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 8c1d10dd-26ad-481a-9699-761ecf181743
+      record_title: 'Episode 73: Science vs. Secrecy'
+      record_date: '2026-06-30'
+      record_reference: https://www.youtube.com/watch?v=tZHuAZpLdFw
+      content_hash: sha256:ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230a948eb3d
+      friendly_name: null
+  - claim_id: 21cd8e31-9e61-4a9b-b467-bf048283d04e
+    claim_hash: 26883d42eab8778ed57abd93c831aa4e3592f7b199565ffbe5286f4506b061ed
+    content: There were several attempts to divest materials to the Advanced Aerospace Weapon System Applications Program
+      (AAWSAP) or to Bigelow Aerospace.
+    original_excerpt: There were several attempts to divest materials to the AAWSAP or to BAS?
+    claim_type: administrative
+    attestation: first_hand
+    speaker:
+      node_id: 78ca02a3-3c5f-4295-9c7b-3d547643603f
+      title: UAP Gerb
+    provenance_chain:
+      origin_kind: speaker
+      origin: UAP Gerb
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 1cc93fc2-f71a-4f59-90e3-dd72c98943db
+        title: Bigelow Aerospace
+        slug: bigelow-aerospace
+      - node_id: cc6d8585-d896-4fc3-b3a2-28d9a7d153ab
+        title: Advanced Aerospace Weapon System Applications Program (AAWSAP)
+        slug: advanced-aerospace-weapon-system-applications-program-aawsap
+    date: null
+    date_end: null
+    location_in_record: 00:12:52.7-00:12:57.2
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 8c1d10dd-26ad-481a-9699-761ecf181743
+      record_title: 'Episode 73: Science vs. Secrecy'
+      record_date: '2026-06-30'
+      record_reference: https://www.youtube.com/watch?v=tZHuAZpLdFw
+      content_hash: sha256:ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230a948eb3d
+      friendly_name: null
+  - claim_id: e8d33f9f-6c49-4392-9e32-9f5875eaa238
+    claim_hash: c3ac5cbd481e25aa7b6592eaa045e52912004a117f293d978c388af90d975e2f
+    content: UAP Gerb identifies Glenn Gaffney of the CIA Directorate of Science and Technology (DS&T) as one of the individuals
+      who applied pressure against funding earlier efforts to obtain materials from aerospace corporations.
+    original_excerpt: Yeah, Glenn Gaffney at the DS&T, one of them.
+    claim_type: hearsay
+    attestation: first_hand
+    speaker:
+      node_id: 78ca02a3-3c5f-4295-9c7b-3d547643603f
+      title: UAP Gerb
+    provenance_chain:
+      origin_kind: speaker
+      origin: UAP Gerb
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 1dfc0714-c2ac-4923-b546-61a19f0755f0
+        title: Central Intelligence Agency (CIA) Directorate of Science and Technology (DS&T)
+        slug: central-intelligence-agency-cia-directorate-of-science-and-technology-dst
+      - node_id: 252b6b28-dc16-4d5c-b799-f896de0590f8
+        title: Glenn Gaffney
+        slug: glenn-gaffney
+    date: null
+    date_end: null
+    location_in_record: 00:15:18.6-00:15:21.8
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 8c1d10dd-26ad-481a-9699-761ecf181743
+      record_title: 'Episode 73: Science vs. Secrecy'
+      record_date: '2026-06-30'
+      record_reference: https://www.youtube.com/watch?v=tZHuAZpLdFw
+      content_hash: sha256:ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230a948eb3d
+      friendly_name: null
+  - claim_id: 4b33cb47-c821-476b-99d0-581aa4b08029
+    claim_hash: d3088cbca22e59d1d11a9247484a113d86391f2a53c662e79c5c16c8152af188
+    content: An earlier attempt to obtain materials from aerospace corporations involved Lockheed Martin Space Systems Company.
+    original_excerpt: Lockheed Martin Space Systems.
+    claim_type: administrative
+    attestation: first_hand
+    speaker:
+      node_id: 78ca02a3-3c5f-4295-9c7b-3d547643603f
+      title: UAP Gerb
+    provenance_chain:
+      origin_kind: speaker
+      origin: UAP Gerb
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: ab61de92-c966-4cab-a3c5-05208029f462
+        title: Lockheed Martin Space Systems Company
+        slug: lockheed-martin-space-systems-company
+    date: null
+    date_end: null
+    location_in_record: 00:15:31.0-00:15:31.8
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 8c1d10dd-26ad-481a-9699-761ecf181743
+      record_title: 'Episode 73: Science vs. Secrecy'
+      record_date: '2026-06-30'
+      record_reference: https://www.youtube.com/watch?v=tZHuAZpLdFw
+      content_hash: sha256:ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230a948eb3d
+      friendly_name: null
+  - claim_id: 46fc50a1-eb71-4a20-8c9a-d2dd63d6d669
+    claim_hash: 17a1448b25cdd05e937f9466cf53fd2dd68ecbf25f61a03cc6ca26aea3887312
+    content: Eric Davis and Christopher Mellon have said that the legacy program ceased in 1989 due to lack of progress.
+    original_excerpt: are you echoing the sentiments of some of your compatriots like Eric Davis and Christopher Mellon that
+      the program was ceased in 1989 due to lack of progress?
+    claim_type: hearsay
+    attestation: second_hand
+    speaker:
+      node_id: 78ca02a3-3c5f-4295-9c7b-3d547643603f
+      title: UAP Gerb
+    provenance_chain:
+      origin_kind: named
+      origin: Eric Davis and Christopher Mellon
+      relay:
+        - UAP Gerb
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 5d06f518-dd64-4429-9026-b930e88660d2
+        title: Christopher K. Mellon
+        slug: christopher-k-mellon
+      - node_id: 9ab76638-a596-48f1-9a58-9c9251cc97f3
+        title: Eric Davis
+        slug: eric-davis
+      - node_id: d047a520-092f-4fe5-935d-ef4eadd7c952
+        title: Legacy Program
+        slug: legacy-program
+    date: '1989'
+    date_end: null
+    location_in_record: 00:32:57.0-00:33:04.5
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 8c1d10dd-26ad-481a-9699-761ecf181743
+      record_title: 'Episode 73: Science vs. Secrecy'
+      record_date: '2026-06-30'
+      record_reference: https://www.youtube.com/watch?v=tZHuAZpLdFw
+      content_hash: sha256:ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230a948eb3d
+      friendly_name: null
+  - claim_id: 963347e7-cbc0-4c99-b621-df1949389f14
+    claim_hash: f8e02d99032dcec6c64eb71649c0101ff37570ac43471b9dcd6a2c2ede0cc5c8
+    content: Glenn Gaffney, a former CIA Director of Science and Technology and Deputy Director, was one of the gatekeepers
+      who stopped material transfers to the Advanced Aerospace Weapon System Applications Program (AAWSAP).
+    original_excerpt: one of those gatekeepers that stopped some of these material transfers to the AAWSAP was Glenn Gaffney,
+      former CIA Director of Science and Technology, Deputy Director.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 78ca02a3-3c5f-4295-9c7b-3d547643603f
+      title: UAP Gerb
+    provenance_chain:
+      origin_kind: speaker
+      origin: UAP Gerb
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 252b6b28-dc16-4d5c-b799-f896de0590f8
+        title: Glenn Gaffney
+        slug: glenn-gaffney
+      - node_id: cc6d8585-d896-4fc3-b3a2-28d9a7d153ab
+        title: Advanced Aerospace Weapon System Applications Program (AAWSAP)
+        slug: advanced-aerospace-weapon-system-applications-program-aawsap
+    date: null
+    date_end: null
+    location_in_record: 00:38:43.5-00:38:51.1
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 8c1d10dd-26ad-481a-9699-761ecf181743
+      record_title: 'Episode 73: Science vs. Secrecy'
+      record_date: '2026-06-30'
+      record_reference: https://www.youtube.com/watch?v=tZHuAZpLdFw
+      content_hash: sha256:ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230a948eb3d
+      friendly_name: null
+  - claim_id: cf8f2d71-7866-4004-af4f-83ff96fe4bdb
+    claim_hash: 460bb93f4a4a38b998f296e583b851bcb99bf6b0256eefba5d16ee7cd2cff18e
+    content: Steve Cantrell is named as one of the legacy program's gatekeepers and is the Special Assistant to the Deputy
+      Undersecretary of the Air Force.
+    original_excerpt: One name that comes to mind is, of course, Mr. Steve Cantrell, who's the Special Assistant to the Deputy
+      Undersecretary of the Air Force.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 78ca02a3-3c5f-4295-9c7b-3d547643603f
+      title: UAP Gerb
+    provenance_chain:
+      origin_kind: speaker
+      origin: UAP Gerb
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: d047a520-092f-4fe5-935d-ef4eadd7c952
+        title: Legacy Program
+        slug: legacy-program
+      - node_id: fa133a28-07c1-4560-b1ac-a1ad2add6286
+        title: Steve Carell
+        slug: steve-carell
+    date: null
+    date_end: null
+    location_in_record: 00:38:55.8-00:39:02.2
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 8c1d10dd-26ad-481a-9699-761ecf181743
+      record_title: 'Episode 73: Science vs. Secrecy'
+      record_date: '2026-06-30'
+      record_reference: https://www.youtube.com/watch?v=tZHuAZpLdFw
+      content_hash: sha256:ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230a948eb3d
+      friendly_name: null
+  - claim_id: 8481d56a-1a8d-4846-ba33-3c8bb4d0cc14
+    claim_hash: 7b7bdf50cf534e578b09f95bc23fb646ccf528038287a0dac73c56fe9d1e55cd
+    content: David Grusch testified that the legacy program control group involves a cadre of senior executive officials,
+      many at the Senior Executive Service (SES) level, including DARPA Special Access Program Central Office (SAPCO) personnel
+      and senior figures within the Office of the Secretary of the Air Force.
+    original_excerpt: Dave Grusch actually testified to this. Many of these being SCS level senior executive service individuals,
+      DARPA SAPCOs, very senior figures within the Secretary of the Air Force like we just spoke of.
+    claim_type: testimony
+    attestation: second_hand
+    speaker:
+      node_id: 78ca02a3-3c5f-4295-9c7b-3d547643603f
+      title: UAP Gerb
+    provenance_chain:
+      origin_kind: named
+      origin: David Grusch
+      relay:
+        - UAP Gerb
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: d047a520-092f-4fe5-935d-ef4eadd7c952
+        title: Legacy Program
+        slug: legacy-program
+      - node_id: d306d2a9-b63d-4818-90bc-11ffafbd04d2
+        title: Office of the Secretary of the Air Force
+        slug: office-of-the-secretary-of-the-air-force
+      - node_id: d4241f5a-1063-4970-ba02-5a391c02d96d
+        title: David Charles Grusch
+        slug: david-charles-grusch
+      - node_id: e9789e87-d720-4b10-899e-9c5ddc168fe0
+        title: Defense Advanced Research Projects Agency (DARPA)
+        slug: defense-advanced-research-projects-agency-darpa
+    date: null
+    date_end: null
+    location_in_record: 00:39:13.0-00:39:25.8
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 8c1d10dd-26ad-481a-9699-761ecf181743
+      record_title: 'Episode 73: Science vs. Secrecy'
+      record_date: '2026-06-30'
+      record_reference: https://www.youtube.com/watch?v=tZHuAZpLdFw
+      content_hash: sha256:ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230a948eb3d
+      friendly_name: null
+  - claim_id: a90a0335-d394-41a4-afc4-f2a7a6b8375c
+    claim_hash: 5b908c6ffcc6d90777b1e07c98d5d0ea0a714f625743c0b11d128a677594a85b
+    content: The legacy program control group has functioned as a weaponised control group providing programme protection
+      and programme-exposure mitigation.
+    original_excerpt: This has been a weaponized control group to provide program protection and program exposure mitigation.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 78ca02a3-3c5f-4295-9c7b-3d547643603f
+      title: UAP Gerb
+    provenance_chain:
+      origin_kind: speaker
+      origin: UAP Gerb
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: d047a520-092f-4fe5-935d-ef4eadd7c952
+        title: Legacy Program
+        slug: legacy-program
+    date: null
+    date_end: null
+    location_in_record: 00:39:27.0-00:39:33.6
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 8c1d10dd-26ad-481a-9699-761ecf181743
+      record_title: 'Episode 73: Science vs. Secrecy'
+      record_date: '2026-06-30'
+      record_reference: https://www.youtube.com/watch?v=tZHuAZpLdFw
+      content_hash: sha256:ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230a948eb3d
+      friendly_name: null
+  - claim_id: d806ea3b-0dfd-4b52-b533-2e4784d2cf49
+    claim_hash: cbcba5ae425a0681745d111b58d828b356c1ac1d432daa2599eaa41e3820d545
+    content: There is a legacy program that existed separately from the Advanced Aerospace Weapon System Applications Program
+      (AAWSAP).
+    original_excerpt: So there's the legacy program. There's the AAWSAP, which was not part of the legacy program, existed
+      outside of it
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 78ca02a3-3c5f-4295-9c7b-3d547643603f
+      title: UAP Gerb
+    provenance_chain:
+      origin_kind: speaker
+      origin: UAP Gerb
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: cc6d8585-d896-4fc3-b3a2-28d9a7d153ab
+        title: Advanced Aerospace Weapon System Applications Program (AAWSAP)
+        slug: advanced-aerospace-weapon-system-applications-program-aawsap
+      - node_id: d047a520-092f-4fe5-935d-ef4eadd7c952
+        title: Legacy Program
+        slug: legacy-program
+    date: null
+    date_end: null
+    location_in_record: 00:45:57.5-00:46:03.7
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 8c1d10dd-26ad-481a-9699-761ecf181743
+      record_title: 'Episode 73: Science vs. Secrecy'
+      record_date: '2026-06-30'
+      record_reference: https://www.youtube.com/watch?v=tZHuAZpLdFw
+      content_hash: sha256:ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230a948eb3d
+      friendly_name: null
+  - claim_id: cf895d3b-12b3-473f-a9be-f76872f8e324
+    claim_hash: 91f3c2263d806cc760aba8bb761fd2868548b253be9091e4d9c2246883e66283
+    content: In its later years the Advanced Aerospace Weapon System Applications Program (AAWSAP) attempted to obtain craft
+      materials and data from the legacy program through the now-deceased Dr. Jim Ryder.
+    original_excerpt: largely in terms of its later years, attempted to pry craft materials, data, et cetera, out of the legacy
+      program through now deceased Dr. Jim Ryder
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 78ca02a3-3c5f-4295-9c7b-3d547643603f
+      title: UAP Gerb
+    provenance_chain:
+      origin_kind: speaker
+      origin: UAP Gerb
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: b8442dec-948d-4354-8be1-f93ceca24068
+        title: Jim Ryder
+        slug: jim-ryder
+      - node_id: cc6d8585-d896-4fc3-b3a2-28d9a7d153ab
+        title: Advanced Aerospace Weapon System Applications Program (AAWSAP)
+        slug: advanced-aerospace-weapon-system-applications-program-aawsap
+      - node_id: d047a520-092f-4fe5-935d-ef4eadd7c952
+        title: Legacy Program
+        slug: legacy-program
+    date: null
+    date_end: null
+    location_in_record: 00:46:04.2-00:46:11.8
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 8c1d10dd-26ad-481a-9699-761ecf181743
+      record_title: 'Episode 73: Science vs. Secrecy'
+      record_date: '2026-06-30'
+      record_reference: https://www.youtube.com/watch?v=tZHuAZpLdFw
+      content_hash: sha256:ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230a948eb3d
+      friendly_name: null
+  - claim_id: 009c044d-82d8-437d-ad3d-262da4fd5bc9
+    claim_hash: 5f3fe9213735c1f428a89b19b2435f08eba7628ae67b203ef12bf63c3b222ae8
+    content: Jim Ryder is deceased.
+    original_excerpt: now deceased Dr. Jim Ryder
+    claim_type: administrative
+    attestation: first_hand
+    speaker:
+      node_id: 78ca02a3-3c5f-4295-9c7b-3d547643603f
+      title: UAP Gerb
+    provenance_chain:
+      origin_kind: speaker
+      origin: UAP Gerb
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: b8442dec-948d-4354-8be1-f93ceca24068
+        title: Jim Ryder
+        slug: jim-ryder
+    date: null
+    date_end: null
+    location_in_record: 00:46:10.7-00:46:11.8
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 8c1d10dd-26ad-481a-9699-761ecf181743
+      record_title: 'Episode 73: Science vs. Secrecy'
+      record_date: '2026-06-30'
+      record_reference: https://www.youtube.com/watch?v=tZHuAZpLdFw
+      content_hash: sha256:ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230a948eb3d
+      friendly_name: null
+  - claim_id: 678bbf8f-1133-4cd7-9822-dc796af35735
+    claim_hash: 5d47bcff692f882684a6f45e861a3c4af74b22c573640c3f36453182f0be5827
+    content: The 2010 Advanced Aerospace Weapon System Applications Program (AAWSAP) 10-month report contained an idea for
+      a project called Project Forum, intended to use pop culture figures and superstars in California to push disclosure
+      and global awareness of the UAP topic.
+    original_excerpt: back in the 2010 AAWSAP reports, I think this was the 10-month report, there was an idea for something
+      called Project Forum, which was to essentially attract pop culture figures, pop stars, superstars in California specifically,
+      and use them as a vehicle to push disclosure, push global awareness on the topic
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 78ca02a3-3c5f-4295-9c7b-3d547643603f
+      title: UAP Gerb
+    provenance_chain:
+      origin_kind: speaker
+      origin: UAP Gerb
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: b4541f36-75bc-4064-bae4-268bc0578048
+        title: Project Forum
+        slug: project-forum
+      - node_id: cc6d8585-d896-4fc3-b3a2-28d9a7d153ab
+        title: Advanced Aerospace Weapon System Applications Program (AAWSAP)
+        slug: advanced-aerospace-weapon-system-applications-program-aawsap
+    date: null
+    date_end: null
+    location_in_record: 00:47:45.4-00:48:05.7
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 8c1d10dd-26ad-481a-9699-761ecf181743
+      record_title: 'Episode 73: Science vs. Secrecy'
+      record_date: '2026-06-30'
+      record_reference: https://www.youtube.com/watch?v=tZHuAZpLdFw
+      content_hash: sha256:ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230a948eb3d
+      friendly_name: null
+  - claim_id: 56e2a900-5cc8-4861-b0a4-dd85ee076981
+    claim_hash: e3ee8c3cc52dd95f08e0558067bba75e0e6251a700b2b5d706a06d8761480572
+    content: There seems to be a beautiful data set for Avi Loeb's council alleged to be from a National Security Council
+      activity called Immaculate Constellation, established in 2017.
+    original_excerpt: This would be what some whistleblowers and others have alleged is a National Security Council activity
+      called Immaculate Constellation that was established in 2017.
+    claim_type: hearsay
+    attestation: second_hand
+    speaker:
+      node_id: 78ca02a3-3c5f-4295-9c7b-3d547643603f
+      title: UAP Gerb
+    provenance_chain:
+      origin_kind: named
+      origin: unnamed whistleblowers and others
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 1f31a334-a2bc-4eae-88b3-5795d81ac97a
+        title: Immaculate Constellation
+        slug: immaculate-constellation
+      - node_id: ba74c7a8-b455-4e23-9909-8b77b848ff05
+        title: National Security Council
+        slug: national-security-council
+    date: null
+    date_end: null
+    location_in_record: 00:51:47.5-00:51:54.6
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 8c1d10dd-26ad-481a-9699-761ecf181743
+      record_title: 'Episode 73: Science vs. Secrecy'
+      record_date: '2026-06-30'
+      record_reference: https://www.youtube.com/watch?v=tZHuAZpLdFw
+      content_hash: sha256:ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230a948eb3d
+      friendly_name: null
+  - claim_id: 39052f6b-54da-4662-b726-c6b92929b9b7
+    claim_hash: caadadb24649304121a1c746b10c0d570b6c4e32c59423fe44112cefd9b23d64
+    content: UAP Gerb believes the Immaculate Constellation activity of the National Security Council serves as a repository
+      for high-quality imagery intelligence and signals intelligence of both non-human technical vehicles and reproduction
+      vehicles.
+    original_excerpt: this activity out of the National Security Council, again, is a basically catcher's mitt for a trove
+      of very high quality imagery intelligence, signals intelligence of both non-human technical vehicles and reproduction
+      vehicles, meaning our copycat vehicles of these systems
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 78ca02a3-3c5f-4295-9c7b-3d547643603f
+      title: UAP Gerb
+    provenance_chain:
+      origin_kind: speaker
+      origin: UAP Gerb
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 1f31a334-a2bc-4eae-88b3-5795d81ac97a
+        title: Immaculate Constellation
+        slug: immaculate-constellation
+      - node_id: ba74c7a8-b455-4e23-9909-8b77b848ff05
+        title: National Security Council
+        slug: national-security-council
+    date: null
+    date_end: null
+    location_in_record: 00:52:00.8-00:52:18.1
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 8c1d10dd-26ad-481a-9699-761ecf181743
+      record_title: 'Episode 73: Science vs. Secrecy'
+      record_date: '2026-06-30'
+      record_reference: https://www.youtube.com/watch?v=tZHuAZpLdFw
+      content_hash: sha256:ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230a948eb3d
+      friendly_name: null
+  - claim_id: b13eaf4c-af73-4282-86b4-ccab074f524c
+    claim_hash: 10d360470cc4f93ca7c0e0779d6eaf10be3002d3ed5c24816d074e8a0992d6b5
+    content: UAP Gerb states that the Immaculate Constellation data would be held in the National Geospatial-Intelligence
+      Agency (NGA).
+    original_excerpt: This data, of course, would be held in the National Geospatial Intelligence Agency.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 78ca02a3-3c5f-4295-9c7b-3d547643603f
+      title: UAP Gerb
+    provenance_chain:
+      origin_kind: speaker
+      origin: UAP Gerb
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 1f31a334-a2bc-4eae-88b3-5795d81ac97a
+        title: Immaculate Constellation
+        slug: immaculate-constellation
+      - node_id: 71b60ec7-f862-452e-9945-85fd0d32b4f1
+        title: National Geospatial-Intelligence Agency (NGA)
+        slug: national-geospatial-intelligence-agency-nga
+    date: null
+    date_end: null
+    location_in_record: 00:52:19.0-00:52:22.0
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 8c1d10dd-26ad-481a-9699-761ecf181743
+      record_title: 'Episode 73: Science vs. Secrecy'
+      record_date: '2026-06-30'
+      record_reference: https://www.youtube.com/watch?v=tZHuAZpLdFw
+      content_hash: sha256:ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230a948eb3d
+      friendly_name: null
+  - claim_id: 02c5167f-7f47-4c63-86d1-0f60eb78ed8b
+    claim_hash: 7bab55649ea499dc206f13a8e6f1cc27059116bde2fa3622f7f17e73cc4902d0
+    content: The MITRE Corporation receives 99 percent of its funding from the US government.
+    original_excerpt: such semi-private systems like the MITRE Corporation that receives 99% of its funding from the US government
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 78ca02a3-3c5f-4295-9c7b-3d547643603f
+      title: UAP Gerb
+    provenance_chain:
+      origin_kind: speaker
+      origin: UAP Gerb
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 7fa3fec0-3ba0-4dc7-9779-8ed56b3bbeb5
+        title: MITRE Corporation
+        slug: mitre-corporation
+    date: null
+    date_end: null
+    location_in_record: 00:55:36.5-00:55:41.5
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 8c1d10dd-26ad-481a-9699-761ecf181743
+      record_title: 'Episode 73: Science vs. Secrecy'
+      record_date: '2026-06-30'
+      record_reference: https://www.youtube.com/watch?v=tZHuAZpLdFw
+      content_hash: sha256:ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230a948eb3d
+      friendly_name: null
+  - claim_id: 1d168b56-745a-496a-893b-d6a9c363f19f
+    claim_hash: fbd07e4a85126f12f16ac00ba44040f9686e67e042aa95008d0890546d2ef823
+    content: UAP Gerb states that semi-private institutions such as the MITRE Corporation are used as a method to keep programmes
+      outside government control while the US government still retains possession of the programme, materials, and institutional
+      knowledge.
+    original_excerpt: is the perfect method in which to keep programs outside of government control, but for the US government
+      to still retain possession of the program, of materials, of institutional knowledge even
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 78ca02a3-3c5f-4295-9c7b-3d547643603f
+      title: UAP Gerb
+    provenance_chain:
+      origin_kind: speaker
+      origin: UAP Gerb
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 7fa3fec0-3ba0-4dc7-9779-8ed56b3bbeb5
+        title: MITRE Corporation
+        slug: mitre-corporation
+    date: null
+    date_end: null
+    location_in_record: 00:55:42.3-00:55:52.7
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 8c1d10dd-26ad-481a-9699-761ecf181743
+      record_title: 'Episode 73: Science vs. Secrecy'
+      record_date: '2026-06-30'
+      record_reference: https://www.youtube.com/watch?v=tZHuAZpLdFw
+      content_hash: sha256:ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230a948eb3d
+      friendly_name: null
+  - claim_id: 6e405eb9-4e1d-487b-9294-e6bb669ec1fd
+    claim_hash: d2321ea3fdd8a5045f121fa9737c5da841b0113907fe814d6b32ea5cb92482f4
+    content: Historically, Sandia National Laboratories, Lawrence Livermore National Laboratory, Los Alamos National Laboratory,
+      and Oak Ridge National Laboratory have been extremely culpable in UAP-related retrieval operations, especially right
+      after World War II.
+    original_excerpt: historically, Sandia, Lawrence Livermore, Los Alamos, and Oak Ridge have been extremely culpable in
+      these operations, especially right after World War II
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 78ca02a3-3c5f-4295-9c7b-3d547643603f
+      title: UAP Gerb
+    provenance_chain:
+      origin_kind: speaker
+      origin: UAP Gerb
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 575753c5-cafa-48cf-9529-22dcc6e08ffe
+        title: Sandia National Laboratories
+        slug: sandia-national-laboratories
+      - node_id: 6b5cea3e-8880-46eb-909e-19cba47e9b0b
+        title: Oak Ridge National Laboratory
+        slug: oak-ridge-national-laboratory
+      - node_id: a2e017b2-5046-48ba-b0be-79edcd94fb37
+        title: Lawrence Livermore National Laboratory
+        slug: lawrence-livermore-national-laboratory
+      - node_id: b65ca672-cb9e-4a57-a0fb-56ede7e118a4
+        title: Los Alamos National Laboratory
+        slug: los-alamos-national-laboratory
+    date: null
+    date_end: null
+    location_in_record: 00:56:21.0-00:56:29.2
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 8c1d10dd-26ad-481a-9699-761ecf181743
+      record_title: 'Episode 73: Science vs. Secrecy'
+      record_date: '2026-06-30'
+      record_reference: https://www.youtube.com/watch?v=tZHuAZpLdFw
+      content_hash: sha256:ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230a948eb3d
+      friendly_name: null
+  - claim_id: e87f6e51-c388-4f26-a160-f98a45842434
+    claim_hash: 5f0c992c28a1a4f991fbab61be241dbd5e480ffe69bac6d0d77bc7558f2a2109
+    content: The Manhattan Project was translated into what could be called a follow-on effort after World War II.
+    original_excerpt: once the Manhattan Project was kind of translated onto what you could call the Manhattan Project 2.0
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 78ca02a3-3c5f-4295-9c7b-3d547643603f
+      title: UAP Gerb
+    provenance_chain:
+      origin_kind: speaker
+      origin: UAP Gerb
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 69fa2a03-b6bb-41c3-a745-dff92528671c
+        title: Manhattan Project
+        slug: manhattan-project
+    date: null
+    date_end: null
+    location_in_record: 00:56:29.6-00:56:33.3
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 8c1d10dd-26ad-481a-9699-761ecf181743
+      record_title: 'Episode 73: Science vs. Secrecy'
+      record_date: '2026-06-30'
+      record_reference: https://www.youtube.com/watch?v=tZHuAZpLdFw
+      content_hash: sha256:ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230a948eb3d
+      friendly_name: null
+  - claim_id: d0de81e4-2e15-4d50-b2da-05563be2e5e6
+    claim_hash: 99623d6c3dbcdb33663b4c4e870ff07313c78437b1dd346c1bc36f94621171c3
+    content: Vannevar Bush established the relationship between scientists and the US government.
+    original_excerpt: You can actually thank one of the greatest scientific minds in US history, Dr. Vannevar Bush, for establishing
+      the relationship between the scientists and between the US government.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 78ca02a3-3c5f-4295-9c7b-3d547643603f
+      title: UAP Gerb
+    provenance_chain:
+      origin_kind: speaker
+      origin: UAP Gerb
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 4ada3704-4cd8-4cf2-b0fe-fcfb6716abaa
+        title: Vannevar Bush
+        slug: vannevar-bush
+    date: null
+    date_end: null
+    location_in_record: 00:56:34.4-00:56:41.7
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 8c1d10dd-26ad-481a-9699-761ecf181743
+      record_title: 'Episode 73: Science vs. Secrecy'
+      record_date: '2026-06-30'
+      record_reference: https://www.youtube.com/watch?v=tZHuAZpLdFw
+      content_hash: sha256:ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230a948eb3d
+      friendly_name: null
+  - claim_id: aba985af-7ac6-4601-8b1c-24495a9218df
+    claim_hash: e2ace5a091f06ec4fa596bfcf174842d74b68e532186dfc700befd3d9c6763d9
+    content: In 1948, President Harry Truman is alleged to have established classified presidential executive orders, referred
+      to by Eric Davis as Presidential Emergency Action Documents (PEADs), that relegated custody of recovered disks to Atomic
+      Energy Commission National Lab Control to be studied under Vannevar Bush's Joint Research and Development Board and
+      its successor, the Research and Development Board.
+    original_excerpt: there are serious credible allegations that within the late 40s, 1948, to be specific, President Harry
+      Truman established classified presidential executive orders, also referred to by your colleague, Dr. Eric Davis, as
+      PEADS, presidential emergency action documents, that relegated custody of recovered disks to Atomic Energy Commission
+      National Lab Control to be studied under Vannevar Bush, his soon to be Joint Research and Development Board and then
+      Research and Development Board
+    claim_type: hearsay
+    attestation: null
+    speaker:
+      node_id: 78ca02a3-3c5f-4295-9c7b-3d547643603f
+      title: UAP Gerb
+    provenance_chain:
+      origin_kind: unattributed
+      origin: unnamed allegations
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 4ada3704-4cd8-4cf2-b0fe-fcfb6716abaa
+        title: Vannevar Bush
+        slug: vannevar-bush
+      - node_id: 589d7469-f87f-4da5-afa8-cabca7be6818
+        title: Harry S. Truman
+        slug: harry-s-truman
+      - node_id: 6ccc0ddb-8dc6-4dd0-92d5-c86e9e3cda25
+        title: United States Atomic Energy Commission
+        slug: united-states-atomic-energy-commission
+      - node_id: 8f7f2a6e-3af3-4ff9-abc0-d3d868958f00
+        title: Joint Research and Development Board
+        slug: joint-research-and-development-board
+      - node_id: 9ab76638-a596-48f1-9a58-9c9251cc97f3
+        title: Eric Davis
+        slug: eric-davis
+      - node_id: b612d415-9e40-4e28-ac70-54f1ade35c47
+        title: Presidential Emergency Action Documents (PEADs)
+        slug: presidential-emergency-action-documents-peads
+    date: '1948'
+    date_end: null
+    location_in_record: 00:56:53.3-00:57:19.8
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 8c1d10dd-26ad-481a-9699-761ecf181743
+      record_title: 'Episode 73: Science vs. Secrecy'
+      record_date: '2026-06-30'
+      record_reference: https://www.youtube.com/watch?v=tZHuAZpLdFw
+      content_hash: sha256:ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230a948eb3d
+      friendly_name: null
+  - claim_id: 33a819dc-587d-454b-9e28-bffa996c2794
+    claim_hash: 80faaaab99018809634fae39238babd01d9dcd9fecaf7e1a962b50b3d694e655
+    content: UAP Gerb considers the allegation that President Harry Truman established classified 1948 presidential executive
+      orders relegating recovered disks to Atomic Energy Commission National Lab Control factually correct.
+    original_excerpt: And I do think that is factually correct.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 78ca02a3-3c5f-4295-9c7b-3d547643603f
+      title: UAP Gerb
+    provenance_chain:
+      origin_kind: speaker
+      origin: UAP Gerb
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 589d7469-f87f-4da5-afa8-cabca7be6818
+        title: Harry S. Truman
+        slug: harry-s-truman
+      - node_id: 6ccc0ddb-8dc6-4dd0-92d5-c86e9e3cda25
+        title: United States Atomic Energy Commission
+        slug: united-states-atomic-energy-commission
+    date: null
+    date_end: null
+    location_in_record: 00:57:20.0-00:57:22.3
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 8c1d10dd-26ad-481a-9699-761ecf181743
+      record_title: 'Episode 73: Science vs. Secrecy'
+      record_date: '2026-06-30'
+      record_reference: https://www.youtube.com/watch?v=tZHuAZpLdFw
+      content_hash: sha256:ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230a948eb3d
+      friendly_name: null
+  - claim_id: 36ad1fe4-b14c-4048-ae3d-84ff8cfc8baf
+    claim_hash: e4664cf22f27f7ddeb81ed984daf7c6f769ffd311600a67f7a79aee173b7946a
+    content: UAP Gerb states that the secrecy apparatus of the legacy programs, largely established as a centralised effort
+      in 1947, has compounded and grown out of control.
+    original_excerpt: The secrecy apparatus of these programs, which were largely established as a centralized effort in 1947,
+      have compounded and grown and spiraled so out of control.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 78ca02a3-3c5f-4295-9c7b-3d547643603f
+      title: UAP Gerb
+    provenance_chain:
+      origin_kind: speaker
+      origin: UAP Gerb
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: d047a520-092f-4fe5-935d-ef4eadd7c952
+        title: Legacy Program
+        slug: legacy-program
+    date: '1947'
+    date_end: null
+    location_in_record: 00:57:49.7-00:57:58.4
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 8c1d10dd-26ad-481a-9699-761ecf181743
+      record_title: 'Episode 73: Science vs. Secrecy'
+      record_date: '2026-06-30'
+      record_reference: https://www.youtube.com/watch?v=tZHuAZpLdFw
+      content_hash: sha256:ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230a948eb3d
+      friendly_name: null
+  - claim_id: 46bb700e-117a-439e-aa5b-66c54ffddb88
+    claim_hash: 7757a627e69afaa48d079f879769e52680dc43225fd3e0bf832cc64a2278d346
+    content: Hal Puthoff has referred to a specific element of the legacy program being shut down in 1989, which caused confusion
+      because it was not the entire programme.
+    original_excerpt: when Dr. Puthoff's talking about the program being shut down in 1989, there was so much confusion. And
+      I think we reached a good point today where it wasn't the program that was shut down, but a specific element of the
+      legacy program that was shut down
+    claim_type: testimony
+    attestation: second_hand
+    speaker:
+      node_id: 78ca02a3-3c5f-4295-9c7b-3d547643603f
+      title: UAP Gerb
+    provenance_chain:
+      origin_kind: named
+      origin: Hal Puthoff
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 6dcdfe60-bc2f-4be2-a041-9957a82f371e
+        title: Harold E. Puthoff
+        slug: harold-e-puthoff
+      - node_id: d047a520-092f-4fe5-935d-ef4eadd7c952
+        title: Legacy Program
+        slug: legacy-program
+    date: '1989'
+    date_end: null
+    location_in_record: 00:58:00.2-00:58:11.5
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 8c1d10dd-26ad-481a-9699-761ecf181743
+      record_title: 'Episode 73: Science vs. Secrecy'
+      record_date: '2026-06-30'
+      record_reference: https://www.youtube.com/watch?v=tZHuAZpLdFw
+      content_hash: sha256:ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230a948eb3d
+      friendly_name: null
+  - claim_id: 31626a94-6157-4424-9461-695aaaf77fc7
+    claim_hash: ce6bfc1666e185695fc560369b6053217bb2367b3db347a582268be9834177cb
+    content: There are allegations that Lockheed Martin Space Systems Company and Northrop Grumman established their own retrieval
+      and recovery activities, self-funded through Independent Research and Development (IRAD) funds.
+    original_excerpt: specific aerospace contractors, I'll name them Lucky Martin and Northrop Grumman, established their
+      own retrieval and recovery activities with self-fund through independent research and development funds
+    claim_type: hearsay
+    attestation: null
+    speaker:
+      node_id: 78ca02a3-3c5f-4295-9c7b-3d547643603f
+      title: UAP Gerb
+    provenance_chain:
+      origin_kind: unattributed
+      origin: unnamed allegations
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: ab61de92-c966-4cab-a3c5-05208029f462
+        title: Lockheed Martin Space Systems Company
+        slug: lockheed-martin-space-systems-company
+      - node_id: c08687d3-db82-43e7-86aa-dd3516a74265
+        title: Northrop Grumman
+        slug: northrop-grumman
+    date: null
+    date_end: null
+    location_in_record: 00:58:17.5-00:58:27.5
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 8c1d10dd-26ad-481a-9699-761ecf181743
+      record_title: 'Episode 73: Science vs. Secrecy'
+      record_date: '2026-06-30'
+      record_reference: https://www.youtube.com/watch?v=tZHuAZpLdFw
+      content_hash: sha256:ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230a948eb3d
+      friendly_name: null
+  - claim_id: 7a4d67d5-fc82-4f2a-8429-5cdc86772e36
+    claim_hash: da71630c42153513aa5d661015445bd1fb365ce09c7668fe5cf543d665502b21
+    content: Avi Loeb states that if he were concerned about anything, it would be the Defense Advanced Research Projects
+      Agency Security and Intelligence Directorate (DARPA SID) and the Air Force Office of Special Investigations Programs
+      and Jurisdiction (AFOSIPJ).
+    original_excerpt: If you were to be concerned, I'd be concerned about DARPA's Security and Intelligence Directorate, DARPA
+      SID, and AFOSIPJ, the Office of Special Projects. So if you have any reason to be concerned, I would look at those elements
+      for a bit of worry.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 78ca02a3-3c5f-4295-9c7b-3d547643603f
+      title: UAP Gerb
+    provenance_chain:
+      origin_kind: speaker
+      origin: UAP Gerb
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: cad0a6eb-0ed3-44ee-8f8f-b22d7603c6f3
+        title: Air Force Office of Special Investigations (AFOSI)
+        slug: air-force-office-of-special-investigations-afosi
+      - node_id: eec1d616-e928-4527-acc2-945e225ab8b8
+        title: Defense Advanced Research Projects Agency Security and Intelligence Directorate (DARPA SID)
+        slug: defense-advanced-research-projects-agency-security-and-intelligence-directorate-darpa-sid
+    date: null
+    date_end: null
+    location_in_record: 01:01:34.5-01:01:47.0
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 8c1d10dd-26ad-481a-9699-761ecf181743
+      record_title: 'Episode 73: Science vs. Secrecy'
+      record_date: '2026-06-30'
+      record_reference: https://www.youtube.com/watch?v=tZHuAZpLdFw
+      content_hash: sha256:ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230a948eb3d
+      friendly_name: null
+  - claim_id: 9064d449-abd5-4ef2-8232-ee69a48f8350
+    claim_hash: 164f0b64103183b6e9fc69bde9d70364843a9a76b9e9e7cf25a3fd5e0a79e200
+    content: Jason Samosa tried to paste all of UAP Gerb's transcripts into a single document to search them, and Microsoft
+      Word failed because the text ran to about a thousand pages.
+    original_excerpt: the other day I, I, I tried to copy and paste all of his transcripts into a single document so I could
+      control-F them and, uh, Microsoft Word broke. He couldn't handle it. There was like a thousand pages.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: ff0a86b8-8f3c-4291-94ed-c6d303875ce8
+      title: Jason Samosa
+    provenance_chain:
+      origin_kind: speaker
+      origin: Jason Samosa
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 78ca02a3-3c5f-4295-9c7b-3d547643603f
+        title: UAP Gerb
+        slug: uap-gerb
+      - node_id: ff0a86b8-8f3c-4291-94ed-c6d303875ce8
+        title: Jason Samosa
+        slug: jason-samosa
+    date: null
+    date_end: null
+    location_in_record: 01:52:51.0-01:53:00.8
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 64b84f95-238c-4ab7-a678-bee55f985b14
+      record_title: The UFO Cover-Up Leads to One Secret Society — and One Final Event
+      record_date: '2026-07-14'
+      record_reference: https://www.youtube.com/watch?v=kccrkCGGzX4
+      content_hash: sha256:d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7b5a1b98d
+      friendly_name: null
+  - claim_id: 7264a98e-ec9e-4596-ae03-cca39c1ef23f
+    claim_hash: 184a896172509ff53cc71eb403590a290185f768e738db97b1ac21fafebfaa1b
+    content: 'A secrecy faction seeking to keep UFO information contained has two options: improving data leak prevention,
+      and psychologically manipulating individual researchers based on their profile, in Jason Samosa''s assessment.'
+    original_excerpt: if you're part of the secrecy faction and you've been tasked with trying to keep this information in,
+      what are your options? You can go and you can say, we need to improve our data leak prevention system... The other one
+      is how do you deal with someone like Gerb?... number one is you can start to psychologically manipulate someone based
+      on their profile.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: ff0a86b8-8f3c-4291-94ed-c6d303875ce8
+      title: Jason Samosa
+    provenance_chain:
+      origin_kind: speaker
+      origin: Jason Samosa
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 78ca02a3-3c5f-4295-9c7b-3d547643603f
+        title: UAP Gerb
+        slug: uap-gerb
+      - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
+        title: Unidentified Flying Object (UFO)
+        slug: unidentified-flying-object-ufo
+      - node_id: a07cf4c0-e71e-48d1-afcb-ffddb14de10a
+        title: Psychological operations (psyop)
+        slug: psychological-operations-psyop-a07cf4c0
+    date: null
+    date_end: null
+    location_in_record: 01:53:08.8-01:53:30.7
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 64b84f95-238c-4ab7-a678-bee55f985b14
+      record_title: The UFO Cover-Up Leads to One Secret Society — and One Final Event
+      record_date: '2026-07-14'
+      record_reference: https://www.youtube.com/watch?v=kccrkCGGzX4
+      content_hash: sha256:d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7b5a1b98d
+      friendly_name: null
+  - claim_id: f7fbdc5f-c4b1-4942-8c34-4b573779e89b
+    claim_hash: 99246c6bf97545ee64bf1eeea6eb6593b34181d2a42f35eab346ff890ff2f3e4
+    content: UAP Gerb is a UAP researcher, investigator and podcast host.
+    original_excerpt: '[note: UAP Gerb - UAP researcher, investigator, and podcast host]'
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: source annotation
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 78ca02a3-3c5f-4295-9c7b-3d547643603f
+        title: UAP Gerb
+        slug: uap-gerb
+    date: null
+    date_end: null
+    location_in_record: line 118
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 64b84f95-238c-4ab7-a678-bee55f985b14
+      record_title: The UFO Cover-Up Leads to One Secret Society — and One Final Event
+      record_date: '2026-07-14'
+      record_reference: https://www.youtube.com/watch?v=kccrkCGGzX4
+      content_hash: sha256:d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7b5a1b98d
+      friendly_name: null

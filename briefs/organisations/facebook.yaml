@@ -1,0 +1,316 @@
+schema: anomalica/brief/1
+brief_hash: 4eef3cc0ecb2bd56ed77d65b207e661bbbcc8e4d09e3f83a4e88205d7f1f6d0b
+page:
+  kind: entity
+  node_id: d9224bb6-e6c6-4497-8685-7673ae7e45ca
+  node_type: organisation
+  title: Facebook
+  slug: facebook
+  claim_count: 7
+  claim_count_total: 7
+generated:
+  graph_version: '2026-09-01T10:10:49.863545+00:00'
+size:
+  claims: 7
+  tokens_estimated: 2099
+  sized_against: 1050000
+publication:
+  status: published
+  note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
+    transcripts are gated elsewhere.
+belonging:
+  verified: 0
+  suspect_excluded: 0
+  unreviewed: 7
+related_nodes:
+  - node_id: dcc237df-7b6f-4859-b59e-7512074373db
+    title: In the Field (UFO study group)
+    node_type: organisation
+    slug: in-the-field-ufo-study-group
+    shared_claims: 2
+  - node_id: 475770e2-bd8c-44ae-8d95-a9f6b9c639a3
+    title: Scott Browne
+    node_type: person
+    slug: scott-browne
+    shared_claims: 2
+  - node_id: 24d00311-06ac-46a1-a2f5-c99f3f8e21b2
+    title: Chris Ramsay
+    node_type: person
+    slug: chris-ramsay
+    shared_claims: 1
+  - node_id: cc84c17a-1267-4017-a5f9-3483c398c3d1
+    title: Facebook Shuts Down Robots After They Invent Their Own Language
+    node_type: document
+    slug: facebook-shuts-down-robots-after-they-invent-their-own-language
+    shared_claims: 1
+  - node_id: ce4b5261-bfe2-43a1-8152-d7cae044506e
+    title: James Master
+    node_type: person
+    slug: james-master
+    shared_claims: 1
+  - node_id: 24136f1c-4cb7-4030-8ed1-35855481a65e
+    title: Tyler D.
+    node_type: person
+    slug: tyler-d
+    shared_claims: 1
+  - node_id: 22d5cfc1-a852-4b60-b837-9a0983bd836d
+    title: artificial intelligence generated video fakery
+    node_type: topic
+    slug: artificial-intelligence-generated-video-fakery
+    shared_claims: 1
+claims:
+  - claim_id: 9cd88981-358d-4ed5-b606-17b3398d6dd4
+    claim_hash: ee123d88dc0de6afe50031d74be3104a39a2ae5790b8e4af265758b3e59d3058
+    content: Scott Browne has been called a "debunker" and worse names, posted on Facebook, Twitter, YouTube, and internet
+      forums.
+    original_excerpt: Scott Browne has been called a debunker—and far worse than that. In fact, the names he has been called
+      are not fit to be printed. Yet they have been posted on Facebook, on Twitter, on YouTube, and in internet forums.
+    claim_type: observation
+    attestation: first_hand
+    speaker:
+      node_id: f2daae19-9351-4a8e-b466-664f83887f61
+      title: Diana Walsh Pasulka
+    provenance_chain:
+      origin_kind: speaker
+      origin: D. W. Pasulka
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 475770e2-bd8c-44ae-8d95-a9f6b9c639a3
+        title: Scott Browne
+        slug: scott-browne
+      - node_id: d9224bb6-e6c6-4497-8685-7673ae7e45ca
+        title: Facebook
+        slug: facebook
+    date: null
+    date_end: null
+    location_in_record: ch3:1033-1242
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 288e1100-0497-41df-ba08-9890e519b0b9
+      record_title: American Cosmic
+      record_date: '2019'
+      record_reference: null
+      content_hash: sha256:ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b16ac4758
+      friendly_name: 2019-ebook-american-cosmic
+  - claim_id: 6465a34b-83ea-489a-b8c9-136f26e96e2a
+    claim_hash: 90abd92dd2793c76afa87a9faedbfc54fd7fd8ee4e3d4740e825455c5dae083f
+    content: The In the Field study group is located on Facebook.
+    original_excerpt: The group is located on Facebook.
+    claim_type: administrative
+    attestation: first_hand
+    speaker:
+      node_id: f2daae19-9351-4a8e-b466-664f83887f61
+      title: Diana Walsh Pasulka
+    provenance_chain:
+      origin_kind: speaker
+      origin: D. W. Pasulka
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: d9224bb6-e6c6-4497-8685-7673ae7e45ca
+        title: Facebook
+        slug: facebook
+      - node_id: dcc237df-7b6f-4859-b59e-7512074373db
+        title: In the Field (UFO study group)
+        slug: in-the-field-ufo-study-group
+    date: null
+    date_end: null
+    location_in_record: ch3:3696-3720
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 288e1100-0497-41df-ba08-9890e519b0b9
+      record_title: American Cosmic
+      record_date: '2019'
+      record_reference: null
+      content_hash: sha256:ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b16ac4758
+      friendly_name: 2019-ebook-american-cosmic
+  - claim_id: c8d8283d-d636-4025-ae41-057a89890ba2
+    claim_hash: 97928f06db0f0c1aa4055f0cefe97cbc910873d050df3fcd73bbccf5ecc3ab41
+    content: Tyler D. and James Master remain invisible, and their work and its fruits will not appear on Facebook.
+    original_excerpt: But Tyler and James are invisible. Their work, and the fruits of their work, will not appear on Facebook.
+    claim_type: opinion
+    attestation: first_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: speaker
+      origin: D. W. Pasulka
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 24136f1c-4cb7-4030-8ed1-35855481a65e
+        title: Tyler D.
+        slug: tyler-d
+      - node_id: ce4b5261-bfe2-43a1-8152-d7cae044506e
+        title: James Master
+        slug: james-master
+      - node_id: d9224bb6-e6c6-4497-8685-7673ae7e45ca
+        title: Facebook
+        slug: facebook
+    date: null
+    date_end: null
+    location_in_record: ch3:48814-48910
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 288e1100-0497-41df-ba08-9890e519b0b9
+      record_title: American Cosmic
+      record_date: '2019'
+      record_reference: null
+      content_hash: sha256:ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b16ac4758
+      friendly_name: 2019-ebook-american-cosmic
+  - claim_id: f21802ac-fee4-461b-8b9d-331d806c8163
+    claim_hash: bf623dab940eb16d0d6dcdca31529fa654b57e4574b34f0e5a23300dd47bea6c
+    content: Facebook shut down two social robots that had created their own language unknown to their human creators.
+    original_excerpt: the headlines are abuzz with news that the social media site Facebook shut down two social robots that
+      had created their own language that was unknown to their human creators
+    claim_type: administrative
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: document
+      origin: Facebook Shuts Down Robots After They Invent Their Own Language
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: cc84c17a-1267-4017-a5f9-3483c398c3d1
+        title: Facebook Shuts Down Robots After They Invent Their Own Language
+        slug: facebook-shuts-down-robots-after-they-invent-their-own-language
+      - node_id: d9224bb6-e6c6-4497-8685-7673ae7e45ca
+        title: Facebook
+        slug: facebook
+    date: null
+    date_end: null
+    location_in_record: ch5:33241-33407
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 288e1100-0497-41df-ba08-9890e519b0b9
+      record_title: American Cosmic
+      record_date: '2019'
+      record_reference: null
+      content_hash: sha256:ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b16ac4758
+      friendly_name: 2019-ebook-american-cosmic
+  - claim_id: 624bd9cd-bca1-43ee-946e-923db45de1f7
+    claim_hash: e1049f2acc3823e01031c87758908c117f5fed6d335013c70b0ea92b13d78617
+    content: An anonymous experiencer reported that after commenting on a friend's posting of Michelin Man/Bibendum images,
+      he later saw a targeted advertisement for Michelin tyres featuring Bibendum on a webpage sidebar, which felt like a
+      significant synchronicity despite his awareness of the likely advertising mechanism behind it.
+    original_excerpt: 'Yesterday morning I had commented on my friend’s posting of several Michelin Man/Bibendum images. Then,
+      later that night, as I was looking at a random webpage, I noticed, through the cookie-detecting/Facebook-enabled targeted
+      advert there appeared on the sidebar my new avatar: an advert for Michelin tires featuring Bibendum himself making a
+      “thumbs-up” gesture. It really felt like a significant synch for me at that moment—DESPITE my knowing full well the
+      likely advertising mechanisms operating behind the scenes to make it happen.'
+    claim_type: testimony
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: anonymous
+      origin: a person claiming to be a fan of Jacques Vallee who experienced a synthetic synchronicity
+      relay:
+        - D. W. Pasulka's account
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: d9224bb6-e6c6-4497-8685-7673ae7e45ca
+        title: Facebook
+        slug: facebook
+    date: null
+    date_end: null
+    location_in_record: ch5:41666-42194
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 288e1100-0497-41df-ba08-9890e519b0b9
+      record_title: American Cosmic
+      record_date: '2019'
+      record_reference: null
+      content_hash: sha256:ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b16ac4758
+      friendly_name: 2019-ebook-american-cosmic
+  - claim_id: f47d4be0-643e-4202-9438-bd729186be6f
+    claim_hash: 792fcedb13641a08dde5b9418152b8ed5f76463b8a8db4b8a2a1dd775a1e5800
+    content: Scott Browne runs a Facebook page called In the Field that provides a forum for videographers to vet their UFO
+      video captures.
+    original_excerpt: Scott’s Facebook page, *In the Field*, provides a forum for serious videographers to vet their captures
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: narration
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 475770e2-bd8c-44ae-8d95-a9f6b9c639a3
+        title: Scott Browne
+        slug: scott-browne
+      - node_id: d9224bb6-e6c6-4497-8685-7673ae7e45ca
+        title: Facebook
+        slug: facebook
+      - node_id: dcc237df-7b6f-4859-b59e-7512074373db
+        title: In the Field (UFO study group)
+        slug: in-the-field-ufo-study-group
+    date: null
+    date_end: null
+    location_in_record: char:9740-9835
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 288e1100-0497-41df-ba08-9890e519b0b9
+      record_title: American Cosmic
+      record_date: '2019'
+      record_reference: null
+      content_hash: sha256:ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b16ac4758
+      friendly_name: 2019-ebook-american-cosmic
+  - claim_id: 869fe33c-5bb0-47dc-a4ba-91abedd515a8
+    claim_hash: 22c50178342b98c30493c504f188f3b33f6a61e507cb3a9d2750800f9d143907
+    content: Chris Ramsay considers Facebook rampant with artificial intelligence generated fake Unidentified Flying Object
+      (UFO) videos, particularly affecting older age demographics.
+    original_excerpt: Depends on, uh, depends on the age demographic. I will say if you're on Facebook, it's rampant
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 24d00311-06ac-46a1-a2f5-c99f3f8e21b2
+      title: Chris Ramsay
+    provenance_chain:
+      origin_kind: speaker
+      origin: Chris Ramsay
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 22d5cfc1-a852-4b60-b837-9a0983bd836d
+        title: artificial intelligence generated video fakery
+        slug: artificial-intelligence-generated-video-fakery
+      - node_id: 24d00311-06ac-46a1-a2f5-c99f3f8e21b2
+        title: Chris Ramsay
+        slug: chris-ramsay
+      - node_id: d9224bb6-e6c6-4497-8685-7673ae7e45ca
+        title: Facebook
+        slug: facebook
+    date: null
+    date_end: null
+    location_in_record: 02:13:09.4-02:13:14.8
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: fd845823-8784-462c-a981-4775525b6f84
+      record_title: The DANGEROUS Truth About UFOs - Ross Coulthart | DEBRIEFED ep. 76
+      record_date: '2026-02-20'
+      record_reference: https://www.youtube.com/watch?v=idBryc0eWww
+      content_hash: sha256:73be106d406f6d35a063a894e8384e7da0918eb8597d2107a9e3653becca2bdc
+      friendly_name: null

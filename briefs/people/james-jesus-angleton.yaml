@@ -1,0 +1,279 @@
+schema: anomalica/brief/1
+brief_hash: 5cf24662a560749a6725791d982e0ceff1d27e54530a77faaa95b06c61c43bc5
+page:
+  kind: entity
+  node_id: 61149dc6-d235-40f3-acf5-11b3498825cd
+  node_type: person
+  title: James Jesus Angleton
+  slug: james-jesus-angleton
+  claim_count: 6
+  claim_count_total: 6
+generated:
+  graph_version: '2026-09-01T10:10:49.863545+00:00'
+size:
+  claims: 6
+  tokens_estimated: 1909
+  sized_against: 1050000
+publication:
+  status: published
+  note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
+    transcripts are gated elsewhere.
+belonging:
+  verified: 0
+  suspect_excluded: 0
+  unreviewed: 6
+related_nodes:
+  - node_id: 38b84d4a-96df-4684-bb46-f6f64f392add
+    title: Central Intelligence Agency (CIA)
+    node_type: organisation
+    slug: central-intelligence-agency-cia
+    shared_claims: 3
+  - node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+    title: Ross Coulthart
+    node_type: person
+    slug: ross-coulthart
+    shared_claims: 2
+  - node_id: dea35210-38f0-4797-8438-84a5a9f42661
+    title: Allen Dulles
+    node_type: person
+    slug: allen-dulles
+    shared_claims: 1
+  - node_id: 93df8d48-8068-409a-a198-27e923af6cde
+    title: Majestic 12 (MJ-12)
+    node_type: project
+    slug: majestic-12-mj-12
+    shared_claims: 1
+  - node_id: 90637a2e-45e8-4044-8247-0148be5af049
+    title: Michele Sindona
+    node_type: person
+    slug: michele-sindona
+    shared_claims: 1
+claims:
+  - claim_id: 5193803a-48ad-4d76-80d9-65986d593cc0
+    claim_hash: 1dbfef4f3c8de6eed3558771fe0b3ec541ed2636b05154d87a748f4cca7b2f55
+    content: Ross Coulthart considers Allen Dulles and James Jesus Angleton to have done totally illegal things while running
+      the Central Intelligence Agency, including misleading presidents and withholding information from elected authorities.
+    original_excerpt: the fact that Allen Dulles and James Jesus Angleton did what I think were totally illegal things when
+      they were running the CIA, and withheld, misled presidents, withheld information from elected authorities
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+      title: Ross Coulthart
+    provenance_chain:
+      origin_kind: speaker
+      origin: Ross Coulthart
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 38b84d4a-96df-4684-bb46-f6f64f392add
+        title: Central Intelligence Agency (CIA)
+        slug: central-intelligence-agency-cia
+      - node_id: 61149dc6-d235-40f3-acf5-11b3498825cd
+        title: James Jesus Angleton
+        slug: james-jesus-angleton
+      - node_id: dea35210-38f0-4797-8438-84a5a9f42661
+        title: Allen Dulles
+        slug: allen-dulles
+      - node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+        title: Ross Coulthart
+        slug: ross-coulthart
+    date: null
+    date_end: null
+    location_in_record: 01:32:17.1-01:32:33.4
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: fd845823-8784-462c-a981-4775525b6f84
+      record_title: The DANGEROUS Truth About UFOs - Ross Coulthart | DEBRIEFED ep. 76
+      record_date: '2026-02-20'
+      record_reference: https://www.youtube.com/watch?v=idBryc0eWww
+      content_hash: sha256:73be106d406f6d35a063a894e8384e7da0918eb8597d2107a9e3653becca2bdc
+      friendly_name: null
+  - claim_id: cd056241-5326-441e-9404-805e25fe6587
+    claim_hash: 7374b344c5477904bc02e61a0f7ba0ae5b2d9e68d237f8c7ffe1081fc0dcbbf3
+    content: Debunkers claim that James Jesus Angleton, head of counterintelligence for the Central Intelligence Agency (CIA),
+      created the Majestic 12 documents to disinform the Soviets into believing the Americans had recovered alien technology.
+    original_excerpt: the documents were conceived by James Jesus Angleton, the notorious head of counterintelligence for
+      the CIA, who on the account that's given by the debunkers, he supposedly created these documents to disinform the Soviets
+      into the belief that the Americans had recovered alien technology.
+    claim_type: hearsay
+    attestation: second_hand
+    speaker:
+      node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+      title: Ross Coulthart
+    provenance_chain:
+      origin_kind: anonymous
+      origin: debunkers of the Majestic 12 documents
+      relay:
+        - Ross Coulthart
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 38b84d4a-96df-4684-bb46-f6f64f392add
+        title: Central Intelligence Agency (CIA)
+        slug: central-intelligence-agency-cia
+      - node_id: 61149dc6-d235-40f3-acf5-11b3498825cd
+        title: James Jesus Angleton
+        slug: james-jesus-angleton
+      - node_id: 93df8d48-8068-409a-a198-27e923af6cde
+        title: Majestic 12 (MJ-12)
+        slug: majestic-12-mj-12
+      - node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+        title: Ross Coulthart
+        slug: ross-coulthart
+    date: null
+    date_end: null
+    location_in_record: 00:21:18.3-00:21:38.0
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: d17e43f2-fe6c-4a2d-824d-fd379e6891c5
+      record_title: Watergate, the JFK assassination and a UFO secret at the center of it all | Reality Check
+      record_date: '2026-06-18'
+      record_reference: https://www.youtube.com/watch?v=PeULVsP-jEQ
+      content_hash: sha256:997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc07360cb2ab1
+      friendly_name: null
+  - claim_id: 52c10377-9f94-409a-b065-70f66af6471b
+    claim_hash: 6cf483c17abd6a81161639cd00cc2c905811f4cfda9e605e93da2fef5ad148aa
+    content: The Lancer document came from a counterintelligence officer who worked under James Jesus Angleton and who, after
+      Angleton's death, was called in to go through Angleton's safes and destroy a number of documents.
+    original_excerpt: it's from a counterintelligence officer who worked under James Jesus Angleton, and who after Angleton's
+      death was called in to go through Angleton's safes and to destroy a number of documents.
+    claim_type: administrative
+    attestation: first_hand
+    speaker:
+      node_id: c16c86b6-7526-46cd-bcd8-7f74283ebf2c
+      title: Jonathan Caplan
+    provenance_chain:
+      origin_kind: speaker
+      origin: Jonathan Caplan
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 61149dc6-d235-40f3-acf5-11b3498825cd
+        title: James Jesus Angleton
+        slug: james-jesus-angleton
+    date: null
+    date_end: null
+    location_in_record: 00:59:57.2-01:00:16.6
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: d17e43f2-fe6c-4a2d-824d-fd379e6891c5
+      record_title: Watergate, the JFK assassination and a UFO secret at the center of it all | Reality Check
+      record_date: '2026-06-18'
+      record_reference: https://www.youtube.com/watch?v=PeULVsP-jEQ
+      content_hash: sha256:997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc07360cb2ab1
+      friendly_name: null
+  - claim_id: 3ed39d82-a3b5-48dd-a524-7b1f5bdd9b5e
+    claim_hash: b1ff07b9ff64cca9405599dbae12a89c8e00664250cf175c636e93a8e30b0c54
+    content: James Jesus Angleton did not put many documents into the Central Intelligence Agency system, keeping about 40
+      of his own safes, many of which had to be blown open after his death.
+    original_excerpt: Angleton did not put into the CIA system many documents. He had his own safes, I think about 40 of them,
+      many of which had to be blown open after his death.
+    claim_type: administrative
+    attestation: first_hand
+    speaker:
+      node_id: c16c86b6-7526-46cd-bcd8-7f74283ebf2c
+      title: Jonathan Caplan
+    provenance_chain:
+      origin_kind: speaker
+      origin: Jonathan Caplan
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 38b84d4a-96df-4684-bb46-f6f64f392add
+        title: Central Intelligence Agency (CIA)
+        slug: central-intelligence-agency-cia
+      - node_id: 61149dc6-d235-40f3-acf5-11b3498825cd
+        title: James Jesus Angleton
+        slug: james-jesus-angleton
+    date: null
+    date_end: null
+    location_in_record: 01:00:22.5-01:00:33.7
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: d17e43f2-fe6c-4a2d-824d-fd379e6891c5
+      record_title: Watergate, the JFK assassination and a UFO secret at the center of it all | Reality Check
+      record_date: '2026-06-18'
+      record_reference: https://www.youtube.com/watch?v=PeULVsP-jEQ
+      content_hash: sha256:997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc07360cb2ab1
+      friendly_name: null
+  - claim_id: 69c59a84-5f6c-4035-af19-ce75c154ac83
+    claim_hash: 80af24cf733b21475898384de012250d8a3ba9a7482beac24c19950c834e190f
+    content: The Lancer document was found in one of James Jesus Angleton's safes with instructions to destroy it, and the
+      counterintelligence officer pulled it from the flames instead of destroying it.
+    original_excerpt: this document was in one of those safes and the instruction was to destroy it, to destroy any documents
+      that were of this or other sensitive nature and he actually literally pulled this from the flames
+    claim_type: administrative
+    attestation: first_hand
+    speaker:
+      node_id: c16c86b6-7526-46cd-bcd8-7f74283ebf2c
+      title: Jonathan Caplan
+    provenance_chain:
+      origin_kind: speaker
+      origin: Jonathan Caplan
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 61149dc6-d235-40f3-acf5-11b3498825cd
+        title: James Jesus Angleton
+        slug: james-jesus-angleton
+    date: null
+    date_end: null
+    location_in_record: 01:00:35.8-01:00:51.4
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: d17e43f2-fe6c-4a2d-824d-fd379e6891c5
+      record_title: Watergate, the JFK assassination and a UFO secret at the center of it all | Reality Check
+      record_date: '2026-06-18'
+      record_reference: https://www.youtube.com/watch?v=PeULVsP-jEQ
+      content_hash: sha256:997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc07360cb2ab1
+      friendly_name: null
+  - claim_id: 5e1ed8c4-8ac9-43f8-9cfb-0088e583ec40
+    claim_hash: 7c4f8fb0e1611e7f89cb63c2e534ed5012dd8655422b1cb81863504a5cf57d74
+    content: Michele Sindona had worked with James Jesus Angleton and was a major mafia figure.
+    original_excerpt: This guy had worked with James Jesus Angleton, big mob figure.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: ff0a86b8-8f3c-4291-94ed-c6d303875ce8
+      title: Jason Samosa
+    provenance_chain:
+      origin_kind: speaker
+      origin: Jason Samosa
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 61149dc6-d235-40f3-acf5-11b3498825cd
+        title: James Jesus Angleton
+        slug: james-jesus-angleton
+      - node_id: 90637a2e-45e8-4044-8247-0148be5af049
+        title: Michele Sindona
+        slug: michele-sindona
+    date: null
+    date_end: null
+    location_in_record: 01:38:00.1-01:38:02.4
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 64b84f95-238c-4ab7-a678-bee55f985b14
+      record_title: The UFO Cover-Up Leads to One Secret Society — and One Final Event
+      record_date: '2026-07-14'
+      record_reference: https://www.youtube.com/watch?v=kccrkCGGzX4
+      content_hash: sha256:d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7b5a1b98d
+      friendly_name: null

@@ -1,0 +1,971 @@
+schema: anomalica/brief/1
+brief_hash: 8b56fb861e5dc5ebadf222eea41efcbdb8b9e47a152c3a3788e7ca3a3155fccb
+page:
+  kind: entity
+  node_id: 4971b32b-e8d8-488a-8cf4-35f92bef0cd0
+  node_type: person
+  title: Dan Burisch
+  slug: dan-burisch
+  claim_count: 23
+  claim_count_total: 23
+generated:
+  graph_version: '2026-09-01T10:10:49.863545+00:00'
+size:
+  claims: 23
+  tokens_estimated: 6536
+  sized_against: 1050000
+publication:
+  status: published
+  note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
+    transcripts are gated elsewhere.
+belonging:
+  verified: 0
+  suspect_excluded: 0
+  unreviewed: 23
+related_nodes:
+  - node_id: 24d00311-06ac-46a1-a2f5-c99f3f8e21b2
+    title: Chris Ramsay
+    node_type: person
+    slug: chris-ramsay
+    shared_claims: 4
+  - node_id: b0c0fde0-37e6-4632-8d64-a95091f03a49
+    title: Bob Lazar
+    node_type: person
+    slug: bob-lazar
+    shared_claims: 3
+  - node_id: 06d4236f-ce94-44f6-9bc9-1fbdf64624b8
+    title: Mike McConnell
+    node_type: person
+    slug: mike-mcconnell
+    shared_claims: 3
+  - node_id: 155efdc3-834c-4ab4-8fea-252a588f0f95
+    title: Stony Brook University
+    node_type: organisation
+    slug: stony-brook-university
+    shared_claims: 3
+  - node_id: 93df8d48-8068-409a-a198-27e923af6cde
+    title: Majestic 12 (MJ-12)
+    node_type: project
+    slug: majestic-12-mj-12
+    shared_claims: 2
+  - node_id: 9c74d864-957a-4654-a5b6-1249fe654ec7
+    title: Non-Human Intelligence
+    node_type: topic
+    slug: non-human-intelligence
+    shared_claims: 2
+  - node_id: 45ac8217-cdf0-424d-8011-1bb6c89f1148
+    title: S4 (facility)
+    node_type: place
+    slug: s4-facility
+    shared_claims: 2
+  - node_id: 0b47cac5-b9cc-44ea-a2aa-5cbd39a0d21a
+    title: Unidentified Aerial Phenomena (UAP) Gerb
+    node_type: person
+    slug: unidentified-aerial-phenomena-uap-gerb
+    shared_claims: 2
+  - node_id: 98eeed83-96a9-45ef-bb14-cb915d45fc9c
+    title: Alien abduction
+    node_type: topic
+    slug: alien-abduction
+    shared_claims: 1
+  - node_id: 99284f65-70b2-42db-9b2b-8ae4d214c701
+    title: Brian Jackson
+    node_type: person
+    slug: brian-jackson
+    shared_claims: 1
+  - node_id: de8b9d57-f9e4-46a2-b89c-480272a39d85
+    title: Edward Teller
+    node_type: person
+    slug: edward-teller
+    shared_claims: 1
+  - node_id: 33ae3380-25ea-442a-9d60-69b285a20182
+    title: Hillary Clinton
+    node_type: person
+    slug: hillary-clinton
+    shared_claims: 1
+  - node_id: 72643bc6-8e3c-40b5-8ea0-8e4abc8ea78e
+    title: Night Shift (podcast)
+    node_type: organisation
+    slug: night-shift-podcast
+    shared_claims: 1
+  - node_id: 32208595-b5c9-4061-a255-d42a5ff8c7aa
+    title: Telepathic communication (alien contact)
+    node_type: topic
+    slug: telepathic-communication-alien-contact
+    shared_claims: 1
+  - node_id: 1c57cd6c-8c54-4f61-b180-2bd899c69889
+    title: Time travel
+    node_type: topic
+    slug: time-travel
+    shared_claims: 1
+  - node_id: 064e1cda-114d-40f3-8829-a478af9f103c
+    title: breakaway civilisation
+    node_type: topic
+    slug: breakaway-civilisation
+    shared_claims: 1
+claims:
+  - claim_id: 65610d91-840a-4097-95f9-1110d5f39986
+    claim_hash: ac7a8f57590f12e6242461168209c2919587fd34389c471cf8f487a90e70e9f6
+    content: Dan Burisch worked at S4 facility around 1996 and came forward publicly in the 2000s.
+    original_excerpt: I think in the 90s, '96 was it maybe, or he worked at S4 in '96 and came out in 2000s.
+    claim_type: hearsay
+    attestation: second_hand
+    speaker:
+      node_id: 24d00311-06ac-46a1-a2f5-c99f3f8e21b2
+      title: Chris Ramsay
+    provenance_chain:
+      origin_kind: named
+      origin: Dan Burisch
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 45ac8217-cdf0-424d-8011-1bb6c89f1148
+        title: S4 (facility)
+        slug: s4-facility
+      - node_id: 4971b32b-e8d8-488a-8cf4-35f92bef0cd0
+        title: Dan Burisch
+        slug: dan-burisch
+    date: '1996'
+    date_end: null
+    location_in_record: 00:59:04.4-00:59:12.2
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3b05e864-7a02-462a-828a-903374db8ce7
+      record_title: UFO Witness Reveals CHILLING Daytime Alien Encounter - Peter Khoury - DEBRIEFED ep. 58
+      record_date: '2025-10-17'
+      record_reference: https://www.youtube.com/watch?v=wX3whEVHr3g
+      content_hash: sha256:b75101566131346a95237998494f68630d802a73409e5a64893cf350b414c437
+      friendly_name: 2025-10-17-video-ufo-witness-reveals-chilling-daytime-alien-encounter-peter.v2
+  - claim_id: 6b5fe768-03df-4b50-ab94-3ec3eadecc4c
+    claim_hash: 843226ee9133f0a429f1b9ab595ed2cb14333e14d942bce2a92a75cee42b1961
+    content: Dan Burisch claimed to have worked with a being known as J-Rod, an alleged extraterrestrial being, at the S4
+      facility.
+    original_excerpt: This guy claimed to have worked with a being known as J-Rod, they called him.
+    claim_type: hearsay
+    attestation: second_hand
+    speaker:
+      node_id: 24d00311-06ac-46a1-a2f5-c99f3f8e21b2
+      title: Chris Ramsay
+    provenance_chain:
+      origin_kind: named
+      origin: Dan Burisch
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 45ac8217-cdf0-424d-8011-1bb6c89f1148
+        title: S4 (facility)
+        slug: s4-facility
+      - node_id: 4971b32b-e8d8-488a-8cf4-35f92bef0cd0
+        title: Dan Burisch
+        slug: dan-burisch
+    date: null
+    date_end: null
+    location_in_record: 00:59:16.9-00:59:21.4
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3b05e864-7a02-462a-828a-903374db8ce7
+      record_title: UFO Witness Reveals CHILLING Daytime Alien Encounter - Peter Khoury - DEBRIEFED ep. 58
+      record_date: '2025-10-17'
+      record_reference: https://www.youtube.com/watch?v=wX3whEVHr3g
+      content_hash: sha256:b75101566131346a95237998494f68630d802a73409e5a64893cf350b414c437
+      friendly_name: 2025-10-17-video-ufo-witness-reveals-chilling-daytime-alien-encounter-peter.v2
+  - claim_id: 1ab13be7-638d-49a4-b430-bdc552d1b085
+    claim_hash: a603d027d05319f0ba5eb1a51bec5ed19f27f88030cb53bc4f0366184c06c6df
+    content: Dan Burisch was a microbiologist or geneticist responsible for taking skin samples from J-Rod, the alleged extraterrestrial
+      being he worked with, on a daily basis.
+    original_excerpt: he was in charge of basically taking skin samples from this being day in, day out
+    claim_type: hearsay
+    attestation: second_hand
+    speaker:
+      node_id: 24d00311-06ac-46a1-a2f5-c99f3f8e21b2
+      title: Chris Ramsay
+    provenance_chain:
+      origin_kind: named
+      origin: Dan Burisch
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 4971b32b-e8d8-488a-8cf4-35f92bef0cd0
+        title: Dan Burisch
+        slug: dan-burisch
+    date: null
+    date_end: null
+    location_in_record: 00:59:32.3-00:59:36.6
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3b05e864-7a02-462a-828a-903374db8ce7
+      record_title: UFO Witness Reveals CHILLING Daytime Alien Encounter - Peter Khoury - DEBRIEFED ep. 58
+      record_date: '2025-10-17'
+      record_reference: https://www.youtube.com/watch?v=wX3whEVHr3g
+      content_hash: sha256:b75101566131346a95237998494f68630d802a73409e5a64893cf350b414c437
+      friendly_name: 2025-10-17-video-ufo-witness-reveals-chilling-daytime-alien-encounter-peter.v2
+  - claim_id: 38c582cb-fc65-44f6-874b-33fddce06460
+    claim_hash: 2f608f4f3f80580130107052fc24990bd2f69593514bc10713478cace0999bc4
+    content: Dan Burisch established a telepathic rapport with J-Rod, the alleged extraterrestrial being he worked with.
+    original_excerpt: And he'd established like a telepathic sort of rapport with it.
+    claim_type: hearsay
+    attestation: second_hand
+    speaker:
+      node_id: 24d00311-06ac-46a1-a2f5-c99f3f8e21b2
+      title: Chris Ramsay
+    provenance_chain:
+      origin_kind: named
+      origin: Dan Burisch
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 32208595-b5c9-4061-a255-d42a5ff8c7aa
+        title: Telepathic communication (alien contact)
+        slug: telepathic-communication-alien-contact
+      - node_id: 4971b32b-e8d8-488a-8cf4-35f92bef0cd0
+        title: Dan Burisch
+        slug: dan-burisch
+    date: null
+    date_end: null
+    location_in_record: 00:59:37.3-00:59:41.1
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3b05e864-7a02-462a-828a-903374db8ce7
+      record_title: UFO Witness Reveals CHILLING Daytime Alien Encounter - Peter Khoury - DEBRIEFED ep. 58
+      record_date: '2025-10-17'
+      record_reference: https://www.youtube.com/watch?v=wX3whEVHr3g
+      content_hash: sha256:b75101566131346a95237998494f68630d802a73409e5a64893cf350b414c437
+      friendly_name: 2025-10-17-video-ufo-witness-reveals-chilling-daytime-alien-encounter-peter.v2
+  - claim_id: 8f6a8d33-0f57-4ce0-b4f0-d3ff544bd39b
+    claim_hash: 3f0e223783d825f898032521ffadc24e8ddd6158be425d30ea567b60c52a3048
+    content: Dan Burisch described a protocol not to look into the eyes of the alien being, because looking into its eyes
+      causes a person to fall into them.
+    original_excerpt: they had protocol not to look into their eyes because the second you look into the eyes you fall into
+      them
+    claim_type: hearsay
+    attestation: second_hand
+    speaker:
+      node_id: 24d00311-06ac-46a1-a2f5-c99f3f8e21b2
+      title: Chris Ramsay
+    provenance_chain:
+      origin_kind: named
+      origin: Dan Burisch
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 4971b32b-e8d8-488a-8cf4-35f92bef0cd0
+        title: Dan Burisch
+        slug: dan-burisch
+    date: null
+    date_end: null
+    location_in_record: 00:59:52.0-00:59:58.1
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3b05e864-7a02-462a-828a-903374db8ce7
+      record_title: UFO Witness Reveals CHILLING Daytime Alien Encounter - Peter Khoury - DEBRIEFED ep. 58
+      record_date: '2025-10-17'
+      record_reference: https://www.youtube.com/watch?v=wX3whEVHr3g
+      content_hash: sha256:b75101566131346a95237998494f68630d802a73409e5a64893cf350b414c437
+      friendly_name: 2025-10-17-video-ufo-witness-reveals-chilling-daytime-alien-encounter-peter.v2
+  - claim_id: d4685059-868c-4081-b97b-fb0842eeda41
+    claim_hash: caa470d5fedb9ea59dc4778563ed76891588f5a1e878cd47365886949891b1f7
+    content: The alien beings described by Dan Burisch had large bulbous black eyes in which the whites had been selected
+      out.
+    original_excerpt: large bulbous black eyes. The whites of the eyes had been selected out. So it looked like large people,
+      basically.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 4971b32b-e8d8-488a-8cf4-35f92bef0cd0
+      title: Dan Burisch
+    provenance_chain:
+      origin_kind: speaker
+      origin: Dan Burisch
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 4971b32b-e8d8-488a-8cf4-35f92bef0cd0
+        title: Dan Burisch
+        slug: dan-burisch
+    date: null
+    date_end: null
+    location_in_record: 01:00:07.6-01:00:15.5
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3b05e864-7a02-462a-828a-903374db8ce7
+      record_title: UFO Witness Reveals CHILLING Daytime Alien Encounter - Peter Khoury - DEBRIEFED ep. 58
+      record_date: '2025-10-17'
+      record_reference: https://www.youtube.com/watch?v=wX3whEVHr3g
+      content_hash: sha256:b75101566131346a95237998494f68630d802a73409e5a64893cf350b414c437
+      friendly_name: 2025-10-17-video-ufo-witness-reveals-chilling-daytime-alien-encounter-peter.v2
+  - claim_id: 1b54d707-17e7-467b-96cf-82e5c410dcf7
+    claim_hash: 3cd4b07e195470fd5f119b2c982d488ba97d76ab971b005255fc330a9d81098f
+    content: Dan Burisch described looking into the eyes of the alien being as feeling like falling into the eyes forever.
+    original_excerpt: When you look into his eyes, you feel like you're going to fall into his eyes forever.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 4971b32b-e8d8-488a-8cf4-35f92bef0cd0
+      title: Dan Burisch
+    provenance_chain:
+      origin_kind: speaker
+      origin: Dan Burisch
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 4971b32b-e8d8-488a-8cf4-35f92bef0cd0
+        title: Dan Burisch
+        slug: dan-burisch
+    date: null
+    date_end: null
+    location_in_record: 01:00:16.4-01:00:19.3
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3b05e864-7a02-462a-828a-903374db8ce7
+      record_title: UFO Witness Reveals CHILLING Daytime Alien Encounter - Peter Khoury - DEBRIEFED ep. 58
+      record_date: '2025-10-17'
+      record_reference: https://www.youtube.com/watch?v=wX3whEVHr3g
+      content_hash: sha256:b75101566131346a95237998494f68630d802a73409e5a64893cf350b414c437
+      friendly_name: 2025-10-17-video-ufo-witness-reveals-chilling-daytime-alien-encounter-peter.v2
+  - claim_id: ae0c85b5-e098-4d9e-ba97-396c235ef6a3
+    claim_hash: db330d0a402602db554e4a814df35b1b68830e7495afce3a886281bb9b80170a
+    content: Dan Burisch said the alien beings entrain on several levels and relax people by flooding them with natural opiates.
+    original_excerpt: They entrain on several levels, and they're able to relax you by actually flooding you with natural
+      opiates.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 4971b32b-e8d8-488a-8cf4-35f92bef0cd0
+      title: Dan Burisch
+    provenance_chain:
+      origin_kind: speaker
+      origin: Dan Burisch
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 4971b32b-e8d8-488a-8cf4-35f92bef0cd0
+        title: Dan Burisch
+        slug: dan-burisch
+    date: null
+    date_end: null
+    location_in_record: 01:00:20.4-01:00:26.3
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3b05e864-7a02-462a-828a-903374db8ce7
+      record_title: UFO Witness Reveals CHILLING Daytime Alien Encounter - Peter Khoury - DEBRIEFED ep. 58
+      record_date: '2025-10-17'
+      record_reference: https://www.youtube.com/watch?v=wX3whEVHr3g
+      content_hash: sha256:b75101566131346a95237998494f68630d802a73409e5a64893cf350b414c437
+      friendly_name: 2025-10-17-video-ufo-witness-reveals-chilling-daytime-alien-encounter-peter.v2
+  - claim_id: ea48310d-8628-40b7-add3-328648090e6a
+    claim_hash: 62b7426c2bbd03721052d85a2d7b9ff0c39402e5b28e58f460e7d965666ea6f2
+    content: Dan Burisch said the alien beings referred to as "the rogues" take people from their bedrooms at night after
+      entrainment to relax them.
+    original_excerpt: in your bedrooms at night, the rogues, if they take you. They entrain to what makes you feel good and
+      then they flood you with endorphins.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 4971b32b-e8d8-488a-8cf4-35f92bef0cd0
+      title: Dan Burisch
+    provenance_chain:
+      origin_kind: speaker
+      origin: Dan Burisch
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 4971b32b-e8d8-488a-8cf4-35f92bef0cd0
+        title: Dan Burisch
+        slug: dan-burisch
+    date: null
+    date_end: null
+    location_in_record: 01:00:37.7-01:00:46.2
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3b05e864-7a02-462a-828a-903374db8ce7
+      record_title: UFO Witness Reveals CHILLING Daytime Alien Encounter - Peter Khoury - DEBRIEFED ep. 58
+      record_date: '2025-10-17'
+      record_reference: https://www.youtube.com/watch?v=wX3whEVHr3g
+      content_hash: sha256:b75101566131346a95237998494f68630d802a73409e5a64893cf350b414c437
+      friendly_name: 2025-10-17-video-ufo-witness-reveals-chilling-daytime-alien-encounter-peter.v2
+  - claim_id: a8950911-b7a6-4124-bbaf-10960323efe2
+    claim_hash: 516830c08fb9ea677665f57df826b7948058b3651c9fa629ef7f104018c0c21d
+    content: Dan Burisch said that non-human beings, when looked at in the eyes, flood a person with their own endorphins
+      and produce a sense of calm, peace and near-euphoria, creating a false sense of familiarity, and that it was rogue entities
+      who took people at night who did this.
+    original_excerpt: there are tales from people like Dan Burisch... he would also say that these beings would when looking
+      into their eyes flood you with your own endorphins and give you a sense of calm and peace and almost euphoria... he
+      said that it was the rogue entities the ones that took you at night that did that to you
+    claim_type: hearsay
+    attestation: second_hand
+    speaker:
+      node_id: 24d00311-06ac-46a1-a2f5-c99f3f8e21b2
+      title: Chris Ramsay
+    provenance_chain:
+      origin_kind: named
+      origin: Dan Burisch
+      relay:
+        - Chris Ramsay
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 24d00311-06ac-46a1-a2f5-c99f3f8e21b2
+        title: Chris Ramsay
+        slug: chris-ramsay
+      - node_id: 4971b32b-e8d8-488a-8cf4-35f92bef0cd0
+        title: Dan Burisch
+        slug: dan-burisch
+      - node_id: 98eeed83-96a9-45ef-bb14-cb915d45fc9c
+        title: Alien abduction
+        slug: alien-abduction
+    date: null
+    date_end: null
+    location_in_record: 01:49:34.4-01:49:58.7
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: fd845823-8784-462c-a981-4775525b6f84
+      record_title: The DANGEROUS Truth About UFOs - Ross Coulthart | DEBRIEFED ep. 76
+      record_date: '2026-02-20'
+      record_reference: https://www.youtube.com/watch?v=idBryc0eWww
+      content_hash: sha256:73be106d406f6d35a063a894e8384e7da0918eb8597d2107a9e3653becca2bdc
+      friendly_name: null
+  - claim_id: b7284e7c-253b-4d71-be01-38e8f9e260d4
+    claim_hash: be05f05a53a527ef44107615c0bc7891c207891fbdeefe5a8a03af9b08846eea
+    content: Chris Ramsay would choose Dan Burisch as a person he would want to interview, followed by Bob Lazar.
+    original_excerpt: I think Dan Burrish... Dan Burrish would be a big, and obviously, you know, Bob Lazar's up there. I
+      think he's everyone's number one.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 24d00311-06ac-46a1-a2f5-c99f3f8e21b2
+      title: Chris Ramsay
+    provenance_chain:
+      origin_kind: speaker
+      origin: Chris Ramsay
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 24d00311-06ac-46a1-a2f5-c99f3f8e21b2
+        title: Chris Ramsay
+        slug: chris-ramsay
+      - node_id: 4971b32b-e8d8-488a-8cf4-35f92bef0cd0
+        title: Dan Burisch
+        slug: dan-burisch
+      - node_id: b0c0fde0-37e6-4632-8d64-a95091f03a49
+        title: Bob Lazar
+        slug: bob-lazar
+    date: null
+    date_end: null
+    location_in_record: 00:40:36.0-00:40:45.0
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: dc9d8bc8-9c1f-46b4-9b89-8d86b6b08e1d
+      record_title: Jesse Michels, UAPGerb & Chris Ramsay - Flying Saucer Diner
+      record_date: '2026-07-17'
+      record_reference: https://www.youtube.com/watch?v=HFLBDi87888
+      content_hash: sha256:7b2e272d7c82fdda745ee0354d7c9cc4b0d5ba5506015ca27edd9169a768b262
+      friendly_name: null
+  - claim_id: b302e234-70c5-49e9-bea5-d1d924df7ed0
+    claim_hash: cc88d170830dbbfd87d5293134c6f7dd11fee0de2260eb9f83c64e60584c02df
+    content: Dan Burisch has refrained from giving interviews since he came forward in the early 2000s.
+    original_excerpt: but Dan Burish, I think because he's limited himself to not doing any of these interviews ever, like,
+      you know, since the early 2000s when he came out
+    claim_type: administrative
+    attestation: null
+    speaker:
+      node_id: 24d00311-06ac-46a1-a2f5-c99f3f8e21b2
+      title: Chris Ramsay
+    provenance_chain:
+      origin_kind: unattributed
+      origin: narration by Chris Ramsay
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 4971b32b-e8d8-488a-8cf4-35f92bef0cd0
+        title: Dan Burisch
+        slug: dan-burisch
+    date: null
+    date_end: null
+    location_in_record: 00:40:47.4-00:40:58.6
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: dc9d8bc8-9c1f-46b4-9b89-8d86b6b08e1d
+      record_title: Jesse Michels, UAPGerb & Chris Ramsay - Flying Saucer Diner
+      record_date: '2026-07-17'
+      record_reference: https://www.youtube.com/watch?v=HFLBDi87888
+      content_hash: sha256:7b2e272d7c82fdda745ee0354d7c9cc4b0d5ba5506015ca27edd9169a768b262
+      friendly_name: null
+  - claim_id: 5416eccf-3aa7-480d-ac3b-b56bfd3d6525
+    claim_hash: 0c6f463916a494b26c91e60d52724d359bdc12cc88d40332c7dda887b00698a1
+    content: Chris Ramsay has heard unattributed stories that Dan Burisch is under house arrest somewhere in Canada, is not
+      to be approached, and is watched by former Majestic 12 (MJ-12) associated personnel who cannot be got close to.
+    original_excerpt: There's so many weird stories I hear around Dan Burrish and like that he's under house arrest somewhere
+      in Canada and that like do not approach. Like he's being literally babysat by like ex-MJ-12 like type cats that you
+      can't even get close to.
+    claim_type: hearsay
+    attestation: second_hand
+    speaker:
+      node_id: 24d00311-06ac-46a1-a2f5-c99f3f8e21b2
+      title: Chris Ramsay
+    provenance_chain:
+      origin_kind: anonymous
+      origin: unnamed people circulating stories about Dan Burisch
+      relay:
+        - Chris Ramsay
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 24d00311-06ac-46a1-a2f5-c99f3f8e21b2
+        title: Chris Ramsay
+        slug: chris-ramsay
+      - node_id: 4971b32b-e8d8-488a-8cf4-35f92bef0cd0
+        title: Dan Burisch
+        slug: dan-burisch
+      - node_id: 93df8d48-8068-409a-a198-27e923af6cde
+        title: Majestic 12 (MJ-12)
+        slug: majestic-12-mj-12
+    date: null
+    date_end: null
+    location_in_record: 00:41:05.2-00:41:20.1
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: dc9d8bc8-9c1f-46b4-9b89-8d86b6b08e1d
+      record_title: Jesse Michels, UAPGerb & Chris Ramsay - Flying Saucer Diner
+      record_date: '2026-07-17'
+      record_reference: https://www.youtube.com/watch?v=HFLBDi87888
+      content_hash: sha256:7b2e272d7c82fdda745ee0354d7c9cc4b0d5ba5506015ca27edd9169a768b262
+      friendly_name: null
+  - claim_id: 497a4f4a-f316-488e-a6c3-1d6c2a5c6826
+    claim_hash: 72ec9dc866a99e6be681dc9d3a3fa0a9c1ea0de2e8091ab9c057d5501886cc3d
+    content: UAP Gerb characterises the personnel watching Dan Burisch as deputies of Majestic 12 (MJ-12).
+    original_excerpt: Like MJ-12 deputies essentially.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 0b47cac5-b9cc-44ea-a2aa-5cbd39a0d21a
+      title: Unidentified Aerial Phenomena (UAP) Gerb
+    provenance_chain:
+      origin_kind: speaker
+      origin: UAP Gerb
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 0b47cac5-b9cc-44ea-a2aa-5cbd39a0d21a
+        title: Unidentified Aerial Phenomena (UAP) Gerb
+        slug: unidentified-aerial-phenomena-uap-gerb
+      - node_id: 4971b32b-e8d8-488a-8cf4-35f92bef0cd0
+        title: Dan Burisch
+        slug: dan-burisch
+      - node_id: 93df8d48-8068-409a-a198-27e923af6cde
+        title: Majestic 12 (MJ-12)
+        slug: majestic-12-mj-12
+    date: null
+    date_end: null
+    location_in_record: 00:41:24.3-00:41:25.7
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: dc9d8bc8-9c1f-46b4-9b89-8d86b6b08e1d
+      record_title: Jesse Michels, UAPGerb & Chris Ramsay - Flying Saucer Diner
+      record_date: '2026-07-17'
+      record_reference: https://www.youtube.com/watch?v=HFLBDi87888
+      content_hash: sha256:7b2e272d7c82fdda745ee0354d7c9cc4b0d5ba5506015ca27edd9169a768b262
+      friendly_name: null
+  - claim_id: 332cfe34-d172-4705-8f55-8c55a9bded74
+    claim_hash: dc2048291479833f1623c61ea4100e922c6b206db541bcadc009f57acc0f9e21
+    content: Dan Burisch gave a public speaking event on molecular biology at Stony Brook University, an appearance which
+      is documented on paper.
+    original_excerpt: the fact that where was that university that he went to to like do the public speaking event on molecular
+      biology... And that's on paper. ... It was Stony Brook.
+    claim_type: administrative
+    attestation: null
+    speaker:
+      node_id: 079d4381-4273-418b-bc9a-468623f95c6e
+      title: Jesse Mitchells
+    provenance_chain:
+      origin_kind: unattributed
+      origin: narration by Chris Ramsay and Jesse Michels
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 155efdc3-834c-4ab4-8fea-252a588f0f95
+        title: Stony Brook University
+        slug: stony-brook-university
+      - node_id: 4971b32b-e8d8-488a-8cf4-35f92bef0cd0
+        title: Dan Burisch
+        slug: dan-burisch
+    date: null
+    date_end: null
+    location_in_record: 00:41:55.1-00:42:03.9
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: dc9d8bc8-9c1f-46b4-9b89-8d86b6b08e1d
+      record_title: Jesse Michels, UAPGerb & Chris Ramsay - Flying Saucer Diner
+      record_date: '2026-07-17'
+      record_reference: https://www.youtube.com/watch?v=HFLBDi87888
+      content_hash: sha256:7b2e272d7c82fdda745ee0354d7c9cc4b0d5ba5506015ca27edd9169a768b262
+      friendly_name: null
+  - claim_id: c9027389-38b8-4b56-955f-0aec01c5b801
+    claim_hash: 4d7ae665c8e9686c5a28d18a4f3cf0ae128de267fd4c8506f0f15f6afddc885f
+    content: Dan Burisch's academic records were erased after his Stony Brook University talk, similarly to the erasure of
+      Bob Lazar's educational records.
+    original_excerpt: And then afterwards, to have his schooling completely erased, not unlike Bob Lazar, where you can't
+      track them, but we do have this talk that he did at this really prestigious school.
+    claim_type: administrative
+    attestation: null
+    speaker:
+      node_id: 24d00311-06ac-46a1-a2f5-c99f3f8e21b2
+      title: Chris Ramsay
+    provenance_chain:
+      origin_kind: unattributed
+      origin: narration by Chris Ramsay
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 155efdc3-834c-4ab4-8fea-252a588f0f95
+        title: Stony Brook University
+        slug: stony-brook-university
+      - node_id: 4971b32b-e8d8-488a-8cf4-35f92bef0cd0
+        title: Dan Burisch
+        slug: dan-burisch
+      - node_id: b0c0fde0-37e6-4632-8d64-a95091f03a49
+        title: Bob Lazar
+        slug: bob-lazar
+    date: null
+    date_end: null
+    location_in_record: 00:42:21.2-00:42:35.8
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: dc9d8bc8-9c1f-46b4-9b89-8d86b6b08e1d
+      record_title: Jesse Michels, UAPGerb & Chris Ramsay - Flying Saucer Diner
+      record_date: '2026-07-17'
+      record_reference: https://www.youtube.com/watch?v=HFLBDi87888
+      content_hash: sha256:7b2e272d7c82fdda745ee0354d7c9cc4b0d5ba5506015ca27edd9169a768b262
+      friendly_name: null
+  - claim_id: ebab6212-6457-4861-a43e-2d6d97b66625
+    claim_hash: f8f3f818211e1e044edb09dc288cc0678f4129248af5610afd4c3c69e5afac28
+    content: Chris Ramsay regards Dan Burisch's documented Stony Brook University talk as corroborative evidence that he is
+      who he says he is.
+    original_excerpt: Like you have really, really interesting corroborative evidence of this guy being who he says he is.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 24d00311-06ac-46a1-a2f5-c99f3f8e21b2
+      title: Chris Ramsay
+    provenance_chain:
+      origin_kind: speaker
+      origin: Chris Ramsay
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 155efdc3-834c-4ab4-8fea-252a588f0f95
+        title: Stony Brook University
+        slug: stony-brook-university
+      - node_id: 24d00311-06ac-46a1-a2f5-c99f3f8e21b2
+        title: Chris Ramsay
+        slug: chris-ramsay
+      - node_id: 4971b32b-e8d8-488a-8cf4-35f92bef0cd0
+        title: Dan Burisch
+        slug: dan-burisch
+    date: null
+    date_end: null
+    location_in_record: 00:42:40.2-00:42:45.7
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: dc9d8bc8-9c1f-46b4-9b89-8d86b6b08e1d
+      record_title: Jesse Michels, UAPGerb & Chris Ramsay - Flying Saucer Diner
+      record_date: '2026-07-17'
+      record_reference: https://www.youtube.com/watch?v=HFLBDi87888
+      content_hash: sha256:7b2e272d7c82fdda745ee0354d7c9cc4b0d5ba5506015ca27edd9169a768b262
+      friendly_name: null
+  - claim_id: 38a16623-5cce-49f1-800f-0eab37eca630
+    claim_hash: 06c55953d8691b137d38dc799ec9f37f4d17a95fb0324c0f0af9c6445399bc0e
+    content: Dan Burisch, by his own account, was recruited into the classified programme by Edward Teller, in the same way
+      that Bob Lazar entered it.
+    original_excerpt: he also got into the program kind of the same way that Bob did through- Edward Teller... He recruited
+      him. Or according to him.
+    claim_type: hearsay
+    attestation: second_hand
+    speaker:
+      node_id: 079d4381-4273-418b-bc9a-468623f95c6e
+      title: Jesse Mitchells
+    provenance_chain:
+      origin_kind: named
+      origin: Dan Burisch
+      relay:
+        - Jesse Michels
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 4971b32b-e8d8-488a-8cf4-35f92bef0cd0
+        title: Dan Burisch
+        slug: dan-burisch
+      - node_id: b0c0fde0-37e6-4632-8d64-a95091f03a49
+        title: Bob Lazar
+        slug: bob-lazar
+      - node_id: de8b9d57-f9e4-46a2-b89c-480272a39d85
+        title: Edward Teller
+        slug: edward-teller
+    date: null
+    date_end: null
+    location_in_record: 00:42:50.2-00:42:56.3
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: dc9d8bc8-9c1f-46b4-9b89-8d86b6b08e1d
+      record_title: Jesse Michels, UAPGerb & Chris Ramsay - Flying Saucer Diner
+      record_date: '2026-07-17'
+      record_reference: https://www.youtube.com/watch?v=HFLBDi87888
+      content_hash: sha256:7b2e272d7c82fdda745ee0354d7c9cc4b0d5ba5506015ca27edd9169a768b262
+      friendly_name: null
+  - claim_id: 1e8f8f87-83e8-4d95-a5b5-85ed98dc2eae
+    claim_hash: 615ff52e347978067214f4e69a0a479ebbad41fccab69823f363f8f72c418e82
+    content: A photograph exists showing Dan Burisch with Mike McConnell, a navy admiral and intelligence director.
+    original_excerpt: a photo of him with Mike McConnell who's an SA director of the navy admiral
+    claim_type: administrative
+    attestation: null
+    speaker:
+      node_id: 079d4381-4273-418b-bc9a-468623f95c6e
+      title: Jesse Mitchells
+    provenance_chain:
+      origin_kind: unattributed
+      origin: narration by Jesse Michels
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 06d4236f-ce94-44f6-9bc9-1fbdf64624b8
+        title: Mike McConnell
+        slug: mike-mcconnell
+      - node_id: 4971b32b-e8d8-488a-8cf4-35f92bef0cd0
+        title: Dan Burisch
+        slug: dan-burisch
+    date: null
+    date_end: null
+    location_in_record: 00:43:03.2-00:43:07.2
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: dc9d8bc8-9c1f-46b4-9b89-8d86b6b08e1d
+      record_title: Jesse Michels, UAPGerb & Chris Ramsay - Flying Saucer Diner
+      record_date: '2026-07-17'
+      record_reference: https://www.youtube.com/watch?v=HFLBDi87888
+      content_hash: sha256:7b2e272d7c82fdda745ee0354d7c9cc4b0d5ba5506015ca27edd9169a768b262
+      friendly_name: null
+  - claim_id: 50c97dbd-e78d-4d1c-9db7-43d0f40f2358
+    claim_hash: ddb3beca21d6d5d2ed5453721b3e2350afc28705187ec12ee05652c79cd08733
+    content: Clint of the Night Shift podcast holds high confidence that the photograph said to show Dan Burisch with Mike
+      McConnell is genuine, but UAP Gerb considers the identification not yet conclusive.
+    original_excerpt: yeah Clint from uh night shift is pretty positive on that but i don't think it's conclusive yet... but
+      he's really high confidence on it but i don't i don't think it's been definitive
+    claim_type: opinion
+    attestation: second_hand
+    speaker:
+      node_id: 0b47cac5-b9cc-44ea-a2aa-5cbd39a0d21a
+      title: Unidentified Aerial Phenomena (UAP) Gerb
+    provenance_chain:
+      origin_kind: named
+      origin: Clint of the Night Shift podcast
+      relay:
+        - UAP Gerb
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 06d4236f-ce94-44f6-9bc9-1fbdf64624b8
+        title: Mike McConnell
+        slug: mike-mcconnell
+      - node_id: 0b47cac5-b9cc-44ea-a2aa-5cbd39a0d21a
+        title: Unidentified Aerial Phenomena (UAP) Gerb
+        slug: unidentified-aerial-phenomena-uap-gerb
+      - node_id: 4971b32b-e8d8-488a-8cf4-35f92bef0cd0
+        title: Dan Burisch
+        slug: dan-burisch
+      - node_id: 72643bc6-8e3c-40b5-8ea0-8e4abc8ea78e
+        title: Night Shift (podcast)
+        slug: night-shift-podcast
+    date: null
+    date_end: null
+    location_in_record: 00:43:07.6-00:43:16.3
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: dc9d8bc8-9c1f-46b4-9b89-8d86b6b08e1d
+      record_title: Jesse Michels, UAPGerb & Chris Ramsay - Flying Saucer Diner
+      record_date: '2026-07-17'
+      record_reference: https://www.youtube.com/watch?v=HFLBDi87888
+      content_hash: sha256:7b2e272d7c82fdda745ee0354d7c9cc4b0d5ba5506015ca27edd9169a768b262
+      friendly_name: null
+  - claim_id: 3f33052a-8b49-4593-b010-9020c398d339
+    claim_hash: 7b5cb65d8629c276052ba3ae3042967df11cbfca7983e1415da87ca844940f20
+    content: The researcher Brian Jackson says Mike McConnell regarded Dan Burisch as the son he never had, that McConnell's
+      own son died in unusual circumstances, and that the two were said to have swapped souls.
+    original_excerpt: Because this researcher Brian Jackson says that McConnell viewed him like a son the son he never had
+      and then his son died in a weird way and it's like they swapped souls or something and i i don't know what to make of
+      it
+    claim_type: hearsay
+    attestation: second_hand
+    speaker:
+      node_id: 079d4381-4273-418b-bc9a-468623f95c6e
+      title: Jesse Mitchells
+    provenance_chain:
+      origin_kind: named
+      origin: Brian Jackson
+      relay:
+        - Jesse Michels
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 06d4236f-ce94-44f6-9bc9-1fbdf64624b8
+        title: Mike McConnell
+        slug: mike-mcconnell
+      - node_id: 4971b32b-e8d8-488a-8cf4-35f92bef0cd0
+        title: Dan Burisch
+        slug: dan-burisch
+      - node_id: 99284f65-70b2-42db-9b2b-8ae4d214c701
+        title: Brian Jackson
+        slug: brian-jackson
+    date: null
+    date_end: null
+    location_in_record: 00:43:16.6-00:43:29.5
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: dc9d8bc8-9c1f-46b4-9b89-8d86b6b08e1d
+      record_title: Jesse Michels, UAPGerb & Chris Ramsay - Flying Saucer Diner
+      record_date: '2026-07-17'
+      record_reference: https://www.youtube.com/watch?v=HFLBDi87888
+      content_hash: sha256:7b2e272d7c82fdda745ee0354d7c9cc4b0d5ba5506015ca27edd9169a768b262
+      friendly_name: null
+  - claim_id: a9659008-0cc2-4458-a4de-808d10f5257f
+    claim_hash: 9dc788966eb1b00b9def891db0b79ee1e82cbe7e07a1df15dbf4fd855453c20d
+    content: Dan Burisch claimed the non-human beings he encountered were humans from the future, from two timelines that
+      had separated, both of which had become breakaway civilisations associated with Zeta or Orion.
+    original_excerpt: Bursch claimed that these these beings were sort of us from the future right these two different timelines
+      that have like separated and that both of them ended up being these breakaway civilizations on you know Zeta or whatever
+      Orion
+    claim_type: hearsay
+    attestation: second_hand
+    speaker:
+      node_id: 24d00311-06ac-46a1-a2f5-c99f3f8e21b2
+      title: Chris Ramsay
+    provenance_chain:
+      origin_kind: named
+      origin: Dan Burisch
+      relay:
+        - Chris Ramsay
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 064e1cda-114d-40f3-8829-a478af9f103c
+        title: breakaway civilisation
+        slug: breakaway-civilisation
+      - node_id: 1c57cd6c-8c54-4f61-b180-2bd899c69889
+        title: Time travel
+        slug: time-travel
+      - node_id: 4971b32b-e8d8-488a-8cf4-35f92bef0cd0
+        title: Dan Burisch
+        slug: dan-burisch
+      - node_id: 9c74d864-957a-4654-a5b6-1249fe654ec7
+        title: Non-Human Intelligence
+        slug: non-human-intelligence
+    date: null
+    date_end: null
+    location_in_record: 00:43:32.7-00:43:48.6
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: dc9d8bc8-9c1f-46b4-9b89-8d86b6b08e1d
+      record_title: Jesse Michels, UAPGerb & Chris Ramsay - Flying Saucer Diner
+      record_date: '2026-07-17'
+      record_reference: https://www.youtube.com/watch?v=HFLBDi87888
+      content_hash: sha256:7b2e272d7c82fdda745ee0354d7c9cc4b0d5ba5506015ca27edd9169a768b262
+      friendly_name: null
+  - claim_id: e87db845-7ed6-4d26-bc25-8fbfd28f1c0d
+    claim_hash: 1142cf10e4b51cdf54d7b387e1bdb20ce5858f5bd356f94ae027cf3148283917
+    content: Dan Burisch claimed the non-human beings are trying to steer humanity clear of imminent doom for the planet,
+      which he said would have resulted from Hillary Clinton being elected.
+    original_excerpt: And that they're trying to help us steer clear of what is like imminent doom for this planet, which
+      would have been having Hillary Clinton elected.
+    claim_type: hearsay
+    attestation: second_hand
+    speaker:
+      node_id: 24d00311-06ac-46a1-a2f5-c99f3f8e21b2
+      title: Chris Ramsay
+    provenance_chain:
+      origin_kind: named
+      origin: Dan Burisch
+      relay:
+        - Chris Ramsay
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 33ae3380-25ea-442a-9d60-69b285a20182
+        title: Hillary Clinton
+        slug: hillary-clinton
+      - node_id: 4971b32b-e8d8-488a-8cf4-35f92bef0cd0
+        title: Dan Burisch
+        slug: dan-burisch
+      - node_id: 9c74d864-957a-4654-a5b6-1249fe654ec7
+        title: Non-Human Intelligence
+        slug: non-human-intelligence
+    date: null
+    date_end: null
+    location_in_record: 00:43:50.1-00:44:00.2
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: dc9d8bc8-9c1f-46b4-9b89-8d86b6b08e1d
+      record_title: Jesse Michels, UAPGerb & Chris Ramsay - Flying Saucer Diner
+      record_date: '2026-07-17'
+      record_reference: https://www.youtube.com/watch?v=HFLBDi87888
+      content_hash: sha256:7b2e272d7c82fdda745ee0354d7c9cc4b0d5ba5506015ca27edd9169a768b262
+      friendly_name: null

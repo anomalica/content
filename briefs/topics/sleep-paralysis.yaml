@@ -1,0 +1,1318 @@
+schema: anomalica/brief/1
+brief_hash: 7deff8d04aa4245128c235088fd1d8036955d197a27e67444ffe6fb144f8ba82
+page:
+  kind: entity
+  node_id: 13143b88-fdc8-44c9-a8f2-a6526f76c16e
+  node_type: topic
+  title: Sleep paralysis
+  slug: sleep-paralysis
+  claim_count: 30
+  claim_count_total: 30
+generated:
+  graph_version: '2026-09-01T10:10:49.863545+00:00'
+size:
+  claims: 30
+  tokens_estimated: 9226
+  sized_against: 1050000
+publication:
+  status: published
+  note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
+    transcripts are gated elsewhere.
+belonging:
+  verified: 0
+  suspect_excluded: 0
+  unreviewed: 30
+related_nodes:
+  - node_id: 91228f6b-79b5-483a-a62b-c98f5eed12ab
+    title: Jason Quitt
+    node_type: person
+    slug: jason-quitt
+    shared_claims: 11
+  - node_id: 24d00311-06ac-46a1-a2f5-c99f3f8e21b2
+    title: Chris Ramsay
+    node_type: person
+    slug: chris-ramsay
+    shared_claims: 7
+  - node_id: 98e50374-da8a-4414-998b-d42fce1cd3d7
+    title: Peter Khoury
+    node_type: person
+    slug: peter-khoury
+    shared_claims: 5
+  - node_id: 9fc6a4ad-6793-4a31-9c02-ac449b0be38f
+    title: Ronald Siegel
+    node_type: person
+    slug: ronald-siegel
+    shared_claims: 4
+  - node_id: 3ff75793-423c-4333-8402-d5c543074091
+    title: Bill Chalker
+    node_type: person
+    slug: bill-chalker
+    shared_claims: 3
+  - node_id: 027d3340-be40-4241-9e1f-153b9bea8c62
+    title: John O'Neill
+    node_type: person
+    slug: john-oneill
+    shared_claims: 3
+  - node_id: 8b0155a9-fabc-4b8d-9ee9-45eac58dbf2e
+    title: Out-of-Body Experience (OBE)
+    node_type: topic
+    slug: out-of-body-experience-obe
+    shared_claims: 3
+  - node_id: 98eeed83-96a9-45ef-bb14-cb915d45fc9c
+    title: Alien abduction
+    node_type: topic
+    slug: alien-abduction
+    shared_claims: 2
+  - node_id: 6f1d7102-1298-4638-ab0e-e4a1523d0e25
+    title: Hypnagogic imagery
+    node_type: topic
+    slug: hypnagogic-imagery
+    shared_claims: 2
+  - node_id: 496a6b87-409a-48ae-a59a-2a2fbfa48c07
+    title: Hypnopompic hallucination
+    node_type: topic
+    slug: hypnopompic-hallucination
+    shared_claims: 2
+  - node_id: a610319b-44dc-400e-b0c1-3bc958022b56
+    title: Lucid Dreaming
+    node_type: topic
+    slug: lucid-dreaming
+    shared_claims: 2
+  - node_id: 327a1797-a5ec-414d-b9ae-6486e3e3ffd5
+    title: America Online (AOL)
+    node_type: organisation
+    slug: america-online-aol
+    shared_claims: 1
+  - node_id: a66d3909-374c-40ae-b3e5-97762c0f5eb1
+    title: Australian Skeptics
+    node_type: organisation
+    slug: australian-skeptics
+    shared_claims: 1
+  - node_id: 4860f67b-322c-4a17-a59c-95299225511a
+    title: Bob Mitchell
+    node_type: person
+    slug: bob-mitchell
+    shared_claims: 1
+  - node_id: 0aad9179-33c1-4383-aab7-5eb12429386e
+    title: Erik Nanstiel
+    node_type: person
+    slug: erik-nanstiel
+    shared_claims: 1
+  - node_id: 530511b4-8f58-40fa-927a-2c2aef39d54b
+    title: Erik Nanstiel 1994 grey encounter
+    node_type: event
+    slug: erik-nanstiel-1994-grey-encounter
+    shared_claims: 1
+  - node_id: dcc840c9-8ef1-4997-aaa6-e7b80e8ee90a
+    title: Multi-dimensional body
+    node_type: topic
+    slug: multi-dimensional-body
+    shared_claims: 1
+  - node_id: 4edb686d-59e3-443a-9ebe-bccf34cce70f
+    title: Qigong (Chi Gong)
+    node_type: topic
+    slug: qigong-chi-gong
+    shared_claims: 1
+  - node_id: b92b1eb3-2dab-4b3e-acae-ed9705a8b005
+    title: Shadow people
+    node_type: topic
+    slug: shadow-people
+    shared_claims: 1
+  - node_id: 96175958-bd7a-40fa-864b-8ef07a7b6c5e
+    title: The Monroe Institute
+    node_type: organisation
+    slug: the-monroe-institute
+    shared_claims: 1
+  - node_id: 05df981b-2fd2-4e98-b701-8627e6fc70d5
+    title: The old hag phenomenon
+    node_type: topic
+    slug: the-old-hag-phenomenon
+    shared_claims: 1
+  - node_id: a1944995-1d95-4159-915f-d001d4be3919
+    title: Yahoo
+    node_type: organisation
+    slug: yahoo
+    shared_claims: 1
+claims:
+  - claim_id: 8180101d-c7f1-4b61-859e-50db51c0c959
+    claim_hash: 0654e68619dd5706c58382a5c6f0691bc6a5a4c7ef0ee27f4da9638f748995c6
+    content: John O'Neill, a member of Australian Skeptics, argued that sleep paralysis could explain Peter Khoury's paralysis,
+      hallucination could explain his experience with extraterrestrials, falling asleep could explain his missing time, and
+      the puncture wound and scab could be from a pimple, insect bite, or similar cause.
+    original_excerpt: John O’Neill, a member of Australian Skeptics, argued that sleep paralysis could explain the paralysis
+      Peter Khoury experienced, hallucination could explain his experience with extraterrestrials, falling asleep could explain
+      his missing time, and “the puncture wound and scab could be from anything—a pimple, an insect bite or anything else
+      in approximately the right location.”
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 027d3340-be40-4241-9e1f-153b9bea8c62
+      title: John O'Neill
+    provenance_chain:
+      origin_kind: speaker
+      origin: John O'Neill
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 027d3340-be40-4241-9e1f-153b9bea8c62
+        title: John O'Neill
+        slug: john-oneill
+      - node_id: 13143b88-fdc8-44c9-a8f2-a6526f76c16e
+        title: Sleep paralysis
+        slug: sleep-paralysis
+      - node_id: 98e50374-da8a-4414-998b-d42fce1cd3d7
+        title: Peter Khoury
+        slug: peter-khoury
+      - node_id: a66d3909-374c-40ae-b3e5-97762c0f5eb1
+        title: Australian Skeptics
+        slug: australian-skeptics
+    date: null
+    date_end: null
+    location_in_record: ch8:17206-17574
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 32687cf8-a827-40a9-b9f4-308ca4d9b2b3
+      record_title: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
+      record_date: '2005-11-14'
+      record_reference: null
+      content_hash: sha256:c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95d6ac9c3b
+      friendly_name: 2005-11-14-ebook-hair-of-the-alien-dna-and-other-forensic-evidence-for-alien
+  - claim_id: 8b3947f9-f792-4dc4-bd94-e5303a4a4fae
+    claim_hash: 3a2ecb80d9905c9531715659aa3e3af4030496e135d670f0701bcd4261421c4f
+    content: John O'Neill accepted that Peter Khoury's experience was genuine, having had a sleep paralysis episode himself
+      involving a vague sense of another entity in the room without seeing what it was.
+    original_excerpt: O’Neill accepted that Peter’s experience was genuine, as he himself had had a sleep paralysis episode.
+      But his experience was typically vague...“the feeling of some other entity being in the room, but [I] did not know and
+      could not see what.”
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 027d3340-be40-4241-9e1f-153b9bea8c62
+      title: John O'Neill
+    provenance_chain:
+      origin_kind: speaker
+      origin: John O'Neill
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 027d3340-be40-4241-9e1f-153b9bea8c62
+        title: John O'Neill
+        slug: john-oneill
+      - node_id: 13143b88-fdc8-44c9-a8f2-a6526f76c16e
+        title: Sleep paralysis
+        slug: sleep-paralysis
+      - node_id: 98e50374-da8a-4414-998b-d42fce1cd3d7
+        title: Peter Khoury
+        slug: peter-khoury
+    date: null
+    date_end: null
+    location_in_record: ch8:17586-17856
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 32687cf8-a827-40a9-b9f4-308ca4d9b2b3
+      record_title: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
+      record_date: '2005-11-14'
+      record_reference: null
+      content_hash: sha256:c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95d6ac9c3b
+      friendly_name: 2005-11-14-ebook-hair-of-the-alien-dna-and-other-forensic-evidence-for-alien
+  - claim_id: 9c4c1862-2906-4b39-80c1-01fd95e5dc82
+    claim_hash: f49705b2fbf335c3e6804c63b245a3c961130ee36d4139152214ef5de1991f45
+    content: Bill Chalker considers John O'Neill's vague sleep-paralysis description to fall far short of the detailed and
+      ordered description Peter Khoury gives of his own experience.
+    original_excerpt: That vague description falls far short of the detailed and ordered description Peter Khoury offers of
+      his experience.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 3ff75793-423c-4333-8402-d5c543074091
+      title: Bill Chalker
+    provenance_chain:
+      origin_kind: speaker
+      origin: Bill Chalker
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 027d3340-be40-4241-9e1f-153b9bea8c62
+        title: John O'Neill
+        slug: john-oneill
+      - node_id: 13143b88-fdc8-44c9-a8f2-a6526f76c16e
+        title: Sleep paralysis
+        slug: sleep-paralysis
+      - node_id: 3ff75793-423c-4333-8402-d5c543074091
+        title: Bill Chalker
+        slug: bill-chalker
+      - node_id: 98e50374-da8a-4414-998b-d42fce1cd3d7
+        title: Peter Khoury
+        slug: peter-khoury
+    date: null
+    date_end: null
+    location_in_record: ch8:17866-17972
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 32687cf8-a827-40a9-b9f4-308ca4d9b2b3
+      record_title: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
+      record_date: '2005-11-14'
+      record_reference: null
+      content_hash: sha256:c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95d6ac9c3b
+      friendly_name: 2005-11-14-ebook-hair-of-the-alien-dna-and-other-forensic-evidence-for-alien
+  - claim_id: fc21cbf0-c210-49b8-aade-6a1bdd6061aa
+    claim_hash: bcab05e95633c0d516978d3f3645f033ac7c55bac262505a408d952dc00c78bb
+    content: Bill Chalker considers that Peter Khoury was not asleep nor in the hypnagogic state during his encounter, and
+      that his experience had an ordered, consciously recollected sequence unlike vague sensory fragments of fractured sleep.
+    original_excerpt: First of all, he was not asleep, nor had he reached the state that precedes sleep, the hypnagogic state,
+      that often yields fleeting imagery of a hallucinatory nature. Furthermore, his experience has an ordered sequence of
+      events that were recollected consciously.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 3ff75793-423c-4333-8402-d5c543074091
+      title: Bill Chalker
+    provenance_chain:
+      origin_kind: speaker
+      origin: Bill Chalker
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 13143b88-fdc8-44c9-a8f2-a6526f76c16e
+        title: Sleep paralysis
+        slug: sleep-paralysis
+      - node_id: 3ff75793-423c-4333-8402-d5c543074091
+        title: Bill Chalker
+        slug: bill-chalker
+      - node_id: 6f1d7102-1298-4638-ab0e-e4a1523d0e25
+        title: Hypnagogic imagery
+        slug: hypnagogic-imagery
+      - node_id: 98e50374-da8a-4414-998b-d42fce1cd3d7
+        title: Peter Khoury
+        slug: peter-khoury
+    date: null
+    date_end: null
+    location_in_record: ch8:18068-18319
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 32687cf8-a827-40a9-b9f4-308ca4d9b2b3
+      record_title: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
+      record_date: '2005-11-14'
+      record_reference: null
+      content_hash: sha256:c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95d6ac9c3b
+      friendly_name: 2005-11-14-ebook-hair-of-the-alien-dna-and-other-forensic-evidence-for-alien
+  - claim_id: aab07d62-5512-4511-aa9d-82f3501c0102
+    claim_hash: 224ecd684fb30a108f1044ca77130fe9990cc1e7af2a4ef364630cf16421ac55
+    content: Bill Chalker considers that the physical marks on Peter Khoury, including the head injury from the needle and
+      the biopsy-like mark on his leg, cannot be accounted for as a classic sleep paralysis episode or hypnagogic imagery.
+    original_excerpt: Then there are the physical marks, namely the injury to his head... along with the biopsy-like mark
+      on his leg, which certainly can’t be accounted for as a classic sleep paralysis episode or as a product of the sleep/awake
+      interface that spawns hypnagogic imagery.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 3ff75793-423c-4333-8402-d5c543074091
+      title: Bill Chalker
+    provenance_chain:
+      origin_kind: speaker
+      origin: Bill Chalker
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 13143b88-fdc8-44c9-a8f2-a6526f76c16e
+        title: Sleep paralysis
+        slug: sleep-paralysis
+      - node_id: 3ff75793-423c-4333-8402-d5c543074091
+        title: Bill Chalker
+        slug: bill-chalker
+      - node_id: 6f1d7102-1298-4638-ab0e-e4a1523d0e25
+        title: Hypnagogic imagery
+        slug: hypnagogic-imagery
+      - node_id: 98e50374-da8a-4414-998b-d42fce1cd3d7
+        title: Peter Khoury
+        slug: peter-khoury
+    date: null
+    date_end: null
+    location_in_record: ch8:18394-18697
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 32687cf8-a827-40a9-b9f4-308ca4d9b2b3
+      record_title: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
+      record_date: '2005-11-14'
+      record_reference: null
+      content_hash: sha256:c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95d6ac9c3b
+      friendly_name: 2005-11-14-ebook-hair-of-the-alien-dna-and-other-forensic-evidence-for-alien
+  - claim_id: 581b36ae-a6a2-46bf-9441-a861b86f78ff
+    claim_hash: ca1f48abf9faf32f72e3b1804fab812c13711358af520ad9968a9e47a32e5cbc
+    content: Ronald Siegel experienced his own sleep paralysis episode involving a sensation of weight on his chest and a
+      "murky presence" with a "dusty odor" that approached his bed and communicated in a manner like English spoken backward.
+    original_excerpt: He has had his own sleep paralysis experience, which involved the classic elements of a weight on his
+      chest and a “murky presence,” with a “dusty odor,” that approached his bed. It communicated with him in a strange way,
+      “almost like English spoken backward.”
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 9fc6a4ad-6793-4a31-9c02-ac449b0be38f
+      title: Ronald Siegel
+    provenance_chain:
+      origin_kind: speaker
+      origin: Ronald Siegel
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 13143b88-fdc8-44c9-a8f2-a6526f76c16e
+        title: Sleep paralysis
+        slug: sleep-paralysis
+      - node_id: 9fc6a4ad-6793-4a31-9c02-ac449b0be38f
+        title: Ronald Siegel
+        slug: ronald-siegel
+    date: null
+    date_end: null
+    location_in_record: ch8:19063-19312
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 32687cf8-a827-40a9-b9f4-308ca4d9b2b3
+      record_title: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
+      record_date: '2005-11-14'
+      record_reference: null
+      content_hash: sha256:c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95d6ac9c3b
+      friendly_name: 2005-11-14-ebook-hair-of-the-alien-dna-and-other-forensic-evidence-for-alien
+  - claim_id: 02e81fa6-f49e-4cd1-b6e7-35413cf8ef72
+    claim_hash: afd580f72374ec2d975018356f28a5c31f68f3c7433175420b95159799537212
+    content: Ronald Siegel described the presence in his sleep paralysis episode as straddling his body and folding itself
+      along the curve of his back, with a texture of sexual intoxication and terror in the room.
+    original_excerpt: The “presence” then straddled his body, “folding itself along the curve of my back. .. . There was a
+      texture of sexual intoxication and terror in the room.”
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 9fc6a4ad-6793-4a31-9c02-ac449b0be38f
+      title: Ronald Siegel
+    provenance_chain:
+      origin_kind: speaker
+      origin: Ronald Siegel
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 13143b88-fdc8-44c9-a8f2-a6526f76c16e
+        title: Sleep paralysis
+        slug: sleep-paralysis
+      - node_id: 9fc6a4ad-6793-4a31-9c02-ac449b0be38f
+        title: Ronald Siegel
+        slug: ronald-siegel
+    date: null
+    date_end: null
+    location_in_record: ch8:19323-19473
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 32687cf8-a827-40a9-b9f4-308ca4d9b2b3
+      record_title: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
+      record_date: '2005-11-14'
+      record_reference: null
+      content_hash: sha256:c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95d6ac9c3b
+      friendly_name: 2005-11-14-ebook-hair-of-the-alien-dna-and-other-forensic-evidence-for-alien
+  - claim_id: 7b52d724-3f69-4b3a-8029-7fee5e8817b7
+    claim_hash: 3dbe7cc6e14fdae0e5bf1b668b344b4d446d2b0ec4101c09a526ee7b4b96a5b3
+    content: Ronald Siegel began to slip into unconsciousness during his sleep paralysis episode, but the voice stopped and
+      he sensed the presence slowly leave the room.
+    original_excerpt: Siegel began to slip into unconsciousness, but then the voice stopped and he had the sense that the
+      “presence” slowly left the room.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 9fc6a4ad-6793-4a31-9c02-ac449b0be38f
+      title: Ronald Siegel
+    provenance_chain:
+      origin_kind: speaker
+      origin: Ronald Siegel
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 13143b88-fdc8-44c9-a8f2-a6526f76c16e
+        title: Sleep paralysis
+        slug: sleep-paralysis
+      - node_id: 9fc6a4ad-6793-4a31-9c02-ac449b0be38f
+        title: Ronald Siegel
+        slug: ronald-siegel
+    date: null
+    date_end: null
+    location_in_record: ch8:19480-19607
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 32687cf8-a827-40a9-b9f4-308ca4d9b2b3
+      record_title: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
+      record_date: '2005-11-14'
+      record_reference: null
+      content_hash: sha256:c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95d6ac9c3b
+      friendly_name: 2005-11-14-ebook-hair-of-the-alien-dna-and-other-forensic-evidence-for-alien
+  - claim_id: 088e8530-887d-4885-98e2-8cacb02e4435
+    claim_hash: 7e5ace7f3a6adfeb8ff9dde2f57c647e8e597c5ae0dc2e45f2e70249060fa784
+    content: Ronald Siegel concluded that his episode was the product of sleep paralysis and hypnopompic hallucination, mediated
+      by his own images, thoughts, fantasies, memories, and dreams.
+    original_excerpt: Siegel concluded that this episode was the product of two striking and often alarming sleep phenomena—sleep
+      paralysis and hypnopompic hallucination—which was mediated by his own “images, thoughts, fantasies, memories, and dreams.”
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 9fc6a4ad-6793-4a31-9c02-ac449b0be38f
+      title: Ronald Siegel
+    provenance_chain:
+      origin_kind: speaker
+      origin: Ronald Siegel
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 13143b88-fdc8-44c9-a8f2-a6526f76c16e
+        title: Sleep paralysis
+        slug: sleep-paralysis
+      - node_id: 496a6b87-409a-48ae-a59a-2a2fbfa48c07
+        title: Hypnopompic hallucination
+        slug: hypnopompic-hallucination
+      - node_id: 9fc6a4ad-6793-4a31-9c02-ac449b0be38f
+        title: Ronald Siegel
+        slug: ronald-siegel
+    date: null
+    date_end: null
+    location_in_record: ch8:19614-19836
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 32687cf8-a827-40a9-b9f4-308ca4d9b2b3
+      record_title: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
+      record_date: '2005-11-14'
+      record_reference: null
+      content_hash: sha256:c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95d6ac9c3b
+      friendly_name: 2005-11-14-ebook-hair-of-the-alien-dna-and-other-forensic-evidence-for-alien
+  - claim_id: d11a52ae-c58b-4747-ae4e-c89769c2ea7f
+    claim_hash: b4a328590df0266dc975f7194974afda7206f8657018a2955a5c12f63bfee822
+    content: A very broad cross-section of the population experiences sleep paralysis and hypnopompic hallucination phenomena,
+      and these experiences are not due to psychological problems.
+    original_excerpt: A very broad cross section of the population experiences these phenomena. These experiences are not
+      due to psychological problems, but t
+    claim_type: observation
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: narration
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 13143b88-fdc8-44c9-a8f2-a6526f76c16e
+        title: Sleep paralysis
+        slug: sleep-paralysis
+      - node_id: 496a6b87-409a-48ae-a59a-2a2fbfa48c07
+        title: Hypnopompic hallucination
+        slug: hypnopompic-hallucination
+    date: null
+    date_end: null
+    location_in_record: ch8:19845-19976
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 32687cf8-a827-40a9-b9f4-308ca4d9b2b3
+      record_title: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
+      record_date: '2005-11-14'
+      record_reference: null
+      content_hash: sha256:c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95d6ac9c3b
+      friendly_name: 2005-11-14-ebook-hair-of-the-alien-dna-and-other-forensic-evidence-for-alien
+  - claim_id: 1964d216-f882-4fdf-935f-a94fbb88672b
+    claim_hash: 57b3c19ef5a7f9513751e4fde93e2c55ff627f2d73dc48706a3aae1b2f23ad4d
+    content: During his 1994 grey encounter at about 06:30, Erik Nanstiel became conscious within his sleep in a lucid dream
+      state, found he could not open his eyes or move his body, and later wondered whether it could have been sleep paralysis
+      as it fit the symptoms.
+    original_excerpt: maybe 6.30 in the morning... I had become conscious in my sleep. So it was a lucid dream state... And
+      I couldn't open my eyes... I tried to move my body. I couldn't move my body... was it, it was like, could that have
+      been sleep paralysis? I mean, it kind of fits the symptoms
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 0aad9179-33c1-4383-aab7-5eb12429386e
+      title: Erik Nanstiel
+    provenance_chain: null
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 0aad9179-33c1-4383-aab7-5eb12429386e
+        title: Erik Nanstiel
+        slug: erik-nanstiel
+      - node_id: 13143b88-fdc8-44c9-a8f2-a6526f76c16e
+        title: Sleep paralysis
+        slug: sleep-paralysis
+      - node_id: 530511b4-8f58-40fa-927a-2c2aef39d54b
+        title: Erik Nanstiel 1994 grey encounter
+        slug: erik-nanstiel-1994-grey-encounter
+    date: '1994-08-20'
+    date_end: null
+    location_in_record: 00:32:13.5-00:33:04.1
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e78cf776-77b8-4b64-85e2-1e19d2787492
+      record_title: '"Skinny Bob is Real" – Lifelong Abductee Reveals Everything - Erik Nanstiel | DEBRIEFED ep. 85'
+      record_date: '2026-04-24'
+      record_reference: https://www.youtube.com/watch?v=RFI4RWzH3ik
+      content_hash: sha256:f64f70bd2f82bddc453c0c0ecb5f3923dc71758c8182587687552d8c74149b52
+      friendly_name: 2026-04-24-video-skinny-bob-is-real-lifelong-abductee-reveals-everything.v2
+  - claim_id: 388cea29-a282-4323-9887-20c5c6ab2035
+    claim_hash: 12e8a24fb55d44fa8fb4e97009127fda8c9c96a67fdd9c8808ea75b1f1b753a9
+    content: The symptoms of sleep paralysis (occurring at night, being awake, paralysed, and feeling real) resemble alien
+      abduction experiences, making it a fair assumption for some cases.
+    original_excerpt: there are similarities to draw lines between sleep paralysis, especially with it's at night, you're
+      up, you're paralyzed, it feels real. Like all of these are symptoms of sleep paralysis
+    claim_type: opinion
+    attestation: null
+    speaker:
+      node_id: 24d00311-06ac-46a1-a2f5-c99f3f8e21b2
+      title: Chris Ramsay
+    provenance_chain: null
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 13143b88-fdc8-44c9-a8f2-a6526f76c16e
+        title: Sleep paralysis
+        slug: sleep-paralysis
+      - node_id: 24d00311-06ac-46a1-a2f5-c99f3f8e21b2
+        title: Chris Ramsay
+        slug: chris-ramsay
+      - node_id: 98eeed83-96a9-45ef-bb14-cb915d45fc9c
+        title: Alien abduction
+        slug: alien-abduction
+    date: null
+    date_end: null
+    location_in_record: 02:27:58.4-02:28:12.5
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e78cf776-77b8-4b64-85e2-1e19d2787492
+      record_title: '"Skinny Bob is Real" – Lifelong Abductee Reveals Everything - Erik Nanstiel | DEBRIEFED ep. 85'
+      record_date: '2026-04-24'
+      record_reference: https://www.youtube.com/watch?v=RFI4RWzH3ik
+      content_hash: sha256:f64f70bd2f82bddc453c0c0ecb5f3923dc71758c8182587687552d8c74149b52
+      friendly_name: 2026-04-24-video-skinny-bob-is-real-lifelong-abductee-reveals-everything.v2
+  - claim_id: 79b9f296-7903-4741-a43a-39709abd38d1
+    claim_hash: 0fd9a69f927704d5ffa5ecba88b3b50412b855028b6bb76d46331757333f7d85
+    content: Jason Quitt began having sleep paralysis episodes while at his recording studio in the early 2000s.
+    original_excerpt: I started to have these experiences of, uh, sleep paralysis when I was at the studio and back in the
+      day where, you know, we're going back to the early two thousands.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 91228f6b-79b5-483a-a62b-c98f5eed12ab
+      title: Jason Quitt
+    provenance_chain:
+      origin_kind: speaker
+      origin: Jason Quitt
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 13143b88-fdc8-44c9-a8f2-a6526f76c16e
+        title: Sleep paralysis
+        slug: sleep-paralysis
+      - node_id: 91228f6b-79b5-483a-a62b-c98f5eed12ab
+        title: Jason Quitt
+        slug: jason-quitt
+    date: null
+    date_end: null
+    location_in_record: 00:04:37.6-00:04:47.9
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: b0f8ff5d-db19-45e1-abaa-391d63833bec
+      record_title: Researcher Describes Strange Encounters With Other Beings - Jason Quitt | Ep. 98
+      record_date: '2026-08-07'
+      record_reference: https://www.youtube.com/watch?v=JsPE3o-PJms
+      content_hash: sha256:474630c81ceb39029e473c41a62306341a264aa94e100930de6ceb845884cf57
+      friendly_name: null
+  - claim_id: 851812ba-0fc0-46d0-bd7b-0b1b95594ff2
+    claim_hash: 3c794eb6081fd12eb6a973c9e4cba9b65de947510e32c0752a2456e3279c5248
+    content: When his sleep paralysis episodes began, Jason Quitt did not know of The Monroe Institute and had nobody to talk
+      to about the experiences.
+    original_excerpt: I didn't know the Monroe Institute. I didn't know anybody I could talk to about this.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 91228f6b-79b5-483a-a62b-c98f5eed12ab
+      title: Jason Quitt
+    provenance_chain:
+      origin_kind: speaker
+      origin: Jason Quitt
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 13143b88-fdc8-44c9-a8f2-a6526f76c16e
+        title: Sleep paralysis
+        slug: sleep-paralysis
+      - node_id: 91228f6b-79b5-483a-a62b-c98f5eed12ab
+        title: Jason Quitt
+        slug: jason-quitt
+      - node_id: 96175958-bd7a-40fa-864b-8ef07a7b6c5e
+        title: The Monroe Institute
+        slug: the-monroe-institute
+    date: null
+    date_end: null
+    location_in_record: 00:04:50.9-00:04:55.4
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: b0f8ff5d-db19-45e1-abaa-391d63833bec
+      record_title: Researcher Describes Strange Encounters With Other Beings - Jason Quitt | Ep. 98
+      record_date: '2026-08-07'
+      record_reference: https://www.youtube.com/watch?v=JsPE3o-PJms
+      content_hash: sha256:474630c81ceb39029e473c41a62306341a264aa94e100930de6ceb845884cf57
+      friendly_name: null
+  - claim_id: 8e01cbd8-95a4-41cb-a48c-4e4ec607ce0a
+    claim_hash: 5056a89d7cde554dfb921f94dfbfc698b2f7aded5f8db666280afbbaf5c98bd1
+    content: To research his sleep paralysis episodes in the early 2000s, Jason Quitt used America Online (AOL) or Yahoo search
+      or went to the library.
+    original_excerpt: I had to go on AOL or Yahoo search or go to the library and try to figure this out.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 91228f6b-79b5-483a-a62b-c98f5eed12ab
+      title: Jason Quitt
+    provenance_chain:
+      origin_kind: speaker
+      origin: Jason Quitt
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 13143b88-fdc8-44c9-a8f2-a6526f76c16e
+        title: Sleep paralysis
+        slug: sleep-paralysis
+      - node_id: 327a1797-a5ec-414d-b9ae-6486e3e3ffd5
+        title: America Online (AOL)
+        slug: america-online-aol
+      - node_id: 91228f6b-79b5-483a-a62b-c98f5eed12ab
+        title: Jason Quitt
+        slug: jason-quitt
+      - node_id: a1944995-1d95-4159-915f-d001d4be3919
+        title: Yahoo
+        slug: yahoo
+    date: null
+    date_end: null
+    location_in_record: 00:05:00.0-00:05:06.2
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: b0f8ff5d-db19-45e1-abaa-391d63833bec
+      record_title: Researcher Describes Strange Encounters With Other Beings - Jason Quitt | Ep. 98
+      record_date: '2026-08-07'
+      record_reference: https://www.youtube.com/watch?v=JsPE3o-PJms
+      content_hash: sha256:474630c81ceb39029e473c41a62306341a264aa94e100930de6ceb845884cf57
+      friendly_name: null
+  - claim_id: f871c3e5-7618-4bbc-8671-1bacc21097aa
+    claim_hash: ae4a73cdd9756996aaaebf56ee0a7267130274d2a1611c93002bfe4539615f19
+    content: Jason Quitt's sleep paralysis episodes occurred frequently, perhaps once a week or more.
+    original_excerpt: I was having these, uh, sleep paralysis episodes and they were happening very frequently, you know,
+      maybe even once a week or even more.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 91228f6b-79b5-483a-a62b-c98f5eed12ab
+      title: Jason Quitt
+    provenance_chain:
+      origin_kind: speaker
+      origin: Jason Quitt
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 13143b88-fdc8-44c9-a8f2-a6526f76c16e
+        title: Sleep paralysis
+        slug: sleep-paralysis
+      - node_id: 91228f6b-79b5-483a-a62b-c98f5eed12ab
+        title: Jason Quitt
+        slug: jason-quitt
+    date: null
+    date_end: null
+    location_in_record: 00:05:57.0-00:06:05.6
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: b0f8ff5d-db19-45e1-abaa-391d63833bec
+      record_title: Researcher Describes Strange Encounters With Other Beings - Jason Quitt | Ep. 98
+      record_date: '2026-08-07'
+      record_reference: https://www.youtube.com/watch?v=JsPE3o-PJms
+      content_hash: sha256:474630c81ceb39029e473c41a62306341a264aa94e100930de6ceb845884cf57
+      friendly_name: null
+  - claim_id: 6c8d5c8b-9497-4f7e-a407-ab94d7df1936
+    claim_hash: 6552406429cd6a32e39b4f387dccc0da87deb10a9a64a1e884c69f18ee237225
+    content: During his sleep paralysis episodes Jason Quitt was locked in his body, screaming to wake up, and could feel
+      things in the room moving around with him.
+    original_excerpt: I would be locked in my body. I'd be screaming to wake up. I can feel things in my room with me.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 91228f6b-79b5-483a-a62b-c98f5eed12ab
+      title: Jason Quitt
+    provenance_chain:
+      origin_kind: speaker
+      origin: Jason Quitt
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 13143b88-fdc8-44c9-a8f2-a6526f76c16e
+        title: Sleep paralysis
+        slug: sleep-paralysis
+      - node_id: 91228f6b-79b5-483a-a62b-c98f5eed12ab
+        title: Jason Quitt
+        slug: jason-quitt
+    date: null
+    date_end: null
+    location_in_record: 00:06:08.7-00:06:15.2
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: b0f8ff5d-db19-45e1-abaa-391d63833bec
+      record_title: Researcher Describes Strange Encounters With Other Beings - Jason Quitt | Ep. 98
+      record_date: '2026-08-07'
+      record_reference: https://www.youtube.com/watch?v=JsPE3o-PJms
+      content_hash: sha256:474630c81ceb39029e473c41a62306341a264aa94e100930de6ceb845884cf57
+      friendly_name: null
+  - claim_id: 4dec38cb-2096-4908-a91a-efb55cf3fc7e
+    claim_hash: cf51284cc489d201f8b03d490ca8d3930ed5673f06734d953d921f728596d4a7
+    content: During sleep paralysis Jason Quitt experienced another body within his physical body which he could move around
+      inside it, and he describes his physical body in that state as a tomb.
+    original_excerpt: there was another version of me. There was another body within my physical body. So it's like, I can
+      move this thing around inside my physical body. And it was like, I always say it's like my tomb.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 91228f6b-79b5-483a-a62b-c98f5eed12ab
+      title: Jason Quitt
+    provenance_chain:
+      origin_kind: speaker
+      origin: Jason Quitt
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 13143b88-fdc8-44c9-a8f2-a6526f76c16e
+        title: Sleep paralysis
+        slug: sleep-paralysis
+      - node_id: 91228f6b-79b5-483a-a62b-c98f5eed12ab
+        title: Jason Quitt
+        slug: jason-quitt
+      - node_id: dcc840c9-8ef1-4997-aaa6-e7b80e8ee90a
+        title: Multi-dimensional body
+        slug: multi-dimensional-body
+    date: null
+    date_end: null
+    location_in_record: 00:06:43.3-00:06:54.0
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: b0f8ff5d-db19-45e1-abaa-391d63833bec
+      record_title: Researcher Describes Strange Encounters With Other Beings - Jason Quitt | Ep. 98
+      record_date: '2026-08-07'
+      record_reference: https://www.youtube.com/watch?v=JsPE3o-PJms
+      content_hash: sha256:474630c81ceb39029e473c41a62306341a264aa94e100930de6ceb845884cf57
+      friendly_name: null
+  - claim_id: a776746c-9c1c-4907-b021-50c9773d637e
+    claim_hash: 2504d6fb946d1938f9d6005c58d6ecbb574cbc25e98839485376e03ffbe1d3dc
+    content: Jason Quitt popped out of his body after thrashing inside it so hard in anger to wake himself up.
+    original_excerpt: And one night I was just so pissed. I was like thrashing so hard to wake up that I popped out of my
+      body.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 91228f6b-79b5-483a-a62b-c98f5eed12ab
+      title: Jason Quitt
+    provenance_chain:
+      origin_kind: speaker
+      origin: Jason Quitt
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 13143b88-fdc8-44c9-a8f2-a6526f76c16e
+        title: Sleep paralysis
+        slug: sleep-paralysis
+      - node_id: 8b0155a9-fabc-4b8d-9ee9-45eac58dbf2e
+        title: Out-of-Body Experience (OBE)
+        slug: out-of-body-experience-obe
+      - node_id: 91228f6b-79b5-483a-a62b-c98f5eed12ab
+        title: Jason Quitt
+        slug: jason-quitt
+    date: null
+    date_end: null
+    location_in_record: 00:07:02.2-00:07:08.0
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: b0f8ff5d-db19-45e1-abaa-391d63833bec
+      record_title: Researcher Describes Strange Encounters With Other Beings - Jason Quitt | Ep. 98
+      record_date: '2026-08-07'
+      record_reference: https://www.youtube.com/watch?v=JsPE3o-PJms
+      content_hash: sha256:474630c81ceb39029e473c41a62306341a264aa94e100930de6ceb845884cf57
+      friendly_name: null
+  - claim_id: eaf6bc43-933d-47ee-8a1e-31ade27b8dcc
+    claim_hash: 8e97a4f5094e32b9b92f70ceef4af4eba931e8b3a4604b40ccab7bf0310add7c
+    content: Chris Ramsay has a friend named Wes who can induce sleep paralysis on command every night if he wishes, but chooses
+      not to because it is terrifying.
+    original_excerpt: i have a friend of mine who can literally induce a sleep paralysis on command um every night if he wishes
+      to which he doesn't because it is ... it's terrifying
+    claim_type: testimony
+    attestation: second_hand
+    speaker:
+      node_id: 24d00311-06ac-46a1-a2f5-c99f3f8e21b2
+      title: Chris Ramsay
+    provenance_chain:
+      origin_kind: named
+      origin: Wes, a friend of Chris Ramsay
+      relay:
+        - Chris Ramsay
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 13143b88-fdc8-44c9-a8f2-a6526f76c16e
+        title: Sleep paralysis
+        slug: sleep-paralysis
+      - node_id: 24d00311-06ac-46a1-a2f5-c99f3f8e21b2
+        title: Chris Ramsay
+        slug: chris-ramsay
+    date: null
+    date_end: null
+    location_in_record: 00:08:57.3-00:09:10.0
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: b0f8ff5d-db19-45e1-abaa-391d63833bec
+      record_title: Researcher Describes Strange Encounters With Other Beings - Jason Quitt | Ep. 98
+      record_date: '2026-08-07'
+      record_reference: https://www.youtube.com/watch?v=JsPE3o-PJms
+      content_hash: sha256:474630c81ceb39029e473c41a62306341a264aa94e100930de6ceb845884cf57
+      friendly_name: null
+  - claim_id: 8a5e2b0b-2c92-4518-984a-6f9048edeeb3
+    claim_hash: 0d61fda4a7c010b36b29b517d1db52cc739cf0a6d4fcc98f289c5e7187403df8
+    content: Chris Ramsay has never experienced sleep paralysis.
+    original_excerpt: i've never had it
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 24d00311-06ac-46a1-a2f5-c99f3f8e21b2
+      title: Chris Ramsay
+    provenance_chain:
+      origin_kind: speaker
+      origin: Chris Ramsay
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 13143b88-fdc8-44c9-a8f2-a6526f76c16e
+        title: Sleep paralysis
+        slug: sleep-paralysis
+      - node_id: 24d00311-06ac-46a1-a2f5-c99f3f8e21b2
+        title: Chris Ramsay
+        slug: chris-ramsay
+    date: null
+    date_end: null
+    location_in_record: 00:09:08.8-00:09:09.4
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: b0f8ff5d-db19-45e1-abaa-391d63833bec
+      record_title: Researcher Describes Strange Encounters With Other Beings - Jason Quitt | Ep. 98
+      record_date: '2026-08-07'
+      record_reference: https://www.youtube.com/watch?v=JsPE3o-PJms
+      content_hash: sha256:474630c81ceb39029e473c41a62306341a264aa94e100930de6ceb845884cf57
+      friendly_name: null
+  - claim_id: 6b615d33-8cfc-4d92-b71e-e8d886587cf1
+    claim_hash: 50a57f57c8f77de4d019575d429f13305dea89757d446122ca4e560e77d8ec36
+    content: In sleep paralysis a person will often perceive a hag or another being on their chest and feel they are going
+      to die while unable to leave their body.
+    original_excerpt: often you'll have the hag or somebody on your chest or like some snake or some being, and you'll feel
+      like, oh my God, I'm gonna die. And, and you can't leave your body.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 24d00311-06ac-46a1-a2f5-c99f3f8e21b2
+      title: Chris Ramsay
+    provenance_chain:
+      origin_kind: speaker
+      origin: Chris Ramsay
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 05df981b-2fd2-4e98-b701-8627e6fc70d5
+        title: The old hag phenomenon
+        slug: the-old-hag-phenomenon
+      - node_id: 13143b88-fdc8-44c9-a8f2-a6526f76c16e
+        title: Sleep paralysis
+        slug: sleep-paralysis
+      - node_id: 24d00311-06ac-46a1-a2f5-c99f3f8e21b2
+        title: Chris Ramsay
+        slug: chris-ramsay
+    date: null
+    date_end: null
+    location_in_record: 00:09:13.8-00:09:22.5
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: b0f8ff5d-db19-45e1-abaa-391d63833bec
+      record_title: Researcher Describes Strange Encounters With Other Beings - Jason Quitt | Ep. 98
+      record_date: '2026-08-07'
+      record_reference: https://www.youtube.com/watch?v=JsPE3o-PJms
+      content_hash: sha256:474630c81ceb39029e473c41a62306341a264aa94e100930de6ceb845884cf57
+      friendly_name: null
+  - claim_id: ee7f6145-8f2b-4605-a75e-cb9ce4cd8826
+    claim_hash: ca7309c5fafe5cee3333bfff2479e9741d2c9733071bdecea41eedba8d045625
+    content: Chris Ramsay suggested to his friend Wes that never having flown in dreams is why Wes stays locked in his body
+      during sleep paralysis.
+    original_excerpt: And I go, maybe that's why you're locked in your body.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 24d00311-06ac-46a1-a2f5-c99f3f8e21b2
+      title: Chris Ramsay
+    provenance_chain:
+      origin_kind: speaker
+      origin: Chris Ramsay
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 13143b88-fdc8-44c9-a8f2-a6526f76c16e
+        title: Sleep paralysis
+        slug: sleep-paralysis
+      - node_id: 24d00311-06ac-46a1-a2f5-c99f3f8e21b2
+        title: Chris Ramsay
+        slug: chris-ramsay
+      - node_id: a610319b-44dc-400e-b0c1-3bc958022b56
+        title: Lucid Dreaming
+        slug: lucid-dreaming
+    date: null
+    date_end: null
+    location_in_record: 00:09:34.2-00:09:36.7
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: b0f8ff5d-db19-45e1-abaa-391d63833bec
+      record_title: Researcher Describes Strange Encounters With Other Beings - Jason Quitt | Ep. 98
+      record_date: '2026-08-07'
+      record_reference: https://www.youtube.com/watch?v=JsPE3o-PJms
+      content_hash: sha256:474630c81ceb39029e473c41a62306341a264aa94e100930de6ceb845884cf57
+      friendly_name: null
+  - claim_id: 86e8ad99-688f-4d7f-b39e-a94102acea41
+    claim_hash: f6b47e11a71110a181e8a68bbe4fbf18d7c7246e00f3e7f07ab3825cacf90d8e
+    content: Chris Ramsay flies in his dreams regularly and considers that prior know-how to be what let him will himself
+      out of his body during sleep paralysis.
+    original_excerpt: I've always flown in my dreams. I fly in my dreams quite regularly. And so for me, I think when I had
+      that sleep paralysis state, I already had the know-how to sort of will myself up as one does in dreams.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 24d00311-06ac-46a1-a2f5-c99f3f8e21b2
+      title: Chris Ramsay
+    provenance_chain:
+      origin_kind: speaker
+      origin: Chris Ramsay
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 13143b88-fdc8-44c9-a8f2-a6526f76c16e
+        title: Sleep paralysis
+        slug: sleep-paralysis
+      - node_id: 24d00311-06ac-46a1-a2f5-c99f3f8e21b2
+        title: Chris Ramsay
+        slug: chris-ramsay
+      - node_id: a610319b-44dc-400e-b0c1-3bc958022b56
+        title: Lucid Dreaming
+        slug: lucid-dreaming
+    date: null
+    date_end: null
+    location_in_record: 00:09:37.5-00:09:53.2
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: b0f8ff5d-db19-45e1-abaa-391d63833bec
+      record_title: Researcher Describes Strange Encounters With Other Beings - Jason Quitt | Ep. 98
+      record_date: '2026-08-07'
+      record_reference: https://www.youtube.com/watch?v=JsPE3o-PJms
+      content_hash: sha256:474630c81ceb39029e473c41a62306341a264aa94e100930de6ceb845884cf57
+      friendly_name: null
+  - claim_id: 0bf02752-5544-48d3-bf2b-406a489a58fa
+    claim_hash: bd5b00421aee00d5680cc3763286c55ccba64b3a8130fb23694c91dbd8c64e1e
+    content: Jason Quitt considers sleep paralysis the key state for leaving the body, the point at which the body is shut
+      off.
+    original_excerpt: it's that sleep paralysis is kind of like the key. That's like the state when you know, your body is
+      shut off
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 91228f6b-79b5-483a-a62b-c98f5eed12ab
+      title: Jason Quitt
+    provenance_chain:
+      origin_kind: speaker
+      origin: Jason Quitt
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 13143b88-fdc8-44c9-a8f2-a6526f76c16e
+        title: Sleep paralysis
+        slug: sleep-paralysis
+      - node_id: 8b0155a9-fabc-4b8d-9ee9-45eac58dbf2e
+        title: Out-of-Body Experience (OBE)
+        slug: out-of-body-experience-obe
+      - node_id: 91228f6b-79b5-483a-a62b-c98f5eed12ab
+        title: Jason Quitt
+        slug: jason-quitt
+    date: null
+    date_end: null
+    location_in_record: 00:10:07.5-00:10:13.0
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: b0f8ff5d-db19-45e1-abaa-391d63833bec
+      record_title: Researcher Describes Strange Encounters With Other Beings - Jason Quitt | Ep. 98
+      record_date: '2026-08-07'
+      record_reference: https://www.youtube.com/watch?v=JsPE3o-PJms
+      content_hash: sha256:474630c81ceb39029e473c41a62306341a264aa94e100930de6ceb845884cf57
+      friendly_name: null
+  - claim_id: 0ae44369-dcbd-4a24-89dd-b5cf4899b6c4
+    claim_hash: 75829c17b6a264c073da9fae2356e36ddd7c6a1063b7411ed4762bb24c05665e
+    content: The sleep paralysis state can be induced deliberately through meditation or Qigong using deep breaths into the
+      stomach, felt as heat rising, tingling and waves passing through the body as consciousness shifts.
+    original_excerpt: When you're meditating, when you start to learn how to meditate, like deep breaths into the stomach,
+      especially with meditation or Chi Gong, you could induce that sleep paralysis ... your body starts to feel that heat
+      rise up. You start to feel that tingling.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 91228f6b-79b5-483a-a62b-c98f5eed12ab
+      title: Jason Quitt
+    provenance_chain:
+      origin_kind: speaker
+      origin: Jason Quitt
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 13143b88-fdc8-44c9-a8f2-a6526f76c16e
+        title: Sleep paralysis
+        slug: sleep-paralysis
+      - node_id: 4edb686d-59e3-443a-9ebe-bccf34cce70f
+        title: Qigong (Chi Gong)
+        slug: qigong-chi-gong
+      - node_id: 91228f6b-79b5-483a-a62b-c98f5eed12ab
+        title: Jason Quitt
+        slug: jason-quitt
+    date: null
+    date_end: null
+    location_in_record: 00:10:26.5-00:10:41.8
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: b0f8ff5d-db19-45e1-abaa-391d63833bec
+      record_title: Researcher Describes Strange Encounters With Other Beings - Jason Quitt | Ep. 98
+      record_date: '2026-08-07'
+      record_reference: https://www.youtube.com/watch?v=JsPE3o-PJms
+      content_hash: sha256:474630c81ceb39029e473c41a62306341a264aa94e100930de6ceb845884cf57
+      friendly_name: null
+  - claim_id: 7e6ec990-0b7a-4855-8712-9309c9793e8d
+    claim_hash: fcb77fb05a9293c75089c9b1e2e812bb71abf18ff197c61ce7b1998c1970a344
+    content: Jason Quitt initially considered the shadow being that put him into sleep paralysis a negative presence, feeling
+      fear and terror, and later questioned whether that fear came entirely from himself.
+    original_excerpt: at first, I thought that shadow was a very negative thing because it was putting me in sleep paralysis.
+      I was fearful. I felt terror. What if that was just all coming from me?
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 91228f6b-79b5-483a-a62b-c98f5eed12ab
+      title: Jason Quitt
+    provenance_chain:
+      origin_kind: speaker
+      origin: Jason Quitt
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 13143b88-fdc8-44c9-a8f2-a6526f76c16e
+        title: Sleep paralysis
+        slug: sleep-paralysis
+      - node_id: 91228f6b-79b5-483a-a62b-c98f5eed12ab
+        title: Jason Quitt
+        slug: jason-quitt
+      - node_id: b92b1eb3-2dab-4b3e-acae-ed9705a8b005
+        title: Shadow people
+        slug: shadow-people
+    date: null
+    date_end: null
+    location_in_record: 00:44:14.0-00:44:24.6
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: b0f8ff5d-db19-45e1-abaa-391d63833bec
+      record_title: Researcher Describes Strange Encounters With Other Beings - Jason Quitt | Ep. 98
+      record_date: '2026-08-07'
+      record_reference: https://www.youtube.com/watch?v=JsPE3o-PJms
+      content_hash: sha256:474630c81ceb39029e473c41a62306341a264aa94e100930de6ceb845884cf57
+      friendly_name: null
+  - claim_id: 4e77434f-ec3f-438a-b409-54266e5e6e4a
+    claim_hash: 115fd549ed84b3ad170d157076ed130c68d69646cc548a3309f26986234675a9
+    content: In Bob Mitchell's abduction cases, as he described them to Jason Quitt, the experiencer is first woken in the
+      middle of the night and feels their body is frozen and unable to move in bed.
+    original_excerpt: well, at first they get woken up, let's say in the middle of the night, they feel like their body is
+      frozen. They can't move in their bed.
+    claim_type: hearsay
+    attestation: third_hand
+    speaker:
+      node_id: 91228f6b-79b5-483a-a62b-c98f5eed12ab
+      title: Jason Quitt
+    provenance_chain:
+      origin_kind: named
+      origin: Bob Mitchell
+      relay:
+        - abduction experiencers Bob Mitchell interviewed
+        - Bob Mitchell in conversation with Jason Quitt
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 13143b88-fdc8-44c9-a8f2-a6526f76c16e
+        title: Sleep paralysis
+        slug: sleep-paralysis
+      - node_id: 4860f67b-322c-4a17-a59c-95299225511a
+        title: Bob Mitchell
+        slug: bob-mitchell
+      - node_id: 98eeed83-96a9-45ef-bb14-cb915d45fc9c
+        title: Alien abduction
+        slug: alien-abduction
+    date: null
+    date_end: null
+    location_in_record: 01:06:21.2-01:06:26.9
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: b0f8ff5d-db19-45e1-abaa-391d63833bec
+      record_title: Researcher Describes Strange Encounters With Other Beings - Jason Quitt | Ep. 98
+      record_date: '2026-08-07'
+      record_reference: https://www.youtube.com/watch?v=JsPE3o-PJms
+      content_hash: sha256:474630c81ceb39029e473c41a62306341a264aa94e100930de6ceb845884cf57
+      friendly_name: null
+  - claim_id: 860f25b0-fd34-48c1-8232-772970e9786e
+    claim_hash: 87174ff6f420f7331fd019f363238efb1d269345e51212a7d21c4e16e1b904e3
+    content: Chris Ramsay considers that materialist or sceptical people are quick to dismiss encounter accounts as sleep
+      paralysis, and that there may be more to sleep paralysis than they think.
+    original_excerpt: they would be quick to say, oh, sleep paralysis. Got it. Done. ... perhaps there's more to that sleep
+      paralysis stuff than you might think
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 24d00311-06ac-46a1-a2f5-c99f3f8e21b2
+      title: Chris Ramsay
+    provenance_chain:
+      origin_kind: speaker
+      origin: Chris Ramsay
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 13143b88-fdc8-44c9-a8f2-a6526f76c16e
+        title: Sleep paralysis
+        slug: sleep-paralysis
+      - node_id: 24d00311-06ac-46a1-a2f5-c99f3f8e21b2
+        title: Chris Ramsay
+        slug: chris-ramsay
+    date: null
+    date_end: null
+    location_in_record: 01:09:36.7-01:09:43.3
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: b0f8ff5d-db19-45e1-abaa-391d63833bec
+      record_title: Researcher Describes Strange Encounters With Other Beings - Jason Quitt | Ep. 98
+      record_date: '2026-08-07'
+      record_reference: https://www.youtube.com/watch?v=JsPE3o-PJms
+      content_hash: sha256:474630c81ceb39029e473c41a62306341a264aa94e100930de6ceb845884cf57
+      friendly_name: null
+  - claim_id: ece0f53d-a83d-4c62-8fb7-3e8dc4209157
+    claim_hash: 3e2647b80fe3877a76efb763e68d5410453ced0e828aead8dad61ff7d4477a88
+    content: After a time the entity encounters became an annoyance to Jason Quitt, as sleep paralysis had, and he lost his
+      fear of them and gained more control over the encounters.
+    original_excerpt: again, just like with the sleep paralysis, it becomes an annoyance and you have this, this anger towards
+      you... it gets to a point where you just lose the fear and just like, okay, if you want to go, let's go, let's do this.
+      And then after a while, um, you gain more control over it.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 91228f6b-79b5-483a-a62b-c98f5eed12ab
+      title: Jason Quitt
+    provenance_chain:
+      origin_kind: speaker
+      origin: Jason Quitt
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 13143b88-fdc8-44c9-a8f2-a6526f76c16e
+        title: Sleep paralysis
+        slug: sleep-paralysis
+      - node_id: 8b0155a9-fabc-4b8d-9ee9-45eac58dbf2e
+        title: Out-of-Body Experience (OBE)
+        slug: out-of-body-experience-obe
+      - node_id: 91228f6b-79b5-483a-a62b-c98f5eed12ab
+        title: Jason Quitt
+        slug: jason-quitt
+    date: null
+    date_end: null
+    location_in_record: lines 196-200
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: b0f8ff5d-db19-45e1-abaa-391d63833bec
+      record_title: Researcher Describes Strange Encounters With Other Beings - Jason Quitt | Ep. 98
+      record_date: '2026-08-07'
+      record_reference: https://www.youtube.com/watch?v=JsPE3o-PJms
+      content_hash: sha256:474630c81ceb39029e473c41a62306341a264aa94e100930de6ceb845884cf57
+      friendly_name: null

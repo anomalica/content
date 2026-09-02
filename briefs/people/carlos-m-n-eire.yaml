@@ -1,0 +1,200 @@
+schema: anomalica/brief/1
+brief_hash: 1d8790cd97605a59110f3feda808a25f09e30bb9a5604c2733584541d032c210
+page:
+  kind: entity
+  node_id: 1dfc5bba-82c0-4790-91f9-e0613debe938
+  node_type: person
+  title: Carlos M. N. Eire
+  slug: carlos-m-n-eire
+  claim_count: 4
+  claim_count_total: 4
+generated:
+  graph_version: '2026-09-01T10:10:49.863545+00:00'
+size:
+  claims: 4
+  tokens_estimated: 1257
+  sized_against: 1050000
+publication:
+  status: published
+  note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
+    transcripts are gated elsewhere.
+belonging:
+  verified: 0
+  suspect_excluded: 0
+  unreviewed: 4
+related_nodes:
+  - node_id: 8279b46d-20a1-4c17-8814-8fec517b2199
+    title: Levitation
+    node_type: topic
+    slug: levitation
+    shared_claims: 3
+  - node_id: c4e34315-2672-453b-9229-4ffc45af0a8f
+    title: They Flew
+    node_type: document
+    slug: they-flew
+    shared_claims: 3
+  - node_id: c7724717-0065-4753-904b-4ba6d06946e5
+    title: Roman Inquisition
+    node_type: organisation
+    slug: roman-inquisition
+    shared_claims: 1
+  - node_id: 3c5fa340-e357-46ed-ad7f-6589cd623543
+    title: They Flew (Carlos Eire)
+    node_type: document
+    slug: they-flew-carlos-eire
+    shared_claims: 1
+claims:
+  - claim_id: 2950c7ce-bae2-4016-8422-0d170400cb5b
+    claim_hash: 06a59c7fe51cd93a75f87546ac26490c05572358417418f735e489e1927bd4c9
+    content: The book They Flew by Carlos M. N. Eire discusses medieval to early-modern accounts of levitation.
+    original_excerpt: which discusses the medieval–early modern accounts, and which I shall shortly address more fully.
+    claim_type: administrative
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: document
+      origin: They Flew
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 1dfc5bba-82c0-4790-91f9-e0613debe938
+        title: Carlos M. N. Eire
+        slug: carlos-m-n-eire
+      - node_id: 8279b46d-20a1-4c17-8814-8fec517b2199
+        title: Levitation
+        slug: levitation
+      - node_id: c4e34315-2672-453b-9229-4ffc45af0a8f
+        title: They Flew
+        slug: they-flew
+    date: null
+    date_end: null
+    location_in_record: ch22:15269-15360
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 759e8d7b-a820-4e00-bdc3-9aebf9e4b1b1
+      record_title: The Fourth Mind
+      record_date: '2025-01-15'
+      record_reference: null
+      content_hash: sha256:524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008e17102e7
+      friendly_name: 2025-01-15-ebook-the-fourth-mind
+  - claim_id: 3d1ad24c-0eb4-4c8e-aea4-789f52be54e2
+    claim_hash: b4e1eddef4ead94617dc10b95256c2e7157fcf029e919a012108464f196ba1ca
+    content: The book They Flew by Carlos M. N. Eire concerns the tradition of saintly levitation that spread across Catholic
+      Europe between the years 1300 and about 1700, when the tradition gradually faded away.
+    original_excerpt: The book that inspired the letter, They Flew, concerns the tradition of saintly levitation that spread
+      across Catholic Europe between 1300 and about 1700, when it gradually faded away.
+    claim_type: administrative
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: document
+      origin: They Flew
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 1dfc5bba-82c0-4790-91f9-e0613debe938
+        title: Carlos M. N. Eire
+        slug: carlos-m-n-eire
+      - node_id: 8279b46d-20a1-4c17-8814-8fec517b2199
+        title: Levitation
+        slug: levitation
+      - node_id: c4e34315-2672-453b-9229-4ffc45af0a8f
+        title: They Flew
+        slug: they-flew
+    date: null
+    date_end: null
+    location_in_record: ch22:17224-17403
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 759e8d7b-a820-4e00-bdc3-9aebf9e4b1b1
+      record_title: The Fourth Mind
+      record_date: '2025-01-15'
+      record_reference: null
+      content_hash: sha256:524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008e17102e7
+      friendly_name: 2025-01-15-ebook-the-fourth-mind
+  - claim_id: 45cf7a79-a66f-40e0-9189-c77ace8f61df
+    claim_hash: be7a2f875ae6e5c1658f9731032600f0f43626e46df90813b9bd96e828f04c53
+    content: In They Flew, Professor Carlos M. N. Eire describes no fewer than 39 levitators, many of whom were scrutinised
+      by the Inquisition to determine whether their claimed levitation was divine, demonic, or fraudulent in origin.
+    original_excerpt: In They Flew, Professor Eire mentions no fewer than 39 levitators, many of whom were scrutinized by
+      the Inquisition, which would attempt to determine whether the claims were justified and, if so, if they were of divine
+      or demonic origin.
+    claim_type: administrative
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: document
+      origin: They Flew
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 1dfc5bba-82c0-4790-91f9-e0613debe938
+        title: Carlos M. N. Eire
+        slug: carlos-m-n-eire
+      - node_id: c4e34315-2672-453b-9229-4ffc45af0a8f
+        title: They Flew
+        slug: they-flew
+    date: null
+    date_end: null
+    location_in_record: ch22:18747-18977
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 759e8d7b-a820-4e00-bdc3-9aebf9e4b1b1
+      record_title: The Fourth Mind
+      record_date: '2025-01-15'
+      record_reference: null
+      content_hash: sha256:524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008e17102e7
+      friendly_name: 2025-01-15-ebook-the-fourth-mind
+  - claim_id: fb6166e6-cd82-4e49-9642-37c7839e0c1b
+    claim_hash: d90bd7afd7f85e576b18258ab2ed603daa0d70bdde5e2494752de1a90c108db7
+    content: The medieval levitation events described in Carlos Eire's book They Flew had thousands of witnesses and were
+      carefully studied by the Roman Inquisition, which conducted a large number of investigations into them.
+    original_excerpt: not only were there thousands of witnesses to these events, they were studied by the Inquisition very
+      carefully. And there are massive numbers of inquisitorial investigations into these levitations.
+    claim_type: testimony
+    attestation: second_hand
+    speaker:
+      node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+      title: Whitley Strieber
+    provenance_chain:
+      origin_kind: document
+      origin: They Flew by Carlos Eire
+      relay:
+        - Whitley Strieber's reading of the book
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 1dfc5bba-82c0-4790-91f9-e0613debe938
+        title: Carlos M. N. Eire
+        slug: carlos-m-n-eire
+      - node_id: 3c5fa340-e357-46ed-ad7f-6589cd623543
+        title: They Flew (Carlos Eire)
+        slug: they-flew-carlos-eire
+      - node_id: 8279b46d-20a1-4c17-8814-8fec517b2199
+        title: Levitation
+        slug: levitation
+      - node_id: c7724717-0065-4753-904b-4ba6d06946e5
+        title: Roman Inquisition
+        slug: roman-inquisition
+    date: null
+    date_end: null
+    location_in_record: 01:57:59.9-01:58:14.0
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 9302c6b2-133d-4cbb-adfa-5d1f0bd3e7ac
+      record_title: The Terrible Truth About the Visitors - Whitley Strieber | ep. 96
+      record_date: '2026-07-24'
+      record_reference: https://www.youtube.com/watch?v=Cv-sk4vt-qU
+      content_hash: sha256:456dbde0ab82ee8e216bdad2d1a0bf2a0b42622a167af19058f973050b035084
+      friendly_name: null

@@ -1,0 +1,2689 @@
+schema: anomalica/brief/1
+brief_hash: 734ce687bd792e7275dc98cc32f306cf5c0664be8f720fcfee9f3204cdf9cd70
+page:
+  kind: entity
+  node_id: 6f90c776-6afc-49e2-ac5a-9335d9259398
+  node_type: person
+  title: Wernher von Braun
+  slug: wernher-von-braun
+  claim_count: 67
+  claim_count_total: 67
+generated:
+  graph_version: '2026-09-01T10:10:49.863545+00:00'
+size:
+  claims: 67
+  tokens_estimated: 20089
+  sized_against: 1050000
+publication:
+  status: published
+  note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
+    transcripts are gated elsewhere.
+belonging:
+  verified: 0
+  suspect_excluded: 0
+  unreviewed: 67
+related_nodes:
+  - node_id: cf9d0841-4c94-4e97-ad97-131b028af237
+    title: Schutzstaffel (SS)
+    node_type: organisation
+    slug: schutzstaffel-ss
+    shared_claims: 10
+  - node_id: 5c7ec6bf-8162-40e5-801c-2d74e3b6534e
+    title: Project Paperclip
+    node_type: project
+    slug: project-paperclip
+    shared_claims: 8
+  - node_id: 77ee2894-8bfa-43c7-a4c8-928e5f750caf
+    title: Germany, Peenemunde
+    node_type: place
+    slug: peenemunde-germany
+    shared_claims: 5
+  - node_id: 17011d27-e3b5-4be6-90a7-2e7371cca217
+    title: Heinrich Himmler
+    node_type: person
+    slug: heinrich-himmler
+    shared_claims: 5
+  - node_id: 56c758eb-6bcb-4b36-951a-c9b674c8ff65
+    title: Man in Space (film)
+    node_type: document
+    slug: man-in-space-film
+    shared_claims: 5
+  - node_id: 5e47c787-005b-4c91-ba4b-c9bec48146c9
+    title: National Aeronautics and Space Administration (NASA)
+    node_type: organisation
+    slug: national-aeronautics-and-space-administration-nasa
+    shared_claims: 5
+  - node_id: 22049c25-e98a-4e2f-99ce-e8c8da9050cf
+    title: USA, New Mexico, White Sands Missile Range
+    node_type: place
+    slug: new-mexico-white-sands-missile-range-usa
+    shared_claims: 5
+  - node_id: e95835fe-733e-4777-bb60-740d9727e2c8
+    title: Adolf Hitler
+    node_type: person
+    slug: adolf-hitler
+    shared_claims: 4
+  - node_id: f8fda164-69fa-479f-873b-097f03d0acfd
+    title: Theodore von Karman
+    node_type: person
+    slug: theodore-von-karman
+    shared_claims: 4
+  - node_id: 4ada3704-4cd8-4cf2-b0fe-fcfb6716abaa
+    title: Vannevar Bush
+    node_type: person
+    slug: vannevar-bush
+    shared_claims: 4
+  - node_id: b8dbf8fe-2911-4926-8eee-98807647b553
+    title: Germany, Mittelwerk
+    node_type: place
+    slug: mittelwerk-germany
+    shared_claims: 3
+  - node_id: fda41e1c-f593-4e3b-8393-fa33980dfe84
+    title: Hermann Oberth
+    node_type: person
+    slug: hermann-oberth
+    shared_claims: 3
+  - node_id: b6090b6b-63d9-473d-8d6c-bd4b5f54f24b
+    title: Jack Parsons
+    node_type: person
+    slug: jack-parsons
+    shared_claims: 3
+  - node_id: 2f2f008a-15f4-412c-b697-2496cccd2798
+    title: Joint Intelligence Objectives Agency (JIOA)
+    node_type: organisation
+    slug: joint-intelligence-objectives-agency-jioa
+    shared_claims: 3
+  - node_id: 17b09640-9535-4b9a-9fcc-0e5d7db7f66e
+    title: Kurt Debus
+    node_type: person
+    slug: kurt-debus
+    shared_claims: 3
+  - node_id: 01ac6d11-095a-456f-9e5a-31bbf7be74d0
+    title: Linda Hunt
+    node_type: person
+    slug: linda-hunt
+    shared_claims: 3
+  - node_id: e1650a1d-8feb-4841-a403-0d71e176d2d9
+    title: Richard C. Hoagland
+    node_type: person
+    slug: richard-c-hoagland
+    shared_claims: 3
+  - node_id: 3dda57d8-c397-48d6-a3c5-d00e07ec5761
+    title: Hitler visit to Von Braun's rocket labs, 1939
+    node_type: event
+    slug: 1939-hitler-visit-to-von-brauns-rocket-labs
+    shared_claims: 2
+  - node_id: 3f3b0038-9cf9-4512-99a2-7b6c910c48f1
+    title: Redstone Arsenal
+    node_type: place
+    slug: redstone-arsenal
+    shared_claims: 2
+  - node_id: c7730f5c-5d5f-4680-ac23-a67440f60d6e
+    title: USA, Alabama
+    node_type: place
+    slug: alabama-usa
+    shared_claims: 2
+  - node_id: c8b9e3a0-f784-4abb-b1aa-831a76207fa2
+    title: Walt Disney
+    node_type: person
+    slug: walt-disney
+    shared_claims: 2
+  - node_id: 86002941-4b26-48e5-8629-0d332b938ca9
+    title: Apollo 11
+    node_type: project
+    slug: apollo-11
+    shared_claims: 1
+  - node_id: 57b3eabf-8051-48f1-bfc9-818f6ae87748
+    title: Arthur Rudolph
+    node_type: person
+    slug: arthur-rudolph
+    shared_claims: 1
+  - node_id: 0b2f6096-7f71-42a4-8250-26ffb1c6ccf6
+    title: Baron Magnus von Braun
+    node_type: person
+    slug: baron-magnus-von-braun
+    shared_claims: 1
+  - node_id: a0173e8c-da5f-4c47-aa4a-e01b88301a78
+    title: Baroness Emmy von Braun
+    node_type: person
+    slug: baroness-emmy-von-braun
+    shared_claims: 1
+  - node_id: b5c4e6d7-a458-40af-8ca6-5f6821795dd5
+    title: Berlin Institute of Technology
+    node_type: organisation
+    slug: berlin-institute-of-technology
+    shared_claims: 1
+  - node_id: 53eb4d70-08e8-47e4-9a79-cd239a1554eb
+    title: Berlin University
+    node_type: organisation
+    slug: berlin-university
+    shared_claims: 1
+  - node_id: 1230bc50-b361-44f5-a330-a07643979b1f
+    title: Collier's (magazine)
+    node_type: document
+    slug: colliers-magazine
+    shared_claims: 1
+  - node_id: b3b222d2-ced6-49c2-9a1e-06991531f87e
+    title: Ed Forman
+    node_type: person
+    slug: ed-forman
+    shared_claims: 1
+  - node_id: 242f3cc4-6031-41b3-888d-91639576f420
+    title: Enterprise Mission
+    node_type: organisation
+    slug: enterprise-mission
+    shared_claims: 1
+claims:
+  - claim_id: caac74a0-dd91-4ccf-87f2-7027bc3c26ad
+    claim_hash: 59b7e1d5cc604d2df292df7feb913457ce041a3199f8bda68383fd6c7bef1444
+    content: Wernher von Braun and his compatriots were brought to the United States under Project Paperclip.
+    original_excerpt: Von Braun and his compatriots were brought to America under Project Paperclip, despite some objections
+      by investigators in the JOIA.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 5c7ec6bf-8162-40e5-801c-2d74e3b6534e
+        title: Project Paperclip
+        slug: project-paperclip
+      - node_id: 6f90c776-6afc-49e2-ac5a-9335d9259398
+        title: Wernher von Braun
+        slug: wernher-von-braun
+    date: null
+    date_end: null
+    location_in_record: ch12:100057-100184
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+      record_title: Dark Mission
+      record_date: '2010-07-22'
+      record_reference: null
+      content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+      friendly_name: null
+  - claim_id: 5fcf59a0-17d0-4331-bf9e-3415f73f8571
+    claim_hash: f8a71df0f3c9ddead841ae795cf0d492ab23161078e473dcafb0670ec9e42060
+    content: Investigators in the Joint Intelligence Objectives Agency (JIOA) raised objections to bringing Wernher von Braun
+      to the United States under Project Paperclip.
+    original_excerpt: despite some objections by investigators in the JOIA
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 2f2f008a-15f4-412c-b697-2496cccd2798
+        title: Joint Intelligence Objectives Agency (JIOA)
+        slug: joint-intelligence-objectives-agency-jioa
+      - node_id: 5c7ec6bf-8162-40e5-801c-2d74e3b6534e
+        title: Project Paperclip
+        slug: project-paperclip
+      - node_id: 6f90c776-6afc-49e2-ac5a-9335d9259398
+        title: Wernher von Braun
+        slug: wernher-von-braun
+    date: null
+    date_end: null
+    location_in_record: ch12:100136-100184
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+      record_title: Dark Mission
+      record_date: '2010-07-22'
+      record_reference: null
+      content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+      friendly_name: null
+  - claim_id: c11ae606-c024-4593-bbf8-9c94265f1755
+    claim_hash: dea179e8b1f7c838fee387b8d417fa90d54af8e65c702e1a2c4a6e8ebe144d7f
+    content: Wernher von Braun, Arthur Rudolph, Kurt Debus, Humbertus Strughold and other German scientists brought to the
+      United States under Project Paperclip had elaborate Nazi pasts.
+    original_excerpt: The simple fact that Von Braun, Arthur Rudolph, Kurt Debus, Humbertus Strughold and many other German
+      scientists with elaborate Nazi pasts were brought to the U.S. at all is a testament to Cold War convenience.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: e1650a1d-8feb-4841-a403-0d71e176d2d9
+      title: Richard C. Hoagland
+    provenance_chain:
+      origin_kind: speaker
+      origin: Richard C. Hoagland
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 17b09640-9535-4b9a-9fcc-0e5d7db7f66e
+        title: Kurt Debus
+        slug: kurt-debus
+      - node_id: 57b3eabf-8051-48f1-bfc9-818f6ae87748
+        title: Arthur Rudolph
+        slug: arthur-rudolph
+      - node_id: 5c7ec6bf-8162-40e5-801c-2d74e3b6534e
+        title: Project Paperclip
+        slug: project-paperclip
+      - node_id: 6f90c776-6afc-49e2-ac5a-9335d9259398
+        title: Wernher von Braun
+        slug: wernher-von-braun
+      - node_id: a46464cf-1197-4527-a076-3d9759c971a3
+        title: Humbertus Strughold
+        slug: humbertus-strughold
+    date: null
+    date_end: null
+    location_in_record: ch12:100191-100389
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+      record_title: Dark Mission
+      record_date: '2010-07-22'
+      record_reference: null
+      content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+      friendly_name: null
+  - claim_id: bca10caa-c903-4cc3-b584-78d7bff7fb28
+    claim_hash: b0bb9d38e4a6cc71bfa142fd1490eddd4d1567a77d7dd806d7d3b30eb2d3a4ff
+    content: Wernher von Braun held the rank of Major in the Schutzstaffel (SS).
+    original_excerpt: Clearly, as a Major in the SS, Von Braun met the minimum criteria of "ardent Nazi."
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: e1650a1d-8feb-4841-a403-0d71e176d2d9
+      title: Richard C. Hoagland
+    provenance_chain:
+      origin_kind: speaker
+      origin: Richard C. Hoagland
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 6f90c776-6afc-49e2-ac5a-9335d9259398
+        title: Wernher von Braun
+        slug: wernher-von-braun
+      - node_id: cf9d0841-4c94-4e97-ad97-131b028af237
+        title: Schutzstaffel (SS)
+        slug: schutzstaffel-ss
+    date: null
+    date_end: null
+    location_in_record: ch12:100564-100641
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+      record_title: Dark Mission
+      record_date: '2010-07-22'
+      record_reference: null
+      content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+      friendly_name: null
+  - claim_id: f8969e46-07af-4d73-844c-e04fa46cb12d
+    claim_hash: 4327c51fb02811ffa6fb1a4d6eadff4808ff83b840610107710735e4748add86
+    content: Vannevar Bush and Theodore von Karman used their influence to have doubts about Wernher von Braun's SS Nazi past
+      overlooked.
+    original_excerpt: Fortunately (for Von Braun) he had "friends in high places," not just in Germany, but in the U.S.—in
+      the personages of Drs. Bush and Von Karman. Their influence was so powerful, that doubts expressed by the field investigators
+      about Von Braun's SS Nazi past were ultimately "conveniently" overlooked.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: e1650a1d-8feb-4841-a403-0d71e176d2d9
+      title: Richard C. Hoagland
+    provenance_chain:
+      origin_kind: speaker
+      origin: Richard C. Hoagland
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 4ada3704-4cd8-4cf2-b0fe-fcfb6716abaa
+        title: Vannevar Bush
+        slug: vannevar-bush
+      - node_id: 6f90c776-6afc-49e2-ac5a-9335d9259398
+        title: Wernher von Braun
+        slug: wernher-von-braun
+      - node_id: cf9d0841-4c94-4e97-ad97-131b028af237
+        title: Schutzstaffel (SS)
+        slug: schutzstaffel-ss
+      - node_id: f8fda164-69fa-479f-873b-097f03d0acfd
+        title: Theodore von Karman
+        slug: theodore-von-karman
+    date: null
+    date_end: null
+    location_in_record: ch12:100648-100937
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+      record_title: Dark Mission
+      record_date: '2010-07-22'
+      record_reference: null
+      content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+      friendly_name: null
+  - claim_id: 4ee3e124-e30a-4dde-b78a-57a98820aebc
+    claim_hash: c1a999ea89bacecf3c5a801cfe2d9c59c7bf5dde4d1e06ca8a61044b9387ac09
+    content: The Joint Intelligence Objectives Agency (JIOA) wrote its evaluation of Wernher von Braun on 1947-06-25.
+    original_excerpt: In its evaluation of Von Braun, written on June 25, 1947
+    claim_type: administrative
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: document
+      origin: Joint Intelligence Objectives Agency (JIOA) evaluation of Wernher von Braun
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 2f2f008a-15f4-412c-b697-2496cccd2798
+        title: Joint Intelligence Objectives Agency (JIOA)
+        slug: joint-intelligence-objectives-agency-jioa
+      - node_id: 6f90c776-6afc-49e2-ac5a-9335d9259398
+        title: Wernher von Braun
+        slug: wernher-von-braun
+    date: '1947-06-25'
+    date_end: null
+    location_in_record: ch12:100950-101002
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+      record_title: Dark Mission
+      record_date: '2010-07-22'
+      record_reference: null
+      content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+      friendly_name: null
+  - claim_id: de8f1191-c856-48ed-94d5-d6307b5265e0
+    claim_hash: d39ae74983f3523d5cf1e5779da4d4e80b7090ca844075f56c8f32f15914b409
+    content: The Joint Intelligence Objectives Agency (JIOA) evaluation of Wernher von Braun stated it could not be ascertained
+      why he became a member of the SS, could not determine whether his positions in the SS were honorary, required by the
+      Nazi party, or desired by him, and that no records of his arrest had been located.
+    original_excerpt: '"It cannot be ascertained by this office what the reasons were which caused VON BRAUN to become a member
+      of the SS. Neither can it be determined whether his positions in the SS were honorary, required by the Nazi party, or
+      desired by VON BRAUN. No records of his arrest have been located."'
+    claim_type: administrative
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: document
+      origin: Joint Intelligence Objectives Agency (JIOA) evaluation of Wernher von Braun
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 2f2f008a-15f4-412c-b697-2496cccd2798
+        title: Joint Intelligence Objectives Agency (JIOA)
+        slug: joint-intelligence-objectives-agency-jioa
+      - node_id: 6f90c776-6afc-49e2-ac5a-9335d9259398
+        title: Wernher von Braun
+        slug: wernher-von-braun
+      - node_id: cf9d0841-4c94-4e97-ad97-131b028af237
+        title: Schutzstaffel (SS)
+        slug: schutzstaffel-ss
+    date: '1947-06-25'
+    date_end: null
+    location_in_record: ch12:101266-101545
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+      record_title: Dark Mission
+      record_date: '2010-07-22'
+      record_reference: null
+      content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+      friendly_name: null
+  - claim_id: 9adf11dd-3c7e-4f50-895a-8b6b20264673
+    claim_hash: d3d9a5d09ae0489fb375fe5ed8ed377438df25919ff05a6ebc83a9930e96c7dc
+    content: After Project Paperclip cleared the way, Wernher von Braun and his team were sent to White Sands Missile Range
+      in New Mexico.
+    original_excerpt: Once they cleared the hurdles imposed by Paperclip, Von Braun and his team were quickly sent out to
+      White Sands Missile Range, in New Mexico.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 22049c25-e98a-4e2f-99ce-e8c8da9050cf
+        title: USA, New Mexico, White Sands Missile Range
+        slug: new-mexico-white-sands-missile-range-usa
+      - node_id: 5c7ec6bf-8162-40e5-801c-2d74e3b6534e
+        title: Project Paperclip
+        slug: project-paperclip
+      - node_id: 6f90c776-6afc-49e2-ac5a-9335d9259398
+        title: Wernher von Braun
+        slug: wernher-von-braun
+    date: null
+    date_end: null
+    location_in_record: ch12:101647-101781
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+      record_title: Dark Mission
+      record_date: '2010-07-22'
+      record_reference: null
+      content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+      friendly_name: null
+  - claim_id: 46c64124-428e-4e69-9d1f-49b327263270
+    claim_hash: 385dcbc58373022d08cd5dcab216ef08587005792ae09f4516282b935198f3bc
+    content: At White Sands Missile Range, Wernher von Braun's team conducted tests on captured A4 rockets (V-2s) and developed
+      more powerful rockets.
+    original_excerpt: There, they conducted tests on the captured V2s and worked on developing bigger and more powerful rockets.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 22049c25-e98a-4e2f-99ce-e8c8da9050cf
+        title: USA, New Mexico, White Sands Missile Range
+        slug: new-mexico-white-sands-missile-range-usa
+      - node_id: 6f90c776-6afc-49e2-ac5a-9335d9259398
+        title: Wernher von Braun
+        slug: wernher-von-braun
+    date: null
+    date_end: null
+    location_in_record: ch12:101789-101887
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+      record_title: Dark Mission
+      record_date: '2010-07-22'
+      record_reference: null
+      content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+      friendly_name: null
+  - claim_id: 3810031a-ffed-4a8d-abf7-296c9a878879
+    claim_hash: ee3a6cfe62ec8231bcb34c859e26292b97e6434e9879d8d75126f84565a39aa1
+    content: Wernher von Braun was appointed technical director of the United States Army ballistic weapon programme.
+    original_excerpt: Von Braun immediately showed his expertise and abilities as an organizer, and was eventually rewarded
+      by being appointed technical director of the U.S. Army ballistic weapon program.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 6f90c776-6afc-49e2-ac5a-9335d9259398
+        title: Wernher von Braun
+        slug: wernher-von-braun
+    date: null
+    date_end: null
+    location_in_record: ch12:101896-102070
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+      record_title: Dark Mission
+      record_date: '2010-07-22'
+      record_reference: null
+      content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+      friendly_name: null
+  - claim_id: 7910933d-22e8-4749-a234-19907a03c4c7
+    claim_hash: 2349020c56113f29f01ca84fe6ab046bfbfd867ad3022740de77c55b0ffc1f9a
+    content: In 1950, Wernher von Braun and his team were transferred to the Army's Redstone Arsenal near Huntsville, Alabama.
+    original_excerpt: In 1950, Von Braun and his team of "former" Nazis were transferred to the Army's Redstone Arsenal near
+      Huntsville, Alabama, where they developed the Redstone, Jupiter and Jupiter-C ballistic missiles.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 3f3b0038-9cf9-4512-99a2-7b6c910c48f1
+        title: Redstone Arsenal
+        slug: redstone-arsenal
+      - node_id: 6f90c776-6afc-49e2-ac5a-9335d9259398
+        title: Wernher von Braun
+        slug: wernher-von-braun
+      - node_id: c7730f5c-5d5f-4680-ac23-a67440f60d6e
+        title: USA, Alabama
+        slug: alabama-usa
+    date: '1950'
+    date_end: null
+    location_in_record: ch12:102080-102271
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+      record_title: Dark Mission
+      record_date: '2010-07-22'
+      record_reference: null
+      content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+      friendly_name: null
+  - claim_id: 3fc6c18d-d11b-4288-a8f9-eecae695c7a1
+    claim_hash: 482bc3b2bf4057a4fb6bae64069404a1e6bda57946b34286a02940be0c9f09b5
+    content: At Redstone Arsenal, Wernher von Braun's team developed the Redstone, Jupiter and Jupiter-C ballistic missiles.
+    original_excerpt: where they developed the Redstone, Jupiter and Jupiter-C ballistic missiles
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 3f3b0038-9cf9-4512-99a2-7b6c910c48f1
+        title: Redstone Arsenal
+        slug: redstone-arsenal
+      - node_id: 6f90c776-6afc-49e2-ac5a-9335d9259398
+        title: Wernher von Braun
+        slug: wernher-von-braun
+    date: null
+    date_end: null
+    location_in_record: ch12:102204-102271
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+      record_title: Dark Mission
+      record_date: '2010-07-22'
+      record_reference: null
+      content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+      friendly_name: null
+  - claim_id: 8bd7f336-a536-4459-9dfb-1f247f527295
+    claim_hash: 3cd31e60769f58556fab7274e3739b653b9aa4efd7a3b201c80ae4090b909d78
+    content: Wernher von Braun's team of German scientists made no attempt to conceal their Nazi pasts or affinity for the
+      Third Reich once settled in the United States.
+    original_excerpt: Von Braun and his cohorts were so certain of their "value" that they made no attempt to conceal either
+      their Nazi pasts or, apparently, their love for the Third Reich; having beaten the system through Paperclip, they evidently
+      didn't care who knew of their "ardent Nazi" histories.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: e1650a1d-8feb-4841-a403-0d71e176d2d9
+      title: Richard C. Hoagland
+    provenance_chain:
+      origin_kind: speaker
+      origin: Richard C. Hoagland
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 5c7ec6bf-8162-40e5-801c-2d74e3b6534e
+        title: Project Paperclip
+        slug: project-paperclip
+      - node_id: 6f90c776-6afc-49e2-ac5a-9335d9259398
+        title: Wernher von Braun
+        slug: wernher-von-braun
+    date: null
+    date_end: null
+    location_in_record: ch12:102306-102577
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+      record_title: Dark Mission
+      record_date: '2010-07-22'
+      record_reference: null
+      content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+      friendly_name: null
+  - claim_id: d9baa773-f67c-448c-a139-4e834445336c
+    claim_hash: 80c56e092f6e006b546f7752199c9535afe3bc7e876e42baa742f2ef9bf91e00
+    content: Members of Wernher von Braun's group displayed swastikas and other Nazi symbols on their clothes and on signs
+      at the camps where they were housed in the United States after their immigration.
+    original_excerpt: The group freely displayed swastikas and other Nazi symbols on their clothes and on signs in the camps
+      where they were kept for years after their immigration to the U.S.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: e1650a1d-8feb-4841-a403-0d71e176d2d9
+      title: Richard C. Hoagland
+    provenance_chain:
+      origin_kind: speaker
+      origin: Richard C. Hoagland
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 6f90c776-6afc-49e2-ac5a-9335d9259398
+        title: Wernher von Braun
+        slug: wernher-von-braun
+    date: null
+    date_end: null
+    location_in_record: ch12:102749-102916
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+      record_title: Dark Mission
+      record_date: '2010-07-22'
+      record_reference: null
+      content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+      friendly_name: null
+  - claim_id: 1bf87eb5-4c4a-40b8-84d1-abdade7bcb95
+    claim_hash: 0a03b6cfdf6dd535d1c55d6680c51afb7c3364ff05c6f46fdd7aed5f64c42e1d
+    content: Wernher von Braun wrote several articles in the popular quarterly magazine Collier's promoting space travel to
+      Americans.
+    original_excerpt: He wrote several articles in the popular quarterly magazine Collier's, and the success of these articles
+      attracted the notice of 33° Scottish Rite Freemason Walt Disney.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 1230bc50-b361-44f5-a330-a07643979b1f
+        title: Collier's (magazine)
+        slug: colliers-magazine
+      - node_id: 6f90c776-6afc-49e2-ac5a-9335d9259398
+        title: Wernher von Braun
+        slug: wernher-von-braun
+    date: null
+    date_end: null
+    location_in_record: ch12:103039-103201
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+      record_title: Dark Mission
+      record_date: '2010-07-22'
+      record_reference: null
+      content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+      friendly_name: null
+  - claim_id: ddb559b1-e95d-4c63-977d-3e6981ef5aa3
+    claim_hash: dbf7e965597b035bc53d4b985cec8af9007807a1184317241a198824b7670529
+    content: Walt Disney hired Wernher von Braun to produce and star in three television films about space travel.
+    original_excerpt: Disney hired Von Braun to produce and star in three popular television films about space travel in the
+      future.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 6f90c776-6afc-49e2-ac5a-9335d9259398
+        title: Wernher von Braun
+        slug: wernher-von-braun
+      - node_id: c8b9e3a0-f784-4abb-b1aa-831a76207fa2
+        title: Walt Disney
+        slug: walt-disney
+    date: null
+    date_end: null
+    location_in_record: ch12:103209-103312
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+      record_title: Dark Mission
+      record_date: '2010-07-22'
+      record_reference: null
+      content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+      friendly_name: null
+  - claim_id: 68b21d5d-e13b-434c-917f-b0b2e1d0d5ff
+    claim_hash: 82a353d0c536ea77e3793f75b0fd1100d252604da25d9d4b91d5c56ca9a49f42
+    content: The three Disney space television films helped establish Wernher von Braun as America's most notable space expert.
+    original_excerpt: These programs helped establish Von Braun as America's most notable space expert.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: e1650a1d-8feb-4841-a403-0d71e176d2d9
+      title: Richard C. Hoagland
+    provenance_chain:
+      origin_kind: speaker
+      origin: Richard C. Hoagland
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 4d089d3b-c18f-4d08-a57a-c1b0e153265a
+        title: Man and the Moon (film)
+        slug: man-and-the-moon-film
+      - node_id: 56c758eb-6bcb-4b36-951a-c9b674c8ff65
+        title: Man in Space (film)
+        slug: man-in-space-film
+      - node_id: 6f90c776-6afc-49e2-ac5a-9335d9259398
+        title: Wernher von Braun
+        slug: wernher-von-braun
+      - node_id: 875cef17-35ad-482c-a178-f94d57b0d16e
+        title: Mars and Beyond (film)
+        slug: mars-and-beyond-film
+    date: null
+    date_end: null
+    location_in_record: ch12:103505-103579
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+      record_title: Dark Mission
+      record_date: '2010-07-22'
+      record_reference: null
+      content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+      friendly_name: null
+  - claim_id: e1efc6a9-38ae-450a-b325-8f5038a029f7
+    claim_hash: 7e49a7a3ce8347c3cf3b90a9f990bb92a12f8d94bf08d80486d33a032fd90ceb
+    content: In the Man in Space dramatisation, Wernher von Braun's fictional rocket takes five days to reach the Moon, with
+      an opportunity for one pass around the far side before returning to Earth.
+    original_excerpt: In the dramatization, Von Braun's rocket takes five days to get to the Moon, with a chance for one pass
+      around the "dark side" before returning to Earth.
+    claim_type: observation
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: document
+      origin: Man in Space (film)
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 56c758eb-6bcb-4b36-951a-c9b674c8ff65
+        title: Man in Space (film)
+        slug: man-in-space-film
+      - node_id: 6f90c776-6afc-49e2-ac5a-9335d9259398
+        title: Wernher von Braun
+        slug: wernher-von-braun
+    date: null
+    date_end: null
+    location_in_record: ch12:104253-104400
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+      record_title: Dark Mission
+      record_date: '2010-07-22'
+      record_reference: null
+      content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+      friendly_name: null
+  - claim_id: bd53072b-2f77-450e-a1ae-d372e56b37aa
+    claim_hash: 620337151948f46ef8f5bc01d8b3096dcffac75145beabce41e33d3dd940cff6
+    content: In the Man in Space dramatisation, the fictional astronauts make no comment about the artificial-looking lunar
+      formation revealed by the flare, either at the time or later in the film.
+    original_excerpt: '*Not a word* is spoken about it in the dramatization, nor at any point later in the film. Von Braun
+      simply inserted it without comment.'
+    claim_type: observation
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: document
+      origin: Man in Space (film)
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 56c758eb-6bcb-4b36-951a-c9b674c8ff65
+        title: Man in Space (film)
+        slug: man-in-space-film
+      - node_id: 6f90c776-6afc-49e2-ac5a-9335d9259398
+        title: Wernher von Braun
+        slug: wernher-von-braun
+    date: null
+    date_end: null
+    location_in_record: ch12:105506-105632
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+      record_title: Dark Mission
+      record_date: '2010-07-22'
+      record_reference: null
+      content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+      friendly_name: null
+  - claim_id: 83ca83ab-ae92-45da-8a99-9de355c7b377
+    claim_hash: 68de6f733a221df9ea3ac96a5e03d1a105b0e58a1276547ba20037214c2ac9d2
+    content: Richard C. Hoagland considers that Wernher von Braun and Walt Disney intended the Man in Space film to portray
+      the Moon as previously inhabited while paying homage to the Masonic number 33.
+    original_excerpt: Von Braun and Disney obviously *intended* to portray the Moon as "previously inhabited" … and, simultaneously,
+      pay homage to the Masonic "33º."
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: e1650a1d-8feb-4841-a403-0d71e176d2d9
+      title: Richard C. Hoagland
+    provenance_chain:
+      origin_kind: speaker
+      origin: Richard C. Hoagland
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 56c758eb-6bcb-4b36-951a-c9b674c8ff65
+        title: Man in Space (film)
+        slug: man-in-space-film
+      - node_id: 6f90c776-6afc-49e2-ac5a-9335d9259398
+        title: Wernher von Braun
+        slug: wernher-von-braun
+      - node_id: c8b9e3a0-f784-4abb-b1aa-831a76207fa2
+        title: Walt Disney
+        slug: walt-disney
+    date: null
+    date_end: null
+    location_in_record: ch12:106177-106315
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+      record_title: Dark Mission
+      record_date: '2010-07-22'
+      record_reference: null
+      content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+      friendly_name: null
+  - claim_id: df619ebf-04c5-44df-9603-3008c86de6ca
+    claim_hash: 87b2e2e98490d6ecbb47dba2c5f55a34299e587dd310d7ef69422cbb42fbfa2b
+    content: In 1955, Wernher von Braun became a United States citizen.
+    original_excerpt: In 1955, Von Braun became a U.S. citizen and served as the primary army engineer for space exploration
+      support.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 6f90c776-6afc-49e2-ac5a-9335d9259398
+        title: Wernher von Braun
+        slug: wernher-von-braun
+    date: '1955'
+    date_end: null
+    location_in_record: ch12:106403-106506
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+      record_title: Dark Mission
+      record_date: '2010-07-22'
+      record_reference: null
+      content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+      friendly_name: null
+  - claim_id: c04d3722-6097-48c4-8436-1809b46a2b8f
+    claim_hash: 29a672a1b836dee2944662727c112e922f9d11fe6cf9c909e83678873b2fc4b3
+    content: Wernher von Braun served as the primary United States Army engineer for space exploration support.
+    original_excerpt: served as the primary army engineer for space exploration support
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 6f90c776-6afc-49e2-ac5a-9335d9259398
+        title: Wernher von Braun
+        slug: wernher-von-braun
+    date: null
+    date_end: null
+    location_in_record: ch12:106448-106506
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+      record_title: Dark Mission
+      record_date: '2010-07-22'
+      record_reference: null
+      content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+      friendly_name: null
+  - claim_id: c533111f-ed53-4373-b8c2-f2854aca3079
+    claim_hash: 0f02f38a3fb19b1c9982a580be472999eaea3c4f90bdf4dba3a00b09715ee7dc
+    content: Wernher von Braun predicted that the Vanguard rocket would fail, but was forbidden from launching a United States
+      Army satellite with his separate group in response.
+    original_excerpt: Von Braun boldly predicted that Vanguard would fail, but was expressly forbidden from launching a U.S.
+      Army satellite with his separate group in response.
+    claim_type: testimony
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 6f90c776-6afc-49e2-ac5a-9335d9259398
+        title: Wernher von Braun
+        slug: wernher-von-braun
+      - node_id: dc4769d9-3229-4680-bf8f-02f2043a8965
+        title: Vanguard rocket
+        slug: vanguard-rocket
+    date: null
+    date_end: null
+    location_in_record: ch12:106678-106823
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+      record_title: Dark Mission
+      record_date: '2010-07-22'
+      record_reference: null
+      content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+      friendly_name: null
+  - claim_id: 6bb87ca2-1a61-4f1a-9e64-e7ef680361fc
+    claim_hash: 7af44401c8c96449e409d1ca9d0a83162500a5429e9d90a1b86d188704af3266
+    content: After the Vanguard rocket's launch failure, Wernher von Braun's team was recruited to achieve a U.S. win in the
+      space race.
+    original_excerpt: Von Braun's team was then, suddenly, frantically recruited "to save the day"—and get the U.S. some kind
+      of "win" in the onrushing space race.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: e1650a1d-8feb-4841-a403-0d71e176d2d9
+      title: Richard C. Hoagland
+    provenance_chain:
+      origin_kind: speaker
+      origin: Richard C. Hoagland
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 6f90c776-6afc-49e2-ac5a-9335d9259398
+        title: Wernher von Braun
+        slug: wernher-von-braun
+    date: null
+    date_end: null
+    location_in_record: ch12:106919-107055
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+      record_title: Dark Mission
+      record_date: '2010-07-22'
+      record_reference: null
+      content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+      friendly_name: null
+  - claim_id: 779ff451-52d2-4410-a5eb-31cd4ae4cf95
+    claim_hash: 83a42d85e9664e7b729eb742d49956dbb599c8d1faedfe28adfca33b7d59c7bf
+    content: Wernher von Braun was appointed director of the new Marshall Space Flight Center in July 1960 and given the task
+      of developing rockets for the National Aeronautics and Space Administration (NASA).
+    original_excerpt: Von Braun was appointed director of the new Marshall Space Flight Center in July 1960 and given the
+      task of developing the rockets for the new Agency.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 5e47c787-005b-4c91-ba4b-c9bec48146c9
+        title: National Aeronautics and Space Administration (NASA)
+        slug: national-aeronautics-and-space-administration-nasa
+      - node_id: 6f90c776-6afc-49e2-ac5a-9335d9259398
+        title: Wernher von Braun
+        slug: wernher-von-braun
+      - node_id: a8dde4cf-b819-467a-826a-ca2b48e1c915
+        title: Marshall Space Flight Center
+        slug: marshall-space-flight-center
+    date: 1960-07
+    date_end: null
+    location_in_record: ch12:113992-114135
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+      record_title: Dark Mission
+      record_date: '2010-07-22'
+      record_reference: null
+      content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+      friendly_name: null
+  - claim_id: f75d4d6b-41df-4114-a027-8c619877afb5
+    claim_hash: 16540f142dff5feeed6f672dd64f8736431982f290c87a3fedbe40148277722d
+    content: Wernher von Braun placed many of his old Nazi colleagues into key positions in the new National Aeronautics and
+      Space Administration (NASA) once established as head of the Huntsville rocket development site.
+    original_excerpt: Once established as the head of the Huntsville rocket development site, Von Braun placed many of his
+      old Nazi cohorts into key positions in the new Space Agency.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: e1650a1d-8feb-4841-a403-0d71e176d2d9
+      title: Richard C. Hoagland
+    provenance_chain:
+      origin_kind: speaker
+      origin: Richard C. Hoagland
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 5e47c787-005b-4c91-ba4b-c9bec48146c9
+        title: National Aeronautics and Space Administration (NASA)
+        slug: national-aeronautics-and-space-administration-nasa
+      - node_id: 6f90c776-6afc-49e2-ac5a-9335d9259398
+        title: Wernher von Braun
+        slug: wernher-von-braun
+    date: null
+    date_end: null
+    location_in_record: ch12:116270-116424
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+      record_title: Dark Mission
+      record_date: '2010-07-22'
+      record_reference: null
+      content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+      friendly_name: null
+  - claim_id: 46c64ba3-3edb-421f-aeb7-7ab673848b8a
+    claim_hash: 8dc13800b5e5d1f9275f699a4bc0671affe0dd23a5b4929ce7c329d19d63d891
+    content: At Wernher von Braun's behest, Kurt Debus was made the first Director of the Kennedy Space Center.
+    original_excerpt: At Von Braun's behest, Kurt Debus, a former colleague of Von Braun's in World War II, was made the first
+      Director of the Kennedy Space Center.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 16e1c5bb-ebcd-4765-bd15-13ddc06feabb
+        title: USA, Florida, Kennedy Space Center
+        slug: florida-kennedy-space-center-usa
+      - node_id: 17b09640-9535-4b9a-9fcc-0e5d7db7f66e
+        title: Kurt Debus
+        slug: kurt-debus
+      - node_id: 6f90c776-6afc-49e2-ac5a-9335d9259398
+        title: Wernher von Braun
+        slug: wernher-von-braun
+    date: null
+    date_end: null
+    location_in_record: ch12:116432-116567
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+      record_title: Dark Mission
+      record_date: '2010-07-22'
+      record_reference: null
+      content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+      friendly_name: null
+  - claim_id: 39c580df-c0ca-4e06-ab49-d7e0cab9e901
+    claim_hash: 25e57a9fd14101a83fc97b7f6e7c6944ac4ba4ddedb262f9ae21339f50d0d78d
+    content: Kurt Debus was a former colleague of Wernher von Braun's in World War II.
+    original_excerpt: Kurt Debus, a former colleague of Von Braun's in World War II
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 17b09640-9535-4b9a-9fcc-0e5d7db7f66e
+        title: Kurt Debus
+        slug: kurt-debus
+      - node_id: 6f90c776-6afc-49e2-ac5a-9335d9259398
+        title: Wernher von Braun
+        slug: wernher-von-braun
+    date: null
+    date_end: null
+    location_in_record: ch12:116455-116514
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+      record_title: Dark Mission
+      record_date: '2010-07-22'
+      record_reference: null
+      content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+      friendly_name: null
+  - claim_id: bc1a38a2-daf1-4766-975b-98b5f380de8e
+    claim_hash: d4dbbea282067db0eb309da236c6211125574cf464e2c9461ef9fede24789fe7
+    content: Wernher von Braun was a Nazi party member.
+    original_excerpt: Debus, like Von Braun, was also a Nazi party member
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 6f90c776-6afc-49e2-ac5a-9335d9259398
+        title: Wernher von Braun
+        slug: wernher-von-braun
+    date: null
+    date_end: null
+    location_in_record: ch12:116575-116620
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+      record_title: Dark Mission
+      record_date: '2010-07-22'
+      record_reference: null
+      content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+      friendly_name: null
+  - claim_id: 9354eed6-5d0c-4ce3-a4da-0f177aaa13f4
+    claim_hash: 0ab5643579c417c1755c3dd6d9d6430dce74accc87b323d8ed82d9d84f94a3b0
+    content: Wernher von Braun conducted his first V-2 rocket tests in America at White Sands Missile Range, where the range's
+      only launch pad was numbered Launch Complex 33.
+    original_excerpt: In looking at the White Sands Missile Range, where Wernher Von Braun conducted his first V-2 tests in
+      America, it came to light that there had, in fact, been only *one* launch pad at the range, yet it was numbered—"Launch
+      Complex *33*."
+    claim_type: opinion
+    attestation: first_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: speaker
+      origin: Richard C. Hoagland
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 22049c25-e98a-4e2f-99ce-e8c8da9050cf
+        title: USA, New Mexico, White Sands Missile Range
+        slug: new-mexico-white-sands-missile-range-usa
+      - node_id: 6f90c776-6afc-49e2-ac5a-9335d9259398
+        title: Wernher von Braun
+        slug: wernher-von-braun
+    date: null
+    date_end: null
+    location_in_record: ch12:130230-130463
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+      record_title: Dark Mission
+      record_date: '2010-07-22'
+      record_reference: null
+      content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+      friendly_name: null
+  - claim_id: d1e2d0dc-43af-4bc9-940b-20f2515cd7ec
+    claim_hash: 8dd6b92a7d1bc95c45dc50ee5ad22933c101d9b11502382e909457337b506839
+    content: NASA was staffed at all levels by German rocket scientists from Project Paperclip, including former Nazis and
+      SS members such as Wernher von Braun.
+    original_excerpt: NASA—remember, an Agency riddled at all levels by "German rocket scientists" from Operation Paperclip,
+      former Nazis and SS members like Von Braun
+    claim_type: opinion
+    attestation: first_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: speaker
+      origin: Richard C. Hoagland
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 5c7ec6bf-8162-40e5-801c-2d74e3b6534e
+        title: Project Paperclip
+        slug: project-paperclip
+      - node_id: 5e47c787-005b-4c91-ba4b-c9bec48146c9
+        title: National Aeronautics and Space Administration (NASA)
+        slug: national-aeronautics-and-space-administration-nasa
+      - node_id: 6f90c776-6afc-49e2-ac5a-9335d9259398
+        title: Wernher von Braun
+        slug: wernher-von-braun
+      - node_id: cf9d0841-4c94-4e97-ad97-131b028af237
+        title: Schutzstaffel (SS)
+        slug: schutzstaffel-ss
+    date: null
+    date_end: null
+    location_in_record: ch12:133910-134050
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+      record_title: Dark Mission
+      record_date: '2010-07-22'
+      record_reference: null
+      content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+      friendly_name: null
+  - claim_id: a1a8ec38-3dcb-40ca-8ed5-53f2592697f0
+    claim_hash: a7bcf4a041beb76d2632f1b67f7dff7607c9e462b6988bbb71616b56e7700eda
+    content: An official photograph exists of the 1939 briefing and rocket demonstration for Adolf Hitler by Wernher von Braun's
+      amateur rocket team, which led directly to von Braun being personally offered a commission in the SS by Reichsführer
+      Heinrich Himmler and to the V-2 programme at Peenemunde.
+    original_excerpt: Fig. 5-24 -Official photograph of the 1939 briefing and rocket demonstration for Adolf Hitler (front
+      row, center) by Von Braun’s (inset) “amateur” rocket team - which led directly to Von Braun being personally offered
+      a commission in the S.S. by Reichsführer Heinrich Himmler, and the V-2 Program at Peenemunde (National Archive)
+    claim_type: observation
+    attestation: second_hand
+    speaker:
+      node_id: e1650a1d-8feb-4841-a403-0d71e176d2d9
+      title: Richard C. Hoagland
+    provenance_chain:
+      origin_kind: document
+      origin: USA, National Archives
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 17011d27-e3b5-4be6-90a7-2e7371cca217
+        title: Heinrich Himmler
+        slug: heinrich-himmler
+      - node_id: 3dda57d8-c397-48d6-a3c5-d00e07ec5761
+        title: Hitler visit to Von Braun's rocket labs, 1939
+        slug: 1939-hitler-visit-to-von-brauns-rocket-labs
+      - node_id: 6f90c776-6afc-49e2-ac5a-9335d9259398
+        title: Wernher von Braun
+        slug: wernher-von-braun
+      - node_id: 77ee2894-8bfa-43c7-a4c8-928e5f750caf
+        title: Germany, Peenemunde
+        slug: peenemunde-germany
+      - node_id: cf9d0841-4c94-4e97-ad97-131b028af237
+        title: Schutzstaffel (SS)
+        slug: schutzstaffel-ss
+      - node_id: e95835fe-733e-4777-bb60-740d9727e2c8
+        title: Adolf Hitler
+        slug: adolf-hitler
+    date: '1939'
+    date_end: null
+    location_in_record: ch12:170033-170354
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+      record_title: Dark Mission
+      record_date: '2010-07-22'
+      record_reference: null
+      content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+      friendly_name: null
+  - claim_id: 8acef0ad-3aa7-462c-adf9-4b7811a156ec
+    claim_hash: c4caaddf738ac69b4db3e627ab33c762213f0b2c6166861955d275354d8b770e
+    content: The only known photograph of SS Major Wernher von Braun in his black SS uniform shows him directly behind Reichsführer
+      Heinrich Himmler, taken at von Braun's induction ceremony into the SS.
+    original_excerpt: 'Fig. 5-25 - The only known photograph of SS Major Wernher Von Braun in his black SS uniform, directly
+      behind Reichsführer Heinrich Himmler. Taken at Von Braun’s induction ceremony into the SS. (Source: National Archives)'
+    claim_type: observation
+    attestation: second_hand
+    speaker:
+      node_id: e1650a1d-8feb-4841-a403-0d71e176d2d9
+      title: Richard C. Hoagland
+    provenance_chain:
+      origin_kind: document
+      origin: USA, National Archives
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 17011d27-e3b5-4be6-90a7-2e7371cca217
+        title: Heinrich Himmler
+        slug: heinrich-himmler
+      - node_id: 6f90c776-6afc-49e2-ac5a-9335d9259398
+        title: Wernher von Braun
+        slug: wernher-von-braun
+      - node_id: cf9d0841-4c94-4e97-ad97-131b028af237
+        title: Schutzstaffel (SS)
+        slug: schutzstaffel-ss
+    date: null
+    date_end: null
+    location_in_record: ch12:170373-170584
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+      record_title: Dark Mission
+      record_date: '2010-07-22'
+      record_reference: null
+      content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+      friendly_name: null
+  - claim_id: 868446f3-2f95-4dd0-9c8a-85e324e68fd7
+    claim_hash: d5c68aa9908a49be53f7bc32f7114072d0e43b6d9d5fa6c8f3cc25f062f71fc8
+    content: Wernher von Braun and fellow Project Paperclip scientists spent off-duty time in El Paso, Texas, near White Sands
+      Missile Range, in 1945.
+    original_excerpt: Fig. 5-26 - Wernher Von Braun and fellow “Project Paperclip” scientists spend off-duty time in El Paso,
+      Texas -- from nearby “White Sands Missile Range,” in 1945.
+    claim_type: observation
+    attestation: first_hand
+    speaker:
+      node_id: e1650a1d-8feb-4841-a403-0d71e176d2d9
+      title: Richard C. Hoagland
+    provenance_chain:
+      origin_kind: speaker
+      origin: Richard C. Hoagland
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 22049c25-e98a-4e2f-99ce-e8c8da9050cf
+        title: USA, New Mexico, White Sands Missile Range
+        slug: new-mexico-white-sands-missile-range-usa
+      - node_id: 5c7ec6bf-8162-40e5-801c-2d74e3b6534e
+        title: Project Paperclip
+        slug: project-paperclip
+      - node_id: 6f90c776-6afc-49e2-ac5a-9335d9259398
+        title: Wernher von Braun
+        slug: wernher-von-braun
+    date: '1945'
+    date_end: null
+    location_in_record: ch12:170604-170761
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+      record_title: Dark Mission
+      record_date: '2010-07-22'
+      record_reference: null
+      content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+      friendly_name: null
+  - claim_id: 55a7cffb-9706-4cdf-ac8f-474b64790868
+    claim_hash: 177c98e787f7c2304321813b541d882e04e83056df53a9aa405ea0d4a1e64307
+    content: A screen capture from the Von Braun/Disney production Man in Space shows an alien base on the far side of the
+      Moon at 33 degrees.
+    original_excerpt: Fig. 5-27 - Screen capture from Von Braun\Disney production “Man in Space,” showing an *alien base*
+      on the farside of the Moon “at 33 degrees ….”
+    claim_type: observation
+    attestation: first_hand
+    speaker:
+      node_id: e1650a1d-8feb-4841-a403-0d71e176d2d9
+      title: Richard C. Hoagland
+    provenance_chain:
+      origin_kind: speaker
+      origin: Richard C. Hoagland
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 56c758eb-6bcb-4b36-951a-c9b674c8ff65
+        title: Man in Space (film)
+        slug: man-in-space-film
+      - node_id: 6f90c776-6afc-49e2-ac5a-9335d9259398
+        title: Wernher von Braun
+        slug: wernher-von-braun
+    date: null
+    date_end: null
+    location_in_record: ch12:170870-171004
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+      record_title: Dark Mission
+      record_date: '2010-07-22'
+      record_reference: null
+      content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+      friendly_name: null
+  - claim_id: 4f6adb27-4225-4780-badc-8a277c81ca2c
+    claim_hash: cdfe34dce97d57c4bb7b82bdac700227d5f438f1d549e19e4ffee161ccc197e3
+    content: Vannevar Bush played a key role in bringing many German rocket scientists, such as Wernher von Braun, to the
+      United States.
+    original_excerpt: played a key role in bringing many of the German rocket scientists, like Wernher Von Braun, to the United
+      States
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 4ada3704-4cd8-4cf2-b0fe-fcfb6716abaa
+        title: Vannevar Bush
+        slug: vannevar-bush
+      - node_id: 6f90c776-6afc-49e2-ac5a-9335d9259398
+        title: Wernher von Braun
+        slug: wernher-von-braun
+    date: null
+    date_end: null
+    location_in_record: ch12:66776-66882
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+      record_title: Dark Mission
+      record_date: '2010-07-22'
+      record_reference: null
+      content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+      friendly_name: null
+  - claim_id: a77b32cd-4cff-46e3-9ffe-bab16306b395
+    claim_hash: e49fb9f9d5824c5d22d5df1af89b2ec3f663aaae093d638a444d5617c2069d07
+    content: With the help of Vannevar Bush, the Pentagon supplied a steady stream of brainpower to NASA through its secret
+      ballistic missile programmes led by Wernher von Braun.
+    original_excerpt: With the help of Bush, the Pentagon supplied a steady stream of brainpower to NASA through its secret
+      ballistic missile programs led by Wernher Von Braun.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 4ada3704-4cd8-4cf2-b0fe-fcfb6716abaa
+        title: Vannevar Bush
+        slug: vannevar-bush
+      - node_id: 5e47c787-005b-4c91-ba4b-c9bec48146c9
+        title: National Aeronautics and Space Administration (NASA)
+        slug: national-aeronautics-and-space-administration-nasa
+      - node_id: 6f90c776-6afc-49e2-ac5a-9335d9259398
+        title: Wernher von Braun
+        slug: wernher-von-braun
+    date: null
+    date_end: null
+    location_in_record: ch12:67249-67397
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+      record_title: Dark Mission
+      record_date: '2010-07-22'
+      record_reference: null
+      content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+      friendly_name: null
+  - claim_id: b08f6750-e7ec-4ec0-bcb3-67d32f70579c
+    claim_hash: 61d9326bf620b03186e35b2754ca846da7d6ae368613e572b239ee7eaede2b1c
+    content: Vannevar Bush originally played a key role in bringing Wernher von Braun and other ardent Nazis to the United
+      States illegally, in direct violation of President Truman's executive orders.
+    original_excerpt: Bush originally played a key role in bringing Von Braun and other "ardent Nazis" to the U.S. illegally,
+      in direct violation of President Truman's executive orders.
+    claim_type: hearsay
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: document
+      origin: Secret Agenda (book)
+      relay:
+        - Linda Hunt
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 01ac6d11-095a-456f-9e5a-31bbf7be74d0
+        title: Linda Hunt
+        slug: linda-hunt
+      - node_id: 4ada3704-4cd8-4cf2-b0fe-fcfb6716abaa
+        title: Vannevar Bush
+        slug: vannevar-bush
+      - node_id: 589d7469-f87f-4da5-afa8-cabca7be6818
+        title: Harry S. Truman
+        slug: harry-s-truman
+      - node_id: 6f90c776-6afc-49e2-ac5a-9335d9259398
+        title: Wernher von Braun
+        slug: wernher-von-braun
+      - node_id: b47c99b9-9fb4-47d0-b2f3-613f8a65d016
+        title: Secret Agenda (book)
+        slug: secret-agenda-book
+    date: null
+    date_end: null
+    location_in_record: ch12:67454-67610
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+      record_title: Dark Mission
+      record_date: '2010-07-22'
+      record_reference: null
+      content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+      friendly_name: null
+  - claim_id: 32094487-a93c-4830-9da3-681950163f0a
+    claim_hash: bd309533048ff67ad106705c0b226f74926f3f6539b7faa65307cc1cccf2dbfe
+    content: Jack Parsons and Ed Forman had early contact with German rocket pioneers Hermann Oberth and Wernher von Braun.
+    original_excerpt: Parsons and Ed Forman, his compatriot in chemistry and rocketry, are also known to have had early contact
+      with German rocket pioneers Herrmann Oberth, and Oberth's "wunderkind" successor and protégé, Wernher Von Braun.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 6f90c776-6afc-49e2-ac5a-9335d9259398
+        title: Wernher von Braun
+        slug: wernher-von-braun
+      - node_id: b3b222d2-ced6-49c2-9a1e-06991531f87e
+        title: Ed Forman
+        slug: ed-forman
+      - node_id: b6090b6b-63d9-473d-8d6c-bd4b5f54f24b
+        title: Jack Parsons
+        slug: jack-parsons
+      - node_id: fda41e1c-f593-4e3b-8393-fa33980dfe84
+        title: Hermann Oberth
+        slug: hermann-oberth
+    date: null
+    date_end: null
+    location_in_record: ch12:76319-76531
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+      record_title: Dark Mission
+      record_date: '2010-07-22'
+      record_reference: null
+      content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+      friendly_name: null
+  - claim_id: a99da1da-1e8e-444f-8018-6e00a71d8b5b
+    claim_hash: 8cb1136f04f74a3f282ff1c45c593a11c7b5c99ff9529af8c51d757377683c9d
+    content: Jack Parsons' personal quest was to create powerful solid-fuel rocket boosters, which could be simpler, cheaper
+      and more reliable than the liquid-fuelled rockets developed by Robert Goddard and Wernher von Braun.
+    original_excerpt: Parson's personal quest was to create powerful solid-fuel boosters, which could someday—by being far
+      simpler, thus cheaper and more reliable—supplant the liquid fueled complexities (and spectacular accidents) of Goddard
+      and Von Braun's painful efforts at practical rocket development.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 0c8f5937-374e-48ff-ad30-6894ae0ce10c
+        title: Robert Goddard
+        slug: robert-goddard
+      - node_id: 6f90c776-6afc-49e2-ac5a-9335d9259398
+        title: Wernher von Braun
+        slug: wernher-von-braun
+      - node_id: b6090b6b-63d9-473d-8d6c-bd4b5f54f24b
+        title: Jack Parsons
+        slug: jack-parsons
+    date: null
+    date_end: null
+    location_in_record: ch12:76904-77178
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+      record_title: Dark Mission
+      record_date: '2010-07-22'
+      record_reference: null
+      content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+      friendly_name: null
+  - claim_id: e0d5b8ea-4d3a-4055-aef4-5ea07de08d9f
+    claim_hash: f5d0edbbbddf3aa6f76fa7c8ff0d494959d5d415d724c23329fb7935e28b1fc3
+    content: Wernher von Braun and Theodore von Karman named Jack Parsons as one of the three most important pioneers of the
+      rocket age.
+    original_excerpt: both Wernher Von Braun and Von Karman named him as one of the "three most important pioneers" of the
+      rocket age
+    claim_type: testimony
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: named
+      origin: Wernher von Braun and Theodore von Karman
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 6f90c776-6afc-49e2-ac5a-9335d9259398
+        title: Wernher von Braun
+        slug: wernher-von-braun
+      - node_id: b6090b6b-63d9-473d-8d6c-bd4b5f54f24b
+        title: Jack Parsons
+        slug: jack-parsons
+      - node_id: f8fda164-69fa-479f-873b-097f03d0acfd
+        title: Theodore von Karman
+        slug: theodore-von-karman
+    date: null
+    date_end: null
+    location_in_record: ch12:90589-90697
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+      record_title: Dark Mission
+      record_date: '2010-07-22'
+      record_reference: null
+      content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+      friendly_name: null
+  - claim_id: 9ac0baa4-4eab-4de9-af9a-864c5b693f40
+    claim_hash: 2e1d983be2b5656ad46863ba34a56662a827b1eaca9abd32338a19889dbc0d29
+    content: After World War II, Theodore von Karman was sent to Germany to interview German rocket scientists and tour Nazi
+      facilities at Peenemunde and Mittelwerk, where he met Wernher von Braun and recommended he be brought to the United
+      States, in violation of the directives of Project Paperclip.
+    original_excerpt: After the war, Von Karman was sent to Germany to interview the German rocket scientists and tour the
+      Nazi facilities at Pennemunde and Mittlework. He did meet Von Braun there, and recommended he be brought to the U.S.,
+      which (as previously noted) was in violation of the directives of Project Paperclip.
+    claim_type: observation
+    attestation: first_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: speaker
+      origin: Richard C. Hoagland
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 5c7ec6bf-8162-40e5-801c-2d74e3b6534e
+        title: Project Paperclip
+        slug: project-paperclip
+      - node_id: 6f90c776-6afc-49e2-ac5a-9335d9259398
+        title: Wernher von Braun
+        slug: wernher-von-braun
+      - node_id: 77ee2894-8bfa-43c7-a4c8-928e5f750caf
+        title: Germany, Peenemunde
+        slug: peenemunde-germany
+      - node_id: b8dbf8fe-2911-4926-8eee-98807647b553
+        title: Germany, Mittelwerk
+        slug: mittelwerk-germany
+      - node_id: f8fda164-69fa-479f-873b-097f03d0acfd
+        title: Theodore von Karman
+        slug: theodore-von-karman
+    date: null
+    date_end: null
+    location_in_record: ch12:91099-91392
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+      record_title: Dark Mission
+      record_date: '2010-07-22'
+      record_reference: null
+      content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+      friendly_name: null
+  - claim_id: ee3c058a-88f6-426a-99cf-208818e38b40
+    claim_hash: adfca013e7c894bc80f259536236afcc7737240e3fe1b263eaf98c0753de3599
+    content: Wernher von Braun and the first group of German rocketry experts were transferred to Alabama in 1950, following
+      a stint at Fort Bliss and White Sands Missile Range in New Mexico, where Theodore von Karman continued to debrief them.
+    original_excerpt: Von Braun and the first batch of German rocketry experts were eventually transferred to Alabama in 1950
+      (after a curious stint at Ft. Bliss, and the White Sands Missile Range in southern New Mexico), where Von Karman and
+      others continued to debrief them.
+    claim_type: observation
+    attestation: first_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: speaker
+      origin: Richard C. Hoagland
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 22049c25-e98a-4e2f-99ce-e8c8da9050cf
+        title: USA, New Mexico, White Sands Missile Range
+        slug: new-mexico-white-sands-missile-range-usa
+      - node_id: 6f90c776-6afc-49e2-ac5a-9335d9259398
+        title: Wernher von Braun
+        slug: wernher-von-braun
+      - node_id: adde6d4c-7c68-4a2f-b2a4-1bb5515e5f6f
+        title: USA, Texas, Fort Bliss
+        slug: texas-fort-bliss-usa
+      - node_id: c7730f5c-5d5f-4680-ac23-a67440f60d6e
+        title: USA, Alabama
+        slug: alabama-usa
+      - node_id: f8fda164-69fa-479f-873b-097f03d0acfd
+        title: Theodore von Karman
+        slug: theodore-von-karman
+    date: '1950'
+    date_end: null
+    location_in_record: ch12:91404-91653
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+      record_title: Dark Mission
+      record_date: '2010-07-22'
+      record_reference: null
+      content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+      friendly_name: null
+  - claim_id: bb4090fe-b14c-4640-ba93-275d23ee74a1
+    claim_hash: 2238c8349cc1c356af0ece51c9d491e0b19aa0f64cfae9146443e9548fae2425
+    content: Documents obtained via an Enterprise Mission research foray into the United States National Archives in the mid-1990s
+      confirm that Wernher von Braun was a Major in the Schutzstaffel (SS) during World War II.
+    original_excerpt: Documents serendipitously obtained via an "Enterprise Mission" research foray into the National Archives
+      in the mid-1990's, confirm that Von Braun during World War II was nothing less than a Major in the SS, the fearsome
+      and fanatically loyal arm of the Nazi war machine entrusted to carry out the most inhuman acts of the regime.
+    claim_type: observation
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: document
+      origin: documents in the United States National Archives obtained by the Enterprise Mission
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 242f3cc4-6031-41b3-888d-91639576f420
+        title: Enterprise Mission
+        slug: enterprise-mission
+      - node_id: 6f90c776-6afc-49e2-ac5a-9335d9259398
+        title: Wernher von Braun
+        slug: wernher-von-braun
+      - node_id: cf9d0841-4c94-4e97-ad97-131b028af237
+        title: Schutzstaffel (SS)
+        slug: schutzstaffel-ss
+      - node_id: dd890afa-df11-4b5a-b4c6-c4b77275b2ef
+        title: USA, National Archives
+        slug: national-archives-usa
+      - node_id: de7a541f-1de6-4245-a7b3-fe0004c3fd8e
+        title: Enterprise Mission National Archives research foray, mid-1990s
+        slug: mid-1990s-enterprise-mission-national-archives-research-foray
+    date: null
+    date_end: null
+    location_in_record: ch12:92870-93196
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+      record_title: Dark Mission
+      record_date: '2010-07-22'
+      record_reference: null
+      content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+      friendly_name: null
+  - claim_id: f9db4086-2590-43f5-ab01-8a628f1a9ad6
+    claim_hash: d10c7645f6b98e38761bb74b0e249f90e42ef81be6bcc8223174df5650b17d88
+    content: Linda Hunt found survivors of the Nazi missile factories at Mittelwerk and Peenemunde who said Wernher von Braun
+      witnessed executions and abuse of prisoners at those facilities.
+    original_excerpt: Linda Hunt found survivors of the Nazi missile factories at Mittlework and Peenemunde who told her that
+      Von Braun not only "witnessed executions and abuse of prisoners at those facilities,"
+    claim_type: testimony
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: named
+      origin: survivors of the Nazi missile factories at Mittelwerk and Peenemunde
+      relay:
+        - Linda Hunt
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 01ac6d11-095a-456f-9e5a-31bbf7be74d0
+        title: Linda Hunt
+        slug: linda-hunt
+      - node_id: 6f90c776-6afc-49e2-ac5a-9335d9259398
+        title: Wernher von Braun
+        slug: wernher-von-braun
+      - node_id: 77ee2894-8bfa-43c7-a4c8-928e5f750caf
+        title: Germany, Peenemunde
+        slug: peenemunde-germany
+      - node_id: b8dbf8fe-2911-4926-8eee-98807647b553
+        title: Germany, Mittelwerk
+        slug: mittelwerk-germany
+    date: null
+    date_end: null
+    location_in_record: ch12:93204-93381
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+      record_title: Dark Mission
+      record_date: '2010-07-22'
+      record_reference: null
+      content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+      friendly_name: null
+  - claim_id: 02c38367-d822-4544-b0b7-a2e39c705a36
+    claim_hash: 773f4f9ce71c93dc6fc30c92a6c9cc0de28caa55b8e3de94b5a13c8ac33fc8aa
+    content: Survivors of the Nazi missile factories at Mittelwerk and Peenemunde told Linda Hunt that Wernher von Braun ordered
+      executions on at least one occasion.
+    original_excerpt: but on at least one occasion ordered executions
+    claim_type: testimony
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: named
+      origin: survivors of the Nazi missile factories at Mittelwerk and Peenemunde
+      relay:
+        - Linda Hunt
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 01ac6d11-095a-456f-9e5a-31bbf7be74d0
+        title: Linda Hunt
+        slug: linda-hunt
+      - node_id: 6f90c776-6afc-49e2-ac5a-9335d9259398
+        title: Wernher von Braun
+        slug: wernher-von-braun
+      - node_id: 77ee2894-8bfa-43c7-a4c8-928e5f750caf
+        title: Germany, Peenemunde
+        slug: peenemunde-germany
+      - node_id: b8dbf8fe-2911-4926-8eee-98807647b553
+        title: Germany, Mittelwerk
+        slug: mittelwerk-germany
+    date: null
+    date_end: null
+    location_in_record: ch12:93394-93433
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+      record_title: Dark Mission
+      record_date: '2010-07-22'
+      record_reference: null
+      content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+      friendly_name: null
+  - claim_id: 8700892c-d74b-462f-af37-978797353364
+    claim_hash: 65a918b7590bbad175d0aff049e6e19ac4817bff66fedb7cb26a284045d1a76b
+    content: Documents show that near the end of World War II, Wernher von Braun was commissioned to devise a plan to use
+      a V-2 rocket to bomb New York City with a radioactive device.
+    original_excerpt: Recently, new documents also show that Von Braun was commissioned to come up with a plan near the end
+      of World War II to use one of his V-2 rockets to bomb New York City with a radioactive device
+    claim_type: observation
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: document
+      origin: unspecified documents
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 6f90c776-6afc-49e2-ac5a-9335d9259398
+        title: Wernher von Braun
+        slug: wernher-von-braun
+      - node_id: 76feb1de-0cfb-4e15-b105-63ab11e012de
+        title: USA, New York, Ground Zero
+        slug: new-york-ground-zero-usa
+    date: null
+    date_end: null
+    location_in_record: ch12:93446-93635
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+      record_title: Dark Mission
+      record_date: '2010-07-22'
+      record_reference: null
+      content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+      friendly_name: null
+  - claim_id: 6d344983-fca2-4490-95df-df13e337cf4d
+    claim_hash: f31c09427185109640c358d01ef9c1dec12659cb75440234739b5df8142c429a
+    content: Wernher von Braun was born on 1912-03-23 in Wirsitz, Germany, the second of three children born to Baron Magnus
+      von Braun and Baroness Emmy von Braun.
+    original_excerpt: Born on March 23, 1912, in Wirsitz, Germany, Von Braun was the second of three children born to aristocrats
+      Baron Magnus and Baroness Emmy Von Braun.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: biographical record
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 0b2f6096-7f71-42a4-8250-26ffb1c6ccf6
+        title: Baron Magnus von Braun
+        slug: baron-magnus-von-braun
+      - node_id: 6f90c776-6afc-49e2-ac5a-9335d9259398
+        title: Wernher von Braun
+        slug: wernher-von-braun
+      - node_id: a0173e8c-da5f-4c47-aa4a-e01b88301a78
+        title: Baroness Emmy von Braun
+        slug: baroness-emmy-von-braun
+      - node_id: cfc13948-3293-45ac-b1ee-b4e6db32c7ee
+        title: Germany, Wirsitz
+        slug: wirsitz-germany
+    date: '1912-03-23'
+    date_end: null
+    location_in_record: ch12:94034-94177
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+      record_title: Dark Mission
+      record_date: '2010-07-22'
+      record_reference: null
+      content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+      friendly_name: null
+  - claim_id: 1b744e9b-77c1-4e56-9c8a-10cd1d19618c
+    claim_hash: c7f935a1edbf75d53bbcbbf5500a4d5e7e0e99146b3962836b45fe0da68045ed
+    content: Wernher von Braun received a telescope and a copy of Hermann Oberth's book A Rocket Into Interplanetary Space,
+      which influenced him to experiment with rocket motors.
+    original_excerpt: He received a telescope along with a copy of rocket pioneer Herman Oberth's A Rocket Into Interplanetary
+      Space, which influenced him to experiment with rocket motors.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: biographical record
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 6f90c776-6afc-49e2-ac5a-9335d9259398
+        title: Wernher von Braun
+        slug: wernher-von-braun
+      - node_id: fda41e1c-f593-4e3b-8393-fa33980dfe84
+        title: Hermann Oberth
+        slug: hermann-oberth
+    date: null
+    date_end: null
+    location_in_record: ch12:94378-94539
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+      record_title: Dark Mission
+      record_date: '2010-07-22'
+      record_reference: null
+      content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+      friendly_name: null
+  - claim_id: 0b396307-a871-42ed-ac8d-9723b3afa99b
+    claim_hash: 25baac0ca46f5f83a7802878d7f8cd06d09ce851abf0fcf278ae426b1608f5a9
+    content: At the age of sixteen, Wernher von Braun organised an astronomical observatory construction team.
+    original_excerpt: At the age of sixteen, he organized an astronomical observatory construction team
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: biographical record
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 6f90c776-6afc-49e2-ac5a-9335d9259398
+        title: Wernher von Braun
+        slug: wernher-von-braun
+    date: null
+    date_end: null
+    location_in_record: ch12:94547-94624
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+      record_title: Dark Mission
+      record_date: '2010-07-22'
+      record_reference: null
+      content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+      friendly_name: null
+  - claim_id: a288937d-136f-4027-87c3-01a2656c745a
+    claim_hash: 1d4e0e98373aef4bdb104d8e619801ff25b173b615c5834160a836bbd5d5fdb8
+    content: Wernher von Braun studied mechanical engineering at the Berlin Institute of Technology, where he became a member
+      of the German Society for Space Travel.
+    original_excerpt: then went on to study mechanical engineering at the Berlin Institute of Technology, where he became
+      a member of the German Society for Space Travel.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: biographical record
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 601f9e46-5a7f-4260-96fd-734fab630603
+        title: German Society for Space Travel
+        slug: german-society-for-space-travel
+      - node_id: 6f90c776-6afc-49e2-ac5a-9335d9259398
+        title: Wernher von Braun
+        slug: wernher-von-braun
+      - node_id: b5c4e6d7-a458-40af-8ca6-5f6821795dd5
+        title: Berlin Institute of Technology
+        slug: berlin-institute-of-technology
+    date: null
+    date_end: null
+    location_in_record: ch12:94634-94775
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+      record_title: Dark Mission
+      record_date: '2010-07-22'
+      record_reference: null
+      content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+      friendly_name: null
+  - claim_id: 4b2f2310-2937-45c0-bfc6-7a664612ff09
+    claim_hash: 6703caac92ce1ccf8f0e61821f9c3afd0a50d4a3197f0b3fc3f02f46de814f10
+    content: In 1932, Wernher von Braun enrolled at Berlin University, where he assembled a team of over a hundred scientists,
+      including his younger brother Magnus von Braun, to perform early rocket development experiments.
+    original_excerpt: In 1932, he enrolled at Berlin University, where he assembled a team of over a hundred scientists. Von
+      Braun's team, which included his younger brother, Magnus, performed early experiments in rocket development.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: biographical record
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 1ef9ff80-1153-4fcc-b189-396f07abc80a
+        title: Magnus von Braun (brother)
+        slug: magnus-von-braun-brother
+      - node_id: 53eb4d70-08e8-47e4-9a79-cd239a1554eb
+        title: Berlin University
+        slug: berlin-university
+      - node_id: 6f90c776-6afc-49e2-ac5a-9335d9259398
+        title: Wernher von Braun
+        slug: wernher-von-braun
+    date: '1932'
+    date_end: null
+    location_in_record: ch12:94783-94982
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+      record_title: Dark Mission
+      record_date: '2010-07-22'
+      record_reference: null
+      content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+      friendly_name: null
+  - claim_id: b89d4e82-e9b6-49d1-aec6-b52b50cd9688
+    claim_hash: 40df497b34c60c8c746f31c2349b8d7362a1978800abfe6699c52983964af4c3
+    content: After World War I, Germany was prohibited from developing large artillery by the Treaty of Versailles, so it
+      offered Wernher von Braun a grant to develop liquid-fuelled rocket engines, which were not prohibited under the treaty.
+    original_excerpt: After World War I, Germany wanted to improve its artillery capabilities but they were specifically prohibited
+      from working on "big guns" by the Treaty of Versailles. Recognizing Von Braun's early research and development skills
+      in "alternative munitions," they offered the young scientist a grant to conduct various experiments on liquid-fueled
+      rocket engines—which technically, were not prohibited by Germany's post-War Treaty restrictions.
+    claim_type: observation
+    attestation: first_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: speaker
+      origin: Richard C. Hoagland
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 6f90c776-6afc-49e2-ac5a-9335d9259398
+        title: Wernher von Braun
+        slug: wernher-von-braun
+      - node_id: 8adf6a80-6bf9-483b-bb59-c0923df0e55a
+        title: Treaty of Versailles
+        slug: treaty-of-versailles
+    date: null
+    date_end: null
+    location_in_record: ch12:94996-95427
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+      record_title: Dark Mission
+      record_date: '2010-07-22'
+      record_reference: null
+      content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+      friendly_name: null
+  - claim_id: 2b5fd61d-b783-487f-b16e-ee308a27d854
+    claim_hash: 061e4bd00b452d1282ef21b150163fe203c10de53e65a438a4eb06cfbe3cb731
+    content: Wernher von Braun operated a secret laboratory on the Baltic Coast near Peenemunde, where his classified research
+      doubled as his doctoral thesis.
+    original_excerpt: Von Braun, who was still a student, operated at a secret laboratory on the Baltic Coast (near Peenemunde,
+      a favorite summer vacation destination of his family), where his classified research doubled as his doctoral thesis.
+    claim_type: observation
+    attestation: first_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: speaker
+      origin: Richard C. Hoagland
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 6f90c776-6afc-49e2-ac5a-9335d9259398
+        title: Wernher von Braun
+        slug: wernher-von-braun
+      - node_id: 77ee2894-8bfa-43c7-a4c8-928e5f750caf
+        title: Germany, Peenemunde
+        slug: peenemunde-germany
+    date: null
+    date_end: null
+    location_in_record: ch12:95442-95657
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+      record_title: Dark Mission
+      record_date: '2010-07-22'
+      record_reference: null
+      content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+      friendly_name: null
+  - claim_id: 45c2eee3-1fb2-4a6f-a443-1f88c6012ecc
+    claim_hash: f84a9ce2a8315381a201e7b9752eef73905e14ec3e580bf8319e63af255b1e83
+    content: When Adolf Hitler came to power in 1933, Wernher von Braun remained in Germany even though he could have left
+      for France, England, or America.
+    original_excerpt: When Hitler came to power in 1933, Von Braun remained in Germany, even though he could have left and
+      gone to France, England or America.
+    claim_type: observation
+    attestation: first_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: speaker
+      origin: Richard C. Hoagland
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 6f90c776-6afc-49e2-ac5a-9335d9259398
+        title: Wernher von Braun
+        slug: wernher-von-braun
+      - node_id: e95835fe-733e-4777-bb60-740d9727e2c8
+        title: Adolf Hitler
+        slug: adolf-hitler
+    date: '1933'
+    date_end: null
+    location_in_record: ch12:95777-95905
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+      record_title: Dark Mission
+      record_date: '2010-07-22'
+      record_reference: null
+      content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+      friendly_name: null
+  - claim_id: 41f0093b-fb6c-437c-a61a-a9879d25c800
+    claim_hash: 7a170ee55df253cc11f094d298251ed2f238de47a277c64282da397a3b51378c
+    content: Colonel Walter Dornberger was personally assigned by Adolf Hitler to oversee Wernher von Braun's research for
+      military applications.
+    original_excerpt: Colonel Walter Dornberger was personally assigned by Hitler to oversee the research for "military applications."
+    claim_type: observation
+    attestation: first_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: speaker
+      origin: Richard C. Hoagland
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 021c3825-858e-41b2-b3b4-af181f35d70c
+        title: Walter Dornberger
+        slug: walter-dornberger
+      - node_id: 6f90c776-6afc-49e2-ac5a-9335d9259398
+        title: Wernher von Braun
+        slug: wernher-von-braun
+      - node_id: e95835fe-733e-4777-bb60-740d9727e2c8
+        title: Adolf Hitler
+        slug: adolf-hitler
+    date: null
+    date_end: null
+    location_in_record: ch12:96011-96109
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+      record_title: Dark Mission
+      record_date: '2010-07-22'
+      record_reference: null
+      content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+      friendly_name: null
+  - claim_id: b0da43cb-b990-46de-8416-c8451ddcd580
+    claim_hash: 6fadb7767b3937f08cf8ed8182d042edfce269824401a70c035d90bbdb098b0d
+    content: In 1939, Adolf Hitler personally visited Wernher von Braun's laboratories and was shown a demonstration of the
+      rockets developed by von Braun's team.
+    original_excerpt: In 1939, Adolf Hitler himself visited the young scientist's labs where he was treated to an impressive
+      demonstration of the capabilities of the rockets Von Braun's team had been developing
+    claim_type: observation
+    attestation: first_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: speaker
+      origin: Richard C. Hoagland
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 3dda57d8-c397-48d6-a3c5-d00e07ec5761
+        title: Hitler visit to Von Braun's rocket labs, 1939
+        slug: 1939-hitler-visit-to-von-brauns-rocket-labs
+      - node_id: 6f90c776-6afc-49e2-ac5a-9335d9259398
+        title: Wernher von Braun
+        slug: wernher-von-braun
+      - node_id: e95835fe-733e-4777-bb60-740d9727e2c8
+        title: Adolf Hitler
+        slug: adolf-hitler
+    date: '1939'
+    date_end: null
+    location_in_record: ch12:96125-96303
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+      record_title: Dark Mission
+      record_date: '2010-07-22'
+      record_reference: null
+      content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+      friendly_name: null
+  - claim_id: 569e6e6d-6e9a-42b2-b594-7d0218737393
+    claim_hash: 1d6b730b7d1e1e455348761fb7618f5e621c875a4c64c615a582ae9006ed6e1f
+    content: A few weeks after Adolf Hitler's 1939 visit, Wernher von Braun received a letter personally from Heinrich Himmler
+      offering him a commission in the Schutzstaffel (SS).
+    original_excerpt: a few weeks after the meeting Von Braun received a letter offering a commission in the SS from Himmler
+      personally
+    claim_type: observation
+    attestation: first_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: speaker
+      origin: Richard C. Hoagland
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 17011d27-e3b5-4be6-90a7-2e7371cca217
+        title: Heinrich Himmler
+        slug: heinrich-himmler
+      - node_id: 6f90c776-6afc-49e2-ac5a-9335d9259398
+        title: Wernher von Braun
+        slug: wernher-von-braun
+      - node_id: cf9d0841-4c94-4e97-ad97-131b028af237
+        title: Schutzstaffel (SS)
+        slug: schutzstaffel-ss
+    date: '1939'
+    date_end: null
+    location_in_record: ch12:96533-96637
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+      record_title: Dark Mission
+      record_date: '2010-07-22'
+      record_reference: null
+      content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+      friendly_name: null
+  - claim_id: 3b288149-1a44-417a-80bf-fc48f72885ae
+    claim_hash: fa4796499fdbfbf6721c7818f7c788b148e442520b438bdadb82bbdcfd2352d1
+    content: Richard C. Hoagland considers the canonical history that Wernher von Braun was pressured by the Third Reich to
+      join Nazi organisations and agonised over the decision to be increasingly unlikely.
+    original_excerpt: The canonical history is that he was "pressured" by the Third Reich to become involved in many Nazi
+      organizations and that he agonized over the decision, but this actually seems increasingly unlikely.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: e1650a1d-8feb-4841-a403-0d71e176d2d9
+      title: Richard C. Hoagland
+    provenance_chain:
+      origin_kind: speaker
+      origin: Richard C. Hoagland
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 6f90c776-6afc-49e2-ac5a-9335d9259398
+        title: Wernher von Braun
+        slug: wernher-von-braun
+      - node_id: e1650a1d-8feb-4841-a403-0d71e176d2d9
+        title: Richard C. Hoagland
+        slug: richard-c-hoagland
+    date: null
+    date_end: null
+    location_in_record: ch12:96651-96842
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+      record_title: Dark Mission
+      record_date: '2010-07-22'
+      record_reference: null
+      content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+      friendly_name: null
+  - claim_id: 48abc23d-8e4a-4d80-9b46-027ab7491ed0
+    claim_hash: c9796ca8ad996685dd49bb2e528c4fbab1223ed0e7d970d8269376924fa937ea
+    content: Wernher von Braun was a close personal friend of German Reichsführer Heinrich Himmler, who offered him the SS
+      rank of Major.
+    original_excerpt: it is now clear that Von Braun was a close personal friend of German Reichsführer Heinrich Himmler,
+      who offered him the SS degree and rank of Major.
+    claim_type: observation
+    attestation: first_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: speaker
+      origin: Richard C. Hoagland
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 17011d27-e3b5-4be6-90a7-2e7371cca217
+        title: Heinrich Himmler
+        slug: heinrich-himmler
+      - node_id: 6f90c776-6afc-49e2-ac5a-9335d9259398
+        title: Wernher von Braun
+        slug: wernher-von-braun
+      - node_id: cf9d0841-4c94-4e97-ad97-131b028af237
+        title: Schutzstaffel (SS)
+        slug: schutzstaffel-ss
+    date: null
+    date_end: null
+    location_in_record: ch12:97252-97394
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+      record_title: Dark Mission
+      record_date: '2010-07-22'
+      record_reference: null
+      content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+      friendly_name: null
+  - claim_id: 900700e3-12da-4fc6-a1ac-187397b45904
+    claim_hash: e6987c59b8afe11b2d26b4030e7322d0f3065caa89a7258798522b0e02a8e034
+    content: At Wernher von Braun's induction into the Schutzstaffel (SS), the only occasion on which he is known to have
+      worn his SS uniform, Heinrich Himmler was in attendance and the two were photographed together.
+    original_excerpt: A testament to this is the fact that at his induction into the SS, the only time he is known to have
+      worn his SS uniform, Himmler himself was in attendance, and the two were photographed together
+    claim_type: observation
+    attestation: first_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: speaker
+      origin: Richard C. Hoagland
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 17011d27-e3b5-4be6-90a7-2e7371cca217
+        title: Heinrich Himmler
+        slug: heinrich-himmler
+      - node_id: 6f90c776-6afc-49e2-ac5a-9335d9259398
+        title: Wernher von Braun
+        slug: wernher-von-braun
+      - node_id: cf9d0841-4c94-4e97-ad97-131b028af237
+        title: Schutzstaffel (SS)
+        slug: schutzstaffel-ss
+    date: null
+    date_end: null
+    location_in_record: ch12:98970-99158
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+      record_title: Dark Mission
+      record_date: '2010-07-22'
+      record_reference: null
+      content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+      friendly_name: null
+  - claim_id: e018f3a9-1e21-4bed-bb14-ec53ec3b70bb
+    claim_hash: 208fbfbcc5b00205cde15ff08997d0610c44ece14a41ba97132869df3c759a8a
+    content: Wernher von Braun perfected the A4 rocket, the world's first true ballistic missile, in the early 1940s.
+    original_excerpt: Von Braun perfected the A4, the world's first true ballistic missile, in the early 1940s.
+    claim_type: observation
+    attestation: first_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: speaker
+      origin: Richard C. Hoagland
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 6f90c776-6afc-49e2-ac5a-9335d9259398
+        title: Wernher von Braun
+        slug: wernher-von-braun
+    date: null
+    date_end: null
+    location_in_record: ch12:99413-99496
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+      record_title: Dark Mission
+      record_date: '2010-07-22'
+      record_reference: null
+      content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+      friendly_name: null
+  - claim_id: bca1169f-f181-40b3-a0e0-ee7404daa3e9
+    claim_hash: 8df81fe951dea0c94a006ccba7f0d39e6f8612216eddceb7799004886ccdee69
+    content: As the Allies neared capture of the V-2 rocket complex, Wernher von Braun engineered the surrender of 500 of
+      his personnel.
+    original_excerpt: As the Allies neared the capture of the V2 rocket complex, Von Braun engineered the surrender of 500
+      of his
+    claim_type: observation
+    attestation: first_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: speaker
+      origin: Richard C. Hoagland
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 6f90c776-6afc-49e2-ac5a-9335d9259398
+        title: Wernher von Braun
+        slug: wernher-von-braun
+    date: null
+    date_end: null
+    location_in_record: ch12:99872-99976
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+      record_title: Dark Mission
+      record_date: '2010-07-22'
+      record_reference: null
+      content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+      friendly_name: null
+  - claim_id: 99fd0057-0b46-456c-8e3d-fbf81cf02f79
+    claim_hash: 5a95697a0d1a0041f1b6d7a267aa12ec47b57062fac4f8a07434ca07ecc2f645
+    content: Richard C. Hoagland believes Farouk El-Baz, Kenneth S. Kleinknecht and Wernher von Braun would have breathed
+      a sigh of relief when the Apollo 11 images of Neil Armstrong came back ghostly, dark and low in contrast.
+    original_excerpt: Fahrouk El Baz, Ken Kleinknecht and Wernher Von Braun must have breathed a huge sigh of relief when
+      the images of Armstrong came back ghostly, dark, and full of contrast.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: e1650a1d-8feb-4841-a403-0d71e176d2d9
+      title: Richard C. Hoagland
+    provenance_chain:
+      origin_kind: speaker
+      origin: Richard C. Hoagland
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 3491ae64-d16b-4797-8e37-80bb1fe56d1a
+        title: Farouk El-Baz
+        slug: farouk-el-baz
+      - node_id: 511a1f25-ad2c-4b74-82cb-2df4bc604dca
+        title: Kenneth S. Kleinknecht
+        slug: kenneth-s-kleinknecht
+      - node_id: 6f90c776-6afc-49e2-ac5a-9335d9259398
+        title: Wernher von Braun
+        slug: wernher-von-braun
+      - node_id: 86002941-4b26-48e5-8629-0d332b938ca9
+        title: Apollo 11
+        slug: apollo-11
+      - node_id: c661e205-9d5f-4c0b-bafc-450bbbd07288
+        title: Neil Armstrong
+        slug: neil-armstrong
+    date: null
+    date_end: null
+    location_in_record: ch20:10027-10188
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+      record_title: Dark Mission
+      record_date: '2010-07-22'
+      record_reference: null
+      content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+      friendly_name: null
+  - claim_id: d8dd2569-ddd5-4502-b096-be21117daddd
+    claim_hash: 3728aed799ade618ec9dbc89248f33d18564237c14504e6a9ae1050523cddaaa
+    content: Richard C. Hoagland speculates that Wernher von Braun may have discovered a private, parallel space program by
+      stumbling upon it at the dawn of the space age.
+    original_excerpt: it may well be that one of the major players in the saga of *Dark Mission*, Dr. Wernher von Braun himself,
+      only discovered this private space program by stumbling upon it at the dawn of space age.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: e1650a1d-8feb-4841-a403-0d71e176d2d9
+      title: Richard C. Hoagland
+    provenance_chain:
+      origin_kind: speaker
+      origin: Richard C. Hoagland
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 6f90c776-6afc-49e2-ac5a-9335d9259398
+        title: Wernher von Braun
+        slug: wernher-von-braun
+      - node_id: e1650a1d-8feb-4841-a403-0d71e176d2d9
+        title: Richard C. Hoagland
+        slug: richard-c-hoagland
+    date: null
+    date_end: null
+    location_in_record: ch6:46027-46219
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+      record_title: Dark Mission
+      record_date: '2010-07-22'
+      record_reference: null
+      content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+      friendly_name: null
+  - claim_id: 8bd02532-b7c2-41cf-8275-cf9eb9803f63
+    claim_hash: 3960824985115638b8d80e5594f99c8766292e79b30a5b1f1362331c26fd1aa4
+    content: Richard C. Hoagland speculates that Wernher von Braun may not have known he was not at the top of the technological
+      food chain until discovering that hyperdimensional physics theory was real and that he and his National Aeronautics
+      and Space Administration (NASA) co-workers had been excluded from exploiting its benefits.
+    original_excerpt: It could well be that von Braun never even knew he wasn’t at the top of the technological food chain
+      until this seminal moment in time, when he *must* have discovered the theory that we now call Hyperdimensional physics
+      was very real, and that he and his NASA co-workers had been carefully excluded from exploiting its potential benefits.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: e1650a1d-8feb-4841-a403-0d71e176d2d9
+      title: Richard C. Hoagland
+    provenance_chain:
+      origin_kind: speaker
+      origin: Richard C. Hoagland
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 52eb1243-51be-4c3d-b032-59dfc6b7f083
+        title: Hyper-dimensional physics theory
+        slug: hyper-dimensional-physics-theory
+      - node_id: 5e47c787-005b-4c91-ba4b-c9bec48146c9
+        title: National Aeronautics and Space Administration (NASA)
+        slug: national-aeronautics-and-space-administration-nasa
+      - node_id: 6f90c776-6afc-49e2-ac5a-9335d9259398
+        title: Wernher von Braun
+        slug: wernher-von-braun
+      - node_id: e1650a1d-8feb-4841-a403-0d71e176d2d9
+        title: Richard C. Hoagland
+        slug: richard-c-hoagland
+    date: null
+    date_end: null
+    location_in_record: ch6:46224-46553
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+      record_title: Dark Mission
+      record_date: '2010-07-22'
+      record_reference: null
+      content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+      friendly_name: null
+  - claim_id: 54ba25b8-5156-4012-aa04-8596cac48d56
+    claim_hash: bb5a58f1befc63861572700dab152eb161290b73249a515ad0b110a4d8a019a0
+    content: Hermann Oberth is the godfather of German rocketry and was Wernher von Braun's mentor.
+    original_excerpt: Hermann Oberth is the godfather of, you know, German rocketry and Wernher von Braun's mentor.
+    claim_type: administrative
+    attestation: null
+    speaker:
+      node_id: 079d4381-4273-418b-bc9a-468623f95c6e
+      title: Jesse Mitchells
+    provenance_chain:
+      origin_kind: unattributed
+      origin: narration
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 6f90c776-6afc-49e2-ac5a-9335d9259398
+        title: Wernher von Braun
+        slug: wernher-von-braun
+      - node_id: fda41e1c-f593-4e3b-8393-fa33980dfe84
+        title: Hermann Oberth
+        slug: hermann-oberth
+    date: null
+    date_end: null
+    location_in_record: 01:11:24.6-01:11:30.8
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 64b84f95-238c-4ab7-a678-bee55f985b14
+      record_title: The UFO Cover-Up Leads to One Secret Society — and One Final Event
+      record_date: '2026-07-14'
+      record_reference: https://www.youtube.com/watch?v=kccrkCGGzX4
+      content_hash: sha256:d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7b5a1b98d
+      friendly_name: null

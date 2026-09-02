@@ -1,0 +1,227 @@
+schema: anomalica/brief/1
+brief_hash: d00adccc326c865f1b45ad663ab5928905aeda8e2619e22170ef467cad8c9e42
+page:
+  kind: entity
+  node_id: 8e86b811-cd15-4d4a-bd4f-bed40ed720b6
+  node_type: organisation
+  title: Northrop Corporation
+  slug: northrop-corporation
+  claim_count: 3
+  claim_count_total: 3
+generated:
+  graph_version: '2026-09-01T10:10:49.863545+00:00'
+size:
+  claims: 3
+  tokens_estimated: 843
+  sized_against: 1050000
+publication:
+  status: published
+  note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
+    transcripts are gated elsewhere.
+belonging:
+  verified: 0
+  suspect_excluded: 0
+  unreviewed: 3
+related_nodes:
+  - node_id: 8d5d1e29-59c6-4d86-bb16-cb850eb0ffc2
+    title: 1992 Antelope Valley diner meeting between Bill McDonald and Lockheed and Northrop engineers
+    node_type: event
+    slug: 1992-antelope-valley-diner-meeting-between-bill-mcdonald-and-lockheed-and-northrop-engineers
+    shared_claims: 2
+  - node_id: 25a787b0-7c63-445a-b21d-0d4e15c05f46
+    title: Lockheed Corporation
+    node_type: organisation
+    slug: lockheed-corporation
+    shared_claims: 2
+  - node_id: f4f6027b-98fe-430e-b0c3-92de7e30e2ba
+    title: Bill McDonald
+    node_type: person
+    slug: bill-mcdonald
+    shared_claims: 1
+  - node_id: a6103c9e-93d2-441e-829a-3f3298fcdee0
+    title: Brown-Root Corporation
+    node_type: organisation
+    slug: brown-root-corporation
+    shared_claims: 1
+  - node_id: ed611b28-ac47-48af-864b-f2e73e719e6e
+    title: Denny's
+    node_type: organisation
+    slug: dennys
+    shared_claims: 1
+  - node_id: b3570945-ba7a-45ee-92c4-f8e9ac53a80e
+    title: Ken Johnston
+    node_type: person
+    slug: ken-johnston
+    shared_claims: 1
+  - node_id: 90bfbab5-b57a-45ce-8082-0ba025aa03b9
+    title: Lunar Receiving Laboratory (LRL)
+    node_type: organisation
+    slug: lunar-receiving-laboratory-lrl
+    shared_claims: 1
+  - node_id: 868a74c9-8452-4390-a681-c0fa047bcc98
+    title: USA, California, Helendale
+    node_type: place
+    slug: california-helendale-usa
+    shared_claims: 1
+  - node_id: 0958a9ec-0ffb-4ce8-9d45-b10623111b85
+    title: USA, California, Tejon
+    node_type: place
+    slug: california-tejon-usa
+    shared_claims: 1
+  - node_id: fa13c400-9519-4f53-9c3b-ff032bcc74c2
+    title: USA, California, West Antelope Valley
+    node_type: place
+    slug: california-west-antelope-valley-usa
+    shared_claims: 1
+  - node_id: ab63774b-6526-48b8-9aff-358ac45f683a
+    title: USA, Texas, Houston, Manned Spacecraft Center
+    node_type: place
+    slug: texas-houston-manned-spacecraft-center-usa
+    shared_claims: 1
+  - node_id: 5f23fe3e-0bf7-4830-b257-259b7e641ed7
+    title: XF-131 Super Sentinel
+    node_type: object
+    slug: xf-131-super-sentinel
+    shared_claims: 1
+claims:
+  - claim_id: 4f1ecb34-6a2a-4ef1-931e-46f8d88c076d
+    claim_hash: 18a494ce6d573c49453c28d7cbfd70c9348e3507890904540b4b4c08d773b207
+    content: Ken Johnston later moved to work for Brown-Root Corporation and the Northrop Corporation at the Lunar Receiving
+      Laboratory (LRL) within the Manned Spacecraft Center.
+    original_excerpt: Johnston later moved across the center, going to work for Brown-Root Corporation and the Northrop Corporation
+      in MSC’s Lunar Receiving Laboratory (LRL)
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: narration
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 8e86b811-cd15-4d4a-bd4f-bed40ed720b6
+        title: Northrop Corporation
+        slug: northrop-corporation
+      - node_id: 90bfbab5-b57a-45ce-8082-0ba025aa03b9
+        title: Lunar Receiving Laboratory (LRL)
+        slug: lunar-receiving-laboratory-lrl
+      - node_id: a6103c9e-93d2-441e-829a-3f3298fcdee0
+        title: Brown-Root Corporation
+        slug: brown-root-corporation
+      - node_id: ab63774b-6526-48b8-9aff-358ac45f683a
+        title: USA, Texas, Houston, Manned Spacecraft Center
+        slug: texas-houston-manned-spacecraft-center-usa
+      - node_id: b3570945-ba7a-45ee-92c4-f8e9ac53a80e
+        title: Ken Johnston
+        slug: ken-johnston
+    date: null
+    date_end: null
+    location_in_record: ch11:76036-76183
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+      record_title: Dark Mission
+      record_date: '2010-07-22'
+      record_reference: null
+      content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+      friendly_name: null
+  - claim_id: 6320e1be-e956-4731-accb-1375974cd01b
+    claim_hash: 0b7f4f5eca55af3a50eaf5a0f2f86f9f458febea28b5fe0e674284d6ae0185fd
+    content: Bill McDonald's depiction of the XF-131 Super Sentinel was based on a 1992 meeting with two Lockheed engineers
+      and two Northrop engineers at a Denny's in Antelope Valley, California.
+    original_excerpt: And that was based off of a meeting with two Lockheed and two Northrop engineers at a Denny's in Antelope
+      Valley in 1992.
+    claim_type: administrative
+    attestation: first_hand
+    speaker:
+      node_id: 0b47cac5-b9cc-44ea-a2aa-5cbd39a0d21a
+      title: Unidentified Aerial Phenomena (UAP) Gerb
+    provenance_chain:
+      origin_kind: speaker
+      origin: UAP Gerb
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 25a787b0-7c63-445a-b21d-0d4e15c05f46
+        title: Lockheed Corporation
+        slug: lockheed-corporation
+      - node_id: 5f23fe3e-0bf7-4830-b257-259b7e641ed7
+        title: XF-131 Super Sentinel
+        slug: xf-131-super-sentinel
+      - node_id: 8d5d1e29-59c6-4d86-bb16-cb850eb0ffc2
+        title: 1992 Antelope Valley diner meeting between Bill McDonald and Lockheed and Northrop engineers
+        slug: 1992-antelope-valley-diner-meeting-between-bill-mcdonald-and-lockheed-and-northrop-engineers
+      - node_id: 8e86b811-cd15-4d4a-bd4f-bed40ed720b6
+        title: Northrop Corporation
+        slug: northrop-corporation
+      - node_id: ed611b28-ac47-48af-864b-f2e73e719e6e
+        title: Denny's
+        slug: dennys
+      - node_id: f4f6027b-98fe-430e-b0c3-92de7e30e2ba
+        title: Bill McDonald
+        slug: bill-mcdonald
+      - node_id: fa13c400-9519-4f53-9c3b-ff032bcc74c2
+        title: USA, California, West Antelope Valley
+        slug: california-west-antelope-valley-usa
+    date: '1992'
+    date_end: null
+    location_in_record: 00:26:07.3-00:26:12.2
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: dc9d8bc8-9c1f-46b4-9b89-8d86b6b08e1d
+      record_title: Jesse Michels, UAPGerb & Chris Ramsay - Flying Saucer Diner
+      record_date: '2026-07-17'
+      record_reference: https://www.youtube.com/watch?v=HFLBDi87888
+      content_hash: sha256:7b2e272d7c82fdda745ee0354d7c9cc4b0d5ba5506015ca27edd9169a768b262
+      friendly_name: null
+  - claim_id: b9cdf7aa-810d-47e2-a0e9-f3fe0b7f322d
+    claim_hash: 1aa589339eaa210e64b9b71b9921fa9e34a908dbe986fd4b26b57f69f72f8dde
+    content: The Lockheed and Northrop engineers who met Bill McDonald at a Denny's in Antelope Valley in 1992 worked out
+      of Helendale and Tejon, California.
+    original_excerpt: These engineers worked out of Helendale and Tejon.
+    claim_type: administrative
+    attestation: first_hand
+    speaker:
+      node_id: 0b47cac5-b9cc-44ea-a2aa-5cbd39a0d21a
+      title: Unidentified Aerial Phenomena (UAP) Gerb
+    provenance_chain:
+      origin_kind: speaker
+      origin: UAP Gerb
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 0958a9ec-0ffb-4ce8-9d45-b10623111b85
+        title: USA, California, Tejon
+        slug: california-tejon-usa
+      - node_id: 25a787b0-7c63-445a-b21d-0d4e15c05f46
+        title: Lockheed Corporation
+        slug: lockheed-corporation
+      - node_id: 868a74c9-8452-4390-a681-c0fa047bcc98
+        title: USA, California, Helendale
+        slug: california-helendale-usa
+      - node_id: 8d5d1e29-59c6-4d86-bb16-cb850eb0ffc2
+        title: 1992 Antelope Valley diner meeting between Bill McDonald and Lockheed and Northrop engineers
+        slug: 1992-antelope-valley-diner-meeting-between-bill-mcdonald-and-lockheed-and-northrop-engineers
+      - node_id: 8e86b811-cd15-4d4a-bd4f-bed40ed720b6
+        title: Northrop Corporation
+        slug: northrop-corporation
+    date: '1992'
+    date_end: null
+    location_in_record: 00:26:13.7-00:26:15.4
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: dc9d8bc8-9c1f-46b4-9b89-8d86b6b08e1d
+      record_title: Jesse Michels, UAPGerb & Chris Ramsay - Flying Saucer Diner
+      record_date: '2026-07-17'
+      record_reference: https://www.youtube.com/watch?v=HFLBDi87888
+      content_hash: sha256:7b2e272d7c82fdda745ee0354d7c9cc4b0d5ba5506015ca27edd9169a768b262
+      friendly_name: null

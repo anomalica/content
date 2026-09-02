@@ -1,0 +1,553 @@
+schema: anomalica/brief/1
+brief_hash: 86b9d45ad050927383d398a8efb64d617979e4c4628ebd9b27d2f4950080c410
+page:
+  kind: entity
+  node_id: 2149bfba-36b7-42d7-a63e-a7539948da7a
+  node_type: document
+  title: Close Encounters of the Third Kind (1977 film)
+  slug: close-encounters-of-the-third-kind-1977-film
+  claim_count: 10
+  claim_count_total: 10
+generated:
+  graph_version: '2026-09-01T10:10:49.863545+00:00'
+size:
+  claims: 10
+  tokens_estimated: 3037
+  sized_against: 1050000
+publication:
+  status: published
+  note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
+    transcripts are gated elsewhere.
+belonging:
+  verified: 0
+  suspect_excluded: 0
+  unreviewed: 10
+related_nodes:
+  - node_id: 5afb275d-8fa1-4158-8e22-a9c65fd70992
+    title: Steven Spielberg
+    node_type: person
+    slug: steven-spielberg
+    shared_claims: 5
+  - node_id: 1ee54ade-efe8-4112-9dd8-04511c90534f
+    title: Bob Barry
+    node_type: person
+    slug: bob-barry
+    shared_claims: 2
+  - node_id: 1c74a06c-1b3f-43b4-b54c-3f6b44fd8192
+    title: Ronald Reagan
+    node_type: person
+    slug: ronald-reagan
+    shared_claims: 2
+  - node_id: d51c2bbf-75db-49cc-a302-19e86190ddac
+    title: Alan Sandler Productions
+    node_type: organisation
+    slug: alan-sandler-productions
+    shared_claims: 1
+  - node_id: f4841a52-2478-4a33-bdcf-25da0e0d8f7f
+    title: E.T. the Extra-Terrestrial (1982 film)
+    node_type: document
+    slug: et-the-extra-terrestrial-1982-film
+    shared_claims: 1
+  - node_id: 374c2897-b2f0-4827-9d58-87c4a13567ca
+    title: Grey aliens
+    node_type: topic
+    slug: grey-aliens
+    shared_claims: 1
+  - node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
+    title: Jacques Vallée
+    node_type: person
+    slug: jacques-vallee
+    shared_claims: 1
+  - node_id: 25a787b0-7c63-445a-b21d-0d4e15c05f46
+    title: Lockheed Corporation
+    node_type: organisation
+    slug: lockheed-corporation
+    shared_claims: 1
+  - node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+    title: Luis Elizondo
+    node_type: person
+    slug: luis-elizondo
+    shared_claims: 1
+  - node_id: 9c74d864-957a-4654-a5b6-1249fe654ec7
+    title: Non-Human Intelligence
+    node_type: topic
+    slug: non-human-intelligence
+    shared_claims: 1
+  - node_id: 69b9f72f-3924-4663-afa1-175b67085aac
+    title: Richard Dreyfuss
+    node_type: person
+    slug: richard-dreyfuss
+    shared_claims: 1
+  - node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+    title: Ross Coulthart
+    node_type: person
+    slug: ross-coulthart
+    shared_claims: 1
+  - node_id: 653ae3f4-0a54-432d-a847-3e3e9def55e2
+    title: Sean Chittle
+    node_type: person
+    slug: sean-chittle
+    shared_claims: 1
+  - node_id: f6a33fb2-13dd-4409-9815-d4d186c4dfdf
+    title: Super 8
+    node_type: document
+    slug: super-8
+    shared_claims: 1
+  - node_id: 75748cac-be9a-4dd5-bf52-40e41da1bab0
+    title: TRW Inc.
+    node_type: organisation
+    slug: trw-inc
+    shared_claims: 1
+  - node_id: a17397f1-2702-420a-9578-584220463893
+    title: The War of the Worlds
+    node_type: document
+    slug: the-war-of-the-worlds
+    shared_claims: 1
+  - node_id: efa24386-d6bb-4e71-a245-4ee4b647adcb
+    title: The White House
+    node_type: object
+    slug: the-white-house
+    shared_claims: 1
+  - node_id: 71870cd7-3e97-4671-a9a5-f7d144e24375
+    title: The close encounter experience
+    node_type: topic
+    slug: the-close-encounter-experience
+    shared_claims: 1
+  - node_id: 4ba391a0-d872-408d-9f2c-7bc49ffea5e6
+    title: 'UFOs: Past, Present, and Future'
+    node_type: document
+    slug: present-and-future-ufos-past
+    shared_claims: 1
+  - node_id: 23b959c3-1e05-49ad-a7bd-1fe72a114755
+    title: USA, Wyoming, Devil's Tower Monument
+    node_type: place
+    slug: wyoming-devils-tower-monument-usa
+    shared_claims: 1
+  - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
+    title: Unidentified Flying Object (UFO)
+    node_type: topic
+    slug: unidentified-flying-object-ufo
+    shared_claims: 1
+claims:
+  - claim_id: 29460d77-f9d7-47e7-8c0f-23ec29a4ab8a
+    claim_hash: 6e602065b740196cf6c20316d97cf892093a3759e800d0d85c7811c54445a165
+    content: Bob Barry believes the movie Close Encounters of the Third Kind was part of a government plan to condition the
+      public.
+    original_excerpt: An interesting belief of Mr. Barry is that the movie Close Encounters of the Third Kind was part of
+      a government plan to condition the public.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 1ee54ade-efe8-4112-9dd8-04511c90534f
+      title: Bob Barry
+    provenance_chain:
+      origin_kind: speaker
+      origin: Bob Barry
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 1ee54ade-efe8-4112-9dd8-04511c90534f
+        title: Bob Barry
+        slug: bob-barry
+      - node_id: 2149bfba-36b7-42d7-a63e-a7539948da7a
+        title: Close Encounters of the Third Kind (1977 film)
+        slug: close-encounters-of-the-third-kind-1977-film
+    date: null
+    date_end: null
+    location_in_record: ch13:14871-15006
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: f0690aba-c78b-47f4-bb2f-f94ea04d55ee
+      record_title: 'Messengers of Deception: UFO Contacts and Cults'
+      record_date: '0101-01-01'
+      record_reference: null
+      content_hash: sha256:0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5ac9fd3168
+      friendly_name: 0101-01-01-ebook-messengers-of-deception-ufo-contacts-and-cults
+  - claim_id: de8dd7dc-cb94-43f0-920e-f14723bb3075
+    claim_hash: 3a7cddb33195faa12fd5bbac8f340ff1d5546fbc122ceebe649a1047db2708ff
+    content: 'Bob Barry observed that public reaction to the film UFOs: Past, Present, and Future by Alan Sandler Productions
+      was good, leading to the next step being the film Close Encounters, after which government advisories that UFOs are
+      indeed with us would begin.'
+    original_excerpt: So the next step was the film Close Encounters. Now, in a little while, there doubtless will be the
+      beginning of government advisories that UFOs are indeed with us.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 1ee54ade-efe8-4112-9dd8-04511c90534f
+      title: Bob Barry
+    provenance_chain:
+      origin_kind: speaker
+      origin: Bob Barry
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 1ee54ade-efe8-4112-9dd8-04511c90534f
+        title: Bob Barry
+        slug: bob-barry
+      - node_id: 2149bfba-36b7-42d7-a63e-a7539948da7a
+        title: Close Encounters of the Third Kind (1977 film)
+        slug: close-encounters-of-the-third-kind-1977-film
+      - node_id: 4ba391a0-d872-408d-9f2c-7bc49ffea5e6
+        title: 'UFOs: Past, Present, and Future'
+        slug: present-and-future-ufos-past
+      - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
+        title: Unidentified Flying Object (UFO)
+        slug: unidentified-flying-object-ufo
+      - node_id: d51c2bbf-75db-49cc-a302-19e86190ddac
+        title: Alan Sandler Productions
+        slug: alan-sandler-productions
+    date: null
+    date_end: null
+    location_in_record: ch13:15359-15520
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: f0690aba-c78b-47f4-bb2f-f94ea04d55ee
+      record_title: 'Messengers of Deception: UFO Contacts and Cults'
+      record_date: '0101-01-01'
+      record_reference: null
+      content_hash: sha256:0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5ac9fd3168
+      friendly_name: 0101-01-01-ebook-messengers-of-deception-ufo-contacts-and-cults
+  - claim_id: a1917cf3-fae0-4ad5-8760-83c5bd52baef
+    claim_hash: 1717b168ff2bcc4b4e42875a328a46e46a472b2af922133d5fe465afe572ac27
+    content: Jacques Vallée was the model for the character 'LaCombe' in the film Close Encounters of the Third Kind.
+    original_excerpt: Jacques Vallee was also the model for the character ‘LaCombe’ in the film Close Encounters of the Third
+      Kind
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
+        title: Jacques Vallée
+        slug: jacques-vallee
+      - node_id: 2149bfba-36b7-42d7-a63e-a7539948da7a
+        title: Close Encounters of the Third Kind (1977 film)
+        slug: close-encounters-of-the-third-kind-1977-film
+    date: null
+    date_end: null
+    location_in_record: ch20:606-710
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: f0690aba-c78b-47f4-bb2f-f94ea04d55ee
+      record_title: 'Messengers of Deception: UFO Contacts and Cults'
+      record_date: '0101-01-01'
+      record_reference: null
+      content_hash: sha256:0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5ac9fd3168
+      friendly_name: 0101-01-01-ebook-messengers-of-deception-ufo-contacts-and-cults
+  - claim_id: 2692c923-20f0-4d77-b7fe-800f5bf72310
+    claim_hash: 384532625d44241723968a4c4ead0fe1791d5a8be37f0f924fe1d534aff6218c
+    content: Luis Elizondo lives near the Devil's Tower Monument in Wyoming, featured in the film Close Encounters of the
+      Third Kind.
+    original_excerpt: Aptly, Elizondo lives near the Wyoming Devil's Tower Monument featured in the extra-terrestrial movie
+      Close Encounters of the Third Kind.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 2149bfba-36b7-42d7-a63e-a7539948da7a
+        title: Close Encounters of the Third Kind (1977 film)
+        slug: close-encounters-of-the-third-kind-1977-film
+      - node_id: 23b959c3-1e05-49ad-a7bd-1fe72a114755
+        title: USA, Wyoming, Devil's Tower Monument
+        slug: wyoming-devils-tower-monument-usa
+      - node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+        title: Luis Elizondo
+        slug: luis-elizondo
+    date: null
+    date_end: null
+    location_in_record: ch37:9540-9673
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: be92b3d0-f63b-4445-9c4e-8d641816a643
+    claim_hash: 6ef2b0e88b26787f0e10458d8e415f5a0b3f7ff23ac4dc4a2f2eaa8473130507
+    content: The film Close Encounters of the Third Kind includes references to Lockheed and TRW Inc., including crates.
+    original_excerpt: hey, why did you include Lockheed and TRW in Close Encounters? Why'd you have those crates?
+    claim_type: observation
+    attestation: first_hand
+    speaker:
+      node_id: 0b47cac5-b9cc-44ea-a2aa-5cbd39a0d21a
+      title: Unidentified Aerial Phenomena (UAP) Gerb
+    provenance_chain:
+      origin_kind: speaker
+      origin: UAP Gerb
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 2149bfba-36b7-42d7-a63e-a7539948da7a
+        title: Close Encounters of the Third Kind (1977 film)
+        slug: close-encounters-of-the-third-kind-1977-film
+      - node_id: 25a787b0-7c63-445a-b21d-0d4e15c05f46
+        title: Lockheed Corporation
+        slug: lockheed-corporation
+      - node_id: 5afb275d-8fa1-4158-8e22-a9c65fd70992
+        title: Steven Spielberg
+        slug: steven-spielberg
+      - node_id: 75748cac-be9a-4dd5-bf52-40e41da1bab0
+        title: TRW Inc.
+        slug: trw-inc
+    date: null
+    date_end: null
+    location_in_record: 00:24:19.7-00:24:23.9
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: dc9d8bc8-9c1f-46b4-9b89-8d86b6b08e1d
+      record_title: Jesse Michels, UAPGerb & Chris Ramsay - Flying Saucer Diner
+      record_date: '2026-07-17'
+      record_reference: https://www.youtube.com/watch?v=HFLBDi87888
+      content_hash: sha256:7b2e272d7c82fdda745ee0354d7c9cc4b0d5ba5506015ca27edd9169a768b262
+      friendly_name: null
+  - claim_id: ba3fea5e-dfd4-4fba-b793-6730549aa085
+    claim_hash: 4c910152672f2c27fd4b008939e28fcb882d657e3dbf0ccdac0c323397d7698d
+    content: Steven Spielberg captured, through Richard Dreyfuss's character in Close Encounters of the Third Kind, the total
+      obsession that arises when a person comes up against an anomaly of this kind.
+    original_excerpt: Richard Dreyfuss' character in Close Encounters, Spielberg got that. He got that total obsession that
+      happens when you come up against an anomaly like this.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+      title: Whitley Strieber
+    provenance_chain:
+      origin_kind: speaker
+      origin: Whitley Strieber
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 2149bfba-36b7-42d7-a63e-a7539948da7a
+        title: Close Encounters of the Third Kind (1977 film)
+        slug: close-encounters-of-the-third-kind-1977-film
+      - node_id: 5afb275d-8fa1-4158-8e22-a9c65fd70992
+        title: Steven Spielberg
+        slug: steven-spielberg
+      - node_id: 69b9f72f-3924-4663-afa1-175b67085aac
+        title: Richard Dreyfuss
+        slug: richard-dreyfuss
+      - node_id: 71870cd7-3e97-4671-a9a5-f7d144e24375
+        title: The close encounter experience
+        slug: the-close-encounter-experience
+    date: null
+    date_end: null
+    location_in_record: 00:10:24.2-00:10:39.3
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 9302c6b2-133d-4cbb-adfa-5d1f0bd3e7ac
+      record_title: The Terrible Truth About the Visitors - Whitley Strieber | ep. 96
+      record_date: '2026-07-24'
+      record_reference: https://www.youtube.com/watch?v=Cv-sk4vt-qU
+      content_hash: sha256:456dbde0ab82ee8e216bdad2d1a0bf2a0b42622a167af19058f973050b035084
+      friendly_name: null
+  - claim_id: 693137a4-17ed-493b-8506-92619e8e8cf4
+    claim_hash: 107bfaa071a8cd18cfac19edf57878ec3fd1bb776b9b2e3514b0acb6e7e7111e
+    content: Ross Coulthart has had the account of Ronald Reagan's remark about Close Encounters of the Third Kind confirmed
+      to him by an unnamed person who was present in the room, who was neither Steven Spielberg nor Ronald Reagan.
+    original_excerpt: this has been confirmed to me by someone who was actually there, not Spielberg and sadly not President
+      Reagan
+    claim_type: testimony
+    attestation: second_hand
+    speaker:
+      node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+      title: Ross Coulthart
+    provenance_chain:
+      origin_kind: anonymous
+      origin: a person claiming to have been present at the White House screening of Close Encounters of the Third Kind
+      relay:
+        - Ross Coulthart
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 1c74a06c-1b3f-43b4-b54c-3f6b44fd8192
+        title: Ronald Reagan
+        slug: ronald-reagan
+      - node_id: 2149bfba-36b7-42d7-a63e-a7539948da7a
+        title: Close Encounters of the Third Kind (1977 film)
+        slug: close-encounters-of-the-third-kind-1977-film
+      - node_id: 5afb275d-8fa1-4158-8e22-a9c65fd70992
+        title: Steven Spielberg
+        slug: steven-spielberg
+      - node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+        title: Ross Coulthart
+        slug: ross-coulthart
+    date: null
+    date_end: null
+    location_in_record: 00:10:24.5-00:10:30.2
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 9038fd78-74aa-4d65-968a-0cd2808a3d13
+      record_title: Ross Coulthart Answers Your Biggest UAP Questions | Reality Check with Ross Coulthart
+      record_date: '2026-08-11'
+      record_reference: https://www.youtube.com/watch?v=7xtGoDVjqdE
+      content_hash: sha256:ec4ba3a9ba6cfe6598002b0b2441a39aac6847d339f856b1e24752aeb484b3a4
+      friendly_name: null
+  - claim_id: d5f5efd4-942f-47b1-9ee4-4109e115f591
+    claim_hash: 5896ce1cfcf16ea7c15cac3a5ae5b8dac0b2c5ac0021a8519dbf1e53e6f40d67
+    content: When Close Encounters of the Third Kind was watched in The White House movie room with Steven Spielberg present,
+      Ronald Reagan told the room that there was a lot in the film and that a few people present knew that everything in it
+      was true.
+    original_excerpt: when they watched Close Encounters of the Third Kind in the White House movie room with Steven Spielberg
+      present, the president said to everyone in the room, There's a lot in that story in that film. There are a few people
+      in this room who know that everything in that film is true.
+    claim_type: hearsay
+    attestation: third_hand
+    speaker:
+      node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+      title: Ross Coulthart
+    provenance_chain:
+      origin_kind: named
+      origin: Ronald Reagan
+      relay:
+        - an unnamed person who was present in the room
+        - Ross Coulthart
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 1c74a06c-1b3f-43b4-b54c-3f6b44fd8192
+        title: Ronald Reagan
+        slug: ronald-reagan
+      - node_id: 2149bfba-36b7-42d7-a63e-a7539948da7a
+        title: Close Encounters of the Third Kind (1977 film)
+        slug: close-encounters-of-the-third-kind-1977-film
+      - node_id: 5afb275d-8fa1-4158-8e22-a9c65fd70992
+        title: Steven Spielberg
+        slug: steven-spielberg
+      - node_id: efa24386-d6bb-4e71-a245-4ee4b647adcb
+        title: The White House
+        slug: the-white-house
+    date: null
+    date_end: null
+    location_in_record: 00:10:31.4-00:10:49.2
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 9038fd78-74aa-4d65-968a-0cd2808a3d13
+      record_title: Ross Coulthart Answers Your Biggest UAP Questions | Reality Check with Ross Coulthart
+      record_date: '2026-08-11'
+      record_reference: https://www.youtube.com/watch?v=7xtGoDVjqdE
+      content_hash: sha256:ec4ba3a9ba6cfe6598002b0b2441a39aac6847d339f856b1e24752aeb484b3a4
+      friendly_name: null
+  - claim_id: 9717e19e-e7bb-405a-bcee-559281dd3102
+    claim_hash: 72f80bf8566b4f44299fa53ea8202e4796123fb7a82b6b295c64b7108f3ce09c
+    content: Close Encounters of the Third Kind explored the idea of human engagement, direct contact and possible agreements
+      with non-human beings, and of human astronauts boarding an alien spacecraft and travelling elsewhere.
+    original_excerpt: that film, Close Encounters, was exploring the idea of human engagement, direct contact and perhaps
+      agreements with non-human beings and the idea of human astronauts going onto an alien spacecraft and going somewhere
+      else.
+    claim_type: administrative
+    attestation: null
+    speaker:
+      node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+      title: Ross Coulthart
+    provenance_chain:
+      origin_kind: unattributed
+      origin: Ross Coulthart's narration
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 2149bfba-36b7-42d7-a63e-a7539948da7a
+        title: Close Encounters of the Third Kind (1977 film)
+        slug: close-encounters-of-the-third-kind-1977-film
+      - node_id: 9c74d864-957a-4654-a5b6-1249fe654ec7
+        title: Non-Human Intelligence
+        slug: non-human-intelligence
+    date: null
+    date_end: null
+    location_in_record: 00:10:51.4-00:11:07.3
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 9038fd78-74aa-4d65-968a-0cd2808a3d13
+      record_title: Ross Coulthart Answers Your Biggest UAP Questions | Reality Check with Ross Coulthart
+      record_date: '2026-08-11'
+      record_reference: https://www.youtube.com/watch?v=7xtGoDVjqdE
+      content_hash: sha256:ec4ba3a9ba6cfe6598002b0b2441a39aac6847d339f856b1e24752aeb484b3a4
+      friendly_name: null
+  - claim_id: 0abfa22f-c3b6-46b1-95ff-d4170e4d2702
+    claim_hash: 6d9c3e8461901973ba1af45f18037a761f8aa064ab6c1e0695b2c053f9090aab
+    content: Sean Chittle said Steven Spielberg used the Grey alien depiction in E.T. the Extra-Terrestrial and Close Encounters
+      of the Third Kind, and deviated from it somewhat in War of the Worlds and Super 8.
+    original_excerpt: he'd used that version in E.T., Close Encounters, War of the Worlds and Super 8. Oh, no, deviated from
+      it a bit with War of the Worlds and Super 8.
+    claim_type: testimony
+    attestation: second_hand
+    speaker:
+      node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+      title: Ross Coulthart
+    provenance_chain:
+      origin_kind: named
+      origin: Sean Chittle
+      relay:
+        - Ross Coulthart
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 2149bfba-36b7-42d7-a63e-a7539948da7a
+        title: Close Encounters of the Third Kind (1977 film)
+        slug: close-encounters-of-the-third-kind-1977-film
+      - node_id: 374c2897-b2f0-4827-9d58-87c4a13567ca
+        title: Grey aliens
+        slug: grey-aliens
+      - node_id: 5afb275d-8fa1-4158-8e22-a9c65fd70992
+        title: Steven Spielberg
+        slug: steven-spielberg
+      - node_id: 653ae3f4-0a54-432d-a847-3e3e9def55e2
+        title: Sean Chittle
+        slug: sean-chittle
+      - node_id: a17397f1-2702-420a-9578-584220463893
+        title: The War of the Worlds
+        slug: the-war-of-the-worlds
+      - node_id: f4841a52-2478-4a33-bdcf-25da0e0d8f7f
+        title: E.T. the Extra-Terrestrial (1982 film)
+        slug: et-the-extra-terrestrial-1982-film
+      - node_id: f6a33fb2-13dd-4409-9815-d4d186c4dfdf
+        title: Super 8
+        slug: super-8
+    date: null
+    date_end: null
+    location_in_record: 00:12:20.2-00:12:28.4
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 9038fd78-74aa-4d65-968a-0cd2808a3d13
+      record_title: Ross Coulthart Answers Your Biggest UAP Questions | Reality Check with Ross Coulthart
+      record_date: '2026-08-11'
+      record_reference: https://www.youtube.com/watch?v=7xtGoDVjqdE
+      content_hash: sha256:ec4ba3a9ba6cfe6598002b0b2441a39aac6847d339f856b1e24752aeb484b3a4
+      friendly_name: null

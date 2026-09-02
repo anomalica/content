@@ -1,0 +1,325 @@
+schema: anomalica/brief/1
+brief_hash: aa69869d986421c068a464c84d096ea25d1efc24b09e93a530d319998ca7609e
+page:
+  kind: entity
+  node_id: fda41e1c-f593-4e3b-8393-fa33980dfe84
+  node_type: person
+  title: Hermann Oberth
+  slug: hermann-oberth
+  claim_count: 7
+  claim_count_total: 7
+generated:
+  graph_version: '2026-09-01T10:10:49.863545+00:00'
+size:
+  claims: 7
+  tokens_estimated: 1849
+  sized_against: 1050000
+publication:
+  status: published
+  note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
+    transcripts are gated elsewhere.
+belonging:
+  verified: 0
+  suspect_excluded: 0
+  unreviewed: 7
+related_nodes:
+  - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
+    title: Unidentified Flying Object (UFO)
+    node_type: topic
+    slug: unidentified-flying-object-ufo
+    shared_claims: 3
+  - node_id: 6f90c776-6afc-49e2-ac5a-9335d9259398
+    title: Wernher von Braun
+    node_type: person
+    slug: wernher-von-braun
+    shared_claims: 3
+  - node_id: 30940882-37a5-4db5-980d-282dafd2df49
+    title: Nonhuman intelligence (NHI)
+    node_type: topic
+    slug: nonhuman-intelligence-nhi
+    shared_claims: 2
+  - node_id: b3b222d2-ced6-49c2-9a1e-06991531f87e
+    title: Ed Forman
+    node_type: person
+    slug: ed-forman
+    shared_claims: 1
+  - node_id: b6090b6b-63d9-473d-8d6c-bd4b5f54f24b
+    title: Jack Parsons
+    node_type: person
+    slug: jack-parsons
+    shared_claims: 1
+  - node_id: ff0a86b8-8f3c-4291-94ed-c6d303875ce8
+    title: Jason Samosa
+    node_type: person
+    slug: jason-samosa
+    shared_claims: 1
+  - node_id: bd182c41-42ca-42fd-b56f-2353f346e7e5
+    title: Takano Joseon
+    node_type: person
+    slug: takano-joseon
+    shared_claims: 1
+claims:
+  - claim_id: 32094487-a93c-4830-9da3-681950163f0a
+    claim_hash: bd309533048ff67ad106705c0b226f74926f3f6539b7faa65307cc1cccf2dbfe
+    content: Jack Parsons and Ed Forman had early contact with German rocket pioneers Hermann Oberth and Wernher von Braun.
+    original_excerpt: Parsons and Ed Forman, his compatriot in chemistry and rocketry, are also known to have had early contact
+      with German rocket pioneers Herrmann Oberth, and Oberth's "wunderkind" successor and protégé, Wernher Von Braun.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 6f90c776-6afc-49e2-ac5a-9335d9259398
+        title: Wernher von Braun
+        slug: wernher-von-braun
+      - node_id: b3b222d2-ced6-49c2-9a1e-06991531f87e
+        title: Ed Forman
+        slug: ed-forman
+      - node_id: b6090b6b-63d9-473d-8d6c-bd4b5f54f24b
+        title: Jack Parsons
+        slug: jack-parsons
+      - node_id: fda41e1c-f593-4e3b-8393-fa33980dfe84
+        title: Hermann Oberth
+        slug: hermann-oberth
+    date: null
+    date_end: null
+    location_in_record: ch12:76319-76531
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+      record_title: Dark Mission
+      record_date: '2010-07-22'
+      record_reference: null
+      content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+      friendly_name: null
+  - claim_id: 1b744e9b-77c1-4e56-9c8a-10cd1d19618c
+    claim_hash: c7f935a1edbf75d53bbcbbf5500a4d5e7e0e99146b3962836b45fe0da68045ed
+    content: Wernher von Braun received a telescope and a copy of Hermann Oberth's book A Rocket Into Interplanetary Space,
+      which influenced him to experiment with rocket motors.
+    original_excerpt: He received a telescope along with a copy of rocket pioneer Herman Oberth's A Rocket Into Interplanetary
+      Space, which influenced him to experiment with rocket motors.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: biographical record
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 6f90c776-6afc-49e2-ac5a-9335d9259398
+        title: Wernher von Braun
+        slug: wernher-von-braun
+      - node_id: fda41e1c-f593-4e3b-8393-fa33980dfe84
+        title: Hermann Oberth
+        slug: hermann-oberth
+    date: null
+    date_end: null
+    location_in_record: ch12:94378-94539
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+      record_title: Dark Mission
+      record_date: '2010-07-22'
+      record_reference: null
+      content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+      friendly_name: null
+  - claim_id: 54ba25b8-5156-4012-aa04-8596cac48d56
+    claim_hash: bb5a58f1befc63861572700dab152eb161290b73249a515ad0b110a4d8a019a0
+    content: Hermann Oberth is the godfather of German rocketry and was Wernher von Braun's mentor.
+    original_excerpt: Hermann Oberth is the godfather of, you know, German rocketry and Wernher von Braun's mentor.
+    claim_type: administrative
+    attestation: null
+    speaker:
+      node_id: 079d4381-4273-418b-bc9a-468623f95c6e
+      title: Jesse Mitchells
+    provenance_chain:
+      origin_kind: unattributed
+      origin: narration
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 6f90c776-6afc-49e2-ac5a-9335d9259398
+        title: Wernher von Braun
+        slug: wernher-von-braun
+      - node_id: fda41e1c-f593-4e3b-8393-fa33980dfe84
+        title: Hermann Oberth
+        slug: hermann-oberth
+    date: null
+    date_end: null
+    location_in_record: 01:11:24.6-01:11:30.8
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 64b84f95-238c-4ab7-a678-bee55f985b14
+      record_title: The UFO Cover-Up Leads to One Secret Society — and One Final Event
+      record_date: '2026-07-14'
+      record_reference: https://www.youtube.com/watch?v=kccrkCGGzX4
+      content_hash: sha256:d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7b5a1b98d
+      friendly_name: null
+  - claim_id: e6b16ca1-1250-4246-93c5-a32feba24c1c
+    claim_hash: 0b45aa13e50fba2729ede1202bcc2bb28a9a38d48f34034c3baa0ff815b1c3c2
+    content: Audio exists of Hermann Oberth speaking about UFOs, in which he said that German rocketry was aided and had help.
+    original_excerpt: And there's even audio of him talking about UFOs. And he said they were aided and had help.
+    claim_type: testimony
+    attestation: third_hand
+    speaker:
+      node_id: 079d4381-4273-418b-bc9a-468623f95c6e
+      title: Jesse Mitchells
+    provenance_chain:
+      origin_kind: named
+      origin: Hermann Oberth
+      relay:
+        - a recording
+        - Jesse Michels
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
+        title: Unidentified Flying Object (UFO)
+        slug: unidentified-flying-object-ufo
+      - node_id: fda41e1c-f593-4e3b-8393-fa33980dfe84
+        title: Hermann Oberth
+        slug: hermann-oberth
+    date: null
+    date_end: null
+    location_in_record: 01:11:31.8-01:11:36.8
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 64b84f95-238c-4ab7-a678-bee55f985b14
+      record_title: The UFO Cover-Up Leads to One Secret Society — and One Final Event
+      record_date: '2026-07-14'
+      record_reference: https://www.youtube.com/watch?v=kccrkCGGzX4
+      content_hash: sha256:d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7b5a1b98d
+      friendly_name: null
+  - claim_id: 55834881-9574-4eeb-8d4d-96441f963f9d
+    claim_hash: 70527d7184bf9de83d08bfdf4ee4806c156c800740de8c15698d76955e8c3717
+    content: Takano Joseon, a man in Japan, met Hermann Oberth and discussed UFOs openly with him.
+    original_excerpt: And I was just in Japan, actually. And there's a guy named Takano Joseon. And he met Hermann Oberth
+      and they discussed UFOs openly.
+    claim_type: testimony
+    attestation: second_hand
+    speaker:
+      node_id: 079d4381-4273-418b-bc9a-468623f95c6e
+      title: Jesse Mitchells
+    provenance_chain:
+      origin_kind: named
+      origin: Takano Joseon
+      relay:
+        - Jesse Michels
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
+        title: Unidentified Flying Object (UFO)
+        slug: unidentified-flying-object-ufo
+      - node_id: bd182c41-42ca-42fd-b56f-2353f346e7e5
+        title: Takano Joseon
+        slug: takano-joseon
+      - node_id: fda41e1c-f593-4e3b-8393-fa33980dfe84
+        title: Hermann Oberth
+        slug: hermann-oberth
+    date: null
+    date_end: null
+    location_in_record: 01:11:37.4-01:11:45.6
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 64b84f95-238c-4ab7-a678-bee55f985b14
+      record_title: The UFO Cover-Up Leads to One Secret Society — and One Final Event
+      record_date: '2026-07-14'
+      record_reference: https://www.youtube.com/watch?v=kccrkCGGzX4
+      content_hash: sha256:d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7b5a1b98d
+      friendly_name: null
+  - claim_id: 75b38262-d8c8-4a84-891b-d29cd377efc9
+    claim_hash: 3434c9c4d89ba67a890ec378ed302cb7f276c0df61883ccebf5d900a43531d90
+    content: Hermann Oberth respected the beings riding in UFOs.
+    original_excerpt: But Dr. Oberth truly respected the beings actually riding in UFOs.
+    claim_type: testimony
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: anonymous
+      origin: an unidentified speaker in an inserted archival clip
+      relay:
+        - an archival recording played in the video
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 30940882-37a5-4db5-980d-282dafd2df49
+        title: Nonhuman intelligence (NHI)
+        slug: nonhuman-intelligence-nhi
+      - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
+        title: Unidentified Flying Object (UFO)
+        slug: unidentified-flying-object-ufo
+      - node_id: fda41e1c-f593-4e3b-8393-fa33980dfe84
+        title: Hermann Oberth
+        slug: hermann-oberth
+    date: null
+    date_end: null
+    location_in_record: 01:11:56.0-01:12:01.1
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 64b84f95-238c-4ab7-a678-bee55f985b14
+      record_title: The UFO Cover-Up Leads to One Secret Society — and One Final Event
+      record_date: '2026-07-14'
+      record_reference: https://www.youtube.com/watch?v=kccrkCGGzX4
+      content_hash: sha256:d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7b5a1b98d
+      friendly_name: null
+  - claim_id: 41d80304-cda9-4fc7-b466-b7de1ed6295f
+    claim_hash: ce9b5c0bc3b965743a60541a1466c2cc970c05daf084b2919b235f92f1fe891b
+    content: Hermann Oberth claimed that a relationship existed with non-human beings.
+    original_excerpt: we talked about a Hermann, I forget his name, the German guy, the Nazi guy who claimed that they had
+      a relationship. Hermann Oberth?
+    claim_type: hearsay
+    attestation: second_hand
+    speaker:
+      node_id: ff0a86b8-8f3c-4291-94ed-c6d303875ce8
+      title: Jason Samosa
+    provenance_chain:
+      origin_kind: named
+      origin: Hermann Oberth
+      relay:
+        - Jason Samosa
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 30940882-37a5-4db5-980d-282dafd2df49
+        title: Nonhuman intelligence (NHI)
+        slug: nonhuman-intelligence-nhi
+      - node_id: fda41e1c-f593-4e3b-8393-fa33980dfe84
+        title: Hermann Oberth
+        slug: hermann-oberth
+      - node_id: ff0a86b8-8f3c-4291-94ed-c6d303875ce8
+        title: Jason Samosa
+        slug: jason-samosa
+    date: null
+    date_end: null
+    location_in_record: 02:16:59.5-02:17:05.6
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 64b84f95-238c-4ab7-a678-bee55f985b14
+      record_title: The UFO Cover-Up Leads to One Secret Society — and One Final Event
+      record_date: '2026-07-14'
+      record_reference: https://www.youtube.com/watch?v=kccrkCGGzX4
+      content_hash: sha256:d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7b5a1b98d
+      friendly_name: null

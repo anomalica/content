@@ -1,0 +1,274 @@
+schema: anomalica/brief/1
+brief_hash: a3f76a82bcdfa794f475d04db72d32fd4ea885e80fbfa3b7f3d7a196aca7e637
+page:
+  kind: entity
+  node_id: 86012e89-5cc0-4950-a4e1-c70b16dd4c9c
+  node_type: person
+  title: Robert Kennedy
+  slug: robert-kennedy
+  claim_count: 5
+  claim_count_total: 5
+generated:
+  graph_version: '2026-09-01T10:10:49.863545+00:00'
+size:
+  claims: 5
+  tokens_estimated: 1384
+  sized_against: 1050000
+publication:
+  status: published
+  note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
+    transcripts are gated elsewhere.
+belonging:
+  verified: 0
+  suspect_excluded: 0
+  unreviewed: 5
+related_nodes:
+  - node_id: 734a43a4-89bc-45f0-a69e-67e7ca945e90
+    title: Sirhan Sirhan
+    node_type: person
+    slug: sirhan-sirhan
+    shared_claims: 2
+  - node_id: 02eefb29-f82c-4605-bd23-03038f4328dd
+    title: 1968 assassination of Robert F. Kennedy
+    node_type: event
+    slug: 1968-assassination-of-robert-f-kennedy
+    shared_claims: 1
+  - node_id: 43c9d059-a7f3-46da-86a7-d24eb6ed8322
+    title: Ancient and Mystical Order of the Rosy Cross (AMORC)
+    node_type: organisation
+    slug: ancient-and-mystical-order-of-the-rosy-cross-amorc
+    shared_claims: 1
+  - node_id: fdcdc179-deb6-421b-b4b1-af7c00e2759f
+    title: Asket
+    node_type: person
+    slug: asket
+    shared_claims: 1
+  - node_id: 9ebd9127-8681-4ead-b17f-55709a8077e6
+    title: Billy Meier
+    node_type: person
+    slug: billy-meier
+    shared_claims: 1
+  - node_id: d4241f5a-1063-4970-ba02-5a391c02d96d
+    title: David Charles Grusch
+    node_type: person
+    slug: david-charles-grusch
+    shared_claims: 1
+  - node_id: 502c7c1d-c898-4ec2-998e-4954e00b6437
+    title: Department of Homeland Security (DHS)
+    node_type: organisation
+    slug: department-of-homeland-security-dhs
+    shared_claims: 1
+  - node_id: 816c219b-6372-49f6-9579-5eeabb9a7474
+    title: Donald Trump
+    node_type: person
+    slug: donald-trump
+    shared_claims: 1
+  - node_id: 65d9b05d-a0f6-455f-ac83-9ee030fc4c36
+    title: Gordon Novel
+    node_type: person
+    slug: gordon-novel
+    shared_claims: 1
+  - node_id: 96b7973f-154d-40e4-8b19-81d26c7d53d6
+    title: USA, California, Los Angeles
+    node_type: place
+    slug: california-los-angeles-usa
+    shared_claims: 1
+  - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
+    title: Unidentified Anomalous Phenomena (UAP)
+    node_type: topic
+    slug: unidentified-anomalous-phenomena-uap
+    shared_claims: 1
+claims:
+  - claim_id: 62e23554-1b4f-4558-a171-1e1552f2b20a
+    claim_hash: 12387b3b34a72de5d6c0076db2219efed64400cee4c2932c2f77fbae4a82b511
+    content: In 1968 Sirhan Sirhan killed Robert F. Kennedy in Los Angeles.
+    original_excerpt: In 1968 a man named Sirhan killed Robert Kennedy in Los Angeles.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 02eefb29-f82c-4605-bd23-03038f4328dd
+        title: 1968 assassination of Robert F. Kennedy
+        slug: 1968-assassination-of-robert-f-kennedy
+      - node_id: 734a43a4-89bc-45f0-a69e-67e7ca945e90
+        title: Sirhan Sirhan
+        slug: sirhan-sirhan
+      - node_id: 86012e89-5cc0-4950-a4e1-c70b16dd4c9c
+        title: Robert Kennedy
+        slug: robert-kennedy
+      - node_id: 96b7973f-154d-40e4-8b19-81d26c7d53d6
+        title: USA, California, Los Angeles
+        slug: california-los-angeles-usa
+    date: '1968'
+    date_end: null
+    location_in_record: ch11:66472-66528
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: f0690aba-c78b-47f4-bb2f-f94ea04d55ee
+      record_title: 'Messengers of Deception: UFO Contacts and Cults'
+      record_date: '0101-01-01'
+      record_reference: null
+      content_hash: sha256:0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5ac9fd3168
+      friendly_name: 0101-01-01-ebook-messengers-of-deception-ufo-contacts-and-cults
+  - claim_id: 169b30b3-9622-477d-8736-626be6a67303
+    claim_hash: a26e8992aa57e0c9f57360ed18cf9ab6c16e1b2f638e605a2026d1dafe5589b8
+    content: Sirhan Sirhan used the Ancient and Mystical Order of the Rosy Cross's self-hypnosis technique while preparing
+      to assassinate Robert F. Kennedy.
+    original_excerpt: He had used the Orders technique for self-hypnosis while preparing his role in this tragedy.
+    claim_type: testimony
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 43c9d059-a7f3-46da-86a7-d24eb6ed8322
+        title: Ancient and Mystical Order of the Rosy Cross (AMORC)
+        slug: ancient-and-mystical-order-of-the-rosy-cross-amorc
+      - node_id: 734a43a4-89bc-45f0-a69e-67e7ca945e90
+        title: Sirhan Sirhan
+        slug: sirhan-sirhan
+      - node_id: 86012e89-5cc0-4950-a4e1-c70b16dd4c9c
+        title: Robert Kennedy
+        slug: robert-kennedy
+    date: null
+    date_end: null
+    location_in_record: ch11:66567-66651
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: f0690aba-c78b-47f4-bb2f-f94ea04d55ee
+      record_title: 'Messengers of Deception: UFO Contacts and Cults'
+      record_date: '0101-01-01'
+      record_reference: null
+      content_hash: sha256:0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5ac9fd3168
+      friendly_name: 0101-01-01-ebook-messengers-of-deception-ufo-contacts-and-cults
+  - claim_id: a8567d10-e10d-46dc-bcb0-5060b4e98b8d
+    claim_hash: eb1c72a5c42c3ed0f8cddb3f95ac80a2ed48beecca8e3f44256fa569fd5204cc
+    content: There were allegations that secret written authority for Gordon Novel's weapons heist came from United States
+      Attorney General Robert Kennedy.
+    original_excerpt: there were allegations that secret written authority for his weapons heist came from the US Attorney
+      General Robert Kennedy, who had a bit of a thing for covert actions.
+    claim_type: hearsay
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 65d9b05d-a0f6-455f-ac83-9ee030fc4c36
+        title: Gordon Novel
+        slug: gordon-novel
+      - node_id: 86012e89-5cc0-4950-a4e1-c70b16dd4c9c
+        title: Robert Kennedy
+        slug: robert-kennedy
+    date: null
+    date_end: null
+    location_in_record: ch27:3860-4021
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: f576163c-afe6-43cf-ba8c-919ba17818ff
+    claim_hash: 82a828790ad4f20d96795b1d39bba6d1f0baabbbd320164076ac544b97eadac2
+    content: Asket's 1953 prophecies to Billy Meier also included the assassination of Robert Kennedy and a list of other
+      kings and figures.
+    original_excerpt: and then the assassination of his brother robert kennedy and then a whole laundry list of kings and
+      people who she unloads a lot of stuff on him and that's published
+    claim_type: testimony
+    attestation: null
+    speaker:
+      node_id: 9645dd97-54a9-4d27-9cde-5e948ab7c2f5
+      title: Michael Horn
+    provenance_chain: null
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 86012e89-5cc0-4950-a4e1-c70b16dd4c9c
+        title: Robert Kennedy
+        slug: robert-kennedy
+      - node_id: 9ebd9127-8681-4ead-b17f-55709a8077e6
+        title: Billy Meier
+        slug: billy-meier
+      - node_id: fdcdc179-deb6-421b-b4b1-af7c00e2759f
+        title: Asket
+        slug: asket
+    date: null
+    date_end: null
+    location_in_record: 01:18:48.3-01:18:58.6
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 88d112ab-3b40-4882-a9ff-8d7d01c8431c
+      record_title: Revealing The Nordic Alien Prophecies - Michael Horn | DEBRIEFED ep. 92
+      record_date: '2026-06-12'
+      record_reference: https://www.youtube.com/watch?v=5Vk8V-clYLU
+      content_hash: sha256:68890827242b3c71c1a1df2f1da00ac2d0f033be148be34bf2487159c9b82337
+      friendly_name: 2026-06-12-video-revealing-the-nordic-alien-prophecies-michael-horn.v2
+  - claim_id: 60612f09-5336-4aa3-bf23-a2dd51b543e3
+    claim_hash: 617b65efca15bfa3f6618dfa1df4ed889d0f24dc590ecfd149d9c16e98871d37
+    content: David Grusch considers that the United States Department of Health and Human Services and Robert F. Kennedy Jr.
+      would play a big role in the public response if Donald Trump releases all the Unidentified Aerial Phenomena information.
+    original_excerpt: I think HHS and Bobby Kennedy, assuming Trump releases all the information is going to play a big role
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: d4241f5a-1063-4970-ba02-5a391c02d96d
+      title: David Charles Grusch
+    provenance_chain:
+      origin_kind: speaker
+      origin: David Grusch
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 502c7c1d-c898-4ec2-998e-4954e00b6437
+        title: Department of Homeland Security (DHS)
+        slug: department-of-homeland-security-dhs
+      - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
+        title: Unidentified Anomalous Phenomena (UAP)
+        slug: unidentified-anomalous-phenomena-uap
+      - node_id: 816c219b-6372-49f6-9579-5eeabb9a7474
+        title: Donald Trump
+        slug: donald-trump
+      - node_id: 86012e89-5cc0-4950-a4e1-c70b16dd4c9c
+        title: Robert Kennedy
+        slug: robert-kennedy
+      - node_id: d4241f5a-1063-4970-ba02-5a391c02d96d
+        title: David Charles Grusch
+        slug: david-charles-grusch
+    date: null
+    date_end: null
+    location_in_record: 00:24:58.8-00:25:04.2
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: eb21cb34-eec1-462d-9127-2d5e367cdfb9
+      record_title: 'David Grusch: The Whistleblower Who Told Congress We''re Not Alone'
+      record_date: '2026-08-13'
+      record_reference: https://www.youtube.com/watch?v=LBXmqvFs0Ec
+      content_hash: sha256:c685d061d160da6ae664b97e8b033d8d36090ea76d13c45792556dae22ae3344
+      friendly_name: null

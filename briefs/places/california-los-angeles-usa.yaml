@@ -1,0 +1,1279 @@
+schema: anomalica/brief/1
+brief_hash: aee6dc3f87c773f0555b3afd7d5385ea060bd3a759b4dfd498e9e51d28372097
+page:
+  kind: entity
+  node_id: 96b7973f-154d-40e4-8b19-81d26c7d53d6
+  node_type: place
+  title: USA, California, Los Angeles
+  slug: california-los-angeles-usa
+  claim_count: 28
+  claim_count_total: 28
+generated:
+  graph_version: '2026-09-01T10:10:49.863545+00:00'
+size:
+  claims: 28
+  tokens_estimated: 8318
+  sized_against: 1050000
+publication:
+  status: published
+  note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
+    transcripts are gated elsewhere.
+belonging:
+  verified: 0
+  suspect_excluded: 0
+  unreviewed: 28
+related_nodes:
+  - node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+    title: Whitley Strieber
+    node_type: person
+    slug: whitley-strieber
+    shared_claims: 6
+  - node_id: 862daff0-b6c0-4070-bf5c-c244a2d70b44
+    title: Kevin Hammons
+    node_type: person
+    slug: kevin-hammons
+    shared_claims: 3
+  - node_id: 7abeb5fd-0f0a-4c21-a0be-de2a59d2dd32
+    title: Marty Martyn
+    node_type: person
+    slug: marty-martyn
+    shared_claims: 3
+  - node_id: 80cf92ce-bae3-49f3-beab-99c80495f848
+    title: Ryan Hammons
+    node_type: person
+    slug: ryan-hammons
+    shared_claims: 3
+  - node_id: 4be73f2f-9266-4652-bede-1f020c5d9b3d
+    title: 1976 Melchizedek taxicab coincidence, Los Angeles
+    node_type: event
+    slug: los-angeles-1976-melchizedek-taxicab-coincidence
+    shared_claims: 2
+  - node_id: 1b91bf08-93fc-4249-9068-e3583a8fe70e
+    title: Cyndi Hammons
+    node_type: person
+    slug: cyndi-hammons
+    shared_claims: 2
+  - node_id: c38f0b63-d0a9-4280-91e0-5be285a09c49
+    title: Hydraotes Chaos
+    node_type: place
+    slug: hydraotes-chaos
+    shared_claims: 2
+  - node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
+    title: Jacques Vallée
+    node_type: person
+    slug: jacques-vallee
+    shared_claims: 2
+  - node_id: a8d696c2-31b3-43ec-a297-2b0b8c817e66
+    title: Marisa Martyn Rosenblatt
+    node_type: person
+    slug: marisa-martyn-rosenblatt
+    shared_claims: 2
+  - node_id: d0cb0a3b-6a93-4390-911b-aba30e2289b3
+    title: Weeping oil-tear statue of María near Los Angeles (1991-01)
+    node_type: event
+    slug: weeping-oil-tear-statue-of-maria-near-los-angeles-1991-01
+    shared_claims: 2
+  - node_id: 17e33363-c172-47ff-81fa-1d7ea0901564
+    title: 1968 Lompoc-to-Los Angeles Unidentified Flying Object (UFO) abduction of Helen
+    node_type: event
+    slug: 1968-lompoc-to-los-angeles-unidentified-flying-object-ufo-abduction-of-helen
+    shared_claims: 1
+  - node_id: 02eefb29-f82c-4605-bd23-03038f4328dd
+    title: 1968 assassination of Robert F. Kennedy
+    node_type: event
+    slug: 1968-assassination-of-robert-f-kennedy
+    shared_claims: 1
+  - node_id: fe2868ef-1027-421b-bf6b-728dc5c331b3
+    title: 1976 Garlock fault desert expedition
+    node_type: event
+    slug: 1976-garlock-fault-desert-expedition
+    shared_claims: 1
+  - node_id: e07f305a-6492-4bf4-a755-06fbb1466e1d
+    title: Academy of Motion Picture Arts and Sciences Library
+    node_type: organisation
+    slug: academy-of-motion-picture-arts-and-sciences-library
+    shared_claims: 1
+  - node_id: 383fc644-c1b4-4a39-bf62-5b14ba2db5cc
+    title: Aleister Crowley
+    node_type: person
+    slug: aleister-crowley
+    shared_claims: 1
+  - node_id: 7a25b20b-c238-4b97-862f-dc62dba6278a
+    title: Columbia Broadcasting System (CBS) News
+    node_type: organisation
+    slug: columbia-broadcasting-system-cbs-news
+    shared_claims: 1
+  - node_id: fb9d1a5b-b698-46d5-bc4c-64d05021fbd4
+    title: Helen (contactee interviewed by Jacques Vallée)
+    node_type: person
+    slug: helen-contactee-interviewed-by-jacques-vallee
+    shared_claims: 1
+  - node_id: 4dca78a0-3049-498d-ad5f-379702a0ad6b
+    title: Hydaspis Chaos
+    node_type: place
+    slug: hydaspis-chaos
+    shared_claims: 1
+  - node_id: a081e647-7d45-4a5b-83d8-2f42762ea9d0
+    title: Jim Tucker
+    node_type: person
+    slug: jim-tucker
+    shared_claims: 1
+  - node_id: bc1d1748-3682-4749-9af1-c2839c887e03
+    title: John Becklake
+    node_type: person
+    slug: john-becklake
+    shared_claims: 1
+  - node_id: 277b0a5b-bedc-4441-9ea1-3fc7bd619b34
+    title: Kate Coe
+    node_type: person
+    slug: kate-coe
+    shared_claims: 1
+  - node_id: b5685df3-49b4-442d-bfd1-423ccdc74e5f
+    title: Kuwait
+    node_type: place
+    slug: kuwait
+    shared_claims: 1
+  - node_id: 21a31a67-2dcf-40b7-9c48-4f55fdfb8952
+    title: Louis Jolyon West
+    node_type: person
+    slug: louis-jolyon-west
+    shared_claims: 1
+  - node_id: 6749ad09-7f67-4953-aab8-d046bf191082
+    title: Marty Martyn talent agency
+    node_type: organisation
+    slug: marty-martyn-talent-agency
+    shared_claims: 1
+  - node_id: 29fd673b-5d7d-4a6e-9b7f-797dfbe054c6
+    title: Melchizedek
+    node_type: person
+    slug: melchizedek
+    shared_claims: 1
+  - node_id: afd89359-4e5a-4ab4-8aff-ff47a272a993
+    title: Missing time phenomenon
+    node_type: topic
+    slug: missing-time-phenomenon
+    shared_claims: 1
+  - node_id: 5e47c787-005b-4c91-ba4b-c9bec48146c9
+    title: National Aeronautics and Space Administration (NASA)
+    node_type: organisation
+    slug: national-aeronautics-and-space-administration-nasa
+    shared_claims: 1
+  - node_id: f7ed2e8d-70e7-4545-b17d-444f3c688a59
+    title: Ordo Templi Orientis (O.T.O.)
+    node_type: topic
+    slug: ordo-templi-orientis-oto
+    shared_claims: 1
+  - node_id: faf443bc-a2f2-4316-a6fc-489392690e89
+    title: Ralf Harolde
+    node_type: person
+    slug: ralf-harolde
+    shared_claims: 1
+  - node_id: e1650a1d-8feb-4841-a403-0d71e176d2d9
+    title: Richard C. Hoagland
+    node_type: person
+    slug: richard-c-hoagland
+    shared_claims: 1
+claims:
+  - claim_id: 62e23554-1b4f-4558-a171-1e1552f2b20a
+    claim_hash: 12387b3b34a72de5d6c0076db2219efed64400cee4c2932c2f77fbae4a82b511
+    content: In 1968 Sirhan Sirhan killed Robert F. Kennedy in Los Angeles.
+    original_excerpt: In 1968 a man named Sirhan killed Robert Kennedy in Los Angeles.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 02eefb29-f82c-4605-bd23-03038f4328dd
+        title: 1968 assassination of Robert F. Kennedy
+        slug: 1968-assassination-of-robert-f-kennedy
+      - node_id: 734a43a4-89bc-45f0-a69e-67e7ca945e90
+        title: Sirhan Sirhan
+        slug: sirhan-sirhan
+      - node_id: 86012e89-5cc0-4950-a4e1-c70b16dd4c9c
+        title: Robert Kennedy
+        slug: robert-kennedy
+      - node_id: 96b7973f-154d-40e4-8b19-81d26c7d53d6
+        title: USA, California, Los Angeles
+        slug: california-los-angeles-usa
+    date: '1968'
+    date_end: null
+    location_in_record: ch11:66472-66528
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: f0690aba-c78b-47f4-bb2f-f94ea04d55ee
+      record_title: 'Messengers of Deception: UFO Contacts and Cults'
+      record_date: '0101-01-01'
+      record_reference: null
+      content_hash: sha256:0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5ac9fd3168
+      friendly_name: 0101-01-01-ebook-messengers-of-deception-ufo-contacts-and-cults
+  - claim_id: 37b978e8-8e17-4a71-b362-dce52c21df05
+    claim_hash: d0706f941cf75b17544be397d100360f0319c178bc2bf7e0cf54ccee74778734
+    content: Jacques Vallée found that there was only one "Melchizedek" listed in the Los Angeles phone book, and he retained
+      the signed taxi receipt.
+    original_excerpt: There is only one Melchizedek listed in the L. A. phone book, and I have the receipt signed by the driver
+      right in front of me
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
+      title: Jacques Vallée
+    provenance_chain:
+      origin_kind: speaker
+      origin: Jacques Vallée
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
+        title: Jacques Vallée
+        slug: jacques-vallee
+      - node_id: 29fd673b-5d7d-4a6e-9b7f-797dfbe054c6
+        title: Melchizedek
+        slug: melchizedek
+      - node_id: 4be73f2f-9266-4652-bede-1f020c5d9b3d
+        title: 1976 Melchizedek taxicab coincidence, Los Angeles
+        slug: los-angeles-1976-melchizedek-taxicab-coincidence
+      - node_id: 96b7973f-154d-40e4-8b19-81d26c7d53d6
+        title: USA, California, Los Angeles
+        slug: california-los-angeles-usa
+    date: null
+    date_end: null
+    location_in_record: ch13:51401-51525
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: f0690aba-c78b-47f4-bb2f-f94ea04d55ee
+      record_title: 'Messengers of Deception: UFO Contacts and Cults'
+      record_date: '0101-01-01'
+      record_reference: null
+      content_hash: sha256:0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5ac9fd3168
+      friendly_name: 0101-01-01-ebook-messengers-of-deception-ufo-contacts-and-cults
+  - claim_id: fa721a37-e518-4ee0-9e04-0485d1f30681
+    claim_hash: 8f6acc3d058f225af52f1bde8130841ac3c2429346982a64ef22d240f9b84b3d
+    content: Jacques Vallée found only one person named Melchizedek listed in the Los Angeles phone book, leading him to conclude
+      that mere coincidence could not explain the 1976 Melchizedek taxicab coincidence in Los Angeles.
+    original_excerpt: Since there is only one person named Melchizedek in the L.A. phone book, I have to conclude that mere
+      coincidence cannot explain this incident.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
+      title: Jacques Vallée
+    provenance_chain:
+      origin_kind: speaker
+      origin: Jacques Vallée
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
+        title: Jacques Vallée
+        slug: jacques-vallee
+      - node_id: 4be73f2f-9266-4652-bede-1f020c5d9b3d
+        title: 1976 Melchizedek taxicab coincidence, Los Angeles
+        slug: los-angeles-1976-melchizedek-taxicab-coincidence
+      - node_id: 96b7973f-154d-40e4-8b19-81d26c7d53d6
+        title: USA, California, Los Angeles
+        slug: california-los-angeles-usa
+    date: null
+    date_end: null
+    location_in_record: ch13:60388-60522
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: f0690aba-c78b-47f4-bb2f-f94ea04d55ee
+      record_title: 'Messengers of Deception: UFO Contacts and Cults'
+      record_date: '0101-01-01'
+      record_reference: null
+      content_hash: sha256:0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5ac9fd3168
+      friendly_name: 0101-01-01-ebook-messengers-of-deception-ufo-contacts-and-cults
+  - claim_id: 30f92028-6f44-4201-a0f4-aae29007f628
+    claim_hash: 6f23e81e6ae3393f555ae54d76cbf2314bad839569f6d024fcbda61562a49c47
+    content: Right after World War II, a branch of Aleister Crowley's Ordo Templi Orientis (O.T.O.) flourished in Los Angeles.
+    original_excerpt: Right after World War II, when a branch of Aleister Crowley’s O.T.O. [Ordo Templi Orientis...] flourished
+      in Los Angeles
+    claim_type: observation
+    attestation: first_hand
+    speaker:
+      node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
+      title: Jacques Vallée
+    provenance_chain:
+      origin_kind: speaker
+      origin: Jacques Vallée
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 383fc644-c1b4-4a39-bf62-5b14ba2db5cc
+        title: Aleister Crowley
+        slug: aleister-crowley
+      - node_id: 96b7973f-154d-40e4-8b19-81d26c7d53d6
+        title: USA, California, Los Angeles
+        slug: california-los-angeles-usa
+      - node_id: f7ed2e8d-70e7-4545-b17d-444f3c688a59
+        title: Ordo Templi Orientis (O.T.O.)
+        slug: ordo-templi-orientis-oto
+    date: null
+    date_end: null
+    location_in_record: ch13:9589-9671
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: f0690aba-c78b-47f4-bb2f-f94ea04d55ee
+      record_title: 'Messengers of Deception: UFO Contacts and Cults'
+      record_date: '0101-01-01'
+      record_reference: null
+      content_hash: sha256:0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5ac9fd3168
+      friendly_name: 0101-01-01-ebook-messengers-of-deception-ufo-contacts-and-cults
+  - claim_id: cf956302-c916-40c8-b6d8-9212aacdefde
+    claim_hash: d07abc96a3e85c84d4d562862ed2451941efeae899d85924dcb83d2242994f14
+    content: During the 1976 Garlock fault desert expedition, six men who had driven from Los Angeles with sound equipment
+      and cameras met Jacques Vallée's group at a turn in the road.
+    original_excerpt: At a turn in the road we stopped, raising a cloud of dust from the scorched ground. As it settled we
+      met six men who had driven earlier from Los Angeles with sound equipment and cameras.
+    claim_type: observation
+    attestation: first_hand
+    speaker:
+      node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
+      title: Jacques Vallée
+    provenance_chain:
+      origin_kind: speaker
+      origin: Jacques Vallée
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 96b7973f-154d-40e4-8b19-81d26c7d53d6
+        title: USA, California, Los Angeles
+        slug: california-los-angeles-usa
+      - node_id: fe2868ef-1027-421b-bf6b-728dc5c331b3
+        title: 1976 Garlock fault desert expedition
+        slug: 1976-garlock-fault-desert-expedition
+    date: '1976'
+    date_end: null
+    location_in_record: ch5:17080-17258
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: f0690aba-c78b-47f4-bb2f-f94ea04d55ee
+      record_title: 'Messengers of Deception: UFO Contacts and Cults'
+      record_date: '0101-01-01'
+      record_reference: null
+      content_hash: sha256:0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5ac9fd3168
+      friendly_name: 0101-01-01-ebook-messengers-of-deception-ufo-contacts-and-cults
+  - claim_id: 8e273027-e2c5-4866-bb20-1ad82f3fe7c1
+    claim_hash: eb42ccc80ccae01b4a363630d41997b6f859605be74abaa31d7f7ee9c75b89c9
+    content: The 1968 Lompoc-to-Los Angeles UFO abduction of Helen occurred in the summer of 1968 while Helen was travelling
+      with a group of musicians from Lompoc, California to Los Angeles, California.
+    original_excerpt: It seems that she was with a group of musicians coming back from Lompoc to Los Angeles, in the summer
+      of 1968.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: fb9d1a5b-b698-46d5-bc4c-64d05021fbd4
+      title: Helen (contactee interviewed by Jacques Vallée)
+    provenance_chain:
+      origin_kind: speaker
+      origin: Helen (contactee interviewed by Jacques Vallée)
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 17e33363-c172-47ff-81fa-1d7ea0901564
+        title: 1968 Lompoc-to-Los Angeles Unidentified Flying Object (UFO) abduction of Helen
+        slug: 1968-lompoc-to-los-angeles-unidentified-flying-object-ufo-abduction-of-helen
+      - node_id: 96b7973f-154d-40e4-8b19-81d26c7d53d6
+        title: USA, California, Los Angeles
+        slug: california-los-angeles-usa
+      - node_id: dc6fa436-8950-4639-985a-5f9f020c2cde
+        title: USA, California, Lompoc
+        slug: california-lompoc-usa
+      - node_id: fb9d1a5b-b698-46d5-bc4c-64d05021fbd4
+        title: Helen (contactee interviewed by Jacques Vallée)
+        slug: helen-contactee-interviewed-by-jacques-vallee
+    date: 1968-07
+    date_end: null
+    location_in_record: ch7:865-970
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: f0690aba-c78b-47f4-bb2f-f94ea04d55ee
+      record_title: 'Messengers of Deception: UFO Contacts and Cults'
+      record_date: '0101-01-01'
+      record_reference: null
+      content_hash: sha256:0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5ac9fd3168
+      friendly_name: 0101-01-01-ebook-messengers-of-deception-ufo-contacts-and-cults
+  - claim_id: 80fa207b-0260-43e5-9cb6-ec28806b18ea
+    claim_hash: f924e5cc371edfe517e8cff22bf26dc52c657cf3b8010261c83f37dbd2960a30
+    content: An hour's drive from Los Angeles, crosses of light and crosses of shadow appeared, and a picture of the Virgin
+      Mary emerged on the glass of a window in a suburban neighbourhood.
+    original_excerpt: An hour’s drive from Los Angeles several miracles occurred in a suburban neighborhood. Crosses of light
+      and crosses of shadow appeared, a picture of the Virgin emerged on the glass of a window
+    claim_type: observation
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 96b7973f-154d-40e4-8b19-81d26c7d53d6
+        title: USA, California, Los Angeles
+        slug: california-los-angeles-usa
+      - node_id: d0cb0a3b-6a93-4390-911b-aba30e2289b3
+        title: Weeping oil-tear statue of María near Los Angeles (1991-01)
+        slug: weeping-oil-tear-statue-of-maria-near-los-angeles-1991-01
+    date: null
+    date_end: null
+    location_in_record: ch23:4388-4574
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 171e1337-151f-40c5-8b9a-659faac4c5f6
+      record_title: The Fatima Secret
+      record_date: '2000-11-28'
+      record_reference: null
+      content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
+      friendly_name: 2000-11-28-ebook-the-fatima-secret
+  - claim_id: 776bb0bb-6f65-4882-afdc-c6b35348fcd3
+    claim_hash: 2bdd6c9730283aa1f348610d664bd957592ad10ba5137088d13ac91da40dbaeb
+    content: A statue of Mary belonging to a woman from Kuwait, located near Los Angeles, produced tears of oil.
+    original_excerpt: finally, a statue of Mary, belonging to a woman from Kuwait, produced tears of oil.
+    claim_type: observation
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 96b7973f-154d-40e4-8b19-81d26c7d53d6
+        title: USA, California, Los Angeles
+        slug: california-los-angeles-usa
+      - node_id: b5685df3-49b4-442d-bfd1-423ccdc74e5f
+        title: Kuwait
+        slug: kuwait
+      - node_id: d0cb0a3b-6a93-4390-911b-aba30e2289b3
+        title: Weeping oil-tear statue of María near Los Angeles (1991-01)
+        slug: weeping-oil-tear-statue-of-maria-near-los-angeles-1991-01
+    date: null
+    date_end: null
+    location_in_record: ch23:4586-4665
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 171e1337-151f-40c5-8b9a-659faac4c5f6
+      record_title: The Fatima Secret
+      record_date: '2000-11-28'
+      record_reference: null
+      content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
+      friendly_name: 2000-11-28-ebook-the-fatima-secret
+  - claim_id: ac17734c-0300-4937-bad1-e55e150e0681
+    claim_hash: e84eef8b8840cc2155095b337a4c23731c7c8464b0e3b108c31af01c50d37381
+    content: The rectilinear pattern found in the Phobos 2 infrared image of Hydraotes Chaos covers an area the size of Los
+      Angeles.
+    original_excerpt: This regular, highly geometric pattern (across an area the size of Los Angeles) is strongly indicative
+      of a cityscape just under the surface.
+    claim_type: observation
+    attestation: first_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: speaker
+      origin: Richard C. Hoagland
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 96b7973f-154d-40e4-8b19-81d26c7d53d6
+        title: USA, California, Los Angeles
+        slug: california-los-angeles-usa
+      - node_id: c38f0b63-d0a9-4280-91e0-5be285a09c49
+        title: Hydraotes Chaos
+        slug: hydraotes-chaos
+    date: null
+    date_end: null
+    location_in_record: ch16:23262-23395
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+      record_title: Dark Mission
+      record_date: '2010-07-22'
+      record_reference: null
+      content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+      friendly_name: null
+  - claim_id: ccce4573-27e7-46da-85ef-56733b19684a
+    claim_hash: 2cc785957c2c89b4c4c762e189f5fb4adb2719a450c1a29dea6a60da296c621b
+    content: John Becklake said the city-like pattern found in the Phobos 2 Hydraotes Chaos image was sixty kilometres wide
+      and could easily be mistaken for an aerial view of Los Angeles.
+    original_excerpt: 'Becklake was unequivocal: “The city-like pattern is sixty kilometers wide and could easily be mistaken
+      for an aerial view of Los Angeles.”'
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: bc1d1748-3682-4749-9af1-c2839c887e03
+      title: John Becklake
+    provenance_chain:
+      origin_kind: speaker
+      origin: John Becklake
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 96b7973f-154d-40e4-8b19-81d26c7d53d6
+        title: USA, California, Los Angeles
+        slug: california-los-angeles-usa
+      - node_id: bc1d1748-3682-4749-9af1-c2839c887e03
+        title: John Becklake
+        slug: john-becklake
+      - node_id: c38f0b63-d0a9-4280-91e0-5be285a09c49
+        title: Hydraotes Chaos
+        slug: hydraotes-chaos
+    date: null
+    date_end: null
+    location_in_record: ch16:24158-24287
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+      record_title: Dark Mission
+      record_date: '2010-07-22'
+      record_reference: null
+      content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+      friendly_name: null
+  - claim_id: 22763319-dc3a-4396-a0ab-ca49642b2d08
+    claim_hash: ee06c248f8096a15b17d7b3a9dca96b289aad0bfcf339ea5a7ecafcf734fc8b1
+    content: Richard C. Hoagland uses the Los Angeles basin as a hypothetical example of how flooded and buried building foundations
+      would erode into a geometric mesa pattern resembling the Hydaspis Chaos infrared imagery.
+    original_excerpt: If this happened in an area the size of say, the Los Angeles basin, then all one would expect to see
+      would be the remnants of these former rising structures, arranged in a hauntingly geometric pattern indicated by their
+      remnant foundations.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: e1650a1d-8feb-4841-a403-0d71e176d2d9
+      title: Richard C. Hoagland
+    provenance_chain:
+      origin_kind: speaker
+      origin: Richard C. Hoagland
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 4dca78a0-3049-498d-ad5f-379702a0ad6b
+        title: Hydaspis Chaos
+        slug: hydaspis-chaos
+      - node_id: 96b7973f-154d-40e4-8b19-81d26c7d53d6
+        title: USA, California, Los Angeles
+        slug: california-los-angeles-usa
+    date: null
+    date_end: null
+    location_in_record: ch16:43070-43298
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+      record_title: Dark Mission
+      record_date: '2010-07-22'
+      record_reference: null
+      content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+      friendly_name: null
+  - claim_id: 40ec0ec8-2640-4cd2-ae82-e3994898bf72
+    claim_hash: d7e18168f0d26236756758a3f2a4d15b07ff8b60da6a3d3ffbb23d70019f9e09
+    content: Richard C. Hoagland's small CBS Special Events Unit in Los Angeles was responsible for covering all of NASA's
+      West Coast space activities during that period.
+    original_excerpt: With only one "CBS Special Events Unit" in California, to cover all of NASA's space activities on the
+      West Coast in those years, it was up to our small group in Los Angeles... to overlap our continuing coverage of Apollo
+      11...
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: e1650a1d-8feb-4841-a403-0d71e176d2d9
+      title: Richard C. Hoagland
+    provenance_chain:
+      origin_kind: speaker
+      origin: Richard C. Hoagland
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 5e47c787-005b-4c91-ba4b-c9bec48146c9
+        title: National Aeronautics and Space Administration (NASA)
+        slug: national-aeronautics-and-space-administration-nasa
+      - node_id: 7a25b20b-c238-4b97-862f-dc62dba6278a
+        title: Columbia Broadcasting System (CBS) News
+        slug: columbia-broadcasting-system-cbs-news
+      - node_id: 96b7973f-154d-40e4-8b19-81d26c7d53d6
+        title: USA, California, Los Angeles
+        slug: california-los-angeles-usa
+      - node_id: e1650a1d-8feb-4841-a403-0d71e176d2d9
+        title: Richard C. Hoagland
+        slug: richard-c-hoagland
+    date: 1969-07
+    date_end: null
+    location_in_record: ch7:25146-25360
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+      record_title: Dark Mission
+      record_date: '2010-07-22'
+      record_reference: null
+      content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+      friendly_name: null
+  - claim_id: 7f86fc76-238e-4462-8897-7c60e3e56e7a
+    claim_hash: ee6fcab0be1ee4992634ebe371c1c49604386a94daa21ee8d87d257a8c465cf2
+    content: In the decade following his teenage UFO sightings, the subject of the astronomer colleague's investigation experienced
+      spontaneous levitation twice and made several out-of-the-body trips, the longest being from his military base in Japan
+      to the home of a friend in California, where the friend reportedly saw him at the door at the corresponding time.
+    original_excerpt: In the next decade this man experienced spontaneous levitation twice and made several out-of-the-body
+      trips, the longest being from his military base in Japan to the home of a friend in California (the friend saw him at
+      the door of the room at the corresponding time).
+    claim_type: hearsay
+    attestation: third_hand
+    speaker:
+      node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
+      title: Jacques Vallée
+    provenance_chain:
+      origin_kind: anonymous
+      origin: an unnamed subject investigated by Jacques Vallee's astronomer colleague
+      relay:
+        - investigated by the astronomer colleague
+        - letter to Jacques Vallee
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 96b7973f-154d-40e4-8b19-81d26c7d53d6
+        title: USA, California, Los Angeles
+        slug: california-los-angeles-usa
+    date: null
+    date_end: null
+    location_in_record: ch16:19331-19593
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 220315f4-29cd-4c89-8860-44f95613d98f
+      record_title: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About UFO Influences on the Human Race'
+      record_date: '2014-09-27'
+      record_reference: null
+      content_hash: sha256:5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b8489cc11c26
+      friendly_name: 2014-09-27-ebook-the-invisible-college-what-a-group-of-scientists-has
+  - claim_id: 87057efc-760e-4ffc-bbd0-c108381d504a
+    claim_hash: 94d6673223110a03b2383c7dae16512ad0c5087dce544b29cc9276da17e70044
+    content: A man left Los Angeles with his family after a message he believed came from Jupiter instructed him to find an
+      isolated spot and live in semiretirement, providing what he called a centre of peace in a world of intense coming turmoil.
+    original_excerpt: One such man left Los Angeles with his family after a message he believes came from Jupiter instructed
+      him to find an isolated spot and live in semiretirement, “providing a center of peace in the world of intense turmoil
+      that was to come.”
+    claim_type: testimony
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: anonymous
+      origin: an unnamed man who believed he received a message from Jupiter
+      relay:
+        - Jacques Vallee's personal knowledge of the man
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 96b7973f-154d-40e4-8b19-81d26c7d53d6
+        title: USA, California, Los Angeles
+        slug: california-los-angeles-usa
+    date: null
+    date_end: null
+    location_in_record: ch17:18481-18714
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 220315f4-29cd-4c89-8860-44f95613d98f
+      record_title: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About UFO Influences on the Human Race'
+      record_date: '2014-09-27'
+      record_reference: null
+      content_hash: sha256:5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b8489cc11c26
+      friendly_name: 2014-09-27-ebook-the-invisible-college-what-a-group-of-scientists-has
+  - claim_id: d597fa64-1edb-41a0-b23a-8d1f0f718f76
+    claim_hash: 4448da806fe17e9e86f2521cfc6fe0a6a071d3f72a771eacc199b22eb083c2d8
+    content: Kate Coe took the image to the Academy of Motion Picture Arts and Sciences Library, the single largest film research
+      library in the world, occupying about 3,700 square metres in Los Angeles.
+    original_excerpt: Coe then took the image to the Academy of Motion Picture Arts and Sciences library and film archive,
+      the single largest film research library in the world, occupying forty thousand square feet in Los Angeles.
+    claim_type: measurement
+    attestation: first_hand
+    speaker:
+      node_id: 953f6232-9902-437f-ad4c-add4fd080043
+      title: Leslie Kean
+    provenance_chain:
+      origin_kind: speaker
+      origin: Leslie Kean
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 277b0a5b-bedc-4441-9ea1-3fc7bd619b34
+        title: Kate Coe
+        slug: kate-coe
+      - node_id: 96b7973f-154d-40e4-8b19-81d26c7d53d6
+        title: USA, California, Los Angeles
+        slug: california-los-angeles-usa
+      - node_id: e07f305a-6492-4bf4-a755-06fbb1466e1d
+        title: Academy of Motion Picture Arts and Sciences Library
+        slug: academy-of-motion-picture-arts-and-sciences-library
+    date: null
+    date_end: null
+    location_in_record: ch13:11482-11682
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
+      record_title: Surviving Death
+      record_date: '2017-03-07'
+      record_reference: null
+      content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
+      friendly_name: 2017-03-07-ebook-surviving-death
+  - claim_id: 36089545-4178-4e6d-9f2a-a6963cffb16d
+    claim_hash: 41ff3cd41f05deaec9b382a6121cd63bfed90dfe74e798ef6f6d5578591ccad9
+    content: Ryan Hammons said Ralf Harolde was not the man in the photograph, though there was some uncertainty and Ryan
+      wanted to visit Los Angeles.
+    original_excerpt: Even though Ryan said this was not the man in the photo, there was some uncertainty and Ryan wanted
+      the opportunity to visit L.A.
+    claim_type: testimony
+    attestation: second_hand
+    speaker:
+      node_id: 80cf92ce-bae3-49f3-beab-99c80495f848
+      title: Ryan Hammons
+    provenance_chain:
+      origin_kind: speaker
+      origin: Ryan Hammons
+      relay:
+        - Leslie Kean
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 80cf92ce-bae3-49f3-beab-99c80495f848
+        title: Ryan Hammons
+        slug: ryan-hammons
+      - node_id: 96b7973f-154d-40e4-8b19-81d26c7d53d6
+        title: USA, California, Los Angeles
+        slug: california-los-angeles-usa
+      - node_id: faf443bc-a2f2-4316-a6fc-489392690e89
+        title: Ralf Harolde
+        slug: ralf-harolde
+    date: null
+    date_end: null
+    location_in_record: ch13:19672-19799
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
+      record_title: Surviving Death
+      record_date: '2017-03-07'
+      record_reference: null
+      content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
+      friendly_name: 2017-03-07-ebook-surviving-death
+  - claim_id: 08dc4e40-2675-44dd-aa7a-ad87da4d130f
+    claim_hash: b543493b6fb468c28608069ee8d6a931869980f1c4c08322c7f148db32fc6a6a
+    content: The Hammons family met Marty Martyn's daughter, Marisa Martyn Rosenblatt, during an August trip to Los Angeles.
+    original_excerpt: and, finally, from the August trip to L.A. in which they met Marty’s daughter, Marisa Martyn Rosenblatt.
+    claim_type: administrative
+    attestation: first_hand
+    speaker:
+      node_id: 953f6232-9902-437f-ad4c-add4fd080043
+      title: Leslie Kean
+    provenance_chain:
+      origin_kind: speaker
+      origin: Leslie Kean
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 1b91bf08-93fc-4249-9068-e3583a8fe70e
+        title: Cyndi Hammons
+        slug: cyndi-hammons
+      - node_id: 7abeb5fd-0f0a-4c21-a0be-de2a59d2dd32
+        title: Marty Martyn
+        slug: marty-martyn
+      - node_id: 862daff0-b6c0-4070-bf5c-c244a2d70b44
+        title: Kevin Hammons
+        slug: kevin-hammons
+      - node_id: 96b7973f-154d-40e4-8b19-81d26c7d53d6
+        title: USA, California, Los Angeles
+        slug: california-los-angeles-usa
+      - node_id: a8d696c2-31b3-43ec-a297-2b0b8c817e66
+        title: Marisa Martyn Rosenblatt
+        slug: marisa-martyn-rosenblatt
+    date: null
+    date_end: null
+    location_in_record: ch13:4182-4275
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
+      record_title: Surviving Death
+      record_date: '2017-03-07'
+      record_reference: null
+      content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
+      friendly_name: 2017-03-07-ebook-surviving-death
+  - claim_id: 72bc4ac0-0711-4567-a881-fa51fd98cac7
+    claim_hash: 401f86acb162070ed146f219dbf25476b466127dd20943fcab755c1438058ce2
+    content: Ryan Hammons visited the former Marty Martyn talent agency building in Los Angeles with his father, Kevin Hammons,
+      and recognised the building along with Marty Martyn's home.
+    original_excerpt: Ryan Hammons with his dad, Kevin, at the former Marty Martyn Agency building in Los Angeles. Ryan recognized
+      the building along with Marty’s home.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 80cf92ce-bae3-49f3-beab-99c80495f848
+      title: Ryan Hammons
+    provenance_chain:
+      origin_kind: speaker
+      origin: Ryan Hammons
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 6749ad09-7f67-4953-aab8-d046bf191082
+        title: Marty Martyn talent agency
+        slug: marty-martyn-talent-agency
+      - node_id: 7abeb5fd-0f0a-4c21-a0be-de2a59d2dd32
+        title: Marty Martyn
+        slug: marty-martyn
+      - node_id: 80cf92ce-bae3-49f3-beab-99c80495f848
+        title: Ryan Hammons
+        slug: ryan-hammons
+      - node_id: 862daff0-b6c0-4070-bf5c-c244a2d70b44
+        title: Kevin Hammons
+        slug: kevin-hammons
+      - node_id: 96b7973f-154d-40e4-8b19-81d26c7d53d6
+        title: USA, California, Los Angeles
+        slug: california-los-angeles-usa
+    date: null
+    date_end: null
+    location_in_record: ch21:3082-3223
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
+      record_title: Surviving Death
+      record_date: '2017-03-07'
+      record_reference: null
+      content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
+      friendly_name: 2017-03-07-ebook-surviving-death
+  - claim_id: d3e0d644-290e-4ef1-b6b6-fb4b7a345681
+    claim_hash: 6403604f507179df3aaa420e7ed912c361b0840b69dc1256a12de0eb7173b38e
+    content: The Hammons family and Jim Tucker met with Marisa Martyn Rosenblatt in Los Angeles, and she verified many of
+      Ryan Hammons's memories about her father, Marty Martyn.
+    original_excerpt: The Hammons family and Dr. Jim Tucker met with her in Los Angeles, and she verified many of Ryan’s memories
+      about her father.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: a8d696c2-31b3-43ec-a297-2b0b8c817e66
+      title: Marisa Martyn Rosenblatt
+    provenance_chain:
+      origin_kind: speaker
+      origin: Marisa Martyn Rosenblatt
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 1b91bf08-93fc-4249-9068-e3583a8fe70e
+        title: Cyndi Hammons
+        slug: cyndi-hammons
+      - node_id: 7abeb5fd-0f0a-4c21-a0be-de2a59d2dd32
+        title: Marty Martyn
+        slug: marty-martyn
+      - node_id: 80cf92ce-bae3-49f3-beab-99c80495f848
+        title: Ryan Hammons
+        slug: ryan-hammons
+      - node_id: 862daff0-b6c0-4070-bf5c-c244a2d70b44
+        title: Kevin Hammons
+        slug: kevin-hammons
+      - node_id: 96b7973f-154d-40e4-8b19-81d26c7d53d6
+        title: USA, California, Los Angeles
+        slug: california-los-angeles-usa
+      - node_id: a081e647-7d45-4a5b-83d8-2f42762ea9d0
+        title: Jim Tucker
+        slug: jim-tucker
+      - node_id: a8d696c2-31b3-43ec-a297-2b0b8c817e66
+        title: Marisa Martyn Rosenblatt
+        slug: marisa-martyn-rosenblatt
+    date: null
+    date_end: null
+    location_in_record: ch21:4192-4310
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
+      record_title: Surviving Death
+      record_date: '2017-03-07'
+      record_reference: null
+      content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
+      friendly_name: 2017-03-07-ebook-surviving-death
+  - claim_id: 05c47026-4798-4468-a310-af46d48e04fa
+    claim_hash: aa222cdcaf4e2ad81da3a8aac3a60783c0efbb5d900124e258d4bbe5d1307ed8
+    content: At Los Angeles airport, Whitley Strieber discovered his blue roller bag had already been pulled off the baggage
+      carousel and had been sitting there for forty-five minutes.
+    original_excerpt: I was absolutely flabbergasted when the baggage attendant told me that they had pulled my bag off the
+      carousel after it had been there for forty-five minutes!
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+      title: Whitley Strieber
+    provenance_chain:
+      origin_kind: speaker
+      origin: Whitley Strieber
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+        title: Whitley Strieber
+        slug: whitley-strieber
+      - node_id: 96b7973f-154d-40e4-8b19-81d26c7d53d6
+        title: USA, California, Los Angeles
+        slug: california-los-angeles-usa
+    date: null
+    date_end: null
+    location_in_record: ch20:10290-10440
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 759e8d7b-a820-4e00-bdc3-9aebf9e4b1b1
+      record_title: The Fourth Mind
+      record_date: '2025-01-15'
+      record_reference: null
+      content_hash: sha256:524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008e17102e7
+      friendly_name: 2025-01-15-ebook-the-fourth-mind
+  - claim_id: 8c41a30d-e257-4eac-88f7-e6125d1c0ba1
+    claim_hash: f81b021b2c41cb7a1093a56d39c988f6e3f24d6c812a3ff5c0cee02782b3213c
+    content: When Whitley Strieber checked his watch at Los Angeles airport, he found that nearly an hour had passed between
+      stepping off the plane and arriving at the baggage carousel, despite the walk taking no more than ten or fifteen minutes.
+    original_excerpt: When I looked at my watch, I saw that nearly an hour had passed between the time I stepped off the plane
+      and the time I arrived at the carousel, a walk of no more than ten or at most fifteen minutes.
+    claim_type: observation
+    attestation: first_hand
+    speaker:
+      node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+      title: Whitley Strieber
+    provenance_chain:
+      origin_kind: speaker
+      origin: Whitley Strieber
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+        title: Whitley Strieber
+        slug: whitley-strieber
+      - node_id: 96b7973f-154d-40e4-8b19-81d26c7d53d6
+        title: USA, California, Los Angeles
+        slug: california-los-angeles-usa
+    date: null
+    date_end: null
+    location_in_record: ch20:10449-10640
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 759e8d7b-a820-4e00-bdc3-9aebf9e4b1b1
+      record_title: The Fourth Mind
+      record_date: '2025-01-15'
+      record_reference: null
+      content_hash: sha256:524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008e17102e7
+      friendly_name: 2025-01-15-ebook-the-fourth-mind
+  - claim_id: bbcd03f6-67a5-4a7a-ab15-4a49ec5f6259
+    claim_hash: 1274bef1bdc1a423e3948de41fb6ca454839eb8dcd19332a8e5a71be782d3f57
+    content: Whitley Strieber concluded that he had experienced missing time in the middle of a busy airport, at Los Angeles
+      airport.
+    original_excerpt: I then realized that I had experienced missing time. Not only that, it had happened in the middle of
+      a busy airport.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+      title: Whitley Strieber
+    provenance_chain:
+      origin_kind: speaker
+      origin: Whitley Strieber
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+        title: Whitley Strieber
+        slug: whitley-strieber
+      - node_id: 96b7973f-154d-40e4-8b19-81d26c7d53d6
+        title: USA, California, Los Angeles
+        slug: california-los-angeles-usa
+      - node_id: afd89359-4e5a-4ab4-8aff-ff47a272a993
+        title: Missing time phenomenon
+        slug: missing-time-phenomenon
+    date: null
+    date_end: null
+    location_in_record: ch20:10650-10758
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 759e8d7b-a820-4e00-bdc3-9aebf9e4b1b1
+      record_title: The Fourth Mind
+      record_date: '2025-01-15'
+      record_reference: null
+      content_hash: sha256:524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008e17102e7
+      friendly_name: 2025-01-15-ebook-the-fourth-mind
+  - claim_id: c8b6bae5-c391-45ce-8a3d-e771d5d8fe08
+    claim_hash: 163f4c95c9c6b903754a6a4b0ffc42f9a7658bf03582f3e36efeef1da4528251
+    content: Whitley Strieber recalls that during the missing time episode at Los Angeles airport, a man wearing a loose-fitting
+      white shirt began walking beside him shortly after he got off the plane.
+    original_excerpt: I am fairly sure that a man began walking beside me shortly after I got off the plane. Then we sat at
+      an empty gate. I don't remember what he looked like except that he was wearing a loose-fitting white shirt.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+      title: Whitley Strieber
+    provenance_chain:
+      origin_kind: speaker
+      origin: Whitley Strieber
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+        title: Whitley Strieber
+        slug: whitley-strieber
+      - node_id: 96b7973f-154d-40e4-8b19-81d26c7d53d6
+        title: USA, California, Los Angeles
+        slug: california-los-angeles-usa
+    date: null
+    date_end: null
+    location_in_record: ch20:10893-11096
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 759e8d7b-a820-4e00-bdc3-9aebf9e4b1b1
+      record_title: The Fourth Mind
+      record_date: '2025-01-15'
+      record_reference: null
+      content_hash: sha256:524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008e17102e7
+      friendly_name: 2025-01-15-ebook-the-fourth-mind
+  - claim_id: 05ac8907-00a1-4695-931e-9353f95ee1a8
+    claim_hash: a536bde71b581ce02a8e8d9901835fd8a67d2a0ebba0cb0686b168067edd1193
+    content: Whitley Strieber recalls that the man he encountered during the missing time episode at Los Angeles airport was
+      angry and demanding and wanted him to quote every word that had been said about the Roswell bodies.
+    original_excerpt: I recall that he was angry and demanding, and wanted me to quote every word that had been said about
+      the bodies, which I was able to do.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+      title: Whitley Strieber
+    provenance_chain:
+      origin_kind: speaker
+      origin: Whitley Strieber
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+        title: Whitley Strieber
+        slug: whitley-strieber
+      - node_id: 96b7973f-154d-40e4-8b19-81d26c7d53d6
+        title: USA, California, Los Angeles
+        slug: california-los-angeles-usa
+      - node_id: b8ea9860-ae6e-4835-8114-6a6626f28797
+        title: Roswell incident (1947)
+        slug: roswell-incident-1947
+    date: null
+    date_end: null
+    location_in_record: ch20:11145-11278
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 759e8d7b-a820-4e00-bdc3-9aebf9e4b1b1
+      record_title: The Fourth Mind
+      record_date: '2025-01-15'
+      record_reference: null
+      content_hash: sha256:524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008e17102e7
+      friendly_name: 2025-01-15-ebook-the-fourth-mind
+  - claim_id: 3e3b3395-6321-4665-9c3c-e618460a54b6
+    claim_hash: 85a56a8fa31548770032170a89e7bb3959a2f1575f7a66c6cfb73794c73701d0
+    content: After the wedding, Whitley Strieber flew back to Los Angeles the next morning and, having been in the front of
+      the aircraft, was the first passenger to disembark.
+    original_excerpt: The next morning, I flew back to Los Angeles. Because of my seat, I was the first person to get off
+      the plane.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+      title: Whitley Strieber
+    provenance_chain:
+      origin_kind: speaker
+      origin: Whitley Strieber
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+        title: Whitley Strieber
+        slug: whitley-strieber
+      - node_id: 96b7973f-154d-40e4-8b19-81d26c7d53d6
+        title: USA, California, Los Angeles
+        slug: california-los-angeles-usa
+    date: null
+    date_end: null
+    location_in_record: ch20:9474-9578
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 759e8d7b-a820-4e00-bdc3-9aebf9e4b1b1
+      record_title: The Fourth Mind
+      record_date: '2025-01-15'
+      record_reference: null
+      content_hash: sha256:524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008e17102e7
+      friendly_name: 2025-01-15-ebook-the-fourth-mind
+  - claim_id: f31f82d5-ddaf-4d3c-b00a-c7ddc2c8412c
+    claim_hash: 3e2e4fd1f10025f42c4f595450aae913a16b64cb0c6fb78e1935fafd51706a30
+    content: Ross Coulthart had an engagement in Los Angeles following his appearance on DEBRIEFED episode 76.
+    original_excerpt: I know you've got an engagement coming up in LAX, or sorry, in Los Angeles
+    claim_type: administrative
+    attestation: first_hand
+    speaker:
+      node_id: 24d00311-06ac-46a1-a2f5-c99f3f8e21b2
+      title: Chris Ramsay
+    provenance_chain:
+      origin_kind: speaker
+      origin: Chris Ramsay
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 96b7973f-154d-40e4-8b19-81d26c7d53d6
+        title: USA, California, Los Angeles
+        slug: california-los-angeles-usa
+      - node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+        title: Ross Coulthart
+        slug: ross-coulthart
+    date: null
+    date_end: null
+    location_in_record: 00:04:39.3-00:04:43.1
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: fd845823-8784-462c-a981-4775525b6f84
+      record_title: The DANGEROUS Truth About UFOs - Ross Coulthart | DEBRIEFED ep. 76
+      record_date: '2026-02-20'
+      record_reference: https://www.youtube.com/watch?v=idBryc0eWww
+      content_hash: sha256:73be106d406f6d35a063a894e8384e7da0918eb8597d2107a9e3653becca2bdc
+      friendly_name: null
+  - claim_id: 87dd4c5d-198c-447a-8e4e-c6de2b35d331
+    claim_hash: 3444a87ff0b788876b259ba01dde305d739373a196423bd867a4807d80e77b48
+    content: Louis Jolyon West was head of the University of California, Los Angeles (UCLA) Department of Psychiatry in Los
+      Angeles.
+    original_excerpt: he was the head of UCLA psychiatry out in LA actually
+    claim_type: administrative
+    attestation: first_hand
+    speaker:
+      node_id: 079d4381-4273-418b-bc9a-468623f95c6e
+      title: Jesse Mitchells
+    provenance_chain:
+      origin_kind: speaker
+      origin: Jesse Michels
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 21a31a67-2dcf-40b7-9c48-4f55fdfb8952
+        title: Louis Jolyon West
+        slug: louis-jolyon-west
+      - node_id: 96b7973f-154d-40e4-8b19-81d26c7d53d6
+        title: USA, California, Los Angeles
+        slug: california-los-angeles-usa
+      - node_id: 9a82491c-e310-4047-b17d-0f1bee37e01c
+        title: University of California, Los Angeles (UCLA) Department of Psychiatry
+        slug: los-angeles-ucla-department-of-psychiatry-university-of-california
+    date: null
+    date_end: null
+    location_in_record: 00:11:41.7-00:11:44.4
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 64b84f95-238c-4ab7-a678-bee55f985b14
+      record_title: The UFO Cover-Up Leads to One Secret Society — and One Final Event
+      record_date: '2026-07-14'
+      record_reference: https://www.youtube.com/watch?v=kccrkCGGzX4
+      content_hash: sha256:d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7b5a1b98d
+      friendly_name: null
+  - claim_id: 790b17fc-9209-4414-96d8-029244a730f1
+    claim_hash: c58882008f34d803744e80b94a112474c6211855ce9a66ea00b3d5de6556f299
+    content: Shirley MacLaine is a famous actor based in Los Angeles and a spiritual, new-age but thoughtful figure, in Jesse
+      Michels's characterisation.
+    original_excerpt: this book by Shirley MacLaine, this famous actor out here in LA. She's this very spiritual figure, kind
+      of new agey, but really thoughtful as well.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 079d4381-4273-418b-bc9a-468623f95c6e
+      title: Jesse Mitchells
+    provenance_chain:
+      origin_kind: speaker
+      origin: Jesse Michels
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 96b7973f-154d-40e4-8b19-81d26c7d53d6
+        title: USA, California, Los Angeles
+        slug: california-los-angeles-usa
+      - node_id: cd9b19f6-d66e-4e22-99ea-b5f8a2024e4d
+        title: Shirley MacLaine
+        slug: shirley-maclaine
+    date: null
+    date_end: null
+    location_in_record: 02:00:48.7-02:01:00.5
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 64b84f95-238c-4ab7-a678-bee55f985b14
+      record_title: The UFO Cover-Up Leads to One Secret Society — and One Final Event
+      record_date: '2026-07-14'
+      record_reference: https://www.youtube.com/watch?v=kccrkCGGzX4
+      content_hash: sha256:d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7b5a1b98d
+      friendly_name: null

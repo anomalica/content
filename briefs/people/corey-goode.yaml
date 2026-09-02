@@ -1,0 +1,174 @@
+schema: anomalica/brief/1
+brief_hash: 95d3e70728d527fc4e6494285edc3ba019b0906dc798adb9453e5b63d95597d3
+page:
+  kind: entity
+  node_id: 9bbfb006-0ecd-4d69-b3a3-8f6b01768d5b
+  node_type: person
+  title: Corey Goode
+  slug: corey-goode
+  claim_count: 3
+  claim_count_total: 3
+generated:
+  graph_version: '2026-09-01T10:10:49.863545+00:00'
+size:
+  claims: 3
+  tokens_estimated: 845
+  sized_against: 1050000
+publication:
+  status: published
+  note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
+    transcripts are gated elsewhere.
+belonging:
+  verified: 0
+  suspect_excluded: 0
+  unreviewed: 3
+related_nodes:
+  - node_id: 92395963-b6b1-4e27-9885-b1dae7b11687
+    title: Secret space program
+    node_type: topic
+    slug: secret-space-program
+    shared_claims: 3
+  - node_id: 21a35ae6-9a32-4060-9b34-23ab02af01d2
+    title: Gaia
+    node_type: organisation
+    slug: gaia
+    shared_claims: 2
+  - node_id: da25c187-9e6b-47e5-97ca-2437b2fc33a4
+    title: 20 and back
+    node_type: topic
+    slug: 20-and-back
+    shared_claims: 1
+  - node_id: 93fe290b-199f-418a-a3fe-715b41745a4c
+    title: Psychological operations (PSYOP)
+    node_type: topic
+    slug: psychological-operations-psyop
+    shared_claims: 1
+  - node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+    title: Ross Coulthart
+    node_type: person
+    slug: ross-coulthart
+    shared_claims: 1
+claims:
+  - claim_id: 5226006f-0ddb-4d2e-b723-f142df866500
+    claim_hash: da9d994f38f1fc9e5397a36d632f04bd43b121520f8f75b65ee961aa828151bb
+    content: Ross Coulthart suspects that many of Corey Goode's claims, and other outlandish claims about the secret space
+      program, are deliberate intelligence community disinformation intended to discredit the whole idea of a secret space
+      program.
+    original_excerpt: A lot of the wacky claims about the secret space program, I suspect, are almost deliberate intelligence
+      community disinformation to discredit the whole idea of a secret space program.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+      title: Ross Coulthart
+    provenance_chain:
+      origin_kind: speaker
+      origin: Ross Coulthart
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 92395963-b6b1-4e27-9885-b1dae7b11687
+        title: Secret space program
+        slug: secret-space-program
+      - node_id: 93fe290b-199f-418a-a3fe-715b41745a4c
+        title: Psychological operations (PSYOP)
+        slug: psychological-operations-psyop
+      - node_id: 9bbfb006-0ecd-4d69-b3a3-8f6b01768d5b
+        title: Corey Goode
+        slug: corey-goode
+      - node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+        title: Ross Coulthart
+        slug: ross-coulthart
+    date: null
+    date_end: null
+    location_in_record: 00:44:37.5-00:44:47.0
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: fd845823-8784-462c-a981-4775525b6f84
+      record_title: The DANGEROUS Truth About UFOs - Ross Coulthart | DEBRIEFED ep. 76
+      record_date: '2026-02-20'
+      record_reference: https://www.youtube.com/watch?v=idBryc0eWww
+      content_hash: sha256:73be106d406f6d35a063a894e8384e7da0918eb8597d2107a9e3653becca2bdc
+      friendly_name: null
+  - claim_id: 46f9f5cd-849a-40cb-97f2-c04c24c34fb7
+    claim_hash: 62cbed07a2f4b867a711b31aae2c8da89a5cd53d637c5b1188cf2d2b2c035d9a
+    content: Jesse Michels dismisses the secret space program idea because of Corey Goode and Gaia, considering the "20 and
+      back" material ridiculous.
+    original_excerpt: But I'm gonna write it off now because of Corey Goode and Gaia, because that's the 20 and back stuff
+      is so ridiculous.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 079d4381-4273-418b-bc9a-468623f95c6e
+      title: Jesse Mitchells
+    provenance_chain:
+      origin_kind: speaker
+      origin: Jesse Michels
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 21a35ae6-9a32-4060-9b34-23ab02af01d2
+        title: Gaia
+        slug: gaia
+      - node_id: 92395963-b6b1-4e27-9885-b1dae7b11687
+        title: Secret space program
+        slug: secret-space-program
+      - node_id: 9bbfb006-0ecd-4d69-b3a3-8f6b01768d5b
+        title: Corey Goode
+        slug: corey-goode
+      - node_id: da25c187-9e6b-47e5-97ca-2437b2fc33a4
+        title: 20 and back
+        slug: 20-and-back
+    date: null
+    date_end: null
+    location_in_record: 01:55:45.0-01:55:51.6
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 64b84f95-238c-4ab7-a678-bee55f985b14
+      record_title: The UFO Cover-Up Leads to One Secret Society — and One Final Event
+      record_date: '2026-07-14'
+      record_reference: https://www.youtube.com/watch?v=kccrkCGGzX4
+      content_hash: sha256:d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7b5a1b98d
+      friendly_name: null
+  - claim_id: b36d11dd-dabf-4191-8a2f-f12445e24ceb
+    claim_hash: 6d32cf1569e19c04bbac3713ec48557eeb3eed6a10c04a6fc287101737f8f12d
+    content: Corey Goode claimed on Gaia to have served in a secret space program.
+    original_excerpt: '[note: Corey Goode - On Gaia, claimed to have served in a secret space program]'
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: source annotation
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 21a35ae6-9a32-4060-9b34-23ab02af01d2
+        title: Gaia
+        slug: gaia
+      - node_id: 92395963-b6b1-4e27-9885-b1dae7b11687
+        title: Secret space program
+        slug: secret-space-program
+      - node_id: 9bbfb006-0ecd-4d69-b3a3-8f6b01768d5b
+        title: Corey Goode
+        slug: corey-goode
+    date: null
+    date_end: null
+    location_in_record: line 188
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 64b84f95-238c-4ab7-a678-bee55f985b14
+      record_title: The UFO Cover-Up Leads to One Secret Society — and One Final Event
+      record_date: '2026-07-14'
+      record_reference: https://www.youtube.com/watch?v=kccrkCGGzX4
+      content_hash: sha256:d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7b5a1b98d
+      friendly_name: null

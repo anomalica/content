@@ -1,0 +1,278 @@
+schema: anomalica/brief/1
+brief_hash: bac7d1a552f401bf0a52b9c0eeff297f47f2172abd75dc3127c0972642cd3624
+page:
+  kind: entity
+  node_id: a3edcb4f-f0b5-42c4-8b04-57dc3744c380
+  node_type: person
+  title: James Fox
+  slug: james-fox
+  claim_count: 6
+  claim_count_total: 6
+generated:
+  graph_version: '2026-09-01T10:10:49.863545+00:00'
+size:
+  claims: 6
+  tokens_estimated: 1840
+  sized_against: 1050000
+publication:
+  status: published
+  note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
+    transcripts are gated elsewhere.
+belonging:
+  verified: 0
+  suspect_excluded: 0
+  unreviewed: 6
+related_nodes:
+  - node_id: 816c219b-6372-49f6-9579-5eeabb9a7474
+    title: Donald Trump
+    node_type: person
+    slug: donald-trump
+    shared_claims: 2
+  - node_id: e4389da4-1980-4cb6-b557-6c563f9b134a
+    title: Steven Greer
+    node_type: person
+    slug: steven-greer
+    shared_claims: 2
+  - node_id: 4d8ce136-e1b9-4cdd-b892-05aeb5855dcd
+    title: Disclosure Project Investigations (DPI) archive
+    node_type: document
+    slug: disclosure-project-investigations-dpi-archive
+    shared_claims: 1
+  - node_id: 84a3eb29-d12c-4bd3-8c1e-75e476e5b97f
+    title: Peter Hill-Norton
+    node_type: person
+    slug: peter-hill-norton
+    shared_claims: 1
+  - node_id: 0b47cac5-b9cc-44ea-a2aa-5cbd39a0d21a
+    title: Unidentified Aerial Phenomena (UAP) Gerb
+    node_type: person
+    slug: unidentified-aerial-phenomena-uap-gerb
+    shared_claims: 1
+  - node_id: c61b8532-0c4f-4df1-a299-2487c93e4ef8
+    title: YouTube
+    node_type: organisation
+    slug: youtube
+    shared_claims: 1
+claims:
+  - claim_id: 2db10d18-1980-4284-9457-2b4a22e62ab3
+    claim_hash: 24c4f1f31020e28475e441437f5ccc561eecdd79fe82f1145a39c51f3971544e
+    content: James Fox obtained the interview with Peter Hill-Norton, and Steven Greer subsequently claimed it as his own
+      and cut out James Fox's parts of the interview.
+    original_excerpt: James Fox got that interview and then Steven Greer was just like, that's my interview. And he like cut
+      James Fox's parts of the interview.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 079d4381-4273-418b-bc9a-468623f95c6e
+      title: Jesse Mitchells
+    provenance_chain:
+      origin_kind: speaker
+      origin: Jesse Michels
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 84a3eb29-d12c-4bd3-8c1e-75e476e5b97f
+        title: Peter Hill-Norton
+        slug: peter-hill-norton
+      - node_id: a3edcb4f-f0b5-42c4-8b04-57dc3744c380
+        title: James Fox
+        slug: james-fox
+      - node_id: e4389da4-1980-4cb6-b557-6c563f9b134a
+        title: Steven Greer
+        slug: steven-greer
+    date: null
+    date_end: null
+    location_in_record: 01:26:22.8-01:26:29.7
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: dc9d8bc8-9c1f-46b4-9b89-8d86b6b08e1d
+      record_title: Jesse Michels, UAPGerb & Chris Ramsay - Flying Saucer Diner
+      record_date: '2026-07-17'
+      record_reference: https://www.youtube.com/watch?v=HFLBDi87888
+      content_hash: sha256:7b2e272d7c82fdda745ee0354d7c9cc4b0d5ba5506015ca27edd9169a768b262
+      friendly_name: null
+  - claim_id: 97b2007d-43bc-468b-a857-2dd4b0aaea9b
+    claim_hash: cae3a93c7fab21f6d083a36efdee3bec6ee25f2e2c10875b80eb542ca502bf0c
+    content: James Fox, asked by UAP Gerb whether he remembered shooting an interview later used by Steven Greer, confirmed
+      he did and said he was unaware that Steven Greer had cut out all of his parts.
+    original_excerpt: And I talked to James Fox about it. I said, hey, do you remember shooting this? And he said, yeah, of
+      course. I was like, do you know Greer cut out all of your parts? He said, no.
+    claim_type: testimony
+    attestation: second_hand
+    speaker:
+      node_id: 0b47cac5-b9cc-44ea-a2aa-5cbd39a0d21a
+      title: Unidentified Aerial Phenomena (UAP) Gerb
+    provenance_chain:
+      origin_kind: named
+      origin: James Fox
+      relay:
+        - a conversation with UAP Gerb
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 0b47cac5-b9cc-44ea-a2aa-5cbd39a0d21a
+        title: Unidentified Aerial Phenomena (UAP) Gerb
+        slug: unidentified-aerial-phenomena-uap-gerb
+      - node_id: a3edcb4f-f0b5-42c4-8b04-57dc3744c380
+        title: James Fox
+        slug: james-fox
+      - node_id: e4389da4-1980-4cb6-b557-6c563f9b134a
+        title: Steven Greer
+        slug: steven-greer
+    date: null
+    date_end: null
+    location_in_record: 01:26:31.6-01:26:38.2
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: dc9d8bc8-9c1f-46b4-9b89-8d86b6b08e1d
+      record_title: Jesse Michels, UAPGerb & Chris Ramsay - Flying Saucer Diner
+      record_date: '2026-07-17'
+      record_reference: https://www.youtube.com/watch?v=HFLBDi87888
+      content_hash: sha256:7b2e272d7c82fdda745ee0354d7c9cc4b0d5ba5506015ca27edd9169a768b262
+      friendly_name: null
+  - claim_id: cd30a563-53e6-45ce-9952-3f3fdad747e5
+    claim_hash: 39f0e7f6363b701bddf76d9efbba31e47e7a241b2f2baabcef9508daf85cae3e
+    content: In the raw interview recordings held in the Disclosure Project Investigations (DPI) archive, James Fox can be
+      heard beginning to ask questions before the recording cuts, unlike the versions posted to YouTube.
+    original_excerpt: not like the interview here posted to YouTube, but in the archives of the DPI archive, you can hear
+      sort of the raw interview. And at certain parts, James Fox will start to ask a question, then it'll just cut.
+    claim_type: observation
+    attestation: first_hand
+    speaker:
+      node_id: 0b47cac5-b9cc-44ea-a2aa-5cbd39a0d21a
+      title: Unidentified Aerial Phenomena (UAP) Gerb
+    provenance_chain:
+      origin_kind: speaker
+      origin: UAP Gerb
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 4d8ce136-e1b9-4cdd-b892-05aeb5855dcd
+        title: Disclosure Project Investigations (DPI) archive
+        slug: disclosure-project-investigations-dpi-archive
+      - node_id: a3edcb4f-f0b5-42c4-8b04-57dc3744c380
+        title: James Fox
+        slug: james-fox
+      - node_id: c61b8532-0c4f-4df1-a299-2487c93e4ef8
+        title: YouTube
+        slug: youtube
+    date: null
+    date_end: null
+    location_in_record: 01:26:42.3-01:26:53.5
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: dc9d8bc8-9c1f-46b4-9b89-8d86b6b08e1d
+      record_title: Jesse Michels, UAPGerb & Chris Ramsay - Flying Saucer Diner
+      record_date: '2026-07-17'
+      record_reference: https://www.youtube.com/watch?v=HFLBDi87888
+      content_hash: sha256:7b2e272d7c82fdda745ee0354d7c9cc4b0d5ba5506015ca27edd9169a768b262
+      friendly_name: null
+  - claim_id: 0a0436e8-14ba-458e-bf70-1a52e91e6b92
+    claim_hash: 525548c6cb1a5ed8ec162a791ebc47811cc3bb71a299928e0ef9ff1e74825ac5
+    content: James Fox is a documentary filmmaker.
+    original_excerpt: documentary filmmaker James Fox
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: a3edcb4f-f0b5-42c4-8b04-57dc3744c380
+        title: James Fox
+        slug: james-fox
+    date: null
+    date_end: null
+    location_in_record: char:1637-1665
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3b884786-04ff-4e4b-816f-621161e9d948
+      record_title: Pressure Mounts on President Trump as UAP Disclosure Advocates Intensify Their Push
+      record_date: '2026-08-19'
+      record_reference: https://www.liberationtimes.com/home/the-push-for-ufo-disclosure-intensifies-as-pressure-mounts-on-donald-trump
+      content_hash: sha256:dc288b5d31307a5eb396b1ecc4f3e2ee1e01673ec8707bb47111173faa83e683
+      friendly_name: null
+  - claim_id: cc9327ac-0a37-4263-b273-20546227792f
+    claim_hash: 4d36262514fd4fd0cd3299a8583dcc17b1cb85931959d6b4230f8052d0296346
+    content: The whistleblowers appealing to Donald Trump in James Fox's videos focus on the declassification of UAP-related
+      material, including photographs and documentation of retrieved craft and alleged non-human bodies.
+    original_excerpt: Their appeals focus on the declassification of UAP‑related material - including photographs and documentation
+      of retrieved craft and alleged non‑human bodies - and on securing immunity and protection for individuals who could
+      face repercussions for violating Non‑Disclosure Agreements to share what they know.
+    claim_type: observation
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 816c219b-6372-49f6-9579-5eeabb9a7474
+        title: Donald Trump
+        slug: donald-trump
+      - node_id: a3edcb4f-f0b5-42c4-8b04-57dc3744c380
+        title: James Fox
+        slug: james-fox
+    date: null
+    date_end: null
+    location_in_record: char:1885-2189
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3b884786-04ff-4e4b-816f-621161e9d948
+      record_title: Pressure Mounts on President Trump as UAP Disclosure Advocates Intensify Their Push
+      record_date: '2026-08-19'
+      record_reference: https://www.liberationtimes.com/home/the-push-for-ufo-disclosure-intensifies-as-pressure-mounts-on-donald-trump
+      content_hash: sha256:dc288b5d31307a5eb396b1ecc4f3e2ee1e01673ec8707bb47111173faa83e683
+      friendly_name: null
+  - claim_id: 8c56a5f5-5f9c-4544-b7b7-9ce1d4df38a1
+    claim_hash: 05abbe16fbe79f122c6c9f1acb517323949bce302b6ea1ee7b666083c697c7da
+    content: The whistleblowers appealing to Donald Trump in James Fox's videos focus on securing immunity and protection
+      for individuals who could face repercussions for violating Non-Disclosure Agreements to share what they know about UAP.
+    original_excerpt: and on securing immunity and protection for individuals who could face repercussions for violating Non‑Disclosure
+      Agreements to share what they know
+    claim_type: observation
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 816c219b-6372-49f6-9579-5eeabb9a7474
+        title: Donald Trump
+        slug: donald-trump
+      - node_id: a3edcb4f-f0b5-42c4-8b04-57dc3744c380
+        title: James Fox
+        slug: james-fox
+    date: null
+    date_end: null
+    location_in_record: char:2045-2189
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3b884786-04ff-4e4b-816f-621161e9d948
+      record_title: Pressure Mounts on President Trump as UAP Disclosure Advocates Intensify Their Push
+      record_date: '2026-08-19'
+      record_reference: https://www.liberationtimes.com/home/the-push-for-ufo-disclosure-intensifies-as-pressure-mounts-on-donald-trump
+      content_hash: sha256:dc288b5d31307a5eb396b1ecc4f3e2ee1e01673ec8707bb47111173faa83e683
+      friendly_name: null

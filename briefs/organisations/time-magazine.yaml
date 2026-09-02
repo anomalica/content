@@ -1,0 +1,183 @@
+schema: anomalica/brief/1
+brief_hash: 200c1aece1fcea5bd44f2446aebae06749d7f2bf152a92aa595e5eaa9280fa72
+page:
+  kind: entity
+  node_id: ed962f76-a0e3-4dd8-bc2e-bdc16ad760b2
+  node_type: organisation
+  title: Time Magazine
+  slug: time-magazine
+  claim_count: 3
+  claim_count_total: 3
+generated:
+  graph_version: '2026-09-01T10:10:49.863545+00:00'
+size:
+  claims: 3
+  tokens_estimated: 1173
+  sized_against: 1050000
+publication:
+  status: published
+  note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
+    transcripts are gated elsewhere.
+belonging:
+  verified: 0
+  suspect_excluded: 0
+  unreviewed: 3
+related_nodes:
+  - node_id: dbcbd772-35d5-49e1-8141-65d16c808c6d
+    title: 1994-06 Meng Zhao Guo Mt. Phoenix UFO and abduction encounter
+    node_type: event
+    slug: 1994-06-meng-zhao-guo-mt-phoenix-ufo-and-abduction-encounter
+    shared_claims: 2
+  - node_id: 5b2e59a2-43e0-4a8a-bed8-886b4d1b5117
+    title: Matthew Forney
+    node_type: person
+    slug: matthew-forney
+    shared_claims: 2
+  - node_id: 08a4f213-dfb6-49eb-b10a-c5e3c3eaad04
+    title: Meng Zhao Guo
+    node_type: person
+    slug: meng-zhao-guo
+    shared_claims: 2
+  - node_id: 627b2576-c191-49e4-8f9a-509dc530d908
+    title: USA, Texas, San Antonio
+    node_type: place
+    slug: texas-san-antonio-usa
+    shared_claims: 1
+  - node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+    title: Whitley Strieber
+    node_type: person
+    slug: whitley-strieber
+    shared_claims: 1
+claims:
+  - claim_id: feb21071-ce9c-4b41-afa3-ed14ea6138b4
+    claim_hash: f4a8c74dbe9476e13c9ed5008f6b24889a055f2745343fe6660bac33963f63f3
+    content: According to Time magazine's account, several nights after his injury Meng Zhao Guo found himself floating above
+      his bed while his wife and daughter slept below, and a three-metre-tall, six-fingered alien female with braided fur
+      on her legs straddled his waist and, after forty minutes of levitational copulation, departed through the wall leaving
+      him with a five-centimetre mark on his thigh.
+    original_excerpt: '"Meng says he found himself floating above his bed. As his wife and daughter slept below, a three-m-tall,
+      six-fingered alien with braided fur on her legs straddled his waist. After forty minutes of levitational copulation
+      she departed through the wall, leaving Meng with a five-cm mark on his thigh.'
+    claim_type: hearsay
+    attestation: third_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: named
+      origin: Meng Zhao Guo
+      relay:
+        - Time magazine
+        - Matthew Forney
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 08a4f213-dfb6-49eb-b10a-c5e3c3eaad04
+        title: Meng Zhao Guo
+        slug: meng-zhao-guo
+      - node_id: 5b2e59a2-43e0-4a8a-bed8-886b4d1b5117
+        title: Matthew Forney
+        slug: matthew-forney
+      - node_id: dbcbd772-35d5-49e1-8141-65d16c808c6d
+        title: 1994-06 Meng Zhao Guo Mt. Phoenix UFO and abduction encounter
+        slug: 1994-06-meng-zhao-guo-mt-phoenix-ufo-and-abduction-encounter
+      - node_id: ed962f76-a0e3-4dd8-bc2e-bdc16ad760b2
+        title: Time Magazine
+        slug: time-magazine
+    date: null
+    date_end: null
+    location_in_record: ch20:13413-13705
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 32687cf8-a827-40a9-b9f4-308ca4d9b2b3
+      record_title: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
+      record_date: '2005-11-14'
+      record_reference: null
+      content_hash: sha256:c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95d6ac9c3b
+      friendly_name: 2005-11-14-ebook-hair-of-the-alien-dna-and-other-forensic-evidence-for-alien
+  - claim_id: f1420623-182b-4397-9ef8-a67f9550a7cd
+    claim_hash: 3b03ac18a6e74e15803b0a69c83f06556c0bf174edb7e0c9da3994c44a37053b
+    content: According to Time magazine, Meng Zhao Guo said that a month after his alien encounter he was transported through
+      a wall into a spaceship, asked to see the woman with braided fur, was told this was impossible, but was told that in
+      sixty years on a distant planet the son of a Chinese peasant would be born.
+    original_excerpt: A month later, he says, he was transported through the wall into a spaceship. Meng asked to see the
+      woman with the braided fur. Impossible, they said. But they gave him hope. 'In 60 years, on a distant planet,' they
+      said, 'the son of a Chinese peasant will be born.'
+    claim_type: hearsay
+    attestation: third_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: named
+      origin: Meng Zhao Guo
+      relay:
+        - Time magazine
+        - Matthew Forney
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 08a4f213-dfb6-49eb-b10a-c5e3c3eaad04
+        title: Meng Zhao Guo
+        slug: meng-zhao-guo
+      - node_id: 5b2e59a2-43e0-4a8a-bed8-886b4d1b5117
+        title: Matthew Forney
+        slug: matthew-forney
+      - node_id: dbcbd772-35d5-49e1-8141-65d16c808c6d
+        title: 1994-06 Meng Zhao Guo Mt. Phoenix UFO and abduction encounter
+        slug: 1994-06-meng-zhao-guo-mt-phoenix-ufo-and-abduction-encounter
+      - node_id: ed962f76-a0e3-4dd8-bc2e-bdc16ad760b2
+        title: Time Magazine
+        slug: time-magazine
+    date: null
+    date_end: null
+    location_in_record: ch20:13712-13972
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 32687cf8-a827-40a9-b9f4-308ca4d9b2b3
+      record_title: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
+      record_date: '2005-11-14'
+      record_reference: null
+      content_hash: sha256:c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95d6ac9c3b
+      friendly_name: 2005-11-14-ebook-hair-of-the-alien-dna-and-other-forensic-evidence-for-alien
+  - claim_id: 77b99c23-792f-4e35-a21a-af063052676d
+    claim_hash: 171e8163850682e4e3c9cf4b5fb2afef611008e019218b5bafce261dc07a6ba0
+    content: Some weeks after the September 1967 Austin missing-time experience, Whitley Strieber was lying in bed at his
+      grandmother's house in San Antonio reading Time magazine when he had a frightening experience that transported him mentally
+      back to the Austin apartment parking lot.
+    original_excerpt: I was lying in bed at my grandmother's house to San Antonio, reading *Time* magazine... I was suddenly
+      transported back in time and back to Austin a few weeks earlier.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+      title: Whitley Strieber
+    provenance_chain:
+      origin_kind: speaker
+      origin: Whitley Strieber
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+        title: Whitley Strieber
+        slug: whitley-strieber
+      - node_id: 627b2576-c191-49e4-8f9a-509dc530d908
+        title: USA, Texas, San Antonio
+        slug: texas-san-antonio-usa
+      - node_id: ed962f76-a0e3-4dd8-bc2e-bdc16ad760b2
+        title: Time Magazine
+        slug: time-magazine
+    date: null
+    date_end: null
+    location_in_record: ch12:46464-46587
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: ad152768-183b-4cde-bc60-1520900ceb32
+      record_title: Communion
+      record_date: '2013-06-16'
+      record_reference: null
+      content_hash: sha256:b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4001275f9
+      friendly_name: 2013-06-16-ebook-communion

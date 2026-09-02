@@ -1,0 +1,500 @@
+schema: anomalica/brief/1
+brief_hash: eba2ef0ffd3a25526fbc797a5aa54c082ce2ae881dcd40c79e59b4750918f3dd
+page:
+  kind: entity
+  node_id: 3a677a1c-da2b-44c6-a50b-ee45fe1e5f1a
+  node_type: person
+  title: Marjorie Fish
+  slug: marjorie-fish
+  claim_count: 11
+  claim_count_total: 11
+generated:
+  graph_version: '2026-09-01T10:10:49.863545+00:00'
+size:
+  claims: 11
+  tokens_estimated: 3419
+  sized_against: 1050000
+publication:
+  status: published
+  note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
+    transcripts are gated elsewhere.
+belonging:
+  verified: 0
+  suspect_excluded: 0
+  unreviewed: 11
+related_nodes:
+  - node_id: 827a669c-493c-4ea2-a245-a47d300ef053
+    title: Betty Hill
+    node_type: person
+    slug: betty-hill
+    shared_claims: 7
+  - node_id: f1f0eba2-92c4-4a7c-9cd1-f8024d23c3df
+    title: David Saunders
+    node_type: person
+    slug: david-saunders
+    shared_claims: 2
+  - node_id: dd4a97ab-5ffd-41ec-8813-81a2c56f0ea1
+    title: Stanton Friedman
+    node_type: person
+    slug: stanton-friedman
+    shared_claims: 2
+  - node_id: 8d520f17-8e2d-4901-9eba-00aa4881268b
+    title: Zeta Reticuli star map analysis
+    node_type: project
+    slug: zeta-reticuli-star-map-analysis
+    shared_claims: 2
+  - node_id: ba818a56-7be8-41bd-8dff-132bb4a8f7e9
+    title: Barney Hill
+    node_type: person
+    slug: barney-hill
+    shared_claims: 1
+  - node_id: ede32718-5670-4e5a-97da-13b980b85676
+    title: Betty and Barney Hill abduction case
+    node_type: event
+    slug: betty-and-barney-hill-abduction-case
+    shared_claims: 1
+  - node_id: faf969ed-2df5-456c-935a-fbeaa0a3a100
+    title: Mathematica, Inc.
+    node_type: organisation
+    slug: inc-mathematica
+    shared_claims: 1
+  - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
+    title: Unidentified Flying Object (UFO)
+    node_type: topic
+    slug: unidentified-flying-object-ufo
+    shared_claims: 1
+  - node_id: 633c0373-232a-4354-9cf3-e51c23aea9bd
+    title: University of Colorado Unidentified Flying Object (UFO) Project
+    node_type: project
+    slug: university-of-colorado-unidentified-flying-object-ufo-project
+    shared_claims: 1
+  - node_id: 72d5d414-144f-47a0-9d6e-40f41dc8dd61
+    title: Walter Mitchell
+    node_type: person
+    slug: walter-mitchell
+    shared_claims: 1
+  - node_id: a670ba7e-02aa-4f8b-a201-484badfc8e1c
+    title: Zeta Reticuli
+    node_type: place
+    slug: zeta-reticuli
+    shared_claims: 1
+claims:
+  - claim_id: 794460bf-aa90-4647-8e49-a5f6361e7aa3
+    claim_hash: ecc8bd2bea8f84a2eee657daef4414e006c9d383e88d1a715b8eda5c2ec6b01d
+    content: Marjorie Fish, an Ohio schoolteacher, constructed a model of known sunlike stars and matched it to the map Betty
+      Hill described seeing inside the flying saucer.
+    original_excerpt: An Ohio schoolteacher named Marjorie Fish has now added another chapter to this great quest by constructing
+      a model of known sunlike stars and matching it to a map that Betty Hill saw inside the flying saucer.
+    claim_type: administrative
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: named
+      origin: Marjorie Fish
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 3a677a1c-da2b-44c6-a50b-ee45fe1e5f1a
+        title: Marjorie Fish
+        slug: marjorie-fish
+      - node_id: 827a669c-493c-4ea2-a245-a47d300ef053
+        title: Betty Hill
+        slug: betty-hill
+    date: null
+    date_end: null
+    location_in_record: ch5:26622-26824
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: f0690aba-c78b-47f4-bb2f-f94ea04d55ee
+      record_title: 'Messengers of Deception: UFO Contacts and Cults'
+      record_date: '0101-01-01'
+      record_reference: null
+      content_hash: sha256:0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5ac9fd3168
+      friendly_name: 0101-01-01-ebook-messengers-of-deception-ufo-contacts-and-cults
+  - claim_id: 550ccd06-4f9e-46b8-93aa-06ba5335e3a0
+    claim_hash: b9ab92eb9ef5c5289570cbc128ec1f35b64a083977f3674950a4b7ad80b7a918
+    content: Ufologists including Stanton Friedman and Dave Saunders consider Marjorie Fish's star model to indicate that
+      the saucer which abducted Betty Hill and Barney Hill came from Zeta Reticuli.
+    original_excerpt: It is this model that indicates to many authorities among the UFO believers – men like Stanton Friedman
+      and Dave Saunders – that the saucer which abducted the Hills hailed from Zeta Reticuli.
+    claim_type: opinion
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: named
+      origin: Stanton Friedman and Dave Saunders
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 3a677a1c-da2b-44c6-a50b-ee45fe1e5f1a
+        title: Marjorie Fish
+        slug: marjorie-fish
+      - node_id: 827a669c-493c-4ea2-a245-a47d300ef053
+        title: Betty Hill
+        slug: betty-hill
+      - node_id: 8d520f17-8e2d-4901-9eba-00aa4881268b
+        title: Zeta Reticuli star map analysis
+        slug: zeta-reticuli-star-map-analysis
+      - node_id: ba818a56-7be8-41bd-8dff-132bb4a8f7e9
+        title: Barney Hill
+        slug: barney-hill
+      - node_id: dd4a97ab-5ffd-41ec-8813-81a2c56f0ea1
+        title: Stanton Friedman
+        slug: stanton-friedman
+      - node_id: f1f0eba2-92c4-4a7c-9cd1-f8024d23c3df
+        title: David Saunders
+        slug: david-saunders
+    date: null
+    date_end: null
+    location_in_record: ch5:26832-27014
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: f0690aba-c78b-47f4-bb2f-f94ea04d55ee
+      record_title: 'Messengers of Deception: UFO Contacts and Cults'
+      record_date: '0101-01-01'
+      record_reference: null
+      content_hash: sha256:0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5ac9fd3168
+      friendly_name: 0101-01-01-ebook-messengers-of-deception-ufo-contacts-and-cults
+  - claim_id: 28467247-0a50-42e7-b4d4-de1ab7d36f1a
+    claim_hash: fa0373dfd98bb8a01be27954ef6f906b98869f51c201376fc7d0260d338f8835
+    content: Marjorie Fish visited Betty Hill in 1969 to get more information about the star map.
+    original_excerpt: Marjorie Fish visited Betty in 1969 to get more information about the map.
+    claim_type: administrative
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: named
+      origin: Marjorie Fish
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 3a677a1c-da2b-44c6-a50b-ee45fe1e5f1a
+        title: Marjorie Fish
+        slug: marjorie-fish
+      - node_id: 827a669c-493c-4ea2-a245-a47d300ef053
+        title: Betty Hill
+        slug: betty-hill
+    date: '1969-01-01'
+    date_end: null
+    location_in_record: ch5:27025-27095
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: f0690aba-c78b-47f4-bb2f-f94ea04d55ee
+      record_title: 'Messengers of Deception: UFO Contacts and Cults'
+      record_date: '0101-01-01'
+      record_reference: null
+      content_hash: sha256:0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5ac9fd3168
+      friendly_name: 0101-01-01-ebook-messengers-of-deception-ufo-contacts-and-cults
+  - claim_id: c806b5be-3579-4cfc-ac4d-8a6af3a0458b
+    claim_hash: d7db47658ab7f21d516fabbef42520b24f63819f1cf7b2105a1a78369395ac81
+    content: Betty Hill told Marjorie Fish that she drew the star map under post-hypnotic suggestion in 1964.
+    original_excerpt: Betty told her that she drew the map under post-hypnotic suggestion in 1964.
+    claim_type: testimony
+    attestation: second_hand
+    speaker:
+      node_id: 827a669c-493c-4ea2-a245-a47d300ef053
+      title: Betty Hill
+    provenance_chain:
+      origin_kind: named
+      origin: Betty Hill
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 3a677a1c-da2b-44c6-a50b-ee45fe1e5f1a
+        title: Marjorie Fish
+        slug: marjorie-fish
+      - node_id: 827a669c-493c-4ea2-a245-a47d300ef053
+        title: Betty Hill
+        slug: betty-hill
+    date: '1964-01-01'
+    date_end: null
+    location_in_record: ch5:27100-27171
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: f0690aba-c78b-47f4-bb2f-f94ea04d55ee
+      record_title: 'Messengers of Deception: UFO Contacts and Cults'
+      record_date: '0101-01-01'
+      record_reference: null
+      content_hash: sha256:0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5ac9fd3168
+      friendly_name: 0101-01-01-ebook-messengers-of-deception-ufo-contacts-and-cults
+  - claim_id: 70dcb7d6-f5c3-4e55-aee7-02584b5a9d8f
+    claim_hash: 6cff1994a4d8495587333fa321fd1f90955ebcbce5f5051eaf0bb610c82584f1
+    content: Marjorie Fish investigated the star pattern by compiling a list of all known stars within about 55 light years
+      of the Sun that are good candidates for supporting life according to accepted cosmological theory, stars that are not
+      too hot or too cold, do not vary in brightness, and rotate slowly.
+    original_excerpt: Ms. Fish investigated this pattern by compiling a list of all the known stars within 55 light years
+      of the Sun that are good candidates for supporting life, according to currently accepted cosmological theory. These
+      are stars that are not too hot or too cold, that do not vary in brightness, and that rotate slowly, the slow rotation
+      being necessary if the stars are to have planets around them.
+    claim_type: observation
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: named
+      origin: Marjorie Fish
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 3a677a1c-da2b-44c6-a50b-ee45fe1e5f1a
+        title: Marjorie Fish
+        slug: marjorie-fish
+    date: null
+    date_end: null
+    location_in_record: ch5:27589-27979
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: f0690aba-c78b-47f4-bb2f-f94ea04d55ee
+      record_title: 'Messengers of Deception: UFO Contacts and Cults'
+      record_date: '0101-01-01'
+      record_reference: null
+      content_hash: sha256:0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5ac9fd3168
+      friendly_name: 0101-01-01-ebook-messengers-of-deception-ufo-contacts-and-cults
+  - claim_id: 473ee8f2-f99d-44bd-b232-e199de56217f
+    claim_hash: b3693aae9f7a599281bb6ef0de7950c817e010277835fa72538ef8de705faab1
+    content: Marjorie Fish's list of candidate sunlike stars within 55 light years of the Sun contained 46 stars.
+    original_excerpt: There are 46 such stars.
+    claim_type: measurement
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: named
+      origin: Marjorie Fish
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 3a677a1c-da2b-44c6-a50b-ee45fe1e5f1a
+        title: Marjorie Fish
+        slug: marjorie-fish
+    date: null
+    date_end: null
+    location_in_record: ch5:27985-28003
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: f0690aba-c78b-47f4-bb2f-f94ea04d55ee
+      record_title: 'Messengers of Deception: UFO Contacts and Cults'
+      record_date: '0101-01-01'
+      record_reference: null
+      content_hash: sha256:0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5ac9fd3168
+      friendly_name: 0101-01-01-ebook-messengers-of-deception-ufo-contacts-and-cults
+  - claim_id: 0444f81f-b425-4669-8441-f4cbdf2f8791
+    claim_hash: e753d0c137177828dfbf9089d3f42ee9f3f45cad55b080ef09e4b4ffd11be2c4
+    content: Marjorie Fish built models of the positions of the 46 candidate stars using beads dangling on threads to look
+      for suspicious alignments, and exhibited a configuration of 16 stars very similar to the Hill map when seen from a particular
+      viewing angle.
+    original_excerpt: Marjorie Fish went on to build models of the positions of these stars by using beads dangling on threads
+      and looked for “suspicious alignments.” Finally she exhibited a configuration of 16 mars that was very similar to the
+      Hill map when seen from a particular viewing angle.
+    claim_type: observation
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: named
+      origin: Marjorie Fish
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 3a677a1c-da2b-44c6-a50b-ee45fe1e5f1a
+        title: Marjorie Fish
+        slug: marjorie-fish
+      - node_id: 827a669c-493c-4ea2-a245-a47d300ef053
+        title: Betty Hill
+        slug: betty-hill
+    date: null
+    date_end: null
+    location_in_record: ch5:28011-28279
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: f0690aba-c78b-47f4-bb2f-f94ea04d55ee
+      record_title: 'Messengers of Deception: UFO Contacts and Cults'
+      record_date: '0101-01-01'
+      record_reference: null
+      content_hash: sha256:0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5ac9fd3168
+      friendly_name: 0101-01-01-ebook-messengers-of-deception-ufo-contacts-and-cults
+  - claim_id: 67d41ef8-059f-4ef2-8d78-a1befeac57b2
+    claim_hash: 4edbdb764c18d368240f9a27a1058aeec56169d2c98199090a261ca7a881d835
+    content: Walter Mitchell, an astronomy professor at Ohio State, recreated Marjorie Fish's model using a computer and stated
+      that he was "impressed."
+    original_excerpt: An astronomy professor at Ohio State, Walter Mitchell, has recreated the model by using a computer and
+      has stated that he was “impressed.”
+    claim_type: opinion
+    attestation: second_hand
+    speaker:
+      node_id: 72d5d414-144f-47a0-9d6e-40f41dc8dd61
+      title: Walter Mitchell
+    provenance_chain:
+      origin_kind: named
+      origin: Walter Mitchell
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 3a677a1c-da2b-44c6-a50b-ee45fe1e5f1a
+        title: Marjorie Fish
+        slug: marjorie-fish
+      - node_id: 72d5d414-144f-47a0-9d6e-40f41dc8dd61
+        title: Walter Mitchell
+        slug: walter-mitchell
+    date: null
+    date_end: null
+    location_in_record: ch5:28286-28413
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: f0690aba-c78b-47f4-bb2f-f94ea04d55ee
+      record_title: 'Messengers of Deception: UFO Contacts and Cults'
+      record_date: '0101-01-01'
+      record_reference: null
+      content_hash: sha256:0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5ac9fd3168
+      friendly_name: 0101-01-01-ebook-messengers-of-deception-ufo-contacts-and-cults
+  - claim_id: 7c754e17-777b-4bdb-ba59-1cf114d78d32
+    claim_hash: 8aeeb2e0bdc5604d41fa8e94c1e3d2db11343fd323da12f2feb4598ff50401f1
+    content: Dave Saunders, a psychologist formerly on the staff of the Condon Committee and then working for Mathematica,
+      Inc. in New Jersey, said he could find no major point to quibble with in Marjorie Fish's interpretation of the Betty
+      Hill map.
+    original_excerpt: 'David Saunders, a psychologist formerly on the staff of the Condon Committee, now working for Mathematica,
+      Inc., in New Jersey, added: “I can find no major point to quibble with in Marjorie Fish’s interpretation of the Betty
+      Hill map.”'
+    claim_type: opinion
+    attestation: second_hand
+    speaker:
+      node_id: f1f0eba2-92c4-4a7c-9cd1-f8024d23c3df
+      title: David Saunders
+    provenance_chain:
+      origin_kind: named
+      origin: Dave Saunders
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 3a677a1c-da2b-44c6-a50b-ee45fe1e5f1a
+        title: Marjorie Fish
+        slug: marjorie-fish
+      - node_id: 633c0373-232a-4354-9cf3-e51c23aea9bd
+        title: University of Colorado Unidentified Flying Object (UFO) Project
+        slug: university-of-colorado-unidentified-flying-object-ufo-project
+      - node_id: 827a669c-493c-4ea2-a245-a47d300ef053
+        title: Betty Hill
+        slug: betty-hill
+      - node_id: f1f0eba2-92c4-4a7c-9cd1-f8024d23c3df
+        title: David Saunders
+        slug: david-saunders
+      - node_id: faf969ed-2df5-456c-935a-fbeaa0a3a100
+        title: Mathematica, Inc.
+        slug: inc-mathematica
+    date: null
+    date_end: null
+    location_in_record: ch5:28425-28655
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: f0690aba-c78b-47f4-bb2f-f94ea04d55ee
+      record_title: 'Messengers of Deception: UFO Contacts and Cults'
+      record_date: '0101-01-01'
+      record_reference: null
+      content_hash: sha256:0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5ac9fd3168
+      friendly_name: 0101-01-01-ebook-messengers-of-deception-ufo-contacts-and-cults
+  - claim_id: bc2aaa16-9e7c-4ecd-a07b-62ac03a488f6
+    claim_hash: 2cd5f67a7c7b601886dc5baca22152ffe2779b278741782ca1018e86eed42ba5
+    content: Stanton Friedman and others gave lectures around the country showing slides of Marjorie Fish's model and the
+      original Hill map, implying that UFOs were real spacecraft originating on Zeta Reticuli.
+    original_excerpt: In many lectures around the country, Stanton Friedman and others have shown slides of the model and
+      the original map, and have impressed audiences with the resemblance, implying that UFOs were real spacecraft originating
+      on Zeta Reticuli.
+    claim_type: opinion
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: named
+      origin: Stanton Friedman
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 3a677a1c-da2b-44c6-a50b-ee45fe1e5f1a
+        title: Marjorie Fish
+        slug: marjorie-fish
+      - node_id: 8d520f17-8e2d-4901-9eba-00aa4881268b
+        title: Zeta Reticuli star map analysis
+        slug: zeta-reticuli-star-map-analysis
+      - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
+        title: Unidentified Flying Object (UFO)
+        slug: unidentified-flying-object-ufo
+      - node_id: dd4a97ab-5ffd-41ec-8813-81a2c56f0ea1
+        title: Stanton Friedman
+        slug: stanton-friedman
+    date: null
+    date_end: null
+    location_in_record: ch5:28661-28890
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: f0690aba-c78b-47f4-bb2f-f94ea04d55ee
+      record_title: 'Messengers of Deception: UFO Contacts and Cults'
+      record_date: '0101-01-01'
+      record_reference: null
+      content_hash: sha256:0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5ac9fd3168
+      friendly_name: 0101-01-01-ebook-messengers-of-deception-ufo-contacts-and-cults
+  - claim_id: f92d021d-ac9e-488e-9cae-1173692517f8
+    claim_hash: f7e7c07c37ac24d12cfeb6f45b7392bdb4fd305e43262b3eb7ae0cdaddfaf509
+    content: Marjorie Fish, an amateur astronomer, took Betty Hill's star map seen during her abduction and correlated it
+      to Zeta Reticuli.
+    original_excerpt: Marjorie Fish, this amateur astronomer, took Betty Hill's star map that she saw during her abduction
+      and was able to correlate it to Zeta Reticuli.
+    claim_type: hearsay
+    attestation: null
+    speaker:
+      node_id: 0aad9179-33c1-4383-aab7-5eb12429386e
+      title: Erik Nanstiel
+    provenance_chain: null
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 3a677a1c-da2b-44c6-a50b-ee45fe1e5f1a
+        title: Marjorie Fish
+        slug: marjorie-fish
+      - node_id: 827a669c-493c-4ea2-a245-a47d300ef053
+        title: Betty Hill
+        slug: betty-hill
+      - node_id: a670ba7e-02aa-4f8b-a201-484badfc8e1c
+        title: Zeta Reticuli
+        slug: zeta-reticuli
+      - node_id: ede32718-5670-4e5a-97da-13b980b85676
+        title: Betty and Barney Hill abduction case
+        slug: betty-and-barney-hill-abduction-case
+    date: null
+    date_end: null
+    location_in_record: 01:03:32.6-01:03:53.2
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e78cf776-77b8-4b64-85e2-1e19d2787492
+      record_title: '"Skinny Bob is Real" – Lifelong Abductee Reveals Everything - Erik Nanstiel | DEBRIEFED ep. 85'
+      record_date: '2026-04-24'
+      record_reference: https://www.youtube.com/watch?v=RFI4RWzH3ik
+      content_hash: sha256:f64f70bd2f82bddc453c0c0ecb5f3923dc71758c8182587687552d8c74149b52
+      friendly_name: 2026-04-24-video-skinny-bob-is-real-lifelong-abductee-reveals-everything.v2

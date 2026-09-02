@@ -1,0 +1,626 @@
+schema: anomalica/brief/1
+brief_hash: 5723ce247c42df7aaa23717403c1c11f9651f0aed507ae2bab27425f7ba6da4e
+page:
+  kind: entity
+  node_id: b65ca672-cb9e-4a57-a0fb-56ede7e118a4
+  node_type: organisation
+  title: Los Alamos National Laboratory
+  slug: los-alamos-national-laboratory
+  claim_count: 13
+  claim_count_total: 13
+generated:
+  graph_version: '2026-09-01T10:10:49.863545+00:00'
+size:
+  claims: 13
+  tokens_estimated: 3932
+  sized_against: 1050000
+publication:
+  status: published
+  note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
+    transcripts are gated elsewhere.
+belonging:
+  verified: 0
+  suspect_excluded: 0
+  unreviewed: 13
+related_nodes:
+  - node_id: c6cace21-b8ae-4a11-b511-9a911c109214
+    title: Los Alamos 1950 UAP Sighting
+    node_type: event
+    slug: los-alamos-1950-uap-sighting
+    shared_claims: 3
+  - node_id: 2ac310ed-0be4-43bd-a103-64143b4d20a8
+    title: Jeffrey Epstein
+    node_type: person
+    slug: jeffrey-epstein
+    shared_claims: 2
+  - node_id: 6b5cea3e-8880-46eb-909e-19cba47e9b0b
+    title: Oak Ridge National Laboratory
+    node_type: organisation
+    slug: oak-ridge-national-laboratory
+    shared_claims: 2
+  - node_id: 25b424e6-dc71-4394-b364-20668adc6d28
+    title: Steve Bannon
+    node_type: person
+    slug: steve-bannon
+    shared_claims: 2
+  - node_id: 99b62ee0-a336-4919-9804-070632a0e1a3
+    title: USA, New Mexico, Los Alamos
+    node_type: place
+    slug: new-mexico-los-alamos-usa
+    shared_claims: 2
+  - node_id: eb22a102-29d0-46a3-b27d-a49639b9b86f
+    title: USA, New Mexico, Zorro Ranch
+    node_type: place
+    slug: new-mexico-zorro-ranch-usa
+    shared_claims: 2
+  - node_id: 2cae35cf-6627-4487-a101-93d79f1bd786
+    title: 1948 Roswell UFO incident
+    node_type: event
+    slug: 1948-roswell-ufo-incident
+    shared_claims: 1
+  - node_id: d539c9a5-3791-43e0-a299-bc4894b3bb6b
+    title: 1952 Central Intelligence Agency (CIA) document on flying disc sightings
+    node_type: document
+    slug: 1952-central-intelligence-agency-cia-document-on-flying-disc-sightings
+    shared_claims: 1
+  - node_id: 7521d1ab-75a8-4417-9697-20deefc01873
+    title: 1952 Los Alamos National Laboratory UAP sighting
+    node_type: event
+    slug: 1952-los-alamos-national-laboratory-uap-sighting
+    shared_claims: 1
+  - node_id: b0c0fde0-37e6-4632-8d64-a95091f03a49
+    title: Bob Lazar
+    node_type: person
+    slug: bob-lazar
+    shared_claims: 1
+  - node_id: e2b249d8-a643-4ab9-86a0-baf99bcb20e2
+    title: Donald Kerr
+    node_type: person
+    slug: donald-kerr
+    shared_claims: 1
+  - node_id: 6712e8fa-3b86-4982-a102-e2d38e0b29d6
+    title: George Knapp
+    node_type: person
+    slug: george-knapp
+    shared_claims: 1
+  - node_id: a2e017b2-5046-48ba-b0be-79edcd94fb37
+    title: Lawrence Livermore National Laboratory
+    node_type: organisation
+    slug: lawrence-livermore-national-laboratory
+    shared_claims: 1
+  - node_id: de8f0271-d2e0-4ea3-8bbb-50ca9791a723
+    title: Marty Pilch
+    node_type: person
+    slug: marty-pilch
+    shared_claims: 1
+  - node_id: b9105415-f61e-4dcb-b873-c2c08a5629cd
+    title: National Institute for Discovery Science
+    node_type: organisation
+    slug: national-institute-for-discovery-science
+    shared_claims: 1
+  - node_id: 575753c5-cafa-48cf-9529-22dcc6e08ffe
+    title: Sandia National Laboratories
+    node_type: organisation
+    slug: sandia-national-laboratories
+    shared_claims: 1
+  - node_id: 9bf92931-085a-4b8b-92fb-d9044a99da75
+    title: Scott Ramsey
+    node_type: person
+    slug: scott-ramsey
+    shared_claims: 1
+  - node_id: 0b47cac5-b9cc-44ea-a2aa-5cbd39a0d21a
+    title: Unidentified Aerial Phenomena (UAP) Gerb
+    node_type: person
+    slug: unidentified-aerial-phenomena-uap-gerb
+    shared_claims: 1
+claims:
+  - claim_id: a2578240-b430-4934-ae53-5e9e9911ac02
+    claim_hash: 3d529f3e6531e86f319e8ea7d87ce8dcfc261d5c7c63eff90666b95bcf92b597
+    content: George Knapp rebutted official denials that Bob Lazar ever worked at Los Alamos National Laboratory in New Mexico,
+      citing an old news story placing Lazar there and the fact that Lazar sneaked Knapp into the secure facility and was
+      familiar with the site and its workers.
+    original_excerpt: Journalist George Knapp has convincingly rebutted official denials that Lazar ever worked at Los Alamos
+      National Laboratory in New Mexico; not only is there an old news story placing him there, Lazar sneaked Knapp into the
+      secure facility and Lazar was clearly very familiar with the site and knew workers inside.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 6712e8fa-3b86-4982-a102-e2d38e0b29d6
+      title: George Knapp
+    provenance_chain:
+      origin_kind: speaker
+      origin: George Knapp
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 6712e8fa-3b86-4982-a102-e2d38e0b29d6
+        title: George Knapp
+        slug: george-knapp
+      - node_id: 99b62ee0-a336-4919-9804-070632a0e1a3
+        title: USA, New Mexico, Los Alamos
+        slug: new-mexico-los-alamos-usa
+      - node_id: b0c0fde0-37e6-4632-8d64-a95091f03a49
+        title: Bob Lazar
+        slug: bob-lazar
+      - node_id: b65ca672-cb9e-4a57-a0fb-56ede7e118a4
+        title: Los Alamos National Laboratory
+        slug: los-alamos-national-laboratory
+    date: null
+    date_end: null
+    location_in_record: ch13:23810-24116
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 05939327-0016-4175-9800-ae3e66ea709d
+    claim_hash: 31b50c56de9126515970ccdae7e08eeb78806b990410a8e47f1952abc0d752cd
+    content: The 1952 CIA document on flying disc sightings acknowledged unexplained sightings over the Los Alamos National
+      Laboratory and Oak Ridge National Laboratory nuclear weapons laboratories at a time when the background radiation count
+      had risen inexplicably.
+    original_excerpt: it also acknowledged unexplained sightings over the highly sensitive Los Alamos and Oak Ridge nuclear
+      weapons laboratories 'at a time when the background radiation count had risen inexplicably.'
+    claim_type: administrative
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: document
+      origin: 1952 CIA document on flying disc sightings
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 6b5cea3e-8880-46eb-909e-19cba47e9b0b
+        title: Oak Ridge National Laboratory
+        slug: oak-ridge-national-laboratory
+      - node_id: b65ca672-cb9e-4a57-a0fb-56ede7e118a4
+        title: Los Alamos National Laboratory
+        slug: los-alamos-national-laboratory
+      - node_id: d539c9a5-3791-43e0-a299-bc4894b3bb6b
+        title: 1952 Central Intelligence Agency (CIA) document on flying disc sightings
+        slug: 1952-central-intelligence-agency-cia-document-on-flying-disc-sightings
+    date: '1952'
+    date_end: null
+    location_in_record: ch8:10073-10253
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 2530694a-531e-41fb-b88a-8dbfe19e5cb1
+    claim_hash: 18e27d1fd1fbb9e98bbf8a5fffa89246e62d9d799f23a3e1eb232738a0738ec0
+    content: In April 1950, fifteen people at the Los Alamos National Laboratory watched an object hovering at approximately
+      610 metres for 20 minutes.
+    original_excerpt: In April 1950, 15 people at the Los Alamos nuclear weapons laboratory watched an object hovering at
+      2000 feet for 20 minutes
+    claim_type: observation
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: witnesses at Los Alamos National Laboratory
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: b65ca672-cb9e-4a57-a0fb-56ede7e118a4
+        title: Los Alamos National Laboratory
+        slug: los-alamos-national-laboratory
+      - node_id: c6cace21-b8ae-4a11-b511-9a911c109214
+        title: Los Alamos 1950 UAP Sighting
+        slug: los-alamos-1950-uap-sighting
+    date: 1950-04
+    date_end: null
+    location_in_record: ch8:5064-5181
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 1b971d84-fed6-4e53-8cf2-6fe39c437273
+    claim_hash: 75b3e4ee89c284a9ed494cdb87afd8e6d72a121c43872d33a7f3a69b20247eb2
+    content: Seen through a telescope, the object observed at Los Alamos National Laboratory in April 1950 was described as
+      flat, roughly circular, and about 2.7 metres in diameter.
+    original_excerpt: Seen through a telescope, the metallic-looking object was described as flat, roughly circular and about
+      nine feet (2.7 metres) in diameter
+    claim_type: observation
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: witnesses at Los Alamos National Laboratory
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: b65ca672-cb9e-4a57-a0fb-56ede7e118a4
+        title: Los Alamos National Laboratory
+        slug: los-alamos-national-laboratory
+      - node_id: c6cace21-b8ae-4a11-b511-9a911c109214
+        title: Los Alamos 1950 UAP Sighting
+        slug: los-alamos-1950-uap-sighting
+    date: 1950-04
+    date_end: null
+    location_in_record: ch8:5190-5320
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 3a3fca08-7cff-4f04-87a7-4867b9666992
+    claim_hash: 810157477e2e0d1f96cf837f955d49b3ba5102ca6a721e8f1224c3c198ddb128
+    content: A scientist who watched the April 1950 Los Alamos National Laboratory object said it flew faster than any known
+      conventional aircraft.
+    original_excerpt: The scientist watching it said it flew 'faster than any known conventional aircraft.'
+    claim_type: testimony
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: anonymous
+      origin: an unnamed scientist who witnessed the object
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: b65ca672-cb9e-4a57-a0fb-56ede7e118a4
+        title: Los Alamos National Laboratory
+        slug: los-alamos-national-laboratory
+      - node_id: c6cace21-b8ae-4a11-b511-9a911c109214
+        title: Los Alamos 1950 UAP Sighting
+        slug: los-alamos-1950-uap-sighting
+    date: 1950-04
+    date_end: null
+    location_in_record: ch8:5330-5431
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 42bb0528-d7bb-4630-bd5b-1315dad45fb0
+    claim_hash: dadb634fa704b9ee7f2b442b8cb8edc7306412874f376fced4e8366e1737ff9b
+    content: In July 1952, multiple witnesses at Los Alamos National Laboratory saw a white egg-shaped object, larger than
+      a jet, that was at one stage motionless in the sky and then moving extremely fast.
+    original_excerpt: In July 1952, multiple witnesses at Los Alamos saw a white egg-shaped object, larger than a jet, that
+      was at one stage motionless in the sky and then moving extremely fast
+    claim_type: observation
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: witnesses at Los Alamos National Laboratory
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 7521d1ab-75a8-4417-9697-20deefc01873
+        title: 1952 Los Alamos National Laboratory UAP sighting
+        slug: 1952-los-alamos-national-laboratory-uap-sighting
+      - node_id: b65ca672-cb9e-4a57-a0fb-56ede7e118a4
+        title: Los Alamos National Laboratory
+        slug: los-alamos-national-laboratory
+    date: 1952-07
+    date_end: null
+    location_in_record: ch8:5443-5610
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 27e649fd-5bc8-43ab-a090-c86ae3e3dc5d
+    claim_hash: cfdf09e3698569b73c3e4c952d74062fc3aa9dc1749c40f28f31c10b2a5e10c3
+    content: Scott Ramsey's opinion is that the recovered craft from the 1948 Roswell incident was taken to Los Alamos National
+      Laboratory.
+    original_excerpt: They took it to the Los Alamos nuclear laboratory. That's my opinion.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 9bf92931-085a-4b8b-92fb-d9044a99da75
+      title: Scott Ramsey
+    provenance_chain:
+      origin_kind: speaker
+      origin: Scott Ramsey
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 2cae35cf-6627-4487-a101-93d79f1bd786
+        title: 1948 Roswell UFO incident
+        slug: 1948-roswell-ufo-incident
+      - node_id: 9bf92931-085a-4b8b-92fb-d9044a99da75
+        title: Scott Ramsey
+        slug: scott-ramsey
+      - node_id: b65ca672-cb9e-4a57-a0fb-56ede7e118a4
+        title: Los Alamos National Laboratory
+        slug: los-alamos-national-laboratory
+    date: '1948-03-25'
+    date_end: null
+    location_in_record: 01:01:54.8-01:01:58.7
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 15beeb8e-9f96-4d4b-be24-5ed581d4d43a
+      record_title: The UFO Phenomenon | Full Documentary 2021 | 7NEWS Spotlight
+      record_date: '2021-09-06'
+      record_reference: https://www.youtube.com/watch?v=sm6AL5lA4Zc
+      content_hash: sha256:957f730c1d53cbfc4f87d1db882a409506030e2e49338b530c4ab643a7603660
+      friendly_name: 2021-09-06-video-the-ufo-phenomenon-full-documentary-2021-7news-spotlight.v2
+  - claim_id: 6e405eb9-4e1d-487b-9294-e6bb669ec1fd
+    claim_hash: d2321ea3fdd8a5045f121fa9737c5da841b0113907fe814d6b32ea5cb92482f4
+    content: Historically, Sandia National Laboratories, Lawrence Livermore National Laboratory, Los Alamos National Laboratory,
+      and Oak Ridge National Laboratory have been extremely culpable in UAP-related retrieval operations, especially right
+      after World War II.
+    original_excerpt: historically, Sandia, Lawrence Livermore, Los Alamos, and Oak Ridge have been extremely culpable in
+      these operations, especially right after World War II
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 78ca02a3-3c5f-4295-9c7b-3d547643603f
+      title: UAP Gerb
+    provenance_chain:
+      origin_kind: speaker
+      origin: UAP Gerb
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 575753c5-cafa-48cf-9529-22dcc6e08ffe
+        title: Sandia National Laboratories
+        slug: sandia-national-laboratories
+      - node_id: 6b5cea3e-8880-46eb-909e-19cba47e9b0b
+        title: Oak Ridge National Laboratory
+        slug: oak-ridge-national-laboratory
+      - node_id: a2e017b2-5046-48ba-b0be-79edcd94fb37
+        title: Lawrence Livermore National Laboratory
+        slug: lawrence-livermore-national-laboratory
+      - node_id: b65ca672-cb9e-4a57-a0fb-56ede7e118a4
+        title: Los Alamos National Laboratory
+        slug: los-alamos-national-laboratory
+    date: null
+    date_end: null
+    location_in_record: 00:56:21.0-00:56:29.2
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 8c1d10dd-26ad-481a-9699-761ecf181743
+      record_title: 'Episode 73: Science vs. Secrecy'
+      record_date: '2026-06-30'
+      record_reference: https://www.youtube.com/watch?v=tZHuAZpLdFw
+      content_hash: sha256:ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230a948eb3d
+      friendly_name: null
+  - claim_id: de69b098-63b7-4799-8628-0a54ce2fcaea
+    claim_hash: 3ae7b7004c499a5f82d6973d96a5f1453007db43a679c1a8a83c5b571e93c83e
+    content: Jeffrey Epstein set up Zorro Ranch in New Mexico in order to be near retiring Los Alamos National Laboratory
+      physicists, according to Jesse Michels's account of Epstein's messages to Steve Bannon.
+    original_excerpt: he says tells Bannon that he's you know decides to set up Zorro Ranch because Los Alamos physicists
+      are retiring uh you know in New Mexico and so he wants to be you know have proximity to them
+    claim_type: hearsay
+    attestation: third_hand
+    speaker:
+      node_id: 079d4381-4273-418b-bc9a-468623f95c6e
+      title: Jesse Mitchells
+    provenance_chain:
+      origin_kind: named
+      origin: Jeffrey Epstein
+      relay:
+        - emails/messages to Steve Bannon reported in media
+        - Jesse Michels
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 25b424e6-dc71-4394-b364-20668adc6d28
+        title: Steve Bannon
+        slug: steve-bannon
+      - node_id: 2ac310ed-0be4-43bd-a103-64143b4d20a8
+        title: Jeffrey Epstein
+        slug: jeffrey-epstein
+      - node_id: b65ca672-cb9e-4a57-a0fb-56ede7e118a4
+        title: Los Alamos National Laboratory
+        slug: los-alamos-national-laboratory
+      - node_id: eb22a102-29d0-46a3-b27d-a49639b9b86f
+        title: USA, New Mexico, Zorro Ranch
+        slug: new-mexico-zorro-ranch-usa
+    date: null
+    date_end: null
+    location_in_record: 01:46:33.3-01:46:44.6
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 64b84f95-238c-4ab7-a678-bee55f985b14
+      record_title: The UFO Cover-Up Leads to One Secret Society — and One Final Event
+      record_date: '2026-07-14'
+      record_reference: https://www.youtube.com/watch?v=kccrkCGGzX4
+      content_hash: sha256:d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7b5a1b98d
+      friendly_name: null
+  - claim_id: c40263b5-5b12-4e1a-9035-44319ff9f5bd
+    claim_hash: 0f7ae78933bed4c2c3f1d54822655acfac1b1c234aa14ac3678dc912f8892980
+    content: In a recorded conversation with Steve Bannon, Jeffrey Epstein explained that he sited Zorro Ranch where he did
+      in New Mexico because retired Los Alamos physicists were in the proximity and he wanted to have conversations with them.
+    original_excerpt: They're talking and he goes, why'd you, you know, put Zorro Ranch where it is in New Mexico? And he
+      starts going on about retired Los Alamos physicists being in the proximity and him wanting to have conversations with
+      these guys.
+    claim_type: hearsay
+    attestation: second_hand
+    speaker:
+      node_id: 079d4381-4273-418b-bc9a-468623f95c6e
+      title: Jesse Mitchells
+    provenance_chain:
+      origin_kind: named
+      origin: Jeffrey Epstein, in a recording with Steve Bannon
+      relay:
+        - Jesse Michels
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 25b424e6-dc71-4394-b364-20668adc6d28
+        title: Steve Bannon
+        slug: steve-bannon
+      - node_id: 2ac310ed-0be4-43bd-a103-64143b4d20a8
+        title: Jeffrey Epstein
+        slug: jeffrey-epstein
+      - node_id: 99b62ee0-a336-4919-9804-070632a0e1a3
+        title: USA, New Mexico, Los Alamos
+        slug: new-mexico-los-alamos-usa
+      - node_id: b65ca672-cb9e-4a57-a0fb-56ede7e118a4
+        title: Los Alamos National Laboratory
+        slug: los-alamos-national-laboratory
+      - node_id: eb22a102-29d0-46a3-b27d-a49639b9b86f
+        title: USA, New Mexico, Zorro Ranch
+        slug: new-mexico-zorro-ranch-usa
+    date: null
+    date_end: null
+    location_in_record: 00:45:28.5-00:45:43.4
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: dc9d8bc8-9c1f-46b4-9b89-8d86b6b08e1d
+      record_title: Jesse Michels, UAPGerb & Chris Ramsay - Flying Saucer Diner
+      record_date: '2026-07-17'
+      record_reference: https://www.youtube.com/watch?v=HFLBDi87888
+      content_hash: sha256:7b2e272d7c82fdda745ee0354d7c9cc4b0d5ba5506015ca27edd9169a768b262
+      friendly_name: null
+  - claim_id: eef457c2-a15b-42a2-b1e2-5000e740aa52
+    claim_hash: 754dd9e19524c735a57e00d6ec8f1171a73e0bbb4e9dcab3961f6e9749781882
+    content: Donald Kerr was director of Los Alamos National Laboratory.
+    original_excerpt: Director of Los Alamos. Like spook, spook, spook.
+    claim_type: administrative
+    attestation: first_hand
+    speaker:
+      node_id: 0b47cac5-b9cc-44ea-a2aa-5cbd39a0d21a
+      title: Unidentified Aerial Phenomena (UAP) Gerb
+    provenance_chain:
+      origin_kind: speaker
+      origin: UAP Gerb
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 0b47cac5-b9cc-44ea-a2aa-5cbd39a0d21a
+        title: Unidentified Aerial Phenomena (UAP) Gerb
+        slug: unidentified-aerial-phenomena-uap-gerb
+      - node_id: b65ca672-cb9e-4a57-a0fb-56ede7e118a4
+        title: Los Alamos National Laboratory
+        slug: los-alamos-national-laboratory
+      - node_id: e2b249d8-a643-4ab9-86a0-baf99bcb20e2
+        title: Donald Kerr
+        slug: donald-kerr
+    date: null
+    date_end: null
+    location_in_record: 01:21:36.4-01:21:39.4
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: dc9d8bc8-9c1f-46b4-9b89-8d86b6b08e1d
+      record_title: Jesse Michels, UAPGerb & Chris Ramsay - Flying Saucer Diner
+      record_date: '2026-07-17'
+      record_reference: https://www.youtube.com/watch?v=HFLBDi87888
+      content_hash: sha256:7b2e272d7c82fdda745ee0354d7c9cc4b0d5ba5506015ca27edd9169a768b262
+      friendly_name: null
+  - claim_id: 013c010e-8977-4950-b27a-1c2c92e032fa
+    claim_hash: 7d7a308a999c4cd7fdd6edf06b1ad5341d70bbc903be9a28153b4e45ab13de7a
+    content: The National Institute for Discovery Science (NIDS) meetings included people from government agencies, military
+      people, researchers and people who worked at Los Alamos National Laboratory.
+    original_excerpt: we had world-class people in that room. We had people from agencies. We had military people. We had
+      terrific researchers, people that worked at Los Alamos.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 0d4dfba6-a53b-4f23-a2ad-e4c9bea44076
+      title: Robert Bigelow
+    provenance_chain:
+      origin_kind: speaker
+      origin: Robert Bigelow
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: b65ca672-cb9e-4a57-a0fb-56ede7e118a4
+        title: Los Alamos National Laboratory
+        slug: los-alamos-national-laboratory
+      - node_id: b9105415-f61e-4dcb-b873-c2c08a5629cd
+        title: National Institute for Discovery Science
+        slug: national-institute-for-discovery-science
+    date: null
+    date_end: null
+    location_in_record: 00:05:19.5-00:05:29.6
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 5de4e296-4206-45f6-aa56-c3b8efb5c9e2
+      record_title: The Evolution of AAWSAP | Bigelow Podcast, Ep. 2
+      record_date: '2026-08-11'
+      record_reference: https://www.youtube.com/watch?v=hz7jHEgYzQw
+      content_hash: sha256:1aa9d864c5a4bb930164c278d9624c6bc0f84278ea4b5e57594fae9e21e90858
+      friendly_name: null
+  - claim_id: 2ff467b7-39e4-4a9e-9277-aa37f46a4436
+    claim_hash: 699739203d109dca64d096e80a3a1f47308ba10000cd16027730e4efa1cb250f
+    content: Marty Pilch and others who were directors of Los Alamos National Laboratory attended the meetings Robert Bigelow
+      describes.
+    original_excerpt: so uh we had a Marty Pilch and others that were directors of of Los Alamos
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 0d4dfba6-a53b-4f23-a2ad-e4c9bea44076
+      title: Robert Bigelow
+    provenance_chain:
+      origin_kind: speaker
+      origin: Robert Bigelow
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: b65ca672-cb9e-4a57-a0fb-56ede7e118a4
+        title: Los Alamos National Laboratory
+        slug: los-alamos-national-laboratory
+      - node_id: de8f0271-d2e0-4ea3-8bbb-50ca9791a723
+        title: Marty Pilch
+        slug: marty-pilch
+    date: null
+    date_end: null
+    location_in_record: 00:05:52.7-00:05:58.2
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 5de4e296-4206-45f6-aa56-c3b8efb5c9e2
+      record_title: The Evolution of AAWSAP | Bigelow Podcast, Ep. 2
+      record_date: '2026-08-11'
+      record_reference: https://www.youtube.com/watch?v=hz7jHEgYzQw
+      content_hash: sha256:1aa9d864c5a4bb930164c278d9624c6bc0f84278ea4b5e57594fae9e21e90858
+      friendly_name: null

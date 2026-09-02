@@ -1,0 +1,376 @@
+schema: anomalica/brief/1
+brief_hash: 69853b5eb4992a47b5ed68374835a072d1f9f4f517ddc92f168ecd07a7c08725
+page:
+  kind: entity
+  node_id: 8b6e0178-0856-47b3-a14a-780d2bb8b63d
+  node_type: person
+  title: Alex Klokus
+  slug: alex-klokus
+  claim_count: 7
+  claim_count_total: 7
+generated:
+  graph_version: '2026-09-01T10:10:49.863545+00:00'
+size:
+  claims: 7
+  tokens_estimated: 1993
+  sized_against: 1050000
+publication:
+  status: published
+  note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
+    transcripts are gated elsewhere.
+belonging:
+  verified: 0
+  suspect_excluded: 0
+  unreviewed: 7
+related_nodes:
+  - node_id: d0e1ccf0-977b-4550-be92-02d4075be4ae
+    title: Skywatcher
+    node_type: organisation
+    slug: skywatcher
+    shared_claims: 5
+  - node_id: 55180311-d8bf-4d7a-ad49-c4364880b38f
+    title: Esalen Institute
+    node_type: organisation
+    slug: esalen-institute
+    shared_claims: 3
+  - node_id: a0bc0de8-1d81-44e5-96a7-30706ccc34a4
+    title: Jake Barber
+    node_type: person
+    slug: jake-barber
+    shared_claims: 3
+  - node_id: 0c15657f-8c99-43ad-8912-d2841ba0634f
+    title: Esalen Institute Skywatcher psionic inviting demonstration
+    node_type: event
+    slug: esalen-institute-skywatcher-psionic-inviting-demonstration
+    shared_claims: 2
+  - node_id: 95f7270e-edbb-41c1-b619-d162313f1d58
+    title: James Fowler
+    node_type: person
+    slug: james-fowler
+    shared_claims: 2
+  - node_id: 239d0c42-c4e3-4325-82a2-50c20b2c3412
+    title: Jordan Jozak
+    node_type: person
+    slug: jordan-jozak
+    shared_claims: 2
+  - node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+    title: Ross Coulthart
+    node_type: person
+    slug: ross-coulthart
+    shared_claims: 2
+  - node_id: d4241f5a-1063-4970-ba02-5a391c02d96d
+    title: David Charles Grusch
+    node_type: person
+    slug: david-charles-grusch
+    shared_claims: 1
+  - node_id: 6a174ff1-da8e-4674-8b4a-6b62b2182ec5
+    title: Esalen blue hexagonal orb photographs
+    node_type: document
+    slug: esalen-blue-hexagonal-orb-photographs
+    shared_claims: 1
+  - node_id: ad4c5ffb-29fc-42b3-a3cc-29ed186d5456
+    title: USA, California, Big Sur
+    node_type: place
+    slug: california-big-sur-usa
+    shared_claims: 1
+claims:
+  - claim_id: 6f55c982-f4ca-45ce-92ad-78a0a973c09d
+    claim_hash: c8a3cb87093cf0e28abb7dd5f3d8ecdaa9bd742f81c28b555e699f45cb350b28
+    content: Before Skywatcher was established, Ross Coulthart was invited by Alex Klokus to an event at the Esalen Institute
+      to speak to an audience of potential investors.
+    original_excerpt: Prior to the establishment of Skywatcher, there was an event that I was invited to by Alex Klokus, who's
+      one of the co-founders of Skywatcher... he invited me to come to Esalen to speak to that audience.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+      title: Ross Coulthart
+    provenance_chain:
+      origin_kind: speaker
+      origin: Ross Coulthart
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 0c15657f-8c99-43ad-8912-d2841ba0634f
+        title: Esalen Institute Skywatcher psionic inviting demonstration
+        slug: esalen-institute-skywatcher-psionic-inviting-demonstration
+      - node_id: 55180311-d8bf-4d7a-ad49-c4364880b38f
+        title: Esalen Institute
+        slug: esalen-institute
+      - node_id: 8b6e0178-0856-47b3-a14a-780d2bb8b63d
+        title: Alex Klokus
+        slug: alex-klokus
+      - node_id: ad4c5ffb-29fc-42b3-a3cc-29ed186d5456
+        title: USA, California, Big Sur
+        slug: california-big-sur-usa
+      - node_id: d0e1ccf0-977b-4550-be92-02d4075be4ae
+        title: Skywatcher
+        slug: skywatcher
+      - node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+        title: Ross Coulthart
+        slug: ross-coulthart
+    date: null
+    date_end: null
+    location_in_record: 02:20:44.4-02:20:52.6
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: fd845823-8784-462c-a981-4775525b6f84
+      record_title: The DANGEROUS Truth About UFOs - Ross Coulthart | DEBRIEFED ep. 76
+      record_date: '2026-02-20'
+      record_reference: https://www.youtube.com/watch?v=idBryc0eWww
+      content_hash: sha256:73be106d406f6d35a063a894e8384e7da0918eb8597d2107a9e3653becca2bdc
+      friendly_name: null
+  - claim_id: 23235e0d-923b-48a6-891c-5c1105053792
+    claim_hash: b7be5eb4161c33b62ba4224b53d6615afd68add5f106dd79919aeb2090fd06aa
+    content: Alex Klokus is a co-founder of Skywatcher along with Jake Barber, James Fowler and others.
+    original_excerpt: Alex Klokus, who's one of the co-founders of Skywatcher, along with Jake Barber and James Fowler and
+      others
+    claim_type: administrative
+    attestation: null
+    speaker:
+      node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+      title: Ross Coulthart
+    provenance_chain:
+      origin_kind: unattributed
+      origin: Ross Coulthart's narration
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 8b6e0178-0856-47b3-a14a-780d2bb8b63d
+        title: Alex Klokus
+        slug: alex-klokus
+      - node_id: 95f7270e-edbb-41c1-b619-d162313f1d58
+        title: James Fowler
+        slug: james-fowler
+      - node_id: a0bc0de8-1d81-44e5-96a7-30706ccc34a4
+        title: Jake Barber
+        slug: jake-barber
+      - node_id: d0e1ccf0-977b-4550-be92-02d4075be4ae
+        title: Skywatcher
+        slug: skywatcher
+    date: null
+    date_end: null
+    location_in_record: 02:20:49.9-02:20:56.4
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: fd845823-8784-462c-a981-4775525b6f84
+      record_title: The DANGEROUS Truth About UFOs - Ross Coulthart | DEBRIEFED ep. 76
+      record_date: '2026-02-20'
+      record_reference: https://www.youtube.com/watch?v=idBryc0eWww
+      content_hash: sha256:73be106d406f6d35a063a894e8384e7da0918eb8597d2107a9e3653becca2bdc
+      friendly_name: null
+  - claim_id: 2a03491d-03eb-47a0-a1c4-eee7380b953f
+    claim_hash: 581cbaf33269d9acd877e6bc0052a27258f42477969a30c049827f0ab97672b6
+    content: Alex Klokus was the private equity funder for Skywatcher who helped bring in the money people.
+    original_excerpt: And Alex was very much the private equity funder who helped bring the money people.
+    claim_type: administrative
+    attestation: null
+    speaker:
+      node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+      title: Ross Coulthart
+    provenance_chain:
+      origin_kind: unattributed
+      origin: Ross Coulthart's narration
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 8b6e0178-0856-47b3-a14a-780d2bb8b63d
+        title: Alex Klokus
+        slug: alex-klokus
+      - node_id: d0e1ccf0-977b-4550-be92-02d4075be4ae
+        title: Skywatcher
+        slug: skywatcher
+    date: null
+    date_end: null
+    location_in_record: 02:20:57.4-02:21:02.0
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: fd845823-8784-462c-a981-4775525b6f84
+      record_title: The DANGEROUS Truth About UFOs - Ross Coulthart | DEBRIEFED ep. 76
+      record_date: '2026-02-20'
+      record_reference: https://www.youtube.com/watch?v=idBryc0eWww
+      content_hash: sha256:73be106d406f6d35a063a894e8384e7da0918eb8597d2107a9e3653becca2bdc
+      friendly_name: null
+  - claim_id: 38cd4dbc-ee11-42e4-9542-5e740f698b9e
+    claim_hash: 610235720f706d4dddcf50665b6251f3d6f07499adf5ada825d11140f1dde3b2
+    content: Ross Coulthart had been talking to Jordan Jozak for some time and introduced him to Jake Barber and Alex Klokus,
+      which is how Jordan Jozak came to be involved with Skywatcher.
+    original_excerpt: And I'd been talking to Jordan for quite some time, and I introduced Jordan to Jake and to Alex Klokus,
+      and that's how he became to be involved with Skywatcher.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+      title: Ross Coulthart
+    provenance_chain:
+      origin_kind: speaker
+      origin: Ross Coulthart
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 239d0c42-c4e3-4325-82a2-50c20b2c3412
+        title: Jordan Jozak
+        slug: jordan-jozak
+      - node_id: 8b6e0178-0856-47b3-a14a-780d2bb8b63d
+        title: Alex Klokus
+        slug: alex-klokus
+      - node_id: a0bc0de8-1d81-44e5-96a7-30706ccc34a4
+        title: Jake Barber
+        slug: jake-barber
+      - node_id: d0e1ccf0-977b-4550-be92-02d4075be4ae
+        title: Skywatcher
+        slug: skywatcher
+      - node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+        title: Ross Coulthart
+        slug: ross-coulthart
+    date: null
+    date_end: null
+    location_in_record: 02:21:46.0-02:21:57.8
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: fd845823-8784-462c-a981-4775525b6f84
+      record_title: The DANGEROUS Truth About UFOs - Ross Coulthart | DEBRIEFED ep. 76
+      record_date: '2026-02-20'
+      record_reference: https://www.youtube.com/watch?v=idBryc0eWww
+      content_hash: sha256:73be106d406f6d35a063a894e8384e7da0918eb8597d2107a9e3653becca2bdc
+      friendly_name: null
+  - claim_id: f4d9ee61-d5f5-40e5-b9aa-aa5d45cfe755
+    claim_hash: 402d5e6fc3b3b46a347850c8edc8e8b68cb1add5237ad0b63ddc1bd92ed26569
+    content: Jordan Jozak's statement about a blue hexagonal craft was made in front of David Grusch, Alex Klokus and a number
+      of the premier investors, in Alex Klokus's hotel room at the Esalen Institute.
+    original_excerpt: He said this in front of David Grusch, in front of Alex Klokus, and in front of a number of the premier
+      investors. We were sitting in Alex Klokus's hotel room at Esalen
+    claim_type: observation
+    attestation: first_hand
+    speaker:
+      node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+      title: Ross Coulthart
+    provenance_chain:
+      origin_kind: speaker
+      origin: Ross Coulthart
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 239d0c42-c4e3-4325-82a2-50c20b2c3412
+        title: Jordan Jozak
+        slug: jordan-jozak
+      - node_id: 55180311-d8bf-4d7a-ad49-c4364880b38f
+        title: Esalen Institute
+        slug: esalen-institute
+      - node_id: 6a174ff1-da8e-4674-8b4a-6b62b2182ec5
+        title: Esalen blue hexagonal orb photographs
+        slug: esalen-blue-hexagonal-orb-photographs
+      - node_id: 8b6e0178-0856-47b3-a14a-780d2bb8b63d
+        title: Alex Klokus
+        slug: alex-klokus
+      - node_id: d4241f5a-1063-4970-ba02-5a391c02d96d
+        title: David Charles Grusch
+        slug: david-charles-grusch
+    date: null
+    date_end: null
+    location_in_record: 02:22:58.3-02:23:09.9
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: fd845823-8784-462c-a981-4775525b6f84
+      record_title: The DANGEROUS Truth About UFOs - Ross Coulthart | DEBRIEFED ep. 76
+      record_date: '2026-02-20'
+      record_reference: https://www.youtube.com/watch?v=idBryc0eWww
+      content_hash: sha256:73be106d406f6d35a063a894e8384e7da0918eb8597d2107a9e3653becca2bdc
+      friendly_name: null
+  - claim_id: 50b9e51e-ea47-4e26-8db3-2e67f3ad2f16
+    claim_hash: e5554dd0be66e7d36bbc205acb19afc5599dddd76346a6548701ac16b3a5b318
+    content: Alex Klokus arranged the Esalen Institute Skywatcher psionic inviting demonstration with an even split of 50
+      per cent men and 50 per cent women.
+    original_excerpt: What I loved about Esalen was he'd done 50% men, 50% women.
+    claim_type: observation
+    attestation: first_hand
+    speaker:
+      node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+      title: Ross Coulthart
+    provenance_chain:
+      origin_kind: speaker
+      origin: Ross Coulthart
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 0c15657f-8c99-43ad-8912-d2841ba0634f
+        title: Esalen Institute Skywatcher psionic inviting demonstration
+        slug: esalen-institute-skywatcher-psionic-inviting-demonstration
+      - node_id: 55180311-d8bf-4d7a-ad49-c4364880b38f
+        title: Esalen Institute
+        slug: esalen-institute
+      - node_id: 8b6e0178-0856-47b3-a14a-780d2bb8b63d
+        title: Alex Klokus
+        slug: alex-klokus
+    date: null
+    date_end: null
+    location_in_record: 02:26:17.9-02:26:21.8
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: fd845823-8784-462c-a981-4775525b6f84
+      record_title: The DANGEROUS Truth About UFOs - Ross Coulthart | DEBRIEFED ep. 76
+      record_date: '2026-02-20'
+      record_reference: https://www.youtube.com/watch?v=idBryc0eWww
+      content_hash: sha256:73be106d406f6d35a063a894e8384e7da0918eb8597d2107a9e3653becca2bdc
+      friendly_name: null
+  - claim_id: faf63cbd-99c3-480c-9e0f-cab33d49f9dc
+    claim_hash: d53a7e5399f1f42db1820d08062df8736c8d354b46c881aeb21d23b2533a9fc0
+    content: Skywatcher is a Unidentified Aerial Phenomena (UAP) investigation group co-founded by Jake Barber, James Fowler,
+      and financier Alex Klokus.
+    original_excerpt: one of the questions we get asked the most on Reality Check is what happened to Skywatcher, the UAP
+      investigation group founded, co-founded by Jake Barber, James Fowler and financier Alex Clocus
+    claim_type: administrative
+    attestation: first_hand
+    speaker:
+      node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+      title: Ross Coulthart
+    provenance_chain:
+      origin_kind: speaker
+      origin: Ross Coulthart
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 8b6e0178-0856-47b3-a14a-780d2bb8b63d
+        title: Alex Klokus
+        slug: alex-klokus
+      - node_id: 95f7270e-edbb-41c1-b619-d162313f1d58
+        title: James Fowler
+        slug: james-fowler
+      - node_id: a0bc0de8-1d81-44e5-96a7-30706ccc34a4
+        title: Jake Barber
+        slug: jake-barber
+      - node_id: d0e1ccf0-977b-4550-be92-02d4075be4ae
+        title: Skywatcher
+        slug: skywatcher
+    date: null
+    date_end: null
+    location_in_record: 00:00:39.4-00:00:56.8
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 308dd5bd-eed8-4f08-b15a-98f7bb989522
+      record_title: 'Ross Coulthart Q&A: Skywatcher didn''t disappear — it went government | Reality Check'
+      record_date: '2026-08-09'
+      record_reference: https://www.youtube.com/watch?v=IOZdVCoZ51Q
+      content_hash: sha256:76d7e7613c0a44bdb8d7e5ce87b2a23defe4a987cf1865be3ae1080cd1893d21
+      friendly_name: null

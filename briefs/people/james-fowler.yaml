@@ -1,0 +1,163 @@
+schema: anomalica/brief/1
+brief_hash: 58371474a38776f7c9b9e35c0bf2437416a4b626a0132d4bd544c8da9b895781
+page:
+  kind: entity
+  node_id: 95f7270e-edbb-41c1-b619-d162313f1d58
+  node_type: person
+  title: James Fowler
+  slug: james-fowler
+  claim_count: 3
+  claim_count_total: 3
+generated:
+  graph_version: '2026-09-01T10:10:49.863545+00:00'
+size:
+  claims: 3
+  tokens_estimated: 866
+  sized_against: 1050000
+publication:
+  status: published
+  note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
+    transcripts are gated elsewhere.
+belonging:
+  verified: 0
+  suspect_excluded: 0
+  unreviewed: 3
+related_nodes:
+  - node_id: d0e1ccf0-977b-4550-be92-02d4075be4ae
+    title: Skywatcher
+    node_type: organisation
+    slug: skywatcher
+    shared_claims: 3
+  - node_id: 8b6e0178-0856-47b3-a14a-780d2bb8b63d
+    title: Alex Klokus
+    node_type: person
+    slug: alex-klokus
+    shared_claims: 2
+  - node_id: a0bc0de8-1d81-44e5-96a7-30706ccc34a4
+    title: Jake Barber
+    node_type: person
+    slug: jake-barber
+    shared_claims: 2
+claims:
+  - claim_id: 23235e0d-923b-48a6-891c-5c1105053792
+    claim_hash: b7be5eb4161c33b62ba4224b53d6615afd68add5f106dd79919aeb2090fd06aa
+    content: Alex Klokus is a co-founder of Skywatcher along with Jake Barber, James Fowler and others.
+    original_excerpt: Alex Klokus, who's one of the co-founders of Skywatcher, along with Jake Barber and James Fowler and
+      others
+    claim_type: administrative
+    attestation: null
+    speaker:
+      node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+      title: Ross Coulthart
+    provenance_chain:
+      origin_kind: unattributed
+      origin: Ross Coulthart's narration
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 8b6e0178-0856-47b3-a14a-780d2bb8b63d
+        title: Alex Klokus
+        slug: alex-klokus
+      - node_id: 95f7270e-edbb-41c1-b619-d162313f1d58
+        title: James Fowler
+        slug: james-fowler
+      - node_id: a0bc0de8-1d81-44e5-96a7-30706ccc34a4
+        title: Jake Barber
+        slug: jake-barber
+      - node_id: d0e1ccf0-977b-4550-be92-02d4075be4ae
+        title: Skywatcher
+        slug: skywatcher
+    date: null
+    date_end: null
+    location_in_record: 02:20:49.9-02:20:56.4
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: fd845823-8784-462c-a981-4775525b6f84
+      record_title: The DANGEROUS Truth About UFOs - Ross Coulthart | DEBRIEFED ep. 76
+      record_date: '2026-02-20'
+      record_reference: https://www.youtube.com/watch?v=idBryc0eWww
+      content_hash: sha256:73be106d406f6d35a063a894e8384e7da0918eb8597d2107a9e3653becca2bdc
+      friendly_name: null
+  - claim_id: faf63cbd-99c3-480c-9e0f-cab33d49f9dc
+    claim_hash: d53a7e5399f1f42db1820d08062df8736c8d354b46c881aeb21d23b2533a9fc0
+    content: Skywatcher is a Unidentified Aerial Phenomena (UAP) investigation group co-founded by Jake Barber, James Fowler,
+      and financier Alex Klokus.
+    original_excerpt: one of the questions we get asked the most on Reality Check is what happened to Skywatcher, the UAP
+      investigation group founded, co-founded by Jake Barber, James Fowler and financier Alex Clocus
+    claim_type: administrative
+    attestation: first_hand
+    speaker:
+      node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+      title: Ross Coulthart
+    provenance_chain:
+      origin_kind: speaker
+      origin: Ross Coulthart
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 8b6e0178-0856-47b3-a14a-780d2bb8b63d
+        title: Alex Klokus
+        slug: alex-klokus
+      - node_id: 95f7270e-edbb-41c1-b619-d162313f1d58
+        title: James Fowler
+        slug: james-fowler
+      - node_id: a0bc0de8-1d81-44e5-96a7-30706ccc34a4
+        title: Jake Barber
+        slug: jake-barber
+      - node_id: d0e1ccf0-977b-4550-be92-02d4075be4ae
+        title: Skywatcher
+        slug: skywatcher
+    date: null
+    date_end: null
+    location_in_record: 00:00:39.4-00:00:56.8
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 308dd5bd-eed8-4f08-b15a-98f7bb989522
+      record_title: 'Ross Coulthart Q&A: Skywatcher didn''t disappear — it went government | Reality Check'
+      record_date: '2026-08-09'
+      record_reference: https://www.youtube.com/watch?v=IOZdVCoZ51Q
+      content_hash: sha256:76d7e7613c0a44bdb8d7e5ce87b2a23defe4a987cf1865be3ae1080cd1893d21
+      friendly_name: null
+  - claim_id: 5d6025df-8038-4db7-b6e9-23835d7070c6
+    claim_hash: 578d75946484b82bf53baf079b9bc04e96105c539f6012db976bca6d20395ddd
+    content: No posts have been published on the skywatcher.ai website since James Fowler left the organisation in mid-August
+      2024 to pursue a new opportunity in aerial intelligence.
+    original_excerpt: there's been nothing posted on the skywatcher.ai website since James Fowler left in mid-August last
+      year to follow what he described as a new opportunity in aerial intelligence.
+    claim_type: observation
+    attestation: first_hand
+    speaker:
+      node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+      title: Ross Coulthart
+    provenance_chain:
+      origin_kind: speaker
+      origin: Ross Coulthart
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 95f7270e-edbb-41c1-b619-d162313f1d58
+        title: James Fowler
+        slug: james-fowler
+      - node_id: d0e1ccf0-977b-4550-be92-02d4075be4ae
+        title: Skywatcher
+        slug: skywatcher
+    date: '2024-08-15'
+    date_end: null
+    location_in_record: 00:01:16.2-00:01:30.8
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 308dd5bd-eed8-4f08-b15a-98f7bb989522
+      record_title: 'Ross Coulthart Q&A: Skywatcher didn''t disappear — it went government | Reality Check'
+      record_date: '2026-08-09'
+      record_reference: https://www.youtube.com/watch?v=IOZdVCoZ51Q
+      content_hash: sha256:76d7e7613c0a44bdb8d7e5ce87b2a23defe4a987cf1865be3ae1080cd1893d21
+      friendly_name: null

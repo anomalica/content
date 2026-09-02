@@ -1,0 +1,1153 @@
+schema: anomalica/brief/1
+brief_hash: 30032c32c35ce60cb494020f49e55e4361f566b91a2787f3871289a693275216
+page:
+  kind: entity
+  node_id: a0bc0de8-1d81-44e5-96a7-30706ccc34a4
+  node_type: person
+  title: Jake Barber
+  slug: jake-barber
+  claim_count: 27
+  claim_count_total: 27
+generated:
+  graph_version: '2026-09-01T10:10:49.863545+00:00'
+size:
+  claims: 27
+  tokens_estimated: 7564
+  sized_against: 1050000
+publication:
+  status: published
+  note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
+    transcripts are gated elsewhere.
+belonging:
+  verified: 0
+  suspect_excluded: 0
+  unreviewed: 27
+related_nodes:
+  - node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+    title: Ross Coulthart
+    node_type: person
+    slug: ross-coulthart
+    shared_claims: 16
+  - node_id: 4fb65b2c-296a-493d-bbc7-65e4b763c1f0
+    title: United States Congress
+    node_type: organisation
+    slug: united-states-congress
+    shared_claims: 7
+  - node_id: d0e1ccf0-977b-4550-be92-02d4075be4ae
+    title: Skywatcher
+    node_type: organisation
+    slug: skywatcher
+    shared_claims: 4
+  - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
+    title: Unidentified Anomalous Phenomena (UAP)
+    node_type: topic
+    slug: unidentified-anomalous-phenomena-uap
+    shared_claims: 4
+  - node_id: 8b6e0178-0856-47b3-a14a-780d2bb8b63d
+    title: Alex Klokus
+    node_type: person
+    slug: alex-klokus
+    shared_claims: 3
+  - node_id: d4241f5a-1063-4970-ba02-5a391c02d96d
+    title: David Charles Grusch
+    node_type: person
+    slug: david-charles-grusch
+    shared_claims: 3
+  - node_id: 24d00311-06ac-46a1-a2f5-c99f3f8e21b2
+    title: Chris Ramsay
+    node_type: person
+    slug: chris-ramsay
+    shared_claims: 2
+  - node_id: 95f7270e-edbb-41c1-b619-d162313f1d58
+    title: James Fowler
+    node_type: person
+    slug: james-fowler
+    shared_claims: 2
+  - node_id: 239d0c42-c4e3-4325-82a2-50c20b2c3412
+    title: Jordan Jozak
+    node_type: person
+    slug: jordan-jozak
+    shared_claims: 2
+  - node_id: 8d3ca113-3f28-4808-998e-34d2837332a5
+    title: Julia Mossbridge
+    node_type: person
+    slug: julia-mossbridge
+    shared_claims: 2
+  - node_id: 55180311-d8bf-4d7a-ad49-c4364880b38f
+    title: Esalen Institute
+    node_type: organisation
+    slug: esalen-institute
+    shared_claims: 1
+  - node_id: 0c15657f-8c99-43ad-8912-d2841ba0634f
+    title: Esalen Institute Skywatcher psionic inviting demonstration
+    node_type: event
+    slug: esalen-institute-skywatcher-psionic-inviting-demonstration
+    shared_claims: 1
+  - node_id: 9c74d864-957a-4654-a5b6-1249fe654ec7
+    title: Non-Human Intelligence
+    node_type: topic
+    slug: non-human-intelligence
+    shared_claims: 1
+  - node_id: e917838a-6b0a-4f07-9485-21dc3e74214d
+    title: Skywatcher
+    node_type: project
+    slug: skywatcher
+    shared_claims: 1
+claims:
+  - claim_id: f9f5a5d0-3a68-4dee-ae77-6eadb42790ad
+    claim_hash: efb5e1e34c691f1b2c5429f1330c12d330e3456398d4c4bcf2fb7cf5727233f8
+    content: The information Ross Coulthart most wishes he had never been told is the names of the people who ordered the
+      murder of Jake Barber's team.
+    original_excerpt: 'Chris Ramsay: is there a piece of information you wish you were never told? Ross Coulthart: Yeah. Yeah,
+      there is. ... I was given the names of people who ordered the murder of his team.'
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+      title: Ross Coulthart
+    provenance_chain:
+      origin_kind: speaker
+      origin: Ross Coulthart
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: a0bc0de8-1d81-44e5-96a7-30706ccc34a4
+        title: Jake Barber
+        slug: jake-barber
+      - node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+        title: Ross Coulthart
+        slug: ross-coulthart
+    date: null
+    date_end: null
+    location_in_record: 00:02:34.5-00:02:54.4
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: fd845823-8784-462c-a981-4775525b6f84
+      record_title: The DANGEROUS Truth About UFOs - Ross Coulthart | DEBRIEFED ep. 76
+      record_date: '2026-02-20'
+      record_reference: https://www.youtube.com/watch?v=idBryc0eWww
+      content_hash: sha256:73be106d406f6d35a063a894e8384e7da0918eb8597d2107a9e3653becca2bdc
+      friendly_name: null
+  - claim_id: d131f841-5917-4081-85ea-2839fd95be6c
+    claim_hash: ff38d052e66aee2c760d9481770d1d146cf51698c9f4b4f4bb87246885046058
+    content: Ross Coulthart was given the names of the people who ordered the murder of Jake Barber's team.
+    original_excerpt: I was given the names of, and it wasn't Jake. I was given the names of people who ordered the murder
+      of his team.
+    claim_type: testimony
+    attestation: second_hand
+    speaker:
+      node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+      title: Ross Coulthart
+    provenance_chain:
+      origin_kind: anonymous
+      origin: an unnamed person who gave Ross Coulthart the names
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: a0bc0de8-1d81-44e5-96a7-30706ccc34a4
+        title: Jake Barber
+        slug: jake-barber
+      - node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+        title: Ross Coulthart
+        slug: ross-coulthart
+    date: null
+    date_end: null
+    location_in_record: 00:02:45.0-00:02:54.6
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: fd845823-8784-462c-a981-4775525b6f84
+      record_title: The DANGEROUS Truth About UFOs - Ross Coulthart | DEBRIEFED ep. 76
+      record_date: '2026-02-20'
+      record_reference: https://www.youtube.com/watch?v=idBryc0eWww
+      content_hash: sha256:73be106d406f6d35a063a894e8384e7da0918eb8597d2107a9e3653becca2bdc
+      friendly_name: null
+  - claim_id: 1512533d-4d11-4f2e-b71b-c197de0b56d4
+    claim_hash: 3075ed86b4f07bc13c7a142be71a8c3224cd88f1311a707c9749de3ba9ad9e83
+    content: Jake Barber went public with Ross Coulthart in either 2025 or 2024.
+    original_excerpt: Jake Barber, who went public with me last year, year before last
+    claim_type: administrative
+    attestation: first_hand
+    speaker:
+      node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+      title: Ross Coulthart
+    provenance_chain:
+      origin_kind: speaker
+      origin: Ross Coulthart
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: a0bc0de8-1d81-44e5-96a7-30706ccc34a4
+        title: Jake Barber
+        slug: jake-barber
+      - node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+        title: Ross Coulthart
+        slug: ross-coulthart
+    date: null
+    date_end: null
+    location_in_record: 01:02:42.2-01:02:45.2
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: fd845823-8784-462c-a981-4775525b6f84
+      record_title: The DANGEROUS Truth About UFOs - Ross Coulthart | DEBRIEFED ep. 76
+      record_date: '2026-02-20'
+      record_reference: https://www.youtube.com/watch?v=idBryc0eWww
+      content_hash: sha256:73be106d406f6d35a063a894e8384e7da0918eb8597d2107a9e3653becca2bdc
+      friendly_name: null
+  - claim_id: 88bdf9f2-c275-4d06-8055-a0eec6e1964c
+    claim_hash: c2f479df7f2dbbf3cf63714921d6e99960c3e4bb1670feb61d0eed69bf5b8ded
+    content: Jake Barber spoke openly about the overwhelming love he felt from the intelligence associated with the craft
+      he was recovering.
+    original_excerpt: Jake talked openly about the love, the overwhelming love that he felt from whatever the intelligence
+      was that was associated with the craft that he was recovering.
+    claim_type: hearsay
+    attestation: second_hand
+    speaker:
+      node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+      title: Ross Coulthart
+    provenance_chain:
+      origin_kind: named
+      origin: Jake Barber
+      relay:
+        - Jake Barber's public account given with Ross Coulthart
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 9c74d864-957a-4654-a5b6-1249fe654ec7
+        title: Non-Human Intelligence
+        slug: non-human-intelligence
+      - node_id: a0bc0de8-1d81-44e5-96a7-30706ccc34a4
+        title: Jake Barber
+        slug: jake-barber
+      - node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+        title: Ross Coulthart
+        slug: ross-coulthart
+    date: null
+    date_end: null
+    location_in_record: 01:02:46.5-01:02:57.5
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: fd845823-8784-462c-a981-4775525b6f84
+      record_title: The DANGEROUS Truth About UFOs - Ross Coulthart | DEBRIEFED ep. 76
+      record_date: '2026-02-20'
+      record_reference: https://www.youtube.com/watch?v=idBryc0eWww
+      content_hash: sha256:73be106d406f6d35a063a894e8384e7da0918eb8597d2107a9e3653becca2bdc
+      friendly_name: null
+  - claim_id: 52306891-45c7-4cee-9612-31ed937cc9aa
+    claim_hash: e39cb0ab78b5c7b1ac81c83577a21a21a86e5103ccc8cf85e8098939d62f9fe0
+    content: Ross Coulthart considers Jake Barber's experience of the intelligence associated with a recovered craft to have
+      been a life-changing, defining moment for him.
+    original_excerpt: It was life changing for him. And I don't think I'm speaking out of turn if I say that for Jake, that
+      was a defining life moment. It changed his life.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+      title: Ross Coulthart
+    provenance_chain:
+      origin_kind: speaker
+      origin: Ross Coulthart
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: a0bc0de8-1d81-44e5-96a7-30706ccc34a4
+        title: Jake Barber
+        slug: jake-barber
+      - node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+        title: Ross Coulthart
+        slug: ross-coulthart
+    date: null
+    date_end: null
+    location_in_record: 01:02:58.9-01:03:09.1
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: fd845823-8784-462c-a981-4775525b6f84
+      record_title: The DANGEROUS Truth About UFOs - Ross Coulthart | DEBRIEFED ep. 76
+      record_date: '2026-02-20'
+      record_reference: https://www.youtube.com/watch?v=idBryc0eWww
+      content_hash: sha256:73be106d406f6d35a063a894e8384e7da0918eb8597d2107a9e3653becca2bdc
+      friendly_name: null
+  - claim_id: 15cfd19b-9145-4a83-962b-960be2cb8f96
+    claim_hash: bd81d606e32e9100a5cfa35fab51585eb01e8f0e706cb6ae6d73f8b5da1ae2d7
+    content: Jake Barber decided to speak publicly, and has stuck to that decision, because he thinks the public has a right
+      to know what he knows.
+    original_excerpt: He made a decision. and incredibly he's stuck to it, to speak publicly because he thinks the public
+      has a right to know what he knows.
+    claim_type: hearsay
+    attestation: second_hand
+    speaker:
+      node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+      title: Ross Coulthart
+    provenance_chain:
+      origin_kind: named
+      origin: Jake Barber
+      relay:
+        - Jake Barber's public account given with Ross Coulthart
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: a0bc0de8-1d81-44e5-96a7-30706ccc34a4
+        title: Jake Barber
+        slug: jake-barber
+      - node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+        title: Ross Coulthart
+        slug: ross-coulthart
+    date: null
+    date_end: null
+    location_in_record: 01:03:10.1-01:03:19.0
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: fd845823-8784-462c-a981-4775525b6f84
+      record_title: The DANGEROUS Truth About UFOs - Ross Coulthart | DEBRIEFED ep. 76
+      record_date: '2026-02-20'
+      record_reference: https://www.youtube.com/watch?v=idBryc0eWww
+      content_hash: sha256:73be106d406f6d35a063a894e8384e7da0918eb8597d2107a9e3653becca2bdc
+      friendly_name: null
+  - claim_id: 20db3201-3f91-4ff9-9275-d2a177d1005c
+    claim_hash: e484e6542f740037f7bc9485b270cc5973cf3cd43878a08ac7ab0dd463b5c99c
+    content: Ross Coulthart does not consider Jake Barber to have opted out of public disclosure efforts, but to have done
+      all he can within the law.
+    original_excerpt: I don't think he's opted out at all. I think he's done all he can do within the law.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+      title: Ross Coulthart
+    provenance_chain:
+      origin_kind: speaker
+      origin: Ross Coulthart
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: a0bc0de8-1d81-44e5-96a7-30706ccc34a4
+        title: Jake Barber
+        slug: jake-barber
+      - node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+        title: Ross Coulthart
+        slug: ross-coulthart
+    date: null
+    date_end: null
+    location_in_record: 01:15:23.6-01:15:28.5
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: fd845823-8784-462c-a981-4775525b6f84
+      record_title: The DANGEROUS Truth About UFOs - Ross Coulthart | DEBRIEFED ep. 76
+      record_date: '2026-02-20'
+      record_reference: https://www.youtube.com/watch?v=idBryc0eWww
+      content_hash: sha256:73be106d406f6d35a063a894e8384e7da0918eb8597d2107a9e3653becca2bdc
+      friendly_name: null
+  - claim_id: 4a3bf2d2-1418-41c8-a504-672adbf82274
+    claim_hash: c18415be63ce26ef206a6609d310c1ebb49ba4c4ce16ef19c9e975e4c098d5a9
+    content: Jake Barber testified to the United States Congress at the instigation of Ross Coulthart and his colleagues,
+      who filmed him going to Congress and giving his evidence.
+    original_excerpt: he's at our instigation we said to him would you testify would you be willing to testify to the congress
+      and he said yeah sure so we filmed him going to the congress and giving of his evidence
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+      title: Ross Coulthart
+    provenance_chain:
+      origin_kind: speaker
+      origin: Ross Coulthart
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 4fb65b2c-296a-493d-bbc7-65e4b763c1f0
+        title: United States Congress
+        slug: united-states-congress
+      - node_id: a0bc0de8-1d81-44e5-96a7-30706ccc34a4
+        title: Jake Barber
+        slug: jake-barber
+      - node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+        title: Ross Coulthart
+        slug: ross-coulthart
+    date: null
+    date_end: null
+    location_in_record: 01:15:32.9-01:15:42.4
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: fd845823-8784-462c-a981-4775525b6f84
+      record_title: The DANGEROUS Truth About UFOs - Ross Coulthart | DEBRIEFED ep. 76
+      record_date: '2026-02-20'
+      record_reference: https://www.youtube.com/watch?v=idBryc0eWww
+      content_hash: sha256:73be106d406f6d35a063a894e8384e7da0918eb8597d2107a9e3653becca2bdc
+      friendly_name: null
+  - claim_id: c7406242-b865-491c-9062-113b2c660395
+    claim_hash: 52a32152db23f44109887960dcbcd81efb0174730609fbf080cb39015490a89d
+    content: Jake Barber described to the United States Congress the details of the alleged friendly-fire incident involving
+      a Unidentified Aerial Phenomena retrieval operation.
+    original_excerpt: he's described to them the details of for example the blue on blue incident that's been talked about
+    claim_type: testimony
+    attestation: second_hand
+    speaker:
+      node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+      title: Ross Coulthart
+    provenance_chain:
+      origin_kind: named
+      origin: Jake Barber
+      relay:
+        - Ross Coulthart
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 4fb65b2c-296a-493d-bbc7-65e4b763c1f0
+        title: United States Congress
+        slug: united-states-congress
+      - node_id: a0bc0de8-1d81-44e5-96a7-30706ccc34a4
+        title: Jake Barber
+        slug: jake-barber
+      - node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+        title: Ross Coulthart
+        slug: ross-coulthart
+    date: null
+    date_end: null
+    location_in_record: 01:15:50.6-01:15:57.7
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: fd845823-8784-462c-a981-4775525b6f84
+      record_title: The DANGEROUS Truth About UFOs - Ross Coulthart | DEBRIEFED ep. 76
+      record_date: '2026-02-20'
+      record_reference: https://www.youtube.com/watch?v=idBryc0eWww
+      content_hash: sha256:73be106d406f6d35a063a894e8384e7da0918eb8597d2107a9e3653becca2bdc
+      friendly_name: null
+  - claim_id: 41ab0d1f-4d25-42df-8561-d5c118aa83fe
+    claim_hash: 7c09452f01c8002cc4ea25448b498927af66d837da1723996b7c9a47ed643801
+    content: Jake Barber told the United States Congress that he believes he and his special operations team were set up and
+      were the subject of an attempt by a private corporation to murder them.
+    original_excerpt: He's talked about the incident where he believes he and his team, a special operations team, were set
+      up. They believe that they were the subject of an attempt by a private corporation to murder them.
+    claim_type: testimony
+    attestation: second_hand
+    speaker:
+      node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+      title: Ross Coulthart
+    provenance_chain:
+      origin_kind: named
+      origin: Jake Barber
+      relay:
+        - Ross Coulthart
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 4fb65b2c-296a-493d-bbc7-65e4b763c1f0
+        title: United States Congress
+        slug: united-states-congress
+      - node_id: a0bc0de8-1d81-44e5-96a7-30706ccc34a4
+        title: Jake Barber
+        slug: jake-barber
+      - node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+        title: Ross Coulthart
+        slug: ross-coulthart
+    date: null
+    date_end: null
+    location_in_record: 01:15:58.9-01:16:11.9
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: fd845823-8784-462c-a981-4775525b6f84
+      record_title: The DANGEROUS Truth About UFOs - Ross Coulthart | DEBRIEFED ep. 76
+      record_date: '2026-02-20'
+      record_reference: https://www.youtube.com/watch?v=idBryc0eWww
+      content_hash: sha256:73be106d406f6d35a063a894e8384e7da0918eb8597d2107a9e3653becca2bdc
+      friendly_name: null
+  - claim_id: 99330af7-e871-48d6-8102-51cff6e82c5f
+    claim_hash: f2c837ca7b4a7485d80c3debab939a78179024d97b860b59566a07d38c392985
+    content: Ross Coulthart rejects the suggestion that Jake Barber or David Grusch are part of a controlled disclosure effort.
+    original_excerpt: I don't buy the line that Jake or David are part of a controlled disclosure.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+      title: Ross Coulthart
+    provenance_chain:
+      origin_kind: speaker
+      origin: Ross Coulthart
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: a0bc0de8-1d81-44e5-96a7-30706ccc34a4
+        title: Jake Barber
+        slug: jake-barber
+      - node_id: d4241f5a-1063-4970-ba02-5a391c02d96d
+        title: David Charles Grusch
+        slug: david-charles-grusch
+      - node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+        title: Ross Coulthart
+        slug: ross-coulthart
+    date: null
+    date_end: null
+    location_in_record: 01:18:05.9-01:18:10.8
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: fd845823-8784-462c-a981-4775525b6f84
+      record_title: The DANGEROUS Truth About UFOs - Ross Coulthart | DEBRIEFED ep. 76
+      record_date: '2026-02-20'
+      record_reference: https://www.youtube.com/watch?v=idBryc0eWww
+      content_hash: sha256:73be106d406f6d35a063a894e8384e7da0918eb8597d2107a9e3653becca2bdc
+      friendly_name: null
+  - claim_id: 5af52178-c4ac-4884-a371-1f7227599bf2
+    claim_hash: a49a0588f958b2791398faab0450e3d72f0368bb7c1cbde801db3dbc815c0805
+    content: Ross Coulthart has no doubt that Jake Barber and David Grusch know more than they have publicly disclosed, particularly
+      David Grusch.
+    original_excerpt: 'Chris Ramsay: They might know a lot more than they''re letting them. Ross Coulthart: Oh, yeah. Yeah,
+      no, I''m in doubt about that. ... No, and I think particularly David.'
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+      title: Ross Coulthart
+    provenance_chain:
+      origin_kind: speaker
+      origin: Ross Coulthart
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: a0bc0de8-1d81-44e5-96a7-30706ccc34a4
+        title: Jake Barber
+        slug: jake-barber
+      - node_id: d4241f5a-1063-4970-ba02-5a391c02d96d
+        title: David Charles Grusch
+        slug: david-charles-grusch
+      - node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+        title: Ross Coulthart
+        slug: ross-coulthart
+    date: null
+    date_end: null
+    location_in_record: 01:18:20.8-01:18:24.8
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: fd845823-8784-462c-a981-4775525b6f84
+      record_title: The DANGEROUS Truth About UFOs - Ross Coulthart | DEBRIEFED ep. 76
+      record_date: '2026-02-20'
+      record_reference: https://www.youtube.com/watch?v=idBryc0eWww
+      content_hash: sha256:73be106d406f6d35a063a894e8384e7da0918eb8597d2107a9e3653becca2bdc
+      friendly_name: null
+  - claim_id: 6f5b4fd3-a5df-4fcc-bfc3-62fce835ed0c
+    claim_hash: 6d3dd7d4022950993c4d2677cd18c415cb172605b132cd9b8138a3b0655d8d19
+    content: Jake Barber described being overwhelmed by a sense of love during his encounter with an eight-sided craft.
+    original_excerpt: I immediately think back to Jake Barber's incident with this eight-gon craft and he gets overwhelmed
+      with this sense of love.
+    claim_type: hearsay
+    attestation: second_hand
+    speaker:
+      node_id: 24d00311-06ac-46a1-a2f5-c99f3f8e21b2
+      title: Chris Ramsay
+    provenance_chain:
+      origin_kind: named
+      origin: Jake Barber
+      relay:
+        - Chris Ramsay
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 24d00311-06ac-46a1-a2f5-c99f3f8e21b2
+        title: Chris Ramsay
+        slug: chris-ramsay
+      - node_id: a0bc0de8-1d81-44e5-96a7-30706ccc34a4
+        title: Jake Barber
+        slug: jake-barber
+    date: null
+    date_end: null
+    location_in_record: 01:49:19.5-01:49:26.3
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: fd845823-8784-462c-a981-4775525b6f84
+      record_title: The DANGEROUS Truth About UFOs - Ross Coulthart | DEBRIEFED ep. 76
+      record_date: '2026-02-20'
+      record_reference: https://www.youtube.com/watch?v=idBryc0eWww
+      content_hash: sha256:73be106d406f6d35a063a894e8384e7da0918eb8597d2107a9e3653becca2bdc
+      friendly_name: null
+  - claim_id: 23235e0d-923b-48a6-891c-5c1105053792
+    claim_hash: b7be5eb4161c33b62ba4224b53d6615afd68add5f106dd79919aeb2090fd06aa
+    content: Alex Klokus is a co-founder of Skywatcher along with Jake Barber, James Fowler and others.
+    original_excerpt: Alex Klokus, who's one of the co-founders of Skywatcher, along with Jake Barber and James Fowler and
+      others
+    claim_type: administrative
+    attestation: null
+    speaker:
+      node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+      title: Ross Coulthart
+    provenance_chain:
+      origin_kind: unattributed
+      origin: Ross Coulthart's narration
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 8b6e0178-0856-47b3-a14a-780d2bb8b63d
+        title: Alex Klokus
+        slug: alex-klokus
+      - node_id: 95f7270e-edbb-41c1-b619-d162313f1d58
+        title: James Fowler
+        slug: james-fowler
+      - node_id: a0bc0de8-1d81-44e5-96a7-30706ccc34a4
+        title: Jake Barber
+        slug: jake-barber
+      - node_id: d0e1ccf0-977b-4550-be92-02d4075be4ae
+        title: Skywatcher
+        slug: skywatcher
+    date: null
+    date_end: null
+    location_in_record: 02:20:49.9-02:20:56.4
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: fd845823-8784-462c-a981-4775525b6f84
+      record_title: The DANGEROUS Truth About UFOs - Ross Coulthart | DEBRIEFED ep. 76
+      record_date: '2026-02-20'
+      record_reference: https://www.youtube.com/watch?v=idBryc0eWww
+      content_hash: sha256:73be106d406f6d35a063a894e8384e7da0918eb8597d2107a9e3653becca2bdc
+      friendly_name: null
+  - claim_id: 0bacf603-6ba1-4a72-a2bc-7d017b005d3b
+    claim_hash: b864dfb84dabe32269e46b239023a561824167a7cc6f9c7424959bc03fb24bb1
+    content: Jake Barber, David Grusch and Jordan Jozak attended the Skywatcher event at the Esalen Institute.
+    original_excerpt: And Jake Barber came along as well, as did David Grusch, and so did Jordan Jozak, who ended up becoming
+      one of the psionics who was working with Skywatcher.
+    claim_type: observation
+    attestation: first_hand
+    speaker:
+      node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+      title: Ross Coulthart
+    provenance_chain:
+      origin_kind: speaker
+      origin: Ross Coulthart
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 0c15657f-8c99-43ad-8912-d2841ba0634f
+        title: Esalen Institute Skywatcher psionic inviting demonstration
+        slug: esalen-institute-skywatcher-psionic-inviting-demonstration
+      - node_id: 239d0c42-c4e3-4325-82a2-50c20b2c3412
+        title: Jordan Jozak
+        slug: jordan-jozak
+      - node_id: 55180311-d8bf-4d7a-ad49-c4364880b38f
+        title: Esalen Institute
+        slug: esalen-institute
+      - node_id: a0bc0de8-1d81-44e5-96a7-30706ccc34a4
+        title: Jake Barber
+        slug: jake-barber
+      - node_id: d0e1ccf0-977b-4550-be92-02d4075be4ae
+        title: Skywatcher
+        slug: skywatcher
+      - node_id: d4241f5a-1063-4970-ba02-5a391c02d96d
+        title: David Charles Grusch
+        slug: david-charles-grusch
+    date: null
+    date_end: null
+    location_in_record: 02:21:33.1-02:21:44.5
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: fd845823-8784-462c-a981-4775525b6f84
+      record_title: The DANGEROUS Truth About UFOs - Ross Coulthart | DEBRIEFED ep. 76
+      record_date: '2026-02-20'
+      record_reference: https://www.youtube.com/watch?v=idBryc0eWww
+      content_hash: sha256:73be106d406f6d35a063a894e8384e7da0918eb8597d2107a9e3653becca2bdc
+      friendly_name: null
+  - claim_id: 38cd4dbc-ee11-42e4-9542-5e740f698b9e
+    claim_hash: 610235720f706d4dddcf50665b6251f3d6f07499adf5ada825d11140f1dde3b2
+    content: Ross Coulthart had been talking to Jordan Jozak for some time and introduced him to Jake Barber and Alex Klokus,
+      which is how Jordan Jozak came to be involved with Skywatcher.
+    original_excerpt: And I'd been talking to Jordan for quite some time, and I introduced Jordan to Jake and to Alex Klokus,
+      and that's how he became to be involved with Skywatcher.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+      title: Ross Coulthart
+    provenance_chain:
+      origin_kind: speaker
+      origin: Ross Coulthart
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 239d0c42-c4e3-4325-82a2-50c20b2c3412
+        title: Jordan Jozak
+        slug: jordan-jozak
+      - node_id: 8b6e0178-0856-47b3-a14a-780d2bb8b63d
+        title: Alex Klokus
+        slug: alex-klokus
+      - node_id: a0bc0de8-1d81-44e5-96a7-30706ccc34a4
+        title: Jake Barber
+        slug: jake-barber
+      - node_id: d0e1ccf0-977b-4550-be92-02d4075be4ae
+        title: Skywatcher
+        slug: skywatcher
+      - node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+        title: Ross Coulthart
+        slug: ross-coulthart
+    date: null
+    date_end: null
+    location_in_record: 02:21:46.0-02:21:57.8
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: fd845823-8784-462c-a981-4775525b6f84
+      record_title: The DANGEROUS Truth About UFOs - Ross Coulthart | DEBRIEFED ep. 76
+      record_date: '2026-02-20'
+      record_reference: https://www.youtube.com/watch?v=idBryc0eWww
+      content_hash: sha256:73be106d406f6d35a063a894e8384e7da0918eb8597d2107a9e3653becca2bdc
+      friendly_name: null
+  - claim_id: 2bfba2e8-4b6e-41d8-9c8b-a4e91ead537b
+    claim_hash: f229ca1b9b7797f08ebc0d64d31a65348443b878a34d6ecf72acd98d7a515583
+    content: Ross Coulthart was worried for his family and freaked out after learning who ordered the killing of Jake Barber's
+      team.
+    original_excerpt: Yeah, I was worried for my family. I was genuinely freaked out that I knew something that was a disgusting
+      secret.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+      title: Ross Coulthart
+    provenance_chain:
+      origin_kind: speaker
+      origin: Ross Coulthart
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: a0bc0de8-1d81-44e5-96a7-30706ccc34a4
+        title: Jake Barber
+        slug: jake-barber
+      - node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+        title: Ross Coulthart
+        slug: ross-coulthart
+    date: null
+    date_end: null
+    location_in_record: 02:50:45.8-02:50:54.2
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: fd845823-8784-462c-a981-4775525b6f84
+      record_title: The DANGEROUS Truth About UFOs - Ross Coulthart | DEBRIEFED ep. 76
+      record_date: '2026-02-20'
+      record_reference: https://www.youtube.com/watch?v=idBryc0eWww
+      content_hash: sha256:73be106d406f6d35a063a894e8384e7da0918eb8597d2107a9e3653becca2bdc
+      friendly_name: null
+  - claim_id: 46b1ece4-4b7a-4d6c-838b-047273381783
+    claim_hash: 16758b9aa39c4b8fc45a1fceefca1c483fc3490b54487fb5daa2135b60d21cb9
+    content: Ross Coulthart took steps to ensure that the names of those who ordered the killing of Jake Barber's team would
+      become public if anything happened to him.
+    original_excerpt: somebody had ordered a hit and I took steps to make sure that if anything did happen to me, it would
+      become public.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+      title: Ross Coulthart
+    provenance_chain:
+      origin_kind: speaker
+      origin: Ross Coulthart
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: a0bc0de8-1d81-44e5-96a7-30706ccc34a4
+        title: Jake Barber
+        slug: jake-barber
+      - node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+        title: Ross Coulthart
+        slug: ross-coulthart
+    date: null
+    date_end: null
+    location_in_record: 02:50:56.0-02:51:04.2
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: fd845823-8784-462c-a981-4775525b6f84
+      record_title: The DANGEROUS Truth About UFOs - Ross Coulthart | DEBRIEFED ep. 76
+      record_date: '2026-02-20'
+      record_reference: https://www.youtube.com/watch?v=idBryc0eWww
+      content_hash: sha256:73be106d406f6d35a063a894e8384e7da0918eb8597d2107a9e3653becca2bdc
+      friendly_name: null
+  - claim_id: 74f33239-6f34-4643-8e90-e92797667837
+    claim_hash: 456cdd15d241d6be8640d1c4ac357091e1ff8e4caa65b92d4bde72a27324deef
+    content: Jake Barber also took steps to ensure the information would become public if anything happened to him.
+    original_excerpt: And by the way, so did Jake.
+    claim_type: testimony
+    attestation: second_hand
+    speaker:
+      node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+      title: Ross Coulthart
+    provenance_chain:
+      origin_kind: named
+      origin: Jake Barber
+      relay:
+        - Ross Coulthart
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: a0bc0de8-1d81-44e5-96a7-30706ccc34a4
+        title: Jake Barber
+        slug: jake-barber
+      - node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+        title: Ross Coulthart
+        slug: ross-coulthart
+    date: null
+    date_end: null
+    location_in_record: 02:51:05.3-02:51:07.1
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: fd845823-8784-462c-a981-4775525b6f84
+      record_title: The DANGEROUS Truth About UFOs - Ross Coulthart | DEBRIEFED ep. 76
+      record_date: '2026-02-20'
+      record_reference: https://www.youtube.com/watch?v=idBryc0eWww
+      content_hash: sha256:73be106d406f6d35a063a894e8384e7da0918eb8597d2107a9e3653becca2bdc
+      friendly_name: null
+  - claim_id: faf63cbd-99c3-480c-9e0f-cab33d49f9dc
+    claim_hash: d53a7e5399f1f42db1820d08062df8736c8d354b46c881aeb21d23b2533a9fc0
+    content: Skywatcher is a Unidentified Aerial Phenomena (UAP) investigation group co-founded by Jake Barber, James Fowler,
+      and financier Alex Klokus.
+    original_excerpt: one of the questions we get asked the most on Reality Check is what happened to Skywatcher, the UAP
+      investigation group founded, co-founded by Jake Barber, James Fowler and financier Alex Clocus
+    claim_type: administrative
+    attestation: first_hand
+    speaker:
+      node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+      title: Ross Coulthart
+    provenance_chain:
+      origin_kind: speaker
+      origin: Ross Coulthart
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 8b6e0178-0856-47b3-a14a-780d2bb8b63d
+        title: Alex Klokus
+        slug: alex-klokus
+      - node_id: 95f7270e-edbb-41c1-b619-d162313f1d58
+        title: James Fowler
+        slug: james-fowler
+      - node_id: a0bc0de8-1d81-44e5-96a7-30706ccc34a4
+        title: Jake Barber
+        slug: jake-barber
+      - node_id: d0e1ccf0-977b-4550-be92-02d4075be4ae
+        title: Skywatcher
+        slug: skywatcher
+    date: null
+    date_end: null
+    location_in_record: 00:00:39.4-00:00:56.8
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 308dd5bd-eed8-4f08-b15a-98f7bb989522
+      record_title: 'Ross Coulthart Q&A: Skywatcher didn''t disappear — it went government | Reality Check'
+      record_date: '2026-08-09'
+      record_reference: https://www.youtube.com/watch?v=IOZdVCoZ51Q
+      content_hash: sha256:76d7e7613c0a44bdb8d7e5ce87b2a23defe4a987cf1865be3ae1080cd1893d21
+      friendly_name: null
+  - claim_id: 15064ca7-a2d3-4d96-9237-f492e644686a
+    claim_hash: b73ad52de721c36d6b99b60f26467c8b794b585903350fc8a1e2e8755bfdf96e
+    content: Ross Coulthart shares Jake Barber's cynicism about Congress's genuine intent to be truthful with the public regarding
+      Unidentified Aerial Phenomena (UAP) matters.
+    original_excerpt: Look, I share Jake's cynicism about the genuine attempt, intent of Congress to actually be straight
+      with the public.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+      title: Ross Coulthart
+    provenance_chain:
+      origin_kind: speaker
+      origin: Ross Coulthart
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 4fb65b2c-296a-493d-bbc7-65e4b763c1f0
+        title: United States Congress
+        slug: united-states-congress
+      - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
+        title: Unidentified Anomalous Phenomena (UAP)
+        slug: unidentified-anomalous-phenomena-uap
+      - node_id: a0bc0de8-1d81-44e5-96a7-30706ccc34a4
+        title: Jake Barber
+        slug: jake-barber
+    date: null
+    date_end: null
+    location_in_record: 00:26:09.1-00:26:17.0
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 308dd5bd-eed8-4f08-b15a-98f7bb989522
+      record_title: 'Ross Coulthart Q&A: Skywatcher didn''t disappear — it went government | Reality Check'
+      record_date: '2026-08-09'
+      record_reference: https://www.youtube.com/watch?v=IOZdVCoZ51Q
+      content_hash: sha256:76d7e7613c0a44bdb8d7e5ce87b2a23defe4a987cf1865be3ae1080cd1893d21
+      friendly_name: null
+  - claim_id: aee66fc2-af62-4cdb-80cc-223bf47b3e8d
+    claim_hash: 661ed5f2a77ecb3cfee6a7a3f2a2fa925d8e17bdbb4d4a09cfbbbb02be678a58
+    content: Jake Barber has given evidence to Congress regarding Unidentified Aerial Phenomena (UAP) matters.
+    original_excerpt: He has given evidence, by the way, to the Congress. I took him there. We actually took him to the Congress
+      and he sat down with a committee and gave his evidence.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+      title: Ross Coulthart
+    provenance_chain:
+      origin_kind: speaker
+      origin: Ross Coulthart
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 4fb65b2c-296a-493d-bbc7-65e4b763c1f0
+        title: United States Congress
+        slug: united-states-congress
+      - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
+        title: Unidentified Anomalous Phenomena (UAP)
+        slug: unidentified-anomalous-phenomena-uap
+      - node_id: a0bc0de8-1d81-44e5-96a7-30706ccc34a4
+        title: Jake Barber
+        slug: jake-barber
+    date: null
+    date_end: null
+    location_in_record: 00:29:27.5-00:29:36.3
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 308dd5bd-eed8-4f08-b15a-98f7bb989522
+      record_title: 'Ross Coulthart Q&A: Skywatcher didn''t disappear — it went government | Reality Check'
+      record_date: '2026-08-09'
+      record_reference: https://www.youtube.com/watch?v=IOZdVCoZ51Q
+      content_hash: sha256:76d7e7613c0a44bdb8d7e5ce87b2a23defe4a987cf1865be3ae1080cd1893d21
+      friendly_name: null
+  - claim_id: d30868b8-743a-4b94-91ce-0c88735e1ca4
+    claim_hash: 86c8dfef1403f113b6f7689534464e12c78b00fac3df8de99f59f71dd0d64366
+    content: Congress has Jake Barber's evidence and knows what he knows regarding Unidentified Aerial Phenomena (UAP).
+    original_excerpt: So the Congress has Jake's evidence. They know what he knows.
+    claim_type: observation
+    attestation: first_hand
+    speaker:
+      node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+      title: Ross Coulthart
+    provenance_chain:
+      origin_kind: speaker
+      origin: Ross Coulthart
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 4fb65b2c-296a-493d-bbc7-65e4b763c1f0
+        title: United States Congress
+        slug: united-states-congress
+      - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
+        title: Unidentified Anomalous Phenomena (UAP)
+        slug: unidentified-anomalous-phenomena-uap
+      - node_id: a0bc0de8-1d81-44e5-96a7-30706ccc34a4
+        title: Jake Barber
+        slug: jake-barber
+    date: null
+    date_end: null
+    location_in_record: 00:29:37.3-00:29:40.2
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 308dd5bd-eed8-4f08-b15a-98f7bb989522
+      record_title: 'Ross Coulthart Q&A: Skywatcher didn''t disappear — it went government | Reality Check'
+      record_date: '2026-08-09'
+      record_reference: https://www.youtube.com/watch?v=IOZdVCoZ51Q
+      content_hash: sha256:76d7e7613c0a44bdb8d7e5ce87b2a23defe4a987cf1865be3ae1080cd1893d21
+      friendly_name: null
+  - claim_id: 1e4d8872-ae0c-41ae-abd3-88aedb163fde
+    claim_hash: 2f4496f2313b6c77502a07ecdb2a28137c9a226af308e5e7355068e32ae19dd1
+    content: Jake Barber is a patriot who would probably want to give his evidence to Congress if asked, but only in a way
+      that can be trusted.
+    original_excerpt: And I'm sure if he was asked, he's a patriot, he would probably want to give his evidence. But it has
+      to be in a way that can be trusted.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+      title: Ross Coulthart
+    provenance_chain:
+      origin_kind: speaker
+      origin: Ross Coulthart
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 4fb65b2c-296a-493d-bbc7-65e4b763c1f0
+        title: United States Congress
+        slug: united-states-congress
+      - node_id: a0bc0de8-1d81-44e5-96a7-30706ccc34a4
+        title: Jake Barber
+        slug: jake-barber
+    date: null
+    date_end: null
+    location_in_record: 00:29:41.4-00:29:48.3
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 308dd5bd-eed8-4f08-b15a-98f7bb989522
+      record_title: 'Ross Coulthart Q&A: Skywatcher didn''t disappear — it went government | Reality Check'
+      record_date: '2026-08-09'
+      record_reference: https://www.youtube.com/watch?v=IOZdVCoZ51Q
+      content_hash: sha256:76d7e7613c0a44bdb8d7e5ce87b2a23defe4a987cf1865be3ae1080cd1893d21
+      friendly_name: null
+  - claim_id: 24162b0f-3d81-4c7d-8e59-8ba0bdccc41f
+    claim_hash: 91e15f9138132101d71a07d7705dce0056225c8fe6cd476c35e1f9464e9b999c
+    content: 'Chris Ramsay corrected the account of Jake Barber''s emotional experience: it was not an egg-shaped object but
+      an octagonal craft, the eight-gon, that Jake Barber was piloting when he felt an overwhelming sense of feminine energy.'
+    original_excerpt: No, it wasn't the egg. It was the eight-gon, this octagonal sort of craft that he felt when he was piloting,
+      that it was like, yeah, this overwhelming sense of feminine energy.
+    claim_type: hearsay
+    attestation: second_hand
+    speaker:
+      node_id: 24d00311-06ac-46a1-a2f5-c99f3f8e21b2
+      title: Chris Ramsay
+    provenance_chain:
+      origin_kind: named
+      origin: Jake Barber
+      relay:
+        - Jake Barber's public account on Skywatcher
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 24d00311-06ac-46a1-a2f5-c99f3f8e21b2
+        title: Chris Ramsay
+        slug: chris-ramsay
+      - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
+        title: Unidentified Anomalous Phenomena (UAP)
+        slug: unidentified-anomalous-phenomena-uap
+      - node_id: a0bc0de8-1d81-44e5-96a7-30706ccc34a4
+        title: Jake Barber
+        slug: jake-barber
+      - node_id: e917838a-6b0a-4f07-9485-21dc3e74214d
+        title: Skywatcher
+        slug: skywatcher
+    date: null
+    date_end: null
+    location_in_record: 01:04:15.1-01:04:25.8
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 43b2873d-8ebe-46aa-9425-a7e273c46e34
+      record_title: Non Human Intelligence, GATE Program and Psi Ability with Dr. Julia Mossbridge | ep. 99
+      record_date: '2026-08-14'
+      record_reference: https://www.youtube.com/watch?v=-qt2FYdP_EA
+      content_hash: sha256:8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8998cfdcd
+      friendly_name: null
+  - claim_id: 42500ce6-d786-4701-861b-01885b409576
+    claim_hash: 1f7d8e10688300f3872dfadae294de2c8e2a0bc0f6416097be8356111829b904
+    content: Julia Mossbridge regards the octagon as a strongly sacred-feminine form.
+    original_excerpt: That's very sacred feminine, the octagon.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 8d3ca113-3f28-4808-998e-34d2837332a5
+      title: Julia Mossbridge
+    provenance_chain:
+      origin_kind: speaker
+      origin: Julia Mossbridge
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 8d3ca113-3f28-4808-998e-34d2837332a5
+        title: Julia Mossbridge
+        slug: julia-mossbridge
+      - node_id: a0bc0de8-1d81-44e5-96a7-30706ccc34a4
+        title: Jake Barber
+        slug: jake-barber
+    date: null
+    date_end: null
+    location_in_record: 01:04:26.2-01:04:28.0
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 43b2873d-8ebe-46aa-9425-a7e273c46e34
+      record_title: Non Human Intelligence, GATE Program and Psi Ability with Dr. Julia Mossbridge | ep. 99
+      record_date: '2026-08-14'
+      record_reference: https://www.youtube.com/watch?v=-qt2FYdP_EA
+      content_hash: sha256:8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8998cfdcd
+      friendly_name: null
+  - claim_id: 713c7ec0-11a9-42b3-b374-34f2947e15e1
+    claim_hash: 0d6f72ad9a219d9ea69e8ad73e366df5112c4587f4e6d2435661215ba96546ed
+    content: Julia Mossbridge reports that people in that community respond to Jake Barber's experience of overwhelming love
+      by saying he was being mind controlled, and considers that response more likely a fear of being out of control and of
+      the sacred feminine.
+    original_excerpt: their response to Jacob Barber's experience is he was being mind controlled. Like that's the way they
+      get in, is through making you feel loved, they're controlling your mind, right? As opposed to, which could be true,
+      but also I kind of think it's just fear of being out of control and the sacred feminine.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 8d3ca113-3f28-4808-998e-34d2837332a5
+      title: Julia Mossbridge
+    provenance_chain:
+      origin_kind: speaker
+      origin: Julia Mossbridge
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 8d3ca113-3f28-4808-998e-34d2837332a5
+        title: Julia Mossbridge
+        slug: julia-mossbridge
+      - node_id: a0bc0de8-1d81-44e5-96a7-30706ccc34a4
+        title: Jake Barber
+        slug: jake-barber
+    date: null
+    date_end: null
+    location_in_record: 01:05:41.6-01:06:00.6
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 43b2873d-8ebe-46aa-9425-a7e273c46e34
+      record_title: Non Human Intelligence, GATE Program and Psi Ability with Dr. Julia Mossbridge | ep. 99
+      record_date: '2026-08-14'
+      record_reference: https://www.youtube.com/watch?v=-qt2FYdP_EA
+      content_hash: sha256:8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8998cfdcd
+      friendly_name: null

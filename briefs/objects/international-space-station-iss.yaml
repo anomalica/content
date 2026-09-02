@@ -1,0 +1,703 @@
+schema: anomalica/brief/1
+brief_hash: 72f1a1f2853701e97bce13f3cc9fd46938f65202017cd9d665d6644c11cca466
+page:
+  kind: entity
+  node_id: 0f39bc18-bf04-42ba-8127-33d988dfed95
+  node_type: object
+  title: International Space Station (ISS)
+  slug: international-space-station-iss
+  claim_count: 17
+  claim_count_total: 17
+generated:
+  graph_version: '2026-09-01T10:10:49.863545+00:00'
+size:
+  claims: 17
+  tokens_estimated: 5004
+  sized_against: 1050000
+publication:
+  status: published
+  note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
+    transcripts are gated elsewhere.
+belonging:
+  verified: 0
+  suspect_excluded: 0
+  unreviewed: 17
+related_nodes:
+  - node_id: 5e47c787-005b-4c91-ba4b-c9bec48146c9
+    title: National Aeronautics and Space Administration (NASA)
+    node_type: organisation
+    slug: national-aeronautics-and-space-administration-nasa
+    shared_claims: 4
+  - node_id: 1cc93fc2-f71a-4f59-90e3-dd72c98943db
+    title: Bigelow Aerospace
+    node_type: organisation
+    slug: bigelow-aerospace
+    shared_claims: 2
+  - node_id: bb4edd27-ef6b-4b47-8650-2a83ae9e149d
+    title: Crew Exploration Vehicle (CEV)
+    node_type: object
+    slug: crew-exploration-vehicle-cev
+    shared_claims: 2
+  - node_id: 8d16b687-0581-4cf5-952a-a6ad7dfe7016
+    title: George W. Bush
+    node_type: person
+    slug: george-w-bush
+    shared_claims: 2
+  - node_id: 506dd33e-a568-4a5a-b296-3c82db541219
+    title: Space Shuttle
+    node_type: object
+    slug: space-shuttle
+    shared_claims: 2
+  - node_id: c09e3558-1732-4676-a218-d67d285d98ef
+    title: David Fravor
+    node_type: person
+    slug: david-fravor
+    shared_claims: 1
+  - node_id: 2ed32040-08eb-4718-8cfb-1b0943ddf888
+    title: Expandable space habitat
+    node_type: topic
+    slug: expandable-space-habitat
+    shared_claims: 1
+  - node_id: d6836f10-2c28-42bb-befa-2ce018e49da2
+    title: Michael Griffin
+    node_type: person
+    slug: michael-griffin
+    shared_claims: 1
+  - node_id: 80cf7f36-25c2-4224-a03c-c28add5bf927
+    title: Mir space station
+    node_type: object
+    slug: mir-space-station
+    shared_claims: 1
+  - node_id: 0caff968-782b-4f02-bfcd-3be1c0810d20
+    title: Space Transportation System (Space Shuttle programme)
+    node_type: project
+    slug: space-transportation-system-space-shuttle-programme
+    shared_claims: 1
+  - node_id: 509fb9d8-28bb-46e3-a422-098d764abd0b
+    title: Technology Readiness Level (TRL)
+    node_type: topic
+    slug: technology-readiness-level-trl
+    shared_claims: 1
+  - node_id: c9963801-6309-4edd-a803-5fd357dbcaf9
+    title: Vision for Space Exploration
+    node_type: project
+    slug: vision-for-space-exploration
+    shared_claims: 1
+claims:
+  - claim_id: 3bd6d2ff-94df-4a7a-b0bb-1f192cb1033a
+    claim_hash: e7b26b2a94f974bc3a4d8f3f68c9963b64c30ec5aa30e02bb7f43fea91c45c98
+    content: After his appointment, Michael Griffin began cutting long-term science programmes at the National Aeronautics
+      and Space Administration (NASA) to fund the Space Shuttle, the Space Station programme, and the Vision for Space Exploration.
+    original_excerpt: 'Griffin began severely cutting long-term science programs in the Agency—"stealing from Peter to pay
+      Paul"—to fund the two biggest financial drains on-going: the aging manned Space Shuttle and increasingly expensive Space
+      Station Programs; and the new "Vision for Space exploration"'
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: e1650a1d-8feb-4841-a403-0d71e176d2d9
+      title: Richard C. Hoagland
+    provenance_chain:
+      origin_kind: speaker
+      origin: Richard C. Hoagland
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 0f39bc18-bf04-42ba-8127-33d988dfed95
+        title: International Space Station (ISS)
+        slug: international-space-station-iss
+      - node_id: 506dd33e-a568-4a5a-b296-3c82db541219
+        title: Space Shuttle
+        slug: space-shuttle
+      - node_id: 5e47c787-005b-4c91-ba4b-c9bec48146c9
+        title: National Aeronautics and Space Administration (NASA)
+        slug: national-aeronautics-and-space-administration-nasa
+      - node_id: c9963801-6309-4edd-a803-5fd357dbcaf9
+        title: Vision for Space Exploration
+        slug: vision-for-space-exploration
+      - node_id: d6836f10-2c28-42bb-befa-2ce018e49da2
+        title: Michael Griffin
+        slug: michael-griffin
+    date: null
+    date_end: null
+    location_in_record: ch12:110247-110517
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+      record_title: Dark Mission
+      record_date: '2010-07-22'
+      record_reference: null
+      content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+      friendly_name: null
+  - claim_id: 4528bcec-4278-4547-8fb3-5ed2791452de
+    claim_hash: 1e70474f1cfe67ac9465940c62362b40159d5e73442be61e90f793bd7195cf52
+    content: At the National Aeronautics and Space Administration (NASA) announcement ceremony for the Vision for Space Exploration,
+      President George W. Bush's first goal was to complete the International Space Station by 2010 and then retire the Space
+      Shuttle.
+    original_excerpt: Complete the International Space Station (ISS) by 2010, and then retire the Space Shuttle.
+    claim_type: administrative
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: named
+      origin: George W. Bush
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 0f39bc18-bf04-42ba-8127-33d988dfed95
+        title: International Space Station (ISS)
+        slug: international-space-station-iss
+      - node_id: 506dd33e-a568-4a5a-b296-3c82db541219
+        title: Space Shuttle
+        slug: space-shuttle
+      - node_id: 8d16b687-0581-4cf5-952a-a6ad7dfe7016
+        title: George W. Bush
+        slug: george-w-bush
+    date: '2004-01-14'
+    date_end: null
+    location_in_record: ch19:676-758
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+      record_title: Dark Mission
+      record_date: '2010-07-22'
+      record_reference: null
+      content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+      friendly_name: null
+  - claim_id: 16a54508-88c8-4f82-958b-7f735a26beb8
+    claim_hash: d112982b06a06432a2225c6c21c0bf5153a40ada5c27993cde496f68c0cdd563
+    content: President George W. Bush's second Vision for Space Exploration goal was to develop a new Crew Exploration Vehicle
+      (CEV) to carry astronauts to the International Space Station and then to the Moon and Mars by 2008, with manned missions
+      to start no later than 2014.
+    original_excerpt: Develop a new Crew Exploration Vehicle, or CEV, to carry astronauts to the Space Station and then on
+      to the Moon and Mars by 2008, with manned missions to start no later than 2014.
+    claim_type: administrative
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: named
+      origin: George W. Bush
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 0f39bc18-bf04-42ba-8127-33d988dfed95
+        title: International Space Station (ISS)
+        slug: international-space-station-iss
+      - node_id: 8d16b687-0581-4cf5-952a-a6ad7dfe7016
+        title: George W. Bush
+        slug: george-w-bush
+      - node_id: bb4edd27-ef6b-4b47-8650-2a83ae9e149d
+        title: Crew Exploration Vehicle (CEV)
+        slug: crew-exploration-vehicle-cev
+    date: '2004-01-14'
+    date_end: null
+    location_in_record: ch19:771-946
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+      record_title: Dark Mission
+      record_date: '2010-07-22'
+      record_reference: null
+      content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+      friendly_name: null
+  - claim_id: c3ca613e-1116-4f69-a4fc-b1528e91b337
+    claim_hash: 3d34859b8c5cc491b36835a7b72dafbbafe76c76979ca107b788b87236074bb7
+    content: Unlike Apollo, which carried three men to the Moon and back, the new Crew Exploration Vehicle was required to
+      accommodate four men to the Moon and up to six to the International Space Station.
+    original_excerpt: Unlike Apollo, which only carried three men to the Moon and back, the new CEV would have to accommodate
+      four men to the Moon and up to six to the International Space Station.
+    claim_type: measurement
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 0f39bc18-bf04-42ba-8127-33d988dfed95
+        title: International Space Station (ISS)
+        slug: international-space-station-iss
+      - node_id: bb4edd27-ef6b-4b47-8650-2a83ae9e149d
+        title: Crew Exploration Vehicle (CEV)
+        slug: crew-exploration-vehicle-cev
+    date: null
+    date_end: null
+    location_in_record: ch19:80861-81027
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+      record_title: Dark Mission
+      record_date: '2010-07-22'
+      record_reference: null
+      content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+      friendly_name: null
+  - claim_id: 6cb0d9ed-8af3-4252-b343-c4f9a9a457d0
+    claim_hash: fa6092bbd5e8d3267bac0fea99bd7c30bbed90f5f6d1da41d7a4e74043c70eb3
+    content: The National Aeronautics and Space Administration (NASA) planned a new heavy-lift vehicle that would strap as
+      many as five solid rocket boosters onto a new liquid-fuel rocket design to lift larger payloads of equipment and construction
+      supplies for the International Space Station and lunar bases.
+    original_excerpt: Larger payloads, consisting of equipment and construction supplies for the ISS and eventual lunar bases,
+      would be lifted using a new heavy lift vehicle that would strap as many as five SRBs onto a new liquid rocket design.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 0f39bc18-bf04-42ba-8127-33d988dfed95
+        title: International Space Station (ISS)
+        slug: international-space-station-iss
+      - node_id: 5e47c787-005b-4c91-ba4b-c9bec48146c9
+        title: National Aeronautics and Space Administration (NASA)
+        slug: national-aeronautics-and-space-administration-nasa
+    date: null
+    date_end: null
+    location_in_record: ch19:81419-81634
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3fc3110f-1016-4450-8bad-bd8a4fbc6d12
+      record_title: Dark Mission
+      record_date: '2010-07-22'
+      record_reference: null
+      content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
+      friendly_name: null
+  - claim_id: c498c93d-ff28-4e1a-af7d-2fcf9420aec2
+    claim_hash: f3fe82f92c67fe7400add70ae2fa45ccfa659a1076cd826f4e52dff2673c5ab3
+    content: David Fravor watched a friend of his perform a spacewalk at the International Space Station via a NASA broadcast.
+    original_excerpt: I was in a meeting one day and I've got NASA on... And I saw one, he's in the space station while they're
+      doing a spacewalk.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: c09e3558-1732-4676-a218-d67d285d98ef
+      title: David Fravor
+    provenance_chain:
+      origin_kind: speaker
+      origin: David Fravor
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 0f39bc18-bf04-42ba-8127-33d988dfed95
+        title: International Space Station (ISS)
+        slug: international-space-station-iss
+      - node_id: 5e47c787-005b-4c91-ba4b-c9bec48146c9
+        title: National Aeronautics and Space Administration (NASA)
+        slug: national-aeronautics-and-space-administration-nasa
+      - node_id: c09e3558-1732-4676-a218-d67d285d98ef
+        title: David Fravor
+        slug: david-fravor
+    date: null
+    date_end: null
+    location_in_record: 02:19:28.0-02:19:34.9
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 0157e540-a945-4b2a-acdf-6c449172dcd6
+      record_title: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering | Lex Fridman Podcast #122'
+      record_date: '2020-09-08'
+      record_reference: https://www.youtube.com/watch?v=aB8zcAttP1E
+      content_hash: sha256:135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19fd6afb8a
+      friendly_name: 2020-09-08-video-david-fravor-ufos-aliens-fighter-jets-and-aerospace.v2
+  - claim_id: 745bfdd3-052f-442b-b648-f26b2b4a5d00
+    claim_hash: 63d3b63cdac052361b528cbc29a49666be55551f6959b725ac948f95b03f97ac
+    content: The Space Shuttle fleet helped construct the International Space Station.
+    original_excerpt: helped construct the International Space Station
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 0caff968-782b-4f02-bfcd-3be1c0810d20
+        title: Space Transportation System (Space Shuttle programme)
+        slug: space-transportation-system-space-shuttle-programme
+      - node_id: 0f39bc18-bf04-42ba-8127-33d988dfed95
+        title: International Space Station (ISS)
+        slug: international-space-station-iss
+    date: null
+    date_end: null
+    location_in_record: char:133122-133163
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: d3743fdf-6a99-43ef-98d4-b79ef60f0e47
+      record_title: Report on the Historical Record of U.S. Government Involvement with Unidentified Anomalous Phenomena (UAP),
+        Volume I
+      record_date: '2024-02-01'
+      record_reference: null
+      content_hash: sha256:8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a94774067868
+      friendly_name: 2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a
+  - claim_id: b0bbf0ea-3651-4d4a-83cf-77f66916a56a
+    claim_hash: a83db60cc01ca5ecf2a28d7e2f948708318ab600d1828098856ab0906574b7ce
+    content: A baby born on the International Space Station (ISS) would still have an available soul because the Earth's magnetic
+      field still reaches the ISS.
+    original_excerpt: Well, no, the soul's available on the ISS because the magnetic field is still around.
+    claim_type: opinion
+    attestation: null
+    speaker:
+      node_id: 0aad9179-33c1-4383-aab7-5eb12429386e
+      title: Erik Nanstiel
+    provenance_chain: null
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 0f39bc18-bf04-42ba-8127-33d988dfed95
+        title: International Space Station (ISS)
+        slug: international-space-station-iss
+    date: null
+    date_end: null
+    location_in_record: 01:35:28.2-01:35:35.2
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e78cf776-77b8-4b64-85e2-1e19d2787492
+      record_title: '"Skinny Bob is Real" – Lifelong Abductee Reveals Everything - Erik Nanstiel | DEBRIEFED ep. 85'
+      record_date: '2026-04-24'
+      record_reference: https://www.youtube.com/watch?v=RFI4RWzH3ik
+      content_hash: sha256:f64f70bd2f82bddc453c0c0ecb5f3923dc71758c8182587687552d8c74149b52
+      friendly_name: 2026-04-24-video-skinny-bob-is-real-lifelong-abductee-reveals-everything.v2
+  - claim_id: 1d1fc27c-7834-41e4-a69b-5c069ca3d626
+    claim_hash: a66297e594478ee158b04a4916a2e2dd780f07404c14dd2bd7a9d67832ef05b4
+    content: The International Space Station has only 935 cubic metres of internal volume in total, including the American,
+      Russian, European and Japanese sections.
+    original_excerpt: The International Space Station has only 935 cubic meters, and that includes the American side, the
+      Russian side, the European module, the Japanese module.
+    claim_type: measurement
+    attestation: first_hand
+    speaker:
+      node_id: 0d4dfba6-a53b-4f23-a2ad-e4c9bea44076
+      title: Robert Bigelow
+    provenance_chain:
+      origin_kind: speaker
+      origin: Robert Bigelow
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 0f39bc18-bf04-42ba-8127-33d988dfed95
+        title: International Space Station (ISS)
+        slug: international-space-station-iss
+    date: null
+    date_end: null
+    location_in_record: 01:03:51.5-01:04:00.8
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 5de4e296-4206-45f6-aa56-c3b8efb5c9e2
+      record_title: The Evolution of AAWSAP | Bigelow Podcast, Ep. 2
+      record_date: '2026-08-11'
+      record_reference: https://www.youtube.com/watch?v=hz7jHEgYzQw
+      content_hash: sha256:1aa9d864c5a4bb930164c278d9624c6bc0f84278ea4b5e57594fae9e21e90858
+      friendly_name: null
+  - claim_id: c0d58c8b-9889-4c05-95ea-4d99fd7f68cb
+    claim_hash: ccce690cf1b991eb1eca21265645da9194f020d9abc1582e4b2c41ef3d9c40e4
+    content: The American side of the International Space Station accounts for only about 450 cubic metres of the station's
+      935 cubic metres.
+    original_excerpt: And we only have, the Americans only have about 450 cubic meters of that 935.
+    claim_type: measurement
+    attestation: first_hand
+    speaker:
+      node_id: 0d4dfba6-a53b-4f23-a2ad-e4c9bea44076
+      title: Robert Bigelow
+    provenance_chain:
+      origin_kind: speaker
+      origin: Robert Bigelow
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 0f39bc18-bf04-42ba-8127-33d988dfed95
+        title: International Space Station (ISS)
+        slug: international-space-station-iss
+    date: null
+    date_end: null
+    location_in_record: 01:04:03.1-01:04:07.9
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 5de4e296-4206-45f6-aa56-c3b8efb5c9e2
+      record_title: The Evolution of AAWSAP | Bigelow Podcast, Ep. 2
+      record_date: '2026-08-11'
+      record_reference: https://www.youtube.com/watch?v=hz7jHEgYzQw
+      content_hash: sha256:1aa9d864c5a4bb930164c278d9624c6bc0f84278ea4b5e57594fae9e21e90858
+      friendly_name: null
+  - claim_id: a8522ab1-2acd-4737-b4aa-3040f12b3836
+    claim_hash: e2c41dbc86c72ad3d8cc7c7d8d72ca82caf0da25dd76212265aaa332450f7dbb
+    content: The first three United States modules of the International Space Station were built by Russia because the National
+      Aeronautics and Space Administration (NASA) had no experience with habitable systems while Russia did.
+    original_excerpt: our first three modules were created by russia because we didn't have any experience i'm talking to
+      speak on behalf of NASA we didn't have an experience with habitable systems they did with the Mir
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 0d4dfba6-a53b-4f23-a2ad-e4c9bea44076
+      title: Robert Bigelow
+    provenance_chain:
+      origin_kind: speaker
+      origin: Robert Bigelow
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 0f39bc18-bf04-42ba-8127-33d988dfed95
+        title: International Space Station (ISS)
+        slug: international-space-station-iss
+      - node_id: 5e47c787-005b-4c91-ba4b-c9bec48146c9
+        title: National Aeronautics and Space Administration (NASA)
+        slug: national-aeronautics-and-space-administration-nasa
+      - node_id: 80cf7f36-25c2-4224-a03c-c28add5bf927
+        title: Mir space station
+        slug: mir-space-station
+    date: null
+    date_end: null
+    location_in_record: 01:04:14.5-01:04:24.8
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 5de4e296-4206-45f6-aa56-c3b8efb5c9e2
+      record_title: The Evolution of AAWSAP | Bigelow Podcast, Ep. 2
+      record_date: '2026-08-11'
+      record_reference: https://www.youtube.com/watch?v=hz7jHEgYzQw
+      content_hash: sha256:1aa9d864c5a4bb930164c278d9624c6bc0f84278ea4b5e57594fae9e21e90858
+      friendly_name: null
+  - claim_id: 50760b95-e4c7-4806-b151-3d98de5e46ed
+    claim_hash: 450dc5e16c63f5da7ae538d51f3f4c2b6d74c365720169876d0304d476930356
+    content: The Bigelow B330 expandable spacecraft has an internal volume of 330 cubic metres, about 75 per cent of the volume
+      the Americans hold on the International Space Station.
+    original_excerpt: our small uh craft expandable system was 330 cubic meters you know 75 of the entire space that the americans
+      already have on the ISS
+    claim_type: measurement
+    attestation: first_hand
+    speaker:
+      node_id: 0d4dfba6-a53b-4f23-a2ad-e4c9bea44076
+      title: Robert Bigelow
+    provenance_chain:
+      origin_kind: speaker
+      origin: Robert Bigelow
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 0f39bc18-bf04-42ba-8127-33d988dfed95
+        title: International Space Station (ISS)
+        slug: international-space-station-iss
+    date: null
+    date_end: null
+    location_in_record: 01:05:14.1-01:05:25.1
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 5de4e296-4206-45f6-aa56-c3b8efb5c9e2
+      record_title: The Evolution of AAWSAP | Bigelow Podcast, Ep. 2
+      record_date: '2026-08-11'
+      record_reference: https://www.youtube.com/watch?v=hz7jHEgYzQw
+      content_hash: sha256:1aa9d864c5a4bb930164c278d9624c6bc0f84278ea4b5e57594fae9e21e90858
+      friendly_name: null
+  - claim_id: 2cc369da-8794-4447-a373-26fa3914c093
+    claim_hash: 61bea0541c92af93c8a613854e66ee827f3f841eb19b81f0d436e922c197d0bb
+    content: An average metallic module on the International Space Station has an internal volume of about 105 to 110 cubic
+      metres, making the Bigelow B330 expandable spacecraft three times that size.
+    original_excerpt: and three times the size of an average module average metallic system on the ISS is about 105 110 cubic
+      meters our B330 is 330.
+    claim_type: measurement
+    attestation: first_hand
+    speaker:
+      node_id: 0d4dfba6-a53b-4f23-a2ad-e4c9bea44076
+      title: Robert Bigelow
+    provenance_chain:
+      origin_kind: speaker
+      origin: Robert Bigelow
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 0f39bc18-bf04-42ba-8127-33d988dfed95
+        title: International Space Station (ISS)
+        slug: international-space-station-iss
+    date: null
+    date_end: null
+    location_in_record: 01:05:26.3-01:05:32.3
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 5de4e296-4206-45f6-aa56-c3b8efb5c9e2
+      record_title: The Evolution of AAWSAP | Bigelow Podcast, Ep. 2
+      record_date: '2026-08-11'
+      record_reference: https://www.youtube.com/watch?v=hz7jHEgYzQw
+      content_hash: sha256:1aa9d864c5a4bb930164c278d9624c6bc0f84278ea4b5e57594fae9e21e90858
+      friendly_name: null
+  - claim_id: a7f379d4-694b-43e9-8350-880fbbb18244
+    claim_hash: 7bae9473281afa75c7ffff6f827e23de71f1b1298242cb1c69988f1563c12ce2
+    content: The International Space Station cost 100 billion United States dollars to build, in year 2000 dollar values.
+    original_excerpt: we spent 100 billion dollars to build the ISS as it currently exists 100 billion back in in dollars
+      in 2000 dollar values you know 26 years ago
+    claim_type: measurement
+    attestation: first_hand
+    speaker:
+      node_id: 0d4dfba6-a53b-4f23-a2ad-e4c9bea44076
+      title: Robert Bigelow
+    provenance_chain:
+      origin_kind: speaker
+      origin: Robert Bigelow
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 0f39bc18-bf04-42ba-8127-33d988dfed95
+        title: International Space Station (ISS)
+        slug: international-space-station-iss
+    date: null
+    date_end: null
+    location_in_record: 01:06:32.8-01:06:42.6
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 5de4e296-4206-45f6-aa56-c3b8efb5c9e2
+      record_title: The Evolution of AAWSAP | Bigelow Podcast, Ep. 2
+      record_date: '2026-08-11'
+      record_reference: https://www.youtube.com/watch?v=hz7jHEgYzQw
+      content_hash: sha256:1aa9d864c5a4bb930164c278d9624c6bc0f84278ea4b5e57594fae9e21e90858
+      friendly_name: null
+  - claim_id: 8c661630-893b-4c63-89b0-0fae13a6c882
+    claim_hash: 27551d8f1b98e0b6124aea521d98728bfbf1411b7096edd11a71ce5bf181ecd8
+    content: Bigelow Aerospace could build a space system larger than the International Space Station for one twentieth of
+      its cost.
+    original_excerpt: We can have a system that would be 1/20th of that cost and be larger.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 0d4dfba6-a53b-4f23-a2ad-e4c9bea44076
+      title: Robert Bigelow
+    provenance_chain:
+      origin_kind: speaker
+      origin: Robert Bigelow
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 0f39bc18-bf04-42ba-8127-33d988dfed95
+        title: International Space Station (ISS)
+        slug: international-space-station-iss
+      - node_id: 1cc93fc2-f71a-4f59-90e3-dd72c98943db
+        title: Bigelow Aerospace
+        slug: bigelow-aerospace
+      - node_id: 2ed32040-08eb-4718-8cfb-1b0943ddf888
+        title: Expandable space habitat
+        slug: expandable-space-habitat
+    date: null
+    date_end: null
+    location_in_record: 01:06:49.5-01:06:56.9
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 5de4e296-4206-45f6-aa56-c3b8efb5c9e2
+      record_title: The Evolution of AAWSAP | Bigelow Podcast, Ep. 2
+      record_date: '2026-08-11'
+      record_reference: https://www.youtube.com/watch?v=hz7jHEgYzQw
+      content_hash: sha256:1aa9d864c5a4bb930164c278d9624c6bc0f84278ea4b5e57594fae9e21e90858
+      friendly_name: null
+  - claim_id: cc1aba9b-cc21-4eb9-a00c-716b999f3e30
+    claim_hash: bf257a9ebe61a0c80c6a9bb8fcba2b70fa921d8afff184c9ce8e2aec782cf78a
+    content: The Bigelow Expandable Activity Module (BEAM) was attached to the International Space Station in 2016 and remains
+      attached.
+    original_excerpt: and then BEAM, which is attached right now, this minute, to the ISS in 2016.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 0d4dfba6-a53b-4f23-a2ad-e4c9bea44076
+      title: Robert Bigelow
+    provenance_chain:
+      origin_kind: speaker
+      origin: Robert Bigelow
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 0f39bc18-bf04-42ba-8127-33d988dfed95
+        title: International Space Station (ISS)
+        slug: international-space-station-iss
+    date: '2016'
+    date_end: null
+    location_in_record: 01:07:59.4-01:08:02.9
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 5de4e296-4206-45f6-aa56-c3b8efb5c9e2
+      record_title: The Evolution of AAWSAP | Bigelow Podcast, Ep. 2
+      record_date: '2026-08-11'
+      record_reference: https://www.youtube.com/watch?v=hz7jHEgYzQw
+      content_hash: sha256:1aa9d864c5a4bb930164c278d9624c6bc0f84278ea4b5e57594fae9e21e90858
+      friendly_name: null
+  - claim_id: dd34e973-e293-48e6-9d5d-11b06546569a
+    claim_hash: 11fc2b4102ddd800c491b0ac82ff37145d6ae3f779d4c280fb1eb2a7eaaecd38
+    content: Attaching the Bigelow Expandable Activity Module (BEAM) to the International Space Station gave Bigelow Aerospace
+      a Technology Readiness Level of nine, the highest attainable.
+    original_excerpt: and so that gave us a trl technical technical readiness level of nine which is the highest you can get
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 0d4dfba6-a53b-4f23-a2ad-e4c9bea44076
+      title: Robert Bigelow
+    provenance_chain:
+      origin_kind: speaker
+      origin: Robert Bigelow
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 0f39bc18-bf04-42ba-8127-33d988dfed95
+        title: International Space Station (ISS)
+        slug: international-space-station-iss
+      - node_id: 1cc93fc2-f71a-4f59-90e3-dd72c98943db
+        title: Bigelow Aerospace
+        slug: bigelow-aerospace
+      - node_id: 509fb9d8-28bb-46e3-a422-098d764abd0b
+        title: Technology Readiness Level (TRL)
+        slug: technology-readiness-level-trl
+    date: null
+    date_end: null
+    location_in_record: 01:08:04.6-01:08:10.5
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 5de4e296-4206-45f6-aa56-c3b8efb5c9e2
+      record_title: The Evolution of AAWSAP | Bigelow Podcast, Ep. 2
+      record_date: '2026-08-11'
+      record_reference: https://www.youtube.com/watch?v=hz7jHEgYzQw
+      content_hash: sha256:1aa9d864c5a4bb930164c278d9624c6bc0f84278ea4b5e57594fae9e21e90858
+      friendly_name: null

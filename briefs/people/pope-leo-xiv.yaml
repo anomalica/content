@@ -1,0 +1,156 @@
+schema: anomalica/brief/1
+brief_hash: 22c422aa1aeac0b8232762d529f5820be226a1a963ced66c219650a22421a93c
+page:
+  kind: entity
+  node_id: 003d66fb-639b-4885-80ff-9cbe54e5c6ff
+  node_type: person
+  title: Pope Leo XIV
+  slug: pope-leo-xiv
+  claim_count: 3
+  claim_count_total: 3
+generated:
+  graph_version: '2026-09-01T10:10:49.863545+00:00'
+size:
+  claims: 3
+  tokens_estimated: 740
+  sized_against: 1050000
+publication:
+  status: published
+  note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
+    transcripts are gated elsewhere.
+belonging:
+  verified: 0
+  suspect_excluded: 0
+  unreviewed: 3
+related_nodes:
+  - node_id: 816c219b-6372-49f6-9579-5eeabb9a7474
+    title: Donald Trump
+    node_type: person
+    slug: donald-trump
+    shared_claims: 1
+  - node_id: ff0a86b8-8f3c-4291-94ed-c6d303875ce8
+    title: Jason Samosa
+    node_type: person
+    slug: jason-samosa
+    shared_claims: 1
+  - node_id: b9230db2-eef8-4526-86aa-97f693336b1a
+    title: Knights of Malta
+    node_type: organisation
+    slug: knights-of-malta
+    shared_claims: 1
+  - node_id: 19dca973-75b8-49af-b130-3927d2360826
+    title: Pope Francis
+    node_type: person
+    slug: pope-francis
+    shared_claims: 1
+claims:
+  - claim_id: 33d32636-0237-4664-892f-7af80f539e1f
+    claim_hash: bba6150b3cb9db3992527718096c2c0767fe71fd587fdc2a0bf3e8bd1c46ea7d
+    content: Pope Leo XIV has publicly called out Donald Trump.
+    original_excerpt: And now you look at Pope Leo calling out Trump.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: ff0a86b8-8f3c-4291-94ed-c6d303875ce8
+      title: Jason Samosa
+    provenance_chain:
+      origin_kind: speaker
+      origin: Jason Samosa
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 003d66fb-639b-4885-80ff-9cbe54e5c6ff
+        title: Pope Leo XIV
+        slug: pope-leo-xiv
+      - node_id: 816c219b-6372-49f6-9579-5eeabb9a7474
+        title: Donald Trump
+        slug: donald-trump
+    date: null
+    date_end: null
+    location_in_record: 02:28:55.5-02:28:58.4
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 64b84f95-238c-4ab7-a678-bee55f985b14
+      record_title: The UFO Cover-Up Leads to One Secret Society — and One Final Event
+      record_date: '2026-07-14'
+      record_reference: https://www.youtube.com/watch?v=kccrkCGGzX4
+      content_hash: sha256:d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7b5a1b98d
+      friendly_name: null
+  - claim_id: 42d8b0e8-ecfb-4c3e-be65-e36dc6486a21
+    claim_hash: 448794c2322b581c65786fcc3f7ed05b514dcf6ebe46f974368193372a2ffc24
+    content: Pope Francis was the pope immediately preceding Pope Leo XIV, and Jason Samosa believes he was trying to rein
+      in the Knights of Malta over a conflict about them operating somewhat rogue.
+    original_excerpt: Pope Francis was the last pope. I think he was trying to deal with the Knights of Malta as well. There
+      was some conflict there about them, maybe operating a little bit rogue, he had to pull them in.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: ff0a86b8-8f3c-4291-94ed-c6d303875ce8
+      title: Jason Samosa
+    provenance_chain:
+      origin_kind: speaker
+      origin: Jason Samosa
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 003d66fb-639b-4885-80ff-9cbe54e5c6ff
+        title: Pope Leo XIV
+        slug: pope-leo-xiv
+      - node_id: 19dca973-75b8-49af-b130-3927d2360826
+        title: Pope Francis
+        slug: pope-francis
+      - node_id: b9230db2-eef8-4526-86aa-97f693336b1a
+        title: Knights of Malta
+        slug: knights-of-malta
+      - node_id: ff0a86b8-8f3c-4291-94ed-c6d303875ce8
+        title: Jason Samosa
+        slug: jason-samosa
+    date: null
+    date_end: null
+    location_in_record: 02:29:25.2-02:29:34.3
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 64b84f95-238c-4ab7-a678-bee55f985b14
+      record_title: The UFO Cover-Up Leads to One Secret Society — and One Final Event
+      record_date: '2026-07-14'
+      record_reference: https://www.youtube.com/watch?v=kccrkCGGzX4
+      content_hash: sha256:d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7b5a1b98d
+      friendly_name: null
+  - claim_id: acfc18ac-fdc5-4f4d-83bf-745804452832
+    claim_hash: 067217b425ccfb941b274887f983fb2897b92aa8245849edaf2e8217eaeca563
+    content: Pope Leo XIV is an American.
+    original_excerpt: Leo, too. He's an American.
+    claim_type: administrative
+    attestation: first_hand
+    speaker:
+      node_id: 24d00311-06ac-46a1-a2f5-c99f3f8e21b2
+      title: Chris Ramsay
+    provenance_chain:
+      origin_kind: speaker
+      origin: Chris Ramsay
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 003d66fb-639b-4885-80ff-9cbe54e5c6ff
+        title: Pope Leo XIV
+        slug: pope-leo-xiv
+    date: null
+    date_end: null
+    location_in_record: 01:04:50.2-01:04:51.3
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: dc9d8bc8-9c1f-46b4-9b89-8d86b6b08e1d
+      record_title: Jesse Michels, UAPGerb & Chris Ramsay - Flying Saucer Diner
+      record_date: '2026-07-17'
+      record_reference: https://www.youtube.com/watch?v=HFLBDi87888
+      content_hash: sha256:7b2e272d7c82fdda745ee0354d7c9cc4b0d5ba5506015ca27edd9169a768b262
+      friendly_name: null

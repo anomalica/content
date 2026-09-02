@@ -1,0 +1,299 @@
+schema: anomalica/brief/1
+brief_hash: a8160a504528239fa8ef14900a349dfb61002f603545ce5eb0e34dd1ac4a57d9
+page:
+  kind: entity
+  node_id: 564663b8-b4bd-411f-bb55-47655b1bf175
+  node_type: person
+  title: Andre Carson
+  slug: andre-carson
+  claim_count: 7
+  claim_count_total: 7
+generated:
+  graph_version: '2026-09-01T10:10:49.863545+00:00'
+size:
+  claims: 7
+  tokens_estimated: 1925
+  sized_against: 1050000
+publication:
+  status: published
+  note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
+    transcripts are gated elsewhere.
+belonging:
+  verified: 0
+  suspect_excluded: 0
+  unreviewed: 7
+related_nodes:
+  - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
+    title: Unidentified Anomalous Phenomena (UAP)
+    node_type: topic
+    slug: unidentified-anomalous-phenomena-uap
+    shared_claims: 5
+  - node_id: e075c573-8ae3-4bc0-9125-d4b9fa3e140f
+    title: 2022-05-17 US Congress public hearing on UAPs
+    node_type: event
+    slug: 2022-05-17-us-congress-public-hearing-on-uaps
+    shared_claims: 1
+  - node_id: 4fb65b2c-296a-493d-bbc7-65e4b763c1f0
+    title: United States Congress
+    node_type: organisation
+    slug: united-states-congress
+    shared_claims: 1
+  - node_id: 99f08514-5471-4eaf-bce3-46c474a8d304
+    title: United States Department of Defense (DoD)
+    node_type: organisation
+    slug: united-states-department-of-defense-dod
+    shared_claims: 1
+claims:
+  - claim_id: 8f3d830a-5ded-479b-ad51-b617bef2ecdd
+    claim_hash: 42486e9568b8a04b7f989aff32ac809482d958039be88d35c308c5546571d7be
+    content: André Carson considers the stigma associated with UAP to have long hindered good intelligence analysis.
+    original_excerpt: Committee chairman André Carson emphasised how the stigma associated with UAPs had long hindered good
+      intelligence analysis.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 564663b8-b4bd-411f-bb55-47655b1bf175
+      title: Andre Carson
+    provenance_chain:
+      origin_kind: speaker
+      origin: André Carson
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 564663b8-b4bd-411f-bb55-47655b1bf175
+        title: Andre Carson
+        slug: andre-carson
+      - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
+        title: Unidentified Anomalous Phenomena (UAP)
+        slug: unidentified-anomalous-phenomena-uap
+    date: null
+    date_end: null
+    location_in_record: ch30:22697-22812
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: a57576ce-ca3e-4f34-b474-f51a2b8d1bf7
+    claim_hash: b7e89e7711880afba7ad3a8d449224cd411ddbe682323cf01873a95c65dae519
+    content: André Carson was the committee chairman of the 17 May 2022 US Congress public hearing on UAP.
+    original_excerpt: Committee chairman André Carson emphasised how the stigma associated with UAPs had long hindered good
+      intelligence analysis.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 564663b8-b4bd-411f-bb55-47655b1bf175
+        title: Andre Carson
+        slug: andre-carson
+      - node_id: e075c573-8ae3-4bc0-9125-d4b9fa3e140f
+        title: 2022-05-17 US Congress public hearing on UAPs
+        slug: 2022-05-17-us-congress-public-hearing-on-uaps
+    date: null
+    date_end: null
+    location_in_record: ch30:22697-22812
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 5a54efdb-52ba-4b3d-8964-fd89a0310f46
+    claim_hash: fd400f084379796bd2c25bc78c7f2a471d0edb743300a1254462fb5990d905b1
+    content: André Carson said pilots avoided reporting UAP sightings or were laughed at when they did.
+    original_excerpt: ‘Pilots avoided reporting or were laughed at when they did.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 564663b8-b4bd-411f-bb55-47655b1bf175
+      title: Andre Carson
+    provenance_chain:
+      origin_kind: speaker
+      origin: André Carson
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 564663b8-b4bd-411f-bb55-47655b1bf175
+        title: Andre Carson
+        slug: andre-carson
+      - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
+        title: Unidentified Anomalous Phenomena (UAP)
+        slug: unidentified-anomalous-phenomena-uap
+    date: null
+    date_end: null
+    location_in_record: ch30:22823-22877
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: cc826a6b-105f-455b-9a1a-bb04ef6e3d32
+    claim_hash: 67164fb6c88a05deedfdebed00adef999a06ee4239230323076ab9d319910460
+    content: André Carson said Department of Defense officials relegated the UAP issue to the back room or swept it under
+      the rug entirely, fearful of a sceptical national security community.
+    original_excerpt: DOD officials relegated the issue to the back room or swept it under the rug entirely, fearful of a
+      skeptical national security community.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 564663b8-b4bd-411f-bb55-47655b1bf175
+      title: Andre Carson
+    provenance_chain:
+      origin_kind: speaker
+      origin: André Carson
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 564663b8-b4bd-411f-bb55-47655b1bf175
+        title: Andre Carson
+        slug: andre-carson
+      - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
+        title: Unidentified Anomalous Phenomena (UAP)
+        slug: unidentified-anomalous-phenomena-uap
+      - node_id: 99f08514-5471-4eaf-bce3-46c474a8d304
+        title: United States Department of Defense (DoD)
+        slug: united-states-department-of-defense-dod
+    date: null
+    date_end: null
+    location_in_record: ch30:22882-23010
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 2eeccfe4-6161-453c-89ec-8b7a0a2d14c8
+    claim_hash: 34a24b136e265d7c787db30e4a9d6bcac87bb11a68959e7c129e519467d5afe4
+    content: André Carson said UAP are unexplained but real, need to be investigated, and any threats they pose need to be
+      mitigated.
+    original_excerpt: UAPs are unexplained, it is true, but they are real. They need to be investigated, and any threats they
+      pose need to be mitigated,’ Carson said.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 564663b8-b4bd-411f-bb55-47655b1bf175
+      title: Andre Carson
+    provenance_chain:
+      origin_kind: speaker
+      origin: André Carson
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 564663b8-b4bd-411f-bb55-47655b1bf175
+        title: Andre Carson
+        slug: andre-carson
+      - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
+        title: Unidentified Anomalous Phenomena (UAP)
+        slug: unidentified-anomalous-phenomena-uap
+    date: null
+    date_end: null
+    location_in_record: ch30:23043-23182
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2021'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 9c89d49f-98ab-4588-acfc-e9ead837a10b
+    claim_hash: fc9baed4a8caf5e92ebdd217fc2daaf2a21fa4fd74946f2600f58efc2a1f565d
+    content: 'Andre Carson said: "Whistleblowing is essential to the checks and balances of our government - and no federal
+      employee should feel discouraged from stepping forward due to fear of retaliation."'
+    original_excerpt: “Whistleblowing is essential to the checks and balances of our government – and no federal employee
+      should feel discouraged from stepping forward due to fear of retaliation,” Rep. Andre Carson told us.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 564663b8-b4bd-411f-bb55-47655b1bf175
+      title: Andre Carson
+    provenance_chain:
+      origin_kind: speaker
+      origin: Andre Carson
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    node_refs:
+      - node_id: 564663b8-b4bd-411f-bb55-47655b1bf175
+        title: Andre Carson
+        slug: andre-carson
+    date: null
+    date_end: null
+    location_in_record: char:19457-19654
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e790e3f8-b1a1-4ca3-893a-02d67f8815d7
+      record_title: Intelligence Officials Say U.S. Has Retrieved Craft of Non-Human Origin
+      record_date: '2023-06-05'
+      record_reference: https://thedebrief.org/intelligence-officials-say-u-s-has-retrieved-non-human-craft/
+      content_hash: sha256:5ce8e38071f914d4dbb950938474d8e00a0a59d120d4391a2e90baa5da5d4335
+      friendly_name: 2023-06-05-web-intelligence-officials-say-u-s-has-retrieved-craft-of-non
+  - claim_id: 46b1748b-3951-475a-8681-0324358d58a4
+    claim_hash: 88273bc85437647a271ca3c8a4f60599f6d2493f3eb3940b36fb3c770cb8d9f0
+    content: In May 2022, Andre Carson presided over the first open Congressional hearing on Unidentified Aerial Phenomena
+      (UAP) since 1968.
+    original_excerpt: In May 2022, Carson presided over the first open Congressional hearing on UAP since 1968.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    node_refs:
+      - node_id: 4fb65b2c-296a-493d-bbc7-65e4b763c1f0
+        title: United States Congress
+        slug: united-states-congress
+      - node_id: 564663b8-b4bd-411f-bb55-47655b1bf175
+        title: Andre Carson
+        slug: andre-carson
+      - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
+        title: Unidentified Anomalous Phenomena (UAP)
+        slug: unidentified-anomalous-phenomena-uap
+    date: 2022-05
+    date_end: null
+    location_in_record: char:19658-19742
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e790e3f8-b1a1-4ca3-893a-02d67f8815d7
+      record_title: Intelligence Officials Say U.S. Has Retrieved Craft of Non-Human Origin
+      record_date: '2023-06-05'
+      record_reference: https://thedebrief.org/intelligence-officials-say-u-s-has-retrieved-non-human-craft/
+      content_hash: sha256:5ce8e38071f914d4dbb950938474d8e00a0a59d120d4391a2e90baa5da5d4335
+      friendly_name: 2023-06-05-web-intelligence-officials-say-u-s-has-retrieved-craft-of-non
