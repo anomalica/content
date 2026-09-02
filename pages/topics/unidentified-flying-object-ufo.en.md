@@ -1,5 +1,5 @@
 ---
-title: Unidentified Flying Object (UFO)
+title: UFO
 aliases:
 - /topics/unidentified-flying-object-ufo-abduction-phenomenon/
 - /en/topics/unidentified-flying-object-ufo-abduction-phenomenon/

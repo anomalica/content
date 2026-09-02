@@ -1,5 +1,5 @@
 ---
-title: Unidentified Aerial Phenomena (UAP) Disclosure Act
+title: UAP Disclosure Act
 description: A legislative proposal sponsored in the United States Senate in 2023
   by Chuck Schumer, Mike Rounds, Marco Rubio, and Kirsten Gillibrand that would require
   declassification of government-held records on unidentified anomalous phenomena

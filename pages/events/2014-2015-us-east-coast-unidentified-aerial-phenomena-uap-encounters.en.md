@@ -1,5 +1,5 @@
 ---
-title: 2014-2015 US East Coast Unidentified Aerial Phenomena (UAP) encounters
+title: 2014-2015 US East Coast UAP encounters
 aliases:
 - /events/2014-2015-uss-theodore-roosevelt-east-coast-unidentified-aerial-phenomena-uap-encounters/
 - /en/events/2014-2015-uss-theodore-roosevelt-east-coast-unidentified-aerial-phenomena-uap-encounters/
