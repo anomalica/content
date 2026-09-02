@@ -1,5 +1,5 @@
 schema: anomalica/brief/1
-brief_hash: b5089961cbe9c61fa2ca834a9566fb1adb59cd22cb3f59d9e7ac4fa0d06b61d4
+brief_hash: dbe61a54ae97d7b782b8c169727eb94dd5886855000ce28db8cd09133d5cd3b6
 page:
   kind: entity
   node_id: 782e22a7-0df0-4c32-86ac-095f5ac2ec32
@@ -9,7 +9,7 @@ page:
   claim_count: 22
   claim_count_total: 22
 generated:
-  graph_version: '2026-09-02T13:07:29.167026+00:00'
+  graph_version: '2026-09-02T14:12:13.257772+00:00'
 size:
   claims: 22
   tokens_estimated: 3602
@@ -448,7 +448,7 @@ claims:
       content_hash: sha256:95ecdca9eaaaa0521483c2d03a9a5c1d985a6e0cf3c938b2d12b235833fce3bb
       friendly_name: null
   - claim_id: 50dc3394-07d3-4476-9123-283a0da2f806
-    claim_hash: 64bdd5bdf9538c2d73aa9d825d1ed87ae81355172c235272518139e75b28f597
+    claim_hash: 6d6a86fe67a4f2e6fef8813a1a3ab5deb8d604f050aa1c262108b7dffdb8a6df
     content: The Search for Extraterrestrial Intelligence (SETI) is a government-sponsored project that has for years scanned
       the heavens from the Mojave Desert in California with huge radio telescopes, listening for a trace of intelligent life.
     original_excerpt: For years, a government-sponsored project called SETI, or Search for Extraterrestrial Intelligence,
@@ -489,7 +489,7 @@ claims:
       content_hash: sha256:95ecdca9eaaaa0521483c2d03a9a5c1d985a6e0cf3c938b2d12b235833fce3bb
       friendly_name: null
   - claim_id: 6db72cda-68c3-48bc-9a60-04a5efd6e73f
-    claim_hash: 46992ac19a05c8dd60c180dfdcf646f82b2380c294f9787cbada2da2ccda2297
+    claim_hash: cca27d0c00ff99813ca0db7426efff6cca535fd059da75f537aeb841f33673fe
     content: Even if the Search for Extraterrestrial Intelligence (SETI) picked up a message from outer space, it would do
       little to settle the UFO controversy.
     original_excerpt: But even if they were to pick up a message from outer space, it would do little to settle the UFO controversy.
@@ -528,7 +528,7 @@ claims:
       content_hash: sha256:95ecdca9eaaaa0521483c2d03a9a5c1d985a6e0cf3c938b2d12b235833fce3bb
       friendly_name: null
   - claim_id: c5ad89a9-4067-4a95-9237-ea4cf347a5f3
-    claim_hash: 74088da35abdf0f34b19a67d85cf05822c55dbe7f74efdc024e49d44fa414c98
+    claim_hash: 71d0d90113486cc0b20b650a7bf1bddce591ba2854455812a575c52cd5d21ff7
     content: In 2004, Paul Davies revisited the theme of extraterrestrial DNA in a way that surprised many people, speculating
       in New Scientist that a more intelligent way to search for evidence of an extraterrestrial message would be to look
       for unusual extraterrestrial patterns in so-called "junk" DNA rather than using Search for Extraterrestrial Intelligence
@@ -773,7 +773,7 @@ claims:
       content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
       friendly_name: null
   - claim_id: b2de63d7-63a3-4792-bbc1-3a515d04df1e
-    claim_hash: bb7f9299d56b4d2448df8f2782f575e8da23a82012ec1b9b8cd1c9878bc54430
+    claim_hash: d8b10fa7335c2b1036d9a519ee7012fc183b99253b2387f78121e0953d88b2d2
     content: Tyler D. considers the Search for Extraterrestrial Intelligence (SETI) to be looking in the wrong places with
       the wrong sensors, since a laser detector is unlikely to find anything, though it obtains funding.
     original_excerpt: SETI [the Search for Extraterrestrial Intelligence] seems to look in all the wrong places with the wrong
@@ -817,7 +817,7 @@ claims:
       content_hash: sha256:ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b16ac4758
       friendly_name: 2019-ebook-american-cosmic
   - claim_id: 063684b5-1bd3-42f3-a486-0c9694d338c5
-    claim_hash: 6ceeb30509edee224c5033a5ce4e2aaebe35a5be53db22952d0eaa098bf8ba70
+    claim_hash: 318a25cc22adedf577390a54e50f3b451bcc3a81f617596def552c051408d901
     content: According to Edgar Mitchell, organisations like the Search for Extraterrestrial Intelligence (SETI) were apparently
       not the preferred contact centres for extraterrestrial communication.
     original_excerpt: Organizations like SETI, the Search for Extraterrestrial Intelligence, were not the preferred contact
@@ -860,7 +860,7 @@ claims:
       content_hash: sha256:ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b16ac4758
       friendly_name: 2019-ebook-american-cosmic
   - claim_id: f7da5fc2-392d-446d-bdd1-538af132fb11
-    claim_hash: 2a34c64120e278b58a7eecd9ef3655c887bd8797c4ed6ecb45b480612b007644
+    claim_hash: 469647e185cb305de58b8243d95de81aa9a41732695430b61a7e5baea70e1910
     content: Tyler D. also mentioned that organisations like the Search for Extraterrestrial Intelligence (SETI) were not
       the preferred contact centres for extraterrestrial communication.
     original_excerpt: Tyler had mentioned this too.
@@ -902,7 +902,7 @@ claims:
       content_hash: sha256:ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b16ac4758
       friendly_name: 2019-ebook-american-cosmic
   - claim_id: 3bac88c8-bcd4-48b1-a505-9247426d9b68
-    claim_hash: 5797e93b8646fb8f233aeee3c1029a9bd60aefc9ff7d31614ef0da58d4e9173f
+    claim_hash: 628659012a09f5d3f15f139f866b228464e4487960b4a8b151f707c8e6a606e9
     content: Iosif Samuilovich Shklovsky wrote in Intelligent Life in the Universe, "The prey runs to the predator," referring
       to the search for extraterrestrial life and suggesting that if humans met such life it might not be friendly.
     original_excerpt: 'I was struck by Shklovsky''s words: “The prey runs to the predator.” This referred to the search for
@@ -947,7 +947,7 @@ claims:
       content_hash: sha256:ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b16ac4758
       friendly_name: 2019-ebook-american-cosmic
   - claim_id: 68b43d23-894d-43bc-b84b-86154ea3b0b9
-    claim_hash: edbd0b4c3c6bb3b80516bff6f69b63b823284ec52c0c795e2616c8114e634002
+    claim_hash: 8e7d0593ea7dc2b4b5be44a53db1fef4b051a1eb02db4ecdb08059910b2a1318
     content: Marcia Smith asked Daniel Sheehan to accompany NASA astronauts on a lobbying tour of Congress to push for the
       reinstatement of full funding for the Search for Extra-Terrestrial Intelligence (SETI) program.
     original_excerpt: Marcia Smith came back a few weeks later and asked if, as a Jesuit representative, Sheehan would accompany
@@ -999,7 +999,7 @@ claims:
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
   - claim_id: e675a609-e8c3-42e8-86ab-341d167f3747
-    claim_hash: 7468b1270fa48269ecd59f17485877e9e7fbf38fb0cd303b5bc4388f073af12a
+    claim_hash: 325a146a4c025dcbf95481f8ebce08517ee31fe75eb3fbf0e50bb99deda8718b
     content: NASA funded a very small SETI study in 1971.
     original_excerpt: In 1971, NASA had funded a very small SETI study
     claim_type: administrative
@@ -1037,7 +1037,7 @@ claims:
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
   - claim_id: 8cebf6a8-2a6d-46d3-a1fb-6914eb1bf7f1
-    claim_hash: 0b1ba7da03e916d99b8372525063174678405c9d75aa57c10e7cb6cc22d30254
+    claim_hash: c6183d88619f32b182899cf39d7c3027d5589dac5d20315af1efc1b37dcaf7f2
     content: After the success of his efforts for SETI, Daniel Sheehan was invited to make a presentation on the religious
       implications of extra-terrestrial contact at the NASA Jet Propulsion Laboratory in California.
     original_excerpt: After the success of his efforts for SETI, Sheehan was invited to make a presentation on the religious
@@ -1080,7 +1080,7 @@ claims:
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
   - claim_id: 3af1b87d-8aee-4450-862a-35c0c3bbda74
-    claim_hash: ab49567a305aa28187711af70d9b464d06db385bb62cfb9f57cf7e5e231d7991
+    claim_hash: a3f233eef7649fa655c9ffd2ef0b2437cc4a0edb6b8c6a09db16b6315704dd66
     content: In 1990, Steven Greer founded the Center for the Study of Extra-terrestrial Intelligence (CSETI), a lobby group
       separate from the non-profit SETI (Search for Extra-terrestrial Intelligence) Institute formerly funded by NASA.
     original_excerpt: In 1990, Greer had founded the Center for the Study of Extra-terrestrial Intelligence (CSETI), a lobby

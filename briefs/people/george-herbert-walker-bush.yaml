@@ -1,5 +1,5 @@
 schema: anomalica/brief/1
-brief_hash: 110854074c62128ff39494c3fbbafd5e102e2b3cca77d133e28cacc2f65557f6
+brief_hash: 351d557cf1b0c4a73ac201c8fde2e77c457f6183a30b193ed546f10a7f74ab74
 page:
   kind: entity
   node_id: dba2f206-7088-4fe9-9fc5-d7228a9149f4
@@ -9,7 +9,7 @@ page:
   claim_count: 34
   claim_count_total: 34
 generated:
-  graph_version: '2026-09-02T13:07:29.167026+00:00'
+  graph_version: '2026-09-02T14:12:13.257772+00:00'
 size:
   claims: 34
   tokens_estimated: 5157
@@ -17,13 +17,13 @@ size:
 entailment:
   assessed: 34
   unassessed: 0
-  entails: 22
-  neutral: 9
+  entails: 24
+  neutral: 7
   contradicts: 3
   entailed_by_quote: 8
-  entailed_by_window: 14
+  entailed_by_window: 16
   entailed_by_quote_fraction: 0.235
-  entailed_by_window_fraction: 0.412
+  entailed_by_window_fraction: 0.471
 publication:
   status: published
   note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
@@ -133,7 +133,7 @@ related_nodes:
     node_type: organisation
     slug: united-states-congress
     shared_claims: 2
-  - node_id: 459eb5cf-ea76-4cad-9421-a726261cd3a2
+  - node_id: c8b2f71c-febf-446f-9b1e-3e6bdc6c86c5
     title: William J. Clinton
     node_type: person
     slug: william-j-clinton
@@ -274,7 +274,7 @@ claims:
       content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
       friendly_name: null
   - claim_id: 154436ee-e289-4bb7-872c-f8942c6083a5
-    claim_hash: deb96803851209e9a9900589cb4b3e43d05a64d324cf63aa9043d400f9607e80
+    claim_hash: 4db4ad3afeb08c3a827bc45d14d4c4f99234ef1889e2e18e4a354a0fd0f3e759
     content: George Herbert Walker Bush proposed the Space Exploration Initiative in 1989, which met resistance over its large
       budgetary requirements and was subsequently killed by his successor, President Bill Clinton.
     original_excerpt: This was a considerably more modest proposal than the so-called "Space Exploration Initiative" proposed
@@ -295,12 +295,12 @@ claims:
       model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
       premise: quote
     node_refs:
-      - node_id: 459eb5cf-ea76-4cad-9421-a726261cd3a2
-        title: William J. Clinton
-        slug: william-j-clinton
       - node_id: 666178f1-932b-4413-b63b-ffd33ea7b12b
         title: Space Exploration Initiative (SEI)
         slug: space-exploration-initiative-sei
+      - node_id: c8b2f71c-febf-446f-9b1e-3e6bdc6c86c5
+        title: William J. Clinton
+        slug: william-j-clinton
       - node_id: dba2f206-7088-4fe9-9fc5-d7228a9149f4
         title: George Herbert Walker Bush
         slug: george-herbert-walker-bush
@@ -428,10 +428,10 @@ claims:
     attribution_mode: unknown
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.621
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.473
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: a4e23c30-3b72-4690-b855-906d80d76a17
         title: John Kleinberg
@@ -1663,7 +1663,7 @@ claims:
       content_hash: sha256:d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7b5a1b98d
       friendly_name: null
   - claim_id: 7be64312-c7b5-4528-af89-1659f36042a5
-    claim_hash: 96199762c0839795219ffd9fbd845b14aee2d7dd9133bc6c24e51304e4d3698d
+    claim_hash: d1a064184c4f18034ea7584c9275f232432da81d23ad4ad8af52efd38a12a6e4
     content: Bill Clinton and Barack Obama came into office without being connected to the United States establishment, unlike
       Ronald Reagan, Richard Nixon and the Bush family, in Jason Samosa's view.
     original_excerpt: Clinton and Obama coming into office really weren't connected to the establishment of the United States.
@@ -1692,12 +1692,12 @@ claims:
       - node_id: 3690087e-5e65-4693-8b72-f144d9963dd5
         title: Richard Nixon
         slug: richard-nixon
-      - node_id: 459eb5cf-ea76-4cad-9421-a726261cd3a2
-        title: William J. Clinton
-        slug: william-j-clinton
       - node_id: 65058869-076f-47d0-92ea-f8daf08b94cf
         title: Barack Obama
         slug: barack-obama
+      - node_id: c8b2f71c-febf-446f-9b1e-3e6bdc6c86c5
+        title: William J. Clinton
+        slug: william-j-clinton
       - node_id: dba2f206-7088-4fe9-9fc5-d7228a9149f4
         title: George Herbert Walker Bush
         slug: george-herbert-walker-bush
@@ -1730,10 +1730,10 @@ claims:
     attribution_mode: unknown
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.642
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.988
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 079d4381-4273-418b-bc9a-468623f95c6e
         title: Jesse Mitchells

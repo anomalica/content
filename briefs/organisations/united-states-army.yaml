@@ -9,7 +9,7 @@ page:
   claim_count: 87
   claim_count_total: 87
 generated:
-  graph_version: '2026-09-02T13:07:29.167026+00:00'
+  graph_version: '2026-09-02T14:12:13.257772+00:00'
 size:
   claims: 87
   tokens_estimated: 11824
@@ -17,13 +17,13 @@ size:
 entailment:
   assessed: 87
   unassessed: 0
-  entails: 64
-  neutral: 20
+  entails: 67
+  neutral: 17
   contradicts: 3
   entailed_by_quote: 33
-  entailed_by_window: 31
+  entailed_by_window: 34
   entailed_by_quote_fraction: 0.379
-  entailed_by_window_fraction: 0.356
+  entailed_by_window_fraction: 0.391
 publication:
   status: published
   note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
@@ -246,10 +246,10 @@ claims:
     attribution_mode: unknown
     attachment: unreviewed
     entailment:
-      label: neutral
+      label: entails
       score: 0.999
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 90caeefc-7b1b-4372-91dc-1f9c99681b23
         title: Cash-Landrum Unidentified Flying Object (UFO) incident, Dayton, Texas
@@ -1708,10 +1708,10 @@ claims:
     attribution_mode: bare_ok
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.975
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.59
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 6dcdfe60-bc2f-4be2-a041-9957a82f371e
         title: Harold E. Puthoff
@@ -3909,10 +3909,10 @@ claims:
     attribution_mode: unknown
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.98
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.964
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 8d3ca113-3f28-4808-998e-34d2837332a5
         title: Julia Mossbridge

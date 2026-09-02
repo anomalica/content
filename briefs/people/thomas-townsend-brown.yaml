@@ -1,5 +1,5 @@
 schema: anomalica/brief/1
-brief_hash: bd907a14671eed84f7fac389cf2983a6ef73738942c2959bd81bc49aac71737c
+brief_hash: dca536347a096e519d014682fb94c7d1a21e34f4b7bd5acae2206e2dc6179674
 page:
   kind: entity
   node_id: caf1c89f-4922-48c6-8cae-f8f0cbd45a7a
@@ -9,7 +9,7 @@ page:
   claim_count: 25
   claim_count_total: 25
 generated:
-  graph_version: '2026-09-02T13:07:29.167026+00:00'
+  graph_version: '2026-09-02T14:12:13.257772+00:00'
 size:
   claims: 25
   tokens_estimated: 2787
@@ -17,13 +17,13 @@ size:
 entailment:
   assessed: 25
   unassessed: 0
-  entails: 15
-  neutral: 6
+  entails: 18
+  neutral: 3
   contradicts: 4
   entailed_by_quote: 9
-  entailed_by_window: 6
+  entailed_by_window: 9
   entailed_by_quote_fraction: 0.36
-  entailed_by_window_fraction: 0.24
+  entailed_by_window_fraction: 0.36
 publication:
   status: published
   note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
@@ -73,7 +73,7 @@ related_nodes:
     node_type: organisation
     slug: caroline-group
     shared_claims: 2
-  - node_id: b4365ffa-36b6-40b3-9144-99086771a894
+  - node_id: 458b18fd-fdef-47b9-b418-4021376ca630
     title: Christopher Bledsoe
     node_type: person
     slug: christopher-bledsoe
@@ -381,10 +381,10 @@ claims:
     attribution_mode: bare_ok
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.999
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.994
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 8a1421aa-f32b-413a-8809-e846dced9c04
         title: 1958 Hartford Connecticut crash retrieval
@@ -685,10 +685,10 @@ claims:
     attribution_mode: unknown
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.997
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 7ddd5068-c6d5-475e-893a-bcf182ee126f
         title: William Stephenson
@@ -893,7 +893,7 @@ claims:
       content_hash: sha256:d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7b5a1b98d
       friendly_name: null
   - claim_id: 828e6b46-5608-4d55-8965-66f29fe2b71f
-    claim_hash: c03a97fae994095dd45da2fba884fe9488c8266e5f19b8d4d42211eb2576a547
+    claim_hash: 14fbc9ed2c7539a3126f4600479b029abf484777b3ee98072ec350ff87833fe8
     content: Chris Bledsoe said Tim Taylor was writing a book with Thomas Townsend Brown's daughter.
     original_excerpt: 'And Bledsoe said that he was writing a book with Townsend Brown''s daughter. ... Chris Ramsay: Who
       was writing a book? Jesse Michels: Tim Taylor.'
@@ -918,12 +918,12 @@ claims:
       - node_id: 079d4381-4273-418b-bc9a-468623f95c6e
         title: Jesse Mitchells
         slug: jesse-mitchells
+      - node_id: 458b18fd-fdef-47b9-b418-4021376ca630
+        title: Christopher Bledsoe
+        slug: christopher-bledsoe
       - node_id: 6485c8ec-97af-4a6d-9547-34aee3eb5b87
         title: Tim Taylor
         slug: tim-taylor
-      - node_id: b4365ffa-36b6-40b3-9144-99086771a894
-        title: Christopher Bledsoe
-        slug: christopher-bledsoe
       - node_id: caf1c89f-4922-48c6-8cae-f8f0cbd45a7a
         title: Thomas Townsend Brown
         slug: thomas-townsend-brown
@@ -1002,10 +1002,10 @@ claims:
     attribution_mode: bare_ok
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.583
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.998
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 079d4381-4273-418b-bc9a-468623f95c6e
         title: Jesse Mitchells
@@ -1027,7 +1027,7 @@ claims:
       content_hash: sha256:7b2e272d7c82fdda745ee0354d7c9cc4b0d5ba5506015ca27edd9169a768b262
       friendly_name: null
   - claim_id: ca9616f2-5480-4ab7-8fb1-783c84aefe77
-    claim_hash: d494a3e316cebef4c592fa8a1b027e89c2e7d87b9e8c4c07bc9e389dc3d82b0b
+    claim_hash: b662e5b7868d84a06e9ac4221152878082037564a7847c9d862bc926e2b33a3c
     content: Tim Taylor told Chris Bledsoe's son that he was part of a time travel group of which Thomas Townsend Brown was
       the president.
     original_excerpt: he's telling Chris Bledsoe's son that he's part of this time travel group. And Townsend Brown was the
@@ -1057,12 +1057,12 @@ claims:
       - node_id: 1c57cd6c-8c54-4f61-b180-2bd899c69889
         title: Time travel
         slug: time-travel
+      - node_id: 458b18fd-fdef-47b9-b418-4021376ca630
+        title: Christopher Bledsoe
+        slug: christopher-bledsoe
       - node_id: 6485c8ec-97af-4a6d-9547-34aee3eb5b87
         title: Tim Taylor
         slug: tim-taylor
-      - node_id: b4365ffa-36b6-40b3-9144-99086771a894
-        title: Christopher Bledsoe
-        slug: christopher-bledsoe
       - node_id: caf1c89f-4922-48c6-8cae-f8f0cbd45a7a
         title: Thomas Townsend Brown
         slug: thomas-townsend-brown

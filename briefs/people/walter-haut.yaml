@@ -1,5 +1,5 @@
 schema: anomalica/brief/1
-brief_hash: 7cfad4da8ac86db55b645ec083a5d47d7d419ef75c65cba12a25dab27d56c671
+brief_hash: fe62762ca12800aedb36e636cc0f5cd8aebed2b084a04aa2232e4e7fe5883fdd
 page:
   kind: entity
   node_id: 03ce9078-270f-4be3-ae7e-45ef913c7e5d
@@ -9,7 +9,7 @@ page:
   claim_count: 72
   claim_count_total: 72
 generated:
-  graph_version: '2026-09-02T13:07:29.167026+00:00'
+  graph_version: '2026-09-02T14:12:13.257772+00:00'
 size:
   claims: 72
   tokens_estimated: 9209
@@ -53,7 +53,7 @@ related_nodes:
     node_type: person
     slug: jesse-marcel
     shared_claims: 5
-  - node_id: 3e507b49-d600-474f-8995-453932dc1e01
+  - node_id: 24ba32dd-fc10-4ee4-bae2-9133cf301509
     title: USA, New Mexico, Roswell Army Air Field
     node_type: place
     slug: new-mexico-roswell-army-air-field-usa
@@ -948,7 +948,7 @@ claims:
       content_hash: sha256:524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008e17102e7
       friendly_name: 2025-01-15-ebook-the-fourth-mind
   - claim_id: 07fc1176-d7a9-473a-a4dc-bcdc2347771d
-    claim_hash: 239c153f58168c2bed129c5517e8af723773bad2429ec32b1f4487c08e94a049
+    claim_hash: 5ac2cca7f980b2e24a0e83d6d08bdee6af5a97c267085153e3df124f8fd15b5e
     content: Whitley Strieber and Anne Strieber met Walter Haut at his home and had a fairly extensive conversation with him
       about his work as Roswell Army Air Force Base press officer.
     original_excerpt: We met him at his home and had a fairly extensive conversation with him. He described his work as base
@@ -976,7 +976,7 @@ claims:
       - node_id: 23df5a4d-b30f-4c3d-b155-0bb1d6355328
         title: Anne Strieber
         slug: anne-strieber
-      - node_id: 3e507b49-d600-474f-8995-453932dc1e01
+      - node_id: 24ba32dd-fc10-4ee4-bae2-9133cf301509
         title: USA, New Mexico, Roswell Army Air Field
         slug: new-mexico-roswell-army-air-field-usa
       - node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
@@ -1730,7 +1730,7 @@ claims:
       content_hash: sha256:524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008e17102e7
       friendly_name: 2025-01-15-ebook-the-fourth-mind
   - claim_id: 267876ad-8143-4153-88f2-c8d99c8da86a
-    claim_hash: 9fd55640868b16c81127d40bb8df956aed44f81fec02138102de3be6bf7a1598
+    claim_hash: 8d6b44e5e03e309cbe1bff5bb2aa601f3026f7ca8c96f045015bfe9a357a0b85
     content: On the morning of 1947-07-08, Walter Haut attended a regularly scheduled staff meeting at Roswell Army Air Force
       Base at 7:30 a.m.
     original_excerpt: On Tuesday morning, July 8, I would attend the regularly scheduled staff meeting at 7:30 a.m.
@@ -1754,7 +1754,7 @@ claims:
       - node_id: 03ce9078-270f-4be3-ae7e-45ef913c7e5d
         title: Walter Haut
         slug: walter-haut
-      - node_id: 3e507b49-d600-474f-8995-453932dc1e01
+      - node_id: 24ba32dd-fc10-4ee4-bae2-9133cf301509
         title: USA, New Mexico, Roswell Army Air Field
         slug: new-mexico-roswell-army-air-field-usa
     date: '1947-07-08'
@@ -1771,7 +1771,7 @@ claims:
       content_hash: sha256:524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008e17102e7
       friendly_name: 2025-01-15-ebook-the-fourth-mind
   - claim_id: 6b87785c-9914-4683-842a-192f19362454
-    claim_hash: aac4c7e85e89f866286437a3708380e8e27252816f5bb9c900dda532c4082da3
+    claim_hash: c4d98218256ebb39831231c3734dd1a73e5a6bc149fc30835e0abd3f89786baa
     content: The 1947-07-08 staff meeting at Roswell Army Air Force Base was attended by William Blanchard, Jesse Marcel,
       Sheridan Cavitt, James I. Hopkins, Patrick Saunders, Isadore Brown, and Ulysses S. Nero.
     original_excerpt: Besides Blanchard, Marcel; CID Capt. Sheridan Cavitt; Col. James I. Hopkins, the operations officer;
@@ -1800,7 +1800,7 @@ claims:
       - node_id: 105344db-a5eb-4108-a72a-a06408ff1a6c
         title: William Blanchard
         slug: william-blanchard
-      - node_id: 3e507b49-d600-474f-8995-453932dc1e01
+      - node_id: 24ba32dd-fc10-4ee4-bae2-9133cf301509
         title: USA, New Mexico, Roswell Army Air Field
         slug: new-mexico-roswell-army-air-field-usa
       - node_id: c581a3e1-83fa-424c-840d-df874cfccebe
@@ -2081,7 +2081,7 @@ claims:
       content_hash: sha256:524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008e17102e7
       friendly_name: 2025-01-15-ebook-the-fourth-mind
   - claim_id: c8206e5b-f736-43fc-b3b5-5dada63c5fe4
-    claim_hash: 817798f4ca5cf5eba63be0f9452127c79b00c9c08b99c80c4d3104a373209c6f
+    claim_hash: cea43846eda33001e434cf9107e59d6263bc887e6d693f6063ce54fbcb5c42d7
     content: No one at the 1947-07-08 staff meeting at Roswell Army Air Force Base was able to identify the recovered crash
       debris.
     original_excerpt: No one was able to identify the crash debris.
@@ -2102,7 +2102,7 @@ claims:
       model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
       premise: window
     node_refs:
-      - node_id: 3e507b49-d600-474f-8995-453932dc1e01
+      - node_id: 24ba32dd-fc10-4ee4-bae2-9133cf301509
         title: USA, New Mexico, Roswell Army Air Field
         slug: new-mexico-roswell-army-air-field-usa
       - node_id: b8ea9860-ae6e-4835-8114-6a6626f28797
@@ -2304,7 +2304,7 @@ claims:
       content_hash: sha256:524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008e17102e7
       friendly_name: 2025-01-15-ebook-the-fourth-mind
   - claim_id: fff6cfdb-c2d6-4199-81bc-f4eb57f23393
-    claim_hash: ffc4900c65512a0ef550a8ebfed14451238283210936764302f7551da73695ef
+    claim_hash: f84a335eb1f91c612a218c7f9f954f794ec74ea7ac33dd1445ff390869426a38
     content: In July 1947, Walter Haut was stationed at Roswell Army Air Force Base in Roswell, New Mexico, serving as the
       base Public Information Officer.
     original_excerpt: In July, 1947, I was stationed at the Roswell Army Air Base in Roswell, New Mexico, serving as the base
@@ -2329,7 +2329,7 @@ claims:
       - node_id: 03ce9078-270f-4be3-ae7e-45ef913c7e5d
         title: Walter Haut
         slug: walter-haut
-      - node_id: 3e507b49-d600-474f-8995-453932dc1e01
+      - node_id: 24ba32dd-fc10-4ee4-bae2-9133cf301509
         title: USA, New Mexico, Roswell Army Air Field
         slug: new-mexico-roswell-army-air-field-usa
       - node_id: baa13d91-0551-4f21-ac2f-32fba4c397cf
@@ -2390,7 +2390,7 @@ claims:
       content_hash: sha256:524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008e17102e7
       friendly_name: 2025-01-15-ebook-the-fourth-mind
   - claim_id: 5bd43ee5-5e57-4abe-b53f-2a92628b5862
-    claim_hash: dacc4dc3c38d746bd00334e67f85b8d5044ba753d19d2c506adf3fc6d06a34bb
+    claim_hash: dfbd58bbd9eabc16e5b245f343d62362bf72d86240ef2fcca7613cc515a865e5
     content: Before Walter Haut left the base, William Blanchard personally took him to Building 84, a B-29 hangar located
       on the east side of the tarmac at Roswell Army Air Force Base.
     original_excerpt: Before leaving the base, Col. Blanchard took me personally to Building 84, a B-29 hangar located on
@@ -2418,7 +2418,7 @@ claims:
       - node_id: 105344db-a5eb-4108-a72a-a06408ff1a6c
         title: William Blanchard
         slug: william-blanchard
-      - node_id: 3e507b49-d600-474f-8995-453932dc1e01
+      - node_id: 24ba32dd-fc10-4ee4-bae2-9133cf301509
         title: USA, New Mexico, Roswell Army Air Field
         slug: new-mexico-roswell-army-air-field-usa
       - node_id: b396851f-a4bb-406a-9a7f-761ea902a164
@@ -3113,7 +3113,7 @@ claims:
       content_hash: sha256:524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008e17102e7
       friendly_name: 2025-01-15-ebook-the-fourth-mind
   - claim_id: 1f8b28dd-7852-41a4-965f-598e183af6a1
-    claim_hash: 890c0a048051415445f12b2eeaec80abeeb4ddb015a8dad024e6214f9eaec867
+    claim_hash: 0f4e7f872b1c1d55294562834aefd9678db7adcc3bcbc4946ecf3b1601b21837
     content: On 1947-07-07, Walter Haut became aware that someone had reported the remains of a downed vehicle by mid-morning
       after his return to duty at Roswell Army Air Force Base.
     original_excerpt: I was aware that someone had reported the remains of a downed vehicle by midmorning after my return
@@ -3138,7 +3138,7 @@ claims:
       - node_id: 03ce9078-270f-4be3-ae7e-45ef913c7e5d
         title: Walter Haut
         slug: walter-haut
-      - node_id: 3e507b49-d600-474f-8995-453932dc1e01
+      - node_id: 24ba32dd-fc10-4ee4-bae2-9133cf301509
         title: USA, New Mexico, Roswell Army Air Field
         slug: new-mexico-roswell-army-air-field-usa
     date: '1947-07-07'
@@ -3155,7 +3155,7 @@ claims:
       content_hash: sha256:524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008e17102e7
       friendly_name: 2025-01-15-ebook-the-fourth-mind
   - claim_id: ced0c092-a6c8-49b9-b815-b43f61e67403
-    claim_hash: 788eef3508942b5d4f4ca1b4f4bd7441837b2314b638b33d147ce71c83e13866
+    claim_hash: 856292552649c618215d75c5df69b5885ef47c50bd3b28a0592297d854461baa
     content: Jesse Marcel, head of intelligence at Roswell Army Air Force Base, was sent by base commander William Blanchard
       to investigate the reported downed vehicle debris on 1947-07-07.
     original_excerpt: I was aware that Major Jesse A. Marcel, head of intelligence, was sent by the base commander, Col. William
@@ -3180,7 +3180,7 @@ claims:
       - node_id: 105344db-a5eb-4108-a72a-a06408ff1a6c
         title: William Blanchard
         slug: william-blanchard
-      - node_id: 3e507b49-d600-474f-8995-453932dc1e01
+      - node_id: 24ba32dd-fc10-4ee4-bae2-9133cf301509
         title: USA, New Mexico, Roswell Army Air Field
         slug: new-mexico-roswell-army-air-field-usa
       - node_id: f888411e-b882-4f89-8275-350d19f6c52d

@@ -9,7 +9,7 @@ page:
   claim_count: 52
   claim_count_total: 52
 generated:
-  graph_version: '2026-09-02T13:07:29.167026+00:00'
+  graph_version: '2026-09-02T14:12:13.257772+00:00'
 size:
   claims: 52
   tokens_estimated: 6922
@@ -17,13 +17,13 @@ size:
 entailment:
   assessed: 52
   unassessed: 0
-  entails: 31
-  neutral: 16
+  entails: 32
+  neutral: 15
   contradicts: 5
   entailed_by_quote: 7
-  entailed_by_window: 24
+  entailed_by_window: 25
   entailed_by_quote_fraction: 0.135
-  entailed_by_window_fraction: 0.462
+  entailed_by_window_fraction: 0.481
 publication:
   status: published
   note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
@@ -1537,10 +1537,10 @@ claims:
     attribution_mode: bare_ok
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.916
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.991
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 29f2befa-fe75-484b-a9e8-53a320e66c84
         title: Chad Underwood

@@ -1,5 +1,5 @@
 schema: anomalica/brief/1
-brief_hash: 6c50c81d39818e034da61150a5fc41260abd0c4ec86ccf1ceeaeb9278a7182b2
+brief_hash: ad2fb33a660f3348f96015dc581939eec28a7fb038e1d07a61f5216aa2fd3721
 page:
   kind: entity
   node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
@@ -9,7 +9,7 @@ page:
   claim_count: 1253
   claim_count_total: 1253
 generated:
-  graph_version: '2026-09-02T13:07:29.167026+00:00'
+  graph_version: '2026-09-02T14:12:13.257772+00:00'
 size:
   claims: 1253
   tokens_estimated: 169754
@@ -17,13 +17,13 @@ size:
 entailment:
   assessed: 1253
   unassessed: 0
-  entails: 789
-  neutral: 329
-  contradicts: 135
+  entails: 872
+  neutral: 244
+  contradicts: 137
   entailed_by_quote: 313
-  entailed_by_window: 476
+  entailed_by_window: 559
   entailed_by_quote_fraction: 0.25
-  entailed_by_window_fraction: 0.38
+  entailed_by_window_fraction: 0.446
 publication:
   status: published
   note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
@@ -602,10 +602,10 @@ claims:
     attribution_mode: unknown
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.995
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 148c797d-9368-429f-a666-dd114a4fee3f
         title: Soviet excavation and investigation of the Merivälja object (1969-1990)
@@ -1183,10 +1183,10 @@ claims:
     attribution_mode: bare_ok
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.999
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.425
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 5f2d4a5f-fa1f-4b35-89ac-4908fe41dee0
         title: Asahi TV
@@ -1494,10 +1494,10 @@ claims:
     attribution_mode: bare_ok
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.999
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.998
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
         title: Unidentified Anomalous Phenomena (UAP)
@@ -1534,10 +1534,10 @@ claims:
     attribution_mode: bare_ok
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.999
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.567
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 419a6395-f958-4ca3-bc05-62f515f01ad1
         title: Australia, Western Australia, Exmouth
@@ -1749,10 +1749,10 @@ claims:
     attribution_mode: unknown
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.982
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.996
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: b818741f-4209-4ab4-9fdf-ad158c5241ca
         title: Annie
@@ -2025,10 +2025,10 @@ claims:
     attribution_mode: bare_ok
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.997
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.418
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 93e97880-d649-4302-9767-f99a9257ed1e
         title: Australia, Western Australia, Harold Holt Naval Communications Station
@@ -2195,10 +2195,10 @@ claims:
     attribution_mode: unknown
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.999
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.998
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 57867eae-721c-4b02-b6ca-ad60d89dbbf5
         title: 1991 Harold Holt Naval Communications Station Unidentified Flying Object (UFO) sighting
@@ -2234,10 +2234,10 @@ claims:
     attribution_mode: unknown
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.999
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.983
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 57867eae-721c-4b02-b6ca-ad60d89dbbf5
         title: 1991 Harold Holt Naval Communications Station Unidentified Flying Object (UFO) sighting
@@ -11117,10 +11117,10 @@ claims:
     attribution_mode: bare_ok
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.999
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.998
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
         title: Ross Coulthart
@@ -11245,10 +11245,10 @@ claims:
     attribution_mode: unknown
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.987
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.429
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: a0bc0de8-1d81-44e5-96a7-30706ccc34a4
         title: Jake Barber
@@ -11455,10 +11455,10 @@ claims:
     attribution_mode: unknown
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.99
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 1.0
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
         title: Unidentified Anomalous Phenomena (UAP)
@@ -11788,10 +11788,10 @@ claims:
     attribution_mode: bare_ok
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.942
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 1.0
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
         title: Unidentified Flying Object (UFO)
@@ -11999,10 +11999,10 @@ claims:
     attribution_mode: bare_ok
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.959
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.929
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 19157631-6448-476b-94d2-d80cf5a10387
         title: Frederick Valentich
@@ -12131,10 +12131,10 @@ claims:
     attribution_mode: bare_ok
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.999
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.706
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 19157631-6448-476b-94d2-d80cf5a10387
         title: Frederick Valentich
@@ -12704,9 +12704,9 @@ claims:
     attachment: unreviewed
     entailment:
       label: neutral
-      score: 0.999
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      score: 0.445
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 746f41bc-1c2e-4912-9df8-0711676f4dab
         title: 1978 Kaikoura lights incident
@@ -12953,10 +12953,10 @@ claims:
     attribution_mode: bare_ok
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.99
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.876
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 746f41bc-1c2e-4912-9df8-0711676f4dab
         title: 1978 Kaikoura lights incident
@@ -12998,10 +12998,10 @@ claims:
     attribution_mode: unknown
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.888
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.947
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 746f41bc-1c2e-4912-9df8-0711676f4dab
         title: 1978 Kaikoura lights incident
@@ -13688,9 +13688,9 @@ claims:
     attachment: unreviewed
     entailment:
       label: neutral
-      score: 0.997
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      score: 0.89
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 16ac4918-5f86-4a22-8f9a-84c0ad2a1d63
         title: Ontological shock
@@ -15442,10 +15442,10 @@ claims:
     attribution_mode: unknown
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.994
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.982
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: e10d037b-b94e-464e-9d35-8d193a99891b
         title: 1966 Westall Unidentified Flying Object (UFO) incident
@@ -15566,10 +15566,10 @@ claims:
     attribution_mode: unknown
     attachment: unreviewed
     entailment:
-      label: neutral
+      label: entails
       score: 0.997
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 403edb72-ebc4-4b89-8746-4cd19e089691
         title: The Pentagon
@@ -16046,10 +16046,10 @@ claims:
     attribution_mode: unknown
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.907
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 38b84d4a-96df-4684-bb46-f6f64f392add
         title: Central Intelligence Agency (CIA)
@@ -16507,10 +16507,10 @@ claims:
     attribution_mode: unknown
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.998
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.967
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 0bbdac2d-a855-466a-a051-2afa64a779e2
         title: UAP crash retrieval and reverse engineering program
@@ -16565,9 +16565,9 @@ claims:
     attachment: unreviewed
     entailment:
       label: neutral
-      score: 0.997
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      score: 0.586
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 0bbdac2d-a855-466a-a051-2afa64a779e2
         title: UAP crash retrieval and reverse engineering program
@@ -16853,7 +16853,7 @@ claims:
       content_hash: sha256:73be106d406f6d35a063a894e8384e7da0918eb8597d2107a9e3653becca2bdc
       friendly_name: null
   - claim_id: 21fc3a8e-e021-4578-ace4-d2fa01dcbf3f
-    claim_hash: 2ac36ddf8c5f5131544b01e8b9a6e21f82a70c326c63c6bedfe4e919ab6c1fd6
+    claim_hash: cfcfdb5b45750fda7c718570720d44ef26427eabf8db3d921584371f6d74634f
     content: Top constitutional lawyers consulted by Ross Coulthart can see no basis under which successive United States
       presidents could be bound by an executive order signed under Dwight D. Eisenhower or Harry S. Truman into not being
       briefed on the UFO programme even when they requested it.
@@ -16881,12 +16881,12 @@ claims:
       - node_id: 0bbdac2d-a855-466a-a051-2afa64a779e2
         title: UAP crash retrieval and reverse engineering program
         slug: uap-crash-retrieval-and-reverse-engineering-program
-      - node_id: 459eb5cf-ea76-4cad-9421-a726261cd3a2
-        title: William J. Clinton
-        slug: william-j-clinton
       - node_id: 589d7469-f87f-4da5-afa8-cabca7be6818
         title: Harry S. Truman
         slug: harry-s-truman
+      - node_id: c8b2f71c-febf-446f-9b1e-3e6bdc6c86c5
+        title: William J. Clinton
+        slug: william-j-clinton
       - node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
         title: Ross Coulthart
         slug: ross-coulthart
@@ -16907,7 +16907,7 @@ claims:
       content_hash: sha256:73be106d406f6d35a063a894e8384e7da0918eb8597d2107a9e3653becca2bdc
       friendly_name: null
   - claim_id: dd9a4772-02d3-439b-a83e-ead5a908047f
-    claim_hash: 8c29e68e9d380a37e17c13d3be9b395acbc566cb8543ef79782449609fa683a1
+    claim_hash: 49ef871ad10248526bc844208864b944abc7409c7c5b8d92b67f3d0811ae5a97
     content: Bill Clinton asked to be briefed on the UFO retrieval programme while president.
     original_excerpt: successive presidents could be bound into not being able to be briefed, even when they asked for it,
       like Clinton did
@@ -16924,14 +16924,14 @@ claims:
     attachment: unreviewed
     entailment:
       label: neutral
-      score: 0.999
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      score: 0.975
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 0bbdac2d-a855-466a-a051-2afa64a779e2
         title: UAP crash retrieval and reverse engineering program
         slug: uap-crash-retrieval-and-reverse-engineering-program
-      - node_id: 459eb5cf-ea76-4cad-9421-a726261cd3a2
+      - node_id: c8b2f71c-febf-446f-9b1e-3e6bdc6c86c5
         title: William J. Clinton
         slug: william-j-clinton
       - node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
@@ -17490,10 +17490,10 @@ claims:
     attribution_mode: bare_ok
     attachment: unreviewed
     entailment:
-      label: neutral
+      label: entails
       score: 0.999
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 92395963-b6b1-4e27-9885-b1dae7b11687
         title: Secret space program
@@ -18569,10 +18569,10 @@ claims:
     attribution_mode: bare_ok
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.738
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
         title: Ross Coulthart
@@ -19016,10 +19016,10 @@ claims:
     attribution_mode: unknown
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.979
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 0bbdac2d-a855-466a-a051-2afa64a779e2
         title: UAP crash retrieval and reverse engineering program
@@ -19803,10 +19803,10 @@ claims:
     attribution_mode: bare_ok
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.957
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.969
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 0bbdac2d-a855-466a-a051-2afa64a779e2
         title: UAP crash retrieval and reverse engineering program
@@ -19980,10 +19980,10 @@ claims:
     attribution_mode: unknown
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.995
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: a0bc0de8-1d81-44e5-96a7-30706ccc34a4
         title: Jake Barber
@@ -20639,10 +20639,10 @@ claims:
     attribution_mode: unknown
     attachment: unreviewed
     entailment:
-      label: neutral
+      label: entails
       score: 0.999
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 039c59a5-c92b-48c3-9b54-9944e4d81e54
         title: Richard Doty
@@ -21215,10 +21215,10 @@ claims:
     attribution_mode: unknown
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.999
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.997
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 4fb65b2c-296a-493d-bbc7-65e4b763c1f0
         title: United States Congress
@@ -21306,10 +21306,10 @@ claims:
     attribution_mode: bare_ok
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.985
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.974
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 4fb65b2c-296a-493d-bbc7-65e4b763c1f0
         title: United States Congress
@@ -21485,10 +21485,10 @@ claims:
     attribution_mode: unknown
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.997
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: a0bc0de8-1d81-44e5-96a7-30706ccc34a4
         title: Jake Barber
@@ -21755,9 +21755,9 @@ claims:
     attachment: unreviewed
     entailment:
       label: neutral
-      score: 0.909
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      score: 0.546
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 0bbdac2d-a855-466a-a051-2afa64a779e2
         title: UAP crash retrieval and reverse engineering program
@@ -22600,10 +22600,10 @@ claims:
     attribution_mode: unknown
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.984
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.544
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 0bbdac2d-a855-466a-a051-2afa64a779e2
         title: UAP crash retrieval and reverse engineering program
@@ -22858,10 +22858,10 @@ claims:
     attribution_mode: bare_ok
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.902
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 488aa5f8-dfcf-4a08-b730-ecb992b75559
         title: South West Africa People's Organisation (SWAPO)
@@ -22947,10 +22947,10 @@ claims:
     attribution_mode: bare_ok
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.986
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: cb4bbe9b-5e49-46a3-a88d-979b15e63c65
         title: South African Truth and Reconciliation Commission
@@ -23106,10 +23106,10 @@ claims:
     attribution_mode: unknown
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.999
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.758
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: cb4bbe9b-5e49-46a3-a88d-979b15e63c65
         title: South African Truth and Reconciliation Commission
@@ -23376,10 +23376,10 @@ claims:
     attribution_mode: unknown
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.893
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 5155f44f-289f-4f79-b477-0d6d3b188d52
         title: Deep state
@@ -24023,10 +24023,10 @@ claims:
     attribution_mode: unknown
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.755
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 1.0
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 38b84d4a-96df-4684-bb46-f6f64f392add
         title: Central Intelligence Agency (CIA)
@@ -24321,7 +24321,7 @@ claims:
       content_hash: sha256:73be106d406f6d35a063a894e8384e7da0918eb8597d2107a9e3653becca2bdc
       friendly_name: null
   - claim_id: 8f999b2d-5a47-448f-9ce3-87f6e6d43145
-    claim_hash: 7373e8f62859fd4519f119d993adb982338c65dde8858d2c3cf2a588042557cb
+    claim_hash: 298e35136016a24a79b6d15c46c6a073c3a9e5ac74105f006588eca8fdf4b925
     content: Ross Coulthart considers it unacceptable that United States presidents Bill Clinton, Barack Obama, Gerald Ford
       and Jimmy Carter were not able to be briefed on Unidentified Flying Object information while serving as commander in
       chief.
@@ -24348,9 +24348,6 @@ claims:
       - node_id: 3030c72b-534a-4ddb-88ec-c09f315b9d87
         title: Gerald Ford
         slug: gerald-ford
-      - node_id: 459eb5cf-ea76-4cad-9421-a726261cd3a2
-        title: William J. Clinton
-        slug: william-j-clinton
       - node_id: 65058869-076f-47d0-92ea-f8daf08b94cf
         title: Barack Obama
         slug: barack-obama
@@ -24360,6 +24357,9 @@ claims:
       - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
         title: Unidentified Flying Object (UFO)
         slug: unidentified-flying-object-ufo
+      - node_id: c8b2f71c-febf-446f-9b1e-3e6bdc6c86c5
+        title: William J. Clinton
+        slug: william-j-clinton
       - node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
         title: Ross Coulthart
         slug: ross-coulthart
@@ -25310,10 +25310,10 @@ claims:
     attribution_mode: unknown
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.979
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.965
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
         title: Unidentified Anomalous Phenomena (UAP)
@@ -25443,10 +25443,10 @@ claims:
     attribution_mode: unknown
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.852
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: c0e7a75a-6931-4d2b-8f96-ac29ab9262a3
         title: Australia, New South Wales, Sydney
@@ -26182,10 +26182,10 @@ claims:
     attribution_mode: bare_ok
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.998
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.572
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 69c58b5d-f47b-44dd-8ec6-2e6352cbc0a4
         title: Brazil, Pará, Colares
@@ -27658,10 +27658,10 @@ claims:
     attribution_mode: unknown
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.574
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
         title: Unidentified Anomalous Phenomena (UAP)
@@ -28187,10 +28187,10 @@ claims:
     attribution_mode: bare_ok
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.879
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.889
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
         title: Ross Coulthart
@@ -28950,10 +28950,10 @@ claims:
     attribution_mode: bare_ok
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.996
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.995
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 0bbdac2d-a855-466a-a051-2afa64a779e2
         title: UAP crash retrieval and reverse engineering program
@@ -29308,10 +29308,10 @@ claims:
     attribution_mode: bare_ok
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.999
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.996
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 0c15657f-8c99-43ad-8912-d2841ba0634f
         title: Esalen Institute Skywatcher psionic inviting demonstration
@@ -29353,10 +29353,10 @@ claims:
     attribution_mode: bare_ok
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.998
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.997
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 0c15657f-8c99-43ad-8912-d2841ba0634f
         title: Esalen Institute Skywatcher psionic inviting demonstration
@@ -29930,10 +29930,10 @@ claims:
     attribution_mode: bare_ok
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.987
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.769
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 0c15657f-8c99-43ad-8912-d2841ba0634f
         title: Esalen Institute Skywatcher psionic inviting demonstration
@@ -30067,10 +30067,10 @@ claims:
     attribution_mode: unknown
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.988
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.997
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 0c15657f-8c99-43ad-8912-d2841ba0634f
         title: Esalen Institute Skywatcher psionic inviting demonstration
@@ -30195,10 +30195,10 @@ claims:
     attribution_mode: unknown
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.985
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.998
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 0c15657f-8c99-43ad-8912-d2841ba0634f
         title: Esalen Institute Skywatcher psionic inviting demonstration
@@ -30415,10 +30415,10 @@ claims:
     attribution_mode: unknown
     attachment: unreviewed
     entailment:
-      label: neutral
+      label: entails
       score: 0.999
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 55180311-d8bf-4d7a-ad49-c4364880b38f
         title: Esalen Institute
@@ -30597,10 +30597,10 @@ claims:
     attribution_mode: bare_ok
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.975
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.491
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 0c15657f-8c99-43ad-8912-d2841ba0634f
         title: Esalen Institute Skywatcher psionic inviting demonstration
@@ -31881,10 +31881,10 @@ claims:
     attribution_mode: unknown
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.89
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 2d1beff0-7481-4a3d-bd16-0acd847237c1
         title: Egypt, Giza, Great Sphinx of Giza
@@ -32193,10 +32193,10 @@ claims:
     attribution_mode: unknown
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.967
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.998
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 9c74d864-957a-4654-a5b6-1249fe654ec7
         title: Non-Human Intelligence
@@ -32275,10 +32275,10 @@ claims:
     attribution_mode: bare_ok
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.999
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.93
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
         title: Ross Coulthart
@@ -33233,10 +33233,10 @@ claims:
     attribution_mode: bare_ok
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.998
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.546
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: a0bc0de8-1d81-44e5-96a7-30706ccc34a4
         title: Jake Barber
@@ -33575,10 +33575,10 @@ claims:
     attribution_mode: bare_ok
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.999
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 1.0
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 5b3883ab-561a-4760-9538-10071fe10193
         title: triune brain theory
@@ -33713,10 +33713,10 @@ claims:
     attribution_mode: bare_ok
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.996
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.783
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
         title: Unidentified Anomalous Phenomena (UAP)
@@ -34395,10 +34395,10 @@ claims:
     attribution_mode: bare_ok
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.991
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.997
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 32db0378-4dbe-4ae9-bd4f-47f7906ca892
         title: United States military
@@ -34644,7 +34644,7 @@ claims:
       content_hash: sha256:997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc07360cb2ab1
       friendly_name: null
   - claim_id: 10988019-e1bc-4e72-8302-53217dfdc95c
-    claim_hash: 839e72e205b857ce0bd8ad3cd56de1e97e98076fb1f194f623fb63625e55fc72
+    claim_hash: dde757af5c4a9124718cc5034a3f4f3c5db793709671976d7b4822106b58bfc3
     content: James Forrestal and Vannevar Bush held a lunch with Henry Tizard, the chief scientific adviser to the UK Ministry
       of Defence, on 1 October 1947.
     original_excerpt: They held a lunch, Forrestal and Bush, Vannevar Bush, held a lunch with the British scientist, Sir Henry
@@ -34675,12 +34675,12 @@ claims:
       - node_id: 7a34498a-e727-43f3-aa35-6794f29ceedb
         title: Henry Tizard
         slug: henry-tizard
+      - node_id: c9a04514-70af-422b-b625-86f8bdf6b9e0
+        title: UK Ministry of Defence
+        slug: uk-ministry-of-defence
       - node_id: ec304822-db5e-484b-9c4a-b2d43d70757a
         title: James Forrestal
         slug: james-forrestal
-      - node_id: f5a57cc7-b3d7-46be-8fb8-2e26f22d86ee
-        title: UK Ministry of Defence
-        slug: uk-ministry-of-defence
     date: '1947-10-01'
     date_end: null
     location_in_record: 00:22:43.0-00:22:56.4
@@ -36203,7 +36203,7 @@ claims:
       content_hash: sha256:997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc07360cb2ab1
       friendly_name: null
   - claim_id: 5b14dd79-01a8-4706-8df9-2cfc1d597b1c
-    claim_hash: aac1cede2706d241b834219e8ad3fd6633594e5e48c45473f59d583d13b31f1e
+    claim_hash: a013387e88f64ffa87cd0084aea989885600290816c0eff7464f1da836872a5f
     content: Bill Clinton, as president, was apprised of the knowledge of the incident in which a non-human craft landed in
       the Russian Federation by arrangement.
     original_excerpt: Is the implication there that Bill Clinton as president was apprised of the knowledge of this incident?
@@ -36225,12 +36225,12 @@ claims:
       model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
       premise: window
     node_refs:
-      - node_id: 459eb5cf-ea76-4cad-9421-a726261cd3a2
-        title: William J. Clinton
-        slug: william-j-clinton
       - node_id: c16c86b6-7526-46cd-bcd8-7f74283ebf2c
         title: Jonathan Caplan
         slug: jonathan-caplan
+      - node_id: c8b2f71c-febf-446f-9b1e-3e6bdc6c86c5
+        title: William J. Clinton
+        slug: william-j-clinton
       - node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
         title: Ross Coulthart
         slug: ross-coulthart
@@ -36248,7 +36248,7 @@ claims:
       content_hash: sha256:997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc07360cb2ab1
       friendly_name: null
   - claim_id: 6191321c-3c04-4fb9-af73-d3c4c093bb34
-    claim_hash: ba127589980c3e73a8a155cd241e39b125d39c2faf07c4a88b8525cfaaa52342
+    claim_hash: 976218e8423e2c2d3844571a5d782211d10a142c387e9a74543a7ff5f42e53c8
     content: Bill Clinton dispatched Webster Hubbell, one of his attorneys, in connection with his interest in Unidentified
       Aerial Phenomena (UAP).
     original_excerpt: I know he did dispatch one of his attorneys, Webster Hubble, a controversial fellow who was subsequently
@@ -36270,12 +36270,12 @@ claims:
       model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
       premise: window
     node_refs:
-      - node_id: 459eb5cf-ea76-4cad-9421-a726261cd3a2
-        title: William J. Clinton
-        slug: william-j-clinton
       - node_id: 4f348344-3469-496e-88e0-51e12603c5bf
         title: Webster Hubbell
         slug: webster-hubbell
+      - node_id: c8b2f71c-febf-446f-9b1e-3e6bdc6c86c5
+        title: William J. Clinton
+        slug: william-j-clinton
     date: null
     date_end: null
     location_in_record: 01:17:19.7-01:17:26.5
@@ -36327,7 +36327,7 @@ claims:
       content_hash: sha256:997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc07360cb2ab1
       friendly_name: null
   - claim_id: 091bb999-cdfa-4067-8939-ebc8b3d73058
-    claim_hash: a19bf60081d296e5da92cb6a64956d4ce49955a2b98fe78f92e85636a99b4aa6
+    claim_hash: 34d738c66bd825bb251776e643bb069f3f2479846c45cd5e6beff3af88934203
     content: Bill Clinton, as president, took a close interest in Unidentified Aerial Phenomena (UAP) and asked questions
       about whether the United States had retrieved craft, without getting anywhere.
     original_excerpt: I know President Clinton did take a very close interest in UAPs in his time as president, and he did
@@ -36349,7 +36349,7 @@ claims:
       model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
       premise: quote
     node_refs:
-      - node_id: 459eb5cf-ea76-4cad-9421-a726261cd3a2
+      - node_id: c8b2f71c-febf-446f-9b1e-3e6bdc6c86c5
         title: William J. Clinton
         slug: william-j-clinton
     date: null
@@ -36834,10 +36834,10 @@ claims:
     attribution_mode: unknown
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.992
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.588
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
         title: Unidentified Flying Object (UFO)
@@ -36918,10 +36918,10 @@ claims:
     attribution_mode: unknown
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.999
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.998
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 24d00311-06ac-46a1-a2f5-c99f3f8e21b2
         title: Chris Ramsay
@@ -37325,9 +37325,9 @@ claims:
     attachment: unreviewed
     entailment:
       label: neutral
-      score: 0.999
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      score: 0.829
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
         title: Unidentified Anomalous Phenomena (UAP)
@@ -38890,10 +38890,10 @@ claims:
     attribution_mode: unknown
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.998
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.531
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
         title: Unidentified Anomalous Phenomena (UAP)
@@ -39985,10 +39985,10 @@ claims:
     attribution_mode: unknown
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.992
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.565
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 22049c25-e98a-4e2f-99ce-e8c8da9050cf
         title: USA, New Mexico, White Sands Missile Range
@@ -40112,10 +40112,10 @@ claims:
     attribution_mode: unknown
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.995
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.982
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 833b0c26-c59f-4b67-9fc4-693c54645074
         title: USA, Texas, Sierra Blanca
@@ -40158,9 +40158,9 @@ claims:
     attachment: unreviewed
     entailment:
       label: neutral
-      score: 0.998
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      score: 0.784
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 833b0c26-c59f-4b67-9fc4-693c54645074
         title: USA, Texas, Sierra Blanca
@@ -41086,10 +41086,10 @@ claims:
     attribution_mode: bare_ok
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.999
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.964
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 4fb65b2c-296a-493d-bbc7-65e4b763c1f0
         title: United States Congress
@@ -41129,10 +41129,10 @@ claims:
     attribution_mode: bare_ok
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.999
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: contradicts
+      score: 0.735
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 4fb65b2c-296a-493d-bbc7-65e4b763c1f0
         title: United States Congress
@@ -41299,10 +41299,10 @@ claims:
     attribution_mode: bare_ok
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.999
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.998
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 22049c25-e98a-4e2f-99ce-e8c8da9050cf
         title: USA, New Mexico, White Sands Missile Range
@@ -41475,10 +41475,10 @@ claims:
     attribution_mode: unknown
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.994
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 22049c25-e98a-4e2f-99ce-e8c8da9050cf
         title: USA, New Mexico, White Sands Missile Range
@@ -41739,10 +41739,10 @@ claims:
     attribution_mode: unknown
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.993
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.665
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 5e47c787-005b-4c91-ba4b-c9bec48146c9
         title: National Aeronautics and Space Administration (NASA)
@@ -41805,7 +41805,7 @@ claims:
       content_hash: sha256:f37882ab1f880101b3e452e3802d7afc296c07eb413f65ebea554984f3b8cdef
       friendly_name: null
   - claim_id: 52c9411c-7bf3-4201-9d86-1cd9bf9f901b
-    claim_hash: 502b02a2f489d9a3b19d9c1b8702e4ad1ec9d1542a46b4195cbdd17268542303
+    claim_hash: be509b12738c3fc4cd583392a0769810d0ba413b7de99f6b853b527b1af485f8
     content: In its commentary on the Apollo 17 image of three blue lights, the United States Department of War did not describe
       them as three objects but used the term "potentially a physical object" in the singular.
     original_excerpt: They didn't say it was three objects. They actually used the term potentially a physical object singular.
@@ -41821,10 +41821,10 @@ claims:
     attribution_mode: unknown
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.998
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 2d16e9ea-f92d-4e97-9835-0a1a739ffba6
         title: United States Department of War
@@ -41929,7 +41929,7 @@ claims:
       content_hash: sha256:f37882ab1f880101b3e452e3802d7afc296c07eb413f65ebea554984f3b8cdef
       friendly_name: null
   - claim_id: b56b72ba-bdde-4cde-aad2-0134f997f3f9
-    claim_hash: 9928d84d8d4389e9d1ef9eba713b4bf7db9d68ae2c277c7682e52f5b3a7ec367
+    claim_hash: 1e1b7b14ddf68d4076a890d3239d26563d6d02195a98433d97f230ae4556f5b8
     content: Avi Loeb of the Galileo Project speculated that the blue lights seen in imagery from the Apollo 12 and Apollo
       17 missions were camera artifacts, possibly caused by diffraction of dust inside the camera lens.
     original_excerpt: Professor Avi Loeb from the Galileo Project suggested, he speculated that the blue lights that were
@@ -41978,7 +41978,7 @@ claims:
       content_hash: sha256:f37882ab1f880101b3e452e3802d7afc296c07eb413f65ebea554984f3b8cdef
       friendly_name: null
   - claim_id: c3a3891e-608d-499e-8ba6-73a787fd8806
-    claim_hash: b022e4d97b4594a5473e73d8149fd4e00c92d6d738974ee29f276957f40dbf7f
+    claim_hash: 11b9e819bf0a7bb00666bd45caa1d25d8268dc5c30a3bcddb2d994b07cfb11cf
     content: Similar blue lights also featured in Edgar Mitchell's Apollo 14 mission, according to Edgar Mitchell's own account.
     original_excerpt: they also featured in Edgar Mitchell's Apollo 14 mission from Edgar's own account.
     claim_type: testimony
@@ -42018,7 +42018,7 @@ claims:
       content_hash: sha256:f37882ab1f880101b3e452e3802d7afc296c07eb413f65ebea554984f3b8cdef
       friendly_name: null
   - claim_id: 6175cf1b-3dc1-4e78-a5fe-4709dd76610a
-    claim_hash: 9d1aaa0c73ed7a70ed7810681349edab23ecbf04082963107bf215e22bdd592d
+    claim_hash: 298c3cb6c7ecd5a44b0058bdd3e3e6fb2e58161336dabeb390876dc4c25a9383
     content: Edgar Mitchell admitted that he personally saw the blue-light objects with his own eyes during the Apollo 14
       mission.
     original_excerpt: I know Edgar Mitchell admitted that he had seen these objects himself with his own eyes.
@@ -42059,7 +42059,7 @@ claims:
       content_hash: sha256:f37882ab1f880101b3e452e3802d7afc296c07eb413f65ebea554984f3b8cdef
       friendly_name: null
   - claim_id: 2f1a6c8d-aa67-42a3-a960-11a69a3cea68
-    claim_hash: c3d081c6845c323c6b4f06753f898baab4c4000ca9755d740d5848323cd2bba9
+    claim_hash: 8c9b44b3d505f2d61c262e12c0e0029daf0fe53a6de039bd961d8b80e7b3bb58
     content: Edgar Mitchell told friends, including a close friend of Ross Coulthart, that he saw blue images that followed
       the Apollo 14 crew out to the Moon, followed them while on the Moon, and followed them back.
     original_excerpt: And he told friends, including a very close friend of mine about it, and said, "I saw those blue images.
@@ -42222,7 +42222,7 @@ claims:
       content_hash: sha256:f37882ab1f880101b3e452e3802d7afc296c07eb413f65ebea554984f3b8cdef
       friendly_name: null
   - claim_id: 65544a67-c966-457b-b581-cb8f08995821
-    claim_hash: 7d7339df78b2abafa2d43fb202b7ff5bd470ee0853de6cef3477516f206d50f0
+    claim_hash: 01baf113a165eae067ff3f0bed12478fef32b8eb629169c55f247830ee79cca5
     content: The United States Department of War made its "potentially a physical object" declaration about only the one Apollo
       17 triangular blue-lights image, not about other lunar anomalies.
     original_excerpt: It's only made that declaration with that one Apollo 17 three dotted image.
@@ -42794,10 +42794,10 @@ claims:
     attribution_mode: bare_ok
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.987
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.667
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 93e97880-d649-4302-9767-f99a9257ed1e
         title: Australia, Western Australia, Harold Holt Naval Communications Station
@@ -42832,10 +42832,10 @@ claims:
     attribution_mode: unknown
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.993
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.933
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: ba30579e-c9f0-479e-8207-ef639086d816
         title: Australia, Western Australia, Northwest Cape
@@ -43105,9 +43105,9 @@ claims:
     attachment: unreviewed
     entailment:
       label: neutral
-      score: 0.978
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      score: 0.963
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: ba30579e-c9f0-479e-8207-ef639086d816
         title: Australia, Western Australia, Northwest Cape
@@ -43801,7 +43801,7 @@ claims:
       content_hash: sha256:f37882ab1f880101b3e452e3802d7afc296c07eb413f65ebea554984f3b8cdef
       friendly_name: null
   - claim_id: 3539dcc4-a7a5-4183-aa09-a6a23f12473f
-    claim_hash: 845b64bccb1a788e24b8e2cc37ae6950348b0d2d7c78e123c28043813e6559f7
+    claim_hash: 46be3044eebc5fbc43dc311691b961f3760a2f74bcb6f4943c55e56b47964845
     content: 'A close friend of Edgar Mitchell, known to Ross Coulthart, told Ross Coulthart that when Edgar Mitchell was
       asked why he didn''t speak about what he saw on the lunar surface and afterward during the Apollo 14 mission, Mitchell
       answered with one word: treason.'
@@ -43887,7 +43887,7 @@ claims:
       content_hash: sha256:f37882ab1f880101b3e452e3802d7afc296c07eb413f65ebea554984f3b8cdef
       friendly_name: null
   - claim_id: 3669ca88-543c-49e7-80ed-6472213f652f
-    claim_hash: 6a231f89e8698dc14a56dc2b8178e7826c1ab975f548ca3f43125c198738f247
+    claim_hash: 53618a6746fd07fc8ac5bff6bf8f2ff14aa4779c6f964bf1d0a6c211d1d4583e
     content: Members of the Apollo 13 mission were aware that they were being followed and believed they were probably benevolently
       protected.
     original_excerpt: I've spoken to other people who've told me that even the members of Apollo 13 were aware that they were
@@ -44220,7 +44220,7 @@ claims:
       content_hash: sha256:f37882ab1f880101b3e452e3802d7afc296c07eb413f65ebea554984f3b8cdef
       friendly_name: null
   - claim_id: 528520fa-37ed-4458-9148-2ad6dfa44cda
-    claim_hash: 5e7c95cf0a9e4e42189bbc522317ade0108561102b28b4614b93d3fbd046cef4
+    claim_hash: bc051458c5f1afe3371852e199a61df744e55e8397bd6d65c43bbdb032ff42c8
     content: The United States Department of War has itself raised the Apollo 17 dots as anomalous phenomena and as a physical
       object, according to Ross Coulthart.
     original_excerpt: we have quite clearly anomalous phenomena that have been raised as such by the Department of War, not
@@ -44413,10 +44413,10 @@ claims:
     attribution_mode: unknown
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.999
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: contradicts
+      score: 0.557
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 816c219b-6372-49f6-9579-5eeabb9a7474
         title: Donald Trump
@@ -45212,7 +45212,7 @@ claims:
       content_hash: sha256:52d70126e55273c7238f33d8e01359cf9292de8c5cbf0ba36e284b039b432d96
       friendly_name: null
   - claim_id: 347dab82-970f-4471-8a1e-4c6144e5298b
-    claim_hash: 8c5bb129a3b8c670d8f4a60b5674429317c3830d63531f25bb41d0efa820886b
+    claim_hash: 06026e30fe7402dfe459023d7aa502be98edc0b070c4da0f82cc411c1a2fd888
     content: Luis Elizondo is a former Pentagon UAP programme investigator.
     original_excerpt: Lou Elizondo, the former Pentagon UAP program investigator
     claim_type: administrative
@@ -45246,7 +45246,7 @@ claims:
     location_in_record: 00:03:31.6-00:03:35.3
     evidence:
       score: null
-      independent_sources: 2
+      independent_sources: 1
     provenance:
       record_id: 9038fd78-74aa-4d65-968a-0cd2808a3d13
       record_title: Ross Coulthart Answers Your Biggest UAP Questions | Reality Check with Ross Coulthart
@@ -46026,10 +46026,10 @@ claims:
     attribution_mode: unknown
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.999
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.722
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 38b84d4a-96df-4684-bb46-f6f64f392add
         title: Central Intelligence Agency (CIA)
@@ -46112,10 +46112,10 @@ claims:
     attribution_mode: unknown
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.996
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.998
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 62aef662-617e-4bd7-b4a5-5f609f676016
         title: Disclosure Day
@@ -47158,10 +47158,10 @@ claims:
     attribution_mode: unknown
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.997
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
         title: Unidentified Anomalous Phenomena (UAP)
@@ -47235,7 +47235,7 @@ claims:
       content_hash: sha256:ec4ba3a9ba6cfe6598002b0b2441a39aac6847d339f856b1e24752aeb484b3a4
       friendly_name: null
   - claim_id: 5acc1706-ba66-43c3-a88a-d5ea4fabf352
-    claim_hash: a4d4fbedb403c03400bab7904981ce0da17996c06efb6890d6ed578fa15129da
+    claim_hash: aae49d565c505f3d26e7db3d9ae131b38b11d6b82e55c89e11d1645e4259b228
     content: Ross Coulthart considers a catastrophic mass release of ufology material a real possibility unless the government
       continues its current approach, because people in the Pentagon and the intelligence community are holding back what
       they know.
@@ -47339,10 +47339,10 @@ claims:
     attribution_mode: unknown
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.981
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.55
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 816c219b-6372-49f6-9579-5eeabb9a7474
         title: Donald Trump
@@ -47681,10 +47681,10 @@ claims:
     attribution_mode: unknown
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.74
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.99
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
         title: Unidentified Anomalous Phenomena (UAP)
@@ -48076,10 +48076,10 @@ claims:
     attribution_mode: unknown
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.844
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 1.0
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 56b3d70c-3255-48ca-a4f6-0a2b21e064fb
         title: B-52 cockpit footage of a disc with visible occupants
@@ -48423,10 +48423,10 @@ claims:
     attribution_mode: bare_ok
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.998
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.555
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 4fb65b2c-296a-493d-bbc7-65e4b763c1f0
         title: United States Congress
@@ -48876,7 +48876,7 @@ claims:
       content_hash: sha256:52d70126e55273c7238f33d8e01359cf9292de8c5cbf0ba36e284b039b432d96
       friendly_name: null
   - claim_id: 2de4ca5b-eefb-4524-8897-bd2c1da216b5
-    claim_hash: a3ffc65a5995373e28459902a1ebd5aee81148c432881f9b212c734f684dcc3e
+    claim_hash: f605aef86c9769e565040d75ac77e9ed4b19ebd432a6dcc011d1ab2638c57f35
     content: The All-Domain Anomaly Resolution Office (AARO) is the Pentagon's UFO office.
     original_excerpt: any modern AARO, the Pentagon UFO Office efforts
     claim_type: administrative
@@ -49112,10 +49112,10 @@ claims:
     attribution_mode: unknown
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.993
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.998
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 0f6a1f0b-7d3a-4cc2-9901-00017762b1bf
         title: The Yellow Book
@@ -49764,10 +49764,10 @@ claims:
     attribution_mode: bare_ok
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.756
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.894
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
         title: Unidentified Flying Object (UFO)
@@ -50094,10 +50094,10 @@ claims:
     attribution_mode: bare_ok
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.998
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.898
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 4c067d57-05f3-4975-b43f-96e405d0d2d7
         title: Nat Kobitz
@@ -50683,10 +50683,10 @@ claims:
     attribution_mode: unknown
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.556
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.428
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 4c067d57-05f3-4975-b43f-96e405d0d2d7
         title: Nat Kobitz
@@ -50726,10 +50726,10 @@ claims:
     attribution_mode: unknown
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.999
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.522
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 4c067d57-05f3-4975-b43f-96e405d0d2d7
         title: Nat Kobitz
@@ -51529,9 +51529,9 @@ claims:
     attachment: unreviewed
     entailment:
       label: neutral
-      score: 0.998
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      score: 0.547
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 31e64dec-5d6d-4389-ae76-dbb418225378
         title: Committee for State Security (KGB)
@@ -51907,10 +51907,10 @@ claims:
     attribution_mode: unknown
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.998
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.551
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 3a99db97-5bbc-4710-a37a-dd08d103dfd4
         title: Estonia, Tallinn, Merivälja
@@ -51952,10 +51952,10 @@ claims:
     attribution_mode: bare_ok
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.999
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.998
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 3a99db97-5bbc-4710-a37a-dd08d103dfd4
         title: Estonia, Tallinn, Merivälja
@@ -53942,10 +53942,10 @@ claims:
     attribution_mode: bare_ok
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.996
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.969
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
         title: Whitley Strieber
@@ -54032,10 +54032,10 @@ claims:
     attribution_mode: unknown
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.997
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.658
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
         title: Ross Coulthart

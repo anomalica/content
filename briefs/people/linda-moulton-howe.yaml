@@ -9,7 +9,7 @@ page:
   claim_count: 27
   claim_count_total: 27
 generated:
-  graph_version: '2026-09-02T13:07:29.167026+00:00'
+  graph_version: '2026-09-02T14:12:13.257772+00:00'
 size:
   claims: 27
   tokens_estimated: 4066
@@ -17,13 +17,13 @@ size:
 entailment:
   assessed: 27
   unassessed: 0
-  entails: 17
-  neutral: 10
+  entails: 18
+  neutral: 9
   contradicts: 0
   entailed_by_quote: 10
-  entailed_by_window: 7
+  entailed_by_window: 8
   entailed_by_quote_fraction: 0.37
-  entailed_by_window_fraction: 0.259
+  entailed_by_window_fraction: 0.296
 publication:
   status: published
   note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
@@ -1214,10 +1214,10 @@ claims:
     attribution_mode: bare_ok
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.997
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.739
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 2116e8f0-ae1b-465d-a6d0-7b73f13db95a
         title: Linda Moulton Howe
@@ -1260,9 +1260,9 @@ claims:
     attachment: unreviewed
     entailment:
       label: neutral
-      score: 0.996
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      score: 0.373
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 2116e8f0-ae1b-465d-a6d0-7b73f13db95a
         title: Linda Moulton Howe

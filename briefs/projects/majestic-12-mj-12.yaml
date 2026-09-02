@@ -1,5 +1,5 @@
 schema: anomalica/brief/1
-brief_hash: 3826c938ffa42e51a638492c802eb8215473c301d8cc57fe5e85ffb62f4c8663
+brief_hash: 782ca36d5f911c74565abdc5d685200e897c27e6d169f745451f4a57046a9083
 page:
   kind: entity
   node_id: 93df8d48-8068-409a-a198-27e923af6cde
@@ -9,7 +9,7 @@ page:
   claim_count: 55
   claim_count_total: 55
 generated:
-  graph_version: '2026-09-02T13:07:29.167026+00:00'
+  graph_version: '2026-09-02T14:12:13.257772+00:00'
 size:
   claims: 55
   tokens_estimated: 8087
@@ -17,13 +17,13 @@ size:
 entailment:
   assessed: 55
   unassessed: 0
-  entails: 43
-  neutral: 9
+  entails: 49
+  neutral: 3
   contradicts: 3
   entailed_by_quote: 15
-  entailed_by_window: 28
+  entailed_by_window: 34
   entailed_by_quote_fraction: 0.273
-  entailed_by_window_fraction: 0.509
+  entailed_by_window_fraction: 0.618
 publication:
   status: published
   note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
@@ -724,7 +724,7 @@ claims:
       content_hash: sha256:997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc07360cb2ab1
       friendly_name: null
   - claim_id: 0b698905-3653-44a3-9427-8f19df49bf71
-    claim_hash: 24fdf8e8fcad1348321d4c882fc0c21d356905b00e3319c69a648b4e929748b0
+    claim_hash: fabc704cf926047a33666cb4055763b24f26d50eb7d16a41e193186e6aeeb8c5
     content: Within one week of the Truman Directive of 24 September 1947 directing Vannevar Bush and James Forrestal to set
       up Majestic 12 (MJ-12) and report directly to him, Forrestal met with Henry Tizard, then chief scientific advisor to
       the UK Ministry of Defence, at the beginning of October 1947.
@@ -760,12 +760,12 @@ claims:
       - node_id: 93df8d48-8068-409a-a198-27e923af6cde
         title: Majestic 12 (MJ-12)
         slug: majestic-12-mj-12
+      - node_id: c9a04514-70af-422b-b625-86f8bdf6b9e0
+        title: UK Ministry of Defence
+        slug: uk-ministry-of-defence
       - node_id: ec304822-db5e-484b-9c4a-b2d43d70757a
         title: James Forrestal
         slug: james-forrestal
-      - node_id: f5a57cc7-b3d7-46be-8fb8-2e26f22d86ee
-        title: UK Ministry of Defence
-        slug: uk-ministry-of-defence
     date: null
     date_end: null
     location_in_record: 00:13:30.1-00:13:56.4
@@ -968,10 +968,10 @@ claims:
     attribution_mode: bare_ok
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.991
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.997
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 32db0378-4dbe-4ae9-bd4f-47f7906ca892
         title: United States military
@@ -1783,10 +1783,10 @@ claims:
     attribution_mode: bare_ok
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.998
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 93df8d48-8068-409a-a198-27e923af6cde
         title: Majestic 12 (MJ-12)
@@ -1825,10 +1825,10 @@ claims:
     attribution_mode: bare_ok
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.997
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.995
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 589d7469-f87f-4da5-afa8-cabca7be6818
         title: Harry S. Truman
@@ -1956,9 +1956,9 @@ claims:
     attachment: unreviewed
     entailment:
       label: neutral
-      score: 0.998
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      score: 0.735
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 38b84d4a-96df-4684-bb46-f6f64f392add
         title: Central Intelligence Agency (CIA)
@@ -2127,10 +2127,10 @@ claims:
     attribution_mode: unknown
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.996
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 1dccbb94-275f-44de-8f9a-edb60870ff3e
         title: Timothy Cooper
@@ -2210,10 +2210,10 @@ claims:
     attribution_mode: bare_ok
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.996
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.998
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 021a8eaf-08e0-46cc-bf4e-88d24e4a55ba
         title: Leo Szilard
@@ -2430,10 +2430,10 @@ claims:
     attribution_mode: unknown
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.892
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 009e4bc0-1007-48f9-a6d2-acdc4c4e2c5a
         title: John F. Kennedy assassination

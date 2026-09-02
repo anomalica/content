@@ -9,7 +9,7 @@ page:
   claim_count: 158
   claim_count_total: 158
 generated:
-  graph_version: '2026-09-02T13:07:29.167026+00:00'
+  graph_version: '2026-09-02T14:12:13.257772+00:00'
 size:
   claims: 158
   tokens_estimated: 22392
@@ -17,13 +17,13 @@ size:
 entailment:
   assessed: 158
   unassessed: 0
-  entails: 138
-  neutral: 15
+  entails: 142
+  neutral: 11
   contradicts: 5
   entailed_by_quote: 50
-  entailed_by_window: 88
+  entailed_by_window: 92
   entailed_by_quote_fraction: 0.316
-  entailed_by_window_fraction: 0.557
+  entailed_by_window_fraction: 0.582
 publication:
   status: published
   note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
@@ -4540,10 +4540,10 @@ claims:
     attribution_mode: unknown
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.982
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.998
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 02b74577-f272-4ae7-8520-5fda4eacb5f2
         title: Sean Kirkpatrick
@@ -5334,10 +5334,10 @@ claims:
     attribution_mode: bare_ok
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.975
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 0d4dfba6-a53b-4f23-a2ad-e4c9bea44076
         title: Robert Bigelow
@@ -5466,10 +5466,10 @@ claims:
     attribution_mode: unknown
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.974
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.484
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 3a865991-eaad-4855-8980-b28dfb98691a
         title: James Lacatski
@@ -5884,10 +5884,10 @@ claims:
     attribution_mode: bare_ok
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.923
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.93
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: b4258228-aad1-462d-8757-27a3a99fdaaf
         title: Reverse engineering of recovered craft of non-human origin

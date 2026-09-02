@@ -1,5 +1,5 @@
 schema: anomalica/brief/1
-brief_hash: 238ccbf13c75035dfe266c2517d48c33ba96829de63bbccbd484332c46cde063
+brief_hash: df256584536d35a5542153c1b6c2fe6f3bfe46dc06b20b5318556761cad1a411
 page:
   kind: entity
   node_id: 38b84d4a-96df-4684-bb46-f6f64f392add
@@ -9,7 +9,7 @@ page:
   claim_count: 274
   claim_count_total: 274
 generated:
-  graph_version: '2026-09-02T13:07:29.167026+00:00'
+  graph_version: '2026-09-02T14:12:13.257772+00:00'
 size:
   claims: 274
   tokens_estimated: 40077
@@ -17,13 +17,13 @@ size:
 entailment:
   assessed: 274
   unassessed: 0
-  entails: 214
-  neutral: 44
+  entails: 224
+  neutral: 34
   contradicts: 16
   entailed_by_quote: 105
-  entailed_by_window: 109
+  entailed_by_window: 119
   entailed_by_quote_fraction: 0.383
-  entailed_by_window_fraction: 0.398
+  entailed_by_window_fraction: 0.434
 publication:
   status: published
   note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
@@ -163,7 +163,7 @@ related_nodes:
     node_type: person
     slug: whitley-strieber
     shared_claims: 5
-  - node_id: 459eb5cf-ea76-4cad-9421-a726261cd3a2
+  - node_id: c8b2f71c-febf-446f-9b1e-3e6bdc6c86c5
     title: William J. Clinton
     node_type: person
     slug: william-j-clinton
@@ -276,7 +276,7 @@ claims:
       content_hash: sha256:c37a1f6968db0d7817235b1cb192758a04a3e990d89029bc48ff3facbb50e476
       friendly_name: null
   - claim_id: b7309023-4006-45e4-9837-ba64dde969df
-    claim_hash: 89bfe6248dcc6b8a155a619719ac17222d7409d15a9b0d8215fca8b008c6b97d
+    claim_hash: 29c833396c6aa2a01a902d8655ebc931fdc63da6ef98745e9cf6b4c7808b36cb
     content: Jacques Vallée considers that UFO enthusiasts trying to expose the government through Freedom of Information
       Act lawsuits may be playing into the hands of the manipulators of the phenomenon.
     original_excerpt: But the UFO enthusiasts who are so anxious to "expose" the government have not reflected that they may,
@@ -2431,7 +2431,7 @@ claims:
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
   - claim_id: 3df658f8-ae37-4065-bd87-f55e38d1eebe
-    claim_hash: 2dc8b532e66ea6e88d72e107d931e07d1345947bf395368069966fc71ab45f2d
+    claim_hash: f104e7e50be1567bc7b43cacd7ca6b32e30367f2c97b7d199671a81e9da889ef
     content: After lobbying from billionaire businessman and UAP believer Laurance Rockefeller, President Bill Clinton ordered
       his new CIA Director James Woolsey to release more of the files on UAPs.
     original_excerpt: after lobbying from billionaire businessman and UAP believer Laurance Rockefeller, the president ordered
@@ -2454,12 +2454,12 @@ claims:
       - node_id: 38b84d4a-96df-4684-bb46-f6f64f392add
         title: Central Intelligence Agency (CIA)
         slug: central-intelligence-agency-cia
-      - node_id: 459eb5cf-ea76-4cad-9421-a726261cd3a2
-        title: William J. Clinton
-        slug: william-j-clinton
       - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
         title: Unidentified Anomalous Phenomena (UAP)
         slug: unidentified-anomalous-phenomena-uap
+      - node_id: c8b2f71c-febf-446f-9b1e-3e6bdc6c86c5
+        title: William J. Clinton
+        slug: william-j-clinton
       - node_id: f273bab6-92d0-446a-b0a4-9d3988248228
         title: James Woolsey
         slug: james-woolsey
@@ -7320,10 +7320,10 @@ claims:
     attribution_mode: unknown
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.907
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 38b84d4a-96df-4684-bb46-f6f64f392add
         title: Central Intelligence Agency (CIA)
@@ -7463,9 +7463,9 @@ claims:
     attachment: unreviewed
     entailment:
       label: neutral
-      score: 0.997
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      score: 0.586
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 0bbdac2d-a855-466a-a051-2afa64a779e2
         title: UAP crash retrieval and reverse engineering program
@@ -7734,10 +7734,10 @@ claims:
     attribution_mode: unknown
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.755
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 1.0
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 38b84d4a-96df-4684-bb46-f6f64f392add
         title: Central Intelligence Agency (CIA)
@@ -8124,10 +8124,10 @@ claims:
     attribution_mode: unknown
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.991
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.635
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 38b84d4a-96df-4684-bb46-f6f64f392add
         title: Central Intelligence Agency (CIA)
@@ -8170,9 +8170,9 @@ claims:
     attachment: unreviewed
     entailment:
       label: neutral
-      score: 0.998
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      score: 0.735
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 38b84d4a-96df-4684-bb46-f6f64f392add
         title: Central Intelligence Agency (CIA)
@@ -8778,10 +8778,10 @@ claims:
     attribution_mode: unknown
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.892
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 009e4bc0-1007-48f9-a6d2-acdc4c4e2c5a
         title: John F. Kennedy assassination
@@ -9291,10 +9291,10 @@ claims:
     attribution_mode: unknown
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.998
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.997
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 38b84d4a-96df-4684-bb46-f6f64f392add
         title: Central Intelligence Agency (CIA)
@@ -9385,10 +9385,10 @@ claims:
     attribution_mode: unknown
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.983
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.958
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 079d4381-4273-418b-bc9a-468623f95c6e
         title: Jesse Mitchells
@@ -9453,7 +9453,7 @@ claims:
       content_hash: sha256:d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7b5a1b98d
       friendly_name: null
   - claim_id: 409ff077-63a6-4185-8eb5-b6ab66af4e5f
-    claim_hash: 1358901ab8d1510f83503eb4f8b1888960aaaf6973488d59fa53333063100d8b
+    claim_hash: d682a10a449b1ac1e5be314d00f689d24a8b39c1b585aeb5c56005b3fc611ffc
     content: Bill Clinton's science advisor sought a UFO briefing, and the request went to the CIA's Weird Desk, the part
       of the agency holding UFO information.
     original_excerpt: Clinton's science advisor is trying to get a briefing. And what happens is that goes to the place in
@@ -9478,12 +9478,12 @@ claims:
       - node_id: 38b84d4a-96df-4684-bb46-f6f64f392add
         title: Central Intelligence Agency (CIA)
         slug: central-intelligence-agency-cia
-      - node_id: 459eb5cf-ea76-4cad-9421-a726261cd3a2
-        title: William J. Clinton
-        slug: william-j-clinton
       - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
         title: Unidentified Flying Object (UFO)
         slug: unidentified-flying-object-ufo
+      - node_id: c8b2f71c-febf-446f-9b1e-3e6bdc6c86c5
+        title: William J. Clinton
+        slug: william-j-clinton
     date: null
     date_end: null
     location_in_record: 00:49:06.2-00:49:13.7
@@ -9535,7 +9535,7 @@ claims:
       content_hash: sha256:d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7b5a1b98d
       friendly_name: null
   - claim_id: fcfb04bf-222b-495d-84f0-b1300da49864
-    claim_hash: 6e25c3facbcbc190644c919db5ed05f6281744e187663c0b9313a110de9d06ed
+    claim_hash: 8afd8d4a196532c2ee5b58a6757ffb9bce97c40ba6cec389a680c285d370c475
     content: Ronald Pandolfi was running the CIA's Weird Desk at the time Bill Clinton's science advisor sought a UFO briefing.
     original_excerpt: And at that point, a guy called Dr. Ronald Pandolfi was running the Weird Desk.
     claim_type: testimony
@@ -9561,7 +9561,7 @@ claims:
       - node_id: 38b84d4a-96df-4684-bb46-f6f64f392add
         title: Central Intelligence Agency (CIA)
         slug: central-intelligence-agency-cia
-      - node_id: 459eb5cf-ea76-4cad-9421-a726261cd3a2
+      - node_id: c8b2f71c-febf-446f-9b1e-3e6bdc6c86c5
         title: William J. Clinton
         slug: william-j-clinton
     date: null
@@ -9578,7 +9578,7 @@ claims:
       content_hash: sha256:d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7b5a1b98d
       friendly_name: null
   - claim_id: 63d32f5f-d26e-4216-badd-0b4f1f215298
-    claim_hash: 28b8bc2246e7f6ffceb3d3a98e168b92700292d743951f82e7f2823501776789
+    claim_hash: 740799f8062d5fe6336d7dfdd25175c1d27ae0999c4440b06f185f05b1cc5f6c
     content: Bruce Maccabee received a call from Ronald Pandolfi asking him to deliver to Bill Clinton's science advisor the
       lecture he had once given to the CIA, and was told the briefing was the following morning at eight o'clock, leaving
       almost no time to prepare.
@@ -9612,7 +9612,7 @@ claims:
       - node_id: 38b84d4a-96df-4684-bb46-f6f64f392add
         title: Central Intelligence Agency (CIA)
         slug: central-intelligence-agency-cia
-      - node_id: 459eb5cf-ea76-4cad-9421-a726261cd3a2
+      - node_id: c8b2f71c-febf-446f-9b1e-3e6bdc6c86c5
         title: William J. Clinton
         slug: william-j-clinton
     date: null
@@ -9629,7 +9629,7 @@ claims:
       content_hash: sha256:d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7b5a1b98d
       friendly_name: null
   - claim_id: ae2337df-7ca4-42ec-8003-256b17cac3ed
-    claim_hash: 36770d4be758af97eac8b6d3ad2c05a9b25e999e3728eaf3f74d81de636ef9fc
+    claim_hash: cadb29696b85a7a97a44634a95215f63eedbabadcb4d65ab43e122fb0bb33300
     content: William LaParl suggested that the CIA's handling of the Bill Clinton UFO briefing request was intended to push
       the matter away rather than confront what was going on.
     original_excerpt: And there's a guy called William LaParl, who I think had closer interactions with Pandolfi at this time.
@@ -9661,7 +9661,7 @@ claims:
       - node_id: 38b84d4a-96df-4684-bb46-f6f64f392add
         title: Central Intelligence Agency (CIA)
         slug: central-intelligence-agency-cia
-      - node_id: 459eb5cf-ea76-4cad-9421-a726261cd3a2
+      - node_id: c8b2f71c-febf-446f-9b1e-3e6bdc6c86c5
         title: William J. Clinton
         slug: william-j-clinton
     date: null
@@ -9918,10 +9918,10 @@ claims:
     attribution_mode: unknown
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.9
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 144f69d8-2c8f-4c1b-8b66-be79e7882599
         title: Aline Griffith
@@ -10840,10 +10840,10 @@ claims:
     attribution_mode: unknown
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.997
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.936
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 079d4381-4273-418b-bc9a-468623f95c6e
         title: Jesse Mitchells
@@ -11329,10 +11329,10 @@ claims:
     attribution_mode: unknown
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.999
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.722
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 38b84d4a-96df-4684-bb46-f6f64f392add
         title: Central Intelligence Agency (CIA)
@@ -12378,10 +12378,10 @@ claims:
     attribution_mode: unknown
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.984
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.998
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 38b84d4a-96df-4684-bb46-f6f64f392add
         title: Central Intelligence Agency (CIA)

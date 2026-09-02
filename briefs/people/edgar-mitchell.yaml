@@ -1,5 +1,5 @@
 schema: anomalica/brief/1
-brief_hash: fd8997a5efdf52be3a46d11e2a4b6dfe97b2ca1085b5915250d6976bd017158d
+brief_hash: 9d92f1ee276dcb93803e81e1a36427235dcf1a88c16860fb5604327448e1cdaf
 page:
   kind: entity
   node_id: 59476464-a679-46ce-9247-b0adcb287762
@@ -9,7 +9,7 @@ page:
   claim_count: 225
   claim_count_total: 225
 generated:
-  graph_version: '2026-09-02T13:07:29.167026+00:00'
+  graph_version: '2026-09-02T14:12:13.257772+00:00'
 size:
   claims: 225
   tokens_estimated: 31743
@@ -17,13 +17,13 @@ size:
 entailment:
   assessed: 225
   unassessed: 0
-  entails: 131
-  neutral: 67
+  entails: 141
+  neutral: 57
   contradicts: 27
   entailed_by_quote: 53
-  entailed_by_window: 78
+  entailed_by_window: 88
   entailed_by_quote_fraction: 0.236
-  entailed_by_window_fraction: 0.347
+  entailed_by_window_fraction: 0.391
 publication:
   status: published
   note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
@@ -838,10 +838,10 @@ claims:
     attribution_mode: bare_ok
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.999
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.471
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 002ff098-7365-4c8b-8363-2cb043393e68
         title: Alan Shepard
@@ -884,10 +884,10 @@ claims:
     attribution_mode: unknown
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.993
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.483
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 59476464-a679-46ce-9247-b0adcb287762
         title: Edgar Mitchell
@@ -2037,7 +2037,7 @@ claims:
       content_hash: sha256:ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b16ac4758
       friendly_name: 2019-ebook-american-cosmic
   - claim_id: 9fc7ee00-4da0-4481-b592-4f25d5eabfc3
-    claim_hash: 0a451e70496c3318c565d23530639d9f42924a0daf8b775cb2e43e3531cbc5f2
+    claim_hash: cb941bc64dd6e8bfb610d26a17019d971c9146e3992fe36bd0a0cebf8d674d1a
     content: Edgar Mitchell was one of six humans to have walked on the moon on the Apollo 14 lunar landing mission.
     original_excerpt: This included Edgar, one of six humans to have walked on the moon on the Apollo 14 lunar landing mission.
     claim_type: administrative
@@ -2789,7 +2789,7 @@ claims:
       content_hash: sha256:ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b16ac4758
       friendly_name: 2019-ebook-american-cosmic
   - claim_id: 8acd5d8a-bab2-41ab-8993-79923dfcdc0d
-    claim_hash: 7e8e4ca8847f8fb292f1d15e928fcd0c65c99454d5698fcf7dc401f049ccd245
+    claim_hash: 723b5966e1146d94646258216b2b4fa7418dc7f934275f5cd823b905a545a469
     content: Edgar Mitchell conducted remote viewing experiments in space during the Apollo lunar mission.
     original_excerpt: What was more surprising to me was that he had conducted remote viewing experiments in space during
       the Apollo lunar mission.
@@ -3383,7 +3383,7 @@ claims:
       content_hash: sha256:ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b16ac4758
       friendly_name: 2019-ebook-american-cosmic
   - claim_id: 063684b5-1bd3-42f3-a486-0c9694d338c5
-    claim_hash: 6ceeb30509edee224c5033a5ce4e2aaebe35a5be53db22952d0eaa098bf8ba70
+    claim_hash: 318a25cc22adedf577390a54e50f3b451bcc3a81f617596def552c051408d901
     content: According to Edgar Mitchell, organisations like the Search for Extraterrestrial Intelligence (SETI) were apparently
       not the preferred contact centres for extraterrestrial communication.
     original_excerpt: Organizations like SETI, the Search for Extraterrestrial Intelligence, were not the preferred contact
@@ -3682,7 +3682,7 @@ claims:
       content_hash: sha256:ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b16ac4758
       friendly_name: 2019-ebook-american-cosmic
   - claim_id: 48b8a081-6975-4e57-9693-f7f79c1a657a
-    claim_hash: 318f15d1bd79edd39774789e823c53e80de6f9919e1318fb4f9bcb48b639aed9
+    claim_hash: 4bba1b828000306fa067b5410abd63d9db6e1c87efc1d58e1e7c69de8da12e9b
     content: Edgar Mitchell's dyadic model of consciousness explains how remote viewing, telepathy, and extraordinary mystical
       experiences, such as his own experience of samadhi while travelling back from the moon, are possible.
     original_excerpt: 'Edgar’s theory is elaborated in his idea of the “dyadic model” of consciousness. This model, according
@@ -4175,7 +4175,7 @@ claims:
       content_hash: sha256:ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b16ac4758
       friendly_name: 2019-ebook-american-cosmic
   - claim_id: 62d3fb5e-30c1-4d4b-9276-2edcb4cb5a92
-    claim_hash: 16e64fac767410bf43fd15106fa7ca554ae0bbfd7bef628454a8f2905a9cd3d9
+    claim_hash: 96dacb1423edf0948f434a7c33dc738e298ea79dee2fed7f4cf628d1de9a7e40
     content: Edgar Mitchell was one of only twelve humans to have walked on the moon.
     original_excerpt: Edgar had returned from space with the confidence of one who has been where only twelve humans have
       ever gone.
@@ -4214,7 +4214,7 @@ claims:
       content_hash: sha256:ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b16ac4758
       friendly_name: 2019-ebook-american-cosmic
   - claim_id: 92141e2d-6bca-44e9-917d-935e06ec6bed
-    claim_hash: 187b216a3cde82ef20f6ea052d3f4773884ead48c188f8a3804d5ddb96389cdb
+    claim_hash: 41adc9180f3ed96e32df7ca94452c01fa0fc2478d3ba9ec3ddc430b8c6a3490d
     content: Edgar Mitchell died several months after speaking with D. W. Pasulka and her colleagues, on the eve of the anniversary
       of his moon landing.
     original_excerpt: Several months after my colleagues and I spoke with Edgar, he passed away on the eve of the anniversary
@@ -8103,10 +8103,10 @@ claims:
     attribution_mode: bare_ok
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.921
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.991
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 35380539-7caf-46ec-9614-1956abdd7e7a
         title: USA, New Mexico, Roswell
@@ -8359,10 +8359,10 @@ claims:
     attribution_mode: bare_ok
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.863
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.984
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 59476464-a679-46ce-9247-b0adcb287762
         title: Edgar Mitchell
@@ -8429,7 +8429,7 @@ claims:
       content_hash: sha256:0f913eefce56c6e2b515b973bf3ecf5dd69db0968c6beb716459a9956f14b0c9
       friendly_name: null
   - claim_id: 618d7c9f-a58a-49be-a580-8b1dc64a999c
-    claim_hash: dc176d8fe2cdc3367d86b3b29441e69341c376d055272c83a7428ff321c9c2a9
+    claim_hash: 747bf462ff6d54f70e02ab8005bea3a410e762db4e983fc45253c602328cfb39
     content: The Apollo 14 crew closed their eyes when Edgar Mitchell turned on his flashlight during the light-flash observation
       sessions.
     original_excerpt: we closed our eyes when Ed flipped his flashlight on.
@@ -8492,10 +8492,10 @@ claims:
     attribution_mode: bare_ok
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.992
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.986
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 59476464-a679-46ce-9247-b0adcb287762
         title: Edgar Mitchell
@@ -8529,10 +8529,10 @@ claims:
     attribution_mode: bare_ok
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.999
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.991
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 59476464-a679-46ce-9247-b0adcb287762
         title: Edgar Mitchell
@@ -8592,7 +8592,7 @@ claims:
       content_hash: sha256:0f913eefce56c6e2b515b973bf3ecf5dd69db0968c6beb716459a9956f14b0c9
       friendly_name: null
   - claim_id: 5f81748e-787b-4077-9b40-66143757e3cc
-    claim_hash: 14bc7fa5dcedda3ca7236ff8681f302029c617ae91a731ea90294dc25f297cdc
+    claim_hash: fd4d0bb03bd2599776027da87b69d48b9d79fc087dbb09c755f4248a1599a5e1
     content: Edgar Mitchell reported 12 light flashes in his right eye and 6 in his left eye during Apollo 14.
     original_excerpt: You had 12 right and 6 left
     claim_type: measurement
@@ -8633,7 +8633,7 @@ claims:
       content_hash: sha256:0f913eefce56c6e2b515b973bf3ecf5dd69db0968c6beb716459a9956f14b0c9
       friendly_name: null
   - claim_id: 0380c85a-c8c2-47e8-81ce-5e0444bcff4c
-    claim_hash: bec2eca233dd065a8518f743000576ff5db9878abd1e5d4b8e95e106ea0dd5a7
+    claim_hash: 0b752ef52dfea1bfe4672ccce5694e2ea41dcd2da7a8c67c700526b8705c97cb
     content: In one instance during Apollo 14, Edgar Mitchell reported a light flash at the same time that Alan Shepard reported
       a flash in his right eye.
     original_excerpt: Ed, you said flash, and then Al, you said simultaneous with him, I had a flash in the whole right eye.
@@ -8804,7 +8804,7 @@ claims:
       content_hash: sha256:0f913eefce56c6e2b515b973bf3ecf5dd69db0968c6beb716459a9956f14b0c9
       friendly_name: null
   - claim_id: 057ab682-3651-4293-9bf0-1b0fc2d95ca7
-    claim_hash: 66aeb1ce1227fe4c36329872cf06a897982225e75fce1f4f11cc1106a3138e23
+    claim_hash: d9ade5ce25904cd50415fb6988ce7eb2494434bb977c51d5095a4066cc7bb041
     content: Edgar Mitchell believed there was hardly any night during the Apollo 14 mission when he did not see at least
       some light flashes, with the possible exception of time spent on the lunar surface.
     original_excerpt: I don't really recall that there was any night except on the lunar surface. that I didn't at some time
@@ -8821,10 +8821,10 @@ claims:
     attribution_mode: bare_ok
     attachment: unreviewed
     entailment:
-      label: neutral
+      label: entails
       score: 0.996
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 59476464-a679-46ce-9247-b0adcb287762
         title: Edgar Mitchell
@@ -8849,7 +8849,7 @@ claims:
       content_hash: sha256:0f913eefce56c6e2b515b973bf3ecf5dd69db0968c6beb716459a9956f14b0c9
       friendly_name: null
   - claim_id: 53f7dfff-a263-4ae1-900a-ffe0413c9542
-    claim_hash: a569375c1b81ca472428605706fc8240f82ace7bfbd7243aad07838ced0330b8
+    claim_hash: 5661afe589eb990c23ac73e3a552fc9c5ba9569747192384ccf25d086dd10a79
     content: Edgar Mitchell did not recall whether he saw light flashes while on the lunar surface.
     original_excerpt: I just, no, I don't remember about the lunar surface.
     claim_type: observation
@@ -8892,7 +8892,7 @@ claims:
       content_hash: sha256:0f913eefce56c6e2b515b973bf3ecf5dd69db0968c6beb716459a9956f14b0c9
       friendly_name: null
   - claim_id: e3cc2d13-dfd5-40b2-b4a0-03849eb4eb4a
-    claim_hash: a2ec760be50386ef1432de06faf9ae1572d8ca1d8edc4c73805c6fe74ce064b2
+    claim_hash: 382fa43265d5f6b7b1397c9e3ae6ca264392e82f1d5480cf8e04b7b63f882983
     content: There was very little sleep at night during the Apollo 14 mission.
     original_excerpt: There was precious little sleep at night anyhow.
     claim_type: observation
@@ -9032,10 +9032,10 @@ claims:
     attribution_mode: bare_ok
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.997
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.956
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 59476464-a679-46ce-9247-b0adcb287762
         title: Edgar Mitchell
@@ -9057,7 +9057,7 @@ claims:
       content_hash: sha256:0f913eefce56c6e2b515b973bf3ecf5dd69db0968c6beb716459a9956f14b0c9
       friendly_name: null
   - claim_id: 5da3ff3f-c4fb-4ac3-a9c1-1f6da804bee4
-    claim_hash: b4f3fda41fa9b0a8e45410893503fb7e5e9b7c0caf9d3d0541b470ca22e2a009
+    claim_hash: 16c0251f03f87bc59323a2ef71b490f1aa2497be01772edc8e76b70526ce59ca
     content: Edgar Mitchell reported observing a diffuse cloud-like lighting phenomenon on a couple of occasions during Apollo
       14.
     original_excerpt: I think it occurred, I reported it a couple of times... it was just a diffuse lighting.
@@ -9240,10 +9240,10 @@ claims:
     attribution_mode: bare_ok
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.722
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 59476464-a679-46ce-9247-b0adcb287762
         title: Edgar Mitchell
@@ -9265,7 +9265,7 @@ claims:
       content_hash: sha256:0f913eefce56c6e2b515b973bf3ecf5dd69db0968c6beb716459a9956f14b0c9
       friendly_name: null
   - claim_id: 7587f413-f142-49e4-95be-55813fd1e3ba
-    claim_hash: 836ba205f2aaf257c51802f7972875c660ff1b9a8f2bcf766b47a2d67140ab97
+    claim_hash: 2ebad049393fd483bcdeb391756261a261bbd51ecab237ed78a33bf1999f939c
     content: Edgar Mitchell reported that shining a flashlight across his closed eyes during the Apollo 14 light-flash experiment
       did not appear to destroy his dark adaptation.
     original_excerpt: I was going to make the comment that with respect to the flashes, putting the flashlight in my eyes
@@ -9368,10 +9368,10 @@ claims:
     attribution_mode: bare_ok
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.999
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.813
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 59476464-a679-46ce-9247-b0adcb287762
         title: Edgar Mitchell
@@ -9479,7 +9479,7 @@ claims:
       content_hash: sha256:0f913eefce56c6e2b515b973bf3ecf5dd69db0968c6beb716459a9956f14b0c9
       friendly_name: null
   - claim_id: cbfafc8c-2a92-4b58-adb8-f2c2fee7a03a
-    claim_hash: c1d5fe0e3da0891c2f2a2d7109c8c5739bd53a79dbc2b4235299c8305597723b
+    claim_hash: c9224ea07c5623913927394dc21b5ffdd6eac9da7202062702bf47bc5b695c3e
     content: No crew member other than Edgar Mitchell reported seeing colour in the light flashes observed during Apollo 14.
     original_excerpt: Ed saw one blue flash. Did anyone else see color? / No.
     claim_type: observation
@@ -9603,7 +9603,7 @@ claims:
       content_hash: sha256:0f913eefce56c6e2b515b973bf3ecf5dd69db0968c6beb716459a9956f14b0c9
       friendly_name: null
   - claim_id: c3a3891e-608d-499e-8ba6-73a787fd8806
-    claim_hash: b022e4d97b4594a5473e73d8149fd4e00c92d6d738974ee29f276957f40dbf7f
+    claim_hash: 11b9e819bf0a7bb00666bd45caa1d25d8268dc5c30a3bcddb2d994b07cfb11cf
     content: Similar blue lights also featured in Edgar Mitchell's Apollo 14 mission, according to Edgar Mitchell's own account.
     original_excerpt: they also featured in Edgar Mitchell's Apollo 14 mission from Edgar's own account.
     claim_type: testimony
@@ -9643,7 +9643,7 @@ claims:
       content_hash: sha256:f37882ab1f880101b3e452e3802d7afc296c07eb413f65ebea554984f3b8cdef
       friendly_name: null
   - claim_id: 6175cf1b-3dc1-4e78-a5fe-4709dd76610a
-    claim_hash: 9d1aaa0c73ed7a70ed7810681349edab23ecbf04082963107bf215e22bdd592d
+    claim_hash: 298c3cb6c7ecd5a44b0058bdd3e3e6fb2e58161336dabeb390876dc4c25a9383
     content: Edgar Mitchell admitted that he personally saw the blue-light objects with his own eyes during the Apollo 14
       mission.
     original_excerpt: I know Edgar Mitchell admitted that he had seen these objects himself with his own eyes.
@@ -9684,7 +9684,7 @@ claims:
       content_hash: sha256:f37882ab1f880101b3e452e3802d7afc296c07eb413f65ebea554984f3b8cdef
       friendly_name: null
   - claim_id: 2f1a6c8d-aa67-42a3-a960-11a69a3cea68
-    claim_hash: c3d081c6845c323c6b4f06753f898baab4c4000ca9755d740d5848323cd2bba9
+    claim_hash: 8c9b44b3d505f2d61c262e12c0e0029daf0fe53a6de039bd961d8b80e7b3bb58
     content: Edgar Mitchell told friends, including a close friend of Ross Coulthart, that he saw blue images that followed
       the Apollo 14 crew out to the Moon, followed them while on the Moon, and followed them back.
     original_excerpt: And he told friends, including a very close friend of mine about it, and said, "I saw those blue images.
@@ -9727,7 +9727,7 @@ claims:
       content_hash: sha256:f37882ab1f880101b3e452e3802d7afc296c07eb413f65ebea554984f3b8cdef
       friendly_name: null
   - claim_id: 3539dcc4-a7a5-4183-aa09-a6a23f12473f
-    claim_hash: 845b64bccb1a788e24b8e2cc37ae6950348b0d2d7c78e123c28043813e6559f7
+    claim_hash: 46be3044eebc5fbc43dc311691b961f3760a2f74bcb6f4943c55e56b47964845
     content: 'A close friend of Edgar Mitchell, known to Ross Coulthart, told Ross Coulthart that when Edgar Mitchell was
       asked why he didn''t speak about what he saw on the lunar surface and afterward during the Apollo 14 mission, Mitchell
       answered with one word: treason.'

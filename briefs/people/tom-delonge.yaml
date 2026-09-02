@@ -1,5 +1,5 @@
 schema: anomalica/brief/1
-brief_hash: a89ee010d9d2a65da8d1b5321aada0befbc98f122563a7bfe8febb3ab3134890
+brief_hash: f834e03600abbb74d3118403d117b465c38488726e5d56adcbaa3bb09c1158d2
 page:
   kind: entity
   node_id: c3938d3d-6d68-4a6d-94db-45321eed124d
@@ -9,7 +9,7 @@ page:
   claim_count: 256
   claim_count_total: 256
 generated:
-  graph_version: '2026-09-02T13:07:29.167026+00:00'
+  graph_version: '2026-09-02T14:12:13.257772+00:00'
 size:
   claims: 256
   tokens_estimated: 37934
@@ -17,13 +17,13 @@ size:
 entailment:
   assessed: 256
   unassessed: 0
-  entails: 138
-  neutral: 103
+  entails: 142
+  neutral: 99
   contradicts: 15
   entailed_by_quote: 94
-  entailed_by_window: 44
+  entailed_by_window: 48
   entailed_by_quote_fraction: 0.367
-  entailed_by_window_fraction: 0.172
+  entailed_by_window_fraction: 0.188
 publication:
   status: published
   note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
@@ -9454,10 +9454,10 @@ claims:
     attribution_mode: bare_ok
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.842
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.998
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: a3a02857-b28d-434b-b1ad-e6c2d491e8bd
         title: To the Stars Academy of Arts and Science (TTSA)
@@ -9728,9 +9728,9 @@ claims:
     attachment: unreviewed
     entailment:
       label: neutral
-      score: 0.951
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      score: 0.995
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 1cddc1bd-375e-4481-9c3b-fec8cbea86cd
         title: Blink-182
@@ -10175,7 +10175,7 @@ claims:
       content_hash: sha256:d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7b5a1b98d
       friendly_name: null
   - claim_id: b6bfd3d2-4319-41ef-b7b1-c86eb40be8ec
-    claim_hash: 58e23cccd4a6a0fb9b0db3ba591aaa8873cafac25bcfea9dbdfccbc45c098cc6
+    claim_hash: 83b710a01bd94d44b41bd5062af84579d7970d6ce4618a43011ae0ff4482d70f
     content: Tom DeLonge was flown to the Pentagon for a meeting, and was then directed to NASA where he met further people.
     original_excerpt: So he's flown out to the Pentagon where he meets with someone and they say, okay, now you're going to
       NASA, where he meets with some people.
@@ -10324,10 +10324,10 @@ claims:
     attribution_mode: unknown
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.692
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 1cddc1bd-375e-4481-9c3b-fec8cbea86cd
         title: Blink-182
@@ -10816,10 +10816,10 @@ claims:
     attribution_mode: unknown
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.719
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.997
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: beb9eb48-6799-4f9b-a465-6fccb65370bd
         title: Secret Machines
@@ -11183,10 +11183,10 @@ claims:
     attribution_mode: bare_ok
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.756
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.894
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
         title: Unidentified Flying Object (UFO)

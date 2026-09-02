@@ -9,7 +9,7 @@ page:
   claim_count: 16
   claim_count_total: 16
 generated:
-  graph_version: '2026-09-02T13:07:29.167026+00:00'
+  graph_version: '2026-09-02T14:12:13.257772+00:00'
 size:
   claims: 16
   tokens_estimated: 2159
@@ -18,8 +18,8 @@ entailment:
   assessed: 16
   unassessed: 0
   entails: 10
-  neutral: 5
-  contradicts: 1
+  neutral: 4
+  contradicts: 2
   entailed_by_quote: 6
   entailed_by_window: 4
   entailed_by_quote_fraction: 0.375
@@ -144,10 +144,10 @@ claims:
     attribution_mode: unknown
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.982
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: contradicts
+      score: 0.536
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 0a5cbe38-519a-42fe-8f31-bb46c983b742
         title: Nathan Twining's 1947 memo to the commander of the Army Air Forces

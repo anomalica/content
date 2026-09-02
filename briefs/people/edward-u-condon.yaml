@@ -1,5 +1,5 @@
 schema: anomalica/brief/1
-brief_hash: 5856c881027192882a9c9436c5ad360957d5eea1c03f294d9df863fba7301511
+brief_hash: 7ecca71f86c17ce4199900a05485fee0498c11a461d96df9286754e9db7f19d2
 page:
   kind: entity
   node_id: 4c22ee6f-cb2b-4f85-94ba-1442741abd32
@@ -9,7 +9,7 @@ page:
   claim_count: 20
   claim_count_total: 20
 generated:
-  graph_version: '2026-09-02T13:07:29.167026+00:00'
+  graph_version: '2026-09-02T14:12:13.257772+00:00'
 size:
   claims: 20
   tokens_estimated: 2674
@@ -105,7 +105,7 @@ related_nodes:
     shared_claims: 1
 claims:
   - claim_id: 18e7f387-896e-43d7-8305-214c6e8f1c99
-    claim_hash: 19e96770df7e22ca70521c1b842c9ab26e943e10d58850a0ee3cd736618ec609
+    claim_hash: d782f74da66a3cc53be3eb179c040ef28d0c77a61ac275a4478265fa7858e2a7
     content: In 1967 the University of Colorado UFO Project began spending 512,000 US dollars given to Edward Condon by the
       Pentagon to study UFOs.
     original_excerpt: In 1967, as the University of Colorado began spending the $512,000 given to Professor Condon by the

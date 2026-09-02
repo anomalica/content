@@ -9,7 +9,7 @@ page:
   claim_count: 39
   claim_count_total: 39
 generated:
-  graph_version: '2026-09-02T13:07:29.167026+00:00'
+  graph_version: '2026-09-02T14:12:13.257772+00:00'
 size:
   claims: 39
   tokens_estimated: 4388
@@ -17,13 +17,13 @@ size:
 entailment:
   assessed: 39
   unassessed: 0
-  entails: 34
-  neutral: 5
+  entails: 35
+  neutral: 4
   contradicts: 0
   entailed_by_quote: 17
-  entailed_by_window: 17
+  entailed_by_window: 18
   entailed_by_quote_fraction: 0.436
-  entailed_by_window_fraction: 0.436
+  entailed_by_window_fraction: 0.462
 publication:
   status: published
   note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
@@ -271,10 +271,10 @@ claims:
     attribution_mode: bare_ok
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.999
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.998
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: a17d713f-41a9-48a3-82c7-f41c7745522f
         title: Hoyt S. Vandenberg

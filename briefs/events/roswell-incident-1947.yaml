@@ -1,5 +1,5 @@
 schema: anomalica/brief/1
-brief_hash: 61bdf543893e2ff1dbfa4c3451c422b0153273a6bace111e39c62547883ad873
+brief_hash: 2ffad326ceefae5a85c528ce40a1aa851836ae5f410faa017da185e422bd4eaf
 page:
   kind: entity
   node_id: b8ea9860-ae6e-4835-8114-6a6626f28797
@@ -9,7 +9,7 @@ page:
   claim_count: 194
   claim_count_total: 194
 generated:
-  graph_version: '2026-09-02T13:07:29.167026+00:00'
+  graph_version: '2026-09-02T14:12:13.257772+00:00'
 size:
   claims: 194
   tokens_estimated: 29400
@@ -17,13 +17,13 @@ size:
 entailment:
   assessed: 194
   unassessed: 0
-  entails: 122
-  neutral: 66
+  entails: 128
+  neutral: 60
   contradicts: 6
   entailed_by_quote: 62
-  entailed_by_window: 60
+  entailed_by_window: 66
   entailed_by_quote_fraction: 0.32
-  entailed_by_window_fraction: 0.309
+  entailed_by_window_fraction: 0.34
 publication:
   status: published
   note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
@@ -767,10 +767,10 @@ claims:
     attribution_mode: unknown
     attachment: verified
     entailment:
-      label: neutral
-      score: 0.817
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.466
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 1084421d-b68c-43c6-ba69-18d15084e5ec
         title: W. W. Brazel
@@ -4873,7 +4873,7 @@ claims:
       content_hash: sha256:8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a94774067868
       friendly_name: 2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a
   - claim_id: e523c48c-aed3-4378-8039-aa38622d3a42
-    claim_hash: e44a941332379b56887e3736592fc40f968a084224349dfd7be07912d0ac73e8
+    claim_hash: e01a4ff67007540e65757a9818f1e5aa6c3abd74568cfca4517bf82aeade1d1c
     content: President Bill Clinton said that as far as he knew, an alien spacecraft did not crash in Roswell, New Mexico,
       in 1947, that if the United States Air Force did recover alien bodies they did not tell him about it, and that he wanted
       to know.
@@ -4882,7 +4882,7 @@ claims:
     claim_type: opinion
     attestation: first_hand
     speaker:
-      node_id: 459eb5cf-ea76-4cad-9421-a726261cd3a2
+      node_id: c8b2f71c-febf-446f-9b1e-3e6bdc6c86c5
       title: William J. Clinton
     provenance_chain:
       origin_kind: speaker
@@ -4902,12 +4902,12 @@ claims:
       - node_id: 35380539-7caf-46ec-9614-1956abdd7e7a
         title: USA, New Mexico, Roswell
         slug: new-mexico-roswell-usa
-      - node_id: 459eb5cf-ea76-4cad-9421-a726261cd3a2
-        title: William J. Clinton
-        slug: william-j-clinton
       - node_id: b8ea9860-ae6e-4835-8114-6a6626f28797
         title: Roswell incident (1947)
         slug: roswell-incident-1947
+      - node_id: c8b2f71c-febf-446f-9b1e-3e6bdc6c86c5
+        title: William J. Clinton
+        slug: william-j-clinton
     date: null
     date_end: null
     location_in_record: char:53986-54180
@@ -4966,7 +4966,7 @@ claims:
       content_hash: sha256:8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a94774067868
       friendly_name: 2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a
   - claim_id: da4ebfb3-ac09-4a64-8f0e-dd7bef065c9a
-    claim_hash: b54c6fd2876221e905cfc483a5bb66c2835494e911b1c8769f3e5f7183e72dcf
+    claim_hash: 753dd60828d7f51912523f4f50d47ae848fc9c25a65aff470fca30a584901b6c
     content: The Roswell incident refers to the July 1947 recovery of metallic and rubber debris from a crashed military balloon
       near Roswell Army Air Field that sparked conspiracy theories and claims that the debris was from an alien spaceship
       and part of a United States Government cover-up.
@@ -4988,7 +4988,7 @@ claims:
       model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
       premise: quote
     node_refs:
-      - node_id: 3e507b49-d600-474f-8995-453932dc1e01
+      - node_id: 24ba32dd-fc10-4ee4-bae2-9133cf301509
         title: USA, New Mexico, Roswell Army Air Field
         slug: new-mexico-roswell-army-air-field-usa
       - node_id: b8ea9860-ae6e-4835-8114-6a6626f28797
@@ -6271,7 +6271,7 @@ claims:
       content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
       friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
   - claim_id: a0a74bb4-f626-496e-977c-7b514fc1f1b4
-    claim_hash: 6ede64b723ce72d073b8df40d7191c18f917506bef72d6fad3e811815852b281
+    claim_hash: e5f0552b013a489a1e7bb4dc63ac07277134d62f215379289c27ca4b04eece1e
     content: Bill Clinton stated that while he was president, every attempt was made to find out everything about the 1947
       Roswell UAP crash.
     original_excerpt: “When I was president, we made every attempt to find out everything about Roswell… . There are lots
@@ -6279,7 +6279,7 @@ claims:
     claim_type: testimony
     attestation: first_hand
     speaker:
-      node_id: 459eb5cf-ea76-4cad-9421-a726261cd3a2
+      node_id: c8b2f71c-febf-446f-9b1e-3e6bdc6c86c5
       title: William J. Clinton
     provenance_chain:
       origin_kind: speaker
@@ -6293,12 +6293,12 @@ claims:
       model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
       premise: window
     node_refs:
-      - node_id: 459eb5cf-ea76-4cad-9421-a726261cd3a2
-        title: William J. Clinton
-        slug: william-j-clinton
       - node_id: b8ea9860-ae6e-4835-8114-6a6626f28797
         title: Roswell incident (1947)
         slug: roswell-incident-1947
+      - node_id: c8b2f71c-febf-446f-9b1e-3e6bdc6c86c5
+        title: William J. Clinton
+        slug: william-j-clinton
     date: null
     date_end: null
     location_in_record: ch35:4245-4454
@@ -6888,7 +6888,7 @@ claims:
       content_hash: sha256:524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008e17102e7
       friendly_name: 2025-01-15-ebook-the-fourth-mind
   - claim_id: c8206e5b-f736-43fc-b3b5-5dada63c5fe4
-    claim_hash: 817798f4ca5cf5eba63be0f9452127c79b00c9c08b99c80c4d3104a373209c6f
+    claim_hash: cea43846eda33001e434cf9107e59d6263bc887e6d693f6063ce54fbcb5c42d7
     content: No one at the 1947-07-08 staff meeting at Roswell Army Air Force Base was able to identify the recovered crash
       debris.
     original_excerpt: No one was able to identify the crash debris.
@@ -6909,7 +6909,7 @@ claims:
       model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
       premise: window
     node_refs:
-      - node_id: 3e507b49-d600-474f-8995-453932dc1e01
+      - node_id: 24ba32dd-fc10-4ee4-bae2-9133cf301509
         title: USA, New Mexico, Roswell Army Air Field
         slug: new-mexico-roswell-army-air-field-usa
       - node_id: b8ea9860-ae6e-4835-8114-6a6626f28797
@@ -7728,10 +7728,10 @@ claims:
     attribution_mode: unknown
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.551
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.754
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 35380539-7caf-46ec-9614-1956abdd7e7a
         title: USA, New Mexico, Roswell
@@ -7918,10 +7918,10 @@ claims:
     attribution_mode: unknown
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.891
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.996
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
         title: Unidentified Flying Object (UFO)
@@ -8105,10 +8105,10 @@ claims:
     attribution_mode: unknown
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.917
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.995
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 14e0aa2b-4067-4ef2-8ca8-cfdbe9697876
         title: Unidentified Aerial Phenomena disclosure
@@ -8154,10 +8154,10 @@ claims:
     attribution_mode: unknown
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.738
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.986
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
         title: Whitley Strieber
@@ -8473,10 +8473,10 @@ claims:
     attribution_mode: unknown
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.998
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.995
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
         title: Whitley Strieber

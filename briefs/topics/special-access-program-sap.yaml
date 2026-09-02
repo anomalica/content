@@ -9,7 +9,7 @@ page:
   claim_count: 44
   claim_count_total: 44
 generated:
-  graph_version: '2026-09-02T13:07:29.167026+00:00'
+  graph_version: '2026-09-02T14:12:13.257772+00:00'
 size:
   claims: 44
   tokens_estimated: 7821
@@ -17,13 +17,13 @@ size:
 entailment:
   assessed: 44
   unassessed: 0
-  entails: 24
-  neutral: 19
+  entails: 25
+  neutral: 18
   contradicts: 1
   entailed_by_quote: 16
-  entailed_by_window: 8
+  entailed_by_window: 9
   entailed_by_quote_fraction: 0.364
-  entailed_by_window_fraction: 0.182
+  entailed_by_window_fraction: 0.205
 publication:
   status: published
   note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
@@ -2118,10 +2118,10 @@ claims:
     attribution_mode: bare_ok
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.966
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.978
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 4fb65b2c-296a-493d-bbc7-65e4b763c1f0
         title: United States Congress
@@ -2164,9 +2164,9 @@ claims:
     attachment: unreviewed
     entailment:
       label: neutral
-      score: 0.996
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      score: 0.95
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 64d41f78-598d-433c-a49d-f0d19fd62b27
         title: Special Access Program (SAP)

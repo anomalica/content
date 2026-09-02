@@ -9,7 +9,7 @@ page:
   claim_count: 217
   claim_count_total: 217
 generated:
-  graph_version: '2026-09-02T13:07:29.167026+00:00'
+  graph_version: '2026-09-02T14:12:13.257772+00:00'
 size:
   claims: 217
   tokens_estimated: 29847
@@ -17,13 +17,13 @@ size:
 entailment:
   assessed: 217
   unassessed: 0
-  entails: 169
-  neutral: 31
-  contradicts: 17
+  entails: 183
+  neutral: 16
+  contradicts: 18
   entailed_by_quote: 62
-  entailed_by_window: 107
+  entailed_by_window: 121
   entailed_by_quote_fraction: 0.286
-  entailed_by_window_fraction: 0.493
+  entailed_by_window_fraction: 0.558
 publication:
   status: published
   note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
@@ -4006,10 +4006,10 @@ claims:
     attribution_mode: unknown
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.986
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.998
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 303ceab8-2c59-4a37-b1bf-1146b9026b4b
         title: Grace (Budd Hopkins's daughter)
@@ -4051,10 +4051,10 @@ claims:
     attribution_mode: unknown
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.71
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.517
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 303ceab8-2c59-4a37-b1bf-1146b9026b4b
         title: Grace (Budd Hopkins's daughter)
@@ -4549,10 +4549,10 @@ claims:
     attribution_mode: unknown
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.662
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.522
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 0e66a0b2-04ea-4a26-a9b7-cbd062a131c0
         title: USA, New York
@@ -4800,10 +4800,10 @@ claims:
     attribution_mode: unknown
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.968
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.601
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 75d365e7-1dee-46ab-8cf7-bcf46a9a079f
         title: Sandra O'Hara
@@ -4962,10 +4962,10 @@ claims:
     attribution_mode: unknown
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.904
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.761
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 303ceab8-2c59-4a37-b1bf-1146b9026b4b
         title: Grace (Budd Hopkins's daughter)
@@ -5988,10 +5988,10 @@ claims:
     attribution_mode: bare_ok
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.996
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 517f1746-02e4-427e-a785-62e508f57793
         title: Canada, Ontario, Toronto
@@ -6819,10 +6819,10 @@ claims:
     attribution_mode: bare_ok
     attachment: unreviewed
     entailment:
-      label: neutral
+      label: entails
       score: 0.999
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: adbaf699-a6e5-418c-a8ba-24e21dd0ab92
         title: Budd Hopkins
@@ -7101,9 +7101,9 @@ claims:
     attachment: unreviewed
     entailment:
       label: neutral
-      score: 0.988
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      score: 0.502
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: adbaf699-a6e5-418c-a8ba-24e21dd0ab92
         title: Budd Hopkins
@@ -7178,10 +7178,10 @@ claims:
     attribution_mode: bare_ok
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.999
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.998
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: adbaf699-a6e5-418c-a8ba-24e21dd0ab92
         title: Budd Hopkins
@@ -7494,10 +7494,10 @@ claims:
     attribution_mode: bare_ok
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.996
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.736
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: fe45c5e4-e674-4e3c-bccc-03682574e81d
         title: USA, New York, Brooklyn
@@ -7610,10 +7610,10 @@ claims:
     attribution_mode: bare_ok
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.651
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.776
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: adbaf699-a6e5-418c-a8ba-24e21dd0ab92
         title: Budd Hopkins
@@ -7650,10 +7650,10 @@ claims:
     attribution_mode: bare_ok
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.937
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.636
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: adbaf699-a6e5-418c-a8ba-24e21dd0ab92
         title: Budd Hopkins
@@ -7770,10 +7770,10 @@ claims:
     attribution_mode: unknown
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.998
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 1.0
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: adbaf699-a6e5-418c-a8ba-24e21dd0ab92
         title: Budd Hopkins
@@ -7891,9 +7891,9 @@ claims:
     attachment: unreviewed
     entailment:
       label: neutral
-      score: 0.992
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      score: 0.766
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 98eeed83-96a9-45ef-bb14-cb915d45fc9c
         title: Alien abduction
@@ -8020,10 +8020,10 @@ claims:
     attribution_mode: unknown
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.792
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.995
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 98eeed83-96a9-45ef-bb14-cb915d45fc9c
         title: Alien abduction
@@ -8325,10 +8325,10 @@ claims:
     attribution_mode: unknown
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.963
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 98eeed83-96a9-45ef-bb14-cb915d45fc9c
         title: Alien abduction
@@ -8909,10 +8909,10 @@ claims:
     attribution_mode: unknown
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.96
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: contradicts
+      score: 0.974
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 98e50374-da8a-4414-998b-d42fce1cd3d7
         title: Peter Khoury

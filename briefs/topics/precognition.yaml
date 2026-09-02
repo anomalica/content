@@ -9,7 +9,7 @@ page:
   claim_count: 45
   claim_count_total: 45
 generated:
-  graph_version: '2026-09-02T13:07:29.167026+00:00'
+  graph_version: '2026-09-02T14:12:13.257772+00:00'
 size:
   claims: 45
   tokens_estimated: 6808
@@ -17,13 +17,13 @@ size:
 entailment:
   assessed: 45
   unassessed: 0
-  entails: 37
-  neutral: 6
+  entails: 41
+  neutral: 2
   contradicts: 2
   entailed_by_quote: 20
-  entailed_by_window: 17
+  entailed_by_window: 21
   entailed_by_quote_fraction: 0.444
-  entailed_by_window_fraction: 0.378
+  entailed_by_window_fraction: 0.467
 publication:
   status: published
   note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
@@ -1153,10 +1153,10 @@ claims:
     attribution_mode: bare_ok
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.492
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 1.0
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 3ee2cac3-ff50-4eff-8353-cd4c6ac0a30f
         title: Precognition
@@ -1681,10 +1681,10 @@ claims:
     attribution_mode: bare_ok
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.972
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 3ee2cac3-ff50-4eff-8353-cd4c6ac0a30f
         title: Precognition
@@ -1814,10 +1814,10 @@ claims:
     attribution_mode: unknown
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.967
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 3ee2cac3-ff50-4eff-8353-cd4c6ac0a30f
         title: Precognition
@@ -2036,10 +2036,10 @@ claims:
     attribution_mode: unknown
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.894
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.963
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 3ee2cac3-ff50-4eff-8353-cd4c6ac0a30f
         title: Precognition
@@ -2129,9 +2129,9 @@ claims:
     attachment: unreviewed
     entailment:
       label: neutral
-      score: 0.959
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      score: 0.953
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 3ee2cac3-ff50-4eff-8353-cd4c6ac0a30f
         title: Precognition

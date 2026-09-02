@@ -9,7 +9,7 @@ page:
   claim_count: 50
   claim_count_total: 50
 generated:
-  graph_version: '2026-09-02T13:07:29.167026+00:00'
+  graph_version: '2026-09-02T14:12:13.257772+00:00'
 size:
   claims: 50
   tokens_estimated: 6879
@@ -17,13 +17,13 @@ size:
 entailment:
   assessed: 50
   unassessed: 0
-  entails: 34
-  neutral: 9
+  entails: 38
+  neutral: 5
   contradicts: 7
   entailed_by_quote: 5
-  entailed_by_window: 29
+  entailed_by_window: 33
   entailed_by_quote_fraction: 0.1
-  entailed_by_window_fraction: 0.58
+  entailed_by_window_fraction: 0.66
 publication:
   status: published
   note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
@@ -1314,10 +1314,10 @@ claims:
     attribution_mode: bare_ok
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.988
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.998
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 71d47503-ae09-47a6-83e4-4f376df22e0e
         title: Communion
@@ -2224,10 +2224,10 @@ claims:
     attribution_mode: bare_ok
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.982
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
         title: Whitley Strieber
@@ -2313,10 +2313,10 @@ claims:
     attribution_mode: unknown
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.996
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.993
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
         title: Whitley Strieber
@@ -2355,10 +2355,10 @@ claims:
     attribution_mode: bare_ok
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.998
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.979
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
         title: Whitley Strieber

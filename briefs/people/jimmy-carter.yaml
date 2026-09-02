@@ -1,5 +1,5 @@
 schema: anomalica/brief/1
-brief_hash: 45f337b5af4910853d4b7194007c7f0caf81967182ee3d56d6c80a5a83c665f4
+brief_hash: 348085e1bf5121aa15547223fa8675c79b15d7bf650654897b91c32bf5ab654e
 page:
   kind: entity
   node_id: 898c410a-7789-4762-b6dd-1139ced89658
@@ -9,7 +9,7 @@ page:
   claim_count: 50
   claim_count_total: 50
 generated:
-  graph_version: '2026-09-02T13:07:29.167026+00:00'
+  graph_version: '2026-09-02T14:12:13.257772+00:00'
 size:
   claims: 50
   tokens_estimated: 6425
@@ -17,13 +17,13 @@ size:
 entailment:
   assessed: 50
   unassessed: 0
-  entails: 30
-  neutral: 17
+  entails: 32
+  neutral: 15
   contradicts: 3
   entailed_by_quote: 13
-  entailed_by_window: 17
+  entailed_by_window: 19
   entailed_by_quote_fraction: 0.26
-  entailed_by_window_fraction: 0.34
+  entailed_by_window_fraction: 0.38
 publication:
   status: published
   note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
@@ -118,7 +118,7 @@ related_nodes:
     node_type: organisation
     slug: united-states-air-force-usaf
     shared_claims: 2
-  - node_id: 459eb5cf-ea76-4cad-9421-a726261cd3a2
+  - node_id: c8b2f71c-febf-446f-9b1e-3e6bdc6c86c5
     title: William J. Clinton
     node_type: person
     slug: william-j-clinton
@@ -413,10 +413,10 @@ claims:
     attribution_mode: bare_ok
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.993
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.998
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 898c410a-7789-4762-b6dd-1139ced89658
         title: Jimmy Carter
@@ -1607,7 +1607,7 @@ claims:
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
   - claim_id: ba58875b-e22d-4cfc-8f79-c77d046ba64e
-    claim_hash: 7a814dbac33300989b0e49f7459f33e59263aba588089e9fa31b2e0cdadd69ac
+    claim_hash: 82c5247fa5e1a738e62be07d2ec533fab426193128c00a8d6a1a638dfe858349
     content: When Bill Clinton became president in 1993, he asked questions about UAPs, just as Jimmy Carter had done in 1977.
     original_excerpt: When Bill Clinton became president in 1993, he asked questions about UAPs, just as Jimmy Carter had
       done in 1977.
@@ -1626,15 +1626,15 @@ claims:
       model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
       premise: quote
     node_refs:
-      - node_id: 459eb5cf-ea76-4cad-9421-a726261cd3a2
-        title: William J. Clinton
-        slug: william-j-clinton
       - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
         title: Unidentified Anomalous Phenomena (UAP)
         slug: unidentified-anomalous-phenomena-uap
       - node_id: 898c410a-7789-4762-b6dd-1139ced89658
         title: Jimmy Carter
         slug: jimmy-carter
+      - node_id: c8b2f71c-febf-446f-9b1e-3e6bdc6c86c5
+        title: William J. Clinton
+        slug: william-j-clinton
     date: '1993'
     date_end: null
     location_in_record: ch14:104-212
@@ -1955,7 +1955,7 @@ claims:
       content_hash: sha256:524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008e17102e7
       friendly_name: 2025-01-15-ebook-the-fourth-mind
   - claim_id: 8f999b2d-5a47-448f-9ce3-87f6e6d43145
-    claim_hash: 7373e8f62859fd4519f119d993adb982338c65dde8858d2c3cf2a588042557cb
+    claim_hash: 298e35136016a24a79b6d15c46c6a073c3a9e5ac74105f006588eca8fdf4b925
     content: Ross Coulthart considers it unacceptable that United States presidents Bill Clinton, Barack Obama, Gerald Ford
       and Jimmy Carter were not able to be briefed on Unidentified Flying Object information while serving as commander in
       chief.
@@ -1982,9 +1982,6 @@ claims:
       - node_id: 3030c72b-534a-4ddb-88ec-c09f315b9d87
         title: Gerald Ford
         slug: gerald-ford
-      - node_id: 459eb5cf-ea76-4cad-9421-a726261cd3a2
-        title: William J. Clinton
-        slug: william-j-clinton
       - node_id: 65058869-076f-47d0-92ea-f8daf08b94cf
         title: Barack Obama
         slug: barack-obama
@@ -1994,6 +1991,9 @@ claims:
       - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
         title: Unidentified Flying Object (UFO)
         slug: unidentified-flying-object-ufo
+      - node_id: c8b2f71c-febf-446f-9b1e-3e6bdc6c86c5
+        title: William J. Clinton
+        slug: william-j-clinton
       - node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
         title: Ross Coulthart
         slug: ross-coulthart
@@ -2162,10 +2162,10 @@ claims:
     attribution_mode: bare_ok
     attachment: unreviewed
     entailment:
-      label: neutral
+      label: entails
       score: 0.996
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 1c74a06c-1b3f-43b4-b54c-3f6b44fd8192
         title: Ronald Reagan

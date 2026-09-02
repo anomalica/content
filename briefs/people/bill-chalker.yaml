@@ -9,7 +9,7 @@ page:
   claim_count: 480
   claim_count_total: 480
 generated:
-  graph_version: '2026-09-02T13:07:29.167026+00:00'
+  graph_version: '2026-09-02T14:12:13.257772+00:00'
 size:
   claims: 480
   tokens_estimated: 72941
@@ -17,13 +17,13 @@ size:
 entailment:
   assessed: 480
   unassessed: 0
-  entails: 358
-  neutral: 72
+  entails: 365
+  neutral: 65
   contradicts: 50
   entailed_by_quote: 143
-  entailed_by_window: 215
+  entailed_by_window: 222
   entailed_by_quote_fraction: 0.298
-  entailed_by_window_fraction: 0.448
+  entailed_by_window_fraction: 0.463
 publication:
   status: published
   note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
@@ -13194,10 +13194,10 @@ claims:
     attribution_mode: bare_ok
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.982
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.513
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 3ff75793-423c-4333-8402-d5c543074091
         title: Bill Chalker
@@ -13341,10 +13341,10 @@ claims:
     attribution_mode: bare_ok
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.962
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.439
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 3ff75793-423c-4333-8402-d5c543074091
         title: Bill Chalker
@@ -13525,10 +13525,10 @@ claims:
     attribution_mode: bare_ok
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.991
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.674
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 3ff75793-423c-4333-8402-d5c543074091
         title: Bill Chalker
@@ -13616,10 +13616,10 @@ claims:
     attribution_mode: bare_ok
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.959
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.594
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 2315dc27-bef7-45f4-ad2c-102fbc85326a
         title: Keith Rylance's alleged men-in-black pursuit incident
@@ -13913,10 +13913,10 @@ claims:
     attribution_mode: bare_ok
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.983
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.598
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 3ff75793-423c-4333-8402-d5c543074091
         title: Bill Chalker
@@ -13963,10 +13963,10 @@ claims:
     attribution_mode: unknown
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.994
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.588
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 3ff75793-423c-4333-8402-d5c543074091
         title: Bill Chalker
@@ -20835,10 +20835,10 @@ claims:
     attribution_mode: bare_ok
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.997
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.78
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 195fd1e4-acd8-4a72-ada1-ebd1f96e23e8
         title: Sam Khoury
@@ -21002,9 +21002,9 @@ claims:
     attachment: unreviewed
     entailment:
       label: neutral
-      score: 0.998
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      score: 0.993
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 1d7f7563-7dae-4a54-9fdc-1d347205cbd4
         title: Invisible College
@@ -21043,9 +21043,9 @@ claims:
     attachment: unreviewed
     entailment:
       label: neutral
-      score: 0.998
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      score: 0.757
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 3ff75793-423c-4333-8402-d5c543074091
         title: Bill Chalker
@@ -21087,9 +21087,9 @@ claims:
     attachment: unreviewed
     entailment:
       label: neutral
-      score: 0.999
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      score: 0.959
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 3ff75793-423c-4333-8402-d5c543074091
         title: Bill Chalker

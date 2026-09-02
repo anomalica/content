@@ -1,5 +1,5 @@
 schema: anomalica/brief/1
-brief_hash: 7a95210b3cb9a31ac25b9fd6469530104cfe743d03a2229297a0fbe41ff252c0
+brief_hash: ea394718a1c87a5a9cd02508d235d42580afdaab950beb17996a75c865f64bfb
 page:
   kind: entity
   node_id: 4fb65b2c-296a-493d-bbc7-65e4b763c1f0
@@ -9,7 +9,7 @@ page:
   claim_count: 264
   claim_count_total: 264
 generated:
-  graph_version: '2026-09-02T13:07:29.167026+00:00'
+  graph_version: '2026-09-02T14:12:13.257772+00:00'
 size:
   claims: 264
   tokens_estimated: 42517
@@ -17,13 +17,13 @@ size:
 entailment:
   assessed: 264
   unassessed: 0
-  entails: 208
-  neutral: 45
-  contradicts: 11
+  entails: 218
+  neutral: 34
+  contradicts: 12
   entailed_by_quote: 61
-  entailed_by_window: 147
+  entailed_by_window: 157
   entailed_by_quote_fraction: 0.231
-  entailed_by_window_fraction: 0.557
+  entailed_by_window_fraction: 0.595
 publication:
   status: published
   note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
@@ -202,10 +202,10 @@ claims:
     attribution_mode: unknown
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.999
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.683
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 4fb65b2c-296a-493d-bbc7-65e4b763c1f0
         title: United States Congress
@@ -3141,7 +3141,7 @@ claims:
       content_hash: sha256:784b2feffd5aaa03b664d35f587d270a0838d547916cde4c429670cf1c68cd16
       friendly_name: null
   - claim_id: 68b43d23-894d-43bc-b84b-86154ea3b0b9
-    claim_hash: edbd0b4c3c6bb3b80516bff6f69b63b823284ec52c0c795e2616c8114e634002
+    claim_hash: 8e7d0593ea7dc2b4b5be44a53db1fef4b051a1eb02db4ecdb08059910b2a1318
     content: Marcia Smith asked Daniel Sheehan to accompany NASA astronauts on a lobbying tour of Congress to push for the
       reinstatement of full funding for the Search for Extra-Terrestrial Intelligence (SETI) program.
     original_excerpt: Marcia Smith came back a few weeks later and asked if, as a Jesuit representative, Sheehan would accompany
@@ -5495,7 +5495,7 @@ claims:
       content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
       friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
   - claim_id: 1fb5f84b-2e87-4e83-98d3-30699c510c71
-    claim_hash: 7a0f8240b97ec348d21e880c363a3f67e918889717b5df871287ed4f3dca51f6
+    claim_hash: 68467b354181e998704fb1ca0bcade567141b79895d0d829ffac6a91ff44f5f7
     content: Bryan Bender did not come across as a believer in Unidentified Aerial Phenomena (UAP), but rather seemed interested
       in whether the Pentagon had a programme that was never disclosed to the public or Congress.
     original_excerpt: Bryan didn't come across as a "UAP believer." Rather, he seemed interested in the Pentagon having a
@@ -8271,10 +8271,10 @@ claims:
     attribution_mode: unknown
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.995
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.48
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 4db565ee-937d-4404-ba4d-e27b59b52743
         title: Immaculate Constellation document
@@ -8975,10 +8975,10 @@ claims:
     attribution_mode: unknown
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.907
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 38b84d4a-96df-4684-bb46-f6f64f392add
         title: Central Intelligence Agency (CIA)
@@ -9626,10 +9626,10 @@ claims:
     attribution_mode: unknown
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.999
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.997
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 4fb65b2c-296a-493d-bbc7-65e4b763c1f0
         title: United States Congress
@@ -9717,10 +9717,10 @@ claims:
     attribution_mode: bare_ok
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.985
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.974
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 4fb65b2c-296a-493d-bbc7-65e4b763c1f0
         title: United States Congress
@@ -10470,10 +10470,10 @@ claims:
     attribution_mode: unknown
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.996
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.763
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
         title: Whitley Strieber
@@ -10810,10 +10810,10 @@ claims:
     attribution_mode: bare_ok
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.999
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.964
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 4fb65b2c-296a-493d-bbc7-65e4b763c1f0
         title: United States Congress
@@ -10853,10 +10853,10 @@ claims:
     attribution_mode: bare_ok
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.999
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: contradicts
+      score: 0.735
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 4fb65b2c-296a-493d-bbc7-65e4b763c1f0
         title: United States Congress
@@ -11249,10 +11249,10 @@ claims:
     attribution_mode: bare_ok
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.998
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.555
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 4fb65b2c-296a-493d-bbc7-65e4b763c1f0
         title: United States Congress
@@ -11597,10 +11597,10 @@ claims:
     attribution_mode: bare_ok
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.999
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.996
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 4fb65b2c-296a-493d-bbc7-65e4b763c1f0
         title: United States Congress
@@ -11872,10 +11872,10 @@ claims:
     attribution_mode: bare_ok
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.966
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.978
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 4fb65b2c-296a-493d-bbc7-65e4b763c1f0
         title: United States Congress

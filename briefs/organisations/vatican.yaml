@@ -9,7 +9,7 @@ page:
   claim_count: 72
   claim_count_total: 72
 generated:
-  graph_version: '2026-09-02T13:07:29.167026+00:00'
+  graph_version: '2026-09-02T14:12:13.257772+00:00'
 size:
   claims: 72
   tokens_estimated: 10577
@@ -17,13 +17,13 @@ size:
 entailment:
   assessed: 72
   unassessed: 0
-  entails: 66
-  neutral: 6
+  entails: 69
+  neutral: 3
   contradicts: 0
   entailed_by_quote: 24
-  entailed_by_window: 42
+  entailed_by_window: 45
   entailed_by_quote_fraction: 0.333
-  entailed_by_window_fraction: 0.583
+  entailed_by_window_fraction: 0.625
 publication:
   status: published
   note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
@@ -2783,10 +2783,10 @@ claims:
     attribution_mode: bare_ok
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.936
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.99
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 945f1e52-b06d-42ab-99a7-acfa8e7c7b2b
         title: Miracle of the Sun at Fatima
@@ -2825,10 +2825,10 @@ claims:
     attribution_mode: unknown
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.912
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.909
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 945f1e52-b06d-42ab-99a7-acfa8e7c7b2b
         title: Miracle of the Sun at Fatima
@@ -3284,10 +3284,10 @@ claims:
     attribution_mode: unknown
     attachment: unreviewed
     entailment:
-      label: neutral
+      label: entails
       score: 0.998
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
         title: Unidentified Flying Object (UFO)

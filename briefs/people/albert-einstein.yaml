@@ -9,7 +9,7 @@ page:
   claim_count: 67
   claim_count_total: 67
 generated:
-  graph_version: '2026-09-02T13:07:29.167026+00:00'
+  graph_version: '2026-09-02T14:12:13.257772+00:00'
 size:
   claims: 67
   tokens_estimated: 11760
@@ -17,13 +17,13 @@ size:
 entailment:
   assessed: 67
   unassessed: 0
-  entails: 44
-  neutral: 22
+  entails: 46
+  neutral: 20
   contradicts: 1
   entailed_by_quote: 18
-  entailed_by_window: 26
+  entailed_by_window: 28
   entailed_by_quote_fraction: 0.269
-  entailed_by_window_fraction: 0.388
+  entailed_by_window_fraction: 0.418
 publication:
   status: published
   note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
@@ -38,9 +38,9 @@ related_nodes:
     node_type: person
     slug: j-robert-oppenheimer
     shared_claims: 35
-  - node_id: 2940c428-15f6-4b10-8be9-41fb469e76c1
-    title: General relativity
-    node_type: topic
+  - node_id: 5b24267d-659b-4e8c-952a-146d06be320c
+    title: General Relativity
+    node_type: concept
     slug: general-relativity
     shared_claims: 4
   - node_id: 853735d3-bbb9-42fa-b95f-d1ad429d9516
@@ -1796,8 +1796,8 @@ claims:
       model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
       premise: quote
     node_refs:
-      - node_id: 2940c428-15f6-4b10-8be9-41fb469e76c1
-        title: General relativity
+      - node_id: 5b24267d-659b-4e8c-952a-146d06be320c
+        title: General Relativity
         slug: general-relativity
       - node_id: 8b84db66-d907-4aef-b600-00e4d46009d3
         title: Albert Einstein
@@ -1834,10 +1834,10 @@ claims:
     attribution_mode: unknown
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.994
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.486
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 8b84db66-d907-4aef-b600-00e4d46009d3
         title: Albert Einstein
@@ -1915,8 +1915,8 @@ claims:
       model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
       premise: quote
     node_refs:
-      - node_id: 2940c428-15f6-4b10-8be9-41fb469e76c1
-        title: General relativity
+      - node_id: 5b24267d-659b-4e8c-952a-146d06be320c
+        title: General Relativity
         slug: general-relativity
       - node_id: 8b84db66-d907-4aef-b600-00e4d46009d3
         title: Albert Einstein
@@ -2121,13 +2121,13 @@ claims:
     attribution_mode: unknown
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.936
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
-      - node_id: 2940c428-15f6-4b10-8be9-41fb469e76c1
-        title: General relativity
+      - node_id: 5b24267d-659b-4e8c-952a-146d06be320c
+        title: General Relativity
         slug: general-relativity
       - node_id: 8b84db66-d907-4aef-b600-00e4d46009d3
         title: Albert Einstein
@@ -2971,8 +2971,8 @@ claims:
       model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
       premise: quote
     node_refs:
-      - node_id: 2940c428-15f6-4b10-8be9-41fb469e76c1
-        title: General relativity
+      - node_id: 5b24267d-659b-4e8c-952a-146d06be320c
+        title: General Relativity
         slug: general-relativity
       - node_id: 8b84db66-d907-4aef-b600-00e4d46009d3
         title: Albert Einstein

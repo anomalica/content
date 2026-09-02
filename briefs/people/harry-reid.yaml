@@ -1,5 +1,5 @@
 schema: anomalica/brief/1
-brief_hash: 120a05cc0c7ef476d4d60cdc77b549ee7fee766628b93c11f8283284f97db09d
+brief_hash: 809bc2a36528d1812867fc2ef225f71953932bed191b5755ef0cc566c7ac619e
 page:
   kind: entity
   node_id: c91974f0-961f-4db8-b7b0-22d4b846e5d5
@@ -9,7 +9,7 @@ page:
   claim_count: 126
   claim_count_total: 126
 generated:
-  graph_version: '2026-09-02T13:07:29.167026+00:00'
+  graph_version: '2026-09-02T14:12:13.257772+00:00'
 size:
   claims: 126
   tokens_estimated: 18273
@@ -17,13 +17,13 @@ size:
 entailment:
   assessed: 126
   unassessed: 0
-  entails: 71
-  neutral: 54
+  entails: 75
+  neutral: 50
   contradicts: 1
   entailed_by_quote: 29
-  entailed_by_window: 42
+  entailed_by_window: 46
   entailed_by_quote_fraction: 0.23
-  entailed_by_window_fraction: 0.333
+  entailed_by_window_fraction: 0.365
 publication:
   status: published
   note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
@@ -1489,7 +1489,7 @@ claims:
       content_hash: sha256:04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb640bd12c81
       friendly_name: 2017-12-16-web-glowing-auras-and-black-money-the-pentagon-s-mysterious-u-f
   - claim_id: ffc1ca24-455d-48b5-93d0-3d5f18227e1c
-    claim_hash: b90494cf88765dc015fb804a6d7af790fbd8fcd4816fbd842de5ab625a1230bc
+    claim_hash: 13e779168f74a2a2f4cc44aa5f86aa10f06116943062fe6bed2688875e098dd0
     content: Harry Reid said 'This was so-called black money. Stevens knows about it, Inouye knows about it. But that was
       it, and that's how we wanted it,' referring to the Pentagon budget for classified programs.
     original_excerpt: “This was so-called black money,” he said. “Stevens knows about it, Inouye knows about it. But that
@@ -4771,10 +4771,10 @@ claims:
     attribution_mode: bare_ok
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.988
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.998
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 65058869-076f-47d0-92ea-f8daf08b94cf
         title: Barack Obama
@@ -4802,7 +4802,7 @@ claims:
       content_hash: sha256:d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7b5a1b98d
       friendly_name: null
   - claim_id: 186fd230-aa2e-43fe-a1c6-7e0ad6bbf957
-    claim_hash: ac3316f81d3d393a0b44a70e51350a0c40b7980de8207bbede6522d32c7a5796
+    claim_hash: 27909c1bcda9006785debeb659c5967f47c99197c2096b0ebd2c34feb54099be
     content: Robert Bigelow asked Harry Reid to take a book to Bill Clinton and ask him whether he had really said what the
       book reported.
     original_excerpt: So I said to Harry, I said, look, I want you to take this book. and show it to Bill and say, did you
@@ -4819,15 +4819,15 @@ claims:
     attribution_mode: bare_ok
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.989
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 1.0
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 0d4dfba6-a53b-4f23-a2ad-e4c9bea44076
         title: Robert Bigelow
         slug: robert-bigelow
-      - node_id: 459eb5cf-ea76-4cad-9421-a726261cd3a2
+      - node_id: c8b2f71c-febf-446f-9b1e-3e6bdc6c86c5
         title: William J. Clinton
         slug: william-j-clinton
       - node_id: c91974f0-961f-4db8-b7b0-22d4b846e5d5
@@ -4847,7 +4847,7 @@ claims:
       content_hash: sha256:1aa9d864c5a4bb930164c278d9624c6bc0f84278ea4b5e57594fae9e21e90858
       friendly_name: null
   - claim_id: ab87dac9-9186-4748-a15b-63a37ec954c7
-    claim_hash: 9dbf56dfb21e2e18ca3e8d601785b69a27d70978122c1743872b8e79c24a6f44
+    claim_hash: 776ade7d688ff0d2c3cbd09218ecbe88ea71ca61e5977113aad6974be7256cfd
     content: When Harry Reid asked Bill Clinton whether he had really said he wanted to know about UFOs before leaving office,
       Clinton confirmed that he had and replied "wouldn't you like to know?".
     original_excerpt: And Harry said, did you really say that? Yes. And he said, wouldn't you like to know?
@@ -4864,15 +4864,15 @@ claims:
     attribution_mode: unknown
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.932
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 0d4dfba6-a53b-4f23-a2ad-e4c9bea44076
         title: Robert Bigelow
         slug: robert-bigelow
-      - node_id: 459eb5cf-ea76-4cad-9421-a726261cd3a2
+      - node_id: c8b2f71c-febf-446f-9b1e-3e6bdc6c86c5
         title: William J. Clinton
         slug: william-j-clinton
       - node_id: c91974f0-961f-4db8-b7b0-22d4b846e5d5
@@ -5040,10 +5040,10 @@ claims:
     attribution_mode: bare_ok
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.951
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.998
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 0d4dfba6-a53b-4f23-a2ad-e4c9bea44076
         title: Robert Bigelow

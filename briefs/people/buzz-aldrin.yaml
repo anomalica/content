@@ -9,7 +9,7 @@ page:
   claim_count: 87
   claim_count_total: 87
 generated:
-  graph_version: '2026-09-02T13:07:29.167026+00:00'
+  graph_version: '2026-09-02T14:12:13.257772+00:00'
 size:
   claims: 87
   tokens_estimated: 12051
@@ -17,13 +17,13 @@ size:
 entailment:
   assessed: 87
   unassessed: 0
-  entails: 73
-  neutral: 13
+  entails: 77
+  neutral: 9
   contradicts: 1
   entailed_by_quote: 37
-  entailed_by_window: 36
+  entailed_by_window: 40
   entailed_by_quote_fraction: 0.425
-  entailed_by_window_fraction: 0.414
+  entailed_by_window_fraction: 0.46
 publication:
   status: published
   note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
@@ -3271,10 +3271,10 @@ claims:
     attribution_mode: unknown
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.985
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.51
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 3415c08f-e9d9-42f7-b820-14a65d42e499
         title: Eagle (Apollo 11 Lunar Module)
@@ -3723,10 +3723,10 @@ claims:
     attribution_mode: bare_ok
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.872
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.995
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 4056024b-6788-453b-a270-7b9890087c91
         title: Buzz Aldrin
@@ -3896,10 +3896,10 @@ claims:
     attribution_mode: bare_ok
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.993
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.995
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 4056024b-6788-453b-a270-7b9890087c91
         title: Buzz Aldrin
@@ -3986,10 +3986,10 @@ claims:
     attribution_mode: bare_ok
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.99
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.997
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 4056024b-6788-453b-a270-7b9890087c91
         title: Buzz Aldrin

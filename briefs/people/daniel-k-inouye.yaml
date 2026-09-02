@@ -1,5 +1,5 @@
 schema: anomalica/brief/1
-brief_hash: 138a94304d955bd8c1bb9c1b57ba5d7a05a6397607977937f5594144cd663b51
+brief_hash: ba8ea149ac7e520e2b54803c51bbdaf694de9ea1272c473553a21dc660e45760
 page:
   kind: entity
   node_id: 95677ec8-f94c-422a-933f-2b689ae917fa
@@ -9,7 +9,7 @@ page:
   claim_count: 16
   claim_count_total: 16
 generated:
-  graph_version: '2026-09-02T13:07:29.167026+00:00'
+  graph_version: '2026-09-02T14:12:13.257772+00:00'
 size:
   claims: 16
   tokens_estimated: 2024
@@ -309,7 +309,7 @@ claims:
       content_hash: sha256:04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb640bd12c81
       friendly_name: 2017-12-16-web-glowing-auras-and-black-money-the-pentagon-s-mysterious-u-f
   - claim_id: ffc1ca24-455d-48b5-93d0-3d5f18227e1c
-    claim_hash: b90494cf88765dc015fb804a6d7af790fbd8fcd4816fbd842de5ab625a1230bc
+    claim_hash: 13e779168f74a2a2f4cc44aa5f86aa10f06116943062fe6bed2688875e098dd0
     content: Harry Reid said 'This was so-called black money. Stevens knows about it, Inouye knows about it. But that was
       it, and that's how we wanted it,' referring to the Pentagon budget for classified programs.
     original_excerpt: “This was so-called black money,” he said. “Stevens knows about it, Inouye knows about it. But that

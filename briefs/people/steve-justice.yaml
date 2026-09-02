@@ -9,7 +9,7 @@ page:
   claim_count: 39
   claim_count_total: 39
 generated:
-  graph_version: '2026-09-02T13:07:29.167026+00:00'
+  graph_version: '2026-09-02T14:12:13.257772+00:00'
 size:
   claims: 39
   tokens_estimated: 5006
@@ -17,13 +17,13 @@ size:
 entailment:
   assessed: 39
   unassessed: 0
-  entails: 22
-  neutral: 14
+  entails: 24
+  neutral: 12
   contradicts: 3
   entailed_by_quote: 11
-  entailed_by_window: 11
+  entailed_by_window: 13
   entailed_by_quote_fraction: 0.282
-  entailed_by_window_fraction: 0.282
+  entailed_by_window_fraction: 0.333
 publication:
   status: published
   note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
@@ -1478,10 +1478,10 @@ claims:
     attribution_mode: bare_ok
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.997
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.964
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 1152039f-eae8-4605-aa3c-dd839f17bbc6
         title: US Air Force magazine article on the U-2 (1976)
@@ -1565,10 +1565,10 @@ claims:
     attribution_mode: unknown
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.95
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.542
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 1152039f-eae8-4605-aa3c-dd839f17bbc6
         title: US Air Force magazine article on the U-2 (1976)

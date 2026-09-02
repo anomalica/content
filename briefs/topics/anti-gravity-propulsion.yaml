@@ -1,5 +1,5 @@
 schema: anomalica/brief/1
-brief_hash: 00a173b46280d66a92b07834998f3a02bcba0a5051bb9488fc7c84ccef442c91
+brief_hash: b7458b843c37fcc9bb9b30c3a96d3f642bbfd92b4227d972991d19fe5f317ee6
 page:
   kind: entity
   node_id: 1f03fa1d-9929-4575-a27b-52dba43ec087
@@ -9,7 +9,7 @@ page:
   claim_count: 38
   claim_count_total: 38
 generated:
-  graph_version: '2026-09-02T13:07:29.167026+00:00'
+  graph_version: '2026-09-02T14:12:13.257772+00:00'
 size:
   claims: 38
   tokens_estimated: 5781
@@ -17,13 +17,13 @@ size:
 entailment:
   assessed: 38
   unassessed: 0
-  entails: 17
-  neutral: 18
+  entails: 18
+  neutral: 17
   contradicts: 3
   entailed_by_quote: 12
-  entailed_by_window: 5
+  entailed_by_window: 6
   entailed_by_quote_fraction: 0.316
-  entailed_by_window_fraction: 0.132
+  entailed_by_window_fraction: 0.158
 publication:
   status: published
   note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
@@ -185,7 +185,7 @@ related_nodes:
     shared_claims: 1
 claims:
   - claim_id: 9f72d4e3-1d9b-4e53-840d-ca1a6fdee035
-    claim_hash: b1cca7c116bea1826149282e119482ca6324aa0cddc9b58025a430655559eb47
+    claim_hash: 348f4e2efdf4300420d11e42f3f0381514315cff976ebfcd24ace376aaaa88d8
     content: Luis Elizondo described the observed UAP technology as capable of instantaneous acceleration, hypersonic velocities,
       low observability, trans-medium travel, and anti-gravity, and able to fly unimpeded over controlled US airspace at will.
     original_excerpt: If there is a technology that has somehow leapfrogged ahead of us, that has the capabilities that we're
@@ -1630,10 +1630,10 @@ claims:
     attribution_mode: unknown
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.961
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.664
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 1f03fa1d-9929-4575-a27b-52dba43ec087
         title: Anti-Gravity Propulsion

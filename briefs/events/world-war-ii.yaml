@@ -1,5 +1,5 @@
 schema: anomalica/brief/1
-brief_hash: 4dfbc2a699d92ac975e0371b579e7f0dfb2fc28d550f41bd4f7e5da998cb1d01
+brief_hash: b03b1ab5d048e4d0d91dadcb424d66244ed1d1f5022e6d3a03a9c6a70b0fa835
 page:
   kind: entity
   node_id: dcb95bd1-7593-4fe4-a992-2fc6a05fcb2c
@@ -9,7 +9,7 @@ page:
   claim_count: 54
   claim_count_total: 54
 generated:
-  graph_version: '2026-09-02T13:07:29.167026+00:00'
+  graph_version: '2026-09-02T14:12:13.257772+00:00'
 size:
   claims: 54
   tokens_estimated: 8183
@@ -17,13 +17,13 @@ size:
 entailment:
   assessed: 54
   unassessed: 0
-  entails: 50
-  neutral: 3
+  entails: 51
+  neutral: 2
   contradicts: 1
   entailed_by_quote: 21
-  entailed_by_window: 29
+  entailed_by_window: 30
   entailed_by_quote_fraction: 0.389
-  entailed_by_window_fraction: 0.537
+  entailed_by_window_fraction: 0.556
 publication:
   status: published
   note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
@@ -1475,7 +1475,7 @@ claims:
       content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
       friendly_name: 2000-11-28-ebook-the-fatima-secret
   - claim_id: e3153332-fb58-4918-9000-139d6543fe18
-    claim_hash: 0db9b5e62e9ecc4a497c647d94535187eae9bc85b9712e6caf2de3ef734ed6ab
+    claim_hash: 099852c65cf01b122feb4a053ec722cd2fa895d98d36b862065b7303e5bbd7f3
     content: The United States officially declared war on Germany on 1917-04-06.
     original_excerpt: The U.S. officially declared war on Germany on April 6, 1917.
     claim_type: observation
@@ -1493,12 +1493,12 @@ claims:
       model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
       premise: quote
     node_refs:
+      - node_id: 22317795-bd5d-45e6-b3ec-2988cca70cac
+        title: USA
+        slug: usa
       - node_id: 33ae4490-caad-4ccc-9af2-98152d7dfc72
         title: Germany
         slug: germany
-      - node_id: bcdb14d6-d22c-4471-a0e0-7c19c2b56ab3
-        title: USA
-        slug: usa
       - node_id: dcb95bd1-7593-4fe4-a992-2fc6a05fcb2c
         title: World War II
         slug: world-war-ii
@@ -1551,7 +1551,7 @@ claims:
       content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
       friendly_name: 2000-11-28-ebook-the-fatima-secret
   - claim_id: ad2c4c0a-c2ef-4be3-a09b-9d8d61f50a82
-    claim_hash: f970fd8d8a19573b2adac20da07f0ecf5b8475fce422055f024413bbd6263c49
+    claim_hash: 4f957edfb2fa9e4aa4ddc6eaf79d16d199fb0f79f2111bfe56d0e5e38489a20c
     content: The administrations preceding Bill Clinton's were staffed with quite religious people, including Collins Elite
       types, members of The Family and the Knights of Malta, connected to a broader establishment tracing back to the Office
       of Strategic Services in World War II, in Jason Samosa's assessment.
@@ -1578,15 +1578,15 @@ claims:
       - node_id: 1c2b71ac-662d-4cbf-80fe-06d97aa016fb
         title: Office of Strategic Services (OSS)
         slug: office-of-strategic-services-oss
-      - node_id: 459eb5cf-ea76-4cad-9421-a726261cd3a2
-        title: William J. Clinton
-        slug: william-j-clinton
       - node_id: 9d32a2ba-3862-4abe-983f-4abd38c728ea
         title: The Family (The Fellowship)
         slug: the-family-the-fellowship
       - node_id: b9230db2-eef8-4526-86aa-97f693336b1a
         title: Knights of Malta
         slug: knights-of-malta
+      - node_id: c8b2f71c-febf-446f-9b1e-3e6bdc6c86c5
+        title: William J. Clinton
+        slug: william-j-clinton
       - node_id: dcb95bd1-7593-4fe4-a992-2fc6a05fcb2c
         title: World War II
         slug: world-war-ii
@@ -2170,10 +2170,10 @@ claims:
     attribution_mode: unknown
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.964
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.985
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 39627a98-b227-4fb5-9262-589c4f9579b6
         title: Tom Hill

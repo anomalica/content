@@ -9,7 +9,7 @@ page:
   claim_count: 517
   claim_count_total: 517
 generated:
-  graph_version: '2026-09-02T13:07:29.167026+00:00'
+  graph_version: '2026-09-02T14:12:13.257772+00:00'
 size:
   claims: 517
   tokens_estimated: 71768
@@ -17,13 +17,13 @@ size:
 entailment:
   assessed: 517
   unassessed: 0
-  entails: 416
-  neutral: 43
-  contradicts: 58
+  entails: 426
+  neutral: 32
+  contradicts: 59
   entailed_by_quote: 128
-  entailed_by_window: 288
+  entailed_by_window: 298
   entailed_by_quote_fraction: 0.248
-  entailed_by_window_fraction: 0.557
+  entailed_by_window_fraction: 0.576
 publication:
   status: published
   note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
@@ -927,10 +927,10 @@ claims:
     attribution_mode: bare_ok
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.989
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.877
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 9dbd0699-bbc9-42ca-bbca-b4128803cc47
         title: James Leininger
@@ -2853,10 +2853,10 @@ claims:
     attribution_mode: bare_ok
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.997
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.962
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 80cf92ce-bae3-49f3-beab-99c80495f848
         title: Ryan Hammons
@@ -4595,10 +4595,10 @@ claims:
     attribution_mode: unknown
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.648
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.862
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 80cf92ce-bae3-49f3-beab-99c80495f848
         title: Ryan Hammons
@@ -7892,10 +7892,10 @@ claims:
     attribution_mode: unknown
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.71
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.517
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 303ceab8-2c59-4a37-b1bf-1146b9026b4b
         title: Grace (Budd Hopkins's daughter)
@@ -8819,10 +8819,10 @@ claims:
     attribution_mode: unknown
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.956
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.927
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 3e036525-2148-4bbf-b518-a1cbfdf9717c
         title: Leslie Kean's brother Garry
@@ -9464,10 +9464,10 @@ claims:
     attribution_mode: unknown
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.996
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.997
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 1e74fcfd-5ab8-4c0b-b9c4-f3189c773c88
         title: Survival hypothesis
@@ -13060,10 +13060,10 @@ claims:
     attribution_mode: bare_ok
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.996
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.411
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: d8f5c9ea-4729-4b73-bb26-2282e35fec01
         title: Séance with Stephen Braude and Kai Muegge in Hanau, Germany (2015)
@@ -14343,10 +14343,10 @@ claims:
     attribution_mode: unknown
     attachment: unreviewed
     entailment:
-      label: neutral
+      label: entails
       score: 0.999
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 15b3681a-3278-4532-af2d-717cad051b06
         title: Emil Jensen
@@ -17609,10 +17609,10 @@ claims:
     attribution_mode: bare_ok
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.615
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.367
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 3aad24a2-896b-4f93-bd00-164ecc7b5dba
         title: Leone Holdsworth
@@ -18967,10 +18967,10 @@ claims:
     attribution_mode: bare_ok
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.996
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: contradicts
+      score: 0.946
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 7abeb5fd-0f0a-4c21-a0be-de2a59d2dd32
         title: Marty Martyn
@@ -20475,9 +20475,9 @@ claims:
     attachment: unreviewed
     entailment:
       label: neutral
-      score: 0.988
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      score: 0.958
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 1e74fcfd-5ab8-4c0b-b9c4-f3189c773c88
         title: Survival hypothesis
@@ -20610,10 +20610,10 @@ claims:
     attribution_mode: bare_ok
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.997
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 953f6232-9902-437f-ad4c-add4fd080043
         title: Leslie Kean

@@ -9,7 +9,7 @@ page:
   claim_count: 67
   claim_count_total: 67
 generated:
-  graph_version: '2026-09-02T13:07:29.167026+00:00'
+  graph_version: '2026-09-02T14:12:13.257772+00:00'
 size:
   claims: 67
   tokens_estimated: 9696
@@ -17,13 +17,13 @@ size:
 entailment:
   assessed: 67
   unassessed: 0
-  entails: 48
-  neutral: 9
+  entails: 53
+  neutral: 4
   contradicts: 10
   entailed_by_quote: 11
-  entailed_by_window: 37
+  entailed_by_window: 42
   entailed_by_quote_fraction: 0.164
-  entailed_by_window_fraction: 0.552
+  entailed_by_window_fraction: 0.627
 publication:
   status: published
   note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
@@ -1611,10 +1611,10 @@ claims:
     attribution_mode: unknown
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.992
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 3a865991-eaad-4855-8980-b28dfb98691a
         title: James Lacatski
@@ -2163,10 +2163,10 @@ claims:
     attribution_mode: bare_ok
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.951
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.998
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 0d4dfba6-a53b-4f23-a2ad-e4c9bea44076
         title: Robert Bigelow
@@ -2252,10 +2252,10 @@ claims:
     attribution_mode: unknown
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.974
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.484
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 3a865991-eaad-4855-8980-b28dfb98691a
         title: James Lacatski
@@ -2660,10 +2660,10 @@ claims:
     attribution_mode: bare_ok
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.997
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 3a865991-eaad-4855-8980-b28dfb98691a
         title: James Lacatski
@@ -2932,10 +2932,10 @@ claims:
     attribution_mode: unknown
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.993
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 308f34b4-6251-45c8-9257-e74b6b50b805
         title: Tubular Bells

@@ -1,5 +1,5 @@
 schema: anomalica/brief/1
-brief_hash: 8bb682036805ec32f2ea8e699f35b22cec34c4939ff7072dcd1ff378770eb294
+brief_hash: 781559542519f9f3632a8910c6defec2edcd788a0c9ec58937b281794f60b203
 page:
   kind: entity
   node_id: 382b6d6c-0182-4121-8bfc-525602d667b1
@@ -9,7 +9,7 @@ page:
   claim_count: 106
   claim_count_total: 106
 generated:
-  graph_version: '2026-09-02T13:07:29.167026+00:00'
+  graph_version: '2026-09-02T14:12:13.257772+00:00'
 size:
   claims: 106
   tokens_estimated: 17739
@@ -17,13 +17,13 @@ size:
 entailment:
   assessed: 106
   unassessed: 0
-  entails: 87
-  neutral: 17
+  entails: 88
+  neutral: 16
   contradicts: 2
   entailed_by_quote: 32
-  entailed_by_window: 55
+  entailed_by_window: 56
   entailed_by_quote_fraction: 0.302
-  entailed_by_window_fraction: 0.519
+  entailed_by_window_fraction: 0.528
 publication:
   status: published
   note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
@@ -861,7 +861,7 @@ claims:
       content_hash: sha256:498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4d6dbbe35
       friendly_name: 2013-03-22-ebook-remote-viewing-secrets
   - claim_id: 2c353fc8-c99c-4494-9a8a-24384eda5479
-    claim_hash: e1d930c74c881ed523e7273ea40ca166c270cac04a3918cd4affd46adad9cbc5
+    claim_hash: 565ab82024393ba62cf8492adb93a97bf67a09e21070c5eca61a628c13cf6c39
     content: In response to questions from The New York Times, Pentagon officials in December 2017 acknowledged the existence
       of the Advanced Aerospace Threat Identification Program (AATIP), which began as part of the Defense Intelligence Agency
       (DIA).
@@ -4458,10 +4458,10 @@ claims:
     attribution_mode: bare_ok
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.975
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 0d4dfba6-a53b-4f23-a2ad-e4c9bea44076
         title: Robert Bigelow

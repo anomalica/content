@@ -1,5 +1,5 @@
 schema: anomalica/brief/1
-brief_hash: 5af8fac733cda4e26c176f99ebbc8ff69a99d8cb58c1bf8191728150e071b854
+brief_hash: d3259da3ed37abf5141dbea5b66f7e11c2dc02bdc4caa1168aded7b393d6e5fd
 page:
   kind: entity
   node_id: 99f08514-5471-4eaf-bce3-46c474a8d304
@@ -9,7 +9,7 @@ page:
   claim_count: 311
   claim_count_total: 311
 generated:
-  graph_version: '2026-09-02T13:07:29.167026+00:00'
+  graph_version: '2026-09-02T14:12:13.257772+00:00'
 size:
   claims: 311
   tokens_estimated: 49802
@@ -17,13 +17,13 @@ size:
 entailment:
   assessed: 311
   unassessed: 0
-  entails: 246
-  neutral: 47
+  entails: 252
+  neutral: 41
   contradicts: 18
   entailed_by_quote: 102
-  entailed_by_window: 144
+  entailed_by_window: 150
   entailed_by_quote_fraction: 0.328
-  entailed_by_window_fraction: 0.463
+  entailed_by_window_fraction: 0.482
 publication:
   status: published
   note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
@@ -548,7 +548,7 @@ claims:
       content_hash: sha256:be0c3e98efc520700596801e7aa4ab046d6146f8cdb40c7eefdcd23b1fab985b
       friendly_name: 2012-05-pdf-conference-report-cultural-and-linguistic-advancement-for
   - claim_id: 91871df0-aff0-4f62-9501-2639c198f982
-    claim_hash: c455390d9506a6c3f933c8467875c369dbd3a03dd3c55bdab5cbac4a92ca74c1
+    claim_hash: 63319e91946bc2c075290906b4dae080b50f3089072c54c5d9332cd3f54ade04
     content: Over the ten years prior to 2012, the Department of Defense (DoD) of the United States of America developed a
       number of programmes addressing the need to train deploying members in linguistic, regional and cultural (LRC) capabilities
       of the country to which they are deploying.
@@ -573,12 +573,12 @@ claims:
       - node_id: 069fd4b2-3a8d-4ac4-a699-32394ad7f0fa
         title: Linguistic, Regional and Cultural (LRC) capabilities
         slug: regional-and-cultural-lrc-capabilities-linguistic
+      - node_id: 22317795-bd5d-45e6-b3ec-2988cca70cac
+        title: USA
+        slug: usa
       - node_id: 99f08514-5471-4eaf-bce3-46c474a8d304
         title: United States Department of Defense (DoD)
         slug: united-states-department-of-defense-dod
-      - node_id: bcdb14d6-d22c-4471-a0e0-7c19c2b56ab3
-        title: USA
-        slug: usa
     date: null
     date_end: null
     location_in_record: char:7466-7724
@@ -929,7 +929,7 @@ claims:
       content_hash: sha256:04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb640bd12c81
       friendly_name: 2017-12-16-web-glowing-auras-and-black-money-the-pentagon-s-mysterious-u-f
   - claim_id: 55b7f81e-d2f0-4cc9-b2b8-02194ac50e14
-    claim_hash: 849a3d2bede298c847ddbf5d60b98ee0d8629b6fd492c31e8e1caef0e5ce9546
+    claim_hash: 9087e5497f5aef4a809b032958a99a7b66ece59e76ed00d9ab750819cd42972c
     content: Thomas Crosson, a Pentagon spokesman, said in an email that it was determined there were other higher priority
       issues that merited funding, and it was in the best interest of the Department of Defense (DoD) to make a change.
     original_excerpt: “It was determined that there were other, higher priority issues that merited funding, and it was in
@@ -1981,10 +1981,10 @@ claims:
     attribution_mode: unknown
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.999
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.987
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
         title: Unidentified Anomalous Phenomena (UAP)
@@ -2238,10 +2238,10 @@ claims:
     attribution_mode: bare_ok
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.709
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.446
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 501412f8-f77e-40f4-926b-18142d005cd4
         title: Unidentified Aerial Phenomena Task Force (UAPTF)
@@ -8941,7 +8941,7 @@ claims:
       content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
       friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
   - claim_id: 5cb40c48-eeb8-469a-adbd-8deba5bcb0e2
-    claim_hash: 0b317ec9e600a799c2b11084ad37013f15c0013b0dc64b076c341e11d31acfc7
+    claim_hash: 280c35afdaa92097ecfc6cef9715a8e56bccb0853c830ad613b8136375d44d94
     content: At the end of the Cold War, the Department of Defense (DoD) discovered that the Soviet Union had targeted a small
       structure in the Pentagon's central plaza as a prime objective in case of nuclear war, based on satellite imagery.
     original_excerpt: A nugget of trivia I always found humorous occurred at the end of the Cold War, when the DoD discovered
@@ -11286,10 +11286,10 @@ claims:
     attribution_mode: unknown
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.535
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.992
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 99f08514-5471-4eaf-bce3-46c474a8d304
         title: United States Department of Defense (DoD)
@@ -11854,10 +11854,10 @@ claims:
     attribution_mode: bare_ok
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.983
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.922
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 302c3ca1-5512-4b2d-af20-17d29a914e3b
         title: David Grush
@@ -12525,10 +12525,10 @@ claims:
     attribution_mode: unknown
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.979
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.965
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
         title: Unidentified Anomalous Phenomena (UAP)
@@ -13877,10 +13877,10 @@ claims:
     attribution_mode: bare_ok
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.808
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 99f08514-5471-4eaf-bce3-46c474a8d304
         title: United States Department of Defense (DoD)

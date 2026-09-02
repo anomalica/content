@@ -1,5 +1,5 @@
 schema: anomalica/brief/1
-brief_hash: 82c25271034337da4cd0505b7fe25fa525c24d7941cd426308875c4f68f5e510
+brief_hash: e916f34be1495dfe023be280b35502f6e5e84310d65ca5a7c9cdcea39234fcf8
 page:
   kind: entity
   node_id: f175f6db-6c31-49bc-9ca8-0e4487fd7d39
@@ -9,7 +9,7 @@ page:
   claim_count: 24
   claim_count_total: 24
 generated:
-  graph_version: '2026-09-02T13:07:29.167026+00:00'
+  graph_version: '2026-09-02T14:12:13.257772+00:00'
 size:
   claims: 24
   tokens_estimated: 3907
@@ -741,7 +741,7 @@ claims:
       content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
       friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
   - claim_id: 21fc3a8e-e021-4578-ace4-d2fa01dcbf3f
-    claim_hash: 2ac36ddf8c5f5131544b01e8b9a6e21f82a70c326c63c6bedfe4e919ab6c1fd6
+    claim_hash: cfcfdb5b45750fda7c718570720d44ef26427eabf8db3d921584371f6d74634f
     content: Top constitutional lawyers consulted by Ross Coulthart can see no basis under which successive United States
       presidents could be bound by an executive order signed under Dwight D. Eisenhower or Harry S. Truman into not being
       briefed on the UFO programme even when they requested it.
@@ -769,12 +769,12 @@ claims:
       - node_id: 0bbdac2d-a855-466a-a051-2afa64a779e2
         title: UAP crash retrieval and reverse engineering program
         slug: uap-crash-retrieval-and-reverse-engineering-program
-      - node_id: 459eb5cf-ea76-4cad-9421-a726261cd3a2
-        title: William J. Clinton
-        slug: william-j-clinton
       - node_id: 589d7469-f87f-4da5-afa8-cabca7be6818
         title: Harry S. Truman
         slug: harry-s-truman
+      - node_id: c8b2f71c-febf-446f-9b1e-3e6bdc6c86c5
+        title: William J. Clinton
+        slug: william-j-clinton
       - node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
         title: Ross Coulthart
         slug: ross-coulthart
@@ -1142,9 +1142,9 @@ claims:
     attachment: unreviewed
     entailment:
       label: neutral
-      score: 0.997
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      score: 0.492
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 589d7469-f87f-4da5-afa8-cabca7be6818
         title: Harry S. Truman

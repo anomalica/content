@@ -1,5 +1,5 @@
 schema: anomalica/brief/1
-brief_hash: 530ac74063a108373a8753dd81c2d3ae1039f1b959b90f0941770257937391a1
+brief_hash: ce11d696da704732ebbbc3bbef7ef3b0d94146c3e747200698b765d7ab08d4a4
 page:
   kind: entity
   node_id: 6dcdfe60-bc2f-4be2-a041-9957a82f371e
@@ -9,7 +9,7 @@ page:
   claim_count: 227
   claim_count_total: 227
 generated:
-  graph_version: '2026-09-02T13:07:29.167026+00:00'
+  graph_version: '2026-09-02T14:12:13.257772+00:00'
 size:
   claims: 227
   tokens_estimated: 32439
@@ -17,13 +17,13 @@ size:
 entailment:
   assessed: 227
   unassessed: 0
-  entails: 164
-  neutral: 50
+  entails: 178
+  neutral: 36
   contradicts: 13
   entailed_by_quote: 63
-  entailed_by_window: 101
+  entailed_by_window: 115
   entailed_by_quote_fraction: 0.278
-  entailed_by_window_fraction: 0.445
+  entailed_by_window_fraction: 0.507
 publication:
   status: published
   note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
@@ -882,10 +882,10 @@ claims:
     attribution_mode: bare_ok
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.999
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.439
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 6dcdfe60-bc2f-4be2-a041-9957a82f371e
         title: Harold E. Puthoff
@@ -2199,10 +2199,10 @@ claims:
     attribution_mode: bare_ok
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.994
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.52
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 6dcdfe60-bc2f-4be2-a041-9957a82f371e
         title: Harold E. Puthoff
@@ -2239,10 +2239,10 @@ claims:
     attribution_mode: bare_ok
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.975
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.59
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 6dcdfe60-bc2f-4be2-a041-9957a82f371e
         title: Harold E. Puthoff
@@ -4406,10 +4406,10 @@ claims:
     attribution_mode: bare_ok
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.998
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.758
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 6dcdfe60-bc2f-4be2-a041-9957a82f371e
         title: Harold E. Puthoff
@@ -4594,10 +4594,10 @@ claims:
     attribution_mode: bare_ok
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.99
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.421
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 6c1618c8-50db-42c9-860e-6d736ef280bf
         title: Advanced Aerospace Threat Identification Program (AATIP)
@@ -6452,7 +6452,7 @@ claims:
       content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
       friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
   - claim_id: 3e74a9cc-0464-48e1-a915-9acbf7fda48b
-    claim_hash: 17b7a812af0adf07fef40b3eb82a0f4bbd03742f3948c5f61154fcbf0de2111d
+    claim_hash: b8eab5ae20df1c82866cf2e45942a7a59c5e92e9bff12b4b74139135f6889876
     content: Harold Puthoff suggested to Jay Stratton that they meet with Jim Semivan at the Pentagon.
     original_excerpt: Hal suggested to Jay that we meet with Jim at the Pentagon.
     claim_type: administrative
@@ -7301,10 +7301,10 @@ claims:
     attribution_mode: bare_ok
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.997
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 021e1740-d9cf-48e8-bcbe-cae2175085c6
         title: USA, Washington DC, Kennedy Caucus Room
@@ -7476,10 +7476,10 @@ claims:
     attribution_mode: bare_ok
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.994
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.985
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 6c1618c8-50db-42c9-860e-6d736ef280bf
         title: Advanced Aerospace Threat Identification Program (AATIP)
@@ -7919,10 +7919,10 @@ claims:
     attribution_mode: bare_ok
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.996
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.998
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 502c7c1d-c898-4ec2-998e-4954e00b6437
         title: Department of Homeland Security (DHS)
@@ -8153,10 +8153,10 @@ claims:
     attribution_mode: bare_ok
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.979
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.965
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 502c7c1d-c898-4ec2-998e-4954e00b6437
         title: Department of Homeland Security (DHS)
@@ -8439,10 +8439,10 @@ claims:
     attribution_mode: bare_ok
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.98
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.964
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: cc6d8585-d896-4fc3-b3a2-28d9a7d153ab
         title: Advanced Aerospace Weapon System Applications Program (AAWSAP)
@@ -8564,10 +8564,10 @@ claims:
     attribution_mode: unknown
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.989
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.96
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: d047a520-092f-4fe5-935d-ef4eadd7c952
         title: Legacy Program
@@ -8802,10 +8802,10 @@ claims:
     attribution_mode: bare_ok
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.94
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: d047a520-092f-4fe5-935d-ef4eadd7c952
         title: Legacy Program
@@ -8967,10 +8967,10 @@ claims:
     attribution_mode: bare_ok
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.994
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.636
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 6dcdfe60-bc2f-4be2-a041-9957a82f371e
         title: Harold E. Puthoff
@@ -9208,10 +9208,10 @@ claims:
     attribution_mode: unknown
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.999
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.612
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: c52fd2ac-fa87-43e8-8a8b-1bbd33ef6a28
         title: Office of the Director of National Intelligence (ODNI)

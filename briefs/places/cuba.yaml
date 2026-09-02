@@ -1,5 +1,5 @@
 schema: anomalica/brief/1
-brief_hash: e545abd89f8efc49620e2f1dacb09be4d6000a7afeb5ede18ada09b1e7df7bda
+brief_hash: 205f3750b9f98942ed7ced5d928d59ebd0ee299a0fd97a33e14300509b007a15
 page:
   kind: entity
   node_id: 37ce5ca9-55f8-466e-86f6-4e80d24247dc
@@ -9,7 +9,7 @@ page:
   claim_count: 14
   claim_count_total: 14
 generated:
-  graph_version: '2026-09-02T13:07:29.167026+00:00'
+  graph_version: '2026-09-02T14:12:13.257772+00:00'
 size:
   claims: 14
   tokens_estimated: 2057
@@ -133,7 +133,7 @@ related_nodes:
     node_type: place
     slug: moscow-russia
     shared_claims: 1
-  - node_id: bcdb14d6-d22c-4471-a0e0-7c19c2b56ab3
+  - node_id: 22317795-bd5d-45e6-b3ec-2988cca70cac
     title: USA
     node_type: place
     slug: usa
@@ -595,7 +595,7 @@ claims:
       content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
       friendly_name: 2000-11-28-ebook-the-fatima-secret
   - claim_id: e6588c00-a9e2-4b4c-ae52-9ab8ec5d4657
-    claim_hash: c830355fd6f3b0d8c3c326704e8c1a13b1a38ab4e4d1441084037f7a73f96eec
+    claim_hash: 714956df1cf0e6ca5d975a54894ec386c3fe93cc906fd4f57e7ecd5fc293cb3b
     content: On 1962-10-28, Nikita Khrushchev agreed to dismantle the Soviet missiles on Cuba, after extracting a guarantee
       from the United States that it would not invade Cuba.
     original_excerpt: Finally on October 28 Khrushchev agreed to this as well, after extracting a guarantee from the U.S.
@@ -618,12 +618,12 @@ claims:
       - node_id: 1fa66dfc-6e67-4838-a828-fcf88d3bdfc0
         title: Nikita Khrushchev
         slug: nikita-khrushchev
+      - node_id: 22317795-bd5d-45e6-b3ec-2988cca70cac
+        title: USA
+        slug: usa
       - node_id: 37ce5ca9-55f8-466e-86f6-4e80d24247dc
         title: Cuba
         slug: cuba
-      - node_id: bcdb14d6-d22c-4471-a0e0-7c19c2b56ab3
-        title: USA
-        slug: usa
       - node_id: e98a32b4-349a-4a66-b918-f07622fdace1
         title: Cuban Missile Crisis (1962-10)
         slug: cuban-missile-crisis-1962-10

@@ -9,7 +9,7 @@ page:
   claim_count: 96
   claim_count_total: 96
 generated:
-  graph_version: '2026-09-02T13:07:29.167026+00:00'
+  graph_version: '2026-09-02T14:12:13.257772+00:00'
 size:
   claims: 96
   tokens_estimated: 13936
@@ -17,13 +17,13 @@ size:
 entailment:
   assessed: 96
   unassessed: 0
-  entails: 48
-  neutral: 41
+  entails: 57
+  neutral: 32
   contradicts: 7
   entailed_by_quote: 12
-  entailed_by_window: 36
+  entailed_by_window: 45
   entailed_by_quote_fraction: 0.125
-  entailed_by_window_fraction: 0.375
+  entailed_by_window_fraction: 0.469
 publication:
   status: published
   note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
@@ -1508,10 +1508,10 @@ claims:
     attribution_mode: bare_ok
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.971
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.998
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 228844a4-f0e6-45a4-8552-582ee7de5b21
         title: USS Princeton (CG-59)
@@ -1545,10 +1545,10 @@ claims:
     attribution_mode: bare_ok
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.994
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.873
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 228844a4-f0e6-45a4-8552-582ee7de5b21
         title: USS Princeton (CG-59)
@@ -1629,10 +1629,10 @@ claims:
     attribution_mode: bare_ok
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.998
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.97
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 228844a4-f0e6-45a4-8552-582ee7de5b21
         title: USS Princeton (CG-59)
@@ -1797,9 +1797,9 @@ claims:
     attachment: unreviewed
     entailment:
       label: neutral
-      score: 0.629
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      score: 0.897
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 228844a4-f0e6-45a4-8552-582ee7de5b21
         title: USS Princeton (CG-59)
@@ -1841,10 +1841,10 @@ claims:
     attribution_mode: unknown
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.997
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.613
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 228844a4-f0e6-45a4-8552-582ee7de5b21
         title: USS Princeton (CG-59)
@@ -1883,10 +1883,10 @@ claims:
     attribution_mode: unknown
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.998
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.829
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 228844a4-f0e6-45a4-8552-582ee7de5b21
         title: USS Princeton (CG-59)
@@ -1924,10 +1924,10 @@ claims:
     attribution_mode: unknown
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.97
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.599
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 228844a4-f0e6-45a4-8552-582ee7de5b21
         title: USS Princeton (CG-59)
@@ -2010,10 +2010,10 @@ claims:
     attribution_mode: unknown
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.519
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.891
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 228844a4-f0e6-45a4-8552-582ee7de5b21
         title: USS Princeton (CG-59)
@@ -2099,10 +2099,10 @@ claims:
     attribution_mode: bare_ok
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.992
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.998
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 228844a4-f0e6-45a4-8552-582ee7de5b21
         title: USS Princeton (CG-59)
@@ -3971,10 +3971,10 @@ claims:
     attribution_mode: unknown
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.998
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.52
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 1bd67c4e-3412-45c3-844a-e543cb2dcc7a
         title: USS Roosevelt

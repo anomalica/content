@@ -1,5 +1,5 @@
 schema: anomalica/brief/1
-brief_hash: 5e91cb3ba1993887a28d7e6a7a87afccb4f16b6785d9c79f1754ede79d4f12d3
+brief_hash: 0722620b4827d0804fe318484ebbfe8065c0fefbadfd34daa8db41633e72c3b9
 page:
   kind: entity
   node_id: c2db41b8-bc09-456d-8887-4b79a7e9c757
@@ -9,7 +9,7 @@ page:
   claim_count: 35
   claim_count_total: 35
 generated:
-  graph_version: '2026-09-02T13:07:29.167026+00:00'
+  graph_version: '2026-09-02T14:12:13.257772+00:00'
 size:
   claims: 35
   tokens_estimated: 5901
@@ -445,7 +445,7 @@ claims:
       content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
       friendly_name: 2017-03-07-ebook-surviving-death
   - claim_id: 2c353fc8-c99c-4494-9a8a-24384eda5479
-    claim_hash: e1d930c74c881ed523e7273ea40ca166c270cac04a3918cd4affd46adad9cbc5
+    claim_hash: 565ab82024393ba62cf8492adb93a97bf67a09e21070c5eca61a628c13cf6c39
     content: In response to questions from The New York Times, Pentagon officials in December 2017 acknowledged the existence
       of the Advanced Aerospace Threat Identification Program (AATIP), which began as part of the Defense Intelligence Agency
       (DIA).
@@ -1690,9 +1690,9 @@ claims:
     attachment: unreviewed
     entailment:
       label: neutral
-      score: 0.994
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      score: 0.663
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 8af035c9-1425-4d81-bd15-25a27f3e043b
         title: 2017 New York Times article on the Pentagon Unidentified Flying Object (UFO) program

@@ -1,5 +1,5 @@
 schema: anomalica/brief/1
-brief_hash: a94bb3b862032a5d535c4fd74752dc9e9678b132b846a8edfc2842df3b966dc9
+brief_hash: 0d31d449adeb275f5013387e546464800f6c91f48b99aef2f41cb655e9fcb46a
 page:
   kind: entity
   node_id: 9bb3e171-2197-411c-ab51-c4ea9dd2048f
@@ -9,7 +9,7 @@ page:
   claim_count: 17
   claim_count_total: 17
 generated:
-  graph_version: '2026-09-02T13:07:29.167026+00:00'
+  graph_version: '2026-09-02T14:12:13.257772+00:00'
 size:
   claims: 17
   tokens_estimated: 2717
@@ -118,7 +118,7 @@ related_nodes:
     node_type: organisation
     slug: us-senate-select-committee-on-intelligence
     shared_claims: 1
-  - node_id: 459eb5cf-ea76-4cad-9421-a726261cd3a2
+  - node_id: c8b2f71c-febf-446f-9b1e-3e6bdc6c86c5
     title: William J. Clinton
     node_type: person
     slug: william-j-clinton
@@ -291,7 +291,7 @@ claims:
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
   - claim_id: 3476f827-1a18-46dd-9d45-2c4cb30fc3b1
-    claim_hash: 6d348a68b86c9de725ef24361e73ffdc78e33819a873a2ee9d06d3e2cd7b90ef
+    claim_hash: 3b6b5d8a6ee71d15fc8ee8d7916fdef4480478074a6153d69662af1da0e16069
     content: John Podesta held top-secret/Sensitive Compartmented Information (SCI) clearances in his past roles with both
       Presidents Obama and Clinton.
     original_excerpt: He is a senior and well-respected public servant who held top-secret/SCI clearances in his past roles
@@ -314,15 +314,15 @@ claims:
       - node_id: 176b82fd-52fb-4c89-944c-e03e424fd545
         title: John Podesta
         slug: john-podesta
-      - node_id: 459eb5cf-ea76-4cad-9421-a726261cd3a2
-        title: William J. Clinton
-        slug: william-j-clinton
       - node_id: 65058869-076f-47d0-92ea-f8daf08b94cf
         title: Barack Obama
         slug: barack-obama
       - node_id: 9bb3e171-2197-411c-ab51-c4ea9dd2048f
         title: Sensitive Compartmented Information Facility (SCIF)
         slug: sensitive-compartmented-information-facility-scif
+      - node_id: c8b2f71c-febf-446f-9b1e-3e6bdc6c86c5
+        title: William J. Clinton
+        slug: william-j-clinton
     date: null
     date_end: null
     location_in_record: ch20:17002-17135

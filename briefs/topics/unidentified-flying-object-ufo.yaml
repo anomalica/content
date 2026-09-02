@@ -1,5 +1,5 @@
 schema: anomalica/brief/1
-brief_hash: 4dbb2a18abaf04d3378bc84d55641835e07694a5c3246e0abf0f61a7aa38cf08
+brief_hash: d13a6703cb2d2978663bf35d2c3d819b96c4ed81311ed7da14502ab876c04418
 page:
   kind: entity
   node_id: 98bef724-cfbc-458b-812f-02a59097adc9
@@ -9,7 +9,7 @@ page:
   claim_count: 961
   claim_count_total: 961
 generated:
-  graph_version: '2026-09-02T13:07:29.167026+00:00'
+  graph_version: '2026-09-02T14:12:13.257772+00:00'
 size:
   claims: 961
   tokens_estimated: 140382
@@ -17,13 +17,13 @@ size:
 entailment:
   assessed: 961
   unassessed: 0
-  entails: 749
-  neutral: 173
+  entails: 801
+  neutral: 121
   contradicts: 39
   entailed_by_quote: 373
-  entailed_by_window: 376
+  entailed_by_window: 428
   entailed_by_quote_fraction: 0.388
-  entailed_by_window_fraction: 0.391
+  entailed_by_window_fraction: 0.445
 publication:
   status: published
   note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
@@ -98,7 +98,7 @@ related_nodes:
     node_type: person
     slug: jimmy-carter
     shared_claims: 14
-  - node_id: 459eb5cf-ea76-4cad-9421-a726261cd3a2
+  - node_id: c8b2f71c-febf-446f-9b1e-3e6bdc6c86c5
     title: William J. Clinton
     node_type: person
     slug: william-j-clinton
@@ -202,10 +202,10 @@ claims:
     attribution_mode: bare_ok
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.941
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 384dcdc2-dd40-4ad9-a731-8fc1ac9f8a77
         title: National Investigations Committee on Aerial Phenomena (NICAP)
@@ -3959,7 +3959,7 @@ claims:
       content_hash: sha256:0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5ac9fd3168
       friendly_name: 0101-01-01-ebook-messengers-of-deception-ufo-contacts-and-cults
   - claim_id: b7309023-4006-45e4-9837-ba64dde969df
-    claim_hash: 89bfe6248dcc6b8a155a619719ac17222d7409d15a9b0d8215fca8b008c6b97d
+    claim_hash: 29c833396c6aa2a01a902d8655ebc931fdc63da6ef98745e9cf6b4c7808b36cb
     content: Jacques Vallée considers that UFO enthusiasts trying to expose the government through Freedom of Information
       Act lawsuits may be playing into the hands of the manipulators of the phenomenon.
     original_excerpt: But the UFO enthusiasts who are so anxious to "expose" the government have not reflected that they may,
@@ -5006,7 +5006,7 @@ claims:
       content_hash: sha256:0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5ac9fd3168
       friendly_name: 0101-01-01-ebook-messengers-of-deception-ufo-contacts-and-cults
   - claim_id: e1de3359-7261-4a15-9976-d60bd3c565fc
-    claim_hash: 1fe337864327591ed6f955d3728b50be6095b5d6670f93ed4fce8f1ce8819079
+    claim_hash: 5c3fbcdcd33614089ce6d84dcfe1f8d0b63c1a6ec56157eec20c4470a23e6334
     content: In a 1976 article in the youth newspaper Komsomolskaya Pravda, writer Yeremei Parnov implied that those who spread
       UFO stories are flirting with superstitions and religious impulses indirectly manipulated by the Pentagon.
     original_excerpt: In 1976, an article in the youth newspaper Komsomolskaya Pravda, by writer Yeremei Parnov, implied that
@@ -9480,7 +9480,7 @@ claims:
       content_hash: sha256:95ecdca9eaaaa0521483c2d03a9a5c1d985a6e0cf3c938b2d12b235833fce3bb
       friendly_name: null
   - claim_id: 6db72cda-68c3-48bc-9a60-04a5efd6e73f
-    claim_hash: 46992ac19a05c8dd60c180dfdcf646f82b2380c294f9787cbada2da2ccda2297
+    claim_hash: cca27d0c00ff99813ca0db7426efff6cca535fd059da75f537aeb841f33673fe
     content: Even if the Search for Extraterrestrial Intelligence (SETI) picked up a message from outer space, it would do
       little to settle the UFO controversy.
     original_excerpt: But even if they were to pick up a message from outer space, it would do little to settle the UFO controversy.
@@ -20344,13 +20344,13 @@ claims:
       content_hash: sha256:ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b16ac4758
       friendly_name: 2019-ebook-american-cosmic
   - claim_id: ba7b0c3f-c45f-4335-b952-59be10e48764
-    claim_hash: 2e6f4137973b5212b47b898ede4bc2a17f17bb269b85372be01cd42516787484
+    claim_hash: 8f50e64742ad844b63616a611f1941e77d5e5450a8b6b45256d99feae4c6c07c
     content: Christopher Bledsoe had a profound UFO sighting that he interpreted as an extension of his own religious tradition.
     original_excerpt: He had a profound UFO sighting that he interpreted as an extension of his own religious tradition.
     claim_type: testimony
     attestation: second_hand
     speaker:
-      node_id: b4365ffa-36b6-40b3-9144-99086771a894
+      node_id: 458b18fd-fdef-47b9-b418-4021376ca630
       title: Christopher Bledsoe
     provenance_chain:
       origin_kind: named
@@ -20364,12 +20364,12 @@ claims:
       model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
       premise: quote
     node_refs:
+      - node_id: 458b18fd-fdef-47b9-b418-4021376ca630
+        title: Christopher Bledsoe
+        slug: christopher-bledsoe
       - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
         title: Unidentified Flying Object (UFO)
         slug: unidentified-flying-object-ufo
-      - node_id: b4365ffa-36b6-40b3-9144-99086771a894
-        title: Christopher Bledsoe
-        slug: christopher-bledsoe
     date: null
     date_end: null
     location_in_record: ch7:7879-7967
@@ -21610,10 +21610,10 @@ claims:
     attribution_mode: unknown
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.999
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.998
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
         title: Unidentified Flying Object (UFO)
@@ -21652,9 +21652,9 @@ claims:
     attachment: unreviewed
     entailment:
       label: neutral
-      score: 0.866
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      score: 0.863
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
         title: Unidentified Flying Object (UFO)
@@ -23251,7 +23251,7 @@ claims:
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
   - claim_id: 591daa3b-77e3-408b-9407-b98dc2f52f06
-    claim_hash: 5a6cebb4380415339baa126923449f5ac677f9058d50b94f4d9a678de4a1b201
+    claim_hash: f0ddb158ef4f2483dbdaf4ef13e032b55622e6d356550502c734727588e7b1d3
     content: Bill Clinton's Associate Attorney General Webster Hubbell claimed he was asked by the president to find out all
       he could about who killed John F. Kennedy and whether UFOs are real.
     original_excerpt: Clinton's Associate Attorney General Webster Hubbell claimed he was asked by the president to find out
@@ -23273,9 +23273,6 @@ claims:
       model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
       premise: quote
     node_refs:
-      - node_id: 459eb5cf-ea76-4cad-9421-a726261cd3a2
-        title: William J. Clinton
-        slug: william-j-clinton
       - node_id: 4f348344-3469-496e-88e0-51e12603c5bf
         title: Webster Hubbell
         slug: webster-hubbell
@@ -23285,6 +23282,9 @@ claims:
       - node_id: bf1fd77c-31b4-481a-bd6b-96c58ffcae88
         title: Assassination of John F. Kennedy
         slug: assassination-of-john-f-kennedy
+      - node_id: c8b2f71c-febf-446f-9b1e-3e6bdc6c86c5
+        title: William J. Clinton
+        slug: william-j-clinton
     date: '1993'
     date_end: null
     location_in_record: ch14:218-432
@@ -23705,7 +23705,7 @@ claims:
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
   - claim_id: 4c2b8af4-a4eb-49ca-b1a2-5975b240ceb1
-    claim_hash: 0ea4311ac58a88af0f7c5bb445ab8f602481357fa66f7b44d8238a6cdf369fdd
+    claim_hash: 381728f34f03c3ea0fc0f2f21fa4151f6db3b0b712ca45378d774657871ddc20
     content: Steven Greer has claimed that when he sent a briefing document to Bill Clinton, a response came back that the
       president couldn't get anywhere with UFOs and didn't want to push on the issue because a very good friend of his came
       to his home and said he would end up assassinated like John F. Kennedy.
@@ -23729,15 +23729,15 @@ claims:
       model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
       premise: quote
     node_refs:
-      - node_id: 459eb5cf-ea76-4cad-9421-a726261cd3a2
-        title: William J. Clinton
-        slug: william-j-clinton
       - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
         title: Unidentified Flying Object (UFO)
         slug: unidentified-flying-object-ufo
       - node_id: bf1fd77c-31b4-481a-bd6b-96c58ffcae88
         title: Assassination of John F. Kennedy
         slug: assassination-of-john-f-kennedy
+      - node_id: c8b2f71c-febf-446f-9b1e-3e6bdc6c86c5
+        title: William J. Clinton
+        slug: william-j-clinton
       - node_id: e4389da4-1980-4cb6-b557-6c563f9b134a
         title: Steven Greer
         slug: steven-greer
@@ -26660,10 +26660,10 @@ claims:
     attribution_mode: unknown
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.997
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.998
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
         title: Unidentified Flying Object (UFO)
@@ -27046,10 +27046,10 @@ claims:
     attribution_mode: bare_ok
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.942
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 1.0
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
         title: Unidentified Flying Object (UFO)
@@ -27435,10 +27435,10 @@ claims:
     attribution_mode: unknown
     attachment: unreviewed
     entailment:
-      label: neutral
+      label: entails
       score: 0.999
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 039c59a5-c92b-48c3-9b54-9944e4d81e54
         title: Richard Doty
@@ -27687,7 +27687,7 @@ claims:
       content_hash: sha256:73be106d406f6d35a063a894e8384e7da0918eb8597d2107a9e3653becca2bdc
       friendly_name: null
   - claim_id: 8f999b2d-5a47-448f-9ce3-87f6e6d43145
-    claim_hash: 7373e8f62859fd4519f119d993adb982338c65dde8858d2c3cf2a588042557cb
+    claim_hash: 298e35136016a24a79b6d15c46c6a073c3a9e5ac74105f006588eca8fdf4b925
     content: Ross Coulthart considers it unacceptable that United States presidents Bill Clinton, Barack Obama, Gerald Ford
       and Jimmy Carter were not able to be briefed on Unidentified Flying Object information while serving as commander in
       chief.
@@ -27714,9 +27714,6 @@ claims:
       - node_id: 3030c72b-534a-4ddb-88ec-c09f315b9d87
         title: Gerald Ford
         slug: gerald-ford
-      - node_id: 459eb5cf-ea76-4cad-9421-a726261cd3a2
-        title: William J. Clinton
-        slug: william-j-clinton
       - node_id: 65058869-076f-47d0-92ea-f8daf08b94cf
         title: Barack Obama
         slug: barack-obama
@@ -27726,6 +27723,9 @@ claims:
       - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
         title: Unidentified Flying Object (UFO)
         slug: unidentified-flying-object-ufo
+      - node_id: c8b2f71c-febf-446f-9b1e-3e6bdc6c86c5
+        title: William J. Clinton
+        slug: william-j-clinton
       - node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
         title: Ross Coulthart
         slug: ross-coulthart
@@ -28566,10 +28566,10 @@ claims:
     attribution_mode: unknown
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.994
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 1eabd894-9059-432b-990a-74c0a81eec82
         title: Gordon Cooper
@@ -28879,10 +28879,10 @@ claims:
     attribution_mode: unknown
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.891
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.996
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
         title: Unidentified Flying Object (UFO)
@@ -29293,10 +29293,10 @@ claims:
     attribution_mode: unknown
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.999
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.905
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 079d4381-4273-418b-bc9a-468623f95c6e
         title: Jesse Mitchells
@@ -29464,10 +29464,10 @@ claims:
     attribution_mode: unknown
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.934
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.829
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
         title: Unidentified Flying Object (UFO)
@@ -29635,10 +29635,10 @@ claims:
     attribution_mode: unknown
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.998
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 079d4381-4273-418b-bc9a-468623f95c6e
         title: Jesse Mitchells
@@ -29725,10 +29725,10 @@ claims:
     attribution_mode: unknown
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.999
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.998
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 079d4381-4273-418b-bc9a-468623f95c6e
         title: Jesse Mitchells
@@ -29941,9 +29941,9 @@ claims:
     attachment: unreviewed
     entailment:
       label: neutral
-      score: 0.951
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      score: 0.995
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 1cddc1bd-375e-4481-9c3b-fec8cbea86cd
         title: Blink-182
@@ -30126,10 +30126,10 @@ claims:
     attribution_mode: unknown
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.692
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 1cddc1bd-375e-4481-9c3b-fec8cbea86cd
         title: Blink-182
@@ -30482,10 +30482,10 @@ claims:
     attribution_mode: unknown
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.908
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.964
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
         title: Jacques Vallée
@@ -30735,7 +30735,7 @@ claims:
       content_hash: sha256:d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7b5a1b98d
       friendly_name: null
   - claim_id: 0dc9bacf-7eef-4156-8206-5c7faf9ecdb9
-    claim_hash: 95faf137c17e21ab59dee32412fe9aa5ec99f5c31a6ebdc0c9a4a64e05e9d93f
+    claim_hash: e38cbc3036ed1a9531a321826975aaf1c3db5cc442d26847d91702da385bcd75
     content: Bill Clinton did not receive UFO briefings and had to fight for information, using all his resources without
       obtaining what he wanted, in Jason Samosa's assessment.
     original_excerpt: The moment you get to Clinton, I think it's pretty demonstrable he didn't. And he had to fight to try
@@ -30752,17 +30752,17 @@ claims:
     attribution_mode: unknown
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.996
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
-      - node_id: 459eb5cf-ea76-4cad-9421-a726261cd3a2
-        title: William J. Clinton
-        slug: william-j-clinton
       - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
         title: Unidentified Flying Object (UFO)
         slug: unidentified-flying-object-ufo
+      - node_id: c8b2f71c-febf-446f-9b1e-3e6bdc6c86c5
+        title: William J. Clinton
+        slug: william-j-clinton
     date: null
     date_end: null
     location_in_record: 00:46:08.1-00:46:17.1
@@ -30777,7 +30777,7 @@ claims:
       content_hash: sha256:d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7b5a1b98d
       friendly_name: null
   - claim_id: 1b8cf3b4-33dc-4f1b-b6e3-077b1d580dec
-    claim_hash: 3468eb4bb961beed0a260eaa2f295f4d4a3445960212c939d60ba84e955681a7
+    claim_hash: ca30a990dd1cf5a534fb91ca4b64b3c84561da2a3c8ff30b01a48391a9d4a488
     content: Ronald Pandolfi advised Bill Clinton that he should be briefed by Bruce Maccabee, a longtime civilian UFO researcher
       who had written a book about UFOs and the FBI.
     original_excerpt: Ron Pandolfi told Clinton he should get briefed by a guy named Bruce Maccabee who had written about
@@ -30805,15 +30805,15 @@ claims:
       - node_id: 0c0f7266-312d-4b09-99a4-0126cc96308d
         title: Bruce Maccabee
         slug: bruce-maccabee
-      - node_id: 459eb5cf-ea76-4cad-9421-a726261cd3a2
-        title: William J. Clinton
-        slug: william-j-clinton
       - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
         title: Unidentified Flying Object (UFO)
         slug: unidentified-flying-object-ufo
       - node_id: c430b2b2-7900-45c9-9882-98ac4ab14e88
         title: Federal Bureau of Investigation (FBI)
         slug: federal-bureau-of-investigation-fbi
+      - node_id: c8b2f71c-febf-446f-9b1e-3e6bdc6c86c5
+        title: William J. Clinton
+        slug: william-j-clinton
     date: null
     date_end: null
     location_in_record: 00:47:46.2-00:47:56.5
@@ -30828,7 +30828,7 @@ claims:
       content_hash: sha256:d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7b5a1b98d
       friendly_name: null
   - claim_id: 089e1f5c-803c-4865-879a-88e525f0f546
-    claim_hash: aa02d81895022fcfab0d8eec8abdca4508361fda4bcd747c277076ef1686fa44
+    claim_hash: e73faceaaeaca6740f605b9dcbd7c9e657547086fad709ce320abc77a99a487c
     content: Laurance Rockefeller was very close with the Clintons and constantly tried to interest them in UFO disclosure.
     original_excerpt: And Laurance Rockefeller, uh, is very close with the Clintons and trying to get them to do disclosure,
       get them more interested constantly.
@@ -30852,12 +30852,12 @@ claims:
       - node_id: 33ae3380-25ea-442a-9d60-69b285a20182
         title: Hillary Clinton
         slug: hillary-clinton
-      - node_id: 459eb5cf-ea76-4cad-9421-a726261cd3a2
-        title: William J. Clinton
-        slug: william-j-clinton
       - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
         title: Unidentified Flying Object (UFO)
         slug: unidentified-flying-object-ufo
+      - node_id: c8b2f71c-febf-446f-9b1e-3e6bdc6c86c5
+        title: William J. Clinton
+        slug: william-j-clinton
       - node_id: f657fb13-198a-45d6-9530-253f2784f9d2
         title: Laurance Rockefeller
         slug: laurance-rockefeller
@@ -30875,7 +30875,7 @@ claims:
       content_hash: sha256:d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7b5a1b98d
       friendly_name: null
   - claim_id: 03f260c0-9ab3-4896-8c40-2b44b71937f3
-    claim_hash: c2a6213ac8f443015a4ac005d48584f70a57386a330d86c06d026f1adba90e28
+    claim_hash: 365f041e89f034161ad2ed9383a48af33947aac98056b885545a9d2c2d256fb3
     content: There is evidence that Hillary Clinton was trying to open doors on the UFO subject during Bill Clinton's administration,
       in Jason Samosa's assessment.
     original_excerpt: she was interested early, I think. And there's evidence during the original Clinton administration she
@@ -30892,20 +30892,20 @@ claims:
     attribution_mode: unknown
     attachment: unreviewed
     entailment:
-      label: neutral
+      label: entails
       score: 0.999
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 33ae3380-25ea-442a-9d60-69b285a20182
         title: Hillary Clinton
         slug: hillary-clinton
-      - node_id: 459eb5cf-ea76-4cad-9421-a726261cd3a2
-        title: William J. Clinton
-        slug: william-j-clinton
       - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
         title: Unidentified Flying Object (UFO)
         slug: unidentified-flying-object-ufo
+      - node_id: c8b2f71c-febf-446f-9b1e-3e6bdc6c86c5
+        title: William J. Clinton
+        slug: william-j-clinton
     date: null
     date_end: null
     location_in_record: 00:48:55.6-00:49:02.0
@@ -30920,7 +30920,7 @@ claims:
       content_hash: sha256:d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7b5a1b98d
       friendly_name: null
   - claim_id: 409ff077-63a6-4185-8eb5-b6ab66af4e5f
-    claim_hash: 1358901ab8d1510f83503eb4f8b1888960aaaf6973488d59fa53333063100d8b
+    claim_hash: d682a10a449b1ac1e5be314d00f689d24a8b39c1b585aeb5c56005b3fc611ffc
     content: Bill Clinton's science advisor sought a UFO briefing, and the request went to the CIA's Weird Desk, the part
       of the agency holding UFO information.
     original_excerpt: Clinton's science advisor is trying to get a briefing. And what happens is that goes to the place in
@@ -30945,12 +30945,12 @@ claims:
       - node_id: 38b84d4a-96df-4684-bb46-f6f64f392add
         title: Central Intelligence Agency (CIA)
         slug: central-intelligence-agency-cia
-      - node_id: 459eb5cf-ea76-4cad-9421-a726261cd3a2
-        title: William J. Clinton
-        slug: william-j-clinton
       - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
         title: Unidentified Flying Object (UFO)
         slug: unidentified-flying-object-ufo
+      - node_id: c8b2f71c-febf-446f-9b1e-3e6bdc6c86c5
+        title: William J. Clinton
+        slug: william-j-clinton
     date: null
     date_end: null
     location_in_record: 00:49:06.2-00:49:13.7
@@ -30965,7 +30965,7 @@ claims:
       content_hash: sha256:d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7b5a1b98d
       friendly_name: null
   - claim_id: b0a1244b-8c2a-49c2-a771-6303eb2cd0b8
-    claim_hash: 8ff1e3581c9c47f7e404c392c77848a634ed417a3842808aad2013447b324c6c
+    claim_hash: 7711b486d5033dfa346bb84e086ce78ddfa4536f744d6bdea2c8d4dd1e056a68
     content: Bill Clinton's attempt to obtain UFO information was shut down by Ronald Pandolfi, in Jason Samosa's account.
     original_excerpt: You've got Clinton, comes in, he's just this guy, and he wants the information and it's shut down by
       Dr. Pandolfi
@@ -30981,20 +30981,20 @@ claims:
     attribution_mode: unknown
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.996
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.994
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 0c023c1b-30bd-48a1-a836-2b291ff5853a
         title: Ronald Pandolfi
         slug: ronald-pandolfi
-      - node_id: 459eb5cf-ea76-4cad-9421-a726261cd3a2
-        title: William J. Clinton
-        slug: william-j-clinton
       - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
         title: Unidentified Flying Object (UFO)
         slug: unidentified-flying-object-ufo
+      - node_id: c8b2f71c-febf-446f-9b1e-3e6bdc6c86c5
+        title: William J. Clinton
+        slug: william-j-clinton
     date: null
     date_end: null
     location_in_record: 00:50:38.2-00:50:45.7
@@ -31073,10 +31073,10 @@ claims:
     attribution_mode: unknown
     attachment: unreviewed
     entailment:
-      label: neutral
+      label: entails
       score: 0.997
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 079d4381-4273-418b-bc9a-468623f95c6e
         title: Jesse Mitchells
@@ -31120,10 +31120,10 @@ claims:
     attribution_mode: unknown
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.989
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.997
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 65058869-076f-47d0-92ea-f8daf08b94cf
         title: Barack Obama
@@ -31256,10 +31256,10 @@ claims:
     attribution_mode: bare_ok
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.988
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.998
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 65058869-076f-47d0-92ea-f8daf08b94cf
         title: Barack Obama
@@ -31391,10 +31391,10 @@ claims:
     attribution_mode: unknown
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.999
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.998
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
         title: Unidentified Flying Object (UFO)
@@ -31433,10 +31433,10 @@ claims:
     attribution_mode: unknown
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.992
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 3a865991-eaad-4855-8980-b28dfb98691a
         title: James Lacatski
@@ -31564,10 +31564,10 @@ claims:
     attribution_mode: unknown
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.993
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.576
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
         title: Unidentified Flying Object (UFO)
@@ -31984,10 +31984,10 @@ claims:
     attribution_mode: unknown
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.995
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.998
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 7699ee6b-266c-42ed-95b2-3b4430fd2af9
         title: World Commerce Corporation
@@ -32456,10 +32456,10 @@ claims:
     attribution_mode: unknown
     attachment: unreviewed
     entailment:
-      label: neutral
+      label: entails
       score: 0.998
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
         title: Unidentified Flying Object (UFO)
@@ -32544,10 +32544,10 @@ claims:
     attribution_mode: unknown
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.998
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.99
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 1f2d9588-6f48-4937-934f-ffc35c8fa7bc
         title: American Academy of Arts and Sciences
@@ -32673,10 +32673,10 @@ claims:
     attribution_mode: bare_ok
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.987
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
         title: Unidentified Flying Object (UFO)
@@ -32842,10 +32842,10 @@ claims:
     attribution_mode: unknown
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.999
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.502
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
         title: Unidentified Flying Object (UFO)
@@ -33067,10 +33067,10 @@ claims:
     attribution_mode: unknown
     attachment: unreviewed
     entailment:
-      label: neutral
+      label: entails
       score: 0.999
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 079d4381-4273-418b-bc9a-468623f95c6e
         title: Jesse Mitchells
@@ -33768,10 +33768,10 @@ claims:
     attribution_mode: unknown
     attachment: unreviewed
     entailment:
-      label: neutral
+      label: entails
       score: 0.998
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
         title: Unidentified Flying Object (UFO)
@@ -33932,7 +33932,7 @@ claims:
       content_hash: sha256:d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7b5a1b98d
       friendly_name: null
   - claim_id: 72f8b797-75a1-4490-9964-5e94afb073d1
-    claim_hash: a19b2d6d0ff22023a3ba9a80ca01a29cd4d63d37d4e9ea33e8d8b80b27060d1c
+    claim_hash: 33f306506fbd6a65d4fceb78fbaf79e5c3e428fdb3d6a08ca7d778746be5c88b
     content: Bruce Maccabee is a Navy physicist who wrote the UFO briefing given for Bill Clinton.
     original_excerpt: '[note: Bruce Maccabee - Navy physicist who wrote the Clinton UFO briefing]'
     claim_type: administrative
@@ -33953,12 +33953,12 @@ claims:
       - node_id: 0c0f7266-312d-4b09-99a4-0126cc96308d
         title: Bruce Maccabee
         slug: bruce-maccabee
-      - node_id: 459eb5cf-ea76-4cad-9421-a726261cd3a2
-        title: William J. Clinton
-        slug: william-j-clinton
       - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
         title: Unidentified Flying Object (UFO)
         slug: unidentified-flying-object-ufo
+      - node_id: c8b2f71c-febf-446f-9b1e-3e6bdc6c86c5
+        title: William J. Clinton
+        slug: william-j-clinton
     date: null
     date_end: null
     location_in_record: line 142
@@ -34011,7 +34011,7 @@ claims:
       content_hash: sha256:d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7b5a1b98d
       friendly_name: null
   - claim_id: 233590ec-fa47-49d4-af3f-565329bd7de8
-    claim_hash: ed2fe0b14b19a504520a7f1f739fd31b2533ba214411fdcfc9dedd1d29028e1b
+    claim_hash: 9bb220dd240c08cdfa73f231a8ecb5d53a1cfddcb1a29333c062b884ef9a210a
     content: Bigelow Aerospace was the contractor that ran the Pentagon's UFO programme.
     original_excerpt: '[note: Begelow Aerospace - Contractor that ran the Pentagon''s UFO program]'
     claim_type: administrative
@@ -34282,10 +34282,10 @@ claims:
     attribution_mode: unknown
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.957
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.996
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 079d4381-4273-418b-bc9a-468623f95c6e
         title: Jesse Mitchells
@@ -34367,10 +34367,10 @@ claims:
     attribution_mode: unknown
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.992
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.588
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
         title: Unidentified Flying Object (UFO)
@@ -34760,10 +34760,10 @@ claims:
     attribution_mode: unknown
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.998
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.966
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 0b47cac5-b9cc-44ea-a2aa-5cbd39a0d21a
         title: Unidentified Aerial Phenomena (UAP) Gerb
@@ -35461,10 +35461,10 @@ claims:
     attribution_mode: unknown
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.988
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.997
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
         title: Whitley Strieber
@@ -35588,10 +35588,10 @@ claims:
     attribution_mode: bare_ok
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.998
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.997
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 406e594b-ffcb-47fc-8157-eea1047067fc
         title: 2017 United Kingdom Unidentified Flying Object (UFO) file declassification
@@ -35949,10 +35949,10 @@ claims:
     attribution_mode: bare_ok
     attachment: unreviewed
     entailment:
-      label: neutral
+      label: entails
       score: 0.996
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 1c74a06c-1b3f-43b4-b54c-3f6b44fd8192
         title: Ronald Reagan
@@ -36413,10 +36413,10 @@ claims:
     attribution_mode: unknown
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.999
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.554
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
         title: Unidentified Flying Object (UFO)
@@ -36592,10 +36592,10 @@ claims:
     attribution_mode: unknown
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.881
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.994
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 24d00311-06ac-46a1-a2f5-c99f3f8e21b2
         title: Chris Ramsay
@@ -36763,10 +36763,10 @@ claims:
     attribution_mode: unknown
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.98
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.993
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 0d4dfba6-a53b-4f23-a2ad-e4c9bea44076
         title: Robert Bigelow
@@ -36972,7 +36972,7 @@ claims:
       content_hash: sha256:1d24cbe9e49ad5279cd4975a2b37b3b3ab60a260be30a9264e34ef168d7f9e0e
       friendly_name: null
   - claim_id: 79b4346f-d52a-413e-86b8-52b32a73bd94
-    claim_hash: 9fc00e517c665c14cfef69d33ffe99443363f1a3fc3f882f58173a5041550207
+    claim_hash: 3f22c54b177ef900c6dded59488594bb1e6c537b52022c4d7b18a71abd3df0d8
     content: Lawrence Rockefeller's position was to convince Bill Clinton, president at the time, to step up, produce the
       disclosure necessary about the UFO phenomena and admit that it exists.
     original_excerpt: And his take was to convince the president, which at the time was Bill Clinton, that he needed to step
@@ -36997,15 +36997,15 @@ claims:
       - node_id: 39931bd6-9341-4fc5-a3fe-e7e81229eb3e
         title: Rockefeller Ranch Unidentified Flying Object (UFO) disclosure meeting
         slug: rockefeller-ranch-unidentified-flying-object-ufo-disclosure-meeting
-      - node_id: 459eb5cf-ea76-4cad-9421-a726261cd3a2
-        title: William J. Clinton
-        slug: william-j-clinton
       - node_id: 6822269f-d874-409b-b8f9-8ccaf3ac5947
         title: Lawrence Rockefeller
         slug: lawrence-rockefeller
       - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
         title: Unidentified Flying Object (UFO)
         slug: unidentified-flying-object-ufo
+      - node_id: c8b2f71c-febf-446f-9b1e-3e6bdc6c86c5
+        title: William J. Clinton
+        slug: william-j-clinton
     date: null
     date_end: null
     location_in_record: 00:03:59.0-00:04:17.1
@@ -37068,7 +37068,7 @@ claims:
       content_hash: sha256:1d24cbe9e49ad5279cd4975a2b37b3b3ab60a260be30a9264e34ef168d7f9e0e
       friendly_name: null
   - claim_id: 0d154c2f-da65-4ab0-baad-2e3e2b082e90
-    claim_hash: 03b41d3688fbf4f84a7c009cca27fc5c28011742df9df1b6c9dad652d44ef687
+    claim_hash: 87e6e4f42a5c91ed4c28de4aa47605db800992bb5324f1718d321f40e5e216bf
     content: Robert Bigelow was not sure that Bill Clinton knew about the UFO phenomena.
     original_excerpt: I wasn't sure that he knew, that the president knew.
     claim_type: testimony
@@ -37091,12 +37091,12 @@ claims:
       - node_id: 0d4dfba6-a53b-4f23-a2ad-e4c9bea44076
         title: Robert Bigelow
         slug: robert-bigelow
-      - node_id: 459eb5cf-ea76-4cad-9421-a726261cd3a2
-        title: William J. Clinton
-        slug: william-j-clinton
       - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
         title: Unidentified Flying Object (UFO)
         slug: unidentified-flying-object-ufo
+      - node_id: c8b2f71c-febf-446f-9b1e-3e6bdc6c86c5
+        title: William J. Clinton
+        slug: william-j-clinton
     date: null
     date_end: null
     location_in_record: 00:04:18.9-00:04:21.6
@@ -37153,7 +37153,7 @@ claims:
       content_hash: sha256:1d24cbe9e49ad5279cd4975a2b37b3b3ab60a260be30a9264e34ef168d7f9e0e
       friendly_name: null
   - claim_id: 757087e1-f640-4480-b199-ac9118de43ba
-    claim_hash: fc935015ba4a39199c827a27065390f10313d82f16361131280a2b9c702a7bfb
+    claim_hash: 459c6b21ace103d21e65285334b476d6ccf6c6de6a4821122201869abdaccf29
     content: A book quoted Bill Clinton as saying that before he left office he wanted to know who really killed John F. Kennedy
       and what all the UFO and extraterrestrial material was about.
     original_excerpt: And in there, President Clinton had said, before I leave office, I want to know who really killed JFK
@@ -37179,12 +37179,12 @@ claims:
       - node_id: 0d4dfba6-a53b-4f23-a2ad-e4c9bea44076
         title: Robert Bigelow
         slug: robert-bigelow
-      - node_id: 459eb5cf-ea76-4cad-9421-a726261cd3a2
-        title: William J. Clinton
-        slug: william-j-clinton
       - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
         title: Unidentified Flying Object (UFO)
         slug: unidentified-flying-object-ufo
+      - node_id: c8b2f71c-febf-446f-9b1e-3e6bdc6c86c5
+        title: William J. Clinton
+        slug: william-j-clinton
     date: null
     date_end: null
     location_in_record: 00:04:51.0-00:05:02.9
@@ -37409,7 +37409,7 @@ claims:
       content_hash: sha256:1d24cbe9e49ad5279cd4975a2b37b3b3ab60a260be30a9264e34ef168d7f9e0e
       friendly_name: null
   - claim_id: f3dfaea3-0951-4315-ae7f-2bc8a56679c3
-    claim_hash: ba61a54dff231dc6798501197447cffe96fb81560638c7a409889fb666dc8510
+    claim_hash: 1ce5b39409594243d9c805a7fb6db85deedfd067b29ac98564372dfa78f82bc5
     content: Lawrence Rockefeller was under the impression that Bill Clinton did know about UFOs and had been read in, and
       intended to convince him to admit it and participate in starting the disclosure process.
     original_excerpt: No, that he did know. He was read in. And he was going to try to convince him to confess, to admit,
@@ -37431,15 +37431,15 @@ claims:
       model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
       premise: quote
     node_refs:
-      - node_id: 459eb5cf-ea76-4cad-9421-a726261cd3a2
-        title: William J. Clinton
-        slug: william-j-clinton
       - node_id: 6822269f-d874-409b-b8f9-8ccaf3ac5947
         title: Lawrence Rockefeller
         slug: lawrence-rockefeller
       - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
         title: Unidentified Flying Object (UFO)
         slug: unidentified-flying-object-ufo
+      - node_id: c8b2f71c-febf-446f-9b1e-3e6bdc6c86c5
+        title: William J. Clinton
+        slug: william-j-clinton
     date: null
     date_end: null
     location_in_record: 00:06:34.3-00:06:47.8
@@ -37863,10 +37863,10 @@ claims:
     attribution_mode: unknown
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.988
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.825
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 0d4dfba6-a53b-4f23-a2ad-e4c9bea44076
         title: Robert Bigelow
@@ -38624,10 +38624,10 @@ claims:
     attribution_mode: unknown
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.998
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.575
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 339cda28-8b99-44a6-bce2-e045a09a4115
         title: Wairakei flying saucer sighting by surveying engineer, circa 1957
@@ -39275,10 +39275,10 @@ claims:
     attribution_mode: bare_ok
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.756
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.894
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
         title: Unidentified Flying Object (UFO)
@@ -39406,10 +39406,10 @@ claims:
     attribution_mode: bare_ok
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.972
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.998
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 46886954-19d1-4d21-861a-9e653fb096a3
         title: James MacDonald
@@ -39703,10 +39703,10 @@ claims:
     attribution_mode: unknown
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.991
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.997
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 46886954-19d1-4d21-861a-9e653fb096a3
         title: James MacDonald
@@ -39829,10 +39829,10 @@ claims:
     attribution_mode: unknown
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.915
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.998
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 46886954-19d1-4d21-861a-9e653fb096a3
         title: James MacDonald
@@ -40183,10 +40183,10 @@ claims:
     attribution_mode: unknown
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.956
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 1.0
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 46886954-19d1-4d21-861a-9e653fb096a3
         title: James MacDonald
@@ -40493,10 +40493,10 @@ claims:
     attribution_mode: bare_ok
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.974
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
         title: Unidentified Flying Object (UFO)
@@ -40670,10 +40670,10 @@ claims:
     attribution_mode: unknown
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.704
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 1.0
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 46886954-19d1-4d21-861a-9e653fb096a3
         title: James MacDonald
@@ -40864,10 +40864,10 @@ claims:
     attribution_mode: bare_ok
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.997
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 02c1d97e-abc0-42f3-a125-e4a9be195ef5
         title: James E. McDonald 1967 Australia, New Zealand and Tasmania Unidentified Flying Object (UFO) investigation tour
@@ -41189,10 +41189,10 @@ claims:
     attribution_mode: bare_ok
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.997
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 3a865991-eaad-4855-8980-b28dfb98691a
         title: James Lacatski
@@ -41367,10 +41367,10 @@ claims:
     attribution_mode: unknown
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.965
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.998
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
         title: Unidentified Flying Object (UFO)
@@ -41686,10 +41686,10 @@ claims:
     attribution_mode: unknown
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.973
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.996
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
         title: Unidentified Anomalous Phenomena (UAP)
@@ -41832,10 +41832,10 @@ claims:
     attribution_mode: unknown
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.953
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 24d00311-06ac-46a1-a2f5-c99f3f8e21b2
         title: Chris Ramsay

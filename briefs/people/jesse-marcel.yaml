@@ -1,5 +1,5 @@
 schema: anomalica/brief/1
-brief_hash: 713f40c31b407068d59f1585c3f1e62b8a6cb9aa738e85c8d572e012e66817c1
+brief_hash: 0f6009149fea2254158f80b63a63cfd559d3b494f30323cafe3bc1deb1084dd6
 page:
   kind: entity
   node_id: f888411e-b882-4f89-8275-350d19f6c52d
@@ -9,7 +9,7 @@ page:
   claim_count: 31
   claim_count_total: 31
 generated:
-  graph_version: '2026-09-02T13:07:29.167026+00:00'
+  graph_version: '2026-09-02T14:12:13.257772+00:00'
 size:
   claims: 31
   tokens_estimated: 4459
@@ -88,7 +88,7 @@ related_nodes:
     node_type: place
     slug: new-mexico-roswell-usa
     shared_claims: 2
-  - node_id: 3e507b49-d600-474f-8995-453932dc1e01
+  - node_id: 24ba32dd-fc10-4ee4-bae2-9133cf301509
     title: USA, New Mexico, Roswell Army Air Field
     node_type: place
     slug: new-mexico-roswell-army-air-field-usa
@@ -1224,7 +1224,7 @@ claims:
       content_hash: sha256:524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008e17102e7
       friendly_name: 2025-01-15-ebook-the-fourth-mind
   - claim_id: 6b87785c-9914-4683-842a-192f19362454
-    claim_hash: aac4c7e85e89f866286437a3708380e8e27252816f5bb9c900dda532c4082da3
+    claim_hash: c4d98218256ebb39831231c3734dd1a73e5a6bc149fc30835e0abd3f89786baa
     content: The 1947-07-08 staff meeting at Roswell Army Air Force Base was attended by William Blanchard, Jesse Marcel,
       Sheridan Cavitt, James I. Hopkins, Patrick Saunders, Isadore Brown, and Ulysses S. Nero.
     original_excerpt: Besides Blanchard, Marcel; CID Capt. Sheridan Cavitt; Col. James I. Hopkins, the operations officer;
@@ -1253,7 +1253,7 @@ claims:
       - node_id: 105344db-a5eb-4108-a72a-a06408ff1a6c
         title: William Blanchard
         slug: william-blanchard
-      - node_id: 3e507b49-d600-474f-8995-453932dc1e01
+      - node_id: 24ba32dd-fc10-4ee4-bae2-9133cf301509
         title: USA, New Mexico, Roswell Army Air Field
         slug: new-mexico-roswell-army-air-field-usa
       - node_id: c581a3e1-83fa-424c-840d-df874cfccebe
@@ -1474,7 +1474,7 @@ claims:
       content_hash: sha256:524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008e17102e7
       friendly_name: 2025-01-15-ebook-the-fourth-mind
   - claim_id: ced0c092-a6c8-49b9-b815-b43f61e67403
-    claim_hash: 788eef3508942b5d4f4ca1b4f4bd7441837b2314b638b33d147ce71c83e13866
+    claim_hash: 856292552649c618215d75c5df69b5885ef47c50bd3b28a0592297d854461baa
     content: Jesse Marcel, head of intelligence at Roswell Army Air Force Base, was sent by base commander William Blanchard
       to investigate the reported downed vehicle debris on 1947-07-07.
     original_excerpt: I was aware that Major Jesse A. Marcel, head of intelligence, was sent by the base commander, Col. William
@@ -1499,7 +1499,7 @@ claims:
       - node_id: 105344db-a5eb-4108-a72a-a06408ff1a6c
         title: William Blanchard
         slug: william-blanchard
-      - node_id: 3e507b49-d600-474f-8995-453932dc1e01
+      - node_id: 24ba32dd-fc10-4ee4-bae2-9133cf301509
         title: USA, New Mexico, Roswell Army Air Field
         slug: new-mexico-roswell-army-air-field-usa
       - node_id: f888411e-b882-4f89-8275-350d19f6c52d

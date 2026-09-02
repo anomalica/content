@@ -1,5 +1,5 @@
 schema: anomalica/brief/1
-brief_hash: 86b993a4462daab8e193b6f780fb77a2b42a3175a9c052e1fe8d94df2a6a29a7
+brief_hash: 2bcb172f9e6c12733869234de6b499fbdd6f073b96d08be678f39ae8205b8038
 page:
   kind: entity
   node_id: 4543ad6e-cef3-463f-9071-2d9c517a933b
@@ -9,7 +9,7 @@ page:
   claim_count: 19
   claim_count_total: 19
 generated:
-  graph_version: '2026-09-02T13:07:29.167026+00:00'
+  graph_version: '2026-09-02T14:12:13.257772+00:00'
 size:
   claims: 19
   tokens_estimated: 2539
@@ -17,13 +17,13 @@ size:
 entailment:
   assessed: 19
   unassessed: 0
-  entails: 13
-  neutral: 5
+  entails: 14
+  neutral: 4
   contradicts: 1
   entailed_by_quote: 8
-  entailed_by_window: 5
+  entailed_by_window: 6
   entailed_by_quote_fraction: 0.421
-  entailed_by_window_fraction: 0.263
+  entailed_by_window_fraction: 0.316
 publication:
   status: published
   note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
@@ -73,7 +73,7 @@ related_nodes:
     node_type: object
     slug: chinese-spy-balloon
     shared_claims: 1
-  - node_id: b4365ffa-36b6-40b3-9144-99086771a894
+  - node_id: 458b18fd-fdef-47b9-b418-4021376ca630
     title: Christopher Bledsoe
     node_type: person
     slug: christopher-bledsoe
@@ -538,7 +538,7 @@ claims:
       content_hash: sha256:ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b16ac4758
       friendly_name: 2019-ebook-american-cosmic
   - claim_id: ee399a00-439a-446d-b160-3e1ed33c39c8
-    claim_hash: 8a5d3137a64c6e0ed326b1740ce4cd459559071e55be6e7a55dd64678b113f8b
+    claim_hash: e00dd073d01b50a3b52a5ba4bd0a54a97e2667367b203e58318397b75e7054f7
     content: Christopher Bledsoe is a Baptist from North Carolina who had been a pilot and owned a successful construction
       business.
     original_excerpt: Christopher Bledsoe, a Baptist from North Carolina, had been a pilot and owned a successful construction
@@ -561,7 +561,7 @@ claims:
       - node_id: 4543ad6e-cef3-463f-9071-2d9c517a933b
         title: USA, South Carolina
         slug: south-carolina-usa
-      - node_id: b4365ffa-36b6-40b3-9144-99086771a894
+      - node_id: 458b18fd-fdef-47b9-b418-4021376ca630
         title: Christopher Bledsoe
         slug: christopher-bledsoe
     date: null
@@ -890,10 +890,10 @@ claims:
     attribution_mode: bare_ok
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.951
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.929
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 4543ad6e-cef3-463f-9071-2d9c517a933b
         title: USA, South Carolina

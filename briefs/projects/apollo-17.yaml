@@ -1,5 +1,5 @@
 schema: anomalica/brief/1
-brief_hash: f77eb250b3e3228fbcf0b4b938076a17f0af9cd76f85e3c137d3e4e1449238f1
+brief_hash: 69fbdd80093e1ae533cc024e6c4af5f6b5ebb210b1a74077e93714ec016a742d
 page:
   kind: entity
   node_id: c76ec8f2-cf2e-4693-b24c-b3ce9c5879d0
@@ -9,7 +9,7 @@ page:
   claim_count: 79
   claim_count_total: 79
 generated:
-  graph_version: '2026-09-02T13:07:29.167026+00:00'
+  graph_version: '2026-09-02T14:12:13.257772+00:00'
 size:
   claims: 79
   tokens_estimated: 10521
@@ -17,13 +17,13 @@ size:
 entailment:
   assessed: 79
   unassessed: 0
-  entails: 56
-  neutral: 23
+  entails: 70
+  neutral: 9
   contradicts: 0
   entailed_by_quote: 8
-  entailed_by_window: 48
+  entailed_by_window: 62
   entailed_by_quote_fraction: 0.101
-  entailed_by_window_fraction: 0.608
+  entailed_by_window_fraction: 0.785
 publication:
   status: published
   note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
@@ -228,7 +228,7 @@ claims:
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
   - claim_id: 943788f6-cbf0-4452-82d0-b42108a8530b
-    claim_hash: 00cddbd6165e64c3910f37ce7b9bbd44f66c8f295c82cf3691d7b4c300034763
+    claim_hash: e8ccacd9b7df03edaeb2af3740ad8a7b75af452c0f1e07282d4983d0051bc9a5
     content: Harrison Schmitt considers the Apollo 17 Flight Data File for both the Command and Service Module (CSM) and the
       Lunar Module (LM) to have been excellent, with very few possible improvements.
     original_excerpt: Okay, flight data file, the CSM. Generally, I have nothing but praise for the flight data file of both
@@ -280,7 +280,7 @@ claims:
       content_hash: sha256:63c518ebd5b9dbaf027b3dcdbc0f7fe2572ff85e4be34b72062dd82cb161830b
       friendly_name: null
   - claim_id: 86489a1e-f26f-4e7f-9677-52a3f6a859ae
-    claim_hash: f55b5b3c3925c3c4e46781fb6695d71806f55dfc1d12a9c62e43fe94d39c71d5
+    claim_hash: a16eb980cd5428aff941902e91a990cad42a86ecf2117b90eb64555240fe1d64
     content: Harrison Schmitt had an extra cue card built for panel 229 in the Lunar Module during Apollo 17.
     original_excerpt: I had an extra cue card built for panel 229.
     claim_type: observation
@@ -323,7 +323,7 @@ claims:
       content_hash: sha256:63c518ebd5b9dbaf027b3dcdbc0f7fe2572ff85e4be34b72062dd82cb161830b
       friendly_name: null
   - claim_id: 4486be78-ad2b-4b59-aa5d-5520816825ac
-    claim_hash: add69c6be2657e0d843c508c947ce962aac16914e05b59d2b2c42eb5d8ead53c
+    claim_hash: 5f123ae9b37b2e8c6d95e39cf5a845238d3320f3e275bcdf35c33c1fe90b8a6f
     content: The extra circuit breaker cue card built for panels 229 and 8 during Apollo 17 was not used in flight because
       there were no systems anomalies of significance relating to it.
     original_excerpt: Because we had no systems anomalies of any significance that would relate to that card, it was not used.
@@ -364,7 +364,7 @@ claims:
       content_hash: sha256:63c518ebd5b9dbaf027b3dcdbc0f7fe2572ff85e4be34b72062dd82cb161830b
       friendly_name: null
   - claim_id: 78bdf876-21ec-4f33-8679-aa2f26d20c20
-    claim_hash: b5c9311408de2eb01d36acab8cf47c77069ca6be1f842111620dacafd1b8135d
+    claim_hash: f950e219b79ea7651bac284c3b8c9a661ef6cbb12d36f5ce78629706ef9a3c25
     content: During Apollo 17, alignment data and comparable items were logged in the checklist at the point of collection
       rather than in the data book, without raising any difficulty.
     original_excerpt: We logged most of our specific items such as alignment data and comparable kinds of things in the checklist
@@ -382,10 +382,10 @@ claims:
     attribution_mode: bare_ok
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.997
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.764
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: c76ec8f2-cf2e-4693-b24c-b3ce9c5879d0
         title: Apollo 17
@@ -407,7 +407,7 @@ claims:
       content_hash: sha256:63c518ebd5b9dbaf027b3dcdbc0f7fe2572ff85e4be34b72062dd82cb161830b
       friendly_name: null
   - claim_id: 7ca2c09d-b85b-487c-86aa-14646062e390
-    claim_hash: 05d79224bd02570bbba5b6e1c49f05293dbff19e9b706df2de306d1263c7142c
+    claim_hash: 99c9b91e5d6fca1ebf542befb6e11fef8d15c575a68f6056e83d12d40a39e361
     content: Harrison Schmitt does not recall any procedural errors in any of the checklist books used during Apollo 17.
     original_excerpt: There were just no procedural errors that I recall in any of the books that we used.
     claim_type: observation
@@ -447,7 +447,7 @@ claims:
       content_hash: sha256:63c518ebd5b9dbaf027b3dcdbc0f7fe2572ff85e4be34b72062dd82cb161830b
       friendly_name: null
   - claim_id: d28ff00e-844e-4ff9-956a-8ab00e9e798f
-    claim_hash: 947e2be8ef135d8b5c20da489f08ceaeba1d00e08e66a488ae9d3e8e42eddbcb
+    claim_hash: 6c5b2a738a2d04f260fbd45d24d13d243fc26e0d260daee8f0f37895e303a5f9
     content: During Apollo 17 the crew did not have to use a malfunction book.
     original_excerpt: Fortunately, we didn't have to use a malfunction book.
     claim_type: observation
@@ -487,7 +487,7 @@ claims:
       content_hash: sha256:63c518ebd5b9dbaf027b3dcdbc0f7fe2572ff85e4be34b72062dd82cb161830b
       friendly_name: null
   - claim_id: eaaa8322-4a08-4040-937b-3d565893ec7a
-    claim_hash: f49457959c010dd5a853596a04172f1ac34d0267a4dfa11ac7c8721bfcfa25d9
+    claim_hash: 8f1af3865321b9605317cf9e73255f8c8700bf635de199d9dbad5e538eafd8c0
     content: Harrison Schmitt pulled out the Apollo 17 Systems Data Book only once during the mission to check on a systems
       problem, and could not recall what that problem was.
     original_excerpt: Only once did I pull out the systems data book to check to check on a systems problem, and I right now
@@ -504,10 +504,10 @@ claims:
     attribution_mode: bare_ok
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.994
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.978
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: c76ec8f2-cf2e-4693-b24c-b3ce9c5879d0
         title: Apollo 17
@@ -532,7 +532,7 @@ claims:
       content_hash: sha256:63c518ebd5b9dbaf027b3dcdbc0f7fe2572ff85e4be34b72062dd82cb161830b
       friendly_name: null
   - claim_id: 37d8c6e2-3b64-497d-a10c-66086dd7f2cd
-    claim_hash: 951c9adac1900f9acf99e3344cd6792b58998f72a5b9f06f5f02b91d082f1f84
+    claim_hash: 07c458ec9feb2e89c15d1bd98696fc1b904a6fcbd74c5fc9ddeb34ae2d9289ec
     content: Harrison Schmitt had an extra orbit monitor chart put on board the Command and Service Module during Apollo 17
       so that it would not interfere with the Command Module Pilot's planned activities.
     original_excerpt: I thought in the CSM that I would use the orbit monitor charts. I guess that's what they're called.
@@ -549,10 +549,10 @@ claims:
     attribution_mode: bare_ok
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.978
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.838
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: ae5d2efd-f3df-47d4-9ad6-781323677e47
         title: Command and Service Module (CSM)
@@ -577,7 +577,7 @@ claims:
       content_hash: sha256:63c518ebd5b9dbaf027b3dcdbc0f7fe2572ff85e4be34b72062dd82cb161830b
       friendly_name: null
   - claim_id: 59a628d9-f335-4f0b-9a20-aee599310b0a
-    claim_hash: 9694837265b411bd0a78d2c2d32ac4ceb45ec01fff3854c9fef68f6adaf2c7a8
+    claim_hash: 25b4a0ba52660da96471a7154011907ebf91661eea2d5b98d0ded8061f8db644
     content: Harrison Schmitt did not use the extra orbit monitor chart on Apollo 17 very much.
     original_excerpt: I did not use that very much.
     claim_type: observation
@@ -617,7 +617,7 @@ claims:
       content_hash: sha256:63c518ebd5b9dbaf027b3dcdbc0f7fe2572ff85e4be34b72062dd82cb161830b
       friendly_name: null
   - claim_id: 05f09b9a-84a8-4fc0-bd4b-2c998a9dadaa
-    claim_hash: 422fc787fec90e150ac736838c3a64008d98c29f5010713f8265ba82632333a2
+    claim_hash: b53f5e11f5703ccb379b7845eef4bd9e8a72f383fe908f1ff3eaa10e13bb4863
     content: Harrison Schmitt did not put the orbit monitor chart to as much use as he expected during Apollo 17.
     original_excerpt: But in general, I did not put that to as much use as I expected.
     claim_type: observation
@@ -657,7 +657,7 @@ claims:
       content_hash: sha256:63c518ebd5b9dbaf027b3dcdbc0f7fe2572ff85e4be34b72062dd82cb161830b
       friendly_name: null
   - claim_id: deebc0db-cebf-41e8-92d3-249d5f34981b
-    claim_hash: 07d79ab5e552a5d7f174f96071278dc5b2f99e79da5437ed45ff7fe8479cac2d
+    claim_hash: 0e43c253e00b363fbc0e43077e63584354d178a64707671396eccb5067375327
     content: The Command and Service Module landmark maps added to the rear of a book by the Lunar Module Pilot were not used
       during Apollo 17.
     original_excerpt: The CSM landmark maps that the LNP had added in the rear of that book, again, were not used.
@@ -698,7 +698,7 @@ claims:
       content_hash: sha256:63c518ebd5b9dbaf027b3dcdbc0f7fe2572ff85e4be34b72062dd82cb161830b
       friendly_name: null
   - claim_id: 495e4a2a-2e6f-44b4-8976-06be06bd528a
-    claim_hash: 519b5cf21db8911b38937280ae44afc8d4c89b85c0e5cb16b77c9fbd62a69cc9
+    claim_hash: 8555619fc2c497d3a17585b07c95e8d3b85fbde06f48d2fff8a2ed3dc97a0e8b
     content: During Apollo 17, Harrison Schmitt observed a specific point or area target such as Gagarin on the Moon but became
       reluctant to take time to sketch on a photo while observing it.
     original_excerpt: I really thought I would use those, but you became reluctant as you were observing a specific point
@@ -743,7 +743,7 @@ claims:
       content_hash: sha256:63c518ebd5b9dbaf027b3dcdbc0f7fe2572ff85e4be34b72062dd82cb161830b
       friendly_name: null
   - claim_id: 6908e1b5-b758-4dd4-beb8-d7cf08bd9352
-    claim_hash: 2fd0cda691b2d1505741605498b7dc05ac74ffd9ca686a488878abe8a7d98d7e
+    claim_hash: 04009a00503f8cc7e7db54e25ab312941db960bb7916d5a174770f30ce10d3ab
     content: Harrison Schmitt would still want that kind of landmark map data available in the spacecraft on a future mission
       even though it was not used on Apollo 17.
     original_excerpt: I think I still, if I had to do it again, I still would want to have that kind of data available in
@@ -785,7 +785,7 @@ claims:
       content_hash: sha256:63c518ebd5b9dbaf027b3dcdbc0f7fe2572ff85e4be34b72062dd82cb161830b
       friendly_name: null
   - claim_id: 09be6b17-8a56-4c65-a350-4333acd01c62
-    claim_hash: 1f8a6010057820de553f05b4e91e728206bffee3d68035780b9ee1c212d86d32
+    claim_hash: 7e46cbe2c347298c6b9c4f08fbecd4542f4f2cd4722112cf93321aeb0d901782
     content: Harrison Schmitt observed that the Command Module Pilot used his visual target maps considerably during Apollo
       17.
     original_excerpt: I do think, though, that the CMP used his visual target maps considerably,
@@ -826,7 +826,7 @@ claims:
       content_hash: sha256:63c518ebd5b9dbaf027b3dcdbc0f7fe2572ff85e4be34b72062dd82cb161830b
       friendly_name: null
   - claim_id: 94365f47-d6ff-47d8-9c95-ad9c927fb759
-    claim_hash: c62fe2930a5aef1c48daa7248df74979d6f5346de1c7b95baf500a39b8b51b4c
+    claim_hash: 43b62f80138df5fea015155bfb5b469d790697504fe9137ba1a896956dc9e96e
     content: Harrison Schmitt was not very closely involved in the general flight planning for Apollo 17.
     original_excerpt: I was not very closely involved in the flight planning.
     claim_type: observation
@@ -866,7 +866,7 @@ claims:
       content_hash: sha256:63c518ebd5b9dbaf027b3dcdbc0f7fe2572ff85e4be34b72062dd82cb161830b
       friendly_name: null
   - claim_id: d9686b1d-a568-4bf9-9229-d511a8f4890e
-    claim_hash: c8cd6f960503a440c96831457eee8911bb030a27bbd0a0a2037d03408a917eb3
+    claim_hash: c9eb5e512d034614526bab1d0576804f9f9b52a22d304d6a8b2e2b9348de4c58
     content: Ronald Evans carried the burden of general flight planning for Apollo 17 on behalf of Eugene Cernan and Harrison
       Schmitt.
     original_excerpt: Ron sort of carried the burden of that for both Gene and myself.
@@ -913,7 +913,7 @@ claims:
       content_hash: sha256:63c518ebd5b9dbaf027b3dcdbc0f7fe2572ff85e4be34b72062dd82cb161830b
       friendly_name: null
   - claim_id: f0d2e4a2-3c8d-43c3-b91d-0568dac06f5d
-    claim_hash: 9929e9c033aef3db4a0a81ca712d93a87ca15deb94dc4651311d1a6727d146ea
+    claim_hash: 6760780cd49da0efe4b00a0ff01a8261e5c4225d50b9bb11f078ff94b6126b98
     content: Harrison Schmitt was disappointed that some people eventually intimately involved in the Apollo 17 mission were
       not at the flight plan review, due to conflicts with other programmes at their centre.
     original_excerpt: I was a little bit disappointed in that briefing in that some of the people who would be eventually
@@ -956,7 +956,7 @@ claims:
       content_hash: sha256:63c518ebd5b9dbaf027b3dcdbc0f7fe2572ff85e4be34b72062dd82cb161830b
       friendly_name: null
   - claim_id: 265263e7-bddd-43b2-953f-37869243d776
-    claim_hash: e33224ecb1613dd22d84775d36830007568441ee9480454429d5ef50da4f95bf
+    claim_hash: 51dd59e383974ed55c3947dbc4ccab9c6136a4ca20fed3da22041baf4b6b9a4e
     content: Harrison Schmitt experienced light flashes almost continuously throughout the Apollo 17 flight when dark-adapted.
     original_excerpt: I don't know whether I recorded yet that although we had light flashes just about continuously during
       the whole flight when you were dark-adapted.
@@ -972,10 +972,10 @@ claims:
     attribution_mode: bare_ok
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.998
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.968
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: c76ec8f2-cf2e-4693-b24c-b3ce9c5879d0
         title: Apollo 17
@@ -997,7 +997,7 @@ claims:
       content_hash: sha256:63c518ebd5b9dbaf027b3dcdbc0f7fe2572ff85e4be34b72062dd82cb161830b
       friendly_name: null
   - claim_id: 1d4e0684-ba5b-4e66-acc1-3de386d82b3b
-    claim_hash: 512aab86cf3e89e1d603cc8846a47b26f2d3b75338e755a5443dd2d1fae57a7b
+    claim_hash: 3f85fc1dd6424eb62bb96d8a611014f72d633450a4681bf6170ff86f1bd30614
     content: Harrison Schmitt may have seen a light flash on the lunar surface during the first revolution of Apollo 17.
     original_excerpt: And I may have even had one which I thought was a flash on the lunar surface during the first rev.
     claim_type: observation
@@ -1037,7 +1037,7 @@ claims:
       content_hash: sha256:63c518ebd5b9dbaf027b3dcdbc0f7fe2572ff85e4be34b72062dd82cb161830b
       friendly_name: null
   - claim_id: e6a2adfc-4f11-4185-b85c-5d22d4ecedff
-    claim_hash: e13a75b704bc01ba4fe85b62bcbcdd2c5ab302fe9ce517748d0544b7b928ccff
+    claim_hash: da0600e787498e4729834e226bc347620e5ff85e05368aa228e41472e05b94c9
     content: During the period when the crew wore blindfolds for the ALPMET experiment on Apollo 17, there were no visible
       light flashes.
     original_excerpt: That one period of time when we had the blindfolds on for the ALPMET experiment, there just were no
@@ -1079,7 +1079,7 @@ claims:
       content_hash: sha256:63c518ebd5b9dbaf027b3dcdbc0f7fe2572ff85e4be34b72062dd82cb161830b
       friendly_name: null
   - claim_id: 3aedb2dd-34fe-4f9f-b0f3-aa18477ba570
-    claim_hash: 595f3a6a4e41a9ec03035189af7ce009d18f03525033126f6645f667812e07d9
+    claim_hash: e6b8e629ec6add28b5546b86e21ee9b6167776a45510326cc5469b76cb8513fc
     content: Harrison Schmitt noticed the light flashes returning that evening before he went to sleep, after the ALPMET blindfold
       period on Apollo 17.
     original_excerpt: Although that evening, that night, before I went to sleep, I noticed I was seeing the light flashes
@@ -1121,7 +1121,7 @@ claims:
       content_hash: sha256:63c518ebd5b9dbaf027b3dcdbc0f7fe2572ff85e4be34b72062dd82cb161830b
       friendly_name: null
   - claim_id: 0c5448a4-d511-4589-8a43-80890ee159dd
-    claim_hash: c26bedd9adcba2481dc41088a37819a349df6eb1acd4c4efa6350be4758ec860
+    claim_hash: 2f52ed79808fea6474ee7901db116e36784a03810a19d7eed1caf066c8f21248
     content: Harrison Schmitt observed that the light flash phenomena was not visible to himself or the other two crewmen
       during only that one interval around the ALPMET blindfold experiment.
     original_excerpt: So it just seemed to be that one interval on either side of it where the light flash phenomena was not
@@ -1169,7 +1169,7 @@ claims:
       content_hash: sha256:63c518ebd5b9dbaf027b3dcdbc0f7fe2572ff85e4be34b72062dd82cb161830b
       friendly_name: null
   - claim_id: 65eeb65e-0f5d-44f6-b476-166d71dc973f
-    claim_hash: 5291cb3456d62a95d68f5c4e34f2c230992197d4ffae0b0f16d7870e70099b31
+    claim_hash: ee26a72358237562c65836536ad45caeca727b2f45dc3c1df42b2e007e48befd
     content: There were periods of some difficulty pre-flight for Apollo 17, particularly regarding medical requirements and
       some last-minute scientific requirements on sample collection.
     original_excerpt: although there were periods of some difficulty pre-flight, particularly in the area of medical requirements,
@@ -1212,7 +1212,7 @@ claims:
       content_hash: sha256:63c518ebd5b9dbaf027b3dcdbc0f7fe2572ff85e4be34b72062dd82cb161830b
       friendly_name: null
   - claim_id: e51e6409-b4c8-4f8e-99d4-76e5bfabdca1
-    claim_hash: f8fbf795a3e2805cf88abb4f060c0c4325c783aa6e41460f8be1be670d15bc6a
+    claim_hash: 5ebc9d7ab3d28945483f6ee8482fd41d629ed64da8a21ecee568573f1b3867a1
     content: 'During Apollo 17 pre-flight training, crew-related requirement issues were handled almost entirely by the support
       crew: Bob Parker in the science area, Gordon Fullerton, and Bob Obermeyer in the operational areas.'
     original_excerpt: And occasionally, when the crew had to be involved, that was handled almost entirely by the support
@@ -1263,7 +1263,7 @@ claims:
       content_hash: sha256:63c518ebd5b9dbaf027b3dcdbc0f7fe2572ff85e4be34b72062dd82cb161830b
       friendly_name: null
   - claim_id: d4d0e5ec-e26b-4e40-ba66-ce0572852122
-    claim_hash: b20d4b89e96741b0b551c4cf95c664ab2cb214fbfae0c2e534f4d70c98ba2fc1
+    claim_hash: 2f51f039c6a46f07212f74b26524632b435000c576ebabea0d083afe9753ca4d
     content: There were no significant spacecraft changes during the Apollo 17 crew's training period.
     original_excerpt: There were no significant spacecraft changes in the course of our training period.
     claim_type: observation
@@ -1303,7 +1303,7 @@ claims:
       content_hash: sha256:63c518ebd5b9dbaf027b3dcdbc0f7fe2572ff85e4be34b72062dd82cb161830b
       friendly_name: null
   - claim_id: 8d679ea3-f46f-4b76-bcbe-d5051ea52287
-    claim_hash: e0ec6a12f17d12176bc0e6e1c28ea3b36e78b3e00b4434cdca166dcd5c3448dc
+    claim_hash: ce71ad2a54d1eaf25b3b529a6f97679f3fcbac04207515a22f10617a7500a4ac
     content: Ronald Evans dealt with the Lunar Sounder, which took the most training time of any single area for the Apollo
       17 crew.
     original_excerpt: Ron, I guess the biggest single area that took time was one that Ron had to deal with, and that was
@@ -1351,7 +1351,7 @@ claims:
       content_hash: sha256:63c518ebd5b9dbaf027b3dcdbc0f7fe2572ff85e4be34b72062dd82cb161830b
       friendly_name: null
   - claim_id: 14704e83-82a0-4a36-8feb-07a140d60cce
-    claim_hash: 044374af36933e85fc10fb7060db02d0e8ad54af15424da8a3029a60e6784821
+    claim_hash: 94b9a5ca0829dc54781c94ba2c6c1622f3333f9f58d984ff6bd1302d7c4074c3
     content: Most changes to the Apollo Lunar Surface Experiments Package (ALSEP) for Apollo 17 were taken care of prior to
       crew training, with a few minor suggestions addressed early in the training cycle, resulting in an up-to-date ALSEP
       for training.
@@ -1397,7 +1397,7 @@ claims:
       content_hash: sha256:63c518ebd5b9dbaf027b3dcdbc0f7fe2572ff85e4be34b72062dd82cb161830b
       friendly_name: null
   - claim_id: 7fd1778d-2783-4f16-bf9e-617dfe73936e
-    claim_hash: c024b390a884ef2085a085c3bfa1097cd1a11c36319e7d3c78c2be4d1199861e
+    claim_hash: f49e4cd57f15504bd7825cb513518f64ddba7c12faa620a4ea2f1d8e09e7bedb
     content: All other Apollo 17 lunar surface gear was up-to-date for most of the final twelve months of the training period.
     original_excerpt: and all other lunar surface gear was up-to-date for most of the 12-month training period, or the final
       12 months of the training period.
@@ -1438,7 +1438,7 @@ claims:
       content_hash: sha256:63c518ebd5b9dbaf027b3dcdbc0f7fe2572ff85e4be34b72062dd82cb161830b
       friendly_name: null
   - claim_id: 6adef4b0-890e-4be8-9675-713a721229f0
-    claim_hash: dee746bf53943ff616658f52067b3d6431f2e73d66fbbd2a72b1f8b49f656497
+    claim_hash: 467b44b544da44e7545f4a38b10d9994655db3ff35c8517015dd199727d5853f
     content: Mission rules and techniques for Apollo 17 were fairly well defined early on by Phil Schafer and his group in
       the techniques area, and by Jerry Griffin and others in mission rules.
     original_excerpt: Mission rules and techniques, were fairly well defined very early by Phil Schafer and his crowd in the
@@ -1455,10 +1455,10 @@ claims:
     attribution_mode: bare_ok
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.997
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.444
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 1a14477e-af68-4e87-9f95-f88bc33e6e2b
         title: Jerry Griffin
@@ -1486,7 +1486,7 @@ claims:
       content_hash: sha256:63c518ebd5b9dbaf027b3dcdbc0f7fe2572ff85e4be34b72062dd82cb161830b
       friendly_name: null
   - claim_id: e4d7f653-396c-43b8-806e-634500f853bd
-    claim_hash: fad5db433ef3ec2c8248dbb40e4fc7b3d01b19f9e6295beb9371a2f36560e171
+    claim_hash: 46d30d66d669285b48814561dde64a8d5519c8a33883808c733d3edf63252f7b
     content: Harrison Schmitt considers that the only changes made to Apollo 17 mission rules were in the right direction,
       enhancing the probability of a successful landing and mission.
     original_excerpt: No major changes, and the only changes were all, I felt, in the right direction in that they enhanced
@@ -1528,7 +1528,7 @@ claims:
       content_hash: sha256:63c518ebd5b9dbaf027b3dcdbc0f7fe2572ff85e4be34b72062dd82cb161830b
       friendly_name: null
   - claim_id: 67949f3c-1a33-4497-8ba8-5fea2e5cd6ee
-    claim_hash: eb8fa8ac8bfae165b4eabf59f293ce466f555968f7e19b2703ed129514348904
+    claim_hash: 1e8fa0a21194a0c6f7343ef89ca15832bd6046af65deb20c6ab96ac1a89c42aa
     content: During Apollo 17, the crew never had to exercise the mission rules in an abnormal way.
     original_excerpt: We really never had to exercise any significant—any of the mission rules in an abnormal way.
     claim_type: observation
@@ -1568,7 +1568,7 @@ claims:
       content_hash: sha256:63c518ebd5b9dbaf027b3dcdbc0f7fe2572ff85e4be34b72062dd82cb161830b
       friendly_name: null
   - claim_id: 2384888a-6ac4-4f38-b4cb-4ab29593a5da
-    claim_hash: 6b35cda4fa80ab63e9cab3e28998396abffb2453f34167a6238ba12bdf92d67e
+    claim_hash: 2fc3bc8dbc9d10ca618c9de669e0169903a28c7c8087c099390be58101d373e9
     content: A mission rule was a clearly controlling factor limiting the work at Station 4, Shorty Crater, where the crew
       were up against walkback constraints and terminated the work after only 35 minutes.
     original_excerpt: A mission rule tended to be fairly clearly a controlling factor was in the limitation on the work at
@@ -1613,7 +1613,7 @@ claims:
       content_hash: sha256:63c518ebd5b9dbaf027b3dcdbc0f7fe2572ff85e4be34b72062dd82cb161830b
       friendly_name: null
   - claim_id: 592fbb62-3340-4412-b515-af6dd0c904a3
-    claim_hash: 414b4cc045742204cfdf5af3aca042d1f8bf1187f4642fdde2aa0caf46448320
+    claim_hash: 5bf48f6937deb38d8997c1d5cd137f46221c8cb3c5037ae0e2314b6f3027cdec
     content: Harrison Schmitt considers the support from mission control during Apollo 17 to have been typically outstanding.
     original_excerpt: Typically outstanding support for mission control.
     claim_type: opinion
@@ -1653,7 +1653,7 @@ claims:
       content_hash: sha256:63c518ebd5b9dbaf027b3dcdbc0f7fe2572ff85e4be34b72062dd82cb161830b
       friendly_name: null
   - claim_id: 8e44b3b3-a732-468f-b52a-33a1cdc92562
-    claim_hash: 6f35785d98d976129f6bb32275fc12bf4ee758b10a95ab51270ee7d5f4afa643
+    claim_hash: 342045672ee8d0cda97441acfec7e582aedb3b685944f8eed104a538c4ab4ed1
     content: Mission control personnel designed the emergency cue cards used for the Apollo 17 Lunar Module, which Harrison
       Schmitt considers a major contribution.
     original_excerpt: In fact, as they essentially did it, they did the design of the emergency cue cards that we did for
@@ -1698,7 +1698,7 @@ claims:
       content_hash: sha256:63c518ebd5b9dbaf027b3dcdbc0f7fe2572ff85e4be34b72062dd82cb161830b
       friendly_name: null
   - claim_id: 212032f0-51b9-47a7-a95f-ea2540aa367a
-    claim_hash: 12d8de36009773f3bcc0698ec9d154ce1389369208e2a77df5a70c402f5f4d0e
+    claim_hash: 8a0434e54dc6b53f4c0b854c3f27e4edfcbb729a4892a5e96f1204468c9244cf
     content: The Apollo 17 crew did not end up using the emergency cue cards for the Lunar Module, but they still helped the
       crew understand systems problems quickly and solve them in simulations.
     original_excerpt: Although, fortunately, we did not use them, they still made it possible to understand very quickly systems
@@ -1743,7 +1743,7 @@ claims:
       content_hash: sha256:63c518ebd5b9dbaf027b3dcdbc0f7fe2572ff85e4be34b72062dd82cb161830b
       friendly_name: null
   - claim_id: f8b76919-0399-403f-917e-021ac3215bbc
-    claim_hash: bbfff52f3914a2f66afee0184056eaa428dd9e0f6863e5c30e2e3a539b1a28f0
+    claim_hash: 7fc8f251c3298d55d288532613283fcded7699921d8bd40a2c8fd8e6a9ae8ddd
     content: Dick Thorson helped organise most of the Lunar Module sessions and some of the joint Command and Service Module/Lunar
       Module sessions for Apollo 17.
     original_excerpt: I particularly want to point out the help that Dick Thorson gave in organizing most of the limb sessions
@@ -1794,7 +1794,7 @@ claims:
       content_hash: sha256:63c518ebd5b9dbaf027b3dcdbc0f7fe2572ff85e4be34b72062dd82cb161830b
       friendly_name: null
   - claim_id: 71727d52-ed5f-465f-a86d-24e7956b88d0
-    claim_hash: 375f6f0a4ab3830236511fe2047363719102ab8c9d835f82f2850e8e82522dd9
+    claim_hash: b05cf7a0504379d707210184fcb9cee17b18689da12533a9629daa595792f52f
     content: Dick Thorson was a major organiser of the creation and updating of the Apollo 17 Lunar Module emergency cue cards.
     original_excerpt: and he also, Thorson also was a major organizer of the creation of and the updating of those emergency
       cue cards.
@@ -1838,7 +1838,7 @@ claims:
       content_hash: sha256:63c518ebd5b9dbaf027b3dcdbc0f7fe2572ff85e4be34b72062dd82cb161830b
       friendly_name: null
   - claim_id: 36796e2b-f3db-4b4a-85a0-85e7c0cc9f55
-    claim_hash: 2534cf96f127ef4c362308b258850c80b2f4525f830d06ad0d1a298fb3495d84
+    claim_hash: b459275d06998cee6584ca025ecce78b79133621d621506cf392b28764398022
     content: Harrison Schmitt had hoped to receive a real-time summary of the ground science team's thinking during the Apollo
       17 flight, based on data transmitted verbally and via television camera, but this was not possible due to real-time
       discussions in mission control.
@@ -1884,7 +1884,7 @@ claims:
       content_hash: sha256:63c518ebd5b9dbaf027b3dcdbc0f7fe2572ff85e4be34b72062dd82cb161830b
       friendly_name: null
   - claim_id: cfbbbf7a-46f3-4c39-97aa-1abdf9256830
-    claim_hash: 38c7b22e3dab97ccab13b25dd4ffe97c7a1a045f426d7649b6e7563cbd86a7e1
+    claim_hash: 8dea378db9d80bd5105c1d80feea2615d14d1ad580aadbc47a5f0be0dd8b9876
     content: During Apollo 17, discussion and organisation of the Pre-Flight Health Stabilization Control Program from the
       crew's point of view was borne mainly by the commander, with the Lunar Module Pilot going along with whatever was decided.
     original_excerpt: The brunt of the discussions and organization from the crew point of view of the Pre-Flight Health Stabilization
@@ -1901,10 +1901,10 @@ claims:
     attribution_mode: bare_ok
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.971
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.976
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: a73b0bd3-0a75-4426-82c6-cc7ac9a4ddb1
         title: Pre-Flight Health Stabilization Control Program
@@ -1932,7 +1932,7 @@ claims:
       content_hash: sha256:63c518ebd5b9dbaf027b3dcdbc0f7fe2572ff85e4be34b72062dd82cb161830b
       friendly_name: null
   - claim_id: baa0d48c-f432-47b5-b178-a55a53e93a1d
-    claim_hash: 1427dcb188a4849c02e78de0e44dec9f5ed78aa8f5b6f704dcb69e8d91b26176
+    claim_hash: 70c75b6688209e76197709423656419839a74a6fe2b46730701f95c434553f70
     content: Harrison Schmitt experienced a couple of sinus infections before Apollo 17 that reacted as they always had, and
       were cleared up over 10 days to two weeks.
     original_excerpt: A couple sinus infections I had reacted just like they always had, and we were able over a period of
@@ -1974,7 +1974,7 @@ claims:
       content_hash: sha256:63c518ebd5b9dbaf027b3dcdbc0f7fe2572ff85e4be34b72062dd82cb161830b
       friendly_name: null
   - claim_id: 72e1f2cf-a0df-4e0f-9bba-c57bb8fdd34f
-    claim_hash: 9ccdddaab665acfc57f8931505a4e088ae3b7307282970ab36510b54cfeb6255
+    claim_hash: 3034223f32688c2b2c8f08d9ccc698b0e699d252184b7c13a731709a58677d2c
     content: Harrison Schmitt was able to get a good workout about every other day during Apollo 17 pre-flight training, in
       addition to EVA training workouts.
     original_excerpt: Time for exercise probably was less than it should have been, although I was able to get a good workout
@@ -2016,7 +2016,7 @@ claims:
       content_hash: sha256:63c518ebd5b9dbaf027b3dcdbc0f7fe2572ff85e4be34b72062dd82cb161830b
       friendly_name: null
   - claim_id: 107ac6cd-2b83-4274-920d-ae4c82d07e56
-    claim_hash: 8bc015b7cc246f7e47d0f0ee779c362bea18e00ee3643c782b8d1c008b13b922
+    claim_hash: 53c6add5e82aab9c2445ad48b3e495d23c85c70af94a7640973efc5687ac4907
     content: During Apollo 17 pre-flight training, technicians eventually scheduled exercise time in the late afternoon, which
       helped as a reminder and buffer to ensure exercise was obtained.
     original_excerpt: Eventually, Techs started putting on the schedule time in the late afternoon for exercise, and that
@@ -2058,7 +2058,7 @@ claims:
       content_hash: sha256:63c518ebd5b9dbaf027b3dcdbc0f7fe2572ff85e4be34b72062dd82cb161830b
       friendly_name: null
   - claim_id: 29becc13-ba72-4361-bacf-faf442be3eb1
-    claim_hash: 6616f9398840fe438ad2b2c635fefc0ae696fb9b28aacf9e195a27f3dc5afa14
+    claim_hash: 0280dd950bc95eff130c2e445c3dc8df122423fbdbb5a4299c4e6d3fe78c967d
     content: Harrison Schmitt did not eat everything available to him in his food packages during Apollo 17 in-flight eating,
       and believes he needed to in order to avoid losing weight.
     original_excerpt: Although I did not eat everything that was available to me in my food packages, I apparently needed
@@ -2100,7 +2100,7 @@ claims:
       content_hash: sha256:63c518ebd5b9dbaf027b3dcdbc0f7fe2572ff85e4be34b72062dd82cb161830b
       friendly_name: null
   - claim_id: b7f38b42-7ccf-4271-94f1-f9482c6d5555
-    claim_hash: b4239b37eb24d44c71e35cd6a9d2036410308f7d815d3986e34cf7e41776ae77
+    claim_hash: b6e5fb543fbe9cd7bfc48c6e8c78af6349d2e77b232c300ab734fb641fcc3917
     content: Harrison Schmitt lost weight during Apollo 17 despite a low appetite, and at the time of this recording his weight
       had not returned to pre-flight levels.
     original_excerpt: My appetite was down, but also apparently, for some reason, I had a loss of weight. And at the time
@@ -2143,7 +2143,7 @@ claims:
       content_hash: sha256:63c518ebd5b9dbaf027b3dcdbc0f7fe2572ff85e4be34b72062dd82cb161830b
       friendly_name: null
   - claim_id: 3afb037f-dcf1-4876-8ad1-749a64f1752e
-    claim_hash: b91a57cf8c21e9f2720ada58a7d004c71de54cd8b809244218165dbceb792d2e
+    claim_hash: 8e2b27b50bfc42415fa3c5eed4fa9143e55668a244740c5ada7fe36c82d9cbc3
     content: Harrison Schmitt's appetite was lower in-flight compared to two weeks pre-flight, except during pre-flight food
       testing when he also had a low appetite.
     original_excerpt: the appetite in-flight versus two-weeks pre-flight was less, again, except for when we were testing
@@ -2185,7 +2185,7 @@ claims:
       content_hash: sha256:63c518ebd5b9dbaf027b3dcdbc0f7fe2572ff85e4be34b72062dd82cb161830b
       friendly_name: null
   - claim_id: 848634ca-815a-460e-9333-ab03adeab447
-    claim_hash: 01a3d83b7788ffe8eb0d04823a4d3f77811b0c3bc5598078b76f539ec20626d9
+    claim_hash: a683e8b16db2775a3a16a1ec4b12f0f13da5a5673043af9b20ba4e37e4c8413b
     content: Harrison Schmitt noticed no notable differences in the taste of food between pre-flight and in-flight; foods
       he liked pre-flight he liked in space, and foods he disliked pre-flight he also disliked in space.
     original_excerpt: No notable differences in the taste of food. I think the things I liked pre-flight I liked in space
@@ -2227,7 +2227,7 @@ claims:
       content_hash: sha256:63c518ebd5b9dbaf027b3dcdbc0f7fe2572ff85e4be34b72062dd82cb161830b
       friendly_name: null
   - claim_id: a7fd8860-5882-44bd-9cdf-d145724ce6d3
-    claim_hash: 0f73c0d09d373f00419f6942a95da7d66de94fbf5490c35877519f0747c91b11
+    claim_hash: 5164f7deedabf24c4cd6b68907cc26151118cdd01681b326584203868e9702ca
     content: As the Apollo 17 flight progressed, Harrison Schmitt began to prefer eating wet-pack foods over other solid foods.
     original_excerpt: Change in food preferences of flight progressed. I tended to start to prefer to eat the wet packs and
       would eat those in preference to any of the other solid foods.
@@ -2243,10 +2243,10 @@ claims:
     attribution_mode: bare_ok
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.997
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: c76ec8f2-cf2e-4693-b24c-b3ce9c5879d0
         title: Apollo 17
@@ -2268,7 +2268,7 @@ claims:
       content_hash: sha256:63c518ebd5b9dbaf027b3dcdbc0f7fe2572ff85e4be34b72062dd82cb161830b
       friendly_name: null
   - claim_id: a982bef6-3d2e-4d8c-8313-7ae02a6d37f0
-    claim_hash: e2fd05f05920454bcb0e2f44e6aeae444d39539b9bd2049be8f4a7cf4d0a022e
+    claim_hash: af816afe693312ec7992527ad245ec2700065b1c0ec5913a66668e824a250f78
     content: Harrison Schmitt considered the juices provided during Apollo 17 to be good.
     original_excerpt: The juices were good.
     claim_type: opinion
@@ -2308,7 +2308,7 @@ claims:
       content_hash: sha256:63c518ebd5b9dbaf027b3dcdbc0f7fe2572ff85e4be34b72062dd82cb161830b
       friendly_name: null
   - claim_id: 89d37558-64cc-443c-98c4-5273ab188670
-    claim_hash: 29d5f10b1a8e660395477b399fb082f26f1ffd31059953e7fb1c98630bd37abb
+    claim_hash: 4ec4abc47c35965f1b453d238ebe492234648bebd5978e077babc4ae6787ce90
     content: After one period of loose bowel movements during Apollo 17, Harrison Schmitt cut out potassium-indicated foods,
       and had no further loose bowel movements before the end of the flight.
     original_excerpt: After the first period of one and only period of difficulty with loose bowel movements, I did cut out
@@ -2351,7 +2351,7 @@ claims:
       content_hash: sha256:63c518ebd5b9dbaf027b3dcdbc0f7fe2572ff85e4be34b72062dd82cb161830b
       friendly_name: null
   - claim_id: e6496b20-562f-441f-9bbf-ce6989057dea
-    claim_hash: de4bbebd060a908a7fa42274b25568f651fe533a4b5c13b0642695038e4c5340
+    claim_hash: e8411d0cee1eab303e1fc08d04bb867c6f356134cc47702ffdc4f0139b7d4078
     content: Harrison Schmitt's first bowel movement after the Apollo 17 flight, aboard the USS Ticonderoga, was normal, the
       second was very loose, the third was normal, and the fourth and fifth were very loose.
     original_excerpt: The first bow moment after flight on the Ticonderoga was normal. The second was very loose. The third
@@ -2368,10 +2368,10 @@ claims:
     attribution_mode: bare_ok
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.846
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.896
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 08b830e2-52ea-42a0-8616-e29f48409232
         title: USS Ticonderoga
@@ -2396,7 +2396,7 @@ claims:
       content_hash: sha256:63c518ebd5b9dbaf027b3dcdbc0f7fe2572ff85e4be34b72062dd82cb161830b
       friendly_name: null
   - claim_id: 86cdb456-698f-405e-946b-f01ba790d74b
-    claim_hash: 1120c48da08d20c130a6a06997c8e8050367d588a93c0519887e5c98cc5287ec
+    claim_hash: 72f87fda7d169e034c8cdbc99d838743ec7e852ca50e3c106ff5c479a600c494
     content: Harrison Schmitt's appetite was very low on the first day after the Apollo 17 flight and gradually increased
       over the next two or three days, remaining essentially constant after about the third day.
     original_excerpt: my appetite was very low the first day and gradually increased over the next two or three days and remained
@@ -2438,7 +2438,7 @@ claims:
       content_hash: sha256:63c518ebd5b9dbaf027b3dcdbc0f7fe2572ff85e4be34b72062dd82cb161830b
       friendly_name: null
   - claim_id: 96c1cd13-2934-410e-a6d5-06813fa0b204
-    claim_hash: 2bb82dad1d75a58c755b1f386d2e4d0c48fdf47b92f587477e541252cd218cf1
+    claim_hash: dfc4db524ec6b1c5f0bb54f89145c2b17fac52ad521c456201927a8895ea4260
     content: Harrison Schmitt considers the fruitcake provided during Apollo 17 to have been good, although it was possible
       to eat too much of it.
     original_excerpt: The fruitcake I thought was good, although it was possible to eat too much or to get to a point wher
@@ -2479,7 +2479,7 @@ claims:
       content_hash: sha256:63c518ebd5b9dbaf027b3dcdbc0f7fe2572ff85e4be34b72062dd82cb161830b
       friendly_name: null
   - claim_id: 6eec3541-768f-4bfe-9ee2-cdbb3f0ee64a
-    claim_hash: 5665ac97d8825029c53e707e73988ff04187c0a5774f0fe911ecb0264c34be9f
+    claim_hash: 0a9ccd4dfebd8d972b69dcfedd85713c45079e86f366506001a66aaa43804282
     content: Food rehydration during Apollo 17 went nominally, with nominal gas present.
     original_excerpt: Rehydration went, I think, nominally, and the nominal gas was present.
     claim_type: observation
@@ -2519,7 +2519,7 @@ claims:
       content_hash: sha256:63c518ebd5b9dbaf027b3dcdbc0f7fe2572ff85e4be34b72062dd82cb161830b
       friendly_name: null
   - claim_id: de500c2f-97a6-4d0c-9c4c-8e9239240434
-    claim_hash: 4b43724b2337910ffe60f4e17a1b6ebb305e980df8057d24d03c0d61cb96447a
+    claim_hash: 3f27ace699b89ca8365dcf9b3b0d7d6b9241d9bb9f0ea2697fe081b9006f67bd
     content: During Apollo 17, germicidal tablets were used in all the juice bags, food spoon bowl bags, and wet packs, but
       not in the tea and coffee.
     original_excerpt: We used the germicidal tablets. I did, at any rate, in all the juice bags and the food spoon bowl bags
@@ -2536,10 +2536,10 @@ claims:
     attribution_mode: bare_ok
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.983
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.998
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: c76ec8f2-cf2e-4693-b24c-b3ce9c5879d0
         title: Apollo 17
@@ -2561,7 +2561,7 @@ claims:
       content_hash: sha256:63c518ebd5b9dbaf027b3dcdbc0f7fe2572ff85e4be34b72062dd82cb161830b
       friendly_name: null
   - claim_id: fb68bdb9-1819-4723-a2f9-a341c1ba1889
-    claim_hash: a6818dbd0e341a8b8653233fa806f1e44474676551306345895a038f64c8bb7f
+    claim_hash: c978bc96b65020bdbcc9c5faf22c06ff3770d9994ad48e1e4cedb37022becc5b
     content: Undesirable odours in the spacecraft cabin during Apollo 17 were at a minimum, occurring occasionally from passing
       gas by crewmen including Harrison Schmitt.
     original_excerpt: Undesirable odors, really, except for the passing of gas occasionally, By the other crewmen and some
@@ -2578,10 +2578,10 @@ claims:
     attribution_mode: bare_ok
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.973
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.998
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: c76ec8f2-cf2e-4693-b24c-b3ce9c5879d0
         title: Apollo 17
@@ -2603,7 +2603,7 @@ claims:
       content_hash: sha256:63c518ebd5b9dbaf027b3dcdbc0f7fe2572ff85e4be34b72062dd82cb161830b
       friendly_name: null
   - claim_id: 11c18550-0164-49a5-acfa-44459f16de3f
-    claim_hash: d3ae610773698c4a53c137dfd14f7d488a2f568501254ea7247ea3d31bc774b2
+    claim_hash: 6d34d250a31ec4a68891b6fd5865e2d57a4dbf1a79aa6949387a13c7a9fca0e7
     content: Harrison Schmitt did not find the cabin atmosphere unpleasant as a general rule during Apollo 17.
     original_excerpt: I did not find that the atmosphere was unpleasant as a general rule.
     claim_type: observation
@@ -2643,7 +2643,7 @@ claims:
       content_hash: sha256:63c518ebd5b9dbaf027b3dcdbc0f7fe2572ff85e4be34b72062dd82cb161830b
       friendly_name: null
   - claim_id: 229b620a-11f1-4b73-939a-2120cf15ec5b
-    claim_hash: b77772b19f5146de5f154b6b20c1620ca01c2d09a6da86ce21c277d449c5ab62
+    claim_hash: b6dced68ff4f1081bc4a55b6a9f99caec7ae464e7ff466cbb1038644069f6e89
     content: During Apollo 17, the quantity of food eaten on the lunar surface was high, though probably no more than half
       of the food that was available.
     original_excerpt: The quantity of food eaten on the lunar surface I think was high, although probably no more than half
@@ -2685,7 +2685,7 @@ claims:
       content_hash: sha256:63c518ebd5b9dbaf027b3dcdbc0f7fe2572ff85e4be34b72062dd82cb161830b
       friendly_name: null
   - claim_id: 8f1d252d-cc3d-4872-8e5d-26330162425a
-    claim_hash: ec4ed18391a4d5dcbb943cdcb90cbdd2d240ec29fe98b3a4b5c6ba3204ab6c86
+    claim_hash: f5994c83a4dcfb8f07a9ea22a73804096ee81d1bfb096e1b1e14128a625dab21
     content: During Apollo 17, a blue bag was used for defecation, which Harrison Schmitt described as not a bad method unless
       the stool was loose.
     original_excerpt: We used a blue bag. The blue bag is not a bad way to to defecate unless the stool is loose.
@@ -2701,10 +2701,10 @@ claims:
     attribution_mode: bare_ok
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.998
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.965
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: c76ec8f2-cf2e-4693-b24c-b3ce9c5879d0
         title: Apollo 17
@@ -2726,7 +2726,7 @@ claims:
       content_hash: sha256:63c518ebd5b9dbaf027b3dcdbc0f7fe2572ff85e4be34b72062dd82cb161830b
       friendly_name: null
   - claim_id: 59823a5d-0bac-485b-adce-31eac3ddd183
-    claim_hash: eae74ace67bdca23467d228724c7b40322f3c2e29ce8ad55e18cc3c7d3d271e4
+    claim_hash: 595c4ba87ffcfe69b4b646580b759597cb8a274a0b0862f2dbc18c6101c41ae4
     content: On Apollo 17, the onset of a loose-stool problem was delayed until about the 11th or 12th day, unlike on Apollo
       16.
     original_excerpt: I think it's important to try to understand why Apollo 17 was different than 16, and at least in the
@@ -2771,7 +2771,7 @@ claims:
       content_hash: sha256:63c518ebd5b9dbaf027b3dcdbc0f7fe2572ff85e4be34b72062dd82cb161830b
       friendly_name: null
   - claim_id: b2c46bfc-b128-404b-b83d-0218fcbf0e75
-    claim_hash: 6e5c8f94276e754a1074033b79ff6f1f87961f6197c78b31afe31a55ffa31c26
+    claim_hash: 754f25becc694dc2a051771d6b62392626932b902b8590844bda3b6922bc0db2
     content: Eugene Cernan, as commander of Apollo 17, had no problem with loose stools during the mission.
     original_excerpt: And in the case of the commander, no problem with loose tools.
     claim_type: observation
@@ -2811,7 +2811,7 @@ claims:
       content_hash: sha256:63c518ebd5b9dbaf027b3dcdbc0f7fe2572ff85e4be34b72062dd82cb161830b
       friendly_name: null
   - claim_id: 31cfa078-9577-4437-b151-3abf534ab345
-    claim_hash: beaf71fef71464b4ea9d7eebc6173b04adf09efca05afdcd1e3874d35e89717f
+    claim_hash: 3a66283c09a4a76d3c82a86945dc02eacc13fddacc4ab64ddb98cf5578546feb
     content: Harrison Schmitt's personal opinion, based on limited in-flight observation and consideration of electrolyte
       intake levels, was that the reduced electrolyte quantity compared to Apollo 16 meant electrolyte saturation was not
       reached until the 11th or 12th day for the Command Module Pilot and Lunar Module Pilot on Apollo 17.
@@ -2858,7 +2858,7 @@ claims:
       content_hash: sha256:63c518ebd5b9dbaf027b3dcdbc0f7fe2572ff85e4be34b72062dd82cb161830b
       friendly_name: null
   - claim_id: 086771d4-46e2-458d-8057-847a595f107d
-    claim_hash: 72504f88da0f95dab15195758bfba98754bb6f06fb3e65c7677247b1bf1c446e
+    claim_hash: a962b7a55e213f37c30ba0f84b2feb6c94b5301d898813edd5a7d6c3a32c8040
     content: Harrison Schmitt reduced his own electrolyte intake on his own initiative during Apollo 17.
     original_excerpt: This is what I did on my own.
     claim_type: observation
@@ -2898,7 +2898,7 @@ claims:
       content_hash: sha256:63c518ebd5b9dbaf027b3dcdbc0f7fe2572ff85e4be34b72062dd82cb161830b
       friendly_name: null
   - claim_id: 080032a6-5896-4d14-93c6-5ad24c0641fb
-    claim_hash: e9eb498ddf25477254e31bf7649a51ae7c18eb85b401c22475581e4df5df90a1
+    claim_hash: b8f38d43e36fbd373f6e562d8817b3e8a51915e1d565f9fecfa451ccde778d50
     content: Whether reducing electrolyte intake worked to prevent further loose stools was hard to say because the Apollo
       17 flight ended before any other stool problems occurred.
     original_excerpt: whether or not it worked or not is hard to say because the flight was terminated before any other stools
@@ -2940,7 +2940,7 @@ claims:
       content_hash: sha256:63c518ebd5b9dbaf027b3dcdbc0f7fe2572ff85e4be34b72062dd82cb161830b
       friendly_name: null
   - claim_id: f57caec5-26f9-46be-81fd-c9944e69b43b
-    claim_hash: a92c8b419266c195b1e443331f7d2337b1a850a9f3f4a830f835fda55a363a28
+    claim_hash: 20a5477d8446e71f753a9611c533127cfb766b8691877282bad9e803f02a97bf
     content: The gas-water separator did not work very effectively during Apollo 17.
     original_excerpt: Gas water separator didn't work very effectively, and I'm sure that's been discussed elsewhere.
     claim_type: observation
@@ -2980,7 +2980,7 @@ claims:
       content_hash: sha256:63c518ebd5b9dbaf027b3dcdbc0f7fe2572ff85e4be34b72062dd82cb161830b
       friendly_name: null
   - claim_id: 79100e7b-36ac-4cfa-8b52-b76e8b5145b3
-    claim_hash: 103af9b2f4d71322566caddee2694d37506f21326874c2ff810f417cfbbbaa5a
+    claim_hash: 629a6f9b3b9f12ff170c8aaac95f19764aa1c11607711845fd0ec73bc6cbc919
     content: The war.gov/UFOs release included one of the Apollo 17 images showing a triangular arrangement of blue lights,
       scanned from the US National Archives.
     original_excerpt: one of the Apollo images they showed from Apollo 17 of this triangular arrangement of blue lights, They
@@ -3025,7 +3025,7 @@ claims:
       content_hash: sha256:f37882ab1f880101b3e452e3802d7afc296c07eb413f65ebea554984f3b8cdef
       friendly_name: null
   - claim_id: 0bee9c25-e7d4-4853-87e8-a11987e4736e
-    claim_hash: 9d5f9579e7bea2bd85346af3660588099ec3ba1e57ecf3caef0d23cff80709c7
+    claim_hash: d114cde2b7d404c0652bc99ad2ba341cb7a745fbb4aad76dac43a2af72cc775a
     content: The March to the Moon Archive offers a 1.3 gigabyte TIF file of the Apollo 17 triangular blue-lights image at
       much higher resolution, showing more detailed structure in the lights than the version released by the Department of
       War.
@@ -3069,7 +3069,7 @@ claims:
       content_hash: sha256:f37882ab1f880101b3e452e3802d7afc296c07eb413f65ebea554984f3b8cdef
       friendly_name: null
   - claim_id: 52c9411c-7bf3-4201-9d86-1cd9bf9f901b
-    claim_hash: 502b02a2f489d9a3b19d9c1b8702e4ad1ec9d1542a46b4195cbdd17268542303
+    claim_hash: be509b12738c3fc4cd583392a0769810d0ba413b7de99f6b853b527b1af485f8
     content: In its commentary on the Apollo 17 image of three blue lights, the United States Department of War did not describe
       them as three objects but used the term "potentially a physical object" in the singular.
     original_excerpt: They didn't say it was three objects. They actually used the term potentially a physical object singular.
@@ -3085,10 +3085,10 @@ claims:
     attribution_mode: unknown
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.998
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 2d16e9ea-f92d-4e97-9835-0a1a739ffba6
         title: United States Department of War
@@ -3110,7 +3110,7 @@ claims:
       content_hash: sha256:f37882ab1f880101b3e452e3802d7afc296c07eb413f65ebea554984f3b8cdef
       friendly_name: null
   - claim_id: 9c228f00-3236-4d9e-9a47-7a18bdd94645
-    claim_hash: 838e023070d04e5ac6375dd41151a3a9362ac244b4cffa0a75abbbd88ef77812
+    claim_hash: 2b62d31287dc049ec23bc069ed3fad5cb73a3638fed6d1bd52e18c6d7fbee17d
     content: The individual blue lights in the Apollo 17 image are approximately the same size and roughly equally separated
       from one another, occupying an extremely small area of the black lunar sky.
     original_excerpt: the individual blue lights are about the same size, virtually the same size, virtually equally separated
@@ -3152,7 +3152,7 @@ claims:
       content_hash: sha256:f37882ab1f880101b3e452e3802d7afc296c07eb413f65ebea554984f3b8cdef
       friendly_name: null
   - claim_id: eaf26e6f-7474-4a45-9808-cfbcfbcfb744
-    claim_hash: 40f436b2a576a7c19b1e1cb8e8df1b5f85ca7ef574c80fc727a1432d085ae505
+    claim_hash: 82980f51330b8b27988bde757e610b7e52bf35820c1417ca44665f3569f26564
     content: Maaneli "Max" Derakhshani considers a cosmic-ray-bombardment explanation for the blue lights in the Apollo 17
       image to be highly implausible, given their size, spacing, and small area occupied.
     original_excerpt: prosaic explanations along the lines of maybe cosmic rays bombarding the film become highly implausible
@@ -3169,10 +3169,10 @@ claims:
     attribution_mode: unknown
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.997
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.982
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: b258ba79-75af-4717-8da2-cd62d86428e6
         title: Maaneli "Max" Derakhshani
@@ -3194,7 +3194,7 @@ claims:
       content_hash: sha256:f37882ab1f880101b3e452e3802d7afc296c07eb413f65ebea554984f3b8cdef
       friendly_name: null
   - claim_id: 2d12d0c3-be04-434a-b8fe-5d34000dcdbe
-    claim_hash: 51f462421037392c96252ed558d6c7f5361492146ee5ccd68fd25a94d560f51f
+    claim_hash: 93ec01e2e95610c677927a67743967e4789e21ff9f3246b2dd2f0ff5cf4abd97
     content: Multiple scans of the Apollo 17 triangular blue-lights frame exist in different NASA, US military, and US government
       archives, each showing the trio of blue lights in exactly the same configuration and place, ruling out scanning artifacts
       as the cause.
@@ -3238,7 +3238,7 @@ claims:
       content_hash: sha256:f37882ab1f880101b3e452e3802d7afc296c07eb413f65ebea554984f3b8cdef
       friendly_name: null
   - claim_id: db3a4b99-9ad7-45b3-aab3-4b92c3e59548
-    claim_hash: 693da59c65f6e32794a1a19e698b84993df6ffbcd26e93c93194f402fe9db7c7
+    claim_hash: cfc7d682c2e4fe4abdda0429613371d644db4ce55cc66de4f7955eb52e7f289c
     content: Maaneli "Max" Derakhshani considers it possible that the blue lights in the Apollo 17 image are part of some
       sort of physical object in the lunar sky.
     original_excerpt: one has to consider the possibility that these are part of some sort of physical object in the lunar
@@ -3280,7 +3280,7 @@ claims:
       content_hash: sha256:f37882ab1f880101b3e452e3802d7afc296c07eb413f65ebea554984f3b8cdef
       friendly_name: null
   - claim_id: 9df814bc-4062-4b6f-b0fd-359e531799ca
-    claim_hash: 7ec72b502dd70bb779ea21f750b724850ae904a4dd60e712972ad9359a8b1c59
+    claim_hash: 99b74c04e9b5d74cd3d32d97ba2978dd022fe1fd5bda457575f69966018b2ca8
     content: NASA and the United States Department of War said they acquired the original Apollo 17 film of the blue-lights
       image and would conduct further analyses and report their findings.
     original_excerpt: they said that they acquired the original film and they're going to do further analyses, both NASA and,
@@ -3325,7 +3325,7 @@ claims:
       content_hash: sha256:f37882ab1f880101b3e452e3802d7afc296c07eb413f65ebea554984f3b8cdef
       friendly_name: null
   - claim_id: b56b72ba-bdde-4cde-aad2-0134f997f3f9
-    claim_hash: 9928d84d8d4389e9d1ef9eba713b4bf7db9d68ae2c277c7682e52f5b3a7ec367
+    claim_hash: 1e1b7b14ddf68d4076a890d3239d26563d6d02195a98433d97f230ae4556f5b8
     content: Avi Loeb of the Galileo Project speculated that the blue lights seen in imagery from the Apollo 12 and Apollo
       17 missions were camera artifacts, possibly caused by diffraction of dust inside the camera lens.
     original_excerpt: Professor Avi Loeb from the Galileo Project suggested, he speculated that the blue lights that were
@@ -3374,7 +3374,7 @@ claims:
       content_hash: sha256:f37882ab1f880101b3e452e3802d7afc296c07eb413f65ebea554984f3b8cdef
       friendly_name: null
   - claim_id: 29e00399-a0f0-4e88-96d1-22282326db23
-    claim_hash: 72667305683f15cd305076e33ddfbe1e068cb61334edbeeab99df608338b969f
+    claim_hash: 80d03781201848be867794a17f64fd9c9ad8b92b1d5c3dc19cef58215241a556
     content: Maaneli "Max" Derakhshani considers Avi Loeb's prosaic explanation of the Apollo 17 blue-lights anomaly to be
       very contrived.
     original_excerpt: I think that that is a very contrived prosaic explanation of the UAP anomaly in the Apollo 17 image.
@@ -3390,10 +3390,10 @@ claims:
     attribution_mode: unknown
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.993
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.797
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 5f29d662-0d3b-4af3-ab7d-16cbb0a33d30
         title: Avi Loeb
@@ -3418,7 +3418,7 @@ claims:
       content_hash: sha256:f37882ab1f880101b3e452e3802d7afc296c07eb413f65ebea554984f3b8cdef
       friendly_name: null
   - claim_id: db0cc089-c380-4ce5-a45a-875a40f0a3e6
-    claim_hash: d532f41a50618709212a64222fbdb89e39b174280ca626422936cc8dc66250b8
+    claim_hash: 7b658494417e4eca2e521328a818c7149b06ca7494a3b8a034cb76b1f209085a
     content: Multiple scans of the Apollo 17 blue-lights frame from different scanners across different decades show the same
       exact anomaly, ruling out a scanning-artifact explanation.
     original_excerpt: in terms of scanning artifacts, well, that is not really plausible because we have multiple scans showing
@@ -3461,7 +3461,7 @@ claims:
       content_hash: sha256:f37882ab1f880101b3e452e3802d7afc296c07eb413f65ebea554984f3b8cdef
       friendly_name: null
   - claim_id: 854391a3-bfd7-465c-b66b-fde8a33646ab
-    claim_hash: 3721ae649b8692dc48d30d5a260953c1c9edbbd61443018519eb9c3f632b64ce
+    claim_hash: 65341e962fd26f33bddd5feaab530ffbeb276b7f91d1c298966b81fb5ff5a14a
     content: NASA's documented examples of Hasselblad electrical-spark artifacts look nothing like the blue-light phenomena
       seen in the Apollo 17 image.
     original_excerpt: All the examples they give of that look absolutely nothing whatsoever like any of these blue light phenomena.
@@ -3505,7 +3505,7 @@ claims:
       content_hash: sha256:f37882ab1f880101b3e452e3802d7afc296c07eb413f65ebea554984f3b8cdef
       friendly_name: null
   - claim_id: 65544a67-c966-457b-b581-cb8f08995821
-    claim_hash: 7d7339df78b2abafa2d43fb202b7ff5bd470ee0853de6cef3477516f206d50f0
+    claim_hash: 01baf113a165eae067ff3f0bed12478fef32b8eb629169c55f247830ee79cca5
     content: The United States Department of War made its "potentially a physical object" declaration about only the one Apollo
       17 triangular blue-lights image, not about other lunar anomalies.
     original_excerpt: It's only made that declaration with that one Apollo 17 three dotted image.
@@ -3546,7 +3546,7 @@ claims:
       content_hash: sha256:f37882ab1f880101b3e452e3802d7afc296c07eb413f65ebea554984f3b8cdef
       friendly_name: null
   - claim_id: 528520fa-37ed-4458-9148-2ad6dfa44cda
-    claim_hash: 5e7c95cf0a9e4e42189bbc522317ade0108561102b28b4614b93d3fbd046cef4
+    claim_hash: bc051458c5f1afe3371852e199a61df744e55e8397bd6d65c43bbdb032ff42c8
     content: The United States Department of War has itself raised the Apollo 17 dots as anomalous phenomena and as a physical
       object, according to Ross Coulthart.
     original_excerpt: we have quite clearly anomalous phenomena that have been raised as such by the Department of War, not

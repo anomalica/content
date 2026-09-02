@@ -1,5 +1,5 @@
 schema: anomalica/brief/1
-brief_hash: bafa27820579c706d9fa27a7551af9b42220d08cc9aaee95e6435b8f8641270b
+brief_hash: a13314eef62e90ee05ea05eaca4f0507136cb9445b626870404bb42a667fe7c8
 page:
   kind: entity
   node_id: 2d16e9ea-f92d-4e97-9835-0a1a739ffba6
@@ -9,7 +9,7 @@ page:
   claim_count: 15
   claim_count_total: 15
 generated:
-  graph_version: '2026-09-02T13:07:29.167026+00:00'
+  graph_version: '2026-09-02T14:12:13.257772+00:00'
 size:
   claims: 15
   tokens_estimated: 2166
@@ -17,13 +17,13 @@ size:
 entailment:
   assessed: 15
   unassessed: 0
-  entails: 10
-  neutral: 4
+  entails: 11
+  neutral: 3
   contradicts: 1
   entailed_by_quote: 4
-  entailed_by_window: 6
+  entailed_by_window: 7
   entailed_by_quote_fraction: 0.267
-  entailed_by_window_fraction: 0.4
+  entailed_by_window_fraction: 0.467
 publication:
   status: published
   note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
@@ -162,7 +162,7 @@ claims:
       content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
       friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
   - claim_id: 67c9f2d3-4014-4e69-b97f-03236794c497
-    claim_hash: b7ac3a0194db8446c688ad6d87f799e1e8b242d53d0f4b4d68f165c021e647d3
+    claim_hash: b71a0ec5441de3c43e3c130a197f8b0764c6395543d574808403d1a6aeb821e6
     content: The United States Department of War constructed the Pentagon at the beginning of World War II.
     original_excerpt: The US Department of War constructed the building at the beginning of World War II
     claim_type: administrative
@@ -286,7 +286,7 @@ claims:
       content_hash: sha256:f37882ab1f880101b3e452e3802d7afc296c07eb413f65ebea554984f3b8cdef
       friendly_name: null
   - claim_id: 52c9411c-7bf3-4201-9d86-1cd9bf9f901b
-    claim_hash: 502b02a2f489d9a3b19d9c1b8702e4ad1ec9d1542a46b4195cbdd17268542303
+    claim_hash: be509b12738c3fc4cd583392a0769810d0ba413b7de99f6b853b527b1af485f8
     content: In its commentary on the Apollo 17 image of three blue lights, the United States Department of War did not describe
       them as three objects but used the term "potentially a physical object" in the singular.
     original_excerpt: They didn't say it was three objects. They actually used the term potentially a physical object singular.
@@ -302,10 +302,10 @@ claims:
     attribution_mode: unknown
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.998
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 2d16e9ea-f92d-4e97-9835-0a1a739ffba6
         title: United States Department of War
@@ -327,7 +327,7 @@ claims:
       content_hash: sha256:f37882ab1f880101b3e452e3802d7afc296c07eb413f65ebea554984f3b8cdef
       friendly_name: null
   - claim_id: 9df814bc-4062-4b6f-b0fd-359e531799ca
-    claim_hash: 7ec72b502dd70bb779ea21f750b724850ae904a4dd60e712972ad9359a8b1c59
+    claim_hash: 99b74c04e9b5d74cd3d32d97ba2978dd022fe1fd5bda457575f69966018b2ca8
     content: NASA and the United States Department of War said they acquired the original Apollo 17 film of the blue-lights
       image and would conduct further analyses and report their findings.
     original_excerpt: they said that they acquired the original film and they're going to do further analyses, both NASA and,
@@ -414,7 +414,7 @@ claims:
       content_hash: sha256:f37882ab1f880101b3e452e3802d7afc296c07eb413f65ebea554984f3b8cdef
       friendly_name: null
   - claim_id: 65544a67-c966-457b-b581-cb8f08995821
-    claim_hash: 7d7339df78b2abafa2d43fb202b7ff5bd470ee0853de6cef3477516f206d50f0
+    claim_hash: 01baf113a165eae067ff3f0bed12478fef32b8eb629169c55f247830ee79cca5
     content: The United States Department of War made its "potentially a physical object" declaration about only the one Apollo
       17 triangular blue-lights image, not about other lunar anomalies.
     original_excerpt: It's only made that declaration with that one Apollo 17 three dotted image.
@@ -521,9 +521,9 @@ claims:
     attachment: unreviewed
     entailment:
       label: neutral
-      score: 0.998
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      score: 0.543
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 2d16e9ea-f92d-4e97-9835-0a1a739ffba6
         title: United States Department of War
@@ -599,7 +599,7 @@ claims:
       content_hash: sha256:f37882ab1f880101b3e452e3802d7afc296c07eb413f65ebea554984f3b8cdef
       friendly_name: null
   - claim_id: 528520fa-37ed-4458-9148-2ad6dfa44cda
-    claim_hash: 5e7c95cf0a9e4e42189bbc522317ade0108561102b28b4614b93d3fbd046cef4
+    claim_hash: bc051458c5f1afe3371852e199a61df744e55e8397bd6d65c43bbdb032ff42c8
     content: The United States Department of War has itself raised the Apollo 17 dots as anomalous phenomena and as a physical
       object, according to Ross Coulthart.
     original_excerpt: we have quite clearly anomalous phenomena that have been raised as such by the Department of War, not

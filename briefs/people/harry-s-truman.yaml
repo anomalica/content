@@ -1,5 +1,5 @@
 schema: anomalica/brief/1
-brief_hash: f9fe925c4bcc8f462229397181de7c2de64179866e5c62892103f0a123b04ba5
+brief_hash: accf3ec28ec2152ac81f752b5295009a9a746d8028bc8982585a0be793f41645
 page:
   kind: entity
   node_id: 589d7469-f87f-4da5-afa8-cabca7be6818
@@ -9,7 +9,7 @@ page:
   claim_count: 36
   claim_count_total: 36
 generated:
-  graph_version: '2026-09-02T13:07:29.167026+00:00'
+  graph_version: '2026-09-02T14:12:13.257772+00:00'
 size:
   claims: 36
   tokens_estimated: 5926
@@ -17,13 +17,13 @@ size:
 entailment:
   assessed: 36
   unassessed: 0
-  entails: 28
-  neutral: 6
+  entails: 30
+  neutral: 4
   contradicts: 2
   entailed_by_quote: 9
-  entailed_by_window: 19
+  entailed_by_window: 21
   entailed_by_quote_fraction: 0.25
-  entailed_by_window_fraction: 0.528
+  entailed_by_window_fraction: 0.583
 publication:
   status: published
   note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
@@ -781,7 +781,7 @@ claims:
       content_hash: sha256:eda11247c8b061a87c50e7b919534a7201f12ef917f25680fe585121abef783c
       friendly_name: null
   - claim_id: 21fc3a8e-e021-4578-ace4-d2fa01dcbf3f
-    claim_hash: 2ac36ddf8c5f5131544b01e8b9a6e21f82a70c326c63c6bedfe4e919ab6c1fd6
+    claim_hash: cfcfdb5b45750fda7c718570720d44ef26427eabf8db3d921584371f6d74634f
     content: Top constitutional lawyers consulted by Ross Coulthart can see no basis under which successive United States
       presidents could be bound by an executive order signed under Dwight D. Eisenhower or Harry S. Truman into not being
       briefed on the UFO programme even when they requested it.
@@ -809,12 +809,12 @@ claims:
       - node_id: 0bbdac2d-a855-466a-a051-2afa64a779e2
         title: UAP crash retrieval and reverse engineering program
         slug: uap-crash-retrieval-and-reverse-engineering-program
-      - node_id: 459eb5cf-ea76-4cad-9421-a726261cd3a2
-        title: William J. Clinton
-        slug: william-j-clinton
       - node_id: 589d7469-f87f-4da5-afa8-cabca7be6818
         title: Harry S. Truman
         slug: harry-s-truman
+      - node_id: c8b2f71c-febf-446f-9b1e-3e6bdc6c86c5
+        title: William J. Clinton
+        slug: william-j-clinton
       - node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
         title: Ross Coulthart
         slug: ross-coulthart
@@ -1143,10 +1143,10 @@ claims:
     attribution_mode: unknown
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.995
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.998
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 589d7469-f87f-4da5-afa8-cabca7be6818
         title: Harry S. Truman
@@ -1329,10 +1329,10 @@ claims:
     attribution_mode: bare_ok
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.997
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.995
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 589d7469-f87f-4da5-afa8-cabca7be6818
         title: Harry S. Truman
@@ -1508,9 +1508,9 @@ claims:
     attachment: unreviewed
     entailment:
       label: neutral
-      score: 0.997
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      score: 0.492
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 589d7469-f87f-4da5-afa8-cabca7be6818
         title: Harry S. Truman

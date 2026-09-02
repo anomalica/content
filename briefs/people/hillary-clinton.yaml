@@ -1,5 +1,5 @@
 schema: anomalica/brief/1
-brief_hash: 0ac4dc6367e5bc935b493f06c6ead67334ccbfd3645dbfb0e8008066a6d74692
+brief_hash: 4822b6de49b0a0155167b003b8dbc1af35c5d102b6283b481f7979a74ff02bc7
 page:
   kind: entity
   node_id: 33ae3380-25ea-442a-9d60-69b285a20182
@@ -9,7 +9,7 @@ page:
   claim_count: 21
   claim_count_total: 21
 generated:
-  graph_version: '2026-09-02T13:07:29.167026+00:00'
+  graph_version: '2026-09-02T14:12:13.257772+00:00'
 size:
   claims: 21
   tokens_estimated: 2985
@@ -17,13 +17,13 @@ size:
 entailment:
   assessed: 21
   unassessed: 0
-  entails: 11
-  neutral: 9
+  entails: 12
+  neutral: 8
   contradicts: 1
   entailed_by_quote: 9
-  entailed_by_window: 2
+  entailed_by_window: 3
   entailed_by_quote_fraction: 0.429
-  entailed_by_window_fraction: 0.095
+  entailed_by_window_fraction: 0.143
 publication:
   status: published
   note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
@@ -53,7 +53,7 @@ related_nodes:
     node_type: person
     slug: john-podesta
     shared_claims: 4
-  - node_id: 459eb5cf-ea76-4cad-9421-a726261cd3a2
+  - node_id: c8b2f71c-febf-446f-9b1e-3e6bdc6c86c5
     title: William J. Clinton
     node_type: person
     slug: william-j-clinton
@@ -160,7 +160,7 @@ related_nodes:
     shared_claims: 1
 claims:
   - claim_id: 5e2d2d7b-6470-4d6a-87c6-e95a892c2b19
-    claim_hash: de2601b6c9ad8713083d6b3ab5491fe2de2f9d66cf0ec3c04cf477a4e00c8c98
+    claim_hash: c8d711f684a5196e3469c1dbb0c35240de8df5bfa74772073fbba8c32ffcc8be
     content: On entering the White House in 1993, both Bill Clinton and Hillary Clinton took a strong interest in UAPs.
     original_excerpt: What is known is that, on entering the White House in 1993, both Bill and Hillary Clinton took a strong
       interest in UAPs
@@ -182,15 +182,15 @@ claims:
       - node_id: 33ae3380-25ea-442a-9d60-69b285a20182
         title: Hillary Clinton
         slug: hillary-clinton
-      - node_id: 459eb5cf-ea76-4cad-9421-a726261cd3a2
-        title: William J. Clinton
-        slug: william-j-clinton
       - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
         title: Unidentified Anomalous Phenomena (UAP)
         slug: unidentified-anomalous-phenomena-uap
       - node_id: 9da33243-6854-43d4-b60d-fbeeb284787e
         title: USA, District of Columbia, Washington
         slug: district-of-columbia-washington-usa
+      - node_id: c8b2f71c-febf-446f-9b1e-3e6bdc6c86c5
+        title: William J. Clinton
+        slug: william-j-clinton
     date: '1993'
     date_end: null
     location_in_record: ch14:1424-1540
@@ -469,7 +469,7 @@ claims:
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
   - claim_id: 79bece11-f229-43bb-832d-42c337d7c6e9
-    claim_hash: 7909cb798bb6ce57a7fb7f7d7f499d7c4267871847a27ab6d7483cd3583833bd
+    claim_hash: a932852ff237a4d4eb3b504eae95ca81f29f3e5d41a7a3d5abbfbf51975968c6
     content: John Podesta served as chief of staff to President Bill Clinton, counselor to President Barack Obama, and campaign
       manager to Hillary Clinton.
     original_excerpt: John Podesta, who had served as chief of staff to President Clinton, counselor to President Barack Obama,
@@ -495,12 +495,12 @@ claims:
       - node_id: 33ae3380-25ea-442a-9d60-69b285a20182
         title: Hillary Clinton
         slug: hillary-clinton
-      - node_id: 459eb5cf-ea76-4cad-9421-a726261cd3a2
-        title: William J. Clinton
-        slug: william-j-clinton
       - node_id: 65058869-076f-47d0-92ea-f8daf08b94cf
         title: Barack Obama
         slug: barack-obama
+      - node_id: c8b2f71c-febf-446f-9b1e-3e6bdc6c86c5
+        title: William J. Clinton
+        slug: william-j-clinton
     date: null
     date_end: null
     location_in_record: ch29:13091-13242
@@ -642,7 +642,7 @@ claims:
       content_hash: sha256:d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7b5a1b98d
       friendly_name: null
   - claim_id: 089e1f5c-803c-4865-879a-88e525f0f546
-    claim_hash: aa02d81895022fcfab0d8eec8abdca4508361fda4bcd747c277076ef1686fa44
+    claim_hash: e73faceaaeaca6740f605b9dcbd7c9e657547086fad709ce320abc77a99a487c
     content: Laurance Rockefeller was very close with the Clintons and constantly tried to interest them in UFO disclosure.
     original_excerpt: And Laurance Rockefeller, uh, is very close with the Clintons and trying to get them to do disclosure,
       get them more interested constantly.
@@ -666,12 +666,12 @@ claims:
       - node_id: 33ae3380-25ea-442a-9d60-69b285a20182
         title: Hillary Clinton
         slug: hillary-clinton
-      - node_id: 459eb5cf-ea76-4cad-9421-a726261cd3a2
-        title: William J. Clinton
-        slug: william-j-clinton
       - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
         title: Unidentified Flying Object (UFO)
         slug: unidentified-flying-object-ufo
+      - node_id: c8b2f71c-febf-446f-9b1e-3e6bdc6c86c5
+        title: William J. Clinton
+        slug: william-j-clinton
       - node_id: f657fb13-198a-45d6-9530-253f2784f9d2
         title: Laurance Rockefeller
         slug: laurance-rockefeller
@@ -740,7 +740,7 @@ claims:
       content_hash: sha256:d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7b5a1b98d
       friendly_name: null
   - claim_id: 03f260c0-9ab3-4896-8c40-2b44b71937f3
-    claim_hash: c2a6213ac8f443015a4ac005d48584f70a57386a330d86c06d026f1adba90e28
+    claim_hash: 365f041e89f034161ad2ed9383a48af33947aac98056b885545a9d2c2d256fb3
     content: There is evidence that Hillary Clinton was trying to open doors on the UFO subject during Bill Clinton's administration,
       in Jason Samosa's assessment.
     original_excerpt: she was interested early, I think. And there's evidence during the original Clinton administration she
@@ -757,20 +757,20 @@ claims:
     attribution_mode: unknown
     attachment: unreviewed
     entailment:
-      label: neutral
+      label: entails
       score: 0.999
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 33ae3380-25ea-442a-9d60-69b285a20182
         title: Hillary Clinton
         slug: hillary-clinton
-      - node_id: 459eb5cf-ea76-4cad-9421-a726261cd3a2
-        title: William J. Clinton
-        slug: william-j-clinton
       - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
         title: Unidentified Flying Object (UFO)
         slug: unidentified-flying-object-ufo
+      - node_id: c8b2f71c-febf-446f-9b1e-3e6bdc6c86c5
+        title: William J. Clinton
+        slug: william-j-clinton
     date: null
     date_end: null
     location_in_record: 00:48:55.6-00:49:02.0

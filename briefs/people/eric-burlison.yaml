@@ -9,7 +9,7 @@ page:
   claim_count: 26
   claim_count_total: 26
 generated:
-  graph_version: '2026-09-02T13:07:29.167026+00:00'
+  graph_version: '2026-09-02T14:12:13.257772+00:00'
 size:
   claims: 26
   tokens_estimated: 3498
@@ -17,13 +17,13 @@ size:
 entailment:
   assessed: 26
   unassessed: 0
-  entails: 19
-  neutral: 5
+  entails: 21
+  neutral: 3
   contradicts: 2
   entailed_by_quote: 6
-  entailed_by_window: 13
+  entailed_by_window: 15
   entailed_by_quote_fraction: 0.231
-  entailed_by_window_fraction: 0.5
+  entailed_by_window_fraction: 0.577
 publication:
   status: published
   note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
@@ -180,10 +180,10 @@ claims:
     attribution_mode: unknown
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.995
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.591
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 1f332ee0-b97e-41af-a02c-7a920f224b93
         title: 1996 Brazil Unidentified Flying Object (UFO) crash
@@ -1115,10 +1115,10 @@ claims:
     attribution_mode: unknown
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.998
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.985
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: d047a520-092f-4fe5-935d-ef4eadd7c952
         title: Legacy Program
@@ -1157,9 +1157,9 @@ claims:
     attachment: unreviewed
     entailment:
       label: neutral
-      score: 0.998
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      score: 0.769
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 997facc0-2c81-4d74-9fc5-d819de1c1d47
         title: The White House

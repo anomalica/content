@@ -1,5 +1,5 @@
 schema: anomalica/brief/1
-brief_hash: 0c3b4c460df9d84425ed978101c89d72d95ab7684f7f47a91f7e5e5065bd6262
+brief_hash: 0f0bded3a749da2b56e809261b2a7d4e53d8c4f1ee70f8abe0d16e8c616c2f0e
 page:
   kind: entity
   node_id: 23df5a4d-b30f-4c3d-b155-0bb1d6355328
@@ -9,7 +9,7 @@ page:
   claim_count: 238
   claim_count_total: 238
 generated:
-  graph_version: '2026-09-02T13:07:29.167026+00:00'
+  graph_version: '2026-09-02T14:12:13.257772+00:00'
 size:
   claims: 238
   tokens_estimated: 31288
@@ -17,13 +17,13 @@ size:
 entailment:
   assessed: 238
   unassessed: 0
-  entails: 178
-  neutral: 46
-  contradicts: 14
+  entails: 194
+  neutral: 29
+  contradicts: 15
   entailed_by_quote: 54
-  entailed_by_window: 124
+  entailed_by_window: 140
   entailed_by_quote_fraction: 0.227
-  entailed_by_window_fraction: 0.521
+  entailed_by_window_fraction: 0.588
 publication:
   status: published
   note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
@@ -421,10 +421,10 @@ claims:
     attribution_mode: bare_ok
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.997
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 23df5a4d-b30f-4c3d-b155-0bb1d6355328
         title: Anne Strieber
@@ -551,10 +551,10 @@ claims:
     attribution_mode: bare_ok
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.938
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 23df5a4d-b30f-4c3d-b155-0bb1d6355328
         title: Anne Strieber
@@ -2026,10 +2026,10 @@ claims:
     attribution_mode: bare_ok
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.931
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.998
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 23df5a4d-b30f-4c3d-b155-0bb1d6355328
         title: Anne Strieber
@@ -2983,10 +2983,10 @@ claims:
     attribution_mode: bare_ok
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.992
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.966
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 23df5a4d-b30f-4c3d-b155-0bb1d6355328
         title: Anne Strieber
@@ -6246,9 +6246,9 @@ claims:
     attachment: unreviewed
     entailment:
       label: neutral
-      score: 0.994
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      score: 0.8
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 23df5a4d-b30f-4c3d-b155-0bb1d6355328
         title: Anne Strieber
@@ -7643,7 +7643,7 @@ claims:
       content_hash: sha256:524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008e17102e7
       friendly_name: 2025-01-15-ebook-the-fourth-mind
   - claim_id: 07fc1176-d7a9-473a-a4dc-bcdc2347771d
-    claim_hash: 239c153f58168c2bed129c5517e8af723773bad2429ec32b1f4487c08e94a049
+    claim_hash: 5ac2cca7f980b2e24a0e83d6d08bdee6af5a97c267085153e3df124f8fd15b5e
     content: Whitley Strieber and Anne Strieber met Walter Haut at his home and had a fairly extensive conversation with him
       about his work as Roswell Army Air Force Base press officer.
     original_excerpt: We met him at his home and had a fairly extensive conversation with him. He described his work as base
@@ -7671,7 +7671,7 @@ claims:
       - node_id: 23df5a4d-b30f-4c3d-b155-0bb1d6355328
         title: Anne Strieber
         slug: anne-strieber
-      - node_id: 3e507b49-d600-474f-8995-453932dc1e01
+      - node_id: 24ba32dd-fc10-4ee4-bae2-9133cf301509
         title: USA, New Mexico, Roswell Army Air Field
         slug: new-mexico-roswell-army-air-field-usa
       - node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
@@ -8551,10 +8551,10 @@ claims:
     attribution_mode: bare_ok
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.874
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.711
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 23df5a4d-b30f-4c3d-b155-0bb1d6355328
         title: Anne Strieber
@@ -8595,10 +8595,10 @@ claims:
     attribution_mode: bare_ok
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.98
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: contradicts
+      score: 0.507
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 23df5a4d-b30f-4c3d-b155-0bb1d6355328
         title: Anne Strieber
@@ -8723,10 +8723,10 @@ claims:
     attribution_mode: bare_ok
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.977
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.998
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 23df5a4d-b30f-4c3d-b155-0bb1d6355328
         title: Anne Strieber
@@ -8805,10 +8805,10 @@ claims:
     attribution_mode: bare_ok
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.982
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.71
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 23df5a4d-b30f-4c3d-b155-0bb1d6355328
         title: Anne Strieber
@@ -8898,10 +8898,10 @@ claims:
     attribution_mode: bare_ok
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.995
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.997
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 23df5a4d-b30f-4c3d-b155-0bb1d6355328
         title: Anne Strieber
@@ -8978,10 +8978,10 @@ claims:
     attribution_mode: bare_ok
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.566
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.996
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 23df5a4d-b30f-4c3d-b155-0bb1d6355328
         title: Anne Strieber
@@ -9076,10 +9076,10 @@ claims:
     attribution_mode: bare_ok
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.954
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.998
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 23df5a4d-b30f-4c3d-b155-0bb1d6355328
         title: Anne Strieber
@@ -9355,10 +9355,10 @@ claims:
     attribution_mode: bare_ok
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.998
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 23df5a4d-b30f-4c3d-b155-0bb1d6355328
         title: Anne Strieber
@@ -9545,10 +9545,10 @@ claims:
     attribution_mode: bare_ok
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.908
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.998
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 23df5a4d-b30f-4c3d-b155-0bb1d6355328
         title: Anne Strieber
@@ -9640,10 +9640,10 @@ claims:
     attribution_mode: bare_ok
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.516
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.998
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 20f74902-e650-4d8b-a454-8e37e7cd471c
         title: Whitley Strieber's alien implant
@@ -10141,10 +10141,10 @@ claims:
     attribution_mode: unknown
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.997
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 23df5a4d-b30f-4c3d-b155-0bb1d6355328
         title: Anne Strieber
@@ -10452,10 +10452,10 @@ claims:
     attribution_mode: bare_ok
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.997
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.983
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 23df5a4d-b30f-4c3d-b155-0bb1d6355328
         title: Anne Strieber
@@ -10539,10 +10539,10 @@ claims:
     attribution_mode: bare_ok
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.942
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.965
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 23df5a4d-b30f-4c3d-b155-0bb1d6355328
         title: Anne Strieber

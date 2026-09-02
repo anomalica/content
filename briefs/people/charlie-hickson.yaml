@@ -9,7 +9,7 @@ page:
   claim_count: 106
   claim_count_total: 106
 generated:
-  graph_version: '2026-09-02T13:07:29.167026+00:00'
+  graph_version: '2026-09-02T14:12:13.257772+00:00'
 size:
   claims: 106
   tokens_estimated: 15600
@@ -17,13 +17,13 @@ size:
 entailment:
   assessed: 106
   unassessed: 0
-  entails: 82
-  neutral: 16
+  entails: 88
+  neutral: 10
   contradicts: 8
   entailed_by_quote: 27
-  entailed_by_window: 55
+  entailed_by_window: 61
   entailed_by_quote_fraction: 0.255
-  entailed_by_window_fraction: 0.519
+  entailed_by_window_fraction: 0.575
 publication:
   status: published
   note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
@@ -3144,10 +3144,10 @@ claims:
     attribution_mode: bare_ok
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.998
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 64f100c7-ad23-46ef-8818-ed5100b507c5
         title: Charlie Hickson
@@ -3730,10 +3730,10 @@ claims:
     attribution_mode: bare_ok
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.99
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.448
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 3dbf3f74-6f5b-4667-b447-5722becf4437
         title: Gustave Geley
@@ -3816,10 +3816,10 @@ claims:
     attribution_mode: bare_ok
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.999
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.481
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 3dbf3f74-6f5b-4667-b447-5722becf4437
         title: Gustave Geley
@@ -4155,9 +4155,9 @@ claims:
     attachment: unreviewed
     entailment:
       label: neutral
-      score: 0.999
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      score: 0.904
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 244decc2-311c-4ab1-8197-ba03cc8ce57a
         title: Astronaut light flash phenomenon
@@ -4401,10 +4401,10 @@ claims:
     attribution_mode: unknown
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.996
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 21a31a67-2dcf-40b7-9c48-4f55fdfb8952
         title: Louis Jolyon West
@@ -4443,10 +4443,10 @@ claims:
     attribution_mode: bare_ok
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.999
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.973
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 64f100c7-ad23-46ef-8818-ed5100b507c5
         title: Charlie Hickson
@@ -4582,10 +4582,10 @@ claims:
     attribution_mode: bare_ok
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.984
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.486
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 64f100c7-ad23-46ef-8818-ed5100b507c5
         title: Charlie Hickson

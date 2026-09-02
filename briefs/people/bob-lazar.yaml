@@ -9,7 +9,7 @@ page:
   claim_count: 111
   claim_count_total: 111
 generated:
-  graph_version: '2026-09-02T13:07:29.167026+00:00'
+  graph_version: '2026-09-02T14:12:13.257772+00:00'
 size:
   claims: 111
   tokens_estimated: 13334
@@ -17,13 +17,13 @@ size:
 entailment:
   assessed: 111
   unassessed: 0
-  entails: 69
-  neutral: 34
+  entails: 82
+  neutral: 21
   contradicts: 8
   entailed_by_quote: 23
-  entailed_by_window: 46
+  entailed_by_window: 59
   entailed_by_quote_fraction: 0.207
-  entailed_by_window_fraction: 0.414
+  entailed_by_window_fraction: 0.532
 publication:
   status: published
   note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
@@ -288,10 +288,10 @@ claims:
     attribution_mode: unknown
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.984
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: b0c0fde0-37e6-4632-8d64-a95091f03a49
         title: Bob Lazar
@@ -1485,10 +1485,10 @@ claims:
     attribution_mode: unknown
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.963
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.989
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 24d00311-06ac-46a1-a2f5-c99f3f8e21b2
         title: Chris Ramsay
@@ -1739,9 +1739,9 @@ claims:
     attachment: unreviewed
     entailment:
       label: neutral
-      score: 0.995
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      score: 0.711
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 2f44e4d7-afc1-45d1-af84-4fc6bdc1f82b
         title: Chuck Payne
@@ -2318,10 +2318,10 @@ claims:
     attribution_mode: unknown
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.731
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.991
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 9ee765f0-15bc-4d03-9bfa-c1d6b015a860
         title: Luigi Venditelli
@@ -2536,9 +2536,9 @@ claims:
     attachment: unreviewed
     entailment:
       label: neutral
-      score: 0.957
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      score: 0.821
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: b0c0fde0-37e6-4632-8d64-a95091f03a49
         title: Bob Lazar
@@ -2939,10 +2939,10 @@ claims:
     attribution_mode: bare_ok
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.993
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.983
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 8db24ac2-563f-44c0-a7ad-f0f5d66a4cbe
         title: USA, Nevada, S4
@@ -2980,9 +2980,9 @@ claims:
     attachment: unreviewed
     entailment:
       label: neutral
-      score: 0.699
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      score: 0.745
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 8db24ac2-563f-44c0-a7ad-f0f5d66a4cbe
         title: USA, Nevada, S4
@@ -3024,10 +3024,10 @@ claims:
     attribution_mode: bare_ok
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.969
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.967
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 8db24ac2-563f-44c0-a7ad-f0f5d66a4cbe
         title: USA, Nevada, S4
@@ -3231,10 +3231,10 @@ claims:
     attribution_mode: unknown
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.997
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.964
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: b0c0fde0-37e6-4632-8d64-a95091f03a49
         title: Bob Lazar
@@ -3399,10 +3399,10 @@ claims:
     attribution_mode: unknown
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.999
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.915
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 302c3ca1-5512-4b2d-af20-17d29a914e3b
         title: David Grush
@@ -3441,10 +3441,10 @@ claims:
     attribution_mode: unknown
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.998
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.945
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 2f44e4d7-afc1-45d1-af84-4fc6bdc1f82b
         title: Chuck Payne
@@ -3611,10 +3611,10 @@ claims:
     attribution_mode: bare_ok
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.997
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: b0c0fde0-37e6-4632-8d64-a95091f03a49
         title: Bob Lazar
@@ -3690,10 +3690,10 @@ claims:
     attribution_mode: bare_ok
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.996
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.711
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 8db24ac2-563f-44c0-a7ad-f0f5d66a4cbe
         title: USA, Nevada, S4
@@ -4110,10 +4110,10 @@ claims:
     attribution_mode: unknown
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.988
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.998
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: b0c0fde0-37e6-4632-8d64-a95091f03a49
         title: Bob Lazar
@@ -4593,10 +4593,10 @@ claims:
     attribution_mode: unknown
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.986
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.997
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 0b47cac5-b9cc-44ea-a2aa-5cbd39a0d21a
         title: Unidentified Aerial Phenomena (UAP) Gerb
@@ -4731,10 +4731,10 @@ claims:
     attribution_mode: unknown
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.947
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.921
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 4971b32b-e8d8-488a-8cf4-35f92bef0cd0
         title: Dan Burisch

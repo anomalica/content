@@ -9,7 +9,7 @@ page:
   claim_count: 19
   claim_count_total: 19
 generated:
-  graph_version: '2026-09-02T13:07:29.167026+00:00'
+  graph_version: '2026-09-02T14:12:13.257772+00:00'
 size:
   claims: 19
   tokens_estimated: 2288
@@ -17,13 +17,13 @@ size:
 entailment:
   assessed: 19
   unassessed: 0
-  entails: 16
-  neutral: 3
+  entails: 18
+  neutral: 1
   contradicts: 0
   entailed_by_quote: 7
-  entailed_by_window: 9
+  entailed_by_window: 11
   entailed_by_quote_fraction: 0.368
-  entailed_by_window_fraction: 0.474
+  entailed_by_window_fraction: 0.579
 publication:
   status: published
   note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
@@ -235,10 +235,10 @@ claims:
     attribution_mode: unknown
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.957
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.996
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 079d4381-4273-418b-bc9a-468623f95c6e
         title: Jesse Mitchells
@@ -751,10 +751,10 @@ claims:
     attribution_mode: unknown
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.993
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 5d4966d1-e0f0-4c5c-b701-b48b4a2f13c1
         title: Project MKUltra (MKUltra)

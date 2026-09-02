@@ -1,5 +1,5 @@
 schema: anomalica/brief/1
-brief_hash: cedd74c23b7f590ef696da6199be0f0da87a9bec749ef624f80d65f52baf7a47
+brief_hash: 299c21e6b0ca4d8d6ba91deb5ba51ddccda0acaf95e3c92da4b3598980c5f300
 page:
   kind: entity
   node_id: e79e207c-a848-4eb7-9246-07587b20d2c1
@@ -9,7 +9,7 @@ page:
   claim_count: 186
   claim_count_total: 186
 generated:
-  graph_version: '2026-09-02T13:07:29.167026+00:00'
+  graph_version: '2026-09-02T14:12:13.257772+00:00'
 size:
   claims: 186
   tokens_estimated: 32776
@@ -17,13 +17,13 @@ size:
 entailment:
   assessed: 186
   unassessed: 0
-  entails: 169
-  neutral: 11
+  entails: 172
+  neutral: 8
   contradicts: 6
   entailed_by_quote: 35
-  entailed_by_window: 134
+  entailed_by_window: 137
   entailed_by_quote_fraction: 0.188
-  entailed_by_window_fraction: 0.72
+  entailed_by_window_fraction: 0.737
 publication:
   status: published
   note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
@@ -7356,10 +7356,10 @@ claims:
     attribution_mode: unknown
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.996
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.938
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 4608d6f8-17e4-4eea-81c5-f59dcf727853
         title: Jon Kosloski
@@ -7448,10 +7448,10 @@ claims:
     attribution_mode: unknown
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.98
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.993
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 0d4dfba6-a53b-4f23-a2ad-e4c9bea44076
         title: Robert Bigelow
@@ -7703,7 +7703,7 @@ claims:
       content_hash: sha256:ec4ba3a9ba6cfe6598002b0b2441a39aac6847d339f856b1e24752aeb484b3a4
       friendly_name: null
   - claim_id: 2de4ca5b-eefb-4524-8897-bd2c1da216b5
-    claim_hash: a3ffc65a5995373e28459902a1ebd5aee81148c432881f9b212c734f684dcc3e
+    claim_hash: f605aef86c9769e565040d75ac77e9ed4b19ebd432a6dcc011d1ab2638c57f35
     content: The All-Domain Anomaly Resolution Office (AARO) is the Pentagon's UFO office.
     original_excerpt: any modern AARO, the Pentagon UFO Office efforts
     claim_type: administrative
@@ -7901,9 +7901,9 @@ claims:
     attachment: unreviewed
     entailment:
       label: neutral
-      score: 0.996
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      score: 0.95
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 64d41f78-598d-433c-a49d-f0d19fd62b27
         title: Special Access Program (SAP)
@@ -8026,10 +8026,10 @@ claims:
     attribution_mode: unknown
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.993
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: d4241f5a-1063-4970-ba02-5a391c02d96d
         title: David Charles Grusch
@@ -8093,7 +8093,7 @@ claims:
       content_hash: sha256:c685d061d160da6ae664b97e8b033d8d36090ea76d13c45792556dae22ae3344
       friendly_name: null
   - claim_id: 04bfb5c0-36db-48a8-818c-ca0ffe0c9b14
-    claim_hash: 3b919c01eb540b7f831f4ed658c9d72057bd8ef0d7914636adf0f1e07d293ced
+    claim_hash: 1b159d974f6697bb73784dc27a9a75db15a2f6337395225cbef43573503f027b
     content: An anonymous source claiming knowledge of the matter told Liberation Times that the US government, including
       the All-domain Anomaly Resolution Office (AARO), is aware of data indicating extreme-performance incidents.
     original_excerpt: Sources also tell Liberation Times that the U.S. government - including its UAP office, the All‑domain
@@ -8116,12 +8116,12 @@ claims:
       model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
       premise: window
     node_refs:
+      - node_id: 22317795-bd5d-45e6-b3ec-2988cca70cac
+        title: USA
+        slug: usa
       - node_id: a7726ea1-8d0d-4d27-bdba-be309f70fea1
         title: Liberation Times
         slug: liberation-times
-      - node_id: bcdb14d6-d22c-4471-a0e0-7c19c2b56ab3
-        title: USA
-        slug: usa
       - node_id: e79e207c-a848-4eb7-9246-07587b20d2c1
         title: All-domain Anomaly Resolution Office (AARO)
         slug: all-domain-anomaly-resolution-office-aaro

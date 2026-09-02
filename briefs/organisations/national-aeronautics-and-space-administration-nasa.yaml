@@ -1,5 +1,5 @@
 schema: anomalica/brief/1
-brief_hash: 3d840e4dd3eed95571f9a5c56cc41e7ded353ff5896e10315405c218b5472548
+brief_hash: 555386368c863f680e4a272f266a4a99c098b33857f63e31a9611dc540fa5910
 page:
   kind: entity
   node_id: 5e47c787-005b-4c91-ba4b-c9bec48146c9
@@ -9,7 +9,7 @@ page:
   claim_count: 645
   claim_count_total: 645
 generated:
-  graph_version: '2026-09-02T13:07:29.167026+00:00'
+  graph_version: '2026-09-02T14:12:13.257772+00:00'
 size:
   claims: 645
   tokens_estimated: 108007
@@ -17,13 +17,13 @@ size:
 entailment:
   assessed: 645
   unassessed: 0
-  entails: 571
-  neutral: 54
+  entails: 584
+  neutral: 41
   contradicts: 20
   entailed_by_quote: 233
-  entailed_by_window: 338
+  entailed_by_window: 351
   entailed_by_quote_fraction: 0.361
-  entailed_by_window_fraction: 0.524
+  entailed_by_window_fraction: 0.544
 publication:
   status: published
   note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
@@ -5833,10 +5833,10 @@ claims:
     attribution_mode: bare_ok
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.917
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.466
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 5e47c787-005b-4c91-ba4b-c9bec48146c9
         title: National Aeronautics and Space Administration (NASA)
@@ -8279,10 +8279,10 @@ claims:
     attribution_mode: unknown
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.946
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 0f39bc18-bf04-42ba-8127-33d988dfed95
         title: International Space Station (ISS)
@@ -12105,10 +12105,10 @@ claims:
     attribution_mode: unknown
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.997
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.511
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 5e47c787-005b-4c91-ba4b-c9bec48146c9
         title: National Aeronautics and Space Administration (NASA)
@@ -13818,10 +13818,10 @@ claims:
     attribution_mode: unknown
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.508
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 1.0
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 3e3d0fe7-a2cf-4e09-ab26-7beca4bece48
         title: NASA Jet Propulsion Laboratory (JPL)
@@ -16482,7 +16482,7 @@ claims:
       content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
       friendly_name: null
   - claim_id: 5745724a-4361-490c-8fd0-0690ceef489f
-    claim_hash: 108275ae9e2af931b2072623276e94d56c9b336d8ee1477f2e9e6b84da3af3bb
+    claim_hash: defc230dae367cc594e9ebec223d0a717ffe7ec4c5e54f61ca113f3ea97ca02d
     content: NASA switched to an environmentally friendly external tank insulating foam in 1996 to appease the Clinton administration's
       Environmental Protection Agency, and had experienced trouble with it ever since.
     original_excerpt: Investigations revealed that NASA, in an effort to appease the Clinton administration's EPA, had switched
@@ -16502,15 +16502,15 @@ claims:
       model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
       premise: quote
     node_refs:
-      - node_id: 459eb5cf-ea76-4cad-9421-a726261cd3a2
-        title: William J. Clinton
-        slug: william-j-clinton
       - node_id: 5e47c787-005b-4c91-ba4b-c9bec48146c9
         title: National Aeronautics and Space Administration (NASA)
         slug: national-aeronautics-and-space-administration-nasa
       - node_id: c32507e1-c3c3-4309-a4db-af7bdaaf77b0
         title: Space Shuttle Columbia
         slug: space-shuttle-columbia
+      - node_id: c8b2f71c-febf-446f-9b1e-3e6bdc6c86c5
+        title: William J. Clinton
+        slug: william-j-clinton
       - node_id: db7bbf0d-f11e-4f91-aa05-29771dab68b7
         title: Environmental Protection Agency (EPA)
         slug: environmental-protection-agency-epa
@@ -16860,10 +16860,10 @@ claims:
     attribution_mode: bare_ok
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.994
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.996
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 157467a7-3117-469e-a12d-5d2487f21920
         title: Hubble Space Telescope
@@ -17349,10 +17349,10 @@ claims:
     attribution_mode: unknown
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.968
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.735
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 5e47c787-005b-4c91-ba4b-c9bec48146c9
         title: National Aeronautics and Space Administration (NASA)
@@ -18700,10 +18700,10 @@ claims:
     attribution_mode: unknown
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.892
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.451
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 5e47c787-005b-4c91-ba4b-c9bec48146c9
         title: National Aeronautics and Space Administration (NASA)
@@ -20679,10 +20679,10 @@ claims:
     attribution_mode: unknown
     attachment: unreviewed
     entailment:
-      label: neutral
+      label: entails
       score: 0.999
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 5e47c787-005b-4c91-ba4b-c9bec48146c9
         title: National Aeronautics and Space Administration (NASA)
@@ -21102,10 +21102,10 @@ claims:
     attribution_mode: unknown
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.884
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.98
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 5e47c787-005b-4c91-ba4b-c9bec48146c9
         title: National Aeronautics and Space Administration (NASA)
@@ -25093,7 +25093,7 @@ claims:
       content_hash: sha256:784b2feffd5aaa03b664d35f587d270a0838d547916cde4c429670cf1c68cd16
       friendly_name: null
   - claim_id: 68b43d23-894d-43bc-b84b-86154ea3b0b9
-    claim_hash: edbd0b4c3c6bb3b80516bff6f69b63b823284ec52c0c795e2616c8114e634002
+    claim_hash: 8e7d0593ea7dc2b4b5be44a53db1fef4b051a1eb02db4ecdb08059910b2a1318
     content: Marcia Smith asked Daniel Sheehan to accompany NASA astronauts on a lobbying tour of Congress to push for the
       reinstatement of full funding for the Search for Extra-Terrestrial Intelligence (SETI) program.
     original_excerpt: Marcia Smith came back a few weeks later and asked if, as a Jesuit representative, Sheehan would accompany
@@ -25145,7 +25145,7 @@ claims:
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
   - claim_id: e675a609-e8c3-42e8-86ab-341d167f3747
-    claim_hash: 7468b1270fa48269ecd59f17485877e9e7fbf38fb0cd303b5bc4388f073af12a
+    claim_hash: 325a146a4c025dcbf95481f8ebce08517ee31fe75eb3fbf0e50bb99deda8718b
     content: NASA funded a very small SETI study in 1971.
     original_excerpt: In 1971, NASA had funded a very small SETI study
     claim_type: administrative
@@ -25232,7 +25232,7 @@ claims:
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
   - claim_id: 8cebf6a8-2a6d-46d3-a1fb-6914eb1bf7f1
-    claim_hash: 0b1ba7da03e916d99b8372525063174678405c9d75aa57c10e7cb6cc22d30254
+    claim_hash: c6183d88619f32b182899cf39d7c3027d5589dac5d20315af1efc1b37dcaf7f2
     content: After the success of his efforts for SETI, Daniel Sheehan was invited to make a presentation on the religious
       implications of extra-terrestrial contact at the NASA Jet Propulsion Laboratory in California.
     original_excerpt: After the success of his efforts for SETI, Sheehan was invited to make a presentation on the religious
@@ -25412,7 +25412,7 @@ claims:
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
   - claim_id: 3af1b87d-8aee-4450-862a-35c0c3bbda74
-    claim_hash: ab49567a305aa28187711af70d9b464d06db385bb62cfb9f57cf7e5e231d7991
+    claim_hash: a3f233eef7649fa655c9ffd2ef0b2437cc4a0edb6b8c6a09db16b6315704dd66
     content: In 1990, Steven Greer founded the Center for the Study of Extra-terrestrial Intelligence (CSETI), a lobby group
       separate from the non-profit SETI (Search for Extra-terrestrial Intelligence) Institute formerly funded by NASA.
     original_excerpt: In 1990, Greer had founded the Center for the Study of Extra-terrestrial Intelligence (CSETI), a lobby
@@ -27203,7 +27203,7 @@ claims:
       content_hash: sha256:ed66b8e09c6c608649e68c7cfc3ccb63fdc9673bddb9f205347356065df35a8d
       friendly_name: 2026-07-11-audio-nasa-uap-d003a-gemini-7-audio-excerpt-1965.v2
   - claim_id: c5507779-7a27-4008-9a5c-fd96f26c8595
-    claim_hash: 170c73d077a6ff7f955f4271f08280b45cfefc618bc9525b36a491fb89067ba7
+    claim_hash: ee91c9dfab9b3bee07de2a0d078f4fb4c51016389dc654ad1764d1e69b6c5331
     content: During Apollo 14, there were three recorded instances, found by the debriefing team reviewing the mission tapes,
       where different pairs of crew members reported light flashes simultaneously.
     original_excerpt: There were three, from listening to the tapes, three events, and it occurred in cases where different
@@ -27247,7 +27247,7 @@ claims:
       content_hash: sha256:0f913eefce56c6e2b515b973bf3ecf5dd69db0968c6beb716459a9956f14b0c9
       friendly_name: null
   - claim_id: b7c4778d-0c8e-4a61-936c-09732efb1465
-    claim_hash: 4b86c74444c3661680a60cd0c2e7e39dbf355fcd4f7bed8ff4664fe2eb361925
+    claim_hash: 547b10e9191cfd29026efc8206e757d9a7912a011995fd52cb84092242f43182
     content: The formal Apollo 14 light-flash observation session concluded at approximately 191 hours Ground Elapsed Time
       (GET), after which the crew had a sleep period.
     original_excerpt: after our formal session, it was in about 191 GET, you then had a sleep period later on.
@@ -27289,7 +27289,7 @@ claims:
       content_hash: sha256:0f913eefce56c6e2b515b973bf3ecf5dd69db0968c6beb716459a9956f14b0c9
       friendly_name: null
   - claim_id: e1e79838-8da6-4682-8cb4-abf54720c9c6
-    claim_hash: fef51ecca6cf788ae03a3bfcb965728e3e2b6cbc503f4f3d8edc10af7c9e7ae1
+    claim_hash: 1f3a87bb239ddbc773841f7ae4f76ae7e9f49b2fb561c20091654e3c80f6c48f
     content: The debriefing team considered that the Apollo 14 crew provided an enormously improved amount of data on the
       light-flash phenomenon compared to any previous mission.
     original_excerpt: I think I said to Ed yesterday that you really did provide an enormously improved amount of data on
@@ -27332,7 +27332,7 @@ claims:
       content_hash: sha256:0f913eefce56c6e2b515b973bf3ecf5dd69db0968c6beb716459a9956f14b0c9
       friendly_name: null
   - claim_id: b6bfd3d2-4319-41ef-b7b1-c86eb40be8ec
-    claim_hash: 58e23cccd4a6a0fb9b0db3ba591aaa8873cafac25bcfea9dbdfccbc45c098cc6
+    claim_hash: 83b710a01bd94d44b41bd5062af84579d7970d6ce4618a43011ae0ff4482d70f
     content: Tom DeLonge was flown to the Pentagon for a meeting, and was then directed to NASA where he met further people.
     original_excerpt: So he's flown out to the Pentagon where he meets with someone and they say, okay, now you're going to
       NASA, where he meets with some people.
@@ -27744,10 +27744,10 @@ claims:
     attribution_mode: unknown
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.993
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.665
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 5e47c787-005b-4c91-ba4b-c9bec48146c9
         title: National Aeronautics and Space Administration (NASA)
@@ -27870,10 +27870,10 @@ claims:
     attribution_mode: bare_ok
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.999
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.997
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 2e2896bd-52d2-4362-903a-9657f86117ae
         title: Johnson Space Center
@@ -27901,7 +27901,7 @@ claims:
       content_hash: sha256:f37882ab1f880101b3e452e3802d7afc296c07eb413f65ebea554984f3b8cdef
       friendly_name: null
   - claim_id: 2d12d0c3-be04-434a-b8fe-5d34000dcdbe
-    claim_hash: 51f462421037392c96252ed558d6c7f5361492146ee5ccd68fd25a94d560f51f
+    claim_hash: 93ec01e2e95610c677927a67743967e4789e21ff9f3246b2dd2f0ff5cf4abd97
     content: Multiple scans of the Apollo 17 triangular blue-lights frame exist in different NASA, US military, and US government
       archives, each showing the trio of blue lights in exactly the same configuration and place, ruling out scanning artifacts
       as the cause.
@@ -27945,7 +27945,7 @@ claims:
       content_hash: sha256:f37882ab1f880101b3e452e3802d7afc296c07eb413f65ebea554984f3b8cdef
       friendly_name: null
   - claim_id: 9df814bc-4062-4b6f-b0fd-359e531799ca
-    claim_hash: 7ec72b502dd70bb779ea21f750b724850ae904a4dd60e712972ad9359a8b1c59
+    claim_hash: 99b74c04e9b5d74cd3d32d97ba2978dd022fe1fd5bda457575f69966018b2ca8
     content: NASA and the United States Department of War said they acquired the original Apollo 17 film of the blue-lights
       image and would conduct further analyses and report their findings.
     original_excerpt: they said that they acquired the original film and they're going to do further analyses, both NASA and,
@@ -28054,10 +28054,10 @@ claims:
     attribution_mode: unknown
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.981
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.924
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 5e47c787-005b-4c91-ba4b-c9bec48146c9
         title: National Aeronautics and Space Administration (NASA)
@@ -28300,7 +28300,7 @@ claims:
       content_hash: sha256:f37882ab1f880101b3e452e3802d7afc296c07eb413f65ebea554984f3b8cdef
       friendly_name: null
   - claim_id: 854391a3-bfd7-465c-b66b-fde8a33646ab
-    claim_hash: 3721ae649b8692dc48d30d5a260953c1c9edbbd61443018519eb9c3f632b64ce
+    claim_hash: 65341e962fd26f33bddd5feaab530ffbeb276b7f91d1c298966b81fb5ff5a14a
     content: NASA's documented examples of Hasselblad electrical-spark artifacts look nothing like the blue-light phenomena
       seen in the Apollo 17 image.
     original_excerpt: All the examples they give of that look absolutely nothing whatsoever like any of these blue light phenomena.
@@ -28918,10 +28918,10 @@ claims:
     attribution_mode: unknown
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.95
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.753
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 3487d76a-a9e8-4833-9a17-0a83e4cabe94
         title: James E. Oberg
@@ -29006,9 +29006,9 @@ claims:
     attachment: unreviewed
     entailment:
       label: neutral
-      score: 0.998
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      score: 0.543
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 2d16e9ea-f92d-4e97-9835-0a1a739ffba6
         title: United States Department of War

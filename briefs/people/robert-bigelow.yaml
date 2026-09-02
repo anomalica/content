@@ -1,5 +1,5 @@
 schema: anomalica/brief/1
-brief_hash: 76978c78199f46ffd20dce4ddce09490c02ce7db32924de1c7507833db71afe6
+brief_hash: af40f307e89b86115390867b6eea12f823648968fb5973101add2827fb39f74b
 page:
   kind: entity
   node_id: 0d4dfba6-a53b-4f23-a2ad-e4c9bea44076
@@ -9,7 +9,7 @@ page:
   claim_count: 322
   claim_count_total: 322
 generated:
-  graph_version: '2026-09-02T13:07:29.167026+00:00'
+  graph_version: '2026-09-02T14:12:13.257772+00:00'
 size:
   claims: 322
   tokens_estimated: 39856
@@ -17,13 +17,13 @@ size:
 entailment:
   assessed: 322
   unassessed: 0
-  entails: 216
-  neutral: 87
+  entails: 246
+  neutral: 57
   contradicts: 19
   entailed_by_quote: 101
-  entailed_by_window: 115
+  entailed_by_window: 145
   entailed_by_quote_fraction: 0.314
-  entailed_by_window_fraction: 0.357
+  entailed_by_window_fraction: 0.45
 publication:
   status: published
   note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
@@ -128,7 +128,7 @@ related_nodes:
     node_type: place
     slug: nevada-las-vegas-usa
     shared_claims: 5
-  - node_id: 459eb5cf-ea76-4cad-9421-a726261cd3a2
+  - node_id: c8b2f71c-febf-446f-9b1e-3e6bdc6c86c5
     title: William J. Clinton
     node_type: person
     slug: william-j-clinton
@@ -3400,10 +3400,10 @@ claims:
     attribution_mode: unknown
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.98
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.993
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 0d4dfba6-a53b-4f23-a2ad-e4c9bea44076
         title: Robert Bigelow
@@ -3572,7 +3572,7 @@ claims:
       content_hash: sha256:1aa9d864c5a4bb930164c278d9624c6bc0f84278ea4b5e57594fae9e21e90858
       friendly_name: null
   - claim_id: 79b4346f-d52a-413e-86b8-52b32a73bd94
-    claim_hash: 9fc00e517c665c14cfef69d33ffe99443363f1a3fc3f882f58173a5041550207
+    claim_hash: 3f22c54b177ef900c6dded59488594bb1e6c537b52022c4d7b18a71abd3df0d8
     content: Lawrence Rockefeller's position was to convince Bill Clinton, president at the time, to step up, produce the
       disclosure necessary about the UFO phenomena and admit that it exists.
     original_excerpt: And his take was to convince the president, which at the time was Bill Clinton, that he needed to step
@@ -3597,15 +3597,15 @@ claims:
       - node_id: 39931bd6-9341-4fc5-a3fe-e7e81229eb3e
         title: Rockefeller Ranch Unidentified Flying Object (UFO) disclosure meeting
         slug: rockefeller-ranch-unidentified-flying-object-ufo-disclosure-meeting
-      - node_id: 459eb5cf-ea76-4cad-9421-a726261cd3a2
-        title: William J. Clinton
-        slug: william-j-clinton
       - node_id: 6822269f-d874-409b-b8f9-8ccaf3ac5947
         title: Lawrence Rockefeller
         slug: lawrence-rockefeller
       - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
         title: Unidentified Flying Object (UFO)
         slug: unidentified-flying-object-ufo
+      - node_id: c8b2f71c-febf-446f-9b1e-3e6bdc6c86c5
+        title: William J. Clinton
+        slug: william-j-clinton
     date: null
     date_end: null
     location_in_record: 00:03:59.0-00:04:17.1
@@ -3620,7 +3620,7 @@ claims:
       content_hash: sha256:1aa9d864c5a4bb930164c278d9624c6bc0f84278ea4b5e57594fae9e21e90858
       friendly_name: null
   - claim_id: 0d154c2f-da65-4ab0-baad-2e3e2b082e90
-    claim_hash: 03b41d3688fbf4f84a7c009cca27fc5c28011742df9df1b6c9dad652d44ef687
+    claim_hash: 87e6e4f42a5c91ed4c28de4aa47605db800992bb5324f1718d321f40e5e216bf
     content: Robert Bigelow was not sure that Bill Clinton knew about the UFO phenomena.
     original_excerpt: I wasn't sure that he knew, that the president knew.
     claim_type: testimony
@@ -3643,12 +3643,12 @@ claims:
       - node_id: 0d4dfba6-a53b-4f23-a2ad-e4c9bea44076
         title: Robert Bigelow
         slug: robert-bigelow
-      - node_id: 459eb5cf-ea76-4cad-9421-a726261cd3a2
-        title: William J. Clinton
-        slug: william-j-clinton
       - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
         title: Unidentified Flying Object (UFO)
         slug: unidentified-flying-object-ufo
+      - node_id: c8b2f71c-febf-446f-9b1e-3e6bdc6c86c5
+        title: William J. Clinton
+        slug: william-j-clinton
     date: null
     date_end: null
     location_in_record: 00:04:18.9-00:04:21.6
@@ -3663,7 +3663,7 @@ claims:
       content_hash: sha256:1aa9d864c5a4bb930164c278d9624c6bc0f84278ea4b5e57594fae9e21e90858
       friendly_name: null
   - claim_id: 186fd230-aa2e-43fe-a1c6-7e0ad6bbf957
-    claim_hash: ac3316f81d3d393a0b44a70e51350a0c40b7980de8207bbede6522d32c7a5796
+    claim_hash: 27909c1bcda9006785debeb659c5967f47c99197c2096b0ebd2c34feb54099be
     content: Robert Bigelow asked Harry Reid to take a book to Bill Clinton and ask him whether he had really said what the
       book reported.
     original_excerpt: So I said to Harry, I said, look, I want you to take this book. and show it to Bill and say, did you
@@ -3680,15 +3680,15 @@ claims:
     attribution_mode: bare_ok
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.989
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 1.0
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 0d4dfba6-a53b-4f23-a2ad-e4c9bea44076
         title: Robert Bigelow
         slug: robert-bigelow
-      - node_id: 459eb5cf-ea76-4cad-9421-a726261cd3a2
+      - node_id: c8b2f71c-febf-446f-9b1e-3e6bdc6c86c5
         title: William J. Clinton
         slug: william-j-clinton
       - node_id: c91974f0-961f-4db8-b7b0-22d4b846e5d5
@@ -3708,7 +3708,7 @@ claims:
       content_hash: sha256:1aa9d864c5a4bb930164c278d9624c6bc0f84278ea4b5e57594fae9e21e90858
       friendly_name: null
   - claim_id: 757087e1-f640-4480-b199-ac9118de43ba
-    claim_hash: fc935015ba4a39199c827a27065390f10313d82f16361131280a2b9c702a7bfb
+    claim_hash: 459c6b21ace103d21e65285334b476d6ccf6c6de6a4821122201869abdaccf29
     content: A book quoted Bill Clinton as saying that before he left office he wanted to know who really killed John F. Kennedy
       and what all the UFO and extraterrestrial material was about.
     original_excerpt: And in there, President Clinton had said, before I leave office, I want to know who really killed JFK
@@ -3734,12 +3734,12 @@ claims:
       - node_id: 0d4dfba6-a53b-4f23-a2ad-e4c9bea44076
         title: Robert Bigelow
         slug: robert-bigelow
-      - node_id: 459eb5cf-ea76-4cad-9421-a726261cd3a2
-        title: William J. Clinton
-        slug: william-j-clinton
       - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
         title: Unidentified Flying Object (UFO)
         slug: unidentified-flying-object-ufo
+      - node_id: c8b2f71c-febf-446f-9b1e-3e6bdc6c86c5
+        title: William J. Clinton
+        slug: william-j-clinton
     date: null
     date_end: null
     location_in_record: 00:04:51.0-00:05:02.9
@@ -3754,7 +3754,7 @@ claims:
       content_hash: sha256:1aa9d864c5a4bb930164c278d9624c6bc0f84278ea4b5e57594fae9e21e90858
       friendly_name: null
   - claim_id: ab87dac9-9186-4748-a15b-63a37ec954c7
-    claim_hash: 9dbf56dfb21e2e18ca3e8d601785b69a27d70978122c1743872b8e79c24a6f44
+    claim_hash: 776ade7d688ff0d2c3cbd09218ecbe88ea71ca61e5977113aad6974be7256cfd
     content: When Harry Reid asked Bill Clinton whether he had really said he wanted to know about UFOs before leaving office,
       Clinton confirmed that he had and replied "wouldn't you like to know?".
     original_excerpt: And Harry said, did you really say that? Yes. And he said, wouldn't you like to know?
@@ -3771,15 +3771,15 @@ claims:
     attribution_mode: unknown
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.932
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 0d4dfba6-a53b-4f23-a2ad-e4c9bea44076
         title: Robert Bigelow
         slug: robert-bigelow
-      - node_id: 459eb5cf-ea76-4cad-9421-a726261cd3a2
+      - node_id: c8b2f71c-febf-446f-9b1e-3e6bdc6c86c5
         title: William J. Clinton
         slug: william-j-clinton
       - node_id: c91974f0-961f-4db8-b7b0-22d4b846e5d5
@@ -3856,10 +3856,10 @@ claims:
     attribution_mode: bare_ok
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.667
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.994
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: b65ca672-cb9e-4a57-a0fb-56ede7e118a4
         title: Los Alamos National Laboratory
@@ -4139,7 +4139,7 @@ claims:
       content_hash: sha256:1aa9d864c5a4bb930164c278d9624c6bc0f84278ea4b5e57594fae9e21e90858
       friendly_name: null
   - claim_id: 377f09e3-8abe-497b-9656-1a1291bdb73d
-    claim_hash: 2972345080a4c65c40299ddef576844a7ffc03f86ae5d97ce1458d076100ce3f
+    claim_hash: 028bc34a081c9fc98c46342aaa1209e8cf3b79ab5603fdca744c46dac7582b54
     content: Robert Bigelow found out that Bill Clinton did not know about the UFO subject, and did not get a chance to tell
       Lawrence Rockefeller.
     original_excerpt: So I didn't have a chance to tell Lawrence that I had found out that Clinton didn't know.
@@ -4163,12 +4163,12 @@ claims:
       - node_id: 0d4dfba6-a53b-4f23-a2ad-e4c9bea44076
         title: Robert Bigelow
         slug: robert-bigelow
-      - node_id: 459eb5cf-ea76-4cad-9421-a726261cd3a2
-        title: William J. Clinton
-        slug: william-j-clinton
       - node_id: 6822269f-d874-409b-b8f9-8ccaf3ac5947
         title: Lawrence Rockefeller
         slug: lawrence-rockefeller
+      - node_id: c8b2f71c-febf-446f-9b1e-3e6bdc6c86c5
+        title: William J. Clinton
+        slug: william-j-clinton
     date: null
     date_end: null
     location_in_record: 00:06:22.7-00:06:29.6
@@ -4183,7 +4183,7 @@ claims:
       content_hash: sha256:1aa9d864c5a4bb930164c278d9624c6bc0f84278ea4b5e57594fae9e21e90858
       friendly_name: null
   - claim_id: f3dfaea3-0951-4315-ae7f-2bc8a56679c3
-    claim_hash: ba61a54dff231dc6798501197447cffe96fb81560638c7a409889fb666dc8510
+    claim_hash: 1ce5b39409594243d9c805a7fb6db85deedfd067b29ac98564372dfa78f82bc5
     content: Lawrence Rockefeller was under the impression that Bill Clinton did know about UFOs and had been read in, and
       intended to convince him to admit it and participate in starting the disclosure process.
     original_excerpt: No, that he did know. He was read in. And he was going to try to convince him to confess, to admit,
@@ -4205,15 +4205,15 @@ claims:
       model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
       premise: quote
     node_refs:
-      - node_id: 459eb5cf-ea76-4cad-9421-a726261cd3a2
-        title: William J. Clinton
-        slug: william-j-clinton
       - node_id: 6822269f-d874-409b-b8f9-8ccaf3ac5947
         title: Lawrence Rockefeller
         slug: lawrence-rockefeller
       - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
         title: Unidentified Flying Object (UFO)
         slug: unidentified-flying-object-ufo
+      - node_id: c8b2f71c-febf-446f-9b1e-3e6bdc6c86c5
+        title: William J. Clinton
+        slug: william-j-clinton
     date: null
     date_end: null
     location_in_record: 00:06:34.3-00:06:47.8
@@ -4479,10 +4479,10 @@ claims:
     attribution_mode: unknown
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.99
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.998
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 403edb72-ebc4-4b89-8746-4cd19e089691
         title: The Pentagon
@@ -4981,10 +4981,10 @@ claims:
     attribution_mode: unknown
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.988
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.825
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 0d4dfba6-a53b-4f23-a2ad-e4c9bea44076
         title: Robert Bigelow
@@ -5107,10 +5107,10 @@ claims:
     attribution_mode: unknown
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.985
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 0d4dfba6-a53b-4f23-a2ad-e4c9bea44076
         title: Robert Bigelow
@@ -5928,10 +5928,10 @@ claims:
     attribution_mode: bare_ok
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.994
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 1.0
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 11917292-9774-4cdc-8480-4ecd97a0b600
         title: Princeton University
@@ -6407,10 +6407,10 @@ claims:
     attribution_mode: unknown
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.99
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 0d4dfba6-a53b-4f23-a2ad-e4c9bea44076
         title: Robert Bigelow
@@ -6656,10 +6656,10 @@ claims:
     attribution_mode: unknown
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.99
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 1.0
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 0676cb5b-da79-42d5-a3c1-58646f2d0f3b
         title: Entropy
@@ -7575,9 +7575,9 @@ claims:
     attachment: unreviewed
     entailment:
       label: neutral
-      score: 0.985
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      score: 0.496
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: bb57f245-f237-4c9d-9d6c-6ae3a14b4a55
         title: Bigelow Institute for Consciousness Studies essay contest 2021
@@ -8065,10 +8065,10 @@ claims:
     attribution_mode: bare_ok
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.906
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 08e9391a-bb91-422e-be0e-94fec5b5809c
         title: Double-slit experiment
@@ -8106,10 +8106,10 @@ claims:
     attribution_mode: bare_ok
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.997
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 32d00165-71c5-4ca8-a07c-180914be45c4
         title: Consciousness studies
@@ -8222,10 +8222,10 @@ claims:
     attribution_mode: bare_ok
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.772
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 0d4dfba6-a53b-4f23-a2ad-e4c9bea44076
         title: Robert Bigelow
@@ -8336,10 +8336,10 @@ claims:
     attribution_mode: bare_ok
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.998
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.747
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs: []
     date: null
     date_end: null
@@ -8792,9 +8792,9 @@ claims:
     attachment: unreviewed
     entailment:
       label: neutral
-      score: 0.995
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      score: 0.938
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 0d4dfba6-a53b-4f23-a2ad-e4c9bea44076
         title: Robert Bigelow
@@ -8836,10 +8836,10 @@ claims:
     attribution_mode: unknown
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.998
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 0d4dfba6-a53b-4f23-a2ad-e4c9bea44076
         title: Robert Bigelow
@@ -8976,10 +8976,10 @@ claims:
     attribution_mode: bare_ok
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.998
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.844
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 0d4dfba6-a53b-4f23-a2ad-e4c9bea44076
         title: Robert Bigelow
@@ -9019,10 +9019,10 @@ claims:
     attribution_mode: bare_ok
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.998
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 0d4dfba6-a53b-4f23-a2ad-e4c9bea44076
         title: Robert Bigelow
@@ -9201,10 +9201,10 @@ claims:
     attribution_mode: bare_ok
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.975
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 0d4dfba6-a53b-4f23-a2ad-e4c9bea44076
         title: Robert Bigelow
@@ -9379,10 +9379,10 @@ claims:
     attribution_mode: bare_ok
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.951
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.998
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 0d4dfba6-a53b-4f23-a2ad-e4c9bea44076
         title: Robert Bigelow
@@ -9608,10 +9608,10 @@ claims:
     attribution_mode: bare_ok
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.974
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
         title: Unidentified Flying Object (UFO)
@@ -10336,10 +10336,10 @@ claims:
     attribution_mode: unknown
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.995
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.998
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 0d4dfba6-a53b-4f23-a2ad-e4c9bea44076
         title: Robert Bigelow
@@ -10500,10 +10500,10 @@ claims:
     attribution_mode: bare_ok
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.951
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 534d5a8e-f233-402a-bc49-a47c18df676a
         title: Soviet-era crash retrieval in Kazakhstan
@@ -10784,10 +10784,10 @@ claims:
     attribution_mode: bare_ok
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.808
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 99f08514-5471-4eaf-bce3-46c474a8d304
         title: United States Department of Defense (DoD)
@@ -10867,10 +10867,10 @@ claims:
     attribution_mode: bare_ok
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.997
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 3a865991-eaad-4855-8980-b28dfb98691a
         title: James Lacatski
@@ -11305,10 +11305,10 @@ claims:
     attribution_mode: bare_ok
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.937
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.996
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: d532997b-8a3d-4d47-9fd3-17e736310f75
         title: USA, Utah, Skinwalker Ranch
@@ -11346,10 +11346,10 @@ claims:
     attribution_mode: bare_ok
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.996
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.986
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: a0e7ac53-aaa3-441b-a7c8-48272d04eee2
         title: Terry Sherman
@@ -11602,10 +11602,10 @@ claims:
     attribution_mode: unknown
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.993
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 308f34b4-6251-45c8-9257-e74b6b50b805
         title: Tubular Bells
@@ -11827,10 +11827,10 @@ claims:
     attribution_mode: unknown
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.994
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.995
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: d532997b-8a3d-4d47-9fd3-17e736310f75
         title: USA, Utah, Skinwalker Ranch
@@ -12000,10 +12000,10 @@ claims:
     attribution_mode: unknown
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.988
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.992
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 0d4dfba6-a53b-4f23-a2ad-e4c9bea44076
         title: Robert Bigelow
@@ -12041,10 +12041,10 @@ claims:
     attribution_mode: bare_ok
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.939
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.976
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: cc6d8585-d896-4fc3-b3a2-28d9a7d153ab
         title: Advanced Aerospace Weapon System Applications Program (AAWSAP)
@@ -12121,9 +12121,9 @@ claims:
     attachment: unreviewed
     entailment:
       label: neutral
-      score: 0.979
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      score: 0.497
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 0d4dfba6-a53b-4f23-a2ad-e4c9bea44076
         title: Robert Bigelow

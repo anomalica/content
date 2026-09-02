@@ -9,7 +9,7 @@ page:
   claim_count: 58
   claim_count_total: 58
 generated:
-  graph_version: '2026-09-02T13:07:29.167026+00:00'
+  graph_version: '2026-09-02T14:12:13.257772+00:00'
 size:
   claims: 58
   tokens_estimated: 7884
@@ -17,13 +17,13 @@ size:
 entailment:
   assessed: 58
   unassessed: 0
-  entails: 46
-  neutral: 9
+  entails: 52
+  neutral: 3
   contradicts: 3
   entailed_by_quote: 17
-  entailed_by_window: 29
+  entailed_by_window: 35
   entailed_by_quote_fraction: 0.293
-  entailed_by_window_fraction: 0.5
+  entailed_by_window_fraction: 0.603
 publication:
   status: published
   note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
@@ -1424,10 +1424,10 @@ claims:
     attribution_mode: bare_ok
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.98
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.964
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: cc6d8585-d896-4fc3-b3a2-28d9a7d153ab
         title: Advanced Aerospace Weapon System Applications Program (AAWSAP)
@@ -1505,10 +1505,10 @@ claims:
     attribution_mode: unknown
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.989
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.96
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: d047a520-092f-4fe5-935d-ef4eadd7c952
         title: Legacy Program
@@ -1705,10 +1705,10 @@ claims:
     attribution_mode: bare_ok
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.94
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: d047a520-092f-4fe5-935d-ef4eadd7c952
         title: Legacy Program
@@ -1907,10 +1907,10 @@ claims:
     attribution_mode: unknown
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.998
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.985
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: d047a520-092f-4fe5-935d-ef4eadd7c952
         title: Legacy Program
@@ -1993,10 +1993,10 @@ claims:
     attribution_mode: unknown
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.98
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.68
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: d047a520-092f-4fe5-935d-ef4eadd7c952
         title: Legacy Program
@@ -2506,10 +2506,10 @@ claims:
     attribution_mode: bare_ok
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.998
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.898
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 4c067d57-05f3-4975-b43f-96e405d0d2d7
         title: Nat Kobitz

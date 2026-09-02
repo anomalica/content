@@ -1,5 +1,5 @@
 schema: anomalica/brief/1
-brief_hash: 98534f5e73d73748ac287ab520d40f1d15ae1033aa3103dc9711bf99a39b4eea
+brief_hash: a3eebc8ee305884b6f87e6a64b38e71435281366ce77c6f267fdf534853145c0
 page:
   kind: entity
   node_id: 1cc93fc2-f71a-4f59-90e3-dd72c98943db
@@ -9,7 +9,7 @@ page:
   claim_count: 30
   claim_count_total: 30
 generated:
-  graph_version: '2026-09-02T13:07:29.167026+00:00'
+  graph_version: '2026-09-02T14:12:13.257772+00:00'
 size:
   claims: 30
   tokens_estimated: 3624
@@ -821,7 +821,7 @@ claims:
       content_hash: sha256:d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7b5a1b98d
       friendly_name: null
   - claim_id: 233590ec-fa47-49d4-af3f-565329bd7de8
-    claim_hash: ed2fe0b14b19a504520a7f1f739fd31b2533ba214411fdcfc9dedd1d29028e1b
+    claim_hash: 9bb220dd240c08cdfa73f231a8ecb5d53a1cfddcb1a29333c062b884ef9a210a
     content: Bigelow Aerospace was the contractor that ran the Pentagon's UFO programme.
     original_excerpt: '[note: Begelow Aerospace - Contractor that ran the Pentagon''s UFO program]'
     claim_type: administrative

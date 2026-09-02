@@ -1,5 +1,5 @@
 schema: anomalica/brief/1
-brief_hash: 1bdd255b70090f2b1ef25a03e3157b93533528a95eb4327ac063a80bcd7b2b4a
+brief_hash: b4b6dbaec204e960f72ba98a4c5b6f7f75b1a399d6ce060485277511afae2449
 page:
   kind: entity
   node_id: f2a10ed1-543e-4df4-8e98-f45964a6a1af
@@ -9,7 +9,7 @@ page:
   claim_count: 12
   claim_count_total: 12
 generated:
-  graph_version: '2026-09-02T13:07:29.167026+00:00'
+  graph_version: '2026-09-02T14:12:13.257772+00:00'
 size:
   claims: 12
   tokens_estimated: 1461
@@ -260,7 +260,7 @@ claims:
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
   - claim_id: 547e4e1a-db91-4538-8afb-80d259c1a735
-    claim_hash: 17cb98d7ab701345d8ef4efeb00e8ff6513357207da1dc09f761c734da2c6420
+    claim_hash: a01e355556737a2458526f06ff339998dde3d198eeb22c7aec5fad159fc73f6d
     content: A Pentagon spokesperson confirmed to the media that Luis D. Elizondo provides technical advice on a variety of
       classified topics for the United States Space Force (USSF).
     original_excerpt: 'A spokesperson confirmed to the media: “Mr. Elizondo provides technical advice on a variety of classified

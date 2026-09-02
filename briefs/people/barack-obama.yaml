@@ -1,5 +1,5 @@
 schema: anomalica/brief/1
-brief_hash: 08a19b0372962047e04848955f50a2baccb177a3855d920519e7e4aa30fd31ff
+brief_hash: 4d92ba7e68ee50a3590d4bde02d39ac0be364373f9670f19359173aa155652eb
 page:
   kind: entity
   node_id: 65058869-076f-47d0-92ea-f8daf08b94cf
@@ -9,7 +9,7 @@ page:
   claim_count: 29
   claim_count_total: 29
 generated:
-  graph_version: '2026-09-02T13:07:29.167026+00:00'
+  graph_version: '2026-09-02T14:12:13.257772+00:00'
 size:
   claims: 29
   tokens_estimated: 3887
@@ -17,13 +17,13 @@ size:
 entailment:
   assessed: 29
   unassessed: 0
-  entails: 14
-  neutral: 9
+  entails: 17
+  neutral: 6
   contradicts: 6
   entailed_by_quote: 12
-  entailed_by_window: 2
+  entailed_by_window: 5
   entailed_by_quote_fraction: 0.414
-  entailed_by_window_fraction: 0.069
+  entailed_by_window_fraction: 0.172
 publication:
   status: published
   note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
@@ -33,7 +33,7 @@ belonging:
   suspect_excluded: 0
   unreviewed: 29
 related_nodes:
-  - node_id: 459eb5cf-ea76-4cad-9421-a726261cd3a2
+  - node_id: c8b2f71c-febf-446f-9b1e-3e6bdc6c86c5
     title: William J. Clinton
     node_type: person
     slug: william-j-clinton
@@ -400,7 +400,7 @@ claims:
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
   - claim_id: 9c8ff4cf-926d-48ca-b2d8-182d91584074
-    claim_hash: b52f67561ebe7380fb8464fc770a30e064ff681d487fb0d6f2b614a8b3e51889
+    claim_hash: 2280a59d8d19fe09063fe81e3fe34dc2068fd5b4164529691fd70e374415a36c
     content: When told by Jimmy Kimmel in March 2015 that President Clinton had said he checked and found nothing regarding
       UFOs, Barack Obama replied that saying there was nothing is what presidents are instructed to say.
     original_excerpt: 'Jimmy: ''Oh really. Because President Clinton said he did go right in and he did check and there was
@@ -425,12 +425,12 @@ claims:
       - node_id: 167b9461-2288-4c48-b9b5-7b798d883f4f
         title: 2015-03 Obama Jimmy Kimmel Live interview on aliens
         slug: 2015-03-obama-jimmy-kimmel-live-interview-on-aliens
-      - node_id: 459eb5cf-ea76-4cad-9421-a726261cd3a2
-        title: William J. Clinton
-        slug: william-j-clinton
       - node_id: 65058869-076f-47d0-92ea-f8daf08b94cf
         title: Barack Obama
         slug: barack-obama
+      - node_id: c8b2f71c-febf-446f-9b1e-3e6bdc6c86c5
+        title: William J. Clinton
+        slug: william-j-clinton
       - node_id: ea8ea587-d42e-4dc4-83b4-3804488fe215
         title: Jimmy Kimmel Live
         slug: jimmy-kimmel-live
@@ -448,7 +448,7 @@ claims:
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
   - claim_id: 3476f827-1a18-46dd-9d45-2c4cb30fc3b1
-    claim_hash: 6d348a68b86c9de725ef24361e73ffdc78e33819a873a2ee9d06d3e2cd7b90ef
+    claim_hash: 3b6b5d8a6ee71d15fc8ee8d7916fdef4480478074a6153d69662af1da0e16069
     content: John Podesta held top-secret/Sensitive Compartmented Information (SCI) clearances in his past roles with both
       Presidents Obama and Clinton.
     original_excerpt: He is a senior and well-respected public servant who held top-secret/SCI clearances in his past roles
@@ -471,15 +471,15 @@ claims:
       - node_id: 176b82fd-52fb-4c89-944c-e03e424fd545
         title: John Podesta
         slug: john-podesta
-      - node_id: 459eb5cf-ea76-4cad-9421-a726261cd3a2
-        title: William J. Clinton
-        slug: william-j-clinton
       - node_id: 65058869-076f-47d0-92ea-f8daf08b94cf
         title: Barack Obama
         slug: barack-obama
       - node_id: 9bb3e171-2197-411c-ab51-c4ea9dd2048f
         title: Sensitive Compartmented Information Facility (SCIF)
         slug: sensitive-compartmented-information-facility-scif
+      - node_id: c8b2f71c-febf-446f-9b1e-3e6bdc6c86c5
+        title: William J. Clinton
+        slug: william-j-clinton
     date: null
     date_end: null
     location_in_record: ch20:17002-17135
@@ -494,7 +494,7 @@ claims:
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
   - claim_id: 9f87020e-0b71-4a5c-96c1-665a4085bc5a
-    claim_hash: 9ea0c94853ef660494d986ed282c39d2e339a185d3c55096c678f2d9d1c8b11c
+    claim_hash: 00fe25ea328a694c99121794a0b04ead97cfcdf72ada57f438ef90e922007d3d
     content: John Podesta is a confidant of Presidents Bill Clinton and Barack Obama.
     original_excerpt: John Podesta, the confidant of Presidents Clinton and Obama
     claim_type: administrative
@@ -515,12 +515,12 @@ claims:
       - node_id: 176b82fd-52fb-4c89-944c-e03e424fd545
         title: John Podesta
         slug: john-podesta
-      - node_id: 459eb5cf-ea76-4cad-9421-a726261cd3a2
-        title: William J. Clinton
-        slug: william-j-clinton
       - node_id: 65058869-076f-47d0-92ea-f8daf08b94cf
         title: Barack Obama
         slug: barack-obama
+      - node_id: c8b2f71c-febf-446f-9b1e-3e6bdc6c86c5
+        title: William J. Clinton
+        slug: william-j-clinton
     date: null
     date_end: null
     location_in_record: ch28:28552-28606
@@ -708,7 +708,7 @@ claims:
       content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
       friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
   - claim_id: 79bece11-f229-43bb-832d-42c337d7c6e9
-    claim_hash: 7909cb798bb6ce57a7fb7f7d7f499d7c4267871847a27ab6d7483cd3583833bd
+    claim_hash: a932852ff237a4d4eb3b504eae95ca81f29f3e5d41a7a3d5abbfbf51975968c6
     content: John Podesta served as chief of staff to President Bill Clinton, counselor to President Barack Obama, and campaign
       manager to Hillary Clinton.
     original_excerpt: John Podesta, who had served as chief of staff to President Clinton, counselor to President Barack Obama,
@@ -734,12 +734,12 @@ claims:
       - node_id: 33ae3380-25ea-442a-9d60-69b285a20182
         title: Hillary Clinton
         slug: hillary-clinton
-      - node_id: 459eb5cf-ea76-4cad-9421-a726261cd3a2
-        title: William J. Clinton
-        slug: william-j-clinton
       - node_id: 65058869-076f-47d0-92ea-f8daf08b94cf
         title: Barack Obama
         slug: barack-obama
+      - node_id: c8b2f71c-febf-446f-9b1e-3e6bdc6c86c5
+        title: William J. Clinton
+        slug: william-j-clinton
     date: null
     date_end: null
     location_in_record: ch29:13091-13242
@@ -837,7 +837,7 @@ claims:
       content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
       friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
   - claim_id: 8f999b2d-5a47-448f-9ce3-87f6e6d43145
-    claim_hash: 7373e8f62859fd4519f119d993adb982338c65dde8858d2c3cf2a588042557cb
+    claim_hash: 298e35136016a24a79b6d15c46c6a073c3a9e5ac74105f006588eca8fdf4b925
     content: Ross Coulthart considers it unacceptable that United States presidents Bill Clinton, Barack Obama, Gerald Ford
       and Jimmy Carter were not able to be briefed on Unidentified Flying Object information while serving as commander in
       chief.
@@ -864,9 +864,6 @@ claims:
       - node_id: 3030c72b-534a-4ddb-88ec-c09f315b9d87
         title: Gerald Ford
         slug: gerald-ford
-      - node_id: 459eb5cf-ea76-4cad-9421-a726261cd3a2
-        title: William J. Clinton
-        slug: william-j-clinton
       - node_id: 65058869-076f-47d0-92ea-f8daf08b94cf
         title: Barack Obama
         slug: barack-obama
@@ -876,6 +873,9 @@ claims:
       - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
         title: Unidentified Flying Object (UFO)
         slug: unidentified-flying-object-ufo
+      - node_id: c8b2f71c-febf-446f-9b1e-3e6bdc6c86c5
+        title: William J. Clinton
+        slug: william-j-clinton
       - node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
         title: Ross Coulthart
         slug: ross-coulthart
@@ -893,7 +893,7 @@ claims:
       content_hash: sha256:73be106d406f6d35a063a894e8384e7da0918eb8597d2107a9e3653becca2bdc
       friendly_name: null
   - claim_id: 7be64312-c7b5-4528-af89-1659f36042a5
-    claim_hash: 96199762c0839795219ffd9fbd845b14aee2d7dd9133bc6c24e51304e4d3698d
+    claim_hash: d1a064184c4f18034ea7584c9275f232432da81d23ad4ad8af52efd38a12a6e4
     content: Bill Clinton and Barack Obama came into office without being connected to the United States establishment, unlike
       Ronald Reagan, Richard Nixon and the Bush family, in Jason Samosa's view.
     original_excerpt: Clinton and Obama coming into office really weren't connected to the establishment of the United States.
@@ -922,12 +922,12 @@ claims:
       - node_id: 3690087e-5e65-4693-8b72-f144d9963dd5
         title: Richard Nixon
         slug: richard-nixon
-      - node_id: 459eb5cf-ea76-4cad-9421-a726261cd3a2
-        title: William J. Clinton
-        slug: william-j-clinton
       - node_id: 65058869-076f-47d0-92ea-f8daf08b94cf
         title: Barack Obama
         slug: barack-obama
+      - node_id: c8b2f71c-febf-446f-9b1e-3e6bdc6c86c5
+        title: William J. Clinton
+        slug: william-j-clinton
       - node_id: dba2f206-7088-4fe9-9fc5-d7228a9149f4
         title: George Herbert Walker Bush
         slug: george-herbert-walker-bush
@@ -1073,7 +1073,7 @@ claims:
       content_hash: sha256:d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7b5a1b98d
       friendly_name: null
   - claim_id: 47b047a2-c3f6-4c15-8593-a68f792c874d
-    claim_hash: ac2f7b526ac4e3637353937705bc31a44f1999597d8e164a44b645c6795774a8
+    claim_hash: 808fede93b4bdeff2d8516eaf9535987bb404ec8ff2af95144cbe163447adc31
     content: Bill Clinton said the same thing as Barack Obama about there being nothing underground at Area 51.
     original_excerpt: What's so interesting about that is Clinton said exactly the same thing. ... They both said, yeah, there's
       nothing underground under area 51.
@@ -1095,12 +1095,12 @@ claims:
       model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
       premise: window
     node_refs:
-      - node_id: 459eb5cf-ea76-4cad-9421-a726261cd3a2
-        title: William J. Clinton
-        slug: william-j-clinton
       - node_id: 65058869-076f-47d0-92ea-f8daf08b94cf
         title: Barack Obama
         slug: barack-obama
+      - node_id: c8b2f71c-febf-446f-9b1e-3e6bdc6c86c5
+        title: William J. Clinton
+        slug: william-j-clinton
       - node_id: dcfde05e-4c6d-4f3a-80da-781e42865401
         title: USA, Nevada, Area 51
         slug: nevada-area-51-usa
@@ -1118,7 +1118,7 @@ claims:
       content_hash: sha256:d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7b5a1b98d
       friendly_name: null
   - claim_id: 5648f0fb-569c-4b17-9fef-65219b6533e4
-    claim_hash: ef234d8444d38179e75927f2e06a34f0695ecf5cd0b4e4bcb8daa84c4d882f3d
+    claim_hash: 21e638d4c697076ee4a05f20d5c9499b068d2f0c03060ff62a77463b24327356
     content: Jason Samosa finds it strange that both Bill Clinton and Barack Obama, given a brief opportunity to speak about
       UFOs, chose to single out the question of whether anything is underground at Area 51.
     original_excerpt: What a weird thing to zero in on. ... It's like, if I'm asked about UFOs, there's a thousand things
@@ -1140,12 +1140,12 @@ claims:
       model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
       premise: window
     node_refs:
-      - node_id: 459eb5cf-ea76-4cad-9421-a726261cd3a2
-        title: William J. Clinton
-        slug: william-j-clinton
       - node_id: 65058869-076f-47d0-92ea-f8daf08b94cf
         title: Barack Obama
         slug: barack-obama
+      - node_id: c8b2f71c-febf-446f-9b1e-3e6bdc6c86c5
+        title: William J. Clinton
+        slug: william-j-clinton
       - node_id: dcfde05e-4c6d-4f3a-80da-781e42865401
         title: USA, Nevada, Area 51
         slug: nevada-area-51-usa
@@ -1184,10 +1184,10 @@ claims:
     attribution_mode: unknown
     attachment: unreviewed
     entailment:
-      label: neutral
+      label: entails
       score: 0.997
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 079d4381-4273-418b-bc9a-468623f95c6e
         title: Jesse Mitchells
@@ -1231,10 +1231,10 @@ claims:
     attribution_mode: unknown
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.989
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.997
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 65058869-076f-47d0-92ea-f8daf08b94cf
         title: Barack Obama
@@ -1369,10 +1369,10 @@ claims:
     attribution_mode: bare_ok
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.988
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.998
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 65058869-076f-47d0-92ea-f8daf08b94cf
         title: Barack Obama

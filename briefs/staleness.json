@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-02T13:13:12.152454+00:00",
+  "generated_at": "2026-09-02T14:16:30.636918+00:00",
   "not_measurable": 0,
   "pages": {
     "documents/book-of-revelation-apocalypse": {
@@ -394,7 +394,7 @@
     },
     "events/assassination-of-john-f-kennedy": {
       "added": 0,
-      "brief_hash": "6c63455466d7b842e87de29578fe9430ab0aba1bce79ec7443a83148fd5ca180",
+      "brief_hash": "bcf7b209f97b4c8994d16ce47c55cc59e0ebc951845872050e0694e759052b9b",
       "brief_total": 25,
       "changed": 0,
       "content_pct": 0.0,
@@ -559,7 +559,7 @@
     },
     "events/roswell-incident-1947": {
       "added": 0,
-      "brief_hash": "61bdf543893e2ff1dbfa4c3451c422b0153273a6bace111e39c62547883ad873",
+      "brief_hash": "2ffad326ceefae5a85c528ce40a1aa851836ae5f410faa017da185e422bd4eaf",
       "brief_total": 194,
       "changed": 0,
       "content_pct": 0.0,
@@ -664,7 +664,7 @@
     },
     "events/world-war-ii": {
       "added": 0,
-      "brief_hash": "4dfbc2a699d92ac975e0371b579e7f0dfb2fc28d550f41bd4f7e5da998cb1d01",
+      "brief_hash": "b03b1ab5d048e4d0d91dadcb424d66244ed1d1f5022e6d3a03a9c6a70b0fa835",
       "brief_total": 54,
       "changed": 0,
       "content_pct": 0.0,
@@ -1024,7 +1024,7 @@
     },
     "organisations/all-domain-anomaly-resolution-office-aaro": {
       "added": 0,
-      "brief_hash": "cedd74c23b7f590ef696da6199be0f0da87a9bec749ef624f80d65f52baf7a47",
+      "brief_hash": "299c21e6b0ca4d8d6ba91deb5ba51ddccda0acaf95e3c92da4b3598980c5f300",
       "brief_total": 186,
       "changed": 0,
       "content_pct": 0.0,
@@ -1174,7 +1174,7 @@
     },
     "organisations/bigelow-aerospace": {
       "added": 0,
-      "brief_hash": "98534f5e73d73748ac287ab520d40f1d15ae1033aa3103dc9711bf99a39b4eea",
+      "brief_hash": "a3eebc8ee305884b6f87e6a64b38e71435281366ce77c6f267fdf534853145c0",
       "brief_total": 30,
       "changed": 0,
       "content_pct": 0.0,
@@ -1324,7 +1324,7 @@
     },
     "organisations/central-intelligence-agency-cia": {
       "added": 0,
-      "brief_hash": "238ccbf13c75035dfe266c2517d48c33ba96829de63bbccbd484332c46cde063",
+      "brief_hash": "df256584536d35a5542153c1b6c2fe6f3bfe46dc06b20b5318556761cad1a411",
       "brief_total": 274,
       "changed": 0,
       "content_pct": 0.0,
@@ -1386,14 +1386,14 @@
       "added": 0,
       "brief_hash": "5ebe1840c0c7ab0f5c517b234ce687ac779bf4930db4f204bf8e586f68ff573a",
       "brief_total": 16,
-      "changed": 2,
-      "content_pct": 12.5,
+      "changed": 3,
+      "content_pct": 18.75,
       "current_total": 16,
       "gone": 0,
       "new_pct": 0.0,
       "node_id": "df2fedf9-5457-461a-a96c-2ade2d4e69ce",
       "node_state": "live",
-      "pct": 12.5,
+      "pct": 18.75,
       "slug": "collins-elite",
       "title": "Collins Elite"
     },
@@ -1489,7 +1489,7 @@
     },
     "organisations/defense-intelligence-agency-dia": {
       "added": 0,
-      "brief_hash": "8bb682036805ec32f2ea8e699f35b22cec34c4939ff7072dcd1ff378770eb294",
+      "brief_hash": "781559542519f9f3632a8910c6defec2edcd788a0c9ec58937b281794f60b203",
       "brief_total": 106,
       "changed": 0,
       "content_pct": 0.0,
@@ -1639,7 +1639,7 @@
     },
     "organisations/federal-bureau-of-investigation-fbi": {
       "added": 0,
-      "brief_hash": "ce1f5a5ba0b62c49814b66640de99eb1a1222a3588c2fb683da6d86ac4365b6e",
+      "brief_hash": "797007b1753d295673faf3fd07d3099f9d13f327f9785c9dd6b10f0cd4d9ab8c",
       "brief_total": 55,
       "changed": 0,
       "content_pct": 0.0,
@@ -2224,7 +2224,7 @@
     },
     "organisations/national-aeronautics-and-space-administration-nasa": {
       "added": 0,
-      "brief_hash": "3d840e4dd3eed95571f9a5c56cc41e7ded353ff5896e10315405c218b5472548",
+      "brief_hash": "555386368c863f680e4a272f266a4a99c098b33857f63e31a9611dc540fa5910",
       "brief_total": 645,
       "changed": 0,
       "content_pct": 0.0,
@@ -2599,7 +2599,7 @@
     },
     "organisations/office-of-the-under-secretary-of-defense-for-intelligence-ousdi": {
       "added": 0,
-      "brief_hash": "dbe2695a948325be2b4b8022518b594d49efc77d4493d40043945598d17019f8",
+      "brief_hash": "2170ebc351f27187bee05141543691f4d0c4a0102a7795c6cdea95b642bf9b65",
       "brief_total": 62,
       "changed": 0,
       "content_pct": 0.0,
@@ -3169,7 +3169,7 @@
     },
     "organisations/the-new-york-times": {
       "added": 0,
-      "brief_hash": "5e91cb3ba1993887a28d7e6a7a87afccb4f16b6785d9c79f1754ede79d4f12d3",
+      "brief_hash": "0722620b4827d0804fe318484ebbfe8065c0fefbadfd34daa8db41633e72c3b9",
       "brief_total": 35,
       "changed": 0,
       "content_pct": 0.0,
@@ -3184,7 +3184,7 @@
     },
     "organisations/the-pentagon": {
       "added": 0,
-      "brief_hash": "0c90acda78ae174ccf661e1ed1f93dd2d684431ed3dfc2a56a1d0ba745222e80",
+      "brief_hash": "651ae044942780362fd1aa0c4d17846c5352fd431d459d7451d42be808a71c5f",
       "brief_total": 66,
       "changed": 0,
       "content_pct": 0.0,
@@ -3334,7 +3334,7 @@
     },
     "organisations/united-states-air-force-usaf": {
       "added": 0,
-      "brief_hash": "c4342ac75dcfa2883858d6dff979700a030f7b6bf3c01174c172d58a81fa83cc",
+      "brief_hash": "2f43a56fbd359feae66cd2b7775cf83f3d680170960b2d8bb667c38542bef8f6",
       "brief_total": 331,
       "changed": 0,
       "content_pct": 0.0,
@@ -3394,7 +3394,7 @@
     },
     "organisations/united-states-congress": {
       "added": 0,
-      "brief_hash": "7a95210b3cb9a31ac25b9fd6469530104cfe743d03a2229297a0fbe41ff252c0",
+      "brief_hash": "ea394718a1c87a5a9cd02508d235d42580afdaab950beb17996a75c865f64bfb",
       "brief_total": 264,
       "changed": 0,
       "content_pct": 0.0,
@@ -3409,7 +3409,7 @@
     },
     "organisations/united-states-department-of-defense-dod": {
       "added": 0,
-      "brief_hash": "5af8fac733cda4e26c176f99ebbc8ff69a99d8cb58c1bf8191728150e071b854",
+      "brief_hash": "d3259da3ed37abf5141dbea5b66f7e11c2dc02bdc4caa1168aded7b393d6e5fd",
       "brief_total": 311,
       "changed": 0,
       "content_pct": 0.0,
@@ -3426,14 +3426,14 @@
       "added": 0,
       "brief_hash": "4a214005ab791d87d428ea8bb9d76690ca3279e6c71491c5c2e88d1253dedf05",
       "brief_total": 12,
-      "changed": 2,
-      "content_pct": 16.67,
+      "changed": 3,
+      "content_pct": 25.0,
       "current_total": 12,
       "gone": 0,
       "new_pct": 0.0,
       "node_id": "09527e2e-b76c-4293-a9ce-a2b531b038e6",
       "node_state": "live",
-      "pct": 16.67,
+      "pct": 25.0,
       "slug": "united-states-department-of-energy-doe",
       "title": "United States Department of Energy (DOE)"
     },
@@ -3454,7 +3454,7 @@
     },
     "organisations/united-states-department-of-war": {
       "added": 0,
-      "brief_hash": "bafa27820579c706d9fa27a7551af9b42220d08cc9aaee95e6435b8f8641270b",
+      "brief_hash": "a13314eef62e90ee05ea05eaca4f0507136cb9445b626870404bb42a667fe7c8",
       "brief_total": 15,
       "changed": 0,
       "content_pct": 0.0,
@@ -3589,7 +3589,7 @@
     },
     "organisations/united-states-space-force-ussf": {
       "added": 0,
-      "brief_hash": "1bdd255b70090f2b1ef25a03e3157b93533528a95eb4327ac063a80bcd7b2b4a",
+      "brief_hash": "b4b6dbaec204e960f72ba98a4c5b6f7f75b1a399d6ce060485277511afae2449",
       "brief_total": 12,
       "changed": 0,
       "content_pct": 0.0,
@@ -4114,7 +4114,7 @@
     },
     "people/anne-strieber": {
       "added": 0,
-      "brief_hash": "0c3b4c460df9d84425ed978101c89d72d95ab7684f7f47a91f7e5e5065bd6262",
+      "brief_hash": "0f0bded3a749da2b56e809261b2a7d4e53d8c4f1ee70f8abe0d16e8c616c2f0e",
       "brief_total": 238,
       "changed": 0,
       "content_pct": 0.0,
@@ -4249,7 +4249,7 @@
     },
     "people/barack-obama": {
       "added": 0,
-      "brief_hash": "08a19b0372962047e04848955f50a2baccb177a3855d920519e7e4aa30fd31ff",
+      "brief_hash": "4d92ba7e68ee50a3590d4bde02d39ac0be364373f9670f19359173aa155652eb",
       "brief_total": 29,
       "changed": 0,
       "content_pct": 0.0,
@@ -4519,7 +4519,7 @@
     },
     "people/bruce-maccabee": {
       "added": 0,
-      "brief_hash": "1821d1e8c95b048737348fc0d9180f80800ab74fb3cccf014298d3bb4a131cba",
+      "brief_hash": "a2f7c780cc8bd60463c1cb86488bb132d69aa3f25287a08aea6e68529066903a",
       "brief_total": 11,
       "changed": 0,
       "content_pct": 0.0,
@@ -4534,7 +4534,7 @@
     },
     "people/bryan-bender": {
       "added": 0,
-      "brief_hash": "3f579c9d188239e3fc26fafabf654a208e428eaa284f9069c02bf687efdcc88a",
+      "brief_hash": "e167c7a999b8976304e48b11cb2849fa75ca6a1b3116d71fbfd16d2212d30eda",
       "brief_total": 16,
       "changed": 0,
       "content_pct": 0.0,
@@ -4699,7 +4699,7 @@
     },
     "people/chris-ramsay": {
       "added": 0,
-      "brief_hash": "b6f5b29e00a133d00a5d2bda4a4a6e2d184ba51952990f7c1d2c6c85179ca407",
+      "brief_hash": "b183e5166682e85e2c5542ddda2bb8f9f4f8603008f0a1a996fd97e5b1494780",
       "brief_total": 704,
       "changed": 0,
       "content_pct": 0.0,
@@ -4714,14 +4714,14 @@
     },
     "people/christopher-bledsoe": {
       "added": 0,
-      "brief_hash": "2bab787622ddeb32cab844daa818895969d5333730848f24dc892771f4c1d785",
+      "brief_hash": "2ca5eeb4bb0c0074d710d55e7eff08771211e67c75521c3bca7c78b05668b908",
       "brief_total": 18,
       "changed": 0,
       "content_pct": 0.0,
       "current_total": 18,
       "gone": 0,
       "new_pct": 0.0,
-      "node_id": "b4365ffa-36b6-40b3-9144-99086771a894",
+      "node_id": "458b18fd-fdef-47b9-b418-4021376ca630",
       "node_state": "live",
       "pct": 0.0,
       "slug": "christopher-bledsoe",
@@ -4939,7 +4939,7 @@
     },
     "people/daniel-k-inouye": {
       "added": 0,
-      "brief_hash": "138a94304d955bd8c1bb9c1b57ba5d7a05a6397607977937f5594144cd663b51",
+      "brief_hash": "ba8ea149ac7e520e2b54803c51bbdaf694de9ea1272c473553a21dc660e45760",
       "brief_total": 16,
       "changed": 0,
       "content_pct": 0.0,
@@ -4954,7 +4954,7 @@
     },
     "people/david-charles-grusch": {
       "added": 0,
-      "brief_hash": "49af9b08ac94ce34c119b1b11d6dab4d07566b5e15bb5183255ba81e761d028c",
+      "brief_hash": "a0064a1600e3b81359201e909068e0bb28c5b119f514a61ff8e2a38cd1045ee0",
       "brief_total": 447,
       "changed": 0,
       "content_pct": 0.0,
@@ -5149,7 +5149,7 @@
     },
     "people/donald-trump": {
       "added": 0,
-      "brief_hash": "7d66cba86643928d6dace2348c1386561785cf8ad4b0f0d0a1e52506644b6d02",
+      "brief_hash": "fec739be7cad5fb364f7764e2104985e4ab2b07509aec003323bb6b2313843a0",
       "brief_total": 123,
       "changed": 0,
       "content_pct": 0.0,
@@ -5179,7 +5179,7 @@
     },
     "people/dwight-d-eisenhower": {
       "added": 0,
-      "brief_hash": "82c25271034337da4cd0505b7fe25fa525c24d7941cd426308875c4f68f5e510",
+      "brief_hash": "e916f34be1495dfe023be280b35502f6e5e84310d65ca5a7c9cdcea39234fcf8",
       "brief_total": 24,
       "changed": 0,
       "content_pct": 0.0,
@@ -5269,7 +5269,7 @@
     },
     "people/edgar-mitchell": {
       "added": 0,
-      "brief_hash": "fd8997a5efdf52be3a46d11e2a4b6dfe97b2ca1085b5915250d6976bd017158d",
+      "brief_hash": "9d92f1ee276dcb93803e81e1a36427235dcf1a88c16860fb5604327448e1cdaf",
       "brief_total": 225,
       "changed": 0,
       "content_pct": 0.0,
@@ -5314,7 +5314,7 @@
     },
     "people/edward-u-condon": {
       "added": 0,
-      "brief_hash": "5856c881027192882a9c9436c5ad360957d5eea1c03f294d9df863fba7301511",
+      "brief_hash": "7ecca71f86c17ce4199900a05485fee0498c11a461d96df9286754e9db7f19d2",
       "brief_total": 20,
       "changed": 0,
       "content_pct": 0.0,
@@ -5704,7 +5704,7 @@
     },
     "people/george-herbert-walker-bush": {
       "added": 0,
-      "brief_hash": "110854074c62128ff39494c3fbbafd5e102e2b3cca77d133e28cacc2f65557f6",
+      "brief_hash": "351d557cf1b0c4a73ac201c8fde2e77c457f6183a30b193ed546f10a7f74ab74",
       "brief_total": 34,
       "changed": 0,
       "content_pct": 0.0,
@@ -5766,14 +5766,14 @@
       "added": 0,
       "brief_hash": "4c72c924d24d42b6a158436e75f0956c769b535fd8e6bd59de6aacf2d7810ada",
       "brief_total": 8,
-      "changed": 1,
-      "content_pct": 12.5,
+      "changed": 2,
+      "content_pct": 25.0,
       "current_total": 8,
       "gone": 0,
       "new_pct": 0.0,
       "node_id": "3030c72b-534a-4ddb-88ec-c09f315b9d87",
       "node_state": "live",
-      "pct": 12.5,
+      "pct": 25.0,
       "slug": "gerald-ford",
       "title": "Gerald Ford"
     },
@@ -5869,7 +5869,7 @@
     },
     "people/harold-e-puthoff": {
       "added": 0,
-      "brief_hash": "530ac74063a108373a8753dd81c2d3ae1039f1b959b90f0941770257937391a1",
+      "brief_hash": "ce11d696da704732ebbbc3bbef7ef3b0d94146c3e747200698b765d7ab08d4a4",
       "brief_total": 227,
       "changed": 0,
       "content_pct": 0.0,
@@ -5899,7 +5899,7 @@
     },
     "people/harry-reid": {
       "added": 0,
-      "brief_hash": "120a05cc0c7ef476d4d60cdc77b549ee7fee766628b93c11f8283284f97db09d",
+      "brief_hash": "809bc2a36528d1812867fc2ef225f71953932bed191b5755ef0cc566c7ac619e",
       "brief_total": 126,
       "changed": 0,
       "content_pct": 0.0,
@@ -5914,7 +5914,7 @@
     },
     "people/harry-s-truman": {
       "added": 0,
-      "brief_hash": "f9fe925c4bcc8f462229397181de7c2de64179866e5c62892103f0a123b04ba5",
+      "brief_hash": "accf3ec28ec2152ac81f752b5295009a9a746d8028bc8982585a0be793f41645",
       "brief_total": 36,
       "changed": 0,
       "content_pct": 0.0,
@@ -6034,7 +6034,7 @@
     },
     "people/hillary-clinton": {
       "added": 0,
-      "brief_hash": "0ac4dc6367e5bc935b493f06c6ead67334ccbfd3645dbfb0e8008066a6d74692",
+      "brief_hash": "4822b6de49b0a0155167b003b8dbc1af35c5d102b6283b481f7979a74ff02bc7",
       "brief_total": 21,
       "changed": 0,
       "content_pct": 0.0,
@@ -6274,7 +6274,7 @@
     },
     "people/jacques-vallee": {
       "added": 0,
-      "brief_hash": "9eecae09f832d57745bef4919a1a453b60db9a2882074d3e73722e413ffbdece",
+      "brief_hash": "94b56beb4d93d56ca339b453c2ee9e3aad5bc44c3c3c75ce97c64ea6113dedde",
       "brief_total": 950,
       "changed": 0,
       "content_pct": 0.0,
@@ -6439,7 +6439,7 @@
     },
     "people/james-r-clapper": {
       "added": 0,
-      "brief_hash": "c7d6b6d641b416a0603440a769c31046ad6e285680cae58dd48f0f9be6c2dd78",
+      "brief_hash": "b2eae6d64bbf9756c750b0ff1a0ca4f514aa47a023c6f969d22da5ea1e65bbec",
       "brief_total": 28,
       "changed": 0,
       "content_pct": 0.0,
@@ -6484,7 +6484,7 @@
     },
     "people/jay-stratton": {
       "added": 0,
-      "brief_hash": "f4f14b2b8da6f0edeb1e9cafaa065d6f632b653b873e4ef00e9ddb03882a13cc",
+      "brief_hash": "fe0238a4ca8a0c8127c58f91d828779b3cd00382ae03a698c4bec960bc160cbe",
       "brief_total": 73,
       "changed": 0,
       "content_pct": 0.0,
@@ -6574,7 +6574,7 @@
     },
     "people/jesse-marcel": {
       "added": 0,
-      "brief_hash": "713f40c31b407068d59f1585c3f1e62b8a6cb9aa738e85c8d572e012e66817c1",
+      "brief_hash": "0f6009149fea2254158f80b63a63cfd559d3b494f30323cafe3bc1deb1084dd6",
       "brief_total": 31,
       "changed": 0,
       "content_pct": 0.0,
@@ -6589,7 +6589,7 @@
     },
     "people/jesse-mitchells": {
       "added": 0,
-      "brief_hash": "867a9df8d034e2686b4688bfea4f65175aa6d916bfe11e8f41fdb9876461567c",
+      "brief_hash": "022c94932716578f36601dcbd092807a7479f35378261f8ab470b563fbcdbde8",
       "brief_total": 327,
       "changed": 0,
       "content_pct": 0.0,
@@ -6664,7 +6664,7 @@
     },
     "people/jim-semivan": {
       "added": 0,
-      "brief_hash": "c3bc43f75d1fe2948da8bf8c5364964aacd07a985a1541adf0ade9f66b0300e4",
+      "brief_hash": "ac0c5df411a2f036be8147509bd227c68327acf6277934ef40032f4cb7430717",
       "brief_total": 59,
       "changed": 0,
       "content_pct": 0.0,
@@ -6694,7 +6694,7 @@
     },
     "people/jimmy-carter": {
       "added": 0,
-      "brief_hash": "45f337b5af4910853d4b7194007c7f0caf81967182ee3d56d6c80a5a83c665f4",
+      "brief_hash": "348085e1bf5121aa15547223fa8675c79b15d7bf650654897b91c32bf5ab654e",
       "brief_total": 50,
       "changed": 0,
       "content_pct": 0.0,
@@ -6934,7 +6934,7 @@
     },
     "people/john-podesta": {
       "added": 0,
-      "brief_hash": "eff54e1362e6fa78ebc86c07cc32ea582d88379e4bca969d4c6331bcec458252",
+      "brief_hash": "2186bac49d0cc9dc3391ff4cd7da81550cedb41675957449fdcd9a6236e545ed",
       "brief_total": 53,
       "changed": 0,
       "content_pct": 0.0,
@@ -7251,14 +7251,14 @@
       "added": 0,
       "brief_hash": "026d41bebaed0ef7b203aaf68661a882322bf0c18c0881d62963c17398e8f76f",
       "brief_total": 5,
-      "changed": 1,
-      "content_pct": 20.0,
+      "changed": 2,
+      "content_pct": 40.0,
       "current_total": 5,
       "gone": 0,
       "new_pct": 0.0,
       "node_id": "f657fb13-198a-45d6-9530-253f2784f9d2",
       "node_state": "live",
-      "pct": 20.0,
+      "pct": 40.0,
       "slug": "laurance-rockefeller",
       "title": "Laurance Rockefeller"
     },
@@ -7354,7 +7354,7 @@
     },
     "people/luis-elizondo": {
       "added": 0,
-      "brief_hash": "c8bf26e7822d01f8c67bb83d1e7e6e945f35bf197b9f7470e9950973009d308d",
+      "brief_hash": "94c99d24caf7fba25ecb127145c4eb9eeccbd81da2735aa49848043b346e5da8",
       "brief_total": 1403,
       "changed": 0,
       "content_pct": 0.0,
@@ -8241,20 +8241,20 @@
       "added": 0,
       "brief_hash": "4e87e5a92e7ebf9ddf816d4358f64868d96bef6ea4ab871d6b8c4761ecd597e8",
       "brief_total": 10,
-      "changed": 1,
-      "content_pct": 10.0,
+      "changed": 2,
+      "content_pct": 20.0,
       "current_total": 10,
       "gone": 0,
       "new_pct": 0.0,
       "node_id": "3690087e-5e65-4693-8b72-f144d9963dd5",
       "node_state": "live",
-      "pct": 10.0,
+      "pct": 20.0,
       "slug": "richard-nixon",
       "title": "Richard Nixon"
     },
     "people/robert-bigelow": {
       "added": 0,
-      "brief_hash": "76978c78199f46ffd20dce4ddce09490c02ce7db32924de1c7507833db71afe6",
+      "brief_hash": "af40f307e89b86115390867b6eea12f823648968fb5973101add2827fb39f74b",
       "brief_total": 322,
       "changed": 0,
       "content_pct": 0.0,
@@ -8451,20 +8451,20 @@
       "added": 0,
       "brief_hash": "d44f991aeb97719a0b9c5f08c8a1f97c80f821ed3a3553e4f4565db2139545e1",
       "brief_total": 10,
-      "changed": 0,
-      "content_pct": 0.0,
+      "changed": 5,
+      "content_pct": 50.0,
       "current_total": 10,
       "gone": 0,
       "new_pct": 0.0,
       "node_id": "0c023c1b-30bd-48a1-a836-2b291ff5853a",
       "node_state": "live",
-      "pct": 0.0,
+      "pct": 50.0,
       "slug": "ronald-pandolfi",
       "title": "Ronald Pandolfi"
     },
     "people/ronald-reagan": {
       "added": 0,
-      "brief_hash": "4a46a696d09f12804dbe1bd69b493d6a5b7705de9b78e5a76db7f9f4fd4c98e5",
+      "brief_hash": "c83cbba8aa619760113a0863c62b00a314b5aee54a7ae7345b8b7016b0952874",
       "brief_total": 16,
       "changed": 0,
       "content_pct": 0.0,
@@ -8509,7 +8509,7 @@
     },
     "people/ross-coulthart": {
       "added": 0,
-      "brief_hash": "6c50c81d39818e034da61150a5fc41260abd0c4ec86ccf1ceeaeb9278a7182b2",
+      "brief_hash": "ad2fb33a660f3348f96015dc581939eec28a7fb038e1d07a61f5216aa2fd3721",
       "brief_total": 1253,
       "changed": 0,
       "content_pct": 0.0,
@@ -8809,7 +8809,7 @@
     },
     "people/steven-greer": {
       "added": 0,
-      "brief_hash": "9719ec56a172947e2010cfb1d0573464d885705ba6f4cb5bfdbd768b50cac726",
+      "brief_hash": "c499d9c53f78126c1e53b1e8211653c45e29ad5479933f0ed1c978073e1b932a",
       "brief_total": 68,
       "changed": 0,
       "content_pct": 0.0,
@@ -8914,7 +8914,7 @@
     },
     "people/ted-stevens": {
       "added": 0,
-      "brief_hash": "3d193878e45d00c89244479fb87db6f23ea83ece58b04a29000d2b7027b7b2ec",
+      "brief_hash": "568c17f6e6f03e4a3225028d1eb188657dcb5d23fa03b0d11e827ef45c06d887",
       "brief_total": 19,
       "changed": 0,
       "content_pct": 0.0,
@@ -8974,7 +8974,7 @@
     },
     "people/thomas-townsend-brown": {
       "added": 0,
-      "brief_hash": "bd907a14671eed84f7fac389cf2983a6ef73738942c2959bd81bc49aac71737c",
+      "brief_hash": "dca536347a096e519d014682fb94c7d1a21e34f4b7bd5acae2206e2dc6179674",
       "brief_total": 25,
       "changed": 0,
       "content_pct": 0.0,
@@ -9034,7 +9034,7 @@
     },
     "people/tom-delonge": {
       "added": 0,
-      "brief_hash": "a89ee010d9d2a65da8d1b5321aada0befbc98f122563a7bfe8febb3ab3134890",
+      "brief_hash": "f834e03600abbb74d3118403d117b465c38488726e5d56adcbaa3bb09c1158d2",
       "brief_total": 256,
       "changed": 0,
       "content_pct": 0.0,
@@ -9124,7 +9124,7 @@
     },
     "people/vannevar-bush": {
       "added": 0,
-      "brief_hash": "83bff59fd43186422aa7ba4e571937ede1acd199de504d1b845d45fdf5ce4989",
+      "brief_hash": "d69ed531f18d7c3c61cc1e5dc0e6932952b8109cd3cbd5a028cca23a481e7ee2",
       "brief_total": 31,
       "changed": 0,
       "content_pct": 0.0,
@@ -9154,7 +9154,7 @@
     },
     "people/walter-haut": {
       "added": 0,
-      "brief_hash": "7cfad4da8ac86db55b645ec083a5d47d7d419ef75c65cba12a25dab27d56c671",
+      "brief_hash": "fe62762ca12800aedb36e636cc0f5cd8aebed2b084a04aa2232e4e7fe5883fdd",
       "brief_total": 72,
       "changed": 0,
       "content_pct": 0.0,
@@ -9229,7 +9229,7 @@
     },
     "people/whitley-strieber": {
       "added": 0,
-      "brief_hash": "89f86dee42fa702bc8b66e365ffd26c9c0017bc407c290d50db1b703b47c6d93",
+      "brief_hash": "7d25eaed17aa25f93bfffe1da7288b9f271730a8f4fd92470db2e4ae5de552fa",
       "brief_total": 2461,
       "changed": 0,
       "content_pct": 0.0,
@@ -9274,7 +9274,7 @@
     },
     "people/william-blanchard": {
       "added": 0,
-      "brief_hash": "8fc4384cfbcc5a80f04c8950a53b9732a7e5cd0669a45150afffecc5b713e9cf",
+      "brief_hash": "ec6923d1655af02b180492b7f81b823fdf639cd3b34518ffe60a82af332bf544",
       "brief_total": 19,
       "changed": 0,
       "content_pct": 0.0,
@@ -9574,7 +9574,7 @@
     },
     "places/cuba": {
       "added": 0,
-      "brief_hash": "e545abd89f8efc49620e2f1dacb09be4d6000a7afeb5ede18ada09b1e7df7bda",
+      "brief_hash": "205f3750b9f98942ed7ced5d928d59ebd0ee299a0fd97a33e14300509b007a15",
       "brief_total": 14,
       "changed": 0,
       "content_pct": 0.0,
@@ -9589,7 +9589,7 @@
     },
     "places/district-of-columbia-washington-usa": {
       "added": 0,
-      "brief_hash": "12ac4156bffcaba0fd0be6f0529e769d4fe5c23db6ee2e277ab1963be45b10e2",
+      "brief_hash": "cc8b6f65435a5108e1c108c9ecff1211ef374b45c788fd2d188afc1ab96fc98a",
       "brief_total": 65,
       "changed": 0,
       "content_pct": 0.0,
@@ -9784,7 +9784,7 @@
     },
     "places/nevada-area-51-usa": {
       "added": 0,
-      "brief_hash": "bce780ec6955075ff17bfd26904faf4eba6d91519da28c777e8035b8a73258a6",
+      "brief_hash": "ff9f19a028599ff8ce84f0e1831b29cc204c659bb5b446c4e6ffe15a7551b21d",
       "brief_total": 51,
       "changed": 0,
       "content_pct": 0.0,
@@ -9889,7 +9889,7 @@
     },
     "places/new-mexico-roswell-usa": {
       "added": 0,
-      "brief_hash": "98ea7f21bb0157d1ea7235a55da8433a6c2d3c9eec839afaff7ebb0d7e60bd11",
+      "brief_hash": "d76ebc455235c4180d054434b02ca3756988b8e8f30ac40549ae3827e975110b",
       "brief_total": 54,
       "changed": 0,
       "content_pct": 0.0,
@@ -9919,7 +9919,7 @@
     },
     "places/new-mexico-usa": {
       "added": 0,
-      "brief_hash": "7f73ee6c1c476f174936c922ccfd2c6904df6275d9a0f8feae00b980e491ce5a",
+      "brief_hash": "4ce269b10b3de9cc768c661b78fa3eca79a368b927992d61dc14b66d63ab9109",
       "brief_total": 36,
       "changed": 0,
       "content_pct": 0.0,
@@ -10039,7 +10039,7 @@
     },
     "places/south-carolina-usa": {
       "added": 0,
-      "brief_hash": "86b993a4462daab8e193b6f780fb77a2b42a3175a9c052e1fe8d94df2a6a29a7",
+      "brief_hash": "2bcb172f9e6c12733869234de6b499fbdd6f073b96d08be678f39ae8205b8038",
       "brief_total": 19,
       "changed": 0,
       "content_pct": 0.0,
@@ -10144,7 +10144,7 @@
     },
     "places/victoria-melbourne-australia": {
       "added": 0,
-      "brief_hash": "50855ed4fc884642676a7f7b6513c719cfb1bbace95fcd9fed68ee61467c21b1",
+      "brief_hash": "c6adff293ae7d3343e72a92889545e08c84e8d44a4c4b5a24e514ec026e36ba1",
       "brief_total": 19,
       "changed": 0,
       "content_pct": 0.0,
@@ -10204,7 +10204,7 @@
     },
     "projects/advanced-aerospace-threat-identification-program-aatip": {
       "added": 0,
-      "brief_hash": "01d3c6dd16c45d84481e9c9cbb96bf5aa24176a6a6d2bdd93e9a3d7c446774e5",
+      "brief_hash": "362f1fbfbcaf06f9948f07efcf60382e6a9205c28972a18d35254ed33e0c25af",
       "brief_total": 277,
       "changed": 0,
       "content_pct": 0.0,
@@ -10264,7 +10264,7 @@
     },
     "projects/apollo-12": {
       "added": 0,
-      "brief_hash": "ddef85a5d988ad55d1020bcbca09c5db37716a42e37fe2ffad3bf54c78ec8cef",
+      "brief_hash": "6426ddf766a743b02ef937081b8521434e9c4a0dc5c5b5188ae168e7da7cbeef",
       "brief_total": 35,
       "changed": 0,
       "content_pct": 0.0,
@@ -10294,7 +10294,7 @@
     },
     "projects/apollo-14": {
       "added": 0,
-      "brief_hash": "77a9e370211f032d19d86ac484af712c719b91d4298bf3067eb418cf2ace3e3e",
+      "brief_hash": "5417db5ab84fc49d1c03fd0d17df0d900bc4733ba5e894bbfa0a26b2818398d0",
       "brief_total": 70,
       "changed": 0,
       "content_pct": 0.0,
@@ -10339,7 +10339,7 @@
     },
     "projects/apollo-17": {
       "added": 0,
-      "brief_hash": "f77eb250b3e3228fbcf0b4b938076a17f0af9cd76f85e3c137d3e4e1449238f1",
+      "brief_hash": "69fbdd80093e1ae533cc024e6c4af5f6b5ebb210b1a74077e93714ec016a742d",
       "brief_total": 79,
       "changed": 0,
       "content_pct": 0.0,
@@ -10414,7 +10414,7 @@
     },
     "projects/majestic-12-mj-12": {
       "added": 0,
-      "brief_hash": "3826c938ffa42e51a638492c802eb8215473c301d8cc57fe5e85ffb62f4c8663",
+      "brief_hash": "782ca36d5f911c74565abdc5d685200e897c27e6d169f745451f4a57046a9083",
       "brief_total": 55,
       "changed": 0,
       "content_pct": 0.0,
@@ -10639,7 +10639,7 @@
     },
     "projects/unidentified-aerial-phenomena-task-force-uaptf": {
       "added": 0,
-      "brief_hash": "a15a178ac2fae537ca3c8b3f12d45fae120d6bdff7177258250c55ba567903d9",
+      "brief_hash": "09cfe42f569cccf95606b4cdc66aad5250df54c72e6c9d4bba33a06f5d42a6bf",
       "brief_total": 42,
       "changed": 0,
       "content_pct": 0.0,
@@ -10759,7 +10759,7 @@
     },
     "topics/anti-gravity-propulsion": {
       "added": 0,
-      "brief_hash": "00a173b46280d66a92b07834998f3a02bcba0a5051bb9488fc7c84ccef442c91",
+      "brief_hash": "b7458b843c37fcc9bb9b30c3a96d3f642bbfd92b4227d972991d19fe5f317ee6",
       "brief_total": 38,
       "changed": 0,
       "content_pct": 0.0,
@@ -11689,7 +11689,7 @@
     },
     "topics/remote-viewing-rv": {
       "added": 0,
-      "brief_hash": "48e7049c49700e5f2f1cec547c3efdab56db5288d802b3ff2a0fd01fd35666f5",
+      "brief_hash": "cb110e87610ff07993fb1684ae85861e2a6310ae10a48f7a876e6f5a4548aca1",
       "brief_total": 428,
       "changed": 0,
       "content_pct": 0.0,
@@ -11764,7 +11764,7 @@
     },
     "topics/search-for-extraterrestrial-intelligence-seti": {
       "added": 0,
-      "brief_hash": "b5089961cbe9c61fa2ca834a9566fb1adb59cd22cb3f59d9e7ac4fa0d06b61d4",
+      "brief_hash": "dbe61a54ae97d7b782b8c169727eb94dd5886855000ce28db8cd09133d5cd3b6",
       "brief_total": 22,
       "changed": 0,
       "content_pct": 0.0,
@@ -11794,7 +11794,7 @@
     },
     "topics/sensitive-compartmented-information-facility-scif": {
       "added": 0,
-      "brief_hash": "a94bb3b862032a5d535c4fd74752dc9e9678b132b846a8edfc2842df3b966dc9",
+      "brief_hash": "0d31d449adeb275f5013387e546464800f6c91f48b99aef2f41cb655e9fcb46a",
       "brief_total": 17,
       "changed": 0,
       "content_pct": 0.0,
@@ -11944,7 +11944,7 @@
     },
     "topics/time-travel": {
       "added": 0,
-      "brief_hash": "fe081978fd2dd124f886710ab0c4c7694b4f3d765a76fd372bb4ea2c7061bcd0",
+      "brief_hash": "1ea1458fbbaccb7a2cf57cdf89ec108248dd22b0309bafc2ff4bf91f30c4f114",
       "brief_total": 40,
       "changed": 0,
       "content_pct": 0.0,
@@ -12004,7 +12004,7 @@
     },
     "topics/unidentified-anomalous-phenomena-uap": {
       "added": 0,
-      "brief_hash": "0cae6dcecf87e2caafbb665c155af8f9f09648e1d33b53168c96775fd06304c8",
+      "brief_hash": "6c9de2cfc6ba34b389878106924bbb4b222070c177340a132e4dd7f0eef25946",
       "brief_total": 1129,
       "changed": 0,
       "content_pct": 0.0,
@@ -12019,7 +12019,7 @@
     },
     "topics/unidentified-flying-object-ufo": {
       "added": 0,
-      "brief_hash": "4dbb2a18abaf04d3378bc84d55641835e07694a5c3246e0abf0f61a7aa38cf08",
+      "brief_hash": "d13a6703cb2d2978663bf35d2c3d819b96c4ed81311ed7da14502ab876c04418",
       "brief_total": 961,
       "changed": 0,
       "content_pct": 0.0,

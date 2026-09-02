@@ -1,5 +1,5 @@
 schema: anomalica/brief/1
-brief_hash: 1821d1e8c95b048737348fc0d9180f80800ab74fb3cccf014298d3bb4a131cba
+brief_hash: a2f7c780cc8bd60463c1cb86488bb132d69aa3f25287a08aea6e68529066903a
 page:
   kind: entity
   node_id: 0c0f7266-312d-4b09-99a4-0126cc96308d
@@ -9,7 +9,7 @@ page:
   claim_count: 11
   claim_count_total: 11
 generated:
-  graph_version: '2026-09-02T13:07:29.167026+00:00'
+  graph_version: '2026-09-02T14:12:13.257772+00:00'
 size:
   claims: 11
   tokens_estimated: 1383
@@ -18,8 +18,8 @@ entailment:
   assessed: 11
   unassessed: 0
   entails: 7
-  neutral: 1
-  contradicts: 3
+  neutral: 0
+  contradicts: 4
   entailed_by_quote: 2
   entailed_by_window: 5
   entailed_by_quote_fraction: 0.182
@@ -38,7 +38,7 @@ related_nodes:
     node_type: topic
     slug: unidentified-flying-object-ufo
     shared_claims: 4
-  - node_id: 459eb5cf-ea76-4cad-9421-a726261cd3a2
+  - node_id: c8b2f71c-febf-446f-9b1e-3e6bdc6c86c5
     title: William J. Clinton
     node_type: person
     slug: william-j-clinton
@@ -122,10 +122,10 @@ claims:
     attribution_mode: unknown
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.999
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: contradicts
+      score: 0.913
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 0c0f7266-312d-4b09-99a4-0126cc96308d
         title: Bruce Maccabee
@@ -368,7 +368,7 @@ claims:
       content_hash: sha256:73be106d406f6d35a063a894e8384e7da0918eb8597d2107a9e3653becca2bdc
       friendly_name: null
   - claim_id: 1b8cf3b4-33dc-4f1b-b6e3-077b1d580dec
-    claim_hash: 3468eb4bb961beed0a260eaa2f295f4d4a3445960212c939d60ba84e955681a7
+    claim_hash: ca30a990dd1cf5a534fb91ca4b64b3c84561da2a3c8ff30b01a48391a9d4a488
     content: Ronald Pandolfi advised Bill Clinton that he should be briefed by Bruce Maccabee, a longtime civilian UFO researcher
       who had written a book about UFOs and the FBI.
     original_excerpt: Ron Pandolfi told Clinton he should get briefed by a guy named Bruce Maccabee who had written about
@@ -396,15 +396,15 @@ claims:
       - node_id: 0c0f7266-312d-4b09-99a4-0126cc96308d
         title: Bruce Maccabee
         slug: bruce-maccabee
-      - node_id: 459eb5cf-ea76-4cad-9421-a726261cd3a2
-        title: William J. Clinton
-        slug: william-j-clinton
       - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
         title: Unidentified Flying Object (UFO)
         slug: unidentified-flying-object-ufo
       - node_id: c430b2b2-7900-45c9-9882-98ac4ab14e88
         title: Federal Bureau of Investigation (FBI)
         slug: federal-bureau-of-investigation-fbi
+      - node_id: c8b2f71c-febf-446f-9b1e-3e6bdc6c86c5
+        title: William J. Clinton
+        slug: william-j-clinton
     date: null
     date_end: null
     location_in_record: 00:47:46.2-00:47:56.5
@@ -419,7 +419,7 @@ claims:
       content_hash: sha256:d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7b5a1b98d
       friendly_name: null
   - claim_id: 63d32f5f-d26e-4216-badd-0b4f1f215298
-    claim_hash: 28b8bc2246e7f6ffceb3d3a98e168b92700292d743951f82e7f2823501776789
+    claim_hash: 740799f8062d5fe6336d7dfdd25175c1d27ae0999c4440b06f185f05b1cc5f6c
     content: Bruce Maccabee received a call from Ronald Pandolfi asking him to deliver to Bill Clinton's science advisor the
       lecture he had once given to the CIA, and was told the briefing was the following morning at eight o'clock, leaving
       almost no time to prepare.
@@ -453,7 +453,7 @@ claims:
       - node_id: 38b84d4a-96df-4684-bb46-f6f64f392add
         title: Central Intelligence Agency (CIA)
         slug: central-intelligence-agency-cia
-      - node_id: 459eb5cf-ea76-4cad-9421-a726261cd3a2
+      - node_id: c8b2f71c-febf-446f-9b1e-3e6bdc6c86c5
         title: William J. Clinton
         slug: william-j-clinton
     date: null
@@ -507,7 +507,7 @@ claims:
       content_hash: sha256:d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7b5a1b98d
       friendly_name: null
   - claim_id: 72f8b797-75a1-4490-9964-5e94afb073d1
-    claim_hash: a19b2d6d0ff22023a3ba9a80ca01a29cd4d63d37d4e9ea33e8d8b80b27060d1c
+    claim_hash: 33f306506fbd6a65d4fceb78fbaf79e5c3e428fdb3d6a08ca7d778746be5c88b
     content: Bruce Maccabee is a Navy physicist who wrote the UFO briefing given for Bill Clinton.
     original_excerpt: '[note: Bruce Maccabee - Navy physicist who wrote the Clinton UFO briefing]'
     claim_type: administrative
@@ -528,12 +528,12 @@ claims:
       - node_id: 0c0f7266-312d-4b09-99a4-0126cc96308d
         title: Bruce Maccabee
         slug: bruce-maccabee
-      - node_id: 459eb5cf-ea76-4cad-9421-a726261cd3a2
-        title: William J. Clinton
-        slug: william-j-clinton
       - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
         title: Unidentified Flying Object (UFO)
         slug: unidentified-flying-object-ufo
+      - node_id: c8b2f71c-febf-446f-9b1e-3e6bdc6c86c5
+        title: William J. Clinton
+        slug: william-j-clinton
     date: null
     date_end: null
     location_in_record: line 142

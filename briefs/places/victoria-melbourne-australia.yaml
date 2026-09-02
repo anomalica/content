@@ -1,5 +1,5 @@
 schema: anomalica/brief/1
-brief_hash: 50855ed4fc884642676a7f7b6513c719cfb1bbace95fcd9fed68ee61467c21b1
+brief_hash: c6adff293ae7d3343e72a92889545e08c84e8d44a4c4b5a24e514ec026e36ba1
 page:
   kind: entity
   node_id: db7170bd-ea41-4851-8bd2-8aba8c0fa4f4
@@ -9,7 +9,7 @@ page:
   claim_count: 19
   claim_count_total: 19
 generated:
-  graph_version: '2026-09-02T13:07:29.167026+00:00'
+  graph_version: '2026-09-02T14:12:13.257772+00:00'
 size:
   claims: 19
   tokens_estimated: 2690
@@ -160,7 +160,7 @@ related_nodes:
     shared_claims: 1
 claims:
   - claim_id: 99295240-d3d3-4c24-9805-109832a4b124
-    claim_hash: 0187c1dfc565f73def2fd29e55fcd523604e889bea6acd4b3fb988dba807ee04
+    claim_hash: a87a6181123d9ea8e5f5be78359019c38ab8d98359324545d93262fca6bda21a
     content: Westall High School was a college of about 600 pupils in Melbourne's south east.
     original_excerpt: Westall High School, a college of about 600 pupils in Melbourne's south east.
     claim_type: administrative

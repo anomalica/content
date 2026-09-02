@@ -9,7 +9,7 @@ page:
   claim_count: 18
   claim_count_total: 18
 generated:
-  graph_version: '2026-09-02T13:07:29.167026+00:00'
+  graph_version: '2026-09-02T14:12:13.257772+00:00'
 size:
   claims: 18
   tokens_estimated: 2825
@@ -17,13 +17,13 @@ size:
 entailment:
   assessed: 18
   unassessed: 0
-  entails: 12
-  neutral: 6
+  entails: 13
+  neutral: 5
   contradicts: 0
   entailed_by_quote: 5
-  entailed_by_window: 7
+  entailed_by_window: 8
   entailed_by_quote_fraction: 0.278
-  entailed_by_window_fraction: 0.389
+  entailed_by_window_fraction: 0.444
 publication:
   status: published
   note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
@@ -908,10 +908,10 @@ claims:
     attribution_mode: unknown
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.974
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.484
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 3a865991-eaad-4855-8980-b28dfb98691a
         title: James Lacatski

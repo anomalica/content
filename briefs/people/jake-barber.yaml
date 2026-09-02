@@ -9,7 +9,7 @@ page:
   claim_count: 27
   claim_count_total: 27
 generated:
-  graph_version: '2026-09-02T13:07:29.167026+00:00'
+  graph_version: '2026-09-02T14:12:13.257772+00:00'
 size:
   claims: 27
   tokens_estimated: 3244
@@ -17,13 +17,13 @@ size:
 entailment:
   assessed: 27
   unassessed: 0
-  entails: 13
-  neutral: 9
-  contradicts: 5
+  entails: 18
+  neutral: 3
+  contradicts: 6
   entailed_by_quote: 7
-  entailed_by_window: 6
+  entailed_by_window: 11
   entailed_by_quote_fraction: 0.259
-  entailed_by_window_fraction: 0.222
+  entailed_by_window_fraction: 0.407
 publication:
   status: published
   note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
@@ -163,10 +163,10 @@ claims:
     attribution_mode: unknown
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.987
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.429
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: a0bc0de8-1d81-44e5-96a7-30706ccc34a4
         title: Jake Barber
@@ -291,10 +291,10 @@ claims:
     attribution_mode: unknown
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.995
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: a0bc0de8-1d81-44e5-96a7-30706ccc34a4
         title: Jake Barber
@@ -375,10 +375,10 @@ claims:
     attribution_mode: unknown
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.997
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: a0bc0de8-1d81-44e5-96a7-30706ccc34a4
         title: Jake Barber
@@ -834,10 +834,10 @@ claims:
     attribution_mode: bare_ok
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.998
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.546
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: a0bc0de8-1d81-44e5-96a7-30706ccc34a4
         title: Jake Barber
@@ -1051,10 +1051,10 @@ claims:
     attribution_mode: bare_ok
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.999
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.964
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 4fb65b2c-296a-493d-bbc7-65e4b763c1f0
         title: United States Congress
@@ -1094,10 +1094,10 @@ claims:
     attribution_mode: bare_ok
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.999
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: contradicts
+      score: 0.735
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 4fb65b2c-296a-493d-bbc7-65e4b763c1f0
         title: United States Congress

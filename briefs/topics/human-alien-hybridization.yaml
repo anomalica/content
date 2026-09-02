@@ -9,7 +9,7 @@ page:
   claim_count: 37
   claim_count_total: 37
 generated:
-  graph_version: '2026-09-02T13:07:29.167026+00:00'
+  graph_version: '2026-09-02T14:12:13.257772+00:00'
 size:
   claims: 37
   tokens_estimated: 5492
@@ -17,13 +17,13 @@ size:
 entailment:
   assessed: 37
   unassessed: 0
-  entails: 26
-  neutral: 8
+  entails: 32
+  neutral: 2
   contradicts: 3
   entailed_by_quote: 9
-  entailed_by_window: 17
+  entailed_by_window: 23
   entailed_by_quote_fraction: 0.243
-  entailed_by_window_fraction: 0.459
+  entailed_by_window_fraction: 0.622
 publication:
   status: published
   note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
@@ -123,7 +123,7 @@ related_nodes:
     node_type: organisation
     slug: central-intelligence-agency-cia
     shared_claims: 1
-  - node_id: b4365ffa-36b6-40b3-9144-99086771a894
+  - node_id: 458b18fd-fdef-47b9-b418-4021376ca630
     title: Christopher Bledsoe
     node_type: person
     slug: christopher-bledsoe
@@ -570,10 +570,10 @@ claims:
     attribution_mode: unknown
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.862
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.992
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
         title: Jacques Vallée
@@ -790,12 +790,12 @@ claims:
       - node_id: 3577713c-b79b-4e25-9c24-d83f45c7555d
         title: Human-alien hybridization
         slug: human-alien-hybridization
+      - node_id: 458b18fd-fdef-47b9-b418-4021376ca630
+        title: Christopher Bledsoe
+        slug: christopher-bledsoe
       - node_id: 6cc97343-1634-45fa-9c85-4325f72a109c
         title: Ryan Bledsoe
         slug: ryan-bledsoe
-      - node_id: b4365ffa-36b6-40b3-9144-99086771a894
-        title: Christopher Bledsoe
-        slug: christopher-bledsoe
       - node_id: ff0a86b8-8f3c-4291-94ed-c6d303875ce8
         title: Jason Samosa
         slug: jason-samosa
@@ -832,10 +832,10 @@ claims:
     attribution_mode: unknown
     attachment: unreviewed
     entailment:
-      label: neutral
+      label: entails
       score: 0.999
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 00e66504-1bf3-4fcc-a4cf-96252fd4ed49
         title: Imminent (book by Luis Elizondo)
@@ -1162,10 +1162,10 @@ claims:
     attribution_mode: unknown
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.997
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.998
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 3577713c-b79b-4e25-9c24-d83f45c7555d
         title: Human-alien hybridization
@@ -1340,10 +1340,10 @@ claims:
     attribution_mode: bare_ok
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.566
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.996
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 23df5a4d-b30f-4c3d-b155-0bb1d6355328
         title: Anne Strieber
@@ -1388,10 +1388,10 @@ claims:
     attribution_mode: bare_ok
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.954
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.998
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 23df5a4d-b30f-4c3d-b155-0bb1d6355328
         title: Anne Strieber
@@ -1652,10 +1652,10 @@ claims:
     attribution_mode: unknown
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.999
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.998
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 16764115-151c-4a5b-af6b-c4f7f4a5ae06
         title: Declining human sperm counts

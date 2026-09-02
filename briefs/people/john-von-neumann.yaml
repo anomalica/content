@@ -9,7 +9,7 @@ page:
   claim_count: 17
   claim_count_total: 17
 generated:
-  graph_version: '2026-09-02T13:07:29.167026+00:00'
+  graph_version: '2026-09-02T14:12:13.257772+00:00'
 size:
   claims: 17
   tokens_estimated: 2171
@@ -17,13 +17,13 @@ size:
 entailment:
   assessed: 17
   unassessed: 0
-  entails: 13
-  neutral: 3
+  entails: 16
+  neutral: 0
   contradicts: 1
   entailed_by_quote: 8
-  entailed_by_window: 5
+  entailed_by_window: 8
   entailed_by_quote_fraction: 0.471
-  entailed_by_window_fraction: 0.294
+  entailed_by_window_fraction: 0.471
 publication:
   status: published
   note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
@@ -364,10 +364,10 @@ claims:
     attribution_mode: bare_ok
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.996
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.998
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 021a8eaf-08e0-46cc-bf4e-88d24e4a55ba
         title: Leo Szilard
@@ -590,10 +590,10 @@ claims:
     attribution_mode: bare_ok
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.996
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 1.0
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 26448fd2-26bf-4101-b653-420bf22433d8
         title: John von Neumann
@@ -629,10 +629,10 @@ claims:
     attribution_mode: unknown
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.957
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.996
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 26448fd2-26bf-4101-b653-420bf22433d8
         title: John von Neumann

@@ -1,5 +1,5 @@
 schema: anomalica/brief/1
-brief_hash: 867a9df8d034e2686b4688bfea4f65175aa6d916bfe11e8f41fdb9876461567c
+brief_hash: 022c94932716578f36601dcbd092807a7479f35378261f8ab470b563fbcdbde8
 page:
   kind: entity
   node_id: 079d4381-4273-418b-bc9a-468623f95c6e
@@ -9,7 +9,7 @@ page:
   claim_count: 327
   claim_count_total: 327
 generated:
-  graph_version: '2026-09-02T13:07:29.167026+00:00'
+  graph_version: '2026-09-02T14:12:13.257772+00:00'
 size:
   claims: 327
   tokens_estimated: 37171
@@ -17,13 +17,13 @@ size:
 entailment:
   assessed: 327
   unassessed: 0
-  entails: 207
-  neutral: 73
+  entails: 251
+  neutral: 29
   contradicts: 47
   entailed_by_quote: 113
-  entailed_by_window: 94
+  entailed_by_window: 138
   entailed_by_quote_fraction: 0.346
-  entailed_by_window_fraction: 0.287
+  entailed_by_window_fraction: 0.422
 publication:
   status: published
   note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
@@ -153,7 +153,7 @@ related_nodes:
     node_type: person
     slug: andrija-puharich
     shared_claims: 2
-  - node_id: b4365ffa-36b6-40b3-9144-99086771a894
+  - node_id: 458b18fd-fdef-47b9-b418-4021376ca630
     title: Christopher Bledsoe
     node_type: person
     slug: christopher-bledsoe
@@ -536,10 +536,10 @@ claims:
     attribution_mode: unknown
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.996
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 21a31a67-2dcf-40b7-9c48-4f55fdfb8952
         title: Louis Jolyon West
@@ -661,10 +661,10 @@ claims:
     attribution_mode: unknown
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.957
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.996
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 079d4381-4273-418b-bc9a-468623f95c6e
         title: Jesse Mitchells
@@ -1053,10 +1053,10 @@ claims:
     attribution_mode: unknown
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.999
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.905
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 079d4381-4273-418b-bc9a-468623f95c6e
         title: Jesse Mitchells
@@ -1267,10 +1267,10 @@ claims:
     attribution_mode: unknown
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.507
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 079d4381-4273-418b-bc9a-468623f95c6e
         title: Jesse Mitchells
@@ -1350,10 +1350,10 @@ claims:
     attribution_mode: unknown
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.998
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 079d4381-4273-418b-bc9a-468623f95c6e
         title: Jesse Mitchells
@@ -1440,10 +1440,10 @@ claims:
     attribution_mode: unknown
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.999
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.998
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 079d4381-4273-418b-bc9a-468623f95c6e
         title: Jesse Mitchells
@@ -1920,10 +1920,10 @@ claims:
     attribution_mode: unknown
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.983
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.958
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 079d4381-4273-418b-bc9a-468623f95c6e
         title: Jesse Mitchells
@@ -1963,10 +1963,10 @@ claims:
     attribution_mode: unknown
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.642
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.988
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 079d4381-4273-418b-bc9a-468623f95c6e
         title: Jesse Mitchells
@@ -2028,7 +2028,7 @@ claims:
       content_hash: sha256:d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7b5a1b98d
       friendly_name: null
   - claim_id: 1b8cf3b4-33dc-4f1b-b6e3-077b1d580dec
-    claim_hash: 3468eb4bb961beed0a260eaa2f295f4d4a3445960212c939d60ba84e955681a7
+    claim_hash: ca30a990dd1cf5a534fb91ca4b64b3c84561da2a3c8ff30b01a48391a9d4a488
     content: Ronald Pandolfi advised Bill Clinton that he should be briefed by Bruce Maccabee, a longtime civilian UFO researcher
       who had written a book about UFOs and the FBI.
     original_excerpt: Ron Pandolfi told Clinton he should get briefed by a guy named Bruce Maccabee who had written about
@@ -2056,15 +2056,15 @@ claims:
       - node_id: 0c0f7266-312d-4b09-99a4-0126cc96308d
         title: Bruce Maccabee
         slug: bruce-maccabee
-      - node_id: 459eb5cf-ea76-4cad-9421-a726261cd3a2
-        title: William J. Clinton
-        slug: william-j-clinton
       - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
         title: Unidentified Flying Object (UFO)
         slug: unidentified-flying-object-ufo
       - node_id: c430b2b2-7900-45c9-9882-98ac4ab14e88
         title: Federal Bureau of Investigation (FBI)
         slug: federal-bureau-of-investigation-fbi
+      - node_id: c8b2f71c-febf-446f-9b1e-3e6bdc6c86c5
+        title: William J. Clinton
+        slug: william-j-clinton
     date: null
     date_end: null
     location_in_record: 00:47:46.2-00:47:56.5
@@ -2079,7 +2079,7 @@ claims:
       content_hash: sha256:d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7b5a1b98d
       friendly_name: null
   - claim_id: 089e1f5c-803c-4865-879a-88e525f0f546
-    claim_hash: aa02d81895022fcfab0d8eec8abdca4508361fda4bcd747c277076ef1686fa44
+    claim_hash: e73faceaaeaca6740f605b9dcbd7c9e657547086fad709ce320abc77a99a487c
     content: Laurance Rockefeller was very close with the Clintons and constantly tried to interest them in UFO disclosure.
     original_excerpt: And Laurance Rockefeller, uh, is very close with the Clintons and trying to get them to do disclosure,
       get them more interested constantly.
@@ -2103,12 +2103,12 @@ claims:
       - node_id: 33ae3380-25ea-442a-9d60-69b285a20182
         title: Hillary Clinton
         slug: hillary-clinton
-      - node_id: 459eb5cf-ea76-4cad-9421-a726261cd3a2
-        title: William J. Clinton
-        slug: william-j-clinton
       - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
         title: Unidentified Flying Object (UFO)
         slug: unidentified-flying-object-ufo
+      - node_id: c8b2f71c-febf-446f-9b1e-3e6bdc6c86c5
+        title: William J. Clinton
+        slug: william-j-clinton
       - node_id: f657fb13-198a-45d6-9530-253f2784f9d2
         title: Laurance Rockefeller
         slug: laurance-rockefeller
@@ -2367,10 +2367,10 @@ claims:
     attribution_mode: unknown
     attachment: unreviewed
     entailment:
-      label: neutral
+      label: entails
       score: 0.997
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 079d4381-4273-418b-bc9a-468623f95c6e
         title: Jesse Mitchells
@@ -2414,10 +2414,10 @@ claims:
     attribution_mode: unknown
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.989
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.997
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 65058869-076f-47d0-92ea-f8daf08b94cf
         title: Barack Obama
@@ -2645,10 +2645,10 @@ claims:
     attribution_mode: bare_ok
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.988
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.998
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 65058869-076f-47d0-92ea-f8daf08b94cf
         title: Barack Obama
@@ -2855,10 +2855,10 @@ claims:
     attribution_mode: bare_ok
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.926
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: de58d5ed-956d-4fd7-ac5e-3ff37e27fd64
         title: B-2 Spirit
@@ -3064,10 +3064,10 @@ claims:
     attribution_mode: unknown
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.995
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 079d4381-4273-418b-bc9a-468623f95c6e
         title: Jesse Mitchells
@@ -3284,10 +3284,10 @@ claims:
     attribution_mode: unknown
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.992
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 3a865991-eaad-4855-8980-b28dfb98691a
         title: James Lacatski
@@ -3886,10 +3886,10 @@ claims:
     attribution_mode: bare_ok
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.999
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.994
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 8a1421aa-f32b-413a-8809-e846dced9c04
         title: 1958 Hartford Connecticut crash retrieval
@@ -4053,10 +4053,10 @@ claims:
     attribution_mode: unknown
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.993
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.576
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
         title: Unidentified Flying Object (UFO)
@@ -4808,10 +4808,10 @@ claims:
     attribution_mode: bare_ok
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.99
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.998
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 7bc18490-04d7-41f1-94bf-99d46ba1f4e2
         title: Franklin D. Roosevelt
@@ -5178,10 +5178,10 @@ claims:
     attribution_mode: unknown
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.997
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 7ddd5068-c6d5-475e-893a-bcf182ee126f
         title: William Stephenson
@@ -5921,10 +5921,10 @@ claims:
     attribution_mode: bare_ok
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.651
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.987
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: df3080fc-fb44-4867-952a-1d2ff2a287f0
         title: Otto Skorzeny
@@ -6651,10 +6651,10 @@ claims:
     attribution_mode: unknown
     attachment: unreviewed
     entailment:
-      label: neutral
+      label: entails
       score: 0.998
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
         title: Unidentified Flying Object (UFO)
@@ -6694,10 +6694,10 @@ claims:
     attribution_mode: unknown
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.998
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.99
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 1f2d9588-6f48-4937-934f-ffc35c8fa7bc
         title: American Academy of Arts and Sciences
@@ -6913,10 +6913,10 @@ claims:
     attribution_mode: unknown
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.99
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.952
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 62136055-e8e7-4269-b624-9cee709b51cf
         title: Going Within
@@ -7317,10 +7317,10 @@ claims:
     attribution_mode: unknown
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.997
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.998
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 1b706134-940a-4110-809b-ae3c42dcc2f4
         title: Hans-Adam II
@@ -7395,10 +7395,10 @@ claims:
     attribution_mode: bare_ok
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.946
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.998
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 079d4381-4273-418b-bc9a-468623f95c6e
         title: Jesse Mitchells
@@ -7441,10 +7441,10 @@ claims:
     attribution_mode: bare_ok
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.978
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.997
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 079d4381-4273-418b-bc9a-468623f95c6e
         title: Jesse Mitchells
@@ -7665,10 +7665,10 @@ claims:
     attribution_mode: unknown
     attachment: unreviewed
     entailment:
-      label: neutral
+      label: entails
       score: 0.999
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 079d4381-4273-418b-bc9a-468623f95c6e
         title: Jesse Mitchells
@@ -8911,7 +8911,7 @@ claims:
       content_hash: sha256:7b2e272d7c82fdda745ee0354d7c9cc4b0d5ba5506015ca27edd9169a768b262
       friendly_name: null
   - claim_id: 828e6b46-5608-4d55-8965-66f29fe2b71f
-    claim_hash: c03a97fae994095dd45da2fba884fe9488c8266e5f19b8d4d42211eb2576a547
+    claim_hash: 14fbc9ed2c7539a3126f4600479b029abf484777b3ee98072ec350ff87833fe8
     content: Chris Bledsoe said Tim Taylor was writing a book with Thomas Townsend Brown's daughter.
     original_excerpt: 'And Bledsoe said that he was writing a book with Townsend Brown''s daughter. ... Chris Ramsay: Who
       was writing a book? Jesse Michels: Tim Taylor.'
@@ -8936,12 +8936,12 @@ claims:
       - node_id: 079d4381-4273-418b-bc9a-468623f95c6e
         title: Jesse Mitchells
         slug: jesse-mitchells
+      - node_id: 458b18fd-fdef-47b9-b418-4021376ca630
+        title: Christopher Bledsoe
+        slug: christopher-bledsoe
       - node_id: 6485c8ec-97af-4a6d-9547-34aee3eb5b87
         title: Tim Taylor
         slug: tim-taylor
-      - node_id: b4365ffa-36b6-40b3-9144-99086771a894
-        title: Christopher Bledsoe
-        slug: christopher-bledsoe
       - node_id: caf1c89f-4922-48c6-8cae-f8f0cbd45a7a
         title: Thomas Townsend Brown
         slug: thomas-townsend-brown
@@ -9020,10 +9020,10 @@ claims:
     attribution_mode: bare_ok
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.583
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.998
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 079d4381-4273-418b-bc9a-468623f95c6e
         title: Jesse Mitchells
@@ -9179,7 +9179,7 @@ claims:
       content_hash: sha256:7b2e272d7c82fdda745ee0354d7c9cc4b0d5ba5506015ca27edd9169a768b262
       friendly_name: null
   - claim_id: ca9616f2-5480-4ab7-8fb1-783c84aefe77
-    claim_hash: d494a3e316cebef4c592fa8a1b027e89c2e7d87b9e8c4c07bc9e389dc3d82b0b
+    claim_hash: b662e5b7868d84a06e9ac4221152878082037564a7847c9d862bc926e2b33a3c
     content: Tim Taylor told Chris Bledsoe's son that he was part of a time travel group of which Thomas Townsend Brown was
       the president.
     original_excerpt: he's telling Chris Bledsoe's son that he's part of this time travel group. And Townsend Brown was the
@@ -9209,12 +9209,12 @@ claims:
       - node_id: 1c57cd6c-8c54-4f61-b180-2bd899c69889
         title: Time travel
         slug: time-travel
+      - node_id: 458b18fd-fdef-47b9-b418-4021376ca630
+        title: Christopher Bledsoe
+        slug: christopher-bledsoe
       - node_id: 6485c8ec-97af-4a6d-9547-34aee3eb5b87
         title: Tim Taylor
         slug: tim-taylor
-      - node_id: b4365ffa-36b6-40b3-9144-99086771a894
-        title: Christopher Bledsoe
-        slug: christopher-bledsoe
       - node_id: caf1c89f-4922-48c6-8cae-f8f0cbd45a7a
         title: Thomas Townsend Brown
         slug: thomas-townsend-brown
@@ -9972,10 +9972,10 @@ claims:
     attribution_mode: bare_ok
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.84
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.997
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 17219d26-7e0c-4716-9747-c390e5fdc936
         title: Guy Banister
@@ -10234,10 +10234,10 @@ claims:
     attribution_mode: unknown
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.957
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.996
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 079d4381-4273-418b-bc9a-468623f95c6e
         title: Jesse Mitchells
@@ -10298,7 +10298,7 @@ claims:
       content_hash: sha256:7b2e272d7c82fdda745ee0354d7c9cc4b0d5ba5506015ca27edd9169a768b262
       friendly_name: null
   - claim_id: 5ac84079-812b-470c-aaa4-518596d49fd1
-    claim_hash: ccf0839c1462d332111b92a47a134d78b5b2f6bcde68531a04da251ce59233ea
+    claim_hash: 3d1e9213efb19de7e4a4aa6c498e156df012ab6f2d4f433ef3d49f255e77f377
     content: Jesse Michels considers UAP Gerb's work the open-source equivalent of what David Grusch did at the Unidentified
       Aerial Phenomena Task Force.
     original_excerpt: you're doing the open source version of what he did at the UAPTF, I think
@@ -10345,7 +10345,7 @@ claims:
       content_hash: sha256:7b2e272d7c82fdda745ee0354d7c9cc4b0d5ba5506015ca27edd9169a768b262
       friendly_name: null
   - claim_id: d8348f7d-7658-474b-a220-57fd33c048f9
-    claim_hash: cc513545f27baf3fc54875dbfe26fc52383340f8347087741224d627653e380b
+    claim_hash: d5c73649b6e6e4a70dae69d87c75c49ad399e7f6acc8e361ba796eb419d2bc78
     content: David Grusch was known within the Unidentified Aerial Phenomena Task Force for having a memory like a steel trap
       and serving as a large database of information on the subject.
     original_excerpt: he was known as like this really like, you know, his mind was a steel trap and he was just this like,
@@ -10656,10 +10656,10 @@ claims:
     attribution_mode: unknown
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.767
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 079d4381-4273-418b-bc9a-468623f95c6e
         title: Jesse Mitchells
@@ -10738,9 +10738,9 @@ claims:
     attachment: unreviewed
     entailment:
       label: neutral
-      score: 0.998
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      score: 0.751
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 8dab8565-0f8c-49ef-8745-f6881c1f508c
         title: Russia, Bashkortostan, Yamantau Mountain
@@ -10973,10 +10973,10 @@ claims:
     attribution_mode: unknown
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.998
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.996
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 079d4381-4273-418b-bc9a-468623f95c6e
         title: Jesse Mitchells
@@ -11182,10 +11182,10 @@ claims:
     attribution_mode: unknown
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.999
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.964
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 079d4381-4273-418b-bc9a-468623f95c6e
         title: Jesse Mitchells
@@ -11225,10 +11225,10 @@ claims:
     attribution_mode: unknown
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.947
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.921
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 4971b32b-e8d8-488a-8cf4-35f92bef0cd0
         title: Dan Burisch
@@ -11478,7 +11478,7 @@ claims:
       content_hash: sha256:7b2e272d7c82fdda745ee0354d7c9cc4b0d5ba5506015ca27edd9169a768b262
       friendly_name: null
   - claim_id: 01f7e8b4-d48d-43f6-b680-42d21862ca23
-    claim_hash: d83c1acd78a1f0a43cbce434e8e3a0c313d329dfaf8f56df83b760db7a07ebe8
+    claim_hash: 9ea2818cdd8fcc18c1572abe3e3a7ee887404b50d28ee2ce0dbe331f600ac9a5
     content: Bill Richardson served as United States Secretary of Energy under Bill Clinton and was governor of New Mexico.
     original_excerpt: Bill Richardson, I think was secretary of energy, um, under Bill Clinton, I believe he was a Clinton
       crony for sure. And like he was governor of New Mexico.
@@ -11502,7 +11502,7 @@ claims:
       - node_id: 09527e2e-b76c-4293-a9ce-a2b531b038e6
         title: United States Department of Energy (DOE)
         slug: united-states-department-of-energy-doe
-      - node_id: 459eb5cf-ea76-4cad-9421-a726261cd3a2
+      - node_id: c8b2f71c-febf-446f-9b1e-3e6bdc6c86c5
         title: William J. Clinton
         slug: william-j-clinton
       - node_id: d838e7a4-6492-45b1-90ca-9dbdcc0fecef
@@ -11883,10 +11883,10 @@ claims:
     attribution_mode: unknown
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.729
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 0c950a77-cc2b-4bb3-86ec-b49e0402abd7
         title: Eric Weinstein
@@ -12021,10 +12021,10 @@ claims:
     attribution_mode: unknown
     attachment: unreviewed
     entailment:
-      label: neutral
+      label: entails
       score: 0.999
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 079d4381-4273-418b-bc9a-468623f95c6e
         title: Jesse Mitchells
@@ -12106,10 +12106,10 @@ claims:
     attribution_mode: unknown
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.675
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.982
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 0c950a77-cc2b-4bb3-86ec-b49e0402abd7
         title: Eric Weinstein
@@ -12352,10 +12352,10 @@ claims:
     attribution_mode: bare_ok
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.999
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.982
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 505db44f-9d12-43fc-93fe-7dfd9f88d2b7
         title: Renaissance Technologies
@@ -12426,10 +12426,10 @@ claims:
     attribution_mode: bare_ok
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.918
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 155efdc3-834c-4ab4-8fea-252a588f0f95
         title: Stony Brook University
@@ -12691,10 +12691,10 @@ claims:
     attribution_mode: bare_ok
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.912
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.52
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: b6ca8090-2ad2-4370-98b6-1301c148e3b1
         title: Louis Witten
@@ -12729,10 +12729,10 @@ claims:
     attribution_mode: unknown
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.981
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 079d4381-4273-418b-bc9a-468623f95c6e
         title: Jesse Mitchells
@@ -13163,10 +13163,10 @@ claims:
     attribution_mode: unknown
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.999
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.998
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 079d4381-4273-418b-bc9a-468623f95c6e
         title: Jesse Mitchells
@@ -13299,10 +13299,10 @@ claims:
     attribution_mode: unknown
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.877
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.672
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 079d4381-4273-418b-bc9a-468623f95c6e
         title: Jesse Mitchells
@@ -13714,10 +13714,10 @@ claims:
     attribution_mode: unknown
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.997
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.936
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 079d4381-4273-418b-bc9a-468623f95c6e
         title: Jesse Mitchells
@@ -13806,10 +13806,10 @@ claims:
     attribution_mode: unknown
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.995
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 079d4381-4273-418b-bc9a-468623f95c6e
         title: Jesse Mitchells

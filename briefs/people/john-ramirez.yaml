@@ -9,7 +9,7 @@ page:
   claim_count: 8
   claim_count_total: 8
 generated:
-  graph_version: '2026-09-02T13:07:29.167026+00:00'
+  graph_version: '2026-09-02T14:12:13.257772+00:00'
 size:
   claims: 8
   tokens_estimated: 880
@@ -17,13 +17,13 @@ size:
 entailment:
   assessed: 8
   unassessed: 0
-  entails: 5
-  neutral: 3
+  entails: 6
+  neutral: 2
   contradicts: 0
   entailed_by_quote: 0
-  entailed_by_window: 5
+  entailed_by_window: 6
   entailed_by_quote_fraction: 0.0
-  entailed_by_window_fraction: 0.625
+  entailed_by_window_fraction: 0.75
 publication:
   status: published
   note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
@@ -264,10 +264,10 @@ claims:
     attribution_mode: unknown
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.939
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.943
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 24d00311-06ac-46a1-a2f5-c99f3f8e21b2
         title: Chris Ramsay

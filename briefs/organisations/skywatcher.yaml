@@ -9,7 +9,7 @@ page:
   claim_count: 31
   claim_count_total: 31
 generated:
-  graph_version: '2026-09-02T13:07:29.167026+00:00'
+  graph_version: '2026-09-02T14:12:13.257772+00:00'
 size:
   claims: 31
   tokens_estimated: 4299
@@ -17,13 +17,13 @@ size:
 entailment:
   assessed: 31
   unassessed: 0
-  entails: 19
-  neutral: 5
+  entails: 21
+  neutral: 3
   contradicts: 7
   entailed_by_quote: 8
-  entailed_by_window: 11
+  entailed_by_window: 13
   entailed_by_quote_fraction: 0.258
-  entailed_by_window_fraction: 0.355
+  entailed_by_window_fraction: 0.419
 publication:
   status: published
   note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
@@ -336,10 +336,10 @@ claims:
     attribution_mode: bare_ok
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.999
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.996
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 0c15657f-8c99-43ad-8912-d2841ba0634f
         title: Esalen Institute Skywatcher psionic inviting demonstration
@@ -1392,10 +1392,10 @@ claims:
     attribution_mode: unknown
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.995
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.982
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 833b0c26-c59f-4b67-9fc4-693c54645074
         title: USA, Texas, Sierra Blanca
@@ -1438,9 +1438,9 @@ claims:
     attachment: unreviewed
     entailment:
       label: neutral
-      score: 0.998
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      score: 0.784
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 833b0c26-c59f-4b67-9fc4-693c54645074
         title: USA, Texas, Sierra Blanca

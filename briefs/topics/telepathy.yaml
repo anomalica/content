@@ -9,7 +9,7 @@ page:
   claim_count: 69
   claim_count_total: 69
 generated:
-  graph_version: '2026-09-02T13:07:29.167026+00:00'
+  graph_version: '2026-09-02T14:12:13.257772+00:00'
 size:
   claims: 69
   tokens_estimated: 11275
@@ -17,13 +17,13 @@ size:
 entailment:
   assessed: 69
   unassessed: 0
-  entails: 61
-  neutral: 7
+  entails: 63
+  neutral: 5
   contradicts: 1
   entailed_by_quote: 34
-  entailed_by_window: 27
+  entailed_by_window: 29
   entailed_by_quote_fraction: 0.493
-  entailed_by_window_fraction: 0.391
+  entailed_by_window_fraction: 0.42
 publication:
   status: published
   note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
@@ -2413,10 +2413,10 @@ claims:
     attribution_mode: unknown
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.995
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 079d4381-4273-418b-bc9a-468623f95c6e
         title: Jesse Mitchells
@@ -2876,10 +2876,10 @@ claims:
     attribution_mode: unknown
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.999
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.997
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 8d3ca113-3f28-4808-998e-34d2837332a5
         title: Julia Mossbridge

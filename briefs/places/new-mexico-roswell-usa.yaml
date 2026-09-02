@@ -1,5 +1,5 @@
 schema: anomalica/brief/1
-brief_hash: 98ea7f21bb0157d1ea7235a55da8433a6c2d3c9eec839afaff7ebb0d7e60bd11
+brief_hash: d76ebc455235c4180d054434b02ca3756988b8e8f30ac40549ae3827e975110b
 page:
   kind: entity
   node_id: 35380539-7caf-46ec-9614-1956abdd7e7a
@@ -9,7 +9,7 @@ page:
   claim_count: 54
   claim_count_total: 54
 generated:
-  graph_version: '2026-09-02T13:07:29.167026+00:00'
+  graph_version: '2026-09-02T14:12:13.257772+00:00'
 size:
   claims: 54
   tokens_estimated: 7334
@@ -17,13 +17,13 @@ size:
 entailment:
   assessed: 54
   unassessed: 0
-  entails: 31
-  neutral: 20
+  entails: 33
+  neutral: 18
   contradicts: 3
   entailed_by_quote: 18
-  entailed_by_window: 13
+  entailed_by_window: 15
   entailed_by_quote_fraction: 0.333
-  entailed_by_window_fraction: 0.241
+  entailed_by_window_fraction: 0.278
 publication:
   status: published
   note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
@@ -1977,7 +1977,7 @@ claims:
       content_hash: sha256:8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a94774067868
       friendly_name: 2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a
   - claim_id: e523c48c-aed3-4378-8039-aa38622d3a42
-    claim_hash: e44a941332379b56887e3736592fc40f968a084224349dfd7be07912d0ac73e8
+    claim_hash: e01a4ff67007540e65757a9818f1e5aa6c3abd74568cfca4517bf82aeade1d1c
     content: President Bill Clinton said that as far as he knew, an alien spacecraft did not crash in Roswell, New Mexico,
       in 1947, that if the United States Air Force did recover alien bodies they did not tell him about it, and that he wanted
       to know.
@@ -1986,7 +1986,7 @@ claims:
     claim_type: opinion
     attestation: first_hand
     speaker:
-      node_id: 459eb5cf-ea76-4cad-9421-a726261cd3a2
+      node_id: c8b2f71c-febf-446f-9b1e-3e6bdc6c86c5
       title: William J. Clinton
     provenance_chain:
       origin_kind: speaker
@@ -2006,12 +2006,12 @@ claims:
       - node_id: 35380539-7caf-46ec-9614-1956abdd7e7a
         title: USA, New Mexico, Roswell
         slug: new-mexico-roswell-usa
-      - node_id: 459eb5cf-ea76-4cad-9421-a726261cd3a2
-        title: William J. Clinton
-        slug: william-j-clinton
       - node_id: b8ea9860-ae6e-4835-8114-6a6626f28797
         title: Roswell incident (1947)
         slug: roswell-incident-1947
+      - node_id: c8b2f71c-febf-446f-9b1e-3e6bdc6c86c5
+        title: William J. Clinton
+        slug: william-j-clinton
     date: null
     date_end: null
     location_in_record: char:53986-54180
@@ -2086,10 +2086,10 @@ claims:
     attribution_mode: bare_ok
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.921
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.991
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 35380539-7caf-46ec-9614-1956abdd7e7a
         title: USA, New Mexico, Roswell
@@ -2320,10 +2320,10 @@ claims:
     attribution_mode: unknown
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.551
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.754
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 35380539-7caf-46ec-9614-1956abdd7e7a
         title: USA, New Mexico, Roswell

@@ -1,5 +1,5 @@
 schema: anomalica/brief/1
-brief_hash: 7f73ee6c1c476f174936c922ccfd2c6904df6275d9a0f8feae00b980e491ce5a
+brief_hash: 4ce269b10b3de9cc768c661b78fa3eca79a368b927992d61dc14b66d63ab9109
 page:
   kind: entity
   node_id: baa13d91-0551-4f21-ac2f-32fba4c397cf
@@ -9,7 +9,7 @@ page:
   claim_count: 36
   claim_count_total: 36
 generated:
-  graph_version: '2026-09-02T13:07:29.167026+00:00'
+  graph_version: '2026-09-02T14:12:13.257772+00:00'
 size:
   claims: 36
   tokens_estimated: 4819
@@ -153,7 +153,7 @@ related_nodes:
     node_type: place
     slug: mississippi-pascagoula-usa
     shared_claims: 1
-  - node_id: 3e507b49-d600-474f-8995-453932dc1e01
+  - node_id: 24ba32dd-fc10-4ee4-bae2-9133cf301509
     title: USA, New Mexico, Roswell Army Air Field
     node_type: place
     slug: new-mexico-roswell-army-air-field-usa
@@ -1623,7 +1623,7 @@ claims:
       content_hash: sha256:524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008e17102e7
       friendly_name: 2025-01-15-ebook-the-fourth-mind
   - claim_id: fff6cfdb-c2d6-4199-81bc-f4eb57f23393
-    claim_hash: ffc4900c65512a0ef550a8ebfed14451238283210936764302f7551da73695ef
+    claim_hash: f84a335eb1f91c612a218c7f9f954f794ec74ea7ac33dd1445ff390869426a38
     content: In July 1947, Walter Haut was stationed at Roswell Army Air Force Base in Roswell, New Mexico, serving as the
       base Public Information Officer.
     original_excerpt: In July, 1947, I was stationed at the Roswell Army Air Base in Roswell, New Mexico, serving as the base
@@ -1648,7 +1648,7 @@ claims:
       - node_id: 03ce9078-270f-4be3-ae7e-45ef913c7e5d
         title: Walter Haut
         slug: walter-haut
-      - node_id: 3e507b49-d600-474f-8995-453932dc1e01
+      - node_id: 24ba32dd-fc10-4ee4-bae2-9133cf301509
         title: USA, New Mexico, Roswell Army Air Field
         slug: new-mexico-roswell-army-air-field-usa
       - node_id: baa13d91-0551-4f21-ac2f-32fba4c397cf

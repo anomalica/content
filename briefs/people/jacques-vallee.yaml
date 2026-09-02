@@ -1,5 +1,5 @@
 schema: anomalica/brief/1
-brief_hash: 9eecae09f832d57745bef4919a1a453b60db9a2882074d3e73722e413ffbdece
+brief_hash: 94b56beb4d93d56ca339b453c2ee9e3aad5bc44c3c3c75ce97c64ea6113dedde
 page:
   kind: entity
   node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
@@ -9,7 +9,7 @@ page:
   claim_count: 950
   claim_count_total: 950
 generated:
-  graph_version: '2026-09-02T13:07:29.167026+00:00'
+  graph_version: '2026-09-02T14:12:13.257772+00:00'
 size:
   claims: 950
   tokens_estimated: 136617
@@ -17,13 +17,13 @@ size:
 entailment:
   assessed: 950
   unassessed: 0
-  entails: 643
-  neutral: 234
+  entails: 649
+  neutral: 228
   contradicts: 73
   entailed_by_quote: 365
-  entailed_by_window: 278
+  entailed_by_window: 284
   entailed_by_quote_fraction: 0.384
-  entailed_by_window_fraction: 0.293
+  entailed_by_window_fraction: 0.299
 publication:
   status: published
   note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
@@ -1784,10 +1784,10 @@ claims:
     attribution_mode: bare_ok
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.988
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 188ebae3-8810-4ebf-afb6-2fe855913cb6
         title: Order of Melchizedek
@@ -2010,10 +2010,10 @@ claims:
     attribution_mode: bare_ok
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.89
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.997
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
         title: Jacques Vallée
@@ -2366,10 +2366,10 @@ claims:
     attribution_mode: unknown
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.986
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.576
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
         title: Jacques Vallée
@@ -5114,7 +5114,7 @@ claims:
       content_hash: sha256:0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5ac9fd3168
       friendly_name: 0101-01-01-ebook-messengers-of-deception-ufo-contacts-and-cults
   - claim_id: b7309023-4006-45e4-9837-ba64dde969df
-    claim_hash: 89bfe6248dcc6b8a155a619719ac17222d7409d15a9b0d8215fca8b008c6b97d
+    claim_hash: 29c833396c6aa2a01a902d8655ebc931fdc63da6ef98745e9cf6b4c7808b36cb
     content: Jacques Vallée considers that UFO enthusiasts trying to expose the government through Freedom of Information
       Act lawsuits may be playing into the hands of the manipulators of the phenomenon.
     original_excerpt: But the UFO enthusiasts who are so anxious to "expose" the government have not reflected that they may,
@@ -18789,10 +18789,10 @@ claims:
     attribution_mode: unknown
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.995
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.456
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 52aee1cd-6d10-432f-94dc-28e7a25afacf
         title: Jacques Bordas
@@ -39613,10 +39613,10 @@ claims:
     attribution_mode: unknown
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.908
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.964
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
         title: Jacques Vallée
@@ -40230,10 +40230,10 @@ claims:
     attribution_mode: unknown
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.862
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.992
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
         title: Jacques Vallée

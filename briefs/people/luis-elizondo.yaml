@@ -1,5 +1,5 @@
 schema: anomalica/brief/1
-brief_hash: c8bf26e7822d01f8c67bb83d1e7e6e945f35bf197b9f7470e9950973009d308d
+brief_hash: 94c99d24caf7fba25ecb127145c4eb9eeccbd81da2735aa49848043b346e5da8
 page:
   kind: entity
   node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
@@ -9,7 +9,7 @@ page:
   claim_count: 1403
   claim_count_total: 1403
 generated:
-  graph_version: '2026-09-02T13:07:29.167026+00:00'
+  graph_version: '2026-09-02T14:12:13.257772+00:00'
 size:
   claims: 1403
   tokens_estimated: 189869
@@ -17,13 +17,13 @@ size:
 entailment:
   assessed: 1403
   unassessed: 0
-  entails: 1197
-  neutral: 129
+  entails: 1211
+  neutral: 115
   contradicts: 77
   entailed_by_quote: 409
-  entailed_by_window: 788
+  entailed_by_window: 802
   entailed_by_quote_fraction: 0.292
-  entailed_by_window_fraction: 0.562
+  entailed_by_window_fraction: 0.572
 publication:
   status: published
   note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
@@ -734,7 +734,7 @@ claims:
       content_hash: sha256:04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb640bd12c81
       friendly_name: 2017-12-16-web-glowing-auras-and-black-money-the-pentagon-s-mysterious-u-f
   - claim_id: 2d59bd3c-d9b0-4586-bd51-95b62c0363ee
-    claim_hash: 7f51e7bedb11a5e384ffd981da1791429e00cf18bfc9bce6e7847d6bcbfae0f0
+    claim_hash: 97836ed5ff82d54af56e6efa2d43abd1df32b391e5a0095a622e4ed93adde0e4
     content: Luis Elizondo continued to work out of his Pentagon office until October 2017, when he resigned to protest what
       he characterised as excessive secrecy and internal opposition.
     original_excerpt: He continued to work out of his Pentagon office until this past October, when he resigned to protest
@@ -861,7 +861,7 @@ claims:
       content_hash: sha256:04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb640bd12c81
       friendly_name: 2017-12-16-web-glowing-auras-and-black-money-the-pentagon-s-mysterious-u-f
   - claim_id: e8b66203-41b2-4870-a6c0-36be7b16b0b6
-    claim_hash: b23d987229a1b23547059e89d80be8a6e9cb0a4118044bfc6d2e78ebfc30a088
+    claim_hash: 3e2b9f2c53bc86ad0e8e77f73e8e69868bae5603ff1444f9b4a26dc7306e3607
     content: The Advanced Aerospace Threat Identification Program (AATIP) was run by military intelligence official Luis Elizondo,
       on the fifth floor of the Pentagon's C Ring.
     original_excerpt: It was run by a military intelligence official, Luis Elizondo, on the fifth floor of the Pentagon’s
@@ -4722,10 +4722,10 @@ claims:
     attribution_mode: bare_ok
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.994
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.996
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 5ab2008d-7e60-42e2-a4ad-f7a27e239761
         title: Anomalous Aerial Vehicle (AAV)
@@ -5359,10 +5359,10 @@ claims:
     attribution_mode: unknown
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.998
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
         title: Luis Elizondo
@@ -5381,7 +5381,7 @@ claims:
       content_hash: sha256:957f730c1d53cbfc4f87d1db882a409506030e2e49338b530c4ab643a7603660
       friendly_name: 2021-09-06-video-the-ufo-phenomenon-full-documentary-2021-7news-spotlight.v2
   - claim_id: 9f72d4e3-1d9b-4e53-840d-ca1a6fdee035
-    claim_hash: b1cca7c116bea1826149282e119482ca6324aa0cddc9b58025a430655559eb47
+    claim_hash: 348f4e2efdf4300420d11e42f3f0381514315cff976ebfcd24ace376aaaa88d8
     content: Luis Elizondo described the observed UAP technology as capable of instantaneous acceleration, hypersonic velocities,
       low observability, trans-medium travel, and anti-gravity, and able to fly unimpeded over controlled US airspace at will.
     original_excerpt: If there is a technology that has somehow leapfrogged ahead of us, that has the capabilities that we're
@@ -5538,10 +5538,10 @@ claims:
     attribution_mode: bare_ok
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.994
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.997
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
         title: Luis Elizondo
@@ -5580,10 +5580,10 @@ claims:
     attribution_mode: bare_ok
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.998
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.594
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
         title: Luis Elizondo
@@ -10010,7 +10010,7 @@ claims:
     location_in_record: ch30:24954-25099
     evidence:
       score: null
-      independent_sources: 2
+      independent_sources: 1
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
@@ -16563,10 +16563,10 @@ claims:
     attribution_mode: bare_ok
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.99
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.421
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 6c1618c8-50db-42c9-860e-6d736ef280bf
         title: Advanced Aerospace Threat Identification Program (AATIP)
@@ -18358,10 +18358,10 @@ claims:
     attribution_mode: bare_ok
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.921
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.991
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 35380539-7caf-46ec-9614-1956abdd7e7a
         title: USA, New Mexico, Roswell
@@ -22932,10 +22932,10 @@ claims:
     attribution_mode: bare_ok
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.978
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.697
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
         title: Unidentified Anomalous Phenomena (UAP)
@@ -25097,7 +25097,7 @@ claims:
       content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
       friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
   - claim_id: 18fc8638-0404-4146-b35c-cb8317742af0
-    claim_hash: e9216a69f10b545b63520b0fb6d1fdfdc52dff2ff871c12db538f73c1fac4141
+    claim_hash: b6a8ecf085975226058533cd70a5c6f31b7f40122049d84c6aed6fa626d138ec
     content: Luis Elizondo was assigned a parking spot along the Pentagon's River Entrance, alongside senior military staff
       including the chairman of the Joint Chiefs of Staff, the secretaries of each service, the undersecretaries, and the
       Secretary of Defense.
@@ -25144,7 +25144,7 @@ claims:
       content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
       friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
   - claim_id: c8e30de3-82e1-42f1-a0d6-e9a45973be71
-    claim_hash: b4f1317e0f60b454f1b8709fed5bd8c60e21d255981df061f3bf69f5dff1fded
+    claim_hash: 808f43adf19d0f394e778aacbfe192704626caa065e72762b4ebf82670b797b1
     content: In February 2012, another tragedy befell the Elizondo family while Luis Elizondo was giving a tour of the Pentagon
       to a Japanese delegation of VIPs.
     original_excerpt: Another tragedy befell our family months later, in February 2012. I was giving a tour of the Pentagon
@@ -25189,7 +25189,7 @@ claims:
       content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
       friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
   - claim_id: 008a9ca0-1315-4ac5-bf09-32510257f504
-    claim_hash: 7bb6535528c94633b64b44ded9b40a7d8144bd34a79b561d47e5075e7a27bbfa
+    claim_hash: c4bd69c2c681a11459b15599664e56e4ecfe146e393350fd62a4421a2236c2c0
     content: Luis D. Elizondo III was often asked to give personal tours of the Pentagon since he took visitors to areas that
       are not part of the normal Pentagon tour.
     original_excerpt: as often asked to give personal tours since I took visitors to areas that are not part of the normal
@@ -25505,7 +25505,7 @@ claims:
       content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
       friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
   - claim_id: 266ff356-ebe8-4c72-b2d1-007bc00af5af
-    claim_hash: f5d83046a243e1024a6a9dd63e9e358c51ed82af496c0e17b7c434f49f9d44a8
+    claim_hash: e00e99d031ba05b13a5229c773c444a2df5a689002485261a0600b36b215ef52
     content: When Jennifer Elizondo was hit by a vehicle, Luis D. Elizondo III was an hour and a half away at the Pentagon.
     original_excerpt: Now she lay in the back of an ambulance and I was an hour and a half away, at the Pentagon.
     claim_type: testimony
@@ -30202,10 +30202,10 @@ claims:
     attribution_mode: unknown
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.982
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
         title: Luis Elizondo
@@ -35101,10 +35101,10 @@ claims:
     attribution_mode: unknown
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.999
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.536
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 1bd67c4e-3412-45c3-844a-e543cb2dcc7a
         title: USS Roosevelt
@@ -35382,10 +35382,10 @@ claims:
     attribution_mode: unknown
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.998
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.52
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 1bd67c4e-3412-45c3-844a-e543cb2dcc7a
         title: USS Roosevelt
@@ -38051,7 +38051,7 @@ claims:
       content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
       friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
   - claim_id: 946320f6-fe91-4fa3-bb3f-b34b03be8cf1
-    claim_hash: 095c89d03b1daa338ddaf748ad6d4255ffd0dbb4e31832c0d1eb94626ded0a5c
+    claim_hash: 2369170c8b52964d8a63bb48de926a9a42ade6f34b45fcd21dd7868cb5dff3a8
     content: James Mattis accepted the position of Secretary of Defense in the incoming Trump administration.
     original_excerpt: I was working in the Pentagon building with Mad Dog himself, who had accepted the position of secretary
       of defense in the incoming Trump administration.
@@ -38810,7 +38810,7 @@ claims:
       content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
       friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
   - claim_id: 3e74a9cc-0464-48e1-a915-9acbf7fda48b
-    claim_hash: 17b7a812af0adf07fef40b3eb82a0f4bbd03742f3948c5f61154fcbf0de2111d
+    claim_hash: b8eab5ae20df1c82866cf2e45942a7a59c5e92e9bff12b4b74139135f6889876
     content: Harold Puthoff suggested to Jay Stratton that they meet with Jim Semivan at the Pentagon.
     original_excerpt: Hal suggested to Jay that we meet with Jim at the Pentagon.
     claim_type: administrative
@@ -39021,7 +39021,7 @@ claims:
       content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
       friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
   - claim_id: 6a867e3d-a14e-4657-9dd3-69e3a2d6dd08
-    claim_hash: ae4ec2bcc2a67a7857923a9bab9091783f32de243613943e285ed1b673c2214b
+    claim_hash: 7c8066cbd93a4273f59c1975d0726c8c5a6a03ab5d2fd50748e0f0e07f24cbec
     content: Jim Semivan had heard rumblings of a real UAP (Unidentified Aerial Phenomena) programme being run out of the
       Pentagon.
     original_excerpt: He had heard rumblings of a real UAP program being run out of the Pentagon, so he was excited to have
@@ -40949,10 +40949,10 @@ claims:
     attribution_mode: bare_ok
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.96
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
         title: Luis Elizondo
@@ -43819,7 +43819,7 @@ claims:
       content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
       friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
   - claim_id: 097c2173-2164-4fa4-a132-75bec74e479f
-    claim_hash: 5651519f2adc1f3dab48358b3e9590a9909488952928d0912447d683c99d976f
+    claim_hash: 87f22bf4fa84433031a386a5775a40995cde4d3791bb55b7bcbc1bba46b6d3f0
     content: Luis Elizondo considers Bryan Bender a shrewd reporter who knew the workings of the Pentagon better than most
       people who worked there.
     original_excerpt: He was a very shrewd reporter who knew the ins and outs of the Pentagon better than most people who
@@ -43992,7 +43992,7 @@ claims:
       content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
       friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
   - claim_id: 1fb5f84b-2e87-4e83-98d3-30699c510c71
-    claim_hash: 7a0f8240b97ec348d21e880c363a3f67e918889717b5df871287ed4f3dca51f6
+    claim_hash: 68467b354181e998704fb1ca0bcade567141b79895d0d829ffac6a91ff44f5f7
     content: Bryan Bender did not come across as a believer in Unidentified Aerial Phenomena (UAP), but rather seemed interested
       in whether the Pentagon had a programme that was never disclosed to the public or Congress.
     original_excerpt: Bryan didn't come across as a "UAP believer." Rather, he seemed interested in the Pentagon having a
@@ -44219,7 +44219,7 @@ claims:
       content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
       friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
   - claim_id: c010e9f0-fd73-4afc-9ee8-34c55bfe2d4d
-    claim_hash: 557f0979254564a707b8e1998426a465a6b251b83bcaa0a5fcaae7d32f6f1cc5
+    claim_hash: 3082c5821a18e751620463e6a31655988205aed453b209e4a0ca27949cf4de44
     content: The Politico article about the Advanced Aerospace Threat Identification Program (AATIP) stated that Pentagon
       spokesperson Dana White confirmed Luis Elizondo's role in the programme.
     original_excerpt: The Politico piece in particular spelled out that the Pentagon's spokesperson, Dana White, had confirmed
@@ -44786,7 +44786,7 @@ claims:
       content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
       friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
   - claim_id: 70109fb6-1cd1-4df1-b8bb-9b6313a22794
-    claim_hash: 979113d2ded8dcaab25b707e942f83ff0229a15a0337278b8bccb35bfe21fb2f
+    claim_hash: 9c200edf3e2a10d400b56f272a2895a25b80af040ffba2d0be5adf711e4ee602
     content: James Clapper told Luis Elizondo he was surprised the Pentagon admitted it had a UAP programme and that he was
       proud of Elizondo.
     original_excerpt: He greeted us warmly, saying how surprised he was that the Pentagon admitted it had a UAP program, and
@@ -45058,7 +45058,7 @@ claims:
       content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
       friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
   - claim_id: 10e36531-a250-4832-9d33-d971309aa8db
-    claim_hash: 56e1142df9f6a0e02a517f780fed5447d8ed588133e56faa11c085a47abd1995
+    claim_hash: de007a2b6faa23b76fe7d1006549e8dc7a019341d124a8a6c465c96d1b5dfdc2
     content: Someone in the Office of the Undersecretary of Defense for Intelligence (OUSD(I)) allegedly authorised the complete
       deletion of all Luis Elizondo's electronic files, folders, and emails, under the justification that they had no historic
       value, according to a Freedom of Information Act response from the Pentagon.
@@ -45228,7 +45228,7 @@ claims:
       content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
       friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
   - claim_id: 1edefc25-ff16-4b90-967c-b0539f42faf7
-    claim_hash: b7ba80b05fc55116589817bf2c36fa9987ec8b6feca9bcfec7dcc75981774e11
+    claim_hash: 66fc5c4a762bad469eaabbb9183e5502af272f147a25a90cf4a4ca3b72c3a9f9
     content: Luis Elizondo's Pentagon job had marked the beginning of an unusual period of stability for him and Jennifer,
       who had previously been military nomads travelling wherever he was stationed.
     original_excerpt: In our youth, Jenn and I had been military nomads, traveling wherever in the world I was stationed.
@@ -49633,7 +49633,7 @@ claims:
       content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
       friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
   - claim_id: 96724a0b-4cd7-444c-84e6-77bf212d9003
-    claim_hash: fa6c6e8268ce1bd86697d63b7fcb5435e210d4b9d7c26ae599bfeae32a54bfbb
+    claim_hash: 75e1d28644eadcb0fc5f0b17a3e65ccd7afec3096a2cda144bb0948c2231923a
     content: Lue Elizondo believes that had the Pentagon done even a cursory review of its own records, it would have realised
       that it had already written reports on the nuclear-facility Unidentified Aerial Phenomena (UAP) incursions.
     original_excerpt: Had the Pentagon done even a cursory review of its own records, it would have realized that the Pentagon
@@ -49810,7 +49810,7 @@ claims:
       content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
       friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
   - claim_id: b978c751-ab3a-4696-8d7e-7164b2b78be3
-    claim_hash: 75c7b61724132759971d213a6423af813b761c06a570e2a69c6bfb0d2bef8e94
+    claim_hash: 439db7877686a0c0d2d851b41a8f4451d2a83f7be38e0b1eba719042ab404ad4
     content: Lue Elizondo met with Harvard University students participating in seminars at the Galileo Project, a project
       charged with mapping ways to investigate life in the universe.
     original_excerpt: I met with Harvard University students participating in seminars at the Galileo Project, which is charged
@@ -50192,7 +50192,7 @@ claims:
       content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
       friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
   - claim_id: 547e4e1a-db91-4538-8afb-80d259c1a735
-    claim_hash: 17cb98d7ab701345d8ef4efeb00e8ff6513357207da1dc09f761c734da2c6420
+    claim_hash: a01e355556737a2458526f06ff339998dde3d198eeb22c7aec5fad159fc73f6d
     content: A Pentagon spokesperson confirmed to the media that Luis D. Elizondo provides technical advice on a variety of
       classified topics for the United States Space Force (USSF).
     original_excerpt: 'A spokesperson confirmed to the media: “Mr. Elizondo provides technical advice on a variety of classified
@@ -58356,10 +58356,10 @@ claims:
     attribution_mode: bare_ok
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.996
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.505
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
         title: Luis Elizondo
@@ -58517,9 +58517,9 @@ claims:
     attachment: unreviewed
     entailment:
       label: neutral
-      score: 0.995
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      score: 0.977
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
         title: Luis Elizondo
@@ -59067,10 +59067,10 @@ claims:
     attribution_mode: bare_ok
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.976
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.991
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: a3a02857-b28d-434b-b1ad-e6c2d491e8bd
         title: To the Stars Academy of Arts and Science (TTSA)
@@ -59810,10 +59810,10 @@ claims:
     attribution_mode: unknown
     attachment: unreviewed
     entailment:
-      label: neutral
+      label: entails
       score: 0.999
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 00e66504-1bf3-4fcc-a4cf-96252fd4ed49
         title: Imminent (book by Luis Elizondo)
@@ -59980,7 +59980,7 @@ claims:
       content_hash: sha256:ec4ba3a9ba6cfe6598002b0b2441a39aac6847d339f856b1e24752aeb484b3a4
       friendly_name: null
   - claim_id: 347dab82-970f-4471-8a1e-4c6144e5298b
-    claim_hash: 8c5bb129a3b8c670d8f4a60b5674429317c3830d63531f25bb41d0efa820886b
+    claim_hash: 06026e30fe7402dfe459023d7aa502be98edc0b070c4da0f82cc411c1a2fd888
     content: Luis Elizondo is a former Pentagon UAP programme investigator.
     original_excerpt: Lou Elizondo, the former Pentagon UAP program investigator
     claim_type: administrative
@@ -60014,7 +60014,7 @@ claims:
     location_in_record: 00:03:31.6-00:03:35.3
     evidence:
       score: null
-      independent_sources: 2
+      independent_sources: 1
     provenance:
       record_id: 9038fd78-74aa-4d65-968a-0cd2808a3d13
       record_title: Ross Coulthart Answers Your Biggest UAP Questions | Reality Check with Ross Coulthart

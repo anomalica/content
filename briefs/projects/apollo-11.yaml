@@ -9,7 +9,7 @@ page:
   claim_count: 89
   claim_count_total: 89
 generated:
-  graph_version: '2026-09-02T13:07:29.167026+00:00'
+  graph_version: '2026-09-02T14:12:13.257772+00:00'
 size:
   claims: 89
   tokens_estimated: 14189
@@ -17,13 +17,13 @@ size:
 entailment:
   assessed: 89
   unassessed: 0
-  entails: 81
-  neutral: 7
+  entails: 85
+  neutral: 3
   contradicts: 1
   entailed_by_quote: 43
-  entailed_by_window: 38
+  entailed_by_window: 42
   entailed_by_quote_fraction: 0.483
-  entailed_by_window_fraction: 0.427
+  entailed_by_window_fraction: 0.472
 publication:
   status: published
   note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
@@ -2056,10 +2056,10 @@ claims:
     attribution_mode: unknown
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.892
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.451
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 5e47c787-005b-4c91-ba4b-c9bec48146c9
         title: National Aeronautics and Space Administration (NASA)
@@ -3480,10 +3480,10 @@ claims:
     attribution_mode: bare_ok
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.401
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 44be4886-5198-456b-94d2-680790566c53
         title: North American Rockwell
@@ -3856,10 +3856,10 @@ claims:
     attribution_mode: bare_ok
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.872
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.995
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 4056024b-6788-453b-a270-7b9890087c91
         title: Buzz Aldrin
@@ -3948,10 +3948,10 @@ claims:
     attribution_mode: bare_ok
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.993
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.995
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 4056024b-6788-453b-a270-7b9890087c91
         title: Buzz Aldrin

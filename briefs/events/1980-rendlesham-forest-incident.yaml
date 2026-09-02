@@ -9,7 +9,7 @@ page:
   claim_count: 56
   claim_count_total: 56
 generated:
-  graph_version: '2026-09-02T13:07:29.167026+00:00'
+  graph_version: '2026-09-02T14:12:13.257772+00:00'
 size:
   claims: 56
   tokens_estimated: 8264
@@ -17,13 +17,13 @@ size:
 entailment:
   assessed: 56
   unassessed: 0
-  entails: 31
-  neutral: 21
+  entails: 32
+  neutral: 20
   contradicts: 4
   entailed_by_quote: 6
-  entailed_by_window: 25
+  entailed_by_window: 26
   entailed_by_quote_fraction: 0.107
-  entailed_by_window_fraction: 0.446
+  entailed_by_window_fraction: 0.464
 publication:
   status: published
   note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
@@ -228,10 +228,10 @@ claims:
     attribution_mode: unknown
     attachment: verified
     entailment:
-      label: neutral
-      score: 0.994
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 224e26e2-c488-413d-9693-7726f1481df8
         title: 1980 Rendlesham Forest incident

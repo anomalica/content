@@ -1,5 +1,5 @@
 schema: anomalica/brief/1
-brief_hash: a15a178ac2fae537ca3c8b3f12d45fae120d6bdff7177258250c55ba567903d9
+brief_hash: 09cfe42f569cccf95606b4cdc66aad5250df54c72e6c9d4bba33a06f5d42a6bf
 page:
   kind: entity
   node_id: 501412f8-f77e-40f4-926b-18142d005cd4
@@ -9,7 +9,7 @@ page:
   claim_count: 42
   claim_count_total: 42
 generated:
-  graph_version: '2026-09-02T13:07:29.167026+00:00'
+  graph_version: '2026-09-02T14:12:13.257772+00:00'
 size:
   claims: 42
   tokens_estimated: 6323
@@ -17,13 +17,13 @@ size:
 entailment:
   assessed: 42
   unassessed: 0
-  entails: 34
-  neutral: 3
+  entails: 35
+  neutral: 2
   contradicts: 5
   entailed_by_quote: 4
-  entailed_by_window: 30
+  entailed_by_window: 31
   entailed_by_quote_fraction: 0.095
-  entailed_by_window_fraction: 0.714
+  entailed_by_window_fraction: 0.738
 publication:
   status: published
   note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
@@ -199,10 +199,10 @@ claims:
     attribution_mode: bare_ok
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.709
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.446
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 501412f8-f77e-40f4-926b-18142d005cd4
         title: Unidentified Aerial Phenomena Task Force (UAPTF)
@@ -884,7 +884,7 @@ claims:
       content_hash: sha256:e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed69a6d8ec1
       friendly_name: 2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety
   - claim_id: abf1d136-d3ae-441f-b9ad-49b04020d3be
-    claim_hash: 5d1209820164cf8ea11471d136209f236ee29ebbf236af0a6ff29fdb399cad5b
+    claim_hash: 87eb800c4ab4bd4cb5707d988ab3a1c41708d611b60bb41b1066403740445e37
     content: At the 17 May 2022 US Congress public hearing on UAP, Mike Gallagher asked Ronald S. Moultrie and Scott W. Bray
       whether they were aware of any Department of Defense or DOD contract programs focused on UAP from a technological engineering
       perspective, and both replied they were not aware of anything beyond the Navy UAP Task Force.
@@ -1938,7 +1938,7 @@ claims:
       content_hash: sha256:ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230a948eb3d
       friendly_name: null
   - claim_id: 5ac84079-812b-470c-aaa4-518596d49fd1
-    claim_hash: ccf0839c1462d332111b92a47a134d78b5b2f6bcde68531a04da251ce59233ea
+    claim_hash: 3d1e9213efb19de7e4a4aa6c498e156df012ab6f2d4f433ef3d49f255e77f377
     content: Jesse Michels considers UAP Gerb's work the open-source equivalent of what David Grusch did at the Unidentified
       Aerial Phenomena Task Force.
     original_excerpt: you're doing the open source version of what he did at the UAPTF, I think
@@ -1985,7 +1985,7 @@ claims:
       content_hash: sha256:7b2e272d7c82fdda745ee0354d7c9cc4b0d5ba5506015ca27edd9169a768b262
       friendly_name: null
   - claim_id: d8348f7d-7658-474b-a220-57fd33c048f9
-    claim_hash: cc513545f27baf3fc54875dbfe26fc52383340f8347087741224d627653e380b
+    claim_hash: d5c73649b6e6e4a70dae69d87c75c49ad399e7f6acc8e361ba796eb419d2bc78
     content: David Grusch was known within the Unidentified Aerial Phenomena Task Force for having a memory like a steel trap
       and serving as a large database of information on the subject.
     original_excerpt: he was known as like this really like, you know, his mind was a steel trap and he was just this like,

@@ -1,5 +1,5 @@
 schema: anomalica/brief/1
-brief_hash: 83bff59fd43186422aa7ba4e571937ede1acd199de504d1b845d45fdf5ce4989
+brief_hash: d69ed531f18d7c3c61cc1e5dc0e6932952b8109cd3cbd5a028cca23a481e7ee2
 page:
   kind: entity
   node_id: 4ada3704-4cd8-4cf2-b0fe-fcfb6716abaa
@@ -9,7 +9,7 @@ page:
   claim_count: 31
   claim_count_total: 31
 generated:
-  graph_version: '2026-09-02T13:07:29.167026+00:00'
+  graph_version: '2026-09-02T14:12:13.257772+00:00'
 size:
   claims: 31
   tokens_estimated: 4391
@@ -1266,7 +1266,7 @@ claims:
       content_hash: sha256:997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc07360cb2ab1
       friendly_name: null
   - claim_id: 10988019-e1bc-4e72-8302-53217dfdc95c
-    claim_hash: 839e72e205b857ce0bd8ad3cd56de1e97e98076fb1f194f623fb63625e55fc72
+    claim_hash: dde757af5c4a9124718cc5034a3f4f3c5db793709671976d7b4822106b58bfc3
     content: James Forrestal and Vannevar Bush held a lunch with Henry Tizard, the chief scientific adviser to the UK Ministry
       of Defence, on 1 October 1947.
     original_excerpt: They held a lunch, Forrestal and Bush, Vannevar Bush, held a lunch with the British scientist, Sir Henry
@@ -1297,12 +1297,12 @@ claims:
       - node_id: 7a34498a-e727-43f3-aa35-6794f29ceedb
         title: Henry Tizard
         slug: henry-tizard
+      - node_id: c9a04514-70af-422b-b625-86f8bdf6b9e0
+        title: UK Ministry of Defence
+        slug: uk-ministry-of-defence
       - node_id: ec304822-db5e-484b-9c4a-b2d43d70757a
         title: James Forrestal
         slug: james-forrestal
-      - node_id: f5a57cc7-b3d7-46be-8fb8-2e26f22d86ee
-        title: UK Ministry of Defence
-        slug: uk-ministry-of-defence
     date: '1947-10-01'
     date_end: null
     location_in_record: 00:22:43.0-00:22:56.4

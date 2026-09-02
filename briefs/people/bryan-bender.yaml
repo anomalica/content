@@ -1,5 +1,5 @@
 schema: anomalica/brief/1
-brief_hash: 3f579c9d188239e3fc26fafabf654a208e428eaa284f9069c02bf687efdcc88a
+brief_hash: e167c7a999b8976304e48b11cb2849fa75ca6a1b3116d71fbfd16d2212d30eda
 page:
   kind: entity
   node_id: 34ce20f3-f42f-459a-99e8-1e5fbfa1a01f
@@ -9,7 +9,7 @@ page:
   claim_count: 16
   claim_count_total: 16
 generated:
-  graph_version: '2026-09-02T13:07:29.167026+00:00'
+  graph_version: '2026-09-02T14:12:13.257772+00:00'
 size:
   claims: 16
   tokens_estimated: 1927
@@ -645,7 +645,7 @@ claims:
       content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
       friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
   - claim_id: 097c2173-2164-4fa4-a132-75bec74e479f
-    claim_hash: 5651519f2adc1f3dab48358b3e9590a9909488952928d0912447d683c99d976f
+    claim_hash: 87f22bf4fa84433031a386a5775a40995cde4d3791bb55b7bcbc1bba46b6d3f0
     content: Luis Elizondo considers Bryan Bender a shrewd reporter who knew the workings of the Pentagon better than most
       people who worked there.
     original_excerpt: He was a very shrewd reporter who knew the ins and outs of the Pentagon better than most people who
@@ -771,7 +771,7 @@ claims:
       content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
       friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
   - claim_id: 1fb5f84b-2e87-4e83-98d3-30699c510c71
-    claim_hash: 7a0f8240b97ec348d21e880c363a3f67e918889717b5df871287ed4f3dca51f6
+    claim_hash: 68467b354181e998704fb1ca0bcade567141b79895d0d829ffac6a91ff44f5f7
     content: Bryan Bender did not come across as a believer in Unidentified Aerial Phenomena (UAP), but rather seemed interested
       in whether the Pentagon had a programme that was never disclosed to the public or Congress.
     original_excerpt: Bryan didn't come across as a "UAP believer." Rather, he seemed interested in the Pentagon having a

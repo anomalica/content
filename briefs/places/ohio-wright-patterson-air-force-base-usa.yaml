@@ -9,7 +9,7 @@ page:
   claim_count: 51
   claim_count_total: 51
 generated:
-  graph_version: '2026-09-02T13:07:29.167026+00:00'
+  graph_version: '2026-09-02T14:12:13.257772+00:00'
 size:
   claims: 51
   tokens_estimated: 7011
@@ -17,13 +17,13 @@ size:
 entailment:
   assessed: 51
   unassessed: 0
-  entails: 23
-  neutral: 22
+  entails: 24
+  neutral: 21
   contradicts: 6
   entailed_by_quote: 11
-  entailed_by_window: 12
+  entailed_by_window: 13
   entailed_by_quote_fraction: 0.216
-  entailed_by_window_fraction: 0.235
+  entailed_by_window_fraction: 0.255
 publication:
   status: published
   note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
@@ -1747,10 +1747,10 @@ claims:
     attribution_mode: unknown
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.738
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.986
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
         title: Whitley Strieber

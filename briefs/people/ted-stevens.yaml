@@ -1,5 +1,5 @@
 schema: anomalica/brief/1
-brief_hash: 3d193878e45d00c89244479fb87db6f23ea83ece58b04a29000d2b7027b7b2ec
+brief_hash: 568c17f6e6f03e4a3225028d1eb188657dcb5d23fa03b0d11e827ef45c06d887
 page:
   kind: entity
   node_id: a932f36e-29f1-46fa-a39d-92bd5044f2f9
@@ -9,7 +9,7 @@ page:
   claim_count: 19
   claim_count_total: 19
 generated:
-  graph_version: '2026-09-02T13:07:29.167026+00:00'
+  graph_version: '2026-09-02T14:12:13.257772+00:00'
 size:
   claims: 19
   tokens_estimated: 2318
@@ -17,13 +17,13 @@ size:
 entailment:
   assessed: 19
   unassessed: 0
-  entails: 7
-  neutral: 11
+  entails: 8
+  neutral: 10
   contradicts: 1
   entailed_by_quote: 4
-  entailed_by_window: 3
+  entailed_by_window: 4
   entailed_by_quote_fraction: 0.211
-  entailed_by_window_fraction: 0.158
+  entailed_by_window_fraction: 0.211
 publication:
   status: published
   note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
@@ -439,7 +439,7 @@ claims:
       content_hash: sha256:04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb640bd12c81
       friendly_name: 2017-12-16-web-glowing-auras-and-black-money-the-pentagon-s-mysterious-u-f
   - claim_id: ffc1ca24-455d-48b5-93d0-3d5f18227e1c
-    claim_hash: b90494cf88765dc015fb804a6d7af790fbd8fcd4816fbd842de5ab625a1230bc
+    claim_hash: 13e779168f74a2a2f4cc44aa5f86aa10f06116943062fe6bed2688875e098dd0
     content: Harry Reid said 'This was so-called black money. Stevens knows about it, Inouye knows about it. But that was
       it, and that's how we wanted it,' referring to the Pentagon budget for classified programs.
     original_excerpt: “This was so-called black money,” he said. “Stevens knows about it, Inouye knows about it. But that
@@ -900,10 +900,10 @@ claims:
     attribution_mode: bare_ok
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.974
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
         title: Unidentified Flying Object (UFO)

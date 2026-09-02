@@ -1,5 +1,5 @@
 schema: anomalica/brief/1
-brief_hash: 7d66cba86643928d6dace2348c1386561785cf8ad4b0f0d0a1e52506644b6d02
+brief_hash: fec739be7cad5fb364f7764e2104985e4ab2b07509aec003323bb6b2313843a0
 page:
   kind: entity
   node_id: 816c219b-6372-49f6-9579-5eeabb9a7474
@@ -9,7 +9,7 @@ page:
   claim_count: 123
   claim_count_total: 123
 generated:
-  graph_version: '2026-09-02T13:07:29.167026+00:00'
+  graph_version: '2026-09-02T14:12:13.257772+00:00'
 size:
   claims: 123
   tokens_estimated: 16963
@@ -17,13 +17,13 @@ size:
 entailment:
   assessed: 123
   unassessed: 0
-  entails: 98
-  neutral: 23
-  contradicts: 2
+  entails: 104
+  neutral: 16
+  contradicts: 3
   entailed_by_quote: 28
-  entailed_by_window: 70
+  entailed_by_window: 76
   entailed_by_quote_fraction: 0.228
-  entailed_by_window_fraction: 0.569
+  entailed_by_window_fraction: 0.618
 publication:
   status: published
   note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
@@ -607,7 +607,7 @@ claims:
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
   - claim_id: 946320f6-fe91-4fa3-bb3f-b34b03be8cf1
-    claim_hash: 095c89d03b1daa338ddaf748ad6d4255ffd0dbb4e31832c0d1eb94626ded0a5c
+    claim_hash: 2369170c8b52964d8a63bb48de926a9a42ade6f34b45fcd21dd7868cb5dff3a8
     content: James Mattis accepted the position of Secretary of Defense in the incoming Trump administration.
     original_excerpt: I was working in the Pentagon building with Mad Dog himself, who had accepted the position of secretary
       of defense in the incoming Trump administration.
@@ -2550,10 +2550,10 @@ claims:
     attribution_mode: unknown
     attachment: unreviewed
     entailment:
-      label: neutral
+      label: entails
       score: 0.998
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
         title: Whitley Strieber
@@ -2594,10 +2594,10 @@ claims:
     attribution_mode: unknown
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.983
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 14e0aa2b-4067-4ef2-8ca8-cfdbe9697876
         title: Unidentified Aerial Phenomena disclosure
@@ -2641,10 +2641,10 @@ claims:
     attribution_mode: unknown
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.983
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.995
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 14e0aa2b-4067-4ef2-8ca8-cfdbe9697876
         title: Unidentified Aerial Phenomena disclosure
@@ -3153,10 +3153,10 @@ claims:
     attribution_mode: unknown
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.992
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.565
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 22049c25-e98a-4e2f-99ce-e8c8da9050cf
         title: USA, New Mexico, White Sands Missile Range
@@ -3463,10 +3463,10 @@ claims:
     attribution_mode: unknown
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.999
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: contradicts
+      score: 0.557
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 816c219b-6372-49f6-9579-5eeabb9a7474
         title: Donald Trump
@@ -3773,10 +3773,10 @@ claims:
     attribution_mode: unknown
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.981
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.55
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 816c219b-6372-49f6-9579-5eeabb9a7474
         title: Donald Trump
@@ -4141,10 +4141,10 @@ claims:
     attribution_mode: unknown
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.998
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
         title: Unidentified Anomalous Phenomena (UAP)
@@ -4371,9 +4371,9 @@ claims:
     attachment: unreviewed
     entailment:
       label: neutral
-      score: 0.995
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      score: 0.945
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 1d228903-0bd7-401a-9902-2656e6e85650
         title: Anna Paulina Luna

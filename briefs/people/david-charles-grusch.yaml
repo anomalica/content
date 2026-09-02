@@ -1,5 +1,5 @@
 schema: anomalica/brief/1
-brief_hash: 49af9b08ac94ce34c119b1b11d6dab4d07566b5e15bb5183255ba81e761d028c
+brief_hash: a0064a1600e3b81359201e909068e0bb28c5b119f514a61ff8e2a38cd1045ee0
 page:
   kind: entity
   node_id: d4241f5a-1063-4970-ba02-5a391c02d96d
@@ -9,7 +9,7 @@ page:
   claim_count: 447
   claim_count_total: 447
 generated:
-  graph_version: '2026-09-02T13:07:29.167026+00:00'
+  graph_version: '2026-09-02T14:12:13.257772+00:00'
 size:
   claims: 447
   tokens_estimated: 60450
@@ -17,13 +17,13 @@ size:
 entailment:
   assessed: 447
   unassessed: 0
-  entails: 384
-  neutral: 49
+  entails: 405
+  neutral: 28
   contradicts: 14
   entailed_by_quote: 131
-  entailed_by_window: 253
+  entailed_by_window: 274
   entailed_by_quote_fraction: 0.293
-  entailed_by_window_fraction: 0.566
+  entailed_by_window_fraction: 0.613
 publication:
   status: published
   note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
@@ -9891,10 +9891,10 @@ claims:
     attribution_mode: unknown
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.999
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.997
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 4fb65b2c-296a-493d-bbc7-65e4b763c1f0
         title: United States Congress
@@ -9938,9 +9938,9 @@ claims:
     attachment: unreviewed
     entailment:
       label: neutral
-      score: 0.909
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      score: 0.546
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 0bbdac2d-a855-466a-a051-2afa64a779e2
         title: UAP crash retrieval and reverse engineering program
@@ -10454,10 +10454,10 @@ claims:
     attribution_mode: unknown
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.98
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.68
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: d047a520-092f-4fe5-935d-ef4eadd7c952
         title: Legacy Program
@@ -10548,10 +10548,10 @@ claims:
     attribution_mode: unknown
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.986
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.997
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 0b47cac5-b9cc-44ea-a2aa-5cbd39a0d21a
         title: Unidentified Aerial Phenomena (UAP) Gerb
@@ -10596,10 +10596,10 @@ claims:
     attribution_mode: bare_ok
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.974
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.982
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 0b47cac5-b9cc-44ea-a2aa-5cbd39a0d21a
         title: Unidentified Aerial Phenomena (UAP) Gerb
@@ -10621,7 +10621,7 @@ claims:
       content_hash: sha256:7b2e272d7c82fdda745ee0354d7c9cc4b0d5ba5506015ca27edd9169a768b262
       friendly_name: null
   - claim_id: 5ac84079-812b-470c-aaa4-518596d49fd1
-    claim_hash: ccf0839c1462d332111b92a47a134d78b5b2f6bcde68531a04da251ce59233ea
+    claim_hash: 3d1e9213efb19de7e4a4aa6c498e156df012ab6f2d4f433ef3d49f255e77f377
     content: Jesse Michels considers UAP Gerb's work the open-source equivalent of what David Grusch did at the Unidentified
       Aerial Phenomena Task Force.
     original_excerpt: you're doing the open source version of what he did at the UAPTF, I think
@@ -10668,7 +10668,7 @@ claims:
       content_hash: sha256:7b2e272d7c82fdda745ee0354d7c9cc4b0d5ba5506015ca27edd9169a768b262
       friendly_name: null
   - claim_id: d8348f7d-7658-474b-a220-57fd33c048f9
-    claim_hash: cc513545f27baf3fc54875dbfe26fc52383340f8347087741224d627653e380b
+    claim_hash: d5c73649b6e6e4a70dae69d87c75c49ad399e7f6acc8e361ba796eb419d2bc78
     content: David Grusch was known within the Unidentified Aerial Phenomena Task Force for having a memory like a steel trap
       and serving as a large database of information on the subject.
     original_excerpt: he was known as like this really like, you know, his mind was a steel trap and he was just this like,
@@ -10963,10 +10963,10 @@ claims:
     attribution_mode: unknown
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.997
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.988
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
         title: Unidentified Anomalous Phenomena (UAP)
@@ -11228,10 +11228,10 @@ claims:
     attribution_mode: unknown
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.994
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.998
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 1c2be161-327c-411a-b948-3275c933d081
         title: Tranche 4 Unidentified Aerial Phenomena (UAP) document release
@@ -11539,10 +11539,10 @@ claims:
     attribution_mode: bare_ok
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.999
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.996
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 4fb65b2c-296a-493d-bbc7-65e4b763c1f0
         title: United States Congress
@@ -12588,10 +12588,10 @@ claims:
     attribution_mode: bare_ok
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.996
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: d4241f5a-1063-4970-ba02-5a391c02d96d
         title: David Charles Grusch
@@ -12961,10 +12961,10 @@ claims:
     attribution_mode: bare_ok
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.997
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.982
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 6bb44638-8f37-4292-be02-dede7f8a57d9
         title: Autism spectrum
@@ -13521,10 +13521,10 @@ claims:
     attribution_mode: bare_ok
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.998
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.921
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: b4258228-aad1-462d-8757-27a3a99fdaaf
         title: Reverse engineering of recovered craft of non-human origin
@@ -13962,9 +13962,9 @@ claims:
     attachment: unreviewed
     entailment:
       label: neutral
-      score: 0.992
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      score: 0.991
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
         title: Unidentified Anomalous Phenomena (UAP)
@@ -14112,10 +14112,10 @@ claims:
     attribution_mode: bare_ok
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.997
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.977
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 173ea73f-e010-4cf4-bd34-db8a03f84623
         title: Jake Sullivan
@@ -14299,10 +14299,10 @@ claims:
     attribution_mode: unknown
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.965
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.998
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
         title: Unidentified Flying Object (UFO)
@@ -15030,10 +15030,10 @@ claims:
     attribution_mode: unknown
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.993
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.589
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: b4258228-aad1-462d-8757-27a3a99fdaaf
         title: Reverse engineering of recovered craft of non-human origin
@@ -15529,10 +15529,10 @@ claims:
     attribution_mode: unknown
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.989
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 1c2be161-327c-411a-b948-3275c933d081
         title: Tranche 4 Unidentified Aerial Phenomena (UAP) document release
@@ -15858,10 +15858,10 @@ claims:
     attribution_mode: bare_ok
     attachment: unreviewed
     entailment:
-      label: neutral
+      label: entails
       score: 0.999
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
         title: Unidentified Anomalous Phenomena (UAP)
@@ -15900,10 +15900,10 @@ claims:
     attribution_mode: bare_ok
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.632
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.421
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 3c0cad35-5a54-40da-b3a9-6a20ca78623b
         title: 1994 Ariel School Unidentified Flying Object (UFO) sighting
@@ -16033,10 +16033,10 @@ claims:
     attribution_mode: unknown
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.583
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
         title: Unidentified Anomalous Phenomena (UAP)
@@ -17412,10 +17412,10 @@ claims:
     attribution_mode: bare_ok
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.966
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.978
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 4fb65b2c-296a-493d-bbc7-65e4b763c1f0
         title: United States Congress
@@ -17719,9 +17719,9 @@ claims:
     attachment: unreviewed
     entailment:
       label: neutral
-      score: 0.996
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      score: 0.95
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 64d41f78-598d-433c-a49d-f0d19fd62b27
         title: Special Access Program (SAP)
@@ -17883,10 +17883,10 @@ claims:
     attribution_mode: unknown
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.993
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: d4241f5a-1063-4970-ba02-5a391c02d96d
         title: David Charles Grusch
@@ -18047,10 +18047,10 @@ claims:
     attribution_mode: bare_ok
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.998
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.492
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: d4241f5a-1063-4970-ba02-5a391c02d96d
         title: David Charles Grusch
@@ -18623,10 +18623,10 @@ claims:
     attribution_mode: bare_ok
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.993
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.998
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: d4241f5a-1063-4970-ba02-5a391c02d96d
         title: David Charles Grusch

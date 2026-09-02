@@ -9,7 +9,7 @@ page:
   claim_count: 18
   claim_count_total: 18
 generated:
-  graph_version: '2026-09-02T13:07:29.167026+00:00'
+  graph_version: '2026-09-02T14:12:13.257772+00:00'
 size:
   claims: 18
   tokens_estimated: 3039
@@ -17,13 +17,13 @@ size:
 entailment:
   assessed: 18
   unassessed: 0
-  entails: 9
-  neutral: 9
+  entails: 10
+  neutral: 8
   contradicts: 0
   entailed_by_quote: 6
-  entailed_by_window: 3
+  entailed_by_window: 4
   entailed_by_quote_fraction: 0.333
-  entailed_by_window_fraction: 0.167
+  entailed_by_window_fraction: 0.222
 publication:
   status: published
   note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
@@ -831,10 +831,10 @@ claims:
     attribution_mode: unknown
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.627
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.421
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 4760afb8-2a14-4c60-8924-e2956b67e73c
         title: North American Aerospace Defense Command (NORAD)

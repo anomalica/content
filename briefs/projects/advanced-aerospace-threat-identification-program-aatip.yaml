@@ -1,5 +1,5 @@
 schema: anomalica/brief/1
-brief_hash: 01d3c6dd16c45d84481e9c9cbb96bf5aa24176a6a6d2bdd93e9a3d7c446774e5
+brief_hash: 362f1fbfbcaf06f9948f07efcf60382e6a9205c28972a18d35254ed33e0c25af
 page:
   kind: entity
   node_id: 6c1618c8-50db-42c9-860e-6d736ef280bf
@@ -9,7 +9,7 @@ page:
   claim_count: 277
   claim_count_total: 277
 generated:
-  graph_version: '2026-09-02T13:07:29.167026+00:00'
+  graph_version: '2026-09-02T14:12:13.257772+00:00'
 size:
   claims: 277
   tokens_estimated: 42679
@@ -17,13 +17,13 @@ size:
 entailment:
   assessed: 277
   unassessed: 0
-  entails: 192
-  neutral: 68
+  entails: 196
+  neutral: 64
   contradicts: 17
   entailed_by_quote: 60
-  entailed_by_window: 132
+  entailed_by_window: 136
   entailed_by_quote_fraction: 0.217
-  entailed_by_window_fraction: 0.477
+  entailed_by_window_fraction: 0.491
 publication:
   status: published
   note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
@@ -674,7 +674,7 @@ claims:
       content_hash: sha256:04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb640bd12c81
       friendly_name: 2017-12-16-web-glowing-auras-and-black-money-the-pentagon-s-mysterious-u-f
   - claim_id: f0561d20-d166-4d65-8b3f-923674e03047
-    claim_hash: 168d953383e9c4c6d0077c9dca0c9a5cadee5273917cc65b9cabda36fad2199a
+    claim_hash: 61455343e3756c4eaaae2fc36619203fe1218a4050ff80dad0c125218a903549
     content: A 2009 Pentagon briefing summary of the Advanced Aerospace Threat Identification Program (AATIP), prepared by
       its director at the time, asserted that 'what was considered science fiction is now science fact,' and that the United
       States was incapable of defending itself against some of the technologies discovered.
@@ -1393,7 +1393,7 @@ claims:
       content_hash: sha256:04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb640bd12c81
       friendly_name: 2017-12-16-web-glowing-auras-and-black-money-the-pentagon-s-mysterious-u-f
   - claim_id: ca009abc-6bac-44bb-9218-299ce16cf0ff
-    claim_hash: 0408d7775af8354af870f5b4a2c321373f904af97c1d6d9e7538a1cf0f6edda0
+    claim_hash: a2a43ce8acf536c1e4546c04301fe2b21f02bf85bfe87aa204f670e3287ec630
     content: The Pentagon wanted the Advanced Aerospace Threat Identification Program's funding to be difficult to find within
       the Department of Defense budget.
     original_excerpt: Which was how the Pentagon wanted it.
@@ -1432,7 +1432,7 @@ claims:
       content_hash: sha256:04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb640bd12c81
       friendly_name: 2017-12-16-web-glowing-auras-and-black-money-the-pentagon-s-mysterious-u-f
   - claim_id: 2c353fc8-c99c-4494-9a8a-24384eda5479
-    claim_hash: e1d930c74c881ed523e7273ea40ca166c270cac04a3918cd4affd46adad9cbc5
+    claim_hash: 565ab82024393ba62cf8492adb93a97bf67a09e21070c5eca61a628c13cf6c39
     content: In response to questions from The New York Times, Pentagon officials in December 2017 acknowledged the existence
       of the Advanced Aerospace Threat Identification Program (AATIP), which began as part of the Defense Intelligence Agency
       (DIA).
@@ -1479,7 +1479,7 @@ claims:
       content_hash: sha256:04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb640bd12c81
       friendly_name: 2017-12-16-web-glowing-auras-and-black-money-the-pentagon-s-mysterious-u-f
   - claim_id: a3bd6cbf-9fb3-4664-b0de-a25f97a5c4c3
-    claim_hash: 880ceb596fe920cf1439a36c35c149871d5defccd633c36293126fd28d46e1ac
+    claim_hash: 58f78b066338ac1151d841a46ba0d758aea0dfe3dd7fac73c841480c746dffbd
     content: Pentagon officials insisted that the Advanced Aerospace Threat Identification Program (AATIP) had ended after
       five years, in 2012.
     original_excerpt: Officials insisted that the effort had ended after five years, in 2012.
@@ -1695,7 +1695,7 @@ claims:
       content_hash: sha256:04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb640bd12c81
       friendly_name: 2017-12-16-web-glowing-auras-and-black-money-the-pentagon-s-mysterious-u-f
   - claim_id: e8b66203-41b2-4870-a6c0-36be7b16b0b6
-    claim_hash: b23d987229a1b23547059e89d80be8a6e9cb0a4118044bfc6d2e78ebfc30a088
+    claim_hash: 3e2b9f2c53bc86ad0e8e77f73e8e69868bae5603ff1444f9b4a26dc7306e3607
     content: The Advanced Aerospace Threat Identification Program (AATIP) was run by military intelligence official Luis Elizondo,
       on the fifth floor of the Pentagon's C Ring.
     original_excerpt: It was run by a military intelligence official, Luis Elizondo, on the fifth floor of the Pentagon’s
@@ -2127,7 +2127,7 @@ claims:
       content_hash: sha256:04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb640bd12c81
       friendly_name: 2017-12-16-web-glowing-auras-and-black-money-the-pentagon-s-mysterious-u-f
   - claim_id: f30963ca-3688-43c7-a116-9240d6480a50
-    claim_hash: 00f5c052a9f94001fa3e6a6ab1837b621a75d5a73a5db5c5f8edb20df54eac5a
+    claim_hash: 2871a90fb4649b2b92a2ff7159aa796e8fa4f85bbe77616682a1013cd73bc5c2
     content: Backers of the Advanced Aerospace Threat Identification Program (AATIP) say that while the Pentagon ended funding
       for the effort in 2012, the program remains in existence.
     original_excerpt: But its backers say that, while the Pentagon ended funding for the effort at that time, the program
@@ -4539,10 +4539,10 @@ claims:
     attribution_mode: bare_ok
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.994
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.996
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 5ab2008d-7e60-42e2-a4ad-f7a27e239761
         title: Anomalous Aerial Vehicle (AAV)
@@ -4769,10 +4769,10 @@ claims:
     attribution_mode: bare_ok
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.709
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.446
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 501412f8-f77e-40f4-926b-18142d005cd4
         title: Unidentified Aerial Phenomena Task Force (UAPTF)
@@ -7778,10 +7778,10 @@ claims:
     attribution_mode: bare_ok
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.99
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.421
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 6c1618c8-50db-42c9-860e-6d736ef280bf
         title: Advanced Aerospace Threat Identification Program (AATIP)
@@ -10381,7 +10381,7 @@ claims:
       content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
       friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
   - claim_id: c010e9f0-fd73-4afc-9ee8-34c55bfe2d4d
-    claim_hash: 557f0979254564a707b8e1998426a465a6b251b83bcaa0a5fcaae7d32f6f1cc5
+    claim_hash: 3082c5821a18e751620463e6a31655988205aed453b209e4a0ca27949cf4de44
     content: The Politico article about the Advanced Aerospace Threat Identification Program (AATIP) stated that Pentagon
       spokesperson Dana White confirmed Luis Elizondo's role in the programme.
     original_excerpt: The Politico piece in particular spelled out that the Pentagon's spokesperson, Dana White, had confirmed
@@ -12103,10 +12103,10 @@ claims:
     attribution_mode: bare_ok
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.994
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.985
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 6c1618c8-50db-42c9-860e-6d736ef280bf
         title: Advanced Aerospace Threat Identification Program (AATIP)

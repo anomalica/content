@@ -1,5 +1,5 @@
 schema: anomalica/brief/1
-brief_hash: 4a46a696d09f12804dbe1bd69b493d6a5b7705de9b78e5a76db7f9f4fd4c98e5
+brief_hash: c83cbba8aa619760113a0863c62b00a314b5aee54a7ae7345b8b7016b0952874
 page:
   kind: entity
   node_id: 1c74a06c-1b3f-43b4-b54c-3f6b44fd8192
@@ -9,7 +9,7 @@ page:
   claim_count: 16
   claim_count_total: 16
 generated:
-  graph_version: '2026-09-02T13:07:29.167026+00:00'
+  graph_version: '2026-09-02T14:12:13.257772+00:00'
 size:
   claims: 16
   tokens_estimated: 2395
@@ -17,13 +17,13 @@ size:
 entailment:
   assessed: 16
   unassessed: 0
-  entails: 15
-  neutral: 1
+  entails: 16
+  neutral: 0
   contradicts: 0
   entailed_by_quote: 8
-  entailed_by_window: 7
+  entailed_by_window: 8
   entailed_by_quote_fraction: 0.5
-  entailed_by_window_fraction: 0.438
+  entailed_by_window_fraction: 0.5
 publication:
   status: published
   note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
@@ -178,7 +178,7 @@ related_nodes:
     node_type: person
     slug: whitley-strieber
     shared_claims: 1
-  - node_id: 459eb5cf-ea76-4cad-9421-a726261cd3a2
+  - node_id: c8b2f71c-febf-446f-9b1e-3e6bdc6c86c5
     title: William J. Clinton
     node_type: person
     slug: william-j-clinton
@@ -699,7 +699,7 @@ claims:
       content_hash: sha256:d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7b5a1b98d
       friendly_name: null
   - claim_id: 7be64312-c7b5-4528-af89-1659f36042a5
-    claim_hash: 96199762c0839795219ffd9fbd845b14aee2d7dd9133bc6c24e51304e4d3698d
+    claim_hash: d1a064184c4f18034ea7584c9275f232432da81d23ad4ad8af52efd38a12a6e4
     content: Bill Clinton and Barack Obama came into office without being connected to the United States establishment, unlike
       Ronald Reagan, Richard Nixon and the Bush family, in Jason Samosa's view.
     original_excerpt: Clinton and Obama coming into office really weren't connected to the establishment of the United States.
@@ -728,12 +728,12 @@ claims:
       - node_id: 3690087e-5e65-4693-8b72-f144d9963dd5
         title: Richard Nixon
         slug: richard-nixon
-      - node_id: 459eb5cf-ea76-4cad-9421-a726261cd3a2
-        title: William J. Clinton
-        slug: william-j-clinton
       - node_id: 65058869-076f-47d0-92ea-f8daf08b94cf
         title: Barack Obama
         slug: barack-obama
+      - node_id: c8b2f71c-febf-446f-9b1e-3e6bdc6c86c5
+        title: William J. Clinton
+        slug: william-j-clinton
       - node_id: dba2f206-7088-4fe9-9fc5-d7228a9149f4
         title: George Herbert Walker Bush
         slug: george-herbert-walker-bush
@@ -816,10 +816,10 @@ claims:
     attribution_mode: bare_ok
     attachment: unreviewed
     entailment:
-      label: neutral
+      label: entails
       score: 0.996
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 1c74a06c-1b3f-43b4-b54c-3f6b44fd8192
         title: Ronald Reagan

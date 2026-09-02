@@ -1,5 +1,5 @@
 schema: anomalica/brief/1
-brief_hash: 48e7049c49700e5f2f1cec547c3efdab56db5288d802b3ff2a0fd01fd35666f5
+brief_hash: cb110e87610ff07993fb1684ae85861e2a6310ae10a48f7a876e6f5a4548aca1
 page:
   kind: entity
   node_id: 41c9281c-4a11-4399-b324-a8486a96c766
@@ -9,7 +9,7 @@ page:
   claim_count: 428
   claim_count_total: 428
 generated:
-  graph_version: '2026-09-02T13:07:29.167026+00:00'
+  graph_version: '2026-09-02T14:12:13.257772+00:00'
 size:
   claims: 428
   tokens_estimated: 63370
@@ -17,13 +17,13 @@ size:
 entailment:
   assessed: 428
   unassessed: 0
-  entails: 392
-  neutral: 29
+  entails: 409
+  neutral: 12
   contradicts: 7
   entailed_by_quote: 183
-  entailed_by_window: 209
+  entailed_by_window: 226
   entailed_by_quote_fraction: 0.428
-  entailed_by_window_fraction: 0.488
+  entailed_by_window_fraction: 0.528
 publication:
   status: published
   note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
@@ -6369,10 +6369,10 @@ claims:
     attribution_mode: unknown
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.998
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 41c9281c-4a11-4399-b324-a8486a96c766
         title: Remote viewing (RV)
@@ -6458,10 +6458,10 @@ claims:
     attribution_mode: unknown
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.998
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 41c9281c-4a11-4399-b324-a8486a96c766
         title: Remote viewing (RV)
@@ -6500,10 +6500,10 @@ claims:
     attribution_mode: unknown
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.996
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.998
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 41c9281c-4a11-4399-b324-a8486a96c766
         title: Remote viewing (RV)
@@ -12183,10 +12183,10 @@ claims:
     attribution_mode: unknown
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.993
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.959
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 41c9281c-4a11-4399-b324-a8486a96c766
         title: Remote viewing (RV)
@@ -12974,9 +12974,9 @@ claims:
     attachment: unreviewed
     entailment:
       label: neutral
-      score: 0.998
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      score: 0.557
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 41c9281c-4a11-4399-b324-a8486a96c766
         title: Remote viewing (RV)
@@ -13328,7 +13328,7 @@ claims:
       content_hash: sha256:ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b16ac4758
       friendly_name: 2019-ebook-american-cosmic
   - claim_id: 8acd5d8a-bab2-41ab-8993-79923dfcdc0d
-    claim_hash: 7e8e4ca8847f8fb292f1d15e928fcd0c65c99454d5698fcf7dc401f049ccd245
+    claim_hash: 723b5966e1146d94646258216b2b4fa7418dc7f934275f5cd823b905a545a469
     content: Edgar Mitchell conducted remote viewing experiments in space during the Apollo lunar mission.
     original_excerpt: What was more surprising to me was that he had conducted remote viewing experiments in space during
       the Apollo lunar mission.
@@ -13462,7 +13462,7 @@ claims:
       content_hash: sha256:ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b16ac4758
       friendly_name: 2019-ebook-american-cosmic
   - claim_id: 48b8a081-6975-4e57-9693-f7f79c1a657a
-    claim_hash: 318f15d1bd79edd39774789e823c53e80de6f9919e1318fb4f9bcb48b639aed9
+    claim_hash: 4bba1b828000306fa067b5410abd63d9db6e1c87efc1d58e1e7c69de8da12e9b
     content: Edgar Mitchell's dyadic model of consciousness explains how remote viewing, telepathy, and extraordinary mystical
       experiences, such as his own experience of samadhi while travelling back from the moon, are possible.
     original_excerpt: 'Edgar’s theory is elaborated in his idea of the “dyadic model” of consciousness. This model, according
@@ -13901,10 +13901,10 @@ claims:
     attribution_mode: bare_ok
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.998
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.997
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 41c9281c-4a11-4399-b324-a8486a96c766
         title: Remote viewing (RV)
@@ -14116,10 +14116,10 @@ claims:
     attribution_mode: unknown
     attachment: unreviewed
     entailment:
-      label: neutral
+      label: entails
       score: 0.998
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 21e9e5d4-d910-4ff0-b875-a44d75422746
         title: Ed Dames
@@ -15500,10 +15500,10 @@ claims:
     attribution_mode: unknown
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.99
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.998
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 21e9e5d4-d910-4ff0-b875-a44d75422746
         title: Ed Dames
@@ -15580,10 +15580,10 @@ claims:
     attribution_mode: unknown
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.999
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.994
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 21e9e5d4-d910-4ff0-b875-a44d75422746
         title: Ed Dames
@@ -15833,10 +15833,10 @@ claims:
     attribution_mode: bare_ok
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.946
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.998
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 079d4381-4273-418b-bc9a-468623f95c6e
         title: Jesse Mitchells
@@ -16022,10 +16022,10 @@ claims:
     attribution_mode: unknown
     attachment: unreviewed
     entailment:
-      label: neutral
+      label: entails
       score: 0.999
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 24d00311-06ac-46a1-a2f5-c99f3f8e21b2
         title: Chris Ramsay
@@ -16067,10 +16067,10 @@ claims:
     attribution_mode: unknown
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.987
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 24d00311-06ac-46a1-a2f5-c99f3f8e21b2
         title: Chris Ramsay
@@ -16454,10 +16454,10 @@ claims:
     attribution_mode: bare_ok
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.998
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 0d4dfba6-a53b-4f23-a2ad-e4c9bea44076
         title: Robert Bigelow
@@ -17461,10 +17461,10 @@ claims:
     attribution_mode: unknown
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.998
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.677
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 0676cb5b-da79-42d5-a3c1-58646f2d0f3b
         title: Entropy
@@ -17509,10 +17509,10 @@ claims:
     attribution_mode: unknown
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.994
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 41c9281c-4a11-4399-b324-a8486a96c766
         title: Remote viewing (RV)
@@ -17595,10 +17595,10 @@ claims:
     attribution_mode: bare_ok
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.99
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.869
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 41c9281c-4a11-4399-b324-a8486a96c766
         title: Remote viewing (RV)
@@ -17858,10 +17858,10 @@ claims:
     attribution_mode: bare_ok
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.977
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 41c9281c-4a11-4399-b324-a8486a96c766
         title: Remote viewing (RV)
@@ -18111,10 +18111,10 @@ claims:
     attribution_mode: unknown
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.984
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.998
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 0676cb5b-da79-42d5-a3c1-58646f2d0f3b
         title: Entropy

@@ -1,5 +1,5 @@
 schema: anomalica/brief/1
-brief_hash: c4342ac75dcfa2883858d6dff979700a030f7b6bf3c01174c172d58a81fa83cc
+brief_hash: 2f43a56fbd359feae66cd2b7775cf83f3d680170960b2d8bb667c38542bef8f6
 page:
   kind: entity
   node_id: 32b98a17-be55-4b0f-8e10-9d377e1e8b33
@@ -9,7 +9,7 @@ page:
   claim_count: 331
   claim_count_total: 331
 generated:
-  graph_version: '2026-09-02T13:07:29.167026+00:00'
+  graph_version: '2026-09-02T14:12:13.257772+00:00'
 size:
   claims: 331
   tokens_estimated: 49146
@@ -17,13 +17,13 @@ size:
 entailment:
   assessed: 331
   unassessed: 0
-  entails: 255
-  neutral: 70
+  entails: 264
+  neutral: 61
   contradicts: 6
   entailed_by_quote: 154
-  entailed_by_window: 101
+  entailed_by_window: 110
   entailed_by_quote_fraction: 0.465
-  entailed_by_window_fraction: 0.305
+  entailed_by_window_fraction: 0.332
 publication:
   status: published
   note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
@@ -251,9 +251,9 @@ claims:
     attachment: unreviewed
     entailment:
       label: neutral
-      score: 0.588
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      score: 0.531
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 216c2ce6-03fb-441e-bad6-759427b0b8fb
         title: Avro Canada VZ-9 Avrocar
@@ -774,10 +774,10 @@ claims:
     attribution_mode: bare_ok
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.999
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.998
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 06feb3fb-cb2f-4f4d-9a39-917259b6709a
         title: William T. Powers
@@ -3586,10 +3586,10 @@ claims:
     attribution_mode: bare_ok
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.912
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.587
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 32b98a17-be55-4b0f-8e10-9d377e1e8b33
         title: United States Air Force (USAF)
@@ -4361,10 +4361,10 @@ claims:
     attribution_mode: bare_ok
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.986
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.997
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 21e9e5d4-d910-4ff0-b875-a44d75422746
         title: Ed Dames
@@ -4402,10 +4402,10 @@ claims:
     attribution_mode: bare_ok
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.998
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 21e9e5d4-d910-4ff0-b875-a44d75422746
         title: Ed Dames
@@ -9796,7 +9796,7 @@ claims:
       content_hash: sha256:8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a94774067868
       friendly_name: 2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a
   - claim_id: e523c48c-aed3-4378-8039-aa38622d3a42
-    claim_hash: e44a941332379b56887e3736592fc40f968a084224349dfd7be07912d0ac73e8
+    claim_hash: e01a4ff67007540e65757a9818f1e5aa6c3abd74568cfca4517bf82aeade1d1c
     content: President Bill Clinton said that as far as he knew, an alien spacecraft did not crash in Roswell, New Mexico,
       in 1947, that if the United States Air Force did recover alien bodies they did not tell him about it, and that he wanted
       to know.
@@ -9805,7 +9805,7 @@ claims:
     claim_type: opinion
     attestation: first_hand
     speaker:
-      node_id: 459eb5cf-ea76-4cad-9421-a726261cd3a2
+      node_id: c8b2f71c-febf-446f-9b1e-3e6bdc6c86c5
       title: William J. Clinton
     provenance_chain:
       origin_kind: speaker
@@ -9825,12 +9825,12 @@ claims:
       - node_id: 35380539-7caf-46ec-9614-1956abdd7e7a
         title: USA, New Mexico, Roswell
         slug: new-mexico-roswell-usa
-      - node_id: 459eb5cf-ea76-4cad-9421-a726261cd3a2
-        title: William J. Clinton
-        slug: william-j-clinton
       - node_id: b8ea9860-ae6e-4835-8114-6a6626f28797
         title: Roswell incident (1947)
         slug: roswell-incident-1947
+      - node_id: c8b2f71c-febf-446f-9b1e-3e6bdc6c86c5
+        title: William J. Clinton
+        slug: william-j-clinton
     date: null
     date_end: null
     location_in_record: char:53986-54180
@@ -10158,7 +10158,7 @@ claims:
       content_hash: sha256:8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a94774067868
       friendly_name: 2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a
   - claim_id: 7bb9ecce-9536-45e6-9be4-2fd6e572518f
-    claim_hash: 41bf658d2bbb88b67f7345f834ae15696edd10ca8d0548246bf3bfc7ba8a27d2
+    claim_hash: c0fe3e77da08538c373b0c9fbc062cb77b81496bdec8b14746e89bc427551f8c
     content: Four air accidents were reported by the Army Air Force in New Mexico during July 1947, all involving military
       aircraft and occurring after 1947-07-08, the date the Roswell Army Air Field public information office first reported
       the crash and recovery of a flying disc near Roswell.
@@ -10180,12 +10180,12 @@ claims:
       model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
       premise: quote
     node_refs:
+      - node_id: 24ba32dd-fc10-4ee4-bae2-9133cf301509
+        title: USA, New Mexico, Roswell Army Air Field
+        slug: new-mexico-roswell-army-air-field-usa
       - node_id: 32b98a17-be55-4b0f-8e10-9d377e1e8b33
         title: United States Air Force (USAF)
         slug: united-states-air-force-usaf
-      - node_id: 3e507b49-d600-474f-8995-453932dc1e01
-        title: USA, New Mexico, Roswell Army Air Field
-        slug: new-mexico-roswell-army-air-field-usa
       - node_id: 480b089d-f501-4a7b-8351-e010fe17a50a
         title: Government Accountability Office (GAO) Roswell Report (1995)
         slug: government-accountability-office-gao-roswell-report-1995
@@ -13139,10 +13139,10 @@ claims:
     attribution_mode: unknown
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.985
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.943
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 0b47cac5-b9cc-44ea-a2aa-5cbd39a0d21a
         title: Unidentified Aerial Phenomena (UAP) Gerb
@@ -13311,10 +13311,10 @@ claims:
     attribution_mode: unknown
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.963
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.976
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 32b98a17-be55-4b0f-8e10-9d377e1e8b33
         title: United States Air Force (USAF)
@@ -13575,10 +13575,10 @@ claims:
     attribution_mode: bare_ok
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.978
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.595
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 32b98a17-be55-4b0f-8e10-9d377e1e8b33
         title: United States Air Force (USAF)
@@ -13620,10 +13620,10 @@ claims:
     attribution_mode: bare_ok
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.845
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.984
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 32b98a17-be55-4b0f-8e10-9d377e1e8b33
         title: United States Air Force (USAF)
@@ -14333,10 +14333,10 @@ claims:
     attribution_mode: unknown
     attachment: unreviewed
     entailment:
-      label: neutral
-      score: 0.844
-      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
-      premise: quote
+      label: entails
+      score: 0.667
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 32b98a17-be55-4b0f-8e10-9d377e1e8b33
         title: United States Air Force (USAF)

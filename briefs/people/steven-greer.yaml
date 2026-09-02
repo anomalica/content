@@ -1,5 +1,5 @@
 schema: anomalica/brief/1
-brief_hash: 9719ec56a172947e2010cfb1d0573464d885705ba6f4cb5bfdbd768b50cac726
+brief_hash: c499d9c53f78126c1e53b1e8211653c45e29ad5479933f0ed1c978073e1b932a
 page:
   kind: entity
   node_id: e4389da4-1980-4cb6-b557-6c563f9b134a
@@ -9,7 +9,7 @@ page:
   claim_count: 68
   claim_count_total: 68
 generated:
-  graph_version: '2026-09-02T13:07:29.167026+00:00'
+  graph_version: '2026-09-02T14:12:13.257772+00:00'
 size:
   claims: 68
   tokens_estimated: 10953
@@ -1588,7 +1588,7 @@ claims:
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
   - claim_id: 3af1b87d-8aee-4450-862a-35c0c3bbda74
-    claim_hash: ab49567a305aa28187711af70d9b464d06db385bb62cfb9f57cf7e5e231d7991
+    claim_hash: a3f233eef7649fa655c9ffd2ef0b2437cc4a0edb6b8c6a09db16b6315704dd66
     content: In 1990, Steven Greer founded the Center for the Study of Extra-terrestrial Intelligence (CSETI), a lobby group
       separate from the non-profit SETI (Search for Extra-terrestrial Intelligence) Institute formerly funded by NASA.
     original_excerpt: In 1990, Greer had founded the Center for the Study of Extra-terrestrial Intelligence (CSETI), a lobby
@@ -2029,7 +2029,7 @@ claims:
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
   - claim_id: 4c2b8af4-a4eb-49ca-b1a2-5975b240ceb1
-    claim_hash: 0ea4311ac58a88af0f7c5bb445ab8f602481357fa66f7b44d8238a6cdf369fdd
+    claim_hash: 381728f34f03c3ea0fc0f2f21fa4151f6db3b0b712ca45378d774657871ddc20
     content: Steven Greer has claimed that when he sent a briefing document to Bill Clinton, a response came back that the
       president couldn't get anywhere with UFOs and didn't want to push on the issue because a very good friend of his came
       to his home and said he would end up assassinated like John F. Kennedy.
@@ -2053,15 +2053,15 @@ claims:
       model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
       premise: quote
     node_refs:
-      - node_id: 459eb5cf-ea76-4cad-9421-a726261cd3a2
-        title: William J. Clinton
-        slug: william-j-clinton
       - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
         title: Unidentified Flying Object (UFO)
         slug: unidentified-flying-object-ufo
       - node_id: bf1fd77c-31b4-481a-bd6b-96c58ffcae88
         title: Assassination of John F. Kennedy
         slug: assassination-of-john-f-kennedy
+      - node_id: c8b2f71c-febf-446f-9b1e-3e6bdc6c86c5
+        title: William J. Clinton
+        slug: william-j-clinton
       - node_id: e4389da4-1980-4cb6-b557-6c563f9b134a
         title: Steven Greer
         slug: steven-greer
