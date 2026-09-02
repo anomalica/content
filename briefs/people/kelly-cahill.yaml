@@ -12,7 +12,7 @@ generated:
   graph_version: '2026-09-01T10:10:49.863545+00:00'
 size:
   claims: 74
-  tokens_estimated: 23837
+  tokens_estimated: 11997
   sized_against: 1050000
 publication:
   status: published
